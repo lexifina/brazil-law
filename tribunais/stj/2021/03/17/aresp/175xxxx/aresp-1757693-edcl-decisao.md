@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LEICE GONCALVES VAZ à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 203, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CITAÇÃO FRUSTRADA. ARRESTO ONLINE. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 209-221, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão e erro material no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Sem impugnação, conforme certificado à fl. 223 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição,obscuridade ou erro material no julgado embargado, situação que não seobserva na espécie.
+A decisão embargada decidiu a controvérsia com base emfundamentação sólida, sem omissões ou contradições. Na verdade, somente seresolveu a celeuma em sentido contrário ao pretendido pela parteinsurgente. Ademais, o órgão julgador não está obrigado a responder aquestionamentos das partes, mas tão só a declinar as razões de seuconvencimento motivado, oque não se confunde com omissão oucontradição, tendo em vista que apenas apresentou fundamentos diferentesdos pretendidos pela parte.
+Dito isso, cabe rememorar que a ora embargante, em desfavor do acórdãoproferido pelo TJGO, interpôs recurso especial (fls. 86-109, e-STJ),o qual não foi admitido (fls. 169-170, e-STJ), ensejando o manejo doagravo em recurso especial (fls. 173-184, e-STJ), do qual se conheceupara negar provimento ao recurso especial.
+Nas razões do recurso especial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 7º, 10, 830 e 854 do Código de Processo Civil de 2015.
+Sustentou, em suma, que o procedimento de bloqueio de valores, via Bacenjud, trata de procedimento acautelatório e, por isso, para ser efetivado, requer a prévia citação da executada, bem como a demonstração dos requisitos para sua concessão, o que não foi observado no presente feito.
+Na decisão embargada, reconheceu-se: a) que a decisão estadual encontra-se em harmonia com a jurisprudência desta Corte, aplicando-se a Súmula 83/STJ à espécie, óbice que impediu a análise do reclamo por ambas as alíneas do permissivo constitucional; e b) incidência da Súmula 7/STJ para revisão das conclusões estaduais, o que tornou igualmente prejudicada a análise da divergência apontada.
+Na hipótese, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 78-80, sem grifos no original):
+De início, cumpre registrar que a sistemática processual recente, no tocante ao processo de execução, visa primordialmente garantir a satisfação do direito do credor.
+Nesse desiderato, instituiu o legislador dispositivos legais que primam pela máxima efetividade da atividade executiva, materializados em mecanismos mais céleres e econômicos, garantidores da reparação da violação perpetrada, qual seja, o inadimplemento.
+(..)
+O arresto consubstancia-se na constrição de bens em nome do executado, quando não encontrado o mesmo para receber a citação, devendo ser convertido em penhora após perfectibilizado o ato citatório do devedor.
+(..)
+Veja-se, pois, que a doutrina entende que, como se trata de ato executivo de pré-penhora, não há nenhuma exigência de se provar perigo de
+ineficácia do resultado do processo para a concessão do arresto executivo, sendo comportável demonstrar tão somente a não localização do executado para se efetivar o ato de citação (NEVES, Daniel Amorim Assumpção. Manual de direito processual civil. v. único. 8 ed. Salvador: Ed. JusPodivm, 2016. p. 1152).
+No caso dos autos, embora tentada a citação da parte executada, esta restou frustrada em razão de não haver sido a mesma localizada no endereço indicado do mandado, razão pela qual ressai comportável o deferimento do pedido de arresto, "ex vi" do disposto no artigo 830 do Código de Processo Civil.
+(..)
+Outrossim, vale consignar que a medida constritiva do arresto não exige demonstração de que foram exauridas todas as tentativas de se citar a parte devedora. Aliás, tal medida é processualmente admissível quando o patrimônio da parte executada é localizado e a tentativa de sua citação revela-se frustrada.
+(..)
+Nesse diapasão, a manutenção da decisão agravada é medida que se impõe.
+Da transcrição acima, constata-se que a decisão estadual encontra-se em harmonia com a jurisprudência desta Corte, que se firmou no sentido de que, visando à celeridade e efetividade da prestação jurisdicional, uma vez frustrada a citação do executado e havendo riscos à efetividade da execução, é possível deferir o arresto (pré-penhora) de valores depositados em contas bancárias do devedor, como ocorreu no caso em apreço.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. ARRESTO EXECUTIVO. TENTATIVA DE LOCALIZAÇÃO DO EXECUTADO FRUSTRADA. ADMISSIBILIDADE.
+1. Julgamento sob a égide do CPC/73.
+2. A comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem, pode ocorrer por meio de agravo interno. Precedente.
+3. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração.
+4. Frustrada a tentativa de localização do executado, é admissível o arresto de seus bens na modalidade executiva (on-line). Precedentes.
+5. Agravo interno provido. Agravo em recurso especial conhecido Recurso especial parcialmente conhecido e, nessa parte, provido (AgRg no AREsp 804.468/BA, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/05/2017, DJe 05/06/2017, sem grifos no original).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXECUTADOS NÃO LOCALIZADOS. ARRESTO PRÉVIO
+OU EXECUTIVO. ART. 653 DO CPC. BLOQUEIO ON LINE. POSSIBILIDADE, APÓS O ADVENTO DA LEI N. 11.382/2006. APLICAÇÃO DO ART. 655-A DO CPC, POR ANALOGIA.
+1.- "1. O arresto executivo, também designado arresto prévio ou pré-penhora, de que trata o art. 653 do CPC, objetiva assegurar a efetivação de futura penhora na execução por título extrajudicial, na hipótese de o executado não ser encontrado para citação. 2. Frustrada a tentativa de localização do executado, é admissível o arresto de seus bens na modalidade on-line (CPC, art. 655-A, aplicado por analogia). (..)." (REsp 1.370.687/MG, Rel. Ministro Antonio Carlos Ferreira, DJe 15/08/2013).
+2.- Recurso Especial provido, para permitir o arresto on line, a ser efetivado na origem (REsp 1.338.032/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 05/11/2013, DJe 29/11/2013, sem grifos no original).
+Na decisão embargada, concluiu-se, também, pela impossibilidade de revisão das conclusões estaduais - acerca de ter ocorrido a tentativa de citação da recorrente, embora frustrada - pois tal providência demandaria, necessariamente o reexame do acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da orainsurgente, não se pode negar ter havido efetivo enfrentamento eresposta aos pontos controvertidos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÇÃO DE REPARAÇÃO POR DANOS MATERIAIS C/C COMPENSAÇÃO POR DANOS MORAIS.ERRO MÉDICO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15.INOCORRÊNCIA.
+1. Ação de reparação por danos materiais c/c compensação por danos morais, por suposto erro médico.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Agravo interno no agravo em recurso especial não provido (AgInt no AREsp 1.720.687/PR, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 01/03/2021, DJe 03/03/2021).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. DANOS MORAIS. INOCORRÊNCIA. EXISTÊNCIA DE INSCRIÇÃO NEGATIVA LEGÍTIMA ANTERIOR. SÚM. 385/STJ. REEXAME DE PROVAS.VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, do CPC, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do CPC, pois o acórdão de origem embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão, inclusive, quanto à fixação da verba honorária e os seus fundamentos jurídicos, no presente caso.
+3. Analisar se havia ou não outra inscrição desabonadora no cadastro de inadimplentes no momento da propositura da ação demandaria o revolvimento fático probatório dos autos, o que é vedado em sede de recurso especial (Súm 7/STJ). No presente caso, não se trata apenas de revaloração jurídica dos fatos da condicionante da Súm. 385/STJ.
+4. Embargos de declaração rejeitados (EDcl no AgInt no REsp 1.865.878/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/02/2021, DJe 03/03/2021).
+Dessa forma, a decisão embargada não possui vício a ser sanado por meiodos embargos de declaração, apenas se constata o nítido carátermodificativo pretendido pela parte embargante, medida inadmissível nestaespécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentesaclaratórios, pois devidamente motivada e fundamentada a decisão, além denão ter sido demonstrada a ocorrência de nenhuma das hipóteses do art.1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃOREJEITADOS.
