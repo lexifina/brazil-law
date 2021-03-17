@@ -1,0 +1,30 @@
+DECISÃO
+MANUEL RESENDE DE MATOS (MANUEL) ajuizou ação rescisão contratual contra JFE 35 EMPREENDIMENTOS IMOBILIÁRIOS LTDA (EMPREENDEDORA), alegando que firmou contrato particular de compra e venda com a ré para aquisição de fração ideal de empreendimento imobiliário e que, em razão da crise financeira do país, não teve mais condições de arcar com as parcelas da avença.
+Em primeira instância, o pedido foi julgado parcialmente procedente a fim dedecretar a rescisão do contrato de promessa de compra e venda celebrado entre as partes, devendo a ré restituir 90% da quantia pagaao autor (e-STJ, fls. 120/124).
+Interposta apelação pela EMPREENDEDORA, o Tribunal de Justiça do Rio de Janeiro deu-lhe parcial provimento, para elevar o percentual de retenção para 20% e determinar a incidência dos juros legais a partir do trânsito em julgado, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. Ação pelo procedimento comum, com pedidos de resolução de promessa de compra e venda de unidade de imóvel em construção. Relação de consumo. Autor que alega dificuldades financeiras a impedir a continuidade de pagamento do valor contratado. Sentença de parcial procedência. Afastada a preliminar de perda superveniente do objeto, em razão de realização de leilão extrajudicial, posto que a alienação do imóvel não importa na perda do direito de o consumidor tentar reaver parte do pagamento efetuado. Possibilidade de desfazimento do negócio pelo comprador, com retenção de valores por ele pagos, devendo ser o percentual de 10% (dez por cento) fixado na sentença majorado para 20% (vinte por cento), que se demonstra mais razoável e em compasso com a jurisprudência desta Corte Estadual e do Superior Tribunal de Justiça. Valor pago a título de sinal que tem natureza de princípio de pagamento, e se inclui na base de cálculo do valor a ser restituído, sob pena de enriquecimento sem causa. Incidência dos juros a partir do trânsito em julgado. Precedentes. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO (e-STJ, fl. 186).
+Os embargos de declaração opostos por EMPREENDEDORA foram rejeitados (e-STJ, fls. 241/244).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da CF, EMPREENDEDORA alegou violação dos arts. 485, 489 e 1022 do NCPC; 63 da Lei nº 4.591/64;e 418 do CC/02, sustentando, em síntese (1) que o acórdão impugnado não enfrentou o argumento central consistente em que o maior lance alcançado no leilão da unidade teve um valor muito inferior ao da dívida dos recorridos; (2) ocorrência de perda superveniente de interesse processual e do objeto da ação, pois com a realização do leilão não há mais saldo a ser restituído; e (3)que não existem valores a serem devolvidos ao recorrido, não podendo predominar a restituição das arras.
+Transcorrido o prazo para apresentação das contrarrazões, o recurso foi inadmitido na origem, em virtude da inexistência de negativa de prestação jurisdicional, incidência das Súmulas nºs 5, 7 e 83 do STJ (e-STJ, fls. 281/289).
+No agravo em recurso especial, EMPREENDEDORA afirmou que seu recurso merece trânsito, porque preenchidos os requisitos necessários à admissibilidade, refutando, ainda, a incidência dos óbices sumulares aplicado na origem (e-STJ, fls. 316/328).
+Contraminuta não foi apresentada (e-STJ, fl. 333).
+É o relatório.
+DECIDO.
+O presente recurso não comporta provimento.
+De plano vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dosarts. 489 e 1022 do NCPC
+EMPREENDEDORA, de início,sustentou que o acórdão impugnado não enfrentou o argumento central consistente em que o maior lance alcançado no leilão da unidade teve um valor muito inferior ao da dívida dorecorrido.
+O Tribunal fluminense, contudo, ao analisar os embargos de declaração, foi omisso quanto à referida questão.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se a Corte Estadual a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício, prejudicada a análise das demais questões.
+Nessas condições, CONHEÇO do agravo para DARPROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRJ para que analise aquestãotrazidanos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC.COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO.DESFAZIMENTO CONTRATUAL POR INICIATIVA DO PROMITENTE COMPRADOR. ARGUMENTOS NÃO ENFRENTADOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. CONFIGURAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
