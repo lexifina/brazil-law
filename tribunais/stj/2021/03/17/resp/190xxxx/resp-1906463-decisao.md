@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CÉLIA MARIA BRITO GAMA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/CE.
+Ação: anulatória de negócio jurídico cumulada com indenização por danos materiais e morais proposta pela recorrente em desfavor de BANCO DO BRASIL S/A e BANCO BRADESCO S/A, em razão de ter sido vítima de sequestro-relâmpago em via pública, em 03/11/2015, oportunidade na qual os sequestradores se apossaram de seus cartões e, mediante coação, tomaram conhecimento de suas senhas. Munidos dessas informações, realizaram diversos saques e empréstimos.
+Sentença: julgou improcedentes os pedidos, condenando a ora recorrente a arcar com os ônus sucumbenciais.
+Acórdão: à unanimidade, o Tribunal local negou provimento ao recurso de apelação interposto pela recorrente, conforme a ementa a seguir:
+EMENTA: APELAÇÃO CÍVEL. REPARAÇÃO DE PEDIDO DANO DESCONSTITUTIVO E DE MATERIAL E MORAL. PREAMBULAR DE INTEMPESTIVIDADE DE CONTESTAÇÃO. EFEITOS CONSUMO. DA REVELIA. ACIDENTE DE "SEQUESTRO RELÂMPAGO" INICIADO EM VIA PÚBLICA. DOCUMENTOS NOS AUTOS A DEMONSTRAR A OCORRÊNCIA. AUSÊNCIA DE PROVA QUANTO À CONDUTA DAS CASAS DE CRÉDITO QUE RESULTARAM NA DESDITA DA RECORRENTE. FORTUITO EXTERNO. SENTENÇA CONFIRMADA. APELAÇÃO CONHECIDA E NÃO PROVIDA. 1. Preliminarmente, anoto que a revelia não se confunde com os seus efeitos. No caso, havendo dois promovidos na lide, em apresentando um deles a defesa técnica, não se pode falar em consequências materiais ou processuais da revelia para o demandado que ofertou sua contestação fora do prazo. Questão preambular não admitida. II  No mérito, é consabido que as instituições financeiras respondem de forma objetiva pelos danos causados aos seus clientes dentro de suas agências. No entanto, será afastada esta responsabilidade diante da ocorrência de caso fortuito ou força maior. Também há dicotomia entre o fortuito interno e externo, sendo escorreito afirmar que no segundo caso não se pode aplicar pena ao estabelecimento bancário por estar caracterizada a ausência de sua atividade para a consecução dos fatos. Tem-se, pois, a inexistência de nexo causalidade. III. Na espécie, a promovente sofreu "sequestro relâmpago" iniciado em via pública distante das agências bancárias onde teriam sido realizados pelos meliantes os saques e os empréstimos bancários. Ademais, os criminosos realizaram os ilícitos dentro de estabelecimento dos réus, sem que houvesse qualquer comunicação e/ou bloqueio do cartão da promovente. IV.. Ausência de lastro probatório para se imputar às instituições financeiras comportamento que resulte no dever de indenizar.
+V  Apelação conhecida e não provida.
+Embargos de declaração: opostos pela recorrente, foram desacolhidos.
+Recurso especial: aponta violação aos arts. 1.022 e 117 do CPC/2015, bem como ao art. 6º, VIII, do CDC, além de divergência jurisprudencial. Alega que a Corte estadual não se manifestou sobre as matérias defensivas não serem convergentes, tampouco sobre a falha de segurança da instituição financeira, e que o acórdão recorrido contém obscuridade. Defende que o litisconsórcio firmado entre os recorridos é simples. Sustenta que o requisito da verossimilhança das alegações está preenchido e que houve falha na prestação dos serviços, pois cabe ao banco garantir a segurança dos correntistas.
+Juízo de admissibilidade: o Tribunal local admitiu o recurso especial.
+É o relatório. Decide-se.
+O propósito recursal é dizer se houve a) negativa de prestação jurisdicional; b) violação ao art. 117 do CPC/2015 pelo Tribunal local e c) ofensa ao art. 6º, VIII, do CDC.
+I. Da negativa de prestação jurisdicional
+A jurisprudência do STJ é firme no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt no AREsp 1650384/MG, DJe 26/10/2020; AgInt nos Edcl no REsp 1871018/SP, Dje 21/09/2020).
+Na espécie, verifica-se que o Tribunal de origem se manifestou expressamente acerca da não incidência dos efeitos da revelia à hipótese. Além do mais, apesar de o acórdão impugnado não referir expressamente a inexistência de falha de segurança, tal alegação foi afastada, à medida em que se reconheceu a ocorrência de fortuito externo.
+Com relação à propalada contradição, importa consignar que esta Corte tem entendimento consolidado no sentido de que a contradição que autoriza a oposição de embargos declaratórios é aquela interna ao julgado, relativa a seus fundamentos e dispositivo, e não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ (Edcl na PET na Pet 9844/AP, Corte Especial, Dje 26/05/2020; Edcl no AgInt nos EAREsp 498.082/SC, Corte Especial, Dje 13/03/2020; Edcl no AgRg nos Edv nos EAREsp 1416655/SP, Terceira Seção, Dje 19/02/2020).
+No particular, não há que se falar em contradição, porquanto o Tribunal estadual afastou as alegações da ora recorrente com clareza.
+Pelo exposto, não resta configurada a negativa de prestação jurisdicional.
+II. Da violação ao art. 117 do CPC/2015
+II.I. Da incidência da Súmula 211/STJ
+O acórdão recorrido não decidiu acerca do art. 117 do CPC/2015, indicado como violado, apesar da oposição de embargos de declaração. Por isso, aplica-se, na hipótese, a Súmula 211/STJ.
+Esclarece-se que, no ponto, para ter sua pretensão apreciada, a recorrente deveria ter suscitado ofensa ao art. 345, I, do CPC/2015, o que não se verifica.
+Nada obstante, vale lembrar que a revelia tem por consequência a presunção relativa de veracidade dos fatos suscitados na inicial, a qual pode ser afastada pelos demais elementos constantes dos autos. Em razão disso, tal fenômeno processual não conduz à procedência automática dos pedidos (AgInt no AREsp 1588993/SP, Quarta Turma, Dje 24/11/2020; REsp 1335994/SP, Terceira Turma, Dje 18/08/2014).
+Aplicando-se o referido ensinamento à hipótese, vislumbra-se que o reconhecimento da revelia do Banco do Brasil pela Corte de origem não importaria na procedência dos pedidos em relação a esse litisconsorte. Isso porque, com base nas provas produzidas no processo, o Tribunal local concluiu que "não há um liame direto entre os saques e empréstimos ilícitos resultante de atividade atribuível ao Banco do Brasil ou ao Bradesco, tendo em vista que o início dos acontecimentos se dá em local distante de suas agências bancárias. E mais, não há notícia de que a autora tenha comunicado, atempadamente, as casas de crédito, acerca do crime que estava em curso" (e-STJ, fl. 527).
+Destarte, a convicção foi formada a partir do conjunto probatório presente nos autos.
+II.II. Do dissídio jurisprudencial
+Entre os acórdãos trazidos à colação, não há a comprovação da similitude fática, elemento indispensável à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1.579.618/PR, 3ª Turma, Dje de 01/07/2016; AgRg no REsp 1.283.930/SC, 4ª Turma, Dje de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, Dje de 17/03/2014.
+III. Da inversão do ônus da prova
+Com efeito, nos termos do enunciado da Súmula 297 do STJ, "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+O referido diploma legal consagra a possibilidade de inversão do ônus da prova em favor do consumidor, quando verificada a hipossuficiência ou a alegação for verossímil (art. 6º, VIII, do CDC). Trata-se de hipótese de inversão do ônus da prova ope judicis.
+Na hipótese dos autos, a Corte local concluiu pela ausência de verossimilhança das alegações e, assim, manteve o indeferimento do pedido de inversão do ônus probatório.
+Logo, a alteração dessa conclusão demandaria o reexame do acervo fático-probatório, o que é obstado pela Súmula 7 do STJ.
+IV. Da falha na prestação dos serviços
+A recorrente insurge-se contra o não reconhecimento de falha de segurança na prestação dos serviços. Não indica, todavia, qual dispositivo legal foi violado pelo acórdão recorrido, circunstância que configura deficiência de fundamentação.
+Portanto, no tópico, incide o enunciado da Súmula 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR. PRESENÇA DOS REQUISITOS NECESSÁRIOS.
+REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO APELO ESPECIAL. SÚMULA 518/STJ. PRETENSÃO DE MINORAÇÃO DO MONTANTE FIXADO A TÍTULO DE DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Ao se insurgir contra o montante fixado a título de danos morais, a recorrente não especificou, nas razões do apelo especial, de forma clara e precisa, o dispositivo legal que teria sido objeto de ofensa, o que configura deficiência de fundamentação. Incidência do enunciado n. 284 da Súmula do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1739182/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021 - grifou-se)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CITAÇÃO DE PASSAGEM DE ARTIGOS. FALTA DE ALCANCE NORMATIVO DO DISPOSITIVO APONTADO. SÚMULA N. 284/STF. FALTA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+(..)
+(AgInt no AREsp 1282707/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/02/2021, DJe 11/02/2021 - grifou-se)
+V. Conclusão
+Forte nessas razões, com fundamento no art. 932, III, do CPC/2015 e na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente em 13% sobre o valor atualizado da causa para 12%, observado o disposto no art. 98, § 3º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SEQUESTRO-RELÂMPAGO. ROUBO DE CARTÕES E SENHAS. REALIZAÇÃO DE SAQUES E EMPRÉSTIMOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PREQUESTIONAMENTO PARCIAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1.A jurisprudência do STJ é firme no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela part.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Afalta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+4. A alteração da conclusão acerca do não preenchimento do requisito para inversão do ônus da prova demandaria o reexame do acervo fático-probatório, o que é obstado pela Súmula 7 do STJ.
+5. A falta de indicação do dispositivo legal violado impede o exame da insurgência recursal (Súmula 284/STF).
+6. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
