@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de FABIO DA SILVA FRANCOcontra decisão monocrática proferida pelo Relator, no âmbito do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo das Execuções Criminais homologou cálculo de penas, considerando o sentenciado como reincidente específico, mantendo, assim, a progressão de regime prisional mediante cumprimento da fração de 60% da reprimenda.
+Inconformada, a defesa impetrouhabeas corpusperante o TJSP, tendo sido a liminar indeferida pela autoridade indigitada coatora.
+No presente writ, os impetrantes alegam, em síntese, que ""a reincidência do ora paciente restou caracterizada apenas, pela existência de condenação definitiva, por delito de tráfico denominado "tráfico privilegiado", vertido na ação penal n.005134-33.2010.8.26.0624 - Ordem n.2010/000453 (2ª Vara Criminal, comarca de Tatuí/SP) ocasião em que ele, em grau de recurso por ele movido e, provido, teve a pena reduzida e tornada definitiva em 3 (três) anos e 4 (quatro) de reclusão, em regime fechado, mais dias-multa em 333 dias, no piso  ..  delito este não mais reputado hediondo, conforme o entendimento jurisprudencial dominanteexarado nos autos de habeas corpus n.118.533/MS, relatado pela MinistraCÁRMEN LÚCIA.
+Dessa forma  ..  a fração de 3/5 (três quintos) se mostra incorreta, pois foi revogada pela nova Lei nº 13.964/2019, sendo certo que, a partir de então, esta fração restou reservada aos casos de reincidentes específicos em crime hediondo, o que não é o caso do ora paciente"" (e-STJ, fls. 10/12).
+Requerem, nesse diapasão, liminarmente e no mérito, a concessão da ordem ""no sentido de adotar o lapso temporal de 40% (quarenta por cento) para fins de progressão de regime, nos termos do art. 112, inciso V, da Le inº 7.210/84, com a redação dada pela Lei n. 13.964/2019"" (e-STJ, fl. 190.
+É o relatório.Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caberhabeas corpuscontra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qualnão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.No mesmo sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.SÚMULA 691DO SUPREMO TRIBUNAL FEDERAL- STF.DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DASÚMULA691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado691daSúmuladoSTF.
+2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 529.007/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe 23/9/2019).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Consignou a Corte de origem, in verbis (e-STJ, fl. 20):
+A concessão de liminar em sede de habeas corpus é medida excepcional, sendo que no presente caso não se divisa ilegalidade manifesta a ponto de ensejar a antecipação do mérito do writ.
+Portanto, respeitando-se os restritos limites de cognição da cautelar, a liminar há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada
+Indefiro, portanto, a liminar requerida, posto ausentes os pressupostos autorizadores de sua concessão.
+Solicitem-se as informações da autoridade judiciária indigitada coatora e, após, remetam-se os autos à Douta Procuradoria Geral de Justiça.
+Por certo, todas as questões suscitadas pela defesa do paciente serão tratadas naquelemandamuspor ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar ( em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ressalte-se que, no caso, mostram-se necessárias informações do Juízo das execuções acerca de todos os crime praticados pelo sentenciado ( tipificação de cada delito, datas dos fatos, das sentenças/acórdãos condenatórios e de eventual extinção de penas).
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n.691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteo presentehabeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
