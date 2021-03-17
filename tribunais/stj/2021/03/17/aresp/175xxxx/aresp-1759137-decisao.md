@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO LUCAS VASCONCELOS VIANNA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA. BEM DE FAMÍLIA. REQUISITOS NÃO COMPROVADOS. IMÓVEL LOCADO A TERCEIROS. RENDA REVERTIDA PARA A MORADIA DE SUA FAMÍLIA. NÃO DEMONSTRAÇÃO. RECURSO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+1. Embora o agravante tenha juntado aos autos documentos para provar que o imóvel é o único que possui, não demonstrou que o valor que recebe desse imóvel, alugado, é o que equivale a suas despesas básicas.
+2. Inexistindo demonstração de que o montante auferido com a locação de imóvel seja necessário à subsistência e moradia do devedor e de sua família, é inaplicável o entendimento da Súmula nº 486 do STJ.
+3. Portanto, não é o caso de se reconhecer a impenhorabilidade, até porque o imóvel não serve para a residência do impugnante e porque não há provas de que o valor do aluguel recebido seja revertido para a sua subsistência, sendo assim, a manutenção da decisão agravada é medida que se impõe" (fl. 36, e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 1º da Lei nº 8.009/1990 e 832 do Código de Processo Civil de 2015.
+Sustenta que basta para ser declarada a impenhorabilidade do imóvel a prova de que se trata do único bem do devedor, sendo desnecessário indagar se os valores recebidos a título de aluguel são equivalentes àssuas despesas básicas.
+Requer que o recurso especial seja provido com a reforma do acórdão atacado.
+O recurso especial foi inadmitido pela decisão de fls. 132/133 (e-STJ) dando ensejo à interposição do presente agravo.
+Contraminuta às fls. 147/154 (e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Nos termos da iterativa jurisprudência desta Corte, consolidada na Súmula nº 468/STJ, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia de sua família" (grifou-se).
+Confiram-se, a propósito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula n. 486/STJ, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+2. Tendo o Tribunal de origem concluído que não ficou comprovado que o imóvel constitui bem de família ou que a parte agravante utilize efetivamente a renda do imóvel locado para o sustento de sua família, a alteração de tal entendimento é obstada pela Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.417.402/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/11/2019, DJe 26/11/2019)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1.042 DO CPC/15) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EMBARGANTE.
+1. No caso, concluiu o Tribunal de origem, a partir da valoração das provas acostadas aos autos, não ter sido comprovado que o imóvel constitui bem de família, pois o insurgente não reside no local e não logrou êxito em demonstrar que utiliza a renda do bem locado para sua subsistência ou o sustento de sua família. A alteração de tais conclusões é vedada em sede de recurso especial, a teor da Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório. Precedentes.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice sumular impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 938.328/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 1º/3/2018, DJe 7/3/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTE. AGRAVO IMPROVIDO.
+1. Esta Corte Superior tem jurisprudência consolidada no sentido de que "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família" (Súmula 486, CORTE ESPECIAL, julgado em 28/06/2012, DJe de 1º/08/2012).
+2. Tendo o eg. Tribunal de origem concluído que não ficou comprovado, após intimação para tanto, que o imóvel constitui bem de família ou que o agravante utilize efetivamente a renda do imóvel locado para o sustento de suas filhas, a alteração de tal entendimento é obstada pela Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 617.851/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO FALIMENTAR. ARRECADAÇÃO E ALIENAÇÃO DE BEM DE EX-SÓCIO CONTRA QUEM SE DECRETOU A INDISPONIBILIDADE DE SEUS BENS. 1. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. TRIBUNAL DE ORIGEM QUE, COM ESTEIO NOS ELEMENTOS FÁTICO-PROBATÓRIOS REUNIDOS NOS AUTOS, CONCLUIU PELA NÃO CARACTERIZAÇÃO DO BEM DE FAMÍLIA, CUJA DESTINAÇÃO ECONÔMICA PARA A MORADIA OU SUBSISTÊNCIA SUA E DE SUA FAMÍLIA NÃO RESTOU COMPROVADA. ALTERAÇÃO. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. APLICAÇÃO. ENUNCIADO N. 486 DO STJ. NÃO INCIDÊNCIA. 2. A INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ OBSTA, POR CONSECTÁRIO LÓGICO, O EXAME DO ALEGADO DISSÍDIO JURISPRUDENCIAL. PRECEDENTES. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, com esteio no acervo probatório, foi contundente ao assentar que o ora insurgente não logrou êxito em comprovar a destinação econômica do imóvel constrito, para a reversão da renda obtida com a subsistência do devedor ou com moradia de sua família, o que torna inaplicável à hipótese dos autos o enunciado n. 486 do STJ, in verbis: "É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família." 1.1 A argumentação expendida no recurso especial, consistente na caracterização de bem de família, em contrariedade ao que assentaram as instâncias precedentes, com base justamente nos elementos fáticos-probatórios reunidos nos autos, enseja a alteração da moldura fática delineada pelo Tribunal de origem, providência vedada nos termos do enunciado n. 7 da Súmula do STJ.
+2. Conforme dispõe a uníssona jurisprudência desta Corte de Justiça, a incidência do enunciado n. 7 da Súmula do STJ obsta o exame do alegado dissídio jurisprudencial, notadamente porque o confronto entre o aresto paradigma e o acórdão recorrido, que naturalmente reclama a consideração sobre a situação fática própria de cada julgamento, em tal circunstância, resta impossibilitado.
+3. Agravo interno improvido."
+(AgInt nos EDcl no AREsp 957.930/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/2/2017, DJe 7/3/2017)
+Na hipótese dos autos, o Tribunal de origem concluiu que o agravante não demonstrou que os valores recebidos a título de aluguel custeiam os gastos com a locação do imóvel no qual reside ou que sejam revertidos para a sua subsistência, como se vê do seguinte excerto do acórdão recorrido:
+"(..)
+Embora o agravante tenha juntado aos autos documentos para provar que o imóvel é o único que possui, não demonstrou que o valor que recebe desse imóvel, alugado, é o que equivale a suas despesas básicas.
+Salienta-se que não consta dos autos o contrato de locação do imóvel próprio do Agravante, tendo como locatária sua prima Jessika Santiago de Assis, da mesma forma, não constam demonstrativos dos pagamentos feitos pela locatária.
+Assim, não há qualquer prova de que o valor seja utilizado para o pagamento do aluguel do imóvel que reside.
+(..)
+Ademais, em que pese o Agravante tenha apresentado contrato de locação em seu nome, do imóvel em que reside, os comprovantes de transferência e de pagamento dos valores tidos como o aluguel do imóvel são todos feitos pela LETSCLUB COMUNICAÇÃO E EVENTOS LTDA. ME.
+Nota-se que desde o primeiro comprovante apresentado, datado de 27/10/2017, até o último, de 01/08/2019, todos foram feitos pela conta bancária da Empresa, e não do Agravante, o que indica a ocorrência da confusão patrimonial existente.
+Dessa forma, não há como se alegar que, o aluguel do imóvel onde mora o Agravante é custeado com a renda obtida com a locação daquele outro imóvel, de sua propriedade, sob o qual recai a penhora.
+Por outro lado, extrai-se dos autos do cumprimento de sentença, conforme informação obtida pelo INFOJUD, que o agravante recebeu lucros, em 2016, num total de R$ 554.635,92 (quinhentos e cinquenta e quatro mil e seiscentos e trinta e cinco reais e noventa e dois centavos), em 2017, recebeu lucros no montante de R$ 222.014,78 (duzentos e vinte e dois mil e catorze reais e setenta e oito centavos); e em 2018, recebeu R$ 829.684,97 (oitocentos e vinte e nove mil e seiscentos e oitenta e quatro reais e noventa e sete centavos).
+Portanto, não é o caso de reconhecer a impenhorabilidade, até porque o imóvel não serve para a residência do impugnante e porque não há provas de que o valor do aluguel recebido seja revertida para a sua subsistência, sendo assim, a manutenção da decisão agravada é medida que se impõe" (fls. 61/63, e-STJ, grifou-se).
+Como se observa do trecho supratranscrito, o aresto recorrido está em consonância com a jurisprudência desta Corte, no sentido de que a impenhorabilidade somente é reconhecida na hipótese de o aluguel ser utilizado para a subsistência ou moradia da família, o que não restou comprovado na hipótese.
+Cumpre ressaltar que rever esse entendimento, como reconhece o próprio recorrente, esbarra na censura da Súmula nº 7/STJ.
+Ademais, não se constata que o Tribunal de origem tenha eleito requisito não exigido por esta Corte, consubstanciado na necessidade de que o aluguel recebido seja equivalente às despesas básicas do locador, para declarar a impenhorabilidade. Na verdade, a Corte local examinou detidamente a questão e verificou que o recorrente não demonstrou o efetivo recebimento do aluguel e nem sequer sua destinação.
+No mais, não restou comprovado o dissídio jurisprudencial pela ausência do indispensável confronto analítico.
+Além disso, a incidência da Súmula nº 7/STJ obsta o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fica prejudicada a análise de pedido de efeito suspensivo.
+Publique-se.
+Intimem-se.
