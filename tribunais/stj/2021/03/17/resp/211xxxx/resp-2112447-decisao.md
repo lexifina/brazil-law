@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial,fundado no art. 105, III, "a", da Constituição Federal, interposto pelaVECTRA CONSTRUTORA LTDA E OUTRA,contra v. acórdão do eg.Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 1.096):
+CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DEDANOS EMERGENTES E LUCROS CESSANTES.CONTRATO DE FORNECIMENTO DE MATERIAIS E MÃO DEOBRA DE PINTURA. AGRAVOS RETIDOS I E II. PRELIMINARDE ILEGITIMIDADE ATIVA DA PRIMEIRA AUTORA.RECONHECIMENTO QUE SE IMPÕE. INEXISTÊNCIA DERELAÇÃO JURÍDICA COM OS DEMAIS LITIGANTES.OUTROSSIM, ILEGITIMIDADE PASSIVA DAS CORRÉS NÃO
+PARTICIPANTES DO CONTRATO PARA RESPONDERPELOS PEDIDOS DE INDENIZAÇÃO PELA RESCISÃO DAAVENÇA. AGRAVOS PARCIALMENTE PROVIDOS.APELAÇÃO. CONJUNTO PROBATÓRIO QUE CONFIRMA OINADIMPLEMENTO DA PARTE AUTORA CONTRATADA ENÃO DA CONTRATANTE. ALEGADO ALICIAMENTO DE
+FUNCIONÁRIOS DA AUTORA PELAS REQUERIDAS ECONSTITUIÇÃO DE NOVA EMPRESA (A PRIMEIRA RÉ)PARA USURPAR TRABALHO DAQUELA. INOCORRÊNCIA.PROVA DOCUMENTAL E TESTEMUNHAL QUE COMPROVAA CONTRATAÇÃO DE TERCEIRO ESTRANHO AOS AUTOSPARA SUCEDER A AUTORA NA EXECUÇÃO DOS SERVIÇOSPARA OS QUAIS FORA INICIALMENTE CONTRATADA.CULPA EXCLUSIVA DA AUTORA. PEDIDO INDENIZATÓRIOFORMULADO NO FEITO PRINCIPAL IMPROCEDENTE.INCIDÊNCIA DA CLÁUSULA PENAL. READEQUAÇÃO DABASE DE CÁLCULO DESTA. ART. 413, PRIMEIRA PARTE, DOCC. HONORÁRIOS ADVOCATÍCIOS. READEQUAÇÃOCABÍVEL. ART. 20, §4º DO CPC/73, VIGENTE À DATA DASENTENÇA. APELO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a recorrente alega violação aoart.85, §2º,do Código deProcesso Civil de 2015.
+Sustenta, em síntese, a impossibilidadede arbitramento dos honorários advocatícios por apreciação equitativa quando o valor da causa não se mostra irrisório ou inestimável, devendo tal verba ser fixada entre 10 a 20% sobre o valor da causa.
+Contrarrazões às fls. 1150-1160.
+É o relatório.
+Decido.
+A questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursosespeciais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo a decisão de afetação do REsp 1.812.301/SC delimitado o Tema 1.046dos Recursos Especiais Repetitivos, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOSESPECIAISREPETITIVOS. DIREITO PROCESSUAL CIVIL. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA (CPC, ART. 85, §§ 2º E8º). NECESSIDADE DE FIXAÇÃO DE TESE CONCENTRADA E VINCULANTE.
+1. Delimitação da controvérsia:
+1.1. Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do
+tema relativo à: 1.2. "A possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85,§§ 2º e 8º, do Código de Processo Civil de 2015."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar,no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 doCPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015,apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente deratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdãorecorrido com a decisão sobre o tema repetitivo ou pelo novopronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem,com a respectiva baixa, a fim de que, nos termos dos arts.1.039 e 1.040do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidircom a tese firmada sobre o aludido tema;ou ii) proceda-se a novo exame damatéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
