@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IGOR FELIPE AGAPITO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2002237-41.2021.8.26.0000.
+Consta dos autos que o Paciente foi condenado à pena de 7 (sete) anos de reclusão, em regime fechado, além do pagamento de 700 (setecentos) dias-multa, pela prática do crime do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 24kg (vinte e quatro quilos) de maconha.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 56-65).
+Posteriormente, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que nãoconheceu do writ, nos termos do art. 105, inciso I, alínea c,da Constituição Federal (fls. 79-83).
+Neste writ, os Impetrantes argumentam que " e m que pese eventual boa-fé dos guardas municipais, não havia elementos objetivos, seguros e racionais, que justificassem a invasão de domicílio" (fl. 7).
+Alegam que " g uardas municipais não têm treinamento e capacitação para fazer busca e preensão de drogas, ao menos que seja em situação visual de flagrante delito. A procura por traficantes e entorpecentes, constitui, obviamente, atividade exclusiva da autoridade policial, na forma da lei (Código de Processo Penal, artigo 241)" (fl. 12).
+Requerem, liminarmente e no mérito, o trancamento da ação penal, bem como a expedição de alvará de soltura em favor do Paciente.
+É o relatório. Decido.
+O Tribunal de origem não conheceu do writ impetradocom base na seguinte fundamentação (fls. 82-83; sem grifos no original):
+"Sustenta, o Impetrante, que o Paciente estaria sofrendo constrangimento ilegal decorrente de sentença condenatória que, ao invés de fixar um regime mais brando, como preceitua a Súmula Vinculante nº 26, do STF, impôs o regime fechado para início de cumprimento de pena. Sustenta, ainda, a existência de nulidade da prova produzida, posto que a busca e apreensão realizada na residência do paciente, foi efetivada por Guardas Municipais, em acesso não autorizado pelos moradores, oportunidade em que foi consumado o flagrante delito.
+Afirma, no mais, que é caso de trancamento da ação penal nº 1502980-39.2019.8.26.0272, expedindo-se alvará de soltura em favor do Paciente.
+Embora o Impetrante tenha apontado como autoridade coatora o d. Juízo de Direito da 1ª Vara da Comarca de Itapira, o Paciente respondeu ao processo preso e, por força do julgamento da Apelação Criminal por este Egrégio Tribunal de Justiça, foi confirmada a condenação de Primeira Instância. O Paciente, ainda, interpôs Embargos de Declaração, que foram rejeitados por esta Colenda TERCEIRA CÂMARA DE DIREITO CRIMINAL, aos 18.12.2020, e, aos 11.02.2021, os autos foram remetidos ao Portal Eletrônico para intimação das partes.
+OCORRE QUE O ART. 105, I, "C", DA CONSTITUIÇÃO FEDERAL, RESERVA À COMPETÊNCIA DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA, O JULGAMENTO DOS ".. "HABEAS CORPUS", QUANDO O COATOR .. FOR QUALQUER DAS PESSOAS MENCIONADAS NA ALÍNEA "A", OU QUANDO O COATOR FOR TRIBUNAL SUJEITO À SUA JURISDIÇÃO ..".
+Clara, portanto, a incompetência deste Egrégio Tribunal de Justiça para apreciação da pretensão, por força do art. 105, I, "c", da Constituição Federal.
+Ante todo o exposto, NÃO CONHEÇO da presente ação penal constitucional, impetrada em favor de IGOR FELIPE AGAPITO, qualificado nos autos, por força do art. 105, I, "c", da Constituição Federal, determinando o seu arquivamento."
+Como se vê, o writ impetrado não foi conhecido, pois, a Corte local ao julgar a Apelação n. 1502980-39.2019.8.26.0272, ocasião em que manteve a condenação proferida na sentença condenatória, tornou-se a autoridade coatora, sendo portanto, incompetente para a apreciação dos pleitos formulados.
+Outrossim, verifico que no HC n. 637.888/SPfoi formulada pretensão idêntica à veiculada neste writ, em favor do mesmo Paciente.
+Muito emboranaquele feito tenha sido impugnado o acórdão da apelação acima mencionado, ou seja,diverso do que se impugna no presente recurso, a jurisprudência não admite a análise de pedidos que, na verdade, são reiterados. Registro que o pedido liminar apresentado nowritanteriormente impetrado foi apreciado em 02/01/2021.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusem que se constatalitispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, constato a inadmissibilidade do remédio heroico, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 637.888/SP. LITISPENDÊNCIA. INADMISSIBILIDADE. WRIT INDEFERIDO LIMINARMENTE.
