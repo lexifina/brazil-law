@@ -1,0 +1,16 @@
+DECISÃO
+HENRIQUE CESAR DOS SANTOS alega sofrer coação ilegal em face de acórdão proferido peloTribunal de Justiça do Estado de São Paulo. O apenado se insurge contra o reconhecimento de faltagrave. Pede: a) a "extinção da punibilidade", pois o novo crime praticado durante a execução penal foi o de ameaça, mas não houve representação da vítima ou b)a absolvição, por fragilidadeprobatória.
+Decido.
+Sem razão o insurgente.
+Infere-se dos autos que foi "instaurado procedimento disciplinar n. 072/2019 para a apuração de falta grave cometida pelo reeducando, porque no dia 06 de janeiro de 2020, supostamente estaria ameaçando o sentenciado Douglas Luis Saldanha Chaves, em razão de uma dívida no valor de R$ 450,00 reais decorrente da venda de 15 gramas de cocaína" (fl. 12).
+Após "o regular trâmite do procedimento administrativo, ao agravado foi imputada a prática de falta grave, com fundamento no artigo 50, inciso VI, cumulado com o artigo 39, inciso II, e artigo 52, todos da Lei de Execução Penal" (fl. 12).
+Esta "Corte já firmou entendimento de que as esferas administrativa e judicial são independentes e autônomas entre si" (HC 636.725/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021).
+A responsabilidade disciplinarestá relacionadasomente ao sistema progressivo das penas (pode gerar, como consectários, a regressão de regime, alteração da data-base de progressão, perda parcial dos dias remidos etc.).
+Por isso, se a falta graveconsiste em cometimento de novo fato definido como crime doloso, sua apuração e homologação no âmbito da execução penal prescindem do ajuizamento de ação penale de sentença condenatória. Esta é a exegese da Súmula n. 526 do STJ.
+Basta a instauração deprévio procedimento administrativo ou a designação de audiência judicial, asseguradosao apenado o contraditório e a ampla defesa ao apenado, não condicionados, por lei, a representação como condição formal de procedibilidade.
+Assim, não era necessária arepresentação da vítima do crime de ameaça para o reconhecimento de falta disciplinar, à míngua de previsão legal. De todo modo, a apuração da conduta do reeducando se deu por solicitação do ameaçado, o que afasta a tese defensiva.
+No mais, consta do aresto recorrido que "o sentenciado Douglas Luis Saldanha Chaves informou que contraiu dívida  ..  ao adquirir droga do sentenciado Henrique  ..  não tendo como quitar sua dívida vem sofrendo ameaças constantes por parte do sentenciado Henrique"; "os servidores Rodrigo  ..  e Raoni  ..  corroboram a versão dos fatos" (fl. 14).
+Desconstituiro entendimento firmado pelas instâncias originárias demandariarevolvimento da matéria probatória, procedimento incompatível com a natureza mandamental do habeas corpus.
+Ilustrativamente: "A pretendida absolvição da falta grave  .. , em razão da alegada ausência de provas da autoria, é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional. Precedentes" (AgRg no HC 626.808/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
