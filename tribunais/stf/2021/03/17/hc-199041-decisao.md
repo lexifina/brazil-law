@@ -1,0 +1,28 @@
+Vistos etc.
+    Trata-se de habeas corpus coletivo, com pedido de liminar, impetrado pela Associação Nacional dos Procuradores da República (ANPR) em favor de todos os seus associados, contra ato do Presidente do Superior Tribunal de Justiça, Ministro Humberto Martins, que editou a Portaria STJ/GP nº 58, de 19 de fevereiro de 2021, por meio da qual instaurado o Inq 1460/DF no âmbito daquela Corte Superior.
+    Neste writ, a parte Impetrante esclarece que, ao deferir medida liminar na Rcl 43.007/DF, o Ministro Ricardo Lewandowski, Relator do feito, “autorizou o compartilhamento dos arquivos apreendidos no bojo da Operação Spoofing (objeto do Inquérito n.º 1017553-96.2019.4.01.3400/DF) com a defesa técnica do ex-Presidente Luís Inácio Lula da Silva”. Afirma, no entanto, que as balizas firmadas em referido decisum teriam sido transgredidas, uma vez que a autoridade policial, alegando impossibilidade técnica de desmembrar o material, acabou por franquear à parte Reclamante, segundo sustenta, não apenas os dados informativos a ela pertinentes, mas, sim, a integralidade dos arquivos apreendidos, contendo supostos diálogos a envolver mais de 200 (duzentos) Procuradores da República.
+    Relata a Defesa que, com a divulgação do teor de tais arquivos, a autoridade apontada como coatora instaurou o inquérito em causa, autonomeando-se relator do feito.
+    Aponta constrangimento ilegal, fundando-se, em síntese, nas seguintes razões: (i) inexistência de justa causa para a instauração de inquérito, com apoio, unicamente, em prova ilícita e “sem cadeia de custódia a assegurar a sua integridade”; (ii) atipicidade penal das condutas descritas na portaria de instauração do procedimento investigatório; (iii) incompetência do Superior Tribunal de Justiça para investigar eventuais delitos praticados por membros do Parquet Federal que atuam em 1º grau de jurisdição; (iv) caráter infralegal do regimento interno do STJ, inapto para ampliar a competência originária do Tribunal; (v) incompatibilidade dos arts. 21, II, e 58, caput, c/c o § 1º, do RISTJ com o sistema acusatório; e (vi) inobservância do requisito previsto no art. 18, parágrafo único, da LC 75/93.
+    Requer, em sede liminar, que se determine a suspensão do Inq 1460/DF, com a concessão de salvo conduto aos pacientes, a fim de que “sejam dispensados de depor” e “resguardados de quaisquer medidas cautelares relacionadas ao citado inquérito”, assim como “seja ordenado à Presidência do STJ que remeta ao STF, com base na Súmula Vinculante n.º 14, cópia integral do Inquérito”. No mérito, pugna pelo trancamento definitivo da investigação penal em questão, bem assim seja “ordenado o desentranhamento e a inutilização de todos os elementos indiciários que o instruam, impedindo-se, ainda, que a autoridade coatora instaure novo inquérito com o mesmo objeto e baseado em provas ilícitas contra os pacientes”. Subsidiariamente, pleiteia que “eventual investigação criminal seja conduzida por membro do Procurador-Geral da República, e instaurada por ordem deste”.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    PORTARIA STJ/GP N. 58 DE 19 DE FEVEREIRO DE 2021
+    O PRESIDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA, no uso de suas atribuições conferidas pelos artigos 21, 11, e 58, caput e § 1º do Regimento Interno,
+    CONSIDERANDO que o princípio constitucional da independência judicial é um dos fundamentos do Estado Democrático de Direito e um dos pré-requisitos para um julgamento justo;
+    CONSIDERANDO o levantamento do sigilo das mensagens trocadas entre membros da magistratura e do ministério público nos autos da Reclamação n. 43.007/DF, que tramita no Supremo Tribunal Federal, de relatoria do Ministro Ricardo Lewandowski (arquivos da Operação Spoofing);
+    CONSIDERANDO que os meios de comunicação noticiaram a suposta existência - no teor das mensagens trocadas - de tentativas de investigar e intimidar ministros do STJ por meio de procedimentos apuratórios ilegais e sem autorização do Supremo Tribunal Federal;
+    CONSIDERANDO a necessidade de apuração de tais fatos e que a Portaria GP/STF n. 69, de 14 de março de 2019, e o art. 43 do RISTF (que possui redação idêntica ao art. 58 do RISTJ) foram declarados constitucionais pelo STF ao julgar a ADPF n. 572/DF, de relatoria do Ministro Edson Fachin,
+    RESOLVE:
+    Art. 1º Instaurar inquérito para apurar os fatos e as infrações, em tese delituosos, relacionados às tentativas de violação da independência jurisdicional e de intimidação de ministros do Superior Tribunal de Justiça, bem como de outros do mesmo gênero eventualmente cometidos e cujas práticas sejam reveladas no curso da investigação.
+    Art. 2º Determinar a autuação e registro do inquérito e a sua conclusão à Presidência do Superior Tribunal de Justiça.
+    Art. 3º Esta portaria entra em vigor na data de sua publicação.
+    Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário aferir se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal cuja gravidade exponha os pacientes ao risco de sofrer, caso não deferida a tutela de urgência, lesão irreparável ou de difícil reparação.
+     Ao exame dos autos, não verifico, ao menos neste juízo de estrita delibação, o periculum in mora aventado na exordial, sobretudo por não se encontrar o status libertatis dos supostos investigados em situação de risco iminente.
+    Portanto, em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão do provimento de emergência requestado.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 17 de março de 2021.
+Ministra Rosa Weber
+Relatora
