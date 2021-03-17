@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça da referida unidade federativa que deu parcial provimento àapelação defensivae reduziu a pena do recorrido.
+Sustenta violação aos artigos 59 e 157, § 2º, I, do Código Penal e artigos 155, 158, 167 e 564, III, b, todos do Código de Processo Penal, sob o fundamento de que, para o reconhecimento da majorante do emprego de arma no crime de roubo, é prescindível a apreensão e perícia do artefato para se demonstrar sua potencialidade lesiva, podendo se valer o julgador de qualquer elemento contido nos autos para formar sua convicção a esse respeito.
+Aduz, ainda, quesendo o réu duplamente reincidente, uma das condenações poderia ser utilizada para o incremento da pena a título de maus antecedentes e a outra na segunda fase da dosimetria.
+Admitido o inconformismo, subiram os autos a este Superior Tribunal.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 347-356).
+É o relatório.
+Decido.
+No que se refere à dosimetria da pena, o Tribunal de origem, asseverou:
+"No dia seguinte aos fatos, a vítima Celita compareceu em sede policial para comunicar o roubo sofrido, oportunidade em que realizou o reconhecimento do acusado por meio fotográfico (fls. 05), nos seguintes termos:
+"QUE é funcionária da papelaria moderna de Resende; QUE por volta das 18h15min entrou no estabelecimento um nacional e foi em direção a declarante, que estava finalizando o caixa, QUE o nacional então, quando próximo da declarante, retirou um revólver da cintura, que estava embaixo da blusa, e disse :" ME PASSA TUDO"; QUE o nacional então atravessou o balcão para a parte interior do estabelecimento e recolheu do caixa a quantia de R.$ 200,00 em espécie; QUE o nacional também subtraiu da declarante seu aparelho de telefone celular, dizendo a ela: "ME PASSA SEU TELEFONE OU VAI QUERER PERDER SUA VIDA"; QUE ato continuo após realizar o roubo o nacional se evadiu a pé do local dizendo para a declarante ir para o interior da loja e não sair de lá, pois se o fizesse ele, segundo palavras do nacional autor do fato, "LHE DARIA UM TIRO "; QUE ao ser apresentada ao álbum fotográfico desta UPJ. a declarante reconhece como sendo autor do fato o nacional GILMAR SANTANA, PF: 01383212005"
+ ..
+O réu ostenta duas condenações anteriores definitivas, sendo uma em 2010, utilizada na pena base, e outra em 2014, porcrime de furto, e utilizada, corretamente, como reincidência, embora não seja específica.
+Ocorre que não se pode afirmar mau antecedente quando se constata que o trânsito em julgado do crime de roubo se deu em 2010, mas a pena do acusado foi de 05 anos e 04 meses de reclusão e, considerando a sua prisão em 2008, evidente que somente em 2013, ao menos em tese, extinguiria a pena pelo cumprimento. Em outras palavras, o réu é duplamente reincidente, não ostentando mau antecedente, pelo que a pena deve ser fixada no mínimo legal. A reincidência considerada não é específica, razão pela qual a fração de aumento, na segunda fase, deve ser de 1/6.
+ ..
+A circunstância majorante há que ser afastada, posto que a arma não foi apreendida e consequentemente periciada, mantendo-se, porém, a fração de 1/6 pelo concurso formal de delitos, acomodando-sea pena definitiva em 05 anos, 05 meses e 10 dias de reclusão, em regime fechado, por força da reincidência, e 12 dias-multa" (e-STJ, fls. 257-264).
+A jurisprudência desta Corte, em diversos julgados, já se manifestou na linha de que a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como no caso em apreço.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. REGIME FECHADO. LEGALIDADE. PENA ABAIXO DE 4 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. RÉU REINCIDENTE. INOCORRÊNCIA DE BIS IN IDEM. AGRAVO IMPROVIDO.
+1. Admite-se a fixação de regime prisional fechado ao réu reincidente, condenado à pena inferior à 4 anos, se a pena-base é estabelecida acima do mínimo legal.
+2. Consideradas distintas condenações criminais transitadas em julgado para elevar a reprimenda básica a título de antecedentes e agravar a pena pela reincidência, não há que se falar em violação do sistema trifásico, por apontado bis in idem.
+3. Agravo regimental improvido." (AgRg no AREsp 598.570/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016);
+Logo, sendo distintas as condenações valoradas na primeira e segunda fase da dosimetria, não há se falar em bis in idem, razão pela qual é de rigor a incidência dos maus antecedentes.
+Por fim, a Terceira Seção desta Corte Superior, por ocasião do julgamento dos Embargos de Divergência 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do revogado inciso I do § 2º doart. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal atestando o seu emprego.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO PELA UTILIZAÇÃO DE ARMA DE FOGO. ART. 157, § 2º-A, DO CP. DESNECESSIDADE DE APREENSÃO E PERÍCIA. COMPROVAÇÃO POR OUTROS ELEMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ tem entendimento de que para a caracterização da majorante relativa à utilização de arma de fogo são dispensáveis a sua apreensão e a perícia. Precedente.
+2. A inclusão do art. 157, § 2º-A, do Código Penal apenas tornou mais severa a pena decorrente da utilização de arma de fogo no delito de roubo e não acrescentou nenhum outro aspecto objetivo ou subjetivo que possa justificar a mudança da jurisprudência.
+3. As instâncias antecedentes apresentaram outros elementos de prova para reconhecer a citada majorante. O habeas corpus não comporta dilação probatória.
+4. Agravo regimental não provido."
+(AgRg no HC 576.626/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/6/2020, DJe 23/6/2020)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.ROUBO MAJORADO. BUSCA E APREENSÃO SEM AUTORIZAÇÃO JUDICIAL.CIRCUNSTÂNCIAS DO CASO CONCRETO. MODIFICAÇÃO DAS PREMISSAS FÁTICAS.IMPOSSIBILIDADE. SÚMULA 7/STJ. RECONHECIMENTO DA MAJORANTE DE USO DE ARMA. PERÍCIA. FOGO. PRESCINDIBILIDADE. PRECEDENTES. DOSIMETRIA.EXASPERAÇÃO DA PENA-BASE. UTILIZAÇÃO DE ELEMENTOS ÍNSITOS AO TIPO PENAL. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO.
+ ..
+III - O entendimento da Terceira Seção deste eg. Tribunal Superior é no sentido da prescindibilidade da apreensão e perícia da arma de fogo para a incidência da majorante, desde que evidenciada sua utilização por outros meios de provas, tais como a palavra da vítima ou o depoimento de testemunhas, como é o caso dos autos. Precedentes.
+ ..
+Agravo regimental desprovido." (AgRg no REsp 1.773.075/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/2/2019, DJe 7/3/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para reconhecer os maus antecedentes e a majorante do emprego de arma de fogo, bem como, determinaro retorno dos autos para o Tribunal de origem, paraque proceda à nova dosimetria da pena dorecorrido.
+Publique-se. Intimem-se.
