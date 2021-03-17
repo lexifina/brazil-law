@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO CAMARGO RODRIGUES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo quando do julgamento do HC n. 2254055-53.2018.8.26.0000, cuja ementa foi assim definida (e-STJ fl. 21):
+HABEAS CORPUS com pedido liminar. Pedido de declaração da prescrição executória. Impossibilidade. Via eleita inadequada. Matéria de execução. O remédio heroico não se presta acelerar feitos, verificar o preenchimento dos requisitos necessários à concessão de benefícios prisionais ou guerrear as decisões proferidas no curso da execução penal, salvo quando a ilegalidade é patente, ou teratológica, o que não ocorre no presente caso. A matéria deve ser apreciada em grau de recurso pelo próprio Tribunal de Justiça, mas em sede de Agravo em Execução. Ordem denegada.
+Às e-STJ fls. 104/108, deferi a liminarpara determinar que o Tribunal de Justiça do Estado de São Paulo apreciasse o mérito do habeas corpus originário como entendessede direito.
+Informações prestadas.
+O Ministério Público Federal, às e-STJ fls. 116/120, manifestou-se pela concessão da ordem.
+É o relatório.
+Decido.
+O writ está prejudicado.
+Com efeito, na sessão de 25/4/2019, o Tribunal de origem, atendendo a determinação desta Corte, apreciou o mérito do habeas corpuslá impetrado, ocasião em que denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS com pedido liminar. Pleito de reconhecimento de prescrição da pretensão executória.Indeferimento liminar por esta C. 9ª Câmara, que entendeu ser a questão afeita a matéria de execução. Determinação do C. STJ para que fosse analisado o mérito da questão.Paciente pretende a declaração da prescrição da pretensão executória relativa a Execução nº 02. Subsidiariamente, requer a reconversão da pena privativa de liberdade em restritiva de direitos nessa mesma execução.Impossibilidade. Após marco inicial do prazo prescricional (trânsito em julgado para acusação em 22/04/14), paciente cumpriu a pena referente à Execução nº 01, no período entre 25/05/15 e 24/05/16, acarretando a suspensão da prescrição, conforme inteligência do parágrafo único do art. 116 do CP e precedentes do C. STJ. Paciente também reincidiu em 02/02/17, o que deu origem à Execução nº 03, o que configura causa interruptiva do lapso prescricional.Em razão da prática de novo crime, acertada a reconversão da pena restritiva de direitos da Execução nº 02 em privativa de liberdade. Prescrição não operada.Constrangimento ilegal não configurado. Decisão mantida.Ordem denegada.
+É forçoso reconhecer, portanto, a perda superveniente de objeto do presente writ, sendo mister asseverar que, em relação à questão de fundo versada nos presentes autos, deneguei a ordem nos autos do HC n. 511.405/SP.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
