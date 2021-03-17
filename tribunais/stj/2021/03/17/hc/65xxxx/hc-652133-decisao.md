@@ -1,0 +1,8 @@
+DECISÃO
+KESSY JHONES TORRES DA ROCHAalega sofrer constrangimento ilegal em seu direito a locomoção, em face de acórdão prolatado peloTribunal de Justiça do Estado de Pernambucono HCn. 0015225-80.2020.8.17.9000.
+Neste writ, requer, inicialmente, a extensão de benefício concedido a duas corrés por esta Corte Superior. Ainda, assinala haver excesso de prazo na formação da culpa, pois está preso há mais de 3 meses e não existeprevisãopara o encerramento da instrução criminal. Expõe havermaior risco de contaminação pelo novo coronavírus dentro dos estabelecimentos prisionais. Pleiteia, então, a revogação da prisão preventiva.
+Da análise dos autos, observo que estemandamusfoi deficientemente instruído. Nãohá nos autos oandamento atualizado da ação penal nem nenhum documento referente ao processoque esclareça acerca das razões pelas quais o réu está preso e a respeito da eventual identidadefático-processual entre o insurgente e as corrés. Esse contexto fático impossibilita a compreensão do caso e, por conseguinte, o exame da apontada coação ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e, dada sua natureza urgente, exige prova pré-constituída das alegações. Não admite, portanto, dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de defesa técnica - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ,indefiroliminarmente o habeas corpus.
+Publique-se e intimem-se.
