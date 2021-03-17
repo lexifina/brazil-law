@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ENDUTEX BRASIL LTDA, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. CSLL E IRPJ. RENDIMENTOS DE APLICAÇÕESFINANCEIRAS. INFLAÇÃO. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA. É legítima a incidência do IRPJ e da CSLL sobre os rendimentos auferidos em aplicações financeiras, ainda que se trate de variações patrimoniais decorrentes da diferença de atualização monetária. Precedentes do STJ e de ambas as Turmas Tributárias desta Corte" (fl. 2.005e).
+Embargos de Declaração rejeitados (fls. 2.031/2.034e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1.022, II, do CPC e43, I e II, do CTN.Alega, em síntese, que "dar o caráter de renda e/ou acréscimo patrimonial à correção monetária é desvirtuar a natureza deste instituto que possui encargo de recomposição da deterioriorização (sic) do poder aquisitivo da moeda pela inflação! Sendo, portanto, fora do conceito e definição de renda ou acréscimo patrimonial para fins de tributação do IRPJ e pela CSLL a parcela correspondente à inflação que integre os rendimentos decorrentes de suas aplicações financeira" (fl. 2.055e).Aduz, ainda, que o acórdão recorrido padeceria de omissão.
+Contrarrazões às fls. 2.094/2.098e.
+Recurso Especial admitido (fl. 2.108e).
+A irresignação não merece prosperar.
+À partida, registre-se que não padece de omissão nem de falta de fundamentação, o acórdão recorrido. Dessarte, toda a matéria jurídica posta à apreciação da Corte de origem foi suficientemente analisada e decidida. Na verdade, a irresignação do ora recorrente volta-se, no ponto, contra o próprio conteúdo do julgado e não contra suposta falta de exame suficiente da controvérsia.
+No mérito propriamente dito, o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que "é legítima a incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda" (STJ, AgInt no REsp 1.581.332/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 08/10/2020).
+No mesmo sentido:
+"RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, CPC. IMPOSTO DE RENDA. RENDA FIXA. INCIDÊNCIA SOBRE OS RENDIMENTOS DE LETRAS FINANCEIRAS TESOURO - LFT"S. BASE DE CÁLCULO. RESPONSABILIDADE TRIBUTÁRIA. ART. 65, §§1º E 2º, DA LEI N. 8.981/95.
+(..)
+3. As Letras Financeiras do Tesouro - LFT possuem fluxo de pagamento simples, ou seja, o investidor faz a compra e recebe o rendimento apenas uma vez, quando o devedor faz o resgate na data de vencimento do título, junto com o valor do principal, incidindo aí o Imposto de Renda. Sendo assim, no vencimento do título há, inexoravelmente, o seu resgate ou a sua repactuação (manutenção do investimento) e ambas as situações estão previstas no art. 65, §§1º e 2º, da Lei n. 8.981/95 como hipóteses de incidência do Imposto de Renda, pois nelas há a disponibilidade jurídica e econômica dos valores correspondentes aos títulos.
+4. Como já mencionado em outra ocasião por esta Corte, "não se deve confundir disponibilidade econômica com disponibilidade financeira.
+Enquanto esta última se refere à imediata "utilidade" da renda, a segunda está atrelada ao simples acréscimo patrimonial, independentemente da existência de recursos financeiros" (REsp. Nº 983.134 - RS, Segunda Turma, Rel. Min. Castro Meira, julgado em 3.4.2008).
+5. Impossível deduzir ainflaçãodo período do investimento da base de cálculo do imposto. Isto porque ainflaçãocorresponde apenas à atualização do valor monetário da respectiva base de cálculo, que é permitida pelo art. 97, §2º, do CTN, independente de lei, já que não constitui majoração de tributo.
+(..)
+7. Recurso especial não provido" (STJ, REsp 1.385.164/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/12/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Sem honorários recursais. Mandado de Segurança.
+I.
