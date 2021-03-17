@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO FEDERAL DA 12ª VARA DO RIO DE JANEIRO - SJ/RJ e o JUÍZO FEDERAL DA 8ª VARA CÍVEL DE GOIÂNIA - SJ/GO, em execução individual de sentença proferida na ação coletiva n. 2000.51.01.001586-1, que tramitou na 28ª Vara Federal da Seção Judiciária do Estado de Janeiro.
+O Juízo Suscitado, considerando que a presente execução não preenche os requisitos do parágrafo único do art. 516, II, do Código de Processo Civil, declinou a competência para o juízo que proferiu a sentença condenatória.
+O Juízo Suscitante manifestou-se pela competência absoluta do foro do domicílio do exequente, nos seguintes termos (fls. 25/29e):
+Em se tratando de execução de sentença coletiva, desnecessário o ajuizamento do cumprimento na sede do foro em que proferida a sentença, sendo lícito (e desejado) o ajuizamento da sentença no domicílio do exequente, conforme remansosa jurisprudência do Superior Tribunal de Justiça:
+(..)
+Assim, privilegia-se o critério da competência absoluta sobre a relativa, de modo que, em interpretação analógica dos princípios invocados, deve ser considerada absoluta a competência funcional do juízo de domicílio dos exequentes para processar o presente cumprimento de sentença, sob pena de tornar completamente eletivo o foro da execução, acarretando em potenciais prejuízos aos direitos fundamentais de acesso ao Poder Judiciário e celeridade processual, previsto no art. 5º, incisos XXXV e LXXVIII e da Constituição Federal de 1988.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil.
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O Conflito comporta conhecimento, porquanto se trata de demanda instaurada entre Juízes vinculados a Tribunais distintos, de acordo com o disposto no art. 105, I, d, da Magna Carta.
+A Corte Especial deste Superior Tribunal de Justiça, ao julgar o REsp n. 1.243.887/PR, sob o rito do art. 543-C do CPC/1973, firmou entendimento no sentido de que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário".
+Em decorrência desse julgamento, a Primeira Seção assentou não serem aplicáveis os arts. 475-A e 575, II, do CPC/1973, às execuções individuais de sentença proferida em ação coletiva, nos seguintes termos:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO FEDERAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL NO DOMICÍLIO DO AUTOR. FORO DIVERSO DAQUELE DO PROCESSO DE CONHECIMENTO. POSSIBILIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+1. A Corte Especial do STJ fixou, sob o rito do art. 543-C do CPC e da Resolução STJ 8/2008, que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário" (REsp 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 12.12.2011).
+2. A execução individual de sentença condenatória proferida no julgamento de ação coletiva não segue a regra geral dos arts. 475-A e 575, II, do Código de Processo Civil, pois inexiste interesse apto a justificar a prevenção do Juízo que examinou o mérito da ação coletiva para o processamento e julgamento das execuções individuais desse título judicial.
+2. Obrigar os beneficiados pela sentença coletiva a liquidá-la e a executá-la no foro em que a ação coletiva foi julgada implicaria em inviabilização da tutela dos direitos individuais.
+3. No mesmo sentido: AgRg na Rcl 10.318/RS, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, DJe 29.4.2013; CC 96.682/RJ, Rel. Ministro Arnaldo Esteves Lima, Terceira Seção, DJe 23.3.2010; REsp 1.122.292/GO, Rel. Ministro Castro Meira, Segunda Turma, Dje 4.10.2010; AgRg no REsp 1.316.504/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 20.8.2013; REsp 1.098.242/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 28.10.2010
+4. Agravo Regimental não provido.
+(AgRg no CC 131.628/DF, Relator Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 21/03/2014 - destaque meu)
+Posteriormente, os embargos declaratórios foram acolhidos, sem modificar o resultado do julgamento, em acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO. TÓPICOS RECURSAIS NÃO ENFRENTADOS. AÇÃO COLETIVA. EXECUÇÃO COLETIVA AJUIZADA. PREVENÇÃO DO JUÍZO PARA FINS DE PROMOÇÃO DA EXECUÇÃO INDIVIDUAL. NÃO OCORRÊNCIA. ARTS. 98, CAPUT, § 2º, I, E 101, I, DO CDC. AVOCAÇÃO PELO JUÍZO DA AÇÃO COLETIVA. NÃO CONSTATAÇÃO.
+1. Trata-se de Embargos de Declaração com intuito de provocar a manifestação sobre tópicos recursais invocados no Agravo Regimental.
+2. Não obstante o acórdão embargado apresentar fundamentação adequada à controvérsia, devem ser acolhidos os presentes Embargos para enfrentar expressamente os pontos omitidos.
+3. Em hipótese idêntica ao presente caso, a Primeira Seção julgou no mesmo sentido da presente decisão (CC 131.123/DF, Rel. Ministro Herman Benjamin, sessão de 9.4.2014, ainda não publicado).
+4. A interpretação conjunta dos arts. 98, caput, § 2º, I, e 101, I, do CDC leva à conclusão de que o ajuizamento da execução coletiva não torna prevento o respectivo juízo para fins de execução individual, sob pena de tornar letra morta a garantia, referida no acórdão embargado, à efetivação da tutela dos interesses individuais albergados pela ação coletiva, consubstanciada na possibilidade de ajuizamento da demanda executória individual no foro de domicílio do credor.
+5. É irrelevante o fato de a execução ter se iniciado nos autos da ação coletiva e continuar na ação de execução individual, em face do caráter disjuntivo de atuação dos legitimados e da expressa previsão da possibilidade do concurso de créditos (art. 99 do CDC).
+6. A decisão proferida na ação coletiva, sobre a qual se pretende atribuir caráter de definitividade sobre o juízo competente, refere-se à distribuição interna no Foro da Justiça Federal de Brasília/DF (se poderia haver "livre distribuição", ou se deveria ocorrer a concentração na Vara em que processada a execução coletiva), e não à avocação de todas as execuções individuais do País para aquele juízo.
+7. Embargos de Declaração acolhidos, sem efeito infringente.
+(EDcl no AgRg no CC 131628/DF, Relator Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/04/2014, DJe 17/06/2014)
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o JUÍZO FEDERAL DA 8ª VARA CÍVEL DE GOIÂNIA - SJ/GO.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se. Intimem-se.
+Após as providências cabíveis, arquivem-se os autos.
