@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravocontra adecisãoque inadmitiuorecursoespecialinterpostoporEDINETE RECHIA SANTANA eELIZABETY BARBOSA DE SOUZA, com fundamento naalínea"a" do permissivo constitucional, noqualse insurgecontra acórdão proferido pelo TJ/SC, assim ementado (e-STJ, fls. 534-545):
+"APELAÇÃO CRIMINAL. CRIME CONTRA A ORDEMTRIBUTÁRIA. ART. 1o, INC. II, DA LEI Nº 8.137/1990.FRAUDE À FISCALIZAÇÃO TRIBUTÁRIA, COM AOMISSÃO DE OPERAÇÕES SUJEITAS À INCIDÊNCIA DOIMPOSTO SOBRE SERVIÇOS EM DOCUMENTO OULIVRO EXIGIDO PELA LEGISLAÇÃO TRIBUTÁRIA.MATERIALIDADE E AUTORIA DEVIDAMENTECOMPROVADAS PELOS DOCUMENTOS COLACIONADOSAOS AUTOS. DOLO EVIDENCIADO. SUPRESSÃO DETRIBUTOS AO LONGO DE 6 MESES, RETRATANDO AEFETIVA INTENÇÃO DE SONEGAR O FISCO. SENTENÇACONDENATÓRIA MANTIDA. RECURSO DESPROVIDO".
+Os embargos de declaração então opostos foram rejeitados (e-STJ, fls. 553-557).
+Em suas razões recursais, a defesa aponta ofensa ao art. 18, parágrafo único, do CP, ao argumento de que inexistiria comprovação do dolo ou mesmo da materialidade da infração penal. Afirma, também, que seriam ilícitas as provas colhidas pela RFB nos computadores da empresa, porquanto ausente prévia autorização judicial.
+Com contrarrazões (e-STJ, fls. 593-598), orecursoespecialfoiinadmitidona origem (e-STJ, fls. 609-610), ao que se seguiu a interposição doagravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento dorecurso (e-STJ, fls. 661-662).
+É o relatório.
+Decido.
+De fato, como explicitado no agravo, penso que os embargos de declaração opostos na origem tiveram efeito interruptivo do prazo recursal, pois apontaram suposto vício integrativo no acórdão primevo e foram manejados tempestivamente. Tampouco há menção, no aresto que os julgou, de que fossem protelatórios. Por isso, o não conhecimento dos aclaratórios (mencionado no dispositivo do acórdão) configura uma atecnia, já que o mérito dos embargos foi analisado e rejeitado pela Corte de origem.
+Afasto, portanto, o óbice aplicado na origem e passo ao exame do recurso especial.
+Este, entretanto, não ultrapassa a barreira do conhecimento.
+Sobre a alegada falta de provas do dolo eda materialidade delitiva, a Corte de origem se pronunciou nos seguintes termos:
+"Extrai-se dos autos que as acusadas, sócias administradoras daempresa Tom Café Ltda ME suprimiram o recolhimento do ICMS ao deixarem deemitir documentos fiscais relativos à saída de mercadorias, de modo quedeixaram de escriturar o faturamento da empresa, incidindo no crime em tela.
+Em relação à tese de ausência de dolo, em que pese a justificativalevantada pelas acusadas, melhor sorte não lhes assiste. Explica-se:
+O art. art. 1o, inciso II, da Lei n. 8.137/90 dispõe, in verbis:
+Art. 1º.Constitui crime contra a ordem tributária suprimir ou reduzir tributo,ou contribuição social e qualquer acessório, mediante as seguintes condutas:II - fraudar a fiscalização tributária, inserindo elementos inexatos, ouomitindo operação de qualquer natureza, em documento ou livro exigido pela leifiscal;
+Assim, como destaca Guilherme de Souza Nucci,
+ ..  o objeto da conduta é a fiscalização tributária, exercida obviamente,pelos agentes do Estado. O método para a concretização da manobra ardilosapode ser a inserção (introdução, inclusão) de elementos inexatos (dados nãocorrespondentes à realidade) ou a omissão (falta de menção) de operação dequalquer natureza (execução de transação comercial de um modo geral) emdocumento (base material para o registro de dado) ou livro exigido pela leifiscal. O resultado da fraude é a supressão ou redução do tributo (Leis PenaisProcessuais Penais Especiais Comentadas, 3a edição, 2008, São Paulo:Revista dos Tribunais, p. 951).
+A materialidade do crime está positivada na notificaçãofiscal n. 5603019790, que dá conta da conduta de supressão de tributo ao longode 6 meses, o que configura a intenção de fraudar o fisco, além das informaçõescontidas no computador apreendido e dos depoimentos colhidos nos autos.
+A autoria, de igual modo, está clara nos autos, de acordo com todosos elementos existentes.
+Em que pese a negativa da autoria por parte das rés, ao argumentode que à época em que ocorreram os fatos elas não eram responsáveis pelaempresa, o documento apresentado às fls. 22-26 registra que a alteraçãocontratual do estabelecimento comercial, que incluiu as acusadas como sóciasadministradoras, foi realizada em 2004, apesar de ter sido registrada na JuntaComercial do Estado de Santa Catarina somente em 2005.
+Aliás, como bem fundamentou o juízo a quo, in verbis:
+ ..  logo, nessa ocasião as acusadas Edinete e Elizabety ingressaram nasociedade, passando a geri-la, sendo certo, ao contrário do que diz a defesa,que no período de junho a novembro do ano de 2004 já faziam as denunciadasparte da sociedade até porque, repita-se, estava formalizada e subscrita aalteração contratual, apesar de não registrada  ..  (fls. 380-381).
+Assim, o que se tem é que as acusadas já realizavam os atos degerência no ano de 2004, ainda que a alteração contratual tenha sido informadaà Junta Comercial somente no ano subsequente.
+Demais disso, ao realizar o confronto do documento entregue àfazenda estadual, que contém as relações das entradas e saídas, com asinformações obtidas no computador apreendido (fls. 112-133), constatou-se quea quantidade de operações de vendas foram muito maiores do que asefetivamente lançadas, razão pela qual toma evidente a intenção de sonegaçãofiscal operada pelas apelantes" (e-STJ, fls. 543-544).
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula n. 7/STJ.
+Sobre a alegada ilicitude das provas, constata-se que o recurso especial não indicou qual seria o dispositivo de Lei Federal tipo por violado, o que configura deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
