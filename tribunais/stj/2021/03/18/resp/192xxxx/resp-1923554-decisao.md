@@ -1,0 +1,47 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por AF FELIPE CONFECÇÕES E OUTRA, contra decisão do Tribunal de Justiça do Estado do Paraná contra acórdão assim ementado (fls. 323/331):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RECUPERAÇÃO JUDICIAL - DECISÃO AGRAVADA QUE DISPENSOU A APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE TRIBUTOS PARA HOMOLOGAÇÃO DO PLANO - REFORMA - INTERPRETAÇÃO SISTEMÁTICA DOS ARTIGOS 191-A, 205 E 206 DO CTN E DO ARTIGO 57 DA LEI 11.101/05 - EDIÇÃO DA LEI ESTADUAL Nº 18.132/14 - REGULAMENTAÇÃO DO PARCELAMENTO TRIBUTÁRIO ESTADUAL DE PESSOAS JURÍDICAS EM RECUPERAÇÃO JUDICIAL - CONDIÇÃO LEGAL QUE DEVE SER EXIGIDA - RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 429/435).
+No recurso especial, interposto com fundamento nas alíneas ae cdo permissivo constitucional, as recorrente apontaram, além da divergência jurisprudencial, ofensa aos seguintes dispositivos legais: 47 e57da Lei nº 11.101/2005e 926 do CPC.
+Sustentam, em síntese, que (I)a exigência de apresentação de certidão negativa de débito tributário para concessão da recuperação judicial contraria os princípios norteadores da lei recuperacional; e (II)existe entendimento diverso de outras Cortes e do próprio STJ quanto à exigibilidade da certidão negativa de débito fiscal.
+Foram apresentadas contrarrazões ao recurso especial (fls. 571/585).
+No parecer de fls. 647/649, o MPF opinou pelo provimento do recurso.
+É o relatório.
+Passo a decidir.
+Inicialmente, afasto as preliminares de conhecimento do recurso especial porquanto a matéria federal controvertida foi devidamente evidenciada, sua análise não demanda o exame de direito local e os fundamentos do acórdão recorrido foram devidamente atacados, não havendo fundamento suficiente, por si só, a manter o acórdão recorrido que não tenha sido objeto de impugnação.
+No que concerne à suposta violação aosartigos de Lei Federal tidos por infringidos, o Tribunal de origem asseverou que (fl. 328):
+Em suas razões, argumenta resumidamente que a decisão agravada não só violou expressa disposição legal como também se baseou em entendimento superado do egrégio Superior Tribunal de Justiça, tendo em vista que atualmente a jurisprudência se firmou no sentido da necessidade de apresentação da certidão negativa quando há lei do ente da federação concedendo o parcelamento especial para empresas em recuperação judicial.
+Assim, requereu a reforma da decisão agravada.
+Com razão.
+Afinal, o art. 191-A do Código Tributário Nacional (CTN) dispõe que "aconcessão de recuperação judicial depende da apresentação da prova de quitação de todos os tributos, observado o disposto nos arts. 151, 205 e 206 desta Lei".
+No mesmo sentido, estabelece o art. 57 da Lei nº 11.101/05 que a  3  comprovação da regularidade fiscal se dará por meio da apresentação de certidões negativas de débitos tributários, conforme previsto nos arts. 151, 205 e 206 do CTN.
+Veja-se que os referidos dispositivos do CTN tratam, respectivamente, das formas de suspensão da exigibilidade do crédito tributário, da possibilidade de exigência legal da apresentação de certidões negativas e dos efeitos negativos das certidões positivas cuja exigibilidade esteja suspensa.
+Dessa forma, a partir de uma análise sistemática da legislação, conclui-se que é imprescindível a apresentação de certidões negativas de débitos fiscais, ou de certidão positiva com efeitos de negativa, para a concessão da recuperação judicial.
+Vale mencionar, ademais, que o egrégio STJ antigamente entendia pela desnecessidade da comprovação de regularidade tributária, tal como no REsp nº 1.187.404/MT, com base na observação de que haveria direito subjetivo do contribuinte ainda não disciplinado por lei no que tange ao parcelamento tributário, tendo indicado expressamente que, enquanto se fizer inerte o legislador, não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação, contexto que não mais se observa na espécie.
+Contudo, aCorte Estadual decidiu a matéria posta em desconformidade com o entendimento do STJ sobre o tema, qual seja, "A Corte Especial do STJ decidiu que não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação judicial".
+À propósito, a atual jurisprudência desta Corte:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITOS TRIBUTÁRIOS. ART. 57 DA LEI 11.101/05 E ART. 191-A DO CTN.EXIGÊNCIA INCOMPATÍVEL COM A FINALIDADE DO INSTITUTO. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA E FUNÇÃO SOCIAL. APLICAÇÃO DO POSTULADO DA PROPORCIONALIDADE. INTERPRETAÇÃO SISTEMÁTICA DA LEI 11.101/05.
+1. Recuperação judicial distribuída em 18/12/2015. Recurso especial interposto em 6/12/2018. Autos conclusos à Relatora em 30/1/2020.
+2. O propósito recursal é definir se a apresentação das certidões negativas de débitos tributários constitui requisito obrigatório para concessão da recuperação judicial do devedor.
+3. O enunciado normativo do art. 47 da Lei 11.101/05 guia, em termos principiológicos, a operacionalidade da recuperação judicial, estatuindo como finalidade desse instituto a viabilização da superação da situação de crise econômico-financeira do devedor, a permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica. Precedente.
+4. A realidade econômica do País revela que as sociedades empresárias em crise usualmente possuem débitos fiscais em aberto, podendo-se afirmar que as obrigações dessa natureza são as que em primeiro lugar deixam de ser adimplidas, sobretudo quando se considera a elevada carga tributária e a complexidade do sistema atual.
+5. Diante desse contexto, a apresentação de certidões negativa de débitos tributários pelo devedor que busca, no Judiciário, o soerguimento de sua empresa encerra circunstância de difícil cumprimento.
+6. Dada a existência de aparente antinomia entre a norma do art. 57 da LFRE e o princípio insculpido em seu art. 47 (preservação da empresa), a exigência de comprovação da regularidade fiscal do devedor para concessão do benefício recuperatório deve ser interpretada à luz do postulado da proporcionalidade.
+7. Atuando como conformador da ação estatal, tal postulado exige que a medida restritiva de direitos figure como adequada para o fomento do objetivo perseguido pela norma que a veicula, além de se revelar necessária para garantia da efetividade do direito tutelado e de guardar equilíbrio no que concerne à realização dos fins almejados (proporcionalidade em sentido estrito).
+8. Hipótese concreta em que a exigência legal não se mostra adequada para o fim por ela objetivado - garantir o adimplemento do crédito tributário -, tampouco se afigura necessária para o alcance dessa finalidade: (i) inadequada porque, ao impedir a concessão da recuperação judicial do devedor em situação fiscal irregular, acaba impondo uma dificuldade ainda maior ao Fisco, à vista da classificação do crédito tributário, na hipótese de falência, em terceiro lugar na ordem de preferências; (ii) desnecessária porque os meios de cobrança das dívidas de natureza fiscal não se suspendem com o deferimento do pedido de soerguimento. Doutrina.
+9. Consoante já percebido pela Corte Especial do STJ, a persistir a interpretação literal do art. 57 da LFRE, inviabilizar-se-ia toda e qualquer recuperação judicial (REsp 1.187.404/MT).
+10. Assim, de se concluir que os motivos que fundamentam a exigência da comprovação da regularidade fiscal do devedor (assentados no privilégio do crédito tributário), não tem peso suficiente - sobretudo em função da relevância da função social da empresa e do princípio que objetiva sua preservação - para preponderar sobre o direito do devedor de buscar no processo de soerguimento a superação da crise econômico-financeira que o acomete.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp 1864625/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/06/2020, DJe 26/06/2020)
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RECUPERAÇÃO JUDICIAL. DESNECESSIDADE DE APRESENTAÇÃO DE CERTIDÕES DE DÉBITO PARA CONCESSÃO DE RECUPERAÇÃO JUDICIAL.
+1. A Corte Especial do STJ decidiu que não constitui ônus do contribuinte a apresentação de certidões de regularidade fiscal para que lhe seja concedida a recuperação judicial.
+2. Agravo interno não provido.
+(AgInt no REsp 1838544/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/03/2020, DJe 25/03/2020)
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Ante o exposto, dou provimento ao recurso especial, para restabelecer a decisão de primeiro grau.
+Advirto as partes da multa imposta ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO QUE DEFERIU PROCESSAMENTO DA RECUPERAÇÃO COM A DISPENSA DA APRESENTAÇÃO DE CERTIDÕES DE REGULARIDADE FISCAL. CONCESSÃO DE RECUPERAÇÃO JUDICIAL QUE NÃO DEVE SER OBSTADA PELA FALTA DE APRESENTAÇÃO DAS CERTIDÕES. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+RECURSO ESPECIAL PROVIDO.
