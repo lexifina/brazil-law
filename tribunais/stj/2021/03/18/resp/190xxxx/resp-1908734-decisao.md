@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alíneaado permissivo constitucional,contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa no julgamento do Agravo em Execuçãon.1.0105.16.045292-3/001.
+Consta dos autos que o Juízo de primeiro grau unificou e somou as penas de detenção e reclusão aplicadas ao ora Recorrido, manteve o modo fechado no qual já se encontrava e estabeleceu a data da última falta grave para progressão de regime (fls. 442-443).
+Irresignada, a Defesa interpôs agravo em execução, ao qual a Corte de origem deu provimento para determinar a suspensão da execução da pena de detenção até que essa seja compatível com a de reclusão, nos termos da seguinte ementa (fl. 514):
+"AGRAVO EM EXECUÇÃO - SUSPENSÃO DA PENA DE DETENÇÃO - NECESSIDADE - INCOMPATIBILIDADE COM AS PENAS DE RECLUSÃO. Tendo em vista a natureza distinta das penas de detenção e reclusão, inviável somá-las para fins de unificação, sendo necessário determinar a suspensão da execução da pena de detenção, até que essa seja compatível com a de reclusão, consoante ao disposto nos artigos 69 e 76 do Código Penal."
+Os embargos de declaração opostos foram rejeitados (fls. 547-552).
+Sustenta a Acusação, nas razões do apelo nobre, contrariedade ao art. 111, caput e parágrafo único, da Lei n.7.210/1984.
+Pondera que laborou em equívoco o Tribunal a quo ao" ..  cassar a decisão hostilizada, determinando a suspensão do cumprimento da pena de detenção, até que o agravante esteja em regime compatível com o seu cumprimento" (fl. 575).
+Alega que, na etapa de execução,é possível cumular as penas de reclusão e detenção, pois essas possuem a mesma natureza.
+Foram apresentadas contrarrazões (fls. 587-589). O recurso especial foi admitido (fls. 598-600).
+O Ministério Público Federal apresentou parecer, opinando pelo provimento do apelo nobre (fls. 624-634).
+É o relatório.Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 515-517; sem grifos no original):
+"Verifica-se que reeducando JOSÉ LUIZ SOARES DE ARAUJO está em execução de pena por quatro condenações distintas, pelos crimes previstos no artigo 33, § 4º da Lei 11.343/06; no artigo 344 do CódigoPenal; no artigo 33 e no artigo 35, ambos da Lei 11.343/06; e no artigo 129, § 9º, do Código Penal (atestado de pena de ordem 109).
+O Juiz de base, na decisão objurgada, unificou/somou as penas dos mencionados crimes, totalizando 15 anos e 09 meses, bem como manteve o regime fechado no qual o reeducando se encontrava e estabeleceu a data da última falta grave para a progressão de regime.
+A aludida decisão merece ser reformada quanto à soma das penas de detenção e reclusão, conforme requerido pela Defensoria Pública Estadual.
+Isso, porque, por se tratarem de espécies distintas de penas privativas de liberdade, não é viável cumular a pena de detenção (referente ao crime de lesão corporal) com as de reclusão (referentes aos crimes de tráfico de drogas, associação para o tráfico e coação no curso do processo).
+O art. 76 do Código Penal dispõe que, na hipótese de concurso de infrações de naturezas diversas, deverá ser executada, em primeiro lugar, a pena mais grave. Por sua vez, o Código de Processo Penal dispõe que, se impostas cumulativamente penas privativas de liberdade, será executada primeiro a de reclusão, depois a de detenção e por último a de prisão simples (art. 681).
+Portanto, a execução da pena pelo agravante deverá recair, em um primeiro momento, apenas sobre as penas de reclusão, postergando-se para momento sequente o cumprimento da pena de detenção, até que haja compatibilidade entre as reprimendas, tornando-se descabida, portanto, a soma da pena de detenção com as de reclusão, como procedido na instância original.
+Na esteira desse entendimento, já se manifestou esta 7ª Câmara Criminal:
+ ..
+Ante o exposto, DOU PROVIMENTO AO RECURSO, para extrair a pena de detenção da soma efetuada pelo Juízo de base, suspendendo a sua execução, até que seja compatível com as penas de reclusão, nos termos dos artigos 69 e 76 do Código Penal."
+O presente recurso cuida de hipótese de unificação de penas, regida pelo art. 111 da Lei de Execução Penal, e não de fixação inicial de regime inicial de cumprimento das reprimendas, no caso de concurso de infrações, situação em que são aplicáveis os arts. 69 e 76 do Código Penal. Assim, em se tratando de execução penal " a s reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, haja vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie." (AgRg no HC 538.896/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020.)
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO PENAL.UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO.SOMATÓRIO. POSSIBILIDADE. ART. 111 DA LEP.AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente recurso cuida de hipótese de unificação de penas, regida pelo art. 111 da Lei de Execução Penal, e não de fixação inicial de regime inicial de cumprimento das reprimendas, no caso de concurso de infrações, situação em que são aplicáveis os arts. 69 e 76 do Código Penal.
+2.Em se tratando de execução penal" a s reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, haja vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie"(AgRg no HC n.º 538.896/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020.)
+3. Agravo regimental desprovido." (AgRg no AREsp 1.619.879/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/05/2020, DJe 22/05/2020;sem grifos no original.)
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL.UNIFICAÇÃO DE PENAS DE RECLUSÃO E DETENÇÃO. SOMATÓRIO. POSSIBILIDADE.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1.A Sexta Turma do Superior Tribunal de Justiça decidiu,"Em se tratando de execução penal" a s reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, haja vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie"(AgRg no HC n.º 538.896/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020.)"(AgRg no AREsp 1619879/MT, Rel.Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/05/2020, DJe 22/05/2020.)
+ ..
+3. Agravo regimental improvido."(AgRg no AgRg no AREsp 1.651.755/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020;sem grifos no original.)
+"EXECUÇÃO PENAL. ART. 111 DA LEP.UNIFICAÇÃO DE PENAS. RECLUSÃO COM DETENÇÃO SUPERVENIENTE. REPRIMENDAS DA MESMA NATUREZA. SOMATÓRIO.POSSIBILIDADE.
+I -"A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade"(AgRg no HC n. 473.459/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 01/03/2019). Precedentes do STF e desta Corte Superior de Justiça.
+Agravo regimental desprovido." (AgRg no REsp 1.861.665/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 15/05/2020;sem grifos no original.)
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial, a fim de restabelecer a decisão de primeiro grau no que diz respeito à soma das penas de reclusão e detenção impostas ao ora Recorrido.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL.UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO.ART. 111 DA LEP.SOMATÓRIO.POSSIBILIDADE. PRECEDENTES.RECURSO ESPECIAL CONHECIDO E PROVIDO.
