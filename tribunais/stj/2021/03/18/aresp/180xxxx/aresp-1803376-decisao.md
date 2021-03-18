@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO EDUCACIONAL SEMINARIO PAULOPOLITANO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. ESTABELECIMENTO DE ENSINO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE.
+Não trazendo a apelante elementos que viabilizem o reconhecimento de eventual desacerto na sentença proferida, incabível a sua reforma. Sentença mantida. Recurso desprovido. (fls. 120)
+O recorrente, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial acerca da existência de prescrição intercorrente.
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso especial, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou de forma devida o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
