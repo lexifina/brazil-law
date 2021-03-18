@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Braz Tiburcio, apontando como autoridade coatora o Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça, que indeferiu liminarmente a inicial do HC nº 649.836/SP.
+    Narra a impetrante, em suma, que o paciente está preso preventivamente desde o dia 10/1/21, pois teria subtraído 7 (sete) pacotes de papel higiênico, avaliados em R$ 20,16 (vinte reais e dezesseis centavos), dos banheiros do Shopping Aricanduva.
+    Assevera que,
+    “ainda que se considere moralmente reprovável a conduta delitiva ora apurada, as circunstâncias indicam que não se reveste de relevância para o direito penal, pois é profundamente desproporcional a mobilização da máquina judiciária pelo furto de rolos de papel higiênico que valem cerca de VINTE REAIS.”
+    Sustenta o cabimento do “relaxamento do flagrante pela atipicidade da conduta ou a concessão da liberdade”.
+    Nesse sentido, sustenta que
+    “as justificativas para manter a prisão do paciente, em primeira e segunda instâncias, residem na sua reincidência e antecedentes – o que não faz o menor sentido já que o que se discute, aqui, é que a conduta imputada – entrar no banheiro de um shopping, pegar alguns rolos de papel e ser abordado pela segurança local na saída – NÃO É CRIME.”
+    Requer o deferimento da liminar para permitir que o paciente aguarde em liberdade o julgamento do writ. No mérito, requer a concessão da ordem para se determinar trancamento da ação penal em face da atipicidade material da conduta, evidenciada pela sua insignificância.
+    Examinados os autos, decido.
+    Ressalto, inicialmente, que a impetração se volta contra decisão singular proferida nos autos do HC nº 649.836/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros. Confira-se, ainda, as seguintes decisões monocráticas: HC nº 189.920/SP, Relator o Ministro Luiz Fux, DJe de 24/8/20; HC 185.310/RJ, Relatora a Ministra Cármen Lúcia, DJe de 18/5/20; e HC nº 171.024/SP, Relator o Ministro Edson Fachin, DJe de 10/6/19.
+    Não obstante, tem-se, na espécie, como pretensão central, o trancamento de ação penal na qual responde o paciente pelo delito de furto simples (CP, art. 155), tendo em vista a suposta atipicidade material da conduta, evidenciada pela sua insignificância.
+    Contudo, entendo não ser possível acatar a tese de irrelevância material da conduta praticada, pois, conforme se infere dos autos, o paciente “é multireincidente específico, já ostentando condenações definitivas anteriores pela prática de crime de furto e estando ainda em cumprimento de pena.” (edoc. 2 – grifos nossos)
+    Essas circunstâncias obstam a aplicação do princípio da insignificância, pois, segundo o entendimento consolidado da Corte,
+    “a aferição da insignificância da conduta como requisito negativo da tipicidade, em crimes contra o patrimônio, envolve um juízo amplo, que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados (HC 123.533, Relator Min. ROBERTO BARROSO, Tribunal Pleno, DJe de 18/2/2016).” (RHC nº 122.332/MG, Primeira Turma, Redator do acórdão o Ministro Alexandre de Moraes, DJe de 10/8/20).
+    Perfilham esse entendimento: HC nº 102.088/RS, Primeira Turma, Relatora a Ministra Cármen Lúcia DJe de 21/5/10; HC nº 107.138/RS, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/5/11; RHC nº 112.870/DF, Primeira Turma, de minha relatoria, DJe de 27/8/12; HC nº 117.083/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/3/14.
+    Remanesce, ainda, a questão atinente à custódia preventiva decretada e, neste ponto, tenho como nítido o constrangimento ilegal flagrante a justificar a concessão da ordem ex officio.
+    É bem verdade que a prisão preventiva do paciente está justificada na garantia da ordem pública, uma vez demonstrado o risco concreto de reiteração delitiva. Logo, é idôneo o motivo justificador da medida extrema, na linha de precedentes (v.g. HC nº 112.744/RS, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 10/5/13).
+    Todavia, não vislumbro, na atual quadra vivenciada, a prisão preventiva - última ratio das medidas cautelares - como a melhor solução para a hipótese de um furto simples de 7 (sete) pacotes de papel higiênico, avaliados em R$ 20,16 (vinte reais e dezesseis centavos).
+    Primeiro porque, penso haver outras medidas cautelares contempladas no art. 319 do CPP, que, a meu sentir, são suficientes à contenção do periculum libertatis evidenciado do paciente, pela contumácia delitiva.
+    Essas medidas, como já reconhecido pela Corte, podem ser tão onerosas ao implicado quanto a própria prisão (v.g. HC nº 121.089/AP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/3/15).
+    Segundo porque, a Recomendação nº 62 do CNJ advertiu os magistrados quanto à máxima excepcionalidade de novas ordens de prisão preventiva, tudo com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus da Covid-19 (art. 4º, inciso III).
+    É público e notório a escalada no aumento de casos da doença pandêmica no Estado de São Paulo e no Brasil, segundo dados atualizados, divulgados pelo Ministério da Saúde em painel de casos de doença pelo coronavírus 2019 (COVID-19), disponível na internet (https://covid.saude.gov.br/).
+    Diante dessas considerações, nego seguimento ao presente habeas corpus. Entretanto, nos termos do art. 192, caput, do Regimento Interno da Corte, concedo a ordem de ofício para determinar ao Juízo da 26ª Vara Criminal do Foro Central Criminal da Barra Funda/SP que substitua a prisão preventiva do paciente, no bojo da Ação Penal nº 1500992-47.2021.8.26.0228, pelas medidas cautelares previstas no art. 319 do Código de Processo Penal.
+    Publique-se.
+    Brasília, 18 de março de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
