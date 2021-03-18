@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Amazonas cuja ementa é a seguinte:
+EMENTA  DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DE GARANTIA ACEITA PELA CREDOR/EXEQUENTE. PENDÊNCIA DE TRÂNSITO EM JULGADO DO ATO JUDICIAL QUE JULGOU EMBARGOS À EXECUÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+I  Consoante remansosa jurisprudência do Superior Tribunal de Justiça, a garantia prestada e aceita pelo exequente, em executivo fiscal, permanecem com essa natureza jurídica até o trânsito em julgado da sentença que julga os embargos à execução e, portanto, não pode ser substituída por penhora em dinheiro.
+II  Agravo de instrumento conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts:
+(i) art. 15, 11, da Lei nº 6.830/80 e art. 797, 835, § 1 2 , 848, 1, e 919, § 5 2 do CPC, na exata medida em que, entendeu inexistir direito do exequente à substituição da penhora;
+(ii) o comando contido no § 2º do art. 32 da LEF ao lhe atribuir alcance normativo impossível de ser albergado no seu conteúdo; e
+(iii) subsidiariamente, as normas do art. 1022 do CPC, ao furtar - se a discutir nos Embargos de Declaração as alegações do Estado do Amazonas capazes de infirmar a conclusão do julgado.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 193/194, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mérito, o Tribunal de origem, no mérito, entendeu que (fls. 62/63):
+Obtempera-se, portanto, que, como no caso dos autos o Estado do Amazonas/agravante tinha aceitado a carta de fiança bancária apresentada pelo agravado, seria descabida por excessiva onerosidade ao devedor a substituição dessa garantia por penhora em dinheiro. Esse foi entendimento esboçado pelo Superior Tribunal de Justiça colacionado ao acórdão alhures mencionado.
+ ..
+Por esse motivo, até o trânsito em julgado da sentença de embargos à execução, a carta fiança mantém a natureza jurídica de garantia, a qual, nos termos do julgado nos ED n.º 0000792-73.2017.8.04.0000, não pode substituída por penhora de valores.
+Constata-se que o Tribunal de origem entendeu que, no caso dos autos, "o Estado do Amazonas/agravante tinha aceitado a carta de fiança bancária apresentada pelo agravado, seria descabida por excessiva onerosidade ao devedor a substituição dessa garantia por penhora em dinheiro".
+Primeiramente, é importante salientar que o entendimento desta Corte Superior é no sentido de que: "O inciso II do art. 15 da Lei 6.830/80, que permite à Fazenda Pública, em qualquer fase do processo, postular a substituição do bem penhorado, deve ser interpretado com temperamento, tendo em conta o princípio contido no art. 620 do Código de Processo Civil, segundo o qual "quando por vários meios o credor promover a execução, o juiz mandará que se faça pelo modo menos gravoso", não convivendo com exigências caprichosas, nem com justificativas impertinentes" (REsp 53.652/SP, Rel. p/ acórdão Min. Cesar Asfor Rocha, 1ª Turma, LEXSTJ, vol. 73, p. 321).
+No mesmo sentido, coleciona-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FIANÇA BANCÁRIA E DEPÓSITO BANCÁRIO. SUBSTITUIÇÃO DE GARANTIA. ART. 15, II, DA LEI N. 6.830/80. INTERPRETAÇÃO CONFORME O PRINCÍPIO DA MENOR ONEROSIDADE CONTIDO NO ART. 620 DO CPC. INAPLICABILIDADE DO ERESP 1.077.039/RJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. "O inciso II do art. 15 da Lei 6.830/80, que permite à Fazenda Pública, em qualquer fase do processo, postular a substituição do bem penhorado, deve ser interpretado com temperamento, tendo em conta o princípio contido no art. 620 do Código de Processo Civil, segundo o qual "quando por vários meios o credor promover a execução, o juiz mandará que se faça pelo modo menos gravoso", não convivendo com exigências caprichosas, nem com justificativas impertinentes" (REsp 53.652/SP, Rel. p/ acórdão Min. Cesar Asfor Rocha, 1ª Turma, LEXSTJ, vol. 73, p. 321).
+2. Não se aplica ao presente caso o entendimento firmado no EREsp 1.077.039/RJ, visto se tratar de hipótese contrária a dos autos.
+3. A substituição da fiança bancária pelo depósito só é cabível se a garantia se mostrar inidônea sob pena de impor ao devedor injustificável gravame.
+4. Embargos de divergência providos.
+(EREsp 1163553/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/04/2015, DJe 14/09/2015)
+Assim, constata-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  descabimento de substituição da garantia por excessiva onerosidade do devedor  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar com esse entendimento, destacam-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Não há falar em omissão, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão com entendimento diverso do perfilhado pela parte.
+2. A conclusão do Tribunal de origem acerca de ter havido homologação de laudo pericial, preclusão consumativa e desnecessidade de produção de nova prova pericial, decorreu do exame dos elementos constantes nos autos, de modo que não pode ser revista em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp 1536408/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 24/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. DISCUSSÃO SOBRE A NECESSIDADE DE NOMEAÇÃO DE AVALIADOR OFICIAL. ACÓRDÃO RECORRIDO FULCRADO NAS PECULIARIDADES DO CASO CONCRETO. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. É certo que a orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que o art. 13, § 1º, da Lei 6.830/80 deve ser aplicado, ainda que a avaliação tenha sido efetuada por oficial de justiça, ou seja, "impugnada a avaliação, pelo executado, ou pela Fazenda Pública, antes de publicado o leilão, o juiz, ouvida a outra parte, nomeará avaliador oficial para proceder a nova avaliação", conforme dispõe o preceito legal referido.
+2. No entanto, em caso análogo, a Segunda Turma/STJ mitigou a regra prevista no art. 13, § 1º, da Lei 6.830/80, aplicando o óbice da Súmula 7/STJ, na hipótese em que o Tribunal de origem afirmou inexistir situação concreta apta a invalidar a avaliação realizada pelo oficial de justiça avaliador (REsp 1259854/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2011, DJe 01/09/2011).
+3. No presente caso, considerando que o Tribunal afirmou que, "neste momento, deve ser prestigiada a presunção de legitimidade do laudo produzido pela auxiliar do juízo, não havendo elementos mínimos a autorizar, por ora, nova avaliação do imóvel", é imperioso concluir que a análise da alegada afronta ao art. 13, § 1º, da Lei 6.830 encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1524901/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DE GARANTIA. ART. 15, II, DA LEI N. 6.830/80. INTERPRETAÇÃO CONFORME O PRINCÍPIO DA MENOR ONEROSIDADE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
