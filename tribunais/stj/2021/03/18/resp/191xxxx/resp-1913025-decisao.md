@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a",da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo,assim ementado:
+EXECUÇÃO PENAL. Penas restritivas de direitos.Conversão em privativa de liberdade. Decisãomantida. Agravante impossibilitado de cumprir aspenas restritivas de direitos em razão de outrascondenações, nas quais sobreveio a fixação doregime fechado. Inexistência de ofensa, no caso, aodisposto no artigo 76, do Código Penal. Precedentesdo STJ e desta Câmara. Agravo improvido.
+A defesa aponta ofensa aos arts. 44, § 5º, do Código Penal e 181, § 1º, "e", da Lei de Execução Penal alegando, em síntese, que "se o recorrente estava cumprindo pena privativa deliberdade em regime fechado e posteriormente adveio uma sentençacondenatória fixando pena restritiva de direitos, esta segunda execuçãodeve ser suspensa até o cumprimento da primeira, que é mais grave" (e-STJ fl. 144).
+As contrarrazões foram apresentadas às e-STJ fls. 154/159.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo não provimento do recursoàs e-STJ fls. 172/175.
+É o relatório. Decido.
+O recurso nãomerece prosperar.
+Os elementos existentes nos autos informam que o TJSP negou provimento ao agravo em execução penal interposto pela defesa e manteve a decisão que converteu as penas restritivas de direitos em privativa de liberdade em razão da incompatibilidade do cumprimento simultâneo das reprimendas.
+A defesa alega quese o recorrente estava cumprindo pena privativa de liberdade em regime fechado e posteriormente adveio uma sentença condenatória fixando pena restritiva de direitos, esta segunda execução deve ser suspensa até o cumprimento da primeira, que é mais grave.
+Sobre o tema o Tribunal de origem assim se pronunciou:
+No caso, o sentenciado está impossibilitado decumprir as sanções restritivas de direitos em razão de ter suportado condenaçõesa pena carcerária, em regime fechado. E, diante da incompatibilidade documprimento simultâneo das reprimendas, era de rigor a unificação, com aconversão das restritivas de direitos em penas corporais, nos termos do artigo111, parágrafo único, da Lei nº 7.210/84, tal como efetivado em primeirainstância.
+Observa-se que o entendimento do Tribunal de origem está em harmonia com a jurisprudência desta Corte assente no sentido de que"no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou intermediário, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, nos termos do art. 111 da LEP, deve-se proceder à unificação das penas, não sendo aplicável o art. 76 do Código Penal. Habeas Corpus não conhecido" (HC 346.851/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 19/4/2016, DJe 5/5/2016).
+Ainda na mesma linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SENTENCIADO QUE CUMPRE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. NOVAS CONDENAÇÕES A SANÇÕES RESTRITIVAS DE DIREITO. IMPOSSIBILIDADE DE CUMPRIMENTO CONCOMITANTE OU DE SUSPENSÃO DAS PENAS ALTERNATIVAS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE QUE SE IMPÕE. NECESSIDADE DE UNIFICAÇÃO DAS PENAS. INTERPRETAÇÃO DOS ARTS. 76 E 111 DO CÓDIGO PENAL E DO ART. 181, § 1º, DA LEP. RECURSO NÃO PROVIDO.
+1. Esta Corte pacificou entendimento no sentido de que, no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou intermediário, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, nos termos do art.
+111 da LEP, deve-se proceder à unificação das penas, não sendo aplicável o art. 76 do Código Penal. Habeas Corpus não conhecido (HC 346.851/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 19/4/2016, DJe 5/5/2016).
+2. Dessa forma, na hipótese vertente, sobrevindo condenação do sentenciado à pena privativa de liberdade que se revele incompatível com o cumprimento da primeira reprimenda aplicada, pode o Juiz converter a pena restritiva de direitos em privativa de liberdade.
+3. Com efeito, no caso, como demonstrado na decisão recorrida, o paciente tem contra si dezoito execuções penais, cumprindo, atualmente, a pena em regime fechado. Sobrevieram condenações a penas restritivas de direitos, tendo o juízo da execução determinado a conversão destas em privativas de liberdade, a fim de unificar as penas, dada a impossibilidade de cumprimento simultâneo delas.
+4. Agravo regimental não provido.(AgRg no HC 627.731/SP, desta Relatoria, DJe 01/03/2021)
+Incidência do Enunciadon.568 desta Corte.
+Ante o exposto, com fundamento no art. 932, II, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
