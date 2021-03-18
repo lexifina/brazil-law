@@ -1,0 +1,16 @@
+DECISÃO
+LUIZ ESTEVÃO DE OLIVEIRA NETO agrava dedecisão da Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 1143/1145), que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da CF, contra acórdão assim ementado (fls. 1.795-1.796):
+ ..
+A competência da VEP limita-se à unificação de penas aplicadas ao mesmo réu em processos distintos e visa proporcionar maior controle do cumprimento das sanções e da concessão de benefícios, tanto pelo réu quanto pelo Estado. Ao Juízo das Execuções incumbe o somatório das penas impostas, a readequação do regime de cumprimento, caso necessário, e o reconhecimento de eventual continuidade delitiva, para que o cumprimento das sanções seja uniforme.
+II.Quando os crimes são objeto de uma mesma denúncia, apurados em única ação penal, com uma só decisão, compete ao juízo da condenação realizar a unificação das penas de cada um dos delitos imputados ao réu. O juiz sentenciante, conhecedor das circunstâncias em que as infrações foram praticadas, é quemmelhor decidirá pela aplicação do concurso material, formal ou da continuidade delitiva.
+III. Recurso desprovido.
+No agravo em recurso especial, a parte afirma que o reclamo comporta processamento e reitera a tese de que o acórdão recorrido violou os arts. 619 do Código de Processo Penal,63, III, 110 e 111, todos da Lei 7.210/1984, pois oJuiz da VEC, a seu ver, tem competência para alterar asentença condenatória ereconhecer a continuidade delitiva não verificada no processo de conhecimento.
+O Ministério Público Federal opinou pelo não provimento da insurgência.
+Decido.
+O agravo comporta conhecimento, mas está correta a inadmissão do recurso especial.
+Não se verifica a alegada violação do art. 619 do CPP, uma vez o provimento jurisdicional do Tribunal a quo não padece de omissão, contradição ou obscuridade. Os aclaratórios foram utilizados para revisão do julgado, para retratar mero inconformismo da parte, o que não se admite.
+Na origem, nos autos relacionados à Apelação n. 20006181001198-1,Luiz Estevão de Oliveira Netofoi condenado por peculato, estelionato e corrupção ativa e o Juiz de conhecimento não aplicou o art. 71 do CP, pois reconheceuo concurso material de delitos. Os ilícitos foram apuradosna mesma ação penal,com a prolação de uma só sentença. Não compete ao Juiz da VEC alterar o título executivo que lhe foi enviado, em afronta à coisa julgada, parareconhecer a ficção legal.
+Acontinuidade delitiva passível de ser decidida nafase da execução é somente aquela relacionada aprocessosdistintos, no momento da unificação das penas(art. 111 da LEP), quanto surgem questõesnão conhecidas pelosjuízes de conhecimentoque prolataram duas ou maissentenças condenatórias e que ignoravam eventual encadeamento de condutas ilícitas.
+Está correta a incidência da Súmula n. 83 do STJ, pois "Compete ao Juízo das Execuções Penais a unificação das penas, assim como a verificação da continuidade delitiva, dos processos que  ..  tramitaram separadamente com prolação de sentenças diversas" (AgRg no AREsp 1181721/RS, Rel. Ministra Maria Thereza de Assis Moura, DJe 27/4/2018).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
