@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por P K TRANSPORTES LTDA à decisão de fls. 1458/1459, que não conheceu do recurso.
+Sustenta a parte embargante que:
+ ..
+Também é certo que o único pedido de reforma do acórdão ad quo foi a redução dos valores fixados a título de danos morais, e, obviamente, o único fundamento legal do pedido de redução é o artigo 944 do Código Civil, não existindo outro.
+Data vênia, a não menção expressa do referido artigo legal, não pode levar a não apreciação do recurso especial, pois estaremos diante de um excesso de formalismo, e de negativa de prestação jurisdicional.
+ ..
+Outrossim, há omissão ainda no despacho agravado, quando diz que a "recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados".
+A omissão existe Excelência, porque basta analisar o recurso especial interposto, que bem se verá que a recorrente/embargante ao transcrever e usar como paradigmas dois acórdãos do Superior Tribunal de Justiça, um do Tribunal de Justiça do Estado de São Paulo e dois do Tribunal de Justiça do Estado do Rio Grande do Sul, destacou em todos eles a similitude fática, qual seja, valor da condenação em danos morais por morte de genitor e filho em acidente de trânsito, em valor inferior ao fixado pelo acórdão recorrido. (fls. 1461/1463)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Registre-se que "o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF". (AgInt no AREsp 1.282.707/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 11/2/2021.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
