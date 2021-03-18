@@ -1,0 +1,28 @@
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+TERCEIRA CÂMARA CRIMINAL
+EMBARGOS DE DECLARAÇÃO CRIMINAL (420)1003807-96.2021.8.11.0000
+EMBARGANTE
+DR. PEDRO MENDES FERREIRA
+EMBARGADO
+MINISTÉRIO PÚBLICO
+DECISÃO MONOCRÁTICA
+Vistos...
+Trata-se de Embargos de Declaração opostos pelo Dr. Pedro Mendes Ferreira em face da decisão que indeferiu a tutela de urgência reclamada nos autos do Habeas Corpus n.o 1003807-96.2021.8.11.000, impetrado pelo ora embargante em benefício da paciente Cristiane Silverio (ID 79036474).
+Em apertada síntese, alega o insurgente que a decisão embargada padece dos vícios da ambiguidade e da contradição, porquanto negou o pedido de concessão liminar da ordem arvorando-se em fundamentação diversa daquela contida na sentença condenatória proferida em desfavor da paciente, na medida em que ponderou as disposições do art. 42 da Lei n.o 11.343/2006 em seu demérito e com preponderância sobre as circunstâncias judiciais do art. 59 do CP na primeira etapa do cálculo penal, olvidando ser irrisória a quantidade de droga apreendida.
+Outrossim, menciona que, nada obstante a prisão cautelar ora experimentada pela paciente decorra de revogação do recolhimento domiciliar anteriormente deferido, porquanto presa em flagrante por supostamente praticar novo delito de tráfico de drogas no curso da benesse; a favorecida nesta ordem fora absolvida da imputação da prática desta nova conduta criminosa, razão pela qual não há falar em descumprimento das obrigações outrora impostas.
+Diante do que expõe e invocando o fato de a paciente ser genitora de um indivíduo tetralégico, pugna pelo provimento dos presentes aclaratórios, a fim de ver relaxada ou revogada a prisão preventiva da acusada, possibilitando-lhe aguardar em liberdade o julgamento do recurso interposto em face do édito condenatório, ao que agrega o pleito subsidiário de abrandamento do regime inicial de cumprimento da pena, “levando-se em consideraçãoo a inequívoca ilegalidade quando da aplicação da pena base” (sic).
+No entanto, cumpre esclarecer que a jurisprudência das Cortes Superiores firmou-se no sentido de reconhecer a irrecorribilidade do ato do Relator que, em sede de habeas corpus, indefere motivadamente medida liminar requerida pelo impetrante, de modo a tornar incabível a oposição dos presentes embargos de declaração (Nesse sentido: STJ – EDcl no HABEAS CORPUS N.o 467.959/SP (2018/0230561-2), Rel. Min. Laurita Vaz, 04/10/2018).
+Por outro lado, embora não se revista de complexidade, a matéria devolvida a este eg. Sodalício por intermédio do vertente recurso exige, para sua escorreita cognição, que se tenha em mente as hipóteses de cabimento dos embargos de declaração, os quais possuem finalidade específica, expressamente delimitada pelo artigo 619 do Código de Processo Penal, que disciplina: “Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão” (destaquei).
+E consoante relatado acima, a presente insurgência não busca aclarar ou integrar o pronunciamento jurisdicional, ao contrário, pretende modificar por completo o teor da decisão monocrática proferida por este Relator, em caráter liminar [ou seja, em um juízo provisório e precário], na data recente de 09/03/2021, tudo no intuito de lograr a excepcional antecipação da tutela vindicada no Habeas Corpus n.o 1003807-96.2021.8.11.0000, para que seja devolvida a liberdade ambulatorial à paciente Cristiane Silverio, seja mediante a revogação da sua prisão preventiva, seja por meio da substituição do cárcere pela custódia domiciliar, nos termos do art. 318-A do CPP, ou ainda, mediante a alteração do regime inicial de cumprimento da pena privativa de liberdade imposta na sentença.
+Não passa ao largo da consideração deste Relator o zelo do impetrante com a causa e nem a compreensível preocupação da mãe encarcerada com a sua prole – principalmente quando, em tese, é genitora de indivíduo que exige cuidados especiais –, porém, como dito no pronunciamento judicial embargado, a concessão liminar do writ é medida de todo excepcional e extravagante, possível apenas quando se trata de ilegalidade inequívoca, pois, subsistindo a mínima dúvida a respeito da caracterização do constrangimento ilegal anunciado, a análise exauriente da questão deve ser feita pelo juiz natural da causa, que é o Colegiado, após o aporte das informações prestadas pelo juízo a quo.
+Ademais, tivesse o impetrante permitido transcorrer normalmente a marcha processual, o feito já poderia ter sido incluído em pauta de julgamento, afinal, as informações da autoridade inquinada de coatora foram prestadas na semana passada e os autos só não foram encaminhados à Procuradoria-Geral de Justiça para emissão de parecer porque houve a oposição dos presentes embargos declaratórios.
+À vista disso, e inexistindo, à toda evidência, o propósito de sanar vício ou erro material, mas de rediscutir a matéria insistentemente, olvidando que se trata a decisão embargada de pronunciamento precário, e que o exame aprofundado da causa é típico da decisão final do habeas corpus; afigura-se inegável a ausência das hipóteses de embargabilidade previstas no art. 619 do Código de Processo Penal.
+Desta feita, NÃO CONHEÇO dos embargos de declaração.
+Intime-se o impetrante.
+Na sequência, proceda-se à retificação da autuação, tornando a rotulá-la como habeas corpus.
+No mais, já constando dos autos as informações requisitadas à d. autoridade tida por coatora (ID 79451470), ouça-se a i. Procuradoria-Geral de Justiça.
+Cumpra-se COM a URGÊNCIA que o caso requer.
+Cuiabá-MT, 17 de março de 2021.
+Des. Gilberto Giraldelli
+Relator
