@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo manejado por RN Comércio Varejista S.Acontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado(fl. 493):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. ICMS APURADO NO TRÂNSITO DE MERCADORIAS. SUBSTITUIÇÃO TRIBUTÁRIA. PRODUTOS ELETRÔNICOS. PROTOCOLO ICMS Nº 192 DE 2009. RECOLHIMENTO DO ICMS PELO REMETENTE. MULTA. CARÁTER CONFISCATÓRIO. INOCORRÊNCIA.
+RECURSO DESPROVIDO.
+Opostos embargos declaratórios pelo ora agravado, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 515/519).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 6º, 7º, 8º, 9º e 10 da LC nº 87/96; e 108, 114, 121, I e II, e 128 do CTN.Sustenta que:(I)"a Recorrente praticou o fato gerador de ICMS decorrente de operação própria, e não de ICM-ST, portanto estava desobrigada pelo recolhimento do ICMS-ST, relativamente às vendas via internet de mercadorias destinadas a consumidor final"(fl. 540); e(II)"a multa deve ser reduzida de 60% para 10% por todo o período de 2012 a 2014, em patamar razoável à conduta da Recorrente" (fl. 544).
+O ora agravado deixou o prazo de contrarrazões transcorrerin albis,cf. certidão de fl. 592.
+Contraminuta ao agravo às fls. 660/664.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, constata-se a interposição de duas peças idênticas de agravo pela parte, a primeira de fls. 613/636 e a segunda de fls. 676/699. Em atenção ao princípio da unirrecorribilidade, deve ser analisado apenas o recurso de fls. 613/636.
+Pois bem.
+Na hipótese dos autos, o Tribunala quoassim dirimiu a controvérsia pertinente a qual regime do ICMS seria aplicável ao caso. É ver (fls.495/496):
+A Lei Complementar nº 87/96, por conseguinte, legitimou o referido instituto, autorizando que os Estados atribuíssem ao contribuinte do tributo a responsabilidade pelo pagamento de ICMS a terceiro, na condição de substituto tributário.
+Nesse passo, o Estado do Rio Grande do Sul editou a Lei nº 8.820/89, que dispõe sobre o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação, cujo regulamento foi aprovado pelo Decreto nº 37.699/97, ficando estabelecido que o regimede substituição tributária em operações interestaduais dependerá de acordo específico a ser ratificado pela Assembléia Legislativa do Estado.
+Em razão disso, o Estado do Rio Grande do Sul e os Estados do Amapá, Mato Grosso, Minas Gerais, Paraná, Rio de Janeiro e Santa Catarina celebraram o Protocolo ICMS nº 192 de 2009, que dispôs sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos, atribuindo ao remetente das mercadorias a responsabilidade pelo ICMS a ser recolhido, inclusive das diferenças entre alíquotas interestadual e interna.
+Assim, existindo acordo entre o Rio Grande do Sul e o Estado de Minas Gerais especificamente sobre a circulação de produtos eletrônicos, mostra-se legal a cobrança do imposto em substituição tributária.
+Nesse contexto, a adoção da tese recursal, no sentido de que a operação realizada pelo contribuinte não estaria sujeita ao ICMS-ST,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como a interpretação de leis estaduais, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 7/STJ e 280/STF. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. BASE DE CÁLCULO. CONTRATO DE FRANQUIA. ROYALTIES. INCLUSÃO. HIPÓTESE EM QUE O ACÓRDÃO LOCAL, FUNDADO NA INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E DA LEGISLAÇÃO INFRALEGAL, ENTENDEU SER INDEVIDA A INCIDÊNCIA DA EXAÇÃO TRIBUTÁRIA.INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ E 280/STF. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1.  ..
+2. Nesse contexto, a revisão do acórdão recorrido demandaria evidente averiguação de cláusulas contratuais e do contexto fático-probatório dos autos, além do exame do Protocolo ICMS 95/2009 e do RICMS/RS, providências inviáveis em sede de Recurso Especial, a teor das Súmulas 5 e 7/STJ e da Súmula 280/STF.
+3. Agravo Interno do ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no AREsp 1.593.346/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 12/11/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ICMS RECOLHIDO SOB A SISTEMÁTICA DA SUBSTITUIÇÃO TRIBUTÁRIA. VALOR DA OPERAÇÃO REAL INFERIOR À PRESUMIDA. ACÓRDÃO FUNDAMENTADO EM DISPOSITIVO CONSTITUCIONAL. RESTITUIÇÃO IMEDIATA E PREFERENCIAL. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A tese de violação ao artigo 10 da Lei Complementar 87/96 não pode ser apreciada, tendo em vista que o acórdão recorrido solucionou a controvérsia à luz de fundamento eminentemente constitucional, asseverando que, sob o regime da substituição tributária progressiva instituído pelo artigo 150, § 7º, da CF/88, o direito de restituição se limita aos casos em que o fato gerador presumido não se realiza.
+2. Verifica-se, também, que o deslinde da controvérsia reclama a análise da legislação paulista, quais sejam, os arts. 66-B, da Lei 6.374/89, Lei 9.176/95, Decreto 41.653/97, Decreto 42.039/97e Decreto 43.853/99, o que faz incidir, por analogia, o óbice da Súmula 280/STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 73.519/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/3/2013, DJe 25/3/2013)
+Ademais, a leitura do acórdão recorrido também revela que a solução da contenda perpassa, necessariamente, pela análise do teor de convênios do ICMS que regulam a questão da substituição tributária, o que impede a análise da questão nesta instância especial. Isso porque "a jurisprudência do STJ firmou-se no sentido de que não é possível, pela via do recurso especial, a análise de eventual ofensa a convênio ICMS, por não estar compreendido na expressão lei federal, nos termos do art. 105, III, da Constituição Federal"(AgRg no REsp 1.449.322/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/10/2015, DJe 6/11/2015)
+No que concerne à multa, são pertinentes as seguintes passagens dodecisumora vergastado (fl. 497):
+No que tange a multa, não há falar em efeito confiscatório ou abusivo, porquanto a penalidade é decorrente da própria infração tributária, prevista no art. 9º, II, da Lei 6.537/73.
+Outrossim, tenho que percentual fixado - 60% - é proporcional e razoável, além de desestimular as infrações à lei tributária.
+Assim, havendo previsão expressa de aplicação de multa em caso de cometimento de infração tributária - art. 9º, da Lei Estadual nº 6.537, de 1973, com a redação dada pelo art. 1º da Lei Estadual nº 10.932, de 1997, não há falar em ilegalidade do percentual fixado.
+Desse modo é patente que o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, enseja a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a já mencionada Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+De se destacar que, mesmo que a parte compreenda que a aplicação das normas estaduais resultouem malferimento à legislação federal,o fato é que,após a edição da Emenda Constitucional nº 45/2004, a competência para julgar as causas decididas, em única ou última instância, quando a decisão recorrida julgar válida lei local contestada em face de lei federal, foi transferida para o STF, nos termos do art. 102, III, d, da CF/88 (AgRg no REsp 1.456.225/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Isso sem mencionar que, sob o pretexto de violação ao CTN, a parte aduz, em verdade, tese relativa à suposta inobservância o princípio constitucional da proibição do confisco, questão que, igualmente, pertence à esfera de competência do STF. Veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ALEGAÇÃO DE VÍCIOS NA CDA. CERCEAMENTO DE DEFESA. JUNTADA DE PROCESSO ADMINISTRATIVO FISCAL. TESES REFUTADAS PELO ACÓRDÃO RECORRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA. CARÁTER CONFISCATÓRIO. FUNDAMENTO CONSTITUCIONAL. TAXA SELIC. LEGITIMIDADE. PRONUNCIAMENTO DA PRIMEIRA SEÇÃO SOB O RITO DO ART. 543-C DO CPC/1973.
+1.  ..
+3. Extrapola o limite de competência do recurso especial, ex vi do art. 105, III, da CF/1988, enfrentar a tese recursal autoral, acerca da multa aplicada pelo descumprimento da obrigação tributária, fundada no principio constitucional do não confisco (AgRg no Ag 1.394.332/RS. Rel. Ministro Benedito Gonçalves. Primeira Turma. DJe 26/5/2011).
+4.  ..
+5. Agravo interno não provido.
+(AgInt no REsp 1.505.813/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 30/05/2018)
+Além disso, para se adotar o argumento de que a multa se revelaria alheia aos parâmetros de razoabilidade e de equidade, face a gravidade da conduta,seria necessário reexaminar as provas dos auto, o que, como já dito, é obstado pelaSúmula 7/STJ. Sobre o tema:
+EXECUÇÃO FISCAL  AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA (AIIM)  ELEVADO VALOR  RAZOABILIDADE DA MEDIDA  LEI LOCAL.
+1.  ..
+3. In casu, a proporcionalidade da medida adotada foi analisada pelo Tribunal de origem com fundamento nos fatos envolvidos, na situação descrita no auto de infração e imposição de multa, o que atrai a incidência da Súmula 7/STJ.
+4. Ademais, o Tribunal a quo analisou a legalidade do quantum fixado pela legislação local (Lei Estadual n 2.657/96 - RJ), concluindo pela sua juridicidade. Inviável rever tal entendimento, em razão da Súmula 280/STF, que determina: "Por ofensa a direito local não cabe recurso extraordinário".
+Agravo regimental improvido.
+(AgRg no REsp 982.582/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/6/2010, DJe 22/6/2010)
+Dessarte, é inviável a apreciação do apelo nobre nos termos em que foi interposto, sob qualquer ótica em que se analise a insurgência.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
