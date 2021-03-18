@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE NA ORIGEM. FUNDAMENTOS INATACADOS.
+1. A ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial implica o não conhecimento do agravo em recurso especial.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo Município do Rio de Janeirocontra decisão que não conheceu do agravo em recurso especial (e-STJ, fls. 212-214), considerada a falta de impugnação específica dofundamentolançado pelo Colegiado de origem para negar admissibilidade ao recurso especial.
+No agravo interno, a parte insurgente aduz ter refutado o óbice do enunciado 7 da Súmula do STJ, reiterando as razões lançadas no apelo nobre.
+Defende, ainda, que busca "apenas a aferição da violação aos dispositivos de lei federal elencados nos tópicos explicitados, vinculados ao devido processo legal da execução fiscal" (e-STJ, fl. 224).
+A parte agravada não apresentou contraminuta(e-STJ, fl. 226).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE NA ORIGEM. FUNDAMENTOS INATACADOS.
+1. A ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial implica o não conhecimento do agravo em recurso especial.
+2. Agravo interno a que se nega provimento.
+VOTO
+Verifico que a parte interessada não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Os fundamentos que levaram à inadmissibilidade do apelo nobre devem ser combatidos.
+Entretanto, conforme bem ressaltado na decisão ora recorrida, oinsurgente, nas razões do agravo em recurso especial, deixou de refutar corretamente a incidência do verbete 7 da Súmula do STJ.
+Não bastasse isso, ressalto que, quanto ao óbice do enunciado 7 da Súmula do STJ, não é suficiente a assertiva genérica de que a pretensão recursal não requer o revolvimento do acervo fático-probatório dos autos, ainda que seja feita breve menção à tese sustentada.
+É imprescindível, na minuta do agravo em recurso especial, o cotejo entre o acórdão questionado e a argumentação trazida no apelo nobre que pudesse justificar o afastamento do referido óbice processual, o que não ocorreu no caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. VIOLAÇÃO DO ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O STJ perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+2. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+3. Verifica-se no caso em comento que a parte agravante deixou de impugnar especificamente: "ausência de obscuridade/contradição/omissão/erro" (fl. 411, e-STJ).
+4. Ressalte-se que a impugnação tardia (somente por ocasião do manejo de Agravo Interno) dos fundamentos da decisão que não admitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+5. Deve ser mantida a fixação dos honorários recursais, haja vista que o marco temporal para aplicação da majoração do art. 85, § 11, do CPC/15 é a data da publicação do acórdão, conforme entendimento pacífico do STJ.
+6. Com efeito, o Enunciado Administrativo n. 7/STJ dispõe que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+7. No caso, o apelo extremo fora interposto contra acórdão publicado em maio/2018 (fl. 325, e-STJ), quando já vigente o CPC/2015, motivo pelo qual adequada a majoração da verba honorária.
+8. Agravo Interno não provido.
+(AgInt no AREsp 1.485.336/RS, Rel. Min.HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/10/2019, DJe 25/10/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO INTERNO DA PETROS A QUE SE NEGA PROVIMENTO.
+1. Pela leitura das razões recursais, constata-se que, quando da interposição do Agravo em Recurso Especial, a parte agravante não rebateu suficientemente, como lhe competia, todos os fundamentos da decisão agravada, deixando de impugnar a intempestividade do recurso e limitando-se a afirmar a inaplicabilidade da Súmula 7/STJ sem tecer qualquer argumentação consistente.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. Nos termos do Enunciado 6/STJ, a ausência de impugnação de fundamento da decisão agravada, por sua gravidade, não é vício passível de desconsideração na forma do § 3º. do art. 1.029 do Código Fux (EDcl no AgInt no AREsp. 1.051.998/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 11.9.2017).
+4. Agravo Interno da PETROS a que se nega provimento.
+(AgInt no AREsp 1.266.765/RJ, Rel. Min.NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 9/3/2020, DJe 11/3/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO DECISUM. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A parte agravante deve impugnar, de forma específica e mediante argumentação suficiente, todos os fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+2. Na espécie, o agravante não impugnou especificamente um dos motivos adotados pelo Tribunal de origem para negar trânsito ao recurso especial, o que atrai a incidência da Súmula 182/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.537.534/SP, Rel. Min.SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Ação de reparação de danos morais.
+2. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.627.032/SP, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/3/2020, DJe 25/3/2020.)
+Desse modo, forçosa é a incidência do disposto no art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente os fundamentos da decisão combatida, nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou quenão tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Por tal motivo, o enunciado 182 da Súmula do STJ foi corretamente aplicado ao caso.
+Cumpre destacar que o não conhecimento do agravo em recurso especial, em virtude do verbete acima destacado, impede a análise das teses a respeito do mérito discutido no apelo nobre, porque não ultrapassada a admissibilidade recursal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
