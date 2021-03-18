@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO – JUÍZO DE RETRATAÇÃO.
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Sindicato das Empresas de Transporte de Passageiros no Estado de Minas Gerais e Sindicato dos Trabalhadores de Transportes Rodoviários de Lavras afirmam haver o Tribunal Regional do Trabalho da 3ª Região, no processo nº 0010168-91.2019.5.03.0000, inobservado o decidido no recurso extraordinário com agravo nº 1.121.633 – Tema nº 1.046 do repertório da repercussão geral.
+    Narram ter o Ministério Público do Trabalho ajuizado ação visando a anulação de cláusula, constante de convenção coletiva, na qual prevista a exclusão, da base de cálculo da parcela de trabalhadores aprendizes, das funções de motorista e auxiliar de viagem (trocador) e, no tocante à cota de pessoas com deficiência e reabilitadas, do cargo de motorista. Requerida a suspensão do processo ante o pronunciamento apontado como inobservado, não se obteve êxito, sendo, em seguida, julgado procedente o pedido.
+    Destacam haver o Supremo reconhecido a repercussão maior da questão atinente à validade de norma coletiva por meio da qual limitado direito trabalhista. Argumentam que o ministro Gilmar Mendes, levando em conta o artigo 1.035, § 5º, do Código de Processo Civil, determinou a paralisação da tramitação das causas nas quais debatido o tema.
+    Requereram, no campo precário e efêmero, a suspensão dos efeitos do ato e do processo em que formalizado, até o julgamento final do piloto do Tema nº 1.046. Pretendem a confirmação da liminar e a cassação do pronunciamento.
+    O Tribunal, em informações, relatou o histórico processual. Esclareceu não determinada a suspensão, ante a ausência de similitude fática.
+    O Ministério Público Federal, em contestação, tem como em jogo direitos previstos na Constituição Federal. Ressalta que a convenção coletiva de trabalho implicou diminuição de contratação de aprendizes e pessoas com deficiência, a resultar em prejuízo à sociedade.
+    Vossa Excelência, em 15 de dezembro de 2019, julgou procedente o pedido, confirmando a medida acauteladora, para cassar a decisão do Tribunal Regional do Trabalho da 3ª Região, formalizada no processo nº 0010168-91.2019.5.03.0000, mantendo a suspensão desse último até o julgamento do recurso extraordinário com agravo nº 1.121.633.
+    O Ministério Público Federal, em agravo, sustenta inexistir identidade material entre o ato reclamado e a decisão tida por inobservada. Assinala que os artigos 7º, incisos XXXI e XXXIII, 203, IV, e 227, cabeça e § 1º, inciso II, da Constituição Federal encerram cota mínima referente à aprendizagem e inserção profissional de pessoas com deficiência. Indica precedente da Primeira Turma.
+    O agravado, em contraminuta, aponta o acerto do pronunciamento.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita pelo Procurador-Geral da República, foi protocolada no prazo legal.
+    Reanalisado a matéria a partir do que veiculado no agravo, tem-se inadequada a suspensão.
+    A leitura da decisão atinente à ação anulatória revela em debate a validade de cláusulas inseridas em norma coletiva a limitarem a contratação de pessoas com deficiência e aprendizes. Confiram trecho:
+    Conquanto atual orientação do TST a respeito da abrangência da decisão de sobrestamento inclua todas as demandas que envolvam a discussão a respeito da possibilidade de exclusão ou redução de direitos trabalhistas não previstos constitucionalmente, entendo que a hipótese em estudo não está enquadrada na referida demanda. E assim ocorre porque o sobrestamento abrange as reclamações trabalhistas nas quais seja discutida a redução de direitos trabalhistas dos integrantes da categoria. E no presente caso, as regras para contratação de aprendizes e pessoas com deficiência dizem respeito a indivíduos que sequer chegaram a ter formalizados os contratos de trabalho. Ademais, trata-se de questão que conta com amparo constitucional, visto que todas as normas alusivas às ações afirmativas voltadas para a inclusão de menores aprendizes, jovens adultos e portadores de deficiência encontram a matriz principal na Constituição. Por todas essas razões, considero que não cabe o sobrestamento requerido.
+    Inexiste identidade material considerados o acórdão do Tribunal Regional do Trabalho da 3ª Região e o decidido no recurso extraordinário com agravo nº 1.121.633, a sinalizar não configurada inobservância do precedente.
+    3. Reconsidero o pronunciamento formalizado em 15 de dezembro de 2020, para negar seguimento à reclamação.
+    4. Publiquem.
+Brasília, 18 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
