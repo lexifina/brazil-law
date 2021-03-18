@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por ODAIR TERRA NECKEL DE LIMA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE LOCAÇÃO DE ESPAÇO TELEVISIVO. PRORROGAÇÃO AUTOMÁTICA. PROGRAMAÇÃO REGULARMENTE TRANSMITIDA. ALUGUEIS DEVIDOS (fl. 296).
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação dos arts. 700 do CPC/15 e 1.102-A do CPC/73, no que concerne à ausência de documentos hábeis a embasar a propositura da ação monitória, traz os seguintes argumentos:
+A prova escrita exigida pelo diploma processual é todo documento que, embora não detenha todas as características de um título executivo, possa demonstrar satisfatoriamente a existência do crédito reclamado.
+Assim, ainda que a lei não exija que o documento em questão apresente as mesmas características de um título executivo extrajudicial, faz-se necessário que seja demostrado, de maneira INEQUÍVOCA, quem é o destinatário do crédito (credor) e o valor efetivamente devido.
+Como mencionado supra, a Recorrida sustenta que firmou Contrato com os Recorrentes, e que estes não cumpriram com suas obrigações, deixando de efetuar pagamentos devidos.
+Em que pesem as alegações da Recorrida, a pretensão deduzida na inicial carece de embasamento, tendo em vista que os documentos acostados pela parte constituem provas unilateralmente produzidas, sem qualquer força executiva, sendo que o contrato não estava mais em vigência quando das cobranças ora realizadas.
+A verdade é que a Recorrida ao ajuizar ação contra a ora Recorrentes, escolheu a via errada, pois diante da documentação amealhada aos autos, estes não permitem o ajuizamento de ação monitória.
+ ..
+Não há comprovação dos fatos narrados na exordial, mesmo porque não há qualquer documento que comprove que contrato fora prorrogado, sendo inaceitável que este fosse prorrogado tacitamente, vez que iria contra clausula expressa do contrato firmado entre as partes que determinava que o contrato teria vigência de 12 (doze meses).
+ ..
+Ademais, caso se mantenha decisão pela prorrogação do contrato, o que somente se admite por hipótese, deve ser considerado que a nota fiscal nº. 23593 não possui sequer assinatura, assim na ausência de termo aditivo e sem assinatura, jamais poderá ser considerada documento hábil para embasar a presente demanda
+ ..
+Dessa forma, tendo em vista ausência de assinatura, inadmissível que seja considerado documento hábil para embasar a presente demanda a nota fiscal apresentada para cobrança por meio de Ação Monitoria, dada ausência requisitos da certeza, liquidez e exigibilidade, uma vez que não há nos autos qualquer documento que comprove a obrigação no período. (fls. 304-308).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, no que diz respeito ao art. 1.102-A do CPC/73, não é cabível a interposição de recurso especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor.
+Nesse sentido: REsp 1.425.740/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 03/02/2016; AgRg no AREsp 605.044/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/02/2015; REsp 726.446/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/04/2011.
+No que se refere ao art. 700 do CPC/2015, o Tribunal de origem se manifestou nos seguintes termos:
+Na verdade, não há como considerar os argumentos expendidos pelos Réus, pois não lograram trazer aos autos documentos capazes de contrapor a pretensão deduzida pela Autora, que se acha lastreada em prova escrita da obrigação inadimplida, não tendo impugnado, inclusive, a planilha de cálculos do débito elaborado pela agência estadual. (fl. 292).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
