@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, José Antonio Savaris e Flávia da Silva Xavier, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Uniãodesafiandodecisãoque conheceu parcialmente do seu recurso especial e, nessa extensão, negou-lhe parcial provimento, pelas seguintes razões: (I) não cabe invocar ofensa adispositivo constitucional no âmbito do recurso especial; (II) não foi demonstrada a alegada violação aos arts. 489 e 1.022 do CPC; (III) ausência de prequestionamento dos arts. 98,§ 2º , e 104 do CDC, nos termos da Súmula 211/STJ; e (IV) de acordo com a jurisprudência desta Corte, tanto o DNITcomo a União detêm legitimidade passiva para responder às demandas que objetivam indenizações decorrentes de acidentes provocados pela má conservação de rodovia federal.
+A parte agravante, de início,adverte que apresenta "um recurso parcial. Não será objeto desta impugnação: inexistência de omissão, contradição, obscuridade e/ou erro material e não prequestionamento dos artigos 98 e 104 do CDC" (fl. 884). No mais, ao defender sua ilegitimidade passivaad causam, afirma que a jurisprudência que ampara,no particular, a decisão agravada não se aplica ao caso concreto.Requer, desse modo, a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+O recurso não foi impugnado, conforme certidõesde fls. 890/893.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, José Antonio Savaris e Flávia da Silva Xavier, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não comporta êxito.
+De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgadoe de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, José Antonio Savaris e Flávia da Silva Xavier, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, ao manifestar que seu recurso é parcial, a União indicouexpressamente os temas que não são objeto da impugnação, nestes termos: "inexistência de omissão, contradição, obscuridade e/ou erro material e não prequestionamento dos artigos 98 e 104 do CDC" (fl. 884). Com efeito,limitouseu inconformismo à questão dalegitimidade passivaad causam, deixando de atacar o fundamento de quenão cabe invocar ofensa adispositivo constitucional no âmbito do recurso especial.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
