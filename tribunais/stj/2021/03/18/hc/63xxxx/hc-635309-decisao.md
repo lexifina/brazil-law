@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de LUCAS CAVALCANTE DOS SANTOS e PAULO HENRIQUE DE OLIVEIRA FIUZA apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.574264-6/000).
+Depreende-se dos autos que os pacientes foram presos em flagrante, prisão essa posteriormente convertida em preventiva, em razão da suposta prática dos delitos previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006, pois teriam sido surpreendidos tendo em depósito aproximadamente 4g (quatro gramas) de maconha e 13g (treze gramas) de cocaína.
+Impetrado prévio writ na origem, a ordem foi denegada, por maioria, conforme evidencia a ementa a seguir transcrita (e-STJ fl. 8):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA DECRETADA DE OFÍCIO - ILEGALIDADE - INOCORRÊNCIA - PRESENÇA DOS FUNDAMENTOS E PRESSUPOSTOS DA PREVENTIVA - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INADEQUABILIDADE. 1. Mesmo com o advento da chamada Lei Anticrime, conforme a redação que se deu ao artigo 310 do Código de Processo Penal, ficou mantido o poder-dever de o Juiz, ao receber o auto de prisão em flagrante, de ofício, entre outras hipóteses, converter a prisão-captura em preventiva, acaso presentes os requisitos do artigo 312 do CPP, independentemente de provocação. Precedente. STJ, 5ª Turma, AgRg no HC 611.940, Rel. Min. Reynaldo Soares da Fonseca, j. 22.09.2020. 2. Não há constrangimento ilegal no decreto de prisão cautelar, devidamente fundamentado à luz de dados concretos do processo, visando, nos moldes dos artigos 312 do Código de Processo Penal, sobretudo, ao resguardo da ordem pública, mormente em face da reiteração delitiva atribuída aos pacientes. 3. O crime de tráfico de drogas, por cuja suposta autoria os pacientes foram presos, encontra em seu preceito secundário pena máxima privativa de liberdade superior a quatro anos, o que implementa o comando normativo contido no inciso I do artigo 313 do Código de Processo Penal. 4. Presentes seus pressupostos e aferida a necessidade da prisão preventiva, inviável a fixação de medidas cautelares diversas.
+No presente habeas corpus, alega o impetrante, inicialmente, a impossibilidade da conversão da prisão em flagrante, de ofício. Argumenta, outrossim, que não caberia ao Tribunal a quo acrescentar fundamentos para justificar a prisão.
+Requer, ao final, a concessão da ordem para revogar a prisão preventiva decretada em desfavor dos pacientes.
+Liminar deferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 93/99).
+É o relatório.
+Decido.
+Esta Corte é firme na compreensão de que a prisão cautelar é medida dotada de excepcionalidade, cabível apenas quando demonstrada, em decisão fundamentada, a necessidade do resguardo à ordem pública, à instrução criminal ou à aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+No presente caso, tem-se que a segregação cautelar foi decretada mediante os seguintes fundamentos (e-STJ fls. 19/20):
+Trata-se de comunicação de prisão em flagrante delito envolvendo a prática de crime de tráfico de drogas, conforme previsto no artigo 33, caput c/c artigo 35 da Lei 11343/2006.
+DECIDO.
+O APFD foi lavrado com observância das disposições legais inerentes á espécie, pelo que, o ratifico.
+A materialidade do delito e sua autoria sobressai das declarações colhidas no APFD, bem como do laudo positivo, onde atesta a apreensão de substância semelhante a maconha e cocaina e a considerável quantidade de dinheiro apreendida.
+Em se tratando de flagrante, anotamos:  ..
+A conversão da prisão em flagrante para preventiva é rigor. Com efeito, estamos diante de crime de tráfico de drogas, que por si só, é impeditivo para a obtenção do beneficio liberatório, não atraindo para si, também, a aplicação de medidas cautelares.
+O próprio legislador, ao incluir o tráfico ilicito de drogas entre os crimes hediondos, dá dimensão da gravidade de tal conduta, a exigir tratamento mais rigoroso.
+Ainda, na hipótese dos autos, tenho a conduta dos presos como desestabilizadora da ordem pública, visto que pelo teor da prova colhida, foram presos com quantidade razoável de drogas, as quais estavam preparadas para serem comercializadas e segundo declarações constantes nos autos, o imóvel tratava-se de uma "boca de fumo" e os acusados se associaram para a prática de tráfico ilícito de entorpecentes.
+Noutro norte, creio que é possível afirmar que não existe outro delito que causa tanto desassossego na sociedade como o tráfico ilícito de entorpecentes, que além de destruir completamente a ordem e a paz familiar, leva à prática de outros delitos.
+A conduta é gravíssima e afronta contra a ordem pública.
+Isso posto, ratificando a regularidade do APFD, CONVERTO a prisão em flagrante em PREVENTIVA, referente LUCAS CAVALCANTE DOS SANTOS, YASMIN PASSARINHO DE ALMEIDA e PAULO HENRIQUE DE OLIVEIRA FIÚZA.
+Conforme consignei anteriormente, da análise do excerto acima transcrito, não vislumbro a existência de elementos concretos a justificar a medida mais gravosa.
+É que nem mesmo a quantidade de entorpecentes apreendidos -aproximadamente 4g (quatro gramas)de maconha e 13g (treze gramas)de cocaína-revela gravidade em concreto da conduta ou disposição dos pacientes em se dedicar à atividade criminosa, a ensejar a indispensabilidade da medida extrema para a garantia da ordem pública.
+Não há, portanto, no que se refere ao periculum libertatis, circunstâncias que denotem a necessidade da prisão preventiva, sobretudo porque os pacientes seriam primários.
+Ademais, "a jurisprudência desta Corte Superior é firme em assinalar que o acréscimo de fundamentos, pelo Tribunal local, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente" (HC n. 413.447/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017).
+Dessa forma, de fato, vislumbro ilegalidade no decreto constritivo, razão pela qual concedo a ordem para revogar a prisão preventiva dos pacientes, se por outro motivo não estiverem presos.
+Publique-se. Intimem-se.
