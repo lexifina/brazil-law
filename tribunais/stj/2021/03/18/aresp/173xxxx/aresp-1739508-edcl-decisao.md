@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interposto por VALDECIR MORO contra decisão que não conheceu do recurso especial interposto pelo próprio embargante em razão da incidência da Súmula 283/STF.
+Nas razões dos embargos de declaração, a parte sustenta que a decisão embargada foi omissa e requer o reconhecimento da "impenhorabilidade da pequena propriedade rural alegada com espeque no art. 833, VIII, do CPC, e de aplicação indevida ao caso concreto do inc. VI, do art. 3º, da Lei nº 8.009/90, pois sua área de incidência se limita à impenhorabilidade do imóvel residencial da entidade familiar, e não da pequena propriedade rural, que é a matéria que se discute no caso em liça, posto que institutos jurídicos distintos, com regramento totalmente diverso" (e-STJ. fl. 296).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Reanalisando os autos pude observar que o Tribunal de origem afirmou que "a controvérsia cinge-se a possiblidade de penhorar a fração de terras de propriedade do devedor, com base no artigo 3º, inciso VI, da Lei 8.009/90" - fl. 112 em razão de "ação de indenização que a causa de pedir é a ocorrência de um delito supostamente praticado pelo réu, ora agravado, que teria matado o filho dos autores" - fl. 113.
+Entretanto, a parte recorrente argumentou, tão somente, a impossibilidade de penhora de bem de família, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, que seja: a possibilidade de penhora apenas de parte de imóvel.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Vale ressaltar que a análise da matéria arguida pela parte não foi analisada, pois o recurso não ultrapassou a fase de admissibilidade, portanto não há como apreciar o mérito do apelo nobre.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradiçã o ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
