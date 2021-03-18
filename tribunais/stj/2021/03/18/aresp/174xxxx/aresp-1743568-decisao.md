@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. SINTUEMA. 21,7%. IMPUGNAÇÃO JULGADA IMPROCEDENTE. ALEGAÇÃO DE PRESCRIÇÃO. INOCORRÊNCIA. INEXIGIBILIDADE DO TÍTULO PARA VALORES PRETÉRITOS. EXECUÇÃO DE HONORÁRIOS SUCUMBENCIAIS. RECURSO PARCIALMENTE PROVIDO.
+1. A prescrição deve ser afastada, pois após a formação do título executivo na ação coletiva, com trânsito em julgado em 25.01.2012, o prazo prescricional restou suspenso por mais de um ano (03.07.2013 a 15.08.2014) em face da ação rescisória nº 5.526/2013.
+2. Assim, não restou prescrito o direito da parte, pois o cumprimento de sentença foi ajuizado em 06.06.2017, dentro do prazo de 5 anos.
+3. No que diz respeito à alegação do Estado do Maranhão de que não pode haver concessão de aumento de remuneração a servidores públicos sem que exista lei específica prevendo esse aumento, sob pena de violação à separação de poderes e Súmula Vinculante nº 37 do STF, entendo que a referida tese não merece prosperar, pois o Exequente pretende rediscutir matéria já apreciada quando do julgamento da apelação nº 7905/2011 e também rejeitada na Ação Rescisória nº 5.526/2013, estando albergada pelo manto da coisa julgada.
+4. A tese de inexigibilidade do título judicial quanto à execução das parcelas pretéritas por supostamente inexistir reconhecimento de obrigação de pagar não prospera, uma vez que o dispositivo constante na apelação cível nº 7.905/2011 reconheceu o direito dos substituídos ao percentual de 21,7%, correspondentes à diferença entre os percentuais de reajuste recebidos e o percentual de 30% deferido pela Lei nº 8.369/2006, razão pela qual as verbas pretéritas podem ser cobradas, respeitado tão somente o prazo prescricional de 5 anos contado do ajuizamento da ação.
+5. O Tribunal de Justiça no IRDR nº 54699/2017 fixou tese possibilitando a execução dos honorários juntamente com o crédito proporcional do substituído, determinando, contudo, que o pagamento dos honorários ao causídico observe o rito do artigo 100, §8º da Constituição Federal, quando o valor global do crédito insere-se na exigência de expedição de precatório.
+6. Recurso parcialmente provido.
+A parte recorrente alega, em síntese:
+Não obstante, o TJMA negou provimento a agravo de instrumento interposto, ao argumento de que a ação rescisória nº 5.526/2013 teria suspendido o prazo prescricional para cumprimento do título executivo objeto da referida ação.
+No entanto, com as devidas vênias, o Acórdão recorrido não pode subsistir, mormente por estar em oposição ao art. 1º, do Decreto nº 20.910/32 (dispõe que o prazo prescricional nas ações contra a Fazenda Pública é de cinco anos), e aos arts. 197 a 204 do Código Civil (dispõem expressamente sobre as hipóteses taxativas pelas quais a prescrição é suspensa ou interrompida).
+(..)
+O que se visa discutir no presente Recurso Especial é a violação frontal à norma insculpida no art. 1º do Decreto-Lei nº 20.910/1932, o qual preceitua que é de cinco anos o prazo prescricional para pleitear qualquer direito em face da Fazenda Pública. Há violação também aos arts. 197 a 204 do Código Civil (dispõem expressamente sobre as hipóteses taxativas pelas quais a prescrição é suspensa ou interrompida). Nesse sentido, a decisão que determina a continuidade de execução após o transcurso do prazo prescricional acima mencionado claramente ofende os dispositivos acima indicados.
+(..)
+Ao analisar a o pedido de antecipação de tutela formulado na referida ação rescisória, o Desembargador Jaime Ferreira Araújo, em 03 de julho de 2013, deferiu liminar determinando "a suspensão do Acórdão nº106.405/2011 até o julgamento do mérito da presente ação rescisória." Em razão disso alega que, desde a decisão liminar até o julgamento definitivo da Ação Rescisória, o prazo prescricional para execução do referido título executivo teria ficado suspenso, argumento este acolhido pelo Eminente Desembargador Relator.
+Contudo, equivoca-se a decisão monocrática na interpretação do direito. Com efeito, a decisão liminar proferida na Ação Rescisória suspendeu tão somente o andamento dos processos que buscavam dar cumprimento ao comando exequendo impugnado na Ação Rescisória.
+Não há qualquer menção a suspensão do prazo prescricional propriamente dito.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25/2/2021.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+O recorrente alega a prescrição da pretensão executória, posto que o trânsito em julgado da ação coletiva ocorreu em 25.01.2012, enquanto a ação executória individual foi ajuizada em 06.06.2017.
+Como já declinado na decisão que indeferiu o pedido de efeito suspensivo, não visualizo a ocorrência da prescrição executória. Digo isto em face da ação rescisória nº 5.526/2013, na qual o Excelentíssimo Desembargador Relator Jaime Ferreira de Araújo determinou "a suspensão da execução do Acórdão nº 106.405/2011, até o julgamento do mérito da presente ação rescisória".
+Tal acórdão é o objeto da presente execução que, por força da referida decisão, restou impossibilitado de ser executado de 03.07.2013, quando deferida a liminar, a 15.08.2014, data do julgamento da rescisória, cujo acórdão restou assim ementado:(..)
+Na hipótese dos autos, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda o reexame do contexto fático-probatório, mormente de decisão transitada em julgado constante de outros autos, na qual se decidiu pela suspensão da execução do Acórdão106.405/2011. Incide,in casu,o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 2% (doispor cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal.
+Publique-se.
+Intimem-se.
