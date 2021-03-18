@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo manejado por WESLEY FELIPE SILVA DE ALMEIDAem face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 33, caput e § 4º, da Lei n. 11.343/2006, e art. 16 da Lei n. 10.826/2003,em concurso material, na forma do art. 69do Código Penal, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime semiaberto, além de 260 (duzentos e sessenta)dias-multa (fls. 179-193).
+O eg. Tribunal a quo deu parcialprovimento ao apelo da defesa, para desclassificar a conduta prevista no Estatuto do Desarmamento para o delito previsto no art. 12 da Lei n. 10.826/2003 eredimensionar a pena para 2 (dois) anos e 6 (seis) meses de reclusão e 1 (um) ano de detenção, em regime aberto, além de 260 (duzentos e sessenta) dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos.
+O v. acórdão foi ementado nos seguintes termos (fl. 288):
+"PENAL E PROCESSUAL PENAL. APELAÇÃO. TRÁFICO DE DROGAS. AUTORIA EMATERIALIDADE. CONJUNTO PROBATÓRIO SUFICIENTE. DESCLASSIFICAÇÃO.INCABÍVEL. DOSIMETRIA. POSSE DE ARMA DE USO RESTRITO. DESCLASSIFICAÇÃO.POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. POSSIBILIDADE. DECRETO9.847/2019. ADEQUAÇÃO DA DOSIMETRIA. PRINCÍPIO DA INSIGNIFICÂNCIA.IMPOSSIBILIDADE.
+1. Deve ser mantida a sentença penal condenatória, quando as provas produzidas nos autos foramsuficientes para formar a convicção quanto à autoria e a materialidade do crime de tráfico de drogas eafastar a tese de desclassificação para a conduta de porte ilegal de substância entorpecente.
+2. A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige oreconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade parauso próprio (Súmula 630 do STJ).
+3. A primariedade e a inexistência de provas da dedicação do réu à atividade criminosa são pressupostospara aplicar a minorante do tráfico privilegiado, e não para determinar a fração de redução. Essa édeterminada a partir da análise das circunstâncias do caso concreto, cujas bases se apoiam na naturezae/ou na quantidade da droga apreendida. Mantida a redução na fração de1/2(metade).
+4. Não se aplica o princípio da insignificância quando a prisão em flagrante - em contexto de tráfico dedrogas - concretiza a probabilidade da potencialidade lesiva da conduta delitiva relativa ao crime de posseiregular de munição, ainda que se trate de munições desacompanhadas de arma de fogo.
+5. Com a edição Decreto nº 9.847/2019 e da Portaria 1.222 do Comando do Exército, as muniçõesapreendidas na posse do réu (.40 S&W) passaram a ser de uso permitido, razão pela qual, caracterizada anovatio legis in mellius, a conduta deve ser desclassificada do artigo 16, caput, para o crime do artigo 12do mesmo diploma legal, qual seja, posse irregular de munição de uso permitido, cuja pena imposta vai de01 a 03 anos de detenção, além de multa.
+6. Quanto ao delito de posse de munição, embora presente a atenuante da confissão espontânea, seureconhecimento não permite a redução da pena para patamar inferior ao mínimo legal. Inteligência daSúmula nº 231/STJ.
+7. Recurso parcialmente provido. Pena redimensionada"
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a defesa alegou ofensaao art. 386, inc. III, do Código de ProcessoPenal e art. 12 da Lei n. 10.826/2003, ao argumento de que o princípio da insignificância não foi aplicado ao caso, apenas em razão da prisão no mesmo contexto fático por tráfico de drogas, o que não impede o reconhecimento da bagatela, ainda mais porque foram apreendidas poucas munições desacompanhadas de arma de fogo.
+Apresentadas as contrarrazões (fls. 319-322), sobreveio juízo negativo de admissibilidade fundadona aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicariarevolvimento de matéria fático-probatória.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 331-336).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 356-363).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência daSúmula7/STJ.
+Digo, nas razões de fls. 331-336, a defesa se limitou a asseverar, verbis (fls. 333-336):
+"05. Ao adotar esse entendimento, o Tribunal de Justiçadesafia a interposição do presente agravo, porquanto esse não é oentendimento pacífico adotado pelo Superior Tribunal de Justiça,além da matéria suscitada não implicar em revolvimento fático -probatório.
+06. Cumpre salientar que o Superior Tribunal de Justiça,em diversos julgados, já se manifestou no sentido de que é adequadoo reconhecimento da atipicidade do delito de porte de muniçõesquando desacompanhadas da arma de fogo. Nesse sentido (grifonosso):
+ ..
+08. A questão, portanto, não pode ser reputada comopacificada no âmbito do STJ, a ponto de permitir que o tribunal deorigem obste o prosseguimento do recurso com esteio no enunciadosumular n. 83 do STJ.
+09. No mesmo sentido, certo é que prescinde dequalquer revolvimento fático-probatório para o seu enfrentannento,pois se trata, unicamente, de verificação da legalidade do óbiceapontado pelo acórdão recorrido.
+10. Nesse diapasão, tendo sido devidamenteprequestionada a matéria suscitada no recurso especial, e, do mesmomodo se tratando de tema exclusivamente de direito, a decisãoagravada merece ser, por tais argumentos, reformada.
+11. Destarte, a decisão agravada não se sustenta porseus próprios fundamentos, não sendo o caso de se atrair à espécie oóbice da Súmula 7 e da Súmula 83"
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, ou pelo demonstrar de que forma a Corte de origem tratou da controvérsia posta no apelo raro, o que não aconteceu.
+Outrossim, o agravante teceu considerações quanto ao descabimento da Súmula 83/STJ, que sequer foi utilizada como fundamento para negar trânsito ao recurso especial, evidenciando, assim, a dissonância da irresignação com o fundamento da decisão agravada.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE ARMA PERMITIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
