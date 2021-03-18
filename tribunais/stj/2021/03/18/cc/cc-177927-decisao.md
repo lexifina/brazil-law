@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar,suscitado por BELMETAL INDÚSTRIA E COMÉRCIO LTDA. E HARAS FAZENDA BELA LTDA. emface do JUÍZO DE DIREITO DA4ª VARA CÍVEL DE SOROCABA- SP e do JUÍZO DAVARA DO TRABALHO DE TATUÍ- SP.
+Ação em trâmite no Juízo Cível:recuperação judicialda suscitante.
+Ação em trâmite na Justiça do Trabalho: reclamação trabalhista, movida por SELMA RODRIGUESem face da suscitante.
+Conflito de competência: alega, em síntese, que, nos termos dajurisprudência do STJ, o juízo onde tramita o processo recuperacional é oúnico competente para dirimir questões que afetem o patrimônio dasociedade empresária devedora, sob pena de violação do princípio dapreservação da empresa.
+Tutela antecipada: deferida às fls. 89/90, e-STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Depreende-se dos autos que o processo de recuperação judicial de BELMETAL INDÚSTRIA E COMÉRCIO LTDA. E HARAS FAZENDA BELA LTDA está em regular andamento perante o Juízo de Direito da 4ª Vara Cível de Sorocaba/SP. De outro lado, observa-se que o Juízotrabalhistaautorizou o bloqueio de bens e valores da suscitante para pagamento do débitotrabalhista.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05, incluindo-se a deliberação acerca da destinação dos valores atinentes aosdepósitos recursaisfeitos em reclamaçõestrabalhistas,mesmo que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência doJUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SOROCABA- SP para a realização de qualquer ato processual que impliqueem constriçãodo patrimônio daempresasuscitante, no autos da Reclamação Trabalhista n. 00010813-60.2018.5.15.0016, promovida por Selma Rodrigues,em trâmite no Juízo daVara do Trabalho de Tatuí - SP.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOSEXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente ojuízo universal para a prática de atos de execução que incidam sobre opatrimônio de sociedade em processo falimentar ou de recuperação judicial,incluindo-se a deliberação acerca da destinação dos valores atinentes aosdepósitos recursais feitos em reclamações trabalhistas, ainda queefetivados anteriormente à decretação da falência ou ao deferimento darecuperação.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SOROCABA/SP.
