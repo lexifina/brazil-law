@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialinterposto por BANCO BS2 S.A. contra decisão do Tribunal de Justiça do Estado deMato Grosso que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS -PARCIALIDADE DO MAGISTRADO - ALEGAÇÃO IMPROCEDENTE - AUSÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA- NÃO OCORRÊNCIA - PRELIMINARES REJEITADAS - CONTRATO DE EMPRÉSTIMO FIRMADO COM INDÍGENA IDOSO E ANALFABETO -NECESSIDADE DE ASSINATURA A ROGO, COM MANDATO CONFERIDO POR INSTRUMENTO PÚBLICO, E DE DUAS TESTEMUNHAS - INOBSERVÂNCIA - DESCUMPRIMENTO DOS REQUISITOS ELENCADOS NO ART. 595 DO CC - CONTRATAÇÃO NÃO COMPROVADA - RELAÇÃO JURÍDICA NÃO CONSTATADA -DESCONTOS INDEVIDOS NO BENEFÍCIO PREVIDENCIÁRIO - DANO MORAL CONFIGURADO - VALOR REPARATÓRIO FIXADO -RESTITUIÇÃO EM DOBRO DEVIDA - RECURSO PROVIDO.
+Rejeita-se a alegação de suspeição do juiz se não configurada nenhuma das hipóteses do art. 145 do CPC.
+Considera-se suficientemente fundamentado o decisum queenfrenta todas as questões de fato e de direito relevantes para a solução da demanda, colocando claramente os motivos de ordem jurídica em que se baseou o julgador.
+Para a validade do contrato firmado por indígena idoso e analfabeto é necessário que sejam observados os requisitos do art. 595 do CC - assinatura a rogo, com poderes atribuídos por instrumento público, e de duas testemunhas -, a fim de assegurar à parte hipossuficiente total conhecimento do conteúdo da avença e das suas consequências.
+Não demonstrada a regularidade na contratação, tem-se por inexistente a dívida, e as deduções efetivadas indevidamente na aposentadoria configuram ato ilícito passível de reparação. O dano moral daí decorrente é presumido, dispensa prova.
+Constatada a má-fé, as parcelas imotivadamente descontadas devem ser restituídas em dobro (art. 42 do CDC).
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 595 do Código Civil, sustentando, em síntese, a validade do instrumento contratual, uma vez quefora devidamente assinado a rogo com a subscrição de duas testemunhas, alcançando, pois, os requisitos necessários a sua existência. Aduz, ainda, que a divergência jurisprudencial está claramente configurada.
+Apresentadas contrarrazões (e-STJ fls. 217-221).
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa ao art. 595 do Código Civil, sustentando, em síntese, a validade do instrumento contratual, uma vez que fora devidamente assinado a rogo com a subscrição de duas testemunhas, alcançando, pois, os requisitos necessários a sua existência. Aduz, ainda, que a divergência jurisprudencial está claramente configurada.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 180-184):
+O apelante ingressou com a Ação Declaratória de Inexistência de Débito c/c Repetição de Indébito e Indenização por Danos Morais aduzindo que é beneficiário da previdência social e que, embora não tenha firmado qualquer avença com o apelado, foram descontadas parcelas desse benefício, relativas a contrato de empréstimo.
+Busca a declaração de inexistência da dívida, indenização por dano moral e restituição em dobro dos valores pagos. Argumenta que, por ser idoso, indígena e analfabeto, está vulnerável e é alvo fácil de fraudes.
+Apesar de os analfabetos terem capacidade para o exercício dos atos da vida civil e, portanto, para celebrar contratos, exige-se, para sua validadeque sejam cumpridos os critérios descritos no art. 595 do CC, que assim dispõe: (..)
+No entanto, é essencial que o procurador que assina a rogo tenha essa condição formalizada por instrumento público, a fim de assegurar que o contratante terá real conhecimento do conteúdo da avença e das suas consequências, resguardando-se, com isso, pressuposto essencial do contrato: a vontade das partes.
+No pacto sub judice consta apenas a impressão digital e a assinatura de uma única testemunha, que nem sequer foi identificada. Não há a assinatura da segunda testemunha, e nem a assinatura a rogo, muito menos o instrumento público de outorga de poderes para tal.
+Desse modo, não está cumprida a formalidade exigida, já que não demonstrado que foi atingida a finalidade da norma, qual seja, a proteção ao contratante indígena, idoso e analfabeto, que se encontra em posição de vulnerabilidade, sobretudo porque a outra parte é uma instituição financeira. (..)
+Ademais, o art. 373, II, do CPC estabelece que o ônus da prova incumbe ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Assim, mesmo que não tenha ocorrido a inversão do ônus, uma vez que o apelante provou os fatos constitutivos do seu direito (art. 373, I, do CPC) ao juntar os extratos do INSS que mostram os descontos efetuados, cabia ao réu desconstituí-los.
+Mas, como dito, não ficou evidenciada a legalidade da avença e,além disso, o Banco não comprovou a disponibilização do valor.
+E o Código Civil determina que a validade do negócio jurídico requer forma prescrita ou não defesa em lei (art. 104, III), o que não foi observado. Logo, o contrato em questão é nulo.
+Com efeito, vislumbra-se que melhor sorte não socorre à parte agravante, haja vista que,elidir as conclusões do aresto impugnado, mormente quanto ao fato de que "no pacto sub judice consta apenas a impressão digital e a assinatura de uma única testemunha, que nem sequer foi identificada. Não há a assinatura da segunda testemunha, e nem a assinatura a rogo",demandaria a revisão contratual, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas 05 e 07/STJ.
+Destarte, o não acolhimento dairresignação é medida que se impõe, inclusive quanto ao alegado dissídio pretoriano, haja vista não ter sido demonstrado nos termos do art. 1.029, §1º, do CPC/2015.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem inverteu os ônus sucumbenciais(e-STJ fl. 187), a majoração dos honorários devidos pela parte ora recorrente em 2%é medida adequada ao caso.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECERdo recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015).AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO FIRMADO COM INDÍGENA, IDOSO E ANALFABETO. DESCUMPRIMENTO DOS REQUISITOS ELENCADOS NO ART. 595 DO CÓDIGO CIVIL. REVISÃO CONTRATUAL EDE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 05 E 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.HONORÁRIOS RECURSAIS (ART. 85, §11, DO CPC/2015).
