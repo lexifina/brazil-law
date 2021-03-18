@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCOS FERREIRA DE ARAÚJO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+USUCAPIÃO - IMÓVEL PERTENCENTE À COHAB - BEM DE NATUREZA PÚBLICA E COM DESTINAÇÃO ESPECIAL - INAPLICABILIDADE DO INSTITUTO - ART 183 § 3º DA CONSTITUIÇÃO FEDERAL - SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO
+Alega violação do art. 1.240 do CC, no que concerne ao reconhecimento do direito de propriedade do recorrente sobre o imóvel onde reside por usucapião especial urbana, trazendo os seguintes argumentos:
+O recorrente ingressou com AÇÃO DE USUCAPIÃO ESPECIAL URBANA CC PEDIDO DE TUTELA ESPECIFICA COM LIMINAR visando que ao final fosse julgado procedente o seu pedido de aquisição de propriedade do imóvel, o qual ele é morador desde 1993. No processo foram juntados documentos que comprovam que ele vive no imóvel há mais de 25 anos e custeia todas as despesas, como proprietário.
+ ..
+Vale ressaltar que o recorrente reside no imóvel desde o ano de 1993, ou seja, há mais de 25 anos de forma MANSA, PACÍFICA, SEM NENHUMA INTERRUPÇÃO, NEM QUALQUER OPRESSÃO E/OU OPOSIÇÃO DE PESSOAS INTERESSADAS, revelando o seu legítimo animus domini.
+ ..
+As provas carreadas aos autos são suficientes para comprovar o direito do recorrente.
+ ..
+A fundamentação é que inaplicável o artigo 183, § 3º da Constituição Federal, em imóvel da COHAB, bem de natureza pública e com destinação especial. Entretanto, já existe posicionamento que essa afirmação não é fato impeditivo (fls. 356/359).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Deveras, os bens de domínio da COHAB ostentam nítido caráter público, pois que sua construção obedece a um Princípio de deferimento de moradia para pessoas de renda mais baixa. É o chamado SISTEMA FINANCEIRO DA HABITAÇÃO, de largo benefício propiciado ao País, detendo programas especiais nos três níveis da Administração; de aí que é nítida a sua natureza pública, que não pode sofrer incidência do Usucapião, sabendo-se que a constituição da Apelada como Sociedade de Economia Mista atende às finalidades de presteza e eficiência, que essa ficção de natureza privada permite - mas em nenhum momento distanciada do caráter público.
+Portanto, esse imóvel, inda que ocupado pelo Apelante, não pode ser usucapido, à luz do Art. 183, § 3º, da Constituição Federal. LEGEM HABEMUS (fls. 349/350).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve apresentação do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
