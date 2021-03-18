@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ BATISTA DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 0001865-90.2015.8.26.0565.
+Colhe-se nos autos que o Paciente foi condenado como incurso nos arts. 288 e 171 (por treze vezes), na forma do art. 69, todos do Código Penal, à pena de 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 84 (oitenta e quatro) dias-multa.
+Irresignado, o Sentenciado interpôs recurso de apelação, ao qual o Tribunal de origem deu parcial provimento, "a fim de reconhecer a continuidade delitiva e reduzir as reprimendas de JOSÉ BATISTA DOS SANTOS a pena total de 1 ano, 9 meses e 10 dias de reclusão e 16 diárias de multa  .. , mantida, no mais, a r. sentença pelos próprios fundamentos" (fl. 67).
+Neste writ, a Parte Impetrante alega, em síntese, a inidoneidade do fundamento utilizado para a fixação do regime inicial fechado, aduzindo que o Paciente faz jus à extensão da liminar deferida nos autos do HC n. 611.304/SP, impetrado em favor do corréu Marcelo Severino Umbelino da Silva, nos termos do art. 580 do Código de Processo Penal.
+Requer, desse modo, "possa conceder liminarmente o pedido para cumprir a pena em regime aberto, bem como, sua confirmação definitiva ao final, vez que é perfeitamente cabível a extensão do benéfico, de acordo com o artigo 580 do CPP" (fl. 8).
+O pedido liminar foi deferido para determinar, até o julgamento definitivo do presente habeas corpus, a fixação do regime aberto como o inicial para o cumprimento da pena imposta ao Paciente (fls. 96-98).
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (fls. 151-153).
+É o relatório. Decido o pedido urgente.
+Na hipótese dos autos, o Tribunal de origem manteve o regime inicial fechado, consignando que "o regime fechado é o mais adequado considerando o quantum da pena (art. 33, § 2º, "a", do Código Penal)" (fl. 67).
+Ocorre, no entanto, que, considerando a pena imposta - 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão -, a primariedade do Paciente e a inexistência de circunstâncias judiciais negativas (fl. 66), mostra-se cabível a fixação do regime inicial aberto, conforme o disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+Exemplificativamente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. RÉUS PRIMÁRIOS. CONDENAÇÃO. 2 ANOS DE RECLUSÃO. PENAS-BASE FIXADAS NO MÍNIMO LEGAL. REGIME ABERTO. FIXAÇÃO. NECESSIDADE. CONVERSÃO DAS PENAS. POSSIBILIDADE. PRECEDENTES.
+1. Tratando-se de réus primários, que tiveram as suas penas-base fixadas no mínimo legal e as definitivas em 2 anos de reclusão, as reprimendas deverão ser cumpridas em regime aberto, diante da ausência de fundamentação idônea para um maior rigor. Pelas mesmas razões, deve ser concedida a substituição das privativas de liberdade por duas restritivas de direitos, a cargo do Juízo de execuções.
+2. Uma vez que o réu foi condenado a reprimenda inferior a 4 anos de reclusão, teve a pena-base fixada no mínimo legal, era tecnicamente primário ao tempo do delito e possuidor de bons antecedentes, foi apreendido com quantidade de drogas não tão elevada e foi agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, mostra-se devida a imposição do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos. (AgRg no HC n. 479.019/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/8/2019).
+3. Agravo regimental improvido." (AgRg no HC 521.462/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/11/2019, DJe 20/11/2019; sem grifos no original.)
+A propósito, destaco os Enunciados n. 718 e 719 das Súmulas do Supremo Tribunal Federal e 440 desta Corte, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Ante o exposto, confirmada a medida liminar, CONCEDO a ordem de habeas corpus para fixar o regime aberto como o inicial para o cumprimento da pena imposta ao Paciente, com regras a serem definidas pelo Juízo das Execuções Penais.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. ADEQUAÇÃO DO REGIME INICIAL ABERTO DIANTE DO QUANTUM DE PENA, PRIMARIEDAD E DO PACIENTE E AUSÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA. CONFIRMAÇÃO DA MEDIDA LIMINAR. ORDEM CONCEDIDA.
