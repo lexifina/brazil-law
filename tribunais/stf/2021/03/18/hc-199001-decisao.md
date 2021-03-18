@@ -1,0 +1,19 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Lesão corporal no âmbito das relações domésticas. Posse irregular de arma de fogo de uso permitido. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que deferiu parcialmente a liminar requerida nos autos do HC 649.918/MG, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, pela prática do crime previsto no art. 129, § 9°, do Código Penal e art. 12 da Lei 10.826/2003, à pena de 2 anos, 10 meses e 15 dias de detenção, em regime inicial semiaberto. Foi negado o direito de recorrer em liberdade.
+    3. A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Indeferida a liminar, sobreveio a impetração de HC (649.918/MG) no STJ. O Relator, Ministro Antonio Saldanha Palheiro, deferiu parcialmente a liminar, “tão somente para determinar que o paciente aguarde o julgamento do [...] writ em estabelecimento adequado ao regime semiaberto, fixado na sentença”.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea para a custódia preventiva do paciente, bem como a sua incompatibilidade com o regime inicial imposto na sentença condenatória. Daí o pedido de concessão da ordem a fim de revogar a prisão preventiva.
+    5. Por meio da Petição n. 28370/2021, a parte impetrante aponta a prevenção do Ministro Dias Toffoli, Relator do HC 196.316/MG.
+    6. Decido.
+    7. Preliminarmente, não vejo razão para acolher a alegada incorreção na distribuição do feito a esta relatoria. Em 04.02.2021, o Ministro Dias Toffoli negou seguimento ao HC 196.316/MG; e, em 18.02.2021, a decisão transitou em julgado. De modo que não se verifica a prevenção alegada pelo impetrante, nos termos do art. 69, § 2º, do RISTF. Nesse sentido, cito a seguinte decisão do Min. Dias Toffoli, no exercício da Presidência, nos autos do HC 170.966, Rel. Min. Edson Fachin:
+    “[...] não há prevenção do Ministro Ricardo Lewandowski, que negou seguimento ao HC nº 160.606. Essa decisão, aliás, foi mantida pela Segunda Turma ao julgar o agravo regimental interposto. Segundo o art. 69, § 2º, do RISTF, ‘não se caracterizará prevenção, se o Relator, sem ter apreciado liminar, nem o mérito da causa, não conhecer do pedido, declinar da competência, ou homologar pedido de desistência por decisão transitada em julgado.’
+    Ante essas considerações, determino o retorno dos autos ao gabinete do ilustre Relator.
+    […].” (Sem grifos no original)
+    8. Feita essa observação preliminar, anoto que o Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem o processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva. Dou especial importância à informação de que a autoridade impetrada, nos autos do HC 649.918/MG, em tramitação no STJ, determinou que o paciente aguardasse o julgamento do mérito do writ “em estabelecimento adequado ao regime semiaberto, fixado na sentença”.
+    10.  Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
