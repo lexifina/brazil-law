@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 0009366-81.2014.8.11.0037
+APELANTE: COMPANHIA DE SEGUROS ALIANCA DO BRASIL
+APELADO: CRISTIANO DARCY SOUZA MONTAGNI
+Manifesto meu impedimento para atuar no feito e incidentes posteriores (art. 147 do CPC - Id.77107484 - Pág. 28).
+Cuiabá, 18 de março de 2021.
+Des. Guiomar Teodoro Borges
+Relator
