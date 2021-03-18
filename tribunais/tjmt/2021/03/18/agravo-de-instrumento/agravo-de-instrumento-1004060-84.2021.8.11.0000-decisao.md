@@ -1,0 +1,21 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1004060-84.2021.8.11.0000 - CLASSE 202 - CNJ - COLÍDER
+Agravante: LINDAURO GONCALVES NETO
+Agravado: ESPÓLIO DE NINA MONTEIRO GONCALVES
+Número do Protocolo : 1004060-84.2021.8.11.0000
+Cuida-se de Recurso de AGRAVO DE INSTRUMENTO interposto por LINDAURO GONÇALVES NETO contra a r. decisão proferida pelo MM. Juiz de Direito da 1a Vara Cível da Comarca de Colíder/MT, que nos autos da “Ação de Inventário Judicial” (Proc. no 1001835-98.2020.8.11.0009), ajuizada pelo agravante contra o ESPÓLIO DE NINA MONTEIRO GONÇALVES, indeferiu o pedido de pagamento das custas e despesas processuais ao final do processo, pois, no entender do MM. Juiz, a medida é “vedada independentemente da circunstância”, nos termos do art. 233, §2o, da CNGC; a decisão determinou, ainda, que o autor emendasse a inicial, para que o valor da causa correspondesse ao preço aproximado dos bens “uma vez que o valor da causa deve corresponder ao patrimônio deixado pelo espólio” (cf. Id. no 79263456 - pág. 38).
+O agravante alega que não possui condições de pagar as custas processuais, nem mesmo de forma parcelada, pois está impedido de movimentar os bens deixados por sua genitora nos autos da ação de inventário “no qual discute-se valores exorbitantes” (?); afirma que a responsabilidade pelo pagamento das custas é inteiramente do Espólio, sob pena de um dos herdeiros ser prejudicado na divisão dos bens “por ter pago adiantado as custas”, daí porque imprescindível a autorização de recolhimento de custas ao final, inclusive para viabilizar seu acesso à Justiça (cf. Id. no 79263455 - pág. 6).
+Pede, pois, reforma da decisão agravada, para que seja autorizado a pagar as custas apenas ao final do processo; de imediato, requer atribuição de efeito suspensivo ao recurso (cf. Id. no 79263455 - pág. 8).
+É a suma.
+O art. 233, “caput”, do Código de Normas Gerais da Corregedoria-Geral da Justiça do Estado de Mato Grosso (CNGC/MT) estabelece que “a taxa judiciária, as custas judiciais e as despesas judiciais deverão ser recolhidas no ato da distribuição da inicial, exceto nos casos de isenção legal ou assistência judiciária gratuita”, ou seja, está muito claro o recolhimento imediato das custas só pode ser excepcionado quando, obviamente, não houver custas (hipótese de isenção), ou quando for deferido pedido de assistência judiciária gratuita, na forma do art. 98, §§1o, 2o e 3o, do CPC, benefício este que, como se sabe, é reservado àqueles que demonstram hipossuficiência financeira, o que nunca se cogitou no caso.
+Para além dessas duas hipóteses, o art. 233, §2o, da CNGC chove no molhado: “é vedado, em qualquer circunstância, o recolhimento de custas ao final”.
+Assim, o pedido do agravante realmente não comporta acolhimento.
+A propósito, já decidiu este eg. Tribunal de Justiça:
+“EMENTA: RECURSO DE EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO – PEDIDO ALTERNATIVO DE RECOLHIMENTO DAS CUSTAS AO FINAL DA LIDE - OMISSÃO VERIFICADA – IMPOSSIBILIDADE DE RECOLHIMENTO POSTERIOR DAS DESPESAS PROCESSUAIS - RECURSO PROVIDO SEM EFEITOS INFRINGENTES. (...) II - Ao analisar os requisitos da gratuidade da justiça, cabe ao julgador as seguintes hipóteses: deferir ou indeferir a gratuidade da justiça, isentar a parte de algumas despesas processuais ou facultar o pagamento parcelado das mesmas (art. 98, §§ 5o e 6o do CPC), não havendo na legislação de regência dispositivo autorizador do diferimento das despesas processuais para o final da demanda” (TJMT – 4a Câmara de Direito Privado – RED 1016841-12.2019.8.11.0000 – Desa. Rela. SERLY MARCONDES ALVES – j. 11/03/2020, Publicado no DJE 16/03/2020)
+Pelo exposto, recebo o recurso nos termos do art. 1.019 do CPC, mas INDEFIRO o pedido de antecipação da pretensão recursal (CPC, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a parte agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Cumpra-se, expedindo o necessário.
+Cuiabá, 18 de março de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
