@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2.º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSE GARCIA DA SILVA FILHO contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 489 DO CPC/2015. NÃO CONFIGURAÇÃO. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AÇÃO DE DESPEJO C.C. COBRANÇA. ALEGAÇÃO DE QUE FOI INDEVIDAMENTE COBRADO DO LOCATÁRIO VALOR REFERENTE AO CONSUMO DE FORNECIMENTO DE ÁGUA ANTERIOR À CELEBRAÇÃO DO CONTRATO DE LOCAÇÃO. PREMISSA FIXADA NO ACÓRDÃO RECORRIDO NO SENTIDO DE QUE NÃO FORAM INCLUÍDOS VALORES DE RESPONSABILIDADE DO LOCADOR NAS DESPESAS CONDOMINIAIS PAGAS PELO LOCATÁRIO. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+Em suas razões, oembargantealega, em síntese, que há contradição no acórdão embargado, uma vez que não se aplica ao caso o óbice da Súmula 7/STJ, pois deve ser reconhecida a nulidade do acórdão proferido pelo Tribunal de origem, em virtude da ausência de manifestação expressaquanto à ilicitude das verbas cobradadas na demanda, em relação ao que estabelece o art. 23 da Lei de Locações.
+O embargado apresentou impugnação (e-STJ fls. 535-539).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2.º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Com efeito, da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara e suficientementefundamentada, o seu entendimento de que não se configurou a alegada negativa de prestação jurisdicional no acórdão proferido pelo Tribunal de origem e, quanto às demais matérias veiculadas no recurso especial,o seu conhecimento é obstado pelo teor daSúmula7/STJ, conforme demonstram os seguintes trechos do julgado:
+"Em que pese o arrazoado, não se constata a caracterização da alegada ausência de prestação jurisdicional.
+Conforme ressaltado na decisão ora agravada, o Tribunal de origem enfrentou adequadamente a controvérsia, manifestando-se, de maneira fundamentada, acerca da ausência de inclusão, nas despesas condominiais, de quaisquer valores de responsabilidade do autor da ação de despejo, razão pela qual se concluiu pelo afastamento da pretensão de reembolso ou compensação do valor pago pelo locatário, ora agravante.
+Confiram-se, a propósito, o seguinte trecho do acórdão recorrido:
+" ..  salienta-se que os locatários assumiram a obrigação de pagar as despesas condominiais, na forma exigida pela Administração do Condomínio, e que referidas despesas abrangem valores relativos a ordenados de empregados, obrigações trabalhistas, contas de consumo de água e luz, entre outros encargos (fls. 40), de maneira que nas despesas condominiais pagas pelos locatários não foram incluídos quaisquer valores de responsabilidade do autor, o que afasta eventual pretensão de reembolso ou compensação com o montante condenatório." (e-STJ fl. 374).
+Nesse contexto, estando o acórdão recorrido amparado em fundamentos suficientes para concluir pelo desprovimento da apelação interposta pelo ora recorrente quanto ao ponto, não há que se falar em negativa de prestação jurisdicional, mas apenas em mero inconformismo do agravante com o resultado do julgamento.
+Ademais, no que concerne às demais matérias veiculadas no recurso especial, verifica-se que incide o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+Isso porque é inviável desconstituir as conclusões alcançadas pela Corte estadual, ao analisar o acervo fático-probatório dos autos, no sentido de que "nas despesas condominiais pagas pelos locatários não foram incluídos quaisquer valores de responsabilidade do autor, o que afasta eventual pretensão de reembolso ou compensação com o montante condenatório" (e-STJ fl. 374).
+Com efeito, a verificação da procedência da tese do ora agravante de que houve a cobrança indevida de quantia de natureza indenizatória relativa a consumo de fornecimento de água anterior à celebração do contrato de locação demandaria o revolvimento das provas produzidas no processo e a revisão das premissas fáticas fixadas no acórdão recorrido, medida vedada na via do recurso especial." (e-STJ fls. 520-522).
+Assim, verifica-se que os presentes embargos de declaração, sob o pretexto de indicarema existência de contradição, em verdade, apenas traduzem inconformismo com o acórdão embargado, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte, mediante a reiteração da alegação de que deve ser reconhecida a nulidade do acórdão proferido na origem, já expressamente refutada.
+Nesse contexto, em virtudedo manifesto caráter protelatório dos presentes embargos, aplico, com fulcro no art. 1.026, § 2º, do Código de Processo Civil de 2015, multa de 1% (um por cento) sobre o valor atualizado da causa, advertindo-se para a possibilidade de majoração da multa, em caso de reiteração.
+Ante o exposto, rejeito os embargos de declaração e aplico multa de 1% (um por cento) sobre o valor atualizado da causa.
+É o voto.
