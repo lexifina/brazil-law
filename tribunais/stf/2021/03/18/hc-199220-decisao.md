@@ -1,0 +1,24 @@
+Trata-se de habeas corpus com pedido de liminar impetrado pela Defensoria Pública da União em favor de Rosemário Profeta de Jesus contra decisão proferida pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça que negaram provimento ao AgRg no AREsp 1.611.314/SP (págs. 305-310 do documento eletrônico 3).
+    A impetrante alega, em síntese, que
+    “[...] o presente habeas corpus tem como foco de insurgência o acórdão do Superior Tribunal de Justiça que, corroborando com as instâncias ordinárias, manteve decisão do Tribunal a quo que não demonstrou argumentação hábil a impor uma pena acima do mínimo legal ao paciente, ocorrendo violação ao art. 59 do Código Penal e ao art. 93, inc. IX, da Constituição Federal, bem como a aplicação do regime mais gravoso sem fundamentação idônea, indo de encontro à Sumula 719 do STF” (pág. 4 do documento eletrônico 1).
+    Ao final, requer:
+    “a) seja o presente habeas corpus distribuído a um dos eminentes Ministros desta Egrégia Corte Suprema;
+    b) sejam solicitadas as informações de estilo, caso necessário;
+    c) seja colhido o parecer do Ministério Público Federal;
+    d) a intimação pessoal da Defensoria Pública da União da sessão de julgamento, mediante vista pessoal dos autos, e a contagem dos seus prazos processuais em dobro, consoante o art. 44, incs. I e VI, da Lei Complementar nº 80, de 12 de janeiro de 1994 e;
+    e) A concessão da ordem de Habeas Corpus, mesmo de ofício, para reformar a decisão do acórdão, para os seguintes fins:
+    i) reduzir a pena-base do recorrente ao seu patamar mínimo legal e fixar regime menos gravoso para início do cumprimento da pena” (pág. 11 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Destaco, inicialmente, que, embora o presente writ tenha sido impetrado em substituição a recurso extraordinário, não oponho óbice ao seu conhecimento, na linha do que tem decidido a Segunda Turma deste Supremo Tribunal. Nesse sentido, cito os seguintes precedentes: HC 126.791-ED/RJ, HC 126.614/SP e HC 126.808-AgR/PA, todos da relatoria do Ministro Dias Toffoli.
+    Anote-se, também, que o art. 192, caput, do Regimento Interno do Supremo Tribunal Federal faculta ao Relator denegar ou conceder a ordem de habeas corpus, ainda que de ofício, quando a matéria for objeto de jurisprudência consolidada neste Supremo Tribunal.
+    Feitos esses registros, transcrevo, por oportuno, a ementa que sintetiza o teor da decisão combatida:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. NEGATIVAÇÃO. MOTIVAÇÃO IDÔNEA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A negativação das consequências do crime, devido à quantia subtraída da empresa pública federal - R$ 7.918,64 (sete mil novecentos e dezoito reais e sessenta e quatro centavos), extrapola a elementar do tipo penal e demonstra um maior grau de reprovabilidade da conduta. 2. Fixada a pena privativa de liberdade em patamar superior a 4 e inferior a 8 anos de reclusão, a existência de circunstância judicial idoneamente negativada, autoriza o estabelecimento do regime prisional mais gravoso. 3. Agravo regimental desprovido” (pág. 305 do documento eletrônico 3).
+    Pois bem, esta Suprema Corte consolidou entendimento no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória.
+    Nesse sentido:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. IMPOSSIBILIDADE DE SE PROCEDER À PONDERAÇÃO E AO REEXAME DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP CONSIDERADAS NA SENTENÇA CONDENATÓRIA. RECURSO AO QUAL SE NEGA PROVIMENTO. I - Esta Suprema Corte consolidou entendimento no sentido de que a via estreita do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59 do Código Penal, consideradas na sentença condenatória. II - Nas instâncias antecedentes, para a fixação da pena-base, foi considerada fundamentação idônea para valorar negativamente as circunstâncias judiciais. III – Como afirmado, não é viável, na via estreita do habeas corpus, o reexame dos elementos de convicção considerados pelo magistrado na avaliação das circunstâncias judiciais previstas no art. 59 do Código Penal. IV – Recurso ao qual se nega provimento” (RHC 129.993-2ºJULG, de minha relatoria, Segunda Turma).
+    Faz-se possível, nesta oportunidade, “[...] apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 129920-AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma), que não se verificam na espécie.
+    Isso posto, denego a ordem (art. 192, caput, do RISTF). Prejudicado o pleito cautelar.
+    Publique-se.
+    Brasília, 18 de março de 2021.
+Ministro Ricardo Lewandowski
+Relator
