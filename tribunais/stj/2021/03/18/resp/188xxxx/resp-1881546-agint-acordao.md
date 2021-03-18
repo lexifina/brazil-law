@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. QUESTÃO DE ORDEM NO RESP 1.813.684/SP. CORTE ESPECIAL. POSSIBILIDADE RESTRITA AO FERIADO DA SEGUNDA-FEIRA DE CARNAVAL.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas.
+4. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por OESTE SAUDE - ASSISTENCIA A SAUDE SUPLEMENTAR S/S LTDAcontra decisão rejeitou os embargos de declaração opostos contra decisão que não conheceu do agravo em recurso especial em razão da intempestividade do próprio recurso especial.
+Ação: de cumprimento de obrigação de fazer ajuizada por WILSON REIGOTA FERREIRA em face da agravante, visando o fornecimento de medicamentos para tratamento de leucemia mielóide aguda.
+Sentença: julgou parcialmente procedente a demanda para declarar nulas cláusulas contratuais que negavama cobertura do medicamento e condenar a agravante na obrigação de custear o tratamento.
+Acórdão: negou provimento à apelação da agravante e deu parcial provimento à apelação do agravado, nos termos da seguinte ementa:
+PLANO DE SAÚDE. Preliminar de violação ao princípio da motivação das decisões judiciais. Inocorrência. Em que pese alguns equívocos da sentença, a questão de fundo foi analisada e fundamentada. Preliminar rejeitada.
+PLANO DE SAÚDE. Tratamento oncológico com medicamento Venclexta. Negativa de cobertura. Descabimento. Questão que se submete aos ditames do Código de Defesa do Consumidor. Incabível negar cobertura de tratamento ao segurado sob o fundamento de que o medicamento não está previsto no rol da Agência Nacional de Saúde. Demorados trâmites administrativos de classificação não podem deixar o paciente a descoberto, colocando em risco bens existenciais. Predominância do direito à vida sobre cláusulas contratuais que se apresentam como abusivas ao fim social do contrato. Súmulas 95 e 102 deste E. Tribunal de Justiça.
+PLANO DE SAÚDE. Indenização por danos morais. Descabimento. Ausência de ofensa aos direitos da personalidade ou à honra do contratante.
+PLANO DE SAÚDE. Honorários advocatícios. Fixação por equidade é regra subsidiária. Precedente do STJ. Verba honorária arbitrada sobre o valor da causa. RECURSO DA RÉ DESPROVIDO E APELO DO AUTOR PARCIALMENTE PROVIDO.
+Decisão unipessoal: não conheceu do agravo em virtude da intempestividade do recurso especial.
+Embargos de declaração: opostos pela agravante, foram rejeitados, confirmando a intempestividade do recurso especial.
+Agravo interno: aduz que considerando a suspensão dos prazos pela Resolução nº 313/2020, que os suspendeude 19 de março de 2020 até dia 4 de maio de 2020, tendo sido a publicação realizada em dia não útil, o início da contagem do prazo só se deu em 5 de maio de 2020, estando tempestivo, portanto, o recurso interposto em 25 de maio de 2020. Sustenta que asuspensão do expediente na Corte local nos dias 21/22 e 25de maio de 2020 não interfere na tempestividade, haja vista que "a discussão se refere ao início da contagem do prazo processual" (fl. 296, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. QUESTÃO DE ORDEM NO RESP 1.813.684/SP. CORTE ESPECIAL. POSSIBILIDADE RESTRITA AO FERIADO DA SEGUNDA-FEIRA DE CARNAVAL.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão que rejeitou os embargos de declaração, opostos contra decisão que não conheceu do recurso especial, confirmou a intempestividade do apelo extremo, nos termos da seguinte fundamentação (e-STJ fl. 283/284):
+"É certo que feriado nacional não precisa ser comprovado. Porém, os dias 20, 21 e 25/5/2020 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 16/4/2020, considerando-se publicada em 17/4/2020 (fl. 212). Excluindo-se o dia 17/4/2020 (primeiro dia), inicia-se a contagem no dia 4/5/2020, finalizando o prazo no dia 22/5/2020, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 22/5/2020, sendo que o recurso especial foi interposto somente em 25/5/2020, fora do prazo.
+Não se desconhece os documentos juntados às fls. 224/247. No entanto, é necessário esclarecer que, com a novel legislação processual, nos termos do art. 219, "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Por sua vez, nos termos do art. 216 do CPC, "Além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense".
+Conclui-se, portanto, que para fins de contagem dos prazos processuais, somente serão considerados os dias da semana (de segunda a sexta-feira), desde que não sejam feriados e desde que tenha havido expediente forense. Assim, de outra forma, se durante a semana houver algum dia que seja feriado ou que não tenha havido expediente forense, ele se torna um dia "não-útil", para fins de contagem de prazo processual, sendo excluído da respectiva contagem, se devidamente comprovado.
+Ocorrendo feriado local na capital, ou qualquer outra intercorrência que acarrete a suspensão do expediente forense, deve a parte providenciar, no ato da interposição do recurso, a comprovação por meio de documento idôneo, conforme determina o § 6º do art. 1.003 do CPC e a jurisprudência desta Corte, caso contrário, os dias serão considerados úteis para todos os efeitos.
+No caso, a resolução n.º 313/2020 do CNJ apenas suspendeu o curso dos prazos processuais no período de 19/03 a 30/04/2020, mas não a prática dos atos.
+Assim, conforme previsto no art. 212 c/c art. 216 do CPC, como os atos poderão ser realizados em qualquer dia útil, não há impedimento para a realização da publicação e/ou intimação no periodo da suspensão dos prazos estabelecidos pela resolução."
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que a parte agravante não trouxe qualquer argumento apto a modificar a conclusão do decisum.
+Com efeito, o recurso especial foi interposto sob a égide do CPC/2015, segundo o qual cabe ao recorrente comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do art. 1.003, § 6º, de tal Diploma legal. À luz dessa expressa determinação legal, a jurisprudência do STJ firmou-se no sentido de que não é possível regularização posterior.
+Nessa linha, "seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp 957.821/MS, Corte Especial, DJe 19/12/2017).
+Realmente, a intempestividade é tida pelo CPC/15 como vício grave e, portanto, insanável. Dessa forma, não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15 ("antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 dias ao recorrente para que seja sanado vício ou complementada a documentação exigível), reservado às hipóteses de vícios sanáveis.Nesse sentido: AgInt no AREsp 957.821/MS, Corte Especial, DJe 19/12/2017.
+Ressalta-se que, nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspendeu-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impediuque publicações fossem realizadas.
+Assim, considerando que o lapso para interposição de recursos tem como marco inicial o dia em que os prazos voltaram a correr, após o término da suspensão, ou seja, 04/05/2020, não há como ser afastada sua intempestividade.
+Em conclusão, não tendo havido a comprovação do feriado local, no ato da interposição do recurso especial, que diferisse o termoad quemda contagem do prazo, não há como ser afastado o decreto de intempestividade do recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
