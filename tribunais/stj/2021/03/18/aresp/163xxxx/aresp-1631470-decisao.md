@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravointerposto por UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A contra decisão que inadmitiu o recurso especial fundado noartigo 105, inciso III, alínea"a",da Constituição Federal, manejado em face de acórdãodo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. SENTENÇA UNA. AUTOS APENSO.0021686.54.2015.8.16.0017 COM O 0013952-18.2016.8.16.0017. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. RESCISÃO CONTRATUAL.AUSÊNCIA DE COMPROVAÇÃO DE PAGAMENTO DA INDENIZAÇÃO.VALORES DEVIDOS. COMISSÕES APÓS A RESCISÃO DEVIDAS.POSSIBILIDADE CONFERIDA PELO CONTRATO. COMISSÕES QUE ESTAVAM PENDENTES. RECURSO CONHECIDO E IMPROVIDO.
+1. Ainda que o termo de rescisão permita a presunção de que efetivamente tenha havido o pagamento, esta presunção é apenas relativa. Contudo, no caso em tela há uma peculiaridade específica que permite o rompimento desta presunção, qual seja, a vinculação do pagamento de R$ 85.253,74 ao desconto de imposto de renda retido na fonte no importe de R$ 15.044,78, que deveria ser recolhido, pelo próprio termo de rescisão, pela parte apelante. Neste sentido e considerando que a parte apelante não apresentou o comprovante deste recolhimento fiscal, mesmo após o juízo singular ter assim determinado na audiência de Mov.102.1, tem-se que a presunção relativa cai por terra.
+2. Conforme se depreende do termo de rescisão (Mov. 1.11), há previsão expressa (item 3) informando que o objeto da quitação não abrangia as comissões pendentes, ou seja, relativas às vendas que ainda não tivessem sido pagas pelo cliente. Aliás, no depoimento do informante, gerente da apelante, corrobora-se que o pagamento das comissões poderia demorar um longo período.
+3. Desta forma, o critério para aferir a adequação destes pagamentos feitos após a rescisão contratual é o momento das vendas sobre as quais eram calculadas estas comissões, se a venda foi anterior à rescisão, seria devido; do contrário, não seria devido. Contudo, ainda que esta fosse uma prova simples para a parte apelante, já que, por dever de ofício, teria de escriturar as notas fiscais em vinculação com os pagamentos, não consta dos autos nenhuma informação sobre o momento das vendas a partir das quais foram calculadas as comissões pagas a partir da rescisão contratual.
+4. Aliás, ainda que parte apelante tenha alegado que os pagamentos posteriores à rescisão do contrato teriam decorrido de problemas nosistema, tendo a parte apelada apresentado notas fiscais sem lastro, isto não está corroborado em lastro probatório." (e-STJfls. 591/592).
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fl. 625).
+Em sede de recurso especial, a recorrente afirmamalferimento dos artigos 1º; 27-Je 34 da Lei 4.886/65, bem como 421 e 884 do Código Civil/2002.
+Sustentaque os valores em cobrança já foram devidamente quitados.
+Defende a vedação do enriquecimento sem causa.
+Contrarrazões ao recurso especial às e-STJ fls. 657/666.
+Nas razões do agravo em recurso especial, a agravante infirmouespecificamente os fundamentos da decisão que negou seguimento ao apelo nobre (e-STJ fls. 687/692).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece guarida, porquanto correta a decisão agravada ao apontar a incidência do óbice sumular n.º 07/STJ.
+Com efeito, a controvérsia devolvida a este Superior Tribunal de Justiça foi solvida pela Corte local sob o seguinte enfoque:
+"Ainda que o termo de rescisão permita a presunção de que efetivamente tenha havido o pagamento, esta presunção é apenas relativa. De toda sorte, como é sabido da prática forense, é extremamente difícil o afastamento desta presunção, recaindo sobre a parte que pretende afastá-la um ônus probatório quase intransponível. E isto decorre, principalmente, porque a mera alegação de que o pagamento teria sido realizado em dinheiro, em regra, não permite identificar a origem ou o destino do recurso, tornando o termo de quitação, por vezes, o único elemento probatório sobre a existência ou não deste pagamento.
+Contudo, no caso em tela há uma peculiaridade específica que permite o rompimento desta presunção, qual seja, a vinculação do pagamento de R$ 85.253,74 ao desconto de imposto de renda retido na fonte no importe de R$ 15.044,78, que deveria ser recolhido, pelo próprio termo de rescisão, pela parte apelante (item 3, parágrafo único, do Mov. 1.11).
+Neste sentido e considerando que a parte apelante não apresentou o comprovante deste recolhimentofiscal, mesmo após o juízo singular ter assim determinado na audiência de Mov. 102.1, tem-se que a presunção relativa cai por terra."(e-STJ fl. 595/596, grifei).
+Nesse contexto, elidir as conclusões supra demandaria o revolvimento do conjunto fático-probatório, providênciavedadanesta sede especial a teor da Súmula n.º 07/STJ.
+Destarte, o recurso não encontra amparo.
+Por fim, considerando que o presente recurso foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem majorou a verba honorária "para 12% sobre o valor da condenação nos autos de n. 0021686-54.2015.8.16.0017 e para 12% sobre o valor atualizado da causa nos autos de n. 0013952-18.2016.8.16.0017"(e-STJ fl. 598), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 15%em cada uma das majorações anteriores é medida adequada ao caso.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do Regimento Interno deste STJ,conheço do agravo paranão conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE.SÚMULA07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
