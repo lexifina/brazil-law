@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JEAN PABLO RIBEIRO DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que orecorrentefoi preso preventivamente e condenado à pena de 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, mais 1.600 dias-multa, pela prática dodelitodescritono art. 35, caput, c.c. o art. 40, incisos IV e VI, ambos da Lei n.º 11.343/2006. Por ocasião da sentença, a segregação cautelar foi mantida
+Neste recurso, a defesa alega, em síntese, ausência de fundamentação concreta na decisão que negou o apelo em liberdade.
+Pleiteia a revogação da prisão preventiva.
+É o relatório.
+Em consulta na base de dados processuais desta Corte, verifica-se que este recurso traz pedido idêntico ao deduzido no HC 581.760/MG, já analisado por esta Corte Superior.
+Na ocasião, decidiu-se pela legalidade da manutenção da prisão preventiva por ocasião da sentença condenatória, ante a gravidade concreta da conduta delitiva, nos seguintes termos:
+"Consoante se observa do decreto constritivo, a prisão cautelar do paciente e demais acusados, num total de 32, foi decretada para a garantia da ordem pública, considerando a gravidade concreta dos delitos praticados no âmbito da organização criminosa DEMÔNIOS DA VILA CEMIG para o domínio do tráfico de drogas na região (e-STJ, fls. 549-563).
+Por ocasião da prolação da sentença condenatória, a magistrada sentenciante entendeu pela manutenção da prisão do paciente, sob a seguinte fundamentação:
+O réu foi preso no curso do processo e está sendo condenado pelo crime de associação pare o tráfico de drogas, delito cuja natureza, por si só já é suficiente para a manutenção de sua segregação. Entendo que o traficante é o tipo mais perigoso que existe, entre os indivíduos ligados a drogas. Através de sua atuação, o vício difunde-se, deteriorando organismo despersonalizando o indivíduo. O ponto básico de toda degradação moral social dos toxicômanos, nada mais é do que o próprio traficante.
+Enriquecem à custa das vicissitudes alheias, explorem a miséria e vivem sobre a degradação moral daqueles que imploram a manutenção do vicio.
+Considerando o disposto na Lei 12.403/11 e após minuciosa analise dos autos, entendo existirem motivos suficientes para manutenção da decretação da prisão preventiva do réu. Embora reconheça que com o advento da referida lei, a liberdade é a regra e que a prisão será mantida eminente em último caso, devendo ser oportunizado responder o processo em liberdade ou medidas cautelares. entendo que tais benefícios não se aplicam.
+Não me parece razoável o Estado deixar em liberdade réu condenado a pena a ser cumprida em regime fechado, nos termos da fundamentação desta sentença, mormente pela demonstrada periculosidade da facção criminosa da qual o réu é membro.
+Por fim, constato que a pena aplicada indica grandes chances do acusado se furtar da ação penal.
+Nesse sentido o seguinte Julgados do E.STJ: "Tendo o recorrente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois de condenação em Juízo de primeiro grau"(STJ RHC 111273/MG, Relator (a) Ministro JOEL ILAN PACIORNIK  .. .
+Por tais motivos, mantenho a prisão em que se encontra e nego o direito de recorrer em liberdade." (e-STJ, fls. 230-231; grifos diversos do original.)
+Cabe ressaltar que o Superior Tribunal de Justiça possui entendimento pacífico de que a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 387, § 1º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação prisão preventiva, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.
+Verifica-se, in casu, que a magistrada entendeu que subsistiam os motivos que justificaram a prisão cautelar, amparada na garantia da ordem pública, fazendo referências, ainda, à fundamentação contida na própria sentença condenatória acerca da periculosidade da organização criminosa da qual o agente é parte e da possibilidade de o acusado se furtar da aplicação da lei penal, considerando a quantidade de pena a ele imposta. Segundo se extrai do édito condenatório, com efeito, trata-se de réu reincidente e membro da organização criminosa DEMÔNIOS DA VILA CEMIG, considerada de alta periculosidade. Sendo assim, entendo que a prisão preventiva está suficientemente fundamentada.
+Cumpre frisar que a Quinta Turma firmou orientação no sentido de que "não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva" (HC 396.974/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/8/2017, DJe 30/8/2017)."
+Desse modo, tratando-se de mera reiteração de outro pedido já deduzido nessa Corte, é o caso de não conhecimento.
+Confira-se:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. QUADRILHA ARMADA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA SEGREGAÇÃO POR CAUTELARES DIVERSAS. AFASTAMENTO DE CARGO. VEREADOR. ALEGADO EXCESSO DE PRAZO NA DURAÇÃO DA MEDIDA. QUESTÃO VEICULADA EM WRIT ANTERIORMENTE IMPETRADO. MERA REITERAÇÃO DE PEDIDO. NEGATIVA DE SEGUIMENTO AO MANDAMUS. DECISÃO ACERTADA. REGIMENTAL IMPROVIDO.
+1. Não há como dar-se seguimento a impetração quando a questão aqui levantada já foi deduzida e será examinada no mandamus anterior.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de writ anteriormente ajuizado caracteriza indevida reiteração de pedido, o que obstaculiza o seu conhecimento.
+3. Agravo regimental improvido."
+(AgRg no HC 290.203/RJ, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 1/8/2014).
+Ante o exposto, não conheço do recurso.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
