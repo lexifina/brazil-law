@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ART. 489, II, § 1º, IV E V, DO CPC/2015. FUNDAMENTÇÃO GENÉRICA. SÚMULA Nº 284/STF. OFENSA À LEI ESTADUAL Nº 423/81. ANÁLISE. INVIABILIDADE. SÚMULA Nº 280/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. No que tange a alegada violação ao art. 489, II, § 1º, IV e V, do CPC/2015, verifica-se que o agravante limitou-se a afirmar, de forma genérica, que o Tribunal de origem não teria considerado o conjunto probatório dos autos. Desta forma, o recurso especial carece, neste ponto, da devida fundamentação, aplicando-se, por analogia, o óbice previsto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto à suposta ofensa à Lei Estadual nº 423/81, incide, por analogia, a Súmula nº 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+3. Agravo conhecido para não conhecer do recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, conheceu do agravo para não conhecer do recurso especial, nos termos do voto do Sr. Ministro Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CARLOS EDUARDO DAMÁSIO TEIXEIRA em face de decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 296):
+ADMINISTRATIVO. ESTADO DO RIO DE JANEIRO. PROMOÇÃO POR BRAVURA. LEI ESTADUAL Nº 423/81.
+Pleito de promoção por Bravura, na forma da Lei Estadual nº 423/81, deduzido por Delegado de Polícia de 2ª Classe, aposentado por invalidez decorrente de sequela de acidente de trabalho.
+Conforme preceitua o art. 37, X, da Constituição Federal, a remuneração dos servidores públicos somente poderá ser alterada por lei específica. O autor requereu administrativamente a sua promoção, tendo o seu pedido indeferido, uma vez que o acidente de serviço que deu causa a sua aposentadoria não foi considerado
+Opostos embargos de declaração, foram eles rejeitados nos termos do acórdão juntado às e-STJ fls. 332/336.
+Nas razões do recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, o agravante alega:
+a) violação ao art. 489, II, § 1º, IV e V, do CPC/2015, ao argumento de que o Tribunal de origem não teria considerado o conjunto probatório dos autos. Sustenta que "é imperiosa a consideração do conjunto probatório apresentado no processo. Não agir nesse sentido, importa em contrariedade à lei federal, sobretudo o art. 489, inciso II, §1º, inciso IV e V do CPC. Tal panorama autoriza o manejo de Recurso Especial, conforme preceitua o art. 105, inciso III, "a" da Constituição da República" (e-STJ fl. 345);
+b) ofensa à Lei Estadual nº 423/81, ao argumento de que faria jus à vantagem prevista no art. 3º de referida norma, uma vez que sua aposentadoria por invalidez decorreu de doença profissional, sendo irrelevante a ausência de reconhecimento do ato de bravura, nos termos do § 1º do art. 3º dessa norma. Aduz que "a r. sentença monocrática de fls. 316/318, bem como os v. acórdãos de fls. 394/398 e de fls. 431/434 feriram frontalmente a Lei 423/81, - Lei da Bravura, visto que embora a ação interposta pelo ora Recorrente, ampare-se na Lei da Bravura esta não tem fundamento em ato de bravura, não pode haver confusão entre a real pretensão do Recorrente e o julgamento dos i. julgadores. Ressalte-se que a pretensão do Recorrente é mais do que legítima e ampara-se no artigo 3º § 1º da lei em comento, onde expressamente o Legislador, afirma que quando ocorrer invalidez permanente em decorrência de doença profissional ou acidente em serviço, é assegurada a promoção ora pleiteada" (e-STJ fls. 345/346).
+Contrarrazões ao recurso especial apresentadas às e-STJ fls. 362/371.
+O Tribunal de origem negou seguimento ao recurso especial aduzindo que não teria havido negativa de prestação jurisdicional. Ademais, consignou que a análise da controvérsia demandaria o reexame da matéria fático-probatória, procedimento vedado ante o óbice previsto na Súmula nº 7/STJ, bem como o exame de lei local, incidindo, por analogia, a Súmula nº 280/STF.
+Nas razões do agravo, o agravante impugnou os fundamentos da decisão de inadmissibilidade.
+Contraminuta ao agravo apresentada às e-STJ fls. 403/413.
+O em. Ministro Presidente não conheceu do recurso especial por suposta intempestividade, conforme decisão proferida às e-STJ fls. 425/426.
+Opostos embargos de declaração, foram eles rejeitados às e-STJ fls. 470/474.
+Ainda irresignado, o agravante interpôs agravo interno (e-STJ fls. 478/482), o qual foi provido pelo em. Ministro Presidente à e-STJ fl. 527, tendo sido determinada a distribuição dos autos.
+Por equívoco, esta Turma procedeu ao julgamento do agravo interno, negand0-lhe provimento, conforme acórdão juntado às e-STJ fls. 538/554.
+Opostos embargos de declaração, foi determinada a anulação do acórdão embargado, em razão de erro de procedimento, nos termos do acórdão proferido às e-STJ fls. 581/585.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ART. 489, II, § 1º, IV E V, DO CPC/2015. FUNDAMENTÇÃO GENÉRICA. SÚMULA Nº 284/STF. OFENSA À LEI ESTADUAL Nº 423/81. ANÁLISE. INVIABILIDADE. SÚMULA Nº 280/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. No que tange a alegada violação ao art. 489, II, § 1º, IV e V, do CPC/2015, verifica-se que o agravante limitou-se a afirmar, de forma genérica, que o Tribunal de origem não teria considerado o conjunto probatório dos autos. Desta forma, o recurso especial carece, neste ponto, da devida fundamentação, aplicando-se, por analogia, o óbice previsto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto à suposta ofensa à Lei Estadual nº 423/81, incide, por analogia, a Súmula nº 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos recursais do agravo e tendo o agravante impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que tange a alegada violação ao art. 489, II, § 1º, IV e V, do CPC/2015, verifica-se que o agravante limitou-se a afirmar, de forma genérica, que o Tribunal de origem não teria considerado o conjunto probatório dos autos. Desta forma, o recurso especial carece, neste ponto, da devida fundamentação, aplicando-se, por analogia, o óbice previsto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido os seguintes julgados desta Corte Superior:
+OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284/STF. CONCESSÃO INTEGRAL DA ASSISTÊNCIA JUDICIÁRIA. DESCABIMENTO. NÃO COMPROVAÇÃO DE ALTERAÇÃO FÁTICA. IMPOSSIBILIDADE DE APRESENTAÇÃO DE NOVOS DOCUMENTOS COM A APELAÇÃO. SÚMULAS 7/STJ E 283/STF. AUSÊNCIA DE INTIMAÇÃO DO ARREMATANTE NA EXECUÇÃO FISCAL NÃO CONFIGURADA. VÍCIOS NO EDITAL DE PRAÇA DO IMÓVEL OBJETO DA ARREMATAÇÃO. OMISSÃO NÃO CARACTERIZADA NO QUE TANGE À OCUPAÇÃO DO BEM POR TERCEIROS OU À RESPONSABILIDADE PELOS DÉBITOS REMANESCENTES APÓS A ARREMATAÇÃO. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+1. É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se encontra omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Recurso Especial não conhecido
+(REsp 1790643/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 30/05/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VIOLAÇÃO DOS ARTS. 373, I, 489, § 1º, IV, 1.013, 1.022 do CPC/2015. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. PRIMAZIA DO MÉRITO.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia. Incidência, novamente, do óbice da Súmula 284/STF.
+2. O alegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+3. O art. 4º do CPC/2015 dispõe sobre o princípio da primazia do mérito, contudo, no caso em análise, não há como superar as deficiências de fundamentação verificadas nas razões do recurso especial, inclusive com indicação de dispositivos que não correspondem aos pedidos formulados e a ausência de configuração do dissídio jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1761261/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019)
+Quanto a suposta ofensa à Lei Estadual nº 423/81, incide, por analogia, a Súmula nº 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É o voto.
