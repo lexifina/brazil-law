@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto peloBANCO DO BRASIL SA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: civil pública, ajuizada peloINSTITUTO DE DEFESA DOS CONSUMIDORES DE CRÉDITO - IDCC, em face doagravante, na qual se insurge contra a cobrança de comissão de permanência cumulada com outros encargos moratórios.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. PRELIMINARES DE AUSÊNCIA DE INTERESSE PROCESSUAL, ILEGITIMIDADE ATIVA AD CAUSAM E IMPOSSIBILIDADE JURÍDICA DO PEDIDO EM RELAÇÃO AOS CONTRATOS EXTINTOS E LIQUIDADOS REJEITADAS. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE CUMULAÇÃO COM OUTROS ENCARGOS MORATÓRIOS E CORREÇÃO MONETÁRIA. COMPENSAÇÃO E REPETIÇÃO DE VALORES. POSSIBILIDADE. VERIFICADA A EXISTÊNCIA DE VALORES PAGOS A MAIOR, A DEVOLUÇÃO DEVE SE DAR NA FORMA SIMPLES. PUBLICAÇÃO DA PARTE DISPOSITIVA DA SENTENÇA. MANUTENÇÃO. INTELIGÊNCIA DO ARTIGO 78 DO CDC. VERBA HONORÁRIA MANTIDA. FIXADOS HONORÁRIOS RECURSAIS. REJEITARAM AS PRELIMINARES E NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial, com os seguintes fundamentos: i) ausência de violação do art. 1.022 do CPC; ii) inadmissibilidade do recurso especial fundado em violação de dispositivo constitucional; iii)incidência dos óbices das Súmulas 282/STF, 7/STJ (interesse de agir) e 83/STJ (interesse processual, encargos moratórios, compensação ou repetição de indébito).
+Parecer do MPF: de lavra do i. Subprocurador-Geralda República José Bonifácio Borges de Andrada, opina pelo não conhecimento do agravo em recurso especial, ante a incidência da Súmula 182/STJ.
+Agravo em recurso especial:reitera a violação do art. 1.022 do CPC. Assevera que não é necessário o reexame de provas e aduza inaplicabilidade dos óbices das Súmulas282/STF e 83/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que o agravante se limitou a trazer alegações genéricas, mas não demonstrou, de maneira consistente e específica, a inaplicabilidade do óbice da Súmula 83/STJ.
+Ressalte-seque a impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 10% o valor dos honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
