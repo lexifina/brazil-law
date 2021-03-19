@@ -1,0 +1,63 @@
+DECISÃO
+HABEAS CORPUS. PROCESSUAL PENAL. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL.  HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Silvana Helena de Paula, advogada, em benefício de Manoel Severino da Silva, contra decisão do Ministro Felix Fischer, do Superior Tribunal de Justiça, pela qual, em 18.2.20210, indeferida a medida liminar requerida no Habeas Corpus n. 645.534. Este o teor dessa decisão:
+    “Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de MANOEL SEVERINO DA SILVA, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São paulo.
+    Postula o impetrante, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente, em razão da alegada ausência de fundamentação do decreto prisional, bem como em virtude do risco de contaminação pelo novo coronavírus no ambiente prisional.
+    É o breve relatório.
+    Decido.
+    A análise dos autos, nos limites da cognição in limine, não permite a constatação de indícios suficientes para a configuração do fumus boni iuris, não restando configurada, de plano, a flagrante ilegalidade a ensejar o deferimento da medida de urgência, até mesmo porque as alegações contidas no bojo da inicial do mandamus demandam cognição exauriente do processo, possível tão somente após as informações a serem prestadas pela autoridade apontada como coatora e o oferecimento do parecer do Ministério Público Federal.
+    Ante o exposto, indefiro o pedido liminar.
+    Solicitem-se, com urgência e via telegrama, informações atualizadas e pormenorizadas ao d. juízo de primeiro grau.
+    Após, vista dos autos ao d. Ministério Público Federal”.
+    2. Esse julgado é o objeto do presente habeas corpus, no qual a impetrante alega que o paciente foi preso em flagrante em 6.1.2021 pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006.
+    Sustenta ter o paciente cinquenta e nove anos de idade, ser cardíaco e hipertenso e fazer uso contínuo de diversas medicações.
+    Afirma que o paciente já teve um infarto e tem a saúde “bastante debilitada”.
+    Anota que o paciente “não oferece qualquer risco à sociedade” e que tem “residência fixa no distrito da culpa”.
+    Argumenta que “os requisitos para a concessão da liberdade provisória ou até mesmo [d]a prisão domiciliar, estão presentes no caso in concreto” (sic).
+    Assevera que já teriam sido confirmados vários casos de Covid-19 no estabelecimento prisional onde o paciente está custodiado.
+    Requer medida liminar para permitir “ao paciente Manoel Severino da Silva o direito de ficar em liberdade até o julgamento de mérito deste habeas corpus”.
+    Este o pedido:
+    “Diante do exposto, aguarda-se pelo acolhimento da presente impetração, revogando-se a prisão do paciente, para que possa responder ao processo em liberdade, expedindo-se em seu favor o competente Alvará de Soltura, mediante termo, como medida de direito e de JUSTIÇA”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A decisão questionada é monocrática, de natureza precária e desprovida de conteúdo definitivo. O Ministro Felix Fischer, do Superior Tribunal de Justiça, indeferiu a medida liminar requerida, requisitou informações e determinou o encaminhamento do processo ao Ministério Público Federal para, instruído o feito, dar-se o regular prosseguimento do habeas corpus até o julgamento na forma pleiteada.
+    O exame do pedido formalizado naquele Superior Tribunal ainda não foi concluído. A jurisdição ali pedida está pendente e o órgão judicial atua para prestá-la na forma da lei.
+    4. Este Supremo Tribunal tem admitido, em casos excepcionais e em circunstâncias fora do ordinário, o temperamento na aplicação da Súmula n. 691 do Supremo Tribunal Federal (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”). Essa excepcionalidade é demonstrada em casos de flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada, o que não se tem na espécie vertente.
+    5. No caso em exame, sequer é possível analisar a ocorrência de eventual ilegalidade flagrante, pois a presente ação está deficientemente instruída, desacompanhada de cópia das decisões proferidas pelo magistrado de primeira instância ou pelo Tribunal de Justiça de São Paulo, a impossibilitar a compreensão ou o exame do pedido.
+    Sem dados passíveis de serem minimamente analisados para a ciência plena do caso, de eventuais incidentes havidos e possíveis consequências, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento.
+    Confiram-se, por exemplo, os seguintes julgados:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DO WRIT. DEFICIÊNCIA. JURISPRUDÊNCIA DO SUPREMO TREBUNAL FEDERAL.
+    1. A orientação jurisprudencial desta Corte é no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    2. Agravo regimental a que se nega provimento” (HC n. 182.064-AgR, Relator o Ministro Roberto Barroso, DJe 15.7.2020).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. INSTRUÇÃO DEFICIENTE DO WRIT. INVIABILIDADE DE CONHECIMENTO DA IMPETRAÇÃO.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus, quando não instruídos os autos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes.
+    2. Agravo regimental conhecido e não provido” (HC n. 177.712-AgR, Relatora a Ministra Rosa Weber, DJe 6.3.2020).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PETIÇÃO INEPTA. DEFICIÊNCIA DE INSTRUÇÃO AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 163.114-AgR, de minha relatoria, DJe 26.9.2019).
+    6. Quanto à pandemia de coronavírus, é de se anotar que o Ministro Marco Aurélio, em decisão proferida, em 17.3.2020, não determinou a soltura imediata dos detentos, tendo apenas conclamado os juízes de execução penal a adotarem, quanto à população carcerária, procedimentos preventivos sugeridos pelo Ministério da Saúde para evitar o avanço da doença nos presídios.
+    Em 18.3.2020, na sessão presencial deste Supremo Tribunal, reafirmou o Ministro não ter determinado a soltura dos presos, submetendo sua decisão a referendo do Plenário deste Supremo Tribunal.
+    Por maioria, o Plenário decidiu não referendar a decisão do Ministro Marco Aurélio e manter as prisões levadas a efeito, assentando caber ao juízo local avaliar a situação de cada preso, nos termos da Recomendação n. 62/2020 do Conselho Nacional de Justiça para evitar a disseminação do novo coronavírus nas prisões.
+    7. No caso em exame, consta do sítio do Tribunal de Justiça de São Paulo que essa questão foi submetida ao juízo de origem, que concluiu que:
+    “(…) não houve comprovação, mediante documentação médica, que o réu pertence a grupo de risco para a Covid-19, na forma contida no artigo 2º, § 3º, da Portaria Interministerial nº 7, de 7 de março de 2020, bem como não houve demonstração de que não há equipe de saúde lotada no estabelecimento prisional ou que inexistem medidas preventivas ao novo coronavírus, conforme previsto na Recomendação do CNJ nº 62/2020 e na liminar de Habeas Corpus nº 188.820/DF do Supremo Tribunal Federal; aliás, ao contrário, as autoridades do sistema prisional vem implantando constantes medidas de tratamento, detecção, prevenção e isolamento”.
+    Não se mostra possível, assim, concluir pela ocorrência de teratologia a justificar a concessão da ordem de ofício.
+    O juízo de origem considerou o conjunto probatório para concluir não ser caso de concessão de prisão domiciliar. Para rever essa conclusão, seria imprescindível reexaminar os fatos e as provas do processo, ao que não se presta o habeas corpus.
+    8. Na espécie vertente, as circunstâncias expostas na inicial e os documentos juntados comprovam ser imprescindível especial prudência na análise do pleito por não se poder permitir, sem fundamentação suficiente, a supressão da instância de origem.
+    A decisão liminar e precária proferida pelo Ministro Felix Fischer, do Superior Tribunal de Justiça, não exaure o cuidado do que posto a exame, estando a ação ali em curso a aguardar julgamento definitivo, como pedido pela parte. Confiram-se, por exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. TRÁFICO DE DROGAS. MANDADO DE BUSCA E APREENSÃO. ILEGALIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUDIÊNCIA DE CUSTÓDIA. USO ARBITRÁRIO DE ALGEMAS. SUPRESSÃO DE INSTÂNCIA.
+    1. Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula 691. Óbice superável apenas em hipótese de manifesta ilegalidade ou teratologia.
+    2. Inviável o exame das teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+    3. Agravo regimental conhecido e não provido” (HC n. 160.507-AgR, Relatora a Ministra Rosa Weber, DJe 5.10.2018).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E DE ASSOCIAÇÃO PARA O TRÁFICO. ARTIGOS 33 E 35 DA LEI 11.343/06. ENUNCIADO Nº 691 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. SUPRESSÃO DE INSTÂNCIA. PLEITO DE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+    1. ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’ - Enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+    2. In casu, o paciente teve a prisão preventiva decretada no contexto de apuração dos crimes previstos nos artigos 33 e 35 da Lei 11.343/06.
+    3. A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante o Tribunal a quo e Corte Superior. Precedentes: HC 100.595, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 9/3/2011, HC 100.616, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 14/3/2011, HC 103.835, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 8/2/2011, HC 98.616, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 22/2/2011.
+    4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 09/05/2017; HC 122.904-AgR, Primeira Turma Rel. Min. Edson Fachin, DJe de 17/05/2016; RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 01/07/2015.
+    5. Agravo regimental desprovido” (HC n. 161.006-AgR, Relator o Ministro Luiz Fux, DJe 15.10.2018).
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SUPRESSÃO DE INSTÂNCIA: INCIDÊNCIA DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. EXCEPCIONALIDADE NÃO DEMONSTRADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A decisão questionada nesta ação é monocrática e tem natureza precária, desprovida, portanto, de conteúdo definitivo. Não vislumbrando a existência de manifesto constrangimento ilegal, incide, na espécie, a Súmula 691 deste Supremo Tribunal (‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’). Precedentes.
+    2. Agravo regimental não provido” (HC n. 90.716-AgR, de minha relatoria, DJ 1º.6.2007).
+    Assim também os seguintes julgados: HC n. 89.970, de minha relatoria, DJ 22.6.2007; HC n. 90.232, Relator o Ministro Sepúlveda Pertence, DJ 2.3.2007; e HC n. 89.675-AgR, Relator o Ministro Cezar Peluso, DJ 2.2.2007.
+    9. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+    Publique-se.
+    Brasília, 19 de março de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
