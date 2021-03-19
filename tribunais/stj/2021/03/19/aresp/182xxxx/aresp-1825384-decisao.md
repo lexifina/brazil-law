@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALICE RODRIGUES BOTELHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia posta nos autos, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 167, § 1º, I, do CC, no que concerne à não ocorrência da decadência, uma vez que o negócio jurídico seria nulo desde a origem, trazendo os seguintes argumentos:
+O acolhimento da decadência e a reforma da sentença de fls. 294/297 se mostra em total desconformidade com as normas legais contidas na lei civil, haja vista que o negócio entabulado entre as partes é nulo desde a sua origem, nos termos do artigo 167, § 1 2 , I do Código Civil que, contrariamente ao que consta do acórdão, foi abordado desde o primeiro grau de jurisdição pela Recorrente, consoante se observa às fls. 272, que segue colacionado  ..  (fls. 558).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia posta nos autos, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+In casu, não se antevê qualquer indício de negócio simulado, ausente subsunção específica às hipóteses do art. 167, § 1º, incisos I a III, do CC/02, tanto que a tese sequer foi aventada pelas partes.
+Inobstante tal fato, não se cogita de nulidade processual por julgamento extra petita, mas mero equívoco na convicção judicial originária, passível de adequação em grau de recurso.
+Assim, seria caso de perquirir a validade do negócio jurídico sob a ótica da anulabilidade por vício de consentimento, tal qual deduzido na inicial. Todavia, questão preliminar, atinente à decadência, suscitada pelos apelantes como matéria de defesa e tese recursal, impede tal incursão no mérito de fundo da controvérsia. (fl. 549)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
