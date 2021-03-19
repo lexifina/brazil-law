@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravointerposto pela FAZENDA NACIONALcontra decisão do Tribunal Regional Federal da 3ª Região que inadmitiu recurso especial, fundadonaalínea"a"do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 77):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO PARA OS HERDEIROS. FALECIMENTO DO SÓCIO ANTERIOR À CITAÇÃO.IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. A Súmula 353 do STJ dispõe que "As disposições do Código Tributário Nacional não se aplicam às contribuições para o FGTS", sendo inaplicável no caso vertente, portanto, a norma prevista no art. 135 do CTN.
+2. Para a responsabilização dos sócios deverá haver início de prova de excesso de mandato ou violação à lei ou ao contrato social, ou, ainda, demonstração da dissolução irregular da empresa, consoante entendimento do STJ e desta Corte.
+3. A jurisprudência do Superior Tribunal de Justiça se posicionou no sentido de que o redirecionamento da execução fiscal contra o Espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da ação executiva.
+4. Agravo de instrumento a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 185/194).
+A recorrente sustenta, em seu apelo raro inadmitido, violação dos arts. 489, § 1º, 1.022, II, parágrafo único, do CPC/2015, do art. 4º, III e VI, § 2º, da Lei n. 6.830/1980, dos arts. 43, 597, 985, 986 do CPC/1973 e dos arts. 1.784 e 1.997 do CC/2002. Aduz, que (e-STJ fl. 202):
+- houve dissolução irregular;
+- a dissolução irregular permite o redirecionamento para débitos não tributários, como o FGTS;
+- a despeito da súmula 353 deste STJ, há regras que permitem o redirecionamento para débitos não tributários, como o FGTS;
+- a Sra. Catarina Bilotta Righerto foi sócia administradora à época da dissolução irregular.
+Sem contrarrazões. Juízo negativo de admissibilidade recursal às e-STJ fls. 215/219.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Dito isso, vale mencionar que orecurso especial em comento se origina de agravo de instrumento interposto pela Fazenda Nacionalcontra decisão que, em sede de execução fiscal, indeferiu o pedido de redirecionamento da execução para a inclusão dos herdeiros degestorada empresa devedora.
+Ao analisar o pedido, aCorte regional teceu as seguintes considerações (e-STJ fls. 72/75):
+No caso dos autos, entretanto, como bem fundamentado pelo MM. Juiz a quo: "(..) ainda que se considerasse comprovado pela(s) certidão(ões) do(s) oficial(is) de justiça de fl. 59-v que a empresa executada não foi localizada para a realização da penhora no endereço informado ao fisco, (..), bem como ainda que se comprovasse a corresponsabilidade da Sra. Catarina Bilotta Righerto,não seria possível o redirecionamento da execução aos seus sucessores" (fls.157/158).
+Isto porque a jurisprudência do Superior Tribunal de Justiça se posicionou no sentido de que o redirecionamento da execução fiscal contra o Espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da ação executiva, in verbis:
+ ..
+Com efeito, haja vista que o falecimento da sócia se deu anteriormente ao pedido de redirecionamento da execução fiscal, a execução não deve ser redirecionada em face de seus herdeiros.
+Pois bem, de início, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação dos arts. 489 e 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão decide de forma clara e integral a controvérsia, adotando fundamentação suficiente, não se confundindo decisão desfavorável com negativa de prestação jurisdicional.
+Acerca do tema, conferir, ainda: AgInt no AREsp 1.168.812/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 21/08/2018, DJe 24/08/2018, e EDcl no AgInt no REsp 1.276.901/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/08/2018, DJe 28/08/2018.
+Quanto ao mais, do que se observa, o entendimento consignado no acórdão recorrido está em total conformidade com a orientação jurisprudencial desta Corte Superior, segundo a qual "o ajuizamento de execução fiscal contra pessoa já falecida não autoriza o redirecionamento ao espólio, haja vista que não se chegou a angularizar a relação processual, faltando, pois, uma das condições da ação: a legitimidade passiva" (AgRg no REsp 1.455.518/SC, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 26/03/2015).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AJUIZAMENTO POSTERIOR À DATA DO ÓBITO DO CONTRIBUINTE. ILEGITIMIDADE PASSIVA. RECONHECIMENTO. SUBSTITUIÇÃO DA CDA. REDIRECIONAMENTO. IMPOSSIBILIDADE. EXTINÇÃO DO FEITO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 07/11/2016, que, por sua vez, julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Apresenta-se incabível a pretensão do ente exequente de proceder à substituição da Certidão da Dívida Ativa ou ao redirecionamento da Execução Fiscal, proposta em face de contribuinte falecido. Inteligência da Súmula 392/STJ: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução".
+III. A circunstância de o falecimento do contribuinte ser superveniente à ocorrência do fato gerador não autoriza, por si só, o ajuizamento da Execução Fiscal em face do de cujus. Com efeito, o redirecionamento do feito executivo pressupõe regularidade no estabelecimento da relação processual, o que não se mostra viável, na hipótese de propositura de ação em face de pessoa falecida. Nesse sentido: STJ, AgRg no AREsp 772.042/MG, Rel. Ministro OLINDO MENEZES (Desembargador Federal Convocado do TRF/1ª Região), PRIMEIRA TURMA, DJe de 03/02/2016; STJ, AgRg no AREsp 731.447/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/08/2015; STJ, AgRg no AgRg no REsp 1.501.230/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 10/06/2015; STJ, AgRg no REsp 1.455.518/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/03/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.007.347/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/05/2017, DJe 10/05/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AJUIZAMENTO POSTERIOR À DATA DO ÓBITO. ILEGITIMIDADE PASSIVA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CDA. EXTINÇÃO DO PROCESSO.
+1. Ajuizada a execução fiscal contra executado já falecido, mostra-se imperiosa a extinção do processo, nos termos do art. 267, VI, do CPC, porquanto ausente uma das condições da ação.
+2. Atento ao enunciado da Súmula 392/STJ, a Fazenda Pública pode substituir a Certidão de Dívida Ativa até a prolação da sentença de embargos, vedada, entretanto, a modificação do sujeito passivo da execução.
+3. Falecido o executado, antes do ajuizamento da execução fiscal, não há que se falar em substituição da CDA, uma vez que a ação já deveria ter sido proposta em face do espólio. O redirecionamento só é possível quando a morte ocorre no curso da execução.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 772.042/MG, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 17/12/2015, DJe 03/02/2016).
+Cito, ainda, os seguintes julgados,que somente admitem o redirecionamento contra os sucessores se o falecimento ocorrer depois da citação do executado: REsp 1.671.855/RJ, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 12/09/2017; AgRg no AREsp 729.600/MG, Rel.Ministro Humberto Martins, Segunda Turma, DJe 14/09/2015; AgRg no AREsp 524.349/MG, Rel.Ministro Benedito Gonçalves, Primeira Turma, DJe 14/10/2014.
+Incidente à espécie, pois, o enunciado sumular 83 do STJ, aplicável, também, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional.
+Por fim, deixo consignado não ser o caso para arbitramento de honorários recursais, pois o recurso especial se origina em agravo de instrumento, cuja solução não interfere na distribuição dos ônus sucumbenciais estabelecida no processo principal.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
