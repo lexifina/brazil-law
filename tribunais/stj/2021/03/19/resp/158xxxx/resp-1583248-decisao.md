@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA.
+EMBARGOS À EXECUÇÃO. CDC. INCIDÊNCIA. INSTITUIÇÃO FINANCEIRA.
+O Código de Defesa do Consumidor é aplicável quando se trata de relação negociai mantida por instituições financeiras com aqueles que estão expostos às práticas por ele regulamentadas. Aplicação da Súmula STJ n. 297.
+CAPITALIZAÇÃO. PACTUAÇÃO DE INCIDÊNCIA MENSAL. A capitalização com periodicidade mensal é lícita quando pactuada nos contratos firmados após 31/03/00 data de publicação da Medida Provisória n. 1.963/00 cuja inconstitucionalidade, argüida, ainda não foi objeto de provimento pelo c. STF. A capitalização deve vir pactuada de forma expressa e clara. A capitalização deve vir pactuada de forma expressa e clara em cláusula que nomine a capitalização ou que indicando a taxa efetiva (anual) superior ao duodécuplo da taxa nominal (mensal) evidenciando a contratação de juros compostos.
+Recurso Especial n. 973.827/RS representativo de controvérsia.
+COEFICIENTE DE EQUALIZAÇÃO DE TAXAS. O Coeficiente de Equalização de Taxas é um critério de reajuste das prestações de financiamento imobiliário. No entanto, constitui modalidade de remuneração que implica em uma sobreposição de taxas, devendo sua incidência ser afastada. - Circunstância dos autos em que se impõe manter a sentença que afastou o encargo. RECURSO DESPROVIDO.
+A parte recorrente sustenta a inaplicabilidade do Código de Defesa do Consumidor às entidades fechadas de previdência privada; a possibilidade da cobrançado CET - Coeficiente de Equalização de Taxas; a ausência de ilegalidade na pactuação da capitalização dos juros e da Tabela Price.
+Despicienda a análise do tema relativo à incidência do CDC na relação jurídicasub judice, uma vez que, a despeito de a Corte de origem ter examinado o tema, não operoumodificação alguma no pacto com base nas regras da legislação consumerista. Assim, não diviso interesse processual da recorrente, no particular.
+Quanto aos temas dacapitalização dos juros e da Tabela Price,não conheço do recurso, já que a parte recorrente não indicou dissídio jurisprudencial ou violação de normas federais, circunstância que atrai o óbice do verbete sumular n. 284/STF.
+O dissídio jurisprudencial a respeito da CET - Coeficiente de Equalização de Taxasnão foi demonstrado nos moldes legais e regimentais, notadamente no que toca à comprovação de similitude dos substratos fáticos dos julgados confrontados e ao cotejo analítico entre acórdãos.
+Em face do exposto, nego provimento ao recurso especial. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
