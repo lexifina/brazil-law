@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL -INSS, contra decisão que não admitiu recurso especial, este interposto comfundamento no art. 105, III, a, da CF, desafiando acórdão proferido peloTribunal Regional Federal da 3ª Região, assim ementado (fls. 209/210):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. RECONHECIDO EMPARTE. APOSENTADORIA ESPECIAL. REQUISITOS LEGAIS PREENCHIDOS.
+- A Lei nº 8.213/91 preconiza, nos arts. 57 e 58, que o benefício previdenciário da aposentadoria especial será devido, uma vez cumprida a carência exigida, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, durante 15(quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei.
+- Tempo de serviço especial reconhecido suficiente à concessão do benefício de aposentadoria especial.
+- A data de início do benefício é, por força do inciso II, do artigo 49 combinado com o artigo 54, ambos da Lei nº 8.213/91, a data da entrada do requerimento e, na ausência deste ou em caso da não apresentação dos documentos quando do requerimento administrativo, será fixado na data da citação do INSS.
+- Não foi comprovado, quer pela autora, quer pelo réu, a continuidade de labor em condições especiais após referida data, não havendo que se falar em infringência ao art. 57, §8º da Lei de Benefícios.
+- A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n. 870.947, Rel. Min. Luiz Fux.
+-Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c.c. §11, do artigo 85, do CPC/2015.
+- Apelação do réu provida em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 267/274).
+Em seu especial, aponta o recorrente violação dos arts. 57 e 58da Lei 8.213/91, sustentando que "no período de 01/06/1987 a 04/09/1991 a parte autora desenvolveu atividade de auxiliar de limpeza, função que jamais houve enquadramento legal automático. E, o PPP de fls. 30/31 carece de responsável pelos registros ambientais contemporâneo no período nele consignado. E, o PPP de fls. 21/22, referente ao período de labor de 06/05/1997 a 13/02/2004 e de 10/05/2004 a 08/03/2012 expressamente aponta o uso de EPI eficaz" (fl. 277).
+Aduz que "não se discute a contemporaneidade do laudo, mas sim a impossibilidade de comprovar as condições nocivas de trabalho, em período em que o PPP atesta a ausência de responsável técnico pelos registros ambientais" (fl. 285).
+Contrarrazões às fls. 314/329.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+O recurso não prospera.
+A título de esclarecimentocumpre consignar que ébem verdade que antes da edição da Lei n. 9.032/95, o reconhecimento de trabalho em condições especiais ocorria por mero enquadramento. Assim, os anexos dos Decretos 53.831/64 e 83.080/79 listavam as categorias profissionais que estavam sujeitas a agentes físicos, químicos e biológicos, considerados prejudiciais à saúde ou à integridade física do segurado.
+Todavia,a jurisprudência desta Corte, na linha do disposto na Súmula 198 do extinto Tribunal Federal de Recursos, consolidou o entendimento de que o rol constante desses decretos é meramente exemplificativo, sendo possível que outras atividades, não relacionadas, sejam reconhecidas como insalubres, perigosas ou penosas, desde que devidamente comprovado nos autos.
+No caso concreto, o Tribunal de origem, após o exame do conjunto probatório dos autos, reconheceu à parte segurada parte do tempo especial alegado, como se verifica do seguinte excerto do acórdão recorrido (fls. 207/208):
+A r. sentença reconheceu o tempo de labor, ainda nos períodos de:
+- 01/06/1987 a 04/09/1991 - PPP (id4677860-p.20/21), laborado como auxiliar de limpeza na Real e Benemérita Associação Portuguesa de Beneficência, exposta a vírus e bactérias e a materiais infecto-contagiantes, de modo habitual e permanente - enquadramento no código 1.3.4 do Anexo I do Decreto 83.080/79;
+- 06/03/1997 a 13/02/2004 e de 10/05/2004 a 08/03/2012 - PPP (id4677860-p.11/12), laborado como auxiliar de enfermagem na Sociedade Assistencial Bandeirantes, exposta a vírus e bactérias, de modo habitual e permanente, considerando as atividades desenvolvidas - enquadramento no código 3.0.1 do Anexo IV do Decreto 2.172/97;- 11/12/2006 a 12/06/2013 (data do PPP) - PPP (id4677866-p.03/05), laborado como auxiliar de enfermagem na Autarquia Hospitalar Municipal, exposta a pacientes portadores de vírus, bactérias e fungos, de modo habitual e permanente, considerando atividades desenvolvidas - enquadramento no código 3.0.1 do Anexo IV do Decreto 2.172/97.
+ ..
+Como se vê, restou comprovado o labor em condições especiais nos períodos de 01/06/1987 a 04/09/1991, 06/05/1997 a 13/02/2004 e de 10/05/2004 a 08/03/2012, e de 11/12/2006 a12/06/2013.
+E nos embargos de declaração, a Corte de origem esclareceu a questão nos seguintes termos (fl. 268):
+No tocante ao PPP id4677860-p.20/21, este indica a existência de responsável técnico a atestar as informações, não estando o reconhecimento do tempo de serviço especial vinculado ao momento de atuação do referido responsável na empresa.
+Quanto ao PPP id4677860-p.11/12, conquanto este assinale positivamente o campo de existência de EPI eficaz, não houve comprovação da efetiva neutralização dos agentes agressivos, considerado o conjunto probatório.
+Como se vê, nada obstante o trecho da sentença transcrita no acórdão recorrido em que há menção aos enquadramentos das atividades nos termos legais, percebe-se que o Tribunal reconheceu os intervalos dos exercícios de atividades em condiçõesespeciais, com base noPerfis Profissiográfícos Previdenciários (PPP"s) juntados aos autos. Além do que não reconheceu como comprovada a efetiva neutralização dos agentes agressivos com a existência de EPI.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocado nas razões recursais,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por pertinente, anotem-se os seguintes julgados:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EXERCÍCIO DE ATIVIDADE LABORAL EMCONDIÇÕES ESPECIAIS ANTERIORMENTE À VIGÊNCIA DA LEI N. 9.032/95. EXPOSIÇÃOA AGENTE NOCIVO DE FORMA HABITUAL E PERMANENTE TIDA COMO NÃO DEMONSTRADAPELO TRIBUNAL DE ORIGEM. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na presente hipótese, a Corte de origem, com base em documentos juntados aos autos, concluiu não ter sido comprovada a exposição de forma permanente aos agentes nocivos (ruído, solda elétrica e oxiacetileno).Rever esse entendimento demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.037.492/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 24/09/2018)
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO AO AGENTE NOCIVO RUÍDONÃO COMPROVADA. ALTERAÇÃO DO ACÓRDÃO A QUO. SÚMULA 7/STJ. HONORÁRIOS. MAJORAÇÃO. SÚMULA 7.
+1. O Tribunal a quo, soberano na análise do conjunto probatório, entendeu pela ausência de comprovação de exposição à atividade insalubre. Dessa forma, modificar tal conclusão demandaria o reexame de fatos e provas, oque é vedado pela Súmula 7/STJ.
+2. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.Agravo interno improvido.
+(AgInt no AREsp nº 824.714/SP, Rel. Min. HUMBERTO MARTINS, DJe de12/05/2016)
+ANTE O EXPOSTO,nego provimento ao agravo.
+Publique-se.
