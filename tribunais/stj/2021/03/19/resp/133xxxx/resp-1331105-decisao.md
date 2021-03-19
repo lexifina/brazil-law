@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+SISTEMA FINANCEIRO DE HABITAÇÃO - Correção Monetária - Tendo as partes avençado que seria utilizado o PES/CP como índice de correção monetária das prestações mensais, este deverá ser aplicado, enquanto o INPC/IBGE será aplicado para correção do saldo devedor, a partir de  " de maio de 1991, afastada a aplicação da TR
+REVISIONAL - Tabela Price - Utilização que implica na prática de anatocismo - Ilegalidade configurada - Determinação de recálculo do saldo devedor desde a origem, pelo método de Gauss
+EXECUÇÃO EXTRAJUDICIAL com fulcro no Decreto-lei 70/66 - Alegação de inconstitucionalidade - Improcedência - O C STF já decidiu que "O Dec.-lei 70 não é inconstitucional porque, "além de prever uma fase de controle judicial, antes da perda do imóvel pelo devedor" (art. 37, § 2º ), não impede que eventual ilegalidade perpetrada no curso da venda do imóvel seja, de logo, reprimida pelos meios processuais próprios" (nota contida no Código de Processo Civil de Theotônio Negrão, 30ª ed., pg. 1219)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega o ora agravanteviolação doartigo3º do Decreto-Lei 2.291/1986 e divergência jurisprudencial.
+Merece reforma o acórdão recorrido.
+É incontroverso que o primitivo contrato de mútuo, celebrado em 7.2.1990, não previa a cobertura pelo FCVS, e a sua transferência, sem a interveniência da instituição financiadora, deu-se em 8.8.1991 (primeira cessão) e 14.12.1992 (cessão atual).
+O posicionamento adotado pelo acórdão recorrido, ao reconhecer a legitimidade dos cessionários, não está em harmonia com a orientação jurisprudencial deste Superior Tribunal, consolidada no julgamento do REsp 1.150.429/CE, submetido ao regime dos recursos repetitivos, segundo a qual, "na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato" (REsp 1.150.429/CE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, CORTE ESPECIAL, julgado em 25.4.2013, DJe 10.5.2013).
+Ainda sobre a ilegitimidade ativa dos cessionários, confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. LEGITIMIDADE ATIVA DO CESSIONÁRIO DE CONTRATO DE MÚTUO. ENTENDIMENTO ADOTADO NESTA CORTE. SÚMULA 83/STJ. APLICAÇÃO AOS RECURSOS INTERPOSTOS COM BASE EM AMBAS AS ALÍNEAS. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. "Para efeitos do art. 543-C do CPC: (..) Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato " (REsp 1150429/CE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, CORTE ESPECIAL, julgado em 25.4.2013, DJe 10.5.2013). Incidente a Súmula 83/STJ.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1322833/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/09/2019, DJe 02/10/2019)
+AGRAVO REGIMENTAL. DIREITO CIVIL E PROCESSUAL CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO REVISIONAL. CONTRATO DE GAVETA. ILEGITIMIDADE ATIVA DO CESSIONÁRIO.
+1. "Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato" (REsp 1.150.429/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, CORTE ESPECIAL, julgado em 25/04/2013, DJe 10/05/2013).
+2. Agravo regimental não provido.
+(AgRg no REsp 1181068/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2015, DJe 13/08/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. AÇÃO REVISIONAL DE CONTRATO DE MÚTUO, SEM COBERTURA DO FCVS. ILEGITIMIDADE ATIVA. CESSÃO DE DIREITOS ANTERIOR A 25/10/96. NECESSIDADE DE ANUÊNCIA DA INSTITUIÇÃO FINANCEIRA. PARÂMETROS DEFINIDOS NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO Nº 1.150.429/CE. SÚMULA N. 83/STJ. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Por ocasião do julgamento do Recurso Especial Repetitivo n. 1.150.429/CE, a Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento no sentido de que "na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato", como ocorrido na hipótese.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1542425/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/09/2015, DJe 13/10/2015)
+Em face do exposto, dou provimento ao recurso especial, para adequar o acórdão recorrido à jurisprudência deste Superior Tribunal de Justiça, reconhecendo a ilegitimidade ativa dos cessionários recorridos. Prejudicadas as demais questões.
+Intimem-se.
