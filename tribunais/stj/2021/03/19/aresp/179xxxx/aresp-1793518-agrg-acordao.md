@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. RECURSO INTERNO. CORREÇÃO DAS DEFICIÊNCIAS DO AGRAVO EM RECURSO ESPECIAL.INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+2. As razões do agravo regimental apenas mencionam o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, qual seja, a falta de impugnação a todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o apelo nobre. Contudo, não trazem nenhum argumento específico e concreto a fim de afastá-lo, demonstrando de que maneira teriam buscado afastar, no bojo do agravo em recurso especial, os fundamentos utilizados para inadmitir o recurso especial.
+3. Em vez de atacar os fundamentos da decisão agravada, a Defesa ataca o Órgão Jurisdicional que a prolatou, asseverando que, ao assistir vídeo institucional publicado pelo Superior Tribunal de Justiça em seu canal institucional no youtube, teria constatado que a análise do juízo de admissibilidade dos recursos, nesta Corte Superior, seria realizado de maneira "terceirizada", "robótica" e "passível de falhas piores das quais nós humanos cometeríamos".
+4. Não efetivada a impugnação concreta do fundamento da decisão agravada, o agravo regimental não comporta conhecimento, nos termos da Súmula n. 182 do STJ.
+5. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+6.Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por PAULO RICARDO MANZOLI contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, pela falta de impugnação a todos os fundamentos da inadmissão do apelo nobre, pelo Tribunal de origem.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (6,28g de crack e 6,22g de cocaína). Houve apelação somente defensiva, a que o Tribunal de origem negou provimento, em acórdão assim ementado (fl. 285):
+"APELAÇÃO CRIMINAL - Tráfico de drogas - Autoria e materialidade delitiva comprovadas - Decisão condenatória que se impõe - Impossibilidade de desclassificação para o delito previsto no artigo 28 da Lei de Drogas - Réu reincidente - Penas e regime inicial fixados com critério - Recurso desprovido."
+Opostos embargos de declaração defensivos, foram rejeitados (fls. 304-310).
+No recurso especial, em síntese, alegou-se que o Recorrente faria jus à causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, em sua fração máxima, bem assim não haver fundamentação idônea para a imposição do regime inicial fechado e pediu-se, ainda, a absolvição.
+Oferecidas contrarrazões (fls. 353-379), inadmitiu-se o recurso na origem (fls. 381-383), advindo o agravo (fls. 385-390), contraminutado às fls. 393-408.
+Nesta Corte Superior, a Presidência não conheceu do agravo, pela falta de impugnação a todos os fundamentos da decisão agravada.
+No presente agravo regimental, alega a Defesa que o Tribunal de origem, ao afirmar que haveria deficiência na fundamentação do recurso especial, quando da realização o juízo de admissibilidade, teria adentrado ao mérito recursal e usurpado a competência do Superior Tribunal de Justiça. Argumenta que o dissenso interpretativo não estaria fundado apenas em julgados proferidos em mandado de segurança ou habeas corpus, bem assim não ser caso de reexame de provas. Aduz também estar evidenciado o prequestionamento e que não houve alegação de ofensa a súmulas, mas estas teriam sido utilizadas apenas para da suporte à sua argumentação.
+Aduz que, "em busca na rede mundial de computadores e assistindo ao vídeo https://www.youtube.com/watch v=KGiJv-tYILo que demonstra como funciona os bastidores do STJ, fica de clareza solar que o processo do "Juízo" de admissibilidade é "terceirizado" bem como "robótico" e passível de falhas piores das quais nós humanos cometeríamos, como é o caso em tela." (fls. 427-728).
+Afirma, ainda (fl. 428):
+"Triste demais o fato de se fazer um agravo totalmente personalizado, objetivo e resumido visando celeridade e eficácia processual e com intenções nobres de desafogo dos Tribunais e se deparar com r. decisão genérica (E. TSJP) e r. decisão robótica (E. STJ) dizendo que a r. decisão denegatória não foi impugnada.
+Como demonstrado ao longo de toda ação penal, em especial no Recurso Especial e no Agravo em Recurso Especial não há nenhuma frase genérica, os recursos foram moldados ao caso em concreto e todos argumentos foram devidamente rebatidos.
+Se deparar com a r. decisão que não conhece do AREsp que imotivadamente diz que é genérico e não rebateu os argumentos da r. decisão que de fato é genérica, é negar direito ao agravante já que r. decisão denegatória por ser genérica não precisaria ser impugnada, entretanto, mesmo assim foi especificamente impugnada de ponto a ponto, ou seja, de forma efetiva, concreta e pormenorizada, e sem fazer referência ao recurso nobre."
+Pede a reconsideração da decisão agravada ou a submissão do regimental ao Colegiado.
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo regimental (fls. 462-466).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. RECURSO INTERNO. CORREÇÃO DAS DEFICIÊNCIAS DO AGRAVO EM RECURSO ESPECIAL.INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+2. As razões do agravo regimental apenas mencionam o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, qual seja, a falta de impugnação a todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o apelo nobre. Contudo, não trazem nenhum argumento específico e concreto a fim de afastá-lo, demonstrando de que maneira teriam buscado afastar, no bojo do agravo em recurso especial, os fundamentos utilizados para inadmitir o recurso especial.
+3. Em vez de atacar os fundamentos da decisão agravada, a Defesa ataca o Órgão Jurisdicional que a prolatou, asseverando que, ao assistir vídeo institucional publicado pelo Superior Tribunal de Justiça em seu canal institucional no youtube, teria constatado que a análise do juízo de admissibilidade dos recursos, nesta Corte Superior, seria realizado de maneira "terceirizada", "robótica" e "passível de falhas piores das quais nós humanos cometeríamos".
+4. Não efetivada a impugnação concreta do fundamento da decisão agravada, o agravo regimental não comporta conhecimento, nos termos da Súmula n. 182 do STJ.
+5. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+6.Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Disse a decisão agravada (fl. 416):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, ausência de prequestionamento, divergência não comprovada, Súmula 7/STJ e Súmula 518/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento, divergência não comprovada e Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial."
+O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+As razões do agravo regimental apenas mencionam o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, qual seja, a falta de impugnação a todos os fundamentos utilizados pelo Tribunal de origem para inadmitir o apelo nobre. Contudo, não trazem nenhum argumento específico e concreto a fim de afastá-lo, demonstrando de que maneira teriam buscado afastar, no bojo do agravo em recurso especial, os fundamentos utilizados para inadmitir o recurso especial.
+Na verdade, em vez de atacar os fundamentos da decisão agravada, a Defesa ataca o Órgão Jurisdicional a prolatou, asseverando que, ao assistir vídeo institucional publicado pelo Superior Tribunal de Justiça em seu canal institucional no youtube, teria constatado que a análise do juízo de admissibilidade dos recursos, nesta Corte Superior, seria realizado de maneira "terceirizada", "robótica" e "passível de falhas piores das quais nós humanos cometeríamos".
+Não efetivada a impugnação concreta do fundamento da decisão agravada, o agravo regimental não comporta conhecimento, nos termos da Súmula n. 182 do STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ.
+2. In casu, o agravante deixou de impugnar o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 182 do STJ.
+ ..
+4. Agravo regimental não conhecido."(AgRg no AREsp 1.605.293/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CRIMES DE ESTELIONATO CONSUMADO E TENTADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O APELO RARO. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL EM QUE INCIDE O MESMO ÓBICE. INVIABILIDADE DE EXAME DO RECURSO. USURPAÇÃO DA COMPETÊNCIA DO STJ. NÃO CONFIGURADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recorrente não atacou especificamente os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+2. No agravo regimental, as razões recursais incidem no mesmo vício, porquanto não impugnam especificamente o fundamento da decisão monocrática proferida nesta Corte Superior, atraindo, outra vez, o óbice da Súmula n. 182/STJ.
+ ..
+4. Agravo regimental não conhecido."(AgInt no AREsp 1.258.683/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020.)
+Outrossim, ao impugnar os fundamentos utilizados pela Corte de origem para não admitir o recurso especial, busca o Agravante, no presente agravo regimental, suprir as deficiências do agravo em recurso especial, o que se mostra inviável, pela ocorrência de preclusão consumativa.
+A esse respeito:
+"PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE VÍCIO A SER SANADO. REDISCUSSÃO DE MATÉRIA. DESCABIMENTO. IMPUGNAÇÃO TARDIA QUE ENCONTRA ÓBICE NA PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. EMBARGOS REJEITADOS.
+ ..
+3. A impugnação tardia de fundamento da decisão de inadmissibilidade do recurso especial configura inovação recursal e não afasta a ausência de impugnação constatada na petição de agravo em recurso especial, em razão da preclusão consumativa.
+ ..
+5. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp 1.253.070/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/04/2019, DJe 22/04/2019.)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. IMPUGNAÇÃO EM AGRAVO REGIMENTAL. INOVAÇÃO RECURSAL. ANÁLISE. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. É inviável a análise, em agravo regimental, de tema não ventilado no agravo em recurso especial, por incidência da preclusão consumativa.
+3. Agravo regimental improvido." (AgRg no AREsp 1.246.708/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 17/08/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
