@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por UNIÃO, com amparo na alínea a do inciso III do art. 105 da CF, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado (e-STJ, fl. 337):
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO PROVA EMPRESTADA. VIOLAÇÃO AO CONTRADITÓRIO E À AMPLA DEFESA. NÃO OCORRÊNCIA. PENSÃO POR MORTE. EX-COMBATENTE. FILHO INVÁLIDO. REGÊNCIA PELA LEGISLAÇÃO DA ÉPOCA DO FALECIMENTO. DIREITO. EXISTÊNCIA. TERMO INICIAL DA CONDENAÇÃO. JUROS DE MORA. LEI N 11960/09. AFASTAMENTO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 366-369).
+Após a interposição de recurso especial (e-STJ, fls. 373-388), os autos foram devolvidos ao órgão julgador, que deu parcial provimento ao recurso de apelação e à remessa oficial para determinar a aplicação do art. 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, a partir da sua vigência.
+Em novo recurso especial, a insurgente alega violação do art. 5º, III, e 14 da Lei n. 8.059/1990, sob o argumento de que não é devida a pensão ao recorrido, pois este não teria comprovado que a invalidez é anterior ao óbito do instituidor do benefício.
+Apresentadascontrarrazões (e-STJ, fls. 460-468), o recurso especial foi admitido na origem(e-STJ, fl. 470).
+Parecer pelo desprovimento do recurso(e-STJ, fls. 478-481).
+É o relatório.
+No caso em questão, oacórdão impugnado reconheceu expressamente que a invalidez do recorrido se iniciou em data anterior ao óbito do instituidor da pensão.
+Confira-se (e-STJ, fl. 335):
+Quanto ao momento em que surgiu a referida doença, ressalto que a aludida perícia, à fl. 175, destacou que o mal de que padece o demandante evoluiu desde a segunda década de idade, não sendo demais salientar que, através do laudo pericial de fl.204, elaborado após determinação do Juízo Federal, ficou esclarecido que a enfermidade esquizofrênica do apelado teve início depois que ele deixou a farda da Polícia Militar, em 1985, quando as manifestações psicóticas de sua conduta afloraram e a doença se estabeleceu.
+Assim, provada a condição de dependente do autor e demonstrado que a moléstia que o incapacita para os atos da vida civil eclodiu em momento anterior ao falecimento do seu genitor (20/08/1992), estão preenchidos os requisitos para a concessão da cota-parte do beneficio de pensão por morte de ex-combatente.
+Com isso, para se chegar a uma conclusão contrária à do Tribunal a quo, no sentido de que a invalidez do autor precedeu o falecimento de seu genitor, faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável emrecurso especial, por força do constante na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR. FILHO MAIOR INVÁLIDO.PENSÃO. CONCESSÃO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO.DESNECESSIDADE. SÚMULA 7 DO STJ. NÃO INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A jurisprudência desta Corte é firme em reconhecer que, em se tratando de dependente maior inválido, "basta a comprovação de que a invalidez é anterior ao óbito do segurado" (REsp 1.776.399/CE, Rel.
+Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 11/12/2018, DJe 04/02/2019, e AgRg no Ag 1.427.186/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 06/09/2012, DJe 14/09/2012).
+3. Para concluir que não ficou demonstrada a condição de inválido do autor, o Regional levou em conta a data da sentença de interdição, a qual foi posterior ao óbito do instituidor da pensão.
+4. Para o Superior Tribunal de Justiça é desinfluente a sentença de interdição ter sido prolatada após a morte do instituidor do benefício, pois a "interdição judicial declara ou reconhece a incapacidade de uma pessoa para a prática de atos da vida civil, com a geração de efeitos ex nunc perante terceiros (art. 1.773 do Código Civil), partindo de um "estado de fato" anterior, que, na espécie, é a doença mental de que padece o interditado" (REsp 1.469.518/PE, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 04/09/2014, DJe 22/09/2014).
+5. Como anotado pelo Parquet, o afastamento da conclusão a que chegou a Corte de origem não desafia o reexame de prova a atrair o óbice da Súmula 7 desta Corte porque o Juízo de 1º grau realizou minuciosa valoração do acervo fático-probatório dos autos e atestou haver comprovação de que a incapacidade do autor antecedia o óbito de seu pai, entendimento que merece ser restabelecido.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.612.143/RJ, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/9/2019, DJe 16/10/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO A DEPENDENTE INVÁLIDO. INVALIDEZ PREEXISTENTE AO ÓBITO DO INSTITUIDOR DA PENSÃO. DEPENDÊNCIA ECONÔMICA RECONHECIDA PELA CORTE DE ORIGEM. SÃO BENEFICIÁRIOS DAS PENSÕES AS PESSOAS PORTADORAS DE DEFICIÊNCIA QUE VIVAM SOB A DEPENDÊNCIA ECONÔMICA DO INSTITUIDOR DA PENSÃO. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem, soberana na análise do conjunto fático-probatório dos autos, concluiu que os documentos que comprovam que o tratamento de saúde da autora era custeado por sua avó e por seu avô materno enquanto vivo são suficientes para caracterizar a dependência econômica em relação ao instituidor da pensão; além de reconhecer que a deficiência da autora é congênita, registrando, inclusive, que desde os primeiros anos de sua infância já fora submetida a tratamentos nos rins, portanto, anterior ao óbito do instituidor da pensão.
+2. Comprovados os requisitos necessários à concessão do benefício, não merece reparos o acórdão recorrido, sendo inviável, em sede de Recurso Especial, rever o arcabouço probatório que levou a tal conclusão, ante o óbice contido na Súmula 7 desta Corte.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp 464.055/PE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/9/2017, DJe 16/10/2017.)
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço do recurso especial.
+Publique-se. Intimem-se.
