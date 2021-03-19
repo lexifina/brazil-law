@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial manejado por ESCURIAL EMPREENDIMENTOS LTDA - EPP, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 464):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL.PAGAMENTO DO CRÉDITO TRIBUTÁRIO.QUITAÇÃO DO DÉBITO EM DATAPOSTERIOR AO AJUIZAMENTO DAEXECUÇÃO FISCAL. FEITO EXECUTIVOFISCAL EXTINTO MOTIVADO PELOPAGAMENTO DO DÉBITO. PRINCÍPIO DACAUSALIDADE. PROPOSITURANECESSÁRIA DO AJUIZAMENTO DOFEITO EXECUTIVO. RECORRIDADEVERÁ ARCAR COM AS DESPESAS
+PROCESSUAIS E HONORÁRIOSADVOCATÍCIOS. PRECEDENTES.
+RECURSO CONHECIDO E PROVIDO. ÃUNANIMIDADE.
+Opostos embargos declaratórios foram rejeitados nos seguintes termos (fl. 638):
+Processo civil - Embargos de Declaração no Recurso de Apelação Cível - Omissão e Contradição Inexistentes - Pretensão de reexame da matéria - Prequestionamento - Mero Inconformismo. Decisão Unânime.
+I Os embargos de declaração não se prestam a novo exame do mérito, devendo ser eles rejeitados quando ausente qualquer um dos vícios do art. 1.022, incisos 1,11 e 111, do CPC;
+II -  ífica é a jurisprudência deste e do Superior Tribunal de Justiça no sentido de impossibilidade de oposição de embargos aclaratórios com o único fito de se reexaminar a causa;
+III - Inexistindo contradição, omissão e obscuridade a ser suprida no julgado vergastado, por ter a decisão apreciado adequadamente a matéria, insuficiente se revela a pretensão de prequestionamento para o
+acolhimento dos embargos opostos;
+IV- Recurso conhecido e desprovido.
+A parte recorrente aponta violação aos arts. 85, §§ 2º, e 11,e 1.022 do CPC/2015. Sustenta, em resumo: (I) que houve negativa de prestação jurisdicional, pois a despeito da oposição dos embargos declaratórios, o Tribunal de origem quedou-se silente sobre a alegação de que os honorários já foram quitados de forma voluntária quando da quitação do valor executado; (II) "é preciso observar o legislador previu apenas a hipótese de acréscimo de honorários já fixados, isto é, para que seja possível a majoração dos honorários advocatícios sucumbenciais em grau recursal é preciso que estes tenham sido fixados na Sentença de 1º Grau, o que não é o caso dos autos." (fl. 491).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022, II, do CPC/2015, pois a parte agravante, com o objetivo de ver sanada a omissão, opôs embargos declaratórios, sustentando que o julgado restou omisso em diversos pontos, in verbis (fls. 595/):
+I - Dos Honorários Já Quitados De Forma Voluntária - Pagamento Efetuado Quando Da Quitação Do Valor Cobrado - Novo Arbitramento Que Caracteriza Bis InIdem
+Nobre Relator, analisando a ilustre Decisão ora embargada, percebe-se que foi dado provimento ao Recurso do Embargado para inverter o ônus da sucumbência sob o fundamento de que é cabível a condenação da Embargante no pagamento doshonorários, uma vez que restou demonstrado nos autos a sua resistência em efetuar o pagamento do débito tributário devido.
+Ora Excelência, em que pese brilhante fundamentação utilizada no respeitável Acórdão, ocorre que este Douto Juízo não se atentou para o fato de que os honorários devidos ao Estado de Sergipe já tinham sido efetivamente quitados quanto do pagamento do tributo.
+Observe Douto Relator que na documentação acostada em 21/08/2018, comprovando o pagamento do tributo, a Embargante também efetuou o pagamento dos honorários de sucumbência devidos ao Estado de Sergipe.
+(..)
+Foram pagos no total o valor de R$ 606,34 (seiscentos e seis reais e trinta e quatro centavos) a título de honorários de sucumbência fixados sobre o benefício auferido pelo Embargado, tudo conforme documentação acima exposta e já anexada aos autos.
+Não há dúvidas de que este ponto restou omisso ao proferir o ilustre Acórdão, sendo que o cerne da questão é perceber que o Douto Relator esteve alheio aos fatos acima explanados, de modo que acabou por prolatar uma Acórdão em desconformidade com a realidade dos autos, motivo pelo qual não pode a Embargante se furtar em não apresentar o presente recurso.
+Contudo, o Tribunal de origem quedou-se silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022, II, do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Assim, foi violado o art. 1.022, II, do CPC/2015. Isso porque a Corte de origem deveria ter examinado questões relevantes ao deslinde da controvérsia, a saber: que os honorários já foram quitados de forma voluntária quando da quitação do valor executado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 1.022 DO CPC/2015. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Por fim, cumpre registrar que, conforme entendimento jurisprudencial e doutrinário, uma das importantes funções do princípio da boa-fé objetiva é impedir que a parte exerça o seu direito de forma abusiva. Ressalte-se que "a jurisprudência desta Corte, com base no princípio da boa fé objetiva, tem consagrado a proibição do venire contra factum proprium" (REsp 876.682/PR, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 5.8.2010), ou seja, "o princípio da boa-fé objetiva proíbe que a parte assuma comportamentos contraditórios no desenvolvimento da relação processual, o que resulta na vedação do venire contra factum proprium, aplicável também ao direito processual" (AgRg no REsp 1.280.482/SC, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 13.4.2012). Ressalte-se que a proibição do comportamento contraditório aplica-se, inclusive, ao magistrado, quando cria na parte a legítima expectativa de que suas razões serão apreciadas (REsp 1.116.574/ES, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 14/04/2011, DJe 27/04/2011).
+3. Agravo interno não provido.
+(AgInt no REsp 1.698.734/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018)
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022, II, do CPC/2015, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
