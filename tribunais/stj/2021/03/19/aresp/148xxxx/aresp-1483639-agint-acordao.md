@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LEGITIMIDADE DE TERCEIRO PREJUDICADO. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal, a fim de reconhecer a ilegitimidade da Alvorada Empreendimentos e Participações S. A.para figurar no feito, como sustentado no recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em apelo nobre, conforme entendimento assentado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." O posicionamento é igualmente aplicável quanto à interposição do recurso por divergência jurisprudencial.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Wal-Mart Brasil Ltda. contra decisão que não conheceu o recurso especial.
+A insurgente alega que não incide o óbice contido na Súmula 7/STJ, pois não se pretende a análise de fatos e provas, porquanto visou-se aoreconhecimentoda ilegitimidade da Alvorada Empreendimentos e Participações S. A.para figurar no feitoà luz dos arts. 3º, 47, 469 e 472 do CPC/1973.
+Aduz, ainda, que não há legitimidade recursal por parte da empresa agravada, uma vez que, a despeito de ter sido mencionada nos fundamentos da sentença, não fora, na parte dispositiva, única apta a ensejar coisa julgada material, que apenas limitou-se a retirar da parte requerenteo encargo pelo pagamento da ONALT, não aplicando condenação alguma em desfavor da Alvorada Empreendimentos e Participações S. A.
+Refere que houve violação do art. 499 do CPC/1973, porquanto parte agravadanão pode ser considerada terceira prejudicada no caso, pois não há que se falar em prejuízo jurídico advindo de sentença proferida na ação ordinária ajuizada por Wal-Mart Brasil Ltda. em oposição ao Distrito Federal, uma vez que o pedido da recorrente na ação originária é para ver declarada a inexigibilidade de cobrança da ONALT por parte do Distrito Federal em seu desfavor.
+Requer, portanto, a reforma da decisão combatida para que seja dado provimento ao apelo especial.
+A parte agravadaapresentou impugnação (e-STJ, fls. 1.601-1.616).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LEGITIMIDADE DE TERCEIRO PREJUDICADO. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal, a fim de reconhecer a ilegitimidade da Alvorada Empreendimentos e Participações S. A.para figurar no feito, como sustentado no recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em apelo nobre, conforme entendimento assentado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." O posicionamento é igualmente aplicável quanto à interposição do recurso por divergência jurisprudencial.
+2. Agravo interno a que se nega provimento.
+VOTO
+Reitero queo Tribunal de origem consignou que a legitimidade recursal da Alvorada Empreendimentos e Participações S. A. já foi examinada no AGI 2015002011437-8/DF, em acórdão transitado em julgado, nos seguintes termos (e-STJ, fl. 1.290):
+Em suma, o Distrito Federal aduz que, embora a empresa Apelante alegue que foi prejudicada pelo conteúdo da sentença, a fundamentação não faz coisa julgada, pois só a parte dispositiva tem eficácia jurídica. Sem razão o Apelado, pois a legitimidade recursal já foi examinada no AGI 2015002011437-8, em Acórdão transitado em julgado com seguinte ementa:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO.SENTENÇA QUE ATINGE ESFERA DE TERCEIRO.RECURSO DE APELAÇÃO. RECEBIMENTO.
+1. O agravante enquadra-se no conceito de terceiro prejudicado nos termos do art. 499, na medida em que, não tendo participado da lide e tendo demonstrado o nexo de interdependência entre o seu interesse de intervir e a relação jurídica submetida a apreciação judicial.
+2. Neste sentido, tem o agravante legitimidade recursal.
+3. Recurso conhecido. Deu-se provimento ao agravo de instrumento."(Acórdão n.872482, 20150020114378 AGI, Relator: GILBERTO PEREIRA DE OLIVEIRA 3ª TURMA Fls./12C (Apelação Cível 20120111719467APC CÍVEL, Data de Julgamento: 03/06/2015, Publicado no DJE:11/06/2015. Pág.: 161).
+Como é sabido, o interesse processual caracteriza-se no binômio necessidade e utilidade da via jurisdicional. No caso em análise, revela-se aausência de interesse de agir, porquanto a legitimidade da agravadafoi reconhecida diante da demonstração da condição de terceiro interessado, em ação já transitada em julgado.
+Portanto, ausente pressuposto intrínseco do direito de recorrer -interesse recursal -, não se vislumbra a utilidade na interposição do presente agravo.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE SOBRESTAMENTO. DECISÃO NO MESMO SENTIDO DO OBJETO DO RECURSO. INTERESSE RECURSAL. AUSÊNCIA.
+1. A decisão agravada foi exatamente ao encontro do ora postulado pelo agravante, ao determinar a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aguardem o julgamento do Recurso Extraordinário n. 870.947/SE (Tema n. 810 - RG) pelo Supremo Tribunal Federal.
+2. Ausente pressuposto intrínseco do direito de recorrer - interesse recursal, não se vislumbra a utilidade na interposição do presente agravo.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.416.227/RJ, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 9/5/2019, DJe 6/6/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. JUROS EFETIVOS. ANATOCISMO. SÚMULA 283/STF. REEXAME. SÚMULA 7/STJ. IRRESIGNAÇÃO DA SEGURADORA. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. A pretensão deduzida no recurso especial da Caixa Econômica Federal (e-STJ, fls. 792-804) não resulta em proveito à seguradora, porquanto o que se discute é a legalidade da taxa de juros no contrato de mútuo e a intimação do devedor quanto à realização do leilão.
+2. Por conseguinte, diante da ausência de qualquer proveito, consubstanciado no binômio necessidade-utilidade, no tocante às alegações feitas pela CEF, no recurso especial, a hipótese é de absoluta falta de interesse recursal, em virtude da inutilidade da irresignação.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1.725.484/PE, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/6/2018, DJe 15/6/2018.)
+Ademais, ainda no tocante à legitimidade, verifica-se que o Tribunal de origem resolveu a controvérsia no seguintes termos (e-STJ, fls. 1.291-1.293):
+Por terceiro prejudicado entende-se tanto a pessoa que deveria ter participado da relação processual como parte, mas não participou, quanto aquela que poderia ter intervindo no processo como assistente simples ou litisconsorcial, mas não interveio.
+No caso, mesmo que apenas a parte dispositiva transite em julgado, a r. sentença expressamente afirmou na fundamentação que a ora Apelante é a responsável pelo pagamento da ONALT sem que tenha participado regularmente do feito e julgou procedente o pedido de declaração de inexigibilidade da ONALT com relação ao Wal-Mart, logo, forçosa a conclusão de que atingiu sua esfera jurídica, o que caracteriza a legitimidade recursal. (..)
+Embora não tenha admitido explicitamente na petição inicial econtrarrazões, é nítida a pretensão de que a ONALT seja paga exclusivamente pela empresa Alvorada Empreendimento Participações S.A.
+Embora o dispositivo da r. sentença tenha declarado a inexigibilidade da ONALT apenas com relação ao Wal-Mart, na fundamentação expressamente atribui a responsabilidade pelo pagamento do preço público é da empresa Alvorada Empreendimento Participações S.A.A própria circunstância de o preço público ter sido declarado inexigível com relação ao Autor da presente ação já induz a responsabilização da ora Apelante pelo pagamento.
+A natureza jurídico-material da relação jurídica aqui discutida exigia que a ação fosse proposta, também, contra a empresa Alvorada Empreendimento Participações S.A., pois seria atingida diretamente pela decisão judicial, de modo que deveria figurar no polo passivo da relação processual.
+Desse modo, para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal, a fim de reconhecer a ilegitimidade da empresaAlvorada Empreendimentos e Participações S. A. para figurar no feito, como sustentado neste recurso, serianecessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em recurso especial, conforme entendimento assentado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." O posicionamento é igualmente aplicável quanto à interposição do recurso por divergência jurisprudencial.
+Sobre o tema:
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. PRESTAÇÃO JURISDICIONAL SUFICIENTE E FUNDAMENTADA. LEGITIMIDADE DE TERCEIRO PREJUDICADO. CIRCUNSTÂNCIAS FÁTICAS. REVOLVIMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Observo inexistente a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da análise do acórdão recorrido.
+2. Da análise detida dos autos, verifica-se que a Corte de origem não analisou, nem sequer implicitamente, o art. 469 do CPC. O Tribunal decidiu a lide com base na interpretação do art. 499 do CPC e entendeu que a parte agravada possui legitimidade para interpor recurso da sentença proferida nos autos da origem. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Assim, incide no caso o enunciado da Súmula 211/STJ.
+3. O reconhecimento da legitimidade do terceiro prejudicado decorreu das circunstâncias fáticas que envolvem a ação, em especial a existência de pronunciamento judicial reconhecendo que o agravado é o responsável pelo pagamento da ONALT, sem que este tenha participado regularmente do feito. Nesse diapasão, para que se entenda em sentido contrário ao consignado pela instância de origem quanto à legitimidade ativa do particular, necessária seria a incursão na seara fático-probatória dos autos, inviável na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 834.590/DF, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/3/2016, DJe 17/3/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
