@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de extensão, apresentado por FÁBIO NEVES DA SILVA, dos efeitos da decisão, de minha lavra, em que dei provimento ao recurso ordinário constitucional interposto pelo Corréu LUCAS KAUAN LOPES DE MELLO, nos termos da seguinte ementa (fl. 108):
+"RECURSO ORDINÁRIO CONSTITUCIONAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA EXCEPCIONAL. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. RECURSO PROVIDO."
+Nas razões do pedido, o Requerente sustenta, em síntese, que se encontra em situação fático-processual idêntica à do Corréu Lucas e, por isso, faz jus à extensão dos efeitos da decisão que revogou a prisão cautelar nos moldes do art. 580 do Código de Processo Penal.
+É o relatório. Decido.
+Constata-se que foiutilizado omesmo e único fundamentopara a conversão das prisõesem flagrante de ambos os investigadosem prisões preventivas, qual seja, a especial gravidade da conduta -respaldada na quantidade de droga apreendida (101 gramas de "maconha")(fls. 135-138).
+Nesse sentido, vejam trecho da referida decisão em que foi apresentado ofundamento para a decretaçãodas prisões cautelares(fl. 137; sem grifos no original):
+"A gravidade em concreto do delito praticado demonstra a periculosidade do flagrado, diante da significativa quantidade de drogas encontradas, totalizando 101g (cento e um gramas).
+Deste modo é impossível a arguição de que a droga apreendida seria destinada para seu uso pessoal, diante da grande quantidade apreendida.
+Ressalta-se que a apreensão das drogas foi êxito de uma abordagem realizada decorrente de uma denúncia anônima de que os indivíduos estariamno local em atitude suspeita, sendo que a suspeita restou comprovada durante a abordagem e apreensão das drogas.Logo, para fins de decretação da prisão preventiva verifica-se presente o requisito da garantia da ordem pública.
+Portanto, repita-se, a necessidade da custódia cautelar fica evidente diante da gravidade do crime de tráfico, que inclusive fomenta a execução de outros delitos violentos, causando intranquilidade no meio social, havendo assim fundado risco à ordem pública.
+Destarte, a liberdade dos flagrados neste momento processual é totalmente incabível, como visto, servido apenas de nefasto estímulo social à prática delituosa, além de indicar, para a população local, que o sistema penal não oferece a adequada resposta em casos graves como este."
+Desse modo, verificada a similitude fático-processual da situação do ora Requerente e do Corréu, é possível a extensão dos efeitos da decisão que revogou a prisão provisória, nos termos do art. 580 do Código de Processo Penal.
+Ante o exposto, DEFIRO o pedido de extensão paradeterminar a soltura do Requerente, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente, a demonstrar a necessidade da medida ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM RECURSO ORDINÁRIO CONSTITUCIONAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA EXCEPCIONAL. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ART. 580 DO CÓDIGO DE POCESSO PENAL. SIMILITUDE FÁTICA. PEDIDO DE EXTENSÃO DEFERIDO.
