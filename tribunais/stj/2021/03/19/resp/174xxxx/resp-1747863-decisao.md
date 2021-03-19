@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Luiz Silva, com amparo nas alíneas a e cdo inciso III do art. 105 da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fl. 76):
+PROCESSUAL CIVIL E PREVIDENCIARIO. EMBARGOS À EXECUÇÃO. APELAÇÃO. AGRAVO INTERNO. OPÇÃO POR BENEFÍCIO (JUDICIAL ADMINISTRATIVO). DIFERENÇAS INEXISTENTES. EXTINÇÃO DA EXECUÇÃO. ILEGALIDADE OU ABUSO DE PODER INEXISTENTE.
+I. As ementas mencionadas pela agravante, que amparariam o seu pleito, são anteriores a 26/10/2016, data em que o Plenário do STF proferiu decisão no RE 661.256/DF, entendendo que "No âmbito do Regime Geral da Previdência Social- RGPS, somente lei pode criar beneficies e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art.18º, § 2º, da Lei 8.213/91".
+II. Uma vez concedida ao segurado a aposentadoria, administrativamente, nada mais lhe seria devido a título de outro benefício que considere em seu cálculo o exercício de atividade já considerado para concessão do benefício na esfera administrativa.
+III. A pretensão do agravante configuraria desaposentação" indireta", pois se valeria, em grande parte, dos mesmos salários de contribuição considerados para concessão de ambos os benefícios, ainda que as aposentadorias (administrativa e judicial) sejam sucessivas, e não concomitantes.
+IV. A pretensão da agravante encontra óbice no art.124, II, da Lei 8.213/1991, que veda a percepção de mais de uma aposentadoria no regime geral. Tal dispositivo também veda, indiretamente, a percepção de proventos de duas aposentadorias inacumuláveis, ainda que não concomitantes.
+V. A decisão agravada não padece de qualquer ilegalidade ou abuso de poder.
+VI. Agravo improvido.
+O recorrente alega, além de divergência jurisprudencial, que foram violados os arts. 48 e 124 da Lei n. 8.213/1991; 3º da Lei n. 10.666/2003; 489, § 1º, IV, do CPC.
+Defende o direito de receber os atrasados concedidos no benefício judicial com opção ao melhor benefício concedido na esfera administrativa.
+Aduz que deve ser anulado o acórdão por falta de fundamentação, devendo retornar ao Tribunal para o exame da tese apontada pelo autor sobre o direito adquirido aos valores atrasados do benefício judicial.
+Admitido o recurso especial na origem (e-STJ, fl. 112), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso - direta ou indiretamente - constitui tema dos Recursos Especiais n. 1.767.789/PR e n. 1.803.154/RS (Tema 1.018 - Possibilidade de, em fase de Cumprimento de Sentença, o segurado do Regime Geral de Previdência Social receber parcelas pretéritas de aposentadoria concedida judicialmente até a data inicial de aposentadoria concedida administrativamente pelo INSS enquanto pendente a mesma ação judicial, com implantação administrativa definitiva dessa última por ser mais vantajosa, sob o enfoque do artigo 18, § 2º, da Lei n. 8.213/1991.), de relatoria do Ministro Herman Benjamin, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Assim, o julgamento imediato do apelo nobre seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado neste Superior Tribunal, nos termos dos art. 1.040 e 1.041 do CPC.
+Publique-se. Intimem-se.
