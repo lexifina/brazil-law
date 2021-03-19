@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA N. 182 DO STJ.ACÓRDÃO ESTADUAL FUNDADO EM ELEMENTOS FÁTICOS. SÚMULA N. 7 DO STJ.IMPUGNAÇÃO GENÉRICA. INSUFICIÊNCIA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+2. Ao interpor agravo regimental, o agravante deve demonstrar o equívoco dos fundamentos da decisão agravada, expondoas razões de fato e de direito pelas quais entende que a decisão está errada.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+NELI DO CARMO SALES interpõe agravo regimental contra decisão monocrática do Presidente do Superior Tribunal de Justiça que, com base no art. 21-E, V, c/c o art. 253, parágrafo único,I, ambos do Regimento Interno do Superior Tribunal de Justiça, e na Súmula n. 182 do STJ, não conheceu do agravo em recurso especial.
+Consta dos autos que oagravante teria deixado de impugnarespecificamente os fundamentos da decisão agravada, mais precisamente a incidência da Súmula n. 7 do STJ.
+No regimental, o agravante afirma que, "como bem apontado no agravo em recurso especial interposto, ficou mais do que evidente a não confusão entre reexame de prova e revaloração de aspectos incontroversos ou de aplicação de norma", razão pela qual não seria aplicável o referido óbice sumular.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA N. 182 DO STJ.ACÓRDÃO ESTADUAL FUNDADO EM ELEMENTOS FÁTICOS. SÚMULA N. 7 DO STJ.IMPUGNAÇÃO GENÉRICA. INSUFICIÊNCIA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+2. Ao interpor agravo regimental, o agravante deve demonstrar o equívoco dos fundamentos da decisão agravada, expondoas razões de fato e de direito pelas quais entende que a decisão está errada.
+3. Agravo regimental não conhecido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, a decisão agravada fundou-se na incidência da Súmula n. 182 do STJ para não conhecer do agravo em recurso especial pelo fato de não ter havido impugnação específica do óbice imposto pela decisão da instância a quo.
+A parte agravante, neste regimental, limitou-se a afirmar, de forma absolutamente genérica, que o agravo em recurso especial já fizera a distinção entre reexame de prova e valoração jurídica da prova, de modo que não seria aplicável aSúmula n. 7 do STJ.
+Todavia, a parte nem sequer busca demonstrar em que medida se poderia alterar o resultado do julgamento senão reexaminando as provas produzidas nos autos e dando-lhes coloração diversa daquela atribuída pelo Tribunal de origem.
+Conforme muito bem alertado no julgamento do AgRg no AREsp n. 1.790.013/SP, "para se afastar o óbice da Súmula 7/STJ, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demandaria reexame de provas, não bastando para tanto a insurgência genérica" (relatorMinistro Nefi Cordeiro, Sexta Turma, DJe de 26/2/2021).
+Veja-seainda:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida!.
+2. Como explica ARRUDA ALVIM, "importa ao órgão ad quem saber exatamente os motivos pelos quais as razões da decisão recorrida não são adequadas. Isto é, não basta a manifestação da voluntariedade da insurgência, é fundamental que, aliada à voluntariedade, exista a dialeticidade da irresignação, mediante discurso argumentativo contra a decisão, alinhando as razões de fato e de direito pelas quaisentende que a decisão está errada.." (Manual de direito processual civil, 18. ed. São Paulo: Thomson Reuters, 2019, p. 1208).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.614.823/CE, relatorMinistro Sérgio Kukina, Primeira Turma, DJe de 17/9/2020.)
+De qualquer forma, ainda que se ultrapassasse o óbice da Súmula n. 182 do STJ, o caso é realmente de incidência da Súmula n. 7 do STJ, uma vez que o acórdão estadual firmou sua convicção a partir do exame meticuloso dos elementos informativos dos autos, inclusive laudos e depoimentos de testemunhas,não havendo como chegara conclusão diferente sem profunda incursão nessearcabouço fático-probatório.
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIOS QUALIFICADOS TENTADOS. TENTATIVA CRUENTA. PLEITO DE PARCIAL DESCLASSIFICAÇÃO DELITIVA. INDUVIDOSA CONSTATAÇÃO DA AUSÊNCIA DO ANIMUS NECANDI NA CONDUTADO AGENTE. NÃO OCORRÊNCIA. CONEXÃO COM DELITO DOLOSO CONTRA A VIDA. JUÍZO DE PRELIBAÇÃO DA ACUSAÇÃO POSITIVO. FASE DE INSTRUÇÃO PRELIMINAR. PRESERVAÇÃO À SOBERANIA DOS VEREDICTOS E À COMPETÊNCIA PREVALENTE DO JUÍZO NATURAL DO JÚRI POPULAR. PRONÚNCIA MANTIDA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A competência do Tribunal Popular deve ser preservada quando há, pelo contexto fático apresentado, conexão em relação a outro delito doloso contra a vida, também objeto de pronúncia, in casu, supostamente perpetrado contra vítima distinta, ex vi dos arts. 74 § 1º, e 76, ambos do CPP.
+2. Na fase prelibatória da acusação, submetida ao rito do Júri, somente não será pronunciado o acusado, com mitigação ao postulado do in dubio pro societate, e até autorizada - de forma excepcional - a desclassificação delitiva, pelo Juízo da pronúncia, quando clara e inconteste a inexistência do animus necandi na conduta do agente.
+3. Na hipótese em que confirmados em juízo a existência da materialidade delitiva, não manifestamente improcedente, e os indícios da autoria dolosa do agente, em crimes contra a vida de terceiro(s), aquilatados pelo julgador em raso convencimento motivado, imprescindíveis à definição e à competência do escalonado procedimento do Tribunal Popular, a manutenção da pronúncia é medida de rigor, sob pena de ofensa ao mister constitucional atribuído à instituição do Júri, notadamente à soberania dos veredictos outorgada ao legitimado Conselho de Sentença, que apreciará em Plenário, deforma exauriente, na segunda fase meritória - do judicium causae -, todas as versões e provas patrocinadas pelas partes, conforme interpretação sistemática dos arts. 413, caput, § 1º, e 419 caput, ambos do Código de Processo Penal.
+4. A desconstituição do julgado, por suposta violação dos arts. 413 e419, ambos do CPP, destinada à parcial desclassificação delitiva, objeto da pronúncia, sob a alegação de que ficou evidenciada a falta do elemento subjetivo do tipo de homicídio na conduta do Agente e, por corolário, de indícios mínimos que pudessem autorizar o julgamento pelo Tribunal do Júri, demandaria necessário revolvimento do contexto fático-probatório, providência incabível, conforme inteligência do enunciado nº 7 da Súmula desta Corte.
+5. Agravo regimental desprovido (AgRg no AREsp n. 1.499.923/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 10/9/2019, destaquei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DESCLASSIFICAÇÃO. PRESENÇA DE ELEMENTOS AUTORIZADORES DA PRONÚNCIA. REVISÃO INVIÁVEL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRINCÍPIO IN DUBIO PRO SOCIETATE. INSURGÊNCIA DESPROVIDA.
+1. A decisão de pronúncia não exige a existência de prova cabal da autoria do delito, sendo suficiente a mera existência de indícios da autoria, devendo estar comprovada, apenas, a materialidade do crime.
+2. O Tribunal estadual concluiu pela presença de indícios de autoria e materialidade a fim de sustentar a decisão de pronúncia, considerando os elementos produzidos durante a instrução, sobretudo os depoimentos testemunhais.
+3. A desconstituição do julgado, no intuito de abrigar o pleito defensivo de desclassificação da conduta, não encontra espaço na via eleita, porquanto seria necessário aprofundado revolvimento do contexto fático-probatório, providência incabível em recurso especial, conforme já assentado pelo enunciado n. 7 da Súmula desta Corte.
+4. "A legislação em vigor admite como prova tanto a testemunha que narra o que presenciou, como aquela que ouviu. A valoração a ser dada a essa prova é critério judicial, motivo pelo qual não há qualquer ilegalidade na prova testemunha indireta" (HC 265.842/MG, rel. Ministro ROGÉRIO SCHIETTI CRUZ, Rel. p/ Acórdão Ministro NEFI CORD/IRO, SEXTA TURMA, julgado em 16/08/2016, DJe 01/09/2016.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 1.446.019/RJ, relator Ministro Jorge Mussi, Quinta Turma, DJe de 2/8/2019, destaquei.)
+De rigor, portanto, a manutenção da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
