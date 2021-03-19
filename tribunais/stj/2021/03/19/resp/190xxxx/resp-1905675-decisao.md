@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por CEREALISTA FRANCO LTDA, CLEONICE DO CARMO BATISTA E RENILTON FLORECNCIO BRANDAO, representados pelaDEFENSORIA PÚBLICA DA UNIÃO,com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região que possui a seguinte ementa (e-STJ fls. 268):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CDA NA QUAL CONSTA O NOME DO CORRESPONSÁVEL. AUSÊNCIA DOS REQUISITOS DO ART. 135 DO CTN. INCLUSÃO DO SÓCIO CORRESPONSÁVEL NO POLO PASSIVO DA EXECUÇÃO FISCAL. RESP Nº 1110925, SOB O RITO DO ART. 543-C DO CPC/1973. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. SENTENÇA MANTIDA.
+1. Consolidou-se na jurisprudência entendimento no sentido de que: "Conforme assentado em precedentes da Seção, inclusive sob o regime do art. 543-C do CPC (REsp 1104900, Min. Denise Arruda, sessão de 25.03.09), não cabe exceção de pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa - CDA. É que a presunção de legitimidade assegurada à CDA impõe ao executado que figura no título executivo o ônus de demonstrar a inexistência de sua responsabilidade tributária, demonstração essa que, por demandar prova, deve ser promovida no âmbito dos embargos à execução". (REsp 1110925/SP, Rel. Ministro TEORI ALBINO ZAVASKI, PRIMEIRA SEÇÃO, julgado em 22/04/2009, Dje de 04/05/2009)
+2. In casu, os nomes dos corresponsáveis constam da CDA e, na ausência de elementos que afastem a presunção de legitimidade do título executivo em comento, deve ser mantida a sentença.
+3. Ademais, na hipótese, a CDA apresentou os requisitos obrigatórios previstos no artigo 2º, §5º, da Lei n. 6.830/80, inclusive considerando o discriminativo do débito inscrito.
+4. Apelação não provida. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 292/296).
+Nas razões(e-STJ fls. 300/309),alegam que o Tribunal de origem teria violado o art. 1.022 do CPC/2015, pois teria deixado de analisar a afirmação posta nos embargos de declaração de que o nome dos sócios não constava na CDA, ao contrário do consignado no acórdão que examinou a apelação.
+As contrarrazões foram oferecidas às e-STJ fls. 321/324.
+O recurso foi admitido à e-STJ fls. 326/327.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado n. 3 do Plenário do STJ).
+Feita essa consideração, destacoque o recurso especial tem origem em embargos à execução fiscal julgados improcedentes em primeiro grau de jurisdição(e-STJ fls. 237/241):
+O Tribunal de origem manteve a sentença. Transcrevo os fundamentos que deram suporte ao julgamento (e-STJ fls. 270/272):
+Consolidou-se na jurisprudência entendimento no sentido de que:
+"Conforme assentado em precedentes da Seção, inclusive sob o regime do art. 543-C do CPC (REsp 1104900, Min. Denise Arruda, sessão de 25.03.09), não cabe exceção de pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa - CDA. É que a presunção de legitimidade assegurada à CDA impõe ao executado que figura no título executivo o ônus de demonstrar a inexistência de sua responsabilidade tributária, demonstração essa que, por demandar prova, deve ser promovida no âmbito dos embargos à execução".
+(REsp 1110925/SP, Rel. Ministro TEORI ALBINO ZAVASKI, PRIMEIRA SEÇÃO, julgado em 22/04/2009, Dje de 04/05/2009)
+No mesmo sentido, em decisão reafirmando o entendimento adotado por aquele egrégio Superior Tribunal de Justiça, cumpre destacar que: "O Superior Tribunal de Justiça tem entendido, pacificamente, que "a) se o nome dos corresponsáveis não estiver incluído na CDA, cabe ao ente público credor a prova da ocorrência de uma das hipóteses listadas no art. 135 do CTN; b) constando o nome na CDA, prevalece a presunção de legitimidade de que esta goza, invertendo-se o ônus probatório (orientação reafirmada no julgamento do REsp 1.104.900/ES, sob o rito dos recursos repetitivos)" (AgRg nos EDcl no AREsp 419.648/ES, Rel. Ministro HERMANBENJAMIN, SEGUNDA TURMA, julgado em 25/2/2014, DJe 19/3/2014). 2. Não tendo a ora recorrente se desincumbido do onus probandi com o fito de afastar as hipóteses previstas no art. 135 do CTN que autorizam a responsabilidade pessoal do sócio em executivo fiscal, o entendimento firmado na origem não pode aqui ser revisto ante o óbice da Súmula 7/STJ. 3. É pacífica a jurisprudência deste Tribunal no sentido de que a aferição da certeza e liquidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, conduz ao reexame do conjunto fático-probatório dos autos, medida inexequível na via da instância especial, tendo em vista o óbice da Súmula 7/STJ. Agravo regimental improvido.". (AgRg no AREsp 708.225/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/08/2015, DJe 01/09/2015)
+In casu, os nomes dos corresponsáveis (RENILTON FLORÊNCIO BRANDÃO e CLEONICE DO CARMO BATISTA) constam da CDA (fls. 17/20) e, na ausência de elementos que afastem a presunção de legitimidade do título executivo em comento, deve ser mantida a sentença.
+Ademais, dispõe o art. 3º da Lei n. 6.830/80, in verbis:
+ ..
+O ato de Inscrição em Dívida Ativa goza de presunção de legalidade e veracidade. Conforme preconizam os arts. 202 do CTN e 2º, § 5º, da Lei 6.830/80. A finalidade de constituição do título é atribuir à CDA a certeza e liquidez, inerentes aos títulos de crédito, o que confere ao executado elementos para opor embargos, obstando execuções arbitrárias.
+Dispõe o art. 2º, § 5º, I a V da Lei nº 6.830/80, serem requisitos essenciais do Termo de Inscrição em Dívida Ativa:
+ ..
+Analisando as CDAs (fls. 17/20) em comento, verifica-se não haver nenhuma irregularidade a justificar sua anulação, porquanto contém todas as informações necessárias para eventual defesa do executado.
+Como bem esclareceu o MM. Juiz a quo, verbis:
+" ..  No tocante à alegada nulidade da CDA que embasa a execução, não existem nos autos elementos que descaracterizem a higidez do título. Meras argumentações sem prova não ensejam a nulidade da execução.
+Resta, pois, incólume o crédito fiscal, haja vista que, militando em seu favor a presunção de certeza e liquidez, meras argumentações, sem amparo probatório, não se prestam para infirmá-lo, consoante preconiza o artigo 3º, parágrafo único, da Lei nº 6.830/80..
+..
+Por fim, verifica-se que, apesar de alegarem a ilegitimidade passivo dos corresponsáveis tributários, aduzindo que não seriam responsáveis solidários por débitos da empresa executada, os embargantes não trouxeram aos autos prova desse fato.
+ .. "
+Na linha da jurisprudência, "somente a comprovação de cerceamento de defesa pela ausência de requisito formal da CDA causa-lhe a nulidade" (REsp nº 1.085.443/SP - Relatora Ministra Eliana Calmon - STJ - Segunda Turma - Unânime - DJE 18/02/2009), hipótese que não se verifica no presente caso.
+Daí decorre que a dívida ativa, regularmente inscrita, goza de presunção de certeza e liquidez somente ilidível por robusta prova em contrário, a cargo do sujeito passivo da obrigação (CTN, art. 204; Lei 6.830/80, art. 3º).
+Ante o exposto, NEGO provimento à apelação. Sentença mantida.
+É o voto.
+Pois bem.
+O recurso merece acolhimento pois a Corte de origem não analisou a afirmação posta nos embargos de declaração de que, ao contrário do consignado no acórdão que julgou a apelação,"o nome dos curatelados não constava na CDA de fls. 17/20".
+Transcrevoos fundamentos do voto condutor dos embargos de declaração(e-STJ fls. 295/296):
+Os embargos de declaração, conforme estabelece o art. 1.022 do NCPC, têm por finalidade sanar eventuais omissões, obscuridades ou mesmo contradições existentes em decisões judiciais, bem como corrigir erro material. Assim, não é cabível a oposição de embargos de declaração, objetivando viabilizar a revisão ou anulação de decisões, ainda mais se a matéria foi debatida.
+Neste sentido é o entendimento pacífico do egrégio Superior Tribunal de Justiça:
+ ..
+Quanto ao prequestionamento, também o egrégio Superior Tribunal de Justiça tem se pronunciado no sentido de que: "Os embargos de declaração têm como requisito de admissibilidade a indicação de algum dos vícios previstos no ar. 535, do CPC, supostamente detectados no decisum embargado, não se prestando, contudo, ao mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário, porquanto visam, unicamente, completar a decisão quando presente omissão de ponto fundamental, contradição entre a fundamentação e a conclusão, ou obscuridade nas razões desenvolvidas"  ..
+Cumpre ainda esclarecer que o dever de fundamentação das decisões judiciais, que consta expressamente do texto constitucional (CF, art. 93 inciso IX), não impõe ao magistrado a obrigação de utilizar-se dos fundamentos que as partes entendem ser os mais adequados.
+Basta que a fundamentação apresentada tenha sido suficientemente utilizada no deslinde da questão para que a norma constitucional seja observada em sua integralidade.
+Ressalto, ainda, que: "(..) Descabe, em sede de embargos de declaração, a rediscussão de matéria meritória, exaustivamente analisada pelo acórdão embargado ..
+Desta feita, não há omissão, contradição, obscuridade ou erro material a serem sanados, vez que o julgado atacado abordou todos os pontos necessários à resolução da lide, de forma completa e clara.
+Verifica-se, na verdade, que a finalidade dos presentes embargos de declaração não é a de sanar eventuais erros no julgado, mas tão somente a reapreciação dos termos do acórdão.
+Pelo exposto, NEGO PROVIMENTO aos embargos de declaração.
+É o voto.
+Como se sabe, por força dos arts. 489, § 1º, 927, § 1º, e 1.022, parágrafo único, do CPC/2015, os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. Nessa linha, se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos referidos dispositivos.
+A respeito: EDcl no AgInt no REsp 1.584.428/RS, rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 22/05/2017; e REsp 1.661.018/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 02/05/2017.
+Na hipótese, como referido, o Tribunal de origem deixou de analisar a questão posta nos embargos.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios, determinando o retorno dos autos ao Tribunal de origem, a fim de que este reaprecie os embargos de declaração e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
