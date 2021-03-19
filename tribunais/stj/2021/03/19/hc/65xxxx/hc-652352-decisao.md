@@ -1,0 +1,23 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Carlos André Ferreira Patriota - condenado como incurso no crime de roubo majoradoà pena de 12 anos de reclusão, em regime inicial fechado (Apelação Criminal n. 0004208-31.2014.8.17.0990, do Tribunal de Justiça de Pernambuco) -, sob alegação de constrangimento ilegalno patamar de aumento aplicado na fixação da pena-base, requer-se a redução da pena e o abrandamento do regime inicial de cumprimento.
+É o relatório.
+A ordem não merece concessão.
+Aorientação jurisprudencial desta Corte é no sentido de quea ponderação das circunstâncias judiciais do art. 59 do Código Penalnão é uma operação aritmética em que se dá pesos absolutos a cada uma delas, a serem extraídas de cálculo matemático, levando-se em conta as penas máxima e mínima cominadas ao delito cometido pelo agente, mas sim um exercício de discricionariedade vinculada que impõe ao magistrado apontar os fundamentos da consideração negativa, positiva ou neutra das oito circunstâncias judiciais mencionadas no art. 59 do CP e, dentro disso, eleger a reprimenda que melhor servirá para a prevenção e repressão do fato-crime(AgRg no HC n. 188.873/AC, Ministro Jorge Mussi, Quinta Turma, DJe 16/10/2013 - grifo nosso).
+No mesmo sentido, confiram-se:
+ ..
+V - Quanto ao critério numérico de aumento ou diminuição para circunstância judicial considerada negativa, vale registrar que a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. Assim, é possível que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto." (AgRg no REsp n. 143071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 6/5/2015). No presente caso, em relação ao quantum de exasperação na primeira fase da dosimetria, não há desproporção no aumento efetivado, porquanto existe motivação particularizada, vinculada à discricionariedade do julgador.
+ ..
+(AgRg no HC n. 592.442/SP, Ministro Felix Fischer, Quinta Turma, DJe 29/10/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. DOSIMETRIA DA PENA. SUPOSTA INIDONEIDADE NA FUNDAMENTAÇÃO LANÇADA NA NEGATIVAÇÃO DA CULPABILIDADE. IMPROCEDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE. DESPROPORCIONALIDADE. IMPROCEDÊNCIA. DOSIMETRIA (PENA-BASE) QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+1. A extensão das lesões causadas na vítima e a brutalidade do crime, extraída do fato de que as agressões prosseguiram com a vítima já caída, consubstanciam fundamentação idônea para a valoração negativa da culpabilidade no crime de tentativa de homicídio.
+2.A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria.Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático.
+3.Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+4.No caso, considerando que a instância ordinária utilizou de fundamentação idônea para aumentar a pena e aplicou um critério, dentro da discricionariedade vinculada que lhe é assegurada pela lei, não há falar em ilegalidade na fixação da pena-base.
+5. Agravo regimental improvido.
+(AgRg no HC n. 603.620/MS, de minha relatoria, Sexta Turma, DJe 9/10/2020 - grifo nosso)
+No caso,o aumento estipulado está devidamente justificado em elemento idôneo(valoração negativa dos antecedentes - fl. 27), razão pela qual não há falar em ilegalidade na fixação da pena-base.
+Ante o exposto, denego a ordem (art. 34, XVIII,b, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. PRECEDENTES DESTA CORTE. AUMENTO CALCADO EM ELEMENTOS CONCRETOS.
+Ordem denegada.
