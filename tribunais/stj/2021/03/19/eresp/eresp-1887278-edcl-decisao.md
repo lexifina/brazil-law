@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por INSTITUTO NACIONAL DO SEGURO SOCIAL à decisão de fls. 533/536, que inadmitiu os embargos de divergência em razão da não comprovação da divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Sustenta a parte embargante que:
+"2. No bojo da decisão embargada, contudo, há um erro material que deve ser sanado por meio destes aclaratórios. Veja-se que o julgamento do REsp 1.875.229/SC, de relatoria do Min. Herman Benjamin, foi apontado como acórdão paradigma nas razões dos embargos de divergência, de fls. 499-519 (e-STJ):
+Esse entendimento, no entanto, difere do adotado pela Segunda Turma do e. STJ, prolatora do aresto paradigma - REsp nº 1.875.229/SC ora adotado para comprovar a divergência jurisprudencial em face de circunstâncias faticamente idênticas. Logo, cabível e necessária a interposição dos presentes Embargos de Divergência, nos termos do art. 266 do Regimento Interno do STJ. (fl. 505 e-STJ)
+3. Ato contínuo à exposição das razões recursais, com amplo cotejamento fático e jurídico entre o acórdão embargado e o acórdão paradigma, o embargante fez a devida juntada do inteiro teor do acórdão do REsp 1.875.229/SC às fls. 520-524 (e-STJ), apontado como paradigma, de forma a atender os requisitos legais e regimentais.
+4. Portanto, resta configurado o erro material, nos termos do art. 1.022, III, do CPC/2015, a ensejar a admissão destes embargos de declaração."
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+O recorrente alega existência de erro material na decisão recorrida, uma vez que "fez a devida juntada do inteiro teor do acórdão do REsp 1.875.229/SC às fls. 520-524 (e-STJ), apontado como paradigma, de forma a atender os requisitos legais e regimentais." (fl. 539).
+No entanto, verifica-se, mediante análise dos autos, que o embargante não realizou a juntada do inteiro teor, já que deixou de apresentar a ementa do acórdão apontado como paradigma (fls. 520/524).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
