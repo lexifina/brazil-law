@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por OI S.A., em face de acórdão assim ementado (fl. 297):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO ORDINÁRIA (EM FASE DE CUMPRIMENTO DE SENTENÇA). IMPUGNAÇÃO.
+CÁLCULO. NÚMERO DE AÇÕES. COISA JULGADA.
+O cumprimento de sentença deve obedecer ao critério estabelecido pela decisão transitada em julgado, sendo inviável a rediscussão da lide. É vedado às partes e ao juízo a utilização de parâmetros diversos dos estabelecidos. No caso, o cálculo impugnado está de acordo com o dispositivo sentencial, não havendo reparos a serem feitos, sem perder de vista que quando do momento cabível, deixou de apresentar o documento necessário, razão pela qual o decidiu expressamente pela aplicação da penalidade prevista no artigo 400 CPC.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 349/353).
+Nas razões do especial, a ora agravante alega ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração.
+No mérito, argui afronta aos arts. 884 do Código Civil; 525, § 1º, V, e 917, § 2º, I, do Código de Processo Civil/2015; e 359 do Código de Processo Civil/1973. Pretende seja observado o "Relatório de Informações Cadastrais no cálculo da condenação, com o afastamento da penalidade do art. 359 do vetusto CPC sob pena de enriquecimento ilícito e excesso de execução" (fl. 374).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+Quanto ao mais, O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela impossibilidade de revisão da conclusão adotada em função da ocorrência de coisa julgada, assim se pronunciando (fls. 301/302):
+A sentença que encerrou a fase de conhecimento e transitou em julgado tem o seguinte dispositivo:
+(..) Ante o exposto, JULGO PROCEDENTE o presente pedido, resolvendo o mérito na forma do art. 269, inc. I do CPC, para o fim de condenar a requerida ao pagamento de:
+a) indenização pelas ações da CRT não emitidas, correspondente ao valor patrimonial investido na data da da integralização, considerado o valor patrimonial da ação (VPA) apurado com base no balancete mensal, da data do primeiro ou único pagamento, convertido em numerário com base na cotação da ação da Brasil Telecom/Oi (dada a sucessão empresarial), em bolsa, no dia do trânsito em julgado;
+b) indenização pelo igual número de ações da CRT Celular Participações S/A, considerando a incorporação desta empresa pela VIVO S/A, deve-se dividir o número de ações da empresa incorporada por 100 (cem) e multiplicar o resultado por 7,0294, convertendo-se em numerário o valor da cotação da ação no fechamento do pregão da BOVESPA na data do trânsito em julgado;
+c) Indenização pelos dividendos e lucros sobre capital próprio das ações apuradas de telefonia fixa e móvel;
+d) A incidência de juros moratórios de 12% ao ano a contar da citação e correção monetária pelo IGPM da FGV.
+Os valores deverão ser apurados em fase de liquidação, sendo facultado à parte ré a apresentação do cálculo, no prazo de 15 (quinze) dias contados do trânsito em julgado, cuja concordância da parte autora em relação aos valores dispensará arbitramento.
+Condeno a parte ré ao pagamento das despesas processuais e honorários advocatícios, estes fixados em 15% (quinze por cento) sobre o valor corrigido da condenação, considerando o lapso de tramitação do feito, as teses debatidas e a ausência de dilação probatória, tudo nos moldes do art. 20, § 3º do CPC.
+Publique-se. Registre-se. Intimem-se. (..)
+Ora, a sentença fixou corretamente os vetores que transitaram em julgado, sendo inviável a rediscussão da lide.
+O cumprimento de sentença, assim, deve obedecer rigorosamente à decisão transitada em julgado no processo de conhecimento, sendo vedada às partes e ao juízo a utilização de parâmetros diversos dos estabelecidos.
+No caso, a agravante foi condenada a indenizar em número exato de ações, conforme consta no "item b" do dispositivo que acima transcrevi.
+Não fosse isso, a decisão impugnada corretamente pontuou que "quando do momento cabível, deixou de apresentar o documento necessário, razão pela qual o E. TJRS decidiu expressamente pela aplicação da penalidade prevista no art. 359 do CPC/73 (atual artigo 400 CPC), o que não pode ser alterado por este Juízo em sede de impugnação ao cumprimento de sentença, visto que questão abarcada pela coisa julgada".
+Portanto, resta mantida a decisão em respeito ao devido processo legal, ao princípio do contraditório e da razoável duração do processo.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+É certo que nos termos da jurisprudência adotada neste Superior Tribunal de Justiça, "A presunção de veracidade de que trata o art. 359 do Código de Processo Civil de 1973 é relativa, podendo ser infirmada pelas demais provas dos autos, que devem ser avaliadas em conjunto pelo Juízo de origem". AgInt no REsp 1205988/PB, QUARTA TURMA, julgado em 16/8/2018, DJe 20/9/2018 e AgInt no REsp 1378646/SC, TERCEIRA TURMA, julgado em 13/6/2017, DJe 3/8/2017. No entanto, no caso ora em apreço, nada mais há que se modificar, em função da ocorrência da coisa julgada.
+Dessa forma a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Tribunal, que entende que, "Após o trânsito em julgado, a questão efetivamente decidida, inclusive de ordem pública, torna-se imutável " (AgInt no AREsp 1567079/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/5/2020, DJe 21/5/2020).
+Incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo. Descabida a majoração de honorários advocatícios, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais.
+Intimem-se.
