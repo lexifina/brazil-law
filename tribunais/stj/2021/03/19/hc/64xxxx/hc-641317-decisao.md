@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOSÉ ADRIANO DE SOUZA BERNARDINO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo.
+Consta dos autos que o paciente cumpre pena de 16 (dezesseis) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, pela prática de crimes de roubo majorado. O pedido de progressão ao regime semiaberto foi indeferido em face do não preenchimento do requisito subjetivo (e-STJ, fls. 17-18).
+Neste writ, o impetrante alegou constrangimento ilegal causado ao sentenciado, uma vez que o indeferimento da progressão de regime foi embasado em fundamentos inidôneos, concernentes à gravidade abstrata dos crimes e à longa pena a cumprir. Aduziu o bom comportamento carcerário do apenado.
+Requereu, inclusive liminarmente, a progressão do paciente ao regime semiaberto, porquanto preenchido os requisitos objetivo e subjetivo.
+Indeferida a liminar (e-STJ, fls. 24-26) e prestadas as informações (e-STJ, fls. 30-46), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do writ ou pela denegação da ordem (e-STJ, fls. 57-61).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo da Execução indeferiu o pedido de progressão de regime, nos termos da decisão abaixo transcrita:
+"A pretensão é improcedente.
+Em que pese a atual boa conduta carcerária e o preenchimento do requisito objetivo, o sentenciado não reúne méritos subjetivos suficientes para a progressão de regime, além de possuir longa pena por cumprir, com término previsto somente para 14/02/2031.
+Com efeito, verifica-se que o apenado cumpre pena por crimes graves, praticados com violência ou grave ameaça contra a pessoa (roubos qualificados), revelando- se tratar de pessoa perigosa, corrompida pelo submundo do crime e nociva à sociedade.
+Além disso, registra a prática de falta disciplinar de natureza grave, consistente em novo delito durante período de prova do livramento condicional anteriormente concedido (Execução nº 02), sendo indispensável a manutenção de sua segregação no regime fechado por maior período, visando a necessária e adequada reeducação penal, para posteriormente revelar seu merecimento a benefício prisional com regime mais brando.
+Vale dizer, o simples fato de o condenado ter cumprido requisito de ordem objetiva, não lhe confere o direito de, por si só, ser promovido ao regime intermediário.
+Aliás, tratando-se de semiliberdade, considera-se necessário e prudente avaliar a real e efetiva possibilidade de o apenado se adaptar a regime de cumprimento de pena mais brando, sem colocar em risco a sociedade. Não havendo tais certeza e segurança, mormente considerando a gravidade dos crimes praticados e o histórico prisional desfavorável, torna-se inviável a imediata concessão do benefício.
+Ante o exposto, por ora, INDEFIRO a progressão do sentenciado ao regime semiaberto, em razão da ausência do requisito subjetivo, nos termos do artigo 112 da Lei de Execução Penal, destacando que, em sede de execução penal, deve prevalecer o princípio in dubio pro societate." (e-STJ, fls. 17-18, frifou-se)
+Por sua vez, o Tribunal de origem confirmou a decisão às seguintes considerações:
+"O sentenciado desconta carcerária total de 16 anos, 6 meses e 20 dias de reclusão, pela prática de delitos de roubo majorado, com término previsto para 13.02.2031 (cf. Boletim Informativo de fls. 11/13).
+Após cumprir o requisito objetivo, requereu sua progressão ao semiaberto.
+Na oportunidade, o MM. Juiz a quo, na r. decisão atacada, indeferiu o benefício, salientando que o ora agravante não preenchia o requisito subjetivo para a progressão, e ressaltando que ele praticou delitos graves, cometidos com violência/grave ameaça à pessoa, e ainda ostenta longa pena a cumprir.
+Entendo que não existem óbices legais para que o julgamento do requisito subjetivo ostentado pelo reeducando seja feito levando-se em consideração, dentre outros pontos, a gravidade dos delitos praticados e o tempo de pena remanescente. Se assim não fosse, o papel do Juiz da execução estaria reduzido à simples tarefa de homologar os benefícios pleiteados, vinculando, de modo estrito, a decisão do Magistrado ao parecer dos diretores de presídio.
+Tal posicionamento nos parece inaceitável, confrontando diretamente o princípio do livre convencimento do Julgador.
+Além disso, não se pode perder de vista que o recorrente praticou novo delito de roubo enquanto estava em livramento condicional (cf. fl. 12), circunstância que, por si só, demonstra a necessidade de maior cautela na concessão de qualquer benefício de execução.
+Diante disso, tenho que foi acertada a r. decisão agravada." (e-STJ, fls. 20-21, grifou-se)
+No caso sob análise, verifica-se que as instâncias ordinárias negaram ao apenado a concessão ao imediato benefício da progressão de regime, com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ressaltando o cometimento de falta grave durante o cumprimento de pena - prática de novo delito de roubo enquanto o paciente se encontrava em gozo de livramento condicional.
+Não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, é cediço que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando, in casu, o alegado constrangimento ilegal.
+Ademais, o "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIA. VIA IMPRÓPRIA. AGRAVO NÃO PROVIDO.
+ ..
+2. A Corte de origem negou ao apenado a concessão aos benefícios com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ressaltando a necessidade de avaliação diante do cometimento de faltas graves durante o cumprimento de pena, incluindo o cometimento de novo delito durante gozo de benefício concedido.
+3. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, Dje 12/6/2018).
+4. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+5. Agravo regimental desprovido." (AgRg no HC 645.621/SP, deste Relator, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL.PROGRESSÃO AO REGIME ABERTO. INDEFERIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - A jurisprudência desta Corte Superior é uníssona no sentido de que o cometimento de faltas graves ou de novos crimes no curso da execução da reprimenda constitui fundamento idôneo para negar a progressão de regime, ante a ausência de preenchimento do requisito subjetivo.
+ ..
+VI - Desta forma, verifica-se que o v. acórdão combatido está em consonância com a jurisprudência desta Corte Superior de Justiça, não restando configurada a ilegalidade apontada.
+Agravo regimental desprovido." (AgRg no HC 608.909/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA. FATOS NOVOS. HISTÓRICO PRISIONAL DESFAVORÁVEL. HABITUALIDADE DELITIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo.
+2. Configura-se legítimo o indeferimento da progressão prisional, baseado em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico conturbado da agravante, que, beneficiada em execução penal anterior, cometeu nova prática delitiva, demonstrando, assim, a sua habitualidade em ilícitos penais.
+3. Agravo regimental improvido." (AgRg no HC 566.791/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020)
+Por fim, vale acrescentar que o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
