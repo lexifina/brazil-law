@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se dehabeas corpuscom pedido de liminar impetrado em favor de CHARLES ANTONIO FERREIRA DE MORAES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2245225-30.2020.8.26.0000).
+O paciente teve a prisão preventiva decretadapela suposta prática do delito tipificado no art. 121,caput,c/c o art. 14, II, ambos do Código Penal.
+Foi impetradowritoriginário buscando a revogação da prisão cautelar por ausência de fundamentação idônea, contudo a ordem foi denegadaconforme acórdão ementado nos seguintes termos (e-STJ fl. 13):
+Habeas corpus. Tentativa de homicídio. Decretação da prisão preventiva. Decisão proferida de forma fundamentada e com base nas peculiaridades do caso concreto. Paciente foragido. Reiteração delitiva.Circunstâncias que impõem medidas de proteção à ordem pública. Ordem denegada.
+O impetrante sustentainexistir motivação contemporânea e idônea para a manutenção da segregação antecipada, visto que não demonstrada, concretamente, a presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+Acrescenta que a simples fuga da comarca não constitui motivo suficiente para a determinação da custódia cautelar por conveniência da instrução criminal, visto que o paciente não é obrigado a produzir prova contra si mesmo.
+Assevera, ainda, que o paciente tem ocupação lícita e endereço fixo, o que atesta a impossibilidade de que ele represente qualquer risco à ordem pública.
+Requer, liminarmente e no mérito, a revogação da decisão atacadae a expedição de contramando de prisão em favor do paciente.
+O pedido liminar foi indeferido pelo Ministro Vice-Presidente, no exercício da Presidência, JORGE MUSSI (e-STJ fls. 367/368).
+Prestadas as informações de estilo (e-STJ fls. 371/383), o Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ fls. 387/390).
+É, no essencial, o relatório.
+Decido.
+O objeto da presente irresignação cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao paciente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, inciso LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a decretação da prisão preventiva do paciente(e-STJ fls. 158/160):
+Inicialmente, observa-se que coexistem todos os requisitos e pressupostos da prisão preventiva. Com efeito, o fumus comissi delicti decorre dos elementos de prova até o momento coligidos, que indicam fortes indícios de participação do acusado na empreitada criminosa, nesse sentido foram as declarações da vítima e testemunha presencial. O periculum libertatis exsurge evidente, haja vista a necessidade de garantia da ordem pública, vulnerada pela conduta criminosa perpetrada pelo réu. Assevere-se a gravidade ímpar ao crime que ora se imputa ao denunciado, que segundo consta, tentou ceifar a vida e somente não atingiu seu objetivo pois a vítima conseguiu se esquivar dos disparos de arma de fogo na sua direção.
+Saliente-se que o crime perpetrado é punível com pena máxima in abstractosuperior a 4 (quatro) anos, afigurando-se a hipótese do artigo 313, I do Código de Processo Penal.
+ ..
+Outrossim, cediço que a presença do acusado no processo confere maior efetividade a busca da verdade real, bem como lhe garante a amplitude de defesa inerente a qualquer procedimento criminal.
+Ao contrário, sua ausência não só pode tornar inoperante todo o trâmite processual como muitas vezes frustra a própria realização da justiça. Ainda, a prisão preventiva também serve para a proteção da vítima e das testemunhas, que no presente caso, é imprescindível que sejam ouvidas em juízo sem qualquer interferência externa para o sucesso da ação penal.  .. .
+Destaque-se que o réu não foi localizado para ser interrogado em solo policial e encontra-se foragido, denotando não estar disposto à cooperar com a persecução penal, causando evidente prejuízo a regular instrução processual.
+Nestes termos, e com fundamento nos artigos 311, 312 e 313, I, todos do Código de Processo Penal decreto a prisão preventiva de CHARLES ANTONIO FERREIRA DE MORAES, a fim de garantir a aplicação da lei penal, conveniência da instrução criminal e no intuito de preservar a ordem pública.
+Ao prolatar a decisão de pronúncia, o magistrado de piso assim fundamentou a manutenção da custódia cautelar(e-STJ fl. 264):
+Ainda, o réu se encontra foragido desde a época do crime, mostrou a insistência em atingir a vitima, deixando inclusive de registrar a ocorrência de lesão que teria sofrido, escolhendo um caminho de resolução pessoal a margem do Estado, além do mais, já possui antecedentes criminais, restando claro que a liberdade constitui uma ameaça a ordem publica, estando presente as condições da prisão, restando indeferido o pedido de revogação da prisão.
+Vê-se que a prisão preventiva foi decretada tanto em decorrência da gravidade em concreto do delito imputado ao paciente, que por meio de disparos de arma de fogo tentou ceifar a vida da vítima, quanto em razão de sua periculosidade, evidenciada pelos maus antecedentes criminais.
+Destacou também o decreto constritivo a necessidade da custódia para garantia da instrução criminal, uma vez que o paciente está foragido desde o início do processo, mesmociente da existência de ação penal intentada contra si, tanto que nomeou advogados particulares para patrocinar sua defesa. Assim, a medida extrema é a mais adequada para garantia da ordem pública eda aplicação da lei penal, bem como para cessar a reiteração delitiva.
+Nesse sentido:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRANCAMENTO DO PROCESSO. NÃO CABIMENTO. INDÍCIOS DE AUTORIA. DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. RÉU QUE PERMANECEU FORAGIDO. FUNDAMENTAÇÃO SUFICIENTE. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+1. Conforme reiterada jurisprudência desta Corte Superior, o trancamento do processo em habeas corpus, por ser medida excepcional, somente é cabível quando ficarem demonstradas, de maneira inequívoca e a um primeiro olhar, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou a existência de causa extintiva da punibilidade, situações essas que não constato caracterizadas na espécie.
+2. Adentrar o juízo de mérito sobre a autoria delitiva demandaria o exame das provas eventualmente colhidas ao longo da instrução criminal, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória.
+3. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do CPP.
+4. O Juiz de primeiro grau decretou a prisão preventiva para assegurar a aplicação da lei penal, haja vista que o réu permaneceu foragido.
+5. A tese referente ao excesso de prazo para a transferência do acusado não foi previamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça.
+6. Ordem denegada.
+(HC 467.673/BA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/02/2019, DJe 01/03/2019.)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. AMEAÇA A VÍTIMA. RECORRENTE FORAGIDO. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, consta do decreto preventivo que uma das vítimas foi ameaçada pelo recorrente, o que configura fundamento suficiente para a decretação e manutenção da prisão preventiva em razão da necessidade de garantir a ordem pública e a instrução criminal.
+3. A prisão preventiva também se encontra justificada para assegurar a aplicação da lei penal e garantir a instrução criminal, uma vez que o recorrente evadiu-se do distrito da culpa e permanece foragido.
+4. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. Recurso ordinário desprovido.
+(RHC 93.403/BA, de minha relatoria, SEXTA TURMA, julgado em 12/02/2019, DJe 01/03/2019.)
+Assim, os fundamentos acima delineados indicam a necessidade de se manter o paciente segregado, não se revelando adequado, por outro lado, possibilitar-lhe responder ao processo em liberdade.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
