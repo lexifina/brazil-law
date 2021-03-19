@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA CENTRAL DE DÍVIDA ATIVA DE BARRA MANSA/RJ, o suscitante, e o JUÍZO FEDERAL DA 3ª VARA DE VOLTA REDONDA - SJ/RJ, o suscitado.
+Extrai-se dos autos que o MUNICÍPIO DE BARRA MANSA ajuizou na Justiça estadual execução fiscal em desfavor de ESTRADA DE FERRO CENTRAL DO BRASIL para cobrar créditos de IPTU.
+O Juízo de Direito remeteu os autos para a Justiça Federal, que, por sua vez, os devolveu ao entendimento de que a pessoa indicada como devedora não integra o rol do art. 109 da Constituição Federal.
+Na sequência, o Juízo de Direito suscitou o presente conflito com a seguinte motivação:
+Trata-se de ação de execução fiscal interposta pelo MUNICÍPIO DE BARRA MANSA em face da ESTRADA DE FERRO CENTRAL DO BRASIL com fundamento na Lei 6830/80.
+Inicialmente há de se destacar que a Estrada de Ferro Central do Brasil foi sucedida em 1969, pela Rede Ferroviária Federal, sociedade de economia mista integrante da Administração Indireta Federal que, por sua vez, foi oficialmente extinta por força da MP nº 353, de 22 de janeiro de 2007, convertida na Lei Federal nº 11.483, de 31 de maio de 2007, cujo artigo 2º, inciso I, que assim dispunha:
+"Art. 2º - A partir de 22 de janeiro de 2007:
+I - a União sucederá a extinta RFFSA nos direitos, obrigações e ações judiciais em que esta seja autora, ré, assistente, opoente ou terceira interessada, ressalvadas as ações de que trata o inciso II do art. 17 desta Lei;" Dessa forma, a Rede Ferroviária Federal S/A foi sucedida pela União nas ações em que a empresa é autora, ré, assistente, opoente ou terceira interessada, o que faz atrair a competência da Justiça Federal, nos termos do artigo 109, inciso I caput , da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;" Tal modificação alcança os feitos em curso, ainda que o processo esteja em fase de execução de sentença proferida na Justiça Estadual, por se tratar de alteração de regra de competência absoluta, ratione personae, que constitui exceção ao princípio da perpetuatio jurisdictionis, nos termos do artigo 87 do Código de Processo Civil:
+"Art. 87. Determina-se a competência no momento em que a ação é proposta. São irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia."
+Nesse mesmo sentido também dispõe o Enunciado nº 365, da Súmula do Egrégio Superior Tribunal de Justiça:
+"A intervenção da União como sucessora da Rede Ferroviária Federal S/A desloca a competência para a Justiça Federal (RFFSA) ainda que a sentença tenha sido proferida por Juízo Estadual." A interpretação desse dispositivo não pode prescindir de uma análise acurada do regime constitucional e legal de repartição de competências.
+Em razão do exposto, entendo que, data máxima vênia, falece competência à Justiça Estadual para análise e julgamento da demanda, motivo pelo qual SUSCITO CONFLITO DE COMPETÊNCIA, nos termos do artigo 108, inciso I, e da CF, c/c artigo 16, inciso V, do Regimento Interno do TRF-2ª Região.
+Suspendo o feito. Remetam-se os autos para o Eg. STJ para distribuição a uma das Turmas especializadas para apreciação e julgamento do presente conflito.
+O Ministério Público Federal manifestou-se para que seja declarada a competência do Juízo suscitado.
+Passo a decidir.
+A competência da Justiça Federal é definida em razão das pessoas que figuram nos polos da demanda ratione personae, à luz do art. 109, I, da Carta Magna, que dispõe, in verbis: "Aos juízes federais competem processar e julgar: I -as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho."
+Assim, ressalvadas as exceções estabelecidas no texto constitucional, é irrelevante a natureza da controvérsia sob o enfoque do direito material ou do pedido formulado na demanda.
+No presente caso, considerando que a demanda foi ajuizada em desfavor de pessoa jurídica (Estrada de Ferro Central do Brasil) que veio a ser sucedida pela Rede Ferroviária Federal S.A. e, posteriormente, pela União, o que faz a última responder pelas obrigações das empresas sucedidas, é de se reconhecer a competência da Justiça Federal para processar e julgar a presente execução fiscal.
+Essa, inclusive, é a inteligência da Súmula 365 do STJ, in verbis:
+"A intervenção da União como sucessora da Rede Ferroviária Federal S.A. desloca a competência para a Justiça Federal (RFFSA) ainda que a sentença tenha sido proferida por Juízo Estadual."
+Nesse sentido, vide:
+CONFLITO NEGATIVO DE COMPETÊNCIA. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REDE FERROVIÁRIA FEDERAL. RFFSA. JUSTIÇA ESTADUAL E FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL EM DECORRÊNCIA DA SUCESSÃO DA EMPRESA ESTATAL PELA UNIÃO. SÚMULA 365/STJ.
+1. A Primeira Seção desta Corte consolidou entendimento no sentido de que a competência da Justiça Federal tem como critério definidor, em regra, a natureza das pessoas envolvidas no processo, diante da sucessão legal da RFFSA pela UNIÃO, inarredável o deslocamento da competência para a Justiça Federal.
+2. Incide, à espécie, a Súmula 365/STJ: A intervenção da União como sucessora da Rede Ferroviária federal S/A (RFFSA) desloca a competência para a Justiça Federal ainda que a sentença tenha sido proferida por Juízo Estadual.
+3. Conflito de Competência conhecido para declarar competente a Justiça Federal. (CC 162.863/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 13/02/2019, DJe 20/02/2019).
+Ante o exposto, CONHEÇO do conflito para declarar a competência do JUÍZO FEDERAL DA 3ª VARA DE VOLTA REDONDA - SJ/RJ , o suscitado, para processar e julgar a Execução Fiscal n. 5002956-90.2018.4.02.5104/RJ.
+Comunique-se a decisão aos juízos em conflito.
+Publique-se. Intimem-se.
