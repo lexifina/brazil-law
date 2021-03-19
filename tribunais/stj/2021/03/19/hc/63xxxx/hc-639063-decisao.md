@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDER DE MOURA FURTADOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.20.581718- 2/000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, dos delitos de tráfico de drogas e associação para o mesmo fim por haver sido flagrado, em companhia de corréu, transportando "6 barras de maconha, pesando 5.949,10g (cinco mil, novecentos e quarenta e nove gramas e dez centigramas), alémde 3 pedras inteiras e 1 esfarelada de pasta-base de cocaína, no total de 296,88 g (duzentos e noventa e seis gramas e oitenta e oito centigramas)" -e-STJ fl. 84.
+O Tribunal de origem denegou a ordem(e-STJ fls. 114/122).
+Eis a ementa do julgado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - REVOGAÇÃO OU SUBSTITIUIÇÃO - IMPOSSIBILIDADE - DECISÃO DEVIDAMENTE FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR DO PACIENTE - REVISÃO DA MEDIDA EXTREMA EM RAZÃO DA PANDEMIA - SUPRESSAO DE INSTANCIA - ORDEM DENEGADA. 1. Não merece ser acolhida a alegação de ausência de fundamentação se a il. Magistrada a quo converte a prisão em flagrante do paciente em preventiva ressaltando a necessidade da segregação para a garantia da ordem pública, após destacar a presença de prova da materialidade do crime e indícios suficientes de sua autoria. 2. Presentes os requisitos autorizadores da prisão preventiva, a manutenção da segregação provisória é medida que se impõe, sobretudo considerando que o paciente ostenta outros registros criminais. 3. Se o pedido de reavaliação da prisão preventiva em razão da pandemia não foi formulado e apreciado perante o Juízo a quo, inviável qualquer manifestação deste Egrégio Tribunal sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+O pedido liminar foi indeferido (e-STJ fls. 126/127).
+Informações prestadas, oMinistério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 149/152).
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva(e-STJ fls. 83/85):
+Infere-se do APED que no dia 13 de novembro de 2020 a PolíciaMilitar recebeu uma denuncia oriunda da cidade de Nepomuceno/MG,informando que dois indivíduosviriam a Campo Belo/MG em um veiculo Ford Pampa, cor bege, trazendo um "carregamento" de drogas. A denuncia mencionava que os indivíduosembarcaram na balsa que faz a travessia do Porto dos Mendes, na zona rural de Campo Belo/MG.
+Assim, os policiais militares armaram o cerco na estrada vicinal que da acesso a comunidade e avistaram o veiculo com as mesmas característicasda denuncia.
+Assim que abordaram os indivíduos, nada de ilícitofoi com eles localizado.
+Todavia, apósvistoriarem o veiculo que era conduzido pelos autuados, a Policia percebeu que as lanternas traseiras estavam com dois parafusos novos, demonstrando haverem sido trocadas recentemente, pelo que as retiraram e localizaram 6 barras de maconha, pesando 5.949,10 g (cinco mil, novecentos e quarenta e nove gramas e dez centigramas), alémde 3 pedras inteiras e 1 esfarelada de pasta-base de cocaína, no total de 296,88 g (duzentos e noventa e seis gramas e oitenta e oito centigramas).
+As substancias apreendidas foram levadas aos ensaios preliminares pela pericia da Policia Civil, comportando-se como sendo maconha e cocaína, (f. 8/10).
+O autuado Sergio confessou a propriedade das drogas.
+Desta forma, restam demonstrados a materialidade delitiva e os indíciossuficientes de autoria.
+Cumpre ressaltar que nãohánenhum elemento de convicçãocapaz de alterar, por ora, a classificaçãofeita pela autoridade policial. Alémdisso, a capitulaçãodo fato e tarefa reservada, inicialmente a autoridade policial, posteriormente ao MinistérioPublico e, por fim, ao Magistrado por ocasiãoda prolaçãoda sentença.
+Ressalte-se que os autuados ja se encontram envolvidos no meio criminoso, sendo Sergio reincidente, estando em cumprimento de pena na comarca de Nepomuceno, no regime aberto, sob concessãode prisãodomiciliar (autos nº 4400078-12.2019.8.13.0112). Já, Alexander possui mandados de prisãocumpridos nas cidades de Cambuíe Pouso Alegre.Ainda, o próprioautuado mencionou que possui "duas passagens, no estado de SãoPaulo, por assalto" (f.4).
+Estas circunstancias, associadas a apreensãoda grande quantidade e da variedade das drogas, demonstram tratar-se de pessoas voltadas a pratica delitiva e propensas a novamente delinquir, colocando em risco a ordem publica.
+Tais fatos evidenciam que medidas cautelares diversas da prisãonãosurtiriam efeito, in casu, pois nãoseriam suficientes a evitar a sequencia delituosa, fazendo-se imperiosa sua segregaçãocautelar.
+Ante o exposto, convertoa prisãoem flagrante de SERGIO LUIZ DE CARVALHO e ALEXANDER DE MOURA FURTADO em preventiva, para garantia da ordem publica, na forma dos arts. 312 e 313, I, II, ambos do Códigode Processo Penal.(Grifei.)
+Conforme visto acima, o decreto de prisão preventiva do agente tevecomo lastro a grande quantidade e variedade de drogas apreendidas - a saber, aproximadamente 5,949kg (cinco quilos e novecentos e quarenta e nove gramas) de maconha, além de 3 pedras inteiras e 1 esfarelada de pasta-base de cocaínano total de 296,88g (duzentos e noventa e seis gramas e oitenta e oito centigramas)-, assim como sua reiteração delitiva, já que "possui mandados de prisão cumpridos nas cidades de Cambuí e Pouso Alegre  e mencionou que possui "duas passagens, no estado de São Paulo, por assalto"", circunstâncias admitidas por esta Corte como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/05/2020, DJe 18/05/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC 560.702/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/05/2020, DJe 28/05/2020)
+Aliás, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido.
+(RHC 76.929/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido.
+(HC 389.098/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ESTELIONATO, EXTORSÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INOCORRÊNCIA. AÇÃO PENAL COMPLEXA. DIVERSOS RÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. IMPULSO REGULAR PELO MAGISTRADO CONDUTOR DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, havendo prova da materialidade do delito e indícios de autoria, justifica-se a prisão preventiva para garantia da ordem pública. A gravidade concreta das condutas imputadas e o modus operandi revelam articulada organização voltada para a prática de ilícitos contra o patrimônio. O paciente responde a 18 ações penais por crimes contra o patrimônio, cometidos em diversas comarcas do estado, havendo fortes elementos, portanto, de que o acusado fazia do crime um meio de vida.
+4. Nos termos da jurisprudência desta Corte, a existência de ações penais em curso, ainda que sem o trânsito em julgado, pode autorizar a prisão preventiva para garantia da ordem pública, à luz das peculiaridades do caso concreto, consubstanciando forte indicativo de dedicação à atividades criminosas.
+ ..
+8. Habeas corpus não conhecido.
+(HC 364.847/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2016, DJe 27/10/2016, grifei.)
+No mais, frise-se que as circunstâncias que envolvem o fato, como consignado acima, demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+Os fundamentos acima delineados indicam, portanto, a necessidade de se manter o paciente segregado.
+Ante todo o exposto,denego a ordem.
+Publique-se. Intimem-se.
