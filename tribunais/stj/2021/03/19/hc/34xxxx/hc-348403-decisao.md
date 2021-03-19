@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PAULO MARTINIem que se aponta como autoridade coatora Tribunal de Justiça do Estado deMato Grosso(Processon. 45576/2009).
+O paciente foi denunciado pela suposta prática do delito do art. 317 do Código Penal e pela participação em organização criminosa.
+Sustenta o impetrante que o direito do paciente àampla defesa estaria sendo cerceado, pois a relatorado feito na origem teria determinado, de forma arbitrária, o desentranhamento de documento juntado aos autos,sem anuência da defesa, do Ministério Público e dos demais desembargadores do Tribunal de origem.
+Afirma que a referida petição teria influência direta na comprovação da inocência do acusado, pois comprovaria o constrangimento ilegal sofrido. Consideralegal a juntada,durante a instrução ou antes da sentença, de documento que teriaimpacto no deslinde da causa,nos termos dos arts. 156,II, e 234do Código de Processo Penal. Assevera que o paciente teria sido absolvido na via administrativa, aindicarausência de provas do cometimento do ilícito penal.
+O pedido deliminar foi indeferido às fls. 45-46.
+Os embargos de declaração opostosforam julgados manifestamente improcedentes (fls. 123-125).
+O Tribunal de Justiça do Estado de Mato Grossoinformou que a referida ação penal foi julgada procedente na sessão do dia 25/2/2016, de modo que a impetração retrata mero inconformismo da parte(fl. 155).
+O Ministério Público Federal, diante da notícia de interposição de recursos especial e extraordinário pelo impetrante, solicitou a abertura de prazo para manifestação da defesa acerca da manutenção de interesse no prosseguimento do feito (fl. 163).
+Requer a defesa, liminarmente, seja suspenso o julgamento, que seria realizado em 11/2/2016, bem como sejam reinseridos nos autos adeclaração e a petiçãoda lavra do representante Celso Souza Lins (Petição n. 169172-2015, protocolada no Tribunal de Justiça do Estado de Mato Grosso sob o n. 0169172-35.2015.811.0000). No mérito, pugna pela concessão da ordem para que seja anulado o julgamento e todos os atos que dele decorrerem.
+O impetrante manifestou-se favoravelmente ao julgamento do mérito do presente writ (fls. 167-168).
+O parecer ministerial apresentado foi pelo não conhecimento da impetração, seja por se tratar de substitutivo recursal, seja por ter ocorrido a perda do objeto ante a interposição de recursos no STF, que,em definitivo, deverá manifestar-se sobre o assuntonos autos originais(fls. 175-178).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízode eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Ademais, em consulta aos documentos apresentados nestes autos, verifica-seque "a petição a que se refere o impetrante, além de se tratar de documento unilateral e não submetido ao contraditório, foi acostada aos autos da ação penal originária após o início do seu julgamento colegiado, quando já proferidos 9 (nove) votos (e-STJ fl. 29), circunstância que afasta a plausibilidade jurídica do pleito" (fl. 45).
+Não há, portanto, como proferir juízo de valoracerca da possibilidade de modificação do resultado da ação penal originária com base tão somenteem conjecturas do impetrante acerca do conteúdo da referida petição, sobretudo em habeas corpus,que exige a pré-constituição de provas para reconhecimento do constrangimento ilegal alegado.
+Ressalte-se, conforme demonstrado no parecer ministerial, que a matéria suscitada no presentewrité repetida em agravo no recurso extraordinário interposto no STF, pendente de julgamento, o que inviabiliza sua análise pelo STJ, onde o recurso especial cabível já teve oseguimento denegado (fls. 177-178).
+Portanto, está prejudicado o pedido formulado no presentehabeas corpus, tendo em vista a superveniência de julgamento em recurso próprio na ação originária.
+Ante o exposto, julgo prejudicado ohabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
