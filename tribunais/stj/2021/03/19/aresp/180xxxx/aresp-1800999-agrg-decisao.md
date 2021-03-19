@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-sede agravo regimental interposto por WILIAN TIAGO DOS SANTOS contra decisão monocrática da lavra do Ministro Presidente HUMBERTO MARTINS queconheceu do agravo para não conhecer do recurso especial (e-STJ fls. 317/318).
+Em seu agravo regimental (e-STJ fls. 321/324), a parte recorrente alega que fora realizado o cotejo analítico entre o acórdão impugnado e a decisão paradigma.
+Manifestação do Ministério Público Federal, às e-STJ fls. 334/337, pelo não provimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 243):
+Apelação. Furto qualificado por escalada e rompimento de obstáculo. Insurgências ministerial e defensiva. Autoria e materialidade comprovadas. Acervo probatório documental e pericial corroborado pelos depoimentos firmes e coerentes prestados pela vítima e pelos policiais civis ouvidos em juízo. Consumação delitiva reconhecida. Qualificadoras devidamente comprovadas. Aplicação da majorante inerente ao repouso noturno. Condenação mantida. Reforma do cálculo da pena. Réu reincidente. Valoração de outras condenações penais com trânsito em julgado em data posterior aos fatos. Impossibilidade. Regime inicial semiaberto. Recurso ministerial parcialmente provido para majorar a reprimenda do réu. Recurso defensivo parcialmente provido para modificar o regime prisional inicial, do fechado ao semiaberto.
+Nas razões do recurso especial (e-STJ fls. 263/270), fundado naalínea"c" do permissivo constitucional, alega a parte recorrente violação doartigo 33 do CP. Sustenta a possibilidade da fixação do regime aberto para o cumprimento da pena. Busca apresentar dissídio jurisprudencial.
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso não merece acolhida.
+No que tange ao regime de cumprimento da pena, ajurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+No presente caso, a Corte de origem consignou que, diante da quantidade de pena e da reincidência do agente, o regime prisional inicial insta ser o semiaberto, e não o fechado como constou na sentença, a teor do disposto no art. 33 c.c. o art. 59, ambos do Código Penal, devendo o recurso defensivo ser provido somente nesse ponto específico (e-STJ fls. 252).
+Verifica-se que oenvolvido, além de reincidente, teve valoradacomo negativacircunstânciajudicial negativado art. 59 do CP, tanto é que a pena-base foi fixada acima do mínimo legal, o que afasta o referido enunciado sumular, representando fundamentação idônea atépara a fixação do regime prisional fechado.
+Assim, tendo sido fixado o regime semiaberto, o acusado fora beneficiado, não merecendo qualquer alteração o acórdão recorrido.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 317/318, ecom fundamento no art. 932, incisos IV, alínea "a", e VIII,CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula n.568/STJ,conheçodo agravo paranegar provimentoao recurso especial.
+Intimem-se.
