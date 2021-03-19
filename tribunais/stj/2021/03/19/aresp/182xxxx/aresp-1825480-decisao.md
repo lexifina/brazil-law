@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE ABERTURA DE CRÉDITO - BB GIRO EMPRESA FLEX. SENTENÇA. PARCIAL PROCEDÊNCIA. SUCUMBÊNCIA RECÍPROCA EM PROPORÇÃO FIXADA EM 50% PARA CADA PARTE E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS DE FORMA EQUITATIVA (CPC, ART. 85, § 8º) NO TOTAL DE R$ 10.000,00. RECURSO DOS RÉUS.
+1. HONORÁRIOS ADVOCATÍCIOS. PLEITO DE FIXAÇÃO À VISTA DO TRABALHO DESENVOLVIDO E A PROPORÇÃO DETERMINADA PELOS ARTS. 85, § 2º, E 86, AMBOS DO CPC. ACOLHIMENTO. VERBA AGORA ARBITRADA EM 15% SOBRE O VALOR DA CONDENAÇÃO, A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. INTELIGÊNCIA DO ART. 85, § 2º, I A IV, DO CPC. SENTENÇA PARCIALMENTE REFORMADA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+2. INDEVIDOS. PROVIMENTO DO RECURSO QUE INVIABILIZA A MAJORAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL (CPC, ART. 85, § 11º).
+APELAÇÃO CONHECIDA E PROVIDA. (fls. 3655)
+O recorrente, pela alínea "a" do permissivo constitucional, aduz pela necessidade de redução dos honorários sucumbenciais.
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso especial, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação ou narrativa sobre artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
