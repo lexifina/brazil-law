@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porNORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A eSPE CONDOMINIO VILAS DO BOSQUE LTDA,contra decisão que negou seguimento a recurso especial fundamentadona(s) alínea(s) "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2017.
+Concluso ao gabinete em: 17/03/2021.
+Ação:indenização por danos materiais e compensação por danos morais, ajuizada por EDINAIR MELO FEITOSA e HIRAM TAVARES FEITOSA, em face das agravantes, em razão de atraso na entrega de imóvel objeto de contrato de promessa de compra e venda celebrado entre as partes.
+Sentença:julgou procedente em parte o pedido, para declarar o atraso na entrega da obra, tão somente, após consumado os 180 dias, contados de 28/02/2014, porque é lícita a cláusula do prazo de tolerância, bem como condenar as agravantes, solidariamente, ao pagamento de indenização a título de danos emergentes comprovadamente desembolsados no valor de R$ 2.800,00, sem prejuízo do reembolso dos aluguéis vencidos e a vencer até a data da efetiva entrega do imóvel, e, ainda, ao pagamento de compensação por danos morais no valor de R$ 10.000,00, bem como ao pagamento da multa contratual mantida indene como pactuada.
+Acórdão:negou provimento à apelação interposta pelas agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AGRAVO RETIDO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. POSSIBILIDADE DE JULGAMENTO ANTECIPADO DA LIDE. PRELIMINAR DE ILEGITIMIDADE DE PARTE. TODAS DEVIDAMENTE REJEITADAS. EXTRAPOLAÇÃO DO PRAZO DE 180 (CENTO E OITENTA) DIAS PARA ENTREGA DO IMÓVEL. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. OCORRÊNCIA. REDUÇÃO. DESCABIMENTO. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. TERMO INICIAL DOS JUROS DE MORA É A DATA DA CITAÇÃO. RELAÇÃO CONTRATUAL. CUMULAÇÃO NA CONDENAÇÃO DE CLÁUSULA PENAL MORATÓRIA COM DANOS EMERGENTES. POSSIBILIDADE. INSTITUTOS DIVERSOS. INEXISTÊNCIADE BIS IN IDEM. DANOS EMERGENTES DEVIDAMENTE COMPROVADOS. APELOS CONHECIDOS IMPROVIDOS.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 186, 416, parágrafo único, 927 e 944 do CC/02, bem como dissídio jurisprudencial. Sustentam que: i) o mero inadimplemento contratual não enseja compensação por dano moral; ii) é evidente a desproporcionalidade do valor fixado a título de compensação por danos morais; iii) é incabível a cumulação de indenização por danos emergentes com a cláusula penal, quando não pactuada a possibilidade de indenização suplementar.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento:aplicação do CPC/2015.
+- Da não configuração de dano moral pelo simples inadimplemento contratual (atraso na entrega de bem imóvel)
+O acórdão recorrido, ao reconhecer a possibilidade de compensação por danos morais em razão de simples inadimplemento contratual (atraso na entrega de bem imóvel objeto de contrato de compra e venda), divergiu da jurisprudência do STJ quanto ao tema, firmada no sentido de que o inadimplemento contratual não causa, por si só, danos morais (REsp 1.642.314/SE, 3ª Turma, DJe de 22/3/2017; e AgRg no AREsp 316.555/RJ, 4ª Turma, Dje de 24/2/2017).
+Logo,o recurso especial merece provimento, com base na Súmula 568/STJ.
+- Da inviabilidade de cumulação de cláusula penal (moratória ou compensatória)com perdas e danos (lucros cessantes ou danos emergentes)
+O TJ/SE, ao entender pela possibilidade de cumulação na condenação de cláusula penal moratória com danos emergentes, contrariou o entendimento do STJ no sentido de que, independentemente do caráter da cláusula penal, se moratória ou compensatória, não cabe a cumulação com indenização por perdas e danos, seja na modalidade lucros cessantes ou danos emergentes (AgInt no REsp 1.699.271/SP, 4ª Turma, DJe de 18/12/2020; eAgInt no REsp 1.710.524/SP, 3ª Turma, DJe de 14/8/2020).
+Logo , o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para afastar a condenação das agravantes no tocante à compensação por danos morais e quanto à indenização a título de danos emergentes, mantida a multa contratual.
+Tendo em vista a sucumbência recíproca, redimensiono as despesas, custas processuais e honorários advocatícios para serem pagos na proporção de 50% pelosagravados e 50% pelas agravantes, fixados em 20% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL.INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO. CUMULAÇÃO DE CLÁUSULA PENAL (MORATÓRIA OU COMPENSATÓRIA) COM PERDAS E DANOS (LUCROS CESSANTES OU DANOS EMERGENTES). IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de imóvel objeto de contrato de promessa de compra e venda.
+2.O inadimplemento contratual não causa, por si só, danos morais. Precedentes.
+3. Independentemente do caráter da cláusula penal, se moratória ou compensatória, não cabe a cumulação com indenização por perdas e danos, seja na modalidade lucros cessantes ou danos emergentes. Precedentes.
+4. Agravo conhecido. Recurso especial conhecido e provido.
