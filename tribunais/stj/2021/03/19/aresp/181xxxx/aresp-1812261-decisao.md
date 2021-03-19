@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE CURITIBA contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+EMBARGOS À EXECUÇÃO FISCAL IPTU IMÓVEL DA RFFSA TRANSFERIDO PARA O PATRIMÔNIO DA UNIÃO REQUISITOS DA CDA INSCRIÇÃO EM NOME DE PESSOA JURÍDICA EXTINTA NULIDADE 1 É NULA A CDA QUANDO INSCRITO O DÉBITO EM DÍVIDA ATIVA EM NOME DA RFFSA APÓS 22012007 PORQUANTO NOS TERMOS DO ART 2 DA LEI N 11483 DE 2007 OS SEUS IMÓVEIS BEM COMO A RESPONSABILIDADE PELO ADIMPLEMENTO DOS DÉBITOS DESSES BENS FORAM TRANSMITIDOS À UNIÃO NESSA DATA 2 IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CDA PARA MODIFICAÇÃO DO SUJEITO PASSIVO DA EXECUÇÃO (SÚMULA N 392 DO STJ).
+Quanto à controvérsia, alega interpretação divergente do art. 130 do CTN, no que concerne à possibilidade de redirecionamento da execução fiscal, trazendo o(s) seguinte(s) argumento(s):
+A sentença recorrida entendeu que a CDA seria nula, tendo em vista que a execução foi ajuizada em face de uma sociedade empresária que não mais existia (fl. 169).
+Entretanto, no caso em análise, não há que se falar em nulidade.
+Isso porque, resta claro que, quando da ocorrência do fato gerador, o imóvel era de propriedade da Rede Ferroviária Federal RFFSA, sendo possível o redirecionamento da execução fiscal (fl. 170).
+ ..
+O artigo 131, I, do CTN, fecha as disposições legais ao informar que o adquirente é pessoalmente responsável pelos tributos dos bens adquiridos  ..  (fl. 173).
+Nessa ordem de ideias, por ser um Imposto Real, o IPTU se sub-roga na pessoa do adquirente, sendo, portanto, uma espécie tributária que acompanha a coisa (propter rem).
+A exceção trazida pelo dispositivo legal é a prova de quitação constante do título, o que não se aplica ao caso em tela nos autos. Vale ressaltar que a interrupção da prescrição em relação ao antigo proprietário ocasiona, também, a interrupção contra o responsável (fl. 173).
+No caso de responsabilidade por sucessão, importa ressaltar que essa sucessão ocorre no plano da obrigação tributária por modificação subjetiva passiva. Dessa forma, o sucessor passa a ocupar a posição do antigo devedor, no estado em que a obrigação se encontrava na data do evento que motivou a sucessão.
+Assim, se, no momento da sucessão, o fato gerador já havia ocorrido, não é necessária nova notificação para que o responsável pague ou apresente defesa administrativa, visto que ele recebe a dívida na situação em que ela se encontrava.
+É equivocado o argumento de que a mudança de polo passivo implicaria alteração no lançamento. Isso porque, o ato de constituição frente ao contribuinte continua válido, somente a cobrança é redirecionada para o responsável tributário, não havendo nova constituição do crédito contra o adquirente (fl. 174).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; e AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
