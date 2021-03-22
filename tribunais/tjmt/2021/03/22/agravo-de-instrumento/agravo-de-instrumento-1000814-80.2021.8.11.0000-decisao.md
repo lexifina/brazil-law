@@ -1,0 +1,25 @@
+RAI no 1000814.80.2021.811.0000
+Vistos, etc...
+Trata-se de recurso de agravo de instrumento, com pedido de efeito ativo, interposto por O.V. AUTO ESCOLA LTDA., em face da r. decisão proferida pelo juízo da 1a Vara Especializada em Direito Bancário da Comarca de Cuiabá, que nos autos da ação de Busca e Apreensão no 1050146-24.2020.8.11.0041 proposta por BANCO J. SAFRA S.A., deferiu a liminar, determinando a imediata expedição de mandado de busca e apreensão, depositando-se o veículo em mãos do requerente, mediante termo de compromisso, sendo vedada a sua retirada desta comarca, no prazo de cinco dias, contado do cumprimento da liminar e citação, salvo em caso de ordem judicial expressa, sob pena de desobediência, lavrando-se auto circunstanciado sobre o seu estado de conservação. Por fim, determinou a citação da parte requerida para a purgação da mora no prazo de 05 dias, quanto às parcelas vencidas e vincendas, atualizadas em conformidade com os encargos moratórios contratuais, nos moldes dos § 2o do art. 3o do DL 911/69, dada pela Lei 13.043/14.
+Sustenta o agravante que, no presente caso, as notificações extrajudiciais de id. 41600914; 41600915; 41600917 são nulas, eis que foi realizada pelo escritório de advocacia e não pelo Cartório competente, sendo assim, por este documento ser nulo de pleno direito, inexiste a mora do consumidor ora agravante.
+Aduz que, não se discute, a inadimplência da parte consumidora e o seu dever de pagar à parte contrária o valor devido, mas, sim, a legalidade da apreensão do bem efetivada e mantida, uma vez que o mesmo lhe serve como instrumento de trabalho, não sendo passível de qualquer ato de constrição executória.
+Assevera por fim, que deverá a presente ação ser extinta sem julgamento do mérito, por lhe faltar pressuposto de constituição e de desenvolvimento válido e regular, nos termos do Artigo 485, IV, do novo Código de Processo Civil (Lei no 13.105/ 2015) ou, subsidiariamente, ser julgada integralmente improcedente, com fulcro nos Artigos 269, I c/c 833, V, ambos do novo Código de Processo Civil (Lei no 13.105/2015).
+Requer seja deferido o efeito ativo, no sentido de que o bem permaneça na posse do agravante, como fiel depositário, uma vez que, a cobrança indevida no contrato de adesão por si só descaracteriza a mora do consumidor, e além disto o bem é utilizado como ferramenta de trabalho pelo agravante, isto é, aqui há o exercício da função social do contrato; no mérito, seja o recurso julgado totalmente provido, ratificando o feito ativo, para reformar a decisão interlocutória de piso; bem como seja a demanda de primeiro grau extinta sem julgamento de mérito, com a devolução do bem, pela falta de pressuposto de constituição e desenvolvimento válido e regular do processo.
+É o relatório.
+DECIDO
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem. É incontestável a relevância das argumentações da Agravante, todavia, para fins de apreciação preliminar, há que se ater aos termos e fundamentação adotada pela decisão interlocutória combatida.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte agravada para, querendo, no prazo legal, apresentar contrarrazões ao recurso.
+Às providências.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
