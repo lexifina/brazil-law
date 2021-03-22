@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por WEICOLO COMERCIO DE VEICULOS EIRELI e OUTRO à decisão de fls. 401/402, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Nesse ponto verifica-se o erro material, eis que os Embargantes efetivamente comprovaram a ocorrência de feriados locais mediante juntada de ato publicado em 26/10/2018 pelo e. TJRS, o qual acompanhou o Recurso Especial no momento de sua interposição, como se vê em fl. e-STJ 297:
+ ..
+Frise-se que, quando da interposição do Agravo em Recurso Especial, os ora Embargantes igualmente comprovaram a suspensão dos prazos processuais na contagem do prazo para aquele ato, e dos feriados locais no ano de 2020, consoante se vê na documentação que acompanhou aquela peça, acostada em fls. e-STJ 355-390.
+Nada obstante, vê-se que a r. Decisão Monocrática também incorreu em omissão, eis que nada versou sobre a aplicação do Art. 229 do Código de Processo Civil de 2015 ao caso concreto, pela contagem do prazo recursal em dobro, haja vista a existência de litisconsórcio passivo com diferentes procuradores, e por se tratarem de autos físicos na origem onde interpostos os recursos (fl. 405/406).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não se desconhece o documento juntado às fls. 297/298, porém é insuficiente para afastar a intempestividade do recurso.
+De acordo com a jurisprudência do STJ, quando apenas um dos litisconsortes passivos recorre da decisão de primeiro grau, o litisconsórcio passivo é desfeito, de maneira que não é mais cabível a aplicação do prazo em dobro para os recursos supervenientes. Nesse sentido, AgInt nos EDcl no AREsp 1274834/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2020; e AgInt nos EDcl no AREsp 932.298/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 18/9/2018.
+No caso dos autos, somente a parte ora embargante recorreu da sentença condenatória, não tendo direito ao prazo em dobro para a interposição de recurso especial.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
