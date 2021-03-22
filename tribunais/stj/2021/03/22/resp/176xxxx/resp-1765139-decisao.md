@@ -1,0 +1,4 @@
+DECISÃO
+Observo que após a ocorrência do trânsito em julgado (certidão de fl. 80.356), formou-se o Expediente Avulso com petições de ofícios do Supremo Tribunal Federal, as quais informam a concessão da ordem em Habeas Corpus 193.726/PR para declarar a incompetência da 13ª Vara Federal da Subseção Judiciária de Curitiba para o processo e julgamento das Ações Penais n. 5046512-94.2016.4.04.7000/PR (Triplex do Guarujá), 5021365-32.2017.4.04.7000/PR (Sítio de Atibaia), 5063130-17.2018.4.04.7000/PR (sede do Instituto Lula) e 5044305-83.2020.4.04.7000/PR (doações ao Instituto Lula), determinando a remessa dos respectivos autos à Seção Judiciária do Distrito Federal.
+Destarte, transcorrido o prazo para interposição de recursos e verificado a perda do objeto, determino o arquivamento dos presente autos.
+P. e I.
