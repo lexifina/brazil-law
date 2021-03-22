@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelaFAZENDA NACIONAL, por meio do qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO INTERNO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRECLUSÃO.
+1. Nos termos do art. 932, III, do CPC, não se conhece de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida. Questão já discutida por esta Corte e, por conseguinte, preclusa" (fl. 79e).
+Embargos de Declaração rejeitados (fls. 113/116e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 505 e 1.022, II, do CPC.Sustenta, em breve síntese, que "ao consagrar estar preclusa a pretensão, o v. acórdão recorrido desconsiderou o disposto no art. 505 do CPC. Na hipótese, com a devida vênia, não há que se falar em preclusão, pois trata-se de pedido de redirecionamento com base em fatos diversos do pedido anterior. Em síntese, entender-se de modo diferente implica ofensa à correta interpretação a ser dada ao art. 505 do CPC" (fl. 129e). Aduz, ainda, que o acórdão recorrido padeceria de omissão, justamente porque teria deixado de ponderar queos fatos a serem analisados seriam outros, diversos daqueles analisados na primeira decisão. Requer, por fim, "(a) seja reconhecida a negativa de vigência ao art. 1.022, II, do CPC/2015, decretando-se a nulidade do acórdão recorrido e determinando ao TRF da 4ª Região que profira novo julgamento, desta feita apreciando as questões apresentadas nos embargos declaratórios da União; (b) caso superada a negativa de vigência art. 1.022, II, do CPC/2015, seja restabelecida a vigência ao disposto no art. 505, do CPC/2015, nos termos da fundamentação" (fl. 129e).
+Contrarrazões às fls. 137/140e.
+Recurso Especial admitido (fl. 145e).
+A irresignação não merece prosperar.
+Não há de se cogitar de omissão, no acórdão recorrido. Dessarte, a questão acerca da preclusão restou assim expressamente analisada e decidida, pelo Tribunal de origem:
+"A decisão que negou provimento ao agravo de instrumento merece ser mantida por seus próprios fundamentos (ev6 - DESPADEC1):
+"Assim consta na decisão de origem, em 14jun2016 (ev128 na origem):
+"Preliminarmente à análise do conteúdo das petições de eventos 125 e127, teço a seguinte ponderação:
+1. A Portaria PGFN nº 396, de 20 de abril de 2016, que regulamenta, no âmbito da Procuradoria-Geral da Fazenda Nacional, o RegimeDiferenciado de Cobrança de Créditos - RDCC.
+Dispõe referida portaria que "o Regime Diferenciado de Cobrança de Créditos - RDCC consiste no conjunto de medidas, administrativas ou judiciais, voltadas à otimização dos processos de trabalho relativos à cobrança da Dívida Ativa da União, observador critérios de economicidade e racionalidade, visando outorgar maior eficiência à recuperação do crédito inscrito"(art. 1º).
+Imbuído deste objetivo, a norma infralegal estabelece, no art. 20, que "serão suspensas, nos termos do art. 40, "caput", da Lei nº 6.830, de1980, as execuções fiscais cujo valor consolidado seja igual ou inferior a um milhão de reais, desde que não conste nos autos garantia útil à satisfação, integral ou parcial, do crédito executado".
+Com efeito, o texto legal supra citado estabelece que "o Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição".
+É o caso destes autos. Não há garantia efetiva à satisfação do crédito, que não ultrapassa o valor de um milhão de reais.
+1.1 Outrossim, intime-se a União - Fazenda Nacional para que, no prazo de 30 (trinta) dias, requeira conforme entender a bem de seus direitos.
+2. Caso seja requerida a suspensão do processo, nos termos do art.40, "caput", da Lei nº 6.830, de 1980, com base na Portaria mencionada, defiro, desde logo, a suspensão, pelo prazo de 1 (um) ano.
+2.1 Anote-se, independentemente de nova intimação, a teor do estabelecido no "caput" do art. 22 da Portaria PGFN 396, de 20 de abril de2016.
+2.2 Decorrido o prazo da suspensão, não havendo pedido que imprima efetivo andamento ao processo, proceda-se ao arquivamento provisório dos autos, nos moldes do disposto no § 2º do artigo 40 da mesma norma legal.
+2.3 Dispensada a intimação do arquivamento provisório, ficando desde já intimada a exequente que deverá peticionar nos autos, a qualquer tempo, respeitada a prescrição, requerendo a retomada do andamento do feito.
+A União, em 2 ago. 2016, reiterou o pedido de evento 125 nos que diz respeito a apropriação indevida de IR. (ev131-PET1 na origem). O pedido foi indeferido pelo Juízo de origem (ev133 na origem).
+O pedido de redirecionamento da presente execução fiscal já foi apreciado e indeferido pelo Juízo de primeira instância.
+Nada obstante, o agravo de instrumento interposto também foi julgado improcedente, sendo mantida a decisão "a quo".
+Desse modo, indefiro o novo pedido inserto no evento 131.
+Intime-se".
+No evento 1-INF2, a União junta Certidão de Oficial de Justiça Avaliador,constante do processo 50002127720124047012, que informa que não existem bens penhoráveis de expressivo valor  ..  o local constitui-se em uma sala comercial provida somente por alguns móveis de escritório.  ..  No endereço diligenciado, mantive contato pessoal com o representante legal da executada, Sr. Elson Munaretto, o qual informou que a executada continua ativa, porém, não existem bens penhoráveis em nome da executada; informou ainda que cumpre expediente diário no escritório da executada onde administra os passivos da empresa.  ..
+Verifica-se que no agravo de instrumento 50265414520144040000 interposto pela União em face de decisão que indeferiu o pedido de redirecionamento, esta Corte negou provimento ao agravo, decidindo que  A  presunção de dissolução irregular prevista na Súmula 435 do STJ é relativa, não devendo ser aplicado o redirecionamento ao sócio-gerente de forma automática, em desconsideração do conjunto fático constante dos autos. No voto, o Relator tece as seguintes considerações para o caso concreto:
+"No caso em análise, a executada não foi localizada no domicilio fiscal registrado na inicial (ev. 11 - origem). Após intimação do representante legal, a executada veio aos autos indicar seu novo endereço (ev. 23 -origem). Por tal alteração, sua sede passou a funcionar na Avenida Padre Ivo Antonio Zolet, 787, em Bom Sucesso do Sul/PR, onde a empresa não foi procurada.
+Dessa forma, em que pese o teor da Súmula 435 do STJ permitir a presunção de dissolução irregular da empresa, há de se analisar o conjunto fático caso a caso, vez que se trata meramente de uma presunção relativa. A partir deste entendimento, entendo que não há, neste momento e diante do interesse em indicação de bens a garantir a execução, fundamento a sustentar o redirecionamento da execução fiscal, desconsiderando a personalidade jurídica da empresa executada, o qual se revela medida excepcional.
+Portanto, deve a exequente, antes, requerer ao juiz de origem as medidas necessárias, como a expedição de mandado de constatação no novo endereço, com o fim de comprovar a dissolução irregular da empresa executada.
+Acrescento, por fim, que a empresa comprova a arrecadação de receitas federais (COMP3) e o pagamento de aluguel de sala comercial (COMP4).
+Ante o exposto, voto por negar provimento ao agravo de instrumento".
+Portanto, a matéria referente ao redirecionamento da execução fiscal originária já foi analisada nesta Corte no julgamento do Agravo de Instrumento 50265414520144040000.
+Encontra-se, portanto, preclusa neste Tribunal, sendo incabível nova análise nos termos do disposto no art. 505 do Código de Processo Civil. Não há interesse recursal que justifique a propositura do presente agravo de instrumento.
+Dispositivo. Pelo exposto, não conheço do agravo de instrumento por ausência de interesse recursal, nos termos do inc. III do art. 932 do CPC".
+Destarte, tendo sob consideração a tentativa de rediscussão de questão já analisada por este Tribunal por parte do agravo interposto, o que a torna preclusa, tem-se que não merece prosperar, nos termos do art. 932, III, do CPC" (fls. 81/83e).
+Conforme se observa, a questão acerca dos limites da preclusão foiexpressa e suficientemente abordada. Concluiu, aquele Sodalício, que os fatos já teriam sido objeto de anterior decisão, pelo que não poderiam ser novamente examinados, sob pena de violação ao instituto da preclusão.
+De outra banda, impossível rever essa conclusão, no sentido da existência de preclusão, uma vez que demandaria desbordar do quadro fático delineado nas instâncias ordinárias, providência vedada pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do RISTJ, conheço em parte do Recurso Especial e, nessa parte, nego-lhe provimento.
+Sem honorários recursais. Decisão interlocutória.
+I.
