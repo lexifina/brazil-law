@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Luiz Henrique da Silva, apontando-se como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça do Paraná (HC n. 0055311-57.2020.8.16.0000).
+Depreende-se dos autos que o paciente foi preso preventivamente, juntamente com outros corréus, pelo suposto cometimento dos delitos previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (Processo n. 0001777-81.2020.8.16.0039 oun. 0001842-76.2020.8.16.0039).
+Inconformada com o indeferimento do pedido de liberdade provisória, a defesa impetrou habeas corpus na origem, denegado pela Quarta Câmara Criminal do Tribunal local em acórdão assim ementado (fl. 59):
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA DECRETAÇÃO DA PRISÃO PREVENTIVA DO PACIENTE - TESES DE QUE NÃO ESTÃO PREENCHIDOS OS REQUISITOS PARA A PRISÃO PREVENTIVA E DE QUE O DECRETO DE PRISÃO NÃO CONTÉM FUNDAMENTAÇÃO IDÔNEA - IMPROCEDÊNCIA - PROVA DE EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - DECISÃO QUE EXPÔS FATOS CONCRETOS A DEMONSTRAR O PREENCHIMENTO DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL E A NECESSIDADE DA PRISÃO CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA EM RAZÃO DO E DA REITERAÇÃO MODUS OPERANDI DELITUOSA (REINCIDÊNCIA).IMPOSSIBILIDADE DE FIXAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO, EIS QUE NÃO SE MOSTRAM EFICAZES NO CASO EM EXAME.AUSÊNCIA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+ORDEM DENEGADA.
+No presente writ, aduz o impetrante, em breve síntese, a ausência de fundamentação idônea para justificar o decreto de segregação cautelar do paciente, considerando que as instâncias de 1º e 2º graus estão apegando-se exclusivamente a gravidade in abstrato do delito de tráfico de drogas e ao fato de Luiz Henrique ter sido condenado por crime anterior (reincidência) - fl. 6.
+Sustenta que a motivação do Juízo a quo é inidônea para a decretação da prisão preventiva, tendo em vista que os fatos relativos ao crime praticado em 2016 não são contemporâneos à decisão impugnada (fls. 7/9).
+Também entende que o fato de o paciente ainda estar em cumprimento da pena em regime aberto, por crime praticado no ano de 2016, não pode ser utilizado em seu desfavor no atual momento, haja vista que a demora na formação dos autos de execução e consequente início do cumprimento da pena não ocorreram por sua culpa (fl. 8).
+Assevera que o Tribunal local não enfrentou as teses levantadas pela defesa, tendo se limitado a repetir os argumentos da decisão de primeiro grau (fls.11/14), havendo clara transgressão do art. 93, IX, da Constituição Federale do art. 315 do Código de Processo Penal (fl. 14), sendo o caso de aplicação de medidas cautelares diversas da prisão (fl. 20).
+Requer, em liminar, a expedição de alvará de soltura em benefício do paciente, e, no mérito, a concessão da ordem para que a prisão preventiva do paciente seja substituída por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal. Pugna, ainda, pela intimação da defesa para oferecimento de memoriais e realização de sustentação oral, por ocasião do julgamento final (fl. 25).
+Solicitadas informações, essas foram devidamente prestadas às fls. 94/97 e 108.
+Instado a se manifestar,o Ministério Público Federal opinou pelo não conhecimento do mandamus, em parecer assim ementado(fls. 111/113):
+HABEAS CORPUS EM SUBSTITUIÇÃO AO RECURSO ORDINÁRIO.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Habeas Corpus impetrado em substituição ao recurso ordinário. Não conhecimento.
+- As decisões originárias restaram devidamente fundamentadas na gravidade concreta do crime e periculosidade do paciente, impossibilitando a substituição da cautela máxima por quaisquer cautelas diversas.
+- Parecer pelo não conhecimento do habeas corpus.
+Estes autos foram a mim distribuídos por prevenção do processo HC n.615.408/PR.
+É o relatório.
+O presente mandamus perdeu o objeto.
+Isso porque, diante das informações colhidas no portal eletrônico do Tribunal local, nota-se que, em 21/12/2020, nos Autos n. 0001842-76.2020.8.16.0039, foi proferida sentença condenando Luiz Henrique da Silva,tendo sido negado o direito de recorrer em liberdade.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte,  h avendo sido prolatada sentença condenatória em desfavor de um dos pacientes, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância (HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+De qualquer maneira, o primitivo decreto de prisão não revelava nenhuma ilegalidade aparente, uma vez que baseado em fator real de cautelaridade ante as circunstâncias do crime e risco de reiteração delitiva,em razão da periculosidade do agente, evidenciada não só pela reincidência, mas também pelo fato de atualmente estar cumprindo pena em regime aberto na Execução n. 0003109-20.2019.8.16.0039 por associação para o tráfico de drogas.
+Nessa linha: HC n. 536.222/SC, Ministro Jorge Mussi, Quinta Turma, DJe 4/8/2020; AgRg no HC n. 568.997/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/5/2020; AgRg no HC n. 568.281/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/5/2020; e RHC n. 124.546/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2020.
+Assim, a teor do disposto nos arts. 659 do Código de Processo Penal e 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JUDICIAL. PERDA DO OBJETO.
+Writ prejudicado.
