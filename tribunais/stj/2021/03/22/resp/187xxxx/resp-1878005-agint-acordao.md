@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL  CIVIL E TRIBUTÁRIO.  RECURSO  ESPECIAL.  FRAUDE À EXECUÇÃO. CARACTERIZAÇÃO. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1.  Conforme  estabelecido  pelo  Plenário  do  STJ,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  nele prevista  (Enunciado  Administrativo  n.  3).
+2. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.141.990/PR, submetido ao rito do art. 543-C do CPC/1973, consolidou o entendimento de que não se aplica à execução fiscal a Súmula 375 do STJ, decidindo que, na hipótese de a alienação ter sido efetivada antes da entrada em vigor da Lei Complementar n. 118, de 09/06/2005, que alterou o art. 185 do CTN, configura-se fraude à execução se o negócio jurídico tiver ocorrido após a citação do devedor e, se posteriormente à publicação da referida norma, a transação realizar-se após a inscrição do débito tributário em dívida ativa.
+3. Hipótese em que a Corte de origem, com apoio nos elementos probatórios colacionados aos autos, decidiu que houve má-fé na alienação do veículo, concluindo que a fraude à execução ficou caracterizada, ainda que a venda do bem tenha ocorrido em momento anterior ao da entrada em vigor da LC 118/2005 e ao da própria citação, de modo que a revisão desse entendimento encontra óbice na Súmula 7/STJ.
+4. Nos termos da jurisprudência deste Tribunal Superior,  "o  não  conhecimento  do  especial  pelo  conduto  da  alínea  a  do  permissivo  constitucional  inviabiliza,  por  conseguinte,  a  análise  do  alegado  dissídio  pretoriano"  (AgInt  no  REsp  1.601.154/PR,  Rel.  Ministro  SÉRGIO  KUKINA,  Primeira  Turma,  julgado  em  27/02/2018,  DJe  06/04/2018).
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  RICARDO LOPES DE OLIVEIRA FILHO contra  decisão  de  minha  lavra,  e-STJ  fls.  262/267,  em  que não conheci do recurso especial em face da incidência da Súmula 7/STJ e da impossibilidade de se conhecer do recurso interposto com fundamento em divergência jurisprudencial, quando o apelo raro mostrar-se inviável pela alínea "a".
+Nas  razões  de  agravo  interno  (e-STJ  fls.  271/277),  a  agravante  alega  que (e-STJ fls. 275/277):
+ ..  inexistiu coluio ou qualquer outra negociação entre os advogados a não ser a venda de um veículo antes da citação da vendedora, o mais representa pura ilação, suposição que não pode e não deve se sobrepor a disposição expressa em lei.
+No caso em tela há que se aplicar a redação originária do Artigo 185 do Código Tributário Nacional, vigente na data da alienação em 16/05/2005, sendo certo que a fraude é presumida tão somente a partir da data da citação válida, do executado, o que neste caso só ocorreu em data posterior a alienação, citação em 07/10/2005.
+Qualquer fato diverso desta realidade é mera ilação, mera construção com o fim de imputar fraude a uma simples operação de compra e venda de veículo.
+ ..
+Inexiste construção jurídica que autorize a indisponibilidade dos seus bens ou a decretação da fraude em data anterior a citação, imperativo, portanto a aplicação do artigo 185 do CTN - redação originária, o que autoriza a reforma.
+ ..
+Da mesma forma, merece reforma a decisão, devendo o recurso especial ser admitido com base na alínea "c" do artigo 105 da Constituição Federal, uma vez que bem demonstrado o dissenso jurisprudencial.
+Os arestos paradigmas revelam que o v. acórdão recorrido deu interpretação diversa daquela emprestada por outros tribunais a casos similares.
+Sem  impugnação  (e-STJ  fl.  282).
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL E TRIBUTÁRIO.  RECURSO  ESPECIAL.  FRAUDE À EXECUÇÃO. CARACTERIZAÇÃO. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1.  Conforme  estabelecido  pelo  Plenário  do  STJ,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  nele prevista  (Enunciado  Administrativo  n.  3).
+2. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.141.990/PR, submetido ao rito do art. 543-C do CPC/1973, consolidou o entendimento de que não se aplica à execução fiscal a Súmula 375 do STJ, decidindo que, na hipótese de a alienação ter sido efetivada antes da entrada em vigor da Lei Complementar n. 118, de 09/06/2005, que alterou o art. 185 do CTN, configura-se fraude à execução se o negócio jurídico tiver ocorrido após a citação do devedor e, se posteriormente à publicação da referida norma, a transação realizar-se após a inscrição do débito tributário em dívida ativa.
+3. Hipótese em que a Corte de origem, com apoio nos elementos probatórios colacionados aos autos, decidiu que houve má-fé na alienação do veículo, concluindo que a fraude à execução ficou caracterizada, ainda que a venda do bem tenha ocorrido em momento anterior ao da entrada em vigor da LC 118/2005 e ao da própria citação, de modo que a revisão desse entendimento encontra óbice na Súmula 7/STJ.
+4. Nos termos da jurisprudência deste Tribunal Superior,  "o  não  conhecimento  do  especial  pelo  conduto  da  alínea  a  do  permissivo  constitucional  inviabiliza,  por  conseguinte,  a  análise  do  alegado  dissídio  pretoriano"  (AgInt  no  REsp  1.601.154/PR,  Rel.  Ministro  SÉRGIO  KUKINA,  Primeira  Turma,  julgado  em  27/02/2018,  DJe  06/04/2018).
+4. Agravo interno desprovido.
+VOTO
+Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  nele  prevista  (Enunciado  n.  3  do  Plenário  do  STJ).
+Em  que  pesem  os  fundamentos  deduzidos  no  recurso,  a  parte  agravante  não  trouxe  nenhum  argumento  capaz  de  alterar  o  decisum  atacado.
+Rememoro  o  caso.
+O recurso especial teve origem em embargos de terceiro julgados nos seguintes termos em primeiro grau de jurisdição (e-STJ fl. 69):
+Posto isso, reconheço a ocorrência da fraude à execução e declaro ineficaz a alienação noticiada nos autos e por consequência, julgo improcedentes os embargos de terceiro, extinguindo o feito com resolução do mérito, nos termos do artigo 269, inciso I do Código de Processo Civil.
+Condeno o embargante ao pagamento de custas judiciais, bem como de honorários advocatícios, fixando-os, a teor do artigo 20, § do CPC, em R$ 1.500,00 (um mil e quinhentos reais).
+O Tribunal de origem manteve a sentença. Transcrevo os fundamentos que deram suporte ao julgamento (e-STJ fls. 97/100):
+De fato, como consagrado, tem por premissa a fraude á execução fiscal a prática de desfazimento patrimonial, pela parte executada, de bens em grau condutor ao quadro de insolvência.
+O limite temporal, então, a partir do qual se dê sua configuração vem claramente positivado pelo art. 185, CTN, cuja redação original fixava a necessidade de que o débito estivesse inscrito em Dívida Ativa, em fase de execução (atualmente, suficiente o primeiro momento, segundo a LC 118/05).
+Contudo, entendem o E. STJ e esta C. Corte, cujos v. votos adiante são colacionados, que fundamental se faz a citação pessoal prévia do devedor, para que cabal se revele seu conhecimento sobre a demanda hábil a reduzi-lo à insolvência, com o gesto de alienação que posteriormente tenha praticado (isso para os casos da redação primitiva do citado art. 185):
+ ..  Neste cenário, a venda do carro litigado ocorreu em 08/06/2005, fls. 08-v, portanto anterior à vigência da LC 118/2005 (09/06/2005), o que demandaria observância á citação da alienante, ocorrida em 07/10/2005, fis. 56.
+Entretanto, o caso telado possui peculiaridades que evidenciam objetiva má-fé, porque a então proprietária Maria Veronica Pinto Ribeiro Batista Nogueira, desde sempre, estava ciente da existência de demanda que poderia e voltar contra si.
+Efetivamente, desde 1998 sabia da existência da execução fiscal contra a pessoa jurídica da qual era sócia, sendo que seu marido já havia sido citado em-2002, fis. 56 Aliás, Maria Veronica é Advogada (inclusive patrocina estes embargos de terceiro) e tinha poderes de representação da empresa executada, cujo patrocínio da causa era dividido com o pai do embargante, fis. 32 e 43.
+Ato contínuo, o embargante também é Advogado, fis. 02, portanto todos devidamente conhecedores dos atos que praticaram, agindo os pactuantes em explícito caráter de dilapidação de patrimônio, para frustrar o adimplemento do crédito fiscal, data venha.
+Ou seja, o contexto fático da causa permite, claramente, concluir não existe boa-fé na compra, ao contrário, tudo a rumar para a configuração de fraude à execução, por isso não se amoldando à objetividade da existência de citação, para fins de ciência sobre a existência de executivo, porque a alienante conhecia o vindouro desfecho daquele trâmite processual e, somente por isso, vendeu o carro.
+Ademais, impresente prova da solvência do polo executado, pecando mais uma vez a parte embargante, pois nenhum elemento carreou aos autos, a fim de comprovar que o devedor tem patrimônio para saldar o débito fiscal, seu ônus, artigo 333, CPC vigente ao tempo dos fatos.
+Se a garantia patrimonial genérica do credor está no patrimônio do devedor, indubitável que o gesto de alienação se impregnou de fraude, de mole a se revelar imperativo seu desfazimento.
+É dizer, destaque-se nenhuma força têm as entabulações privadas perante o Estado, cujo crédito tributário desfruta de tal garantia, estampada no ah. 185 CTN: sendo ônus da parte embargante denotar a solvabilidade do originário executado, seu não atendimento visceralmente compromete sua própria tese.
+Desta forma, a peculiaridade das circunstâncias apuradas impõe a manutenção da r. sentença.
+Por conseguinte, em âmbito de prequestionamento, refutados se põem os demais ditames legais invocados em poio vencido, que objetivamente a não socorrerem, com seu teor e consoante este julgamento, ao mencionado polo (artigo 93, IX, CF).
+Ante o exposto, pelo improvimento à apelação, na forma aqui estatuída.
+E como voto.
+Pois bem.
+O recurso não merece ser acolhido.
+Conforme destaquei na decisão agravada, É certo que "a Primeira Seção do STJ, por ocasião do julgamento do REsp 1.141.990/PR, submetido ao rito do art. 543-C do CPC/1973, consolidou o entendimento de que não se aplica à execução fiscal a Súmula 375 do STJ, decidindo que, na hipótese de a alienação ter sido efetivada antes da entrada em vigor da Lei Complementar n. 118, de 09/06/2005, que alterou o art. 185 do CTN, configura-se fraude à execução se o negócio jurídico tiver ocorrido após a citação do devedor e, se posteriormente à publicação da referida norma, a transação realizar-se após a inscrição do débito tributário em dívida ativa" (AgInt no REsp 1826831/PE, de minha relatoria, PRIMEIRA TURMA, julgado em 28/04/2020, DJe 07/05/2020).
+No entanto, no caso dos autos, embora a alienação do bem tenha ocorrido em momento anterior ao da vigência da Lei Complementar n.º 118/2005, e em momento anterior ao da própria citação da parte executada, o certo é que a Corte de origem, apoiada nos elementos fáticos probatórios dos autos, concluiu pela configuração da fraude à execução, de modo que a revisão desse entendimento pressupõe o reexame de matéria fática e probatória, inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Sobre a questão:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. AUSÊNCIA. REGISTRO DA PENHORA DO BEM ALIENADO. INEXISTÊNCIA. FRAUDE À EXECUÇÃO. INCARACTERIZAÇÃO. SÚMULA Nº 375/STJ. MÁ-FÉ DO ADQUIRENTE. REEXAME DE PROVA. SÚMULA Nº 7/STJ. AGRAVO IMPROVIDO.
+1. Decididas as questões suscitadas, não há falar em violação do artigo 535 do Código de Processo Civil, à ausência de omissão, contradição ou obscuridade a ser suprida ou dirimida, eis que os embargos de declaração não se destinam ao prequestionamento explícito. Precedentes.
+2. "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente." (Súmula do STJ, Enunciado nº 375).
+3. Reconhecido no acórdão impugnado, com base nas provas dos autos, que o terceiro não agiu com má-fé ao adquirir o veículo objeto de penhora, a alegação em sentido contrário, a motivar insurgência especial, requisita exame do acervo fáctico-probatório, vedado na instância excepcional.
+4. Agravo regimental improvido.
+(AgRg no REsp 1177830/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 23/03/2010, DJe 22/04/2010)
+PROCESSUAL CIVIL. TRIBUTÁRIO.  ..  FRAUDE À EXECUÇÃO. REEXAME. MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+5. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que "no caso, encontram-se presentes os requisitos exigidos pela lei para a configuração da fraude à execução" (fl. 125, e-STJ). A revisão dessa orientação implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+6. Agravos Regimentais de Marlene Esteves Scampini e de Artwear Indústria Comércio e Representações Ltda. e outros não providos.
+(AgRg no REsp 1243635/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014)
+Por isso, entendo que o óbice contido na Súmula 7/STJ deve ser mantido, razão pela qual o agravo interno não merece ser provido.
+Por  essa  razão,  o  recurso  também  não  merece  ser  conhecido  pela  divergência,  pois  "o  não  conhecimento  do  especial  pelo  conduto  da  alínea  a  do  permissivo  constitucional  inviabiliza,  por  conseguinte,  a  análise  do  alegado  dissídio  pretoriano"  (AgInt  no  REsp  1.601.154/PR,  Rel.  Ministro  SÉRGIO  KUKINA,  Primeira  Turma,  julgado  em  27/02/2018,  DJe  06/04/2018).
+Ainda  que  assim  não  fosse,  reitero  que  a  parte  recorrente  descuidou  de  demonstrar  a  similitude  fática  entre  o  acórdão  recorrido  e  o  paradigma  apresentado,  uma  vez  que  deixou  de  promover  o  cotejo  analítico,  com  a  transcrição  dos  trechos  dos  acórdãos  em  que  se  funda  a  divergência,  com  a  exposição  das  circunstâncias  que  identificam  ou  assemelham  os  casos  confrontados.
+Assim,  recurso  não  comporta  acolhimento  e  a  decisão  agravada  deve  ser  mantida  por  seus  próprios  fundamentos.
+Por  fim,  embora  não  merecedor  de  acolhimento,  tenho  que  o  presente  inconformismo  não  representa  interposição  de  agravo  interno  manifestamente  inadmissível  ou  improcedente,  a  ensejar,  por  decisão  unânime  do  Colegiado,  a  multa  processual  prevista  no  §  4º  do  art.  1.021  do  CPC/2015.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo  interno.
+É  como  voto.
