@@ -1,0 +1,78 @@
+DECISÃO
+MARCELO TAVARES MATTAR e MARIANA GAMA COSTABILE MATTARajuizaramação declaratória c/c indenização por danos morais e materiais contra PINHEIRO GUIMARÃES EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (PINHEIRO GUIMARÃES) em virtude do atraso na entrega de imóvel adquirido na planta.
+Em primeira instância, os pedidos foramjulgados parcialmente procedentes para condenar a ré PINHEIRO GUIMARÃES ao pagamento (1) de todos os aluguéis pagos pelos autorese devidamente comprovados, de novembro de 2012 até a entrega das chaves do imóvel; (2) da quantia de R$ 10.000,00 (dez mil reais) para cada autor a título de dano moral; e (3)das custas processuais e dos honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 671/675).
+O Tribunal de Justiça do Rio de Janeiro deu parcial provimento ao recurso de apelação interposto por PINHEIRO GUIMARÃES apenas para fixar o mês de dezembro de 2012 como o termo inicial da mora. Oacórdão ficou assim ementado:
+APELAÇÃO CÍVEL. CONSUMIDOR. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. RESPONSABILIDADE OBJETIVA. VIOLAÇÃO DA LEGÍTIMA EXPECTATIVA DO ADQUIRENTE. FORTUITO INTERNO. FALHA NA PRESTAÇÃO DO SERVIÇO RECONHECIDA.PRECEDENTE. ALTERAÇÃO DO TERMO INICIAL DA MORA DA CONSTRUTORA. DANOS MORAIS CONFIGURADOS. PROPORCIONALIDADE DA VERBA INDENIZATÓRIA FIXADA EM 1ª INSTÂNCIA, NO VALOR DE R$ 10.000,00 (DEZ MIL REAIS) PARA CADA PARTE, BEM EXPRESSANDO O SEU CARÁTER COMPENSATÓRIO E PUNITIVO.
+PARCIAL PROVIMENTO DO RECURSO(e-STJ, fl. 735).
+Os embargos de declaração opostos por PINHEIRO GUIMARÃES foram rejeitados (e-STJ, fls. 781/788).
+Inconformada, PINHEIRO GUIMARÃESinterpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal, apontando violação dos arts. 85, § 11, e 240 do NCPC e 186, 393, 405, 927 e 944 do CC/02, ao sustentar, em síntese,(1) queo atraso na conclusão da obra se deu por fortuito externo e não interno, conforme entendeu o Tribunal a quo, não havendo qualquer comprovação da ocorrência de danos materiais ou morais; (2) que o termo inicial dos juros de mora inicia-se a partir da citação; (3)a impossibilidade de majoração dos honorários advocatícios sucumbenciais na hipótese de provimento parcial do recurso; e(4) que o dano moral foi fixado em valor excessivo, devendo sofrer redução, observando-se os princípios da razoabilidade e da proporcionalidade.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do TJRJ inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 880/885).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar em parte.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegação de ocorrência de fortuito externo e dos Danos Morais
+A turma julgadora, após análise dos autos, concluiu que o atraso se deu por fortuito interno, caracterizando como risco do negócio, não havendo comprovação de fortuito externo ou força maior, caso em a responsabilidade seria afastada. Confira-se o aresto recorrido:
+Saliente-se que o laudo pericial, embora ateste que o problema verificado na instalação das fundações não seja comum, não serve para descaracterizar o fortuito interno, entendido este como o fato imprevisível e inevitável ocorrido na realização do serviço ou fabricação de produto.
+Nesse contexto, cumpre asseverar que o que importa para a caracterização do fortuito interno é a relação das questões apontadas como causas para o atraso com a atividade desenvolvida, sendo evidente que problemas de conformação do terreno fazem parte do risco do negócio.
+(333).
+Logo, tratando-se de fortuito interno, não há que se falar em prorrogação do prazo de entrega, surgindo para a apelante o dever de indenizar os autores pelos prejuízos causados em decorrência de sua mora, tomando-se como termo inicial o final do prazo dilatório de 180 dias (e-STJ, fls. 737/738).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula nº 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS E DECLARAÇÃO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL AUSÊNCIA DE CASO FORTUITO OU FORÇA MAIOR.CONFIGURAÇÃO DE FORTUITO INTERNO. SÚMULAS 7 E 83/STJ. LUCROS CESSANTES . CABIMENTO. SÚMULA 83/STJ. INDENIZAÇÃO. SÚMULA 7/STJ.DANOS MORAIS. EXCESSIVIDADE NO ATRASO DA DISPONIBILIZAÇÃO DA UNIDADE IMOBILIÁRIA. OFENSA DEMONSTRADA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Ocorrido o descumprimento contratual, entendeu-se que a mora da recorrente estaria configurada. Isso porque os motivos alegados para o atraso na entrega do imóvel não podiam configurar caso fortuito ou força maior, mas sim fortuito interno (Súmula 7/STJ).
+2. O Tribunal de origem consignou que os fatos caracterizados como fortuito interno, ou seja, os ligados ao risco natural da atividade econômica da recorrente, são incapazes de afastar a mora da construtora pelo atraso na entrega do imóvel. Precedentes.
+3. No tocante à condenação ao pagamento de lucros cessantes, decorrentes do atraso na entrega da unidade imobiliária, é de rigor a manutenção do entendimento estadual, sendo caso de aplicação da Súmula 83/STJ.
+4. No caso, o Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu pela existência de danos morais diante da excessiva demora na entrega do imóvel (quase quatro anos), gerando transtorno de ordem psíquica ao comprador (AgRg no AREsp 684.176/RS, Rel.Ministro Raul Araújo, Quarta Turma, julgado em 9/6/2015, DJe 30/6/2015).
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.869.642/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.em 19/10/2020, DJe 26/10/2020 - sem destaque no original)
+Assim, fica mantida a condenação ao ressarcimento dos valores pagos a título de aluguel devidos desde dezembro de 2012 até a data da entrega efetiva das chaves, conforme decidido pelo Tribunal a quo.
+No que se refere aos danos morais, o TJRJ manteve a condenação imposta na sentençaconsiderando que os recorridos sofreramtranstornos pela demora na conclusão da obra, que exorbitam o mero dissabor.
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do Resp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e, REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e,
+c)muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1637627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AResp 809.935/RS, DJe 11/03/2016; e, REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016.
+Na hipótese vertente, o fundamento do dano moral está calcado nas seguintes razões:
+É certo que o mero inadimplemento contratual não gera dano moral, porém, in casu, destaca-se o sentimento de frustração da legítima expectativa daquele que adquire uma unidade imobiliária, mas que é surpreendido com inúmeros percalços, que resulta no atraso considerável na entrega do bem, em razão da falha na prestação do serviço. Imperioso reconhecer que tal fato gera abalo sensível ao seu direito da personalidade, o qual deve ser objeto de indenização(e-STJ,fl. 739).
+Como visto no trecho do aresto recorrido, o fundamento adotado para reconhecimento do dano moral foi o inadimplemento contratual, sem a comprovação de qualquer outro fundamento relevante que importasse em inegável abalo imaterial.
+Desse modo, inexistindo circunstância específica, além do injustificado atraso na entrega da obra, capaz de provocar graves lesões à personalidade dos recorridos, acompanho o recente entendimento firmado na Terceira Turma desta Corte, e afasto a configuração do dano moral na hipótese dos autos, considerando que ele exsurge de agressão à personalidade do ofendido, conforme julgamento do REsp 1.426.710 (Terceira Turma, julgado em 25/10/2016, DJe 8/11/2016).
+(2) Do termo inicial dos juros de mora
+Verifica-se que o tema não foi objeto de discussão no acórdão recorrido,tampouco foram opostos embargos de declaração para esta finalidade. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável, assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1.  .. .
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.578.006/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 9/3/2020, DJe 13/3/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. NEGATIVA INDEVIDA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DANO MORAL. VALOR. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. COBERTURA. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1.  .. .
+2.  .. .
+3.  .. .
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.811.358/PA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 10/3/2020, DJe 17/3/2020)
+(3) Da alegação de impossibilidade de majoração dos honorários sucumbenciais em caso de provimento parcial do recurso
+A jurisprudência deste Tribunal dispõe que a majoração da verba honorária, nos termos do art. 85, § 11, do CPC/2015, só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso.
+No caso dos autos, prospera a pretensão da recorrente PINHEIRO GUIMARÃES, tendo em vista que seu recurso de apelação foi parcialmente provido.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. HONORÁRIOS RECURSAIS. CABIMENTO EM CASO DE NÃO CONHECIMENTO INTEGRAL OU DE DESPROVIMENTO DO RECURSO PELO RELATOR OU PELO ÓRGÃO COLEGIADO COMPETENTE. DECISÃO AGRAVADA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. DESCABIMENTO DE HONORÁRIOS RECURSAIS. 2. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste Tribunal dispõe que a majoração da verba honorária, nos termos do art. 85, § 11, do CPC/2015, só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso. Precedentes. Na hipótese, não prospera a pretensão da agravante, uma vez que o seu recurso especial foi parcialmente provido.
+2. Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.848.081/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.em 1º/6/2020, DJe 4/6/2020 - sem destaque no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMÓVEL. RESCISÃO CONTRATUAL. RESTITUIÇÃO DE VALORES. VERBA HONORÁRIA. PERCENTUAL. REDUÇÃO. DESCABIMENTO. OFENSA AO § 11 DO ART. 85 DO CPC/2015. VIOLAÇÃO DA SÚMULA N. 7/STJ.INEXISTÊNCIA. DECISÃO MANTIDA.
+1.  .. .
+2.  .. .
+3. A jurisprudência da Corte Especial do STJ entende ser "devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+4. No caso concreto, todavia, ocorreu parcial provimento do recurso especial da empresa agravada, o que impediu o arbitramento de honorários recursais. Por esse motivo, não há ofensa ao § 11 do art.85 do CPC/2015.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.775.056/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j.em 24/8/2020, DJe 28/8/2020 - sem destaques no original)
+Assim, na hipótese, fica afastada a condenação a título de danos morais.
+(4) Do Dano Moral - Quantum
+Em razão do afastamento da condenação a título de danos morais, julgo prejudicado o recurso quanto ao tema.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTEo recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO para afastar a condenação a título de dano moral, bem como afastar a majoração do honorários sucumbenciais determinada no aresto impugnado.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. RECURSO ESPECIAL.INTERPOSTO NA VIGÊNCIA DO NCPC. FORTUITO EXTERNO. AUSÊNCIA DE COMPROVAÇÃO. DANOS MORAIS. AFASTAMENTO.INADIMPLEMENTO CONTRATUAL. MERO DISSABOR. AUSÊNCIA DE CONDIÇÃO ESPECÍFICA.ENTENDIMENTO FIRMADO NO ÂMBITO DA EG. TERCEIRA TURMA DO STJ. JUROS DE MORA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 282DO STF. DANO MORAL. QUANTUM. RECURSO PREJUDICADO.AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
