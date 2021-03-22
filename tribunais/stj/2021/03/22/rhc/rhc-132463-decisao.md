@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar,interposto por JOSE WELDES FERREIRA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do HC n. 0801575-81.2020.8.02.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 18/8/2018 por ter supostamente praticado os delitos tipificados no art. 33 da Lei n. 11.343/2006, e no art. 16, inciso IV, da Lei n. 10.826/2003(tráfico de entorpecentes e posse ilegal de arma de fogo de uso restrito). Referida custódia foi convertida em preventiva.
+Posteriormente, o Magistrado singular acolheu o pedido da defesa e revogou a custódia antecipada, mediante a imposição das medidas cautelares previstas no art. 319 do CPP.Com a notícia da prisão em flagrante do recorrente pela prática de novos delitos, o Juiza quodecretou, novamente,a segregação provisória.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. REDECRETAÇÃO DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. PACIENTE PRESO EM FLAGRANTE POR CRIME POSTERIOR À LIBERDADE PROVISÓRIA. MEDIDAS CAUTELARES INSUFICIENTES. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. ANDAMENTO DILIGENTE APÓS A PRISÃO. ADIAMENTO DA AUDIÊNCIA PELA PANDEMIA DA COVID-19. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1 - É possível a redecretação da preventiva, com fundamento em nova prisão em flagrante, pela suposta prática de crime praticado pelo réu após a concessão de liberdade com a fixação de medidas cautelares, pois estas se mostram insuficientes para garantir a ordem pública, pelo risco de reiteração delitiva, sem configurar violação ao princípio da presunção da inocência,
+2 - Em que pese certa morosidade para o fim da instrução enquanto o réu estava em liberdade, o juízo vem impulsionando os autos com celeridade desde a redecretação da prisão, tanto que a audiência de instrução só não foi recentemente realizada em virtude da pandemia da COVID-19, sendo adiada para data próxima já designada.
+3 - Ordem conhecida e, no mérito, denegada"(fl. 473).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Destaca oexcesso de prazo para a formação da culpa, porquanto a segregação perdura por mais de 1 ano e 6 meses sem que a instrução tenha sido encerrada.
+Requer, assim, liminarmente e no mérito, a expedição de alvará de soltura.
+A liminar foi indeferida às fls. 519/520. Informações prestadas às fls. 527/530 e 531/534. O Ministério Público Federal opinou pelo desprovimento do recurso em parecer acostado às fls. 538/546.
+É o relatório.
+Decido.
+O presente recursoestá prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-seque, em 10/3/2021, nos autos da Ação Penal n.0700187-84.2018.8.02.0072, o recorrente foi condenadoà pena de 8 anos de reclusão, em regime inicial fechado, pela prática dos delitos previstos noart. 33da Lei n. 11.343/2006, e no art. 16, § 1º, inciso IV, da Lei n. 10.826/2003, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Mantenho a prisão preventiva do corréu JOSÉ WELDES FERREIRA DA SILVA, haja vista a necessidade de salvaguardar a ordem pública, ante as circunstâncias do caso concreto. De fato, estas demonstram a periculosidade em concreto do réu, haja vista a relevante variedade das drogas, e quantidade das armas de fogo apreendidas, além do fato de que ele responde a dois outros processo criminais, onde foi denunciado pelos crimes de roubo, furto e homicídio, conforme exposto na fundamentação, o que demonstra que o mesmo se dedica à pratica delituosa. No mais, encampo os fundamentos já expostos nas decisões que decretaram/mantiveram a prisão preventiva do réu ao longo do processo".
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Noutro giro, proferida sentença condenatória, resta superada a alegação de excesso de prazo para a formação da culpa, uma vez que entregue a prestação jurisdicional, incidindo ao caso a Súmula 52 deste Superior Tribunal de Justiça, que prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
