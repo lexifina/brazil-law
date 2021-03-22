@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por WALMIR PEREIRA MODOTTIcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 211):
+HONORÁRIOS PERICIAIS - BENEFICIÁRIO DA JUSTIÇA GRATUITA - EXECUÇÃO - AUSÊNCIA DE TRÂNSITO EM JULGADO - ILIQUIDEZ DO TÍTULO EXECUTIVO - A despeito de os honorários periciais homologados por decisão judicial consubstanciarem título executivo extrajudicial, por força do disposto no artigo 585, VI, do Código de Processo Civil, vigente à época da propositura da ação, sua plena executividade pressupõe o trânsito em julgado do provimento judicial que os fixou. Sentença que extinguiu a execução mantida. Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aosarts. 938, § 3º,1022, I, do CPC/2015.
+Sustenta que o acórdão recorrido foi, omisso, obscuro e contraditório posto que a o Tribunal local não apreciou todas as onze certidões acostadas aos autos, além de alegar que tais títulos transitaram julgado.
+Por outro lado, alega que o acórdão recorrido, embora tenha consignado expressamente a necessidade de dilação probatória, cerceou do agravante a chance de produzi-la e extinguiu a execução em razão da falta de prova do trânsito em julgado dos processos. Ademais, afirma que houve inobservância da regra processual de conversão do julgamento em diligência.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte agravante alegou em seus embargos de declaraçãoque"o feito não executa apenas a certidão de fls. 8, mas sim as 11 certidões acostadas às fls.8/26 dos autos, sendo que as 10 demais não foram analisadas por esse egrégio tribunal. (..)Dessa forma, pede-se venia para requerer que seja sanada a omissão relativa à análise das demais 10 certidões que instruem o feito, e não apenas a de fls.8." (fl. 218).
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral. Nesse vértice:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão"(AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,julgado em 25/9/2018, DJe 9/10/2018)
+ANTE O EXPOSTO,conheço do agravo e dou provimento ao recurso especial por afronta ao art.1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
