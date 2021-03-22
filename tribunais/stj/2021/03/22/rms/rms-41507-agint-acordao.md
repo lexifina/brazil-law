@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EDITAL DO CERTAME. REQUISITO NÃO PREVISTO.IMPOSSIBILIDADE. PRINCÍPIOS DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO E DA CONFIANÇA. OBSERVÂNCIA.
+1. A exigência de 1000 horas em curso técnico é prevista por interpretação sistemática de LC do Estado de Rondônia n. 433/2007 (art. 3º e anexo IV) e Resolução da Câmara de Educação Básica n. 04/99, mas em nenhum momento a Administração, conhecedora de tais regras, escolheu incluí-las no seu edital.
+2. No particular, as regras do certame impunham como requisito para a assunção do cargo de técnico em informática somente a apresentação de certificado de conclusão de ensino médio e curso profissionalizante de técnico em informática, devidamente reconhecido por órgão oficial, não havendo uma única linha exigindo carga horária mínima de formação em técnico.
+3. O caso em espécie não cuida da corriqueira situação vivenciada neste Corte, quando o edital prevê mais do que diz a lei em sentido largo, ocorrendo o reverso: as regras do certame exigiram menos do que dispunha a legislação.
+4. Se o edital dizia menos do que a lei, mas não exatamente o contrário, deve ser prestigiado os princípios da vinculação ao instrumento convocatório, o qual também reforça a confiança legítima que o administrado mantinha em relação à Administração.
+5. Hipótese em que oimpetrante acostou com a inicial uma sequência de certificados de cursos voltados à prática de técnico em informática, todos de nível médio, inclusive constando curso de 180 (cento e oitenta) horas ministrado por órgão oficial, pelo que atendido o requisito do edital.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha lavra, e-STJ fls. 217/219, em que neguei provimento ao recurso ordinário.
+Sustenta a parte recorrente, em resumo, que: a) os certificados trazidos com a inicial não revelam quais os cursos -realizados pelo agravado - reconhecidos, pelo órgão oficial competente, como curso profissionalizante de técnico em informática, comexceção do Curso de Introdução à Informática, oferecido pela Escola do Legislativo, todos os demais são de qualificação para o trabalho de montagem e manutenção de computadores; b) o edital do concurso estaria violando diretamente a lei, se admitisse que a habilitação profissional de Técnico em Informática pudesse ser comprovada através de diplomas ou certificados de qualificação em montagem e manutenção de computadores, com qualquer carga horária (e-STJ fls. 226/235).
+Sem impugnação ao recurso.
+EMENTA
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EDITAL DO CERTAME. REQUISITO NÃO PREVISTO.IMPOSSIBILIDADE. PRINCÍPIOS DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO E DA CONFIANÇA. OBSERVÂNCIA.
+1. A exigência de 1000 horas em curso técnico é prevista por interpretação sistemática de LC do Estado de Rondônia n. 433/2007 (art. 3º e anexo IV) e Resolução da Câmara de Educação Básica n. 04/99, mas em nenhum momento a Administração, conhecedora de tais regras, escolheu incluí-las no seu edital.
+2. No particular, as regras do certame impunham como requisito para a assunção do cargo de técnico em informática somente a apresentação de certificado de conclusão de ensino médio e curso profissionalizante de técnico em informática, devidamente reconhecido por órgão oficial, não havendo uma única linha exigindo carga horária mínima de formação em técnico.
+3. O caso em espécie não cuida da corriqueira situação vivenciada neste Corte, quando o edital prevê mais do que diz a lei em sentido largo, ocorrendo o reverso: as regras do certame exigiram menos do que dispunha a legislação.
+4. Se o edital dizia menos do que a lei, mas não exatamente o contrário, deve ser prestigiado os princípios da vinculação ao instrumento convocatório, o qual também reforça a confiança legítima que o administrado mantinha em relação à Administração.
+5. Hipótese em que oimpetrante acostou com a inicial uma sequência de certificados de cursos voltados à prática de técnico em informática, todos de nível médio, inclusive constando curso de 180 (cento e oitenta) horas ministrado por órgão oficial, pelo que atendido o requisito do edital.
+6. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Os argumentos apresentados no recurso não infirmam os fundamentos esposados no decisum recorrido.
+Por isso, mantenho integralmente a decisão, a qual ora transcrevo como razões de decidir:
+Desde já, adianto que a principal questão deste feito é saber se é possível à Administração desclassificar candidato de certame por não atender a requisito apenas previsto na lei local, embora não constante do edital convocatório.
+Portanto, um primeiro alerta: não se trata da corriqueira situação vivenciada neste Corte, quando o edital prevê mais do que diz a lei em sentido largo.
+Aqui é o contrário: as regras do certame exigiram menos do que dispunha a legislação. Nesse caso, deve prevalecer aquelas ou esta
+Antes de responder à indagação, deve-se trazer o contexto do caso em exame.
+No particular, as regras do certame impunham como requisito para a assunção do cargo de técnico em informática somente a apresentação de certificado de conclusão de ensino médio e curso profissionalizante de técnico em informativa, devidamente reconhecido por órgão oficial.
+Não há uma única linha exigindo carga horária mínima de formação em técnico.
+Na realidade, a exigência de 1000 horas em curso técnico é prevista por interpretação sistemática de LC Estadual n. 433/2007 (art. 3º e anexo IV) e Resolução da Câmara de Educação Básica n. 04/99, mas em nenhum momento a Administração, conhecedora de tais regras, escolheu incluí-las no seu edital.
+Com efeito, a meu ver, se o edital dizia menos do que a lei, mas não exatamente o contrário, deve ser prestigiado os princípios da vinculação ao instrumento convocatório, o qual também reforça a confiança legítima que o administrado mantinha em relação à Administração.
+Ao enfrentar casos semelhantes esta Corte tem entendido que "em se cuidando de disputa de cargos públicos reservados pelo critério da cota racial, ainda que válida a utilização de parâmetros outros que não a tão só autodeclaração do candidato, há de se garantir, no correspondente processo seletivo, a observância dos princípios da vinculação ao edital, da legítima confiança do administrado e da segurança jurídica." (RMS 59.369/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/04/2019, DJe 21/05/2019).
+No mesmo sentido: REsp 1794413/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 06/09/2019; RMS 54.907/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/04/2018, DJe 18/04/2018.
+Também não prospera a alegação que a autoridade coatora de que o candidato não teria acostado certificados próprios de curso profissionalizante técnicos de informática, mas apenas de módulos desses eventos.
+Foi apresentado com a inicial uma sequência de certificados de cursos voltados à prática de técnico em informática, todos de nível médio (e-STJ fls. 15/18). Inclusive consta curso de 180 (cento e oitenta) horas ministrado por órgão oficial (SENAC - e-STJ fl. 17).
+Assim, não se pode falar que, nesse aspecto, que não foi atendido o requisito previsto no edital, o qual previa genericamente a comprovação mediante apresentação do seguinte documento: "curso profissionalizante de técnico em informativa, devidamente reconhecido por órgão oficial.".
+Por fim, imperioso ressaltar que o pedido da parte impetrante não pode retroagir os efeitos financeiros.
+Isso porque o Supremo Tribunal Federal firmou o entendimento de que "é indevida indenização pelo tempo em que se aguardou solução judicial definitiva sobre aprovação em concurso público" (AgRg no RE 593.373, Segunda Turma, Min. Joaquim Barbosa, DJ de 18/4/2011). Nesse mesmo sentido, o STJ considera que, "se a nomeação foi decorrente de sentença judicial, o retardamento não configura preterição ou ato ilegítimo da Administração Pública a justificar uma contrapartida indenizatória" (EREsp 1.117.974/RS, Corte Especial, Rel. Min. Eliana Calmon, Rel. para acórdão Min. Teori Albino Zavascki, DJe 19/12/11).
+Ante o exposto, nos termos do art. 34, XVIII, "c", do RISTJ, DOU PROVIMENTO ao recurso, para reformar o acórdão impugnado, CONCEDENDO A ORDEM do mandado de segurança, determinando que a autoridade coatora garanta à impetrante a posse e o exercício na função de Técnico em Informática, fazendo jus à remuneração somente a partir da data do efetivo exercício.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
