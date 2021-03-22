@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FUNDAÇÃO DEPARTAMENTO DE ESTRADAS DE RODAGEN-RJ FUNDERJ e OUTRO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. SENTENÇA DE PROCEDÊNCIA, QUE ACOLHE A ALEGAÇÃO DA FAZENDA PÚBLICA DE EXCESSO DE EXECUÇÃO NO SENTIDO DE QUE DAS PARCELAS DEVIDAS AOS SERVIDORES RELATIVAS À GRATIFICAÇÃO GEE PREVISTA NO PROCESSO ADMINISTRATIVO E- 12/150.119/2000 DEVEM SER DESCONTADAS AS QUE FORAM RECEBIDAS AO MESMO TÍTULO, EM RAZÃO DO DISPOSTO NO ART. 14 DA LEI Nº 4.688/05, ALÉM DA UTILIZAÇÃO DE INCORRETO ÍNDICE DE CORREÇÃO SOBRE A CONDENAÇÃO. SENTENÇA QUE MERECE REFORMA POR VIOLAR A COISA JULGADA, VISTO QUE A QUESTÃO REFERENTE AO AUMENTO DE VENCIMENTOS CONCEDIDO NO CITADO PROCESSO ADMINISTRATIVO E A GRATIFICAÇÃO PREVISTA NA LEI ESTADUAL DE 2005 FOI DEVIDAMENTE APRECIADA POR ESTA CÂMARA JULGADORA EM ACÓRDÃO PROFERIDO NOS AUTOS DE Nº 0093480- 83.2007.8.19.0001, NO ANO DE 2010. EXECUÇÃO QUE DEVE SER SUSPENSA, ANTE A CONTROVÉRSIA SOBRE O ÍNDICE DE CORREÇÃO MONETÁRIA SOBRE A CONDENAÇÃO, TENDO EM VISTA O DECIDIDO PELO STF NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO 870.947/SE, DJE 26/09/2018. RECURSO PARCIALMENTE ACOLHIDO.
+Quanto à controvérsia, alega violação do art. 1.022 do CPC, no que concerne à necessidade da análise da pretensão efetivamente formulada nos embargos à execução, trazendo os seguintes argumentos:
+No bojo do processo principal, de nº 0093480-83.2007.8.19.0001, os então réus Fundação DER/RJ e Rioprevidência foram condenados a pagar aos autores a gratificação instituída pelo processo administrativo E-12/150119/2000.
+Com o trânsito em julgado da decisão, iniciou-se a execução referentes à referida gratificação.
+A Fundação DER/RJ e Rioprevidência interpuseram Embargos à Execução apontando algumas irregularidades nos cálculos de execução, dentre elas a não-dedução de gratificação similar que já havia sido paga em parte do período de execução (index 2 dos autos).
+O pedido formulado nos Embargos à Execução foi acolhido por sentença exarada pela 9ª Vara de Fazenda Pública (index 66 dos autos), que ressaltou a importância de descontar dos cálculos de execução os valores recebidos a título de gratificação similar, como se verifica deste trecho (nossos os grifos):
+ ..
+A sentença foi reformada por acórdão da Décima Primeira Câmara Cível do Tribunal de Justiça do RJ, que, por total equívoco, considerou que o desconto da gratificação já paga decorria do artigo 14 da Lei de nº 4.688/2005, cuja aplicação já tinha sido afastada pelo título executivo judicial (index 118 dos autos).
+O vício foi apontado pelas entidades públicas em embargos de declaração (index 140 dos autos), cujo fundamento por ser resumido neste trecho (nossos grifos):
+"Os embargos à execução foram interpostos para que fosse decotado do valor apresentado pelos autores parcelas lá recebidas PELO MESMO TITULO, e não pelo disposto na Lei nº 4.688/05, como entendeu o v. acórdão.
+O v. acórdão ao limitar-se a tratar da questão como se apenas se relacionasse com o disposto na Lei 4.688/2005 se apresenta omisso pois não apreciou os argumentos de que as gratificações já foram pagas aos autores e, por tal razão, deverão ser descontados do valor a pagar pois negar tal fato implicaria pagamento em bis in idem."
+ ..
+Ora, ao rejeitar embargos de declaração corretamente opostos, recusando-se a sanar os vícios neles apontados, incorreu o acórdão em afronta aos incisos do artigo 1022 do Código de Processo Civil.
+ ..
+Os embargos à execução foram opostos para que, nos cálculos de execução da gratificação do processo administrativo E-12/150119/2000, fossem deduzidos os valores da gratificação do processo administrativo E-12/0841/1993, estes efetivamente pagos aos exequentes, já que uma substituiu a outra.
+Em suma, a pretensão dos embargantes tinha por objetivo evitar pagamento dobrado de gratificações da mesma natureza.
+O acórdão que julgou o recurso de apelação se referiu a pedido totalmente diverso do efetivamente formulado na inicial, pedido este supostamente fundamentado no artigo 14 da Lei estadual de nº 4.688/2005, cuja transcrição abaixo se encontra na sentença do index 66 dos autos.
+ ..
+Em suma, o dispositivo acima não tem nenhuma relação com a dedução de valores já pagos por gratificações similares, postulada nestes Embargos à Execução.
+O dispositivo foi utilizado, no processo principal, para fundamentar a condenação à implantação da gratificação no contracheque (obrigação de fazer) - fls. 158-160.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
