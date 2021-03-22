@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIA SARITA TABORDA à decisão de fls. 596/597, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O presente procurador juntou as fls. 581/583 e 585/591 os documentos necessários a comprovação do correto recolhimento de custas processuais, antes mesmo da necessária renovação nas intimações realizadas, visto que, conforme informado, há certidão nos autos de fls. 578, a qual tornou sem efeito tais publicações.
+Desta forma, requer se manifeste este E. Tribunal em razão do erro ocorrido nas certificações de publicações, conforme certidão de fls. 578, visto que a decisão de fls. 596/597 contrariam a referida certidão, o que pode gerar grande prejuízo a parte Embargante.
+Em reconhecido o erro ocorrido em publicação, conforme certidão de fls. 578, requer seja sanada a contradição e omissão apontadas, sejam recebidos os documentos juntados as fls. 581/583 e 585/591 e o regular processamento do presente Agravo de Instrumento em Recurso Especial (fl. 600).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Como já consignado na decisão ora embargada, que agora se repete, e ao contrário do afirmado pela parte, há divergência entre o número constante no código de barras das guias de preparo e seus respectivos comprovantes de pagamento (fls. 428/429).
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a parte protocolou intempestivamente as petições de fls. 581/584 e 585/592, ocorrendo a preclusão temporal.
+Ademais, não procede a alegação da parte de que houve erro na publicação do despacho de fl. 573. Veja-se que a certidão de fl. 578 refere-se a erro ocorrido na intimação do Ministério Público Federal de fl. 577. Desse modo, à fl. 579 consta o termo de ciência devidamente corrigido. Observe-se, ainda, que consta nos autos (fl. 575) documento certificando que a parte não se manifestou quanto ao despacho de fl. 573.
+Portanto, correta aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
