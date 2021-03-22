@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS, contra acórdão do Tribunal de Justiça do referido Estado, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL - DECISÃO JUDICIAL - NECESSÁRIA MOTIVAÇÃO - NULIDADE - MANUTENÇÃO DA DECISÃO AGRAVADA:
+- Deve ser nulificada decisão judicial que carece de necessária fundamentação, violando regras constitucionais.
+RECURSO CONHECIDO E IMPROVIDO" (fl. 372e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art.17, §§ 9º e 10, da Lei 8.429/92, sustentando que "a decisão que recebe a inicial da ação civil de improbidade administrativa pode e deve ser sucinta, até porque ocorre em favor do interesse público e social, diversamente do que ocorre quando a decisão é pela rejeição liminar desta ação, uma vez que o interesse público e social deve ser pormenorizadamente convencido da inexistência dos atos de improbidade", de modo que "não se há falar em carência de fundamentação na decisão originária, ou necessidade de fundamentação pormenorizada, admitindo-se decisão com fundamentação sucinta"(fl. 420e).
+Por fim, requer o provimento do recurso, "reformando-se o acórdão recorrido, permitindo-se assim o prosseguimento da ação originária de improbidade administrativa, tendo-se como recebida a inicia" (fl. 421e).
+Sem contrarrazões, oRecurso Especial foi admitido pelo Tribunal de origem.
+A irresignação não merece prosperar.
+Na análise da presente controvérsia, o Tribunal de origem consignou que a decisão do Juízo de 1º Grau, "ao receber a petição inicial da ação de improbidade administrativa se furtou de fundamentar sua decisão, ainda que minimamente" e que "a jurisprudência nacional é uníssona a respeito da necessidade de fundamentação em decisão dessa natureza" (fl. 375e).
+Com efeito, "consoante reiterado entendimento do Superior Tribunal de Justiça, na ação de improbidade administrativa, deve o magistrado singular, ainda que de forma concisa, fundamentar o recebimento ou rejeição da petição inicial"(STJ, AgRg no Ag 1.388.541/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA,DJe de 02/08/2011).
+A propósito, ainda, o seguinte precedente:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. OMISSÃO NÃO CARACTERIZADA. ARTIGOS 17, §§ 7º, 8º E 9º, DA LEI N.8.429/1992.RECEBIMENTO DA INICIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE.
+1. Constado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação dos artigos 458, inciso II, e 535 do CPC.
+2. A jurisprudência desta Corte é no sentido de que "o exame das questões aduzidas no contraditório preliminar, que antecede o recebimento da petição inicial da ação civil de improbidade (§§ 8º e 9º do art. 17), assume relevância ímpar, à medida em que o magistrado, convencido da inexistência do ato de improbidade, da improcedência da ação ou da inadequação da via eleita, pode, inclusive, rejeitar a ação (§ 8º, art. 17), ensejando a extinção do processo." (REsp 901.049/MG, Rel. Min. Luiz Fux, Primeira Turma, DJe 18/02/2009).
+3. No caso, verifica-se a nulidade da decisão que recebeu a inicial da ação civil pública, tendo em vista a total ausência de fundamentação, na medida em que limitou-se a dizer "de acordo com os documentos, recebo a inicial, cite-se", deixando de apreciar, ainda que sucintamente, os argumentos aduzidos pelo ora recorrente em sua defesa prévia.
+4. Agravo regimental provido"(STJ, AgRg no REsp 1.423.599/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/05/2014).
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
