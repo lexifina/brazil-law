@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por DANILO JORGE FERNANDES contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões recursais, aduz a defesa violação do art. 33, § 2º, "b" e "c", do Código Penal.
+Alega que recorrente faria jus ao cumprimento da pena privativa de liberdade no regime menos gravoso, na medida em que, primário, fora condenado a pena inferior a 8 anos de reclusão, devendo ser observado o disposto nas Súmulas 718 e 719 do STF.
+Requer o provimento do recurso, "a fim de que seja fixado um regime diverso do fechado para início do cumprimento da reprimenda" (e-STJ, fl. 260).
+Apresentadas as contrarrazões (e-STJ, fls. 264-270), o recurso foi inadmitido com fundamento naSúmula283 do STF (e-STJ, fls. 273-274). Daí este agravo (e-STJ, fls. 279-282).
+O Ministério Público Federal opina pelo conhecimento do agravo para negar seguimento ao recurso especial(e-STJ, fls. 304-308).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Consta dos autos que o recorrente foi condenado como incurso nas sanções do art. 157, § 2º, I, do Código Penal, às penas de 5 anos e 4 meses de reclusão, mais multa.
+O Tribunal de origem manteve o regime inicial fechado para o cumprimento da pena, tendo em vista que a pena foi superior a 4anos de reclusão, e o agravante possui maus antecedentes (cinco condenações definitivas), tanto que a pena-base foi estabelecida acima do mínimo legal (e-STJ, fls. 235-237).
+Com efeito, tem-se que foi devidamente fundamentado o regime mais gravoso para o início do cumprimento da pena privativa de liberdade, em razão da existência de circunstância judicial desfavorável (maus antecedentes).
+Sobre o tema, com destaques:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. INEXISTÊNCIA DE BIS IN IDEM. FUNDAMENTOS DIVERSOS PARA A ELEVAÇÃO DA PENA-BASE E AFASTAMENTO DA MINORANTE. ALEGAÇÃO DE OCORRÊNCIA DO INDEVIDO BIS IN IDEM EM RELAÇÃO AO AGRAVAMENTO DO REGIME PRISIONAL. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na esteira da orientação jurisprudencial desta Corte, rememoro que, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+ ..
+3. Embora o agravante tenha sido condenado à reprimenda inferior a 8 (oito) anos de reclusão, o regime inicial mais severo foi mantido, notadamente pela presença de circunstância judicial desfavorável, tanto que a pena-base foi fixada acima do mínimo legal, razão pela qual inexiste ilegalidade na manutenção do regime inicialmente fechado para cumprimento da sanção.
+4. A defesa inovou ao alegar a ocorrência de bis in idem também em relação ao regime prisional, sob o argumento de terem sido utilizados os mesmos fundamentos para elevar a pena-base, afastar a minorante e estabelecer o regime inicialmente fechado para cumprimento da sanção imposta ao réu. Logo, tal alegação não deve ser enfrentada no presente recurso por se tratar de indevida inovação recursal.
+5. Agravo regimental desprovido."
+(AgRg no HC 602.803/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 10/03/2021).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.ROUBO MAJORADO. DOSIMETRIA. REGIME PRISIONAL. FECHADO.POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA E PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL QUE ELEVOU A PENA-BASE ACIMA DO MÍNIMO LEGAL.PRECEDENTES. INCIDÊNCIA DAS SÚMULAS 718 E 719 DO SUPREMO TRIBUNAL FEDERAL E 440 DESTA CORTE SUPERIOR. DESCABIMENTO. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade"(HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+III - Sendo o paciente primário, fixada a pena-base no mínimo legal e considerada como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto mostrar-se-ia mais adequado para o resgate da reprimenda, nos termos do art. 33, § 2º, "b", do Código Penal. Por outro lado, denota-se que não assiste razão a impetrante. Isso porque, diante da fundamentação oferecida pelo v. acórdão impugnado, não verifico a apontada ilegalidade na fixação do regime inicial fechado, uma vez que há, nos autos, dados fáticos suficientes a indicar a gravidade concreta do crime.
+IV - Não se trata de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, o que ensejaria violação dos enunciados das Súmulas n.440/STJ, n. 718/STF e n. 719/STF.
+V - A jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena.
+VI - Segundo pacífica jurisprudência desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado.
+Habeas corpus não conhecido."
+(HC 628.112/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ,conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
