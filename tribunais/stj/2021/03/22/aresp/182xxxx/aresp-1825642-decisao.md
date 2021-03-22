@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO EXECUÇÃO FISCAL IPTU DE 2013 E 2014 EXCEÇÃO DE PRÉEXECUTIVIDADE MUNICÍPIO DE SÃO PAULO CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL REGISTRADO EM JULHO DE 2013 ILEGITIMIDADE PASSIVA AD CAUSAM DO CREDOR FIDUCIÁRIO RECORRENTE QUE TEM APENAS A PROPRIEDADE RESOLÚVEL E POSSE INDIRETA DO BEM TRIBUTADO PRECEDENTES DESTA CÂMARA RECURSO PROVIDO.
+Quanto à controvérsia suscitada, alega violação dos arts. 34 do CTN e 27, § 8º, da Lei n. 9.514/1997, no que concerne à necessidade de considerar-se o credor fiduciário como proprietário do bem para fins de pagamento de IPTU, trazendo o seguinte argumento:
+O E. Tribunal a quo, decidiu por bem que, o Banco Agravante, na figura de credor fiduciário, não é contribuinte de IPTU, em razão da aplicação à espécie do disposto no artigo 27, § 8, da Lei n 9.514/97, exceção à regra prevista no artigo 123 do Código Tributário Nacional.
+No entanto houve equívoco na interpretação da norma.
+Ora, como se demonstrou exaustivamente nos autos, o credor fiduciário é contribuinte do IPTU e deve figurar no polo passivo da ação de execução fiscal. Com a devida vênia, não se pode concluir que o artigo 27, parágrafo 8º, da Lei 9.514/97 seja uma exceção à determinação contida no artigo 123 do Código Tributário Nacional.
+A começar pela ordem hierárquica das leis, uma Lei Ordinária (Lei 9514/1997) não pode contrariar uma disposição reservada a Lei Complementar (Código Tributário Nacional), sob pena de flagrante inconstitucionalidade.
+As convenções particulares, de acordo com o Código Tributário Nacional, são inoponíveis à Fazenda Pública.
+Eventual exceção deve ser objeto de lei complementar e não admitiria mudança por lei ordinária.
+Isso porque, o artigo 146, inciso III, alínea "a", da Constituição Federal dispõe que cabe à lei complementar estabelecer normas gerais em matéria de legislação tributária, especialmente sobre definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados na própria Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes.
+Ora, se apenas a lei complementar pode dispor a respeito de fatos geradores, bases de cálculo e contribuinte, a lei ordinária nº 9.514/1997 não poderia inovar e alterar a questão do sujeito passivo do IPTU nos contratos de alienação fiduciária.
+Por conclusão, eventual exceção à regra do artigo 123 do Código Tributário Nacional que objetivasse alterar o sujeito passivo do tributo só poderia ser feita por lei complementar (fls. 161-162).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, é incabível o recurso especial, uma vez que a tese recursal apresenta conflito entre lei ordinária e lei complementar, o que evidencia o caráter eminentemente constitucional da demanda.
+Nesse sentido: "É firme nesta Corte o entendimento no sentido de que o conflito entre lei ordinária e lei complementar não dá ensejo à interposição de Recurso Especial, por envolver discussão de índole eminentemente constitucional". (AgInt no AREsp 1.298.980/DF, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 12/5/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp 1.337.343/PE, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 14/8/2020; AREsp 1.543.812/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019; AgRg no REsp 828.779/RJ, relator Ministro Teori Albino Zavascki, Primeira Turma, DJe de 19/4/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
