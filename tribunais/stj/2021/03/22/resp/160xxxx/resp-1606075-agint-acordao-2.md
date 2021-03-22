@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DESLIZAMENTO DE ENCOSTAS DE MORRO. PEÇA INICIAL. INÉPCIA. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PRECEITO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Na esteira jurisprudencial desta Corte, não é inepta a inicial que apresenta causa de pedir compreensível, formula pedido certo e determinado e possibilita a defesa do réu ou a efetiva entrega da prestação jurisdicional (AgRg no REsp n. 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, e AgRg no REsp 1071521/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 05/08/2014).
+3. Em ação civil pública movida para minimizar risco de desabamento e/ou deslizamento em área de Morro localizado na cidade do Rio de Janeiro, o Tribunal local, após transcrever o petitório no acórdão impugnado, não constatou mácula na inicial, visto que "o pedido do autor preenche os requisitos indispensáveis à propositura da demanda, o seu teor é perfeitamente compreensível e o seu objeto está bem delimitado (..), sendo certo que os réus puderam exercer sem dificuldade o seu direito de defesa."
+4. Dirimida a lide sem qualquer menção aos dispositivos legais mencionados no apelo nobre, carece o recurso do indispensável prequestionamento, o que faz incidir, por analogia, o óbice da Súmula 282 do STF.
+5. Não cabe a esta Corte Superior examinar na via especial suposta violação de dispositivos ou princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por MUNICÍPIO DO RIO DE JANEIRO contra decisão de minha lavra, em que não conheci do recurso especial, em face do entendimento firmado nesta Corte e da incidência das Súmulas 282 do STF e 7 do STJ, além da impossibilidade de conhecer de irresignação fundada em suposta afronta a preceito constitucional (e-STJ fls. 1.193/1.198).
+Aduz a parte agravante (e-STJ fls. 1.227/1.232), inicialmente, que o recurso aviado "não visa discutir provas, pelo contrário, visa apenas definir a aplicação das regras do CPC/73, questão unicamente de direito, que foi devidamente prequestionada, por ter sido aduzida e debatida desde a contestação".
+Em seguida, afirma que "não são aplicáveis ao caso os precedentes que indicaram a possibilidade de formulação de pedido genérico quando não for possível delimitar as consequências do ato, ou seja do quantum debeatur."
+Quanto ao mais, assevera que a matéria foi devidamente prequestionada e que a menção do art. 2º da CF nas razões recursais ocorreu "como reforço argumentativo."
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 1.245/1.253.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DESLIZAMENTO DE ENCOSTAS DE MORRO. PEÇA INICIAL. INÉPCIA. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PRECEITO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Na esteira jurisprudencial desta Corte, não é inepta a inicial que apresenta causa de pedir compreensível, formula pedido certo e determinado e possibilita a defesa do réu ou a efetiva entrega da prestação jurisdicional (AgRg no REsp n. 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, e AgRg no REsp 1071521/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 05/08/2014).
+3. Em ação civil pública movida para minimizar risco de desabamento e/ou deslizamento em área de Morro localizado na cidade do Rio de Janeiro, o Tribunal local, após transcrever o petitório no acórdão impugnado, não constatou mácula na inicial, visto que "o pedido do autor preenche os requisitos indispensáveis à propositura da demanda, o seu teor é perfeitamente compreensível e o seu objeto está bem delimitado (..), sendo certo que os réus puderam exercer sem dificuldade o seu direito de defesa."
+4. Dirimida a lide sem qualquer menção aos dispositivos legais mencionados no apelo nobre, carece o recurso do indispensável prequestionamento, o que faz incidir, por analogia, o óbice da Súmula 282 do STF.
+5. Não cabe a esta Corte Superior examinar na via especial suposta violação de dispositivos ou princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+6. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerada essa premissa, observo que, nada obstante os argumentos expendidos, a decisão agravada não merece retoque.
+Com efeito, os autos versam sobre "Ação Civil Pública ajuizada pelo Ministério Público do Estado do Rio de Janeiro em face do Município do Rio de Janeiro e do Estado do Rio de Janeiro, sustentando, em síntese, a existência de risco de desabamento e/ou deslizamento em área na comunidade do Morro do Caracol, bem como a ausência de política pública para minimizar tais riscos na localidade em questão." (e-STJ fl. 836).
+Segundo o aresto recorrido, pediu-se na inicial a condenação solidária dos réus na implementação das seguintes providências: (i.) executar plano de medidas de engenharia, geotecnia e intervenção urbanística, nas áreas classificadas como de alto risco de escorregamentos e deslizamentos, delimitada no laudo técnico em anexo; (ii.) recuperar toda extensão da área desmatada, no interior e no entorno da Comunidade Morro do Caracol; (iii.) implementar rede de saneamento básico; (iv.) fiscalizar toda área em óbice, com medidas suficientes para evitar novas ocupações irregulares e desmatamento.(e-STJ fl. 836).
+No primeiro grau, a demanda foi julgada improcedente em relação ao Município/agravante e extinto sem resolução do mérito em relação ao Estado do Rio de Janeiro, em face de sua ilegitimidade passiva ad causam.
+O Tribunal de origem, no aresto que apreciou os apelos (e-STJ fls. 831/848), reformou a sentença para "reconhecer a legitimidade passiva do Estado do Rio de Janeiro e determinar a adoção das medidas requeridas na inicial, no prazo de 180 dias, sob pena de multa diária no valor de R$ 25.000,00 (vinte e cinco mil reais) para cada réu. "(e-STJ fl. 846).
+Acerca da alegação de inépcia da inicial e da formulação de pedido genérico, teceu a seguinte fundamentação (e-STJ fls. 837/839):
+Diante destas considerações, passamos a enfrentar a argumentação de inépcia da inicial e de que o pedido é genérico.
+Com efeito, o artigo 286, do Código de processo Civil, dispõe que o pedido deve ser certo ou determinado, sendo lícito formular pedido genérico, nas seguintes hipóteses:
+I - nas ações universais, se não puder o autor individuar na petição os bens demandados;
+II - quando não for possível determinar, de modo definitivo, as consequências do ato ou fato ilícito;
+III - quando a determinação do valor da condenação depender de ato que deve a ser praticado pelo réu.
+E, de acordo, com o artigo 295, do Código de Processo Civil, a petição inicial será indeferida:
+I - quando for inepta. (..)
+Parágrafo único - Considera-se inepta a petição inicial quando: I - lhe faltar pedido ou causa de pedir; II - da narração dos fatos não decorrer logicamente a conclusão; III - o pedido for juridicamente impossível; IV - contiver pedidos incompatíveis entre si.
+No caso, não se vislumbra que a inicial seja inepta e nem que o pedido seja genérico, posto que o pedido do autor preenche os requisitos indispensáveis à propositura da demanda, o seu teor é perfeitamente compreensível e o seu objeto está bem delimitado.
+(..).
+De acordo com esta orientação, não vislumbro qualquer mácula na petição inicial, sendo certo que os réus puderam exercer sem dificuldade o seu direito de defesa. (grifos acrescidos).
+Na sua peça recursal, o Município sustenta que a inicial "veicula pedido indeterminado, em favor da tutela do direito coletivo", pois impôs a adoção de "providências que não se sabe quais sejam" (e-STJ fls. 971/972).
+No ponto, verifico que, de fato, o exame da questão, no caso concreto, não desafia o revolver do suporte fático-probatório dos autos, a atrair o óbice estampado na Súmula 7 do STJ.
+Nada obstante, da análise dos pedidos formulados na inicial que foram transcritos no acórdão recorrido, não constato indeterminação ou generalidade a ensejar a inépcia da peça inicial, como bem constatado pela Corte local.
+Isso porque esta Corte Superior não considera existir violação dos artigos 286 e 295, parágrafo único, do CPC/1973, quando há causa de pedir compreensível, pedido certo e possível formulado, fatos narrados determinando conclusão lógica (AgRg no REsp 1071521/SP, rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 05/08/2014).
+Ademais, a inépcia da petição inicial, "escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (AgRg no REsp n. 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014).
+Ora, como visto acima, o Tribunal estadual não vislumbrou mácula na inicial, visto que "o pedido do autor preenche os requisitos indispensáveis à propositura da demanda, o seu teor é perfeitamente compreensível e o seu objeto está bem delimitado (..), sendo certo que os réus puderam exercer sem dificuldade o seu direito de defesa." (e-STJ fls. 837/839).
+Quanto ao cerceamento de defesa, alegado como "consequência direta da indeterminação do pedido" (e-STJ fl. 973), da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre os arts. 128, 130, 330, I, e 460 do CPC/1973, tidos por violados, tampouco foram opostos embargos de declaração para fins de prequestionamento, incidindo, assim, as Súmulas 282 e 356 do STF.
+No mais, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
