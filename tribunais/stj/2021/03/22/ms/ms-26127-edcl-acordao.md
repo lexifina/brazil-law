@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO JURISDICIONAL DA SEGUNDA TURMA. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA. AO REVÉS, DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA PACÍFICA DO STJ. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. IMPETRAÇÃO LIMINARMENTE INDEFERIDA. AGRAVO INTERNO DESPROVIDO. ALEGADAS OMISSÕES. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não se prestam os embargos de declaração, recurso de natureza integrativa, a analisar suposta contradição em outro julgado.
+2. Sob o argumento de que haveria "omissão" no acórdão embargado, os Embargantes buscam, indisfarçavelmente, a reapreciação de questão já oportunamente analisada e decidida, o que não se coaduna com a via eleita.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos pelo Advogado MANOEL MORENO BILTGE, em causa própria, e DEBORAH MONTE BILTGE contra acórdão desta Corte Especial, por mim relatado, e ementado nestes termos:
+"AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO DA SEGUNDA TURMA QUE DESPROVEU O AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL, MANTENDO DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSO POR INTEMPESTIVIDADE. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA. AO REVÉS, DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA PACÍFICA DO STJ. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. IMPETRAÇÃO LIMINARMENTE INDEFERIDA. DECISÃO MANTIDA EM SEUS PRÓPRIOS TERMOS. AGRAVO INTERNO DESPROVIDO.
+1. "Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo. Precedentes da Corte Especial (AgInt nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2016, DJe 07/02/2017).
+2. O acórdão ora impugnado, no mesmo diapasão da jurisprudência desta Corte, ressaltou que, "no caso, a decisão que, na origem, inadmitira o Recurso Especial, fora devidamente fundamentada, no sentido de que a pretensão recursal esbarraria no óbice da Súmula 7/STJ. Assim, não sendo tal decisum manifestamente genérico ou deficitário de fundamentação, não há motivo para excepcionar, no caso, a regra do não cabimento dos Embargos de Declaração contra a decisão que inadmite o Recurso Especial."
+3. Inexistência de ilegalidade patente, tampouco teratologia, que pudesse viabilizar a excepcionalíssima via mandamental.
+4. Agravo interno desprovido."
+Alegam os Embargante que há omissões no julgado. Apontam, primeiro, para "erro material" contido no AgRg no AREsp 19.182/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 27/09/2011, DJe 04/10/2011, porque, segundo entendem, teria havido contradição em sua fundamentação, o que "acabou por subverter a real jurisprudência do Superior Tribunal de Justiça" (fl. 284).
+Ressaltam que "a segunda omissão se refere  ..  ao fato de o acórdão embargado ter concluído que a decisão de inadmissão do recurso especial no Tribunal de origem não era tão genérica a permitir a oposição dos embargos, nos termos do Agint nos EREsp 166.402/PE, relatado pelo Ministro LUIZ FELIPE SALOMÃO" (fl. 286), argumentando que é "impossível existir uma decisão mais genérica do que essa: serve para tudo."
+Requerem, assim, o acolhimento dos embargos de declaração, com efeitos modificativos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO JURISDICIONAL DA SEGUNDA TURMA. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA. AO REVÉS, DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA PACÍFICA DO STJ. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. IMPETRAÇÃO LIMINARMENTE INDEFERIDA. AGRAVO INTERNO DESPROVIDO. ALEGADAS OMISSÕES. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não se prestam os embargos de declaração, recurso de natureza integrativa, a analisar suposta contradição em outro julgado.
+2. Sob o argumento de que haveria "omissão" no acórdão embargado, os Embargantes buscam, indisfarçavelmente, a reapreciação de questão já oportunamente analisada e decidida, o que não se coaduna com a via eleita.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, como é sabido e consabido, não se prestam os embargos de declaração, recurso de natureza integrativa, a analisar suposta contradição em outro julgado.
+Com efeito, " o  vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (EDcl no AgInt nos EAREsp 1125072/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 14/03/2019, DJe 02/04/2019).
+No mais, a suposta "segunda omissão" denota mero descontentamento com a decisão e pretensão de rejulgamento da questão, o que não se coaduna com a via eleita, conforme farta e uníssona jurisprudência desta Corte Superior.
+"A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito  .. " (EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 13/08/2019, DJe 28/08/2019).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
