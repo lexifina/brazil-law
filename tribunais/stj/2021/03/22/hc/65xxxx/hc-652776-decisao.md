@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  GUILHERME CAMPOS DE MACEDO  contra  decisão liminar proferida por Desembargador do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  (HC  n.  2027678-24.2021.8.26.0000).
+Consta  dos  autos  que  o  Juízo  das  Execuções  Criminais  indeferiu  o  pedido  de  prisão domiciliar,  formulado  em  benefício  do  sentenciado, determinando a expedição de mandado de prisão, ante sua condenação em regime fechado  (e-STJ,  fl.  61).
+A  defesa,  então,  insatisfeita,  impetrou  habeas  corpus  perante  a  Corte  estadual,  pugnando,  dentre  outros  argumentos,  pela  aplicação  da  Recomendação  n.  62  do  Conselho  Nacional  de  Justiça.  O  Desembargador,  contudo,  indeferiu o pedido liminar (e-STJ,  fl.  71).
+Nesta impetração, a defesa alega que o paciente é portador de doença respiratória crônica e teve sua prisão domiciliar excepcional revogada pelo juízo da 4ª Vara de Execução da Capital/SP.
+Argumenta que não é necessário que o preso em crise respiratória ou em situação de saúde precária prove a vulnerabilidade, porque a doença respiratória em si já causa esse estado.
+Nesse sentido, pleiteia, de forma urgente, que seja expedido salvo conduto ao paciente, bem como concedida a prisão domiciliar.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DA SÚMULA N. 691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO. 1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF. 2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem. 3. Agravo regimental desprovido(AgRg no HC n. 529.007/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe 23/9/2019).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Consignou a Corte de origem, in verbis (e-STJ, fl. 7):
+ ..
+Indefere-se a liminar.
+Impossível a concessão daquilo que se requer, uma vez que, pela via provisória da decisão liminar, não se tem elementos seguros para avaliar e eventualmente cassar a decisão judicial que determinou o recolhimento do paciente ao cárcere para o cumprimento da pena.
+A medida liminar em habeas corpus é cabível quando o constrangimento ilegal é manifesto e detectado de imediato através do exame sumário da inicial, o que não ocorre no presente caso, em que se faz necessária a verificação dos motivos que serviram para determinar a segregação do paciente.
+A rigor, a matéria deveria ser objeto de agravo de execução, recurso adequado ao exame da pretensão, com análise profunda de provas e documentos. Contudo, com a vinda das informações, a colenda Turma Julgadora terá elementos para avaliar se há constrangimento a ser reconhecido, examinando o pleito.
+Requisitem-se as informações, remetendo-se os autos, em seguida, à douta Procuradoria Geral de Justiça
+ ..
+Por certo, todas as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar ( em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ressalte-se que, na hipótese vertente, mostram-se, efetivamente,necessárias informações doJuízodasexecuçõesacerca de todas as circunstâncias em que o crime foi praticado. Impende registrarque foram apreendidos 49 ""tijolos"" de ""maconha"", totalizando47 quilos e 5 gramas de drogas, prontos para serem comercializados, o que ocasionou a condenação do ora paciente ao cumprimento de pena no regime fechado.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmenteo presentehabeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
