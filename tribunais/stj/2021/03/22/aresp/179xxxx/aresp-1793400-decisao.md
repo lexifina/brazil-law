@@ -1,0 +1,27 @@
+DECISÃO
+CARLOS ALBERTO CIMINO (CARLOS) ajuizou ação de prestação de contas contra LÚCIO RICARDO VERANE FILHO (LÚCIO), alegando, em suma, queo seu advogadorecebeu dois alvarás, sendo um no valor de R$ 6.817,09, recebido em dezembro de 2008, e outro no valor de R$ 6.702,89, recebido em março de 2010, e só lhe repassou R$ 8.000,00, sem lheprestar contas.
+Em primeira instância, as contas apresentadas por LÚCIO foram homologadas por inexistir saldo pendente em favor de CARLOS. A segunda fase da ação de prestação de contas foi julgada extinta e CARLOS foi condenado ao pagamento dascustas processuais e honorários advocatícios fixadosem 15% sobre o valor atualizado da condenação, ficando suspensa a execução da sucumbência em virtude da justiça gratuita deferida (e-STJ, fls. 372/376).
+Os embargos de declaração opostos foram acolhidos para corrigir erro material no dispositivo sentencial no tocante ao arbitramento de honorários advocatícios e à revogação do benefício da gratuidade processual (e-STJ, fls. 388/389).
+A apelação interposta por CARLOS foi provida pelo TJRS nos termos do acórdão, assim ementado:
+AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA "FASE. MANDATO. CASO CONCRETO. MATÉRIA DE FATO. CONJUNTO FÁTICO PROBATÓRIO QUE DENOTA A EXISTÊNCIA DE SALDO CREDOR EM FAVOR DO AUTOR. AUSÊNCIA DE ELEMENTOS QUE AMPAREM AS ARGÜIÇÕES DO RÉU MANDATÁRIO. APELO PROVIDO (e-STJ, fl. 407).
+Os embargos de declaração opostos por LÚCIO foram desacolhidos (e-STJ, fls. 428/433).
+Irresignado, LÚCIO interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 373. I,374, I, 375, 489, I, II e § 1º, IV, e 1022do NCPC e art. 22, §2º, do Estatuto da OAB, sustentando que(1)houve deficiência na fundamentação e negativa de prestação jurisdicional no tocante aos dispositivos legais e teses apontadas para o deslinde da controvérsia;(2) o ônus da prova é da parte recorrida que, por sua vez,não demonstrouque contratou honorários de 10%. Afirmou que a alegação de contratação verbal, comalteração da condição pactuada,não foi comprovada, sendo legítima e razoável a cobrança dos honorários no patamar de 20% previstos na tabela da OAB(e-STJ, fls. 436/461).
+Não foram apresentadas as contrarrazões (e-STJ, fls. 464/465).
+O apelo nobre não foi admitido em virtude da (1) ausência de ofensa aos arts. 489, I, II e § 1º, IV, e 1022 do NCPC; (2) incidência daSúmulanº7 do STJ no tocante às questões acerca do ônus da prova (art. 373 do NCPC); (3) incidência da Súmula nº 211 do STJ no que tange à falta de prequestionamento dos arts. 374 e 375 do NCPCe, (4) incidênciada Súmula nº 83 do STJ por estar em consonância com a jurisprudência do STJ de quea tabela organizada pelo Conselho Seccional da OAB possui natureza orientadora e não vinculativa (e-STJ, fls. 466/478).
+Nas razões do presente agravo em recurso especial, LÚCIO afirmou que (1) houve ofensa aos arts. 489, § 1º, e 1022, II e III,do NCPC; e, (2) aSúmula nº 7 do STJ é inaplicável ao caso por ser desnecessário o revolvimento do conjunto fático-probatório. No mais, repisou as razões contidas no recurso especial (e-STJ, fls. 480/487).
+Não foi apresentada contraminuta (e-STJ, fl. 498).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois LÚCIO não refutou, de forma arrazoada, a incidência das Súmulas nºs 83 e 211do STJ.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial, que houve ofensa aos dispositivos de lei federal e a Súmulanº 7 do STJ é inaplicável ao caso. No mais,repisou as razões contidas no especial.
+Assim, como não houve a demonstração do adequado enfrentamento dos fundamentos de incidência das Súmulas nºs 83 e 211 do STJ, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto
+Deixo de majorar os honorários advocatícios, porquanto fixados em seu percentualmáximo.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. MANDATO. EXISTÊNCIA DE SALDO EM FAVOR DO AUTOR.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
