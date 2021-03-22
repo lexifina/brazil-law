@@ -1,0 +1,36 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ICMS – SUBSTITUIÇÃO TRIBUTÁRIA – IRRETROATIVIDADE – ANTERIORIDADE – OBSERVÂNCIA – PRECEDENTES – AGRAVO – DESPROVIMENTO.
+    1. O assessor Tiago do Vale prestou as seguintes informações:
+    O Tribunal de Justiça do Estado de São Paulo, ao prover apelação do contribuinte, assentou a impossibilidade de ter-se aplicação retroativa do novo regime de substituição tributária, instituído por meio da legislação local – Decreto nº 61.983/2016 –, proclamando obrigatória a observância da anterioridade nonagesimal. Eis a síntese do acórdão:
+    Apelação Cível – Tributário e Constitucional –  Impetração por empresa contra a sujeição ao Decreto nº 61.983/2016 de forma retroativa – Sentença que julga extinto o processo pela perda superveniente – Recurso da empresa – Provimento de rigor.
+    1. Preliminar da FESP pela carência da ação mandamental – Não ocorrência – Ameaça de lesão a direito líquido e certo – Inexistência de impetração contra lei em tese – Precedentes.
+    2. O Decreto nº 61.983/2016 não pode sujeitar a empresa com a adoção da substituição tributária de forma retroativa na medida em que a adoção do novo regime constitui incontroversa surpresa operacional incompatível com a segurança jurídica do contribuinte além de ofender os princípios da segurança jurídica, da razoabilidade, da irretroatividade e do ato jurídico perfeito. Precedentes.
+    3. Ordem concedida para garantir à empresa impetrante o direito de não se sujeitar às novas regras antes de decorridos 90 dias da vigência do decreto.
+    Sentença reformada – Apelação provida.
+    No recurso extraordinário, ao qual pretende seja dada sequência, o recorrente aponta violado o artigo 150, inciso III, alínea “c” e § 7º, da Constituição Federal. Sustenta impertinente o princípio da anterioridade nonagesimal no que concerne à adoção da técnica da substituição tributária, afirmando-a adstrita à instituição ou majoração de tributos. Sublinha não decorrer da alteração prejuízo ao contribuinte. Argumenta que a cobrança antecipada do ICMS sobre os estoques é forma de regularizar a empresa na transição de regimes.
+    2. O Colegiado local, ao apreciar a sistemática inaugurada pelo Decreto nº 61.983/2016, fez ver, de maneira linear, ter implicado inovação de controle e arrecadação, alcançando operações antes não albergadas pelo regime da substituição. Colho trecho elucidativo da controvérsia:
+    […]
+    Com efeito, o Decreto nº 61.983, de 24 de maio, de 2016, em seu art. 1º, inc. XIII, alínea "q", alterou o disposto no Item 50, do § 1º, do art. 313-Z19, do RICMS/SP, para incluir os projetores comercializados pela empresa Epson Rio de Janeiro Importadora e Exportadora Ltda. no regime de Substituição Tributária (ICMS-ST) e com efeito retroativo a 1º de janeiro de 2016.
+    À evidência que a novel regulamentação constitui inovação na sistemática de controle e arrecadação e que não poderia ser exigível abruptamente e, como no caso, de maneira retroativa.
+    […]
+    Está em jogo questão de envergadura maior, constitucional, relativa ao alcance do versado no artigo 150, inciso III, da Carta da República, a revelar garantias abrangentes aos contribuintes – princípios da anterioridade e irretroatividade.
+    O tema não é novo na jurisprudência do Supremo. Tem-se preceitos a serem observados linearmente ante alteração de regência de tributo, com o fim de evitar sobressalto, surpresa no contribuinte, presente modificação do cenário jurídico – circunstância analogicamente verificada. Confiram os seguintes pronunciamentos:
+    RECURSO EXTRAORDINÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. DERIVADOS DE PETRÓLEO. CONSTITUICIONALIDADE.
+    1. O Plenário desta Corte, ao julgar o RE 213.396 (DJ de 01/12/2000), assentou a constitucionalidade do sistema de substituição tributária “para frente”, mesmo antes da promulgação da EC nº 03/93.
+    2. Alegação de que a aplicação do sistema de substituição tributária no mês de março de 1989 ofenderia o princípio da irretroatividade. Procedência. Embora a instituição deste sistema não represente a criação de um novo tributo, há substancial alteração no sujeito passivo da obrigação tributária.
+    3. Recurso extraordinário conhecido e provido em parte.
+    (Recurso extraordinário nº 266.602, relatora ministra Ellen Gracie, Pleno, publicado no Diário da Justiça de 2 de fevereiro de 2007.)
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 1º DO DECRETO N. 39.647/1999, PELO QUAL ALTERADO O ART. 8º DO REGULAMENTO DO ICMS NO RIO GRANDE DO SUL. INSTITUIÇÃO DE COBRANÇA POR SUBSTITUIÇÃO TRIBUTÁRIA “PARA FRENTE”. MEDIDA CAUTELAR INDEFERIDA PELO PLENÁRIO. CONSTITUCIONALIDADE DA SUBSTITUIÇÃO. PRECEDENTES. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA IMPROCEDENTE.
+    1. Nos termos do § 7º do art. 150 da Constituição da República “a lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido”. Desnecessidade de lei complementar.
+    2. Este Supremo Tribunal já decidiu sobre a legalidade da cobrança antecipada do Imposto sobre Circulação de Mercadorias e Serviços – ICMS no regime de substituição tributária, mensurada segundo o estoque de mercadorias desde que observados os princípios da irretroatividade e da anterioridade geral e nonagesimal.
+    3. As normas impugnadas estabelecem o regime de substituição tributária “para frente”, ou “progressiva” alcançando mercadorias em estoque de profusa distribuição dentro dos Estados como discos, lâminas de barbear, isqueiros, pilhas, baterias elétricas e sorvetes, não se verificando, na espécie, afronta aos princípios da irretroatividade e da anterioridade. 4. Ação direta de inconstitucionalidade julgada improcedente.
+    (Ação direta de inconstitucionalidade nº 2.044, relatora ministra Cármen Lúcia, Pleno, publicado no Diário da Justiça eletrônico de 9 de dezembro de 2019.)
+    IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA – MERCADORIAS EM ESTOQUE – INOVAÇÃO ONEROSA – PRINCÍPIOS DA ANTERIORIDADE E IRRETROATIVIDADE – OBSERVÂNCIA – PRECEDENTES.
+    Promovido aumento indireto do Imposto Sobre Circulação de Mercadorias e Serviços – ICMS por meio da inovação quanto a mercadorias no regime de substituição tributária, alcançadas aquelas em estoque, surge o dever de observância aos princípios da irretroatividade e da anterioridade, geral e nonagesimal, constantes das alíneas “a”, “b” e “c” do inciso III do artigo 150 da Carta. Precedente – Medida Cautelar na Ação Direta de Inconstitucionalidade nº 2.325/DF, de minha relatoria, julgada em 23 de setembro de 2004.
+    (Agravo regimental no recurso extraordinário nº 457.792, de minha relatoria, Primeira Turma, publicado no Diário da Justiça eletrônico de 10 de dezembro de 2015).
+    Levando em conta os precedentes, a adoção da técnica da substituição tributária “para frente” traduz-se em alteração a observar os princípios da irretroatividade e anterioridade, entendimento do qual o pronunciamento recorrido não se distancia.
+    3. Conheço e desprovejo o agravo.
+    4. Publiquem.
+Brasília, 22 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
