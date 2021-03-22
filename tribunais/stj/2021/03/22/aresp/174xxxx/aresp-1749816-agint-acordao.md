@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO RELACIONADO AO FIES. RESPONSABILIDADE DA ALUNA PELO PAGAMENTO. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. OFENSA A PORTARIAS DO MEC. IMPROPRIEDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+1. A responsabilidade da autora pelo pagamento de valores da mensalidade que ultrapassem o limite de crédito do FIES foi apurada com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Esta Corte tem entendimento firmado no sentido de que, em recurso especial, não se pode arguir ofensa a resolução, portaria, regimento interno ou instrução normativa, por não estarem tais atos normativos compreendidos no conceito de tratado ou lei federal, consoante a alínea a do inciso III do art. 105 da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Tatiane Lais Tanahara contra decisão desta relatoria proferida nos termos do seguinte acórdão (e-STJ, fl. 776):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO RELACIONADO AO FIES. RESPONSABILIDADE DA ALUNA PELO PAGAMENTO. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. OFENSA A PORTARIAS DO MEC. IMPROPRIEDADE DA VIA ELEITA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 784-791), alega a insurgente a inaplicabilidade da Súmula 282/STF, tendo em vista que os arts. 6, 30 e 39 do CDC foram devidamente prequestionados.
+Pleiteia pelo afastamento do óbice das Súmulas 5 e 7/STJ, ao argumento de que não há necessidade de prova nem de reexame das cláusulas contratuais para se constatar a inexigibilidade dos débitos oriundos de reajustes superiores àqueles praticados pelo FNDE.
+Por fim, requer a reconsideração da decisão agravada.
+Impugnação apresentada às fls. 796-803 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO RELACIONADO AO FIES. RESPONSABILIDADE DA ALUNA PELO PAGAMENTO. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. OFENSA A PORTARIAS DO MEC. IMPROPRIEDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+1. A responsabilidade da autora pelo pagamento de valores da mensalidade que ultrapassem o limite de crédito do FIES foi apurada com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Esta Corte tem entendimento firmado no sentido de que, em recurso especial, não se pode arguir ofensa a resolução, portaria, regimento interno ou instrução normativa, por não estarem tais atos normativos compreendidos no conceito de tratado ou lei federal, consoante a alínea a do inciso III do art. 105 da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pelarecorrente não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme consta da decisão agravada, a responsabilidade da autora pelo pagamento de valores da mensalidade que ultrapassem o limite de crédito do FIES foi apurada com base nos termos contratuais e nos elementos fáticos que permearam a demanda.
+Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria a análise de cláusulas contratuais e o reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INOVAÇÃO RECURSAL. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. PRECEDENTES. REVISÃO DOS REAJUSTES DAS MENSALIDADES. DISPOSIÇÕES CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF. Precedentes.
+2. O Tribunal de Justiça, com base nas cláusulas do contrato de financiamento estudantil e no acervo fático-probatório carreado aos autos, concluiu pela existência da dívida de responsabilidade da agravante, pois o valor questionado ultrapassava o limite do crédito educacional (FIES). A pretensão de revisar tal entendimento demandaria reexame de cláusulas contratuais e provas documentais, o que é inviável em sede de recurso especial, consoante preconizam as Súmulas 5 e 7, ambas do STJ.
+3. O dissídio jurisprudencial não pode ser conhecido, pois a Corte local concluiu o julgamento com base no conjunto fático-probatório.Impossível se torna o confronto entre o paradigma e o acórdão recorrido.
+4. Agravo interno não provido.
+(AgInt no AREsp 1592493/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 1º/4/2020)
+Outrossim, não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. ACORDO ADMINISTRATIVO. ALEGAÇÃO DE IMPLANTAÇÃO A MENOR EM RAZÃO DE ILEGAL COMPENSAÇÃO DE PROGRESSÃO FUNCIONAL POR FORÇA DA PORTARIA MARE 2.179/1998. ANÁLISE.IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL.EXAME PREJUDICADO.
+1. No tocante à alegada violação dos arts. 166, IV, e 423 do Código Civil e 927, II, do CPC/2015, não há como conhecer da irresignação, pois a controvérsia não foi solucionada pelo acórdão recorrido sob o ângulo dos citados dispositivos, nem foram opostos Embargos de Declaração para suprir suposta omissão. Dessa forma, não se observou o requisito do prequestionamento.
+2. No enfrentamento da matéria, o Tribunal de origem lançou este fundamento: "No caso dos autos, vê-se que a parte autora, usando de sua livre manifestação de vontade, firmou termo de transação judicial através do qual optava pelo recebimento do valor relativo ao pagamento dos 28,86%. Não foi alegado pela parte a existência de qualquer vício no acordo firmado e tampouco logrou a mesma comprovar ter havido irregularidades nos pagamentos recebidos. Assim sendo, e tendo em vista a presunção de legalidade dos atos administrativos, deve-se considerar implementado o reajuste devido".
+3. Dessume-se que aferir a existência de saldo remanescente para a integralização do reajuste de 28,86% impõe reexame do citado acordo administrativo firmado pelo recorrente, as compensações realizadas em decorrência da reestruturação da carreira, bem como os critérios previstos na Portaria MARE 2.179/1998, o que é vedado em Recurso Especial ante os óbices das Súmulas 5/STJ e 7/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1724765/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2020, DJe 18/12/2020)
+Em relação à alegada violação às portarias do Ministério da Educação, constata-se que esta Corte tem entendimento firmado no sentido de que, em recurso especial, não se pode arguir ofensa a resolução, portaria, regimento interno ou instrução normativa, por não estarem tais atos normativos compreendidos no conceito de tratado ou lei federal, consoante a alínea a do inciso III do art. 105 da Constituição Federal.
+Por fim,a tese de inaplicabilidade do óbice da Súmula 282/STF alegada pela agravante encontra-se dissociada dos fundamentos da decisão ora agravada, consistente na incidência das Súmulas 5 e 7/STJ, divergência jurisprudencial prejudicada e impropriedade da via eleita para análise de violação a portaria. Portanto, constata-se a ocorrência deofensa ao princípio da dialeticidade, no ponto.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
