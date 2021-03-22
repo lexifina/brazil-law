@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DIEGO MARTINS CORREA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dodelitotipificado no art. 33, caput, da Lei 11.343/06.
+Nesta Corte, a defesa sustenta não estarem presentes os requisitos para segregação cautelar, tendo as instâncias ordinárias se baseado tão somente na gravidade abstrata do delito.
+Indica que o recorrente responde a crime cometido sem violência ou grave ameaça e que foi apreendidosomente 0,15g de crack.
+Argumenta que "ainda que possua outras condenações já transitadas em julgado, a condição de reincidente, por si só, não ampara a prisão, devendo estar acompanhada de elementos concretos que justifiquem a cautela".
+Argumenta, por fim, pela possibilidade de substituiçãoda prisão preventiva por medidas cautelares diversas, ante o risco de contágio por Covid-19 no ambiente prisional, o qual se encontra superlotado, nos termos da Recomendação n. 62/2020 do CNJ.
+Pleiteia, assim, a revogação da custódia provisória, com a aplicação de medidas cautelares diversas, se for o caso.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+De início, convém destacar que o pedido de revogação da prisão preventiva, à luz da Recomendação n. 62/2020 do CNJ, não foi objeto de cognição pelo Tribunal de origem. Logo, inviável oenfrentamento do tema por esta Corte Superior, sob pena de incorrer em indevida supressão de instância(AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/08/2019, DJe 10/09/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/10/2019, DJe 09/10/2019).
+No mais, o Juiz sentenciante decretou a prisão cautelar sob os seguintes fundamentos:
+"Tratou-se de auto de prisão em flagrante por fato ocorrido no dia 22/10/2020, por volta das 15h,nesta cidade, por prática dos delitos, em tese, de tráfico de drogas e associação para o tráfico de drogas, lavrado em face de DIEGO MARTINS CORREA e LUCAS UILIAN DA ROSAMATTER.O expediente foi homologado por este Magistrado em 22/10/2020, sendo determinada vista à defesa e ao MP, diante do disposto no artigo 311 do Código de Processo Penal e a impossibilidade da realização de custódia em razão do isolamento social imposto pela pandemia do novo Coronavírus.
+Sobreveio manifestação do Ministério Público, pela decretação da prisão preventiva dos flagrados, para garantia da ordem pública.
+Posteriormente, a Defensora Pública apresentou pedido de liberdade provisória ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão. Passo a analisar conversão da prisão em flagrante em preventiva ou concessão de liberdade provisória.
+Verifico que a manutenção da segregação cautelar dos autuados é necessária para garantia daordem pública, diante do risco de reiteração delitiva.
+Quanto às hipóteses de admissibilidade, observa-se que aos detidos são imputadas a prática dos crimes de tráfico de drogas e associação para o tráfico de drogas, pelo que se enquadra no contido no art. 313, inciso I, do Código de Processo Penal. Pelo próprio reconhecimento da situação de flagrância, já se extrai a existência de prova da materialidade e indícios suficientes de autoria. Veja-se que os autuados foram vistos pelos policiais vendendo entorpecentes, tendo sido apreendido dinheiro com Lucas e Diego.
+Além disso, verifica-se que as denúncias de tráfico no local indicado já ocorriam há tempo.
+Tais circunstâncias demonstram, em juízo de cognição sumária, a comercialização de entorpecentes em associação pelos autuados.
+Afora isso, consoante se infere da certidão de antecedentes criminais, Diego possui uma condenação recente por tráfico de drogas, além de responder a expedientes criminais por resistência à prisão e homicídio, demonstrando que a presente acusação não é isolada em sua vida.
+Quanto ao autuado Lucas, embora seja tecnicamente primário, já foi detido anteriormente na posse de entorpecentes, em 19/05/2020, fato que corrobora a versão dada pelos policiais. Diante do exposto, resta demonstrado a ineficácia das medidas cautelares diversas da segregação cautelar bem como o abalo à ordem pública.
+Em face do exposto, indefiro o pedido defensivo e DECRETO A PRISÃO PREVENTIVADE DIEGO MARTINS CORREA e LUCAS UILIAN DA ROSA MATTER, para garantia da ordem pública, nos termos dos artigos 312 e 313, inciso I, todos do Código de Processo Penal.
+Diante da informação trazida pela Defensora Pública, intime-se com urgência a Autoridade Policial para que proceda o imediato encaminhamento dos presos à Casa Prisional. Comunique-se, ainda, a Autoridade Policial, para que remeta a este juízo o inquérito policial em complementação no prazo máximo de 30 dias, contados da prisão.
+Intime-se o MP e a defesa. Diligências legais." (fls. 47-48)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que o decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, pois, conforme posto, o recorrente é reincidente específico, já ostentando condenação pelo delito de tráfico de drogas, além de responder a processo por resistência e homicídio.
+Assim, "apersistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019)
+Ante o exposto, nego provimentoliminarmente ao recurso, diante da ausência de manifesta ilegalidade.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
