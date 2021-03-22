@@ -1,0 +1,12 @@
+DECISÃO
+FELIPE GOMES DA ROCHA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0007007-67.2020.8.26.0996, em que foi mantido o indeferimento do pedido de livramento condicional.
+Com efeito, a Corte de origem, ao preservar a higidez do decisum, apontou que, " d e fato, a lei não exige prévia progressão ao regime intermediário como condição para a obtenção do livramento condicional. Contudo, no presente caso, era mesmo de rigor o indeferimento do livramento condicional, por falta do requisito subjetivo, face às circunstâncias do caso concreto, pois o sentenciado apresenta histórico prisional conturbado, contando com falta disciplinar de natureza grave, consistente em abandono do regime semiaberto concedido anteriormente (fuga em 29/04/2017), revelando tratar-se de pessoa despreparada para o convívio em meio aberto" (fl. 86, destaquei).
+Todavia, a referida infração disciplinar grave foi praticada há mais de 3 anos da data de exame do pedido defensivo (25/6/2020), de modo que não macula, per si, o preenchimento do requisito de ordem subjetiva.
+Consoante o entendimento do Superior Tribunal de Justiça,
+ ..
+3. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+4. O Superior Tribunal de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o Juiz da execução aprecie o pleito do benefício do livramento condicional, nos estritos termos da lei (HC n. 384.838/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 7/4/2017, sublinhei).
+Dessa forma, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de conceder ao paciente o benefício do livramento condicional.
+Publique-se e intimem-se.
