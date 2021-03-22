@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus substitutivoimpetrado em benefício de LEANDRO DA SILVA NUNES MENDES,contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul(Agravo de Execução Penal n. 5092271-35.2020.8.21.7000/RS).
+Infere-se dos autos que o Juízo da Vara de Execuções Criminais indeferiu o pedido de livramento condicional formulado pelo apenado, orapaciente.
+Interposto agravo, pela defesa, o Tribunal a quo negou provimento ao recurso, em julgamento que ficou assim resumido:
+"AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. NÃO IMPLEMENTADO.
+LIVRAMENTO CONDICIONAL. Com relação ao mérito subjetivo do apenado, cediço que o Julgador da execução pode lançar mão de todos os elementos concretos presentes nos autos a fim de formar sua livre convicção, não estando adstrito à comprovação da boa conduta carcerária do reeducando pelo diretor do estabelecimento prisional. Na hipótese, o agravante cumpre pena pela prática de crime cometido com emprego de violência e/ou grave ameaça, bem como registra fugas ocorridas no ano de 2018, o que recomenda maior cautela na outorga do benefício pretendido. Assim, a sua permanência por poucos dias no regime intermediário, aliado ao fato de não ter dado início a qualquer atividade laboral, demonstra ser prematura, por ora, a concessão do livramento condicional.
+PREQUESTIONAMENTO. O Julgador não está obrigado a esgotar os fundamentos e artigos de lei invocados pelas partes, quando suficientemente expostos, de forma clara e precisa, os argumentos de sua convicção.
+Agravo improvido."(fl. 79)
+No presente writ, aimpetrante afirma que foram preenchidos todos os requisitos legais para a concessão do benefício pleiteado.
+Para tanto, alegaque"ultrapassado o período depurador estabelecido em lei (art. 83, inciso III, alínea "b", do Código Penal), o registro constante do Atestado de Conduta Carcerária indicando que a mesma é plenamente satisfatória constitui condição bastante para a satisfação do requisito subjetivo, especialmente porque a última falta grave ocorreu em 22/09/2019"(fls. 66).
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela concessão parcial da ordem, em parecer que recebeu a seguinte ementa:
+"EXECUÇÃO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. PREENCHIMENTO DO REQUISITO OBJETIVO.TRANSCURSO DO LAPSO TEMPORAL NECESSÁRIO.VERIFICAÇÃO DO REQUISITO SUBJETIVO DO PACIENTE.NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO.PARECER PELA CONCESSÃO PARCIAL DA ORDEM."(fl. 107)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A propósito, confiram-se fragmentos extraídos do voto condutor no acórdão recorrido:
+"Indubitável o implemento do requisito temporal objetivo para requerimento, pelo agravante, da liberdade antecipada, ocorrido em 05/02/2019 (evento 3 - OUT - INST PROC3 - pág.08). Entretanto, especificamente quanto ao mérito subjetivo do apenado, cediço que o Julgador da execução pode lançar mão de todos os elementos concretos presentes nos autos a fim de formar sua livre convicção, não estando adstrito à comprovação da boa conduta carcerária do reeducando pelo diretor do estabelecimento prisional (art. 112, § 1º, da LEP).
+ ..
+Na espécie, tem-se que o agravante cumpre pena privativa de liberdade de 06 (seis) anos e 20 (vinte) dias de reclusão pela prática do crime de roubo majorado, tendo iniciado o cumprimento da expiação em 31/01/2017.
+Do Relatório da Situação Processual Executória, lançado no processo nº 3174549-16.2010.8.21.0037, verifica-se que, conquanto atestada plenamente satisfatória a conduta carcerária pelo administrador da casa prisional e a ausência de contraindicação na avaliação psicossocial (seq.25.1 dos autos da execução), há aspectos a revelar a temeridade na contemplação da benesse pleiteada.
+Com efeito, o apenado progrediu ao regime semiaberto em 10/08/2020, tendo gozado de poucos dias do regime intermediário antes de ter indeferido o livramento condicional. Embora o recolhimento em regime fechado não obste o deferimento da benesse pretendida, é certo que esta circunstância reclama maior cautela ao aplicador do direito na avaliação da aptidão do preso para desfrutar da mais ampla semiliberdade, o que, na hipótese, é potencializado pelo fato de Leandroregistrar faltas graves por fugas ocorridas em 2018 (seq. 1.1, fls. 257/258, dos autos da execução).
+ ..
+Outrossim, como bem pontuado pelo Magistrado "a quo", o reeducando não preenche o requisito de bom desempenho no trabalho que lhe foi atribuído (art. 83, inc. III, do CP). No aspecto, consta na Informação da Atividade de Segurança e Disciplina (seq. 25.1, fl. 3, dos autos da execução) que Leandro não exerce atividade laboral interna. É consabido que o trabalho, na execução penal, tem finalidade educativa e produtiva (art. 28 do LEP), configurando importante meio para efetivar a ressocialização do reeducando. A reintegração social daquele que sofreu a ação punitiva estatal passa, também, pelo labor, porquanto atividade que estimula a aptidão, a responsabilidade e a disciplina, em contraposição ao ócio intrínseco ao encarceramento.
+De mais a mais, não se pode perder de vista a gravidade do delito cometido pelo agravante, qual seja, roubo majorado, praticado mediante emprego de violência ou grave ameaça à pessoa, aspecto que, aliado aos demais elementos existentes no histórico da vida carcerária do recluso, reforça a necessidade de maior cautela na outorga do benefício.
+Nessa conjuntura, os elementos concretos referentes à execução da pena do agravante demonstram que, ao menos por ora, a concessão do livramento condicional é medida desaconselhada."(fls. 76/77)
+Nos termos do que dispõe o art. 83 do Código Penal - CP, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto) para a obtenção do benefício do livramento condicional.
+Nesse sentido, esta Corte pacificou o entendimento segundo o qual, apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional, Súmula n. 441 do Superior Tribunal de Justiça - STJ, as infrações disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo.
+Cumpre ressaltar ainda que não se aplica limite temporal ao requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+Vejam-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTAS DISCIPLINARES MÉDIAS E GRAVES. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.
+3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+4. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático- probatória, providência inadmissível na via estreita do habeas corpus.
+5. Habeas corpus não conhecido.
+(HC 564.292/SP, de minha Relatoria, QUINTA TURMA, DJe 23/6/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA GRAVE. FUGAS DO ESTABELECIMENTO PRISIONAL. REQUISITO SUBJETIVO. NÃO CUMPRIMENTO. SUMULA N. 568/STJ. INCIDÊNCIA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte de Justiça, a prática de falta grave pelo apenado no curso da execução penal - no caso, fugas do estabelecimento prisional - constitui motivo suficiente para denegar o livramento condicional, por ausência do preenchimento do requisito subjetivo previsto no art. 83 do Código Penal.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 1.469.080/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 3/6/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTAS GRAVES. AUSÊNCIA DE REQUISITO SUBJETIVO. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO. INEXISTÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A teor do disposto no art. 83 do Código Penal, o livramento condicional será deferido aos condenados com pena privativa de liberdade superior a 2 anos, desde que atendidos determinados requisitos objetivos e subjetivos, constituindo estes na comprovação de comportamento satisfatório durante a execução da pena, a saber, observância das obrigações que lhe foram impostas, bom desempenho no trabalho que lhe fora atribuído e aptidão para prover a própria subsistência mediante trabalho honesto.
+2. Segundo entendimento fixado por esta Corte, não se aplica limite temporal para a análise do preenchimento do requisito subjetivo, devendo ser considerado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+3. Desse modo, no caso concreto, o cometimento de 12 (doze) faltas graves durante a execução penal é causa suficiente para o indeferimento do benefício legal, consoante exposto no art. 83, III, do Código Penal.
+4. Para se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do paciente, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC 533.069/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 30/10/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO PRISIONAL. PRÁTICA DE FALTAS GRAVES . BENEFÍCIO INDEFERIDO. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. Embora a prática de falta disciplinar de natureza grave não interrompa a contagem do prazo para fins de livramento condicional, nos termos da Súmula n. 441/STJ, constitui motivo idôneo para o indeferimento do benefício, por ausência do preenchimento do requisito subjetivo previsto no art. 83, inciso III, do Código Penal. Precedentes.
+2. Na espécie, o registro de 7 faltas graves apuradas no histórico prisional do agravante é motivação suficiente para o indeferimento da benesse, nos termos da jurisprudência deste Sodalício.
+3. Agravo regimental desprovido.
+(AgRg no HC 536.450/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 13/12/2019).
+Ademais, cabe lembrar que o afastamento dos fundamentos utilizados pelas instâncias ordinárias, quanto ao mérito subjetivo do paciente, demandaria o exame aprofundado de matéria fático-probatória, providência inadmissível na via estreita do mandamus.
+Assim, resta evidenciada a idoneidade da fundamentação utilizada na origem, inexistindo, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
