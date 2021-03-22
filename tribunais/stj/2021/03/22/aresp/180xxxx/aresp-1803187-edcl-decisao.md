@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NEOVIA NUTRIÇÃO E SAÚDE ANIMAL LTDA. contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Porém, ao decidir acerca da admissibilidade do recurso quanto a essa controvérsia, esse n. julgador considerou ponto não debatido ou suscitado, qual seja, o ônus probatório. Leia-se da fundamentação:
+ ..
+Diante do equívoco verificado tem-se, portanto, que a questão posta a julgamento não foi resolvida, revelando-se a omissão do v. acórdão quanto a tal, que merece ser sanada por ocasião dos presentes Embargos de Devedor, admitindo-se o trânsito do recurso o qual, por sua vez, merece ser provido, ante a manifesta negativa de vigência aos artigos 85 e 86, do CPC que restou efetivamente demonstrada na peça recursal e que ora ratifica-se, integralmente.
+ ..
+A argüição da negativa de vigência ao art.422, do Código Civil vigente que resguarda e, a bem dizer, garante, a observância da boa fé e da probidade contratuais, foi suscitada no que se refere a execução de cláusula de multa - nº 10.3 porquanto essa não prevê aplicação de penalidade sobre a quebra de exclusividade mas, sim, sobre a antecedência da Notificação de Rescisão.
+ ..
+A r. sentença, por sua vez, entendeu que houve o descumprimento do aviso prévio de rescisão, fundamentando a r. decisão na ocorrência da quebra de exclusividade, motivo pelo qual entendeu aplicável a Cláusula 10.3 do contrato, vindo a condenar a empresa embargante ao pagamento da multa a ser arbitrada em fase de liquidação.
+ ..
+Mais adiante (p.13, do recurso), a embargante ainda debateu a cortina de fumaça criada pela embargada ao sustentar o seu pedido inicial par aplicar a multa não contratada para a quebra de exclusividade, alegando, para tanto, descumprimento do prazo de antecedência da Notificação.
+ ..
+Portanto i. julgador, a inobservância à boa fé e probidade na execução do contrato, no momento em que executa multa prevista em Clausula Contratual para hipótese não abrangida pela contratação, foi amplamente arguida e debatida perante a instância originária.
+ ..
+Expressamente e reconhecidamente, o Eg. Tribunal de Justiça "a quo" impôs multa à embargante pelo recurso aviado para prequestionar a matéria, em que pese manter-se a embargante firme no entendimento de que os limites da cláusula contratual e assim entendida o hipótese única de sua aplicação, revela-se ponto obscuro da decisão ou, se melhor entender, omisso, que cabia ser sanado (fls. 1.087-1.080).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Primeiro, a parte embargante alega omissão quanto à segunda controvérsia suscitada em seu recurso especial, diante do fundamento exposto no decisum embargado em relação à violação dos arts. 85 e 86 do CPC. De fato, nesse ponto, assiste razão à embargante.
+Desse modo, com relação à segunda controvérsia apresentada no recurso especial, o Tribunal de origem se manifestou nos seguintes termos:
+Por outro lado, restou provado que a 2ª apelante descumpriu a cláusula de exclusividade (cláusula 5.3), no período do aviso prévio (29/1/2016 a 28/4/2016), uma vez que passou a comprar pallets novos das empresas RED EMBALAGENS LTDA (fls. 595-629) e TANIA REGINA RIBEIRO GAMBOGI (fls. 631-654).
+Ora, ao contrário do que alega a 2ª apelante, a referida cláusula 5.3 é clara no sentido de que a mesma estaria liberada para aquisição de pallets novos de qualquer outro fornecedor somente quando a contratada não atender as demandas solicitadas.
+Consequentemente, ficou provado que a 2a apelante não cumpriu o contrato no período de aviso prévio em relação à cláusula de exclusividade.
+ ..
+Ora, caso a 2ª apelante não estivesse atendendo às necessidades da 1ª apelante, certamente esse fato seria objeto de cobrança por e-mail ou outro tipo de documento.
+Todavia, durante todo período de vigência do contrato, não há qualquer prova de que a 2ª apelante não estivesse atendendo à demanda de encomendas, exceto o depoimento do empregado da 1ª apelante, que está dissociado das demais provas.
+Logo, impõe-se a manutenção da douta sentença quanto à condenação da 2ª apelante ao pagamento da multa rescisória, prevista na cláusula 10.3, pois não cumpriu o aviso prévio em relação à cláusula de exclusividade (cláusula 5.3) - fls. 916-917.
+Portanto, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Assim, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Segundo, a parte embargante alega omissão quanto à quarta controvérsia suscitada em seu apelo nobre, em relação à violação do art. 422 do CC. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, acolho parcialmente os embargos de declaração para sanar omissão existente, sem efeitos infringentes, mantendo-se, portanto, o não conhecimento do recurso especial.
+Publique-se. Intimem-se.
