@@ -1,0 +1,18 @@
+DECISÃO
+ERBESSON ANTONIO DA SILVAagrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão doTribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 0000202-45.2018.8.26.0228).
+Nas razões do recurso especial, a defesa pretende a redução da pena e o abrandamento do regime. Para tanto, aponta a violação dos arts. 33 e 59, ambos do Código Penal, ao argumento de que a pena-base do réu foi exasperada por meio de fundamentos inidôneos, além de fazer jus à fixação do regime aberto.
+O recurso deixou de ser admitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 251-252), o que ensejou a interposição deste agravo (fls. 257-263).
+O Ministério Público Federal opinou pelo não provimento do especial (fls. 286-289).
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+O Juiz de primeiro grau, no que foi corroborado pela Corte estadual,fixou a pena-base do réu 1/6 acima do mínimo legal,pela análise negativa das circunstâncias do crime, "ante o fato de se tratar de furto de veículo, bem de alto valo" (fl. 153).
+No caso, entendo que o valor dares furtivanão é fundamento idôneo para a exasperação da pena-base, porquanto, além de não haver sido apontado um prejuízo concreto,o veículo objeto da subtração foi devolvidoà vítima (termo de entrega e restituição àfl. 13), razão pela qual deve ser afastadaa negativa dascircunstâncias do delito.
+Nesse sentido, esta Corte Superior já decidiu que ""a natureza do bem subtraído -veículo automotor -, desacompanhada de outros elementos concretos, não autoriza a exasperação das sanções básicas.  ..  Tal fundamentação não se mostra adequada para a exasperação das penas, pois é inerente ao crime e absolutamente genérica, não revelando a maior intensidade da lesão jurídica causada. Precedente" (HC n. 445.327/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 29/5/2018).
+Dessa forma, passo à readequar a pena.
+Com base nos critérios adotados pelas instâncias antecedentes, afastada a análise negativa das circunstâncias do crime, retorno a pena-base do furto ao mínimo legal, 1 anode reclusão, mais 10dias-multa. Na segunda fase, em que pese haver sido reconhecida a confissão, a pena permanece inalterada, a teor da Súmula n. 231 do STJ, o que a torna definitivamente estabelecida em1 ano de reclusão, mais 10dias-multa, ante a ausência de causas de aumento e de diminuição.
+O agravante foi condenado, também, pelo delito de adulteração de sinal de veículo automotor, à pena de 3 anos de reclusão, mais 10 dias-multa. Aplicada a regra do cúmulo material, a pena total é de 4 anos de reclusão, mais 20 dias-multa.
+O regime semiaberto foi fixado "face às circunstâncias judiciais desfavoráveis e quantum de pena cominado" (fl. 222).
+O decote da únicacircunstância judicial negativa e considerado o total da pena resultante, além da primariedade do réu, entendo que ele faz jus ao regime aberto para início do cumprimento da sua pena, nos termos do art. 33, § 2º, "c", do Código Penal.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a negativa das circunstâncias do crime, sem alteração na pena final efixar o regime aberto para início do seu cumprimento.
+Publique-se e intimem-se.
