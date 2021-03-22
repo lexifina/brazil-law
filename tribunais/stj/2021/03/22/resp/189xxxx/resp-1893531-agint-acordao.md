@@ -1,0 +1,80 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ADOÇÃO DA EQUIDADE (ART. 85, § 8º, DO CPC/2015) EM CASO DE BAIXO PROVEITO ECONÔMICO OBTIDO PELA CONDENAÇÃO E IMPOSSIBILIDADE DE UTILIZAÇÃO DO VALOR DA CAUSA. OCORRÊNCIA. PRECEDENTE. OBSERVÂNCIA DA SUCUMBÊNCIA RECÍPROCA. MATÉRIA NÃO OBJETO DO RECURSO ESPECIAL. PRECLUSÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. É inadmissível, no agravo interno, a adição de tese não exposta em recurso especial, por constituir indevida inovação recursal. Caso no qual não houve a prévia impugnação no recurso especial sobre o afastamento de sucumbência recíproca, matéria preclusa que não pode ser suscitada em agravo interno, por ser vedada a inovação recursal.
+2. O entendimento da Segunda Seção desta eg. Corte é de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+3. Agravo interno conhecido parcialmente e, nessa extensão, desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS contra decisão monocrática desta relatoria (e-STJ, fls. 574-575), que negou provimento ao recurso especial, com fundamento na conformidade do acórdão recorrido com a jurisprudência desta Corte sobre a fixação dos honorários advocatícios sucumbenciais por equidade, na hipótese de baixo valor da condenação ou proveito econômico, nos termos do art. 85, § 8º, do CPC/2015. Além disso, em decorrência do resultado, houve a majoração dos honorários advocatícios fixados, com base no art. 85, § 11, do CPC/2015.
+Em suas razões recursais (e-STJ, fls. 578-785), a parte agravante repisa suas alegações de recurso especial, defendendo a minoração dos honorários advocatícios fixados, por equidade, em R$ 1.000,00 (mil reais), sob o argumento da observância do regramento geral para o arbitramento dos honorários advocatícios sucumbenciais nos limites entre 10% e 20% sobre o valor da condenação - R$ 1.687,50 (mil, seiscentos e oitenta e sete reais e cinquenta centavos), nos termos do art. 85, §§ 2º e 8º, do CPC/2015.
+Assevera a necessidade de redução do valor arbitrado, bem como a exclusão da majoração efetuada com base no art. 85, § 11, do CPC/2015, porque somente é possível quando os honorários forem fixados em percentual sobre a condenação e desde que não atingido o limite máximo de 20%, nos termos dos EDcl no AgInt no REsp 1.573.573/RJ.
+Aduz a necessidade de observância da sucumbência recíproca, prevista pelo art. 86 do CPC/2015.
+Impugnação não apresentada (e-STJ, fl. 788).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ADOÇÃO DA EQUIDADE (ART. 85, § 8º, DO CPC/2015) EM CASO DE BAIXO PROVEITO ECONÔMICO OBTIDO PELA CONDENAÇÃO E IMPOSSIBILIDADE DE UTILIZAÇÃO DO VALOR DA CAUSA. OCORRÊNCIA. PRECEDENTE. OBSERVÂNCIA DA SUCUMBÊNCIA RECÍPROCA. MATÉRIA NÃO OBJETO DO RECURSO ESPECIAL. PRECLUSÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. É inadmissível, no agravo interno, a adição de tese não exposta em recurso especial, por constituir indevida inovação recursal. Caso no qual não houve a prévia impugnação no recurso especial sobre o afastamento de sucumbência recíproca, matéria preclusa que não pode ser suscitada em agravo interno, por ser vedada a inovação recursal.
+2. O entendimento da Segunda Seção desta eg. Corte é de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+3. Agravo interno conhecido parcialmente e, nessa extensão, desprovido.
+AgInt no RECURSO ESPECIAL Nº 1.893.531 - MT (2020/0226477-7)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+ADVOGADOS
+:
+HENRIQUE ALBERTO FARIA MOTTA - RJ113815
+FÁBIO JOÃO DA SILVA SOITO - RJ114089
+PEDRO HENRIQUE BANDEIRA SOUSA - RJ155834
+FERNANDO CESAR ZANDONADI - MT005736O
+AGRAVADO
+:
+ANDREIA DE OLIVEIRA SILVA ROZA DA SILVA
+ADVOGADOS
+:
+VICTOR HUGO VIDOTTI - MT011439
+THIAGO SILVA FERREIRA - MT020957
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+Inicialmente, é inviável conhecer da alegação de observância da sucumbência recíproca prevista pelo art. 86 do CPC/2015, porque essa questão, embora tenha sido decidida pelo Tribunal de origem, não foi objeto do recurso especial interposto. Assim, houve preclusão, sendo proibida a inovação recursal em agravo interno.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. RESCISÃO. POSSIBILIDADE. CASO FORTUITO E FORÇA MAIOR. NÃO OCORRÊNCIA. SÚMULA 7/STJ. LUCROS CESSANTES. CABIMENTO. TERMO FINAL. INOVAÇÃO RECURSAL. COMISSÃO DE CORRETAGEM. DEVOLUÇÃO. POSSIBILIDADE. AGRAVO NÃO PROVIDO. (..) 4. É vedado à parte inovar sua razões recursais em sede de agravo interno, trazendo novas questões não suscitadas oportunamente em sede de recurso especial, tendo em vista a configuração da preclusão consumativa. 5. Agravo interno a que se nega provimento. (AgInt no REsp 1864453/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/06/2020, DJe 01/07/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO ACORDO NO RECURSO ESPECIAL JULGADO PREJUDICADO. REGIMENTAL DA PARTE RECORRIDA PARA DISCUTIR MATÉRIA NÃO IMPUGNADA EM RECURSO ESPECIAL PRÓPRIO. PRECLUSÃO CARACTERIZADA. 1. Configura-se a preclusão lógica e temporal quando a parte não interpõe o competente recurso contra decisão que lhe foi desfavorável, deixando de impugnar a matéria no momento processual oportuno. 2. "Não tem a parte interesse em recorrer de decisão que julga prejudicado recurso interposto pela parte contrária" (AgInt nos EDcl no AREsp n. 595.736/AM, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/3/2018, DJe 8/3/2018). 3. Agravo interno a que se nega provimento. (AgInt Acordo no REsp 1382078/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/11/2018, DJe 04/12/2018)
+Quanto ao restante, o agravo interno não merece provimento.
+Conforme a orientação jurisprudencial da Segunda Seção do STJ, firmada por ocasião do julgamento do REsp 1.746.072/PR, acórdão desta relatoria, julgado em 13/2/2019, DJe de 29/3/2019, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa.
+Segundo essa posição, é subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível quando, havendo ou não condenação ou proveito econômico, for ele irrisório ou inestimável e o valor da causa for baixo, ou seja, na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo: "assim, a incidência, pela ordem, de uma das hipóteses do art. 85, § 2º, impede que o julgador prossiga com sua análise a fim de investigar eventual enquadramento no § 8º do mesmo dispositivo, porque a subsunção da norma ao fato já se terá esgotado."
+No caso dos autos, a ação de cobrança de seguro obrigatório DPVAT cumulada com indenização por danos morais, com valor da causa atribuído em R$ 28.500,00 (vinte e oito mil e quinhentos reais) - e-STJ, fl. 42 -, foi julgada parcialmente procedente, para condenar a seguradora ora recorrente ao pagamento de R$ 1.687,50 (mil, seiscentos e oitenta e sete reais e cinquenta centavos).
+A sentença proferida em 6/4/2020 (e-STJ, fls. 305-315), após a vigência do CPC/2015 (18/3/2016), fixou os honorários advocatícios sucumbenciais em R$ 1.000,00 (mil reais). Esse arbitramento da verba honorária foi confirmado pelo Tribunal de origem, com fundamento na equidade prevista pelo art. 85, § 8º, do CPC/2015, devido ao baixo valor da condenação imposta atribuir caráter irrisório aos honorários caso estabelecidos no limite percentual da regra geral (e-STJ, fls. 381-382):
+No que tange ao arbitramento dos honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação, mais uma vez, sem razão a apelante.
+É que, como a condenação, na espécie, foi arbitrada no diminuto valor de R$ 1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos), os honorários advocatícios, se fixados em 15% sobre esse valor, o que corresponde a R$ 253,12 (duzentos e cinquenta e três reais e doze centavos) se mostrará irrisórios.
+Dessa forma, os honorários advocatícios devem estar, como de fato estão, arbitrados por apreciação equitativa, em perfeita harmonia com o que preceitua o parágrafo 8º, do artigo 85, do Código de Processo Civil.
+Desse modo, constata-se que o acórdão recorrido diverge da jurisprudência desta Corte, nos termos já declinados, porque, em caso de baixo valor do proveito econômico obtido pela condenação, deveria ter sido adotado o valor da causa - atribuído em R$ 28.500,00 (vinte e oito mil e quinhentos reais) - como base de cálculo dos honorários advocatícios a serem fixados entre 10% e 20%, antes da utilização da equidade.
+Entretanto, é impossível a reforma do decisum para adequação ao entendimento do STJ, pois tal providência implicaria majoração dos honorários advocatícios para, no mínimo, R$ 2.850,00 (dois mil e oitocentos e cinquenta reais), em oposição à pretensão recursal de minoração da verba honorária, resultando no indevido agravamento da situação da parte recorrente (reformatio in pejus).
+Deve, portanto, ser confirmado o emprego da equidade.
+Em obiter dictum, ainda que se pudesse conjecturar sobre a inviabilidade de utilização do valor da causa como base de cálculo dos honorários advocatícios, por abranger o pedido improcedente de condenação em danos morais, deveria ser confirmado o emprego da equidade para a fixação dos honorários, pois, como visto, diante da impossibilidade de utilização do valor da causa e do baixo valor obtido pela condenação, está plenamente autorizado o emprego da equidade, tal qual realizado pelo Tribunal de origem, nos temos do art. 85, § 8º, do CPC/2015.
+Por fim, no caso de fixação dos honorários por equidade, como ocorrente no caso dos autos, o julgador não está adstrito aos limites percentuais entre 10% e 20% sobre o valor da condenação.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. IMPUGNAÇÃO PARCIALMENTE ACOLHIDA. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO IRRISÓRIO. CÓDIGO DE PROCESSO CIVIL DE 2015. ART. 85, § 8º. APRECIAÇÃO POR EQUIDADE. AUSÊNCIA DE VINCULAÇÃO AOS PARÂMETROS DO ART. 85, § 2º. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A fixação da verba advocatícia pelo critério de equidade - a ser observado na hipótese - não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo-se adotar como base de cálculo o valor dado à causa ou à condenação, ou mesmo ser estabelecida em valor fixo (AgInt no REsp 1.801.646/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/10/2019, DJe de 17/10/2019).
+2. Estando a decisão recorrida de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.805.291/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe de 19/12/2019)
+Por fim, é inviável revisar o valor fixado a título de honorários advocatícios, originalmente em R$ 1.000,00 (mil reais), nos termos do art. 85, § 8º, do CPC/2015, e majorados para R$ 1.200,00 (mil e duzentos reais), pela negativa de provimento do recurso de apelação, e, ao final, para R$ 1.320,00 (mil, trezentos e vinte reais), pela negativa de provimento do recurso especial, nos termos do art. 85, § 11, do CPC/2015. Isso, porque não se verifica exorbitância no arbitramento, única hipótese, além da índole irrisória, admitida para o conhecimento dessa pretensão no âmbito do recurso especial, mediante afastamento da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS EM EXECUÇÕES DE SENTENÇAS ORIUNDAS DE AÇÃO CIVIL PÚBLICA. INCIDÊNCIA DA SÚMULA 83/STJ. REVISÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. É cabível a fixação de honorários advocatícios nas execuções individuais advindas de ação civil pública ou ação coletiva.
+2. A revisão do valor arbitrado para os honorários advocatícios fixados com base no art. 20, § 4º, do CPC/1973 esbarra no óbice da Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 969.604/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/09/2017, DJe 02/10/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. REVISÃO. SÚMULA 7 DO STJ.
+1. "Ressalvadas as hipóteses de notória exorbitância ou insignificância, o valor dos honorários advocatícios sujeitos a fixação por critério de equidade (CPC, art. 20, § 4º), não se submetem a controle por via de recurso especial, já que demanda reexame de matéria fática. Aplicação das súmulas 7/STJ e 389/STF." (REsp 1.186.053/SP, Rel. Min. Teori Albino Zavascki, DJ de 12/5/2010).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 17.736/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 29/05/2012)
+Diante do exposto, conheço em parte do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
