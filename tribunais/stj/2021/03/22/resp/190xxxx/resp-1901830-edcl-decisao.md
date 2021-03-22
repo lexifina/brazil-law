@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por PÉROLA DISTRIBUIÇÃO E LOGÍSTICALTDA, mediante os quais se impugna decisão, de minha lavra, que deu provimento ao seuRecurso Especial, para julgar procedente ação anulatória de débito fiscal, com inversão dos ônus sucumbenciais.
+Nas razões dos Embargos de Declaração, a ora embargante sustenta, em síntese, o seguinte:
+"Ora, colocada a questão em tais termos, observa-se que a mera "inversão" dos ônus sucumbenciais, importaria simplesmente em manter a divisão das despesas processuais e os honorários sucumbenciais, quando em verdade a Recorrente/Embargante foi vitoriosa na integralidade de seus pedidos, razão pela qual a Fazenda do Estado de São Paulo é a única sucumbente. Tal situação, sem dúvida alguma, importaria na violação ao "caput" do art. 85/NCPC, que diz textualmente:
+(..)
+Com o conhecimento e provimento do Recurso Especial interposto, verifica-se a necessidade de readequação da verba honorária fixada pelo e. Tribunal Bandeirante, vez que as premissas outrora utilizadas para se "arbitrar" a verba honorária, não mais se mostram aplicáveis ao caso em comento. Isto porque, a suposta simplicidade da tese jurídica sustentada pela parte autora, alusiva a tema já sedimentado na Corte Estadual (inaplicabilidade de juros superiores à taxa SELIC), restou transmutada para a necessidade de se desafiar o mérito da demanda propriamente dito, sendo necessária a interposição de Recurso Constitucional, a superação dos requisitos de admissibilidade, tudo até se alcançara exitosa conclusão do trabalho profissional desenvolvido. Ora, o art. 85 do CPC estabelece, de forma detalhada e completa, as situações e o modo com que os vencidos em processos judiciais devem ser condenados no pagamento dos honorários de sucumbência, salientando, em seus §§ 3º e 4º" (fls. 585/586e).
+Requer, por fim:
+"(..)sejam os presentes Embargos de Declaração conhecidos e providos para que seja reconhecida a sucumbência integral da parte Embargada, de modo a responsabilizá-la integralmente pela verba fixada. Ainda, diante do provimento do Recurso Especial interposto, sejam fixados honorários com lastro no § 3º do art. 85/NCPC, bem como sejam os honorários majorados com lastro no § 11 do referido dispositivo legal" (fl. 591e).
+Sem contraminuta.
+Os Embargos de Declaração merecem prosperar.
+Como cediço, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" ou "corrigir erro material" (art. 1.022 do Código de Processo Civil).
+No caso, assiste razão à ora embargante.
+Com efeito, tendo havido a divisão proporcional dos ônus da sucumbência, em 2ª Instância, a mera determinação de inversão dos honorários, como consequência do provimento do Recurso Especial, não atinge a finalidade pretendida.
+Havendo restado vencedora in totumna lide, tem a ora agravante direito à totalidade da verba honorária de sucumbência.
+Ante o exposto, acolhoos Embargos de Declaração para fixar honorários sucumbenciais em favor do advogado da parte agravante, no percentual mínimo estipulado no art. 85, §§ 2º e 3º, I a V, c/c § 4º, do CPC/2015, a serem apurados em execução de sentença. Custas e despesas ex lege.
+I.
