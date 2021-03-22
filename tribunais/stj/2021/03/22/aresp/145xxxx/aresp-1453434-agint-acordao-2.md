@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. TRANSFERÊNCIA COMPULSÓRIA DO SISTEMA DE ILUMINAÇÃO PÚBLICA REGISTRADO COMO ATIVO IMOBILIZADO EM SERVIÇO (AIS) ÀS PESSOAS JURÍDICAS DE DIREITO PÚBLICO. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA.
+I - Na origem, trata-se ação de obrigação de fazer, com pedido liminar de antecipação de tutela, contra a Companhia Paulista de Força e Luz - CPFL, objetivando acolhimento jurisdicional da pretensão reconhecimento da nulidade da Resolução da ANEEL n. 414/2010, alterada pela Resolução n. 479/2012 e Resolução n. 587/2013, naquilo que transfere à municipalidade a obrigação de manutenção, conservação, melhoria e ampliação do sistema de iluminação pública, implicando, ainda, a condenação da CPFL à obrigação de fazer. Na sentença, julgaram-se procedentes os pedidos iniciais.
+II - O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso de apelação da CPFL, mantendo inalterada a decisão monocrática de procedência da ação.
+III - No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em desfavor da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+IV - Agravo interno não conhecido.
+RELATÓRIO
+O Município de Guatapará ajuizou ação ordinária de obrigação de fazer, com pedido liminar de antecipação de tutela, contra a Companhia Paulista de Força e Luz - CPFL, objetivando acolhimento jurisdicional da pretensão reconhecimento da nulidade da Resolução da ANEEL n. 414/2010, alterada pela Resolução n. 479/2012 e Resolução n. 587/2013, naquilo que transfere à municipalidade a obrigação de manutenção, conservação, melhoria e ampliação do sistema de iluminação pública, implicando, ainda, a condenação da CPFL à obrigação de fazer, consistente em: i) continuar a executar obras e ações necessárias à manutenção, conservação, melhoria e ampliação do parque ou sistema de iluminação; ii) restabelecer contato, pela rede mundial de computadores, para que o Município de Cássia dos Coqueiros possa efetuar todas as solicitações relativas à iluminação pública; e iii) manter a cobrança da tarifa "B4b".
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso de apelação da CPFL, mantendo inalterada a decisão monocrática de procedência da ação (fls. 477-479), nos termos da seguinte ementa (fl. 515):
+APELAÇÃO. OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. Transferência compulsória do sistema de iluminação pública registrado como Ativo Imobilizado em Serviço (AIS) às pessoas jurídicas de direito público.
+1) Preliminar de incompetência da Justiça Estadual para conhecer do litígio e de litisconsórcio necessário quanto à ANEEL afastadas. 2) Ausência de previsão legal específica para fundamentar a pretensão da CPFL, quanto à transferência compulsória de Ativos de Iluminação de Serviço (AIS), nos termos das Resoluções nº 414/2010 e 479/2012. Responsabilidade da CPFL pela manutenção e execução dos serviços de iluminação pública. Precedentes. Sentença que julgou procedente a ação mantida. Recurso não provido.
+Opostos embargos de declaração, foram eles rejeitados (fl. 577).
+A Companhia Paulista de Força e Luz - CPFL interpôs recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, no qual aponta violação dos arts. 11, 489, § 1º, IV, e 1.022, II, todos do CPC/2015, visto que, em suma, quedou-se silente o Tribunal a quo da análise dos seguintes argumentos aventados nos aclaratórios:
+i) ao fato de a Resolução n. 414/2010 ter sido editada dentro dos limites do poder regulamentar conferido à ANEEL, em observância ao disposto nos arts. 30, V, e 149-A, da Constituição Federal;
+ii) da desnecessidade de a transferência dos ativos de iluminação pública à municipalidade ser realizada por meio de lei federal e,
+iii) de o reconhecimento incidental de inconstitucionalidade da Resolução n. 414/2010 pelo TJSP ter violado o princípio do direito de plenário, omissões tais que implicaram na ausência de fundamentação do decisum.
+Alega contrariedade ao art. 114 do CPC de 2015, porquanto, em síntese, da necessidade de litisconsórcio necessário da ANEEL para integrar a lide, com a declaração de incompetência absoluta da Justiça Estadual para julgamento do feito, visto que, mais que evidente, na ação se discute o cumprimento por parte da recorrente do quanto disposto na Resolução ANEEL n. 414/2010.
+Aduz negativa de vigência aos arts. 2º, 3º, I e IV, e 3º-A, II, da Lei n. 9.427/1996, e violação do art. 5º do Decreto n. 41.019/1957, alegando não ter havido extrapolação da competência da ANEEL na edição da Resolução 414/2010, tendo em vista que o referido normativo lhe conferiu poderes para fiscalizar e regular a produção, transmissão, distribuição e comercialização de energia elétrica.
+Por fim, suscita dissídio jurisprudencial entre o acórdão recorrido e julgado do Tribunal Regional Federal da 5ª Região relacionado à legalidade e regularidade da Resolução n. 414/2010.
+Após oferecimento de contrarrazões (fls. 654-662), o recurso especial inadmitido pelo Tribunal a quo (fls. 666-667), tendo sido interposto o presente agravo.
+Apresentado parecer do Ministério Público Federal pelo improvimento do recurso especial (fls. 766-768).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, § único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nesta parte, negar-lhe provimento."
+Interposto novo agravo interno.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. TRANSFERÊNCIA COMPULSÓRIA DO SISTEMA DE ILUMINAÇÃO PÚBLICA REGISTRADO COMO ATIVO IMOBILIZADO EM SERVIÇO (AIS) ÀS PESSOAS JURÍDICAS DE DIREITO PÚBLICO. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA.
+I - Na origem, trata-se ação de obrigação de fazer, com pedido liminar de antecipação de tutela, contra a Companhia Paulista de Força e Luz - CPFL, objetivando acolhimento jurisdicional da pretensão reconhecimento da nulidade da Resolução da ANEEL n. 414/2010, alterada pela Resolução n. 479/2012 e Resolução n. 587/2013, naquilo que transfere à municipalidade a obrigação de manutenção, conservação, melhoria e ampliação do sistema de iluminação pública, implicando, ainda, a condenação da CPFL à obrigação de fazer. Na sentença, julgaram-se procedentes os pedidos iniciais.
+II - O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso de apelação da CPFL, mantendo inalterada a decisão monocrática de procedência da ação.
+III - No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em desfavor da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+IV - Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em desfavor da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. Encontra-se pacificado nesta Corte entendimento segundo o qual a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Precedentes.
+3. A cópia de provimento do Tribunal de Justiça do Estado de São Paulo não pode ser reconhecida como meio eficaz de comprovação da paralisação ou interrupção do expediente forense, porquanto o referido documento não está dotado de fé pública capaz de elidir a certidão de publicação da decisão agravada existente nos autos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.064.235/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/6/2017, DJe 14/6/2017.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS, PELA MESMA PARTE, CONTRA O MESMO ACÓRDÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 26/04/2017.
+II. É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão ou acórdão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016.
+III. Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (STJ, AgInt nos EAg 1.213.737/RJ, Rel.
+Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 26/08/2016).
+IV. Embargos de Declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 1.037.203/SP, relatora Ministra Assusete Magalhães, Segunda tTrma, julgado em 27/6/2017, DJe 30/6/2017.)
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
