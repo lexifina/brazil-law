@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado por Jânio Nunes Queiroz em favor de Alan Lima de Brito contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu da impetração, nos autos do HC 637.871/MA.
+    O impetrante (eDOC 1) narra que o paciente foi preso preventivamente em data não especificada sob a suspeita de pertencer a organização criminosa praticante de fraudes virtuais e lavagem de dinheiro.
+    Argue a ilegalidade da prisão por ausência de realização da audiência de custódia. (p. 4)
+    Afirma que a prisão preventiva teria sido decretada sobre razões genéricas, tratando todos os acusados como se tivessem agido da mesma maneira, sem individualizar a específica conduta do paciente. (p. 7)
+    Declara que o paciente é primário, tem bons antecedentes, possui residência fixa e ocupação lícita (eDOCs 6, 4 e 9) e requer a superação da Súmula 691 do STF.
+    Pleiteia a concessão da ordem de habeas corpus para que o paciente responda ao processo em liberdade, sob medidas cautelares diversas da prisão.
+    O ato coator transitou em julgado.
+    O juízo de origem prestou informações, noticiando que o paciente haveria sido denunciado, em 22.2.2021, pela prática dos crimes dos arts. 154-A; 154-B; 155, § 4º, II; 298; e 304 do Código Penal, além dos arts. 1º da Lei 9.613/1998 e 2º, § 2º, da Lei 12.850/2013, e que sua conduta haveria sido assim descrita na denúncia:
+    “Neste sentido, verifica-se que Alan Lima de Brito pede a Jonas Silva Bezerra para incluí-lo nas defraudações praticadas contra a empresa Nubank, além de oferecer veículos para o referido chefe da organização criminosa em tela como maneira de ‘lavar o dinheiro’ adquirido por meio fraudulento. Além disso, no teor das conversas, é possível observar Jonas Silva enviando diversos valores para contas em nome de Alan Lima de Brito para que o referido realizasse o saque ou transferisse parte dos valores para outras contas, com o fito de dificultar possíveis investigações”. (eDOC 20, p. 5)
+    Esclareceu que os autos da vara são físicos. Não anexou cópia da denúncia ou de qualquer outra peça processual.
+    É o relatório.
+    Decido.
+    Trata-se de writ contra decisão monocrática do Superior Tribunal de Justiça que não conheceu de habeas corpus contra decisão monocrática do Tribunal de Justiça do Maranhão, que indeferiu a liminar em HC.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça e ausente prévia manifestação colegiada das instâncias inferiores, a apreciação do pedido da defesa implica dupla supressão de instância, o que não é admitido. Nesse sentido: HC 190.012 AgR, rel. Roberto Barroso, Primeira Turma, DJe 5.10.2020; HC 190.258 AgR, rel. Cármen Lúcia, Segunda Turma, DJe 16.10.2020.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder
+    É esse o caso dos autos.
+    Trata-se de investigação de organização criminosa com base em Imperatriz/MA que, entre outubro/2019 e maio/2020, teria praticado fraudes contra a empresa Nu Pagamentos S.A., invadindo a conta de 918 clientes seus e delas subtraindo R$ 12.994.503,83 (eDOC 11, p. 9). Tais golpes consistiriam principalmente em “phishing”, o envio de falsas mensagens de correio ou comunicador eletrônico que induziam o titular da conta corrente a informar sua senha e dados bancários, que os membros da organização criminosa utilizavam para retirar os recursos junto à instituição financeira. (eDOC 11, p. 16)
+    O líder da organização criminosa seria Jonas Silva Bezerra (alcunha “Mulla Kill”).
+    Embora a decisão que decretou a prisão preventiva do paciente e demais investigados (eDOC 11) indique diversas peças de investigação policial e relatórios fornecidos pela empresa vítima (p. 10), nenhuma delas foi juntada aos presentes autos, pelo impetrante ou pelo juízo informante. Sem transcrever o conteúdo dessas peças, afirma unicamente que “Alan Lima de Brito (em meio a extenso rol), pelo menos até a data da presente representação, supostamente integrou organização criminosa dedicada à prática de fraudes virtuais, atuante neste Estado”. (p. 14)
+    No único outro trecho referido ao paciente, consigna que “Os imputados Alan Lima de Brito (e doze outros) também foram identificados como remetentes ou destinatários das mensagens eletrônicas descobertas nos relatórios de extração de aparelhos celulares (trazidos aos autos como prova emprestada), elaborados a partir da análise dos celulares apreendidos com os investigados do IP 1/2020 DCCD/SEIC, cujo conteúdo aponta para a existência de vínculo criminoso voltado à prática de fraudes virtuais, notadamente contra a ‘fintech’ Nu Pagamentos S.A., conforme descrito no relatório policial e nos documentos juntados à referida mídia”. (p 18)
+    A decisão estende-se longamente (p. 23-30) sobre a periculosidade dos investigados e a necessidade de interromper o funcionamento da organização criminosa, porém sem qualquer individualização de pessoa. Consta do capítulo menção a ações penais e inquéritos policiais em andamento contra os representados, porém, como demonstrado pelo impetrante, o paciente não exibe antecedentes criminais.
+    Pois bem.
+    Na linha da jurisprudência deste Tribunal, é necessária a demonstração concreta e firme de que os requisitos autorizadores da prisão preventiva se materializem contra a pessoa do representado, para justificar a excepcional constrição de sua liberdade.
+    Não há nos autos dados concretos que demonstrem a periculosidade do paciente. Verifica-se que a segregação cautelar está fundamentada, tão somente, na concepção de que, por integrar organização criminosa, sua segregação cautelar seria necessária para acautelar a ordem pública e obstar a continuidade de seu funcionamento.
+    Como simples reforço argumentativo, registro que a conduta delituosa a ele imputada na denúncia sinaliza papel secundário na organização criminosa, executando ordens do líder Jonas Silva Bezerra após a consumação das fraudes virtuais, para ocultar o produto dos crimes.
+    Ante o exposto, com fundamento no art. 192, caput, do RISTF, concedo a ordem para revogar a prisão preventiva do paciente Alan Lima de Brito decretada na ação penal 0010450-48.2020.8.10.0001 e determinar sua soltura, se por outro motivo não estiver preso. Em substituição, determino a imposição das seguintes medidas cautelares diversas da prisão, na forma do art. 319 do CPP:
+    a) proibição de manter contato com outros investigados de participação na organização criminosa (inciso III);
+    b) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz de origem, para informar e justificar atividades (inciso I);
+    c) proibição de ausentar-se da Comarca (inciso IV).
+    Comunique-se ao Juízo de origem, ao TJMA e ao STJ.
+    Publique-se.
+    Brasília, 22 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
