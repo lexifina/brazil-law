@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido de liminar, impetrado em favor de LUARA DA SILVA TORRES, contra acórdão do Tribunal de Justiça do Estado de São Paulo que denegou a ordem noHabeas Corpus n. 2140083-37.2020.8.26.0000; e contra decisão indeferitória de medida liminar no Habeas Corpus n.2303537-96.2020.8.26.0000.
+Narram os autos que, em 5/6/2020, o Juízo da 1ª Vara de Vargem Grande do Sul (SP) decretou a prisão preventiva da paciente, denunciada pela prática de crime previsto no caput do art. 35 da Lei n. 11.343/2006, apontada como integrante de organização criminosa.
+Nestewrit, o impetrante sustenta ausência de fundamento idôneo para a custódia cautelar. Pondera que, em caso de eventual condenação, a paciente provavelmente ficará em regime diverso do fechado, não sendo necessária a custódia cautelar. Enfatiza que a prisão cautelar tem caráter excepcional e recomenda a observância do princípio da presunção de inocência. Destaca que a paciente possui filhos menores de 12 anos e que seria possível a substituição da preventiva por prisão domiciliar, nos termos do inc. V do art. 318 do CPP. Menciona o risco decorrente da pandemia de covid-19. Aponta excesso de prazo na formação da culpa.
+Requer medida liminar para que seja revogada a prisão preventiva, ou alternativamente, a aplicada medida cautelar diversa da prisão.No mérito, pede a concessão definitiva da ordem. Alternativamente, pede a substituição da preventiva por prisão domiciliar. (fls. 3-21).
+A medida liminar foi indeferida. (fls. 190-191)
+Prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus. (fls. 436-435)
+É o relatório. Decido.
+Na espécie, aponta-se como ato coator o acórdão do Tribunal de Justiça de São Paulo que denegou a ordem pleiteada no HC n. 2140083-37.2020.8.26.0000, ea decisão indeferitória de medida liminar no HC n. 2303537-96.2020.8.26.0000.
+Quanto ao HC n. 2140083-37.2020.8.26.0000, em consulta à base de dados do Superior Tribunal de Justiça, vê-se que a presente impetração tem o mesmo objeto do HC n. 606.800, do qual, em 25/1/2021, deixei de conhecer ao não visualizar flagrante ilegalidade ou teratologia na manutenção da prisão preventiva imposta à paciente.
+Constata-se, assim, inadmissível hipótese de reiteração de pedido formulado em outro habeas corpus já julgado no STJ.
+Sobre o tema, tem preconizado esta Corte que a "impetração de habeas corpus com objeto parcialmente idêntico ao de anterior, com objeto mais amplo e já julgado  .. , caracteriza indevida reiteração de pedido e, portanto, impossibilita o conhecimento do writ" (AgRg no HC n. 564.671/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/6/2020).
+Veja-se ainda o seguinte precedente:
+REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. REITERAÇÃO DE PEDIDO. NULIDADE DO PAD. OITIVA DE TESTEMUNHAS SEM A PRESENÇA DA DEFESA TÉCNICA. RECONHECIMENTO EM HC ANTERIOR. IMPOSSIBILIDADE DE REEXAME. AGRAVO DESPROVIDO.  ..  II - Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ. Agravo regimental desprovido. (AgRg no HC n. 444.220/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 23/5/2018.)
+Também estão ausentes as condições processuais em relação ao HC n. 2303537-96.2020.8.26.0000, cujo objeto é a decisão prolatada pelo Desembargador Otávio de Almeida Toledo, do Tribunal de Justiça de São Paulo, o qual indeferiu a medida liminar pleiteada. (fls. 151-152)
+Como ressaltado pelo Ministério Público Federal, " a questão do suposto excesso de prazo para a formação da culpa não foi apreciada pelo TJSP, inviabilizando-se, assim, a análise da matéria pelo STJ, sob pena de incorrer em indevida supressão de instância". (fls. 439)
+Com efeito, a jurisprudência do STJ, em harmonia com a Súmula n. 691 do STF, firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019).
+No caso, não visualizo manifesta ilegalidade ou teratologia a justificar o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
