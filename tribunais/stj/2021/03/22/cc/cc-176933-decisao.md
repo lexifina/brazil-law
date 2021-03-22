@@ -1,0 +1,21 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL DE GUAÍRA - PR suscita conflito de competência, em processo penal deflagrado pela suposta prática de crimes patrimoniais, associação criminosa e tráfico de drogas, diante do JUÍZO FEDERAL DA 1ª VARA DE GUAÍRA - SJ/PR.
+Cinge-se a controvérsia, neste incidente processual, em saber se houve, no caso, a caracterização da transnacionalidade do delito de tráfico de entorpecentes, a fim de definir a competência para o processo e julgamento do feito na origem.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Guaíra - PR, ora sucitante (fls. 970-976).
+Decido.
+De início, convém salientar que a competência da Justiça Federal, ao se tratar do crime de tráfico de drogas, cinge-se à hipótese prevista no art. 70 da Lei n. 11.343/2006, ou seja, é necessário que esteja caracterizada a transnacionalidade delitiva. Nesse sentido, é pacífica a jurisprudência desta Corte. Ilustrativamente: CC n. 148.197/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 8/11/2016.
+A discussão neste conflito cinge-se, justamente, em saber se houve, no caso, a transnacionalidade. No particular, estou de acordo com o Juízo suscitado quando assinalou, ao acolher a manifestação do Parquet Federal, o seguinte: "nenhum elemento probatório dos autos, principalmente aqueles colhidos da prisão em flagrante, indicam a existência de organização criminosa transnacional com o objetivo de praticar delitos de contrabando e tráfico internacional de entorpecentes " (fl. 940, destaquei).
+Vale dizer, não há, na espécie, nenhum elemento de informação que indique, de forma concreta, a prática de tráfico internacional de drogas, isto é, a ocorrência da transnacionalidade do delito. Em casos tais, tem decidido esta Corte:
+ ..
+Todavia, o que se vislumbra da leitura dos documentos que instruem o presente feito é que inexiste qualquer elemento apto a confirmar a eventual origem estrangeira da droga, restando ausente a demonstração da transnacionalidade do delito. O próprio Delegado de Polícia Federal deixou de indiciar os investigados pela prática do crime de tráfico transnacional de drogas, porquanto não vislumbrou elementos suficientes de sua ocorrência.
+A mera constatação de domicílio em região fronteiriça ou de menção a localidades inseridas em região de fronteira não são suficientes para se concluir pela transnacionalidade da conduta, havendo necessidade de comprovação, ou pelo menos a existência de indícios concretos, da origem estrangeira das substâncias ilícitas.
+Agravo regimental desprovido. (AgRg no CC n. 137.240/MS, Rel. Ministro Ericson Maranho - Desembargador convocado do TJ/SP, DJe 27/05/2015, destaquei)
+Precisas, portanto, as ponderações do Ministério Público Federal, quando destacou (fl. 973):
+ ..
+Por sua vez, a apreensão da pequena quantidade de droga e dos radiocomunicadores apontam para o tráfico de drogas, não constituindo qualquer indício de transnacionalidade, que, no caso, foi vislumbrada unicamente a título de presunção da autoridade judiciária estadual.
+Quanto aos telefones paraguaios, a própria denúncia menciona que os réus vendiam os veículos furtados no País vizinho, não sendo surpresa que precisassem se comunicar quando lá estivessem.
+Seria necessário que, em perícia nos aparelhos, constatado ficasse, através de áudios, a realização de tráfico internacional, contrabando ou descaminho, mas, conforme consta da própria decisão do juízo estadual, a Polícia Civil do Paraná não realizou qualquer perícia neste sentido, ao argumento de insuficiência técnica (e-STJ Fl. 869).
+Noto, outrossim, a própria investigadora Rosana afirmou em seu depoimento que não efetuou nenhuma apreensão de drogas durante toda a investigação devotada aos réus.
+Não há, assim, elementos mínimos de informação acerca da transnacionalidade do delito, mas meras presunções das autoridades públicas responsáveis pela persecução penal, o que afasta a competência da Justiça Federal.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de Guaíra - PR, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
