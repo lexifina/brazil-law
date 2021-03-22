@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto peloFUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO, com fundamento no art. 105, III, alíneas a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+A demanda tem origem em agravo de instrumento interposto pelo ora recorrente contra decisão que rejeitou a impugnação ao cumprimento da sentença.
+Valor da execução (fl. 5, apenso 2):R$ 70.704,34 (setenta mil, setecentos e quatro reais e trinta e quatro centavos), em agosto de 2017.
+A sentença afastou a preliminar de ilegitimidade, declarou prescritaa pretensão de repetição dos tributos pagos antes de 12.11.2005 e julgou parcialmente procedentes os pedidos para declarar a inexigibilidade da contribuição do salário-educação dos produtores rurais empregadores, a serem liquidadas posteriormente.
+O Tribunal a quonegouprovimento ao recurso, em acórdão assim ementado (fl. 42):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. SALÁRIO-EDUCAÇÃO ECAPACIDADE PROCESSUAL.
+Opostos embargos de declaração, foram eles rejeitados (fls. 69-72)
+Nas razões do recurso especial, alega o recorrente que os ora recorridos são sócios de empresas comerciais e, possuem atividade econômica não primordialmente rural, o que lhes retira a legitimidade de ingressar com execução individual da Ação Coletiva n. 5001463.04.2010.404.7206, especialmente no que diz respeito a duas das condições a serem provadas na fase de liquidação, quais sejam: ausência de inscrição como empresário ou firma individual no período da repetição de indébito e exercício primordial na atividade rural nos municípios que integram a competência territorial da Subseção Judiciária de Lages em 12.11.2010.
+Contrarrazões às fls. 92-100, pelo não conhecimento ou desprovimento do recurso especial.
+É o relatório. Decido.
+No caso dos autos, o recorrente não individualizou o dispositivo de lei federal que teria sido ofendido.
+Com efeito, o recorrente fez referência aos artigos 15 da Lei n. 9.424/1996, 2º, parágrafo único, do Decreto n. 6.003/2006, nas suas razões de recurso especial. Entretanto, não se desincumbiu do dever de concatenar a alegação de ofensa ao texto legalcom os seus argumentos no sentido, a demonstrar que os recorridos descumprem requisitos previstos em sentença coletiva.
+Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas, semindicar de forma específica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ainda que assim não fosse, observa-se que a Corte de origem, apreciando os argumentos da autarquia, de que se caracterizava aatividade empresarial, requisito para aexecução da citada ação coletiva,concluiu pela legitimidadedos ora recorridos, para a execução. Destaca-se o ponto elucidado no acórdão integrativo (fls. 70/71):
+No caso, o FNDE sustenta que MAKOTO UMEMIYA e ROSA FUMI YAMAGUCHIUMEMIYA exercem atividade empresarial, o que, segundo a autarquia, descaracterizaria a condição dos exequentes de produtor rural pessoa física.
+Razão não lhe assiste.
+Isto porque, o impugnado colacionou aos autos diversas Guias da Previdência Social - GPS comprobatórias do recolhimento do salário-educação preenchidas com a matrícula do Cadastro Específico do INSS - CEI do consórcio MAKOTO UMEMIYA E OUTRO e com endereço São Joaquim/SC, Município abrangido pela competência territorial da Subseção Judiciária de Lages.
+Impende destacar que a formação de um consórcio simplificado de produtores rurais não descaracteriza a natureza de produtor rural pessoa física dos consorciados, conforme expressamente previsto no artigo 25-A da Lei n. 8.212/91, incluído pela Lei n. 10.256/2001:
+Art. 25A. Equipara-se ao empregador rural pessoa física o consórcio simplificado de produtores rurais, formado pela união de produtores rurais pessoas físicas, que outorgar a um deles poderes para contratar, gerir e demitir trabalhadores para prestação de serviços, exclusivamente, aos seus integrantes, mediante documento registrado em cartório de títulos e documentos.
+Com efeito, o consórcio simplificado de produtores rurais não é uma pessoa jurídica resultante da união dos produtores rurais que o compõem, pois esta reunião não implica na perda da individualidade dos consorciados. É dizer, eles não partilham entre si o patrimônio ou a atividade econômica, mas apenas se unem para contratar, diretamente, empregados rurais, sendo outorgado a um deles poderes para contratar e gerir a mão-de-obra a ser utilizada em suas propriedades.
+Portanto, o consórcio simplificado de produtores rurais não está sujeito ao recolhimento da contribuição ao salário-educação.
+Para rever tal posição e interpretar odispositivolegalutilizado pela Cortea quocomo fundamento, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
