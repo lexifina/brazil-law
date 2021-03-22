@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de GLEIDSON GABRIEL PATROCINIO MIO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2082543-31.2020.8.26.0000.
+Extrai-se do auto que o paciente foi preso em flagrante em 18/04/2020 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas). Na mesma data foi proferida decisão beneficiando o paciente com a substituição da prisão preventiva por medidas cautelares previstas no art. 319, I, II, IV e V, do CPP.
+Em 24/04/2020 o juiz a quo acolheu representação do Ministério Público Estadual e decretou nova prisão preventiva do paciente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado (fl. 173):
+"Habeas Corpus - Tráfico de drogas (artigo 33, caput, da Lei nº 11.343/2006) - Decisão que acolheu representação ministerial e decretou a prisão preventiva do réu - Insurgência defensiva pleiteando a concessão de liberdade provisória, com fundamento (1) na ausência de requisitos legais para manutenção da medida; e (2) na Recomendação nº 62 do Conselho Nacional de Justiça - Descabimento - Embora sejam favoráveis as condições pessoais do réu e o crime cuja prática lhe é imputada não envolva violência e/ou grave ameaça contra pessoa, não se pode deslembrar que ele, em tese, descumpriu as condições impostas quanto da concessão da liberdade provisória, pois, tão logo passou a gozar do referido benefício deferido na audiência de custódia passou a intimidar vizinhos e dizer-se imune à ordem pública - Quebra de fiança caracterizada - Inteligência dos artigos 327, 328 e 350, parágrafo único, do Código de Processo Penal - Medidas cautelares que já se revelaram insuficientes - Necessária manutenção da prisão preventiva para garantia da ordem pública, bem como para conveniência da instrução criminal e aplicação da lei penal - Paciente que não se encaixa em nenhuma das hipóteses de excepcional concessão de liberdade provisória ou prisão domiciliar previstas na referida - Recomendação, bem como na decisão proferida pelo Ministro Marco Aurélio, do Supremo Tribunal Federal, na ADPF nº 347/DF Constrangimento ilegal não configurado ORDEM DENEGADA". (fls. 173)
+No presente writ, a defesa sustenta a ilegalidade da prisão preventiva, pois embasada na gravidade abstrata dos delitos, sem demonstração das circunstâncias concretas que indiquem a necessidade da constrição e a presença dos requisitos legais exigidos pelo art. 312 do Código de Processo Penal - CPP. Alega afronta aos princípios da presunção de inocência, proporcionalidade e devido processo legal.
+Ressalta as condições pessoais favoráveis do paciente.
+Defende a suficiência das medidas cautelares diversas da prisão, bem como assevera que, em caso de eventual condenação, será aplicado regime prisional aberto ou semiaberto, de modo que a prisão preventiva seria mais gravosa do que a própria reprimenda.
+Requer, em liminar e no mérito, a concessão da ordem para que seja deferida a liberdade provisória, com a expedição de alvará de soltura em favor do paciente.
+A liminar foi indeferida às fls. 368/370.
+Informações prestadas às fls. 377/379, 381.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 400/408).
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, das informações obtidas na página eletrônica da Corte Estadual, verificou-se que sobreveio sentença condenando o paciente às penas de 5 anos, 6 meses e 20 dias, de reclusão, em regime inicial fechado, além do pagamento de 555 dias-multa, como incurso no artigo 33, caput, da Lei nº 11.343/06, vedado o recurso em liberdade,
+A defesa interpôs recurso de apelação criminal perante a Corte Estadual, a qual em 04/03/2021 deu parcial provimento ao apelo para para diminuir a pena para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa, bem como fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas restritivas de direito, consistentes em prestação de serviços à comunidade, sendo expedido alvará de soltura em favor do paciente.
+Desse modo, constata-se a perda superveniente do objeto do presente writ.
+Ante o expo sto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
