@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE LUIZ DE SOUZA FERREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PENAL PROCESSO PENAL TRÁFICO DE DROGAS MATERIALIDADE E AUTORIA COMPROVADOS DOSIMETRIA PENABASE FIXADA DE OFÍCIO NO MÍNIMO LEGAL CAUSA DE DIMINUIÇÃO DO ART 33 § 4 DA LEI N 1134306 INCIDÊNCIA NO MÍNIMO (16) EM RAZÃO DA RELEVANTE CONTRIBUIÇÃO À ORGANIZAÇÃO CRIMINOSA MANTIDA A SENTENÇA CONDENATÓRIA APELAÇÃO NÃO PROVIDA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei n. 11.343/06 CP, no que concerne à fração de redução do tráfico privilegiado, trazendo o(s) seguinte(s) argumento(s):
+O percentual referente à causa de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/06 deve incidir em sua totalidade (2/3), uma vez que o recorrente preenche todos os requisitos legais.
+ ..
+Com efeito, o exposto deveria bastar para que o réu fosse beneficiado pela redução da pena em seu patamar máximo, haja vista o cumprimento da totalidade dos requisitos. No entanto, não foi assim que procedeu a douta Turma julgadora, que, ao final, fixou a incidência da causa de diminuição em seu patamar mínimo (1/6).
+ ..
+As circunstâncias apontadas pelo acórdão nada mais fazem do que demonstrar a condição de verdadeira mula do tráfico em que se encontrava o réu e, como se sabe, a mera condição de mula não é suficiente para a aplicação da causa de diminuição em seu patamar mínimo (fls. 794/795).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na terceira fase, incide a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06, isto porque, não obstante o réu não integrar a organização criminosa, prestou relevante contribuição. O denominado "Velho" pagou o bilhete aéreo, Uber, hotel em São Paulo e em Paris, o que evidencia que o réu tinha conhecimento da ilicitude de sua conduta e de estar a serviço do crime organizado. Adequada, portanto, a redução em 1/6 em razão do art. 33, § 4º, da Lei n. 11.343/06, ante a gravidade da conduta perpetrada (STJ, HC n. 387.077, Rel. Min. Ribeiro Dantas, j. 06.04.17). A redução, por conta disso, será de 1/6 (um sexto), perfazendo as penas de 4 (quatro) anos e 2 (dois) meses de reclusão, e 416 (quatrocentos e dezesseis) dias-multa (fl. 772, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
