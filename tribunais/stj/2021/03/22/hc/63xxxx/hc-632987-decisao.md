@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de ERICK NASCIMENTO GARCIA contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do artigo 157, § 2º, inciso II do Código Penal, às penas de 6 (seis) anos de reclusão, em regime inicialmente semiaberto, e 16 (dezesseis) dias-multa.
+Irresignada, a acusação interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao recurso, para reconhecer a circunstância da reincidência e agravar o regime prisional, concretizando a condenação em 7 (sete) anos, 2 (dois) meses e 12 (doze) dias de reclusão, em regime inicial fechado, e 17 (dezessete) dias-multa, nos termos do acórdão juntado às fls. 47-52, com a seguinte ementa:
+"APELAÇÃO. Artigo 157, §2º, II, do Código Penal. Condenação. RECURSO DO MINISTÉRIO PÚBLICO. Aplicação da agravante da reincidência. Agravamento do regime prisional.1. Se o acusado registra duas condenações transitadas em julgado, em data anterior ao crime ora julgado, conforme se extrai de sua FAC, afigura-se portador de maus antecedentes (1ª anotação) e reincidente específico (2ª anotação), assistindo razão ao Parquet quanto à manutenção da exasperação das penas-base e ao reconhecimento da respectiva circunstância agravante.2. Diante do novo quantum de pena concretizado e das circunstâncias pessoais do acusado, que registra maus antecedentes e reincidência específica, o regime prisional fechado é o adequado, para o qual se agrava aquele fixado na sentença. RECURSO PROVIDO."
+No presente writ, o impetrante sustenta a violação aos princípios da razoabilidade e da proporcionalidade, na segunda etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a fração da reincidência.
+Requer, ao final, a concessão da ordem, para reduzir a sanção (fls. 3-10).
+As informações foram prestadas às fls. 63-75.
+O Ministério Público Federal, às fls. 88-94, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOESPECIAL. ROUBO MAJORADO. APLICAÇÃO DALEI PENAL. PRECEDENTES DO STJ. NÃOCONHECIMENTO.- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.- 2ª Preliminar: conhecimento de ofício; ausência de competência. Precedentes: STJ (HC nº 245.731/MS; HC nº248.757/SP).- 3ª Preliminar: não conhecimento das questões suscitadas ou, mesmo de ofício, da ordem, sob pena de contrariar o art.105, inciso III, "a", "b" e "c" da CF.- Parecer pelo não conhecimento da ordem."
+É o breve relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta a violação aos princípios da razoabilidade e da proporcionalidade, na segunda etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a fração da reincidência.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Sobre o tema, consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea.
+Igualmente, a Terceira Seção desta Corte, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, firmou a tese de que não há maior desvalor na conduta do réu que ostente outra condenação pelo mesmo delito.
+Na hipótese, o Tribunal de origem incorreu em flagrante ilegalidade, pois agravou a pena em um quinto, sob o fundamento da recidiva específica, em desacordo com a jurisprudência desta Corte Superior.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CONSUMADO E TENTADO. DOSIMETRIA. MAJORAÇÃO NA SEGUNDA FASE. FRAÇÃO DE 1/3. REINCIDÊNCIA ESPECÍFICA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento desta Quinta Turma é no sentido de que a reincidência específica, por si só, não justifica aumento superior a 1/6. Precedentes. 2. Agravo regimental desprovido." (AgRg no HC 465.804/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 06/06/2019)
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, para fixar a pena em 07(sete) anos de reclusão, e 16(dezesseis) dias-multa, mantidos os demais termos da condenação.
+P. e I.
