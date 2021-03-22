@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ODAIR JOSÉ RUFINOcontra a decisão do Tribunal de Justiça do Estado de Mato Grossoque inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra o acórdão prolatado na Apelação Criminal n.0002013-30.2019.8.11.0064.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante à pena de 22 (vinte e dois) anos e 3 (três) meses de reclusão, em regime inicial fechado, como incurso no art. 121, § 2.º, incisos II, III, IV e VI, do Código Penal. Houve apelação somente defensiva, a que o Tribunal de origem deu parcial provimento, reduzindo a reprimenda para 18 (dezoito) anos de reclusão.
+No recurso especial, alegou-se a violação ao art. 59 do Código Penal, sustentando-se ser inidônea a fundamentação utilizada para se negativar a circunstância judicial referente àsconsequências do crime, aduzindo-se que "em nada desbordam as consequências normais do tipo de homicídio a dor pela qual passaram os familiares durante o procedimento de reconhecimento do corpo da vítima" (fl. 586).
+Pediu-se o provimento do recurso, com a exclusão do desvalor atribuído ao vetor.
+Oferecidas contrarrazões (fls. 591-608), inadmitiu-se o recurso na origem (fls. 609-613), advindo o presente agravo (fls. 624-630), contraminutado às fls. 624-630.
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo (fls. 643-646).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se na análise do recurso especial.
+O Juízo de primeiro grau, ao negativar as consequências do crime, assim fundamentou (fls. 485-486):
+"O delito deixou consequências lastimáveis, vez que foi ceifada uma vida humana, resultado necessário ao tipo penal. Todavia, foi semeando dor injusta e descabida a todos os seus familiares e queridos (fato que se apreciou nas declarações do genitor e do irmão da vítima e perceptível pelas reações dos demais familiares nesta sessão, inclusive a mãe da vítima está com graves problemas emocionais que estão afetando sua saúde), em especial pelo assassinato ocorrer com um fio de carregador de celular, sendo ainda que o pai e irmão foram obrigados a reconhecer o corpo da vítima em estado lastimável devido a início da putrefação porque o réu cobriu-a com cobertores e abandonou o corpo na residência, acelerando o estado de decomposição. O estado do corpo impediu ainda o devido funeral, o que causou maior dor e indignação nos familiares, logo acresço (02) anos pena."
+No julgamento da apelação defensiva, foram mantidos os fundamentos utilizados, na sentença, para negativar o referido vetor.
+Como se verifica, a negativação das consequências do crime, pelas instâncias ordinárias, está lastreada em três fundamentos distintos e autônomos, quais sejam: 1) a mãe da vítima está com graves problemas emocionais que têm afetado a sua saúde, em especial porque o homicídio ocorreu com o uso de um fio de carregador de celular; 2) o pai e irmão da vítima foram obrigados a reconhecer o corpo da vítima já em início de putrefação; 3) o estado do corpo impediu a realização de funeral, acrescendo maior dor aos familiares.
+As razões do recurso especial, entretanto, refutaram apenas o segundo fundamento, deixando incólumes os demais, os quais, são suficientes, cada um, por si só, para manter a negativação do vetor da consequências do crime. Sendo assim, a análise do recurso especial encontra empeço na Súmula n.283 do Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO QUALIFICADO. CONSEQUÊNCIAS DO CRIME. NEGATIVAÇÃO. FUNDAMENTOS DISTINTOS E AUTÔNOMOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
