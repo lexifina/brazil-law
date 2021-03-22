@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de PAULO CESAR CAETANO CARDOSO e JOSEMI SILVA DOS SANTOS contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500564-12.2020.8.26.0548.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, como incursos nas iras do art. 155, § 4º, I e IV, c/c art. 14, II, todos do Código Penal, às penas de: i) 8 (oito) meses de reclusão, em regime fechado, mais o pagamento de 3 (três) dias-multa, no que diz respeito a Josemi Silva dos Santos; e ii) 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 4 (quatro) dias-multa, em relação a Paulo Cesar Caetano Cardoso (fls. 12-18).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 32-36.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois deve ser aplicado o princípio da insignificância, uma vez que o valor da res furtiva é de R$ 8,30 (oito reais e trinta centavos).
+Sustenta que os antecedentes dos pacientes não podem afastar o princípio da bagatela.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 39-40).
+Informações prestadas às fls. 48-83.
+O Ministério Público Federal, às fls. 88-92, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. FURTO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. AFASTAMENTO. MAUS ANTECEDENTES. LEGALIDADE.
+- Não se conhece de habeas corpus impetrado contra decisão judicial passível de impugnação por recurso próprio.
+- A aferição acerca da existência de atipicidade material do delito, em razão do princípio da insignificância, depende do reconhecimento dos seguintes vetores, extraídos da jurisprudência do Colendo Supremo Tribunal Federal: a)mínima ofensividade da conduta; b) ausência de periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica.
+- O valor da res furtiva não ultrapassa aquele considerado por esse C. STJ como baliza para incidência da causa excepcional de tipicidade da conduta de furto, vez que não atinge 10% do salário-mínimo então vigente.
+- A Terceira Seção desse C. STJ firmou a tese, no julgamento dos EREsp n. 221.999/RS, de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável.
+- De uma minuciosa análise da folha de antecedentes criminais do paciente Paulo Cesar Caetano Cardoso, não se afere flagrante ilegalidade ante a não aplicação do princípio da insignificância à conduta de furto por ele praticada, vez que sua folha de antecedentes é extensa, contando, inclusive, com condenação pela prática de roubo e outros delitos patrimoniais(e-STJ, fls. 61-78).
+- Já com relação ao paciente Josemi Silva Dos Santos, observa-se que, com relação à ação penal pela prática do delito de furto, foi absolvido, restando, contudo, outra ação penal em sua folha de antecedentes, não tendo a defesa se desincumbido de demonstrar a imprestabilidade do registro para impedir a incidência do princípio da insignificância (e-STJ, fls. 79-82).
+- Parecer pelo não conhecimento do habeas corpus" (fls. 88-89).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a absolvição dos pacientes, ante a incidência do princípio da insignificância.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Outrossim, impossível o reconhecimento do furto privilegiado, diante da reincidência dos apelantes (fls. 55 e 64), benefício aplicado somente aos réus primários, conforme estabelecido no §2º, do art. 155, do Código Penal.
+No mais, as penas foram aplicadas com correção, sendo considerados na primeira fase, os péssimos antecedentes do réu Paulo (fls. 59/61)" (fl. 35).
+Com efeito, "a Terceira Seção desta Corte, no julgamento dos EREsp n. 221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável" (RHC n. 118.548/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 13/12/2019).
+Na hipótese em foco, observa-se não ser recomendável a aplicação do princípio da insignificância. Isso porque o paciente Paulo ostenta diversos maus antecedentes e, ainda, é reincidente, condição última verificada também em relação ao paciente Josemi.
+Ademais, o ínfimo valor da res furtiva, diante das referidas circunstâncias não tem o condão de, por si só, atrair a incidência do princípio bagatelar. Nesse sentido: AgRg no AREsp n. 1553855/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 26/11/2019; AgRg no HC n. 516.674/MG, Quinta Turma, Leopoldo De Arruda Raposo (DESEMBARGADOR CONVOCADO DO TJ/PE), DJe 29/10/2019; e HC n. 540.456/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 09/12/2019.
+Registre-se que, "apesar de não configurar reincidência, a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância" (AgRg no HC n. 578.039/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 04/09/2020). A propósito: AgRg no AREsp n. 1150475/MS, Quinta Turma, Rel. Min. Jorge Mussi, DJe 06/04/2018; e AgRg no AREsp n. 1076199/MG, Quinta Turma, Rel. Min. Reynaldo Soares Da Fonseca, DJe 01/08/2017.
+De mais a mais, "a jurisprudência desta Corte Superior é firme no sentido de que a prática do delito de furto qualificado por concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento, inviabilizando a aplicação do princípio da insignificância" (AgRg no AREsp n. 1541656/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 22/11/2019).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
