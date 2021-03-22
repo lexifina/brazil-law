@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo interposto por VALDINEI MENDES MARINHO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de VALDINEI MENDES MARINHO, a parte Recorrente foi intimada da decisão agravada em 23/11/2020, sendo o agravo somente interposto em 16/12/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A jurisprudência firmada no âmbito deste Superior Tribunal de Justiça consolidou o entendimento de que, para fins de aplicação do art. 1º da Lei n. 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile, como, de fato, foi o modo de interposição recursal na espécie.
+Nesse sentido, os seguintes precedentes: AgInt no RMS 61.298/BA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 22/5/2020; AgInt nos EDcl no AREsp 1518760/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe de 28/4/2020; AgInt no AREsp 1414107/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/9/2019; e, AgRg no AREsp 1295788/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/5/2019.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
