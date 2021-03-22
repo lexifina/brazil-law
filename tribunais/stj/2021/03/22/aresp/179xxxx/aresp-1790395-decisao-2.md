@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo
+Tribunal Regional Federal da 4ª Região, assim ementado (fl. 115):
+PREVIDENCIÁRIO. CONCESSÃO DE AUXÍLIO-DOENÇA. SEGURADOFACULTATIVO DE BAIXA RENDA. MARCO INICIAL. TUTELAESPECÍFICA.
+1. Comprovado pelo conjunto probatório que a parte autora é portadora de enfermidade(s) que a incapacita(m) temporariamente para o trabalho desde quando tinha qualidade de segurada (de baixa renda) e cumprido a carência, é de ser reformada a sentença para conceder o auxílio-doença desde a data do laudo judicial.
+2. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício de auxílio-doença, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo (sine intervallo).
+Opostos embargos de declaração, foram rejeitados (fls. 153/157).
+Nas razões do apelo especial, aponta o recorrente, violação do art. 60, §§ 8º e 9º,da Lei 8.213/91, sustentandoa legalidade da cessação automática do benefício de auxílio-doença no prazo de 120 dias após sua concessão, na hipótese de ausência de outra data para duração do benefício e de pedido de prorrogação.
+Afirma que "..uma vez proferida decisão judicial - provisória ou definitiva -sem a fixação do prazo estimado de recuperação que permita a definição da DCB(§8º), vale a regra de direito material que estabelece a duração inicial de 120 dias para o auxílio-doença, com possibilidade de o segurado requerer a prorrogação do benefício (§9º)." (fl. 184).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Isto porque, quanto à questão de fundo, esta Corte possui firme entendimento de que o procedimento denominado "alta programada", em que a autarquia previdenciária, ao conceder benefício de auxílio-doença, desde logo e independentemente de nova perícia, fixa prazo para o retorno do segurado à atividade laborativa, não encontra respaldo na legislação federal.
+Isso porque o art. 62 da Lei n. 8.213/91 determina que o benefício seja mantido até que o segurado seja considerado reabilitado para o exercício de atividade laboral. Confiram-se os termos do mencionado dispositivo legal, in verbis:
+Art. 62. O segurado em gozo de auxílio-doença, insuscetível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade. (Redação dada pela Lei nº 13.457, de 2017)
+Parágrafo único. O benefício a que se refere o caput deste artigo será mantido até que o segurado seja considerado reabilitado para o desempenho de atividade que lhe garanta a subsistência ou, quando considerado não recuperável, seja aposentado por invalidez. (Incluído pela Lei nº 13.457, de 2017)
+A cessação de benefício previdenciário por incapacidade pressupõe prévia
+avaliação médica, sendo imprescindível, no caso concreto, que o INSS realize nova perícia, em ordem que o segurado retorne às atividades habituais apenas quando efetivamente constatada a restauração de sua capacidade laborativa.
+A propósito, a Primeira Turma deste Tribunal, ao julgar o REsp 1.599.554/BA, DJe de 13/11/2017, Rel. Min. Sérgio Kukina, enfrentou a questão e confirmou o entendimento acima exposto, consoante se vê da seguinte ementa:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. CANCELAMENTO AUTOMÁTICO DO BENEFÍCIO À MÍNGUA DE NOVA PERÍCIA MÉDICA. IMPOSSIBILIDADE.
+1. O procedimento conhecido por "alta programada", em que a autarquia previdenciária, ao conceder benefício de auxílio-doença, fixa previamente o prazo para o retorno do segurado à atividade laborativa, à míngua de nova perícia, não encontra respaldo na legislação federal.
+2. Em atenção ao art. 62 da Lei n. 8.213/91, faz-se imprescindível que, no caso concreto, o INSS promova nova perícia médica, em ordem a que o segurado retorne às atividades habituais apenas quando efetivamente constatada a restauração de sua capacidade laborativa.
+3. No que regulamentou a "alta programada", o art. 78 do Decreto 3.048/99,
+à época dos fatos (ano de 2006), desbordou da diretriz traçada no art. 62 da Lei n. 8.213/91.
+4. Recurso especial do INSS improvido.
+No mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RACIONALIDADE DE TRATAMENTO MÉDICO. RECURSO ESPECIAL. AUXÍLIO-DOENÇA. FIXAÇÃO PRÉVIA DE TERMO FINAL PARA CESSAÇÃO DO BENEFÍCIO. ALTA MÉDICA PROGRAMADA ANTERIOR A MP 736/2016. INCOMPATIBILIDADE COM A LEI 8.213/91, ART. 62. A SUSPENSÃO DO BENEFÍCIO DEVE SER PRECEDIDA DE PERÍCIA MÉDICA. PARECER MINISTERIAL PELO DESPROVIMENTO DO FEITO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O art. 62 da Lei 8.213/91 é taxativo em afirmar que o benefício de auxílio-doença só cessará quando o Segurado seja dado como habilitado para o desempenho de nova atividade que lhe garanta a subsistência, pelo que não se há de presumir esse estado de higidez e, menos ainda, que ele possa se instalar por simples determinação ou deliberação do Esculápio.
+2. Não há que se falar, portanto, em fixação de termo final para a cessação do pagamento do benefício previdenciário de auxílio-doença através de uma perícia prévia inicial, que ganharia um caráter de prova insofismável, atribuindo à perícia características típicas do positivismo filosófico (exatidão, certeza, generalidade e previsibilidade), insusceptível de erro ou inadequação à verdade.
+3. Mostra-se inadmissível a prevalência da celeridade e da redução de gastos públicos em detrimento da Justiça e dos direitos fundamentais do Trabalhador, na condução das demandas previdenciárias em que se busca um benefício por incapacidade.
+4. Logo, não há que se falar em alta presumida para a cessação do pagamento do benefício previdenciário de auxílio-doença, uma vez que a perícia médica é condição indispensável à cessação do benefício, nos termos do art. 62 da Lei 8.213/91, pois somente ela poderá atestar se o Segurado possui condição de retornar às suas atividades ou não; além dessa previsão legal, há, ainda, a lógica linear comum e o bom sendo que orientam a realidade das relações da vida humana e social.
+5. Registre-se que a edição da MP 736/2016, que acrescentou os §§ 8º. e 9º. ao art. 60 da Lei 8.213/91, consignando que sempre que possível o ato de concessão do auxílio-doença deverá fixar o prazo estimado da duração do benefício, sob pena de cessação automática em 120 dias, salvo requerimento de prorrogação formulado pelo Segurado, não modifica o entendimento aqui fixado e sim reforça a tese aqui apresentada de que tal conduta carecia de previsão legal.
+6. As questões previdenciárias regem-se pelo princípio tempus regit actum, razão pela qual as alterações legislativas, especialmente aquelas restritivas de direitos, só serão aplicadas aos benefícios concedidos após a sua publicação, o que não é a hipótese dos autos.
+7. Agravo Interno do INSS a que se nega provimento.
+(AgInt no REsp 1.601.741/MT, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 26/10/2017)
+PREVIDENCIÁRIO. AUXÍLIO DOENÇA. CESSAÇÃO DO BENEFÍCIO POR ALTA PROGRAMADA. IMPOSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui o entendimento de que não é possível o cancelamento automático do benefício previdenciário através do mecanismo da alta programada, sem que haja o prévio procedimento administrativo, ainda que diante da desídia do segurado em proceder à nova perícia perante o INSS.
+2. Agravo interno não provido.
+(AgInt no REsp nº 1.546.769/MT, Rel. Min. GURGEL DE FARIA, DJe de
+03/10/2017)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. OFENSA AO ART. 62 DA LEI 8.213/1991. NECESSIDADE DE PERÍCIA. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO. DOCUMENTO IDÔNEO. INTEMPESTIVIDADE AFASTADA. OFENSA AO ART. 535 DO CPC/1973 NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Trata-se na origem de Mandado de Segurança contra ato do Chefe de Agência do INSS que cessou o benefício de auxílio-doença do ora recorrido com base no sistema de alta programada.
+2. O Agravo em Recurso Especial interposto pelo INSS não foi conhecido ante a sua intempestividade.
+3. O Superior Tribunal de Justiça passou a admitir a comprovação posterior da tempestividade do Recurso Especial, em virtude de feriado local ou de suspensão de expediente forense no Tribunal de origem, quando da interposição do Agravo Interno (AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe 15/10/2012).
+4. Não se conhece de Recurso Especial em relação à ofensa ao art. 535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+5. O sistema de alta programada estabelecido pelo INSS apresenta como justificativa principal a desburocratização do procedimento de concessão de benefícios por incapacidade. Todavia, não é possível que um sistema previdenciário, cujo pressuposto é a proteção social, se abstenha de acompanhar a recuperação da capacidade laborativa dos segurados incapazes,
+atribuindo-lhes o ônus de um auto exame clínico, a pretexto da diminuição das filas de atendimento na autarquia.
+6. Cabe ao INSS proporcionar um acompanhamento do segurado incapaz até a sua total capacidade, reabilitação profissional, auxílio-acidente ou aposentadoria por invalidez, não podendo a autarquia focar apenas no aspecto da contraprestação pecuniária.
+7. Na forma do art. 62 da Lei 8.213/1991, "o segurado em gozo de auxílio-doença, insusceptível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade", e "não cessará o benefício até que seja dado como habilitado para o desempenho de nova atividade que lhe garanta a subsistência ou, quando considerado não-recuperável, for aposentado por invalidez". Transferir essa avaliação ao próprio segurado fere gravemente o princípio da dignidade da pessoa humana.
+8. Além disso, a jurisprudência que vem se firmando no âmbito do STJ é no sentido de que não se pode proceder ao cancelamento automático do benefício previdenciário, ainda que diante de desídia do segurado em proceder à nova perícia perante o INSS, sem que haja prévio procedimento administrativo, sob pena de ofensa aos princípios da ampla defesa e do contraditório.
+9. Agravo Interno parcialmente conhecido para afastar intempestividade e, no mérito, não provido.
+(AgInt no AREsp 1.049.440/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Em suma, no que regulamentou a alta programada, o art. 78 do Decreto 3.048/99, à época dos fatos, desbordou da diretriz traçada no art. 62 da Lei n. 8.213/91.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
