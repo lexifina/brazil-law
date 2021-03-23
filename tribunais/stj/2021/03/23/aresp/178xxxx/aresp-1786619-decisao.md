@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. Pretensão de declaração de nulidade de cláusula contratual e afastamento de reajustes por sinistralidade e por VCMH aplicados a contrato coletivo, com substituição pelos índices fixados pela ANS e de repetição do indébito - Aplicação do prazo trienal (art. 206, § 3º, IV, CC). Recurso repetitivo (Tema 610). A cláusula que prevê nos contratos coletivos o reajuste por aumento da sinistralidade e VCMH não padece de ilegalidade em abstrato e tem sido aceita pela jurisprudência, todavia, deve haver efetiva comprovação do aumento dos índices de sinistralidade e da elevação dos custos, bem como da sua correlação com a fórmula prevista no contrato. Ausência de abusividade do reajuste que se condiciona ao respeito à Lei 9.656/98 e ao CDC, não sendo permitida aplicação de índices de reajuste desarrazoados ou aleatórios, que onerem em demasia o segurado. Ré que não demonstrou a origem dos reajustes aplicados e a sua razoabilidade. Aplicação dos índices divulgados pela ANS aos reajustes impugnados. Direito à restituição das quantias pagas a mais, considerada a prescrição trienal. Sentença mantida - NEGARAM PROVIMENTO AO RECURSO.
+Alegou-se, no especial, violação dos artigos 16, XI, da Lei 9.656/98, 478 e 479 do Código Civil e 6º, III, do Código de Defesa do Consumidor, sob o argumento de que é legítimo o reajuste na mensalidade do plano de saúde tal como efetuado pelo agravante.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o agravado ajuizou demanda questionando os reajustes nas mensalidade do plano de saúde contratado com a recorrente.
+O Tribunal local concluiu, em"relação aos reajustes por sinistralidade e reajuste por aumento dos custos médico-hospitalares, tem-se que, embora seja admissível a fixação de índice de reajuste aos contratos coletivos diverso do aplicável aos contratos individuais, é certo que, no caso concreto, a ré não logrou êxito em demonstrar satisfatoriamente a origem do reajuste praticado" (e-STJ, fl. 328).
+Esta Corte tem, de fato, entendimento no sentido de que, se o aumento das mensalidades tem como fundamento o aumento de custos, a parte deve comprová-lo.
+Se a conclusão foi, portanto, a de que não houve prova de tal aumento de custos, o reexame da causa esbarra nas disposições dos verbetes n. 5, 7 e 83 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA.DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A conclusão a que chegou o Tribunal local - acerca da abusividade do percentual de reajuste por sinistralidade - decorreu da análise das cláusulas contratuais e dos elementos fáticos-probatórios acostados aos autos, cuja revisão é vedada em sede de recurso especial ante o óbice das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1699570/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/10/2020, DJe 17/11/2020)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
