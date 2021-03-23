@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "AGRAVO DE INSTRUMENTO DA RECLAMANTE. INDENIZAÇÃO POR DANO MATERIAL. O processamento do recurso de revista está adstrito à demonstração de divergência jurisprudencial (art. 896, alíneas a e b, da CLT) ou violação direta e literal de dispositivo da Constituição da República ou de lei federal (art. 896, c, da CLT). Não demonstrada nenhuma das hipóteses do art. 896 da CLT, não há como reformar o r. despacho agravado. Agravo de Instrumento de que se conhece e a que se nega provimento. AGRAVO DE INSTRUMENTO DA RECLAMADA. PLANO DE SAÚDE – MANUTENÇÃO APÓS A APOSENTADORIA. EDITAL DE PRIVATIZAÇÃO. O processamento do recurso de revista está adstrito à demonstração de divergência jurisprudencial (art. 896, alíneas a e b, da CLT) ou violação direta e literal de dispositivo da Constituição da República ou de lei federal (art. 896, c, da CLT). Não demonstrada nenhuma das hipóteses do art. 896 da CLT, não há como reformar o r. despacho agravado. Agravo de Instrumento de que se conhece e a que se nega provimento."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o acolhimento da pretensão da parte agravante demandaria necessariamente o reexame do conjunto fático-probatório dos autos, bem como das normas coletivas firmadas entre as partes e do edital de privatização da empresa, o que se mostra inviável no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas nºs 279 e 454 desta Corte. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Plano de saúde. Ex-empregado. Fatos e provas. Normas coletivas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Inadmissível, em recurso extraordinário, o reexame do conjunto fático-probatório dos autos, bem como das normas coletivas firmadas entre as partes e do edital de privatização da empresa. Incidência das Súmulas nºs 279 e 454/STF. 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 189.655/DF - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 29/5/19).
+    No mesmo sentido: RE 1.231.979-ED, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 18/12/2019; RE 1.173.779-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 31/5/2019 e RE 832.960-AgR, Rel. Min Luiz Fux, Primeira Turma, DJe de 21/5/2019.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
