@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por NICOLAS MATEUS DE ARAÚJO ROCHA contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 5000082-68.2021.8.24.0000).
+Infere-se dos autos que o recorrente foi condenado, por infração ao art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, momento em que foi decretada a sua prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem nos termos da seguinte ementa (e-STJ fls. 61/62):
+HABEAS CORPUS . PACIENTE DENUNCIADO E CONDENADO PELA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). PRISÃO CAUTELAR DECRETADA NA SENTENÇA. ALEGAÇÃO DE INEXISTÊNCIA DOS REQUISITOS DA CUSTÓDIA CAUTELAR. NÃO OCORRÊNCIA. REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL PREENCHIDOS.DECISÃO QUE JUSTIFICOU A MANUTENÇÃO DA SEGREGAÇÃO.DETERMINAÇÃO ANTERIOR DE SUA SOLTURA QUE NÃO IMPEDE NOVA DECRETAÇÃO, CASO PRESENTES OS PRESSUPOSTOS DA MEDIDA EXCEPCIONAL. ADEMAIS, CONDENAÇÕES ANTERIORES EM OUTRO ESTADO DA FEDERAÇÃO QUE DENOTA A PERSISTÊNCIA NO COMETIMENTO DE ILÍCITOS PENAIS. BONS PREDICADOS QUE NÃO OBSTAM A SEGREGAÇÃO CAUTELAR. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA APLICAÇÃO DE MEDIDAS CAUTELARES QUE, NA HIPÓTESE, NÃO SE MOSTRA ADEQUADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+1. Inexiste constrangimento ilegal na sentença penal condenatória que nega ao paciente o direito de recorrer em liberdade - decretando-lhe a prisão preventiva - se presentes os requisitos do art. 312 do código de processo penal.
+2. Não há falar em ilegalidade na prisão quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina ou mantém a prisão preventiva.
+3. Os predicados subjetivos do paciente não constituem óbice à manutenção da sua segregação cautelar, desde que presentes os requisitos da prisão preventiva.
+4. " ..  demonstrado nos autos com base em fatos concretos que a prisão provisória é necessária para a garantia da ordem pública, ordem econômica, conveniência da instrução criminal ou aplicação da lei penal, não há falar em substituição pelas medidas cautelares previstas nos incisos do artigo 319 do código de processo penal". (TJSC - Habeas Corpus n. 2012.008842-7, deCapinzal, 4ª Câmara Criminal, Rel. DesembargadorJORGE SCHAEFER MARTINS, j. em 8/3/2012).
+Na presente impetração, a defesa alega, em síntese,que a segregação cautelar é ilegítima, ante a ausência de fundamentação idônea quanto ao periculum libertatis, especialmente diante da inexistência de alteração fática posterior à decisão que, em 29/9/2020, revogou a sua prisão preventiva decretada inicialmente.
+Diante disso, requer a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 105/108).
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a impetração do HC n. 647.925/SC, em favor do ora recorrente, requerendo, igualmente, a revogação do decreto prisional, sob os mesmo fundamentos ora apresentados e voltando-se contra o mesmo ato coator (HC n. 5000082-68.2021.8.24.0000), cuja ordemfoi denegada, por não haver nenhum constrangimento ilegal a ser sanado por esta Corte.
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, não conheço do recurso.
+Intimem-se.
