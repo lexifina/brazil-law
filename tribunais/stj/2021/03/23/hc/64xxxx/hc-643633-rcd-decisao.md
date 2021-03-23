@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de reconsideração protocolado em benefício de JESSE JUNIO OLIVEIRA DE SOUZA,contra decisão de fl. 87, que não conheceu do habeas corpus,com estes fundamentos:
+"Trata-se de habeas corpus substitutivo de recurso próprio no qual busca-se a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/06, bem como a fixação de regime prisional menos gravoso para o delito de tráfico de drogas. No entanto, esses pedidos já foram apreciados no Habeas Corpus n. 551.893/SP.
+Dessa forma, não conheço do habeas corpus."
+Na presente petição, alega-se que "o HC infra mencionado foi impetrado em dezembro de 2019, há mais de 1 ano e não foi pedido reconsideração ou interposto agravo interno pela Defensoria Pública a época" (fl. 91).
+Pugna-se, assim, pela reconsideração do decisum.
+É o relatório.
+Decido.
+Em que pese o esforço da defesa, os fatos trazidos não são aptos a ensejar a reanálise de pedidos já examinados nesta Corte, que devem ser impugnados nas instâncias superiores, com os meios processuais disponíveis na legislação de regência.
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AÇÃO PENAL DEFLAGRADA NO ÂMBITO DA DENOMINADA "LAVA JATO PAULISTA". DESVIO DE RECURSOS PÚBLICOS DO PROGRAMA DE REASSENTAMENTO DOS EMPREENDIMENTOS RODOANEL SUL, JACU PÊSSEGO E NOVA MARGINAL TIETÊ. PEDIDO DE RECONSIDERAÇÃO. REITERAÇÃO DO HC N. 545.788/SP.ALEGADA NULIDADE DA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA. INDEFERIMENTO FUNDAMENTADO DE PRODUÇÃO PROBATÓRIA COMPLEMENTAR. ART. 402 DO CPP.DISCRICIONARIEDADE DO MAGISTRADO. PRECEDENTES. EXAME QUANTO À INDISPENSABILIDADE DAS PROVAS REQUERIDAS. PROVIDÊNCIA INVIÁVEL EM HABEAS CORPUS INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.Precedentes: STF, STF, HC 147.210-AgR, Rel. Ministro EDSON FACHIN, DJe de 20/2/2020; HC 180.365AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC 169174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC 172.308-AgR, Rel. Ministro LUIZ FUX, DJe de 17/9/2019 e HC 174184-AgRg, Rel. Ministro LUIZ FUX, DJe de 25/10/2019. STJ:HC 563.063-SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC 323.409/RJ, Rel. p/ acórdão Ministro FÉLIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; HC 381.248/MG, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção , julgado em 22/2/2018, DJe de 3/4/2018.
+2. O pedido de reconsideração contido no presente habeas corpus consubstancia-se em mera reiteração do HC n. 545.788/SP também de minha relatoria, visto que há identidade de partes, de pedido e de causa de pedir, além de ambos impugnarem o mesmo acórdão (HC n.5017995-52.2019.4.03.0000).
+3. "O Magistrado condutor da ação penal pode indeferir, desde que em decisão devidamente fundamentada, as diligências que entender protelatórias ou desnecessárias, dentro de um juízo de conveniência, que é próprio do seu regular poder discricionário" (RHC 33.155/SC, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 22/10/2013, DJe de 5/11/2013).
+4. Na hipótese, não há que se falar em nulidade da instrução criminal quando o Juízo de primeiro grau refutou, fundamentadamente, cada um dos pedidos de diligências complementares da defesa, pois, em cotejo com os demais elementos de prova, os considerou protelatórios e desnecessários ao deslinde do feito, inexistindo violaçãoaos princípios do devido processo legal, da ampla defesa e contraditório.
+5. A análise quanto à imprescindibilidade das referidas provas para a busca da verdade real demandaria inevitavelmente profunda incursão nos fatos e elementos probatórios da ação penal, o que, como se sabe, não se compatibiliza com a via eleita.
+6. Habeas corpus não conhecido.
+(HC 541.052/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/08/2020).
+Diante do exposto, indefiro o pedido de reconsideração.
+Publique-se.
+Intimem-se.
