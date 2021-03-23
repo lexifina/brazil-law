@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por Júlio César Cardoso, com fundamento na alínea c do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 5ª Região na Apelação Criminal n. 0802948-81.2018.4.05.8500 (fls. 2.440/2.450):
+PENAL E PROCESSUAL PENAL. APELAÇÃO. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, I, DA LEI Nº 8.137/1990). SONEGAÇÃO DE TRIBUTOS FEDERAIS. ANOS-CALENDÁRIO 2004-2006. PRELIMINAR DE INÉPCIA DA DENÚNCIA AFASTADA. PRECLUSÃO. MATERIALIDADE E AUTORIA COMPROVADAS. DOLO ESPECÍFICO. PRESCINDIBILIDADE. DOSIMETRIA DA PENA. AUMENTO DA PENA DECORRENTE DO GRAVE DANO À COLETIVIDADE. CABIMENTO. CONTINUIDADE DELITIVA CONFIGURADA. RECURSO DO MPF PARCIALMENTE PROVIDO E RECURSO DA DEFESA IMPROVIDO.
+No presente recurso especial, é indicada a presença de dissídio jurisprudencial.
+Assevera o recorrente que a aplicação da majorante de grave dano a coletividade, prevista no art.12, I, da Lei n. 8.137/1990, observa-se, da mesma forma, a divergência de entendimento quanto a composição dos valores a serem utilizados para sua caracterização, isto é, se o valor do imposto ou deste acrescido de juros e multa.  ..  Para demonstração do dissídio jurisprudencial, toma-se como paradigma decisão da Sexta Turma do Superior Tribunal de Justiça, proferida nos autos do AgRg no AREsp n. 221.023/RS, julgado em 08/11/2016, assim como decisão da Sétima Turma do Tribunal Regional Federal da 4ª Região, nos autos da Apelação Criminal n. 2003.72.04.010082-7/SC (fls. 2.469).
+Destaca que,com base no cotejo analítico acima e na reprodução dos julgados divergentes na rede mundial de computadores que seguem anexos, requer seja sanada a divergência apontada para prevalecer o entendimento exposto no Acórdão paradigma, e assim dar provimento ao presente Recurso Especial, no sentido de afastar a majorante prevista no artigo 12, I, da Lei 8.137/90 (fl. 2.469).
+Ao final da peça recursal,requer se dignem Vossas Excelências, doutos Ministros do Egrégio Superior Tribunal de Justiça, pelo conhecimento e provimento do presente Recurso Especial, para que seja reformado o v. Acórdão proferido pela 3º Turma do TRF 5, de modo a reconhecer a divergência quanto a configuração da majorante prevista no art.12, I, da Lei n. 8.137/1990, excluindo-a da dosimetria da pena (fls. 2.469/2.470).
+Oferecidas contrarrazões (fls. 2.480/2.488), o recurso especial foi admitido na origem (fl. 2.490).
+O Ministério Público Federal opina pelo não conhecimento da insurgência (fls. 2.507/2.513):
+RECURSO ESPECIAL. Sonegação Fiscal. Pleito de afastamento da causa de aumento prevista no art. 12, I da Lei n. 8.137/90. Ausência de prequestionamento. Dissídio não demonstrado. Deficiência de cotejo analítico. Fundamentação inidônea. Não conhecimento.
+É o relatório.
+Em relação ao indicado dissenso jurisprudencial, não houve a demonstração da divergência por meio da realização do cotejo analítico, com a transcrição de trechos que demonstrassem a similitude fática e a diferente interpretação da lei federal, consoante determina o art. 255, § 2º, do RISTJ.
+Ressalta-se que a mera transcrição de ementas não configura o dissídio jurisprudencial, sendo necessário o cotejo analítico dos acórdãos recorrido e paradigma para a demonstração da similitude fática das decisões.
+Ainda que assim não fosse, para a jurisprudência desta Corte Superior,o dano tributário é valorado considerando seu valor atual e integral, incluindo os acréscimos legais de juros e multa (AgRg no REsp n. 1.849.662/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020 - grifo nosso).
+A reforçar:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SÚMULA N. 7/STJ. INAPLICABILIDADE. MAJORANTE. ART. 12, I, DA LEI N. 8.137/1990. VALOR DO TRIBUTO SONEGADO.
+1. Ao contrário do que sustenta a agravante, o conhecimento do recurso especial interposto pelo Ministério Público prescindiu do reexame de fatos e provas, apenas de sua revaloração, uma vez que os dados necessários para a sua solução (valor dos tributos sonegados) faziam parte da moldura fática delineada pelo acórdão recorrido. Portanto, não é o caso de aplicação da Súmula n. 7 desta Corte.
+2. Segundo o escólio jurisprudencial desta Corte, "o dano tributário é valorado considerando seu valor atual e integral, incluindo os acréscimos legais de juros e multa" (REsp n. 1.849.120/SC, relator Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 11/3/2020, DJe 25/3/2020).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.853.570/PR, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2020 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. SONEGAÇÃO FISCAL. DISSÍDIO JURISPRUDENCIAL. TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE COTEJO ANALÍTICO. INADMISSIBILIDADE. GRAVE DANO À COLETIVIDADE. DANO TRIBUTÁRIO. CONSIDERAÇÃO DO VALOR ATUAL E INTEGRAL, INCLUINDO OS ACRÉSCIMOS LEGAIS DE JUROS E MULTA. JURISPRUDÊNCIA DA SEXTA TURMA.
+Recurso especial não conhecido.
