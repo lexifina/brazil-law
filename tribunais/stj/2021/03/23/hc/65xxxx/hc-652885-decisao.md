@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARI ELCI DE OLIVEIRA CRUZ contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n.2223185-88.2019.8.26.0000.
+Consta nos autos que o Paciente foi condenado:
+"Àpena de 18 (dezoito) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial SEMIABERTO, bem como a 47 (quarenta e sete) dias-multa, cada qual em seu patamar mais raso, por incurso nos artigos 158, caput, por diversas vezes, na forma do artigo 71, ambos do Código Penal (fato 1); como incurso no artigo 158, caput, do Código Penal (fato 2) e como incurso no artigo 158, caput, por diversas vezes, na forma do artigo 71, caput, todos do Código Penal (fato 3), na forma do artigo 69, também do Código Penal".
+Foi negado reconhecimento ao direito do Paciente de apelar em liberdade (fl. 94). O Ministério Público opôs embargos de declaração, que foram acolhidos para "declarar o dispositivo, corrigindo o regime inicial para FECHADO".
+Inconformada, a Defesa impetrou habeas corpus, que foi conhecido, em parte, e, nessa parte, denegada a ordem (fls. 26-34).
+Neste writ, o Impetrante alega, em síntese: a) a violação à norma prevista no art. 316, parágrafo único, do Código de Processo Penal, pois a prisão cautelar decretada na sentença ainda não foi revisada; b) a ausência de requisitos e de fundamentos idôneos para a negativa de reconhecimento do direito de recorrer em liberdade, sobretudo porque o Paciente respondeu ao processo em liberdade e não há fatos novos que embasem a referida negativa, já que a suposta reiteração delitiva, sustentada pelo Tribunal local, se relaciona a outro crime supostamente praticado em 2007, com sentença em 2016, ou seja, antes dos fatos ora apurados;c) a incompatibilidade da prisão em estabelecimento prisional com a situação de pandemia; e d) a suficiência de cautelares alternativas.
+É o relatório. Decido.
+No HC n. 569.266/SP e noRHC n. 136.818/SP, a mim distribuído, respectivamente, nos dias 27/03/2020 e 20/10/2020, foramformuladasidênticas pretensões, em favor da mesma pessoa (ora Paciente).
+Esta impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir. Assim, concluo pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. REITERAÇÃO DOSPLEITOS FORMULADOS NO HC N.569.266/SP E NO RHC N.136.818/SP. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
