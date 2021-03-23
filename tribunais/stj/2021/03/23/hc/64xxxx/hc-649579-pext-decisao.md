@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de pedido de extensão apresentadoem favor de GUSTAVO HENRIQUE MOREIRA DE JESUS em razão da ordem concedida ao corréu Anderson Alves de Souza nos autos do presente habeas corpus,de minha relatoria.
+O requerente encontra-se preso preventivamente, desde 6/4/2020, pelaprática dos crimes descritos nos arts. 33,caput,e 35, caput, ambos da Lein. 11.343/2006.
+A ordem foi concedida a Anderson Alves de Souzaa fim de deferir a liberdade provisóriapor ter sido convertida sua prisão em flagrante em preventiva de ofício(e-STJ fls.93/97).
+Requer, assim, a defesa do peticionário a concessão daextensão dos efeitos da decisão proferida em favor do paciente, nostermos do art. 580do Código de Processo Penal, visto que as situações fático-jurídicas são as mesmas para ambosos réus.
+É, em síntese, o relatório.
+Decido.
+O pedido comporta deferimento.
+Como é cediço, o deferimento do pedido de extensão exigeque o corréuesteja na mesma condição fático-processual daquele já beneficiado, conforme o art. 580 do Código de Processo Penal.
+Nesse sentido:
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS EASSOCIAÇÃO PARA OTRÁFICO. PRISÃO PREVENTIVA. CUSTÓDIA ANTECIPADA BASEADA NA GRAVIDADEABSTRATA DO FATO CRIMINOSO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA DA ORDEMCONSTRITIVA À LUZ DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. MEDIDASALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. IDENTIDADE DE SITUAÇÕESPROCESSUAIS. EXTENSÃO DEFERIDA.
+1. Esta Quinta Turma, por unanimidade de votos, na sessão ordinária do dia18.8.2016, concedeu a ordem de ofício para revogar a custódia preventivado acusado, mediante a imposição das medidas alternativas à prisãoprevistas no artigo 319, incisos I, IV e V, do Código de Processo Penal.
+2. Verificada a identidade fático-processual entre a situação do pacientee a do ora requerente, cuja segregação antecipada foi determinada com baseem fundamentos considerados inidôneos por este Sodalício, e que a decisãoque concedeu a ordem de habeas corpus de ofício não se encontra fundada emmotivos de caráter pessoal, aplica-se o disposto no artigo 580 do Códigode Processo Penal.
+3. Pedido de extensão deferido, concedendo-se a ordem dehabeas corpus emfavor do requerente nos mesmos termos em que foi deferida ao paciente
+(PExt no HC 305.387/SP, relatorMinistro JORGE MUSSI, QUINTA TURMA,julgado em 15/08/2017, DJe 24/08/2017)
+No caso, o mesmo decreto prisional foi proferido para o paciente Anderson Alves de Souza e para o corréu GUSTAVO HENRIQUE MOREIRA DE JESUS, ora peticionário,o que evidencia que foram os mesmosfundamentos utilizados para a decretação da prisão preventiva de ofício de ambos,de modo que há identidade do quadro fático-processual (e-STJ fls. 26/34):
+CASSIO APARECIDO PEDROSO, ANDERSON ALVES DE SOUZA e GUSTAVO HENRIQUE MOREIRA DE JESUS, todos qualificados nos autos, foram autuados em flagrante delito em 06/04/2020, pela suposta prática do(s) delito(s) previsto(s) no art. 33 c/c art. 35, ambos da Lei 11.343/06 e art. 16, § único, IV c/c art. 14, ambos da Lei 10.826/03.
+ ..
+Sobre a possibilidade de atuação ex officio do magistrado para converter a prisão em flagrante em prisão preventiva, há que se distinguir a situação regulada pelo art. 310 do CPP daquela tratada no art. 311 do mesmo diploma, senão vejamos. O art. 310 do CPP prevê que, ao receber o APF, poderá o Juiz converter a prisão em flagrante em preventiva, desde que atendidos os requisitos legais, sem nada dispor acerca da necessidade de prévio requerimento do Ministério Público ou da autoridade policial nesse sentido.
+Por sua vez, o que é proibido pelo artigo 311 do codex é a decretação ex officio da prisão preventiva no curso do inquérito policial, o que não se confunde com a conversão da prisão em flagrante em preventiva (que precede a instauração do IP).
+Portanto, da interpretação conjunta desses dois dispositivos, o que se conclui, é que ao Juiz é vedado, no curso das investigações, decretar, de oficio, a prisão preventiva de indivíduo que se encontra solto.
+Porém, cuidando-se de agente preso em flagrante, ao receber o respectivo APF, deve o Juiz adotar alguma das medidas listadas pelo artigo 310 do Código de Processo Penal, dentre as quais a conversão da prisão em preventiva, lembrando que o legislador não exigiu, de maneira alguma, o préviorequerimento ministerial ou policial nesse sentido, a revelar que a medida pode ser tomada ex officio, tal como ocorre na presente situação.
+ ..
+Voltando ao caso vertente, verifica-se a especial gravidade concreta delito, considerando os indícios de que os autuados se associarampara a prática de tráfico de drogas e outros delitos, indicando possível dedicação a atividades criminosas e habitualidade delitiva.
+Além disso, pela análise dos antecedentes do autuado ANDERSON (CAC de f. 24), nota-se o risco efetivo de reiteração criminosa. Ressalte-se que o fato foi praticado no período de isolamento social e de comprometimento da vigilância ordinária, em razão da proliferação da pandemia do novo Coronavírus(COVID-19).
+Deve ser salientado que o tráfico de drogas é um crime grave, cuja prática vem aumentando cada vez mais no país e que tem se tornado fonte de vários delitos de outra natureza.
+Com efeito, a prisão preventiva faz-se imperiosa para garantia da ordem pública. Por fim, deve-se salientar que a conveniência e oportunidade da decretação da prisão preventiva (medida excepcional só comportável em casos excepcionais e cominados) deve ser deixada sempre ao prudente arbítrio do juiz do processo, mais próximo do fato e das pessoas nele envolvidas.
+ ..
+Diante do exposto, converto as prisões em flagrante em preventiva, dos autuados nos termos do art. 310, II c/c arts. 312 e 313,1, todos do CPP. Expeça-se mandados de prisão preventiva com validade de 20 anos, destacando á autoridade policial a imprescindibilidade de lançamento dos novos títulos prisionais.
+Constato, outrossim, dadecisãoproferida, não existir nenhumacircunstância de caráter exclusivamente pessoal que justifiquediferenciação. Portanto, estão preenchidos os requisitos insertos no art.580 do Código de Processo Penal.
+Ante o exposto, defiro o pedido de extensão da ordem dehabeas corpus aocorréuGUSTAVO HENRIQUE MOREIRA DE JESUS, paraconceder a liberdade provisória a ele, sem prejuízo da aplicação de medidas cautelares diversas pelo magistrado de piso ou mesmo de novo decreto de prisão, desde que precedido de requerimento do Ministério Público nesse sentido.
+Publique-se. Intimem-se.
