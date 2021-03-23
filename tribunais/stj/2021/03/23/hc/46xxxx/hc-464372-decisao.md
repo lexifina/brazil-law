@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SANDRO LUIZ DE LIMA BURGHERA contra acórdão do Tribunal Regional Federal da 4ª Região que denegou outro mandamus impetrado naquela Corte impugnando decisão do juízo de 1ª instância que indeferiu pedido da defesa de revogação da sua prisão preventiva (e-STJ, fls. 561 a 574).
+Alega o impetrante, em breve resumo, que o paciente foi preso mediante decisão genérica, que considerou a gravidade em abstratos dos delitos denunciados, embora ele tivesse mantido mera relação comercial com supostos integrantes da organização criminosa para o tráfico internacional de entorpecentes. Diz que alguns corréus estão soltos, a despeito de terem sido acusados por fatos mais graves, em ofensa ao princípio da isonomia. Aduz ainda que é primário, tem bons antecedentes, possui residência fixa e profissão lícita, não oferecendo risco à ordem pública, acrescentando que se encontra preso em excesso de prazo. Requereu a concessão de liberdade em sede de liminar, a ser mantida ao final "com aplicação de medidas cautelares diversas da prisão preventiva" (e-STJ, fls. 3 a 37).
+Indeferido o pedido de liminar (e-STJ, fls. 585), o TRF da 4ª Região prestou informações, explicando os motivos da denegação da ordem naquele órgão (e-STJ, fls. 593 a 595).
+Em seguida, o juízo de 1º grau também prestou informações, ocasião em que esclareceu ter concedido ao paciente a liberdade provisória com fiança e outras medidas cautelares (e-STJ, fls. 601 a 606).
+A Subprocuradoria-Geral da República, na qualidade de fiscal da lei, opinou pela denegação da ordem, afirmando inexistir constrangimento ilegal (e-STJ, fls. 608 a 612).
+É o relatório.
+Decido.
+Trata-se de habeas corpus impetrado em favor de paciente acusado pela prática de organização criminosa armada e lavagem de dinheiro, por supostamente fazer parte do núcleo de importação e fornecimento de drogas, servindo como operador financeiro mediante atos de lavagem de dinheiro oriundo do narcotráfico.
+Como dito acima, o pleito do impetrante é de concessão de liberdade provisória mediante substituição da medida extrema por outras cautelares. Ao final da sua peça, depois de pedir a concessão de liminar, requereu a manutenção da sua liberdade ao final, "com aplicação de medidas cautelares diversas da prisão preventiva" (e-STJ, fls. 36 e 37).
+Por sua vez, após os informes prestados pelo TRF da 4ª Região, explicando os motivos pelos quais aquela Corte denegou o pleito da defesa, o juízo de 1ª instância esclareceu que "na data de 05.09.2018  ..  foi concedida liberdade provisória, com fiança, e aplicação de demais cautelares, em benefício de SANDRO LUIZDE LIMA BURGHERA", tendo sido deferida ainda, posteriormente, a substituição da fiança por caução real consistente em bem imóvel (e-STJ, fls. 601 a 606).
+Assim, verifica-se que o requerimento formulado pelo impetrante já foi atendido no próprio juízo singular de origem, o que demonstra a perda superveniente do objeto deste writ, o qual passa à situação de prejudicado, atraindo a incidência do art. 34, XVIII e XX, do RISTJ:
+Art. 34. São atribuições do relator:
+ ..
+XVIII - distribuídos os autos:
+(Redação dada pela Emenda Regimental n. 22, de 2016)
+a) não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida;
+ ..
+XX - decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fi xada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento fi rmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar (grifou-se).
+Nesse sentido:
+HABEAS CORPUS CRIMES DE RESPONSABILIDADE DE PREFEITO E DE VEREADORES. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONSIDERADA INIDÔNEA PELA SUPREMA CORTE. ALVARÁ DE SOLTURA. PACIENTES EM LIBERDADE POR MAIS DE UM ANO. INEXISTÊNCIA DE FATO SUPERVENIENTE QUE JUSTIFIQUE NOVO ENCARCERAMENTO. DETERMINAÇÃO DE JULGAMENTO DO FEITO PELO STJ. OBJETO DA IMPETRAÇÃO ESVAZIADO. WRIT PREJUDICADO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal. Devendo, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+Com efeito, os pacientes estão em liberdade desde outubro de 2016, ainda que se entendesse pela idoneidade dos fundamentos que ensejaram a decretação da prisão preventiva, não há nos autos notícia de fato superveniente que justifique o restabelecimento da cautela. Dessa forma, não demonstrada a subsistência dos requisitos do art. 312 do CPP que autorizariam a manutenção do decreto prisional, o objeto da impetração resta esvaziado.
+Habeas corpus prejudicado, mantida a liberdade provisória concedida pela Suprema Corte e ressalvada a possibilidade de aplicação de medidas cautelares alternativas pelo Juízo ordinário, nos termos do art. 319 do CPP.
+(HC 373.068/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018; grifou-se).
+No precedente acima transcrito a concessão de liberdade provisória foi concedida pelo STF, mas o efeito é o mesmo que aquele verificado neste caso: o pedido de libertação já foi deferido ao paciente, estando prejudicado neste Tribunal.
+Este Tribunal também já reconheceu a falta de interesse decorrente da perda do objeto da ação perante o Tribunal de 2º grau, justamente em razão da liberdade provisória concedida pelo juízo monocrático de origem, situação muito parecida com a presente. Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU LIMINAR NA ORIGEM. PRISÃO PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. INCIDÊNCIA DA SÚMULA 691 DO STF. PERDA DE OBJETO DO WRIT ORIGINÁRIO. LIBERDADE PROVISÓRIA CONCEDIDA NA ORIGEM. AUSÊNCIA DO INTERESSE DE AGIR. AGRAVO NÃO CONHECIDO.
+1. É evidente a falta de interesse de agir do agravante, em razão da superveniência de decisão que julga prejudicado o habeas corpus impetrado perante o Tribunal de origem.
+2. Agravo regimental não conhecido.
+(AgRg no HC 319.786/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2015, DJe 26/10/2015)
+Ante o exposto, em razão da perda superveniente do objeto e consequente prejudicialidade da impetração, não conheço deste habeas corpus.
+Publique-se. Intimem-se.
