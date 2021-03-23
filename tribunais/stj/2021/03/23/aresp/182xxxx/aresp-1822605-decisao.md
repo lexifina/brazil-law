@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por GERALDO ROMEIRO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim resumido:
+AGRAVO DE INSTRUMENTO. Irresignação em face da decisão que, em ação de rescisão contratual, em fase de cumprimento de sentença, indeferiu os pedidos formulados pelos agravantes para fornecimento de documentos da agravada Descabimento. O pedido de fornecimento de documentos feito pelos agravantes tem verdadeira natureza de prestação de contas, o que deve ser pleiteado em ação própria, observado o procedimento específico, como corretamente ficou consignado na decisão agravada.
+Recurso improvido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 772, III, do CPC, no que concerne ao indeferimento do fornecimento dos documentos solicitados na origem, trazendo os seguintes argumentos:
+É patente que, o V. Acórdão recorrido contraria a Lei Federal, mais especificamente o art.772 do CPC, ao deixar de aplicá-lo no caso in concreto, ignorando por completo as suas disposições legais.
+Aduziu o Egrégio Tribunal que o fato de ter sido outorgada uma procuração para a construtora não lhe impõe o dever de fornecer documentos para os credores da cooperativa da agravada. Ademais , a construtora não é parte no processo.
+No entanto , Nobres Ministros, depreende-se que o entendimento do Tribunal, data máxima vênia, afronta a Lei federal porque o Legislador Pátrio autorizou, através do NOVO art. 772 do CPC/15, a possibilidade do exequente, quando existir documentos relativos ao interesse da execução, que estejam em poder de terceiros senão vejamos:
+ ..
+7.15- Portanto, Nobres Ministros, o acórdão prolatado pelo Egrégio Tribunal , apesar do costumeiro acerto das suas decisões, no presente caso, acabou por negar vigência ao teor do art. 772 do CPC, que não se exige, para se requerer o fornecimento dos documentos de interesse da sua execução, a obrigatoriedade da inclusão do terceiro como parte no processo. (fls. 123/125).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Primeiro, como bem observado pelo d. magistrado de primeiro grau, a Construtora Concima foi excluída do polo passivo da ação.
+O fato de ter sido outorgada uma procuração para a construtora não lhe impõe o dever de fornecer documentos para os credores da cooperativa da agravada.
+Por outro lado, não obstante o disposto no art. 772, III, do CPC, o pedido de fornecimento da relação dos documentos indicados nos itens "a" a "h" da petição de f. 98/102 tem verdadeira natureza de prestação de contas, o que deve ser pleiteado em ação própria, observado o procedimento específico, como corretamente ficou consignado na decisão agravada.
+Quanto às declarações de imposto de renda, os próprios agravantes informaram que a cooperativa não as apresentou nos últimos anos. E a construtora Concima não é parte do processo e não tem a obrigação de fornecer suas declarações de imposto de renda somente porque lhe foi outorgada uma procuração pela agravada. Novamente, tal pleito deve ser formulado em sede de ação de prestação de contas, se o caso (fl. 113).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
