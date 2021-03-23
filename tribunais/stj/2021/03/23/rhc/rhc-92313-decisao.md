@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto porEDILSON FERNANDES DE MIRANDAdesafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.17.075536-7/000), cuja ementa foi assim definida (e-STJ fl. 81):
+HABEAS CORPUS- POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - INTIMAÇÕES FEITAS A ADVOGADA NÃO CONSTITUÍDA - ATOS PROCESSUAIS PRATICADOS PELOS PROCURADORES DO RÉU - PREJUÍZO NÃO DEMONSTRADO - NULIDADE INOCORRÉNCIA - SUSPENSÃO CONDICIONAL DO PROCESSO RÉU QUE NÃO PREENCHE OS REQUISITOS DO ART. 89 DA LEI 9.099195 - AUSÊNCIA DE PROPOSTA PELO PARQUET - REGULAR PROSSEGUIMENTO DO FEITO - POSSIBILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - PEDIDOS DE CANCELAMENTO DA AIJ E SUSPENSÃO DA DESTRUIÇÃO DA ARMA APREENDIDA- ATOS PRATICADOS - PLEITOS PREJUDICADOS - HABEAS CORPUS DENEGADO. 1. Se mesmo não intimado o procurador constituído pratica e participa dos atos processuais, não há prejuízo algum à defesa, devendo prevalecer o princípio pas de nullité sans grief, segundo o qual não se declara nulidade sem a ocorrência de prejuízo ou quando o ato processual não houver influído na apuração da verdade substancial ou na decisão da causa. 2. Se o réu não preenche os requisitos previstos no art. 89 da Lei 9.099/95, inviável se mostra o oferecimento da suspensão condicional do processo, sendo correto, portanto, o prosseguimento do feito. 3. A análise de pedido formulado em sede de habeas corpus está subordinada à comprovação da existência de ameaça concreta ao direito de ir e vir da pessoa. 4. Denegado o habeas corpus.
+Neste recurso, sustentou a defesa, em breve síntese, a existência de nulidades na ação penal, notadamente em razão da determinação dedestruição da arma de fogo sem apreciação do pedido de produção de prova pericial por perito particular, bem como do suposto cerceamento da defesa em razão do pedido preliminar de suspensão condicional do processo.
+OMinistério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 114/119).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem (Processo n. 0043007-14.2015.8.13.0411), verifica-se que foi extinta a punibilidade do recorrente pelo reconhecimento da prescrição da pretensão punitiva.
+É forçoso, portanto, reconhecer a perda de objeto do recurso.
+Ante o exposto, julgo prejudicado o recurso ordinário.
+Publique-se. Intimem-se.
