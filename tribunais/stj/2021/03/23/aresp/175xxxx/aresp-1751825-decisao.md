@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por JULIANE MIRELA BERTUZZI, contra a decisão de fls. 150-152 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (fl. 67, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CÁLCULO DOS HONORÁRIOS APRESENTADO COM BASE NO VALOR ESTIMADO DA CAUSA. IMPUGNAÇÃO À EXECUÇÃO. EXCESSO DE EXECUÇÃO RECONHECIDO. HONORÁRIOS ADVOCATÍCIOS CALCULADOS COM BASE NO VALOR DA CONDENAÇÃO. DECISÃO MANTIDA. PEDIDO DE AFASTAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS EM RAZÃO DO ACOLHIMENTO DO EXCESSO DE EXECUÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 91-94, e-STJ).
+Nas razões do recurso especial (e-STJ, fls. 105-116), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação aos arts. 223 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese:
+(i)negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia; e
+(ii)impossibilidade de a recorrida juntar provas, na fase de cumprimento de sentença, consistente no relatório de despesas, elaborado unilateralmente pela recorrida, relativo ao valor despedido com o tratamento a que foi condenada a custear, com vistas a reduzir o valor dos honorários advocatícios.
+Em juízo de admissibilidade (fls. 150-152, e-STJ), a Corte de origem negou o processamento do recurso especial, pelos seguintes fundamentos: a) ausência de violação ao art. 1.022 do CPC/2015, porquanto as questões trazidas pela recorrente foram analisadas e a decisão encontra-se fundamentada; e b) aplicação da Súmula 283/STF, por falta de impugnação a fundamentos do acórdão recorrido.
+Irresignada (fls. 162-169, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 180-184 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, ressalte-se que não ficou caracterizada a alegada negativa deprestação jurisdicional e ausência de fundamentação, tendo o acórdãorecorrido solucionado as questões deduzidas no recurso de formasatisfatória, sem incorrer nos vícios de obscuridade, contradição ouomissão com relação a ponto controvertido relevante, cujo exame pudesselevar a um diferente resultado na prestação de tutela jurisdicional.
+A jurisprudência desta Corte dispõe no sentido de que a solução integralda controvérsia, com fundamento suficiente, situação facilmenteconstatável in casu, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+Nesse contexto, este Tribunal Superior já se manifestou no sentido de que"não há que se confundir decisão contrária aos interesses da parte enegativa de prestação jurisdicional, nem fundamentação sucinta comausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Relator oMinistro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe22/11/2016).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO. ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO ÂNUA. RECONHECIMENTO. RELAÇÃO DE TRATO SUCESSIVO. ÔNUS SUCUMBENCIAIS. OCORRÊNCIA DE ERRO MATERIAL. RECURSO NÃO PROVIDO. CORREÇÃO DE ERRO MATERIAL.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Devidamente analisadas e discutidas as questões devolvidas ao Tribunal, com fundamento claro e expresso, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 e 1.022 do NCPC.
+3. Sendo a relação de trato sucessivo, a prescrição não atinge o fundo de direito, razão pela qual o pedido não foi julgado improcedente. Dessa forma, não há que se falar em inversão dos ônus sucumbenciais.
+4. Correção de erro material na parte dispositiva da decisão agravada quanto aos honorários sucumbenciais. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.331.335/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.CLÁUSULA LIMITATIVA DA INDENIZAÇÃO AO GRAU DE INVALIDEZ.DESCONHECIMENTO PELO CONSUMIDOR. REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO NÃO PROVIDO.
+1. A Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte agravante, o que está longe de significar violação ao art. 1.022 do CPC/2015.
+2. Na hipótese dos autos, o Tribunal de origem concluiu que o consumidor não teve ciência inequívoca das cláusulas restritivas de direito, fazendo jus ao valor integral da indenização. Alterar tal conclusão é inviável em recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+4. Agravo interno não provido (AgInt no AREsp 1.609.128/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/02/2021, DJe 02/03/2021).
+De fato, os honorários devem ser estabelecidos, em regra, com fundamento no art. 85, § 2º, do CPC/2015, isto é, nos limites percentuais nele previstos sobre o valor da condenação, do proveito econômico obtido, ou, na impossibilidade de identificá-lo, sobre o valor atualizado da causa, nos exatos termos do referido dispositivo, assim redigido (sem grifos no original):
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Conclui-se, portanto, que a incidência dos honorários somente recai sobre o valor da causa de forma subsidiária, quando não existentes as outras hipóteses previstas na legislação.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS.SENTENÇA CONDENATÓRIA. PERCENTUAL SOBRE A CONDENAÇÃO.
+1. Ação declaratória de inexistência de débito com reconvenção (cobrança de direitos autorais).
+2. Em se tratando de provimento jurisdicional de natureza condenatória, os honorários advocatícios devem ser fixados em observância ao art. 20, § 3º, do CPC/73 (art. 85, § 2º, do CPC/15), isto é, entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITO INFRINGENTE(EDcl nos EDcl no REsp 1.655.767/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 01/04/2019, DJe 03/04/2019).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. ART. 85, § 2º, DO CPC/2015. MULTA.IMPOSSIBILIDADE. HONORÁRIOS RECURSAIS. MESMO GRAU DE JURISDIÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O parâmetro para a fixação dos honorários advocatícios, conforme preceitua o artigo 85, § 2º, do CPC/2015, será o valor da condenação, se houver.
+3. A aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Os honorários recursais incidem apenas quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição, sendo indevida a fixação em agravo interno e em embargos de declaração.
+5. Agravo interno não provido (AgInt nos EDcl no REsp 1.677.971/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/03/2019, DJe 21/03/2019).
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, condenou a recorrente ao pagamento dos honorários advocatícios com base no valor da condenação, nos seguintes termos (fls. 69-70, e-STJ, grifos no original):
+Cinge-se a controvérsia à base de cálculo que deve ser utilizada para apuração dos honorários sucumbenciais fixados na Ação de Obrigação de Fazer nº0001602-46.2016.8.16.0001, em favor da advogada da autora, no percentual de 18% do valor da condenação, que correspondeu ao custeio do tratamento quimioterápico com 12 aplicações do esquema FOLFIRI associado ao Avastin (acórdão de mov. 13.1, da Apelação Cível).
+Transitada em julgado a sentença, a advogada da autora, em 11/04/2018,requereu o cumprimento de sentença (mov. 109.1, autos nº 0001602-46.2016.8.16.0001), apresentando o cálculo dos honorários com base no valor estimado na exordial para o tratamento (R$ 224.310,48), atualizado naquela data (R$ 241.036,08), resultando R$43.386,49.
+Em sede de impugnação (mov. 130.1, autos nº0001602-46.2016.8.16.0001), apresentada em 18/09/2018, a Unimed alegou excesso de execução, afirmando que os honorários sucumbenciais deveriam ser calculados sobre o valor da condenação, ou seja, a quantia efetivamente despendida para custear o tratamento da autora, e não sobre o valor da causa. Para tanto, juntou os "relatórios de utilização", com discriminação detalhada dos gastos com o tratamento em questão (mov. 130.4 e 130.5), que somaram R$ 179.252,56. Assim, 18% do valor atualizado até aquela data (R$ 194.169,47) corresponderia a R$ 34.950,51, totalizando um excesso de R$ 8.435,98.
+Em 08/11/2018, a impugnação foi acolhida pela juíza a quo (mov. 147.1, autos nº 0001602-46.2016.8.16.0001), para o fim de reconhecer excesso de execução, no valor de R$ 8.435,98.
+A propósito, conforme exposto na decisão liminar, a sentença proferida na ação nº 0001602-2016.8.16.0001 (mov. 79.1), confirmada por este Tribunal de Justiça em sede e Apelação (mov. 13.1), foi clara ao fixar os honorários advocatícios sobre o valor atualizado da condenação, que obrigou a ré a custear o tratamento quimioterápico requerido (doze aplicações do esquema FOLFIRI associado ao Avastin).
+(..)
+Assim, considerando que houve expressa fixação dos honorários sobre o valor atualizado da condenação, não é possível alterar a base de cálculo.
+Ad argumentandum tantum, extrai-se da leitura do artigo 85, 2º, do Código Civil, que os honorários serão, preferencialmente, calculados sobre o valor da condenação ou do proveito econômico, sendo o valor atualizado da causa um critério subsidiário.
+Desse modo, encontrando-se o acórdão recorrido em harmonia com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO RECONHECIDO. HONORÁRIOS ADVOCATÍCIOS FIXADOS COM BASE NO VALOR DA CONDENAÇÃO. VIOLAÇÃO DO ART. 1.022 NÃO CONFIGURADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
