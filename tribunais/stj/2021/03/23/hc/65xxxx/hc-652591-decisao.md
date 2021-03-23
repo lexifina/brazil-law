@@ -1,0 +1,9 @@
+DECISÃO
+YORASS PONTES MENDONÇA alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Se insurge contra a alteração da data-base de benefícios ante o reconhecimento de faltas graves, pois a penalidade não pode alcançar o trabalho externo e as saídas temporárias.
+Decido.
+O writ comporta pronta solução.
+EstaCorte, no julgamento do Recurso Especial Representativo de Controvérsia n.º 1.364.192/RS2, consolidou a tese jurídica de que: "o cometimento de falta grave no curso da execução enseja a interrupção do prazo para a progressão de regime, mas não importa a recontagem do lapso temporal para a obtenção do livramento condicional e outros benefícios da execução, sob pena de ofensa ao princípio da legalidade".
+O Tribunal a quoassinalou: "em decorrência da regressão do regime carcerário, há alteração da data-base para benefícios da execução, excetuados livramento condicional, indulto e comutação" (fl. 19).Nada dispôs sobre saída temporária ou trabalho externo, e a defesa não opôs de embargos de declaração para ventilar a matéria.
+De toda forma, para não despender mais esforços do Poder Judiciário e da Defensoria Pública,aplico ao caso o entendimento de que a falta gravenão reinicia a contagem do período aquisitivo dos benefícios previstos nos arts. 36 e 122 da LEP, mas nada obsta a valoração da conduta de indisciplinana análise do requisito subjetivo, haja vista a expressa exigência, nos arts. 37 e 123 da LEP, de aptidão, disciplina, responsabilidade e comportamento adequado do reeducando para a prestação do trabalho externo e o gozo de saídas temporárias.
+À vista do exposto, concedo o habeas corpus para declarar que a prática de falta grave não interrompe o prazo para a saída temporária e do trabalho externo, o que deverá ser observado pelo Juiz da VEC na análise dos benefícios.
+Publique-se e intimem-se.
