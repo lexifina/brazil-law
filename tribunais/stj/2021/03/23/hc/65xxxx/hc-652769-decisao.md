@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de JULIO CESAR DO CARMMO JUNIOR (ou JULIO CESAR DO CARMO JUNIOR) contra acórdão do Tribunal de Justiça do Estado de São Paulo no HC n.2035188-88.2021.8.26.0000.
+Consta dos autos que o Paciente foi preso em flagrante, no dia 19/02/2021,pelos crimes de tráfico de drogas e associação para o tráfico, em cumprimento a mandado de busca e apreensão em sua residência. Narra o acórdão impugnado que (fl. 24):
+" .. foram localizadas porções de "maconha", com peso aproximado de 30,0g. Os policiais acessaram o telefone celular dele, com autorização judicial, e se depararam com conversas entre ele e a corré, indicativas de que estava para receber uma encomenda de entorpecente destinada ao Paciente. A corré foi abordada transportando uma caixa contendo 1,2kg de cocaína. Indagada a respeito, ela revelou que a droga se destinava ao Paciente, ao passo que este admitiu que que recebia um pó branco, por intermédio de terceiros, para misturar à cocaína."
+Irresignada coma decisão que converteu o flagrante em prisão preventiva, a Defesa impetrou owritoriginário, que foi denegado nos termos do acórdão de fls. 21-24, sem ementa. Ressaltou o julgado que (fl. 24):
+"A quantidade de drogas apreendidas e a reincidência tornam duvidosa a incidência da causa especial de redução de pena, a substituição da privação de liberdade por restrição de direitos e o regime prisional mais brando, de modo que a custódia se mostra razoável e proporcional, e as medidas cautelares diversas da prisão, insuficientes e inadequadas, contexto em que residência fixa e ocupação lícita perdem relevância."
+Defende a Impetrante, em suma, que o Paciente não é reincidente específico no crime de tráfico, pois sua condenação foi no art. 28 da Lei n.11.343/2006, bem como possui residência e trabalho fixos.Assim, sustenta o cabimento de liberdade provisória, pois não estão presentes os requisitos autorizadores da custódia cautelar.
+Busca, emliminar e no mérito, a revogação da prisão preventiva do Paciente.
+É o relatório. Decido.
+Verifico que a Impetrante não acostou aos autos cópias das peças processuais que comprovariam a situaçãoprocessual do Paciente, inclusive do decreto de prisão preventiva, o que inviabiliza a análise do pleito deduzido.
+Comose sabe,"revela-se insuscetível de exame o habeas corpus desacompanhado de elementos que evidenciem o alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída"(STF, HC 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Portanto, compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus(ou seu respectivo recurso) - v.g.: STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+No caso, a pretensão ora formulada não pode ser conhecida, pois a documentação trazida aos presentes autos é incompleta.
+Com igualconclusão, cito os seguintes precedentes do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL.HABEAS CORPUS.INDEFERIMENTO LIMINAR.  .. . AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DA DEFESA. IMPOSSIBILIDADE DE JUNTADA POSTERIOR DE DOCUMENTOS.  .. . DESPROVIMENTO DO RECLAMO.
+1. .. .
+2. Omandamusnão foi instruído com a íntegra do acórdão impugnado, peça processual indispensável para a análise das ilegalidades suscitadas.
+3. O rito dohabeas corpuse do recurso ordinário emhabeas corpuspressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia.
+4.Cumpre à defesa zelar pela correta formação do caderno processual que será apresentado à apreciação judicial, em respeito ao princípio dispositivo que vige no ordenamento jurídico pátrio, resguardando-se, assim, a necessária imparcialidade do órgão julgador.
+5. É ônus do impetrante instruir corretamente a ação constitucional com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis ao exame do pedido e que não foram anexados tempestivamente. Precedentes.
+6. .. .
+7. Agravo regimental desprovido."(AgRg no HC 547.736/MA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/12/2019, DJe 16/12/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018).Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido."(AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
