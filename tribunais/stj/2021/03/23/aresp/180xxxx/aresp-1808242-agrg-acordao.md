@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. DECISÃO DA PRESIDÊNCIA MANTIDA.
+I - A ausência de impugnação aos fundamentos da decisão que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+II -O Novo Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, inciso I, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade. Precedentes.
+Agravo regimental não conhecido.
+RELATÓRIO
+EXMO. SR. MINISTRO FELIX FISCHER:Trata-se de agravo regimental interposto por FELIPE ANDRADE TEIXEIRA, contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 474-475).
+Informam os autos que oagravante foi condenado, em primeiro grau, à pena de 5 (cinco) anos de reclusão, em regime fechado, além de 16 (dezesseis) dias-multa, em razão da prática da infração prevista no art. 16, caput, da Lei n. 10.826/2003.
+O Tribunal de Justiçado Estado de São Paulo negou provimento ao apelo manejado pela defesa, mantendo integralmente a sentença condenatória.
+O recurso especial foi interposto para reconhecimento da nulidade da condenação, em razão de supostamente ter sido lastreada unicamente em elementos colhidos durante a investigação, sem a necessária submissão ao crivo do contraditório judicial, além de ausência de materialidade do delito, desconhecimento pelo agravante quanto à existência de arma em sua mala e atipicidade da conduta, em virtude da arma não estar municiada, pugnando, de forma subsidiária, pela revisão da dosimetria.
+Contudo, sua inadmissão se fez à consideração de que:i) na incidência da Súmula 284/STF, ante a deficiência de fundamentação do recurso;ii) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicariarevolvimento de matéria fático-probatória; iii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Neste Tribunal, o agravo deixou de ser conhecido porque não foram infirmados nenhum dos fundamentos empregados pelo eg. Tribunal de origem para inadmitir o recurso.
+No agravo regimental, o agravante repisa os argumentos anteriormente apresentados no recurso especial, e agravo interposto contra a sua inadmissão, insistindo nas mesmas teses, além de aduzir violação ao princípio da colegialidade.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Instada a se manifestar a d. Subprocuradoria Geral da República pugnou pelo não conhecimento do agravo regimental ou, se conhecido, pelo seu desprovimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. DECISÃO DA PRESIDÊNCIA MANTIDA.
+I - A ausência de impugnação aos fundamentos da decisão que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+II -O Novo Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, inciso I, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade. Precedentes.
+Agravo regimental não conhecido.
+VOTO
+EXMO. SR. MINISTRO FELIX FISCHER:O presente agravo não reúne condições para ser conhecido.
+A Presidência deste Superior Tribunal de Justiça verificou que o agravo em recurso especial deixou de impugnar todos os fundamentos da decisão de admissibilidade feito pelo Tribunal de origem para não admitir o recurso especial, qual seja, aplicação das Súmulas 7 e 83/STJ e 284/STF.
+Por tal razão, foi aplicada a regra contida no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, ocasionando o não conhecimento do agravo em recurso especial.
+Ocorre que, neste agravo regimental a parte incorre novamente na mesma irregularidade formal, deixando de desincumbir-se do ônus de infirmar o fundamento da decisão monocrática que pretende desconstituir, na medida em que somente repisou os fundamentos do recurso especial não admitido.
+Tal circunstância, como cediço, atrai a aplicação do enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Assim, verificada esta hipótese - ausência de impugnação dos fundamentos da decisão agravada - o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte, v.g.:
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO INOCORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido" (AgRg no AREsp n. 1.021.378/MG, Rel. Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017).
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+1. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. Agravo regimental não conhecido" (AgRg no AREsp n. 979.894/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/6/2017)
+Outrossim, descabida a alegação de violação ao princípio do colegiado, na medida em que oNovo Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 21-E, inc. V,e 34, inciso VII, e 255, § 4.º, inciso I, ambos do RISTJ) permitem ao relator ou à Presidênciajulgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+Quanto ao tema, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO PROFERIDA PELA PRESIDÊNCIA DO STJ QUE NÃO CONHECIA DO ARESP EM RAZÃO DA INCIDÊNCIA ANALÓGICA DA SÚMULA 182/STJ. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. EXPRESSA PREVISÃO DO ART.21-E, V, § 2º, DO REGIMENTO INTERNO DO STJ. ERRO MÉDICO. INDENIZAÇÃO POR DANOS MORAIS. MINORAÇÃO. POSSIBILIDADE. VALOR EXORBITANTE.DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. "A competência do relator, de que trata o art. 932 do CPC/2015, no âmbito do STJ, firma-se, em regra, pela distribuição, nos termos do art. 930 do mesmo diploma. A análise feita pela Presidência desta Corte ocorre antes da distribuição, nos termos da Resolução n.17/2013 e do art. 21-E, V, do RISTJ, de tal sorte que não fere o juiz natural, a ser fixado a posteriori" (AgInt no AREsp 1294292/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018).
+2. É possível, em caráter excepcional, alterar o valor fixado a título de indenização por danos morais, caso se mostre irrisório ou exorbitante, ferindo os princípios da razoabilidade e da proporcionalidade. Precedentes.
+3. Agravo interno a que se nega provimento"(AgInt no AREsp n. 1.577.262/SP, Quarta Turma,Relª. Minª.Maria Isabel Gallotti, DJe de 29/10/2020, grifei).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIO DA COLETIVIDADE. AUSÊNCIA DE VIOLAÇÃO. VALOR DA MULTA COMINATÓRIA.FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O julgamento monocrático de recurso inadmissível, pela Presidência do STJ, encontra previsão no art. 21-E, V, do RISTJ, que possibilita ao Presidente desta Corte, antes da distribuição, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente os fundamentos da decisão recorrida. Desse modo, inexiste violação do princípio da colegialidade, ainda mais quando subsiste a possibilidade de interposição de agravo interno contra a deliberação unipessoal.
+3.Incidem as Súmulas nºs 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+4. Agravo interno não provido"(AgInt no AREsp n. 1.669.275/DF, Terceira Turma, Rel. Min. Moura Ribeiro, DJe de 27/08/2020, grifei)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA PELO PRESIDENTE DO STJ. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO.AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão proferida pelo Presidente do Superior Tribunal de Justiça, no sentido de não conhecer do agravo em recurso especial que não haja refutado especificamente todos os fundamentos da decisão recorrida, não viola o princípio da colegialidade. 2. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+3. Na hipótese, é acertada a decisão proferida pela Presidência desta Corte Superior, uma vez que a defesa deixou de refutar, especificamente, a aplicação dos óbices sumulares.
+4. Agravo regimental não provido"(AgRg no AREsp n. 1.554.482/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 02/12/2019, grifei)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL.VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS.
+1. A decisão impugnada não violou o princípio da colegialidade, na medida em que o art. 21-E do RISTJ, permite ao presidente deste Sodalício não conhecer do agravo que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, como na hipótese.
+2. O cabimento de agravo regimental contra a decisão singular afasta a alegação de afronta ao referido postulado, visto que a matéria, desde que suscitada, pode ser remetida à apreciação da Turma.
+AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices da Súmula n. 83/STJ, da inadequação do recurso especial para alegar violação à norma constitucional e da ausência de cotejo analítico, no agravo a defesa limitou-se a impugnar os óbices da Súmula n. 83/STJ e da ausência de cotejo analítico.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido"(AgRg no AREsp n. 1.539.949/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 10/10/2019, grifei).
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
