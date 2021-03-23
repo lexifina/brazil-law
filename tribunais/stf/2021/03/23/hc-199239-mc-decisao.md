@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – INADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara de Tóxicos da Comarca de Belo Horizonte/MG, no inquérito nº 1035433-41.2020.8.13.0024, em 4 de dezembro de 2020, determinou a prisão preventiva da paciente, ante os crimes dos artigos 33 (tráfico de drogas) e 35 (associação para o tráfico) da Lei nº 11.343/2006. Destacou conversas alusivas ao tráfico, reveladas por perícia em telefone apreendido, mantidas por meio de aplicativo de celular. Assentou atuação de liderança em organização criminosa, responsável pelo controle financeiro do tráfico de entorpecentes e lavagem de dinheiro. Ressaltou encontrados 16 gramas de maconha, R$ 5.170,00, 1 caderno com anotações de contabilidade referente ao comércio de substâncias ilícitas – que exame grafotécnico realizado por instituto de criminalística comprovou serem de responsabilidade da paciente – e 1 veículo Jeep Renegade. Teve como constatada, reportando-se a relatório de investigação, a responsabilidade pelo prosseguimento das atividades do grupo após a prisão do líder – Marcelo Oliveira Pereira –, companheiro da paciente. Concluiu indispensável a custódia para garantir a ordem pública.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 143.380/MG. O Relator indeferiu a liminar.
+    O impetrante sustenta insubsistentes os fundamentos da decisão, dizendo-os genéricos. Articula com o artigo 318-A do Código de Processo Penal. Frisa adequado o recolhimento domiciliar, afirmando que a paciente é mãe de adolescentes com 12 e 14 anos de idade. Sublinha as condições pessoais – primariedade, bons antecedentes, residência fixa e trabalho lícito.
+    Requer, no campo precário e efêmero, o afastamento e, sucessivamente, a colocação em domiciliar ou cautelar diversa da prisão. No mérito, busca a confirmação da providência.
+    Consulta, em 22 de março de 2021, ao sítio do Tribunal de Justiça revelou cumprido o mandado de prisão contra a paciente em 26 de fevereiro último.
+    2. O Juízo, ao determinar a custódia preventiva, assentou exercer a paciente liderança de organização criminosa, sendo responsável pelo controle financeiro de tráfico de drogas e lavagem de dinheiro, dando prosseguimento às atividades do grupo após a prisão do líder. Aludiu a conteúdo de conversas relacionadas ao tráfico, mantidas por meio de aplicativo de celular. Referiu-se à apreensão de entorpecente – 16 gramas de maconha –, R$ 5.170,00, veículo e caderno com anotações de contabilidade do comércio ilícito de entorpecentes, destacando conclusão de exame grafotécnico. O quadro indica em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    A paciente comprovou ser mãe dos adolescentes Gabriel Fernandes D’Assumpção Borges e Manuela Fernandes D’Assumpção Teixeira, nascidos, respectivamente, em 2 de outubro de 2006 e 30 de julho de 2008, ou seja, na data de hoje, com 14 anos, 5 meses e 20 dias e 12 anos, 7 meses e 22 dias. Conforme o disposto no artigo 318-A do Código de Processo Penal, no que voltado à mulher gestante, mãe ou responsável por crianças – de até 12 anos de idade incompletos – ou pessoas com deficiência, tem-se inadequado o benefício.
+    3. Indefiro a liminar.
+    4. O curso deste processo não prejudica o recurso em habeas corpus nº 43.380, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Ribeiro Dantas.
+    5. Colham parecer da Procuradoria-Geral da República
+    6. Publiquem.
+Brasília, 23 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
