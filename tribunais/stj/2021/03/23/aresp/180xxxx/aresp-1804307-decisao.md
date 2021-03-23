@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -BLOQUEIO BACENJUD - VALORES EM CONTA-CORRENTE - CARÁTER SALARIAL NÃO DEMONSTRADO - PENHORABILIDADE - BLOQUEIO MANTIDO. Os valores constritos que não se encontram depositados em caderneta de poupança, mas em conta-corrente, não são protegidos pelo disposto no inciso X do artigo 833 do CPC, que prevê a impenhorabilidade das quantias depositadas em caderneta de poupança, até o limite de 40 salários mínimos, impenhorabilidade essa que deverá ser interpretada restritivamente, não se admitindo, por ausência de previsão legal, que a regra seja aplicada a quantias depositadas em conta-corrente.
+Alegou-se, no especial, violação do artigo 833, X, do Código de Processo Civil, sob o argumento de que são impenhoráveis valores inferiores a 40 (quarenta) salários mínimos depositados em conta bancária.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, no exame da alegada impenhorabilidade, concluiu que o "referido valor bloqueado, como afirma o próprio agravante, não se encontra depositado em conta de poupança, mas, sim, em conta-corrente, assim ficando afastada a aplicação do inciso X do art. 833 do CPC, que prevê a impenhorabilidade das quantias depositadas em caderneta de poupança, até o limite de 40 salários mínimos, impenhorabilidade essa que deverá ser interpretada restritivamente, não se admitindo, por ausência de previsão legal, que a regra seja aplicada a quantias depositadas em conta-corrente, como pretendido no caso em apreço" (e-STJ, fl. 189).
+Não é este, todavia, o entendimento desta Casa, que prevê que, salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+A saber:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTA BANCÁRIA HÍBRIDA (CONTA-CORRENTE E POUPANÇA). LIMITE DE 40 (QUARENTA) SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. DECISÃO MANTIDA.
+1. "Reveste-se (..) de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)." (REsp 1230060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014).
+2. Agravo interno desprovido.
+(AgInt no REsp 1876987/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 7/12/2020, DJe 14/12/2020)
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a constrição em discussão.
+Intimem-se.
