@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 434):
+COMPROMISSO DE VENDA E COMPRA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C.C. DECLARAÇÃO DE NULIDADE E DEVOLUÇÃO DAS QUANTIAS.
+1.- Princípio da dialeticidade. Infringência não identificada. Correta impugnação aos termos da decisão condenatória.
+2.- Higidez, a princípio, da pactuação submetida à Lei nº 9.514/97, com observância do procedimento próprio à resolução do contrato. Falta, entretanto, de registro do instrumento particular junto ao CRI. Inércia, ainda que decorrente à desídia da adquirente, que afasta a constituição da propriedade fiduciária (arr. 23): "Constitui-se a propriedade fiduciária de coisa imóvel mediante registro, no competente Registro de Imóveis, do contrato que lhe serve de título".
+3.- Sujeição do contrato às disposições gerais aplicáveis à resolução dos contratos. Desfazimento do vínculo contratual, por desistência da compradora. Preservação, nos termos da Súmula 543 do STJ. Retenção limitada a 10% das prestações quitadas. Medida necessária e ajustada à reparação dos prejuízos. Majoração indevida. Taxa de ocupação. Indenização desabrida. Impossibilidade. Alienação de lote desprovido de infraestrutura para imediata ocupação. Circunstância a afastar o arbitramento da indenização buscada pelas rés, devidamente ressarcidas com a perda das prestações quitadas pela adquirente. Precedentes. Desconto de eventuais débitos (IPTU e despesas condominiais) já autorizado judicialmente. Falta de interesse recursal sobre o assunto.
+APELO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 26 e 27 da Lei nº 9.514/97; bem como divergência jurisprudencial.
+Sustenta que, em contrato de compra e venda de imóvel, com cláusula de alienação fiduciária em garantia, havendo desistência ou inadimplência do adquirente, a quitação da dívida deverá observar o disposto nos arts. 26 e 27 da Lei nº 9.514/97, pois se trata de legislação que regula a matéria de forma específica, o que afasta a incidência das disposições do Código de Defesa do Consumidor.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A propósito, anoto que o Tribunal de origem, ao julgar o recurso de apelação, exarou os seguintes fundamentos (fls. 437-438):
+De outra parte, não se observa o registro do contrato firmado entre as litigantes. Mesmo que a falta tenha sido ocasionada por desídia da compradora, é indiscutível que o cumprimento dessa obrigatoriedade impediu a constituição da propriedade fiduciária, segundo o expressamente determinado pelo art. 23 da Lei nº 9.513/97: "Constitui-se a propriedade fiduciária de coisa imóvel mediante registro, no competente Registro de Imóveis, do contrato que lhe serve de título".
+ ..
+Por tudo isso, de rigor a sujeição do contrato ao regramento geral aplicável às resoluções contratuais. Com a mora atribuída à adquirente, sem recurso por ela intentado, o desfazimento do vínculo contratual se faz necessário, reintegrando as apelantes na posse do imóvel.
+Concomitantemente, faz-se necessária a devolução de parte dos valores solvidos pela compradora, com retenção exigida como forma de suplantar os prejuízos. Neste sentido, a Súmula n. 01 deste Tribunal de Justiça: "O compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem".
+Assim, preserva-se a retenção, na forma preconizada pela Súmula 543 do C. STJ, do equivalente a 10% dos valores solvidos, montante suficiente à composição de todos os prejuízos sofridos pelas empreendedoras, com devolução do sobressalente na forma estabelecida pela r. sentença recorrida, relegando-se à fase processual subsequente a efetiva apuração dos valores solvidos.
+Por mais que se pretenda a elevação dos valores arbitrados a esse título, não se vislumbra a existência de prejuízos superiores. Na realidade, a grande parte das despesas resulta da assessoria imobiliária, cuja retenção foi estabelecida judicialmente, motivo pelo qual razoável a perda de 10% dos valores quitados.
+Como se vê, o entendimento acima reproduzido está em divergência com a jurisprudência do Superior Tribunal de Justiça, segundo a qual a disciplina do art. 53 do Código de Defesa do Consumidor não é aplicável ao contrato de compra e venda de imóvel vinculado a garantia de alienação fiduciária, considerando ser obrigatória a aplicação do disposto no art. 27 da Lei nº 9.514/1997, o qual disciplina, de maneira específica, o critério de devolução para tal hipótese.
+Por oportuno, confira-se o teor desse dispositivo legal:
+Art. 27. Uma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata o § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel.
+ ..
+§ 4º Nos cinco dias que se seguirem à venda do imóvel no leilão, o credor entregará ao devedor a importância que sobejar, considerando-se nela compreendido o valor da indenização de benfeitorias, depois de deduzidos os valores da dívida e das despesas e encargos de que tratam os §§ 2º e 3º, fato esse que importará em recíproca quitação, não se aplicando o disposto na parte final do art. 516 do Código Civil.
+§ 5º Se, no segundo leilão, o maior lance oferecido não for igual ou superior ao valor referido no § 2º, considerar-se-á extinta a dívida e exonerado o credor da obrigação de que trata o § 4º.
+§ 6º Na hipótese de que trata o parágrafo anterior, o credor, no prazo de cinco dias a contar da data do segundo leilão, dará ao devedor quitação da dívida, mediante termo próprio.
+Com efeito, tal entendimento já está pacificado na jurisprudência do STJ, conforme se depreende dos seguintes julgados:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL COM PACTO DE ALIENAÇÃO FIDUCIÁRIA. DESFAZIMENTO CONTRATUAL. LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE LANCE NO SEGUNDO LEILÃO. CONSTITUIÇÃO EM MORA REGULAR. ART. 27, § 5º, DA LEI Nº 9.514/97. VIOLAÇÃO CONFIGURADA. LEGALIDADE DA ADJUDICAÇÃO EM FAVOR DO CREDOR FIDUCIÁRIO. DESNECESSIDADE DE EXAME DE MATÉRIA PROBATÓRIA. NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça já firmou entendimento no sentido de que, ocorrendo o inadimplemento de devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos arts. 26 e 27 da Lei nº 9.514/97, por se tratar de legislação específica.
+4. Havendo leilão extrajudicial do imóvel e sendo frustrado o segundo, deve a dívida ser compulsoriamente extinta e as partes contratantes exoneradas das suas obrigações, ficando o imóvel com o credor fiduciário, conforme decidido no julgamento do REsp nº 1.654.112/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/10/2018, DJe 26/10/2018.
+ ..
+6. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.861.293/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR BENFEITORIAS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CÓDIGO DE DEFESA DO CONSUMIDOR, ART. 53. NÃO INCIDÊNCIA.
+ ..
+2. A Lei nº 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e também posterior ao Código de Defesa do Consumidor - CDC. Em tais circunstâncias, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts. 26 e 27 da lei especial.
+3. Agravo interno não provido.
+(AgInt no REsp 1.822.750/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. ASSEMBLEIA GERAL. PRORROGAÇÃO DO PRAZO DE ENTREGA. AFASTAMENTO DA MORA. LEI 9.514/1997, ART. 27, § 4º. APLICAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR, ART. 53. NÃO INCIDÊNCIA. DEVOLUÇÃO DAS PARCELAS PAGAS. IMPOSSIBILIDADE.
+ ..
+3. Descaracterizado o inadimplemento, não se cogita da aplicação do art. 53 do Código de Defesa do Consumidor ao caso dos autos, diante da incidência do art. 27, § 4º, da Lei 9.514/1997, que disciplina de forma específica a aquisição de imóvel mediante garantia de alienação fiduciária.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 975.829/SE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/09/2017, DJe 03/10/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSOS SIMULTÂNEOS. NÃO CONHECIMENTODO POSTERIOR. PRINCÍPIO DA UNIRRECORRIBILIDADE. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INADIMPLÊNCIA. ARTS. 26 E 27 DA LEI N. 9.514/1997. DECISÃO MANTIDA.
+ ..
+3. A Lei n. 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e também posterior ao Código de Defesa do Consumidor - CDC. Em tais circunstâncias, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts. 26 e 27 da lei especial.
+4. Agravo regimental improvido e embargos de declaração não conhecidos.
+(AgRg no AgRg no REsp 1.172.146/SP, Rel. Ministro ANTÔNIO CARLOS FERREIRA, QUARTA TURMA, DJe de 26.5.2015.)
+Além disso, "a jurisprudência desta Corte Superior entende que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que o pacto tenha validade e eficácia, visto que tal providência tem apenas o intuito de dar ciência a terceiros" (AgInt no AREsp 1.689.082/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+No mesmo sentido, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CRÉDITO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. EXCLUSÃO DOS EFEITOS DA RECUPERAÇÃO. REGISTRO EM CARTÓRIO DO CONTRATO. DESNECESSIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Consoante o entendimento dominante do Superior Tribunal de Justiça, é desnecessário o registro em cartório do contrato de alienação fiduciária para que o crédito a ele correspondente seja excluído dos efeitos da recuperação judicial, visto que "o registro se impõe como requisito tão somente para fins de publicidade, ou seja, para que a reserva de domínio seja oponível a terceiros que possam ser prejudicados diretamente pela ausência de conhecimento da existência de tal cláusula" (REsp 1.829.641/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/09/2019, DJe de 05/09/2019).
+2. Desnecessidade, no caso, de se aguardar o julgamento do REsp 1.629.470/MS, Rel. Ministra MARIA ISABEL GALLOTTI, tendo em vista que, na sessão do dia 11 de dezembro de 2019, a Segunda Seção, por maioria, na questão prejudicial destacada, dispensou a necessidade do registro.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.621.369/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/03/2020, DJe 31/03/2020.)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE ASSINATURA. MERA IRREGULARIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF. REGISTRO DO CONTRATO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS.
+ ..
+3. A jurisprudência desta Corte entende que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que tenha validade e eficácia, uma vez que tal providência tem o intuito apenas de dar ciência a terceiros.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 206.250/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/04/2017, DJe 18/04/2017.)
+Em face do exposto, dou provimento ao recurso especial para reconhecer a incidência das regras previstas nos arts. 26 e 27 da Lei nº 9.514/1997, julgando improcedente, portanto, o pedido formulado na petição inicial(fls. 1-18).
+Invertida a sucumbência, condeno  a parte autora ao  pagamento  das  custas  processuais  e  dos honorários  advocatícios,  os  quais  arbitro  em  10%  (dez por  cento)  sobre  o  valor  da  causa,  nos  termos  do  art.  85,  §  2º,  do  CPC/2015,  observadas  as  disposições  legais  referentes  à  gratuidade  de  justiça.
+Intimem-se.
