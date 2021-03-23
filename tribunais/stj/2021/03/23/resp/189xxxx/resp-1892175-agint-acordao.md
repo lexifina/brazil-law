@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO. ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. ALEGAÇÕES FINAIS.PREVISÃO LEGAL. AUSÊNCIA. OMISSÃO NORMATIVA. NULIDADE. INOCORRÊNCIA.
+1.Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A jurisprudência do STJ entende que a ausência de fase para alegações finais no processo administrativo simplificado, previsto em ato normativo específico da ANTT, não é omissão normativa e, portanto, não demanda a aplicação subsidiária da Lei n. 9.784/1999.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUTO VIAÇÃO VENÂNCIO AIRES LTDA. contra decisão de minha lavra,em que conheci do recurso especial da ora agravada para afastar a nulidade parcial do processo administrativo simplificado por ausência de alegações finais, determinando o retorno dos autos ao Tribunal de origem, a fim de que sejam apreciadas as demais alegações suscitadas no recurso de apelação, decidindo o que entender de direito (e-STJ fls. 593/596).
+Sustenta a parte recorrente que os arts. 2º, 3º e 44, da Lei n. 9.784/1999 asseguram o direito de se ofertar alegações finais em processos administrativos, de modo que não se pode admitir que a agência reguladora, utilizando-se do poder normativo, deixe de observar norma prevista na lei geral, restringindo garantia constitucionalmente assegurada nos arts. 5º, II, 37,caput, e 84, IV, da Carta Magna.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, sem oferecimento de impugnação (e-STJ fl. 614).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. ALEGAÇÕES FINAIS.PREVISÃO LEGAL. AUSÊNCIA. OMISSÃO NORMATIVA. NULIDADE. INOCORRÊNCIA.
+1.Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A jurisprudência do STJ entende que a ausência de fase para alegações finais no processo administrativo simplificado, previsto em ato normativo específico da ANTT, não é omissão normativa e, portanto, não demanda a aplicação subsidiária da Lei n. 9.784/1999.
+3. Agravo interno desprovido.
+VOTO
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista(Enunciado Administrativo n. 3).
+Dito isso, tenho que o inconformismo não merece prosperar.
+Como destacado na decisão agravada (e-STJ fls. 593/596), ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que a ausência de fase para oferecimento de alegações finais no processo administrativo simplificado, previsto no ato normativo específico da ANTT, não configura omissão normativa, portanto, não demanda a aplicação subsidiária da Lei n. 9.784/1999 e, por consequência, a nulidade, ainda que parcial, do processo administrativo.
+Cumpre observar que, nos termos do art. 69 da Lei n. 9.784/1999, tal legislação não é de obrigação cogente, mas apenas subsidiária, ou seja, na ocorrência de omissão,aos processos administrativos que possuem procedimento e regulação específicas, como o tratado nos autos.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. ALEGAÇÕES FINAIS. AUSÊNCIA. NULIDADE. INOCORRÊNCIA.
+1. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à solução integral das controvérsias que lhe foram submetidas a julgamento.
+2. Nos termos da Súmula 211 do STJ, "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal".
+3. A Lei n. 9.784/1999 se aplica de forma subsidiária aos processos administrativos em geral, na hipótese de haver lacuna normativa.
+4. A falta de previsão na Resolução ANTT n. 442/2004 para oferecimento de alegações finais não acarreta omissão normativa, mas simplificação do processo administrativo, razão pela qual não há cerceamento de defesa em sua não oportunização.
+5. Não se declara nulidade de processo administrativo por ausência das alegações finais, uma vez que não foi demonstrado eventual prejuízo. Princípio pas de nullite sans grief.
+6. Agravo interno não provido. (AREsp 1581109, MINHA RELATORIA, PRIMEIRA TURMA, DJe 26/10/2017).
+ADMINISTRATIVO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. REGULAMENTAÇÃO. NÃO INCIDÊNCIA DA LEI Nº 9.784/1999. ALEGAÇÕES FINAIS. DISPENSA. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a ausência de previsão na Resolução ANTT nº 442/2004 para oferecimento de alegações finais decorre do intuito de simplificação do processo administrativo, não configurando, portanto, omissão normativa quanto ao tema.
+2. Assim, havendo regramento específico para o processo administrativo simplificado, não há falar na incidência da Lei nº 9.784/1999, uma vez que essa somente tem aplicação de forma subsidiária aos processos administrativos em geral, ou seja, na hipótese de haver lacuna normativa, o que não se verifica na hipótese dos autos.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AgInt no AREsp 1152519/PR , Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/12/2019).
+ADMINISTRATIVO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. ALEGAÇÕES FINAIS. AUSÊNCIA. NULIDADE. NÃO OCORRÊNCIA.
+1. Hipótese em que a Corte de origem concluiu pela nulidade do procedimento administrativo ante a ausência de intimação das partes para apresentar alegações finais.
+2. A Segunda Turma do STJ, no julgamento do REsp 1.723.086/RS, Rel. Ministro Og Fernandes, firmou o entendimento de que a ANTT "possui regramento específico para o processo administrativo simplificado (Resolução ANTT n. 442/2004 - "aprova o Regulamento disciplinando, no âmbito da ANTT, o processo administrativo para apuração de infrações e aplicação de penalidades decorrentes de condutas que infrinjam a legislação de transportes terrestres e os deveres estabelecidos nos editais de licitações, nos contratos de concessão, de permissão e de arrendamento e nos termos de outorga de autorização"). Tal resolução foi editada com base nas atribuições conferidas à ANTT pelas Leis n. 8.987/1995 e 10.233/2001, possuindo presunção de legalidade. Em verdade, trata-se, pontualmente, de procedimento administrativo específico (simplificado), com autorização da Lei n. 10.233/2001, não existindo razão para justificar sua não observância". No mesmo sentido: AgInt no REsp 1.581.109/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 12/09/2017, DJe 26/10/2017.
+3. Agravo Interno provido para reconsiderar a decisão agravada e dar provimento ao Recurso Especial. (AgInt no REsp 1779362 / PR, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 12/09/2019).
+Além disso, para eventual reconhecimento de nulidade do processo administrativo por ausência de alegações finais, é necessária a demonstração de prejuízo, por força do princício pas de nullite sans grief (v.g.: pelo STJ, RMS 35.458/MG, rel. Ministro OG FERNANDES, Segunda Turma, DJe 26/05/2014; REsp 1378767/PE, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 10/04/2017; pelo STF: MS 27751 ED-AgR, rel. Min. ROSA WEBER, Primeira Turma, julgado em 09/11/2016, DJe-248; RMS 32811 AgR, rel. Min. LUIZ FUX, Primeira Turma, julgado em 28/10/2016, DJe-246).
+Registre-se, por fim, que não é possível a apreciação do fundamento de que se estaria restringindo o direito a ampla defesa e ao contraditório, consagrados nos arts.5º, II, 37, caput, e 84, IV, da Constituição da República, ainda que para fins de prequestionamento,sob pena de invasão da competência do Supremo Tribunal Federal.Nesse sentido:AgInt nos EDv nos EAREsp 1520395/SC, relatora Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 18/12/2020.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
