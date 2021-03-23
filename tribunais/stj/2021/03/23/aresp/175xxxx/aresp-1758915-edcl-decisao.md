@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DANIELE FERNANDA ROSSETTI DO CARMO POLIZEL E OUTRO em face de decisão de fls. 1.751/1.756.
+Em suas razões, os embargantes sustentam que não foram condenados anteriormente em honorários, não podendo haver majoração de honorários sucumbenciais.
+Impugnação de LUCAS MAZER SABINO pela rejeição dos embargos (fls. 1.759/1.761) e pela aplicação de sanção por litigância de má-fé.
+O recurso não merece prosperar.
+Inicialmente verifique-se que não observado o necessário dolo processual para aplicação de multa por litigância de má-fé requerida em contrarrazões.
+Quanto aomais, da leitura dos autos, não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1.022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. REITERAÇÃO DO MANEJO DE RECURSO DE CARÁTER MANIFESTAMENTE PROTELATÓRIO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. INEXISTÊNCIA, AUSÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. RECURSO DE CARÁTER MERAMENTE INFRINGENTE. MANIFESTA INADEQUAÇÃO DA VIA RECURSAL ELEITA, A TORNAR INARREDÁVEL A MAJORAÇÃO DA MULTA ARBITRADA.
+1. Como dito no acórdão ora embargado, está expressamente consignado no acórdão do recurso especial que, à luz da própria causa de pedir dos embargos à execução e das decisões prolatadas pelas instâncias ordinárias, não há pertinência temática entre o tema controvertido e as atribuições do Banco Central e do CARF, que a recorrida pretendia fossem convidados a participar como amicus curiae. Por outro lado, ponderou-se que o art. 138 do novo CPC deixa claro que o Relator poderá, "por decisão irrecorrível", solicitar ou admitir a participação daquele que detém representatividade adequada, tendo sido, pelo motivo mencionado, indeferido o pedido/sugestão de inclusão de novos amici curiae.
+2. Salientou-se que o conteúdo das razões expostas nos primeiros aclaratórios revelam mero inconformismo, hipótese que não enseja a oposição de embargos de declaração.
+3. Embargos de declaração rejeitados, com aplicação da multa prevista no §3º do art. 1026 do Novo Código de Processo Civil. (EDcl nos EDcl no REsp 1726161/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/11/2019, DJe 03/12/2019)
+Ressalte-se que, em sua petição, a parte embargante, sequer, demonstra omissão, obscuridade ou contradição no julgado embargado, fazendo arguições genéricas e sem similitude com o disposto no art. 1.022 do Código de Processo Civil/2015.
+A decisão embargada abordou, expressamente, as questões que se pretenderam discutidas no especial, estando assim redigida (fls. 1.747/1.749):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por DANIELE FERNANDA ROSSETTI DO CARMO POLIZEL E OUTRO, em face de acórdão assim ementado (fl. 1.485):
+APELAÇÃO CINTEL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA.  VALOR PAGO PELOS EXECUTADOS LEVANTADO PELOS EXEQUENTES. INTIMAÇÃO DOS EXEQUENTES PARA SE MANIFESTAR SOBRE A SATISFAÇÃO DA OBRIGAÇÃO. PRAZO DECORRIDO SEM MANIFESTAÇÃO. PRESUNÇÃO DE QUITAÇÃO DO DÉBITO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL.
+EXTINÇÃO DO PROCESSO COM BASE NO ARTIGO 924, II, DO CPC.
+ENTENDIMENTO CORRENTE NO STJ.  RECURSO CONHECIDO E NÃO PROVIDO.
+- Intimado o credor, na pessoa de seu advogado, sobre o interesse no prosseguimento da execução após ter recebido o valor depositado pelo devedor, o silêncio permite presumir a satisfação da obrigação, não sendo exigida a intimação pessoal, pois não se trata de extinção por abandono da causa.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 1.527/1.530).
+Nas razões do especial, os ora agravantes alegam afronta ao art. 11 do Código Civil, aduzindo que "o silêncio dos ora recorrentes somente importaria anuência quando não fosse necessária a declaração de vontade expressa, o que, conforme já exposto, não é o caso, eis que pela Súmula 240 do STJ exige requerimento do réu para o feito ser extinto" (fl. 1.554).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao julgar a apelação, concluiu que satisfeita a obrigação, assim se pronunciando (fl. 1.487):
+Nos termos do art. 924 do Código de Processo Civil, a execução será extinta nas seguintes situações: a) a petição inicial for indeferida, b) a obrigação for satisfeita, c) o executado obtiver, por qualquer outro meio, a extinção total da dívida, d) o exequente renunciar ao crédito e d) ocorrer a prescrição intercorrente.
+Portanto, uma das causas de extinção da execução é quando o devedor satisfaz a obrigação.
+Consoante o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, "A renúncia ao crédito exeqüendo remanescente, com a conseqüente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita" (REsp 1143471/PR, Rel. Ministro Luiz Fux, Corte Especial, julgado em 03/02/2010, DJe 22/02/2010).
+No presente caso, apesar de devidamente intimados a se manifestar acerca da satisfação do saldo devedor (mov. 443.1), os exequentes quedaram-se silentes, razão pela qual, o magistrado singular extinguiu o processo, com fundamento no art. 924, II, do CPC (antigo art. 794, I, do CPC/73).
+Conforme decidido pelo STJ, "não há no recurso repetitivo da controvérsia supra, qualquer menção a intimação pessoal, dando a entender que não há necessidade de intimação pessoal" (EREsp 844.964/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 24/03/2010, DJe 09/04/2010).
+Logo, a intimação pessoal da parte credora não se mostra necessária.
+Sob este prisma, é legítimo presumir, em razão do silêncio dos credores após devidamente intimados, a satisfação da pretensão executória.
+Do acima transcrito, verifica-se que a matéria constante do dispositivo legal acima apontado como violado (art. 111 do Código Civil) não foi objeto de debate pela Corte de origem. Acrescente-se que a parte recorrente não impugnou o fundamento central do acórdão recorrido, não havendo, sequer, apontado violação do art. 924 do Código de Processo Civil/2015, utilizado como razão de decidir, não havendo similitude entre as questões discutidas no acórdão recorrido e as razões do especial. Assim, inviável o provimento do especial pela aplicação das Súmulas 282, 283 e 284/STF.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo. Fixo os honorários de sucumbência em 10% (dez por cento) sobre o valor atualizado da causa (art. 85, § 2º), considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
+Do acima transcrito, está claro que não houve majoração de honorários, mas, sim, fixação por sucumbência, não havendo o que se reformar.
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+Intimem-se.
