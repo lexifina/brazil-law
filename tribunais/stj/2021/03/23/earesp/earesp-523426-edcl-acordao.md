@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves e Raul Araújo votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido - situações inocorrentes na hipótese.
+2. Em se tratando de oposição desegundos embargos de declaração, cujoconteúdo já foi rechaçado anteriormente, impõe-se reconhecer a abusividade naprática processual, sendo de rigor a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+3. Embargos de declaração rejeitados com aplicação de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BAURU ADMINISTRADORA DE BENS S/C LTDA.contra acórdão de fls. 1.880/1.885 (e-STJ),darelatoria do Min. Napoleão Nunes Maia Filho, que rejeitou os anteriores declaratórios opostos pelo ora embargante.
+Aduz aparte embargante, repisando argumentação já rechaçada, a existência de omissão na hipótese, pois "até o presente momento não houve avaliação do ponto autônomo e independente da causa e incontroverso nos autos e atestado nas decisões objurgadas de que se está diante de hipótese em julgamento onde a discussão recursal traduz questão acerca da correção ou não da fixação de honorários de sucumbência de apenas R$3.000,00 em ação julgada inteiramente improcedente cujo valor da causa em 20.05.05 era de R$10.727.793,76".
+Sem i  mpugnação (e-STJ fls. 1.899/1.900).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido - situações inocorrentes na hipótese.
+2. Em se tratando de oposição desegundos embargos de declaração, cujoconteúdo já foi rechaçado anteriormente, impõe-se reconhecer a abusividade naprática processual, sendo de rigor a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+3. Embargos de declaração rejeitados com aplicação de multa.
+VOTO
+Eminentes colegas, os embargos de declaração não devem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, já que o acórdão embargado encontra-se suficientemente motivado, tendo declinado todas as razões pelas quais concluiu pelo não acolhimento do recurso.
+Nas razões dos presentes declaratórios, a parte, mais uma vez, reitera argumentação relacionada ao conhecimento dos embargos de divergência para fins de majoração de valores fixados a título de honorários advocatícios.
+Aliás, no tocante, é vasta a jurisprudência do STJ no sentido de que "não cabe a discussão, em sede de embargos de divergência, acerca da alegada irrisoriedade ou exorbitância da verba arbitrada a título de honorários advocatícios, sobretudo porque tal aferição depende da análise das peculiaridades do caso concreto"(AgInt nos EAREsp 1210229/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 16/12/2020, DJe 18/12/2020).
+Nesse mesmo sentido:AgInt nos EDv nos EREsp 1.489.640/RS, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 16/12/2020, DJe de 18/12/2020; AgInt nos EDcl nos EDv nos EAREsp 1.289.488/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 07/04/2020, DJe de 16/04/2020;AgInt nos EDv nos EREsp 1.759.899/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 07/04/2020, DJe de 12/05/2020;AgInt nos EDv nos EAREsp 1.030.534/MS, Rel. Min.HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 26/4/2018; AgInt nos EREsp 1.612.694/RJ, Rel. Min. NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 03/08/2017;AgInt nos EREsp 1.322.257/RS, relator Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 07/12/2016, DJe de 19/4/2017.
+Ressalto, nesse contexto, que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita.Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo o acórdão embargadodos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+No caso, a parte ora embargante extrapolou os limites da cognição neste segundo recurso integrativo ao pleitear manifestação acerca doconhecimento do recurso para fins de majoração da verba honorária, questão que não havia sido suscitada nos primeiros aclaratórios e no agravo interno de fls. 1.758/1.823 (e-STJ).
+Tratando-se, portanto, de segundos embargos de declaração com conteúdo já rechaçado anteriormente, impõe-se reconhecer a abusividade da prática processual, sendo de rigor a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Ante o exposto, voto no sentido de rejeitaros embargos de declaração.
+Condeno a parte ora embargante a pagar aosora embargadosmulta processual que arbitro em 2% do valor atualizado dado à causa, ex vi do art. 1.026, § 2º, do CPC/2015.
+Advirta-se quanto ao disposto no art. 1.026, § 3º, do CPC/2015.
+É o voto.
