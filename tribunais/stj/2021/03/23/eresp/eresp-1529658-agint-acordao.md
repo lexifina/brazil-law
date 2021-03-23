@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO. AUSÊNCIA DE ANÁLISE DO MÉRITO. DIVERGÊNCIA NÃO COMPROVADA .
+I - O presente feito, na origem, decorre de agravo de instrumento contra decisão que, em cumprimento de sentença contra a Fazenda Pública, afastou a incidência do reajuste de 28,86% sobre a "Retribuição Adicional Variável" (RAV). O Tribunal a quo negou provimento ao agravo. Nesta Corte, o recurso especial não foi conhecido, sendo a decisão mantida após agravo interno.
+II - Os embargos não reúnem condições de serem processados. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 7 e 211/STJ.
+III - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+IV - Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+V - No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.500.624/MG, relator Ministro Francisco Falcão, Primeira Seção, DJe de 1º/4/2019. Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra monocrática que decidiu embargos de divergência em recurso especial interpostos por Eliane Maria Machry e Outros com fulcro no art. 1.043 do Código de Processo Civil.
+O presente feito, na origem, decorre de agravo de instrumento contra decisão que, em cumprimento de sentença contra a Fazenda Pública, afastou a incidência do reajuste de 28,86% sobre a "Retribuição Adicional Variável" (RAV). O Tribunal a quo negou provimento ao agravo. Nesta Corte, o recurso especial não foi conhecido, sendo a decisão mantida após agravo interno.
+A parte embargante insurgiu-se contra o acórdão embargado em razão da divergência com o seguinte julgado:
+a) REsp n. 1.318.315/AL, proferido pela Primeira Seção, relativo à compensação do reajuste de 28,86% com outros títulos de natureza diversa; e requereu, desse modo, o provimento dos embargos de divergência.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos contrários aos fundamentos da decisão:
+(..) fato de o recurso especial não ter sido apreciado em seu mérito não impede a análise de embargos de divergência interpostos contra decisão que não observou precedente firmado em sede de recurso especial repetitivo. Essa hipótese extraordinária, qual seja, divergência com recurso especial repetitivo, não está incluída nos acórdãos que deram origem à Súmula 315/STJ, mesmo porque o verbete foi editado antes da entrada em vigor da Lei nº 11.672, de 2008.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO. AUSÊNCIA DE ANÁLISE DO MÉRITO. DIVERGÊNCIA NÃO COMPROVADA .
+I - O presente feito, na origem, decorre de agravo de instrumento contra decisão que, em cumprimento de sentença contra a Fazenda Pública, afastou a incidência do reajuste de 28,86% sobre a "Retribuição Adicional Variável" (RAV). O Tribunal a quo negou provimento ao agravo. Nesta Corte, o recurso especial não foi conhecido, sendo a decisão mantida após agravo interno.
+II - Os embargos não reúnem condições de serem processados. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 7 e 211/STJ.
+III - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+IV - Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+V - No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.500.624/MG, relator Ministro Francisco Falcão, Primeira Seção, DJe de 1º/4/2019. Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+VI - Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Os embargos não reúnem condições de serem processados. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas n. 7 e 211/STJ.
+Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. ATO DE IMPROBIDADE. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE PEDIDO LIMINAR. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA.
+I - Trata-se, na origem, de recurso de agravo de instrumento com pedido de efeito suspensivo, interposto por CONSPURI CONSTRUTORA XAPURI LTDA e BIOCOLLECTA SOLUÇÕES AMBIENTAIS LTDA em face da decisão monocrática do Juízo da 1ª Vara Cível da Comarca de Itaúna/MG exarada nos autos de n. 0093111-40.2012.8.13.0338, ajuizados pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS. Referida decisão deferiu parcialmente o pedido liminar de indisponibilidade de bens dos réus, além da quebra de sigilo bancário e fiscal e do afastamento provisório do Chefe do Poder Executivo Municipal. No Tribunal de Justiça do Estado de Minas Gerais deu-se provimento ao agravo de instrumento, para afastar a indisponibilidade de bens.
+II - Extrai-se do artigo 1.043, inciso I, do Código de Processo Civil de 2015 que "é embargável o acórdão de órgão fracionário que: em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito".  ..
+(AgInt nos EREsp n. 1500624/MG, Relator Ministro Francsico Falcão, Primeira Seção, DJe de 1º/4/2019.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
