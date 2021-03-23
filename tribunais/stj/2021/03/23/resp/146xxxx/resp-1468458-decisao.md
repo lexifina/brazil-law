@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Departamento Nacional de Infraestrutura de Transportes - DNIT, com amparo na alínea a do inciso III do art. 105 da CF, contra acórdão proferido peloTribunal Regional Federal da 5ª Regiãoassim ementado:
+AGRAVO REGIMENTAL. MANIFESTA IMPROCEDÊNCIA. ART 557, CAPUT, DO CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. OBRIGAÇÃO DE PAGAR. RESSARCIMENTO POR REMOÇÃO DE LINHAS DE TRANSMISSÃO DE ENERGIA ELÉTRICA. DUPLICAÇÃO DA BR-101-RN. OBRIGAÇÃO IMPOSTA AO DNIT POR FORÇA DE SENTENÇA TRANSITADA EM JULGADO. INTIMAÇÃO PARA CUMPRIMENTO REVERÊNCIA À RES JUDICATA.RECURSO INOMINADO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.109-1.116).
+Defende o insurgente, em síntese: i) nulidade por vício de fundamentação acerca da sua condição de autor da sentença em execução, que jamais poderia ter lhe imposto condenação, da inexistência de reconvenção e da natureza declaratória da afirmação sobre o ônus imposto ao DNIT (art. 535 do CPC/1973); e ii) inexistência de título apto a suportar a execução, por impossibilidade de condenação do autor sem reconvenção (arts. 475-N e 580 do CPC/1973).
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fl. 1.133).
+Parecer pelo conhecimento em parte e, nessa extensão, desprovimento (e-STJ, fls. 1.145-1.147).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC, combinado com a Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+A tese do recorrente é relevante no plano do controle da interpretação da legislação por esta Corte, em face da jurisprudência. Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.PEDIDO DE CONDENAÇÃO FORMULADO PELO RÉU, NA CONTESTAÇÃO, SEM O AJUIZAMENTO DE RECONVENÇÃO. INADMISSIBILIDADE DE ANÁLISE PELO JUIZ.JULGAMENTO EXTRA PETITA. VIOLAÇÃO AOS ARTS. 128 E 460 DO CPC.EMBARGOS DE DIVERGÊNCIA ACOLHIDOS. RECURSO ESPECIAL PROVIDO.RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A disciplina processual civil é estruturada de modo que o réu, citado para apresentar resposta ao pedido do autor, querendo formularpleito adverso, somente o possa fazer por meio do ajuizamento da reconvenção; na contestação, como se diz, não cabe a formulação de pedido, porquanto, por seu intermédio, a parte ré deve apenas se defender da pretensão da parte autora, resistindo, pelos meios ao seu alcance, à procedência de sua postulação, mas não lhe é permitida a dedução de pedido, ainda que tenha direito à correspondente prestação.
+2. No caso dos autos, a egrégia Corte Paranaense aplicou, de ofício, os ditames do art. 333 do Código Comercial (hoje revogado), impondo ao autor ônus ou encargo que obviamente não fora objeto de seu pedido (do promovente) e nem de declinação, pelo promovido, em sede própria, a saber, a reconvenção.
+3. O art. 128 do CPC impõe ao Juiz decidir a lide nos limites em que foi proposta, enquanto o art. 460 do CPC veda-lhe a prolação de decisão além (ultra petita), fora (extra petita) ou aquém do pedido (citra ou infra petita); ambos os dispositivos consagram o chamado princípio da congruência ou da correlação, que preceitua que a sentença deve corresponder, fielmente, ao pedido formulado pela parte promovente, deferindo-o ou negando-o, no todo, parcialmente, se for o caso.
+4. Embargos de Divergência acolhidos, a fim de conhecer e dar provimento ao Recurso Especial, para anular o acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Paraná, a fim de que o julgamento das Apelações seja adstrito aos limites estabelecidos na lide.
+(EREsp 1.284.814/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 18/12/2013, DJe 6/2/2014.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.ACÓRDÃO RECORRIDO. MAIS DE UM FUNDAMENTO. IMPUGNAÇÃO DE TODOS.NECESSIDADE. JULGAMENTO EXTRA PETITA. OCORRÊNCIA.
+I Inviável o especial, à mingua de prequestionamento, se a matéria impugnada não foi objeto de deliberação no tribunal de origem.
+IIInadmissível o recurso quando há, no acórdão recorrido, fundamento não impugnado, apto por si só a manter a conclusão a que chegou o aresto.
+IIISe a sentença, ao julgar ação de reintegração de posse, não se limitou a acolher ou rejeitar o pedido inicial, mas foi além deste, não só deferindo pretensão deduzida na contestação, mas também condenando o autor ao pagamento de verba que sequer foi objeto de requerimento expresso da ré, houve julgamento extra petita, com ofensa aos artigos 128 e 460 do Código de Processo Civil.
+Recurso especial não conhecido.
+(REsp 439.514/DF, Rel. Min. CASTRO FILHO, TERCEIRA TURMA, julgado em 11/11/2003, DJ 9/12/2003, p. 280.)
+Nesse contexto, o não enfrentamento pela origem da matéria poderia impedir o acesso recursal às instâncias excepcionais. Forçoso, portanto, reconhecer a carência de fundamentação do acórdão recorrido. O acolhimento da pretensão prejudica as demais questões.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento com o intuitodedevolver o feito à origem para novo julgamento dos aclaratórios, com saneamento dos vícios de fundamentação aqui reconhecidos.
+Publique-se. Intimem-se.
