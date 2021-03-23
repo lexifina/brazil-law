@@ -1,0 +1,37 @@
+EMENTA
+HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONVÊNIO PARA A PRESTAÇÃO DO CURSO. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. Consoante descrito no acórdão inquinado coator, "não há qualquer informação sobre plano de estudo, bem como relatórios de frequência e de aproveitamento básicos, requisitos que impossibilitam o preenchimento dos parâmetros relacionados à conclusão do ensino, em observância às disposições legais (LEP, art. 126, §1º, inciso I)".
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LAURI STAROSKY JUNIOR interpõe agravo regimental contra a decisão de fls. 105-108.
+Nas razões deste recurso, a defesa alega que "A responsabilidade do Estado frente ao paciente é objetiva, assim tem o entendimento que o apenado não pode ser prejudicado na sua remição, devido à falta de fiscalização do Estado, que tem o dever de acompanhar as atividades laborais de seu apenado" (fl. 117).
+Argumenta, ainda, que "o não reconhecimento do direito à remição, no caso concreto, constitui verdadeiro venire contra factum proprium. Afinal, o próprio Estado-Juiz autorizou o Paciente a realizar o "Curso Profissionalizante de Mecânica de Automóveis" dentro do próprio estabelecimento prisional, de modo que é absolutamente incoerente que o mesmo Estado-Juiz negue o direito à remição por falta de informações a respeito do curso realizado" (fl. 119).
+Requer a reforma do julgado.
+EMENTA
+HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONVÊNIO PARA A PRESTAÇÃO DO CURSO. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. Consoante descrito no acórdão inquinado coator, "não há qualquer informação sobre plano de estudo, bem como relatórios de frequência e de aproveitamento básicos, requisitos que impossibilitam o preenchimento dos parâmetros relacionados à conclusão do ensino, em observância às disposições legais (LEP, art. 126, §1º, inciso I)".
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada.
+Não obstante os argumentos trazidos pela defesa, reitero que, consoante o entendimento desta Corte Superior, " a  norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal" (REsp n. 744.032/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 5/6/2006).
+Conforme dito anteriormente, o art. 1º, I, da Recomendação n. 44 do Conselho Nacional de Justiça, foi aconselhado aos Tribunais que:
+ ..  para fins de remição pelo estudo (Lei nº 12.433/2011), sejam valoradas e consideradas as atividades de caráter complementar, assim entendidas aquelas que ampliam as possibilidades de educação nas prisões, tais como as de natureza cultural, esportiva, de capacitação profissional, de saúde, entre outras, conquanto integradas ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional local e sejam oferecidas por instituição devidamente autorizada ou conveniada com o poder público para esse fim (destaquei).
+"Ademais, em atenção ao princípio constitucional da dignidade da pessoa humana, a política criminal na execução da pena deve ser voltada à sua humanização, de forma a estimular instrumentos sancionatórios mais humanos e que evitem o máximo possível a privação da liberdade" (HC n. 376.324/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 15/5/2017).
+Todavia, consoante descrito no acórdão inquinado coator, "não há qualquer informação sobre plano de estudo, bem como relatórios de frequência e de aproveitamento básicos, requisitos que impossibilitam o preenchimento dos parâmetros relacionados à conclusão do ensino, em observância às disposições legais (LEP, art. 126, §1º, inciso I)" (fl. 95, destaquei).
+O Tribunal local também apontou que, "inexiste qualquer comprovação de que o Instituto Universal Brasileiro esteja regularmente autorizada ou conveniada com o poder público" (fl. 95, grifei).
+Dessa forma, percebe-se que a Corte de origem salientou a impossibilidade de se aferir em que condições foi concluído o curso, dado que "embora a possibilidade de estudo a distância seja uma forma de ressocializar o apenado, sobretudo como na espécie, de cursos técnicos onde se busca a preparação do apenado para a entrada no mercado de trabalho, tal possibilidade não está dispensada de credenciamento no Ministério de Educação e convênio com o DEAP, órgão de Administração Prisional, o que não se vislumbra nos autos" (fl. 96, grifei).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019, grifei).
+Portanto, reafirmo que o óbice destacado encontra respaldo no entendimento firmado pelo Superior Tribunal de Justiça, segundo o qual " a  remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigido na Recomendação n. 44 do Conselho Nacional de Justiça" (AgRg no HC n. 460.196/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/7/2019, sublinhei).
+No mesmo sentido:
+ ..
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. O apenado realizou curso livre, apostilado, em horário posterior ao trabalho, com duração por ele mesmo determinada. Não existia convênio nem projeto da unidade prisional militar para a atividade, e a instituição de ensino e a direção prisional não controlaram as horas efetivas de aprendizado. O estudo não foi informado, mensalmente, ao Juiz da Execução nem fiscalizado pelo Ministério Público. Nesse cenário, mero controle individual do discente, ainda que assinado pelo diretor na unidade, não se presta a lastrear a remição.
+3. Agravo regimental não provido (AgRg no HC n. 524.797/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/12/2019, grifei).
+Para afastar as conclusões do acórdão seria necessário realizar dilação probatória, providência inviável no habeas corpus.
+À vista do exposto, nego provimento ao agravo regimental.
