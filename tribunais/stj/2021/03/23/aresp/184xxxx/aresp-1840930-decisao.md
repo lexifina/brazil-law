@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por RUSLAN RODRIGUES CARVALHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por RUSLAN RODRIGUES CARVALHO, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PRETENSÃO ABSOLUTÓRIA E DESCLASSIFICAÇÃO NÃO ACOLHIDAS. PRIVILÉGIO NÃO RECONHECIDO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. ATENUANTE DA MENORIDADE. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231 DO STJ. PENA DE MULTA. PEDIDO DE DIMINUIÇÃO PARCIALMENTE ACOLHIDO E DE EXCLUSÃO REJEITADO. ALEGAÇÃO DE POBREZA. REGIME INICIAL. NECESSIDADE DE COMPATIBILIZAÇÃO. APELO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei nº 11.343/06, no que concerne ao preenchimento dos requisitos legais para a redução da pena pelo tráfico privilegiado em seu grau máximo, trazendo os seguintes argumentos:
+"A pretensão da defesa é no sentido de reconhecer a fração máxima do tráfico privilegiado em 2/3 (dois terços), com a conseqüente adequação do regime prisional.
+ ..
+O argumento do TJTO de que o recorrente foi preso com significativa quantidade de crack (59 gramas) e por isso não foi possível reconhecer o tráfico privilegiado não merece prosperar.
+ ..
+Desse modo, na compreensão da defesa, há razões fáticas e jurídicas para a concessão do redutor máximo de 2/3 (dois terços), face ao benefício previsto no § 4º do artigo 33 da Lei de Drogas" (fls. 89/91).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja, a afirmação de que o recorrente pertence a organização criminosa. Veja-se:
+"Para o reconhecimento da minorante em evidência, o agente deve preencher, concomitantemente, os seguintes requisitos: a) possuir o agente a condição de primário; b) ser detentor de bons antecedentes; c) não se dedicar a atividades criminosas; e, d) não integrar organização criminosa.
+Muito embora seja primário e aparentemente de bons antecedentes, conforme bem lembrado pela cúpula ministerial em parecer, foi "preso com significativa quantidade de crack (59 gramas), que, fracionada, segundo matérias jornalísticas, renderia mais ou menos 200 pedras, declarou pertencer a uma organização criminosa denominada "PCC"" (fl. 65).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
