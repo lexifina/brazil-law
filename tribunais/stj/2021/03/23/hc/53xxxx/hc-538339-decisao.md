@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HALIM SAAD FARHA NETO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n.2051145-03.2019.8.26.0000.
+Consta dos autos que o Paciente foi denunciado, na data de 24/01/2018, como incurso nos arts. 171, caput, do Código Penal, e 303 da Lei n.9.503/97 (Código de Trânsito Brasileiro), na forma do art. 69 do Código Penal.
+Narra a denúncia que o Paciente envolveu-se em acidente de trânsito causando lesões corporais emA. C. C., descritas em laudos periciais, e, posteriormente, acionou o seguro do automóvel"comunicando falsamente a ocorrência de sinistro de um veículo segurado (Dodge RAM 2500, de cor preta, placas APO-7450), quando, em verdade, o veículo envolvido no acidente de trânsito era outro (VW/Gol, de cor preta, placas EZW-6655), induzindo-a e mantendo-a em erro, auferindo, com sua conduta, vantagem patrimonial ilícita no valor de R$ 778,55 (setecentos e setenta e oito reais e cinquenta e cinco centavos)" (fl. 28).
+O Paciente, em primeiro grau de jurisdição, formulou pedido de acordo de não persecução penal previsto no art. 18 da Resolução n.181/2017 do Conselho Nacional do Ministério Público. Todavia, a Juíza da Vara Única da Comarca de Piratininga/SP decidiu ser incabível a referida transação (fls. 347-349).
+Inconformada, a Defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada (fls. 374-382).
+Neste writ, a Parte Impetrante sustenta que foi publicada a Resolução n.181/2017 do Conselho Nacional do Ministério Público, que prevê a possibilidade de acordo de não persecução penal em determinados tipos de infração penal. E, que, "não há quaisquer empecilhos para que haja a proposta do acordo de não persecução penal, uma vez que no presente caso o paciente se adequa integralmente e perfeitamente a hipótese" (fl. 7).
+Requer, liminarmente e no mérito, a suspensão do "processo de n.º 0000376-77.2017.8.26.0458 que se encontra em tramitação na Vara Única da Comarca de Piratininga/SP até que haja o julgamento do presente writ" (fl. 15).
+O pedido liminar foi indeferido às fls. 905-906.
+As informações foram prestadas às fls. 912-919 e 922-939.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 941-943).
+É o relatório.Decido.
+A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.924/2019, desde que não recebida a denúncia.
+A propósito, menciona-se precedente da Quinta Turma:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO RETROATIVA DO ART. 28-A DA LEI Nº 13.964/2019. ACORDO DE NÃO PERSECUÇÃO PENAL. RÉU CONDENADO. IMPOSSIBILIDADE. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO. ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. No que tange à aplicação retroativa do Acordo de Não Persecução Penal (ANPP), introduzido no nosso ordenamento jurídico pela Lei n. 13.964/2019 (art. 28-A e seguintes do Código de Processo Penal), mostra-se incompatível com o propósito do referido instituto quando recebida a denúncia e já encerrada a prestação jurisdicional na instância ordinária, com a condenação do acusado, como no presente caso.
+ .. .
+7. Agravo regimental não provido." (AgRg no HC 626.687/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021; sem grifos no original.)
+Igual entendimento foi adotado pela Sexta Turma, em sessão do dia 09/03/2021, ao apreciar o AgRg no HC n. 628.647/SC e no HC n. 615.412/SP, ocasião em que fui designada Relatora para a lavratura de ambos os acórdãos, ainda pendentes de publicação.
+No mesmo sentido, o seguinte julgado do Supremo Tribunal Federal:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). RETROATIVIDADE ATÉ O RECEBIMENTO DA DENÚNCIA.
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia."" (HC 191.464 AgR, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, julgado em 11/11/2020, DJe-280, DIVULG 25/11/2020, PUBLIC 26/11/2020; sem grifos no original.)
+No caso concreto, sendo a peça acusatória admitida em 29/05/2018(fls. 694-695) e prolatada condenação, inclusive confirmada em grau recursal, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. ARTS. 171, CAPUT E 303 DO CÓDIGO DE TRÂNSITO BRASILEIRO.PROCESSUAL PENAL. ART. 28-A DO CÓDIGO DE PROCESSO PENAL. LEI N. 13.924/2019. ACORDO DE NÃO PERSECUÇÃO PENAL. DENÚNCIA RECEBIDA E CONDENAÇÃO PROFERIDA. APLICAÇÃO RETROATIVA. DESCABIMENTO. ORDEM DEHABEAS CORPUSDENEGADA.
