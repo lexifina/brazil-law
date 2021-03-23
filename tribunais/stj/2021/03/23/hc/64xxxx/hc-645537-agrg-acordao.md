@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. ART. 387, § 1º, DO CPP. FUNDAMENTAÇÃO SUFICIENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com oEstado Democrático de Direito -o qual se ocupa de proteger tanto aliberdadequanto asegurança e a paz públicas - e com a presunção de não culpabilidade, é necessário quea decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório.Apar disso,a decisão judicial deve ser suficientemente motivada, mediante análise daconcretanecessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, porquanto foi apreendida relevante quantidade de droga - a saber, aproximadamente 380 kg de maconha.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+THIAGO DE ASSIS SILVA e THIAGO RODRIGUES DA SILVA requerem a reconsideração da decisão de fls. 50-51, em que indeferi liminarmente o habeas corpus, dada a presença dos requisitos legais para imposição das prisões preventivas.
+Para tanto, asserem que, "no que diz respeito ao apelo em liberdade, nada foi citado no tocante a reincidência e quantidade de drogas. Assim, a defesa entende que não existe fundamentação plausível para negar o apelo em liberdade" (fl. 54).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. ART. 387, § 1º, DO CPP. FUNDAMENTAÇÃO SUFICIENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com oEstado Democrático de Direito -o qual se ocupa de proteger tanto aliberdadequanto asegurança e a paz públicas - e com a presunção de não culpabilidade, é necessário quea decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório.Apar disso,a decisão judicial deve ser suficientemente motivada, mediante análise daconcretanecessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, porquanto foi apreendida relevante quantidade de droga - a saber, aproximadamente 380 kg de maconha.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, o Juízo singular, ao proferir a sentença condenatória, manteve a segregação cautelar dos pacientes, " e m razão da natureza do delito e por terem permanecido presos durante a instrução processual, os condenados não poderão apelar em liberdade" (fl. 44).
+Com efeito, no decreto preventivo, o Magistrado sentenciante havia salientado que as circunstâncias da prática delitiva "(notadamente o encontro de rádio comunicador nos dois veículos) evidenciam que Thiago de Assis e Thiago Rodrigues estavam acompanhando César na viagem, como "batedores" da Saveiro onde transportada aquela grande quantidade de entorpecente (380 Kg de maconha)" (fl. 25, grifei).
+A Corte de origem, por sua vez, ao minudenciar os fatos acima descritos, apontou que também que, "proferida sentença que reconheceu a procedência da pretensão punitiva estatal ainda que sujeita a recurso ficam ainda mais robustecidas as razões para a manutenção no cárcere, sobretudo porque, além de serem reincidentes, os pacientes, juntamente com o corréu, teriam sido surpreendidos na posse de uma expressiva quantidade de entorpecentes, dinheiro em espécie e rádios comunicadores ocultados no interior dos automóveis" (fl. 14, destaquei).
+A partir de tais premissas, destaco que a quantidade da droga transportada evidencia a prática habitual da conduta delitiva e, portanto, o próprio periculum libertatis, a ensejar, por conseguinte, a manutenção da custódia cautelar para assegurar a ordem pública, além de inviabilizar a substituição da prisão por medidas diversas.
+Nesse sentido:
+ ..
+3. Esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva devido a permanência das razões que ensejaram.
+4. No caso, a manutenção da prisão preventiva está justificada, pois a sentença condenatória que a manteve fez menção aos fundamentos que justificaram a imposição da segregação cautelar durante o curso da ação penal, quais sejam, a gravidade concreta do delito consubstanciada na elevada quantidade de droga apreendida - aproximadamente 25kg (vinte e cinco quilos) de maconha. Assim, demonstrada a necessidade da prisão provisória como forma de garantir a ordem pública, está correta a decisão que negou ao réu a possibilidade de recorrer em liberdade.
+5. Recurso improvido (RHC n. 113.623/CE, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 9/9/2019, grifei).
+À vista do exposto, nego provimento ao agravo regimental.
