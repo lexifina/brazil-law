@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de ADEMIR ARROABA DE SOUZA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL- TJMSque não admitiu o seu recurso especial, interposto com fulcro no art. 105, III, alínea"a", da Constituição Federal - CF.
+Consta dos autos que o agravante foi condenadopela prática do delito tipificado no art. 138, caput, combinado com o art. 141, II, ambos do Código Penal - CP, àpena de 1 ano e 13dias detenção, em regime inicial semiaberto, e 22 dias-multa (fls. 148/149).
+Irresignada, a Defesa interpôs recurso de apelação que foi provido para neutralizar as circunstâncias judiciais desfavoráveis da personalidade e da conduta social, mas manter o montante de exasperação da pena-base (fl. 216). O acórdão ficou assim ementado:
+"EMENTA - APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - CALÚNIA - PEDIDO DE AFASTAMENTO DA VALORAÇÃO DA CONDUTA SOCIAL E DA PERSONALIDADE - ACOLHIMENTO - FUNDAMENTAÇÃO INIDÔNEA - REPRIMENDA MANTIDA - RECURSO PROVIDO.
+I - A utilização de condenações anteriores se mostra inidônea para incrementar a pena-base quanto às moduladoras relativas à conduta social e à personalidade, pois existente vetorial própria para analisar as incursões criminais, qual seja, a dos antecedentes, motivo pelo qual tais vetoriais devem ser neutralizadas.
+Precedentes do STJ.
+II - Diante da falta de critério legal para a exacerbação da pena- base, a doutrina e jurisprudência têm caminhado para o entendimento de que o aumento deverá ser proporcional ao número de circunstâncias valoradas, ou seja, como temos 08 (oito) circunstâncias, cada negativação corresponderá ao aumento da pena-base na fração de 1/8 (um oitavo) do total resultante da diferença entre as penas mínima e máxima cominadas em abstrato ao delito. No caso em apreço, no que concerne ao crime descrito no artigo 138, caput, cada vetorial deve ser valorada em 02 (dois) meses e 17 (dezessete) dias, de modo que, diante da manutenção da vetorial dos antecedentes, a pena-base aplicada inicialmente deve ser conservada, porquanto fixada em patamar inferior ao acima apresentado.
+III - Contra o parecer, recurso provido." (fl. 210)
+Em sede de recurso especial, a defesa alega violação ao artigo 59 do CP, porquanto o TJMS afastou duas circunstâncias judiciais desfavoráveis, mas deixou de proceder a correspondente redução da pena. Entende que foi desconsiderado o princípio da proporcionalidade e que, em sede de recurso exclusivo da defesa, não poderia deixar de diminuir a pena-base diante do afastamento das vetoriais negativas. Requereu a redução da pena.
+Contrarrazões (fls. 242/252)
+A r. decisão agravada não admitiu o recurso especial haja vista o óbice da Súmula 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 254/259).
+Em agravo em recurso especial, a defesa refuta oreferidoóbice(fls. 269/284).
+Contraminuta às fls. 291/301.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF opinou pelo não conhecimento ou pelo desprovimento do agravo em recurso especial (fls. 314/321).
+É o relatório. Decido.
+Conhece-se do agravo em recurso especial, visto que atacados os fundamentos da decisão agravada.
+Passa-se à análise do recurso especial.
+Sobre a violação ao art. 59 do CP, o Tribunal de origem fez constar o seguinte:
+"Neste contexto, as vetoriais da personalidade e conduta social deverão ser neutralizadas, porém a pena deve ser mantida.
+Ora, como é curial, diante da falta de critério legal para a exacerbação da pena-base, a doutrina e jurisprudência têm caminhado para o entendimento de que o aumento deverá ser proporcional ao número de circunstâncias, ou seja, como temos 08 (oito) circunstâncias, cada negativação corresponderá ao aumento da pena-base na fração de 1/8 (um oitavo) da pena resultante da diferença entre as penas mínima e máxima cominadas em abstrato ao delito.
+Obviamente não se trata de uma fórmula fechada, mas, conforme mencionado pelo STJ, apenas de um critério ideal que auxilia o juiz no momento da dosagem da sanção na primeira fase da dosimetria penal.
+Destaca-se primordialmente que o magistrado não perde sua discricionariedade na individualização da pena, sendo plenamente possível, em casos de maior censura, a aplicação de fração diversa daquela traçada como ideal para a exasperação, desde que devidamente fundamentada, com o fim de aplicação de reprimenda mais justa ao caso concreto.
+In casu, no que concerne ao crime descrito no artigo 138, caput, cada vetorial deve ser valorada em 02 (dois) meses e 17 (dezessete) dias.
+Nesse aspecto, observa-se que, ante a preservação do vetorial dos antecedentes, vê-se que a manutenção da pena-base aplicada pelo juízo singular constitui medida necessária e adequada ao caso, porquanto a reprimenda já fora fixada em patamar inferior ao acima indicado.
+Logo, a despeito da neutralização da personalidade e da conduta social, não há modificação a ser aplicada na pena-base fixada pelo juízo a quo.
+Quanto ao prequestionamento levantado, a matéria foi amplamente debatida, sendo prescindível a indicação pormenorizada de dispositivos legais.
+Diante do exposto, contra o parecer, deve-se dar provimento ao recurso defensivo, a fim de neutralizar a personalidade e a conduta social, sem modificar a pena aplicada." (fls. 215/216)
+Depreende-se do trecho acima que o TJMS afastou a valoração negativa da personalidade e da conduta social, mas manteve o montante de exasperação da pena-base, pois o quantum fixado na sentença é compatível com a valoração negativa dos maus antecedentes que foi preservada. Tal proceder encontra respaldo nesta Corte diante do efeito devolutivo do recurso de apelação permitir ao Tribunal de Justiça nova avaliação das circunstâncias judiciais do art. 59 do CP e do seu peso na exasperação da pena. Cita-se precedentes:
+
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA.PENA-BASE. ART. 59 DO CP. CONDENAÇÕES TRANSITADAS EM JULGADO ORIGINALMENTE UTILIZADAS PARA NEGATIVAR A CONDUTA SOCIAL E A PERSONALIDADE. DESLOCAMENTO PARA O VETOR DOS MAUS ANTECEDENTES.POSSIBILIDADE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO DA APELAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há reformatio in pejus, porquanto o amplo efeito devolutivo da apelação autoriza o Tribunal estadual, quando instado a se manifestar sobre a dosimetria da pena, a realizar nova ponderação dos fatos e das circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, desde que não seja agravada a situação do réu, como ocorreu na espécie. Logo, o Tribunal estadual, ao exercer sua soberania para dizer o direito, pode, em recurso exclusivo da defesa, manter a pena aplicada aos réus com base em elementos diversos do que os valorados pelo juiz sentenciante, desde que respeitada a imputação deduzida pelo órgão de acusação.
+2. Não há nenhuma vedação legal quanto à possibilidade de reenviar as condenações - originalmente utilizadas para negativar a conduta social e a personalidade do agente - para o vetor dos maus antecedentes. Isso porque, embora trate-se de recurso de apelação exclusivo da defesa, o efeito devolutivo da apelação permite ao julgador de substituir a fundamentação empregada pelo magistrado sentenciante e assim manter a quantidade de pena imposta, sem que isso configure violação ao princípio da ne reformatio in pejus (artigo 617 do CPP), desde que isso não implique em aumento da pena fixada pelo juízo sentenciante.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1763108/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. ALEGAÇÃO DE REFORMATIO IN PEJUS. PENA MANTIDA. NÃO OCORRÊNCIA. FIXAÇÃO DO REGIME PRISIONAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL  STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte consolidou entendimento no sentido de que o Tribunal de origem pode, mantendo a pena e o regime inicial aplicados ao réu, lastrear-se em fundamentos diversos dos adotados em Primeira Instância para manter a pena fixada, ainda que em recurso exclusivo da defesa, sem que isso configure ofensa ao princípio do ne reformatio in pejus (AgRg no HC 576.521/SP, de minha relatoria, QUINTA TURMA, DJe 12/11/2020).
+2. Considerando que a Corte de origem manteve a pena-base imposta na sentença penal condenatória, não há falar em ocorrência de reformatio in pejus.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp 1915496/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Diante do exposto, admito o agravo em recurso especiale, com fundamento na súmula 568 do STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
