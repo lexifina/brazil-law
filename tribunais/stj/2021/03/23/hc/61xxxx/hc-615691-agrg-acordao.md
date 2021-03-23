@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO FAVORÁVEL. AUSÊNCIA DE VINCULAÇÃO PELO JULGADOR. REEXAME FÁTICO-PROBATÓRIO.AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuçõescom base nas peculiaridades do caso concretoe levando em consideração fatos ocorridos durante a execução penaljustificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+O Tribunal a quo fundamentou o indeferimento da progressão de regime em razão da ausência do requisito subjetivo, ressaltando, ainda, que "sopesando-se os apontamentos negativos do exame criminológico, a longa pena por cumprir e o delito por ela praticado, não se verifica, nesse momento, que ela tenha condições pessoais que a impeçam de voltar a delinquir" (fl. 359).
+Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+2. Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Agravo regimental interposto por IRIS ALVES DE SOUZA SANTOScontra a decisão que não conheceu do presente habeas corpus.
+O agravante reitera a tese de que preenche todos os requisitos para a progressão ao regime prisional aberto, ressaltando, outrossim, que o benefício foi cassado em segundo grau com fundamentação inidônea.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO FAVORÁVEL. AUSÊNCIA DE VINCULAÇÃO PELO JULGADOR. REEXAME FÁTICO-PROBATÓRIO.AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuçõescom base nas peculiaridades do caso concretoe levando em consideração fatos ocorridos durante a execução penaljustificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+O Tribunal a quo fundamentou o indeferimento da progressão de regime em razão da ausência do requisito subjetivo, ressaltando, ainda, que "sopesando-se os apontamentos negativos do exame criminológico, a longa pena por cumprir e o delito por ela praticado, não se verifica, nesse momento, que ela tenha condições pessoais que a impeçam de voltar a delinquir" (fl. 359).
+Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+2. Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Isso porque, conforme consta do decisum impugnado, esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuçõescom base nas peculiaridades do caso concretoe levando em consideração fatos ocorridos durante a execução penaljustificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+No caso dos autos, o Tribunal a quo cassou a progressão que havia sido deferida pelo Juízo da Execução, asseverando:
+" ..
+Considerando o crime gravíssimo por ela praticado, depreende-se que a Agravante ostenta personalidade violenta, havendo dúvidas quanto ao mérito para obtenção do benefício pleiteado.
+Ademais, a Sentenciada ainda possui longa pena por cumprir, com término previsto apenas para o ano de 2023, de forma que deve demonstrar, de maneira inequívoca, que vem assimilando a terapêutica penal, para que seja progredida a regime menos gravoso.
+Soma-se ainda, como bem consignado no exame criminológico da agravada, o fato de que ela: "apresenta contato de forma restrita, superficial e estereotipada, indicando imaturidade;
+demonstra autocritica precária sobre o delito cometido, utilizando-se de história elaborada para não se deparar com sentimento de culpa;
+demonstra controle sobre sua agressividade e impulsividade, mas estes parecem ser superficiais e simulados em situações que se beneficie".
+Com efeito, a progressão do regime de cumprimento da pena tem como escopo maior atender aos interesses da sociedade em receber, ressocializado, o outrora condenado penalmente. É benefício que extravasa o campo pertinente a valores isolados ou individuais, pois o merecimento deve refletir a aptidão da agente em seguir regradamente os valores mais elementares do convívio social, anteriormente violados pela sentenciada.
+Não por outro motivo, o princípio reitor em sede de execução penal é elucidado pelo brocardo "in dubio pro societate", com o qual se prima, na dúvida quanto à aptidão da reeducanda, em mantê-la por um período maior de tempo sob o olhar cauteloso do Estado, evitando-se que a sociedade seja posta em risco com a reinserção prematura da agente que teve que ser coercitivamente apartada da vida gregária."(fls. 356/357)
+Nessas circunstâncias, verifica-se que a Corte estadual logrou fundamentar o indeferimento da progressão de regime em razão da ausência do requisito subjetivo, ressaltando, ainda, que "sopesando-se os apontamentos negativos do exame criminológico, a longa pena por cumprir e o delito por ela praticado, não se verifica, nesse momento, que ela tenha condições pessoais que a impeçam de voltar a delinquir" (fl. 359).
+Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+À propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ E SÚMULA VINCULANTE 26/STF. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. HISTÓRICO PRISIONAL. HISTÓRICO CONTURBADO. FALTAS DISCIPLINARES. FUGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - A modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para a progressão de regime, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do writ.
+Habeas corpus não conhecido.
+(HC 436.977/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe 1º/6/2018).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. INDEFERIMENTO DE PROGRESSÃO DE REGIME PRISIONAL PELO JUIZ DAS EXECUÇÕES. AUSÊNCIA REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA. ACÓRDÃO DA CORTE ESTADUAL QUE DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. ..
+ ..
+- É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido.
+(HC 300.090/SP, relator o Ministro Ericson Maranho - Desembargador Convocado do TJSP, Sexta Turma, DJe de 28/8/2015).
+Ante o exposto, voto pelo desprovimento do presente recurso.
