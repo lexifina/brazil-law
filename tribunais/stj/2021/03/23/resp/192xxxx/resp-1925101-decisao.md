@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdão proferidopelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o Ministério Público do Estado do Paraná ofereceu denúncia criminal contra DANILO OLIVEIRA MACHADO, imputando-lhe a prática do delito tipificado no art. 155, § 4º, II,do Código Penal (furto qualificado).
+Após recebimento da peça acusatória, o magistrado singular determinou a citação deDANILO OLIVEIRA MACHADO, contudo, este não foi localizado no endereço informado na inicial.
+O Ministério Público do Estado do Paraná requereu a realização de buscas no sistema de dados do BACENJUD, no intuito de localizarDANILO OLIVEIRA MACHADO e evitar a citação por edital e, por consequência, asuspensão do processo eprazo prescricional. O magistrado singular indeferiu o pedido.
+Irresignado, o parquet interpôs correição parcial, buscando a reforma da decisão de primeiro grau. O Tribunal de origem negou provimento.
+O acórdão restou assim ementado:
+CORREIÇÃO PARCIAL - INDEFERIMENTO DE PEDIDO PARA CONSULTA DEENDEREÇO DO RÉU VIA SISTEMA BACENJUD - INEXISTÊNCIA DE IRREGULARIDADE NO CASO - INÚMERAS TENTATIVAS FRUSTRADAS DE LOCALIZAÇÃO DO RÉU PARA A CITAÇÃO PESSOAL - DILIGÊNCIAS PELOS MEIOS DISPONÍVEIS À PARTE (SIEL, INFOSEG, PROJUDI E SIAP) - ESGOTADAS AS BUSCAS PELOS MEIOS DISPONÍVEIS - ÔNUS QUE NÃO PODE SER TRANSFERIDO AO JUDICIÁRIO - AUSÊNCIA DE ERRO OU ABUSO QUE IMPORTE INVERSÃO TUMULTUÁRIA DE ATOS E FÓRMULAS LEGAIS. CORREIÇÃO PARCIAL REJEITADA.
+Opostos embargos de declaração, restaram rejeitados.
+Em sede de recurso especial, o Ministério Público do Estado do Paranáaponta violação ao disposto nos arts. 361 e 366, ambos do Código de Processo Penal. Sustenta, em síntese, a anulação da decisão que determinou a citação por edital e os atos dela decorrentes, determinando-se que o juízo de origem proceda a consulta do endereço deDANILO OLIVEIRA MACHADO, por meio do sistema BACENJUD.
+Contrarrazões às fls. 139/141.
+Admitido o recurso (fls. 144/146), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso (fls. 158/163).
+É o relatório. Decido.
+O recurso merece provimento.
+Verifico que, no caso dos autos, não houve citação pessoaldo acusado e, apesar do parquet ter realizado buscas em todos os sistemas a ele disponíveis(SIEL, INFOSEG, PROJUDI e SIAP)há possibilidade de ser localizado em verificação a dados disponíveis no sistema BACENJUD.
+Nesse contexto, considerando que não houve citação pessoal, sendo inaplicável o disposto no art. 367 do CPP, além de não terem sido esgotadas todas as possibilidades de localização do acusado, porquanto pendente a análise aos dados constantes no sistema BACENJUD, necessária a anulaçãoda citação por edital.
+A propósito:
+HABEAS CORPUS. CRIMES CONTRA O SISTEMA FINANCEIRO E LAVAGEM DE DINHEIRO. CITAÇÃO POR EDITAL. NÃO ESGOTAMENTO DE TODOS OS MEIOS PARA A LOCALIZAÇÃO DO ACUSADO. NULIDADE. ORDEM CONCEDIDA.1. Pacífico o entendimento do Superior Tribunal de Justiça de que devem ser esgotadas todas as diligências possíveis para a localização do réu antes de se determinar a citação por edital, sob pena de nulidade. 2. No caso, apesar de declinada nos autos da ação penal de que se cuida a alteração de endereço do paciente, esta não foi observada, o que ensejou a sua não localização e a citação por edital, restando evidenciado, assim, o alegado constrangimento ilegal. 3. Ordem concedida para anular o processo a partir da citação do paciente, inclusive, determinando-se a expedição de carta rogatória para citação e interrogatório, com posterior prosseguimento dos demais atos do processo.
+(HC 55.059/PR, Rel. Ministro HAROLDO RODRIGUES (DESEMBARGADOR CONVOCADO DO TJ/CE), SEXTA TURMA,DJe 26/10/2011).
+PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO COM RESULTADO MORTE. CITAÇÃO POR EDITAL. NÃO-ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DO PACIENTE. NÃO-OCORRÊNCIA. RÉU EM LOCAL INCERTO E NÃO-SABIDO. CONSTRANGIMENTO ILEGAL NÃO-CONFIGURADO. ORDEM DENEGADA. 1. A citação, em regra, deve ser feita pessoalmente, em consagração ao princípio da ampla defesa. A citação por edital, portanto, é medida de exceção. Se for realizada antes de esgotadas as diligências possíveis de localização do réu constituirá causa de nulidade do processo. 2. Não há falar em inobservância do procedimento citatório quando é sabido que o réu reside em determinada cidade, mas não há informação precisa de seu paradeiro, inviabilizando, assim, a citação pessoal. 3. Ordem denegada.
+(HC 96.031/MS, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJe 22/03/2010).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para anulara decisão que determinou a citação por edital e determinar que o juízo de origem proceda a consulta do endereço de DANILO OLIVEIRA MACHADO, por meio do sistema BACENJUD.
+Publique-se. Intimem-se.
