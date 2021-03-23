@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.DISPENSA INDEVIDA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1996. DOLO ESPECÍFICO DE CAUSAR PREJUÍZO. NECESSIDADE. REFORMATIO IN PEJUS. TESE NÃO DEBATIDA NOTRIBUNAL DE ORIGEM. ANÁLISE DIRETA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1.Firme o posicionamento desta Corte no sentido de que, "para a configuração do crime previsto no art. 89 da Lei n. 8.666/1993 exige-se a presença do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo" (RHC 118.885/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 4/11/2019).
+2. Se a tese dereformatio in pejusnão foi apresentada ao Tribunal de origem, não cabe a este Sodalício analisá-la de forma direta,sob pena de ocorrer em indevida supressão de instância.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto em desfavor de decisão de minha relatoria que não conheceu do writ (fls. 158/161), uma vez que o acórdão impugnado está de acordo com o entendimento desta Corte, bem como porque a tese de reformatio in pejus não foi debatida na origem.
+O agravante afirma não ter ocorrido supressão de instância, sustentando que o Tribunal de origem agravou a situação do réu, no momento em quereconheceu a existência do dolo específico, quando o juízo a quo já havia reconhecido a inexistência do dolo específico, acarretando reformatio in pejus, alegando ainda que tal decisão destoou de toda prova produzida nos autos. Busca, desse modo, a absolvição do réu.
+Requer a reconsideração da decisão, para que se conheça do habeas corpus, reconhecendo o reformatio in pejus, bem como a atipicidade da conduta do agravante em virtude da ausência de dolo específico.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.DISPENSA INDEVIDA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1996. DOLO ESPECÍFICO DE CAUSAR PREJUÍZO. NECESSIDADE. REFORMATIO IN PEJUS. TESE NÃO DEBATIDA NOTRIBUNAL DE ORIGEM. ANÁLISE DIRETA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1.Firme o posicionamento desta Corte no sentido de que, "para a configuração do crime previsto no art. 89 da Lei n. 8.666/1993 exige-se a presença do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo" (RHC 118.885/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 4/11/2019).
+2. Se a tese dereformatio in pejusnão foi apresentada ao Tribunal de origem, não cabe a este Sodalício analisá-la de forma direta,sob pena de ocorrer em indevida supressão de instância.
+3. Agravo regimental desprovido.
+VOTO
+Nada obstante o esforçoda defesa, mantenho o decisum agravadoporseus próprios fundamentos.
+Com efeito, para que ocorra o conhecimento de determinada tese por este Sodalício, há que ter sido essa oportunamente apresentada para discussão no Tribunal de origem, sob pena de ocorrer em indevida supressão de instância.
+Assim,a tese referente à existência de reformatio in pejus não foi apresentada ao Tribunal de origem, não cabendo a este Sodalício analisá-la de forma direta, sendo este o entendimento da jurisprudência:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. INADEQUAÇÃO. CRIME DE CONCUSSÃO. CÓDIGO PENAL MILITAR. INVERSÃO DA ORDEM DE INTERROGATÓRIO. NULIDADE. QUESTÃO NÃO DEBATIDA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA.UTILIZAÇÃO DE FUNDAMENTAÇÃO IDÊNTICA PARA TODOS OS RÉUS.POSSIBILIDADE. EXASPERAÇÃO DA PENA-BASE. REFORMATIO IN PEJUS NÃO CONFIGURADA. NÃO AGRAVAMENTO DA SITUAÇÃO DOS RÉUS. FUNDAMENTOS IDÔNEOS. QUANTUM DE AUMENTO EXAGERADO. REDUÇÃO DEVIDA. PENA INFERIOR A 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME FECHADO JUSTIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO, PARA REDUZIR A REPRIMENDA.
+(..)
+2. Com relação ao pleito reconhecimento da nulidade da sentença em razão da não observância da ordem estabelecida no art. 400 do Código de Processo Penal no interrogatório dos acusados, constata-se que tal questão não foi objeto de julgamento pelo Tribunal de origem, o que impede seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+(..)
+10. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena definitiva para 4 anos, 9 meses e 18 dias de reclusão.
+(HC 447.230/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 3/9/2020).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÕES CONCERNENTES À DENÚNCIA ANÔNIMA E À OCORRÊNCIA DE REFORMATIO IN PEJUS. TESES NÃO ENFRENTADAS PELA EG. CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.MAGISTRADO DESTINATÁRIO DA PROVA. VALOR PROBANTE DOS DEPOIMENTOS POLICIAIS. AVALIAÇÃO DA PROVA FEITA PELA CORTE DE ORIGEM E A CREDIBILIDADE DOS DEPOIMENTOS DOS POLICIAIS. MOTIVAÇÃO ADEQUADA.REEXAME DE PROVA. ARGUIÇÃO DE INEXISTÊNCIA DE PROVA A JUSTIFICAR A CONDENAÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. PRIMARIEDADE DO RÉU SUSTENTADO PELA DEFESA.REINCIDÊNCIA ATESTADA PELA CORTE A QUO. VEDAÇÃO DE VERTICALIZAÇÃO DA PROVA. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. REDUTOR AFASTADO. QUANTIDADE E QUALIDADE DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIAL FECHADO. ELEMENTOS APTOS A JUSTIFICAR O MODO MAIS GRAVOSO.SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS.IMPOSSIBILIDADE. ART. 44, I, DO CÓDIGO PENAL. INEXISTÊNCIA DE INOVAÇÃO NA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - Registre-se que, "impende consignar que os arts. 932 do CPC c/c o 3º do CPP e 34, XI e XX, do RISTJ, permite ao relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante nos Tribunais superiores, não importando em cerceamento de defesa ou violação ao princípio da colegialidade (RHC 59.075/MG, Rel. Ministro FELIX FISCHER, DJe de 1º/4/2016)" (AgRg no HC n.535.391/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+III - Alegações concernentes à denúncia anônima e à ocorrência de reformatio in pejus. Teses não enfrentadas pela eg. Corte de origem.Nesse compasso, considerando que a Corte de origem não se pronunciou sobre os referidos temas expostos na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância.
+(..)
+Agravo regimental desprovido.
+(AgRg no HC 542.882/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 19/2/2020).
+Noutro ponto, reitero que o acórdão impugnado se coaduna inteiramente com o posicionamento desta Corte, firme no sentidode que"para a configuração do crime previsto no art. 89 da Lei n. 8.666/1993 exige-se a presença do dolo específico de causar dano ao erário e a caracterização do efetivo prejuízo" (RHC 118.885/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 4/11/2019).
+A propósito, além do já citado:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME LICITATÓRIO (ART. 89 DA LEI N. 8.666/1993). NECESSIDADE DE INDICAÇÃO DE PREJUÍZO AO ERÁRIO E DOLO ESPECÍFICO. DENÚNCIA QUE CONTEMPLA TAIS REQUISITOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior acompanha o entendimento do Pleno do Supremo Tribunal Federal (Inq n. 2.482/MG, julgado em 15/9/2011), no sentido de que a consumação do crime do art. 89 da Lei n. 8.666/1993 exige a demonstração do dolo específico, ou seja, a intenção de causar dano ao erário e a efetiva ocorrência de prejuízo aos cofres públicos, malgrado ausência de disposições legais acerca dessa elementar.
+2. Considerando que da simples leitura da denúncia verificar-se, o fim especial de agir e o dano ao erário, não há ilegalidade a ser sanada.
+3. Agravo regimental improvido.
+(AgRg no RHC 103.896/SP, Rel. Ministro RIBERIO DANTAS, QUINTA TURMA, DJe 12/2/2020).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
