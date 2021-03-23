@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que nãoadmitiu o recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõem os artigo 932, III, do CPC/2015 e 253,parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22,de 2016), compete ao agravante impugnar especificamente os fundamentos dadecisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato deirresignação, impõe-se ao recorrente o ônus de contrapor-se, de formaclara e específica, aos fundamentos da decisão agravada, conformedetermina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) não se admite a alegação de ofensa ao artigo535, II, do CPC/1973, se não for apontada a omissão no acórdão recorrido ou se o Órgão julgador decide fundamentadamente a questão; (b) incide à hipótese a Súmula 83/STJ quando a orientação do Órgão julgador firmou-se no mesmo sentido da jurisprudência do STJ, qual seja, " ..  necessária a notificação pessoal dos interessados certos (proprietários à época) no procedimento de demarcação da linha preamar"; (c) a ilha de São Luís, por ser sede do Município de São Luís, está excluída dos bens da União, não sendo exigível a cobrança de taxa ou laudêmio, conforme decidido no AREsp n. 753.563/MA.
+Ocorre que o agravante não impugnou, especificamente, o último fundamento da decisão agravada, que trata exclusão da área, objeto da controvérsia, do rol de bens pertencentes à União, nos termos de julgamento ocorrido no STJ (AREsp n. 753.563/MA), o que acarreta o não conhecimento do agravo.
+Com efeito, esta Corte Superior possui entendimento pacífico segundo o qual incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial, o que, como visto, não ocorreu no caso. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+Nesse sentido, confiram-se: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo.
+Os honorários advocatícios sucumbenciais, caso tenham sido fixados nas instâncias de origem, devem ser majorados em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 doartigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA.FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
