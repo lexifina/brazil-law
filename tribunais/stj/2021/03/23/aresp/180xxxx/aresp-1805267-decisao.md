@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por Administradora de Consórcios Sicredi Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos da ação de execução de título extrajudicial, indeferiu as medidas atípicas postuladas pelaexequente.
+A Décima Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, apreciando aquele agravo, negou-lhe provimento, consoante acórdão assim ementado (e-STJ, fl. 110):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS ATÍPICAS CONTRA O DEVEDOR. SUSPENSÃO DA CNH E BLOQUEIO DOS CARTÕES DE CRÉDITO. DESCABIMENTO. DECISÃO MANTIDA.
+As medidas pretendidas pelo exequente (suspensão da CNH e bloqueio dos cartões de crédito do executado) possuem o fito, em última análise, de atacar a pessoa do executado, em absoluta afronta ao princípio da menor onerosidade e a direitos fundamentais do devedor. Ademais, inexiste nos autos qualquer indício no sentido de que a adoção destas medidas venha a contribuir para a satisfação do crédito do exequente. Destarte, impõe-se a manutenção da decisão combatida.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação do art. 139, IV, do Código de Processo Civil de 2015.
+Sustentou, em síntese, a necessidade da adoção de medidas executivas atípicas de suspensão da carteira nacional de habilitação e de bloqueio do cartão de crédito em nome do devedor, tendo em conta que, a despeito de se valer de todos os meios executivos cabíveis, não logrou êxito na satisfação do crédito, além de não haver como presumir a realidade econômica-social do devedor.
+Contrarrazões às fls. 207-214 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 250 (e-STJ).
+Brevemente relatado, decido.
+De início, observa-se que a atual jurisprudência perfilhada pelas Turmas de Direito Privado deste Superior Tribunal considera, em tese, lícita e possível a adoção de medidas executivas indiretas, desde que, exauridos previamente os meios típicos de satisfação do crédito exequendo, bem como que a medida se afigure adequada, necessária e razoável para efetivar a tutela do direito do credor em face de devedor que, demonstrando possuir patrimônio apto a saldar o débito em cobrança, intente frustrar injustificadamente o processo executivo.
+Nesse sentido:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CHEQUES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. CABIMENTO. DELINEAMENTO DE DIRETRIZES A SEREM OBSERVADAS PARA SUA APLICAÇÃO.
+1. Ação distribuída em 1/4/2009. Recurso especial interposto em 21/9/2018. Autos conclusos à Relatora em 7/1/2019.
+2. O propósito recursal é definir se a suspensão da carteira nacional de habilitação e a retenção do passaporte do devedor de obrigação de pagar quantia são medidas viáveis de serem adotadas pelo juiz condutor do processo executivo.
+3. A interposição de recurso especial não é cabível com base em suposta violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O Código de Processo Civil de 2015, a fim de garantir maior celeridade e efetividade ao processo, positivou regra segundo a qual incumbe ao juiz determinar todas as medidas indutivas, coercitivas, mandamentais ou subrogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária (art. 139, IV).
+5. A interpretação sistemática do ordenamento jurídico revela, todavia, que tal previsão legal não autoriza a adoção indiscriminada de qualquer medida executiva, independentemente de balizas ou meios de controle efetivos.
+6. De acordo com o entendimento do STJ, as modernas regras de processo, ainda respaldadas pela busca da efetividade jurisdicional, em nenhuma circunstância poderão se distanciar dos ditames constitucionais, apenas sendo possível a implementação de comandos não discricionários ou que restrinjam direitos individuais de forma razoável. Precedente específico. 7. A adoção de meios executivos atípicos é cabível desde que, verificando se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade.
+8. Situação concreta em que o Tribunal a quo indeferiu o pedido do recorrente de adoção de medidas executivas atípicas sob o fundamento de que não há sinais de que o devedor esteja ocultando patrimônio, mas sim de que não possui, de fato, bens aptos a serem expropriados.
+9. Como essa circunstância se coaduna com o entendimento propugnado neste julgamento, é de rigor - à vista da impossibilidade de esta Corte revolver o conteúdo fático-probatório dos autos - a manutenção do aresto combatido.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(REsp 1.788.950/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/04/2019, DJe 26/04/2019)
+Na espécie, o Tribunal estadual, corroborando a sentença, concluiu pelo indeferimento das medidas executivas atípicas, sob os seguintes fundamentos (e-STJ, fls. 113-114):
+Como bem ponderado pelo juízo de origem, a aplicação de medidas coercitivas atípicas, com fundamento no art. 139, IV do CPC, possui caráter excepcional e deve se dar com parcimônia, sendo imprescindível a análise da necessidade e adequação da medida, mormente no caso em apreço, que se trata de ação de execução, norteada, notadamente, pelos princípios da razoabilidade, da proporcionalidade e da menor onerosidade ao devedor.
+A lei processual civil prevê no âmbito do processo de execução a investida contra o patrimônio do devedor, dispondo o art. 789 do CPC, que o devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei.
+Nesse passo, conclui-se que as medidas pretendidas pelo exequente (suspensão da CNH e bloqueio dos cartões de crédito do executado) possuem o fito, em última análise, de atacar a pessoa do devedor, em absoluta afronta ao princípio da menor onerosidade e, mais, a direitos fundamentais do devedor.
+Afora isso, inexiste qualquer indício nos presentes autos de que a adoção destas medidas venha a contribuir para a satisfação do crédito do exequente.
+Desse modo, não há como se alterar a conclusão exarada no acórdão recorrido e acolher as alegações recursais, porque tal providência demandaria o revolvimento do conjunto fático-probatório do presente feito, o que é vedado nesta instância extraordinária, ante o óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MEDIDAS ATÍPICAS. SUSPENSÃO DE CNH. DESPROPORCIONALIDADE. SÚMULA 83 DO STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No tocante à ofensa ao artigo 139, inciso IV, do CPC, a jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.Precedentes.
+2. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada, consistente na apreensão da Carteira Nacional de Habilitação (CNH), extrapola os princípios da razoabilidade e da proporcionalidade, além de não representar certeza de efetividade à satisfação do crédito. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+3. Ademais, o reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.794.916/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/11/2020, DJe 02/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. No tocante à ofensa ao artigo 139, inciso IV, do CPC, a jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.Precedentes.
+1.1. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada, consistente na apreensão da Carteira Nacional de Habilitação (CNH), cartões de crédito/débito e Passaporte, extrapola os princípios da razoabilidade e da proporcionalidade, além de não representar certeza de efetividade à satisfação do crédito.
+1.2. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+1.3. O reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.495.012/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 12/11/2019)
+Outrossim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECLUSÃO E PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ e impede o conhecimento do recurso por ambas alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 949.860/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2016, DJe 28/10/2016)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MEDIDAS EXECUTIVAS ATÍPICAS. INDEFERIMENTO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
