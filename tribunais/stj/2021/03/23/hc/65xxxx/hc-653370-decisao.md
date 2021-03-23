@@ -1,0 +1,21 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do processo HC n. 597.392/MT (fl. 90).
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de David Pereira da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso (HC n. 1000892-74.2021.8.11.0000).
+Extrai-se dos autos que opacienteestásendo acusadopela prática, em tese, dos crimes de homicídio triplamente qualificado e associação criminosa, tendo sido presopreventivamente em 19/5/2020. Na pronúncia, a custódia preventiva foi mantida pelo Juízo da 1ª Vara Criminal da comarca de Várzea Grande/MT (Processo n. 6221-15.2020.8.11.0002 - fls. 62/68). Irresignada, a defesa impetrou habeas corpus originário, que foi denegado pelo Tribunal local (fls. 70/87).
+Na presente impetração, contesta-se, em suma, a manutenção do paciente no cárcere, dada a ausência de fundamentos válidos que autorizam a segregação cautelar, ressaltando que o paciente nunca teve passagem pela polícia sendo réu primário e de bons antecedentes, com residência fixa e profissão lícita, e sempre negou a participação no crime (fl. 12).
+Menciona-se que o delegado que presidiu o inquérito policial requereu em seu relatório final que o paciente NÃO FOSSE SEGREGADO, tendo em vista que, segundo apurou pelas investigações, o paciente não participou do crime nem das agressões a vítima, acabou sendo envolvido porque foi dar uma carona para o irmão. Porém, o Parquet requereu a prisão preventiva do mesmo e o juízo deferiu, e que o Juízo a quo e a autoridade coatora insistem em distorcer o depoimento da testemunha Samuel da Silva Britez para justificar a condenação e a manutenção do paciente no cárcere (fls. 16/17).
+Assevera-se que o decreto de prisão preventiva está fundado na repercussão/clamor social e meras conjecturas acerca da periculosidade do paciente, haja vista a gravidade dos delitos em tese cometidos, dissociadas de qualquer elemento concreto e individualizado que indicasse a indispensabilidade da prisão cautelar à luz do art. 312 do CPP (fl. 19).
+Postula-se, então, em liminar e no mérito, a revogação do decreto de prisão imposto ao paciente, com ou sem aplicação de medidas cautelares diversas da prisão, expedindo-se o competente alvará de soltura (fl. 22).
+É o relatório.
+Pretende a parte impetrante a revogação da custódia cautelar, sob o argumento de falta de fundamentação da decisão que a decretou e pelo fato de o paciente ostentar condições pessoais favoráveis.
+Contudo, o writ está deficientemente instruído.
+Observa-se que a prisão preventiva do paciente foi mantida na sentença de pronúncia, pelos mesmos fundamentos da decisão que anteriormente a decretou.
+Consoante entendimento pacificado nesta Corte Superior, caso persistam os mesmos motivos que ensejaram a prisão cautelar, desnecessário se torna proceder à nova fundamentação quando da prolação da sentença de pronúncia, quando os já existentes são aptos para justificar a manutenção da medida constritiva. Veja-se: AgRg no RHC n. 132.966/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/11/2020.
+Ocorre que a parte impetrante não trouxe aos autos o decreto de prisão preventiva, documento indispensável para a apreciação da alegada falta de fundamentação do ato e, consequentemente, para o exame da plausibilidade do pedido.
+Com efeito, o habeas corpus, em sua via estreita, não comporta dilação probatória e exige prova pré-constituída, cabendo ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ.
+Ilustrando esse entendimento: HC n. 487.930/GO, Ministro Felix Fischer, Quinta Turma, DJe 13/2/2019; AgRg no RHC n. 99.489/CE, de minha relatoria, Sexta Turma, DJe 4/2/2019; HC n. 466.466/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/11/2018 e AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015.
+Em face do exposto, com fulcro no art. 210 do RISTJ, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. CUSTÓDIA CAUTELAR MANTIDA NA SENTENÇA DE PRONÚNCIA. DECRETO PRISIONAL NÃO JUNTADO AOS AUTOS. FALTA DE PEÇA ESSENCIAL. INSTRUÇÃO DEFICIENTE. ÔNUS DO IMPETRANTE. CONHECIMENTO. IMPOSSIBILIDADE.
+Writ não conhecido.
