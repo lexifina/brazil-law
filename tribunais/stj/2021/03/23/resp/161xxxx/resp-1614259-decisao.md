@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por TEODOMIRO BENTO DO AMARAL, contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de apelações, assim ementado (fls. 137/138e):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFICIO PARA ADEQUAÇÃO AOS NOVOS TETOS DO RGPS INSTITUÍDOS PELAS EC"S NºS 20/98 E 41/2003. REPERCUSSÃO GERAL. POSSIBILIDADE. APELAÇÕES DO PARTICULAR E DA AUTARQUIA PARCIALMENTE PROVIDAS.
+1. Irresignação recursal contra sentença que julgou procedente o pedido para adequar o valor do benefício previdenciário aos limites das EC"s ns. 20/98 e 41/2003.
+2. Reconhecida a prescrição das parcelas atrasadas que antecedem quinquênio anterior ao ajuizamento da ação.
+3. Não se pode considerar a data de ajuizamento da Ação Civil Pública nº 0004911-28.2011.4.03.6183 para fins de fixação da prescrição, pois o autor renunciou aos efeitos da mencionada ACP ao ajuizar o presente feito (PROCESSO: 08021072820144058500, AC/SE, DESEMBARGADOR FEDERAL MANOEL ERHARDT, 1º Turma, JULGAMENTO: 14/08/2015).
+4. Aplica-se a orientação contida na decisão proferida no RE 564354/SE, sob a sistemática da Repercussão Geral pelo STF, de que os benefícios concedidos anteriormente à edição da EC nº 20/98 e da EC 41/03 e que tiveram o salário de benefício limitado ao teto, devem sofrer a readequação dos valores fixados pelas referidas emendas, sem que isso implique ofensa ao ato jurídico perfeito.
+5. Conforme asseverado na sentença após análise dos a quo, documentos que instruíram o feito, o benefício do autor encontra-se vinculado ao teto remuneratório do RGPS vigente à época, especialmente depois da revisão do art. 144 da LBPS, devendo reajustar-se para se adaptar aos referidos limites legais.
+6. O INSS não se desincumbiu do ônus de provar que o benefício da parte autora não sofreu a limitação ao teto. A existência de diferenças decorrentes da revisão será averiguada no momento da liquidação do julgado. Precedente: AC564387/PB, Relator: Desembargador Federal Paulo Machado Cordeiro (Convocado), Segunda Turma, DJE 14/03/2014).
+7. Os juros de mora incidirão em meio por cento ao mês, desde a citação, e a correção do débito seguirá os índices constantes do manual de cálculos da Justiça Federal.
+8. Reconhecimento do direito à revisão pretendida, respeitada a prescrição quinquenal.
+9. Honorários advocatícios alterados de R$ 2.000,00 (dois mil reais) para o valor de R$ 5.000,00 (cinco mil reais), nos termos do art. 20, §§ 3º e 4º do CPC;
+10. Apelações parcialmente providas.
+Opostos embargos de declaração, foram rejeitados (fls. 168/173e):
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 103 da Lei n. 8.213/1991 - "é de se reconhecer que a parte autora tem direito ao recebimento de todas as diferenças verificadas dentro dos últimos 5 anos do ajuizamento da ACP, isto é, desde 05/5/06, estando prescritas as parcelas anteriores" (fl. 223e); eArt. 20, §§ 3º e 4º, do Código de Processo Civil - " ..  os honorários merecem ser majorados, tendo em vista o zelo e o trabalho do profissional que está patrocinando a presente demanda. Para ser remunerado condignamente e, uma vez que atendidos todos os pressupostos do artigo supracitado, impõe-se a condenação de honorários advocatícios em valor não inferior ao mínimo de 10% do valor da condenação" (fl. 224e).
+Com contrarrazões (fls. 230/239e), o recurso foi admitido (fl. 310e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Prejudicada a análise do recurso acerca da prescrição (Tema 1.005/STJ), ante a homologaçãoda desistência parcial (fl. 308e).
+Assim, passo ao exame do ponto remanescente.
+A Primeira Seção desta Corte, em precedente submetido ao rito do art. 543-C do Código de Processo Civil, firmou entendimento segundo o qual, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, do CPC, ou, ainda, um valor fixo, segundo o critério de equidade, em acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N.º 08/2008. AÇÃO ORDINÁRIA. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. HONORÁRIOS. ART. 20, §§ 3º E 4º, DO CPC. CRITÉRIO DE EQUIDADE.
+1. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+2. Nas demandas de cunho declaratório, até por inexistir condenação pecuniária que possa servir de base de cálculo, os honorários devem ser fixados com referência no valor da causa ou em montante fixo.
+3. Precedentes de ambas as Turmas de Direito Público e da Primeira Seção.
+4. Tratando-se de ação ordinária promovida pelo contribuinte para obter a declaração judicial de seu direito à compensação tributária segundo os critérios definidos na sentença - não havendo condenação em valor certo, já que o procedimento deverá ser efetivado perante a autoridade administrativa e sob os seus cuidados -, devem ser fixados os honorários de acordo com a apreciação equitativa do juiz, não se impondo a adoção do valor da causa ou da condenação, seja porque a Fazenda Pública foi vencida, seja porque a demanda ostenta feição nitidamente declaratória.
+5. Recurso especial não provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ n.º 08/2008.
+(REsp 1.155.125/MG, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/03/2010, DJe 06/04/2010).
+Em regra, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo.
+O Tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, majorou o valor fixado a título de honorários advocatícios, nos termos definido no art. 20, §§ 3º e 4º do Código de Processo Civil, nos seguintes termos (fl. 88e):
+ ..  Dar parcial provimento à apelação do particular para majorar os honorários advocatícios de de R$ 2.000,00 (dois mil reais) para o valor de R$ 5.000,00 (cinco mil reais), nos termos do art. 20, §§ 3º e 4º do CPC.
+No caso, considerando as circunstâncias abstraídas no acórdão recorrido, não vislumbro excepcionalidade a justificar a revisão do quantum fixado, o que enseja a aplicação da Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. RECONVENÇÃO. NECESSIDADE DE A PRETENSÃO SER CONEXA COM A DO AUTOR. PRECEDENTES. PERÍCIA. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO BASILAR NÃO ATACADO. SÚMULA 283/STF. SUCUMBÊNCIA. AFERIÇÃO. SÚMULA 7/STJ.
+(..)
+8. Mostra-se inviável a aferição do grau de sucumbência entre as partes, para fins de distribuição da condenação nos honorários advocatícios, tendo em vista a necessidade de revisão do contexto fático-probatório dos autos, providência defesa em recurso especial, ante o enunciado da Súmula 7/STJ.
+9. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.038.925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RESTITUIÇÃO DE INDÉBITO PELO IMPORTADOR. PIS/COFINS-IMPORTAÇÃO. OPERAÇÕES POR CONTA E ORDEM DE TERCEIROS. IMPOSSIBILIDADE. ART. 18 DA LEI Nº 10.865/04. LIMITES SUBJETIVOS DO PROVIMENTO MANDAMENTAL. REVOLVIMENTO DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. REVISÃO DO QUANTUM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+(..)
+5. No caso dos autos, os honorários foram fixados em 1% sobre o valor do excesso de execução, percentual que não representa valor exorbitante para fins de revisão em sede de recurso especial. É cediço nesta Corte que, salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ.
+6. Agravo regimental não provido.
+(AgRg no REsp 1573681/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2016, DJe 10/03/2016).
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
