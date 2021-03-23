@@ -1,0 +1,10 @@
+DECISÃO
+GUILHERME CELINE DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que negou provimento à Apelação Criminal n.1.0434.19.000192-6/001.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes de tráfico de drogas e de associação para o narcotráfico.
+A defesa pleiteia, por meio deste writ, seja fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+Decido.
+De plano, verifico que este habeas corpus não há como ser conhecido. Isso porque o Tribunal de origem não analisou a idoneidade ou não dos fundamentos invocados pelo Magistrado sentenciante para a imposição do regime inicial fechado, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Esclareço, por oportuno, que, segundo o relatório do acórdão impugnado, "Nas razões de fls. 358/374, requer a defesa dos acusados, preliminarmente, a nulidade do processo por invasão de domicílio, oriunda de busca e apreensão domiciliar sem o competente mandado judicial. No mérito, pugna pela absolvição dos acusados por ausência de provas aptas a embasar as condenações. Requer, ainda, o reconhecimento do tráfico privilegiado. Por fim, pugna pela restituição do veículo TOYOTA FILDER, ano 2004/2005, placas DTA-7711, cor preta, de propriedade da acusada Fabiana Celine da Silva" (fl. 19).
+Ou seja, ao que tudo indica, a defesa, em nenhum momento, se insurgiu, perante a instância de origem, contra o regime inicial de cumprimento de pena estabelecido ao réu.Saliento que tal matéria deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+À vista do exposto, com fundamento no art. 210 do RISTJ,indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
