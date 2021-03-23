@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso interposto pelo Município de Lençois Paulista interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 57):
+APELAÇÃO interposta pela Municipalidade. Execução fiscal. Embargos de terceiro. Bloqueio judicial de bem pertencente a terceiro. Conjunto hábil a demonstrar a propriedade do bem. Má-fé e manobra fraudulenta não demonstradas. Sentença mantida. RECURSO DESPROVIDO
+Nas razões do recurso especial, a parte recorrenteaponta, além de divergência jurisprudencial, ofensa aos arts. 185 do CTN e 123, I e § 1º e 134 do Código de Trânsito Brasileiro. Sustenta, em síntese, que "a alienação do veículo se deu após a regular citação do executado em execução fiscal, daí porque deve ser considerada fraudulenta, em presunção absoluta, a suposta aquisição pelo embargante/recorrido.  .. Denota-se que a natureza pública do crédito tributário, na esteira do que dispõe o artigo 185 do Código Tributário Nacional, dispensa a averbação da constrição junto ao órgão público de trânsito a fim de constituir fraudulenta a venda do veículo.Logo, ante a ausência de provas da alienação do veículo e, ainda que vendido, considerando que ocorrida em meados de 2013, ou seja, após ainscrição em Dívida Ativa e angulada a relação jurídica processual em face do executado, forçoso o raciocínio pela manutenção do bloqueio feito pelo Sistema Renajud, eis que na esteira do artigo 185 do Código Tributário Nacional.  .. a decisão proferida pela C. 14Câmara de Direito Público do Egrégio Tribunal Paulista se mostra na contramão da Súmula 303 do Superior Tribunal de Justiça e, ainda, do que giza o Código de Trânsito Brasileiro quanto aos institutos da transferência de veículos, daí porque o provimento do recurso extremo se revela de rigor." (fls. 66/70)
+Não houve contrarrazões (fl. 117).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+A matéria pertinente aos arts. 123, I e § 1º e 134 do Código de Trânsito Brasileiro não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 57/61):
+Cuida-se de embargos de terceiro opostos por RodolfoAparecido Turco em face do Município de Lençóis Paulista com o fito de apresentar defesa em relação ao suposto bloqueio judicial que ocorrera em 23/05/2017 em relação a bem de sua propriedade, veículo GM/CORSA CLASSIC, placa DGU-5038, em relação ao qual não havia qualquer bloqueio ou averbação em seu cadastro junto ao DETRAN no momento da compra, que ocorreu em 02/08/2011, com o respectivo documento de transferência de fls. 09/10.
+ ..
+Contudo, a prova documental que instrui a inicial comprova, com clareza, a propriedade e posse do embargante relativamente ao veículo que foi objeto de bloqueio judicial nos autos do feito satisfativo, conforme se verifica do ATPV - Autorização para Transferência de Propriedade do Veículo de fl. 10, ressaltando que a transmissão da propriedade de bem móvel se opera pela tradição.
+Ainda, cabe ressaltar que houve o reconhecimento de autenticidade de firma do vendedor Nicolas Francisco Godoy em 2 de agosto de 2011, ao passo que o reconhecimento de firma do ora embargante deu-se em 29 de novembro de 2016. Logo, os argumentos lançados pela Municipalidade de que estes de fraude à execução não foram comprovados.
+Em tais situações, é indispensável a prova de que o terceiro adquirente tenha ciência da pendência da execução e de que a alienação do bem seja capaz de reduzir o devedor a insolvência.
+Nesse sentido:
+ ..
+Tal conjunto fático induz à aplicação da Súmula 375 do STJ, a saber:
+ ..
+Quando ausente o registro da penhora, é necessária prova da má-fé do terceiro adquirente, ou seja, prova de que este tinha conhecimento da existência de demanda em curso que pudesse reduzir a devedora à insolvência, sendo insuficiente que a alienação do bem tenha ocorrido após a citação do devedor alienante, tendo em vista que milita a favor do terceiro adquirente a presunção de boa-fé.
+No caso, esta má-fé não restou evidenciada, ou seja, inexiste prova de que os Embargantes tinham conhecimento da existência de demanda em curso que pudesse reduzir o devedor à insolvência. Neste sentido, a Jurisprudênciado Superior Tribunal de Justiça:
+ ..
+Por não haver qualquer restrição do veículo no DETRAN, não se pode duvidar da boa-fé do adquirente; uma vez que, ao tratar-se de bem móvel, não é costume consultar outros órgãos para descobrir se há alguma restrição quanto ao vendedor.
+Assim, não tendo a apelante demonstrado qualquer elemento capaz de estabelecer conclusão diversa, deve-se prestigiar a bem lançada sentença, que fica mantida pelos seus próprios fundamentos.
+Logo, diante desse contexto, verifica-se que a alteração das conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula 7 do STJ, o que impede, também, o conhecimento do dissídio jurisprudencial.
+ANTE O EXPOSTO, não conheço dorecurso.
+Publique-se.
