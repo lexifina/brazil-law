@@ -1,0 +1,23 @@
+DECISÃO
+PEDRO HENRIQUE DE SOUSA MOURA alega sofrer constrangimento ilegal diante de acórdão prolatado pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 0630030-29.2020.8.06.0000.
+A defesa pretende a soltura ou a aplicação do art. 319 do recorrente - condenado pelo crime de tráfico de drogas -, sob o argumento de ausência de preenchimento dos requisitos da custódia cautelar.
+Todavia, o Juízo de Direito, ao decidir, ofereceu os seguintes argumentos (fl. 38):
+Nego ao réu o direito de apelar em liberdade, pois vislumbro a presença dos motivos ensejadores do decreto de prisão preventiva, previstos no art. 312, do CPP, mormente para garantir a ordem pública, em razão da quantidade da droga apreendida (270 gramas de maconha, cerca de 270 cigarros), como também em razão da evidente vinculação do acusado a um grupo criminoso responsável por promover diversos prejuízos e danos a bens públicos e particulares, além de gerar mais de um mês de desordem em todo o estado, restando evidente que a liberação de seus agentes trará risco à ordem pública.
+Destarte, estando comprovados o "fumus comissi delitcti" e o "periculum libertatis", para garantia da ordem pública, com fundamento no art. 312, do CPP, mantenho a prisão preventiva de JOSÉ SILVINO DOS SANTOS FILHO.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora recorrente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficientee concretapara decretar a prisão preventiva, ao salientar, além da quantidade de droga apreendida - 270 g de maconha-, a vinculação do ora insurgente"a um grupo criminoso responsável por promover diversos prejuízos e danos a bens públicos e particulares, além de gerar mais de um mês de desordem em todo o estado" (fl. 38).
+O STJ, em casos similares, entende que"a gravidade concreta da conduta, evidenciada pela quantidade da droga apreendida, denota a periculosidade do agente. Tal circunstância, por conseguinte, sinaliza a necessidade da prisão cautelar como forma de assegurar a ordem pública.(RHC n. 141.910/MS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/3/2021).
+No mesmo sentido:
+ ..
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão de indícios de que integra estruturada organização criminosa, com inúmeros integrantes, voltada para a prática reiterada de crimes de tráfico de drogas, entre outros voltados aos interesses da facção, em gravíssima afronta ao poder público, sem olvidar que, conforme destacado pelas instâncias ordinárias, foram apreendidas razoável quantidade de drogas por ocasião do cumprimento de mandado de busca e apreensão nas casas dos integrantes da organização, justificando a imposição da medida extrema, na hipótese.
+IV - Ainda, conforme a jurisprudência do col. Pretório Excelso, também enquadra-se no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva. Precedentes.
+V - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n.637.325/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 1º/3/2021)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto,nego provimentoao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
