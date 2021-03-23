@@ -1,0 +1,81 @@
+EMENTA
+ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO ADMITIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Admite-se o recebimento de pedido de reconsideração como agravo interno quando atendidos os pressupostos deste recurso, em destaque a tempestividade, e ausente manifesto erro grosseiro ou má-fé do peticionante.
+2. Na hipótese em análise, a decisão agravada indeferiu o pedido de tutela provisória em razão da ausência de fumus boni iuris, eis que o recurso especial, ainda que em cognição sumária, não merece ser conhecido em razão da ausência de prequestionamento de alguns dispositivos de lei federal indicados como violados, além da inexistente violação ao art. 535 do CPC/1973 e devido à incidência da Súmula 7/STJ.
+3. No presente agravo interno, por sua vez, a parte agravante limitou-se a reiterar os próprios fundamentos da petição de tutela provisória, sem combater a ausência de probabilidade de êxito demonstrada, ainda que sumariamente, na decisão agravada.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, não conheceu do agravo interno, nos termos do voto do Sr. Ministro Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de pedido de reconsideração apresentado pelo ESTADO DO RIO DE JANEIRO contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA. IMPROBIDADE ADMINISTRATIVA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO. RECURSO ESPECIAL. COMPETÊNCIA DO STJ CONFIGURADA (ART. 1.029, § 5º, I, DO CPC/2015). TUTELA DE URGÊNCIA. EXIGÊNCIA DA PRESENÇA CUMULATIVA DOS REQUISITOS AUTORIZADORES. AUSÊNCIA DA COMPROVAÇÃO DO FUMUS BONI IURIS. HIPÓTESE EXCEPCIONAL NÃO DEMONSTRADA. INDEFERIMENTO DO PEDIDO LIMINAR E DA PRÓPRIA TUTELA DE URGÊNCIA.
+O agravante defende a presença de indícios suficientes à prática de ato de improbidade administrativa a evidenciar a plausibilidade da demanda e a possibilidade de concessão de efeito suspensivo ao recurso especial. Ademais, também destaca o perigo na demora como fator relevante à concessão da liminar.
+A propósito, reitera os fundamentos expendidos da petição de tutela provisória.
+Por fim, requer o recebimento do pedido como agravo interno, caso não se verifique a hipótese de reconsideração da decisão agravada.
+Sem contraminuta.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO ADMITIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Admite-se o recebimento de pedido de reconsideração como agravo interno quando atendidos os pressupostos deste recurso, em destaque a tempestividade, e ausente manifesto erro grosseiro ou má-fé do peticionante.
+2. Na hipótese em análise, a decisão agravada indeferiu o pedido de tutela provisória em razão da ausência de fumus boni iuris, eis que o recurso especial, ainda que em cognição sumária, não merece ser conhecido em razão da ausência de prequestionamento de alguns dispositivos de lei federal indicados como violados, além da inexistente violação ao art. 535 do CPC/1973 e devido à incidência da Súmula 7/STJ.
+3. No presente agravo interno, por sua vez, a parte agravante limitou-se a reiterar os próprios fundamentos da petição de tutela provisória, sem combater a ausência de probabilidade de êxito demonstrada, ainda que sumariamente, na decisão agravada.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Inicialmente, admito o recebimento do pedido de reconsideração como agravo interno, pois verificado que estão atendidos os pressupostos do presente recurso, em destaque a tempestividade, e ausente manifesto erro grosseiro ou má-fé do peticionante.
+Com efeito, a orientação consolidada desta Corte Superior é no sentido de que a atribuição de efeito suspensivo a recurso especial deve satisfazer cumulativamente os requisitos do fumus boni iuris e do periculum in mora, atualmente tratada como tutela de urgência nos termos do art. 300 do CPC/2015, além da prévia admissão do recurso especial pela Corte de origem. A ausência de qualquer dos requisitos referidos obsta a referida pretensão.
+Entretanto, ainda que em sede de cognição sumária, a decisão agravada consignou que não foi demonstrada a presença do fumus boni iuris, o qual corresponde à probabilidade de êxito do recurso especial que se objetiva atribuir efeito suspensivo.
+Nesse sentido, os fundamentos da decisão:
+Nas razões do recurso especial, os recorrentes apontam que o acórdão recorrido violou os seguintes dispositivos: a) art. 265, IV, "a" do CPC/1973, sustentando a necessária suspensão do julgamento no presente recurso até que sobrevenha a apreciação em definitivo do REsp 1.330.445/RJ e AREsp 449.680/RJ; b) art. 17, §§ 6º e 8 º, da Lei 8.429/92, sob o argumento de que existem indícios suficiente do envolvimento dos recorridos na prática da improbidade administrativa a que se busca combater, de modo que a petição inicial deve ser recebida também em face desses agentes. No ponto, asseveram que o não recebimento da petição inicial em face das sociedades empresárias das quais os recorridos fazem parte, não enseja a exclusão da responsabilidade pessoal de cada um deles; c) arts. 17, § 8º, da Lei 8.429/92, 165 e 458 do CPC/1973, eis que o acórdão recorrido não apresenta fundamentação suficiente a justificar a exclusão dos recorridos do polo passivo da demanda ante a rejeição parcial da petição inicial; d) art. 535 do CPC/1973, caso não se considere prequestionada qualquer uma das questões federais antes suscitadas.
+Inicialmente, importa notar que o Tribunal de origem não se manifestou sobre o comando normativo inserto nos arts. 165 e 458 do CPC/1973. Assim sendo, o recurso especial não apresenta probabilidade de êxito quanto ao ponto diante da incidência das Súmulas 282/STF e 211/STJ, respectivamente: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento." e " Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido, o seguinte julgado deste Tribunal Superior:
+ ..
+Ademais, o reconhecimento da violação do art. 535 do CPC/1973 exige a efetiva ocorrência de vícios no julgado embargado, especificamente omissão, obscuridade ou contradição. No caso examinado, a parte embargante defende a configuração de omissão no julgado embargado.
+Com efeito, a omissão no julgado que permite o acolhimento do recurso integrativo ocorre quando não houver apreciação de teses indispensáveis para o julgamento da controvérsia. Ocorre que, o Tribunal de origem apreciou a integralidade da controvérsia, tendo consignado expressamente que não há qualquer início de prova no sentido de que tenham praticado atos de improbidade em nome próprio (fl. 194 e- STJ), motivo pelo qual não há falar em recebimento da petição inicial com relação aos ora requeridos.
+Portanto, ainda que em juízo provisório do recurso especial, não ficou demonstrada a violação ao art. 535 do CPC/1973, por ausência dos defeitos apontados pelos requerentes. No mesmo sentido:
+ ..
+No que diz respeito ao mérito - recebimento ou não da petição inicial - o Tribunal de origem se manifestou nos seguintes termos (fls. 193/195 e-STJ):
+Há que se esclarecer, logo de início, que os ora agravantes são meros sócios de duas empresas (ASM Asset Management S.A. e ASM Administradora de Recursos S.A.) que foram contratadas através de licitação para prestar serviços técnicos destinados à constituição e administração de "fundo de investimentos em direitos creditórios - FIDC", e alienar tais ativos em leilão.
+Malgrado ainda penda de julgamento, Recurso Especial junto ao colendo STJ, fato é que esta Câmara Cível já reconheceu que as referidas empresas não são parte legítima para figurar no polo passivo da demanda.
+Logo, não é possível vislumbrar responsabilidade de seus sócios ao praticarem atos em nome das referidas empresas, quando a conduta destas foi legítima.
+Também não há qualquer início de prova no sentido de que tenham praticado atos de improbidade em nome próprio.
+De outro giro, esta Câmara também reconheceu em decisão anterior pela ausência de indícios mínimos da responsabilidade dos agravantes nos supostos prejuízos causados ao erário na sequência de fatos narrados na exordial, sendo certo que o ponto central da demanda é se a precificação realizada pela Fundação Padre Leonel Franca foi ou não eivada de vício, subavaliando maliciosamente os ativos do BERJ ou não.
+Nessa toada, se a atuação das empresas das quais os agravantes são sócios apenas atuaram na alienação dos ativos, tendo por base avaliação prévia realizada por outrem, presume-se por ora, não se inferir responsabilidade em eventual prejuízo suportado pelo erário, vez que a causa lhe era completamente desconhecida.
+Registre-se que aquela decisão que reconheceu a ilegitimidade passiva dos agravantes para figurar no polo passivo da demanda, restou anulada em razão de error in procedendo ocorrido no Juízo de Primeira Instância, qual seja, tão somente pela ausência de intimação do Parquet para manifestar-se nos autos da ação originária.
+Entretanto, não tendo havido qualquer alteração nos fatos ou provas trazidas que pudessem mudar de rumo o entendimento desta Câmara, há que se reconhecer que a ilegitimidade passiva dos agravantes persiste.
+Efetivamente, a análise da pretensão recursal no sentido de que estão presentes indícios da prática de ato de improbidade administrativa a fim de determinar o recebimento da petição inicial com relação aos recorridos, com a consequente reversão do entendimento manifestado pelo Tribunal de origem, exige o reexame de matéria fático-probatória dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido, a orientação desta Corte Superior:
+ ..
+Em face de tal fundamentação, o presente agravo interno foi interposto. Todavia, não houve impugnação aos fundamentos expendidos na decisão agravada. Com efeito, o agravo interno limitou-se a reiterar os fundamentos do próprio pedido de tutela provisória.
+Aplica-se, portanto, o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade. Nesse sentido, a Súmula 182/STJ: "É inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 182/STJ E 284/STF.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno não conhecido.
+(AgInt no AREsp 965.264/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2016, DJe 30/09/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 31/05/2016, contra decisão monocrática, publicada em 16/03/2016, integrada por decisão nos Embargos de Declaração, publicada em 09/05/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. No caso, o Recurso Especial não foi admitido, na origem, com base nos seguintes fundamentos: Súmula 7/STJ e divergência não comprovada. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 855.118/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 20/09/2016, DJe 28/09/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. VIOLAÇÃO AO ART. 535 DO CPC.
+INVIÁVEL A ANÁLISE.
+1. A decisão agravada não conheceu do recurso, ante a incidência da Súmula 182/STJ, uma vez que o Tribunal a quo negou seguimento ao Recurso Especial, sob o argumento de não há violação ao art. 535 do CPC e inviabilidade de revolvimento de matéria fático-probatória.
+Sucede que a parte não impugnou especificamente tais fundamentos, limitando-se a reafirmar as razões do Recurso Especial.
+2. No presente Regimental, a parte agravante não impugnou os fundamentos da decisão recorrida, limitando-se a reafirmar, mais uma vez, as razões de seu Recurso Especial.
+3. A falta de impugnação específica de todos os fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Regimental.
+Incide a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 4. Nas razões recursais, não há alegação de violação ao art. 535 do CPC a fim de viabilizar possível anulação do julgado por vício na prestação jurisdicional.
+3. Agravo Regimental não conhecido.
+(AgRg no AREsp 586.278/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/11/2014, DJe 26/11/2014)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
