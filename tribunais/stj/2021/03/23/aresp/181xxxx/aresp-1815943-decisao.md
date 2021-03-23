@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Doris Linche Dias Ferreira e Dionei Linche Eller, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 372):
+APELAÇÃO CÍVEL. AÇÃO DE RESPONSABILIDADE CIVIL. ATROPELAMENTO. LINHA FÉRREA. PASSAGEM DE NÍVEL CLANDESTINA. SUPERVIA. AÇÃO AJUIZADA PELA MÃE E PELO IRMÃO DA VÍTIMA. SENTENÇA DE PROCEDÊNCIA PARCIAL, PARA CONDENAR A PARTE RÉ AO PAGAMENTO DE: (A) INDENIZAÇÃO, NA FORMA DE PENSIONAMENTO, NA BASE DE 1/3 SOBRE O SALÁRIO MÍNIMO; (B) DANOS MORAIS, NO VALOR DE R$30.000,00 PARA CADA AUTOR. IRRESIGNAÇÃO DE AMBAS AS PARTES. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. AUSÊNCIA DE PROVAS DA OCORRÊNCIA DE ATROPELAMENTO DO FILHO FALECIDO DA AUTORA POR COMPOSIÇÃO DA EMPRESA RÉ. LAUDO DA NECROPSIA (E-DOC. 262) ATESTA QUE A MORTE DA VÍTIMA NÃO TEM NEXO DE CAUSALIDADE COM O SUPOSTO ACIDENTE SOFRIDO NA LINHA FÉRREA, UMA VEZ QUE DECORREU DE ESTADO MÓRBIDO PRÉ-EXISTENTE (FIBROSE, ENFISEMA PULMONAR, PNEUMONIA, CARDIOPATIA HIPERTRÓFICA E ESTEATOSE HEPÁTICA). NÃO HAVENDO RESPONSABILIDADE DA EMPRESA RÉ, NÃO HÁ QUE SE FALAR EM QUALQUER MODALIDADE DE INDENIZAÇÃO. RECURSO DA PARTE AUTORA A QUE SE NEGA PROVIMENTO. PROVIMENTOAORECURSO DA PARTE RÉ.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 405-409).
+Nas razões do recurso especial (e-STJ, fls. 417-432), os ora agravantes apontaram violação dos seguintes dispositivos normativos:
+a)art. 1.022, I, do CPC/2015, em que argumentam a existência de obscuridade no acórdão recorrido;
+b)art. 1.013do CPC/2015, alegando que o acórdão recorrido afrontou o efeito devolutivo da apelação;
+c) arts. 186, 927, 944, 945 e 948, I e II, do CC/2002. Sustentou, para tanto,que a responsabilidade da concessionária de transporte ferroviário é objetiva e que ela se eximiu de fiscalizar a malha ferroviária. Ademais, aduziu que o evento danoso e a responsabilidade da empresa recorrida encontram-se indubitavelmente comprovados nos autos.
+Contrarrazões às fls. 437-444 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, com relação à suposta violação do art. 1.022 do Código de Processo Civil de 2015, não assiste razão à parte recorrente com relação à alegada obscuridade, tendo em vistaque o Tribunal estadual expôs, de forma clara e fundamentada, as razões que levaram à conclusão do julgado.
+Cumpre destacar, ademais, que as teses relativas ao efeito devolutivo do recurso e à culpa in vigilando não foram debatidas no acórdão recorrido, faltando, assim, o requisito indispensável do prequestionamento.
+Incide, portanto, o enunciado n.211 desta Corte.
+Por outro lado, o Tribunal a quo consignou pela inexistência de "qualquer prova de que o filho falecido da autora teria realmente sido atropelado por composição da parte ré na linha férrea". No ponto, foi enfático em dizer, ademais, que "o laudo da necropsia, de e-doc. 262, aponta causa da morte que não guarda qualquer nexo de causalidade com o suposto acidente" (e-STJ, fl. 375).
+Nesse contexto, examinando as razões do acórdão recorrido, depreende-se que a instância estadual delineou a controvérsia dentro do conjunto probatório dos autos e, analisando as peculiaridades do caso concreto, concluiu que não há que se falar em responsabilidade civil da concessionáriade serviço público pela morte do familiar dos autores.
+Assim, não se mostra possível modificar a referida conclusão na via do recurso especial, em razão do óbice do enunciado n. 7 da Súmula do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. ALEGADAOBSCURIDADENÃO EVIDENCIADA.2.EFEITO DEVOLUTIVO DO RECURSO E CULPA IN VIGILANDO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211/STJ. 3. AUSÊNCIA DE PROVAS DA OCORRÊNCIA DE ATROPELAMENTO DO FILHO FALECIDO DA AUTORA POR COMPOSIÇÃO DA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO. LAUDO DA NECROPSIA ATESTA QUE A MORTE DA VÍTIMA NÃO TEM NEXO DE CAUSALIDADE COM O SUPOSTO ACIDENTE. ENTENDIMENTOS OBTIDOS DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
