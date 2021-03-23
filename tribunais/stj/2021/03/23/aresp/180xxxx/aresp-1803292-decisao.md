@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado porSavoy Imobiliária Construtora Ltda.contra decisão denegatória de admissibilidade a recurso especial interposto com base no art. 105, III,a,da CF, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 206):
+APELAÇÃO - Embargos à Execução - Prescrição - Desídia da Fazenda Pública - Não constatada inércia por mais de seis anos (um ano de suspensão processual, mais cinco anos do prazo prescricional tributário) - Inteligência do art. 40 da Lei nº 6.830/80 - Precedente assentado pelo STJ no julgamento do
+REsp Repetitivo nº 1.340.553/RS - Sentença mantida - Prosseguimento da exação - RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram estes rejeitados (fls. 213/216).
+Nas razões de recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 489, §1º, III, e 1.022 do CPC/15 e 205 e 240, §2º, do CPC/15. Sustenta, em síntese, que: (I) a despeito dos aclaratórios, o Tribunal de origem quedou-se silente quanto a "ilegalidade dos Provimentos nº 11/2002 e 10/2009(que autorizam a expedição de despacho citatório pela parte, sem qualquer ratificação ou assinatura do magistrado), por violação ao art. 205 do CPC, e aplicaçãodoart. 240, §2º do CPC" (fl. 221) e (II) "a ocorrência de prescrição em função da nulidade do despacho citatório, haja vista que este não foi expedido, ratificado ou assinado pelo d. magistrado competente" (fl. 222).
+Sem contrarrazões (fl. 230).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/2015.
+Nas razões dos embargos de declaração, a ora agravante, referindo haver omissão no acórdão embargado, pugnou pelo pronunciamento da Corte de origem, nestes termos (fl. 211):
+O v. acórdão aduz que o despacho citatório estaria correto em função de haver respaldo nos Provimentos nº 11/2002 e 10/2009. Contudo, a r. decisão deixou de se pronunciar acerca da alegada violação ao art. 205 do CPC, haja vista que, a despeito do recebimento das petições iniciais por ordem de serviço seja autorizada pelo provimento, é essencial que haja a ratificação do magistrado, apresentada por meio de assinatura do despacho, o que inexistiu no caso em tela.
+Isso porque, ainda que o provimento dispensasse expressamente a assinatura do magistrado, não pode um provimento dispor em contrariedade à disposição da lei.
+Contudo, o Tribunal de origem quedou-se silente sobre a tese da "ilegalidade dos Provimentos nº 11/2002 e 10/2009 (que autorizam a expedição de despacho citatório pela parte, sem qualquer ratificação ou assinatura do magistrado), por violação ao art. 205 do CPC, e aplicação do art. 240, §2º do CPC", rejeitando os pertinentes aclaratórios da ora agravante, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral (cf. fls. 243/250).
+ANTE O EXPOSTO, conheço do agravo para darprovimento ao recurso especial por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
