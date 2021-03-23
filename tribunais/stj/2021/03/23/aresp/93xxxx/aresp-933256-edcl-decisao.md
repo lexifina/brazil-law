@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por GUANAUPE GUANHÃES AUTOMÓVEIS E PEÇAS LTDA, a decisão de minha lavra, que acolheu os embargos de declaração opostos a fls. 862/875e, para conhecer do Agravo em Recurso Especial e dar parcial provimento a seu Recurso Especial.
+Sustenta a parte embargante a existência de omissão em relação à parte dispositiva da decisão, no que diz respeito à não incidência da contribuição ao SAT/GILRAT sobre as verbas de caráter indenizatória.
+Os Embargos de Declaração merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Dessarte, cabe alterar a parte dispositiva da decisão ora embargada, ficando nos seguintes termos: Acolho os Embargos de Declaração, com efeitos infringentes, para, com fundamento no art. 253, parágrafo único, II, b e c, do RISTJ, conhecer do Agravo para dar parcial provimento ao Recurso Especial, nos termos da fundamentação, para afastar a incidência das contribuições previdenciárias patronais sobre o salário maternidade e para declarar que as contribuições destinadas a terceiros e as contribuições ao SAT/GILRAT devem seguir a mesma sistemática das contribuições previdenciárias, sendo impossibilitada sua incidência sobre as rubricas consideradas, no presente caso, como de caráter indenizatório.
+Ante o exposto, acolho os presentes Embargos de Declaração, para sanar omissão, nos termos da fundamentação.
+I.
