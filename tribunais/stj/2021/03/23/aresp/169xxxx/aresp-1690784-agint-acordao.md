@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. ART. 1.030, I, "B", DO CPC/2015. CABIMENTO. AGRAVO INTERNO. .
+1. Nos termos do art. 1.030, § 2º, do CPC/2015, é cabível o agravo interno contra a decisão que nega seguimento ao recurso especial interposto contra acórdão que esteja em conformidade com entendimento do STJ ou do STF exarado sob o regime de julgamento de recursos repetitivos.
+2. Havendo previsão legal expressa, a interposição de agravo em recurso especial nesse caso configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno de SERES - SERVIÇOS DE RECRUTAMENTO E SELEÇÃO DE PESSOAL LTDA. contra decisão de e-STJ fls. 1509/1511, em que não conheci do agravo em recurso especial por ter sido interposto em face de decisão que inadmitiu o apelo extremo em razão da coincidência do acórdão proferido pelo Tribunal a quo com precedente do STJ firmado em sede de recurso repetitivo (e-STJ fls. 1.509/1.511).
+Em suas razões, a parte recorrente aduz que a decisão deve ser reformada porque "não houve negativa de seguimento de Recurso Especial pela sistemática de recurso repetitivos, na forma do artigo 1.030, I, do CPC/15, mas que, de fato, ocorreu a inadmissão recursal por múltiplos fundamentos, o que enseja a interposição do Agravo em REsp previsto no art. 1042, do CPC/15, não havendo que se falar em inadequação da via recursal eleita" (e-STJ fl. 1.518).
+Considera que o agravo interno é cabível "quando a decisão se baseia apenas na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivo", não sendo o caso dos autos, em que a inadmissão também se deu por outros fundamentos.
+Decorrido, in albis, o prazo para resposta (e-STJ fl. 1.540).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. ART. 1.030, I, "B", DO CPC/2015. CABIMENTO. AGRAVO INTERNO. .
+1. Nos termos do art. 1.030, § 2º, do CPC/2015, é cabível o agravo interno contra a decisão que nega seguimento ao recurso especial interposto contra acórdão que esteja em conformidade com entendimento do STJ ou do STF exarado sob o regime de julgamento de recursos repetitivos.
+2. Havendo previsão legal expressa, a interposição de agravo em recurso especial nesse caso configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Registre-se, de início, que o Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão deve ser integralmente mantida.
+Extrai-se dos autos que a decisãoa quo inadmitiu o recurso especial com base nos seguintes fundamentos: a) ausência de violação ao art. 1022 do CPC; b) Súmula 7 do STJ e c) quanto ao mérito, o entendimento do acórdão recorrido está em sintonia com precedente obrigatório proferido em julgamento de recurso especial repetitivo (Resp 1.141.065/SC - Tema 279).
+Do que se vê, um dos fundamentos utilizados para inadmitir o recurso especial foi a consonância do acórdão recorrido com precedente firmado em sede de recurso especial repetitivo, não obstante o Tribunal a quo tenha aplicado a Súmula 83 do STJ.
+Logo, nos termos do disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento: ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+O agravo interno é a sede própria para se demonstrar eventual falta na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo. Em razão dessa previsão normativa, é firme o entendimento desta Corte de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Ressalto que, em razão do referido dispositivo legal, a interposição de agravo em recurso especial configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL FUNDADA NO ARTIGO 1.030, I, B DO CPC/2015. CABIMENTO DE AGRAVO INTERNO CONSOANTE ARTIGO 1.030, § 2º,CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ARTIGO 1.042 DO CPC/2015. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. DESCABIMENTO. AGRAVO INTERNO DA SEGURADA DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC de Justiça (Enunciado Administrativo 3).
+2. Com base no art. 1.030, § 2º,do CPC/2015, não cabe Agravo em Recurso Especial ao Superior Tribunal de Justiça contra decisão que nega seguimento ao Recurso Especial nos termos do art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo Interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em sede de Recurso Especial julgado sob o rito representativo da controvérsia (AgInt no AREsp. 1.010.292/RN, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017; AgRg no AREsp 994.487/MG, Rel. Min. SEBASTIÃO REIS JUNIOR, DJe 2.3.2017; AgInt no AREsp 982.074/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 17.11.2016).
+3. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, porquanto, na data da publicação da decisão que não admitiu o Recurso Especial, já havia expressa previsão legal para o recurso cabível, artigo 1.030, I, b, do CPC/2015, afastando-se, por conseguinte, a dúvida objetiva.
+4. Agravo interno da segurada desprovido.(AgInt no AREsp 1.035.090/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 02/08/2017).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RMI. NEGATIVA DE SEGUIMENTO A RECURSO COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. DECISÃO MANTIDA.I - O Código de Processo Civil de 2015, de forma expressa, determina o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do Código de Processo Civil de 2015, nega seguimento ao recurso especial.II - Destarte, a interposição do agravo em recurso especial, previsto no artigo 1.042 do Código de Processo Civil de 2015, constitui erro grosseiro, tendo em vista a inexistência de dúvida objetiva, ante à expressa previsão legal do recurso adequado, não sendo mais devida a determinação de retorno dos autos ao Tribunal de origem para que o aprecie como agravo interno.III - Agravo interno improvido.(AgInt no AREsp 976.993/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 14/08/2017).
+Ressalte-se que esse entendimento não se altera em razão do Tribunal a quo ter feito referência à Súmula 83 do STJ porque, na hipótese, está evidente que o fundamento de aplicação de tal enunciado sumular foi a tese julgada no RESP 1141065/SC - Tema 279, pela sistemática dos recursos repetitivos (e-STJ. fl. 1.441).
+Acresço que a interposição de agravo em recurso especial em tais casos, porquanto manifestamente incabível, não inaugura a jurisdição desta Corte Superior para o exame das questões meritórias nele suscitadas, ainda que sejam de ordem pública.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
