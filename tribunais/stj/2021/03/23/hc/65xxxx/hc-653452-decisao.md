@@ -1,0 +1,7 @@
+DECISÃO
+CHESDAN CINTRA DIAS alega sofrer constrangimento ilegal em decorrência de suposta delonga atribuída ao Tribunal a quo para o julgamento do Agravo em Execução n. 0012750-58.2020.8.26.0996, em que se pleiteia a concessão do livramento condicional.
+Depreende-se dos autos que o Juízo singular, em 11/2/2021, concedeu o pleito defensivo e promoveu o paciente ao regime semiaberto. Todavia, a defesa assere que "o juiz de primeira instancia omitisse (sic) ao pedido de liberdade condicional, referindo apenas o pedido subsidiário de progressão para o regime semiaberto" (fl. 4, grifei).
+Dada a suposta omissão do Juízo de primeira instância, opôs a defesa embargos de declaração contra a decisão acima referida, o qual, consoante andamento processual disponível no sítio eletrônico da Corte de origem, foi protocolizado em 12/2/2021 e segue pendente de julgamento. Entretanto, antes mesmo de opor os citados embargos, a defesa já havia protocolizado também o agravo em execução a que se refere neste writ.
+Dessa forma, percebe-se que o Juízo singular não adentrou o exame da questão trazida a esta Corte Superior, visto que não se pronunciou sobre eventual pleito de concessão do livramento condicional. Portanto, diante da não análise do pedido, o seu exame pelo Superior Tribunal de Justiça incorreria em indevida supressão de instância, mormente na hipótese, em que a tese carece de apreciação pelo colegiado competente.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
