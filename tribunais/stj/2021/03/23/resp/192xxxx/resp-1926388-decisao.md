@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIVERSIDADE FEDERAL DA PARAÍBA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+"ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. AUXÍLIO-TRANSPORTE. REALIZAÇÃO DE DESCONTOS PELA UNIVERSIDADE SEM EFETUAR A CONTRAPARTIDA DEVIDA.SUSPENSÃO DOS DESCONTOS. POSSIBILIDADE.
+1. Caso em que se discute a legalidade de descontos efetuados no contracheque do autor, a despeito de não ser pago ao mesmo auxílio-transporte;
+2. A questão já fora submetia a essa eg. Turma ao ensejo do julgamento do agravo de Instrumento 0808580-43.2019.4.05.0000 inexistindo fatos posteriores que ensejassem a modificação doentendimento ali proferido;
+3. Consta dos autos que, em dezembro de 2014, o demandante foi nomeado para cargo de provimento efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Estado de Pernambuco - IFPE e, ao depois, em 4 de junho de 2018, foi redistribuído para a Universidade Federal da Paraíba - UFPB;
+4. No período em que o demandante ficou lotado no campus Barreiros do Instituto Federal de Educação, Ciência e Tecnologia do Estado de Pernambuco - IFPE, recebeu o benefício do Auxílio Transporte, decorrente de uma decisão judicial, sendo descontado de seu salário o valor de R$ 565,84 (quinhentos e sessenta e cinco reais e oitenta e quatro centavos). Depois de ser redistribuído para a UFPB, continuou a sofrer os descontos, porém, sem receber o pagamento do auxílio transporte. Tendo requerido a suspensão dos descontos, teve seu pedido indeferido ao fundamento de que, em se tratando de decisão judicial, somente o Juízo poderia autorizar a medida. Daí o ajuizamento da ação;
+5. O auxílio transporte está previsto no Art. 51, inciso III, da Lei nº 8.112/90, como indenização devida ao servidor público civil. A regulamentação da forma de pagamento consta do Art. 2º do Decreto nº2.880/98. Segundo a norma regulamentar, o valor do auxílio deve corresponder ao montante efetivamente gasto com o deslocamento do servidor até o trabalho, descontado 6% do vencimento do cargo efetivo proporcional a 22 dias no período de um mês. Isso significa que o servidor deverá arcar com o correspondente a 6% de sua remuneração para deslocar-se até o serviço, tendo a Administração de ressarci-lo dos gastos que ultrapassarem esse montante;
+6. No entanto, e isso é deveras importante, por se tratar de verba indenizatória, não faz sentido que os descontos realizados sejam superiores ao valor recebido, caso contrário, ao invés indenizar o servidor público, a Administração Pública estaria se locupletando dos valores descontados em prejuízo dos vencimentos; é dizer que, em qualquer hipótese, a contrapartida realizada pela Administração Pública deve ser, no mínimo, suficiente para compensar os descontos sofridos, sob pena de ilegalidade;
+7. A UFPB está agindo de modo ilegal ao realizar descontos nos vencimentos do demandante, relativos ao auxílio-transporte, sem realizar quaisquer ressarcimento, o que importa nítido enriquecimento sem causa;
+8. Por outro lado, não colhe a alegação da UFPB de que somente estaria cumprindo decisão judicial, porque, se existe decisão judicial que assegura ao demandante direito ao pagamento de auxílio-transporte, a Universidade deveria pagar-lhe a contrapartida devida, não sendo possível que faça os descontos sem qualquer ressarcimento;
+9. Em palavras mais claras, existem duas situações possíveis: ou a UFPB não faz desconto algum nem paga auxílio-transporte, ou faz os descontos e paga o benefício ao demandante; não existe outra situação admissível, sob pena de flagrante ilegalidade. Portanto, se a UFPB está vinculada ao cumprimento da referida decisão judicial, deve fazê-lo por inteiro, garantindo ao demandante a indenização devida, caso contrário, deve suspender quaisquer descontos a esse título;
+10. Apelação provida" (fls. 154/155e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 171/180e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. INEXISTÊNCIA DE OMISSÃO,CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PRETENSÃO A REJULGAMENTO. IMPOSSIBILIDADE .
+1. Os embargos de declaração têm sua abrangência limitada aos casos de omissão, obscuridade, contradição ou erro material;
+2. Entendendo haver erro no julgamento, cabe às partes se valerem das vias recursais próprias, uma vez que os embargos declaratórios não constituem meio idôneo para correção de eventual error in judicando;
+3. Não configura omissão deixar o acórdão de se referir a dispositivos legais mencionados no arrazoado das partes, se a solução que o acórdão adota não tem qualquer relação com os mesmos;
+4. O órgão julgador não é obrigado a se pronunciar sobre todos os argumentos da parte, podendo deixar de analisar alguns quando a apreciação dos demais der ensejo à formação do seu convencimento;
+5. Embargos de declaração improvidos" (fl. 192e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 502 e 505 do CPC/2015 sustentando, para tanto, que:
+"Conforme restou devidamente demonstrado nos autos judiciais, a UFPB atuou dentro da mais estrita legalidade, pois, em observância à COISA JULGADA que determinou o desconto da RUBRICA no contracheque do autor/recorrido.
+Nesse sentido, estabelecem arts. 502 e 503 do CPC 2015, in verbis:
+(..)
+O caso dos autos se refere a supressão de uma RUBRICA referente ao auxílio-transporte que vem sendo descontada do Autor/Recorrido por força de determinação judicial, que não foi discutida nestes autos. Pois apenas por ação rescisória, o Recorrido poderia impugnar a coisa julgada estabelecida sobre ocaso.
+A matéria do auxílio-transporte é tratada pela MP n.º 2.165-36, de 2001, vigente por força do art. 2º da Emenda Constitucional n.º 32, nos moldes a seguir, verbis :
+(..)
+Como se observa, o vale transporte é uma verba de caráter indenizatório, destinada ao custeio parcial de despesas com deslocamento em transporte coletivo, excetuado os transportes seletivos ou especiais.
+(..)
+Na qualidade de verba de natureza indenizatória, o servidor apenas fará jus à mesma caso comprove que o deslocamento de sua residência para o trabalho e seu retorno é feito mediante transporte coletivo, bem como demonstre o seu respectivo valor mensal, valor este variável a cada mês.
+(..)
+No caso em tela, o servidor apresentou-se junto a UFPB, já com este desconto em seu contracheque, em virtude de decisão judicial de modo que eventual retirada deverá ser buscada no processo judicial que se determinou o desconto pelos meios judiciais apropriados, e não mediante uma nova ação.
+A coisa julgada somente pode ser desconstituída por meio de ação rescisória, sob pena de violação aos citados artigos 502 e 503 do Código de Processo Civil.
+Importante ressaltar ainda o caráter propter laborem do auxílio-transporte, destinado a indenizar despesas efetivamente realizadas no translado residência-trabalho e vice-versa.
+(..)
+Quanto ao mais, os descontos decorrem de decisão judicial transitada em julgado, de forma que tais não podem ser cessados como bem apontou a sentença proferida pelo o douto juízo de primeiro grau, verbis:
+(..)
+Diante do arguido, espera-se que seja reformado o acórdão regional, visto que a UFPB vem agindo dentro dos limites legais e nos estritos termos das normatizações aplicáveis, de modo que os pleitos da parte autora/recorrida carecem de qualquer baliza jurídica aceitável" (fls. 209/213e).
+Por fim, requer "seja o presente recurso especial recebido e processado, admitindo-o e remetendo-o ao Colendo Superior Tribunal de Justiça, onde deverá ser conhecido e provido para, reformando o acórdão regional, manter a sentença a sentença que julgou improcedente o pleito autoral" (fl. 213e).
+Não foram apresentadas contrarrazões (fl. 218e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 219e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de demanda proposta pela parte ora recorrida, "objetivando a devolução dos valores que alega estarem sendo indevidamente descontados de sua remuneração a título de auxílio-transporte, referente ao período de julho/2018 até a presente data, corrigidos e acrescidos de juros de mora" (fl. 85e).
+Julgada improcedente a demanda, recorreu o autor, tendo sido reformada a sentença, pelo Tribunal a quo.
+Daí a interposição do presente Recurso Especial.
+Este é o teor do voto condutor do acórdão recorrido:
+"Caso em que se discute se a legalidade de descontos efetuados no contracheque do autor, a despeito de não ser pago ao mesmo auxílio-transporte.
+A questão já fora submetia a essa eg. Turma ao ensejo do julgamento do agravo de Instrumento 0808580-43.2019.4.05.0000, inexistindo fatos posteriores que ensejassem a modificação do entendimento ali proferido.
+Consta dos autos que, em dezembro de 2014, o demandante foi nomeado para cargo de provimento efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Estado de Pernambuco - IFPE e, ao depois, em 4 de junho de 2018, foi redistribuído para a Universidade Federal da Paraíba - UFPB.
+No período em que o demandante ficou lotado no campus Barreiros do Instituto Federal de Educação, Ciência e Tecnologia do Estado de Pernambuco - IFPE, recebeu o benefício do Auxílio Transporte, decorrente de uma decisão judicial, que era descontado de seu salário, no valor de R$ 565,84 (quinhentos e sessenta e cinco reais e oitenta e quatro centavos).
+Depois de ser redistribuído para a UFPB, continuou a sofrer os descontos, porém, sem receber o pagamento do auxílio transporte. Tendo requerido a suspensão dos descontos, teve seu pedido indeferido ao fundamento de que, em se tratando de decisão judicial, somente o Juízo poderia autorizar a medida. Daí o ajuizamento da ação.
+O auxílio transporte está previsto no Art. 51, inciso III, da Lei nº 8.112/90, como indenização devida ao servidor público civil. A regulamentação da forma de pagamento consta do Art. 2º do Decreto nº 2.880/98, transcrito infra:
+(..)
+Como se vê, segundo a norma regulamentar, o valor do auxílio deve corresponder ao montante efetivamente gasto com o deslocamento do servidor até o trabalho, descontado 6% do vencimento do cargo efetivo proporcional a 22 dias no período de um mês. Isso significa que o servidor deverá arcar com o correspondente a 6% de sua remuneração para deslocar-se até o serviço, tendo a Administração de ressarci-lo dos gastos que ultrapassarem esse montante.
+No entanto, e isso é deveras importante, por se tratar de verba indenizatória, não faz sentido que os descontos realizados sejam superiores ao valor recebido, caso contrário, ao invés de indenizar o servidor público, a Administração Pública estaria se locupletando dos valores descontados em prejuízo dos vencimentos; é dizer que, em qualquer hipótese, a contrapartida
+realizada pela Administração Pública deve ser, no mínimo, suficiente para compensar os descontos sofridos, sob pena de ilegalidade.
+Do que se vem de ver, parece claro que a UFPB está agindo de modo ilegal ao realizar descontos nos vencimentos do demandante, relativos ao auxílio-transporte, sem realizar qualquer ressarcimento, o que importa nítido enriquecimento sem causa.
+Por outro lado, não colhe a alegação da UFPB de que somente estaria cumprindo decisão judicial, porque, se existe decisão judicial que assegura ao demandante direito ao pagamento de auxílio-transporte, a Universidade deveria pagar-lhe a contrapartida devida, não sendo possível que faça os descontos sem qualquer contrapartida.
+Em palavras mais claras, existem duas situações possíveis: ou a UFPB não faz desconto algum nem paga auxílio-transporte, ou faz os descontos e paga o benefício ao demandante.
+Não existe outra situação admissível, sob pena de flagrante ilegalidade. Portanto, se a UFPB está vinculada ao cumprimento da referida decisão judicial, deve fazê-lo por inteiro, garantindo ao demandante a indenização devida, caso contrário, deve suspender quaisquer descontos a esse título" (fls. 152/153e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
