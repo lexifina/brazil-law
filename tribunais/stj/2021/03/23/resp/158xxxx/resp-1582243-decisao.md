@@ -1,0 +1,5 @@
+DECISÃO
+A Fiat Administradora de Consórcios Ltda. informa a esta Corte que tomou conhecimento em 2017 de que a ANADEC - Associação Nacional de Defesa da Cidadania e do Consumidor teve a sua dissolução determinada judicialmente pelo TJSP "ante a ausência de representatividade adequada e o desvio de finalidade." (TJSP, AC 0046316-74.2010.8.26.0114, Rel. Desembargadora MARCIA DALLA DÉA BARONE, julgado em 21/02/2017; e-STJ Fls. 1426-1442.) Em consequência, a Fiat requer o provimento do recurso especial para acolher a preliminar de ilegitimidade ativa da ANADEC, e, subsidiariamente, que o presente processo seja suspenso até o trânsito em julgado do referido acórdão prolatado pelo TJSP. (e-STJ Fls. 1422-1425.)
+Em face do exposto:
+A) fica a ANADEC intimada para manifestar-se, no prazo de 15 dias, sobre o pedido formulado pela Fiat (e-STJ Fls. 1422-1425);
+B) após, vista ao Ministério Público Federal (MPF) para manifestar-se como fiscal da ordem jurídica sobre o recurso especial da Fiat, o agravo da ANADEC e o requerimento acima mencionado da Fiat. LACP, art. 5º, § 1º.
