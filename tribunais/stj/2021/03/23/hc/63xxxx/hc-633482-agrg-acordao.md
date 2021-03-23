@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REEXAME DE PROVAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que a instância ordinária - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Mostra-se devida a imposição do regime inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, quando verificado que, apesar de o agravante ter sido definitivamente condenado a sanção inferior a 8 anos de reclusão, foi apreendido com relevante quantidade de drogas.
+3. Diante do insucesso das teses defensivas que poderiam levar à redução da reprimenda, fica mantida a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (sanção superior a 4 anos).
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RODERSON LUA DOREA DA SILVA agrava de decisão em que deneguei a ordem do mandamus impetrado e mantive a reprimenda imposta ao réu.
+No regimental, a defesa reitera a necessidade de aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, fixação de regime mais brando para o início do cumprimento da reprimenda e substituição da pena privativa de liberdade por restritiva de direitos.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que seja conhecido o writ e redimensionada a pena do réu.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REEXAME DE PROVAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. SUBSTITUIÇÃO DA PENA. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que a instância ordinária - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Mostra-se devida a imposição do regime inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, quando verificado que, apesar de o agravante ter sido definitivamente condenado a sanção inferior a 8 anos de reclusão, foi apreendido com relevante quantidade de drogas.
+3. Diante do insucesso das teses defensivas que poderiam levar à redução da reprimenda, fica mantida a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (sanção superior a 4 anos).
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não verifico fundamento suficiente a infirmar a decisão agravada, cuja conclusão mantenho.
+Quanto à incidência da minorante da Lei de Drogas, esclareço que a instância ordinária destacou que o réu "trazia consigo em conhecido como ponto de venda de entorpecentes (cf. depoimentos dos policiais militares) 199 porções de maconha, com peso líquido de 428,46 gramas; e 250 invólucros de cocaína, com massa de 135,37 gramas (cf. laudo de fls. 188/190), além de dinheiro; circunstâncias concretas que, no mínimo, levam à conclusão de que, com habitualidade, recebe os entorpecentes (mediante compra ou consignação) do grande traficante para, na sequência, comercializá-los no varejo em porções" (fl. 77).
+Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos - quantidade e variedade de drogas e dinheiro em poder do réu, apreendidos em conhecido local de ponto de venda de entorpecentes - que, em conjunto, indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+Quanto ao modo de cumprimento da pena, pela leitura dos autos noto que, não obstante o paciente haja sido definitivamente condenado a reprimenda inferior a 8 anos de reclusão, certo é que a instância de origem apontou elementos concretos dos autos que justificam a imposição de regime inicial mais gravoso do que o permitido em razão da sanção imposta. Logo, não há que falar em constrangimento ilegal.
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a negativa de substituição da privativa de liberdade por restritiva de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+À vista do exposto, nego provimento ao agravo regimental.
