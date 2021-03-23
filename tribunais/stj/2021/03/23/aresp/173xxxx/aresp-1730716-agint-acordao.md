@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CORPUS CHRISTI. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A Corte Especial do STJ, em sessão realizada no dia 03/02/2020, apreciou a QO no REsp 1.813.684/SP, suscitada pela Ministra Nancy Andrighi, para decidir que a modulação dos efeitos do acórdão quanto à possibilidade de comprovação posterior de feriado local restringe-se à segunda-feira de carnaval, o que não é a hipótese dos autos.
+3. O dia de Corpus Christi não está previsto em lei federal como feriado nacional, devendo eventual suspensão de expediente forense na Justiça estadual ser demonstrada por documento idôneo, no ato da interposição do recurso, o que não aconteceu no caso. Precedentes.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo ESTADO DO RIO GRANDE DO SUL contra decisão da Presidência desta Corte, proferida às e-STJ fls. 1043/1044, que não conheceu do agravo em recurso por intempestividade.
+No presente agravo interno, a parte agravante sustenta que no dia 11/06/2020 não houve expediente forense no âmbito da Corte de origem, por ser considerado feriado de Corpus Christi, conforme previsto no Ato n. 07/2019 do Órgão Especial do TJRS (e-STJ fl. 1050).
+Argumenta que, apesar de não ter comprovado anteriormente a ocorrência do aludido feriado local, nada impede que o faça nesta oportunidade, ressaltando que a possibilidade de comprovação posterior foi suscitada nos Embargos de Divergência no ARESP n. 1.371.123/MS, ainda pendente de julgamento nesta Corte de Justiça.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Decorrido o prazo sem impugnação (e-STJ fl. 1061).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CORPUS CHRISTI. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A Corte Especial do STJ, em sessão realizada no dia 03/02/2020, apreciou a QO no REsp 1.813.684/SP, suscitada pela Ministra Nancy Andrighi, para decidir que a modulação dos efeitos do acórdão quanto à possibilidade de comprovação posterior de feriado local restringe-se à segunda-feira de carnaval, o que não é a hipótese dos autos.
+3. O dia de Corpus Christi não está previsto em lei federal como feriado nacional, devendo eventual suspensão de expediente forense na Justiça estadual ser demonstrada por documento idôneo, no ato da interposição do recurso, o que não aconteceu no caso. Precedentes.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Considerado isso, observa-se que a decisão recorrida não merece reparos.
+Consoante anteriormente explanado, no caso concreto, o Estado do Rio Grande do Sul foi intimado pessoalmente da decisão agravada em em 23/03/2020, sendo o agravo somente interposto em 15/06/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 30 (quinze) dias úteis, nos termos dos arts. 183, 994, VIII, c/c os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil/2015.
+Cumpre destacar que a Corte Especial do STJ, quando do exame do Recurso Especial 1.813.684/SP, ocorrido em 02/10/2019, enfrentou o tema relativo à possibilidade de comprovação posterior de feriado local a suspender o prazo para a interposição de recursos dirigidos a este Tribunal Superior, pacificando o entendimento, mediante modulação, de que a regra disposta no art. 1.003, § 6º, do CPC/2015 somente deverá ser exigida a partir da publicação desse julgado, ocorrida em 18/11/2019.
+Todavia, em sessão realizada no dia 03/02/2020, o mesmo Órgão Superior desta Corte - em questão de ordem suscitada pela Ministra Nancy Andrighi - decidiu que a modulação dos efeitos do referido acórdão restringe-se ao feriado de segunda-feira de carnaval.
+Assim, apenas para essa hipótese, deve prevalecer a orientação consolidada no julgamento do AgRg no AREsp 137.141/SE, também pela Corte Especial do STJ, segundo a qual "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental".
+Nos demais casos, não atingidos pelos efeitos da modulação, prevalece o regramento estabelecido pelo Código de Processo Civil de 2015, que não possibilita nenhuma mitigação ao conhecimento do recurso intempestivo.
+Vale salientar, nesse ponto, não ser cabível a aplicação da regra disposta no parágrafo único do art. 932 do CPC/2015, que permitiria a correção do vício, com a comprovação da tempestividade do recurso, posteriormente.
+Esclarecida a abrangência do entendimento firmado no REsp 1.813.684/SP, observa-se que, no caso em debate, a controvérsia cinge-se em saber se o dia de celebração de Corpus Christi corresponde a feriado nacional, o que, por consequência alteraria o prazo ad quem para interposição do agravo em recurso especial para o dia 21/06/2019, data em que efetivamente foi interposto o recurso (e-STJ fl. 1.770).
+Com efeito, esta Casa de Justiça possui entendimento de que "nos termos das Lei Federais n. 5.010/1966 e 11.697/2008, a suspensão do expediente forense no dia de Corpus Christi não se aplica à Justiça Comum estadual, limitando-se à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)" (AgInt no AREsp 1.278.452/SP, Relator Ministro RICARDO VILLAS BOAS CUEVA, TERCEIRA TURMA, DJe 08/11/2018).
+Isso porque as leis federais que dispõem sobre os feriados nacionais, Lei 662/1949, alterada pela Lei n. 10.607/2002, e Lei n. 6.802/1980, não fazem menção ao dia de tal celebração religiosa.
+Cumpre observar que a Lei n. 7.765/1989, mencionada pelo ora agravante, apenas alterou o art. 1º da Lei n. 7.320/1985, o qual passou a vigorar com a seguinte redação:
+"Art. 1º Serão comemorados por antecipação, nas segundas-feiras, os feriados que caírem nos demais dias da semana, com exceção dos que ocorrerem nos sábados e domingos e dos dias 1º de janeiro (Confraternização Universal), 7 de setembro (Independência), 25 de dezembro (Natal), Sexta-Feira Santa e Corpus Christi."
+Ocorre que a Lei n. 7.320/1985 foi expressamente revogada pela Lei n. 8.087/1990, razão pela qual os argumentos trazidos pelo recorrente não são suficientes para afastar as conclusões da decisão agravada, devendo ser mantido o entendimento desta Casa de Justiça de que eventual suspensão de expediente forense no dia de Corpus Christi na Justiça estadual deverá ser devidamente comprovada no momento da interposição do recurso, o que não ocorreu in casu.
+A propósito: cito recentes julgados:
+PROCESSUAL CIVIL. TEMPESTIVIDADE. INAPLICABILIDADE DO PRAZO EM DOBRO AO AGRAVO INTERPOSTO CONTRA A DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL. INTERRUPÇÃO DO EXPEDIENTE NO TRIBUNAL A QUO EM RAZÃO DE FERIADO LOCAL DIVERSO DA SEGUNDA-FEIRA DE CARNAVAL. COMPROVAÇÃO EM MOMENTO POSTERIOR AO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, não se aplica o prazo em dobro (art. 229 do CPC/15) ao agravo interposto contra decisão que nega seguimento a recurso especial, porquanto apenas o autor dessa irresignação possui interesse e legitimidade para recorrer.
+2. Ainda de acordo com o entendimento perfilhado por esta Corte, o feriado de Corpus Christi, por não ser considerado feriado nacional, exige a comprovação de suspensão do expediente forense no Tribunal de origem.
+3. Em 2/10/2019, a Corte Especial do Superior Tribunal de Justiça, ao apreciar o REsp 1.813.684/SP, reafirmou o entendimento segundo o qual o recorrente deve comprovar a ocorrência de feriado local no ato de interposição do recurso (em sintonia, aliás, com a dicção do art. 1.003, § 6º, do CPC/15). Na mesma oportunidade, contudo, o Colegiado modulou os efeitos da decisão, "de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo" (que ocorreu em 18/11/2019).
+4. Posteriormente, em 3/2/2020, no julgamento de questão de ordem suscitada no âmbito do mencionado REsp 1.813.684/SP, a Corte Especial estabeleceu que a modulação de efeitos e a possibilidade de comprovação posterior da existência de feriado local não se aplicariam a todos os feriados, mas apenas à segunda-feira de carnaval.
+5. Assim, como o caso concreto não é de comprovação do mencionado feriado, escorreita a decisão agravada ao consignar a intempestividade do recurso.
+6. Agravo interno desprovido. (AgInt no AREsp 1630390/ES, Relator Ministro SÉRGIO KUKINA, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 11/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. FALTA DE COMPROVAÇÃO DE FERIADO LOCAL. PRECEDENTE. CORTE ESPECIAL.
+1. A Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.º, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte. Inteligência do AREsp 957.821/MS, relatora para o acórdão a Em. Ministra Nancy Andrighi.
+2. A posterior distinção implementada, para o fim de não se aplicar o precedente ao dia da segunda-feira de carnaval, sob a ótica da modulação de efeitos, não se aplica ao dia dedicado a "corpus christi". Inteligência do AgInt nos EAREsp 1.411.243/RN, Rel. Ministro Og Fernandes.
+3. Agravo interno não provido. (AgInt no AREsp 1674519/RJ, Relator Ministro MAURO CAMPBELL MARQUES, Órgão Julgador T2 - SEGUNDA TURMA, DJe 03/12/2020)
+Registro que os Embargos de Divergência no ARESP nº 1.371.123, admitidos e ainda pendentes de julgamento, não tem o condão de alterar o julgado.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
