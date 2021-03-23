@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS,contra decisãoque não admitiu o seu apelo nobre, esteinterposto comfundamento no art. 105, III, a, da CF, desafiando acórdão proferidopelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 219):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REQUISITOSLEGAIS. INCAPACIDADE COMPROVADA. TERMO INICIAL DOBENEFÍCIO. SEGURADO FACULTATIVO. FAMÍLIA DE BAIXA RENDA.ATUALIZAÇÃO DO CADASTRO ÚNICO. CONSECTÁRIOS LEGAIS.HONORÁRIOS ADVOCATÍCIOS. TUTELA ESPECÍFICA.
+1. Quatro são os requisitos para a concessão do benefício por incapacidade: (a) qualidade de segurado do requerente; (b) cumprimento da carência de 12 contribuições mensais; (c) superveniência de moléstia incapacitante para o desenvolvimento de qualquer atividade que garanta a subsistência; e (d) caráter definitivo/temporário da incapacidade.
+2. Caracterizada a incapacidade laborativa total e permanente, cabível a concessão de aposentadoria por invalidez.
+3. Como as conclusões do perito basearam-se não somente no exame físico e na anamnese, mas também na análise dos documentos e exames apresentados, não há motivos para se refutar a data fixada no laudo como início da incapacidade.
+4. Hipótese em que demonstrada a validade da atualização do CadÚnico ao tempo do recolhimento das contribuições.
+5. Consectários legais fixados nos termos das teses firmadas pelo STF (Tema 810) e pelo STJ (Tema 905).
+6. Invertidos os ônus sucumbenciais, impõe-se a condenação do INSS ao pagamento de honorários advocatícios, fixados em 10% sobre as parcelas vencidas até a data do acórdão (Súmula 76 do TRF4).
+7. Reconhecido o direito da parte, impõe-se a determinação para a imediata implantação do benefício, nos termos do art. 497 do CPC.
+Opostos embargos de declaração, foram rejeitados(fls. 371/375).
+Aponta a parterecorrente violação aosarts. 102, caput, da Lei n. 8.213/91 e 21, § 4º, da Lei n. 8.2121/91, sustentando que"foi reconhecida a qualidade de segurada da parte autora para o fim de concessão do benefício por incapacidade (auxilio doença/aposentadoria por invalidez), não obstante a alegação do INSS no sentido de que os recolhimentos efetuados pela parte, na condição de segurada facultativa de baixa renda, foram irregulares e, portanto, não podem ser considerados para fins previdenciários" (fl. 382).
+Aduz que "a E. Turma entendeu que a inscrição junto ao Cadastro Único -CadÚnico do Ministério do Desenvolvimento Social e Combate à Fome - é dispensável quando não contestados os demais requisitos, por se tratar de mera formalidade que não pode ser tomada como impedimento ao reconhecimento do direito" (fl. 382).
+Intimada, a parte recorrida apresentou  contrarrazões,às fls. 393/400.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+No caso, ao analisar o requisito necessário à concessão do benefício, consubstanciado na qualidade de segurada da parte autora,o Tribunal de origem assim se manifestou, verbis (fls. 351/352):
+Passo à análise da qualidade de segurada.
+Em consulta ao CNIS, verifica-se que a autora verteu contribuições na qualidade de segurada facultativa nos períodos de 01/12/2012 a 31/10/2017e de 01/12/2017 a 30/09/2019.
+O benefício foi negado sob o fundamento de que as contribuições vertidas não podem ser consideradas para efeito de carência, pois não validadas junto ao Cadastro Único gerido pelo Ministério do Desenvolvimento Social.
+Nesse passo, a dúvida quanto ao preenchimento da qualidade de segurada não mais reside propriamente no pagamento de contribuições previdenciárias, mas sim na qualificação da demandante como contribuinte facultativa integrante de família de baixa renda.
+Conforme jurisprudência desta Corte, a inexistência de inscrição no CadÚnico não obsta, por si só, o reconhecimento da condição de segurado facultativo de baixa renda. Isso porque a referida inscrição constitui requisito meramente formal, de modo que, estando demonstrado que a família do segurado efetivamente é de baixa renda e que este não possui renda própria, está caracterizada sua condição de segurado facultativo de baixa renda.
+De qualquer sorte, o documento juntado no Evento 118, OUT2, dá conta de que o cadastramento no CadÚnico foi realizado em 15/04/2004, com última atualização cadastral em 24/10/2017
+No contexto retratado no acórdão recorrido, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, registre-se queo recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "o documento juntado no Evento 118, OUT2, dá conta de que o cadastramento no CadÚnico foi realizado em 15/04/2004, com última atualização cadastral em 24/10/2017". Portanto, o apelo nobreesbarra, também, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
