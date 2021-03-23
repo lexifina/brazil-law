@@ -1,0 +1,73 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de agravo de instrumento contra decisão que deferiu proteção possessória aos agravantes em tutela de urgência. No Tribunal de origem, negou-se provimento ao agravo. Esta Corte não conheceu do recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, Rel. Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+V - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+VI - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+A União interpôs agravo de instrumento contra decisão que, nos autos da Ação n. 5004948-82.2014.4.04.7008/PR, ajuizada por Gustavo Vitorino Salgueiro Filho e Isidoro do Rosário, deferiu proteção possessória aos autores em tutela de urgência.
+O Tribunal Regional Federal da 4ª Região negou provimento ao recurso interposto, mantendo in totum a decisão interlocutória, nos termos da seguinte ementa (fls. 109-110):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. TUTELA POSSESSÓRIA. BEM PÚBLICO.
+1. A decisão agravada limitou-se a assegurar a inviolabilidade dos moradores e a agravante não logrou demonstrar em que sentido residiria o risco em se manter a proteção possessória.
+2. A exata definição da área protegida (se engloba bens públicos) e a existência de cessão de direitos da área a terceiros são questões que demandam exame exauriente dos fatos e documentos acostados aos autos, incabível na via estreita do agravo de instrumento.
+Os embargos de declaração opostos foram providos, para conhecer em parte da medida cautelar suspensiva proposta por Isidoro do Rosário, dando-lhe parcial provimento, para deferir a tramitação prioritária do feito (fl. 214).
+Gustavo Vitorino Salgueiro Filho e Isidoro do Rosário interpuseram recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, apontando, em síntese, violação dos arts. 19 e 20 do CPC/2015; e 199, II, e 1.238 do Código Civil, defendendo a possibilidade de declaração da conversão de sua posse sobre as terras em título de propriedade, bem como que a ausência de fixação, na Lei Estadual n. 249/1949, de prazo ao reconhecimento da posse, afastara a prescrição da respectiva pretensão declaratória.
+Sustentaram ainda ofensa dos arts. 384, 489, § 1º, e 503 do CPC/2015, pois infundada a extinção total da demanda, com supressão da instancia a quo, razão pela qual devido o retorno dos autos à origem para efetivo processo e julgamento da causa.
+Apontaram, ainda, divergência jurisprudencial entre o acórdão objurgado e julgados de outros Tribunais, quanto à viabilidade de declaração judicial da propriedade.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISJTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, este foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que deferiu proteção possessória aos agravantes em tutela de urgência. No Tribunal de origem, negou-se provimento ao agravo. Esta Corte não conheceu do recurso especial.
+II - A decisão recorrida não conheceu do recurso especial, porque constatou a incidência dos Enunciados das Súmulas n. 283, 284, e 735 ambas do STF, bem como da Súmula n. 7 do STJ ao presente caso.
+III - Em seu agravo interno, contudo, a parte agravante deixou de impugnar especificamente os referidos fundamentos, em especial, quanto à incidência da Súmula n. 735 do STF. A parte recorrente traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, deixando de impugnar a referida súmula.
+IV - Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+V - Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+VI - Agravo interno não conhecido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, conforme os seguintes trechos dos recurso:
+Depara-se, concessa venia, com a CONTRADIÇÃO, na incoerência entre a Súmula 735 do STF e a natureza jurídica da decisão - nada menos que um Acórdão do TRF4 - que anuncia a prescrição, ora, é de mérito, não liminar.
+Portanto, é manifestamente ilógica a analogia, e incongruente a extensão, da referida Súmula 735 STF, cuja inteligência jurídica passa ao largo do art. 487, II do CPC - pois a causa foi extinta com este supedâneo (prescrição).
+v. Se não há esse vício, autêntica contradição, o vício passa a ser de OMISSÃO, PORQUE SILENTE o v. Acórdão desta Colenda Turma Superior, que, com o trânsito em julgado deste recurso - então cumprirá promover a baixa dos autos ao d. Juízo de origem, para efetivo trâmite da causa, pois, com respaldo na Súmula 735/STF, os presentes recursos açoitam apenas "singela" tutela liminar e, a demanda ajuizada, como qualquer outra, deve ser encerrada com decisão categórica - sentença, que só o curso do processo dirá, com segurança jurídica, a quem assiste razão.
+ ..
+A parte embargada apresentou impugnação ao recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de agravo de instrumento contra decisão que deferiu proteção possessória aos agravantes em tutela de urgência. No Tribunal de origem, negou-se provimento ao agravo. Esta Corte não conheceu do recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, Rel. Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+V - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+VI - Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, Rel. Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho do acórdão:
+A decisão recorrida não conheceu do recurso especial, porque constatou a incidência dos enunciados das Súmulas n. 283, 284, e 735 ambas do STF, bem como da Súmula n. 7 do STJ ao presente caso.
+Em seu agravo interno, contudo, a parte agravante deixou de impugnar especificamente os referidos fundamentos, em especial, quanto à incidência da Súmula n. 735 do STF. A parte recorrente traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, deixando de impugnar a referida súmula.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ (..).
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
