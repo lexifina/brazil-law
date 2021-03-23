@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelaINCOVISA COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 195-196):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. PENHORA SOBRE O FATURAMENTO MENSAL DA EMPRESA EXECUTADA. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. Nos termos da jurisprudência desta Corte, é cabível a penhora sobre o faturamento da empresa, quando ofertados bens de difícil liquidez ou não encontrados bens do devedor para satisfazer o crédito exequendo. Precedentes.
+4. No caso, o Tribunal de origem acentuou que não há nos autoselementos que demonstrem a existência de outros bens para garantir a execução, bem como já foram realizadas pesquisas de bens via Bacenjud, Infojud e Renajud, mostrando-se infrutíferas as tentativas de bloqueios, não tendo a executada, por sua vez, oferecido bens à penhora.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+Sustenta arecorrente que está presente a repercussão geral da questão tratada, dado que houve violação ao art. 93, IX, da Constituição Federal.
+Alega que a Corte a quo"deixou de apontar precisa e fundamentadamente os motivos que a levaram a admitir a penhora sobre o faturamento da Recorrente quando não esgotados os meios menos gravosos" (e-STJ fl. 218).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas, conforme certidão de fl. 228.
+É o relatório.
+Ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n.791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais o Colegiadodeu provimento ao agravo interno para, ao reconsiderar a decisão da Presidência desta Corte,negar provimento ao recurso especial, valendo destacar o seguinte excerto(e-STJ fls. 199-203):
+"Afiguram-se relevantes as alegações quanto à impugnação específica dos óbices contidos na decisão de admissibilidade do apelo nobre. Por isso, reconsidero a decisão agravada e passo ao exame do mérito recursal.
+ ..
+Nas razões do recurso especial, a agravante alega violação dos arts. 489, § 1º, IV, 805 e 866 do CPC/2015, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, além da negativa de prestação jurisdicional, que "a excepcionalidade da medida constritiva de penhora de faturamento torna obrigatória a demonstração do esgotamentoassociado à ineficácia de todos os demais meios constritivos, previamente a sua concessão"(fl. 88).
+Inicialmente, rejeita-se a alegada violação do art. 489 do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação.
+ ..
+No mérito, a eg. Corte de origem, com base no lastro probatório dos autos, compreendeu que não ficou demonstrada a existência de outros bens da empresa executada para garantir a execução, bem como mostraram-se infrutíferas as tentativas de bloqueio dos bens via Bacenjud, Infojud e Renajud.
+ ..
+A conclusão do acórdão recorrido está em consonância com o entendimento desta Corte de que é cabível a penhora sobre o faturamento da empresa, quando ofertados bens de difícil liquidez ou não encontrados bens do devedor para satisfazer o crédito exequendo, como no caso dos autos.
+ ..
+In casu, o eg. TJ-SP, mediante análise soberana das provas existentes nos autos, concluiu que não foram encontrados outros bens penhoráveis e que a penhora de 10% do faturamento líquido mensal não inviabilizaria a atividade comercial da empresa executada. A modificação de tal entendimento demandaria o revolvimento fático-probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula 7/STJ.
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional.
+ ..
+Diante do exposto, dou provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7. Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
