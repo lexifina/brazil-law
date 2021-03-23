@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DABESA INDUSTRIA E COMERCIO DE METAIS E LIGAS LTDA. contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Contudo, a decisão embargada é obscura, uma vez que, toda a fundamentação indicada foi prequestionada em sede de recurso de apelação, não merecendo, pois, prosperar.
+Conforme indicado no Recurso Especial, a decisão do Tribunal de Justiça do Estado de São Paulo, negou vigência aos artigos 103, 104 e 106 do Código Tributário Nacional e à Súmula nº 5092 do STJ.
+A priori, insta salientar que não se aplica ao presente caso o teor da Súmula nº 284 do Supremo Tribunal Federal. Isto porque, da leitura da fundamentação do recurso especial interposto é possível verificar a questão controversa: a impossibilidade de a declaração de inidoneidade da empresa fornecedora da recorrente atingir as operações realizadas antes da publicação do referido ato, consoante as disposições no Código Tributário Nacional.
+No que tange à ausência de prequestionamento, não merece prosperar tal entendimento.
+No Recurso de Apelação apresentado pela recorrente (fls. 1.777-1.220), a ofensa aos artigos supramencionados foi realizada, não tratando-se, pois, de inovação recursal, tendo em vista que para fins de prequestionamento, não é necessário a menção expressa do dispositivo de lei violado pelo acórdão recorrido.
+Veja, Ilustre Ministro, a ofensa ao Artigo 103, II do Código Tributário Nacional se deu ao passo que houve a aplicação de efeitos retroativos à decisão de inidoneidade da empresa fornecedora da recorrente, sendo que o referido dispositivo legal é expresso ao dispor que as decisões dos órgãos de jurisdição administrativa somente produzem efeitos após trinta dias de sua publica, vejamos:
+ ..
+Em relação ao Artigo 105 do Código Tributário Nacional, sua menção também foi expressa no recurso de apelação, ante a evidente ofensa desde primeira instância. Ressalta-se, que naquela oportunidade houve um erro de digitação, constando Artigo 405. Todavia, pela mera leitura do recurso é possível extrair que se trata do Artigo 105.
+ ..
+No que tange à ofensa ao Artigo 106 do Código Tributário Nacional, verifica-se que restou configurada ao passo que manteve a autuação realizada pelo Fisco Estadual sobre fato pretérito não previsto no referido artigo. Salienta-se que tal dispositivo também foi indicado no recurso de apelação.
+ ..
+Sendo assim, considerando que não há qualquer mácula no creditamento de ICMS realizado pela recorrente, inexiste razão para se aplicar a retroatividade prevista no Artigo 106 do Código Tributário Nacional, tendo em vista que não trouxe qualquer beneficio para a recorrente (fls. 1.424-1.428).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
