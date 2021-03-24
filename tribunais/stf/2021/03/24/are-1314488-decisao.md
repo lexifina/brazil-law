@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de determinação de incidência do teto remuneratório sobre o valor da pensão após o cálculo do benefício. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 37, inciso XI, e 40, § 7º, inciso I, da Constituição Federal. Afirma à ausência de direito adquirido à forma de cálculo da pensão, considerado o critério utilizado no tocante aos proventos do instituidor. Aludindo ao caráter contributivo do regime previdenciário, sustenta a incidência do teto antes do cálculo da pensão.
+    2. Colho do acórdão o seguinte trecho:
+    Em segundo lugar, dispunha o art. 40, § 7º, I, e § 8º, da CF, à época do óbito, que: “§ 7º Lei disporá sobre a concessão do benefício de pensão por morte, que será igual: I - ao valor da totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescido de setenta por cento da parcela excedente a este limite, caso aposentado à data do óbito; (...) § 8º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei” (grifos meus).
+    Diante disso, resta nítido que o valor base para cálculo do benefício da pensão por morte deve ser a totalidade dos proventos do servidor falecido. E, nessa toada, deve-se levar em conta, para além do valor do subsídio percebido, o valor recebido a título de “parcela de irredutibilidade”.
+    Nesse sentido, a denominada “parcela de irredutibilidade” não pode ser suprimida dos cálculos, também porquanto os desembargadores da ativa percebem tal vantagem, conforme documento emitido pela Diretora da Folha de Pagamento da Magistratura – SEMA 2 (fl. 22), devendo-se atentar à paridade inerente ao caso.
+    A decisão recorrida está em harmonia com a jurisprudência do Supremo, no sentido de que a pensão por morte deve corresponder à totalidade dos vencimentos ou proventos que o servidor falecido receberia se vivo fosse. Confiram com a seguinte ementa:
+    EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. PENSÃO POR MORTE. EMENDA CONSTITUCIONAL 41/2003. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF.
+    1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015.
+    2. Decisão em consonância com a jurisprudência consolidada da CORTE no sentido de que (I) a pensão por morte deve corresponder à totalidade dos vencimentos ou proventos que o servidor falecido receberia se vivo fosse e (II) em razão da data de óbito do servidor, não se aplica a Emenda Constitucional 41/2003.
+    3. Embargos de declaração recebidos como agravo interno, ao qual se nega provimento. Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    (embargos de declaração no recurso extraordinário nº 652.718, relator ministro Alexandre de Moraes, Primeira Turma, acórdão publicado no Diário da Justiça de 12 de abril de 2018).
+    Observe-se incidir o teto remuneratório sobre o valor da pensão, não se tratando de regra de cálculo do benefício.
+    3. Conheço e desprovejo o agravo.
+    4.Publiquem.
+Brasília, 24 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
