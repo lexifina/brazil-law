@@ -1,0 +1,60 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A contra decisão do Tribunal de Justiça do Estado de São Paulo,que não admitiu recurso especial manejado contra acórdão assim ementado:
+PLANO DE SAÚDE COLETIVO RESILIÇÃO DE CONTRATO COLETIVO EMPRESARIAL PRETENSÃO À MANUTENÇÃO DA COBERTURA MEDIANTE INCLUSÃO DA BENEFICIÁRIA E SUA AGREGADA EM PLANO INDIVIDUAL OU FAMILIAR ADMISSIBILIDADE CONTROLE DA DENÚNCIA IMOTIVADA PELOS PRINCÍPIOS COGENTES DA FUNÇÃO SOCIAL DO CONTRATO E DA BOA - FÉ OBJETIVA INTELIGÊNCIA DA RESOLUÇÃO Nº 19 DO CONSU QUE GARANTE A ADESÃO DOS SEGURADOS A PLANO OU SEGURO DE ASSISTÊNCIA À SAÚDE NA MODALIDADE INDIVIDUAL OU FAMILIAR SE CANCELADO O BENEFÍCIO SEM NOVOS PRAZOS DE CARÊNCIA PRÊMIO QUE DEVERÁ SER COMPATÍVEL VALORES DE MERCADO E REAJUSTES PELOS ÍNDICES AUTORIZADOS PELA ANS PARA CONTRATOS DA MESMA NATUREZA ATENDIMENTO DOMICILIAR DA GENITORA DA REQUERENTE ADMISSIBILIDADE EXCLUSÃO CONTRATUAL DO HOME CARE QUE AFRONTARIA A FUNÇÃO SOCIAL DO CONTRATO DE SAÚDE IMPEDINDO O ACESSO DA SEGURADA AO TRATAMENTO DE MOLÉSTIAS COBERTAS PELO CONTRATO SÚMULA 90 DO TJSP MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA AUTORA ADMISSIBILIDADE RECURSO DA AUTORA PROVIDO E RECURSO DA RÉ IMPROVIDO COM OBSERVAÇÃO (e-STJ, fl. 526)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do especial, alega a recorrente violação aosartigos 422 do CC/02 e 30 da Lei 9.656/98, alega a impossibilidade de migração dos recorridos para um plano de saúde individual/familia, mesmo após a empresa estipulante contratar uma nova operadora de saúde para seus funcionários e ex-funcionários.
+Defende, em síntese, que apesar de reconhecer a existência do direito de continuidade no plano previsto na Lei 9.656/98, porém destaca que a operadora não pode ser obrigada a manter um beneficiário de um plano que não mais existe, sendo que a responsabilidade por sua migração para um novo plano seria de sua ex-empregadora.(e-STJ Fl.546)
+Acenou, ainda, com divergência de interpretação jurisprudencial.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+No que tange à alegada violação aos artigos 422 do CC/02, tem-se que sobre a matéria de que tratam não houve emissão de juízo pelo acórdão recorrido, tampouco oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 282 do STF.
+Nas razões da presente insurgência especial, OPERADORA afirmou, com base na legislação de regência, que é legítima a exclusão de beneficiário deplano de saúdecoletivo quando há o cancelamento por parte de seu empregador, pois o regramento específico não subsiste após o cancelamento, não podendo ser obrigada a oferecer plano individual após o exaurimento do direito pelo esgotamento do período de continuidade.
+O entendimento dominante nesta Corte, contudo, é de que o desfazimento contratual unilateral, em regra, é válido. No entanto, revela-se abusivo quando realizado durante o tratamento médico que possibilite a sobrevivência ou a manutenção da incolumidade física do beneficiário.
+Sendo assim, observa-se que o acórdão recorrido está em sintonia com a jurisprudência do STJ, conforme se depreende dos seguintes trechos do aresto:
+De acordo com a petição inicial, a requerente e sua genitora esta na qualidade de agregada eram beneficiárias de plano de saúde coletivo estipulado entre o Conselho Regional de Odontologia, que é sua empregadora, e NOTRE DAME INTERMÉDICA SAÚDE S/A.
+A genitora da requerente utilizava de forma assídua os tratamentos médicos oferecidos pelo plano.
+Em setembro de 2.018 se submeteria a uma cirurgia de prótese de quadril (fl. 09). Entretanto, a requerida houve por bem resilir o contrato de plano de saúde coletivo firmado com o Conselho Regional de Odontologia.
+A estipulante contratou nova operadora, a ALL ALLCARE ADMINISTRADORA DE BENEFÍCIOS EM SAÚDE LTDA. (fl. 252).
+Entretanto, o novo contrato de plano de saúde não cobre despesas médicas de agregados, de modo que a adesão ao plano não ampararia a genitora da requerente.
+Considerando abusiva a extinção repentina do contrato de plano de saúde, a autora ajuizou a presente demanda para compelir o plano de saúde a manter o contrato coletivo, com a cobrança dos mesmos valores de mensalidades, sob pena de multa diária; ou, subsidiariamente, compelir a requerida a lhes oferecer plano de saúde individual, nas mesmas condições do plano coletivo.
+Também pugnou pela manutenção dos serviços de home care prescritos a sua genitora.
+São os fatos postos a julgamento.
+Correta a r. Sentença, ao acolher o pedido subsidiário de realocação da autora e de sua dependente em plano individual ou familiar compatível com o plano coletivo extinto.
+(..)
+Correta a r. Sentença também no tocante à manutenção do atendimento domiciliar da genitora da demandante.
+A necessidade da fisioterapia domiciliar é confirmada pelo atestado médico de fls. 243 e, ademais, intuitiva, já que a genitora da requerente é idosa, recupera-se de tratamento de câncer e teve prescrita a colocação de prótese no quadril.
+Acrescente-se que o tratamento domiciliar revela-se mais conveniente a ambas as partes. À ré, em razão do alto custo que teria tratamento equivalente que exigiria a permanência da paciente em hospital, ou estabelecimento semelhante. À genitora da demandante, por poder permanecer ao lado da família, assistida com maior conforto e solidariedade humana, e afastada do risco de infecções hospitalares.
+(..)
+No presente caso, há prescrição médica nos autos a atestar que a paciente necessita de modalidade de home care.
+De fato, é intuitiva a necessidade da enferma de gozar do atendimento domiciliar, diante de seu quadro clínico, com a capacidade de locomoção comprometida. (e-STJ, fls. 530/537 - grifou-se)
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDECOLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF.RESCISÃO UNILATERAL.BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante oplano de saúdecoletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.298.878/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 23/10/2018, DJe 31/10/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER.PLANO DE SAÚDECOLETIVO.RESCISÃO UNILATERAL.BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não obstante oplano de saúdecoletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência. Nesse sentido: AgInt no AREsp 1.085.841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe de 04/04/2018; AgInt no AREsp 1.072.700/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017; AgRg no AREsp 624.420/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/03/2015, DJe de 07/04/2015).
+2. Agravo interno não provido.
+(AgInt no AREsp 1.274.617/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 16/8/2018, DJe 24/8/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. APLICAÇÃO DO DISPOSTO NO ART. 3º DA RESOLUÇÃO CONSU N. 19/1999. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. 3. RESILIÇÃO UNILATERAL DO CONTRATO DEPLANO DE SAÚDEDURANTE O PERÍODO EM QUE A PARTE SEGURADA ESTÁ SUBMETIDA A TRATAMENTO MÉDICO DE URGÊNCIA OU DE EMERGÊNCIA. CONDUTA ABUSIVA.DANOS MORAISCONFIGURADOS. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica do enunciado n. 283 da Súmula do STF.
+3. A jurisprudência desta Corte considera abusiva a rescisão contratual deplano de saúde,por parte da operadora, independentemente do regime de contratação (individual ou coletivo), durante o período em que a parte segurada esteja submetida a tratamento médico de emergência ou de urgência garantidor da sua sobrevivência e/ou incolumidade física, em observância ao que estabelece o art. 35-C da Lei n. 9.656/1998. Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.226.181/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/5/2018, DJe 1/6/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDECOLETIVO. RESILIÇÃO UNILATERAL. POSSIBILIDADE. BENEFICIÁRIO EM TRATAMENTO. EXCEÇÃO. BOA-FÉ. DIVERGÊNCIA INTERNA. DECISÃO SINGULAR QUE, ADEMAIS, FOI RECONSIDERADA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA. ARTIGO 1.021, § 4º, DO CPC.
+1. "Oplano de saúdecoletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009).
+2. Nada obstante, no caso de usuário internado, independentemente do regime de contratação doplano de saúde(coletivo ou individual), dever-se-á aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença" (AgInt no AREsp 885.463/DF, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/3/2017, DJe 8/5/2017).
+2. A indicação de decisão em sentido contrário ao julgado agravado, que foi reconsiderada, informação omitida pelo recorrente, demonstra tentativa de induzir em erro o colegiado e torna o recurso manifestamente inadmissível.
+3. Agravo interno a que se nega provimento, com aplicação de multa de 2% (dois por cento) sobre o valor da causa.
+(AgInt no AREsp 1.085.841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 20/3/2018, DJe 4/4/2018 - grifou-se)
+Portanto, o acórdão recorrido encontra-se alinhado com a jurisprudência desta Corte no sentido de que, antes de pôr fim à relação contratual, a OPERADORA deve aguardar a conclusão do tratamento médico garantidor da sobrevivência ou incolumidade física do paciente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo,negar provimento aorecurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. CONTRATO DEPLANO DE SAÚDECOLETIVO EMPRESARIAL. RESILIÇÃO UNILATERAL. REALIZAÇÃO DURANTE O PERÍODO DE TRATAMENTO MÉDICO GARANTIDOR DA SOBREVIVÊNCIA OU A MANUTENÇÃO DA INCOLUMIDADE FÍSICA DO BENEFICIÁRIO. ABUSIVIDADE. PRECEDENTES. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. DISSÍDIO JURISPRUDENCIAL.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
