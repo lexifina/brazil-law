@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MINISTÉRIO PÚBLICO estadual contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar o acórdão de fls. 818/833, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Quanto à controvérsia em exame, aponta o Parquet negativa de vigência do art. 302, caput, do CTB, associada à redação do art. 70 do CP, ao raciocínio de que, como há no caso vertente "prova suficiente e apta à condenação do acusado pelo crime" (fl. 847) vertido na prefacial acusatória, o restabelecimento do provimento de fls. 695/704 é medida que se impõe.
+Para tanto, explicita os seguintes argumentos:
+O objeto do presente recurso não é o reexame do conjunto fático-probatório, mas a revaloração dos elementos extraídos diretamente do acórdão publicado pelo Tribunal de Justiça de Sergipe, que desconsiderou a existência de prova suficiente e apta à condenação do acusado pelo crime praticado. (fls. 847).
+Da leitura atenta a este caderno processual, percebe-se que as provas são uníssonas em apontar que o acusado praticou a conduta ilícita amoldada ao que reverbera do art. 302, caput, do CTB, por três vezes, na forma do art. 70 do Código Penal. (fls. 852).
+No entanto, o acervo de convencimento captado durante a instrução do feito sustenta o restabelecimento da decisão condenatória proferida pelo Juízo de origem. (fls. 853).
+Forte em tais considerações, inconteste a existência de material cognitivo apto a ensejar a reforma da decisão Colegiada ora adversada, desaguando na condenação do acusado pela prática do delito multimencionado (art. 302, caput, da Lei nº 9.503/97 c/c art. 70 do CP). (fls. 861).
+É, no essencial, o relatório. Decido.
+No que concerne ao tema controvertido, o Tribunal de origem, ao prover o apelo defensivo, exortou:
+ ..  há divergência em relação  ..  apresentado pelo assistente técnico à fl. 220 e o laudo à fl. 177, pois aquele aponta a colisão pelo do caminhão, enquanto este afirma que o veículo danos do seu lado esquerdo (motorista), o que de não estava em diagonal quando houve o abalroamento.
+Por fim, quando interrogado logo após o acidente afirmou não se recordar de como aquele ocorre que, quando ouvido em Juízo, disse que foi o caminhão que invadiu a sua mão de direção  ..
+Por todo o exposto é forçoso reconhecer  ..  assim a aplicação do in dubio pro reo, a fim de afastar a responsabilidade do réu pelo abalroamento em si.
+ ..
+Como se viu, in casu, o próprio magistrado salientou que há dúvidas de como o acidente ocorreu  ..
+Contudo, não restou demonstrada nos autos a citada inobservância do dever objetivo de cuidado com vítimas. (fls. 827/830 - g.m.
+Da compreensão dos excertos transcritos, infere-se incidir o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto à aspiração ministerial alhures, destinada à condenação do recorrido, porquanto a revisão das premissas assentadas pelo Tribunal a quo demandaria inexorável reexame do acervo fático-probatório carreado aos autos, mister incabível na via eleita.
+Com efeito, é cediço por este Sodalício que "Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição, bem como analisar a existência de dolo na conduta do agente e as possíveis excludentes de ilicitude ou mesmo eventual ocorrência de uma das excludentes de culpabilidade aplicáveis ao caso.  ..  Incidência da Súmula 7 deste Tribunal. (AgRg no AREsp n. 824.317/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 28/03/2016 - g.m.).
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 1.709.116/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2020; AgRg no AREsp 1.648.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 13/10/2020; AgRg no AgRg no AREsp 1.780.664/PB, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/02/2021; AgRg nos EDcl no REsp 1.696.478/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12/11/2020; AgRg no AREsp 1.375.089/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 09/12/2019; AgRg no REsp 1.821.134/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
