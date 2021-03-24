@@ -1,0 +1,22 @@
+DECISÃO
+Por meio deste habeas corpus, postula-se a imediata revogação da prisão preventiva de Alexsandre Pires de Morais (ou Alexandre Pires de Morais) - Processo n. 1501222-89.2021.8.26.0228, da Vara Plantão da comarca de São Paulo -, sob os argumentos, em suma, de falta de fundamentação idônea a amparar a custódia cautelar, de excepcionalidade da medida, diante da situação emergencial de saúde pública decorrente do coronavírus (Covid-19) e de suficiência de medidas cautelares diversas.
+Liminar deferida (fls. 100/101).
+Informações prestadas (fls. 107/108), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 113/115).
+É o relatório.
+Aos fundamentos apresentados na decisão liminar, acrescento estas palavrasdaSubprocuradora-Geral da República Raquel Elias Ferreira Dodge, as quais também adoto como razão de decidir (fls. 114/115 - grifo nosso):
+ ..
+A prisão preventiva dos recorrentes foi determinada e mantida pelo Tribunal de Justiça do Estado de São Paulo em razão da gravidade abstrata do delito de tráfico de drogas:
+Não obstante o louvável esforço defensivo, incabível falar em ausência de fundamentação idônea, visto que o tráfico de drogas é crime que se reveste de enorme gravidade, causando enorme desassossego à ordem pública, disseminando o vício, devastando inúmeras famílias, além de estar, não raro, relacionado a uma gama de outros delitos. Tal potencial deletério constituiu razão mais do que plausível para a opção adotada prudentemente pelo legislador pátrio de equiparar tal delito àqueles enumerados no rol dos hediondos, tornando-o, portanto, insuscetível de indulto, graça ou anistia.É certo que o indivíduo que se propõe a comercializar tal quantidade de entorpecentes representa inequívoca perturbação e perigo à ordem pública, causando temor e insegurança nos arredores de onde pratica o comércio espúrio, não se podendo em absoluto afirmar que o fundamento de garantia da ordem tenha sido invocado de forma genérica pelo Juízo de piso no caso em tela.
+Assim, a decisão encontra amparo no artigo 312 do Código de Processo Penal, pois além de haver indícios de autoria e materialidade, a gravidade e as circunstâncias concretas envolvendo o crime imputado ao paciente recomendam a aplicação do cárcere cautelar como meio de assegurar a ordem pública, a conveniência da instrução criminal e a garantia de aplicação da lei penal.
+Nesse contexto, a revogação de sua prisão preventiva configurar-se-ia como medida temerária, capaz de engendrar perturbação social, não havendo garantia alguma de que, caso solto, não voltará a delinquir. (fls. 87/88)
+Assim, embora a decisão esteja fundamentada na necessidade de garantia da ordem pública, verifica-se que o único fundamento do decreto de prisão preventiva do paciente é a gravidade abstrata do delito, o que não configura motivo idôneo para a manutenção da prisão preventiva. Não restaram demonstradas quaisquer circunstâncias que evidenciassem ser o presente delito mais grave do que o normal à espécie ou o risco concreto de que a liberdade do paciente exporia a risco a ordem pública, ensejando, portanto, a custódia cautelar.
+Ademais, o paciente é primário e a quantidade de droga apreendida - 5,1g de cocaína e 4,7g de maconha - é pequena, não sendo suficiente para demonstrar que o paciente de dedique à atividade criminosa ou faça parte de organização criminosa, pelo que provavelmente lhe será aplicado o tráfico privilegiado no momento da condenação.
+Dessa forma, a prisão preventiva do paciente deve ser substituída por medidas cautelares alternativas.
+Diante do exposto, opino pela concessão do habeas corpus para que a prisão preventiva do paciente seja substituída por medidas cautelares alternativas.
+Ante o exposto,concedoa ordem,para, confirmando a liminar anteriormente deferida,substituir a prisão preventiva imposta aopaciente por medidas cautelares a serem fixadas pelo Juízo de origem (Ação Penal n. 1501222-89.2021.8.26.0228 em curso na 3ª Vara Criminal da comarca de São Paulo), sem prejuízo de nova decretação de prisão preventiva em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (5,1G DE COCAÍNA E 4,7G DE MACONHA).PRISÃO PREVENTIVA. QUANTIDADE DEDROGA QUE, PORSI SÓ, NÃO JUSTIFICA A CUSTÓDIA. EVIDENTE CONSTRANGIMENTO ILEGAL. PARECERACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
