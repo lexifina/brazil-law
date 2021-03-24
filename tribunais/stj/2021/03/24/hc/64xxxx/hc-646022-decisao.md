@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MICHELLE RIBEIRO DE ASSIS contra acórdão proferido pelo Tribunal de Justiça do Estado do Estado de São Paulo (Agravo em Execução n. 0007271-84.2020.8.26.0026).
+Consta dos autos que o Juízo das Execuções Criminais indeferiu pedido de retificação do cálculo de penas para fins de progressão de regime, considerando o lapso temporal de 3/5 (60%), por ser a ré reincidente (e-STJ fls. 34/36).
+Inconformada, a defesa interpôs agravo em execução perante a Corte estadual, pugnando, dentre outros argumentos, pela retificação do cálculo de penas da sentenciada, a fim de fazer constar o percentual de 40% (2/5).
+O Tribunal, então, negou provimento ao recurso (e-STJ fls. 72/79).Na presente impetração, a Defensoria Pública relata que a paciente é reincidente genérico, de modo que o lapso aplicável ao caso da sentenciada é de 40% (quarenta por cento) para progressão de regime.
+Argumenta que se de um lado a executada não é primária, como mencionado pelo inciso V, do artigo 112 da Lei de Execução Penal, de outro, não é reincidente específico, como expressamente exige o inciso VII do mesmo artigo, deve ser aplicada a norma mais favorável a ele, como consequência lógica do princípio do favor rei.
+Pede, assim, liminarmente e no mérito, seja reconhecida a incidência do disposto a incidência do disposto no inciso V do artigo 112 da LEP com redação dadapela Lei n. 13.964/2019, determinando-se a aplicação da fração de 40% (quarenta por cento) no cálculo de penas da paciente.
+Indeferido o pleito liminar (e-STJ fls. 82/83) e prestadas as informações solicitadas (e-STJ fls. 87/95), opinou o Ministério Público Federal "pelo não conhecimento do habeas corpus, mas pela concessão da ordem para determinar que a transferência da Paciente para regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento do percentual de 40% (quarenta por cento) da pena, nos termos do art. 112, inciso V, da Lei de Execução Penal" (e-STJ fls. 99/106).
+É o relatório. Decido.
+De plano, observa-se quea controvérsia declinada na presente impetração já foi objeto de análise neste Superior Tribunal de Justiçapor ocasião do julgamento doHC-640.350/SP, cuja ordem foi concedida de ofício àpaciente,"para determinar que a retificação do cálculo de penas da paciente seja efetuada considerando-se, como requisito objetivo, a exigência do cumprimento de 40% (quarenta por cento) da pena a ele imposta, para fins de obtenção de progressão de regime prisional".
+Assim, satisfeita a pretensão deduzida na impetração, perdeu o objeto o presente writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Intimem-se.
