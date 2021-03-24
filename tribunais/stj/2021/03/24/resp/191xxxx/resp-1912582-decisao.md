@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (fl. 194):
+EXECUÇÃO FISCAL EXCEÇÃO DE PRÉ-EXECUTIVIDADE ISS Exercícios de 2004 e 2005 - Município de São Carlos - Alegação de suspensão da exigibilidade do crédito, nos termos do artigo 151, inciso IV do CTN - Exceção de pré-executividade acolhida em primeiro grau - Questão incontroversa - Extinção do feito (art. 803-I do CPC) - Irresignação da executada, quanto à verba honorária - Fixação com base no art. 85 § 8º do CPC - Postulação pela majoração, a teor do artigo 85, § § 2º e 3º, do CPC/2015 - Direito exclusivo do advogado art. 85 § 14 do CPC - Ilegitimidade recursal da apelante - Extinção bem decretada - Débito inexigível - Carência de execução da municipalidade - Crédito com exigibilidade suspensa - Sentença mantida - Recurso oficial, considerado interposto, não provido e apelo da executada não conhecido.
+Embargos de declaração rejeitados.
+A parte recorrente aponta violação dos artigos 23 e 24, § 1º, da Lei 9.806/1994 bem como divergência jurisprudencial. Sustenta, em síntese, que tanto a parte como o patrono possuem legitimidade concorrente para pleitear discussão relativa a honorários advocatícios.
+Com contrarrazões (fls. 222/233).
+Juízo positivo de admissibilidade do recurso às fls. 234/236.
+É o relatório. Passo a decidir.
+A insurgênciamerece prosperar.
+Segundo entendimento pacificado nesta Corte,apesar de os honorários advocatícios constituírem direito autônomo do advogado, consoantedisposto no art. 23 da Lei 8.906/1994, a parte possui legitimidade concorrente para discutir a respeito da verba honorária.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. LEGITIMIDADE CONCORRENTE DA PARTE. RECONHECIMENTO.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. O Superior Tribunal de Justiça pacificou entendimento no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, à luz do disposto no art. 23 da Lei 8.906/1994, a parte possui legitimidade concorrente para discutir a respeito do tema.
+3. Hipótese em que a parte autora interpôs apelação objetivando a fixação de honorários sucumbenciais em favor da Defensoria Pública do Estado de Mato Grosso do Sul, não sendo o recurso conhecido pelo Tribunal de origem, ante o reconhecimento de sua ilegitimidade para, pessoalmente, postular a referida verba.
+4. A existência de eventual óbice à condenação da parte sucumbente ao pagamento de honorários é questão afeta ao mérito do recurso de apelação, a ser apreciado pelo Tribunal de origem, não se confundindo com a prejudicial de ilegitimidade apreciada no apelo nobre.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.864.129/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. HONORÁRIOS DE ADVOGADO. LEGITIMIDADE CONCORRENTE DA PARTE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso em apreço, a parte autora interpôs apelação, visando a fixação de honorários sucumbenciais em favor da Defensoria Pública do Estado de Mato Grosso do Sul, a qual não foi conhecida, ante o reconhecimento da ilegitimidade da apelante para, pessoalmente, postular honorários sucumbenciais.
+2. O Superior Tribunal de Justiça firmou o entendimento de que subsiste a legitimidade concorrente da parte e do advogado para discutir a verba honorária, tendo em vista o disposto no art. 23 da Lei 8.906/94. Precedentes: REsp 1831211/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 18/10/2019) ;
+AgInt no AREsp 1155225/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 07/03/2018.
+3. Destarte, os autos devem ser devolvidos ao Tribunal de origem para que este aprecie a apelação, como bem entender de direito, afastada a premissa de que houve ilegitimidade recursal. Assim, não se está a determinar a fixação de honorários advocatícios, mas apenas o direito à análise de tal pleito recursal pelo Tribunal a quo. Analisar o mérito do pleito deduzido na apelação interposta pela parte autora, que sequer foi conhecida na origem, representaria indevida supressão de instância.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.869.247/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO.APLICABILIDADE DA MP 567/2012, CONVERTIDA NA LEI 12.703/2012, APÓS SUA ENTRADA EM VIGOR. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. PLEITO RECURSAL DE MAJORAÇÃO. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE. POSSIBILIDADE. INTERPRETAÇÃO DO ART. 23 DA LEI 8.906/1994.
+1. A controvérsia devolvida no Recurso Especial cinge-se, em um dos pontos, à legitimidade da parte que titulariza o direito material discutido na ação para postular, em recurso de Apelação, a majoração dos honorários sucumbenciais fixados na sentença.
+2. O Tribunal de origem entendeu que faltaria a esta interesse em recorrer para elevá-lo, uma vez ser defeso postular em nome próprio direito alheio (art. 6º do CPC/1973).
+3. A jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los, ante a ratio essendi do art. 23 da Lei nº 8.906/94 (REsp 828.300/SC, Rel. Ministro Luiz Fux, Primeira Turma, DJe de 24/4/2008). Nesse sentido: AgRg no REsp 1.644.878/SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/5/2017, DJe 24/5/2017; REsp 1.596.062/SP, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Segunda Turma, julgado em 7/6/2016, DJe 14/6/2016; AgRg no REsp 1.466.005/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 17/9/2015, DJe 29/9/2015;AgRg no REsp 1.378.162/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/2/2014, DJe 10/2/2014.
+4. Recurso Especial parcialmente provido, determinando o retorno dos autos à origem para que o Tribunal a quo aprecie o recurso de Apelação da parte autora sem o óbice da ilegitimidade recursal.
+(REsp 1.800.042/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019)
+Verifica-se que o acórdão recorrido encontra-se em dissonância com o entendimento do STJ a respeito do tema, motivo pelo qual merece reforma.
+Ante o exposto, dou provimento ao recurso especial para reconhecer a legitimidade concorrente da parte para discutir os honorários advocatícios. Determino o retorno dos autos ao Tribunal de origem para apreciar a Apelação da ora recorrente, sem o óbice da ilegitimidade recursal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE CONCORRENTE DA PARTE E DO ADVOGADO PARA DISCUTIR A RESPEITO DA VERBA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
