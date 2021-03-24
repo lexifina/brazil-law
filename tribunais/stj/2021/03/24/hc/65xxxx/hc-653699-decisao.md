@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Leonardo de Oliveira Paes- o qual cumpre pena privativa de liberdade de 6anos e 4 meses de reclusão, em razão de condenações pela prática dos crimes de roubo circunstanciado e receptação, e queingressou com pedido de progressão ao regime semiaberto, com a alegação de que preenche os requisitos legais, sendo que foi determinadapelo Juízo da execução a realização do exame criminológico(PEC n.0003767-41.2018.8.26.0996) -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao Agravo de Execução Penal n.0000005-12.2021.8.26.0996.
+Alega-se, em síntese, constrangimento ilegal na submissão do paciente a exame criminológico, argumentando-se que,na hipótese em tela, inexiste qualquer motivo que justifique a realização do exame criminológico como requisito para a obtenção da progressão de regime almejada pelo paciente, requisito essencial para configurar a necessidade de realização do exame(fl. 12).
+Postula-se, então, a concessão liminar da ordem para que seja deferido o benefício ao paciente, independentemente de sua prévia submissão à perícia em questão.
+É o relatório.
+O presente writ não comporta processamento.
+OSuperior Tribunal sumulou o entendimento de que se admiteo exame criminológico pelas peculiaridades do caso, desde que em decisão motivada(Súmula 439/STJ). Logo,tendo as instâncias ordinárias se referidoao fato de que, além de o paciente ter praticadocrimes com violência e grave ameaça à pessoa e de ter longa pena a cumprir, cometeu faltadisciplinar de natureza grave(17/10/2019) e duas evasões (4/1/2018 e 17/10/2019)no curso do cumprimento da pena, não se verificao constrangimento alegado na inicial.
+Ora, esta Corte Superior entende que cumpre ao julgador verificar, em cada caso, acerca da necessidade, ou não, de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada na conduta do apenado no decorrer da execução, o que se constata na espécie (AgRg no HC n. 634.075/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/3/2021, DJe 5/3/2021 - grifo nosso).
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmentea inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. INCIDÊNCIA. APENADO QUE OSTENTA INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVEE DUAS EVASÕES NO CURSO DO CUMPRIMENTO DA PENA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferidoliminarmente.
