@@ -1,0 +1,16 @@
+D E C I S Ã O
+    Cuida-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que reconheceu o direito da ora recorrida à aposentadoria especial, mediante o cômputo do período exercido em cargos efetivos de Diretora de Escola e de Supervisora de Ensino, com o consequente pagamento de abono de permanência desde a data do indeferimento do pedido administrativo até a data da efetiva concessão.
+    Pontuo, por relevante, o reconhecimento expresso da recorrida, na inicial, que “(...) ingressou no Serviço Público Estadual na Função Atividade de Professor II aos 18/03/1991, tendo permanecido até aprovação em concurso público para o cargo de Professor de Educação Básica II, que se iniciou em 17/08/1994 e, posteriormente, ingressado no cargo de Diretor de Escola, mediante aprovação em concurso aos 26/12/2002” (evento 1, pág. 2— com meus grifos).
+    É o relatório. Decido.
+    Consigno, desde logo, que o Supremo Tribunal Federal já assentou que "As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 52, e 201, § 82, da Constituição Federal" (ADI 3.772/DF, Redator p/ o acórdão Ministro Ricardo Lewandowski – com meus grifos).
+    Ademais, no âmbito da repercussão geral, esta Suprema Corte reafirmou sua jurisprudência, assentando a seguinte tese (Tema n. 965): "Para a concessão da aposentadoria especial de que trata o art. 40, § 5º, da Constituição, conta-se o tempo de efetivo exercício, pelo professor, da docência e das atividades de direção de unidade escolar e de coordenação e assessoramento pedagógico, desde que em estabelecimentos de educação infantil ou de ensino fundamental e médio" (RE 1.039.644/SC, Ministro Alexandre de Moraes – com meus grifos).
+    O acórdão recorrido diverge dos aludidos entendimentos.
+    Em casos fronteiriços, há – entre muitos outros – os seguintes precedentes: ARE 1.190.140/SP, Ministro Celso de Mello; ARE 1.237.685/SP, Ministro Alexandre de Moraes; ARE 1.258.844/SP, Ministro Luiz Fux; ARE 1.270.116-AgR/SP, Ministra Cármen Lúcia. Ilustra essa orientação, ainda, o seguinte acórdão:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidor Público. Professor. Aposentadoria Especial. Art. 40, § 52, CF/88. Extensão a ocupantes de cargos de direção, coordenação e assessoramento pedagógico do Município de São Bernardo do Campo que não integram a carreira de professor e não exercem as referidas atividades além da docência. Impossibilidade. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental desprovido."
+    (ARE 1.057.346-AgR/DF, Ministro Gilmar Mendes – com meus grifos)
+    Em face do exposto, com fundamento na alínea b do inciso V e no inciso VIII, ambos do art. 932 do CPC, c/c § 1ºdo art. 21 do RISTF, dou provimento ao recurso extraordinário para restabelecer a sentença proferida pelo douto Magistrado de primeira instância.
+    Invertam-se os ônus da sucumbência.
+    Publique-se.
+    Brasília, 24 de março de 2021.
+Ministro NUNES MARQUES
+Relator
