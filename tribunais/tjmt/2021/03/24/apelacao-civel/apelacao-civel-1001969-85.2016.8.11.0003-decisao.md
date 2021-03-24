@@ -1,0 +1,41 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1001969-85.2016.8.11.0003
+RECORRENTE: LOUIS DREYFUS COMPANY BRASIL S.A
+RECORRIDO: PEDROMAR TRANSPORTES LTDA
+Vistos.
+Trata-se de Recurso Especial (id. 71181491) interposto por LOUIS DREYFUS COMPANY BRASIL S.A, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Privado, assim ementado (id 54786494):
+APELAÇÃO CÍVEL - AÇÃO DE EXIBIÇÃO DE DOCUMENTOS - CONTROLES DE CARGA, DESCARGA E ENTREGA – INTERESSE DE AGIR – ARTIGO 381, III DO CPC – SENTENÇA ANULADA – NECESSIDADE DE EMENDA À INICIAL – JUNTADA DE PEDIDO ADMINISTRATIVO E A RECUSA – RETORNO DOS AUTOS – RECURSO PARCIALMENTE PROVIDO. A Terceira Turma do Superior Tribunal de Justiça, no julgamento do Recurso Especial n.o 1.803.251/SC, relatoria do Min. Marco Aurélio Bellizze, firmou entendimento no sentido de ser cabível a ação autônoma de exibição de documentos na vigência do atual Código de Processo Civil. Sob outro aspecto, para confirmar o interesse processual necessário se faz que a parte seja intimada para comprovar o pedido administrativo e sua inacessibilidade.
+(TJ-MT - AC: 10019698520168110003 MT, Relator: SEBASTIAO BARBOSA FARIAS, Data de Julgamento: 02/09/2020, Primeira Câmara de Direito Privado, Data de Publicação: 03/09/2020)
+Opostos Embargos de Declaração (id 57665466), estes foram rejeitados (id 67411480).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Apelação, interposta por PEDROMAR TRANSPORTES LTDA, que deu parcial provimento ao recurso para anular a sentença proferida nos autos da Ação de Exibição de Documentos, proposta contra LOUIS DREYFUS COMPANY BRASIL S.A., que julgou extinto o feito, com fundamento no artigo 485, I, do CPC, e determinar o retorno dos autos à origem, intimando-se a autora para emendar a inicial e apesentar o pedido administrativo, a recursa expressa ou a demonstração do transcurso de tempo razoável.
+A Recorrente alega a violação aos artigos 5o, inciso LV e 93, inciso IX, da Constituição Federal e 9; 10; 489, § 1o, inciso IV e 1.022, II do CPC, ao argumento de que “(...) (i) o julgamento do recurso de apelação interposto pela ora Recorrida não considerou os argumentos ofertados nas contrarrazões, incorrendo, desse modo, em nulidade e, consequentemente, em omissão, uma vez que não se pronunciou acerca de questões importantíssimas relacionadas ao caso em tela; (ii) não foi objeto de profunda análise a inadequação da via processual eleita pela ora Recorrida, uma vez que, como é cediço e pacificado nesta C. Corte, não há qualquer respaldo jurídico para ajuizamento de procedimento cautelar autônomo para exibição de documentos; e (iii) não foi considerando que a ora Recorrida sequer comprovou nos autos o requerimento administrativo prévio ao ajuizamento da ação. (...)”.
+Aponta, além de divergência jurisprudencial, a violação aos artigos 321, 382 e 396 a 404 do Código de Processo Civil, ao argumento de que “(...) restou demonstrado a completa falta de interesse de agir da Recorrida seja em relação a ausência de solicitação prévia e administrativa de exibição de documentos ou pela falta de motivação plausível a justificar o ajuizamento da demanda originária para obter mencionados documentos (...)”.
+Recurso tempestivo (id 71460494) e preparado (id 71466466).
+Contrarrazões apresentadas intempestivamente (id 76524493).
+É o relatório. Decido.
+Da sistemática de recursos repetitivos.
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+Como se vê do relatório, o aresto combatido deu parcial provimento ao recurso de Apelação interposto pela Recorrida para determinar o retorno dos autos ao juízo de origem, a fim de que fosse intimada para emendar a inicial, juntando aos autos o pedido administrativo, a recusa expressa ou a demonstração do transcurso de tempo razoável do requerimento.
+Quanto a este ponto, o acórdão recorrido restou fundamentado nas seguintes razões:
+“(...) Por fim, tenho que a causa não esteja madura, pois, entendo imprescindível que seja determinado à parte a emenda à inicial, juntando aos autos prova da solicitação dos documentos via administrativa, a negativa expressa ou o decurso de prazo razoável, para fins de apuração do interesse processual sob outro aspecto.
+A respeito da necessidade do pedido administrativo:
+“AÇÃO DE EXIBIÇÃO DE DOCUMENTOS - CONTROLES DE CARGA, DESCARGA E ENTREGA - OBJETOS ACESSÍVEIS À TRANSPORTADORA PROPRIETÁRIA DOS CAMINHÕES - AUSÊNCIA DE INTERESSE PROCESSUAL - NÃO FORMULADO PEDIDO ADMINISTRATIVO PRÉVIO - HONORÁRIOS ADVOCATÍCIOS ADEQUADOS - APLICABILIDADE DO § 8o DO ART. 85 DO CPC/2015 - RECURSO NÃO PROVIDO. Somente se reconhece a existência de interesse processual quando a parte, após aguardar prazo razoável, não recebe os documentos postulados na via administrativa, demonstrando assim sua inacessibilidade. Nos casos em que o valor da causa for muito baixo os honorários advocatícios devem ser estipulados mediante apreciação equitativa (§ 8o do art. 85 do CPC/2015). E se arbitrados em quantia adequada e razoável, diante da responsabilidade assumida e do tempo dispendido pelo profissional para a prestação do serviço, não comportam minoração.”. (TJ-MT - AC: 10030446220168110003 MT, Relator: RUBENS DE OLIVEIRA SANTOS FILHO, Data de Julgamento: 26/07/2017, Vice-Presidência, Data de Publicação: 28/07/2017)
+A respeito da possibilidade de emenda da inicial, registro que no caso é viável, pois não é o caso de alteração da causa de pedir. (...)”
+Nesse contexto, a Recorrente alega a violação aos artigos 321, 382 e 396 a 404 do Código de Processo Civil, ao argumento de que “(...) restou demonstrado a completa falta de interesse de agir da Recorrida seja em relação a ausência de solicitação prévia e administrativa de exibição de documentos ou pela falta de motivação plausível a justificar o ajuizamento da demanda originária para obter mencionados documentos (...)”.
+Com efeito, constata-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ). Também não incide, no caso, nenhuma outra súmula impeditiva.
+Ademais, em caso semelhante, o STJ já decidiu no sentido de que, na Ação de Exibição de Documentos, a ausência de prévio requerimento administrativo resulta em ausência de interesse de agir. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTO. AÇÃO AUTÔNOMA. INTERESSE DE AGIR INEXISTENTE. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. 1. Nos termos da jurisprudência do STJ, "nas ações de exibição de documentos, a ausência de prévio requerimento administrativo denota a ausência de interesse de agir" (AgInt no AREsp 1.403.993/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe de 29.3.2019). 2. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(STJ - AgInt no AREsp: 1546118 SP 2019/0210649-4, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 20/04/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 04/05/2020)
+A partir dessas premissas, impõe-se a admissão do recurso.
+Ante o exposto, com fundamento no artigo 1.030, V, “a”, do CPC, dou seguimento ao recurso pela aduzida afronta legal.
+Em interpretação conjunta do artigo 1.034, parágrafo único, do CPC, e à Súmula 292/STF, fica dispensado o exame dos demais dispositivos supostamente violados.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
