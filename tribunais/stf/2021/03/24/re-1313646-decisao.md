@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXVI, 194, III, 195, § 5º, e 201, caput, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "No presente caso, verifica-se que a parte autora é titular do benefício de Aposentadoria por Invalidez NB 32/166.026.755-0, com DIB (data de início do benefício) em 19/08/2013, tendo sido convocada para reavaliação pericial aos 08/08/2018, ocasião em que a perícia médica administrativa concluiu que pela não persistência da incapacidade, o que levou o INSS a estabelecer data de cessação do benefício.
+    A pretensão da autora é de manutenção/restabelecimento da Aposentadoria por Invalidez que lhe fora concedida anteriormente, uma vez que, convocada pelo INSS para reavaliação pericial, fora estabelecida pela administração data de cessação do benefício.
+    É verdade que o § 4º do artigo 43 da Lei nº 8.213/1991 estabelece que o segurado aposentado por invalidez poderá ser convocado a qualquer momento para avaliação das condições que ensejaram o afastamento ou a aposentadoria, concedida judicial ou administrativamente, observado o disposto no artigo 101.
+    De se concluir, portanto, que o INSS, em princípio, não pratica qualquer ilegalidade quando convoca a parte autora para a uma nova perícia médica.
+    No entanto, a Lei nº 13.847, de 19 de junho de 2019, que entrou em vigor na data de sua publicação, deu nova redação ao § 5º do supracitado artigo 43 da Lei nº 8.213/1991, estabelecendo que 'a pessoa com HIV/aids é dispensada da avaliação referida no § 4º desde artigo'.
+    (...)
+    Com efeito, diante da presunção legal estabelecida pela Lei nº 13.847/2019, que classifica como irreversível o quadro clínico daqueles segurados portadores do vírus HIV que foram aposentados por invalidez, deve ser dado provimento ao recurso da parte autora, visto lhe assistir direito à manutenção da aposentadoria por invalidez.
+    Ademais, o que se extrai da inteligência da lei, a dispensa de convocação para reavaliação alcança o portador do vírus HIV, ainda a concessão da aposentadoria tenha sido motivada por outra patologia."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do órgão judiciário de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 24 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
