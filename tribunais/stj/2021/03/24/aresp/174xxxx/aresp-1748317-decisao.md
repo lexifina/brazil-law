@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado por LABORATORIO ALFA LTDA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 630):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ISSQN. ALÍQUOTA. ATIVIDADE DE VACINAÇÃO. MUNICÍPIO DE CAXIAS DO SUL. ORDEM DENEGADA.
+A ordem jurídica brasileira prevê o mandado de segurança como remédio constitucional para defesa e garantia de direito líquido e certo contra atos ilegais praticados por autoridade pública, na forma do artigo 5º, LXIX, da Constituição Federal.
+Nos termos do Tema 217 do STJ, o pagamento de tributos com alíquotas reduzidas para os serviços hospitalares exige interpretação objetiva desta expressão, de forma a englobar àqueles desenvolvidos pelos hospitais destinados à promoção da saúde.
+No caso, a atividade de vacinação não se caracteriza como serviços hospitalares a ensejar a redução da alíquota de ISSQN. Inexistência de direito líquido e certo. Segurança denegada.
+APELAÇÃO DESPROVIDA. UNÂNIME.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º da Lei 12.016/09; e 165 do CTN. Sustenta, em síntese, que deve ser "reconhecido o enquadramento da atividade da recorrente na definição de serviços hospitalares, para o fim de aplicação de recolhimento da alíquota de 2% e não 4%" (fl. 687), bem como o direito à compensação dos valores pagos indevidamente.
+Parecer do Ministério Público pelo desprovimento do recurso (fls. 862/869).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com relação ao art. 1º da Lei 12.016/09, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal de que deve ser "reconhecido o enquadramento da atividade da recorrente na definição de serviços hospitalares, para o fim de aplicação de recolhimento da alíquota de 2% e não 4%" (fl. 687) e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ademais, a matéria pertinente ao art. 165 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, destaca-se o seguinte trecho da decisão vergastada (fls. 640/642):
+A controvérsia exige a classificação da atividade desenvolvida pela impetrante como de "serviços hospitalares para promoção da saúde" ou não, a ensejar a aplicação da alíquota de 2 ou 4%, nos termos da Legislação Municipal.
+Em que pese os serviços de vacinação estarem relacionados à promoção da saúde, a referida atividade não exige, por parte da demandante, altos custos nos termos dispendidos pelos hospitais a ensejar a redução da alíquota.
+(..)
+No caso da Lei Complementar Municipal nº 399/2011 dispôs acerca de alíquota mais vantajosa para as atividades desenvolvidas por hospitais, clinicas com internação e laboratórios médicos. A unidade (filial) da parte impetrante pela qual se objetiva redução de alíquota de ISSQN realiza atividade de vacinação, de forma que não pode ser enquadrada como serviços prestados a hospitais, clinicas e laboratórios, com previsão de alíquota de 2% (dois por cento), pelo contrário, as atividades desenvolvidas não se identificam com os serviços prestados em hospitais em benefício da saúde.
+No ponto, trago à colação parte da fundamentação que ora adoto como razões de decidir:
+Em que pese a execução da atividade de vacinação ter relação com a saúde, esta não constitui atividade normalmente desenvolvida em hospitais, não possui custos diferenciados, prescinde de prescrição médica como intensiva supervisão deste tipo de profissional, de modo que inviável reconhecer que a atividade desenvolvida pela autora, de aplicação de vacinas, se enquadre como serviços hospitalares, para fins de redução de alíquotas.
+Somado a isso, inexiste ofensa ao Princípio da Capacidade Contributiva, na forma do art. 145, § 1o da Constituição Federal. Nos termos já referidos, os custos de serviços de vacinação não podem ser assemelhados aos serviços desenvolvidos nos hospitalares. Portanto, inaplicável a alíquota prevista na alínea "b" do item III, da Tabela 03, da Lei Complementar nº 399/11.
+Por fim, o entendimento exarado nos autos do EDcl no REsp nº 178.845-RS foi proferido de forma monocrática, aclarando a situação fática em análise, de forma que não vincula a presente decisão.
+Diferentemente do sustentado pela parte impetrante, a vacinação não está relacionada as atividades desenvolvidas nos hospitais, de forma que não faz jus à alíquota de 2% na forma da Lei Complementar nº 399/11.
+Nesse cenário, inexiste direito líquido e certo a assegurar a pretensão do mandamus.
+Verifica-se que, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Complementar Municipal 399/2011), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
