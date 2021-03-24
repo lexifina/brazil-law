@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ ALBERTO PEREIRA GONÇALVES e PAULO AFFONSO GENEROSO, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 1958/1964,in verbis:
+Trata-se de Recurso Especial interposto em favor de Luiz Alberto Pereira Gonçalves e outro, com fundamento no artigo 105, III alínea "a" da CF, irresignado com a respeitável decisão proferida pelo Tribunal Regional Federal da 2ªRegião.
+2. Sustenta o recorrente, em síntese, contrariedade ao artigo381, III do CPP, por ausência de fundamentação da sentença condenatória, quanto à autoria e materialidade do delito, sendo que não esclareceu a sentença condenatória quais seriam as condutas concretas imputadas ao réus. Aduz, que dessa forma, é nula a sentença que não se encontra fundamentada, sendo indispensável que apresente correlação com a descrição dos fatos postos na denúncia. Requer o provimento do recurso para anular a sentença condenatória.
+OParquetopinou pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Antes de adentrar o mérito do recurso, verifico que a pretensão, no particular, está prescrita. Como cediço, a prescrição, por se tratar de matéria de ordem pública, e nos termos do art. 61 do Código de Processo Penal, deve ser examinada a qualquer tempo, mesmo na instância superior.
+Inicialmente, consigne-se que o Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal,pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, "nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta"(EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+Ainda, a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou quea referida Lei n. 11.596/2007, de 29/11/2007, por ser"lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores".
+Pois bem. Na espécie,o ato criminosopraticado pelos recorrentes se deuantes da entrada em vigor da norma em comento(1997e 1998-e-STJ fls. 4/11), de modo que deve ser considerada, comoúltimo marco interruptivo, a sentença condenatória.
+Portanto,publicada a sentença em 14/8/2008(e-STJ fl. 1.384), e considerando o montante da condenação pela prática do crime do art. 4º da Lei n. 7492/1986(5anos para Luiz Alberto e 4 anos e 6 meses para Paulo Affonso-e-STJ fl. 1.377/1.381), tenho que o prazo prescricional de 12anos (art. 109, III, do Código Penal) foi ultrapassado desde então.
+Dessarte, a pretensão punitiva estatal está fulminada pela prescrição.
+Ante o exposto,concedo a ordem de ofíciopara reconhecer a prescrição da pretensão punitiva,na modalidade intercorrente, razão pela qual extingo a punibilidade dos recorrentescom espeque no art. 107, IV, do CP e, por conseguinte, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
