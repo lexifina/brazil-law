@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido manteve sentença de piso de seguinte teor:
+    Restou incontroverso que o autor deixou de gozar as férias relativas aos exercícios de 2006, 2007, 2008, 2009, 2010, 2011 e 2012, como se extrai da declaração de fl. 12 e que se aposentou após outubro/2013, conforme contracheque de fl. 12, momento a partir do qual o gozo das férias e da licença-prêmio já não seria mais possível. Assim, decorre da vedação ao enriquecimento sem causa da Administração Pública que as férias e as licenças-prêmio não gozadas sejam indenizadas, já que o servidor prestou serviços e destes usufruiu o réu. Nessa perspectiva, já decidiu este TJRJ na Ap. Cível 0198034-25.2014.8.19.0001:
+    (...)
+    A indenização deve corresponder aos vencimentos do autor na data da aposentadoria, servindo como paradigma o vencimento comprovado pelo último contracheque, enquanto na atividade (fl. 13), no valor bruto de R$ 2.269,29. Adota-se a quantia reclamada de R$ 36.269,29 a refletir as parcelas vencimentais do autor.
+    Pelo exposto, REJEITO a questão prejudicial arguida e extinguindo o feito com resolução do mérito, na forma do art. 487, I do CPC, JULGO PROCEDENTE o pedido, para o fim de condenar o réu a indenizar o autor pelas férias e licenças-prêmio não gozadas, correspondentes aos exercícios de 2006-2013 de férias e 1996-2011 de licenças-prêmio, cujo valor final é R$ 36.269,29 (trinta e seis mil, duzentos e sessenta e nove Reais e vinte e nove Centavos), acrescida de correção monetária pelo IPCA-E a contar da aposentadoria do autor e juros de mora, na forma do art. 1º-F da Lei 9.494/97 a contar da citação, conforme decisão adotada pelo STF no RE 870.947 em regime de Repercussão Geral c/c Enunciado 36 do Aviso Conjunto TJ/COJES 15/2017.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput; 37, inciso X; 61, § 1º, inciso II; 93, inciso IX; 167 e 169 da Constituição Federal.
+    Decido.
+    O Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93, inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+    Ademais, a parte recorrente trata de suposta ofensa aos art(s). 5º, caput; 37, inciso X; 61, § 1º, inciso II; 167 e 169 da Constituição Federal, aduzindo que não seriam devidos à parte adversa o abono de permanência integral e o Adicional de Desempenho da Guarda Municipal, matérias de que não se ocupou o acórdão recorrido, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Nesse sentido, os seguintes precedentes: ARE nº 1.164.498/SP-AgR-ED, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 17/5/19; ARE nº 1.170.961/RJ-AgR-segundo, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 5/4/19 e ARE nº 703.083/SP-AgR-segundo, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 21/3/17).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 24 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
