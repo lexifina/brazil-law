@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Samer Talal Abu Allan e outros interpõem recurso extraordinário, com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra acórdão proferido pela 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO. SONEGAÇÃO FISCAL. PROVA ILÍCITA. PROCESSO PENAL. DISCUSSÃO. POSSIBILIDADE. SIGILO BANCÁRIO. FISCAL. ADMINISTRAÇÃO TRIBUTÁRIA DISTRITAL. INFORMAÇÕES. REMESSA. MINISTÉRIO PÚBLICO. AUSÊNCIA DE AUTORIZAÇÃO JUDICIAL. NULIDADE. FISCALIZAÇÃO TRIBUTÁRIA. PODER DE POLÍCIA. AUSÊNCIA DE SIGILO. DADOS. COMUNICAÇÃO. MINISTÉRIO PÚBLICO. CRIME CONTRA A ORDEM TRIBUTÁRIA. POSSIBILIDADE. TEORIA DA DESCOBERTA INEVITÁVEL.
+    A verificação da licitude de elementos de prova fornecidos pela Administração Tributária para fins penais não exige o ajuizamento de ação cível, com a presença do ente político, ou mesmo processo administrativo.
+    A Lei Complementar n.º 105/2001 protege o sigilo bancário, mas estabelece que as instituições financeiras têm o dever de informar o Fisco as operações financeiras realizadas por seus clientes.
+    O STF reconheceu a constitucionalidade do encaminhamento de tais informações pelas instituições financeiras à Administração Tributária de todos os entes federados, nos moldes do arts. 5º e 6º da Lei Complementar n.º 105/2001, e asseverou que tal providência não configura quebra de sigilo, mas apenas transferência.
+    A Administração Tributária pode utilizar os dados obtidos com fulcro na Lei Complementar n.º 105/2001 para constituir o crédito tributário.
+    Ao Ministério Público não é franqueado o acesso a informações e documentos protegidos por sigilo bancário ou fiscal, sem autorização judicial, para deflagrar a persecução penal. Precedentes do STJ.
+    São ilícitas, para fins penais, as provas obtidas mediante informações e documentos destinados ao Fisco por administradoras de cartão de crédito, porquanto são sigilosas e o Ministério Público não foi judicialmente autorizado para a elas ter acesso.
+    Por outro lado, as provas decorrentes do exercício da fiscalização tributária, nos termos do art. 195 do CTN, não são acobertadas pelo sigilo (art. 198, § 3º, inc. I, do CTN). Portanto, o Ministério Público pode se valer delas para iniciar a persecução penal.
+    O fato de o início da ação fiscal ter sido deflagrado em razão de informações fornecidas por instituições financeiras não contamina toda a prova produzida, mas apenas aquelas decorrentes diretamente dos dados sigilosos.
+    As demais provas, constituídas mediante fiscalização tributária regular, cuja supressão do tributo foi verificada mediante confronto de livros e documentos fiscais, teriam sido inequivocamente alcançadas, independentemente dos dados sigilosos.
+    Recurso em sentido estrito conhecido e parcialmente provido.”
+    Em decorrência de referido julgamento, foi determinado o prosseguimento da ação penal apenas em relação aos fatos relacionados às provas tidas por lícitas.
+    Inconformados insurgiram-se apenas os contribuintes ora recorrentes, sustentando a inconstitucionalidade “do compartilhamento e/ou transferência de informações bancárias obtidas por meio da quebra de sigilo.”
+    Não admitido o apelo extremo, deduzido por alegada violação ao art. 5º, inciso XII, da Constituição, foi interposto agravo do art. 1.042 do CPC.
+    Em 26/3/2018, determinei a devolução dos autos ao Tribunal de origem, em razão do tema 990 da Gestão por Temas da Repercussão Geral do portal do STF na internet, cujo feito paradigma é o RE nº 1.055.941/SP.
+    O Presidente do Tribunal a quo entendeu que “a matéria em debate no presente processo guarda particularidade que a diferencia daquela tratada especificamente no referido paradigma”, razão pela qual foram os autos novamente remetidos a esta Suprema Corte.
+    Decido.
+    Este Supremo Tribunal Federal, ao examinar o RE nº 1.055.941/SP, concluiu pela existência da repercussão geral da matéria constitucional versada nestes autos. O assunto corresponde ao tema 990 da Gestão por Temas da Repercussão Geral do portal do STF na internet, cujo julgamento já foi finalizado. Eis o teor do aresto:
+    “Repercussão geral. Tema 990. Constitucional. Processual Penal. Compartilhamento dos Relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil com os órgãos de persecução penal para fins criminais. Desnecessidade de prévia autorização judicial. Constitucionalidade reconhecida. Recurso ao qual se dá provimento para restabelecer a sentença condenatória de 1º grau. Revogada a liminar de suspensão nacional (art. 1.035, § 5º, do CPC). Fixação das seguintes teses: 1. É constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil - em que se define o lançamento do tributo - com os órgãos de persecução penal para fins criminais sem prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional; 2. O compartilhamento pela UIF e pela RFB referido no item anterior deve ser feito unicamente por meio de comunicações formais, com garantia de sigilo, certificação do destinatário e estabelecimento de instrumentos efetivos de apuração e correção de eventuais desvios.” (Pleno, de minha relatoria, DJe de 18/3/21).
+    Nessa conformidade, verifica-se que as razões recursais afastam-se do entendimento deste Supremo Tribunal Federal acerca da matéria em questão, razão pela qual não merece ser provido o recurso.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de março de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
