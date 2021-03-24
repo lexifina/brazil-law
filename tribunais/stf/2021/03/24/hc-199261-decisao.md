@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça, proferido no julgamento do Agravo Regimental no Recurso Especial 1.870.086/SP, submetido à relatoria do Ministro NEFI CORDEIRO.
+    Consta dos autos, em síntese, que o paciente foi condenado à pena de 12 anos de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos artigos 33 e 35 da Lei 11.343/2006.
+    O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo.
+    Na sequência, a defesa interpôs Recurso Especial no Superior Tribunal de Justiça. O Ministro relator deu-lhe provimento, para reduzir a pena pelo delito do art. 33, caput, da Lei 11.343/06 a 8 anos e 2 meses de reclusão. Essa decisão foi confirmada pelo colegiado no julgamento do subsequente Agravo Regimental, conforme ementa:
+    AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. COMPENSAÇÃO AGRAVANTE DA REINCIDÊNCIA E ATENUANTE CONFISSÃO ESPONTÂNEA. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL. RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA NO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. AUSÊNCIA DE RECONHECIMENTO DA PRÁTICA DO DELITO DO ART. 35 DA LEI DE DROGAS. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+    1. A jurisprudência desta Corte, no julgamento do EREsp n. 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes.
+    2. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipótese na qual, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+    3. Impossível o reconhecimento da atenuante da confissão espontânea com relação ao crime de associação para o tráfico, uma vez que o réu não admitiu a prática de tal delito.
+    4. Agravo regimental improvido.
+    Nesta ação, a defesa requer a concessão da ordem, para aplicar a compensação de forma integral entre a agravante de reincidência e a atenuante de confissão espontânea, em prol de Danilo Moura Andrade.
+    É o relatório. Decido.
+    No presente caso, o Superior Tribunal de Justiça concluiu pela suficiência dos fundamentos a respeito da preponderância da agravante da reincidência com arrimo nos seguintes fundamentos:
+    Compulsando-se os autos, nota-se que o recurso especial foi provido, nos seguintes termos (fl. 918):
+    [...] reconhecida a confissão, ainda que parcial, deve-se proceder à compensação entre a atenuante da confissão e a agravante da reincidência, entendimento que sofre alteração quando se trata de multirreincidência, hipótese em que não é devida a compensação integral por evidenciar maior reprovabilidade.
+    No presente caso, como visto, foi constatada a multirreincidência na Corte de origem, sendo, entretanto, devida a compensação parcial entre as citadas agravante e atenuante. Nesse sentido: [...]
+    Conforme asseverado na decisão impugnada, a multirreincidência impede a compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea.
+    Dessa maneira, consignado pela Corte de origem a dupla reincidência de Danilo, não há se falar em compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea. Nesse diapasão: [...]
+    Esta SUPREMA CORTE já decidiu, reiteradas vezes, que, a teor do disposto no art. 67 do Código Penal, a circunstância agravante da reincidência, como preponderante, prevalece sobre a confissão (RHC 118107, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 30/5/2014). Precedentes: RHC 135819, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 13/6/2018; RHC 110727, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 10/5/2012; HC 105.543, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 27/5/2014; RHC 120.677, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 2/4/2014; HC 112.830, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 18/6/2012; HC 108.138, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 14/12/2011).
+    Portanto, se a simples reincidência é considerada preponderante, não há ilegalidade de se conferir maior relevo à multiplicidade de processos capazes de gerá-la (HC 143877, Rel. Min. ALEXANDRE DE MORAES, decisão monocrática, DJe de 15/9/2017).
+    Além disso, a dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do Habeas Corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades (cf. HC 156.038-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 30/8/2018; HC 105.802, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 4/12/2012; HC 94.125, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 6/2/2009; HC 102.966 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 21/3/2012; HC 110390, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2012).
+    Em conclusão, por encontrar guarida na jurisprudência desta CORTE, não há constrangimento ilegal a ser sanado.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO a ordem de HABEAS CORPUS.
+    Publique-se.
+    Brasília, 24 de março de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
