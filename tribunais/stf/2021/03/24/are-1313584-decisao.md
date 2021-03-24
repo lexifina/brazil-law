@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Paraná, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO PREVIDENCIÁRIA DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO (AUXÍLIO-ACIDENTE) – SENTENÇA IMPROCEDENTE – INSURGÊNCIA DO AUTOR – LAUDO PERICIAL QUE CONCLUIU PELA EXISTÊNCIA DE LESÕES QUE ACOMETEM O SEGURADO DESDE ACIDENTE SOFRIDO NOS ANOS 80 – PREENCHIMENTO DOS REQUISITOS LEGAIS – CIRCUNSTÂNCIAS QUE ENSEJAM A CONCESSÃO DO AUXÍLIO-SUPLEMENTAR, NA FORMA DO ART. 9º, DA LEI 6.367/76, VIGENTE À ÉPOCA DO INFORTÚNIO – TEMPUS REGIT ACTUM – TERMO INICIAL – DIA SEGUINTE AO DA CESSAÇÃO DO BENEFÍCIO ANTERIORMENTE CONCEDIDO, OBSERVADA A DATA DA PROPOSITURA DO FEITO E A PRESCRIÇÃO QUINQUENAL – TERMO FINAL – INÍCIO DE APOSENTADORIA POR IDADE – IMPOSSIBILIDADE DE CUMULAÇÃO – INTELIGÊNCIA DA SÚMULA 507 DO STJ – CONSECTÁRIOS LEGAIS – POSTERGAÇÃO PARA A FASE DE LIQUIDAÇÃO DE SENTENÇA –INVERSÃO DO ÔNUS SUCUMBENCIAL – SENTENÇA REFORMADA – RECURSO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 194, parágrafo único, II e 195, § 5º, da CF.
+    O recurso extraordinário não deve ser provido. O Supremo Tribunal Federal não admite distinção entre trabalhador rural e urbano para fins de concessão de benefícios previdenciários após o advento da Constituição Federal de 1988. Precedentes: RE 197.516-AgR, Rel. Min. Maurício Corrêa; RE 190.968, Rel. Min. Marco Aurélio; ARE 713.338-AgR, Rel. Min. Ricardo Lewandowski; e ARE 866.541, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 24 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
