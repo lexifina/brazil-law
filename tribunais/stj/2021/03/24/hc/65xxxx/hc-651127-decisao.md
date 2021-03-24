@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de José Pereira da Silva contra ato coator proferido pela Nona Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução n. 0025882-15.2020.8.26.0114, denegou o pedido de colocação do paciente em regime de prisão domiciliar.
+A impetrante alega, em síntese, que o paciente é primário e está cumprindo pena pela condenação por tráfico privilegiado.
+Sustenta que o paciente possui saúde debilitada, é idoso e, nos termos da Recomendação n. 62/2020 do Conselho Nacional de Justiça, faz jus ao regime domiciliar.
+Pede, nos termos do art. 117, II, da Lei de Execução Penal, a concessão da ordem (fls. 3/16).
+Liminar deferida às fls. 80/82.
+Informações prestadas pela origem às fls. 86/90.
+O Ministério Público Federal opina pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, conforme os termos resumidos na ementa do parecer (fl. 92):
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃOPENAL. COVID-19. TRANSFERÊNCIA PARA PRI-SÃO DOMICILIAR. IMPOSSIBILIDADE.INEXIS-TÊNCIA DE SITUAÇÃO DE RISCO. AUSÊNCIA DECONSTRANGIMENTO ILEGAL. NÃO CONHECI-MENTO.
+1. Não é cabível habeas corpus substitutivo de recurso, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, conforme a jurisprudência do Superior Tribunal de Justiça.
+2. O quanto contido na Recomendação n. 62/2020 do CNJ são meras recomendações, não vinculando o Juízo responsável pelo indivíduo acautelado.
+3. Não é possível a concessão de prisão domiciliar, em razão da pandemia causada pela Covid-19, quando não comprovado concretamente que haja mais risco de contaminação no ambiente carcerário no qual se encontrado que o suportado pelas pessoas em geral, bem como que o preso não recebe o devido acompanhamento médico no cárcere.
+4. Parecer pelo não conhecimento do writ. Se acaso conhecido, pela denegação da ordem.
+É o relatório.
+Busca a presenteimpetração a concessão de prisão domiciliar ao paciente, ao argumento de que cumpre pena em regime semiabertoe que pertence ao grupo de risco da Covid-19por ser idoso.
+No presente caso, o Juízo de Execuções Penais indeferiu a benesse da prisão domiciliar mediante os seguintes fundamentos (fl. 41):
+Conforme apontado quando do indeferimento anterior, a unidade prisional adotou, e continua a adotar, as medidas sanitárias necessárias para evitar a contaminação da doença referida, com o fornecimento de máscaras a todos os sentenciados e funcionários, disponibilização de álcool gel para assepsia das mãos, aferição de temperatura, desinfecção dos calçados de todos os que adentram na unidade, desinfecção e higienização constantes de todos os ambientes, sobretudo nos pavilhões habitacionais, vacinação de todos os reclusos contra a Influenza, busca ativa diária de sintomas junto à população carcerária, prestação de orientações constantes aos reclusos e servidores, isolamento de materiais adquiridos (ou de sedex recebidos) por três dias, dentre outras, conforme informado a este Juízo.
+Portanto, ante a ausência de prova sobre eventual doença grave, sem probabilidade de tratamento na unidade prisional, a demonstrar a impossibilidade de permanência do sentenciado em reclusão, não há como acolher o pleito de prisão albergue domiciliar. E, mais uma vez, fica consignada a ausência de lapso para benefícios.
+O Tribunal local denegou o pleito aos seguintes fundamentos (fls. 60/61):
+Consta ainda que houve o indeferimento do pleito de concessão da prisão domiciliar, ante a insuficiência de provas quanto ao estado de saúde do agravante e a existência de atendimento médico adequado na unidade prisional.
+De fato, em relação à sua suposta saúde fragilizada, não constam dos autos documentos comprobatórios de tal circunstância há tão somente o relatório médico que indica ter sido o agravante diagnosticado com catarata e pterígio bilateral, com redução na acuidade visual.
+De outra parte, o artigo 117, inciso II, da Lei de Execução Penal, estabelece que somente se admitirá o recolhimento do beneficiário em sua residência quando se tratar de condenado acometido de doença grave que estiver em cumprimento de pena em regime aberto.
+O agravante encontra-se no regime semiaberto e não apresenta doença grave, de forma que a mera indicação de que ele é maior de sessenta anos, por si só, é insuficiente a concessão da prisão domiciliar.
+Além disso, seria de rigor a demonstração de que o tratamento médico do qual ele necessita não pode ser ministrado de maneira adequada no estabelecimento prisional.
+Pois bem. Como afirmei na decisão em que concedi a liminar, écerto que a legislação em vigor limita a concessão da benesse domiciliar para os apenados que cumprem a reprimenda em regime aberto.
+Entretanto, o Superior Tribunal de Justiça tem flexibilizado o entendimento para concessão de prisão domiciliar aos sentenciados, em cumprimento de pena em regime fechado ou semiaberto, quando devidamente demonstrada sua excepcionalidade.
+Ilustrativamente, confiram-se o HC n. 453.657/SP, de minha relatoria, Sexta Turma, DJe 7/6/2019; o HC n. 462.147/SP, Ministra Laurita Vaz, Sexta Turma, DJe 30/4/2019; e o HC n. 366.517/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/10/2016.
+Outrossim, não se pode olvidar as diretrizes fixadas pelo Conselho Nacional de Justiça na Recomendação n. 62/2020, estabelecidas em razão da pandemia da Covid-19, que tem como finalidades específicas, nos termos de seu art. 1º, I, a proteção da vida e da saúde das pessoas privadas de liberdade, dos magistrados, e de todos os servidores e agentes públicos que integram o sistema de justiça penalprisional e socioeducativo, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções, e também sugere, em seu art. 5º, III, aos Magistrados com competência sobre a execução penal, a colocação em prisão domiciliar em relação às pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução (grifo nosso).
+No caso, o paciente, que integra o grupo de risco para infecção pelo novo coronavíruspela sua condição de idoso (fl. 25),está cumprindo a pena em regime semiaberto desde 22/9/2019, com término de cumprimento da penaprevisto para 13/10/2024 (fls. 25 e 87), pela prática de crime cometido sem violência ou grave ameaça à pessoa.
+Assim, entendo que se faz necessário possibilitar, excepcionalmente, ao paciente, nos termos do art. 5º, III, da Recomendação CNJ n. 62/2020, a prisão domiciliar, não se revelando razoável mantê-lo, durante esse período de recrudescimento da pandemia, preso em local superlotado, circunstânciaque certamente agravao risco de vir a ser contaminado.
+Ante o exposto, concedo a ordem, confirmando a liminar, para que o paciente seja colocado em regime domiciliar, mediante condições a serem fixadas pelo Juízo da execução.
+Comunique-se.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RESOLUÇÃO N. 62/2020 DO CNJ. PACIENTE EM REGIME SEMIABERTO. GRUPO DE RISCO. CUMPRIMENTO DE PENA POR CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. PRISÃO DOMICILIAR. POSSIBILIDADE. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
