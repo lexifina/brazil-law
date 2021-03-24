@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado por Pastificio Caxiense Sa-Indústria eComércio, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal , assim ementado (fl. 49):
+AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.MASSA FALIDA. PRESCRIÇÃO INTERCORRENTE. MULTA E JUROSAPÓS A QUEBRA. INTERESSE DE AGIR NÃO CONFIGURADO.JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA NÃO CONFIGURADA.
+1. A caracterização da prescrição intercorrente somente ocorre quando a paralisação do feito resulte da inércia do exequente, deixando de dar impulso útil ao feito por lapso temporal igual ou superior ao qüinqüênio legal.
+2. Não poderão ser exigidos juros da massa falida após a decretação da falência quando o ativo apurado não for suficiente para pagamento. Portanto, há interesse processual da massa falida quando a discussão versar acerca da incidência de juros e multa após a quebra. Contudo, no caso em apreço, a exequente apresentou os cálculos, nos termos da Lei 11.105/2005, de modo que o recurso perdeu seu objeto neste ponto.
+3. De acordo com a Súmula n. 481 do Superior Tribunal de Justiça, compete à pessoa jurídica, ainda que sem fins lucrativos, comprovar, de forma inequívoca, situação de precariedade financeira que a impossibilite de arcar com as custas processuais.
+Os embargos declaratórios opostos foram rejeitados (fls. 93/97).
+A parte recorrente aponta violação aos arts. 489, II, §1º, IV, e 1.022, II, do CPC/15 e 85, caput, §§3º e 10, e 90 do CPC/15. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca da aplicação dos arts. 85, §§3º e 10º e 90, caput, do CPC/15 e (II) "ainda que não se considere que houve proveito econômico, os honorários seriam devidos, nos termos do §8º do art. 85 do CPC, que trata dos casos em que o benefício econômico não ser mensurável. Assim, houve negativa de vigência, também a este dispositivo, o que se requer em forma subsidiária" (fl. 120).
+Contrarrazões apresentadas às fls. 165/171, postulando a negativa de provimento do apelo raro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/2015.
+Nas razões dos embargos de declaração, a ora recorrente, referindo haver omissão no acórdão embargado, pugnou pelo pronunciamento da Corte de origem, nestes termos (fl. 72):
+ .. por decorrência da extinção parcial da execução fiscal e/ou da redução do quantum executado, seja sanada omissão, fixando-se honorários, seja em razão da perda do objeto (art. 85, § 10, do CPC) ou, ainda, pelo princípio da causalidade, pois a União que deu causa ao incidente processual da exceção de pré-executividade, o que obrigou a Embargante a interpor o presente agravo de instrumento, não tendo sequer reconhecido a procedência do pedido na primeira oportunidade que pode, tampouco em momento algum.
+Salienta-se que no processo de origem não foi, pela Embargada, reconhecido expressamente o pedido da Embargante, o que somente ocorreria mediante a apresentação de cálculo da CDA adequando a Lei de falências, no momento da resposta à exceção, onde deveria ter ela concordado com a extinção parcial da execução fiscal.
+Contudo, o Tribunal de origem quedou-se silente sobre a aplicação dos arts. 85 e 90 do CPC/15.
+ANTE O EXPOSTO, conheço do agravo para dar provimento ao recurso especial por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
