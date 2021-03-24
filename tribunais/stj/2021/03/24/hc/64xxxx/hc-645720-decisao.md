@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ADAILTON JOSÉ DA CRUZ, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0023924-79.2020.8.26.0506) assim ementado (fl. 18):
+AGRAVO EM EXECUÇÃO PENAL- Pleito de progressão ao regime prisional aberto - Indeferimento - Reforma da decisão - Impossibilidade - Não adesão à terapêutica penal - Exame criminológico desfavorável - Prematura a concessão da benesse - Precedente do Superior Tribunal de Justiça - AGRAVO NÃO PROVIDO.
+O paciente cumpre pena de 20 anos, 10 meses e 4 dias de reclusão, cujo vencimento está previsto para 21/8/2032.
+Requerida a progressão de regime, o pedido foi indeferido pelo Juízo da execução penal por não preenchido o requisito subjetivo. Essa decisão foi mantida pelo Tribunal a quo.
+O impetrante aponta constrangimento ilegal, na medida em que o paciente cumpriu os requisitos legais para a concessão do benefício.
+Alega que a avaliação não demonstra conduta capaz de vedar a promoção, não sendo possível averiguar se o paciente voltará a reincidir.
+Salienta que o paciente possui bom comportamento carcerário e não registra a prática de falta disciplinar grave desde 27/12/2013.
+Requer, liminarmente e no mérito, a concessão da promoção ao regime aberto.
+O pedido de liminar foi indeferido (fls. 49-50).
+Prestadas as informações (fls. 54-58 e 60-72), o Ministério Público Federal opinou pelo não conhecimento da impetração ou pela denegação da ordem (fls. 77-82).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Juízo da execução penal indeferiu o benefício pretendido "à vista do exame criminológico desfavorável" (fl. 33).
+O Tribunal de origem negou provimento ao recurso da defesa, adotando os seguintes fundamentos (fls. 19-22):
+Ainda que efetivamente tenha o sentenciado cumprido o quesito objetivo para a concessão do avanço ao retiro aberto, não se verifica o implemento do requisito subjetivo.
+Com efeito, foi o agravante condenado ao castigo total de 20 anos, 10 meses e 04 dias de reclusão, com término de cumprimento de pena previsto para 21 de agosto de 2032, pela prática de crimes de roubo circunstanciado e homicídio duplamente qualificado (fls. 15/20).
+Pois bem.
+Os elementos informativos encartados aos autos não demonstram, extreme de dúvidas, o cumprimento do quesito subjetivo pelo agravante para deferimento da progressão ao regime aberto.
+Isso porque o atestado de bom comportamento carcerário, emitido por autoridade penitenciária, exprime unicamente - como o próprio nome diz - a conduta do reeducando intramuros. Não corresponde, pois, a cessação - ou mesmo minoração - da periculosidade, na medida em que se restringe a declarar - repita-se - que o sentenciado não violou as normas disciplinares durante o período em que permaneceu encarcerado no estabelecimento prisional - ou seja, observou seus deveres legais (artigo 39 da Lei nº 7.210/84).
+Em face das especificidades do caso vertente, foi determinada a realização de exame criminológico, sendo o laudo acostado às fls. 27/34 contrário à concessão dos benefícios, consignando que "..em atendimento, mostrou-se prolixo, tangenciando aspectos disparados para compreensão durante entrevista, sinalizando resistência e confusão para discorrer sobre determinados elementos de ações delitivas em alguns momentos demarcado por respostas evasivas.." (fls. 30), sendo que o relatório conjunto dos experts foi DESFAVORÁVEL à concessão do avanço de retiro (fls. 33).
+Não olvidemos que a progressão de regime prisional, em realidade, não constitui direito absoluto do sentenciado, condicionando-se à segurança da sociedade, não bastando apenas o preenchimento do requisito objetivo - mas, antes, a satisfação da condição subjetiva, na medida em que o deferimento de qualquer benesse ao reeducando subordina-se à análise aprofundada de suas condições pessoais, pois "..o meio social não pode e nem deve servir de "laboratório", onde se vá testar a aparente "recuperação" de perigosos delinquentes.." (TJSP, Agravo em Execução nº 243.772-3/6, Rel. Des. Jarbas Mazzoni).
+Importante consignar que não se trata de considerar o fato já julgado na aferição da periculosidade do sentenciado, mas sim a circunstância no sentido de que pessoa que desconta pena por delitos graves, como é o caso do agravante, deve ser mais bem avaliada, de forma a se verificar se está apta a retornar ao convívio social.
+ ..
+Portanto, verifica-se, in casu, prematura a concessão do benefício pleiteado, devendo o sentenciado permanecer mais tempo no regime em que se encontra, com comportamento satisfatório e apto a indicar que não incorrerá em nova delinquência.
+Para a concessão deprogressão de regime e livramento condicional, além do preenchimento do requisito objetivo, consistente no cumprimento de pena por certo lapso temporal, o reeducando deve alcançar o requisito subjetivo, demonstrando possuir condições pessoais favoráveis para tanto.
+No caso dos autos, as instâncias ordinárias, soberanas na análise dos fatos e das provas dos autos, concluíram que, de acordo com o exame pericial elaborado, o paciente não cumprirao requisito subjetivo para fazer jus ao benefício pretendido. Para alterar esse entendimento, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. AUSÊNCIA DE REQUISITO SUBJETIVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a concessão da progressão de regime, é necessário o preenchimento dos requisitos de natureza objetiva e subjetiva.
+2. O julgador forma sua convicção por meio de livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal.
+3. A cassação da promoção do apenado ao regime aberto foi adequadamente fundamentada pelo Tribunal, com base em considerações dos laudos psicológico e psiquiátrico. O paciente cumpre pena por tentativa de homicídio de sua enteada e a perícia trouxe alguns diagnósticos que tornam temerária sua colocação em estágio desprovido de vigilância.
+4. O habeas corpus não é o instrumento próprio para a reanálise do exame criminológico, com o propósito de nova ponderação dos laudos profissionais.
+5. Agravo regimental não provido.(AgRg no HC n. 624.407/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. ART. 112 DA LEI N. 7.210/84 (LEI DE EXECUÇÃO PENAL - LEP). SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO DESPROVIDO.
+1. A menção, no art. 112 da LEP, a atestado de bom comportamento carcerário não impede a realização de exame criminológico, desde que em decisão motivada, nos termos da Súmula n. 439 do Superior Tribunal de Justiça - STJ.
+2. O magistrado, com base no resultado desfavorável do exame criminológico, pode indeferir a concessão do benefício, por falta do requisito subjetivo, como na hipótese dos autos.
+3. Para se desconstituir a conclusão a que chegou a Corte estadual, sobre o não preenchimento do requisito subjetivo, é necessário o exame minucioso do conjunto fático-probatório, inviável na via eleita.
+4. Agravo desprovido.(AgRg no HC n. 547.130/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/8/2020.)
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL CASSADA PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FUNDAMENTAÇÃO CONCRETA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT DENEGADO.
+1. É firme a jurisprudência desta Corte de que a análise desfavorável do mérito do condenado feita pelo Juízo da execução, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. No caso, a benesse foi cassada levando-se em consideração apontamentos extraídos do exame criminológico, mais precisamente do relatório social, que ressaltou que "o sentenciado está em processo de mudança, demonstra consciência de sua atitude delitiva, no entanto é necessária uma melhor elaboração dos aspectos subjetivos em relação ao ato praticado e ainda considerar fatores condicionados a valores familiares, sociais e morais", a demonstrar ser prematuro o cumprimento da pena em regime menos rigoroso pelo apenado.
+3. Ressalte-se, ainda, que o afastamento dos fundamentos utilizados pelo Tribunal de origem quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Ordem denegada.(HC n. 470.114/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/2019.)
+Não se verifica, pois, constrangimento ilegal a ensejar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
