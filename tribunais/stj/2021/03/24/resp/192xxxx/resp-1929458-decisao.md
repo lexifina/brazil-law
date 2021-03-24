@@ -1,0 +1,16 @@
+DECISÃO
+ROGER MANSUR TEIXEIRA, REGINALDO MANSUL TEIXEIRA, TRANSPORTADORA VALE DO SOL BOTUCATU, AUTO ÔNIBUS BOTUCATU LTDA; BOTUCATU EMPREENDIMENTO (ROGER MANSUR e outros) opuseram embargos à execução de título executivo movida por BUSPART PARTICIPAÇÕES ADMINSTRAÇÃO LTDA (BUSPART).
+Em primeira instância, os pedidos foram julgados improcedentes, com fulcro no art. 487, I, do NCPC, rejeitando, liminarmente, o fundamento de excesso de execução, e condenando os embargados no pagamento das custas processuais e honorários advocatícios ao patrono da embargada, fixados em R$ 1.000,00 (art. 20, § 4º, do CPC/73 (e-STJ, fls. 1183/1190).
+O recurso de apelação dos autores foi parcialmente conhecido e na parte conhecida, desprovido, os termos da decisão assim ementada:
+APELAÇÃO EXECUÇÃO CÍVEL - EMBARGOS À DE TÍTULO EXECUTIVO EXTRAJUDICIAL - INSTRUMENTO DE COMPRA E VENDA E PERMUTA DE AÇÕES E OUTRAS OBRIGAÇÕES PARA AQUISIÇÃO DE SOCIEDADE ANÔNIMA - ALEGAÇÕES REFERENTES À REVISÃO DO CONTRATO E ERRO NA REALIZAÇÃO DO NEGÓCIO JURÍDICO - NÃO CONHECIMENTO DESTA PARTE DO RECURSO - INOVAÇÃO RECURSAL - ARGUMENTOS NÃO COM NOTAS EXPOSTOS NEM REQUERIDOS A INICIAL - NULIDADE DE PROMISSÓRIAS VINCULADAS AO CONTRATO EM RAZÃO DA SUA !LIQUIDEZ - TÍTULO EXECUTADO NÃO É QUALQUER DAS NOTAS PROMISSÓRIAS, MAS SIM O INSTRUMENTO PARTICULAR DE COMPRA E VENDA E PERMUTA - TÍTULO VÁLIDO, PORQUANTO REVESTIDO DECERTEZA (CONTRATO ASSINADO ENTRE AS PARTES E POR DUAS TESTEMUNHAS), LIQUIDEZ (VALOR EXPRESSO) E EXIGIBILIDADE (VENCIDO, SEM PAGAMENTO) - POSSIBILIDADE DE EXECUÇÃO DO INSTRUMENTO CONTRATUAL - DÚVIDA COM RELAÇÃO À VALIDADE DO VALOR DO PASSIVO ASSUMIDO QUE NÃO PODE SER OPOSTA NO PRESENTE CASO - CLÁUSULA QUE NÃO ERA CONDICIONANTE PARA O PAGAMENTO E CUMPRIMENTO DO CONTRATO.RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO (e-STJ, fls. 1314).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1347/1352).
+O agravo interno que se seguiu não foi provido, em acórdão ementado nos seguintes termos:
+AGRAVO INTERNO - DECISÃO MONOCRATICA QUE NEGOU PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO OPOSTOS COM O FIM DE CONCEDER EFEITO SUSPENSIVO AO RECURSO DE APELAÇÃO - AUSÊNCIA DE VÍCIOS NA DECISÃO ATACADA - MERO INCONFORMISMO DA AGRAVANTE - DIREITO INVOCADO SEM PLAUSIBILIDADE - EXECUÇÃO SEM GARANTIA, AUSÊNCIA DE PERIGO DE DANO AGRAVO INTERNO NÃO PROVIDO (e-STJ, fl. 1378).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1412/1419).
+No recurso especial, interposto com fundamento no art. 105, III, a, da CF, ROGER e outros apontaram ofensa aos arts.3º e 1.022 do NCPC e aos arts. 138, 171, 206, 317, 422, 478,479 e 480 do CC.
+Sustentam, inicialmente, (1) a existência de omissão e negativa de prestação jurisdicional; (2) a ocorrência da prescrição; (3) a inexistência dos requisitos necessário para o ajuizamento da ação executiva; e, (4) a nulidadedo endosso dasnotas promissóriasoriundas do negócio jurídico de compra e venda dos títulos, pois eivada de ilegalidade ( e-STJ, fls. 1428/1447).
+Após a apresentação das contrarrazões o recurso foi admitido na origem (e-STJ, fls. 1480/1492).
+É o relatório.
+DECIDO.
+Para melhor examinar as controvérsias suscitadas, CONHEÇO do agravo para determinar a sua autuação como recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
