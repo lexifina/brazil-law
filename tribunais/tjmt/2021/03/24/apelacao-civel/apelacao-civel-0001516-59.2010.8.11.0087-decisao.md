@@ -1,0 +1,52 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial no recurso de Apelação Cível n. 0001516-59.2010.811.0087
+RECORRENTE: ESTADO DE MATO GROSSO
+RECORRIDO: MARLUCIA R. SANTOS & CIA LTDA-ME
+Vistos.
+Trata-se de Recurso Especial (id 68849977) interposto pelo ESTADO DE MATO GROSSO com fundamento no artigo 105, inciso III, alínea “a” e “c” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público assim ementado (id. 23489485):
+APELAÇÃO CÍVEL – TRIBUTÁRIO - EXECUÇÃO FISCAL – PRESCRIÇÃO INTERCORRENTE – RESP No 1.340.553/RS – INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS – TERMO INICIAL – CIÊNCIA DA FAZENDA ACERCA DA NÃO LOCALIZAÇÃO DO DEVEDOR OU DE BENS PENHORÁVEIS – CRÉDITO DE ORIGEM TRIBUTÁRIA – SUSPENSÃO E ARQUIVAMENTO QUE SOMAM 6 (SEIS) ANOS – DECURSO TEMPORAL OBSERVADO – RECURSO DESPROVIDO.
+Consoante o que foi registrado no REsp no 1.340.553/RS, este que foi eleito como paradigma para o IRDR atinente à prescrição intercorrente nas Execuções Fiscais, o termo inicial do instituto é a ciência da Fazenda Pública acerca da não localização dos devedores ou de bens penhoráveis.
+A prescrição intercorrente, nos casos em que a dívida tem origem tributária, se perfaz com o decurso de 6 (seis) anos, compostos de 1 (um) ano de suspensão, somados a mais 5 (cinco), referentes ao prazo prescricional do crédito exequendo.
+(N.U 0001516-59.2010.8.11.0087, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, RELATOR: DR. MARCIO APARECIDO GUEDES, Julgado em 06/11/2020)
+O Recorrente opôs Embargos de Declaração (id. 31632970) que foram rejeitados (id. 61827468).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Apelação Cível interposto pelo ESTADO DE MATO GROSSO, que manteve a decisão a quo que reconheceu a ocorrência da prescrição intercorrente no feito, porquanto, extinguiu o processo com fulcro nos artigos 924, V, e 925 do Código de Processo Civil.
+O Recorrente alega violação ao artigo 240, §3o, do Código de Processo Civil e a Súmula 106 do STJ, sob o fundamento de que “não houve inércia da Fazenda Pública Estadual em relação ao andamento do feito, se houve alguma falha esta é atribuída exclusivamente ao Judiciário, evidenciando, assim, A INÉRCIA DO MECANISMO DA JUSTIÇA”.
+Recurso tempestivo (id. 69502464).
+Contrarrazões em id. 79139494.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo à análise dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e uniformização da interpretação das leis federais, razão pela qual não é possível o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta ofensa ao artigo 240, §3o do CPC, está amparada na assertiva de “não houve inércia da Fazenda Pública Estadual em relação ao andamento do feito, se houve alguma falha esta é atribuída exclusivamente ao Judiciário, evidenciando, assim, A INÉRCIA DO MECANISMO DA JUSTIÇA”.
+Entretanto, para o deslinde da controvérsia faz-se necessário analisar o conjunto fático-probatório existente nos autos, o que atrai o óbice da Súmula 7 do STJ.
+Aliás, quando do julgamento do REsp no 1.102.431/RJ - Tema 179 – o Superior Tribunal de Justiça reconheceu que a necessidade da análise do conjunto fático-probatório em casos similares a destes autos, como se vê:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. PARALISAÇÃO DO PROCESSO POR CULPA DO PODER JUDICIÁRIO. SÚMULA 106 DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 07/STJ.
+1. O conflito caracterizador da lide deve estabilizar-se após o decurso de determinado tempo sem promoção da parte interessada pela via da prescrição, impondo segurança jurídica aos litigantes, uma vez que a prescrição indefinida afronta os princípios informadores do sistema tributário.
+2. A perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ. (Precedentes: AgRg no Ag 1125797/MS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 18/08/2009, DJe 16/09/2009; REsp 1109205/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 02/04/2009, DJe 29/04/2009; REsp 1105174/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/08/2009, DJe 09/09/2009; REsp 882.496/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2008, DJe 26/08/2008; AgRg no REsp 982.024/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/04/2008, DJe 08/05/2008)
+3. In casu, a Corte de origem fundamentou sua decisão no sentido de que a demora no processamento do feito se deu por culpa dos mecanismos da Justiça, verbis:
+"Com efeito, examinando a execução fiscal em apenso, constata-se que foi a mesma distribuída em 19/12/2001 (fl.02), tendo sido o despacho liminar determinando a citação do executado proferido em 17/01/2002 (fl. 02 da execução). O mandado de citação do devedor, no entanto, somente foi expedido em 12/05/2004, como se vê fl. 06, não tendo o Sr. Oficial de Justiça logrado realizar a diligência, por não ter localizado o endereço constante do mandado e ser o devedor desconhecido no local, o que foi por ele certificado, como consta de fl. 08, verso, da execução em apenso. Frustrada a citação pessoal do executado, foi a mesma realizada por edital, em 04/04/2006 (fls. 12/12 da execução). (...) No caso destes autos, todavia, o fato de ter a citação do devedor ocorrido apenas em 2006 não pode ser imputada ao exequente, pois, como já assinalado, os autos permaneceram em cartório, por mais de dois anos, sem que fosse expedido o competente mandado de citação, já deferido, o que afasta o reconhecimento da prescrição. (...) Ressalte-se, por fim, que a citação por edital observou rigorosamente os requisitos do artigo 232 do Código Processual Civil e do art. 8o, inciso IV, da Lei 6.830/80, uma vez que foi diligenciada a citação pessoal, sem êxito, por ser o mesmo desconhecido no endereço indicado pelo credor, conforme certificado pelo Sr. Oficial de Justiça, à fl. 08, verso dos autos da execução."
+4. A verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ.
+5. Recurso especial provido, determinando-se o retorno dos autos à instância de origem para prosseguimento do executivo fiscal, nos termos da fundamentação expendida. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+Assim, por serem insuscetíveis de revisão os entendimentos do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, encontra-se vedada a análise da referida questão pelo Superior Tribunal de Justiça, o que obsta a admissão recursal.
+Violação de súmula - Não cabimento (súmula 518/STJ)
+Senão bastasse isso, a causa de pedir recursal do Recorrente pretende a reforma do acórdão que reconheceu a prescrição intercorrente da pretensão executória pela desídia, arguindo a violação da Súmula 106 do STJ, esta ao argumento de que a demora deve ser atribuída ao mecanismo da justiça.
+Por sua vez, é certo que artigo 105, III, da CF, dispõe que o Recurso Especial tem como finalidade impugnar decisões que violem ou neguem vigência à lei federal infraconstitucional, que julguem válido ato de governo local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+Logo, não é cabível Recurso Especial contra decisão judicial que supostamente viole enunciado de Súmula do STJ, ex vi Súmula 518/STJ.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA ACERCA DA PRESCRIÇÃO PARA SE REQUERER O REDIRECIONAMENTO DA EXECUÇÃO FISCAL. PEDIDO DE SOBRESTAMENTO, FACE À AFETAÇÃO DO TEMA, EM RECURSO REPETITIVO, À PRIMEIRA SEÇÃO DO STJ. DESCABIMENTO, NA HIPÓTESE. INADMISSIBILIDADE DO RECURSO ESPECIAL, NO QUAL HOUVE ALEGAÇÃO DE CONTRARIEDADE À SÚMULA 106/STJ E AOS ARTS. 151, VI, E 174, PARÁGRAFO ÚNICO, IV, DO CTN, SEJA POR FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL SUSCITADA À LUZ DOS REFERIDOS DISPOSITIVOS LEGAIS, SEJA, AINDA, POR INCIDÊNCIA DAS SÚMULAS 7 E 518 DO STJ. AGRAVO INTERNO IMPROVIDO.
+(...)
+III. Na hipótese dos autos, evidencia-se a inadmissibilidade do Recurso Especial, seja por falta de prequestionamento da tese recursal suscitada à luz dos arts. 151, VI, e 174, parágrafo único, inciso IV, do CTN, o que atrai a incidência analógica da Súmula 282/STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), seja, ainda, no que se refere à Súmula 106/STJ, por incidência da Súmula 518/STJ ("Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula").
+IV. Mesmo que se afastassem os supracitados óbices, ainda assim o Recurso Especial seria inadmissível, por incidência da Súmula 7/STJ, pois a Primeira Seção do STJ, por ocasião do julgamento do REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC/73, assentou o entendimento de que "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do Recurso Especial, ante o disposto no enunciado sumular 7/STJ".
+V. Agravo interno improvido.
+(AgInt no AREsp 922.765/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/02/2017, DJe 15/02/2017)
+Partindo dessas premissas, o Recurso Especial não é o meio processual apropriado para questionar o acórdão recorrido quanto à suposta contrariedade a Súmula 106 do STJ.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, inciso V (Súmulas 7 e 518, ambas do STJ), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
