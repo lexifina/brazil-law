@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetradoem favor JONATHA DONIZETI MATHEUS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n.1500153-21.2018.8.26.0618.
+Consta nos autos que o Pacientefoi condenado como no art. 33 da Lei n. 11.343/06 às penas de5 (cinco) anos e 10 (dez)meses de reclusão, em regime inicial fechado, além 583 (quinhentos e oitenta e três)dias-multa (fls. 35-43).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 48-58).
+A condenação transitou em julgado em 05/05/2020 (fl. 58).
+Nas razões destewrit, a Defesa sustenta que deve ser aplicado ao Paciente o regime inicial aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos, pois se trata de Réu primário e com bons antecedentes, sendo ínfima a quantidade de drogas apreendidas na hipótese em apreço.
+Pleiteia-se, liminarmente e no mérito, a concessão da ordem, "determinando em favor do paciente a revisão do regimeinicial de cumprimento de pena para o aberto com substituição da pena privativa de liberdade para pena restritiva de direitos, evitando a continuação do constrangimento ao direito de locomoção do paciente" (fl. 10).
+É o relatório. Decido.
+De início, contata-se que a condenação do Pacientetransitou emjulgado em 05/05/2020 (fl. 259).Assim, não deve ser conhecido o presente habeas corpus, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, "as revisões criminais e as ações rescisórias de seus julgados", o que não é o caso do autos.
+Sobre a questão, cito oseguinteprecedente:
+"HABEAS CORPUS. PENAL. PROCESSO PENAL. HOMICÍDIO. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. RÉU INDEFESO EM PLENÁRIO. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça doEstado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+ ..
+5. Habeas corpus não conhecido." (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 21/05/2018; sem grifos no original.)
+Além disso, não se verifica a existência de ilegalidade flagrante apta a permitir a concessão da ordem dehabeas corpusde ofício.
+De fato, constata-se que a pena aplicada ao Paciente é superior a 4 (quatro) anos de reclusão e que a sua pena-base foi aplicada em patamar acima do mínimo legal devido à quantidade, nocividade e variedade de drogas apreendidas- "176 porções de crack e 18 grandes porções de Cannabis Sativa L., pesando 430 gramas" (fl. 35).
+Nesse contexto, considerando o quantum da pena imposta e a existência de circunstância judicial desfavorável, mostra-se legítima a imposição do regime inicial fechado e o indeferimento da substituição por penas restritivas de direitos, nos termos dos arts. 33 e 44 do Código Penal, c.c. o art. 42 da Lei n. 11.343/06.
+Sobre o tema:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. VÍNCULO ESTÁVEL E PERMANENTE CONSTATADO. ABSOLVIÇÃO.IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DO ENTORPECENTE. FUNDAMENTO VÁLIDO. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO ADEQUADO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+ ..
+4. Embora a agente seja primária e a pena reclusiva tenha sido fixada em patamar inferior a 8 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento das sanções impostas, diante da aferição desfavorável de circunstância judicial (quantidade de entorpecente), nos termos dos art. 33 do CP c.c. o art. 42 da Lei n. 11.343/2006.
+5. Estabelecida a sanção em patamar superior a 4 anos de reclusão, é inviável a substituição da pena corporal por restritivas de direitos, ante a ausência de preenchimento de requisito objetivo (art. 44, I, do Código Penal).
+6. Agravo regimental não provido."(AgRg no HC 607.274/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, se grifos no original).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INOVAÇÃO RECURSAL.IMPOSSIBILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTIDADE ELEVADA DE DROGA. REGIME FECHADO.FUNDAMENTAÇÃO IDÔNEA.
+ ..
+3. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o magistrado deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+4. Na hipótese dos autos, embora a pena privativa de liberdade tenha sido estabelecida em patamar inferior a 8 (oito) anos de reclusão, estabelecida a pena-base acima do mínimo legal, com base em fundamentação idônea, deve ser mantido o regime fechado para a prevenção e a repressão do delito perpetrado, nos moldes do art. 33, § 3º, do Código Penal e do art. 42 da Lei n. 11.343/2006.
+5. Agravo regimental a que se nega provimento."(AgRg no HC 464.472/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/12/2018, DJe 19/12/2018, sem grifos no original).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO.MANEJO DOWRITCOMO SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ART. 105, INCISO I, ALÍNEAE, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.REINCIDÊNCIA. REGIME INICIAL SEMIABERTO.HABEAS CORPUSLIMINARMENTE INDEFERIDO.
