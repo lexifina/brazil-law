@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CAUTELAR PREPARATÓRIA DE AÇÃO CIVIL PÚBLICA. 1. LIMINAR INDEFERIDA EM PRIMEIRA INSTÂNCIA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CARACTERIZADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7/STJ. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual, com esteio nos elementos fático-probatórios, concluiu pela extinção do feito sem julgamento do mérito, em face da impossibilidade jurídica do pedido. Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante a Súmula n. 7 do Superior Tribunal de Justiça.
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Agravo interno improvido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por IDBI - Instituto Brasileiro de Política e Direito da Informática contra decisão desta relatoria assim ementada (e-STJ, fl. 406):
+AGRAVO EM RECURSO ESPECIAL. CAUTELAR PREPARATÓRIA DE AÇÃO CIVIL PÚBLICA. 1. LIMINAR INDEFERIDA EM PRIMEIRA INSTÂNCIA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CARACTERIZADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7 DO STJ. 2. AGRAVO IMPROVIDO.
+Nas razões recursais, o agravante alega que todas as matérias ventiladas como fundamentos do recurso especial são de cunho estritamente processual, não cabendo, portanto, o reexame de provas.
+Pleiteia a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação às fls. 485-492 (e-STJ) com pedido de aplicação da multa do art. 1.021, § 4º, do NCPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CAUTELAR PREPARATÓRIA DE AÇÃO CIVIL PÚBLICA. 1. LIMINAR INDEFERIDA EM PRIMEIRA INSTÂNCIA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CARACTERIZADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7/STJ. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual, com esteio nos elementos fático-probatórios, concluiu pela extinção do feito sem julgamento do mérito, em face da impossibilidade jurídica do pedido. Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante a Súmula n. 7 do Superior Tribunal de Justiça.
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Agravo interno improvido.
+VOTO
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da decisão agravada.
+O Tribunal estadual, com esteio nos elementos fático-probatórios, concluiu pela extinção do feito sem julgamento do mérito, em face da impossibilidade jurídica do pedido.
+A decisão foi fundamentada nos seguintes termos (e-STJ, fls. 217-219):
+Na hipótese dos autos, o apelante/requerente pretende ajuizar ação de indenização por dano moral e material coletivo por conta do vazamento de informações de vários clientes da apelada/requerida que estavam armazenadas em sítio eletrônico.
+Conforme se conclui de pronto, os questionamentos que constituem o objeto desta ação cautelar não objetivam garantir a utilidade ou a eficácia de eventual sentença de mérito favorável às pessoas substituídas pelo autor coletivo.
+Em verdade, os quesitos veiculados por meio do processo cautelar consubstanciam um misto de investigação e de produção antecipada de prova oral, que não encontra respaldo no ordenamento jurídico pátrio.
+É fato que o magistrado dispõe de amplo e imprescindível poder de cautela, sem o que, inclusive, restaria inviabilizada em muitas oportunidades a própria prestação jurisdicional. Afinal, de nada adiantaria dotar o juiz do poder de, por exemplo, determinar a entrega de um determinado bem se ele não tivesse igualmente o poder de resguardar o referido bem por meio de uma anterior tutela de natureza cautelar.
+Ocorre que o processo cautelar não pode funcionar como sucedâneo de procedimento investigativo.
+Ainda que, de fato, as entidades de natureza associativa disponham de legitimidade para ajuizar ações coletivas na defesa de interesses difusos, coletivos e até individuais homogêneos, não lhes foi afetado o poder de investigação, que é adstrito ao Ministério Público, por meio do inquérito civil, ou à polícia judiciária, por meio do inquérito policial, conforme o caso.
+Se o apelante/requerente não dispõe de informações que julga imprescindíveis para o ajuizamento da ação civil pública indenizatória, infelizmente o processo cautelar não lhe socorre. (..)
+O que não se pode admitir, sob pena de subverter o papel do processo cautelar, é que ele seja utilizado para esclarecer ao apelante/requerente pontos obscuros quanto aos fatos ou mesmo para substituir a prova oral que, ordinariamente, deve ser produzida na fase instrutória do processo de conhecimento".
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante a Súmula n. 7 do Superior Tribunal de Justiça.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL FUNDADA EM INADIMPLEMENTO. INÉPCIA DA INICIAL. SÚMULA Nº 7 DO STJ. ILEGITIMIDADE DA PARTE. SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. NÃO OCORRÊNCIA. INTERESSE DE AGIR. SÚMULA Nº 7 DO STJ. TEORIA DA ASSERÇÃO. SÚMULAS 282 E 356 DO STF. PRESCRIÇÃO. NÃO INCIDÊNCIA. AUSÊNCIA DE INADIMPLEMENTO. SÚMULAS 5 E 7 DO STJ.
+1. A Corte de origem salientou que a petição inicial não é inepta, pois da narração dos fatos decorre a lógica conclusão, cristalizada no próprio pedido de solução de continuidade do compromisso de compra e venda de imóvel, cujos direitos foram cedidos ao apelado pela vendedora em instrumento contratual específico. Em outras palavras, afastar a conclusão de que a ação não padece de inépcia perpassa pela análise fático-probatória da causa, situação que encontra óbice nesta Corte Superior, conforme o entendimento consolidado na Súmula nº 7 do STJ.
+2. Afigura-se de clareza hialina que o acórdão recorrido apurou a legitimidade do autor da ação com base no próprio instrumento contratual e no acervo fático presente nos autos. Incidência das Súmulas 5 e 7 do STJ.
+3. É indubitável a possibilidade de propositura de ação de rescisão contratual fundada em inadimplemento no ordenamento jurídico pátrio, razão suficiente para afastar o argumento de impossibilidade jurídica do pedido.
+4. O acórdão estadual afastou o argumento de falta de interesse de agir, sob o fundamento de que estava presente o binômio necessidade-adequação, de modo que reconhecer a referida ausência demandaria a incursão no contexto fático-probatório, prática vedada pela Súmula nº 7 do STJ.
+5. A tese consistente na aplicação da teoria da asserção não foi objeto de apreciação pela Corte de origem, tornando-se inviável o debate hodierno, com o fim de evitar-se a supressão de instâncias. Incidência das Súmulas 282 e 356 do STF.
+6. O compromisso de compra e venda, no caso concreto, formalizou-se na vigência do Código Civil de 1916. Todavia, mesmo com a aplicação do Código Civil vigente, não há que se falar em prescrição, notadamente porque, ao aplicar-se a regra de transição prevista no art. 2.028, observa-se o transcurso de menos da metade do prazo estabelecido na lei revogada. Assim, mesmo com a aplicação do prazo prescricional decenal, não é possível defender a ocorrência da prescrição, visto que a própria Corte de origem assentou que o inadimplemento das prestações data de abril de 2001, tendo a ação sido proposta em agosto de 2009.
+7. A Corte de origem ressaltou, com fulcro na interpretação das cláusulas contratuais e no revolvimento do acervo fático-probatório constante nos autos, que o inadimplemento restou incontrastável, situação que não pode ser alterada, em virtude da incidência das Súmulas 5 e 7 do STJ. 8. Agravo interno não provido.
+(AgInt no AREsp n. 912.820/SP. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/9/2018).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. LEGITIMIDADE PASSIVA DO PROPRIETÁRIO DO VEÍCULO. SÚMULA N. 83/STJ. CERCEAMENTO DE DEFESA E IMPOSSIBILIDADE JURÍDICA DO PEDIDO. SÚMULA N. 7/STJ. DENUNCIAÇÃO DA LIDE. SÚMULA N. 83/STJ.
+1. A jurisprudência do STJ firmou-se no sentido de que o proprietário do veículo responde solidariamente pelos danos decorrentes de acidente de trânsito causado por culpa do condutor.
+2. Inviável rever o entendimento firmado pela instância de origem quando a sua análise demandar a incursão ao acervo fático-probatório dos autos.
+3. O STJ reconhece o direito de sub-rogação da seguradora nos direitos do segurado, nos termos da Súmula n. 188/STF: "O segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até ao limite previsto no contrato de seguro".
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 752.321/SP. Relator Ministro João Otávio de Noronha, Terceira Turma, DJe 2/2/2016).
+Por fim, relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes. (EDcl no AgInt no REsp 1480859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
