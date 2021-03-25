@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão proferido pelo Tribunal cuja ementa é a seguinte (fl. 178, e-STJ):
+TRIBUTÁRIO. IRPJ. CSLL. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. LIMITAÇÃO DE 30%. LEI Nº 8.981/95 E LEI 9.065/95. LEGALIDADE E CONSTITUCIONALIDADE.
+1. É assente na jurisprudência desta Corte e do STJ a legalidade da limitação da compensação em 30% dos prejuízos fiscais acumulados em exercícios anteriores com a finalidade de determinação da base de cálculo da CSLL e do IRPJ.
+2 . "É constitucional a limitação do direito de compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL" (RE 591.340- Tema 117/STF).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 42 e 58 da Lei 8.981/1995 edos arts. 15 e 16 da Lei 9.065/1995. Aduz, em suma (fl. 201, e-STJ):
+A Recorrente não desconhece o julgamento do Supremo Tribunal Federal que reconheceu que o limite de 30% para aproveitamento de prejuízo no abatimento do imposto de renda da pessoa jurídica e sobre a CSLL é constitucional.
+Contudo, entende que permanece a discussão sobre o seu pedido para que esta limitação incida tendo-se como premissa a continuidade da pessoa jurídica, excluindo-se interpretação que impeça o aproveitamento integral dos prejuízos fiscais de IRPJ e bases negativas de CSLL pela sociedade extinta. já que esse ponto não foi tratado no Tema no 117 da Repercussão Geral.
+Contrarrazões apresentadas às fls. 232-242, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.02.2021.
+O Tribunal exarou seu entendimento nestes moldes (fls. 339-341, e-STJ):
+Acresce que 27/06/2019, ao julgar o RE 591340 sob a sistemática da repercussão geral (Tema 117), o STF decidiu que são compatíveis com a Constituição da República os arts. 42 e 58 da Lei 8.981/95 e os arts. 15 e 16 da Lei 9.065/95, que limitam a possibilidade de compensação de prejuízos fiscais de IRPJ e base de cálculo negativa de CSLL a 30% do lucro líquido do ano-base, fixando a seguinte tese:
+É constitucional a limitação do direito de compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL.
+Primeiramente, observo que a solução da controvérsia se deu com fundamento eminentemente constitucional, pois a base do acórdão recorrido é ojulgamento do RE 591.340 RG/SP, Tema 117/STF, definindo que,verbis, "éconstitucional a limitação do direito de compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL."
+Ademais, ainda que tal óbice inexistisse, é certo queo art. 33 do Decreto-Lei 2.341/1987 (que dispõe sobre a correção monetária das demonstrações financeiras, para efeitos de determinar o lucro real) não admite que a empresa incorporadora compense prejuízos fiscais da empresa incorporada, a saber:
+Art. 33. A pessoa jurídica sucessora por incorporação, fusão ou cisão não poderá compensar prejuízos fiscais da sucedida.
+Parágrafo único. No caso de cisão parcial, a pessoa jurídica cindida poderá compensar os seus próprios prejuízos, proporcionalmente à parcela remanescente do patrimônio líquido.
+Tal vedação encontra precedentes no STJ, reafirmando a impossibilidade da compensação de prejuízos fiscais da empresa incorporada pela empresa incorporadora:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. CONTRIBUIÇÃO SOBRE LUCRO LÍQUIDO. COMPENSAÇÃO DE CRÉDITOS REFERENTES A BASE DE CÁLCULO NEGATIVA. SUCESSÃO DE EMPRESAS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, PORÉM, NESSA PARTE, DESPROVIDO.
+1. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que não viola o art. 535 do CPC, tampouco nega a prestação jurisdicional, o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota, entretanto, fundamentação suficiente para decidir de modo integral a controvérsia, conforme ocorreu no acórdão em exame, não se podendo cogitar de sua nulidade.
+2. Decidiu com acerto o Tribunal de origem ao adotar o seguinte entendimento: "A proibição da compensação dos prejuízos fiscais pela sucessora (por incorporação, cisão ou fusão), existente para o IRPJ (art. 33 do DL 2.341/87), somente deve ser aplicada à CSLL após a edição da MP 1.858-6, de 30 de agosto de 1999, que expressamente estende a referida vedação à contribuição. No presente caso, os processos de incorporação e de cisão ocorreram, respectivamente, em abril de 1999 e em 1997, e não foram atingidos pela nova restrição ao aproveitamento dos créditos de base de cálculo negativa da CSLL que passou a viger em novembro de 1999."
+3. Recurso especial parcialmente conhecido, porém, nessa extensão, desprovido. (REsp 949.117/RS, Rel. Ministra Denise Arruda, Primeira Turma, julgado em 01/12/2009, DJe 11/12/2009)
+TRIBUTÁRIO - COMPENSAÇÃO DE PREJUÍZOS FISCAIS - SUCESSÃO DE PESSOAS JURÍDICAS - INCORPORAÇÃO E FUSÃO - VEDAÇÃO - ART. 33 DO DECRETO-LEI 2.341/87 - VALIDADE - ACÓRDÃO - OMISSÃO: NÃO-OCORRÊNCIA.
+1. Inexiste violação ao art. 535, II, do CPC se o acórdão embargado expressamente se pronuncia sobre as teses aduzidas no recurso especial.
+2. Esta Corte firmou jurisprudência no sentido da legalidade das limitações à compensação de prejuízos fiscais, pois a referida faculdade configura benefício fiscal, livremente suprimível pelo titular da competência tributária.
+3. A limitação à compensação na sucessão de pessoas jurídicas visa evitar a elisão tributária e configura regular exercício da competência tributária quando realizado por norma jurídica pertinente.
+4. Inexiste violação ao art. 43 do CTN se a norma tributária não pretende alcançar algo diverso do acréscimo patrimonial, mas apenas limita os valores dedutíveis da base de cálculo do tributo.
+5. O art. 109 do CTN não impede a atribuição de efeitos tributários próprios aos institutos de Direito privados utilizados pela legislação tributária. 6. Recurso especial não provido.
+(REsp 1107518/SC, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 06/08/2009, DJe 25/08/2009)
+TRIBUTÁRIO. COMPENSAÇÃO. LUCRO DE EMPRESA INCORPORADA A SER COMPENSADO COM PREJUÍZO DA EMPRESA INCORPORADORA. AUSÊNCIA DE PREVISÃO LEGAL. PRINCÍPIO DA LEGALIDADE.
+1. A empresa incorporadora não pode compensar prejuízos apurados em determinado exercício com lucros obtidos por empresa incorporada, para fins de imposto de renda, por ausência de previsão legal.
+2. O silêncio da lei sobre determinada situação não gera direitos para as partes que compõem a relação jurídico-tributária.
+3. A homenagem ao princípio da legalidade tributária exige expressa disposição na lei da conduta a ser praticada pelo ente tributante e pelo contribuinte.
+4. Compensação não permitida. Precedente: REsp 54348/RJ, Rel. Min. Milton Luiz Pereira, 1ª Turma.
+5. Recurso improvido. (REsp 307.389/RS, Rel. Ministro José Delgado, Primeira Turma, julgado em 15/08/2002, DJ 17/03/2003, p. 179)
+Calha a transcrição do Voto da eminente Ministra Eliana Calmon no REsp 1.107.518/SC, que esclarece de forma definitiva a vedação estabelecida pelo art. 33 do Decreto-Lei 2.341/1987, com grifos acrescidos:
+O acórdão recorrido mostra-se coerente com a jurisprudência desta Corte que entende pelo caráter de benefício fiscal das regras que admitiam a compensação de prejuízos fiscais ou bases de cálculo negativas.
+Com efeito, a base de cálculo negativa exclui o tributo, nulificando o crédito tributário. Demonstra a inexistência de acréscimo patrimonial, tornando inaplicável a regra-matriz do imposto sobre a renda e proventos de qualquer natureza.
+É ilegal a incidência de imposto sobre a renda sobre o que não é acréscimo patrimonial, renda nova que evidencia a aquisição de capacidade contributiva.Coisa diversa é a compensação de prejuízos fiscais.As regras do imposto sobre a renda admitiam a compensação de prejuízos fiscais como instrumento de intervenção do Estado na economia para minimizar o impacto da carga tributária de empresas que durante certo tempo apresentaram resultados negativos.
+Daí inexistir violação ao art. 43 do CTN. A norma de compensação é norma de exercício da competência tributária do ente federativo e são fixadas segundo as balizas do CTN,mas com amplo espectro de liberdade pelos titulares do poder tributário. Nesse sentido, os entes federativos são livres para editar as normas que melhor lhes convirem, respeitados tão-somente as balizas constitucionais.A regra do art. 33 do Decreto-lei 2.341/87 foi editada nesse diapasão: para vedar a compensação de prejuízos fiscais nas operações de transformações da pessoa jurídica.
+Depreende-se de tal proceder que o objetivo foi impedir a elisão tributária, pois muitas empresas viram a reorganização societária como instrumento de planejamento tributário e passaram a se reorganizar com o único intuito da economia de tributos.Passou a ser um negócio vantajoso incorporar ou fundir a empresa deficitária como forma de reduzir a carga tributária.
+O titular da competência tributária pode através de normatização adequada excluir as zonas de não-incidência para impedir a utilização da elisão tributária. Não há o que a doutrina chamou de poder geral da Administração tributária para desconstituir atos e negócios jurídicos (a chamada norma geral antielisão) já que o art. 116, parágrafo único, do CTN é norma de eficácia limitada, carente de lei para produzir efeitos.
+Portanto,considerada a autorização para a compensação de prejuízos fiscais como forma de benefício fiscal, livremente suprimível pelos entes federativos no exercício da competência tributária, é perfeitamente válida a regra do art. 33 do Decreto-lei 2.341/87 e demais regras posteriores de igual teor.
+Por tudo isso, não conheçodo Recurso Especial.
+Publique-se.
+Intimem-se.
