@@ -1,0 +1,46 @@
+Trata-se de notícia-crime proposta pelo Vereador Douglas de Souza Gomes contra o também Vereador Bennio Augusto Rosa da Silva Santos (nome social Benny Briolly), a qual, ancorada em declarações exortadas em redes sociais e na Sessão Plenária da Câmara de Vereadores de Niterói/RJ, atribuiu ao requerido a possível prática do crime tipificado no art. 26 da Lei 7.170/1983 (Lei de Segurança Nacional).
+    O requerente alega, em síntese:
+    “[...] 3. DOS CRIMES PREVISTOS NA LEI DE SEGURANÇA NACIONAL (LEI 7.170/83) PRATICADOS PELO NOTICIADO
+    O Vereador de Niterói/RJ, BENNIO AUGUSTO ROSA DA SILVA SANTOS, nome social Benny Briolly, em discursos nas Sessões Plenárias na Câmara de Niterói e em postagens em suas redes sociais, tem sistematicamente difamado e caluniado o Presidente da República Jair Messias Bolsonaro, imputando-lhe crimes sem provas.
+    São diversas postagens e discursos onde o noticiado difama, calunia, imputa crime, incita ódio e violência contra o Presidente da República Jair Messias Bolsonaro.
+    Em seu perfil no Twitter, grande parte de suas postagens são ataques ao Presidente da República, com acusações de cometimento de crime . Vejamos:
+    [...]
+    Nas Sessões Plenárias na Câmara Municipal de Niterói o noticiado calunia e difama o Presidente da República sistematicamente, conforme se demonstra nas transcrições apresentadas abaixo e os vídeos que podem ser vistos nos links disponibilizados:
+    Sessão Plenária de 04/03/20212 (de 00:34:32 até 00:41:13)
+    Vereadores e vereadoras, boa noite!
+     Primeiro dizer que, nós estarmos aqui hoje nessa casa com as inúmeras discussões que estão acontecendo na cidade, no Estado do Rio de Janeiro e no mundo em relação ao aumento da Covid-19, isso traz para a gente uma reflexão muito forte de como que deve ser a partir de então a nossa atuação dentro desse Parlamento.
+    Estive essa semana nas ruas, na semana passada estive nos ônibus, na barca, nas favelas e periferias, fazendo prestações de contas da minha mandata, sobre nossas atuações, ouvindo as pessoas, ouvindo a população de Niterói e me cabe ressaltar algo que para mim é inédito, mas também, como diz minha avó, que a minha vó evangélica fala que é a pata do capeta. Eu digo logo que é o cuspe dos fascistas e dos bolsominions botando a pata nessa história.
+    Existe um discurso falso, mentiroso e calunioso dos fascistas e dos bolsonaristas na cidade de Niterói, de que a crise econômica, o fechamento das lojas, aquilo que afeta os empresários liberais, os lojistas e aqueles que são afetados pela covid-19, que isso é nossa culpa, porque o governo Axel quer fechar as lojas, porque o governo de esquerda, progressista, fulano de tal, tá fechando comércio.
+    O governo fascista, o governo genocida, daquilo que a gente chama, daquela coisa que a gente chama de Presidente, é o culpado pela crise econômica.
+     Em 2018, antes da pandemia, antes da covid-19 chegar no Brasil, nós tivemos o menor PIB de 20 anos na história do Brasil. Essas reflexões, óbvio, de uma má gestão, de um crápula que se coloca na Presidência da República, isso iria se refletir na covid-19.
+     Se o governo Bolsonaro, negacionista da covid, negacionista da ciência, negacionista daqueles que ousaram dar as suas vidas em prol de uma ciência do avanço tecnológico, não fosse tão boçal e bárbaro, hoje falando para os donos de lojas, pros empresários, pros lojistas, pros comerciantes aqui em Niterói, no Estado do Rio de Janeiro, no Brasil, nós já teríamos a maior parte da população vacinada.
+    Então, não vem com essa de subir nesta Tribuna, não vem colocar em redes sociais, dizer que o governo da cidade, que tem uma atuação inquestionável no combate da covid-19, que nós da bancada do PSOL trabalhamos alinhados com esse governo no combate a covid-19, que isso é culpa do governo. Isso é uma falácia. Isso se chama burrice, isso se chama falta de levantamentos de dados e estudos econômicos dos últimos 10 anos de gestão do Brasil.
+    Se a gente tem hoje uma crise econômica, se a gente tem hoje lojas e comércios que não conseguiram sequer avançar nessa crise econômica, é porque a gente tem uma barbaridade de um governo que se negou, desde o início da compra das vacinas, a entrar no plano de vacinação que estava sendo estabelecido mundialmente.
+    Agora, chegar aqui nessa Tribuna e dizer que isso é culpa do governo Municipal, eu não sei se é ridículo, se passa vergonha no cartão de crédito, no débito, se dá um cheque pré-datado. Porque de fato, isso é uma barbárie. Assim, não sei realmente, eu fico pensando assim, o que que as pessoas, o que que Vossas Excelências pensam ao subir nessa Tribuna e se direcionar a população de Niterói, uma população de 80% de classe média, de acesso a nível superior achando que as pessoas são ignorantes assim, é ridículo, é ridículo.
+    Então, se precisa fazer um questionamento, esse questionamento é a desgraça, a barbárie, a burrice extrema desse fascista, mentiroso, genocida, hipócrita, misógino, LGBT fóbico, que estabelece ainda processos escravocratas.
+    Aí dizer que a hipocrisia é nossa, que a gente chama de racista, que a gente chama disso ou daquilo outro, um governo que diz, um presidente, que os quilombolas não servem nem para procriar.
+     Se isso não é racismo Vereador Douglas, eu quero que o senhor, que Vossa Excelência possa ler a tipificação, a lei de racismo e entender o que que é racismo. Porque se a lei não consegue lhe traduzir o que que é racismo, eu acho que eu, não vou ser eu que vou conseguir.
+     Um governo que o Presidente da República abre a boca para dizer o que mencionei, que um quilombola não serve para procriar, esse governo é racista sim E AQUELES QUE APOIAM ESSE GOVERNO COMO VOSSA EXCELÊNCIA É UM REPRODUTOR DO RACISMO ESTRUTURAL BRASILEIRO, DAQUELE QUE PERMEIA AS DESIGUALDADES SOCIOECONÔMICAS HISTÓRICAS DESDE 1500 NESSE PAÍS.
+    Aqui, nessa casa vereador, graças as forças dos nossos oxus e orixás de deus, aqueles que andam à nossa frente, trazem boas energias, seja do governo, seja da oposição, mas minoria bolsonarista na cidade em que nós progressistas de esquerda construímos a política, Vossa Excelência não vai se criar. Gn” (sem os grifos do original)
+    Aduz, outrossim, que:
+    “Dessa forma, restou claro que o noticiado incorreu no crime do artigo 26 da Lei de Segurança Nacional, ao fazer essas inúmeros postagens em seu perfil no Twitter, imputando-lhe crimes e ofendendo a honra e a reputação do Presidente da República.
+    Veja bem, o noticiado imputou ao Presidente da República o crime de assassinato em massa, quando o chama de genocida, cometendo o crime de calúnia.
+    A calúnia é o delito mais grave de todos os crimes contra a honra previstos no Código Penal, isto porque na narração da conduta típica, a lei penal aduz expressamente a imputação falsa de um fato definido como crime. “
+     Ao final, no mérito, pediu o seguinte:
+    “[...]
+    Ante o exposto, requer a Vossa Excelência:
+    1.. Que seja recebida a presente notícia-crime, a fim de averiguar a existência do crime previsto no artigo 26 da Lei de Segurança Nacional, pleito este feito com guarida no art. 5º, inciso II, do Código Penal;
+    2. recebida a peça de notícia criminosa, reconhecido o estado de flagrante na esteira da recente decisão proferida e ratificada à unanimidade pelo STF no inquérito 4781, seja então determinada a prisão em flagrante do senhor Benny Briolly, por se tratar de medida de isonomia e justiça!
+     3. A retirada das postagens criminosas da internet e redes sociais, pelas razões retro expostas.” (grifei)
+    É o relatório. Decido.
+    Cumpre destacar, inicialmente, que esta Suprema Corte foi concebida, dentre as atribuições constitucionais previstas na Carta de Direitos de 1988, como juiz natural dos parlamentares do Congresso Nacional nas infrações penais a eles imputadas, ex vi dos arts. 53, § 1º e 102, I, b, da CF/88. O denominado foro por prerrogativa de função, como é notório, foi estatuído pelo legislador constituinte em razão da relevância de determinadas funções e cargos públicos.
+    Nesse sentido, Eugênio Pacelli afirma:
+     “Optou-se, então, pela eleição de órgãos colegiados do Poder Judiciário, mais afastados, em tese, do alcance das pressões externas que frequentemente ocorrem em tais situações, e em atenção também à formação profissional de seus integrantes, quase sempre portadores de mais alargada experiência judicante, adquirida ao longo do tempo de exercício na carreira” (DE OLIVEIRA, Eugênio Pacelli. Curso de processo penal. 11. ed. Rio de Janeiro: Editora Lumen Juris, 2009. p. 187).
+    Em outras palavras, o Supremo Tribunal Federal é incompetente para a análise, e eventual julgamento, das supostas práticas delituosas atribuídas a vereador lotado na Comarca de Niterói/RJ, sob pena de violação do princípio do juiz natural.
+    Poderá o peticionante, se assim o desejar, provocar diretamente os órgãos de controle competentes para o exame dos pedidos formulados na peça exordial.
+    Isso posto, com base no art. 21, §1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao pedido.
+    Publique-se.
+    Arquive-se.
+    Brasília, 25 de março de 2021.
+Ministro Ricardo Lewandowski
+Relator
