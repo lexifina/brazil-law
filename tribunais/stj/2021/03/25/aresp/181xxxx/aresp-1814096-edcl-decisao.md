@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MANOEL ENILTON SOUTO MEDEIROS à decisão de fls. 771/772, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Desse modo, demonstrada a ocorrência da prescrição administrativa e estando o feito em tramitação neste d. Juízo, e, tratando a prescrição de matéria de ordem pública, que, portanto, pode ser declarada de ofício pelo juiz em qualquer fase processual, não estando sujeita à preclusão, REQUER a defesa seja reconhecida e decretada a prescrição, bem como determinada a extinção do feito, mantendo-se o justificante nas fileiras da corporação.
+Entendendo de forma diversa, pugna a defesa que o presente julgamento seja suspenso e que os autos sejam remetidos ao juiz natural, qual seja o órgão da TERCEIRA CAMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, na pessoa do Exmo. Relator Desembargador CARLOS EDUARDO ROBOREDO, para que seja analisada a petição nº 202100012899, datada de 13/01/2021, relativa ao reconhecimento da prescrição administrativa alhures tratada (fls. 777/778).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Observe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo. Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado (EDcl nos EDcl no AgInt no MS 21.992/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 19/08/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
