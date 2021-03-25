@@ -1,0 +1,19 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.ACIDENTE DE TRABALHO. CERCEAMENTO DE DEFESA E AUSÊNCIA DE NEXO CAUSAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO PARTICULAR.
+1. Agrava-se de decisão que negou seguimento a recurso especial interposto por MARIA APARECIDA RUZA, com fundamento no art. 105, inciso III, alíneasa e c, da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJ/SP, assim ementado:
+ACIDENTE DO TRABALHO AUXÍLIO-DOENÇA OPERADORA DE MONTAGEM MALES NA COLUNA E NOS MEMBROS SUPERIORES - CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA DESNECESSIDADE - LAUDO MÉDICO CONCLUSIVO - AUSÊNCIA DE INCAPACIDADE LABORATIVA - BENEFÍCIO INDEVIDO.
+Para a concessão do benefício acidentário é imprescindível a existência do nexo causal com o trabalho e a efetiva incapacidade profissional. A ausência de qualquer destes requisitos desautoriza o deferimento da reparação. Preliminar rejeitada. Recurso desprovido(fls. 229/234).
+2. Os Embargos de declaração opostos foram rejeitados (fls. 226/273).
+3. Nas razões de seu apelo nobre inadmitido, a parte recorrente aponta infringência dos arts. 86 da Lei 8.213/1991 e dos arts. 11, 370, 371, 468, 479,480 e 489 todos do CPC/2015. Argumenta para tanto: (a) cerceamento de defesa; (b) inaplicabilidade da súmula 7 do STJ; (c) a existência de incapacidade laboral e ocorrência de nexo causal da lesão com o trabalho exercido. Aponta divergência jurisprudencial erequer ao final a concessão de benefício de auxílio-acidente.
+4. Sem contrarrazões(fls. 324). O recurso foi inadmitido na origem (fls. 325/326).
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. No mais, no caso dos autos, conforme analisado pelo Tribunal de origem, foi desnecessária a conversão do julgamento em diligência para complementação do laudo pericial, bem como ficou caracterizada a inexistência da incapacidade laborativa. Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+A preliminar não comporta provimento. Não há que se falar em cerceamento de defesa.
+O juízo como destinatário da prova pode indeferir diligências que considerar inúteis ao deslinde do feito, quando existirem nos autos elementos suficientes para formar sua convicção, tal como no caso em tela.
+E é desnecessária a conversão do julgamento em diligência para complementação do laudo pericial, uma vez que o trabalho técnico é claro, bem fundamentado e coerente em sua conclusão, bem como a acenada prova testemunhal seria insuficiente para refutar a conclusão do especialista.
+(..)
+Na avaliação médica designada, o expert, valendo-se de exames físico e complementares, concluiu que: "..no momento deste exame pericial, do ponto de vista ortopédico, não há sinais objetivos de incapacidade e/ou de redução da capacidade funcional, que pudessem ter sido constatados, que impeçam o desempenho do trabalho habitual da periciada. Não se observam sequelas e/ou doenças consolidadas que impliquem em redução para o trabalho que a autora habitualmente exerce" (fls. 110/118)(fl. 233/231).
+8. Assim, a alteração dessa conclusão, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos, a fim de verificar o cerceamento de defesa eo nexo causal entre o acidente sofrido e a perda da capacidade laboral. Desse modo, tal medida encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+9. Ante o exposto, conheço do agravo para não conhecer do recurso especial do particular.
+10. Publique-se. Intimações necessárias.
