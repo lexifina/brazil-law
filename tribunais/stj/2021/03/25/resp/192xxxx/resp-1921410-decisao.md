@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte (fl. 267, e-STJ):
+AGRAVO REGIMENTAL. NOVOS ARGUMENTOS. AUSÊNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas hipóteses em que o recurso regimental não traz argumentos novos ou minimamente suficientes para infirmar a decisão recorrida ou, ainda, apenas repisa os fundamentos do próprio agravo de instrumento, não há como dar-lhe provimento, a fim de proceder a qualquer alteração no julgado.
+2. Agravo regimental não provido.
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 295, e-STJ):
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. ACÓRDÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INOCORRÊNCIA. REDISCUSSÃO DO MÉRITO. DESCABIMENTO. PREQUESTIONAMENTO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nega-se provimento aos embargos de declaração quando não se verifica na sentença ou no acórdão qualquer obscuridade, contradição ou omissão em relação a ponto sobre o qual deveria pronunciar-se o juiz ou tribunal. Ausente, ainda, erro material.
+2. Inviabilidade dos embargos para modificação do mérito do julgado, sendo necessária a inequívoca ocorrência dos vícios enumerados no art. 1.022 do CPC/2015 para conhecimento dos embargos de declaração, o que não ocorre com a simples finalidade de prequestionamento.
+3. Embargos de declaração rejeitados.
+A recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 489 e 1.022 do CPC/2015 e do art. 548 do CPC/1973. Afirma que a Corte de origem "deixou de examinar questões essenciais oportunamente suscitadas pela recorrente, que, acaso consideradas, modificariam por completo o julgamento pelo Tribunal a quo" (fl. 303, e-STJ). Aduz, em suma (fl. 312, e-STJ):
+Ou seja, pelo princípio da publicidade, a redistribuição do recurso deveria ter sido publicada, dando-se ciência às partes dessa condição. Caso assim não entendêssemos, como seria possível às partes argüir suspeição ou impedimento da relatoria do recurso  É evidente que os trâmites de redistribuição da Turma não foram válidos e/ou transparentes (..).
+Dessa forma, acabou por negar vigência à lei federal, em ofensa ao art. 548, do CPC/73, atual art. 930, caput, do CPC/15, motivo pelo qual deve ser reconhecida não só a nulidade do Acórdão proferido, mas também da própria Decisão Monocrática proferida em 10.12.2014, em virtude da sua falta de publicidade, certificando-se a redistribuição nos autos e, posteriormente, publicando-a, dando ciência às partes para o que lhes for de direito.
+Contrarrazões apresentadas às fls. 315-319, e-STJ.
+Decisão de admissibilidade do recurso às fls. 321-322, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.3.2021.
+Assiste razão à parte recorrenteno que tange à violação do art. 1.022 do CPC/2015.
+Nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a insurgente destaca a seguinte tese jurídica (fl. 279, e-STJ):
+O presente Agravo de Instrumento foi distribuído livremente a essa Sétima Turma, em 15.09.2014, à Relatoria do Juiz Federal Convocado Rafael Paulo Soares Pinto, que, conforme informado por este Tribunal, encontrava-se, temporariamente, completando a Turma, em virtude da ausência do Ilustre Desembargador Luciano Franco Tolentino Amaral, aposentado em junho de 2014. Vê - se pela movimentação processual que o processo inicialmente é remetido ao gabinete do Desembargador Federal Luciano Amaral, ou seja, o processo foi de fato distribuído ao Desembargador aposentado  ou a quem estivesse ocupando o seu assento na Turma.
+Em 16.09.2014, o referido Juiz Convocado proferiu despacho dispensando as informações, conferindo vista à Agravada, para contra-razões, e dispondo que apreciaria o pedido de efeito suspensivo somente após a manifestação da Agravada. Pois bem, em 01.10.2014 há o protocolo das contra-razões da Agravada seguido da expedição da certidão cartorária de 01.10.2014, que abriu conclusão novamente ao Juiz Federal Convocado Rafael Paulo Soares Pinto.
+Eis que, em 29.10.2014, o processo é redistribuído por transferência ao gabinete da Desembargadora Federal Ângela Catão, tendo sido lá recebido eletronicamente no mesmo dia. Dessa redistribuição, não houve publicação e nem sequer constam quaisquer certidões de redistribuição atestando o ocorrido nos autos.
+Simplesmente, a Agravante não sabe o que ocorreu com a relatoria do seu recurso, ficando totalmente desprovida de segurança jurídica. Mais curioso ainda é que, dezenove dias antes, em 10.12.2014, a Decisão Monocrática já tinha sido foi proferida pela nova relatora, negando seguimento ao Agravo. Ou seja, quando a Decisão Monocrática chegou à ciência da Agravante, veio proferida por Relator distinto.
+Contra essa decisão, a Embargante interpôs o recurso de Agravo Regimental, e, posteriormente, em 30.01.2014, suscitou relevante questão de ordem, eis que a Decisão Monocrática proferida foi nula de pleno direito, já que não se soube (e até agora não se sabe, pois o Acórdão nada tratou a esse respeito) a quais critérios a redistribuição do recurso obedeceu, além de que à ela não foi conferida qualquer publicidade.
+Dispõe o Código de Processo Civil, em seu art. 548:
+(..)
+Ou seja, pelo principio da publicidade, a redistribuição do recurso deveria ter sido publicada, dando-se ciência às partes dessa condição. Caso assim não entendêssemos, como seria possível às partes argüir suspeição ou impedimento da relatoria do recurso  É evidente que os trâmites de redistribuição da Turma não foram válidos e/ou transparentes, devendo, no primeiro caso, ter sido realizada nova redistribuição do Agravo de Instrumento, para o proferimento de nova Decisão Monocrática, e, no segundo, ser certificada a redistribuição da relatoria do recurso nos autos, com a sua posterior disponibilização na imprensa oficial, permitindo às Partes que se manifestem quanto a este desdobramento processual, se assim desejarem.
+Porém, verifica-se que a Corte local não analisou, em Embargos de Declaração, a questão apresentada pela parte recorrente, a qual configura matéria relevante ao deslinde da controvérsia.
+É notório o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e de que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, por não abranger toda a controvérsia.
+No caso, o fundamento utilizado pelo Tribunal a quo não é hábil a afastar a argumentação tida como ignorada.
+Mesmo com os Aclaratórios opostos para sanear a lacuna, a Corte de origem deixou de se manifestar sobre aquela. Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+(..)
+3. O recurso merece acolhida, ante a aparente violação ao artigo 1.022 do CPC, pela configuração de omissão relevante no julgado, relativa à análise da questão referente ao fato de não ter sido o benefício de salário-maternidade incluído no acordo trabalhista realizado pela parte autora com ex empregador, omissão essa não superada a despeito da oposição de Embargos Declaratórios.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.
+(REsp 1697338/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE.
+1. O aresto proferido no julgamento da apelação não emitiu pronunciamento acerca da legitimidade de condicionar a liberação de mercadoria importada à prestação de garantia, nos termos do art. 80 da Medida Provisória nº 2.158, de 24.08.01, argüida em contestação e nas razões de apelo. Há violação do artigo 535 do CPC quando a Corte de origem se descuida de apreciar matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário e da remessa oficial.
+2. Regresso dos autos à origem para que novo acórdão seja proferido nos embargos de declaração. 3. Recurso especial provido.
+(REsp 936.858/RN, Rel. Ministro CASTRO MEIRA, DJ 16.8.2007.)
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - CORREÇÃO MONETÁRIA - VIOLAÇÃO DO ART. 535 DO CPC - OCORRÊNCIA - RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Omissão sobre teses relevantes para a solução do litígio suscitadas oportunamente em embargos de declaração e que não foram examinadas pelo Tribunal de origem.
+2. Necessidade de rejulgamento dos embargos, diante da contrariedade ao art. 535 do CPC. 3. Recurso especial provido.
+(REsp 781.965/RJ, Rel. Min. Eliana Calmon, DJ 13.8.2007.)
+Diante do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos Aclaratórios, se manifeste expressamente acerca da tese trazida pela recorrente referente à suposta violação do art. 548 do CPC/1973 (art. 930 do CPC/2015).
+Publique-se.
+Intimem-se.
