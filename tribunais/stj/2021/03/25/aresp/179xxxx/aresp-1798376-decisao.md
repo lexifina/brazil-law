@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. LEI Nº 13.670/2018. VEDAÇÃO DE COMPENSAÇÃO COM OS DÉBITOS RELATIVOS AO RECOLHIMENTO MENSAL POR ESTIMATIVA DO IMPOSTO SOBRE A RENDA DAS PESSOAS JURÍDICAS (IRPJ) E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO (CSLL), APURADOS NA FORMA DO ART. 2º DA LEI 9.430/96. POSSIBILIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO.
+1- Embora não desconheça que o contribuinte não possui direito adquirido a regime jurídico, em vários casos semelhantes ao presente, vislumbrei a possibilidade de ser necessário, nessas hipóteses, o respeito ao princípio da anterioridade, tendo em vista que, quando a legislação anterior estabeleceu para o contribuinte duas opções e que a escolha seria irretratável naquele exercício, gerou para ele a legítima expectativa de manter-se no regime escolhido naquele exercício, razão pela qual, nesse aspecto, a norma feriria a boa-fé objetiva e a confiança legítima do contribuinte, que, através da escolha irretratável durante um exercício, planejou suas atividades econômicas frente ao ônus tributário esperado.
+2- Contudo, a Segunda Seção Especializada, ao julgar o agravo de instrumento nº 5000747-37.2018.4.02.0000, decidiu que a regra de opção irretratável não conferia ao contribuinte o direito adquirido a regime jurídico, cuja modificação poderia ocorrer a partir do advento da nova legislação, respeitados os princípios constitucionais aplicáveis à hipótese.
+3- Tal entendimento encontra-se em consonância com a sentença que ora se examina. Dessa forma, curvo-me ao entendimento do Colegiado da 2ª Seção Especializada para negar provimento ao recurso da impetrante.
+4-Precedentes desta Turma em casos idênticos: TRF2, APEL/REEX 50057475020184025001, Terceira Turma Especializada, Rel. Des. Fed. CLAUDIA NEIVA, DJ 14/05/2019; TRF2, APELREEX 5001915- 40.2018.4.02.5120/RJ, Rel. Des. Fed. Theophilo Miguel, DJ 30/04/2019.
+5- Apelação de GL EVENTS CENTRO DE CONVENÇÕES S.A não provida.
+Os Embargos de Declaração foram rejeitados (fls. 449-450, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 156, II, do CTN e 3º da Lei 9.430/1996.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.3.2021.
+O Tribunal de origem não admitiu o Recurso Especial sob o seguinte fundamento (fls. 527-528, e-STJ):
+Não deve ser admitido o recurso. Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos infraconstitucionais alegadamente violados.
+O resultado do julgamento baseia-se em determinada premissa fática.
+Admitidos os fatos, as conclusões não destoam da lei, daí que não cabe recurso especial, pois a aferição da ofensa a texto de lei teria que reanalisar os fatos, e isto é incabível.
+O julgado analisa a legislação e, apurados os fatos, deu interpretação no mínimo razoável à lei, daí que se aplica, mutatis mutandis, o teor da antiga súmula nº 400 do STF, e a hipótese é de inadmissão do recurso.
+À luz da súmula nº 7 do Superior Tribunal de Justiça, é vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos ("A pretensão de simples reexame de prova não enseja recurso especial"). Significa dizer que a premissa equivocada deve ser demonstrada com o corpo teórico constatado pelo acórdão atacado, à luz das premissas de fato por ele vislumbradas.
+In casu, da análise dos autos, verifica-se que o órgão julgador decidiu a controvérsia após apreciação dos fatos, sendo certo que, para se chegar à conclusão diversa do exposto no acórdão, seria imprescindível reexaminar o conjunto fático - probatório, o que, como visto, é vedado.
+Portanto, o debate no especial encontra óbice na súmula n.º 7 do STJ. Não restou demonstrado, sem necessidade de exame dos fatos e provas, que o julgado
+Para que se efetive o conhecimento do Agravo, é necessário o desenvolvimento pela parte interessada de arrazoado suficiente para a impugnação dos motivos da decisão de negativa de admissibilidade ao apelo nobre.
+Da análise da presente insurgência conclui-se que a parte agravante não impugnou especificamente os fundamentos da decisão vergastada, limitando-se a reafirmar os argumentos do Recurso Especial.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que não se conhece do Agravo em Recurso Especial que não tenha combatido especificamente os fundamentos da decisão questionada, nos termos do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos
+(EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão MinistroLuis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena.
+(AgRg no AREsp 1.193.328/GO, Re. MinistroNefi Cordeiro, DJe 11.5.2018).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
