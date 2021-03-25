@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por KARINE LIRIA ORTEGA DA SILVA contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Apelação Criminal n. 0076511-98.2014.8.26.0050.
+Consta dos autos que a Agravante foi condenadaao cumprimento da pena privativa de liberdade de 4 (quatro) anos, 5 (cinco) meses e 10 (dez) dias, em regime inicial semiaberto, e pagamento de 351 (trezentos e cinquenta e um) dias-multa, comoincursa no art.155, § 4.º, inciso II, por vinte e sete vezes, na forma do art.71, ambos do Código Penal(fl. 1.105).
+Houve recurso de apelação da Defesa, ao qual o Tribunal de origem deu parcial provimento "para diminuir as penas a 3 (três) anos, 10 (dez) meses, 20 (vinte) dias de reclusão e 18 (dezoito) dias-multa, no valor unitário de 1/3 (um terço) do salário mínimo, substituída, a privativa, por duas restritivas de direitos, consistentes em prestação de serviços à comunidade, pelo mesmo prazo, e pecuniária de 10 (dez) salários mínimos a favor da empresa-vítima, com regime aberto em caso de descumprimento" (fl. 1.187).
+A Defesa aponta, nas razões do recurso especial, violação aoart. 59 do Código Penal, sob alegação de que a pena-base teria sido exasperada com lastro em elementos inerentes ao tipo penal(fl. 1.212).
+Requer, assim, a reforma do acórdão a fim de que seja apena-base reduzida ao mínimo legal(fl. 1.213).
+As contrarrazões foram apresentadas (fls. 1.218-1.224).
+O Recurso especial não foi admitido na origem (fls. 1.227-1.228).
+Interposto agravo em recurso especial (fls. 1.231-1.240), a Acusação apresentou contraminuta (fls. 1.243-1.246).
+O Ministério Público Federal manifestou-se às fls. 1.263-1.264, opinando pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou o fundamento da decisão agravada, razão pela qual passo ao exame do recurso especial.
+O Tribunal localreformulou a dosimetria da pena nos seguintes termos (fls. 1.194-1.196;grifos diversos do original):
+"As iniciais partiram com implícito acréscimo de 1/3, 2 anos, 8 meses de reclusão e 13 dias-multa, com justificativa calcada no grande prejuízo causado à empresa-vítima e em razão de ter se aproveitado de sua condição de funcionária com acesso à recarga de cartões de benefícios, de modo a favorecer seu intento criminoso, mantendo-se apenas o primeiro fundamento, porquanto o remanescente é inerente à própria fraude, readequando-se a 1/6: 2 anos, 4 meses de reclusão e 11 dias-multa.
+Ausentes agravantes ou atenuantes.
+Na derradeira, bem reconhecida a continuidade delitiva, porquanto a subtração se deu por 27 vezes - consoante se observa da denúncia (fls. 1/12) e documentos anexados -, nas mesmas condições de tempo, lugar e maneira de execução, devendo, o subsequente, ser havido como continuação do primeiro, nos termos do CP, art. 71, caput, corretamente aplicado o aumento de 2/3, obtendo-se a privativa de 3 anos, 10 meses e 20 dias de reclusão pois este Relator segue a orientação de que o número de infrações cometidas, salvo situação especialíssima, serve como critério para determinar o quantum de aumento.
+ ..
+Diante das penas ora readequadas e por se tratar de agente primária, possível a substituição da privativa por duas restritivas de direitos, consistentes em prestação de serviços à comunidade, por igual prazo, e pecuniária de dez salários mínimos em favor da empresa-vítima, com regime aberto em caso de descumprimento, suficiente à reprovabilidade.
+ ..
+Diante do exposto, dá-se provimento parcial ao recurso, para diminuir as penas a 3 (três) anos, 10 (dez) meses, 20 (vinte) dias de reclusão e 18 (dezoito) dias-multa, no valor unitário de 1/3 (um terço) do salário mínimo, substituída, a privativa, por duas restritivas de direitos, consistentes em prestação de serviços à comunidade, pelo mesmo prazo, e pecuniária de 10 (dez) salários mínimos a favor da empresa-vítima, com regime aberto em caso de descumprimento, preservada, no mais, a sentença."
+Com efeito, o entendimento adotado pela instância ordinária está em harmonia com a jurisprudência desta Corte Superior,que é firme no sentido de que o valor do prejuízo quedesbordados ínsitos à espécieconstitui justificativa válida para o desvalor das consequências do crime, como na hipótese em apreço, em que o prejuízo causado à empresa vítima foi de R$ 54.090,00, conforme consignado na dosimetria da pena efetivada na sentença (fl. 1.104).
+Sobre o tema:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. ELEVADO VALOR DA RES FURTIVA. ACRÉSCIMO CONCRETAMENTE MOTIVADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - A jurisprudência desta Corte de Justiça é no sentido de que, nos crimes patrimoniais, o valor do prejuízo somente pode ser considerado para elevar a pena-base, quando se mostrar exacerbado, excedendo às consequências ínsitas ao tipo penal violado.
+IV - Na hipótese, sobre o desvalor das consequências do crime, houve justificativa concreta para o aumento da pena-base, em razão do significativo valor da res furtivae, "um gado reprodutor, selecionado (p. 11-12) e avaliado em R$ 9.000,00 (nove mil reais)" o qual não foi restituído à vítima, fatores que apontam maior censura na conduta e justificam a exasperação da pena-base, em atendimento aos princípios da proporcionalidade e da individualização da pena.Precedentes.
+Habeas corpus não conhecido." (HC 557.515/MS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJ/PE, QUINTA TURMA, julgado em 20/02/2020, DJe 02/03/2020; sem grifos no original.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO E ESTELIONATO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE E CONDUTA SOCIAL. PROCESSOS EM ANDAMENTO.SENTENÇA PROFERIDA EM 2004. PLEITO DE APLICAÇÃO RETROATIVA DA SÚMULA 444/STJ. IMPOSSIBILIDADE. CONSEQUÊNCIAS DO CRIME. PREJUÍZO EXPRESSIVO. FUNDAMENTO IDÔNEO PARA JUSTIFICAR O AUMENTO DA SANÇÃO INICIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência desta Corte superior.
+2. Não é devido, em sede de revisão criminal, a aplicação retroativa de entendimento jurisprudencial, ainda que sumulado, com o objetivo de preservar a segurança jurídica e por ausência de previsão legal.
+3. Ainda que o prejuízo material não tenha o condão de justificar, por si só, o aumento da pena, por configurar, em regra, fator comum à espécie (furto), quando o prejuízo se mostrar anormal ou expressivo, desbordando dos ínsitos à espécie, constitui justificativa válida para o desvalor. Precedente.
+4. Agravo regimental improvido."(AgRg no HC 420.696/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018;sem grifos no original.)
+Desse modo, aplica-se, quanto à questão, o disposto no Enunciado n. 568desta Corte, deseguinte teor: "O relator, monocraticamente e no SuperiorTribunal de Justiça, poderá dar ou negar provimento ao recurso quandohouver entendimento dominante acerca do tema."
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTOaorecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO PELO ABUSO DE CONFIANÇA. PENA BASE. CONSEQUÊNCIAS DO CRIME. EXASPERAÇÃO EM 1/6 (UM SEXTO). ELEVADO VALOR DO PREJUÍZO CAUSADO.FUNDAMENTAÇÃO IDÔNEA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AORECURSO ESPECIAL.
