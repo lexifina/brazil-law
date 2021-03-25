@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência das súmulas 7 e 83/STJ.
+Histórico da causa.
+Dessume-se, dos autos, que os Embargos à Execução Fiscal foi julgado improcedente. A Apelação não foi provida. O Recurso Especial teve seu seguimento negado por ausência de prequestionamento do art. 1º da LC 116/2003 e por que o julgamento se deu com base no art. 12 do DL 406/1968. Não houve qualquer alteração nasdemais decisões e assim ocorreu o trânsito em julgado.
+Cabe ressaltar que o Recurso Especial, inadmitido em razão da Súmula 83/STJ, ascendeu ao STJ,aguardou o desfecho do repetitivoe foijulgado em 2013, não ultrapassando sequer a barreira do conhecimento.
+A Ação Rescisória - em que se alega desrespeito àordem de sobrestamento do processo em razão de Recurso Especial Repetitivo no Superior Tribunal de Justiça e, por outro lado, defende interpretação a respeito do sujeito ativo para a cobrança do ISS sobre operações de arrendamento mercantil em sentido oposto àquele posteriormente fixado pela Corte Superior -foi julgada improcedente.
+O Agravo Regimental foi desprovido e os Embargos de Declaração rejeitados.
+O Recurso Especial foi provido para que houvesse o regular julgamento da Ação Rescisória (fls. 1540-1568, e-STJ):
+Dessarte, in casu, deveria o Sodalício a quo ter mantido o presente feito sobrestado, o que não ocorreu. A não suspensão do processo resultou na prolação de acórdão contrário à orientação do Superior Tribunal de Justiça. Nesse quadro, houve violação literal ao art. 543-C, § 2º, do CPC.
+Por tudo isso, dou provimento ao Recurso Especial, determinando o retorno dos autos ao Tribunal de origem para que haja o regular julgamento da Ação Rescisória. (Resp 1.569.658/MS, Rel. Min. Herman Benjamin)
+Novo acórdão foi proferido e assim ementado (fls.1313-1328, e-STJ):
+AÇÃO RESCISÓRIA - ART. 485, V, DO CPC/73 - INTERPRETAÇÃO PACIFICADA À ÉPOCA DA PROLAÇÃO DA DECISÃO RESCINDENDA - ALTERAÇÃO DE ENTENDIMENTO POSTERIOR EM RECURSO REPETITIVO - SUSPENSÃO DO RECURSO COM BASE NO 543-C - DIRETO À RAZOÁVEL DURAÇÃO DO PROCESSO - INEXISTÊNCIA DE VIOLAÇÃO À LITERAL DISPOSIÇÃO DE LEI NÃO CABIMENTO DA AÇÃO RESCISÓRIA - SÚMULA 343 STF NÃO REVOGADA - IMPROCEDÊNCIA.
+A alegação de violação à literal disposição de lei (inciso V, do artigo 485), que desafia a coisa julgada implica a interpretação totalmente equivocada, destoante de seu significado, descabendo o ajuizamento quando a decisão transitada em julgado adota uma das possíveis interpretações jurisprudenciais.
+Não cabe ação rescisória por ofensa a literal disposição de lei, quando a pacificação da jurisprudência do Superior Tribunal de Justiça, vem por meio de recurso repetitivo, em sentido contrário ao entendimento até então existente acerca da matéria, e em momento posterior ao julgamento do acórdão rescindendo.
+Não cabe o afastamento da incidência da Súmula 343 do STF.
+A ação rescisória não pode ser utilizada como sucedâneo recursal.
+Banco Itaucard S.A. afirmou, em seu Recurso Especial de fls. 1616-1648, e-STJ, que houve, além de divergência jurisprudencial, ofensa aos arts. 505 e 1.022 do CPC/2015; 265, inciso IV, alínea "a", § 5º, 543-Ce 485, inciso V, do CPC/1973. Sustentou que o "acórdão rescindendo vai de encontro ao entendimento pacificado pelo Colendo Superior Tribunal de Justiça, viciando de ilegalidade a coisa julgada formada, mormente considerando que à época em que prolatado o acórdão rescindendo, a ação originária deveria estar sobrestada e não seguindo com seu trâmite regular".
+O novo Agravo reitera a não incidência das Súmulas 7 e 83/STJ, usadas para afastar a ofensa ao art. 1.022 do CPC/2015.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25 de fevereiro de 2021.
+O Superior Tribunal de Justiça entende que não se pode utilizar Ação Rescisória para alterar acórdãos com base em posterior consolidação jurisprudencial da matéria em sentido diverso, mesmo que resultante de julgamento realizado sob o rito de resolução de recursos repetitivos. A pacificação da jurisprudência, ocorrida a partir de julgamento de recurso repetitivo, não afasta a incidência da Súmula 343/STF. Veja-se:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. APLICAÇÃO DO ENTENDIMENTO DO STF NO RE 574.706 (REPERCUSSÃO GERAL), POSTERIOR À PUBLICAÇÃO DO ACÓRDÃO RESCINDENDO. SUCEDÂNEO RECURSAL. INCIDÊNCIA DA SÚMULA 343/STF.
+1. A exegese que o STJ atribuiu à Súmula 343/STF - após a análise de eventuais reflexos produzidos pelo julgamento, no STF, do RE 590.809/RS e da AR 2.370/CE - foi objeto de amplo debate na Seção de Direito Público do STJ por ocasião do julgamento da AR 4.443/RS, quando se concluiu que o afastamento do enunciado da aludida súmula é justificável apenas quando a matéria constitucional apreciada divergir de orientação firmada pelo STF em controle concentrado de constitucionalidade, não servindo, entretanto, quando a parte propõe demanda rescisória com a finalidade de aplicar simples alteração de orientação jurisprudencial, com característica de sucedâneo recursal.
+2. Agravo Interno não provido. (AgInt na AR 6434/MT, Rel. Min. Herman Benjamin, Primeira Seção Dje 18.12.2020)
+É inviável analisar a tese defendida no Recurso Especial de que, considerando que "à época em que prolatado o acórdão rescindendo, a ação originária deveria estar sobrestada", pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas. Colho do juízo de admissibilidade (fls. 1248, e-STJ):
+Destaca-se ainda que, em que pese ter ocorrido o julgamento da apelação por este Tribunal de Justiça, em face do acórdão que a julgou, o autor interpôs recurso especial ao STJ, que, verificando se tratar da matéria afeta ao julgamento do Resp 1.060.210/SC, determinou o sobrestamento do feito até a conclusão do julgado naquela Corte (fl. 1192), não havendo que se falar em prejuízo à parte.
+Impende ressaltar que, no caso dos autos, houve razoável interpretação do art. 5º, inciso LXXVIII, da CF e, de forma sistemática, aplicou-se a tese de que "a suspensão prevista no art. 543, § 2,º do CPCnão pode exceder o prazo previsto no art. 265, IV, "a", § 5º, do CPC", determinando-se o prosseguimento do feito, afastadaassim a ofensa ao art. 485, V, do CPC/1973, sem destoarda literalidade da Lei.
+Não há, pois, razões para modificar o juízo de prelibação que não admitiu o Recurso Especial por incidência das Súmulas 7 e 83/STJ.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
