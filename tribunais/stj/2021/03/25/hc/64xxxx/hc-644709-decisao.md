@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MARCIO ALEXSSANDRO BATISTA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina.
+O paciente foi condenado à pena de 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial aberto, além do pagamento de 6 (seis) dias-multa, por violação ao disposto no art. 155, §§ 1º e 4º, inc. I, c/c o art. 14, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação à Corte a quo, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 522-531.
+No presente writ, o impetrante sustenta que:"da análise acurada do caderno processual, infere-se ser cabível a substituição da pena no caso concreto, tendo em vista que (a) a pena privativa de liberdade total é inferior a 4 anos; (b) crime sem violência ou grave ameaça; (c) réu não reincidente específicos; (d) penas-bases estabelecidas no mínimo legal, com todas as circunstâncias judiciais favoráveis (STJ, Súmula 440 , por analogia); (e) não há nada que indique  e nem foraexplicitado nas decisões de primeiro e segundo grau  que a medida não seja socialmente recomendável."
+Requer, ao final, a concessão da ordem, "para substituir a pena de reclusão por uma restritiva de direitos e multa, na forma do art. 44, §2º, do Código Penal." (fls. 3-8).
+O pedido liminar foi indeferido (fls. 539-540).
+As informações foram prestadas às fls. 547-580.
+O Ministério Público Federal, às fls. 584-589, manifestou-se nos termos da seguinte ementa:
+"Habeas corpus substitutivo. Furto qualificado. Pena inferior a 4 anos. Substituição da pena privativa de liberdade por uma restritiva de direitos e multa, na forma do artigo 44, § 2º, do Código Penal. Inviabilidade. Requisitos não observados. Réu reincidente específico. Precedentes do STJ. Parecer pelo não conhecimento ou pela denegação do habeas corpus."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta que: "da análise acurada do caderno processual, infere-se ser cabível a substituição da pena no caso concreto, tendo em vista que (a) a pena privativa de liberdade total é inferior a 4 anos; (b) crime sem violência ou grave ameaça; (c) réu não reincidente específicos; (d) penas-bases estabelecidas no mínimo legal, com todas as circunstâncias judiciais favoráveis (STJ, Súmula 440 , por analogia); (e) não há nada que indique  e nem fora explicitado nas decisões de primeiro e segundo grau  que a medida não seja socialmente recomendável."
+O e. Tribunal a quo, no punctum saliens, quando do julgamento do recurso de apelação, assim se pronunciou, verbis:
+" Por fim, convém rechaçar a perseguida substituição da pena privativa de liberdade por medidas restritivas de direitos. Afinal de contas, o réu é reincidente na prática de crimes contra o patrimônio (art. 44, inciso II e § 3º, do CP), sendo que sua condenação pretérita se refere ao cometimento de delito com emprego de grave ameaça ou violência (Eventos 53 e 64), particularidade que torna a medida não recomendável."
+A substituição da pena privativa de liberdade descrita noo art. 44do Código Penal deve ser interpretada de forma conjunta com o parágrafo 3º do mesmo dispositivo, ou seja, a substituição da pena deve ser socialmente recomendável e o réu não pode ser reincidente específico.
+Na hipótese, o Tribunal de origem bem fundamentou a não substituição da pena privativa de liberdade por restritivas de direitos, uma vez que,"o réu é reincidente na prática de crimes contra o patrimônio (art. 44, inciso II e § 3º, do CP), sendo que sua condenação pretérita se refere ao cometimento de delito com emprego de grave ameaça ou violência."
+Assim, considerando o quantum de pena estabelecido, a reincidência específica do paciente e a fundamentação concreta levada a efeito pelo eg. Tribunal de origem, inexiste constrangimento ilegal a ser sanado pela via do writ, nos termos do artigo44, inciso II e § 3º, do Estatuto Repressivo.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Ante o exposto, não conheço do writ.
+P. e I.
