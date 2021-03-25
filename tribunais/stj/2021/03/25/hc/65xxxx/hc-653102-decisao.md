@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CLEITON CAMPIGOTTO DOS SANTOS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação n. 0000019-20.2020.8.12.0026).
+Na hipótese, o paciente foi condenado, como incurso nas sanções do art. 33, caput, c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, pois, com outros réus, transportava, para fins de venda, "34 (trinta e quatro) fardos, que totalizaram 660Kg (seiscentos e sessenta quilos) de substância entorpecente Cannabis Sativa" (e-STJ fls. 159/173).
+Interposta apelação pela defesa, foi negado provimento ao recurso em acórdão assim ementado (e-STJ fl. 187):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS MAJORADO - AFASTAMENTO DA INTERESTADUALIDADE - NÃO ACOLHIMENTO - CAUSA DE AUMENTO DEVIDAMENTE CARACTERIZADA - DROGA QUE COMPROVADAMENTE POSSUÍA COMO DESTINO OUTRO ESTADO - SUMULA 587 DO STJ - CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343 - NÃO PREENCHIDOS OS REQUISITOS LEGAIS - DEDICAÇÃO À ATIVIDADES CRIMINOSAS - REGIME FECHADO MANTIDO - RECURSO IMPROVIDO.
+I - Impossível o afastamento da majorante do tráfico interestadual se os elementos informativos e probatórios indicam que a droga seria transportada para além dos limites territoriais do Estado de Mato Grosso do Sul. Não bastasse, "para a incidência da majorante prevista no artigo 40, inciso V, da lei 11.343/06 é desnecessária a efetiva transposição de fronteiras entre Estados da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual" (Sumula 587 do Superior Tribunal de Justiça).
+II - Inviável o reconhecimento da causa de diminuição do § 4º do art.33 da Lei de Drogas se os elementos dos autos evidenciam que o réu se dedica à atividades criminosas, especialmente ao tráfico de drogas, pois transportava grande quantidade de maconha (aproximadamente meia tonelada) mediante operação complexa e sob a expectativa de auferir robusto ganho econômico, de modo que obviamente não se trata de mero traficante eventual, este sim destinatário da minorante em questão.
+III - Apesar de a pena não superar 08 anos, é possível a manutenção do regime fechado em razão das circunstâncias judiciais desabonadoras indicadas na dosimetria, as quais, justamente, ensejam maior rigor no estabelecimento do regime inicial de cumprimento de pena (art. 33, § 3º, do Código Penal).
+IV - Recurso improvido.
+Daí o presente writ, no qual sustenta a defesa, em breve síntese, que a majorante prevista no art. 40, V, da Lei n. 11.343/2006 deve ser afastada da condenação, haja vista que o seu reconhecimento deu-se sem o contraditório, em violação ao disposto no art. 155 do Código de Processo Penal.
+Alega, ademais, que deve ser aplicada a minorante inserta no art. 33, § 4º, da referida lei, com a modificação do regime prisional.
+Requer, ao final, a concessão da ordem para redimensionar a reprimenda do paciente, com a fixação de regime menos gravoso.
+É  o  relatório.
+Decido.
+Depreende-se dos autos que o presente writ é mera reiteração do pedido feito no HC n. 630.590/MS, também de minha relatoria, no qual proferi decisão denegando a ordem, tendo sido inclusive certificado o trânsito em julgado do decisumem9/2/2021.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
