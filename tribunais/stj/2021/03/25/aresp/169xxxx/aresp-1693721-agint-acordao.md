@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. CONCLUSÃO DO CURSO ANTES DA ALTERAÇÃO PROMOVIDA PELA LEI Nº 12.249/2010. DIREITO ADQUIRIDO. EXAME DE SUFICIÊNCIA. DISPENSA.
+1. A implementação dos requisitos para a inscrição no conselho profissional surge no momento da conclusão do curso. Assim, é dispensável a submissão ao exame de suficiência pelos técnicos em contabilidade formados anteriormente à promulgação da Lei nº 12.249/2010 ou dentro do prazo por ela previsto.
+2. Considerando-se que, no caso dos autos, o autor concluiu o curso de técnico em contabilidade em 2002, há que se reconhecer a existência de direito adquirido à inscrição perante o respectivo conselho de classe, ainda que o pedido de registro junto ao órgão tenha ocorrido posteriormente à data prevista na Lei nº 12.249/2010(REsp 1452996/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/6/2014).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Conselho Regional de Contabilidade do Estado de São Paulodesafiando decisão pela qual neguei provimento ao agravo, por entender que, tendo o autor concluído o curso de técnico em contabilidade em dezembro de 2002, deve ser reconhecida a existência de direito adquirido à inscrição perante o respectivo conselho de classe.
+Em suas razões, a parte agravante sustenta que: (I)a limitação imposta é decorrente do atendimento ao princípio da legalidade, haja vista o limite temporal instituído pela Lei nº 12.249/2010; (II) a partir de 1º de junho de 2015, os Conselhos Regionais de Contabilidade estão impedidos de conceder novos registros profissionais na categoria Técnico em contabilidade; (III)não há que se falar em direito adquirido, mas apenas mera expectativa de direito na obtenção do registro; e (IV) dada a inércia da parte agravada, operou-se a decadência do direito invocado, logo, ausente o suposto direito líquido e certo.
+Impugnação às fls. 233/236.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. CONCLUSÃO DO CURSO ANTES DA ALTERAÇÃO PROMOVIDA PELA LEI Nº 12.249/2010. DIREITO ADQUIRIDO. EXAME DE SUFICIÊNCIA. DISPENSA.
+1. A implementação dos requisitos para a inscrição no conselho profissional surge no momento da conclusão do curso. Assim, é dispensável a submissão ao exame de suficiência pelos técnicos em contabilidade formados anteriormente à promulgação da Lei nº 12.249/2010 ou dentro do prazo por ela previsto.
+2. Considerando-se que, no caso dos autos, o autor concluiu o curso de técnico em contabilidade em 2002, há que se reconhecer a existência de direito adquirido à inscrição perante o respectivo conselho de classe, ainda que o pedido de registro junto ao órgão tenha ocorrido posteriormente à data prevista na Lei nº 12.249/2010(REsp 1452996/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/6/2014).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que peseaos argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, tal como constatou a decisão agravada, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a implementação dos requisitos para a inscrição no respectivo conselho profissional surge no momento da conclusão do curso.
+Assim, é dispensável a submissão ao exame de suficiência pelos técnicos em contabilidade formados anteriormente à promulgação da Lei nº 12.249/2010 ou dentro do prazo decadencial por ela previsto, notadamente porque a norma, que instituiu o exame de suficiência, não pode retroagirpara atingir odireito adquiridodos profissionais que já haviam completado o curso.
+Nesse contexto, considerando-se que, no caso dos autos, o autor concluiu o curso de técnico em contabilidade em 2002 (fl. 106), há que se reconhecer a existência de direito adquirido à inscrição perante o respectivo conselho de classe, ainda que o pedido de registro junto ao órgão tenha ocorrido posteriormente à data prevista na Lei nº 12.249/2010. Isso porque aqueles que se formaram antes do advento da alteração promovida pela Lei nº 12.249/2010 não se submetem à decadência do direito de registro invocado.
+No mesmo sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. CONCLUSÃO DO CURSO ANTES DA ALTERAÇÃO PROMOVIDA PELA LEI Nº 12.249/2010. DIREITO ADQUIRIDO. EXAME DE SUFICIÊNCIA. DISPENSA.
+1. A implementação dos requisitos para a inscrição no conselho profissional surge no momento da conclusão do curso. Assim, é dispensável a submissão ao exame de suficiência pelos técnicos em contabilidade formados anteriormente à promulgação da Lei nº 12.249/2010 ou dentro do prazo por ela previsto.
+2. Assim, considerando-se que, no caso dos autos, o autor concluiu o curso de técnico em contabilidade em 1999, há que se reconhecer a existência de direito adquirido à inscrição perante o respectivo conselho de classe, ainda que o pedido de registro junto ao órgão tenha ocorrido posteriormente à data prevista na Lei nº 12.249/2010.
+(REsp 1452996/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/6/2014) 3. Agravo interno não provido.
+(AgInt no REsp 1830687/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. EXAME DE SUFICIÊNCIA. REGRA DE TRANSIÇÃO.
+1. Cuidaram os autos, na origem, de ação mandamental visando à inscrição do impetrante no CRC, mesmo sem submissão ao "exame de suficiência". A sentença concedeu a segurança pleiteada (fls. 42-44 e 103-106, e-STJ). O acórdão deu provimento à Apelação ao fundamento de que a inscrição foi requerida após o prazo de transição insculpido na Lei 12.249/2010.
+2. A distinção a ser feita no presente caso está em que a lei 12.249/2010 tornou obrigatória a inscrição no Conselho Regional de Contabilidade e determinou que os técnicos em contabilidade já registrados no CRC e os que viessem a fazê-lo até 1º de junho de 2015 tivessem assegurados o direito ao exercício da profissão, como regra de transição, sem a conclusão do curso superior ou exame de suficiência.
+3. O direito adquirido à obtenção do registro profissional de quem detinha o curso técnico em contabilidade foi analisado pelo Superior Tribunal de Justiça no REsp 1.424.784/RS, que entendeu ser dispensável a submissão ao exame de suficiência pelos bacharéis ou técnicos contábeis formados anteriormente à promulgação da Lei, ou no prazo decadencial por ela previsto.
+4. O autor concluiu o curso Técnico em Contabilidade, em abril de 1991. Dessume-se que o acórdão recorrido diverge do atual entendimento do STJ de que "o exame de suficiência criado pela Lei nº 12.249/2010 será exigido daqueles que ainda não haviam completado o curso superior em Contabilidade sob a égide da legislação pretérita" (AgRg no REsp 1.450.715/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 13.2.2015).
+5. Recurso Especial provido para restabelecer a sentença.
+(REsp 1812307/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2019, DJe 10/09/2019)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
