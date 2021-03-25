@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Maxima Indústria de Móveis Ltda.,desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ªRegião, assim ementado (fl. 297):
+APELAÇÃO. MANDADO DE SEGURANÇA. REINTEGRA. BENEFÍCIO FISCAL. PERCENTUAL SOBRE A RECEITA DE EXPORTAÇÕES.REDUÇÃO. AUMENTO INDIRETO DE CARGA TRIBUTÁRIA.ANTERIORIDADE NONAGESIMAL. OBSERVÂNCIA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. ANTERIORIDADE DE EXERCÍCIO.INAPLICABILIDADE.
+1. O Reintegra foi criado pela Lei nº 12.546/2011 com o objetivo de estimular as exportações e de aumentar a competitividade da indústria nacional, mediante a devolução de custos tributários federais remanescentes nas cadeias de produção de bens destinados à exportação.
+2. A alteração de alíquotas de cálculo do benefício fiscal concedido por meio da Lei nº 13.043/2014 implica, ainda que indiretamente, aumento de carga tributária a ser suportada pelo contribuinte, de modo que lhe é aplicável a anterioridade nonagesimal prevista no artigo 150, inciso III, alínea "c", da Constituição Federal.
+3. Em se tratando de regime que permite à pessoa jurídica a apuração de créditos referentes a contribuições sociais, nos exatos termos do artigo 2º, § 11, da Lei nº 12.546/2011, não há falar em necessidade de observância ao princípio da anterioridade de exercício, previsto no artigo 150, inciso III, alínea "b", da Constituição Federal.
+Opostos embargos de declaração, foram rejeitados (fls. 342/346)
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 1º da Lei n. 12.546/11 e150, III, b, da CF/88.Sustenta, em resumo: (I) "há que se considerer aplicável ao caso o princípio constitucional da anterioridade geral e, com isso, reconhecer como válido o benefício do REINTEGRA pela alíquota de 2% (dois por cento) - prevista no Decreto 9.148/2017 - para todo o ano de 2018." (fl. 414); e (II) "69. No caso em exame, a legislação inicialmente fixou a alíquota do REINTEGRA em 3% (três por cento) e admitiu sua alteração para adequar o benefício à finalidade de eliminar o resíduo de PIS/COFINS internos. 70. Os Decretos posteriores afastaram-se dessa finalidade, pois não reduziram a alíquota por conta de alteração no PIS/COFINS, mas sim, apenas para fins de "ajuste fiscal", eis que os referidos Decretos, em si, não têm motivação fática alguma. 71. Em conclusão, era dever do Executivo motivar a redução da alíquota em conformidade com a eliminação do resíduo de PIS/COFINS devidos internamente, sendo inviável o procedimento adotado, que não contém qualquer justificativa (ausência de motivação fática) e não está em conformidade com a finalidade prevista na lei.72. Por esse motivo, tem a Impetrante direito de a apurar o REINTEGRA de acordo com a alíquota de 3% (três por cento)." (fl. 424).
+Contrarrazões às fls. 461/469.
+Parecer ministerial às fls. 522/527.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aoart. 150, III, b, da Constituição Federal.
+Ademais, destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 300/307):
+Em recente julgado, assim se posicionou esta Turma sobre a questão, tendo sido julgada em acórdão ementado nos seguintes termos:
+ ..
+Do inteiro teor do referido julgado extrai-se a seguinte fundamentação quanto ao mérito, a qual, para evitar tautologia, adoto como razões de decidir, verbis:
+ ..
+Portanto, a sentença deve ser reformada para julgar parcialmente procedente, acolhendo a arguição de necessidade de observação da anterioridade nonagesimal relativamente à redução dos percentuais de apuração dos créditos concedidos pelo REINTEGRA, e concedendo a segurança para determinar a compensação do indébito reconhecido, nos termos da fundamentação.
+Diante do contexto,verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentoeminentemente constitucional(princípioda anterioridade nonagesimal), matéria insuscetível de ser examinada em sede de recurso especial.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
