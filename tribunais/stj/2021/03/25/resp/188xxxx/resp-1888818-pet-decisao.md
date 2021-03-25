@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de petição (fls. 494-504, e-STJ)na qual a OI S.A vem informar a perda superveniente do objeto recursal em face de transação celebrada com a ANATEL, com base na Lei 13.988/2019, regulamentada pelas Portarias AGU 249/2020 e PGF 333/2020, e requer o reconhecimento da perda superveniente do objeto do Agravo Interno interposto pela ANATEL nos autos do Agravo de Instrumento 0002287-16.2015.4.02.0000.
+A Anatel, na Petição 00163346/2021, fls. 531-536, e-STJ, informa que houve renúncia expressa aos direitos sobre os quais se funda a ação originária (anulatória nº 0102301-02.2013.4.02.5101) e que foi prolatada sentença de extinção do feito, com resolução do mérito, em razão da renúncia, conforme documentos em anexo;
+O processo originário já foi extinto com resolução do mérito em razão da renúncia apresentada pelo grupo OI,e nos presentes autos discute-se apenas matéria processual, com pedido de devolução de prazo para a interposição de recurso de Apelação devido a sentença proferida no processo originário.
+Dessa forma, há a perda superveniente do objeto do Agravo Interno (fls. 494-504, e-STJ) interposto pela ANATEL, tendo em vista que o processo originário já foi extinto, com resolução do mérito, em decorrência da renúncia do grupo OI aos direitos sobre os quais se funda a ação.
+Ante o exposto, reconheço a perda do objeto do Agravo Interno de fls. 494-504, e-STJ, interposto pela ANATEL.
+Publique-se.Intimem-se.
