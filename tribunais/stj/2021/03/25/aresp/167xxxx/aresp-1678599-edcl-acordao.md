@@ -1,0 +1,46 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. É incabível a utilização de embargos declaratórios para fins de prequestionamento de matéria constitucional - com vistas à interposição de recurso extraordinário -, se não ocorrentes as hipóteses relacionadas no art. 1.022 do Código de Processo Civil.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão proferido por esta Quarta Turma, o qual negou provimento ao agravo interno interposto.
+Em seu recurso, os embargantes sustentam existência de omissão e obscuridade no julgamento, arguindo que impugnaram especificamente todos os fundamentos de admissibilidade da origem, em especial a não incidência da Súmula 83/STJ no que se refere à questão da prescrição quinquenal do direito vindicado na ação principal, além de inobservância a dispositivos constitucionais.
+Intimada para se manifestar, a parte embargada não apresentou impugnação (fl. 269, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. É incabível a utilização de embargos declaratórios para fins de prequestionamento de matéria constitucional - com vistas à interposição de recurso extraordinário -, se não ocorrentes as hipóteses relacionadas no art. 1.022 do Código de Processo Civil.
+3. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não assiste razão aos embargantes.
+De início, consigno que não é o recurso especial, muito menos em sede de embargos de declaração, a sede apropriada para o enfrentamento de matéria constitucional.
+A eventual declaração de infringência a dispositivos da Constituição Federal deve ser perseguida por meio do recurso próprio, que não a via escolhida.
+Quanto ao outro ponto, não se verifica o vício apontado, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelos embargantes, circunstância que não eiva o acórdão de nulidade.
+O acórdão pontuou que os embargantes não apresentaram argumentos capazes de derruir os fundamentos da decisão de admissibilidade do recurso especial realizado na origem, assim como fundamentada a aplicação da Súmula 182/STJ, conforme se depreende da leitura dos seguintes trechos (fl. 226, e-STJ):
+"Em nova análise das razões do agravo em recurso especial, verifica-se que, efetivamente, os ora agravantes não infirmaram, especificamente, as razões da incidência da Súmula 83/STJ.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. PEDIDO DE EXPEDIÇÃO DE OFÍCIO À SECRETARIA DA RECEITA FEDERAL PARA REQUISIÇÃO DA DIMOF E DIMOB. IMPOSSIBILIDADE. PRECEDENTES: AGRG NO RESP 1.135.568/PE, MIN. JOÃO OTÁVIO DE NORONHA, DJE 28.5.2010; RESP 1.105.947/PR, MIN. HERMAN BENJAMIN, DJE 27.8.2009. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Entendimento da Corte de Origem em harmonia com a jurisprudência deste Superior Tribunal de Justiça.
+2. (..)
+3. O único meio eficaz para se infirmar o óbice da Súmula 83/STJ é a demonstração da existência de julgados posteriores em sentido contrário, o que não ocorreu na irresignação apresentada.
+4. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp 1077110/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 10/5/2019)
+Observo que tal defeito não é sanado sequer com a impugnação do fundamento apenas nas razões do agravo interno.
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos no art. 932, III, do Código de Processo Civil/2015 e aplicação analógica da Súmula 182/STJ.
+Anoto que os argumentos dos embargantes não são convincentes, dada a ausência de superação do óbice da Súmula 182/STJ. Intransponível, portanto, o exame dos demais temas devolvidos no recurso especial, não servindo de fundamento a conclusão adotada pelo Tribunal estadual, inclusive, para as matérias de ordem pública.
+Verifico, assim, que, os embargantes pretendem, sob o pretexto de existência de vícios, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio.
+Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/3/2016)
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
