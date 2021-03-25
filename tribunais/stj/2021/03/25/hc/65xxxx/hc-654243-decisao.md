@@ -1,0 +1,17 @@
+DECISÃO
+JONATHAS DOS SANTOS SOUSAalega sofrer coação ilegal ante acórdão proferido pelo Tribunala quo, no Agravo n. nº 0000048-36.2021.8.26.0482. Busca a remição de sua pena pela leitura, pois a atividade se equipara ao estudo.
+Decido.
+O Juízo das Execuções, em decisão mantida pelo Tribunal de Justiça, indeferiu a remição por considerar que a leitura de obra literária não é estudo, mas atividade recreativa.
+Owritcomporta pronta solução, porquanto existe jurisprudência pacífica sobre a matéria.
+A remição de pena - direito de abreviar o tempo imposto na sentença penal - está previstas no art. 126 da Lei de Execução Penal e pode ocorrer por meio do trabalho, estudo e leitura, conforme orientação jurisprudencial e recomendação do Conselho Nacional de Justiça, a fim de, em um contexto superpopulação carcerária e inércia de políticas públicasneste setor, humanizar a execução e incentivar iniciativas que reflitam positivamente no retorno dos reeducandos à convivência em sociedade.
+A leitura diminui os momentos ociosos na prisão e se equipara ao estudo, por constituir estímulo à cultura e ao desenvolvimento intelectual. O acórdão recorrido está em confronto com a jurisprudência desta Corte e com a Recomendação n. 44/2013 do CNJ.
+Confira-se:
+ ..
+a remição da pena pela leitura nos termos da Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça. Dos termos da portaria conjunta e da recomendação anteriormente citadas, verifica-se que a comissão deverá apresentar análise da resenha apresentada pelo reeducando, observando "os aspectos relacionados à compreensão e compatibilidade do texto com o livro trabalhado" e, posteriormente, encaminhar ao Juízo da Execução competente para que "este decida sobre o aproveitamento da leitura realizada"
+ .. (HC n. 413.501/SP, Rel. MinistroRibeiro Dantas, 5ª T., DJe 1º/8/2018).
+ .. O Superior Tribunal de Justiça fixou posicionamento mediante o qual se admite a remição da pena pela leitura, nos termos da Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça. Assim, na análise do pedido, "a comissão deverá apresentar análise da resenha apresentada pelo reeducando, observando "os aspectos relacionados à compreensão e compatibilidade do texto com o livro trabalhado" e, posteriormente, encaminhar ao Juízo da Execução competente para que "este decida sobre o aproveitamento da leitura realizada"" (HC n. 413.501/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018).
+ .. .
+(AgRg no HC n. 589.363/SP, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 10/8/2020).
+A leituradeve ser premiadacomo forma de atividade complementar de estudo, notadamente para apenados aos quais não sejam assegurados os direitos ao trabalho, educação e qualificação profissional, observando-se a constituição, por parte da autoridade penitenciária, de projeto específico e a fixação de prazo para a leitura da obra, com a apresentação de resenha, a ser avaliada e aprovada por comissão.
+À vista do exposto,concedo o habeas corpus,in limine, para determinar ao Juiz da VEC que reexamine o pedido de remição por leitura e, se preenchidos os vetores da Recomendação n. 44/2013, declare o benefício.
+Publique-se e intimem-se.
