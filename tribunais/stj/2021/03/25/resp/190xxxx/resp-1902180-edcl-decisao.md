@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão que deu provimento ao recurso.
+A parte embargante sustenta:
+Entretanto, da leitura da decisão, percebe-se que houve omissão no decisum, pelo fato de não haver sido apreciado pontos relevantes indicados pelo Embargante em suas contrarrazões, dentre os quais se ressalta: a existência de precedente favorável a transferência de matrícula de servidor transferido no interesse da Administração neste Superior Tribunal de Justiça (STJ) (AgRg. no AgRg. no AGRAVO EM RECURSO ESPECIAL Nº 229.459 - CE (2012/0190999-3), de 13/11/2013; RECURSO ESPECIAL Nº 1.381.458 - RN (2013/0128409-1), de 03/06/2015); a congeneridade das instituições de ensino superior, ambas federais; a forma de ingresso originário, através do Sistema de Seleção Simplificada (SISU), utilizando a nota obtida no Exame Nacional do Ensino Médio (ENEM), que lhe possibilitou lograr uma vaga de ampla concorrência do curso de Direito na Universidade Federal do Estado do Rio de Janeiro (UNIRIO), ou seja, mesma forma de seleção utilizada pela Embargada; e a situação de servidor público federal do Embargante, o qual foi removido no interesse da Administração, sem qualquer prejuízo ou ônus para o Ente Público, como meio de otimizar recursos públicos por ocasião da mobilização da sua força de trabalho, tal como já amplamente demonstrado nos autos; o que, ao fim e ao cabo, enquadrou-lhe na hipótese disposta no art. 99, da Lei nº 8.112/1990 e, por conseguinte, tornou-o elegível à transferência de matrícula entre instituições congêneres, assim como ratificado pelo Tribunal a quo.
+Tais aspectos torna o caso apresentado sui generis, o que, por sua vez, inviabiliza a fundamentação da decisão ora embargada, por aqueles precedentes nela enumerados.
+Requer, ao final, o acolhimento dos Embargos com efeito modificativo.
+É o relatório.
+Decido.
+Os Embargos de Declaração devem ser acolhidos, porquanto omisso quanto aos precedentes citados nas contrarrazões de Recurso Especial.
+O STJ já reconheceu que, mesmo em hipótese de remoção a pedido de servidor público, há interesse público em seu deslocamento, razão pela qual se deve assegurar ao aluno, servidor ou dependente destea transferência ex officio de instituição de ensino superior. Nessa linha:
+ADMINISTRATIVO. ENSINO SUPERIOR. SERVIDOR PÚBLICO. REMOÇÃO POR MEIO DE CONCURSO. INTERESSE PÚBLICO CONFIGURADO. DIREITO À TRANSFERÊNCIA EX OFFICIO DE INSTITUIÇÃO DE ENSINO SUPERIOR. DIVERGÊNCIA JURISPRUDENCIAL DEMONSTRADA.
+1. Cinge-se a controvérsia à questão de existência de interesse da Administração na remoção de servidor público por meio de concurso de remoção, para que lhe seja assegurado o direito a transferência ex offício de instituição de ensino superior.
+2. O STJ entende que também há interesse público em remoção de servidor por meio de concurso de remoção, de forma a assegurar ao servidor direito a transferência obrigatória de instituição de ensino superior.
+3. Recurso Especial provido.
+(REsp 1.675.310/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)
+ADMINISTRATIVO. ENSINO SUPERIOR. SERVIDOR PÚBLICO. REMOÇÃO POR MEIO DE CONCURSO. INTERESSE PÚBLICO CONFIGURADO. DIREITO À TRANSFERÊNCIA EX OFFICIO DE INSTITUIÇÃO DE ENSINO SUPERIOR. DIVERGÊNCIA JURISPRUDENCIAL DEMONSTRADA. 1. Cinge-se a controvérsia à questão de existência de presença do interesse da Administração na remoção de servidor público por meio de concurso de remoção, para que lhe seja assegurado o direito a transferência ex offício de instituição de ensino superior. 2. Prevalece, no caso, o entendimento do STJ no sentido de que também há interesse público em remoção de servidor por meio de concurso de remoção, de forma a assegurar ao servidor direito a transferência obrigatória de instituição de ensino superior. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 229.459/CE, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 5/11/2013, DJe de 13/11/2013)
+Diante do exposto, acolho os Embargos de Declaração com efeitos infringentes para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
