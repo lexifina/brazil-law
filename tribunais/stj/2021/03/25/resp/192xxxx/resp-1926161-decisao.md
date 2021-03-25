@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça daquela unidade federativa.
+Depreende-se dos autos que foi deferido ao recorrido a progressão de regime calculada sobre 60% do cumprimento da pena.
+Contra essa decisão insurgiu-se a defesa.O colegiado local deu provimento ao recurso, determinando ao magistrado singular a retificação dos cálculos dos benefícios, tomando com parâmetro os incisosII e V do art. 112da Lei de Execução Penal.
+Daí a interposição do presente recurso especial, no qual sustenta o Ministério Público a violação do disposto no art. 112, inciso VII, da Lei de Execução Penal. Destaca que a reincidência determina a progressão de regime após o cumprimento de 60% da pena.
+As contrarrazões foram apresentadas às e-STJ fls. 100/104.
+Admitido o inconformismo (e-STJ fls. 136/138), foram os autos encaminhados ao Ministério Público Federal, que se manifestou pelo desprovimento do recurso (e-STJ fls. 155/156).
+É o relatório.
+Decido.
+Com efeito, as turmas criminais desta Corte vêm decidindo no sentido exposto no acórdão recorrido.
+Cumpre esclarecer que, com a redação dos incisos V e VII do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência em delitos não hediondos nem equiparados. Tal situação, como prescrevem os princípios gerais do Direito Penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação poranalogiada fração de 3/5 (ou 60%), por se tratar deanalogiainmalam partem,possibilidade vedada em nosso ordenamento.
+Nesse sentido os seguintes julgados:
+HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃODE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME.REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIAIN BONAMPARTEM.APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 naprogressãode regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para aprogressãode regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo ereincidentenãoespecífico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso daanalogiain bonampartempara aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% paraprogressãode regime, salvo se cometida falta grave. (HC 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA.LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃODE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS.ANALOGIAIN BONAMPARTEM.CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO.
+ ..
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 naprogressãode regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90.Precedentes.
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando aprogressãode regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+4. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos eespecíficospara cada grupo, a depender especialmente da natureza do delito.
+5. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum).
+Para tal hipótese, inexiste na novatio legis percentual a disciplinar aprogressãode regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aosreincidentes específicos.
+6. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante aanalogiain bonampartem.
+ ..
+7. Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave. (AgRg no HC 613.268/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020)
+No caso em tela, evidenciado queo delito anterior pelo qual foi condenado o recorrido não era hediondo nem equiparado, correta a aplicação da fração de 2/5 (ou 40%) para efeitos deprogressãode regime.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
