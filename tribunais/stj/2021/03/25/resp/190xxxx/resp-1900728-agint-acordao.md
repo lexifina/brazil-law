@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE DÉBITO. 1. FALTA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. 2. LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DA MULTA. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 4. MULTADO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. 5. AGRAVO IMPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legaisque teriam sido eventualmente violados ou que tiveram sua interpretaçãodivergente à jurisprudência desta Corte impede o conhecimento do recurso,por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+2. Com relação à conclusão pela litigância de má-fé, a reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, nos termos da Súmula n. 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4.O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Heber José Borghi Genaro Alves contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 355):
+RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE DÉBITO. 1. FALTA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. 2. LITIGÂNCIA DE MÁ-FÉ.APLICAÇÃO DA MULTA. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 4. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, o agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta a não incidência da Súmula 284/STF, na medida em que a decisão de admissibilidade proferida pelo TJSP entendeu estarem presentes os requisitos para admissão recursal. Além disso, demonstrou a divergência de entendimentos acerca do prazo prescricional trienal, inclusive citando o recurso representativo da controvérsia REsp n. 1.551.956/SP, da relatoria do Ministro Paulo de Tarso Sanseverino.
+Aduz ainda a inaplicabilidadeda Súmula 7/STJ, tendo em vista que não pode ser utilizada como fundamento para obstar a análise das questões atinentes à litigância de má-fé.
+Impugnação apresentada às fls. 376-380 (e-STJ), na qual a parte agravada pede a condenação do agravante ao pagamento damultaprevistanoart. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE DÉBITO. 1. FALTA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. 2. LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DA MULTA. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 4. MULTADO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. 5. AGRAVO IMPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legaisque teriam sido eventualmente violados ou que tiveram sua interpretaçãodivergente à jurisprudência desta Corte impede o conhecimento do recurso,por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+2. Com relação à conclusão pela litigância de má-fé, a reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, nos termos da Súmula n. 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4.O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pelo agravante, conforme foi consignado na decisão agravada, no que concerne à irresignação acerca do termo inicial do prazo prescricional relativo aos valores pagos a título de taxa SATI para então afastar a configuração da prescrição, faz-se necessário ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que o recorrente demonstre, de forma clara, as razões pelas quais entende que os dispositivos apontados foram malferidos pela decisão recorrida, sob pena de inadmissão.
+Desse modo, ao interpor o recurso especial pelas alíneas a e c do permissivo constitucional, observa-se deficiência na fundamentação recursal, pois o recorrente não indicou o dispositivo legal tido por contrariado, o que atrai a incidência, por analogia, da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FALECIMENTO DO AUTOR NO CURSO DA LIDE.DEFICIÊNCIA RECURSAL. APELO NOBRE INTERPOSTO SEM PREENCHIMENTOS DOS REQUISITOS LEGAIS. AUSÊNCIA DE ESPECIFICAÇÃO DO DISPOSITIVO DE LEI MALFERIDO.IMPOSSIBILIDADE DE CORREÇÃO EM AGRAVO EM RECURSO ESPECIAL. SÚMULA 284/STF. INCIDÊNCIA. RECURSO NÃO PROVIDO.
+1. Incidência da Súmula 284/STF, pois a especificação de qual dispositivo de lei foi malferido é requisito de admissibilidade do recurso especial, não cabendo a correção do mencionado erro em agravo em recurso especial.
+2. A não indicação da lei federal entendida como violada e de seu respectivo dispositivo, bem como a não demonstração dos acórdãos tidos por divergentes, resulta em fundamentação deficiente, o que enseja a incidência da Súmula 284 do STF em relação a ambas as alíneas autorizadores do permissivo constitucional.
+3. Agravo regimental não provido. (AgRg no AREsp 830.769/PR, Rel.Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/3/2016, DJe 14/3/2016)
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido" (AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/4/2013, DJe 10/5/2013)
+RECURSO ESPECIAL. DUPLICATAS PRESCRITAS. AÇÃO DE LOCUPLETAMENTO ILÍCITO. JUROS DE MORA. TERMO INICIAL.CITAÇÃO VÁLIDA. RECURSO IMPROVIDO.
+ ..
+6. Deveras, a indicação do dispositivo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Contudo, esta circunstância não se verifica na espécie, motivo pelo qual vislumbra-se a incidência da Súmula n. 284 do STF.
+7. Recurso improvido. (REsp nº 299.827/RJ, Rel. Ministro VASCO DELLA GIUSTINA, Desembargador Convocado do TJ/RS, TERCEIRA TURMA, julgado em 1º/3/2011, DJe 16/3/2011)
+Impende registrar que, nos termos da jurisprudência desta Corte, "orecurso especial sofre um duplo juízo de admissibilidade, nãoestando vinculado ao juízo de admissibilidade do Tribunal de origem" (AgRgno AREsp 395.588/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgadoem 7/11/2013, DJe 21/11/2013).
+Ademais, o Tribunal de origem, ao manter a sentença no que se refere ao reconhecimento da litigância de má-fé, ponderou o seguinte (e-STJ, fls. 184-187):
+Condução temerária por parte do autor que torna patentes as ausências de lealdade e boa-fé, enquadrando-se o comportamento do autor na figura traduzida pelos incisos III e V do artigo 80 do novel diploma processual.
+Parte da doutrina e da jurisprudência entende que para a aplicação de litigância de má-fé seria necessária a configuração de culpa grave ou dolo para a imposição da pena.
+Contudo, "melhor se considera que incida a penalidade por princípio, ressalvando-se ao credor apenas a demonstração de que foram tomadas todas as medidas razoáveis esperadas para evitar a ocorrência, mesmo assim consumada", pois há um dever de cuidado que deve ser respeitado na relação entre as pessoas, "tudo como expressão de um dever de segurança para com o demandado".
+No caso presente, há mais que culpa, há dolo, pois a busca de enriquecimento ilícito em face da ré, à toda evidência, é atitude dolosa, consciente, destinada a receber vários honorários de sucumbência quantas forem as ações propostas embasadas sobre o mesmo contrato entabulado entre as mesmas partes.
+Na lição de Humberto Theodoro Júnior: "Essa reparação, que decorre do ato ilícito processual, será devida, qualquer que seja o resultado da causa, ainda mesmo que o litigante de má-fé consiga, ao final, sentença favorável" (Curso de Direito Processual Civil. Rio de Janeiro, Forense, 2007, 47ª ed., vol. I, p.98).
+Da má-fé na litigância resulta o pagamento de multa e indenização, nos termos do artigo 81 do CPC.
+Na jurisprudência deste Egrégio Tribunal, o mesmo entendimento sobre o tipo de conduta temerária adotada:
+(..)
+Diante dessa conclusão, é inafastável o óbice da Súmula 7/STJ. Isso porque mostra-se inviável ao Superior Tribunal de Justiça infirmar o posicionamento adotado até mesmo para determinar a redução do percentual arbitrado, pois, para tanto, seria necessário o revolvimento de fatos e provas, o que não é possível nessa esfera recursal.
+Ratificam esse entendimento os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.SUCESSÕES. INVENTÁRIO. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 18 DO CPC/1973. AFASTAMENTO.REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.CONDENAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de matéria que não tenha sido ventilada no v.aresto atacado e sobre a qual, embora tenham sido opostos embargos declaratórios, o órgão julgador não se pronunciou, cabendo à parte interessada alegar ofensa ao art. 535 do CPC/73. Incidência da Súmula 211 do STJ.
+2. O eg. Tribunal de origem, com base no exame do suporte fático-probatório dos autos, asseverou que o agravante deixou de referir a existência de inventário anterior, pretendendo alterar a verdade dos fatos para obter a sua nomeação como inventariante, usando do processo para conseguir objetivo ilegal e procedendo de modo temerário.
+3. Rever a conclusão adotada no v. acórdão recorrido sobre a caracterização de litigância de má-fé do agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A multa por litigância de má-fé pode ser decretada de ofício quando estiverem preenchidas as condutas descritas no art. 17 do CPC.
+5. Agravo interno a que se nega provimento. (AgInt no REsp 1.487.062/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2019, DJe 14/6/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CADERNETA DE POUPANÇA. EXIBIÇÃO DE DOCUMENTOS. EXTRATOS BANCÁRIOS. DEVER DE EXIBIÇÃO. PRECEDENTES. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. O titular da conta possui interesse processual para propor ação de exibição de documentos, objetivando questionar, em ação principal, as relações jurídicas decorrentes de tais documentos, independentemente de prova de prévio pedido de esclarecimento ao banco e do fornecimento de extratos de movimentação financeira. Precedentes.
+2. Conforme pacífica jurisprudência desta Corte Superior, a obrigação da instituição financeira de exibir a documentação requerida decorre de lei, de integração contratual compulsória, não podendo ser objeto de recusa nem de condicionantes, tendo em vista o princípio da boa-fé objetiva.
+3. No tocante à conclusão pela litigância de má-fé, a reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp 171.661/SP, Rel.Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2014, DJe 28/11/2014 - sem grifo no original)
+Outrossim, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. MANUTENÇÃO INDEVIDA DE GRAVAME. QUANTUM INDENIZATÓRIO. SÚMULA N.7/STJ. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA DE SIMILITUDE.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo.
+Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo regimental desprovido (AgRg no AREsp n 794.875/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 3/12/2015, DJe 10/12/2015)
+Nesse ínterim, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Relativamente ao pleito para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART.85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16.ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes. (EDcl no AgInt no REsp 1.480.859/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/4/2017, DJe 3/5/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
