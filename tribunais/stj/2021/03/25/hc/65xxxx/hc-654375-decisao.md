@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ FELIPE PRIVADO RIBEIRO contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido, nos autos daApelação Criminal nº 0069512-61.2016.8.26.0050.
+Consta dos autos no julgamento do AgRg no AGRAVO EM RECURSO ESPECIAL Nº 1.617.928 - SP(2019/0334218-4), da lavra do Ministro Jorge Mussi, em 27/03/2020, conheceu-se em parte do recurso especial e, nessa extensão, deu-se provimento para aplicar a atenuante de confissão, determinando a remessa a essa Turma Julgadora para o redimensionamento das penas.
+Em cumprimento da determinação desta Corte Superior, o Tribunal a quo redimensionou a pena imposta ao paciente, todavia mantendo o regime semiaberto para o início do cumprimento da pena imposta, bem como negando o direito à substituição da pena privativa de liberdade por restritivas de direito, em acórdão que ficou assim resumido:
+"APELAÇÃO TRÁFICO DE DROGAS - Acórdão do C. STJ no Agr. em Agravo ao Recurso Especial que reconheceu a confissão do réu e determinou a remessa a esse E. Tribunal para o redimensionamento das penas - Penas redimensionadas conforme determinado." (fl. 440)
+Na presente impetração, sustenta a defesa, em síntese, a ocorrência de constrangimento ilegal em razão do ato do Tribunal de Justiça que deixou de conceder o regime inicial aberto para o cumprimento da pena imposta, bem como por não ter concedido a substituição da pena privativa de liberdade.
+Requer, em liminar e no mérito, "(i) aconcessão de medida liminar, a fim de impedir a expedição de mandado de prisão em desfavor de LUIZ FELIPE PRIVADO RIBEIRO até o trânsito em julgado do processo; (ii) No mérito, seja aplicado o regime aberto para início do cumprimento da pena, bem como seja ela substituída por restritivas de direitos, em razão do preenchimento dos requisitos previstos nos arts. 33, § 2º, alínea "c", e § 3º e 44, ambos do Código Penal, e em conformidade com a jurisprudência assente deste eg. Superior Tribunal de Justiça" (fl. 13).
+Brevemente relatado, decido.
+O pedido é manifestamente incabível, pois repete os mesmos argumentos e traz pedido idêntico ao formulado no Habeas Corpus nº 504.497/SP(2019/0107331-3), já julgado nesta Corte e no qual restoufixadodo regime inicial semiaberto etendo sido negada a substituição da pena privativa de liberdade por restritivas de direitos pelo Eminente Ministro Jorge Mussi.
+Ainda, que tenha a pena sido redimensionada pela incidência da atenuante da confissão espontânea, permaneceu intocável a fundamentação utilizada para fixação do regime inicial de cumprimento da pena e da negativa de substituição da pena privativa de liberdade, não podendo esta Turmarever suas próprias decisões, após já acobertadas pela coisa julgada.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido. (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se
