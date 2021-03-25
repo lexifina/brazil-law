@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto porOIS.A. - EM RECUPERAÇÃO JUDICIAL contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas"a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado deMato Grossodo Sul assim ementado:
+"EMENTA - APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE ADEMPLEMENTO CONTRATI1AL - INTERPOSIÇÃO DE RECURSO ESPECIAL - R 11ORNO DOS AUTOS À CÂMARA DE ORIGEM PARA REAPRECIAÇÃO DA MATÉRIA RELATIVA Á PARTICIPAÇÃO FINANCEIRA EM PROGRAMA COMUNITÁRIO DE TELEFONIA - RECURSO REPETITIVO - ART. 543-C, § 7", II, D0 1 CPC - INVERSÃO DO ÓNUS DA PROVA - CONTRATO FORMIILADO ENTRE AS PARTES NÃO ANEXADO AOS AUTOS - PRESUNÇÃO DE CLÁI ISULA COM PREVISÃO EXPRESSA DE RESTITUIÇÃO DE VALORES OU COMPLEMENTAÇÃO EM AÇÕES DA COMPANHIA - ACÓRDÃO QUE NÃO AFRONTA OS TERMOS DO JULGADO PARADIGMA - JUÍZO DE RETRATAÇÃO NÃO EXERCIDO" (fls. 428 e-STJ).
+No especial, a agravante alega violação dos artigos 233, 287, II, "g", da Lei nº 6.404/1976; 205 e 206, § 3º, IV e V, do Código Civil e 51 do Código de Defesa do Consumidor. Argui a sua ilegitimidade de parte passiva.Sustenta que a prescrição dos autos está relacionada com matéria de natureza societária, razão por que incide ao caso o prazo prescricional trienal.
+Ressalta a aplicação da prescrição trienal prevista no Código Civil por se fundar em pretensão por enriquecimento sem causa e de reparação civil.
+Aduz que ao aderir ao contrato na modalidade de planta comunitária (PCT), a parte recorrida teve ciência das cláusulas contratuais, não sendo abusiva a que determinada a doação do acervo construído à Telebrás para a aquisição completa da linha telefônica.
+Orecurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973(Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante ao artigo 233, 87, II, "g", da Lei nº 6.404/1976 e 205 e 206, § 3º, IV e V, do Código Civil, observa-se que a decisão de admissibilidade do agravo em recurso especial, proferida na vigência da legislação processual civil de 2015, inadmitiu o apelo especial quanto ao ponto em virtude de o acórdão recorrido ter sido julgado em conformidade com a jurisprudência consolidada do Superior Tribunal de Justiça, firmada em recurso repetitivo, de modo que a recorrente deixou de impugnar referidos temas, os quaisestãoacobertados pela preclusão.
+Assim, a matéria devolvida a esta Corte Superior pelo agravo em recurso especial se refere apenas à alegada violação do artigo 51 do CDC.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A recorrente alega que acláusulade doação do acervo construído com o investimento realizado não pode ser considerada abusiva, mesmo à luz da legislação do consumidor.Aponta violação do artigo 51 do CDC.
+Quanto ao ponto, ao dirimir a controvérsia, o Tribunal de origem deixou assentado que
+"(..) A questão jurídica referente à validade da cláusula de contrato de plantacomunitária de telefonia - PCT, que isenta a companhia de restituir ao consumidor o valor investido ou de subscrever-lhe ações, foi objeto de análise pelo Superior Tribunal de Justiça no Recurso Especial n". 1.391.089/RS (2013/0028858-1). submetido ao rito do art. 543-C do Código de Processo Civil, tendo sido firmado o entendimento de que "É válida, no sistema de planta comunitária de telefonia- PCT,a previsãocontratual ou regulamentar que desobrigue a companhia de subscrever acõesem nome do consumidor ou de lhe restituir o valor investido."assim ementado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. CDU. PLANTA COMUNITÁRIA DE TELEFONIA. PCT CLÁUSULA DE DOAÇÃO. VALIDADE.
+I. Para fins do art. 543-c do CPC: é válida, no sistema de planta comunitária de telefonia. PCTa previsão contratual ou regulamentar que desobrigue a companhia de subscrever ações em nome do consumidor ou de lhe restituir o valor investido.
+2. Coso concreto: improcedência do pedido de restituição do valor investido.
+3. Recurso Especial provido. (G.N.) (Superior Tribunal de Justiça ST1; REsp 1.391.089; Proc. 2013/0028858-1: RS; Segunda Seção Rel. Min. Paulo de Tarso Sanseverino: DJE 10 03/2014)
+Ocorre que. na hipótese. há umasingularidade que obsta a aplicação do citadoprecedente.
+In casu. o magistrado singular inverteu o ônus da prova em favor da autra da demanda (fls. 218-221)decisão esta mantida pelas instâncias superiores (fls. 273).
+Desta forma, incumbia à recorrente colacionar aos autos o acordo firmado com a parte autora e demais documentos necessários ao deslinde da controvérsia. Entretanto, não se desincumbiu de seu dever, de modo que há de se presumir, em favor da consumidora. a existência de previsão, no contrato de participação financeira, da restituição de valores ou da complementaçãoem ações das quantias pagas à titulo de custeio dos PCTS, conforme pedido inicial.
+Desta feita, à mingua de provas a ensejar a aplicação do julgado paradigma. tenho que deve o acórdão proferido por esta Egrégia 5ªCâmara Cível, o qual entendeu pela condenação da apelante no ressarcimento do montante despendido pela apelada com os serviços de telefonia comunitária, ser mantido na integra" (fl. 430 e-STJ - grifou-se).
+Consoante se pode verificar, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos.
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõem os enunciados das Súmulas nºs 5 e7 deste Superior Tribunal.
+Registre-se, ademais que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido" (AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
