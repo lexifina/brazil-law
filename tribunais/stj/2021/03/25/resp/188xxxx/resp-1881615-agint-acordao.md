@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA DE CONTRARIEDADE A DISPOSITIVO DE LEI FEDERAL. SÚMULA Nº 284/STF. REVISÃO DAS PREMISSAS DO JULGADO A QUO. SÚMULA Nº 7/STJ.
+1. Hipótese em que o Tribunala quoafirmar ter passado em branco o prazo prescricional para a propositura da execução individual, o qual foi contado a partir do trânsito em julgado de decisão a respeito da legitimidade do sindicato para a execução coletiva.
+2. Alegação genérica de negativa de prestação jurisprudencial não pode ser conhecida em razão do óbice disposto na Súmula nº 284/STF.
+3. Os argumentos da parte não foram deduzidos a partir de comando normativo federal, nem sequer na jurisprudência desta Corte, a qual é contrária ao afirmado (cf.EREsp 1676110/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 27/11/2019).
+4. A revisão das premissas impressascom soberaniapelo Tribunal de origem encontra óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JADSON SANTOS HELVÉCIOcontra decisão monocrática, de minha relatoria, assim ementada:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA DE CONTRARIEDADE A DISPOSITIVO DE LEI FEDERAL. SÚMULA Nº 284/STF. REVISÃO DAS PREMISSAS DO JULGADO A QUO. SÚMULA Nº 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+No presente recurso, reitera-se, em síntese, que
+o Tribunal de Origem considerou que o início do prazo prescricionalse deu em 17 de outubro de 2003, a recorrente, ora agravante, demonstrou  ..  somente em 2016 se encerrou a discussão quanto à legitimidade do sindicato para a execução coletiva, que teve seu início em 19 de dezembro de 2003, logo, não há que se falar em prescrição quinquenal do direito do agravante, pois este cumprimento de sentença individual se deu em 09 de maio de 2018, quando do protocolo da exordial.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA DE CONTRARIEDADE A DISPOSITIVO DE LEI FEDERAL. SÚMULA Nº 284/STF. REVISÃO DAS PREMISSAS DO JULGADO A QUO. SÚMULA Nº 7/STJ.
+1. Hipótese em que o Tribunala quoafirmar ter passado em branco o prazo prescricional para a propositura da execução individual, o qual foi contado a partir do trânsito em julgado de decisão a respeito da legitimidade do sindicato para a execução coletiva.
+2. Alegação genérica de negativa de prestação jurisprudencial não pode ser conhecida em razão do óbice disposto na Súmula nº 284/STF.
+3. Os argumentos da parte não foram deduzidos a partir de comando normativo federal, nem sequer na jurisprudência desta Corte, a qual é contrária ao afirmado (cf.EREsp 1676110/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 27/11/2019).
+4. A revisão das premissas impressascom soberaniapelo Tribunal de origem encontra óbice na Súmula nº 7/STJ.
+5. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+A premissa nos autos é de que passou in albis o prazo prescricional para a execução individual, contado a partir da data do trânsito em julgado de decisão a respeito da legitimidade do sindicato para promover a execução coletiva. Transcrevo excerto do acórdão:
+Em que pese somente iniciado o prazo prescricional para a propositura de execuções individuais dos representados do Sindiserj após transitada em julgado decisão a respeito da legitimidade do Sindicato para promover a execução coletiva, com o respectivo trânsito, deve-se reconhecer o início do fluxo do prazo prescricional. Tentativa de rediscussão da matéria que não tem o condão de impedir o transcurso do prazo prescricional, sob pena de afronta à coisa julgada, e à imutabilidade das decisões.
+Como se vê, com clareza irradiante, a matéria foi decididade modo suficiente, fundamentado e completo.
+O pedido de nulidade do acórdão, por vício de julgamento, não prospera, porque genérico (cf. a Súmula nº 284/STF).
+A parte entende que o termo inicial da prescrição não é contado a partir do trânsito em julgado, mas não há qualquer razão jurídica para tanto, senão mero inconformismo.
+Com efeito, os argumentos na peça recursal submetida a esta Corte Superior não servem para amparar tal pretensão, eis que não foram deduzidos a partir de comando normativo firmado em lei federal, nem sequer em entendimento jurisprudencial (também a atrair a incidência da Súmula nº 284/STF).
+Ademais, sobre o trânsito em julgado de decisão que afasta a legitimidade de sindicatocomo marco da contagem do prazo prescricional, confira o seguinte precedente da Corte Especial do STJ (grifo):
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSO CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. SERVIDOR PÚBLICO. EXECUÇÃO COLETIVA AJUIZADA PELO SINDICATO. ILEGITIMIDADE RECONHECIDA.INTERRUPÇÃO DO PRAZO PRESCRICIONAL, QUE COMEÇA A CORRER PELA METADE.SÚMULAS N.OS 150 E 383 DO STF. DISSÍDIO DEMOSTRADO. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. "Em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento.
+Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/05/2019, DJe 18/06/2019).
+2. Hipótese em que a ação executória está fulminada pela prescrição, uma vez que sobreveio o trânsito em julgado da decisão que afastou a legitimidade do Sindicato em 04/02/2010; e a execução individual em questão somente foi proposta em 30/11/2013, porquanto, depois do prazo de dois anos e meio, respeitado o prazo mínimo do quinquídio.
+3. Embargos de divergência acolhidos para, reformando o acórdão embargado e a decisão monocrática correspondente, dar parcial provimento ao recurso especial da UNIÃO (mantida a conclusão de que "não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil/2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado") a fim de cassar o acórdão recorrido da 4ª Turma do Tribunal Regional Federal da 4.ª Região (apelação cível n.º 5066849-03.2013.4.04.7100/RS), restabelecendo a sentença de primeiro grau que acolheu a exceção de pré-executividade e declarou a prescrição, extinguindo a execução de sentença n.º 50201063220134047100.
+(EREsp 1676110/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 06/11/2019, DJe 27/11/2019).
+Além disso, como dito na decisão agravada, a revisão das premissas do Tribunal a quo não é possível em razão do óbice da Súmula nº 7/STJ.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
