@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JULIO ANDERSON DA SILVA OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n.1.0000.20.081895-3/000.
+Depreende-se dos autos que o recorrente foi preso em flagrante, processado e ao final condenado, pela prática dos delitos previstos nos arts. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes) e 12 da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido), às penas de 5 anos e 10 meses de reclusão e de 1 ano e 2 meses de detenção, respectivamente, no regime inicial semiaberto (e-STJ fls. 626/649).
+Opostos embargos de declaração, as penas foram reduzidas para 5 anos de reclusão e para 1 ano de detenção, tendo sidomantidos os demais termos da sentença.
+Irresignada, a defesa impetrou prévio writ na origem alegando nulidade do feito, porque os policiais teriam invadido o domicílio do paciente sem nenhuma autorização dos moradores e sem o necessário mandado judicial, lá apreendendo drogas e uma arma de fogo, que supostamente seriam de propriedade do ora recorrente.
+Postulou o trancamento da ação penal ou a suspensão dos efeitos da sentença condenatória;contudo a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 706):
+HABEAS CORPUS - TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - NULIDADE DO PROCESSO ANTE A ILICITUDE DE PROVAS OBTIDAS MEDIANTE VIOLAÇÃO DE DOMICÍLIO - INOCORRÊNCIA - TRANCAMENTO DA AÇÃO PENAL - DESCABIMENTO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+1. O delito de tráfico de drogas, por ser de natureza permanente, cuja consumação se protrai ao longo do tempo, prescinde da existência de mandado judicial para autorizar a entrada dos policiais militares no local em que, supostamente, existem drogas destinadas à traficância, haja vista que basta a existência de indícios de que as drogas estejam em poder do acusado para caracterizar situação de flagrância, a qual legitima o acesso dos agentes públicos, independentemente de autorização.
+2. O trancamento de ação penal somente é cabível em sede de habeas corpus quando, de modo flagrante, ficar evidenciada a atipicidade da conduta, a extinção da punibilidade ou a ausência de elementos indiciários demonstrativos de autori a e prova da materialidade.
+3. Não se tranca ação penal, se não se constata, de imediato, ausência de justa causa para sua propositura.
+4.Ordem denegada.
+Daí o presente recurso, no qual a defesa alega que o paciente está sendo submetido a flagrante constrangimento ilegal.
+Reitera os argumentos lançados na impetração anterior acerca da nulidade da ação penal e da condenação, calcada em provas obtidas ilicitamente (invasão de domicílio).
+Ressalta que "não é permitido que os militares violem o domicílio em caso de denúncia anônima e fuga do acusado, quem dirá em caso de não haver nenhum desses fatores, como no caso em questão. A casa não era objeto de investigação, os moradores não eram conhecidos no meio policial, não haviam denúncias ou informações, por menores que fossem, de que ali ocorriam tráfico ou continham entorpecentes" (e-STJ fl. 749).
+Requer o deferimento da medida liminar "para determinar a suspensão dos efeitos da sentença condenatória até o julgamento do mérito do presente recurso, sendo determinada a expedição de alvará de soltura em favor do paciente, para que aguarde tal julgamento em liberdade" (e-STJ fl. 762).
+No mérito, postula "seja ratificada a liminar pleiteada, para serem declaradas ilícitas as provas obtidas, bem como todas delas derivadas, tendo em vista que colhidas através de violação a direito fundamental (art. 5º, XI da CF/88), com determinação de desentranhamento de tais provas, nos termos do art. 157, §1º do CPP, culminando com o trancamento da ação penal, ante inexistência de lastro probatório mínimo a ensejar o prosseguimento da ação penal, com consequente expedição de alvará de soltura  ..  Subsidiariamente, caso não seja esse o entendimento de Vossas Excelências, seja anulado todo o feito a partir da prisão em flagrante, haja vista que a ilicitude da prova se deu a partir daquele momento, sendo, portanto, nulos todos os atos dali em diante, com consequente expedição de alvará de soltura" (e-STJ fl. 762).
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+É, em síntese, o relatório.
+Decido.
+Não há como dar curso à irresignação, tendo em vista que este recurso émera reiteraçãodo HC n. 593.798/MG, impetrado em favor do ora recorrente, contra o mesmo acórdão de origem e no qual foram formuladas as mesmas alegações aqui ventiladas, tendo o pedido liminar sido examinado e indeferido pela Presidência desta Corte em 10/7/2020.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
