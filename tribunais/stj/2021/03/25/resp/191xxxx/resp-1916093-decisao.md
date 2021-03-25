@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A.,fundamentado nas alíneas "a" e "c"do permissivo constitucional, desafiaacórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassimementado:
+"EXPURGOS INFLACIONÁRIOS - EXTINÇÃO DAEXECUÇÃO INDIVIDUAL COM RESOLUÇÃO DO MÉRITO
+- Prescrição não configurada - Aplicação da Súmula nº 150 do Supremo Tribunal Federal e do informativo nº 0484 do Superior Tribunal de Justiça - Existência de ação cautelar de protesto interruptivo do lapso prescricional - Legitimidade ativa do parquet para o ajuizamento da mencionada medida cautelar - Inteligênciada alínea "c", do inciso VII, do artigo 6º da Lei Complementar nº 75/1993 c.c. os artigos 82 e 83 do Código de Defesa do Consumidor - Recurso provido.
+-INTERESSES TRANSINDIVIDUAIS EXECUÇÃOINDIVIDUAL
+- Julgamento com fulcro no parágrafo 3º, do artigo 1.013 do Novo Estatuto Adjetivo Civil Eficácia erga omnes da r. sentença proferida na ação coletiva - Os credores podem promover o cumprimento do julgado no foro da comarca dos seus domicílios - Legitimidade ativa caracterizada - Desnecessidade da comprovação da associação dos poupadores ao IDEC - A apuração do quantum debeatur depende de meros cálculos aritméticos - Incidência dos juros moratórios a partir da citação nos autos da ação civil pública - Inteligência do artigo 405 do Código Civil Brasileiro - Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito - Incidência do percentual de 10,14% para o mês de fevereiro de 1989 - Possibilidade do arbitramento dos honorários advocatícios - Aplicação da Súmula nº 517 do Superior Tribunal de Justiça - Impossibilidade da inclusão dos honorários arbitrados na demanda coletiva na planilha de cálculos - - Verba que não pode ser aproveitada pelos credores que não participaram da referida demanda - Necessidade da exclusão dos juros remuneratórios no cálculo da dívida - Recurso provido, para os fins de desconstituir a r. sentença e julgar parcialmente procedente a impugnação ao cumprimento da sentença"(e-STJ fl. 247).
+Nas razões recursais, o recorrente defende:(i) descabimento dainterrupção da prescrição, (ii) ilegitimidade do parquet (iii) impossibilidade de execução de sentença genérica; e (iv)termo inicial dos juros.
+Contrarrazões às fls. 313-318 (e-STJ).
+Orecursofoi admitido na origem.
+É o relatório.
+DECIDO.
+Dentre as questões,as instâncias ordináriasdecidiram acercadalegitimidade doMinistério Públicopara o ajuizamento de açãodeprotestocom vistas à interrupção do prazo prescricional para ocumprimento de sentença coletiva.
+Trata-se de controvérsiaafetadaà Segunda Seção parajulgamento sob o rito dos recursos especiais repetitivos, nos termos dosarts. 1.036 e 1.037 do Código de Processo Civil de 2015, conforme oTema1.033.
+Diante disso, em observância à economia processual e ao art. 256-L doRISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunalde Justiça devem aguardar o desfecho da questão no Tribunal de origem, aquem incumbe realizar o juízo de conformação atualmente disciplinado pelosarts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especialdeverá ser reencaminhado a este Tribunal Superior, independentemente deratificação, para exame das demais questões jurídicas nele suscitadas queeventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com arespectiva baixa, a fim de que o processo permaneça suspenso até apublicação do acórdão do recurso especial repetitivo, observando-se, emseguida, os procedimentos previstos nos arts.1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
