@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSO CIIVL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.CONTRIBUIÇÃO PREVIDENCIÁRIA.LITISCONSÓRCIO NECESSÁRIO. INOCORRÊNCIA. ILEGITIMIDADE ATIVA DA MATRIZ EM RELAÇÃO AOS INDÉBITOS TRIBUTÁRIOS DAS SUAS FILIAIS.EMBARGOS DE DECLARAÇÃOREJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pela NESTLÉ WATERS BRASIL - BEBIDAS E ALIMENTOS LTDA.contra decisão monocrática, assimementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA.LITISCONSÓRCIO NECESSÁRIO. INOCORRÊNCIA. ILEGITIMIDADE ATIVA DA MATRIZ EM RELAÇÃO AOS INDÉBITOS TRIBUTÁRIOS DAS SUAS FILIAIS. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO, EM CONFORMIDADE COM O PARECER DO MINISTÉRIO PÚBLICO FEDERAL.
+2. Em suas razões recursais, a parte embargante reafirma a existência de litisconsórcio ativo necessário entre a matriz e suas filiais.
+3.Sem impugnação, conforme certidão de fls. 341.
+4.É o relatório.
+5.Os Embargos de Declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição ou omissão, de maneira a permitir o exato conhecimento do teor do julgado. Eles não podem ser utilizados com a finalidade de sustentar eventual incorreção dodecisumhostilizado ou de propiciar novo exame da própria questão de fundo.
+6. As alegações deduzidas revelam o caráter nitidamente infringente dos Aclaratórios, o que não se compatibiliza com a via dos Embargos. A parte embargante tenta rediscutir a decisão proferida como derradeira manifestação de inconformidade com o resultado do julgamento.
+7. No caso presente, ausentes quaisquer das hipóteses que legitimam o acolhimento dos Embargos de Declaração, uma vez que a decisão embargada encontra-se devidamente fundamentada ao consignar quea matriz efetivamente não tem legitimidade para representar processualmente as filiais nos casos em que o fato gerador do tributo se opera de maneira individualizada em cada estabelecimento comercial/industrial, haja vista que, para fins fiscais, matriz e filial são considerados entes autônomos(AgRg no REsp. 1.100.690/RJ, Rel.Min. NAPOLEÃO NUNES MAIA FILHO, DJe 19.4.2017; eAgRg nos EDcl no REsp. 1.427.132/SC, Rel. Min. HERMAN BENJAMIN, DJe 15.8.2014).
+8. Logo, a prestação jurisdicional se exauriu satisfatoriamente, não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do Código Fux, mas apenas a discordância da parte quanto ao conteúdo da decisão embargada, o que não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+9. Sendo assim, rejeitam-se os Embargos de Declaração.
+10. Publique-se. Intimações necessárias.
