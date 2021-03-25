@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRAPREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. ALEGAÇÃO DE NULIDADE DA CDA. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2.Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 171/198) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. EXECUÇÃO FISCAL. RECONHECIMENTO DA NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. QUESTÃO ATRALADA AO REEXAME DA MATÉRIA FÁTICA. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante sustenta, em suma, que o STJ tem admitido o afastamento da Súmula 7/STJ nas hipóteses em que a prova esteja contida no acórdão de origem e julgamento tenha dado qualificação diversa da interpretação dada à lei federal pelo STJ.
+Nesse norte, requer o provimento do recurso especial.
+Impugnação às fls. 202/207.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRAPREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. ALEGAÇÃO DE NULIDADE DA CDA. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2.Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ,in verbis:"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cinge-se a controvérsia de agravo de instrumento onde se discute, dentre outros, em sede exceção de pré-executividade supostovícioque ensejaria a nulidade de CDA, consistente na fundamentação equivocada acerca do fato gerador.
+Quanto ao tema, o Tribunala quoao analisar a questão acentuou o seguinte:
+Analisando a CDA n. 532/2011 (f.01 - autos da execução), verifica-se que de fato há incorreção da fundamentação legal constante da CDA, porquanto a fundamentação legal do tributo é o Art. 5º, §2º, II, da Lei 1.810/1997 (Código Tributário Estadual), quando deveria indicar o Art. 5º, §2º, III. (..)A despeito da incorreção, não há falar em nulidade, pois a irregularidade não causou prejuízos à defesa do contribuinte, que identificou de pronto qual é o imposto cobrado, tanto é que faz menção ao ICMS em sua peça de defesa. Percebe-se que a indicação normativa incorreta apenas repete aquela transcrita na lavratura do ALIM 0009506-E (f. 103, dos autos da execução)Aliás, no próprio processo administrativo exibido nos autos há a narrativa exata do motivo que justifica a autuação, seguida inclusive da assinatura do contribuinte (f.99-107).Portanto, inexistindo prejuízo para a defesa do recorrente, não há falar em nulidade da Certidão de Dívida Ativa.
+Observa-se que a instância ordinária entendeu pela não declaração de nulidade da certidão de dívida ativa, na medida que a mera irregularidade formal não acarretou prejuízo para a defesa do executado.
+Vale esclarecer que a orientação desta Corte Superior não destoa do decidido pela Corte de origem, senão vejamos:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CDA. REQUISITOS DE VALIDADE.AUSÊNCIA DE PREJUÍZO À DEFESA. REVISÃO FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. De acordo com a jurisprudência desta Corte, não deve ser declarada a nulidade da certidão de dívida ativa quando a existência de meras irregularidades formais não acarretar prejuízo à defesa do executado, à luz do princípio da instrumentalidade das formas, que rege o sistema processual brasileiro.
+3. Na espécie, o acórdão recorrido entendeu que, muito embora a CDA que aparelha a execução fiscal não tenha preenchido um dos requisitos, a sua falta não foi capaz de macular o título executivo, pois não causou prejuízo à defesa da executada, sendo que a revisão daquela conclusão implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 653.076/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 19/09/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 535, I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. NULIDADE DA CDA. SÚMULA 7/STJ.ISS. SOCIEDADE LIMITADA. CARÁTER EMPRESARIAL. NÃO INCIDÊNCIA DO ART.9º, §§ 1º E 3º, DO DECRETO-LEI N. 406/68. TRATAMENTO TRIBUTÁRIO PRIVILEGIADO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+1. Não viola o art. 535 do CPC o julgado que dirime integralmente a controvérsia com base em argumentos suficientes, não se confundindo o vício de fundamentação com o ato decisório contrário à pretensão da parte.
+2. A verificação da ausência dos requisitos da CDA demanda, como regra, o revolvimento do acervo fático-probatório, vedado nos termos da Súmula 7/STJ. Precedentes.
+3. A nulidade da CDA não deve ser declarada à vista de meras irregularidades formais que não têm potencial para causar prejuízos à defesa do executado, visto que é o sistema processual brasileiro informado pelo princípio da instrumentalidade das formas (pas des nullités sans grief). Precedentes: AgRg no AREsp 599.873/RS, Rel.
+Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/8/2015, DJe 27/8/2015; (AgRg no AREsp 475.233/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2014, DJe 14/4/2014; EDcl no AREsp 213.903/RS, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 5/9/2013, DJe 17/9/2013; AgRg no AREsp 64.755/MG, Rel.
+Ministro Francisco Falcão, Primeira Turma, julgado em 20/3/2012, DJe 30/3/2012; REsp n. 660.623/RS, Rel. Min. Luiz Fux, DJ de 16/5/2005;
+REsp n. 840.353/RS, Rel. Min. Eliana Calmon, DJe 7/11/2008.
+4. A jurisprudência da Primeira Seção desta Corte Superior é uniforme no sentido de que o benefício da alíquota fixa do ISS a que se refere o art. 9º, §§ 1º e 3º, do Decreto-Lei n. 406/68, somente é devido às sociedades uniprofissionais que tenham por objeto a prestação de serviço especializado, com responsabilidade pessoal dos sócios e sem caráter empresarial (AgRg nos EREsp 1.182.817/RJ, Rel.
+Ministro Mauro Campbell Marques, Primeira Seção, julgado em 22/8/2012, DJe 29/8/2012).
+5. A análise quanto à natureza jurídica da sociedade formada pela empresa recorrente pressupõe o reexame de seus atos constitutivos e das demais provas dos autos, o que é vedado na via do recurso especial, ante os óbices das Súmulas 5 e 7 do STJ. Precedentes: AgRg nos EDcl no Ag 1.367.961/PR, Rel. Ministro Castro Meira, Segunda Turma, DJe 3/11/2011; AgRg no Ag 1.345.711/PR, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 11/03/2011; AgRg no Ag 1.221.255/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/2/2010; AgRg no REsp 1.003.813/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 2/9/2008, DJe 19/9/2008; REsp 555.624/PB, Rel. Ministro Franciulli Netto, Segunda Turma, DJ 27/9/2004.
+6. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1445260/MG, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+PROCESSUAL CIVIL, CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALÊNCIA. INDICAÇÃO DO DEVEDOR SEM A MENÇÃO "MASSA FALIDA".VÍCIO SANÁVEL. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. A massa falida nada mais é do que o conjunto de bens, direitos e obrigações da pessoa jurídica que teve contra si decretada a falência, uma universalidade de bens, a que se atribui capacidade processual exclusivamente, mas que não detém personalidade jurídica própria nos mesmos moldes da pessoa natural ou da pessoa jurídica.
+Todo esse acervo patrimonial não personificado nasce com o decreto de falência e sobre ele recai a responsabilidade patrimonial imputada, ou imputável, à empresa falida, apenas isso, mas não configura uma pessoa distinta.
+2. Não incide, portanto, a Súmula 392/STJ ("A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução"), pois o decreto de falência não gera "modificação do sujeito passivo da execução", sendo desnecessária, até mesmo, a substituição da CDA.
+3. "A pessoa jurídica já dissolvida pela decretação da falência subsiste durante seu processo de liquidação, sendo extinta, apenas, depois de promovido o cancelamento de sua inscrição perante o ofício competente. Inteligência do art. 51 do Código Civil". (REsp 1.359.273/SE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 14.5.13) 4. O simples fato de não ter sido incluído ao lado do nome da empresa executada o complemento "massa falida" não gera nulidade nem impõe a extinção do feito por ilegitimidade passiva ad causam. A massa falida não é pessoa diversa da empresa contra a qual foi decretada a falência. Não há que se falar em redirecionamento nem mesmo em substituição da CDA. Trata-se de mera irregularidade formal, passível de saneamento até mesmo de ofício pelo juízo da execução.
+5. No caso dos autos, a impossibilidade de extinção do feito é ainda mais patente porque a execução fiscal foi ajuizada apenas 20 dias após o decreto de falência, ou seja, é possível, e mesmo provável, que a Fazenda Pública exequente nem tivesse ciência desse fato.
+6. Recurso especial provido.
+(REsp 1359041/SE, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 18/06/2013, DJe 28/06/2013)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. CDA. REQUISITOS. VERIFICAÇÃO. SÚMULA 7/STJ.PARCELAMENTO. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE. RECURSO REPETITIVO. AGRAVO IMPROVIDO.
+I - A verificação da liquidez e certeza da CDA ou, ainda, da presença dos requisitos essenciais a sua validade, demanda o reexame do conjunto fático-probatório constante dos autos, o que é vedado em sede de recurso especial (Súmula 7/STJ). Ademais, a nulidade da CDA não deve ser declarada à vista de meras irregularidades formais que não têm potencial para causar prejuízos à defesa do executado, visto que é o sistema processual brasileiro informado pelo princípio da instrumentalidade das formas (pas des nullités sans grief).
+Precedentes: REsp nº 660.623/RS, Rel. Min. LUIZ FUX, DJ de 16/05/2005; REsp nº 840.353/RS, Rel. Minª ELIANA CALMON, DJe 07/11/2008.
+II - A Primeira Seção do STJ, no julgamento do REsp nº 1.102.577/DF, Relator Ministro Herman Benjamin, DJe de 18/05/2009, sob o rito do art. 543-C do CPC (recursos repetitivos), reafirmou o entendimento de que não deve ser aplicado o benefício da denúncia espontânea nos casos em que há parcelamento do débito tributário, visto que o cumprimento da obrigação foi desmembrado e esta somente será quitada quando satisfeito integralmente o crédito.
+III - Agravo regimental improvido.
+(AgRg no AREsp 64.755/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 20/03/2012, DJe 30/03/2012)
+Assim, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  e se reconhecer a possibilidade de nulidade da CDA  , exige o reexame do acervo cognitivo dos autos, o queé inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
