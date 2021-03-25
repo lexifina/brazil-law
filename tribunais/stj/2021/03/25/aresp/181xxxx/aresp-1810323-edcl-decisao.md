@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ORIVALDO RIBEIRO à decisão de fls. 1460/1461, que não conheceu do recurso.
+Sustenta a parte embargante que:
+-No que se refere a conclusão de que o Recurso não fora instruído com a guia de custas e por isso estaria o citado recurso contrariando a Súmula 187-SJ., não terá sustentação, na medida em que o recolhimento fora feto através da respectiva guia Id-50878967, como informado no Agravo; nos precisos termos do §7º, do Art. 1007, CPC..
+-Vale registrar que, ao contrario do que informa o r. Despacho ora Embargado, a Determinação para que o ora Embargante comprovasse o respectivo depósito, fora cumprido, como se verifica do id-50878967, acima referido.
+-O que ocorreu em verdade, fora o fato de o Tribunal de Origem, não haver observado o cumprimento da decisão que determinou ao Recorrente o prazo de 5 dias para sanar o suposto vício, entendimento acompanhado por Esse Egrégio Tribunal, portanto, totalmente equivocados; pois uma vez observado a comprovação do pagamento, nada disse teria ocorrido.
+-Veja, repetindo, que em cumprimento a referida decisão de Embargos, o Recorrente fez juntar, Id-50878957, 2ª via do comprovante do pagamento do valor de R$186,10, fornecido pelo Banco do Brasil, efetuado no dia 10.12.2019, data do respectivo protocolo do Recurso; fato que não poderia ser ignorado pelo Tribunal de Origem e repetido por esse STJ (fl. 1464).
+Alega ainda que:
+-Em razão das alterações introduzida pelo NCPC., de que cabem embargos de declaração de todas e quaisquer decisões, em obediência aos Princípios da Celeridade, da Economia e da Razoabilidade e do tempo de duração do processo, e sobretudo da Ampla Defesa e do Contraditório; o ora Embargante, mesmo ante a Decisões do STJ., ainda sob a égide do Sistema Processual anterior, no sentido de que tal ato poça ser relevado, de ofício pelo juiz, optou pela interposição dos presentes Embargos, até mesmo para viabilizar a interposição do recurso próprio (fl. 1466).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com o preparo, uma vez que, além de ausente o comprovante de pagamento, o documento de fls. 1247/1248 está ilegível e incompleto (imagem desconfigurada).
+Percebida, no Tribunal de origem, a irregularidade, a parte foi intimada para recolher em dobro, nos termos do art. 1.007, § 4º do CPC. Contudo, não regularizou, uma vez que trouxe um comprovante de pagamento recolhido na forma simples e sem a respectiva guia de custas, bem como sem a devida complementação.
+Ora, o dispositivo é claro, a parte que não comprovar o recolhimento das custas no ato da interposição do seu recurso, como ocorreu no caso, deverá ser intimada para recolher em dobro, sob pena de deserção, sendo este o entendimento aplicado por esta Presidência.
+Ressalte-se novamente que, ao contrário do alegado pelo embargante, nos presentes autos não houve a comprovação do recolhimento das custas no ato da interposição do recurso. Assim, correta a intimação de fls. 1362 para recolhimento em dobro, não cabendo na hipótese, a aplicação do § 7º do art. 1.007 do CPC, usado quando houver equívoco no preenchimento da guia.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. APELAÇÃO. PREPARO.COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. MEIO INIDÔNEO. DESERÇÃO.DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça, sob a égide do CPC de 1973, consolidou o entendimento de que a juntada do comprovante de agendamento não constitui meio apto à demonstração do preparo.Precedentes.
+2. "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 636.866/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/02/2020.)
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Outrossim, o STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+Na espécie, os embargos de declaração (fls. 1398/1407 e 1416/1422) opostos à decisão que inadmitiu o recurso especial não são o recurso adequado, ou seja, não interrompem o prazo para a interposição do agravo em recurso especial, único recurso cabível no caso.
+Confiram-se os seguintes precedentes aplicados, inclusive, a agravos interpostos já na vigência do novo CPC:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREPARO. NÃO COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO, NOS TERMOS DO ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO DA DETERMINAÇÃO. DESERÇÃO. RECURSO CONTRA DECISÃO DE INADMISSÃO DO APELO NOBRE INTEMPESTIVO.
+ ..
+2. O prazo para a interposição do agravo em recurso especial não se interrompe quando opostos embargos de declaração incabíveis contra a decisão de inadmissão do apelo nobre. Nesse sentido, confiram-se: AgInt no AREsp 903.551/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 15/12/2016; AgInt no AREsp 1.496.919/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 20/2/2020.
+3. Agravo interno não provido.
+(AgInt no AREsp 1513691/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO MANIFESTAMENTE INCABÍVEL.INTERRUPÇÃO DO PRAZO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência dessa Corte é firme no sentido de que não são cabíveis embargos de declaração contra decisão que inadmite o recurso especial, de forma que sua oposição não interrompe o prazo para interposição do agravo em recurso especial.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1561419/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/2/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
