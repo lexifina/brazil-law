@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso em  habeas corpus com pedido de liminar interposto por GLADISON DIEGO GARCIAcontra ato doTribunal de Justiça do Estado de São Paulo(Agravo Regimental no HCn.2244002-42.2020.8.26.0000/50000).
+Impetradohabeas corpus originário, o desembargador relator indeferiu de plano seuprocessamento nestes termos:" ..  não há sequer em tese qualquer ofensa ou exposição a qualquer direito de locomoção do paciente. Toda a pretensão inicial é insurgir-se contra o mérito de parecer técnico e, ainda, contra decisões judiciais havidas em processos de natureza estritamente cível, cujo acerto ou desacerto, evidentemente, há de ser debatido apenas em palco próprio e pela forma devida" (fl. 2.638). A decisão foi mantida pelo Tribunal de origem no julgamento do agravo regimental.
+O recorrente sustenta que está sendo vítima de constrangimento ilegal,tendo em vista o abuso de autoridade do Juízoda Vara Única de Itaí (SP) ao impedir seu direito pleno aoexercício legal da profissão, por conta de decisões em diversas ações acerca do direito de família quepatrocina na condição de advogado de uma das partes.
+É o relatório. Decido.
+A matéria relativa ao abuso de autoridade exercido pelo Juízo da Vara Única de Itaínão foi apreciada pelas instâncias ordinárias, poiso debate nem sequer foi provocado. Assim, o exame dessa questão pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
