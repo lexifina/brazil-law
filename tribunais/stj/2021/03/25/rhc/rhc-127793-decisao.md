@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus com pedido liminar interposto por ROSANGELA SANTOS DE AGUIARdesafiando acórdão do Tribunal de Justiça do Estado da Paraíba(Habeas Corpusn. 0801573-51.2020.8.15.0000).
+Consta dos autos que a recorrente foi presa preventivamente pela suposta prática do delito inscrito no art. 121, § 2º, IV, do Código Penal (homicídio qualificado) em companhia de outros três agentes.
+A sentença de pronúncia foi prolatada em 21/11/2017 (e-STJ fl. 542).
+Irresignada, a defesa impetrouhabeas corpusna origem. A ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 565):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - PRISÃO PREVENTIVA - CONVERSÃO EM PRISÃO DOMICILIAR - PACIENTE MÃE DE FILHOS MENORES DE 12 ANOS DE IDADE - ARGUMENTO JÁ EXAMINADO, E REFUTADO, EM IMPETRAÇÃO ANTERIOR - DEMORA PARA A REALIZAÇÃO DO JULGAMENTO PELO JÚRI - SESSÃO AGENDADA - NÃO REALIZAÇÃO POR CONTA DA PANDEMIA DA COVID-19 - MOTIVO DE FORÇA MAIOR - COAÇÃO ILEGAL INEXISTENTE - PEDIDO CONHECIDO, EM PARTE, MAS DENEGADO.
+1. Cuidando-se o pedido de prisão domiciliar de mera repetição de argumento já refutado em impetração anterior, não se toma conhecimento do novo pedido de habeas corpus, no ponto.
+2. De acordo com a jurisprudência do Supremo Tribunal Federal, a demora para o término da persecução criminal só é capaz de configurar constrangimento ilegal quando decorrer de desídia do órgão judicial, exclusiva atuação do Ministério Público ou em situação incompatível com o princípio da duração razoável do processo, previsto no art. 5º,LXXVIII, da CF/88 (STF, HC 129917).
+3. Ademais, como têm orientado os Tribunais: "Após a pronúncia do réu, não existe prazo fixado para a realização do julgamento pelo Tribunal do Júri. É justificável a demora do novo julgamento ante a apelação interposta pela defesa" (TJ-PR - HC: 3272288 PR 0327228-8, Relator: Telmo Cherem, Data de Julgamento: 16/03/2006, 1ª Câmara Criminal, Data de Publicação: 7090).
+4. No caso, sustentou-se a existência de constrangimento ilegal em razão do atraso para o julgamento pelo Tribunal do Júri com base no tempo decorrido até a pronúncia e desta até os dias atuais. A autoridade coatora, no entanto, ao prestar informações, asseverou que a paciente estaria prestes a ser submetida a julgamento, eis que marcada a sessão para o dia 19 de maio último, que, senão se realizou, foi por conta da pandemia do novo coronavírus (COVID-19), motivo de força maior não atribuível ao Poder Judiciário, razão pela qual, pelo menos por ora, não se evidencia coação ilegal.
+5. Mandamus parcialmente conhecido e, nessa extensão, denegado.
+No presente recurso, a defesa apontaa fundamentação inidônea do decreto de prisão por ausência dos requisitos estampados nos arts. 312, 315 e 316 do Código de Processo Penal e o excesso de prazo, porque a recorrente está presa desde o dia 15/7/2015 e, mesmo após a pronúncia, não houve agendamento da sessão dejulgamento.
+Informa que a recorrente não deu causa ao atraso processual e aponta as suas condições pessoais favoráveis, porque é primária, mãe de duas filhas menores de 12 anos de idade e possui residência fixa.
+Sustenta a defesa, também, o desrespeito ao direito à saúde diante doelevado risco de contaminação pelaCovid-19 nos estabelecimentos prisionais. "Sendo assim, com intuito de garantir o direito constitucional à saúde, bem como em atenção à Recomendação nº 62/2020, requer-se o provimento deste Recurso Ordinário, com consequente expedição do alvará de soltura em favor do suplicante"(e-STJ fl. 595).
+Busca, então, a tutela de urgência para que "seja determinada sua imediata soltura, tendo em vista o excesso de prazo caracterizado, a ausência de fundamentação jurídica para sua mantença, e possibilidade de substituição do cárcere prévio por outras medidas cautelares diversas da prisão, tudo em consonância com a Resolução nº 62/2020 do CNJ" (e-STJ fl. 596).
+Diante dessas considerações, requer, liminarmente e no mérito, a expedição do alvará de soltura ou a concessão de medidas cautelares diversas do cárcere.
+O pedido liminar foi por mim indeferido (e-STJ fls. 655/657).
+Prestadas as informações de estilo, o MPF opinou pelo desprovimento do recurso (e-STJ fls. 675/679).
+É, em síntese, o relatório.
+Decido.
+Conforme informações prestadas pelo Juízo da Vara Única da Comarca de Solânea/PB, às e-STJ fls. 690/692,verifico que em 18/11/2020 houve o julgamento da recorrente pelo Tribunal do Júri, tendo sido a ré condenada à pena de 20 (vinte) anos de reclusão, mantida a prisão cautelar.
+Dessarte, é patente que o presente recurso visando a revogação da custódia cautelar da recorrente por excesso de prazo para a formação da culpa está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
