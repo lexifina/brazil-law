@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A., fundamentado nas alíneas "a" e "c"do permissivo constitucional, que desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"AGRAVO REGIMENTAL  O credor pode promover o cumprimento do julgado no foro da comarca do seu domicílio  Desnecessidade da demonstração da associação do poupador ao IDEC  Legitimidade ativa configurada  A prévia liquidação do julgado é de todo dispensável  Aplicação do artigo 475-B do Código de Processo Civil  Os juros da mora são devidos a partir da citação  Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito  Juros remuneratórios não previstos na ação coletiva  Pretensão do exequente incabível  Matérias de entendimento consolidado no Superior Tribunal de Justiça  Honorários advocatícios  Referido tema não foi analisado pelo Juízo a quo, tampouco conhecido no agravo de instrumento  Pré -questionamento  Recurso do Banco conhecido em parte e, na parte conhecida, improvido e recurso do autor improvido" (fl. 332e-STJ).
+Nas razões recursais, o recorrente defende: (i) limitação territorialda sentença coletiva; (ii) ilegitimidade ativa do autor por não ser filiado ao IDEC à época da propositura da ação coletivae (iii) necessidade de liquidação de sentença;(iv) os juros moratórios são devidos desde a citação na liquidação de sentença e (v) correção monetária é devida nos índices oficiais.
+É o relatório.
+DECIDO.
+Dentre as questões,as instâncias ordináriasdecidiram acerca dalegitimidade do não associado para a execução de sentença em ação civil pública.
+Trata-se de controvérsiaafetadaà Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil de 2015, conforme oTema948.
+Diante disso, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts.1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
