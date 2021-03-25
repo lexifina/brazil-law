@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 434/439 e-STJ) opostos por CAIXA SEGURADORA S.A. à decisão de fls. 429/432 (e-STJ), que deu provimento ao recurso especial para que voltem os autos à Corte de origem, a fim de que se examine se houve comprovação do cumprimento do dever de informação por parte da seguradora.
+A embargante sustenta, em síntese, a existência de omissão quanto a trecho do acórdão que "entendeu pela improcedência dos pedidos, visto que há comprovação quanto à ciência do contratante acerca dos limites contratuais, e a apólice contratada não possui cobertura para a doença diagnosticada na segurada".
+Acrescenta que "nenhum dos artigos suscitados pela recorrente foram violados, já que o dever de informação foi cumprido, e a limitação imposta está prevista nas condições gerais da apólice".
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+O recurso especial com fundamentação completa, clara e coerente, no sentido de que a seguradora tem obrigação de esclarecer previamente a ambos, o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras sobre o tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro.
+A esse respeito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. Nos termos da jurisprudência desta Corte, a seguradora tem o dever de prestar informações ao segurado, mesmo nos contratos de seguro de vida em grupo. Precedentes de ambas Turmas de Direito Privado.
+2. Tal responsabilidade não pode ser transferida, eximindo a seguradora, integralmente à estipulante, pois essa, segundo o artigo 801, § 1º, do Código Civil, "não representa o segurador perante o grupo segurado, e é o único responsável, para com o segurador, pelo cumprimento de todas as obrigações contratuais".
+3. Agravo interno desprovido."
+(AgInt no REsp 1.835.185/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe 27/11/2019 - grifou-se)
+"RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO COM ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA - IFPD. PATOLOGIA DA COLUNA LOMBAR CONTROLADA POR CIRURGIA. INCAPACIDADE TOTAL E PERMANENTE PARA A PROFISSÃO. DESEMPENHO DE ATIVIDADES LABORAIS LEVES. DEFINIÇÃO DA APÓLICE: INVALIDEZ FUNCIONAL. ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. PRESERVAÇÃO. INDENIZAÇÃO SECURITÁRIA INDEVIDA.
+1. A Circular SUSEP nº 302/2005 vedou o oferecimento da cobertura de Invalidez Permanente por Doença (IPD), em que o pagamento da indenização estava condicionado à impossibilidade do exercício, pelo segurado, de toda e qualquer atividade laborativa, pois era difícil a sua caracterização ante a falta de especificação e de transparência quanto ao conceito de "invalidez" nas apólices, havendo também confusão entre o seguro privado e o seguro social, o que gerou grande número de disputas judiciais. Em substituição, foram criadas duas novas espécies de cobertura para a invalidez por doença: Invalidez Laborativa Permanente Total por Doença (ILPD ou IPD-L) e Invalidez Funcional Permanente Total por Doença (IFPD ou IPD-F).
+2. Na Invalidez Funcional Permanente Total por Doença (IFPD), a garantia do pagamento da indenização é no caso de invalidez consequente de doença que cause a perda da existência independente do segurado, ocorrida quando o quadro clínico incapacitante inviabilizar de forma irreversível o pleno exercício das relações autonômicas do segurado. Já na cobertura de Invalidez Laborativa Permanente Total por Doença (ILPD), há a garantia do pagamento de indenização em caso de invalidez laborativa permanente total, consequente de doença para a qual não se pode esperar recuperação ou reabilitação com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado.
+Logo, a garantia de invalidez funcional não tem nenhuma vinculação com a invalidez profissional.
+3. Embora a cobertura IFPD (invalidez funcional) seja mais restritiva que a cobertura ILPD (invalidez profissional ou laboral), não há falar em sua abusividade ou ilegalidade, tampouco em ofensa aos princípios da boa-fé objetiva e da equidade, não se constatando também nenhuma vantagem exagerada da seguradora em detrimento do consumidor. De qualquer modo, a seguradora deve sempre esclarecer previamente o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras a respeito do tipo de cobertura contratada e as suas consequências, de modo a não induzi-los em erro.
+4. Recurso especial não provido."
+(REsp 1.449.513/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/03/2015, DJe 19/03/2015)
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas sim reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
