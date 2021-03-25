@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Clarice Aparecida Machado de Oliveira, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ, fl. 130):
+PREVIDENCIÁRIO. PENSÃO POR MORTE DE CÔNJUGE. NÃO RESTABELECIMENTO. COISA JULGADA MATERIAL. RECONHECIMENTO. SENTENÇA DE EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO, PARCIALMENTE MANTIDA. DECLARAÇÃO DE PERCEPÇÃO DE VALORES DE BOA-FÉ. NÃO CABIMENTO.
+1. A pensão por morte rege-se pela legislação vigente quando da sua causa legal, sendo aplicáveis, no caso, as disposições da Lei 8.213/91, com a redação dada pela Lei 9.528/97.
+2. A questão acerca da manutenção da qualidade de segurado restou preclusa em face da coisa julgada, pois já decidida no bojo de processo anterior, não cabendo a este julgador verificar a validade de vínculos já submetidos ao contraditório.
+3. É certo dizer que a preclusão da matéria não alcançou a declaração de que os valores recebidos pela autora, decorrentes do benefício de pensão por morte ora cessado, foram recebidos de boa-fé. Entretanto, não cabe tal declaração a este juízo, tendo em vista que o INSS não apresentou qualquer pedido relativo à devolução de valores.
+A recorrente alega violação dos arts. 337, § 2º, e 485, V, do CPC/2015.Defende que a causa de pedir é diversa e, por isso, não ocorreu a coisa julgada pela ausência de qualidade de segurado, visto que se trata de fato essencial, ou seja, em razão de desemprego e manutenção da qualidade de segurado por 12 meses sob o período de graça.
+Argumenta que essa alegação não foi analisada na primeira demanda, não podendo ser atingida pela eficácia preclusiva da coisa julgada.
+Admitido o recurso especial na origem (e-STJ, fl. 162), subiram os autos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem resolveu a questão em debate sob o seguinte fundamento (e-STJ, fls. 134/137):
+Do caso concreto
+Restringe-se a controvérsia acerca do reconhecimento da coisa julgada e manutenção da qualidade de segurado do de cujus, tendo em vista que a dependência econômica do cônjuge é presumida, condição comprovada pela certidão de casamento juntada aos autos (ev. 3 - ANEXOS PET4)
+O juízo a quo julgou extinto o processo, com fulcro no art. 485, inc. V, do CPC, porquanto entendeu que se formou coisa julgada a partir do processo de nº 5000641-13.2013.404-7108, considerando que também se postulava o deferimento do benefício de pensão por morte naquele processo.
+ ..
+Nesse viés, de início, destaco que se operou a coisa julgada material no processo de nº 5000641-13.2013.4.04-7108. Vejamos.
+A autora fora casada com o de cujus, cujo óbito ocorreu em 21/07/2011, como visto.
+O de cujus ao tempo do falecimento, estava em gozo de auxílio-doença, benefício que ensejou a concessão da pensão por morte previdenciária em favor da autora, pois acreditava-se na manutenção da qualidade de segurado.
+No entanto, a Autarquia Federal cessou a pensão em 30/06/2012 sob o fundamento de irregularidades nos recolhimentos extemporâneos das contribuições relativas ao vínculo de emprego com AJ BORRACHARIA CENTRAL LTDA, iniciado em 01/02/2010, os quais viabilizaram a concessão do auxílio-doença e, consequentemente, da pensão por morte - considerando a manutenção da qualidade de segurado.
+Em face da cessação do benefício, a parte autora ajuizou a ação nº 5000641-13.2013.4.04-7108. Sobreveio a sentença que julgou improcedente o pedido de restabelecimento do benefício, pois considerou como indevida a concessão do auxílio-doença porquanto irregulares as contribuições extemporâneas, resultando na perda da qualidade de segurado.
+ ..
+Observa-se, então, que o perito judicial, naquele processo, fixou a data de início da incapacidade em 17/05/2010.
+O magistrado, com base na data estabelecida pelo perito, entendeu que ocorreu a perda da qualidade de segurado e, consequentemente, julgou improcedente o pedido de restabelecimento do benefício.
+Nesse contexto, ao dizer que a DDI foi posterior ao término do período de graça, o julgador, em verdade, afastou o vínculo de 01/02/2010, o qual foi objeto de questionamento pela Autarquia. Caso contrário haveria incongruência no decisum, considerando que somente o período mínimo da graça já abarcaria a DDI, pois é de 12 meses.
+Afastado o último vínculo presente no CNIS (01/02/2010), pois irregulares as contribuições, o juiz teve base o vínculo imediatamente anterior, datado de 01/11/1988, para a fixação do termo inicial da contagem do período de graça.
+Nesse norte, nota-se que a questão acerca da manutenção da qualidade de segurado restou preclusa em face da coisa julgada, pois já decidida no bojo do processo nº 5000641-13.2013.4.04-7108, não cabendo a este julgador verificar a validade das contribuições extemporâneas.
+Saliento, ainda, que a situação de desemprego é pressuposto da análise em relação à manutenção do vínculo com o RGPS a qual restou definitivamente decidida, não havendo falar em nova causa de pedir.
+No caso, o acórdão recorrido entendeu pela incidência da coisa julgada tratando da perda da qualidade de segurado, ao concluir que foi afastado o último vínculo empregatício constante no CNIS por considerar que houve irregularidades nas contribuições, que se fixou a contagem para o início do período de graça em 1º/11/1988 e ressaltado que a situação de desemprego é pressuposto para análise da manutenção do vínculo com o RGPS.
+Dessa forma, verifica-se que, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+No ponto:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. COISA JULGADA. INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Tendo o Tribunal Corte a quo reconhecido a existência de coisa julgada proferida em demanda anterior, qualquer conclusão em sentido contrário demandaria incursão na seara probatória, inviável em recurso especial, sob pena de violação da Súmula 7 do STJ. Precedentes. Agravo regimental improvido.
+(AgRg no AREsp 600.268/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 2/12/2014, DJe 10/12/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMÓVEL SITUADO EM ÁREA DE FRONTEIRA. BEM DA UNIÃO. TRANSFERÊNCIA A NON DOMINO PELO ESTADO DO PARANÁ A PARTICULARES. DESAPROPRIAÇÃO DIRETA POR INTERESSE SOCIAL. TRÂNSITO EM JULGADO. AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE NULIDADE DOS REGISTROS IMOBILIÁRIOS. RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO DE INDENIZAÇÃO. ADEQUAÇÃO DA VIA ELEITA, OBSERVADAS AS PECULIARIDADES DO CASO CONCRETO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. OFENSAÀ COISA JULGADA. NÃO CONFIGURAÇÃO. PRESCRIÇÃO. INOCORRÊNCIA. RATIFICAÇÃO DO TÍTULO DE PROPRIEDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REEXAME. NECESSIDADE DE DILAÇÃO PROBATÓRIA. BENFEITORIAS. INDENIZAÇÃO. BOA-FÉ DOS EXPROPRIADOS. DEVOLUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE.
+ ..
+3. Caso em que os autos cuidam de ação civil pública ajuizada pelo Ministério Público Federal, na qual busca a declaração de nulidade de títulos dominiais outorgados a particulares, relativamente a imóveis situados na faixa de fronteira, pertencentes à União Federal, com a consequente devolução dos valores indenizatórios já levantados pelos expropriados.
+ ..
+11. Tendo a Corte de origem assentado que a ação de desapropriação ajuizada pelo INCRA não transitou em julgado quanto à questão do domínio das terras expropriadas visto que a matéria não foi discutida nos autos do processo desapropriatório, mas tão somente o valor da indenização a ser paga, não há como inverter o julgado, a fim de reconhecer a alegada ofensa à coisa julgada, em face do óbice contido na Súmula 7 do STJ. 12. Embora a lei preveja a possibilidade de ratificação dos títulos de propriedade em faixa de fronteira pela União (Decreto-Lei n. 1.942/1982), a jurisprudência desta Corte Superior é uníssona no sentido de que esta ratificação não é automática, não constituindo impeditivo para o magistrado decretar a sua nulidade.
+13. Hipótese em que o acórdão recorrido, embasado na legislação de regência, assentou que "a exploração da área de forma a torná-la produtiva é requisito essencial para o deferimento da ratificação/retitulação, o que não ocorreu no presente caso", circunstância que enseja a aplicação da Súmula 7 do STJ.
+ ..
+20. Recursos do Incra e da União conhecidos parcialmente e, nessa extensão, desprovidos. Recurso dos particulares/expropriados conhecido e provido, em parte, para reconhecer a inexistência de obrigação de devolução dos honorários advocatícios.
+(REsp 1.352.230/PR, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/10/2017, DJe 30/11/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
