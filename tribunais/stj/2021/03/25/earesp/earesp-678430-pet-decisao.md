@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de petição interposta por DINORAH RODRIGUES VIEIRA com o intuito de requerer a reautuação do presente agravo como recurso especial, conforme, segundo alega, demonstra o teor dadecisão de fls. 3.291/3.293 (e-STJ).
+Em suas razões, a parte argumenta que a mencionada decisãofoi confirmada por unanimidade pelocolegiado da Terceira Turma com seu resultado transcritono acórdão de fls. 3.369/3.372 (e-STJ).
+Ocorre que, como já exposto no acórdão de fls. 3.435/3.437 (e-STJ), a decisão de fls. 3.342 (e-STJ)tornousem efeito o que fora proferido àsfls.3.291/3.293 (e-STJ). Desse modo, prevalece o novo julgamento dos embargos declaratórios (3.369/3.373 e-STJ), cuja conclusão não permite inferir que houve provimento do agravo para destrancar o recurso especial.
+Nesse sentido:
+"(..)
+Com efeito, a decisão de fls. 3.368/3.372 (e-STJ), em nova análise dos embargos de declaração opostos por Dinorah Rodrigues Vieira às fls. 3.236/3.256 (e-STJ), concluiu, tão somente, pela inaplicabilidade do art. 932, III, do CPC/2015 ao agravo interposto.Por entender que houve a impugnação expressa dos fundamentos adotados na decisão atacada, a Terceira Turma conferiu efeitos infringentes aos embargos dedeclaração, reformando a decisão colegiada de fls. 3.227/3.230 e, por consequência, a decisão monocrática proferida às fls. 3.188/3.190 (e-STJ), sem adentrar na análise do agravo em recurso especial. Assim, ao contrário do alegado pelo embargante, a decisão recorrida não deu provimento ao agravo interposto para destrancar o recurso especial.Registra-se, ainda, que as matérias referentes à admissibilidade do agravo em recurso especial, à aplicabilidade ou não das Súmulas nºs 7 e 320/STJ e nºs 282 e 284/STF, bem como ao mérito da demanda, não foram objeto de análise na decisão embargada e serão examinadas oportunamente, no momento da análise do agravo em recurso especial". (fls.3.436/3.437 e-STJ)
+Diante do exposto, nada a prover quanto ao pleito redigido empetição de fls. 3.446/3.448 (e-STJ).
+Publique-se.
+Intimem-se.
