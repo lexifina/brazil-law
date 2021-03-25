@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RICARDO JORGE ALVES DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no julgamento do Agravo Interno em Habeas Corpus n.0089006 -18.2020.8.19.0000.
+Consta dos autos que o Paciente foi denunciado como incurso "nas penas dos artigos 2.º da Lei 12.850/2013, do artigo 155 §§ 1º e 4.º, I e IV, c/c 14, II, n/f dos artigos 29 e 69 todos do Código Penal; e artigos 54, § 2.º, II e 56, § 1º, I c/c artigo 58, III da Lei 9.605/98, c/c artigo 61, II, "h", n/f do artigo 69 do Código Penal" (fl. 20).
+No ato de recebimento da denúncia, em 02/10/2019, foi decretada a sua prisão preventiva (fls. 65-67).
+Inconformada, a Defesa impetrou habeas corpus. O Desembargador Relator indeferiu liminarmente a petição inicial (fls. 33-34). Interposto recurso de agravo interno, foi desprovido pela Corte local (fls. 17-22).
+Neste habeas corpus, a Parte Impetrantealega, em síntese: a) a ausência dos requisitos e de fundamentos idôneospara aprisão preventiva; b) a desproporcionalidade da medida extrema; c) o excesso de prazo para a formação da culpa; d) a suficiência de cautelares alternativas; e e) a incompatibilidade da prisão em estabelecimento prisional com a situação de pandemia.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+É o relatório. Decido.
+Cumpre salientar que a tese de incompatibilidade da prisão em estabelecimento prisional com a situação de pandemia não foi apreciada pelo Tribunal de origem, de modo que não pode ser conhecida originariamente por esta Corte Superior, sob pena de supressão de instância.
+Do mesmo modo, as teses relacionadas aos requisitos e aos fundamentos da prisão cautelar nem sequer foramconhecidasno acórdão impugnado, pois o Tribunal a quo concluiu pela reiteração de pedido anterior - que teria sido julgado no HC n. 0015408-31.2020.8.19.0000, cujo acórdão não se encontra juntado aos autos. Assim, não se mostra possível o exame das referidas alegaçõesneste habeas corpus.
+Quanto ao pleito de excesso de prazo, a Corte de origem consignou que "a instrução foi concluída e o feito encontra-se na fase de alegações finais" (fl. 21). Dessa forma, fica superada a análise de eventual excesso de prazo para a formação da culpa, consoante a inteligência da Súmula n. 52 do Superior Tribunal de Justiça ("Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo").
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INCOMPATIBILIDADE DA PRISÃO EM ESTABELECIMENTO PRISIONAL COM A SITUAÇÃO DE PANDEMIA. TESE NÃO APRECIADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. PLEITOS RELACIONADOS AOS REQUISITOS E AOS FUNDAMENTOS DA PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO NA INSTÂNCIA A QUO. IMPOSSIBILIDADE DE ANÁLISE NESTE WRIT. EXCESSO DE PRAZO PARA AFORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA SÚMULA N. 52/STJ. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
