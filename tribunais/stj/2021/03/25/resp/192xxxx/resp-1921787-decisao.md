@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro cuja ementa é a seguinte (fl. 40, e-STJ):
+Apelação Cível. Execução Fiscal. Município do Rio de Janeiro. Sentença de extinção fundamentada na ocorrência de prescrição intercorrente. Créditos fiscais referentes aos anos de 2002, 2003 e 2004. Ação ajuizada em 2006. A diligência de citação restou negativa.
+No entanto o Município Exequente somente juntou petição requerendo uma nova diligencia em 2016. A Fazenda Pública Municipal quedou-se inerte, não promovendo o devido andamento ao executivo fiscal, deixando de acompanha-lo por um longo período, ocorrendo a prescrição intercorrente. Nesse passo, deve ser enfatizado que, ainda que interrompido o prazo prescricional, com a decisão de citação, o feito permaneceu sem qualquer andamento ao longo de mais de cinco anos, não tendo o credor tomado as providências cabíveis para o devido prosseguimento do feito. Assim, afasta-se a aplicação da Súmula n.º 106 do E. STJ ante a inércia do próprio Exequente, ora Apelante. O art. 219, § 6º do Código de Processo Civil, com redação trazida pela Lei 11.280/06, concedeu ao Juiz a faculdade de, em reconhecendo o decurso do lapso temporal legal, pronunciar de ofício a prescrição. Precedentes jurisprudenciais desta Corte Estadual de Justiça. Recurso desprovido.
+Os Embargos de Declaração foram rejeitados (fl. 68, e-STJ).
+O Município do Rio de Janeiro, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 25 e 40 da Lei 6.830/1980 e do art. 921, III, § 1º, do CPC/2015. Sustenta, em suma, a não ocorrência de prescrição, porquanto "não pode ser imputada culpa ao recorrente. A paralisação do feito no caso em tela é claramente de responsabilidade do cartório, em virtude de falha no mecanismo de justiça" (fl. 81, e-STJ).
+Não foram apresentadas contrarrazões.
+Decisão de admissibilidade às fls. 103-106, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.3.2021.
+A irresignação não merece prosperar.
+A controvérsia se restringe à ocorrência ou não de prescrição do crédito tributário referente à cobrança de IPTU do exercício de 2002, 2003 e 2004.
+Na hipótese dos autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu pelo reconhecimento da prescrição intercorrente, tendo ficado devidamente demonstrada nos autos a inércia do exequente.
+Merece transcrição o seguinte excerto do acórdão recorrido (fl. 121, e-STJ):
+No caso concreto, muito embora as questões suscitadas no Recurso Especial divirjam dos Temas 566 a 571, convém ressaltar que, conforme assinalado no acórdão recorrido, que antes de proferir a sentença, a Fazenda Municipal foi devidamente intimada, manifestando-se nos autos, conforme fls. 11.
+Outrossim, restou comprovado nos autos que a execução ficou paralisada por período superior a 05 (cinco) anos, por desinteresse da Fazenda Pública Municipal em relação ao processo e ao crédito, não cabendo a invocação da aplicação, no caso concreto, do verbete sumular nº 106, do Egrégio Superior Tribunal de Justiça.
+Desta forma, ao contrário da alegação do recorrente, o recurso de apelação foi exaustivamente apreciado e as alegações afastadas.
+A decisão vergastada está em sintonia com a jurisprudência do STJ, no sentido de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente, o que ficou amplamente demonstrado no caso destes autos. A propósito, confiram-se os seguintes precedentes:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA FAZENDA PÚBLICA. PRESCRIÇÃO AFASTADA ANTE O NÃO RECONHECIMENTO DA INÉRCIA DO CREDOR. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. ENUNCIADO N. 315 DA SÚMULA DO STJ.
+I - A parte embargante pleiteia modificar acórdão que aplicou o óbice do enunciado n. 7 da Súmula do STJ ao caso concreto. Porém, revela-se inviável rever, em embargos de divergência, o conhecimento do recurso especial, incidindo, por analogia, o enunciado n. 315 da Súmula do STJ. Precedentes: (AgInt nos EAREsp 731.774/RS, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/11/2016, DJe 16/11/2016). Segunda Seção, julgado em 9/11/2016, DJe 16/11/2016).
+II - A finalidade dos embargos de divergência é uniformizar a jurisprudência do Superior Tribunal de Justiça. Desse modo, "não se admitem embargos de divergência interpostos com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de conhecimento de recurso especial", máxime quando o recurso especial não tiver chegado a se pronunciar sobre o mérito da controvérsia, realizando, apenas, o juízo de admissibilidade do recurso especial. Precedente: AgRg nos EREsp 1.393.786/RS, Terceira Seção, Rel. Ministro Reynaldo Soares da Fonseca, DJe 2/12/2016. Precedentes: AgRg nos EREsp 1.393.786/RS, Terceira Seção, Rel. Ministro Reynaldo Soares da Fonseca, DJe 2/12/2016.
+III - Agravo interno improvido.
+(AgInt nos EREsp 1443973/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 11/04/2018, DJe 19/04/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRECATÓRIO COMPLEMENTAR. PRESCRIÇÃO INTERCORRENTE. NÃO CARACTERIZAÇÃO. PARALISAÇÃO DA MARCHA PROCESSUAL QUE NÃO PODE SER IMPUTADA À EXEQUENTE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ANATOCISMO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TABELA DE CORREÇÃO MONETÁRIA. NÃO INDICAÇÃO DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF.
+(..)
+4. Ademais, o Tribunal de origem afastou a prescrição também por ausência de demora imputada à parte interessada. Nos termos do voto condutor do acórdão recorrido: "Verifica-se que a requisição de expedição de requisitório referente ao saldo remanescente ocorreu dentro do prazo prescricional qüinqüenal, previsto no art. 1º do Decreto nº 20.910/32. De fato, o depósito da última parcela se deu em 29.12.99 (fls.55), e o pleito de expedição de novo ofício requisitório ocorreu em 15.05.03 (fls. 63)". Para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 do STJ.
+(..)
+7. Recurso Especial não conhecido.
+(REsp 1718978/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/05/2018, DJe 23/11/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. DESÍDIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULAS 5 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. As conclusões do acórdão recorrido, no tocante à desídia do exequente e reconhecimento da prescrição, não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1138095/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA PARTE CREDORA. VERIFICAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração das conclusões adotadas pela Corte de origem, acerca da verificação de inércia da parte credora e da ocorrência de prescrição intercorrente, tal como proposta pela recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1628279/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 05/12/2017)
+Outrossim, alterar o entendimento da Corte a quo de que, "antes de proferir a sentença, a Fazenda Municipal foi devidamente intimada" (fl. 121, e-STJ), in casu, demanda reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ. Nesse sentido, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. TESE FIRMADA EM RECURSO REPETITIVO. INÉRCIA DO CREDOR. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+4. Além disso, verifica-se que, para adotar conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado e afastar a ocorrência da prescrição, é necessário reexame de matéria de fato, o que é inviável em Recurso Especial, tendo em vista o disposto na Súmula 7/STJ.
+5. Agravo conhecido para conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(AREsp 1676486/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020)
+A solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Por fim, na forma da jurisprudência desta Corte, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.3.2017). Na mesma linha: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 24.3.2017.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
