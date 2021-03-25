@@ -1,0 +1,43 @@
+D E C I S Ã O
+    Cuida-se de mandado de segurança, com pedido de liminar, impetrado por Izabel Cristina dos Santos, contra ato atribuído ao Presidente do Tribunal de Contas da União – TCU, consubstanciado em acórdão que (a) entendeu ser ilegal a pensão militar a ela deferida, tendo por base o soldo do posto de 2º Tenente; e (b) determinou a suspensão do seu pagamento.
+    Alega a impetrante ser filha do senhor José Antônio dos Santos, militar transferido para a reserva remunerada por meio da Portaria n. 789, de 03/04/85, com proventos de 2º Sargento.
+    Aduz que seu pai, já na reserva remunerada, passou a apresentar problemas cardíacos, o que o levou a efetuar requerimento para fins de obtenção de isenção de imposto de renda, auxílio invalidez e melhoria da reforma, tendo sido considerado inválido a partir de 18/06/06.
+    Acrescenta que, em razão da comprovação da invalidez, foi editada a Portaria n 194/SIPM, de 30/09/09, que lhe assegurou o direito à revisão da reforma e, em consequência, a receber proventos relativos ao posto imediatamente subsequente (2º Tenente).
+    Relata que o procedimento administrativo de revisão da reforma foi enviado ao TCU e distribuído para a 2ª Câmara (TC 025.792/2010-5); e que aquele Colegiado, por unanimidade, considerou o ato legal para fins de registro (Acórdão 6445/2010-TCU-2ª Câmara).
+    Ressalta que, com o óbito do militar em 06/01/2013, o direito ao benefício da pensão militar foi assegurado à Sra. Rosaly Pereira dos Santos (viúva), que teve por base o soldo de 2º Tenente.
+    Pontua que o processo de pensão inicial foi encaminhado ao TCU para apreciação de sua legalidade (TC-013.450/2014-0, para a 2ª Câmara); e que, em 05/08/14, o ato de concessão da pensão militar inicial foi considerado ilegal.
+    A impetrante, Izabel Cristina dos Santos, aponta que, com a morte do cônjuge do militar em 27/05/19, promoveu sua habilitação como beneficiária da pensão em reversão de direito, que foi deferida pela Portaria nº 14233, de 28/06/19, com base no solto de 2º Tenente. O procedimento foi encaminhado então para o TCU (TC 031-908.2019-5-TCU-2ª Câmara).
+    Explica que, na Sessão do dia 19/05/20, foi prolatada decisão no sentido de considerar ilegal o ato de concessão de reversão do direito de pensão a ela conferido e determinada a cessão do pagamento do benefício, nos termos do Acórdão 5439-TCU-2ª Câmara ' contra o qual apresentou recurso, recebido no efeito suspensivo, mas ao qual, posteriormente, lhe foi negado provimento (Acórdão 13958/20-TCU).
+    Entende que, “considerando que o direito ao benefício da pensão militar assegurado a Impetrante teve como fato gerador a contribuição feita pelo instituidor da pensão, calculada sobre os proventos percebidos pelo mesmo já tendo por base do soldo de 2º Tenente assegurado no ato de revisão da reforma por invalidez, convém que seja concedida a medida de segurança para anular o ato ilegal e arbitrário, determinando à autoridade coatora que promova o imediato registro da legalidade da pensão militar deferida em reversão à Impetrante, benefício para o qual o instituidor da pensão contribuiu por mais de 10 (dez) anos, ato revestido de exequibilidade e aperfeiçoamento, abarcado pelo prazo decadencial previsto no art. 54 da Lei n. 9.784/99, assim como que a autoridade determine a Diretoria de Pessoal do Comando da Marinha que restabeleça, imediatamente, o pagamento dos benefícios da pensão a Impetrante, tendo por base o soldo de 2º Tenente”.
+    Pondera que não poderia haver modificação do ato de reforma por invalidez, porquanto já ultrapassado o prazo decadencial de 5 (cinco) anos da produção dos seus efeitos.
+    Adiciona que, ao não ser registrado o ato de pensão inicial a ela conferido pelo órgão da Administração, foi ferido o princípio da segurança jurídica, da proteção à confiança, da boa-fé e do devido processo legal, da ampla defesa e do contraditório.
+    Requer o deferimento de medida liminar “para determinar a autoridade coatora que promova o imediatamente registro da legalidade da pensão militar deferida em reversão a Impetrante, tendo por base o soldo do posto de 2º Tenente, considerando a legalidade do ato de revisão da reforma do instituidor da pensão por invalidez permanente para o serviço ativo da Forças Armadas, ato aperfeiçoado há mais de 10 (dez) e abarcado pelo prazo decadencial previsto no art. 54 da Lei n. 9784/99 e a incorporação do direito ao benefício da pensão militar ao patrimônio da Impetrante ocorrido no ato do falecimento do ex-militar em 6 de janeiro de 2013, assim como que a autoridade coatora determine à Diretoria de Administração de Pessoal do Comando da Marinha que restabeleça o pagamento dos benefícios da pensão a Impetrante, tendo por base os soldos do posto de 2º Tenente, sob pena de multa diária”.
+    Postula, ao final, a confirmação da medida liminar e a concessão da segurança.
+    É o relatório. Decido.
+    Reputo cabível a concessão, apenas em parte, da liminar.
+    O fundamento do ato impugnado – acórdão da 2ª Câmara do Tribunal de Contas da União – foi tão somente o entendimento de que o acréscimo de dois postos, para fins de cálculo dos proventos, se limitaria ao próprio instituidor do benefício, enquanto em vida, sendo indevida a sua extensão aos demais beneficiários (cônjuge e filha).
+    Ressai indevida, portanto, a determinação de cessação total do pagamento dos valores da pensão revertida.
+    Se a ilegalidade declarada pelo TCU se refere tão somente à percepção da pensão no valor do soldo de 2º Tenente, posto imediatamente superior àquele ocupado na ativa pelo militar, não há porque determinar a suspensão total do pagamento do benefício.
+    Nesse contexto, deve ser restabelecido, em favor da impetrante, o pagamento da pensão no valor do soldo do 2º Sargento ' o qual vinha sendo percebido pelo instituidor do benefício quando na ativa.
+    Ademais, a natureza alimentar do benefício cassado, de per si, depõe em favor do risco de perecimento do direito invocado.
+    Melhor sorte não socorre a impetrante, todavia, quanto à alegação de decadência.
+    Na hipótese dos autos, a reversão de pensão de um beneficiário (cônjuge) para outro (filha) tem o condão de inaugurar uma relação jurídica distinta de qualquer outra ocorrida anteriormente.
+    Não se trata, assim, de modificação subjetiva da relação anteriormente existente e tida por legal pelo TCU, mas de constituição de novo vínculo jurídico.
+    Deste modo, o TCU apenas procedeu à apreciação da legalidade do ato de reversão de pensão de militar em favor da impetrante.
+    O Supremo Tribunal Federal, no âmbito da repercussão geral, firmou a seguinte tese:
+    “Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas.” (RE-636.553, Ministro Gilmar Mendes, DJ de 26.5.2020).
+    O pedido de reversão foi formulado e deferido perante o órgão competente no ano de 2019; e analisado pelo TCU no ano de 2020.
+    Portanto, à máxima evidência, não há falar em aplicação, na espécie, da invocada decadência.
+    O argumento de violação ao princípio do contraditório e da ampla defesa também não pode ser acatado.
+    A uma, “a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão” não se submete ao contraditório e à ampla defesa. Essa a dicção do Enunciado 3 da Súmula Vinculante 3 do Supremo Tribunal Federal.
+    A duas, a via recursal, no âmbito administrativo, foi franqueada à impetrante, tanto assim que ela interpôs recurso de revisão em face da decisão do TCU que entendeu ilegal a pensão pleiteada.
+    Dispositivo.
+    Em face do exposto, defiro parcialmente o pedido de liminar para – suspendendo os efeitos da decisão proferida no TC 031.908/2019-5 no ponto em que determinara à Administração do Pessoal do Comando da Marinha que procedesse à imediata interrupção –do pagamento do benefício em análise – assegurar à impetrante o recálculo de seus proventos de pensão.
+    Oficie-se ao Chefe da Diretoria de Administração do Pessoal do Comando da Marinha, para dar-lhe ciência desta decisão.
+    Notifique-se a autoridade coatora para, no prazo de 10 (dez) dias, apresentar as informações (art. 7º, inc. I, da Lei nº 12.016/09).
+    Dê-se ciência à Advocacia-Geral da União, para os termos do art. 7º, inc. II, da Lei nº 12.016/09.
+    Após, colha-se a manifestação do Ministério Público Federal (art. 12 da Lei nº 12.016/09)
+    Publique-se.
+    Brasília, 25 de março de 2021.
+Ministro NUNES MARQUES
+Relator
