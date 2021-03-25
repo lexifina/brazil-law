@@ -1,0 +1,26 @@
+DECISÃO
+PROCESSUAL CIVIL. RECLAMAÇÃO COM PEDIDO LIMINAR. DECISÃO IMPUGNADA ORIUNDA DE TURMA RECURSAL DE JUIZADO ESPECIAL DA FAZENDA PÚBLICA.DESCABIMENTO DA RECLAMAÇÃO. INSTRUMENTO PROCESSUAL QUE NÃO EQUIVALE A SUCEDÂNEO RECURSAL. RECLAMAÇÃO INDEFERIDA DE PLANO.
+1. Trata-se de Reclamaçãoproposta por MARINEIA APARECIDA DE OLIVEIRA em face de acórdão proferido pela Turma Recursal do Juizado Especial da Fazenda Pública, o qual negou provimento ao Recurso Inominado, nos termos da seguinte ementa:
+Recurso inominado. Questão prejudicial externa. Impossibilidade desuspensão do feito. Sentença de extinção mantida pelos seus próprios fundamentos(fls. 17).
+2. A parte reclamante alega, em suma, que pretende a restituição dos valores recolhidos antecipadamente a título de ITBI, haja vista que o fato gerador da exaçãonão se concretizou em decorrência de decisão judicial proferida em ação diversa, que declarou a nulidade do contrato de compra e venda do imóvel.
+3. Assevera que, segundo o disposto no art. 165 do CTN, a restituição dos valores indevidamente pagos é medida que se impõe, sob pena de se configurar enriquecimento ilícito por parte do órgão arrecadador.
+4. Segue afirmando que a sentença de extinção do feito sem resolução de mérito, por falta de pressuposto processual, é teratológica, porquanto, na ação em que se postulou a declaração de nulidade da compra e venda, já houve sentença de procedência do pedidoe o recurso de Apelação então interposto, ainda pendente de julgamento, somente impugnoua condenação em honorários advocatícios.
+5. Requer seja reformado o acórdão da Turma Recursal, a fim de se determinar a suspensão da ação de repetição de indébito tributário até o julgamento na segunda instância do recurso interposto na referida ação de anulação da compra e venda do imóvel.
+6. É o breve relatório.
+7. A Reclamação constitucional, prevista no art. 105, I, f da Constituição Federal, bem como no art. 988 do CPC/2015, constitui ação destinada a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade de suas decisões.
+8. Em razão de sua natureza excepcional, destina-se à preservação da competência e à garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como mecanismo para discutir o teor do ato hostilizado.
+9. Vale destacar que, especificamente nos casos em que o acórdão de Turma Recursal de Juizado Especial da Fazenda Pública divergir da jurisprudência do STJ, o instrumento de impugnação cabível é o Pedido de Uniformização, na forma do art. 18, 3o. da Lei 12.153/2009.
+10. Por conseguinte, a Reclamação não é o meio adequado para veicular a presente insurgência, como já se pronunciou, em diversas ocasiões, este Tribunal Superior. É o que mostram os julgados a seguir:
+PROCESSUAL CIVIL. RECLAMAÇÃO COM PEDIDO LIMINAR. A RECLAMAÇÃO PREVISTA NO ART. 105, I, f DA CF NÃO SE DESTINA À PRESERVAÇÃO DA JURISPRUDÊNCIA DO STJ, NEM SERVE COMO SUCEDÂNEO RECURSAL, VISA, SIM, A TORNAR EFETIVAS AS DECISÕES TOMADAS NO PRÓPRIO CASO CONCRETO. IMPOSSIBILIDADE DE MANEJO DE RECLAMAÇÃO POR VIOLAÇÃO A RECURSO ESPECIAL REPETITIVO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A Reclamação constitucional, prevista no art. 105, I, f da Constituição Federal, bem como no art. 988 do Código Fux, constitui ação destinada a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade de suas decisões.
+2. Em razão de sua natureza excepcional, destina-se à preservação da competência e à garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como mecanismo para discutir o teor do ato hostilizado.
+3. O que se verifica é que o autor se volta contra decisão exarada por Turma do Juizado Especial Federal. Ocorre que o entendimento jurisprudencial do STJ afirma o não cabimento de Reclamação contra decisões proferidas em demandas que tramitam no Juizado Especial da Fazenda Pública (Lei 10.253/2009) ou nos Juizados Especiais Federais (Lei 10.259/2001), vez que o recurso cabível, nessas hipóteses, seria o Pedido de Uniformização Nacional.
+4. A inadmissão do Pedido de Uniformização dirigido à TNU, por não preencher o recurso os requisitos de admissibilidade, não pode ser solvida por meio da presente Reclamação.
+5. Agravo Interno do Particular a que se nega provimento (AgInt na Rcl 36.200/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.9.2020).
+
+AGRAVO INTERNO. RECLAMAÇÃO CONTRA ACÓRDÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. NÃO CABIMENTO.
+1. É entendimento firmado neste Superior Tribunal de que não cabe reclamação contra decisão de turma recursal de juizado especial federal. Precedente.
+2. No caso, verifica-se que esta ação foi ajuizada contra acórdão proferido pela Terceira Turma Recursal do Juizado Especial Federal da Seção Judiciária de São Paulo, o que não se enquadra em nenhuma das hipóteses de cabimento previstas no art. 988 do CPC/2015, ressoando inequívoco o intuito de reforma daquela decisão pela via inadequada.
+3. Agravo interno não provido (AgInt na Rcl 38.849/SP, Rel. Min. BENEDITO GONÇALVES, DJe 19.3.2020).
+11. Ante o exposto, indefere-se liminarmente a Reclamação ajuizada pelo particular.
+12. Publique-se.Intimações necessárias.
