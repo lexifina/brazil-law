@@ -1,0 +1,83 @@
+DECISÃO
+MARCO TÚLIO DOS SANTOS (MARCO TÚLIO) ajuizou ação de cobrança contra MAPFRE VIDA S.A. (MAFRE), COMPANHIA DE SEGUROS ALIANÇA DO BRASIL (SEGUROS ALIANÇA), ALLIANZ SEGUROS S.A. (ALLIANZ SEGUROS) e BRADESCO PREVIDÊNCIA E SEGUROS S.A. (BRADESCO), objetivando o recebimento de indenização securitária por invalidez funcional permanente, conforme contrato de seguro de vida em grupo. Alegou que, no momento da contratação, não lhe foi dado conhecimento prévio das condições gerais do seguro.
+Em primeiro grau, o pedido autoral foi julgado improcedente. MARCO TÚLIO foi condenado ao pagamento das custas processuais ehonorários advocatícios fixados em 10% sobre o valor da causa, na proporção de 1/4para cada um dos advogados das partes requeridas (e-STJ, fls. 1.751/1.758).
+O TJDFT negou provimento ao recurso de apelação interposto por MARCO TÚLIO nos termos do acórdão, assim ementado:
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. REALIZAÇÃO DE NOVA PERÍCIA. INDEFERIMENTO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. SEGURO. MILITAR. INVALIDEZ FUNCIONAL. VIDA DEPENDENTE. INOCORRÊNCIA.
+I - O juiz determinará, de ofício ou a requerimento da parte, a realização de nova perícia para corrigir eventual omissão ou inexatidão dos resultados a que esta conduziu. Verificando-se que o laudo pericial cumpriu com o seu objetivo, agiu com acerto a magistrada ao indeferir a produção de segunda perícia, não havendo de se cogitar, portanto, de cerceamento de defesa na espécie.
+II - A invalidez funcional permanente total decorrente de doença, diferentemente da invalidez laborativa permanente total por doença, é devida às hipóteses restritas em que o segurado perde a existência independente.
+III - Negou-se provimento ao recurso (e-STJ, fl. 250)
+Os embargos de declaração opostos por MARCO TÚLIO foram desprovidos (e-STJ, fls. 1.947/1.953)
+Irresignado, MARCO TÚLIO interpôs recurso especial com fulcro no art. 105, III, a da CF, alegando ofensa aos arts. 758, 765, 776, 795 do CC e arts. 6º, V, VIII, 39, V, 46, 47, 51, IV, §1º, II, III,e 54, §4, do CDC. Sustentou, em suma, que (1) o laudo pericial foi equivocado e contrário aos documentos médicos. Afirmou quenão foi comprovado que o recorrente teve ciência prévia acerca dos termos das condições gerais do contrato securitário. Asseverou que faz jus à integralidade da indenização securitária, em virtude de invalidez permanente por doença; (2) a justiça gratuita deve ser deferida por se encontrar o recorrente em situação financeira comprometida (e-STJ, fls. 1.977/1.994).
+Foram apresentadas as contrarrazões (e-STJ, fls. 2.034/2.041; 2.043/2.079; 2.081/2.100).
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 5 e 7 do STJ (e-STJ, fls. 2.103/2.104).
+Nas razões do presente agravo em recurso especial, MARCO TÚLIO alegou a violação dos dispositivos de lei federal, além de ressaltar a inaplicabilidade dos óbices sumulares. No mais, repisou as razões contidas no especial e afirmou que a decisão agravada foi deficiente, violando o enunciado da Súmula nº 123 desta Corte (e-STJ, fls. 2.107/2.112).
+Foram apresentadas as contraminutas (e-STJ, fls. 2.118/2.125; 2.127/2.146; 2.148/2.170).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do juízo de prelibação do especial
+Inicialmente, quanto ao juízo de admissibilidade, é relevante afirmar que o TJDFT, ao realizá-lo, atendeu perfeitamente aos ditames legais, estando em perfeita consonância com a Súmula nº 123 do STJ.
+Ressalte-se, ademais, que o referido juízo é bifásico, ou seja, o primeiro juízo realizado no Tribunal a quo não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana àquele.
+Confiram-se os precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE ATENDIDOS. ANÁLISE DE MÉRITO DO ESPECIAL. CONTROLE BIFÁSICO. APELAÇÃO. 514, II, DO CPC. ATENDIMENTO.
+1. O juízo de admissibilidade do recurso especial é bifásico e, como tal, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+2. O exame de mérito do apelo nobre já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito a esse respeito.
+3. "A reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, em si, obstáculo bastante para negar conhecimento ao recurso" (AgRg no AREsp nº 175.517/MS, Relator Ministro Sidnei Beneti, Terceira Turma, DJe 27/6/2012).
+4. Agravo regimental não provido.
+(AgRg no AREsp 489.138/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/9/2014, DJe 26/9/2014 - sem destaques no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SÚMULA 216/STJ. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. STJ NÃO VINCULADO.(..)
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+3. "A tempestividade de recurso interposto no Superior Tribunal de Justiça é aferida pelo registro no protocolo da secretaria e não pela data da entrega na agência do correio." (Súmula 216/STJ).4. O recurso mostra-se manifestamente infundado, a ensejar a aplicação da multa prevista no artigo 557, § 2º, do CPC.5. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.
+(EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/5/2014, DJe 21/5/2014 - sem destaques no original)
+(1) Da incidência das Súmulas nºs 5 e 7 do STJ
+Insurgiu-se MARCO TÚLIO sustentando que o laudo pericial foi equivocado e contrário aos documentos médicos. Sustentou, ainda, que não foi comprovado que o recorrente teve ciência prévia acerca dos termos das condições gerais do contrato securitário. Asseverou que faz jus à integralidade da indenização securitária, em virtude de invalidez permanente por doença, tendo em vista que o contrato foi interpretado de forma desfavorável ao consumidor.
+Sobre o tema, o TJDFT afastou a alegação de ilegalidade e abusividade das cláusulas pactuadas e consignou que foi garantido ao seguradoo conhecimento prévio sobre os termos das condições contratuais. Por fim,concluiu que não foram preenchidos os requisitos contratuais e legais paraassegurar aindenização securitária pleiteada. Confira-se:
+Inicialmente, convém esclarecer que a Superintendência de Seguros Privados proibiu o oferecimento da cobertura por Invalidez Permanente por Doença (IPD), cujo pagamento era condicionado à impossibilidade do segurado de exercer toda e qualquer atividade laborativa, criando, adicionalmente,duas novas espécies de cobertura securitária para invalidez por doença: a Invalidez Laborativa Permanente Total por Doença (ILPD ou IPD-L) e a Invalidez Funcional Permanente Total por Doença(IFPD ou IPD-F).
+Na cobertura por Invalidez Laborativa (ILPD), a garantia é devida na situação em que o segurado é acometido por enfermidade, não passível de recuperação ou reabilitação, com os recursos terapêuticos disponíveis, à sua atividade principal, conforme definido no art. 15 da Circular SUSEP nº 302/2005 (e-STJ, fl. 1.929 - com destaques no original)
+ ..
+Já na Invalidez Funcional (IFPD), a indenização é paga quando a incapacidade consequente da doença causa perda da existência independente do segurado, de forma irreversível (e-STJ, fl. 1.929 - com destaques no original).
+ ..
+No caso, o autor aderiu ao contrato de Seguro de Vida em Grupo, firmado entre a Fundação Habitacional do Exército - FHE e a ré MAPFRE VIDA S/A., no qual se prevê a cobertura para morte, morte acidental, invalidez permanente por acidente e invalidez permanente por doença, não contemplando a funcional invalidez laboral (ID 9864435).
+Dessa forma, para fazer jus à indenização securitária, teria que demonstrar a perda da sua vida independente, assim considerado o quadro clínico incapacitante, decorrente de doença, que inviabilize deforma irreversível o pleno exercício das relações autonômicas do segurado (e-STJ, fl. 1.930).
+ ..
+No caso, o autor não está dependente de outrem. Ao contrário, conforme a perícia judicial, "o autor infartou em 2007, voltou as suas atividades laborais no exército após um ano do infarto e permaneceu por oito anos exercendo suas funções apenas com restrição de atividade física e não houve alteração em" e, ainda, "seus sintomas durante este período o periciado não se enquadra em nenhuma das definições de invalidez, seja ela temporária, parcial ou permanente"(ID 9864684).
+Logo, não tendo perdido sua vida independente, não faz jus ao recebimento da indenização pretendida (e-STJ, fl. 1.931).
+ ..
+O apelante argumenta, no entanto, que não teve conhecimento das restrições da cobertura e, mesmo se tivesse, seriam abusivas, porque manifestamente desproporcionais.
+Todavia, razão não lhe assiste.
+Primeiro, porque as condições contratuais estabelecidas para o exercício dessa cobertura estão em consonância com as normas de regência, cuja publicidade induz a presunção de conhecimento (LINDB,art. 3º) e afasta a alegação de ilegalidade e de abusividade (e-STJ, fls. 1.932).
+ ..
+Depois, ainda que se cogite de não haver recebido as condições gerais contratuais na forma impressa, é irrefragável que o autor teve a oportunidade de conhecer todo o conteúdo do ajuste, pois consta do certificado individual de seguro de vida em grupo - por ele acostado aos autos - que tais informações estariam disponíveis para consulta no sítio eletrônico da FHE e nos pontos de atendimento da referida fundação (ID 9864435).
+Logo, foi-lhe assegurado o conhecimento prévio dos produtos então oferecidos, não havendo falar em inobservância do dever de informação.
+Além disso, em nenhum dos documentos juntados pelas partes consta a afirmação de que a incapacidade para o serviço militar seria suficiente para o recebimento de qualquer das coberturas contratadas, a amparar a tese de justa expectativa do consumidor.
+Ao contrário. Analisando o contrato de seguro de vida em grupo firmado pela FHE, o termo de adesão e as cláusulas gerais do ajuste deixaram clara sua natureza aberta, autorizando adesão por civis (ID9864562), o que afasta a alegação de interpretação duvidosa.
+Por consequência, não atendendo aos requisitos contratuais e legais para alcançar a indenização securitária pretendida, o pedido inicial deve ser julgado improcedente (e-STJ, fls. 1.934).
+Assim, rever as conclusões quanto à ausência do preenchimento dosrequisitos necessários paraMARCO TÚLIO alcançar a indenização securitária pretendida, conforme propugnado nas razões do recurso especial,demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e das cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE, QUE DEVE SER OBSERVADO PELA SEGURADORA. PRECEDENTES. INAPLICABILIDADE DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não é o caso de aplicação das Súmulas nºs 5 e 7 do STJ, um vez que a transferência de responsabilidade do dever de informação é questão que pode ser apreciada por esta Corte sem a necessidade de interpretação de cláusula contratual ou reexame de provas.
+3. A jurisprudência do STJ orienta que o dever de informação a respeito das condições do contrato de seguro é da SEGURADORA, que não o pode transferir para o estipulante.
+4. Agravo interno não provido.
+(AgInt no REsp 1.847.956/SC, de minha relatoria, Terceira Turma, j. 4/5/2020, DJe 7/5/2020 - sem destaques no original)
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SEGURO DE VIDA EM GRUPO. COBRANÇA. INDENIZAÇÃO. COBERTURA SECURITÁRIA. OFENSA AO DEVER DE INFORMAÇÃO. SÚMULA 83 DO STJ. SÚMULAS 5 E 7 DO STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. ARTIGO 2º DA LEI N. 10.192/2001, E ARTIGOS 389 E 772, DO CÓDIGO CIVIL. PRECEITOS NORMATIVOS GENÉRICOS. NÃO APTOS A INFIRMAR O ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS NO TOCANTE À CORREÇÃO MONETÁRIA. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte local, com base nos elementos fático-probatórios dos autos e na interpretação de cláusulas contratuais, concluiu que a parte recorrida faz jus ao pagamento da indenização securitária, consignando a falta de informação da parte segurada consumidora sobre a cláusula limitativa. Essa conclusão está em consonância com a jurisprudência firmada nesta Corte Superior. Precedentes. Súm.
+83/STJ.
+2. A alteração do conteúdo decisório emanado da instância origem demandaria reincursão nos elementos fático-probatórios constantes do presente processo, bem como interpretação de cláusulas contratuais, o que não se admite na via do recurso especial ante o óbice das Súmulas 5 e 7/STJ.
+(..)
+7. Agravo interno não provido.
+(AgInt no REsp 1.879.093/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/12/2020, DJe 2/2/2021 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PAGAMENTO DE INDENIZAÇÃO INTEGRAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. DEVER DE INFORMAÇÃO. SEGURADORA. INVALIDEZ FUNCIONAL PERMANENTE E TOTAL.CONCLUSÃO DO ACÓRDÃO PELO DEVER DE INDENIZAR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, ao apreciar os fatos e as provas constantes do processo, entendeu que não foi cumprido o dever atribuído à agravante de prestar as informações ao segurado acerca das cláusulas limitativas de seu direito. Nesse contexto, a modificação das premissas firmadas na origem (de modo a acolher a tese defendida pela agravante no tocante à inviabilidade de pagamento da indenização securitária) demandaria a análise das cláusulas do contrato e o reexame do acervo fático-probatório dos autos, procedimentos inviáveis no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.3. Agravo interno improvido.
+(AgInt no AREsp 1.565.877/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020 - sem destaques no original)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Ressalta-se queo pedido preliminar de Assistência Judiciária Gratuita (item 2)foi analisado em momento anterior e indeferido(e-STJ, fls. 2.196/2.198).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor de MAPFRE, SEGUROS ALIANÇA, ALLIANZ SEGUROS e BRADESCO em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INVALIDEZ FUNCIONAL. REQUISITOS. AUSÊNCIA. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
