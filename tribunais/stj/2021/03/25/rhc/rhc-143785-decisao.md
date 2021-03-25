@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Marcelo de Souzacontra o acórdão proferido pelo Tribunal de Justiça de Pernambuco, que denegou a ordem no writ originariamente impetrado (HC n. 0000847-56.2020.8.17.0000).
+Consta dos autos que o recorrente, juntamente com outros, foi condenado pelo Juízo da Vara Criminal da comarca de Arcoverde/PE, como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 6 anos de reclusão, em regime fechado, e pagamento de 80 dias-multa (Ação Penal n. 0000831-15.2006.8.17.0220 - fls. 43/45).
+Não interpostos recursos, a sentença transitou em julgadoem 4/6/2007 (fl. 32).
+Recentemente, a defesa impetrou habeas corpusno Tribunal de origem, pleiteando a revisão da dosimetria da pena, sendo a ordem denegada (fls. 59/64).
+Nesta instância, reitera a defesa a existência de flagrante ilegalidade, porquanto a elevação da pena-base se amparou apenas em fundamentos genéricose inerentes ao próprio tipo penal,sem qualquer referência a elementos concretos dos autos, e, de outro lado,o recrudescimento da pena, na terceira fase de sua fixação, amparou-se apenas naexistência de duas majorantes, sem qualquer fundamentação.
+Requer, assim, a fixação da pena-base no mínimo legal e a fixação da fração de 1/3 (mínimo legal), pelo reconhecimento das causas de aumento de pena.
+Apresentadas contrarrazões (fls. 83/90), os autos ascenderam a esta Corte.
+O Ministério Público Federal manifestou-sepelo provimento do recurso ordinário, para fixar a pena-base no mínimo legal e fixar em 1/3 (um terço) o aumento que decorre das majorantes do roubo reconhecidas na espécie, na terceira fase da dosimetria, mantidos os demais termos da condenação(fls. 99/104).
+É o relatório.
+Consoante relatado, pretende o recorrente a revisão da dosimetria da pena, a fim de que sejaafastadaa negativação das circunstâncias judiciais e fixado no mínimo legal o recrudescimento da pena pela presença de majorantes.
+Como é cediço, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte na hipótese de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Na hipótese, há flagrante ilegalidade a ser sanada, como bem observouo Ministério Público Federal, cujos percucientes fundamentos adoto como razões de decidir (fls. 101/103 - grifo nosso):
+O Juízo de 1ª instância proferiu sentença condenatória, transitada em julgado em 06/06/2007, sem recurso de apelação interposto por qualquer das partes (e-STJ Fl. 63), realizando a dosimetria da pena do recorrente nos seguintes termos (e-STJ Fls. 44/45):
+MARCELO DE SOUZA: culpabilidade comprovada, tendo o réu agido com dolo intenso. Inexiste antecedentes criminais. Conduta social reprovável. Personalidade do homem comum. Os motivos e as circunstâncias não lhe são favoráveis. Asconsequências não foram graves, haja vista que a vítima recuperou parte dos objetos. A vítima não deu causa, razão pela qual fixo a pena-base em 4(quatro) anos e 6 (seis) meses de reclusão, e 100 (cem)dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo o dia-multa. Considerando a existência da atenuante prevista no art. 65, inciso III, letra "d", do Código Penal, reduzo a pena para 4 (quatro) anos de reclusão e 80 (oitenta) dias-multa. Considerando, por fim, a existência de duas circunstâncias qualificadoras, aumento a pena para 6 (seis) anos de reclusão e 80 (dias) multa, a qual a torno em definitivo.À míngua de outras circunstâncias legais de aumento e diminuição de pena. Em face de violência praticada contra pessoa, e pelo concurso de agentes, nego o direito de apelarem em liberdade, bem como devem cumprir suas penas no regime fechado, no Presídio Brito Alves, nesta cidade.
+Consoante se depreende da leitura da decisão impugnada, o Juízo sentenciante valorou negativamente as circunstâncias judiciais da culpabilidade, conduta social, motivos e circunstâncias do crime, exasperando a pena-base sem fundamentação suficiente, razão pela qual devem ser afastadas as valorações desfavoráveis, fixando-se a pena-base no mínimo legal.
+No que concerne à terceira fase da dosimetria, constata-se que a exasperação da pena em 2 (dois) anos encontra amparo exclusivamente na quantidade de causas de aumento, sem menção a elemento concreto dos autos capaz de justificar a maior exasperação.
+Sobre a matéria, confira-se o enunciado da Súmula nº 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Portanto, é de se fixar o aumento imposto na fração de 1/3 (um terço), na terceira etapa da dosimetria da pena.
+Nesse sentido:
+PENAL. HABEAS CORPUS (..) ROUBOS TRIPLAMENTE MAJORADOS. (..) VIOLAÇÃO DA SÚMULA 443/STJ CONSTATADA. CARÊNCIA DE MOTIVAÇÃO CONCRETA PARA O INCREMENTO SUPERIOR A 1/3. CONCURSO FORMAL MANTIDO. PATRIMÔNIOS DISTINTOS ATINGIDOS PELA AÇÃO DO AGENTE. REGIME PRISIONAL FECHADO MANTIDO. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+8. A sentença aplicou a fração de 5/12 para majoraras penas tão somente em razão das três causas de aumento reconhecidas, sem apoio em elementos concretos do delito. Forçoso destacar, ainda, que, nos termos da jurisprudência desta Corte, o emprego de arma de fogo, por si só, não justifica aumento superior ao mínimo legal de 1/3.
+ ..
+11. Writ não conhecido. Ordem concedida, de ofício, tão somente para reduzir a 1/3 o aumento pela incidência de três majorantes do crime de roubo, determinando ao Juízo das Execuções que promova à nova dosagem da pena.
+(HC n. 508.924/SP, Rel. Ministro RIBEIRO DANTAS,QUINTA TURMA, julgado em 11/06/2019, DJe18/6/2019)
+Desse modo, mantém-se na segunda fase da dosimetria a pena-base fixada em 4 (quatro) anos de reclusão, conforme apresente manifestação, considerando a inviabilidade de estabelecer a reprimenda aquém do mínimo legal, pela incidência da confissão espontânea, pelo óbice da Súmula 231/STJ. Na terceira fase, exaspera-se apena em 1/3 (um terço), também conforme a presente manifestação, fixando-se a definitiva em 5 (cinco) anos e 4 (quatro) meses de reclusão, além da multa  .. .
+Devo acrescentar que, tratando-se de réu primário e ausentes circunstâncias judiciais negativas,deverá iniciar o cumprimento da pena no regime inicial semiaberto, em obediência ao art. 33, § 2º,b, e § 3º, do Código Penal.
+Ante o exposto, dou provimentoao recurso para, redimensionando a pena do recorrente, fixá-la em 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e pagamento de 13 dias-multa.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. PENAL. ROUBO MAJORADO. PENA-BASE. FUNDAMENTOS INIDÔNEOS. CAUSAS DE AUMENTO. FIXAÇÃO NO MÍNIMO LEGAL (1/3). SÚMULA 443/STJ. PARECER ACOLHIDO.
+Recurso provido nos termos do dispositivo.
