@@ -1,0 +1,10 @@
+DECISÃO
+VANIOLNILSON MOREIRA alega sofrer coação ilegal em face de ato coator atribuído ao Tribunal Regional Federal da 1ª Região.
+Narra a exordial que o réu foi condenado a3 anos de prisão, no regime semiaberto, por incursão no art. 334-A, § 1º, I, do Código Penal. O impetrante assinala que interpôs apelação e requereu aexpedição de guia de recolhimento provisória, mas,por falta do documento, o paciente ainda está impedido de requerer os benefícios da execução provisória.
+Requer a concessão da ordem, para que seja determinada a soltura do paciente.
+Decido.
+O advogado explica que o paciente, que respondeu preso à ação penal, foi condenado eestárecolhido na Penitenciária Nelson Hungria, sem guia de recolhimento provisório, "próximo ao prazo para progressão de regime" (fl. 802). Não existe, ainda, processo de execução o que impede a defesa de postular o benefício.O pedido para expedição do documento, endereçado aoTribunal Regional Federal da 1ª Região, ainda não foi apreciado.
+De acordo com o que dispõe o art. 2º, parágrafo único, da Lei 7.210/1984, a lei de execuções penais aplicar-se igualmente ao preso provisório e ao condenado. Ateor daSúmula 716, STF: "admite-se a progressão de regime de cumprimento da pena ou a aplicação imediata de regime menos severo nela determinada, antes do trânsito em julgado da sentença condenatória".
+Assim, tratando-se de réu preso preventivamente, quando prolatada a sentença condenatória será expedida guia de recolhimento provisório, ainda que pendente recurso sem efeito suspensivo, para que a execução possa ser iniciada, com o agendamento de benefícios cabíveis. É dever do Juiz que proferiu a condenação (e não do TRF da 1ª Região) expedir o documentoapós o recebimento da apelação, acompanhado, no que couber, das peças e informações previstas no artigo 1º da Resolução n. 113/2010 do CNJ, o que não foi observado na espécie.
+À vista do exposto, concedo o habeas corpus para determinar ao Juiz sentenciante a imediata expedição da guia de recolhimento provisório e sua imediata remessa ao Juízo da Execução Penal.
+Publique-se e intimem-se.
