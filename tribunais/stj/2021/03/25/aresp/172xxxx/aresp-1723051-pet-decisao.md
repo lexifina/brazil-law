@@ -1,0 +1,7 @@
+DECISÃO
+Instadaa se manifestar sobre o fato de, objetivando questionar a decisão de fls. 401-404 (e-STJ), haver ingressado com nove idênticas petições de agravo interno (e-STJ, fls. 408-423, 424-439, 440-455, 456-471, 472-487, 488-503, 504-522, 523-538 e 539-554), a insurgente protocolizou a Petição n. 70.675/2021 (e-STJ, fls. 583-585), por meio da qual informou que o fato "decorreu da instabilidade do sistema quando dos ataques de hacker à rede de tecnologia da informação do STJ" (e-STJ, fl. 583).
+Em linha com essa explicação, pleiteou o processamento do recurso de fls. 408-423 (e-STJ) e a exclusão das demais petições.
+Acatando, pois, a solicitação da parte agravante, será oportunamente levado a julgamento no órgão colegiado o agravo interno veiculado na Petição n. 907.283/2020 (e-STJ, fls. 408-423), por tratar-se da primeira a ter sido protocolizada.
+Quanto aos agravos internos manifestados nas Petições n. 907.342/2020 (e-STJ, fls. 424-439), 907.409/2020 (e-STJ, fls. 440-455), 907.435/2020 (e-STJ, fls. 456-471), 907.469/2020 (e-STJ, fls. 472-487), 907.486/2020 (e-STJ, fls. 488-503), 907.508/2020 (e-STJ, fls. 504-522), 907.556/2020 (e-STJ, fls. 523-538) e 907.710/2020 (e-STJ, fls.539-554), julgo-os prejudicados.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, devolver os autos conclusos para julgamento do agravo interno de fls. 408-423 (e-STJ).
+Publique-se.
