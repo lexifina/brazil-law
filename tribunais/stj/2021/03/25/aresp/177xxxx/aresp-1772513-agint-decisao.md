@@ -1,0 +1,69 @@
+DECISÃO
+LUIZACRED S.A. SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO, interpõe agravo interno (fls. 406-4011 e-STJ) contra decisão desta relatoria (fls. 400-403e-STJ) que conheceu em parte do agravo, para nessa extensão, negar provimento aorecurso especial (fls. 185-192e-STJ), pelosseguintes fundamentos:
+(i) não conhecimento do recurso no que diz respeito à violação dos arts. 1º e 4º, IX, da Lei nº 4.595/1964; 39 51 e 52, II, do CDC. Isso porque, o CPC/2015, estabelece no art. 1.030, I, "b", § 2º, a necessidade de interposição de agravo interno contra a decisão que nega seguimento a recurso especial em face de acórdão em conformidade com o entendimento deste Superior Tribunal de Justiçaem recurso repetitivo;
+(ii) Em relação à parte conhecida do recurso: (i) afastamento da mora; (ii) impossibilidade de repetição do indébito e (iii) ônus de sucumbência, a decisão impugnada entendeu cabível a incidência das Súmulas nºs 283 e 284/STF, porqueo agravante não indicou os dispositivos de lei violados de forma a fundamentar o recurso pela alínea "a" do permissivo constitucional.
+Nesta feita, a parte agravante aduz que interpôs corretamente o agravo interno para o tribunal local (fls. 320-323, e-STJ), a fim de cumprir o disposto no art. 1.030, I, "b", § 2º, do CPC/2015.
+Postula ao final, a reforma da decisão atacada, a fim de conhecer a analisar o recurso especial, ultrapassando a admissibilidade quanto aos juros remuneratórios (Temas 24 a 27/STJ),fazendo examinar também, o pedido de afastamento da mora, da repetição do indébito e dos honorários sucumbenciais, por se tratar de consequência direta do pedido de reforma do acórdão estadual.
+Devidamente intimada, a parte contrária deixou transcorrer o prazo para impugnar o recurso (certidão de fls. 421-422, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Observa-se que, de fato, a parte recorrente em petição de fls. 320-323(e-STJ),interpôs o agravo interno contra a decisão que negou seguimento ao recurso especial, tendo em vista o REsp nº 1.061.530/RS (Temas 24 a 27/STJ),cumprindo o disposto no art. 1.030, I, "b", § 2º, do CPC/2015.
+Por essa razão, deve ser reconsiderada a decisão de fls. 400-403 (e-STJ).
+Passa-se, pois, ao exame do recurso especial de fls. 185-192(e-STJ) fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul:
+"APELAÇÃO CÍVEL. CONTRATOS DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. CONTRARRAZÕES. INTEMPESTIVIDADE.
+Contrarrazões da parte autora não conhecidas por intempestivas.
+DECISÃO ULTRA PETITA. A prestação jurisdicional está adstrita aos limites propostos pelas partes, sendo vedado conhecer de questões não suscitadas a cujo respeito à lei exige iniciativa da parte (CPC, art. 141, 490 e 492). Necessário o afastamento do excesso verificado, pois em relação aos juros de mora, multa moratória e capitalização de juros, a sentença proferida julgou além do pedido. Redução do conteúdo material da sentença, sem necessidade de sua desconstituição.
+INÉPCIA DA INICIAL.
+A parte recorrente deve discriminar em sua exordial as cláusulas que entende abusivas, bem como quantificar o valor incontroverso, consoante disciplina o artigo 330, §2º, do CPC. Em não havendo intimação da parte autora para emendar a inicial, inviável a extinção do processo por inépcia da inicial. Ademais, esta Câmara tem entendido ser inútil o indeferimento da petição inicial por eventual descumprimento do artigo 330, §2º, do CPC, porquanto o mérito do processo já foi julgado, sendo possível proceder o cálculo e o pagamento das parcelas, de modo que, o descumprimento do citado dispositivo legal, que ensejaria o indeferimento da exordial, apenas adiaria a solução da controvérsia de direito material, objetivo final da demanda, o que neste momento já ocorreu. Preliminar rejeitada.
+JUROS REMUNERATÓRIOS.
+O Superior Tribunal de Justiça, no julgamento do REsp n 2 1.061.530/RS, submetido ao regime dos recursos repetitivos, sedimentou entendimento de que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios ao patamar de 12% ao ano, sendo cabível a revisão da taxa contratada apenas em situações excepcionais, em que evidenciada a abusividade do encargo, utilizando-se a taxa média de mercado divulgada pelo Banco Central como parâmetro, levando-se em consideração a data da contratação e a natureza do crédito concedido. Caso concreto em que os juros remuneratórios praticados estão acima da taxa média divulgada pelo Bacen, o que justifica a limitação do encargo.
+DESCARACTERIZAÇÃO DA MORA.
+Consoante entendimento consolidado no REsp nº 1.061.530/RS, submetido ao regime dos recursos repetitivos, o afastamento da mora ocorre apenas quando há cobrança de encargos abusivos durante o período da normalidade contratual (juros remuneratórios e capitalização de juros). É a hipótese dos autos em que reconhecida a abusividade na cobrança dos juros remuneratórios.
+COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO. Segundo entendimento pacífico no colendo STJ, que culminou com a edição da Súmula n. 322, é cabível a compensação e/ou repetição simples do indébito, independentemente da prova do erro. Tendo sido reconhecida a abusividade em alguns encargos contratados, é admitida a compensação e/ou repetição simples dos valores pagos a maior, e não em dobro, que exige a alegação e comprovação de má-fé.
+HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. DISTRIBUIÇÃO DOS Ô NUS DE SUCUMBÊNCIA.
+A verba honorária deve ser arbitrada, de acordo com os ditames do artigo 85, § 2º, do CPC, mas também em patamar condizente com o exercício da atividade profissional da advocacia. No caso dos autos, cabível a majoração dos honorários advocatícios, pois o valor arbitrado encontra-se em dissonância com os padrões adotados por esta colenda Câmara em ações semelhantes. Redimensionados os ônus sucumbenciais em face do resultado do julgamento.
+PRELIMINAR REJEITADA. APELO DO AUTOR PROVIDO E RECURSO DO RÉU PROVIDO EM PARTE"(fls. 140-141, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta além de dissídio jurisprudencial,violação dos arts. 1º e 4º, IX, da Lei nº 4.595/1964; 39, 51 e 52, II, do Código de Defesa do Consumidor.
+Insurge-se contra: (i) a limitação dos juros remuneratórios à taxa média de mercado; (ii) o afastamento da mora; (iii) a possibilidade de repetição do indébito; (iv) a verbahonorária fixada na origem.
+Com as contrarrazõesfoi negado seguimento ao recurso em relação às matérias repetitivas, tendo em vista o REsp 1.030.530/RS (Temas 24 a 27/STJ).No tocante às demais questões o recurso não foi provido.
+O recorrente interpôs agravo interno de fls. 320-323 (e-STJ), visando cumprir o disposto no art.1.030, I, "b", § 2º, do CPC/2015.
+O tribunal local negou provimento ao agravo, com aplicação de multa, consoante observa-se da ementa do acórdão de fls. 365-372:
+"AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO.POSSIBILIDADE. RESP 1.061.530/RS. TEMAS 24 A 27 DO STJ.
+Estando o acórdão vergastado de acordo com o entendimento manifestado pelo STJ, em sede de Recursos Repetitivos, deve ser mantida a negativa de seguimento do recuso especial. Inteligência do art 1030, I, "b", do Novo Código de Processo Civil.
+AGRAVO INTERNO DESPROVIDO COM APLICAÇÃO DE MULTA"(fl. 365, e-STJ).
+Sobreveio o presente agravo em recurso especial, no qual se busca o processamento do apelo nobre.
+É o relatório.
+A insurgência não merece acolhida.
+Sobre a limitação dos juros remuneratórios, cumpre assinalar queem feito submetido a julgamento sob o rito dos recursos repetitivos, pela Segunda Seção do STJ(REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi),firmou-se entendimentode ser "admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada" REsp nº 1.061.530/RS, relatora aMinistra Nancy Andrighi, julgado em 22/10/2008, DJe de 10/03/2009).
+Confira a ementa do jugado, na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que aabusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+No caso ora em debate, o tribunal entendeu pela existência de abuso na taxa contratada, motivo pelo qual impôs a limitação dos juros remuneratórios à média de mercado. É o que se extrai do seguinte trecho:
+"(..) o órgão prolator do acórdão recorrido assentou que, com base no acervo probatório coligido nos autos, que a taxa cobrada pelo ora agravante é abusiva, impondo-se sua limitação à taxa média de mercado. Referida conclusão se encontra em perfeita sintonia com a orientação n1, firmada no Recurso Especial n. 1.061.530/RS - Temas 24 a 27, julgado sob o regime dos Recursos Repetitivos" (fl. 368, e-STJ).
+Portanto, tendo sido reconhecida a abusividade da taxa de juros remuneratórios, o acórdão recorrido entendeu pela aplicação da taxamédia de mercado segundo apurado pelo Banco central.
+Esse entendimento encontra-se em harmonia com a jurisprudência sedimenta nesta Corte Superior.
+Confira-se:
+"CONTRATOS BANCÁRIOS. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA.LIMITAÇÃO A 12% AO ANO. INCIDÊNCIA DA SÚMULA N.º 382/STJ.
+1. A estipulação de juros remuneratórios acima de 12% ao ano, por si só, não configura abusividade (Súmula 382/STJ). Isso porque os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto n.º 22.626/33 (Lei de Usura), nos termos daSúmula 596/STF. Com efeito, eventual abusividade na cobrança de juros remuneratórios deve ser episodicamente demonstrada, sempre levando-se em consideração a taxa média cobrada no mercado.
+2. Reconhecida a abusividade no caso concreto, os juros remuneratórios devem ser fixados à taxa média do mercado.
+3. Recurso especial parcialmente provido".
+(REsp 618.918/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/05/2010, DJe 27/05/2010 - grifou-se).
+Incide, na espécie, a Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Por outro lado, oagravante defende em seu apelo nobre o afastamento da mora, a impossibilidade de repetição do indébito. Insurge-se contra os ônus de sucumbência fixados na origem.
+Todavia, verifica-se a deficiência da fundamentação recursal.Isso porque, aparte recorrente não indicou os dispositivos legais violados a fundamentar o recurso especial pela alínea "a" do permissivo constitucional, bem como paracaracterizar o dissídio jurisprudencial com julgado desta Corte, o que faz atrair na espécie o óbice das Súmulas nºs 283/STF e 284/STF.
+A esse respeito, confira:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso , verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido"
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017).
+Ante o exposto, reconsidero a decisão de fls. 400-403(e-STJ) para, em novo exame, conhecer do agravo e negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 500,00 (quinhentosreais), os quais devem se majorado para R$ 800,00 (oitocentosmil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso
+Publique-se.
+Intimem-se.
