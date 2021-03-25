@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Paraná, com amparo na alínea "a" do permissivo constitucional, contraacórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 362):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE ADMINISTRATIVA. DISPENSA DE LICITAÇÃO. CONTRAÇÃO DE PRESTADOR DE SERVIÇOS CONTÁBEIS. AUSÊNCIA DE EFETIVO PREJUÍZO AO ERÁRIO.INEXISTÊNCIA DA DEMONSTRAÇÃO DE FAVORECIMENTO INDEVIDO. SERVIÇOS EFETIVAMENTE PRESTADOS.AFRONTA AO ARTIGO 37, INCISO II, DA CF.INOCORRÊNCIA. MERA ILEGALIDADE QUE NÃO CONSTITUI ATO DE IMPROBIDADE ADMINISTRATIVA. NECESSIDADE DE COMPROVAÇÃO DOLO.ENUNCIADO Nº 10 DAS 4ª E 5ª CÂMARAS CÍVEIS DESSE TJ/PR. REQUISITO NÃO DEMONSTRADO. INEXISTÊNCIA DE REPROVABILIDADE PARA FINS DE CONFIGURAÇÃO DAS CONDUTAS DOS APELADOS COMO ATO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DO ELEMENTO SUBJETIVO. ATO DE IMPROBIDADE NÃO CONFIGURADO. RECURSO DE APELAÇÃO CONHECIDO E NEGADO PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 435-441).
+Nas razões do especial, o insurgente refere violação dos arts. 489, 1.022 e 1.025 do Código de Processo Civil, ao argumento de que o acórdão recorrido foi omisso, pois não observou que: a) o dano é presumido no caso de dispensa indevida de licitação; b)os serviços de contabilidade não são de natureza singular; c) houve violação do art. 9º da Lei n. 8.429/1992 na medida em que houve a contratação de empresa cujo o responsável legal e administrador é contador da câmara municipal; e d) presença do elemento subjetivo na conduta dos agentes - dolo genérico.
+Aponta malferimento dos arts. 9º, III, 13, III, da Lei n. 8.666/1993, aduzindoque os serviços contratados não são especializados nem singulares.
+Sustenta contrariedade ao art. 11 da Lei n. 8.429/1992, ao argumento de que está presente o dolo genérico na conduta dos agentes.
+Parecer do Ministério Público Federal pelo provimento do recurso especial (e-STJ, fls. 654-658).
+É o relatório.
+Assiste razão à parte recorrente no ponto em que sustenta contrariedade aoart. 1.022 do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos interpostos pelo insurgente, revela que acórdão combatido não se manifestou sobre as seguintes alegações do Parquet: a) o dano é presumido no caso de dispensa indevida de licitação; b) violação do art. 9º da Lei n. 8.429/1992 na medida em que houve a contratação de empresa cujo o responsável legal e administrador é contador da câmara municipal.
+Por estar configurada a afronta ao disposto no art. 1.022 da legislação processual, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração.
+Determino o retorno dos autos à Corte de origema fim de que se manifeste, expressamente, a respeito do quanto alegado pela via declaratória.
+Publique-se. Intimem-se.
