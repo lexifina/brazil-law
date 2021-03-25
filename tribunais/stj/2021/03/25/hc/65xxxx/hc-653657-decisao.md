@@ -1,0 +1,7 @@
+DECISÃO
+DIEMERSON DE LIMA alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Busca, em liminar e no mérito, a revogação de prisão preventiva decretada na Ação Penal n. 5080428-68.2020-8.24.002.
+O paciente, denunciado pororganização criminosa (art. 2º, § 2º, e § 4º, I e IV da Lei 12.850/13), teve sua prisão preventivadecretada em 4/12/2020. A defesa assinala que "não há qualquer indicação ou prova de conduta criminosa do ora investigado" e que "os fundamentos expostos pela d. autoridade coatora não são suficientes para sustentar o decreto cautelar" (fls. 5-6). Explica que"não foi acostada aos autos a comunicação ao Juízo sobre as investigações realizadas pela polícia civil" (fl. 7).
+A inicial do writ não veio acompanhada da cópia da denúncia e da decisão que decretou a prisão preventiva do paciente, deficiência que inviabiliza o processamento do feito.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. Eraobrigatório à impetrante, advogada,trazer documentos para que esta Corte pudesse averiguar apretensa ilegalidade do decreto de prisão preventiva, o que não verifico.
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se
