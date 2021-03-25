@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “APELAÇÃO CRIMINAL. CONDENAÇÃO PELA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS - ARTIGO 33, CAPUT, DA LEI 11.343/2006. RECURSOS DAS DEFESAS.
+    1) PRELIMINAR - PEDIDO DE DECLARAÇÃO DE NULIDADE DAS PROVAS OBTIDAS, COM A SUPOSTA VIOLAÇÃO DE DOMICÍLIO E DAS PROVAS DERIVADAS. ALEGADA AUSÊNCIA DE JUSTA CAUSA (FUNDADAS RAZÕES) PARA A EXPEDIÇÃO DE MANDADO DE BUSCA E APREENSÃO, EMBASADO UNICAMENTE EM DENÚNCIAS ANÔNIMAS. DESPROVIMENTO. DENÚNCIAS ANÔNIMAS INDICAVAM QUE, NA RESIDÊNCIA DO APELANTE, HAVIA INTENSO FLUXO DE PESSOAS E DE VENDA DE DROGAS, E DAVAM O NOME DO REFERIDO SENTENCIADO COMO A PESSOA RESPONSÁVEL PELA VENDA DOS ENTORPECENTES, O QUE JÁ SERIA SUFICIENTE PARA JUSTIFICAR A OCORRÊNCIA DAS FUNDADAS RAZÕES. COMO SE NÃO BASTASSE, A FUNDADA SUSPEITA DE QUE O LOCAL ESTAVA SENDO UTILIZADO PARA CONCRETIZAÇÃO DO CRIME DE TRÁFICO DE DROGAS ACABOU COMPROVADA PELA APREENSÃO DAS DROGAS. O TRÁFICO DE DROGAS É CRIME PERMANENTE, O QUE AUTORIZA A ENTRADA NO DOMICÍLIO ATÉ MESMO SEM MANDADO JUDICIAL, AFASTANDO QUALQUER HIPÓTESE DE NULIDADE.
+    2) PEDIDO DE ABSOLVIÇÃO DO CRIME DE TRÁFICO DE DROGAS. ARGUMENTO DE QUE NÃO RESTOU COMPROVADA A TRAFICÂNCIA, QUE O APELANTE É MERO USUÁRIO DE DROGAS. DESPROVIMENTO. DELITO SOBEJAMENTE COMPROVADO. A ALEGADA CONDIÇÃO DE USUÁRIO DE DROGAS, POR SI SÓ, NÃO EXCLUI A CARACTERIZAÇÃO DO CRIME DE TRÁFICO. A NATUREZA DAS DROGAS APREENDIDAS, JUNTO DE DINHEIRO FRACIONADO, O LOCAL DA APREENSÃO DENUNCIADO POR VÁRIAS PESSOAS COMO PONTO DE TRÁFICO E AS DEMAIS CONDIÇÕES EM QUE OCORREU A AÇÃO PROVAM QUE AS SUBSTÂNCIAS APREENDIDAS NÃO TINHAM COMO ÚNICA DESTINAÇÃO O USO PESSOAL DO SENTENCIADO.
+    3) DOSIMETRIA – PEDIDO DE APLICAÇÃO DA PENA BASE NO MÍNIMO LEGAL. DESPROVIMENTO. RAZOÁVEL QUANTIDADE E DIVERSIDADE DE DROGAS (6 GRAMAS DE COCAÍNA E 42 GRAMAS DE MACONHA) É FUNDAMENTO IDÔNEO PARA ELEVAR A PENA, NA PRIMEIRA FASE DOSIMÉTRICA. PRECEDENTES.
+    4) PEDIDO DE ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA PARA O SEMIABERTO, EM RAZÃO DA PENA APLICADA (SETE ANOS DE RECLUSÃO). DESPROVIMENTO. O APELANTE FOI CORRETAMENTE CONDENADO AO REGIME FECHADO, POIS É REINCIDENTE, CONFORME O DISPOSTO NO ARTIGO 33, § 2º, ALÍNEA ‘B’, DO CÓDIGO PENAL.
+    5) CONCESSÃO DE HONORÁRIOS ADVOCATÍCIOS AO DEFENSOR DATIVO,ARBITRADOS COM BASE NA RESOLUÇÃO CONJUNTA Nº 015/2019-PGE/SEFA.
+    6) RECURSOS CONHECIDOS E DESPROVIDOS”.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XI e LVI, e 93, IX, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Penal e Processual Penal. Inviolabilidade de domicílio. Ilicitude de provas. Violação dos princípios do contraditório e da ampla defesa. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido” (ARE nº 1.197.962/RJ – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 17/6/19).
+    No mesmo sentido: ARE nº 1.175.278/RS-AgR-Segundo, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/2/19; ARE nº 990.119/RS-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 22/2/19 e ARE nº 1.017.861/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 5/6/17.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
