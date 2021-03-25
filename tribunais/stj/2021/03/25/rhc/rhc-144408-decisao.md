@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por REGEANE MONTIEL DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de Santa Catarinaproferido no HC n. 5002258-20.2021.8.24.0000/SC.
+Consta dos autos que a Paciente foi presa em flagrante no dia 25/01/2021, acusada de estar na posse e ter em depósito 886g de maconha, 50g de cocaína e 48g de crack (fl. 39). A prisão preventiva foi convertida em segregação cautelar.
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada, nos termos da seguinte ementa (fls. 51-52):
+"HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXIGÊNCIAS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL PREENCHIDAS. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO E PERICULOSIDADE. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES APREENDIDOS. AÇÃO PENAL E MANDAMENTO PELO COMETIMENTO DO MESMO DELITO. RISCO DE REITERAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES MAIS BRANDAS.
+A gravidade concreta da conduta e a periculosidade, evidenciadas pela quantidade e diversidade dos entorpecentes apreendidos e pelas ações penais em andamento, inclusive pelo cometimento do mesmo delito, demonstram a necessidade da prisão preventiva para salvaguardar a ordem pública e a insuficiência das medidas cautelares mais brandas.
+CONCESSÃO DA PRISÃO DOMICILIAR. MULHER COMFILHO MENOR DE 12 (DOZE) ANOS. PARÂMETROS DOS ARTS. 318 E 318-A, AMBOS DO CÓDIGO DE PROCESSO PENAL E FIXADOS PELO SUPREMO TRIBUNAL FEDERAL NO HC COLETIVO N. 143.641/SP. NECESSIDADE DE ANÁLISE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. PRESENÇA DE SITUAÇÃO EXCEPCIONALÍSSIMA QUE OBSTA A SUBSTITUIÇÃO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+A substituição da prisão preventiva da mulher com filho menor de 12 (doze)anos por prisão domiciliar não é automática, porquanto pressupõe a análise das circunstâncias do caso concreto, de acordo com os parâmetros dos arts.318 e 318-A do Código de Processo Penal e fixados pelo Supremo Tribunal Federal no HC n. 143.641/SP, não sendo cabível quando (a) cometido crime mediante violência ou grave ameaça, (b) perpetrado crime contra os descendentes ou (c) em situações excepcionalíssimas, devidamente fundamentadas.
+PEDIDO DE ORDEM CONHECIDO E DENEGADO."
+Nesta impetração, sustenta-se, em síntese, que deve ser deferida à Paciente a prisão domiciliar, nos termos do art. 318, inciso V, do Código de Processo Penal, pois se trata de mulher que possui filho de 5 (cinco) anos de idade.
+Pleiteia-se o"DEFERIMENTO DA LIMINAR, SENDO EXPEDIDO O COMPETENTE ALVARA DE SOLTURA, para no final, ser provido quanto ao seu mérito, com a consequente rescisão da ilegal decisão que manteve em cárcere o acusado, sendo expedido a seu favor, o indeclinável alvará de soltura da requerente REGEANE MONTIEL DOS SANTOS, vez que, possui filho menor de 12 anos" (fl. 85; grifo no original).
+É o relatório.
+Decido.
+No HC n.5650.415/SC, a mim distribuído em 09/03/2021, foi formulada idêntica pretensão, em favor daora Recorrente, tendo sido deferido o pedido liminar.
+O presente recurso, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus e recurso ordinário em habeas corpus em que se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 650.415/SC. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA.
