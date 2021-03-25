@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. MATÉRIAS EXPRESSA E CLARAMENTE JULGADAS NO ACÓRDÃO EMBARGADO.
+1. Inexiste contradição entre se afirmar a natureza presumidados danos alegados em caso de uso indevido de imagem e determinar que se apure se houve tal espécie de uso. Não se confunde a desnecessidade de prova dos danos em caso de ilicitude com a necessidade de apuração desse elemento antecedente na hipótese.
+2. Descabe falar-se em omissão quanto àSúmula 403/STJ (Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais), na medida em que se trata de veiculação estatal sem caráter econômico ou comercial.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Pablo Santiago e outros contra acórdão que deu provimento a seu recurso especial paraafastar o fundamento da origem quanto à ocorrência de dano e prejuízo e determinar o retorno do feito à origem para, superada a exigência de comprovação do dano, apurar-se o caráter do uso da imagem pelo ente público (e-STJ, fls. 314-318).
+A parte embargante sustenta a ocorrência de: i) contradição, pois, ao mesmo tempo, reconheceria a ocorrência de dano moral presumido e exigiria a investigação do caráter da publicação original da imagem; e ii) omissão quanto à Súmula 403/STJ (Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais).
+Impugnação às fls. 329-331 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. MATÉRIAS EXPRESSA E CLARAMENTE JULGADAS NO ACÓRDÃO EMBARGADO.
+1. Inexiste contradição entre se afirmar a natureza presumidados danos alegados em caso de uso indevido de imagem e determinar que se apure se houve tal espécie de uso. Não se confunde a desnecessidade de prova dos danos em caso de ilicitude com a necessidade de apuração desse elemento antecedente na hipótese.
+2. Descabe falar-se em omissão quanto àSúmula 403/STJ (Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais), na medida em que se trata de veiculação estatal sem caráter econômico ou comercial.
+3. Embargos de declaração rejeitados.
+VOTO
+De início, deve-se afirmar a inaplicabilidade da Súmula 403/STJ (Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais) pelo simples fato de não se tratar de publicação com fins econômicos ou comerciais, mas de publicidade estatal na modalidade institucional. A isonomia somente pode ser invocada entre iguais. Se o Estado não está em atuação econômica ou comercial, o precedente não se aplica. Ademais, como se verá, não se confunde a presunção de dano com a ocorrência de ilicitude. Inexiste omissão quanto ao ponto.
+Acerca da contradição, tampouco ela existe. O que se asseverou é que dispensa-se a prova dos danos pelo uso indevido da imagem, mas que esse caráter -de uso indevido - carece de demonstração.
+Isso ficou bastante claro no trecho que se reproduz a seguir, mas reitera-se antes a explicação do julgado com um outro exemplo hipotético. Imagine-se que os próprios pais, ou alguém por eles autorizado, publicam a imagem em determinado portal ou rede social. Tal serviço contém em seus termos de uso previsão de que qualquer publicação é feita com autorização de reprodução ou, quiçá, comercialização. Tal imagem é replicada em serviço de indexação de imagens, como no caso, com base nessa autorização e, afinal, usada por terceiro. Não se pode concluir automaticamente que esse uso final é ilícito ou não autorizado, apenas porque não se recebeu autorização direta dos genitores. É preciso que se estabeleça a cadeia de autorizações e usos, a fim de se verificar se houve o uso indevido e por quem, o que não se confunde com a ocorrência presumida de dano se tal ilicitude restar comprovada.
+Nessa linha é que se julgou a matéria (e-STJ, fls. 317-318):
+Entretanto, no contexto dos autos, é inviável afirmar a ocorrência dessa circunstância, porquanto o uso só pode ser tido como indevido se comprovado que a publicação, disponível eletronicamente na internet de forma reconhecidamente autorizada, não continha as permissões alegadas pela ré. Da narrativa dos fatos, não se revela essa condição, tendo o feito sido resolvido, incorretamente, pela suposta necessidade de demonstração do dano e prejuízo à imagem. De fato, o acórdão afirma que a prefeitura não solicitou antes e formalmente a autorização; entretanto, não se afirma que inexistia a autorização de livre veiculação e uso, tendo os recorrentes apontado terem permitido a publicação no sítio escolar.
+ ..
+É preciso, portanto, apurar-se as condições e limites da autorização inicial de publicação das imagens que foram fornecidas ao município, anote-se, por terceiros, que intermediaram o acesso via internet. Assim, deve-se afastar o fundamento adotado pela origem, com devolução dos autos para seguimento do julgamento, com apreciação da regularidade do uso da imagem pelo ente público, ante as condições de sua veiculação pública anteriormente realizada. É preciso apurar o escopo dessa autorização afirmada, bem como sua observância por todos os envolvidos no curso da publicação e uso da imagem.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
