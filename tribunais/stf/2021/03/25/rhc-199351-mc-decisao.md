@@ -1,0 +1,20 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. APLICAÇÃO RETROATIVA DO ART. 28-A DA LEI Nº 13.964/2019. ACORDO DE NÃO PERSECUÇÃO PENAL. RÉU CONDENADO. IMPOSSIBILIDADE. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO. ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+    1. No que tange à aplicação retroativa do Acordo de Não Persecução Penal (ANPP), introduzido no nosso ordenamento jurídico pela Lei n. 13.964/2019 (art. 28-A e seguintes do Código de Processo Penal), mostra-se incompatível com o propósito do referido instituto quando recebida a denúncia e já encerrada a prestação jurisdicional na instância ordinária, com a condenação do acusado, como no presente caso.
+    2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+    3. Na falta de parâmetros legais para se fixar o ‘quantum’ dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente no comércio ilícito de entorpecentes. Precedentes.
+    4. Hipótese na qual a instância ordinária, de forma motivada, atentas as diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza da droga apreendida (1,380 Kg de maconha) –, exclusivamente, na terceira etapa da dosimetria da pena, para fazer incidir a minorante em 3/10, o que não se mostra desproporcional. Precedentes STJ e STF.
+    5. Embora os acusados sejam primários e as penas tenham sido estabelecidas em patamar inferior a 4 anos de reclusão, o regime semiaberto é o adequado e suficiente para o cumprimento da pena reclusiva, em decorrência da valoração negativa da quantia e espécie da substância apreendida, na terceira fase da dosimetria, para a modulação do índice de redução do art. 33, § 4º, da Lei n. 11.343/2006.
+    6. Não se mostra recomendável o deferimento da substituição da pena privativa de liberdade por restritivas de direito, diante da quantidade e da natureza das drogas apreendidas (art. 44, III, do CP).
+    7. Agravo regimental não provido.”
+    (HC 626.687-AgRg/SC, Ministro Ribeiro Dantas)
+    Em suas razões, os recorrentes pretendem, em síntese: a) “a intimação do Ministério Público na origem para oferecer acordo de não persecução penal aos Pacientes”; b) “seja aplicada a benesse do art. 33, §4º, da Lei 11.343/06 em patamar máximo de 2/3” e; c) a fixação do regime inicial aberto para o cumprimento da pena.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração da probabilidade do direito invocado e do perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia; RHC 192.833-MC/SC, Ministra Rosa Weber.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 25 de março de 2021.
+Ministro NUNES MARQUES
+Relator
