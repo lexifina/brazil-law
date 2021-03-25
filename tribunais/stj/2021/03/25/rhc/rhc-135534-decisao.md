@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido liminar interposto por YAGO LESSA MONTEIRO contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe (Habeas Corpusn. 202000311714 ).
+Extrai-sedos autosque o recorrente foi preso preventivamentepela prática, em tese, do crimede roubo majorado (art. 157, § 2º-A, I,do Código Penal)- e-STJ fl. 43.
+Irresignada, a defesa impetrou préviowritna origem. A ordem foi denegada (e-STJ fls. 153/156):
+HABEAS CORPUS - PACIENTE DENUNCIADO PELO CRIME DE ROUBO MAJORADO PELO USO DE ARMA DE FOGO (ARTIGO 157, §2ª-A, I, DO CÓDIGO PENAL) - AUSÊNCIA DOS REQUISITOS PARA A MANUTENÇÃO DA PREVENTIVA - RECHAÇADA - NECESSIDADE DA PRISÃO - MODUS OPERANDI GRAVOSO - CUSTÓDIA JUSTIFICADA NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL - PENA MÁXIMA COMINADA AOS CRIMES SUPERIOR A QUATRO ANOS - PRESENTES OS REQUISITOS AUTORIZADORES - REITERAÇÃO DELITIVA - PACIENTE AFEITO À PRÁTICA DE CRIMES, JÁ CONDENADO POR DELITO CONTRA O PATRIMÔNIO - DECISÃO FUNDAMENTADA EM DADOS CONCRETOS - PEDIDO DE LIBERDADE PROVISÓRIA/PRISÃO DOMICILIAR ASSENTADO NO COVID-19 - PACIENTE HIPERTENSO - IMPOSSIBILIDADE - AUSÊNCIA DE RISCO IMINENTE AO SEGREGADO - ATENDIMENTO MÉDICO PRESTADO PELO ESTABELECIMENTO PRISIONAL - USO DE MEDICAMENTO, DOENÇA SOB CONTROLE - AÇÃO CONJUNTA DO JUDICIÁRIO COM O EXECUTIVO LOCAL A FIM DE GARANTIR A INTEGRIDADE DOS PRESOS, NOS EXATOS TERMOS DA RECOMENDAÇÃO Nº 62/2020, DO CNJ - PRINCÍPIO DA INOCÊNCIA - IMPOSSIBILIDADE DE FAZER ILAÇÕES SOBRE A PERSPECTIVA DA PENA IN CONCRETO, UMA VEZ QUE A FIXAÇÃO DESTA, BEM COMO DO REGIME PRISIONAL, DEPENDE DOS ELEMENTOS DE PROVA PRODUZIDOS NA INSTRUÇÃO -EVENTUAIS CONDIÇÕES PESSOAIS FAVORÁVEIS DO PACIENTE NÃO IMPEDEM A MANUTENÇÃO DA CUSTÓDIA - PRECEDENTES DO STJ - NÃO CABIMENTO PRISÃO DOMICILIAR, FUNDADA NO FATO DE SER O PACIENTE FILHO ÚNICO, COM MÃE IDOSA E QUE DEMANDA CUIDADOS E NEM DE MEDIDAS CAUTELARES SUBSTITUTIVAS DA PRISÃO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. DECISÃO LIMINAR MANTIDA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+No presente recurso, a defesaaponta constrangimento ilegal, afirmando que o decreto de prisão não observou os requisitos estampados no art. 312 do Código de Processo Penal.
+Destaca que " ..  a decisão do Juízo a quo, baseada apenas na gravidade em abstrato do crime roubo, bem como o acórdão da Câmara Criminal, baseado apenas na gravidade em abstrato do crime de roubo, além de possuir falta de contemporaneidade, visto que o outro motivo alegado para decretar a preventiva se sustenta em processo que remonta ao ano de 2014, ou seja, há 06 anos, inexistindo qualquer fato contemporâneo à preventiva que indique violação a tal requisito e que justifique a excepcionalidade da medida" (e-STJ fl. 198).
+Diante dessas considerações, requer, liminarmente e no mérito, a expedição do alvará de soltura.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso emhabeas corpus.
+É, em síntese, o relatório.
+Decido.
+De acordo com as informações prestada pela instância de origem, o mérito da ação penal foi julgado em 2/9/2020, com trânsito em julgado em 21/9/2020 (e-STJ fl. 249).
+Assim, constata-se a perda do objeto do presente recurso.
+Ante o exposto, julgo prejudicado o recurso emhabeas corpus, acolhido o parecer ministerial.
+Publique-se.Intimem-se.
