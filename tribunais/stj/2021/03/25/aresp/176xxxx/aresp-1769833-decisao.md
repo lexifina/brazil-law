@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por PALOMA DE MELO SOUZA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"ACIDENTE DE VEÍCULO - ATROPELAMENTO DE VÍTIMA, QUE SE ENCONTRAVA EM CIMA DE CALÇADA - DESCABIMENTO DA PRETENSÃO DE AFASTAR A CULPA DOS RÉUS PELO EVENTO - ACIDENTE GRAVE QUE RESULTOU EM INCAPACIDADE PARCIAL E EM DEFORMIDADES PERMANENTES - MAJORAÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS PARA R$ 60.000,00 - INADMISSIBILIDADE DA SUSPENSÃO DO PROCESSO - LIQUIDAÇÃO EXTRAJUDICIAL QUE NÃO OBSTACULIZA O TRÂMITE DOS PROCESSOS DE CONHECIMENTO - RESPONSABILIDADE DA SEGURADORA QUE ESTÁ LIMITADA AOS TERMOS DA APÓLICE, O QUE SÓ PODERÁ SER AFERIDO NA FASE DE CUMPRIMENTO DO JULGADO - SENTENÇA ALTERADA EM PARTE. Recurso da autora provido e recurso da denunciada da lide improvido, com observação relativa ao limite da apólice" (e-STJ fl. 845).
+Os embargos de declaração opostos foram acolhidos para sanar omissão, sem efeitos modificativos.
+No recurso especial, alega-se violação dos arts. 927 e 949 do Código Civil, ao fundamento de que o valor de R$ 60.000,00 (sessenta mil reais) fixado a título de danos morais e estéticos deve ser majorado para R$ 200.000,00 (duzentos mil reais).
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Quanto à pretensão recursal de reduzir o valor arbitrado a título de indenização por danos morais e estéticos, inviável o seu acolhimento na estreita via do recurso especial.
+O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que não se pode afirmar ínfimo o arbitramento da indenização devida pelos recorridos no valor de R$ 60.000,00 (sessenta mil reais) pelos danos morais e estéticos sofridos pela recorrente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. PRESENÇA DE ANIMAL NA PISTA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO, INCLUSIVE EM CASOS DE OMISSÃO. DEVER DE ZELAR PELA SEGURANÇA DE SEUS USUÁRIOS. FALHA NA PRESTAÇÃO DE SERVIÇO CONFIGURADA. DEVER DE INDENIZAÇÃO. QUANTUM FIXADO. MAJORAÇÃO. IMPOSSIBILIDADE. INICIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Superior Tribunal de Justiça, apesar do subjetivismo que envolve o tema, uma vez que não existem critérios pré-determinados para a quantificação do dano moral e estético, tem se posicionado no sentido de que a indenização deve ser estabelecida em patamar suficiente para restaurar o bem-estar da vítima e desestimular o ofensor a repetir a falta, sem importar em enriquecimento ilícito do ofendido.
+2. A jurisprudência desta Corte assevera que o montante indenizatório arbitrado na instância ordinária, a título de danos morais e estéticos, pode ser revisto nesta instância extraordinária somente nos casos em que o valor for ínfimo ou exorbitante. Na hipótese, verifica-se que o quantum fixado pelos danos morais e estéticos não se afigura irrisório, tendo sido observados os postulados da proporcionalidade e da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+3. Agravo interno desprovido" (AgInt no AREsp 1.717.363/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18/12/2020).
+Ademais, não se justifica a revisão da verba pela existência de precedentes nos quais o valor indenizatório foi superior, pois cada caso concreto possui suas peculiaridades fáticas.
+Assim, não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades da presente hipótese concreta, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois a recorrente não foi condenada ao pagamento da verba na origem.
+Publique-se. Intimem-se.
