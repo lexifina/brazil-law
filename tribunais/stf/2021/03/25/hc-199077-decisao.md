@@ -1,0 +1,31 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. homicídio qualificado. Execução provisória.
+1. A decisão do Plenário do Supremo Tribunal Federal (STF), no julgamento das ADCs 43, 44 e 54, Rel. Min. Marco Aurélio, não implicou a automática revogação das prisões decretadas em segunda instância para a execução imediata da pena. Matéria que deve ser previamente submetida a exame das instâncias de origem.
+2. A Primeira Turma do STF já decidiu que não viola o princípio da presunção de inocência ou da não culpabilidade a execução da condenação pelo Tribunal do Júri, independentemente do julgamento da apelação ou de qualquer outro recurso (HC 118.770, Redator para o acórdão o Ministro Luís Roberto Barroso).
+3. Ausência de teratologia, ilegalidade flagrante ou abuso de poder.
+4. Habeas corpus a que se nega seguimento.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. CONDENAÇÃO À PENA DE 18 ANOS DE RECLUSÃO. APELAÇÃO EM LIBERDADE. RÉU QUE RESPONDEU AO PROCESSO PRESO. EXCESSO DE PRAZO. INOVAÇÃO DE MATÉRIA. CONHECIMENTO PARCIAL E, NESTA EXTENSÃO, NEGADO PROVIMENTO AO AGRAVO.
+    1. Não é ilegal a prisão preventiva decretada em face da periculosidade do recorrente, uma vez que o modus operandi com que praticada a conduta revelou sua gravidade concreta, pois o réu, inconformado com o fim do relacionamento, efetuou disparo de arma de fogo na região esquerda do dorso da vítima, sua ex-companheira, evadindo-se do local.
+    2. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o réu permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse-lhe deferida a liberdade.
+    3. Condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+    4. Alegação defensiva de excesso de prazo para o julgamento da ação penal, apta a ocasionar a concessão da ordem de oficio, não foi objeto de análise perante as instâncias ordinárias, constituindo inovação de matéria, inviável em sede de regimental.
+    5. Agravo regimental conhecido, em parte, e, nesta extensão desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 18 anos de reclusão, em regime inicial fechado, pelo crime previsto no art. 121, § 2º, II, IV e VI, do Código Penal, vedado o direito de recorrer em liberdade.
+    3. Inconformada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado da Paraíba (TJ/PB). Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça. O Relator do RHC 140.610, Ministro Reynaldo Soares da Fonseca, negou provimento ao recurso. Contra essa decisão, foi interposto agravo regimental, não provido.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da prisão preventiva, destacando a inexistência de contemporaneidade entre a data dos fatos e a data da decretação da custódia. Daí o pedido de concessão da ordem a fim de revogar a prisão do acionante.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. Reconheço que o STF, no julgamento do mérito das ADCs 43, 44 e 54, Rel. Min. Marco Aurélio, decidiu que é constitucional o art. 283 do Código de Processo Penal, no ponto em que impõe o trânsito em julgado da condenação para o início do cumprimento da pena.
+    8. Na oportunidade, contudo, prevaleceu o entendimento de que a referida decisão não significaria a automática expedição do alvará de soltura dos réus presos em segunda instância. Notadamente porque a prisão antes do exaurimento dos recursos cabíveis permanece possível quando presentes os requisitos autorizadores da prisão preventiva, constantes do art. 312 do Código de Processo Penal. De modo que não vejo teratologia, ilegalidade flagrante ou abuso de poder que a concessão da ordem.
+    9. A Primeira Turma do STF já decidiu que não viola o princípio da presunção de inocência ou da não culpabilidade a execução da condenação pelo Tribunal do Júri, independentemente do julgamento da apelação ou de qualquer outro recurso (HC 118.770, Redator para o acórdão o Ministro Luís Roberto Barroso). Nesse sentido, o seguinte julgado:
+    “PROCESSUAL PENAL. HABEAS CORPUS ORIGINÁRIO. HOMICÍDIO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER.
+    1. A orientação firmada pelo Plenário do STF, no julgamento do HC 126.292 e do ARE 964.246-RG, ambos da relatoria do Min. Teori Zavascki, é no sentido de que a execução provisória da pena não compromete o princípio da presunção de inocência. Ademais, o julgamento condenatório em segundo grau de jurisdição impõe a prisão preventiva como medida de garantia da ordem pública.
+    2. Por outro lado, a Primeira Turma do STF já decidiu que não viola o princípio da presunção de inocência ou da não culpabilidade a execução da condenação pelo Tribunal do Júri, independentemente do julgamento da apelação ou de qualquer outro recurso (HC 118.770, Redator para o acórdão o Min. Luís Roberto Barroso).
+    3. Habeas corpus denegado, revogada a liminar.” (HC 144.712, Redator para o acórdão o Ministro Luís Roberto Barroso)
+    10. Não bastasse isso, dou especial relevância ao fundamento apontado pelo STJ, no sentido de que “foi evidenciada a periculosidade do recorrente, uma vez que o modus operandi com que praticada a conduta revelou sua gravidade concreta, vejamos: o réu, inconformado com o fim do relacionamento, efetuou disparo de arma de fogo na região esquerda do dorso da vítima, sua ex-companheira, evadindo-se do local”.
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 25 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+           Relator
