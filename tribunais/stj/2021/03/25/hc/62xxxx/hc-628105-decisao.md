@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DHERICK GABRIEL SILVA MIRANDA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0433.16.025676-7/001).
+O paciente foi condenado às penas de 5 anos de reclusão no regime inicial semiaberto e de 500 dias-multa, pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. A pena-base foi exasperada em razão da natureza, quantidade e nocividade das drogas apreendidas (82,62g de crackem 440 pedras), reconhecida a atenuante de menoridade relativa sem reflexo na pena e aplicado em 1/4 o redutor do tráfico privilegiado.
+A defesa requer a declaração de nulidade da prova colhida na residência do paciente, em razão da ausência de mandado de busca e apreensão, bem comoa consequente absolvição.
+O pedido de liminar foi indeferido às fls. 529-530
+As informações foram prestadas às fls. 534-575.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 580-584).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Em relação à alegada nulidade das provas colhidas por violação de domicílio, o Tribunal de origem ressaltou (fls. 538-542):
+Nos crimes de natureza permanente, enquanto perdura a fase de consumação, há situação de flagrância, razão pela qual o fato da diligência policial não ter sido instrumentalizada por mandado de busca e apreensão domiciliar não constitui qualquer espécie ilegalidade e não autoriza o reconhecimento de nulidade do feito.
+Entretanto, quando do julgamento de Recurso Extraordinário representativo da controvérsia, o Supremo Tribunal Federal manifestou-se no sentido da necessidade de proteção contra ingerências arbitrárias no domicílio, fixando a interpretação de que a entrada forçada sem mandado é lícita quando amparada em fundadas razões, ainda que justificadas a posteriori
+ ..
+No caso dos autos, vê-se que as substâncias entorpecentes foram apreendidas na casa ocupada pelos réus, o que configura a prática do delito de tráfico de drogas, tipo múltiplo de conteúdo variado, cuja execução se prolonga no tempo. Por conta disso, sendo constante do flagrante, havendo drogas depositadas no interior de uma residência, pode a polícia nela penetrar sem a anuência de seus moradores sem que isso signifique a violação de qualquer garantia constitucional. Além disto, é possível depreender dos autos que os réus não se opuseram à entrada dos policiais, sendo realizado o controle judicial posterior com a homologação do auto de prisão em flagrante e o decreto de suas prisões preventivas.
+O entendimento acima está em consonância com a jurisprudência do STJ de que o ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo (AgRg no AREsp n. 1.573.424/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020; HC n. 306.560/PR, relator Ministro Felix Fischer, Quinta Turma, DJe de 1º/9/2015; AgRg no AgRg no REsp n. 1.726.758/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/12/2019; e EDcl no AREsp n. 1.410.089/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 28/6/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
