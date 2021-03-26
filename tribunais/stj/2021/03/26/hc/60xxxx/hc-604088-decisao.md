@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor deDENISSON MARQUES CHAVESapontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás (HC n.5264398.60.2020.8.09.0000).
+Consta dos autos que o paciente foi denunciado e preso preventivamente pela suposta prática de crimes de homicídio qualificado pelo motivo fútil e mediante emprego de recurso que dificultou a defesa das vítimas, sendo um consumado e outro tentado (art. 121, § 2º, II e IV, e art. 121, § 2º, II e IV, c/c o art. 14, II, todos do Código Penal).
+O mandado de prisão foi cumprido apenas no dia 31/5/2020 (e-STJ fl. 158).
+Contra a constrição cautelarinsurgiu-se a defesa. Entretanto, o Tribunal de origem denegou a ordem dehabeas corpusnos termos do acórdão de e-STJ fls. 307/316.
+No presentewrit, o impetrante aponta constrangimento ilegal decorrente da prisão preventiva do paciente, uma vez que não foram concretamente demonstrados os requisitos do art. 312 do Código de Processo Penal. Aduz, nessa linha, que o acusado não se evadiu do local dos fatos, mas apenas não foi localizado por inércia dos órgãos estatais.
+Relata, ademais, que, durante o período em que o processo ficou suspenso, por cerca de 4 anos, o paciente não se envolveu em outros ilícitos.
+Pontua, ainda, as condições pessoais favoráveis do acusado.
+Assim, conclui que não subsistem os motivos para manter a custódia cautelar, notadamente ante a inexistência de fatos novos e contemporâneos à prisão (art. 315, § 1º, do CPP).
+Dessa forma, requer, liminarmente, a revogação da prisão, com ou sem a aplicação de medidas cautelares alternativas.
+O pedido de urgência foi indeferido (e-STJ fls. 324/326).
+Informações foram apresentadas pelos Juízos de primeiro e de segundo graus (e-STJ fls. 333/358).
+O Ministério Público Federal exarou parecer opinando nos termos da ementa de e-STJ fl. 361:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CONHECIMENTO. HOMICÍDIO QUALIFICADO E TENTADO. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E GARANTIA DE APLICAÇÃO DA LEI PENAL. PACIENTE QUE FICOU FORAGIDO. REQUISITOS DO ART. 312 EVIDENCIADOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. NÃO CONHECIMENTO DO WRIT.
+É, em síntese, o relatório.
+Decido.
+No caso, verifico, em consulta ao sítio eletrônico do Tribunal de origem, a superveniência de sentença de pronúnciaproferida em desfavor do ora paciente, oportunidade na qual foimantida a sua segregação cautelar nos seguintes termos:
+Diante do exposto,PRONUNCIO,com fundamento no art. 413 do Código de Processo Penal,DENISSON MARQUES CHAVES,já qualificado, como incurso noart. 121, § 2º, incisos II e IV do Código Penal, em relação à vítima Cristiano Andrade de Sousa e no art. 121, § 2º, incisos II e IV c/c art. 14, II, ambos do Código Penal, em relação à vítima Deivid do Valle Ferreira, edetermino, de conseguinte, que seja o mesmo submetido ao julgamento pelo Tribunal do Júri desta Comarca.
+Considerando que o acusado esteve ausente do distrito da culpa, o que culminou com a decretação de sua prisão preventiva, e havendo possibilidade de, uma vez solto, deixar o distrito da culpa novamente, bem como considerando que o acusado se encontra preso preventivamente e tendo em vista que o mesmo responde pela prática do crime tipificado no art. 33 da Lei 11.343/06 em Gurupi/TO, conforme consta no SEEU - Execução Penal nº 5010669-31.2013.8.27.2722, inclusive com fuga do regime fechado no dia 16/09/2019, entendo que persiste a necessidade de manutenção de sua prisão, para garantia da ordem pública e aplicação da lei penal. (Grifei.)
+Assim, não há viabilidade para conhecimento da presente irresignação, uma vez que, da leitura do referido édito, observo queforam aduzidos novos elementos paraa manutenção da prisão preventiva,os quais não foram submetidos à prévia apreciação da Corte de origem, o que impede a sua análise nesta oportunidade por esta Corte,sob pena de indevida supressão de instância,a violar o disposto nos arts. 105, inciso II, alínea "a", da Constituição da República e 13, inciso I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO.IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.(AgRg no RHC n. 112.178/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/6/2020, DJe 15/6/2020 - grifei.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO SEVANDIJA.PREJUDICIALIDADE DO WRIT. SENTENÇA CONDENATÓRIA SUPERVENIENTE.CONCLUSÃO LASTREADA NA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conquanto a defesa sustente que a sentença reexaminou as questões de maneira genérica, a leitura do decreto condenatório permite verificar que as matérias foram novamente apreciadas e refutadas mediante o acréscimo de fundamentos.
+2.A superveniente prolação de sentença, em que é realizada nova análise do tema suscitado na impetração, acarreta a prejudicialidade do writ porque os argumentos exarados no novo decisum proferido pelo Juízo singular devem ser primeiramente apreciados pelo Tribunal de origem, sob pena de supressão de instância. Precedentes.
+3. Agravo regimental não provido.(AgRg no RHC n. 115.330/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2019, DJe 19/12/2019 - grifei.)
+Ante o exposto,julgo prejudicadoo writ.
+Publique-se. Intimem-se.
