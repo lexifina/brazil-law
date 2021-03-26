@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado por GISETE DA SILVA GOMES COSTA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+CUMPRIMENTO DE SENTENÇA PENHORA SOBRE PROVENTOS DEPOSITADOS EM CONTA CORRENTE E SOBRE SALDO EM CADERNETA DE POUPANÇA INEXISTÊNCIA DE OUTROS BENS PASSÍVEIS DE PENHORA POSSIBILIDADE DA CONSTRICÇÃO DESDE QUE LIMITADA A TRINTA POR CENTO DE MODO A VIABILIZAR A QUITAÇÃO DO DÉBITO E GARANTIR COMO COROLÁRIO A EFETIVIDADE DO PROCESSO SEM QUE IMPORTE EM OFENSA AO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA À VISTA DO PERCENTUAL ARBITRADO FLEXIBILIZAÇÃO DA VEDAÇÃO CONTIDA NO ARTIGO 833 INCISO IV DA LEI ADJETIVA PRECEDENTES JURISPRUDENCIAIS DESTA CORTE PROVIMENTO PARCIAL DO RECURSO
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega dissídio jurisprudencial com base no art. 833, IV e X do CPC, no que concerne à ilegalidade da penhora incidente sobre rendimentos do INSS e da poupança.
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
