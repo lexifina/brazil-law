@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CLEUSA PEREIRA, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"SFH. COBERTURA SECURITÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. APÓLICE PÚBLICA. CONTRATO LIQUIDADO. IMPOSSIBILIDADE.
+1. A Segunda Seção pacificou o entendimento desta Corte acerca da questão atinente à legitimidade passiva da Caixa Econômica Federal em ações de cobertura securitária vinculadas ao Sistema Financeiro da Habitação e, consequentemente, à competência da Justiça Federal para a lide. Dessa forma, é da Justiça Federal a competência para julgamento dos feitos que versem sobre cobertura securitária no âmbito do SFH (apólices públicas - ramo 66, com comprometimento do FCVS).
+2. A jurisprudência deste Tribunal assentou o entendimento de que a cobertura securitária nos mútuos habitacionais tem a mesma duração que o financiamento. Logo, liquidado o contrato principal, extingue-se o seguro que lhe é acessório. A despeito do momento em que ocorreram os danos, a vinculação da seguradora ao ajuste securitário não perdura por tempo indeterminado" (fl. 1.580e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.590/1.599e), os quais restaram parcialmente providos, para fins de prequestionamento (fls. 1.629/1.641e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III,c, da Constituição Federal, a parte ora recorrente aponta dissídio jurisprudencial, eviolação aosarts. 119 do CPC/73, 51, I, IV, XIII e § 1º, II, do CDC, sustentando que: a) "a Caixa Econômica Federal não comprova documentalmente seu interesse jurídico para ser admitida como Assistente Simples" (fl. 1.657e), b) "a quitação do contrato de financiamento não obsta o direito do mutuário pleitear indenização securitária eis que o dano no imóvel da Recorrente é oriundo de vício de construção" (fl. 1.664e).
+Por fim, requer o provimento do recurso.
+Contrarrazões às fls. 1.869/1.875e e 1.878/1.896e.
+O Recurso Especial foi admitido pelo Tribunal de origem apenas quanto ao dissenso jurisprudencial referente à quitação do financiamento, tendo sido negado seguimento quanto ao Tema 1.011/STF.
+A irresignação não merece conhecimento.
+Verifica-se que, quanto ao dissídio jurisprudencial, a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto à alegada ofensa ao art. 51, I, IV, XIII e § 1º, II, do CDC, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao(s) dispositivo(s) tido(s) como violado(s) não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
