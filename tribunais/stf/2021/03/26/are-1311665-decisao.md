@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO – AGRAVO – DESPROVIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de implementação da paridade remuneratória. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado o artigo 6º da Emenda Constitucional nº 41/2003. Sustenta que o direito ao benefício pleiteado não depende do ingresso em cargo efetivo em data anterior à publicação da referida alteração constitucional.
+    2. Colho do acórdão o seguinte trecho:
+    A questão não se resume na discussão sobre o regime de contratação, mas na análise de ingresso no serviço público antes de 2003 pela recorrente.
+    Os documentos atestam que o ingresso no serviço público propriamente dito ocorreu em 2006 mediante provimento efetivo.
+    A função pública exercida em período anterior a 2003 pode ser contada para fins de outras bases remuneratórias, contudo, no tocante à submissão de regime para fins de aposentadoria, não pode ser confundido o servidor público com os ocupantes de função pública. Os ocupantes de função pública não integram o quadro efetivo de servidores públicos, que requer ingresso pelo concurso público.
+    A decisão recorrida está em harmonia com a jurisprudência do Supremo, no sentido de que o exercício de função pública a título precário é situação incompatível com o gozo de qualquer benefício que lhes confira vínculo de caráter permanente. Confiram com a seguinte ementa:
+    ADMINITRATIVO. SERVIDOR PÚBLICO. CARGO EM COMISSÃO. APOSENTADORIA. LEI 8.647/1993. IMPOSSIBILIDADE DE CONCESSÃO DE APOSENTADORIA PRÓPRIA DOS SERVIDORES OCUPANTES DE CARGO EFETIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA DESPROVIDO. O sistema previdenciário dos ocupantes de cargos comissionados foi regulado pela lei 8.647/1993. Posteriormente, com a Emenda Constitucional 20/1998, o art. 40, § 13 da Constituição Federal determinou a filiação obrigatória dos servidores sem vínculo efetivo ao Regime Geral de Previdência. Como os detentores de cargos comissionados desempenham função pública a título precário, sua situação é incompatível com o gozo de quaisquer benefícios que lhes confira vínculo de caráter permanente, como é o caso da aposentadoria. Inadmissível, ainda, o entendimento segundo o qual, à míngua de previsão legal, não se deva exigir o preenchimento de requisito algum para a fruição da aposentadoria por parte daqueles que desempenham a função pública a título precário, ao passo que, para os que mantêm vínculo efetivo com a Administração, exige-se o efetivo exercício no cargo por cinco anos ininterruptos ou dez intercalados (art. 193 da Lei 8.112/1990). Recurso ordinário a que se nega provimento.
+    (recurso ordinário no mandado de segurança nº 25.039, relator ministro Joaquim Barbosa, Segunda Turma, acórdão publicado no Diário da Justiça de 18 de abril de 2008).
+    3. Conheço e desprovejo o agravo.
+    4.Publiquem.
+Brasília, 26 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
