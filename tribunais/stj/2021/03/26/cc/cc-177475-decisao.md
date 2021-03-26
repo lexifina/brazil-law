@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se, na origem, de mandado de segurança impetrado pela União contra decisão proferida pelo Juízo da 3ª Vara Federal de Curitiba - SJ/PR, que acolheu a competência da Justiça Federal para processar e julgar ação civil pública proposta pelo Ministério Público do Estado do Paraná, no interesse de Luzia Gomes, contra o Estado do Paraná, objetivando o fornecimento de medicação para o tratamento de enfermidade, em razão de não possuir recursos financeiros para tanto.
+A Primeira Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Paraná, ao analisar referido mandamus, suscitou conflito negativo de competência ao argumento de que foi imposta à parte autora, de forma equivocada, a inclusão da União no feito, sustentando que compete ao Juízo Estadual o julgamento da demanda (fls. 50-63).
+Às fls. 526-527 designei a Primeira Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Paraná para resolver, em caráter provisório, as medidas urgentes que o feito demandar.
+O Ministério Público Federal opinou pela declaração de competência do Juízo de Direito da Vara da Fazenda Pública de Antonina/PR (fls. 535-539).
+É o relatório. Decido.
+Nos termos do art. 66, do CPC/2015, há conflito de competência quando dois ou mais juízes declaram-se competentes (conflito positivo) ou consideram-se incompetentes (conflito negativo) para o processamento e julgamento de uma mesma demanda ou, ainda, quando existir controvérsia acerca da reunião ou separação de processos.
+Analisando os autos verifica-se que o suposto conflito que ora se analisa foi suscitado pela Turma Recursal nos autos do Mandado de Segurança impetrado pela União, e não no bojo da lide originária - a ação de conhecimento em que se objetiva o fornecimento de medicamento não dispensado pelo SUS, na qual há, de fato, decisões dos juízos estadual e federal a respeito da competência.
+O que se nota, portanto, é que nos autos do referido mandamus não existe divergência entre duas decisões declinatórias de competência, mas apenas uma só decisão - da Primeira Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Paraná, declarando a incompetência da Justiça Federal para o processamento e julgamento da lide originária.
+Conclui-se, assim, que inexistindo manifestação de qualquer outro juízo a respeito da competência nos autos do mandado de segurança, não há conflito a ser dirimido.
+Sobre o assunto, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE MANIFESTAÇÃO DOS DOIS JUÍZOS. CONFLITO INEXISTENTE. NÃO CONHECIMENTO. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A caracterização do conflito de competência depende da manifestação expressa de dois ou mais juízos que se considerem competentes ou incompetentes para processar e julgar o "mesmo feito", o que não ocorreu na espécie.
+III - O inconformismo pautado na alegada necessidade de envio dos autos ao juízo competente não encontra no conflito de competência o remédio jurisdicional adequado, porquanto o incidente não pode ser utilizado como sucedâneo recursal.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no CC 168.175/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 18/02/2020, DJe 20/02/2020)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. MANIFESTAÇÃO DE AMBOS OS JUÍZOS CONFLITANTES. AUSÊNCIA.
+1. A caracterização de conflito de competência pressupõe a manifestação de dois ou mais juízes que se declaram competentes ou incompetentes, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou da separação de processos, como estatui o art. 66 do CPC/2015.
+2. Hipótese, em que, embora a parte tenha legitimidade para propor o conflito de competência (art. 951 do CPC/2015), é indispensável para o conhecimento do incidente o pronunciamento de ambos os juízos conflitantes, o que não ocorre.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no CC 145.817/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 27/02/2019, DJe 21/03/2019)
+Também no mesmo sentido, analisando supostos conflitos de competência suscitados pelo mesmo Tribunal do que ora se examina, são as decisões monocráticas nos CC n. 176.609, DJe 2/3/2021 e CC n. 176.540, DJe 1/3/2021, de minha relatoria; nos CC n. 177.507, DJe 22/2/2021 e CC n. 176.536, DJe 15/12/2020, ambos de relatoria do Ministro Sérgio Kukina e nos CC n. 176.550, DJe 3/2/2021 e CC n. 176.559, DJe 1/2/2021, ambos de relatoria do Ministro Og Fernandes.
+Ante o exposto, reconsidero a decisão de fls. 526-527, tornando-a sem efeito, e não conheço do presente conflito.
+Publique-se. Intimem-se.
