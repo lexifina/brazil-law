@@ -1,0 +1,32 @@
+DECISÃO
+ERICA CRISTIANE DE OLIVEIRA E MÁRCIO ROGÉRIO DE JESUS ORICCHIO (ÉRICA E MÁRCIO) ajuizaramação reivindicatória contra LINDOMAR LIMA DO NASCIMENTO (LINDOMAR).
+Narraramter adquirido bem imóvel junto à CAIXA ECONÔMICA FEDERAL (CEF), via execução extrajudicial, em face de LINDOMAR não ter adimplido as prestações do financiamento hipotecário avençado com a instituição financeira.
+A ação foi proposta na Justiça Estadual que determinou a remessa dos autos à Justiça Federal, por vislumbrar interesse processual da CEF.
+O Juízo Federal, por sua vez, extinguiuo processo, sem resolução do mérito, em relação à CEF e determinou a devolução dos autos ao Juízo Estadual, reconhecendo sua incompetência absoluta.
+Dai o presente conflito de competência suscitado pelo Juízo de Direito da 3ª Vara Cível de Barueri - SP.
+Ouvido, o Ministério Público Federal opinou pelo conhecimento do conflito com a manutenção da competência da cada juízo, e a suspensão do trâmite da ação possessória na Justiça Estadual, até o julgamento da ação anulatória em andamento na Justiça Federal.
+Este, em síntese, o relatório.
+DECIDO.
+A controvérsia consiste em definir o juízo competente para julgar a ação revisional de contrato c/c anulatória de execução extrajudiciale a demanda reivindicatória relativa a imóvel adquirido em leilão promovido pela CEF, bem como a possibilidade de reunião das ações.
+Conforme entendimento firmado por esta Corte Superior, embora exista um vínculo entre a ação reivindicatória e a ação que questiona a própria legalidade da concorrência pública, não é possível haver reunião dos processos por conexão, uma vez que a competência absoluta para o processamento de cada uma das ações é distinta e improrrogável.
+A competência da Justiça Federal é definida ratione personae, nos termos do disposto no art. 109, I, da CF, razão pela qual se em uma das causas conexas não figura algum dos entes federais no referido dispositivo constitucional a competência não pode ser prorrogada, porque a Justiça Federal é absolutamente incompetente para julgar ações entre particulares.
+Por isso já se decidiu pela impossibilidade de reunião dos feitos, porquanto, em se tratando de competência absoluta "ratione personae", não se pode cogitar de modificação de competência por conexão (CC nº 46.945/PR, Ministro FERNANDO GONÇALVES, DJ de 5/3/2008).
+É o caso dos autos em que a ação reivindicatória envolve apenas particulares (ÉRICA E MÁRCIO x LINDOMAR).
+Apesar da impossibilidade de reunião das demandas para julgamento conjunto, há que se reconhecer a existência de uma relação de prejudicialidade entre as demandas, autorizando a suspensão prevista no art. 313, V, a, do CPC/2015, até o julgamento final da ação em trâmite perante a Justiça Federal.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA.JUSTIÇA ESTADUAL E FEDERAL. POSSIBILIDADE DE DECISÕES CONFLITANTES. INTERPRETAÇÃO EXTENSIVA DO ART. 115 DO CPC. AÇÃO RESCISÓRIA NA QUAL SE PLEITEIA O RECONHECIMENTO DA AQUISIÇÃO DA PROPRIEDADE DO IMÓVEL MEDIANTE USUCAPIÃO E AÇÃO DE IMISSÃO NA POSSE DECORRENTE DA ARREMATAÇÃO DO MESMO IMÓVEL EM LEILÃO EXTRAJUDICIAL. CONEXÃO. PREJUDICIALIDADE.SUSPENSÃO. PRECEDENTE DA SEGUNDA SEÇÃO EM CASO ANÁLOGO (AGRG NO CC 112.956/MS, MIN. NANCY ANDRIGHI, DJE DE 02/05/2012). CONFLITO CONHECIDO PARA, MANTENDO A COMPETÊNCIA DOS JUÍZOS SUSCITADOS PARA O PROCESSAMENTO E JULGAMENTO DAS RESPECTIVAS DEMANDAS, DETERMINAR A SUSPENSÃO DA AÇÃO DE IMISSÃO NA POSSE EM TRÂMITE NO JUÍZO DE DIREITO DA VARA CÍVEL DO FORO REGIONAL DE TRISTEZA - PORTO ALEGRE - RS.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(AgRg no CC 129.502/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 21/11/2013)
+CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. FINANCIAMENTO IMOBILIÁRIO. SFH. AÇÃO DE ANULAÇÃO DE ATO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO. AÇÕES DE IMISSÃO E MANUTENÇÃO DE POSSE PROPOSTAS PERANTE A JUSTIÇA ESTADUAL E FEDERAL.POSSIBILIDADE DE DECISÕES CONFLITANTES.INTERPRETAÇÃO EXTENSIVA DO ART. 115 DO CPC. CONEXÃO.PREJUDICIALIDADE. SUSPENSÃO.
+1. A mera potencialidade ou risco de que sejam proferidas decisões conflitantes é suficiente para caracterizar o conflito de competência, consoante interpretação extensiva conferida por esta Corte ao disposto no artigo 115 do Código de Processo Civil.
+2. Os fundamentos das duas causas não se identificam, em que pese possa ser alegada a conexão, pois há que se reconhecer a existência de um vínculo substancial entre as duas demandas.
+3. Segundo o disposto no art. 109 da CF/88, a Justiça Federal é absolutamente competente para julgar ação em que a União, entidade autárquica ou empresa pública federal tenham interesse na condição de autoras, rés, assistentes ou oponentes. Inexistente essa condição, a reunião de ações para julgamento conjunto não é possível, pois a competência absoluta é improrrogável.
+4. Há que se reconhecer a existência de uma relação de prejudicialidade entre as demandas, autorizando a suspensão prevista no art. 265, IV, "a", do CPC.
+5. Agravo regimental provido.
+(AgRg no CC 112.956/MS, Rel. Ministra NANCY ANDRIGHI, DJe 2/5/2012)
+Na hipótese dos autos, não sendo possível a reunião dos processos por conexão, deve ser mantida a competência de cada um dos juízos suscitados, com a determinação da suspensão da ação de possessória em trâmite na Justiça Estadual até o julgamento final da ação anulatória que tramita perante a Justiça Federal, nos termos do art. 313, V, alínea a, do CPC/2015, dada a existência de prejudicialidade entre ambos os feitos.
+Nessas condições, CONHEÇO do conflito de competência para (1) fixar a competência do Juízo da 24ª Vara Federal de São Paulo - SJ/SPpara processar e julgar a açãorevisional de contrato c/c anulatória de execução extrajudicial proposta LINDOMAR contraaCEF e,(2) declarar competente o Juízo de Direito da 3ª Vara Cível de Barueri/SP para processar e julgar a ação reivindicatória ajuizada por ÉRICA E MÁRCIOcontra LINDOMAR.
+Determino, ainda, ao Juízo da 3ª Vara Cível de Barueri/SP que proceda à suspensão do feito até o julgamento final da ação anulatória em andamento da Justiça Federal.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REIVINDICATÓRIADE IMÓVEL AJUIZADA CONTRA PARTICULAR QUE, POR SUA VEZ, PROPÔS AÇÃO ANULATÓRIA CONTRA A CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA ABSOLUTA.CONEXÃO.IMPOSSIBILIDADE. RISCO DE PROLAÇÃO DE DECISÃO NÃO COMPATÍVEL COM A DA JUSTIÇA ESTADUAL CONFIGURADO.PREJUDICIALIDADE. OCORRÊNCIA. PRECEDENTES.
