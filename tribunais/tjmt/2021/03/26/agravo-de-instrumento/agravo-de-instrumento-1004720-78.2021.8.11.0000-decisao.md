@@ -1,0 +1,22 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento com pedido liminar de efeito ativo, interposto por GFN Agrícola e Participações S.A., AGROFUTURA EMPREENDIMENTOS E PARTICIPAÇÕES S. A. e NOVA SINOP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA, contra a decisão proferida nos autos da Ação Revisional de Contrato Bancário no 1002442-27.2020.811.0037, ajuizada em face do Banco PAN S.A., que em razão da cláusula de foro de eleição, declinou da competência para processar e julgar o feito e determinou a remessa dos Autos a uma das varas cíveis da Comarca de São Paulo-SP.
+Para tanto, os agravantes alegam que, ao contrário do entendimento adotado pelo Juízo de origem, a relação jurídica entre as partes é claramente de consumo, o que, por sua vez, afasta a cláusula de eleição de foro.
+Aduzem que, num primeiro momento pugnaram pelo reconhecimento da aplicação do Código de Defesa do Consumidor, especialmente quanto à inversão do ônus da prova em favor da parte hipossuficiente, ou seja, das Recorrentes, ante sua vulnerabilidade técnica, jurídica e financeira, quando comparadas à instituição financeira Agravada.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+Como cediço, a inversão do ônus da prova, está atrelada a demonstração da verossimilhança das alegações ou da hipossuficiência técnica do consumidor em constituir a prova do direito que diz possuir frente ao fornecedor ou prestador de serviço, inteligência do artigo 6o, inciso VIII, do Código de Defesa do Consumidor.
+No caso, à primeira vista, além de controvertida, a hipótese não versa sobre relação de consumo ou hipossuficiência da parte que autorize a inversão do ônus da prova e, com isso, o afastamento da cláusula de eleição de foro.
+Os autores da ação, na condição de produtores rurais, litigam sobre questão atinente a empréstimo bancário de vultosa quantia, representada pelas Cédulas de Crédito Bancário de no 73150 e 75468, as quais somam o valor de aproximadamente R$ 30.000.000,00 (trinta milhões de reais), que foram empregados em suas atividades empresariais e que, portanto, afastam a alegação de se tratar de uma relação consumerista.
+Nesse sentido, orienta a jurisprudência local:
+RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANO MORAL – INAPLICABILIDADE DO CDC AO PRODUTOR RURAL – VALIDADE DE CLÁUSULA DE ELEIÇÃO DE FORO – RECURSO PROVIDO.
+“ Não se aplica o Código de Defesa do Consumidor ao produtor rural, como na situação específica deste caso, mesmo nas ações bancárias, o que, consequentemente afasta a inversão do ônus da prova prevista no art. 6o, inciso VIII, do mencionado diploma. (TJ-MT - AI: 10176315920208110000 MT, Relator: SERLY MARCONDES ALVES, Data de Julgamento: 14/10/2020, Quarta Câmara de Direito Privado, Data de Publicação: 14/10/2020). (N.U 1022842-76.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, NILZA MARIA POSSAS DE CARVALHO, Primeira Câmara de Direito Privado, Julgado em 02/02/2021, Publicado no DJE 08/02/2021)
+Assim, com base nessas considerações, ao menos nesse instante, impõe-se a manutenção da decisão de base.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
