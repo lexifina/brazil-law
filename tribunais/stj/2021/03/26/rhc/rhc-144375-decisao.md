@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por LEONARDO DOS SANTOS MIRANDA DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.21.013000-1/000).
+Consta dos autos ter sido o recorrente preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime de tráfico de entorpecentes.
+Posteriormente, a custódia foi revogada pelo Juízo de primeiro grau, e, tempos depois, atendendo a requerimento do Parquet estadual, a segregação foi novamente decretada em decorrência de suposta reiteração delitiva.
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a Corte a quonão conheceu da ordemnos termos da seguinte ementa (e-STJ fl. 48):
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - MERA REITERAÇÃO. WRIT NÃO CONHECIDO. Sendo o pedido de revogação da prisão preventiva do paciente, mera reiteração de outro anteriormente formulado em favor do mesmo, a impetração não deve ser conhecida.
+Neste recurso, sustenta a defesa inexistir razões idôneas para a custódia antecipada, asseverando que "omagistrado se esposou, nesses inquéritos policiaisem curso existente, vale aqui ressaltar mais uma vez que nenhum desses processo o recorrente é autor ou foi denunciado, ou seja o recorrente esta preso há mais de 3 anos pelo crimes que ele nunca cometeu ou foi denunciado, estranho isto, como pode uma pessoa ser mantida presa, por um fato que não cometeu e tão pouco foi denunciado nestas ocorrências.MM. Ministros vale aqui ressaltar que o recorrente, teve sua prisão decretada neste autos como já foi dito anteriormente, por crimes que o mesmo não cometeu ou até mesmo foi denunciado, ou seja um erro manter o recorrente em cárcere privado, pelo crime que o mesmo não responde" (e-STJ fl. 60).
+Aduz, ainda, haver excesso de prazo para a formação da culpa.
+Busca, inclusive liminarmente, a expedição de alvará de soltura em favor do recorrente.
+É o relatório.
+Decido.
+Pois bem. A despeito do esforço da diligente defesa, as teses formuladas não foramenfrentadas pelo Tribunal a quo no writ originário, o que impede esta Corte de analisar os temas, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA.INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS.ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA.ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevid a supressão de instância.
+ ..  (HC 387.938/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017.)
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se. Intimem-se.
