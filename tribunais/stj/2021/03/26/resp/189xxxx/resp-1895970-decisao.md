@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEANDRO PEREIRA ZANELI, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.1500336-03.2018.8.26.0291).
+O recorrente foi condenado em primeira grau às penas de 9 anos e 4 meses de reclusão no regime fechado e de 1.399 dias-multa, pela prática dos delitos descritos nos arts. 33 e 35 da Lei n. 11.343/2006. O Tribunal de origem manteve a sentença condenatória ao negar provimento à apelação e rejeitou os subsequentes embargos declaratórios.
+Nas razões do recurso especial, alega o recorrente violação do: a) art. 386, III do CPP, diante da injusta condenação pelo delito de associação para o tráfico; e b) art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que a quantidade e variedade de drogas não são fundamentos suficientes para afastar a redutora.
+Pugna, assim, pela sua absolvição quanto ao delito descrito no art. 35 da Lei n. 11.343/2006 e pela aplicação do redutor do tráfico privilegiado em sua fração máxima com a consequente alteração do regime inicial de cumprimento da pena.
+As contrarrazões foram apresentadas às fls. 660-669.
+Admitido o apelo extremo (fls. 673-675), o Ministério Público Federal apresentou parecer pelo não conhecimento ou, caso dele se conheça, pelo desprovimento do recurso especial (fls. 685-688).
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+O Tribunal a quo manteve a sentença, que condenara o paciente pelo crime de associação para o tráfico de drogas. Confira-se excertodo acórdão (fl. 566):
+É certo que os réus não foram vistos comercializando o entorpecente, mas a forma como estava embalada a droga, a quantidade e a variedade, a quantia em dinheiro, cuja origem não foi justificada, aliadas às circunstâncias da prisão, não deixam dúvida quanto à atuação da dupla no comércio ilegal de entorpecentes.
+De outra parte, o envolvimento dos acusados na organização criminosa ficou claro; agiam imbuídos de um só intuito, quals eja, a conjugação dos esforços recíprocos para o bom desempenho do vultoso negócio dedicado à comercialização da droga, seja no atacado ou no varejo.
+A correlação entre eles e suas ações fica demonstrada pelas provas coligidas, competindo aos acusados a função de distribuição e revenda do entorpecente na cidade.
+Não há que se falar, ainda, em mero concurso de agentes, haja vista a constante comunicação telefônicas entre eles, somadas ao fato de que já eram conhecidos pela prática do comércio de drogas.
+Ademais, os apelantes não fizeram demonstração alguma de atividade lícita, tornando improvável a obtenção de tal quantidade e variedade de droga de outra forma que não o comércio ilegal de entorpecentes, ou até mesmo o envolvimento com outros indivíduos versados na mesma criminalidade.
+O STJ firmou o entendimento de que, tendo as instâncias de origem reconhecido, com base nas provas colhidas nos autos,que o condenado estava associado com outros indivíduos de forma estável e permanente,está caracterizado o delito de associação para o tráfico.
+Assim, o acolhimento da tese recursal de que não foi provado o vínculo estável e permanente da recorrente com outras pessoas no reiterado comércio ilícito de drogas, a ensejar a absolvição do delito descrito no art. 35 da Lei n. 11.343/2006, implicaria revolvimento do conjunto fático-probatório, o que é vedado ao Superior Tribunal de Justiça nesta via (Súmula n. 7 do STJ).
+A propósito: AgRg no AREsp n. 1.481.573/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/9/2019 e AgRg no REsp n. 1.797.431/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/9/2020.
+Por fim, a condenação pelo crime descrito no art. 35, caput, da Lei n. 11.343/2006 é incompatível com o reconhecimento do tráfico privilegiado, sendo suficiente para afastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, pois indica que o agente se dedica a atividades criminosas (AgRg no AREsp n. 1.732.339/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020; e REsp 1294692/SC, Relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 08/09/2016)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial, e nego-lhe provimento.
+Publique-se. Intimem-se.
