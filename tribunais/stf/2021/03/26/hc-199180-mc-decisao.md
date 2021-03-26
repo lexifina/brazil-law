@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus impetrado por Acácio Marcel Marçal Sardá em favor de Juares Albiero contra acórdão do Superior Tribunal de Justiça no RHC 140.818/SC, assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. DECISÃO DA 2ª CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO FEDERAL CONDICIONANDO A POSSIBILIDADE DE REALIZAÇÃO DO ACORDO À INEXISTÊNCIA DO TRÂNSITO EM JULGADO, QUE OCORREU IN CASU. ARQUIVAMENTO DO RESPECTIVO INCIDENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. IMPOSSIBILIDADE DE OFERECIMENTO DE ACORDO DE NÃO PERSECUÇÃO PENAL APÓS A DENÚNCIA. INSTITUTO PRÉ-PROCESSUAL QUE VISA OBSTAR A PERSECUÇÃO PENAL. INTERPRETAÇÃO TELEOLÓGICA E SISTEMÁTICA. COERÊNCIA E ALCANCE DA NORMA. CONDENAÇÃO CONFIRMADA NO SEGUNDO GRAU E NESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO”. (eDOC 5, p. 215)
+    O impetrante narra que o paciente foi condenado pela prática dos crimes dos arts. 342, do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicialmente aberto, substituída por duas penas restritivas de direito.
+    Relata que solicitou a realização de acordo de não persecução penal em 14.2.2020, após a sentença, porém antes do trânsito em julgado da condenação. O pedido de ANPP teria sido negado pelo procurador da causa, porém deferido pela Câmara de Coordenação e Revisão do MPF, que, porém, teria condicionado sua realização à ausência de trânsito em julgado. Como o trânsito em julgado ocorrera em 12.5.2020, não foi aceito o pedido de ANPP formulado pelo réu. (eDOC 1, p. 2)
+    Alega que, se reconhecido o direito, em tese, de o réu ter apreciado seu pedido de acordo, mesmo em face de condenação não transitada em julgado, este direito não poderia sucumbir pela circunstância de só haver sido reconhecido após o trânsito em julgado, e não antes. Aduz que em 13.2.2020 pediu a suspensão do julgamento do agravo regimental no ARE 1.233.369, que impugnava a condenação, enquanto se deliberava sobre a possibilidade de realização do acordo, porém não teve seu pedido atendido. Acrescenta que não poderia recorrer indefinidamente para protelar o trânsito em julgado enquanto aguardava o posicionamento do Ministério Público. (eDOC 1, p. 4)
+    Pleiteia a concessão de liminar para suspender os efeitos da condenação até o julgamento final deste writ, e a concessão da ordem para oportunizar-lhe a celebração de acordo de não persecução penal.
+    É o relatório.
+    Decido.
+    Trata-se de habeas corpus substitutivo de recurso ordinário contra acórdão do Superior Tribunal de Justiça que negou provimento a recurso ordinário contra acórdão do Tribunal Federal da 4ª Região, que denegara a ordem de HC.
+    Para completo esclarecimento da situação fática, transcrevo a ementa do primeiro acórdão, no relevante:
+    “HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. DECISÃO DA 2ª CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO FEDERAL CONDICIONANDO A POSSIBILIDADE DE REALIZAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL À INEXISTÊNCIA DO TRÂNSITO EM JULGADO, QUE OCORREU IN CASU. ARQUIVAMENTO DO RESPECTIVO INCIDENTE. ORDEM DENEGADA.
+    1. O paciente foi condenado em primeira e segunda instâncias e, antes do trânsito em julgado, a defesa requereu "a designação de audiência de proposta de acordo de não persecução penal, com base no disposto no art. 28-A do Código de Processo Penal", tendo a magistrada de origem determinado a intimação do Ministério Público Federal para se manifestar sobre a possibilidade de celebração do acordo.
+    2. O Ministério Público Federal aduziu que não tinha interesse na proposição do acordo, por entender que a existência de sentença condenatória constitui óbice para tanto. A defesa, por sua vez, manifestou interesse na realização de acordo de não persecução penal e fez uso da faculdade do art. 28-A, § 14, do CPP. A 2ª Câmara de Coordenação e Revisão do Ministério Público Federal deu provimento ao recurso, contudo consignou a possibilidade de realização do acordo de não persecução penal à inexistência do trânsito em julgado, nos termos do Enunciado n. 98 daquele órgão.
+    3. A magistrada de origem, ao constatar que já havia ocorrido o trânsito em julgado, determinou o arquivamento dos autos do respectivo incidente, o que não caracteriza constrangimento ilegal.
+    (…)
+    7. Afastada a possibilidade de acordo, cabe ao julgador tão somente determinar o arquivamento do respectivo incidente.
+    8. Ordem denegada”. (eDOC 5, p. 157)
+    Acresço que o relatório desse acórdão corrobora inteiramente a sequência de eventos descrita pelo impetrante.
+    O paciente encontra-se na situação de quem teve reconhecido um direito, mas não efetivado em razão da demora na prestação jurisdicional. Houvesse o procurador junto ao juízo oferecido o acordo de não persecução penal quando solicitado pelo paciente, não haveria ocorrido o trânsito em julgado da condenação.
+    O prejuízo pode se repetir caso esta Turma reconheça o constrangimento ilegal, após a execução da pena.  A concessão da liminar é imperativa, até que seja decidido o mérito do habeas corpus.
+    Ante o exposto, concedo a liminar para suspender os efeitos da condenação no processo 5003132-98.2015.404.7212, até o julgamento de mérito do presente habeas corpus.
+    Publique-se. Comunique-se com urgência.
+    Após, abra-se vista à PGR, para se manifestar sobre o mérito da presente impetração.
+    Brasília, 26 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
