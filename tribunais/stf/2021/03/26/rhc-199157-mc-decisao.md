@@ -1,0 +1,28 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. PORTADOR DE BRONQUITE. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+    1. A crise mundial da Covid-19 trouxe já uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento, a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistema prisional acarretam seu enquadramento como pessoas em condição de risco.
+    2. Não se verifica ilegalidade no indeferimento do pedido de cumprimento de pena em regime aberto domiciliar, pois, apesar de o paciente possuir bronquite, não houve a demonstração de que a sua condição de saúde possa ser atualmente agravada pelo risco de contágio pela Covid-19 no estabelecimento prisional, não se verificando a ocorrência de manifesta ilegalidade.
+    3. Agravo regimental improvido.”
+    (HC 614.966-AgRg/SC, Ministro Nefi Cordeiro - com meus grifos)
+    Em suas razões, a parte recorrente pretende, em síntese, a concessão de prisão domiciliar com fundamento na Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    Tal o contexto, entendo não assistir razão à parte recorrente.
+     Em decorrência da circunstância de pandemia provocada pelo novo coronavírus (COVID-19), o Conselho Nacional de Justiça editou a Recomendação nº 62/2020 com o objetivo de reduzir os riscos de disseminação do vírus à população privada de liberdade.
+    Verifico, entretanto, que a decisão ora impugnada, ao avaliar a pretensão do recorrente com fundamento na Recomendação nº 62/2020 do Conselho Nacional de Justiça, ressaltou:
+    “Prestadas as informações, a Corte de origem esclareceu as condições de saúde em que se encontrava o apenado, bem como as medidas preventivas realizadas pela unidade prisional para enfrentar os efeitos deletérios da pandemia do Covid-19, nos termos a seguir delineados (fl. 123):
+    ‘(...) O interno Tiago Lima da Cruz — Ipen 685419 está recolhido nesta unidade prisional desde o dia 23/08/2019, tendo usufruído do benefício da Saída Temporária no período de 10/03/2020 a 05/06/2020, devido a Pandemia do Covid-19.
+    Em atendimento na data de hoje, às 15h, com a enfermeira Magda Scheneider (COREN/SC n. 337556), o apenado apresentou bom estado de saúde geral, sem queixas álgicas, não apresenta sintomas gripais, temperatura 36,4, pressão arterial 130x80, respiração 20bpm, frequência cardíaca 80 bpm e saturação 99%.
+    Até o presente momento este ergástulo conta com O (zero) detentos infectados por Covid-19.
+    A unidade dispõe de uma equipe de saúde composta por médica, enfermeira e auxiliar de enfermagem que realizam a triagem de todos os internos recebidos. Além de toda semana ser realizada a sanitização dos alojamentos e demais setores, bem como a aferição da temperatura de todos que adentram na unidade, criando, desta forma, uma barreira sanitária (--)’.
+    (...)
+    Consoante se verifica, ausente manifesta ilegalidade, pois o art. 4º da Resolução 62 do CNJ dispõe que cabe ao magistrado sopesar a situação em observância ao contexto local de disseminação do vírus, não havendo a demonstração nos autos de que exista, atualmente, a possibilidade de agravamento do seu estado geral de sua saúde a partir do contágio no estabelecimento prisional.
+    Não obstante as razões da defesa, ‘A recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão decorrente da sentença condenatória pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie’ (AgRg no HC 587.407/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020).
+    Não havendo demonstração de que o paciente paciente estaria submetido a risco iminente ou de que a unidade prisional não detenha condições de fornecer o tratamento adequando, não há falar em deferimento de prisão domiciliar.” (com meus grifos)
+    No caso em espécie, não vislumbro demonstrada situação de vulnerabilidade da parte ora recorrente em decorrência da pandemia provocada pelo novo coronavírus ou a impossibilidade de atendimento médico na respectiva unidade prisional aptas a merecerem o alcance da Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Nesse mesmo sentido se encontra consolidado o entendimento jurisprudencial desta Suprema Corte, conforme ilustram, em casos fronteiriços, os seguintes acórdãos: HC 188.716-AgR/SP, Ministro Celso de Mello; HC 189.421-ED/SP, Ministro Alexandre de Moraes; HC 189.752/SP, Ministro Marco Aurélio, HC 191.080-AgR/SP, Ministra Cármen Lúcia.
+    Em face do exposto, nego provimento ao recurso ordinário em habeas corpus.
+    Intime-se. Publique-se.
+    Brasília, 26 de março de 2021.
+Ministro NUNES MARQUES
+Relator
