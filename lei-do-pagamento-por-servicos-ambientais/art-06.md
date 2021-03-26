@@ -10,4 +10,4 @@ IV - outros estabelecidos em regulamento.
 § 5º O contrato de pagamento por serviços ambientais pode ocorrer por termo de adesão, na forma de regulamento.
 § 6º No âmbito do PFPSA, o pagamento por serviços ambientais depende de verificação e comprovação das ações de manutenção, de recuperação ou de melhoria da área objeto de contratação, conforme regulamento.
 § 7º Para o financiamento do PFPSA poderão ser captados recursos de pessoas físicas e de pessoas jurídicas de direito privado e perante as agências multilaterais e bilaterais de cooperação internacional, preferencialmente sob a forma de doações ou sem ônus para o Tesouro Nacional, exceto nos casos de contrapartidas de interesse das partes.
-§ 8º (VETADO).
+§ 8º O PFPSA será avaliado, pelo órgão colegiado referido no art. 15 desta Lei, a cada 4 (quatro) anos, após sua efetiva implantação.
