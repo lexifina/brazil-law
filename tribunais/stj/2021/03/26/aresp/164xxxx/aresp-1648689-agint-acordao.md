@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NULIDADE DO ACÓRDÃO RECORRIDO. SUSPOSTA CARÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE APRECIOU, FUNDAMENTADAMENTE E DE MODO COMPLETO, TODAS AS QUESTÕES NECESSÁRIAS À SOLUÇÃO DA CONTROVÉRSIA POSTA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA. DECISÃO MANTIDA PELA CORTE ESTADUAL QUE INDEFERE O PLEITO DE SUBSTITUIÇÃO DO BEM PENHORADO E CONDENA AEXECUTADA AO PAGAMENTO DE MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REVISÃO DESTE ENTENADEQUAÇÃO DA DECISÃO AGRAVADA. DECISÃO QUE SEGUE MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por ITAPEMA PRO LIMPEZA LTDA,contra decisão assim ementada (e-STJ Fl. 771):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NULIDADE DO ACÓRDÃO RECORRIDO. SUSPOSTA CARÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE APRECIOU, FUNDAMENTADAMENTE E DE MODO COMPLETO, TODAS AS QUESTÕES NECESSÁRIAS À SOLUÇÃO DA CONTROVÉRSIA POSTA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA. DECISÃO MANTIDA PELA CORTE ESTADUAL QUE INDEFERE O PLEITO DE SUBSTITUIÇÃO DO BEM PENHORADO E CONDENA AEXECUTADA AO PAGAMENTO DE MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante reprisa, essencialmente, as teses exaradas no apelo nobre no sentido de nulidade da decisão impugnada por ausência de fundamentação.
+Aduz que não incideo óbice da Súmula nº 7/STJ para verificação de afronta aos artigos 774, caput, inciso V, 835, inciso V, e, § 1º, e, 848, incisos I, e, IV, do Código de Processo Civil/2015.
+Por fim, sustenta que o pedido de substituição do bem penhorado teria sido negado de forma infundada, e, que inexistiu ato atentatório à dignidade da justiça que justificasse a aplicação de multa no patamar máximo de 20%.
+Pede o provimento do recurso.
+É relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NULIDADE DO ACÓRDÃO RECORRIDO. SUSPOSTA CARÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE APRECIOU, FUNDAMENTADAMENTE E DE MODO COMPLETO, TODAS AS QUESTÕES NECESSÁRIAS À SOLUÇÃO DA CONTROVÉRSIA POSTA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA. DECISÃO MANTIDA PELA CORTE ESTADUAL QUE INDEFERE O PLEITO DE SUBSTITUIÇÃO DO BEM PENHORADO E CONDENA AEXECUTADA AO PAGAMENTO DE MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. REVISÃO DESTE ENTENADEQUAÇÃO DA DECISÃO AGRAVADA. DECISÃO QUE SEGUE MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Passo, de todo modo, ao exame do presente agravo interno.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Com efeito, como consignado na decisão agravada, relativamente à suposta violação aos artigos 489, § 1º, do Código de Processo Civil/2015, temos que as questões submetidas ao Tribunal a quo foram suficiente e adequadamente apreciadas, com abordagem integral dos temas e fundamentação compatível. Destarte, não há se falar em carência de fundamentação do acórdão recorrido.
+Ademais, consoante a jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio, o que é o caso dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFERIMENTO DO PEDIDO LIMINAR. POSSE VELHA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CABIMENTO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica.
+(..)
+6. Agravo interno não provido. (AgInt no AREsp 1089677/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+Por fim, no que concerne à suposta violação aos artigos 774, caput, inciso V, 835, inciso V, e, § 1º, e, 848, incisos I, e, IV, do Código de Processo Civil/2015, a Corte Estadual, erigiu seu entendimento totalmente calcado nas provas dos autos, valendo-se delas para concluir pela inexistência de justificativa plausível e de provas para alicerçar o pleito de substituição da penhora, bem como, ocorrência de ato atentatório à justiça, no caso concreto, senão vejamos (e-STJ Fls. 50/52, gn):
+"(..)
+No caso vertente, a penhora de dinheiro pelo sistema Bacen jud restou inexitosa (pp. 74-76), sendo possível a aplicação da hipótese prevista no §1º do art. 835 do CPC, que autoriza o Magistrado a alterar a ordem de preferência dos bens a serem penhorados.
+Pelos elementos contidos no autos, denota-se que foram efetuadas duas diligências pelo oficial de justiça na tentativa de encontrar bens à serem penhorados, ambas inócuas (pp. 61 e 63 da execução)
+Ademais, a Agravada não é obrigada a aceitar os veículos em substituição ao imóvel penhorado apenas porque a Executada assim deseja. Oportuno lembrar que embora a Execução deva seguir pelo modo menos gravoso à Devedora (artigo 805 do CPC/2015), é certo que deve ela, outrossim, concretizar-se no interesse da Credora (art. 797, caput, do CPC/2015)
+Destarte, tendo em conta a recusa expressa da Agravada à substituição da penhora (pp. 127-134 da execução), bem como a inexistência dejustificativa plausível e de provas para alicerçar o pleito da Agravante, não há razões para a reforma da decisão agravada, devendo ser mantida a penhora sobre o imóvel matriculado no Registro de Imóveis da Comarca de Itapema n.5008 do Registro de Imóveis da Comarca de Itapema (p. 100).
+No que tange à multa por ato atentatório à dignidade da Justiça, esta decorre da própria lei, conforme dispõe o art. 774 do CPC:
+Considera-se atentatória à dignidade da justiça a conduta comissiva ou omissiva do executado que:
+I- frauda a execução;
+II- se opõe maliciosamente à execução, empregando ardis e meios artificiosos;
+III - dificulta ou embaraça a realização da penhora;
+IV - resiste injustificadamente às ordens judiciais;
+V - intimado, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se foro caso, certidão negativa de ônus.
+Parágrafo único. Nos casos previstos neste artigo, o juiz fixará multa em montante não superior a vinte por cento do valor atualizado do débito em execução, a qual será revertida em proveito do exequente, exigível nos próprios autos do processo, sem prejuízo de outras sanções de natureza processual ou material. (destacou-se)"
+Portanto, desnecessário ao Magistrado tecer vasta argumentação sobre a aplicação da sanção, pois a inércia do Devedor em indicar bens à penhora, já configura ato atentatório à dignidade da Justiça, não havendo que se falar em ausência de fundamentação da decisão agravada.
+A alegação de que não foi intimada para indicar bens à penhora também não se sustenta, pois no próprio mandado de citação consta a informação de que a ausência de pagamento da dívida, autoriza a penhora dos bens da Devedora, nos termos do art. 829 do CPC, que reza:
+Art. 829. O executado será citado para pagar a dívida no prazo de 3(três) dias, contado da citação.
+§ 1º Do mandado de citação constarão, também, a ordem de penhora e a avaliação a serem cumpridas pelo oficial de justiça tão logo verificado o não pagamento no prazo assinalado, de tudo lavrando-se auto, com intimação do executado.
+§ 2º A penhora recairá sobre os bens indicados pelo exequente, salvo se outros forem indicados pelo executado e aceitos pelo juiz, mediante demonstração de que a constrição proposta lhe serámenos onerosa e não trará prejuízo ao exequente. (sublinhou-se
+Portanto, constatando-se, em juízo de cognição sumária, a regularidade da penhora e da multa imputada à Executada, a decisão objurgada deve ser mantida".
+(..)
+A tese de que teria havido qualquer espécie de desvirtuamento da perícia não comporta acolhimento, pois a exclusão de encargos sobre a dívida é questão que deveria, como de fato foi, dirimida pelo órgão julgador, não pelo perito, que apenas atendeu ao comando judicial ao realizar seus cálculos"(e-STJ Fls. 1.363/1.364, gn).
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir as afirmações contidas no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PELO DEVEDOR DE BENS A SEREM PENHORADOS. CONFIGURAÇÃO DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o credor esgotou os meios de localização de bens penhoráveis do devedor e apresentou demonstrativo atualizado do débito, o que autoriza a intimação do devedor para indicar bens à penhora, sob pena de incidência na penalidade prevista pelo art. 774, parágrafo único, do CPC/2015.
+2. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. A incidência da multa no caso concreto, vale frisar, não é objeto de discussão no presente recurso, uma vez que, para sua aplicação, será necessário verificar o elemento subjetivo, consistente no dolo ou culpa grave do devedor, que deve ser reconhecido pelas instâncias ordinárias.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1559242/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/05/2020, DJe 18/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N.2/STJ. AÇÃO REVOCATÓRIA. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DA EXECUTADA PARA FAZER A INDICAÇÃO DE BENS SUJEITOS À PENHORA. DESCUMPRIMENTO INJUSTIFICADO DA ORDEM JUDICIAL. IMPOSIÇÃO DA MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA (ARTS. 600, IV, E 601 DO CPC/1973). AFASTAMENTO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. ALÍNEA "C". AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE O V. ACÓRDÃO ESTADUAL E OS ARESTOS PARADIGMAS. AGRAVO IMPROVIDO.
+1. Nos termos do Enunciado Administrativo n. 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. A jurisprudência do Superior Tribunal de Justiça tem pacificado o entendimento de que perquirir se houve ou não a prática de ato atentatório à dignidade da Justiça por parte do devedor que, nos termos do art. 600, IV, do CPC/1973, é intimado, especificamente, para indicar ao Juízo a localização de penhoráveis e o respectivo valor, no prazo de 5 (cinco) dias, e não cumpre a ordem judicial tampouco justifica a impossibilidade de fazê-lo, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+3. No caso vertente, o eg. Tribunal de origem manteve intacta a multa de 10% (dez por cento) sobre o valor da execução imposta pelo Juízo a quo à agravante em razão da prática de ato atentatório à dignidade da Justiça, por entender que, sendo o feito bastante longevo, várias diligências infrutíferas e tendentes à localização de bens penhoráveis já foram realizadas e a agravante foi intimada, especificamente, para fazer a indicação desses bens;porém, durante o prazo fixado de 5 (cinco) dias, permaneceu omissa e silente, concretizando, assim, a hipótese prevista no art. 600, IV, do CPC/1973. Nesse contexto, a modificação do entendimento esposado no v. acórdão recorrido implicaria reexame do acervo fático dos autos, o que é inviável em sede de recurso especial, nos moldes do que dispõe a Súmula 7 do STJ. Precedentes.
+4. A admissibilidade do recurso especial pela alínea "c" do permissivo constitucional exige a demonstração de similitude fática entre o acórdão recorrido e o paradigma confrontado, de forma a evidenciar o dissídio jurisprudencial, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+5. No caso vertente, ao passo que as instâncias ordinárias fundamentaram suas conclusões quanto à caracterização de ato atentatório à dignidade da Justiça, com base na inércia da recorrente (art. 600, IV, do antigo Diploma Processual), somada à inviabilidade de localização de seus benspenhoráveis, os arestos paradigmas entenderam que a imposição da multa por ato atentatório à Justiça, na hipótese de litigância temerária, condiciona-se à verificação do elemento subjetivo, qual seja o dolo.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 529.845/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO NOS CÁLCULOS. SÚMULA 7 DO STJ. GARANTIA DO JUÍZO COM SEGURO FIANÇA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É pacifico no âmbito desta Corte que, dentre os bens penhoráveis, o dinheiro é preferencial aos demais, de acordo com a ordem legal estabelecida no CPC. A necessidade de substituição da garantia por outro bem é admitida somente em hipóteses excepcionais, desde que não ocasione prejuízo ao exequente.
+2. A revisão do acórdão recorrido, para o acolhimento da pretensão recursal importaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede especial, a teor da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1288361/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 17/09/2018)
+Cumpre asseverar que, referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Diante de tais considerações, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
