@@ -1,0 +1,24 @@
+DECISÃO
+REGIANE RODRIGUES DE SOUZAalega sofrer coação ilegalem face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Busca, por meio de defensor constituído, a retificação do cálculo de benefícios, para que seja considerado, como termo inicial para nova progressão de regimea data em quepreencheu o requisito objetivo do art. 112 da LEP.
+Decido.
+No caso dos autos, o Tribunal de origem determinou "a retificação do cálculo de fls. 08/09 para que conste como marco inicial para a progressão de regime a data da satisfação de ambos os requisitos para obtenção do benefício, ou seja, a data da elaboração do atestado comprobatório de bom comportamento carcerário" (fl. 59).
+Não olvido o anterior entendimentodesta Corte, de que:
+ ..
+1. O Supremo Tribunal Federal, no HC n. 115.254/SP, passou a adotar o posicionamento de que, por ter a decisão que concede a progressão de regime natureza meramente declaratória, o marco inicial para a concessão do benefício é a data do preenchimento dos requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. No caso em análise, embora preenchido anteriormente o requisito objetivo pelo paciente, o lapso inicial a ser considerado para fins de promoção carcerária é o momento em que foi implementado oúltimo requisito legal, o qual, segundo a Corte estadual, foi atestado por meio de "Informações Psicológicas e Relatório Social, elaborados em 31 de julho de 2019e assinados por psicólogo e assistente social respectivamente, atestando o mérito do paciente para a obtenção da almejada progressão de regime", ocasião em que entendeu estar preenchido o requisito subjetivo.
+3. Nesse contexto, verifica-se que o Tribunal de origem, ao definir como termo inicial para fins de progressão de regime o momento em que atingidos os requisitos objetivo e subjetivo para o regime aberto, decidiu em consonância com a jurisprudência deste Sodalício.
+ ..
+(AgRg no HC 540.250/SP, Rel. MinistroJorge Mussi, 5ª T., DJe 16/3/2020).
+Entretanto, na última sessão da Sexta Turma, realizada em 9/3/2021, foi julgado o HC n. 638.702/SP e prevaleceu nova orientação, unânime, de que "possuindoo reeducando atestado de bom comportamento carcerário, deve-se considerar como data-base para futura progressão de regime o dia em que efetivamentepreencheu o requisito objetivo" do art. 112 da LEP.
+Nahipóteseem que o apenado preencheu o lapso objetivo da progressão, mas tem faltas disciplinares ainda não reabilitadas para efeitos de reclassificação de comportamento, não há falar em possibilidade de declaração do benefício e observância do efeito ex tunc da decisão, pois, obviamente, não estavam satisfeitos os requisitos legais do art. 112 da LEP.
+Tem de ser observado, pelo Juiz da VEC, se o reeducando possuía, de fato, bom comportamento carcerário quandoatingiu o lapso temporal para promoção de regime, independente da demora e daemissão posterior do documento pela direção carcerária.
+Assim, na hipótese sob exame, se o paciente, na data em que implementou o prazonecessário para transferência ao regime mais brando,não tinha faltas disciplinares ainda sujeitas à reabilitação, é essa a data-basea ser considerada para nova progressão, pois o reeducando, efetivamente, já possuía os requisitos objetivo e subjetivo do art. 112 da LEP, mas, ante o sistema burocratizado de trâmite da execução penal, seu direito foi declarado posteriormente, com efeitos ex tunc.
+Doravante, passo a observar o hodiernoentendimento do colegiado,de que:
+ .. 1. Desde a edição da Lei 10.792/03, a realização de exame criminológico deixou de constar do rol dos requisitos legais para a progressão de regime, não podendo a data-base para a concessão do benefício ficar atrelada à emissão de laudo pericial favorável ao reeducando, sob pena de se criar uma exigência não prevista em lei, em manifesta afronta ao princípio da reserva legal.
+2. Possuindo o reeducando bom comportamento carcerário, deve-se considerar como data-base para a progressão de regime o dia em que efetivamente preenchido o requisito objetivo e não a data de conclusão do exame criminológico favorável ao apenado, uma vez que antes mesmo da elaboração do laudo técnico, o requisito subjetivo, ou seja, o bom comportamento, já havia se implementado.
+3.Habeas corpusconcedido paraparadeterminar que o Juízo das Execuções Criminais estabeleça, como data-base para futura progressão de regime, o dia em que o paciente efetivamente preencheu os requisitos objetivo e subjetivo, e não a data de apresentação do exame criminológico favorável ao apenado.
+ ..
+(HC n. 538.702/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/3/2021, DJe 15/3/2021).
+À vista do exposto, concedo a ordem, in limine,para determinar aoJuízo das Execuçõesque estabeleça, como data-base para futura progressão de regime, o dia em que o reeducando, possuidor da classificação debom comportamento carcerário,efetivamente preencheu o requisito objetivo do art. 112 da LEP.
+Publique-se e intimem-se.
