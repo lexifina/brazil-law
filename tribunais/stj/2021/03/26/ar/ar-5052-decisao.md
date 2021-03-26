@@ -1,0 +1,9 @@
+DECISÃO
+Recorde-se que a presente ação rescisória foi extinta, sem resolução do mérito, sendo condenada a parte autora ao pagamento de honorários advocatícios sucumbenciais arbitrados em 10% (dez por cento) do valor da causa (fls. 1.322-1.326).
+Os aclaratórios opostos pela parte autora foram acolhidos parcialmente para facultar-lhe o levantamento do depósito prévio a que se refere art. 488, II, do CPC/1973. Ainda, restou explicitado que, "sendo o valor atualizado da causa superior ao valor previsto no inciso I do § 3º do art. 85 do CPC/2015, a fixação dos honorários advocatícios, nos percentuais mínimos, deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente" (fls. 1.340-1.342).
+Na sequência, o despacho de fl. 1.354 autorizou o levantamento do depósito judicial previsto no art. 488, II, do CPC/1973, em favor da parte autora.
+Em atenção à decisão de fl. 1.380, que aludiu à existência de saldo na conta em que fora realizado o depósito judicial em comento, a parte autora peticionou às fls. 1.382-1.383 para informar seu interesse na transferência, em seu favor, do valor disponível na conta judicial indicada, bem como para dizer que seus dados bancários não foram alterados.
+O Ofício nº 00484/2020 AG 0847 DF, oriundo da Caixa Econômica Federal, informou que procedera ao levantamento dos valores da conta judicial e os transferiu para a conta de titularidade da parte autora, consoante comprovantes apresentados (fls. 1.387-1.389).
+Por fim, a autora, mediante a petição de fls. 1.394-1.395, informou que "o alvará de levantamento com ordem de transferência nº 19/2020-CEJU foi devidamente liquidado (..), não havendo mais nada a requerer nos presentes autos".
+Ante o exposto, realizado o levantamento do depósito a que se refere o art. 488, II, do CPC/1973, pela parte autora e nada mais havendo a deferir, determino o arquivamento dos autos.
+Publique-se. Intimem-se.
