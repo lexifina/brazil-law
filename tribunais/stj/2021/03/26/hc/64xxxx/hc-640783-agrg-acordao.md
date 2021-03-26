@@ -1,0 +1,34 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL FECHADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE NA FIXAÇÃO DO REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão referente à alteração do regime inicial fixado para o cumprimento da pena não foi apreciada pelo Tribunal de origem, ficando impossibilitada a manifestação do Superior Tribunal de Justiça, sob pena de indevida supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+2. Não há flagrante ilegalidade em razão da fixação do regime fechado, ainda que para fins da concessão da ordem de ofício, porquanto ficou assente na sentença condenatória a existência de circunstâncias judiciais desfavoráveis bem como a reincidência do agravante, o que impede a fixação de regime diverso do fechado, conforme pacífica jurisprudência deste Tribunal acerca da controvérsia.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por LUIS CLAUDIO DA COSTA contra a decisão de e-STJ fls. 111/113, por meio da qual não conheci do habeas corpus.
+Na hipótese, o agravante foi condenado, por infração aos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena 12 (doze) anos e 10 (dez) meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 1.715 (mil setecentos e quinze) dias-multa (e-STJ fls. 44/49), isso porque, "no dia 17 de abril de 2009, por volta das 19h20min, na Rua Pedra Ribeiro Abrami, 188, no Bairro Jardim Santa Rita de Cássia, nesta Cidade e Comarca de Tatuí, o réu LUIS CLÁUDIO DA COSTA, previamente ajustado com os demais corréus (processados criminalmente nos autos do feito de nº 3982-2/09, da 2ª Vara Criminal de Tatuí), trazia consigo e forneceu, para fins de tráfico,  998g - novecentos e noventa e oito gramas  de "maconha", substância entorpecente e que determina dependência física e psíquica, fazendo-o sem autorização e em desacordo com determinação legal e regulamentar" (e-STJ fl. 44).
+A defesa interpôs recurso de apelação no Tribunal de origem, que lhe deu parcial provimento para absolver o agravante do delito previsto no art. 35 da Lei n. 11.343/2006, redimensionando a pena para 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa (e-STJ fls. 32/43, acórdão sem ementa).
+Neste writ, a defesa sustentou a ilegalidade do acórdão, no ponto em que manteve o regime fechado sem nenhum fundamento concreto e idôneo, afrontando o entendimento das Cortes Superiores sobre a inconstitucionalidade da norma disposta no art. 2º, § 1º, da Lei n. 8.072/1990.
+Às e-STJ fls. 111/113, não conheci do habeas corpus em razão da supressão de instância, destacando a ausência de qualquer ilegalidade flagrante apta a ensejar a concessão da ordem, ainda que de ofício.
+Nesta oportunidade, o agravante reitera a possibilidade de estabelecimento de regime inicial menos gravoso, destacando, em síntese, que, "com a superveniência da inconstitucionalidade do art. 2º, § 1º, da Lei nº 8.072/90 o regime fechado deveria ser imediatamente afastado, dando-se o início da pena no modo semiaberto, em virtude da omissão das Instâncias Ordinárias em expressamente consignar a quantidade da droga, antecedência e reincidência do agravante ao estabelecer esse regime mais gravoso" (e-STJ fl. 130).
+Requer, ao final, o provimento do recurso a fim de fixar o regime semiaberto para o início de cumprimento da pena.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece prosperar.
+Consoante asseverei na decisão ora agravada, o pedido deduzido no presente writ é idêntico ao contido no HC n. 536.238/SP, ocasião em que destaquei a impossibilidade de conhecimento da irresignação trazida, em virtude da ausência de apreciação da matéria pelo Tribunal de origem.
+Isso, porque, conforme constou do relatório apresentado pelo Tribunal de origem no julgamento da apelação, os pedidos encartados pela defesa cingiram-se ao seguinte (e-STJ fls. 33/34):
+Apelaram os sentenciados em busca de reforma da decisão. Aduziram, em síntese, que não restou suficientemente provado que habitualmente comercializavam drogas, muito menos que agiam associados para o tráfico de drogas. Asseveraram que o exame da prova não autoriza o reconhecimento da procedência da denúncia (razões de fls. 584 e 624).
+Nessa tessitura, compreendi que esta Corte não poderia conhecer da questão referente à alteração do regime inicial fixado para o cumprimento da pena, tendo em vista a ausência de manifestação do Tribunal de origem sobre o tema, ficando impossibilitada a manifestação do Superior Tribunal de Justiça, sob pena de indevida supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Acrescentei que não está configurada ilegalidade flagrante que justifique a concessão da ordem, ainda que de ofício, uma vez que, não obstante o agravante tenha sido absolvido do delito de associação para o tráfico de drogas, ficou assente na sentença condenatória a existência de circunstâncias judiciais desfavoráveis - quantidade de drogas e maus antecedentes -, bem como sua reincidência (e-STJ fl. 47), o que impede a fixação de regime diverso do fechado, conforme pacífica jurisprudência deste Tribunal acerca da quaestio.
+Colacionei, acerca do tema, o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA SUPERIOR A 4 ANOS. RÉU REINCIDENTE. PENA-BASE ACIMA DO MÍNIMO LEGAL. FIXAÇÃO DE REGIME INICIAL FECHADO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Esta Corte Superior de Justiça já decidiu, reiteradas vezes, que é cabível a imposição do regime inicial fechado ao réu reincidente condenado à pena superior a quatro anos de reclusão. Além disso, o regime fechado também se impõe em razão da fixação da pena-base acima do mínimo legal pelo reconhecimento de circunstâncias judiciais desfavoráveis, quais sejam, os antecedentes e a personalidade.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1337900/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/10/2018, DJe 13/11/2018, grifei)
+Mantenho a decisão agravada, portanto, por seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
