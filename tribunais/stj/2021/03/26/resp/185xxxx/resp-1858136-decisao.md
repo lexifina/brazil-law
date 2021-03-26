@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por NASP LOGÍSTICA E TRANSPORTES LTDA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+DIREITO PÚBLICO - RECURSO DA AUTORA AÇÃO ANULATÓRIA - INFRAÇÃO DE TRÂNSITO - ALEGAÇÃO DE FALTA DE DUPLA NOTIFICAÇÃO - MULTA A PESSOA JURÍDICA POR AUSÊNCIA DE INDICAÇÃO DO CONDUTOR DO VEÍCULO SENTENÇA DE IMPROCEDÊNCIA DESNECESSIDADE DE DUPLA NOTIFICAÇÃO Multa por ausência de indicação, por pessoa jurídica, do condutor do veículo não configura infração de trânsito, mas sanção administrativa Não aplicação das regras do artigo 280 e seguintes do C.T.B. Desnecessidade de dupla notificação Sentença mantida Recurso desprovido
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial, violação do art. 281 da Lei n. 9.503/1997 Código de Trânsito Brasileiro, sustentando, em síntese (fls. 499/524):
+Verifica-se, portanto, pela concatenação dos parágrafos 1º e 8o do artigo 257 do CTB que a ausência de identificação do condutor em caso de infração de trânsito cometida na condução de veículo automotor de propriedade de pessoa jurídica implica em nova penalidade. Desnecessário dizer que a multa decorrente de descumprimento a preceito estabelecido na legislação de trânsito, por ser sanção a uma conduta, deve ser precedida de notificação da autuação, no exato sentido do que determinam os artigos 280 e 281, retro mencionados, permitindo a defesa prévia do proprietário do veículo antes de ser imposta, independentemente da conduta tipificada ser na condução do veículo ou não, pois todas são infrações de trânsito.
+ ..
+Contrarrazões apresentadas pelo MUNICÍPIO DE SÃO PAULO (fls. 612/623).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O acórdão recorrido está em confronto com a orientação jurisprudencial deste Tribunal Superior; vide:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA DE TRÂNSITO À PESSOA JURÍDICA. PENALIDADE POR NÃO IDENTIFICAÇÃO DO CONDUTOR. NECESSIDADE DE DUPLA NOTIFICAÇÃO. AGRAVO INTERNO DO DER A QUE SE NEGA PROVIMENTO.
+1. Na origem, trata-se de ação anulatória de multas de trânsito previstas no art. 257, § 8o. do CTB, decorrentes da não indicação do condutor no caso de infração aplicada contra veículo de propriedade de Pessoa Jurídica, chamadas multas multiplicadoras.
+2. A Corte de origem dirimiu a controvérsia afastando a necessidade da dupla notificação. No entanto, tal entendimento está em dissonância com a jurisprudência desta Corte, segundo a qual a multa aplicada à pessoa jurídica proprietária do veículo em razão da não identificação do condutor da infração exige as notificações da autuação e da aplicação da penalidade, conforme estabelecido nos artigos 280, 281 e 282 do Código de Trânsito Brasileiro.
+3. Agravo Interno do DER a que se nega provimento.
+(AgInt no REsp 1851111/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 29/06/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TRÂNSITO. VEÍCULO DE PESSOA JURÍDICA. MULTA POR NÃO IDENTIFICAÇÃO DO CONDUTOR. NECESSIDADE DE DUPLA NOTIFICAÇÃO. SÚMULA 312/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça pacificou o entendimento no sentido de que "a norma dos arts. 280, 281 e 282 do CTB se aplica à imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito. Precedentes: Aglnt nos EDcl no AREsp 1.219.594/SP, Rei. Min. Francisco Falcão, Segunda Turma, DJe 24/10/2018; REsp 1.736.145/SP, Rcl. Min. Regina Helena Costa, Primeira Turma, DJe 20/8/2018 e REsp 1.666.665/SP, Rei. Min. Herman Benjamin, Segunda Turma, DJe 19/06/2017". (REsp 1790627/SP, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2019, DJe 30/05/2019).
+3. Agravo interno não provido.
+(AgInt no REsp 1829234/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 27/11/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CÓDIGO DE TRÂNSITO BRASILEIRO. MULTA POR AUSÊNCIA DE INDICAÇÃO DO RESPONSÁVEL PELA CONDUÇÃO DE VEÍCULO DE PROPRIEDADE DE PESSOA JURÍDICA. NECESSIDADE DE DUPLA NOTIFICAÇÃO (AUTUAÇÃO DA INFRAÇÃO E POSTERIOR IMPOSIÇÃO DE MULTA).
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Destarte, fixada a tese jurídica no sentido da desnecessidade da lavratura de nova autuação e consequente notificação na sanção pela não indicação de condutor quando o veículo é registrado em nome de pessoa jurídica, de rigor a manutenção da r. sentença de primeiro grau." 2. Nos termos da jurisprudência do STJ, a norma dos arts. 280, 281 e 282 do CTB se aplica à imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito.
+3. Consoante a Súmula 312/STJ, no processo administrativo, para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração.
+4. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+5. Recurso Especial provido.
+(REsp 1879009/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020)
+No caso dos autos, como não é adequado o exame do acervo probatório, os autos devem retornar ao tribunal de justiça para novo julgamento, ficando decidido, desde logo, que as multas por não indicação do condutor também se submetem às fases da autuação e da aplicação da penalidade, razão pela qual necessária a notificação em ambas.
+Ante o exposto, dou provimento ao recurso especial, casso o acórdão recorrido e determino o retorno dos autos para novo julgamento do recurso de apelação.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE TRÂNSITO. NÃO INDICAÇÃO DO CONDUTOR. MULTA ADMINISTRATIVA. AUTUAÇÃO E PENALIDADE. FASES DISTINTAS. NOTIFICAÇÃO. OBRIGATORIEDADE. RECURSO PROVIDO.
