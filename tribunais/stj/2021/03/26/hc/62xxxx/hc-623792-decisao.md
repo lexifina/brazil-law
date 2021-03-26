@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de MARCOS DIAS DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no julgamento do HC n. 0809468-90.2020.8.14.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 9/9/2020 pela suposta prática do delito tipificado no art. 33 da Lei 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva após requerimento do Ministério Público.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS LIBERATÓRIO, COM PEDIDO LIMINAR. TRÁFICO DE DROGAS. AUSÊNCIA DE FUNDAMENTAÇÃO NO DECRETO PRISIONAL. IMPROCEDÊNCIA. DECISÃO DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES FAVORÁVEIS DO AGENTE. IRRELEVÂNCIA NO CONTEXTO (SÚMULA Nº. 08 DO TJPA). ORDEM CONHECIDA E DENEGADA.
+1. Não há que se falar em constrangimento ilegal quando o decreto prisional se encontra devidamente fundamentado na manutenção da ordem pública, tendo em vista a gravidade concreta do delito, sobretudo considerando a quantidade e diversidade de droga apreendida.
+2. A existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. (Súmula nº 08/TJPA).
+3. Ordem conhecida e denegada" (fl. 41).
+No presente writ, o impetrante informa, inicialmente, que o paciente está preso há 50 dias, sem que tenha sido concluído o inquérito policial e oferecida denúncia. Aponta, portanto, a existência de excesso de prazo no encerramento da investigação.
+Sustenta que trabalhava como frentista do posto de combustível e apenas vendia aos caminhoneiros a substância apreendida, denominada "rebite". Aponta que as drogas pertenciam ao proprietário do posto e era prática comum sua venda no local.
+Aponta que o paciente é um jovem de 21 anos, conta com condições pessoais favoráveis e está disposto a contribuir com a elucidação dos fatos.
+Assevera a ausência de fundamentação idônea para a prisão preventiva do paciente, baseada apenas na gravidade abstrata do delito. Destaca não estarem presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do paciente.
+A defesa pugna pela intimação da data da sessão de julgamento para realização de sustentação oral.
+A liminar foi indeferida às fls. 83/85. Informações prestadas às fls. 93/95 e 98/105. O Ministério Público Federal opinou pelo não conhecimento dowrit em parecer acostado às fls. 107/111. Juntado pedido de prioridade no julgamento às fls. 113/117.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Inicialmente, conforme informações obtidas na página eletrônica do Tribunal deorigem, verifica-se que, 22/2/2021, nos autos da Ação Penal n. 0000821-37.2020.8.14.0034,foi certificado que o alvará de soltura expedido em favor do ora paciente foi cumprido em 19/2/2021.
+Assim, não há como negar a perda superveniente do objeto deste mandamus na parte que impugna a manutenção da custódia antecipada.
+Noutro giro, cumpre ressaltar que o habeas corpus não é a via adequada para discussão acerca da tese de negativa de autoria, questão esta que demanda exame fático-probatório, incompatível com a via eleita, ação constitucional de rito célere e de cognição sumária.
+Confira-se, nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSSOCIAÇÃO PARA O TRÁFICO. NEGATIVA DE AUTORIA E MATERIALIDADE.ALEGAÇÃO DE INOCÊNCIA. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA.FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE DROGAS.SEGREGAÇÃO JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COVID-19. RÉU NÃO INSERIDO NO GRUPO DE RISCO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. A tese de que não há prova suficiente de autoria e materialidade em relação ao delito imputado consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. Na hipótese, é necessário verificar que a decisão do Magistrado de primeiro grau e o acórdão impetrado encontram-se fundamentados na garantia da ordem pública, considerando, sobretudo, a elevada quantidade e a variedade das drogas apreendidas - 532g de cocaína e 23g de maconha -, bem como a existência de provável associação voltada para o tráfico de entorpecentes, circunstâncias essas que, além de demonstrarem a gravidade exacerbada das condutas imputadas, evidenciam a periculosidade social do acusado, apontando para o seu significativo envolvimento com o narcotráfico. Prisão preventiva devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP.
+4. Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão; o contexto fático indicam que as providências menos gravosas seriam insuficientes para acautelar a ordem pública. Precedentes.
+6. Não se desconhece o grave momento que estamos vivendo, diante da declaração pública da situação de pandemia pelo novo coronavírus, no dia 30 de janeiro de 2020, pela Organização Mundial de Saúde, que requer a adoção de medidas preventivas de saúde pública para evitar a sua propagação.
+7. Todavia, essa relevante circunstância não tem o condão de permitir a revogação automática de todas as prisões cautelares. No presente caso, os documentos carreados aos autos não evidenciam que o agravante se encontra no grupo de risco ou nas hipóteses previstas na Recomendação n. 62 do CNJ para fins de revogação da prisão preventiva, ou concessão da prisão domiciliar.
+8. Agravo regimental a que se nega provimento.
+(AgRg no RHC 142.016/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/03/2021).
+Ante o exposto, não conheço do presentehabeas corpus.
+Publique-se.
+Intimem-se.
