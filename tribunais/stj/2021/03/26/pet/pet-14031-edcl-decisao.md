@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração, em petição avulsa, opostos por JOSE FURTUNATO ALEXANDRE FILHO contra decisão que não conheceu o pedido de extensão dos efeitos de acórdão proferido pelo Tribunal de Justiça da Paraíba, na Apelação Criminal n.º 0000021-38.2017.8.15.0211, que reduziu as penas dos corréus apelantes.
+Em razões, alega o embargante que o pedido já foi analisado pelo Tribunal a quo prolator do acórdão, no qual foi decidido que a competência para julgar o habeas corpus ali impetradoseria do STJ.
+Aponta, assim, omissão no julgado e requer seja analisado o pedido.
+É o relatório.
+Decido.
+Conforme jurisprudência desta Corte, "são cabíveis embargos de declaração quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no art. 619 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência." (EDcl no REsp 1.524.525/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018).
+Na espécie, não há qualquer víciono julgado.
+O embargante alega que impetrou habeas corpus perante a Corte a quo pugnando pela extensão dos efeitos da decisão proferida em grau de apelação em favor dos corréus. Owrit não foi conhecido nos termos do art. 105, inciso I, alíneas "a" e"c", da Constituição Federal. De fato, é do Superior Tribunal de Justiça a competência para o julgamento de habeas corpus, quando o ato coator foi de Tribunal sujeito à sua jurisdição.
+Porém, conforme consignado na decisão embargada, o requerente requereu a extensão dos efeitos de acórdão proferido pelo Tribunal de Justiça da Paraíba, no julgamento de recurso de apelação interposto pelos corréus nos autos de ação penal, na qual foram condenados a penas iguais de 21 anos e 9 meses de reclusão, em regime inicial fechado, além do pagamento de 2.492 dias-multa, pela prática dos delitos descritos no art. 33, caput, e no art. 35, ambos da Lei n.º 11.343/2006.No entanto, a defesa não se valeu dos recursos adequados à sua pretensão, impetrando habeas corpus contra o acórdão proferido naapelação perante o próprio Tribunala quo, situação que levou ao não conhecimento do writ, e ajuizando o pedido de extensão dos efeitos daqueleacórdãoperante esta Corte Superior, que não tem competência para tal análise.
+Caberia à defesa impugnar o acórdão que não conheceu do habeas corpus por meio de recurso direcionado ao STJ (art. 105, inciso II, alínea "a", da CF) ou se valer de pedido de extensãodiretamente perante o Tribunal de Justiça da Paraíba, prolatordo decisum.
+Sendo assim, rejeito os embargos de declaração.
+Publique-se. Intime-se.
