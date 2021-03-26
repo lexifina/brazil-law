@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA DE TRAB RUR E REF AGR DO C OESTE DO PR LTDA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. ANULATÓRIA DE DÉBITO FISCAL. ICMS. SENTENÇA DE IMPROCEDÊNCIA. PRELIMINAR. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. INDEFERIMENTO. PROVA SEM O CONDÃO DE ILIDIR A PROVA CONSTITUÍDA EM SENTIDO CONTRÁRIO. PROVA INÚTIL. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. EXEGESE DO ART. 370, PARÁGRAFO ÚNICO, DO CPC. AUTO DE INFRAÇÃO LAVRADO COM BASE NO ART. 55, §1º, INCISO II, DA LEI ESTADUAL Nº 11.580/1996. AUSÊNCIA DE REGISTRO DE NOTAS FISCAIS PELA CONTRIBUINTE. INFRAÇÃO AVERIGUADA. PRESUNÇÃO DE VERACIDADE E LEGALIDADE NÃO DESCONSTITUÍDA. MANUTENÇÃO DA CONDENAÇÃO DA AUTORA AO PAGAMENTO DOS ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC. MAJORAÇÃO.
+No recurso especial, o recorrente aponta violação aos arts. 1º e 370 do CPC/2015, alegando, em síntese, que o juiz só pode considerar a prova inútil após sua produção.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Verifica-se que a irresignação do recorrente acerca da natureza da prova que buscava produzir, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu, in verbis:
+O fato da autora alugar o estabelecimento para terceiro não significa por si só que deixou de exercer atividade empresarial no período de 27/03/2002 a 08/03/2003, de modo que a produção de prova o fato. testemunhal afigura-se insuficiente para demonstrar O encerramento regular da atividade no período de 27/03/2002 a 08/03/2003 deverá ser demonstrado apenas de forma documental, conforme art. 443, II, do Código de Processo Civil.
+Logo, considero meramente protelatória a produção de prova oral, de modo que a indefiro, com base no art. 370, parágrafo único, do Código de Processo Civil.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
