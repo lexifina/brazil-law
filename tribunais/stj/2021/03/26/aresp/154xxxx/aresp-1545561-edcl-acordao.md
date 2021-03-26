@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.AGRAVO INTERNO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I -Na origem, trata-se de ação objetivando a nulidade de débito fiscal relativo àcobrança de ICMS, bem como a declaração de inexistência de relação jurídica. Por sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a sentença foi parcialmente reformada apenas para alterar os honorários advocatícios fixados. Nesta Corte, não se conheceu do agravo em recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho do acórdão: "Mediante análise dos autos, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Abner Gomyde Neto.A parte, embora regularmente intimada para sanar o vício, não procedeu à devida regularização, uma vez que a petição de fls. 527/530 foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato. .. "
+V -As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a nulidade de débito fiscal relativo àcobrança de ICMS, bem como a declaração de inexistência de relação jurídica. Por sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a sentença foi parcialmente reformada apenas para alterar os honorários advocatícios fixados.
+O recurso especial foi interposto contra acórdão com a seguinte ementa:
+Ação anulatória de débito fiscal - AIIM lavrado por falta de pagamento de ICMS na saída de massa asfáltica ("produzida" fora de canteiro de obra) e pedra brita (extraída na própria empresa) Filial que remeteu esses materiais para a matriz, ambas situados no Estado de São Paulo - Aplicação da Súmula 166 do STJ Admissibilidade, mesmo depois da LC 87/1996 Observância da orientação firmada pelo STJ no REsp. 1.125.133, submetido ao rito dos repetitivos Sentença de procedência mantida Honorários advocatícios arbitrados por equidade Admissibilidade Caso em que a aplicação do art. 85, § 3º, do CPC/2015 implicaria remuneração incompatível com a complexidade da demanda Pequena correção do dispositivo da sentença para deixar registrado que a anulação se restringe aos itens I e II do AIIM, pois apenas eles são objeto da demanda Apelos desprovidos e reexame necessário parcialmente acolhido.
+Não se conheceu do recurso diante da ausência de juntada de cadeia completa de procurações.
+Interposto agravo interno, este foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. AUSÊNCIA DE JUNTADA DE CADEIA COMPLETA DE PROCURAÇÃO. INTIMAÇÃO. JUNTADA DE PETIÇÃO FORA DO PRAZO. OCORRÊNCIA DE PRECLUSÃO TEMPORAL. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. SÚMULA N. 115 DO STJ.
+I - Na origem, trata-se de ação objetivando a nulidade de débito fiscal relativo a cobrança de ICMS, bem como a declaração de inexistência de relação jurídica. Por sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a sentença foi parcialmente reformada apenas para alterar o honorários advocatícios fixados.
+II - Aplica-se ao recurso o enunciado administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."III - Mediante análise dos autos, verifica-se que a parte recorrente não procedeu à juntada da procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Abner Gomyde Neto.
+IV - A parte, embora regularmente intimada, não procedeu à devida regularização, uma vez que a petição de fls. 527/530 foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+V - É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+VI - Ressalte-se, ainda, que a jurisprudência desta Corte Superior é assente também no sentido de que "é ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo insuficiente a alegação de erro na digitalização quandodesacompanhada de certidão comprobatória do Tribunal de origem". Nesse sentido, os seguintes julgados: AgInt no AREsp n. 493.560/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2018, DJe 28/11/2018; EDcl no AgRg no AREsp n. 574.760/CE, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 19/5/2015, DJe 2/6/2015.
+VII - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Defende a existência de omissão, sustentando, em resumo, que:
+(i) o patrono subscritor do agravo e do recurso especial possui procuração nos autos desde o ajuizamento da ação declaratória em primeira instância; (ii) não houve "falha" da embargante no sentido de não proceder a juntada da procuração, já que a formação do agravo não compete à parte; (iii) eventual falha da serventia na formação do instrumento não pode ser atribuída e entendida desfavoravelmente à parte; e (iv) a falha na formação incompleta pelo sistema de digitalização SOMENTE poderá ser atribuída à Secretaria do órgão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.AGRAVO INTERNO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I -Na origem, trata-se de ação objetivando a nulidade de débito fiscal relativo àcobrança de ICMS, bem como a declaração de inexistência de relação jurídica. Por sentença, julgaram-se procedentes os pedidos. No Tribunal de origem, a sentença foi parcialmente reformada apenas para alterar os honorários advocatícios fixados. Nesta Corte, não se conheceu do agravo em recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho do acórdão: "Mediante análise dos autos, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Abner Gomyde Neto.A parte, embora regularmente intimada para sanar o vício, não procedeu à devida regularização, uma vez que a petição de fls. 527/530 foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato. .. "
+V -As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe do seguinte trecho do acórdão:
+Mediante análise dos autos, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Abner Gomyde Neto.
+A parte, embora regularmente intimada para sanar o vício, não procedeu à devida regularização, uma vez que a petição de fls. 527/530 foi protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+ ..
+Ressalte-se, ainda, que a jurisprudência desta Corte Superior é assente no sentido de que "é ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo insuficiente a alegação de erro na digitalização quando desacompanhada de certidão comprobatória do Tribunal de origem". Nesse sentido, os seguintes julgados: AgInt no AREsp n. 493.560/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2018, DJe 28/11/2018; EDcl no AgRg no AREsp n. 574.760/CE, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 19/5/2015, DJe 2/6/2015.
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
