@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HELIO CARLOS DA SILVA NETO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 1513406-48.2019.8.26.0228.
+Consta dos autos que o Paciente foi condenado como incurso no art. 33, c.c. o art. 40, inciso VI, ambosdo Código Penal, às penas de 5 (cinco) anosde reclusão, em regime inicial fechado, e 500(quinhentos) dias-multa (fls. 28-29).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 30-43).
+Neste writ, a Parte Impetrante alega, em síntese, que o Paciente faz jus à incidência da causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei de Drogas, pois estão preenchidos todos os requisitos legais.
+Pleiteia, liminarmente e no mérito, "a concessão da ordem em favor do paciente para fazer incidir a minorante prevista no §4º do art. 33 da Lei nº 11.343/06, devendo ser aplicada no máximo legal" (fl. 10).
+Liminar deferida às fls. 81-83para, até o julgamento definitivo do habeas corpus, assegurar ao Paciente o cumprimento da pena imposta no regime inicial aberto, com regras a serem estabelecidas pelo Juízo das Execuções Criminais.
+Informações prestadas às fls. 93-128.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 130-133).
+É o relatório. Decido.
+São condições cumulativas para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas.
+No caso, o Juízode origem - referendado pelo Tribunal estadual - reconheceu a primariedade do Paciente e a ausência de maus antecedentes, porém afastou a incidênciada causa de diminuição de pena nos seguintes termos:
+"Postar-se o réu em local próprio para a traficância, munido de grande quantidade de drogas não resultou de outra motivação, senão, a confiança e experiência que goza dentre os pares a lhe favorecerem no fiel desempenho de prática relevante ao sucesso criminoso, dispondo-se o réu à prestação de contas a seus antecessores na posse do entorpecente, a garantir o sigilo da estrutura criminosa que sabe servir.
+Inconteste prova de dedicação à traficância e inserção na cadeia delitiva de crime organizado, guardadas as proporções hierárquicas do crime ainda não alcançadas pelo réu e ao que parece também à polícia investigativa Judiciária - fundamento pelo qual não aplico a redução na forma prevista no artigo 33 parágrafo 4º da Lei 11.343/06." (fl. 28, sem grifos no original).
+Todavia,os fundamentos apresentados não podem ser considerados por demais relevantes a ponto de negar a aplicação da causa especial de redução de pena, pois não são capazes, por si sós,de demonstrara dedicação doPacienteàs atividades criminosas. Ademais,ao contrário do que consignado, não foi apreendida quantidade exorbitante de entorpecentes (80g de maconha, 11,9g de cocaína e 23g de crack - fl. 19).
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. APLICABILIDADE DA CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 NO GRAU MÁXIMO.QUANTIDADE DE DROGA NÃO EXORBITANTE. AUSÊNCIA DE ELEMENTOS A DEMONSTRAR QUE O PACIENTE SE DEDICA A ATIVIDADE CRIMINOSA OU INTEGRA ORGANIZAÇÃO CRIMINOSA.
+ ..
+5. A apreensão de 210,1g (duzentos e dez gramas e um decigrama) de maconha e 4,4g (quatro gramas e quatro decigramas) de cocaína não se mostra suficiente para concluir pela dedicação do ora agravado à atividade criminosa, razão pela qual cabe a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima.
+6. De mais a mais, conforme já decidiu o Superior Tribunal de Justiça, "a circunstância de o paciente não haver eventualmente comprovado o exercício de atividade laboral não pode militar em seu desfavor na dosimetria da pena, por falta de amparo legal e constitucional, até porque o fato de estar desempregado não traduz, por evidente, conduta ilícita (HC n. 127.096/SP, Ministro Og Fernandes, Sexta Turma, DJe 14/12/2009)" (HC n. 265.101/DF, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/2/2014, DJe de 28/2/2014).
+7. Agravo regimental desprovido."(AgRg no HC 506.354/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/05/2020, DJe 03/06/2020, sem grifos no original).
+Portanto, passo a redimensionar as penas do Paciente.
+1.ª FASE - Em face da quantidade e natureza dos entorpecentes, mantenhoa pena-base em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa (fl. 37).
+2.ª FASE -Anteàatenuante da menoridade relativa (fl. 37), a pena intermediária retorna ao patamar mínimo legal.
+3.ª FASE - Devido à causa de aumento de pena prevista no art. 40, inciso VI, da Lei n. 11.343/2006, majoroa pena em 1/6 (um sexto). De outra parte, aplico a causa de diminuição de pena prevista noart. 33, § 4.º, da Lei n.11.343/2006 na fração de 2/3.
+Por oportuno, destaco que deixo de utilizar a quantidade e a diversidade de drogas apreendidas para modular a fração de redução em razão destes parâmetros já terem sido empregados na primeira fase da dosimetria, evitando-se, assim, indevido bis in idem.
+Desse modo, alcança-se a pena final de1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão e194 (cento e noventa e quatro) dias-multa.
+Em face do quantum da pena e considerando que o Paciente respondeu ao processo preso desde 04/06/2019 (fl. 16),fixo o regime inicialabertoesubstituo a pena de reclusãopor duas penas restritivas de direitos, a serem determinadas pelo Juízo dasExecuções Penais, nos termos doart. 44 e seguintes do Código Penal.
+Ante o exposto,CONCEDO aordem de habeas corpus paraaplicar a causaespecial de diminuição de pena prevista no art. 33, § 4.º, da Lei n.11.343/2006 em favor do Paciente e, por consequência, reduzir a pena imposta, fixar o regime inicialabertoesubstituira pena privativa deliberdade por duas penas restritivas de direitos a seremdeterminadas pelo Juízo das Execuções Penais, nos termos desta decisão.
+Comunique-se, com urgência, ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. EXECUÇÃO PROVISÓRIA DA PENA. SUPERVENIENTE TRÂNSITO EM JULGADO. PENA-BASE. EXASPERAÇÃO. PEQUENA QUANTIDADE DE DROGA. ILEGALIDADE.FRAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. REQUISITOS PREENCHIDOS. POSSIBILIDADE DE INCIDÊNCIA DA REDUTORA NA FRAÇÃO DE 2/3 (DOIS TERÇOS). REGIME INICIAL ABERTO. SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. HABEAS CORPUSCONCEDIDO.
