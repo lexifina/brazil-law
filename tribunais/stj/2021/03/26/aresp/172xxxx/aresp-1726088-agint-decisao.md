@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interno contra decisão, de fls. 416/417 (e-STJ), que não conheceu do agravo em recurso especial interposto.
+Em face das razões de fls. 424/451 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo em recurso especial interposto por BANCO BRADESCO S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Agravo em Recurso especial interposto em: 05/06/2020.
+Concluso ao gabinete em: 17/07/2020.
+Ação: de cobrança, em fase de cumprimento de sentença, ajuizada por JOSÉ CÂNDIDO DE PAULA - ESPÓLIO (interessado), tendo como advogado o escritório GERVÁSIO OLIVEIRA E ADVOGADOS ASSOCIADOS (agravado), em face do agravante, em razão de pagamentos indevidos de cheques por parte do demandante, cujos valores serão apurados em sede de liquidação de sentença.
+Decisão interlocutória: acolheu a impugnação ao cumprimento de sentença apresentada pelo agravante.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelo agravado, para rejeitar a impugnação apresentada nos autos de cumprimento de sentença de honorários (0017045-54.1993.8.12.0001/50001), nos termos da seguinte ementa:
+Agravo de instrumento - Impugnação ao cumprimento de sentença - Preliminar de inadequação da via eleita - Rejeitada - Decisão que não extingue o cumprimento de sentença - Mérito - Existência de título executivo - Honorários fixados para pronto pagamento em execução de sentença - Trânsito em julgado - Impossibilidade de alterar o valor dos honorários do processo de conhecimento - Recurso conhecido e parcialmente provido.
+01. O agravo de instrumento é o recurso adequado contra as decisões interlocutórias - que acolhem apenas em parte a impugnação e as que decidem por sua total improcedência -, proferidas na fase de cumprimento de sentença. No caso, tendo o magistrado determinado o cumprimento de sentença por outros valores, não há se falar em inadequação da via eleita.
+02. Não obstante a fixação dos honorários para pronto pagamento em execução provisória de sentença, é certo que os demais recursos não impugnaram os honorários propriamente ditos, mas apenas o crédito principal, tendo ocorrido o trânsito em julgado com relação a tal capítulo. Por esse motivo, referidos honorários são exigíveis pelo valor fixado.
+03. Conforme entendimento do STJ, se a parte não concorda com a estipulação de honorários de sucumbência fixados no acórdão, cumpre-lhe se insurgir a tempo e modo, não sendo possível que na fase de liquidação se proceda a revisão de decisão já acobertada pelo manto da coisa julgada material. Uma vez proferido comando judicial contrário ao interesse da parte ou formulado um pedido objeto de ulterior decisão desfavorável, inaugura-se em prol do requerente a faculdade de impugná-la, sob pena de colmatar-se sua intangibilidade.
+04. Em razão do mesmo fundamento do trânsito em julgado, não se faz possível, em impugnação ao cumprimento de sentença, alterar o valor fixado como honorários no processo de conhecimento.
+05. Recurso conhecido e parcialmente provido. (e-STJ, fl. 100/101)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega a violação dos art. 85, § 2º, 520, II, 803, I, e 1.022, todos do CPC/15. Além da negativa de prestação jurisdicional, sustenta:
+i) a ausência de título executivo judicial a autorizar a cobrança pelo agravado de honorários advocatícios, no importe de R$ 400.000,00; e
+ii) a desproporcionalidade da fixação de honorários de sucumbência na hipótese, tendo em vista serem superiores ao valor da obrigação principal.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do TJ/MS residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente no que concerne ao argumento de que a decisão que fixou honorários em favor do agravado em sede de cumprimento provisório perdeu efeito nos termos do art. 520, II, do CPC/15, pois o decisum executado provisoriamente pela parte agravada foi reformado e, com a reversão do julgado, todas as decisões proferidas na execução provisória perderam efeito.
+Segundo a parte agravante, o referido dispositivo do CPC/15 versa que o cumprimento provisório da sentença fica sem efeito, se sobrevier decisão que modifique ou anule a sentença objeto da execução. Dessa forma, as partes são restituídas ao estado anterior, liquidando-se eventuais prejuízos nos mesmos autos.
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração opostos pelo agravante, foi omisso quanto a este argumento. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+É firme a jurisprudência do STJ, no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe 20/10/2017; AgInt no AREsp 429.547/RJ, 4ª Turma, DJe 08/09/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo - portanto - a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, TORNO SEM EFEITO a decisão fls. 416/417 (e-STJ) e, em novo julgamento, CONHEÇO do agravo, para DAR PROVIMENTO ao recurso especial, com fundamento no art. 932, V, "a", do CPC/15, bem como da Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração opostos pelo agravante; e b) determinar a remessa dos autos ao TJ/MS, a fim de que esse se pronuncie, na esteira do devido processo legal, sobre a alegação de que a decisão que fixou honorários em favor do agravado em sede de cumprimento provisório perdeu efeito nos termos do art. 520, II, do CPC/15, pois o decisum executado provisoriamente pela parte agravada foi reformado e, com a reversão do julgado, todas as decisões proferidas na execução provisória perderam efeito.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Julgamento sob a égide do CPC/15.
+2. Ação de cobrança, em fase de cumprimento de sentença.
+3. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+4. Agravo conhecido. Recurso especial provido.
