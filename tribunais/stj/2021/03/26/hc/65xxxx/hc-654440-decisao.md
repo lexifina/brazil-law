@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus preventivo impetrado em favor deDIOGO EMILIANO VALOIS BARBOSA,apontando como autoridade coatora oExmo. Governador do Estado do Rio de Janeiro.
+No presentewrit,o impetranteafirmaque o Governador do Estado do Rio de Janeirodeterminou olockdown(fechamento de comércios e diversas atividades), bem como "métodos de tratamentos científicos diversos" (uso de máscaras e distanciamento social) que violam o Código de Nuremberg.
+Diz que está havendo o maior ataquecontra os direitos e garantias fundamentais do povo brasileiro, "se intensificando desde os primórdios de 2020 com a "desculpa" das autoridades coatoras de um pseudo combate ao pseudo COVID-19, sendo assim, cada brasileiro é, ao mesmo tempo, vítima e testemunha de Crimes Contra a Humanidade e Genocídio"(fl. 6).
+Aduz que não há mais justificativa para tamanha restrição, pois há inúmeras demonstrações de como não se infectar e de se curar preventivamente, além dos medicamentos que existem, de fácil acesso e baratos.
+Alega que a autoridade coatora nãoapenas impõeao povo suas vontades pessoais com o uso da força policial.
+Aponta que "os comércios podem se manter abertos, com os "devidos cuidados" (se é que o vírus existe), pois, caso contrário, haverá ruína da economia do País e o inevitável empobrecimento em larga escala da população"(fl. 13).
+Pondera que não podem o governador ee prefeitos, baseados em legislação infraconstitucional, sejam leis ou decretos, suprimirem ou restringirem os direitos fundamentais ao trabalho, ao salário, à saúde e à vida digna.
+Requer, assim, a expedição de salvo conduto, para permitir que os comércios permaneçam abertos, proibir quaisquer ameaças ou prisões contra o paciente e imposições de multas, caso se recuse a fechar o seu comércio e/ou se recuse a seguir quaisquer outras medidas impostas por decretos municipais e/ou estaduais.
+É o relatório.
+Decido.
+O impetranteapontaconstrangimento ilegal na edição,pelo Governador do Estado de Rio de Janeiro, do Decreto n. 47.533, de 22 de março de 2021, que altera o Decreto n. 47.518, de 12 de março de 2021, que dispõe sobre as medidas de enfrentamento da propagação do novo coronavírus (covid-19), em decorrência da situação de emergência em saúde, possuindo validade de 14 dias a contar da data de sua publicação.
+De início, ressalte-se que o exame da apontadainconstitucionalidade do referido Decreto,não compete ao Superior Tribunal de Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal (v.g. AgRg no HC n. 480.459/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 10/04/2019;AgInt nos EDcl no REsp 1.687.565/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 25/09/2018; AgRg no AgRg no AREsp 1.275.927/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/10/2018).
+No mais, verifica-se que o presentemandamusfoi impetrado contraato normativo em tese,o que se mostra vedado, segundo a pacífica jurisprudência desta Corte Superior de Justiça, que é firme no sentido de que "normas de caráter geral e abstrato, ainda que consideradas em desarmonia com a Constituição Federal, não podem ser impugnadas por meio de habeas corpus" (AgRg no HC 201.203/SP, Rel.Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA,DJe 1º/06/2011).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
