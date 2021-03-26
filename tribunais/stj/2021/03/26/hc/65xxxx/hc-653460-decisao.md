@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CHARLES DOS REIS FELISBERTO, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido na Apelação Criminaln. 0000078-56.2019.8.24.0075/SC.
+Consta dos autos que o Paciente foi condenado como incurso no art. 147, c.c. o art. 61, inciso II, alínea f,do Código Penal à pena privativa de liberdade de 1 (um) mês e 20 (vinte) dias de detenção, em regime aberto, bem como ao pagamento de R$ 3.000,00 a título de danos morais sofridos pela vítima. Na oportunidade, foiconcedido ao Paciente o benefício da suspensão condicional da pena pelo período de dois anos mediante o cumprimento de condições.
+Interposto recurso de apelação pelo Sentenciado, o Tribunal estadual deu-lhe provimento em parte para reduzir a fração empregada para a agravante do art. 61, inciso II, alínea f, do Código Penal para 1/5 (um quinto)- a pena foi redimensionada para 1 (um) ano e 6 (seis) dias de detenção-,e minorar o valor arbitrado pelos danos morais para 1 (um) salário mínimo.
+No presente writ, busca a Parte Impetrante a redução da fração da citada agravante para 1/6 (um sexto). Aduz que não houve fundamentação adicional para aplicar fração mais severa do que a indicada, o que é ilegal e exorbita a proporcionalidade a ser observada na dosimetria da pena.
+Requer, liminarmente, a suspensão dos efeitos da condenação. No mérito, a readequação da dosimetria da pena com a incidência da agravante prevista no art. 61, inciso II, alínea f, do Código Penal à fração de 1/6 (um sexto).
+É o relatório.
+Decido.
+Os autos estão instruídos com documentação que permite o integral exame dacontrovérsia, motivo pelo qual passo a julgar monocraticamente, de plano,o pedido de mérito da impetração (STJ, AgRg no HC 630.110/AM, Rel.Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2020, DJe18/12/2020STJ; STJ, AgRg no HC 627.554/SP, Rel. Ministro REYNALDO SOARESDA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020; STJ, AgRgno HC 587.897/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,julgado em 01/12/2020, DJe 10/12/2020; STJ, AgRg no HC 606.216/RJ, Rel.Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/12/2020, DJe04/12/2020; v.g.).
+O Tribunal de origem, ao reformar a sentença, reduziu a pena privativa de liberdade, aplicando na segunda fase da dosimetria a fração de 1/5 pela incidência da agravante prevista no art. 61, inciso II, alínea f, do Código Penal.
+É cediço que as agravantes e as atenuantes não possuem o quantum definido pelo legislador e devem ser consideradas pelo órgão julgador na segunda fase da dosimetria, que observará os limites mínimo e máximo do preceito secundário do tipo penal incriminador.
+No que diz respeito ao quantum de aumento pela agravante, a jurisprudência e a doutrina pátrias têm o entendimento que o Magistrado, na segunda fase de aplicação da pena, não pode aplicar acréscimo acima do limite mínimo previsto para a terceira fase da dosimetria, qual seja, 1/6 (um sexto), a não ser que o faça fundamentadamente, indicando elementos concretos constantes dos autos, a justificar a necessidade de uma maior exasperação.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. CORRUPÇÃO DE MENOR. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. REGIME FECHADO. REINCIDÊNCIA. PENA INFERIOR A 4 ANOS DE RECLUSÃO. SEMIABERTO. POSSIBILIDADE. SÚMULA 269/STJ. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração diversa de 1/6 exige motivação concreta e idônea. Precedentes.
+ ..
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda dos pacientes para 2 anos e 4 meses de reclusão, mais o pagamento de 11 dias-multa, e estabelecer o regime semiaberto para o início de cumprimento da reprimenda a eles imposta." (HC 540.452/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/03/2020, DJe 26/03/2020; sem grifos no original.)
+Na hipótese, contudo, não foi apresentada fundamentação que justificasse a aplicação de fração diversa de 1/6 (um sexto) na segunda fase da dosimetria. Asseverou, apenas, o seguinte (fls. 381-382):
+"Já com relação à possibilidade de redução da fração utilizada para exacerbar a pena em 1/6 (um sexto), com razão o apelante em parte, pois não se vislumbra na sentença, com a devida venia, fundamento suficiente a fim de exasperar a pena em 2/3 (dois terços), mas sim em 1/5 (um quinto).
+Nesse passo: "Apesar de não estabelecida pela norma penal a quantidade de aumento de pena em decorrência das agravantes genéricas, deve ela se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6. Entretanto, é admitida como razoável a adoção de percentual superior mediante fundamentação concreta (multirreincidência, reincidência específica)" (STJ, Min. Rogerio Schietti Cruz).
+ ..
+Assim, não observada a motivação necessária para se elevar a pena em 2/3, a reprimenda deve ser elevada em 1/5, fixando-a em 1 mês e 6 dias de detenção.
+Dessa forma, cabível a diminuição da pena na segunda fase da dosimetria.
+Passo a redimensionar areprimenda privativa de liberdade doPaciente pelo cometimento do delito previsto no art. 147 do Código Penal:
+1.ª Fase: Mantida a pena-base no mínimo legal de 1 (um) mês de detenção.
+2.ª Fase: Diante da fundamentação acima, presente a agravante prevista no art. 61, inciso II, alínea f, do Código Penal, a pena intermediária é exasperada na fração de 1/6, alcançando 1 (um) mês e 5 (cinco) dias de detenção.
+3.ª Fase: Ante a ausência de causas de diminuição e aumento, resultando a pena definitiva em 1 (um) mês e 5 (cinco) dias de detenção, no regime inicial aberto.
+Ante o exposto, CONCEDO a ordem de habeas corpus para redimensionar apena para 1 (um) mês e 5 (cinco) dias de detenção, em regime inicial aberto, pelo crime de ameaça, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. AMEAÇA, NO ÂMBITO DOMÉSTICO. AUMENTO. FRAÇÃO SUPERIOR A 1/6 (UM SEXTO). AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ORDEM CONCEDIDA.
