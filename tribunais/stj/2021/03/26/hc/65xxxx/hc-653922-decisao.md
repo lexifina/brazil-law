@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor deRODRIGO GUERRA VALENTE contra acórdão proferido pelo Tribunal Regional Federal da 1.ª Região no Habeas Corpus n.1033403-74.2020.4.01.0000.
+Consta nos autos que a prisão preventiva do Paciente foi decretada em 06/07/2020 no curso de ação penal em que apura a prática dos delitos previstos no art. 2.º, § 4.º, inciso V, da Lei n.12.850/2013, no art. 33, c.c. o art. 40, inciso I, da Lei n.11.343/2006 e no art. 1.º, § 1.º, inciso II, da Lei n.9.613/98 (fls. 128-146).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada em 1º/12/2020 (fls. 114-125).
+Nas razões desta impetração, sustenta-se, com amparo em Relatório Médico emitido em 27/01/2021 (fl. 184), que o Paciente encontra-se com seuestado de saúde extremamente debilitado, necessitando de imediata intervenção cirúrgica.
+Pleiteia-se, assim, a concessão da:
+" ..  PRISÃO DOMICILIAR DO PACIENTE IMEDIATAMENTE OU QUE HAJA A REVOGAÇÃO DA PRISÃO DO MESMO, LEVANDO-SE EM CONTA O ESTADO DE SAÚDE EM QUE SE ENCONTRA NECESSITANDO DE INTERVENÇÃO CIRÚRGICA, VINDO SOFRENDO DE CEFALEIAS INTENSAS, HIPOREXIA E DOR NUCAL QUE VEM LHE TIRANDO ATÉ MESMO O APETITE, ESTANDO FICANDO O PACIENTE COM A SAÚDE A CADA DIA MAIS DEBILITADA, NÃO TENDO RESPONDIDO AO TRATAMENTO POR MEDICAÇÃO CONFORME ATESTA O RELATÓRIO MÉDICO DO ESTAELECIMENTO MÉDICO PRISIONAL." (fl. 11, sem grifos no original).
+É o relatório. Decido.
+No caso, constata-se que os fatos narrados na impetração e a tese suscitada- necessidade de revogação da prisão em função do atual estado de saúde do Paciente eda necessidade de intervenção cirúrgica apontadosem relatório médico emitido pela unidade prisional-não foram debatidas no acórdão estadual impugnado, não havendo notícia sequerde que tenham sido apresentadas para análiseno Juízo de origem. Desse modo, mostra-se inviável a análise do tema no Superior Tribunal de Justiça, sob pena de supressão de instância.
+De fato, o Impetrante apresenta, como documentos instrutórios, exames realizados em 10/12/2020 (fls.170-171) e15/12/2020 (fl. 161 e163), bem como relatório médico emitido em 27/01/2021 (fl. 184). Desse modo, é evidenteque os referidos documentos não integraram a causa de pedir do habeas corpus impetrado no Tribunal a quo e não foram submetidos ao exame da Corte Regional,que concluiu o julgamento do writ prévio em 1º/12/2020 (fl. 15), ou seja, antes de que esses documentos fossem conhecidos.
+Desse modo, não é possível conhecer, diretamente nesta Corte Superior, matéria não examinadas nas instâncias antecedentes, sendo certo que as alterações fáticas supervenientes e os pleitos dela decorrentes devem ser apresentados no Juízo competente.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Remeta-se cópia da petição inicial e dos documentos que a instruemao Juízo de origem, a fim de que ele adote as providências que entender cabíveis diante da situação narrada.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE ESTADO DE SAÚDE DEBILITADO E NECESSIDADE DE INTERVENÇÃO CIRÚRGICA. FATOS NÃO EXAMINADOSPELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE, COM DETERMINAÇÃO.
