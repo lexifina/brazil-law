@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de ELIANA GARCIA MISERKOWSKI e JOELTON ORLANDO MISERKOWSKIapontando como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Os autos dão conta de que o Juízo da 12ª Vara Criminal de Curitiba/PR recebeu a queixa-crime apresentada contra os pacientes pela suposta prática dos crimes de difamação, injúria, ameaça e dano ao patrimônio (arts. 139, 140, 147 e 163 do Código Penal) - e-STJ fls. 269/272 e 365/366.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+No presente writ, a defesa afirma que "a queixa crime veio instruída tão somente com as declarações das partes, deixando os querelantes de juntar rol de testemunhas aptas a corroborar com suas alegações" (e-STJ fl. 4).
+Assevera que "o acórdão ora combatido infringe o disposto no art. 41 do Código de Processo Penal, causando constrangimento ilegal, já que os pacientes não podem suportar o ônus de um processo criminal que não respeita o devido processo legal e a paridade das partes" (e-STJ fl. 7).
+Sustenta que "o deferimento de produção de prova extemporânea viola o devido processo legal, uma vez que as testemunhas eram conhecidas desde o Inquérito Policial e poderiam, portanto, ter sido arroladas na queixa crime.Segundo expressa disposição do art. 41 do Código Processo Penal, o momento para a acusação arrolar testemunhas é quando do oferecimento da denúncia ou queixa-crime" (e-STJ fl. 7).
+Aduz, ainda, que "imperioso se faz o arbitramento de honorários, a cargo do Estado, em favor do defensor dativo que impetrou o presente habeas corpus, uma vez que o advogado atuou em atividade que deveria ser realizada por um Defensor Público, não podendo, portanto, exercer sua profissão sem a respectiva contraprestação" (e-STJ fl. 13).
+Requer, pelos motivos acima delineados, que seja determinada a rejeição da denúncia e o consequente trancamento da ação penal e, subsidiariamente, o indeferimento da prova consistente na oitiva de testemunhas arroladas extemporaneamente.
+É, em síntese, o relatório.
+O presente habeas corpus está prejudicado.
+Consta das informações prestadas pelo Tribunal de Justiça do Estado do Paraná que, "em consulta aos autos de origem, sob nº 0006017-48.2015.8.16.0182, foi declarada a prescrição em 02/03/2020, aos mov. 498.1, com extinção da punibilidade dos impetrantes, e o feito arquivado definitivamente em 11/03/2020" (e-STJ fl. 494).
+E quanto ao arbitramento de honorários advocatícios em favor do defensor dativo, esta Corte é firme no entendimento de que "a condenação ao pagamento de honorários refoge ao escopo do habeas corpus, porquanto não constitui, sequer em tese, lesão ou ameaça a direito de locomoção. Ademais, apregoa também a jurisprudência deste Tribunal que, estando vinculada a atuação do advogado à ação penal em curso na origem, a questão dos honorários deverá ser analisada pela instância local, mais próxima à atuação do causídico(EDcl no AgRg no RHC n. 129.020/CE, relator MinistroRIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020).
+Tal o contexto, julgo prejudicado opresente habeas corpus.
+Publique-se. Intimem-se.
