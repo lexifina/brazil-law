@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73 manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 781):
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO DA FAZENDA NACIONAL NÃO RECEBIDA. INTEMPESTIVIDADE AFASTADA PELO STJ (RESP 1.225.233).TRÂNSITO EM JULGADO: IMPOSSIBILIDADE. REFIS. EXCLUSÃO POR REJEIÇÃO DE GARANTIA.. EXIGÊNCIA DE "CLÁUSULA ADJETA DE HIPOTECA EM FAVOR DA UNIÃO":IMPOSSIBILIDADE. INSTRUÇÃO NORMATIVA PGFN/INSS 002/2002. SENTENÇA MANTIDA.
+(Nº 01).
+1. O ordenamento jurídico pátrio não admite trânsito em julgado enquanto pender recurso, seja de qual parte for, à luz da garantia do contraditório e da ampla defesa, de sorte que não pode subsistir o trânsito em julgado do acórdão enquanto não apreciado todos os recursos interpostos.
+2. No caso dos autos, o STJ, por ocasião do julgamento do REsp 1.225.233, afastou a intempestividade da apelação interposta pela Fazenda Nacional, determinando o retorno dos autos à origem para julgamento do recurso, interposto para convalidar a exclusão da impetrante do REFIS.
+3. Para fins de adesão ao REFIS, não se exige do contribuinte que presta garantia na modalidade fiança o oferecimento da "cláusula adjeta de hipoteca em favor da União", cláusula exigível somente aos que oferecem hipoteca (art. 2º, II, b, da Instrução Normativa Conj.PGFN/INSS nº 002/2002), o que não é o caso.
+4. De acordo com a teoria dos motivos determinantes, a validade do ato administrativo está vinculada à existência e veracidade dos motivos apontados como fundamento para a prática do ato. Uma vez inexistentes ou faltosos, implicam sua invalidade. Insubsistente o motivo que ensejou a exclusão da impetrante do REFIS, por meio da Portaria CS REFIS nº 991/05 (f. 201), a nulidade do ato e a manutenção no programa são medidas que se impõem.
+5. Apelação da Fazenda Nacional não provida.
+Opostos embargos declaratórios, foram rejeitados. Eis a ementa (fl. 797):
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. ACÓRDÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INOCORRÊNCIA. REDISCUSSÃO DO MÉRITO.DESCABIMENTO. PREQUESTIONAMENTO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nega-se provimento aos embargos de declaração quando não se verifica na sentença ou no acórdão qualquer obscuridade, contradição ou omissão em relação a ponto sobre o qual deveria pronunciar-se o juiz ou tribunal.
+2. Inviabilidade dos embargos para modificação do mérito do julgado ou simples prequestionamento.
+3. Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 458 e 535 do CPC/73, 3º,IV, 5º, II e 9º,III, da Lei n. 9.964/00. Sustenta, em resumo: (I) "a) omissão quanto à jurisprudência consolidada do STF no sentido de que a matéria discutida nos autos é exclusivamente infraconstitucional - afronta aos artigos 97 e 102 da Constituição Federal;b) omissão quanto à legalidade do procedimento de exclusão docontribuinte do REFIS, violação ao inc. IV, do artigo 3º, ao inc. II, do art. 5º e ao inc. III, do art. 9º, todos da Lei 9.964/2000." (fl. 802); e (II) "verifica-se do exposto que o procedimento de exclusão do REFIS obedeceu a todos os princípios de direito administrativo, não havendo também qualquer ofensa aos ditames legais e constitucionais." (fl. 825).
+Contrarrazões às fls. 829/843.
+Parecer ministerial às fls. 858/861.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte recorrente, com o objetivo de ver sanada omissão opôs embargos declaratórios, sustentando que o julgado restou omisso nos seguintes pontos, in verbis (fls. 785/787):
+Observa-se, com a devida licença, que o acórdão deixou de se manifestar acerca dos motivos que ensejaram à exclusão da impetrante do REFIS, estampados no Parecer PGFN/CRJ/Nº 1323/2005, que demora às fls. 427/432.
+No citado parecer ficou claro que a exclusão se dera "devido ao não comparecimento, no prazo previsto na Instrução Normativa Conjunta PGFN/INSS nº 02, de 25.07.2002, do representante legal da Impetrante à Procuradoria da Fazenda Nacional em Porto Alegre/RS para formalização da fiança" (fl. 429).
+Na ocasião, entendeu-se que a fiança ofertada comportava "a exigência de cláusula adjeta de hipoteca da União", porquanto considerou-se inidôneo fiador em liquidação judicial e, ainda, que os pagamentos das prestações eram "simbólicos", emrelação àqueles consolidados no Programada de Parcelamento (fl. 429).
+O primeiro ponto omisso, pois, refere-se ao fato de que a Fazenda Nacional não aceitou a fiança oferta, tanto que intimou a impetrante para retificação.
+Assim, ao considerar que fiança ofertada como válida, o acórdão deixou de se pronunciar sobre a necessária existência de formal aceitação da garantia, conforme se depreende da interpretação do art. 4º, da Instrução Normativa Conjunta PGFN/INSS nº 02 in verbis:
+ ..
+Em suma, a Fazenda Nacional, dentro do juízo de conveniência e oportunidade, recusou a fiança já que não formalizada a aceitação nos termos do art. 4º, da Instrução Normativa Conjunta PGFN/INSS nº 02.
+Por outro lado, o acórdão olvidou de outro motivo pelo qual a impetrante foi excluída do REFIS: parcelas irrisórias.
+Como bem salientado na apelação, a impetrante devia, à época, R$ 41.000.000,00 (quarenta e um milhões de reais) e pagava parcelas de R$ 125,00 (cento e vinte e cinco reais).
+Nesse tocante, o Superior Tribunal de Justiça assentou que " é possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no art. 5º, II, da Lei n. 9.964/2000 (inadimplência), se restar demonstrada a ineficácia do parcelamento como forma de quitação do débito, considerando-se o valor do débito e o valor das prestações efetivamente pagas. Situação em que a impossibilidade de adimplência há que ser equiparada à inadimplência para efeitos de exclusão do dito programa de parcelamento" (REsp 1.447.131/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/5/2014).
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre essas argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 535 do CPC/73.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui tida por omitida.
+Publique-se.
+Brasília, 26 de março de 2021.
+Sérgio Kukina
+Relator
