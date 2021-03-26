@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ PAULO FAGUNDES DE OLIVEIRA, apontando como Autoridade Coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que, em 03/05/2019, o Paciente foi condenado à pena de 7 (sete) anos, 1 (um) mês e 10 (dez) dias de reclusão, bem como ao pagamento de 17 (dezessete) dias-multa, em regime fechado, como incurso nas sanções do art. 157, § 2.º, inciso II, do Código Penal, sendo concedido o direito de apelar em liberdade.
+Inconformada, a Defesa interpôs recurso de apelação que, em 27/04/2020, foi parcialmente provido pelo Colegiado estadual, a fim de reduzir a pena do Paciente para 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, e pagamento de 14 (catorze) dias-multa, mantidos o regime fechado e os demais consectários da sentença.
+Interposto recurso especial, o Exmo. Ministro NEFI CORDEIRO, em 25/02/2021, deu provimento ao recurso apenas "para fixar as penas de Adailton de Sousa Ferreira em 5 anos, 2 meses e 6 dias de reclusão, mais 12 dias-multa, a ser cumprida em regime fechado" (fl. 83).
+Neste mandamus, os Impetrantes afirmam que:
+" ..  o paciente JOSÉ PAULO FAGUNDES DE OLIVEIRA, já se encontra em liberdade desde 14/02/2019, ou seja, permaneceu por 9 meses preso preventivamente, e desde que saiu da prisão, seguiu sua vida de modo exemplar como sempre a conduziu, pois fez cursos de manuseio de empilhadeira, estudou, entregou currículos, (doc.4) trabalha constantemente, e no momento está feliz pela nova profissão e se sentindo honrado pela sua contratação em uma das empresas mais disputadas da região Bragantina, sendo ela uma construtora de grande porte nacional" (fl. 9).
+Sustentam que, em virtude de já ter cumprido mais de 9 meses de prisão preventiva e do quantum de pena aplicada, "faltam menos de 6 meses" para o Paciente progredir de regime prisional menos gravoso, o que possibilitará "continuar seu trabalho laboral na empresa que o contratou" (fl. 9).
+Argumentam que o Paciente "há quase 2 anos obteve sua liberdade, e não cometeu nenhum crime e muito menos se envolveu com algo ilícito" (fl. 11).
+Requerem, liminarmente, a concessão da ordem "para determinar a CONTINUIDADE EM MEDIDAS RESTRITIVAS DE DIREITO" ou, alternativamente, para "determinada a Prisão Domiciliar, ao paciente, com determinações de restrições a ser lhe impostas" (fl. 12).
+É o relatório. Decido.
+A pretensão ora formulada é incognoscível.
+De início, registro que o Juiz de primeiro grau concedeu ao Paciente o direito de recorrer em liberdade, por se encontrar solto, após revogação da sua prisão preventiva ocorrida em 14/02/2019, ainda pendente o trânsito em julgado da sentença condenatória.
+Da análise dos autos, não obstante os Impetrantes indicarem como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, não verifico a existência de ato ou omissão do referido órgão a justificar a manifestação desta Corte, nos termos do art. 105, inciso I, alínea c, da Constituição Federal.
+Ademais, não há interesse de agir na hipótese, porque o Paciente não sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder do Tribunal estadual, passíveis de serem sanadas pela via eleita.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento no art. 34, inciso XX, c.c. o art. 210, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. ROUBO CIRCUNSTANCIADO. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS OU PRISÃO DOMICILIAR. SENTENÇA CONDENATÓRIA AINDA NÃO TRANSITADA EM JULGADO. INEXISTÊNCIA DE ATO COATOR DE AUTORIDADE ELENCADA NO ART. 105, INCISO I, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. INCOMPETÊNCIA DESTA CORTE. AUSÊNCIA DE INTERESSE DE AGIR. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
