@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3 Região, assim ementado (fl. 130):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PRETENDIDA SUBSTITUIÇÃO DE DEPÓSITO JUDICIAL POR SEGURO GARANTIA JUDICIAL - O DEPÓSITO NUNCA EXISTIU, DE MODO QUE NÃO HÁ COMO SER "SUBSTITUÍDO" - PRESENTE DE DECISÃO ANTERIOR PASSADA EM JULGADO QUE DETERMINAVA SER NECESSÁRIO O DEPÓSITO INTEGRAL PARA A SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO - EXPEDIENTE USADO PELA PARTE NA VÃ TENTATIVA DE SUPLANTAR UMA DECISÃO DESFAVORÁVEL, TRANSITADA EM JULGADO - EMBARGOS ACLARATÓRIOS OCIOSOS - RECURSO NÃO PROVIDO.
+1. Na ação originária não se verificou quaisquer das hipóteses de suspensão da exigibilidade de crédito tributário, sendo que tal discussão foi devolvida no agravo de instrumento antecedente, já definitivamente julgado, o qual foi expresso quanto à impossibilidade de suspensão da exigibilidade do crédito sem o depósito emdinheiro do montante integral.
+2. Não cuida o caso de "substituição" do depósito por seguro judicial, justo porque NENHUM DEPÓSITO FOI EFETUADO pela parte autora, destacando-se novamente que no caso concreto já ficou definido que a suspensão da exigibilidade do crédito se daria somente no caso de feitura de depósito em dinheiro, o que a parte não atendeu.
+3. Por via oblíqua a agravante pretende suplantar a decisão passada em julgado que lhe foi desfavorável, não sendo cabível esse expediente.
+4. Agravo de instrumento desprovido. Recurso de embargos de declaração prejudicado
+O recorrente alega violação dos artigos 151, II, do CTN,835, §2º, do CPC e 9º, §3º, da Lei n. 6.830/1980, e dissídio jurisprudencial, ao argumento de que "é cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação do seguro garantia, uma vez que não há dúvida quanto à liquidez desta modalidade de garantia, permitindo, desse modo, a produção dos mesmos efeitos jurídicos do dinheiro" (fl. 149). Aponta que não buscousuplantar decisão passada em julgado, pois o pedido de substituição do depósito judicial pelo seguro garantia com a suspensão da exigibilidade do crédito não foi objeto de análise anterior.
+Comcontrarrazões.
+Juízo negativo de admissibilidade às fls. 175-179, e-STJ
+Conversão do agravo em recurso especial para melhor análise da controvérsia.
+É o relatório. Passo a decidir.
+Verifica-se que não houve juízo de valor por parte da Corte de origem quanto aos dispositivos legal apontados como malferidos, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ademais, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não se verificou quaisquer das hipóteses de suspensão da exigibilidade de crédito tributário, bem como que essadiscussãoencontra-se acobertada pela coisa julgada.Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Por fim, tem-se que oalegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO NÃO DEMONSTRADO. RECURSO NÃO CONHECIDO.
