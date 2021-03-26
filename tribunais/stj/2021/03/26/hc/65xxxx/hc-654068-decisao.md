@@ -1,0 +1,18 @@
+DECISÃO
+CARLOS EDUARDO PIRES DE LIMAalega sofrer constrangimento ilegal em decorrência de decisão de DesembargadorTribunala quono Habeas Corpus n. 2248951-12.2020.8.26.0000, em quefoi pleiteada a imediata apreciação de seus pedidos de livramento condicional e de progressão de regimepelo Juiz das Execuções.
+Decido.
+Verifico a indevida reiteração de pedido, objeto do HC 623.267/SP.Como assinalei alhures, oDesembargador do Tribunal a quo, por decisão monocrática, denegouomandamuslá impetrado, porquanto "o habeas corpus, de restrito âmbito de incidência, não se presta para determinar que incidentes da execução sejam apressados" (fl. 21).
+A defesa não interpôs agravo regimental.Dessa forma, não estáinaugurada a competência do Superior Tribunal de Justiça para o exame da controvérsia.Ilustrativamente:
+ ..
+1. O inconformismo dirigido contra decisão de Desembargador que, ao analisar o habeas corpus, indefere liminarmente owrit, deve ser o recurso de agravo regimental para oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+2. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento destemandamus.
+3. Agravo regimental não provido (AgRg no HC n. 399.172/MA, Rel. MinistroRogerio Schietti, 6ª T., DJe 1º/8/2017).
+Deveras: "não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador .. . 3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior" (AgRg no HC n. 423.705/RS, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 5/4/2018, grifei).
+Entretanto, a tese de excesso de prazo para a análise de benefícios foi suscitada na impetração originária e owrit se presta à análise de ofensa ao princípio do prazo razoável do processo, quando implicar reflexos do direito de locomoção.Não existe decisão do Juiz da VEC, a ser desafiada por agravo, mas verdadeira omissão na prestação jurisdicional. Assim, o remédio constitucionalé o único instrumento disponível à defesa.Reconheço a negativa de prestação jurisdicional, de ofício.Com efeito:
+ ..
+2. O Tribunal de Justiça indeferiu liminarmente owrit, deixando de apreciar o pleito formulado na impetração,  ..
+Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia,tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC 561.747/SP, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto,com fulcro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus. Contudo, de ofício,determinoao Tribunal de Justiçaa quoque aprecie, como entender de direito,se existe excesso de prazo para análise de benefícios executórios pelo Juiz da VEC.
+Publique-se e intimem-se.
