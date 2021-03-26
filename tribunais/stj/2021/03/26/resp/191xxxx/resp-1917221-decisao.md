@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por FUNDIÇÃO ICARO LTDA., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 216):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. BASE DE CÁLCULO. LIMITE. 20 SALÁRIOS MÍNIMOS.
+INAPLICABILIDADE.
+O limite de 20 salários mínimos, uma vez estabelecido pela Lei nº 6.950, de 1981, para o salário-de-contribuição do empregado, não condiciona a incidência das contribuições que tem por objeto a folha de salários do empregador.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 4º, parágrafo único, da Lei 6.950/81; 2º do DL 4.657/42 e 9º da LC 95/98. Sustenta, em resumo, a possibilidade de limitação da base de cálculo das contribuições de terceiros a 20 salários mínimos.
+Contrarrazões às fls. 302/306.
+Parecer do Ministério Público Federal às fls. 329/331.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A questão trazida a debate no especial diz respeito a "Definir se o limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986".
+Ocorre que essa matéria foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsp 1.898.532/CE e 1.905.870/PR - Tema 1.079/STJ), mostrando-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confiram-se, a propósito, os seguintes precedentes desta Corte: AgInt no AREsp 411.892/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 20/10/2017 e AgInt no AgRg nos EDcl no REsp 1.345.683/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/10/2017.
+EM RAZÃO DO EXPOSTO, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento negado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, I e II, do CPC/2015).
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+Publique-se.
