@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. INTEMPESTIVIDADE: ART. 317 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Relatório
+    1. Em 9.3.2021, foi negado seguimento ao recurso extraordinário com agravo interposto por Adriano Rogerio Vanzelli sob os fundamentos de harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal e ausência de demonstração de prejuízo da alegação de nulidade processual (e-doc. 10).
+    2. Publicada essa decisão no DJe de 12.3.2021, o agravante interpõe, em 23.3.2021, agravo regimental (e-doc. 14).
+    3. O agravante alega que, na decisão recorrida, “não houve apreciação dos argumentos defensivos trazidos no Recurso Extraordinário, visto que, de modo genérico, a Relatora invoca os argumentos do acórdão recorrido para fundamentar sua decisão, deixando de considerar os pontos trazidos pela defesa, o que coloca em risco a validade da decisão, por contrariar o disposto no art. 489, §1º, inciso IV, do Código de Processo Civil” (fl. 4, e-e-doc. 14).
+    Sustenta que “não houve adulteração de documento oriundo da União, a adulteração no caso em tela se deu em face de fotocópias extraídas da internet de documento apócrifos (sem assinaturas ou autenticação digital) que poderiam ser, a qualquer momento, consultados ou extraídos na internet pelo site do TRT 15” (fl. 5, e-doc. 14).
+    Reitera que “não se adulterou documento público, na verdade, usou-se de documentos extraídos da internet para a suposta prática do estelionato, o que por si justifica a tese de incompetência arguida pela defesa, eis que inexiste lesão a interesse da união” (fl. 5, e-doc. 14).
+    Enfatiza que “a competência no caso é da Justiça Estadual Comum, em evidente afronta ao art. 109 da Constituição Federal” (fl. 9, e-doc. 14).
+    Assevera a existência de prejuízo porque o Juízo de origem teria ignorado o depoimento pessoal das testemunhas Fabio Citro e José Carlos Recco (fl. 10, e-doc. 14).
+    Alega “prejuízo, pois se o juízo de primeiro grau não tivesse praticado tamanha violência ao processo legal, a absolvição seria o caminho a ser trilhado tanto pelo juízo de piso quanto pelo Tribunal recorrido, visto que os depoimentos desconsiderados mudariam de modo contundente, o contexto fático” (sic, fl. 10, e-doc. 14).
+    Pede o provimento do agravo regimental.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O agravo regimental não pode ser conhecido por ser intempestivo.
+    5. A decisão agravada foi publicada no DJe de 12.3.2021 (sexta-feira). O prazo de cinco dias corridos para interposição do agravo regimental (art. 317 do Regimento Interno deste Supremo Tribunal) terminou em 19.3.2021 (sexta-feira). O agravante protocolizou a petição do agravo em 23.3.2021, após o decurso do prazo recursal (e-doc. 15).
+    6. Intempestivo o recurso, juridicamente impossível a análise dos argumentos do agravante. Assim, por exemplo:
+    “Agravo regimental no agravo regimental no recurso extraordinário com agravo. Matéria criminal. Agravo interno intempestivo. Precedentes. 1. O agravo regimental não foi interposto dentro do prazo legal de 5 (cinco) dias corridos, nos termos do art. 39 da Lei nº 8.038/90. 2. Agravo regimental do qual não se conhece” (ARE n. 1.267.334-AgR-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 25.9.2020.
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. ARTIGO 317 DO RISTF. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. É intempestivo o agravo interno, em matéria criminal, que não observa o prazo de 05 (cinco) dias estabelecido no art. 317 do RISTF, contado na forma do art. 798 do CPP. 2. Agravo regimental não conhecido” (ARE n. 1.070.585-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 27.9.2018).
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. 1. É intempestivo o agravo interno criminal interposto fora do prazo de cinco dias, fixado pelo art. 317 do RI/STF c/co art. 39 da Lei nº 8.038/1990. 2. Agravo interno não conhecido” (ARE n. 1.069.400-AgR-segundo, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 20.11.2017).
+    “AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO NO RECURSO EXTRAORDINÁRIO. RECURSO INTEMPESTIVO. CONTAGEM DE PRAZO (ART. 798, CPP). CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. BAIXA IMEDIATA. AGRAVO NÃO CONHECIDO. 1. O SUPREMO TRIBUNAL FEDERAL firmou entendimento no sentido de que a contagem do prazo processual penal é disciplinado por norma específica que dispõe sobre a matéria, no caso o artigo 798 do Código de Processo Penal, o que afasta a incidência do artigo 219 do Código de Processo Civil. Agravo regimental interposto fora do prazo legal. 2. Agravo regimental não conhecido, com determinação de baixa imediata dos autos” (ARE n. 1.084.634-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 30.8.2018).
+    7. Pelo exposto, não conheço do agravo regimental.
+    Publique-se.
+    Brasília, 26 de março de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
