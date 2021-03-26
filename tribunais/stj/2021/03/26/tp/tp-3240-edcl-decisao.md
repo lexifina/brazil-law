@@ -1,0 +1,38 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por MIRIAM KEMMER FUTLIK KWIATKOWSKYJ em face dadecisão da Presidência do Superior Tribunal de Justiça que indeferiu o pedido de agregação de efeito suspensivo ao recurso especial.
+A embargante alegouque a decisão embargada é contraditória, pois em anterior decisão opedido fora indeferido por ausência de comprovação do periculum in mora sustentado, sem que fosse analisada a verossimilhança das alegações recursais, o que levariaà conclusão de que o fumus boni iuris fora reconhecido tacitamente. Sustentou, ainda,contradição quanto ao reconhecimento da incidência do óbice da Súmula n.º 05 e 07 do STJ, pois para a solução do caso é necessária, apenas, a revaloração das provas. Por fim, reputou ser omissa a decisão embargada, pois não fora consignado os motivos que fundamentaram a ausência dos pressupostos, não analisando todos os argumentos apontados na petição inicial e que evidenciariam a probabilidade do direito,especialmente o "item 6".Postulou o acolhimento.
+É o relatório.
+Passo a decidir.
+Os embargos de declaração devem ser rejeitados.
+Nos estreitos limites estabelecidos pelo art. 1022 do CPC, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, não se configura a existência de quaisquer das referidas deficiências, pois a decisão embargada decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta em discussão, declinando coerentemente os motivos pelos quais indeferiu o pedido de tutela provisória de urgência.
+A decisão embargada, vale dizer, fora absolutamente clara acerca da ausência de prognóstico favorável de provimento do recurso especial, ao menos no juízo perfunctório próprio deste expediente.
+Efetivamente, conforme constou da fundamentação, pretendendo a requerente desconstituir negócio jurídico sob a alegação de que não fez parte do contrato de renegociação de dívida, as conclusões do acórdão recorrido em sentido contrário, ou seja, de que participara sim da avença, impedem o conhecimento do recurso especial, por exigir o revolvimento da matéria fático-probatória dos autos, atraindoos óbices dosenunciados das Súmulas 05 e 07/STJ.
+Este fundamento é suficientepara amparar o indeferimento do pedido de tutela de urgência, não se identificando missão relevante, senão mera pretensão de rediscutir o que já foi decidido.
+Cumpria, ademais, à embargante, demonstrar qual ou quais fundamentos não foram enfrentados e, além disso, a suficiência destes para alterar a conclusão da decisão embargada, e não apenas elencaros tópicos declinados na petição inicial que não teriam sido enfrentados pontualmente.
+Por fim, acontradição que dá ensejo a embargos de declaração é a que se estabelece no âmbito interno do julgado embargado, ou seja, a contradição do julgado consigo mesmo, como quando, por exemplo, o dispositivo não decorre logicamente da fundamentação.
+No caso dos autos, não se observa qualquer contradição ou dúvida quanto à fundamentação e à parte dispositiva da decisão:
+Cuida-se de pedido de tutela provisória de urgência formulado por MIRIAM KEMMER FUTLIK KWIATKOWSKYJ no qual busca a atribuição de efeito suspensivo ao agravo em recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região.
+Informa que se trata de "ação anulatória de negócio jurídico em face da Recorrente, em razão de não ter feito parte do contrato de novação, extinguindo-se assim a alienação fiduciária em imóvel de sua propriedade" (fl. 11).
+Sustenta a necessidade de atribuição de efeito suspensivo ativo ao recurso especial, diante da possibilidade do recorrido vender o imóvel a terceiros, que poderão futuramente alegar boa-fé na compra do bem.
+Em petição de emenda à inicial, a requerente noticia que "a Requerida já realizou a venda dos direitos do imóvel de forma particular", mas que ainda não efetivou "a transferência da propriedade junto ao Cartório de Registro de Imóveis" (fl.186).
+Afirma que, "considerando a escritura pública juntada, nota-se que fica comprovado o periculum in mora, uma vez que demonstrado que a Caixa Econômica Federal iniciou o procedimento de venda particular do imóvel a terceiros" (ibidem).
+Requer, diante do novo documento acostado aos autos, nova análise do pedido de atribuição de efeito suspensivo ao agravo em recurso especial, de modo a obstar a transferência da propriedade do bem objeto da demanda junto ao Cartório de Registro de Imóveis.
+É, no essencial, o relatório. Decido.
+De acordo com o que prevê o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido; e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Convém destacar ainda que "a concessão de efeito suspensivo a recurso especial cujo seguimento foi indeferido na origem somente se justifica, em caráter excepcional, se demonstrada forte possibilidade de êxito do recurso, associada aopericulum in mora" (AgRg na MC 18.760/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/10/2012).
+Na espécie, a despeito da comprovação do perigo de dano por meio da juntada da escritura pública de venda e compra (fls. 188-192), a requerente não demonstrou a presença do fumus boni iuris, pressuposto primeiro da medida de urgência pretendida.
+Em análise preliminar dos autos, própria deste momento processual, nota-se a ausência de probabilidade de êxito do recurso especial.
+A requerente pretende desconstituir negócio jurídico sob a alegação de que não fez parte de contrato de renegociação de dívida, cujo inadimplemento resultou na consolidação da propriedade do seu imóvel em favor da Caixa Econômica Federal.
+O acórdão recorrido, com base nas provas juntadas aos autos, afirmou a participação da requerente no contrato de Cédula de Crédito Bancário e na respectiva renegociação, conforme se infere dos seguintes fundamentos (fls. 147-158):
+(..)
+Da leitura dos trechos acima transcritos, vê-se que o acórdão atacado pelo recurso especial traz vasta fundamentação baseada em provas, demonstrando que a requerente participou do contrato de renegociação de dívida como garantidora.
+A princípio, a desconstituição dos fundamentos do julgado demandaria o revolvimento de matéria fático-probatória e interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7 do STJ.
+Ante o exposto, diante da ausência de um dos requisitos autorizadores da tutela de urgência, indefiro o pedido de liminar, sem prejuízo de ulterior deliberação pelo relator do feito.
+Na realidade, busca aembargante tão-somente o rejulgamento da causa, o que, na via estreita dos declaratórios, mostra-se inadequado.
+Ante o exposto, rejeitoos embargos de declaração.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. AGREGAÇÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. PEDIDO INDEFERIDO PELA PRESIDÊNCIA DESTA CORTE. INEXISTÊNCIA DE CONTRADIÇÃO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.EMBARGOS DE DECLARAÇÃO REJEITADOS.
