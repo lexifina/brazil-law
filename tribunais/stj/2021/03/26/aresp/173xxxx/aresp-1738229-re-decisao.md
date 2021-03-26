@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por JANDERSON DOS SANTOS LOPES,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelo Ministro Ribeiro Dantas, assim fundamentada (e-STJ fls. 659-660):
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, "in casu, a despeito de alegar ofensa aos arts. 184, 386, VII e 564, IV, todos do CPP, além de divergência jurisprudencial, verifica-se que o Recorrente se limitou a reproduzir, de forma praticamente literal, as razões contidas na Revisão Criminal, ignorando por completo os fundamentos consignados no acórdão recorrido para a rejeição das teses apresentadas" (e-STJ fl.609).
+Por outro lado, o recorrente não refutou adequadamente tais fundamentos da decisão agravada no tocante à aplicação da Súmula 284/STF. Com efeito, nas razões do agravo, continuou limitando-se apenas a reiterar o contido no recurso especial, e, como bem ponderou o Ministério Público Federal em seu parecer, "o agravante limitou-se a reafirmar genericamente que preencheu os requisitos de admissibilidade do recurso especial, o que, por certo, não supre a exigência de dialeticidade do recurso" (e-STJ, fl. 656).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que "a jurisprudência desta Corte é assente no sentido de que, paraafastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Por fim, acrescenta-se que, em recente julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sustentaorecorrenteque a matéria ora debatida ostenta repercussão geral e que a decisão impugnada"viola o disposto nos artigos 5º, XXXV, da Constituição Federal, uma vez que ao, não conhecer o agravo em recurso especial "por deixar de atacar especificamente os fundamentos da decisão agravada", fulcrado na Súmula 182 do STJ, o Ministro Relator contrariou dispositivo constitucional e excluiu da apreciação do Poder Judiciário lesão ou ameaça a direito aventada pela Defesa do recorrente", bem como incorreu em ofensa aos princípios do contraditório e da ampla defesa.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fl. 700).
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo regimental.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
