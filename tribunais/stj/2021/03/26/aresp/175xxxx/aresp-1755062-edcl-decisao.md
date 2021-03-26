@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por MILTON DE OLIVEIRA PENNA, mediante os quais se impugna decisão, de minha lavra, que conheceu de seu Agravo para conhecer em parte de seu Recurso Especial e, nessa parte, negou-lhe provimento, no bojo de ação na qual se controvertesobre isenção de imposto de renda em razão desuposta moléstia grave.
+Nas razões dos Embargos de Declaração, oora embargante sustenta, em síntese, que a decisão embargada padeceria de omissão e contradição, pelo seguinte:
+"As conclusões da denominada "perícia administrativa"não foram realizadas pelo INSS, conforme consta da r. decisão embargada e, sim, pelo órgão competente da Secretaria de Saúde do Estado do Rio de Janeiro que, inclusive, como já salientado nestes autos, indefere quase todos os pedidos de isenção do Imposto de Renda, mesmo os que se apresentam incontestáveis através de minuciosos laudos e exames médicos.
+A título de esclarecimento, permite-se o embargante informar que foram vários os processos patrocinados por seus advogados que tiveram reconhecido pelo Poder Judiciário o direito à isenção do Imposto de Renda, prevista na Lei nº 7.713/1988, anteriormente negado pela administração, à vista de laudos emitidos por médicos particulares, sem necessidade da realização de qualquer perícia, em razão do princípio do livre convencimento motivado, inserto no art. 371, do CPC, e no entendimento consagrado na Súmula nº 598, desse Egrégio STJ.
+Dessa forma, a r. decisão que ora se procura aclarar apresenta nítida contradição com relação ao próprio entendimento reiterado desse E. STJ, que deu ensejo à mencionada súmula.
+(..)
+A r. decisão ora recorrida, bem como o v. acórdão consideram o indeferimento emitido pela administração estadual (fl. 44) hierarquicamente superior, ou melhor, merecedor de maior veracidade e maior "eloquência"do que os laudos, exames e internações hospitalares constantes dos autos, apenas com base na presunção de legitimidade e veracidade da decisão de indeferimento da administração estadual, violando, sobremaneira, o princípio da independência das instâncias.
+Dessa forma, apenas com base na presunção de legitimidade dos atos administrativos, omitiu-se a r. decisão de V. Exa., da mesma maneira que o v. acórdão, em apreciar fundamentadamente os laudos, exames e internações hospitalares, contidos nos autos, comprobatórios da Cardiopatia Grave do autor, ora embargante, o que configura seu direito à isenção do Imposto de Renda, prevista no art. 6º, inciso XIV, da Lei nº 7.713/1988, em completa dissonância com a já citada súmula 598/STJ, que afirma ser prescindível a existência de laudo oficial" (fls. /349e).
+Requer, por fim, "sejam acolhidos os presentes Embargos de Declaração para a correção de erro material, suprimento das omissões e solução das contradições, a fim de que com o esclarecimento e a complementação do "decisum" se possa alcançar a verdadeira justiça" (fl. 351e).
+Contraminuta às fls. 356/358e.
+Os Embargos de Declaração não merecemprosperar.
+Como cediço, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" ou "corrigir erro material" (art. 1.022 do Código de Processo Civil).
+No caso, inocorrem quaisquer desses víciosA decisão embargada analisou clara e suficientemente a querela, apresentado os fundamentos de fato e de direito necessário à solução da lide.
+Com efeito, restou plasmado, na decisão embargada, que:
+"Não há de se cogitar de omissão nem de falta de fundamentação, no acórdão recorrido.
+Dessarte, o Tribunal de origem justificou, expressamente, sua adesão às conclusões da perícia administrativa do INSS nos seguinte termos:
+(..)
+Revela-se impossível, de lado outro, rever essa fundamentação do "decisum" guerreado. A uma, porque não houve, no Recurso Especial, impugnação específica quanto à suposta falta de requisição da realização de perícia judicial, o que, segundo a lógica interna do julgado, seria ônus do ora recorrente - aplicável, por analogia, no ponto, a Súmula 182/STJ. A duas, porque averiguar qual seria o laudo mais correto, do ponto de vista médico, demandaria a incursão no conjunto probatório dos autos, providência vedada pela Súmula 7/STJ" (fls. 342/343e).
+A argumentação no sentido de que à perícia oficial teria sido dado valor probante superior à perícia médica particular em nada altera esse quadro, especialmente no que tange ao ônus da prova e à presunção de legitimidade daquela.
+Registre-se, por fim, que o apontado erro material, ainda que existente, seria irrelevante para descaracterizar a perícia como oficial.
+Ante o exposto, rejeitoos Embargos de Declaração.
+I.
