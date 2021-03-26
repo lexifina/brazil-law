@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DO RECLAMO.
+1. Nos termos do art. 1.030, § 2º, do Código de Processo Civil, é cabível agravo interno contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral.
+2. A interposição de agravo em recurso extraordinário contra o referido pronunciamento judicial configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Precedentes do STJ e do STF.
+3. Recurso não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por SYLVIO JUNQUEIRA NOVAES e HELOISA RIBEIRO NOVAES, com fundamento no art. 1.042 do Código de Processo Civil, contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 949):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+Sustentam os agravantes que não caberia a esta Corte a análise da ocorrência de vilipêndio à Constituição Federal, pois importaria em inadmissível usurpação da competência do Supremo Tribunal Federal.
+Afirmam que estaria presente a repercussão geral da matéria e insistem na violação dos arts. 5º, incisos LIV e LV e 93, inciso IX, da Constituição Federal.
+No mais, reiteram os mesmos argumentos aduzidos no recurso extraordinário.
+Requerem o recebimento do presente agravo e sua remessa ao STF a fim de que seja conhecido e provido.
+Contrarrazões apresentadas somente por Rio Paraná Energia S/A (e-STJ fls. 992/1.004).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DO RECLAMO.
+1. Nos termos do art. 1.030, § 2º, do Código de Processo Civil, é cabível agravo interno contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral.
+2. A interposição de agravo em recurso extraordinário contra o referido pronunciamento judicial configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Precedentes do STJ e do STF.
+3. Recurso não conhecido.
+VOTO
+Inicial mente, no que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, o Tribunal a quo, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 543-A e 543-B do Código de Processo Civil de 1973 e art. 1.036 e seguintes do Novo Código de Processo Civil).
+Nesse sentido:
+AGRAVO INTERNO. RECLAMAÇÃO. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. RE Nº 632.853/CE - TEMA Nº 485. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. ART. 1.030, I, DO CPC. EXERCÍCIO DA COMPETÊNCIA DAS CORTES DE ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. NÃO CABIMENTO DA RECLAMAÇÃO CONSTITUCIONAL. 1. O Juízo reclamado, ao obstar seguimento ao agravo interno interposto contra a decisão pela não admissão do apelo extremo, utilizou precedentes de repercussão geral que guardam similitude e adequação com a espécie dos autos. Usurpação da competência desta Suprema Corte não demonstrada. 2. Agravo interno a que se nega provimento, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.
+(Rcl 38945 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 15/04/2020, PROCESSO ELETRÔNICO DJe-118 DIVULG 12-05-2020 PUBLIC 13-05-2020)
+De outro lado, nos termos do art. 1.030, § 2º, do Código de Processo Civil, contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral, cabe agravo interno e não agravo em recurso extraordinário para o Supremo Tribunal Federal.
+Confira-se, por oportuno, a letra do mencionado dispositivo legal:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, a exemplo do seguinte julgado:
+Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Contrato administrativo. Descumprimento das obrigações contratuais. Decisão mista. Capítulo em que se aplica a sistemática da repercussão geral. Não cabimento de recurso dirigido ao Supremo Tribunal Federal. Questões remanescentes. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. É incabível dirigir recurso ao Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral no juízo de origem. 2. A orientação consolidada na Corte foi agasalhada no Código de Processo Civil de 2015, que prevê como instrumento processual adequado contra a aplicação do instituto da repercussão geral a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC). (..) 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1263836 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+No mesmo diapasão:
+RECURSO EXTRAORDINÁRIO - INADMISSÃO - REPERCUSSÃO GERAL - IMPUGNAÇÃO - AGRAVO - ERRO GROSSEIRO. A decisão mediante a qual, observando a sistemática da repercussão geral, inadmitido recurso formalizado mostra-se impugnável por meio de agravo interno, a teor do artigo 1.030, § 2º, do Código de Processo Civil. COISA JULGADA - RECURSO INADMISSÍVEL. A interposição de recurso inadmissível não impede a formação da coisa julgada. Precedente: agravo regimental no recurso extraordinário nº 225.442, Pleno, de minha relatoria. RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL - OBSERVÂNCIA - COMPETÊNCIA - TRIBUNAL DE ORIGEM. A observância da sistemática da repercussão constitui ato inserido nas atribuições do Tribunal de origem, não caracterizando usurpação de competência do Supremo a negativa de seguimento a recurso extraordinário cuja controvérsia envolva matéria em relação à qual assentada inexistência de repercussão geral.
+(HC 171942, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 22/05/2020, PROCESSO ELETRÔNICO DJe-141 DIVULG 05-06-2020 PUBLIC 08-06-2020)
+Ademais, pacificou-se nos Tribunais Superiores o entendimento de que a interposição do recurso incorreto contra a decisão que nega seguimento ao recurso extraordinário configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade.
+Nessa esteira tem decidido esta Corte Superior de Justiça:
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO MANIFESTAMENTE INCABÍVEL. ART. 1.030, § 2º, DO CPC. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AGRAVO NÃO CONHECIDO.
+1. Conforme previsão do art. 1.030, § 2º, do Estatuto Processual Civil, é cabível Agravo Interno contra a decisão que negar seguimento a Recurso Extraordinário que discuta questão constitucional na qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou contra acórdão que esteja em conformidade com entendimento do STF exarado no regime de repercussão geral.
+2. A interposição de Agravo em Recurso Extraordinário em face de decisão que negou seguimento ao Recurso Extraordinário, nos termos do art. 1.030, I, "a", do Código de Processo Civil, evidencia a ocorrência de erro grosseiro, a impossibilitar a aplicação do princípio da fungibilidade recursal ao caso.
+3. Agravo em Recurso Extraordinário não conhecido.
+(ARE no RE nos EDcl nos EDcl no AgRg nos EAREsp 1040088/ES, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 09/06/2020, DJe 17/06/2020)
+Idêntica orientação é extraída da jurisprudência da Suprema Corte:
+HABEAS CORPUS - PRESSUPOSTOS RECURSAIS - CABIMENTO. Em jogo a liberdade de ir e vir, não se tem como deixar de adentrar a matéria versada no habeas, pouco importando que direcione à análise de pressupostos recursais. RECURSO EXTRAORDINÁRIO - INADMISSÃO - REPERCUSSÃO GERAL - IMPUGNAÇÃO - AGRAVO - ERRO GROSSEIRO. A decisão mediante a qual, observada a sistemática da repercussão geral, inadmitido recurso mostra-se impugnável por meio de agravo interno, a teor do artigo 1.030, § 2º, do Código de Processo Civil, constituindo erro grosseiro a interposição de agravo visando dar sequência ao extraordinário. COISA JULGADA - RECURSO INADMISSÍVEL. A interposição de recurso inadmissível não impede a formação da coisa julgada. Precedentes: habeas corpus nº 150.718, Primeira Turma, de minha relatoria e habeas corpus nº 113.558, Segunda Turma, relator ministro Gilmar Mendes.
+(HC 154737, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 29/06/2020, PROCESSO ELETRÔNICO DJe-178 DIVULG 15-07-2020 PUBLIC 16-07-2020)
+Por fim, tratando-se de recurso manifestamente incabível, não há suspensão ou interrupção do prazo para a interposição de novas insurgências.
+Ante o exposto, não se conhece do agravo em recurso extraordinário.
+Certifique-se o trânsito em julgado da decisão que negou seguimento ao recurso extraordinário.
+É o voto.
