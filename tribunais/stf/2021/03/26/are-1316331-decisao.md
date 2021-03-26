@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "EMBARGOS INFRINGENTES. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL EM CONTINUIDADE DELITIVA (ART. 1°, II, POR SESSENTA VEZES, C/C O ART. 11 E ART. 12, I, TODOS DA LEI 8.137/1990, NA FORMA DO ART. 71, CAPUT, DO CÓDIGO PENAL).
+    PRETENDIDA PREVALÊNCIA DO VOTO VENCIDO QUE DAVA PROVIMENTO AO APELO PARA ABSOLVER O ACUSADO, NOS TERMOS DO ART. 386, III, DO CÓDIGO DE PROCESSO PENAL, ANTE A ATIPICIDADE DA CONDUTA. IMPOSSIBILIDADE. CONTEXTO PROBATÓRIO QUE ATESTA A REDUÇÃO DO TRIBUTO POR MEIO DE FRAUDE. EMBARGANTE, NA CONDIÇÃO DE SÓCIO - ADMINISTRADOR DA EMPRESA, QUE DEIXOU DE DECLARAR OPERAÇÕES INTERESTADUAIS EM LIVROS PRÓPRIOS E DE RECOLHER A COMPLEMENTAÇÃO DE ICMS (DIFERENÇA ENTRE AS ALÍQUOTAS INTERNA E INTERESTADUAL). CONTRATO SOCIAL QUE EVIDENCIA A ATIVIDADE MERCANTIL. ADEMAIS, CONFISSÃO QUALIFICADA DO EMBARGANTE CORROBORADA PELOS RELATOS DA AUDITORA FISCAL, HÁBEIS A COMPROVAR A FRAUDE FISCAL. CONDUTA TÍPICA DEMONSTRADA. DECRETO CONDENATÓRIO MANTIDO.
+    EMBARGOS IMPROCEDENTES."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 155, § 2º, VII, "b", da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "Com efeito, a materialidade e autoria delitivas estão consubstanciadas por meio da notificação fiscal n. 126030308305 (fls. 22-23), dos documentos emitidos pela Secretaria de Estado da Fazenda (fls. 16-21), entre outros elementos colacionados aos autos.
+    A propósito, conforme prevê o contrato social da empresa Renovadora de Pneus Irmão da Estrada Ltda EPP, precisamente na Cláusula Terceira, 'constitui objeto da sociedade a exploração por conta própria do ramo de 'Recauchutagem, Vulcanização, Consertos e Comércio de Pneus e Câmaras' (fl. 52, grifou-se).
+    Além disso, a respectiva empresa estava inscrita na Fazenda Estadual como contribuinte do ICMS, bem como efetuava, nesta condição, aquisição de materiais provenientes de outros Estados da federação e beneficiava-se com a alíquota reduzida.
+    Na condição de sócio -administrador, apesar de afirmar que não vendia os pneus e apenas os recauchutava, o ora embargante José Adair Aguiar de Sá admitiu adquirir materiais imprescindíveis para a realização da atividade comercial, como por exemplo bandas de rodagem do Estado de São Paulo - elementos estes que, por óbvio, integrarão as carcaças de pneus, repassadas aos clientes. Ainda, a fim de esclarecer a fraude, tem-se os relatos da auditora fiscal. A transcrição dos depoimentos foi realizada com exímio pelo eminente relator, Des. Ernani Guetten de Almeida. Veja-se:
+    (...)
+    Vê-se, portanto, que auditoria constatou detalhe crucial, pois se o ora embargante, como sócio -administrador, de fato atuasse na condição de contribuinte do ISS quando da aquisição das mercadorias, faria incidir a aliquota interna integral de outro estado e não o valor da aliquota interestadual. Consta às fls. 89-90, que o percentual de ICMS devido era de 12%, já o percentual de ISS, era de 17% (fls. 230; 306), perfazendo a diferença de 5% entre o valor da arrecadação devida.
+    A propósito, embora o embargante tenha alegado que deixou de recolher o tributo devido com base em orientação prévia da Comissão Permanente de Assuntos Tributários - COPAT -, tal fato não torna atípica a conduta por ele perpetrada, especialmente quando evidenciada a fraude, pois se utilizava da condição de contribuinte de ICMS para adquirir as mercadorias, beneficiando-se da aliquota interestadual, deixando de declarar o valor integral da contribuição.
+    (...)
+    Outrossim, o Superior Tribunal de Justiça firmou entendimento de 'que os crimes contra a ordem Tributária previstos no artigo 1° da Lei n. 8.137/90 prescinde de dolo específico, bastando para a subsunção à norma o não recolhimento do tributo.' (AgRg no AREsp 900.438/RS, rel. Min. Barros Monteiro, j. 06-02-2018)."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Penal. Crime tributário. Supressão de tributos. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºS 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF), bem como da legislação infraconstitucional pertinente. 3. Agravo regimental não provido” (ARE nº 1.184.865/SP – AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 24/4/19).
+    No mesmo sentido: ARE nº 1.096.533/ES-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 11/12/18.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
