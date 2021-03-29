@@ -1,0 +1,48 @@
+VISTOS.
+Trata-se de recurso especial interposto por MARIA ALDA ANTONELLI E OUTROS com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público e Coletivo, assim ementado (id. 31804469):
+“AGRAVO INTERNO – AÇÃO DE COBRANÇA DE URV – RECURSO DE APELAÇÃO/REMESSA NECESSÁRIA - DECISÃO QUE DECLINOU A COMPETÊNCIA PARA O JUIZADO ESPECIAL DA FAZENDA PÚBLICA – IRDR N. 85660/2016 – ENUNCIADO N. 01 - LITISCONSÓRCIO ATIVO FACULTATIVO – DEVE SER CONSIDERADO O VALOR DE CADA AUTOR, INDIVIDUALMENTE – INDEPENDENTEMENTE DA COMPLEXIDADE DA MATÉRIA E DA NECESSIDADE DE PROVA PERICIAL - TRAMITAÇÃO JUNTO AO JUIZADO ESPECIAL DA FAZENDA - POSSIBILIDADE - RECURSO DESPROVIDO.
+1. Em se tratando de litisconsórcio ativo facultativo, para que se fixe a competência dos Juizados Especiais, deve ser considerado o valor de cada autor, individualmente, independentemente da complexidade da matéria e da necessidade de prova pericial.”.
+Opostos embargos de declaração, estes foram rejeitados no acórdão de id 77268459.
+Inconformada, alega o recorrente, em síntese, violação aos artigos violação ao artigo 38, § Único, da Lei no 9.099/95, e artigos 2o, § 2o, e 27, da Lei no 12.153/2009, além de divergência jurisprudencial, ao argumento de que foi formulado pedido ilíquido, cuja quantificação somente será possível na fase de liquidação, de modo que não há como se afirmar que a causa se encarta naquelas aquém de 60 salários mínimos.
+Recurso tempestivo (id. 78233976).
+Contrarrazões no id. 78579087.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+A Recorrente alega violação aos artigos violação ao artigo 38, § Único, da Lei no 9.099/95, e artigos 2o, § 2o, e 27, da Lei no 12.153/2009, além de divergência jurisprudencial, ao argumento de que foi formulado pedido ilíquido, cuja quantificação somente será possível na fase de liquidação, de modo que não há como se afirmar que a causa se encarta naquelas aquém de 60 salários mínimos.
+No acórdão impugnado ficou consignado que:
+“(...)É certo que, esse montante é inferior ao valor de R$ 40.680,00) quarenta mil seiscentos e oitenta reais), correspondente a sessenta (60) salários mínimos vigentes à época da propositura da demanda, ocorrida em 15 de outubro de 2013 (Id. 3955412), visto que o salário mínimo em vigor no ano de 2013, era no montante de R$ 678,00 (seiscentos e setenta e oito reais).
+Todavia, em se tratando de litisconsórcio ativo facultativo, para que se fixe a competência dos Juizados Especiais, deve ser considerado o valor de cada autor, individualmente, não importando se a soma ultrapassa ou não, o limite dos 60 (sessenta) salários mínimos. (STJ, Segunda Turma, REsp 165834/SP, relator Ministro Herman Benja min, publicado no Diário da Justiça Eletrônico em 16 de junho de 2017).
+[...] 1. O valor dado à causa pelo autor fixa a competência absoluta dos Juizados Especiais (cf. AgRg no AREsp 384.682/SP, Rel. Ministro Mauro Campbell Marques, DJe 07/10/2013; AgRg no AREsp 349.903/RJ, Rel. Ministro Castro Meira, DJe 12/09/2013; AgRg no REsp 1373674/SC, Rel. Ministro Herman Benjamin, DJe 19/09/2013).
+2. Segundo precedentes deste Superior Tribunal em se tratando de litisconsórcio ativo facultativo, para que se fixe a competência dos Juizados Especiais, deve ser considerado o valor de cada autor, individualmente, não importando se a soma ultrapassa o limite dos 60 (sessenta) salários mínimos (AgRg no REsp 1376544/SP, Rel. Ministro Humberto Martins, DJe 05/06/2013). [...]. (STJ, Segunda Turma, AgRg no REsp 1358730/SP, relator Ministro Mauro Campbell Marques, publicado no Diário da Justiça Eletrônico em 26 de março de 2014).
+No caso, estão presentes vinte e três (23) pessoas no polo ativo da demanda; logo, a competência para processar e julgar pretensão ao recebimento de diferença remuneratória decorrente de conversão do Cruzeiro Real em Unidade Real de Valor – URV, é do Juizado Especial da Fazenda Pública, conforme decidiu o Tribunal em sede de incidente de resolução de demandas repetitivas:
+[...] Compete ao Juizado Especial da Fazenda Pública o processamento e o julgamento das ações, em que o valor da causa não ultrapasse a 60 (sessenta) salário mínimos, independentemente da complexidade da matéria e da necessidade da produção da prova pericial.
+Por se tratar de questão de direito e, com vistas a evitar ofensa à segurança jurídica, deve o pedido formulado no Incidente de Resolução de Demandas Repetitivas ser julgado improcedente, fixando, de consequência, a tese jurídica de que as ações concernentes à URV devem ser processadas e julgadas no Juizado Especial da Fazenda Pública, nos termos do art. 2o, da Lei n. 12.153/2009. [...]. (TJ/MT, Seção de Direito Público, incidente de resolução de demandas repetitivas 85560/2016, relator Desembargador Márcio Vidal, julgamento em 28 de novembro de 2018).
+Em conclusão, o recurso é contrário a entendimento firmado em incidente de resolução de demandas repetitivas, a autorizar decisão unipessoal do relator.
+Essas, as razões por que, com fundamento no artigo 932, IV, c, do Código de Processo Civil, nego provimento ao recurso. [...].
+Entretanto, ao contrário do que alegam os agravantes, compete ao juizado Especial da Fazenda Pública para processar e julgar as ações concernentes à URV, independente da complexidade da matéria e necessidade de produção de prova pericial, porquanto, no caso, estão presentes vinte e três(23) pessoas no polo ativo da demanda; logo, a competência para processar e julgar pretensão ao recebimento de diferença remuneratória decorrente de conversão do Cruzeiro Real em Unidade Real de Valor – URV, é do Juizado Especial da Fazenda Pública, conforme decidiu o Tribunal em sede de incidente de resolução de demandas repetitivas.
+Assim, os argumentos deduzidos neste Agravo Interno não mostram motivos suficientes a ensejar mudança na decisão monocrática proferida”.
+Pois bem.
+Compulsando os autos, observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo, senão vejamos:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. VALOR ATRIBUÍDO À CAUSA. COMPETÊNCIA ABSOLUTA. COMPLEXIDADE DA LIDE. IRRELEVÂNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I – [...] II - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual a competência dos Juizados Especiais da Fazenda Pública, sendo absoluta, é firmada segundo o valor atribuído à causa, independentemente do grau de complexidade da lide.
+III – [...] V - Agravo Interno improvido”. (AgInt no RMS 61.265/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020) (g.n.)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 38 e 52 da Lei 9.099/95, bem como o artigo 27 da lei 12.153/2009, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Ante o exposto, nego seguimento ao recurso interposto por MARIA ALDA ANTONELLI E OUTROS.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
