@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EMRECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Roney Ramalho Sereno contra a decisão monocrática, de minha lavra, assim ementada (fl. 1.425):
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE.INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo não conhecido.
+Nas razões, a defesa do agravante aduziu que o agravo em recurso especial não padece de impugnação deficiente, poislogrou impugnar os fundamentos da decisão de inadmissão, inclusive aqueles tidos como inatacados na decisão agravada.
+Asseverou que,ao refutar os argumentos que negaram seguimento ao recurso especial, a defesa técnica do Agravante apresentou - nos itens 53 a 55 da petição de agravo em recurso especial - que o questionamento trazido a esta E. Corte diz respeito, tão somente, à aplicação do dispositivo da Lei n. 4.657/42 (Lei de Introdução às Normas de Direito Brasileiro, em seu artigo 2º, § 1º) e ao artigo 70 do Código de Processo Penal(fl. 1.441).
+Concluiu, assim, quedescabe falar que o Agravante não teria atacado todos os fundamentos adotados pelo E. TJDFT para negar provimento ao recurso em sentido estrito, notadamente quanto à violação aos artigos 2º, inciso I, da Lei n. 4.657/1942, 6º do Código Penal e 70 do Código de Processo Penal, visto que esses dispositivos buscam afastar especificamente a alegação do Tribunal de origem quanto à fixação da competência para processamento e julgamento da ação penal n. 0006016- 81.2017.8.07.0008(fl. 1.441).
+Pugnou, então, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EMRECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão deve ser mantida, pois, ao contrário do que a defesa do agravante alega, dois fundamentos da decisão de inadmissão não foram devidamente impugnados, circunstância que obsta o conhecimento da íntegra doagravo e, por consequência, do recurso especial que se almeja destrancar.
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial:
+ ..
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018 - grifo nosso)
+Veja-se que, ao obstar o recurso especial com fundamento na Súmula 283/STF, a Corte de origem firmou que a defesa do agravante não atacou todos os fundamentos do acórdão atacado (fls. 1.362/1.363):
+ ..
+No que tange ao suposto malferimento aos artigos artigos 2º, inciso I, da Lei 4.657/1942, 6º do Código Penal e 70 do Código de Processo Penal, descabe transitar o apelo, porquanto não houve combate específico aos fundamentos do acórdão recorrido no sentido de que "A questão foi examinada nos autos do recurso em sentido estrito n. 2018.01.1.001173-2 e na exceção de incompetência n.2018.01.1.004648-4 (ID 12792191, p. 1/5). Naqueles julgamentos decidiu-se que competente o Juízo do Tribunal do Júri da Circunscrição Judiciária de Brasília  DF para processar e julgar a ação penal. Os crimes foram cometidos no Condomínio Estância Quintas da Alvorada que integra a região administrativa do Jardim Botânico. E, de acordo com o art. 2º,sç 1º, alínea "h", da Resolução n. 4/2008 do Tribunal do Pleno deste Tribunal, os crimes cometidos na região administrativa do Jardim Botânico são de competência da circunscrição judiciária de Brasília - DF. A questão está, portanto, preclusa." (ID 14128436 - Pág. 2/3, g.n.).
+Insta destacar que, de acordo com entendimento firmado pela Corte Superior, "Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso nãoabrange todos eles")" (AgInt no REsp 1.829.998/MG, Rel. Ministra ASSUSETE MAGALHÃES, DJe 19/12/2019).
+ ..
+Tal conclusãosó poderia ser infirmadamediante demonstração da impugnação do fundamento tido como inatacado, inclusive comocotejo entre os fundamentos do aresto combatido e asrazões do recurso especial,o que não se verifica nas razões do agravo em comento(fls. 1.367/1.382).
+O agravante também não impugnou um fundamento subsidiário lançado na decisão para obstar o mesmo tópico do recurso especial, qual seja, a impossibilidade de exame de normas locais em sede de recurso especial (Súmula 280/STF) - fl. 1.363:
+ ..
+Ademais, a análise da tese do recorrente, quando aduz que a competência para o processamento e julgamento do feito seria da Circunscrição Judiciária do Paranoá, exigiria a análise de normas locais bem como de competência interna deste TJDFT, e "Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n.280 do Supremo Tribunal Federal" (AgInt no REsp n. 1.821.082/AC, Rel. Ministra REGINA HELENA COSTA, DJe 18/12/2019).
+ ..
+Veja-se que, ao impugnar o referido fundamento, oagravante deduziuassertiva genérica-no sentido de que o recurso especial não almejavaa análise de normas distritais, mas sim ao art.2º, § 1º, da Lei n. 4.657/1942 (Lei de Introdução às Normas de Direito Brasileiro) e ao artigo 70 do Código de Processo Penal(fl. 1.381) -,veiculando, na sequência,argumentos que não respaldam tal afirmação; ao contrário,corroboramcom o óbice que ensejou a inadmissão do recurso (Súmula 280/STF),pois calcados na análise de normas locais.
+Eis as razões do agravo (fls. 1.381/1.382 - grifo nosso):
+ ..
+50. Tampouco subsiste o alegado óbice da súmula n. 280, visto que no caso em tela não se busca a análise de normais distritais, mas sim ao artigo 2º, § 1º, da Lei n. 4.657/42 (Lei de Introdução às Normas de Direito Brasileiro) e ao artigo 70 do Código de Processo Penal.
+51. Ora, no caso em liça, aLei que veio a criar a Região Administrativa do Jardim Botânico (Lei n. 3435/2004) não revogou a lei que havia criado a Região Administrativa do Paranoá e tampouco aLei Complementar n. 506/2002, segundo a qual o Condomínio Estância Quintas da Alvorada estaria localizado nesta Região Administrativa. Nesse ínterim, aPortaria Conjunta n. 004/2015, editada por uma Secretaria Distrital não teria o condão de revogar uma lei complementar  como disposto no acórdão recorrido.
+52. Ademais, não é despiciendo mencionar que o artigo 70 do CPP estabelece que "a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução".
+53. Nesse sentido, insta frisar que o conceito de "lugar" previsto no Código de Processo Penal é aquele disciplinado por lei e apto a atrair a competência de determinado juízo, sejam nos Municípios ou nas regiões administrativas do Distrito Federal.
+54. No entanto, o v. acórdão recorrido houve por bem negar vigência ao artigo 70 do Código de Processo Penal aduzindo que uma mera portariaadministrativa teria o condão de revogar legislação federal, ignorando o conceito de lugar previsto no CPP.
+55. Dessa feita, verifica-se patente violação ao artigo 2º, § 1º, da Lei nº 4.657/42, segundo o qual "A lei posterior revoga a anterior quando expressamente o declare, quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior", eis que a C. Segunda Turma do egrégio Tribunal a quo aduziu que a Portaria Conjunta n. 004/2015 teria o condão de revogar o disposto na Lei n. 4.545/64 e no Decreto n. 11.921/89, ainda que se trate de mera portaria administrativa  violando, consequentemente, o princípio da hierarquia das normas jurídicas, conforme já decidido por este Egrégio STJ.
+ ..
+Logo, o agravo ostenta impugnação deficiente, sendo inapto a desconstituir a decisão agravada.
+Nesse sentido, destaco os seguintes precedentes:
+ ..
+5. É dever do recorrente impugnar com exatidão todos os fundamentos que alicerçam a negativa de admissibilidade de seu recurso.Entretanto, a agravante se contentou apenas em reproduzir recurso padrão com impugnação geral a diversos dispositivos legais, sem combater a divergência não comprovada.
+6. O STJ entende que o Recurso de Agravo não merece conhecimento com base na Súmula 182/STJ quando deixar de impugnar, com transparência e objetividade, especificamente as motivações da decisão agravada, como na hipótese dos autos, em que a recorrente não atacou a falta de fundamento do recurso de Agravo em Recurso Especial.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.077.032/SP, Ministro Herman Benjamin, Segunda Turma, DJe 13/11/2018 - grifo nosso)
+AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS AUTÔNOMOS. AUSÊNCIA DE IMPUGNAÇÃO. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. TRIBUNAL DO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. APELAÇÃO PROVIDA. DETERMINAÇÃO DE NOVO JULGAMENTO. VIOLAÇÃO DA SOBERANIA DOS VEREDICTOS. INOCORRÊNCIA. AUSÊNCIA DE ARGUMENTOS NOVOS. MERO INCONFORMISMO. AGRAVOS INTERNOS IMPROVIDOS.
+1. Entende esta Corte que autônomos ou não, todos os fundamentos da decisão que não conheceu do recurso especial devem ser rebatidos, mostrando-se inadmissível o agravo que não cumpre o ônus de se insurgir demaneira suficientecontra cada um deles.
+2. Não configura desrespeito ou afronta à soberania dos veredictos o acórdão que, apreciando recurso de apelação, conclui, de maneira fundamentada, pela completa dissociação do resultado do julgamento pelo Júri com o conjunto probatório produzido durante a instrução processual, razão por que deve ser mantida a decisão monocrática proferida.
+3. Agravos internos improvidos.
+(AgInt no AREsp n. 404.297/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018 - grifo nosso)
+ ..
+1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge,não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso)
+Ante o exposto, nego provimento ao agravo regimental.
