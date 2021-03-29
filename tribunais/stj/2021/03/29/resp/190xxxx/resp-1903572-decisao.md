@@ -1,0 +1,38 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto porPAMELA PEREIRA DA SILVA DAS NEVES contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÕES CÍVEIS. PLANO DE SAÚDE INDIVIDUAL. NEGATIVA DE FORNECIMENTO DO MEDICAMENTO OCRELIZUMABE. AUTORA PORTADORA DE ESCLEROSE MULTIPLA. PRESCRIÇÃO REALIZADA PELO MÉDICO ASSISTENTE. DEVER DO PLANO DE SAÚDE EM CUSTEAR MEDICAMENTO AINDA QUE MINISTRADO EM AMBIENTE DOMICILIAR. ENTENDIMENTO PACIFICADO PELO STJ. ROL DA ANS MERAMENTE EXEMPLIFICATIVO. DANO MORAL NÃO CONFIGURADO. MERO DESCUMPRIMENTO CONTRATUAL NÃO ENSEJA A CONDENAÇÃO. SENTENÇA REFORMADA. NECESSIDADE DE REDISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA.RECURSO DA RÉ PARCIALMENTE PROVIDO.RECURSO DA AUTORA PREJUDICADO.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem alteração do julgado(fls. 735/740).
+No recurso especial, interposto com fundamento nas alíneas a e cdo permissivo constitucional, arecorrente apontou, além da divergência jurisprudencial, ofensa aos seguintes dispositivos: art. 1.022 do CPC, 186, 187, e 927do CC.
+Em suas razões, arecorrente sustenta, preliminarmente, a nulidade do julgado ao não sanar as omissões apontadas quanto ao pedido de dano moral em razão da recusa em fornecer o medicamento. Quanto ao mérito, alegouque, diversamente do que restou consignado no v. acórdão recorrido, (I) o evento danoso (negativa no fornecimento de medicamento) afetou a dignidade da autora, ensejando a reparação pelos danos morais daí decorrentes; (II) aautora luta diariamente por sua sobrevivência e a negativa de fornecimento do medicamento adequado à sua doença,ao contrário do que entendeu o V. Acórdão recorrido, não se tratou de "mero dissabor" do cotidiano.
+Foram apresentadas as contrarrazões (fls. 850/868).
+É o relatório.
+Passo a decidir.
+A irresignação recursal deve prosperar.
+Inicialmente, afasto as preliminares de não conhecimento do recurso especial, porquanto, a matéria federal questionada referente à ocorrência de dano moral foi devidamente demonstrada e a análise do recurso, quanto à tal ponto, não prescinde do revolvimento de aspectos fáticos dos autos, já que sua análise se dará com base nas circunstância analisadas pelo Tribunal de origem. Ademais, o dissídio jurisprudencial foi devidamente comprovado, tendo a parte realizado o indispensável cotejo analítico.E, ainda, que não podendo ser conhecido o recurso especial fundado em negativa de vigência a normas constitucionais, o recurso pode ser conhecido quanto aos demais pontos.
+Tendo sido apontada a alegada ofensa ao art. 1.022 do CPC, aplico o disposto no art. 1.025 do CPC, considerando o prequestionamento ficto dos dispositivos de lei indicados como violados pelarecorrente.
+Quanto ao mérito, compulsando os autos, verifica-se que o Tribunal de origem, ao analisar a situação dos autos, assentou que houve negativa desarrazoada por parte da operadora do plano de saúde em fornecer os medicamentos devidamente prescritos para tratamento da parte autora sob o sistema home care. Concluiu, contudo, que o dano moral em relação à beneficiária não restou configurado.
+Confira-se(Fls. 690/692):
+3.3. Nesta esteira, ao reconhecer a ocorrência do dano moral, deve serobservado se o evento tido como danoso tem o condão de afetar a dignidade da pessoa.
+3.4.. Vale lembrar que, conforme o entendimento jurisprudencial, odescumprimento do contrato, por si só, não é suficiente para gerar dano moral, senão vejamos:(..)
+3.5. No caso ora discutido, embora a autora esteja passando por uma 3situação de extrema necessidade do medicamento, em virtude de doença grave, analisando o caderno processual, verifica-se que a negativa do tratamento, configura-se como mero dissabor, uma vez que existe a possibilidade de se reverter tal negação, o que se realizou com a intervenção judicial, concessão da liminar (mov. 22.1), assim sendo, não é possível conferir que isso afetou sua dignidade.
+Assim, inexiste ato ilícito que afronte a honra da autora ao ponto dejustificar 3.6. a indenização por dano moral.
+3.7. Portanto, merece reparo a sentença quanto à condenação a título de danos morais, restando prejudicada a análise do recurso da autora, a qual pleiteia, tão somente, o ajuste do termo inicial dos juros de mora incidentes sobre a condenação em danos morais.
+Contudo, a jurisprudência desta Corte Superior pacificou-se no sentido de que a negativa indevida por parte da operadora dos planos de saúde em custear as despesas do tratamento médico domiciliar prescrito pelo médico gera dano moral compensável, por submeter o usuário em condições precárias de saúde à situação de grande aflição psicológica e tormento interior, o que ultrapassa o mero dissabor.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO PELO SISTEMA HOME CARE. DANO MORAL. CONFIGURAÇÃO. MATÉRIA DE DIREITO. INAPLICABILIDADE DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS FIXADOS NOS TERMOS DO ART. 20, § 4º DO CPC/73. AGRAVO PARCIALMENTE PROCEDENTE.(..)
+2. Esta Corte entende que o fato de a operadora do plano de saúde negar indevidamente a cobertura das despesas do serviço de internação domiciliar (home care) prescrito pelo médico aos seus beneficiários configura dano moral passível de indenização, o que afasta a aplicação das Súmulas nºs 5 e 7 do STJ, por se tratar de matéria de direito, tornando-se dispensável o reexame do contrato e do conjunto fático-probatório dos autos.(..)
+4. Agravo regimental parcialmente provido.
+(AgRg no AREsp 834.677/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. RECUSA INJUSTIFICADA. DANO MORAL. CONFIGURAÇÃO. VALOR INDENIZATÓRIO. REVISÃO. SÚM. 7/STJ. RECURSO NÃO PROVIDO.
+1. A recusa injustificada de cobertura do serviço de home care ao segurado de plano de saúde configura danos morais indenizáveis.Precedentes.
+2. É inviável rever a conclusão do Tribunal de origem de que a recusa foi imotivada, assim como rever o valor da indenização fixada em R$ 10.000,00, em face do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 881.278/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2016, DJe 01/08/2016)
+Impõe-se, portanto, o acolhimento da pretensão recursal, com a devida reforma do acórdão recorrido, reconhecendo-se o cabimento da compensação por dano moral que atenda aos princípios da proporcionalidade e da razoabilidade, de modo a evitar o indesejado enriquecimento do autor da indenizatória sem, contudo, ignorar o caráter preventivo e repressivo inerente ao instituto.
+Assim, diante da jurisprudência consolidada desta Corte Superior, o provimento do especial para julgar procedente o pedido compensatório por danos morais é medida que se impõe, restabelecendo a condenação ao pagamento de dano moral fixado na sentença,acrescido de correção monetária a partir desta data (Súmula 362 do STJ) e de juros moratórios a partir da citação, a base de 1% (um por cento) ao mês. Fica restabelecida, ainda, a sucumbência fixada em primeiro grau.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação
+Advirto as partes da multa importa ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.PLANO DE SAÚDE. HOME CARE. RECUSA INJUSTIFICADA PELO PLANO DE SAÚDE. PREMISSA ASSENTADA PELO TRIBUNAL DE ORIGEM. REVALORAÇÃO. DANO MORAL. CONFIGURADO. INDENIZAÇÃO DEVIDA.
+RECURSO ESPECIAL PROVIDO.
