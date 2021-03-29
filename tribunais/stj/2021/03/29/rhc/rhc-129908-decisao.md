@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto porLuis Fernando Rocha Cardosocontra o acórdão proferido peloTribunal de Justiçade Minas Gerais, que denegou a ordem do HC n.1.0000.20.000021-4/000 (fls. 203/206).
+Conforme consta dos autoso recorrente cumpre pena de 27 anos, 7 meses e 11 dias de reclusão, no regime fechado (Execução Penal n. 0149723-29.2013.8.13.0672).
+Alega a defesa,constrangimento ilegal no indeferimento do pedido de prisão domiciliar, em razão da pandemia deCovid-19, porausência da individualização do pedido formulado em favor do recorrente e por ausência de fundamentação(fl. 19).
+Aduz que o recorrente faz parte do grupo do risco do coronavírus, visto que é portador de diabetes.
+Requer, assim, o provimento do recurso para seja concedidaao recorrente a prisão domiciliar.
+Liminar indeferida (fls. 239/240).
+Informações prestadas (fls. 245/300), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 123/125).
+É o relatório.
+Não obstante as alegações da defesa, a insurgência não prospera.
+É cediço que aRecomendação n. 62/2020 do Conselho Nacional de Justiçarecomenda aos Tribunais e magistrados a adoção de medidaspreventivas à propagação do coronavírus no âmbito dos sistemas dejustiça penal e socioeducativo. O art. 5º, III, da aludidarecomendação aconselha a concessão da prisão domiciliar aos presosem cumprimento de pena em regime aberto e semiaberto(AgRg no HC n. 596.803/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 28/9/2020).
+No presente caso, oJuízo singular inferiu o pedido de prisão domiciliar, afirmando queeste juízo vem mantendo contato diário com a Direção do Presídio e APAC/SL, que informaram que estão tomando todos os cuidados para evitar a contaminação dos detentos, adotando práticas de higiene e saúde recomendadas pela OMS e Ministério da Saúde.Vejo, ainda, que o sentenciado se encontra em regime fechado (fl. 99 - grifo nosso).
+O Tribunal a quo manteve o indeferimento, asseverando que, como bem salientado pelo i. Procurador Geral de Justiça, "ademais, observa-se que o recorrente está recebendo o devido tratamento no presídio onde se encontra acautelado, além de sua saúde estar sendo monitorada de perto pelo Juízo de piso, que mantém contato diário com a Direção do presídio, não tendo notícia até hoje de qualquer agravamento do seu estado de saúde ou de que o mesmo não esteja recebendo a medicação necessária para controle da diabetes" (fl. 206).
+Com efeito, verifica-se que as instâncias ordinárias apresentaram fundamentação idônea para indeferir o pedido de domiciliar, tendo sido afirmado que o recorrente cumpre pena em regime fechado,que estabelecimento prisional estáadotando práticas de higiene e saúde recomendadas pela OMS e Ministério da Saúde e que não houve qualquer agravamento no estado de saúde do recorrenteou que ele não esteja recebendo a medicação necessária para controle de diabetes.
+Assim, embora o recorrente sejaportador de diabetes,nãoficoucomprovadoqueestejacom a saúdedebilitada, sendo que, pelo que constados autos, está recebendo acompanhamento do núcleo de saúdenaunidade prisional (fl. 300).
+Vale ressaltar que a prisão domiciliar só é admitida em favor de presoinserido no regime aberto, a teor do que dispõe o art. 117 da Lei deExecução Penal. Contudo, comprovado que o recluso - não obstante cumprapena nos regimes fechado ou semiaberto - esteja acometido por doençagrave, com debilidade acentuada de sua saúde, e que o tratamento médiconecessário não possa ser prestado no ambiente prisional, admite-se, deforma excepcional, sua colocação em prisão domiciliar (AgRg no HC n.557.255/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/4/2020).
+Sobre o tema, confiram-se ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.RESOLUÇÃON.62/2020DO CNJ. REGIME SEMIABERTO. APENADO DO GRUPODERISCO.ASSISTÊNCIA À SAÚDENO ESTABELECIMENTO PRISIONAL. INEXISTÊNCIADEDISSEMINAÇÃO DO VÍRUS NOLOCAL. DESNECESSIDADE DE MEDIDASEXCEPCIONAIS.PRISÃO DOMICILIARINDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ante a declaração pública de pandemia, o Conselho NacionaldeJustiçaresolveu recomendar aos magistrados com competência sobreaexecução que,em observância ao contexto local de disseminaçãodaCovid-19, considerem aadoção de algumas medidas com vistas à reduçãodos riscos epidemiológicos.
+2. A Recomendação n. 62/2020 não é norma de caráter cogente enãocriouespécie de ordem de liberação geral da população carcerária.Éumaorientação aos juízes e aos Tribunais e deve serinterpretadacomrazoabilidade, ponderados o cenário de surto da doença emcadaambientecarcerário, conforme indica o próprio Conselho NacionaldeJustiça.
+3. O paciente não é idoso, está no regime semiaberto e cumprepenaporhomicídio qualificado. Ele integra o grupo de risco maissuscetível deserinfectado, mas não houve alastramento do novoCoronavírus em suaunidadepenal, a qual, segundo o Juiz da VEC, é uma dasmais equipadaseestruturadas de São Paulo. O Estado presta assistência aosentenciado,quenão apresenta quadro clínico debilitado.
+4. À luz do art. 5º da Recomendação n. 62/2020 do CNJ, emobservânciaaocontexto epidemiológico do local de reclusão do postulante,que nãoépreocupante, não está configurada situação que justifiqueoabrandamentoexcepcional da execução.
+5. Agravo regimental não provido.(AgRg no HC n. 580.767/SP,MinistroRogerio Schietti Cruz, Sexta Turma, DJe 4/8/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO.OCULTAÇÃODECADÁVER. EXECUÇÃO PENAL. RECLUSÃO DE 15 ANOS.COVID-19.RECOMENDAÇÃON.62/2020 DO CNJ. PRISÃO DOMICILIAR. INVIÁVEL.AGRAVO IMPROVIDO.
+1. O Juiz da execução fundamenta validamente o indeferimentodaprisãodomiciliar quando aponta o não preenchimento da Recomendação62doCNJ,pois o paciente cumpre pena em regime fechado - 15 anos de reclusão,alémda falta de prova de que ele não recebe tratamento médicoadequadonaunidade prisional, de que receberá cuidados médicos maisadequados foradocárcere, e de que há risco concreto, no presídio onde seencontra,maiordo que o suportado pelas pessoas em geral .
+2. A concessão de custódia domiciliar, in casu, afronta odispostonasupracitada Recomendação, uma vez que é inerente ao tipopenaldehomicídio qualificado a violência ou grave ameaça à pessoa.
+3. Agravo regimental improvido.(AgRg no HC n. 582.067/SP, MinistroNefi Cordeiro, Sexta Turma, DJe2/9/2020)
+Diante desse contexto, não há ilegalidade a ser sanada por esta Corte.
+Ante o exposto, nego provimentoao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. RECORRENTENÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
