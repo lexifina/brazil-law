@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à adequação dos juros e correção monetária incidentes sobre o valor devido, resguardada a coisa julgada. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 100, parágrafos 5º e 12, da Constituição Federal. Diz contrariado o verbete vinculante nº 17 da Súmula do Supremo. Entende não incidentes os juros moratórios no prazo de parcelamento. Busca a restituição do valor que alega ter sido pago a maior.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    Civil e processual. Ação de indenização por danos materiais e morais decorrentes de acidente de trânsito julgada procedente e em fase de execução do acórdão. Processo extinto com fundamento no artigo 794, inciso I, do Código de Processo Civil de 1973. Pretensão à reforma manifestada pelo réu, sob o pretexto de que o autor teria recebido mais que o devido. Não pode a autarquia estadual (DER/SP), depois de efetuar o pagamento de todas as 10 (dez) parcelas de precatório expedido no ano de 2003, conforme cálculos que foram consolidados no decurso do processo executivo, com quitação da dívida em 2011, alegar, em incabíveis embargos de declaração oferecidos em 2013, "excesso de depósito', invocando o artigo 1º-F da Lei n. 11.960/2009 e a Súmula Vinculante n. 17, que não podem ser aplicadas retroativamente. Precedentes deste E. Tribunal de Justiça. RECURSO DESPROVIDO.
+    O Supremo, no julgamento do recurso extraordinário nº 590.751/SP, da relatoria do ministro Ricardo Lewandowski, concluiu pela não incidência de juros no pagamento de precatórios, quando realizado no prazo previsto no artigo 78 do Ato das Disposições Transitórias da Carta Federal, acrescido pela Emenda Constitucional nº 30/2000. A situação concreta, no entanto, distancia-se da retratada no precedente, ante circunstância ressaltada no acordão recorrido: o fato de a decisão, quanto aos juros e correção monetária, estar coberta pela preclusão maior, a coisa julgada.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 29 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
