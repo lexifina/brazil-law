@@ -1,0 +1,53 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial interposto no Agravo de Instrumento no 1016332-47.2020.8.11.0000
+RECORRENTE: DARIEL ELIAS DE SOUZA
+RECORRIDO: MIDIAN DA SILVA OLIVEIRA
+Vistos.
+Trata-se de Recurso Especial (id 75901468) interposto por DARIEL ELIAS DE SOUZA com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (id 61271993):
+RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO DE INDENIZAÇÃO POR ATO ILÍCITO C/C DANOS MORAIS, MATERIAIS E ESTÉTICOS CAUSADOS POR ACIDENTE DE TRÂNSITO – PRESCRIÇÃO – INOCORRÊNCIA – ARTIGO 206, § 3o, V, DO CC – PRESCRIÇÃO TRIENAL – AJUIZAMENTO DA AÇÃO NO PRAZO LEGAL – DIVERSAS TENTATIVAS DE CITAÇÃO – DESÍDIA DA PARTE AUTORA – INEXISTÊNCIA –DECISÃO MANTIDA – RECURSO DESPROVIDO. Não se identificam elementos que afastem a conclusão da juíza singular quanto ao afastamento da prescrição, com fundamento no artigo 206, § 3o, V, do Código Civil, considerando que o acidente de trânsito ocorreu em 09/12/2015 e a propositura da demanda se deu em 22/01/2018, não decorrendo assim o prazo trienal. Descabida a alegação de inércia da parte autora em fornecer o endereço do requerido para a sua citação, restando demonstrado nos autos que, na realidade, houve certa dificuldade em localizar a parte adversa.
+(TJ-MT - AI: 10163324720208110000 MT, Relator: MARILSEN ANDRADE ADDARIO, Data de Julgamento: 07/10/2020, Segunda Câmara de Direito Privado, Data de Publicação: 13/10/2020)
+Opostos Embargos de Declaração (id 63170950), estes foram rejeitados (id 71391483).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, interposto por DARIEL ELIAS DE SOUZA, que negou provimento ao recurso e manteve a decisão proferida pelo juízo de primeiro grau que, nos autos da Ação de Indenização por Ato Ilícito c/c Danos Morais, Materiais e Estéticos por Acidente de Trânsito no 0000444-93.2018.8.11.0010, rejeitou a prescrição arguida.
+O Recorrente alega a violação aos artigos 489, II e §1o, IV, e 1.022, II e parágrafo único, inciso II do CPC, ao argumento de que o aresto recorrido “(...) deixou de apreciar de forma pontual o lapso temporal entre a intimação e a impulsão processual dada pela Recorrida, mesmo sendo hipótese expressa para oposição de aclaratórios. (...)”
+Suscita a afronta ao artigo 240, §2o, do CPC, ao fundamento de que “(...) embora o lapso temporal entre o fato, 09/12/2015 e a distribuição da ação, 22/01/2018, seja inferior a três anos, a interrupção da prescrição não se operou, pois houve inércia da Recorrida em fornecer endereço do Recorrente para a sua citação. (...)”
+Recurso tempestivo (id 75909494) e preparado (id 76043950).
+Sem contrarrazões (id 794991456).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Violação artigos 489, II e §1o, IV, e 1.022, II e parágrafo único, inciso II do CPC. Inexistência de omissão
+O Recorrente alega a ofensa aos artigos 489, II e §1o, IV, e 1.022, II e parágrafo único, inciso II do CPC ao argumento de ausência de fundamentação do acórdão recorrido quanto o lapso temporal entre a intimação para providenciar o endereço para a sua citação e o impulso processual dado pela Recorrida.
+No entanto, infere-se do acórdão recorrido que a Câmara julgadora se manifestou em relação ao aludido ponto de forma suficientemente fundamentada, como se verifica do seguinte excerto:
+“(...) o acidente de trânsito ocorreu em 09/12/2015 (ID no 53109473) e a propositura da demanda se deu em 22/01/2018 (ID no 53109473), não decorrendo assim o prazo trienal.
+Ademais, não há se falar em inércia da parte requerente/agravada em fornecer o endereço do requerido/agravante para a sua citação, com fundamento no artigo 240, §2o, do CPC/15, pois do exame do processo se constata que houve, na realidade, certa dificuldade em localizar a parte adversa.
+Com efeito, nas tentativas de citação do requerido, verifica-se que as correspondências foram devolvidas com a informação de que a parte havia se mudado, consoante ID’s no 53109475 (em abril/2018) e no 53109477 (em fevereiro/2019).
+Aliás, conforme a decisão recorrida bem fundamentou “o autor pleiteou que fosse oficiada a Ordem do Advogados do Brasil, seccional de Santa Catarina, solicitando o endereço do requerido Dariel, vez que inscrito nos quadros daquela instituição, cujo pleito foi deferido na ref. 60. Aportando aos autos o endereço, o requerido foi devidamente citado.” (ID no 53109468).
+Ora, na audiência de tentativa de conciliação realizada em 10/07/2018 (ID no 53109475), a autora fez requerimento na própria audiência informando o novo endereço, endereço comercial (escritório) do requerido, haja vista que no endereço residencial não houve êxito. (...)
+No ID no 53109477, a parte autora atendeu ao despacho da juíza singular e peticionou(...)
+Todavia, sem êxito a tentativa de citação do requerido, diante do AR com a anotação de “Mudou-se” (ID no 53109477).
+Novamente a parte autora peticionou nos autos em abril/2019 (ID no 53109477) (...)
+No ID no 53109477 também foi juntado o AR com o recebimento no endereço do requerido, ora agravante, sendo que posteriormente houve a apresentação da contestação com a arguição de prescrição.
+(...)
+Desse modo, possível concluir que a agravada/autora não teve culpa na demora da citação do requerido/recorrente, uma vez que demonstrada a dificuldade em localizar o endereço do agravante. (...)”
+A partir dessas premissas, não há evidência de violação aos artigos 489, II e §1o, IV, e 1.022, II e parágrafo único, inciso II do CPC, o que conduz à inadmissão recursal.
+Do reexame de matéria fática (Súmula 7 do STJ)
+A teor do que dispõe o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça está adstrita à aplicação e à uniformização da interpretação das leis federais, de forma que não é cabível o exame de matéria fático-probatória, por força da Súmula 7/STJ.
+In casu, a alegada violação ao artigo 240, §2o, do CPC se ampara no argumento de que “(...) embora o lapso temporal entre o fato, 09/12/2015 e a distribuição da ação, 22/01/2018, seja inferior a três anos, a interrupção da prescrição não se operou, pois houve inércia da Recorrida em fornecer endereço do Recorrente para a sua citação. (...)”.
+Como visto, consignou-se no aresto recorrido que a Recorrida não teve culpa pela demora da citação do réu, uma vez que demonstrada a dificuldade em localizar o seu endereço.
+Logo, a revisão do entendimento adotado no aresto recorrido acerca da interrupção ou não da prescrição enseja o exame dos fatos e provas dos autos, o que encontra óbice na destacada súmula, conforme o entendimento do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO. PRAZO. INTERRUPÇÃO. DEMORA NA CITAÇÃO. MECANISMOS DO PODER JUDICIÁRIO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA No 283/STF. REEXAME DE PROVAS. SÚMULA No 7/STJ. ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA. MESMO TRIBUNAL RECORRIDO. SÚMULA No 13/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula no 283/STF. 3. Na hipótese, rever a conclusão do aresto impugnado acerca da ocorrência ou não da prescrição encontra o óbice da Súmula no 7/STJ. 4. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. 5. Não se conhece do recurso especial diante do óbice contido na Súmula no 13 do Superior Tribunal de Justiça. 6. Agravo interno não provido.
+(STJ - AgInt no AREsp: 1465319 GO 2019/0068348-7, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 17/02/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 20/02/2020) (g.n)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE, CUMULADA COM CANCELAMENTO DE TÍTULO E PEDIDO INDENIZATÓRIO. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. PRESCRIÇÃO. INEXISTÊNCIA. INÉRCIA DA PARTE AFASTADA. DEMORA DA CITAÇÃO ATRIBUÍDA AOS MECANISMOS DA JUSTIÇA. SÚMULA 106/STJ. VERIFICAÇÃO DOS ELEMENTOS FÁTICOS QUE LEVARAM À DEMORA DA CITAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. PROCESSUAL CIVIL. PRODUÇÃO DE PROVAS NECESSÁRIAS PARA O EXAME DA CONTROVÉRSIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PROVIMENTO DO RECURSO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO. 1. Em face da impugnação dos fundamentos da decisão que negou seguimento ao recurso especial, o agravo interno merece provimento. 2. O entendimento pacífico do STJ - de que a demora na citação, atribuída aos mecanismos inerentes ao funcionamento da Justiça, não acarreta a configuração da prescrição, por inércia do autor - encontra-se sumulado no enunciado n. 106 do STJ. 3. "A verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ" (REsp 1.102.431/RJ, PRIMEIRA SEÇÃO, Rel. Ministro LUIZ FUX, DJe de 1o/2/2010. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008). (...) 5. Agravo interno provido. Agravo em recurso especial conhecido, para dar parcial provimento ao recurso especial.
+(STJ - AgInt no AREsp: 1261662 BA 2018/0055747-6, Relator: Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), Data de Julgamento: 02/08/2018, T4 - QUARTA TURMA, Data de Publicação: DJe 10/08/2018) (g.n)
+Dessa forma, é incabível a revisão do entendimento adotado no aresto recorrido, por demandar o reexame do conjunto fático-probatório dos autos, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
