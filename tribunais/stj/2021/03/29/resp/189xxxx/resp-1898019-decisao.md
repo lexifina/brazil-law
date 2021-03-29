@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO DO EDIFÍCIO PLAZA SHOPPING, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal de Justiça do Estado do Estado do Rio de Janeiro, assim ementado (fl. 49):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE DEFERIU LEVANTAMENTO DOS VALORES DEPOSITADOS EM JUÍZO APÓS ADESÃO DO EMBARGANTE AO REFIS. INSURGÊNCIA DO DEVEDOR ALEGANDO EXCESSO NA QUANTIA INDICADA COMO DEVIDA, SUSTENTANDO QUE A LEGISLAÇÃO ESPECÍFICA PREVÊ A EXCLUSÃO DE MULTA E JUROS PARA AS HIPÓTESES DE ADESÃO AO REFIS NA MODALIDADE DE PAGAMENTO À VISTA. AUSÊNCIA DE DEMONSTRAÇÃO DO ALEGADO EXCESSO. ELEMENTOS QUE NÃO DEMONSTRAM QUALQUER ERRONIA NOS CÁLCULOS APRESENTADOS PELO MUNICÍPIO, QUE INDICAM OS DESCONTOS DA MULTA E DOS JUROS, EXATAMENTE COMO PRETENDIDO PELO RECORRENTE. HONORÁRIOS ADVOCATÍCIOS JÁ DEPOSITADOS EM JUÍZO, CONFORME INFORMAÇÃO DO PRÓPRIO AGRAVANTE. INCONFORMISMO BASEADO EM MERAS ALEGAÇÕES, SEM INDICAR O VALOR QUE ENTENDE DEVIDO. IRREPARABILIDADE DO PROVIMENTO JURISDICIONAL. DESPROVIMENTO DO RECURSO.
+Embargos de declaração rejeitados (fl. 76).
+Inicialmente, a recorrente alega violação do art. 1.022, II, e parágrafo único, e 489, § 1º, VI, do CPC/2015, ao argumento de omissão das questões levantadas pela parte.
+Aponta contrariedade ao art. 151 do CTN e art. 9º, § 4º, da Lei n. 6.830/1990 sustentando excesso do valor relativo a honorários advocatícios, sendo certo que devem representar 10% do valor devido, e não 22,85%, como afirma a municipalidade. Argumenta que suspensa a exigibilidade do crédito pelo depósito do montante total devido, cessa-se a responsabilidade do devedor pela atualização monetária e pelos juros de mora.
+Contrarrazões a fls. 102-117.
+Inadmitido o apelo nobre na origem, deu-se provimento ao AREsp para determinar sua conversão em REsp, sem prejuízo de posterior análise dos pressupostos de sua admissibilidade (fl. 175).
+É o relatório. Decido.
+De início, não se conhece da suposta afronta aos arts. 1.022 e 489 do CPC/2015, pois o recorrente cinge-se à alegação genérica de violação, sem indicar o ponto acoimado de omissão ou fundamentação deficiente acompanhado da pertinente argumentação, a fim de permitir a apreciação da questão - situação essa que configura deficiência recursal insanável e inviabiliza o conhecimento do recurso. Aplicação da Súmula 284/STF.
+Quanto ao apontado excesso no levantamento feito pela municipalidade, a Corte de origem assim afastou as alegações da parte (fl. 78, grifos nossos):
+Da análise dos autos, depreende-se que o inconformismo do recorrente ampara-se em meras alegações, não logrando êxito em demonstrar os supostos excessos no valor depositado cuja transferência foi deferida - ônus que lhe competia.
+Com efeito, a vasta documentação em anexo não é hábil à comprovação de que os valores indicados à p.50 seriam afrontosos aos dispositivos legais suscitados, consistindo a presente insurgência, ao que parece, em insatisfação infundada sobre os valores devidos.
+Cumpria ao agravante demonstrar os vícios que deram causa ao seu inconformismo quanto ao levantamento da quantia já depositada, o que, decerto, não o fez. Por outro lado, o município agravado apresentou o extrato de negociação do REFIS (p.38), indicando que o valor que se pretende levantar não abrange multas ou juros, exatamente como defendido pelo recorrente.
+Com efeito, inviável a revisão da conclusão firmadano sentido das alegações recursais apresentadas, sem o reexame da matéria fático-probatória - atividade essa vedada no âmbito do recurso especial, por força da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ARTS. 1.022 E 489 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. LEVANTAMENTO DE VALORES. AUSÊNCIA DE EXCESSO. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
