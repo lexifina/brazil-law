@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de IVANILSON GONÇALVES BRITO, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (Agravo em Execução Penal n. 0705607-83.2020.8.07.0000), assim ementado (fl. 153):
+AGRAVO EM EXECUÇÃO. COMUTAÇÃO DAS PENAS. DECRETO Nº 8.380/2014. REQUISITO OBJETIVO. NÃO PREENCHIDO. CUMPRIMENTO DE 2/3 (DOIS TERÇOS) REFERENTE AO CRIME IMPEDITIVO. AUSÊNCIA.
+1. O agravante não cumpriu o lapso exigido pelo art. 8º, parágrafo único, do Decreto nº 8.380/2014, qual seja, 2/3 (dois terços) da pena referente ao delito impeditivo, o que obsta a concessão da comutação depenas.
+2. Agravo não provido.
+O paciente teve o pedido de comutação de penas indeferido pelo Juízo da execução penal.
+Inconformada, a defesa agravou no Tribunal de origem, que negou provimento ao recurso.
+Neste writ, a impetrante aponta constrangimento ilegal, porque o paciente cumpriu as frações relativas ao crime hediondo e aos crimes comuns antes da data limite constante do Decreto n. 8.380/2014, qual seja, 25/12/2014.
+Requer a comutação da pena relativa aos crimes comuns (fl. 9).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 171-176).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+Para a concessão de indulto ou comutação de penas a análise develimitar-se aos parâmetros estabelecidos no respectivo decreto, de competência privativa do Chefe do Poder Executivo, não comportando deferimento de benefícios em hipóteses não previstas ou excluídas.
+Havendo concurso de crimes comuns e hediondos, a comutação é possível, desde que cumpridos os lapsos temporais previstos no respectivo decreto.
+Nessa linha:
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO 8.380/2014. COMUTAÇÃO. CONCURSO DE CRIMES COMUM E HEDIONDO. POSSIBILIDADE. ART. 76 DO CP. CUMPRIMENTO INTEGRAL DA PENA RELATIVA AO DELITO IMPEDITIVO. DESNECESSIDADE. RECURSO DESPROVIDO.
+1. O artigo 8º do Decreto 8.380/2014 estabeleceu, de modo expresso, a possibilidade de deferimento de indulto ao crime comum no caso de concurso com hediondo, exigindo-se apenas critério objetivo, qual seja, o resgate de 2/3 da pena do impeditivo.
+2. Exigir o resgate integral da pena imposta pelo delito impeditivo implicaria tornar a norma sem efeito, bem como geraria um agravamento de execução injustificado, uma vez que, ainda que se conceda eventual benesse em execução penal ao reeducando em tais hipóteses, continuará ele resgatando pena pelo crime hediondo, cujo indulto é vedado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 336.222/RJ, relator Ministro Jorge Mussi, Quinta Turma, DJe 13/10/2016, destaquei.)
+No caso em análise, o Decreto Presidencial n. 8.380/2014 permite a comutação de penas mesmo havendo concurso de crimes comuns e hediondos, desde que cumprida a fração de 2/3 em relação a este último, conforme segue:
+Art. 8º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2014.
+Parágrafo único. Na hipótese de haver concurso com crime descrito no art. 9º , não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo, enquanto a pessoa condenada não cumprir dois terços da pena, correspondente ao crime impeditivo dos benefícios.
+Art. 9º O disposto neste Decreto não alcança as pessoas condenadas:
+I - por crime de tortura ou terrorismo;
+II - por crime de tráfico ilícito de droga, nos termos do caput e§ 1º do art. 33e dos arts. 34 a 37 da Lei nº 11.343, de 23 de agosto de 2006;
+III - por crime hediondo, praticado após a publicação das Leis nº 8.072, de 25 de julho de 1990; nº 8.930, de 6 de setembro de 1994; nº 9.695, de 20 de agosto de 1998; nº 11.464, de 28 de março de 2007 e nº 12.015, de 7 de agosto de 2009,observadas, ainda, as alterações posteriores;  ..
+O Tribunal a quo manteve essa decisão do juízo monocrático que indeferiu a comutação, pois verificouque paciente não cumprira o lapso temporal de 2/3 correspondente ao delito hediondo, crime praticado em 21/8/2013, nestes termos (fls. 155-156):
+Examinados detidamente os autos, verifica-se que na data de 25 de dezembro de 2014, para fazer jus à comutação, o agravado deveria ter cumprido 2/3 (dois terços) da pena do crime impeditivo (art. 33, caput da Lei Antidrogas - segunda execução), delito praticado em 21/08/2013, com pena total de 6 (seis) anos,6 (seis) meses e 15 (quinze) dias, o que não se efetuou, já que deveria ter cumprido 4 (quatro) anos, 4(quatro) meses e 10 (dez) dias para obter o benefício.
+Note-se que o tempo cumprido anteriormente a 21/08/2013 refere-se a crimes comuns e não pode ser aproveitado na contabilização do tempo de pena necessário para preenchimento do requisito objetivo para o indulto e comutação das penas. Conforme muito bem ponderado no parecer ofertado pela ilustrada Procuradoria de Justiça, "cabe observar que o posicionamento consolidado no âmbito do Superior Tribunal de Justiça é no sentido da impossibilidade de se considerar, para efeito de detração, período de prisão provisória anterior ao crime que ensejou a condenação. Ou seja, somente pode ser considerado cumprimento da pena do crime impeditivo o tempo de prisão que seja posterior a esse fato, sob pena de estabelecer-se indevido "crédito de pena".
+ ..
+Em assim sendo, resta fora de qualquer dúvida de que o agravante não preenche os requisitos impostos pelo decreto presidencial, já que o lapso necessário para a concessão da comutação de penas não foi atingido.
+A decisão da Corte Estadual está em consonância com ajurisprudência do STJ, no sentido de que o tempo de prisão cumprido antes da prática do delito não pode ser computado para fins de comutação da pena pois não encontrarespaldo em nosso ordenamento jurídico.
+A propósito, confiram-se os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. INDULTO. DECISÃO CONCESSIVA. NATUREZA DECLARATÓRIA. EXTINÇÃO DA PUNIBILIDADE. DATA DA PUBLICAÇÃO DO DECRETO PRESIDENCIAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. "A sentença que tem por objeto o indulto e a comutação de pena tem natureza meramente declaratória, na medida em que o direito já fora constituído pelo Decreto presidencial concessivo destes benefícios" (HC 82.184/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/06/2007, DJ 06/08/2007) 3. Na espécie, deve ser declarado o dia 25/12/2007 (publicação do Decreto Presidencial n. 6.294/07) como data da extinção da pena imposta nos autos da Ação Penal n. 050.05.097273-1/00 (1ª Execução), devendo o Juízo de origem retificar o cálculo/roteiro de penas do paciente.
+4. Entretanto, como o ordenamento jurídico pátrio não respalda o chamado "crédito de pena" ou "conta corrente", o início do cumprimento da sanção imposta na segunda execução deve ser a data do cometimento do segundo delito, ou seja, 12/10/2010, pois, "admite-se a detração em relação a fato diverso daquele que deu azo à prisão processual; contudo, somente em relação a delitos anteriores à segregação provisória, sob risco de se criar uma espécie de crédito contra a Justiça Criminal" (HC-177.321/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª Turma, DJe de 12/03/2012).
+5. Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a natureza declaratória da decisão concessiva do indulto, devendo ser retificado o roteiro de pena do paciente.
+(HC n. 288.909/SP, relator Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe de 28/11/2016, destaquei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. COMUTAÇÃO. DECRETO N. 8.172/13. REQUISITO OBJETIVO NÃO PREENCHIDO. CONCURSO CRIME COMUM E HEDIONDO. AUSÊNCIA DE CUMPRIMENTO DE 2/3 DA PENA REFERENTE AO CRIME HEDIONDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, por se tratar de pedido em confronto com a jurisprudência do Superior Tribunal de Justiça - STJ.
+2. A Jurisprudência desta Corte entende que, diante do concurso entre crimes comum e hediondo, é possível a concessão do benefício da comutação, desde que preenchidos os requisitos previstos no Decreto Presidencial.
+Na hipótese, as instâncias ordinárias destacaram que o ora paciente não preencheu o requisito objetivo, visto que, apesar de estar preso desde 31/12/2000, a data considerada como início de cumprimento do crime hediondo é 23/10/2010, assim, não cumpriu o lapso temporal exigido até a data estipulada no Decreto n. 8.172/2013. Destarte, o indeferimento da benesse em questão está em consonância com o entendimento deste Superior Tribunal. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 530.082/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 22/11/2019, destaquei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO. ERRO NA FOLHA DE CÁLCULO DA PENA. SUPRESSÃO DE INSTÂNCIA. CRIME HEDIONDO IMPEDITIVO DO BENEFÍCIO ATÉ O CUMPRIMENTO DE 2/3 DA PENA. IMPOSSIBILIDADE DE CÔMPUTO DE PERÍODO DE PRISÃO ANTERIOR À PRÁTICA DO CRIME HEDIONDO. AGRAVO DESPROVIDO.
+1. A suposta incorreção da folha de cálculos não foi analisada pelo Tribunal de origem, o que impede o conhecimento da matéria, sob pena de incorrer em supressão de instância.
+2. O Decreto n. 8.615/2017 prevê que a condenação por crime hediondo impede a concessão da comutação em relação aos outros crimes até o cumprimento de 2/3 da pena. No caso em análise, o crime hediondo somente foi praticado em 2003, não sendo possível, considerar como data inicial do cumprimento da pena o dia 31/12/2000, sob pena de gerar um "crédito de pena" ao paciente. Precedentes.
+3. Agravo Regimental desprovido.(AgRg no HC n. 544.941/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/3/2020, destaquei.)
+Não se constata, assim, a ocorrência de flagrante ilegalidadepassível de ser sanada na presente via.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
