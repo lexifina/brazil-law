@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de petição apresentada por MARCUS LUIS FERREIRA ARRABAÇA(fls. 2.241/2.245e), requerendo a remessa dos autos ao Gabinete do Ministro Mauro Campbell Marques, aduzindo que, "desde a distribuição do Recurso Especial n. 1742496, é prevento para todos os casos que derivem da 2ª Vara da Fazenda Pública de Londrina" (fl. 2.241e).
+Aduz, ainda, que, "recentemente, em pretensão recursal também oriunda das ações de improbidade administrativa da "Operação Publicano", houve distribuição equivocada dos autos", "nos autos de Recurso Especial n. 1877657/PR". Afirma que, "nesses autos, o Ministro Mauro Campbell Marques reafirmou sua prevenção e prontamente recebeu os autos de recurso, sanando a falha originária na distribuição dos autos" (fl. 2.242).
+É o relatório.
+O presente recurso é conexo ao REsp 1.926.151/PR, de minha relatoria, distribuído em 02/08/2019, tornando preventa minha competência para todos os feitos posteriores, conforme previsto no artigo 71 do RISTJ.
+Destaca-se que tanto o presente Recurso Especial, como o REsp 1.926.151/PR, tem como origem decisão proferida nos autos da Ação Civil Pública 0029548-17.2017.8.16.0014, em trâmite na 2ª Vara da Fazenda Pública do Foro Central da Comarca da Região Metropolitana de Londrina/PR.
+O REsp 1.742.496/PR, de relatoria do Min. Mauro Campbell, por sua vez, tem como origem decisão proferida nos autos da Ação Civil Pública 0039253-73.2016.8.16.0014, em trâmite na 2ª Vara da Fazenda Pública do Foro Central da Comarca da Região Metropolitana de Londrina-PR.
+Sobre o tema, o art. 17, § 5º, da Lei 8.429/92 determina que "a propositura da ação prevenirá a jurisdição do juízo para todas as ações posteriormente intentadas que possuam a mesma causa de pedir ou o mesmo objeto".
+O art. 71 do RISTJ, por sua vez, determina que "a distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão; a distribuição do inquérito e da sindicância, bem como a realizada para efeito da concessão de fiança ou de decretação de prisão preventiva ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a da ação penal".
+No caso, como visto acima, em que pese ambos os recursos terem como pano de fundo desdobramentos da denominada "Operação Publicano", têm como origem ações distintas, tramitando em juízos diversos e com réus e pedidos também diversos.
+Do exposto, indefiro o pedido.
+I.
