@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de habeas corpus,impetrado em benefício de DAIANA BARBOZA FEITOSA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação n. 1502848-17.2019.8.26.0616.
+Extrai-se dos autos que a paciente foi condenada a cumprir, em regime inicial fechado, a pena de 06 (seis) anos de reclusão, com o pagamento de multa de 600 (seiscentos) dias, no piso mínimo, como incursano delito tipificado no artigo 33, caput, da Lei n.11.343/2006 (tráfico de drogas).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual desproveu o recurso nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL Tráfico ilícito de drogas - Artigo 33, "caput", da Lei nº 11.343/2006 Materialidade e autoria devidamente comprovadas Condenação mantida Dosimetria penal Maus antecedentes e reincidência "Bis in idem" Não ocorrência Acusado possuidor de condenações distintas transitadas em julgado Em caso de multiplicidade de processos findos pretéritos, não acarreta dupla valoração a utilização de condenações diversas nas diferentes etapas dosimétricas Concessão da benesse prevista no artigo 33, § da Lei de Drogas Óbice legal Substituição da pena privativa de liberdade por restritivas de direitos Inviabilidade Regime prisional fechado mantido Adequado à espécie RECURSO NÃO PROVIDO" (fl. 71).
+No presente writ, a defesa sustenta que ocorreu dupla majoração da pena por uma única circunstância: a vida pregressa da agente.
+Assevera que deve ser revista a aplicação da fração de 1/5 na pena-base diante da existência de apenas uma circunstância valorada negativamente.
+Pleiteia, assim, a revisão da circunstância judicial relativa aos maus antecedentes para que se fixe a pena-base no mínimo legal ou reduza-se a fração fixada.
+Sem pedido liminar, o Ministério Público Federal opinou pela denegação da ordem (fls. 95/98).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio.Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+A parte impetrante se insurge contra a pena-base fixada, tendo o acórdão impugnadoressaltado:
+"Inicialmente, anoto que, em consonância com o estabelecido no artigo 42 da Lei de Drogas, as basilares realmente mereciam exasperação, mormente em decorrência da natureza das substâncias apreendidas, sendo despiciendo discorrer-se sobre a letalidade e alto grau viciante da cocaína, sabidamente uma das drogas mais prejudiciais à saúde.
+(..)
+Anote-se, ainda, que o réu é portador de maus antecedentes, referente a condenação no processo 0054799-28.2009.8.26.0050, com trânsito em julgado aos 28.01.2011(fls. 34), conforme atesta o documento de fls. 30/36 e a certidão de37/38, circunstância apta a majorar a pena, também, na primeira fase.
+Vale ressaltar que as condenações atingidas pelo denominado período depurador a que se refere o artigo 64, inciso I, do Código Penal, podem ser consideradas para elevação da pena-base, vez que são aptas para caracterizar maus antecedentes.
+(..)
+Além do mais, compulsando os autos, verifica-se que há condenações distintas que atestam o antecedente referido e a reincidência. E, como é sabido, a existência de condenações diversas como no presente caso (fls. 30/36 e 37/38) permite amajoração das reprimendas nas duas primeiras fases do critério trifásico, a título de maus antecedentes e de reincidência, sem que isso implique em bis in idem.
+(..)
+Demais disso, anoto que o acusado foi beneficiado com a compensação integral da agravante da reincidência específica (fls. 37/38), com a atenuante da confissão." (fls.74/76)
+Com efeito, a decisão vergastada encontra-se de acordo com o posicionamento deste Sodalício, pois o período depurador a ser considerado para reconhecimento da agravante da reincidência não se aplica ao se valorar negativamente osmaus antecedentes, podendo ser utilizada condenação com prazo superior a 5 anos, sendo neste sentido a jurisprudência:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PENA-BASE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL.DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+(..)
+2. O aumento da pena-base em 2 (dois) anos e 6 (seis) meses, em razão da quantidade de droga apreendida - aproximadamente 4,200 kg de maconha -, não se mostra desproporcional, considerando o entendimento emanado pela Sexta Turma deste Superior Tribunal de Justiça.
+3. Quanto ao pleito de afastamento da valoração negativa dos maus antecedente, esta Corte Superior possui o entendimento de que, " n o que tange à validade da condenação anterior para valorar negativamente os antecedentes, o tempo transcorrido após o cumprimento ou extinção da pena não elimina essa circunstância judicial desfavorável, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade: ao contrário do que se verifica na reincidência (CP, art. 64, I), o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal" (HC 452.334/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/06/2018).
+(..)
+6. Agravo regimental desprovido.
+(AgRg no HC 547.176/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Outrossim, a instância primeva justificou concretamente a fixação da fração utilizada na pena-base para majorá-la, destacandoanatureza das substâncias apreendidas, não havendo que se rever o quantum fixado, nestes termos:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE ENTORPECENTES. PENA-BASE MAJORADA. GRANDE QUANTIDADE DE DROGA APREENDIDA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. MULA. REDUÇÃO EM 1/6. PROPORCIONAL. AGRAVO NÃO PROVIDO.
+1. Quanto à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando ela atrelada às particularidades fáticas do caso concreto e subjetivas do agente, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. In casu, as instâncias ordinárias fundamentaram expressamente a majoração da pena-base, considerando a natureza e a grande quantidade da droga apreendida - 20.087 gramas de cocaína -, nos termos do art. 42 da Lei n. 11.343/2006. Daí, não se mostra desproporcional ou desarrazoada, porquanto fundamentada a fração em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+(..)
+4. Agravo regimental não provido.
+(AgRg no AREsp 1807497/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 19/03/2021).
+Por fim, não há que se falar em bis in idem ao se valorar negativamente os maus antecedentes e aplicar-se a agravante da reincidência, vez que ambos possuem elementos diversos considerados em sua motivação, neste sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES.CONDENAÇÕES ALCANÇADAS PELO TEMPO DEPURADOR. FUNDAMENTOS VÁLIDOS.AGRAVANTE DE REINCIDÊNCIA. VALORAÇÃO NA PRIMEIRA E NA SEGUNDA ETAPA.BIS IN IDEM. INOCORRÊNCIA. CONDENAÇÕES DISTINTAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. INAPLICABILIDADE. AGRAVANTE SOPESADA NA SEGUNDA E NA TERCEIRA FASE. POSSIBILIDADE. AUSÊNCIA DE BIS IN IDEM. REGIME PRISIONAL. PENA SUPERIOR A 4 ANOS. MODO FECHADO.AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A individualização da pena, como atividade discricionária vinculada do julgador, será revista apenas nas hipóteses de manifesta ilegalidade ou arbitrariedade, quando não observados os parâmetros estabelecidos na legislação de regência e o princípio da proporcionalidade.
+3. Hipótese em que a pena-base foi exasperada em um ano de reclusão com fundamento em duas condenações anteriores definitivas, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima previstas para o delito de tráfico de drogas (5 a 15 anos).
+4. A jurisprudência desta Corte é reiterada de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade. Precedentes.
+5. A utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da aferição dos maus antecedentes e, ainda, para agravar a pena, pela reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da aferida na segunda, como no caso em apreço. Precedentes.
+(..)
+9. Habeas corpus não conhecido.
+(HC 389.141/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/08/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
