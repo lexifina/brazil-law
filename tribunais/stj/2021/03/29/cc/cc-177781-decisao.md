@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo Federal da 23ª Vara de Curitiba (SJPR) e o Juízo de Direito da 7ª Vara Criminal de Curitiba (PR) nos autos doInquérito Policial n. 5001118-88.2021.4.04.7000, instaurado em razão de suposta prática dos delitosprevistos nos arts. 180 do Código Penal e 33 da Lei n. 11.343/2006.
+O Juízo de direito,considerando que houve, em tese, crime praticado contra o patrimônio do IBGE, declinou da competência.
+Discordando, o Juízo federal suscitou o conflito porconsiderarqueos delitos de posse irregular de munição e os da Lei de Drogassão autônomos em relação aos delitos em razão dos quais sereconheceu sua competência, a saber, furto e/ou receptação de veículo, tendo emvista aofensa a bens e interesses do IBGE.
+O Ministério Público Federalopinou pelo conhecimento do conflito edeclaração da competência do Juízo estadual comum por falta de conexão com o crime federal.
+É o relatório. Decido.
+O presente conflito negativo de competência comporta conhecimento, pois refere-se a incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, razão pela qual passo aseu exame.
+Consta dos autos que o inquérito policial foi instaurado para apurar a prática de crime de furto e/ou receptação de veículo de propriedade do IBGE. Durante as averiguações policiais, foram apreendidas drogas e munições no interior doimóvel onde também encontrado o veículo.
+O Juízo federal reconheceu como de sua competência a investigação criminal de furto/receptação do veículo oficial edesmembroua investigação quanto aos demais delitos, considerando ainexistência de conexão.
+Oprocedimento se mostra correto, uma vez que não ficou configurada nenhumadas hipóteses do art. 76 do Código de Processo Penal para que se reconheça acompetência pela conexão no tocante aos delitos do art. 33 da Lei n. 11.343/2006 e de posse irregular de munição, uma vez quenão guardam relação com os delitos de furto e/ou receptação do veículo oficial,que justificaram a investigação policial originária.
+Registre-seque oSuperior Tribunal de Justiça firmou oentendimentode que, havendo condutas delituosas absolutamente distintas e sem relação de dependência probatória entre elas, não háfalar em conexão.
+Nesse mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. ORGANIZAÇÃO CRIMINOSA LA FAMIGLIA. COLABORAÇÃO PREMIADA. RELATOS DE CRIMES CONTRA O SISTEMA FINANCEIRO. HOMICÍDIOS. AUSÊNCIA DE CONEXÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que não há que se falar em deslocamento da competência para a Justiça Federal, uma vez que não foi constatada a existência de conexão entre os graves delitos de homicídio, cujas ações penais já se encontram em fase final de instrução, e as fraudes financeiras supostamente praticadas no âmbito da organização criminosa em desfavor da Caixa Econômica Federal ou do BNDES.
+3. Agravo regimental desprovido.(AgRg no CC n. 170.839/MG, relatorMinistro RibeiroDantas, TerceiraSeção, DJe de 19/10/2020.)
+PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME AMBIENTAL E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. AUSÊNCIA DE CONEXÃO PROCESSUAL. CONCURSO DE CRIMES QUE NÃO IMPLICA NECESSARIAMENTE CONEXÃO. NÃO INCIDÊNCIA DA SÚMULA 122/STJ.
+I - Não obstante a verificação dos crimes tenha ocorrido no mesmo contexto fático, não há elementos para se indicar a existência de conexão processual que atraia a competência da Justiça Federal, nos termos do Enunciado n. 122, da Súmula do Superior Tribunal de Justiça.
+II - A competência para o processamento do crime do art. 16, parágrafo único, IV, da Lei 10.826/03 deve recair sobre a Justiça Estadual, não havendo se falar em prejuízo à instrução com a cisão dos processos, pois a consumação dos crimes imputados se deu em momentos diferentes.
+Conflito conhecido para declarar a competência do d. Juízo de Direito da 2ª Vara de Bocaiúva- MG para apuração do crime previsto no art. 16, parágrafo único, IV, da Lei 10.826/03.(CC n.140.649/MG, relatorMinistro FelixFischer, TerceiraSeção, DJe de 9/11/2015.)
+Ante o exposto, conheço do conflito para declarar a competência doJuízo de Direito da 7ª Vara Criminal de Curitiba (PR).
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
