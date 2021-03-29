@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de LUCAS RIBEIRO FERREIRA, contra ato do Governador do Estado do Piauí.
+Depreende-se dos autos que o presente writ foi impetrado em razão do"Decreto Estadual nº 19.539, nº 57, de 21.03.2021, que dispõe sobre as medidas sanitárias excepcionais a serem adotadas do dia 22 ao dia 28 de março de 2021, em todo o Estado do Piauí, voltadas para o enfrentamento da COVID-19" (fl. 4).
+Requer "a concessão liminar inaudita altera parte do writ de habeas corpus preventivo em favor deste Impetrante e paciente, LUCAS RIBEIRO FERREIRA, para que não sofra qualquer ameaça aoseu direito de locomoção por parte da autoridade ora apontada como coatora, sob pena de abuso de poder e desobediência a ordem legal." (fls. 11-12).
+É o breve relatório.
+Decido.
+No caso, trata-sehabeas corpusimpetrado contra ato do Governador do Estado do Piauíque no dia 21/03/2021 publicou o Decreto Estadual n. 19.539, n. 57 de 21/03/2021 que dispõe sobre as medidas sanitárias excepcionais a serem adotadas dos dias 22 a 28 de março de 2021, em todo o Estado do Piauí, voltadas ao enfretamento da Covid-19.
+Emdecisão tomada pelo Supremo Tribunal Federal nos autos da ADPF 672/DF-MC, DJe de 14/4/2020, o Ministro ALEXANDRE DE MORAES entendeu que osgovernadores e prefeitos têm plena legitimidade para adotarem medidas como "imposição de distanciamento/isolamento social, quarentena, suspensão de atividades de ensino, restrições de comércio, atividades culturais e à circulação de pessoas".
+Tal entendimento tem como fundamento a competência constitucional atribuída a Estados e Municípios, permitindo-lhes a implementação de políticas publicas, em especial, as destinadas ao combate a PANDEMIA que nos atinge.
+No caso dos autos, não há qualquer ato administrativo que configure lesão ou ameaça de lesão concreta e real em desfavor do paciente. As atividades limitadas pelos Estados inserem-se de um esforço coletivo para salvaguardar bem jurídico de elevadostatus, que é a vida e a saúde pública, o que é, além de permitido, recomendável.
+Argumentações genéricas pontuadas na inicial do writ, revelam, tão somente, o inconformismo com o Decreto estadual.
+Ademais, constata-se que owritse insurge, na realidade, contra decreto, ato normativo geral e abstrato. Todavia, os remédios constitucionais - entre os quais ohabeas corpus- não constituem via processual adequada para a impugnação de atos em tese.
+Por oportuno, destaco também o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS.WRIT INTERPOSTO CONTRA LEI EM TESE. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. INEXISTÊNCIA DE ATO CONCRETO DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DOS RECORRENTES.AGRAVO IMPROVIDO.
+1. Serve o habeas corpus à proteção do direito de locomoção: permite a liberação de quem retido se encontra. Inadmissível o habeas corpus para discutir direito de acesso (ir por local ou a local específico), de propriedade (permanecer em local) ou, como na espécie, de atividade a desempenhar em local específico. A proteção constitucional é forte, célere, mas para afastar apenas a restrição ao direito de sair de onde se encontra - liberdade.
+2. Exigindo a demanda a análise de inconstitucionalidade em tese de Lei Municipal, não merece a pretensão ser conhecida, pois o habeas corpus e o seu respectivo recurso não podem ser utilizados como mecanismos de controle abstrato da validade das leis e dos atos normativos em geral. Precedentes.
+3.Não existindo ameaça concreta de constrangimento ilegal ao direito de locomoção dos ora recorrentes, carece a impetração de interesse processual. Precedentes. 4. Agravo regimental improvido.(AgRg no RHC n. 104.926/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/04/2019, DJe 25/04/2019, grifei)
+Ante o exposto, não conheço dohabeas corpus.
+P.I.
