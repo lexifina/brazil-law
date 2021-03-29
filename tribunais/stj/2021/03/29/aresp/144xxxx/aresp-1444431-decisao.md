@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado por Itaquera Desenvolvimento Imobiliário ltda.contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, ae c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que julgou incabível a incidência de juros compensatórios na demanda expropriatória em tela.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação ao art. 15-A do Decreto-Lei n. 3.365/41. Para tanto, sustenta que, nas desapropriações por utilidade pública, é cabível juros compensatórios em caso de imissão prévia na posse.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não provimento do agravo (fls. 673/680).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao solucionar a controvérsia, o Tribunala quoasseverou (fls. 605/606):
+Quanto aos juros compensatórios, é certo que, em circunstâncias normais (isto é, seguindo-se o procedimento do DL 3.365/41), estes são devidos desde a data da imissão na posse (Súmula 69 do STJ), no percentual de 12% ao ano, até a expedição do precatório, nos termos da jurisprudência consolidada do C. Superior Tribunal de Justiça.
+Todavia, no caso dos autos, forçoso reconhecer que os juros compensatórios não se aplicam, ante a celebração de acordo entre as partes para fins de imissão provisória na posse (fls. 122/124).
+Nos termos do acordo celebrado, os expropriados anuíram com a imissão na posse do expropriante antes mesmo que houvesse sido complementado o depósito baseado no laudo preliminar. Pactuou-se, até mesmo, a lavratura de um auto de imissão na posse "com data retroativa para 8 de novembro de 2013", desde que a expropriante se comprometesse a "depositar o valor da avaliação provisória a ser realizada por perito judicial de confiança desse MM. Juízo, no prazo máximo e improrrogável de 30 (trinta) dias".
+Ora, é notório que a "compensação" obtida pelo expropriado foi justamente a obrigação de a Municipalidade efetuar a complementação do depósito preliminar sem quaisquer questionamentos judiciais, o que efetivamente se concretizou e representou grandevantajosidade ao expropriado, o qual inclusive efetuou o levantamento de 80% do preço depositado, em valor superior a R$ 7 milhões (fl. 365).
+Não se pode admitir que, mesmo após ter celebrado acordo notoriamente vantajoso para fins de um levantamento mais célere do valor depositado (implicando renúncia tácita aos juros compensatórios), o expropriado, agora, busque se valer das regras previstas no Decreto-Lei 3.365/41 para obter compensação também por meio de juros.
+Em realidade, a conduta do expropriado é frontalmente contraditória ao acordo anteriormente celebrado, não se podendo admitir que o procedimento do Decreto-Lei 3.365/41 seja manipulado apenas naquilo que convém as partes.
+Por tais razões, ante a peculiaridade do caso e o comportamento contraditório adotado pelo expropriado, não há que se falar em juros compensatórios.
+Nesse panorama, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em razão do referido óbice sumular, não se conhece do dissídio jurisprudencial suscitado.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
