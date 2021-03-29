@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. SERVIDOR. HORAS EXTRAS INCORPORADAS. DECADÊNCIA.
+1. No tocante à alegada violação do art. 1.022 do CPC/2015, a irresignação não prospera, porque o acórdão recorrido julgou integralmente a lide e solucionou a controvérsia. Não há vícios de obscuridade, contradição e omissão, mas mero inconformismo com o resultado desfavorável do julgado.
+2. Os atos administrativos praticados antes do advento da Lei Federal 9.784, de 1º.2.1999, estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor.
+3. O Superior Tribunal de Justiça tem decidido que a possibilidade de revisão da base de cálculo das horas extras incorporadas está fulminada pela decadência, de que trata o art. 54 da Lei 9.784, de 1999. Precedentes: AgInt no REsp 1893174/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 1/3/2021; REsp 1.796.396/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12/9/2019; e AgRg no REsp 1.549.854/RN, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/3/2019.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 798-804, e-STJ) que conheceu do Agravo para conhecer em parte do Recurso Especial da ora agravante e, nessa parte, negou-lhe provimento.
+A Universidade sustenta, em suma, que "restou bem demonstrado que o acórdão regional deixou de analisar o impacto das reestruturações de carreira da autora na vantagem incorporada, omitindo-se em pronunciar-se sob ponto essencial ao deslinde da controvérsia" (fl. 810, e-STJ).
+No mérito, aduz que "a jurisprudência do STJ vai ao encontro da tese defendida pela UFRGS, não havendo que se falar em coisa julgada ou decadência" (fl. 811, e-STJ).
+Requer, ao final, a reforma da "decisão monocrática ora impugnada a fim de que seja conhecido e provido o seu recurso especial" (fl. 813, e-STJ).
+Houve impugnação às fls. 816-827, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. SERVIDOR. HORAS EXTRAS INCORPORADAS. DECADÊNCIA.
+1. No tocante à alegada violação do art. 1.022 do CPC/2015, a irresignação não prospera, porque o acórdão recorrido julgou integralmente a lide e solucionou a controvérsia. Não há vícios de obscuridade, contradição e omissão, mas mero inconformismo com o resultado desfavorável do julgado.
+2. Os atos administrativos praticados antes do advento da Lei Federal 9.784, de 1º.2.1999, estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor.
+3. O Superior Tribunal de Justiça tem decidido que a possibilidade de revisão da base de cálculo das horas extras incorporadas está fulminada pela decadência, de que trata o art. 54 da Lei 9.784, de 1999. Precedentes: AgInt no REsp 1893174/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 1/3/2021; REsp 1.796.396/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12/9/2019; e AgRg no REsp 1.549.854/RN, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/3/2019.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8 de março de 2020.
+O Agravo Regimental não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme assentado na decisão monocrática, inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+Quanto ao mais, observo que o aresto atacado tampouco destoa do entendimento firmado no STJ segundo o qual a manutenção da natureza jurídica e, por consequência, da antiga sistemática de cálculo de vantagem devida a servidores públicos incorporada aos seus vencimentos em cumprimento de decisão judicial transitada em julgado na vigência do regime trabalhista  mesmo após a introdução do Regime Jurídico Único pela Lei 8.112/1990  , constitui ato comissivo, único, de efeitos concretos, sujeito, portanto, ao prazo decadencial previsto no art. 54 da Lei 9.785/1999.
+Sobre o tema:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 884 DO CÓDIGO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. SERVIDOR PÚBLICO. HORAS EXTRAS. ALTERAÇÃO NA FORMA DE CÁLCULO. ATO ÚNICO, COMISSIVO E DE EFEITOS PERMANENTES. LEI N. 9.784/99. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. PRAZO DECADENCIAL. INÍCIO DA CONTAGEM. DATA DA ENTRADA EM VIGOR DA LEI. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+V - O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual a manutenção da natureza jurídica e, por consequência, da antiga sistemática de cálculo de vantagem devida a servidores públicos  incorporada aos seus vencimentos em cumprimento de decisão judicial transitada em julgado na vigência do regime trabalhista  mesmo após a introdução do Regime Jurídico Único pela Lei n. 8.112/90, constitui ato comissivo, único, de efeitos concretos, sujeita, portanto, ao prazo decadencial previsto no art. 54 da Lei n. 9.785/1999.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1893174/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 01/03/2021).
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. OFENSA AO ART. 1022 DO CPC INEXISTENTE. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO. HORAS EXTRAS INCORPORADAS. COISA JULGADA. ABSORÇÃO. DECADÊNCIA
+1. No tocante à alegada violação do art. 1.022 do CPC/2015, a irresignação não prospera, porque o acórdão recorrido julgou integralmente a lide e solucionou a controvérsia. Não há vícios de obscuridade, contradição e omissão, mas mero inconformismo com o resultado desfavorável do julgado.
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que as Universidades Federais, pessoas jurídicas de direito público, autônomas, independentes e dotadas de personalidade jurídica própria, detêm legitimidade para a prática de atos processuais, sendo representadas por seus procuradores autárquicos, nos termos do disposto na LC 73/1993 (art. 17, I). Inexiste, portanto, obrigatoriedade de inclusão da União na figura de litisconsorte, já que é regular a demanda ajuizada exclusivamente em desfavor da Instituição de Ensino, a qual detém absoluta legitimidade para responder pelos atos veiculados na exordial.
+Precedente: REsp 1.762.208/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2018.
+3. O acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça de que os atos administrativos praticados antes do advento da Lei Federal 9.784/1999 estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor.
+Precedentes: AgRg no REsp 1.552.624/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1/6/2018; AgRg no AgRg no REsp 1.554.505/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgRg no AREsp 64.741/MG, Rel. Ministro Herman Benjamin, Segunda Turma DJe 18/03/2013.
+4. Recurso Especial não provido.
+(REsp 1796396/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/05/2019, DJe 12/09/2019).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. HORAS EXTRAS INCORPORADAS EM DECORRÊNCIA DE DECISÕES JUDICIAIS TRANSITADAS EM JULGADO. REVISÃO. DECADÊNCIA CONFIGURADA. AGRAVO REGIMENTAL DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE DESPROVIDO.
+1. A Administração Pública, ao buscar a alteração do parâmetro estabelecido para cálculo das horas extras, procurou corrigir ato administrativo próprio, anterior ao advento da Lei 9.784/1999, motivo pelo qual deve submeter-se ao prazo decadencial estabelecido no artigo 54 da referida Lei, contando-se como termo inicial para a contagem da decadência, sua entrada em vigor (AgRg no REsp. 1.282.972/RN, Rel. Min. CASTRO MEIRA, DJe 15.2.2013).
+2. Na espécie, o processo revisional iniciou-se em agosto 2008 (fls. 89), motivo pelo qual deve ser reconhecida a decadência, nos termos do art. 54 da Lei 9.784/1999, já que o prazo para a Administração começou a correr em janeiro de 1999.
+3. Agravo Regimental da UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE desprovido.
+(AgRg no REsp 1549854/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/03/2019, DJe 26/03/2019).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
