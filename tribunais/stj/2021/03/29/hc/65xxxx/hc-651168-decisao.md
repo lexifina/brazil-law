@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de MARCOS ALBERTO SOUZA DOS SANTOScontra acórdão do Tribunal de Justiça de Minas Geraisproferido no julgamento da Apelação Criminal n. 1.0223.19.011080-7/001.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 5 anos, 8 meses e 1 dia de reclusão, em regime semiaberto, pela prática do crime de tráfico de drogas (art. 33, § 4º, c.c art. 40, III, ambos do Código Penal).
+O Tribunala quodeu parcial provimento à apelação da defesa, reduzindo a pena para 4 anos, 4 meses e 15 dias de reclusão, mantido o regime semiaberto, em acórdão assim ementado:
+"PENAL ESPECIAL - TRÁFICO ILÍCITO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS.
+- A definição típica do artigo 33 da Lei nº. 11.343/06 é de conteúdo variado, prevendo diversas condutas como forma de um mesmo crime.
+- A apreensão de drogas que o agente trazia consigo e guardava, para fins mercantis, diante das circunstâncias fáticas e da prova testemunhal produzida, constitui elemento suficiente para manutenção da condenação pelo delito previsto no artigo 33 da Lei nº. 11.343/06, afastando-se o pleito absolutório.
+CAUSA DE AUMENTO DE PENA DO ART. 40, III, DA LEI Nº 11.343106 - EXCLUSÃO- INADMISSIBILIDADE- TRAFICO REALIZADO EM BAR -RECINTO DE DIVERSÃO.
+- Há que se manter a incidência da causa de aumento de pena prevista no art.
+40, inciso 111, da Lel nº.11.343/06 se restou evidenciado que o agente realizava o tráfico incito de drogas em bar, recinto de diversão, de fácil aglomeração e disseminação da droga.
+PENA-BASE - REDUÇÃO - CABIMENTO.
+- No delito de tráfico de drogas, a fixação da pena-base deve considerar a natureza e a quantidade da substância apreendida, bem como a personalidade e a conduta social do agente, nos moldes do artigo 59 do CP e artigo 42 da Lel nº.11.343/06.
+REGIME PRISIONAL - ALTERAÇÃO - DESCABIMENTO - QUANTUM DE PENA - MANUTENÇÃO DO REGIME SEMIABERTO.
+- Nos moldes do artigo 33, §3º, do Código Penal Brasileiro, o magistrado, ao fixar o regime prisional ao delito, deve levar em consideração as circunstâncias judiciais previstas no artigo 59 do Código Penal, entretanto, em relação ao tráfico de drogas, deve preponderar a personalidade, a conduta social do agente, a natureza e a quantidade da substância entorpecente, conforme artigo 42 da Lei 11.343/06.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE - INVIABILIDADE - NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS.
+- Impossível a substituição da pena privativa de liberdade se a quantidade de pena imposta obsta a aplicação do beneficio, nos moldes do art. 44, I, do Código Penal.
+SUSPENSÃO DO PAGAMENTO DAS DESPESAS.
+- A Lel Estadual 14.939/03 foi declarada inconstitucional pelo órgão Especial deste egrégio Tribunal de Justiça, restando a matéria, atualmente, regulada pelo art.98 do Código de Processo Civil, à luz do qual o acusado hipossuficiente faz jus à g ratuidade da justiça, mas fica obrigado ao pagamento das obrigações decorrentes de sua sucumbêncla, cuja exigibilidade ficará suspensa pelo prazo de 05 (cinco) anos contados do trânsito em julgado da condenação.
+V.V. Considerando-se as circunstâncias do art. 42 da Lei nº 11.34312006, atinente à natureza e quantidade da substância, tenho que se mostra razoável a redução da pena pela metade. Em razão do quantum da pena fixada, bem como das circunstâncias judiciais analisadas, entendo que se mostra possível a modificação do regime prisional para o aberto. Estando presentes os requisitos do artigo 44, do CP mostra-se possível a substituição da pena corporal por restritivas de direitos. (Des. Doorgal Andrada)" (fl. 42).
+No presente mandamus, a defesa sustenta, em síntese, que não foi apresentada fundamentação idônea para justificar a aplicação da minorante do § 4º do art. 33 da Lei de Drogas no patamar de 1/4. Busca a redução da reprimenda em 1/2, com o consequente abrandamento do regime e a substituição da pena por restritiva de direitos.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 74/76).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A controvérsia refere-se à fração de redução de pena em razão minorante prevista no art. 33, § 4º, da Lei n. 11.343/06.
+O Tribunala quoreduziu a reprimenda em 1/4 considerandoa quantidade e a natureza da droga apreendida (59,31 g de cocaína):
+" ..
+Na terceira fase dosimétrica, foram reconhecidas a minorante prevista no art. 33, §4 º , e a majorante insculpida no art. 40, Hl, ambos da Lei nº. 11.343/06. Entendo prudente, considerando a quantidade e a natureza da droga in casu, reduzir a reprimenda em "1/4 (um quarto), pela norma prevista no art. 33, §4º, da Lei nº 11.343/06; bem como aumentar em 1/6 (um sexto), pela majorante inserta no art. 40, III, daLei nº 11.343/06, tornando-a definitiva em 04 (quatro) anos, 04 (quatro) meses e 15 (quinze) dias de reclusão e 437 (quatrocentos e trinta e sete) dias-multa sobre 1/30 do salário mínimo vigente ao tempo dos fatos"(fls. 54/55).
+A fundamentação apresentadaestá de acordo com o disposto no art. 42 da Lei n. 11.343/06, bem como com a jurisprudência desta Corte, a qual possui o entendimento de que a quantidade e a natureza das drogas podem justificar a aplicação do § 4º em fração inferior a 2/3.
+Apreciando situações semelhantes, este Tribunal Superior considerou válida a redução até mesmo em seu patamar mínimo, confira-se:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. NATUREZA E FORMA DE ACONDICIONAMENTO DAS SUBSTÂNCIAS ENTORPECENTES APREENDIDAS. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. DETRAÇÃO. TEMA NÃO ENFRENTADO PELA CORTE DE ORIGEM. COGNIÇÃO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REGIME ABERTO. IMPOSSIBILIDADE. PENA SUPERIOR A QUATRO ANOS. NÃO CONHECIMENTO.
+1. O estabelecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06 na fração de 1/6 não se mostrou, de modo flagrante, desarrazoado, diante da natureza e forma de acondicionamento das substâncias entorpecentes apreendidas - 31 g de crack, divididos em 19 unidades; e 5 g de cocaína, acondicionados em 1 invólucro -, a atrair a incidência do art. 42 da Lei n.º 11.343/2006. Motivada de maneira concreta a manutenção do quantum de aplicação do referido benefício pela Corte de origem, não há falar em ilegalidade.
+2. O tema referente à detração não foi apreciado pelo Tribunal a quo, o que impede sua cognição por esta Corte, sob pena de indevida supressão de instância.
+3. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos. In casu, tendo a reprimenda final do paciente alcançado 4 anos e 2 meses de reclusão, não é possível a pretendida substituição.
+Pelo mesmo raciocínio, também é inviável a fixação do regime aberto.
+4. Habeas corpus não conhecido.
+(HC 350.840/PI, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/5/2016, DJe 10/6/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO FIXADA EM 1/6. PLEITO DE AUMENTO DA FRAÇÃO REDUTORA. INVIABILIDADE. QUANTIDADE E NATUREZA DA DROGA QUE JUSTIFICAM A FRAÇÃO UTILIZADA. REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Deve ser mantida a fração redutora de 1/6, pelo reconhecimento da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, quando o acórdão, dentro da discricionariedade permitida por lei, fundamenta, concretamente, na quantidade e natureza da droga apreendida.
+- Tendo em vista o não redimensionamento da pena e mantido o patamar acima de 4 anos, o paciente não faz jus ao regime aberto, conforme disposições do art. 33, § 2º, do Código Penal.
+- Não há se falar em substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que o quantum da pena aplicada supera o limite previsto no art. 44, inciso I, do Código Penal.
+- Habeas corpus não conhecido.(HC 336.468/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/4/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (§ 4º DO ART. 33 DA LEI N. 11.343/06). QUANTUM DE REDUÇÃO. FRAÇÃO MÍNIMA (1/6). POSSIBILIDADE. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE. NATUREZA E QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. ART. 42 DA LEI N. 11.343/06. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE ACIMA DO MÍNIMO LEGAL. GRAVIDADE CONCRETA DO DELITO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. PLEITO PREJUDICADO. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR PARA ALTERAÇÃO DO REGIME INICIAL. AUSÊNCIA DE INFORMAÇÕES SUFICIENTES NOS AUTOS PARA CARACTERIZAÇÃO DO CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O art. 42 da Lei n. 11.343/2006 é expresso ao afirmar: o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto.
+Na hipótese, a Corte estadual destacou a quantidade de droga apreendida (um tablete de maconha com peso de 188,42g com o paciente Renan Augusto e dois tabletes de maconha pesando 108,31g com o paciente Jhonson), para justificar a aplicação da fração da minorante no mínimo, entendimento que está em consonância com esta Corte Superior.
+(..)
+7. Habeas corpus não conhecido.
+(HC 478.730/SP, de minha Relatoria, QUINTA TURMA, DJe 14/2/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
