@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUnião,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão doTribunal Regional Federal da 4ª Região,assim ementado (e-STJ fl. 180):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. FIXAÇÃO DE MULTA À FAZENDA PÚBLICA. SENTENÇA MANTIDA. APELAÇÃO DESPROVIDA.
+Osembargos de declaração foram parcialmente acolhidos para fins de prequestionamento(e-STJ fl. 595).
+Arecorrente alega, preliminarmente, violação doartigo 1.022,II, do CPC/2015, ao argumento de que a egrégia Turma não apreciou a matéria articulada nos embargos de declaração, como por exemplo, a alegação de que "o acórdão ora recorrido, ao manter a multa cominada pelo atraso de pagamentos de valores pretéritos à implantação do benefício, deixou de observar que a jurisprudência do STJ é pacífica quanto à impossibilidade de cominação de multa para pagamento de valores pretéritos", como também "foi omisso quanto à desproporcionalidade da multa aplicada, uma vez que o valor de R$ 60.000,00 pelo atraso no pagamento por dois meses do valor de R$ 6.677,07 mostra-se, no caso concreto, exorbitante e causa enriquecimento indevido da parte contrária".
+No mérito, aponta ofensa aos artigos 534, 536, e 537, do Código de Processo Civil/2015, argumenta que "não se trata de multa fixada em razão da demora na implantação do benefício do autor, mas de multa pelo não pagamento de valores anteriores à referida implantação" (e-STJ fl. 224).
+Com contrarrazões (e-STJ fls. 234-248).
+Juízo positivo de admissibilidade àe-STJ fl. 292.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Com efeito, arecorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que arecorrente argumentou e requereu a manifestação expressa do Órgão julgador a respeito de várias questões trazidasnosembargos de declaração, dentre elas, a alegação de que "o acórdão ora recorrido, ao manter a multa cominada pelo atraso de pagamentos de valores pretéritos à implantação do benefício, deixou de observar que a jurisprudência do STJ é pacífica quanto à impossibilidade de cominação de multa para pagamento de valores pretéritos", como também "foi omisso quanto à desproporcionalidade da multa aplicada, uma vez que o valor de R$ 60.000,00 pelo atraso no pagamento por dois meses do valor de R$ 6.677,07 mostra-se, no caso concreto, exorbitante e causa enriquecimento indevido da parte contrária".
+Com efeito, evidencia-se que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I e II,do CPC/2015, ensejando a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articuladanos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL.EMBARGOS À EXECUÇÃO. FIXAÇÃO DE MULTA À FAZENDA PÚBLICA.ARTIGO 1.022, I EII,DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSOPROVIDO.
