@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PLEITO DE DESCLASSIFICAÇÃO. AFERIÇÃO DO ELEMENTO SUBJETIVO.NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+Na hipótese, a reforma do entendimento da Corte de origem,no sentido de estar configurado o dolo do agente, demandaria inevitavelmente o reexame do quadro fático-probatório, sendo, todavia, vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS GOMES DA SILVA MALTHA(fls. 240-247)contra decisão monocrática assim ementada (fls. 312-316):
+"PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PLEITO DE DESCLASSIFICAÇÃO. AFERIÇÃO DO ELEMENTO SUBJETIVO.NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do regimental, o agravante afirma não pretender o reexame de fatos e provas, masa revaloração do conjunto probatório, o que é permitido no recurso especial.
+Argumenta que "acórdão recorrido aponta a ausência de comprovação mínima do dolo, o que restou devidamente fundamentado em sede de recurso especial. Não é possível presumir a prévia ciência por parte do agravante acerca da origem ilícita do veículo. Restou comprovada, apenas, a culpa do agravante, conforme acórdão e recurso especial"(fl. 324).
+Requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao Colegiado.
+Apresento o feito à eg. Quinta Turma, para julgamento.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PLEITO DE DESCLASSIFICAÇÃO. AFERIÇÃO DO ELEMENTO SUBJETIVO.NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+Na hipótese, a reforma do entendimento da Corte de origem,no sentido de estar configurado o dolo do agente, demandaria inevitavelmente o reexame do quadro fático-probatório, sendo, todavia, vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido
+VOTO
+A irresignação não deve prosperar.
+O agravante apontou, no apelo nobre, o malferimento aoart. 180, § 3º, do Código Penal, ao argumento de que, no caso dos autos, "o recorrente adquiriu coisa que, por sua natureza ou pela desproporção entre o valor e o preço, ou pela condição de quem a oferece, deve presumir-se obtida por meio criminoso", o que ensejaria a desclassificação da conduta para o delito dereceptação culposo"(fl.256).
+Entretanto, no caso, o eg. Tribunal de origem assim consignou(fls. 237-238):
+"Tenho que as provas são conclusivas no sentido de que o Apelante Lucas Gomes da Silva Maltha, preso em flagrante conduzindo o veículo marca Ford, modelo Fiesta, ano 2008, placas JHL 0563, no dia 26/01/2019, sabia que o carro era produto de crime e, mesmo assim, o conduziu, em proveito próprio, caracterizando o dolo direto, que é a vontade de praticar o delito de receptação.
+Na receptação dolosa é indispensável a prévia ciência de que a coisa tem procedência ilícita. Assim, o crime de receptação pressupõe um delito anterior e que o agente, mesmo sabendo da origem espúria da coisa, adquire, recebe, transporta, conduz ou oculta, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influi para que terceiro, de boa-fé, a adquira, receba ou oculte (artigo 180, caput, do Código Penal).
+O dolo do agente (elemento subjetivo) é aferido pelas circunstâncias fáticas do evento criminoso. No caso em concreto, o réu conduziu o veículo marca - Ford, modelo Fiesta, ano 2008, placas JHL 0563, pertencente a Francisco Sales Gomes Filho, o qual ostentava placas falsas JHH 0019, sabendo que o veículo eraproduto de crime, pois não é crível alguém comprar um veículo em estado normal de uso pelo valor de R$ 1.000,00 (mil reais) de uma pessoa chamada "David", cujos dados não foram informados no processo para que viesse esclarecer a transação de compra e venda realizada com o réu.
+Além disso, o réu afirmou que, em consulta realizada no SINESP/CIDADÃO, verificou que o veículo estava registrado em nome de "Francisco". Porém, isso não é possível porque o veículo estava ostentando placas adulteradas, no momento da abordagem, e as placas falsas JHH 0019 não poderiam estar vinculadas à propriedade da vítima Francisco Sales Gomes Filho.
+Acrescente-se, ainda, que o réu adquiriu o veículo descrito na denúncia de um vendedor chamado "David", pela rede social Facebook, mesmo sabendo que o carro estava registrado em nome de "Francisco", após ter realizado a consulta no SINESP/CIDADÃO, o que demonstra que ele tinha a certeza de que o vendedor do veículo não era o seu legítimo proprietário.
+Ademais, importante registrar que o sistema SINESP/CIDADÂO não indica o nome do proprietário do veículo, mas apenas a parte final do Chassi do veículo. Se o réu efetivamente realizou a consulta do veículo com as placas falsas JHH 0019, o Chassi final vinculado é 71230 e não 47615, que é o Chassi final vinculado às placas originais JHL 0563, o que comprova que ele tinha conhecimento de que o Chassi do veículo não coincidia com a placa falsa consultada.
+Assim, é indubitável que, consideradas as circunstâncias, o Apelante tinha ciência da origem ilícita do veículo que conduziu, não merecendo acolhimento os pedidos de absolvição ou de desclassificação do crime para a modalidade culposa, porque o elemento subjetivo do tipo - dolo direto - restou configurado na espécie."
+Ora, é patente que a reforma desse juízo formulado pela Corte de origem, no sentido do que postulado no recurso especial, demandaria inevitavelmente o reexame do quadro fático-probatório, sendo, todavia, vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dorecursoespecial(Súmula 7/STJ).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. RECEPTAÇÃO DOLOSA. DESCLASSIFICAÇÃO PARA MODALIDADE CULPOSA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ORIGEM LÍCITA DOS BENS. ÔNUS DA PROVA DA DEFESA. AGRAVO REGIMENTAL DESPROVIDO. 1. Para se concluir de forma diversa do entendimento do Tribunal de origem, no sentido de que o agravante não possuía conhecimento da origem criminosa do bem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis : "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Ademais, no caso, caberia à defesa a comprovação da origem lícita do bem ou de sua conduta culposa, haja vista que o bem foi apreendido em poder do agravante, nos termos do art. 156 do CPP, não havendo que se falar em inversão do ônus da prova. Precedentes.
+3. Agravo regimental desprovido."(AgRg no AREsp n. 1.244.089/DF,Quinta Turma, Rel. Min.Joel Ilan Paciornik, DJe de 29/06/2018).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
