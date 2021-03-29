@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICOLAS BRUZZONE, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO E ADUANEIRO. RETENÇÃO DE VALORES. ART. 65 DALEI 9.069/95 C/C ART 700 DO REGULAMENTO ADUANEIRO. LIMITEDE R$10.000,00. INGRESSO NO PAÍS DE VALOR SUPERIOR. PERDADE NUMERÁRIO EXCEDENTE. CASO CONCRETO. AUSÊNCIA DE EFETIVO INGRESSO DOS VALORES EM TERRITÓRIO NACIONAL. RESTITUIÇÃO.
+1. O ingresso de moeda no país deve ser realizado exclusivamente por meio de instituição autorizada a operar no mercado de câmbio quando o valor for superior a R$10.000,00. No caso de montante superior em espécie, o numerário excedente estará sujeito à pena de perda (art. 65, § 3º, da Lei9.069/95 c/c art. 700 do Decreto nº 6.759/09 - Regulamento Aduaneiro).
+2. O Decreto nº 6.759/09 (Regulamento Aduaneiro), ao definir, em seu art. 700, §3º, a aplicação do perdimento à totalidade da moeda que ingressar no território aduaneiro ou dele sair quando não portada por viajante, extrapolou os limites do poder regulamentar, trazendo inovação em desacordo com a norma legal, sendo, portanto, no ponto, ilegal e inaplicável.
+3. Caso no qual inexistiu o efetivo ingresso do numerário apreendido em território nacional, porquanto suficientemente demonstrado que o autor encontrava-se apenas de passagem pelo Brasil, rumo à Espanha.
+Os declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, indicou a violação do art. 489, e 1.022, ambos do CPC/2015, sob o fundamento de que, não obstante a oposição dos declaratórios, o Tribunal de origem não apreciou as razões aduzidas nos embargos.
+Apontou a ofensa ao art. 371 do CPC/2015, sustentando que as provas dos autos não foram apreciadas.
+É o relatório. Decido.
+No caso, não há que se falar em negativa de prestação jurisdicional.
+O Tribunal de origem manifestou-se de forma fundamentada sobre o cerne da causa, apreciando devidamente o conjunto das provas dos autos.
+Considerou, especialmente, o fato de que, "embora tratando-se de cidadão argentino residente em Buenos Aires, a alegação de mero trânsito em território nacional não foi comprovada pelo impetrante. Gize-se que referido argumento era de fácil comprovação, bastando ao apelante anexar aos autos os dados do suposto vôo no qual embarcaria em Puerto Iguazu, com destino a sua cidade na Argentina - ônus do qual não se desincumbiu." (fl. 310).
+Consoante a jurisprudência pacífica do Superior Tribunal de Justiça, tem-se que o julgador não está obrigado a rebater, um a um, todos os argumentos ou todos dispositivos de lei invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia; devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso. Nesse sentido: AgInt no AREsp 1575315/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020; REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018; AgInt no REsp n. 1.757.501/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n. 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 14/8/2018.
+No mérito, o recurso especial não comporta seguimento.
+Sobre a questão relativa à ofensa ao art. 371 do CPC/2015, o recorrente não demonstrou ou argumentou de que forma o dispositivo teria sido violado. Incide o óbice contido no Enunciado Sumular n. 284/STF, por analogia.
+Ainda que superado este óbice, verifica-se que a apreciação da pretensão recursal implicaria a revisão das provas em que essencialmente se sustentou acórdão recorrido. Incidência do Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
