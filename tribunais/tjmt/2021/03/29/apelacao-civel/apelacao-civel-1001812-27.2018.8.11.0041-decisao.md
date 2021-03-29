@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1001812-27.2018.811.0041
+Recorrente: UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO
+Recorrida: TAYLINE MICHELLY DE MORAES PADILHA
+Vistos.
+Trata-se de RECURSO ESPECIAL (id. 70362966) interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, que deu parcial provimento ao seu recurso de apelação cível, afastando a condenação em danos morais, conforme a seguinte ementa (id. 67164999):
+“DOIS RECURSOS DE APELAÇÃO – AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS – PLANO DE SAÚDE – NEGATIVA DE COBERTURA DE PROCEDIMENTO CIRÚRGICO DE MAMOPLASTIA – MANUTENÇÃO DA SENTENÇA NO QUE TANGE À OBRIGAÇÃO DE FAZER – INDENIZAÇÃO POR DANOS MORAIS – MERO DESCUMPRIMENTO CONTRATUAL – NEGATIVA QUE, EMBORA INDEVIDA NÃO ACARRETOU DANO MORAL INDENIZÁVEL – DEVER DE INDENIZAR AFASTADO – RECURSO DA EMPRESA DE PLANO DE SAÚDE PARCIALMENTE PROVIDO – RECURSO DA CONSUMIDORA – PREJUDICADO. 1- Em relação aos casos de indevida negativa de cobertura por parte do plano de saúde, a mais recente orientação da jurisprudência da Corte Superior é de que não há dano moral in re ipsa. O STJ tem aplicado a máxima de que o mero descumprimento contratual não enseja indenização por dano moral; todavia, é configurado quando há recusa de cobertura para tratamento de urgência ou emergência ou se o consumidor demonstra que a recusa trouxe agravamento à sua saúde, dor, abalo psicológico etc. No caso concreto, inobstante a negativa, não há falar em dever de indenizar porque o procedimento cirúrgico não foi solicitado em caráter de urgência e/ou emergência e a Recorrida não comprovou que a recusa agravou seu estado de saúde e intimidade psíquica, ou que sofreu constrangimento, angústia ou desconforto espiritual a ponto de violar, de forma anormal, sua honra e/ou dignidade. 3- Afastada a condenação ao pagamento de indenização por danos morais, prejudicado o Recurso de Apelação interposto pela Autora, já que almejava tão-somente a majoração da verba indenizatória. (RAC n° 1001812-27.2018.811.0041, Rel. SEBASTIÃO DE MORAES FILHO, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 18/11/2020)”.
+A recorrente alega em suas razões que o acórdão hostilizado negou vigência ao art. 10, II, da Lei n° 9.656/98, ao fundamento de que a negativa da recorrente foi baseada em cláusula contratual e legislação em vigor, o qual autoriza a negativa de cobertura de procedimento não previstos pela ANS, no caso, para fins estéticos.
+Recurso tempestivo (id. 71442967). Devidamente preparado (id. 71466481). Devidamente intimada, a recorrida deixou transcorrer o prazo sem oferecer contrarrazões ao recurso (id. 76122976).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência.
+Entretanto, em que pese as argumentações do recorrente, o recurso não pode alcançar o normal seguimento.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+Tem-se que as razões recursais demonstram o nítido interesse da recorrente em reverter o julgado ao seu favor, em especial diante das alegações inexistência de cobertura à tratamento não previsto e limitação de cobertura contratual. Sustenta a que o acórdão negou vigência ao art. 10, II da Lei n° 9.656/98, tendo em vista que restou autorizado procedimento para fins estéticos, o que configura exceção àqueles previstos pela ANS.
+A despeito de suas alegações, afere-se que ao decidir a questão, o órgão fracionário deste Sodalício assim consignou:
+“Compulsando os autos verifica-se que a cirurgia almejada pela autora não tem o único fito estético, já que foi demonstrado suficientemente no deslinde processual, através de exames e laudos médicos especializados que sua condição física vem acarretando prejuízos à sua saúde ortopédica, em especial a integridade fisiológica de sua coluna vertebral.
+Conclui-se, então, que a cirurgia de mamoplastia redutora, no caso em exame, denota de forma cristalina seu objetivo reparador necessário.
+Imprescindível anotar que a indicação especifica de tratamento adequado a ser aplicado no paciente, contende ao profissional da saúde eleito, inexistindo competência do plano de saúde encampar-se no referido mérito.
+[...]
+No que concerne à tese da Apelante de que a responsabilidade pelo custeio da cirurgia deve ser afastada, porque o caso versa sobre procedimento estético, não comporta acolhida.
+Há provas irrefutáveis de que a cirurgia foi solicitada com a finalidade terapêutica e indispensável, porque traria melhora do desequilíbrio sagital negativo, já que a Apelada estava acometida de “cifose” (comumente chamada de corcundez).
+Assim, a recusa, sob a tese de que o Contrato exclui cirurgias plásticas estéticas, não convence.
+Indevida a recusa, deve ser mantida a sentença no que tange à autorização do procedimento cirúrgico”. (grifei).
+Portanto, alterar o entendimento do órgão fracionário, em especial quando este decidiu que a recusa no tratamento, diante de obrigação contratual firmada entre as partes, se revelou indevida/injustificada, demandaria a necessária incursão em premissas fático-probatórias carreada aos autos. Assim, insuscetível de revisão o entendimento firmado pelo Tribunal por demandar o simples reexame de provas e interpretação de cláusula contratual. Nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. INEXISTENTE. PLANO DE SAÚDE. CIRURGIA BARIÁTRICA DE EMERGÊNCIA. RECUSA INDEVIDA. ABUSIVIDADE RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Para que se configure o prequestionamento da matéria há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 282 e 356 do STF). 2. Havendo comprovada indicação médica para a realização de cirurgia bariátrica de emergência, sem caráter estético, não cabe à operadora negar a cobertura sob o argumento de que o tratamento não teria previsão contratual, visto que sendo tal procedimento médico indispensável à manutenção da integridade e à vida do usuário, sua recusa configura conduta abusiva nos termos do CDC. 3. Tendo a instância de origem concluído, a partir do exame das provas dos autos, que a recusa de cobertura pelo plano de saúde foi injustificada e ocorrida em momento de grave estado de saúde do beneficiário, a revisão desse entendimento demanda reexame da matéria de fato, incabível no âmbito do recurso especial (Súmulas 5 e 7/STJ). 4. Agravo interno não provido. (AgInt no REsp 1776194/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 07/11/2019, DJe 12/11/2019)” (grifei).
+Assim, para proceder qualquer análise acerca da inexistência de recusa injustificável de cobertura, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial, por força do óbice da Súmula no 07 do STJ.
+Diante desse quadro, o presente recurso não alcança o juízo positivo de admissibilidade por esse fundamento.
+Ante o exposto, com estas considerações, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
