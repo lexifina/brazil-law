@@ -1,0 +1,43 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+2. No caso concreto, não se verifica nenhum desses vícios autorizadores da oposição dos aclaratórios. Por isso, o recurso deve ser rejeitado.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Joel Ilan Paciornik, Felix Fischer, Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por JANISSON COSTA BALVEDI, FERNANDO FALCÃO DUARTE JORGE e HANDERSON PRECIOSO FAGUNDES contra acórdão da Terceira Seção desta Corte assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INDEFERIMENTO LIMINAR. DIVERGÊNCIA NÃO DEMONSTRADA. ART. 932, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE. COMPROVAÇÃO DA DIVERGÊNCIA. SUBSTÂNCIA DO ATO. AGRAVO NÃO PROVIDO. 1. Conforme entendimento consolidado nesta Corte, "a ausência de demonstração da divergência alegada no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui claramente vício substancial, resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015 para complementação de fundamentação." (AgInt nos EAREsp 1238270/RS, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2020, DJe 27/10/2020).2. Agravo regimental não provido." (e-STJ, fl. 1.050).
+Ainda irresignada, a defesa alega omissão no acórdão embargado.
+Afirma que "a decisão proferida foi genérica: o acórdão se limitou a fazer considerações introdutórias e gerais acerca dos embargos de divergência, mas, em nada, tocou o presente caso". Diz ainda que, "mesmo tendo sido mencionados diversos julgados no sentido de desnecessidade da juntada do inteiro teor do acórdão paradigma e da natureza de vício formal sanável, que autorizaria a abertura de prazo para a regularização, o douto Ministro Relator ignorou os argumentos suscitados pela Defesa. Cumpre frisar que sequer foi explicado o motivo de o presente caso não ser abarcado pelos posicionamentos mencionados deste Tribunal." (e-STJ, fl. 2.237).
+Assim, requer o saneamento da alegada omissão.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+2. No caso concreto, não se verifica nenhum desses vícios autorizadores da oposição dos aclaratórios. Por isso, o recurso deve ser rejeitado.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Como cediço, o art. 619 do Código de Processo Penal dispõe que os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+No caso concreto, ao contrário do que alegam os embargantes, o acórdão é expresso em destacar a impossibilidade de seneamento do suposto vício formal na esfera dos embargos de divergência. :
+".. há de se ponderar que, diversamente dos demais recursos, o fim último dos embargos de divergência é uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgados de seus órgãos internos. Apenas de forma secundária estes embargos se voltam à satisfação da pretensão das partes. Por isso, o art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, apresenta-se tão criterioso.
+A propósito:
+"Art. 266  ..
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados."
+Cumpre notar ainda que, ao contrário do que pretende o ora agravante, a jurisprudência deste Superior Tribunal de Justiça não autoriza seja sanado o vício por ausência de juntada dos acórdãos paradigmas nesta espécie recursal. O fundamento de tal compreensão encontra-se exatamente na natureza deste recurso, cujo propósito último é uniformizar a jurisprudência interna do tribunal. Assim, interpreta-se que a demonstração da divergência, nesta hipótese, o que inclui a juntada dos acórdãos paradigma e impugnado, é da essência ou da substância do próprio recurso, não se tratando de mera formalidade. Nesse sentido, confira-se o seguinte precedente julgado pela Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO. ACÓRDÃOS PARADIGMAS. JUNTADA. INTEIRO TEOR. AUSÊNCIA. CERTIDÕES DE JULGAMENTO. VÍCIO SUBSTANCIAL. PRAZO. JUNTADA. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte, é requisito indispensável para a comprovação ou configuração do dissídio a adoção pela parte recorrente, na petição dos embargos de divergência, das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. In casu, a agravante reconhece a ausência de juntada da certidão de julgamento do acórdão paradigma, afirmando que a decisão estaria a exigir algo que a lei não prescreve e que, ainda que assim o fosse, tal vício poderia ser sanado posteriormente, por ser meramente formal.
+3. Ocorre que os embargos de divergência ostentam característica de recurso de fundamentação vinculada, a teor do que dispõem os arts. 1.043 e 1.044 do CPC, os quais exigem, como pressuposto indispensável, a demonstração de divergência jurisprudencial entre os órgãos fracionários.
+4. Quanto à alegada necessidade de ser conferido prazo para sanear os possíveis vícios processuais existentes, nos termos do art. 932, parágrafo único, do CPC, este Sodalício firmou entendimento no sentido de aplicar-se a referida regra somente aos vícios meramente formais, conforme se pode verificar no Enunciado Administrativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+5. A ausência de demonstração da divergência alegada no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui claramente vício substancial, resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015 para complementação de fundamentação.
+6. Descabe a majoração de honorários recursais, quando inexistir prévia fixação da verba em desfavor da parte recorrente desde a instância de origem.
+7. Agravo interno desprovido."(AgInt nos EAREsp 1238270/RS, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2020, DJe 27/10/2020)."
+ .. ."(e-STJ, fls. 2228-2229; grifou-se).
+Com efeito, no caso concreto, não se tem omissão, mas mero inconformismo da parte ora embargante.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
