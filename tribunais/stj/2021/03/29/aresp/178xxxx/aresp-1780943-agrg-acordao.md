@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, a aplicação do óbice da Súmula 7/STJ e Súmula 283/STF.
+Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto porFRANCISCO GECILDO DA CUNHA e GERALDO BARBOSA DE OLIVEIRA, contra a decisão de minha relatoria (fls. 724-728), que não conheceu do agravo em recurso especial, assim ementada:
+"PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO."
+Consoante se extrai dos autos, os agravantes Francisco Gecildo da Cunha e Geraldo Barbosa de Oliveira foram condenados pela prática do delito previsto no artigo 155, §4º, incisos I e IV, c/c art. 29, ambos do Código Penal às penas de 02 (dois) anos e 06 (seis) meses de reclusão, em regime semiaberto, e multa de 12 (doze) dias-multa e 03 (três) anos e 06 (seis) meses de reclusão, em regime fechado, e multa de 17 (dezessete) dias-multa, respectivamente (fls. 330-344)
+Em segunda instância, o eg. Tribunal a quo, negou provimento ao recurso de apelação do Francisco Gecildo da Cunha e deu parcial provimento ao recurso de Geraldo Barbosa de Oliveira para reduzir sua pena para 03 (três) anos de reclusão, em regime fechado e 14 (quatorze) dias-multa (fls. 487-494).
+Opostos os embargos de declaração, estes foram acolhidos para determinar a expedição de mandados de prisão em desfavor dos corréus(fls. 555-558).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação: i) do arts. 59 e 61, inciso I, ambos do Código Penal, posto que houve excessivo aumento de 1/4 considerando maus antecedentes, bem como em relação à reincidência do réu Geraldo; ii) arts. 59, 33, §§1º e 3º, ambos do Código Penal, já que os réus Francisco e Geraldo, deveria iniciar o cumprimento da pena no regime aberto; e iii) art. 44 do Código Penal, posto que não houve a substituição da pena privativa de liberdade por restritiva de direito do réu Francisco (fls. 515-528).
+Apresentadas as contrarrazões (fls. 606-611), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório e ii) Súmula 283/STJ, posto que os fundamentos do acórdão recorrido não foram objeto de impugnação específica nas razões do recurso especial (fls. 614-615).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 721-722).
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porquanto não foram infirmados todos os fundamentos empregados pela eg. Corte de origem para inadmitir o recurso, especialmente quanto à Súmula 7/STJ e Súmula 283/STF.
+No regimental, o agravante afirma que deveria a decisão de inadmissibilidade indicar adequadamente a incidência das Súmulas apontadas.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, a aplicação do óbice da Súmula 7/STJ e Súmula 283/STF.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foi infirmado de maneira adequada o fundamento empregado pela eg. Corte de origem para inadmitir o recurso, qual seja, a incidência da Súmula 283/STF e Súmula 7/STJ.
+Neste regimental, alega a parte apenas que(fls. 733-734):
+"Segundo a r. Decisão ora impugnada, apesar de existente, a impugnação da suposta incidência dasSúmula283/STF e7/STJ não teria sido específica, nem feita de maneira adequada e suficiente.
+Porém, a alegação de que a impugnação não foi suficiente e adequada, data máxima vênia, não merece prosperar.
+Com efeito, veja-se como foi a fundamentação da Decisão do Tribunal a quo que não admitiu o recurso especial sob o argumento do impedimento da Súmula283/STF (e-STJ, fls. 614):
+"Com efeito, o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados os argumentos do aresto.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo."(g.n.)
+E veja-se como foi a fundamentação da suposta incidência da Súmula7/STJ:
+"Ademais, para se chegar a solução contrária à do aresto recorrido, seria necessário o reexame da prova. Nesse passo, cabe reproduzir a Súmula nº 7, do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"."(g.n.).
+Percebe-se, portanto que as poucas linhas utilizadas pela Decisão de inadmissibilidade apenas fizeram referência à suposta incidência da Súmula283/STF e da Súmula7/STJ, sem dizer como, onde e por quê.
+Assim, foi a decisão de inadmissibilidade que não especificou e não fundamentou adequadamente ou suficientemente a incidência ao caso das Súmulas indicadas.
+Logo, como poderia a recorrente, impugnar especificamente uma fundamentação genérica ! Se nem sequer é possível saber, pela decisão da inadmissibilidade, em que ponto do recurso teria ocorrido a suposta incidência das Súmulas 283/STF e7/STJ.
+Portanto, a exigência da r. Decisão monocrática ora atacada, de que deveria o agravo impugnar adequadamente a incidência das Súmulas apontadas, não se sustenta, por ser impossível de ser realizada.
+Deveria a decisão de inadmissibilidade indicar adequadamente, ou minimamente, onde incidiu a Súmula 7/STJ e a Súmula 283/STF para que fosse possível a devida impugnação."
+Não logra êxito a irresignação, porque, efetivamente, não foi impugnado, de forma adequada e suficiente, o fundamento da decisão proferida pelo Tribunal de origem, posto que a Defesa limitou-se a afirmar que:
+"O juízo de admissibilidade que compete ao Tribunal de justiça se limita à análise dos pressupostos de recorribilidade recursal, haja vista que a análise do mérito da pretensão ser reservada ao C. Superior Tribunal de justiça. Portanto, NÃO compete ao órgão a quo avaliar o próprio êxito do Recurso Especial para, ainda no juizo preliminar, indeferir o seu processamento.
+Ao Tribunal de Justiça compete analisar simplesmente se estão presentes os pressupostos de recorribilidade, tais como o exaurimento das instâncias recursais ordinárias, a tempestividade, o interesse recursal e o prequestionamento da matéria impugnada.
+Por estas razões, não compete ao Tribunal de origem invadir a competência constitucionalmente reservada ao Superior Tribunal de Justiça para decidir se houve, ou não, violação ao dispositivo legal em relação ao v. acórdão recorrido, ou expressar-se sobre eventual falta de fundamentação recursal. Este juizo valorativo é próprio desta Corte porque condizente ao mérito da irresignação, sobre o que não tem o Tribunal de origem competência para decidir.
+ ..
+Sendo assim, é ao Superior Tribunal de Justiça que incumbe decidir se a fundamentação trazida pelo recurso se presta ou não para a reforma da decisão exarada pelas instâncias inferiores. O juízo de admissibilidade não pode exceder seus limites para julgar a controvérsia, como se nessa fase fosse dado às cortes inferiores criar verdadeira PAREDE a dificultar o acesso à justiça e o exercício da jurisdição.
+Ainda, o despacho agravado (cf. fls. 576/577) extrapolou as competências outorgadas pelo artigo 1.030, inciso I, do Código de Processo Civil (Lei nº 13.105/2015). O eminente prolator da decisão agravada, JULGOU o Recurso Especial, não se limitando a proferir juízo acerca do preenchimento de seus requisitos de admissibilidade. Ademais, trata-se de despacho que se constitui em SIMPLES COPIA DE DECISÕES PROFERIDAS EM OUTRAS CAUSAS, sem que haja similaridade entre elas, com a simples substituição do nome das partes e do número do processo
+ ..
+No mais, a simples alegação de que a fundamentação recursal é deficiente, sem qualquer ponderação acerca do caso concreto não é idônea para a negativa de seguimento ao recurso, já que não afasta concretamente qualquer requisito de admissibilidade recursal" (fls. 623-631).
+O recurso não foi conhecido porque o recorrente olvidou-se de infirmar, de maneira adequada e suficiente, a razão apresentada pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, bem como comprovar que impugnaram de forma específica todos os fundamentos do acórdão ora reprochado,o que não aconteceu.
+Vale destacar que éentendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL COM FUNDAMENTO EM MATÉRIA REPETITIVA. RESP N. 1.134.186/RS. TEMA N. 407/STJ. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ E DIVERGÊNCIA NÃO COMPROVADA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+IV - Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base em ocorrência de: Súmula 7 do STJ, divergência não comprovada e na aplicação do entendimento sufragado no recurso repetitivo REsp n. 1.134.186/RS - Tema n.407/STJ.
+ ..
+IX - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+X - Embargos de declaração acolhidos, sem efeitos modificativos, nos termos da fundamentação" (EDcl no AgInt no AREsp n. 1.212.148/RS, Segunda Turma, Rel. Min. Francisco Falcão, DJe 14/12/2018).
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Assim, em respeito ao princípio da dialeticidade, a impugnação dos fundamentos da decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos" (AgRg no REsp n. 1.709.395/SC, Quinta Turma, deminha relatoria, DJe de 10/12/2018).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
