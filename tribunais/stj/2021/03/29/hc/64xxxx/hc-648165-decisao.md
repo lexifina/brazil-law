@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de FERNANDO DE SOUZA SIQUEIRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0012899-75.2017.8.26.0635.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 2 (dois) anos e 11 (onze) meses de reclusão, em regime inicial aberto, mais o pagamento de 291 (duzentos e noventa e um) dias-multa, como incurso nas iras do art. 33, caput, § 4º, da Lei n. 11.343/2006 (fls. 78-82).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso defensivo e proveu o apelo acusatório, a fim de afastar o tráfico privilegiado e, por conseguinte, redimensionar a pena do paciente em 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa, consoante voto condutor do v. acórdão de fls. 121-131.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois estão presentes os elementos necessários ao reconhecimento do tráfico privilegiado.
+Sustenta que a quantidade de droga apreendida não é elemento hábil a alterar a sentença de primeiro grau.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 196-197).
+Informações prestadas às fls. 200-231.
+O Ministério Público Federal, às fls. 235-251, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE DE ANÁLISE EM SEDE DE HABEAS CORPUS. MATÉRIA FÁTICO-PROBATÓRIA. NÃO CONHECIMENTO.
+1. Prima facie, os Tribunais Superiores esposam entendimento remansoso no sentido de que é vedada a utilização do writ como substitutivo de recurso próprio.
+2. O afastamento do benefício contido no art. 33, §4º da Lei 11.343/06 e a aplicação do regime fechado foram satisfatoriamente fundamentados pelas instâncias ordinárias.
+3. Parecer pelo não conhecimento do writ" (fl. 235).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração o restabelecimento da sentença de primeiro grau.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Ausentes agravantes e atenuantes, na derradeira etapa do artigo 68 do Código Penal, mitigou-se a sanção de metade (1/2) ante o privilégio previsto no artigo 33, § 4º, da Lei de Drogas.
+Evidente o equívoco, porquanto, como ponderou o Superior Tribunal de Justiça, a quantidade e a nocividade das drogas apreendidas, bem como as circunstâncias da abordagem do agente, por si sós, indicam a maior periculosidade social da ação, obstáculo à incidência da causa de redução de pena (STJ, HC 182359/RJ), conforme reiterado posicionamento das Cortes Superiores  .. .
+Cabe dizer que o legislador, ao estipular a minorante, teve como alvo o "pequeno" e esporádico traficante, condição colidente com o agente pilhado na posse de considerável volume de tóxicos, repita-se.
+Por conseguinte, afasta-se o privilégio despropositadamente reconhecido, conforme pleiteou o Ministério Público concretizando-se a sanção em cinco (5) anos e dez (10) meses de reclusão, mais quinhentos e oitenta e três (583) dias-multa, unidade no piso, à míngua de outras causas modificadoras.
+De resto, o regime fechado para início de cumprimento da carcerária é o único adequado ao tráfico, além da circunstância negativa alhures observada do mesmo modo inconciliável com retiro menos severo(artigo 33, § 3º, do Código Penal).
+ ..
+Isso, destaque-se, não representa mera opinião do julgador a respeito da gravidade do crime; a providência decorre, sim, de fato concreto facilmente constatado através de circunstância desfavorável(posse de considerável quantidade de droga dotada de acentuada nocividade à higidez física ou psíquica da população - skank), sem se ignorar o cometimento de infração penal de indiscutíveis gravidade e repercussão" (fls. 127-129).
+Quanto ao pedido de incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, frise-se que, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, há fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada na quantidade e na natureza da droga apreendida, ou seja: 316,9 g de maconha; e 434,4 g de skank (fl. 124).
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nesse sentido: HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017; e HC n. 379.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017.
+No mais, a quantidade e a natureza do entorpecente - 316,9 g de maconha; e 434,4 g de skank - foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
