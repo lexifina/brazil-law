@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+3. Agravo regimental desprovido.
+RELATÓRIO
+WANCLEY SILVA PEREIRA DOS SANTOSinterpõe agravo regimental contra a decisão de fls. 99-101, que negou provimento ao recurso ordinário emhabeas corpusinterposto contra acórdão do Tribunal de Justiça do Estado da Bahia (Processo n. 8006173-88.2020.8.05.0000).
+O recorrente foi preso em flagrante, no dia 8/2/2020, em razão da suposta prática do crime descrito no art. 121, § 2º, II, IV, c/c o art. 29, ambos do Código Penal. Em 9/2/2020, foi homologado o auto de prisão em flagrante e decretada a prisão preventiva.
+Nas razões deste recurso,insiste em que estão ausentes os requisitos autorizadores da prisão preventiva e em que o decreto prisional está fundamentado em razões genéricas e abstratas.
+Aponta condições subjetivas favoráveis, o que permite a substituição da prisão por medidas cautelares alternativas.
+Requer seja o presente agravo recebido e julgado procedente para queseja revogada sua prisão preventiva.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a prisão preventiva quando presentes os requisitos legais para sua decretação.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 65-66):
+Bem analisados os autos, verifica-se que o paciente foi preso em flagrante, no dia 08.02.2020, pela prática do crime de homicídio qualificado. Assim, após análise do auto de prisão em flagrante, a Autoridade apontada coatora converteu a prisão em flagrante em preventiva.
+No caso, da leitura do decreto preventivo, documento nº 6412411, depreende-se que a Autoridade impetrada, verificando comprovada a materialidade do delito bem como a existência dos indícios suficientes de autoria na pessoa do paciente, decretou sua prisão preventiva, em 09.02.2020, de maneira sucinta, mas devidamente fundamentada na garantia da ordem pública, destacando o seguinte trecho:
+" ..  WANCLEY SILVA PEREIRA DOS SANTOS (..) preso e autuado em flagrante por suposta prática do delito tipificado no art. 121, do Código Penal, em razão de homicídio contra JUAREZ, desferindo-lhe diversos golpes de faca contra a vítima. Consta ainda informações de vizinhos da vítima, de que o homicídio foi praticado por WANCLEI e CARLÃO, este último, inclusive, teria segurado a vítima para que WANCLEY desferisse os golpes de faca, fato ocorrido nas dependências do bar da vítima, às 21;15h, do dia 08.02.2020, no Distrito de Vila Isabel (MAIS CONHECIDA COMO 41), BR415- Ibicaraí/BA.
+Após a prática do delito, o flagranteado empreendeu fuga, com o comparsa , tendo lutado com CARLÃO populares para evitar a prisão, sendo que WANCLEI ainda feriu a mão nesse momento. WANCLEI objetivava, de acordo com as informações, fugir da cidade de Ibicaraí. Não há informações sobre o paradeiro de CARLÃO.
+O auto de prisão encontra-se em ordem.  ..
+In casu, o delito atribuído comporta a fixação de pena privativa de liberdade máxima superior a 4(quatro) anos, em caso de futura condenação. A lavratura do Auto de Prisão em Flagrante não apresenta ilegalidades, tendo obedecido aos ditames dos artigos 301 e ss. do Código de Processo Penal. Dos depoimentos e declarações colhidos podem ser extraídos a prova da materialidade do fato e o indício suficiente da sua autoria. Também não incide a vedação do art. 314 do CPP, que remete às causas excludentes de ilicitude. Por fim, as medidas cautelares diversas da prisão não se adequam à gravidade do crime, às circunstâncias do fato ou às condições pessoais do flagrado.
+Diante da gravidade do delito, a conversão da prisão precautelar em preventiva é medida que se impõe, a bem da ordem pública. Efetivamente, quando a gravidade concreta, o modus operandi e as circunstâncias do delito indicam a periculosidade real do agente.
+Ex positis, tendo em vista tudo mais que nos autos consta, e com fundamento nos arts. 310 e ss. Do Código de Processo penal, CONVERTO EM PRISÃO PREVENTIVA a prisão em flagrante do flagranteado WANCLEY SILVA PEREIRA DOS SANTOS(..)". Grifos ausentes do original.
+Na hipótese, verifica-se a gravidade concreta do delito atribuído ao paciente e corréu, pelo crime de homicídio qualificado, praticado com violência, desferindo diversos golpes de faca contra a vítima, Juarez Ferreira de Oliveira, no estabelecimento comercial da vítima, os quais lhe causaram ferimentos que foram a causa eficiente de sua morte, e, após a prática do crime, paciente e corréu empreenderam fuga.
+Portanto, sendo induvidosa a ocorrência do crime e presentes suficientes indícios de autoria, não há ilegalidade na decisão que determina a custódia cautelar, se presentes um dos fundamentos autorizadores constantes do art. 312 do CPP, no caso, a garantia da ordem pública.
+Dessa forma, não há que se falar em constrangimento ilegal por desfundamentação da decisão que determinou a custódia preventiva do paciente, haja vista a demonstração concreta da necessidade da manutenção da medida segregatória, conforme decisão satisfatoriamente justificada.
+Em suma, inexistindo qualquer alteração fática apta a desconstituir o decreto preventivo combatido, conclui-se que volta do paciente ao meio social, neste momento, não é oportuna e conveniente, sendo imperioso que permaneça recolhido ao cárcere, de modo a prevenir a reiteração da prática criminosa.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ressalte-se que "eventuais condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva" (HC n. 602.991/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/9/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
