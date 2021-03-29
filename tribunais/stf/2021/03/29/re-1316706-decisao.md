@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "Recurso inominado - SPPREV - Piso salarial nacional para os professores da educação básica de remuneração de servidor público - Lei Federal nº 11.738/2008 instituiu o piso salarial profissional nacional do magistério público - Impossibilidade dos entes federados fixarem valor inferior - Constitucionalidade da Lei declarada na ADI nº 4.167, na qual se firmou o entendimento de que o piso salarial deve ser fixado com base no vencimento do servidor público e não na remuneração global - Necessidade de recálculo do vencimento básico inicial e dos reflexos do reajuste das diferenças salariais no pagamento das demais vantagens, respeitada a prescrição quinquenal - Sentença de procedência - Possibilidade do reconhecimento dos reflexos do reajuste no piso salarial para toda a estrutura remuneratória da carreira do magistério estadual - Negado provimento ao recurso da Ré."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação aos arts. 2º, 18, caput, e 37, X, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "Não obstante inexista equivalência entre o estabelecimento de um piso salaria nacional e o reajuste salarial vinculado, como já exposto no julgamento do REsp 1426210/RS (Tema 911), é fato que o vencimento básico (salário-base inicial) dos professores estaduais da educação básica é utilizado como referência salarial para o cálculo dos diferentes níveis e faixas salariais do cargo em um promoção fixa (Lei Complementar Estadual nº 836/1997).
+    Nesse sentido, é evidente que, quando ocorre uma alteração no salário básico inicial, haverá, consequentemente, uma repercussão na escala de vencimentos desses servidores (art. 32, parágrafo único, da Lei Complementar Estadual nº 836/1997).
+    Outrossim, é ilógico pensar-se em uma política de valorização do magistério sem a transposição do reajuste no salário básico inicial, respeitado o piso salarial nacional, para os demais níveis e faixas da carreira do magistério público estadual, já que, dessa forma, permitir-se-ia que os servidores em início de carreira alçassem vencimentos próximos àqueles de níveis e faixas mais avançados.
+    Frise-se que os entes federados tiveram um período de adequação quanto à imposição constitucional e legal, nos termos do art. 6º, da Lei nº 11.738/2008, motivo pelo qual não cabe a simples alegação de ausência de previsão orçamentária.
+    Quanto aos reflexos das diferenças salariais no pagamento dos adicionais temporais (quinquênios e sexta-parte, se houver), correta a decisão do Magistrado que determinou a sua inclusão no recálculo, observada a prescrição quinquenal."
+         Desse modo, verifica-se que o órgão judiciário de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 29 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
