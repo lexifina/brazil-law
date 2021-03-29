@@ -1,0 +1,53 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial interposto na Apelação Cível no 1033164-37.2017.811.0041
+Recorrente: ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S/A
+Recorrido: COMPANHIA DE SEGUROS ALIANÇA DO BRASIL
+Vistos.
+Trata-se de RECURSO ESPECIAL (id. 75838950) interposto por ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S/A, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, que negou provimento ao seu recurso de agravo interno, mantendo decisão monocrática que negou provimento a apelação cível, conforme seguinte ementa (id. 64327468):
+“RECURSO DE AGRAVO INTERNO – APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – CONCESSIONÁRIA DE SERVIÇO PÚBLICO – ENERGIA ELÉTRICA – QUEIMA DE APARELHOS – DANOS – RESPONSABILIDADE OBJETIVA – DECISÃO MONOCRÁTICA MANTIDA – RECURSO DESPROVIDO.
+Da dicção dos artigos 37, § 6o, da Constituição Federal e arts. 14 e 22, do Código de Defesa do Consumidor, extrai-se que a responsabilidade das concessionárias de energia elétrica é objetiva, ou seja, independe de culpa, bastando a comprovação do prejuízo e do nexo de causalidade entre a ação (comissiva ou omissiva) e o dano.
+Em que pese a Agravante afirmar que os documentos coligidos aos autos não seriam capazes de comprovar o nexo de causalidade entre sua conduta e os danos noticiados pela Seguradora, a Concessionária de Serviço Público deixou de apresentar documentos para comprovar que na data dos sinistros não houve oscilações de energia elétrica.
+Os documentos que instruem o feito são suficientes para a formação de juízo seguro sobre o mérito da causa, sendo desnecessária a realização de prova pericial para o julgamento da lide.
+Inexistindo elementos novos capazes de infirmar decisão recorrida, deve ela prevalecer em todos os seus termos. (RAC n° 1033164-37.2017.8.11.0041, Rel. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 28/10/2020)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme acórdão no id. 71192978.
+A recorrente sustenta em suas razões, a inobservância, por parte da seguradora/recorrida, dos procedimentos administrativos obrigatórios para o ressarcimento dos supostos danos. Menciona que como não lhe fora dado ciência acerca dos problemas na rede elétrica, teve o seu direito de defesa cerceado, por não aferir a rede elétrica, bem como os equipamentos supostamente danificados.
+Aduz que não houve reclamação administrativa, conforme disciplina as normas do setor elétrico (Res. 414/2010 ANEEL). Discorre sobre os limites de responsabilidade da Concessionária, nos termos da citada Resolução e outros procedimentos administrativos atinentes, bem como sobre a presunção da legalidade de seus atos, para sustentar que a inversão do ônus da prova (arts. 6°, VIII do CDC e 373 do CPC) só se opera em casos de verossimilhança das alegações; que no caso dos autos (sub-rogação de direitos) não se aplica o CDC, almejando dessa maneira, a reforma da decisão.
+Recurso tempestivo (id. 76632496). Preparo aparentemente recolhido a menor do que o indicado na Instrução Normativa STJ/GP 1/2021 (id. 76649481) sendo ainda juntado comprovante em valor e código de barras diverso da Guia GRU apresentada nos autos. Intimado para sanar o equívoco, apesar da certidão de id. 78401495, não o fez a contento.
+É o relatório.
+Decido.
+Deserção
+Nos termos do art. 1.007, caput, e §§ 2o, 4° e 7o do CPC, a insuficiência do preparo; o não pagamento; o recolhimento parcial sem complementação ou ainda o equívoco no preenchimento da guia de custas não sanados após a intimação da parte para regularização, conduz à deserção do recurso, obstando, assim, o seu seguimento, senão vejamos:
+“Art. 1.007. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+(...)
+§ 2o. A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias.
+(...)
+§ 4o. O recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção.
+§ 5o. É vedada a complementação se houver insuficiência parcial do preparo, inclusive porte de remessa e de retorno, no recolhimento realizado na forma do § 4o.
+(...)
+§ 7o. O equívoco no preenchimento da guia de custas não implicará a aplicação da pena de deserção, cabendo ao relator, na hipótese de dúvida quanto ao recolhimento, intimar o recorrente para sanar o vício no prazo de 5 (cinco) dias.” (grifei)
+No id. 76950458 foi determinada a intimação da recorrente para sanar o vício identificado nos autos, no seguinte sentido:
+“Antes de prosseguir com o exame de admissibilidade, registre-se que a partir de 01/02/2021 passou a vigorar a Instrução Normativa STJ/GP 1/2021, que estabelece os novos valores das custas judiciais nos processos de competência do Superior Tribunal de Justiça.
+Não obstante a certidão de id. 76649481 tenha mencionado que “não foi efetuado o pagamento integral das custas judiciais, pois o valor pago na Guia de Recolhimento da União-GRU é menor que o devido na Instrução Normativa STJ/GP No 1 de 26/01/2021”, observo que a guia fora emitida em 27/01/2021 (R$194,12), entretanto, o comprovante registra um valor de R$ 1.075,32 e indica código de barras diverso daquela Guia.
+De qualquer forma, o recurso foi interposto neste Sodalício em 12/02/2021, portanto, quando já em vigor os novos valores para o preparo recursal.
+Ante o exposto, intime-se a recorrente para, no prazo de 05 (cinco) dias, sanar o equívoco apontado (juntado o comprovante de pagamento daquela guia emitida nos autos), nos termos do art. 1.007, § 7o do CPC e, desde já, no mesmo prazo, efetuar o recolhimento, de forma a complementa-lo, em razão do novo valor, sob pena de deserção; bem como para que, caso não tenha sido efetivado o pagamento até a data da interposição, faça o recolhimento em dobro”.
+O despacho transcrito acima foi claro ao assinalar as providências a serem observadas e sanadas pela recorrente, sendo a primeira delas alusiva a juntada de comprovante de pagamento diverso, quando da interposição do recurso especial.
+Afere-se que no id. 75838951 a recorrente emitiu a Guia GRU no valor de R$194,12 (valor menor do que a Instrução Normativa STJ/GP 1/2021, levando em conta que a interposição só foi efetiva quando já em vigor os novos valores); entretanto, o comprovante de pagamento (id. 75838952) não se refere à aludida Guia (tanto o valor como o código de barras são diversos).
+Assim, primeiramente, seria imprescindível que a recorrente diligenciasse a juntada do respectivo comprovante da Guia GRU encartada no id. 75838951 e, se assim o fizesse, bastaria apenas o complemento do seu valor para atender a Instrução Normativa STJ/GP 1/2021.
+Como não houve comprovação/demonstração daquele primeiro recolhimento, a recorrente deveria, então, ter atendido a determinação para providenciar o recolhimento em dobro; o que também não o fez.
+No seu entender, a recorrente apenas colacionou no id. 78343491 uma guia GRU e seu respectivo comprovante de pagamento, para complementar o valor R$ 8,77 (oito reais e setenta e sete centavos). Entretanto, só há falar-se em complementação, caso houvesse comprovação do pagamento da guia GRU anteriormente emitida ao tempo da interposição do recurso especial (id. 75838951), o que não restou demonstrado nos autos.
+Portanto, não houve atendimento à determinação desta Vice-Presidência, conforme a exegese do art. 1.007, § 7o do CPC.
+Nesse contexto, desatendida a determinação, tendo em vista a ausência de comprovação do pagamento do preparo recursal na forma devida, o recurso deve ser declarado deserto.
+Além da previsão contida no CPC, há súmula impeditiva de seguimento para casos tais, a saber, a Súmula 187 do STJ, que assim dispõe:
+“Súmula 187/STJ. É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos”.
+A propósito, nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIOS DA JUSTIÇA GRATUITA. INDEFERIMENTO NA ORIGEM. OPORTUNIDADE PARA COMPLEMENTAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ. (...) 3. Não merece reparos a decisão prolatada pela Corte estadual, uma vez que, de acordo com o art. 1.007, § 7o, do CPC/2015, ‘No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção’. 4. In casu, a parte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial. 5. Conforme entendimento do STJ, ‘Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4o, do NCPC e da já citada Súmula no 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018). 6. Agravo Interno não provido.” (AgInt no AREsp 1390111/RS, Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 08/04/2019). (grifei).
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. PREPARO. INSUFICIÊNCIA DO VALOR. NÃO RECOLHIMENTO NO PRAZO DE 5 (CINCO) DIAS APÓS INTIMAÇÃO. DESERÇÃO. APLICAÇÃO DO CPC/2015. 1. Ação de reparação por danos materiais e morais. 2. Instada a recorrente a complementar o preparo no prazo de 5 (cinco) dias em razão do recolhimento insuficiente e permanecendo a aparte inerte, aplicável se torna a pena de deserção nos termos do art. 1007, §2o, do CPC e da Súmula 187/STJ. 3. Agravo interno no agravo em recurso especial não provido (AgInt nos EDcl no AREsp 1314799/PR, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, j. em 27/05/2019, DJe 29/05/2019)” (grifei)
+Ante o exposto, com estas considerações, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
