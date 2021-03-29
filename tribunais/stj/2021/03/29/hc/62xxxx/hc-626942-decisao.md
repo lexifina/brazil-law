@@ -1,0 +1,32 @@
+DECISÃO
+MAICON DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0009630-94.2020.8.26.0482, em que foi mantido o indeferimento do benefício do livramento condicional.
+Consoante assere a defesa, " c onsta no boletim informativo mau comportamento carcerário, porém, devemos considerar como BOM comportamento carcerário, tendo em vista que a última falta disciplinar foi no dia 02/11/2018, ou seja, há mais de 02 (dois) anos, assim, o mesmo possui também o requisito subjetivo" (fl. 5, grifei).
+Ao indeferir o benefício, o Juízo singular destacou que " o  sentenciado não preenche o requisito subjetivo para alcançar os benefícios pleiteados, sobretudo considerando que praticou faltas disciplinares de natureza grave em 03/01/2017, 13/07/2017, 22/11/2017 e 02/11/2018 (fls. 08), sendo a última cometida durante o período de reabilitação das anteriores, encontrando-se ainda em fase de reabilitação de conduta, nos termos do que dispõe o artigo 85, artigo 89 e artigo 90 e seu parágrafo do Regimento Interno Padrão da Secretaria de Administração Penitenciária (Resolução nª 144/2010), ostentando "mau comportamento carcerário" (fls. 04), devendo permanecer - por ora - no regime em que se encontra" (fls. 26-27, grifei).
+Com efeito, apesar da orientação consolidada pela Súmula n. 441 do STJ, de que "a falta grave não interrompe o prazo para obtenção do livramento condicional", verifico que o benefício foi indeferido ante o não preenchimento do requisito subjetivo pelo paciente.
+No tocante aos requisitos necessários para o deferimento do livramento condicional, o Código Penal preceitua que:
+Requisitos do livramento condicional
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir (Destaquei).
+O benefício do livramento condicional traduz-se como uma conjuntura na qual é concedida ao condenado a possibilidade de gozar da liberdade mediante o cumprimento de certos requisitos legais.
+Para tanto, não basta o implemento do requisito temporal. Faz-se necessário, ainda, o cumprimento do requisito subjetivo, o qual é alcançado por meio da comprovação de comportamento satisfatório durante a execução da pena, do bom desempenho no trabalho que lhe foi atribuído e da aptidão para prover a própria subsistência mediante trabalho honesto, como indicado no dispositivo legal acima transcrito. Portanto, depreende-se, da leitura do texto legal, que a avaliação do comportamento do apenado se dá em face de todo o período de cumprimento da reprimenda imposta.
+Em relação ao pressuposto subjetivo, vale trazer a lição de Renato Marcão:
+No plano do ideal, a satisfação de tais requisitos constitui indicativo mais ou menos seguro de que o condenado não voltará a delinquir.
+Ajustando-se ao ambiente carcerário, sabidamente de difícil convivência, de maneira a apresentar comportamento ao menos satisfatório, já que sob tais condições não se pode exigir mais do que isso, é possível presumir que sua convivência em sociedade não será impossível, dentro dos padrões da vida ordeira. É claro, entretanto, que o simples fato de o condenado ajustar-se ao meio carcerário não pode acarretar a ilusão de sua recuperação, até porque no mais das vezes estará apenas submetido aos efeitos da "prisionização" a que se referia Manoel Pedro Pimentel com o costumeiro acerto. Um homem excelente e ajustado a determinado núcleo social pode não se ajustar a outro, e isso mesmo sem pensarmos no ambiente carcerário.
+Apresentando-se, entretanto, de forma satisfatória em seu comportamento e mostrando-se dedicado na execução dos trabalhos que lhe forem atribuídos, o condenado estará revelando grau maior de recuperação e aptidão ao retorno à vida social. (Curso de Execução Penal. 9. ed. rev., ampl. e atual. São Paulo: Saraiva, 2011, p. 243).
+É imperioso destacar que, embora a falta grave não seja considerada como marco interruptivo para o deferimento do benefício, o agravante possui histórico de mau comportamento durante o cumprimento da pena, incluindo o cometimento de várias infrações disciplinares graves. Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Por essas razões, não constato nenhuma ilegalidade no acórdão vergastado, uma vez que o livramento condicional foi indeferido com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Trago à baila o seguinte julgado:
+ ..
+1. O atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena  ..  (AgRg no HC n. 572.409/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 10/6/2020, grifei).
+Ademais, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão em questão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, nos termos do art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
