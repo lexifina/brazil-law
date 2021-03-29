@@ -1,0 +1,24 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Superior Tribunal de Justiça, assim ementado (fl. 29, Vol. 13):
+    “PROCESSUAL CIVIL. INSTITUIÇÃO DE ENSINO SUPERIOR. CANCELAMENTO DE DIPLOMA. INTERESSE DA UNIÃO. AUSÊNCIA. COMPETÊNCIA. JUÍZO ESTADUAL.
+    1. Nos termos da jurisprudência do STJ, nas causas que envolvam instituições de ensino superior, a União possui interesse quando tratar de: (I) expedição e registro de diploma no órgão público competente (inclusive credenciamento junto ao MEC) ou (II) mandado de segurança.
+    2. Não há falar em interesse da União nas lides (salvo mandados de segurança) que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos, de modo a evidenciar a competência da Justiça Estadual.
+    3. In casu, verifica-se que o cancelamento do registro do diploma da promovente, em princípio, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, mas de ato unilateral da ora agravante, conforme informação disposta da peça vestibular, sendo certo, ademais, que inexiste pedido dirigido à União, não justificando a competência da Justiça Federal. Precedentes.
+    4. Agravo interno desprovido.”
+    Opostos Embargos de Declaração, foram rejeitados (fl. 39, Vol. 14).
+    No apelo extremo (fl. 49, Vol. 14), interposto com amparo no art. 102, III, “a”, a parte recorrente sustenta violação ao art. 109, I, da Constituição, defendendo, em suma, a competência da Justiça Federal, haja vista o interesse da União nas causas envolvendo o registro de diploma expedido por instituição de ensino superior.
+    É o relatório. Decido.
+    Assiste razão à recorrente.
+    A jurisprudência desta CORTE é firme no sentido de que compete à Justiça Federal o julgamento de questão envolvendo instituição de ensino superior privada, haja vista integrar o Sistema Federal de ensino, conforme a Lei de Diretrizes e Bases da Educação.
+    Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO – SISTEMA FEDERAL DE EDUCAÇÃO – INSTITUIÇÃO PRIVADA DE ENSINO SUPERIOR – CONTROVÉRSIA RELATIVA À INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – INTERESSE DA UNIÃO – COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.” (RE 1150568-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 24/6/2019)
+    AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. COMPETÊNCIA. DEMORA NA EXPEDIÇÃO DO DIPLOMA DE CURSO SUPERIOR. DEMANDA EXCLUSIVAMENTE INDENIZATÓRIA. INSTITUIÇÃO PRIVADA DE ENSINO. SISTEMA FEDERAL DE ENSINO. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (RE 1.016.533-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 7/2/2018)
+    “Agravo regimental no recurso extraordinário com agravo. Constitucional. Instituição privada de ensino superior. Demora na expedição do diploma. Sistema Federal de Ensino. Interesse da União. Competência. Justiça Federal. Precedentes. 1. As instituições privadas de ensino integram o Sistema Federal de Ensino e subordinam-se à supervisão pedagógica do Ministério da Educação e da Cultura (MEC), a quem compete a autorização, o reconhecimento e o credenciamento dos cursos superiores por elas ministrados. 2. Haja vista o interesse da União, compete à Justiça Federal o conhecimento e o julgamento de ação proposta em razão da demora na expedição de diploma de conclusão de curso superior em instituição privada de ensino. 3. Agravo regimental não provido.” (ARE 754.849-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 27/5/2015)
+    No mesmo sentido, vejam-se as seguintes decisões monocráticas, em que a ora recorrente também figura como parte: ARE 1.269.286, Rel. Min. NUNES MARQUES, DJe de 19/3/2021; RE 1265917, Rel. Min. MARCO AURÉLIO, DJe de 29/5/2020; ARE 1269286, Rel. Min. CELSO DE MELLO, DJe de 29/9/2020.
+    O acórdão divergiu desse entendimento, devendo, portanto, ser reformado.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para reconhecer a competência da Justiça Federal.
+    Publique-se.
+    Brasília, 29 de março de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
