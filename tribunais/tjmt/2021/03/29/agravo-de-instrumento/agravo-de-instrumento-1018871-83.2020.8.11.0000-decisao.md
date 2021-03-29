@@ -1,0 +1,47 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo Instrumento n. 018871-83.2020.8.11.0000
+RECORRENTE: ROGÉRIO SANDRI
+RECORRIDO: STA CASA DE MISERICORDIA E MATERNIDADE DE RONDONOPOLIS
+Vistos.
+Trata-se de Recurso Especial (id 76895457) interposto por ROGÉRIO SANDRI com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado assim ementado (id 66041494):
+“AGRAVO DE INSTRUMENTO – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM DECORRÊNCIA DE ERRO DE DIAGNÓSTICO MÉDICO – DECISÃO QUE ACOLHE PRELIMINAR DE ILEGITIMIDADE PASSIVA DE SANTA CASA DE MISERICÓRDIA QUE ALUGA PARTE DE SEU PRÉDIO PARA INSTALAÇÃO DE PRONTO ATENDIMENTO DE REDE PARTICULAR DE SAÚDE – CONTRATO DE LOCAÇÃO QUE AFASTA A RESPONSABILIDADE DA LOCADORA PELO GERENCIAMENTO DAS ATIVIDADES A SEREM EXPLORADAS NO IMÓVEL OBJETO DA LOCAÇÃO – ILEGITIMIDADE AD CAUSAM – CONFIGURADA – DECISÃO MANTIDA – RECURSO DESPROVIDO. Não demonstrado que o Pronto-Atendimento da rede particular de saúde estava sob a direção e/ou administração do Hospital Santa Casa de Misericórdia de Rondonópolis, não há falar em aplicabilidade da teoria da aparência, para o fim de afastar a previsão da cláusula do contrato que exclui a responsabilidade da locadora pelo gerenciamento das atividades a serem exploradas no imóvel objeto da locação. (TJMT – Quarta Câmara de Direito Privado – RAI n. 1018871-83.2020.8.11.0000, Relator(a): GUIOMAR TEODORO BORGES, j. em 11/11/2020)”.
+Opostos Embargos de Declaração, decidiu-se, in verbis (id 73740968):
+“EMBARGOS DE DECLARAÇÃO – AGRAVO DE INSTRUMENTO – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM DECORRÊNCIA DE ERRO DE DIAGNÓSTICO MÉDICO – ILEGITIMIDADE AD CAUSAM – CONFIGURADA – NÃO APLICAÇÃO DA TEORIA DA APARÊNCIA – ÔNUS DE SUCUMBÊNCIA – PRINCIPIO DA CAUSALIDADE – NÃO APLICABILIDADE – EMBARGOS DE DECLARAÇÃO DO AGRAVANTE DESPROVIDO – EMBARGOS DE DECLARAÇÃO DA AGRAVADA PROVIDO PARA SANAR A OMISSÃO E MAJORAR OS HONORÁRIOS RECURSAIS (ART. 85, §11, NCPC). Na espécie não configurada omissão no acórdão quanto a não aplicação do princípio da causalidade, pois a corré, excluída da lide por ilegitimidade passiva, não deu causa ao ajuizamento da ação, portanto não lhe cabe imputar os ônus da sucumbência. Demonstrado que o acórdão recorrido não aplicou o disposto no parágrafo 11 do art. 85 do CPC, é de serem providos os aclaratórios para majorar os honorários advocatícios em sede de recurso. O Superior Tribunal de Justiça possui o posicionamento no sentido de que: “ É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.” (AgInt nos EREsp 1539725/DF).(RED 018871-83.2020.8.11.0000 Relator: GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, jul. 27/01/20021).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, interposto por ROGERIO SANDRI que manteve a decisão que nos autos da Ação de Indenização por Materiais e Morais, acolheu a preliminar de ilegitimidade passiva da Santa Casa de Misericórdia e Maternidade de Rondonópolis, para o fim de excluir da lide a corré, bem assim condenou o autor, aqui Recorrente ao pagamento das custas e despesas processuais e dos honorários advocatícios arbitrados em 10% sobre o valor da causa.
+O Recorrente alega violação ao artigo 85, § 10, do Código Processo Civil; artigo 14 do Código de Defesa do Consumidor, além de divergência jurisprudencial, ao argumento de que deve ser afastada a ilegitimidade passiva da Recorrida, com base na teoria da aparência e que no presente caso deve ser aplicado o princípio da causalidade, em relação aos honorários advocatícios a fim de reverter a sucumbência aplicada.
+Recurso tempestivo (id 60820985).
+Contrarrazões no id 80625980.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 14 do CDC, está amparada na assertiva de que a Recorrida é parte legitima para figurar no polo passivo da ação uma vez que quando o Recorrente se dirigiu ao pronto socorro para atendimento médico não tinha conhecimento da separação administrativa das Rés e nem do contrato de locação entabulado entre as partes, assim deve ser aplicado ao caso a teoria da aparência.
+O acórdão recorrido decidiu (id 66041494):
+“(...) Extrai-se, do conjunto fático-probatório, que o suposto erro de diagnóstico que causou danos ao autor, aqui Agravante, ocorreu no dia 26.01.2019, no Pronto-Atendimento da UNIMED, localizado no prédio da Santa Casa de Misericórdia de Rondonópolis, no atendimento realizado pela corré a médica Janete Juliana Moreira Nogueira.
+(...). Da mesma forma, não restou demonstrado que o Pronto-Atendimento da UNIMED estava sob a direção e/ou administração da Santa Casa de Misericórdia de Rondonópolis, porquanto não há falar em aplicabilidade da teoria da aparência, para o fim de afastar a previsão da cláusula 19 e seus itens do contrato de locação, a saber:
+(...) Cumpre registrar que no caso em questão não restou demonstrada a existência de parceria entre a operadora de planos de saúde e a entidade hospitalar Santa Casa a configurar a sua legitimidade para figurar no polo passivo da demanda como busca o Agravante.
+Com efeito, não demonstrado que o Pronto-Atendimento da UNIMED estava sob a direção e/ou administração do Hospital Santa Casa de Misericórdia de Rondonópolis, não há falar em aplicabilidade da teoria da aparência, para o fim de afastar a previsão da cláusula do contrato que exclui a responsabilidade da locadora pelo gerenciamento das atividades a serem exploradas no imóvel objeto da locação”. (g.n)
+No entanto, para rever o entendimento firmado no aresto recorrido demanda o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, incidindo o óbice sumular acima, o que obsta a admissão recursal.
+Confira-se:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS PATRIMONIAIS E MORAIS. ERRO MÉDICO.LEGITIMIDADE PASSIVA DO HOSPITAL. RESPONSABILIDADE OBJETIVA DO NOSOCÔMIO. NEXO DE CAUSALIDADE NÃO DEMONSTRADO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.(AgInt no AREsp 1030994/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018)” (g.n.)
+Igual entendimento recai em relação a ofensa ao artigo 85, § 10 do CPC, cuja controvérsia se refere aplicação do princípio da causalidade no presente caso e por consequência o reconhecimento da responsabilidade da Recorrida pela sucumbência da ação, pois também é imprescindível o reexame das provas produzidas nos autos.
+A propósito:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ANÁLISE DA CAUSALIDADE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ROGANDO VÊNIA AO RELATOR MINISTRO NAPOLEÃO NUNES MAIA FILHO, DOU PROVIMENTO AO AGRAVO INTERNO PARA, CONHECENDO DO AGRAVO EM RECURSO ESPECIAL, NÃO CONHECER DO RECURSO ESPECIAL.(AgInt nos EDcl no AREsp 1111580/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/11/2020, DJe 30/11/2020)” (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“TRIBUTÁRIO. PROCESSUAL CIVIL. PESSOA JURÍDICA. AUTOMÓVEL.PENHORABILIDADE DE BEM DECLARADA PELO TRIBUNAL DE ORIGEM. ATIVIDADE PROFISSIONAL. UTILIDADE OU NECESSIDADE. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. (...).
+2. O mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional - incidência das Súmulas 7/STJ e 282/STF - obsta a análise recursal pela alínea c, restando o dissídio jurisprudencial prejudicado.
+3. Agravo interno não provido. (AgInt no AgInt no AREsp 1447335/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)”. (g.n.)
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
