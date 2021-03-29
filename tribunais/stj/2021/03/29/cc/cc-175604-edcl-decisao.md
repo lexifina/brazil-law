@@ -1,0 +1,22 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração (e-STJ, fls. 120/125) opostos por LUIZ FELIPE DAVI DE LEMOS em face de decisão (e-STJ, fls. 109/115) que, conhecendo do conflito, declarou a competência do JUÍZO DE DIREITO DA VARA DE FALÊNCIAS RECUPERAÇÕES JUDICIAIS INSOLVÊNCIA CIVIL E LITÍGIOS EMPRESARIAIS DO DISTRITO FEDERAL - DFpara quaisquer exames relativos a pagamento de débito exclusivamente da suscitante VIA EMPREEDIMENTOS IMOBILIÁRIOS S. A. e constrição do seu patrimônio, relativos ao cumprimento de sentença nº 0058822-13.2019.8.19.0001.
+Em suas razões, oembargantealega, em síntese,que a decisão é omissa i) no tocante à apreciação do seguro garantia, autorizador do prosseguimento do cumprimento de sentença; ii)que a empresa não poderia suscitar o presente incidente em virtude do princípio da unirrecorribilidade, já que interpôs recurso perante o Tribunal local discutindo o mesmo tema; eiii)que a incidência de multa e honorários previstos no art. 523, § 1º, do CPC, se deram após a recuperação judicial e, portanto, são extraconcursais e não se submetem ao plano de recuperação judicial.
+Impugnação às fls. 130/135 (e-STJ).
+É o relatório.
+Decido.
+Os embargos declaratórios não merecem acolhida.
+Nos limites estabelecidos pelo art. 1022, do CPC, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, odecisumembargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no incidente, ao concluir pelo reconhecimento da competência do Juízo de Direito da Vara de Falências, Recuperações Judiciais, Insolvência Civil e Litígios Empresariais do Distrito Federal - DF.
+Desse modo, ficou expressamente referido na decisão ora embargada que a competência para o pagamento dos débitos de sociedade empresária no transcurso de processo de recuperação é do juízo em que se processa tal pedido e que as normas a disciplinarem a atratividade exercida pelo juízo concursal deverão ser sistemática e teleologicamente interpretadas, evitando-se um esvaziamento dos propósitos do instituto e sobrelevando-se os princípios informadores da recuperação, bem explicitados no art. 47 da Lei 11.101/05 (v.g.: CC 123.197/SP, 2ª S., Min. Paulo de Tarso Sanseverino, DJe01/08/2012; AgRg no CC 110.287/SP, 2ª S., Min. João Otávio de Noronha, DJe 29/03/2010), cabendo ao Juízo da execução individual, apenas, a realização dos atos até a apuração do montante a ser pago.
+Nesse contexto, apenas se reconheceu, consoante orientação jurisprudencial sedimentada no STJ, a competência do Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central Cível de São Paulo/SPpara o controle dos atos constritivos e o pagamento dos débitos da suscitante especificamente relacionados ao cumprimento de sentença nº 0058822-13.2019.8.19.0001.
+Ou seja, o conflito de competência não é via adequada para se discutir questões acerca do pagamento do seguro garantia, cuja atribuiçãocompete ao juízo da recuperação(CC 176.505/RS, Rel. Ministro Antonio Carlos Ferreira, DJe de 24/02/2021). Do mesmo modo, ressalto que em sede deconflito não é apreciada anatureza do crédito, se concursal ou extraconcursal(v.g.: CC 153.473/PR, Min. MariaIsabelGallotti,Rel. p/ Acórdão Min. Luis FelipeSalomão,2ª S., DJe 26/06/18).
+Por fim, em relação à alegação da embargante acerca da impossibilidade de suscitar o conflito com base no princípio da unirrecorribilidade, destaco que a matéria relativa à competência absoluta pode ser alegada em qualquer tempo e grau de jurisdição.
+Observe-se, portanto, que todos osaspectos levantados estão inseridos na fundamentação da decisão embargada, que declarou o juízo da recuperação judicial como competente para decidir sobre quaisquer exames relativos a pagamento de débitoda recuperanda.
+Na realidade, as alegações trazidas pela parte embargante refletem mero inconformismo com o teor da decisão, pretendendo rediscutir o que já foi decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto que a oposição de incidentes processuais infundados poderá dar ensejo à aplicação de multa por conduta processual indevida.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA.PROCESSUAL CIVIL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022/CPC.REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INVIABILIDADE.
+EMBARGOS DECLARATÓRIOS REJEITADOS.
