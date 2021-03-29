@@ -1,0 +1,7 @@
+DECISÃO
+RODOLFO MOLLA NETO alega ser vítima de constrangimento ilegal em decorrência de ato do Governador do Estado de São Paulo, que decretou o fechamento do comércio.
+Neste writ, afirma que a pandemia do coronavírus é "a maior fraude mundial da saúde pública contra a humanidade" (fl. 14), sendo desnecessário que comerciantes, comerciários e diversos trabalhadores seja impedidos de ir aos comércios e abri-los.
+Requer, portanto, "a emissão de ordem ao impetrado e aos prefeitos de nosso Estado para que se abstenha de quaisquer tentativas de determinar novo lockdown" e a "expedição de salvo conduto com status de imunidade ad referendum ao Tribunal Penal Internacional, para que o impetrante possa ir, vir, estar em qualquer parte do território nacional e dirigir-se ao seu estabelecimento comercial, mantê-lo aberto, pois, é imprescindível para sustentar a família dele, bem como para pagar despesas e os impostos devidos"(ambos à fl. 17).
+Em que pesem os argumentos externados pelo impetrante, constato que o habeas corpus é manifestamente incabível. Não bastasse a inexistência de ameaça concreta à liberdade de locomoção - o pedido se baseia apenas na edição de ato normativo abstrato -, observo que o writ, deficientemente instruído, não indica ato da autoridade apontada como coatora que seja individualizável e que possa subsidiar a utilização do habeas corpus.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
