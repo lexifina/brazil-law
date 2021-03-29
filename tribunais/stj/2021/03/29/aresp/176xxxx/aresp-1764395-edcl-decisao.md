@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fundação CORSAN dos Funcionários da Companhia Riograndense de Saneamento - CORSAN em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 127):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATOS DE MÚTUO FIRMADOS COM ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, sustenta a embargante que a decisão embargada incorreu em omissão, uma vez que a alegação de prescrição se refere ao termo inicial para o ajuizamento ação revisional.
+Ressalta, ainda, que os precedentes não se referem ao pleito revisional.
+Destaca que "o termo inicial à contagem do prazo prescricional é a data da assinatura do contrato e não a data do vencimento ordinário do contrato ou do último pagamento realizado, aplicável quando da hipótese de execução de contrato ante o inadimplemento" (e-STJ, fl. 133).
+Busca, assim, que seja sanada a omissão apontada.
+Foi apresentada impugnação (e-STJ, fls. 142-147), com pedido de aplicação de multa.
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERROMATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART.1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecemacolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou àrediscussão do julgado que não conheceu dos primeiros embargos dedeclaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituirprática processual abusiva e protelatória, por ausência dos víciosprevistos no art. 1.022 do NCPC e pela ausência de recolhimento prévio damulta aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicadaa multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre ovalor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nosEDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRATURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERROMATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existênciade obscuridade, contradição, omissão ou erro material (CPC/2015, art.1.022). É inadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível aapreciação de matéria constitucional na via eleita, sob pena de usurpaçãoda competência do eg. Supremo Tribunal Federal, nos termos do que dispõe oart. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe04/05/2020).
+Com efeito, na hipótese dos autos, assiste razão à parte embargante, tendo em vista que, segundo o entendimento jurisprudencial firmado por esta Corte, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMOA QUO. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+2. Agravo interno a que se nega provimento.(AgInt no AREsp 1.444.255/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/4/2020, DJe 4/5/2020)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CÉDULAS DE CRÉDITO RURAL. PRESCRIÇÃO. AÇÃO PESSOAL.VINTENÁRIA SOB A ÉGIDE DO CC/16. DECENAL A PARTIR DO INÍCIO DA VIGÊNCIA DO CC/02. TERMO INICIAL. DATA EM QUE O CONTRATO FOI FIRMADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contratos de cédula de crédito rural, ajuizada em 11.03.2008, da qual foi extraído o presente recurso especial, concluso ao Gabinete em 05.09.2012.
+2. Determinar o termo inicial do prazo prescricional da ação revisional de cláusulas de cédula de crédito rural.
+3. As ações revisionais de contrato bancário são fundadas em direito pessoal, motivo pelo qual o prazo prescricional, sob a égide do Código Civil de 1.916 era vintenário, e passou a ser decenal, a partir do Código Civil de 2.002.
+4. A pretensão se refere às cláusulas contratuais, que podem ser discutidas desde a assinatura do contrato, motivo pelo qual o termo inicial do prazo prescricional é a data em que o contrato foi firmado.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Negado provimento ao recurso especial. (REsp 1.326.445/PR, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/2/2014, DJe 17/2/2014)
+Sobre o tema, o Tribunal de origem consignou o seguinte (e-STJ, fls. 36-37):
+Primeiramente, importa destacar que os instrumentos contratuais acostados pelo agravante na petição inicial (arquivo denominado CONTRA7 no Evento nº 01 do processo originário) demonstram que, de fato, os contratos pactuados entre as partes tratam-se de renegociações. A título de exemplo, cito os dois primeiros contratos entabulados entre os litigantes. Em dezembro de 2004, as partes acordaram contrato de empréstimo, que seria quitado pelo autor/agravante em 10 parcelas, sendo finalizado em setembro do ano subsequente. No entanto, já em agosto de 2005, o agravante contraiu novo empréstimo, no qual o saldo do anterior foi incorporado. E, da mesma forma, os demais empréstimos foram contratados, com o valor do saldo a ser pago maior que a quantia creditada ao autor (mesmo acrescida dos encargos). Ou seja, não há como analisar a relação contratual separadamente, uma vez que se trata de constantes renegociações, ainda que tal situação não esteja expressa nos contratos entabulados entre os litigantes.
+Dessa forma, entendo que assiste razão ao agravante, pois, em se tratando de novação, o termo inicial da prescrição decenal é computado a partir do vencimento do último contrato firmado, nos termos da jurisprudência consolidada desta Corte:
+Conforme se verifica, o Colegiado local julgou em desconformidade com o entendimento desta Corte.
+Desse modo, o acórdão recorrido merece reforma, para que seja afastada a prescrição decenal, sendo necessário, todavia,o retornodos autos à origem para verificação dos marcos delimitadores da prescrição, ante a impossibilidade de reexame de fatos e provas no âmbito dorecurso especial.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, a fim de determinar o retorno dos autos à origem, para que, à luz do entendimento jurisprudencial do STJ, o Tribunal aquoexamine a ocorrência da prescrição.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.OMISSÃO. OCORRÊNCIA. AFRONTA AO ART. 1.022 DO CPC/2015. PRESCRIÇÃO. DECENAL. TERMO INICIAL. DATA EM QUE O CONTRATO FOI FIRMADO. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
