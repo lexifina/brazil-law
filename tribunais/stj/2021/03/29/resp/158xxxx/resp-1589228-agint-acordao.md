@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA NO ROSTO DOS AUTOS. LIBERAÇÃO DOS VALORES BLOQUEADOS. EXAME.COMPETÊNCIA DO JUÍZO A QUEM DIRECIONADO O PEDIDO DE CONSTRIÇÃO.PRECEDENTES.
+1. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que cabe ao juízo que recebeu o mandado de penhora no rosto dos autos decidir sobre a viabilidade da constrição a ser procedida no processo de sua jurisdição, uma vez que cada um dos juízos envolvidos possui competência para processar e julgar a execução que tramita sob sua jurisdição. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo internointerposto contra decisãoassim ementada (fl. 515):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PENHORA NO ROSTO DOS AUTOS. LIBERAÇÃO DOS VALORES BLOQUEADOS. EXAME.COMPETÊNCIA DO JUÍZO A QUEM DIRECIONADO O PEDIDO DE CONSTRIÇÃO. PRECEDENTE. RECURSO ESPECIAL PROVIDO.
+A agravante alega que "a análise da penhora e qualidade do bem a ser penhorado em sede de execução fiscal é da competência exclusiva do juízo da execução fiscal, conforme exposto no art. 5º e 10º da lei 6830/80" (fl. 523).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA NO ROSTO DOS AUTOS. LIBERAÇÃO DOS VALORES BLOQUEADOS. EXAME.COMPETÊNCIA DO JUÍZO A QUEM DIRECIONADO O PEDIDO DE CONSTRIÇÃO.PRECEDENTES.
+1. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que cabe ao juízo que recebeu o mandado de penhora no rosto dos autos decidir sobre a viabilidade da constrição a ser procedida no processo de sua jurisdição, uma vez que cada um dos juízos envolvidos possui competência para processar e julgar a execução que tramita sob sua jurisdição. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Opresente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Como salientado, na hipótese vertente,o Juízo da Vara Federal de Bagé/RS determinou a penhora no rosto dos autos em processo tramitante na 5ª Vara Federal de Porto Alegre/RS e, procedido o bloqueio, insurgiu-se o ora recorrente contra tal medida.
+Apreciando a controvérsia, o Tribunal de origem negou provimento ao agravo de instrumento manejado pela parte ora recorrente, sob o fundamento de que a alegação de impenhorabilidade deverá ser efetuada perante o Juízo que determinou a penhora, pois "se os valores são ou não passíveis de penhora no rosto dos autos, é questão que foge ao juízo da causa resolver. É matéria que deve ser deduzida e resolvida no juízo onde tramita a execução proposta pela Fazenda Pública.É lá que se deve discutiros efeitos da penhora e a possibilidade de constrição judicial sobre os valores discutidos neste processo" (fl. 399).
+Ao que se vê, o entendimento esposado pela Corte a quoapresenta-se desalinhadoà jurisprudência firmada nesta Corte Superior no sentido de que cabe "ao juízo que recebeu o mandado de penhora no rosto dos autos decidir sobre a viabilidade da constrição a ser procedida no processo de sua jurisdição", uma vez que "cada um dos juízos envolvidos possui competência para processar e julgar a execução que tramita sob sua jurisdição" (REsp 1.197.314/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2010). Em igual sentido: CC 37.952/SP, Rel. Ministra Denise Arruda, Primeira Seção, DJ 9/5/2005.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. ORDEM DE INDISPONIBILIDADE EMANADA DE AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA.IMPENHORABILIDADE DE CRÉDITOS TRABALHISTAS. AUSÊNCIA DOS PRESSUPOSTOS PARA CARACTERIZAÇÃO DO CONFLITO - NÃO CONHECIMENTO.
+I - A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que a penhora no rosto dos autos, situação análoga à dos presentes autos, não é apta a motivar conflito de competência, tendo em vista que cada um dos juízos é competente para processar e julgar a execução que tramita sob sua jurisdição. Precedentes: AgRg no CC 115.211/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 11/04/2012, DJe 18/04/2012; AgRg no CC 79323/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 28/03/2007, DJ 09/04/2007, p. 222; CC 37952/SP, Rel. Ministra Denise Arruda, Primeira Seção, julgado em 13/04/2005, DJ 09/05/2005, p. 287.
+II - Cada um dos juízos é competente para disciplinar os atos que são praticados nos processos sob sua jurisdição.
+III - Conflito de competência não conhecido.(CC 167.917/RS, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 15/5/2020)
+CONFLITO POSITIVO DE COMPETÊNCIA - DÉBITOS DE COOPERATIVA EM REGIME DE LIQUIDAÇÃO - EXECUÇÃO TRABALHISTA E EXECUÇÃO FISCAL - PENHORA NO ROSTO DOS AUTOS - AUSÊNCIA DE NUMERÁRIO EXCEDENTE - CORRETO INDEFERIMENTO DA CONSTRIÇÃO JUDICIAL - AUSÊNCIA DOS PRESSUPOSTOS PARA CARACTERIZAÇÃO DO CONFLITO - NÃO-CONHECIMENTO.
+1. Nos termos do art. 115 do Código de Processo Civil, para a existência de conflito é necessário que dois ou mais juízes se declarem competentes ou incompetentes para o julgamento do mesmo processo.
+2. Conflito suscitado por juízo trabalhista em face do juízo da execução fiscal, em razão desse último ter indeferido penhora no rosto dos autos em decorrência da falta de numerário excedente em favor do devedor.
+3. A mera declaração feita pelo juízo suscitado sobre a impossibilidade de realização da pretendida penhora no rosto dos autos não é apta a ensejar o surgimento do conflito de competência, pois cada um dos juízos envolvidos é competente para processar e julgar a execução que tramita sob sua jurisdição.
+4. No caso dos autos, em que já houve o praceamento e a arrematação do bem penhorado na execução fiscal, restando apenas pendentes de pagamento algumas parcelas assumidas pelo arrematante, em valores suficientes tão-somente para o pagamento do crédito executado pelo INSS, não há irregularidade na decisão do juízo suscitado ao não acolher a pretendida penhora no rosto dos autos, em virtude da falta de montante residual em favor da cooperativa devedora.
+5. Ademais, segundo a jurisprudência desta Corte Superior, no caso de concurso de credores em processo de liquidação judicial de cooperativa, os créditos trabalhistas estão sujeitos à habilitação perante o juízo universal. Por outro lado, a liquidação de cooperativa não suspende o processo de execução fiscal. Precedentes.
+6. É inviável o conhecimento do presente conflito, pois não há como o juízo da execução trabalhista intervir em uma execução fiscal praticamente já finda, pretendendo a penhora no rosto dos autos em que não há numerário excedente. Registre-se que, no caso de comprovação da insolvência da cooperativa executada, não será o juízo trabalhista o competente para decidir sobre concurso de credores, mas sim o juízo universal da liquidação.
+7. Conflito de competência não conhecido.(CC 37.952/SP, Rel. Ministra Denise Arruda, Primeira Seção,DJ 9/5/2005, p. 287)
+Confiram-se, ainda, asseguintes decisõesmonocráticas: REsp 1.902.200/RS,Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1/12/2020;REsp 1.881.857/RS,Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 1/10/2020; e REsp 1.698.087/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/6/2020.
+No caso, de fato, é do Juízo da 5ª Vara Federal de Porto Alegre/RS, a quem direcionado o mandado de penhora no rosto dos autos (fl. 343), a competência para avaliar e decidir se é cabível ou não a constrição do crédito constituído perante sua jurisdição.
+Ante o exposto,nego provimento ao agravo interno.
+É como voto.
