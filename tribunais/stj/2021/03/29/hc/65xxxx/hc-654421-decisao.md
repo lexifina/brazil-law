@@ -1,0 +1,14 @@
+DECISÃO
+Neste writ, o advogado Bruno Barros Mendes impugna o acórdão do Tribunal de Justiça de São Paulo no AgRg no HC n.2002599-43.2021.8.26.0000/50000 e requer seja concedida a ordem em favor de Tiago Pedroso Ferreira para cassar a decisão que indeferiu o benefício dolivramento condicional, no processo de execução (PECn. 7016372-61.2014.8.26.0050).
+Argumenta o impetrante que não há nenhum elemento nos autos da execução do paciente que possa fundamentar suficientemente o indeferimento do livramento condicional. Alega que o paciente possui bom comportamento carcerário, sem qualquer mácula em seu histórico prisional demonstrando estar pronto à harmônica reintegração social(fl. 10).
+Sucede que a questão não foi analisada pelo Tribunal local, entre outros aspectos, porque o writ lá ajuizado estava mal instruído (fls. 38/41 e 56/59). É totalmente indevida a pretendida supressão de instância.
+Contudo, diante da inidônea motivação adotada pelo Juízo de Direito daUnidade Regional de Departamento Estadual de Execução Criminal - Deecrim 5ª RAJ, na comarca de Presidente Prudente/SP, para negar o benefício ao paciente (fl. 36), está evidente o constrangimento ilegal.
+Afinal, não é de hoje quea jurisprudência do Superior Tribunal de Justiça diz que não há obrigatoriedade de o sentenciado vivenciar primeiramente o regime intermediário para que obtenha o benefício do livramento condicional, em razão da inexistência de tal previsão no art. 83 doCódigo Penal.
+Por exemplo, estes precedentes: AgRg no HC n. 498.805/SP, da minha relatoria, SEXTA TURMA, julgado em 11/4/2019, DJe 29/4/2019;AgRg no HC n. 472.564/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/2/2019, DJe 8/3/2019;HC n. 465.559/SP, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/10/2018, DJe 7/11/2018;HC n. 296.206/SP, Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/10/2014, DJe 4/11/2014;HC n. 482.168/SP, Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/2/2019, DJe 19/2/2019;RHC n. 107.872/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/5/2019, DJe 20/5/2019; eHC n. 508.784/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/8/2019, DJe 22/8/2019.
+Assim, não conheço deste writ. De ofício,afastando a fundamentação adotada em 8/1/2021,expeço a ordem para determinar que oJuízo da execução analise, tão logo receba esta comunicação,os requisitos necessários para a concessão dolivramento condicional, de acordo com os pressupostos previstos no art. 83 do Código Penal.
+Intime-se o Ministério Público estadual.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL.FALTA DE MANIFESTAÇÃO DA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE.NECESSIDADE DE VIVENCIAR O REGIME INTERMEDIÁRIO. FUNDAMENTO INIDÔNEO PARA NEGAR O BENEFÍCIO. FIRME JURISPRUDÊNCIA DO STJ.MANIFESTA ILEGALIDADE.
+Writ não conhecido. Ordem expedida de ofício, nos termos do dispositivo.
