@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ELLISON PAULO DE OLIVEIRA CEZAR apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2002264-24.2021.8.26.0000).
+Depreende-se dos autos que o paciente foi preso em flagrante, pela suposta prática do crime tipificado no art. 121, § 2º, I e IV, c/c o art. 14, II, ambos do Código Penal (homicídio qualificado tentado).
+Os fatos foram assim narrados na peça acusatória (e-STJ fls. 40/42):
+De acordo com o que consta dos autos, no dia dos fatos, THIAGO, acompanhado por sua esposa e por outras pessoas, estavam em um estabelecimento comercial denominado "Bar do Andrade". Em um outro estabelecimento, localizado em frente ao "Bar do Andrade", estava o guarda municipal ELLISON PAULO DE OLIVEIRA CEZAR, acompanhado por JOSÉ WALDEILTON DA ROCHA.
+Em determinado momento, iniciou-se uma discussão entre as partes, onde JOSÉ WALDEILTON agrediu fisicamente THIAGO e sua esposa Tatiane, os quais passaram a ser ameaçados pelo guarda municipal oradenunciado, que, na sequência, proferiu a seguinte ameaça à THIAGO: "vou dar 20 (vinte) tiros na sua cara".
+Em decorrência dos fatos mencionados, a polícia militar foi acionada, dispersando os contendores.
+Logo após deixar o estabelecimento, THIAGO, acompanhado de sua esposa e de amigos, se deparou novamente com o denunciado, que o aguardava. ELLISON, então, passou a proferir novas ameaças, dizendo a Thiago: "daqui cinco minutos você vai estar morto".
+Em seguida, THIAGO, conduzindo o seu veículo, rumou-se para a residência de Vinícius e Ketilin da Silva Cruz (que o acompanhavam no bar), com objetivo de deixa lós em suas casas, momento em que passaram a perceber que estava sendo perseguidos por um veículo GM/Corsa, de cor preta, constatando que no banco dianteiro ao lado do passageiro estava o denunciado ELLISON e, conduzindo o veículo, estava BRUNO HENRIQUE MATEUS RAMOS, sendo que a referida perseguição perdurou por aproximadamente 10 (dez) minutos.
+ ..
+Enquanto estacionava na garagem de sua residência e permanecia na linha telefônica, a vítima foi surpreendida pela presença do veículo GM/Corsa preto, conduzido por BRUNO. Nesse momento, ELLISON saltou do veículo e, dirigindo-se à THIAGO, disse: "eu falei pra você que iria voltar..pilantra".
+ELLISON, então, com claro animus necandi sacou uma arma de fogo "cromada" e efetuou 4 (quatro) disparos em direção a THIAGO, o qual se abaixou no interior de seu veículo para que não fosse alvejado, atingindo os projéteis a parte frontal do automóvel.
+A prisão emflagrante foi convertidaem prisão preventiva(e-STJ fls. 33/34).
+Impetrado habeas corpus na origem, a ordem foi denegada nos termos da ementa de e-STJ fls. 25/31:
+HABEAS CORPUS - Homicídio qualificado tentado - Ausência de nulidade quanto à alegação de violação ao artigo 7º, XXI, da Lei 8.906/94 e violação da súmula vinculante n.º 11 do Supremo Tribunal Federal - Prisão preventiva Inteligência dos artigos 312 e 313 do Código de Processo Penal -Requisitos objetivos e subjetivos verificados -Decisão bem fundamentada, nos termos do artigo 315 do Código de Processo Penal -Gravidade concreta - Liberdade provisória incabível - Ordem DENEGADA.
+No presente writ, afirma a defesa que "a autoridade coatora decretou a prisão preventiva do Paciente ao arrepio da legislação adjetiva processual, ou seja, sem fundamentação idônea, bem como indeferiu o pleito de nulidade do Inquérito Policial, nos termos do artigo 7º, XXI da Lei 8.906/94" (e-STJ fl. 4).
+Sustenta que, "após o dia 17 de novembro de 2020, exceto o interrogatório do Paciente Elisson,  o advogado  não foi intimado para nenhum outro ato investigatório e probatório, como as declarações das testemunhas de fls. 73/74, fl. 75, fl. 76, fl. 77, fl. 80, fl. 81, bem como o reconhecimento fotográfico de fls. 78/79, o que acarreta, sem dúvida, NULIDADE ABSOLUTA do INQUÉRITO POLICIAL que, como sabemos, independe da demonstração de prejuízo, face a expressa previsão legal, decorrente das prerrogativas deste subscritor, como também do artigo 564, inciso IV do Código de Processo Penal" (e-STJ fls. 7/8).
+Alega que, "de outro lado, além da nulidade do inquérito policial, há nulidade da prisão, na medida que o Paciente, no seu interrogatório, estava algemado e, pelo que consta dos autos, não há nenhuma justificada e por escrito da necessidade da utilização das algemas" (e-STJ fl. 9).
+Acrescenta, por fim,que o decreto deprisão preventiva do paciente carece de fundamentação idônea, bem comoque se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer, desse modo (e-STJ fls. 23/24):
+a-) a concessão da medida liminar para que seja substituída a prisão preventiva do Paciente ELISSON PAULO DE OLIVEIRA CEZAR, pelas medidas cautelares dos incisos I, III e V do artigo 319 do CPP, com determinação de expedição de ALVARÁ DE SOLTURA até o julgamento do mérito do presente writ;
+b-) NO MÉRITO, após as informações prestadas, requer seja concedida a ordem, para que seja anulado o inquérito policial e, como consequência, a prisão do Paciente, nos termos da argumentação acima exposta, confirmando-se a liminar, como medida da mais lídima e cristalina JUSTIÇA.
+Subsidiariamente, caso não seja conhecido o pedido de habeas corpus, que então seja a ordem concedida de ofício, diante da manifesta ilegalidade .. .
+É, em síntese, o relatório.
+Informações prestadas pelo Tribunal de origem dão conta de que,
+"consoante o termo da audiência de instrução, debates e julgamento ocorrida em 11 de março último,  ..  ao paciente foi concedida liberdade provisória com aplicação de medidas cautelares" (e-STJ fl. 237).
+Portanto, diante da concessão de liberdade provisória ao paciente,a presente insurgência perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
