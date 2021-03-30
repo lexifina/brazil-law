@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+ROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. DECISÃO QUE INDEFERIU O PEDIDO DE SUSTAÇÃO DOS PROTESTOS E TÍTULOS DE TERCEIROS DE BOA-FÉ REALIZADOS CONTRA OS CLIENTES DA RECUPERANDA TENDO POR BASE TÍTULOS COM DEVER DE RECOMPRA. PEDIDO DE RECUPERAÇÃO QUE NÃO TEM O CONDÃO DE SUSTAR AS MEDIDAS EXTRAJUDICIAIS DE QUE DISPÕE O CREDOR EM VIRTUDE DO INADIMPLEMENTO DO DEVEDOR. RECUPERANDA QUE VISA OBTER A SUSPENSÃO DOS PROTESTOS DE TÍTULOS SOBRE OS QUAIS NÃO MAIS POSSUI DIREITOS CREDITÓRIOS. INEXISTÊNCIA DOS CONTRATOS QUE EVENTUALMENTE DEMONSTRARIA A RESPONSABILIDADE PELO INADIMPLEMENTO DOS TÍTULOS. AUSÊNCIA DOS REQUISITOS NECESSÁRIOS AO PROVIMENTO DO RECURSO. MANUTENÇÃO DA DECISÃO RECORRIDA QUE SE IMPÕE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Alega-se violação dos artigos6º, 47, 49 e 59 da Lei11.101/05, associada a dissídio jurisprudencial, sob o argumento de que, requerida a recuperação judicial para a recorrente, necessária a sustação de protestos de títulos em face da devedora, o que atenderia ao princípio da preservação da empresa.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a recorrente emitiu títulos representativos de negócios jurídicos entabulados com terceiros, os quais teriam sido cedidos a outros com cláusula de recompra pela recuperanda, caso não sejam honrados pelos sacados.
+De início, a questão foi decidida em sede liminar, o que por si só atrairia a incidência do enunciado n. 735 da Súmula do Supremo Tribunal Federal.
+Não fosse isso, concluiu a Corte local que "aparentemente a recuperanda visa obter a suspensão dos protestos de títulos sobre os quais não possui mais direitos creditórios, posto que foram cedidos ou transmitidos para outras empresas.
+Além disso, olvidou de trazer aos autos os contratos que eventualmente demonstraria a responsabilização pelo inadimplemento dos títulos, configurando, dessa forma, defesa em nome próprio de direitos alheios, o que é inadmissível.
+Assim, a par destes argumentos, tenho por não caracterizada a probabilidade do direito vindicado a ensejar a tutela recursal ora pretendida, restando desnecessária a aferição sobre o requisitos do dano irreparável ou de difícil reparação" (e-STJ, fl. 362).
+O fundamento de que busca em nome próprio a defesa de direito alheio, a par de não ter sido impugnado, foi decidido à luz dos elementos informativos do processo, o que atrai a incidência dos verbetes n. 283 da Súmula do Supremo Tribunal Federal e 7 desta Casa.
+Diante do exposto, nego provimento ao recurso especial.
+Intimem-se.
