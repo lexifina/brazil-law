@@ -1,0 +1,63 @@
+DECISÃO
+1. Cuida-se de agravo interposto por REDE COM PROJETOS E EMPREENDIMENTOS EIRELI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. ANULATÓRIA. REVELIA. DOCUMENTOS.CERCEAMENTO DEFESA. IMÓVEL. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO PESSOAL.CONSTITUIÇÃO EM MORA. LEILÃO. INTIMAÇÃO PESSOAL.
+1. Os documentos apresentados após a decretação da revelia constituem elementos de prova e como tais devem ser observados pelo julgador.
+2. Há cerceamento de defesa quando prolatada sentença antes do término do prazo para a parte especificar suas provas.
+3. jurisprudência desta Casa e do Superior Tribunal de Justiça posicionam-se pela necessidade de A notificação do devedor, informando-o da data da praça de bem gravado com alienação fiduciária.
+4. Deve-se realizar a intimação pessoal do devedor com endereço conhecido, sobre a data da hasta pública, relativamente a bem objeto de alienação fiduciária.
+5. . Recurso provido
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 223, 370, 434,507, 508346, 435, 1022, I e II do Código de Processo de Civil,27, §2-A e §2 º -B, da Lei 9.514/94.
+Sustenta, em síntese, o recorrente: "Tendo sido enviada a correspondência pelo correio sem o respectivo aviso de recebimento, conforme determina o §3º, do art. 26, da Lei 9.514/94, não se pode afirmar, então, que houve intimação..A juntada de documentos na fase recursal é uma exceção à regra, não devendo ser conhecidos ou aceitos caso pudessem ter sido trazidos aos autos em momento oportuno!..Oacórdão recorrido tenta fundamentar seu entendimento em possibilidades e teses e não segundo os fatos, as provas dos autos e o seu devido enquadramento jurídico  Não se pode considerar como argumentos jurídicos, pois estão desprovidos de qualquer fundamento jurídico, morando no campo da possibilidade. Destarte, esqueceu-se o E. Relator que a tese inicial é de que os devedores fiduciários não tinham ciência da data da realização dos leilões, que foram levados a efeito, desse modo, não havia outra saída legal a não ser a propositura da presente ação, já que, conforme inteligência do §5º, do art. 27, da Lei 9.514/94, se, no segundo leilão, o maior lance oferecido não for igual ou superior ao valor referido no § 2º, considerar-se-á extinta a dívida e exonerado o credor da obrigação de que trata o § 4º.Ou seja, não havia como suspender leilões que haviam ocorrido, muito menos depositar quaisquer valores pois a dívida estava extinta.".
+Contrarrazões ao recurso especial às fls. 484-512.
+É o relatório.
+DECIDO.
+2.Não se viabiliza o recurso especial pela indicada violação doartigo1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3.No que se refere à prova produzida nos autos, esclareço que, como destinatário final, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento, tendo-o feito no seguinte sentido:
+De fato, analisando a decisão interlocutória (ID 41773015 - autos de referência), proclamada em 7/8/2019, o nobre Magistrado decretou a revelia do banco réu (apelante) quanto à matéria de fato e facultou às a quo partes a especificação de provas no prazo de 5 (cinco) dias.
+Contudo, em 16/08/2019, foi proferida a r. sentença combatida (ID 11278594), quando ainda havia prazofluindo para as partes especificarem provas, eis que a decisão acima foi publicada no DJE em 9/8/2019 (ID 36083979).
+Nesses termos, verifico ter ocorrido cerceamento do direito de defesa do ora apelante, razão pela qual o provimento judicial merece cassação.
+(..)
+A simples declaração de revelia não vincula o magistrado a decidir contra sua convicção e a evidência dos autos, pois a inexistência de defesa não acarreta a efetiva garantia de procedência do pedido inicial. Mesmo porque o réu não é contumaz, mas apenas revel, sendo-lhe permitida a produção de provas.
+Na esteira desse raciocínio e já constatada a ocorrência de cerceamento de defesa, ante a prolação de sentença quando ainda havia prazo fluindo para o banco apelante comprovar o envio de notificação à empresa autora acerca dos leilões extrajudiciais, os documentos (ID 11278600) apresentados com os embargos de declaração (ID 11278599) constituem elementos de prova e como tais devem ser observados pelo julgador.
+(..)
+Quando do deferimento da liminar por mim proferida e do provimento do agravo de instrumento pelo Colegiado, determinando a suspensão do leilão, com observação de que não houve a intimação pessoal do devedor acerca de sua realização (ID 11278575), os autos não estavam devidamente instruídos, razão pela qual modifico o entendimento outrora externado.
+O imóvel objeto da lide foi adquirido por meio de financiamento com cláusula de alienação fiduciária em 2014, de modo que a relação contratual estabelecida entre as partes submete-se ao art. 26, § 3º, da Lei 9.514/97
+Embora o diploma legal relativo à matéria, à época da questão em julgamento fosse omissa sobre a exigência de intimação pessoal dos devedores acerca do leilão, os tribunais pátrios, há muito, assentaram entendimento quanto à necessidade, informando da data da praça de bem gravado com alienação fiduciária.
+(..)
+No caso em exame, a notificação pessoal exigida pelo referido artigo foi devidamente comprovada à ID 11278600, tendo sido enviada correspondência ao endereço da empresa, bem como dos seus sócios, informando as datas, horários e locais dos leilões.
+Além disso, há resposta aos termos da notificação enviada pela empresa apelada ao banco apelante, demonstrando, contudo, a ciência quanto à realização dos leilões, momento em que poderiam, por exemplo, para resguardar seus direitos, postular judicialmente a interrupção dos atos de transferência do bem, mediante caução em dinheiro.
+Em tese, haveria a possibilidade, também, de pleitearem a suspensão do leilão extrajudicial, com depósito judicial dos valores devidos, objetivando assegurar os direitos advindos da unidade imobiliária em sua esfera patrimonial.
+Em assim não agindo e verificando que o recorrente procedeu com as pertinentes comunicações, a improcedência dos pedidos iniciais é medida que se impõe.
+(..)
+3.1. A jurisprudência do STJ se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997. (AgInt no AREsp 1678642/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2021, DJe 09/03/2021).
+3.2. Na hipótese vertente, rever o entendimento do Tribunal de origem apontado acima, que concluiu pela inexistência de nulidade nos leilões extrajudiciais efetivados pela instituição bancária, demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA. CIÊNCIA INEQUÍVOCA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+3. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial com a cautelar proposta com a finalidade de obstar sua realização, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1678642/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2021, DJe 09/03/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. POSSIBILIDADE DE PURGAÇÃO DA MORA. CONSOLIDAÇÃO DA PROPRIEDADE. LEILÃO EXTRAJUDICIAL. NOTIFICAÇÃO PESSOAL DO DEVEDOR.OCORRÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.SÚMULA 83/STJ. REVISÃO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, a Súmula n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1841965/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020)
+4. Esta Corte possui firme o entendimento no sentido de que: "a revelia enseja a presunção relativa da veracidade dos fatos narrados pelo autor da ação, podendo ser infirmada pelas demais provas dos autos, motivo pelo qual não determina a imediata procedência do pedido" (EDcl no Ag n. 1.344.460/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/8/2013, DJe 21/8/2013). Incidência da Súmula 83 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. TITULO EXECUTIVO EXTRAJUDICIAL. OFENSA AO ART.535, II, DO CPC. INEXISTÊNCIA. ARTIGOS 6º, § 1º, 7º, 8º e 13, § 1º, da Lei 5.474/68 E 333, I, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. REVELIA. EFEITOS. OFENSA AO ART. 319 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. DUPLICATA SEM ACEITE. COMPROVAÇÃO DE ENTREGA DA MERCADORIA. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. DOCUMENTO HÁBIL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+I - Não se detecta qualquer omissão, contradição ou obscuridade no Acórdão Recorrido, uma vez que a lide foi dirimida com a devida e suficiente fundamentação, apenas não se adotou a tese da recorrente.
+II - O conteúdo normativo dos artigos 6º, § 1º, 7º, 8º e 13, § 1º, da Lei 5.474/68 e 333, I, do Código de Processo Civil, não foi objeto de análise pela decisão impugnada, não tendo o Agravante suscitado nos Embargos de Declaração interpostos, não servindo os referidos dispositivos de fundamento à conclusão adotada pelo Tribunal local. Desatendido, portanto, o requisito do prequestionamento, nos termos das Súmulas 282 e 356/ STF.
+III - A presunção de veracidade dos fatos alegados em razão da revelia não é absoluta. O julgador pode, na busca da verdade real, determinar a produção das provas que julgar necessárias à elucidação da causa.
+IV - Embora não apresentando a contestação no prazo legal, poderia o recorrido intervir no feito, em qualquer fase, até a prolação da sentença, apenas recebendo-o no estado em que se encontrar. Desta forma, cabível a juntada dos documentos.
+V - A convicção a que chegou o Acórdão recorrido decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+VI - Esta Corte tem entendimento no sentido que a duplicata sem aceite, desde que acompanhadas dos comprovantes de entrega das mercadorias e das respectivas notas fiscais, constitui documento hábil, portanto, exigível. Precedentes.
+VII - O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+Agravo improvido.
+(AgRg no Ag 1088359/GO, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/04/2009, DJe 11/05/2009)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
