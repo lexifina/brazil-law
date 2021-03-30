@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por HUMBERTO FERNANDES MOCA VASCONCELLOS, VALESKA SANTOS SILY VASCONCELLOS e MARCELO LUIS SILVA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelo Ministro Presidente desta Corte, nos seguintes termos (e-STJ fls. 446/448):
+"Mediante análise do recurso de HUMBERTO FERNANDES MOCAVASCONCELLOS e OUTROS, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ainda, percebeu-se, no STJ, haver irregularidade no preparo. As partes, embora regularmente intimadas para sanarem referido vício, não regularizaram, limitando-se apenas a requerer "apenas o ora peticionário, HUMBERTO FERNANDES MOÇA VASCONCELLOS é quem paga os custos do presente feito e, sendo funcionário público do DNIT, somente recebe seus vencimentos no dia 10 (dez) de cada mês requer seja deferida a juntada do referido comprovante SOMENTE EM 10/03/2020". Ou, ainda: "Caso assim não entenda Vossa Excelência, requer seja deferida a assistência judiciária gratuita, nos termos do artigo 98 inciso I, do CPC/2015." (fl. 436), sem contudo, apresentar justa causa para a sua prorrogação.
+Não há que se falar na concessão do benefício requerido, uma vez que os documentos trazidos pelo autor HUMBERTO FERNANDES MOÇA VASCONCELLOS não corroboram com suas alegações, para fins de comprovar a condição de beneficiário da gratuidade.
+Ademais, mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para regularizar o recolhimento das custas do recurso especial. Apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29/5/2012).
+Ressalte-se que a petição de fls. 441/443, trazida aos autos em razão do despacho oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Outrossim, as partes Recorrentes foram intimadas da decisão agravada em 26/11/2018, sendo o agravo somente interposto em 08/08/2019.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazode 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, o agravo regimental/interno, apresentado em face da decisão que inadmitiu o recurso especial não é o recurso adequado ou cabível à espécie. Nesse sentido o AgInt no AREsp 1220282/SP, Rel.
+Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 30/05/2018 e o AgInt no AREsp 1244996/SP, Rel. Ministro Lázaro Guimarães (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe de 21/05/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, indefiro o pedido de prorrogação do prazo, e com base no art.21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se."
+Embargos de declaração rejeitados às fls. 469/471.
+Sustentam os recorrentes a existência de repercussão geral na questão, apontando como violado o art. 5º, LIV e LV, da Constituição Federal.
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas (e-STJ fl. 505).
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
