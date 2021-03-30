@@ -1,0 +1,107 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1001310-11.2018.8.11.0002
+RECORRENTE(s): UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO
+RECORRIDO(s): NELSON DOS SANTOS
+Vistos.
+Trata-se de Recurso Especial (ID 75596474) interposto por UNIMED CUIABÁ– COOPERATIVA DE TRABALHO MÉDICO, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (ID 71414974):
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS – PLANO DE SAÚDE – PARCIAL PROCEDÊNCIA – PRELIMINAR: ILEGITIMIDADE PASSIVA – REJEIÇÃO – APLICAÇÃO DA TEORIA DA APARÊNCIA - MÉRITO: TRATAMENTO QUIMIOTERÁPICO INDICADO POR ESPECIALISTA - CÂNCER DO RETO – OXALIPLATINA - NEGATIVA DE COBERTURA – ALEGAÇÃO DE TRATAMENTO EXPERIMENTAL E AUSÊNCIA PREVISÃO NO ROL DA ANS - TAXATIVIDADE MITIGADA – CLÁUSULA CONTRATUAL COM COBERTURA PARA QUIMIOTERAPIA – REGISTRO NA ANVISA PARA ESSE TIPO DE TRATAMENTO - DANO MORAL – OCORRÊNCIA – DANOS QUE ATINGEM A ESFERA DA PERSONALIDADE DO OFENDIDO - QUANTUM – ARBIRAMENTO EM DISSONÂNCIA COM OS PRINCÍPIOS DA RAZOABILIDADE E DA PORPORCIONALIDADE – SENTENÇA REFORMADA EM PARTE - RECURSO PARCIALMENTE PROVIDO.
+Rejeita-se a preliminar de ilegitimidade passiva se a operadora recorrente integra o mesmo conglomerado econômico, aparentando ao consumidor a existência de uma unidade entre todas as UNIMED`s, ou seja, o usuário não tem a certeza necessária sobre qual empresa contratou para lhe prestar os serviços de assistência à saúde.
+Assim, de se manter a requerida UNIMED CUIABÁ COOPERATIVA TRABALHO MÉDICO no polo passivo da demanda.
+Já é assente o entendimento no sentido de que o rol da ANS possui taxatividade mitigada, ou seja, não esgota as possibilidades de cobertura pelas operadoras de saúde, em especial quando o procedimento/medicamento é imprescindível para tratamento do paciente e foi indicado pelo especialista que o acompanha.
+Se existente registro na ANVISA, não há de ser considerado experimental o tratamento quimioterápico a base do princípio ativo da OXALIPLATINA, prescrito por médico oncologista e cuja bula indica para o tratamento do câncer do cólon e reto, caso dos autos.
+Se a negativa do custeio do tratamento invade a esfera patrimonial do ofendido, produzindo grande temor ao portador de grave enfermidade, de ser responsabilizada a operadora pelos danos morais causados.
+O quantum indenizatório a título de danos morais há de ser arbitrado em atenção às condições econômicas do ofensor e do ofendido, assim, quando fixado em valor elevado, de ser reduzido em obediência aos parâmetros de razoabilidade e proporcionalidade.
+(TJMT, ApCiv n. 1001310-11.2018.8.11.0002, Relatora Desa. Marilsen Andrade Addario, SEGUNDA CÂMARA DE DIREITO PRIVADO, data do julgamento 16.12.2020)”.
+Na espécie, o recurso foi interposto contra o aresto proferido em sede de Apelação, aviada por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, que manteve parcialmente sentença proferida pelo juízo da 4a vara cível da comarca de Várzea Grande, o qual, nos autos de ação de obrigação de fazer c/c danos morais condenou a Recorrente a custear o medicamento OXALIPLATINA, necessário ao tratamento oncológico do Recorrido, na forma prescrita pelo médico responsável, bem como condenou a Unimed ao pagamento de R$ 8.000,00 (oito mil reais) por danos morais.
+A Câmara julgadora deu parcial provimento ao Apelo tão somente para diminuir o valor arbitrado a título de danos morais, fixando a verba em R$ 5.000,00 (cinco mil reais).
+A Recorrente alega violação aos artigos 330, Inciso II e 485, Inciso VI do Código de Processo Civil e o Artigo 265 do Código Civil 17 do Código de Processo Civil; artigos 10, §4o e 35-F da Lei 9.656/98; artigo 4o, Inciso III da Lei 9.961/00; artigos 186,188 inciso I, 927, 944, 421 e 422 do Código Civil e aos artigos 51, inciso IV e § 1o, inciso II e 54, § 4o do Código de Defesa do Consumidor, fulcrada nas seguintes teses:
+(a) Ilegitimidade Passiva ad causam, ante a inexistência de vínculo contratual entre as partes; estabelecido exclusivamente entre o Recorrido e a Central Nacional Unimed;
+(b) Não há obrigatoriedade de custeio de tratamento prescrito em desacordo com as Diretrizes de Utilização estabelecidas pela ANS, em especial os de natureza experimental, como o versado nos autos;
+(c) Afastamento indevido de cláusulas contratuais que preveem a exclusão de cobertura de tratamentos considerados experimentais;
+(d) Inexistência dos requisitos autorizadores da reparação civil e, alternativamente, diminuição do valor arbitrado a título de danos morais;
+Recurso tempestivo (ID 75826477) e preparado (ID 75895489)
+Contrarrazões (ID 78016989).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Violação aos artigos violação aos artigos 10, § 4o, da Lei n. 9.656/98; e 4o, III da Lei n. 9.961/00 e artigos 330, Inciso II e 485, Inciso VI do Código de Processo Civil - Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a Recorrente alega violação aos artigos 10, § 4o, da Lei n. 9.656/98; e 4o, III da Lei n. 9.961/00, pois não estaria obrigada a custear tratamento experimental (off label), isto é, receitado para doenças outras que não aquelas indicadas pelo próprio produtor e autorizadas pela Agência Nacional de Vigilância Sanitária – ANVISA.
+No acórdão impugnado ficou consignado que:
+No que diz respeito à circunstância de o medicamento pretendido pelo autor não constar do rol da ANS, já é assente o entendimento no sentido de que o referido rol não esgota as possibilidades de cobertura pelas operadoras ou seguradoras de saúde, em especial quando o procedimento/medicamento é imprescindível para tratamento do paciente e foi indicado por especialista, como ocorre no caso.
+(...)
+Consoante jurisprudência do STJ mostra-se “descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do usuário do plano de saúde” visto que “o fato de o procedimento não constar no rol da ANS não significa que não possa ser exigido pelo usuário, uma vez que se trata de rol exemplificativo” (AgInt no AREsp 1442296/SP), sobretudo quando a cláusula limitativa invocada pela operadora do plano não se encontra redigida com o necessário destaque exigido pelo §4o do art. 54 do CDC. (...)
+Na hipótese dos autos, quanto à alegação de que o fármaco OXALIPLATINA não possuiria registro na ANVISA, ressalta-se que em consulta à página da Agência Reguladora, verifica-se o contrário, conforme se apresenta abaixo (...)
+No que se refere à assertiva de que o medicamento não possui indicação para a patologia do autor (câncer do reto), também esta não prospera, conforme se observa da bula do medicamento no Laboratório Eurofarma
+(...) Ademais, a imprescindibilidade do referido fármaco para o tratamento da patologia do autor fora atestada pelo profissional que o acompanha, Dr. Alexandre L. Marques – CRM-MT 7151, assim, por prudência, recomenda-se a mantença da decisão do médico especialista, mormente quando se trata de enfermidade grave (ID no 61584474).
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate fármaco off label, conforme se extrai das ementas dos julgados abaixo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCECAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. RECUSA DE CUSTEIO DE MEDICAÇÃO EXPERIMENTAL - USO OFF LABEL -. ABUSIVIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. ROL DE PROCEDIMENTOS DA ANS. ENUMERAÇÃO EXEMPLIFICATIVA. JURISPRUDÊNCIA DA TERCEIRA TURMA.
+1. Não há falar em negativa de prestação jurisdicional diante do enfrentamento das questões relevantes devolvidas à Corte de origem, não consubstanciando qualquer eiva presente no art. 1.022 do CPC a tomada deposição contrária à sustentada pela parte.
+2. A Corte local concluiu que o julgamento antecipado não caracterizou cerceamento de defesa, uma vez que a prova colacionada aos autos era suficiente para a convicção do magistrado sentenciante. A alteração da conclusão do acórdão recorrido encontra óbice na Súmula 7 do STJ.
+3. O acórdão recorrido está em sintonia com o entendimento firmado por este Superior Tribunal de Justiça, segundo o qual é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate fármaco off label, ou utilizado em caráter experimental.
+4. O fato de o tratamento prescrito pelo médico não constar no rol da ANS não significa que não possa ser exigido pelo usuário, uma vez que se trata de rol exemplificativo. Entendimento do acórdão recorrido em harmonia com a jurisprudência da Terceira Turma desta Corte. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1683820/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO E TRATAMENTO. RECUSA ABUSIVA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Afigura-se abusiva a exclusão do custeio do tratamento consistente no uso off label de medicamento, o qual era imprescindível à conservação da vida e saúde do beneficiário.
+Incidência da Súmula 83 do STJ" (AgInt no REsp 1.680.415/CE, Rel.
+Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe de 11/09/2020).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt no REsp 1875974/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos o Artigo 10, § 4o da Lei 9.656/98 e ao Artigo 4o, Inciso III da Lei 9.961/00, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+A Recorrente insurge-se ainda quanto a violação aos artigos 330, Inciso II e 485, Inciso VI do Código de Processo Civil, afirmando que não é parte legítima para figurar no polo passivo da demanda.
+O órgão fracionário recorrido, ao estabelecer que tanto a “UNIMED CUIABÁ quanto a CENTRAL NACIONAL UNIMED integram o mesmo conglomerado econômico, e ambas auferem vantagens inerentes à estrutura de nível nacional, aparentando ao consumidor comum a existência de uma unidade, razão pela qual devem arcar, consequentemente, com os ônus e as responsabilidades correspondentes”; mais uma vez não destoou da pacífica jurisprudência do STJ, conforme exemplificado abaixo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. DECISÃO AGRAVADA RECONSIDERADA. NOVO EXAME DO RECURSO. PLANO DE SAÚDE. LEGITIMIDADE PASSIVA. SISTEMA UNIMED. TEORIA DA APARÊNCIA. SOLIDARIEDADE ENTRE AS COOPERATIVAS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. NEGATIVA DE COBERTURA. ÍNDOLE ABUSIVA. DANO MORAL. CONFIGURADO. HONORÁRIOS ADVOCATÍCIOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Em face da impugnação dos fundamentos da decisão que negou seguimento ao recurso especial, o agravo interno merece provimento.
+2. A jurisprudência desta Corte Superior é assente em reconhecer a legitimidade das unidades cooperativas ligadas à UNIMED, por aplicação da teoria da aparência (AgInt nos EDcl no AgInt no AREsp 833.153/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 06/11/2018, DJe de 13/11/2018).
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ. (...)
+(AgInt no AREsp 1715038/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...) 4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Por estas razões, inviável a admissão do recurso nestes pontos.
+3- Violação aos artigos 35-F da Lei 9.656/98; artigos 421 e 422, e aos artigos 51, Inciso VI e § 1o, Inciso II e 54, § 4o do Código de Defesa do Consumidor – Ausência de fundamentação – Súmula 284 STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DA LEI FEDERAL E DEMONSTRAÇÃO DE SUA VIOLAÇÃO. ENUNCIADO N. 284 DA SÚMULA DO STF. AGRAVO INTERNO IMPROVIDO.
+1. No tocante ao pedido de indenização securitária por invalidez e à condenação pelos danos morais, as razões do inconformismo não permitem identificar de que forma se deu a violação à lei federal, pois o recorrente não apontou quais dispositivos teriam sido ofendidos ou tiveram a interpretação divergente pela jurisprudência.
+Incide, à espécie, o óbice da Súmula 284 do STF.
+2. Agravo interno a que se nega provimento”. (STJ AgInt no AREsp 1308915/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/02/2019, DJe 21/02/2019).
+Dessa forma, quanto à alegação de ofensa aos artigos, 35-F da Lei 9.656/98; artigos 421 e 422, e aos artigos 51, Inciso VI e § 1o, Inciso II e 54, § 4o do Código de Defesa do Consumidor, conclui-se pela inadmissão do recurso, porquanto o recorrente limitou-se a reproduzir os dispositivos legais supostamente violados, sem, no entanto, ter demonstrado de forma precisa e concreta a contrariedade alegada e como esta teria ocorrido, impossibilitando, consequentemente, a exata compreensão da matéria apresentada.
+Desta forma, inviável a admissão do recurso quanto aos artigos mencionados.
+4- Da violação aos artigos 186, 188 inciso I, 927 e 944 do Código Civil Análise de fatos – Súmula 07 do STJ.
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 186, 188 inciso I e 927 do Código Civil, se sustenta na assertiva de que a Recorrente não praticou qualquer ato ilícito passível de indenização, uma vez que cabia exclusivamente à Central Nacional Unimed, real detentora do contrato do Recorrido, a autorização da cobertura assistencial pretendida.
+Por fim, sustenta ferimento ao artigo 944 do Código Civil, pois o valor arbitrado a título de danos morais (R$ 5.000,00) mostrou-se excessivo.
+O acordão recorrido, soberano na análise da matéria fática, assim pontuou quanto aos temas: (ID 71414974):
+“Por último, quanto ao reconhecimento da ocorrência de dano moral, diante das especificidades do caso, este restou demonstrado em razão das negativas de autorização do procedimento quimioterápico (ID no 61584479 e 61584481), indispensável para o restabelecimento da saúde do requerente, inclusive, com previsão de cobertura contratual para enfermidade da espécie dos autos.
+Com efeito, se a negativa do custeio do tratamento invade a esfera extrapatrimonial do ofendido, acarretando-lhe grande temor em razão da gravidade e lesividade da patologia que o coloca sob risco de morte, de ser a operadora responsabilizada pelos danos morais causados, mormente diante da recalcitrância da requerida em cumprir a ordem judicial de tutela e urgência deferida nos autos em 22/02/18, conforme notícia trazida pelo requerente na audiência de conciliação em 26/03/18, no ID no 61584974.
+No que se refere ao valor arbitrado, este comporta redução, posto que arbitrado em desatenção aos parâmetros de razoabilidade e proporcionalidade e em desconformidade com o atual contexto econômico do País, afetado pela pandemia do COVID-19.
+Assim, hei por bem reduzir o valor para R$ 5.000,00 (cinco mil reais), pois tal montante mostra-se razoável e repercutirá no patrimônio da requerida sem excessos, não tornando iníqua ou insignificante a reparação, assim como não patrocina a captação ou exagero de vantagem, não constituindo indenização irrisória”.
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, em especial para concluir que a Recorrente não praticou qualquer ato ilícito, e que a quantia arbitrada mereceria redução, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. DANO MORAL. VALOR ARBITRADO NA ORIGEM. RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. A recusa indevida da operadora de plano de saúde a autorizar o tratamento necessário ao segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia da pessoa comprometida em sua higidez físico-psicológica pela enfermidade.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1003885/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017).
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Cuiabá/MT, data registrada no sistema.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
