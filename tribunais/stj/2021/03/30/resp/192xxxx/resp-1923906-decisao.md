@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEÔNIDAS FERREIRA CHAVES FILHO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Paranáassim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CORREÇÃO DO VALOR DEVIDO. AUSÊNCIA DE EXTINÇÃO PARCIAL DA EXECUÇÃO. CONDENAÇÃO DO EXCEPTO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE.
+Considerando que no caso em comento não houve a extinção parcial da execução, mas a apenas a adequação do valor devido aos parâmetros das decisões anteriores, descabida a fixação de honorários sucumbenciais. Agravo de instrumento não provido"(fl. 64, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente alega, além de dissídio jurisprudencial, violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, aduzindo deficiência de fundamentação e existência deomissões no acórdão atacado.
+Aponta, ainda, ofensa aoart. 85 do CPC/2015, sustentando a possibilidade de fixação de honorários advocatíciosdevido aoacolhimento da exceção de pré-executividade, na qual expurgou-se o excesso de execução.
+Afirma que
+"(..) a redução no valor da dívida decorreu do manejo e acolhimento da exceção de pré-executividade, pela parte executada. Portanto, não há a menor dúvida de que o banco recorrido deu causa à cobrança de valores em desacordo com a coisa julgada, e que a apresentação da exceção de pré-executividade é que levou à adequação do valor.
+Assim, nos termos do art. 85, parágrafo segundo, do CPC/2015, os honorários de sucumbência deveriam ser fixado sobre o proveito econômico obtido com o acolhimento da exceção de pré-executividade, ou seja, sobre o valor extirpado da dívida. Entretanto, o acórdão rejeitou o agravo de instrumento, sob o fundamento de que "não é possível a fixação de honorários de sucumbência, à medida que não houve extinção parcial da execução mas apenas um ajuste do valor efetivamente devido"(fl. 115, e-STJ).
+Ao final, requer a reforma do acórdão atacadopara reconhecer a violação dos dispositivos de lei indicados, bem como o dissídio jurisprudencial, a fim de fixar os honorários de sucumbência em, no mínimo, 10% (dez por cento) sobre o valor excluído da dívida, pelo acolhimento da exceção de pré-executividade.
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação merece parcial acolhimento.
+No tocante à violação do art. 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido"
+(AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/5/2017, DJe 16/5/2017 - grifou-se).
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A. (e-STJ fls. 2.379/2.385) rejeitados"
+(EDcl no REsp 1.596.081/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+No que tange ao art. 489 do Código de Processo Civil de 2015, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Frisa-se que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeitodaqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador.
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos declaratórios.
+Ademais, observa-se queo Tribunal local afastou a possibilidade de fixação deverba honoráriasob a seguinte fundamentação:
+"(..)na decisão agravada o juízo "a quo"apenas reconheceu o erro de cálculo em relação ao índice de correção monetária, eis que em dissonância com os parâmetros estabelecidos nas decisões anteriores (acórdão proferido nos embargos à execução), e determinou a sua adequação.
+Logo, no caso, não é possível a fixação de honorários sucumbenciais, à medida que não houve extinção parcial da execução, mas apenas um ajuste do valor efetivamente devido.
+Assim, descabida a fixação de honorários sucumbenciais"(fl. 66, e-STJ).
+Nesse aspecto, o recurso merece acolhida.
+Isso porqueadecisão da Cortelocal diverge da jurisprudência sedimentada noSuperior Tribunal de Justiçano sentido de ser cabível a "fixação de honorários de sucumbência quando a Exceção de Pré-Executividade for acolhida para extinguir total ou parcialmente a Execução, o que resultou, como no caso concreto, em diminuição do valor exequendo"(AgInt no REsp 1.861.568/SP, Rel. Ministro HermanBenjamin, SegundaTurma, julgado em 8/6/2020, DJe 16/6/2020).
+Confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE PARCIALMENTE ACOLHIDA - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA, DE PLANO, DAR PARCIAL PROVIMENTO AO APELO EXTREMO, A FIM DE FIXAR A VERBA HONORÁRIA. INSURGÊNCIA DO EXCEPTO
+(..)
+2. "Consoante a jurisprudência pacífica desta Corte Superior,são devidos honorários advocatícios sucumbenciais pelo exequente quando, em virtude do acolhimento de exceção de pré-executividade, for extinta integral ou até parcialmente a dívida objeto da execução."(REsp 1390202/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 02/09/2015).
+3. A pretensão de fixação no percentual de 1% não se mostra adequada, por ser considerado, no caso, um quantitativo módico quando em comparação com a natureza e importância da causa. Ademais, no curso do presente feito entrou em vigor o NCPC, esse que estabeleceu percentual mínimo de 10% sobre o valor do proveito econômico na fixação da verba honorária. No entanto, a despeito de ser aplicável aos processos em curso, deixa-se de modificar o quanto fixado em razão do princípio da non reformatio in pejus.
+4. Agravo regimental desprovido"
+(AgRg no AgRg nos EDcl no AREsp 49.913/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 27/08/2020 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. 1. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. 2. ADVOGADO SUBSCRITOR DO RECURSO ESPECIAL COM PROCURAÇÃO NOS AUTOS. 3. REDUÇÃO DA QUANTIA OBJETO DA EXECUÇÃO POR EFEITO DO ACOLHIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA DEVIDA. SÚMULA 7/STJ. INAPLICABILIDADE. 4. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. NÃO CABIMENTO. RECURSO ESPECIAL, QUE INAUGUROU O NOVO GRAU RECURSAL, INTERPOSTO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/1973. 5. AGRAVO IMPROVIDO.
+1. É cediço que a análise de matéria constitucional não é de competência desta Corte, mas, sim, do Supremo Tribunal Federal, por expressa determinação da Carta Magna.
+2. Mediante análise dos autos, verifica-se que a parte recorrente procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial.
+3. Segundo a orientação jurisprudencial pacífica desta Corte Superior, são devidos honorários advocatícios sucumbenciais pelo exequente quando acolhida exceção de pré-executividade, ainda que parcialmente.
+4. Conquanto o agravo interno tenha sido interposto contra decisão publicada na vigência do CPC/2015, o exame dos autos revela que o precursor recurso especial foi manejado contra acórdão publicado na vigência do CPC/1973, circunstância que, na linha da jurisprudência dominante desta Corte, afasta a possibilidade de condenação de quaisquer das partes ao pagamento dos honorários recursais previstos no § 11 do art. 85 do CPC/2015.
+5. Agravo interno a que se nega provimento"
+(AgInt no REsp 1.615.173/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em17/4/2018, DJe 20/4/2018).
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO DE OFÍCIO. INEXIGIBILIDADE DO TÍTULO EXEQUENDO. COBRANÇA DE DÍVIDA QUITADA. DEPÓSITOS JUDICIAIS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO.
+1. Consoante a jurisprudência pacífica desta Corte Superior, são devidos honorários advocatícios sucumbenciais pelo exequente quando, em virtude do acolhimento de exceção de pré-executividade, for extinta integral ou até parcialmente a dívida objeto da execução.
+2. A condenação da parte exequente ao pagamento de honorários advocatícios é devida pelo simples fato de restar configurada sua sucumbência na demanda, sendo irrelevante para a fixação da verba no caso em espécie que a extinção da execução por inexigibilidade do título tenha se dado por ato de ofício do juízo competente ou em estrito atendimento ao pedido formulado pela parte executada em exceção de pré-executividade por ela anteriormente apresentada.
+3. A fixação dos honorários na hipótese dos autos, ainda que com fundamento no art. 20, §4º, do CPC, deve levar em consideração as circunstâncias descritas no, §3º, desse mesmo dispositivo legal, a saber: o grau de zelo profissional, o local da prestação de serviços, a natureza e importância da causa, o local da prestação do serviço e as dificuldades gerais apresentadas pelo processo.
+4. Especial relevo deve ser dado à importância da causa, notadamente porquanto, ainda que desempenhe um trabalho aparentemente simples ao apresentar exceção de pré-executividade demonstrando a cobrança de dívida já paga por meio depósitos judiciais realizados há mais de 8 (oito) anos, não se pode desprezar a expressiva responsabilidade assumida pelo causídico ao aceitar defender seu cliente em uma ação de execução de grande vulto (no valor de R$ 1.797.341,59 - um milhão setecentos e noventa e sete mil trezentos e quarenta e um reais e cinquenta e nove centavos).
+5. Recurso especial provido para condenar a parte exequente, ora recorrida, ao pagamento, em prol da executada, ora recorrente, de honorários advocatícios sucumbenciais no valor de R$ 90.000,00 (noventa mil reais)"
+(REsp 1.390.202/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 02/09/2015 - grifou-se).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO PARCIAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. REEXAME DE FATOS E PROVAS. DESNECESSIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A discussão a respeito do cabimento da verba honorária, em razão do acolhimento parcial da exceção de pré-executividade oposta pela empresa agravada, não pressupõe análise do acervo fático-probatório dos autos.
+3. O Superior Tribunal de Justiça consolidou orientação segundo a qual o acolhimento da exceção de pré-executividade, ainda que parcial, enseja arbitramento de verba honorária. Precedentes.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.164.658/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/03/2020, DJe 1º/04/2020 - grifou-se)
+Ante o exposto, conheço do recurso especial e dou-lhe parcialprovimentopara reformar o acórdão recorrido, bem comocondenar oexequente/recorridoao pagamento de verba honorária advocatíciasucumbencial no valor de 10% (dez por cento) sobre o proveito econômico obtido, com a parcial procedência da exceção depré-executividade, nos termos do art. 85, § 2º, do CPC/2015.
+Publique-se.
+Intimem-se.
