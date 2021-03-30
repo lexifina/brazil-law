@@ -1,0 +1,6 @@
+DECISÃO
+Em petição de e-STJ fls. 1285/1288, ROSENILDA LÚCIA DA SILVA E OUTROS manifestaram anuência à pretensão deduzida no recurso especial interposto pelo ESTADO DO PARANÁ.
+Ouvido, o ESTADO DO PARANÁ, através da petição de e-STJ fl. 1293, diante do reconhecimento do pedido inserido no apelo nobre ("utilização da Taxa Referencial (TR), desde o dia 30.06.2009 até 25.03.2015, como índice de correção monetária da condenação judicial, no que pertine às parcelas atrasadas do pensionamento mensal"), formulado pela parte adversa, não se opôs ao pleito dos autores.
+Dessa forma, considerando que os causídicos possuem poderes para transigir (e-STJ fls. 1300/1301) e que a transação é causa para a extinção do processo com resolução do mérito, nos termos do art. 487, III, "b", do CPC/2015, cuja manifestação pode dar-se em sede de recurso especial, é o caso de deferir o pleito de homologação do acordo.
+Ante o exposto, com base no art. 487, III, "b", do CPC/2015, c/c o art. 34, IX, do RISTJ, HOMOLOGO o acordo proposto pela parte autora, a fim de que seja acolhida a pretensão recursal do ESTADO DO PARANÁ, destinada àutilizaçãoda Taxa Referencial (TR), desde o dia 30.06.2009 até 25.03.2015, como índice de correção monetária da condenação judicial, no que pertine às parcelas atrasadas do pensionamento mensal.
+Publique-se. Intimem-se
