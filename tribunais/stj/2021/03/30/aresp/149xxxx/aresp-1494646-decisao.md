@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Etemp Engenharia Indústria e Comércio Ltda.contra decisão que inadmitiu o apelo nobre.
+Atendidos os pressupostos legais, conheço do agravo e passo a examinar o recurso especial.
+Aadmissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica.
+A tal respeito, destaco que " ..  esta Corte Superior de Justiça já consignou que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREsp 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015)" (AgInt no AREsp 1.558.460/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 11/3/2020).
+Da mesma forma, "a citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto  .. " (AgInt no REsp 1.810.695/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 26/11/2019, DJe 29/11/2019).
+Além disso, "as razões do especial devem exprimir, com transparência e objetividade, os motivos pelos quais o insurgente visa reformar odecisum. O recurso deve, além de indicar os dispositivos ditos violados, demonstrar o modo como o foram" (AgInt no AgInt no AREsp 1.077.674/DF, de minha relatoria, Segunda Turma, DJe 14/5/2019).
+Dessa forma, levando em conta que a parte limitou-se a tecer considerações sobre os temas e as teses versadas no processo, sem mencionar didaticamente osdispositivos legais esem demonstrar de maneira objetiva e adequada como foram contrariados, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos do verbete 284 da Súmula do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+A ausência de indicação, associada às razões pelas quais assim entende a parte, do dispositivo legal tido por violado atrai o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Agravo interno a que se nega provimento.
+(AgInt no AREsp 569.569/SP, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/6/2019, DJe 27/6/2019.)
+Ademais, considerando a conclusão do acórdão recorrido no sentido de que "a prova documental coligida aos autos se mostrou insuficiente para comprovar a efetivação das operações mercantis com empresa declarada inidônea, situação apta a afastar a boa-fé da embargante e a nulidade do AIIM em debate", inviável o recurso especial por demandar imersão no acervo fático-probatório dos autos, consoante o óbice da Súmula 7/STJ.
+No ponto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.ICMS. CREDITAMENTO. COMPRA DE MERCADORIAS. VENDEDORA CUJA EXISTÊNCIA FOI SIMULADA. BOA-FÉ AFASTADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.INEXISTÊNCIA. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Consoante orientação firmada pela Primeira Seção deste Tribunal Superior, no julgamento do REsp 1.148.444/MG, repetitivo, - o comerciante de boa-fé que adquire mercadoria, cuja nota fiscal (emitida pela empresa vendedora) posteriormente seja declarada inidônea, pode engendrar o aproveitamento do crédito do ICMS pelo princípio da não-cumulatividade, uma vez demonstrada a veracidade da compra e venda efetuada, porquanto o ato declaratório da inidoneidade somente produz efeitos a partir de sua publicação.
+3. Via de regra, a sociedade empresária, que procede de boa-fé, não pode ser responsabilizada, de forma objetiva, pelo pagamento de ICMS. Para eventual responsabilização há necessidade de o fisco comprovar a participação em esquema fraudulento. Precedentes.
+4. No caso dos autos, atentando-se para a situação delineada no acórdão recorrido, forçoso reconhecer que, além de o acórdão recorrido não contrariar entendimento jurisprudencial deste Tribunal Superior, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois, sem exame de prova, não há se concluir por eventual boa-fé da recorrente para o fim de anular auto de infração.
+5. Agravo interno não provido.
+(AgInt no REsp 1.893.449/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 1º/3/2021, DJe 3/3/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
