@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porMRV ENGENHARIA E PARTICIPACOES SA,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/11/2020.
+Concluso ao gabinete em: 26/03/2021.
+Ação:cumprimento individual de sentença coletiva, requerido por INGRID CASSIA FERREIRA em face da agravante, no qual postula o pagamento de compensação por danos morais, no valor de R$ 20.000,00, em razão do atraso na entrega de unidade imobiliária e prática de publicidade enganosa.
+Decisão interlocutória: acolheu em parte a impugnação apresentada pela agravante, para reduzir o valor da condenação, entendendo devido o pagamento da multa de 10%, bem como de honorários advocatícios de 10%, sobre o valor do débito.
+Acórdão: manteve a decisão unipessoal do Relator que indeferiu o pedido de concessão de efeito suspensivo ao agravo de instrumento interposto pela ora agravante.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1.022 do CPC/15, sustentando que o Tribunal de origem: "a) manteve omissão incorrida a respeito do necessário cotejo dos autos para possibilitar o justo desfecho do feito; b) chancelou contradição interna a respeito do cerceamento de defesa; c) omissão sobre a realidade dos autos de origem, no qual foi determinado o bloqueio de valores via sistema BacenJud; d) erro de fato, aplicou multa e honorários advocatícios como se o não pagamento teria decorrido de inércia da agravante" (sic, e-STJ fl. 74).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Não cabimento de recurso especial contra decisão que defere ou indefereo pedido de antecipação de tutela
+Consoante a pacífica jurisprudênciadeste Superior Tribunal de Justiça, firmada à luz da Súmula 735/STF, não é cabível, via de regra, a interposição de recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal (..)"(AgInt nos EAREsp 1.517.299/SP, Corte Especial, DJe 18/12/2020).
+Realmente, entende-se que, nessa hipótese, apenas é cabível o recurso especial interposto com o fito de discutir eventual ofensa aos próprios dispositivos legais que disciplinam a tutela de urgência, e não violação à norma que diga respeito ao mérito da causa. Nesse sentido, confiram-se:AgInt no AREsp 1.586.569/RJ, 3ª Turma, DJe 06/04/2020; e,AgInt no AREsp 1.309.161/MG, 4ª Turma,DJe 14/09/2020.
+A par disso, verifica-se que, na hipótese dos autos, as razões recursais tecidas pela agravante acerca da suposta violação dos arts. 489e 1.022 do CPC/15 referem-se a questões pertinentes ao mérito do agravo de instrumento interposto na origem, e não aos requisitos específicos para a concessão deefeito suspensivo àquele recurso.
+Assim, é inadmissível o conhecimento do presente recurso especial, ante a aplicação, por analogia, da Súmula 735/STF.
+Em acréscimo, cabe ressaltar que os acórdãos proferidos pelo TJDFT são explícitos no sentido de que se referem, exclusivamente, ao indeferimento do efeito suspensivo ao agravo de instrumento interposto pela ora agravante. Inclusive, ao julgar os embargos de declaração, o Tribunal expressamente determinou que, após a publicação do respectivo acórdão, certificasse a Secretaria acerca do prazo para a apresentação de contrarrazões ao agravo de instrumento, e, após, devolvesse os autos conclusos (e-STJ fl. 66).
+Nesse contexto, é absolutamente inviável - porque paradoxal - que esta Corte examine suposta negativa de prestação jurisdicional pelo Tribunal de origem acerca do mérito do agravo de instrumento, que sequer ainda foi apreciado.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Por conseguinte, tem-se por PREJUDICADO o pedido de concessão de efeito suspensivo ao recurso especial.
+Por fim, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. EFEITO SUSPENSIVO. INDEFERIMENTO. RECURSO ESPECIAL. DESCABIMENTO.SÚMULA 735/STF.
+1. Cuida-se, na origem, de cumprimento individual de sentença coletiva.
+2.Consoante a pacífica jurisprudência deste Superior Tribunal de Justiça, firmada à luz da Súmula 735/STF, não é cabível a interposição de recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Apenas excepcionalmente é admitido o recurso especial em tal hipótese, desde que se refira, exclusivamente, aos pressupostos para a concessão da tutela de urgência, e não ao mérito da demanda.
+3.Agravo conhecido. Recurso especial não conhecido.
