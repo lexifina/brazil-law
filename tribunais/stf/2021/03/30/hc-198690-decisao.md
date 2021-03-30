@@ -1,0 +1,35 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. APETRECHOS RELACIONADOS À NARCOTRAFICÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+    2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+    3. A apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes – balança de precisão, embalagens, caderno de anotações –, de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância.
+    4. Agravo regimental desprovido.”
+    (HC 634.142-AgRg/SP, Ministro João Otávio de Noronha)
+    Em suas razões, a parte impetrante, em síntese, pretende a revogação da prisão preventiva por ausência de fundamentação idônea do decreto de segregação cautelar.
+    O Ministério Público Federal emitiu parecer pelo não conhecimento do habeas corpus em pronunciamento assim ementado:
+    “Processual penal. Habeas corpus. Pleito de revogação de prisão preventiva. Crime de tráfico de drogas. 1. Preventiva que se mostra necessária, pois além de ter sido apreendido em poder do agente grande quantidade e variedade de substância entorpecente e apetrechos destinados à prática do crime de tráfico, há sérios indícios que indicam a dedicação do paciente à atividade do narcotráfico, sendo fundado o risco de reiteração delitiva com sua colocação em liberdade. 2. Condições pessoais favoráveis não são suficientes para justificar a concessão de liberdade provisória no presente caso. 3. Pela denegação da ordem.”
+    Tal o contexto, entendo não assistir razão à parte impetrante.
+    Não se desconhece que a decretação da prisão preventiva é medida excepcional, sendo regra que o réu possa responder o processo em liberdade (HC 90.753/RJ, Celso de Mello).
+    Assim, para a restrição da liberdade de alguém antes do trânsito em julgado da sentença penal condenatória, impõe-se a presença, no momento da decretação dessa medida cautelar, dos pressupostos (materialidade, indícios de autoria e perigo gerado com o estado de liberdade) e dos requisitos e/ou fundamentos previstos nos arts. 312 e 313 do CPP.
+    Uma vez demonstradas pelo magistrado a real necessidade dessa medida cautelar e a presença dos pressupostos e requisitos que venho de referir, a decretação da prisão preventiva estará devidamente fundamentada, sem que se possa alegar que essa prisão processual violaria o princípio da presunção de inocência.
+    Fixadas tais premissas, observo que, no caso em exame, como bem ressaltou o Superior Tribunal de Justiça, ao destacar a quantidade considerável, a diversidade e a natureza da droga apreendida (6 porções de maconha, pesando 60g, além de mais 10g de maconha, 3 porções menores de cocaína e 1 de crack), a decisão que decretou a prisão preventiva do ora paciente deixou evidenciada a gravidade concreta da conduta alegadamente por ele praticada.
+    O Supremo Tribunal Federal, em precedentes de ambas as Turmas, tem reconhecido a idoneidade da segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela natureza e quantidade da droga apreendida (HC 104.934/MT, Relator para o acórdão Ministro Luiz Fux; HC 112.090/RJ, Relatora para o acórdão Ministra Rosa Weber; HC 134.307-AgR/SP, Ministro Dias Toffoli; HC 138.213/MG, Ministro Ricardo Lewandowski; HC 158.276/RJ, Ministro Marco Aurélio; HC 177.678-AgR/MG, Ministro Alexandre de Moraes):
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA.
+    1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes.
+    2. A natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional. Precedentes.
+    3. Agravo regimental conhecido e não provido. ”
+    (HC 193.603-AgR/SP, Ministra Rosa Weber – com meus grifos)
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA AO RECURSO EM LIBERDADE. PRESSUPOSTOS PARA A PRISÃO PREVENTIVA. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. PEDIDO MANIFESTAMENTE CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (HC 189.680-AgR/SC, Ministra Cármen Lúcia – com meus grifos)
+    Ademais, conforme bem ressaltado pela Procuradoria Geral da República (com meus grifos):
+    “(...) há sérios indícios da habitualidade do paciente na prática do crime de tráfico, uma vez que a diligência de busca e apreensão no imóvel onde foram encontradas as drogas fora precedida de monitoramento do paciente e de sua genitora, os quais foram vistos adentrando e saindo do imóvel abandonado por diversas vezes, inclusive sendo flagrados pelo sistema de monitoramento entregando algo para pessoas que compareciam ao local. Esse movimento de pessoas e a apreensão de drogas firmam, para fins de cautelar penal, traficância reiterada. Assim, as circunstâncias do caso concreto autorizam a segregação cautelar do agente para a garantia da ordem pública, pois fundado o risco de reiteração delitiva com a colocação do paciente em liberdade.”
+    No sentido de resguardar a ordem pública, quando demonstrado o risco de reiteração delitiva, vários são os precedentes desta Suprema Corte que autorizam a decretação de prisão preventiva (HC 149.759-AgR/RS, Ministro Dias Toffoli; HC 174.649-AgR/PR, Ministro Edson Fachin; HC 188.507-AgR/SP, Ministro Roberto Barroso; HC 190.769-AgR/SP, Ministra Cármen Lúcia):
+    “Se as circunstâncias concretas da prática do delito indicam, pelo ‘modus operandi`, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes.”
+    (HC 182.773-AgR/PB, Ministra Rosa Weber – com meus grifos)
+    Desse modo, não vislumbro a ocorrência de ilegalidade na manutenção da prisão preventiva do paciente.
+    Em face do exposto, indefiro o presente pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 30 de março de 2021.
+Ministro NUNES MARQUES
+Relator
