@@ -1,0 +1,45 @@
+DECISÃO
+Itaú Unibanco S/Ainterpõeagravo internocontra a decisão de fls. 350/351, proferida pelaPresidência destaCorte, que não conheceu do agravo em recurso especial.
+Sustenta o agravante, em síntese, que impugnou os fundamentos dadecisãoque não admitiu o recurso especial.
+A parte agravada não apresentou impugnação.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero
+a decisão ora agravada e passo à análise do recurso.
+Trata-se de agravo manifestado contra decisão que negou seguimentoarecurso especial, no qual se alega violação dos arts. 1º e 4º, IX, da Lei n. 4.595/1964, e 406 do Código Civil, além de dissídiojurisprudencial. O acórdão recorrido está retratado naseguinte ementa(fls. 191/192):
+ABERTURA DE CRÉDITO E OUTRAS AVENÇAS. REVISÃO. PARCIAL PROCEDÊNCIA. APELO DO BANCO DEMANDADO.INCIDÊNCIA DAS NORMAS PROTETIVAS DO CONSUMIDOR, CONQUANTO O MUTUÁRIO SE TRATE DE PESSOA JURÍDICA. PRECEDENTES DO STJ E DESTA CORTE.
+O microssistema consumerista se aplica ao caso, ainda que o mutuário seja pessoa jurídica.
+Em atenção ao art. 6º, inciso V e ao art. 51, ambos previstos no CDC, é patente a possibilidade de revisão, pelo Poder Judiciário, das cláusulas contidas nos contatos que instrumentalizam as relações de consumo, especialmente com o fim de aniquilar as arbitrariedades comumente inseridas nos contratos de adesão, tal como nos contratos de natureza bancária.
+JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central. Nos termos da Súmula nº 530 do STJ, "Nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor". ÍNDICE DE CORREÇÃO MONETÁRIA. UTILIZAÇÃO DO INPC, DADA A AUSÊNCIA DE PREVISÃO CONTRATUAL.
+Na hipótese de impossibilidade de aferição do índice decorreção monetária pactuado, em razão da ausência do contrato nos autos ou de cláusula contratual específica, deve-se utilizar o INPC, já que a atualização da moeda se trata de consectário legal.
+HONORÁRIOS RECURSAIS. FIXAÇÃO INVIÁVEL. AUSÊNCIA DE CONTRARRAZÕES.
+"Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (enunciado administrativo nº 7 do STJ).
+Todavia, não apresentadas as contrarrazões ao recurso interposto, não se justifica a fixação da verba honorária recursal, porque não realizado trabalho adicional pelo causídico.
+APELO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos pelo banco foram rejeitados (fls. 223/231).
+O agravante sustenta que os juros remuneratórios pactuados não são abusivos.
+Afirma, por outro lado, que os juros de mora devem incidir com base na variação da taxa Selic.
+Assim posta a questão, passo a decidir.
+Inicialmente, incideoenunciadon. 282da Súmula do STF acerca da questão da aplicação da taxa Selic aos juros de mora,pois éestranha ao julgado recorrido, a elafaltando o indispensávelprequestionamento, do qual não estão isentassequer as questões de ordempública.
+Verifico, por outro lado, que o Tribunal de origem limitou os juros remuneratórios contratados, conforme os seguintes fundamentos (fls. 202/203):
+(..)
+Na esteira do entendimento acima delineado, esta Câmara julgadora tem considerado como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento) acima da taxa média divulgada pelo Banco Central.
+(..)
+No caso dos autos, a taxa de juros remuneratórios prevista na cédula de crédito bancário  abertura de crédito em conta corrente (LIS Limite Itaú para Saque PJ - Pré), datada de 29.05.2013, é de 126,48% ao ano (fl. 126), enquanto a média de mercado divulgada pelo Banco Central era de 37,16% ao ano.
+Na cédula de crédito bancário Refin  Refinanciamento de Dívida (fls. 111/116), emitida em 25.08.2009, a taxa de juros remuneratórios anual foi pactuada em 89,04%, ao passo que, para o mesmo período de contratação, a média de mercado divulgada pelo Banco Central era de 21,86% ao ano.
+Como se vê, os percentuais pactuados nos contratos acima mencionados excedem em 10% aqueles divulgados pelo Banco Central e, diante disso, verifica-se abusividade em referidos pactos, de modo que devem incidir nas hipóteses as taxas médias de juros divulgadas pelo Bacen, tal como decidido pelo sentenciante.
+(..)
+Observo, entretanto, que tal limitação não merece prosperar.
+Isso porque o Tribunal de origem não identificou nenhuma circunstância peculiar ao caso em julgamento que justificasse o afastamento da taxa de juros contratada.
+A redução da taxa de juros pela Corte local, somente pelo fato de estar acima da média de mercado, sem mencionar nenhuma circunstância relacionada ao custo da captação dos recursos, à análise do perfil de risco de crédito do tomador e ao spread da operação, apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada na Segunda Seção desta Corte nos autos do REsp. 1.061.530/RS.
+Com efeito, registro que o parâmetro abstratamente eleito pela Corte de origem não vincula o STJnem deve prevalecer sobre o pactuado, especialmente em caso como o presente, em que as prestações do mútuo foram prefixadas, de modo que não havia como o consumidor alegar desconhecimento da dívida assumida. Nesse sentido, cito o recente acórdão da Quarta Turma:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(Quarta Turma, Agravo Interno no AREsp. 1.522.043-RS, relator Ministro Marco Buzzi, acórdão de minha relatoria).
+Igualmente, assim decidiu a Quarta Turma, ao julgar o Agravo Interno no AREsp. 1.493.171-RS.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial, para afastar a limitação da taxa de juros remuneratórios nos contratos discutidos acima. Diante da sucumbência mínima do banco, condeno a empresa recorrida no pagamento das custas processuais e dos honorários advocatícios, que fixo em R$ 1.500,00 (mil e quinhentos reais).
+Intimem-se.
