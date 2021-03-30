@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PORTE ILEGAL DE ARMA. RECEPTAÇÃO. FALSA IDENTIDADE. CONSUNÇÃO AFASTADA. MOMENTOS CONSUMATIVOS DISTINTOS ENTRE O CRIME DE RECEPTAÇÃO E O DELITO DE PORTE ILEGAL DE ARMA. CONFISSÃO ESPONTÂNEA. EXPRESSAMENTE CONSIGNADO NO ACÓRDÃO ATACADO QUE O PACIENTE NÃO CONFESSOU. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "a jurisprudência desta Corte está consolidada no sentido da inaplicabilidade da consunção, pois "a receptação e o porte ilegal de arma de fogo configuram crimes de natureza autônoma, com objetividade jurídica e momento consumativo diversos" (HC 284.503/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/04/2016)" (HC n. 396.490/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017).
+III - In casu, a Corte local asseverou, de forma expressa e inquestionável, que o paciente não confessou a prática do delito de falsa identidade. Assim, o acolhimento da tese defensiva demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAICON HONORATO DA SILVA contra a decisão de fls. 451-455, que não conheceu do habeas corpus.
+Nas razões do presente inconformismo (fls. 458-461), a parte agravante alega que "o porte de arma de fogo, no caso dos autos, é fato de mero exaurimento do delito de receptação, e por haver condenação nesse sentido, incorre em bis in idem a dupla punição por mesmo fato gerador do delito" (fl. 458).
+Pondera que "deve o porte de arma ser absorvido pela receptação em homenagem ao princípio da concussão, porque é clara a relação direta entre os dois delitos, visto que manter o produto da receptação consigo constitui um desdobramento natural do crime de receptação" (fl. 459).
+Aduz que, "a respeito da atenuante da confissão espontânea, não se faz necessária a revisão de provas para se concluir pela sua aplicação, pois há no acórdão do TJSC trecho em que os próprios policiais admitem em seus depoimentos que ao se aproximarem da verdadeira residência do paciente, o mesmo admitiu que se chamava Maicon. Ou seja, o paciente assumiu sua verdadeira identidade antes mesmo de chegar à delegacia, e não há seque de depoimento dele em que nega sua identidade verdadeira" (fls. 459-460).
+Requer a concessão da ordem.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PORTE ILEGAL DE ARMA. RECEPTAÇÃO. FALSA IDENTIDADE. CONSUNÇÃO AFASTADA. MOMENTOS CONSUMATIVOS DISTINTOS ENTRE O CRIME DE RECEPTAÇÃO E O DELITO DE PORTE ILEGAL DE ARMA. CONFISSÃO ESPONTÂNEA. EXPRESSAMENTE CONSIGNADO NO ACÓRDÃO ATACADO QUE O PACIENTE NÃO CONFESSOU. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "a jurisprudência desta Corte está consolidada no sentido da inaplicabilidade da consunção, pois "a receptação e o porte ilegal de arma de fogo configuram crimes de natureza autônoma, com objetividade jurídica e momento consumativo diversos" (HC 284.503/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/04/2016)" (HC n. 396.490/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017).
+III - In casu, a Corte local asseverou, de forma expressa e inquestionável, que o paciente não confessou a prática do delito de falsa identidade. Assim, o acolhimento da tese defensiva demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a absolvição do paciente dos delitos de porte ilegal de arma de fogo e de  receptação ; ii) a aplicação da atenuante da confissão espontânea, em relação ao crime de falsa identidade.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Pois bem, no tocante à tese de que o delito de receptação deveria ser absorvido pelo crime de porte de arma de fogo de uso permitido, é necessário salientar que as duas condutas constituem crimes autônomos, que tutelam bens jurídicos diferentes. O art. 180 do Código Penal visa proteger o patrimônio, ao tipificar a aquisição, o recebimento, o transporte, a condução ou ocultação de coisa que sabe ser produto de crime, e o art. 14 da Lei n. 10.826/2003, por outro lado, criminaliza o porte ilegal de arma de fogo de uso permitido no intuito de resguardar a incolumidade pública.
+Além disso, no presente caso, os delitos se consumaram em momentos distintos, pois o acusado adquiriu o revólver furtado em momento anterior à abordagem -inclusive, quando interrogado na delegacia, o apelante especificou que teria comprado o artefato bélico dez dias antes da ocorrência (autos do inquérito, doc. 6) -, ao passo que o crime do art. 14 da Lei n. 10.826/2003 se perfectibilizou quando os policiais flagraram que o recorrente transitava em via pública levando a arma de fogo em seu veículo.
+Logo, não há que se falar em bis in idem ou em absorção de um crime pelo outro.
+ ..
+Ao contrário do alegado pelo apelante, o fato de sua identidade, tão logo, ter sido descoberta pelos policiais militares, em nada afeta a tipicidade da conduta, uma vez que o aludido delito é de natureza formal, cujo bem jurídico tutelado é a fé pública, de modo que a sua consumação ocorre com a simples atribuição de identidade falsa, independentemente de qualquer resultado naturalístico.
+ ..
+In casu, os policiais que realizaram a abordagem do acusado mantiveram firmes seus relatos, em ambas as fases processuais, no sentido de que o réu teria, inicialmente, se apresentado pelo nome de "Jonatha", mas que, após entrarem em contato com outros policiais para verificar se conheciam o réu e depois de insistirem para que este revelasse seu endereço, para confirmarem sua identidade com algum familiar, é que o recorrente admitiu que se chamava Maicon e que teria mandados de prisão em aberto contra si.
+Tal situação pode ser observada pelos depoimentos judiciais anteriormente descritos e pelos relatos extrajudiciais prestados pelos agentes nos docs. 4 e 5 dos autos do inquérito.
+Destaque-se, ainda, que, embora o acusado tenha negado que falseou sua identidade, ratificou que os agentes foram até sua residência para confirmar sua identidade com sua companheira, o que corrobora a narrativa das testemunhas.
+Portanto, evidenciada a consumação do crime, de natureza formal, e a existência de lesão ao bem jurídico, inviável a absolvição do acusado.
+ ..
+Anote-se que, além de a tese de atipicidade da conduta já ter sido refutada na decisão embargada, tampouco seria cabível a aplicação da atenuante espontânea quanto ao crime de falsa identidade, tendo em vista que o embargante negou a prática do delito tanto na delegacia quanto em juízo, além de que foram os depoimentos dos policiais militares no sentido de que o embargante se apresentou a eles como "Jonathan" que serviram como fundamento para a condenação, não o fato de que, quando estava perto de ser desmentido, o embargante resolveu revelar seu nome" (fls. 321-324  , grifei ).
+Com efeito, "a jurisprudência desta Corte está consolidada no sentido da inaplicabilidade da consunção, pois "a receptação e o porte ilegal de arma de fogo configuram crimes de natureza autônoma, com objetividade jurídica e momento consumativo diversos" (HC 284.503/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/04/2016)" (HC n. 396.490/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 01/08/2017).
+ ..
+No mais, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soar es da Fonseca, DJe de 1º/8/2017).
+In casu, a Corte local asseverou que o paciente não confessou a prática do delito de falsa identidade. Assim, o acolhimento da tese defensiva demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I."
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
