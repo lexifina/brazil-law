@@ -1,0 +1,20 @@
+D E C I S Ã O
+    Cuida-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão que, em controle concentrado de constitucionalidade, julgou formalmente inconstitucional a Lei municipal n. 10.227/2018, do Município de Goiânia/GO, cuja ementa abaixo transcrevo:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N.º 10.227/2018 DO MUNICÍPIO DE GOIÂNIA. VÍCIO DE INICIATIVA (ARTIGO 77, INCISOS I E V, CE) A IMPLICAR EM OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES (ARTIGO 2º, CE). PROCEDÊNCIA. INVALIDADE DECLARADA.
+    1. De iniciativa parlamentar, a Lei n.º 10.227/2018 do município de Goiânia alterou a Lei n.º 9.159/2012, disponente sobre a Política de Segurança e Saúde no Trabalho dos Servidores Públicos da Administração Direta e Autárquica do Município de Goiânia, acrescentando ao artigo 6º o inciso VIII e ao artigo 11 o parágrafo único, com 10 (dez) incisos, para incluir entre os programas de prevenção, promoção e educação em saúde desses servidores o Programa de Saúde Ocupacional (PSO). Os acréscimos promovidos impõem despesas ao Executivo, inclusive eventual necessidade de criação de cargos públicos ou contratações ao modo de executar o programa, a par de interferir, impingindo-lhe obrigações, no funcionamento e atribuições da Secretaria de Administração e Recursos Humanos, órgão ao qual endereçada sua efetivação, incorrendo em franca ingerência nas prerrogativas do Prefeito (artigo 77, I e V, Constituição do Estado de Goiás).
+    2. A inobservância da iniciativa de lei também arrosta a harmonia entre os poderes Legislativo e Executivo, traçadas no artigo 2º, caput, Constituição do Estado de Goiás.
+    3. Ação direta procedente para declarar a inconstitucionalidade da Lei n.º 10.227/2018 do município de Goiânia.
+    Em suas razões recursais, a recorrente alega que a manutenção da decisão a quo viola os arts. 2º, caput, e 61, § 1º, II, b, da Constituição Federal, sustentando, em suma, a plena constitucionalidade formal do normativo impugnado, pois a iniciativa da vereança “(...) não adentra objetivamente nas matérias sujeitas à iniciativa reservada do Chefe do Poder Executivo”.
+    É o relatório. Decido.
+    Reputo correto o pronunciamento de origem.
+    As duas Turmas do Supremo Tribunal Federal já fixaram entendimento de que “Ofende a Constituição Federal a lei de iniciativa parlamentar que cria atribuições para órgãos públicos e que trata do provimento de cargos e do regime jurídico dos servidores públicos, uma vez que, no caso, cabe ao chefe do Poder Executivo, privativamente, a deflagração do processo legislativo” (RE 395.912-AgR/SP, Primeira Turma, Ministro Dias Toffoli – com meus grifos), bem como de que “Leis que disponham sobre servidores públicos do Poder Executivo são de iniciativa reservada ao Chefe do Poder Executivo (...)” (RE 353.350-AgR/ES, Segunda Turma, Ministro Carlos Velloso).
+    Em casos fronteiriços, há – entre muitos outros – os seguintes precedentes: ARE 714.074/MA, Ministro Ricardo Lewandowski; RE 1.104.765-AgR/RN, Ministro Roberto Barroso; 1.232.084-AgR/DF, Ministro Alexandre de Moraes.
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Para além disso, o Tribunal Estadual se amparou na análise fático-probatória dos autos para concluir que a lei impugnada, ao haver pormenorizado as ações preventivas do Programa de Saúde Ocupacional (PSO), dispusera, também, sobre a atribuição de órgão público. A devolução, em sede extraordinário, do conhecimento de tal matéria encontra óbice, a toda evidência, no Enunciado 279 da Súmula do Supremo Tribunal Federal.
+    Honorários advocatícios recursais.
+    Ao fundamento de referir-se a recurso interposto em processo de controle concentrado de constitucionalidade na origem, não se aplica o disposto no § 11 do art. 85 do CPC.
+    Em face do exposto, com amparo no inciso VIII do art. 932 do CPC c/c o § 1° do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de março de 2021.
+Ministro NUNES MARQUES
+Relator
