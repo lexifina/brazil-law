@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto pela CSU CARDSYSTEM S.A.contra decisão que inadmitiu o recurso especialadesivo (e-STJ fl. 7.791).
+O acórdão recorrido está assim ementado (e-STJ fl. 7.590):
+AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZAÇÃOPOR PERDAS E DANOS - Contrato de prestação de serviços de administração de cartões de crédito - Contratada que se obrigou ao processamento e à administração de meios eletrônicos de pagamento na relação contratual - Contratante que apurou prejuízo no curso da relação contratual atribuindo culpa à contratada -Contestação e reconvenção da ré - Reconvenção do autor contra a reconvenção da ré - Não recebimento dessa segunda reconvenção- Interposição de agravo de instrumento pelo autor contra a decisão que recusou o recebimento da segunda reconvenção -Recurso provido para admitir a reconvenção do autor - Saneamento do processo com nomeação de perito contábil-Interposição de agravo de instrumento pela ré, argüindo falta de qualificação do nomeado- Recurso não provido - Apresentação de recurso especial, que foi provido para admitir a nomeação de expert qualificado para uma segunda perícia sem prejuízo da perícia contábil - DECRETO DE IMPROCEDÊNCIA DA AÇÃOPRINCIPAL E DA RECONVENÇÃO DO AUTOR, E DEPROCEDÊNCIA PARCIAL DA RECONVENÇÃO DA RÉ -Apelação do autor - Inconformismo - Cabimento parcial - Banco autor que não logrou êxito em comprovar fato constitutivo de seu direito, qual seja, o de que a ré agiu com dolo ou culpa grave -Provas periciais realizadas nos autos que não trouxeram elementos seguros e plenamente esclarecedores visando formar o convencimento da matéria em debate - Análise dos cartões de crédito por amostragem que se mostra deficiente para apontar com segurança serviços mal prestados com dolo ou culpa grave da ré -Auditória contábil encomendada pelo autor que por si só não ampara sua pretensão, porquanto, trata-se de prova unilateral produzida pela parte - Dano moral - Inadimplemento contratual -Não cabimento - Precedentes jurisprudenciais - Reconvenção da ré - Alegação de ausência de notificação - Pretensão ao recebimento de 180 dias posteriores à rescisão contratual ao preço dos serviços contratados - Afastamento - Hipótese em que a falha e erros na prestação dos serviços, ainda que em proporções não apuradas adequadamente, recomendavam a rescisão do contrato, sob pena de se causar danos de proporções irreparáveis ao banco autor -Sentença reformada em parte- RECURSO PROVIDO EMPARTE, para o fim de julgar totalmente improcedente a reconvenção oposta pela ré, nos termos da fundamentação do acórdão, com imposição de sucumbência recíproca às partes.
+Os embargos de declaração foram rejeitados (e-STJ fls. 7.626/7.631).
+No recurso especial (e-STJ fls. 7.707/7.717), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 458, II, e 473do CPC/1973.
+Aduziu que o acórdão recorrido não foi devidamente fundamentado.
+Sustentou que, em caso de resilição unilateral, o recorrido deveria ter notificado previamente a recorrente.
+No agravo (e-STJ fls. 7.794/7.804), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial principal, interposto por BANCO PROSPER S.A. (e-STJfls. 7.634/7.648), não foi admitido na origem (e-STJ, fls. 7.788/7.790), e o agravo que se seguiu (e-STJ, fls. 7.794/7.806), julgado monocraticamente nesta mesma oportunidade, foi desprovido.
+De acordo com a jurisprudência desta Corte, "a inadmissibilidade do recurso especial principal, qualquer que seja o seu fundamento, inviabiliza o conhecimento do recurso adesivo, nos termos do art. 997, III, do CPC/2015 (correspondente ao art. 500, III, do CPC/1973)"(AgInt no AREsp n. 1.582.951/MS, Reator. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/6/2020).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ADESIVO.INADMISSÃO DO RECURSO PRINCIPAL. PREJUDICIALIDADE.
+1. De acordo com a jurisprudência desta Corte, a inadmissibilidade do recurso especial principal, qualquer que seja o seu fundamento, inviabiliza o conhecimento do recurso adesivo, nos termos do art.
+997, § 2º, do CPC/2015 (correspondente ao art. 500, III, do CPC/1973). Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.607.421/SP, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/6/2020, DJe 3/8/2020.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSOS ESPECIAIS PRINCIPAL E ADESIVO . FALÊNCIA. AÇÃO DE RESTITUIÇÃO. NÃO PROVIMENTO DO RECURSO PRINCIPAL SEM ANÁLISE DO MÉRITO. RECURSO ADESIVO. NÃO CONHECIMENTO. PREJUDICIALIDADE. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Interposto recurso especial principal e adesivo, e decidido o primeiro sem ingresso no mérito, fica prejudicado o recurso adesivo.Precedentes.
+2. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.418.786/RJ, RelatoraMinistra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/5/2020, DJe 6/5/2020.)
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
