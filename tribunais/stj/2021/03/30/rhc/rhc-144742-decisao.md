@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MICHELLI DA SILVA ROCHA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no HC n. 0124066-47.2020.8.21.7000.
+Consta dos autos que a Recorrente e mais dois agentes foram presos em flagranteno dia 11/07/2020pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006, porquanto apreendidos
+"1) em poder de MICHELLI: 54g  13,20g de cocaína, 08 comprimidos de Ecstasy, 06 pontos de LSD, R$280,00, em notas diversas;2) em poder de EVERTON: 1.475 pontos de LSD, 15g de cocaína, 10,50g de maconha, 240g  150g de Ecstasy, 05 frascos de Cetamin, 1 balança, 05 cápsulas de munição deflagradas, de calibres diversos e 01 cápsula de munição intacta, calibre 38, R$367,00 em notas diversas; 3) em poder de VALDINEI: 370g  220g  7.750g de maconha, 6,5  12,5g de cocaína, 06 pontos de LSD, 09 comprimidos de Ecstasy, cerca de R$1.750,00 em notas diversas, 03 balanças, 03 celulares, 01 máscara de borracha e 03 cápsulas deflagradas de munição calibre 38" (fl. 49).
+A prisão foi convertida em preventiva no dia seguinte ao flagrante, e o pedido de revogação da segregação cautelar foi indeferido.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, cuja ordem foi conhecida em parte e, nessa extensão, denegada nos termos do acórdão assim ementado (fl. 66):
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSURGÊNCIA DEFENSIVA.
+I.Habeas corpus que comporta parcial conhecimento, pois, em impetração anterior, as circunstâncias e a legalidade da segregação da indiciada, assim como a insuficiência das medidas cautelares alternativas - inclusive, da constrição domiciliar -, no caso, já foram analisadas por esta Corte, sendo inviável a renovação de instância para apreciação das mesmas questões.
+II. Inocorrência de excesso de prazo para formação da culpa, pois não verificada, ao menos por ora, desídia por parte do juízo ou da acusação. A prisão preventiva da paciente não ultrapassa oito meses, até o momento, período que não se mostra elevado ao ponto de a constrição se tornar ilegal. Ademais, dadas as suas particularidades, e considerando o atual momento global, o feito vem recebendo razoável impulsionamento pela autoridade apontada como coatora, que, segundo afirmou, em breve, aprazará a devida audiência de instrução. Mantida a prisão preventiva.
+ORDEM DENEGADA. UNÂNIME."
+Napresente insurgência, aduz-se, de início, que a Recorrente "encontra-se presa a mais de 100 dias, sem audiência marcada, término ou previsão de término da instrução processual" (fl. 87). Afirma-se que a Recorrente "é mãe de uma filha menor, e que detém a guarda. Ainda, a menor se encontra realizando tratamento psicológico" (fl. 88). Aduz-se, assim, que faz jus à prisão domiciliar.
+Requer-se, liminarmente e no mérito, a soltura da Recorrente ou, subsidiariamente, a substituição da prisão cautelar pela prisão domiciliar.
+É o relatório.
+Decido o pedido urgente.
+Na espécie, a ilegalidade ora sustentada deixou de ser examinada no acórdão objeto do presente feito à base da seguinte fundamentação (fls. 71-75; grifos diversos do original):
+"Adianto que o presente habeas corpus comporta parcial conhecimento.
+Isso porque a legalidade e a necessidade da segregação da paciente, assim como a insuficiência das medidas cautelares diversas - inclusive da prisão domiciliar -, no caso, já foram analisadas no habeas corpus tombado sob o nº 70084387612, apreciado por esta Câmara Criminal, na sessão de julgamento do dia 25 de agosto de 2020, ocasião em que o Colegiado decidiu, à unanimidade, pela sua denegação.
+ ..
+Por ser inviável a renovação de instância para análise dos mesmos pedidos, não se mostra possível a apreciação das teses concernentes à legalidade e necessidade da segregação preventiva, bem como à insuficiência da constrição domiciliar, in casu, pois já trazidas nas impetrações anteriores."
+Como se vê, o acórdão vergastado não tratou do tema referente à idoneidade da prisão preventiva da Recorrente ou da sua substituição por prisão domiciliar. Dessa forma, não é possível apreciar o pleito ora deduzido.
+Em relação ao alegado excesso de prazo para formação da culpa, destaco que o retardo injustificado à prestação jurisdicional viola o princípio da duração razoável do processo, previsto no art. 5.º, inciso LXXVII, da Constituição da República, acrescido pela Emenda Constitucional n. 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação").
+No caso, todavia, não há como reconhecer, na presente fase processual, estreme de dúvidas, que ocorre violação desse princípio, sem que sejam prestadas informações pelo Juízo de primeira instância.
+Ante o exposto, INDEFIRO o pedido liminar.
+Solicitem-se informações pormenorizadas ao Juízo de primeira instância para que preste esclarecimentos precisos sobre o andamento da ação penal, esclarecendo quais os esforços estão sendo envidados para océlere o julgamento daRecorrente.
+Após, ouça-se o Ministério Público Federal.
+Publique-se. Intimem-se.
