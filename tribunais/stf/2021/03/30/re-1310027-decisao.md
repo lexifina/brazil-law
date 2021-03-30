@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+    “APELAÇÕES CÍVEIS. SAÚDE. DISPONIBILIDAÇÃO DE FÁRMACO. PRELIMINARES. PERDA DO OBJETO. ILEGITIMIDADE PASSIVA. AFASTADAS. CONDENAÇÃO DO ESTADO EM HONORÁRIOS SUCUMBENCIAIS. PARTE VENCEDORA ASSISTIDA PELA DEFENSORIA PÚBLICA. NÃO CABIMENTO. SÚMULA 421, DO STJ. ALEGAÇÃO DE NECESSIDADE DE OITIVA DO NAT. BLOQUEIO DE ATIVOS FINANCEIROS. POSSIBILIDADE.
+    1 - Não se encontra esgotado o objeto da ação, já que a pretensão formulada pela demandante não está integralmente satisfeita, sobretudo porque a medicação requerida deve ser fornecida continuadamente e sem interrupção pelo tempo imperioso do tratamento da enfermidade.
+    2 - Há responsabilidade solidária da União, Estados, Municípios e do Distrito Federal na assistência à saúde. Precedentes STF. Ilegitimidade passiva do Município afastada.
+    3 - A Defensoria Pública Estadual, quando patrocina a parte vencedora, não faz jus aos honorários sucumbenciais decorrentes de condenação, se a parte adversa pertencer ao mesmo ente público ao qual integra, na forma da Súmula nº. 421, do STJ.
+    4 - O NAT – Núcleo de Apoio Técnico tem caráter consultivo e não decisório. Logo, a inexistência de parecer do referido órgão não autoriza a nulidade da sentença, quando devidamente fundamentada.
+    5 - Cabe ao magistrado adotar medidas eficazes à efetivação de suas decisões, podendo, inclusive, determinar o bloqueio dos ativos financeiros do ente público.
+    6- Apelações conhecidas e não providas.
+    REEXAME NECESSÁRIO. CONDENAÇÃO DO ESTADO AO PAGAMENTO DE CUSTAS PROCESSUAIS. EQUÍVOCO. FAZENDA PÚBLICA DEVE APENAS RESSARCIR AS DESPESAS ANTECIPADAS EM CASO DE DERROTA. CONFUSÃO PATRIMONIAL.
+    7 - A Fazenda Pública Estadual, quando ré na demanda e tendo sido vencida, não deve ser condenada ao pagamento das custas processuais, mas, sim, ao ressarcimento de eventuais despesas processuais antecipadas pela parte vencedora, uma vez que, o pagamento das custas acarretaria inegável confusão patrimonial, já que o aludido ente estadual, nessa situação, seria credor e devedor de si mesmo, não podendo, pois, subsistir a determinação de pagamento.
+    8 - Reexame conhecido e provido, apenas para afastar sua condenação ao pagamento das custas processuais.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte sustenta a ocorrência de violação ao art. 196 da CF.
+    O recurso extraordinário deve ser provido. No julgamento do RE 855.178-RG (Rel. Min. Luiz Fux), paradigma do Tema 793, o Plenário do Supremo Tribunal Federal fixou tese nestes termos: o “tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, sendo responsabilidade solidária dos entes federados, podendo figurar no polo passivo qualquer um deles em conjunto ou isoladamente”.
+    Ao julgar os embargos de declaração opostos no RE 855.178-RG, em 23 de maio de 2019, a Corte complementou a orientação, para fazer constar da redação da tese o seguinte: os “entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro".
+    No caso dos autos, o acórdão recorrido reconheceu a responsabilidade solidária dos entes federados, mas, quanto à parte final do Tema 793, não procedeu ao direcionamento da demanda ao ente responsável pelo fornecimento dos medicamentos pleiteados. Constata-se, portanto, inobservância à jurisprudência desta Corte.
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário e determino o retorno dos autos para que o Tribunal de origem proceda a novo julgamento com aplicação do precedente estabelecido no RE 855.178-RG (Tema 793).
+    Quanto ao recurso extraordinário interposto pela Defensoria Pública, o STF reconheceu a repercussão geral da questão relativa ao pagamento de honorários à Defensoria, em litígio com ente público ao qual vinculada (Tema 1002, sob minha relatoria), de modo que devem ser observadas as disposições dos arts. 1.036 do CPC e 328, parágrafo único, do RI/STF.
+    Publique-se.
+                Brasília, 30 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
