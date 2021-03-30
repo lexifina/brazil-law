@@ -1,0 +1,44 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ALTAÍDES JOSÉ DE SOUSA e JOSÉ NUNES DE SOUSA(JOSÉ e outro) ajuizaram ação de execução de honorários advocatícios em fase de cumprimento de sentença contra BANCO DO BRASIL S.A. (BANCO)
+O d. Juizo de primeira instância homologou o cálculo apresentado pelos exequentes no valor de R$69.323,64 (sessenta e nove mil, trezentos e vinte etrês reais e sessenta e quatro centavos).
+Contra essa decisão interlocutória, BANCO interpôs agravo de instrumento e o Tribunal estadual negou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE HONORÁRIOS EM FASE DE CUMPRIMENTO DE SENTENÇA. PRECLUSA. HOMOLOGAÇÃO DE CÁLCULOS. MATÉRIA PRECEDENTES DO STJ E DESTE TRIBUNAL. 1. O agravo de instrumento é um recurso secundum eventum litis, logo, deve o Tribunal limitar-se apenas ao exame do acerto ou desacerto da decisão singular atacada, no aspecto da legalidade, uma vez que ultrapassar seus limites, seria antecipar o julgamento de questões não apreciadas pelo juízo de primeiro grau, o que importaria na vedada supressão de instância. 2. Oportunizada a manifestação e mantendo-se inerte, a parte concorda tacitamente com os cálculos apresentados pela parte adversa, tornando-se preclusa a possibilidade de discussão diante da ausência de impugnação no momento oportuno por vias próprias, nos termos do art. 507 do CPC. RECURSO DESPROVIDO (e-STJ, fl.64).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 94/96).
+Inconformado, BANCO manejou recurso especial com fundamento no art. 105, III, a , da CF, alegando a violação dos arts.405 do CC/02 e 240, 489, 494, I, e 509 do NCPC(e-STJ, fls.111/127).
+Foram apresentadas as contrarrazões (e-STJ, fls. 139/146).
+O apelo nobre não foi admitido em virtude da (1) incidência da Súmula nº 7 do STJ; e (2) da incidência da Súmula nº 282, do STF, por analogia (e-STJ, fls. 148/149).
+Nas razões do presente agravo em recurso especial, BANCO afirmou que (1) houve usurpação de competência pelo Tribunal estadual ao proferir o juízo de prelibação e que não foi obedecida a Súmula nº 123 do STJ; (2) não se trata de incidência da Súmula nº 7 do STJ; e (3) não se trata de aplicação da Súmula nº 282 do STF, por analogia, porquanto os temas relativos aos dispositivos apontados como violados, arts.9º,10 e 494, I, do NCPC foram prequestionados (e-STJ, fls.152/177).
+Foi apresentada contraminuta (e-STJ, fls. 177/187).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do juízo de prelibação do especial
+Inicialmente, quanto ao juízo de admissibilidade, é relevante afirmar que o TJPR, ao realizá-lo, atendeu perfeitamente aos ditames legais, estando em perfeita consonância com a Súmula nº 123 do STJ.
+Ressalte-se, ademais, que o referido juízo é bifásico, ou seja, o primeiro juízo realizado no Tribunal estadual não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana àquele.
+Desta forma, não há usurpação de competência do Tribunal estadual ao incursionar no mérito do especial.
+Confiram-se os precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE ATENDIDOS. ANÁLISE DE MÉRITO DO ESPECIAL. CONTROLE BIFÁSICO. APELAÇÃO. 514, II, DO CPC. ATENDIMENTO.
+1. O juízo de admissibilidade do recurso especial é bifásico e, como tal, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+2. O exame de mérito do apelo nobre já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito a esse respeito.
+3. "A reprodução, na apelação, dos argumentos já lançados na petição inicial ou na contestação não é, em si, obstáculo bastante para negar conhecimento ao recurso" (AgRg no AREsp nº 175.517/MS, Relator Ministro Sidnei Beneti, Terceira Turma, DJe 27/6/2012).
+4. Agravo regimental não provido.
+(AgRg no AREsp 489.138/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/9/2014, DJe 26/9/2014 - sem destaques no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SÚMULA 216/STJ. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. STJ NÃO VINCULADO.(..)
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+3. "A tempestividade de recurso interposto no Superior Tribunal de Justiça é aferida pelo registro no protocolo da secretaria e não pela data da entrega na agência do correio." (Súmula 216/STJ).4. O recurso mostra-se manifestamente infundado, a ensejar a aplicação da multa prevista no artigo 557, § 2º, do CPC.5. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.
+(EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/5/2014, DJe 21/5/2014 - sem destaques no original)
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o fundamento da decisão agravada, pois BANCO não refutou, de forma arrazoada, a não incidência da Súmula nº 282 do STJ, por analogia.
+Nas razões do agravo em recurso especial, BANCO afirmou em relação a não admissão do apelo nobre em virtude da incidência da Súmula nº 282 do STF, por analogia o seguinte:
+"que o acórdão que julgou o agravo de instrumento violou os artigos 9 10 e 494, I, do CPC, sendo que tais matérias foram ventiladas no agravo de instrumento e recurso especial, portanto equivocado o julgado que teve por decidir que esbarrou na súmula 282, do STF" (e-STJ, fl. 161).
+Da leitura das razões do recurso especial do BANCO, verifica-se que os dispositivos apontados como violados foram os arts. 405 do CC/02 e 240, 489, 494, I, e 509 do NCPC e o Tribunal goiano ao realizar o juízo de admissibilidade examinou os temas relativos as mencionadas normas, consignando que excetuando o art, 489, do NCPC, os demais dispositivos não foram prequestionados, devendo ser aplicado o óbice da Súmula nº 282 do STF, por analogia.
+Dessa forma, verifica-se que BANCO deixou de impugnar, de forma argumentativa, a ausência de prequestionamento dos arts. 405 do CC/02 e 240, 494, I, e 509 do NCPC.
+De acordo com a jurisprudência desta Corte Superior e em obediência ao princípio da dialeticidade, exige-se do recorrente o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se funda a decisão agravada, técnica ausente nas razões dessa irresignação.
+De fato, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge ( AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO QUE NÃO INFIRMA O FUNDAMENTO DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
