@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto por Navegação Aliança Ltda, pela alínea “a” do permissivo constitucional, contra acórdão da 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº 13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL. Desde que observados os princípios constitucionais da anterioridade nonagesimal e da irretroatividade, inexiste qualquer óbice à revogação do regime de desoneração da folha e na retomada da sistemática de apuração anterior, durante o próprio ano calendário (Lei 13.670/2018)”.
+    Sustenta a parte recorrente que houve violação ao artigo 5º, inciso XXXVI e 150, III, “b”, do texto constitucional.
+    A parte recorrente alega que houve violação ao direito adquirido, ao ato jurídico perfeito, à segurança jurídica, à proteção da confiança legítima e à isonomia.
+    Aduz, ainda, que deve ser garantido à parte recorrente o direito líquido e certo de recolher a contribuição previdenciária sobre a Receita Bruta, até o final do ano-calendário de 2018.
+    É o relatório.
+    Decido.
+    Preliminarmente, esclareça-se que as contribuições sociais, caso dos autos, devem observar somente a anterioridade nonagesimal, nos termos do art. 195, §6º da CF/88, e não a anterioridade geral, prevista no art. 150, III, “b”, da CF/88, de modo que não há que se falar na violação ao citado dispositivo constitucional, nem aos princípios constitucionais suscitados.
+    Ademais, esta Corte firmou precedente em sede de repercussão geral, que deu origem ao tema 1.109, cujo paradigma é o RE 1.286.672, pela ausência de repercussão geral da discussão em apreço.
+    Na oportunidade, decidiu-se pela incidência da Súmula 279/STF e pela inexistência de questão constitucional na discussão em testilha, concluindo-se, ainda, pela ausência de repercussão geral da matéria. Confira-se a ementa do acórdão proferido:
+    “Recurso extraordinário. Repercussão geral. Contribuição sobre a folha de salários. Artigo 22, I, da Lei nº 8.212/1991. Contribuição substitutiva sobre a receita bruta. Artigos 7º e 8º da Lei nº 12.547/2011. Alterações da Lei nº 13.670/2018. Exclusão de determinadas atividades econômicas do regime substitutivo. Princípio da anterioridade. Ausência de afronta (art. 11 da Lei nº 13.670/18). Direito adquirido e ato jurídico perfeito. Irretratabilidade no exercício de 2018. Fatos e provas (Súmula nº 279/STF). Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário a que se nega seguimento. Firmada a seguinte tese de repercussão geral: É infraconstitucional e depende da análise de fatos e provas, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à alteração legislativa promovida pela Lei nº 13.670, de 2018, que excluiu da opção pela contribuição substitutiva (CPRB) as pessoas jurídicas que fabricam determinados produtos, inclusive no que se refere à irretratabilidade prevista no art. 9º, § 13, da Lei nº 12.546, de 2011”. (RE 1286672 RG, Tribunal Pleno, de minha relatoria, Dje 26/02/2021).
+    Corroborando esse entendimento, tem-se os acórdãos abaixo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA CPRB. REVOGAÇÃO DO REGIME TRIBUTÁRIO DE DESONERAÇÃO DA FOLHA DE SALÁRIOS. APLICAÇÃO DA LEI N. 13.670/2018: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 1.109). ANTERIORIDADE NONAGESIMAL E IRRETROATIVIDADE: OBSERVÂNCIA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 1285866 AgR, Segunda Turma, Min. Rel. Cármen Lúcia, Dje 21/01/2021).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista que não houve condenação na instância de origem, nos termos da Súmula nº 512/STF.
+    Brasília, 30 de março de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
