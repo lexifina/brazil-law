@@ -1,0 +1,12 @@
+DECISÃO
+Trata-sede habeas corpus com pedido de liminar impetrado em favor de JULIANO MORAIS DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC-5047148-78.2020.8.24.0000).
+No presente writ, renovando os fundamentos da impetração originária (não conhecida na Corte de origem em razão da interposição do agravo em execução - recurso próprio), sustenta a defesa que a detração operada pelo Juízo de 1º grau deixou de contar como pena efetivamente cumprida, o que prejudica o paciente em relação à data-base para fins de progressão de regime prisional.
+Ao final, requer seja alterada a data-base do requisito objetivo da progressão e concedida, e, consequência o regime aberto ao paciente.
+Indeferido o pleito liminar pela Presidência deste Superior Tribunal de Justiça (e-STJ fls. 142/143)e prestadas as informações solicitadas (e-STJ fls. 298/330), opinou o Ministério Público Federal "pela denegação da ordem" (e-STJ fls. 345/346).
+É o relatório. Decido.
+Das informações colhidas no endereço eletrônico do TJ/SC, observa-se que o Agravo em Execução nº 5030030-35.2020.8.24.0018 foi julgado na sessão de 13/2/2021, sendo provido o recurso interposto pelo ora paciente. Eis a ementa do julgado:
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL. INSURGÊNCIA DEFENSIVA CONTRA A DECISÃO QUE NÃO CONSIDEROU PERÍODO DE DETRAÇÃO PARA EFEITOS DE PROGRESSÃO DE REGIME. ALMEJADA A REFORMA DO DECISUM. O PLEITO PROSPERA. PERÍODO DE PRISÃO PROVISÓRIA, COM SENTENÇA ABSOLUTÓRIA TRANSITADA EM JULGADO, QUE DEVE SER CONTABILIZADO PARA FINS DE PROGRESSÃO DE REGIME. INTELIGÊNCIA DOS ARTS. 42 DO CÓDIGO PENAL E 387, § 2º, DO CÓDIGO DE PROCESSO PENAL. ADEMAIS, REQUISITO SUBJETIVO PREENCHIDO, CONFORME JÁ ANALISADO PELO MAGISTRADO DA EXECUÇÃO. CONCESSÃO AO REGIME ABERTO QUE SE IMPÕE, DESDE JÁ. RECURSO CONHECIDO E PROVIDO.
+1. Para o cálculo da detração, o tempo de prisão cautelar deve ser considerado como pena efetivamente cumprida e descontado do montante exigido para a progressão de regime, e não ser abatido da pena aplicada na sentença a fim de impor-se, sobre o saldo remanescente, a fração de progressão correlata.  ..  RECURSO CONHECIDO E PROVIDO. (TJSC, Agravo de Execução Penal n. 0001198-71.2020.8.24.0020, de Criciúma, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 08-09-2020).
+Assim, satisfeita a pretensão deduzida naimpetração, fica sem objeto o presente writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Intimem-se.
