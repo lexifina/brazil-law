@@ -1,0 +1,31 @@
+VISTOS.
+Trata-se de recurso especial interposto por MARIA APARECIDA DOMINGOS, com fundamento no art. 105, III, “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Público e Coletivo deste Sodalício, que restou assim ementado:
+“APELAÇÃO CÍVEL/REMESSA NECESSÁRIA – AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS – ATENDIMENTO MÉDICO EM HOSPITAL PÚBLICO MUNICIPAL – RESPONSABILIDADE CIVIL OBJETIVA – TEORIA DO RISCO ADMINISTRATIVO – ÓBITO DE PACIENTE – CONDENAÇÃO DO MUNICÍPIO POR FALHA NA PRESTACAO DO SERVIÇO HOSPITALAR E ERRO MÉDICO – NEXO DE CAUSALIDADE – NÃO DEMONSTRAÇÃO –– RESPONSABILIDADE DO MUNICÍPIO – INEXISTÊNCIA – TEORIA DA PERDA DA CHANCE – AFASTADA – RECURSO PROVIDO – RECURSO DA AUTORA E REMESSA NECESSÁRIA PREJUDICADAS.
+1. Em se tratando de responsabilidade civil, três são os requisitos cuja existência se faz necessária para a configuração da obrigação de indenizar, quais sejam, a conduta ilícita, omissiva ou comissiva, do agente, o nexo causal e o dano.
+2. A Constituição Federal de 1988 consagrou a teoria do risco administrativo, respondendo o ente público, objetivamente, pelos danos que causar a terceiros, desde que estabelecido o nexo de causalidade entre o ato da Administração e o prejuízo.
+3. A teor das provas coligidas aos autos, a ausência de erro médico e no atendimento dispensado à filha da Autora, não há falar no reconhecimento do dever de indenizar pela morte daquela, a qual decorreu de causas naturais alheias ao tratamento médico. Ausência de demonstração do nexo de causalidade entre o falecimento da infante e a prestação do serviço por parte do Apelante, não se desincumbindo os demandantes do ônus imposto pelo artigo 373, I, do CPC.
+4. A teoria da perda de uma chance pode ser utilizada como critério para a apuração de responsabilidade civil, ocasionada por erro médico, na hipótese em que o erro tenha reduzido possibilidades concretas e reais de cura de paciente, situação não evidenciada no presente caso.”
+Os embargos de declaração opostos contra o aresto foram rejeitados (Id. 61654982).
+Inconformado, nas razões do recurso especial, alega, em síntese, violação aos artigos 186 e 927 do CPC, requerendo a revaloração do laudo pericial contido nos autos.
+Ao final, pugna pela reforma do acórdão, de forma a condenar a Fazenda Pública do Município de Alta Floresta a indenizar os danos morais e materiais.
+Contrarrazões no id. 78468499.
+Recurso tempestivo, conforme certidão de id. 69742951.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+No caso dos autos, “a controvérsia posta em debate neste Tribunal Superior – e a questão na qual reside a violação legal pelo Tribunal de Justiça – cinge-se à demonstração do nexo de causalidade”, uma vez que “o Tribunal a quo entendeu que a comprovação desse requisito somente poderia ser feita por perícia técnica”.
+Assevera, no entanto, quando “ressaltada a existência do laudo necroscópico, e a conclusão nele constante, o Tribunal manteve o deslinde da ação – violando frontalmente as normas acerca da responsabilidade civil e o direito da Recorrente em ser indenizada pelos danos sofridos”.
+Diante disso, “busca-se, então, a revaloração do laudo pericial por este Tribunal Superior – única forma de garantir a tutela do direito da Recorrente”.
+Pois bem, a suposta violação aos artigos 186 e 927, ambos do CPC, em que se pretende infirmar a conclusão do laudo pericial contido nos autos, necessita de exame dos fatos e provas, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGLIGÊNCIA DA EQUIPE MÉDICA. FALHA NA PRESTAÇÃO DOS SERVIÇOS PELO HOSPITAL. NEXO CAUSAL CONFIGURADO. REEXAME DE PROVAS. SÚMULA 7/STJ. DANOS MORAIS. VALOR INDENIZATÓRIO RAZOÁVEL. JUROS DE MORA. TERMO INICIAL. HONORÁRIOS ADVOCATÍCIOS. PATAMAR LEGAL. 1. Inviável a análise do recurso especial quando dependente de reexame de matéria fática da lide (Súmula 7 do STJ). 2. No que se refere à valoração das provas, como destinatário final, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento. 3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade. 4. Os juros de mora devem ser mantidos nos termos em que determinado pelo Tribunal estadual não se aplicando, especificamente, ao caso o enunciado 54 da Súmula do STJ, em virtude do princípio que veda a reformatio in pejus. 5. Sendo arbitrados os honorários advocatícios de acordo com os patamares legais, e não havendo manifesto excesso ou insuficência, não cabe a esta Corte rever o valor fixado na origem. 6. Agravo regimental a que se nega provimento. (STJ - AgRg no AREsp: 634241 SP 2014/0322331-2, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 03/03/2015, T4 - QUARTA TURMA, Data de Publicação: DJe 11/03/2015)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso interposto por MARIA APARECIDA DOMINGOS.
+Publique-se. Intimem-se.
+Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
