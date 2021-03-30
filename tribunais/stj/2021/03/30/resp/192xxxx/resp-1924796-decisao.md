@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO CIVIL.DESCONTOS DE REMUNERAÇÃO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL. REPOSIÇÃO AO ERÁRIO. SITUAÇÃO PECULIAR, NA QUAL EVIDENCIADA, ADEMAIS, A BOA-FÉ DO BENEFICIÁRIO. ACOLHIMENTO DO PEDIDO PARA RECONHECER A ILICITUDE DOS DESCONTOS.
+1. Trata-se o percentual referente à URP de parcela remuneratória que foi incorporada à folha de pagamentos entre as décadas de 1980 e 1990, incorporação que decorreu, tenha ou não havido interpretação equivocada do título, em tese, de decisão judicial (ação trabalhista). Os servidores, saliente-se, figuraram como substituídos, pelo que a iniciativa, de rigor, sequer foi pessoal.
+2. Razoável o entendimento de que, em tese, os valores, até que afirmado em definitivo que deveria ocorrer a cessação, estavam sendo recebidos (e a própria Administração entendia assim) por força de decisão judicial (ação trabalhista). Sendo este o quadro, aplicável a mesma ratio que inspirou os precedentes do Superior Tribunal de Justiça no sentido de que descabida a restituição de valores recebidos por conta de decisão judicial transitada em julgado.
+3. Acolhimento do pedido para declarar indevidos os descontos questionados.
+Os Embargos de Declaração foram rejeitados.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação, em preliminar, do art. 1.022 do Código de Processo Civil (CPC), de 2015, sob o argumento de que a omissão apontada nos Embargos de Declaração não foi suprida. Aduz ainda que, no mérito, houve afronta dos arts. 300, 302, 337, 485, 502 e 503 do CPC/2015; dos arts. 876, 884 e 885 do Código Civil; dos arts. 53 e 54 da Lei 9.784/1999; e dos arts. 46, 30e 114 da Lei 8.112/1990.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.3.2021.
+No caso dos autos, discute-se o dever de restituição de valores relativos à URP de fevereiro de 1989.
+Verifico, todavia, que a matéria versada no apelo foi submetida a julgamento no Rito dos Recursos Repetitivos (REsp 1.769.306/AL e REsp 1.769.209/AL, que cuidam do Tema 1.009: "O Tema 531 do STJ abrange, ou não, a devolução ao Erário de valores recebidos de boa-fé pelo servidor público quando pagos indevidamente por erro operacional da Administração Pública"). Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que enseje às instâncias de origem exercerem o juízo de retratação na forma dos artigos 1.039 a 1.041 do CPC/2015.
+No mesmo sentido, recentes decisões monocráticas: EDcl no REsp 1.764.797/PR, Relator Ministro Francisco Falcão, DJe 29.11.2018; TutPrv no REsp 1.737.903/PR, Relator Ministro Benedito Gonçalves, DJe 19.11.2018.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1039 e 1.041 do CPC/2015, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada dos tribunais superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
