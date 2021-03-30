@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias, dentro do seu livre convencimento motivado, consideraram, com base nos elementos concretos constantes dos autos, que o réu se dedicava às atividades criminosas e integrava organização criminosa, o que afasta a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006.
+2. Para entender de modo diverso, afastando-se a conclusão de que o agravante não se dedicaria a atividades delituosas ou de que não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, vedada em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+3. Agravo regimental não provido
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FRANKLIN FERMINO DA COSTA MATOS interpõe agravo regimental contra decisão de minha relatoria, em que deneguei o habeas corpus e, por conseguinte, mantive inalterada a reprimenda a ele imposta, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que o recorrente não possui envolvimento com organização criminosa bem como que não é reincidente.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja aplicada a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias, dentro do seu livre convencimento motivado, consideraram, com base nos elementos concretos constantes dos autos, que o réu se dedicava às atividades criminosas e integrava organização criminosa, o que afasta a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006.
+2. Para entender de modo diverso, afastando-se a conclusão de que o agravante não se dedicaria a atividades delituosas ou de que não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, vedada em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+3. Agravo regimental não provido
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Alega o impetrante que deve ser afastado o impedimento relativo à reincidência a fim de que o agravante faça jus à minorante, uma vez que o juiz sentenciante desconsiderou a referida agravante, ante a juntada da certidão da execução criminal que indica a extinção da punibilidade.
+No entanto, segundo se depreende do mesmo excerto da sentença referida pela defesa, o magistrado manteve a pena apurada uma vez que " o réu dedicava-se as atividades criminosas e integra organização criminosa" (fl. 698). Desse modo, fica mantida a impossibilidade de concessão da minorante, ante a fundamentação idônea apresentada.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4o, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5a T., DJe 11/6/2019).
+Ainda, por cautela, ressalto não ter havido a ocorrência de bis in idem na dosimetria da pena, porquanto a Corte estadual, na primeira fase, sopesou especialmente a natureza e a quantidade de drogas apreendidas para fins de exasperação da pena-base; já na terceira etapa, considerou não só a quantidade de substâncias apreendidas como também o fato de o réu ser integrante de organização criminosa para concluir que o acusado se dedicaria a atividades delituosas, especialmente o narcotráfico.
+Registro que, segundo o Supremo Tribunal Federal, não há bis in idem quando, além da quantidade de drogas apreendidas, existirem outros elementos concretos dos autos que permitam a conclusão de que o agente se dedica a atividades criminosas ou integra organização criminosa.
+No mesmo sentido: STF, HC n. 130.592/SP (DJe 11/10/2016), de relatoria do Ministro Dias Toffoli.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, vedada na via estreita do habeas corpus.
+À vista do exposto, nego provimento ao agravo regimental.
