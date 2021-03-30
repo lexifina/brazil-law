@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ, o qual recebeu a seguinte ementa (e-STJ fl. 1.032):
+CIVIL. DECLARATÓRIA DA EXISTÊNCIA DE CRÉDITO.
+Ação declaratória visando estabelecer a existência de crédito em favor do autor.
+Em vida o Embaixador Assis Chateaubriand constituiu o "Condominio Acionário dos Diários Associados", distribuindo entre os colaboradores, pela via da doação, 49% da participação total. Uma das cotas coube ao polo autor. Este pleiteou sua saída do Condomínio buscando a indenização prevista no documento de doação.
+Controvérsia restrita a forma de apuração da quota parte que cabe ao autor.
+Prova pericial que apurou a verba indenizatória levando em consideração apenas as declarações de Rendimentos ao Imposto de Renda e respectivos informes anuais de rendimentos.
+Escritura de doação que estabelece que, o donatário que se retirar após cinco anos de colaboração legal e efetiva na realização do fins visados e impostos pelo doador, receberá em dinheiro o equivalente ao valor da sua quota parte ideal, na base do valor nominal (cláusula VI, letra "i").
+Pericia inconclusiva. Anulação da sentença para que outra prova pericial se realize. Provimento do recurso para essa finalidade. Unânime.
+Os primeiros embargos de declaração foram rejeitados(e-STJ fls. 1.081/1.083).
+Os segundosaclaratórios foram acolhidos nos termos da seguinte ementa (e-STJ fl. 1.109):
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO.OCORRÊNCIA. ACOLHIMENTO DOS EMBARGOS PARA CONSTAR DO JULGADO O CRITÉRIO A SER ADOTADO PELA PERÍCIA PARA APURAÇÃO DO VALOR DEVIDO AO EMBARGADO.
+Contradição do julgado no que toca aos parâmetros para a realização da nova pericia.
+Acolhimento dos embargos para espancar a contradição e determinar que a nova pericia, a ser realizada em sede singular, deverá utilizar, como parâmetro para apuração do valor devido ao embargado, o valor patrimonial de sua participação societária. Unânime.
+Foram rejeitados os terceiros embargos (e-STJ fls. 1.151/1.156).
+Nas razões desterecurso (e-STJ fls. 1.170/1.221), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, ofensa aoart. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 606 do CPC/2015 e 1.031 do CC/2002, aduzindo que o acórdão recorrido modificou o critério expressamente previsto no contrato para a apuração de haveres.
+Indicou contrariedade aos arts. 357, § 1º, e 505 do CPC/2015, sustentando, em síntese,que a decisão saneadoraque reconheceu o fato de a indenização devida pela retirada de condômino se guiar pelo valor nominal atual de sua quota-parte precluiu por ausência de impugnação.
+Asseveroua existência denegativa de vigênciados arts. 141, 336, 1.013, § 1º, e 1.014 do CPC/2015, afirmando que "a insurgência do réu recorrido quanto à utilização do critério nominal para apuração dos haveres revela-se tardia e manifestamente descabida, porque configura inovação de tese a impedir seu conhecimento, especialmente em grau recursal" (e-STJ fl. 1.201).
+Suscitouainda desrespeito ao art. 1.023, § 2º, do CPC/2015, destacando a impossibilidade de modificação do julgado sem prévia intimação dorecorrente.
+Foram apresentadascontrarrazões (e-STJ fls. 1.281/1.306).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem as seguintes razões de decidir do aresto impugnado(e-STJ fls. 1.036/1.037):
+Com efeito, o perito limitou-se a transcrever a informação constante da declaração de imposto de renda do autor deixando de observar o que estabelece o contrato.
+Em obediência à cláusula do escrito público de criação, o perito do juízo, respondendo ao 10º quesito do réu, que indagava sobre o critério e ou método utilizado para apuração do valor devido respondeu que (fls. 799):
+(..)
+Não é bem assim data venia. Com efeito, a apuração do quantum indenizatório deveria ser aferido através do valor nominal da quota-parte do CAEDS no momento da retirada do autor que se efetivou em 11/05/2016.
+E ainda:
+Com efeito, o v. acórdão desta Corte deu provimento ao recurso de apelação para anular a sentença e determinar a produção de nova pericia afim de ser apurado o valor da indenização devida ao embargado "com base no valor patrimonial de sua participação societária". E fé-lo por considerar que o expert ao apurar a verba indenizatória levou em consideração apenas as declarações de rendimentos ao Imposto de Renda e respectivos informes anuais de rendimentos. Ocorre que, em verdadeira contradição, ao estabelecer o critério de apuração do valor devido ao embargado, afirmou o aresto em combate que a apuração "deveria ser aferido através do valor nominal da quota-parte do CAEDS". De sorte que deve ser provido o recurso para espancando a contradição determinar que a nova pericia deverá apurar o valor devido ao embargado com base no valor patrimonial de sua participação societária.(e-STJ fls. 1.110)
+Assim, diferentemente do alegado pelo Embargante, o acórdão de fls. 1.110/1.111, não "rejulgou a lide", já que a questão acercada realização de nova prova pericial já havia sido definida, vindo somente modular a forma de sua realização. Diante disso, não há que se falar em concessão de efeito infringente e, consequentemente, da necessidade da oitiva do Embargante.
+Em verdade, o acórdão de fls.1.110/1.111, na melhor esteira a que se prestam os embargos de declaração, apenas aperfeiçoou o julgado, sanando omissão acerca da metodologia a ser empregada na realização da nova prova pericial, deixando, contudo, de modificar o resultado do julgamento anterior.
+De fato, o acórdão de fls. 1.033/1.038 foi omisso em analisar a metodologia a ser empregada na nova prova pericial, questão ventilada nas razões recursais, motivo pelo qual, o acórdão de fls.1.110/1.11, veio sanar tal omissão, sem, contudo, modificar a essência do julgamento pretérito.
+Por outro lado, deve-se lembrar que o Embargado interpôs Embargos de Declaração contra o acórdão de fls. 1.033/1.031, ocasião em que deferi o contraditório (fls.1056), tendo, o Embargante apresentado resposta (fls.1060/1071), onde impugnou, de forma específica, os embargos de declaração opostos pelo Réu, no sentido deque afirmar que pretendia que "a apuração do quantum indenizatório deve ser aferida através do valor nominal da quota-parte do CAEDS" (f Is. 1071).
+Assim, o critério a ser adotado pela nova prova pericial foi objeto de debate e manifestação pretérita de ambas as partes. O Embargante, em contrarrazões a embargos de declaração pretérito do Embargado (fls. 1.060/1.071), reiterou, de forma idêntica, razão pela qual, não há que se falar em cerceamento de defesa.(e-STJ fls. 1.156)
+Quanto aos arts.606 do CPC/2015 e 1.031 do CC/2002, para acolher as razões recursais e concluir queo acórdão recorrido modificou o critério expressamente previsto no contrato para a apuração de haveres, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Da mesma forma, o TJRJ reconheceu quea sentença não deu adequada solução ao conflito, devendo ser anulada para que se determine a realização de nova prova pericial, para apuração do valor da quota-parte que cabe ao autor, nos termos do contrato.Dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Com relação ao art. 1.023, § 2º, do CPC/2015, verifica-se que não foi impugnado o fundamento do acórdão recorrido segundo o qual o critério a ser adotado pela nova prova pericial foi objeto de debate e manifestação pretérita de ambas as partes.Incidente, portanto, a Súmula n. 283 do STF.
+Por fim, asteses de preclusão e de inovação recursal não foramsuscitadas pela parte quando da oposição dos embargos de declaração nas instâncias de origem, razão pela qual a Corte local não estava obrigada a se manifestar sobre o tema.Portanto, é evidente a incidência da Súmula n. 211/STJ, por falta de prequestionamento.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
