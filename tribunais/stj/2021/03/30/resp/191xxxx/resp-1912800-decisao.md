@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANRLEI VIANA, com fundamento no art. 105, inciso III, alíneasae cda Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o recorrente foi condenado à pena de 6 anosde reclusão, em regime fechado, mais pagamento de 10 dias-multa, pela prática do crime de roubo circunstanciado(art. 157, § 2º, I e II,do CP em sua anterior redação).
+A apelação criminal da defesa foi parcialmente provida para readequar as penas para 5 anos e 6 meses de reclusão, em regime semiaberto, nos termos da ementa de e-STJ fl. 222:
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO E EM CONCURSO DE PESSOAS. SENTENÇA CONDENATÓRIA MANTIDA.RECURSO DA DEFESA. PENA CARCERÁRIA REDIMENSIONADA.
+1. PROVA SUFICIENTE. Comprovadas a materialidade e autoria do delito de roubo cometido em concurso de agentes e com emprego de arma de fogo, imperiosa a condenação do réu, que, além de confessar em juízo, foi reconhecido pela vítima por fotografia e pessoalmente em juízo, corroborado pelos demais elementos de provas dos autos, as quais se revelam suficientes para manutenção da sentença de condenação.
+2. APENAMENTO. Na primeira fase da dosimetria, vai afastada a valoração negativa em relação a vetor culpabilidade, mas mantida a nota negativa das circunstâncias. Na segunda fase, foram reconhecidas. as atenuantes da menoridade e da confissão. Na fase derradeira, incidente o aumento de 3/8 pelo emprego de arma de fogo e concurso de agentes. A pena de multa, vai mantida em 10 dias-multa à razão unitária de 1/30 do salário mínimo na época dos fatos.
+APELO DEFENSIVO PARCIALMENTE PROVIDO.
+Irresignada, a defesa interpõe o presente recurso especial, alegando negativa de vigência ao art. 157, § 2º, do Código Penal. Argumenta falta de fundamentação idônea quanto ao patamar de aumento utilizado na terceira fase da dosimetria pertinente às causas de aumento de pena do crime de roubo. Invoca o teor da Súmula n. 443/STJ.
+Contrarrazões às e-STJ fls. 250/252.
+O Ministério Público Federal opinou pelo desprovimento do recurso nos termos da ementa a seguir transcrita (e-STJ fl. 277):
+RECURSO ESPECIAL. CRIME DE ROUBO MAJORADO. DOSIMETRIA.TERCEIRA FASE. AUMENTO SUPERIOR A 1/3. NECESSIDADE DE MOTIVAÇÃO CONCRETA. SÚMULA STJ Nº 443. AUSÊNCIA DE ILEGALIDADE.PECULIARIDADES CONCRETAS DO DELITO. PRECEDENTES. PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a terceira fase da dosimetria da pena na sentença condenatória, ipsis litteris (e-STJ fls. 171/172):
+ ..  Presentes as majorantesdo concurso de agentes e doemprego de arma de fogo no roubo, e considerando a gravidade do emprego de arma em razão do risco de letalidade, elevo a pena em 1/2, ficando a pena definitiva em seis (06) anos de reclusão.
+O Tribunal de origem assim se manifestou quanto ao objeto da controvérsia, in verbis (e-STJ fl. 229):
+Estão presentes as majorantes do concurso de agentes e do emprego de arma de fogo, agravando-se a pena em 3/8, que corresponde a 1 (um) ano e 6 (seis) meses, ficando a pena definitiva em 5 (cinco) anos e 6 (seis) meses de reclusão.
+Na esteira da orientação sedimentada no enunciado 443 da Súmula desta Casa, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Na espécie, a Corte estadual fixou a fração de 3/8, superior, portanto, à mínima prevista para o tipo penal em exame, com base apenas no número de majorantes, o que não encontra guarida na jurisprudência desta Corte, segundo a qual o aumento da reprimenda acima da fração mínima deve estar ancorado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta, como emprego de várias armas de fogo, armas de grosso calibre, elevado número de agentes, entre outras.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PEDIDO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE. ALTO VALOR DA RES FURTIVA. ELEMENTO IDÔNEO A JUSTIFICAR A EXASPERAÇÃO. TERCEIRA FASE. SÚMULA 443 DO STJ.IMPOSSIBILIDADE DE UTILIZAÇÃO DE CRITÉRIO MATEMÁTICO. REPRIMENDA REDIMENSIONADA. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTUM DE PENA APLICADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - No que concerne ao aumento da terceira fase, verifica-se que as penas foram exasperadas, na terceira fase, na fração de 3/8 (três oitavos) em virtude da incidência de duas causas de aumento de pena, levando-se em conta apenas o fato de o crime ter sido cometido mediante o emprego de arma e concurso de agentes. Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula n. 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".Dessarte, in casu, deve ser aplicado o aumento na terceira fase da dosimetria em seu patamar mínimo, qual seja, 1/3 (um terço).
+ ..
+Writ não conhecido. Ordem concedida de ofício, a fim de, tão somente, redimensionar a pena dos pacientes em 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 14 (quatorze) dias-multa, mantidos os demais termos da condenação.
+(HC 618.215/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020, grifei.)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. EMPREGO DE ARMA DE FOGO. APREENSÃO E PERÍCIA. PRESCINDIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA DA PENA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SÚMULA N. 443 DO STJ. CRIME ÚNICO. RECONHECIMENTO. IMPOSSIBILIDADE. DIVERSIDADE DE VÍTIMAS. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+3. As instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido.
+4. Praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos. Precedentes.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir ao mínimo legal o aumento da reprimenda procedido na terceira etapa da dosimetria.
+(HC 227.160/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/02/2016, DJe 02/03/2016, grifei.)
+Nessa alheta, há ilegalidade decorrente da aplicação, na terceira fase da dosimetria da pena do crime de roubo circunstanciado, de fração superior à mínima legal, sem a indicação de circunstâncias ou de elementos - ligados às referidas majorantes - capazes de demonstrar maior desaprovação da conduta.
+Assim, deve incidir a fração no seu grau mínimo, qual seja, de 1/3.
+Passo, assim, à readequação da dosimetria da pena do referido delito, mantendo os parâmetros adotados na origem.
+Na primeira fase, mantenho a fixação da pena-base acima do mínimo legal - 4 anos e 6 meses de reclusão.
+Na segunda fase, a pena é quantificada em no mínimo legal pelo reconhecimento das atenuantes da confissão espontânea e da menoridade.
+Na terceira etapa, ausentes causas de diminuição da pena, aplico a fração mínima de 1/3, diante da presença das duas majorantes, o que perfaz a sanção de 5 anos e 4 meses de reclusão, em regime semiaberto. Mantenho a pena de 10 dias-multa.
+Ante o exposto, dou provimento ao recurso especial, para aplicar a fração mínima de aumentona terceira fase da dosimetria da pena do crime de roubo circunstanciadoe assim readequar a pena para 5 anos e 4 meses de reclusão, em regime semiaberto, além de 10 dias-multa, mantidas as demais disposições do acórdão local.
+Publique-se. Intimem-se.
