@@ -1,0 +1,35 @@
+Decisão:
+EMENTA: Processual penal. Habeas corpus. Furto de gêneros alimentícios de valor insignificante. Paciente primário. Incidência do princípio da insignificância. Inadequação da via eleita. Ordem concedida de ofício.
+1. Não se admite habeas corpus em substituição ao agravo regimental cabível na origem.
+2. A jurisprudência do Supremo Tribunal Federal admite a incidência do princípio da insignificância quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta; (ii) nenhuma periculosidade social da ação; (iii) reduzidíssimo grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica. Cito, nessa linha, o HC 84.412, Rel. Min. Celso de Mello.
+3. Hipótese de paciente primário, preso em flagrante pelo furto de gêneros alimentícios, avaliados em R$ 75,00, “motivado pelo desespero de estar desempregado e ver seus filhos pequenos com fome em casa”. Todos os objetos subtraídos foram imediatamente restituídos à vítima, que não suportou nenhum desfalque patrimonial (bem jurídico tutelado pelo delito do art. 155 do CP).
+4. Habeas corpus a que se nega seguimento. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 649.389, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito, em 06.02.2021, pela suposta prática do crime de furto. O Juízo da 3ª Vara Criminal da Comarca de João Pessoa/PB concedeu a liberdade provisória ao acusado, substituindo o custódia por outras medidas cautelares.
+    3. Na sequência, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado da Paraíba. Indeferida a liminar, houve a impetração de HC no Superior Tribunal de Justiça (STJ). O Relator do HC 649.389, Ministro Ribeiro Dantas, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta a atipicidade da conduta praticada pelo acionante. Para tanto, afirma que “o paciente subtraiu apenas itens do gênero alimentício, objetivando, num ato de pleno desespero, suprir as necessidades dos seus filhos menores, que estavam com fome em casa”.
+    5. Prossegue a narrativa para alegar que:
+    “O paciente é primário, conforme atesta a certidão de antecedentes criminais em anexo;
+    O paciente furtou apenas produtos do gênero alimentício, avaliados, segundo o proprietário do estabelecimento, em aproximadamente R$75 (setenta e cinco reais);
+    O paciente chegou a pagar por alguns produtos, furtando apenas alguns outros produtos remanescentes;
+    Os objetos foram devidamente restituídos ao proprietário do supermercado, conforme atesta o Termo de Entrega constante no IPL, não restando prejuízo material para a vítima;
+    A motivação do crime fora o fato do paciente estar desempregado e com seus filhos menores passando fome em casa, o que é corroborado pela natureza essencial dos bens subtraídos;”
+    6. A defesa requer a concessão da ordem de habeas corpus para “determinar o definitivo TRANCAMENTO DO INQUÉRITO POLICIAL nº 0802217-65.2021.8.15.2002”.
+    7. Decido.
+    8. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    9. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    10.  Sem prejuízo desse encaminhamento, passo a examinar a possibilidade de concessão da ordem de ofício.
+    11. O Plenário do STF tem jurisprudência consolidada no sentido de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação, (iii) reduzidíssimo grau de reprovabilidade do comportamento, e (iv) inexpressividade da lesão jurídica. Cito, nessa linha, o HC 84.412, Rel. Min. Celso de Mello.
+    12. No caso de que se trata, considero preenchidas todas as condições estabelecidas pela jurisprudência do STF para o reconhecimento da insignificância material da conduta imputada ao paciente.
+    13. A hipótese é de paciente, primário e de bons antecedentes, preso em flagrante delito logo após “furtar itens alimentícios de um mercadinho”, avaliados em R$ 75,00. Os autos dão conta de que o paciente “furtou os objetos motivado pelo desespero de estar desempregado e ver seus filhos pequenos com fome em casa”. Embora tenha havido a inversão da posse, todos os objetos foram imediatamente restituídos ao proprietário do estabelecimento comercial. De modo que a vítima não experimentou nenhum tipo de desfalque patrimonial, sendo certo que tampouco houve qualquer ato de violência física ou moral por parte do acusado (que prontamente confessou a prática delitiva).
+    14. Nessas condições, considerada a excepcionalidade da causa, tenho por necessário o trancamento do inquérito policial, por atipicidade material da conduta, na linha dos reiterados pronunciamentos desta Corte na matéria. Nesse sentido, vejam-se os seguintes julgados: HCs 123.108, 123.734 e 123.533, de minha relatoria; HC 197.530, Rel. Min. Edson Fachin; HC 132.170-AgR, Rel. Min. Teori Zavascki.
+    15. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus. Contudo, concedo a ordem de ofício para determinar o trancamento do inquérito policial instaurado contra o ora paciente, tendo em vista a atipicidade material da conduta.
+    Publique-se.
+    Comunique-se.
+          Brasília, 30 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
