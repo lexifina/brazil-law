@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins cuja ementa é a seguinte (fl. 217, e-STJ):
+MANDADO DE SEGURANÇA. PROGRESSÃO HORIZONTAL. AGENTE DA POLÍCIA CIVIL APOSENTADA. PROGRESSÃO FUNCIONAL PREENCHIMENTO DOS REQUISITOS LEGAIS. DIREITO LÍQUIDO E CERTO. ALEGAÇÃO DA ADMINISTRAÇÃO PÚBLICA EM PROCESSO ADMINISTRATIVO DE EXTRAPOLAÇÃO DO LIMITE PRUDENCIAL COM DESPESAS DE PESSOAL. ALEGAÇÃO NA AÇÃO MANDAMENTAL DE IRREGULARIDADE DA DECISÃO DO CONSELHO SUPERIOR DE POLÍCIA CIVIL. DISCUSSÃO SOBRE O MÉRITO ADMINISTRATIVO. IMPOSSIBILIDADE NO CASO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. ART. 2º, DA CF. SEGURANÇA CONCEDIDA. CONSELHO SUPERIOR DE POLÍCIA CIVIL É O ÓRGÃO COMPETENTE PARA DECIDIR SOBRE O ENQUADRAMENTO FUNCIONAL REFERENTE A PROGRESSÕES. ART. 3º, X, DO RI-CSPC, HOMOLOGADO PELO DECRETO N. 2.984, DE 23/03/2007, E DA LEI Nº 1.650, DE 29/12/2005.
+1. Tendo a parte impetrante preenchido os requisitos exigidos pela Lei n. 1.545/04 e Lei 2.808/2013, tem direito líquido e certo ao enquadramento na progressão funcional, conforme estabelece o art. 7º, II, da Lei em referência. Direito reconhecido administrativamente.
+2. Negativa da administração pública a concessão da progressão funcional pleiteada em processo administrativo, sob a alegação de que haveria extrapolação do limite prudencial com despesas de pessoal, e que, portanto, reconhece a regularidade da decisão que deferiu a progressão pleiteada. Alegação administrativa que se choca com a alegação na ação mandamental que pretende ver declarada a irregularidade da decisão administrativa.
+3. Discussão sobre o mérito do ato administrativo consubstanciado na decisão proferida pelo Conselho Superior de Polícia Civil, Órgão de Cúpula da entidade competente para decidir sobre tais enquadramentos, nos termos do art. 3º, X, do Regimento Interno do CSPC, homologado pelo Decreto n. 2.984, de 23/03/2007, e da Lei nº 1.650, de 29/12/2005. Decisão que permanece hígida, produzindo efeitos. Embora a Administração possa rever seus próprios atos, bem como lançar mão de institutos jurídicos para desconstituí-los, o ato administrativo em questão, para todos os efeitos, é válido. Lado outro, não cabe ao Poder Judiciário imiscuir-se no mérito da decisão administrativa proferida, em respeito ao princípio da Separação de Poderes (art. 2º, da CF).
+4. Ação mandamental conhecida vez que a impetrante é "aposentada", estando nas exceções previstas na Lei Estadual n. 3.462/2019 (art. 1º, § 2º, II), portanto a decisão do Conselho Superior da Polícia Civil é válida e eficaz.
+5. Denegação da ordem ao que se refere ao pagamento de valores retroativos.
+6. Mandado de segurança conhecido. Segurança concedida parcialmente.
+Os Embargos de Declaração foram rejeitados (fl. 286, e-STJ).
+O recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 1.022 do CPC/2015; dos arts. 20, 21 e 22 da LC 101/2000e doart. 1º da Lei 12.016/2009. Aduz a inexistência de direito líquido e certo a ser amparado por Mandado de Segurança. Defende, em suma, que foi determinada a progressão funcional da servidora em detrimento dos limites prudenciais impostos pela Lei de Responsabilidade Fiscal.
+Contrarrazões apresentadas às fls. 314-332, e-STJ.
+Decisão de admissibilidade do recurso às fls. 349-352, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.3.2021.
+Verifico que a matéria versada no apelo foi submetida a julgamento no rito dos Recursos Repetitivos (Tema 1.075), que tem a seguinte ementa:
+ADMINISTRATIVO. REPRESENTATIVO DE CONTROVÉRSIA. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. (I)LEGALIDADE DE DESCUMPRIMENTO DE DIREITO SUBJETIVO POR RESTRIÇÕES ORÇAMENTÁRIAS PREVISTAS NA LEI DE RESPONSABILIDADE FISCAL. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+1. Delimitação da controvérsia: Legalidade do ato de não concessão de progressão funcional do Servidor Público, quando atendidos todos os requisitos legais, sob o fundamento de que superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de Ente Público.
+2. Recurso Especial submetido ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ). em afetação conjunta com os Recursos Especiais 1.878.854/TO e 1.879.282/TO.
+(ProAfR no REsp 1878849/TO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 24/11/2020, DJe 03/12/2020)
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e dos arts. 1040 e seguintes do CPC/2015, conforme o caso.
+Na mesma linha, cito:
+AGRAVO INTERNO. PROCESSUAL CIVIL E AMBIENTAL. APREENSÃO DE BEM. PRÁTICA DE INFRAÇÃO AMBIENTAL. TEMA AFETADO AO RITO DOS REPETITIVOS EM 12.11.2019. DETERMINAÇÃO DE SUSPENSÃO DO PROCESSAMENTO DE TODOS OS PROCESSOS PENDENTES QUE VERSEM ACERCA DA QUESTÃO DELIMITADA CONFORME ACÓRDÃO PÚBLICADO EM 27.11.2019. DEVOLUÇÃO À CORTE DE ORIGEM.
+1. Verifica-se que a questão referente a "Aferir se é condição para a apreensão do instrumento utilizado na prática da infração ambiental a comprovação de que o bem é de uso específico e exclusivo para a atividade ilícita (Lei n. 9.605/1998, art. 25, § 4º, atual § 5º)" foi afetada pela Primeira Seção do STJ ao rito dos Recursos Especiais repetitivos (REsp1.814.945/CE, 1.814.944/RN e REsp 1.816.353/RO, Relator Ministro Mauro Campbell Marques - tema 1036). Também foi suspensa a tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a citada matéria.
+2. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015.
+3. Agravo interno provido, determinando-se a devolução dos autos à Corte de origem para o respectivo sobrestamento feito até a solução do Tema.
+(AgInt no AREsp 1522654/AM, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/06/2020, DJe 14/09/2020)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
