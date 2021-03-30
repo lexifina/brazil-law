@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de GUILHERME ADRIANO DE OLIVEIRA JERONIMO contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos do writ n. 2038786-50.2021.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 3 (três) anos, 4 (quatro) meses e 25 (vinte e cinco) dias de reclusão, em regime inicial semiaberto, mais o pagamento de 340 (trezentos e quarenta) dias-multa, como incurso nas iras do art. 33, caput, § 4º, c/c art, 40, V, da Lei n. 11.343/2006 (fls. 19-30).
+Inconformada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem, consoante voto condutor do v. acórdão de fls. 11-18.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente tem direito à substituição da pena privativa de liberdade por restritiva de direitos.
+Sustenta que "o paciente trabalha como entregador na empresa do sr. Claudnei Marinetto, neste município, tem uma filha de tenra idade (3 anos) certidão anexa, tem residência fixa e não possui reincidência ou qualquer tipo de antecedentes criminais" (fl. 6).
+Aduz que a quantidade de droga não é elemento apto a afastar o benefício pleiteado.
+Afirma ter direito ao regime inicial aberto.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 37-38).
+Informações prestadas às fls. 43-81.
+O Ministério Público Federal, às fls. 83-86, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS. FIXAÇÃO DO REGIME MAIS GRAVOSO, NO CASO, O SEMIABERTO, DIANTE DA VALORAÇÃO DESFAVORÁVEL DE CIRCUNSTÂNCIA JUDICIAL. ART. 42 DA LEI N. 11.343/2006. CONSIDERÁVEL QUANTIDADE DA DROGA APREENDIDA NA POSSE DO PACIENTE. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE.
+Parecer pela denegação da ordem de habeas corpus." (fl. 83).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a fixação do regime inicial aberto; e ii) a substituição da pena privativa de liberdade por restritiva de direitos.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"No tocante à alegação de ilegalidade da decisão em virtude da fixação do regime semiaberto e da não substituição da pena privativa de liberdade por restritiva de direitos.
+Como visto, o presente writ busca discutir matéria fática, referente ao mérito da decisão.
+Ocorre que o remédio heroico não se destina à apreciação do mérito da questão, nem tampouco realizar um exame minucioso das provas produzidas.
+ ..
+Ressalta-se, ainda, que por exigir o habeas corpus direito líquido e certo, não há que falar-se em dilação probatória.
+ ..
+Portanto, em havendo recurso pendente, tal qual informado na própria exordial, não se presta o presente remédio a substituir o efeito prático que deve ser obtido usualmente quando de eventual procedência do recurso, também não sendo passível que conhecimento quanto a isto.
+Todavia, apenas por amor ao debate, nota-se que a decisão fundamentou devidamente a fixação do regime intermediário e a não concessão da substituição da pena privativa de liberdade por restritiva de direitos. No caso dos autos, a r. sentença mencionou a existência de uma circunstância judicial desfavorável quantidade de droga apreendida(aproximadamente 1,5kg de maconha) para estabelecer o regime intermediário e para não substituir a pena, não havendo que se falar em constrangimento ilegal no tocante" (fls. 15-18).
+De fato, a quantidade e a natureza do entorpecente - 1,5 Kg de maconha - foram utilizadas como fundamentos a ensejar a aplicação do regime semiaberto, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "b", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: AgRg no AREsp n. 1671723/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 01/09/2020; AgRg no AREsp n. 1637779/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 06/08/2020; e AgInt no HC n. 577.082/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 02/06/2020.
+Ademais, a Corte originária assinalou a existência de circunstância judicial desfavorável - 1,5 Kg de maconha, nos termos do art. 42 da Lei de Drogas. Nesse contexto, ressalte-se que "o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, apenas ao quantum de reprimenda imposto. Pena definitiva inferior a 4 anos de reclusão, réu primário e circunstâncias judiciais desfavoráveis indicam o regime inicial semiaberto como o mais adequado, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal" (AgRg no REsp n. 1735388/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 07/12/2018).
+No que concerne à possibilidade de substituição da pena privativa de liberdade por restritivas de direitos, ao analisar o HC n. 97.256/RS, o Supremo Tribunal Federal passou a admitir tal possibilidade, nos termos do art. 44 do Código Penal, reconhecendo a inconstitucionalidade da parte final do art. 33, § 4º, da Lei de Drogas, que posteriormente teve sua execução suspensa pelo Senado Federal, através da Resolução n. 5/2012.
+Assim, a substituição da pena corporal por penas restritivas de direitos pode ser estabelecida para o delito de tráfico de entorpecentes, mas, para tanto, é necessário que o acusado preencha os requisitos legais elencados no art. 44 do Código Penal.
+Esta Corte Superior de Justiça tem decidido, por outro lado, que a quantidade da droga apreendida pode, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+Na hipótese em análise, a natureza e a quantidade da droga apreendida - 1,5 Kg de maconha - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela. Nesse sentido: HC n. 296.069/SP, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 11/9/2015; e HC n. 323.006/MG, Quinta Turma, Rel. Min. Reynaldo Soates da Fonseca, DJe de 24/11/2015.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
