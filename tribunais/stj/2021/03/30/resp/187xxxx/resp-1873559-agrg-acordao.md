@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FACILITAÇÃO DE CONTRABANDO OU DESCAMINHO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NOVA REDAÇÃO DO INCISO IV DO ART. 117 DO CÓDIGO PENAL INSTITUÍDA PELA LEI N. 11.596/2007. ACÓRDÃO CONDENATÓRIO COMO NOVO MARCO INTERRUPTIVO. INAPLICABILIDADE AOS DELITOS COMETIDOS ANTERIORMENTE À REFERENCIADA LEI, PORQUANTO MAIS GRAVOSA.
+1. Acerca do tema, o Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Exmo. Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+2. Ainda, a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores".
+3. Na espécie, os atos criminosos imputados aos recorrentes deram-se antes da entrada em vigor da norma em comento, visto que praticados em 2005, de modo que deve ser considerada, como último marco interruptivo, a sentença condenatória.
+4. Portanto, publicada a sentença em 15/8/2011, e considerando a imposição da pena de 3 anos à recorrida, pela prática do delito do art. 318 do Código Penal, tenho que o prazo prescricional de 8 anos (art. 109, IV, do Código Penal), à época da prolação do acórdão pelo Tribunal de origem, em 26/3/2020, já havia sido ultrapassado.
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que negou provimento ao recurso especial interposto pelo parquet, mantendo o acórdão do Tribunal a quo que reconheceu a extinção da punibilidade da recorrido pela prescrição da pretensão punitiva estatal.
+Em suas razões, o agravante sustenta, em síntese, que, "no julgamento do Agravo Regimental no Recurso Extraordinário com Agravo nº 1120890/SP, o C. STF assentou a jurisprudência no sentido de que: "Quer após a Lei nº 11.596/2007, quer antes dela, o acórdão de mérito alusivo à apelação surge como fator interruptivo da prescrição"" (e-STJ fl. 498).
+Assim, requer a reconsideração da decisão agravada ou que o presente recurso seja levado para apreciação da Turma competente, para que seja afastado o decreto de prescrição.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que essa deve ser integralmente mantida.
+Acerca do tema, o Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Exmo. Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+Ainda, a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datasanteriores".
+Pois bem. Na espécie, os atos criminosos imputados à agravada deram-se antes da entrada em vigor da norma em comento, visto que praticados em 2005, de modo que deve ser considerada, como último marco interruptivo, a sentença condenatória.
+Portanto, publicada a sentença em 15/8/2011, e considerando a imposição da pena de 3 anos à recorrida, pela prática do delito do art. 318 do Código Penal, tenho que o prazo prescricional de 8 anos (art. 109, IV, do Código Penal), à época da prolação do acórdão pelo Tribunal de origem, em 26/3/2020, já havia sido ultrapassado.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
