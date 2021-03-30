@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especialmanejado pelaFazenda Nacional,com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 758):
+PROCESSUAL CIVIL. ADMINISTRATIVO E TRIBUTÁRIO. FISCALIZAÇÃO ADUANEIRA. AUTO DE INFRAÇÃO COM PERDA DE MERCADORIAS. FALSIDADE IDEOLÓGICA CONSTATADA. DL 37/1966 c/c ART. 689, §3º, DO DECRETO  6.759/2009. MANUTENÇÃO DA SENTENÇA.
+1. Apelação interposta pela empresa demandante contra a sentença que julgou improcedente o seu pleito de decretação da nulidade do processo administrativo fiscal 15771.724102/2012-11, e pela União (Fazenda Nacional) contra o valor estipulado da verba sucumbencial.
+2. In casu , o acervo probatório demonstra a ocorrência da fraude perpetrada pela empresa recorrente, mediante uso de faturas (invoices ) adulterados cm seu conteúdo (falsidade ideológica), denotando má-fé em burlar as autoridades aduaneiras para fazer internalização de mercadoria com recolhimento a menor de tributos.
+3. Hipótese que se subsume ao disposto no art. 105, VI, do DL 37/1966 c/c art. 689, §3 do Decreto nº 6.759/2009, o qual prevê a pena de perda de mercadoria caso qualquer documentação necessária ao seu embarque ou desembaraço tiver sido falsificada ou adulterada. Esse é entendimento firmado pela Segunda Turma desta Corte em sua composição ampliada (art. 942 do CPC) quando do julgamento do PJE 08007221320164058100, sendo composto aquele órgão julgador, naquela ocasião, pelo relator do presente feito e pelos Desembargadores Federais Leonardo Carvalho (relator), Frederico Wildson Dantas, Vladmir Carvalho e Rubens Canuto.
+4. No julgamento do PJe 0803611-24.2015.4.05.0000 (AGTR), sessão de 10/11/2015, a 4a Turma desta Egrégia Corte entendeu - à unanimidade - pela validade das conclusões advindas do processo administrativo instaurado contra a empresa apelante, entendimento esse igualmente reproduzido na sentença impugnada que deve ser mantida.
+5. Não merece retoque o montante estipulado de RS 5.000,00, fixado pela sentença, o qual de revela compatível com o grau de complexidade da causa, assim como o trabalho desenvolvido pelos representantes legais.
+6. Apelações improvidas.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 850/856.
+Nas razões do recurso especial, aponta violação aos arts. 14 e 1.046, 85,§§2º e 8º, doCPC/15. Sustenta que "considerando que o ato processual, sentença, foi proferido após a vigência do NCPC, o acórdão ora recorrido ao não aplicar o regime de honorários previstos no art. 85, viola as disposições contidas no art. 14 e 1.046, do novo diploma legal" (fl. 865).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação recursal comporta acolhida.
+Sobre os honorários advocatícios sucumbenciais, nota-se que a Corte Regional afastou a incidência do Código de Processo Civil/2015, com base na seguinte motivação (fl. 851):
+Rejeita-se, também, a insurgência manifestada pela Fazenda Nacional, pois reputo que para a fixação do valor da verba honorária, a melhor solução se projeta pela não aplicação imediata da nova sistemática constante no art. 85 do novo Código de Ritos aos processos ajuizados em data anterior à vigência do CPC/2015, como o caso em tela. Mantida, por tal razão, o valor de R$ 5.000,00 (cinco mil reais) de condenação a título de honorários sucumbenciais a cargo da empresa demandante.
+Desse modo, verifica-se que o acórdão recorrido foi proferido em dissonância com a jurisprudência firmada por esta Corte, segundo a qual o marco temporal para a incidência do novo estatuto processual, no que se refere aos honorários advocatícios sucumbenciais, é a data da sentença.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. DEFINIÇÃO DA LEI APLICÁVEL.
+1. A jurisprudência do STJ entende que a legislação empregável para a estipulação dos honorários advocatícios será definida pela data da sentença ou do acórdão que fixou a condenação, devendo ser observada a norma adjetiva vigente no momento de sua publicação.
+2. Assim, tendo sido prolatada a sentença na vigência do CPC/2015, com a intimação da União em 30.5.2017 (fl. 463, e-STJ), este deverá ser observado in casu.
+3. Considerando a impossibilidade da análise dos critérios estabelecidos no § 2º do art. 85 do CPC/2015, ante o óbice da Súmula 7 do STJ, os honorários advocatícios deverão ser definidos pelo Tribunal de origem, de acordo com o novo regramento processual.
+4. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem, o qual deverá fixar os honorários advocatícios em favor da União de acordo com o disposto no art. 85 do CPC/2015.
+(REsp 1.767.726/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/11/2018, DJe 17/12/2018)
+Dessa forma, registrada a sentença dos presentes autos na vigência do CPC/2015 em 24/04/2017(fls. 622/628), os critérios aplicáveis para a fixação dos honorários advocatícios devem ser os estatuídos no art. 85 do Código de Processo Civil vigente.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, para que se proceda à fixação dos honorários advocatícios, com base nos parâmetros estabelecidos pelo art. 85 do CPC/15.
+Publique-se.
