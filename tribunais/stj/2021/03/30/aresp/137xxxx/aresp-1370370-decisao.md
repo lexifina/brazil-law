@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravodo MUNICÍPIO DE LONDRINA - PR, em queobjetivaadmissão de recurso especialinterposto contra acórdão doTJPRassim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE IMUNIDADE DE TRIBUTOS MUNICIPAIS CUMULADA COM ANULATÓRIA DE DÉBITO FISCAL. ARGUIÇÃO, PELO MUNICÍPIO, DE PRESCRIÇÃO PARA O PLEITO ANULATÓRIO. REJEIÇÃO EM PRIMEIRO GRAU. PRESCRIÇÃO. NÃO OCORRÊNCIA. APLICAÇÃO DO PRAZO PRESCRICIONAL QUINQUENAL PREVISTO NO ARTIGO 1ºDO DECRETO Nº 20.910/1932. TERMO INICIAL. NOTIFICAÇÃO DO CONTRIBUINTE DA DECISÃO FINAL DO PROCESSO ADMINISTRATIVO. AÇÃO AJUIZADA DENTRO DO PRAZO PRESCRICIONAL. CRÉDITOS TRIBUTÁRIOS COM EXIGIBILIDADE SUSPENSA ENQUANTO PERDURAR O PROCESSO ADMINISTRATIVO. ARTIGO 151, INCISO III, DO CÓDIGO TRIBUTÁRIO NACIONAL, AINDA QUE A MANIFESTAÇÃO, NA ESFERA ADMINISTRATIVA, TENHA SIDO REALIZADA INTEMPESTIVAMENTE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+No especial, a partealegaviolação dosarts.1º e 3º do Decreton. 20.910/1932 e do art. 151 do CTN, bem como a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese, que o pedido administrativo de anulação do lançamento não tem o condão de suspender o crédito tributário quando promovido fora do prazo de reclamação (30 dias), não sendo possível que o pedido de anulação dos lançamentos alcance os lançamentos promovidos há mais de cinco anos da data da propositura da ação.
+O recurso especial foi inadmitido por encontrar-se o acórdão em conformidade com a jurisprudência do STJ.
+Agravo que impugna os fundamentos da decisão de inadmissão.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Consideradoisso, importa mencionar queo recurso especial se origina deagravo de instrumento impetrado contra decisão de saneamento em ação declaratória de imunidade c/c ação anulatória de lançamento tributário e repetição de indébito que afastou a alegação de prescrição parcial do direito de ação (e-STJ fls. 778 e seguintes).
+O Tribunala quo negou provimento ao agravo de instrumento consignando que o pedido administrativo de imunidade tributária e anulação dos lançamentos tributários teria interrompido o prazo prescricional, independentemente da sua apresentação dentro do prazo da Lei para a reclaramação/recurso administrativo.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+A controvérsia do recurso especial versa acerca da capacidade do pedido administrativo declaratório da imunidade tributária, especialmente quando apresentado fora do prazo, gerar a suspensão do crédito tributário na forma do art. 151 do CTN.
+O recurso especial não merece conhecimento, uma vez que a conclusão adotada pela Corte paranaense está em conformidade com a jurisprudência deste Tribunal Superior.
+Com efeito, "o pedido de reconhecimento de imunidade enquadra-se no conceito de "reclamação"de que trata o art. 151, III do CTN"(REsp 267.437/MG, Rel. Ministra ELIANA CALMON, Segunda Turma, julgado em 05/02/2002, DJ 17/06/2002, p. 240).
+Ademais, esta Corte superior tem firmado entendimento no sentido de que "o recurso administrativo, mesmo quando interposto intempestivamente, suspende a exigibilidade do crédito tributário, bem como o curso do prazo prescricional, que somente volta a fluir da notificação do contribuinte acerca do trânsito em julgado da decisão administrativa" (AgInt nos EDcl no REsp 1,394,912/SC, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 02/04/2019, DJe 04/04/2019).
+Dessa forma,incide, naespécie,aSúmula83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando oapelo nobreé interposto com base nas alíneas "a" e "c" dopermissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
