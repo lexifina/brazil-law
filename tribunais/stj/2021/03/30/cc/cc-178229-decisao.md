@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA VARA DO TRABALHO DE BARREIRINHAS- MA,ora suscitante, e o JUÍZO DE DIREITO DA 1ª VARA DE ARAIOSES - MA, ora suscitado.
+Consta dos autos que foi proposta ação de cobrança, postulando verbas laborais na Justiça Comum que declinou da competência para processar e julgar o feito para a Justiça Especializada (e-STJ fls. 251/253), que suscitou o presente conflito de competência (e-STJ fls. 255/258).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Estadual (e-STJ fls. 269/273).
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença" (AgRg no CC 139.456/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 13/05/2015, DJe 19/05/2015).
+Na espécie, verifica-se dos autos que a parte autora está submetida ao regime estatutário- Lei n. 006/2008 (e-STJ fl. 68)-,o que atrai a competência da Justiça Comum, porquanto verificada a situação nele retratada.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DE DIREITO DA 1ª VARA DE ARAIOSES - MA, ora suscitado.
+Intimem-se. Publique-se.
