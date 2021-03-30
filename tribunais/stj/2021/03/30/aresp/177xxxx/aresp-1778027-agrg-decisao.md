@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Adailton Geraldo de Assis contra a decisão de fls. 391/392, proferida pela Presidência desta Corte, que, com fulcro no art. 21-E, V, do RISTJ, não conheceu do agravo por ele apresentado, em razão de sua manifesta intempestividade.
+Sustenta o agravante, em resumo, a tempestividade do agravo em recurso especial, pois o acórdão do julgamento pelo Tribunal de Justiça Militar de Minas Gerais foi publicado em 13 de agosto de 2020, oportunidade em que os prazos processuais encontravam-se suspensos por força do disposto no art.1º, § 1º, da Portaria Conjunta n.43, do TJMMG, de 31 de julho de 2020 (fl. 399), os quais voltaram a fluir em 14/9/2020 (fl. 400).
+Registra, quanto ao cabimento do recurso especial, que não pretendeu a simples reanálise de matéria de cunho administrativo, incabível de acordo com a jurisprudência do Superior Tribunal de Justiça. Pretendeu o Agravante o enfrentamento do dissídio jurisprudencial acerca do tema, arguido em sede recursal mas não analisado pelo E. TJMMG (fl. 400).
+Pede a reconsideração da decisão agravada.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 412/416).
+É o relatório.
+Com razão o agravante, no tocante à intempestividade do agravo.
+Na espécie, conforme comprova a documentação juntada às fls. 367/377, em 31/7/2020, houve a prorrogação da suspensão dos prazos dos processos judiciais no Tribunal de Justiça Militar de Minas Gerais em razão de medidas e normas para prevenção ao contágio pelo novo coronavírus - Covid-19, acarretando, dessa forma, a alteração do dies ad quem. Com isso, fica evidenciada a tempestividade do agravo em recurso especial de fls. 359/366.
+Sendo assim, exercendo o juízo de retratação, reconsidero a decisão de fls. 391/392, afastando a intempestividade do agravo em recurso especial.
+Passo ao exame da controvérsia.
+Narram os autos que o Ministério Público de Minas Gerais ofereceu representação para declaração de indignidade/incompatibilidade do oficialato em desfavor do ora agravante.
+O Tribunal de Justiça Militar de Minas Gerais julgou procedente a representação ministerial e declarou a incompatibilidade do oficialato, decretando a perda do posto e da patente do representado, ora agravante, em acórdão assim ementado (fl. 241):
+REPRESENTAÇÃO PARA DECLARAÇÃO DE INDIGNIDADE/INCOMPATIBILIDADE  PRÁTICA DOS DELITOS DE CORRUPÇÃO PASSIVA E FALSIDADE IDEOLÓGICA  CONCORDÂNCIA DE PROMESSA DE VANTAGEM INDEVIDA  PROCEDÊNCIA DA REPRESENTAÇÃO MINISTERIAL.
+- As condutas praticadas pelo representado são, incontestavelmente, graves e suficientes a ensejar a declaração de indignidade e incompatibilidade para o oficialato e, via de consequência, a perda do posto e da patente de oficial da Policia Militar do Estado de Minas Gerais.
+- A prática de infrações dessa natureza é agravada, de maneira imensurável, quando os referidos delitos são praticados por agente que tem a tarefa constitucional de proteger a população e, principalmente, quando exerce função de comando de tropa.
+- Representação ministerial procedente para declarar a incompatibilidade para o oficialato e, via de consequência, decretar a perda do posto e da patente do representado.
+Os embargos de declaração opostos foram rejeitados (fls. 294/302).
+Nas razões do recurso especial, apontou a defesa divergência na interpretação da lei federal, indicando como paradigma acórdão proferido pelo Tribunal de Justiça Militar do Rio Grande do Sul, no sentido de que o fato típico e a pena aplicada não são suficientes para ensejar, por si sós, o acolhimento da representação, havendo de serem cotejadas outras informações advindas dos autos, tais como, os assentamentos funcionais do servidor, as circunstâncias judiciais apreciadas na sentença condenatória, bem como os princípios da razoabilidade e da proporcionalidade da pena acessória (fls. 313/314). Ao final, postulou a reforma do acórdão vergastado e a consequente improcedência da representação para declaração de indignidade para o oficialato proposta em seu desfavor.
+Foram apresentadas contrarrazões (fls. 347/353).
+Todavia, airresignação não merece prosperar.
+A jurisprudência desta Corte Superior é firme em assinalar que o acórdão prolatado no julgamento de representação para exclusão da carreira de militar, mesmo se tramitar em órgão dotado de competência jurisdicional, decorre do exercício de competência administrativa militar, o que afasta o cabimento do recurso especial.
+A propósito, confiram-se: AgRg no AREsp n. 1.713.218/MS, Ministro Herman Benjamin, Segunda Turma, DJe 24/11/2020; AgRg no REsp n. 1.134.025/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/8/2018; AgRg no REsp n. 1.353.601/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/10/2017; AgRg no REsp n. 1.582.098/SP, Ministro Jorge Mussi, Quinta Turma, DJe 14/10/2016; AgRg no RMS n. 27.315/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/5/2014; AgRg no REsp n. 1.208.498/MS, Ministro Mauro Campbell, Segunda Turma, DJe 1º/7/2013; e AgRg no AgRg no Ag n. 1.259.635/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 2/5/2011.
+A questão também já foi decidida pela Corte Suprema, no seguinte precedente: AgR no RE n. 598.414/AM, Ministro Eros Grau, Segunda Turma, DJe 8/10/200.
+Ante o exposto, em juízo de reconsideração da decisão de fls. 391/392, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. REPRESENTAÇÃO PARA DECRETAR A PERDA DO POSTO E DA PATENTE DO REPRESENTADO. DECISÃO TOMADA PELO TRIBUNAL DE JUSTIÇA MILITAR EM ÂMBITO ADMINISTRATIVO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA APRECIAR A QUESTÃO EM RECURSO ESPECIAL. PRECEDENTES.
+Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial.
