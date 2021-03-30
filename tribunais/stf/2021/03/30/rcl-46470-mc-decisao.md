@@ -1,0 +1,20 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Transuiça Locação e Prestação de Serviços Ltda. em face de decisão do Tribunal Regional do Trabalho da 17ª Região que, nos Autos nº 0000800-77.2019.5.17.0191, indeferiu pedido de suspensão do processo, fundado na ordem contida no paradigma do Tema 1.046 da sistemática da repercussão geral. A decisão foi assim fundamentada, na parte que interessa (doc. 43):
+    “2.1 QUESTÃO DE ORDEM. SOBRESTAMENTO DO FEITO. TEMA 1046
+          Suscita a primeira reclamada em seu recurso ordinário a suspensão do presente feito, sob o argumento de que as matérias abordadas nesta ação encontram identidade com aquela estabelecida nos autos do ARE nº 1.121.633-GO, de relatoria do Ministro Gilmar Mendes, onde se firmou o Tema nº 1.046.
+          Pois bem.
+          No que tange à alegação de que a decisão prolatada no ARE 1.121.633 pelo Ministro Gilmar Mendes de suspensão de todos os processos que tratem da matéria afeta ao TEMA 1.046 da repercussão geral do E. STF, tem-se que a questão da abrangência da decisão é extremamente controversa na jurisprudência, havendo decisões no sentido de que se limitaria à matéria tratada no processo de origem (norma coletiva que limita direito ao recebimento de horas in itinere), os três temas abarcados na decisão (norma coletiva que limita direitos quanto a intervalo, turnos ininterruptos de revezamento e horas in itinere) ou norma coletiva que limite quaisquer direitos trabalhistas não previstos constitucionalmente.
+          Portanto, diante da flagrante controvérsia, passo a adotar, por ora, o entendimento majoritário da C. 3ª Turma que tem se posicionado no sentido de suspender apenas os processos que tratem de limitação por norma coletiva de percebimento de horas in itinere, considerando que o Recurso Extraordinário no qual foi reconhecida a repercussão geral trata especificamente desta matéria.
+           Assim, rejeito a questão de ordem.”
+    2. A parte reclamante alega afronta à ordem de suspensão nacional dos feitos (art. 1.035, §5º, do CPC) determinada no paradigma do Tema 1.406 da repercussão geral (“Validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente” - ARE 1.121.633, Rel. Min. Gilmar Mendes). Pleiteia a suspensão dos autos de origem até a decisão final do ARE 1.121.633.
+    3. É o relatório. Decido o pedido liminar.
+    4. Em 28.06.2019, no ARE 1.121.633-RG, paradigma do Tema 1.046 da repercussão geral, foi determinada a suspensão de todos os processos pendentes que cuidam da “validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente”, nos termos do § 5º do art. 1.035 do Código de Processo Civil.
+    5. No caso em exame, o órgão reclamado deixou de cumprir a decisão paradigma em processo em que se discute a nulidade do turno ininterrupto de revezamento na modalidade 4x4 previsto em norma coletiva, em razão do estabelecido na Súmula 423/TST que limita a jornada de turno a 8 horas diárias.
+    6. Assim, aparentemente, houve descumprimento da decisão do Ministro Gilmar Mendes no ARE 1.121.633. Há, pois, plausibilidade no direito alegado.
+    7. Reputo igualmente presente o periculum in mora. Para além da necessidade de se evitar o desperdício da atividade jurisdicional, os recursos trabalhistas não possuem, como regra, efeito suspensivo (art. 899, caput, da CLT). Sendo assim, decisões proferidas nos autos de origem podem ser executadas provisoriamente, recomendando o deferimento da medida liminar.
+    8. Do exposto, defiro o pedido liminar, para suspender o Processo nº 0000800-77.2019.5.17.0191, até a decisão final da presente reclamação.
+    9. Notifique-se a autoridade reclamada para (i) prestar as informações; e (ii) intimar a parte beneficiária do ato reclamado acerca da presente decisão, para que, querendo, impugne o pedido, nos autos da presente reclamação.
+    Publique-se. Comunique-se.
+          Brasília, 30 de março de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
