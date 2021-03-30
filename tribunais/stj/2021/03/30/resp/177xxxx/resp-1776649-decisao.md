@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por JOSE JULIO GUIMARAES FERREIRA E OUTRO, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 75):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. HONORÁRIOS ADVOCATÍCIOS. VALOR DA CAUSA. INAPLICÁVEL.
+No acolhimento de exceção de pré-executividade para excluir um dos executados do pólo passivo da execução fiscal, a condenação da exeqüente ao pagamento de honorários advocatícios não pode adotar como base de cálculo o valor da execução. Tratando-se de execução fiscal, o proveito econômico é indicado pelo valor dos bens penhoráveis do devedor.
+RECONHECIMENTO DO PEDIDO. ART. 90, § 4o, DO CPC.
+Aplica-se às execuções fiscais o artigo 90, §4º, do CPC, quando a exeqüente reconhece a procedência da defesa formulada em exceção de pré-executividade oposta pelo executado e assim concorda com o pedido, devendo os honorários ser reduzidos à metade.
+Não foram opostos embargos declaratórios.
+A parte recorrente aponta violação aos arts. 85, §§ 2º e 3º, 90, § 4º do CPC/2015. Sustenta, além da existência de dissídio jurisprudencial, que: (I) diante da "impossibilidade de mensurar o proveito econômico dever-se-ia aplicar o valor atualizado causa, ou como o próprio Relator reconhece nas citadas decisões, ser utilizado o valor que foi atribuídoa exceção de pré-executividade." (fl. 98); e (II) "no caso em tela, tendo em vista o requerimento formulado pela União, o juiz a quo teve que decidir a quem caberia o ônus da sucumbência, e não homologar a desistência. Portanto inaplicável a referida regra ao presente caso, devendo ser afastado a aplicação do Art. 90 § 4º do CPC." (fls. 105/106).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+O Tribunal de origem não se manifestou sobre as alegações do recorrente, a saber: diante da "impossibilidade de mensurar o proveito econômico dever-se-ia aplicar o valor atualizado causa, ou como o próprio Relator reconhece nas citadas decisões, ser utilizado o valor que foi atribuído a exceção de pré-executividade." (fl. 98); e (II) "no caso em tela, tendo em vista o requerimento formulado pela União, o juiz a quo teve que decidir a quem caberia o ônus da sucumbência, e não homologar a desistência. Portanto inaplicável a referida regra ao presente caso, devendo ser afastado a aplicação do Art. 90 § 4º do CPC." (fls. 105/106), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelo mesmo motivo, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
