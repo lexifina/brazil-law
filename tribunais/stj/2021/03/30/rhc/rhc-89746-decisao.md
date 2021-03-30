@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PAUL ANTHONY COE e GEORGIOS STEFANIS contra acórdão prolatado pelo TribunalRegional Federal da 5ª Regiãoque denegou habeas corpus noqual se buscava o trancamento de inquérito policial instaurado em desfavor dos recorrentes, "por haverem pretensamente incorrido na infração do disposto no art. 250, e §1º, inciso II, alínea caput,o qual tipifica o delito de causar incêndio, expondo a perigo a vida, a "c", do Código Penal integridade física ou o patrimônio de outrem com a causa de aumento de o incêndio ter ocorrido em embarcação" (e-STJ fl. 903).
+É, em síntese, o relatório.
+O presente recurso está prejudicado.
+Como consta das informações prestadas pelo Juízo da 4ª Vara Federal de Pernambuco, "foi oferecida denúncia pelo MPF em face de GEORGIOS STEFANIS e PAUL ANTHONY COE, ora pacientes, por haverem pretensamente incorrido na infração do disposto no art. 250, e §1º, inciso II, alínea caput, , o qual tipifica o delito de causar incêndio, expondo a perigo a vida, a "c", do Código Penal integridade física ou o patrimônio de outrem com a causa de aumento de o incêndio ter ocorrido em embarcação.A exordial acusatória foi oferecida no bojo do processo nº 0804889-79.2021.4.05.8300 em 10/03/2021, estando em vias de ser analisada para o seu recebimento ou não por este Juízo, a qual segue acompanhada de cópia eletrônica dos autos físicos do Inquérito Policial nº 0010561-14.2015.4.05.8300 (IPL nº 0681/2015) e seus anexos" (e-STJ fl. 903/904).
+Assim, como os recorrentes se insurgiam contra o excessode prazo para a conclusão do inquérito, o presente recurso perdeu seu objeto.
+Tal o contexto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
