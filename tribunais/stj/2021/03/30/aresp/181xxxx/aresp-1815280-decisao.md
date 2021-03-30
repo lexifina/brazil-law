@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 282 356 do STF e do 7 do STJ (e-STJ fls. 380/381).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 345):
+APELAÇÃO CÍVEL. CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. LOTEAMENTO. JUNTADA DE DOCUMENTOS EM CONTRARRAÇÕES. NÃO CONHECIMENTO. SENTENÇA CITRA PETITA. VIOLAÇÃO AO PRINCÍPIO DA ADISTRIÇÃO. VÍCIO SANADO COM O JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. NULIDADE AFASTADA. INADIMPLÊNCIA OU MORA DO PROMITENTE VENDEDOR. PEDIDO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE VALORES. JUSTA CAUSA PARA RESOLUÇÃO DO NEGÓCIO JURÍDICO. RETORNO DAS PARTES AO STATUS QUO ANTE. RECURSO CONHECIDO E PROVIDO. 1. Não se conhece de documento novo juntado fora da hipótese prevista no artigo 435 do CPC. 2. O vício da sentença foi corrigido com o julgamento dos embargos declaratórios, momento em que foi suprida da omissão quanto à análise do pedido subsidiário. Nulidade rejeitada. 3. Nas relações de consumo, o inadimplemento ou a mora do fornecedor pode ser causa de resolução do contrato, mormente quando a prestação não for mais útil ao credor. O atraso na entrega da infraestrutura do loteamento é fato bastante e suficiente para o acolhimento do pedido de desfazimento do negócio jurídico por incumprimento. 4. Resolvido o negócio jurídico, as partes devem retornar ao status quo ante, com a devolução integral dos valores desembolsados pelo comprador, sem a possibilidade de dedução ou abatimento de qualquer montante a título de cláusula penal ou arras (Súmula 543/STJ). 5. APELAÇÃO CONHECIDA E PROVIDA.
+Nas razões do recurso especial (e-STJ fls. 357/362), interposto com base no art. 105, III, "a", da CF, a recorrente apontou ofensa ao art. 394 do CC/2002, defendendo que os juros moratórios incidentes sobre os valores a serem reembolsados ao comprador seriam devidos a partir do trânsito em julgado da decisão decretando a rescisão da avença, não a partir da citação.
+Foram apresentadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 371/377).
+No agravo (e-STJ fls. 384/388), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de honorários recursais (e-STJ fls. 394/395).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 394 do CC/2002 sob o enfoque pretendido pela recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se
