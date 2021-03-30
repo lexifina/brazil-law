@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FRANCISCO CARLOS FERREIRA LACERDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 21/08/2020.
+Concluso ao gabinete em: 16/03/2021.
+Ação:de Indenização por Danos Materiais e Morais interposto por Francisco Carlos Ferreira Lacerda contra Maersk Brasil Brasmar LTDA, objetivando ressarcimento em decorrência de acidente que vitimou seu irmão.
+Sentença: julgou improcedente os pedidos, considerando a que a pretensão está fulminada pela prescrição.
+Acórdão: negou provimento à apelação do recorrente, nos termos da seguinte ementa:
+"APELAÇÃO. SENTENÇA QUE ACOLHE A ILEGITIMIDADE ATIVA E ANUNCIA A INCIDÊNCIA DA PRESCRIÇÃO TRIENAL. NO CASO, VÍTIMA DE ACIDENTE DE TRÂNSITO. IRMÃO POSTULA REPARAÇÃO CIVIL PELO SINISTRO. CARÊNCIA DE LEGITIMIDADE PARA AJUIZAR A REPARAÇÃO MATERIAL À VISTA DA EXISTÊNCIA DE FILHOS E ANTE À FALTA DE COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA. PRETENSÃO INDENIZATÓRIA MORAL IMPACTA NA PRESCRIÇÃO. PARADIGMAS DO STJ. DESPROVIMENTO.
+1. Rememore-se o caso. Na inicial, o Requerente alega que em 19.07.2003 seu irmão Francisco José Ferreira Lacerda foi brutalmente atropelado por veículo de propriedade da requerida, cujo acidente causou sua morte imediata. Sendo assim, sustenta que essa situação causou danos materiais (porque a vítima tinha 35 anos e poderia viver até os 65 anos) e ocasionou danos morais Para tanto, roga a indenização pelos danos materiais, no valor de R$ 132.240,00 cumulada com a reparação dos danos morais na quantia de R$ 132.240,00. Eis a origem da celeuma.
+2. PRETENSÃO DE REPARAÇÃO POR DANOS MATERIAIS: ILEGITIMIDADE ATIVA E AUSÊNCIA DE COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA: Realmente, o irmão padece de ilegitimidade ativa para ajuizar Ação de Indenização por Danos Materiais diante da perda de irmão. É que os filhos são diretamente prejudicados com este evento, pelo que lhes cabe a titularidade exclusiva da ação. Ademais, o irmão sequer demonstrou qualquer relação de dependência econômica que motivasse esse benefício em seuproveito.
+3. PRETENSÃO DE REPARAÇÃO POR DANOS MORAIS: PRESCRIÇÃO: Nada obstante a ilegitimidade ativa do Autor, na qualidade de irmão do falecido, para fins de reparação material, há possibilidade de buscar a indenização moral. E tal circunstância se justifica na medida que o aspecto parental ser afetivo e emocional. É que a morte de um parente decorrente de acidente de trânsito pode causar sofrimentos, podendo ser passível de reparação moral em seu proveito.
+4. No entanto, a pretensão esbarra na incidência da Prescrição. Na hipótese, o acidente de trânsito que ocasionou a morte do irmão do requerente ocorreu no dia 19.07.2003, enquanto que a presente ação foi proposta no dia 18.07.2007.
+5. Com efeito, o demandante propôs esta ação indenizatória em tempo superior aos 3 anos fixados pela lei civil, consoante art. 206, §3º, V do CC, confira-se: Art. 206. Prescreve: §3º Em três anos: V - a pretensão de reparação civil.
+6. Paradigmas do colendo STJ.
+7. DESPROVIMENTO do Apelo, para preservar a sentença intacta por irrepreensível" (e-STJ, fl. 352/353)
+Embargos de Declaração: opostos por pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022e 1025do CPC/2015 e200 do Código Civil. Sustenta, em síntese,omissãodo julgado quanto à apreciação da causa impeditiva/suspensivada prescrição. No mérito, alega que a presente ação foioriginada de fato que deveria ser apurado no juízo criminal. Aduz queapenas após a prolação da sentença definitiva naquele juízo, tem início a contagem da prescrição do seu direito àreparação pelos danos morais decorrentes do acidente que vitimou seu irmão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da violação do art.1.022 do CPC/2015
+Após o desprovimento de suaapelação, por ilegitimidade do seu direito ao recebimento de indenização por danos materiais e decretação da prescrição do seu direito ao recebimento da reparação pelos danos morais, a parte recorrente opôs embargos de declaração, suscitando, entre outros, manifestação a respeito da causa interruptiva/ suspensiva da prescrição, por depender de decisão no juízo criminal, o que foi suscitado desde as razões de apelação.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Contudo, no caso dos autos, verifica-se que a Corte de origem não se manifestou sobre o tema relevante suscitado tanto na apelação comonos embargos de declaração, qual seja, a interrupção/suspensão da prescrição, que tem influência no direito do recorrenteao recebimento da reparação pelos danos morais. Imperioso, portanto, o reconhecimento da negativa de prestação jurisdicional.
+Diante disso, impõe-se a cassação do acórdão integrativo, a fim de que a Corte de origem se pronuncie, na esteira do devido processo legal, acerca dos pontos elencados, ficando prejudicada a análise das demais matérias insertas na petição no recurso especial.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar o rejulgamento dos embargos de declaração.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO.FATO APURADO NO JUÍZO CRIMINAL. CAUSA INTERRUPTIVA OU SUSPENSIVA DA PRESCRIÇÃO. OMISSÃO CONFIGURADA.
+1. Açãode Indenização por Danos Materiais e Morais objetivando o ressarcimento de valores em decorrência de acidente fatal que vitimou o irmão do autor.
+2.Há ofensa ao art. 1.022 do CPC/15 quanto o Tribunal de origem deixa de se manifestar expressamente sobre relevante questão suscitada nos autos pelas partes.
+3. Recurso especial conhecido e parcialmente provido.
