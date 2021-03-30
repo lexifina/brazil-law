@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de DONISETE BUNHOLAapontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0006351-20.2016.8.26.0554).
+Colhe-se dos autos que opacientee o corréu foram condenadoscomo incursosnas sanções do art. 155, §4º, incisoIV, do Código Penal, tendo a pena do paciente sido fixada em 3 anos de reclusão, em regime semiaberto, e 20dias-multa (e-STJ fls. 18/23).
+Irresignadas, apelaram as partes, tendo sido provido o recurso ministerial e parcialmente provido o da defesa, em acórdão cuja ementa foi assim definida (e-STJ fl. 6):
+Apelações Criminais - Furto qualificado - Concurso de agentes Sentença condenatória Apelo Defensivo em que se pretende a absolvição por fragilidade probatória ou subsidiariamente, a redução das penas, o reconhecimento da atenuante da confissão, o abrandamento do regime prisional e o prequestionamento da matéria Admissibilidade parcial - Materialidade, autoria e qualificadora suficientemente demonstradas - Réus presos com parte das rei subtraídas - Palavras da vítima, da testemunha e dos policiais assaz importantes e valiosas na apuração dos fatos - Condenação bem editada, com base em sólido e convincente acervo probatório Penas base reduzidas Impossibilidade de reconhecimento da atenuante da confissão, vez que os réus negaram os fatos Regime prisional benevolamente estabelecido - Via recursal que não pode ser manejada para fins de prequestionamento, pois, prequestionar não significa interpretar o texto legal e, sim, pronunciar-se sobre questões pertinentemente suscitadas, o que foi devidamente realizado in casu. Recurso defensivo parcialmente provido.
+Apelo ministerial com vistas ao reconhecimento da agravante da reincidência quanto a ambos os réus, e seus reflexos na fixação da pena e do regime prisional Admissibilidade Réus reincidentes Aumento das penas na segunda fase da dosimetria de rigor Regime prisional alterado para o fechado.
+Recurso ministerial provido.
+Neste writ,alega a defesa, em breve síntese, que o paciente faz jus à fixação do regime semiaberto, mormente porque o delito cometido não possui violência e o bem foi recuperado.
+Requer, assim, a concessão da ordem a fim de fixar o regime semiaberto em benefício do paciente.
+É o relatório.
+Decido.
+Acerca da quaestio, assim consignou o Tribunal de origem(e-STJ fls. 13/15):
+Na primeira fase da dosimetria, as penas de ambos os acusados foram estabelecidas em 1/2(metade) acima do mínimo legal, mercê dos maus antecedentes. Em que pese escorreito o reconhecimento de tal circunstância, necessário adequar a fração empregada, pois esta se mostrou exagerada.
+Assim, quanto a Donisete, que ostenta quatro condenações anteriores aptas a serem utilizadas nesta fase (fls. 144/157 execuções 1, 2 e 3 e fls. 321), as penas ficam majoradas em 1/3 (um terço).
+Quanto a Gilmar, que apresenta três condenações anteriores que configuram maus antecedentes (fls. 158/174, execução 4, fls.325 e 326), as penas devem ser majoradas em 1/4(um quarto).
+Impossível o afastamento da majoração por tais circunstâncias judiciais desfavoráveis, porque, consoante tem proclamado a jurisprudência, "o período depurador de cinco anos afasta areincidência, mas não afasta os maus antecedentes".
+Na fase intermediária, como bem asseverado pelo Ministério Público nas razões recursais, ambos os acusados ostentam reincidência, razão pela qual a pena de ambos deverá sofrer nova elevação, em atenção ao princípio da individualização das penas. Cabe registrar que as condenações utilizadas nesta etapa são distintas daquelas utilizadas na fase anterior, razão pela qual não há que se falar em bis in idem.
+Assim, Donisete terá as penas elevadas em 1/5 (um quinto), uma vez que é reincidente específico (fls. 323) e Gilmar terá as penas elevadas em 1/6 (um sexto), por tratar-se de reincidência genérica (fls.327/328).
+Não há atenuantes a serem consideradas, vez que ambos negaram a prática do crime nas duas oportunidades em que foram ouvidos.
+Como corolário, as penas de Donisete ficam definitivamente estabelecidas em 3 (três) anos, 2 (dois) meses e 12 (doze) dias de reclusão e 15 (quinze) dias-multa e as de Gilmar em 2 (dois) anos e 11 (onze) meses de reclusão e 14 (quatorze) dias-multa.
+No tocante ao regime prisional, assiste razão, mais uma vez, ao órgão ministerial, pois, malgrado o quantitativo da pena e de não se cuidar de crime cometido com violência ou grave ameaça, o fechado semostra mesmo necessário e o mais adequado à espécie, mercê dos maus antecedentes e da reincidência dos réus, que vêm sofrendo condenações criminais há mais de década, o que demonstra que as punições anteriormente por eles experimentadas não lhes proporcionaram a necessária conscientização, de nada valendo, portanto, a prevenção especial, sem nenhum efeito intimidativo no caso concreto, a fazer despontar a periculosidade dos agentes e a recomendar, de conseguinte, a imposição do regime prisional diverso para o início do desconto da pena corporal, como sinal de maior reprovabilidade de suas repetidas condutas.(grifei)
+O entendimento do Tribunal de origem não merece reparos.
+Com efeito, a despeito de a pena imposta ao paciente ser inferior a 4 anos de reclusão, sua condição de reincidente, somada à análise desfavorável das circunstâncias judiciais pela existência de maus antecedentes, justifica a imposição do regime fechado.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PENA INFERIOR A 4 ANOS. RÉU MULTIRREINCIDENTE. CIRCUNSTÂNCIAS DO ART. 59 DO CP NEGATIVAS. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor da Súmula n. 269 do STJ, é admissível a adoção do regime prisional semiaberto ao réu reincidente, condenado a pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais.
+2. Correta a manutenção do regime inicial fechado, pois o agravante, apesar de sentenciado a reprimenda inferior a 4 anos, é multirreincidente e possui três circunstâncias do art. 59 do CP negativas.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1149079/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018, grifei.)
+Ante o exposto, denego a ordem, in limine.
+Publique-se. Intimem-se.
