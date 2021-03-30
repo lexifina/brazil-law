@@ -1,0 +1,79 @@
+DECISÃO
+JOÃO ANTÔNIO SHEMBERK JÚNIOR (JOÃO) ajuizou ação de obrigação de fazer contra FERNANDO RIBEIRO BAU e PAULA SUELEN DE LARA BAU (FERNANDO e outra), tendo por objeto contrato de promessa compra e venda de imóvel firmado entre as partes.
+Os demandados apresentaram contestação e reconvenção.
+A sentença julgou o pedido parcialmente a fim de converter o pedido de obrigação de fazer em perdas e danos, condenando o requerido ao pagamento de indenização relativa à desvalorização imobiliária em virtude da ausência de averbação da edificação na matrícula, valor esse que será obtido através da liquidação de sentença por arbitramento, e julgou improcedente a reconvenção (e-STJ, fls. 281/289).
+PAULA e outro interpuseram recurso de apelação assim apreciado pelo Tribunal estadual:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. RECONVENÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA DO PEDIDO PRINCIPAL E IMPROCEDÊNCIA DO PEDIDO RECONVENCIONAL. EXPRESSA PREVISÃO CONTRATUAL NO SENTIDO DE QUE OS RÉUS/APELANTES SE COMPROMETERAM A ENTREGAR A CONSTRUÇÃO AVERBADA NO REGISTRO DE IMÓVEL. IMPOSSIBILIDADE DE RECONHECIMENTO DA EXCLUDENTE DE RESPONSABILIDADE, EM RAZÃO DE FATO DE TERCEIRO ALHEIO À LIDE. CLÁUSULA CONTRATUAL QUE DISPÕE SOBRE A SUSPENSÃO DO PAGAMENTO DAS PARCELAS ATÉ A CONCLUSÃO DA AVERBAÇÃO. APLICABILIDADE DO ART.499 DO CÓDIGO DE PROCESSO CIVIL.CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS, ANTE A IMPOSSIBILIDADE DE CUMPRIMENTO. MANUTENÇÃO DA SENTENÇA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E NÃO PROVIDO (e-STJ, fl.414).
+Os embargos de declaração opostos por PAULA e outra foram parcialmente acolhidos nos moldes do acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER E RECONVENÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA DO PEDIDO PRINCIPAL E IMPROCEDÊNCIA DO PEDIDO RECONVENCIONAL. ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO INTERPOSTO PELOS RÉUS. INSURGÊNCIA.INOVAÇÃO RECURSAL QUANTO À ALEGAÇÃO DE OMISSÃO EM RELAÇÃO À CLÁUSULA DE CORREÇÃO. NÃO CONHECIMENTO DESSE TÓPICO. OMISSÃO CONFIGURADA QUANTO AOS CRITÉRIOS DE APURAÇÃO DO VALOR DEVIDO A TÍTULO DE INDENIZAÇÃO PELAS PERDAS E DANOS. DEMAIS PONTOS ARGUIDOS COMO OMISSOS DEVIDAMENTE ANALISADOS NO ACÓRDÃO. PARTE QUE BUSCA A REDISCUSSÃO DA MATÉRIA.EMBARGOS DE DECLARAÇÃO PARCIALMENTE CONHECIDOS E, NA PARTE CONHECIDA, PARCIALMENTE ACOLHIDOS (e-STJ, fl.486).
+JOÃO também apresentou dois embargos de declaração os quais foram acolhidos conforme julgados assim ementados:
+EMBARGOS DE DECLARAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER E RECONVENÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA DO PEDIDO PRINCIPAL E IMPROCEDÊNCIA DO PEDIDO RECONVENCIONAL. ACÓRDÃO DE NÃO PROVIMENTO DO RECURSO INTERPOSTO PELA PARTE RÉ/EMBARGADA.ALEGADA OBSCURIDADE QUANTO À FIXAÇÃO DOS HONORÁRIOS RECURSAIS. ACÓRDÃO QUE DA MARGEM À INTERPRETAÇÃO EQUIVOCADA. OBSCURIDADE RECONHECIDA.
+ALTERAÇÃO DO ACÓRDÃO PARA RESSALVAR A MAJORAÇÃO A TÍTULO DE HONORÁRIOS RECURSAIS EM FAVOR DA PARTE AUTORA/EMBARGANTE, PAGA PELA PARTE RÉ/EMBARGADA.EMBARGOS DE DECLARAÇÃO ACOLHIDOS (e-STJ, fl. 541).
+EMBARGOS DE DECLARAÇÃO 03. AÇÃO DE OBRIGAÇÃO DE FAZER E RECONVENÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA DO PEDIDO PRINCIPAL E IMPROCEDÊNCIA DO PEDIDO RECONVENCIONAL. ACÓRDÃO QUE ACOLHEU PARCIALMENTE OS EMBARGOS 01. INSURGÊNCIA. OMISSÃO QUANTO À FIXAÇÃO DOS CONSECTÁRIOS LEGAIS.OCORRÊNCIA. VÍCIO SANADO. EMBARGOS DE DECLARAÇÃO 03 CONHECIDOS E ACOLHIDOS (e-STJ, fl. 589).
+FERNANDO e outra interpuseram recurso especial com base no art. 105, III, a e c, da CF, onde alegou violação dos arts. 186, 248 e 927 do CC/2002, e dissídio jurisprudencial em relação ao art. 499 do CC/2002, pelos fundamentos assim sintetizados (1) como demonstrado nos autos, os recorrentes diligenciaram na tentativa de regularizar a matrícula do imóvel junto ao Município; (2) a obrigação se tornou inexequível por fato de terceiro alheio à lide, não sendo possível a conversão em perdas e danos; (3) o contrato prevê expressamente que os recorrentes não estariam sujeitos às penalidades contratuais caso eventual atraso decorresse de medidas impostas pelos órgãos responsáveis; (4) não ficou caracterizada a prática de ato ilícito ensejador do dever indenizatório; (5) subsidiariamente, deve ser determinada a compensação de valores já que o recorrido foi parcialmente inadimplente, pois não pagou o valor integral do imóvel; (6) reconhecida a inexequibilidade da obrigação deve ocorrer a resolução por perdas e danos.
+Foram ofertadas contrarrazões (e-STJ, fls. 651/669).
+O Tribunal de origem inadmitiu o apelo nobre com fundamento das Súmulas nºs 5 e 7 do STJ.
+FERNANDO e outra ingressaram com agravo em recurso especial sustentando que a análise das matérias deduzidas no recurso especial não dependem de reinterpretação de cláusula contratual ou reexame de matéria fática devendo ser afastada a aplicação das Súmulas nºs 5 e 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 705/712).
+O agravo foi conhecido para não conhecer do recurso especial, em decisão monocrática de minha relatoria, assim ementada:
+CIVIL AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. OBRIGAÇÃO DE FAZER. AVERBAÇÃO DE MATRÍCULA DE IMÓVEL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS.186, 248 E 927 DO CC/2002. SÚMULAS NºS 282 E 356 DO STF.PRETENSÃO RECURSAL FUNDADA NA OFENSA DO ART. 499 DO CC/2002 QUE É OBSTADA PELAS SÚMULAS NºS 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fl. 731).
+Nas razões dos presentes embargos de declaração, FERNANDO e outra aduziram que o decisum padece de omissão quanto a presença do prequestionamento implícito dos dispositivos legais apontados como violados e, também, quanto a prescindibilidade do reexame do conjunto fático-probatório dos autos para o deslinde da demanda.
+Impugnação foi apresentada (e-STJ, fls. 750/758).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratórios, FERNANDO e outra aduziram que o decisum padece de omissão quanto a presença do prequestionamento implícito dos dispositivos legais apontados como violados e, também, quanto a prescindibilidade do reexame do conjunto fático-probatório dos autos para o deslinde da demanda.
+Contudo, sem razão.
+Constou expressamente na decisão embargada que, ao contrário do que afirmado nas razões da insurgência, que a discursão acerca dos arts. 186, 248 e 927 do CC/02 não foi apreciada pelo acórdão impugnado, atraindo a incidência das Súmulas nº 282 e 365 do STF.
+A propósito, vejam-se seguintes os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+ ..
+4.Agravo interno improvido.
+(AgInt no AREsp 1.593.485/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, J. 11/5/2020, DJe 19/5/2020 - sem destaques no original)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MENSALIDADE ESCOLAR. COBRANÇA. ACTIO NATA. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.614.973/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 31/8/2020, DJe 8/9/2020 - sem destaques no original)
+Há que se ressaltar que, nos termos do art. 1.025 do NCPC, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+De forma que, para que fosse admitido o prequestionamento ficto, FERNANDO e outradeveriam ter opostos embargos de declaração especificamente a respeito dotema,indicando a violação do art. 1.022 do NCPC, o que inocorreu no presente caso.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ART. 1.021, § 3º, DO CPC/2015. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. APELAÇÃO INTEMPESTIVA. PRAZO SUSPENSO EM DIA QUE RECAIU NO CURSO DO LAPSO RECURSAL. AUSÊNCIA DE PRORROGAÇÃO. AGRAVO IMPROVIDO.
+1. Não tendo sido enfrentadas a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento, incidindo os óbices das Súmulas n. 282 e 356 do STF.
+2. De fato, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.171.590/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 6/3/2018, DJe 13/3/2018  sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEVEDORA EM PROCESSO DE LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA EXECUÇÃO. CABIMENTO. PRETENSÃO DE DEVOLUÇÃO DE QUANTIAS JÁ LEVANTADAS E DESCONSTITUIÇÃO DE PENHORA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS. INTERPRETAÇÃO CONFERIDA AO ART. 1.025 DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017), o que não se verifica na hipótese dos autos.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.120.645/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 20/2/2018, DJe 27/2/2018 - sem destaque no original).
+.
+De outro ponto, ficou explicitado que a decisão agravada consignou, quanto a alegada violação doart. 499 do CC/02, a incidência daSúmulanº 7 do STJ, pois Tribunal paranaense consignou que(1) o contrato continha previsão de que o imóvel seria entregue com averbação na matrícula; (2) os recorrentes não cumpriram com as leis ambientais, razão pela qual o Município não permitiu a averbação; ressaltando que (3) no contrato firmado havia previsão expressa de que o pagamento das parcelas seria suspenso até a conclusão da averbação, não se cogitando de inadimplemento do recorrido entre as partes.
+Salientou-sequepara se chegar a conclusão diversa daquela a que chegou o TJPR, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas nºs 5 e 7, ambas desta Corte: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original).
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022, DO NCPC.OMISSÃO. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
