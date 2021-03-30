@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO com a seguinte ementa (e-STJ, fl. 316):
+PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. APOSENTADORIA POR INVALIDEZ. REQUISITOS. INCAPACIDADE LABORAL. TOTAL E DEFINITIVA. TERMO INICIAL. DII ATESTADA PELO PERITO JUDICIAL.
+- Em relação ao termo inicial, o entendimento que vem sendo adotado é no sentido de que, evidenciado que a incapacidade laboral já estava
+presente quando do requerimento/cessação na via administrativa, mostra-se correto o estabelecimento do termo inicial do benefício previdenciário em tal data. Hipótese em que deve ser observada a data atestada pelo perito judicial, pois quando identificada a incapacidade laboral definitiva.
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso constitui tema dos Recursos Especiais n. 1.865.553/PR, 1.865.223/SC e 1.864.633/RS (Tema 1.059 - Possibilidade de majoração, em grau recursal, da verba honorária fixada em primeira instância contra o INSS quando o recurso da entidade previdenciária for provido em parte ou quando o Tribunal nega o recurso do INSS, mas altera de ofício a sentença apenas em relação aos consectários da condenação.), submetido ao rito dos recursos repetitivos, estabelecido pelo dispos to no art. 1.036, § 5º, do CPC/2015.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
