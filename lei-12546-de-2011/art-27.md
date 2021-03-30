@@ -1,1 +1,1 @@
-Art. 27. O Ministério da Fazenda e o Ministério do Desenvolvimento, Indústria e Comércio Exterior emitirão as normas complementares para o cumprimento do disposto nos arts. 24 a 26 desta Lei.
+Art. 27. Ato do Ministro de Estado da Economia estabelecerá normas complementares ao cumprimento do disposto nos art. 24 ao art. 26.
