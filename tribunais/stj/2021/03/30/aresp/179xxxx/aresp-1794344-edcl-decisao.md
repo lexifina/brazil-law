@@ -1,0 +1,42 @@
+DECISÃO
+RENÊ FORMIGARI DE ALMEIDA BARBOSA e outra (RENÊ e outra) ajuizaram ação de embargos à arrematação contra ESTALEIRO PROCYON LTDA. ME e outra (ESTALEIRO e outra), sob a alegação de irregularidade na intimação da inventariante; penhora equivocada do bem arrematado. preço vil da venda, ausência de intimação nos termos do art. 475-J do CPC/1973; configuração de bem de família e desrespeito à meação da autora.
+A sentença extinguiu o processo por intempestividade dos embargos à arrematação.
+RENÊ e outra interpuseram apelação apreciada pelo Tribunal local em acórdão da relatoria do Des. MORAIS PUCCI, assim ementado:
+Apelação Cível. Embargos à arrematação. Sentença de extinção.Intempestividade. O prazo para interposição dos embargos à arrematação é de cinco dias da assinatura do auto (art. 746, CPC).Hipótese dos autos em que os embargantes alegam nulidade da arrematação por vício na intimação.Possibilidade de recebimento dos embargos como ação anulatória da arrematação. Precedente do STJ.Inventariante pessoalmente intimada da penhora, mesmo após sua destituição do cargo. Ausência de informação nos autos da execução sobre a destituição da inventariante. Nulidade afastada. Advogados do espólio que receberam todas as intimações. Novo inventariante que recebeu os autos no estado em que estava.Possibilidade de penhora dos bens integrantes do espólio. O fato de o bem constrito ser indivisível não macula a penhora ou a arrematação, devendo ser observada a reserva do produto da alienação judicial, que retornará ao montante do espólio.Todavia, considerando o regime de casamento adotado pela coapelante e pelo de cujus, comunhão universal de bens, todas as dívidas contraídas na constância do casamento são partilhadas, ou seja, são comunicáveis todos os bens e dívidas dos cônjuges.Ausência de prova de que o imóvel penhorado é bem de família.Declaração de bens juntadas nos autos do inventário que revela a existência de outras casas e terrenos residenciais.pertencentes ao espólio. Imóvel arrematado por 60% do valor atualizado da avaliação. Não configuração de preço vil.Embargos à arrematação recebidos como ação anulatória, julgado, porém, improcedente o pedido de nulidade da arrematação.
+Apelação não provida (e-STJ, fls. 477/478).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 526/528).
+RENÊ e outra interpuseram recurso especial com base no art. 105, III. a e c, da CF, onde alegou violação dos arts. 5º, LIV e LV, da CF 247, 248, 249, 369, 655, § 2º, 698 do NCPC e 1º da Lei 8009/1990 e dissídio jurisprudencial, pelos fundamentos assim sintetizados (1) ausência de intimação da cônjuge sobre a penhora do bem; (2) a penhora do imóvel foi irregular; (3) não ocorreu a intimação do novo inventariante conforme dispõe o art. 475-J do CPC/1973; (4) o imóvel foi arrematado a preço vil; (5) o imóvel é bem de família; (6) cerceamento de defesa por não ser oportunizada a comprovação de que o imóvel é bem de família; (7) não foi respeitada a meação da embargante.
+Foram ofertadas contrarrazões (e-STJ, fls. 568/570).
+O Tribunal de origem inadmitiu o apelo nobre por (1) ser descabida a alegação de violação a norma constitucional na via do recurso especial; (2) não ter sido demonstrada a infringência dos preceitos arrolados; (3) se aplicar a Súmula nº 7 do STJ; (4) o dissídio jurisprudencial não ficou configurado.
+RENÊ e outra ingressaram com agravo em recurso especial sustentando que (1) o tema tratado no recurso é jurídico e não demanda a reapreciação de provas; (2) a matéria foi prequestionada; (3) ficou evidente a ofensa dos artigos indicados e o dissídio jurisprudencial, reiterando a seguir os termos do recurso especial.
+Foram apresentadas contraminutas (e-STJ, fls. 612/613 e fls. 615/620).
+Em decisão da minha lavra não conheci do agravo, por ausência de impugnação específica dos fundamentos da decisão impugnada,mais especificamente o de não ser possível a interposição de recurso nobre sob a alegação de ofensa a preceito constitucional,sendo assim indexada:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. EMBARGOS À ARREMATAÇÃO. BEM DE FAMÍLIA. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA.APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO (e-STJ, fl. 631).
+Nas razões dos presentes embargos de declaração, RENÊ e outra, sob alegação de omissão no julgado,repisaram os argumentos trazidos nas razões do recurso especial e afirmaram que houve impugnação dos fundamentos da decisão ora embargada.
+Não houve impugnação ao recurso (e-STJ, fl. 656).
+É o relatório.
+DECIDO.
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão embargado não foi omisso e, com clareza e coerência, concluiu fundamentadamente que o agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de não ser possível a interposição de recurso nobre sob a alegação de ofensa a preceito constitucional, que levou ao não provimento do recurso especial articulado.
+Logo, não tendo o seu recurso impugnado especificamente todos os fundamentos da decisão recorrida, foi o caso de incidir o art. 932, III, do NCPC. Como consequência, afasta-se a existência dos vícios referidos no julgado aqui embargado.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art.1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..  5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições,REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. VÍCIOS.INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
