@@ -1,0 +1,49 @@
+TRIBUNAL DE JUSTIÇA
+ESTADO DE MATO GROSSO
+GABINETE DO DESEMBARGADOR JUVENAL PEREIRA DA SILVA
+TERCEIRA CÂMARA CRIMINAL
+HABEAS CORPUS CRIMINAL (307) – 1005022-10.2021.8.11.0000
+PACIENTE: ALISON ROSA DE MOURA SILVA, GABRIELLY DE ALMEIDA CONSTANTINO
+IMPETRANTE: DANIEL NASCIMENTO RAMALHO
+IMPETRADO: JUÍZO DA 7a VARA CRIMINAL DA COMARCA DE CUIABÁ
+Vistos.
+Trata-se de habeas corpus, impetrado pelo advogado DANIEL NASCIMENTO RAMALHO em favor do paciente GABRIELLY DE ALMEIDA CONSTANTINO e ALISON ROSA DE MOURA SILVA, presos pelo suposto cometimento dos crimes de crimes de estelionato e extorsão (artigo 288, artigo 158, § 1o e artigo 177, todos do Código Penal), aduzindo como autoridade coatora o JUÍZO DO NÚCLEO DE AUDIÊNCIAS E CUSTÓDIA DE CUIABÁ.
+Em síntese, requer o impetrante que a concessão da ordem de habeas corpus liminarmente, para fim de conceder a medida liminar, ante a existência de fumus boni iuris e periculum in mora, determinando a imediata liberdade provisória dos pacientes, mediante imposição de medidas cautelares diversas da prisão, com a imediata expedição de alvará de soltura.
+O writ foi protocolado em plantão e após analisar, o Desembargador Plantonista, entendeu que não se tratava de caso de plantão, determinando a distribuição nos termos regimentais no expediente forense.
+Após sorteio, os autos me vieram conclusos, ao qual, passo a análise.
+É o relatório.
+Inicia o impetrante, com argumentos na linha de que a suposta vítima, senhora Karina Tavares do Carmo, confessa em seu depoimento que recebeu indevidamente ou equivocadamente o em sua conta bancaria por meio do sistema PIX o valor de R$ 27.500,00.
+Ora, se a senhora Karina recebeu o valor indevido, e posteriormente devolveu a quem quer que seja, restam clara e evidente que esta não foi vitima do crime de estelionato, podendo abrir brecha para outras questões em nosso ordenamento jurídico.
+Deste modo, não existe vitima do crime de estelionato que vieram aos autos ou no próprio conjunto instrutório da delegacia de policia, documentos capazes de provar a existência de qualquer representação em desfavor dos pacientes.
+Diante desse quadro, cabem dois apontamentos;
+Primeiramente, a afirmação de que não há uma vítima, pois não há crime, é afirmação que esbarra nos limites inerentes ao instrumento utilizado, no caso, o mandamus constitucional, que possui balizas limitadoras de verticalização probatória, não cabendo aqui a discussão sobre a existência ou não do crime, negado pelo interessado, como supostamente praticado pelos pacientes.
+Segundo, analisando os autos, observo norte diferente da paisagem apresentada pelo impetrante, como sendo a verdade pura e simples.
+O magistrado ao decretar a prisão preventiva do paciente ALISON, fundamentou que:
+"Prefacialmente é imperioso destacar que após consulta ao sistema informatizado do TJMT, verifico ser o réu reincidente, haja vista ter sido condenado em crime doloso, em sentença transitada em julgado (ID. 51721232 – autos código 465873 – n. 5727-35.2017.811.0042 – Guia de Execução Definitiva), amoldando-se, portanto, os fatos à hipótese prevista no art. 313, II, do CPP1.
+Ademais, dois dos crimes, objeto de lucubração nesses autos, são dolosos e apenados com pena privativa de liberdade superior a 4 (quatro), de modo que, em razão disso, se faz cogente reconhecer estar presente o requisito de admissibilidade do decreto prisional cautelar (CPP, art. 313, I).
+Quanto à presença do fumus comissi delicti, compulsando os documentos encaminhados pela autoridade policial, verifico que a materialidade do delito em comento restou demonstrada pelo documento acostado aos autos (fls. 17/39 do ID. 51695963, a saber: prints das conversas pelo aplicativo de whatsapp, recibos de transferência e B.O.
+No tocante aos indícios de autoria verifico pelo depoimento prestado pelo Investigador de Polícia Wallace Lara Cruz de Oliveira, que tais indícios se fazem presentes. O referido investigar declarou, em suma, “Que a Sra. Karina Tavares do Carmo, compareceu naquela gerencia e informou que foi transferido para sua conta o montante de R$ 27.5000,00 (vinte e sete mil e quinhentos reais) da conta do Sr. Wanderlei, informando, ainda, que não tinha conhecimento da origem do montante e nem porque a transação fora feita; que uma mulher que se identificou como “Camila” entrou em contato, por meio de mensagem de whatsapp e indagou sobre o dinheiro em sua conta; (...)que
+“Camila” começou a ligar inúmeras vezes e ameaçou Karina, disse que se ela não transferisse o dinheiro, iria sofrer consequências; que diante dos fatos, ela registrou um boletim de ocorrência n. 2021.74484 e diante das pressão, feita por “camila”, Karina transferiu o dinheiro para conta de uma chamada Gabrielly Pedrosa de Arruda; que receberam informação que na agência do Banco do Brasil da Avenida Fernando Correa, uma mulher chamada Gabrielly estaria tentando sacar um montante expressivo e demonstrava um certo nervosismo; que deslocaram até o local, abordaram Gabrielly no guichê do banco; que também foi abordado um rapaz chamado Alison Rosa de Moura Silva, o qual confessou estar junto com Gabrielly e com uma mulher que estava no Gol, vermelho, placa NIZ7105; que havia mais um rapaz com eles, o qual conseguiu se evadir do local; que a mulher que estava no Gol, aguardando sacar o dinheiro, trata-se de Gabrielly de Almeida Constantino”, estando caracterizado, indiciariamente, os delitos dispostos nos autos.
+Com efeito, estando demonstrada a materialidade do delito, em sua forma tentada, e havendo indícios suficientes de autoria, forçoso é reconhecer a presença do fumus comissi delicti, conforme preceitua a parte final do art. 312 do CPP2.
+No que diz respeito ao periculum libertais verifico, conforme já expedido acima, pela certidão de antecedentes criminais (ID. 51721232), que o indigitado é reincidente em crime doloso e, ainda, registra diversos processos criminais por crimes dolosos, havendo, quanto ao mesmo, evidente reiteração criminosa, sendo, portanto, necessária a manutenção de sua custódia cautelar por garantia da ordem pública, com vistas a salvaguardar a sociedade de novas investidas criminosas, pondo cobro as reiterações criminosas praticadas, evitando, assim, a indesejável sensação de impunidade, diante do flagrante menosprezo pelas normas penais demonstrado pelo agente.
+Ressalto, ainda, que eventual aplicação das medidas cautelares diversas da prisão, restará inadequada ou insuficiente para a prevenção e repressão ao crime.
+Com efeito, estando presentes os requisitos legais para o decreto prisional cautelar do indigitado, impõe-se seja convertida sua prisão em flagrante em prisão preventiva." (sic - id. 81065464)
+Ao contrário do que sustenta o turno defensivo, consta dos autos, elementos que ditam enredo diverso do apresentado em defesa dos pacientes, constando que a suposta vítima não sabia a razão do depósito em sua conta, tampouco a razão para aquele dinheiro e que após, uma das suspeitas, de nome Camila, ligou inúmeras vezes e ameaçou a vítima, informando que caso ela não transferisse o dinheiro, sofreria as consequências.
+Ato outro, o paciente ALISON teve sua prisão preventiva decretada, por já ostentar condenação anterior, havendo no entendimento do magistrado de origem, riscos de reiteração delitiva. Nesse ponto, tenho que ao menos por ora, não sobressai a ausência dos requisitos do artigo 312 do Código de Processo Penal, pelo contrário, mostram-se presentes.
+Assim ao menos nesse juízo prelibatório, não constato ilegalidade e constrangimento na segregação cautelar do paciente.
+Assim, indefiro a liminar pleiteada.
+No que importe a paciente GABRIELLY o douto causídico, DR. DANIEL RAMALHO, OAB/MT n° 24405 (id. 81125464), requereu a desistência do writ em favor da paciente requerer a desistência do writ impetrado em favor da paciente GABRIELLY DE ALMEIDA CONSTANTINO
+Requerida a desistência do habeas corpus impetrado, encontra-se presente óbice intransponível para o conhecimento do feito, não havendo, pois, que falar em seu prosseguimento no tocante a paciente GABRIELLY.
+Assim, tratando-se de ação originária de competência deste Egrégio Tribunal, HOMOLOGO a desistência manifestada.
+Em tempo, determino a retirada do nome da paciente GABRIELLY DE ALMEIDA CONSTANTINO dos registros virtuais no Sistema PJE do presente habeas corpus.
+Requisitem-se informações à douta autoridade indigitada coatora, que deverá prestá-las de forma pormenorizada e no prazo legal, nos termos do Capítulo 7, Seção 22, item 7.22.1, da Consolidação das Normas Gerais da Corregedoria Geral de Justiça, com as alterações introduzidas pelo Provimento no. 47/13, que assim dispõe:
+“O Juiz, ao prestar as informações requisitadas pelo Relator em habeas corpus, e somente ele, observará o seguinte:
+I - atenderá com máxima prioridade e celeridade, não ultrapassando, sob qualquer hipótese, o prazo de 05 (cinco) dias;
+II - fará relatório das fases do processo, incluindo a data e a hora da chegada da requisição; (Inciso alterado pelo Provimento n° 47/13-CGJ)
+III - apresentará as considerações de caráter jurídico indispensáveis, identificando as teses levantadas na impetração, procurando demonstrar, com base em dados concretos dos autos, os motivos da prisão, os fundamentos da decisão atacada e as razões de eventual excesso de prazo, na instrução, conforme o caso; (Inciso alterado pelo Provimento n° 47/13-CGJ).
+IV - fará a remessa da informação, direta e imediatamente, à autoridade requisitante, inclusive, por fac-símile;
+V - providenciará o encaminhamento da requisição à correta autoridade coatora, caso verifique ser outra, comunicando à origem e evitando a devolução da requisição sem o devido e necessário atendimento.”.
+Após, remetam-se à i. Procuradoria-Geral de Justiça, para fins de direito.
+Cuiabá, 30 de março de 2021.
+Desembargador Juvenal Pereira da Silva
+Relator
