@@ -1,0 +1,54 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1002597-06.2018.8.11.0003
+Vistos etc.
+Trata-se Recurso de Apelação Cível interposto por Edson Estevão Rey Molina em virtude da sentença proferida pelo Juiz da 2.a Vara Cível da Comarca de Rondonópolis que, nos autos da Ação de Nulidade de Ato Jurídico por falta de notificação c/c Danos Morais, rejeitou a preliminar de ilegitimidade passiva arguida pela Ré Confederação Nacional dos Dirigentes Lojistas e, julgou improcedente os pedidos iniciais, extinguindo o processo com resolução do mérito, nos termos do art. 487, I, do CPC.
+O Juiz sentenciante ainda condenou o Recorrente ao pagamento dos honorários advocatícios, os quais foram fixados em 20% (vinte por cento) do valor da causa, cuja exigibilidade manteve suspensa nos termos do art. 98, § 3.o do CPC.
+Em suas razões, o Apelante alega que não foi notificado da inserção do seu nome no cadastro de inadimplentes.
+Salienta que os documentos apresentados pela Recorrida não demonstram o envio da notificação válida ao Apelante, haja vista o endereço incorreto de correspondência. Sob essa mesma alegação, pede a condenação da empresa ao pagamento de multa por litigância de má-fé.
+Aduz que, inobstante a inclusão do nome do consumidor seja feita pela credora, “a notificação prévia dever ser efetivada pelo órgão que lança a negativação (certidão positiva de débito)”.
+Argumentou que o ato ilícito decorrente da negativação indevida, sem prévia notificação, ocasionou danos de ordem subjetiva, os quais devem ser indenizados.
+Firme nesses argumentos, requer a reforma integral da sentença mediante a procedência dos pedidos iniciais.
+Em Contrarrazões (ID. 64677950), a Confederação Nacional dos Dirigentes Lojistas (SPC Brasil) argui, preliminarmente, a ilegitimidade passiva vez que a entidade registradora (CDL Região Metropolitana de São Paulo) foi plenamente identificada e, por consequência, é quem pode atuar na causa.
+No mérito, rechaça os argumentos lançados pelo Recorrente, pois entende que está demonstrada de maneira satisfatória a notificação prévia e válida do consumidor.
+No ID. 79889971, o Apelante se manifestou a respeito da preliminar arguida nas contrarrazões.
+Eis o relatório. DECIDO.
+Desde logo, verifica-se que o caso se coaduna com o entendimento sumulado do STJ no verbete 568/STJ, em que “o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema”. (STJ. Corte Especial. Aprovada em 16/03/2016. DJe 17/03/2016). Diante disto, passo a analisar e decidir monocraticamente.
+Ressai do caderno processual que Edson Estevão Rey Molina ingressou com Ação de Nulidade de Ato Jurídico por falta de notificação c/c Danos Morais em face de SPC/BRASIL – Serviço de Proteção ao Crédito.
+Na peça vestibular narrou, em apertada síntese, que teve seu nome lançado no rol de inadimplentes do SPC em 17/12/2017 por suposta dívida vencida em 20/06/2017, no valor de R$ 989,66 (novecentos e oitenta e nove reais e sessenta e seis centavos), contudo, não fora previamente notificado pela empresa Ré.
+Sustentou que a conduta ilícita da Requerida lhe causou danos e prejuízos que merecem ser indenizados.
+Assim, pugnou pela declaração de nulidade do registro negativo de seu nome no cadastro da Requerida, ante a falta de notificação prévia, e, pela condenação da empresa ao pagamento de R$ 15.000,00 (quinze mil reais) a título de danos morais.
+A tentativa de autocomposição foi infrutífera, consoante Termo de Audiência encartado no Id. 64676483.
+Em contestação, a Confederação Nacional de Dirigentes Lojistas – CNDL (SPC Brasil) alegou, preliminarmente, a ilegitimidade passiva ad causam, já que o registro informado pelo Autor foi anotado pela CDL Metropolitana de São Paulo, entidade com quem a credora (A. das Dores Rodrigues Equipamentos ME) mantém convênio. Ou seja, não foi realizado pela CNDL.
+No mérito, aduziu que o Autor foi notificado previamente, pela CDL Metropolitana São Paulo, a respeito da dívida que seria inscrita no banco de dados, sendo indevida a reparação de eventuais danos de ordem subjetiva, nos termos do art. 14, § 3.o, II, do Código de Defesa do Consumidor.
+Posto isso, pugnou pela improcedência dos pedidos iniciais (ID. 64676480).
+Réplica sob o Id. 64676487.
+Intimados a especificarem as provas que pretendiam produzir, ambas as partes requereram o julgamento antecipado da lide (Id. 64676493 e Id. 64676495).
+O Juiz da causa rejeitou a preliminar de ilegitimidade passiva, sob o fundamento de que, muito embora a referida negativação tenha se originado de uma das CDLs, estas são vinculadas ao Requerido SPC BRASIL, órgão nacional e centralizador das informações de pessoas físicas ou jurídicas, detendo este legitimidade para figurar no polo passivo da ação.
+Quanto ao mérito, consignou que cumpre à parte ré comprovar que notificou previamente o consumidor, sob pena de cancelamento dos registros e eventual condenação ao pagamento de indenização por danos morais.
+Afirmou que, in casu, a negativação do nome do Autor ocorreu em 17/12/2017 ao passo que a comunicação acerca do débito fora expedida em 06/12/2017. Portanto não há falar em ilegalidade da inscrição, tampouco em indenização por danos morais.
+Concluiu, assim, pela improcedência da pretensão inicial, extinguindo o processo com resolução de mérito, nos termos do art. 487, I do CPC.
+Por derradeiro, condenou a parte Autora ao pagamento das custas, despesas processuais e honorários advocatícios, os quais foram arbitrados em 20% do valor da causa, cuja exigibilidade se mantém suspensa consoante disposto no art. 98, § 3.o do CPC (Id. 64676496).
+Insatisfeito, o Autor Edson Estevão Rey Molina interpôs recurso de Apelação Civil a fim de que os pedidos iniciais sejam julgados procedentes.
+Da Preliminar de Ilegitimidade Passiva:
+A Apelada alega que é parte ilegítima para figurar no polo passivo da lide, haja vista que a entidade registradora (CDL Região Metropolitana de São Paulo) da dívida no SPC (serviço de proteção ao crédito) foi plenamente identificada e, por consequência, é quem pode atuar na causa.
+Melhor sorte, todavia, não lhe assiste.
+Em que pese à alegada tese defensiva, colhe-se do art. 1.o do Estatuto Social da Confederação Apelada é constituída pelas Câmaras de Dirigentes Lojistas (CDLs).
+Se não fosse bastante, ressai do art. 3.o XI, que a Apelada tem por finalidade “manter por si ou por terceiros o serviço de informações provenientes de banco de dados de proteção ao crédito, através do SPC (Serviço de Proteção ao Crédito), mantendo e gerindo meios para o desenvolvimento do sistema”.
+Sob esse enfoque, considerando que o extrato apresentado pelo Agravante/Apelante traz a inscrição do nome do consumidor no banco de dados do SPC, inconteste a legitimidade da Apelada vez que, repito, é responsável pela manutenção e gestão das informações inseridas no sistema do SPC.
+Por esses fundamentos, rejeito a preliminar.
+Do Mérito:
+Sobre a matéria em debate, o Superior Tribunal de Justiça consolidou o entendimento, por meio do Verbete Sumular 359, de que cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder a inscrição.
+Do extrato anexado no ID. 64676473, verifica-se que o nome do Apelante foi inserido no registro negativo do SPC, em 17/12/2017, referente à dívida no valor de R$ 989,66 (novecentos e oitenta e nove reais e sessenta e seis centavos), constando como credora a empresa A. das Dores Rodrigues Equipamentos ME.
+Consoante já exposto no voto preliminar, inconteste que a Apelada é o órgão mantenedor do banco de dados do SPC (Serviço de Proteção ao Crédito), portanto, imperiosa a aplicação do Enunciado Sumular 359 do STJ ao caso concreto.
+No que tange à notificação prévia, verifica-se que em 05/12/2017 foi elaborada “Carta de Notificação de Registro”, direcionada ao Apelante para, nos termos do art. 43, § 2.o do CDC, comunicar-lhe sobre o lançamento do débito no banco de dados do SPC.
+Ademais, inobstante a alegação do Apelante de que o endereço mencionado na correspondência está incorreto, importante salientar que a obrigação da Apelada se restringe ao envio de prévia comunicação ao endereço fornecido pela empresa credora, logo, não é responsabilidade da Apelada a averiguação dos dados apresentados pela parte interessada na anotação negativa (A. das Dores Rodrigues Equipamentos ME).
+Por corolário, não ficou comprovado o abalo na esfera moral capaz de justificar o acolhimento do pleito do Autor/Apelado quanto à indenização pelos danos de ordem subjetiva.
+Nesse sentido:
+OBRIGAÇÃO DO ORGÃO DE MANUTENÇÃO DE NOTIFICAÇÃO PREVIA DA INSCRIÇÃO – ENVIO EM ENDEREÇO ERRADO – CULPA EXCLUSIVA DE TERCEIRO – DANO MORAL – NÃO CONFIGURADO – SENTENÇA MANTIDA – RECURSO CONHECIDO E DESPROVIDO. “A notificação previa de que trata o art. 43, 2o do CDC, considera-se cumprida pelo órgão de manutenção do cadastro com o simples envio da correspondência ao endereço fornecido pelo credor” Precedentes do STJ. (TJMT. RI 10007227120198110033. Relator Des. Sebastiao de Arruda Almeida. Turma Recursal Única. Julgado em 17/02/2020. Publicado em 18/02/2020).
+APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANO MORAL C/C NULIDADE DE ATO JURÍDICO POR FALTA DE NOTIFICAÇÃO – INSCRIÇÃO EM ÓRGÃO DE RESTRIÇÃO AO CRÉDITO – NECESSIDADE DE NOTIFICAÇÃO PRÉVIA – ART. 42, § 2o, DO CDC – ENVIO COMPROVADO – ENDEREÇO INDICADO PELA INSTITUIÇÃO CREDORA – ATO ILÍCITO NÃO CONFIGURADO – SENTENÇA MANTIDA – RECURSO DESPROVIDO. 1. O art. 43, § 2o, do CDC expressamente prevê que a “abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele”; assim, de acordo com a legislação vigente, a comunicação deve ser realizada previamente à inscrição do nome do consumidor no cadastro de inadimplentes, a fim de oportunizar ao mesmo o pagamento imediato da dívida, a retificação de dados ou, ainda, as providências necessárias a evitar situações constrangedoras. 2. A comunicação do consumidor tem que ser prévia à inscrição e é de obrigação do órgão responsável pela manutenção do cadastro, e não do credor (STJ, Súmula n.359). 3. . Os órgãos que mantém banco de dados de restrição ao crédito não possuem obrigação de confirmar os dados cadastrais dos consumidores, a responsabilidade se restringe ao envio de prévia comunicação ao endereço fornecido pela empresa que solicitou a negativação. (TJMT. Apelação 00008259320168110003. Relator Joao Ferreira Filho. Julgado em 12/02/2019. Publicado em 18/02/2019).
+Sem reparos, pois, à sentença.
+Feitas essas considerações, nego provimento ao recurso e mantenho incólume a sentença vergastada.
+Deixo de majorar os honorários advocatícios, haja vista que foi fixado no percentual máximo permitido pela Lei.
+Publique-se. Intime-se.
+Cuiabá, 31 de março de 2.021.
+Desa. Clarice Claudino da Silva
+Relatora
