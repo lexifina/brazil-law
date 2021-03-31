@@ -1,0 +1,31 @@
+VISTOS.
+Trata-se de recurso especial interposto por SERGIO CASALI PRANDINI, com fundamento no art. 105, III, “c”, da Constituição Federal, contra acórdão da Primeira Câmara de Direito Público e Coletivo deste Sodalício, que restou assim ementado:
+“DIREITO TRIBUTÁRIO – RECURSO DE APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA PREVENTIVO – ORDEM GENÉRICA – SALVO CONDUTO QUE RESULTA EM VEDAÇÃO À ATUAÇÃO DO FISCO – SEGURANÇA DENEGADA – RECURSO DESPROVIDO.
+1- Para a impetração de mandado de segurança preventivo é necessário que o impetrante demonstre, de forma concreta e objetiva, a existência de justo receio de sofrer violação a direito líquido e certo, não amparado por habeas corpus ou habeas data, nos termos do art. 1o da Lei n. 12.016/2009.
+2- Não existindo objetividade na ameaça alegada, a pretensão do Recorrente se assemelha a um verdadeiro salvo-conduto, medida que se mostra inviável nesta seara.”
+Os embargos de declaração opostos contra o aresto foram rejeitados (Id. 74260481).
+Inconformado, nas razões do recurso especial, o recorrente alega, em síntese, violação ao art. 1o da Lei 12.016/2009, sob o argumento de existir divergência jurisprudencial entorno da questão enfrenta nos autos, a saber, possibilidade de concessão de ordem preventiva que assegure a transferência de mercadoria (bovinos) entre estabelecimentos de mesma titularidade.
+Ao final, requer seja o presente Apelo Especial admitido, processado e provido para o fim de que conferida a correta interpretação ao art. 1o da Lei 12.016/2009, anulando-se o v. acórdão e concedendo-se a segurança, nos termos da Súmula 166 deste Colendo Superior Tribunal de Justiça.
+Recurso tempestivo e preparo recolhido, conforme certidões de Ids. 77227470 e 79586474.
+Contrarrazões no id. 81251554.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ).
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+No caso dos autos, alega que “o E. Tribunal de Justiça do Estado de Mato Grosso houve por bem negar provimento ao apelo interposto pelo Recorrente, sob o argumento de que não é cabível mandado de segurança preventivo para fim de determinar ao Fisco que se abstenha de cobrar ICMS sobre a transferência de bovinos entre estabelecimentos de sua propriedade”.
+Contudo, aduz que “o v. acórdão recorrido, dissonante com o entendimento do E. TJGO, viola, ainda, o art. 1o da Lei 12.016/2009, ao deixar de tutelar seu direito à vista do justo receio de violação.”
+Pois bem, a suposta violação ao artigo 1o da Lei 12.016/2009, em que busca a concessão da segurança preventiva para fim de determinar ao Fisco que se abstenha de cobrar ICMS sobre a transferência de bovinos entre estabelecimentos de sua propriedade, necessita de reexame de provas, conforme preconiza o Superior Tribunal de Justiça:
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. MANDADO DE SEGURANÇA PREVENTIVO. AUSÊNCIA DE JUSTO RECEIO. INTERESSE DE AGIR NÃO DETECTADO PELO ACÓRDÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO. 1. A jurisprudência do STJ orienta-se no sentido de que cabe Mandado de Segurança preventivo em matéria tributária, se houver justo receio de o Fisco exigir o tributo impugnado, o que não se verifica no caso em tela. 2. Assim, para concluir no sentido de que haveria o justo receio, apto a justificar a concessão da segurança, mostra-se necessário o reexame de provas, o que não pode ser feito nesta via recursal em razão do óbice da Súmula 7/STJ. 3. Agravo regimental a que se nega provimento. (STJ - AgInt no REsp: 1771531 SE 2018/0259560-9, Relator: Ministro MAURO CAMPBELL MARQUES, Data de Julgamento: 14/05/2019, T2 - SEGUNDA TURMA, Data de Publicação: DJe 21/05/2019)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo Superior Tribunal de Justiça, o que obsta a admissão recursal.
+Ademais, registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA. (...) 2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura. 3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’. 4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto. 5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Ante o exposto, em face do óbice da Súmula 7/STJ, nego seguimento ao recurso interposto por SERGIO CASALI PRANDINI.
+Publique-se. Intimem-se.
+Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
