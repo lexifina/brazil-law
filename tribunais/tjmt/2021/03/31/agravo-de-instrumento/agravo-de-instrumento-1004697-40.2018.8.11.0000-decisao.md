@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+AREsp 1.586.449/MT (vindos do STJ)
+ARE 1.310.988/MT (vindos do STF)
+Recurso de Agravo em Recurso Especial no Agravo de Instrumento n° 1004697-40.2018.8.11.0000
+Recorrente: WALDOCIR STEFENI
+Recorrido: BANCO DO BRASIL S/A
+Vistos.
+Trata-se de RECURSO EXTRAORDINÁRIO (id. 8204332) interposto por WALDOCIR STEFENI, com fundamento no art. 102, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício que negou provimento ao recurso de agravo interno, mantendo a decisão monocrática que indeferiu o pedido de justiça gratuita ao recorrente em sede de agravo de instrumento, com a seguinte ementa (id. 8194086):
+“RECURSO DE AGRAVO INTERNO – INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE JUSTIÇA GRATUITA EM SEDE RECURSAL – INDEFERIMENTO PELO JUÍZO SINGULAR – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Ainda que seja possível a concessão do benefício da justiça gratuita mediante simples afirmação do requerente de que não tem condições de arcar com o pagamento das custas processuais, o Magistrado pode indeferi-lo quando não encontrar elementos nos autos que infirmem o estado de pobreza declarado.
+Com efeito, extrai-se dos autos que o Agravante possui movimentações bancárias suficientes para o recolhimento do preparo recursal, eis que recebe mensalmente créditos entre R$ 3.000,00 a 5.000,00 mil reais ID. 2145919 – pag. 03,04 e 05.
+Por outro lado, como bem salientou o Magistrado de origem, o proveito a ser auferido com a demanda é de R$ 927.510,92 (novecentos e vinte e sete mil quinhentos e dez reais e noventa e dois centavos) o que, por si só, justifica o indeferimento do pedido. (AgInt no 1004697-40.2018.811.0000, Rel. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 25/07/2018)”.
+Interpostos embargos de declaração, estes foram rejeitados, conforme id. 7828067.
+Em sede de recurso extraordinário, o recorrente sustenta em suas razões que a decisão deste Sodalício contrariou o art. 5°, II, XXXIV e LXXV e art. 93, IX da CF/88, tudo ao fundamento de que restaram violados princípios constitucionais, em especial o do direito ao acesso à justiça, alegando ainda que a decisão que indeferiu a gratuidade não foi devidamente fundamentada.
+Recurso tempestivo (id. 8727969). Contrarrazões (id. 10198978) pelo não seguimento do recurso.
+Verifica-se que os autos já haviam sido encaminhados ao STJ, oportunidade em que a Corte Superior julgou o Agravo (AREsp 1.586.449/MT) para não conhecer do Recurso Especial interposto nos autos, sendo a decisão transitada em julgado.
+Já no STF, restou analisado o Agravo em Recurso Extraordinário (ARE 1.310.988/MT), determinando-se a devolução dos autos ao Tribunal de Justiça de Mato Grosso para observância dos procedimentos previstos no artigo 1.030 do Código de Processo Civil.
+É o relatório.
+Decido.
+Sistemática de repercussão geral (TEMA 339/STF) – Obrigatoriedade de fundamentação das decisões judiciais.
+No julgamento do AI 791292 QO-RG/PE (TEMA 339), a Suprema Corte concluiu que a Constituição Federal não exige a fundamentação exaustiva na decisão, mas que o julgador aponte de forma clara as razões de seu convencimento. Outrossim, não há exigência do exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. Vejamos o julgado:
+“EMENTA. Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (grifei)
+Verifica-se da tese recursal que o recorrente alega a suposta violação ao art. 93, IX da CF em razão de não ter sido fundamentada a decisão de indeferimento da gratuidade de justiça.
+Todavia, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se no sentido de que o indeferimento da gratuidade vem se dando deste a origem. Ao julgar o recurso, este Sodalício assim consignou:
+“o autor é advogado e juntou aos autos declaração de imposto de renda, na qual informa que sua renda anual é de R$ 5.597,00 (cinco mil quinhentos e noventa e sete reais). Contudo, em que pese a declaração de imposto de renda juntada aos autos, não é crível afirmar que tal renda reflita a realidade da parte autora, até porque o requerente é advogado há muitos anos e afirmar que durante um ano de trabalho este tenha auferido a renda de apenas R$ 5.597,00 (cinco mil quinhentos e noventa e sete reais) soa em dissonância com a razoabilidade e bom senso, quando o proveito a ser auferido com a demanda é no valor de R$ 927.510,92 (novecentos e vinte e sete mil quinhentos e dez reais e noventa e dois centavos).
+Nessa perspectiva, cumpre salientar que o entendimento adotado guarda consonância com o precedentes do Superior Tribunal de Justiça no sentido de que compete ao Requerente provar, inequivocamente, a condição de pobreza e/ou de necessidade afirmada quando do seu requerimento. Tal prova se dá ante o cotejo entre a renda percebida e a comprovação dos gastos que possui o postulante ou pela comprovação da ausência de solidez econômica, o que não ocorreu na hipótese”
+Portanto, verifica-se que o este Sodalício decidiu com fundamentação suficiente, sem desrespeitar o entendimento previamente fixado pela Suprema Corte sobre o tema.
+Nesse contexto, constata-se que o acórdão recorrido está em conformidade com a orientação do Supremo Tribunal Federal, o que obsta o seguimento do recurso nesse ponto, por aplicação da sistemática de precedentes.
+Da sistemática de repercussão geral (TEMA 188)
+O recorrente sustenta a existência de ofensa ao art. 5o, XXXIV da Constituição Federal (violação ao princípio do acesso a justiça, independentemente do pagamento de taxas).
+No julgamento do AI 759421 RG/RJ (TEMA 188) o Supremo Tribunal Federal reconheceu a inexistência de repercussão geral da matéria, como se verifica da seguinte ementa:
+“Extraordinário. Incognoscibilidade. Gratuidade de justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional. (AI 759421 RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 10/09/2009, DJe-213 DIVULG 12-11-2009 PUBLIC 13-11-2009 EMENT VOL-02382-10 PP-02119)”
+Assim, nos termos do art. 1.030, I, “a”, do CPC, diante do reconhecimento da inexistência de repercussão geral da matéria pelo Supremo Tribunal Federal, firmado no paradigma AI 759421 RG/RJ (TEMA 188), impõe-se a negativa de seguimento ao Recurso Extraordinário pela sistemática de precedentes.
+Quanto as demais argumentações (art. 5°, II e LXXV da CF/88) tem-se que as alegações conduzem, igualmente, à irresignação do recorrente quanto ao indeferimento da gratuidade de justiça, consubstanciada na afirmação de que os documentos que comprovam a insuficiência de recurso do recorrente gozam de presunção de veracidade. No entanto, para o exame dessas questões, é imprescindível a apreciação da legislação infraconstitucional que regulamenta especificamente a matéria, no caso, o Código de Processo Civil., o que conduz ao mesmo raciocínio do julgado que deu origem ao TEMA 188/STF.
+Ante o exposto, com estas considerações, nego seguimento ao recurso extraordinário, com fundamento no art. 1.030, I, “a” do CPC (sistemática de precedentes qualificados – Tema 339 e 188).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
