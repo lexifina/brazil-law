@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2017, de 30 de março de 2021
+Altera a Instrução Normativa RFB nº 1.891, de 14 de maio de 2019, que dispõe sobre os parcelamentos de que trata a Lei nº 10.522, de 19 de julho de 2002.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 10-A a 10-C da Lei nº 10.522, de 19 de julho de 2002, nos arts. 2º e 3º da Lei nº 11.457, de 16 de março de 2007, e no art. 464 da Instrução Normativa RFB nº 971, de 13 de novembro de 2009, resolve:
