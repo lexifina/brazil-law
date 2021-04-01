@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 80, DE 23 de FEVEREIRO de 2021
+Altera o leiaute do documento de código 1501 - Informações referentes às garantias constituídas sobre imóveis relativas a operações de crédito (ACNV1501), de que trata o art. 2º da Carta Circular nº 3.730, de 8 de outubro de 2015.
+Os Chefes do Departamento de Regulação do Sistema Financeiro (Denor) e do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso da atribuição que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, tendo em vista o disposto na Resolução nº 4.088, de 24 de maio de 2012, nas Circulares ns. 3.747, de 27 de fevereiro de 2015, e 3.953, de 10 de julho de 2019, e na Carta Circular nº 3.730, de 8 de outubro de 2015,
+R E S O L V E M :
