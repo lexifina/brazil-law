@@ -1,0 +1,21 @@
+Vistos, etc.
+Agravo de Instrumento interposto por PAULO ROBERTO CALEGARI contra decisão proferida nos autos da Ação de Indenização por Dano Material e Moral n. 1007441-74.2021.8.1, proposta por ele contra BRADESCO SEGUROS S.A. que indeferiu o pedido de tutela antecipada, a fim de abster o agravado de incluir o nome do Autor nos órgãos de proteção ao crédito, em razão da parcela de n°199 do seguro de vida e previdência, no valor de R$ 90,06 (noventa reais e seis centavos), cujo vencimento ocorreu em 23/11/2020, tendo em vista a inexigibilidade do débito.
+Explica o agravante que a ação originária se trata de e Ação Declaratória de Inexistência de Débito c/c Repetição de Indébito c/c Indenização por Danos Morais e Tutela Antecipada de Urgência, na qual o Agravante busca a declaração de nulidade das cobranças relativas à apólice de seguro de vida n° 14896, vez que não contratou o referido serviço, bem como a restituição dos valores indevidamente descontados e a indenização moral por todos os transtornos causados pelo Agravado.
+Com o encerramento da cona, foi notado débito automático referente a parcela de um seguro cobrado pelo Bradesco Seguros; por não ter contratado o serviço, solicitou extratos dos meses anteriores e, para eu espanto, notou que o débito estava sendo lançado desde dezembro de 2019, até outubro de 2020; foi então requerida a apólice, contudo, o que recebeu até o momento é um extrato dos valores pagos.
+Se não bastasse, segundo explica, notou que a parcela do mês de novembro de 2020 no valor de R$ 90,06 não foi debitada; em razão disso, pleiteou que o Banco se abstenha de incluir o nome do Agravante nos órgãos de proteção ao crédito, em razão da suposta pendência de pagamento da parcela de n° 199 do seguro de vida e previdência (Apólice 14896), no valor de R$ 90,06 (noventa reais e seis centavos), visto que é notório a inexigibilidade do débito.
+Defende que a decisão agravada não se mante, pois, buscou resolver o problema pelas vias administrativas: a apólice do seguro para averiguar se constava a sua assinatura no contrato, mas não logrou êxito, posto que lhe que informaram que não seria possível a apresentação do referido documento por se tratar de contrato antigo; Após o encerramento da conta, o filho do Agravante, questionou ao gerente do Banco Bradesco se haveria o ressarcimento voluntário dos valores descontados do Seguro de Vida e Previdência, tendo o preposto do Agravado ignorado tal indagação, conforme Áudio 02.5.
+Pontua também que foi ignorado pelo magistrado que se tratam de parcelas progressivas, portanto, as parcelas iniciais possuíam valores menores e irrisórios, o que dificultou a percepção pelo agravante.
+Acrescenta ainda que a data de vencimento da última parcela, ora discutida n. 199, é anterior a data de encerramento da conta corrente do autor, que se deu em 27/11/2020.
+Requer, liminarmente, seja deferida de plano o pleito, determinando que o agravado se abstenha de incluir o nome do agravante nos órgãos de proteção ao crédito.
+É o relatório.
+DECIDO.
+Para concessão do efeito requerido, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300, do Novo Diploma Processual.
+Em sede de cognição sumária identifico o preenchimento dos requisitos, ainda que parcialmente.
+Pela análise das alegações iniciais e documentos que a instruem pode-se verificar probabilidade razoável dos fatos. Além disso, não há risco de irreversibilidade da medida, já que a qualquer momento, caso sobrevenha decisão desfavorável ao agravante, o Banco Agravado poderá cobrar a parcela.
+Lado outro, como se sabe, a inscrição nos órgãos de proteção ao crédito, traz grandes consequências ao consumidor.
+Ante o exposto, DEFIRO O PEDIDO, para determinar que o agravado se abstenha de incluir o nome do agravante nos órgãos de proteção ao crédito, em razão da parcela n° 199 do seguro de vida e previdência (Apólice 14896), no valor de R$ 90,06,
+Intime-se, a parte agravada para, querendo, apresentar contrarrazões.
+Comunique-se o juiz da causa.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
