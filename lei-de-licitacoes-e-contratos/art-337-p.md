@@ -1,0 +1,1 @@
+Art. 337-P. A pena de multa cominada aos crimes previstos neste Capítulo seguirá a metodologia de cálculo prevista neste Código e não poderá ser inferior a 2% (dois por cento) do valor do contrato licitado ou celebrado com contratação direta."

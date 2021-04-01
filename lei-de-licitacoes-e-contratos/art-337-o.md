@@ -1,0 +1,5 @@
+Omissão grave de dado ou de informação por projetista
+Art. 337-O. Omitir, modificar ou entregar à Administração Pública levantamento cadastral ou condição de contorno em relevante dissonância com a realidade, em frustração ao caráter competitivo da licitação ou em detrimento da seleção da proposta mais vantajosa para a Administração Pública, em contratação para a elaboração de projeto básico, projeto executivo ou anteprojeto, em diálogo competitivo ou em procedimento de manifestação de interesse:
+Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa.
+§ 1º Consideram-se condição de contorno as informações e os levantamentos suficientes e necessários para a definição da solução de projeto e dos respectivos preços pelo licitante, incluídos sondagens, topografia, estudos de demanda, condições ambientais e demais elementos ambientais impactantes, considerados requisitos mínimos ou obrigatórios em normas técnicas que orientam a elaboração de projetos.
+§ 2º Se o crime é praticado com o fim de obter benefício, direto ou indireto, próprio ou de outrem, aplica-se em dobro a pena prevista no caput deste artigo.
