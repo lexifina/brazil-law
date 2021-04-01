@@ -1,4 +1,4 @@
-Art. 10. A contratação de parceria público-privada será precedida de licitação na modalidade de concorrência, estando a abertura do processo licitatório condicionada a:
+Art. 10. A contratação de parceria público-privada será precedida de licitação na modalidade concorrência ou diálogo competitivo, estando a abertura do processo licitatório condicionada a:
 I - autorização da autoridade competente, fundamentada em estudo técnico que demonstre:
 a) a conveniência e a oportunidade da contratação, mediante identificação das razões que justifiquem a opção pela forma de parceria público-privada;
 b) que as despesas criadas ou aumentadas não afetarão as metas de resultados fiscais previstas no Anexo referido no § 1º do art. 4º da Lei Complementar nº 101, de 4 de maio de 2000, devendo seus efeitos financeiros, nos períodos seguintes, ser compensados pelo aumento permanente de receita ou pela redução permanente de despesa; e
