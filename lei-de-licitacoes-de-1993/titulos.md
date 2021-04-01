@@ -40,10 +40,6 @@ Seção I
 Disposições Gerais
 Seção II
 Das Sanções Administrativas
-Seção III
-Dos Crimes e das Penas
-Seção IV
-Do Processo e do Procedimento Judicial
 Capítulo V
 DOS RECURSOS ADMINISTRATIVOS
 Capítulo VI
