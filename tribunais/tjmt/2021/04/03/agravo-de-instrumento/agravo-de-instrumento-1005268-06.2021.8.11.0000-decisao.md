@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por JOSÉ AUGUSTO ARRUDA DE ARAÚJO e JANILRA MARIA DE ARRUDA ARAÚJO, com o fito de suspender a decisão que, nos autos dos Embargos à Execução de n. 0001434-18.2012.8.11.0003, manejados por RAFAEL BORTOLI e JULIANA DE SOUZA FERREIRA BORTOLI, atribuiu efeito suspensivo ao processo executivo.
+Para tanto, os agravantes afirmam que a atribuição de efeito suspensivo aos Embargos de Execução constitui medida excepcional, condicionada ao preenchimento de requisitos próprios, os quais, por sua vez, não foram demonstrados pelos embargantes, ora agravados.
+Ponderam que em momento algum renunciaram aos encargos decorrentes da mora atinente aos pagamentos extemporâneos e incompletos da 4a e derradeira parcela do contrato exequendo, tanto que expediram diversas notificações extrajudiciais demonstrando a ausência de tolerância sobre a mora contratual, além de notificações por meio de aplicativo de celular, inclusive durante o período em que os depósitos “picados” estavam sendo efetivados, não havendo que se falar em supressio.
+Aduzem que a ausência de expectativa legítima de quitação do contrato é tão verdade que os agravados sequer os notificaram para lavrar a escritura pública de compra e venda do imóvel rural adquirido pelo devedor principal Ildo Roque Guareschi, o que evidencia que a última parcela do contrato não pode ser considerada quitada, sem que antes haja o pagamento do débito cobrado nos autos do processo executivo.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, apesar do esforço dos agravantes, por ora, não há nada que convença da liminar pleiteada.
+É que não se verifica qualquer necessidade de providência urgente, máxime a ponto de permitir a imediata reforma da decisão hostilizada para, com isso, autorizar o prosseguimento da demanda executiva.
+Isso porque, os próprios agravantes afirmaram razões recursais que perseguem o crédito desde o ano de 2018, de forma que nenhum prejuízo irreversível pode decorrer do lapso temporal demandado pela oportunidade do contraditório e do julgamento exauriente do recurso de agravo de instrumento que, como se sabe, tem tramitação célere.
+Assim, isoladamente a decisão recorrida não revela qualquer perigo de dano que possa trazer prejuízos imediatos aos agravantes, o que, neste momento, impõe o indeferimento da liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intime-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
