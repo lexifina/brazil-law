@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ CARLOS ALVES (rectius) em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DECLARATÓRIA C.C. REPETIÇÃO DE INDÉBITO E REPARAÇÃO DE DANOS MORAIS. Reserva de Margem Consignável (RMC). Saque do crédito rotativo. Cartão de crédito. Validade. Suposta prática abusiva decorrente da tentativa de aumentar a margem consignável para 35% dos rendimentos do mutuário, conforme autorizado pela Lei n.º 13.172/15. Não ocorrência. Princípio da colegialidade. Sentença mantida. Honorários advocatícios em grau recursal. Majoração. Inteligência do art. 85, § 11, do NCPC. Recurso não provido." (fl. 151)
+Nas razões do apelo, o recorrente aponta violação aos arts. 6º, III, IV, V, VI, 39, I, II, IV, V, e 51, IV, do CDC, sustentando, em síntese, (a) " a  parte recorrente buscou os produtos e serviços do banco recorrido pretendendo contratar um empréstimo consignado ordinário, porém, fora lhe fornecido serviço/produto diverso do pretendido (RMC) e totalmente desvantajoso" (fl. 163), (b) " a  liberação do crédito consignado pretendido pelo consumidor, na modalidade enganosamente fornecida pelo banco recorrido (RMC), só é possível com a aquisição de um cartão de crédito  implicando venda casada " (fl. 164) e (c) "ainda que se pudesse considerar válida suposta contratação por escrito, o negócio jurídico por adesão imposto pelo banco recorrido estabelece cláusulas que impõe ao consumidor obrigação iníqua e nitidamente abusiva, que coloca o consumidor em desvantagem exagerada" (fl. 165).
+Contrarrazões às fls. 169/173.
+É o relatório.
+O Tribunal de origem julgou improcedente o pedido de declaração de nulidade do negócio jurídico (contrato de cartão de crédito consignado), por entender que o autor recebeu os recursos do mútuo e não atuou sob vício de consentimento na contratação. Destacam-se trechos do acórdão recorrido a esse respeito:
+"A Apelante sustenta que firmou contrato com a instituição financeira acreditando tratar de empréstimo consignado.
+Todavia, o valor do mútuo acabou sendo liberado como "saque no crédito rotativo do cartão de crédito"; o que seria nulo, pois colocou o consumidor em desvantagem exagerada, especialmente no que se refere à taxa de juros remuneratórios.
+Da nulidade do contrato de cartão de crédito.
+A Lei n.º 10.820/03 dispõe sobre a autorização para desconto de prestações em folha de pagamento e permite que os empregados regidos pela CLT autorizem o desconto de até 30% (trinta por cento) de seus rendimentos para pagamento de empréstimos, financiamentos e operações de arrendamento mercantil.
+Após, a Lei n.º 13.172/15 alterou a margem consignável para 35% (trinta e cinco por cento), sendo 5% (cinco por cento) para pagamento de despesa ou de saque de cartão de crédito.
+(..)
+No caso dos autos, considerando que o Apelante utilizou-se do crédito (fato incontroverso) e ausente a prova de eventual vício de consentimento, era mesmo de rigor a improcedência do pedido." (fls. 152/155)
+Com efeito, observa-se que a controvérsia tratada nos autos limita-se à verificação da existência de vício de consentimento do autor, na celebração do contrato de cartão de crédito consignado - matéria fática insuscetível de reexame em sede de recurso especial, ante o óbice da Súmula n. 7/STJ.
+De rigor, o óbice da Súmula n. 7/STJ também impediria a apreciação de todas as teses apresentadas no apelo especial, quais sejam: venda casada, fraqueza ou ignorância do consumidor, de empréstimo impagável, desvantagem exagerada e ausência do dever de informação
+Assim, inviável o exame da matéria de fundo do recurso.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado do recorrido de 15% para 16% do valor atualizado da causa, observado o benefício da gratuidade de justiça.
+Publique-se.
