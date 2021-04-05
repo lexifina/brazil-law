@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL PENAL. TRÁFICO. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PRISÃO DOMICILIAR. COVID-19. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. DENEGAÇÃO.
+1. Acerca da pandemia de Covid-19, vale mencionar que o Plenário do Supremo Tribunal Federal negou referendo à conclamação feita pelo Ministro Marco Aurélio no bojo da ADPF n. 347. Importante pontuar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça publicou a Recomendação n. 62, pela qual adotou medidas preventivas contra a propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+2. "A Recomendação n. 62/2020 não é norma de caráter cogente e não criou espécie de direito subjetivo à prisão domiciliar, de observância obrigatória. É uma orientação aos juízes e aos Tribunais e deve ser interpretada com razoabilidade, ponderados o cenário de surto da doença e as condições de cada ambiente carcerário, conforme indica o próprio Conselho Nacional de Justiça" (HC n. 576.333/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+3. No presente caso, as instâncias ordinárias registraram a falta de comprovação inequívoca de uma maior vulnerabilidade do paciente em razão da pandemia da Covid-19 que atinge o País, tendo o Tribunal a quo destacado que "o MM. Juiz, agindo com extrema cautela, indeferiu o pleito, de forma fundamentada, utilizando-se para tanto do Relatório Médico emitido por profissional da saúde lotado na Unidade Prisional, que atestou que as comorbidades do paciente encontram-se estáveis, tendo o acusado apresentado bom quadro geral de saúde." (e-STJ fl. 50).
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de habeas corpus impetrado em favor de ALESSANDRO ROBERTO PEREIRA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.20.576396-4/000).
+O paciente foi preso em flagrante, em 6/9/2020, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, tendo sua prisão sido convertida em preventiva.
+Irresignada com o indeferimento do pedido de conversão da prisão preventiva em prisão domiciliar em razão da pandemia de Covid-19, a defesa do paciente impetrou habeas corpus no Tribunal de origem.
+Contudo, em sessão de julgamento realizada no dia 15 de dezembro de 2020, a 5ª Câmara Criminal, por unanimidade, denegou a ordem, conforme acórdão ementado nos seguintes termos (e-STJ fl. 46):
+HABEAS CORPUS - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDA ALTERNATIVA DIVERSA EM RAZÃO DA PANDEMIA OCASIONADA PELO CORONAVÍRUS - PORTARIA CONJUNTA Nº 19/PR-TJMG/2020 - INVIABILIDADE. ORDEM DENEGADA. Considerando que o juízo primevo, indeferiu o pedido de substituição da prisão preventiva por domiciliar, de forma fundamentada, utilizando-se para tanto das recomendações do CNJ e da Portaria Conjunta nº 19/PR-TJMG/2020, não há que se falar em constrangimento ilegal a ser sanado pela via do presente writ.
+No presente writ, o impetrante requer, liminarmente e no mérito, que seja concedido o benefício da prisão domiciliar ao paciente, tendo em vista ser ele portador de bronquite asmática e se enquadrar no grupo de risco da Covid-19.
+O pedido liminar foi indeferido pelo Ministro Presidente HUMBERTO MARTINS em 31/12/2020 (e-STJ fls. 37/38).
+Informações prestadas (e-STJ fls. 41/53).
+Parecer ministerial pelo não conhecimento do writ (e-STJ fls. 57/61).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Conforme relatado, busca a defesa a revogação da prisão preventiva ou a concessão de prisão domiciliar, em razão do risco de contaminação do paciente pelo novo coronavírus.
+Em que pese aos argumentos da defesa, acerca da pandemia de Covid-19, vale mencionar que o Plenário do Supremo Tribunal Federal negou referendo à conclamação feita pelo Ministro Marco Aurélio no bojo da ADPF n. 347. Importante pontuar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça publicou a Recomendação n. 62, pela qual adotou medidas preventivas contra a propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que "a Recomendação n. 62/2020 não é norma de caráter cogente e não criou espécie de direito subjetivo à prisão domiciliar, de observância obrigatória. É uma orientação aos juízes e aos Tribunais e deve ser interpretada com razoabilidade, ponderados o cenário de surto da doença e as condições de cada ambiente carcerário, conforme indica o próprio Conselho Nacional de Justiça" (HC n. 576.333/RS, SEXTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+No caso dos autos, o Tribunal a quo consignou que "o MM. Juiz, agindo com extrema cautela, indeferiu o pleito, de forma fundamentada, utilizando-se para tanto do Relatório Médico emitido por profissional da saúde lotado na Unidade Prisional, que atestou que as comorbidades do paciente encontram-se estáveis, tendo o acusado apresentado bom quadro geral de saúde." (e-STJ fl. 50).
+Dessa forma, verifico que a instância a quo registrou a falta de comprovação inequívoca de uma maior vulnerabilidade do paciente em razão da pandemia da Covid-19 que atinge o País, especialmente porque não houve comprovação de que seu estado de saúde demanda a concessão de prisão domiciliar.
+Ante o exposto, denego a ordem de habeas corpus.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
