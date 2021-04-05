@@ -1,0 +1,40 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial, por incidência da Súmula 182/STJ.
+2. O Recurso Especial não foi admitido por ausência de ofensa aos arts. 1.022 e 489 do CPC, e por falta de prequestionamento dos demais dispositivos que o recorrente considerou violados, em razão da fundamentação prejudicial acolhida pelo acórdão.
+3. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+4. In casu, a parte agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial - ausência de ofensa aos arts. 1.022 e 489 do CPC e falta de prequestionamento dos demais dispositivos apontados como violados, em razão da fundamentação prejudicial acolhida pelo acórdão .
+5. A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não tem capítulos autônomos e, assim, deve ser impugnada em sua integralidade. (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luís Felipe Salomão, DJe de 30/11/2018).
+6. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial, por incidência da Súmula 182/STJ.
+O acórdão foi assim ementado (fls. 222-226, e-STJ):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO: NÃO CONHECIMENTO: ERRO GROSSEIRO.
+1. Mostra-se inadmissível a interposição de agravo de instrumento contra sentença que rejeita os embargos do devedor, conforme art. 920, III, do CPC/2015.
+2. Nega-se provimento ao agravo interno incapaz de infirmar os fundamentos da decisão monocrática.
+Aos Embargos de Declaração foi negado provimento, com aplicação de multa (fls. 257-264, e-STJ).
+O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 1º, 3º, 4º, 5º, 6º, 71, 81, 10, 11, 139, 140, 141, 142, 276, 278, 280, 281, 489, § 1º, VI, 513, § 5º, e 1.022 do CPC/2015. Quanto ao processo que deu origem a este feito, sustenta em suma que os recorrentes, "não integraram àquela Sentença em cumprimento, como fartamente exposto em todas as manifestações, tanto de primeiro grau, quanto do segundo..
+O Recurso Especial não foi admitido por ausência de ofensa aos arts. 1.022 e 489 do CPC, e falta de prequestionamento dos demais dispositivos que considerou violados, em razão da fundamentação prejudicial acolhida pelo acórdão.
+Ayrton Jose Cabral defende que tem o direito de obter uma decisão que aprecie todos os argumentos arguidos, o que não ocorreu no presente caso, com as evidentes omissões e contrariedades às normas de lei federal.
+Em seu Agravo Interno alega que cumpriu rigorosamente os requisitos de admissibilidade recursal intrínsecos e extrínsecos, sempre demonstrando a violação a lei federal em suas oportunidades recursais, seja de forma implícita, seja de forma explícita.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial, por incidência da Súmula 182/STJ.
+2. O Recurso Especial não foi admitido por ausência de ofensa aos arts. 1.022 e 489 do CPC, e por falta de prequestionamento dos demais dispositivos que o recorrente considerou violados, em razão da fundamentação prejudicial acolhida pelo acórdão.
+3. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+4. In casu, a parte agravante não infirmou, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial - ausência de ofensa aos arts. 1.022 e 489 do CPC e falta de prequestionamento dos demais dispositivos apontados como violados, em razão da fundamentação prejudicial acolhida pelo acórdão .
+5. A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não tem capítulos autônomos e, assim, deve ser impugnada em sua integralidade. (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luís Felipe Salomão, DJe de 30/11/2018).
+6. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22 de fevereiro de 2021.
+A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial, para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+Deveria a parte ter rebatido todos os fundamentos do decisum segundo o qual "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas."
+In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao Recurso Especial - ausência de ofensa aos arts. 1.022 e 489 do CPC e falta de prequestionamento dos demais dispositivos que o recorrente considera violados, em razão da fundamentação prejudicial acolhida pelo acórdão (o erro grosseiro, insanável, de haver interposto Agravo de Instrumento em vez de Apelação.
+A decisão que não admite o Recurso Especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Portanto, não tem capítulos autônomos e, assim, deve ser impugnada em sua integralidade. (EAREsp n. 701.404/SC, Corte Especial, Rel. Min. João Otávio de Noronha, Rel. p/Acórdão Min. Luís Felipe Salomão, DJe de 30/11/2018).
+Não há motivo para se reconsiderar o decisum da Presidência, que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica ao juízo de admissibilidade.
+Por todo o exposto, nego provimento ao Agravo Interno.
+É como voto.
