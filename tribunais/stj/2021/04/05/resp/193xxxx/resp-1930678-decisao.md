@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Nacional S.A. Indústria, Comércio e Distribuição de Bebidascontra decisão que não admitiu recurso especial.
+O apelo nobre foi manejado, com amparo nas alíneas a e c do permissivo constitucional, em oposição a acórdão assim ementado (e-STJ, fl. 1.072):
+TRIBUTÁRIO. ANULATÓRIA. ICMS. DECADÊNCIA. OPERAÇÃO INTERESTADUAL. SOLVENTE. NÃO CONTRIBUINTE. ALÍQUOTA INTERNA. MULTA.
+1. É nula a sentença que deixa de apreciar um dos pedidos veiculados na petição inicial. Contudo, quando puder decidir do mérito a favor da parte a quem aproveite a declaração da nulidade, o juiz não a pronunciará. Art. 249, § 2º, do CPC.
+2.Em caso de dolo, fraude ou simulação do contribuinte, o prazo de decadência para constituir o crédito tributário de tributos sujeitos a lançamento por homologação é de cinco anos contados do primeiro dia do ano seguinte ao qual poderia o tributo ter sido lançado. Art. 150, § 4º, do CTN. Jurisprudência do STJ.
+3. Aplica-se a alíquota interna do ICMS às operações de saída de mercadorias para destinatários localizados em outro Estado não inscritos no cadastro de contribuintes. Inteligência dos arts. 155, §2º, inc. VII, b, CR e 29, inciso V, Capítulo IV, Título V, Livro I, do Decreto n.º 37.699/97.
+4. Comprovada a prática de infração material, correta a aplicação de multa. Art. 9º da Lei nº 6.537/73. O STF tem considerado confiscatória a multa tributária superior a 100% do valor do débito.
+5. A repetição dos valores adimplidos pela adesão ao Programa Ajustar subordina-se à desconstituição do crédito tributário, porquanto se trata de pedido sucessivo. Hipótese em que não faz jus o devedor à repetição ante a improcedência da pretensão anulatória do lançamento. Recurso provido em parte.
+Conheceu-se dos embargos de declaração, mas estes foram rejeitados.
+Nas razões do especial, a insurgente alega "que: (i) houve violação ao artigo 535, Ie II, do CPC; (ii) artigos 103, I, 100, I, 136, 173, I, do CTN, artigos 1ºe 2º da LC 87/96; e (iii) que o aresto dissentiu de orientação desta Corte, inclusive sumulada"(e-STJ, fl. 1.142).
+Pugna pelo provimento do apelo para (e-STJ, fl. 1.177):
+(i) preliminarmente reconhecer-se a ofensa ao art.535, I e II, do CPC, anulando-se o aresto proferido em sede de embargos declaratórios número 70063310650, determinando-se o reexame do mesmo pela Câmara de origem;(ii) superada a preliminar de nulidade do aresto pertinente aos embargos de declaração, que como prejudicial de mérito se reconheça a ofensa ao art. 150, § 4º, do CTN, reconhecendo-se a decadência dos valores lançados cujos fatos geradores ocorreram anteriormente a 14 de setembro de 2002, quais sejam, as saídas de janeiro e fevereiro de 2002 destinadas à empresa paulista Blaw Química; (iii) no mérito, propriamente dito, que se reconheça a ofensa aos artigos 103, I, 100, I, e 136, do CTN, a por ter divergido o aresto recorrido da orientação traçada por este E. Superior Tribunal no julgamento do recurso Repetitivo n. 1.148.444/MG na aplicação dos especificados dispositivos legais. E, desta forma, (a) declarar a extinção do crédito tributário constituído no auto de lançamento n.º 0018624294, bem como (b) determinar a repetição das 12 parcelas pagas indevidamente pela Recorrente através do Programa de Parcelamento especial Ajustar/RS. Por consequência do provimento do recurso, requer a inversão dos ônus sucumbenciais, com a fixação dos honorário advocatícios em conformidade ao disposto no art. 20, §§ 3º e 4º, do CPC.
+Contrarrazões às e-STJ, fls. 1.231-1.253.
+É o relatório.
+A requerente, na minuta de agravo em recurso especial, combateu adequadamente os fundamentos adotados pelo Tribunal de origem para negar admissibilidade ao apelo nobre.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial a fim de melhor análise da questão suscitada, sem prejuízo de novo exame acerca docabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Na sequência, encaminhem-se os autos ao Ministério Público Federal e, seguidamente, retornem conclusos.
+Publique-se. Intimem-se.
