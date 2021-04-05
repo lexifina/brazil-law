@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por TRANSNEGRELLI TRANSPORTADORA LTDAem face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"ACIDENTE DE VEÍCULO Dinâmica do acidente Conjunto probatório reunido suficiente a apontar o condutor do veículo de propriedade da apelante como culpado pelo acidente Danos materiais comprovados Lucros cessantes ocorrentes Extensão demonstrada Sem ofensa aos artigos 319, inciso Vi e 435, ambos do Código de Processo Civil Correção monetária a incidir a partir do efetivo prejuízo Juros de mora a incidir desde o evento danoso Honorários advocatícios de sucumbência Correção monetária a incidir da sentença e juros de mora a incidir a partir do trânsito em julgado . Apelação parcialmente provida." (e-STJ, fl. 510)
+Nas razões do recurso especial, o ora agravante alega violação aos artigos 319, 435 e 1.022 do Código de Processo Civil., bem como divergência jurisprudencialSustenta, em síntese, a) negativa de prestação jurisdicional; e b) "as DACTEs juntadas pelo recorrido após a apresentação da contestação, com o fito de demonstrar supostos e eventuais lucros cessantes são documentos essenciais (os quais deveriam ter sido acostados a inicial, frise-se), e, mais que isso, a Recorrida não apresentou quaisquer justificativas para a juntada extemporânea" (e-STJ, fl. 557)
+Contrarrazões apresentadas às fls. 618/631, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-SPanalisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL.
+VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. CONTRATO DE EMPREITADA E FORNECIMENTO DE MATERIAL. MÁ EXECUÇÃO DA OBRA. DANO MATERIAL. VIOLAÇÃO AO ART. 1.022 DO NOVO CPC. NÃO OCORRÊNCIA. CONCLUSÃO ACERCA DA CULPA CONCORRENTE. SÚMULAS 5 E 7 DO STJ.
+1. Não há falar em violação ao art. 1.022 do Novo Código de Processo Civil (art. 535 do Código de Processo Civil de 1973), pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais. Além disso, não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+(..)
+4. Agravo interno não provido."
+(AgInt no AREsp 1083279/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/09/2017, DJe 02/10/2017 - grifou-se)
+Além disso, o recorrente aponta a infringência dosarts. 319 e 435 do Código de Processo Civil, uma vez que"as DACTEs juntadas pelo recorrido após a apresentação da contestação, com o fito de demonstrar supostos e eventuais lucros cessantes são documentos essenciais (os quais deveriam ter sido acostados a inicial, frise-se), e, mais que isso, a Recorrida não apresentou quaisquer justificativas para a juntada extemporânea".O eg. TJ-SP, por sua vez, com arrimo nas provas dos autos, assentou queos documentosforam juntados aos autos pela recorridapara combater as alegações feitas pela recorrente em sua contestação. Ademais, a oraagravantefoi intimada para manifestar-se sobre os documentos, não existindo ofensa ao seu contraditório e à sua defesa.
+Para fins demonstrativos, segue transcrição correlata do v. acórdão objurgado:
+"Com relação aos lucros cessantes, por certo que ocorreram. A apelada é empresa que possui como objeto social também o "transporte rodoviário de cargas em geral." (fl. 12).O acidente ocorreu quando no exercício de sua atividade. Há nos autos documento que comprova que a apelada ficou impossibilitada de utilizar o caminhão envolvido no acidente pelo período de18 dias (fl. 35), período em que deixou de auferir renda com o veículo em decorrência do evento danoso, não se tratando, portanto, de dano hipotético ou presumido, mas dano certo e real. Assim, evidente a repercussão do acidente de trânsito na renda percebida pela apelada durante o período em que o caminhão ficou indisponível aguardando a conclusão dos reparos. Comprovada a ocorrência, possível que a prova da extensão dos danos ocorra em momento posterior, inclusive em liquidação de sentença. Portanto, não há que se falar em ofensa aos artigos 319, inciso VI, e 435, ambos do Código de Processo Civil. Até porque, os documentos de fls. 81/211 foram juntados aos autos pela apelada para combater as alegações feitas pela apelante em sua contestação. Outrossim, a apelante foi intimada para manifestar-se sobre os documentos, o que fez às fls. 359/367, não existindo ofensa ao seu contraditório e à sua defesa." (e-STJ, fl. 513)
+Por sua vez, da leitura das razões postas no apelo nobre, verifica-se que a ora recorrente deixou de refutar o fundamento ora transcrito. Nesse cenário, tem-se que o apelo nobre esbarra na Súmula n. 283/STF, pois não impugnou fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual nessa parte.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PERSONALIDADE JURÍDICA.DESCONSIDERAÇÃO. CITAÇÃO. NULIDADE. PRIMEIRO RÉU. CITAÇÃO POR EDITAL. LOCAL INCERTO. REEXAME. SÚMULA N. 7/STJ. SEGUNDO RÉU. COMPARECIMENTO ESPONTÂNEO. IMPUGNAÇÃO. SÚMULA N. 283/STF. FRAUDE CARACTERIZADA. INTENÇÃO DE NÃO PAGAR CREDORES. IMPUGNAÇÃO. ARTIGO 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A ausência de impugnação a fundamento bastante do acórdão estadual atrai o óbice de que trata o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+(..)
+4. Agravo interno não conhecido."
+(AgInt no REsp 1574437/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+(..)
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+6. Agravo interno a que se nega provimento, com majoração de honorários sucumbenciais."
+(AgInt no AREsp 1034507/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/08/2017, DJe 05/09/2017 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
