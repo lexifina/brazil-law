@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER – PROMOÇÃO DE MILITARES POR ATO DE BRAVURA – PROMOÇÃO CONCEDIDA ADMINISTRATIVAMENTE A OUTRO POLICIAL PERTENCENTE À MESMA EQUIPE QUE ATUOU NA SITUAÇÃO FÁTICA – ART. 8º C.C. ART. 34 DO DECRETO ESTADUAL N. 10.769/02 - CONCESSÃO DA PROMOÇÃO A OUTROS POLICIAIS QUE PARTICIPARAM DA MESMA OPERAÇÃO – OBSERVÂNCIA DOS PRINCÍPIOS DA ISONOMIA E RAZOABILIDADE – REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO PROVIDOS.
+    1 - A dispensa do reexame necessário pressupõe sentença condenatória que expresse valor certo inferior a sessenta salários mínimos, ou que o direito controvertido tenha valor econômico de igual patamar. Se a matéria deduzida comporta reexame obrigatório, e o juiz apenas envia os autos pelo recurso voluntário, cabe ao tribunal conhecer, de ofício da remessa obrigatória.
+    2 - Se um dos integrantes da mesma operação policial já obteve, administrativamente, a promoção por ato bravura, não se mostra razoável admitir que os demais integrantes da guarnição tenham de passar necessariamente pelo crivo de Comissão Especial designada para a apuração do enquadramento legal da conduta dos militares. Ademais, inexistente nos autos qualquer alegação mais concreta que explique a razão de não serem os apelantes merecedores da promoção, considerando que não há negativa de participação na operação, não existe menção a quaisquer atos desabonadores em suas fichas, além do que, e com muito mais razão, verifica-se pelo Boletim de Ocorrência nº 335368/2006 que a execução material da prisão dos acusados foi realizada especificamente pelos apelantes, sem participação direta do policial militar que já obteve a referida promoção, o que apenas reforça o cabimento da extensão do direito.
+    4 - Entendimento diferente para os apelantes culminaria em tratamento desigual, não isonômico, na medida em que estavam na mesma situação do policial já beneficiado, de modo que a concessão da promoção na hipótese não configura invasão da discricionariedade administrativa, mas apenas controle da legalidade na situação apresentada.
+    5 - Reexame necessário e recurso voluntário providos.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º da Constituição Federal.
+    Decido.
+         Analisados os autos, verifica-se o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+         Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+“RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
