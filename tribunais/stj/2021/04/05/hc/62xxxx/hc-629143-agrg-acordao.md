@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CAUSAS DE AUMENTO. FRAÇÃO DE 1/2. FUNDAMENTAÇÃO IDÔNEA.MAIOR GRAVIDADE E REPROVABILIDADE DA CONDUTA. REGIME INICIAL MAIS GRAVOSO FIXADO COM BASE EM ELEMENTOS CONCRETOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O enunciado n. 443 da Súmula desta Corte dispõe que "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+In casu, a fundamentação apresentada pelas instâncias ordinárias para majorar a pena em patamar superior ao mínimo legalmostra-se idônea, pois está baseada em elementos concretos indicadores da maior gravidade da conduta. Precedentes.
+2. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais do art. 59 do Código Penal- CP ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+Na hipótese, o paciente praticou o crime demonstrando ousadia,efetuando o delito no momento de transporte de mercadorias, mediante concurso de agentes e, especialmente, com o emprego de arma de fogo, artefato que possui grande potencial lesivo. Todos esses elementos, em conjunto, demonstram a maior gravidade do delito e a elevada periculosidade do paciente, justificando, assim, a aplicação do regime fechado.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCIANO COLARES contra decisão singular que não conheceu do habeas corpus (fls. 85/89).
+O agravante reitera as teses de que o aumento da pena, na terceira fase da dosimetria, estaria baseado tão somente no número de majorantes, em ofensa ao enunciado n. 443 da Súmula do Superior Tribunal de Justiça - STJ; e que, igualmente, seria inidônea a fundamentação apresentada para justificar a fixação do regime prisional inicial fechado.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CAUSAS DE AUMENTO. FRAÇÃO DE 1/2. FUNDAMENTAÇÃO IDÔNEA.MAIOR GRAVIDADE E REPROVABILIDADE DA CONDUTA. REGIME INICIAL MAIS GRAVOSO FIXADO COM BASE EM ELEMENTOS CONCRETOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O enunciado n. 443 da Súmula desta Corte dispõe que "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+In casu, a fundamentação apresentada pelas instâncias ordinárias para majorar a pena em patamar superior ao mínimo legalmostra-se idônea, pois está baseada em elementos concretos indicadores da maior gravidade da conduta. Precedentes.
+2. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais do art. 59 do Código Penal- CP ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+Na hipótese, o paciente praticou o crime demonstrando ousadia,efetuando o delito no momento de transporte de mercadorias, mediante concurso de agentes e, especialmente, com o emprego de arma de fogo, artefato que possui grande potencial lesivo. Todos esses elementos, em conjunto, demonstram a maior gravidade do delito e a elevada periculosidade do paciente, justificando, assim, a aplicação do regime fechado.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+A primeira controvérsia diz respeito à escolha da fração decorrente das majorantes do delito de roubo.
+Em grau recursal, o Tribunal a quo manteve a fração de 1/2, em razão das causas de aumento (art. 157, § 2º, I, II e IV, do Código Penal), confira-se:
+" ..
+Logo, restou cabalmente comprovado que o crime foi praticado em concurso de agentes, com o emprego de arma de fogo e privação da liberdade das vítimas, O QUE IMPEDE O DECOTE DAS MAJORANTES.
+No tocante ao "quantum" das majorantes, não há que se efetivar reparos, eis que o Juízo "a quo" fundamentou a elevação em razão do emprego de armas de fogo, em concurso de cinco agentes, com restrição de liberdade das vítimas, sendo necessária maior resposta penal, em atendimento ao princípio da individualização da pena.
+"(..) A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus , pois exigiriam revolvimento probatório (..)" (HC 396.749/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)."(fl. 65)
+A fundamentação apresentada mostra-se idônea, pois está baseada em elementos concretos indicadores da maior gravidade da conduta, não havendo ofensa ao enunciado n. 443 da Súmula desta Corte, o qual assim dispõe:
+"O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes."
+Por oportuno, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO MAJORADO. PEDIDO DE APLICAÇÃO DA SÚMULA N. 443/STJ. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA PARA A FRAÇÃO DE 2/5, NA TERCEIRA FASE DA DOSIMETRIA DA PENA. REGIME PRISIONAL FECHADO. POSSIBILIDADE. REGIME MAIS GRAVOSO COM BASE NA GRAVIDADE CONCRETA DO CRIME. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- Nos termos do disposto no enunciado n. 443 da Súmula desta Corte, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+- Na hipótese, o aumento da pena em fração superior à mínima legal, na terceira fase da dosimetria, teve por base circunstâncias concretas, na medida em que a integridade da vítima ficou mais exposta e sua capacidade de resistência ficou reduzida em razão do tipo de arma utilizada para a prática da conduta criminosa, no caso, uma pistola (arma de fogo semi-automática ou automática). Tal circunstância denota maior reprovabilidade da conduta, revelando-se idôneo e proporcional o incremento no patamar de 2/5, não se aplicando o enunciado n. 443/STJ. Precedente específico.
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para corrigir o erro material no cálculo da pena.
+(HC 416.713/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 28/11/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ART. 157, §§ 2º, II, E 2º-A, I, DO CÓDIGO PENAL. DOSIMETRIA DA PENA. TERCEIRA ETAPA DO CÁLCULO. FUNDAMENTAÇÃO IDÔNEA. NÃO INCIDÊNCIA DO ENUNCIADO N. 443 DA SÚMULA DESTA CORTE. MODIFICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA SANÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O Superior Tribunal de Justiça consagrou o entendimento de que "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443/STJ).
+2. Na espécie, a fração de 2/5, superior, portanto, à mínima prevista para o tipo penal em exame, foi fixada com base em circunstâncias concretas atinentes às próprias causas de aumento e com indicação da maior reprovabilidade da conduta do agente, notadamente pelo concurso de outros réus e modus operandi, em que os agentes cercaram as vítimas, impedindo a capacidade de resistência delas mediante o uso de duas armas de fogo.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC 512.432/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 23/8/2019).
+Noutro ponto, destaca-se que a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais do art. 59 do Código Penal ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+Essa é a hipótese dos autos. O paciente praticou o crime demonstrando ousadia, efetuando o delito enquanto as mercadorias eram transportadas, mediante concurso de agentese, especialmente, com o emprego de arma de fogo, artefato que possui grande potencial lesivo. Todos esses elementos, em conjunto, demonstram a maior gravidade do delito e a elevada periculosidade do paciente, justificando, assim, a aplicação do regime fechado.
+No mesmo sentido, trago à colação os seguintes julgados:
+CONSTITUCIONAL E PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME FECHADO. GRAVIDADE CONCRETA DO DELITO. ORDEM NÃO CONHECIDA.
+ ..
+2. Os fundamentos utilizados pelo acórdão ora recorrido não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo se falar em violação da Súmula/STJ 440, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+3. Malgrado a pena-base tenha sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pela violência empregada, que desborda da ínsita ao crime de roubo, exigindo resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Estatuto Repressor Penal, desde que mediante fundamentação idônea. (Precedentes).
+5. Ordem não conhecida.
+(HC 338.469/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/4/2016).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. INADEQUAÇÃO DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. DUAS CAUSAS DE AUMENTO DE PENA. ACRÉSCIMO EM FRAÇÃO SUPERIOR A 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. APLICAÇÃO DO ENUNCIADO N. 443 DA SÚMULA DESTA CORTE. REGIME INICIAL FECHADO. POSSIBILIDADE. REGIME MAIS GRAVOSO FIXADO COM BASE NA GRAVIDADE CONCRETA DO DELITO. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM, DE OFÍCIO.
+ ..
+4. "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (enunciado n. 440 da Súmula do STJ) e, no mesmo sentido, os enunciados n. 718 e 719 da Súmula do STF.
+5. No caso, embora o paciente seja primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, o regime mais gravoso foi estabelecido mediante fundamentação concreta, qual seja, ameaça a duas vítimas, em concurso de pessoas, com emprego de arma de fogo e mediante invasão de domicílio.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, apenas para redimensionar a pena do paciente.
+(HC 350.796/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/5/2016).
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO CONCRETA. MAIOR REPROVABILIDADE NA CONDUTA. AUSÊNCIA DE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. Firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal ou em outra situação que demonstre efetivamente um plus na gravidade do delito.
+3. In casu, o Tribunal de origem destacou a maior reprovabilidade na conduta do paciente para justificar o regime prisional mais gravoso, consignando que " ..  as concretas circunstâncias do caso em tela, em particular, o coordenado número de agentes, maneira de execução, ou seja, abordagem da vítima na via pública e o emprego de simulacro de arma de fogo para a intimidação do ofendido  .. ", não havendo falar, portanto, em flagrante ilegalidade na fixação do regime prisional fechado.
+4. Habeas corpus não conhecido.
+(HC 324.010/SP, de minha relatoria, QUINTA TURMA, DJe 2/6/2016).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. PLEITO DE INCIDÊNCIA DA SÚMULA N. 440/STJ. INAPLICABILIDADE. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Nos termos da jurisprudência pacífica desta Corte, a definição do regime prisional não está condicionada, de forma absoluta, à quantidade de pena aplicada, uma vez que se deve dar relevo aos demais elementos concretos do delito.
+- Na hipótese, não se verifica constrangimento ilegal na fixação do regime inicial fechado, em razão da gravidade concreta do crime, o que foi destacado pelo Tribunal a quo, ao enfatizar o modus operandi do delito, o qual extrapolou a prática delituosa comum para o tipo, tendo em vista a participação organizada de cinco agentes, sendo um deles adolescente, a ousadia em abordar a vítima em plena rua, com simulacro de arma de fogo. Precedentes desta Corte (HC 361.631/SP, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 02/02/2017 e HC 381.056/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/05/2017, DJe 31/05/2017).
+- Habeas corpus não conhecido.
+(HC 404.148/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/8/2017).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
