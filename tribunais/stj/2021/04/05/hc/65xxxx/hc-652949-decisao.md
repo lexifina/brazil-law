@@ -1,0 +1,26 @@
+DECISÃO
+DOUGLAS EVERTON SANÇÃOalega ser vítima de coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n.0000818-36.2017.8.26.0137.
+Consta dos autos que o paciente foi condenado a 1 anoe 8meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Inconformado com o regime fixado e a conversão de reprimendas, o Ministério Público interpôs apelação, a qual foi dada provimento pelo Tribunal de origem para impor ao réu o regime fechado e afastar a substituição da pena privativa de liberdade por restritiva de direitos.
+Neste writ, a defesa aduz que o modo mais gravoso para cumprimento da pena foi imposto ao réu com base apenas na gravidade abstrata do delito.
+Requer, assim, seja fixado ao paciente o regime aberto e determinada a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+A liminar foi deferida a fim de que o paciente aguarde em regime aberto o julgamento deste writ.
+Dispensadas as informações, o Ministério Público Federal opinou pela parcial concessão da ordem.
+Decido.
+A Corte estadual considerou devida a imposição do regime inicial fechado e negou a conversão das reprimendas, com base nos seguintes fundamentos (fl. 20):
+Esta Colenda Câmara já assentou o entendimento que o crime de tráfico ilícito de entorpecentes merece maior reprovabilidade em razão de sua gravidade e pelas consequências nefastas que sua prática tem na sociedade.
+No presente caso concreto, nos termos do art. 33 c.c. art. 59, do CP, seria um descrédito à Justiça conceder a um traficante um tratamento menos rigoroso do que o regime fechado.
+Pelo mesmo motivo, inviável a substituição da pena privativa de liberdade por restritivas de direitos, por não atendimento ao inciso III do art. 44 do Código Penal e a concessão do "sursis" pela vedação do art. 44, caput, da Lei nº 11.343/2006.
+Faço o registro de que,em sessão de julgamento realizada em 8/9/2020, a Sexta Turma desta Corte Superior de Justiça concedeu o HC coletivo n. 596.603/SP (Rel. Ministro Rogerio Schietti), a fim de (destaquei):
+ ..
+2. Em relação aos presos que se encontrem em situação igual (condenados, por delito de tráfico privilegiado, a 1 ano e 8 meses de reclusão, em regime fechado), conforme informação da Secretaria de Administração Penitenciária do Estado de São Paulo, determinar aos respectivos juízes das Varas de Execução Penal competentes e responsáveis pela execução das sanções dos internos que procedam à mudança do regime de pena para o aberto.
+3. Em relação aos presos condenados, por delito de tráfico privilegiado, cuja pena seja igual ou inferior a 4 anos de reclusão - salvo os casos do item anterior - determinar que os respectivos juízes das Varas de Execução Penal competentes e responsáveis pela execução das sanções dos internos reavaliem, com a máxima urgência, a situação de cada um, de modo a verificar a possibilidade de mudança do regime inicial em face de eventual detração penal decorrente do período em que tenham permanecido presos cautelarmente.
+4. Aos condenados que atualmente cumprem pena e aos que vierem a ser sancionados por prática do crime de tráfico privilegiado, determinar que não se imponha - devendo haver pronta correção aos já sentenciados - o regime inicial fechado de cumprimento da pena.
+ ..
+Assim, uma vez que o paciente foi condenado à pena inferior a 4 anos de reclusão pela prática do crime de tráfico privilegiado, teve a pena-base imposta no mínimo legal e foi com ele foi apreendida pequena quantidade de droga - 9 g de cocaína-mostra-se manifestamente ilegal a imposição do regime fechado para o início do cumprimento da reprimenda, de modo que considero, ser devida a imposição do regime inicial aberto, nos termos do art. 33, § 2º, "b", e § 3º, do CP.
+Ressalto que não houve apelação do Ministério Público, tendo a acusação se conformado com o quantum da reprimenda imposta.
+Quanto à almejada substituição da reprimenda privativa de liberdade por restritivas de direitos, verifico que o Juiz sentenciante fundamentou a impossibilidade de concessão do benefício em razão da gravidade do delito praticado, o que torna a medida não recomendável.
+Entretanto, além de não haver sido mencionado argumento idôneo pela Corte estadual,observo que o paciente foi condenado a pena inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e não foi apreendido com quantidade tão expressiva de drogas (9 g de cocaína), de modo que deve a ordem ser concedida nesse ponto, a fim de determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordempara fixar ao réu o regime aberto e determinar a substituição da reprimenda privativa de liberdade imposta ao paciente por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
