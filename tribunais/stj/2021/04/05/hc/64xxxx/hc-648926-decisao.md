@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de JAILSON RIBEIRO BARBOSA DA SILVA, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Tocantins.
+Depreende-se dos autos prisão preventiva e denúncia pela suposta prática dos crimes de incêndio praticado em veículo de transporte coletivo e organização criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS. ARTIGO 2º, § 4º, INCISO I, DA LEI 12.850/2013. EXCESSO DE PRAZO NA INSTRUÇÃO DO FEITO.INOCORRÊNCIA. COMPLEXIDADE DO FEITO. PLURALIDADE DE RÉUS. ELASTECIMENTO DE PRAZO JUSTIFICADO. PRINCÍPIO DA RAZOABILIDADE. PRECEDENTES STJ E DESTE TRIBUNAL.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+1. No caso, verifica-se que a prisão preventiva encontra-se amparada nos requisitos preconizados nos artigos 312 e 313, I do Código de Processo Penal, existindo nos autos provas da materialidade delitiva e indícios suficientes de autoria, restando devidamente apontados os motivos ensejadores da custódia antecipada, a qual foi decretada com o objetivo de garantir a ordem pública, bem como aplicação da lei penal.
+2. O constrangimento ilegal por excesso de prazo não resulta de critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto. Na hipótese, deve-se levar em consideração o fato de a Ação Penal de origem encontrar-se em andamento, a complexidade do feito (pluralidade de réus, determinação de diligências, expedição de cartas precatórias, entre outros) e a atual situação de pandemia pelo Covid-19. Precedentes do STJ e desta Corte de Justiça.
+3. Ordem denegada"(fl. 9).
+Daí o presente mandamus, no qual o impetrante asseveraa existência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar, bem como no excesso de prazo na formação da culpa.
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 64-66.
+As informações foram prestadas às fls. 69-74.
+O Ministério Público Federal, às fls. 78-83, manifestou-se pelo não conhecimento ou pela denegação da ordem, em parecer assim ementado:
+"Habeas corpus substitutivo de recurso próprio. Des- cabimento. Organização criminosa. Lei 12.850/2013.Prisão Preventiva. Excesso de prazo na formação da culpa. Inocorrência. Revisão do decreto preventivo.Art. 316, p.u, do CPP. Prazo não peremptório. Inexistência de flagrante ilegalidade. Parecer pelo não conhecimento ou pela denegação da ordem"(fl. 78).
+É o relatório.
+Decido.
+De início, quanto à alegada inidoneidade do decreto prisional, importante gizar que a deficiente instrução dos autos impede o conhecimento do mandamus.
+Isto porque a defesa não juntou aos autos cópia da decisão que decretou a prisão preventiva, peça imprescindível à compreensão da controvérsia.
+Com efeito, esta Corte firmou orientação segundo a qual constitui ônus da defesa instruir os autos com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus.
+Ilustrativamente:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes A. K. L. G., J. A. de M. T. e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente C. E. de J. da C.. Desse modo, constato a deficiência de instrução quanto aos recorrentes I. B. dos S. e T. P. M. M., não havendo como conhecer do recurso deles.
+ ..
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min.Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Consoante entendimento desta Corte Superior, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015).
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO,Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+Em relação ao pedido de reconhecimento de excesso de prazo para a formação da culpa, consoante informações disponíveis no sítio eletrônico do eg. Tribunal de origem (www.tjto.jus.br), nos autos da Ação Penal n. 0048658-28.2019.8.27.2729,em 10/3/2021, foi realizada a audiência de instrução e julgamento, tendo sido as partes intimadas, ao final, para apresentação das alegações finais, incidindo, pois, o enunciado da Súmula n. 52 desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido o seguinte precedente deste Tribunal Superior:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL. ALEGAÇÕES FINAIS DA DEFESA. SÚMULA 52/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+2. No caso, não se verifica excesso de prazo na duração do processo, visto que o feito está em fase de apresentação das alegações finais da defesa desde 30/8/2019, de modo a incidir o verbete da Súmula 52 desta Corte Superior, uma vez que a instrução processual encontra-se encerrada.
+3. Ademais, apesar de o recorrente estar preso desde 18/11/2018, a custódia cautelar, no momento, não se revela desproporcional às penas em abstrato do delito a ele imputado.
+4. Agravo regimental improvido." (AgRg no RHC 112.571/AL, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 16/09/2019- grifei.)
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, não conheço do habeas corpus.
+P. e I.
