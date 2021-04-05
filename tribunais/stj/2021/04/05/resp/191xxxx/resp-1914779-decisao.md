@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERALcontra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. REDUÇÃO. CABIMENTO.
+A imposição de multa diária pelo descumprimento injustificado da decisão judicial é cabível nos termos do art. 536, § 1º do CPC, se for suficiente e compatível com a obrigação, não podendo, no entanto, ser exorbitante ou desproporcional, sob pena de ineficaz e desmoralizadora do próprio comando judicial, podendo ser reduzida quando resultar em valor excessivo. O §1º, inciso I, dispõe, ainda, que pode ser reduzida em caso de hipótese de se tornar excessiva. Resta evidente, in casu, que a revisão do valor fixado a título de multa, por descumprimento de ordem judicial, justifica-se na espécie, uma vez que o montante tornou-se excessivo e desproporcional, ressaltando-se,novamente, que não se deve gerar o enriquecimento sem causa da parte a quem favorece a astreinte.
+Os embargos de declaração foram rejeitados.
+No recurso especial, orecorrente aponta violação dos arts. 489, § 1º, IV, 1.022, II e parágrafo único, II, do CPC/2015, por omissão e erro materialdo acórdão recorrido quanto às teses fundadas nos arts. 13 da Lei n. 7.347/1985 e 537, § 1º, do CPC/2015.
+Aduz afronta ao art. 13 da Lei n. 7.347/1985, asseverando que o valor da multa cominatórianão reverterá ao MPF, mas ao Fundo de Defesa de Direitos Difusos.
+Alega afronta ao art. 537, § 1º, do CPC/2015, sob o argumento de que (e-STJ, fl. 100):
+(..) as multas acumuladas em determinado período de desatendimento da decisão judicial tornam-se dívida de valor. A modificação de seu montante pelo Juízo na fase executiva, portanto, equivale à alteração do valor de determinada dívida fixada em título simplesmente porque o devedor, apesar de tê-la contraído, considerou, posteriormente, que é excessiva.
+O juízo sobre o excesso da multa teve lugar na apelação e embargos infringentes 5000369-06.2010.404.7211. Não pode mais ser modificado por afrontar o § 1º do artigo 537 do Código de Processo Civil.
+Ainda, percebe-se que a finalidade da multa coercitiva é coagir o demandado ao cumprimento da obrigação de fazer ou de não fazer, a fim de conferir efetividade à tutela jurisdicional.
+Foram apresentadas contrarrazões.
+O Ministério Público Federal apresentou parecer pelo não provimento do recurso especial.
+É o relatório.
+Passo a decidir.
+Não prospera a insurgência da recorrente, conforme o parecer do Ministério Público Federal (custos legis), juntado às fls. 137/141-e.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar a possibilidade de redução do valor da multa cominatória imposta à recorrido, de acordo com as determinações do CPC/2015.
+Em suma, as questões apresentadas pelo recorrentesforam examinadas de modo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação. Nessa linha de consideração:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE SOLIDÁRIA. MINERAÇÃO DE CARVÃO. RECUPERAÇÃO AMBIENTAL DA ÁREA DEGRADADA. INEXISTÊNCIA DE VÍCIO DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO.
+1. O presente recurso especial decorre de agravo de instrumento interposto contra decisão proferida em sede de cumprimento de sentença, em que imputada à ora recorrente a responsabilidade solidária pela recuperação ambiental de área "órfã", sob o entendimento de que os danos ambientais ocorridos no local resultaram das atividades por ela exercida.
+2. Não há falar em ofensa ao art. 489, II, e § 1º, IV, do CPC/2015, tendo em vista que o acórdão recorrido apresentou fundamentação adequada no sentido de que não foram apresentados elementos suficientes para infirmar a conclusão da decisão agravada de que tanto a ora recorrente como uma outra carbonífera contribuíram para o dano ambiental em questão, conclusão essa baseada nos documentos juntados aos autos e corroborados por depoimentos de testemunhas.
+3. Também não falar em ofensa arts. 494, II, e 1.022, II, do CPC/2015, tendo vista que, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que as provas dos autos indicam que tanto a Coque Catarinense como a Carbonífera Treviso contribuíram para a degradação da área "órfã", seja pela erosão de depósitos de rejeitos, seja pela utilização desse material no aterramento de áreas baixas e recobrimento primário de estradas.
+4. Por fim, não se vislumbra ofensa ao art. 371 do CPC/2015, pois evidenciado no acórdão recorrido que a imputação da responsabilidade da recorrente se deu de forma fundamentada, com avaliação das provas juntadas aos autos. 5. Recurso especial não provido. (REsp 1722488/SC, de minha relatoria, SEGUNDA TURMA, julgado em 22/05/2018, DJe 29/05/2018)
+RECURSO FUNDADO NO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. (..) VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA.
+(..)
+7. Não há falar em violação ao art. 489, § 1º e parágrafos, do CPC/2015, quando a decisão embargada demonstra à exaustão o motivo da aplicação ao caso concreto de entendimento firmado pelo STJ em recurso repetitivo, enfrentando os argumentos relevantes trazidos pelas partes e adotado fundamentação suficiente para solucionar a contenda. Com efeito, "Não carece de fundamentação válida, a respaldar o enquadramento no art. 489, § 1º, V, do referido diploma legal, a decisão que explicita amoldar-se o caso à orientação firmada por este Tribunal em precedente paradigma. (AgInt no AgRg no AREsp 793.589/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/10/2016, DJe 2/12/2016).
+8. Agravo interno a que se nega provimento. (AgInt no REsp 1294197/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018)
+Quanto à possibilidade de modificação do valor da multa cominatória, reconhecida a exorbitância do montante observado, o Tribunal local adotou interpretação coincidente com a jurisprudência do STJ, conforme se extrai dos julgados a seguir:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ASTREINTES. FIXAÇÃO. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que a decisão que fixa multa cominatória não preclui nem faz coisa julgada material, podendo ser revista a qualquer tempo.
+2. Agravo interno desprovido.
+(AgInt no REsp 1846156/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ASTREINTES. REVISÃO DO VALOR. POSSIBILIDADE.DESPROPORCIONALIDADE RECONHECIDA. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O valor da multa cominatória (astreintes) pode ser revisto a qualquer tempo, até mesmo de ofício (CPC/2015, art. 537, § 1º), "não se revestindo da imutabilidade da coisa julgada, sendo insuscetível de preclusão, inclusive pro judicato" (AgRg nos EDcl no Ag 1.348.521/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 6/11/2015). Entendimento firmado em recurso especial repetitivo (REsp 1.333.988/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe de 11/4/2014).
+2. No caso dos autos, o contrato para fabricação, entrega e montagem dos móveis do apartamento do recorrido possuía o valor de R$ 159.996,00 e, ao final, a obrigação foi cumprida, não sendo razoável que o valor da multa por descumprimento (R$ 540.323,21) supere tanto o valor da própria obrigação principal. Assim, considerando o bem da vida, os dias de descumprimento citados no acórdão e os princípios da proporcionalidade e da razoabilidade, a fim de evitar o indesejado enriquecimento sem causa do autor da ação, sem, contudo, ignorar o caráter preventivo e repressivo inerente ao instituto, mostrou-se razoável reduzir o valor total das astreintes para R$ 50.000,00 (cinquenta mil reais).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1846874/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/09/2020, DJe 08/10/2020)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA COMINATÓRIA. VALOR EXORBITANTE. REVISÃO. POSSIBILIDADE.
+1. O valor da multa cominatória não é definitivo, pois poderá ser revisto em qualquer fase processual, inclusive em cumprimento de sentença, caso se revele excessivo ou insuficiente (art. 537, § 1º, do Código de Processo Civil).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1409856/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/03/2021, DJe 04/03/2021)
+Incide, portanto, o enunciado da Súmula n. 568/STJ, para desprover desde logo o recurso especial.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. MULTA COMINATÓRIA. EMBARGOS DECLARATÓRIOS. ERRO MATERIAL. OMISSÃO. INOCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA.REDUÇÃO DO VALOR DA MULTA. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ.RECURSO ESPECIAL NÃO PROVIDO.
