@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de LEONARDO LIMONTE FERNANDES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 019233-17.2021.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 10/7/2020, convertido em prisão preventiva, após manifestação do Ministério Público nesse sentido (fls. 111/115), e restou denunciado pela suposta prática dos delitos tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/06 (tráfico e associação para o tráfico de entorpecentes). Em 26/10/2020, o Juízo de primeiro grau reavaliou a prisão preventiva do réu, nos termos do art. 316, parágrafo único, do CPP, mantendo-a (fls. 198/199).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO - Pedido de revogação da prisão preventiva, por excesso de prazo, inclusive - Decisão que justifica suficientemente a custódia preventiva - Necessidade de manutenção da custódia cautelar também reavaliada recentemente pelo Juízo de origem - Feito que aguarda a apresentação de alegações finais - Constrangimento ilegal não configurado - Ordem conhecida e denegada." (fl. 11).
+No presente writ, o impetrante sustenta a existência de violação ao art. 316, parágrafo único, do CPP, tendo em vista a extrapolação do prazo legal para a reavaliação da prisão preventiva. Assevera que, ultrapassado o prazo legal, torna-se nula a prisão preventiva.
+Defende a inadmissibilidade da recomendação pelo Tribunal de origem, para que o Juízo de primeiro grau realize a reavaliação da prisão preventiva do réu, destacando que assim agindo, a autoridade coatora convalidou a ilegalidade apontada.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva do paciente, com a expedição de alvará de soltura.
+Indeferida a liminar (fls. 311/312) e informações prestadas (fls. 316/332), o Ministério Público Federal opinou pela concessão da ordem de ofício (fls. 336/342).
+É o relatório.
+Decido.
+O mandamus está prejudicado.
+Isso porque, dos informes trazidos pelo Magistrado singular e do andamento processual obtido na página eletrônica do Tribunal de origem, verificou-se que, em 10/3/2021 foi proferida sentença condenando o ora paciente às penas de 7 anos de reclusão, em regime inicial fechado, e pagamento de 500 dias-multa, ocasião em que o juízo de primeiro grau negou o recurso em liberdade, mantendo a prisão preventiva sob os seguintes fundamentos:
+"Dados o regime e a quantidade de pena aplicados, a natureza, tendo respondido o feito preso e permanecendo presentes os requisitos da custódia cautelar, seja o réu Leonardo recomendado no estabelecimento prisional onde se encontrar."
+Assim, tendo sido reavaliada a necessidade da custódia cautelar, resta prejudicada a alegação de ofensa ao parágrafo único do art. 316 do CPP.
+De se destacar que o entendimento desta Corte Superior é no sentido de que "a alteração promovida pela Lei n. 13.964/2019 ao art. 316 do Código de Processo Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal. Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução desse ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no RHC 130.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/11/2020).
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intime-se.
