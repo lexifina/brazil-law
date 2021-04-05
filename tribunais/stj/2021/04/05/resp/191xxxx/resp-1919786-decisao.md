@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 155, caput c/c art. 14, II,do Código Penal (furto tentado), à pena de 10 (dez) meses e 26 (vinte e seis) diasde reclusão, em regime inicial semiaberto, e ao pagamento de 08 (oito) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, que restou parcialmente provido para reduzir a pena para09(nove) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e 07 (sete) dias-multa.
+O acórdão restou assim ementado:
+Furto simples -tentado  Princípio da insignificância -- Figura que - não encontra amparo na lei  Irrelevância do valor da coisa subtraída  Crime caracterizado  Condenação mantida; Furto simples tentado  Folha de Antecedentes  Exasperação da pena base  Impossibilidade  Súmula nº 444, do Superior Tribunal de Justiça; Furto simples tentado  Réu Reincidente  Regime aberto, substituição da pena privativa de liberdade por restritiva de direitos  Sursis, ou do furto privilegiado  Inviabilidade  Recurso parcialmente provido para redução da pena.
+Em sede de recurso especial, a defesa aponta violação ao disposto nos arts. 1º, 13 e 155, todos do Código Penal e art. 386, III, do Código do Processo Penal. Sustenta, em síntese, a atipicidade da conduta, ante a aplicação do princípio da insignificância.
+Contrarrazões às fls. 287/296.
+Admitido o recurso (fl. 299), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo desprovimento do recurso (fls. 310/312).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A posição majoritária desta Corte Superior é a de que a reincidência, por si só, não exclui a aplicação do princípio da insignificância, mas deve ser sopesada junto com as demais circunstâncias fáticas, admitindo-se a incidência do aludido princípio ao reincidente em situações excepcionais (EREsp 1483746/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, DJe 18/05/2016).
+No caso dos autos,está presente a reincidência específica do recorrente (fl. 108), circunstânciaque impedeo reconhecimento do princípio da insignificância, devido ao alto grau de reprovabilidade da conduta.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REINCIDÊNCIA. REPROVABILIDADE DO COMPORTAMENTO. AGRAVO DESPROVIDO.1. A jurisprudência pacífica desta Corte é no sentido de que se o réu é reincidente específico indica a reprovabilidade do comportamento, apta a afastar a aplicação do princípio da insignificância. Precedentes. 2. Agravo regimental desprovido.
+(AgRg no AREsp 1427296/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA,DJe 04/06/2019).
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. BEM FURTADO AVALIADO EM R$ 36,00. HABITUALIDADE DELITIVA. REINCIDENTE ESPECÍFICO. PRECEDENTES. ORDEM DENEGADA.1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente;b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.2. Ressalvada compreensão diversa, restituído o bem e ainda inexpressivo o valor da res furtiva, R$36,00, correspondente a aproximadamente a 3,6% do salário mínimo vigente à época, a habitualidade delitiva do paciente, caracterizada pela reincidência específica é suficiente para afastar a aplicação do princípio da insignificância. Precedentes.3. Habeas corpus denegado.
+(HC 569.380/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 16/06/2020).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO.PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Não se aplica o princípio da insignificância ao reincidente específico. Precedentes. Agravo regimental desprovido.
+(AgRg no AREsp 1019592/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 17/02/2017).
+Ressalta-se que "O princípio da insignificância é verdadeiro benefício na esfera penal, razão pela qual não há como deixar de se analisar o passado criminoso do agente, sob pena de se instigar a multiplicação de pequenos crimes pelo mesmo autor, os quais se tornariam inatingíveis pelo ordenamento penal. Imprescindível, no caso concreto, porquanto, de plano, aquele que é contumaz na prática de crimes não faz jus a benesses jurídicas."(HC 544.468/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/02/2020).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
