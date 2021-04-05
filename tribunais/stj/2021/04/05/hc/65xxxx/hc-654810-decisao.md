@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar,impetrado em favor de JAIR LIMA HONORATO DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.0000205-34.2021.8.26.0506.
+Consta dos autos que o Paciente cumpre pena total de 20 (vinte) anos, 8 (oito) meses e 3 (três)dias de reclusão, por diversas condenações porcrimes comuns, estelionatos e falsificação de documentos públicos, em sua maioria.
+O Juízo das Execuções, em 16/12/2020, considerando que o apenado reincidente cumpriu mais da metade da pena, deferiu o livramento condicional, nos termos da decisão de fls. 60-61.
+O Ministério Público interpôs agravo em execução, que foi provido pela Corte a quo, no dia 09/03/2021, paracassar a decisão que concedeu livramento condicional e determinar o retorno do reeducando ao regime fechado, em acórdão assim ementado (fl. 65):
+"AGRAVO EM EXECUÇÃO PENAL - LIVRAMENTO CONCEDIDO NA ORIGEM - AFRONTA AO ART. 83, § ÚNICO E INCISO III, DO CÓDIGO PENAL - OFENSA AO ENUNCIADO 491 DO STJ - AUSÊNCIA DO REQUISITO SUBJETIVO E PROGRESSÃO POR SALTO DECISÃO - PRECEDENTES - AGRAVO MINISTERIAL PROVIDO."
+Defende o Impetrante, em suma, que o Apenado faz jus à benesse, pois cumpriu o lapso temporal e possui atestado de bom comportamento carcerário. Aduz que é teratológico cassar a decisão, em pleno estado de pandemia, agora queo Paciente está trabalhando e ressocializado, após meses sem nenhum demérito.
+Busca, assim, em liminar e no mérito,a concessão da ordem para que o Apenado seja mantido em livramento condicional.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores." (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020, sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Tribunal paulista cassou a decisão que concedeu o livramento condicional ao Paciente com a seguinte fundamentação (fls. 66-67):
+"O reeducando tem pena a cumprir até 2031.
+Iniciou-a no fechado, saltando direto para o livramento condicional. E tal afronta o enunciado 491 do Superior Tribunal de Justiça.
+E não é só.
+Na esteira do pontuado pelo ilustre Desembargador EDISON BRANDÃO em repetidos julgados desta Câmara, "a atividade jurisdicional não pode ser mera chancelaria e o Judiciário não pode ser mero burocrata, ratificador de documentos emitidos pela direção da unidade prisional ou mesmo por perícia elaborada".
+Não se está diante de aritmética.
+O direito à progressão de regime ou ao livramento condicional não pode ser simples operação matemática, resumindo-se na atuação de aluno do primário, para concessão de benefícios penais.
+Ao revés.
+A decisão que progride ou concede o livramento condicional deve ser pautada por uma avaliação criteriosa, valorando-se fatores peculiares da vida prisional do reeducando.
+O livramento, final etapa da pena no sistema progressivo, destina-se àquele preso que adquiriu grau de confiabilidade ao longo da pena cumprida, apresentando indícios veementes de que alcançou a ressocialização e a reinserção social.
+Destarte, não cumprido o requisito do inciso III, em concerto com o parágrafo único, do art. 83 do Código Penal. A ressocialização deve seguir degraus ordenados e sucessivos, sendo inviável que o condenado a regime fechado passe diretamente para o livramento condicional, por salto, sem o estágio no regimeintermediário.
+A decisão, portanto, é precipitada e não salutar ao meio social. Lado outro, coloca em risco também a ressocialização do reeducando, prematuramente posto em liberdade. O salto na progressão afronta a segurança e, em tal cenário, a decisão deve ser cassada."
+Como se vê, apesar de reconhecer o requisito objetivo e obom comportamento carcerário do Paciente, o Tribunal de origem, ao dar provimento ao agravo em execução acusatório, limitou-se a ressaltara exigência do cumprimento da pena no regime intermediário, bem como alonga pena a cumprir.
+Contudo, tal entendimento destoa da jurisprudência deste Tribunal Superior, firmada no sentido de que não há obrigatoriedade de que o Apenado passe pelo regime semiaberto para obter o benefício do livramento condicional, tendo em vista a falta de previsão no art. 83 do Código Penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL EMHABEAS CORPUSCONCEDIDO LIMINARMENTE. .. . EXECUÇÃO PENAL. INDEFERIDO O LIVRAMENTO CONDICIONAL EM RAZÃO DA NECESSIDADE DE VIVENCIAR O REGIME INTERMEDIÁRIO. FUNDAMENTO INIDÔNEO. PRECEDENTES.
+ ..
+3.É pacífico no Superior Tribunal de Justiça o entendimento de que não há obrigatoriedade de que o apenado vivencie o regime semiaberto para obter o benefício do livramento condicional, em razão da falta de previsão legal.
+4. Agravo regimental improvido." (AgRg no HC 498.805/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/04/2019, DJe 29/04/2019; sem grifos no original.)
+Ademais, verifica-se que a jurisprudência deste Tribunal Superior se consolidou no sentido de que a gravidade abstrata dos crimes praticados pelo apenado e a longa pena a cumprir não constitui fundamentação idônea a justificar o indeferimento de benefícios no âmbito da execução penal. A esse respeito, cito os seguintes precedentes:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. LONGA PENA A CUMPRIR. GRAVIDADE DOS DELITOS PRATICADOS. FALTA GRAVE ANTIGA E JÁ REABILITADA. DESNECESSIDADE DE ADAPTAÇÃO A UM REGIME MAIS LIBERAL PARA A CONCESSÃO DO LIVRAMENTO CONDICIONAL. FUNDAMENTAÇÃO INIDÔNEA.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesmaratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6.Habeas corpusnão conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada." (HC 508.784/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2019, DJe 22/08/2019; sem grifos no original.)
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. INCIDÊNCIA DA SÚMULA 439/STJ. REQUISITO SUBJETIVO. AUSÊNCIA DE MOTIVAÇÃO. PRECEDENTES. ORDEM NÃO CONHECIDA.WRITCONCEDIDO DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia domandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. A Lei n. 10.792/2003 deu nova redação ao art. 112 da Lei n. 7.210/1984, para suprimir a realização de exame criminológico como expediente obrigatório para a progressão de regime.
+3. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Súmula 439/STJ).
+4.No caso, o Tribunal de origem ao indeferir o livramento condicional não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos dos autos que pudessem afastar a decisão do magistrado,levando em conta apenas a gravidade dos delitos e a longa pena a cumprir, desconsiderando, ainda, a boa conduta carcerária atestada pelo diretor do estabelecimento prisional.
+5. Ordem não conhecida. Concessão dehabeas corpusde ofício para restabelecer a decisão de Primeiro Grau que deferiu ao paciente o livramento condicional." (HC 366.253/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/09/2016, DJe 21/09/2016; sem grifos no original.)
+Ante o exposto, CONCEDO a ordem dehabeas corpus, para restabelecer a decisão do Juízo da Vara de Execuções Criminais de Ribeirão Preto/SP que concedeu o livramento condicional ao Paciente, nos termos do art. 83 do Código Penal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL DEFERIDO PELO JUÍZO DAS EXECUÇÕES E CASSADO PELO ACÓRDÃO IMPUGNADO COM FUNDAMENTO NA LONGEVIDADE DA PENA E NECESSIDADE DE CUMPRIMENTO EMREGIME INTERMEDIÁRIO. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM DE HABEAS CORPUSCONCEDIDA.
