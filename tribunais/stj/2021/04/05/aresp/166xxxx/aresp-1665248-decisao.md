@@ -1,0 +1,75 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por PAULIFRESA FRESAGEM E RECICLAGEM LTDA- EM RECUPERAÇÃO JUDICIAL, contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 257/258):
+Recuperação judicial. Decisão que julgou improcedente impugnação de crédito. Agravo de instrumento dos credores.
+Multa do § 2º do art. 523 do CPC. Credores que pretendem sua incidência sobre o valor em aberto referente às parcelas de acordo por eles celebrado em ação de dissolução parcial de sociedade travada com a recuperanda. Decisão, proferida nos autos daquele processo, que determinou a aplicação da multa sobre o débito existente na data em que se encerrou o prazo para pagamento da dívida, que deve ser observada.
+Multa por litigância de má-fé imposta, naquela ação, em prol dos ora habilitantes. Credores que a calcularam com base na quantia inadimplida na data em que terminou o prazo para pagamento da dívida, quando deveriam tê-la aplicado, tal como fez a administradora judicial, sobre o débito calculado ao início do cumprimento desentença, conforme "decisum" que fixou a penalidade.
+Valores referentes ao IPTU que, por serem de titularidade do Município, apenas se comprovada sua quitação pelos habilitantes, o que não ocorreu no presente caso, ser-lhes-iam devidossentença, conforme "decisum" que fixou a penalidade.
+Valores referentes ao IPTU que, por serem de titularidade do Município, apenas se comprovada sua quitação pelos habilitantes, o que não ocorreu no presente caso, ser-lhes-iam devidos.
+Juros e multa previstos em acordo celebrado entre as partes que devem incidir sobre o valor principal atualizado. A correção monetária não é penalidade, mas forma de adequação no tempo do poder aquisitivo da moeda. Encargos acessórios que devem incidir separadamente sobre o débito atualizado. Necessário recálculo do crédito apenas quanto a este ponto.
+Anulação da decisão agravada para que, na origem, o administrador submeta às partes o valor que se obtém pela forma como ora se decide, isto é, recalculado o crédito com a incidência de juros e da multa de 5% prevista no acordo celebrado entre as partes sobre o saldo devedor atualizado, prosseguindo-se tal qual previsto em lei.
+Agravo de instrumento parcialmente provido para tal fim.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 1.022, inciso II, do Código de Processo Civil/2015, e, 884 do Código Civil, além de divergência jurisprudencial.
+Sustenta, em síntese, suposta negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todos os artigos de lei federal tidos por violados.
+Por fim, aduz que "não merece prosperar o acórdão recorrido, que deu provimento parcial ao Agravo de Instrumento dos Recorridos, tendo em vista que a retificação do cálculo do crédito dos Recorridos com aplicação de multa e juros sobre o valor total do acordo afronta ao art. 884 do Código Civil de 2002, bem como o princípio da par conditio creditorum previsto na Lei nº 11.101/2005, pois contraria o acordo homologado pelas partes, já transitado em julgado" (e-STJ Fl. 296).
+Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+Cumpre asseverar ainda que éindevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte, conforme os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+A pretensão recursal não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Quanto à alegação de violação aos artigos apontados no especial, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula 283/STF.
+Na hipótese, consta do acórdão recorrido que:
+"Por outro lado, no que diz respeito aos encargos aplicados para cálculo do crédito relacionado aos haveres devidos aos habilitantes (d), têm estes razão, uma vez que os juros moratórios e a multa prevista no acordo celebrado entre as partes devem incidir sobre o valor atualizado do débito.
+Neste ponto, data venia da manifestação da administradora judicial, no sentido de que "caso seja aplicado primeiro a correção monetária sobre o principal para depois aplicar juros e a multa, ocasionaria um aumento indevido no quantum debeatur representando enriquecimento ilícito dos Agravantes", de se lembrar que a correção monetária não é penalidade, mas, meramente, mecanismo de adequação do poder aquisitivo da moeda. Não é, absolutamente, um plus que se acrescenta, nem um minus que se subtrai.
+Assim, sendo os juros e a multa acessórios, devem incidir, separadamente, sobre o débito devidamente atualizado.
+(..)
+Por isso, por meu voto, anulo a r. decisão, para que, com o retorno dos autos à origem, o administrador submeta às partes o valor que se obtém pela forma como ora se decide, isto é, recalculado o crédito com a incidência de juros e da multa de 5% prevista no acordo celebrado entre as partes sobre o saldo devedor atualizado, prosseguindo-se tal qual previsto em lei" (e-STJ Fls. 265/267, gn).
+Entretanto, a recorrente argumentou, tão somente, o malferimento ao art. 884, do CC, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, qualseja: "a correção monetária não é penalidade, mas, meramente, mecanismo de adequação do poder aquisitivo da moeda".
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido a jurisprudência do Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.CUMPRIMENTO DE SENTENÇA. CONCLUSÃO DO ACÓRDÃO PELO DESCABIMENTO DO PEDIDO DE INCLUSÃO EM FOLHA DE PAGAMENTO DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM SUBSTITUIÇÃO À CONSTITUIÇÃO DE CAPITAL ASSECURATÓRIO DO ADIMPLEMENTO DO PENSIONAMENTO. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência desta Corte, a possibilidade de substituição da constituição de capital pela inclusão do exequente em folha de pagamento da empresa deve ser avaliada pelo juízo da execução no momento do cumprimento de sentença.
+2. A mera circunstância de ser a empresa ré concessionária de serviço público não a exime da constituição de capital garantidor, como forma de assegurar o cumprimento da obrigação (Súmula 313/STJ) 3. A alteração da conclusão do Tribunal estadual quanto à necessidade de constituição de capital assecuratório do adimplemento do pensionamento demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno improvido.
+(AgInt no AREsp 1530151/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em qualquer ofensa aos artigos 1022, II e 489, §1º, do CPC/2015, porquanto embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Nos termos da jurisprudência consolidada no STJ, a revisão de indenização por danos morais somente é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018; grifou-se)
+A pretensão recursal não merece prosperar.
+No mais, temos que a Corte de origem decidiu a controvérsia posta em conformidade com a jurisprudência desta Corte de Justiça sobre o tema, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO PROVIDO. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PERCENTUAL SOBRE O PROVEITO ECONÔMICO AUFERIDO COM A CAUSA. NECESSIDADE DE ATUALIZAÇÃO DA BASE DE CÁLCULO. PRECEDENTES. AGRAVO PROVIDO.
+1. De acordo com a jurisprudência do STJ, "No agravo interno, a parte agravante pleiteou fosse considerado, para fins de aferição da índole irrisória e da majoração dos honorários advocatícios, o valor atualizado da causa. Tal pretensão mostra-se adequada, na medida em que a correção monetária não é acréscimo, gravame ou acessório, visando apenas a salvaguardar o poder aquisitivo da moeda.Precedentes que utilizam o valor atualizado da causa como parâmetro." (AgInt no AREsp 1151280/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+2. Os juros de mora são decorrência lógica da condenação e também devem incidir sobre a verba advocatícia, desde que, como sói acontecer, haja mora do devedor, a qual somente ocorre a partir do momento em que se verifica a exigibilidade da condenação, vale dizer, do trânsito em julgado.
+3. Agravo interno provido, a fim de consignar que os honorários advocatícios, fixados em 1% sobre o proveito econômico auferido, devem ter a base de cálculo atualizada desde o ajuizamento da demanda até a data do efetivo pagamento, acrescendo-se, ainda, juros moratórios a partir do trânsito em julgado desta condenação.
+(AgInt no REsp 1326731/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2019, DJe 16/12/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. CONTRATOS. COMPRA E VENDA DE IMÓVEL. ENTREGA DAS CHAVES. MORA. SALDO DEVEDOR. CORREÇÃO MONETÁRIA. SUSPENSÃO. IMPOSSIBILIDADE. EQUIVALÊNCIA ECONÔMICA DAS OBRIGAÇÕES. INEXISTÊNCIA. INDENIZAÇÃO. DANO MORAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência desta Corte, a mora na entrega das chaves de imóvel adquirido na planta, excluída a má-fé da construtora, não autoriza a suspensão da correção monetária do saldo devedor.
+3. A correção monetária nada acrescenta ao valor da moeda, servindo apenas para recompor o seu poder aquisitivo, corroído pelos efeitos da inflação, constituindo fator de reajuste intrínseco das dívidas de valor.
+4. A jurisprudência do Superior Tribunal de Justiça, em regra, orienta-se no sentido de que a demora na entrega do imóvel constitui mero inadimplemento contratual, o que por si só não gera o dever de indenizar.
+5. Agravo interno não provido.
+(AgInt no REsp 1679469/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/12/2018, DJe 01/02/2019)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim,deixodemajoraroshonoráriosnos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos deagravodeinstrumentoque ataca decisão interlocutória na qual não houve prévia fixação dehonorários.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. DECISÃO QUE JULGOU IMPROCEDENTE IMPUGNAÇÃO DE CRÉDITO. AGRAVO DE INSTRUMENTO DOS CREDORES..NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 884 DO CC. EXISTÊNCIA DE FUNDAMENTO SUFICIENTE PARA MANUTNEÇÃO DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283/STF.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
