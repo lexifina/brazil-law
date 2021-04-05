@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Mariluce da Silva e outros contra acórdão exarado pela eg. Terceira Turma e ementado da seguinte forma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO,CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. Cuida-se, na origem, de ação de responsabilidade obrigacional securitária, fundada no descumprimento de contrato de seguro contra danos físicos em imóvel.2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.3. O CDC não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação celebrados antes de sua entrada em vigor e aos contratos de mútuo habitacional com vinculação ao FCVS. Precedentes.4. Agravo interno desprovido.(fl. 515,Rel. Ministra NANCY ANDRIGHI)
+Os embargantes, em síntese, alegam a existência de divergênciano tocante à incidência do Código de Defesa do Consumidor aos contratos firmados no âmbito do Sistema Financeiro da Habitação, pois enquantoo acórdão embargado a repele os arestos paradigmas a acolhem.
+Afirmam, nesse passo, que o acórdão embargado diverge, de início, dojulgado proferidonoAgRg no AgRg nos EDcl no REsp 323.519/MT, da Eg. Quarta Turma, porque"enquanto, no acórdão ora embargado, a Terceira Turma desproveu o Recurso Especial interposto em razão de que o Código de Defesa do Consumidor aplicaria aos contratos de caráter de trato sucessivo, com base nos quais se busca cobertura securitária, porque tais instrumentos contratuais seriam anteriores à vigência de tal Estatuto Legal, a Quarta Turma reconheceu a aplicabilidade do Código de Defesa do Consumidor, ainda que fossem os contratos em questão anteriores à data de início da referida Legislação Consumeristas" (na fl. 547/548).
+O aresto paradigma está assim ementado:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CDC. APLICAÇÃO RETROATIVA.IMPOSSIBILIDADE. OBRIGAÇÃO DE TRATO SUCESSIVO. RENOVAÇÃO DO CONTRATO NA VIGÊNCIA DO CDC. INCIDÊNCIA DA LEGISLAÇÃO CONSUMERISTA.
+1. O Código de Defesa do Consumidor (Lei 8.078/90) não é aplicável aos contratos celebrados antes da sua vigência.
+2.- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+3. A discussão posta nos autos, incidência do CDC, foi objeto do devido prequestionamento no acórdão recorrido, não havendo óbice a sua apreciação nesta Corte. Para se examinar se o caso é, ou não, de aplicação do CDC foi submetida a esta Corte a análise das questões pertinentes ao deslinde do incidente, entre as quais a ocorrência de renovação do contrato, bem como a existência de obrigação de trato sucessivo, aspectos devidamente suscitados nas contrarrazões ao especial.
+4. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no REsp 323.519/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/08/2012, DJe 18/09/2012)
+Assegura, também, que o decisum embargado diverge do entendimento adotado no julgamento doAgRg no AREsp 189.388/SC,assim ementado:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, CPC) - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - AUSÊNCIA DE INTERESSE DA CEF POR INEXISTIR LESÃO AO FCVS - RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DA CONSTRUÇÃO - APLICABILIDADE DO CDC - MULTA DECENDIAL CORRETAMENTE APLICADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO DA SEGURADORA.
+1. Para infirmar o acórdão recorrido, quanto ao tipo da apólice objeto do financiamento, seria necessário o reexame do contrato de financiamento habitacional, pois não foi juntado aos autos, atraindo, na hipótese, os óbices insculpidos nos enunciados das Súmulas 05 e 07 do STJ.
+2. Nos contratos de seguro habitacional obrigatório sob a égide das regras do Sistema Financeiro da Habitação, as seguradoras são responsáveis quando presentes vícios decorrentes da construção, não havendo como se sustentar o entendimento de que haveria negativa de vigência do art. 1.460 do antigo Código Civil.
+3. Aplica-se a legislação consumerista às relações regidas pelo SFH, inclusive aos contratos de seguro habitacional, porque delas decorre diretamente.
+4. A multa decendial pactuada para o atraso do pagamento da indenização é limitada ao montante da obrigação principal.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 189.388/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/10/2012, DJe 23/10/2012)
+Quanto a esse segundo precedente, os embargantes afirma que, "enquanto a Terceira Turma desproveu o Agravo Interno interposto contra a decisão que desproveu o Recurso Especial em razão de que o Código de Defesa do Consumidor não se aplicaria, porque os contratos são do SFH e estão vinculados ao FCVS, a Quarta Turma afastou tal tese, ou seja, aplicou o Código de Defesa do Consumidor mesmo nos contratos do SFH, com vinculação" (fl. 562).
+Requerem o acolhimento dos embargos de divergência, fazendo prevalecer o entendimento do acórdão paradigma.
+É o relatório.
+Passo a decidir.
+A irresignação não merece acolhida.
+Destaca-se, desde logo, que o discrímen elegido pelo entendimento esposado pelo acórdão ora embargado para afastar a incidência do Código de Defesa do Consumidor ao caso em análise é a vinculação ou não ao FCVS, não abordando o fato de a espécie de contrato em tela ser ou não de trato sucessivo, motivo pelo qual indefere-se, desde logo, a alegação de divergência jurisprudencial com oAgRg no AgRg nos EDcl no REsp 323519 / MT.
+Senão, confira-se o seguinte excerto do aresto embargado:
+"(..) o Tribunal de origem alinhou-se à jurisprudência desta Corte ao entender que o CDC não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação celebrados antes de sua entrada em vigor e aos contratos de mútuo habitacional com vinculação ao FCVS" (fl. 520).
+Ademais, no tocante ao segundo paradigma,AgRg no AREsp 189.388/SE, verifica-se queo aresto embargado analisa hipótese de não incidência do CDC ao contratocom vinculação ao FCVS e o aresto paradigma cuida de caso em que é possível a incidência do CDC, porque o contrato em análise não possui vinculação ao FCVS.
+A propósito, confira-se o seguinte excerto do aresto paradigma:
+"O acórdão limitou-se a dizer que não haveria a incidência do CDC nos contratos do SFH, citando, no entanto, precedente da 2ª Turma desta Corte Superior em que afastada a incidência do CDC por força da existência de previsão de cobertura do saldo devedor residual pelo FCVS em contrato de mútuo habitacional.
+Necessário o registro de que, em face da jurisprudência desta Corte Superior analisando o Regimento Interno do STJ, seria da competência da 1ª Seção a análise de ações revisionais em que presente no contrato de mútuo cláusula de cobertura do saldo residual pelo Fundo de Compensação de Variações Salariais, sendo as demais ações revisionais de mútuo habitacional de competência das Turmas de Direito Privado (..)
+Aqui, não se está no âmbito de ação revisional de empréstimo bancário e sequer se afirma se há efetivamente previsão de cobertura pelo FCVS do resíduo do saldo devedor, pois, primeiro, nem todos os contratos não foram juntados e, segundo, vários deles foram celebrados quando não mais havia a cobertura do resíduo do saldo devedor pelo FCVS!" (REsp 1837230/SE).
+Desse modo, é patente a ausência de similitude entre os acórdãos comparados, tonando inviável o cotejo dos julgados.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. ÓBICE DA SÚMULA 315/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. DIVERGÊNCIA NÃO CONFIGURADA.
+1. A teor da Súmula 315 do Superior Tribunal de Justiça, não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+2. Admite-se a divergência nos casos em que o relator conhece do agravo e adentra o mérito do próprio recurso especial, uma vez que, nessa hipótese, estará decidindo o próprio mérito do recurso especial, o que não ocorreu na espécie.
+3. Ausente a similitude fática entre as situações, incabíveis são os embargos de divergência.
+4. Os embargos de divergência prestam-se à pacificação da jurisprudência, não à revisão de julgados dos órgãos fracionários da Corte. Não enseja divergência a aplicação da Súmula 182 em conformidade com as peculiaridades de cada caso.
+5. Embargos de divergência não conhecidos.
+(EAREsp 559.766/DF, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se.
