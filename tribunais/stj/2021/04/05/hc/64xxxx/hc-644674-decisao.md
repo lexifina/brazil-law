@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Pedro Henrique Alves Franco- preso preventivamente pela prática, em tese, do crime de tráfico de drogas-, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que indeferiu a liminar no writ ali impetrado (Habeas Corpus n. 1.0000.21.016168-3/000), mantendo a segregação cautelar imposta pelo Juízo de Direito do plantão judicial da comarca de Munhaçu/MG (Autos n. 3500147-25.2021.8.13.0395).
+Alega o impetrante, em síntese, constrangimento ilegal na decretação da prisão cautelar do paciente, tendo em vista que a decisão do Des. Rel. está, com a devida vênia, equivocada, pois a decisão do juiz de piso está em desacordo com a jurisprudência dominante dos Tribunais Superiores e o caso comporta a concessão de medida liminar. Uma vez negada a liminar no TJMG, mesmo tendo sido amplamente demonstrados a flagrante ilegalidade do ato coator despido de fundamentação concreta, assim como probabilidade do direito e o perigo da demora (perpetuação da ilegalidade), resta-nos o pleito de superação da Súmula 691 para a restauração do "status libertatis"(fl. 8).
+Postula, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+Em 22/2/2021, deferi o pedido liminar (fls. 142/144).
+Prestadas as informações (fls. 147/158), o Ministério Público Federal opinou pela concessão da ordem (fls. 167/169).
+É o relatório.
+Antes de apreciar o mérito do presente writ, consultei a página eletrônica do Tribunal de Justiça de Minas Gerais e obtive a informação de que o mérito do mandamus originário ainda não foi julgado.
+Assim, a liminar anteriormente concedida carece de confirmação.
+Confira-se, no que interessa, a decisão que impôs a prisão cautelar do paciente (fls. 32/33 - grifo nosso):
+ ..
+Conduzido pelos Policiais Militares à presença do Delegado plantonista, aAutoridade Policial procedeu às oitivas do condutor, 2 testemunhas e do conduzido.
+Por entender que havia indícios de autoria e prova da materialidade do crime em questão, o Delegado ratificou a prisão, lavrou o APFD e expediu as notas de culpa e de ciência dos direitos constitucionais, remetendo cópia do expediente a este Juiz plantonista.
+Assim, considerando-se a regularidade formal das providências adotadas, homologo o APFD e ratifico a prisão (cf. artigos 304 e 306 do CPP c/c art. 50 da Lei 11.343/2006.Na espécie, encontra-se em ordem o auto flagrancial, não havendo que se falar em relaxamento da prisão.
+Por outro lado, da análise detida dos autos, tenho que é inaplicável, in casu, as medidas cautelares alternativas à prisão, previstas no art. 319, do CPP, com nova redação dada pela Lei n. 12.403/11, posto que se mostram, na espécie, ineficazes e inadequadas para garantir a aplicação da lei penal, a conveniência da instrução processual e evitar a reiteração delituosa, fazendo-se presentes, a meu ver, os motivos que autorizam a prisão preventiva do autuado.
+Pode-se extrair do contexto probatório a existência de indícios bastantes de autoria e materialidade, podendo a autoria delitiva ser imputada ao autuado, sendo o delito cominado com pena máxima abstrata superior a 04 anos (art. 313, I, do CPP - nova redação dada pela Lei n. 12.403/11).
+Quanto aos requisitos específicos, tenho que igualmente encontram-se presentes, uma vez que é evidente a necessidade da segregação cautelar em razão da garantia da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+Os fatos em apuração mostram-se extremamente graves, pois aponta o envolvimento do autuado com o nefasto crime de tráfico de drogas, crime este que, lamentavelmente, visa à propagação do vicio, e consequentemente, o crescente consumo de drogas, que, infelizmente, tem levado um grande número de pessoas para um abismo sem fim.
+Trata-se de delito que põe em perigo toda a sociedade, visto que busca semear a propagação do consumo de drogas no meio social, conferindo ao Estado inibir a propagação do vicio, buscando impedir a associação de pessoas para este fim, e consequentemente, o crescente consumo de drogas.
+Penso que o crime de tráfico ilícito de entorpecentes constitui um delito gravíssimo, de enorme repercussão na sociedade rápida disseminação e efeitos devastadores. Ainda, geralmente está associado a outros delitos, necessários para fomentar e manter a traficância. Portanto, latente o risco ordem pública.
+ ..
+Outro ponto que deve ser examinado é a proteção da instrução criminal, pois os fatos e versões apresentadas, deverão ser esclarecidas no deambular da instrução criminal, inclusive, com a colheita de prova testemunhal, sendo certo que as testemunhas necessitam de tranquilidade para depor, não havendo garantias nos autos de que com a soltura dos autuados, a colheita de provas não será perturbada, ameaçada e desvirtuada.
+Ainda, tenho que a medida excepcional visará resguardar, ainda, a aplicação da lei penal, pois, pode-se concluir que, ante a grave pecha que pesa contra os autuados, permanecendo em liberdade, poderá tentar se furtar à ação da Justiça, não havendo garantias de que comparecerá aos atos processuais necessários.
+Por derradeiro, anote-se que apesar da prisão preventiva seja considerada uma exceção, já que, por meio dela priva-se os acusados de seu jus libertatis antes do pronunciamento condenatório definitivo, em casos excepcionais, como na hipótese dos autos, justifica-se a medida constritiva, posto que evidenciado a sua real necessidade para a garantia da ordem pública, da instrução criminal e da aplicação da lei penal, ex vi do artigo 312 do CPP. 310, II,do CPP.
+ ..
+Da atenta análise dos trechos transcritos, observa-se que o Magistradosingular se limitou à gravidade abstrata do crime, sem evidenciar elementos concretos que demonstrassem a necessidade da custódia, para a garantia da ordem pública ou da instrução criminal.
+Assim, verifico, em princípio, a existência de constrangimento ilegal capaz de permitir a superação da Súmula 691/STF, aplicável por analogia.
+Em face do exposto, concedo a ordem impetrada, confirmando a medida liminar, para revogar a prisão cautelar imposta ao paciente, podendo o Magistrado singular impor medidas alternativas, desde que fundamentadamente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. SUPERAÇÃO POR OCASIÃO DA ANÁLISE DA MEDIDA DE URGÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. AUSÊNCIA. DECISÃO QUE SE LIMITA A REFERÊNCIAS À GRAVIDADE ABSTRATA DO CRIME. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONFIRMAÇÃO DA LIMINAR DEFERIDA QUE SE IMPÕE.
+Ordem concedida.
