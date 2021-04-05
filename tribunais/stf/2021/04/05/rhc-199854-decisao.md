@@ -1,0 +1,29 @@
+DECISÃO:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Fernando Silva Teixeira, em face de acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo no HC nº 633.917/RJ, relatoria do Min. Nefi Cordeiro.
+    Narra o recorrente que se encontra preso preventivamente, desde 13/1/2020, pela suposta prática dos crimes previstos no artigo 180, § 1º e § 2º, do Código Penal.
+    O recorrente sustenta a presença de constrangimento ilegal, pois a custódia preventiva padeceria de fundamentação idônea, apta a justificar a sua necessidade.
+    Acrescenta a ausência de contemporaneidade dos fatos que ensejaram a prisão, destacando se tratar de antecipação da pena, porque o delito teria ocorrido em 21 de julho de 2019 e a prisão somente foi decretada em janeiro de 2020.
+    Alega que não foi realizada a revisão da prisão preventiva, no prazo de 90 dias, violando a regra do parágrafo único do art. 316 do Código de Processo Penal.
+    Aponta a existência de excesso de prazo, porque o recorrente se encontra preso desde 13/1/2020.
+    Requer, liminarmente, a concessão da ordem para seja revogada a prisão preventiva do paciente ou substituída por medidas cautelares diversas (CPP, art. 319). E, no mérito, a confirmação da medida.
+    É o relatório.
+    Decido.
+    Eis a ementa do julgado questionado:
+    EMENTA AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. ANTECIPAÇÃO DE PENA NÃO EVIDENCIADA. INÉPCIA DA DENÚNCIA. VIA IMPRÓPRIA. NECESSIDADE DE EXAME APROFUNDADO DE FATOS E PROVAS. EXCESSO DE PRAZO. ANDAMENTO REGULAR. AUSÊNCIA DE CARÁTER DE FATALIDADE. VIOLAÇÃO DO ART. 316 DO CPP NÃO DEMONSTRADA. AGRAVO IMPROVIDO.
+    1. Não há falar em antecipação da pena, em se considerando a duração da prisão cautelar, ocorrida em 13/01/2020, e as penas abstratamente cominadas (de 3 a 8 anos de reclusão), não se não podendo a desproporcionalidade do regime em que cumprida a prisão ser aferida antes da dosimetria da pena a ser realizada na sentença condenatória.
+    2. É imprópria a via do writ ao exame da tese de inépcia da denúncia, ao argumento de que os fatos narrados não teriam ocorrido tal como constaram da denúncia, dada a necessidade de exame aprofundado de fatos e provas.
+    3. Não se constata constrangimento ilegal por excesso de prazo, em se considerando a data da prisão, o regular andamento do feito, sua complexidade e a suspensão dos prazos em virtude da pandemia causada pelo Covid-19, sendo que o prazo de 90 dias para a reavaliação da prisão preventiva, determinado pelo art. 316, parágrafo único, do CPP, é examinado sob o prisma jurisprudencialmente construído de valoração casuística, observando-se as complexidades fáticas e jurídicas envolvidas, admitindo-se assim eventual e não relevante prorrogação da decisão acerca da mantença de necessidade das cautelares penais.
+    4. Agravo regimental improvido (doc. 2, e-STJ fl. 166).
+    O julgado proferido pelo STJ não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Com efeito, no tocante ao excesso de prazo na formação de culpa, anoto que a decisão atacada reconheceu a inexistência de desídia do Poder Judiciário na condução do processo, aludindo à situação de excepcionalidade enfrentada pela sociedade e pelo poder público, decorrente da pandemia de coronavírus. A esse respeito consignou:
+    “Em que pese as alegações do agravante, não se verificam motivos para conclusão diversa, pois, como já evidenciado na decisão agravada, em se considerando a duração da prisão, ocorrida em 12/01/2020, e as penas abstratamente cominadas (de 3 a 8 anos de reclusão), não se constata a alegada ilegalidade, não podendo a desproporcionalidade do regime em que cumprida a prisão ser aferida antes da dosimetria da pena a ser realizada na sentença condenatório, sendo imprópria a via do writ ao exame da tese de inépcia da denúncia, ao argumento de que os fatos narrados não teriam ocorrido tal como constaram da denúncia, não se constatando constrangimento ilegal por excesso de prazo, em se considerando a data da prisão, o regular andamento do feito, sua complexidade e a suspensão dos prazos em virtude da pandemia causada pelo Covid-19, sendo que o prazo de 90 dias para a reavaliação da prisão preventiva, determinado pelo art. 316, parágrafo único, do CPP, é examinado sob o prisma jurisprudencialmente construído de valoração casuística, observando-se as complexidades fáticas e jurídicas envolvidas, admitindo-se assim eventual e não relevante prorrogação da decisão acerca da mantença de necessidade das cautelares penais”.
+    Essa compreensão não afronta a jurisprudência da Corte, consolidada no sentido de que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (HC nº 191.330-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 6/11/20).
+    A respeito dos motivos que ensejaram a prisão do recorrente, não consta do acórdão menção ao tema, a inviabilizar, portanto, o exame neste Supremo Tribunal, sob pena de inadmissível supressão de instância.
+    Quanto à reavaliação da prisão preventiva, inexiste, na espécie, flagrante ilegalidade, mormente considerando a posição do Plenário no sentido de que o transcurso do prazo previsto no parágrafo único do art. 316 do Código de Processo Penal não acarreta, automaticamente, a revogação da prisão preventiva (Suspensão de Liminar nº 1.395, Rel. Min. Luiz Fux, j. em 15/10/20).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário em habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 5 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
