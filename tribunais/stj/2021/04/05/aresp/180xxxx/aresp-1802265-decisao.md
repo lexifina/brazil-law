@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ALESSANDRO RIBEIRO DA SILVA, no qual se discute a adequação do contrato de cartão de crédito com empréstimo consignado, por tratar-se de contrato híbrido que integra as operações de empréstimo e cartão de crédito consignado, ante a patente semelhança entre as duas modalidades de crédito consignado, conforme previsto no art. 12, § 1º, Lei nº 19.490/11, do Estado de Minas Gerais.
+No ponto, alega o agravante que "os débitos advêm de empréstimo bancário na modalidade de cartão de crédito consignado, com pagamento mediante descontos periódicos, no importe de 10% (dez por cento) de sua margem consignável, nos termos do art. 12, § 1º, da Lei nº 19.490/11, do Estado de Minas Gerais."
+Por tratar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, I, III e XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
