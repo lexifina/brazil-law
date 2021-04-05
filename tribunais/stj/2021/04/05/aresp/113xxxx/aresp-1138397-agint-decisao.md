@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo interno, interposto por IRMÃOS OLIVEIRA LTDA, mediante o qual se impugna decisão, de minha lavra, que conheceu de seu Agravo para negar provimento ao seu Recurso Especial, no qual se controverte sobre a ocorrência de prescrição tributária.
+Em seu Agravo interno, o ora agravante sustenta, em síntese, o seguinte:
+"(..) o entendimento manifestado na r. decisão agravada acerca da incidência da Súmula n.º 7/STJ corrobora, mais uma vez, para a admissibilidade do recurso especial pela violação do artigo 535 do CPC/1973 (art. 1.022, do CPC/2015).
+No caso, no seu Recurso Especial a Agravante demonstrou de forma inequívoca, as razões que justificavam a violação ao referido dispositivo processual e os equívocos cometidos pelo Tribunal de origem ao julgar a questão debatida nos autos.
+Note o seguinte trecho do inconformismo:
+"Não obstante, nos declaratórios a Recorrente esclareceu quando se deu a entrega das DCTF "s que constituíram os créditos tributários impugnados, que é o termo "a quo" do prazo prescricional, na medida em que o douto Julgador levou em consideração somente a última DCTF apresentada.
+A questão foi necessária, sobretudo, para comprovar que não havia que se falar em entrega intempestiva das DCTF"s, e que estas foram apresentadas em dois momentos, em 30.07.1999 (PA 04/1999) e 11.11.1999 (PA 07/1999) - (fls. 24, 25, 28, 29, 50 e 51 dos autos)".
+Ora, se tais questões não foram apreciadas a despeito de embargos de declaração, e se a superior instancia não podem apreciar tais questões, com maior razão deve ser dado provimento ao recurso especial pela ofensa ao art.535 do CPC/1973 (art. 1.022 do CPC/2015), já que questões eram e são essenciais para a correta aplicação do direito ao caso em tela deixaram de ser apreciadas.
+Ademais, não pode prevalecer a r. decisão agravada que, de um lado, afasta a violação ao art. 535 do CPC/1973 (art.1.022 do CPC/2015) e, de outro, entende pela aplicação da Súmula n.º 7 do C. STJ ao caso presente" (fl. 398e).
+Requer, por fim, "a reconsideração da r. decisão de fls. por parte da douta Ministra Relatora, com o consequente provimento do recurso especial interposto, pelas alíneas "a", "b" e "d" dos pedidos constantes do Apelo extremo, melhor descritas às fls. 222 dos autos" (fl. 400e).
+Sem contraminuta.
+A decisão deve ser reconsiderada.
+Está devidamente demonstrada a ocorrência de omissão, no acórdão recorrido.
+Dessarte, o Tribunal de origem foi instado, inclusive mediante Embargos de Declaração, a apreciar as seguintes questões: a) qual seria o evento processual apto a interromper a fluência do prazo prescricional (o mero ajuizamento da ação ou a efetiva citação do executado); b) qual seria o termo inicial para o início do prazo prescricional, tendo em vista que, no caso, haveria dois momentos distintos de entregas de DCTF.
+Como a solução dessas questões poderia influir decisivamente no julgamento da causa, tem-se que seu exame era de rigor, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73.
+Ante o exposto, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Embargos de Declaração, opostos pelo ora agravante, com o expresso enfrentamento das seguintes questões: a) qual seria o evento processual apto a interromper a fluência do prazo prescricional (o mero ajuizamento da ação ou a efetiva citação do executado); b) qual seria o termo inicial para o início do prazo prescricional, tendo em vista que, no caso, haveria dois momentos distintos de entregas de DCTF.
+I.
