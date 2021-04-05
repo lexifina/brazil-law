@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita notificar a parte interessada de decisão que a condenou ao pagamento de multapela prática de crime de ofensa à integridade física.
+A parte interessada foi intimada por via postal (fls. 22-23), tendo transcorrido in albis o prazo para resposta.
+A Defensoria Pública da Uniãopugnou pela necessidade de intimação pessoal do interessado, nos termos do art. 392, incisos I e II, do Código Penal. Destacou ainda que o pedido de cooperação está desacompanhado da sentença condenatória. Argumentouque está ausente o interesse de agir, pois, uma vez não cumprida a medida a quefoi condenado, não haverá possibilidade de extradição, óbice "no artigo 5º, inciso LI, da Constituição da República, que veda a extradição de brasileiros" (fls. 29-30).
+O Ministério Público Federal opinou pela concessão do exequatur e pela devolução dos autos à origem ante o cumprimento da diligência rogada (fls. 33-36). Consignouainda a desnecessidade de intimação pessoal, ante o recebimento da correspondência postal diretamente pela parte interessada. Considerou ainda que a falta da sentença condenatória não impede a concessão do exequatur, quando o feito encontra-se instruído com peças suficientes à compreensão da controvérsia.
+É, no essencial, o relatório. Decido.
+Verifico que a diligência solicitada restringe-se àsimples intimação. Portanto, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o 216-P do RISTJ, concedo o exequatur.
+Considerando que a parte interessada foi devidamente intimada (fls. 22-23), acolho a manifestação do Ministério Público Federal e considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Assim, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) após o trânsito em julgado, por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
