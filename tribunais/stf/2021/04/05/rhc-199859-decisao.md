@@ -1,0 +1,27 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Tráfico de drogas. Inadequação da via eleita. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. NÃO SUPERAÇÃO. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. QUANTIDADE DE DROGA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. O mérito da impetração originária não foi analisado pelo Tribunal a quo, a atrair o impeditivo da Súmula n. 691 do STF, que só é ultrapassado nos casos em que a ilegalidade é tão flagrante que não escapa à pronta percepção do julgador.
+    2. Na hipótese, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, ao destacar a quantidade de drogas apreendidas – a saber, 634 g de maconha –, a revelar a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta.
+    3. Se não está evidenciada, de pronto, ilegalidade manifesta ou mácula na decisão monocrática, não se justifica a intervenção imediata e prematura deste Superior Tribunal.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do crime previsto no art. 33 da Lei 11.343/2006. Foi impetrado habeas corpus nos Tribunal estadual, o qual teve a liminar indeferida.
+    3. Inconformada, a defesa impetrou habeas corpus no STJ. O Min. Jorge Mussi, ao analisar o HC 640.236, indeferiu liminarmente o writ. Na sequência, a Sexta Turma da corte Superior, por unanimidade, negou provimento ao agravo regimental.
+    4. Neste recurso ordinário, a defesa afirma que “a prisão cautelar fere o direito constitucional consagrado no PRINCÍPIO CONSTITUCIONAL PENAL DA PRESUNÇÃO DE INOCÊNCIA E DEMAIS PRINCÍPIOS CONSTITUCIONAIS PENAIS APLICAVÉIS À ESPÉCIE”. Aduz que “não havendo nos autos, a consistência jurídica da presença do FUMUS BONI IURIS E DO PERICULUM LIBERTATIS, para se comprovar a plena necessidade de se manter a prisão cautelar ou decretar a prisão preventiva, haverá de ser concedido à concessão do benefício ora reclamado”.
+    5. Decido.
+    6.  O recurso ordinário não deve ser provido.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que não cabe habeas corpus contra decisão monocrática. Nesse sentido, os seguintes julgados: HC 158.858, de que fui Redator para o acórdão, HC 156.854-AgR, Rel. Min. Celso de Mello; HC 144.923-AgR, Rel. Min. Ricardo Lewandowski; e HC 122.275-AgR, Min. Teori Zavaski.
+    8. A decisão recorrida não divergiu dessa orientação, ao assentar que “não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau” (trecho do voto condutor do acórdão proferido pelo STJ).
+    9. E mais: a orientação jurisprudencial do STF é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux). Vejam-se, a propósito, as seguintes passagens do voto condutor do acórdão proferido pelo STJ:
+    “[...]
+    O Desembargador relator do habeas corpus originário, a seu turno, indeferiu a liminar pois ‘o paciente, em tese, mantinha em depósito, no interior do bar de sua propriedade, 634 gramas de maconha, na forma de tijolo, o que não o qualifica, à primeira vista, como criminoso eventual ou de pequeno porte’ (fl. 30).
+    A esse respeito, é assente na doutrina e na jurisprudência pátrias que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do Código de Processo Penal.
+    Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas pelo Juízo de primeira instância para justificar a imprescindibilidade da manutenção da prisão provisória do ora paciente, porquanto contextualizou, em dados concretos dos autos, a necessidade cautelar de sua segregação.
+    Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, ao destacar a quantidade de drogas apreendidas – a saber, 634 g de maconha –, a revelar a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidade da conduta.
+    Nesse sentido, a jurisprudência desta Corte de Justiça é firme ao asseverar que a natureza e a quantidade das drogas apreendidas relevam a gravidade concreta do delito e constituem fundamento idôneo para a constrição cautelar. [...]”.
+    10. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 05 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
