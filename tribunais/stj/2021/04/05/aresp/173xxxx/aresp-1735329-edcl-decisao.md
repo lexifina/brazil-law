@@ -1,0 +1,26 @@
+DECISÃO
+Cuidam-se de embargos declaratórios opostos por MOURIVALDO DE OLIVEIRAcontra decisão que conheceudo agravo da COMPANHIA DE SEGUROS ALIANÇA DO BRASIL e deu provimento ao seu recurso especial para determinar a remessa dos autos ao Eg. Tribunal de origem, para que novamente aprecie os embargos de declaração, como entender de direito, sanando os vícios apontados.
+Nas razões dos embargos, o embargante sustenta a ocorrência de omissão na decisão embargada, uma vez que não analisou as contrarrazões do agravo da decisão que negou seguimento ao recurso especial, alegando que "(..)o embargante alegou em síntese que, orecurso Recurso Especial do embargado feria as Súmulas 7, 211 do STJ c/c Súmulas 279, 284, 356 do STF, já que o embargado não havia alegado tal figura nos seus embargos de declaração em primeira instância (usq. evento 3, arg. 72), visto que, ao alegar tal hipótese nesta casa de leis, suprimiu instancia inferior, o que é repudiado pela jurisprudência, veja decisão do TJSP colada pelo embargante na citada contrarrazão ao Agravo da Decisão que negou seguimento ao Recurso Especial; Veja inclusive que o Egrégio Tribunal de Justiça do Estado de Goiás, decidiu que os a fundamentação dos Embargos da embargada não teria sido devidamente fundamentação a suscitada violação do artigo 1.022 do CPC, o que feria a Súmula 284 do STJ;" (fl. 862).
+BRASILSEG COMPANHIA DE SEGUROS apresentou impugnação dos embargos.
+É o relatório.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição,omissão, ou erro material, não sendo admitida sua interposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+No presente caso, sob o fundamento de omissão, a parte embargante se insurgecontra a decisão embargada, a fim de demonstrar o desacerto no julgamento.
+Tal intento, contudo, não é cabível na via estreita dos embargos de declaração, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes, tampouco é adequado para demonstrar entendimentos divergentes sobre a matéria. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa."
+(EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo."
+(EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015, g.n.)
+Ademais, levando-se em consideração o sistema bifásico de admissibilidade do recurso especial, assevera-se que o juízo de admissibilidade realizado pela instância ordinária afigura-se como provisório e não vincula o Superior Tribunal de Justiça, a quem compete o exame definitivo dos requisitos de admissibilidade do recurso especial.
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. DECISÃO DE ADMISSIBILIDADE NO TRIBUNAL DE ORIGEM. PUBLICAÇÃO APÓS A VIGÊNCIA DO CPC/2015. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO. NECESSIDADE DE DOCUMENTO IDÔNEO. JUNTADA POSTERIOR. IMPOSSIBILIDADE. JUÍZO DE ADMISSIBILIDADE BIFÁSICO.
+1. É inviável a comprovação posterior de feriado local com o intuito de afastar a pecha de intempestividade de recurso especial já interposto na vigência do CPC/2015, pois a interpretação sistemática dos arts. 1.029, § 3º, e 1.003, § 6º, do CPC/2015, impossibilita a mitigação ao conhecimento de recurso intempestivo. Assim, quando a parte recorrente não comprovar, no momento da interposição do apelo nobre, o feriado alegado, opera-se a preclusão consumativa, não havendo como afastar a intempestividade de tal recurso. Precedentes: AgInt no AREsp 1.004.793/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 26/06/2017; AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017.
+2. A existência de certidão do Tribunal de Origem atestando a tempestividade do recurso não tem o condão de vincular o Superior Tribunal de Justiça, a quem compete examinar, em definitivo, os requisitos de admissibilidade do apelo especial.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.323.602/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/11/2018, DJe de 06/12/2018)
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
