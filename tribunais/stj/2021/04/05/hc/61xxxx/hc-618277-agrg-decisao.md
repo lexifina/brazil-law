@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Douglas Pereira Gonçalves contra a decisão de fls. 61/64, de minha lavra , assim resumida:
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO PARCIAL NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). ENSINO MÉDIO. BASE DE CÁLCULO. RESOLUÇÃO CNJ N. 44/2013. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DA SEXTA TURMA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+A Defensoria Pública da União alega que, em casos nos quais existem controvérsias, a dúvida deve prevalecer em favor do reeducando, em razão de ser hipótese mais benéfica a ele, contribuindo assim para a sua ressocialização. Destarte, corroborando a tese defensiva, o e. STJ vem apresentando entendimento recente, no sentido de que 1.200 horas representam 50% da carga mínima definida legalmente para o ensino médio (2.400 horas, no total) - (fl. 73).
+Assevera que é notório que o agravante faz jus a uma maior quantidade de dias remidos, uma vez que, ao fazer o cálculo semelhante, é possível chegar ao número de aproximadamente 20 dias de remição, haja vista que ele foi aprovado em 1 das 5 áreas de conhecimento do ENCCEJA - Ensino Médio (fls. 74/75).
+Postula, ao final, a reconsideração da decisão agravada, a fim de que seja concedida a ordem para reformar o acórdão do TJ/SC e seja reconhecido o direito do agravante à remição da pena no cômputo total de 20 (vinte) dias (fl. 75).
+O Ministério Público de Santa Catarina, na petição de fls. 91/103, requer seja negado provimento ao agravo interposto, para manter a decisão que indeferiu liminarmente o writ.
+Por sua vez, o Ministério Público Federal, devidamente intimado, não impugnou o agravo (fl. 84).
+É o relatório.
+O presente regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, tendo em vista a recente posição da Terceira Seção sobre o tema, necessária a reconsideração da decisão de fls. 61/64.
+Como consignado na decisão agravada, o Juízo de execução deferiu ao ora agravante a remição de 10 dias, mediante os seguintes fundamentos (fl. 10 - grifo nosso):
+ ..
+I. Ciente da decisão proferida em sede de Agravo em Execução Penal n. 0009209-88.2019.8.24.0064, que negou provimento ao recurso interposto pelo representante Ministerial em relação à decisão de pp. 587/593, que indeferiu o pedido de designação de audiência de justificação.
+II. Intimem-se as partes para, no prazo sucessivo de 10 (dez) dias, apresentar suas derradeiras alegações acerca do PAD instaurado pela Portaria n.
+III. Homologo 10 dias de remição pela aprovação do apenado em uma área de conhecimento no ENCCEJA/2018, ensino médio, consoante declaração de p. 621.
+IV. Cumpra-se com urgência.
+ ..
+Ao negar provimento ao agravo de execução penal, consignou o Tribunal local (fls. 50/53 - grifo nosso):
+ ..
+A pretensão da defesa do apenado, é para que sejam homologados 20 dias e não somente 10 dias pela aprovação parcial no ENEM, alegando que a base de cálculo considerada pelo Juízo a quo foi equivocada, visto que a carga horária legalmente definida para o ensino médio corresponde a 2.400 horas, sendo assim sua remissão deveria ser calculada sobre os 50% (1.200 horas) o que resultaria em 20 dias de remissão por área de conhecimento.
+Contudo, razão não lhe assiste.
+Inicialmente, explica-se que quando da edição da Recomendação 44/2013 do Conselho Nacional de Justiça, a interpretação levada a efeito por este egrégio Tribunal de Justiça, era no sentido de que a carga horária para o ensino fundamental era de 1600 horas e para o ensino médio de 1200 horas, sendo que para fins de remição computava-se 50% da carga horária definida para cada nível de ensino.
+Por outro lado, o entendimento majoritário do Superior Tribunal de Justiça, interpretava a matéria no sentido de considerar que as 1600 horas e as 1200 horas, já correspondiam a 50% da carga horária legalmente definida para o ensino fundamental e médio, respectivamente.
+ ..
+Portanto, vê-se como acertada a decisão que homologa 10 (dez) dias de remição, em razão do apenado ter sido aprovado em apenas uma área de conhecimento.
+ ..
+Contudo, a Terceira Seção do Superior Tribunal de Justiça, em 10/3/2021, pacificou a questão no julgamento do HC n. 602.425/SC, estabelecendo que a base de cálculo da remição toma como base a carga horária prevista na Lei de Diretrizes e Bases da Educação (Lei n. 9.394/1996). Assim, quando a Resolução CNJ n. 44/2013 menciona as cargas horárias de 1.600 horas para o ensino fundamental e 1.200 horas para o ensino médio, já se está considerando o percentual de 50% (cinquenta por cento).
+Desse modo, a aprovação total no ensino fundamental permite a remição de 177 dias, tendo em vista o cômputo de 26 dias por aprovação em cada uma das cinco áreas de conhecimento, com o acréscimo de 1/3 previsto no art. 126, § 5º, da Lei de Execução Penal (considerando a aprovação em todas as áreas de conhecimento do ENCCEJA).
+Por outro lado, a aprovação total no ensino médio permite a remição de 133 dias, tendo em vista o cômputo de 20 dias por aprovação em cada uma das cinco áreas de conhecimento, com o acréscimo de 1/3 previsto no art. 126, § 5º, da Lei de Execução Penal (considerando a aprovação em todas as áreas de conhecimento do ENCCEJA).
+Nesse sentido, os seguintes julgados que seguem a orientação prevalente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO EM TODOS OS 5 CAMPOS DE CONHECIMENTO DO ENCCEJA - ENSINO FUNDAMENTAL. BASE DE CÁLCULO A SER CONSIDERADA CONFORME LEI N. 9.394/1996 E RECOMENDAÇÃO N. 44/2013 DO CNJ. JURISPRUDÊNCIA FIRMADA PELA QUINTA TURMA DESTA CORTE SUPERIOR. INTERPRETAÇÃO DAS NORMAS - EXECUÇÃO DA PENA - MARCO TEÓRICO: CF/88, ART. 3º. PRECEDENTES DO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Consolidou-se a jurisprudência da Quinta Turma desta Corte de que a base de cálculo a ser considerada para o cômputo da remição de pena por aprovação no ENCCEJA - nível fundamental, por estudo por conta própria, é de 50%, ou seja, 1.600 horas, conforme Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+3. Na espécie, como o sentenciado foi aprovado em todas as cinco áreas de conhecimento, faz jus ao cálculo nos moldes do art. 1º, IV, da referida Recomendação, o que lhe garante os 177 (cento e setenta e sete) dias de remição postulados (26 por cada disciplina x 5 mais 1/3).
+4. Ademais, essa particular forma de parametrar a interpretação da lei (no caso, a remição) é a que mais se aproxima da Constituição Federal, que faz da cidadania e da dignidade da pessoa humana dois de seus fundamentos, bem como tem por objetivos fundamentais erradicar a marginalização e construir uma sociedade livre, justa e solidária (incisos I, II e III do art. 3º). Tudo na perspectiva da construção do tipo ideal de sociedade que o preâmbulo da respectiva Carta Magna caracteriza como "fraterna" (HC n. 94163, Relator Min. CARLOS BRITTO, Primeira Turma do STF, julgado em 2/12/2008, DJe-200 DIVULG 22/10/2009 PUBLIC 23/10/2009 EMENT VOL-02379-04 PP-00851).
+5. Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer o total de 177 (cento e setenta e sete) dias remidos ao paciente em razão da conclusão em ensino fundamental no ENCCEJA/2018.
+(HC n. 608.835/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/10/2020)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. REMIÇÃO DE PENAS. APROVAÇÃO TOTAL NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. CÁLCULO. ADEQUAÇÃO. NECESSIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+II - O Conselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, inc. IV, regulamentando o § 5º do art. 126 da Lei de Execução Penal, dispõe sobre a possibilidade de remição por aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA.
+III - A Lei n. 9.394/1996, em seus arts. 24, I, e 35, estabelece que a carga horária mínima anual para o ensino médio corresponde a 800 (oitocentas) horas, cuja duração para os anos finais é de três anos; conclui-se, assim, que o total da carga horária mínima para todo o ensino médio será de 2.400 (duas mil e quatrocentas) horas.
+IV - Destarte, considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio, 2.400 (duas mil e quatrocentas) horas, ou seja, 1.200 (um mil e duzentas) horas, divide-se o total de horas por 12 (doze) horas diárias de estudo, encontrando-se o resultado de 100 (cem) dias para a aprovação no ENCCEJA - Ensino Médio.
+V - In casu, como o paciente obteve aprovação nas 5 (cinco) áreas de conhecimento, tem direito a remição na totalidade dos dias, ou seja, 100 (cem) dias, no caso, acrescidos de 1/3 nos termos do § 3º, do art. 126, da Lei de Execuções Penais, por ter concluído o ensino médio, o que totalizam 133 (cento e trinta e três) dias.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o direito paciente à remição de 133 (cento e trinta e três) dias, em razão de sua aprovação em todas as áreas de conhecimento do ENCCEJA, já com acréscimo de 1/3 (um terço) pela conclusão do ensino médio.
+(HC n. 625.398/SC, Ministro Felix Fischer, Quinta Turma, DJe 15/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. APROVAÇÃO PARCIAL NO EXAME NACIONAL PARA A CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS - ENCCEJA. BASE DE CÁLCULO. 50 % DA CARGA HORÁRIA TOTAL. QUANTUM QUE CORRESPONDE A 1.200 HORAS RECOMENDAÇÃO CNJ N. 44/2013. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ao apontar as 1.200 horas para o ensino médio, a Recomendação CNJ n. 44/2013 está se referindo ao índice de 50% da carga horária definida legalmente para tal nível de ensino, com base no qual serão calculados os dias a serem remidos.
+2. Tendo-se como base de cálculo 50% da carga horária definida legalmente para o ensino médio, ou seja, 1.200 horas, divide-se esse quantum por 12, obtendo-se o resultado de 100 dias de remição em caso de aprovação em todos os 5 campos de conhecimento do ENCCEJA. Obtendo-se aprovação em 4 das 5 áreas do conhecimento avaliadas, o paciente faz jus à remição de 80 dias.
+3. Agravo regimental improvido.
+(AgRg no HC n. 518.498/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/11/2019)
+Ora, no presente caso, o Tribunal local, diante da carga horária de 1.200 horas estabelecidas para o ensino médio, aplicou o redutor de 50%, chegando a um total de 600 horas. Dividindo esse montante por 12 horas diárias de estudo (art. 126, § 1º, I, da LEP), resultou em 50 dias passíveis de remição, para o caso de aprovação integral (nas 5 áreas de conhecimento do exame), ou seja, 10 dias por área. Como na hipótese, o reeducando logrou aprovação em uma área de conhecimento, reconheceu o direito à remição de 10 dias (fl. 47).
+A posição não está em consonância com o recente entendimento desta Corte Superior, que considera para fins de remição do ensino médio a base de 1.200 horas, havendo, portanto, constrangimento ilegal a ser sanado.
+Assim, necessário conceder 20 dias de remição, nos termos da orientação jurisprudencial vigente.
+Ante o exposto, dou provimento ao agravo regimental para, reconsiderando a decisão monocrática de fls. 61/64, conceder a ordem e determinar o cômputo de 20 dias de remição da pena ao paciente, ora agravante, pela aprovação em uma área de conhecimento do ENCCEJA, ante o novo entendimento adotado nesta Corte Superior no julgamento do HC n. 602.425/SC.
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. REMIÇÃO PELO ESTUDO. APROVAÇÃO PARCIAL NO ENCCEJA. CONSIDERAÇÃO DE 50% DA CARGA HORÁRIA DEFINIDA PARA O ENSINO MÉDIO. RESOLUÇÃO N. 3/2010 DO CNE. 1.200 HORAS COM BASE NA RECOMENDAÇÃO N. 44/2013 DO CNJ. CONCESSÃO, NA HIPÓTESE DOS AUTOS, DE 20 DIAS. RECENTE JULGAMENTO DO HC N. 602.425/SC PELA TERCEIRA SEÇÃO SOBRE O TEMA. PRECEDENTES. RECONSIDERAÇÃO.
+Agravo regimental provido para, reconsiderada a decisão monocrática, conceder a ordem, nos termos da fundamentação.
