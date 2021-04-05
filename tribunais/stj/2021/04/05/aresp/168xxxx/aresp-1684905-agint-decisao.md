@@ -1,0 +1,19 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno interposto por NACCO MATERIALS HANDLING GROUP BRASIL LTDA, contra decisão da Presidência desta Corte Superior, que conheceu o agravo para não conhecer o recurso especial.
+O agravante preconiza que a matéria objeto do aresto não é passível de aplicação da Súmula 7/STJ, porque envolve questão jurídica.
+É o relatório.
+Passo a decidir.
+Com razão o agravante, motivo pelo qual, exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno/STJ, torno sem efeito a decisão de e-STJ fls. 1.588/1.590e passo a analisar o agravo em recurso especial interposto.
+Trata-se de agravo interposto por NACCO MATERIALS HANDLING GROUP BRASIL LTDA,em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+DISTRIBUIÇÃO COMERCIAL. AÇÃO DE COBRANÇA C.C. INDENIZAÇÃO. CONTRATO DE DISTRIBUIÇÃO E ( SERVIÇOS PARA EMPILHADEIRAS INDUSTRIAIS. CERCEAMENTO DE DEFESA. INOCORRENCIA.RESCISÃO CONTRATUAL SEM JUSTA CAUSA PELA RÉ. OBRIGAÇÃO DE RECOMPRA DE EQUIPAMENTOS E PEÇAS. PREÇO EQUIVALENTE A SETE MÁQUINAS, CONFORMENOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PELA " PRÓPRIA AUTORA. INDENIZAÇÃO PREVISTA NO ART. 27, "J", DA LEI 4886/65, INDEVIDA. CONTRATO FIRMADO ENTRE AS PARTES CARACTERIZADO COMO "DE DISTRIBUIÇÃO COMERCIAL. RECONHECIMENTO POR ESTE TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DA LEI QUE REGULA AS ATIVIDADES DOS REPRESENTANTES COMERCIAIS AUTÔNOMOS. QUESTÃO PRECLUSA. INDENIZAÇÃO DOS PREJUÍZOS DECORRENTES DA REDUÇÃO DA MARGEM DE LUCRO DA AUTORA NA NEGOCIAÇÃO DE 79 EMPILHADEIRAS INDEVIDA.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 85 e 86 do CPC/15, defendendo ser descabido o arbitramento dos honorários por equidade, por não se tratar de causa de valor inestimável ou irrisório
+Orecorrentesustentaofensa ao § 2º do artigo 85 do Código de Processo Civil, bem como divergência jurisprudencial, alegando que a verba honorária deve ser fixada necessariamente dentro dos limites percentuais estabelecidos na legislação.
+Ocorre que a definição sobre "a possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015" foi afetada ao rito dos recursos Representativos de Controvérsia nos autos dos recursos especiais 1.822.171/SC e 1.812.301/SC (Tema 1.046), ainda não julgados.
+Em que pese o referido órgão julgador ter decidido pela não suspensão do processamento dos feitos que versem sobre idêntica questão em tramitação no território nacional, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do RISTJ.
+Ante oexposto, acolho o agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fls. 1.588/1.590, e nos termos do inciso II do artigo 1.037 do CPC, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia, e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RETRATAÇÃO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. CRITÉRIOS. TEMA 1.046. AFETAÇÃO.
+AGRAVO INTERNO ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, DETERMINAR A DEVOLUÇÃO DOS AUTOS, NOS TERMOS DO ARTIGO 1.037, DO CPC/15.
