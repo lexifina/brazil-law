@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, interposto pela INJECTION PARTS PECAS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO DE CONTA CORRENTE. NULIDADE DA SENTENÇA RECONHECIDA EM ACÓRDÃO PROFERIDO POR ESTA CORTE E CÂMARA ESTADUAL. RETORNO DOS AUTOS A ORIGEM PARA PROLAÇÃO DE NOVA SENTENÇA. 1. PRELIMINAR DE CONTRARRAZÕES. INTEMPESTIVIDADE. NÃO EVIDENCIADA. 2. NÃO CONHECIMENTO DE QUESTÕES NÃO SUSCITADAS EM PRIMEIRO GRAU - CAPITALIZAÇÃO ANUAL DE JUROS. 3. NULIDADE DA SENTENÇA. AUSÊNCIA FUNDAMENTAÇÃO AFASTADA. 4. CAPITALIZAÇÃO MENSAL DE JUROS. OCORRÊNCIA. APLICAÇÃO DO ART. 354 DO CC. MP 1963-17. INAPLICABILIDADE. 5. PERCENTUAL DE JUROS. EXISTÊNCIA DE PREVISÃO CONTRATUAL EXPRESSA. APLICABILIDADE. 6. PERÍODO CONTRATUAL EM QUE NÃO EXISTE PROVA DE CONTRATAÇÃO DE TAXA. APLICAÇÃO DA TAXA MÉDIA DO MERCADO. PERÍODO ANTERIOR À DIVULGAÇÃO PELO BACEN. APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA, NOS TERMOS DO ART. 475-C DO CPC. 7. TAXAS, TARIFAS E DEMAIS ENCARGOS. EXCLUSÃO ANTE AUSÊNCIA DE PROVA DE CONTRATAÇÃO.
+Contrarrazões
+A preliminar suscitada em contrarrazões, a fim de não ser conhecido o recurso da parte adversa, ante alegação de intempestividade, deve ser rejeitada, pois, o recurso foi interposto dentro do prazo legal.
+Recurso de Apelação
+1. "A questão não suscitada (nem discutida no processo) não pode ser objeto de apreciação pelo tribunal, no julgamento da apelação. De questão de fato, presa ao interesse da parte, não pode o tribunal tomar conhecimento de ofício. Hipótese em que ocorreu ofensa ao art. 515, § 1º," do Código de Processo Civil." (STJ - Terceira Turma - Resp 29.873-1-PR - Rei. Min Nilson Naves - DJU 26.04.93 - p. 7.204). Portanto, não comporta conhecimento a alegação de possibilidade de capitalização anual de juros, se não foi ventilada em primeiro grau.
+2. Inexiste nulidade na r. sentença, uma vez que esta restringiu-se a analisar as contas prestadas pelas partes, com a confrontação dos encargos e taxas cobradas com o que fora previamente pactuado, considerando as provas produzidas pelas partes nos autos, bem como o laudo pericial.
+3. É admitida a aplicação do art. 354 do Código Civil de 2002, dispositivo legal que não autoriza a capitalização mensal de juros, mas apenas determina que pagamento efetuado pelo titular da conta -corrente destine-se primeiro à amortização de juros vencidos e depois do capital. Desta forma, nos casos em que o titular da conta corrente não efetua depósito suficiente ao pagamento de juros e estes são computados para o cálculo de novos juros, ocorre a prática da repudiada capitalização mensal de juros.
+4. De acordo com o princípio da boa-fé e dos usos e costumes, ausente previsão de taxa de juros no contrato, impõe-se a sua limitação à taxa média de mercado, aplicada às operações de mesma espécie, salvo se inferior o que fora cobrado pelo banco. No caso da limitação versar sobre período anterior a outubro de 1999, quando ainda não divulgada a taxa média pelo Bacen, remete-se a apuração para liquidação de sentença, nos termos do art. 475-C do CPC (hipótese 1, dos autos).
+5. "Nos contratos bancários comuns, a cobrança de juros acima de 12% ao ano não depende de autorização do Conselho Monetário Nacional." (STJ - Terceira Turma - Resp AGRMC n0 6970/DF - ReI. Min. Carlos Alberto Menezes Direito). Se foi previsto em contrato os juros, aplicar-se-á a taxa Contratada. (hipótese 2, dos autos)
+6. Ainda que as tarifas, taxas e demais encargos encontrem-se autorizadas pelo Banco Central do Brasil, faz-se necessário que sua cobrança esteja lastreada em autorização contratual, a ser devidamente comprovada pelo banco réu nos autos.
+RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO." (e-STJ, fls. 5.539/5.541)
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 421 e 422 do Código Civil, além de divergência jurisprudencial, sustentando, em síntese, a impossibilidade de cobrança de taxase tarifas, sem previsão contratual,por parte da instituição financeira.
+É o relatório.
+Decido.
+Colhe o recurso.
+Na hipótese,a Corte estadual concluiu pelo cabimento dacobrança de taxas e tarifas, mesmo sem previsão contratual, por parte da instituição financeira, desde que hajaautorização de cobrançados aludidos encargos pelo BACEN, conforme se depreende do seguinte excerto do aresto recorrido:
+Segundo entendimento vigente neste colegiado, a cobrançatarifária é licita ainda que inexista contratação especifica, quandocorresponder a contraprestação de um serviço prestado pela instituiçãofinanceira e usufruido pelo cliente, sendo devida a sua cobrança quandoautorizada pelo Banco Central, cuja regulamentação se aplica ã relaçãoentre as partes. Nesse sentido:
+ .. (fl. 1442)
+Com tudo, com relação às taxas etarifas bancárias, o acórdão recorrido encontra-se em dissonância ao entendimento da jurisprudência desta Corte, no sentido de que é necessária a expressa previsão contratual das taxas e tarifas bancárias para que possam ser cobradas pela instituição financeira.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TARIFAS BANCÁRIAS. AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a cobrança de taxas e tarifas bancárias deve ter expressa previsão contratual.
+2. Não juntados aos autos os contratos, deve o agravante suportar o ônus da prova, afastando-se as tarifas contratadas e limitando os juros remuneratórios à taxa média de mercado.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1578048/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 26/08/2016)
+"CIVIL. BANCÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TARIFAS BANCÁRIAS. AUSÊNCIA DE PROVA DA CONTRATAÇÃO. COBRANÇA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A cobrança de taxas e tarifas bancárias exige previsão contratual. Precedentes.
+2. No caso concreto, o Tribunal local considerou que as tarifas bancárias não poderiam ser cobradas do correntista, considerando a ausência de prova da pactuação expressa.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 253.524/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/12/2015, DJe 10/12/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. TARIFAS BANCÁRIAS. IMPOSSIBILIDADE. AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a cobrança de taxas e tarifas bancárias deve ter expressa previsão contratual.
+2. "A ausência do contrato nos autos impossibilitou as instâncias ordinárias de analisar eventual abusividade na cobrança das tarifas bancárias em relação à média de mercado. Por esta razão, fica afastada a cobrança porquanto rever a conclusão do Tribunal de origem ensejaria a reapreciação do conteúdo fático-probatório dos autos, vedada pela Súmula 7 do STJ" (AgRg no REsp 1.468.817/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/9/2014, DJe de 16/9/2014) 3. Agravo regimental a que se nega provimento."(AgRg no AREsp 454.972/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/08/2015, DJe 18/08/2015)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, douprovimento ao recurso especial para afastar a cobrança de taxas e tarifas bancárias, sem previsão contratual.
+Em razão da sucumbência recíproca, arcará cada partecom 50% das custase dos honorários advocatícios, estes fixados conforme na origem.
+Publique-se.
