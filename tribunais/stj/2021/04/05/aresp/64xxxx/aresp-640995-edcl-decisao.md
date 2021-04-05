@@ -1,0 +1,15 @@
+DECISÃO
+Cuidam-se de embargos declaratórios opostos por MOACIR ALVES DA SILVA FILHO contra decisão às fls. 655/661 que conheceu do agravo para dar parcial provimento ao recurso especial,a fim de restabelecer a decisão que reconheceu a carência de ação.
+Nas razões dos embargos, a parte sustenta a ocorrência de situação de fato no Primeiro Grau não levado ao conhecimento desta Corte que leva à perda do objeto recursal, gerando, portanto,obscuridade no acórdão embargado.
+Alega que em razão de negócio jurídico celebrado com o recorrido (autor da ação demarcatória) ajuizouação de cumprimento de contrato cumulada com consignação em pagamento que foi julgada parcialmente procedente e culminou na imissão na posse do embargante na área objeto da presente demanda. Concomitantemente, o embargante ingressou na presente demanda como assistente litisconsorcial do recorrido, daí a legitimidade para opor os presentes embargos.
+Defende que o recurso "perdeu seu objeto, posto que a área de terras em discussão na ação divisória já foi entregue, decorrente de demarcação levada a efeito pela própria parte demandada consoante proposta de acordo feita nos autos do processo" (fl. 665), bem como que "foi proferida sentença na ação divisória (cópia em anexo), a qual foi julgada procedente, extinguindo o condomínio existente e homologando laudo realizado nos autos, laudo este que delimitou a área que foi entregue para o ora Embargante" (fl. 666).
+Requer seja declarada a perda do objeto do recursopois "já julgada a ação e entregue a área em litígio para o posterior comprador" (fl. 666).
+Apresentada impugnação às fls. 1376/1384, a parte recorrente (ré na ação demarcatória) alega que não procede a alegação de perda de objeto, pois em que pese o espólio tenha entregado a posse da terra ao embargante amigavelmente, a sentença da ação demarcatória não homologou nenhum acordo e ainda condenou o espólio ao pagamento de honorários de sucumbência, não sendo justoo espólio ser condenado ao pagamento de honoráriosem uma ação que sequer preencheu os requisitos técnicos de admissibilidade.
+Providenciada a inclusão do nome do embargante nos autos, na qualidade de assistente litisconsorcial do recorrido, às fls. 730/732.
+É o relatório.
+Em que pesem os argumentos da parte embargante, não há que se falar em perda do objeto recursal no caso.
+Consoante se verifica da sentença juntada às fls. 677/682, e conforme afirma a parte recorrente, não houve homologação de acordo entre as partes, tendo o pedido da ação demarcatória sido julgado procedente e a parte ré condenada ao pagamento de honorários de sucumbência.
+Por sua vez, o agravo de instrumento dos presentes autos trata, entre outras matérias, sobre aadmissibilidade da ação demarcatória, questão prejudicial ao conhecimento da ação e, portanto, anterior ao mérito e que deve ser julgada, independentemente da existência de sentença de méritonos autos principais.
+Dessa forma, ausentes os vícios na decisão embargada, afasta-se a alegada violação ao art. 1.022 do CPC/2015.
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se.
