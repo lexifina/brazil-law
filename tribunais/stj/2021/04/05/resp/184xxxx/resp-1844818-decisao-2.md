@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto peloBANCO DO BRASIL SA, contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO MONITORIA. PETIÇÃO INICIAL. CÉDULA DE CRÉDITO RURAL. TÍTULO DE CRÉDITO. CARTULARIDADE. POSSIBILIDADE DE CIRCULAÇÃO VIA ENDOSSO. INSTRUÇÃO DA INICIAL. VIA ORIGINAL. NECESSIDADE. CÓPIA. INSUFICIÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR EQUIDADE. ART. 85, §8º, DO CPC. POSSIBILIDADE.
+1. De acordo com os precedentes desta Corte de Justiça, a orientação de apresentação do original da Cédula de Crédito Rural é imprescindível para a instrução do processo executivo ou ação monitoria, haja vista que o crédito pode ser transmitido por meio de endosso, nos termos do artigo 10 do Decreto Lei 167/1967, sendo, assim, insuficiente a cópia, mesmo que autenticada.
+2. Necessária a instrução da petição inicial de ação monitoria com cédula de crédito rural original, sendo possível a determinação de depósito em cartório do documento original de acordo com a previsão expressa do art. 425, § 2o, do Código de Processo Civil.
+3. Verificando-se que a aplicação meramente literal da lei importará na fixação de honorários advocatícios em montante excessivo, que, além de não refletir a complexidade da demanda, acarretará ônus desproporcional ao sucumbente, cabe ao juiz proceder à adequação equitativa de seu valor, arbitrando-o em patamar condizente com a razoabilidade e a complexidade da causa. Inteligência do artigo 85, § 8o, do CPC. 4. Recurso conhecido e provido. (fl. 227)
+Nas razões do recurso especial, a recorrentealegaviolação aos arts. 6º e 700 do Código de Processo Civil de 2015.
+Sustenta, em síntese, que não há que se falar em carência de açãopois esta fora instruída com a documentação suficiente para ajuizamento da monitória.
+Aduzquedesnecessária a juntada de documentos outros que não o contrato celebrado, e, conforme anorma do artigo 700, §2º, I do CPC, a memória de cálculo apta a instruir a inicial, o que foidevidamente cumprido pelo Banco Credor.
+Alega, ainda, ser desnecessária a juntada da via original do contrato firmado entre as partes, visto o título objeto da ação monitória não ser executivo.
+Por fim, afirma quea extinção desse processo sem decisão resolutiva de mérito acarretará a propositurade outra ação idêntica, por parte do Autor/Recorrente, fazendo com que os atos já praticados neste processo tenham que ser novamente praticados, contrariando também os princípios constitucionaisda economia e da celeridade processual.
+É o relatório.
+Decido.
+Em razão da questão de direito do recurso especial, interposto pelarecorrida, ter sido afetada à Segunda Seção como representativa decontrovérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo a decisão deafetação do REsp 1.812.301/SC delimitado o Tema 1.046 dos Recursos Especiais Repetitivos, ocorrendo a remessa dos autos ao Tribunal deorigem, com a respectiva baixa, restaprejudicada a análise do presente recurso.
+Publique-se.
