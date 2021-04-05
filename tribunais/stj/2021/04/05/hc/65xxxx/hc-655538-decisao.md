@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JANDEILSON TARGINO DA SILVA contra acórdão Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 138):
+Agravo em Execução. Insurgência ministerial. Regime aberto. Benefício concedido sem a realização de exame criminológico. Sentenciado que cumpre longa pena pela prática de roubo majorado, já cumpriu pena pela prática de delito idêntico e registra a prática de falta disciplinar grave em seu prontuário. Circunstâncias que, em princípio, evidenciam ser temerária a progressão ao regime aberto, no qual a vigilância praticamente inexiste, com risco de evasão e retorno à delinquência. Recurso provido, determinando-se a recondução do sentenciado ao regime semiaberto, até que reúna méritos pessoais, devidamente aferidos por exames periciais que o habilitem a progredir.
+No presente writ, alega a impetrante, em síntese, que ""se não há justificativa vinculada ao caso concreto, e o julgador exige sempre o exame criminológico por motivos abstratos (por ter opinião de que a pena é longa, ou por ter convicção pessoal de que um outro crime em abstrato é grave, ou todos são..), acaba por impor condição não prevista em lei para devolução de parcela da liberdade individual, o que viola os princípios democráticos e, em última análise, a evidente intenção do legislador com a edição da Lei nº. 10.792/03"" (e-STJ, fl. 6).
+Requer, nesse diapasão, liminarmente e no mérito, a concessão da ordem parra deferir ao sentenciado o regime aberto.
+É o relatório. Decido.
+Observa-se que o presentemandamusconsubstancia-se em mera reiteração de pedido formulado no HC n. 649.887/SP, julgado em 8/3/2021, concedida a ordem de ofício, estando em curso o prazo para eventual recurso do Ministério Público.Registre-se que ambos os processos contam com as mesmas partes (paciente e órgão apontado como coator) e mesma causa de pedir, revelando, assim, litispendência.
+Nesse sentido, a título de exemplo:
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. MÉRITO DO PEDIDO RECURSAL JÁ ANALISADO POR ESTA CORTE EM WRIT ANTERIOR (HC N. 294.123/SP). LITISPENDÊNCIA CONFIGURADA.
+1. É descabido o processamento concomitante, nesta Corte, de habeas corpus e de recurso ordinário em habeas corpus caso constatada a litispendência (instituto que se configura quando há identidades de partes, de pretensão e de causa de pedir).
+2. O reconhecimento da litispendência, como cediço, visa exatamente a evitar a ocorrência de decisões contraditórias e a ter-se economia processual (REsp n. 88.354/SP, Ministro Humberto GOMES DE BARROS, Primeira Turma, DJ 2/9/1996).
+3. In casu, o recurso ordinário não pode ser analisado, uma vez que versa sobre mera reiteração do que requerido no HC n. 294.123/SP, cuja matéria de fundo já foi apreciada.
+4. Recurso em habeas corpus não conhecido.
+(RHC 51.048/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/6/2015, DJe 15/6/2015)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. 1. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. 2. REITERAÇÃO DE PEDIDO. OCORRÊNCIA. 3. RECURSO IMPROVIDO. 1. Caracterizada no presente habeas corpus a mera reiteração de pedido, uma vez que há identidade de partes, fundamento e objeto com o HC n.º 117.120/PE, já julgado por este Superior Tribunal, de imposição o seu reconhecimento. 2. Agravo regimental a que se nega provimento(AgRg no HC n. 118.447/PE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 5/2/2013, DJe 15/2/2013).
+Ante o exposto,indefiro liminarmenteo presentehabeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
