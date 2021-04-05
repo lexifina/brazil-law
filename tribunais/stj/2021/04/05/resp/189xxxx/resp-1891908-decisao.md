@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por NOTRE DAME INTERMEDICA SAUDE S.Acontra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE Paciente portador de transtorno do espectro autista Indicação médica para tratamento pelo método ABA, com indicação para atendimento multidisciplinar Ré que recusou a cobertura, sob alegação de não constar no rol de procedimentos da ANS Negativa de cobertura e limitação de sessões é prática abusiva e ilegal porque prejudica o próprio objeto do contrato, e também porque coloca a consumidora em desvantagem exagerada Incidência da Súmula 102 deste E. Tribunal de Justiça, devendo prevalecer o número de sessões conforme indicação médica Havendo indicação de profissionais e clínicas dentro da rede credenciada o reembolso, se a paciente optar por tratamento particular, deve obedecer aos limites estabelecidos no contrato, somente se admitindo o reembolso integral na ausência de atendimento dentro da rede Sentença mantida - Recurso improvido." (e-STJ, fl. 379)
+Nas razões do recurso especial, a parte recorrente alega violação aos artigos 1º, 3º e 4º da Lei 9.961/00, 10 e35-F,da Lei n. 9.656/98, bem como divergência jurisprudencial. Sustenta, em síntese, a) que não pode a Recorrente ser obrigada a custear tratamento claramente excluído das previsões de cobertura constante em contrato, eis que o risco assumido quando da celebração do contrato é restrito aos procedimentos constantes no rol de procedimentos de cobertura obrigatória elaborado pela ANS; e b)requer a fixação de coparticipação do requerente no que se refere aos tratamentos pleiteado.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, emrelação à tese relacionadaàcoparticipação do requerente no custeio dos tratamentos pleiteados verifica-se que o referido tema invocado no apelo nobre não foi apreciado pelo Tribunala quo,tampouco foi alvo dos embargos declaratórios opostos, para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1.Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadasno recurso especial não tenham sido debatidas no acórdão recorrido nem, a
+respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido."
+(AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014, g.n.)
+ACorte de origem consignou que o contrato não pode limitar o tipo de tratamento a que se submete a parte. É o que se verifica do trecho do acórdão a seguir:
+"Três questões aqui se mostram relevantes para a solução da lide: A legalidade ou não da recusa dos tratamentos, a limitação das sessões e o direito ao reembolso integral.
+Em relação às duas primeiras, o que se tem é que são abusivas tanto a recusa de tratamento, sob alegação de não estarem os tratamentos no rol de procedimentos da ANS quanto a limitação do numero de sessões.
+A relação que se estabeleceu entre as partes, por força do contrato celebrado é de consumo. O Código de Defesa do Consumidor é norma de ordem pública, que se aplica a todas as relações de consumo, inclusive as decorrentes da contratação dosplanos de saúde, nos termos da Súmula 608 do Superior Tribunal de Justiça. No mesmo sentido, a Súmula 100 deste Egrégio Tribunal de Justiça.
+(..)
+Certo é que não se discute a existência do quadro clínico da criança nem a existência de prescrição médica indicando as terapias necessárias para o seu melhor desenvolvimento.
+Nesse sentido, deve prevalecer a indicação médica, indicando, inclusive, o número de sessões necessárias para o paciente. (..)"(e-STJ, fls. 380/381)
+A decisão de origem está em consonância com o entendimento deste Superior Tribunal de Justiça, no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento expressamente indicado pelo médico ou que limite o número de sessões terapêuticas.
+Nessa linha de intelecção, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FONOAUDIOLÓGICOS E HOSPITALARES. CARÁTER ABUSIVO. RECONHECIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. É de ser afastada a inobservância da dialeticidade recursal, quando a parte impugna especificamente os fundamentos da decisão recorrida.
+2. Consoante a jurisprudência desta Corte, não configura cerceamento de defesa o julgamento da causa, com apreciação antecipada da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente.
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de
+saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fonoaudiologia.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1527318/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. DEVER DE CUSTEAR O TRATAMENTO SUBSCRITO PELO MÉDICO. EXCLUSÃO CONTRATUAL EXPRESSA E AUSÊNCIA DE PREVISÃO NO ROL DA ANS. CIRCUNSTÂNCIAS QUE NÃO SE MOSTRAM SUFICIENTES A AFASTAR A OBRIGAÇÃO DE COBERTURA DO PROCEDIMENTO INDICADO PELO PROFISSIONAL DE SAÚDE. ROL EXEMPLIFICATIVO DA ANS. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. DANO MORAL CONFIGURADO. PRECEDENTES. SÚMULA N. 83/STJ. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que "o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura. Desse modo, entende-se ser abusiva a cláusula contratual que exclui tratamento, medicamento ou procedimento imprescindível, prescrito para garantir a saúde ou a vida do beneficiário" (AgInt no REsp 1453763/ES, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 1º/6/2020, DJe 15/6/2020).
+2. O Superior Tribunal de Justiça tem orientação de que "há abusividade na cláusula contratual ou em ato da operadora de plano de saúde que importe em interrupção de tratamento de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS, visto que se revela incompatível com a equidade e a boa-fé, colocando
+o usuário (consumidor) em situação de desvantagem exagerada (art. 51, IV,
+da Lei 8.078/1990). Precedente" (REsp 1.642.255/MS, Rel. Ministra Nancy
+Andrighi, Terceira Turma, julgado em 17/04/2018, DJe 20/04/2018).
+3. A Corte a quo firmou seu posicionamento em harmonia com a orientação do STJ, pois "é pacífica a jurisprudência da Segunda Seção no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo" (AgInt no REsp n. 1.841.742/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 1º/6/2020, DJe 4/6/2020).
+Aplicação da Súmula n. 83 do STJ.
+4. Não há como afastar a premissa alcançada pelo acórdão quanto à configuração do dano moral e ao consequente dever de reparação sem proceder ao revolvimento do conteúdo fático-probatório dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no REsp 1877402/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% (doze por cento)para 13%(treze por cento) sobre o valor da causa.
+Publique-se.
