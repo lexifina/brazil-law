@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto pelaSEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA,fundado no art. 105, III, alínea"a"da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - COBRANÇA DESEGURO OBRIGATÓRIO DPVAT - NEXO DE CAUSALIDADE -INADIMPLÊNCIA QUANTO AO PRÊMIO - ENRIQUECIMENTO SEM CAUSA -MATÉRIA DE ORDEM PÚBLICA - CORREÇÃO MONETÁRIA - TERMO INICIAL- EVENTO DANOSO. 1- Havendo nexo de causalidade entre a lesãoapresentada pelo autor e o acidente de trânsito noticiado, é procedente apretensão inicial de recebimento de seguro DPVAT. 2- "A falta depagamento do prêmio do seguro obrigatório de Danos PessoaisCausados por Veículos Automotores de Vias Terrestres (DPVAT) não émotivo para a recusa do pagamento da indenização". 3- Por se tratar oenriquecimento sem causa de matéria de ordem pública, cabe aotribunal, de ofício, alterar quantificação da indenização do seguroDPVAT, que deve ser proporcional ao grau de invalidez. 4- "A correçãomonetária nas indenizações do Seguro DPVAT por morte ou invalidez,prevista no §7º do artigo 5o da Lei 6.194/1974, redação dada pela Lei nº11.482/2007, incide desde a data do evento danoso" (Súmula 580/STJ).(fl. 161)
+Os embargos declaratórios restaram rejeitados.
+Nas razões do recurso especial, a agravantealegaviolação aoart. 1022, II, do NCPC, sustentando, em síntese, que a e. 12a Câmara Cível infringiu aoprincípio da proibição da reformatio in pejus no momento emque majora, de ofício, uma condenação indenizatória que nãofoi objeto de discussão e totalmente satisfatória aos anseiosdo recorrido, haja vista a ausência de interesse recursal.
+É o relatório.
+Decido.
+A irresignação não prospera.
+Em relação à alegada ofensa ao art. 1022, II, do NCPC, verifica-se que o recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido, salienta o Ministro SIDNEI BENETI, que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+Outrossim, no que tange àalega afronta ao princípio da proibição da reformatio in pejus, observa-se que a recorrentenão indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 16% para 17% sobreo valor da condenação.
+Publique-se.
