@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCOS BRAGA PIMENTA contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0035260.55.2011.8.26.0196).
+Extrai-se dos autos que o paciente foi condenado, como incurso no art. 33 da Lei 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado.
+Em grau de apelação, foi dado provimento parcial ao recurso ministerial para majorar a pena do ora paciente para 12 anos de reclusão. Além disso, foi determinada a execução provisória da pena. O acórdão recebeu a seguinte ementa (e-STJ fl. 14):
+Apelação - TRÁFICO e USO DE DOCUMENTO FALSO - Conjunto probatório robusto para responsabilizar os acusados pelos crimes imputados na incoativa, reconhecendo-se, porem, a existência de crime único de tráfico - Interceptações telefônicas e Depoimentos seguros dos policiais civis, corroborando a complexa e duradoura investigação que culminou com a desarticulação do grupo criminoso - Apreensão de vultosa quantidade de droga - Absolvição de desclassificação - Inadmissibilidade - Penas Majoração - Necessidade, em atenção ao disposto no artigo 42, da Lei de Drogas Perdimento dos bens - Necessidade - Produtos e instrumentos do crime - PARCIAL PROVIMENTO.
+Nos autos do HC 546.222/SP, esta Corte Superior concedeu, de ofício, a ordem postulada em favor deMARCOS BRAGA PIMENTA para "suspender a execução da pena do paciente, nos termos do entendimento firmado pelo Supremo Tribunal Federal no julgamento das Ações Declaratórias de Constitucionalidade nº 43, 44 e 54".
+Em 19 de novembro de 2020, o presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo proferiu decisão não admitindo o recurso especial interposto pelo ora paciente.
+No presente writ, a defesa alega, em síntese, que o paciente está na iminência de sofrer constrangimento ilegal, com risco de execução provisória da pena.
+Ante o exposto, requer a concessão da ordem para garantir a liberdade dopaciente até o julgamento em última instância.
+É o relatório. Decido.
+Da análise dos autos, não se constata qualquer constrangimento ilegal. Não há mandado de prisão a ser cumprido e nem evidências de que o referido título será expedido.
+Destarte, não é possível presumir que a prisão do paciente se dará antes do trânsito emjulgado da condenação,sobretudo porque foi concedida, de ofício,a ordem nos autos do HC 546.222/SP, para obstar a execução provisória da pena, e não há nenhuma determinação nesse sentido na decisão que apreciou a admissibilidade do recurso especial interposto.
+Vale frisar que, mesmo para a concessão de habeas corpus preventivo, exige-se uma real ameaça ao direito de locomoção.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS PREVENTIVO. AUSÊNCIA DE DEMONSTRAÇÃO, EMBASADA EM FATOS CONCRETOS, DE CONSTRANGIMENTO ATUAL OU IMINENTE AO DIREITO DE LOCOMOÇÃO DOS PACIENTES. WRIT MANIFESTAMENTE INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, ou seja, sempre que fundado for o receio de o paciente ser preso ilegalmente. E tal receio haverá de resultar de ato concreto, de ameaça iminente de prisão.
+No caso dos autos, os impetrantes-pacientes, ora agravantes, não demonstraram, com base em fatos concretos, que eles estão, de fato, na iminência de sofrer qualquer coação indevida à sua liberdade.
+Dessa forma, não tendo sido demonstrado, com fatos concretos, nenhum constrangimento atual ou iminente ao direito de locomoção dos pacientes, não se pode conhecer da impetração.
+2. É certo que "não cabe ação de habeas corpus contra o chamado, por alguns, "ato de hipótese". Portanto, não há constrangimento ilegal a ser evitado ou sanado pelo presente habeas corpus, o qual se mostra manifestamente incabível" (HC 82.319/SP, Quinta Turma, Rel. Ministro ARNALDO ESTEVES LIMA, DJ de 12/9/2007).
+3. Agravo regimental desprovido(AgRg no HC 617.836/SC, Rel. Ministro JOEL ILAN PACIORNIK, Terceira Seção, julgado em 25/11/2020, DJe 27/11/2020).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS PREVENTIVO PARA GARANTIR PRERROGATIVA CONCEDIDA PELO ESTATUTO DA ORDEM DOS ADVOGADOS. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO. AGRAVO IMPROVIDO. 1. A mera suposição de que a prisão poderá ser determinada e, com isso, não serão asseguradas as prerrogativas expressamente concedidas aos advogados, sem qualquer indicativo fático, não constitui ameaça concreta à liberdade de locomoção, capaz de justificar o manejo de habeas corpus.2. Agravo regimental improvido(AgRg no HC 376.470/ES, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 1º/12/2016, DJe 13/12/2016).
+Este writ, portanto, revela-se manifestamente incabível.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
