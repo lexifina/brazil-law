@@ -1,0 +1,48 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    ADMINISTRATIVO. MILITAR. TRANSFERÊNCIA EX OFFICIO PARA A RESERVA REMUNERADA. NÃO PARTICIPAÇÃO EM QUADRO DE ACESSO POR MERECIMENTO POR TRÊS VEZES. ART. 98, X, DA LEI 6.880/80 E ART. 37 DA LEI 5.821/72. DANO MORAL. INOCORRÊNCIA.
+    1. A transferência para a reserva remunerada ex officio de oficial da Aeronáutica do penúltimo posto do Quadro cujo último posto seja de oficial superior deve ocorrer, dentre outras hipóteses, quando o militar deixar de ingressar em Quadro de Acesso por Merecimento - QAM - por três vezes (consecutivas ou não) se em cada um deles participou oficial mais moderno, sendo considerado então inabilitado para promoção, nos termos do art. 98, X, da Lei 6.880/80 c/c o art. 37 da Lei 5.821/72.
+    2. Hipótese em que, em razão de decisão desfavorável à sua promoção ao Posto de Coronel proferida pela Comissão de Promoções de Oficiais da Aeronáutica), confirmada pela Subcomissão de Recursos da CPO e homologada pelo Comandante da Aeronáutica, o autor não participou dos Quadros de Acesso por Merecimento em tês ciclos consecutivos, nos quais constaram oficiais mais modernos, não havendo qualquer ilegalidade no praticado pela administração militar que o transferiu ex officio para a reserva remunerada.
+    3. A indenização por danos morais relacionada a ato praticado pelo Exército somente é possível quando demonstrada violação a direito subjetivo e efetivo abalo moral, em razão de procedimento abusivo ou ilegal por parte da Administração. No caso, em que pese frustada a movimentação do autor, entre a publicação do ato de deferimento de sua adição ao VI COMAR (27/04/2011) e a publicação do QAM que determinou a sua transferência à reserva (06/05/2011) transcorreram apenas 9 (nove) dias, importando em mero transtorno ou dissabor, não demonstrado o abalo moral.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso X, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "(...)
+    Do exame dos autos, verifica-se que omagistrado a quo deslindou com muita propriedade a questão referente à transferência à reserva remunerada posta nos autos, decidindo de acordo com a legislação de regência e primando pela regularidade formal. Assim, com a devida vênia, passo a transcrever a sentença:
+    1. Ato de transferência ex officio à reserva remunerada:
+    Sobre o tema em debate, a Lei nº 6.880/80, em seu art. 98, inciso X, assim dispõe:
+    Art. 98. A transferência para a reserva remunerada, ex officio , verificar-se-á sempre que o militar incidir em um dos seguintes casos: (...)
+    X - na Marinha e na Aeronáutica, deixar o oficial do penúltimo posto de Quadro, cujo último posto seja de oficial superior, de ingressar em Quadro de Acesso por Merecimento pelo número de vezes fixado pela Lei de Promoções de Oficiais da Ativa das Forças Armadas, quando nele tenha entrado oficial mais moderno do respectivo Quadro;
+    A Lei de Promoções de Oficiais da Ativa das Forças Armadas a que se refere o dispositivo legal acima transcrito (Lei nº. 5.821/72) traz as seguintes disposições:
+    Art. 11. (...)
+    § 1º As promoções para o preenchimento de vagas do último posto, nos Quadros em que este seja de oficial superior, poderão ser efetuadas somente pelo critério de merecimento, desde que assim seja estabelecido na regulamentação desta lei para cada Força Armada.
+    (...)
+    Art 21. As promoções são efetuadas, anualmente:
+    a) por escolha - nos dias 31 de março, 31 de julho e 25 de novembro, para as vagas abertas, e publicadas oficialmente, até os dias 21 de março, 21 de julho e 15 de novembro respectivamente, bem como para as decorrentes destas promoções; e
+    b) por antiguidade e merecimento - nos dias 30 de abril, 31 de agosto e 25 de dezembro, para as vagas abertas, e publicadas oficialmente, até os dias 10 de abril, 11 de agosto e 5 de dezembro, respectivamente, bem como para as decorrentes destas promoções.
+    (...)
+    Art 23. A promoção por merecimento é feita com base no Quadro de Acesso por Merecimento, de acordo com a regulamentação desta lei para cada Força Armada.
+    (...)
+    Art 37. O oficial que, no posto, deixar de figurar por três vezes, consecutivas ou não, em Quadros de Acesso por Merecimento, se em cada um deles participou oficial mais moderno, é considerado inabilitado para promoção ao posto imediato pelo critério de merecimento.
+    Convém salientar ainda que o Decreto nº. 7.099/10, em seu art. 22, esclarece o órgão militar competente pelo processamento das promoções por merecimento:
+    Art. 22. São órgãos de processamento das promoções: I - a CPO, para as de antiguidade, merecimento e, na primeira fase, para as de escolha;
+    (...)
+    No caso, em razão de decisão desfavorável à sua promoção ao Posto de Coronel proferida pela Comissão de Promoções de Oficiais da Aeronáutica), confirmada pela Subcomissão de Recursos da CPO e homologada pelo Comandante da Aeronáutica, que entendeu que o autor não reunia méritos que o destacassem positivamente entre os seus pares, o mesmo não participou dos Quadros de Acesso por Merecimento nos ciclos de agosto/2010, dezembro/2010 e abril/2011, nos quais constaram oficiais mais modernos.
+    Nesse contexto, como a transferência para a reserva remuneradaex officio de oficial da Aeronáutica do penúltimo posto do Quadro cujo último posto seja de oficial superior deve ocorrer, dentre outras hipóteses, quando o militar deixar de ingressar em Quadro de Acesso por Merecimento - QAM - por três vezes (consecutivas ou não) se em cada um deles participou oficial mais moderno, sendo considerado então inabilitado para promoção, nos termos do art. 98, X, da Lei 6.880/80 c/c o art. 37 da Lei 5.821/72, não há qualquer ilegalidade no praticado pela administração militar que transferiu o autor para a reserva remunerada, devendo ser mantida a sentença.
+    Do dano moral
+    A indenização por danos morais relacionada a ato praticado pelo Exército somente é possível quando demonstrada violação a direito subjetivo e efetivo abalo moral, em razão de procedimento abusivo ou ilegal por parte da Administração.
+    No caso, alega o autor que sofreu abalo moral em razão de sua transferência à reserva militar em 06/05/2011, pois havia sido determinada em 27/04/2011 sua adição ao VI COMAR, em Brasília/DF.
+    Ocorre que, em que pese frustada a movimentação do autor, entre a publicação do ato de deferimento de sua adição ao VI COMAR (27/04/2011) e a publicação do QAM que determinou a sua transferência à reserva (06/05/2011) transcorreram apenas 9 (nove) dias, importando em mero transtorno ou dissabor, não demonstrado o abalo moral.
+    Assim, incabível a indenização postulada, desmerece reforma a sentença. "
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
