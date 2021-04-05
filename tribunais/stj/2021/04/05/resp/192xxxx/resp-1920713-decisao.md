@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. TERRENO DE MARINHA. TRANSFERÊNCIA A TERCEIRO. COMUNICAÇÃO À SPU. ILEGITIMIDADE PASSIVA RECONHECIDA. EXTINÇÃO DA EXECUÇÃO. DESPROVIMENTO. HONORÁRIOS RECURSAIS.
+1. É responsável pelo pagamento da taxa de ocupação aquele que efetivamente ocupa o imóvel, nos termos do art. 127 do Decreto-Lei 9.760/46.
+2. Em que pese a comunicação à SPU da alienação do direito de ocupação dos terrenos de marinha ter sido efetuada com base em contrato particular, e não nos exatos termos da lei (escritura pública), fato é que mesmo antes da propositura da execução fiscal, a União possuía conhecimento formal de que a Sul Fabril S.A. não mais ocupava o imóvel.
+3. Reconhecida a ilegitimidade da embargante para responder pelos débitos de taxa de ocupação a partir do ano de 1997, independentemente da exigência de escritura pública de transferência, conforme já decidido por esta Corte em demandas anteriores.
+4. Mantida a sentença que julgou procedentes os embargos à execução fiscal e determinou, em consequência, a extinção do feito executivo correlato.
+5. Apelação desprovida. Honorários advocatícios fixados na forma do § 11 do art. 85 do CPC.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.24 do Decreto-Lei 3.438/1941 e3º do Decreto-Lei 2.398/1987, em sua redação original.Defende:
+(..) o art. 3º do Decreto-Lei nº 2.398/1987, em sua redação original - que esclarece e amplia o Decreto-Lei nº 2.490, de 16.08.40 - estabelece que os pedidos de licença para transferência de aforamento ou ocupação dirigidos ao chefe do Serviço Regional do Domínio da União deverão mencionar expressamente o nome do adquirente e o preço ajustado da transação. O parágrafo 2º do referido dispositivo, por sua vez, estabelece que as transferências de aforamento das faixas de marinha não se processarão sem que o interessado solicite prévia licença ao Serviço Regional, juntando ao pedido provas de aforamento e de quitação dos foros.
+(..)
+Note-se que o espírito a pautar a decisão acima citada é o de que o registro constante dos cadastros da Administração Pública é, por si só, razão suficiente a justificar a existência de presunção no sentido da legitimidade da cobrança endereçada à pessoa indicada em tais bancos de dados. Havendo necessidade de atualização do registro, a parte que não cumpre com tal exigência pode e deve ser responsabilizada pela cobrança da taxa de ocupação dos terrenos de marinha. A venda realizada entre particulares em nada altera a existência de tal responsabilidade, por ser considerada a non domino.
+(..)
+(..) o art. 3o do Decreto-Lei n. 2.398, de 21-12-1987, que assim dispõe, em sua redação original (posto que, atualmente, foi em parte modificado pelo advento da Lei n. 9.636, de 01-03-1988):
+"Art. 3º Dependerá do prévio recolhimento do laudêmio, em quantia correspondente a 5% (cinco por cento) do valor atualizado do domínio pleno e das benfeitorias, a transferência onerosa, entre vivos, do domínio útil de terreno da União ou de direitos sobre benfeitorias neles construídas, bem assim a cessão de direito a eles relativos.
+Destaque-se, por oportuno, que qualquer transferência onerosa de quaisquer direitos sobre benfeitorias construídas sobre terreno de marinha (e até mesmo a mera cessão de direitos a eles relativos!) depende, para sua perfectibilização, do pagamento de laudêmio.
+Portanto, era da executado a obrigação de recolher o laudêmio, por ocasião da transferência de sua ocupação de terreno de marinha. Examinados os autos, verifica-se que existe apenas comprovação da transmissão da propriedade do imóvel, não havendo, contudo, comprovação de que tenha sido recolhido o laudêmio pelo agravante-alienante, conforme exigido pelo art. 3o do Decreto-Lei n. 2.398, de 21-12-1987.
+Contrarrazões às fls. 487-496, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25/2/2021.
+Preliminarmente, a parte insurgente sustenta que o art. 1.022, II, do CPC/2015 foi violado, mas deixa de apontar o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, o embargante alega ocorrência de contradição na decisão embargada, sem, contudo, explicitar em que consistiria o alegado vício, tecendo argumentos genéricos e desconectados da alegada ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.801.722/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/03/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1.817.079/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019)
+No mérito, melhor sorte não assiste à parte insurgente.
+O acórdão impugnado consignou:
+É pacífico o entendimento do e. Superior Tribunal de Justiça de que a ausência de comunicação à SPU acerca da transferência de domínio útil faz com que o titular que originariamente consta dos registros permaneça como responsável pelo pagamento da taxa de ocupação, mesmo nos casos em que tenha havido o registro da transação na matrícula do imóvel:
+(..)
+Contudo, não é esse o caso dos autos, uma vez que, antes mesmo do ajuizamento da execução fiscal (17/06/2013), a Secretaria de Patrimônio da União já tinha conhecimento de que o imóvel não mais estava sendo ocupado pela embargante SUL FABRIL S.A., mas sim pela empresa ECO Empreendimentos Imobiliários Ltda.
+Outrossim, a questão acerca da ilegitimidade passiva da embargante já restou decidida pelo e. Tribunal Regional Federal em 01/08/2013, por ocasião do julgamento dos embargos de declaração no agravo de instrumento nº 500231170-2013.404.0000, interposto na execução fiscal nº 5002385-48.2010. 404.7205, con- forme excerto que segue transcrito (ev. 1, doc. 22): Com efeito, a legitimidade para ocupar o polo passivo de execução fiscal que busca a satisfação de débito oriundo de taxa de ocupação e laudêmio é daquele que efetivamente ocupa ou passa a ocupar o imóvel de propriedade da União.
+( )
+A exceção de pré-executividade apresentada pela embargante veio acompanhada de documentos probatórios suficientes para se verificar que houve a transferência de ocupação dos imóveis de domínio da União em 04/10/1995, tendo a atual ocupante, inclusive, se manifestado nos autos para assumir essa condição e requerido à SPU para retificação do registro (Evento 17 - ANE- XOS PET3; ANEXOS PET5) antes do ajuizamento da execução fiscal.
+Dessa forma, não há como prosseguir a execução fiscal contra Massa Falida de Sul Fabril S.A. com base nas CDA nº 91.6.0800.7303-80, nº 91.6.0800.7307-03, nº 91.6.1000.7583-93, nº 91.6.1000 7584-74, nº 91.6.1000.7585-55, nº 91.6.1000.7586- 36, pois ilegítima para ocupar o polo passivo da demanda"
+(..)
+Além disso, norma posterior e específica possibilitou a regularização das ocupações. É o que se lê na Lei n. 11.481/07, que alterou a Lei 9.636/98 (art. 7º, §§ 3º e 7º):
+Art. 7o A inscrição de ocupação, a cargo da Secretaria do Patrimônio da União, é ato administrativo precário, resolúvel a qualquer tempo, que pressupõe o efetivo aproveitamento do terreno pelo ocupante, nos termos do regulamento, outorgada pela administração depois de analisada a conveniência e oportunidade, e gera obrigação de pagamento anual da taxa de ocupação.
+§ 1o É vedada a inscrição de ocupação sem a comprovação do efetivo aproveitamento de que trata o caput deste artigo.
+(..)
+§ 7o Para efeito de regularização das ocupações ocorridas até 27 de abril de 2006 nos registros cadastrais da Secretaria do Patrimônio da União, as transferências de posse na cadeia sucessória do imóvel serão anotadas no cadastro dos bens dominiais da União para o fim de cobrança de receitas patrimoniais dos respectivos responsáveis, não dependendo do prévio recolhimento do laudêmio." (NR)
+(..)
+Como se vê, o ponto principal da sentença é o fato de que, mesmo antes do ajuizamento da execução fiscal, a Secretaria de Patrimônio da União já tinha conhecimento de que o imóvel não mais estava sendo ocupado pela empresa inscrita, SUL FABRIL S.A., mas pela ECO Empreendimentos Imobiliários Ltda. Ou seja, não se sustenta o argumento da apelante no sentido da não adoção das providências administrativas necessárias à mudança de titularidade do imóvel.
+Com efeito, no julgamento do Agravo de Instrumento nº 500231170- 2013.404.0000, interposto na execução fiscal nº 5002385-48.2010.404.7205 reconheceu-se que houve transferência de ocupação do imóvel em 04/10/1995 e que, inclusive, o atual ocupante requereu a retificação do registro junto à SPU. Além disso, restou decidido na ação de procedimento comum nº 5001991- 51.2013.404.7200, que o fato de não ter havido outorga da escritura pública não impede a transferência da ocupação, pois não se confunde com direito de propriedade, especialmente quando não há oposição dos ocupantes anteriores.
+A recorrente não impugna especificamente os termos do jugado, em especial o de que, "mesmo antes do ajuizamento da execução fiscal, a Secretaria de Patrimônio da União já tinha conhecimento de que o imóvel não mais estava sendo ocupado pela empresa inscrita, SUL FABRIL S.A., mas pela ECO Empreendimentos Imobiliários Ltda. Ou seja, não se sustenta o argumento da apelante no sentido da não adoção das providências administrativas necessárias à mudança de titularidade do imóvel" e que "o atual ocupante requereu a retificação do registro junto à SPU".
+Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Dessa forma, como tal fundamentação é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre os pontos, não há como conhecer do recurso.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
