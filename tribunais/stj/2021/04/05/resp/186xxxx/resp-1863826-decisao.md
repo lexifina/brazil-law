@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparona alínea "a"do inciso III do art. 105 da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ, fl. 242):
+ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - PEDIDO DE RECOLHIMENTO DO PORTE E REMESSA E RETORNO A FINAL - ART. 27 DO CPC NÃO APLICÁVEL À ESPÉCIE - AUTARQUIA FEDERAL QUE NÃO ESTÁ ISENTA - DO PAGAMENTO DE REFERIDA DESPESA -INTELIGÊNCIA DO ART. 2º, PARAGRAFO ÚNICO, INCISO II, DA LEI Nº 11.608/03 - DESERÇÃO CONFIGURADA.
+ACIDENTÁRIA - ACIDENTE IN INTINERE - SEQUELA EM MEMBRO INFERIOR DIREITO (JOELHO) - LAUDO PERICIAL CONCLUSIVO - INCAPACIDADE LABORATIVA CONSTATADA - NEXO CAUSAL COMPROVADO - SENTENÇA DE PARCIAL PROCEDÊNCIA, QUE CONCEDEU À AUTORA APOSENTADORIA POR INVALIDEZ - REEXAME NECESSÁRIO - CONCESSÃODE AUXÍLIO-ACIDENTE, BENESSE QUE SE ADEQUA AO GRAU DE INCAPACIDADE CONSTATADA EM PERÍCIA - BENEFÍCIO DEVIDO A PARTIR DO DIA SEGUINTE À CESSAÇÃO DO AUXÍLIO-DOENÇA - ADEQUAÇÃO COM RELAÇÃO À FIXAÇÃO DOS JUROS E CORREÇÃO MONETÁRIA - SENTENÇA PARCIALMENTE REFORMADA.
+Recurso da autarquia não conhecido e sentença parcialmente reformada em sede de reexame necessário.
+Os embargos de declaração (e-STJ, fls. 253-261) foram rejeitados, nos termos da decisão de e-STJ, fls. 271-278.
+O insurgente alega, nas razões do especial, que foram violados os arts. 41-A da Lei n. 8.213/19941; 31 da Lei n. 10.741/2003; 5º da Lei n. 11.960/2009; 1º-F da Lei n. 9.494/1997.
+Defende a necessidade de observância do art. 1º-F da Lei n. 9.494/1997, na redação dada pelo art. 5º da Lei n. 11.960/2009, no tocante à correção monetária.
+Admitido o recurso especial na origem (e-STJ, fl. 322), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem decidiu sobre a incidência da correção monetária sob a seguinte fundamentação (e-STJ, fls. 248-249):
+Os valores em atraso, decorrentes do benefício ora deferido, serão corrigidos monetariamente pelo IGP-DI, até a data conta de liquidação e, após deve ser utilizado o IPCA-E, a partir do termo final considerado no cálculo de liquidação que vier a ser aprovado na execução, para efeito de atualização do precatório, afastada, a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), por força da declaração de inconstitucionalidade declarada em autos de ADI nº 4.357, ocorrida aos 14 de março de 2013, cuja modulação dos efeitos foi julgada aos 25 de março de 2015.
+A conta a ser elaborada deverá seguir a forma da Lei n.8.213/91, ou seja, com cálculo mês a mês de cada parcela devida, partindo-se da renda mensal inicial devidamente reajustada pelos índices de manutenção no decorrer do tempo.
+Os juros de mora, incidentes a partir da citação, serão computados sobre as parcelas em atraso de forma englobada até a citação e, a partir daí, mês a mês de modo decrescente, à base mensal prevista para caderneta de poupança, conforme disciplina a Lei nº 11.960/09 (porque não alterado neste aspecto em sede da referida ADI).
+Dessa forma, observa-se que o acórdão recorrido divergiu do entendimento desta Corte Superior de quedeve ser adotado o INPC, a partir da vigência da Lei n. 11.430/2006, como índice para correção monetária dos débitos previdenciários.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. JUROS DE MORA E ÍNDICE DE CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI 9.494/1997 COM A REDAÇÃO DADA PELA LEI 11.960/2009. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. OBSERVÂNCIA DOS RECURSOS ESPECIAIS REPETITIVOS 1.495.146/MG, 1.495.144/RS E 1.492.221/PR.
+1. A questão a ser revisitada diz respeito à incidência do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, sobre a condenação imposta à Fazenda Pública previdenciária.
+2. A Primeira Seção do STJ concluiu o julgamento dos Recursos Especiais submetidos ao regime dos Recursos Repetitivos, que tratam da questão relativa à aplicabilidade do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora - REsp 1.495.146/MG, REsp 1.495.144/RS e REsp 1.492.221/PR, todos da Relatoria do Ministro Mauro Campbell Marques.
+3. Para o presente caso, isto é, condenações judiciais de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+4. No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+5. Recurso Especial do INSS provido.
+(REsp 1.864.707/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/5/2020, DJe 25/6/2020.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO PREVIDENCIÁRIA. APOSENTADORIA POR IDADE RURAL. CONSECTÁRIOS LEGAIS. ADEQUAÇÃO AO ENTENDIMENTO FIRMADO SOB A SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. RESP N. 1.492.221/PR.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. No julgamento do REsp 1.492.221/PR, da Relatoria do Min. Mauro
+Campbell Marques, submetido à sistemática dos Recursos Repetitivos, a Primeira Seção do STJ firmou a seguinte tese: "As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei n. 11.430/2006, que incluiu o art. 41-A na Lei n. 8.213/91. Quanto aos juros de mora, no período posterior à vigência da Lei n. 11.960/2009, incidem segundo a remuneração oficial da caderneta de poupança".
+3. Agravo regimental provido.
+(AgRg no REsp 1.412.191/MG, Rel. Min. BENEDITO GOLÇALVES, PRIMEIRA TURMA, julgado em 2/8/2018, DJe 9/8/2018.)
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568 do STJ, dou provimento ao recurso especial, nos termos da fundamentação, para reconhecer a incidência do INPC para correção monetária dos débitos previdenciários, a partir da vigência da Lei n. 11.430/2006.
+Publique-se. Intimem-se.
