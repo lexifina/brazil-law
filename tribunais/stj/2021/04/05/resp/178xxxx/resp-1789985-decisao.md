@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especialinterposto por UNIMED DE PRES PRUDENTE COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, III, "a" e"c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça doEstado de São Paulo, assim ementado:
+"Ementa: Agravo de Instrumento Plano de Saúde Cumprimento individual de sentença proferida em ação civil pública intentada pelo Ministério Público, que declarou a nulidade de cláusula que permitia à ré o aumento abusivo das mensalidades e a condenou à repetição do indébito Prazo prescricional de 03 anos a ser aplicado à espécie Tese firmada pelo Colendo Superior Tribunal de Justiça em sede de recurso repetitivo Contagem do prazo que se dá a partir da data em que entrou em vigor o atual Código Civil Ação civil pública que foi ajuizada no prazo legal Execuções individuais que se submetem ao prazo quinquenal de prescrição Entendimento consolidado pela Superior Instância nos autos do REsp 1.273.643/PR julgado sob o rito do artigo 543-C do CPC de 1973 Prescrição afastada Agravo desprovido." (fl. 131)
+É o sucinto relatório.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de SãoPaulo, constata-se que, em 17/02/2021, na ação principal (Processo n.º1004656-36.2016.8.26.0482), que originou o agravo de instrumento do qualdecorre o recurso especial em epígrafe, foi homologado acordo judicialextinguindo o feito.
+Nesse contexto, tem-se que o presente recurso especialencontra-se prejudicado, em razão da perda superveniente de objeto.
+Diante do exposto, com fundamento no art. 34, XI, do RISTJ,julgo prejudicado o recurso especial, pela superveniente perdade objeto.
+Publique-se.
