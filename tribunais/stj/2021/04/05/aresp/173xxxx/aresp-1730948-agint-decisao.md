@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo interno, interposto pelaAGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, mediante o qual se impugna decisão, de minha lavra, que não conheceu de seu Agravo emRecurso Especial, dada a suposta perda de objeto.
+Alega-se, nas razões do Agravo interno, o seguinte:
+"Trata-se de decisão monocrática da eminente Ministra Relatora que não conheceu do agravo em recurso especial interposto pela ANATEL ao fundamento de que houve perda do objeto, "tendo em vista que os recursos repetitivos relativos ao TEMA 987 já foram julgados, neste STJ".
+Todavia, data vênia, merece reforma a decisão eis que não houve ainda o julgamento dos recursos repetitivos relativos ao tema 987 afetados à Primeira Seção (REsp 1.694.261/SP, REsp 1.694.316, REsp 1.712.484/SP, REsp 1.760.907/RJ, REsp 1.757.145/RJ, REsp 1.768.324/RJ e REsp 1.765.854/RJ), conforme andamento processual do site desse e. Tribunal:
+(..)" (fl. 337e).
+Requer a reconsideração da decisão agravada, com o conhecimento do Agravo e oprovimento deseu Recurso Especial.
+Contraminuta às fls. 344/351e.
+A decisão agravada merece reconsideração.
+Com efeito, evidente o equívoco em que incorreu a decisão, uma vez os Recurso Especiais relativos aoTEMA 987 ainda não foram julgados.
+Passo ao reexame do Agravo em Recurso Especial.
+A hipótese versa sobre a necessidade concreta, ou não, de sobrestamento do curso deexecução fiscal, em razão da ordemsuspensivacontida na decisão que afetou a matéria, neste STJ, no referido TEMA 987, para julgamento segundo o rito dos recursos repetitivos.
+Pacífica a jurisprudência do STJ no sentido de que, uma vez tendo sido determinada, no regime dos recursos repetitivos, a suspensão do curso de todos os processosa versarem sobre o tema objeto da afetação, eventual descumprimento dessa ordem caracteriza violação ao art. 1.037, II, do CPC.
+Nesse diapasão:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. MEDIDAS CONSTRITIVAS. PENHORA NO ROSTO DOS AUTOS. EMPRESA EM RECUPERAÇÃO JUDICIAL. MATÉRIA AFETADA PARA JULGAMENTO CONFORME O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 987/STJ. DESCUMPRIMENTO DA DETERMINAÇÃO DE SUSPENSÃO DOS FEITOS QUE VERSAM SOBRE A MATÉRIA AFETADA. VIOLAÇÃO DO ART. 1.037, II, DO CPC/2015 CONFIGURADA. ANÁLISE DO ALEGADO DISSÍDIO JURISPRUDENCIAL PREJUDICADA.
+I - Trata-se de recurso especial interposto contra o acórdão responsável por manter a decisão interlocutória, proferida em execução fiscal, que autorizou a realização de penhora no rosto dos autos do processo de recuperação judicial da parte executada, sob o fundamento de que a referida medida constritiva não implicaria prejuízo à dita parte.
+II - O Superior Tribunal de Justiça afetou, para julgamento conforme o rito próprio dos recursos especiais repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, a questão jurídica que segue (Tema n. 987/STJ), "in verbis": "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal"(ProAfR no REsp n. 1.694.261/SP, ProAfR no REsp n.1.694.316/SP e ProAfR no REsp n. 1.712.484/SP, Relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 20/2/2018, DJe27/2/2018). Ademais, o relator dos recursos especiais representativos da controvérsia determinou a suspensão do processamento de todos os feitos pendentes que versam sobre a questão afetada e tramitam no território nacional, nos termos do art. 1.037, II, do CPC/2015.
+III - O descumprimento, pelas instâncias ordinárias, da determinação de suspensão do processamento de todos os feitos pendentes que versam sobre matéria afetada para julgamento conforme o rito próprio atribuído aos recursos especiais repetitivos, exarada pelo relator dos recursos especiais representativos da controvérsia, importa a violação do art. 1.037, II, do CPC/2015. Precedente: REsp n.1.858.227/PR, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJe 13/5/2020.IV - Recurso especial parcialmente conhecido e provido" (STJ, REsp 1.860.681/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 04/09/2020).
+Ante o exposto, reconsidero a decisão agravada e, com fundamento no com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Sem honorários recursais. Decisão interlocutória.
+I.
