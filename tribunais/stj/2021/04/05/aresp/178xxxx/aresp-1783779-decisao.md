@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por Rhesus Medicina Auxiliar Ltda. (em recuperação judicial), com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça de São Paulo que deu provimento ao agravo de instrumento interposto pela ora agravado, nos termos da seguinte ementa (e-STJ, fl. 33).
+Recuperação judicial - Impugnação de crédito - Improcedência afastada - Cédula de crédito comercial - Crédito garantido por hipoteca cedular de primeiro grau - Hipótese que não se confunde com a propriedade fiduciária reconhecida - Decisão reformada - Recurso provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 81-85).
+Nas razões do recurso especial (e-STJ, fls. 42-69), a recorrente alega, em caráter preliminar, a necessidade de concessão dos benefícios da justiça gratuita, considerando sua insuficiência de recursos, bem como pelo fato de se encontrarem em recuperação judicial.
+No mérito, aduz que o acórdão recorrido contraria os arts. 6º, §§ 1º e 3º, e 49, § 3º, da Lei n. 11.101/2005, sustentando, em síntese, a necessidade de exclusão do crédito do recorrido da recuperação judicial.
+Por fim, em caráter subsidiário, afirmou ser competência do Juízo onde se processa a execução do título a determinação do valor a ser habilitado.
+Contrarrazões às fls. 107-111 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (e-STJ, fls. 183-186).
+Às fls. 188-190 (e-STJ), esta relatoria, analisando o pedido de gratuidade da justiça, entendeu pelo seu indeferimento e determinou prazo de 5 (cinco) dias para que fosse realizado o recolhimento do preparo do recurso especial, sob pena de deserção, nos termos do art. 99, § 7º, do CPC/2015.
+Realizado o recolhimento do preparo às fls. 192-195 (e-STJ), vieram os autos para análise do mérito recursal.
+Brevemente relatado, decido.
+De início, não obstante a oposição de embargos de declaração, constata-se que a tese relativa a competência para determinação do valor a ser habilitado não foi analisada pelo Tribunal de origem, faltando, assim, o requisito indispensável do prequestionamento (Súmula 211/STJ).
+O cerne da controvérsia diz respeito à inclusão ou não do crédito do banco ora agravado na classe de garantia real, no âmbito da recuperação judicial da empresa insurgente, em virtude de hipoteca de primeiro grau vinculada a cédula de crédito bancário.
+Ao analisar a matéria, o Tribunal estadual consignou que a garantia hipotecária foi estabelecida muito antes do advento da lei que disciplinou a alienação fiduciária e que, mesmo com os aditivos à cédula de crédito comercial, a garantia real foi mantida. Reconheceu, assim, que o crédito mantido pela instituição bancária é concursal.
+Confiram-se (e-STJ, fls. 34-36, sem grifos no original):
+A Agravante, em suma, sustenta que seu crédito, originado da emissão da Cédula de Crédito Comercial nº 95/00121-2, foi indevidamente reconhecido na decisão recorrida, como sendo garantido por propriedade fiduciária de bem imóvel e, portanto, de natureza extraconcursal, mas, ao contrário, ostenta garantia real decorrente de hipoteca cedular de primeiro grau, devendo ser submetido à recuperação judicial.
+O recurso comporta provimento.
+Consoante manifestação apresentada pelo Administrador Judicial (fls.27/29), que está fundada na prova documentação acostada aos autos, o crédito do recorrente é oriundo de uma cédula de crédito comercial (fls. 60/64) e seus dois aditivos (fls. 66/70 e 72/76), que foi emitida pela recorrida, a qual está garantida por "hipoteca cedular de primeiro grau e sem concorrência de terceiros" do imóvel localizado esta Capital, na Avenida Eduardo Cotching, nº 804, Vila Formosa.
+O registro da hipoteca cedular foi realizado em 17 de outubro de 1995, inclusive antes do advento da Lei 9.514/1997, que disciplinou a alienação fiduciária de bem imóvel, não havendo a menor dúvida quanto ao conteúdo do direito conferido ao credor (fls.115 R.24 da matrícula 11.347 acima referida).
+Assim, ainda que, por intermédio dos termos aditivos já referidos, tenha sido apresentada garantia subsidiária consistente no penhor de duplicatas de prestação de serviços (fls. 68 e 74), foi mantida, como principal, a garantia real consistente na hipoteca do imóvel matriculado sob o número 11.347 junto ao 9º Oficial de Registro de Imóveis da Comarca da capital.
+Por tal razão, o crédito mantido pela recorrente pertence, induvidosamente, à Classe II (Com Garantia Real), prevista no artigo 41, Inciso II da Lei 11.101/2005, estando, portanto, submetido à recuperação judicial em curso.
+Tudo somado, anula-se a decisão recorridada do o reconhecimento da concursalidade do crédito envolvendo garantia hipotecária, devendo o incidente prosseguir até que seja solvida a questão atinente ao valor de dito crédito propriamente dito.
+Dessa forma, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local (acerca da qualificação do crédito impugnado) implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. COMPETÊNCIA PARA DETERMINAÇÃO DO VALOR A SER HABILITADO. AUSÊNCIA DE PREQUESTIONAMENTO. CÉDULA DE CRÉDITO COMERCIAL. CRÉDITO GARANTIDO POR HIPOTECA CEDULAR DE PRIMEIRO GRAU. CRÉDITO CONCURSAL. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
