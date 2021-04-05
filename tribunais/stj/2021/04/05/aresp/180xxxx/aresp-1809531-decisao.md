@@ -1,0 +1,16 @@
+DECISÃO
+EDIVANIA DE ALMEIDA SANTOS agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (Apelação Criminal n.0000014-12.2015.8.02.0071).
+Consta dos autos que a ora agravante foi condenada à pena de 7 anos, 9 meses e 22 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, da Lei de Drogas.
+Nas razões do recurso especial, a defesa aponta violação do art. 33, § 4º, da Lei n. 11.343/2006, e requer, em síntese, a aplicação prevista nesse dispositivo no patamar máximo de 2/3.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+No caso, o Tribunal de origem manteve a aplicação do redutor no patamar de 1/6, sob o argumento de que "a apelante agiu com maior reprovabilidade, atuando em favor de custodiado que encontrava-se na Delegacia Regional de Penedo, contribuindo com a prática de atividades ilícitas dentro de unidade policial. Neste sentido, a ré tinha ciência de sua colaboração decisiva, já que o destinatário estava segregado, logo, não teria outra maneira de adquirir a substância ilícita" (fl. 245).
+Assim, uma vez que a Corte estadual - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6, não identifico a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
