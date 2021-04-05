@@ -1,0 +1,41 @@
+DECISÃO
+Na origem, Incorporadora Borges Landeiro S.A. interpôs agravo de instrumento decorrente de decisão proferida nos autos da ação de execução de sentença arbitral manejada por Condomínio Resid. Palazzo Di Italia - Edif. Di Livorno e Di Siena.
+No julgamento do agravo de instrumento, a Terceira Turma Julgadora da Quarta Câmara Cível do Tribunal de Justiça de Goiás decidiu, por unanimidade, negar provimento ao recurso, em aresto assim ementado (e-STJ, fl. 363):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE SENTENÇA ARBITRAL. DESPESAS CONDOMINIAIS. EMPRESA EXECUTADA EM RECUPERAÇÃO JUDICIAL. SUSPENSÃO.
+Ao teor do entendimento do Superior Tribunal de Justiça, a taxa de condomínio se enquadra no conceito de despesa necessária à administração do ativo, tratando-se, portanto, de crédito extraconcursal, não se sujeitando à habilitação de crédito, tampouco à suspensão dos feitos executivos, determinados pela Lei de Falências (precedentes do STJ).
+AGRAVO DESPROVIDO.
+Nas razões do recurso especial, a recorrente, com fundamento nas alíneasa e c do permissivo constitucional, alegou, além de divergência jurisprudencial, violação aoart. 47 da Lei n. 11.101/2005, sustentando, em síntese, que, estando em recuperação judicial, compete ao juízo recuperacional reconhecer ou não o caráter extraconcursal do bem suscetível de satisfação da dívida exequenda.
+Aduz ainda que, instaurado o processo de recuperação judicial, passa a ser do juízo universal a competência exclusiva para analisar e deliberar acerca de atos constitutivos ou de alienação de bens, enquanto perdurar a recuperação judicial.
+Contrarrazões apresentadas às fls. 395-415 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela incidência daSúmula7 do STJ, bem como pela falta de demonstração do dissídio jurisprudencial.
+Brevemente relatado, decido.
+Com efeito, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 360-362 - sem grifo no original):
+Analisando as argumentações tecidas neste recurso de agravo de instrumento, em cotejo com o que restou decidido na referida decisão agravada, observo que a empresa recorrente não tem razão em seu inconformismo.
+Com efeito, nos termos do art. 6º da Lei Federal nº 11.101/2005, a "decretação da falência ou o deferimento do processamento da recuperação judicial suspende o curso da prescrição e de todas as ações e execuções em face do devedor, inclusive aquelas dos credores particulares do sócio solidário".
+Contudo, há muito o Superior Tribunal de Justiça consolidou o entendimento segundo oqual as taxas condominiais são consideradas despesas com administração do ativo, consubstanciando-se em créditos extraconcursais. Confira-se:
+(..)
+Desta forma, dado seu caráter sui generis, essa espécie de dívida não se sujeita à regra geral de suspensão imposta pela Lei de Falências.
+De mais a mais, em sendo a contribuição condominial obrigação de caráter propter rem, seu adimplemento visa não só a manutenção do imóvel ensejador do débito, mas, também, a do condomínio do qual faz parte.
+A taxa de condomínio não constitui dívida do proprietário do bem e, sim, encargo decorrente de despesas necessárias à manutenção e conservação da própria coisa.
+Desse modo, entendo que não incidiria, na espécie, a regra do art. 6º da Lei Federal nº 11.101/2005, segundo a qual a recuperação judicial suspenderia o processamento das execuções contra o devedor, não se aplicando, do mesmo modo, o art. 8º ou 49 da referida legislação federal porque, conforme já dito, o crédito em comento não está sujeito ao juízo universal.
+Conforme se observa, o acórdão recorrido consignou que as taxas condominiais possuem natureza extraconcursal e, assim, não se submetem ao plano de recuperação judicial.
+No que se refere às obrigações condominiais, o entendimento deste Superior Tribunal de Justiça é no sentido de que tais débitos estão compreendidos no conceito de despesas necessárias à administração do ativo, configurando, assim, crédito extraconcursal, razão pela qual não estão sujeitas à habilitação do crédito.
+No mesmo sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DAS DESPESAS CONDOMINIAIS. POSTERIOR FALÊNCIA DA ORA RECORRENTE. TAXAS CONDOMINIAIS ANTERIORES À FALÊNCIA QUE SE REFEREM À MANUTENÇÃO DA COISA. NATUREZA PROPTER REM.PREFERÊNCIA SOBRE OS CRÉDITOS ATRIBUÍDOS À MASSA FALIDA.IMPOSSIBILIDADE DE SUSPENSÃO DA EXECUÇÃO DOS CRÉDITOS.CARÁTER EXTRACONCURSAL. ENTENDIMENTO DOMINANTE NESTA CORTE. SÚMULA Nº 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A atual jurisprudência desta Corte Superior é no sentido de que a taxa de condomínio se enquadra no conceito de despesa necessária à administração do ativo, tratando-se, portanto, de crédito extraconcursal, não se sujeitando à habilitação de crédito, tampouco à suspensão determinada pelo art. 99 da Lei de Falências.Precedentes.
+3. Em virtude do não conhecimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa.(AgInt no REsp 1.646.272/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/4/2018, DJe 30/4/2018 - sem grifo no original)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL CIVIL.LIQUIDAÇÃO EXTRAJUDICIAL. COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO A HABILITAÇÃO NO QUADRO GERAL DE CREDORES. OBSERVÂNCIA DA ORDEM DE PRIVILÉGIO DOS CRÉDITOS ANTECEDENTES AOS ENCARGOS DA MASSA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 124, § 1º, III, do Decreto-Lei 7.661/45 (antiga Lei de Falências), os débitos condominiais, por se tratarem de obrigação de natureza propter rem, não podem ser considerados da pessoa do falido, porquanto constituem ônus relativo ao próprio imóvel, constituindo-se, portanto, em encargos da massa.
+2. Agravo regimental desprovido.(AgRg no REsp 590.632/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/9/2013, DJe 22/10/2013)
+PROCESSUAL CIVIL. VALIDADE DE REPRESENTAÇÃO PROCESSUAL. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO A RATEIO. AÇÃO DE COBRANÇA. NÃO-SUSPENSÃO. EXCEÇÃO DISPOSTA NO ARTIGO 24, § 2º, INCISO I, DO DECRETO-LEI N. 7.661/45.
+ .. .
+2. As taxas condominiais são consideradas encargos da massa. Sendo assim, classificam-se como créditos não sujeitos a rateio e, por conseguinte, exercem preferência sobre os créditos admitidos à falência, ressalvadas as despesas com a arrecadação, a administração, a realização de ativo e a distribuição de seu produto, inclusive a comissão de síndico.
+3. A ação de cobrança referente a taxas condominiais em atraso, a despeito de ter sido intentada antes da decretação da falência, deverá prosseguir com o síndico da massa falida, por se enquadrar na exceção disposta no artigo 24, § 2º, inciso I, do Decreto-Lei n. 7.661/45.
+4. Recurso especial não-conhecido.(REsp 794.029/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, DJe 2/2/2010)
+Dessa forma, constata-se que o posicionamento do Tribunal estadual encontra-se em sintonia com a orientação jurisprudencial do STJ. Logo, incide a Súmula 83/STJ, a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. 1. DEVEDOR EM RECUPERAÇÃO JUDICIAL. OBRIGAÇÃO DE PAGAMENTO DAS COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO À HABILITAÇÃO NO QUADRO GERAL DE CREDORES. SÚMULA 83/STJ. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
