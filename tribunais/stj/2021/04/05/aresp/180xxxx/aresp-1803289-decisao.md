@@ -1,0 +1,38 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por ALIANÇA IMPORTAÇÃO E DISTRIBUIÇÃO EIRELI, contra decisão do Tribunal de Justiça do Estado do Paraná, que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 72):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ILEGITIMIDADE PASSIVA. TESE AFASTADA. SUCESSÃO EMPRESARIAL. RESPONSABILIDADE PELAS OBRIGAÇÕES ANTERIORES E PELO ALCANCE DOS EFEITOS DO RECONHECIMENTO DE GRUPO ECONÔMICO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram acolhidos em parte, sem efeitos infringentes(e-STJ Fls. 132/134).
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 1.022, inciso I, do Código de Processo Civil/2015, e, 1.146 do Código Civil.Sustenta, em síntese, suposta negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre a suposta violação ao artigo1.146 do Código Civil.Por fim, aduz que "segundo Tribunal a quo, o adquirente, Sr. A DALTO GONÇALVES, teria conhecimento do débito ao adquirir as cotas da empresa, o que não é realidade, ao passo que, para ele, a dívida apenas restou contabilizada no dia 06 de setembro de 2017 (Evento 3.51.1), portanto, posterior à assinatura do instrumento de alteração contratual." (e-STJ Fl. 391).
+Assim, requer o acolhimento da exceção de pré-executividade com a declaração de ilegitimidade da recorrente para figurar no polo passivo da presente ação.Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+Cumpre asseverar ainda que éindevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte, conforme os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No que concerne à suposta violação ao artigo 1.146, do CC, a Corte Estadual, soberana na análise das peculiaridades do caso concreto, asseverou que (e-STJ Fl. 133, gn):
+"(..)
+Inicialmente, destaco que a decisão enfrentou a matéria aduzida no feito, necessária de manifestação judicial e, assim, ao contrário do afirmado, não há omissão e obscuridade a ser sanada por intermédio destes aclaratórios.
+Isso porque, no ponto da anterioridade da alienação como apontado pela embargante, constou no acórdão que "não há comprovação da alteração societária (mov. 454.5), inclusive da averbação ocorrida em 13/09/2017. Todavia, permaneceu a empresa sob o mesmo CNPJ, mesma sede e mesmo objeto, não havendo comprovação do momento em que foi realizada a alteração do nome (..), de forma que não é possível dizer que não continua respondendo pelos efeitos da sucessão empresarial (..)".
+E, a tese aventada para afirmar haver obscuridade na decisão, também não deve ser acolhida. As afirmações quanto a demonstrar obscuridade, na verdade, veiculam tentativa de reabrir a discussão sobre o mérito do julgado, o que, conforme a jurisprudência, não se admite. Pela leitura do acórdão, não verifico pontos ininteligíveis ou de difícil compreensão, estando devidamente delineado o convencimento do Relator, acompanhado por unanimidade pelos demais julgadores.
+Ao defender a necessidade de maiores esclarecimentos em razão da suposta falta de clareza ou mesmo de certeza jurídica na decisão, a embargante está, de fato, buscando confrontar novamente seus argumentos com o entendimento esposado na decisão singular e confirmada neste grau recursal. Vale dizer, ademais, que a recorrente compreendeu plenamente o teor do julgado, porém, não concorda com a posição adotada.
+Ainda, em relação ao erro material, este, de fato, ocorreu, pois, onde constou "o prosseguimento das execuções nº (..)", deve-se ler "o prosseguimento dos embargos a execução nº (..)", o que ora, se determina a correção.
+Tal vício, porém, além de não provocar qualquer erro de interpretação ou equívoco quando da análise do caso, não tem o condão de modificar o resultado do julgado, de modo que não há que se falar em atribuição de efeitos infringentes aos presentes".
+Assim, elidir as conclusões do aresto impugnado no sentido de que "não há comprovação da alteração societária (mov. 454.5), inclusive da averbação ocorrida em 13/09/2017. Todavia, permaneceu a empresa sob o mesmo CNPJ, mesma sede e mesmo objeto, não havendo comprovação do momento em que foi realizada a alteração do nome (..), de forma que não é possível dizer que não continua respondendo pelos efeitos da sucessão empresarial (..)", demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA. TESE RECHAÇADA PELA CORTE DE ORIGEM. SUCESSÃO EMPRESARIAL. RESPONSABILIDADE PELAS OBRIGAÇÕES ANTERIORES E PELO ALCANCE DOS EFEITOS DO RECONHECIMENTO DE GRUPO ECONÔMICO.REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
