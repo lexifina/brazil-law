@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO contra decisão de inadmissibilidade do recurso especial que discute a limitação territorial da eficáciaerga omnesda sentença prolatada em ação civil pública.
+É o relatório. Decido.
+O Plenário do egrégio Supremo Tribunal Federal, no RE 1.101.937/SP, por maioria de votos, reconheceu arepercussão geralda questão objeto do recurso especial relativa aolimite territorial da eficáciaerga omnesda sentença prolatada em ação civil pública(Tema 1075), nos termos da seguinte ementa:
+RECURSO EXTRAORDINÁRIO. ART. 16 DA LEI 7.347/1985, COM A REDAÇÃO DADA PELA LEI 9.494/1997. CONSTITUCIONALIDADE.
+REPERCUSSÃO GERAL RECONHECIDA.
+1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca da constitucionalidade do art. 16 da Lei 7.347/1985, com a redação dada pela Lei 9.494/1997, segundo o qual a sentença na ação civil pública fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator.
+2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+(RE 1101937 RG, Relator(a): Min. ALEXANDRE DE MORAES, julgado em 13/02/2020, PROCESSO ELETRÔNICO DJe-040 DIVULG 26-02-2020 PUBLIC 27-02-2020 )
+Além disso, houve determinação de suspensão nacional dos processos que versem sobre idêntica questão de direito e que estejam pendentes de apreciação, conforme decisão monocrática do relator do aludido recurso extraordinário, Ministro Alexandre de Moraes, publicada em 22/4/2020.
+Nesse contexto, em observância à economia processual, à prevenção de decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça e ao art. 256-L do RISTJ, os recursos que tratam das mesmas controvérsias no STJ devem aguardar, no Tribunal de origem, a solução daquestão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, apenas após essas providências, o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com as decisões sobre os temas de repercussão geral e repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto,determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após ojulgamentodo recurso extraordinário com repercussão geral reconhecida: i)negue-se seguimento ao recurso especialno caso de o acórdão recorrido coincidir com atesefirmadasobre oaludidotema; ou ii)proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir dareferidatese.
+Publique-se.
