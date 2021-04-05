@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE ADICIONAL DE HORAS EXTRAS. POLICIAL MILITAR. AUSÊNCIA DE PREVISÃO LEGAL ESTADUAL. INDENIZAÇÃO POR SERVIÇO EXTRAORDINÁRIO. LEI ESTADUAL N° 15.949/2006. DIREITO FUNCIONAL DISTINTO. INCONSTITUCIONALIDADE NÃO EVIDENCIADA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS EM GRAU DE RECURSO. EXIGIBILIDADE SUSPENSA.
+    1. Cabe a Lei estadual definir sobre os direitos, deveres, remuneração, prerrogativas e outras situações especiais dos militares, como a jornada de trabalho e os serviços extraordinários, não lhes aplicando o regime comum dos demais servidores públicos efetivos (art. 39, § 3° da CF/88). Inteligência do art. 42, § 1°, da Constituição Federal de 1988.
+    2. Não há inconstitucionalidade do art. 5º da Lei estadual n° 15.949/2006, que dispõe sobre os serviços extraordinários (AC4), uma vez que define no âmbito estadual direito funcional militar distinto do adicional de horas extras trabalhadas, o qual, ainda, não possui previsão legal estadual autorizando o seu pagamento.
+    3. Não havendo previsão legal do adicional de hora extra ao Policiais Militares do Estado de Goiás, cujo regimento é diverso dos servidores públicos em geral, não há possibilidade de procedência do pedido formulado pelo autor/apelante, mormente a Súmula Vinculante n° 37/STF impor não competir ao Poder Judiciário, que não tem função legislativa, aumentar os vencimentos de servidores públicos sob o fundamento de isonomia.
+    4. O desprovimento do apelo, implica na necessária elevação dos honorários sucumbenciais, diante da sucumbência recursal, conforme preconizado no art. 85, § 11, do Código de Processo Civil. Precedentes do STJ.
+    5. Vencido o beneficiário da assistência judiciária, a sua condenação sucumbencial restará suspensa de exigibilidade, pelo prazo máximo de cinco anos contados do trânsito em julgado dos autos, podendo o credor neste período demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão da graça judiciária, a fim de que seja interrompida a aludida suspensão. Inteligência do art. 98, § 3°, do Código de Processo Civil.
+    APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, § 2º e 3º, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 5 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
