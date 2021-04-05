@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EMHABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTO AO DECRETO PRISIONAL PRIMITIVO. PREJUDICIALIDADE DA IMPETRAÇÃO NO PONTO. IMPOSSIBILIDADE DE ANÁLISE DOS NOVOS FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. OMISSÃO E CONTRADIÇÃO NÃO DEMONSTRADAS. INOCORRÊNCIA. REDISCUSSÃO DE MATÉRIA. RECURSO DESPROVIDO.
+1.In casu, da leitura da sentença condenatória, verifica-se que foi agregado novo fundamento ao decreto prisional primitivo tendo em vista que mantidaa custódia também em razão de o réu ter respondido ao processo acautelado.Os novos fundamentos devem ser submetidosao Tribunal a quo antes de serem aqui analisados, sob pena de se incidir em indevida supressão de instância.
+2. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.Sem a demonstração das hipóteses de cabimento, a rejeição dos embargosdedeclaração é medida que se impõe, notadamente quando o embargantepretendearediscussãoda causa.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental contra decisão de minha lavra por meio da qual rejeitei os embargos de declaração nos embargos de declaração no recurso em habeas corpus.
+No presente reclamo, a defesa ratifica as alegações relativas à ausência de fundamentos da prisão preventiva, afirmando que a sentença condenatória não teria trazido novos fundamentos a corroborar a necessidade da prisão, mantida,segundo afirma, com base na gravidade concreta do delito e na quantidade de drogas apreendidas.
+Requer, assim, a reconsideração do decisumou o julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EMHABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTO AO DECRETO PRISIONAL PRIMITIVO. PREJUDICIALIDADE DA IMPETRAÇÃO NO PONTO. IMPOSSIBILIDADE DE ANÁLISE DOS NOVOS FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. OMISSÃO E CONTRADIÇÃO NÃO DEMONSTRADAS. INOCORRÊNCIA. REDISCUSSÃO DE MATÉRIA. RECURSO DESPROVIDO.
+1.In casu, da leitura da sentença condenatória, verifica-se que foi agregado novo fundamento ao decreto prisional primitivo tendo em vista que mantidaa custódia também em razão de o réu ter respondido ao processo acautelado.Os novos fundamentos devem ser submetidosao Tribunal a quo antes de serem aqui analisados, sob pena de se incidir em indevida supressão de instância.
+2. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.Sem a demonstração das hipóteses de cabimento, a rejeição dos embargosdedeclaração é medida que se impõe, notadamente quando o embargantepretendearediscussãoda causa.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Por ocasião da prolação de sentença condenatória, consoante destacado, o Magistrado de primeiro grau manteve a custódia cautelar do réu agregando fundamentos novos ao decreto prisional- uma vez que considerou, também, o fato de ter respondido ao processo acautelado,nos termos do seguinte trecho,in verbis:
+"Considerando que o Réu permaneceu segregado durante todo o processo; a gravidade concreta do delito em apreço, bem como a quantidade da droga apreendida; infere-se que a sua custódia continua necessária para resguardar a ordem pública e assegurar a aplicação da Lei Penal, motivo pelo qual, atendendo ao disposto no art. 387, §1.º, CPP, nego-lhe a possibilidade de recorrer em liberdade"(fl. 218).
+Conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, a alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória torna superada a alegação trazida em recurso que ataca a motivação dadecreto primevo, devendo os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelarserem submetidos à análise do Tribunal de origem, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1.A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 6/8/2019, DJe 19/8/2019).
+AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS.TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. PENA DE 09 (NOVE) ANOS DE RECLUSÃO EM REGIME FECHADO. NOVOS FUNDAMENTOS.PREJUDICIALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Regimento Interno desta Corte (arts. 34, XX) permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+II -A superveniência de sentença condenatória poderá caracterizar novo título judicial quando forem inseridos novos fundamentos para a segregação cautelar, sendo capaz de prejudicar o writ. In casu, sobreveio sentença condenatória em desfavor do ora agravante, condenando-o à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto art 33, § 1º, II, da Lei 11.343/2006. Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva.
+III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na PET no RHC 106.567/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/3/2019, DJe 2/4/2019).
+Nesse contexto, reitero que não houvea omissão ou contradição alegadas nos aclaratórios, sendo certo que, na ocasião,a pretensão da defesa teria sido apenasde modificação do julgado, com arediscussão da matéria.
+Ante o exposto, voto no sentido negar provimento ao presente agravo regimental.
