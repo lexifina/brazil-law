@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado (fls. 38-46, e-STJ):
+DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO PELA VIA ADMINISTRATIVA, APÓS AJUIZADA A AÇÃO. EXTINÇÃO DO PROCESSO POR PAGAMENTTO DA DÍVIDA. AUSÊNCIA DE TRINGULARIZAÇÃO PROCESSUAL. EXTINÇÃO DA EXECUÇÃO SEM A CONDENAÇÃO EM VERBA HONORÁRIA. RECURSO IMPROVIDO. DECISÃO UNÍVOCA.
+1. Na presente execução fiscal, tem-se que a parte executada, a Sra. MARIA FERNANDES DE ALMEIDA, antes da sentença vergastada (fls. 14), datada de 14/01/2016, decidiu pagar espontaneamente os créditos constantes da CDA de fls. 04/06. Essa informação, inclusive, foi veiculada em petição (fls. 11), protocolada no dia 23/12/15, em que o Município de Camaragibe requereu a extinção da ação com azo no art. 156, inciso I do CTN c/c Art. 794, inciso I do CPC/73.
+2. Tendo em vista a ausência de triangularização processual nos autos, a controvérsia cinge-se quanto ao cabimento, ou não, no caso presente, da condenação do ora apelado ao pagamento de verba honorária, tendo em conta que o executado efetuou o pagamento do débito fiscal em 17/12/15 (fls. 12), após o ajuizamento da ação (16/09/10), porém antes do ato citatório, que não chegou a se concretizar de forma válida nos autos.
+3. Em que pese a argumentação expendida pelo Município apelante, procedeu com acerto o Juízo a quo em não condenar a parte executada nos honorários de advogado, haja vista que o pagamento do débito se deu pela via administrativa, antes de efetivada a citação válida.
+4. Com efeito, o só ajuizamento da demanda não constitui a relação processual, que somente restará aperfeiçoada com a citação válida da parte demandada, tornando a coisa litigiosa, nos termos do art. 219, caput do CPC/73 e atual art. 240, caput, do CPC/15.
+5. À unanimidade de votos, negou-se provimento ao presente apelo.
+Os Aclaratórios foram rejeitados (fls. 63-72, e-STJ).
+O recorrente alega haver violação dos arts. 85, § 10, 90, 924, II, e 925do CPC/2015, requerendo, em suma, a condenação da parte oposta em honorários sucumbenciais(fls. 82-90, e-STJ).
+Recurso Especial admitido na origem (fl. 93, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22/3/2021.
+Da irresignação não se pode conhecer.
+O acórdão assim foi lavrado (fl. 44, e-STJ, grifou-se):
+Na presente execução fiscal, tem-se que a parte executada, a Sra. MARIA FERNANDES DE ALMEIDA, antes da sentença vergastada (fls. 14), datada de 14/01/2016, decidiu pagar espontaneamente os créditos constantes da CDA de fls. 04/06. Essa informação, inclusive, foi veiculada em petição (fls. 11), protocolada no dia 23/12/15, em que o Município de Camaragibe requereu a extinção da ação com azo no art. 156, inciso I do CTN c/c Art. 794, inciso I do CPC/73.
+Tendo em vista a ausência de triangularização processual nos autos, a controvérsia cinge-se quanto ao cabimento, ou não, no caso presente, da condenação do ora apelado ao pagamento de verba honorária, tendo em conta que o executado efetuou o pagamento do débito fiscal em 17/12/15 (fls. 12), após o ajuizamento da ação (16/09/10), porém antes do ato citatório, que não chegou a se concretizar de forma válida nos autos. Em que pese a argumentação expendida pelo Município apelante, procedeu com acerto o Juízo a quo em não condenar a parte executada nos honorários de advogado, haja vista que o pagamento do débito se deu pela via administrativa, antes de efetivada a citação válida.
+Com efeito, o só ajuizamento da demanda não constitui a relação processual, que somente restará aperfeiçoada com a citação válida da parte demandada, tornando a coisa litigiosa, nos termos do art. 219, caput do CPC/73 e atual art. 240, caput, do CPC/15.
+Verifica-se que o Tribunal de origem aplicou oprincípio da causalidade conforme a dinâmica processual dos autos, e perquirir quem deu causa à demanda para modificar tal entendimento esbarra na Súmula 7 do STJ.
+Vejam-se precedentes, com grifos acrescidos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. ATRIBUIÇÃO À FAZENDA PÚBLICA. PRINCÍPIO DA CAUSALIDADE. MODIFICAÇÃO DO JULGADO QUE DEMANDA O REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE EM RECURSO ESPECIAL. AGRAVO REGIMENTAL DO MUNICÍPIO DE
+UBERABA/MG A QUE SE NEGA PROVIMENTO.
+1. Na espécie, o Tribunal de origem afirmou, expressamente, que a Fazenda Pública deu causa ao ato de constrição, sendo possível a sua condenação em honorários advocatícios. Assim, rever tal entendimento, conforme pretendido, demanda incursão no campo fático-probatório dos autos, o que é vedado nesta Corte, por incidência da Súmula 7 do STJ.
+2. Registre-se que a Primeira Seção do STJ, ao julgar o REsp. 1.111.002/SP, de relatoria do eminente Ministro MAURO CAMPBELL MARQUES, consolidou o entendimento segundo o qual, tendo por base o princípio da causalidade, deve-se perquirir quem deu causa à demanda a fim de imputar-lhe o ônus pelo pagamento dos honorários, sendo tal verificação vedada nesta instância especial, ante o óbice da Súmula 7/STJ.
+3. Agravo Regimental do MUNICÍPIO DE UBERABA/MG a que se nega provimento. (AgRg no AREsp 633.842/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, 22/04/2019)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. CONDENAÇÃO DA EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em
+07/12/2017, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se, na origem de Agravo de Instrumento, interposto em face de decisão que julgara extinta execução fiscal, por suspensão da exigibilidade dos créditos tributários, sem fixação de verba honorária.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "restou comprovado o erro do contribuinte, que informou códigos de receita diversos para o tributo declarado em DCTF e compensado em DCOMP, conforme documentos juntados, pelo que se afasta a possibilidade de condenação da exequente em verba honorária", e que, "ainda que venha a prevalecer a extinção determinada na origem, a PFN não poderia ser condenada em verba honorária, por não ter dado causa às inscrições", de modo que, em razão do princípio da causalidade, não haveria motivo para a condenação do Fazenda Nacional ao pagamento de honorários sucumbenciais. Assim, a modificação das conclusões a que chegou a Instância a quo - de modo a acolher a tese da parte ora recorrente, em sentido contrário - demandaria, inarredavelmente, o revolvimento do acervo probatório dos autos, o que é inviável, em sede de Recurso Especial, em face da Súmula 7 desta Corte.
+IV. Agravo interno improvido. (AgInt no REsp 1.572.352/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 15/5/2018)
+PROCESSUAL CIVIL. CONDENAÇÃO EM HONORÁRIOS. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. É firme o entendimento deste Tribunal Superior de que não cabe ao STJ rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar revolvimento do contexto fático-probatório, inviável em sede de recurso especial à luz da Súmula 7 do STJ.
+(..) 3. Agravo interno desprovido. (AgInt no AREsp 631.783/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 23/11/2017)
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
