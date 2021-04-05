@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por COMERCIO DE CARNES LAGOA DOURADA LTDA E OUTRO, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a,b, e c da CF, contra acórdão proferido pelo Tribunal Regional da 4ª Região, assim ementado (fl. 38):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. DÍVIDA ATIVA E NULIDADE.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 5º, XXXV, da Constituição Federal; e 156, 870 e 871 do CPC/2015. Sustenta, em síntese, ser cabível a dilação do prazo para o pagamento dos honorários periciais, sendo "evidente o error in judicando no Acórdão ora hostilizado, pois, ao determinar a manutenção da decisão interlocutória proferida pelo juízo de piso, houve justo impedimento para que se lograsse êxito em possibilitar o recolhimento dos valores solicitados na proposta de honorários redigida pelo expert, não havendo, tal como entenderam, qualquer intenção de retardar a marcha processual rumo às etapas processuais subsequentes." (fl. 60).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, XXXV da Constituição Federal.
+Ademais, matéria pertinente aos arts. 156, 870 e 871 do CPC/2015 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, ainda em relação aos arts. 156, 870 e 871 do CPC/2015, nota-se que os referidos dispositivos legais não contém comando capaz de sustentar a tese recursal de ser cabível a dilação do prazo para o pagamento dos honorários periciais e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
