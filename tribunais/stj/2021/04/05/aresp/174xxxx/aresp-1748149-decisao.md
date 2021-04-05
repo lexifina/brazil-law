@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por JOSÉ MARCHESANI, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 351):
+TRIBUTÁRIO AGRAVO INTERNO - MUNICÍPIO DE JAÚ TAXAS DE LIMPEZA PÚBLICA, DE CONSERVAÇÃO DE VIAS, DE LOGRADOUROS PÚBLICOS E DE SERVIÇOS DE BOMBEIRO Insurgência contra a r. decisão que indeferiu o pedido de concessão da justiça gratuita - Superveniência de acórdão prolatado por essa C. Câmara que não conheceu do recurso Perda de objeto do presente recurso. Agravo interno prejudicado.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 8º, 99, § 2º, 101, § 2º, 1.021, §§ 1º e 2º do CPC/2015. Sustenta, além da existência de dissídio jurisprudencial, que: (I) o agravo interno e o agravo de instrumento deveriam ter sido julgados conjuntamente; (II) "se não havia nos autos elementos suficientes para concessão da benesse, deveria ter sido oportunizada a juntada de documentos que assim comprovasse a situação do mesmo, os quais foram apresentados de plano no Agravo Interno apresentado perante o Tribunal de origem, mas que, infelizmente não fora apreciado e julgado sob a justificativa de perda de objeto" (fl. 359); e (III) "não foi intentado recurso de Agravo de Instrumento contra decisão denegatória de gratuidade judiciária e sim contra encaminhamento dos autos principais para o Juizado Especial Cível;" (fl. 360).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+A matéria pertinente aos arts. 8º, 99, § 2º, 101, § 2º, 1.021, §§ 1º e 2º do CPC/2015 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelo mesmo motivo, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
