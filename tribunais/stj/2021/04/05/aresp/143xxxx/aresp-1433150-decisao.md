@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por RENATO MENEZES DE GOES contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 1366):
+PRESCRIÇÃO. AÇÃO ANULATÓRIA DE DOAÇÕES INOFICIOSAS CUMULADA COM SONEGADOS. OCORRÊNCIA DE PRESCRIÇÃO. "DIES A QUO" DO PRAZO PRESCRICIONAL QUE SE INICIA NA DATA DA PRÁTICA DO ATO DE DISPOSIÇÃO. PRESCRIÇÃO QUE COMEÇA A CORRER A PARTIR DO ATO DE LIBERALIDADE QUE SE PRETENDE INVALIDAR. POSIÇÃO DOUTRINÁRIA PREVALENTE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECONHECIMENTO DA PRESCRIÇÃO QUANTO ÀS PRETENSÕES DO DEMANDANTE, APICANDO- SE OS PRAZOS PERTINENTES (DE VINTE ANOS, CONFORME ARTIGO 177 DO CÓDIGO CIVIL DE 1916, E DE DEZ ANOS, DE ACORDO COM O ARTIGO 205 DO ESTATUTO CIVIL DE 2002). RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO, ANULADA A SENTENÇA DE IMPROCEDÊNCIA E PREJUDICADO O CONHECIMENTO DO RECURSO DE APELAÇÃO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1564-1570).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 10, 489 e 1022 do CPC, pois, além de não estar devidamente fundamentado, o acórdão não analisou de forma adequada as proposições jurídicas postas na apelação e nos embargos de declaração. Assevera que não foi analisado o fato de que houve interrupção da prescrição com o ajuizamento do protesto e que a pretensão da recorrente nasceu com o transito em julgado da ação cautelar de exibição de documentos quando teve acesso aos documentos (princípio da actio nata) em 11/05/2010. Pede a nulidade do acórdão. Aduz que é evidente a violação aos arts. 202, parágrafo único, e 205 do CC, considerando que a prescrição foi interrompida em 2006, reiniciando em 2010, com o transito em julgado da ação de exibição, e a presente ação foi proposta em 2016, não decorrido o prazo decenal do art. 205 do CC. Aduz que o prazo prescricional da ação de sonegados iniciou-se com o encerramento do inventário e a homologação da partilha ocorrida em 30/09/2013. Pede seja afastada a prejudicial de mérito com retorno dos autos à origem para que prossiga no julgamento.
+Foram apresentadas contrarrazões (e-STJ fls. 1575-1587).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 1588-1589), o que ensejou a interposição do presente agravo.
+Intimado, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (e-STJ fls. 1697-1698).
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A pretensão recursal merece, desde logo, provimento quanto à alegada ofensa ao disposto no art. 1.022 do Código de Processo Civil de 2015.
+Com efeito, nos embargos de declaração opostos em face do acórdão recorrido, a parte recorrente apontou omissões relevantes no julgado, porquanto não teria se manifestado sobre questões indispensáveis ao deslinde da causa, notadamente, que no dia 08/02/2006 houve interrupção do prazo prescricional. Nos embargos de declaração contou que (e-STJ fls. 1489-1490):
+Não foi analisado pelo V. Acórdão o fato juridicamente relevante, no qual o embargante ajuizou AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS em face das embargadas, distribuída em 08.02.2006, cuja mesma teve seu curso perante a 274 Vara Cível Fórum Central da Capital, processo n. 564.01.2006.007830-7/000000-000, n. de ordem 0325/06, cuja cópia segue em anexo.
+ ..
+Noutra quadra, o embargante ajuizou protesto interruptivo de prescrição em face das embargadas, distribuída em 08.02.2006, registrado sob o n22006.114955- 3, que tramitou na 4ã Vara Cível do Foro Central de São Paulo - Capital, conforme se vê dos documentos em anexo.
+Com o ajuizamento do protesto interruptivo de prescrição, o curso da mesma resta interrompido, consoante a regra do artigo 202 do CC.
+No entanto, no julgamento dos embargos declaratórios, o Tribunal de origem consignou que(e-STJ fls. 1588-1589):
+Cuida-se de ação declaratória cumulada com sonegados proposta por herdeiro sob o fundamento de ter sido omitido do acervo a partilhar cotas e ações societárias. Julgada improcedente, sobreveio o apelo, que se encontra prejudicado.
+Isto porque o reconhecimento da prescrição é de rigor.
+Como já tive a oportunidade de salientar no julgamento da Apelação Cível nº. 495.799.4/6-00, da Comarca de São Paulo, da qual fui relator designado, a questão do dies a quo para a incidência do prazo prescricional na espécie é polêmica, sobretudo na vigência do Código Civil de 1916.
+ ..
+No caso em apreço, é aplicável o prazo prescricional de vinte anos, previsto no artigo 177, do Código Civil de 1916. Todavia, com o advento do Código Civil de 2002, houve a redução do sobredito prazo para dez anos, a teor do artigo 2015.
+Dessa maneira, com fulcro no artigo 2.028 do Código Civil de 2002, é preciso apurar se, ao tempo em que começou a viger o referido diploma legal, já havia transcorrido mais de metade do prazo prescricional, uma vez que, se assim não for, a prescrição será estabelecida pela novel legislação.
+O requerente afirma que as transferências societárias aqui combatidas foram realizadas quando seu genitor ainda se encontrava casado com a sua genitora (fl. 892), falecida em 31.10.1995.
+Assim, à vista do término da sociedade conjugal, até a entrada em vigor do Código Civil de 2002 (11 de janeiro de 2003), transcorreram 07 anos do prazo prescricional.
+De conseguinte, aplica-se o prazo decenal do Código Civil de 2002, a correr da vigência deste diploma legal.
+Dessa maneira, apurando-se o prazo pertinente e a data da distribuição da presente ação (04/02/2016), verifica-se que se encontra prescrita a pretensão inaugural.
+Anote-se que a ação de sonegados proposta pelos irmãos do ora demandante, Octávio Menezes de Goes e Dinorah Menezes de Goes Decanini (fls. 1035/1043), foi extinta por esta C. Câmara, no Agravo de Instrumento nº 2189676-45-2014.8.26.0000, ante o reconhecimento de ilegitimidade passiva de Maria Célia Saba.
+Destarte, é o caso de julgar extinto o feito, com resolução de mérito, com base no artigo 487, II, do Código de Processo Civil, em decorrência do reconhecimento dos efeitos da prescrição.
+Consoante se vê, a Corte Estadual deixou de apreciar o tema suscitado pela recorrente nos embargos opostos, razão pela qual fica evidenciada a violação do art. 1.022 do CPC/2015, uma vez que não foi prestada a jurisdição de forma integral.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1819895/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/03/2020, DJe 07/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU A DENUNCIAÇÃO DA LIDE, NOMEAÇÃO À AUTORIA E PRODUÇÃO DE PROVA ORAL. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre questões fáticas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra as omissões existentes.
+2. Agravo interno provido para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, para que outro seja proferido e, assim, sanados os vícios constatados.
+(AgInt no REsp 1681636/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe 25/03/2020)
+Assim, sendo relevantes as questões aventadas na origem, impõe-se a acolhida do recurso especial para se reconhecer a omissão do julgado e determinar a devolução dos autos à origem para a apreciação dos temas apontados nos embargos, uma vez que se trata de matéria insuscetível de ser objeto de prequestionamento ficto, nos moldes do art. 1.025 do CPC/2015, e, portanto, de ser, desde logo, julgada por esta Corte Superior.
+Ante o exposto, conheço do agravo para, desde logo, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que seja sanada a omissão.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, § 4º, do NCPC).
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. CONFIGURAÇÃO DAS OMISSÕES APONTADAS.
+AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA, DESDE LOGO, DAR PROVIMENTO AO RECURSO ESPECIAL.
