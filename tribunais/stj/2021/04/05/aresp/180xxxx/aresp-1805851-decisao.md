@@ -1,0 +1,55 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CAENGE S.A - CONSTRUCAO ADMINISTRACAO E ENGENHARIA - EM RECUPERACAO JUDICIAL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PENHORA SOBRE ESTABELECIMENTO COMERCIAL. GARANTIA HIPOTECÁRIA OFERECIDA NO CONTRATO DE MÚTUO. SÚMULA 451 DO STJ. EXCESSO DE EXECUÇÃO. FALTA DE INDICAÇÃO DE OUTROS BENS. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. A Súmula nº 451 do Superior Tribunal de Justiça estabelece que: "É legítima a penhora da sede do estabelecimento comercial". Ademais, os imóveis foram ofertados pelo próprio devedor em garantia hipotecária do mútuo contraído junto a instituição financeira. Soma a isso, o fato desta execução tramitar há mais de cinco anos.
+2. Se o devedor não indica outros bens passíveis de responderem pela dívida, não há que se falar em desproporcionalidade, excesso na execução ou onerosidade excessiva em prol do executado.
+3. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos art. 489, §1º, IV, e 1.022, II, 524 inciso VII; art. 805, art. 831 e art. 833 do Código Processo Civil,1.142 do Código Civil,6º caput e § 4º,52 inciso III, 126 e 47 da Lei 11.101/2005.
+Sustenta, em síntese, o recorrente: "ARecorrente requereu a desconstituição da penhora de sua sede empresarial por se tratar de medida excepcional, uma vez que se tratou de primeiro atoexpropriatório, sem que fosse atendida a ordem de penhora expressa no art. 835 do CPC/15. Em que pese a Sumula 451 do STJ permitir a penhora da sede do estabelecimento comercial, para que se faça, deve-se exaurir todos os atos executivos disponíveis ao Exequente, ora Recorrido, disposta ainda no mesmo artigo 835 CPC/15. A penhora da sede da empresa deve necessariamente ser precedida do exaurimento dos meios executivos colocados à disposição do credor, por se tratar de medida excepcional.".
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 549.
+É o relatório.
+DECIDO.
+2.Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+3.No que se refere à prova produzida nos autos, esclareço que, como destinatário final, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento, tendo-o feito no seguinte sentido:
+Em análise aos documentos dos autos, vislumbra-se que a agravante não juntou documentos que demonstrassem a essencialidade dos bens penhorados para o seu funcionamento.
+Noutro giro, o princípio da preservação da empresa ora invocado, próprio do direito falimentar, destina-se à recuperação de sociedades em estado de insolvência e reclama procedimento próprio, perante o juízo competente. Assim, não guarda imediata pertinência com o procedimento de impugnação à penhora.
+Outrossim, a Súmula nº 451 do Superior Tribunal de Justiça estabelece que: "É legítima a penhora da sede do estabelecimento comercial". E, na situação em tela, não existem outros bens aptos a satisfazer o débito, cuja execução tramita há mais de cinco anos.
+Chamo à atenção para o fato da devedora deixar indicar bens que pudessem responder pela dívida, embora alegue que os imóveis, dentre os quais situa-se a sede de empresa, seria essencial para o exercício da atividade empresarial e superaria em muito o valor da execução.
+Além disso, os bens penhorados foram oferecidos pela recorrente como garantia hipotecária do contrato de mútuo, o qual respalda a execução. Portanto, seria contraditório acolher, nesta etapa processual, a alegação de impenhorabilidade (ID 31172759 - p. 83-84 - autos na origem), quando foi o próprio mutuário quem ofereceu os bens contritos em garantia.
+De mais a mais, o argumento da desproporcionalidade tampouco merece prosperar, ante a ausência de indicação de outros bens passíveis de penhora e que poderiam evidenciar comportamento arbitrário do credor, em contrariedade ao art. 805 do Código de Processo Civil.
+Some-se a isso o fato de que a constrição alcançará fração ideal dos imóveis, nos limites necessários para a satisfação da dívida, de maneira que eventual excesso será devolvido e, a depender do êxito do leilão, sequer será alienada a sua totalidade.
+(..)
+A recorrente não rebateu de forma específica e suficiente, afundamentação do acórdão recorrido, transcrita acima, em negrito, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+4.2.O acolhimento da pretensão recursal, a fim de averiguar se a relativização da ordem da penhora é justificável ou não e se o princípio da menor onerosidade do devedor foi obedecido, exigiria, no presente caso, a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que atraio óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL CUMPRIMENTO DE SENTENÇA. ALEGADA PENHORA EXCESSIVA. NÃO OCORRÊNCIA ALEGADA VIOLAÇÃO AO ARTIGO 1.022, INCISO I, DO CPC DE 2015. OMISSÃO.NÃO OCORRÊNCIA. RELATIVIZAÇÃO DA ORDEM DE PENHORA E APLICAÇÃO DO PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação ao artigo 1.022, inciso I, do do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. A Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+2. O acolhimento da pretensão recursal, a fim de averiguar se a relativização da ordem da penhora é justificável ou não e se o princípio da menor onerosidade do devedor foi obedecido, exigiria, no presente caso, a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1151620/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE VEÍCULOS DA EMPRESA. EXCESSO NA EXECUÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. O Tribunal de origem, com base nos elementos de prova, concluiu que a constrição dos veículos de representação não caracteriza excesso na execução nem violação do princípio da menor onerosidade.
+Alterar esse entendimento é inviável em recurso especial.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 164.299/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/10/2014, DJe 31/10/2014)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA EMBARGADA.
+1. Quanto à alegação de excesso de penhora, a Corte de origem afastou tal ocorrência. Rever tal conclusão demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+2. Com relação ao alegado "erro do valor do bem penhorado", o Tribunal a quo consignou a impossibilidade de nova avaliação do imóvel penhorado, na hipótese. Alterar tal conclusão também encontra óbice na Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1375761/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/11/2019, DJe 22/11/2019)
+AGRAVO REGIMENTAL - EXCESSO DE PENHORA - VERIFICAÇÃO - APÓS A AVALIAÇÃO DO BEM - SÚMULA 7/STJ - ILIQUIDEZ DO IMÓVEL - DIFICULDADE EM SE APURAR A DÍVIDA - SATISFAÇÃO DO CRÉDITO - RECUSA - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+I. O excesso de penhora não pode ser verificado antes da avaliação do bem, não se podendo, em sede de recurso especial, examinar a questão sobre o referido excesso, face à incidência da Súmula 7/STJ II. A iliquidez do imóvel ou a dificuldade em se apurar a dívida com o mesmo bem e satisfazer o crédito constitui motivo hábil a ensejar a recusa do bem.
+III. A agravante não trouxe qualquer argumento capaz de modificar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+Agravo improvido.
+(AgRg no Ag 709.164/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/09/2008, DJe 30/09/2008)
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
