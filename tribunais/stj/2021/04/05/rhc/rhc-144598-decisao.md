@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por ARTUR RANGOUSSIS BREDA contra acórdão oriundo do Tribunal de Justiça do Estado de Alagoas (HC n. 0806935-94.2020.8.02.0000).
+Depreende-se dos autos que, em 11/2/2020, foi decretada a prisão preventiva do recorrente,denunciado como incurso no art. 121, § 2º, I e IV, do Código Penal.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 743):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. PACIENTE ACUSADO DE DUPLO HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE DIREITO A PRISÃO DOMICILIAR COM BASE NA RECOMENDAÇÃO 62 DO CNJ. NÃO PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO DO JUÍZO DE ORIGEM DEMONSTRA A NECESSIDADE DA PRISÃO, COMO GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MODUS OPERANDI. AMEAÇA A TESTEMUNHAS. POSSIBILIDADE DE REITERAÇÃO DELITIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PROCESSO COM AUDIÊNCIA DE INSTRUÇÃO INICIADA. AGUARDANDO CONTINUAÇÃO JÁ DESIGNADA. ORDEM DENEGADA.
+I  A prisão do paciente se mostra necessária em razão do modus operandi empregado no delito (duplo homicídio qualificado motivado por vingança), bem como para evitar reiteração delitiva devido ao paciente possuir apontamentos criminais. A Prisão é necessária, também, para a conveniência da instrução criminal devido a notícia de que o paciente foi até a residência de uma testemunha e ameaçou com vários disparos na sua residência.
+II - Da contagem aritmética dos prazos, nota-se que da prisão (11/02/20) até o julgamento do presente writ passaram-se aproximadamente 09 (nove) meses, tempo este considerado um pouco excessivo, todavia, considerando a fase atual do processo (aguardando a realização da audiência de instrução) e a gravidade da acusação (duplo homicídio qualificado), aliado a complexidade do feito, revelada pelo número de réus (2) e vítimas (2), além da necessidade de produção de prova testemunhal e pericial, autorizam a manutenção da prisão preventiva do paciente.
+III - Habeas Corpus Denegado.
+A Defensoria reitera, no presente recurso, a alegação de ocorrência de constrangimento ilegal em razão do excesso de prazo, já que "passados cerca de 11 (onze) meses da prisão, o paciente ainda não foi submetido ao julgamento popular, não tendo ele, nem a defesa, contribuído de qualquer forma para a dfemora na tramitação processual" (e-STJ fl. 756).
+Diante disso requer, liminarmente e no mérito,a revogação da prisão preventiva dorecorrente, determinando-se a imediata expedição do alvará de soltura, emdecorrência do flagrante constrangimento ilegal a que está sendosubmetido.
+É, em síntese, o relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeascorpus, não possui previsão legal, tratando-se de criação jurisprudencialque visa a minorar os efeitos de eventual ilegalidade que se revele depronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no atoora impugnado a justificar o deferimento da medida de urgência.
+De acordo com a orientação desta Corte Superior, os prazos processuais não são peremptórios. Da mesma sorte, o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético. Há de ser realizada pelo julgador uma aferição do caso concreto, de acordo com as suas peculiaridades, em atenção aos princípios da razoabilidade e da proporcionalidade.
+Desse modo, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para aferir a existência de constrangimento ilegal.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau, em especial o envio de cópia de eventuais decisões sobre pedidos de revogação/relaxamento da prisão preventiva, e ao Tribunal de Justiça, ressaltando-se que deverão noticiar a esta Corte Superior qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
