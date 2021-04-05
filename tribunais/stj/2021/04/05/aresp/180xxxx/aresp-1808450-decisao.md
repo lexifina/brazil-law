@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial com fundamento no art. 105, inciso III, letra"a", da Constituição Federal, manejado frente a v. acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DEREINTEGRAÇÃO DE POSSE - ALEGADA USUCAPIÃO ESPECIAL - POSSECOM OPOSIÇÕES - NÃO PREENCHIMENTO DOS REQUISITOS - DECISÃOMANTIDA - RECURSO IMPROVIDO. Para configuração da usucapião especial, prevista no art. 1.240, do Código Civil, é necessário o preenchimento de três requisitos, quais sejam: o tempo ininterrupto e sem oposição, a posse mansa e pacífica e a intenção de ser dono. Nos autos em tela, a Agravante, embora provado o lapso temporal da posse exercida, não a exerceu sem oposição bem como inexiste o animus domini, não preenchendo, portanto, os requisitos necessários para sua pretensão." (fl. 394, e-STJ).
+Opostos embargos de declaração, restaram acolhidos, sem efeitos infringentes, para sanar omissão.
+Arecorrente aponta violação do art. 1.219, do Código Civil, alegando, em síntese, que "(..)a lei ao estabelecer o ressarcimento de todas as benefeitorias realizadas no imóvel, só tem como condição a boa-fé do detentor da coisa e esta não foi sequer combatida, veja-se a lei: (..)Assim, conforme restou julgado pelos Vs. Acórdãos, a agravante não terá o ressarcimento das benfeitorias, pois entregue o bem a agravada, empresa de crédito imobiliário, que tem por cerne de seus negócios, a comercialização de bem imóvel, não terá qualquer compromisso em mantê-lo, na condição em que o recebe, para que perícia seja nele realizada afim de averiguar as benfeitorias e seus respectivos valores, para então indenizar a agravante" (fl. 441, e-STJ).
+É o relatório. Decido.
+Da leitura do acórdão recorrido, verifica-se que atesedefendidapelarecorridadisposta noart. 1.219, do Código Civil, não se encontracontempladana fundamentação disposta pelo Tribunal de origem para solução da controvérsia, delenão se vislumbrando o necessário prequestionamento.
+Com efeito, a Corte a quo limita-se a afirmar que não é razoável a concessão do pedido da agravantesob pena de ineficácia da decisão de procedência do pedido principal, pois "ressalta-se, por oportuno, que aqui não se está indeferindo a indenização pelas benfeitorias, mas tão somente indeferindo o pedido de manutenção na posse do imóvel até que tal ponto seja decidido pelo magistrado a quo, após dilação probatória" (e-STJ, fls. 427/428), contudo não analisa as consequências jurídicas da interpretação doreferidodispositivo, para que a aplicação da regra não se dissocie da finalidade e dos princípios que lhe dão suporte.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Incidência, pois, no ponto, das Súmulas 282 e 356 do STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. PEDIDO DE RESERVA. AUSÊNCIA DE PREQUESTIONAMENTO. PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. INEXISTÊNCIA. PRECEDENTES. ANTECIPAÇÃO DE TUTELA. PRESENÇA DOS REQUISITOS. REAPRECIAÇÃO DE FATOS E PROVAS. INCIDÊNCIA DO VERBETE Nº 7/STJ. IMPROVIMENTO.
+I. Firmou-se a jurisprudência do Superior Tribunal de Justiça, em reiterados precedentes, no sentido de que a ausência de prequestionamento da questão federal no acórdão impede a admissibilidade do recurso especial, ainda que a alegada violação tenha surgido por ocasião do julgamento procedido no 2º grau.
+(..)
+IV. Agravo regimental a que se nega provimento." (AgRg no Ag 1.282.939/SP, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 23/11/2010, grifo nosso.)
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. DEPÓSITOS EM CADERNETA DE POUPANÇA. TERMO INICIAL DA CORREÇÃO MONETÁRIA.
+1. Se a ofensa surge com a prolação do acórdão recorrido, é necessária a interposição de embargos de declaração para fins de prequestionamento.
+(..)
+3. Agravo regimental improvido." (AgRg no Ag 545.303/PR, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 15/12/2008, grifo nosso)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
