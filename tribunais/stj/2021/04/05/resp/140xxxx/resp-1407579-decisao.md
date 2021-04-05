@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por PAULO ROBERTO PETER em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE COBRANÇA DE HONORÁRIOS CONTRATUAIS. PATROCINADO QUE ERA BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INEXIGIBILIDADE.
+Resta incontroversa nos autos a prestação dos serviços advocatícios prestados pelo autor aos ora réus. De outro lado, não lograram os réus demonstrar fato impeditivo, modificativo ou extintivo do direito alegado pelo autor, mostrando-se devido o valor pleiteado a título de honorários advocatícios contratuais.
+Outrossim, nos termos do art. 3.2, V, da Lei n.1.060/1950, a assistência judiciária compreende a isenção dos honorários de advogado.
+À semelhança do que ocorre com os honorários sucumbenciais, os honorários convencionais ou arbitrados somente serão exigíveis nos casos em que, no prazo de cinco anos, a contar da decisão final, seja demonstrada a alteração das condições financeiras da parte beneficiada com AJG. Inteligência do art. 12 da Lei 1.060/50.
+APELO DESPROVIDO.
+A parte recorrente, em suas razões recursais alega violação aos artigos 3º, V, e 12 da Lei 1.060/50 e 22 da Lei 8.906/94do Código de Processo Civil, bem como divergência jurisprudencial. Sustenta, em síntese, "ao conferir isenção de honorários contratuais aos recorrentes abrigados pela AJG, feriu o v. acórdão a garantia legal dos profissionais inscritos na OAB receberem a contra-prestação por seus serviços prestados" (e-STJ, fl. 359).
+É o relatório. Passo a decidir.
+No que diz respeito à exigibilidade dos honorários contratuais a Corte de origem manifestou-se nos seguintes termos:
+"Isso porque, nos termos do art. 32, V, da Lei n. 1.060/1950, a assistência judiciária compreende a isenção dos honorários de advogado.
+Não há, no referido dispositivo, qualquer alusão à isenção parcial, ou seja, não há uma permissão especial para a cobrança de honorários convencionais. (..)
+Por outro lado, é importante reconhecer que não há vedação expressa à celebração de contrato de honorários com o beneficiário da assistência judiciária gratuita.
+No entanto, à semelhança do que ocorre com os honorários sucumbenciais, os honorários convencionais somente serão exigíveis nos casos em que o êxito obtido na demanda venha a alterar as condições financeiras da parte.
+(..)
+Em outras palavras, mesmo que convencionado entre as partes honorários advocatícios pelo trabalho desenvolvido pelo autor/apelante réus/apelados, nos autos da ação em que atuou como patrocinador dos esses somente podem ser exigidos se demonstrado, no prazo de cinco anos, a efetiva alteração da condição econômica da parte, seja com o recebimento do crédito a ela atribuído na ação em que atuou o causídico, seja em decorrência de outras circunstâncias. Veja-se que os documentos vindos aos autos (fls. 18/105) demonstram - ainda que não apreciado expressamente - a concessão tácita do benefício da AJG aos réus/apelados nos autos da ação declaratória defalsidade de assinatura a que responderam. Veja-se ainda que a referida ação restou julgada improcedente.
+Aduza-se que este tribunal tem entendido que, em situações como esta, deve ocorrer a presunção tácita de deferimento do beneplácito, em homenagem ao princípio constitucional do amplo acesso ao judiciário. (..)Nesse contexto, conclui-se que, ao contrário do que decidiu o magistrado a quo, pode o causídico pleitear o pagamento dos honorários advocatícios contratuais ainda que a parte patrocinada tenha sido beneficiária da AJG. Contudo, sua exigibilidade é que dependerá da alteração das condições de hipossuficiência da parte beneficiária.
+No caso, não restou demonstrada tal alteração, com o que inexigível o valor contratado, nos termos do art. 123 da Lei 1.060/50."(e-STJ, fls. 385/387)
+No entanto, a jurisprudência desta Corte Superior de Justiça manifesta-se no sentido de que que a verba honorária contratual não é alcançada pelos benefícios concedidos pela Lei nº 1.060/50. A propósito:
+PROCESSO CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. ADVOGADO PARTICULAR. CONTRATAÇÃO PELA PARTE. HONORÁRIOS ADVOCATÍCIOS AD EXITO. VERBA DEVIDA. DISPOSITIVOS LEGAIS ANALISADOS: ARTS. 1º, IV, 5º, XXXV E LXXIV, DA CF/88, 3º, V, 4º E 12 DA LEI Nº 1.060/50; E 22 DA LEI Nº 8.906/94.
+1. Ação ajuizada em 16.10.2009. Recurso especial concluso ao gabinete da Relatora em 04.10.2013.
+2. Recurso especial em que se discute se a assistência judiciária gratuita isenta o beneficiário do pagamento dos honorários advocatícios contratuais.
+3. Nada impede a parte de obter os benefícios da assistência judiciária e ser representada por advogado particular que indique, hipótese em que, havendo a celebração de contrato com previsão de pagamento de honorários ad exito, estes serão devidos, independentemente da sua situação econômica ser modificada pelo resultado final da ação, não se aplicando a isenção prevista no art.3o, V, da Lei nº 1.060/50, presumindo-se que a esta renunciou.
+4. Recurso especial provido.
+(REsp 1404556/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/06/2014, DJe 01/08/2014)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, para que fixe os honorários advocatícioscomo entender de direito.
+Publique-se.
