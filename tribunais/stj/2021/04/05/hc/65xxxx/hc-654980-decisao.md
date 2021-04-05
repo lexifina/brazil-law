@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Emerson Souza Silva- preso preventivamente pela suposta prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em decisão monocrática, indeferiu o pedido liminar no writ ali impetrado (Habeas Corpus n. 20263664-39.2021.8.26.0000), mantendo a decisão exarada pelo Juízo de Direito da 2ª Vara Criminal da comarca de São Paulo/SP (Processo n. 1513167-10.2020.8.26.0228).
+Alega-se, em síntese, constrangimento ilegal consistente na decretação da prisão preventiva do paciente e em nulidade decorrente de cerceamento de defesa durante a realização da audiência de instrução.
+Sustenta-se quenão pode o juiz decretar a revelia de paciente com Defensor constituído e com defesa ofertada e testemunhas arroladas. Muito menos aplicar multa de dez salários mínimos ao advogado (fl. 17).
+Postula-se, ao final, a concessão liminar da ordem para a expedição do contramandado de prisão, ou expedição de imediato o alvará de soltura, caso a prisão já tenha ocorrido (fl. 17) ea suspensão do processamento do feito, até análise do mérito do presente writ (fl. 18).
+É o relatório.
+A teor do Enunciado n. 691 da Súmula do Pretório Excelso,entende-se não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminarem açãoajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ora, no presente caso, o Relator da revisão criminal, ao indeferir o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+Ademais, acerca das questões ora trazidas, o Juízo singular assim asseverou (fl. 39 - grifo nosso):
+ ..
+O réu estava ciência da audiência, tendo sido intimado pelos meios indicados pelo advogadoconstituído, conforme certidão de f. 275.
+Não obstante, iniciada audiência com cerca de quinze minutos de tolerância, e após oencerramento da audiência, sendo decretava a revelia nos termos do artigo 367 do Código de ProcessoPenal, encerrado o procedimento pelo aplicativo Microsoft Teams, o réu veio ingressar no loby,conforme certificado à f. 280, demonstrando dessa forma inequívoca ciência da audiência, instruídopor seu advogado, este, que abandonou deliberadamente a audiência no momento em que seriainiciado depoimento da testemunha policial arrolada pelo Ministério Público.
+Portanto, réu ciente das condições impostas para que permanecesse em liberdade durante ocurso do processo, dentre as quais comparecimento obrigatório a todos os atos processuais,descumpriu tal condição, tornando-se revel.
+Destaca-se que a audiência realizada por meio eletrônico tem amparo legal e foi aceita pelosTribunais Superiores, conforme ResoluçãoCNJnº 354/2020.
+A ausência deliberada em audiência demonstrou absoluta desídia e menosprezo àdeterminação judicial, bem como manifesto propósito de dificultar a instrução do processo, externadopelo comportamento de aguardar a dispensa das testemunhas e encerramento da audiência, parasomente então, tentar ingressar na sala virtual criada para realização do ato processual.
+Destaca-se, a propósito, que em nenhum momento no curso do processo o advogadoconstituído pelo réu insurgiu-se contra a realização da audiência remota, pelo contrário, aquiesceuexpressamente, ao indicar os meios para intimação do réu, o que foi levado a efeito pela dignaServentia, estando o processo, no momento oportuno, em termos para a realização da audiência.
+Dispõe o artigo 311 do Código de Processo Penal que a prisão preventiva poderá serdecretada em qualquer momento do processo, a requerimento do Ministério Público, e o artigo 312 domesmo Código, prevê que seja decretada por conveniência da instrução criminal ou para assegurar aaplicação da lei penal, justamente o que ocorre no caso, em que o réu, uma vez ciente de que deveriacomparecer à audiência de instrução, devidamente intimado, ausenta-se deliberadamente de modo aimpedir que fosse identificado pelas testemunhas policiais que compareceram à audiência e hojeseriam inquiridas.
+ ..
+Assim, não vislumbro constrangimento ilegal passível de ser sanado por esta Corte Superior de Justiça, em especial considerando que a instância ordinária, mais próxima dos fatos e provas dos autos, tem cognição mais ampla e exauriente para a análise das matérias suscitadas.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite dowrit na origem, a fim de permitir que o órgão competente analise com melhor propriedadea matéria ali levantada.
+Ante o exposto, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ,indefiro liminarmentea petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NULIDADE. CERCEAMENTO DE DEFESA NA AUDIÊNCIA DE INSTRUÇÃO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Inicial indeferida liminarmente.
