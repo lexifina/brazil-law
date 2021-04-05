@@ -1,0 +1,33 @@
+DECISÃO
+CARLOS EDUARDO LEIGUES GOMES alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, nos autos da Apelação Criminal n. 0033522-44.2019.8.12.0001.
+Informam os autos que o paciente foi condenado a 11 anos de reclusão como incurso nos arts. 33 e 35 da Lei de Drogas, indeferido o direito de recorrer em liberdade.
+A Corte local deu parcial provimento ao recurso, para absolver o paciente do delito do art. 35 da Lei de Drogas e fixar a pena em 6 anos de reclusão, no regime semiaberto.
+Neste writ, a defesa alega, em suma, que o paciente deve ter garantido o direito de recorrer em liberdade. Salienta que "o paciente Carlos Eduardo Leigues Gomes possui direito a diminuição de pena prevista no § 4º do artigo 33 da Lei de Drogas, a qual não foi aplicada pelo Tribunal coator", aduzindo que, embora "esta tese não  tenha sido  objeto de análise pelo v. acórdão embargado", "a dosimetria da pena é matéria de ordem pública, podendo ser reconhecida até mesmo de ofício".
+Pede, inclusive liminarmente, a soltura do paciente ou, subsidiariamente, a aplicação do art. 319 do CPP.
+Indeferida a liminar, foram os autos enviados ao Ministério Público Federal, que oficiou pela denegação da ordem (fls. 480-483).
+Decido.
+Inicialmente, consigno que as teses de (a) possibilidade de aplicação da causa especial de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 e (b) incompatibilidade da prisão cautelar com o regime semiaberto não foram ventiladas pela defesa em sua apelação e, portanto, deixaram de ser analisadas pela Corte local, evidenciando-se, assim, a impossibilidade de conhecimento dos temas, sob pena de supressão de instância. Nesse sentido:
+ ..  4. O pedido de aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância. (HC n. 524.794/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/3/2020)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. AUSÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA ESTREITA VIA ELEITA. PRISÃO CAUTELAR. REITERAÇÃO DELITIVA. ELEMENTO CONCRETO A JUSTIFICAR A MEDIDA. MOTIVAÇÃO IDÔNEA. INCOMPATIBILIDADE DO REGIME SEMIABERTO COM A CUSTÓDIA PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não se mostra possível, na via estreita do recurso ordinário em habeas corpus, avaliar a negativa de autoria do delito, procedimento que demanda o exame aprofundado das provas carreadas aos autos.
+2. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar para garantia da ordem pública, especialmente em elemento extraído da conduta perpetrada pelo acusado, qual seja, a reiteração delitiva.
+3. Não é possível a esta Corte debruçar-se sobre questão não enfrentada pela Corte local, sob pena de indevida supressão de instância.
+4. Recurso a que se nega provimento.
+(RHC n. 66.023/SC, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 8/3/2016)
+No que tange ao indeferimento do direito de recorrer em liberdade, a sentença remeteu-se ao decreto preventivo: "Recomende-se o sentenciado na prisão em que se encontra, vez que ainda persistem os motivos ensejadores de sua custódia cautelar" (fl. 253).
+O decreto preventivo, por sua vez, foi analisado pela Sexta Turma desta Corte Superior nos autos do HC 531857, ocasião em que foi denegada a ordem. Confira-se a decisão que converteu o flagrante em prisão preventiva:
+ ..
+No caso em questão, os conduzidos teriam sido flagrados transportando dentro do interior do veículo Fiat Uno, Placas HSF8504, duas mochilas contendo 10 (dez) tabletes de maconha, pesando 13,3KG (laudo de pericial págs. 21/26).  ..  De outra parte, também estão caracterizados os requisitos necessários para a conversão da prisão em flagrante em preventiva. De fato, está presente o fumus commissi delicti, porquanto há provas da materialidade e indícios suficientes da autoria da infração penal, consoante se infere dos depoimentos prestados. Além disso, restou caracterizado o periculum libertatis, já que, em um primeiro momento, a manutenção da custódia cautelar se justifica para assegurar a aplicação da lei penal, garantia da ordem pública e conveniência da instrução criminal. (fls. 86-88)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a gravidade concreta da conduta perpetrada, evidenciada pela apreensão de elevada quantidade de entorpecentes - cerca de 13,3 kg de maconha.
+O STJ, em casos similares, entende que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior periculosidade da conduta investigada - a revelar a habitualidade da traficância - pode justificar idoneamente a prisão preventiva. Confira-se:
+ ..  2. É válido o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto do fato delituoso, cifrada na quantidade de entorpecente apreendido - 3 kg de maconha. Precedentes do STJ.  ..
+(HC n. 493.349/CE, Rel. Ministra Laurita Vaz, 6ª T., DJe 22/4/2019, grifei)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais, nos termos do art. 282, I, do Código de Processo Penal. Nesse sentido:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018, destaquei)
+À vista do exposto, conheço parcialmente do habeas corpus e, no mais, o denego.
+Publique-se. Intimem-se.
