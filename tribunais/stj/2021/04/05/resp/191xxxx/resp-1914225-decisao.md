@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELOS FUNDAÇÃO EMBRATEL DESEGURIDADE SOCIAL, com arrimo no art. 105, inciso III, alínea"a",da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiçado Estado do Rio de Janeiro assim ementado:
+"Apelação Cível. Ação de Cobrança. Expurgos Inflacionários. Previdência privada complementar. TELOS - Fundação de Seguridade Social - EMBRATEL. Prescrição Quinquenal. Correção monetária nos índices fixados pelo STJ. Pretende a parte autora corrigir o valor da complementação mensal que recebe, decorrente das atualizações não aplicadas, por ocasião dos sucessivos planos econômicos governamentais ocorridos nos exercícios de 1987, 1989, 1990 e 1991. Rejeição da preliminar de prescrição do fundo de direito. Hipótese de prescrição quinquenal. Súmulas nº 291 e nº 427 do STJ. Nas prestações de trato sucessivo, a prescrição, somente, atinge as parcelas vencidas há mais de 05 (cinco) anos do ajuizamento da ação. Entendimento consolidado no STJ no sentido de que os índices a serem aplicados de forma a corrigir a desvalorização da moeda são os seguintes: 26,06% (junho/87), 42,75% (janeiro/89), 84,32% (março/90), 44,80% (abril/90), 7,87% (maio/90), 21,87% (fevereiro/91) e 11,79% (março/91), deduzidos os índices já aplicados. (EDcl no REsp 1051305/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/09/2011, DJe 19/09/2011). Recurso desprovido"(fl. 327 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a recorrente aponta, além de dissídio jurisprudencial,violação dos arts. 489, § 1º, 927, IV, e 1.024, § 2º, do Código de Processo Civil de 2015.
+Alega, em síntese, queos embargos de declaração opostos na origem não poderiam ser decididos por acórdão, pois foram opostos à decisão monocrática do relator.
+Afirma que a decisão que determinou o sobrestamento não foi bem fundamentada e que o RE 632.212, precedente utilizado como fundamento do sobrestamento, trata de expurgos inflacionários incidentes sobre cadernetas de poupança, não tendo nenhuma relação com o presente caso, já que o fundo fechado de previdência privada não se equipara a instituição financeira.
+Após a apresentação de contrarrazões, o especial foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado navigência do Código de Processo Civil de 2015 (EnunciadosAdministrativosnºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Inicialmente, verifica-se que o art.1.024, § 2º, do Código de Processo Civil de 2015não foi objeto de debate pelas instâncias ordinárias e, embora opostos embargos de declaração, não se provocou manifestação acerca da matéria. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Vale anotar que a jurisprudência desta Corte é firme no sentido de que "o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública" (AgRg no REsp nº 1.505.392/PE, Rel.Ministro Paulo de Tarso Sanseverino, DJe 6/11/2015).
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS Nº 5 E Nº 7/STJ. INVIABILIDADE.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+3. Rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7 deste Tribunal.
+4. Agravo regimental não provido" (AgRg no AREsp 568.759/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/10/2015 - grifou-se).
+Quanto ao mais, incabível a suspensão do julgamento do recurso pela decisão proferida pelo Ministro Gilmar Mendes no RE nº632.212,inclusive já revogada, pois o presente processo trata de recomposição da reserva matemática de participante de fundo fechado de previdência privada, não de expurgos inflacionários incidentes sobre cadernetas de poupança.
+Todavia,nos embargos de declaração de fls. 534/538 (e-STJ), o recorrente também alega que "o autor não tem direito aos expurgos já que não resgatou sua reserva de poupança, mas migrou de plano, continuando ligado à TELOS" (fl. 536 e-STJ), circunstância que não foi examinada pelo Tribunal de origem em virtude do sobrestamento do feito.
+Ante o exposto,dou provimento ao recurso especial, determinando adevolução dos autos ao Tribunal de origem para que prossiga no julgamentodos embargos de declaração de fls. 534/538 (e-STJ)como entender de direito.
+Publique-se.
+Intimem-se.
