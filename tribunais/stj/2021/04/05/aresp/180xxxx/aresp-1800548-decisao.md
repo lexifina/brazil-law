@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED BELEM COOPERATIVA DE TRABALHO MÉDICOcontra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado do Paráassim ementado:
+"APELAÇÃO CÍVEL. REEMBOLSO DE DESPESAS HOSPITALARES. ATENDIMENTO DE EMERGÊNCIA. HOSPITAL NÃO CREDENCIADO. POSSIBILIDADE. RECUSA INJUSTIFICADA. DANOS MORAIS. RECURSO CONHECIDO E NÃO PROVIDO.1.A recorrente sustenta que a recorrida optou ser atendida em hospital de tabelaprópria, e que tinham nas proximidades hospitais credenciados, por essemotivo não foi efetuado o reembolso das despesas.2.Todavia, verifico que a recorrida procurou atendimento quando estava emsituação de risco, e que fora constatada a emergência por laudo médicojuntado aos autos.3.Ademais, a recorrente não comprovou que o Hospital Alemão Oswaldo Cruznão compõe a sua rede credenciada, assim como não demonstrou que deusuporte à recorrida quando estava com sua saúde debilitada.4.Assim sendo, é devido o ressarcimento das despesas e a reparação pelo danomoral sofrido.5.Recurso Conhecido e desprovido" (fl. 262 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 281-285 e-STJ).
+No especial, a recorrente alega violação dos arts. 1.022 do Código de Processo Civil de 2015,12 e 16 da Lei nº 9656/1998, e aos arts. 4º, III, e 16 do Código de Defesa do Consumidor. Sustenta, em síntese, negativa de prestação jurisdicional, que não há comprovação de urgência médica que justifique o atendimento da recorrida em hospital que pratica tabela própria eque a exclusão de cobertura em determinados estabelecimentos está prevista em lei, de maneira que o fato de a recorrida ter optado por unidade hospitalar diversa configura má-fé.
+Sem contrarrazões, o recurso foi inadmitido na origem em exame de prelibação, motivo pelo qual adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial, que, todavia, não merece prosperar.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao tema de fundo, acolher a pretensão recursal de que seja afastado o ressarcimento das despesasdemanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em recurso especial, haja vista os óbices das Súmulas nºs 5 e 7 desta Corte.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
