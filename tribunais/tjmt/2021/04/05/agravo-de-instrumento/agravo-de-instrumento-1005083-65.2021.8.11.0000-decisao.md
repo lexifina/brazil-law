@@ -1,0 +1,24 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1005083-65.2021.8.11.0000
+AGRAVANTE: EDRAS SOARES
+AGRAVADO: INCORPORADORA S.J. LIMITADA - ME
+Vistos etc.
+Trata-se de recurso de agravo de instrumento interposto por EDRAS SOARES contra decisão proferida em autos de Embargos à Execução no 1000941-94.2021.8.11.0007, da 2a Vara Cível da Comarca de Alta Floresta/MT, proposta contra INCORPORADORA S. J. LIMITADA - ME, em que se indeferiu efeito suspensivo aos embargos.
+O agravante sustenta que “a Ação de Execução no 1001420-24.2020.8.11.0007 está suficientemente garantida por depósito em dinheiro, e a perícia produzida nos autos da Ação de Indenização por Perdas e Danos no 1003126-76.2019.8.11.0007, aponta para vários descumprimentos contratuais por parte da agravada, dando ensejo a arguição de exceção de contrato não cumprido”.
+Aduz que “o r. Juiz de piso não enfrentou com a necessária profundidade e percuciência, as questões centrais suscitadas pelo agravante na petição inicial dos Embargos à Execução no 1000941-94.2021.8.11.0007, máxime quanto a inexistência de pressupostos fáticos e legais para a tutela executiva”.
+Defende que o perigo da demora está caracterizado, pois, “sem a paralização (suspensão) momentânea da Ação de Execução no 1001420-24.2020.8.11.0007, o agravante pode se ver desapossado de seus bens (dinheiro objeto de depósito judicial), quando em verdade busca este é que busca ser indenizado pelos atos ilícitos e inadimplementos contratuais da parte agravada, conforme apurado nos autos da Ação de Indenização por Perdas e Danos no 1003126-76.2019.8.11.0007”.
+Requer a concessão de efeito suspensivo e, no mérito, o provimento do recurso para que a decisão agravada seja cassada (id. 81171520).
+Decido.
+O pedido liminar será deferido nos termos do art. 300 do CPC/2015, que estabelece que “A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+O art. 1.015, inciso I, do mesmo diploma legal também dispõe que, recebido o agravo de instrumento, o relator “poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”.
+Inicialmente, importante registrar que o juiz de primeiro grau apenas analisou a possibilidade ou não de se deferir efeito suspensivo aos embargos da execução, e neste limite é que o agravo será analisado, não se podendo adentrar em matérias que sequer foram enfrentadas em primeiro grau, sob pena de supressão de instância.
+Na decisão agravada, fundamentou-se que foi “aportado laudo pericial lavrado após vistoria técnica e análise de imagens de satélite da área em comento (ID 49576026 - Págs. 21/50 e 49576027 - Págs. 1/35), o qual, apesar de corroborar algumas afirmações autorais, não releva que a execução do contrato era insustentável”.
+Ressaltou que “Tal exceção também não encontra suporte seguro nas demais provas constantes nestes fólios, sendo necessário estabelecer o contraditório e instruir o feito em sua máxima amplitude para que possa ser constatada, eventualmente”, bem como que, “Se diante de tamanho número de provas ainda há dúvidas quanto à impossibilidade de execução do contrato de arredamento, é certo que nestes embargos não há comprovação da probabilidade do direito que é necessária à concessão do efeito suspensivo”.
+Na aferição do laudo pericial, apesar de se concluir por haver pontos de benfeitorias reprodutivas e não reprodutivas que não foram devidamente reparadas ou que estavam em processo de reparação, também se concluiu pela impossibilidade de se aferir se houve danos no peso dos animais ou demais condições que afetassem o fim almejado pelos empreendedores, que é o faturamento.
+Além do mais, apontou-se que “para a região de Alta Floresta a capacidade de suporte de 0,8 a 0,9 U.A./HA, de modo que os valores estabelecidos no contrato (1,5 U.A/HA) estão acima da média regional para a pecuária extensiva. Adicionalmente, cumpre observar que de acordo com os dados extraídos do INDEA, houve a exploração além da capacidade de suporte permitida para a área até agosto de 2019, tendo em vista que não poderia ultrapassar o valor de 1,5 U.A/HA. Uma vez que não há delimitação da área contratual, toda a fazenda deve respeitar a lotação máxima do contrato”.
+Portanto, considerando que a ação de indenização ajuizada pelo agravante teria como escopo eventual prejuízo por ele suportado, o que ainda não se aferiu a ponto de se justificar a aplicação da exceção do contrato não cumprido, entendo que não existe elemento que evidencie a probabilidade do direito.
+Ante o exposto, indefiro o efeito suspensivo.
+Intime-se a parte agravada para que apresente contrarrazões em 15 (quinze) dias.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
