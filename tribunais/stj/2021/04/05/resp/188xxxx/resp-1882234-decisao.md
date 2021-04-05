@@ -1,0 +1,56 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Severina Ramos Silva, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ, fl. 121):
+PREVIDENCIÁRIO. BENEFÍCIO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DA RMI. DIB 22/10/1989. TETO. ALTERAÇÃO PELAS EC Nº. 20/98 E EC Nº. 41/2003. READEQUAÇÃO AO VALOR DAS CONTRIBUIÇÕES PAGAS PELO SEGURADO. POSSIBILIDADE. LIMITAÇÃO AO TETO. INOCORRÊNCIA. APELAÇÃO IMPROVIDA.
+1- Hipótese de apelação de sentença que julgou improcedente o pedido de revisão da RMI do benefício de aposentadoria por tempo de contribuição da parte autora de modo a readequar aos novos valores do teto fixado pelas EC nº 20/98 e nº 41/03.
+2- O STF, ao julgar o RE 564.354/RE, entendeu que a aplicação dos tetos acima referidos (EC n.ºs. 20/98 e 41/2003) aos benefícios previdenciários concedidos antes da vigência das citadas emendas constitucionais não se refere a aumento ou reajuste do benefício, mas, sim, à readequação de valores. Tal entendimento passou a ser reconhecido, recentemente, como de repercussão geral, inclusive não houve ressalva sobre qualquer limitação temporal à aplicação dos novos tetos.
+3- Caso em que o documento de informações de benefício do INSS demonstra que o salário-de-benefício da aposentadoria da requerente não foi limitado ao teto no momento de sua concessão (22/10/1989). Desta forma, não tendo o benefício em questão sofrido limitação ao teto, não há que se falar em sua revisão com aplicação dos novos tetos previstos pelas EC n.º 20/98 e n.º 41/2003.
+4- Apelação improvida.
+A recorrente alega, além de divergência jurisprudencial, que foi violado oart. 144 da Lei n. 8.213/1991.
+Defende, em síntese, a adequação do benefício aos tetos estabelecidos pelas ECs 20/1998 e41/2003, uma vez que ocorreu a limitação do teto, quando observada a evolução da RMI a partir de 6/1990 até 12/1998.
+Sustenta, ainda, a aplicação sobre a renda mensal das ECs 20/1998 e 41/2003, mesmo que o salário de benefício não tenha sido limitado pelo teto no momento da concessão.
+Contrarrazões apresentadas (e-STJ, fls. 159-163).
+Admitido o recurso especial na origem (e-STJ, fl. 172), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem resolveu a questão em debate sob a seguinte fundamentação (e-STJ, fls. 119-120):
+A parte autora visa a revisão do seu benefício de aposentadoria (DIB 22/10/1989) com aplicação dos novos valores dos tetos fixados pelas EC nº 20/98 e nº 41/03, bem como o pagamento das diferenças devidas.
+ ..
+Assim, não há mais dúvida sobre a aplicabilidade dos novos limites sobre os benefícios previdenciários concedidos anteriormente a cada uma das emendas. A questão é saber se o benefício da parte autora deve ser submetido à postulada revisão.
+No caso em apreço, observa-se no documento de informações de benefício do INSS que o salário-de-benefício da aposentadoria por tempo de contribuição da requerente não foi limitado ao teto no momento de sua concessão (22/10/1989). Desta forma, não tendo o benefício da parte autora sofrido limitação ao teto, não há que se falar em sua revisão com aplicação dos novos tetos previstos pelas EC n.º 20/98 e n.º 41/2003.
+Isto posto, nego provimento à apelação.
+No caso, nota-se que o aresto impugnado concluiu, com base nos documentos dos autos, pela impossibilidade revisão do benefício, visto que não ficou demonstrado que o salário de benefício foi limitado ao teto no momento da concessão.
+Assim sendo, não ficou demonstrada, nas razões do especial, a ofensa àlei federal, uma vez que o dispositivo apontado não tem comando normativo capaz de amparar a tese recursal e de infirmar o juízo consignado no acórdão recorrido, fazendo incidir ao caso, o teor da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CONFIGURADA. INVIÁVEL A ANÁLISE DA NR-15. ART. 105, III, "a", DA CF/1988. FUNDAMENTO NÃO ATACADO. SÚMULA 284/STF. COMPROVAÇÃO DO LABOR ESPECIAL. SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram.
+2. A insurgência do INSS, portanto, volta-se contra a citada NR-15 do MTE, cuja análise é inviável em Recurso Especial, pois tal ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, "a", da Constituição Federal.
+3. A Autarquia Previdenciária entende que Tribunal de origem negou vigência aos arts. 68, §§ 2º, 3º e 4º, do Decreto 3.048/1999, 58 da Lei 8.213/91, uma vez que seria incabível o reconhecimento da especialidade do labor desenvolvido pelo ora recorrido lastreado tão somente em avaliação qualitativa. No entanto, esses artigos não possuem comando normativo apto a infirmar as razões colacionadas no acórdão recorrido, atraindo a incidência da Súmula 284/STF.
+4. O acórdão decidiu com base no acervo fático-probatório dos autos. Qualquer conclusão em sentido contrário do que ficou expressamente consignado no acórdão recorrido, acatando as razões do recorrente, demanda o reexame do suporte fático-probatório dos autos. Aplicação da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e não provido.
+(REsp 1.656.135/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/4/2017, DJe 2/5/2017.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. RENDA MENSAL INICIAL. REVISÃO. INCLUSÃO DE TEMPO DE SERVIÇO. PROVAS INAPTAS A COMPROVAR TODO O VÍNCULO ALEGADO. RECIBOS INSUFICIENTES. INÍCIO DE PROVA MATERIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+ ..
+V - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Honorários recursais. Não cabimento.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no REsp 1.638.404/RJ, Rel. MINISTRA REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/5/2018, DJe 5/6/2018.)
+Ademais, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado na via eleita, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo nobre, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+No ponto:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. EMBARGOS A EXECUÇÃO. DIFERENÇAS DECORRENTES DA REVISÃO DE BENEFÍCIO PELA READEQUAÇÃO AOS TETOS DAS EC"s 20/1998 e 41/2003. MATÉRIA CONSTITUCIONAL. REAJUSTE APLICADO INDEVIDAMENTE. REVISÃO DE MATÉRIA FÁCO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Constata-se que não se configura a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Hipótese em que o Tribunal de origem entendeu que "não merecem prosperar as alegações do INSS quanto à aplicabilidade da tabela elaborada pela Justiça Federal do Rio Grande do Sul, eis que o próprio Núcleo de Contadoria da Justiça Federal do Rio Grande do Sul aponta que tal cálculo não se aplica aos casos em que o benefício foi concedido no período do "buraco negro", como in casu, bem como que dependerá da interpretação que o magistrado dê à decisão prolatada pelo E. STF no RE 564.354" (fl. 93, e-STJ).
+3. O acórdão recorrido está embasado em precedente de repercussão geral proferido pelo Supremo Tribunal Federal, RE 564.354. Dessa forma, saber se os tetos incidem em benefícios anteriores à CF/88, consoante o referido precedente, é tarefa do STF, e não do STJ.
+4. Ademais, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1.705.519/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. REVISÃO DA RMI. PEDIDO JULGADO IMPROCEDENTE EM RAZÃO DE AUSÊNCIA DE PROVA. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de a agravante alegar, em seu Raro Apelo, violação ao art. 333 do CPC, ao fundamento de que os documentos dos autos comprovam que seu benefício de aposentadoria tem sido pago em desconformidade com a legislação vigente, o Tribunal de origem, soberano na análise fático-probatória da causa, consignou que as provas certificam apenas que os salários de contribuição foram limitados ao teto até março/95, o que não é suficiente para ratificar o alegado equívoco de limitação ao teto do benefício a partir da edição da EC 20/98 e 41.2003.
+2. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente o incursão no acervo fático-probatório dos autos.
+3. Agravo Regimental desprovido.
+(AgRg no AREsp 350.039/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/3/2014, DJe 7/4/2014.)
+Por fim, relativamente ao apelo extremo fundado na alínea c do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do Enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço do recurso especial.
+Publique-se. Intimem-se.
