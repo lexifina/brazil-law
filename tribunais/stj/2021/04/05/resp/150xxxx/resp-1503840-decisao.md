@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fl. 119):
+"EXECUCXO - Notas promiss6rias rurais - Embargos do devedor julgados improcedentes em primeiro grau de jurisdição, mas com observaçãode inacumulatividade da multa j)contratual com honoráriosadvocatícios- HONORÁRIOS ADVOCATICIOS - Previsãode ressarcimento dessa despesa em caso de inadimplemento, cobrada em conjunto com a multa contratual - Hip6tese que nãose confunde com a possibilidade de cumulaçãodos honoráriossucumbenciais com a multa, nos termosda Súmulano 616 do Supremo Tribunal Federal - Honoráriossucumbenciaisrestritos aos fixados nos embargos do devedor, que substituem os arbitrados inicialmente na execução- Situaçõesnãoesclarecidas na sentença, nem nos embargos declarat6rios opostos , motivo pelo qual reformada nesse particular - Apelaçãoprovida, com observação."
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 219/222).
+As razões do recurso especial, fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e a violação dosarts. 20, caput e § 4º, e 652-A, caput e parágrafo único, do CPC/73, ao argumento de ser possível cumular os honorários da execução com aqueles fixados nos embargos do devedor.
+Contrarrazões às fls. 318/319.
+É o relatório. Decido.
+O recurso merece prosperar.
+No apelo nobre que pretende trânsito, o recorrente aponta a infringênciados arts. 20, caput e § 4º, e 652-A, caput e parágrafo único, do CPC/73, ao argumento de ser possível cumular os honorários da execução com aqueles fixados nos embargos do devedor.
+O eg. TJ-SP, por sua vez, consignou que "não se diga que se os honorários fossem fixados no despacho inicial do processo de execução haveria cumulação com os honorários fixados na sentença dos embargos à execução. Aqueles somente incidem se houver pagamento do crédito executado ou não interposição de embargos (artigo 20, § 4º). Havendo embargos, como no caso em testilha, os honorários fixados no processo de execução perdem efeito, sendo substituídos pelos fixados na sentença" (fl. 198).
+Com efeito, o v. acórdão estadual contraria o entendimento deste Sodalício fixado no Tema n. 587:
+"a) Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973.
+b) Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução."
+Assim, o recurso merece prosperar a fim de permitir a cumulação dos honorários advocatícios,observado o limite máximo previsto no § 3º do art. 20 do CPC/73.
+Diante do exposto, dou provimento ao recurso especial nos termos da fundamentação supra.
+Publique-se.
