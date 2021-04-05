@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIALcom respaldo na alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 329):
+Cumprimento de sentença Honorários advocatícios fixados nos termos do art. 85, §3º, I, e § 11, do novo Código de Processo Civil Inaplicabilidade da Súmula nº 111, do Superior Tribunal de Justiça. Recurso provido em parte.
+Rejeitados os aclaratórios (e-STJ fls. 116/119).
+Em suas razões, a parte recorrente aponta violação doart.927, IV, do Código de Processo Civil de 2015, ao argumento de que o julgado deve limitar a base de cálculo dos honorários advocatícios às parcelas vencidas até a sentença, nos termos da Súmula 111/STJ.
+Por fim, caso não se entenda prequestionada a matéria, requer que seja anulado o acórdão por contrariedade ao art. 1.022, II, do CPC/2015 a fim de ser proferido novo julgamento.
+Contrarrazões às e-STJ fls. 135/150.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 151/153.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do nele prevista (Enunciado Administrativo n. 3).
+Feito tal registro, verifico que razão assiste à autarquia.
+A Corte de origem deu parcial provimento ao agravo de instrumento interposto pela parte autora, fixando a verba honorária em sede de liquidação de sentença, nos termos do§3º , I, do art. 85 do CPC/2015e afastando a incidência da Súmula 111/STJ(e-STJ fl. 105).
+A respeito do termo final dos honorários advocatícios, a orientação jurisprudencial do STJ é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula n. 111 desta Corte.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA 111/STJ. 1. A questão trazida neste recurso se subsume ao disposto na Súmula 111/STJ, verbis: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença." 2. Assim, são devidos honorários advocatícios sobre o valor da condenação, considerandose, para fins de cálculo dessa verba, apenas as parcelas vencidas até a prolação da decisão que reconheceu o direito do segurado, excluindo-se as vincendas. 3. Agravo regimental provido. (AgRg no AREsp 271.963/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 19/05/2014, grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. AGRAVO NÃO PROVIDO. 1. Nos termos da Súmula n. 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser o decisum no qual o direito do segurado foi reconhecido, que no caso corresponde ao acórdão proferido pelo Tribunal a quo. 2. No caso em tela, o direito somente foi reconhecido com a prolação da decisão ora agravada, razão pela qual o marco final da verba honorária se deu com a decisão que ora se questiona, nos termos da Súmula 111/STJ. 3. Agravo regimental não provido. (AgRg no REsp 1557782/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/12/2015, DJe 18/12/2015).
+No caso concreto, o Tribunal de origem solveu a controvérsia em dissonância com a jurisprudência mencionada, porquanto não limitou a verba honorária até a data da prolação da sentença que reconheceu o direito do segurado, nos termos da Súmula n. 111/STJ.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer a incidência da Súmula n. 111 do STJ.
+Publique-se. Intimem-se.
