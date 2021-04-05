@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de competência suscitado pelo Juízo daTurma Recursal do Juizado Especial Federal da Seção Judiciária do Paraná em face do Juízo de Direito do Juizado Especial da Fazenda Pública de Cornélio Procópio/PR, nos autos do Mandado de Segurança impetrado pela União contra decisão que manteve a Impetrande no polo passivo da lide, nos autos da Ação de Obrgiação de Fazer proposta por José Carlos Massera contra o Estado do Paraná e o Município de Cornélio Procópio/PR, objetivando o fornecimento de medicamento.
+A ação foi originariamente proposta no Juizado Especial da Fazenda Pública de Cornélio Procópio, PR, que, ao argumento de ser necessária a integração da União no polo passivo, com fundamento no julgamento proferido pelo Supremo Tribunal Federal no Tema 793 (Emb. Decl. no RE n. 855.178/SE), declinou de sua competência, tendo, por conseguinte, determinando a remessa dos autos à Justiça Federal (fls. 120/123e).
+O Juízo da 3ª Vara Federal de Londrina/PR, por sua vez, se deu por competente para processar e julgar a ação, determinando ao requerente que emendasse a petição inicial para incluir a União e o Estado do Paraná, na condição de litisconsortes necessários, sob pena de extinção do processo, ao argumento de ser necessária a integração dos referidos entes no polo passivo (fls. 126/132e).
+A União, inconformada com a decisão proferida pelo Juízo Federal monocrático, que reconheceu a legitimidade passiva do ente federal na lide, impetrou mandado de segurança objetivando a cassação dessa decisão (fls. 03/18e).
+A Turma Recursal do Juizado Especial do Estado do Paraná, por sua vez, entendeu pela inviabilidade da análise do mandamus como sucedâneo recursal, porém, deferiu parcialmente o pedido de liminar para suspender parcialmente a tramitação do processo, e suscitou o presente incidente, sustentando que compete ao Juízo Estadual o julgamento da demanda (fls. 46/59e).
+Designei o Juiízo suscitado, para resolver, em caráter provisório, acerca de eventuais medidas urgentes, nos termos do art. 955 do Código de Processo Civil, soliciteiinforamções e determinei vista dos autos ao Ministério Público Federal (fl. 216e).
+As informações foram prestadas (fls. 222/240e).
+O Ministério Público Federal opinou pelo não conhecimento do conflito de competência(fls. 244/248e).
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O art. 66, I e II, do Código de Processo Civil de 2015, dispõe que haverá conflito de competência quando dois ou mais juízes se declararem competentes ou incompetentes para o processamento e julgamento da mesma causa:
+Art. 66. Há conflito de competência quando:
+I 2 (dois) ou mais juízes se declaram competentes;
+II 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Parágrafo único. O juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo.
+No caso, o conflito de competência foi suscitado pela Turma Recursal nos autos do Mandado de Segurança nº 5062848- 37.2020.4.04.7000/PR, impetrado pela UNIÃO, em face de decisão do Juízo da 3ª Vara Federal de Londrina - SJ/PR (Procedimento do Juizado Especial Cível nº 5010218-98.2020.4.04.7001/PR - JF).
+Na ação originária,o Juiz Estadual declinou de sua competência e determinou a remessa dos autos à Justiça Federal (fls. 120/123e), e esta, porsua vez, acolheu a competência para processar e julgar a ação de fornecimento de medicamento, proposta por José Carlos Massera contra o Município de Cornélio Procópio/PR.
+Ou seja, na ação de conhecimento em que se objetiva o fornecimento de medicamento, há, de fato, decisões dos juízos estadual e federal a respeito da competência, este se dando por competente, e aquele por incompetente para julgar o feito (fls. 120/123e e 126/132e).
+Já nos autos do mandado de segurança há apenas a decisão da Turma Recursal do Juizado Especial Federal da Seção Judiciária do Estado do Paraná (fls. 46/59e), declarando a incompetência da Justiça Federal para o processamento e julgamento da lide originária, pois a decisão (fls. 120/123e), do Juízo de Direito do Juizado Especial da Fazenda Pública de Cornélio Procópio/PR, se refere à ação de conhecimento proposta contra o Município de Cornélio Procópio/PR.
+Assim, opresente incidente não deve ser conhecido,uma vez que nos presentes autos tem-se apenas a manifestação da Turma Recursal a respeito da competência.
+Caso a ação mandamental seja julgada procedente, com o afastamento da União do polo passivo da demanda originária, cumpre ao Juízo federal devolver os autos para a Justiça estadual, e não suscitar conflito de competência, nos termos da orientação contida na Súmula 224/STJ: "Excluído do feito o ente federal, cuja presença levada o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito."
+Ademais, o conflito não é o meio adequado para transferir para o STJ a revisão da decisão judicial do magistrado de primeiro grau que é objeto do mandado de segurança, cabendo à Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Paranáapreciar a ação mandamental.
+Posto isso,nos termos dos arts. 957 do Código de Processo Civil e 34, XXII, do Regimento Interno desta Corte, não conheço do conflito de competência.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se. Comunique-se.
