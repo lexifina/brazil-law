@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se derecurso especial, interposto por NILMA BEZERRA DE MEDEIROS E OUTROS, com fundamento no art. 105, III, a, da CF/88,contraacórdão proferido pelo Eg. Tribunal de Justiça do Estado do Ceará, assim ementado (e-STJ fls. 187-188):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃOMONOCRÁTICA QUE ACOLHEU A TESE DE CERCEAMENTO DE DEFESAVEICULADO NO APELO DA AGRAVADA. REQUERIMENTO DE PRODUÇÃO DEPROVA PERICIAL E TESTEM UNH AL NÃO APRECIADO. JULGAMENTOANTECIPADO. SENTENÇA DE IMPROCEDÊNCIA, POR FALTA DE PROVA.IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+1. Como é cediço, não versando o caso concreto sobre questão unicamente de direito, uma vezformulado pedido de produção de provas, incabível o julgamento da lide, sem que antes haja asua apreciação pelo magistrado da causa, sob pena de cerceamento de defesa.
+2. Ademais, não se mostra razoável impedir a produção de provas e, em seguida, julgar a lideimprocedente por ausência de elementos que demonstrem a veracidade das alegaçõesventiladas pela parte agravada.
+3. Com efeito, ainda que o magistrado seja o destinatário da prova, competindo-lhe, porexpressa previsão legal, rejeitar as provas tidas como inúteis ou meramente protelatórias, aomesmo é defeso silenciar sobre a questão e promover o julgamento antecipado da lide, com aemissão de uma sentença embasada exatamente na ausência de provas, tal como ocorreu no
+caso ora em exame.
+4. No mais, estão prejudicados os argumentos de mérito tecidos neste agravo.
+5. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam violação aos arts. 370 e 1.022 do Código de Processo Civil de 2015, sustentando, em síntese, além de negativade prestação jurisdicional,a inocorrência de cerceamento de defesa, porquanto as provas requeridas pela parte recorrida são inúteis ou impossíveis de serem produzidas.
+É o relatório.
+Passo a decidir.
+Não colhe o recurso.
+De início, verifica-se que não prospera a alegada ofensa ao art. 1.022 do novo Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Além disso, observa-se que o Tribunal de origem reconheceu que o julgamento antecipado da lide pelo juízo a quo ofendeu os princípios do contraditório e ampla defesa. Logo, decidiu anular a sentença, a fim de oportunizar a produção da prova pericial, conforme se denota do seguinte trecho do aresto recorrido (fls. 190-195):
+ ..
+Diante disso, acolhi a tese de que: "A promovente requereuexpressamente a produção de prova pericial para comprovar suaincapacidade no momento da audiência, como também requereu aoitiva do seu psiquiatra Dr. Cleto Gomes na qualidade técnico (médicopsiquiátrico) além da produção da prova documental.".
+De fato, consta expresso na exordial o pedido não genérico nosentido de que:
+"Desde já requer também a oitiva, para opiniãotécnico profissional do médico Dr. Cleto Brasileiro pontes,CREMEC 2182, com endereço profissional à Rua Jorge da rocha/7- 154, Aldeota, Fortaleza-CE  ..  Protesta provar o alegado portodos os meios de prova em direito admitidos, notadamentedepoimento pessoal da requerente e dos requeridos, sob pena de
+confesso, oitiva de testemunhas, as quais o rol será juntadoposteriormente, prova pericial médica, assim como juntadaposterior de documentos, tudo desde já requerido."
+Isso a parte ora agravada o fez com o fito de demonstrar quenão tinha condições de entender o objeto do acordo realizado emaudiência (atacado por meio desta ação), por conta de no " ..  momentoda audiência encontrava-se em forte tratamento para depressão TRANSTORNO AFETIVO BI POLAR (Cl D 10 F31.8).." (fl. 04).
+Todavia, nestes autos, o julgador de primeiro grau, como vistono decisum objurgado neste agravo interno, não se manifestou sobre osmencionados pleitos (oitiva do médico e prova pericial), mas, em vezdisso, proferiu sentença que julgou improcedente o pedido, justamentepor ausência de provas.
+A parte agravante, em seu inconformismo, entende que omagistrado seria livre para apreciar a prova e assim decidir pela sua nãorealização.
+De fato, não há como se negar que tal assertiva é correta, sendoinclusive amplamente aceita pela jurisprudência pátria; entretanto,também é correto dizer que esse mesmo entendimento é uníssono nosentido de que ao optar pela não produção de determinadas provas,expressamente requeridas por um ou mais litigantes, está o julgadorimpossibilitado de se valer, em sua sentença, do fundamento de que asalegações expostas no curso do processo não foram provadas.
+Com efeito, entendo que ao menos deveria ter havido umamanifestação do julgador a quo pela negativa ou não das provasreputadas impertinentes pela agravante e, somente após isto, proferir suasentença (art. 355, CPC/2015). Não pode, repiso, quando a lide cuida dematéria que não é exclusivamente de direito, silenciar quanto a um pedidode produção de provas que a parte diz ser necessárias para acomprovação de suas alegações, e também à elucidação da controvérsia,e, ao final, proferir um julgamento pela improcedência da ação por falta deprovas, porquanto tal postura traduz-se em inequívoco cerceamento dedefesa, por violação ao contraditório e à ampla defesa, assegurados noart. 5.9, inc. LV, da Constituição Federal/88.
+ ..
+A luz desses paradigmas, decerto essa atitude do julgadormonocrático implicou em cerceamento do direito de defesa da parte oraagravada, pois se mostra uma verdadeira contradição julgar improcedentea demanda formulada na exordial por ausência de elementos quedemonstrem a veracidade das alegações nela contida e ao mesmo tempoomitir-se quanto aos pedidos de produção de prova pericial eoitiva detestemunha, veiculados corretamente por meio da petição inicial.
+É dever, portanto, imposto pela Constituição Federal, emrespeito aos princípios constitucionais do devido processo legal,contraditório e ampla defesa, a desconstituição da sentença atacada, porerror in procedendo.
+Nesses termos, reafirmo minha orientação de que a sentençafustigada deve ser anulada, ficando, por via de conseqüência, prejudicadasas questões de mérito. E digo mais, a posição por mim encampada, aocontrário do que tenta fazer transparecer as razões deste recurso, não setraduz em um imediato deferimento do pedido de produção de provasformulado pela parte agravada, porquanto o juízo quanto a sua
+imprescindibilidade deve ser feita pelo magsitrado singular; na verdade,estou aqui apenas afirmando que não poderia o juiz de primeiro grau tersimplesmente silenciado sobre o pedido de produção de provas e, em
+seguida, julgado a demanda improcedente com base nos fundamentoseleitos na sentença ora anulada.
+Ao magistrado singular irá competir, pois, o dever de apreciar aquestão posta e fundamentadamente aceitá-la ou rejeitá-la.
+Insta ressaltar que o entendimento pacífico desta Corte Superior é no sentido de que o juiz é destinatário final das provas, de modo que a análise acerca da (in)suficiência do acervo probatório demandaria revolvimento fático-probatório, providência incompatível com o apelo especial, conforme Súmula 7/STJ. Corroboram essa conclusão os seguintes precedentes:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULA N. 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições deve ser afastada a alegada ofensa ao artigo 1.022 do Código de Processo Civil.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+3. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1201100/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2018, DJe 22/05/2018)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, negoprovimento ao recurso especial.
+Publique-se.
