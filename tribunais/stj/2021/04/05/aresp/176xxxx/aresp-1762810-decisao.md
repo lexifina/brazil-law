@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRA DOURADA INVESTIMENTOS IMOBILIÁRIOS LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Serviços de corretagem (intermediação de venda e compra de valores mobiliários). Abordagem condenatória. Relevância de integrar dados, à busca de documentação relevante, a identificar operações relacionadas à atividade contratada. Recurso da ré. Desprovimento" (e-STJ fl. 639).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 11 e 489, § 1º, I, do Código de Processo Civil de 2015 - o acórdão combatido não está devidamente fundamentado;
+(ii) arts. 300 e 370 do Código de Processo Civil de 2015 - ausência dos requisitos legais para a concessão da tutela antecipada, e
+(iii) arts. 16 da Lei nº 6.385/1976 - ilegalidade da atividade de corretagem exercida pelos recorridos.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, o recurso em análise foi interposto em sede de agravo de instrumento contra decisão que deferiu a tutela antecipada. Já decidiu esta Corte que tanto o julgamento de tema relativo ao mérito é inapropriado para o momento, quanto o reexame da questão encontra o óbice de que trata a Súmula nº 7/STJ.
+Ademais, em hipóteses como essa, o Superior Tribunal de Justiça, alinhado com o entendimento oriundo da Suprema Corte, vem aplicando, analogicamente, a orientação contida na Súmula nº 735/STF, não admitindo recursos especiais que se voltam contra decisões que deferem ou indeferem pedido de medida liminar ou antecipação de tutela.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE SERVIÇOS A BORDO DE UNIDADE FLUTUANTE DE PRODUÇÃO (NAVIO-PLATAFORMA). APLICAÇÃO DE MULTA PELA AGÊNCIA NACIONAL DE PETRÓLEO E BIOCOMBUSTÍVEIS - ANP. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na linha dos precedentes desta Corte, o Tribunal de origem não ultrapassa os limites de sua competência quando, ao realizar o juízo prévio de admissibilidade, adentra o mérito do recurso especial.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A análise do recurso quanto à presença dos requisitos da antecipação de tutela depende de reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ. Ademais, as alegações recursais serão oportunamente analisadas pelas instâncias ordinárias por ocasião do julgamento de mérito da ação, não cabendo a esta Corte Superior antecipar tal análise neste momento processual, conforme dispõe, por analogia, a Súmula 735/STF.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido" (AgInt no AREsp 1.512.223/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 8/5/2020 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
