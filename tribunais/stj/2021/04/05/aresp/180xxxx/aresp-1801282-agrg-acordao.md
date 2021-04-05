@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. IMPUGNAÇÃO DE INCIDÊNCIA DA SÚMULA N. 7/STJ FEITA A DESTEMPO, EM SEDE DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É de ser negado provimento a agravo regimental inapto a ensejar a reforma do juízo monocrático. O reforço de fundamentação feita nesta sede não faz convalescer a ausência de impugnação de fundamento de inadmissibilidade do recurso especial noAREsp. Mantida a incidência da Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto em face de decisão monocrática proferida pela Presidência desta Corte, às fls. 836/838, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça -RISTJ, em razão dorecorrentenão terimpugnado a incidência da Súmula n. 7/STJ, um dos fundamentos da decisão agravada (Súmula n. 182/STJ).
+No presente regimental, sustentaoagravanteque "Com merecido respeito e curvando as formalidades processuais e diante do suposto equívoco de não impugnar a citada súmula 7 desteaugusto Tribunal, ocorre que todo mérito do especial, só justifica e assim insiste porque nos autos em tela existe violação da aplicação da lei penal no tocante à aplicação da pena, portanto, não há nenhum parágrafo do reclamo que tem pretensão de reexame de prova"  sic (fls. 847/848).
+Requer o conhecimento e provimento do agravo regimental para que seja conhecido e provido o recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do agravo regimental (fls. 861/867).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. IMPUGNAÇÃO DE INCIDÊNCIA DA SÚMULA N. 7/STJ FEITA A DESTEMPO, EM SEDE DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É de ser negado provimento a agravo regimental inapto a ensejar a reforma do juízo monocrático. O reforço de fundamentação feita nesta sede não faz convalescer a ausência de impugnação de fundamento de inadmissibilidade do recurso especial noAREsp. Mantida a incidência da Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+VOTO
+O agravo não merece ser provido.
+Com efeito, verifica-se que a decisão que obstou o seguimento do recurso especial encontra-se lastreada nos seguintes fundamentos: a) Súmula n. 283/STFe b) Súmula n. 7/STJ (fls. 793/794).
+A defesa, no entanto, deixou de enfrentar a incidência da Súmula n. 7/STJ. Na presente oportunidade, conquanto a defesa, em insuficiente argumentação - "Com merecido respeito e curvando as formalidades processuais e diante do suposto equívoco de não impugnar a citada súmula 7 deste augusto Tribunal, ocorre que todo mérito do especial, só justifica e assim insiste porque nos autos em tela existe violação da aplicação da lei penal no tocante à aplicação da pena, portanto, não há nenhum parágrafo do reclamo que tem pretensão de reexame de prova"  sic  (fls. 847/848) - tenha feito referência à não pretensão de reexame de prova, ofez a destempo e de forma genérica, não fazendo convalescer o vício.
+Escorreito, portanto, o não conhecimento do agravo em recurso especial por falta de impugnação específica defundamentoadotadona decisão de inadmissibilidade proferida no TJSP. Logo, correta também a aplicação do art. 21-E, V, do Regimento Interno do STJ. Destaco que tal dispositivo está de acordo com o art.932, III, do CPC de 2015. Cito precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.PENAL. ARTS. 306 E 307 DA LEI N. 9.503/1997. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA.INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ADC"S N. 43, 44 E 54. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à incidência das Súmulas 284 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental desprovido. Habeas corpus concedido, de ofício, para revogar a determinação de execução provisória da pena.
+(AgRg nos EDcl no AREsp 1619957/SP, Rel.Ministra LAURITA VAZ, SEXTA TURMA, DJe 4/8/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Presidente do STJ, antes mesmo da distribuição do processo, decidir pelo não conhecimento de recursos inadmissíveis, prejudicados ou que não houverem impugnado especificamente todos os fundamentos da decisão recorrida, nos termos do art. 21-E, inciso V, do RISTJ.
+2. O princípio da dialeticidade, conforme se extrai do art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando direta e especificamente todos os fundamentos nela lançados para obstar sua pretensão.
+3. O recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmula n. 7/STJ, 83/STJ e 284/STF. Todavia, nas razões do agravo contra essa decisão, o Agravante não impugnou de maneira efetiva os fundamentos referentes à incidência das Súmulas n. 7 e 83/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1688645/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 1º/9/2020).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. A decisão que não admitiu o recurso especial assentou: a) a incidência das Súmulas ns. 7 e 83 desta Corte no que se refere à aventada negativa de vigência ao art. 41 do CPP; b) a aplicação das referidas Súmulas também no que diz respeito à consideração da quantidade e natureza da droga apreendida para exasperar a pena- base; c) a conformidade do acórdão recorrido com a jurisprudência deste Sodalício (Súmula n. 83/STJ) com relação à fração fixada para aumentar a sanção inicial e, d) a harmonia do acórdão impugnado com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83/STJ) acerca do regime inicial de cumprimento da reprimenda.
+2. Todavia, no agravo em recurso especial a defesa limitou-se a alegar, de forma genérica, que não pretende o reexame do acervo fático-probatório e que não incidiria a Súmula n. 83/STJ na espécie, não rebatendo de forma específica os referidos óbices quanto a nenhum dos temas sobre os quais foram aplicados.
+3. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do STJ.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1498581/SC, Rel.
+Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/11/2019).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
