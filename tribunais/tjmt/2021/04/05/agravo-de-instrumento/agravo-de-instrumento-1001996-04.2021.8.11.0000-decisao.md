@@ -1,0 +1,37 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1001996-04.2021.8.11.0000
+AGRAVANTES: BANCO BRADESCO S.A. E OUTRO
+AGRAVADA: JOELMA FERREIRA DE SOUZA
+DECISÃO MONOCRÁTICA
+AGRAVO DE INSTRUMENTO – INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO – VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE – PRECLUSÃO CONSUMATIVA – RECURSO NÃO CONHECIDO.
+Diante do princípio da unirrecorribilidade recursal, havendo a interposição de dois recursos pela mesma parte e contra a mesma decisão, tem-se que este último não deve ser conhecido.
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto por BANCO BRADESCO S.A. e BRADESCO SEGUROS S.A., contra decisão proferida pela MMa. Juíza de Direito da 10a Vara Cível da Capital, Dra. Sinii Savana Bosse Saboia Ribeiro, lançada nos autos da “Ação de Obrigação de Fazer c/c Tutela de Evidência” no. 1056574-22.2020.8.11.0041 ajuizada por JOELMA FERREIRA DE SOUZA, que deferiu a “medida pleiteada para determinar que os requeridos que mantenham, após os 18 (dezoito) meses, o plano de saúde da autora e de seus dependentes nas mesmas condições de cobertura existente quando da vigência do contrato de trabalho, assumindo a autora o pagamento integral da prestação, sob pena de multa no valor de R$ 1.000,00, por dia de descumprimento injustificado. Fixo o patamar da penalidade em R$ 30.000,00” (Id 72967996).
+Em suas razões recursais, as agravantes defendem a necessidade de reforma da decisão agravada, já que “não há que se cogitar a ocorrência de direito da parte autora em permanecer no plano de saúde nos termos dos artigos 30 e 31 da lei 9.656/98, uma vez que os mesmos garantem o direito de permanência dos beneficiários que contribuíam com a mensalidade do plano” (sic), e que “um dos requisitos para obter o gozo do supracitado direito pelos ex-empregados demitidos sem justa causa encontra-se enumerado no §6o do artigo 30 da Lei 9.656/98, também aplicado aos ex-empregados aposentados por força do §2o do artigo 31” (sic).
+Diante disso, afirmam que “A BENESSE EM COMENTO, SOMENTE ALCANÇA OS EX-EMPREGADOS QUE, DURANTE A VIGÊNCIA DO PACTO LABORAL, CONTRIBUÍRAM, AO MENOS PARCIALMENTE, PARA O CUSTEIO DO PLANO DE SAÚDE COLETIVO EMPRESARIAL, OU SEJA, OS PAGAMENTOS EFETUADOS PELO EXEMPREGADO A TÍTULO DE COPARTICIPAÇÃO EM DESPESAS MÉDICAS OU ODONTOLÓGICAS NÃO ESTÃO COMPREENDIDOS NO TERMO CONTRIBUIÇÃO” (sic), o que não se verifica na espécie, haja vista que a agravada “NUNCA CONTRIBUIU COM A SUA MENSALIDADE” (sic), ao passo que “Todos os pagamentos efetuados ao plano eram referentes a coparticipação e mensalidade de dependentes, o que não se encaixa nos requisitos de condições para permanência no plano de saúde” (sic).
+De outro lado, asseveram que “a decisão foi DESPROPORCIONAL E DESARRAZOADA, visto que não fixou um PRAZO PARA O CUMPRIMENTO DA LIMINAR, PRESSUPONDO-SE ASSIM, QUE SERIA IMEDIATO, OU SEJA, 24H – ALÉM DO QUE, O VALOR ARBITRADO A TITULO DE MULTA DIÁRIA FOI CLARAMENTE ABUSIVO (R$1.000,00 LIMITADO A R$ 30.000,00)” (sic), de modo que, quanto ao ponto, entendem que “o decisum agravado deve ser reformado para que a multa aplicada seja EXCLUÍDA OU, caso assim não se entenda, que a mesma seja CONSIDERAVELMENTE REDUZIDA, bem como, seja ESTENDIDO O PRAZO AO CUMPRIMENTO DA LIMINAR” (sic).
+A par disso, sustentando a presença dos requisitos legais, pugnam pela concessão do efeito suspensivo, e no mérito, postulam pelo provimento deste recurso.
+Preparo recolhido (Id 75745955).
+O almejado efeito suspensivo restou indeferido pelo e. Des. Carlos Alberto Alves da Rocha, em Substituição Legal (Id 76371982), seguindo-se da certificação do decurso de prazo da parte agravada sem manifestação para ofertar a contraminuta (Id 75596451).
+É o relatório.
+Decido.
+Em percuciente análise no sistema informatizado deste e. Tribunal de Justiça, constatei que tramitaram sob a minha relatoria os autos de Agravo de Instrumento no. 1000660-62.2021.8.11.0000, com as mesmas partes, mesmo objeto/causa de pedir e contra a mesma decisão de primeiro grau, diferenciando-se, tão somente, a banca de advogados que subscrevem as respectivas razões recursais.
+Dessa forma, denota-se que a decisão ora recorrida foi fruto de outro recurso, sendo àquele (RAI 1000660-62.2021.8.11.0000) foi distribuído às 14h51m do dia 21/01/2021, ao passo que o presente instrumento foi interposto na data de 10/02/2021, às 14h27m.
+Diante desse cenário, imperioso o reconhecimento da preclusão consumativa, porquanto, com a interposição do primeiro recurso, consuma-se o direito (ou a faculdade) da parte, não podendo praticá-lo de novo, ainda que seja veiculado pedido mais amplo que o anterior (continência).
+Sendo assim, diante da preclusão consumativa e do princípio da unirrecorribilidade recursal, que veda a interposição de mais de um recurso contra a mesma decisão judicial, não há razões para se dar prosseguimento a este último.
+Esse é o entendimento do Superior Tribunal de Justiça:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. DATA NÃO RECONHECIDA COMO FERIADO NACIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. Não se conhece do recurso especial manifestamente inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5o, 1.029, e 219, caput, todos do Código de Processo Civil. Inteligência do art. 1.003, § 6o, do CPC/2015.
+3. A jurisprudência desta Corte Superior já firmou o entendimento de que o dia de Corpus Christi não é feriado nacional, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+4. Agravo interno não provido.” (AgInt no AREsp 1487393/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/11/2019, DJe 29/11/2019) (destaquei).
+Nesse mesmo sentido é a jurisprudência deste Sodalício:
+“RECURSO DE AGRAVO INTERNO – AGRAVO DE INSTRUMENTO – PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL – PRECLUSÃO CONSUMATIVA – NÃO CONHECIMENTO – REDISCUSSÃO DA MATÉRIA – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+No caso de interposição de dois recursos pela mesma parte e em face da mesma decisão, apenas o primeiro poderá ser submetido à análise em face do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, pela mesma pessoa.
+Se a parte não traz argumentos novos capazes de convencer o julgador da necessidade de reforma da decisão que não conheceu do Agravo de Instrumento mas, se limita a reeditar a tese recursal, a manutenção da decisão atacada é medida que se impõe.” (TJMT – Agravo de Instrumento 1011061-28.2018.8.11.0000, DESA. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, Data do Julgamento 17/07/2019, Data da Publicação 22/07/2019) (destaquei).
+Diante do exposto, com fulcro no artigo 932, inciso III do CPC, NÃO CONHEÇO do presente recurso, ante a sua manifesta inadmissibilidade.
+Com o trânsito em julgado, arquive-se com as anotações de estilo.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 05 de abril de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
