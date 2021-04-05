@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, manejado por Lojas Americanas S/A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 852):
+REEXAME NECESSÁRIO E APELAÇÕES CÍVEIS EM MANDADO DE SEGURANÇA - ICMS - CRÉDITO PELAS MERCADORIAS DESTINADAS AO USO OU CONSUMO DO ESTABELECIMENTO, ENERGIA ELÉTRICA E SERVIÇOS DE TELECOMUNICAÇÃO - ALEGADA INCONSTITUCIONALIDADE DA LEI COMPLEMENTAR N. 122/06 - INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA ANTERIORIDADE, DA ANTERIORIDADE NONAGESIMAL E DA SEGURANÇA JURÍDICA - SENTENÇA REFORMADA - RECURSO DO FISCO E REMESSA PROVIDOS
+O Supremo Tribunal Federal "firmou entendimento segundo o qual a revisão ou extinção de um beneficio fiscal, que por se tratar de política econômica que pode ser revista a qualquer momento pelo Estado, não está restrita à observância dos princípios constitucionais da anterioridade e da irretroatividade" (AgR em AI n. 783.509/SP, rel. Min. Ricardo Lewandowski, Primeira Turma, j. 19.10.2010).
+A parte recorrente aponta violação ao art. 20 da LC 87/96. Sustenta, em resumo, que a restrição ao aproveitamento de crédito de ICMS decorrente da aquisição de bens de uso e consumo, de energia elétrica e dos serviços de comunicação, instituída pela LC 122/2006, viola a sistemática da não-cumulatividade.
+Recurso extraordinário interposto às fls. 897/923 e sobrestado pela decisão presidencial local de fls. 934/935.
+O Ministério Público Federal, em parecer exarado pela Subprocuradora-Geral da República Darcy Santana Vitobello às fls. 972/976, manifestou-se pelo desprovimento do agravo.
+Proferi decisão monocrática às fls. 980/983, determinando a devolução dos autos à Corte de origem para se aguardar o juízo de conformação a ser realizado tendo por base o Tema 382/STF - RE 603.917 RG/SC.
+Foi então que, às fls. 1.008/1.010, a Vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina negou seguimento ao recurso extraordinário do contribuinte, por estar o acórdão recorrido em conformidade com o Tema 382/STF.
+Vieram os autos conclusos, ante a manutenção do acórdão a quo pelo Relator (fl. 1.007).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhimento.
+Destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 853/854 e 856 - grifamos):
+Gira a controvérsia a saber se a Lei Complementar 122/2006, que postergou o direito ao creditamento para 1.1.2011, submete-se ao principio da anterioridade tributária e, caso se submeta, se deve ser considerado como termo inicial o exercício subsequente ao ano da publicação da Lei Estadual n. 13.992/2007, que regulou a matéria no Estado de Santa Catarina.
+De pronto, cumpre afastar a assertiva de que a falta de regulamentação específica na legislação estadual teria o condão de sobrestar a eficácia do diploma federal no âmbito do estado de Santa Catarina. É que a Lei Complementar 87/96, bem como a legislação federal superveniente que a modificou, respaldam-se no disposto no art. 155, § 2º, XII, "c", da Constituição Federal, o qual atribui à lei complementar, em matéria de ICMS, competência para "disciplinar o regime de compensação do imposto".
+ ..
+No que toca à suscitada ofensa ao princípio da anterioridade, adianta-se, não assiste razão ao impetrante, merecendo reforma, ao menos nesse ponto, a sentença vergastada.
+A matéria em análise já foi conhecida e resolvida pelo Supremo Tribunal Federal, a quem cabe dar a última palavra em matéria constitucional, o qual, por oportunidade do julgamento, em 19.10.2010, do Agravo Regimental em Agravo de Instrumento n. 783.509/SP, de relatoria do Exmo Min. Ricardo Lewandowski, pela Primeira Turma, se manifestou no sentido da constitucionalidade da LC n. 122/2006.
+ ..
+Como se pode perceber, a Corte Maior Constitucional já se manifestou no sentido de que a LC n. 122/2006 não ofende os princípios da anterioridade e da anterioridade nonagesimal (CF, art. 150, III, "b" e "c"), haja vista que essas normas somente possuem aplicação para o caso de instituição ou majoração de tributos, e não simplesmente, ao contrário do que defende a apelante, quanto à postergação de um beneficio.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Outrossim, sobre a matéria controvertida, ressalta-se a existência de repercussão geral já decidida pelo Supremo Tribunal Federal (Tema 382/STF - RE 603.917 RG/SC), o que reforça a constatação de que inviável a apreciação recursal sobre o tema porquanto implicaria análise de matéria constitucional, o que é vedado ao STJ, sob pena de usurpação da competência do Supremo Tribunal Federal.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
