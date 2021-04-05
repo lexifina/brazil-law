@@ -1,0 +1,37 @@
+DECISÃO
+LIBERTY SEGUROS S.A. (LIBERTY) ajuizou ação regressiva contra CENTRAL CARGO TRANSPORTES MG LTDA. (CENTRAL), pleiteando ressarcimento pelos valores pagos a terceiro por acidentes provocados por motoristas da transportadora CENTRAL.
+Citada, CENTRAL requereu a denunciação à lide de JBS S.A. (JBS), proprietária da carga acidentada e contratante do seguro perante a LIBERTY.
+Em primeira instância, o processo foi extinto, ante o reconhecimento da prescrição, julgando prejudicada a denunciação à lide. Ainda, condenou LIBERTY ao pagamento das custas e honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa e condenou CENTRAL ao pagamento das despesas realizadas por JBS e honorários sucumbenciais, estes fixados em 10% sobre o valor corrigido da causa (e-STJ, fls. 264/266).
+Os embargos declaratórios opostos por CENTRAL foram acolhidos, para sanar omissão e declarar a prescrição da pretensão quanto ao acidente ocorrido aos 3/3/2014 (e-STJ, fls. 275/276).
+A apelação interposta por LIBERTY foi provida pelo TJ/SP nos termos do acórdão de relatoria do Des. SILVEIRA PAULILO, assim ementado:
+CONTRATO DE TRANSPORTE RODOVIÁRIO. Ação Regressiva de Seguradora contra a Transportadora Rodoviária. Acidente durante o transporte de mercadorias da empresa JBS S/A. Sub-rogação nos direitos. Prazo prescricional de um ano. Inteligência do artigo 18 da Lei nº 11.442/2007. Apresentação prévia de protesto interruptivo de prescrição. Responsabilidade objetiva. Ação parcialmente procedente. Sentença reformada em parte. Recurso parcialmente provido para condenar a empresa de transporte rodoviário a ressarcir parte do valor pago pela seguradora (e-STJ, fl. 355).
+Os embargos de declaração opostos por CENTRAL e por JBS foram ambos rejeitados (e-STJ, fls. 414/416 e 437/450).
+Irresignada, JBS interpôs recurso especial com fulcro no art. 105, III, a, da CF, aduzindo, entre outras questões, a violação do art. 489, §1º, IV, do NCPC, ao sustentar que o acórdão recorrido foi omisso quanto às alegações de que (1) o termo inicial da prescrição seria a data do conhecimento do dano; (2) ainda que se considere a data do pagamento da indenização, o prazo prescricional decorreu, porquanto não houve ato interruptivo da prescrição, pois a JBS não fez parte da ação cautelar ajuizada contra CENTRAL; (3) a seguradora não pode demandar contra o transportador que celebrou o contrato de seguro; e (4) a seguradora obrigou-se a exercer o direito de regresso em face das transportadoras elencadas na apólice.
+Foram apresentadas as contrarrazões (e-STJ, fls. 454/459).
+O apelo nobre foi admitido (e-STJ, fls. 460/461).
+É o relatório.
+DECIDO.
+O recurso comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) (2) (3) e (4) Da violação do art. 1.022 do NCPC
+No presente recurso, JBS alegou ofensa ao art. 489, §1º, IV, do NCPC, ao sustentar que o acórdão recorrido foi omisso quanto às alegações de que (1) o termo inicial da prescrição seria a data do conhecimento do dano; (2) ainda que se considere a data do pagamento da indenização, o prazo prescricional decorreu, porquanto não houve ato interruptivo da prescrição, pois a JBS não fez parte da ação cautelar ajuizada contra CENTRAL; (3) a seguradora não pode demandar contra o transportador que celebrou o contrato de seguro; e (4) a seguradora obrigou-se a exercer o direito de regresso em face das transportadoras elencadas na apólice.
+Com parcial razão.
+De fato, em seus embargos de declaração a JBS requereu a manifestação do Tribunal estadual quanto ao termo inicial da prescrição, à ausência de ato interruptivo em desfavor da JBS, à impossibilidade de a seguradora demandar contra o transportador e à exclusão contratual do direito de regresso em face da transportadora CENTRAL.
+Da acurada análise do acórdão que julgou os aclaratórios verifica-se que o Tribunal estadual não tratou sobre os temas, apenas consignando:
+Anote-se que, ao contrário do que alega a embargante, a Turma Julgadora manifestou-se expressamente sobre as questões aqui suscitadas, bastando a leitura atenta ao teor do acórdão (e-STJ, fls. 438/439).
+De outra banda, o acórdão de e-STJ, fls. 354/368 apenas tratou do termo inicial do prazo prescricional, mas não enfrentou as demais questões suscitadas.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre as questões federais, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.819.895/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 30/03/2020, DJe 07/04/2020)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao TJ/SP para que analise, como entender de direito, as teses de que (i) ainda que se considere a data do pagamento da indenização, o prazo prescricional decorreu, porquanto não houve ato interruptivo da prescrição, pois a JBS não fez parte da ação cautelar ajuizada contra CENTRAL; (ii) a seguradora não pode demandar contra o transportador que celebrou o contrato de seguro; e (iii) a seguradora obrigou-se a exercer o direito de regresso em face das transportadoras elencadas na apólice.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REGRESSIVA. INDENIZAÇÃO SECURITÁRIA. ART. 489, §1º, IV, DO NCPC. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. RETORNO DOS AUTOS PARA JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
