@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF5, assim ementado (fl. 603):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. IMPROVIMENTO.
+1. Trata-se de apelação interposta por Zippy Indústria e Comércio LTDA - ME em face de sentença que julgou improcedente o pedido realizado em sede de embargos à execução fiscal, não reconhecendo a prescrição. Honorários advocatícios fixados em 10% sobre o proveito econômico (valor da causa superiora um milhão de reais).
+2. Em suas razões recursais, o apelante sustenta que houve a prescrição dos tributos declarados através de Declaração de Débitos e Créditos Tributários Federais - DCTF. Aduz que, nesse caso, a declaração do contribuinte é considerada como confissão espontânea de dívida e deve ser imediatamente inscrita em dívida ativa e cobrada judicialmente. Desse modo, alega que o marco inicial para a contagem do prazo prescricional previsto no art. 174 do CTN é a data estabelecida como vencimento da obrigação fiscal constante da declaração, independentemente de eventual lançamento de ofício.
+3. Nos embargos à execução fiscal, a embargante objetivava a declaração de prescrição dos créditos tributários objetos das CDA "s nº 30.6.10.000743-98, nº 30.6.08.013351-59, nº 30.7.08.001188-44, nº30.6.08.006877-28 e nº 30.6.11.004150-81.
+4. Nas CDA "s de nº 30.6.08.013351-59 e nº 30.7.08.001188-44, a data de inscrição em dívida ativa ocorreu em 11/12/2008 (Id. 4058109.15473547, 4058109.15473558). O crédito foi constituído em 2007,mediante declaração do contribuinte (Id. 4058109.3101512 - p. 13). A execução fiscal foi promovida em2009, dentro do prazo quinquenal.
+5. A dívida objeto da CDA nº 30.6.10.000743-98 foi inscrita em 19/04/2010. O crédito foi constituído em2009 (Id. 4058109.3101496 - p. 11). A ação foi ajuizada em 2011, antes da consumação da prescrição (Id.4058109.15473551).
+6. O tributo objeto da CDA de nº 30.6.08.006877-28 foi declarado pelo contribuinte em 2003. Houve retificação da declaração em agosto de 2007 (Id. 4058109.15473268 - p. 29).
+7. A jurisprudência do STJ firmou entendimento no sentido de que a retificação de declaração de impostos e contribuições administrados pela Secretaria da Receita Federal, nas hipóteses em que admitida, tem a mesma natureza da declaração originariamente apresentada e interrompe o prazo prescricional para a cobrança do crédito tributário, no que retificado. Precedente: STJ, REsp 1641822/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 06/03/2017.
+8. Assim, com a interrupção da prescrição em 2007 e a propositura da ação em março de 2009, constata-se que não ocorreu a prescrição.
+9. Por fim, o crédito tributário objeto da CDA nº 30.6.11.004150-81 foi constituído mediante a entrega da declaração pelo contribuinte em 2007 (Id. 4058109.15473500 - p. 4). A ação foi proposta em julho de2010, dentro do prazo quinquenal.
+10. Honorários recursais fixados em 1% (um por cento), acrescidos sobre os honorários advocatícios estabelecidos na sentença.
+11. Apelação improvida.
+O recorrente alega violação aos artigos 219, §§ 2º e 4º, do CPC/73, bem como aos artigos 156, V, e 174, do CTN, ao fundamento de que o Tribunal considerou de maneira equivocada os termos inicial e final da prescrição.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 647.
+Parecer ministerial pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+O recurso especial se funda nas seguntes razões:
+Conforme abordado acima, para evidenciar a questão objeto deste recurso, o v. acórdão recorrido, do E. TRF da 5ª Região, decidiu que a contagem do prazo prescricional se conta a partir da inscrição na Dívida Ativa da União e outra da constituição definitiva do crédito tributário, em total testilha com as disposições do art. 156, V e 174 do CTN, conforme ementado julgado, "in verbis":
+ ..
+A ação foi ajuizada em 24/04/2009. De logo observa que os débitos de jan a abr/2003, já se encontravam prescritos quando do ajuizamento da ação. A prescrição aqui é, d. v., inquestionável.
+Entretanto, quanto aos demais, o despacho de citação somente foi efetivado em 14/10/2015, seis anos após aquele despacho inicial de 05/05/2009, incidindo ai o art. § 2º, do art. 219 do CPC/73, c/c art. 174, par. único, do CTN. Caracterizada, portanto, também a chamada prescrição intercorrente.
+Ora, a citação somente foi realizada em 20/06/2016, por conta da inércia do credor, entre os anos de 2009 e 2015, que, intimada, deixou de promover a citação do executado, como prescreve o citado art. 219, §§2ºe 4º, do CPC.
+ ..
+No caso dos autos, a prescrição suscitada se reporta aos casos indicado sem que entre o vencimento do tributo ou a declaração do contribuinte (DCTF), transcorreu período superior a cinco anos, razão pela qual requer seja, provido o recurso, declarada a dita prescrição.
+Quanto aos demais casos, em que incidiu o art. 219, §§2ºe 4º, do CPC de 1973, quanto a demora imputada à parte na efetivação da citação, a incidir penalidade da não interrupção do prazo de prescrição à data do ajuizamento da ação de cobrança.
+Este Superior Tribunal de Justiça tem decidido que somente se interrompe, com efeitos retroativos à data da propositura da ação, quando verificada que sua demora se deu por motivos inerentes ao mecanismo da Justiça AgRg Ag REsp377.437/DF (Súmula106-STJ), que não é caso dos autos, fato que não foi justificado pelo exequente e nem no acordão recorrido
+Vejamos, quanto ao ponto, o que decidiu o Tribunal a quo (fls. 602-604):
+Nas CDA "s de nº 30.6.08.013351-59 e nº 30.7.08.001188-44, a data de inscrição em dívida ativa ocorreu em 11/12/2008 (Id. 4058109.15473547, 4058109.15473558). O crédito foi constituído em 2007, mediante declaração do contribuinte (Id. 4058109.3101512 - p. 13). A execução fiscal foi promovida em 2009, dentro do prazo quinquenal.
+A dívida objeto da CDA nº 30.6.10.000743-98 foi inscrita em 19/04/2010. O crédito foi constituído em2009 (Id. 4058109.3101496 - p. 11). A ação foi ajuizada em 2011, antes da consumação da prescrição (Id.4058109.15473551).
+O tributo objeto da CDA de nº 30.6.08.006877-28 foi declarado pelo contribuinte em 2003. Houve retificação da declaração em agosto de 2007 (Id. 4058109.15473268 - p. 29).
+A jurisprudência do STJ firmou entendimento no sentido de que a retificação de declaração de impostos e contribuições administrados pela Secretaria da Receita Federal, nas hipóteses em que admitida, tem a mesma natureza da declaração originariamente apresentada e interrompe o prazo prescricional para a cobrança do crédito tributário, no que retificado. Precedente: STJ, REsp 1641822/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 06/03/2017.
+Assim, com a interrupção da prescrição em 2007 e a propositura da ação em março de 2009, constata-se que não ocorreu a prescrição.
+Por fim, o crédito tributário objeto da CDA nº 30.6.11.004150-81 foi constituído mediante a entrega da declaração pelo contribuinte em 2007 (Id. 4058109.15473500 - p. 4). A ação foi proposta em julho de2010, dentro do prazo quinquenal.
+Verifica-se que, ao contrário do que alega o recorrente, o acórdão recorrido considerou a data da declaração como termo inicial do prazo prescricional, para todas as CDA"s, exceto para aquela na qual houve retificação, quando considerou a data da retificação.Como termo final, verifica-se que o acórdão considerou a data do ajuizamento da execução. Isto é, considerou o disposto no § 1º da art. 219 do CPC/73.
+Assim sendo, ao sustentar que "o E. TRF da 5ª Região, decidiu que a contagem do prazo prescricional se conta a partir da inscrição na Dívida Ativa da União e outra da constituição definitiva do crédito tributário, em total testilha com as disposições do art. 156, V e 174 do CTN" (sic), as razões recursais se mostram dissociadas do fundamento adotado pelo acórdão recorrido, atraindo a aplicação da Súmula 284/STF, diante da deficiência de fundamentação.
+No que diz respeito à suposta ofensa aos §§ 2º e 4º do art. 219 (e a tese a eles vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem sobre a questão, e a parte não opôs embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. TERMO INICIAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO.SÚMULA 284/STF.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO
