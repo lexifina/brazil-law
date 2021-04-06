@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DA PARAÍBA contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DEDÉBITO FISCAL. PROCESSO EXECUTÓRIO EXTINTO SEM RESOLUÇÃO DO MÉRITO. NÃOPAGAMENTO DAS DILIGÊNCIAS COM OFICIAL DE JUSTIÇA. TRÂNSITO EMJULGADO. AUSÊNCIA DE CAUSAS INTERRUPTIVAS OUSUSPENSIVASDAPRESCRIÇÃO. LAPSOTEMPORAL DE MAIS DE 10 (DEZ) ANOS DESDEA CONSTITUIÇÃO DO DÉBITO. IMPUGNAÇÃO DENULIDADE DA CERTIDÃO DO TRÂNSITO EMJULGADO QUE NÃO INTERFERE NA CONTAGEMDO PRAZO PRESCRICIONAL. ACOLHIMENTO DAPRESCRIÇÃO. ACERTO DA DECISÃO RECORRIDA.HONORÁRIOS ADVOCATÍCIOS CORRETAMENTE FIXADOS. DESPROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 313, 489 e 1.022 do CPC/2015 e do art. 174 do CTN, sustentando, em síntese (fls. 236/249):
+Uma vez ciente da superveniente impugnação do ora Recorrente nos autos do processo executivo, com a devida cópia da petição acostada aos autos, deveria o Juízo recorrido, minimamente, proceder com a suspensão do processo até ser resolvida ou declarada a pendência da questão levantada nos autos do processo executivo, mas assim também não o fez. Ao que parece, existiu uma absoluta ausência de cautela ou, ainda, uma perseguição a uma celeridade integralmente apartada do acertamento e dos verdadeiros escopos jurisdicionais.
+ ..
+Não resta dúvida que o resultado da impugnação do trânsito em julgado na execução fiscal nº 033.2001.000256-7 influi diretamente no julgamento da ação anulatória em referência, que levante suposta prescrição, uma vez que sua resolução declarará a inexistência de pendência da relação jurídica para tal cobrança.
+ ..
+No caso concreto, o período transcorrido desde os julgados não pode ser oposto contra a Fazenda Pública sob a intuito de prescrição, uma vez que o decurso do período prescricional em face de erro provocado pelo próprio Judiciário não rende ensejo a prejuízo à Fazenda Pública (sentido teleológico da Súmula 106/ STJ).Registre-se, a ausência de intimação pessoal da Fazenda Pública em sede dos processos de execução fiscal, conforme entendimento uníssono da doutrina e jurisprudência, resulta imperativamente na necessária decretação de nulidade do processo.
+ ..
+A prescrição somente atinge aqueles que dormem; pelo contrário, como demonstrado no parágrafo acima, o Recorrente mostrou-se interessado em propor a ação. Se este entendimento for esquecido nos casos em que há extinção do processo sem resolução do mérito, inadmitindo a citação válida como causa de interrupção da prescrição, vai-se no sentido contrário à vontade do legislador, punindo injustamente o exeqüente. Portanto, a citação realizada ou a ser realizada na execução fiscal proposta, ainda que tenha sido julgada sem resolução do mérito, é causa interruptiva da prescrição.
+Contrarrazões apresentadas pela parte recorrida, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 253/269).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 197/203):
+Como bem relatado na Decisão Recorrida, e mencionado pelo próprio Recorrente, a CDA nº 003303200001809 foi lançada em 28.12.2000 (fl. 28), e a correspondente Ação de Execução nº 033.2001.000256-7, com tramitação perante a 4a Vara da Comarca de Santa Rita, se mostrou frustrada ante a extinção do processo sem resolução do mérito, tendo em vista o não pagamento das diligências do Oficial de Justiça para proceder a citação do Executado (então vigente art. 267, III, do CPC).
+ ..
+Dessa Decisão, o Estado da Paraíba, ora Recorrente, manejou o competente recurso apelatório, havendo o Des. João Alves da Silva negado seguimento à referida Apelação Cível, mantendo os exatos termos da Sentença, por encontra-se em consonância com o enunciado da Súmula nº 190 do STJ.
+ ..
+Em face da ausência do manejo de quaisquer outros recursos, em 26 de maio de 2003, a matéria transitou em julgado, ocorrendo o arquivamento dos autos em 03.06.2003 (fl. 130).
+Dessa forma, em que pesem os argumentos do Recorrente, ainda que o pedido de impugnação à supracitada certidão de trânsito em julgado do processo executório seja acolhido naqueles autos, tal questão não interferirá na contagem e verificação da prescrição.
+Portanto, como o débito fiscal foi lançado em 28.12.2000 e o processo executivo foi extinto sem resolução do mérito antes mesmo da citação da parte executada, passados mais de 10 (dez) anos sem a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição, tem-se claro que o débito encontra-se prescrito, notadamente, porque inexiste a comprovação de que nova Ação Executiva tenha sido proposta pelo Estado da Paraíba.
+No mais, por esse mesmo motivo, entendo que não se mostrava nem se mostra viável o pleito de suspensão do presente processo com base no art. 265, IV, do CPC/1973.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 226/232).
+Pois bem.
+Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+À luz dos arts. 156 e 174 do CTN, não ocorrendo causa suspensiva ou interruptiva do transcurso do prazo prescricional da pretensão de cobrança, transcorridos mais de cinco anos, necessária a extinção da execução fiscal, porquanto há extinção do próprio crédito tributário.
+No caso dos autos, não ocorreu a citação no primeiro processo executivo porque a parte exequente não quis antecipar as despesas necessárias à realização do ato, o que ensejou o reconhecimento da prescrição da pretensão à cobrança do crédito tributário, no segundo processo executivo, porquanto ultrapassado mais de 10 anos do trânsito em julgado da sentença extintiva. E, para além, o órgão julgador entendeu não ser o caso para suspensão do processo executivo.
+Nesse contexto, o conhecimento do recurso encontra óbice na Súmulas 7 e 83 do STJ.
+A respeito, dentre outros: AgInt no AREsp 1288985/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 01/07/2019, DJe 02/08/2019; REsp 1758217/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/09/2018, DJe 27/11/2018; REsp 1120295/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 12/05/2010, DJe 21/05/2010; REsp 999.901/RS, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 13/05/2009, DJe 10/06/2009.
+Ante o exposto, conheço parcialmente do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
