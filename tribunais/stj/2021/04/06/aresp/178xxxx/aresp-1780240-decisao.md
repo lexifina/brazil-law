@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO MONITÓRIA. CONTRATO DE DESCONTO DE TÍTULOS. SENTENÇA QUE ACOLHEU PARCIALMENTE OS EMBARGOS OPOSTOS PARA LIMITAR OS JUROS REMUNERATÓRIOS EM 12% (DOZE POR CENTO) AO ANO, EXCLUIR A CAPITALIZAÇÃO DE JUROS E DETERMINAR A REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. RECURSO DO POLO RÉU/EMBARGANTE. PRETENDIDA REFORMA DA SENTENÇA, A FIM DE JULGAR EXTINTA A DEMANDA, POR AUSÊNCIA DE PROVA ESCRITA SUFICIENTE A EMBASAR A AÇÃO MONITÓRIA. ACOLHIMENTO. APRESENTAÇÃO, JUNTO À INICIAL, DE CÓPIA DO PACTO E DOS RESPECTIVOS ADITIVOS E DEMONSTRATIVO DO DÉBITO. AVENÇA EM DEBATE NA LIDE, CONTUDO, QUE CONSISTE EM OPERAÇÃO DE DESCONTO DE TÍTULOS. NECESSIDADE, DIANTE DISSO, DE APRESENTAÇÃO DAS CÓPIAS DAS DUPLICATAS MERCANTIS RECEBIDAS DO POLO RÉU QUE SE ENCONTRAM "EM ABERTO" OU QUALQUER OUTRA PROVA CAPAZ DE DEMONSTRAR QUE ELAS EFETIVAMENTE NÃO FORAM PAGAS PELOS DEVEDORES SACADOS, PARA JUSTIFICAR A EXIGÊNCIA DO SALDO INDICADO NO DEMONSTRATIVO. DOCUMENTAÇÃO CITADA, PORÉM, NÃO COLACIONADA AO FEITO. PROVA DO CRÉDITO PERSEGUIDO, PORTANTO, INEXISTENTE. SENTENÇA REFORMADA PARA SE JULGAR IMPROCEDENTE A DEMANDA. DEMAIS TESES RECURSAIS DO POLO DEMANDANDO E RECURSO DA CASA BANCÁRIA AUTORA PREJUDICADOS. CONDENAÇÃO DA PARTE ACIONANTES AO PAGAMENTO DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS QUE SE OPERA, ESTES NO PERCENTUAL 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA, CONFORME ART. 85, § 2º, DO ATUAL DIPLOMA PROCESSUAL CIVIL. RECURSO DO POLO RÉU/EMBARGANTE CONHECIDO E PROVIDO. RECLAMO DA CASA BANCÁRIA AUTORA/EMBARGADA PREJUDICADO" (e-STJ fls. 244/245).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos arts. 10, 321 e 1.010 do Código de Processo Civil de 2015, ao fundamento de que, antes do indeferimento da inicial, deve haver a intimação para apresentar os documentos que o julgador entenda como necessários ao deslinde da causa.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O acórdão atacado asseverou que o recorrenteteve oportunidade de apresentar os documentos necessários para a comprovação do débito, mas quedou-se inerte.
+Eis o trecho pertinente:
+"(..)
+Consigne-se, por oportuno, que a questão sob enfoque foi suscitada em sede de embargos monitórios, tendo o polo autor, na sequência, limitado-se a alegar que os documentos apresentados na exordial seriam suficientes para provar a existência do débito (fls. 148/149), motivo pelo qual não há falar em conversão em diligência (Apelação Cível n. 0301313-11.2016.8.24.0068, rel. Des. Robson Luz Varella, j. em 22.01.2019; e Apelação Cível n. 0305269-07.2016.8.24.0045, rel. Des. Sérgio Izidoro Heil, j. em 27.8.2019)" (e-STJ fl. 251).
+Essefundamento, entretanto, não foiobjeto de impugnação recursal, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+Ainda que superado esse óbice, verifica-se que o acórdão recorrido entendeu que a parte autora não preencheu os requisitos do art. 700 do CPC/2015, acostando documentação insuficiente.
+Assim, a reforma desse entendimento demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO ANTE A INCIDÊNCIA DA SÚMULA 7 DO STJ. IRRESIGNAÇÃO DA REQUERENTE.
+1. O descumprimento, pela parte autora, de determinação judicial para a emenda da inicial impõe o indeferimento da petição, com a extinção do processo sem a resolução do mérito. Inteligência da regra do art. 284, parágrafo único, do CPC/73. Precedentes.
+2. Rever a conclusão do Tribunal a quo de que as provas constantes nos autos seriam suficientes à demonstração de existência do débito, requisito essencial ao conhecimento da ação monitória, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+3. Agravo regimental desprovido" (AgRg no REsp 1.575.717/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/5/2016, DJe 24/5/2016).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. ADMISSIBILIDADE. INÍCIO DE PROVA. NÃO RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCIDÊNCIA.
+1. O Tribunal de origem, após minucioso exame da documentação que instrui a inicial, apurou que os documentos não são suficientes para atender aos requisitos da legislação processual para cobrança via ação monitória, exigindo a inversão do julgado o vedado reexame de provas. Incidência do enunciado nº 7 da Súmula do STJ.
+2. Agravo regimental não provido" (AgRg nos EDcl no AREsp 645.228/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 3/2/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
