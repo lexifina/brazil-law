@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pela FAZENDA NACIONAL, com fundamento no art. 1.043, I, do CPC/2015, apresentando como acórdão recorrido o abaixo ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITOS ORIUNDOS DO REINTEGRA. INCLUSÃO NAS BASES DE CÁLCULO DO IRPJ E DA CSLL. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA NO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Os créditos oriundos do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - REINTEGRA - não compõem as bases de cálculo do IRPJ e da CSLL. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+No presente recurso, o embargante afirma, em síntese, que o acórdão recorrido está em dissonância com a jurisprudência apresentada no julgamento do REsp n. 1.823.396/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 19/12/2019, cujo acórdão foi assim ementado, in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ANÁLISE DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. REINTEGRA. BASE DE CÁLCULO. PIS E COFINS. BASE DE CÁLCULO DO IRPJ E DA CSLL.CABIMENTO. 3
+1. Não compete ao Superior Tribunal de Justiça, em Recurso Especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem uniformizar a interpretação de matéria constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+2. O STJ tem entendimento no sentido de que os valores do Reintegra são passíveis de incidência do IRPJ e da CSLL, até o advento da Medida Provisória 651/2014, posteriormente convertida na Lei 13.043/2014. 3. Ressalte-se, ademais, que o entendimento firmado pela Primeira Seção nos EREsp 1.517.492/PR não se aplica ao presente caso. Como bem ressaltado pela Segunda Turma em precedente recente, não há, no caso do Reintegra, violação ao princípio federativo (AgInt no REsp 1.782.172/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21.5.2019).
+4. Recurso Especial não provido.
+Requer o provimento dos embargos de divergência para prevalecer o entendimento sufragado no acórdão paradigma..
+É o relatório. Decido.
+A princípio, está caracterizada a divergência entre os órgãos julgadores da Primeira Seção deste Superior Tribunal de Justiça, devendo ser admitidos os embargos de divergência.
+Dê-se vista dos autos à embargada para, querendo, apresentar impugnação no prazo de 15 (quinze) dias, a teor do artigo 267 do RI/STJ. Após, encaminhem-se os autos ao Ministério Público Federal, pelo prazo de 20 (vinte dias), conforme o art. 266-D, do RI/STJ, para o abalizado parecer.
+Publique-se. Intimem-se.
