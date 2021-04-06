@@ -1,0 +1,75 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CUMPRIMENTO PROVISÓRIO DE DECISÃO JUDICIAL. OMISSÃO NÃO CONFIGURADA. LITIGÂNCIA DE MÁ-FÉ. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Ademais, tendo o acórdão recorrido afirmado que a sanção pela litigância de má-fé decorre de má-fé processual, consignando que "Como se vê, demonstrado está a atuação da embargante com finalidade de prejudicar outrem de forma intencional, pois sabedora que a sentença, cujo cumprimento provisório é pretendido, envolve OMEP e Município e não Seleta e Município", a revisão desse entendimento fica obstada pela Súmula 7/STJ.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. , e-STJ) que negou seguimento ao Recurso Especial, sob o argumento de que
+A parte agravante sustenta, em suma, que "a decisão recorrida deveria ter demonstrado, de forma fundamentada, identificando em seus fundamentos, por que entende que a decisão do Tribunal de Justiça a quo, não ensejava recurso de embargos de declaração, e, não, ter utilizado um standart jurídico, sem um olhar para o caso concreto NOVAMENTE" (fl. 403, e-STJ).
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CUMPRIMENTO PROVISÓRIO DE DECISÃO JUDICIAL. OMISSÃO NÃO CONFIGURADA. LITIGÂNCIA DE MÁ-FÉ. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Ademais, tendo o acórdão recorrido afirmado que a sanção pela litigância de má-fé decorre de má-fé processual, consignando que "Como se vê, demonstrado está a atuação da embargante com finalidade de prejudicar outrem de forma intencional, pois sabedora que a sentença, cujo cumprimento provisório é pretendido, envolve OMEP e Município e não Seleta e Município", a revisão desse entendimento fica obstada pela Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.2.2016.
+O Agravo Regimental não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No julgamento do presente caso, o Tribunal de origem consignou (fls. 212-214, e-STJ):
+Por outro lado, tenho por pertinente distinguir para que não paire dúvidas sobre a disposição do artigo 10 do CPC, que na espécie não foi ele afrontado.
+Explico.
+A inovação do dispositivo em questão trás em seu bojo diálogo entre partes e juiz sobre argumentos e fundamentos que admitam debate e que possam influir no convencimento do magistrado.
+Não é o caso em apreço. A ausência de interesse processual averiguável de plano, insere-se dentre aquelas que não admite debate, é vício insanável, pois é requisito de condição da ação cuja cognoscividade dar-se-á prima facie e in status assertionis.
+A decisão surpresa insere-se no contexto do processo a partir do momento que supera a condição da ação, o que não ocorreu na espécie.
+No que diz respeito à litigância de má-fé, também sem razão a embargante.
+A respeito ponderou o juízo singular:
+A bem da verdade, está muito clara a má-fé da Seleta, ao utilizar-se do processo para conseguir objetivo ilegal - fugir da regra do art. 100 da CF (art. 80, III, CPC); agindo de modo temerário ao tentar induzir o juízo em erro, com a invocação de tese de repercussão geral totalmente diversa do caso dos autos, mediante um jogo de palavras (art. 80, V, CPC);
+provocando incidente manifestamente infundado, já que tenta executar uma decisão que não a beneficia, pois prolatada em processo do qual não é parte e em que o objeto atém-se a convênio firmado por outra entidade com o Município (art. 80, VI, CPC).
+Por isto, é cabível a aplicação da penalidade prevista no art. 81 do CPC, que atento ao alto dolo da exequente e pelo elevado potencial de dano que poderia ter causado aos cofres públicos e também aos demais credores que aguardam pacientemente a liberação dos seus precatórios e que, portanto, preferem à Seleta, fixo em 5% sobre o valor da causa, que reverterá em favor do Município de Campo Grande nos termos do art. 96 do CPC. (f. 85).
+(..)
+Do contexto fático constante dos autos, é incontroverso ter a apelante praticado atos que efetivamente se contrapõem à lealdade processual.
+A primeira delas consiste em beneficiar-se de pronunciamento judicial proferido em processo que sequer faz parte. A identidade dos pedidos mediatos e imediatos da ação que promoveu contra o município com a promovida pela OMEP não lhe confere poderes para executar a questionada decisão.
+Posto isso, com o parecer, divirjo em parte do voto do relator, apenas para manter a pena de litigância de má-fé aplicada à apelante. (f. 212-213).
+Como se vê, demonstrado está a atuação da embargante com finalidade de prejudicar outrem de forma intencional, pois sabedora que a sentença, cujo cumprimento provisório é pretendido, envolve OMEP e Município e não Seleta e Município.
+Inexistindo os vícios indicados e sim intuito de provocar rejulgamento do apelo, não há como dar provimento ao recurso.
+Conforme já disposto no decisum combatido, constato que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015).
+2. Hipótese em que não há no julgado nenhuma situação que dê amparo ao recurso integrativo.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.544.177/DF, Rel. MINISTRO GURGEL DE FARIA, PRIMEIRA TURMA, DJe 5/8/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. REJEIÇÃO.
+1. Esta Corte Superior de Justiça firmou compreensão segundo a qual, nos termos da legislação processual de regência, prestam-se os embargos declaratórios ao suprimento de omissão, à harmonização de pontos contraditórios ou ao esclarecimento de obscuridades, com o intuito de se ter por afastados óbices que, porventura, comprometam a viabilidade da execução do decisum.
+2. Seguindo a mesma esteira de posicionamento, a rejeição será inevitável quando ausentes os vícios previstos no art. 1.022, caput, parágrafo único e respectivos incisos, do CPC/2015, sobretudo por não se coadunar a via aclaratória com o propósito de rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 828.944/SP, Rel. MINISTRA DIVA MALERBI, SEGUNDA TURMA, DJe 28/6/2016)
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Ademais, tendo o acórdão recorrido afirmado que a sanção pela litigância de má-fé decorre de má-fé processual, consignando que "Como se vê, demonstrado está a atuação da embargante com finalidade de prejudicar outrem de forma intencional, pois sabedora que a sentença, cujo cumprimento provisório é pretendido, envolve OMEP e Município e não Seleta e Município", a revisão desse entendimento fica obstada pela Súmula 7/STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. PARTE BENEFICIÁRIA DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVOGAÇÃO DO BENEFÍCIO. DESCABIMENTO.
+1. Ação ajuizada em 01/12/2014. Recurso especial interposto em 25/08/2016 e distribuído em 04/04/2017.
+2. Os propósitos recursais são: a) a cassação do acórdão recorrido, por negativa de prestação jurisdicional; b) o afastamento da condenação por litigância de má-fé; c) a manutenção do benefício da assistência judiciária gratuita.
+3. Ausente vício de omissão, contradição, obscuridade ou erro material a ser sanado, é de rigor a rejeição dos embargos de declaração.
+4. É inviável, em sede de recurso especial, a análise acerca da caracterização da litigância de má-fé por alteração da verdade dos fatos, em razão do óbice veiculado pela Súmula 7/STJ.
+5. As sanções aplicáveis ao litigante de má-fé são aquelas taxativamente previstas pelo legislador, não comportando interpretação extensiva. 6. Assim, apesar de reprovável, a conduta desleal, ímproba, de uma parte beneficiária da assistência judiciária gratuita não acarreta, por si só, a revogação do benefício, atraindo, tão somente, a incidência das penas expressamente cominadas no texto legal.
+7. A revogação do benefício da assistência judiciária gratuita - importante instrumento de democratização do acesso ao Poder Judiciário - pressupõe prova da inexistência ou do desaparecimento do estado de miserabilidade econômica, não estando atrelada à forma de atuação da parte no processo.
+8. Nos termos do art. 98, § 4º, do CPC/2015, a concessão da gratuidade de justiça não isenta a parte beneficiária de, ao final do processo, pagar as penalidades que lhe foram impostas em decorrência da litigância de má-fé.
+9. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido. (REsp 1663193/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. VIOLAÇÃO DO ART. 535, II, DO CÓDIGO DE PROCESSO CIVIL/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ARTS. 18 E 131 DO CPC/1973. ARTS. 142, 150, § 4º, E 173, I, DO CÓDIGO TRIBUTÁRIO NACIONAL. ART. 5º, § 1º, DO DECRETO-LEI 2.124/1984. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Recurso Especial impugna acórdão publicado na vigência do CPC de 1973, sendo-lhe exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme o Enunciado Administrativo 2, aprovado pelo Plenário deste Tribunal em 9.3.2016.
+(..)
+4. Hipótese em que o Tribunal de origem, com base nas provas dos autos consignou: "o juiz a quo com grande propriedade constatou que o comportamento dos impetrantes configurou litigância de má-fé, pois a última manifestação é infundada, ante o requerimento de suspensão da exigibilidade e de depósito feito às fls. 303/304, nos termos do artigo 17, VI do CPC (fls. 325/326). Com efeito, de acordo com o artigo 16 do CPC, responde por perdas e danos aquele que pleitear de má-fé como autor, réu ou interveniente. Reputa-se litigante de má-fé aquele que deduzir pretensão contra fato incontroverso. As partes devem pleitear e agir nos limites da boa-fé e da lisura, não se podendo alterar a verdade dos fatos para induzir o magistrado a erro, nem solicitar pretensão defesa em lei. Restou cristalina a má-fé dos impetrantes, pois ao pleitearem o depósito eles próprios fundamentaram o pedido no fato de que os valores seriam convertidos em renda da União, se o feito fosse julgado improcedente. Vem a jurisprudência se manifestando no sentido de que há litigância de má-fé quando as afirmações são contrárias aos documentos da causa, como no presente caso" (fls. 596-597, e-STJ).
+5. Desse modo, inviável o acolhimento da reivindicação dos recorrentes, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Precedentes: AgInt no AREsp 1.004.740/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23.6.2017; e AgInt no AgInt no AREsp 892.089/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 12.6.2017.
+6. Os recorrentes reiteram, em seus memoriais, as razões do Recurso Especial, não apresentando nenhum argumento novo.
+7. Recurso Especial não conhecido." (REsp 1703138/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
