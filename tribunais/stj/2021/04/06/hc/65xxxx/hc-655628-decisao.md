@@ -1,0 +1,19 @@
+DECISÃO
+RAFAEL HENRIQUE RODRIGUES DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2297729-13.2020.8.26.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que o Juízo singular acolheu requerimento do Ministério Público estadual e decretou, em 11/12/2020, a prisão preventiva do paciente pela suposta prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, na data de 31/8/2019
+Consoante a defesa, " d eve ser ressaltada a pequena quantidade de entorpecentes apreendidos (uma porção de maconha - 5,4 g, uma porção de cocaína - 0,740 g e um comprimido de MDMA - 0,24 g), bem como o fato de que o ocorrido se deu em 31 de agosto de 2.019 e o decreto da custódia cautelar ocorreu em 11 de dezembro de 2.020" (fl. 5).
+Decido.
+A despeito da alegação defensiva quanto à suposta ausência de contemporaneidade da medida, salientou o Juízo de primeira instância que "Rafael foi preso em flagrante por outro processo e pelo mesmo delito, e se solto poderá fugir do distrito da culpa, colocando em risco a aplicação da lei penal" (fl. 84, grifei).
+No mesmo sentido, apontou a Corte de origem que "há notícia de que o paciente Rafael foi preso em flagrante pelo mesmo delito, a denotar sua reiteração no meio ilícito, representando, assim, risco à ordem pública, e a indicar a insuficiência das medidas cautelares na espécie" (fl. 14).
+A esse respeito, urge consignar que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Confiram-se:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico de drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+ ..
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, bem evidenciada pela natureza e quantidade da droga apreendida (342 pedras de crack, com peso total de 115,6 g), bem como no risco de reiteração delitiva, já que um dos acusados se encontrava no gozo de liberdade provisória, pela prática do mesmo delito. Precedentes  ..  (RHC n. 104.764/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 19/3/2019, grifei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
