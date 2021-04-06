@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por OTÁVIO ALVES DA SILVA, contra decisão que inadmitiu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação:usucapião extraordinária ajuizada por Otávio Alves da Silva, em face de Francisco Armando de Freitas e Outros, objetivando o reconhecimento da prescrição aquisitiva originária dos lotes nº. 13, 14 e 15 do Loteamento Jardim São José daComarca de Rondonópolis/MT.
+Sentença: julgou improcedentes os pedidos do agravante.
+Acórdão: negou provimento à apelação de Otávio Alves da Silva pela falta de demonstração de exercício de posse mansa, pacífica e ininterrupta sobre o imóvel durante o prazo prescricional aquisitivo (e-STJ fls. 439/465).
+Decisão de admissibilidade do TJMT: inadmitiu o recurso especial do agravante em razão da incidência das Súmulas 284 do STFe 7 do STJ, além do reconhecimento da impossibilidade de alegação de violação de dispositivo constitucional em recurso especial. Ademais, declarou prejudicada a análise do dissídio jurisprudencial pela incidência da Súmula 7 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto peloagravante foi inadmitido com base na incidência dasSúmulas 7 do STJ e 284 do STF, no não cabimento de recurso especial fundado em violação de dispositivo constitucional, e prejudicialidade da análise da divergência jurisprudencial pela necessidade de reexame de fatos e provas dos autos.
+No entanto, da leitura do agravo em recurso especial, em que pese o agravante alegar que a admissibilidade do Tribunal de origem é uma "decisão-padrão ou decisão-modelo"(e-STJ fls. 544/545), constata-se que não impugnou adequadamente, de forma clara e específica, os óbices aplicados.
+Ressalte-se que não basta a mera alegação de que a hipótese prescinde de reexame de provas, devendo ser demonstrada sua efetiva desnecessidade na hipótese em que o TJMT declara que "asuposta violação aos artigos 1.200 e 1204 do CC, está amparada na assertiva de que há elementos de convicção dos autos são suficientes para demonstrar a posse justa, ininterrupta e com animus domini dos imóveis urbanos usucapiendos em questão" (e-STJ fl. 539). O que não foi feito.
+Além disso, não há impugnação específica quanto à incidência da Súmula284 do STF, aonão cabimento de recurso especial fundado em violação de dispositivo constitucional, e à prejudicialidade da análise da divergência jurisprudencial.
+Consoante o entendimento desta Corte, firmado à luz do princípio dadialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razõesdo agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual econsistente dofundamentoda decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal enos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação de todos os fundamentos da decisão agravada, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa para 18 % (e-STJ fl. 460), observada a gratuidade de justiça concedida ao agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
