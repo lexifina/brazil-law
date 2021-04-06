@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CLAUDIO MAURICIO DOS SANTOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 29/11/2019.
+Concluso ao gabinete em: 17/02/2021.
+Ação:de revisão contratual ajuizada pelo recorrenteem face de FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSANem contratos de empréstimos realizados.
+Sentença:julgou parcialmente procedente a demanda para determinar a revisão dos contratos com a limitação da taxa de juros remuneratórios a 1% ao mês e capitalização de juros anual, condenando na repetição dos valores com correção monetária e juros de mora.
+Acórdão: negou provimento à apelação de ambas as partes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. FUNDAÇÃO CORSAN (FUNCORSAN).
+I. No tocante à pretensão revisional, aplicável o prazo de dez anos, com fulcro no art. 205 do CC.
+II. Tratando-se a ré de entidade de previdência privada fechada, não pode valer-se das disposições legais que regem as instituições financeiras, de modo que, no caso, deve ser observada a vedação relativa à cobrança de juros superiores a 12% ao ano, nos termos do art. 1 2 da Lei de Usura (Dec. 22.626/33). No entanto, em relação aos contratos celebrados antes da vigência da Lei Complementar n 2 109, que ocorreu em 29 de maio de 2001, não há que se falar em revisão dos juros remuneratórios.
+III. A capitalização mensal dos juros remuneratórios somente passou a ser aceita após a edição da Medida Provisória n 2 2.170-36, de 23 de agosto de 2001, exigindo-se, ainda, sua previsão expressa no contrato firmado entre as partes. No caso, o encargo foi afastado justamente em face da inexistência de cláusula contratual, mas da demonstração da incidência de juros sobre juros na amortização dos pagamentos, devendo ser afastada a alegação de falta de interesse de agir. Por outro lado, o pedido do autor de afastamento da capitalização anual esbarra no art. 329 do CPC. Recurso não conhecido no ponto, diante da inovação recursal operada.
+IV. inexiste abusividade decorrente da taxa de administração ser calculada sobre o total da operação de refinanciamento, já que o capital emprestado, de fato, é composto pela soma do saldo do mútuo anterior com o chamado "troco". Negaram provimento ao apelo da ré e conheceram parcialmente do apelo do autor, negando-lhe provimento na parte conhecida. Unânime.
+Embargos de Declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega violação doart. 322, §2º, do CPC, bem como dissídio jurisprudencial. Sustenta que, embora o pedido expresso na petição inicial referiu-se ao afastamento da capitalização mensal de juros, a capitalização na periodicidade anual também deveria ter sido afastada, haja vista que o conjunto da postulação envolvia a insurgência contra a capitalização de juros em qualquer periodicidade em razão de derivar-se de ausência de prévia pactuação.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da capitalização anual de juros.
+A sentença, ao julgar procedente a demanda, decidiu, quanto aos juros o seguinte:
+"Quanto a capitalização de juros, não assiste razão a ré, já que o autor demonstrou que, na evolução dos valores, foram aplicados juros de forma capitalizada, mensalmente.
+Como os contratos não contam com previsão expressa para a sua incidência mensal, é certa a revisão para determinar o recálculo dos valores devidos com capitalização anual dos juros apenas" (fl. 141, e-STJ).
+O recurso de apelação do recorrente sustentou a necessidade do afastamento da capitalização anual de juros, uma vez que igualmente não teriam sido pactuados. Contudo, o recurso não foi conhecido neste ponto em razão de inovação recursal.
+O acórdão que julgou os embargos de declaração, assim fundamentou a impossibilidade de exame do pedido de afastamento da capitalização de juros em periodicidade anual:
+"No caso, as alegadas obscuridade e omissão constituem flagrante tentativa de reexame da matéria. Neste sentido, seembargante entendia que a capitalização anual também deveria ser afastada, deveria ter postulado expressamente em sua inicial, forte no art. 322 c/c o art. 324, ambos do CPC, por força dos quais o pedido deve ser certo e determinado. O §2º, do referido art. 322, não autoriza que o magistrado viole os princípios da demanda e da congruência" (fls. 222/223, e-STJ).
+Assiste razão ao recorrente. Com efeito, oSTJ firmou entendimento no sentido de que cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir de uma análise de todo o seu conteúdo, e não apenas da parte da petição destinada aos requerimentos finais. Nesse sentido: REsp 1793637/PR, 3ª Turma, DJe 19/11/2020; REsp 1637375/SP, 3ª Turma, DJe 25/11/2020; e AgInt no REsp 1632928/RJ, 4ª Turma, DJe 10/08/2020.
+No caso, considerando que, apesar de o pedido expresso na inicial tenha se referido à insurgência contra a capitalização mensal de juros, houve a validação da capitalização de juros na periodicidade anual na própria sentença. E considerando que a causa de pedirda pretensão do afastamento da capitalização de juros em qualquer periodicidade é a falta de previsão contratual expressa, deveria ter a Corte de origem se manifestado a respeito da legalidade ou não, no caso concreto, da capitalização anual de juros.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar o retorno dos autos à origem para que conheça da insurgência contra a capitalização de juros na periodicidade anual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. MÚTUO. CAPITALIZAÇÃO DE JUROS.PRINCÍPIOS DA ADSTRIÇÃO E DA CONGRUÊNCIA. CONJUNTO DA POSTULAÇÃO. INTERPRETAÇÃO SISTEMÁTICA.
+1. Cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir de uma análise de todo o seu conteúdo, e não apenas da parte da petição destinada aos requerimentos finais. Precedentes.
+2. Recurso especial conhecido e provido.
