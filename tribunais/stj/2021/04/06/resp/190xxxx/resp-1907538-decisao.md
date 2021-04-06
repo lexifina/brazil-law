@@ -1,0 +1,54 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por FRANCISCA DE ASSIS FERREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.PRINCIPIO DA CAUSALIDADE - IMPOSIÇÃO À PARTE QUE DEU CAUSA A INSTAURAÇÃO DA DEMANDA - REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - VALOR EXORBITANTE - RECURSO PARCIALMENTE PROVIDO.
+- O princípio da causalidade, adotado pelo artigo 85, §10, do CPC, impõe à parte que deu causa ao ajuizamento da ação, o ônus de arcar com o pagamento das custas processuais e dos honorários advocatícios.
+- A verba honorária arbitrada em razão do sucumbimento processual está adstrita a critérios de valoração delineados na lei processual.
+- Fixada a verba honorária em quantia exacerbada, à luz da pequena complexidade da causa e do curto tempo de duração da demanda, adequado se mostra a modificação do valor arbitrado, cuja minoração dos honorários é medida que se impõe.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 210-214).
+A recorrente aponta violação do art. 85, § 2º, do CPC/2015. Aduz que (e-STJ, fl. 227):
+No presente caso o valor econômico foi obtido, R$ 64.915,47 (sessenta e quatro mil novecentos e quinze reais e quarenta e sete centavos), devidamente concordado pelo Município. Desta forma, diante da decisão do Juízo o valor dos honorários advocatícios é de R$ 6.491,54 (seis mil quatrocentos e noventa e um reais e cinquenta e sete centavos).
+A Câmara Julgadora decidiu por reduzir para R$ 2.000,00 (dois mil reais).
+Acrescenta que "a regra do § 8º do art. 85 do CPC, é regra subsidiária, devendo ser aplicada quando o valor econômico é inestimável ou irrisório, ou valor de causa muito baixo" (e-STJ, fl. 229).
+Contrarrazões às e-STJ, fls. 235-247.
+É o relatório.
+Julgando agravo de instrumento, o Tribunala quoreformou a decisão do juiz que, no cumprimento de sentença, fixou os honorários advocatícios em 10% (dez por cento) sobre o valor da condenação. Entendeu excessivo o montante diante da baixa complexidade da causa. Confira-se (e-STJ, fls. 174-177):
+No caso vertente, denota-se que as diferenças remuneratórias devidas à parte autora, objeto do cumprimento de sentença, totalizaram o montante de R$ 64.915,47, atualizado até 29/10/2017 e honorários advocatícios arbitrados em 10% (dez por cento) do valor da condenação.
+No entanto, tendo em vista os critérios estabelecidos nos incisos do referido § 2º do art. 85 do CPC, mostrar-se-ia excessiva a verba honorária fixada com base nos percentuais do aludido dispositivo (ou mesmo naqueles previstos no § 3º), uma vez que, na hipótese sub examine, além da questão de mérito se encontrar pacificada no Superior Tribunal de Justiça, não se pode desconsiderar que o tema discutido nos autos é relativamente simples, não apresentando grande complexidade, por se tratar de ação por meio da qual, a servidora pública do Município de Belo Horizonte almeja ascensão de nível na carreira, com base em certificado de conclusão de curso de pós- graduação.
+Desse modo, a despeito de o Código de Processo Civil prever a possibilidade de arbitramento de honorários por apreciação equitativa apenas quando o valor da causa se mostrar irrisório, esse regramento também deve ser aplicado na hipótese em que a condenação for exorbitante, sob pena de se permitir a fixação da verba honorária em quantia não condizente com a razoabilidade e a proporcionalidade, o que nitidamente não foi a intenção do legislador ao instituir os percentuais previstos nos §§ 2º e 3º do art. 85 do CPC.
+ ..
+Nesse contexto, impõe-se a definição dos honorários advocatícios por apreciação equitativa, nos termos do art. 85, § 8º, do CPC, fixando-se o valor de R$ 2.000,00 (dois mil reais) - já incluídos aqui os honorários recursais -, cujo montante se apresenta adequado e compatível ao trabalho desenvolvido nos autos.
+Segundo o art. 85, § 2º, do CPC/2015:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+ ..
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Em regra, portanto, os honorários advocatícios devidos ao representante processual do vencedor devem ser fixados em percentual compreendido entre 10% e 20% do valor da condenação ou do proveito econômico obtido. Inexistindo este, o parâmetro passa a ser o valor da causa.
+Por outro lado, admite-se a definição equitativa quando inestimável ou irrisório o proveito econômico ou muito baixo o valor da causa (art. 85, § 8º, do CPC/2015).
+Na hipótese, como se retira do aresto impugnado, "as diferenças remuneratórias devidas à parte autora, objeto do cumprimento de sentença, totalizaram o montante de R$ 64.915,47, atualizado até 29/10/2017".
+Essa cifra não é irrisória e, objetivamente, define a extensão da vitória da ora recorrente. Sendo assim, impõe-se a fixação da verba dentro dos parâmetros estabelecidos pelo citado § 2º do art. 85 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. QUANTUM. APRECIAÇÃO EQUITATIVA. DESCABIMENTO.
+1. Os honorários advocatícios devidos ao representante processual do vencedor, em regra, devem ser fixados entre 10% e 20% do valor da condenação ou do proveito econômico obtido. Inexistindo este, o parâmetro passa a ser o valor da causa.
+2. Apenas se admite a definição equitativa da verba advocatícia quando inestimável ou irrisório o proveito econômico ou muito baixo o valor da causa (art. 85, § 8º, do CPC/2015).
+3. Na hipótese, a autora, após o reconhecimento do direito a diferenças devidas a título de auxílio por morte, obteve o ganho de R$ 107.217,22 (cento e sete mil, duzentos e dezessete reais e vinte e dois centavos). Aplicável, por isso, a regra geral.
+4. Recurso especial a que se dá provimento.
+(REsp 1.798.706/RS, de minha relatoria, SEGUNDA TURMA, julgado em 27/8/2019, REPDJe 2/10/2019, DJe 6/9/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CAUSA EM QUE A FAZENDA PÚBLICA É PARTE. FIXAÇÃO CONFORME O ART. 85 DO CÓDIGO FUX. HIPÓTESE EM QUE NÃO É POSSÍVEL MENSURAR O VALOR DA CONDENAÇÃO. HONORÁRIOS FIXADOS SOBRE O VALOR ATUALIZADO DA CAUSA. POSSIBILIDADE. AGRAVO INTERNO DO RECORRIDO A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação Civil Pública julgada procedente a favor do Sindicato. Os honorários foram fixados em 10% sobre o valor atualizado da causa (R$ 100.000,00).
+2. O acórdão recorrido manteve a fixação da verba pela sentença, esclarecendo que, por não ser possível possível apurar, desde logo, o montante da condenação imposta na sentença coletiva - inclusive para aferir-se sua adequação aos critérios legalmente estabelecidos -, e considerando que o conteúdo econômico da ação foi estimado em R$ 100.000,00 pelo autor, impõe-se a manutenção da sentença que arbitrou os honorários advocatícios em 10% sobre o valor atualizado da causa.
+3. O CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º) (REsp 1.746.072/PR, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 29.3.2019).
+4. Pelos critérios fixados no art. 85 do Código Fux, a fixação da verba sobre o valor da causa ocorrerá em hipóteses excepcionais, somente quando não for possível mensurar o proveito obtido. No caso, conforme explicitado no acórdão recorrido, não é possível mensurar a condenação, cabendo a fixação sobre o valor atualizado da causa, nos termos do art. 85, § 2o. do Código Fux.
+5. Agravo Interno do Sindicato a que se nega provimento.
+(AgInt no REsp 1.844.287/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 7/12/2020, DJe 14/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO IRRISÓRIO. AUTORIZADA A FIXAÇÃO UTILIZANDO-SE O CRITÉRIO DA EQUIDADE PREVISO NO § 8º DO ART. 85 DO CPC/15. PRECEDENTE DA 2ª SEÇÃO DO STJ.
+1. Ação de cobrança de indenização securitária.
+2. Com a ressalva do meu entendimento, a 2ª Seção definiu que quanto à fixação dos honorários de sucumbência, temos a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente da 2ª Seção.
+3. Agravo interno não provido.
+(AgInt no REsp 1.890.757/MT, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Considerando o registro da instância inferior, que destaca a baixa complexidade da ação e do trabalho desenvolvido pelos causídicos, entendo adequada a fixação dos honorários advocatícios no percentual de 10% (dez por cento) sobre o valor da condenação, tal como fez o juiz em primeira instância.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar a condenação em honorários advocatícios em 10% (dez por cento) sobre o valor da condenação.
+Publique-se. Intimem-se.
