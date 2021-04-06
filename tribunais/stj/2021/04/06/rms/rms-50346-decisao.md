@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por LUCIANO PINTO SEPULVEDA contra acórdãoproferido peloTribunal Regional Federal da 1ª Regiãoassim ementado (e-STJ fl. 110):
+PROCESSUAL PENAL. MANDADO DE SEGURANÇA. PEDIDO DE LEVANTAMENTO DE SEQUESTRO DE BEM DECRETADO NA ESFERA CRIMINAL INDEFERIDO. EMBARGOS DE TERCEIRO. ORIGEM LÍCITA. NÃO DEMONSTRAÇÃO. PEDIDO INDEFERIDO. SOBRESTAMENTO DO ANDAMENTO DO FEITO ATÉ O TRÂNSITO EM JULGADO DA AÇÃO PENAL QUE PORVENTURA SEJA AJUIZADA OU ATÉ O ARQUIVAMENTO DO INQUÉRITO POLICIAL EM CURSO. PERTINÊNCIA. CPP, ART. 130, PARÁGRAFO ÚNICO.
+1. O impetrante opôs embargos de terceiro em desfavor da medida cautelar de sequestro de veículo requerida pelo Delegado de Polícia Federal de Vitória da Conquista/BA e deferida pelo Juízo impetrado nos autos n. 2505-78.2014.4.01.3307.
+2. O magistrado indeferiu o pedido de levantamento do sequestro e determinou o sobrestamento do feito até o trânsito em julgado da ação penal a ser ajuizada, ou arquivamento do inquérito em curso.
+3. Ainda não há prova inequívoca de que o bem tenha origem lícita, a ponto de se afastarem as diretrizes dos arts. 125 e 126 do CPP, ou mesmo notícia de que o impetrante tenha atendido o disposto no art. 131, inc. II, do citado diploma, o que, em princípio, assegurar-se-lhe-ia a restituição pretendida.
+4. Sobrestamento do feito que tem supedâneo no parágrafo único do art. 130 do CPP.
+5. Ordem denegada.
+Colhe-se dos autos que orecorrente impetrou mandado de segurança na origem contra a decisão que havia determinadoo sobrestamento dos autos de embargos de terceiro até o trânsito em julgado da ação penal.
+Neste recurso ordinário, orecorrente sustenta que "a decisão objurgada não analisou as provas dos autos, poistodas elas militam de forma a confirmar inquestionavelmente a aquisição de boa-fé do veículo, qual seja, o pagamento de honorários advocatícios, sendo assim, absurda a admissão de sobrestamento do feito por prazo indeterminado, como consignou a decisão recorrida" (e-STJ fl. 121).
+O Ministério Público Federal manifestou-se pelo desprovimento do recursoem parecer assim ementado (e-STJ fl. 152):
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LEVANTAMENTO DE SEQUESTRO DE BEM ADQUIRIDO COM PROVENTO DO CRIME. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ORIGEM LÍCITA DO BEM NÃO COMPROVADA. FALTA DE PROVA CABAL PRÉ-CONSTITUÍDA. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Nos termos do art. 1º da Lei n. 12.016/2009 (repetindo a redação da Lei n. 1.533/1951), o mandado de segurança visa à proteção de direito líquido e certonão amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+No presente caso, como antes relatado, o impetrante se insurgiu contra a decisão do magistrado de primeiro grau que determinaraa suspensão da análise dopedido de levantamento do bem sequestrado até o arquivamento do inquérito em curso ou o trânsito em julgado da ação penal a ser ajuizada.
+No despachode e-STJ fl. 158, "considerando o tempo decorrido desde a propositura do recurso e diante da possibilidade de se ter alterado o quadro fático apresentado nos autos", determinei a intimação do recorrente para que se manifestasse, "justificadamente, em 5 dias, acerca do interesse no prosseguimento da análise do presente feito, sob pena de extinção".
+Tendo o recorrente permanecido inerte e diante da provável perda do objeto domandamus, o feito deve ser extinto por perda superveniente de interesse no seu prosseguimento.
+Ainda que assim não fosse, nos termos do art. 5º, inciso II, da Lei n. 12.016/2009, não cabe mandado de segurança contra decisão judicial da qual caiba recurso com efeito suspensivo. No mesmo sentido, dispõe o enunciado 267 da Súmula do Supremo Tribunal Federal quenão cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Diante disso, esta Corte Superior já firmou o entendimento de que"é incabível o conhecimento de mandado de segurança impetrado contra decisão que indefere o pleito de restituição dos bens sequestrados, porquanto é cabível a interposição de apelação, consoante previsto no art. 593, II, do Código de Processo Penal" (AgInt no RMS n. 53.637/PE, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/5/2017, DJe de 24/5/2017).
+Mesmo que se flexibilize esse entendimento, não se infere nenhuma ilegalidade ou teratologia da decisão combatidaque justifique a admissão excepcional de mandado de segurança contra ato judicial.
+Com efeito, o pedido de restituição do bem antes do fim do processofoi indeferidoem razão da constatação de indíciosde sua proveniência ilícita.O acórdão recorrido denegou a ordem por entender que o ora recorrente não possuíadireito líquido e certo ao levantamento do sequestro, uma vez quenão havianos autos prova inequívoca apta a demonstrar a origem lícita do bem.
+Conforme manifestação do Parquet federal, o acolhimento das alegações do recorrente e a alteração da conclusão a que chegaram os magistrados de origem exigiriam dilação probatória, o que, entretanto, é inadmissível na via do mandado de segurança, ou de seu respectivo recurso.A propósito, os seguintes julgados desta Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PENAL E PROCESSUAL PENAL. NULIDADE DA BUSCA E APREENSÃO, RESTITUIÇÃO DE BENS E TRANCAMENTO DO INQUÉRITO POLICIAL. ARGUIÇÕES PASSÍVEIS DE RECURSOS PRÓPRIOS. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL - STF. DIREITO LÍQUIDO E CERTO QUE DEMANDA DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE DA VIA ADOTADA. PRECEDENTES. HABEAS CORPUS PARA TRANCAMENTO DE INQUÉRITO. CASOS EXCEPCIONAIS. NECESSIDADE DE EXAME VALORATIVO VERIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A impetração do mandado de segurança só é admissível quando, de plano, se pode aferir o direito líquido e certo, no ato de sua propositura, sem a necessidade de dilação probatória, nos termos do que dispõe a orientação jurisprudencial desta Corte.
+ ..
+4. Agravo regimental desprovido. (AgRg no RMS 64.902/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/11/2020, DJe 20/11/2020.)
+RECURSO EM MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VEÍCULO. IMPOSSIBILIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267/STF).
+2. Ausente direito líquido e certo quanto à pertinência do pedido de devolução do bem apreendido, inviável é a impetração. No âmbito de mandado de segurança, não tem cabimento dilação probatória.
+3. Tratando-se de bem indicado pelo Ministério Público como necessário ao menos para reduzir os prejuízos do erário é inviável a restituição (artigo 118 do CPP) - precedente da Corte Especial.
+4. Recurso ordinário em mandado de segurança improvido. (RMS 41.201/SP,
+relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/03/2014, DJe 11/04/2014.)
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
