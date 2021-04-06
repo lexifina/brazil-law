@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. REINCIDÊNCIA. RECURSO ESPECIAL E EXTRAORDINÁRIO INADMITIDOS NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ E DO STF. TRÂNSITO EM JULGADO QUE RETROAGE À DATA EM QUE ESGOTADO O PRAZO LEGAL DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inadmitidos o recurso especial e o extraordinário pelo Tribunal de origem, em decisão mantida pelos respectivos Tribunais Superiores, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível. Assim, tendo o trânsito em julgado da decisão geradora da reincidência ocorrido antes da data do cometimento do crime em análise, deve ser mantida a aplicação da referida agravante.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por ANTÔNIO MARCOS CERQUEIRA (e-STJ fls. 438/449) contra decisão monocrática de e-STJ fls. 430/435, que negou provimento ao seu recurso especial, mas concedeu, de ofício, a ordem de habeas corpus para, na segunda etapa dosimétrica, aplicar a agravante da reincidência no patamar de 1/6, redimensionando suas penas, pela prática do delito do art. 33 da Lei n. 11.343/2006, para 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa, mantidos os demais termos da condenação.
+A parte agravante alega o afastamento da agravante da reincidência, uma vez que os recursos especiais e extraordinários quando reconhecidos como incabíveis não afasta a coisa julgada, tendo a condenação geradora da reincidência transitado em julgado após o cometimento do delito em análise.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. REINCIDÊNCIA. RECURSO ESPECIAL E EXTRAORDINÁRIO INADMITIDOS NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ E DO STF. TRÂNSITO EM JULGADO QUE RETROAGE À DATA EM QUE ESGOTADO O PRAZO LEGAL DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inadmitidos o recurso especial e o extraordinário pelo Tribunal de origem, em decisão mantida pelos respectivos Tribunais Superiores, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível. Assim, tendo o trânsito em julgado da decisão geradora da reincidência ocorrido antes da data do cometimento do crime em análise, deve ser mantida a aplicação da referida agravante.
+2. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Em relação à reincidência, a Corte de origem consignou (e-STJ fls. 368):
+Na segunda fase, exasperou-se a pena de 1/5, diante da recidiva do apelante. Pondera-se que caso os recursos especiais ou extraordinários sejam reconhecidos como incabíveis, eles perdem a capacidade de afastar o status de coisa julgada, que retroage à data do término do prazo para interposição do último recurso cabível (fls. 35/36, 140/141 e 203/206)
+Ora, tal entendimento encontra-se no mesmo sentido da jurisprudência do STJ e do STF de que, inadmitidos o recurso especial e o extraordinário pelo Tribunal de origem, em decisão mantida pelos respectivos Tribunais Superiores, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível.
+Nessa linha, os seguintes julgados:
+RECURSO EXTRAORDINÁRIO - MATÉRIA PENAL - PRETENDIDO RECONHECIMENTO DA PRESCRIÇÃO PENAL - INOCORRÊNCIA - TRÂNSITO EM JULGADO QUE RETROAGE À DATA EM QUE ESGOTADO O PRAZO LEGAL DE INTERPOSIÇÃO DO RECURSO ESPECIAL NÃO ADMITIDO - PRECEDENTES - AGRAVO INTERNO IMPROVIDO. - Os recursos excepcionais (recurso extraordinário e recurso especial), quando declarados inadmissíveis, não obstam a formação da coisa julgada, inclusive da coisa julgada penal, retroagindo a data do trânsito em julgado, em virtude do juízo negativo de admissibilidade, ao momento em que esgotado o prazo legal de interposição das espécies recursais não admitidas. Precedentes. (RE 1158966 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, julgado em 05/04/2019, PROCESSO ELETRÔNICO DJe-087 DIVULG 26-04-2019 PUBLIC 29-04-2019)
+PENAL E PROCESSUAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SUPERAÇÃO DA SÚMULA 315 DO STJ, EM CARÁTER EXCEPCIONAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ. FORMAÇÃO DA COISA JULGADA. MOMENTO. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO.
+1. Nos termos da Questão de Ordem acolhida nestes autos, a Súmula 315 do Superior Tribunal de Justiça foi superada, em caráter excepcional, para se admitir o processamento dos embargos de divergência em agravo.
+2. Divergência estabelecida quanto à formação da coisa julgada quando o recurso especial é inadmitido na origem com posterior decisão do Superior Tribunal de Justiça confirmando essa inadmissibilidade.
+3. Consoante posicionamento do Supremo Tribunal Federal, especificamente no âmbito do processo penal, não é a interposição de recurso dentro do prazo legal que impede o trânsito em julgado da decisão judicial, mas sim a interposição de recurso cabível, pois o recurso só terá o poder de impedir a formação da coisa julgada se o mérito da decisão recorrida puder ser modificado.
+4. A decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, tendo em vista que apenas pronuncia algo que já ocorreu anteriormente  e não naquele momento  motivo pelo qual opera efeitos ex tunc. Assim, o trânsito em julgado retroagirá à data de escoamento do prazo para a interposição de recurso admissível.
+5. Recursos flagrantemente incabíveis não podem ser computados no prazo da prescrição da pretensão punitiva, sob pena de se premiar o réu com a impunidade, pois a procrastinação indefinida de recursos contribui para a prescrição.
+6. Conclusão que mais se coaduna com o princípio da duração razoável do processo, previsto no art. 5º, LXXVIII, da Carta Magna, erigido a direito fundamental, que tem por finalidade a efetiva prestação jurisdicional.
+7. O julgamento do agravo deve preceder à eventual declaração de prescrição da pretensão punitiva. Somente nas hipóteses em que o agravo não é conhecido por esta Corte (art. 544, § 4º, I, do CPC), o agravo é conhecido e desprovido (art. 544, § 4º, II, "a") e o agravo é conhecido e o especial tem seu seguimento negado por ser manifestamente inadmissível (art. 544, § 4º, II, "b" - 1ª parte), pode-se afirmar que a coisa julgada retroagirá à data do escoamento do prazo para a interposição do recurso admissível. Nas demais hipóteses previstas no § 4º, II, do artigo em comento, o especial é considerado admissível, ainda que sem sucesso, não havendo que se falar em coisa julgada operada ainda no Tribunal de origem.
+8. Embargos de divergência acolhidos para reformar a decisão proferida no agravo, firmando o entendimento de que, inadmitido o recurso especial pelo Tribunal de origem, em decisão mantida pelo STJ, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível.
+9. Retorno dos autos à Sexta Turma para que decida o agravo interposto contra a decisão que inadmitiu o recurso especial, matéria prejudicial à verificação da ocorrência da prescrição da pretensão punitiva. (EAREsp 386.266/SP, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015)
+Assim, tendo o trânsito em julgado ocorrido antes da data do cometimento do presente crime, deve ser mantida a aplicação da agravante da reincidência.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
