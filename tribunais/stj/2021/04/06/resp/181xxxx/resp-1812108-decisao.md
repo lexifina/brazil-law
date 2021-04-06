@@ -1,0 +1,13 @@
+DECISÃO
+ADMINISTRATIVOE PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.PENSIONISTA. ASSISTÊNCIA À SAÚDE. DISPOSITIVO INDICADO COMO VIOLADO NÃO PREQUESTIONADO. SÚMULA 282/STF. ANÁLISE DE LEGISLAÇÃO LOCAL.IMPOSSIBILIDADE. SÚMULA 280/STF.RECURSO ESPECIAL DO MUNICÍPIO DE VOLTA REDONDA NÃO CONHECIDO.
+1. Trata-se deRecurso Especial interposto pelo MUNICÍPIO DE VOLTA REDONDA, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Direito Administrativo. Fundo de Assistência e Previdência Social dos Funcionários Públicos Municipais de Volta Redonda(FAPS). Agravo interno contra decisão que manteve a assistência médica, sem limitação temporal, pelo Município ao cônjuge do ex-servidor falecido. Demandante que é dependente de ex-servidor do Município apelante desde a criação do FAPS. Decreto nº 3.583/1991 que extrapolou os limites legais. Garantia da assistência médica pelo Município que não deve observar a limitação temporal prevista no art. 15do mencionado Decreto. Precedente desta Corte. Direito adquirido da demandante. Vedação constitucional e legal de utilização dos recursos previdenciários para assistência médica aos servidores públicos municipais e aos seus dependentes, mas não a interrupção de tal serviço assistencial. Recurso desprovido.
+2. Em suas razões recursais sustenta o recorrenteviolação doart. 5o. da Lei 9.717/1998, alegando que este dispositivovedou, expressamente, a concessão de benefícios distintos dos previstos no RGPS, sendo consideradas inconstitucionais e ilegais as Leis Estaduais e Municipais que tratam da matéria.
+3. Sem contrarrazões, o recurso foi admitido às fls. 250/251.
+4. É o relatório, em síntese. Decido.
+6. Cinge-se a questão em saber se os benefícios previdenciários previstos pelo art. 5o. da Lei 9.717/1998 e taxativamente descritos no art. 18 da Lei 8.213/1991, sobrepõem-se às Leis Estaduais e Municipais que versam sobre a matéria.
+7. Não merece prosperar o recurso.
+8. Quanto à alegada ofensa ao art. 5o. da 9.717/98, verifica-se, de logo, que o tema inserto no dispositivo invocado não foi debatido pelo Tribunal de origem.Assim, ante a ausência de prequestionamento, incide a Súmula 282 do STF.
+9.Além do mais,observa-se do acórdão combatido que a questão restou dirimida com a análise de legislação de natureza local, circunstância que atrai a incidência do enunciado 280 da Súmula de jurisprudência do Supremo Tribunal Federal.
+10. Ante o exposto, não conheço do Recurso Especial do MUNICÍPIO DE VOLTA REDONDA.
+11. Publique-se. Intimações necessárias.
