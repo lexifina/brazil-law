@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCIO PATRICK ANDRADE em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Processo n. 70083911602).
+O paciente foi condenado às penas de 6 anos de reclusão no regime inicial fechado, de 6 meses de detenção e de 600 dias-multa, pelas práticas descritas nos arts. 33, caput, da Lei n. 11.343/2006 e 146, § 1º, do Código Penal.
+A impetrante alega que a manutenção do regime fechado carece de qualquer fundamento idôneo, porquanto o paciente é primário, teve a pena fixada em 6 anos e a quantidade de drogas é pequena (6,4g de cocaína, 11g de maconha e 6,2g de crack).
+Requer, liminarmente e no mérito, a fixação do regime inicial menos gravoso.
+A liminar foi indeferida (flS. 467-468).
+As informações foram prestadas às fls. 473-516.
+O Ministério Público Federal manifestou-se pela concessão da ordem (fls. 521-525).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos.
+O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a eventual existência de circunstâncias judiciais desfavoráveis, especialmente a natureza ou a quantidade da droga, até mesmo sua forma de acondicionamento, desde que fundamente a decisão (AgRg no HC n. 536.415/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/8/2020).
+In casu, quanto ao delito de tráfico de entorpecentes, a pena-foi fixada no mínimo legal, e o regime inicial fechado fixado pela sentença foi mantido pelo Tribunal de origem nestes termos (fl.. 63):
+Com a devida vénia, divirjo do e. Relator para desacolher os embargos e manter o regime fechado fixado pelo voto majoritário. Isso porque, no caso concreto, não entendo recomendável seguir as diretrizes do § 2º do art. 33 do Código Penal, que conduziriam à aplicação do regime semiaberto para o início do cumprimento da pena. pois o tipo penal em questão tutela a saúde pública, sendo que a natureza e a quantidade dos entorpecentes apreendidos com o denunciado, ou seja, 6,4 g de cocaína, 11.50 g de maconha e 6,20 g de crack que figuram dentre os que mais atingem referido bem jurichco, sendo notória sua lesividade e chegando a causar dependência química instantânea nos seus usuários, indicam a necessidade de fixação do regime mais gravoso, no caso o regime Inicial fechado (art. 33, §2 0 , "a", c/c §3º, do CP).
+Em outras palavras, no meu entendimento o regime inicial fechado é o único que se mostra adequado para conferir à presente condenação o caráter preventivo e punitivo dela esperado, haja vista a gravidade do fato concreto.
+No presente caso, considerando a primariedade do paciente, embora fixada a pena-base acima do mínimo legal, a quantidade de drogas apreendida (6,4g de cocaína 11,5g de maconha e 6,20g de crack) não se revela expressiva ao ponto de autorizar a imposição de regime mais gravoso, justificando-se a alteração para o semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para estabelecer o regime semiaberto para o cumprimento da sanção imposta ao paciente.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
