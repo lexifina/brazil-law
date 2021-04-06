@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus preventivo, com pedido de liminar, impetrado em causa própria por JOSÉJIVALDO LIMA e em favor de HENRIQUE ANIBEL RIBEIRO LIMA, FELIPE GUILHERME RIBEIRO LIMA e LUCIANO REIS LIMA, apontando como autoridade coatora o Governador do Estado de Mato Grosso.
+O Impetrante se insurge contra o Decreto n.836, de 01/03/2021, editado peloGoverno do Estado de Mato Grosso, que institui restrição de circulação de pessoas (toque de recolher) em todo o território do Estado a partir das 21h00m até às 05h00m.
+Assevera que "os Impetrantes - moradores no Estado de Goiás -, transitarão de veículo próprio para o Estado de Mato Grosso, até acidade de Pontes e Lacerda para visitarem o pai do primeiro Impetrante e avô dos demais litisconsortes que já conta com 83 (Oitenta e Três) anos" (fl. 4).
+Argumenta que, " m esmo que se inicie a viagem o mais cedo possível, pela grande distância e por múltiplas vicissitudes, corre-se o risco de se estar no Estado dentro do horário estipulado à mercê da ilegalidade" (fl. 5).
+Afirma que "os Impetrantes estarão em risco de serem presos e sofrerem demais sanções penais, cíveis e administrativas" (fl. 5).
+Sustenta que o referido Decreto ofendeos direitos básicos de "liberdade e de ir-e-vir insculpido na CF" (fl. 6), "de liberdade irrestrita conforme o Pacto São José da Costa Rica" (fl. 6) e o de "liberdade sem peias na dicção da Declaração Universal dos Direitos Humanos-DUDH" (fl. 6), bem como "exorbita de sua Competência ao decretar "toque-de-recolher"delimitada na Magna Carta" (fl. 7).
+Requer, liminarmente, seja determinada a expedição de salvo-conduto em favor dos Pacientes.
+No mérito, pugna pela concessão da ordem para "declarar a ausência de justa causa a ensejar o cerceamento de sua liberdade nos termos e fundamentos da Lei; declarar a ilegalidade do Ato Coator e a cessação dos efeitos do Decreto Estadual em tela ad personas" (fl. 9).
+É o relatório.
+Decido.
+Ainda que sejam relevantes as questões referentes ao direito de locomoção, o qual, a propósito, não se revela absoluto e deve ser analisado com observância aos direitos à saúde e à vida, a matéria não pode ser tratada na via eleita, pois não há prova pré-constituída de concreta e injusta coação à liberdade de ir e vir dos Pacientes.
+Na espécie, a Defesa impugna Decreto estadual que proibiu a circulação de pessoas nas vias públicas do Estado de Mato Grosso, nos seguintes termos (fls. 25-26; grifos diversos do original):
+"Art. 5º Fica instituída restrição de circulação de pessoas (toque de recolher) em todo o território do Estado de Mato Grosso a partir das 21h00m até as 05h00m.
+§ 1º Excetuam-se da restrição disposta no caput do presente artigo os funcionários, prestadores e consumidores das atividades e serviços cujo funcionamento é permitido após as 19h00m, bem como outras situações específicas a serem analisadas pela autoridade responsável pela fiscalização.
+§ 2º A restrição fixada no caput deste artigo não se aplica ao transporte de cargas e passageiros em rodovias estaduais e federais.
+Art. 6º A fiscalização das regras deste Decreto ficará a cargo da:
+ ..
+§ 2º O descumprimento das medidas restritivas por pessoas físicas ensejará a lavratura de Termo Circunstanciado de Ocorrência pela autoridade policial competente, além da aplicação de multas e sanções cíveis cabíveis.
+ ..
+Art. 7º As medidas instituídas no presente Decreto terão vigência pelo prazo de 15 (quinze) dias, prorrogáveis em caso de necessidade.
+Art. 8º Durante a vigência do presente Decreto, ficam suspensos os efeitos do Decreto nº 522, de 12 de junho de 2020.
+Art. 9º Este Decreto entra em vigor na data de sua publicação.
+Palácio Paiaguás, em Cuiabá - MT, 01 de março de 2021, 200º da Independência e 133º da República."
+Com efeito, da atenta leitura da inicial, constata-se que a parte Impetrante impugna, na realidade, o próprio Decreto estadual n.836/2021, ato normativo geral e abstrato, que impôs, em caso de descumprimento das medidas restritivas, além da aplicação de multas e sanções cíveis cabíveis, a lavratura de Termo Circunstanciado de Ocorrência pela autoridade policial competente.
+Todavia, os remédios constitucionais - dentre os quais o habeas corpus - não constituem via processual adequada para a impugnação de atos em tese. No ponto, destaco julgados, mutatis mutandis:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. INSURGÊNCIA CONTRA LEI MUNICIPAL, QUE IMPEDE UMA SÉRIE DE ATIVIDADES ARTÍSTICAS E CULTURAIS EM VIA PÚBLICA. NECESSIDADE DE APRECIAÇÃO DA LEI EM TESE. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. RECURSO NÃO PROVIDO.
+1.  .. .
+2. No caso, a demanda perpassa necessariamente pela análise de inconstitucionalidade em tese da referida Lei Municipal n. 8.917/2018, em discordância do entendimento firmado por esta Corte Superior, segundo o qual o habeas corpus não constitui via própria para o controle abstrato da validade das leis e dos atos normativos em geral, sob pena de desvirtuamento de sua essência. Julgados nesse sentido.
+3. Recurso não provido." (STJ, RHC 104.626/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019; sem grifos no original)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. WRIT INTERPOSTO CONTRA LEI EM TESE. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. INEXISTÊNCIA DE ATO CONCRETO DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DOS RECORRENTES. AGRAVO IMPROVIDO.
+1. Serve o habeas corpus à proteção do direito de locomoção: permite a liberação de quem retido se encontra. Inadmissível o habeas corpus para discutir direito de acesso (ir por local ou a local específico), de propriedade (permanecer em local) ou, como na espécie, de atividade a desempenhar em local específico. A proteção constitucional é forte, célere, mas para afastar apenas a restrição ao direito de sair de onde se encontra - liberdade.
+2. Exigindo a demanda a análise de inconstitucionalidade em tese de Lei Municipal, não merece a pretensão ser conhecida, pois o habeas corpus e o seu respectivo recurso não podem ser utilizados como mecanismos de controle abstrato da validade das leis e dos atos normativos em geral. Precedentes.
+3. Não existindo ameaça concreta de constrangimento ilegal ao direito de locomoção dos ora recorrentes, carece a impetração de interesse processual. Precedentes.
+4. Agravo regimental improvido." (STJ, AgRg no RHC 104.926/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/04/2019, DJe 25/04/2019; sem grifos no original.)
+"ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO INTERNO EM HABEAS CORPUS PREVENTIVO. LEI MUNICIPAL N. 8.917/2018. LIMITAÇÃO DO EXERCÍCIO DE CERTAS ATIVIDADES NAS VIAS PÚBLICAS DA CIDADE DE JUNDIAÍ/SP. AUSÊNCIA DE COMPROVAÇÃO DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS IMPETRADO CONTRA LEI EM TESE. NÃO CABIMENTO. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. APLICAÇÃO À ESPÉCIE, POR ANALOGIA, DA SÚMULA 266/STF. COAÇÃO ILEGAL INEXISTENTE. INDEFERIMENTO DO WRIT.
+1. Trata-se de habeas corpus preventivo impetrado pela Defensoria Pública do Estado de São Paulo em benefício de pacientes definidos como artistas de rua, os quais estariam sendo impedidos de exercer suas atividades na cidade de Jundiaí/SP, por força da edição da Lei municipal n. 8.917/2018.
+2. No caso, não foi demonstrado ato ilegal ou abusivo, em detrimento da liberdade de locomoção dos pacientes, que possa ser atribuído às autoridades apontadas como coatoras, pois, conforme se extrai do acórdão proferido pelo TJ/SP, "a Defensoria questiona a própria lei e se limita a indicar rol de pacientes, que em tese seriam os prejudicados por ela. No entanto, a referência aos pacientes é absolutamente genérica, limitando-se ao rol".
+3. De fato, na impetração ora em apreço, não se faz referência a ato ilegal praticado, ou na iminência de sê-lo, contra a liberdade de locomoção dos pacientes, inexistindo qualquer documento que comprove as alegações formuladas na inicial.
+4. A pretensão da Defensoria Pública é ver reconhecida, através da presente via, a inconstitucionalidade da lei municipal em referência, sem que o mandamus se traduza em meio adequado para tanto. Incidência da Súmula 266/STF.
+5. Agravo interno a que se nega provimento." (STJ, AgInt no HC 444.369/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/09/2018, DJe 17/09/2018; sem grifos no original.)
+No mesmo sentido, cito as seguintes decisões monocráticas, proferidas em situações semelhantes à dos autos - habeas corpus impetrado contra ato em tese (decretos estaduais que instituíram a política de isolamento social como medida de enfrentamento à Covid-19): HC n.574.199, Rel. Ministro ROGERIO SCHIETTI CRUZ, decisão publicada em 23/04/2020; HC n.576.058, Rel. Ministro NEFI CORDEIRO, decisão publicada em 04/05/2020; HC n.573.739, Rel. Ministro ANTONIO SALDANHA PALHEIRO, decisão publicada em 23/04/2020.
+Além disso, não há nos autos comprovação de que as referidas medidas ainda estão em vigor, pois, nos termos do art. 7.º do referido decreto, que foi publicado em 1.º/03/2021, as medidas restritivas teriam vigência pelo prazo de 15 (quinze) dias, e não foi acostada aos autos cópia de eventual decreto que tenha prorrogado as mencionadas restrições.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DECRETO N.836/2021, DO GOVERNO DO ESTADO DE MATO GROSSO. ATO NORMATIVO GERAL E ABSTRATO. INVIABILIDADE DE IMPETRAÇÃO DE MANDAMUS CONTRA ATO EM TESE. INADEQUAÇÃO DA VIA ELEITA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
