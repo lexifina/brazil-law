@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE EMBARGOS DE DECLARAÇÃO No 1001910-33.2021
+EMBARGANTE: CARGILL AGRICOLA S. A.
+EMBARGADO: ANTÔNIO FERNANDES DE MELLO E OUTROS.
+Vistos.
+Intimem-se a parte embargante para que apresente as razões de seu Aclaratório (Id. 76978495).
+Às providências necessárias.
+Desembargador DIRCEU DOS SANTOS
+Relator
