@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2018, de 31 de março de 2021
+Altera a Instrução Normativa RFB nº 1.877, de 14 de março de 2019, que dispõe sobre a prestação de informações sobre Valor da Terra Nua à Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), na Lei nº 8.629, de 25 de fevereiro de 1993, na Lei nº 9.393, de 19 de dezembro de 1996, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
