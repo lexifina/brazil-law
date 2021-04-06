@@ -1,0 +1,13 @@
+DECISÃO
+KARLA MAIRA DE SOUZA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n.0002674-76.2018.8.24.0033).
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, em síntese, sejam afastados os maus antecedentes da acusada e, por conseguinte, seja aplicada a minorante descrita no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+Decido.
+De plano, verifico que não há como ser aplicada a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, haja vista a vedação legal expressa da concessão desse benefícios aos acusados possuidores de maus antecedentes.
+Com efeito, as instâncias ordinárias salientaram que a paciente "registra uma condenação por tráfico de drogas, cuja pena foi extinta em 05/03/2012, de modo que será sopesada apenas como mau antecedente para fins de não aplicação da benesse do privilégio, tendo em vista não se tratar mais de acusada reincidente, nos termos do inciso I do artigo 64 do Código Penal" (fl. 354).
+Esclareço à defesa, por oportuno, que, em julgamento, com repercussão geral, do RE n. 593.818/SC, concluído no dia 17/8/2020, o Supremo Tribunal Federal decidiu que: "Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal."
+Assim, uma vez que, entrea data do cumprimento ou extinção da pena anterior e a data em que praticado o delitoobjeto deste writ, decorreu período de tempo superior a 5 anos, é inequívoca a conclusão de que essa condenação anterior é, sim, geradora de maus antecedentes.
+Diante de tais considerações, não identifico o apontado constrangimento ilegal de que estaria sendo vítima a paciente e, por isso mesmo, mantenho inalterada a reprimenda a ela imposta.
+Por fim, ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça e pelo STFacerca da caracterização de maus antecedentes em casos como o dos autos, não há óbice a que se decida este habeas corpus de forma monocrática, haja vista ser expressamente autorizado -- pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal -- que o Relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar ajurisprudência dominante acerca do tema.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210 doRISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
