@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MATEUS IAN DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1500276-57.2019.8.26.0594).
+Depreende-se dos autos que o paciente foi condenado, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes), à pena de 5 anos de reclusão, no regime fechado, e ao pagamento de 500 dias-multa, ante a apreensão de 60g (sessenta gramas) de maconha e de 68g (sessenta e oito gramas) de cocaína.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo nos termos da ementa de e-STJ fl. 21:
+Tráfico de drogas - Coesão e harmonia do quadro probatório - Circunstâncias do episódio que positivam a traficância - Condenação mantida.
+Aplicação do § 4º, do artigo 33, da Lei nº 11.343/06 - Circunstâncias em que perpetrado o delito, que contou com apreensão de expressivas quantidades de drogas de diversas naturezas, além de dinheiro, não justificado, e de petrechos utilizados em seu acondicionamento, alinhadas à ausência de comprovação de ocupação lícita do réu e aos coerentes depoimentos policiais, a indicarem sua dedicação a atividade criminosa ou participação em organização criminosa.
+Conversão da privativa de liberdade em restritivas de direitos - Peculiaridades do caso que não a recomendam. "Quantum" das penas, que, de qualquer modo, impossibilita a substituição.
+Regime prisional fechado - Subsistência - Gravidade concreta do delito perpetrado, que contou com a apreensão de expressivas quantidades de drogas, de diversas naturezas, cuja nocividade não se desconhece, certos seu potencial de disseminação e sua natureza desagregadora, a isso se alinhando a dedicação do réu à atividade criminosa.
+Apelo defensivo improvido.
+No presente writ, sustenta a defesa que o paciente faz jus ao reconhecimento do tráfico privilegiado, asseverando que "o raciocínio constante do acórdão é equivocado tanto por uma questão lógica (a quantidade, quando muito presta-se a caracterizar um fato específico no tempo e no espaço, ou seja, um episódio na vida do acusado, não podendo tal habitualidade ser presumida), quanto pelo fato de, a prevalecer esse entendimento, dispensar-se-ia qualquer investigação prévia e a juntada aos autos de elementos concretos da reiteração e profissionalidade no exercício da atividade de traficância, o que é vedado diante do estado de inocência que vigora em favor do acusado" (e-STJ fl. 8).
+Aduz inexistir motivação idônea para a fixação do regime fechado.
+Busca, liminarmente, possa o paciente aguardar o julgamento definitivo do writ em liberdade ou no regime semiaberto.
+No mérito, pugna seja aplicado o redutor no § 4º do art. 33 da Lei n.11.343/2006, bem como seja fixado o regime aberto ou semiaberto para início de desconto da sanção privativa de liberdade.
+O pedido liminar foi por mim deferido para garantir ao paciente o direito de aguardar o julgamento do mérito da impetração no regime semiaberto (e-STJ fls. 36/38).
+Informações prestadas às e-STJ fls. 45/50 e 51/57.
+O MPF manifestou-se pela concessão da ordem (e-STJ fls. 61/63).
+É o relatório.
+Em primeiro grau, a dosimetria da pena foi realizada nesses moldes (e-STJ fls. 31):
+MATEUS IAN DOS SANTOS é primário e, inexistindo circunstâncias que justifiquem a exasperação de sua pena-base, fixo-a em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Não obstante a atenuante da menoridade, deixo de reduzir sua pena abaixo do mínimo legal, nos termos do que dispõe a Súmula nº 231 do Colendo Superior Tribunal de Justiça.
+Em que pese primário, a quantidade e variedade de drogas encontradas evidenciam que Mateus faz do tráfico seu meio de vida, motivo pelo qual não faz jus à causa de diminuição da pena prevista no art. 33, º 4º, da Lei n. 11.343/04.
+O Tribunal de origem, ao apreciar o recurso de apelação defensivo, manteve a sentença condenatória. Confira-se (e-STJ fl. 23):
+Incensurável a reprimenda, cujas penas não foram além do mínimo legal.
+Não era mesmo caso de aplicação da benesse da lei especial.
+As singularidades do caso, que contou com apreensão de expressivas quantidades de drogas, de diversas naturezas, além de petrechos utilizados em seu acondicionamento, e dinheiro, não justificado, alinhadas aos coerentes depoimentos policiais e à situação econômica do réu, que sequer trouxe prova de ocupação lícita, estão a demonstrar que fazia do tráfico seu ofício ou de que participava de organização criminosa.
+No mais, não se exige grande esforço mental para se deduzir que pela quantidade de droga que mantinha em depósito, de expressivo valor econômico, gozava, o inculpado, da confiança de seu fornecedor, o que não se adquire em parco espaço de tempo.
+Extrai-se dos excertos acima que a dedicação à prática do crime de tráfico de entorpecentes pelo paciente, afirmada pela instância de origem, é, na verdade, uma presunção, destituída de base fática que a confirme.
+Conforme bem anotado pelo Parquet, "ao contrário do que consta do acórdão impugnado, não há nos autos qualquer indício de que o paciente se dedique às atividades criminosas ou que integre organização criminosa. Pelo contrário, restou comprovado nos autos que o paciente é primário e de bons antecedentes. Ademais, a natureza, quantidade e variedade das drogas apreendidas pode ser considerada "normal" " (e-STJ fl. 63).
+Nesse sentido:
+AGRAVO INTERNO NO HABEAS CORPUS. RECEBIDO COMO AGRAVO REGIMENTAL.ART. 258 DO RISTJ. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. TRÁFICO ILÍCITO DE ENTORPECENTES.DOSIMETRIA. PACIENTE, PRIMÁRIA, QUE ATUOU COMO MULA DO TRÁFICO.RECONHECIMENTO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N.11.343/2006. AUSÊNCIA DE ELEMENTOS CONCRETOS INDICATIVOS DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. HABEAS CORPUS NÃO CONHECIDO.ORDEM CONCEDIDA, DE OFÍCIO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+2. A incidência da minorante prevista no § 4º do art. 33 da Lei n.11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+3. Na hipótese, o fundamento utilizado pelas instâncias ordinárias para afastar o reconhecimento do tráfico privilegiado foi a presunção de que a expressiva quantidade de entorpecentes, aliada a alguns bilhetes, seriam indicativos de que a paciente não se tratava de traficante eventual, sem, contudo, haver a demonstração, por meio de elementos concretos extraídos dos autos, de que ela se dedicava a atividades criminosas ou mesmo que integrasse organização criminosa.
+4. Embora a quantidade dos entorpecentes apreendidos seja parâmetro idôneo para modular a fração da redutora do tráfico privilegiado, esta Corte vem decidindo que tal circunstância, isoladamente, não legitima o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 se dissociada de outros elementos de prova para atestar a dedicação do apenado a atividades criminosa ou o fato de que ele integraria organização criminosa.
+5. Agravo regimental do Ministério Público Federal improvido, mantendo-se a decisão que não conheceu o writ, contudo, concedeu a ordem, de ofício, para reduzir a pena definitiva por incidência da redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+(AgInt no HC 547.551/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/05/2020, DJe 02/06/2020)
+Assim, necessário que se proceda ao refazimento da dosimetria da pena, para que incida a causa de diminuição em referência.
+Observados os parâmetros estabelecidos na instância ordinária, mantenho a pena-base no mínimo legal.
+A minorante deve ser aplicada no grau máximo de 2/3, notadamente em razão da quantidade de droga apreendida, que não transborda do comum para este tipo de delito (60g de maconha e de 68g de cocaína).
+Assim, a pena final fica estabelecida em 1 ano e 8 meses de reclusão. Fixo, por conseguinte,o regime aberto e determino que o Juízo da Vara de Execuções Penais proceda à substituição da pena nos termos do art. 44 do Código Penal.
+Ante o exposto, concedo a ordem para reduzir a pena nos termos acima delineados.
+Publique-se. Intimem-se.
