@@ -1,0 +1,39 @@
+DECISÃO:
+    Vistos.
+    Habeas corpus, com pedido liminar, impetrado em favor de Westrley Santos Silva, no qual se aponta como autoridade coatora o Ministro João Otávio de Noronha, do Superior Tribunal de Justiça, que não conheceu do HC nº 607.004/SP.
+    Depreende-se dos autos que o paciente foi condenado em primeiro grau como incurso no artigo 33, § 4º, da Lei nº 11.343/06, tendo-lhe sido fixada a pena de 3 anos de reclusão em regime fechado, convertida em duas penas restritivas de direitos.
+    O Tribunal de Justiça, ao dar provimento a apelação interposta pelo Ministério Público, redimensionou a pena para 5 anos de reclusão em regime fechado, afastando a causa especial de redução do § 4º do art. 33 da Lei de Drogas e a substituição da pena privativa de liberdade por restritiva de direitos.
+    A impetrante diz indevidos o afastamento da causa de redução e a imposição do regime fechado.
+    Para tanto, sustenta que
+    “a quantidade de drogas por si só, não pode justificar a negativa da aplicação do privilégio.
+    A simples variedade e quantidade elevada das substâncias entorpecentes por si só não denotam elemento concreto algum que comprove o envolvimento do paciente com organização e atividade criminosa”.
+    Por fim, requer “a concessão de liminar para que o paciente aguarde em liberdade o julgamento do presente habeas corpus e, no mérito, requer a aplicação do §4º, art. 33, Lei 11.343/06 no presente caso, confirmando-se ao final a liminar.”
+    Examinados os autos, decido.
+    Ressalto, inicialmente, que a impetração se volta contra decisão singular proferida nos autos do HC nº 607.004/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros. Confira-se, ainda, as seguintes decisões monocráticas: HC nº 189.920/SP, Relator o Ministro Luiz Fux, DJe de 24/8/20; HC 185.310/RJ, Relatora a Ministra Cármen Lúcia, DJe de 18/5/20; e HC nº 171.024/SP, Relator o Ministro Edson Fachin, DJe de 10/6/19.
+    De qualquer modo, registro que a decisão questionada está assim fundamentada, na parte que interessa:
+    “(...)
+    A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o'consequente reconhecimento'do tráfico privilegiado, exige'que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa (AgRg no HC n. 578.687/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2/6/2020; e AgRg no HC n. 372.423/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/4/2019).
+    A expressiva quantidade de drogas apreendidas, muitas vezes aliada à variedade, e outras circunstâncias concretas da prática delituosa também podem ser sopesadas para afastar o privilégio, pois são compatíveis com a dedicação às atividades criminosas voltadas ao tráfico de entorpecentes (AgRg no HC n. 562.044/MS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 9/9/2020 - grifei).
+    No caso, a Corte a quo, diante das circunstâncias concretas do delito, considerando especialmente a quantidade, a variedade e a forma de acondicionamento das drogas – 113,1g de cocaína, 28,8g de crack e 56,1g de maconha –, afastou a aplicação do § 4º do art. 33 da Lei n. 11.343/2006 nos seguintes termos (fls. 22-23):
+    De fato, o acusado não faz jus à minorante do artigo 33, § 4º, da Lei nº 11.343/06: não só a expressiva quantidade e variedade das substâncias entorpecentes, mas igualmente o fato de o réu declarar-se desempregado na fase policial e não ter comprovado o exercício de qualquer atividade lícita durante a instrução, denotam a intensa dedicação dele às atividades criminosas, que, a rigor, obsta a incidência do redutor.
+    Ademais, a revisão do entendimento adotado pela Corte de origem demanda o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus (HC n. 469.952/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 16/10/2018; e AgRg no HC n. 468.662/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/11/2019).
+    Mantido o quantum da pena, é inviável a substituição da pena privativa de liberdade por restritiva de direitos em razão do não preenchimento do requisito objetivo previsto no art. 44 do Código Penal.
+    Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.”
+    Pelo que há no julgado, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+    Com efeito, verifico que a negativa de aplicação da causa especial de redução da pena, prevista no § 4º do art. 33 da Lei de Drogas, está consubstanciada na conclusão de que o paciente se dedicava à atividade criminosa.
+    É firme a jurisprudência deste Supremo Tribunal no sentido de que, “[s]e as circunstâncias concretas do delito ou outros elementos probatórios revelam a dedicação do paciente a atividades criminosas, não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006.” (HC nº 123.042/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 31/10/14).
+    Ademais, se a instância ordinária, soberana na análise da prova, concluiu que o paciente se dedicava à atividade criminosa para negar a incidência da causa especial de redução de pena, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+    De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+    Quanto à imposição do regime fechado, cumpre observar que não obstante a sanção final tenha sido fixada em 5 anos, observou-se o disposto nos artigos 59 do Código Penal e 42 da Lei de Drogas, ou seja, considerou-se como circunstância desfavorável a quantidade e natureza dos entorpecentes apreendidos (113,1g de cocaína, 28,8g de crack e 56,1g de maconha). Logo, viável a imposição do regime fechado.
+    Nesse sentido, por exemplo:
+    “HABEAS CORPUS. PENAL. TRÁFICO. QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTAÇÃO IDÔNEA PARA A FIXAÇÃO DO REGIME INICIAL FECHADO E PARA A NÃO SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ORDEM DENEGADA.
+    1. A conclusão sobre a quantidade e a natureza do entorpecente apreendido (cento e doze porções de cocaína) conduziu à fixação do regime inicial fechado para o Paciente e à não substituição da pena privativa de liberdade por restritiva de direitos, em harmonia com a jurisprudência consolidada do Supremo Tribunal Federal. Precedentes.
+    2. Ordem denegada.” (HC nº 131.361/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/2/16).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 6 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
