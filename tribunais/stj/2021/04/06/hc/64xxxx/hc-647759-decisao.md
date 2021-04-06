@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIZ FELIPE SALES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Recurso em Sentido Estrito n. 0016179-91.2020.8.16.0129).
+O paciente teve a prisão em flagrante convertida em preventiva, pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. Subsequentemente, foi concedida pelo Juízo de primeiro grau liberdade provisória ao paciente.
+Posteriormente, o paciente teve a preventiva decretada, por ocasião do acórdão que deu provimento ao recurso em sentido estrito interposto pelo Ministério Público.
+A defesa alega que a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar. Argumenta que o paciente possui residência fixa e trabalho lícito como pescador e que a droga encontradase destinava ao consumo próprio. Pondera que só pode ser atribuída ao paciente metade do que foi encontrado (240,5g), devendo a outra metade ser atribuída ao corréu.
+Aduzque a reincidência referida pelo decreto prisional refere-se a condenação por crime diverso do presente, ou seja, pelo crime previsto no art. 129, § 9º, do CP, tendo sido aplicado sursis especial por 2 anos
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP.
+O Tribunal de Justiça do Estado do Paranáapresentou informações às fls. 49-68.
+O Ministério Público Federal opinou pelo não conhecimento do write, caso dele se conheça, pela denegação da ordem (fls. 75-77).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 16-17, destaquei):
+Com efeito, os indícios de autoria e materialidade são relevantes, tendo em vista a apreensão de um tablete pesando 481g (quatrocentos e oitenta e um gramas) da substância conhecida como "maconha" na mochila do Recorrido (seq. 1.6  autos de ação penal), o qual seria transportado para o Município de Guaratuba.
+(..)
+Além disso, verifica-se que o Recorrido é reincidente, possuindo prévia condenação transitada em julgado nos autos de ação penal nº 7947-32.2016.8.16.0129 (seq. 20.1  autos de ação penal), o que corrobora a conclusão de efetivo prejuízo à ordem pública pela sua colocação em liberdade, haja vista o risco concreto de reiteração delitiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
