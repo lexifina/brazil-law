@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se conhece da suposta afronta ao artigo 1.022, II, do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+2.No que diz respeito aos arts. 502, 503 e 1.037, §§ 9ºao 13 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 153):"Ocorre que, na hipótese, a análise das fotografias acostadas ao processo não deixa dúvida de que a região está ocupada por outras residências e que os moradores já contam com o fornecimento de energia elétrica (fls. 21 e 137-138).Muito embora haja a informação de que a área é de preservação permanente, não cabe à concessionária fazer as vezes de ente de fiscalização urbanística ou ambiental, negando o fornecimento de serviço público essencial à munícipe, mormente quando existem indicativos de que a construção é regular"
+3.Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 236):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+O agravante alega que a violação do art. 1.022, II, do CPC/2015 foi devidamente demonstrada, o que afasta a incidência da Súmula 284 do STF. Sustenta que "O imóvel pertencente à agravada está, de fato, situado em Área de Preservação Permanente, o que, nos termos alinhavados nas razões do Recurso Especial, impede que a CELESC efetue a instalação de energia elétrica no local, em respeito à determinação exarada nos autos da Ação Civil Pública n.1997.72.00003822-7/SC, transitada em julgado em 17/3/2010, no âmbito da Justiça Federal, a qual não faz qualquer distinção quanto às regiões de urbanização consolidada. Assim, inexiste a alegada necessidade de reexame fático-probatório, porque a matéria a ser analisada para dirimir a controvérsia é eminentemente de direito, e fulmina a ação antes mesmo de se adentrar no mérito da lide" (fl. 247).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se conhece da suposta afronta ao artigo 1.022, II, do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+2.No que diz respeito aos arts. 502, 503 e 1.037, §§ 9ºao 13 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 153):"Ocorre que, na hipótese, a análise das fotografias acostadas ao processo não deixa dúvida de que a região está ocupada por outras residências e que os moradores já contam com o fornecimento de energia elétrica (fls. 21 e 137-138).Muito embora haja a informação de que a área é de preservação permanente, não cabe à concessionária fazer as vezes de ente de fiscalização urbanística ou ambiental, negando o fornecimento de serviço público essencial à munícipe, mormente quando existem indicativos de que a construção é regular"
+3.Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No tocante à apontada violação ao artigo 1.022, II, do CPC/15, deve ser ressaltado que no recurso especial há somente alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Ante a deficiente fundamentação do recurso neste ponto, incide a Súmula 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No que diz respeito à violação dosarts. 502, 503 e 1.037, §§ 9º ao 13 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão pela possibilidade de fornecimento de energia elétrica em imóvel localizado em Área de Preservação Permanente, conforme o seguinte excerto (fl. 153):
+"Ocorre que, na hipótese, a análise das fotografias acostadas ao processo não deixa dúvida de que a região está ocupada por outras residências e que os moradores já contam com o fornecimento de energia elétrica (fls. 21 e 137-138).
+Muito embora haja a informação de que a área é de preservação permanente, não cabe à concessionária fazer as vezes de ente de fiscalização urbanística ou ambiental, negando o fornecimento de serviço público essencial à munícipe, mormente quando existem indicativos de que a construção é regular"
+Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante aincidênciadaSúmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
