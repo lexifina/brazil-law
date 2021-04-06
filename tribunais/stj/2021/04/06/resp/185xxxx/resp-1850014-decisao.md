@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por FUNDAÇÃO CESP, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelação. Ação declaratória e cobrança de benefício de suplementação de pensão por morte.
+Previdência privada complementar - Sentença de improcedência - Apelo da autora - Nulidade da sentença afastada - Os embargos declaratórios da ré foram acolhidos para integração da sentença sem alteração de resultado - Autora foi companheira do falecido participante do plano de suplementação de aposentadoria da ré que, em vida, não a incluiu como beneficiária para fins de recebimento de pensão por morte - Inclusão apenas da ex-esposa e filhos que teve com a autora - Recebimento de valores decorreu do período em que era representante dos filhos menores, e não em nome próprio - Regulamento previa a possibilidade de sua inclusão se o participante tivesse excluído a ex-esposa ou mediante iniciativa do falecido com aporte de contribuição adicional - Sentença de improcedência mantida - Ressarcimento dos valores recebidos em razão da revogação da tutela antecipada concedida - Inteligência do art. 302, I, do CPC - Valores que deverão ser redistribuídos aos beneficiários em autos próprios - Peculiaridade do caso concreto.
+Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais (fls. 378-391), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 1º e 35 da LC nº 109/01, 116 do Código Civil e 6º da Lindb.
+Insurge contra a vedação ao ressarcimento dos valores recebidos a título de tutela antecipada, aduzindo o princípio da força obrigatória dos contratos e que o benefício de complementação de aposentadoria não teria caráter alimentar.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 488.
+Crivo positivo de admissibilidade na origem (fls. 494-495).
+É o relatório.
+DECIDO.
+2. O Tribunal de origem, ao dirimir a controvérsia que lhe foi apresentada, concluiu que a parte recorrente não faz jus à restituição dos valores relativos à tutela antecipada concedida ante a ausência de prejuízo dela, tendo em vista que o benefício que seria pago à filha da ora recorrida foi dividido, cabendo a filha reclamar eventual prejuízo. Segue trecho do acórdão recorrido (fl. 347):
+"Consequência lógica da improcedência é a revogação da tutela provisória de urgência. Contudo, a restituição dos valores de pensão que a ré comprovou ter pago à autora em razão da tutela concedida, não deve ser feita à requerida.
+Com efeito, dispõe o artigo 302 do Código de Processo Civil a respeito da necessidade de reparar o prejuízo sofrido pela parte adversa. In casu, a ré não teve qualquer prejuízo, como reconhecido na próprias contrarrazões a fl. 276. Com efeito, o valor que seria pago à filha da autora, simplesmente foi dividido. Quem poderia reclamar, portanto, eventual prejuízo, seria Amanda, mas não a parte requerida.
+Amanda não foi incluída no polo passivo e, a essa altura, julgado improcedente o pedido, não se vê utilidade na anulação do processo para que venha integrar a lide, sendo certo que poderá, em sede própria, reclamar eventual prejuízo em face da genitora.
+À guisa de conclusão, o apelo comporta acolhimento tão somente no que se refere à restituição dos valores pagos por força da antecipação dos efeitos da tutela, que deverão, se o caso, ser pleiteados pelo beneficiário prejudicado.
+Mantida, no mais, a r. Sentença." (g.n.)
+Lado outro, a parte recorrente alega no recurso especial que "o v. acordão do recurso interposto pela recorrida vedou o ressarcimento dos valores recebidos a título de tutela antecipada, sob alegação de caráter alimentar, o que não merece prosperar" (fl. 382), arguindo ainda o princípio da força obrigatória dos contratos e que o benefício de complementação de aposentadoria não teria caráter alimentar, não impugnando o fundamento central do acórdão recorrido acima destacado, como seria de rigor .
+Desse modo, verifica-se que a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2.1 Ademais, especificamente quanto ao dissídio jurisprudencial, acresce que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+3. Ante o exposto, não conheço do recurso especial interposto por FUNDAÇÃO CESP .
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE BENEFÍCIO. REVOGAÇÃO DE TUTELA ANTECIPADA. RESTITUIÇÃO. BENEFÍCIO DIVIDIDO. SÚMULAS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO NÃO CONHECIDO.
+1. A falta de impugnação objetiva e direta ao fundamento do acórdão recorrido denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+3. Recurso especial de fls. 378-391 não conhecido.
