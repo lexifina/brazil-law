@@ -1,0 +1,28 @@
+DECISÃO
+CONDOMÍNIO EDIFÍCIO SOLAR DAS GAIVOTAS (CONDOMÍNIO) ajuizou ação de indenização por danos materiais e morais contra MARUBA CONSTRUÇÕES E INCORPORAÇÕES LTDA (MARUBA)VERTICAL FACHADA LTDA (VERTICAL), GIOVANNA CARUSO(GIOVANNA) que foi julgada improcedente.
+Condenou o requerente ao pagamento das custas e dos honorários advocatícios, esses fixados em 10% do valor atualizado da causa(e-STJ, fls.700/715).
+A apelação interposta por CONDOMINIOfoi parcialmente provido pelo Tribunal paranaense.
+Diante da parcial reforma da sentença, e considerando a sucumbência recíproca (art. 86 do NCPC), condenouos litigantes ao pagamento de 50% das custas processuais e honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa, nos termos do artigo 85, §2º, do CPC
+O acórdão foi assim ementado:
+PRESTAÇÃO DE SERVIÇOS E EMPREITADA. APELAÇÃO CÍVEL.AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS -SENTENÇA DE IMPROCEDÊNCIA. PRELIMINARES - NÃO CONHECIMENTO DO RECURSO POR OFENSA AO PRINCÍPIO DA DIALETICIDADE (CONTRARRAZÕES) - INOCORRÊNCIA - RAZÕES RECURSAIS QUE ATACAM OS FUNDAMENTOS DA SENTENÇA.CERCEAMENTO DE DEFESA - INDEFERIMENTO DE PROVA ORAL -DESNECESSIDADE - PROVA DOCUMENTAL SUFICIENTE PARA O CORRETO DESLINDE DO FEITO. MÉRITO - ANÁLISE DAS PROVAS PRODUZIDAS, EM ESPECIAL DO LAUDO TÉCNICO PERICIAL HOMOLOGADO EM MEDIDA CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS - CONTRATAÇÃO DOS REQUERIDOS -ARQUITETA, ADMINISTRADORA DE OBRAS E MÃO DE OBRA -PARTE DAS REFORMAS E OBRAS ELABORADAS SEM CONFORMIDADE TÉCNICA - EXECUÇÃO DE MODIFICAÇÕES NÃOPREVISTAS EM CONTRATO E SEM PROVA DE AUTORIZAÇÃO PORPARTE DA DONA DA OBRA - CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS, RELATIVOS AOSPROBLEMAS DECORRENTES DE INOBSERVÂNCIA TÉCNICA OU DOMEMORIAL DESCRITIVO DAS OBRAS E REFORMAS. DANO MORAL- PESSOA JURÍDICA - AUSÊNCIA DE PROVAS - NÃO CABIMENTO.RECURSO CONHECIDO E PARCIALMENTE PROVIDO(e-STJ, fl. 941).
+Os embargos de declaração opostos por GIOVANA foram rejeitados (e-STJ, fls. 1.010/1.018).
+Irresignada, GIOVANA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 14, §4º , do Código de Defesa do Consumidor, 186, 927, do Código Civil, por entender indevida sua condenação solidária ao pagamento de indenização por danos materiais, decorrentes de execução de obra em desacordo com o projeto arquitetônico; 373, do Código de Processo Civil, por entender que incumbia à recorrida comprovar os fatos impeditivos, modificativos ou extintivos do direto postulado pela parte autora; 5 º,X e LXXVIII, da Constituição Federal,por considerar violado o princípio da segurança jurídica. (e-STJ, fls. 1.103/1.148)
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.167/1.173).
+O apelo nobre não foi admitido em virtude da (1) incidência da Súmula nº 7 do STJ;e, (2)impossibilidade de apreciação de dispositivos constitucionais (e-STJ, fls. 1.181/1.184)
+Nas razões do presente agravo em recurso especial, GEOVANA afirmou que não se trata da aplicação da Súmula nº 7 do STJ. No mais, repisou as razões do especial(e-STJ, fls. 1.199/1.242).
+Foi apresentada contraminuta (e-STJ, fls. 1.255/1.256).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o fundamento da decisão agravada, pois GEOVANA não refutou, de forma arrazoada, a impossibilidade de apreciação dedispositivos constitucionais.
+De fato, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge ( AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Assim, como não houve a demonstração do adequado enfrentamento do fundamento de impossibilidade de apreciação de dispositivos constitucionais, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONDOMÍNIO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO QUE NÃO INFIRMA O FUNDAMENTO DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
