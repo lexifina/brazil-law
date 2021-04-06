@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMGassim ementado (e-STJ fl. 49):
+AGRAVO DE INSTRUMENTO - BUSCA E APREENSÃO - LANÇAMENTO DE IMPEDIMENTO NO PRONTUÁRIO DO VEÍCULO VIA RENAJUD -IMPOSSIBILIDADE. - O sistema RENAJUD tem como propósito interligar o Poder Judiciário ao DETRAN, com a finalidade de viabilizar a consulta e o envio de ordens judiciais eletrônicas de restrição de veículos. Diante dessa finalidade, observa-se que a medida não tem amparo legal, sendo certo que o bem já se encontra gravado com cláusula de arrendamento mercantil prevista no contrato, o que resguarda o direito do agravante.
+AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO - MEDIDA LIMINAR DEFERIDA - IMPOSIÇÃO DE RESTRIÇÃO DE CIRCULAÇÃO - POSSIBILIDADE. A imposição de restrição à circulação de veículo dado em garantia de contrato de financiamento com alienação fiduciária é medida apropriada para dar efetividade à liminar de busca e apreensão concedida, evitando, assim, que a não localização do devedor fiduciante e, consequentemente, do aludido veículo, torne inócua aquela decisão judicial.
+Nas razões do recurso especial (e-STJ fls. 59/63), interposto com base no art. 105, III, "a", da CF, arecorrente aponta violação doart. 3º, § 9º, do Decreto-Lei n. 911/1969, alegando que "a parte recorrida, sem qualquer justificativa e por mera liberalidade, deixou de honrar com suas obrigações, restando inadimplente quanto as parcelas do contrato em questão, à configurar sua mora, a recorrente a notificou" (e-STJ fl. 60).
+Afirma que "propôs a presente Ação de Busca e Apreensão a fim de consolidar a posse e o domínio sobre o veículo dado em garantia" (e-STJ fl. 60), em respeito aos princípios constitucionais previstos"nos incisos LIV e LV, doart. 5º, da CF" (e-STJ fl. 60).
+Busca, em suma, o provimento do recurso especial paraque seja deferidaa inclusão de restrição judicial sobre o veículo dado em garantia.
+Contrarrazões não apresentadas(e-STJ fl. 68).
+Juízo positivo de admissibilidade (e-STJ fls. 69/71).
+É o relatório.
+Decido.
+O Tribunal de origem concluiu pela restrição de circulação do veículo alienado fiduciariamente, até o cumprimento efetivo da liminar de busca e apreensão, conforme o seguinte excerto(e-STJ fls. 51/57):
+Busca o agravante a reforma da decisão que indeferiu, na ação de busca e apreensão, o pedido para lançamento de impedimento de transferência e circulação no veículo objeto do contrato de financiamento firmado com o agravado, em virtude do inadimplemento das parcelas do referido contrato
+É que não sendo o veículo encontrado quando procurado para o cumprimento da medida liminar de sua busca e apreensão (doc. 04), tem-se por apropriada a medida de lançamento, em seu prontuário, de registro de impedimento de circulação, de forma a dar efetividade à liminar de busca e apreensão concedida.
+Ademais, tem-se que tal medida restritiva está em conformidade com o que dispõe o art. 3º, § 9º, do Decreto-Lei 911/69 (..)
+(..)
+Registre-se, ainda, que referida medida não significa transferência para os órgãos estatais do ônus processual que incumbe ao credor fiduciário -localizar o veículo de sua propriedade e informar nos autos o endereço hábil ao cumprimento da liminar de busca eapreensão -, mas apenas confere efetividade à prestação jurisdicional e à liminar já deferida, garantindo um serviço judicial mais rápido e efetivo, à luz dos princípios da economia e celeridade processuais.
+Com tais considerações, dou provimento ao recurso, reformando a decisão agravada, para determinar o lançamento de restrição de circulação no prontuário do veículo descrito nos autos, via RENAJUD.
+Com efeito, ao assim decidir, encontra-se o acórdão em consonância com o entendimento desta Corte Superior quanto à viabilidadede limitação ao uso do bem pelo devedor até a efetiva quitação do montante devido, a propósito:
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ART. 185-A DO CTN. RENAJUD. DECRETO DE INDISPONIBILIDADE DE VEÍCULO AUTOMOTOR REGISTRADO EM NOME DA EXECUTADA. POSSIBILIDADE. NÃO LOCALIZAÇÃO DO VEÍCULO PARA FINS DE PENHORA OU ARRESTO. IRRELEVÂNCIA.
+1. Hipótese em que a Fazenda Nacional interpôs agravo de instrumento contra decisão do Juízo de primeiro grau que indeferiu pedido de bloqueio de veículos da executada - ora recorrida - via Sistema RENAJUD.
+2. A pretensão merece prosperar, pois é possível, por intermédio do Sistema RENAJUD, a expedição de decreto de indisponibilidade de veículo automotor registrado em nome da executada, com suporte no art. 185-A do CTN, ainda que o bem não tenha sido encontrado para fins de penhora ou arresto. Precedente: REsp 1.151.626/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/3/2011.
+3. Recurso especial provido.
+(REsp n. 1.629.474/RS, Relator o Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/6/2017, DJe 26/6/2017.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. SISTEMA RENAJUD. CONSULTA. POSSIBILIDADE. EXAURIMENTO DE DILIGÊNCIAS PARA BUSCA DE BENS DO EXECUTADO. DESNECESSIDADE.
+1. Cinge-se a controvérsia a definir se é dado ao exequente solicitar ao Juízo a busca - pelo sistema RENAJUD - de informação acerca da existência de veículos de propriedade do executado, independentemente da comprovação do esgotamento das vias extrajudiciais para tal finalidade.
+2. O RENAJUD é um sistema on-line de restrição judicial de veículos criado pelo Conselho Nacional de Justiça (CNJ), que interliga o Judiciário ao Departamento Nacional de Trânsito (Denatran) e permite consultas e envio, em tempo real, à base de dados do Registro Nacional de Veículos Automotores (Renavam) de ordens judiciais de restrições de veículos, inclusive registro de penhora.
+3. Considerando-se que i) a execução é movida no interesse do credor, a teor do disposto no artigo 612 do Código de Processo Civil; ii) o sistema RENAJUD é ferramenta idônea para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados e iii) a utilização do sistema informatizado permite a maior celeridade do processo (prática de atos com menor dispêndio de tempo e de recursos) e contribui para a efetividade da tutela jurisdicional, é lícito ao exequente requerer ao Juízo que promova a consulta via RENAJUD a respeito da possível existência de veículos em nome do executado, independentemente do exaurimento de vias extrajudiciais.
+4. Recurso especial provido.
+(REsp n. 1.347.222/RS, Relator o Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/8/2015, DJe 2/9/2015.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO.RESTRIÇÃODE LICENCIAMENTO ECIRCULAÇÃODE VEÍCULOS PENHORADOS. PEDIDO DE DESBLOQUEIO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. A adoção de entendimento diverso por esta Corte quanto à necessidade de bloqueio ao licenciamento doveículo,contrariamente à conclusão do acórdão recorrido, demandaria reexame do acervo fático-probatório dos autos, o que não é possível em recurso especial, nos termos do enunciado 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1021050/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/10/2017, DJe 17/10/2017.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO.RESTRIÇÃODE LICENCIAMENTO ECIRCULAÇÃODE VEÍCULOS PENHORADOS. PEDIDO DE DESBLOQUEIO. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Ação debuscaeapreensãoda qual se extrai o presente recurso especial, interposto em 04/08/17 e concluso ao gabinete em 02/03/18.
+2. O propósito recursal consiste em definir se a ordem judicial debuscaeapreensãodeveículo,via RENAJUD, com base no DL 911/69, autoriza arestriçãode suacirculação.
+3. O sistema RENAJUD é uma ferramenta eletrônica que interliga o Poder Judiciário e o Departamento Nacional de Trânsito - DENATRAN, possibilitando consultas e o envio, em tempo real, de ordens judiciais eletrônicas derestriçãoe de retirada derestriçãode veículos automotores na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM.
+4. A adoção da padronização e a automação dos procedimentos envolvidos narestriçãojudicial de veículos via RENAJUD, no âmbito dos Tribunais e Órgãos Judiciais, tem como principal objetivo a redução significativa do intervalo entre a emissão das ordens e o seu cumprimento, comparativamente à tradicional prática de ofícios em papel.
+5. Arestriçãodecirculação (restriçãototal) impede o registro da mudança da propriedade doveículo,um novo licenciamento no sistema RENAVAM e também a suacirculaçãoem território nacional, autorizando o recolhimento do bem a depósito.
+6. Como decorre da própria razão que instituiu as ferramentas eletrônicas de efetividade jurisdicional - BACENJUD, INFOJUD e RENAJUD - a ordem debuscaeapreensãodo bem alienado fiduciariamente autoriza o bloqueio decirculaçãoveicular, com vistas à satisfação da tutela jurisdicional do credor fiduciário, em integral cumprimento à finalidade do DL 911/69.
+7. Recurso especial conhecido e não provido.
+(REsp 1744401/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2018, DJe 22/11/2018.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
