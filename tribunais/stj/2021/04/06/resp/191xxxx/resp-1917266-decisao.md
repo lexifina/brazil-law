@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por LEOPOLDO ELIZIÁRIO DOMINGUES, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,assim ementado:
+PROCESSO CIVIL SUSPENSÃO DA EXECUÇÃO APÓS ACORDO CELEBRADO ENTRE AS PARTES ACORDO PROPOSTO PELA EXECUTADA E ACEITO PELO EXEQUENTE APÓS REVOGAÇÃO DO MANDATO DO PATRONO EXCLUSÃO DO ADVOGADO DO EXEQUENTE INADMISSIBILIDADE ACORDO QUE PREVÊ O PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS DIVISÃO ENTRE OS PATRONOS DE AMBAS AS PARTES CABIMENTO DIREITO DO PATRONO QUE ATUOU NO PROCESSO RECURSO PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.489, 1.022, I, II e III, 926 E 927 doCódigo de Processo Civil, 23 e 24 da Lei 8906/94.
+Sustenta, em síntese, o recorrente: "Ora, data máxima vênia, dividir em igual proporção 10% da verba honorária é violar o ordenamento jurídico vigente, máxime quando há fixação de honorários arbitrados neste feito para o ora Recorrente, EXCLUSIVAMENTE, em R$ 1.000,00, E JAMAIS PODERIAM SER REPARTIDOS COM QUEM NUNCA ATUOU NO FEITO, em total desproporção..A destituição não autoriza que novos advogados venham receber verba sucumbencial e honorária de quem atuou sozinho até a destituição. ATÉ A DESTITUIÇÃO A VERBA É EXCLUSIVA DO ORA RECORRENTE, DAÍ A INSURGÊNCIA DESTE RECURSO. O recorrente não perde a titularidade do direito aos honorários apenas porque a parte rescindiu em ato unilateral, imotivado e por conveniência exclusiva sua o contrato de mandato. Até porque não houve qualquer ato de cessão ou renúncia de direito por parte do profissional, cujos atos devem ser manifestados de modo expresso e inequívoco..Adestituição do causídico antes do término do processo lhe garante o recebimento da integralidade do valor dos honorários sucumbenciais ATÉ A DESTITUIÇÃO, ou seja, equivalente ao trabalho efetivamente desempenhado e o caminho percorrido até a satisfação do direito de seu cliente, com o recebimento do que lhe é devido. O feito foi entregue aos novos advogados vias de AVALIAÇÃO/LEILÃO do imóvel devedor. Não há que dividir honorários. Estes serão integrais, mas proporcionais ao tempo trabalhado. Um até a destituição, outro depois.".
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 1205.
+Crivo positivo de admissibilidade na origem (fls. 1206-1207).
+É o relatório.
+DECIDO.
+2. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos contidos nos autos, assim concluiu:
+Consoante se verifica dos autos, as partes celebraram acordo quanto ao objeto do processo, razão pela qual a execução foi suspensa pelo prazo necessário para o cumprimento do acordo, com determinação de arquivamento dos autos até que seja comunicado o cumprimento do acordo ou provocação por inadimplemento.
+Ocorre que a proposta de acordo foi apresentada pela executada às fls. 642 dos autos principais, prevendo honorários sucumbenciais de 10% sobre o valor acordado, o que somente foi aceito pelo exequente às fls. 654 após a destituição do agravante, que não participou da avença.
+O direito do advogado aos honorários sucumbenciais decorre de lei, e subsiste mesmo quando da realização de transação, consoante prevê o art. 90 do CPC.
+(..)
+Assim, o percentual fixado a título de honorários sucumbenciais no acordo celebrado entre as partes deve ser dividido igualmente entre os patronos da executada e o agravante, que atuou no processo até o momento da celebração do referido acordo.
+(..)
+Esta Corte possui entendimento de que, havendo composição entre as partes no tocante ao débito objeto da execução, dispondo inclusive acerca dos honorários advocatícios, não mais subsistem os honorários fixados no despacho que recebe a execução, especialmente porque não há sucumbência. Ressalva-se, entretanto, o direito do advogado que se sentiu prejudicado de propor ação autônoma com a finalidade de perceber a verba honorária que entende devida, de acordo com a extensão de sua atuação no processo. Assim o acórdão recorrido não destoa da Jurisprudência desta Corte Superior.
+Ademais, acolher a pretensão recursal no tocante à proporcionalidade dos honorários advocatícios arbitrados, não é possível em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+A propósito:
+"RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PROVISÓRIA. ACORDO HOMOLOGADO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS PROVISÓRIOS. DESCABIMENTO. OMISSÃO INEXISTENTE.. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO NÃO CONFIGURADO. FALTA DE SIMILITUDE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Cinge-se a controvérsia a saber se os advogados da exequente mantêm o direito à percepção dos honorários fixados no despacho que recebe a execução, a qual foi posteriormente extinta em virtude de homologação de acordo entre as partes, em que se estabeleceu que cada parte arcaria com os honorários de seus respectivos patronos.
+2. Os honorários fixados no início da execução são provisórios, pois só se conhecerá a sucumbência final quando do julgamento dos embargos. Precedentes do STJ.
+3. Havendo composição entre as partes quanto à dívida principal, dispondo expressamente sobre os honorários advocatícios, não subsistem os honorários fixados no despacho que recebe a execução.
+Não há falar em sucumbência quando não existe vencedor nem vencido, cabendo às partes dispor sobre o ônus do pagamento da verba.
+4. Ressalva-se o direito dos advogados que se reputarem prejudicados o ajuizamento de ação autônoma para pleitear a percepção da verba honorária, bem como o respectivo valor, tudo conforme a extensão de sua atuação no processo.
+5. Rever as conclusões do Tribunal de origem - para entender que os recorrentes atuaram em defesa dos direitos da exequente em diversos feitos - demandaria o reexame de todo o acervo documental carreado aos autos de processo distinto, o que é inviável em sede de recurso especial, no termos da Súmula nº 7/STJ.
+6 Recurso especial conhecido em parte e não provido."
+(REsp 1414394/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/09/2015, DJe 30/09/2015)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA FIXADOS NOS EMBARGOS DO DEVEDOR. CUMULAÇÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Os honorários fixados no despacho inicial da execução podem ter caráter provisório e ser substituídos na oportunidade de arbitramento de honorários nos embargos à execução, em que o magistrado considerará todo o trabalho dos advogados até aquele momento.
+2. A reforma do valor dos honorários demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 616.452/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/03/2016, DJe de 04/03/2016)
+3. Por fim, no tocante aoalegado caráter alimentar da verba honorária,calha ressaltar que o eg. Tribunal local não se pronunciou sobre o tema,tratando-se, portanto de matéria não prequestionada, o que atrai o óbice da Súmula 211 do STJ.
+4. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS.ACORDO HOMOLOGADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIOPREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1) "Havendo composição entre as partes no tocante ao débito objeto da execução, dispondo inclusive acerca dos honorários advocatícios, não mais subsistem os honorários fixados no despacho que recebe a execução, especialmente porque não há sucumbência. Ressalva-se, entretanto, o direito do advogado que se sentiu prejudicado de propor ação autônoma com a finalidade de perceber a verba honorária que entende devida, de acordo com a extensão de sua atuação no processo.".(AgInt no REsp 1487433/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019).
+2. Recurso especial não provido.
