@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto com fulcro no artigo 105, inciso III, alínea"a", da Constituição Federal.
+Alega a recorrente"violação ao artigo 30 e 31 da Lei 9.656/98. Os requisitos elencados pelo dispositivo não foram cumpridos".
+Pondera que o acórdão recorrido "entendeu que "não obstante a ré alegar que o contrato não era na modalidade contributária e o douto Juízo a quo, com base em tal premissa, ter julgada improcedente a demanda, é certo que ela ofereceu a manutenção do contrato pelo período de dois anos. Deste modo,é irrelevante a questão da contribuição financeira direta ao plano, quando o contrato de trabalho do autor durou seis anos, tempo exatamente necessário para o desfrute do plano pelo prazo máximo de 24 meses, nos termos do artigo 30, § 1º, da Lei 9656/98".
+Diz que a "a Resolução Normativa 279/2011 da ANS determina o alcance da contribuição, que exclui o pagamento de coparticipação na utilização dos serviços de assistência médica para o fim de contribuição".
+Obtempera que não se pode dizer que houve contribuição indireta.
+2. O acórdão recorrido dispôs:
+Em continuidade, afirma que o plano foi cancelado, em30/09/2017, se negando à ré a possibilitar a migração do autor para plano individual, ao passo que se encontra em tratamento oncológico por ser portador de Linfoma Não Hodgkin.
+ ..
+Ademais, no caso concreto, a questão cinge-se, primordialmente, à controvérsia da migração para plano individual após o cancelamento do plano coletivo empresarial, sendo, pois, impossível o acolhimento de tal pretensão sem a presença da operadora, motivo pelo qual patente sua legitimidade para figurar no polo passivo da presente ação.
+Quanto ao mérito, restou incontroverso que o autor foi beneficiário de plano de saúde oferecido por sua empregadora, no período de 20/07/2009 a 30/09/2015, tendo lhe sido concedido a manutenção do benefício até 30/09/2017.
+Inobstante a ré alegar que o contrato não era na modalidade contributária e o douto Juízo a quo, com base em tal premissa, ter julgada improcedente a demanda, é certo que ela ofereceu a manutenção do contrato pelo período de dois anos. Deste modo, é irrelevante a questão da contribuição financeira direta ao plano, quando o contrato de trabalho do autor durou seis anos, tempo exatamente necessário para o desfrute do plano pelo prazo máximo de 24 meses, nos termos do artigo 30, § 1º, da Lei9656/98.
+Ademais, o que pretende o autor é a migração para plano individual, ante o cancelamento do plano de saúde coletivo.
+Com efeito, como visto e explícito no acórdão recorrido, o fundamento do decidido não é a possibilidade de o autor permanecer em plano de saúde coletivo, tampouco a questão da contribuição ter sido ou nãoindireta, mas ter havido recusa a migrar-lhe a um plano de saúde individual, apenas aproveitando a carência -sem, pois, manutenção da mesma mensalidade ou do mesmo plano.
+Com efeito, não houve impugnação do único fundamento da decisão, e, em vista do teor do decidido, também não é compreensível a tese recursal. Incide, pois, os óbices das Súmulas 283 e 284 do STF, a impedir o conhecimento do recurso especial.
+3. Diante do exposto, não conheço do recurso especial.Havendo nos autos prévia fixação de honorários de advogado pelasinstâncias de origem, determino a sua majoração, em desfavor da parterecorrente, no importe de 10% sobre o valor já arbitrado, nos termos doart. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, oslimites percentuais previstos nos §§ 2º e 3º do referido dispositivolegal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO ÚNICO FUNDAMENTO DO ACÓRDÃO RECORRIDO, INCLUSIVE A TORNAR INCOMPREENSÍVEL A TESE RECURSAL, EIS QUE TOTALMENTE DISSOCIADO DO QUE FORA DECIDIDO. INCIDÊNCIAS DAS SÚMULAS 283 E 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
