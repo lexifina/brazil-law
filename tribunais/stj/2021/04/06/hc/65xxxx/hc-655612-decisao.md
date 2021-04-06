@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME PEREIRA MOREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.0091335-96.2013.8.26.0050.
+Consta nos autos que o Paciente foi condenado como incurso no art.157, §3.º, parte final, c.c. o art.14, inciso II, ambos do Código Penal, à pena de 18 (dezoito) anos, 1 (um) mês e 23 (vinte e três) dias de reclusão , em regime inicial fechado, e 8 (oito) dias-multa.
+Irresignada, a Defesarecorreu ao Tribunal de origem, que manteve integralmente a condenação imposta, conformeacórdão prolatado em03/12/2015(fls. 101-136).
+Em consulta ao sistema de informações processuais do Tribunal de origem, constata-se que acondenação transitou em julgado em 13/07/2016.
+Nas razões desta impetração, a Defesasustenta, em síntese, que a fração de redução da pena decorrente do reconhecimento do crime tentado deveria ter sido fixada nopatamar máximo, tendo em vista que "o Paciente percorreu parcela mínima do iter criminis, pois distanciou-se em muito da consumação do delito" (fl. 9).
+Pleiteia-se, assim, a redução da pena imposta, nos termos acima explicitados.
+É o relatório. Decido.
+No caso, verifica-se queo acórdão do Tribunal de Justiça do EstadodeSão Paulo apontado como ato coator (Apelaçãon. 0091335-96.2013.8.26.0050)transitou em julgado no dia 13/07/2016. Diante dessa situação, não deve ser conhecido o presente writ, pois a rediscussão da condenação definitivaexige a instauração de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus própriosjulgados, o que não é o caso dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, inadmissível o habeas corpus.
+2. Não deve ser conhecido o habeas corpus substitutivo de revisão criminal de decisões proferidas por outros Tribunais, por não haver sido inaugurada a competência do STJ. Só compete a esta Corte Superior apreciar pedidos de revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição Federal. ..
+4. Agravo regimental não provido."(AgRg no HC 499.382/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020, sem grifos no original).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DESACATO. PLEITOS DE ABSOLVIÇÃO, EXCLUSÃO DA REINCIDÊNCIA, FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADA E DECIDIDA PELA CORTE DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.HABEAS CORPUS NÃO CONHECIDO. ..
+IV - O exame das alegações do impetrante se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, já que transitada em julgado a condenação, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal.
+Habeas corpus não conhecido."(HC 540.161/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADOTJ/PE), QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019, sem grifos no original.)
+De outra parte, também não se verifica nenhuma ilegalidade flagrante capaz de autorizar a concessão de habeas corpus de ofício por esta Corte Superior.
+No caso, o Tribunal de origem manteve a aplicação da causa de diminuição de pena referente à tentativa no patamar de 1/3 (um terço), nos seguintes termos:
+"Na derradeira etapa, não há causas de aumento de pena. Por outro lado, tendo em vista o reconhecimento da forma tentada, a pena foi reduzida de 1/3 (um terço).
+Como se observa dos autos, o iter criminis percorrido pelos agentes, chegou próximo a sua consumação, eis que um dos indivíduos, além de subtrair os valores portados pela vítima, efetuou dois disparos contra ela, que somente não faleceu por circunstâncias alheias à sua vontade, eis que o tiro que lhe atingiu não acertou órgão vital" (fl. 134. sem grifos no original).
+Como se vê, o critério adotado pelo Tribunal de origem - iter criminis percorrido - não se mostra ilegal ou teratológico, encontrando ressonância na jurisprudência desta Corte Superior, que já admitiu a aplicação da fração mínima de redução em hipótese semelhantes.
+Sobre o tema, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO. DOSIMETRIA.AUMENTO DA FRAÇÃO DE REDUÇÃO PELA TENTATIVA. CRITÉRIO DO ITER CRIMINIS PERCORRIDO OBSERVADO. ÓBICE AO REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ELEITA INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. AGRAVO DESPROVIDO.
+ ..
+III - Na hipótese, a Corte de origem, em sede de apelação julgada no ano de 2015, destacou a adequação da fração mínima aplicada, levando em conta o critério do iter criminis, que foi substancialmente percorrido e chegou muito próximo da consumação," ..  que somente não aconteceu por falha no mecanismo de disparo de arma de fogo, uma vez que o réu acionou o gatilho e a arma não deflagrou o projétil"
+IV - Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+V - O acórdão impugnado se encontra em consonância com a jurisprudência desta Corte, eis que não há de se conhecer da revisão criminal, cuja matéria de irresignação já foi amplamente discutida em sede de apelação.
+Agravo regimental desprovido."(AgRg no HC 479.940/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/02/2019, DJe 01/03/2019, sem grifos no original).
+Ademais, ao contrário do sustentado pela Defesa, as instâncias ordinárias consignaram que o Paciente aproximou-se bastante da consumação do delito, inclusive atingindo a vítima com disparode arma de fogo, o que não lhe causou óbito apenas por não haver acertado regiãoletal. Nesse contexto, para rediscutir a fração de redução da pena em decorrência da tentativa, seria imprescindível aprofundamentoprobatório, o que não é possível em habeas corpus.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL EPROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO.
