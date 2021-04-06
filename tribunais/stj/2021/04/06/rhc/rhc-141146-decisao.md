@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por REINALDO DE ARAÚJO, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, o qual não conheceu do writ originário, nos termos do acórdão assim ementado:
+"HABEAS CORPUS - MATÉRIA DE EXECUÇÃO -INVIABILIDADE DE APRECIAÇÃO NA VIA ESTREITA DO WRIT -RECURSO PRÓPRIO JÁ INTERPOSTO - PRINCÍPIO DA UNIRRECORRIBILIDADE -REITERAÇÃO DE PEDIDO -AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO.A irresignação quanto às matérias de execução penal deve ser apreciada em recurso próprio (art. 197 da LEP), não sendo o habeas corpus a via adequada para a discussão. Pelo princípio da unirrecorribilidade, contra cada decisão judicial cabe um único recurso, não se prestando o habeas corpus à aceleração do trâmite do recurso adequado já aviado. Não se conhece o inconformismo que se tratar de mera reiteração de pedido, nos termos da súmula n.º 53/ TJMG." (e-STJ, fl. 653)
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no artigo 316, caput, do Código Penal, à pena de 4 anos e 6 meses de reclusão, no regime inicial semiaberto.
+Formulado pedido de prisão domiciliar e saída externa para trabalho, com fundamento na portaria 19 do TJMG e na Resolução CNJ 62/2020, o pleito foi indeferido.
+Neste writ, alega que está preso em regime mais gravoso, pois outros presos em situação semelhante obtiveram os benefícios requeridos (e-STJ fl. 672).
+Sustenta que não se trata de reiteração de pedido e a opção pelo habeas corpus, em vez do agravo em execução, decorreu da necessidade de urgência em seus pleitos (e-STJ, fl. 674)
+Pleiteia seja deferido a saída externa para trabalho do recorrente.
+O Ministério Público Federal opina pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Os autos revelam que a matéria ora questionada não foi apreciada pelo Tribunal estadual, pois (a) inadequada a via eleita para questionar decisões proferidas em execução; (b) interposto o recurso de agravo, impondo-se observância ao princípio da unirrecorribilidade; (c) no HC nº 1.0000.20.531609-4/000, julgado em 20/10/2020 e denegado, à unanimidade, já foi examinado e afastado o pleito defensivo de concessão do recolhimento domiciliar no contexto da pandemia da COVID-19; (d) o paciente já foi transferido para a APAC, onde terá as melhores condições para o cumprimento da pena em regime semiaberto; (e) em segunda instância, a defesa tem reiterado os pedidos, sem aguardar o trâmite do recurso próprio interposto (e-STJ, fls. 654-655).
+Tal fato impossibilita a sua análise por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. POSSE DE ARTEFATO EXPLOSIVO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA DO DECRETO PRISIONAL. NÃO CONHECIDO. REVOGAÇÃO DA PRISÃO PREVENTIVA EM RAZÃO DA PANDEMIA DA COVID-19. PACIENTE COM DOENÇA CRÔNICA RESPIRATÓRIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Quanto à alegação de ausência de fundamentação idônea a justificar a decretação da segregação cautelar do ora agravante, o presente recurso não comporta conhecimento, pois verifica-se que tal pedido não foi conhecido pelo eg. Tribunal de origem por se tratar de reiteração de pedido já julgado em habeas corpus impetrado anteriormente, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob pena de indevida supressão de instância.
+ ..
+Agravo regimental desprovido." (AgRg no RHC 130.645/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2020, DJe 14/09/2020)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. RECEPTAÇÃO. CORRUPÇÃO DE MENORES. EXCESSO DE PRAZO. COMPLEXIDADE DO FEITO. CARTAS PRECATÓRIAS. DESÍDIA ESTATAL NÃO CARACTERIZADA. FUNDAMENTOS DO DECRETO CONSTRITIVO. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA PRISÃO DOMICILIAR. MATÉRIAS NÃO TRATADAS PELO JULGADO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO PARCIALMENTE CONHECIDO, NESTA PARTE, DESPROVIDO.
+ ..
+4. O acórdão recorrido não conheceu das teses de ilegalidade da prisão preventiva e de preenchimento dos requisitos necessários para a prisão domiciliar, por se consubstanciarem em reiteração de pedido já analisado em outros habeas corpus na origem. Assim, sob pena de supressão de instância e de violação ao princípio da dialeticidade é vedada a análise dos supostos constrangimentos ilegais.
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta parte, desprovido." (RHC 106.612/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/04/2019, DJe 30/04/2019)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
