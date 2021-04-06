@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por TEDESCO EQUIPAMENTOS PARA GASTRONOMIA LTDA. contra decisão que negou seguimento a recurso especial, fundamentado naalínea"c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela QuintaCâmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 473/474):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL PLANO DE RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO. CONTROLE JUDICIAL DE LEGALIDADE. INEXISTÊNCIA DE TRATAMENTO DIFERENCIADO PARA CREDORES DE UMA MESMA CLASSE. PRAZO DE CARÊNCIA. IMPOSSIBILIDADE DA EXTENSÃO DA NOVAÇÃO AOS COOBRIGADOS. NULIDADE DA CLÁUSULA QUE IMPOSSIBILITA A CONVOLAÇÃO DA RECUPERAÇÃO JUDICIAL EM FALÊNCIA EM CASO DE DESCUMPRIMENTO DO PLANO.
+1. O objeto do presente recurso é o controle judicial da legalidade de cláusulas do plano de recuperação judicial homologado pelo Juízo a quo.
+2. Cumpre salientar que cabe aos credores a análise da viabilidade econômico-financeira da recuperação judicial da empresa postulante do benefício, recaindo sobre o Poder Judiciário a realização do controle de regularidade do procedimento e de legalidade do plano de recuperação. Precedentes.
+3. Assim sendo, as alegações da parte agravante quanto ao deságio, correção monetária, juros remuneratórios, inserem-se, em verdade, na averiguação da viabilidade econômico-financeira do plano, o que cabe aos credores.
+4. No mesmo sentido, não há falar em tratamento diferenciado de credores da mesma classe, devendo ser respeitada a expressão legítima do interesse individual dos credores e o princípio da maioria que rege a assembleia geral de credores.
+5. No entanto, assiste razão à agravante no que tange à ilegalidade da disposição no plano recuperatório que prevê a suspensão das ações movidas contra os coobrigados/garantidores e as "novações de dívidas e a extinção de exigibilidade dos créditos perante os coobrigados/fiadores/avalistas". Isso porque os efeitos da novação provocada pela aprovação do plano de recuperação não afetam os créditos garantidos por terceiros, por expressa previsãodos artigos 49, § 1º e 59, caput, ambos da Lei nº 11.101/2005.
+6. Outrossim, quanto à impossibilidade de convolação da recuperação judicial em falência na hipótese de descumprimento do plano, a qual vai disposta na cláusula 6.5, tem-se que tal previsão afronta o artigo 61, §1º, da Lei n. 11.101/05, devendo ser expurgada do plano.
+7. O prazo de carência de dois anos para o início do pagamento dos créditos a contar do trânsito em julgado da decisão que homologar deve ser reformulado. Precedentes desta c. Câmara.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 542/548).
+A agravantesustenta, nas razões de recurso especial, a existência dedivergência jurisprudencial acerca da validade da cláusula inserida no plano de recuperação judicial aprovado prevendo a suspensão das ações e obrigações também em relaçãoaos coobrigados e deinício do prazo de pagamento dos credores após o trânsito em julgado da decisão que homologou o plano de recuperação judicial.
+Em face da relevância da matéria, dou provimento ao agravo e determino a
+conversão dos autos em recurso especial.
+Intimem-se.
