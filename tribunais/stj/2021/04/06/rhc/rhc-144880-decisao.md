@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por GILSON MENEGATTI contra acórdão do Tribunal Regional Federal da 1ª Região.
+Consta dos autos que o recorrente foi preso e denunciado pela suposta prática dos delitos de organização criminosa e lavagem de capitais, descritos no art. 2º da Lei 12.850/2013 e art. 1º da Lei 9.613/98.
+Impetrado o habeas corpus originário, o Tribunal a quo denegou a ordem, em aresto assim ementado:
+"PROCESSUAL PENAL. ORDEM DE HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. LAVAGEM DE CAPITAIS. MANUTENÇÃO DA PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. ALEGADAS CONDIÇÕES FAVORÁVEIS DO PACIENTE. INSUFICIÊNCIA PARA CONCESSÃO DO WRIT. REQUISITOS LEGAIS DA SEGREGAÇÃO CAUTELAR PRESENTES. MEDIDAS ALTERNATIVAS.
+IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. A segregação cautelar não ofende o princípio constitucional da presunção de inocência, quando esta se dá com base na demonstração da presença de, pelo menos, um dos pressupostos do art. 312 do Código de Processo Penal.
+2. A pacífica e iterativa jurisprudência desta Terceira Turma trafega no sentido de que a necessidade de se obstar a reiteração delituosa justifica a decretação da prisão preventiva como forma de acautelar a ordem pública e garantir a aplicação da lei penal.
+3. Diversamente da alegação da defesa, que a decisão atacada possui fundamentação sólida e pormenorizada quanto ao preenchimento dos requisitos do art. 312 do Código de Processo Penal, além de encontrar respaldo na jurisprudência dominante, atualmente, no sentido de se exigir a contemporaneidade da medida para a decretação da segregação cautelar.
+4. Constata-se, pela análise do caderno processual, que a arguição de excesso de prazo encontra-se superada pelo oferecimento de denúncia em desfavor do paciente e dezenas de investigados pelo crime descrito no art.
+2º da Lei n. 12850/2013, bem como que, pela enorme complexidade dos fatos, as investigações ainda prosseguem em relação ao envolvimento do paciente no cometimento de outros delitos graves.
+5. Do teor das investigações, da decisão atacada e das informações prestadas pelo magistrado a quo, verifica- se que a prisão cautelar do paciente foi decretada por se entender que o paciente faz parte de organização criminosa estruturada, com divisão de tarefas, com poder econômico e com diversos integrantes atuando em diferentes Estados e exterior, com envolvimento em delitos graves como a lavagem de dinheiro e a evasão de divisas.
+6. Resta configurado requisito para a segregação preventiva do ora paciente, considerada a gravidade em concreto, além do modus operandi do delito que teria sido por ele perpetrado, infere-se concretamente a sua periculosidade, com o que sua soltura coloca em risco a ordem pública e econômica.
+7. Pela análise da situação da ora paciente - possibilidade concreta de reiteração criminosa e gravidade concreta das condutas apuradas -, verifica-se ser incabível a aplicação das medidas alternativas à prisão, nos termos do art. 282 c/c o art. 319, ambos do Código de Processo Penal, sem prejuízo de futuro exame a ser realizado em momento oportuno, conforme mandamento do art. 316, parágrafo único do CPP.
+8. Ordem de habeas corpus denegada." (e-STJ, fls. 527-528).
+Neste recurso, a defesa sustenta a ocorrência de constrangimento ilegal decorrente da manutenção da prisão preventiva do recorrente.
+Aduz, em síntese, que não estão presentes os pressupostos necessários para o decreto prisional, o qual, inclusive, ofende o princípio da contemporaneidade, considerando que já se passaram mais de 1 ano e 11 meses dos últimos fatos atribuídos ao recorrente.
+Ressalta, ainda, que ocorreram fatos novos desde sua prisão, tais como: "01) finalização da atividade investigativa, com oitiva de todos, testemunhas e colheita de provas; 02) conclusão do inquérito policial com indicação dos elementos de culpa colhidos e oferecimento do relatório pela I. Autoridade policial; 03) oferecimento de denúncia contra o Requerente; 04) ampla e notória divulgação do caso pelos veículos de imprensa e difusão da pronta resposta estatal dada para o caso com sensível alívio e diminuição do sentimento de impunidade!; 05) regularização da representação processual nos autos de ação penal sob n. 1007896-33.2020.4.01.4100;" (e-STJ, fl. 540), os quais afastam a necessidade da segregação antecipada.
+Requer a concessão da ordem, liminarmente e no mérito, que seja revogada a prisão preventiva do recorrente, ainda que mediante a imposição de medidas cautelares do art. 319 do CPP.
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, verifica-se que este recurso em habeas corpus traz pedido igual ao deduzido no HC 654.495/RO e se insurge contra o mesmo acórdão do Tribunal Regional Federal da 1ª Região (HC 1036142-20.2020.4.01.0000).
+O referido writ, inclusive, já teve o pleito liminar apreciado e indeferido em 26/3/2021, estando pendente o julgamento do mérito.
+Desse modo, tratando-se de reiteração de processo anteriormente impetrado perante esta Corte, nego seguimento ao recurso em habeas corpus.
+Publique-se. Intimem-se
