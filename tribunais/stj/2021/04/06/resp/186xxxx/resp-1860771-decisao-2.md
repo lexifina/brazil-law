@@ -1,0 +1,30 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PETROBRÁS DISTRIBUIDORA S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"AUTO POSTO DE COMBUSTÍVEL - CONTRATOS DE COMPRA DE GÁS NATURAL VEICULAR - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDOS DE CONDENAÇÃO DA RÉ AO PAGAMENTO DE MULTA E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - AUTORA QUE ALEGA TER HAVIDO SUSPENSÃO IMOTIVADA DO FORNECIMENTO DE GÁS POR PARTE DA RÉ A PETROBRÁS - RÉ QUE ADUZ QUE A SUSPENSÃO OCORREU A PEDIDO DA AUTORA - AUSÊNCIA DE PROVA A RESPEITO - NOTIFICAÇÃO ENVIADA PELA RÉ NO CURSO DO PROCESSO QUE NÃO FAZ PROVA A SEU FAVOR - RÉ QUE DEVERIA TER FORMALIZADO A SUSPENSÃO DO FORNECIMENTO ANTES DE EXECUTÁ-LA - AÇÃO PRINCIPAL QUE DEVE SER ACOLHIDA EM PARTE PARA SE RESCINDIR OS CONTRATOS - PEDIDOS REFERENTES A MULTA E ÀS INDENIZAÇÕES NÃO ESPECIFICADOS PELA AUTORA TAMPOUCO COMPROVADOS POR ELA - DESCABIMENTO DESSAS PRETENSÕES - RECONVENÇÃO OFERECIDA PELA PETROBRÁS QUE NÃO MERECE ACOLHIMENTO POIS AUSENTE PROVA A RESPEITO DOS FATOS ALEGADOS - AÇÃO CAUTELAR ACOLHIDA PARA SE MANTER A SUSPENSÃO DA NEGATIVAÇÃO DO NOME DA AUTORA EM CADASTROS DE PROTEÇÃO AO CRÉDITO - SENTENÇA ALTERADA RECURSO PARCIALMENTE PROVIDO" (fl. 478)
+Opostos embargos de declaração, foram rejeitados(fls. 498-501).
+Reiterada a oposição de embargos de declaração, foram novamente rejeitados, com a imposição de multa ao embargante (fls. 512-514)
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts. 421, 476, 481 do CC e 355, § 1º, do CPC.
+Argumenta que (a) não teria sido praticado qualquer ilícito contratual; razão por que deveria ser julgadototalmente improcedente o pleito rescisório.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 578.
+O recurso especial foi inadmitido, ante o óbice dos Enunciados 5 e 7/STJ e 284/STF; contra o que se insurge o recorrente na via do agravo (fls. 585-594), infirmando cada umdos óbices sumulares.
+É o relatório.
+DECIDO.
+2. No caso, verifica-se que estão presentes os recursos de admissibilidade do agravo, uma vez que contraditado especificamente cada um dos óbices sumulares constantes na decisão agravada; razão por quepasso ao exame do recurso especial.
+3.No caso, verifica-se que o eg. Tribunal de origem pressupõe a culpa da recorrente, uma vez que a exceção do contrato não cumprido não foi precedida danotificação à contratante, in verbis:
+"É verdade também, tal como alegado, que contratos como aqueles firmados entre as partes não podem ser suspensos ou rescindidos de forma verbal, de modo que a Petrobrás tinha a obrigação, antes de determinar que a Comgás suspendesse o fornecimento do gás, de efetivar comunicação escrita a esse respeito.
+Se havia ou não consumo de gás em quantidade inferior à mínima contratada, a apelada deveria proceder da mesma forma, notificando o auto posto de que o contrato estava sendo violado e que, portanto, implicações contratuais e legais caberiam no caso.
+Nada disso aconteceu.
+A apelada simplesmente alegou que havia sido avisada pela apelante a respeito da intenção de suspensão do fornecimento de gás e efetivou essa medida, de modo totalmente informal, o que, repita-se, não é cabível em contratos dessa envergadura.
+A autora não poderia ter produzido prova negativa, a de que não pediu a suspensão, sendo da ré, portanto, a prova positiva, de que o auto posto havia lhe solicitado a suspensão e que, então, tal providência seria tomada.
+A notificação enviada no curso do processo não tem o condão de servir como prova, ainda que não tenha sido respondida extrajudicialmente por quem a recebeu, até porque a resposta veio no próprio processo, no momento em que a autora não aceitou as considerações da Petrobrás.
+A ação de rescisão contratual deveria ter sido julgada procedente, sendo improcedente, por conseguinte, o pleito reconvencional, já que embasado em suposta infração por parte da autora, não demonstrada. "  g.n. (fls. 483-484)
+Como se vê, o Tribunal de origem pressupõe a ausência de termo na contratação,impondo a notificação expressa ao contratado para constituição em mora (ex persona), a teor do que previsto no art. 397 do CC/02. Desse modo, ausente notificação, não haveria razão para suspender o fornecimento de gás pela recorrente, configurando sua prática ilícito contratual.
+A recorrente, por sua vez, pretende que seja reconhecida a mora ex re, para afastar a responsabilidade contratual pela suspensão imediata da obrigação correspondente.
+Todavia, o acolhimento da pretensão recursaldemandaria a revisão decláusulacontratual, bem como a análise do contexto fático-probatório, procedimento vedado nesta sede, a teor dos Enunciado 5 e 7/STJ.
+4. Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E EMPRESARIAL. POSTO DE CONBUSTÍVEL. CONTRATO DE COMPRA DE GÁS NATURAL VEICULAR. SUSPENSÃO DO FORNECIMENTO. MORA EX PERSONAPRESSUPOSTA. NOTIFICAÇÃO INEXISTENTE. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. DESCABIMENTO. CULPA DA CONTRATANTE EVIDENCIADA. REVISÃO DO TEMA. NECESSIDADE DE EXAMINAR CLÁUSULA CONTRATUAL, FATOS E PROVAS. ENUNCIADOS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A pretensão de ver reconhecida a mora ex re, para excluir a responsabilidade contratual pela exceção de contrato não cumprido, em oposiçãoà mora ex persona, pressuposta pela Corte local, demandaria a revisão das cláusulas contratuais, bem como a análise do contexto fático-probatório, procedimento vedado nesta sede, a teor dos Enunciado 5 e 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
