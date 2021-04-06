@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. OSCILAÇÃO DE ENERGIA ELÉTRICA. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE RECONHECIDO. AUSÊNCIA DE PROVA DE CASO FORTUITO OU FORÇA MAIOR. SÚMULA 7/STJ.
+1. Agravo Interno em Agravo em Recurso Especial em que se alega violação dos arts. 186, 393 e 927 do CC, art. 373, I, do CPC e art. 6º, VII, do CDC, sob o fundamento de não comprovação do nexo de causalidade e de ocorrência de caso fortuito ou força maior.
+2. O Tribunal a quo considerou demonstrado o nexo de causalidade e assentou que a concessionária não provou as alegadas excludentes de responsabilidade.
+3. Para acolher a pretensão recursal, necessário a reexame dos fatos e das provas apresentadas, o que encontra óbice na Súmula 7/STJ.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que negou provimento a Agravo em Recurso Especial, nos seguintes termos:
+O recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186, 393 e 927 do CC, art. 373, I, do CPC e art. 6º, VII, do CDC, no que concerne à configuração da responsabilidade civil, excludentes (caso fortuito e força maior) e ônus da prova, diante de danos decorrentes de falha do serviço em rede de energia elétrica, trazendo os seguintes argumentos:
+6. Compulsados os Autos, ainda que se cogitasse levar em consideração qualquer dos argumentos da Recorrida, deve-se levar em conta que a Constituição Federal de 1988 não adotou a teoria do risco integral, admitindo - se, portanto, CAUSAS EXCLUDENTES DA RESPONSABILIDADE CIVIL, tal como advertiu o Supremo Tribunal Federal, por meio do RE nº 109615-2/RJ, segundo o qual:
+ ..
+17. Olvida-se nos Autos que a responsabilidade pode ser excluída quando o agente tiver agido sob uma excludente de ilicitude, ou quando não houver nexo causal entre a conduta do agente e o dano sofrido pela vítima.18. Ainda neste diapasão, a Recorrente não pode responder pelos danos supostamente sofridos pela Requerente, eis que a Resolução nº 414 da ANEEL excepciona, em seu art. 140, como hipóteses cuja ocorrência não configura descontinuidade do serviço, o caso fortuito e a força maior.
+ ..
+21. No que diz respeito ao argumento de que a dispersão do ônus da Prova nos Autos tem-se a pontuar que, no caso em comento, não houve comprovação idônea, por parte da Recorrida, acerca do nexo de causalidade entre os danos que alega e a suposta conduta da Recorrente da qual decorreria o fato gerador do dano.
+22. As provas produzidas pela parte Recorrida jamais poderiam ser levadas em conta no decisivo julgamento da demanda, tendo em vista que FORAM UNILATERALMENTE PRODUZIDAS!
+23. Trata-se de documentação unilateral, superficial e imprestável, ao passo que relata PROVÁVEIS / POSSÍVEIS causas dos danos nos equipamentos danificados.
+ ..
+26. Há que se atentar à regra prevista no Art. 373, I do Código de Processo Civil, sendo inadmissível a inversão do ônus da prova em favor da seguradora, que não demonstra nos Autos quaisquer dos requisitos que poderiam ensejar tal medida.
+ ..
+30. Certo é que a Recorrente realiza todas as manutenções necessárias nas redes de transmissão de energia elétrica, e que a ocorrência de eventual oscilação de energia, sua causa, e a causa dos danos alegados, se mostram completamente incertas e controvertidas, sendo ônus indiscutível e intransmissível da parte Autora, ora Recorrida, sua comprovação. (fls. 461-467)
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Nesta senda, a sub-rogação pode ser definida como a transferência de direito do credor para aquele que solveu a obrigação, ou emprestou o necessário para solvê-la, extraindo-se dessa definição que os direitos que possuía o credor passam para aquele que, em lugar do devedor, efetuou o pagamento, continuando o vínculo obrigacional entre devedor e aquele que substituiu o credor; na sub-rogação a substituição de pessoa se dá após efetuado o pagamento da obrigação, quando o terceiro paga a dívida vencida no lugar do devedor, ficando, por isso, com os direitos do credor, a quem pagou.
+Lado outro, escorreita é a aplicação da legislação consumerista ao tema em análise, por tratar-se de relações de consumo existentes entre o fornecedor de serviços de energia elétrica e os destinatários destes, conforme a inteligência dos artigos 2 º e 3 º do CDC.
+ ..
+É necessário não perder de vista, contudo, que pode a concessionária eximir-se da responsabilização, se lograr êxito em demonstrar a ocorrência de força maior ou culpa exclusiva da vítima no episódio acidentário, o que não se verificou no caso em espeque.
+Por derradeiro, vale destacar o fato de que o ônus da prova cabe à apelada que, por sua vez, não apresentou elemento probatório capaz de convencer quanto à adequação do serviço na data do sinistro, muito menos de qualquer hipótese excepcional que pudesse excluir a sua responsabilidade, ante a ocorrência de caso fortuito ou força maior, de maneira a desconstituir os fundamentos fáticos e jurídicos do pedido.
+Desse modo, não comprovou fato extintivo, modificativo ou impeditivo do direito da recorrente, nos termos do artigo 373, inciso I do CPC.Outrossim, não se pode olvidar que, por expressa disposição constitucional, qual seja, artigo 37, § 6º da CF, a responsabilidade civil das pessoas jurídicas de direito público e das de direito privado prestadoras de serviços públicos é objetiva, sendo, portanto, desnecessário perquirir sobre a culpa do agente.
+ ..
+Da análise detida da documentação acostada aos autos, evidencia-se que os aparelhos eletrônicos segurados sofreram danos em decorrência de intensas oscilações na rede de energia elétrica ocorridas nos dias 22/09/2016, 02/11/2016, 17/11/2016 e 19/01/2018 (evento 1).
+Os laudos técnicos elaborados pelas empresas contratadas pela seguradora, anexados aos autos (evento 1, docs. 5.2 a 5.4), narram que houve danos causados por oscilações da energia elétrica envolvendo os equipamentos dos segurados. Ademais, constam ainda os valores pagos a título de indenização: R$ 11.600,00 (onze mil e seiscentos reais), R$ 19.656,00 (dezenove mil, seiscentos e cinquenta e seis reais), R$ 20.584,80 (vinte mil, quinhentos e oitenta e quatro reais e oitenta centavos) e R$ 3.803,79 (três mil, oitocentos e três reais e setenta e nove centavos), conforme se depreende dos recibos de indenizações anexos no evento 1, docs. 8.1 a 8.4.
+Resta claro, portanto, o nexo de causalidade entre os prejuízos sofridos e a falha no fornecimento de energia elétrica por parte da concessionária. (fls. 451-453)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+(..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nas razões do Agravo Interno (fls. 594-599, e-STJ), a agravante sustenta que não incide no caso a Súmula 7/STJ.
+Contraminuta às fls. 603-604, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. OSCILAÇÃO DE ENERGIA ELÉTRICA. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE RECONHECIDO. AUSÊNCIA DE PROVA DE CASO FORTUITO OU FORÇA MAIOR. SÚMULA 7/STJ.
+1. Agravo Interno em Agravo em Recurso Especial em que se alega violação dos arts. 186, 393 e 927 do CC, art. 373, I, do CPC e art. 6º, VII, do CDC, sob o fundamento de não comprovação do nexo de causalidade e de ocorrência de caso fortuito ou força maior.
+2. O Tribunal a quo considerou demonstrado o nexo de causalidade e assentou que a concessionária não provou as alegadas excludentes de responsabilidade.
+3. Para acolher a pretensão recursal, necessário a reexame dos fatos e das provas apresentadas, o que encontra óbice na Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Os autos foram recebidos neste Gabinete em 01.03.2021.
+A irresignação não merece prosperar.
+O Tribunal de Justiça de Goiás julgou procedente a demanda da recorrida, em acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO DE REGRESSO. SEGURADORA. SUBROGAÇÃO. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO ADMINISTRATIVO. CONCESSIONÁRIA DE SERVIÇOS PÚBLICOS. OSCILAÇÃO DE ENERGIA ELÉTRICA. PROCEDIMENTO ADMINISTRATIVO PRÉVIO. DESNECESSIDADE EQUIPAMENTOS DANIFICADOS. NEXO DE CAUSALIDADE. REQUISITOS PREENCHIDOS. INDENIZAÇÃO DEVIDA DESDE O DESEMBOLSO PELA REQUERENTE. HONORÁRIOS RECURSAIS .
+I- Ao teor do artigo 786 do Código Civil - "Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano" -, bem como do enunciado da Súmula 188 do STF - "O segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até o limite previsto no contrato de seguro"-, a seguradora sub-roga-se nos direitos do segurado ao efetuar o pagamento do seguro, situação em que pode ser ressarcida dos prejuízos sofridos pelo causador do dano.
+II- Outrossim, não se pode olvidar que, por expressa disposição constitucional, qual seja, artigo 37, § 6º da CF, a responsabilidade civil das pessoas jurídicas de direito público e das de direito privado prestadoras de serviços públicos é objetiva, sendo desnecessário perquirir sobre a culpa do agente. Configura-se a chamada teoria do risco administrativo, bastando a prova do fato, do dano e do nexo causal, como restou evidenciado na hipótese em análise.
+III- Destarte, impende abordar sobre a desnecessidade de cumprimento das disposições insertas na Resolução nº 61/2004 da ANNEL, trazida na sentença vergastada, revogada pela Resolução Normativa nº 414/2010, a qual prevê direcionamento prévio dos requerimentos de regresso à concessionária de serviço público, para só assim ver-se possibilitado o pagamento da indenização vindicada. Ao contrário, de acordo com o artigo 786, §2º do CC, é ineficaz qualquer ato do segurado que diminua ou extinga, em prejuízo do segurador, os direitos a que o citado artigo se refere, o que leva ao entendimento de que a ausência de procedimento administrativo não pode ser causa de improcedência da ação.
+IV- Existindo prova de que a oscilação na rede de energia elétrica danificou os equipamentos eletrônicos dos segurados, bem como dos danos suportados pela seguradora ao acobertar os prejuízos, inevitável a condenação da apelada ao ressarcimento da apelante. De modo que a reforma da sentença é medida que se impõe.
+V- De consectário, ressalte-se que, ante o entendimento insculpido na jurisprudência deste TJGO, 6ª Câmara Cível, Apelação Cível nº. 0183432-81.2016.8.09.0051: "Os juros de mora incidentes sobre a verba indenizatória, em caso de ação regressiva da seguradora, sub-rogada no direito creditório, contra o causador do dano, incidem a partir do desembolso", aplicável, pois, ao caso em tela.
+VI- In fine, cabe inversão do ônus da sucumbência, recaindo sobre a requerida a obrigação de arcar com o pagamento das custas e despesas processuais, bem como os honorários advocatícios fixados em 20% (vinte por cento) sobre o valor da condenação, nos termos do artigo 85, §2º do CPC, já considerado o esforço adicional nesta instância recursal.APELAÇÃO CONHECIDA E PROVIDA. (fls. 455)
+No Recurso Especial, a agravante afirma que o Tribunal de origem violou os arts. 186, 393 e 927 do CC, art. 373, I, do CPC e art. 6º, VII, do CDC. Defende que não houve comprovação do nexo de causalidade entre o dano e a sua conduta, e que não poderia ser responsabilizada, ante a ocorrência de caso fortuito ou de força maior.
+Contudo, como bem assentado na decisão ora recorrida, o Tribunal a quo consignou expressamente que o nexo de causalidade foi demonstrado, e que a recorrente não provou as alegadas excludentes de responsabilidade.
+Resta claro que, para acolher a pretensão recursal, seria necessário reexame dos fatos e das provas apresentadas, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao Agravo Interno.
+É o voto.
