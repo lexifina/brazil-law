@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ICMS. EMPRESA EM RECUPERAÇÃO JUDICIAL. DECISÃO QUE INDEFERIU O PEDIDO DE SUSPENSÃO DO FEITO. INSURGÊNCIA DO AGRAVANTE. ALEGAÇÃO DE DEFERIMENTO DO PLANO DE PARCELAMENTO DE DÉBITOS TRIBUTÁRIOS. DESCABIMENTO. (I) PARCELAMENTO QUE DEVE SER REALIZADO DIRETAMENTE COM O EXEQUENTE, O QUE NÃO OCORREU. (II) ENTENDIMENTO DO STJ DE IMPOSSIBILIDADE DE SUSPENSÃO DA EXECUÇÃO EM CASO DE CONCESSÃO DE PLANO DE RECUPERAÇÃO JUDICIAL COM DISPENSA DE CERTIDÕES NEGATIVAS. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 170 da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Como bem analisado pelo juízo a quo na decisão agravada, mesmo que o plano de pagamento dos débitos tenha sido deferido para todas as Fazendas estaduais em todas as unidades da Federação, o acordo de parcelamento foi firmado somente entre a Fazenda Nacional e a Fazenda Pública do Estado de São Paulo, nunca entre a executada e o Estado do Paraná, que não anuiu no feito.
+    Exigir que ente federativo se submeta a parcelamento não negociado fere a primazia da autonomia e da competência tributária do Estado.
+    Cumpre observar o que dispõe o §7º do art. 6º, da Lei 11.101/2005:
+    § 7 As execuções de natureza fiscal não são suspensas pelo deferimento da recuperação o judicial, ressalvada a concessão de parcelamento nos termos do Código Tributário Nacional e da legislação ordinária específica.
+    Infere-se, da literalidade da norma, que o deferimento do pedido de recuperação não é motivo suficiente para suspender o processamento das execuções fiscais, exceto quando há concessão de parcelamento (entre o Exequente – Estado do Paraná e executada), o que não ocorreu. [...]
+    Ainda, importante ressaltar que a decisão proferida nos autos nº 3001001-19.2012.8.26.0108 deferiu o processamento da recuperação judicial, determinando a dispensa de apresentação de certidões negativas (mov. 20.2).
+    O Superior Tribunal de Justiça possui entendimento acerca da impossibilidade de suspensão da execução fiscal, em caso de concessão de plano de recuperação judicial com dispensa de certidões negativas: [...]
+    Assim, conclui-se pela impossibilidade de suspensão das execuções fiscais promovidas pelo Estado do Paraná em face à executada, salvo a hipótese de parcelamento com o exequente, nos termos da Lei Estadual nº 18.132/2014.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 6 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
