@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por MARIA SALETE ROCHA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 814):
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AVERBAÇÃO DE TEMPO DE SERVIÇO EM REGIME DE ECONOMIA FAMILIAR. AUSÊNCIA DE RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. APOSENTADORIA. ATO COMPLEXO. TERMO INICIAL. MANIFESTAÇÃO DO TRIBUNAL DE CONTAS. DECADÊNCIA. INEXISTÊNCIA. JURISPRUDÊNCIA PACIFICADA NO STF E NO STJ.
+1. O ato de aposentadoria é complexo, não havendo que se cogitar de decadência para a Administração revisar o benefício antes da manifestação do Tribunal de Contas. Precedentes: AgRg no REsp 1.361.526/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 11/03/2016; AgRg no AREsp 206.089/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 03/02/2016.
+2. No caso concreto, a aposentadoria, com proventos integrais, foi concedida em 14.03.1998 e em 2005 o TCU diligenciou junto ao Órgão a que se vincula a autora questionando a ausência de recolhimento das contribuições devidas, proferindo decisão em 2007 indeferindo o registro da aposentadoria da agravante. Logo, não há que se falar em decadência.
+3. Agravo regimental não provido.
+Sustenta arecorrente que hárepercussão geral, bem como que existe violação aoartigo5º, incisos XXXV, XXXVI e LV, da Constituição Federal, apontandoafronta aoprincípioda segurança jurídica.
+Ressalta a decadência do direito da Administração em revisar, em 2007, a concessão da aposentadoria à recorrente, ocorrida em 1998.
+Observa "que a anulação de atos administrativos dos quais resultem efeitos favoráveis aos administrados deve ser praticadas dentro de limites legais e temporais, sem o que qualquer providência nesse sentido esbarra em princípios constitucionais e gerais de direito" (e-STJ fl. 837).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Foram apresentadas as contrarrazões (e-STJ fls. 866-884 e 886-889).
+Às e-STJfls. 892-893, aentãoVice-Presidente do Superior Tribunal de Justiça determinouo sobrestamento dorecurso extraordinário até o julgamento pelo Supremo Tribunal Federal do mérito do RE 636.553/RS.
+Com o julgamento definitivo do Tema 445/STF, foram devolvidos os autos ao colegiado, tendo a PrimeiraTurma deste Sodalício mantidoo seu entendimento, consoante se infere da ementa abaixo colacionada (e-STJ fl. 988):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. APOSENTADORIA. ATO COMPLEXO. TERMO INICIAL. MANIFESTAÇÃO DO TRIBUNAL DE CONTAS. DECADÊNCIA. INEXISTÊNCIA. DEVOLUÇÃO DOS AUTOS AO RELATOR PARA EXAME DO JUÍZO DE RETRATAÇÃO, NA FORMA DO ART. 1.030, II, DO CPC/2015, ANTE O DECIDIDO PELO STF NO RE 636.553/RS.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+2. Autos devolvidos pela Vice-Presidência do STJ para análise de hipótese de retratação, conforme previsão do artigo 1.030, II, do CPC/2015.
+3. O Supremo Tribunal Federal, ao apreciar o RE 636.553/RS, em Repercussão Geral - Tema 445 - firmou a tese de que "em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas".
+4. No caso concreto, não há falar em decadência da Administração Pública pois, embora a aposentadoria da servidora tenha sido concedida em 14/3/1998, o Processo Administrativo foi recebido pelo Tribunal de Contas da União em 27/6/2005, que concluiu por não registrar o ato aposentatório em 20/11/2007, antes, portanto, de transcorrido o prazo de 5 (cinco) anos estabelecido pela Suprema Corte.
+5. Juízo de retratação rejeitado
+6. Agravo regimental não provido.
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do RE n. 636.553/RS firmou o entendimento de que "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas" (Tema 445/STF).
+Confira-se a ementa do julgado:
+Recurso extraordinário. Repercussão geral.
+2. Aposentadoria. Ato complexo. Necessária a conjugação das vontades do órgão de origem e do Tribunal de Contas. Inaplicabilidade do art. 54 da Lei 9.784/1999 antes da perfectibilização do ato de aposentadoria, reforma ou pensão. Manutenção da jurisprudência quanto a este ponto.
+3. Princípios da segurança jurídica e da confiança legítima. Necessidade da estabilização das relações jurídicas. Fixação do prazo de 5 anos para que o TCU proceda ao registro dos atos de concessão inicial de aposentadoria, reforma ou pensão, após o qual se considerarão definitivamente registrados.
+4. Termo inicial do prazo. Chegada do processo ao Tribunal de Contas.
+5. Discussão acerca do contraditório e da ampla defesa prejudicada.
+6. TESE: "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas".
+7. Caso concreto. Ato inicial da concessão de aposentadoria ocorrido em 1995. Chegada do processo ao TCU em 1996. Negativa do registro pela Corte de Contas em 2003. Transcurso de mais de 5 anos.
+8. Negado provimento ao recurso.(RE 636553, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 19/02/2020, PROCESSO ELETRÔNICO DJe-129 DIVULG 25-05-2020 PUBLIC 26-05-2020)
+Confira-se, por oportuno, trecho do aludido aresto:
+O Tribunal, por maioria, apreciando o tema 445 da repercussão geral, negou provimento ao recurso extraordinário, nos termos do voto ora reajustado do Relator, vencido o Ministro Marco Aurélio.
+Nesta assentada, o MinistroAlexandre de Moraes reajustou seu voto para negar provimento ao recurso. Em seguida, por maioria, fixou-se a seguinte tese: "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas", vencido o Ministro Marco Aurélio.
+Quanto ao termo a quo, votaram no sentido de que se inicia com a chegada da decisão do ato de aposentadoria no Tribunal de Contas os Ministros Gilmar Mendes (Relator), Alexandre de Moraes, Roberto Barroso, Rosa Weber, Ricardo Lewandowski e Dias Toffoli (Presidente). Não participou, justificadamente, deste julgamento, o Ministro Luiz Fux. Ausentes, justificadamente, a Ministra Cármen Lúcia e, por motivo de licença médica, o Ministro Celso de Mello. Plenário, 19.02.2020.
+Assim, havendo, em princípio, dissonância entre o acórdão recorrido e o entendimento firmado pelo Supremo Tribunal Federal em repercussão geral, e já tendo o órgão julgador refutado o juízo de retratação, impõe-se a remessa do feito à Suprema Corte, nos termos do art. 1.030, inciso V, alínea "c", do Código de Processo Civil:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+V - realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que
+(..)
+c) o tribunal recorrido tenha refutado o juízo de retratação.
+Saliente-se que,ao exercer ojuízo de retratação, o Superior Tribunal de Justiça considerou a data do processo administrativo que anulou a aposentadoria como sendo 2005. Não obstante,depreende-seque a instauração do processo administrativo n.TC-011.275/2005-1 se deu para apurar a regularidade da concessão da aposentariaem razão de ter informadotempo de atividade como rural.
+Ocorre que, pelo entendimento do Supremo Tribunal Federal, a decadência se conta da data da chegada do processo administrativo original de aposentadoria, o que não foi considerado no julgado que afastou o juízo de retratação.
+Ademais,até esse momento processual, não teria havido qualquer debate nos autos quanto à data de chegadado processo administrativo de concessão da aposentadoria no Tribunal de Contas da União pela primeira vez.
+Certo é que o acórdão objeto de recurso extraordinário embasou sua fundamentação em2 datas: a da concessão da aposentadoria, em 1998, e a da sua anulação, em 2007. E, quanto a isso, expressou que "embora a aposentadoria da servidora tenha sido concedida em 14/3/1998, o Processo Administrativo TCU-011.275/2005-1 (e-STJ fls. 155-161) foi recebido pelo Tribunal de Contas da União em 27/6/2005, que concluiu por não registrar o ato aposentatório em 20/11/2007, antes, portanto, de transcorrido o prazo de 5 (cinco) anos estabelecido pela Suprema Corte." (e-STJ fl. 992).
+Assim, considerando que não foi levada em conta a data de chegada do processo administrativo original que concedeu a aposentadoria inicialmente, bem como que inexiste discussão nos autos sobre a data de chegada do processo administrativo original no Tribunal de Contas da União e, ainda, que o entendimento sufragado no acórdão recorrido destoa do entendimento exarado pela Suprema Corte no Tema 445/STF, a admissão do apelo extremo afigura-se consentâneacom o prestígio ao princípio constitucional do acesso à justiça.
+Ante o exposto, nos termos do art. 1.030, inciso V, alínea "c", do Código de Processo Civil, admite-se o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA. TEMA 445/STF. ACÓRDÃO RECORRIDO QUE REFUTA JUÍZO DE RETRATAÇÃO. RECURSO EXTRAORDINÁRIO ADMITIDO.
