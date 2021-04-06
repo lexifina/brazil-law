@@ -1,0 +1,119 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. DESISTÊNCIA. CITAÇÃO. EMBARGOS DO DEVEDOR. ANUÊNCIA. DESNECESSIDADE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se, apresentado o pedido de desistência da execução antes da citação dos executados, os embargos do devedor devem ser apreciados ou julgados extintos e se, nessa circunstância, o credor responde pelo pagamento dos honorários advocatícios; (ii) se há contradição entre a fundamentação e o dispositivo do acórdão e (iii) se a fixação da verba honorária deve observar o regramento previsto no CPC/1973 ou o CPC/2015.
+3. A desistência da execução antes do oferecimento dos embargos independe da anuência do devedor. Precedentes.
+4. A apresentação de desistência da execução quando ainda não efetivada a citação dos devedores provoca a extinção dos embargos posteriormente opostos, ainda que estes versem acerca de questões de direito material.
+5. O credor não responde pelo pagamento de honorários sucumbenciais se manifestar a desistência da execução antes da citação e da apresentação dos embargos e se não houver prévia constituição de advogado nos autos.
+6. Recurso especial provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, dar provimento ao recurso especial, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de recurso especial interposto por MARIA ISMÁLIA FAGUNDES DOS SANTOS, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - DESISTÊNCIA DA AÇÃO DE EXECUÇÃO - EMBARGOS QUE TRATAM DE MATÉRIA DE DIREITO - CAUSA MADURA - ART. 515 §3º - CONTRATO SEM FORÇA EXECUTIVA - PEDIDO INICIAL JULGADO PROCEDENTE - EXECUÇÃO EXTINTA - ÔNUS SUCUMBENCIAIS DO EXEQUENTE - HONORÁRIOS ADVOCATÍCIOS MAJORADOS - SENTENÇA REFORMADA. 1. Nas hipóteses de desistência da ação executiva, serão extintos os embargos que versarem apenas sobre questões processuais, do contrário, a extinção dependerá da concordância dos embargantes, conforme § único e alíneas do art. 569 do CPC. 2. O art. 515, § 3º, do Código de Processo Civil (CPC) dispõe que "nos casos de extinção do processo sem julgamento de mérito (art.267), o tribunal pode julgar desde logo a lide, se a causa versar questão exclusivamente de direito e estiver em condições de imediato julgamento". 3. É certo que a sucumbência tem sua raiz hermenêutica no princípio da causalidade. Essa é a exegese do artigo 20, caput, do Código de Processo Civil (CPC). Assim, aquele que deu causa ao iní"cio do processo litigioso deve arcar com as despesas processuais dele decorrentes. 4. Sentença reformada" (fl. 241 e-STJ).
+Os embargos de declaração opostos pelos recorridos foram acolhidos para fixar os honorários advocatícios de acordo com a nova legislação processual civil e os da recorrente foram rejeitados(fls. 311-315 e-STJ).
+Nas presentes razões (fls. 318-339 e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação dos arts. 20, § 4º, 267, § 4º, 269, I,515, § 3º, 535 e 569 do Código de Processo Civil de 1973 e arts. 14, 85, 485, § 4º, 487, I, 569, 775, 1.013 e 1.022 do Código de Processo Civil de 2015.
+Defende a extinção, sem resolução do mérito, da ação executiva e dos embargos, eximindo a exequente do pagamento de honorários sucumbenciais, visto que houve o pedido de desistência da execução antes da citação dos executados.
+Acrescenta que
+"(..) a desistência da ação de execução foi requerida pela Recorrente na data de 29/10/2014 (fl. 58), (ii) a citação dos Recorridos ocorreu na data de 19/11/2014 (f1.61) e 21/11/2014 (fl. 62) e (iii) a oposição dos embargos à execução foi realizada nas datas de 09/12/2014 e 17/12/2014.(..)
+Isso porque, quando os Recorridos foram citados, peticionaram nos autos indicando bens à penhora e opuseram os cabíveis embargos, o Recorrente há muito já havia manifestado seu intuito de desistência, o que autoriza a imediata extinção do feito, sem resolução do mérito, nem a oitiva dos Recorridos, e tampouco a condenação da Recorrente no pagamento de honorários advocatícios"(fls. 323-324 e-STJ).
+Assevera que, por força do princípio da disponibilidade, é lícito ao credor manifestar a desistência a qualquer tempo, a despeito da anuência do devedor, sem que lhe sejam impostos quaisquer ônus.
+Aduz a existência de contradição entre a fundamentação e a conclusão do julgado, pois o reconhecimento da ausência de título executivo extrajudicial impõe a extinção do feito sem resolução de mérito.
+Sustenta que a definição dos honorários advocatícios deve obedecer ao regramento da legislação processual civil revogada, tendo em vista que o julgamento da apelação ocorreu em 16/3/2016.
+Após as contrarrazões (fls. 359-374 e 383-388 e-STJ), a Terceira Vice-Presidência do Tribunal de origem admitiu o processamento do presente apelo (fls. 390-391 e-STJ).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. DESISTÊNCIA. CITAÇÃO. EMBARGOS DO DEVEDOR. ANUÊNCIA. DESNECESSIDADE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se, apresentado o pedido de desistência da execução antes da citação dos executados, os embargos do devedor devem ser apreciados ou julgados extintos e se, nessa circunstância, o credor responde pelo pagamento dos honorários advocatícios; (ii) se há contradição entre a fundamentação e o dispositivo do acórdão e (iii) se a fixação da verba honorária deve observar o regramento previsto no CPC/1973 ou o CPC/2015.
+3. A desistência da execução antes do oferecimento dos embargos independe da anuência do devedor. Precedentes.
+4. A apresentação de desistência da execução quando ainda não efetivada a citação dos devedores provoca a extinção dos embargos posteriormente opostos, ainda que estes versem acerca de questões de direito material.
+5. O credor não responde pelo pagamento de honorários sucumbenciais se manifestar a desistência da execução antes da citação e da apresentação dos embargos e se não houver prévia constituição de advogado nos autos.
+6. Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Cinge-se a controvérsia a definir (i) se, apresentado o pedido de desistência da execução antes da citação dos executados, os embargos do devedor devem ser apreciados ou julgados extintos e se, nessa circunstância, o credor responde pelo pagamento dos honorários advocatícios; (ii) se há contradição entre a fundamentação e o dispositivo do acórdão e (iii) se a fixação da verba honorária deve observar o regramento previsto no CPC/1973 ou o CPC/2015.
+1. Histórico da demanda
+Maria Ismália Fagundes dos Santos - ME (ora recorrente) propôs ação de execução contra Consórcio Fidens-Milplan, Fidens Engenharia e Milplan Engenharia Construções e Montagens Ltda. (ora recorridos) visando o recebimento do valor de R$ 479.264.22 (quatrocentos e setenta e nove mil duzentos e sessenta e quatro reais e vinte dois centavos) decorrente da ausência de pagamento de duplicatas vencidas provenientes de contrato de locação de equipamento (fls. 1-6 e-STJ).
+Formulada a desistência da execução (fl. 60 e-STJ) e após a discordância do executado (fl. 151 e-STJ), o magistrado de piso indeferiu o pedido da exequente (fl. 153 e-STJ). Contra tal decisão foi interposto agravo de instrumento (fls. 165-172 e-STJ) e, em juízo de retratação, o Juízo primevo homologou a desistência e julgou extintas a execução e os respectivos embargos (fls. 185-186 e-STJ).
+Irresignadas, as partes interpuseram a apelação (fls. 197-201 e 206-211 e-STJ), sendo que o Tribunal de origem negou provimento ao recurso da ora recorrente e deferiu o dos ora recorridos, consoante a seguinte fundamentação:
+"(..)
+13. É cediço que a execução realiza-se por interesse do credor,conforme inteligência do art. 612 do CPC. Dessa forma, o caput art. 519 do referido ordenamento processual, prevê a faculdade de o credor desistir da ação executiva outrora proposta, senão vejamos: (..)
+14. É mister dizer que a desistência da execução não importa em renúncia ao direito a executar, tampouco prescinde de vênia do executado,caso tenha sido pedida antes do oferecimento dos embargos. Outro não é o entendimento do STJ, neste aspecto. À guisa de ilustração: (..)
+15. Na hipótese, verifico que o pedido de desistência feito pela apelada foi, ab initio, corretamente acolhido pelo magistrado a quo, uma vez que os embargos foram opostos em momento posterior ao pedido de desistência,conforme demonstrado a seguir.
+16. Compulsando detidamente os autos verifico que a ação de execução foi distribuída no dia 07/07/2014, sendo que em 29/10/2014 foi protocolizada petição de desistência, como indicado à fls. 58. Por sua vez,as apelantes foram citadas, respectivamente, em 19/11/2014 (fl. 61) e17/12/2014 (fl. 148-v).
+17. Cumpra-me, todavia, dizer que, nas hipóteses de desistência da ação executiva, serão extintos os embargos que versarem apenas sobre questões processuais, do contrário, a extinção dependerá da concordância dos embargantes, conforme § único e alíneas do art. 569 do CPC, in verbis: (..)
+18. Desta feita, caso o embargante tenha suscitado questões de direito material, a extinção dos embargos dependerá de sua concordância. (..)
+21. É importante dizer que, in casu, nos embargos à execução foram levantadas questões processuais já decididas em saneador, bem como questões de direito material relativas à inexigibilidade do título. Assim, a meu ver, atuou com desacerto o juiz de primeiro grau uma vez que,conforme supramencionado, a desistência na ação de execução não implica na extinção"automática dos embargos que versam também sobre direito material.
+22. Pois bem. O art. 515, § 3º, do Código de Processo Civil (CPC) dispõe que "nos casos de extinção do processo sem julgamento de mérito, o tribunal pode julgar desde logo a lide, se a causa versar questão exclusivamente de direito e estiver em condições de imediato julgamento". (..)
+24. Com efeito, é o caso dos autos, visto que o processo foi extinto sem julgamento de mérito, devido desistência da exequente nos autos da ação de execução. (..)
+25. Assim, por não demandar dilação probatória além daquela já constante nos autos, passo analisar o mérito da lide.
+26. Nos termos do art. 585,II do CPC o contrato de Locação é documento hábil a embasar a execução, posto que é um título extrajudicial,senão vejamos: (..)
+27. Ocorre que, analisando minuciosamente o contrato acostado aos autos (fls. 09-14), verifico que este foi assinado apenas por uma das embargantes, qual seja, a Consórcio Fidens Milplan, e encontra-se desacompanhada de duplicatas,comprovantes de entregas das mercadorias e/ou qualquer outro documento representativo de eventual título executivo.
+28. Ademais, observo que o referido documento também não possui liquidez,uma vez que,conforme estipulado entre as partes, é imprescindível a realização de medições para apuração e consolidação do quantum debeatur.
+29. Desta feita, tratando-se de contrato desprovido de liquidez, certeza e exigibilidade é possível concluir que este não possui força executiva, razão pela qual julgo, nos termos do art. 515, § 3º e 269, I, do CPC, procedentes os pedidos constantes nos embargos à execução.
+30. Por sua vez, insurge-se a exequente, ora primeira apelante, sustentando que não deve arcar com os ônus sucumbenciais. Em contrapartida, sustentam as segundas apelantes, que os honorários advocatícios devem ser majorados, em razão do serviço prestado pelo procurador. (..)
+32. Assim, na hipótese, deverá a embargada, ora primeira apelante,arcar com os ônus sucumbenciais.
+36. Nesse sentido, nos embargos à execução, entendo coerente a majoração dos honorários advocatícios para R$ 2.500,00 (dois mil e quinhentos reais), visto que se enquadra nos moldes da legislação com o razoável e condizente com a atuação do patrono no presente feito" (fls. 244-251 e-STJ).
+Os embargos de declaração opostos pelos recorridos foram acolhidos para fixar os honorários com base no Código de Processo Civil de 2015, nos seguintes termos:
+"(..)
+POSTO ISSO, NEGO PROVIMENTO À PRIMEIRA APELAÇÃO E DOU PROVIMENTO À SEGUNDA APELAÇÃO, para reformar a sentença a quo julgando procedente o pedido inicial, nos termos do art. 1.013, §3º e 487, inciso I do Novo Código de Processo Civil, bem como arbitrar os honorários advocatícios para o importe de 10% do valor atualizado da causa, nos termos do art. 85, §2º do Código de Processo Civil de 2015 e, por conseguinte, julgo extinta a execução" (fls. 313-314 e-STJ).
+Feitos esses esclarecimentos, passa-se à análise do presente apelo.
+2. Das consequências advindas do pedido de desistência da execução
+A recorrente defende a extinção sem resolução do mérito da ação executiva e dos embargos, eximindo a credora do pagamento de honorários sucumbenciais, visto que houve o pedido de desistência da execução antes da citação dos devedores.
+Para a ampla compreensão da matéria controvertida, seguem os principais fatos processuais em ordem cronológica:
+- 7/7/2014 - distribuição da execução (fls. 1-6 e-STJ);
+- 11/9/2014 - despacho determinando a citação dos executados (fl. 58 e-STJ);
+- 29/10/2014 - petição de desistência (fl. 60 e-STJ);
+- 19/11/2014 - citação da Milplan - Engenharia Construções e Montagens Ltda (fl. 64 e-STJ);
+- 21/11/2014 - nomeação de bem à penhora (fl. 66 e-STJ);
+- 9/12/2014 e 17/12/2014 - apresentação de embargos à execução;
+- 17/12/2014 - citação da Fidens Engenharia S.A. (fl. 156 e-STJ), e
+- 19/1/2015 - discordância da desistência apresentada pela recorrida Milplan (fl. 151 e-STJ).
+O art. 569 do CPC/1973 estabelece que o credor tem a faculdade de desistir de toda a execução ou de apenas algumas medidas executivas. Em consequência, serão extintos os embargos que versarem exclusivamente acerca de questões processuais, pagando o credor as custas e os honorários advocatícios e, nas demais situações, a extinção dependerá da concordância do embargante (executado). Eis, por oportuno, a transcrição do referido dispositivo legal:
+"Art. 569. O credor tem a faculdade de desistir de toda a execução ou de apenas algumas medidas executivas.
+Parágrafo único. Na desistência da execução, observar-se-á o seguinte:
+a) serão extintos os embargos que versarem apenas sobre questões processuais, pagando o credor as custas e os honorários advocatícios;
+b) nos demais casos, a extinção dependerá da concordância do embargante".
+Com efeito, a desistência da execução apresentada antes do oferecimento dos embargos independe da anuência do devedor. Na situação em análise, como o pedido de desistência foi formulado em 29/10/2014 e os embargos somente foram opostos em 9/12/2014 e 17/12/2014, correto o entendimento das instâncias ordinárias em homologar o pedido do exequente e extinguir a execução sem resolução de mérito, mesmo com a objeção do executado (fl. 151 e-STJ).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO. EMBARGOS OPOSTOS APÓS A DESISTÊNCIA.
+1. Se a desistência ocorrer antes do oferecimento dos embargos, desnecessária é a anuência do devedor.
+2. Precedentes do STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no Ag 538.284/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 27/4/2004, DJ 7/6/2004)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXECUÇÃO. EMBARGOS OPOSTOS APÓS A DESISTÊNCIA.
+1. Se a desistência ocorrer antes do oferecimento dos embargos, desnecessária é a anuência do devedor.
+2. Precedentes do STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no Ag 538.284/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 27/4/2004, DJ 7/6/2004)
+Nesse contexto, cumpre ressaltar que o magistrado de piso não fixou honorários advocatícios na execução, visto que "não se instaurou a relação processual com os executados quando do pedido de desistência" (fl. 185 e-STJ). Ademais, julgou extintos os embargos e condenou o executado ao pagamento da verba honorária no valor de R$ 1.500,00 (mil e quinhentos reais) para cada embargante (fls. 186 e-STJ).
+No julgamento das apelações, o Tribunal local reformou parcialmente a sentença para julgar procedentes os embargos do devedor e majorar a quantia antes estabelecida para R$ 2.500,00 (dois mil e quinhentos reais) (fl. 251 e-STJ). Por ocasião dos declaratórios, os honorários foram atribuídos em 10% (dez por cento) sobre o valor da causa dado aos embargos, com base no art. 85, § 2º, do CPC/2015 (fls. 313 e-STJ).
+Dessa forma, resta analisar se os embargos à execução deveriam ter sido apreciados ou julgados imediatamente extintos diante do anterior pedido de desistência da execução, assim como o cabimento dos honorários advocatícios.
+O Superior Tribunal de Justiça tem julgado no sentido de que os embargos do devedor são ação de natureza autônoma e meio de defesa no processo de execução, que visa impedir, minorar ou extinguir a pretensão do credor contida em título extrajudicial (REsp nº 1.033.505/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/12/2019, DJe 12/12/2019).
+Daniel Amorim Assumpção Neves também perfilha idêntico entendimento:
+"(..)
+A natureza jurídica dos embargos pode ser inteiramente creditada à tradição da autonomia das ações, considerando-se que no processo de execução busca-se a satisfação do direito do exequente, não havendo espaço para a discussão a respeito da existência ou da dimensão do direito exequendo, o que deverá ser feito em processo cognitivo, chamado de embargos à execução." (NEVES, Daniel Amorim Assumpção. Manual de direito processual civil: volume único. Salvador: Juspodivm, 2018, págs. 1.339-1.340)
+Todavia, apesar da autonomia dos embargos do devedor, a sua propositura depende (i) da prévia existência da relação processual entre exequente e executado, com a efetiva ocorrência de citação ou de comparecimento espontâneo devedor aos autos, (ii) e da ausência de fato pretérito à angularização do processo que impeça a continuidade da demanda executiva (a exemplo da desistência).
+Na hipótese, antes da citação dos devedores, o credor postulou a desistência da demanda executiva. Assim, os embargos opostos carecem de pressuposto da existência ou de constituição válida, visto que, repita-se, a desistência apresentada antes da citação, faz com que o processo principal (execução) seja extinto precocemente e a demanda incidental (embargos) fique prejudicada.
+Com efeito, a autonomia dos embargos do devedor não é absoluta, tanto que a sua existência ou o seu cabimento estão intrinsecamente ligados ao processo de execução com a relação processual angularizada. E é por isso que a outra característica dos embargos é o seu vínculo de incidentalidadede com a execução (processo principal).
+Nessa linha de intelecção, a Quarta Turma desta Corte assentou que, "embora os embargos do devedor constituam ação autônoma, não se pode considerá-los completamente independentes, já que são o meio de defesa do executado" (AgInt no AREsp nº 365.126/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2017, DJe 1º/8/2017 - grifou-se).
+Assim, é importante ressaltar que a aplicação do art. 569, parágrafo único, do CPC/1973, dispositivo anteriormente transcrito, pressupõe que a desistência da execução tenha sido apresentada após os embargos. Por outro lado, se a desistência ocorrer antes da oposição dos embargos, estes devem ser imediatamente prejudicados independentemente de versarem a respeito de questões processuais ou materiais.
+Diante disso, se a petição de desistência foi apresentada em 11/9/2014 e a citação dos executados se aperfeiçoou em 19/11/2014 e 17/12/2014, os embargos devem ser julgados extintos sem resolução de mérito, devendo, no ponto, ser restabelecida a sentença de primeiro grau.
+Passa-se, portanto, à apreciação do cabimento de honorários sucumbenciais.
+No processo civil, para se analisar qual das partes responderá pelo pagamento de honorários, deve-se atentar não somente à sucumbência, mas também ao princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deverá suportar os ônus sucumbenciais (REsp nº 1.223.332/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/5/2014, DJe 15/8/2014).
+Por sua vez, a Quarta Turma deste Tribunal Superior tem entendimento no sentido de que o credor responde pelo pagamento de honorários advocatícios quando a desistência da execução ocorrer após a constituição de advogado e da indicação de bens à penhora, independentemente da oposição de embargos. Eis, a propósito, o seguinte julgado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE QUANTIA CERTA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. A sucumbência, para fins de arbitramento dos honorários advocatícios, tem por norte a aplicação do princípio da causalidade, de modo que a parte que suscitou instauração do processo deverá suportar os ônus sucumbenciais.
+Consoante o princípio da causalidade, os honorários advocatícios são devidos quando o credor desiste da ação de execução após o executado constituir advogado e indicar bens à penhora, independentemente da oposição ou não de embargos do devedor à execução. Precedentes.
+2. Na hipótese, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu que quem deu causa à propositura da demanda foi a recorrente. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido".
+(AgInt no REsp 1.849.703/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/3/2020, DJe 2/4/2020 - grifou-se)
+Entretanto, na hipótese vertente, antes da desistência da demanda executiva, os devedores não constituíram advogado nos autos e não praticaram nenhum ato processual, o que somente ocorreu após a citação. Dessa forma, não há como atrair para o exequente a aplicação do princípio da causalidade.
+Ademais, o credor não pode ser punido pela ausência de apreciação do pedido de desistência antes da efetiva citação dos executados. Desse modo, se o magistrado de piso tivesse examinado a tempo a petição apresentada nos autos, igualmente não teria havido a sucessão de manifestações na execução, tampouco a própria oposição de embargos do devedor.
+Essa situação fática retrata fielmente o disposto na Súmula nº 153/STJ: "A desistência da execução fiscal, após o oferecimento dos embargos não exime o exequente dos encargos da sucumbência". Em contrapartida, se a desistência ocorreu antes da citação e do oferecimento dos embargos do devedor, e não houve nomeação de procurador nos autos, não pode o exequente responder pela verba honorária.
+Dessa forma, deve ser afastado o pagamento da verba honorária pelo exequente, ficando prejudicada as demais questões trazidas no presente apelo.
+4. Do dispositivo
+Ante o exposto, dou provimento ao recurso especial para julgar extintos os embargos à execução sem resolução de mérito e para afastar o pagamento de honorários advocatícios pelo exequente.
+É o voto.
