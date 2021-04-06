@@ -1,0 +1,59 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTA ADMINISTRATIVA. VALOR. REDUÇÃO JUDICIAL PARA MONTANTE AQUÉM DO MÍNIMO LEGAL. OFENSA AO PODER DE POLÍCIA. INOCORRÊNCIA. RAZOABILIDADE E PROPORCIONALIDADE.
+1. "O Poder Judiciário, no exercício de sua competência constitucional (ex vi do art. 5º, XXXV, da CF/88), pode examinar os atos praticados pela Administração Pública, notadamente no que tange à legalidade ou a sua legitimidade, não havendo que se falar em invasão do mérito administrativo quando o magistrado reduz o valor da multa, com fulcro nos princípios da razoabilidade e proporcionalidade." (AgInt no AREsp 1.067.401/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 9/8/2018).
+2. No caso, a empresa autora, ora recorrida, ajuizou ação de procedimento ordinário objetivando, entre outras providências, a redução do valor de multa a ela imposta pela ANP, em virtude da constatação de não observância de normas legais na disposição de recipientes de gás.
+3. A Corte regional, por sua vez, confirmou a sentença apelada, no que esta reduziu o valor da sanção pecuniária, invocando, para tanto, critérios de razoabilidade e de proporcionalidade, em conformidade com entendimento deste Superior Tribunal de Justiça.
+4. Não há falar em ofensa ao poder de polícia da ANP, como aventado nas razões recursais, senão que, atento às peculiaridades do caso concreto, o julgador, pela perspectiva da razoabilidade e da proporcionalidade, não vislumbrou compatibilidade entre a infração glosada pela autoridade fiscalizadora e o elevado quantum da multa aplicada.
+5. Recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por maioria, vencido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região), negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria (Presidente) e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Dr. ANDRÉ GUSTAVO BEZERRA E MOTA, pela parte RECORRENTE: AGENCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de recurso especial manejado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 803):
+ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. ARMAZENAMENTO IRREGULAR DE GLP. MATERIALIDADE DEMONSTRADA. MULTA ADMINISTRATIVA. VALOR FIXADO EM ATENÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO.
+1. O processo administrativo, que resultou na penalidade aplicada, observou o previsto na Lei nº 9.784/99. Não há que se falar em cerceamento de defesa.
+2. A redução do montante da multa aplicada pela ANP se mostra proporcional e foi devidamente fundamentada pelo juízo a quo, não havendo motivos para alteração.
+3. Manutenção da sentença.
+Opostos embargos declaratórios, foram acolhidos nestes termos (fl. 912):
+EMBARGOS DECLARATÓRIOS. OMISSÃO NÃO VERIFICADA.
+ESCLARECIMENTO.
+1. É justa a intervenção judicial, quando na análise de um caso concreto, verifica-se a cobrança excessiva de valores, não abarcada pelos critérios da razoabilidade e da proporcionalidade. O quantum da multa foi estipulado em razão das peculiaridades dispostas nos autos, levando em consideração a gravidade da infração, a vantagem auferida e a condição econômica do infrator.
+2. Embargos de declaração acolhidos para fins de esclarecimentos, sem alteração do julgado proferido pela Quarta Turma.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 2º, I, 3º, VII, e 4º, caput, da Lei n. 9.847/99. Sustenta, em síntese, que não é possível a fixação de multa administrativa em valor abaixo do mínimo legal.
+A parte recorrida apresentou contrarrazões (fls. 939/950), nas quais requer o não provimento do recurso especial.
+Por meio da decisão constante das fls. 996/998, negou-se provimento ao agravo em recurso especial interposto pela ANP, sob o fundamento de que incide a Súmula 7/STJ, tendo em vista que a alteração das conclusões do Tribunal de origem acerca da adequação do quantum da multa demandaria o reexame de matéria fático-probatória.
+A referida decisão foi impugnada por meio de agravo interno (fls. 1003/1010), tendo sido reconsiderado o decisum então agravado e determinada a reautuação do feito como recurso especial.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTA ADMINISTRATIVA. VALOR. REDUÇÃO JUDICIAL PARA MONTANTE AQUÉM DO MÍNIMO LEGAL. OFENSA AO PODER DE POLÍCIA. INOCORRÊNCIA. RAZOABILIDADE E PROPORCIONALIDADE.
+1. "O Poder Judiciário, no exercício de sua competência constitucional (ex vi do art. 5º, XXXV, da CF/88), pode examinar os atos praticados pela Administração Pública, notadamente no que tange à legalidade ou a sua legitimidade, não havendo que se falar em invasão do mérito administrativo quando o magistrado reduz o valor da multa, com fulcro nos princípios da razoabilidade e proporcionalidade." (AgInt no AREsp 1.067.401/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 9/8/2018).
+2. No caso, a empresa autora, ora recorrida, ajuizou ação de procedimento ordinário objetivando, entre outras providências, a redução do valor de multa a ela imposta pela ANP, em virtude da constatação de não observância de normas legais na disposição de recipientes de gás.
+3. A Corte regional, por sua vez, confirmou a sentença apelada, no que esta reduziu o valor da sanção pecuniária, invocando, para tanto, critérios de razoabilidade e de proporcionalidade, em conformidade com entendimento deste Superior Tribunal de Justiça.
+4. Não há falar em ofensa ao poder de polícia da ANP, como aventado nas razões recursais, senão que, atento às peculiaridades do caso concreto, o julgador, pela perspectiva da razoabilidade e da proporcionalidade, não vislumbrou compatibilidade entre a infração glosada pela autoridade fiscalizadora e o elevado quantum da multa aplicada.
+5. Recurso especial não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Como ressai do relatório, a questão que se descortina diz respeito à possibilidade, ou não, de o magistrado reduzir, para patamar abaixo do mínimo legal, o valor de multa pecuniária aplicada pela Administração, no caso, pela Agência Nacional do Petróleo (ANP).
+Sobre o tema, esta Corte possui o entendimento de ser possível a atuação judiciária nesse sentido. Em outras palavras, observando-se as peculiaridades do caso e tendo como critérios os princípios da proporcionalidade e da razoabilidade, é viável ao julgador estipular valor aquém do mínimo legal.
+Nesse sentido, vale citar trecho de voto proferido em caso análogo ao dos autos pelo Exmo. Ministro Gurgel de Faria, quando do julgamento do AgInt no AREsp 1.067.401/SC (DJe 9/8/2018):
+Consoante explicitado na decisão embargada, o valor da penalidade administrativa deve sempre respeitar os parâmetros de razoabilidade e proporcionalidade, razão pela qual o Poder Judiciário, quando provocado, pode adequá-lo para evitar desequilíbrios entre a administração e os administrados.
+Dessa forma, excepcionalmente e diante da realidade apresentada em cada caso, é possível que as instâncias ordinárias reduzam a penalidade aplicada para valor inferior ao mínimo estabelecido da legislação de regência, a fim de resguardar o equilíbrio entre as partes, pois a multa não pode configurar ônus excessivo que comprometa a própria existência da parte adversa.
+Abaixo, reproduz-se a ementa do referido julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA. REDUÇÃO DO VALOR AQUÉM DO MÍNIMO LEGAL. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. VIOLAÇÃO. INOCORRÊNCIA. RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO DO JULGADO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3 do STJ).
+2. O Poder Judiciário, no exercício de sua competência constitucional (ex vi do art. 5º, XXXV, da CF/88), pode examinar os atos praticados pela Administração Pública, notadamente no que tange à legalidade ou a sua legitimidade, não havendo que se falar em invasão do mérito administrativo quando o magistrado reduz o valor da multa, com fulcro nos princípios da razoabilidade e proporcionalidade.
+3. Hipótese em que as instâncias ordinárias, diante das circunstâncias fáticas da causa, reduziram o valor da multa aquém do mínimo estabelecido pela legislação de regência, a fim de resguardar o equilíbrio entre as partes e a continuidade da atividade comercial da empresa, sendo certo que a revisão do julgado, nos termos pretendidos, encontra óbice na Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.067.401/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2018, DJe 9/8/2018)
+No caso concreto, a empresa recorrida ajuizou ação de procedimento ordinário objetivando, dentre outras providências, a redução do valor de multa a ela imposta pela ANP, em virtude da constatação de não observância de normas legais na disposição de recipientes de gás.
+Ao dirimir a controvérsia, a Corte regional confirmou a sentença apelada, no que esta reduziu o valor da sanção (fl. 910):
+Não há ofensa aos artigos 2º, I; 3º, VII e 4º, caput, da Lei nº 9.847/99. Com efeito, o referido artigo 4º prevê a graduação da pena de acordo com a gravidade da infração, a vantagem aferida e a condição econômica do infrator. Outrossim, penso que é justa a intervenção judicial, quando na análise de um caso concreto, verifica-se a cobrança excessiva de valores, não abarcada pelos critérios da razoabilidade e da proporcionalidade. Destaco que o quantum da multa foi estipulado em razão das peculiaridades dispostas nos autos, levando em consideração a gravidade da infração, a vantagem auferida e a condição econômica do infrator. Ora, o estabelecimento comercial é modesto, com capital de R$ 15.000,00 (Evento 1 - CONTRSOCIAL3). Resta claro que arcar com um valor de multa superior ao seu capital social, na ordem de R$ 20.000,00, inviabiliza a atividade comercial.
+Verifica-se, pois, que o acórdão recorrido não destoou do entendimento desta Corte Superior, não havendo, pois, falar em ofensa ao poder de polícia da ANP, como aventado nas razões recursais (fl. 931), senão que, atento às peculiaridades do caso concreto, o julgador, pela perspectiva da razoabilidade e da proporcionalidade, não vislumbrou compatibilidade entre a infração glosada pela autoridade fiscalizadora e o elevado quantum da multa aplicada.
+Deixa-se de fixar a verba sucumbencial recursal ante a ausência de condenação da ANP ao pagamento de honorários advocatícios.
+ANTE O EXPOSTO, nega-se provimento ao recurso especial.
+É o voto.
+VOTO VENCIDO
+O EXMO. SR. MINISTRO MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO):
+1. Senhores Ministros, essa questão é muito interessante.
+2. Peço vênia para discordar do brilhante voto do eminente Relator, porque entendo que só excepcionalmente é que se pode fixar esses valores abaixo do mínimo legalmente estabelecido. Havendo realmente situações excepcionais, entendo viável que se faça essa revaloração e que se estabeleça um patamar inferior ao mínimo.
+3. No caso, parece-me que o valor estipulado guarda consonância com a razoabilidade; é um valor relativamente módico de R$ 20.000,00 (vinte mil reais) para essa função. Acredito que se deve prestigiar o marco legal estabelecido para esse tipo de sanção.
+4. Então, com a máxima vênia do eminente Ministro Relator, louvando seu brilhante voto e também entendendo que esse é um precedente da egrégia Turma, voto no sentido de dar provimento ao recurso especial da ANP.
