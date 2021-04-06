@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Igor Rafael Marcondes de Oliveira, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, dando provimento à apelação ministerial, afastou o redutor do § 4º do art. 33 da Lei n. 11.343/2006, redimensionou a pena do paciente para 5 anos de reclusão, bem como cassou a substituição da pena privativa de liberdade por restritiva de direitos.
+Nesse writ, sustenta-se constrangimento ilegal no afastamento do tráfico privilegiado, bem como no regime prisional.
+Requer-se, liminarmente e no mérito, a readequação da pena e do regime.
+É o relatório.
+Pela Corte estadual foram apresentados os seguintes fundamentos para afastar a minorante do § 4º do art. 33 da Lei n. 11.343/2006 (fl. 25 - Apelação criminal n. 1501009-98.2018.8.26.0548):
+ ..  No caso, o Apelado, embora primário e portador de bons antecedentes, foi preso com considerável quantidade e qualidade de drogas (6 eppendorfs, contendo 10,255g cocaína e 22 pedras de cocaína na forma de crack, pesando 4,185g) e também quantia em dinheiro trocado (R$ 404,00), que indicam, seguramente, a constância na prática delituosa, inviabilizando a incidência do redutor, eis que vinha se dedicando a atividades criminosas, não estando correta a incidência do redutor em comento.
+Frise-se que a não incidência do redutor deve-se ao fato de que o Apelado se dedicava ao tráfico de drogas, ou seja, pela reiteração da conduta, sendo que a quantidade e qualidade das drogas, inclusive, do crack, com alto poder viciantes, se apresentam como indicativas à dedicação ao comércio espúrio.
+Após detida análise dos autos, verifico ser o caso de concessão liminar da ordem, senão vejamos.
+Isso porque, tem-se que a quantidade de drogas encontrada com o paciente não é expressiva - 6 eppendorfs, contendo 10,255 g cocaína e 22 pedras de cocaína na forma de crack, pesando 4,185 g) e também quantia em dinheiro trocado (R$ 404,00 - quatrocentos e quatro reais). Além disso, o réu é primário e teve a pena-base fixada no mínimo legal. Não há indicação de seu envolvimento com organização criminosa, tampouco foram apresentados fundamentos díspares daqueles exigidos para a configuração do próprio crime, ou seja, insculpidos no tipo penal.
+Assim, considerando a pena-base no mínimo legal, deve ser reconhecida a figura do tráfico privilegiado, visto que é tecnicamente primário, possuidor de bons antecedentes e, como não há nos autos elementos concretos a evidenciar sua dedicação a atividades delituosas ou integração em organização criminosa, deve ser aplicada, em seu favor, a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Ilustrativamente:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. NATUREZA DO ENTORPECENTE. QUANTIDADE INEXPRESSIVA. READEQUAÇÃO DA PENA. REGIME SEMIABERTO. SANÇÃO SUPERIOR A 4 ANOS E NÃO EXCEDENTE A 8 ANOS. ADEQUADO. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Hipótese em que embora a natureza do entorpecente seja elemento idôneo para exasperar a pena-base, in casu, sendo pequena a quantidade apreendida - 8,9g de crack - o estabelecimento da sanção no mínimo legal se mostra suficiente para a reprovabilidade da conduta do acusado. Necessidade de readequação da pena.
+4. Estabelecida a sanção em patamar superior a 4 anos e não excedente a 8 anos, ficam mantidos o modo semiaberto e a impossibilidade de substituir a pena corporal por restritivas de direitos, nos termos dos arts. 33, § 2º, "b", e 44, I, do Código Pena.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena-base ao mínimo legal, ficando a sanção definitiva em 5 anos de reclusão e pagamento de 500 dias-multa, mantido o regime semiaberto.
+(HC n. 533.480/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019 - grifo nosso)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ACESSO A DADOS CONTIDOS NO CELULAR DOS RÉUS. ILICITUDE. NÃO OCORRÊNCIA. PRÉVIA AUTORIZAÇÃO, DE FORMA VOLUNTÁRIA, DOS PRÓPRIOS ACUSADOS. DOSIMETRIA DA PENA.ILEGALIDADE MANIFESTA. EMBARGOS DE DECLARAÇÃO REJEITADOS. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+ ..
+7. Considerando que o réu Matheus é tecnicamente primário, possuidor de bons antecedentes e tendo em vista que não há, nos autos, elementos concretos a evidenciar sua dedicação a atividades delituosas ou integração em organização criminosa, deve ser aplicada, em seu favor, a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+8. Porque o acusado Felipe ostenta uma única condenação definitiva anterior - a qual é geradora de reincidência, nos termos do disposto no art. 64, I, do CP -, deve ser concedido habeas corpus, de ofício, em seu favor, para afastar a desfavorabilidade da circunstância judicial relativa aos antecedentes.
+9. Segundo o enunciado na Súmula n. 631 do STJ, in verbis: "O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais". Dessa forma, ainda que Felipe haja sido beneficiado com a concessão de indulto, tal benesse não atinge os efeitos secundários da condenação e, por isso mesmo, não afasta a conclusão de que, ao tempo do crime, era reincidente. Por tal razão, não há como ser reconhecida, em seu favor, a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+10. Embargos de declaração rejeitados. Habeas corpus concedido, de ofício, em favor de ambos os acusados, nos termos do voto do relator.
+(EDcl no HC n. 492.052/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/6/2020)
+Com essas considerações, passo ao redimensionamento da pena. Na primeira fase da dosimetria da pena, mantenho a pena ao mínimo legal, bem como reconheço a figura do tráfico privilegiado, em sua fração máxima, fixando-a em 1 ano e 8 meses de reclusão; tornando a reprimenda definitiva.
+Quanto ao regime prisional, considerando a readequação do quantum final da pena, bem como a ausência de circunstâncias judiciais negativas, deve-se aplicar o regime aberto, nos termos do art. 33, § 2º, c, do Código Penal; restabelecendo a sentença que procedeu à substituição da pena privativa de liberdade pela restritiva de direitos.
+Ante o exposto, concedo liminarmente a ordem a fim de redimensionar a pena do paciente para 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, restabelecendo a sentença condenatória que procedeu à substituição da pena privativa de liberdade pela restritiva de direitos.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. MINORANTE. AFASTAMENTO PELA CORTE ESTADUAL. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. READEQUAÇÃO DO REGIME PRISIONAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
