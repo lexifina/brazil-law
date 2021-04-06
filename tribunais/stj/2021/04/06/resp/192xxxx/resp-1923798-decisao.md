@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 437, e-STJ):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER.POSSIBILIDADE. CORREÇÃO MONETÁRIA E JUROS. IMPLANTAÇÃO DO BENEFÍCIO.
+. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer- se a especialidade da atividade laboral por ele exercida.
+. A possibilidade da reafirmação da DER foi objeto do REsp 1.727.063/SP, REsp 1.727.064/SP e REsp 1.727.069/SP, representativos da controvérsia repetitiva descrita no Tema 995 - STJ, com julgamento em 22/10/2019, cuja tese firmada foi no sentido de que é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+. Implementados os requisitos de tempo de contribuição e carência, é devida a aposentadoria por tempo de contribuição.
+. Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º 8.213/91, e pelo IPCA-E, para os benefícios assistenciais.
+. Juros de mora simples a contar da DER reafirmada, conforme o art.5º da Lei 11.960/2009, que deu nova redação ao art.1º-F da Lei 9.494/1997.
+. Determinada imediata implantação do benefício. Reforma parcial da sentença.
+Os Embargos de Declaração opostos foram rejeitados (fls. 474-475, e-STJ):
+Nas razões do apelo especial, o recorrente alega:
+A Corte Regional, no tocante a questão debatida nos autos, negou, assim, vigência ao disposto no artigo 85, caput, (honorários) e artigo 927, III do CPC, artigos 49, I, "b" e II e art. 54 da Lei 8.213/91 (data de início do benefício) e artigos 389, 394, 395 e 396 do CC (juros).
+(..)
+Efetivamente, não foi apreciada pela Corte de origem a tese levantada pelo embargante acerca do a) termo inicial para o pagamento das parcelas vencidas desde a DER reafirmada, (b) da inexigibilidade de juros de mora sobre as parcelas vencidas e (c) da impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, nos termos da decisão proferida pelo E. STJ no REsp 1.727.063 - SP. Dessa forma, a Corte de Origem não apreciou o sentido e o alcance do artigo 85, caput, (honorários) do CPC, artigos 49, I, "b" e II e art. 54 da Lei 8.213/91 (data de início do benefício) e artigos 389, 394, 395 e 396 do CC (juros).
+Além disso, o acórdão regional foi omisso, nos termos do artigo 1022, parágrafo único, inciso I, do CPC ao deixar de se manifestar expressamente sobre o desrespeito ao julgamento proferido no Recurso Repetitivo nº 1.727.063 - SP (TEMA 995 STJ) e sobre as normas que determinam aos tribunais observarem os acórdãos em julgamento de recursos repetitivos (artigo 927, inciso III do Código de Processo Civil).
+(..)
+Partindo desta premissa, considerando que o direito do segurado somente foi reconhecido diante fato superveniente ao ajuizamento da demanda, inexiste mora do INSS caso a obrigação seja cumprida no prazo fixado por este d. juízo.
+Contrarrazões àfl. 491, e-STJ.
+O Recurso Especial foi admitido, em parte, tendo sido negado seguimento a ele quanto ao Tema 995/STJ(fl. 519, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 24.3.2021.
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno.
+No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante o art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REVISÃO DA RENDA MENSAL INICIAL. JUROS DE MORA E ÍNDICE DE CORREÇÃO MONETÁRIA. ARTIGO 1º-F DA LEI 9.494/1997 COM A REDAÇÃO DADA PELA LEI 11.960/2009. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. OBSERVÂNCIA DOS RECURSOS ESPECIAIS REPETITIVOS 1.495.146/MG, 1.495.144/RS E 1.492.221/PR. RECURSO ESPECIAL CONHECIDO E PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão a ser revisitada diz respeito à incidência do artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, sobre a condenação imposta à Fazenda Pública previdenciária.
+2. A Primeira Seção do STJ concluiu o julgamento dos recursos especiais submetidos ao regime dos recursos repetitivos, que tratam da questão relativa à aplicabilidade do artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora REsp 1.495.146/MG, REsp 1.495.144/RS e REsp 1.492.221/PR, todos da Relatoria do Ministro Mauro Campbell Marques.
+3. Para o presente caso, isto é, condenações judiciais de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o artigo 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+4. No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+5. A pretensão recursal contraria o que foi decidido pela Primeira Seção do STJ, razão pela qual a decisão agravada deve ser mantida pelos seus próprios fundamentos.
+6. Agravo interno não provido.
+(AgInt no REsp 1452520/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/02/2020, DJe 20/02/2020).
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor do recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Diante do exposto, conheço parcialmentedo Recurso Especial somente quanto a violação ao art. 1.022 do CPC e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
