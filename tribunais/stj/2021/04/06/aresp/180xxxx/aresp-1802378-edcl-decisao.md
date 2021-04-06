@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SISMEDIC - COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS MÉDICOS CIRÚRGICOS HOSPITALARES EIRELI em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+2.1 Contudo, venia concessa, o n. Min. Relator incorreu em flagrante erro de fato, ao considerar como inexistente circunstância que efetivamente está presente nos autos.
+2.2 Com efeito, conforme se infere as fls. 467/476 dos autos (e-STJ), observa-se que efetivamente foram opostos embargos de declaração perante o E. Tribunal de Justiça de São Paulo, tendo sido prequestionada a matéria perante a Corte de origem, ao contrário do que restou decidido.
+2.3 Vale ressaltar ainda, que além dos aclaratórios, os ora Embargantes também interpuseram o Agravo Interno perante o Tribunal de origem (e-STJ fls. 486/500), prequestionando especificamente a matéria ora vergastada. (fl. 620/621).
+Alega, também, o seguinte:
+3.1 Contudo, permissa venia, novamente a r. decisão embargada considerou inexistente circunstância que está presente nos autos, uma vez que, ao contrário do que se afirma, os Embargantes efetuaram a demonstração do dissídio jurisprudencial de forma analítica, sem margem à interpretação divergente.
+3.2 No recurso interposto (e-STJ fls. 516/536), além de se atentarem ao disposto no §1º do artigo 1.029 do Código de Processo Civil e no § 2º do artigo 255 do Regimento Interno deste E. STJ, os Embargantes não se restringiram a "mera transcrição de ementas" a fim de configurar o dissenso. (fls. 622)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, conforme assentado na decisão ora embargada, a controvérsia, tal como posta no recurso especial manejado - cassação do benefício de gratuidade da justiça sem oportunização do prévio contraditório - não foi enfrentada, de maneira específica, pelo acórdão recorrido, o qual, repita-se, não foi objeto de embargos de declaração.
+Frise-se que os aclaratórios ora mencionados pelo embargante foram opostos em face da decisão monocrática proferida pelo desembargador relator do Tribunal de origem, conforme se evidencia à folha 467/476, razão pela qual reafirma-se a aplicação das Súmulas n. 282/STF e 356/STF.
+Quanto à alegação de erro material na decisão, em razão da demonstração do dissídio jurisprudencial alegado, novamente reafirma-se o decidido, uma vez que o recurso interposto de fato não promoveu o devido cotejo analítico, que exige a reprodução de trechos dos julgados confrontados, conforme exigência do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, nos termos da jurisprudência do STJ.
+Ademais, a decisão recorrida apontou outros óbices que igualmente inviabilizam o conhecimento do recurso especial interposto.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
