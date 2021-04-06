@@ -1,0 +1,28 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico e associação para o tráfico de drogas. Prisão domiciliar. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR RELATOR DO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+    1. O writ foi manejado contra decisão singular de Desembargador Relator do Tribunal de origem, não tendo havido a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado.
+    2. Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental. Cuida-se de entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça.
+    3. Agravo desprovido.”
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 15 anos, 7 meses e 25 dias de reclusão, em regime inicial fechado, pelos crimes previstos no art. 33, caput, c/c o art. 40, I, e no art. 35, c/c o art. 40, I e VII, todos da Lei 11.343/2006. O Juízo de origem vedou à paciente o direito de recorrer em liberdade, mantendo o benefício da prisão domiciliar concedido na fase instrutória.
+    3. A defesa interpôs apelação no Tribunal Regional Federal da 5ª Região, pendente de julgamento. Em seguida, peticionou nos autos do recurso de apelação, requerendo o abrandamento das regras da prisão domiciliar. O pedido foi indeferido.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Relatora do HC 647.838, Ministra Laurita Vaz, indeferiu liminarmente o writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante afirma que possui uma filha menor de 12 anos de idade, que depende unicamente de seus cuidados. Destaca que “o PAI da menor se encontra encarcerado, impossibilitado de realizar o sustento de sua prole, recaindo a responsabilidade para a PACIENTE (...), que se encontra em prisão domiciliar com restrição do monitoramento, impossibilitada de trabalhar ou até mesmo se locomover para levar sua filha para as terapias, escola”. Nesse contexto, sustenta a “NECESSIDADE DE FLEXIBILIZAR AS REGRAS DO REGIME DOMICILAR”.
+    6. A defesa requer a concessão da ordem a fim de “flexibilizar as regras do regime domiciliar” imposto à acionante, afastando a necessidade do monitoramento eletrônico. Subsidiariamente, pleiteia que seja concedida à paciente “autorização para sair do domicílio sempre com o fim de realizar as atividades necessárias para o bem estar da menor (atividades físicas, lúdicas e laborais)”.
+    7. Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. Para além de observar que a hipótese é de paciente condenada pelo tráfico de 650,429 kg de cocaína, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva, notadamente se se considerar que as instâncias de origem afirmaram que não foi comprovada a necessidade da “flexibilização das regras da prisão domiciliar”. Transcrevo, nesse sentido, as seguintes passagens do acórdão do Tribunal Regional Federal da 5ª Região:
+    “[...]
+    Primeiramente, importa considerar que a requerente já tinha feito um pedido de ampliação da área de monitoramento pelo mesmo fundamento da filha menor fazer caminhadas nos limites do condomínio por necessidade médica, tendo o pleito sido apreciado e indeferido pela juíza por ocasião da sentença com base nos seguintes fundamentos (item 2.1.7, cf. id. 4058300.15481775):
+    [...]
+    Na realidade, não houve modificação do contexto fático, e a documentação juntada pela requerente não demonstra a imprescindibilidade da medida requerida, sendo insuficiente para os fins pretendidos de revogação da cautelar de monitoramento eletrônico a que se acha submetida.
+    Com efeito, conforme destacado, não há documentação médica atestando o estado de saúde da menor e a recomendação de caminhadas, constando apenas guia ilegível do plano de saúde Hapvida com requisição de exames onde sequer consta o nome da menor no espaço destinado aos ‘dados do beneficiário’; ‘declaração nutricional’ citando sobrepeso da menor e recomendando dieta e atividade física; receituário de vitamina D; indicação de dermatologista (de sabonetes e hidratantes para uso no corpo); dieta prescrita por nutricionista.
+    Demais disso, há notícia nos autos da existência de um irmão maior na mesma residência e que poderia acompanhar a menor nas suas caminhadas na área do condomínio, não apresentando a requerente comprovação e justificativa verossímil para rejeitar a adoção de tal providência.
+    Nesse contexto, indefere-se o pedido, considerando a proporcionalidade e a razoabilidade da medida implementada pela juíza sentenciante diante dos crimes perpetrados pela requerente e do interesse a que se visa resguardar com a manutenção da prisão domiciliar e o uso de tornozeleira eletrônica no caso concreto.” (Grifos acrescentados)
+    10. Sendo assim, eventual acolhimento da pretensão defensiva demandaria o revolvimento do conjunto fático-probatório, o que é inviável em habeas corpus.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 06 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
