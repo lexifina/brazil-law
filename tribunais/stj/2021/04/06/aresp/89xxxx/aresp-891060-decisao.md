@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de BANCO BRADESCO S.A.contradecisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federalinterposto contra acórdão do Eg. Tribunal de Justiça de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO INTERLOCUTÓRIA QUE HOMOLOGOU PLANO DE RECUPERAÇÃO JUDICIAL. INSURGÊNCIA DE BANCO CREDOR. ADMISSIBILIDADE RECURSAL. PEDIDO PARA NÃO CONHECER DO RECURSO, TRAZIDO EM SEDE DE CONTRARRAZÕES, EDIFICADO NA IMPOSSIBILDIADE DE ANALISAR OS TERMOS DO PLANO DE RECUPERAÇÃO JUDICIAL. NÃO CABIMENTO. MATÉRIA SUJEITA A ANÁLISE DO PREENCHIMENTO DOS REQUISITOS LEGAIS. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA.RECURSO CONHECIDO.MÉRITO. ANULAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. TRATAMENTO DIFERENCIADO ENTRE CREDORES DA MESMA CLASSE DE CRÉDITOS. INOCORRÊNCIA. PRESSUPOSTOS DO § 2º, DO ARTIGO58 DA LEI 11.101/05 NÃO SATISFEITOS. DESÁGIO AOS CREDORES QUIROGRAFÁRIOS DE 85%, CONCESSÃO DE CARÊNCIA E DILAÇÃO DO PRAZO PARA PAGAMENTO. DISPOSIÇÃO APROVADA PELA ASSEMBLÉIA GERAL DOS CREDORES. VALIDADE.MÉRITO. SUSPENSÃO ORIUNDA DA RECUPERAÇÃO JUDICIAL QUE NÃO AFETA AS DEMANDAS INTENTADAS CONTRA OS GARANTIDORES (FIADORES E AVALISTAS).DECISÃO REFORMADA NESTE PARTICULAR. EXEGESE DO §1º DO ART. 49 DA LEI 11.101/05 E DO PRINCÍPIO DA AUTONOMIA CAMBIAL. RECURSO PROVIDO EM PARTE."
+(e-STJfl. 348)
+Nas razões do recurso especial, oagravantealegouviolação dos arts. 50, I, e 61 da Lei nº 11.101/2005. Sustentou a possibilidade de controle judicial do plano de recuperação, argumentando que o plano aprovado pela assembleia geral de credores previa prejuízo excessivo para os credores quirografários. Acrescentou que o plano de carência de 3 anos é também abusivo por ultrapassar o prazo legal de supervisão judicial.
+Prazo para apresentação de contraminuta transcorreu in albis(e-STJ fl. 444).
+Parecer do Ministério Público Federal às fls. 471/477.
+É o relatório. Passo a decidir.
+O acórdão recorrido analisou a legalidade do plano de recuperação judicial, concluindo por sua validade, com aseguintefundamentação:
+"Busca o Banco agravante anular o plano de recuperação judicial, ao argumento de que este possui cláusulas ilegais, uma vez que confere tratamento diferenciado a seu crédito, ante um deságio de 85% frente aos demais credores.
+Tal pretensão encontra amparo na Lei 11.101/2005. Vejamos:
+Art.58.  ..
+No caso em comento, o vício apontado pelo Banco esta embasado no § 2º supra citado, que veda o "tratamento diferenciado entre os credores da classe que o houver rejeitado".
+Conforme consta da decisão de fls. 265/269,71 " ..  o Plano deRecuperação Judicial foi submetido à votação, restando aprovado com voto favorável de 100% da Classe Trabalhista; 72,94% da Classe Quirografária; 100%da Classe com Garantia Real, sendo 78,71% dos credores por valor e 94,71%dos credores em contagem por cabeça".
+Quanto a forma de pagamento da classe dos "credores financeiros com ou sem garantia real", que é o que interessa para o presente recurso, assim restou disposto:
+" ..  Já para credores quirografários a Recuperando propõe um desconto de 85% (oitenta e cinco por cento) sobre o saldo devedor consolidado pelo Administrador Judicial, com a carência de juros e principal de 48 (quarenta e oito) meses, contados da data base da recuperação. O pagamento dar-se-á em 120 (cento e vinte) parcelas mensais, sendo a primeiras com vencimentoapós o período de carência.
+Para todos os pagamentos acima ajustado, haverá a incidência de juros, a partir da data base, à taxa de 2% (dois por cento) ao ano, sobre o saldo devedor. (fl. 83).
+Logo, da análise do conteúdo aprovado na Assembleia-Geral dosCredores, constata-se que não houve distinção entre credores da mesma classe, ou seja, não restou satisfeita a condição disposta na Lei que autoriza anular e/ou modificar o plano de recuperação judicial."
+(e-STJ fls. 351/352)
+Ressai da fundamentação adotada pelo acórdão recorrido que não houve emissão de juízo de valor acerca do conteúdo normativo dos arts. 50 e 61da Lei 11.101/05.Destarte, o recurso especial não atende o imprescindível prequestionamento, o que obsta o conhecimento do recurso especial, nos termos do enunciado 282 e 356 do STF.
+Ademais, alterar a conclusão do acórdão recorrido quanto à validade do plano de recuperação demandaria o inevitável reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, atividade que escapa à competência desta Corte Superior, no âmbito dos recursos especiais (Súmulas 5 e 7 do STJ).
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
