@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de HAROLDO BALBINO DE BRITO SANTANA apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios no Agravo em Execução Penal n. 0712057-42.2020.8.07.0000.
+Depreende-se dos autos que o Juízo de primeira instância indeferiu o pedido de prisão domiciliar humanitária - em razão da pandemia da Covid-19 - formulado pelo paciente que cumpre pena pelos crimes de roubo, estelionato e lesão corporal.
+Impetrado habeas corpus na origem, a ordem foi denegada pelo Tribunal de Justiça (e-STJ fl. 291/310).
+No presente writ, a defesa reitera o pedido de concessão da referida benesse.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fl. 411).
+É o relatório.
+Decido.
+Não verifico a existência do constrangimento ilegal alegado.
+Na linha da jurisprudência desta Corte Superior, "a recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão cautelar pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie" (RHC n. 133.853/MS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2020, DJe 28/9/2020).
+No caso dos autos, consta no acórdão impugnado (e-STJ fl. 299):
+O agravante conta atualmente com 39 (trinta e nove) anos de idade. O documento de ID 16576184 acostado aos autos traz lista de internos portadores de alguma enfermidade no sistema prisional, constando que o recorrente possui "pressão alta".
+Assim, embora supostamente se enquadre nesta recomendação por aparentemente ser hipertenso, observa-se que agravante está longe de cumprir os requisitos estando prevista a progressão para o regime semiaberto em 25-agosto-2021, e para o regime aberto apenas em (objetivos) para a progressão de regime, 26-setembro-2024, não sendo a ele aplicável, portanto, o artigo 5º, inciso I, da Resolução nº 62/2020 do Conselho Nacional de Justiça.
+os termos do artigo 117, inciso II, da Lei de Execução Penal, o recolhimento domiciliar pressupõe regime aberto, admitindo-se a concessão a preso do Ainda, n regime fechado ou semiaberto caso fique comprovado estar acometido de doença grave, com debilidade acentuada da sua saúde e não sendo prestado o necessário atendimento médico no ambiente prisional. Nada disso se aplica ao recorrente, que não comprovou nos autos os necessários pressupostos.
+Não existe nada a comprovar que o agravante tenha sofrido acidente vascular cerebral, conforme ventilado pela Defesa, ou que seu estado de saúde demande tratamento ou acompanhamento que não possa ser prestado pelo Sistema Penitenciário do Distrito Federal. (grifei).
+Verifica-se, portanto, que, tendo o Tribunal de origem concluído pela ausência de comprovação da debilidade da saúde do paciente ea impossibilidade de receber tratamento no estabelecimento prisional em que se encontra,o acolhimento do pleito defensivo demandaria, inevitavelmente, o revolvimento de fatos e provas, procedimento incompatível com a via estreita do habeas corpus.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PANDEMIA. COVID-19. GRUPO DE RISCO. DIABÉTICO E HIPERTENSO. SITUAÇÃO DE VULNERABILIDADE CONCRETA NÃO EVIDENCIADA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Conforme consignado no acórdão combatido, o agravante vem recebendo tratamento médico adequado inexistindo nos autos provas de qualquer comprometimento na saúde do paciente tampouco confirmação de situação de risco concreta no estabelecimento prisional em que está, não logrando êxito, assim, em comprovar que se encontraria em situação de vulnerabilidade no cárcere que pudesse ensejar, de forma excepcional, a concessão do pedido à prisão domiciliar.
+3. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+4. Agravo regimental não provido. (AgRg no HC 594.773/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/10/2020, DJe 16/10/2020)
+É de relevo mencionar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça já publicou a Recomendação n. 62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
