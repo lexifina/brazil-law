@@ -1,0 +1,66 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por ESTADO DE PERNAMBUCOcontra decisão que inadmitiu recurso especial ao argumento de que o recurso era incabível (e-STJ, fl. 590).
+A parte agravante sustenta, em síntese, a admissibilidade do recurso especial contra decisão que negou provimento ao agravo regimental, com a aplicação de multa.
+Afirma ainda que, ao contrário, do alegado, não há preclusão ou trânsito em julgado, já que está pendente de julgamento recurso extraordinário sobrestado.
+Sem contraminuta (e-STJ, fl. 601).
+Parecer pelo não conhecimento do recurso especial(e-STJ, fls. 635-638).
+É o relatório.
+Atendidos os requisitos de conhecimento do. presente agravo, passo a examinar o recurso especial interposto (e-STJ, fls. 535-565).
+Trata-se de recurso especial interposto com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado (e-STJ, fl. 525):
+PROCESSUAL CIVIL RECURSO DE AGRAVO (CPC 557 § 1º) CONTRA DECISÃO MONOCRÁTICA DE INADMISSIBILIDADE DE AGRAVO DO REGIMENTO (RITJPE 255-A) INTERPOSTO CONTRA DESPACHO DE MERO EXPEDIENTE. SUSCITAÇÃO DE NULIDADE DA DECISÃO POR CERCEAMENTO DE DEFESA. MATÉRIA QUE SE CONFUNDE COM O MÉRITO DO AGRAVO. NÃO CONHECIMENTO COMO PRELIMINAR. DECISÃO DO 2ºVICE-PRESIDENTE PELA INADMISSIBILIDADE DO AGRAVO REGIMENTAL. CABIMENTO. INTELIGÊNCIA DO ART 557 CAPUT DO CPC E DO § 2ºDO ART 255-A DO RITJPE. DECISÃO INTEGRADA COM A CONVICÇÃO DO ÓRGÃO COLEGIADO. AGRAVO MANIFESTAMENTE INFUNDADO. MULTA APLICADA (CPC 557 § 2º).
+Alega o recorrente violação dos arts. 2º, 162, caput e § 3º, 471, 504,543-B, caput e seus §1º, 2º e 3º, 557, caput e seus §1º e 2º, todos do CPC/1973.
+Argumenta que não cabe ao Tribunal de origem rever decisões dos Tribunais Superiores, de modo que seria nula a decisão que determinou a devolução dos autos ao Supremo Tribunal Federal, por entender que o caso não se subsume ao Tema de Repercussão Geral n. 360.
+Afirma que há conteúdo decisório na decisão que devolveu os autos à Suprema Corte e prejuízo ao recorrente, que corre o risco de ver o seu recurso extraordinário ser julgado separadamente do recurso paradigma.
+São feitas ponderações ainda acerca da questão de fundo tratada no recurso extraordinário.
+Argumenta, por outro lado, ser incabível a condenação em multa, por entender que o agravo interno interposto na origem não configura recurso manifestamente infundado.
+Suscita dissídio jurisprudencial sobre o cabimento ou não de reclamação na hipótese tratada.
+Sem contrarrazões (e-STJ, fl. 588).
+Decido.
+As matérias referentes aos dispositivos tidos por contrariados, com exceção dos arts. 504 e557, §2º, do CPC/1973, não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse aspecto, confira-se o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+4. Agravo regimental não provido. (AgRg no AREsp n. 15.180/PR, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 10/5/2013).
+Na verdade, o Tribunal de origemfundamentou a inadmissibilidade do agravo regimental na natureza de despacho do primeiro ato judicial recorrido (e-STJ, fl. 472), e na interpretação dos arts. 102, I, "f", da Constituição Federal.
+Confira-se (e-STJ, fl. 515):
+5. Enfrentando em ordem inversa de formulação os argumentos recursais, se, como supõe o Estado recorrente, o despacho regimentalmente agravado "trata-se, em verdade, de decisão sem forma nem figura de juízo, teratológica, afrontosa e desrespeitosa com a decisão do C.STF, da lavra do EXMO. MINISTRO DIAS TOFFOLI, pois não compete ao Tribunal de origem rever as decisões dos Tribunais Superiores" (fl. 185),o remédio para seu afastamento do mundo jurídico não é o agravo regimental e, sim, o manejo do instituto da reclamação, de matiz constitucional por estar previsto no art. 102, inc. I, alínea da CF:
+ ..
+Por essa perspectiva, destarte, a interposição do agravo regimental consubstanciou, sim, a hipótese de erro grosseiro ou inescusável versada no § 2º do art. 255-A do RITJPE. A ensejar, então, o decreto de sua incognoscibilidade por atuação unipessoal do relator.
+Lado outro, pelo parâmetro legal de que se socorreu o agravante para esta iniciativa recursal, o art. 557 do CPC, é atentar para o disposto- de forma cogente - na primeira figura de seu caput, isto é, o "relator negará seguimento a recurso manifestamente inadmissível..".E, na espécie, desta feita na esteira do quanto se contém no art. 504 ainda do CPC, dos "despachos não cabe recurso". Dispositivo legal esse cuja inteligência, a despeito da clareza de sua literalidade, assim tem sido afirmada pela jurisprudência uniforme do STJ:
+ ..
+Desse modo, e conquanto sem adentrar no mérito do agravo regimental que não se encontra em julgamento, resta apenas evidenciar que o ato judicial regimentalmente atacado de fato tem a natureza de despacho de mero expediente, despido de conteúdo decisório.
+Com efeito, o ato judicial que apenas encaminhou o processo ao Supremo Tribunal Federal, por entender que o enquadramento jurídico ao tema de repercussão geral pela Suprema Corte não estaria correto, não possui natureza decisória, pois a análise definitiva da questão será realizada pela referida Corte, que poderá alterar ou manter o seu entendimento.
+Apenas a decisão que aplicar efetivamente atese jurídica ou estabelecer, de forma definitiva, a distinção possuirá carga decisória apta a ensejar o manejo de recurso.
+Nesse sentido, com adaptações:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.DECISÃO DE DEVOLUÇÃO DOS AUTOS À ORIGEM PARA AGUARDAR JULGAMENTO DE TEMA SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS. IMPUGNAÇÃO POR AGRAVO INTERNO. DESCABIMENTO. AGRAVO INTERNO NÃO CONHECIDO.
+1. O CPC/2015 prevê expressamente a via de insurgência para a parte demonstrar distinção entre o tema afetado e o seu caso (art. 1.037, § 9º).
+2. É descabido o manejo de agravo interno contra a decisão de sobrestamento ou devolução dos autos à origem para aplicação de regime de repetitivos ou repercussão geral. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no REsp 1868565/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe 30/11/2020)
+PROCESSUAL CIVIL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA REALIZAÇÃO DE NOVO JUÍZO DE ADMISSIBILIDADE EM CONFORMIDADE COM O DECIDIDO EM RECURSO ESPECIAL REPETITIVO OU EM RECURSO EXTRAORDINÁRIO SUBMETIDO À REPERCUSSÃO GERAL.
+I - Na origem, foi interposto agravo de instrumento pela União contra decisão que, em execução de título extrajudicial (acórdão do TCU), indeferiu o pedido de inclusão do executado no Serasa, considerando que a Fazenda Pública dispõe de meios e prerrogativas de fazê-lo, haja vista que já existe título líquido, certo e exigível. No Tribunal de origem, negou-se provimento ao agravo de instrumento. Interposto recurso especial. Nesta Corte, determinou-se a devolução dos autos à origem. Interposto agravo interno.
+II - A matéria deduzida no presente recurso especial, qual seja, possibilidade ou não de inscrição em cadastros de inadimplentes, por decisão judicial, do devedor que figura no polo passivo de execução fiscal, amolda-se àquela tratada no Tema n. 1.026/STJ (REsp n.1.814.310/RS; REsp n. 1.812.449/SC; REsp n. 1.807.923/SC; REsp n.1.807.180/PR; e REsp n. 1.809.010/RJ). Determinou-se a devolução dos autos ao Tribunal de origem para que seja realizado novo juízo de admissibilidade do recurso, considerando-se o decidido em recurso especial repetitivo e/ou submetido à repercussão geral. Foi interposto agravo interno contra essa decisão.
+III - Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017). No mesmo sentido: AgInt no AREsp n. 1.423.595/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2019, DJe 17/6/2019; AgInt no REsp n. 1.577.710/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/6/2019, DJe 7/6/2019.
+IV - Agravo interno não conhecido.
+(AgInt no REsp 1882192/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2020, DJe 18/11/2020)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.DESPACHO DE SOBRESTAMENTO DE RECURSO ESPECIAL. ART. 543-B, § 1º, DO CPC. ATO JUDICIAL SEM CARGA DECISÓRIA. PRECEDENTES DO STJ. AGRAVO INTERNO. NÃO CABIMENTO. ART. 504 DO CPC. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO.
+1. O despacho da presidência do Tribunal a quo que determina o sobrestamento do feito com supedâneo no § 1º dos art. 543-B ou 543-C do CPC não tem cunho decisório, pois nada decide sobre o juízo de admissibilidade ou de mérito do recurso excepcional interposto: Precedentes: AgRg no Ag 1.277.178/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 27/10/2010; AgRg no Ag 1.223.072/SP, Rel. Min.Humberto Martins, Segunda Turma, DJe 18/03/2010; AgRg no Ag 1.268.518/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 24/08/2011.
+2. O ato impugnado, portanto, tem natureza de despacho (art. 162, § 3º, do CPC), já que não decide nenhum incidente do processo, mas, apenas, dispõe sobre sua tramitação, e, por isso, não está sujeito a recurso, nos termos do art. 504 do CPC.
+3. O direito de o recorrente interpor o vindicado agravo interno está relacionado com o prejuízo decorrente de decisão que, por ocasião do julgamento de admissibilidade ou de mérito do recurso sobrestado (art. 543-B, § 3º, do CPC), vier a aplicar a tese sufragada com repercussão geral de forma equivocada no caso concreto (STF, QO no AI 760.358-7/SE, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 12/2/2010; STJ, QO no Ag 1.154.599/SP, Rel. Min. Cesar Asfor Rocha, Corte Especial, DJe 12/05/2011), o que ainda não ocorreu na espécie.
+4. Recurso ordinário não provido.
+(RMS 37.013/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/03/2012, DJe 23/03/2012)
+Portanto, não há qualquer ofensa ao art. 504 do CPC/1973.
+Não há, por outro lado, violação do art.557, §2º, do CPC/1973, pois o agravo interno foi manifestamente infundado, por ter sido interposto contra decisão(e-STJ, fls. 489-492) que estabeleceu a ausência de conteúdo decisório do ato judicial inicialmente impugnado (e-STJ, fls. 472-474).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DESPACHO DE MERO EXPEDIENTE. IRRECORRIBILIDADE. AGRAVO MANIFESTAMENTE INFUNDADO. MULTA IMPOSTA PELO TRIBUNAL DE ORIGEM.ART. 557, § 2º, DO CPC/1973. CABIMENTO.
+1. Constatada, na hipótese, a inexistência de qualquer conteúdo decisório no despacho de mero expediente proferido na instância de origem, o qual apenas determinou a manifestação da parte contrária a respeito de determinada peça de defesa, mostra-se cabível a multa de 10% (dez por cento) sobre o valor corrigido da causa imposta pelo Tribunal de origem - ex vi, art. 557, § 2º, do CPC/1973 -, ante a interposição de agravo legal manifestamente infundado.
+2. Agravo interno não provido.
+(AgInt no AREsp 1194456/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/03/2019, DJe 04/04/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com a preclusão da presente decisão, encaminhem-se os autos ao Supremo Tribunal Federal para que seja dado cumprimento ao ato judicial às e-STJ, fls. 472-474.
+Publique-se. Intimem-se.
