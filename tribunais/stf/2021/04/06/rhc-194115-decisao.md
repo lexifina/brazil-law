@@ -1,0 +1,27 @@
+Trata-se de recurso ordinário em habeas corpus interposto contra acórdão proferido pela Sexta Turma do Superior Tribunal Justiça – STJ, que negou provimento ao Agravo Regimental no HC 597.228/SC, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO. ENCCEJA. APROVAÇÃO NAS 5 ÁREAS DE CONHECIMENTO. ENSINO FUNDAMENTAL. 88 DIAS REMIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+    1. ‘O Juiz deverá considerar, segundo expressa previsão do art. 1°, IV, da Resolução n. 44/2013 do CNJ, ‘50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino [fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE]’’ (HC n. 420.682/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/5/2018, DJe 11/5/2018).
+    2. Na hipótese, tendo atingido o agravante aprovação nas 5 áreas de conhecimento do ENCCEJA no nível fundamental e considerando a base de cálculo aplicável ao caso – 66 dias, acrescidos de 22 dias pela integralização do nível de ensino referente –, não há nenhuma ilegalidade em razão da remição de pena calculada em 88 dias.
+    3. Agravo regimental desprovido”(pág. 39 do vol. 5).
+    Neste pretensão recursal, a defesa alega que “o art. 1°, IV, da Recomendação no 44/2013 do CNJ [dispõe] que a aprovação no exame nacional que certifica a conclusão do ensino fundamental – Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) –, equivale a 1.600 horas de estudo (50% da carga horária definida legalmente para o nível médio)” (pág. 49 do vol. 5).
+    Em seguida, afirma que,
+    “[...] levando-se em consideração que as 1.600 (mil e seiscentas) horas pela aprovação no ENCCEJA divididas por 12 (doze horas de estudo) equivalem à remição de 133 (cento e trinta e três) dias e, aplicando-se a regra contida no art. 126, § 5°, da LEP, segundo o qual há o acréscimo de 1/3 (um terço) dos dias remidos em caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, tem-se que a aprovação no ENCCEJA garante ao [recorrente] o registro de 177 dias remidos, sem que se excluam as remições anteriormente deferidas” (pág. 53 do vol. 5).
+    Ao final, formula os seguintes requerimentos:
+    “1) Seja conhecido, processado e provido o presente recurso e, quando de seu julgamento, seja reconhecida a remição de 177 dias, e não apenas 88 dias da pena do Paciente.
+    2) Requer a observância das prerrogativas da Defensoria Pública da União estabelecidas pela Lei Complementar 80/90, dentre outras a contagem em dobro de todos os prazos processuais, a intimação pessoal de todos os atos do processo e a desnecessidade de procuração. (artigo 44, inciso I);
+    3) Requer ainda a concessão dos benefícios da Justiça Gratuita, na forma do art. 4.º da Lei n.º 1.060/50, por ser o recorrente pessoa necessitada nos termos da referida Lei” (pág. 55 do vol. 5).
+    O Ministério Público do Estado de Santa Catarina e o Ministério Público Federal apresentaram contrarrazões (págs. 76-86 e págs. 88-92 do vol. 5, respectivamente).
+    A Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Cláudia Sampaio Marques, manifestou-se pelo não provimento do recurso (doc. eletrônico 8).
+    É o relatório. Decido.
+    A tese defensiva encontra respaldo na legislação de regência, pois, para o cálculo de dias remidos pelo estudo, a Recomendação 44, do Conselho Nacional de Justiça (CNJ), orienta-se pelos parâmetros previstos na Resolução 3/2010, do Conselho Nacional de Educação (CNE), a qual, todavia, deve ser conjugada com a carga horária prevista na Lei 9.394/1996, por tratar-se de interpretação mais benéfica ao apenado.
+    Esse é o novo entendimento da Segunda Turma do Supremo Tribunal Federal, fixado a partir do julgamento do HC 190.806-AgR/SC, de minha relatoria, assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO DE PENAS. APROVAÇÃO NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. BASE DE CÁLCULO. RESOLUÇÃO 3/2010 DO CONSELHO NACIONAL DE EDUCAÇÃO EM CONJUGAÇÃO COM A LEI 9.394/1996. INTERPRETAÇÃO MAIS BENÉFICA À AGRAVANTE. AGRAVO REGIMENTAL A QUE SE DÁ PROVIMENTO.
+    I – A tese defensiva encontra respaldo na legislação de regência, pois, para o cálculo de dias remidos pelo estudo, a Recomendação 44, do Conselho Nacional de Justiça (CNJ), orienta-se pelos parâmetros previstos na Resolução 3/2010, do Conselho Nacional de Educação (CNE), a qual, todavia, deve ser conjugada com a carga horária prevista na Lei 9.394/1996, por tratar-se de interpretação mais benéfica à recorrente.
+    II – Agravo regimental a que se dá provimento” (acórdão pendente de publicação).
+    Com efeito, concluo que o recorrente faz jus à remição decorrente da aprovação no ENCCEJA, aplicando-se o total de 1.600 horas de estudo. Esse total deve ser dividido por 12 horas, encontrando-se o resultado de 133 dias para a aprovação no ENCCEJA.
+    Em seguida, considerando o acréscimo de 1/3 decorrente da incidência do § 5º daquele mesmo art. 126 da LEP - pois o recorrente concluiu o ensino fundamental -, deve ele obter o direito ao desconto total de 177 dias de sua reprimenda.
+    Isso posto, dou provimento a este recurso ordinário em habeas corpus (art. 192, combinado com o art. 312, ambos do RISTF).
+    Publique-se.
+    Brasília, 6 de abril de 2021.
+Ministro Ricardo Lewandowski
+Relator
