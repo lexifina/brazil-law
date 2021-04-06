@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE.EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELAR. POSSIBILIDADE. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SILVIO DOS SANTOS ZAMBONIcontra a decisão monocráticaque indeferiu liminarmente o pedido de habeas corpus,conforme esta ementa(fl. 588):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE.DESCUMPRIMENTO DAS CONDIÇÕES DO REGIME ABERTO.REGRESSÃO CAUTELAR. POSSIBILIDADE. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Pretende o agravante, em síntese, a reforma da decisão objurgada, para que seja restabelecido o regime aberto até decisão final sobre o cometimento da falta grave. Argumenta que está se presumindo a culpabilidade do sentenciado sem que tenha se formado o devido processo legal e estabelecida a dialeticidade, o contraditório processual.
+Intimado eletronicamente, o Ministério Público do Estado de Santa Catarina apresentou resposta ao agravo regimental, sustentando que (fl. 621):
+A despeito da irresignação defensiva, o pronunciamento singular e o acórdão prolatado pela Corte de origem encontram amparo legal e na jurisprudência da Corte Superior, segundo a qual é plenamente admissível a regressão cautelar do regime prisional, em razão do descumprimento das condições impostas para o cumprimento da pena em regime aberto, a teor do disposto nos arts. 50, V, e 118, I, da LEP, rechaçando a tese de manifesta ilegalidade. Ademais, salientou que a apreciação aprofundada acerca do descumprimento das regras do regime aberto pelo Apenado demandaria o revolvimento fático-probatório, inviável pela via eleita.
+O  Ministério Público Federal manifestou-se, dizendo queo descumprimento das condições impostas para o cumprimento de pena no regime abertoconfigura, em tese, falta grave e ofende o princípio ressocializador da pena, de modo que inexiste constrangimento ilegal na regressão cautelar de regime prisional, especialmente, na espécie, em que o reeducando, por duas vezes,descumpriu a medida de recolhimento domiciliar noturno, sendo encontrado por volta das 5h, inclusive em um local frequentado por usuários de drogas(fls. 630/631).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE.EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELAR. POSSIBILIDADE. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto o agravante não conseguiu infirmaros fundamentos adotados na decisão de fls. 58/59, deste teor, a qual confirmo:
+Trata-se de habeas corpus ajuizado em nome de Silvio dos Santos Zamboni, em que a Defensoria Pública aponta a existência de constrangimento ilegal decorrente do julgamento, pelo Tribunal de Justiça de Santa Catarina, do Agravo em Execução n. 5016333-44.2020.8.24.0018, que manteve a regressão cautelar de regime em função do descumprimento das condições do regime aberto no PEC n. 0020018- 57.2014.8.24.0018, da 3ª Vara Criminal da comarca de Chapecó/SC. Eis a ementa do acórdão (fl. 82):
+RECURSO DE AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE DECRETA REGRESSÃO CAUTELAR DE REGIME. RECURSO DO APENADO. 1. PRÁTICA DE FALTA GRAVE. REGRESSÃO CAUTELAR. INTIMAÇÃO DA DEFESA E OITIVA DO APENADO. 2. DESCUMPRIMENTO DAS CONDIÇÕES DO REGIME ABERTO (LEP, ART. 50, V). FUMUS BONI JURIS E PERICULUM IN MORA.
+1. Praticada falta grave no curso da execução penal é cabível a imposição de regressão cautelar do regime de cumprimento da pena em decisão motivada, sendo desnecessária, para tanto, que antes seja feita a intimação da defesa para manifestação ou a realização de audiência para prévia oitiva do apenado.
+2. Estão presentes os requisitos autorizadores da regressão cautelar de regime quando o apenado descumpriu em duas oportunidades recentes uma das condições impostas para o regime aberto.
+RECURSO CONHECIDO E DESPROVIDO.
+A impetrante alega a ausência absoluta de fundamentação quanto à urgência da medida excepcional de regressão cautelar do paciente (fl. 7). Aduz que, considerando (a) a natureza da falta grave aparentemente cometida (dois descumprimentos das condições de permanecer em casa), (b) tratar-se de apenado condenado por crime comum (roubo), (c) estar o PACIENTE desde maio de 2019 em regime aberto sem nenhuma notícia de envolvimento em ilícitos criminais e (d) sobretudo o contexto de pandemia do Covid-19 atualmente enfrentado, a regressão cautelar revela-se desproporcional (fl. 11).
+Pede o imediato restabelecimento da liberdade ao paciente e, ao final, requer seja reconhecida a ilegalidade do acórdão para cassar a ordem de regressão cautelar do PACIENTE, que deverá ser posto em liberdade e assim permanecer até sua apresentação ao Juízo, a fim de ser ouvido sobre os motivos do descumprimento das condições do regime aberto (fl. 15).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Pelo que consta do acórdão impugnado (fls. 82/88), o Tribunal estadual, ao manter a regressão cautelar do paciente, adotou entendimento que encontra amparo na firme jurisprudência do Superior Tribunal de Justiça.
+Com efeito, aqui há a compreensão de que o descumprimento, no regime aberto, de condição imposta, porque falta grave, autoriza a regressão de regime prisional (arts. 50, V, e 118 da LEP). E não há nenhuma ilegalidade na regressão cautelar de regime de cumprimento de pena prisional, equivalente à suspensão cautelar do regime favorecido, decretada para efeito de processamento da eventual regressão.
+Sobre o tema, por exemplo, estes precedentes:  ..
+Ademais, o exame dos motivos pelos quais o paciente teria descumprido as regras a ele impostas demanda revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+Pelo exposto, à míngua de manifesta ilegalidade, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Bom, é uníssono o entendimento desta Casa a respeito do tema. Além dos precedentes citados na decisão agravada, confiram-se estes, mencionados pelo Subprocurador-Geral da República Mario Luiz Bonsaglia:HC 380.077/PR, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/10/2017, DJe 06/11/2017; eAgRg no REsp 1319785/RJ, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma,julgado em 05/03/2015, DJe 12/03/2015.
+Afora isso, para se chegar à conclusão pretendida pelo agravante, no sentido de que estava ausente o periculum in mora, seria indispensável a análise aprofundada de fatos e de provas, providência que não tem espaço na via eleita.
+Ante o exposto, nego provimento ao agravo regimental.
