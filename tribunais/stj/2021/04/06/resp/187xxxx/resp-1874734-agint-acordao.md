@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.021, § 1º, DO CPC E DA SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MANIFESTO CONSTRUÇÕES E INCORPORAÇÕES S/A contra decisão de fls. 415-420, que negou provimento ao seu recurso especial, sob os seguintes fundamentos: I) ausência de violação aos arts. 489 e 1.022, do Código de Processo Civil/2015; II) intempestividade da impugnação ao cumprimento de sentença; III) incidência da Súmula 7/STJ quanto aos requisitos para a substituição da penhora; IV) incidência da Súmula 83/STJ, "no sentido de que a apresentação, pelo devedor, de uma nova petição, nos autos do cumprimento de sentença, para questionar matéria que deveria ter sido arguída na primeira peça de impugnação conduz ao reconhecimento da preclusão para a prática do ato".
+Nas razões do presente recurso, a recorrente sustenta apenas que não incide o óbice da Súmula 7/STJ no caso concreto.
+Sem contraminuta.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.021, § 1º, DO CPC E DA SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O presente recurso não merece prosperar.
+Com efeito, a decisão agravada negou provimento ao recurso especial sob os seguintes fundamentos: I) ausência de violação aos arts. 489 e 1.022, do Código de Processo Civil/2015; II) intempestividade da impugnação ao cumprimento de sentença; III) incidência da Súmula 7/STJ quanto aos requisitos para a substituição da penhora; IV) incidência da Súmula 83/STJ, "no sentido de que a apresentação, pelo devedor, de uma nova petição, nos autos do cumprimento de sentença, para questionar matéria que deveria ter sido arguída na primeira peça de impugnação conduz ao reconhecimento da preclusão para a prática do ato".
+No presente agravo, a parte recorrente limita-se a impugnar o óbice da Súmula 7/STJ.
+Dessa forma, incide na espécie o óbice da Súmula 182/STJ. Nesse sentido:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL QUE NÃO SE CONHECE.
+1. Do cotejo entre a decisão agravada e as razões do agravo regimental verifica-se que a insurgência esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica dos fundamentos adotados para o não conhecimento dos embargos de divergência.
+2. No caso posto, enquanto a decisão que indeferiu liminarmente os embargos de divergência, o fez com fundamento na intempestividade da interposição do referido recurso e na incidência da Súmula n. 315 do STJ, no agravo regimental, a defesa, após fazer alusão aos recursos anteriores, impugnou apenas a aplicação do referido enunciado ao caso em comento, deixando de se insurgir, de forma específica, contra o reconhecimento da intempestividade no decisum ora combatido.
+3. A parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção. Incide à hipótese, por analogia, a Súmula n. 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 4. Na mesma linha de entendimento estabelecida no art. 932, inciso III, do Código de Processo Civil de 2015, o Regimento Interno do Superior Tribunal de Justiça prevê, em seu art. 253, inciso I, que não se deve conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+5. Agravo regimental não conhecido.
+(AgRg nos EDv nos EAREsp 1226428/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 26/5/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+ ..  4. Assim, da análise da presente insurgência conclui-se que a parte interessada não impugnou especificamente todos os fundamentos da decisão recorrida, o que atrai o disposto no art. 932, III, CPC de 2015, no art. 253, parágrafo único, I, do RISTJ e na Súmula 182 do STJ, aplicável por analogia.
+5. Consoante a jurisprudência do STJ, "se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, tanto o art. 544, § 4º, I, do CPC/73 quanto o art. 932, III, do CPC/2015 determinam a necessidade de impugnação específica dos fundamentos da decisão de inadmissibilidade do Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais. Isso porque, admitindo-se que a não impugnação específica de um dos pontos pudesse ensejar o conhecimento dos demais controvertidos, incorrer-se-ia no julgamento, posteriormente, no Recurso Especial, de questão contra a qual não houve irresignação (preclusa, portanto). Ou seja, a questão não impugnada, como por exemplo a ausência de violação ao art. 535 do CPC/73, voltaria a ser objeto de análise, quando do enfrentamento Recurso Especial, porque o Agravo ultrapassou o juízo prévio de admissibilidade. Não se olvida que, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina sobre o tema" (AREsp 1.337.254/RJ, Rel. Min. Assusete Magalhães, DJe de 29/8/2018).
+6. Na sessão de 19.9.2018, ao julgar os EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que ela incide para não conhecer de todo o recurso nas hipóteses em que o recorrente ataca apenas parte da decisão recorrida, ainda que a parte controvertida seja capítulo autônomo em relação à parte não impugnada.
+7. Portanto, não se conhece do Agravo que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade. É o que dispõem o art. 253, I, do RISTJ e o art.
+932, III, do CPC/2015.
+8. Agravo Interno não conhecido.
+(AgInt nos EDv na Pet 12.923/MG, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 4/6/2020).
+Em face do exposto, não conheço do agravo interno.
+É como voto.
