@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porLAILSON CAMPOS SOUZA contra acórdão do Tribunal de Justiça do Estado da Bahia proferido no HC n. 8030954-77.2020.8.05.0000.
+Consta dos autos que a prisão do Recorrente foi decretada, após representação da Autoridade Policial, em 11/02/2020.
+O Paciente foi denunciado pela prática, em tese, do crime previsto no art. 121, § 2.º, incisos I e IV, c.c. o art. 14, inciso II, do Código Penal, na forma do art. 71, parágrafo único, do mesmo diploma legal.
+Irresignada com a segregação cautelar, a Defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu daordem.
+Nas razões recursais,a Defesa alega que o Recorrente está custodiado há mais de 9 (nove) meses, sem apreciação da medida cautelar a cada período de 90 (noventa) dias conforme previsão do art. 316 do Código de Processo Penal.
+Sustenta que não há falar em relaxamento de prisão por excesso de prazo, mas por ilegalidade quanto àinobservância do Juízo de origem à nova redação do art. 316, § único, do referido Código.
+Requer, em liminar e no mérito, seja "dado o recebimento e provimento ao presente recurso, cassando o acórdão recorrido, bem como as decisões de primeiro grau e do Tribunal local que negaram o Writ, e ao fim seja concedida a ordem de Habeas Corpus impetrada para decretar o relaxamento da prisão que se tornou ilegal por inobservância do juiz de piso do art. 316, § único do CPP da Lei do Anticrime ou que subsidiariamente seja revogação da prisão preventiva do Recorrente, diante das ilegalidades que o viciam e que foram expostas na inicial do writ, expedindo-se o competente alvará de soltura, por ser medida de inteira justiça" (fl. 143).
+É o relatório inicial.Decido o pedido urgente.
+Não se constata, de maneira inequívoca, a plausibilidade do direito alegado, o que afasta a possibilidade de concessão da medida urgente pleiteada.
+Com efeito, conforme o entendimento desta Corte Superior - inclusive invocado pelo Tribunal a quo (fl. 129) -, o prazo para a revisão da segregação cautelar previsto no art. 316, parágrafo único, do Código de Processo Penal " ..  não se trata de termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no HC 577.645/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/06/2020, sem grifos no original).
+Dessa forma, caso o Juízo de primeiro grau esteja atrasado no cumprimento dadeterminação legal de revisar a necessidade da manutenção da prisão cautelar do Recorrente, não se pode afirmar, de imediato e nesta análise perfunctória, que tal prisão se tornou automaticamente ilegal.
+Assim, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável neste juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, INDEFIRO o pedido liminar.
+Requisitem-se informações pormenorizadas ao Juízo de primeiro grau, notadamente para que preste esclarecimentos sobre a prisão processual imposta ao Recorrente quanto ao cumprimento do que determina o art. 316, parágrafo único, do Código de Processo Penal.
+Após, dê-se vista ao Ministério Público Federal para o parecer.
+Publique-se. Intimem-se.
