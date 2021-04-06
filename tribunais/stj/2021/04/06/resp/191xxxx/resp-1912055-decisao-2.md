@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA GERAL DE MELHORAMENTOS EM PERNAMBUCO - EM RECUPERAÇÃO JUDICIAL e outros, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 591/592):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO PARA DIRETORES (ART. 135, III, DO CTN). IMPOSSIBILIDADE NO CASO CONCRETO. ALEGAÇÃO DE APROPRIAÇÃO INDÉBITA. INFRAÇÃO À LEI NÃO COMPROVADA.
+1. Agravo de instrumento interposto pela Fazenda Nacional contra decisão que indeferiu o pedido de redirecionamento da execução fiscal aos diretores da empresa devedora, ante a ausência de comprovação de ato de infração à lei.
+2. O STJ, no julgamento do REsp 1.101.728/SP (Tema 97), submetido à sistemática dos recursos repetitivos, firmou tese jurídica no sentido de que " a simples falta de pagamento do tributo não configura, por si só, nem em tese, circunstância que acarreta a responsabilidade subsidiária do sócio, prevista no art. 135 do CTN. É indispensável, para tanto, que tenha agido com excesso de poderes ou ".infração à lei, ao contrato social ou ao estatuto da empresa
+3. No caso concreto, a exequente não trouxe aos autos elementos que autorizem a responsabilização dos sócios indicados, uma vez que o não repasse dos valores retidos a título de Imposto de Renda e Contribuição Social, por si só, não implica na responsabilidade prevista no art. 135 do CTN.
+4. Ao menos por agora, inexiste nos autos prova de que efetivamente os valores dos tributos cobrados frequentaram o mundo real, na disponibilidade da empresa ou dos sócios, e não apenas o contábil.
+5. " A apropriação indébita não pode ser uma consequência automática, devendo haver elementos probatórios que, de fato, corroborem a possível prática do delito, não bastando a tipicidade em tese da conduta para que se proceda à inclusão de sócios ou administradores da pessoa jurídica no polo passivo do executivo fiscal" (Processo 0811865-15.2017.4.05.0000 - Agravo de instrumento, Relator: Desembargador Federal Rogério de Meneses Fialho Moreira - 3ª Turma, julgado em 21/06/2018).
+6. Agravo de instrumento improvido
+Embargos de declaração rejeitados.
+A parte recorrente alega, preliminarmente, violação do art. 1.022, II, do CPC/2015, sob o fundamento de que o acórdão recorrido não teria analisado questões essenciais ao deslinde da controvérsia.
+No mérito, aponta violação do art. 85 do CPC/2015. Sustenta, em síntese, o cabimento da verba honorária contra a Fazenda, uma vez que houve a exclusão dos recorrentes do polo passivo da ação.
+Com contrarrazões (fls. 743/750).
+Juízo positivo de admissibilidade do recurso às fls. 790/791.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do art. 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, o Tribunal de origem, ao indeferir o pedido de condenação da Fazenda ao pagamento dos honorários de sucumbência, pontuou o seguinte (fl. 666):
+Demais disso, não configura omissão a ausência de condenação da Fazenda Nacional em honorários advocatícios neste agravo de instrumento. Afinal, não houve, na presente demanda, exclusão do sócio da execução fiscal a por fim a lide quanto aos supostos corresponsáveis. Em verdade, nos autos da execução fiscal, o Juiz do 1º grau indeferiu o pedido de redirecionamento formulado pela exequente e os particulares não recorreram da decisão pleiteando condenação em honorários advocatícios.
+Com efeito, observa-se que o acórdão recorrido entendeu não ser cabível a condenação do ente público em honorários, por não ter havido a exclusão do sócio da execução fiscal, considerando que o pedido de redirecionamento feito pela Fazenda foi indeferido, bem como por não ter havidoqualquer recurso dos particulares pleiteando a condenação em honorários. Assim, para rever tal conclusão, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO NA ESPÉCIE. CONCLUSÃO DO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
