@@ -1,0 +1,33 @@
+DECISÃO
+CARLOS FELIPE DOS SANTOS MARIANO alega sofrer constrangimento ilegal em decorrência do acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2243832-70.2020.8.26.0000).
+Nesta Corte, sustenta a defesa a incompatibilidade entre a prisão preventiva e o regime semiaberto, imposto ao ora paciente pelo Magistrado de primeiro grau.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ao réu.
+Decido.
+Expõem os autos que o acusado foi preso em flagrante, pela suposta prática do crime de tráfico de drogas, em 10/4/2020. No dia seguinte, o flagrante foi convertido em custódia preventiva (Processo n. 1508063-37.2020.8.26.0228 - fls. 18-20).
+Nos autos do HC n. 609.496/SP, impetrado neste Superior Tribunal, deferiu-se o pleito liminar, em favor do ora paciente, para substituir a segregação provisória por outras cautelares previstas no art. 319 do Código de Processo Penal(DJe 2/9/2020). Ao final, concedeu-se a ordem, com a ratificação do decisum que deferiu a postulação urgente (DJe 14/10/2020).
+Sobreveio sentença condenatória, na Ação Penal n. 1508063-37.2020.8.26.0228, que aplicou ao réu a pena de 4 anos e 2 meses de reclusão, a serem cumpridos inicialmente no regime semiaberto, e o pagamento de multa (fls. 34-38). Quanto ao apelo em liberdade, assim concluiu o Juízo singular (fls. 35; 37-38, destaquei):
+O réu foi solto em razão de concessão de liminar em sede de Habeas Corpus e, intimado para comparecer em audiência de instrução(fls. 174),não compareceu e foi declarado revel, nesta data.
+ ..
+É o caso, ainda, de se decretar, novamente a prisão do acusado, nos exatos termos requeridos pelo Ministério Público, já que o acusado descumpriu as medidas que lhe foram impostas quando de sua soltura e devidamente intimado (fls. 174) não compareceu a este ato e sequer foi ouvido para esclarecer os fatos que lhes foram imputados. Assim sendo, decreto sua prisão preventiva, por estarem presentes os requisitos autorizadores previstos no art. 282, § 4º, do CPP. Como se sabe o crime de tráfico é o que sustenta inúmeras facções criminosas que com o dinheiro arrecado pela venda de drogas adquirem armamento de alto calibre e praticam diversos outros delitos colocando em risco toda a sociedade. Expeça-se mandado de prisão preventiva com urgência. Com eventual prisão, expeça-se guia provisória para início de cumprimento de pena. Após o trânsito em julgado, expeça-se guia definitiva e elabore-se o cálculo da pena da multa imposta ao réu.
+Irresignada, impetrou a defesa o HC n. 2243832-70.2020.8.26.0000 em favor do sentenciado. O mandamus foi denegado pela Corte estadual (fls. 39-43).
+No presentewrit, a Presidência deste Tribunal Superior rejeitou o pedido liminar (fls. 46-47).
+Prestadas as informações (fls. 56-70), opinou o Ministério Público Federal pela concessão da ordem (fls. 74-75).
+Feitos esses registros, passo ao exame das pretensões defensivas.
+Como se vê, condenou-se o acusado, em primeira instância, pela prática do crime tipificado art. 33, caput, da Lei n.11.343/2006, à satisfação de 4 anos e 2 meses de reclusão, a se iniciarem no modo intermediário.
+Em consulta ao sítio eletrônico da Corte paulista, verificou o gabinete que a Apelação n. 1508063-37.2020.8.26.0228, distribuída à 14ª Câmara de Direito Criminal, ainda não foi apreciada.
+Decerto, as circunstâncias mencionadas pelos Juízos de origem revelam a necessidade de algum acautelamento da ordem pública, dado o descumprimento de uma das providências impostas ao réu, em substituição à medida pessoal mais onerosa - oque, aliás, provocou a decretação da sua revelia (fls. 25-31; 59).
+Sem embargo, entendo que tal fato não dá ensejo à manutenção do paciente sob o rigor do regime prisional mais oneroso, em inobservância aos termos do julgado de primeiro grau.
+A despeito de conciliáveis a negativa de recorrer em liberdade e o modo semiaberto de execução da pena, concluo que se faz mister a compatibilização do cárcere preventivo ao regime intermediário, sob pena de se impor ao acusado forma de cumprimento da sanção mais severa do que a cabível em razão da reprimenda aplicada e estabelecida na sentença, em verdadeira coação ilegal.
+Nesses termos, confiram-se estes precedentes das Turmas que compõem a Terceira Seção deste Superior Tribunal:
+ ..  4. Não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal, como ocorre in casu. Entretanto, faz-se necessário compatibilizar a manutenção da custódia cautelar com o regime inicial determinado na sentença condenatória, sob pena de estar impondo ao condenado modo de execução mais gravoso tão somente pelo fato de ter optado pela interposição de recurso, em flagrante ofensa ao princípio da razoabilidade.
+5. Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para determinar que o paciente aguarde o julgamento de eventual recurso em estabelecimento adequado ao regime fixado na condenação.
+(HC n. 504.409/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/6/2019, grifei.)
+ ..  5. No entanto, fixado o regime inicial semiaberto para o cumprimento de pena, faz-se necessária a compatibilização da custódia cautelar com o modo de execução fixado na sentença condenatória.
+6. Habeas corpus denegado. Ordem concedida de ofício, apenas para determinar que o paciente aguarde o julgamento da apelação em estabelecimento adequado ao regime semiaberto, fixado na sentença, nos termos do parecer do Ministério Público Federal.
+(HC n. 502.222/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2019, destaquei.)
+A esse propósito, transcrevo excerto da manifestação do Parquet Federal, in verbis (fls. 74-75, grifei):
+3. Como o paciente não cumpriu com as medidas cautelares diversas da prisão anteriormente decretadas, impõe-se sua segregação como forma de assegurar a aplicação da lei penal.
+4. Logo, pela concessão da ordem tão somente para que aguarde em estabelecimento prisional compatível com o regime semiaberto, inicialmente fixado na sentença condenatória, o trânsito em julgado.
+À vista do exposto, diante do tempo de constrição preventiva e do regime de satisfação da pena aplicado ao réu, acolho o parecer ministerial e concedo a ordem, para determinar a remoção do paciente a estabelecimento adequado ao regime semiaberto de cumprimento da sanção ou, na ausência de vagas, à prisão domiciliar, mediante monitoramento eletrônico, se por outro motivo não estiver custodiado em regime diverso.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
