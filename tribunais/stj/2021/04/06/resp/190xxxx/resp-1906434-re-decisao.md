@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por ROSELI GONCALVES RIBEIRO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelo eminente Ministro Reynaldo Soares da Fonseca, nos seguintes termos (e-STJ fls. 697/698):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática que conheceu parcialmente e, nessa extensão, deu provimento parcial ao recurso especial da envolvida, para redimensionar sua pena para 3 anos de reclusão e 30 dias-multa, mantidos os demais termos da condenação. (e- STJ fls. 665/670).
+Em seu agravo regimental (e-STJ fls. 674/680), a parte recorrente alega que a acusada possui maus antecedentes, uma vez que o processo nº 0020982- 16.2005.8.21.0029 (029/2.05.0002098-4), conforme a certidão de e-STJ fl. 419, trata de crime cometido em 15.10.2004 (antes do crime dos autos), com trânsito em julgado em 10.11.2014.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+A jurisprudência desta Corte Superior de Justiça possui entendimento no sentido de que a condenação por crime anterior à prática delitiva, com trânsito em julgado posterior à data do crime sob apuração, malgrado não configure reincidência, enseja a valoração negativa da circunstância judicial dos antecedentes, justificando a exasperação da pena-base (HC 462.100/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/09/2018, DJe 02/10/2018). Precedentes: AgRg no HC 607.497/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/09/2020, DJe 30/09/2020; AgRg no HC 581.201/SP, Rel. Ministro SEBASTIÃOREIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020; AgRg no REsp 1840109/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/11/2019, DJe 03/12/2019.
+Assim, a condenação por fato anterior ao apurado na presente ação penal, ainda que com trânsito em julgado posterior, serve para fundamentar a exasperação da pena-base como maus antecedentes, como nos autos do processo nº 0020982- 16.2005.8.21.0029 (e-STJ fl. 419).
+Dessa forma, reconhecidos os maus antecedentes, passo a refazer a dosimetria da pena..
+Na primeira fase, em razão da negativação de circunstâncias judiciais negativas (maus antecedentes, culpabilidade, circunstâncias e consequências do crime), aumenta-se a pena-base em 2/3, ficando em 1 ano e 8 meses de reclusão e 16 dias-multa.
+Na segunda fase, havendo a multirreincidência (08 condenações definitivas por crimes da mesma espécie - e-STJ fls. 523), majora-se a pena em 1 ano e 6 meses, ficando em 3 anos e 2 meses de reclusão e 31 dias-multa, que torna-se definitiva, em face da ausência de causas de aumento e/ou diminuição.
+Ante o exposto, dou provimento ao agravo regimental para reconhecer os maus antecedentes redimensionando a pena da agravada para 3 anos e 2 meses de reclusão e 31 dias-multa, mantidos os demais termos da condenação.
+Sustenta arecorrente a repercussão geral da matéria tratada, aduzindoque a decisão impugnada violaria os arts. 5º, inciso LVII, e 93, inciso IX, da Constituição Federal.
+Alega que a dosimetria efetuada no julgado recorrido careceria de fundamentação idônea.
+Considera que os argumentos utilizados para a majoração de suapena-base seriam incompatíveis com o Estado Democrático de Direito.
+Pondera que "o entendimento exarado - no sentido de considerar como maus antecedentes a existência de sentença condenatória nos autos do processo nº 0020982- 16.2005.8.21.0029 (029/2.05.0002098-4), crime cometido em 15.10.2004(antes do crime dos autos), com trânsito em julgado em 10.11.2014, conduz à contrariedade e negativa de vigência do princípio da presunção de inocência, insculpido no artigo 5º, inciso LVII, da Constituição Federal".
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 749/753 e 756/759.
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto em face de decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo regimental.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
