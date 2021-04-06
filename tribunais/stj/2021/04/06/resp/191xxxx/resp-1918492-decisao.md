@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO MONOCRÁTICA DO RELATOR RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. AUSÊNCIA DE PEÇAS OBRIGATÓRIAS. RECURSO NÃO CONHECIDO. CPC, ART. 1.017,1. AUTOS DE ORIGEM ELETRÔNICOS. TRAMITAÇÃO EM SISTEMA PROCESSUAL DIVERSO. PRECEDENTE. INTIMAÇÃO DO RECORRENTE. NÃO APLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVID0.1.
+Consoante entendimento jurisprudencial dominante, os embargos de declaração opostos contra decisão proferida pelo Relator, objetivando sua reforma, com caráter infringente, devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursa1.2. "Não dispondo o Tribunal dos meios formais necessários à consulta dos autos eletrônicos na origem, não há outra alternativa a não ser condicionar o conhecimento do agravo de instrumento à juntada das peças de caráter obrigatório." Precedente.3. Não é razoável impor ao Poder Judiciário o ônus de intimar o recorrente para a devida instrução processual com a determinação da juntada de peças que já se sabe serem indispensáveis à análise do recurso.4. Agravo regimental não provido.
+A recorrente, preliminarmente, aponta violação do art. 1.022, II, do CPC/2015, ao argumento de que a Corte Regional não se manifestou sobre pontos atacados nos embargos de declaração.
+Sustenta afronta aos arts. 4º, 489, 490 e 797 do CPC/2015 alegando que a utilização do sistema INFOJUD não está condicionada ao esgotamento de diligências.
+Sem contrarrazões.
+Juízo positivo de admissibilidade (fls. 60/61).
+É o relatório. Decido.
+De início, não se conhece do recurso quanto ao art. 1.022 do CPC/2015, em razão da não oposição de embargos de declaração na origem após a prolação do acórdão que julgou como agravo regimental o recurso de embargos então opostos com caráter infringente buscando a reforma da decisão monocrática (fl. 40).
+No mérito, verifica-se que o acórdão tão somente se manifesta quanto à ausência de juntada de todas as peças obrigatórias àpetição inicial e sua necessidade no presente caso (fls. 41/42):
+Trata-se de embargos de declaração opostos pela Agência Nacional de Transportes Terrestres - ANTT contra decisão que não conheceu do agravo de instrumento, nos termos do art. 932, III, do CPC, em face da ausência de juntada de todas as peças obrigatórias à petição inicial, a teor do disposto no art. 1.017, I, do CPC, haja vista que o processo de origem, a despeito de ser eletrônico, não tramita por meio do Sistema Judicial Eletrônico - PJE da Justiça Federal da lg Região.
+Sustenta a possibilidade de verificação das peças obrigatórias diretamente no processo de origem, que tramita no sistema processual EPROC, o que se coaduna com o disposto no art. 1.017, § 5º, do CPC, que dispensa a juntada de qualquer documento constante do processo originário quando este for eletrônico, razão pela qual deixou de anexar as aludidas peças.
+ ..
+Ademais, cabe registrar que os sistemas processuais eletrônicos utilizados por este Tribunal não se comunicam, o que obsta a consulta aos autos eletrônicos de origem, fazendo-se, por tal razão, necessária a juntada das peças obrigatórias pelo recorrente, como explicitado na decisão em debate.
+É nesse sentido o entendimento do Superior Tribunal de Justiça acerca da questão:
+ ..
+Assim, não merece reforma a decisão que não conheceu do agravo de instrumento nos termos do art. 1.017, I, do CPC, não sendo razoável impor ao Poder Judiciário o ônus de intimar o recorrente para a devida instrução processual com a determinação da juntada de peças que já se sabe serem indispensáveis à análise do recurso.
+Desse modo, considerando que as razões do regimental não infirmam a fundamentação da decisão agravada, impõe-se a negativa de provimento ao recurso.
+Com efeito, além de a recorrente apresentar razões dissociadas e não impugnar os fundamentos adotados no acórdão recorrido, é certo que não houve juízo de valor pelo Tribunal a quo quanto aos artigos legais apontados violados e teses vinculadas. Assim, por fundamentação recursal deficiente e falta de impugnação específica, aplicam-se os óbices das Súmulas 284 e 283 do STF; pela falta de cumprimento do requisito do prequestionamento, incidem as Súmulas 282 e 356 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRELIMINAR NÃO CONHECIDA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
