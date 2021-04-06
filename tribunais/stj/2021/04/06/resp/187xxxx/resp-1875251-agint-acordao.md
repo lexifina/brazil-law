@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A tese ora analisada não foi apreciada pelo Tribunal de origem, o qual apenas se manifestou sobre a aplicação do art. 85, § 8º, do CPC/2015, nada dizendo acerca dos dispositivos apontados pela entidade, que não opôs Embargos de Declaração prévios para tanto, o que culmina na ausência do prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+2. É indispensável também a efetiva emissão de juízo de valor sobre a matéria. No caso em apreço, o Tribunal não explanou as razões por que teria deixado de aplicar os §§ 2º, 3º, 4º e 6º do art. 85 do CPC/2015, sendo evidente que cabia a parte questionar isso na origem, providência essa que não tomou.
+3. Descabe considerar a existência de prequestionamento ficto, pois inexiste alegação de omissão voltada contra o acórdão vergastado. Assim, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática que não conheceu do Recurso Especial (fls. 570-579, e-STJ).
+A agravante requer a reforma da decisão anterior (fls. 583-590, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A tese ora analisada não foi apreciada pelo Tribunal de origem, o qual apenas se manifestou sobre a aplicação do art. 85, § 8º, do CPC/2015, nada dizendo acerca dos dispositivos apontados pela entidade, que não opôs Embargos de Declaração prévios para tanto, o que culmina na ausência do prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+2. É indispensável também a efetiva emissão de juízo de valor sobre a matéria. No caso em apreço, o Tribunal não explanou as razões por que teria deixado de aplicar os §§ 2º, 3º, 4º e 6º do art. 85 do CPC/2015, sendo evidente que cabia a parte questionar isso na origem, providência essa que não tomou.
+3. Descabe considerar a existência de prequestionamento ficto, pois inexiste alegação de omissão voltada contra o acórdão vergastado. Assim, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram ao Gabinete em 5.3.2021.
+O Agravo Interno não procede, eis que a parte tão somente reitera argumentos já analisados.
+Como dito anteriormente, do Recurso Especial não se pode conhecer.
+A tese ora analisada não foi apreciada pelo Tribunal de origem, o qual apenas se manifestou sobre a aplicação do art. 85, § 8º, do CPC/2015, nada dizendo acerca dos dispositivos apontados pela entidade, que não opôs Embargos de Declaração prévios para tanto, o que culmina na ausência do prequestionamento, conforme as Súmulas 211/STJ e 282/STF.
+É indispensável também a efetiva emissão de juízo de valor sobre a matéria. No caso em apreço, o Tribunal não explanou as razões por que teria deixado de aplicar os §§ 2º, 3º, 4º e 6º do art. 85 do CPC/2015, sendo evidente que cabia a parte questionar isso na origem, providência essa que não realizou.
+De igual modo, descabe considerar a existência de prequestionamento ficto, pois inexiste alegação de omissão voltada contra o acórdão vergastado. Assim, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei." (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+Cito precedentes, com grifos acrescidos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DEVER DE INDENIZAR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+(..)
+4. A despeito de ter sido provocada via embargos de declaração, a Corte a quo não emitiu juízo de valor sobre a necessidade da uniformização da questão de fundo, circunstância que atrai a incidência da Súmula 211 do STJ, uma vez que não alegada a violação do art. 535 do CPC/1973.
+5. Agravo interno desprovido. (AgInt no AREsp 301.955/CE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 1.3.2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO A EX-SÓCIO. SOCIEDADE ANÔNIMA. TRANSFERÊNCIA DE AÇÕES NOMINATIVAS. OFENSA AO ART. 31 DA LEI 6.404/76. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. APLICAÇÃO, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+IV. Não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 535 do CPC/73 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+(..) (STJ, AgInt no REsp 1.505.441/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 02/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+Por derradeiro, convém advertir que ajuizar novo recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas prescritas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
