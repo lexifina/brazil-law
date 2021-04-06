@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LURDES HELENA SANTOS DO AMARAL, fundamentado naalínea"c" do permissivo constitucional.
+Recurso especial interposto em: 30/11/2020.
+Concluso ao gabinete em: 26/03/2021.
+Ação: cominatória cumulada com compensação por danos morais, ajuizada pela recorrente, em face de UNIMED PELOTAS/RS COOPERATIVA DE ASSISTENCIA A SAUDE LTDA, em razão de negativa de custeio decirurgia plástica em paciente pós-cirurgia bariátrica.
+Sentença: julgou parcialmente procedente o pedido assegurar o direito da parte autora de realizar tratamento cirúrgico não estético de correção de lipodistrofia braquial, crural ou trocanteriana (TUSS nº 30101190) e correção de hipertrofia mamária - unilateral (TUSS n.º 30602122) com implantes mamários, nos exatos termos da prescrição médica. Negou o pedido de compensação por danos morais.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. DEVER DECOBERTURA DE CIRURGIA PÓS-BARIÁTRICA (REPARADORA). CORREÇÃO DE LIPODISTROFIA BRAQUIAL, CRURAL OUTROCANTERIANA E CORREÇÃO DE HIPERTROFIA MAMÁRIA UNILATERAL. PRETENSÃO RECURSAL QUE SE RESTRINGE À CONDENAÇÃO DA OPERADORA RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS EM RAZÃO DE RECUSA INDEVIDA DE COBERTURA. DANOS MORAIS INOCORRENTES. AUSÊNCIA DE AFRONTA A DIREITOS DA PERSONALIDADE.
+1. CINGE-SE A PRETENSÃO RECURSAL À CONDENAÇÃO DA OPERADORA RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS EM RAZÃO DE RECUSA INDEVIDA DE COBERTURA DE CIRURGIAS PÓS-BARIÁTRICA, QUAIS SEJAM, CORREÇÃO DELIPODISTROFIA BRAQUIAL, CRURAL OU TROCANTERIANA E DE HIPERTROFIA MAMÁRIA UNILATERAL.
+2. INOCORRENTE O DANO EXTRAPATRIMONIAL, EIS QUE O DESCUMPRIMENTO CONTRATUAL, POR SI SÓ, NÃO DÁ ENSEJO ÀINDENIZAÇÃO POR DANOS MORAIS, NÃO RESTANDO COMPROVADA EXCEPCIONALIDADE NO SENTIDO DE QUE OS DIREITOS DA PERSONALIDADE DA PARTE AUTORA TENHAM SIDO AFRONTADOS.
+3. HONORÁRIOS SUCUMBENCIAIS DEVIDOS PELA PARTE AUTORA MAJORADOS, EM ATENÇÃO AO PRECONIZADO PELO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL.
+APELAÇÃO DESPROVIDA. (e-STJ, fls. 272)
+Recurso especial: alega dissídio jurisprudencial quanto aos arts. 14, 47 e 51 da Lei 8.078/90 e 186 do CC. Aduz a configuração do dano moral na hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do julgamento: CPC/15.
+- Do dano moral
+Consoante se infere do acórdão recorrido, a negativa de cobertura do procedimento médico foi justificada pela interpretação - equivocada, mas razoável - do art. 10, II e IV,da Lei 9.656/1998.
+Nesse contexto, verifica-se que, na espécie, a atuação da operadora está revestida de aparente legalidade - porquanto só em juízo, a partir da interpretação daquele ato normativo da agência reguladora à luz do CC edo CDC, foi vedada a possibilidade de negativa de cobertura do tratamento prescrito (cirurgiaplásticaem paciente pós-cirurgiabariátrica) -, a possibilitar o afastamento da ocorrência do ato ilícito caracterizador do dano moral.
+Em situações como essa, a orientação adotada pela jurisprudência desta Corte é a de ser "possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual" (AgRg no AREsp 846.940/SC, Terceira Turma, DJe 01/08/2016), pois "dúvida razoável na interpretação do contrato  ..  não configura conduta ilícita capaz de ensejar indenização" (AgInt no AREsp 983.652/SP, Terceira Turma, DJe 02/02/2017). No mesmo sentido: AgInt no REsp 1.853.579/PR, Quarta Turma, julgado em 10/08/2020, DJe de 14/08/2020; AgInt no AREsp 1.555.263/SP, Quarta Turma, julgado em 08/06/2020, DJe de 25/06/2020.
+Quanto à compensação de danos morais, assim asseverou o acórdão recorrido:
+"In casu, os motivos que fundamentam o pleito de danos morais na exordial não possuem o condão de configurar, por si sós, o dano extrapatrimonial.
+A situação retratada corresponde a mero aborrecimento decorrente de descumprimento de contrato de prestação de serviço que deve ser visto como um problema que não fugiu à regularidade das circunstâncias que perfazem o caso, inexistindo excepcionalidade  cuja comprovação era incumbência da parte autora, nos termos do artigo 373, inciso I, do Código de Processo Civil  para justificar a reparação moral.
+Ressalte-se que, não obstante a necessidade de realização dos procedimentos cirúrgicos reparadores, consistentes em correção de lipodistrofia braquial, crural ou trocanteriana e correção de hipertrofia mamária unilateral, após cirurgia bariátrica por parte da autora, não há nos autos prova de que a negativa de cobertura em questão tenha ocasionado transtornos de ordem psicológica na autora.
+Cumpre referir que a operadora ré não efetuou a negativa de todos os procedimentos prescritos no laudo médico (evento 1, documento 12 dos autos originários), tendo autorizado a cirurgia relativa à correção do abdômen, conforme afirmado pela autora na exordial.
+Nestas circunstâncias, não se verifica, no presente caso, abalo extrapatrimonial passível de indenização." (e-STJ, fls. 268/269)
+Ademais, importa destacar que as duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente, o que, conforme narrado pelo acórdão recorrido, não ocorreu na hipótese. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Logo, nesse contexto, que não pode ser alterado nesta instância pelo óbice da Súmula 07/STJ, revela que o acórdão recorrido está em harmonia com a jurisprudência desta Corte.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.200,00 (e-STJ, fls. 270) para R$ 1.500,00,observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃOCOMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. INTERPRETAÇÃO RAZOÁVEL DA CLÁUSULA CONTRATUAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO BENEFICIÁRIO. DANO MORAL NÃO CONFIGURADO.
+1. Ação cominatória cumulada com compensação por dano moral, em razão de negativa de cobertura pela operadora do plano de saúde decirurgia plástica em paciente pós-cirurgia bariátrica.
+2. Segundo a orientação do STJ, é possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pela operadora do plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual e não há o agravamento da situação do paciente.
+3. Recurso especial conhecido e não provido.
