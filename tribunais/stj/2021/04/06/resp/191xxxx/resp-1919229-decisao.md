@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ODONTOLOGIA DO RIO GRANDE DO SUL - CRO/RS, com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 147):
+EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE NOTIFICAÇÃO DO LANÇAMENTO. NULIDADE DO CRÉDITO TRIBUTÁRIO.
+1. A higidez do título executivo é pressuposto processual, matéria de ordem pública, que pode ser apreciada de ofício, nos moldes do art. 485, § 3º, do CPC.
+2. A validade do crédito que resulta da aplicação da norma tributária ao caso concreto depende da regular notificação do sujeito passivo, assegurando-se o devido processo legal.
+3. A nulidade formal do crédito tributário autoriza novo lançamento, observado o disposto no art. 173, II, do CTN.
+Embargos de declaração opostos e rejeitados (fl. 166).
+O recorrente alega violação dos arts. 1.022, II, e 489, § 1º, IV, do CPC/2015, ao argumento de que o Tribunal a quo deveria ter se manifestado, para fins de prequestionamento, sobre os arts. 16, § 2º, da Lei n. 6.830/1980 e 917, I, do CPC/2015.
+Aponta contrariedade aos arts. 3º e 16, § 2º, da LEF e 917, I, do CPC/2015 alegando que a dívida cobrada possui a presunção de certeza e liquidez e que a prova em contrário deve ser produzida em sede de embargos de devedor. Argumenta que, em se tratando de lançamento de ofício, não é necessária a remessa das guias de pagamento aos contribuintes. Sustenta que o entendimento do STJ é no sentido de que, acerca da matéria, há presunção de que a notificação foi entregue ao contribuinte. Quanto à divergência interpretativa, alega a impossibilidade de extinção da execução de ofício.
+Sustenta violação do art. 11 do Decreto n. 70.235/1972 aduzindo que o envio de boletos ao devedor é apenas uma das formas de constituição do crédito tributário e de que não existe regra legal que obrigue o credor a conceder prazo para impugnação da dívida.
+Sem contrarrazões.
+Inadmitido o apelo nobre na origem, deu-se provimento ao ARESp para determinar sua conversão em REsp, sem prejuízo de posterior análise dos seus pressupostos de admissibilidade (fl. 240).
+É o relatório. Decido.
+Inicialmente, não se conhece do recurso quanto à apontada afronta aos arts. 1.022 e 489 do CPC/2015. Isso porque o recorrente, quanto aos artigos sobre os quais alega ter buscado o prequestionamento mediante a oposição de embargos na origem, não aduz a devida argumentação pertinente, com vistas a demonstrar a relevância da manifestação do Tribunal a quo sobre os referidos dispositivos legais para o correto deslinde da causa. A deficiência da fundamentação recursal não permite a exata compreensão da controvérsia. Aplicação da Súmula 284/STF.
+A Corte regional deu solução à controvérsia àluz dos arts. 142 e 146 do CTN, 6º, §§ 1º e 3º, e 485, § 3º, e 803, I, do CPC/2015, concluindo que o título que substancia a execução fiscal é inexigível, por ausência de pressuposto de desenvolvimento regular e válido do processo - questão de ordem pública - conhecível de ofício, relativamente à falta de comprovação da notificação do lançamento ao sujeito passivo, com prazo para impugnação, se não efetuado o pagamento, antes de o credor se valer da ação executiva.
+Dessa forma, observa-se que o órgão julgador não manifestou juízo de valor quanto aos artigos legais apontados violados e teses vinculadas, de modo que, por falta de cumprimento do requisito do prequestionamento, inviável o conhecimento do recurso. Incidência da Súmula 211/STJ.
+Quanto à insurgência com fulcro na alínea "c" do permissivo constitucional, na forma da jurisprudência, entende-se "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONSELHO PROFISSIONAL. ARTS. 1.022 E 489 DO CPC/2015. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVOS LEGAIS APONTADOS VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
