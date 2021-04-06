@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por JORGE FERREIRA DE LIMA, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 107):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICIPIO DE PALMEIRA DAS MISSÕES. PISO NACIONAL DO MAGISTÉRIO. SUSPENSÃO DA DEMANDA. LEI 11.738/08. ADI 4.167.
+1. Ação Coletiva manejada contra o Estado do Rio Grande do Sul não gera efeito em relação aos servidores do Município, motivo pelo qual não autoriza a suspensão da presente demanda.
+2. Compete ao Município respeitar a regra inserta na Lei Federal 11.738/2008 - declarada constitucional pelo STF na ADIn nº 4167 -, que prevê o piso nacional referente ao vencimento básico.
+3. Ausente demonstração de que o Município de Palmeira das Missões tenha pago vencimento básico inferior ao Piso Nacional do Magistério, ausente previsão de incidência automática em toda a carreira (REsp nº 1.426.210/RS), devem ser julgados improcedentes os pedidos.
+APELAÇÃO PROVIDA.
+Os embargos de declaração opostos foram desacolhidos.
+O recorrente alega, além de divergência jurisprudencial, violação do art. 2º, § 1º, da Lei n. 11.738/2008, sustentando que a Administração não vem pagandoo piso como vencimento básico, e sim como remuneração.
+Afirma que "se encontrava, no ano de 2018, no Nível 3, Classe B, conforme descrito nos contracheques anexos nos autos, sendo que, para averiguar serecebe ou não o Piso Nacional como Vencimento Básico, analisando os escalonamentos do art.47 da Lei municipal n. 003/2005, deve ser multiplicado o valor do Piso Nacional pelo coeficiente relativo ao Nível e Classe. (Piso ano 2018 = 1350,44 x 1,776 = R$ 2.398,38). Portanto, a ora recorrente deveria ter recebido o valor de R$ 2.398,38, o qual é descrito como Salário Normal no contracheque" (e-STJ fls.216/217).
+Sem contrarrazões.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, da análise dos autos, verifica-se que, para a alteração das conclusões adotadas pelo Tribunal de origem seria necessário o revolvimento de matéria fática e de verificação de lei municipal, o que é inviável no âmbito do recurso especial, ante o óbice estampado nas Súmulas 7 do STJ e 280 do STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. GRATIFICAÇÃO DE DIFÍCIL ACESSO. ALEGADA INEXISTÊNCIA DE INTERESSE PROCESSUAL. NECESSIDADE DE REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ANÁLISE DE LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não há falar, na hipótese, em violação ao art. 535 do CPC, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+II. A alteração das conclusões adotadas pelo Tribunal de origem, acerca de diferenças remanescentes sobre a Gratificação de Difícil Acesso e da respectiva carência do direito de ação, ensejaria o reexame de matéria fática, bem como análise de dispositivos de legislação local, procedimentos que, em Recurso Especial, esbarram nos óbices das Súmulas 7/STJ e 280/STF. No mesmo sentido: STJ, AgRg no AREsp 632.315/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/03/2015; AgRg no AREsp 649.175/RS, Rel.Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 09/03/2015.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 619.337/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 09/03/2016).
+No tocante à divergência jurisprudencial, indicouorecorrentejulgadosdo Tribunal de Justiça do estado do Rio Grande do Sul,sendo certo que, nos termos daSúmula 13 do STJ, "a divergência entre julgados do mesmo Tribunal nãoenseja recurso especial".
+Ante o exposto, com base no art. 255, § 4º, I, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Intimem-se. Publique-se.
