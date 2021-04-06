@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de LIU BI YONG contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 38 anos, 10 meses e 8 dias de reclusão em regime inicial fechado, pela prática dos delitos previstos nos arts. 158, § 1º, do Código Penal e 2º, § 2º, da Lei n. 12.850/2013, por três vezes, na forma do art. 69 do Código Penal.
+Irresignada, a defesa impetrou habeas corpus no Tribunal local, tendo sido indeferido o pedido liminar voltado à suspensão dos efeitos da condenação até julgamento final daquele writ e desprovido o agravo regimental interposto contra a decisão monocrática. Eis a ementa do acórdão:
+"AGRAVO REGIMENTAL. Agravante que se insurge contra a decisão de indeferimento do pedido liminar em sede de habeas corpus. Pleito visando a redução da pena-base e o reconhecimento da continuidade delitiva. Matérias que devem ser discutidas, a princípio, em recurso de apelação, já interposto. Direito de recorrer em liberdade. Paciente condenado por integrar, em tese, organização criminosa voltada à prática de delitos de extrema gravidade e que respondeu ao processo preso. Necessidade de garantia da ordem pública.Ausência de elemento novo capaz de influenciar nas razões que motivaram o indeferimento do pedido em sede liminar.Decisão que, ao menos por ora, deve ser mantida. Negado provimento ao agravo" (e-STJ, fl. 16).
+Em razões, a Defesa aduz, em síntese, que, na dosimetria da pena imposta, deve ser considerada a continuidade delitiva entre os delitos cometidos pelo paciente, sendo insuficiente para a afastar a benesse que a prática das condutas tenha se dado no intervalo de três anos (e-STJ, fls. 3-14).
+Pugna, assim, pela concessão da ordem a fim de que seja reconhecida a continuidade delitiva entre os crimes.
+Indeferido pedido de liminar (e-STJ, fls. 172-173), a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento do writ (e-STJ, fls.322-325)
+É o relatório.
+Decido.
+O pleito de reconhecimento da continuidade delitiva não foi objeto de cognição pela Corte de origem, o que obsta o exame de tal matéria por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte. De fato, tal matéria deve ser analisada no julgamento da apelação.
+A fim de corroborar tal conclusão, trago à baila os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO WRIT. PEDIDOS DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA E DE DESCLASSIFICAÇÃO DA CONDUTA PARA A DE POSSE PARA USO PRÓPRIO. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PLEITOS DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO E DE ABRANDAMENTO DO REGIME PRISIONAL. REITERAÇÃO DE PEDIDOS REALIZADOS NO HC 503.184/SP. IMPOSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. As questões referentes à aplicação do princípio da insignificância e à desclassificação da conduta para a de posse para uso próprio, não foram examinadas pelo Tribunal de origem, circunstância que evidencia a impossibilidade de análise da impetração por este Sodalício nesses pontos, sob pena de atuar em supressão de instância.
+2. Os pleitos de aplicação da minorante do tráfico privilegiado (art. 33, § 4º da Lei 11.343/2006) e de abrandamento do regime prisional, não comportam conhecimento por tratar-se de evidente reiteração de pedidos, uma vez que as questões ora suscitadas já foram objeto de apreciação por esta Corte no HC 503.184/SP.
+3. Agravo regimental desprovido.
+(AgRg no HC 547.508/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 96/2020, DJe 17/6/2020, destacou-se)".
+"PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SITUAÇÃO ATUAL DE PANDEMIA CAUSADA PELA COVID-19. MATÉRIAS NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. Em respeito aos princípios da instrumentalidade das formas e da ampla defesa, o pedido de reconsideração deve ser recebido como agravo regimental, tendo em vista ter sido apresentado dentro do quinquídio legal.
+2. Esta Corte superior entende ser indevido o debate de matérias não analisadas pelas instâncias de origem, sob pena de incorrer em indevida supressão de instâncias.
+3. Ainda que a situação de pandemia causada pela Covid-19 ainda não fosse uma realidade ao tempo da impetração do habeas corpus perante o Tribunal estadual, é necessário provocar o debate do tema primeiramente na instância a quo. Além disso, o excesso de prazo também não foi apreciado pelo Tribunal de origem.
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC 580.971/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/6/2020, DJe 16/6/2020, destacou-se)".
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
