@@ -1,0 +1,27 @@
+DECISÃO:
+Ementa: Penal. Habeas corpus. Tráfico de drogas. Dosimetria da pena. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão do Ministro Antonio Saldanha Palheiro, nos autos do HC 613.010/SP, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, c/c o art. 40, V, da Lei 11.343/2006 (34,010 kg de maconha).
+    3. Irresignada, a defesa interpôs apelação, tendo o Tribunal de Justiça do Estado de São Paulo negado provimento ao recurso. Em seguida, houve impetração de HC (613.010/SP) no STJ. O Relator, Ministro Antonio Saldanha Palheiro, concedeu parcialmente a ordem, “a fim de alterar o regime prisional imposto ao acusado para o semiaberto, mantendo os demais termos da decisão combatida” .
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que o paciente “deve ser beneficiado pelo privilégio do parágrafo 4° do artigo 33 da Lei 11.343/2006”. Destaca que “não se trata de réu reincidente ou com maus antecedentes, tampouco comprovado que seja dedica a atividade criminosa, pelo contrário, os documentos encartados nos autos demonstram que Bruno sempre trabalhou de forma digna para dar uma vida melhor a sua família”. Ademais, aponta “a possibilidade de concessão do benefício do tráfico privilegiado, a despeito da apreensão de grande quantidade de droga, quando estiver caracterizada a condição de 'mula do tráfico'”.
+    5. A defesa requer:
+    “a) Que seja concedido o presente writ, IN LIMINE, aplicando o § 4º do artigo 33 da lei 11.343/2006, eis que o paciente preenche todos os requisitos para tal benesse já que negado com base em fundamentações ilegais, que violam o posicionamento deste STJ, seja eles:
+    • A QUANTIDADE DE DROGA POR SI SÓ NÃO COMPROVA QUE O RÉU SE DEDICA A ATIVIDADE CRIMINOSA;
+    • O RÉU ATUOU APENAS COMO MULA, NÃO EXERCENDO O TRÁFICO COM HABITUALIDADE.
+    b) No mérito, evidente a coação ilegal, possível de ser sanada mediante concessão de Ordem de Habeas Corpus, o que requer à Vossas Excelências EM CARÁTER DEFINITIVO, para fazer cessar o constrangimento ilegal a que está submetido o paciente, conforme já constante nos tópicos específicos, ou ainda seja analisada a concessão de Ordem de Habeas Corpus de ofício ante a patente ilegalidade.
+    […].”
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. Não é o caso de concessão da ordem de ofício.
+    10. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. No caso, tal como assentou a autoridade impetrada, o Tribunal estadual manteve afastada a minorante do art. 33, § 4º, da Lei de Drogas, com respaldo em dados objetivos da causa, que revelaram a “dedicação a atividades criminosas”. Nessas condições, o acolhimento da pretensão defensiva demandaria o revolvimento do conjunto fático-probatório, o que não é possível em habeas corpus.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 06 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
