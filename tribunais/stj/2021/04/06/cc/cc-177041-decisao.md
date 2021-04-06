@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência, com pedido de liminar, suscitado pelo d. Juízo de Direito da Vara Cível de Dois Vizinhos/PR em face do d. Juízo Federal da 1ª Vara de Francisco Beltrão/PR,nos autos de ação de execução de sentençaproferida em ação civil pública, condenando solidariamente o Banco do Brasil, o Banco Central e a União.
+A execução de sentença, foi manejada,unicamente contra o Banco do Brasil S/A,perante o d. Juízo Federal que declinoude sua competência para a Justiça Estadual, afirmando que o feito foi"ajuizado contra pessoa jurídica (Banco do Brasil S/A) que não está contemplada no art. 109, inciso I, da Constituição Federal" (na fl. 36).
+Por sua vez, o d. Juízoestadual suscita oConflito de Competência, sob o fundamento de que"deve prevalecer o fato de que o título foi constituído perante a Justiça Federal, sendo desta a competência para a liquidação do julgado em questão" (fl. 47).
+É relatório.Passo a decidir.
+O Ministério Público Federal opina pela competência da Justiça estadual.
+O entendimento consolidado desta Corte preconiza que (a) "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresa pública" (Súmula 150/STJ), (b) que "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual" (Súmula 254/STJ).
+Assim, constatada a falta do interesse do ente federal ou excluído este da lide, deve o Juiz Federal remeter os autos para a Justiça Estadual, pois, a priori, não existe o alegado choque de atribuições, devendo o Juízo Estadual acolher a decisão da Justiça Comum federal, a qual,por óbvio, somente pode ser reformada pelos meios recursais postos à disposição de eventual interessado na própria Justiça Federal.
+Ademais, está consolidado nesta Corte o entendimento de que, nesses mesmos casos, quando o Banco do Brasil é demandado sozinho na execução da sentença da Ação Civil Pública em evidência, não gera o deslocamento da competência para a Justiça Federal:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido.
+(AgInt no AREsp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+Confira-se, ainda, no mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE VEÍCULO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE ACEITAÇÃO PELO DENUNCIADO. INEXISTÊNCIA DE LITISCONSÓRCIO PASSIVO. INAPLICÁVEL O PRAZO EM DOBRO PREVISTO NO ART. 191 DO CPC/1973. AGRAVO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+2. Nos termos da jurisprudência sedimentada por esta Corte Superior, no julgamento do Recurso Especial repetitivo n. 1.145.146/RS (Primeira Seção, Relator Ministro Luiz Fux, julgado em 9/12/2009, DJe 1º/2/2010), "a solidariedade obrigacional não importa em exigibilidade da obrigação em litisconsórcio necessário (art. 47 do CPC)".
+3. Agravo interno desprovido.
+(AgInt no REsp 1743193/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+Ante o exposto, conheço do conflito de competência, determinando devolução dos autos ao d. Juízo de Direito da Vara Cível de Dois Vizinhos/PR,para que prossiga no exame da questão conformeentender de direito.
+Publique-se.
