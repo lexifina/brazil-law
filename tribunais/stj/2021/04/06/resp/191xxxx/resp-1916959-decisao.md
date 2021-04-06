@@ -1,0 +1,47 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. RECUPERAÇÃO JUDICIAL E FALÊNCIA. HABILITAÇÃO DE CRÉDITO. RECURSO CABÍVEL DA DECISÃO EM SEDE DE HABILITAÇÃO RETARDATÁRIA OU DE IMPUGNAÇÃO A HABILITAÇÃO. AGRAVO DE INSTRUMENTO. 1. A Lei nº11.101/2005, que trata da Falência e Recuperação de Empresa, estabeleceu que o recurso cabível da sentença que julga a impugnação, bem como as habilitações retardatárias de crédito atinente ao concurso universal de credores, é o agravo de instrumento, conforme preceituam os artigos 17 e 10, § 5º, ambos do referido diploma legal. 2. Portanto, descabe a interposição de apelo, sendo inadmissível e inaplicável o princípio da fungibilidade recursal no caso em tela, presente o fato de que para o ato judicial em análise existia recurso próprio, o qual não foi utilizado. 3. Ademais, inexistido dúvida objetiva e ocorrendo erro na hipótese em exame, ao não ser observado o recurso taxativamente previsto em lei especial para o caso dos autos, não se admite o recurso intentado. 4. Assim, o recorrente não pode lançar mão de via recursal diversa da prevista na Lei de Quebras, pois o nosso sistema processual, de regra, permite a utilização de um único recurso para cada tipo de deliberação, atendendo ao princípio da unirrecorribilidade. Recurso não conhecido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart.192 da Lei nº 11.101/2005.
+Sustenta que a Lei Falência e Recuperação Judicial vigente não pode ser aplicada aos casos em que o processo falimentar tenha sido ajuizado antes de sua vigência, de modo que deveser considerado como cabível o recurso de apelação interposto em face de decisão de exclusão de credor de rateio nos autos de falência.
+Contrarrazões ao recurso especial às fls. 143-145.
+Crivo positivo de admissibilidade na origem (fls. 148-152).
+É o relatório.
+DECIDO.
+2. Sobre a questão suscitada, assim se manifestou o tribunal de origem (fls. 98-100):
+Admissibilidade e objeto dos recursos
+Eminentes colegas, os recursos intentados objetivam a reforma da sentença de primeiro grau, versando sobre habilitação de crédito. No caso em exame, os recursos intentados não merecem ser conhecidos, na medida em que não se mostra adequada a interposição de apelação, requisito extrínseco desatendido pelas partes recorrentes, o que impede o exame da matéria recursal.
+É de ser ressaltado que a Lei nº 11.101/2005, que trata da Falência e Recuperação de Empresa, estabeleceu que o recurso cabível da sentença que julga a impugnação, bem como as habilitações de crédito atinente ao concurso universal de credores, é o agravo de instrumento, conforme preceituam os artigos 17 e 10, § 5º, do referido diploma legal, In verbis:
+(..)
+Ainda, sobre o recurso cabível da sentença que versar sobre verificação de crédito na nova Lei de Falências e Recuperação de Empresa, preleciona o insigne jurista Waldo Fazzio Júnior 2 que:
+(..)
+Portanto, descabe a interposição de apelo, sendo inadmissível e inaplicável o princípio da fungibilidade recursal no caso em tela, presente o fato de que para o ato judicial em análise existia recurso próprio, o qual não foi utilizado, constituindo erro grosseiro a interposição daquele.
+Assim, incabível o lançamento de outra via recursal, pois o nosso sistema processual, de regra, permite a utilização de um único recurso para cada tipo de deliberação, atendendo ao princípio da unirrecorribilidade, mesmo porque inexiste no caso em tela a denominada dúvida objetiva para que fosse possível aproveitar o referido ato processual.
+Ademais, os recursos interpostos contra a decisão proferida no presente feito não são adequados para se insurgir contra aquela, pois é o agravo de instrumento e não apelação cabível nesta hipótese, ematenção ao princípio da taxatividade, porquanto lei federal de ordem pública estabelece o tipo de recurso a ser utilizado, conforme salientado anteriormente. Assim, há evidente erro grosseiro na interposição de apelação, ao invés do agravo expressamente previsto em lei especial, razão jurídica suficiente para afastar o exame do recurso interposto.
+A esse respeito é oportuno trazer à baila mais uma vez a lição de Marinoni e Arenhartao asseverarem que:
+(..)
+Por fim, ressalta-se que não se desconhece que foi decretada a quebra da empresa ainda na vigência do Decreto-lei 7.661/50, contudo a Lei n. 2 11.101/05 trouxe normas de cunho material e processual ao sistema jurídico, de sorte que estas processuais têm incidência imediata ao caso dos autos, preservando o direto material reconhecido pela lei anterior.
+Entendeu que a nova lei de falência teria cunho material e processual e, assim, com aplicação imediata ao caso dos autos, restando impositivo considerar o agravo de instrumento como recurso cabível em face de decisão sobre habilitação de crédito, ainda que o processo tenha iniciado na vigência da anterior lei de falência.
+Encontra-se tal entendimento, contudo, em dissonância com a jurisprudência desta Corte, no sentido de que a apelação é o recurso adequado para desconstituir sentença proferida em autos de habilitação de crédito relativa a processo falimentar nascido sob a égide do Decreto-Lei n. 7.661/45.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544, DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXTINÇÃO DE IMPUGNAÇÃO DE CRÉDITO - FALÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. O recurso especial subjacente ao presente agravo interno atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Violação do art. 535 do CPC/73 não configurada. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+3. Conforme entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, nos casos de ajuizamento e decretação da falência antes da vigência da Lei n. 11.101/05, aplicam-se as regras previstas no Decreto-Lei n. 7.661/45, nos termos do art. 192 da nova lei falimentar.
+3.1. Segundo preceitua o art. 97 do Decreto-lei 7.661/45 combinado com o art. 192 da Lei 11.101/05, o recurso adequado para desconstituir sentença que extingue incidente de impugnação de crédito é a apelação. Precedentes.
+3.2. Havendo expressa disposição de lei, a interposição de recurso diverso do estabelecido configura erro grosseiro, insuscetível de se aplicar o princípio da fungibilidade recursal. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 945.612/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO IMPUGNADO. FALÊNCIA. DIREITO INTERTEMPORAL. ARTIGO DE NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA. AFASTAMENTO. CARÁTER RELATIVO DO PRINCÍPIO TEMPUS REGIT ACTUM. SEGURANÇA JURÍDICA.INCIDÊNCIA DA NORMA PRETÉRITA, POR FORÇA DO ARTIGO 192 DA LEI 11.101/2005.
+1. Inicialmente, quanto à admissibilidade do presente recurso especial por violação ao art. 535 do CPC, impende consignar que não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou as questões deduzidas pelo recorrente, dirimindo as questões pertinentes ao litígio.
+2. Em se tratando de norma processual no tempo, apesar de a regra ser aquela determinada pelo princípio tempus regit actum, não se pode olvidar que ela não tem caráter absoluto. Isso quer dizer que, havendo efeitos oriundos dos atos praticados sob o pálio de lei anterior, eles deverão permanecer na regência daquela norma pretérita, aplicando-se, por conseguinte, a lei nova apenas aos atos posteriores a estes.
+3. No caso, da decisão que soluciona habilitação de crédito em falência sob a égide do Decreto-Lei 7.661/45, cabe apelação, pois não há como aplicar incólume a regra da incidência imediata das normas processuais, isso porque colidiria frontalmente com a segurança jurídica dos demais credores, bem como a da empresa falida.
+4. Recurso especial a que se nega provimento.
+(REsp 1248836/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2016, DJe 29/08/2016)
+3. Ante o exposto, dou provimento ao recurso especial para reformar o aresto recorrido, declararo cabimento do recurso de apelação e determinar o retorno dos autos para prosseguimento da análise do recurso interposto.
+Intimem-se. Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL E EMPRESARIAL. ART. 192 DA LEI N. 11.101/2005.HABILITAÇÃO DE CRÉDITO EM PROCESSO FALIMENTAR INICIADO SOB A ÉGIDE DO DECRETO-LEI N. 7661/50. SENTENÇA. RECURSO CABÍVEL. APELAÇÃO.
+1. Aapelação é o recurso adequado para desconstituir sentença proferida em autos de habilitação de crédito relativa a processo falimentar nascido sob a égide do Decreto-Lei n. 7.661/45.
+2. Recurso especial provido.
