@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JOAO LUIS JARDIM WEIKAMPS contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal na Apelação n.70082302829 (n.CNJ: 0202191-63.2019.8.21.7000).
+Consta nos autos que o Juízo de primeiro grau condenou o Agravante às penas de 2(dois) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, e pagamento de 10 (dez) dias-multa, no mínimo legal, como incurso no art. 14, caput, da Lei n. 10.826/2003 (fls. 152-153).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 201-209).
+Os embargos de declaração defensivosforam rejeitados (fls. 220-224).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 12, 14, 16, parágrafo único, inciso IV, e 32 da Lei n.10.826/2003; ao art. 2.º, parágrafo único, do Código Penal; aos arts. 2.º, inciso I, e 58 do Decreto n.9.785/2019; aoart. 2.º, inciso I, reproduzido pelo Decreto n.9.847e ao art. 50 do Decreto n.9.844/2019; bem como ao art. 386, inciso III, do Código de Processo Penal (fl. 233).
+Ponderaque, na medida em que houve a descriminalização quanto àconduta de posse ou porte ilegal de arma de fogo ou munição, deve ser reconhecida a abolitio criminis no tocante ao crime imputado ao Agravante (fls. 233-236).
+Aduz ser desproporcional punir o porte de arma calibre .22 na mesma medida da punição de uma arma de maior calibre (.40, .45 ou 9mm)(fls. 236-237).
+Requer, assim, a absolvição do Recorrente (fl. 237).
+Foram apresentadas contrarrazões (fls. 261-263). O apelo nobre não foi admitido (fls. 270-278). Foi interposto agravo (fls. 287-295).
+O Ministério Público Federal manifestou-se às fls. 333-340, opinando pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O acórdão proferido em sede de embargos de declaração, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 222-223; sem grifos no original):
+"Não há a apontada omissão no acórdão embargado, não se tratando de tema abordado em sede de razões recursais.
+De qualquer forma, não há falar em abolido criminis. A interpretação dada pelo embargante está equivocada. Os decretos, em seus art. 52, 53 (Decreto nº 9.844/19) e 58 (Decreto nº 9.785/19), expressam que será presumida a boa-fé dos possuidores e proprietárioscompetentes, nos termos do art. 32 da Lei nº 10.826/03. Até então nada diferente do que já era possível anteriormente aos decretos presidenciais.
+Outrossim, tocante ao art. 3º, §5º, que dispõe sobre o cadastramento de armas de fogo adulteradas, sem numeração ou com numeração raspada, não significa a extinção de punibilidade aos agentes que possuírem ou portarem ilegalmente armas de fogo nessas condições.
+O cadastramento desses artefatos é norma administrativa do Sinarm, que diz com a identificação ou possibilidade de reaproveitamento dos artefatos. Mas não implica, de forma alguma, em extinção da punibilidade.
+Nestas condições, resta a possibilidade de entrega da arma de fogo às autoridades, com presunção de boa-fé e extinção da punibilidade. Esta causa extintiva de punibilidade é permanente, mas reservada ao ato jurídico de efetiva e espontânea entrega da arma, o que não ocorreu no caso.
+A questão já foi objeto de enfrentamento nos acórdãos nº 70081668683, 70081597122, 70081668394, 70081596587, 70081597320, julgados nesta Câmara na sessão do dia 13.06.2019, nos quais os embargos restaram desacolhidos.
+Por fim, quanto à possibilidade de reclassificação das armas de fogo de uso permitido ou restrito, embora a matéria já tenha sido apreciada pelo Exército Brasileiro, consoante Portaria nº 1.222 de 12.08.2019, não há qualquer modificação no caso em apreço. Ao contrário do que alega o embargante, a arma apreendida jamais fora identificada como de uso restrito. Assim, incabível falar em desclassificação, uma vez que a conduta imputada ao acusado é prevista no art. 14 da Lei nº 10.826/03."
+Como se vê, nas razões do apelo nobre, não foiinfirmadoofundamentodo aresto atacado, segundo oquala extinção da punibilidade àqueles que possuem, de forma ilegal, arma de fogo,tem como requisitos inafastáveis a boa-fé do possuidor e a efetiva e espontânea entrega da arma de fogo às autoridades competentes, o que não se deu na hipótese dos autos.
+Desse modo, não comporta conhecimento a presente súplica, ante o disposto no Enunciado n. 283 da Súmula do Supremo Tribunal Federal, in verbis: " é  inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+E a tese dese mostrar desproporcional punir o porte de arma calibre .22 na mesma medida da punição de uma arma de maior calibre (.40, .45 e 9mm) (fls. 236-237), não foi apreciada pela Corte de origem nos termos em que posta pela Defesa nas razões do recurso especial, não obstante a oposição de embargos de declaração.
+Assim, à míngua de efetiva apreciação da tese acima referida e não indicada violação ao art. 619 do Código de Processo Penal, o óbice da Súmula n.211 do Superior Tribunal de Justiça mostra-se intransponível no caso, impedindo o conhecimento da mencionada tese.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial
+Intimem-se. Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 14DA LEI N. 10.826/2003. PLEITO PELA ABSOLVIÇÃO ANTE O RECONHECIMENTO DE ABOLITIO CRIMINIS TEMPORÁRIA. DECRETOS N. 9.785/2019 e 9.844/2019. FUNDAMENTODO ACÓRDÃO RECORRIDO NÃO IMPUGNADONAS RAZÕES DO APELO NOBRE. SÚMULA N.283 DO SUPREMO TRIBUNAL FEDERAL. TESE DE DESPROPORCIONALIDADE DA PUNIÇÃODA CONDUTA DE PORTAR ARMA CALIBRE 22 EM COMPARAÇÃO AO PORTE DE ARMA DE MAIOR CALIBRE (.40, .45 OU 9MM). AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N.211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
