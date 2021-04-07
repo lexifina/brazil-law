@@ -1,0 +1,21 @@
+DECISÃO
+Por meio deste recurso ordinário em habeas corpus, com pedido de liminar, interposto por Juan Leal Vilela contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco, que denegou a ordem dohabeas corpus lá impetrado, mantendo a constrição cautelar do recorrente imposta pelo Juízo de Direito da Vara Criminal da comarca de Gravatá/PE pela suposta prática dos crimes do art. 33, caput, e art. 35 da Lei n. 11.343/2006, bem como pelo crime tipificado no art. 17 da Lei n. 10.826/2003, busca-se a revogação da prisão preventiva sob alegação de excesso de prazo na formação da culpa.
+A liminar foi indeferida às fls. 280/281.
+Solicitadas informações, essas foram devidamente prestadas àfl. 262.
+Instado a se manifestar o Ministério Público Federal opinou pelo não provimento do recurso (fls. 315/318).
+É o relatório.
+De início, quanto à tese de excesso de prazo para encerramento da instrução criminal, o recurso perdeu o objeto.
+Isso porque, diante das informações colhidas no portal eletrônico do Tribunal local acerca do andamento processual em 5/4/2021, foi possível constatar que a instrução foi encerrada, com intimação das partes para apresentação de alegações finais por meio de memoriais.
+Aplicável, portanto, a Súmula 52/STJ, segundo a qual,encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Noutro vértice,em relação ao pedido de aplicação da Recomendação CNJ n. 62/2020, consignou o Tribunal estadual queo impetrante não demostrou qualquer grau de vulnerabilidade do recorrente frente à Covid-19, não sendo sua situação diferente daquela da maioria dos demais presos provisórios, pelo que a concessão da ordem, em tal hipótese, importaria em indevido privilégio(fl. 129 - grifo nosso).
+Desse modo, não evidencio nenhuma ilegalidade flagrante quanto ao referido ponto, uma vez que as instâncias de origem consideram que a Recomendação n. 62/2020 do Conselho Nacional de Justiça não se aplica ao caso em questão.
+Consoante precedentes desta Corte,a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal(STJ: HC n. 567.408/RJ, Ministro Rogerio Schietti Cruz, DJe 23/3/2020).
+Além disso, verifica-se que a impetração não comprovou que o recorrente façaparte do grupo de risco nem mesmo que a unidade prisional em que se encontra custodiado o tornaria mais vulnerável a eventual contágio pela Covid-19, portanto, a almejada substituição da prisão preventiva pela domiciliar não se mostra plausível.
+Além disso, a Recomendação n. 62/2020 do CNJ é inaplicável no caso de crimes cometidos com o emprego de violência ou grave ameaça contra a pessoa.
+Sobre o tema, destaco ainda as palavras do Ministro Rogerio Schietti Cruz:
+ .. não se justifica o enquadramento da hipótese na Recomendação n. 62/2020 do CNJ, por força, mormente, do disposto no art. 8º, § 1º, I, c, que prescreve a excepcionalidade de manutenção da custódia provisória, "em se tratando de crime cometido com o emprego de violência ou grave ameaça contra a pessoa, desde que presentes, no caso concreto, os requisitos constantes do art. 312 do Código de Processo Penal", ou caso "as circunstâncias do fato indiquem a inadequação ou insuficiência das medidas cautelares diversas da prisão, observado o protocolo das autoridades sanitárias(HC n. 550.504/MT, Sexta Turma, DJe 21/5/2020 - grifo nosso).
+Ante o exposto,julgo parcialmente prejudicadoo recurso emhabeas corpuse, no mais,nego-lheprovimento.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. COMÉRCIO ILEGAL DE ARMA DE FOGO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA 52/STJ.PLEITO DE PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA (COVID-19). INVIABILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso emhabeas corpusprejudicado em parte e, no mais, improvido.
