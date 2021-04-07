@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DA PARAÍBA, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, nesses termos ementado:
+PROCESSUAL CIVIL Remessa Necessária - Sentença ilíquida - Estado - Valor inferior a quinhentos salários mínimos - Desnecessidade de reexame - Art. 496, §3º, II, do CPC - Não conhecimento.- Nos termos do art. 496, §3º, II, do CPC, não está sujeita à remessa necessária a sentença que condenar o Estado, como é o caso dos autos, ao pagamento inferior a cem salários mínimos.
+Sustenta a parte recorrente que a remessa necessária, em caso como o dos autos, é obrigatória.
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Marcou o Tribunal a quo que,
+embora a sentença ainda não tenha sido liquidada, é possível concluir que o valor da liquidação não será superior a quinhentos salários mínimos, mesmo que somados juros, correção e honorários, que não é o caso, na medida que essas verbas não devem ser incluídas no cálculo da remessa.
+A questão não é nova nesta Corte Superior.
+A controvérsia cinge-se ao cabimento da remessa necessária nas sentenças ilíquidas proferidas em desfavor de ente municipal após a entrada em vigor do Código de Processo Civil/2015. A Corte Especial do STJ, no julgamento do REsp 1.101.727/PR, representativo de controvérsia, fixou a orientação de que, tratando-se de sentença ilíquida, deverá ser ela submetida ao reexame necessário, uma vez que não possui valor certo, estabelecendo que a dispensabilidade da remessa necessária pressupunha a certeza de que o valor da condenação não superaria o limite de 60 salários mínimos. No entanto, a nova legislação processual excluiu da remessa necessária a sentença proferida em desfavor da União e suas respectivas Autarquias cujo proveito econômico seja inferior a mil salários mínimos. Não obstante a aparente iliquidez das condenações em causas de natureza previdenciária, a sentença que defere benefício previdenciário ou reconhece devido valores remuneratórios a servidores públicos é espécie absolutamente mensurável, visto que pode ser aferível por simples cálculos aritméticos, os quais são expressamente previstos na lei de regência, e, invariavelmente, não alcançará valor superior a 1.000 salários mínimos, razão pela qual está dispensada da Remessa Necessária (EDcl no REsp 1891064/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+No mesmo sentido: AgInt no REsp 1705814/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 04/09/2020;AgInt no REsp 1873359/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 17/09/2020.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REMESSA NECESSÁRIA. DISPENSA. SENTENÇA ILÍQUIDA. PRECEDENTESDO STJ. RECURSO ESPECIAL NÃO PROVIDO.
