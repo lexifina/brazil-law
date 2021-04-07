@@ -1,0 +1,29 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Nathalia Poeta, em favor do natural paraguaio Blas Airton Arguello de Jesus, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do RHC 144.559/SC.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de BLAS AIRTON ARGUELLO DE JESUS contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (HC n. 5007373-22.2021.8.24.0000/SC).
+    Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos crime previstos nos artigos 33 e 35 da Lei n. 11.343/2006 e no art. 14 da Lei n. 10.826/2003.
+    Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fls. 70/83):
+    […]
+    Na presente oportunidade, a impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a ausência de indícios de autoria em relação ao crime de tráfico, a possibilidade de aplicação de medidas cautelares alternativas, bem como a existência de condições pessoais favoráveis ao recorrente, como primariedade e residência fixa, além de possuir filhos incapazes que necessitam de seus cuidados, devendo ser encarado como mera "mula do tráfico".
+    Salienta, ainda, a possibilidade de concessão da liberdade provisória diante do atual quadro de pandemia do novo coronavírus e das diretrizes constantes da Recomendação n. 62 do CNJ, tratando-se de crime cometido sem violência ou grave ameaça.
+    Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura.
+    Processo distribuído a esta relatoria por prevenção do HC n. 583.806/SC (corréu). (eDOC 5)
+    No STJ, o recurso em habeas corpus não foi conhecido, porquanto era mera reiteração do HC 651.648/SC.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação colegiada das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Observem-se trechos da decisão proferida no HC 651.648/SC:
+    “Assim, à luz dos trechos acima transcritos, é necessário verificar que a decisão do Magistrado de primeiro grau e o acórdão impetrado encontram-se fundamentados na garantia da ordem pública, considerando as circunstâncias do caso concreto, notadamente a apreensão de expressiva quantidade e variedade de drogas – 12 kg de cocaína e 5 kg de pasta base –, além de duas pistolas com munição (cinco carregadores) de calibre 9mm, e quatro smartphones. Ademais, chama a atenção, como bem destacou o acórdão impugnado, o fato de que o paciente "levava sua família de Ponta Porã, Mato Grosso do Sul, até o Rio Grande do Sul, mais de 1500 quilômetros sem objetivo certo, tendo escondido em seu veículo a expressiva quantidade de entorpecentes, armas, carregadores e munições" (e-STJ fl. 95), somado, por fim, ao fato de o acusado ser natural do Paraguai.
+    Tal cenário, como visto, além de demonstrar a gravidade exacerbada da conduta perpetrada, evidencia a periculosidade social do acusado, apontando para um provável e significativo envolvimento com a criminalidade.
+    As circunstâncias fáticas do crime, como a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade.
+    Noutra perspectiva, “Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria” (HC n. 126.756/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 23/6/2015, publicado em 16/9/2015). Portanto, mostra-se legítimo, no caso, o decreto de prisão preventiva, uma vez ter demonstrado, com base em dados empíricos, ajustados aos requisitos do art. 312 do CPP, o efetivo risco à ordem pública gerado pela permanência da liberdade. (www.stj.jus.br)
+    A apreensão de elevada quantidade droga de alto valor comercial (12kg de cocaína e 5kg de pasta-base) e arma de fogo de uso restrito (duas pistolas 9mm), combo que indica especial periculosidade do paciente, não evidencia ilegalidade a autorizar a indevida supressão.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 7 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
