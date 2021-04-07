@@ -1,0 +1,18 @@
+DECISÃO
+LUCAS MATERUS BRISSOLA DOMINGUES alega sofrer coação em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Assinala que "mesmo sendo primário e tendo recebido apena total de 6 anos e 3 meses de reclusão, a autoridade de primeiro grau aplicou o regime fechado" (fl. 4). Apesar de a questão não ter sido suscitada em apelação, épatente a ilegalidade, pois as circunstâncias do tráfico não foram graves e é "reduzidíssima a quantidade de entorpecentes que foi apreendida com o paciente (8 gramas de crack" (fl. 7).
+Requer, em liminar e no mérito, a alteração do regime inicial imposto na "sentença dos autos nº 0011746-06.2019.8.16.0056, do fechado para o SEMIABERTO" (fl. 9).
+Decido.
+O writ comporta pronta solução, pois existe entendimento pacífico sobre o tema e a pretensão da defesa está em confronto com texto expresso de lei. Com efeito:
+Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+ ..
+§ 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+Não é apenas a quantidade da pena e a primariedade (ou reincidência) que orientam a escolha do regime prisional inicial.Devem ser observadas, ainda:a) as diretrizes dos arts. 33 e 59, ambos do Código Penal, e b) dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+A sentençareconheceu o maus antecedentes do réu, o que justifica a imposição do regime inicial fechado para cumprimento da pena estabelecida em 6 anos e 3 meses de reclusão, nos termos do art. 33, § 3º, do CP, sem necessidade de invocar eventual gravidade concreta do tráfico de drogas.
+A defesa destacaa pouca quantidade de droga apreendida, mas essa não foi a motivação do modo mais severo de cumprimento da pena. Constou do aresto recorrido que: "o crime apurado nos autos de origem foi praticado em 23/10/2019. Dessa forma, considerando que já havia sentença condenatória transitada em julgado em processo diverso pelo mesmo tipo penal (18/09/2019 - autos nº 0000909-86.2019.8.16.0056) em desfavor do paciente (seq. 89.1 - certidão do oráculo), não há óbice ao estabelecimento de regime inicial de cumprimento de pena mais severo" (fl. 12).
+Assim, existe motivo idôneo para o estabelecimento do regime inicial fechado (maus antecedentes do réu), em conformidade com oart. 33, § 3º, do CP. Não há ilegalidade passível de correção em habeas corpus.
+Confira-se: "Embora a pena tenha sido fixada em patamar superior a 4 e não excedente a 8 anos, a aferição de circunstância judicial desfavorável (maus antecedentes) recomenda a imposição do regime fechado, nos exatos termos do art. 33, §§ 2º e 3º, do Código Penal"(AgRg no HC 560.442/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/3/2021).
+Ilustrativamente: "O regime fechado é o adequado para o cumprimento da pena reclusiva de 6 anos de reclusão, tendo em vista a aferição desfavorável de circunstância judicial (maus antecedentes), nos termos dos arts. 33 e 59 do Código Penal"(AgRg no HC 584.764/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 3/9/2020).
+Ainda: "Fica mantido o regime fechado, pois ainda que a pena tenha sido estabelecida em patamar superior a 4 anos e inferior a 8 anos de reclusão, a pena-base foi fixada acima do mínimo legal, em razão do reconhecimento de circunstâncias judiciais desfavoráveis"(HC 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
