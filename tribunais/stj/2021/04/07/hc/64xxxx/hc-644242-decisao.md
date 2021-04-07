@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso especial, impetrado em favor de VAGNER MARQUES, contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paranáno Agravo em Execução n. 0055416-34.2020.8.16.0000.
+Depreende-se dos autos que o d. Juízo das execuções declarou a remição de 67(sessenta e sete) dias das penas do paciente, em razão da aprovação total no ENCCEJA - Exame Nacional para Certificação de Competências de Jovens e Adultos - Ensino Médio (fls. 18-20).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso, conforme v. acórdão de fls. 11-17, assim definido por sua ementa:
+"AGRAVO EM EXECUÇÃO. DECISÃO AGRAVADA QUE CONCEDEU REMIÇÃO DE 67 DIAS DA PENA PELA CONCLUSÃO DO ENSINO MÉDIO E REALIZAÇÃO DE EXAME DE PROFICIÊNCIA - ENCCEJA.ALEGAÇÃO DE QUE O APENADO TERIA DIREITO A 134 DIAS DE REMIÇÃO EM RAZÃO DA CARGA HORÁRIA SER 2.400 HORAS. NÃO ACOLHIMENTO. CARGA HORÁRIA DO ENSINO MÉDIO REGULAR QUE NÃO SE CONFUNDE COM A CARGA HORÁRIA DO ENSINO DE JOVENS E ADULTOS. PRECEDENTE DESTA CÂMARA. CARGA HORÁRIA PARA O ENCCEJA QUE É DE 1.200 HORAS. ART. 4º DA RESOLUÇÃO Nº 03/10, DO CONSELHO NACIONAL DE EDUCAÇÃO.BASE DE CÁLCULO QUE DEVE SER CONSIDERADA. ART. 1º, INCISO IV, DA RECOMENDAÇÃO Nº 44/2013 DO CNJ. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. REMIÇÃO ESCORREITA.
+RECURSO DESPROVIDO."
+No presente writ, a impetrante insurge-se contra r. decisão que deferiu a remição de 67(sessenta e sete) dias de pena pela aprovação integral no ENCCEJA - Ensino Médio.
+Alega que, "utilizando-se 50% da carga horária do ensino médio de 2400h, conforme a Recomendação nº44/13 e o artigo 24, inc. I, da Lei nº 9.394/1996, resultaria em 1200h que dividido por 12, nos termos do artigo 126, §1º da LEP, ocasionando em 100 dias remidos, somados 1/3, pela conclusão do ensino médio, conforme artigo 126, §5º da LEP (100  33,3), arredondados para o total de 134 dias remidos por estudo" (fl. 6).
+Requer, por fim, a concessão da ordem para "reformar da quantidade dos dias remidos para 134 dias, ou para 133 dias, caso não ocorra o arredondamento para mais" (fl. 10).
+Não foi formulada pretensão liminar.
+As informações foram acostadas às fls. 30-42 e 44-46.
+O Ministério Público Federal, às fls. 48-54, manifestou-se pelo não conhecimento do habeas corpus, ou, no mérito, pela denegação da ordem, em r. parecer com a seguinte ementa:
+"Habeas corpus substitutivo. Execução penal. Remição da pena por aprovação no exame nacional para certificação de competências de jovens e adultos (ENCCEJA). Base de cálculo da remição. Recomendação CNJ 44/2013. Art. 4º da Resolução 3/2010 do Conselho Nacional de Educação. Precedentes. Parecer pelo não conhecimento ou pela denegação do habeas corpus."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para melhor delimitar a quaestio, transcrevo o teor do v. acórdão impugnado (fls. 13-16):
+"Ocorre que, no presente caso, a quantidade de dias que o agravante pretende remir não encontra qualquer respaldo legal.
+De início, cumpre salientar que já houve remição de 12 (doze) dias pelo estudo bíblico, correspondente ao estudo de 72 capítulos da Bíblia, no período de 01.10.2019 a 01.03.2020, nos termos do art. 126, §1º, I, da LEP e 22 (vinte e dois) dias pelo trabalho, correspondente a 68 dias de trabalho, realizados no período entre 20.02.2020 a 23.06.2020, nos termos do art. 126, §1º, II, da Lei de Execução Penal.
+É sobre a remição pela conclusão do ensino médio que paira a controvérsia.
+A Defesa sustenta que a carga horária do ensino médio deve se dar no patamar de 2.400 (duas mil e quatrocentas) horas e não 1.200 (mil e duzentas) horas, como considerou o juízo a quo.
+Ocorre que o benefício foi concedido em estrita consonância às determinações da Recomendação nº 44 de 2013 do CNJ, porquanto se utilizou como base de cálculo 50% (cinquenta por cento), acrescido de 1/3 (um terço), diante da conclusão do ensino médio, nos termos do art. 126, §5 º, da LEP.
+ ..
+E a carga horária também foi devidamente considerada.
+É que o quantum de 2.400 horas apontado nas razões recursais se refere à carga horária do ensino médio regular no Brasil, tratado na LDB (Lei de Diretrizes e Bases da Educação Nacional).
+Esse montante, no entanto, não se aplica ao caso, pois o apenado concluiu ensino médio na modalidade da Educação de Jovens e Adultos, para a qual é estabelecida a carga horária de 1.200 horas.
+ ..
+E o artigo 1º, inciso IV, da Recomendação nº 44/2013 do Conselho Nacional de Justiça, esclarece quanto à possibilidade de o sentenciado obter a remição de pena por ocasião da aprovação em exames nacionais que certificam a conclusão do ensino fundamental e médio por conta própria, ou seja, sem vínculo a atividades educacionais:
+ ..
+E essa carga horária, de 1.200 horas para o ensino médio referente à educação de Jovens e Adultos (ENCCEJA) se ampara na Resolução nº 03/10, do Conselho Nacional de Educação, que dispõe ser de 1.200 horas a duração mínima do ensino médio:
+ ..
+Sendo assim, não há como se acolher o pedido da defesa para que a base de cálculo da remição seja 2.400 horas, tendo em vista que o apenado concluiu ensino médio na modalidade da Educação de Jovens e Adultos, para a qual é prevista a carga horária de 1.200 horas.
+ ..
+Assim, incidindo o percentual de redução (50%) sobre 1.200, resulta em 600 horas, que dividas por 12, a teor do disposto no artigo 126, § 1º, inciso I, da Lei de Execução Penal, resulta em 50, e acrescidas de 1/3 (um terço), nos termos do inciso VI do § 5º do mesmo dispositivo, resulta em 66,66, que, numa interpretação mais favorável ao sentenciado, tal como ponderou o juízo a quo, deve ser arredondado para o número inteiro imediatamente superior, 67.
+Deste modo, a remição de 67 dias da pena pela conclusão do ensino médio por meio do ENCEJA está escorreita."
+Pois bem.
+Pretende a d. Defesa, em suma, o deferimento de remição de 133 (cento e trinta e três) dias de pena, com base na aprovação obtida pelo paciente na educação para adultos do Exame conhecido como ENCCEJA - Ensino Médio.
+Sobre o tema em análise, o art. 126 da Lei de Execuções Penais traz a seguinte disposição:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+ ..
+§ 5º O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação" (grifei).
+O Conselho Nacional de Justiça - CNJ - editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, IV, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino médio, verbis:
+"RECOMENDAÇÃO Nº 44 DE 26/11/2013
+Dispõe sobre atividades educacionais complementares para fins de remição da pena pelo estudo e estabelece critérios para a admissão pela leitura.
+ ..
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,
+RESOLVE:
+Art. 1º Recomendar aos Tribunais que:
+ ..
+IV - na hipótese de o apenado não estar, circunstancialmente, vinculado a atividades regulares de ensino no interior do estabelecimento penal e realizar estudos por conta própria, ou com simples acompanhamento pedagógico, logrando, com isso, obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84), considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino  fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE , isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio." (grifei)
+Nesse diapasão, esta eg. Corte Superior firmou orientação no sentido de que é "viável a concessão da remição por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal." (AgRg no AREsp n. 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/3/2016).
+Assim está autorizada a concessão da remição pelo estudo nas hipóteses previstas na Recomendação n. 44/2013 do CNJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. REMIÇÃO DA PENA. APROVAÇÃO NO ENEM. INCENTIVO AO ESTUDO. CARÁTER DE RESSOCIALIZAÇÃO DA PENA. INTERPRETAÇÃO EXTENSIVA DO ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. POSSIBILIDADE. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. UTILIZAÇÃO. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça - STJ tem admitido que a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado encorajando, inclusive, como no caso concreto, seu estudo por conta própria e consequente aprovação no Exame Nacional do Ensino Médio - ENEM, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento em razão de atividades que não estejam expressas no texto legal, nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça, buscando, primordialmente, a readaptação do apenado ao convívio social. Precedentes.
+2. A Resolução CNJ n. 44/2013 menciona a carga horária de 1.600 horas para o ensino fundamental, e 1.200 horas para o ensino médio, que se refere ao percentual de 50% da carga horária definida legalmente para cada nível de ensino. Considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio, ou seja, 1.200 horas, deve-se dividir esse total por 12, encontrando-se o resultado de 100 dias de remição em caso de aprovação em todos os campos de conhecimento do ENEM. Na hipótese, como o paciente obteve aprovação em duas áreas de conhecimento do ENEM, a remição deve corresponder à 40 dias.
+3. Agravo desprovido" (AgRg no HC n. 464.410/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik,, DJe de 08/11/2018).
+"HABEAS CORPUS. REMIÇÃO. ESTUDO POR CONTA PRÓPRIA. EXAME NACIONAL DO ENSINO MÉDIO. INTERPRETAÇÃO EXTENSIVA DO ART. 126 DA LEP. RECOMENDAÇÃO N. 44/2013 DO CNJ. ART. 126, § 5º, DA LEP. OBSERVÂNCIA. ORDEM DENEGADA.
+1. A interpretação mais ampla do art. 126 da LEP, de acordo com a Recomendação n. 44/2013 do CNJ, permite a remição da pena pelo estudo ao apenado não vinculado a atividade regular de ensino que obtém, por esforço próprio, aprovação em exame nacional (ENEM) que certifique o ensino médio a jovens e adultos.
+2. O Juiz deverá considerar, segundo expressa previsão do art. 1º, IV, da Resolução n. 44/2013 do CNJ, "50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino  fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE , isto é,  ..  1.200 (mil e duzentas) horas para o ensino médio".
+3. A Lei n. 9.394/1996 - que estabelece carga horária mínima de 2.400 horas para o ensino médio - não pode ser aplicada ao preso, por estabelecer diretrizes nacionais de "educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade" (art. 4º, I). Ao sentenciado são aplicáveis as regras específicas de educação de jovens e adultos, as quais contém previsão de duração menor do ensino médio (1.200 horas).
+4. Para o cálculo da remição devem ser observados os termos do art. 126, § 1º, I, e § 5º e a Recomendação n. 44/2013 do CNJ, de forma a ser considerada como base de cálculo 50% da carga horária definida legalmente para o ensino médio de jovens e adultos, de 1.200 horas.
+Divide-se o total obtido, 600 horas, por 12 (um dia de pena para cada doze horas), o que resulta 50 dias de remição.
+5. Não há ilegalidade na decisão do Juízo das Execuções que, em razão da aprovação do apenado em três das cinco áreas de conhecimento do ENEM, declarou remidos, proporcionalmente, 30 dias da pena a cumprir.
+6. Ordem denegada" (HC n. 420.682/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/05/2018).
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO NO ENEM. INTERPRETAÇÃO EXTENSIVA DO ART. 126 DA LEP. POSSIBILIDADE. RECOMENDAÇÃO 44/2013 DO CNJ. UTILIZAÇÃO. ORDEM CONCEDIDA.
+1. A norma inserta no art. 126 da Lei de Execução Penal visa, essencialmente, à ressocialização do sentenciado, por meio do incentivo ao estudo e ao trabalho, atividades que agregam valores necessários à sua melhor reintegração na sociedade. Nesse contexto, uma interpretação mais ampla do art. 126 da Lei de Execução Penal, no caso, com a adoção da Recomendação n.º 44/2013, do Conselho Nacional de Justiça, atende aos princípios que norteiam a Lei de Execução Penal.
+2. Ordem concedida para reconhecer o direito da paciente à remição de 133 dias, em razão de sua aprovação no ENEM" (HC n. 376.324/PR, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 15/05/2017).
+Nesse mesmo sentido, as seguintes decisões: HC 417.980/SC, Quinta Turma, Rel. Min. Jorge Mussi, 27/11/2017, HC 416.050/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, 17/11/2017, HC 421.560/SC, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, 30/11/2017 e HC 421.155/SC, Rel. Min. Rogério Schietti Cruz.
+Afere-se, portanto, que não há dúvida de que o benefício da remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação do paciente no ENCCEJA configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ.
+Outrossim, passo à revisão do cálculo apresentado.
+Observando a quantidade considerada na Recomendação n. 44/2013 do CNJ, já de 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino como base de cálculo para fins de cômputo das horas, tem-se que deve ser considerado, em favor do paciente, o montante de 1.200 horas.
+Isso porque a Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/96), que define legalmente a carga horária do ensino nacional, estabelece a carga horária mínima de 2.400 horas para o ensino médio.
+Verbis, o art. 4º, II, III e parágrafo único, da Resolução n. 03/2010 do Conselho Nacional de Educação - CNE:
+"Art. 4º Quanto à duração dos cursos presenciais de EJA, mantém-se a formulação do Parecer CNE/CEB nº 29/2006, acrescentando o total de horas a serem cumpridas, independentemente da forma de organização curricular:
+I - para os anos iniciais do Ensino Fundamental, a duração deve ficar a critério dos sistemas de ensino;
+II - para os anos finais do Ensino Fundamental, a duração mínima deve ser de 1.600 (mil e seiscentas) horas;
+III - para o Ensino Médio, a duração mínima deve ser de 1.200 (mil e duzentas) horas.
+Parágrafo único. Para a Educação Profissional Técnica de Nível Médio integrada com o Ensino Médio, reafirma-se a duração de 1.200 (mil e duzentas) horas destinadas à educação geral, cumulativamente com a carga horária mínima para a respectiva habilitação profissional de Nível Médio, tal como estabelece a Resolução CNE/CEB nº 4/2005, e para o ProJovem, a duração estabelecida no Parecer CNE/CEB nº 37/2006. "
+Destarte, no caso, a carga horária a se considerar é de 1.200 horas.
+Tendo em vista que o apenado não realizava estudo de maneira formal, restando aprovado em 5 (cinco) áreas de conhecimento do ENCCEJA, totalizando 1.200 horas, as quais devem ser divididas por 12 (doze), conforme preceitua o inciso I do § 1º do art. 126 da LEP, isso totaliza 100 (cem) dias.
+Além disso, o supracitado artigo prevê ainda, em seu § 5º, que o tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço), no caso de conclusão do ensino médio durante o cumprimento da pena, razão pela qual o paciente deve ter remido 133 (cento e trinta e três) dias.
+Ante o exposto, não conheço do habeas corpus.
+Concedo, entretanto, a ordem, de ofício, para reconhecer o direito do ora paciente à remição total de 133 (cento e trinta e três) dias, em razão de sua aprovação em todas as 5 (cinco) áreas de conhecimento do ENCCEJA, também determinando, ao d. Juízo da Execução Penal, que proceda aos novos cálculos para benefícios, com recomendação de celeridade.
+P. I.
