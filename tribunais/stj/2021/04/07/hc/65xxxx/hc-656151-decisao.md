@@ -1,0 +1,15 @@
+DECISÃO
+SERGIO SILVA DE LIMA ouSERGIO SILVA LIMAalegasofrer constrangimento ilegal em decorrência de decisão monocrática proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n.0044142-94.2020.8.26.0000.
+Neste writ, a defesa alega que o paciente foi condenado três vezes pelo mesmo ato criminoso. Descreve que, quando descoberta a ilegalidade, ajuizou revisão criminal perante a Corte estadual que não foi conhecida. Argumenta não haver que se falar em supressão de instância, porque "a exigência de provocação anterior da autoridade coatora é proposta equivocada, não só porque viola o princípio do devido processo legal (não há nenhum dispositivo legal que o preveja), mas também, porque mitiga uma garantia constitucional cogente" (fl. 6).
+Requer a concessão liminar da ordem, ex officio, para anular as condenações ocorridas nas Ações Penais n.0069592-45.2004.826.0050 e n. 0069590-75.2004.826.0050.
+Decido.
+A Corte de origem, por meio de decisão monocrática do Desembargador relator, não conheceu da revisão criminal defensiva, tendo em vista não ser admissível "pedido revisional simultâneo de mais de uma condenação" (fl. 17).
+Deve-se frisar que não se verifica a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Não houve nenhum pronunciamento colegiado sobre a alegação de litispendênciae, a rigor, a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. REVISÃO CRIMINAL. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. RECURSO DESPROVIDO.
+1. Na hipótese, a Defesa impetrou este writ sem que tivesse ocorrido o devido exaurimento das instâncias ordinárias. Com efeito, " a  competência do STJ é inaugurada, nos termos do art. 105, II, "a", da CF, com o esgotamento da instância ordinária, que ocorre com a finalização dos meios recursais submetidos à apreciação do órgão colegiado" (AgRg no HC 569.419/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 616.059/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/11/2020)
+Ademais, apretensa ilegalidade é complexa e não desponta de planoe, "Como regra, mesmo em relação a matérias de ordem pública, há necessidade de prévia análise pelos tribunais de segundo grau, para que se viabilize o seu conhecimento por este Superior Tribunal(AgRg no HC n. 563.715/RO, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/9/2020, grifei).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
