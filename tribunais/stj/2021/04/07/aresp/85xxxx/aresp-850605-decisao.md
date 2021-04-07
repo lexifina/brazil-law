@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARGOT BEDIN GOBETTI, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fls. 529-545):
+"DIREITO PENAL EPROCESSUAL PENAL. SUSPENSÃO DAAÇÃO PENAL EM VIRTUDE DE QUESTÃO PREJUDICIALHETEROGÊNEA. FACULTATIVA. - ART. 93 DO CPP.CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CRIMEMATERIAL CONTRA A ORDEM TRIBUTÁRIA. ART. 1º,INCISO I, DA LEI 8.137/90. ELEMENTO SUBJETIVO DOTIPO. MOVIMENTAÇÃO FINANCEIRA OMITIDA.PRESUNÇÃO RELATIVA.
+1. A suspensão do processo em razão dequestão prejudicialheterogênea é facultativa, pressupondo o preenchimento derequisitos legais, nos termos do art. 93 do CPP.
+2. Ao juiz, destinatário da prova, cabe ponderar acerca danecessidade de sua produção; no caso em teta, a prova poderia tersido produzida por documentos disponíveis à requerente, o queafasta a tese decerceamento de defesa.
+3. Os tipos do art. 1ºe incisos da Lei 8.137/90 não exigem qualquerespécie dedolo especial que transcenda a concretização dasonegação fiscal mediante realizaçãode uma fraude por parte doagente.
+4. Movimentação financeira omitida importa presunção relativa derendimentos(art. 42 . da Lei 9.430/96)".
+Em suas razões recursais, a parte recorrente suscita, além do dissídio jurisprudencial, violação dos arts. 156 do CPP; 59 e 68 do CP; e 1º, I, da Lei 8.137/1990. Aduz para tanto, em síntese, que: (I) a acusação não teria apresentado prova suficiente para embasar a condenação; (II) não se demonstrou a omissão na declaração de rendimentos tributáveis, tampouco dolo específico; e (III) inexistiria fundamentação idônea para elevar a pena-base.
+Com contrarrazões (e-STJ, fls. 627-645), o apelo nobre foi inadmitido na origem (e-STJ, fls. 659-663), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 730-738).
+É o relatório.
+Decido.
+A decisão que inadmitiu o apelo nobre na origem pautou-se nos seguintes fundamentos: (I) incidência da Súmula 7/STJ; (II) falta de cotejo analítico, na demonstração do dissídio jurisprudencial; e (III) ausência de juntada do inteiro teor dos acórdãos apontados como paradigmas da divergência.
+No agravo, todavia,a defesa não combate especificamente este último motivo da decisão agravada. Afinal, ao tratar da inadmissão da irresignação recursal pela alínea "c" da CF/1988, a parte agravante afirma apenas que realizou ocotejo analítico entre os arestos, mas silencia sobre a juntada de seuinteiro teor.
+Ademais, em recente julgamento dos EAREsp 746.775/PR, datado de 19/09/2018 e publicado em 30/11/2018, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.Eis a ementa do aresto:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.
+1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ,não conheçodo agravo em recurso especial.
+Publique-se. Intimem-se.
