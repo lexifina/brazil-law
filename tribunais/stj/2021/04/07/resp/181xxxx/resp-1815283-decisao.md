@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAVID PEREIRA MACHADO e Outra, com arrimo no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"USUCAPIÃO EXTRAORDINÁRIA (ART. 1.238 DO CC/2002) - CONTAGEM INICIADA PERANTE O CC/1916 - TRANSIÇÃO DO ART. 2.029 - PRAZO NÃO ALCANÇADO - INTERRUPÇÃO PELO AJUIZAMENTO DE AÇÃO REIVINDICATÓRIA - IMPROCEDÊNCIA DA AÇÃO DECLARATÓRIA; SUCESSO DA AÇÃO EXECUTIVA.
+1. O art. 1.238 do Código Civil de 2002 reduziu o prazo da usucapião extraordinária (15 anos) e trouxe modalidade especial (imóvel para fins de moradia ou produtivo) em tempo menor (10 anos). Ainda que a contagem possa preceder a nova lei, será então aditada em dois anos (art. 2.029).
+2. O ajuizamento de ação reivindicatória torna litigiosa a coisa e interrompe a fluência da prescrição aquisitiva (além de impedir, no curso do processo, a retomada da marcha). No caso, a melhor versão remete o início do prazo da usucapião para 1995. Em 2006 ingressou ação reivindicatória. Não houve os 12 anos que, no mínimo, seriam necessários para o sucesso da ação declaratória do domínio.
+3. Na definição clássica, a ação reivindicatória é aquela do proprietário não possuidor contra o possuidor não proprietário, cabendo a este comprovar que a sua posse não é injusta. A injustiça da posse, no caso, vale meramente pela ausência de título que a ampare. Aspectos subjetivos são indiferentes. Pedido dominial procedente, ressalvada porção do imóvel que hoje está registrada em nome da municipalidade.
+4. Recursos do réu da usucapião e autor da reivindicatória bem sucedidos. Apelo da municipalidade (que queria limitar o alcance da usucapião) prejudicado pela falta de interesse" (e-STJ fl. 376).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 415-424).
+Em suas razões (e-STJ fls. 431-475), os recorrentes apontam, além de divergência jurisprudencial, violação do artigo 2.029 do Código Civil, pugnando pelo reconhecimento da procedência da ação de usucapião e consequente improcedência da ação reivindicatória proposta pela parte adversa.
+Com as contrarrazões (e-STJ fls. 545-552 e 556-561), e admitido o recurso na origem (e-STJ fls. 564-569), subiram os autos a esta colenda Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Sobre o ponto controvertido no presente recurso especial, assim consignou o acórdão recorrido:
+"Como se vê, são dois prazos (vista a regra isoladamente) possíveis: 15 anos (a regra para a usucapião extraordinária) ou 10 anos (uma redução temporal em homenagem ao caráter produtivo ou habitacional dado ao imóvel).
+Há, entretanto, uma particularidade. A causa foi apresentada em 2005. A arguição é que o prazo (seja o quinzenal, seja o decenal) se principiou perante o Código Civil de 1916. Então, na situação em que o tempo é contado em parte perante o Código novo, em parte ante o Código antigo, vale esta regra transitória:
+Art. 2.029. Até dois anos após a entrada em vigor deste Código, os prazos estabelecidos no parágrafo único do art. 1.238 e no parágrafo único do art. 1.242 serão acrescidos de dois anos, qualquer que seja o tempo transcorrido na vigência do anterior, Lei nº 3.071, de 1º de janeiro de 1916.
+O STJ ratifica, a partir daí, o evidente: "O art. 1.238, parágrafo único, do CC/02, tem aplicação imediata às posses ad usucapionem já iniciadas na vigência do Código anterior, qualquer que seja o tempo transcorrido, devendo apenas ser respeitada a fórmula de transição, segundo a qual serão acrescidos dois anos ao novo prazo, nos dois anos após a entrada em vigor do Código de 2002."(STJ, REsp 1.314.413 -MG, rel. Min. Sidnei Beneti).
+Em outros termos, como o Código Civil de 2002 entrou em vigor em janeiro de 2013, usucapião baseada no art. 1.238 apenas poderia ser concretizada se a posse perdurasse pelo menos por 12 anos (p. único do art. 1.238) ou 17 anos (caput). Na melhor das hipóteses, esses prazos deveriam estar encerrados em janeiro de 2005 (sem prejuízo, é verdade, que esse biênio a mais aparecesse adiante). Caso contrário, valeria a usucapião extraordinária do Código Civil (de vinte anos: art. 550).
+2. Firmada a premissa teórica, que não foi pesada na sentença, o passo seguinte é cuidar do instante em que se principiou (olvidados até os demais postulados relativos à prescrição aquisitiva) a contagem.
+No ponto, a decisão aborda o tema com precisão, de maneira que também concluo que a posse sobre o imóvel usucapiendo passou a ser exercida por David Pereira Machado desde 1995.
+(..)
+4. A partir desse marco, o art. 2.029 faz com que a implementação do lapso do art. 1.238, p. único (admitido que seria a regra incidente) apenas seria atingida em 2007.
+Ocorre que a causa surgiu em dezembro de 2005. A contar de janeiro de 2006, comparecendo o réu espontaneamente, a coisa se tornou litigiosa. Mais ainda, no mesmo instante veio a ação reivindicatória, o que novamente impede que a contagem prescricional perdure" (e-STJ fls. 380-388).
+Ora, ao assim decidir, nada mais fez o Tribunal de origem do que acrescer 2 (dois) anos ao prazo previsto no artigo 1.238, parágrafo único, do Código Civil, exatamente como preleciona a legislação de regência (artigo 2.029 do Código Civil), não se podendo falar, portanto, em ofensa ao dispositivo legal mencionado, mas, ao contrário, em seu fiel cumprimento.
+Tendo em vista a deficiência na fundamentação do recurso, no ponto, incide à espécie, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Acrescente-se, por fim, que, nos termos dos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional quando não demonstrada, como no caso vertente, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO NÃO PROVIDO.
+1. Nos termos do artigo 1.021, § 1º do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do recurso, o desacerto da decisão recorrida.
+3. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.395.824/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/08/2019, DJe 22/08/2019)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULAS 5 E 7 DO STJ. PREJUDICADO.
+1. Ação de cobrança cumulada com indenização por danos materiais em razão de contratação de funcionário da empresa em contrariedade ao previsto no contrato de prestação de serviços.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recurso especial não provido".
+(AgInt no AREsp 1.459.210/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
