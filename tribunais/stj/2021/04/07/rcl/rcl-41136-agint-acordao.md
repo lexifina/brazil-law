@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL RETIDO NA ORIGEM. USURPAÇÃO DE COMPETÊNCIA. AUSÊNCIA DE PROBABILIDADE DE ÊXITO RECURSAL. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO QUE INADMITIU O APELO NOBRE COM BASE NO ART. 1.030, I, "b", DO CPC/15. INADMISSIBILIDADE. INTERESSE DE AGIR. AUSÊNCIA DE UTILIDADE.
+1. Cuida-se de reclamação que aponta usurpação de competência deste STJ pelo Tribunal de origem, que obstou o seguimento de agravo em recurso especial.
+2. Em que pese, a princípio, esteja caracterizada a usurpação de competência, carece a reclamante do necessário interesse de agir, tendo em vista a ausência de probabilidade de êxito recursal.
+3. Isso porque, conforme expressa disposição dos arts. 1.030, § 2º, e 1.042, caput, do CPC/15, o recurso cabível contra a decisão que inadmite recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ no regime dos repetitivos é o agravo interno no próprio Tribunal de Justiça, sendo incabível o manejo do agravo em recurso especial.
+4. O interesse de agir repousa na verificação da utilidade e da necessidade do pronunciamento judicial pleiteado. Nessa linha, eventual acolhimento da reclamação não traria à reclamante qualquer utilidade, pois sua situação processual, do ponto de vista prático, não se tornaria melhor com a subida do agravo em recurso especial.
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CAPA ENGENHARIA S.A., contra a decisão unipessoal que indeferiu liminarmente a petição inicial da reclamação que ajuizara.
+Reclamação: alega que o Tribunal de Justiça do Estado do Rio Grande do Sul usurpou a competência deste STJ ao negar seguimento ao agravo em recurso especial por suposta existência de precedente sobre a matéria recorrida. Sustenta a reclamante que o precedente invocado deve ser sopesado na hipótese dos autos, pois aponta outras violações à legislação infraconstitucional, além do tema suscitado no referido precedente, que concorrem para o correto julgamento de mérito.
+Decisão unipessoal: indeferiu liminarmente a petição inicial da reclamação, sob o fundamento de que, na hipótese dos autos, o acolhimento da reclamação para a subida do processo de origem não trará à reclamante qualquer utilidade, considerando a ausência de probabilidade de êxito recursal.
+Agravo interno: no presente recurso, a agravante reitera a usurpação de competência ocorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL RETIDO NA ORIGEM. USURPAÇÃO DE COMPETÊNCIA. AUSÊNCIA DE PROBABILIDADE DE ÊXITO RECURSAL. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO QUE INADMITIU O APELO NOBRE COM BASE NO ART. 1.030, I, "b", DO CPC/15. INADMISSIBILIDADE. INTERESSE DE AGIR. AUSÊNCIA DE UTILIDADE.
+1. Cuida-se de reclamação que aponta usurpação de competência deste STJ pelo Tribunal de origem, que obstou o seguimento de agravo em recurso especial.
+2. Em que pese, a princípio, esteja caracterizada a usurpação de competência, carece a reclamante do necessário interesse de agir, tendo em vista a ausência de probabilidade de êxito recursal.
+3. Isso porque, conforme expressa disposição dos arts. 1.030, § 2º, e 1.042, caput, do CPC/15, o recurso cabível contra a decisão que inadmite recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ no regime dos repetitivos é o agravo interno no próprio Tribunal de Justiça, sendo incabível o manejo do agravo em recurso especial.
+4. O interesse de agir repousa na verificação da utilidade e da necessidade do pronunciamento judicial pleiteado. Nessa linha, eventual acolhimento da reclamação não traria à reclamante qualquer utilidade, pois sua situação processual, do ponto de vista prático, não se tornaria melhor com a subida do agravo em recurso especial.
+5. Agravo interno não provido.
+VOTO
+Nos termos do art. 1.042, § 4º, do CPC/2015, a competência para o julgamento do agravo interposto contra decisão que inadmite recurso especial é, de fato, deste Superior Tribunal de Justiça, razão pela qual, a princípio, ocorre usurpação de competência quando o Tribunal de origem obsta a subida do agravo em recurso especial. Nesse sentido, veja-se: Rcl 14.462/RJ, Corte Especial, DJe de 02/02/2016.
+Na hipótese, contudo, apesar da indevida negativa de processamento do agravo em recurso especial, é absolutamente desarrazoado acolher a reclamação para a subida do processo de origem, na medida em que, pelos documentos juntados aos autos, é possível perceber, de plano, a ausência de probabilidade de êxito recursal.
+Com efeito, verifica-se que o recurso especial foi inadmitido pelo TJ/RS com fundamento no art. 1.030, I, do CPC/15, devido à harmonia entre o acórdão recorrido e a orientação firmada pelo STJ em recurso especial repetitivo.
+Essa decisão, conforme o disposto no art. 1.030, § 2º, do CPC/15, é impugnável mediante agravo interno no próprio Tribunal de Justiça, sendo manifestamente incabível a interposição de agravo em recurso especial. Nesse sentido, podem ser conferidos os seguintes julgados: AgInt no AREsp 1.387.848/SP, 3ª Turma, DJe 03/04/2019; AgInt no AREsp 1.387.784/SP, 3ª Turma, DJe 28/03/2019; AgInt no AREsp 1.225.847/SC, 3ª Turma, DJe 14/02/2019; AgInt no AREsp 1.144.502/SP, 3ª Turma, DJe 22/11/2018; AgInt no AREsp 1.231.524/PE, 4ª Turma, DJe 28/09/2018; e AgInt no AREsp 1.296.515/PE, 4ª Turma, DJe 27/09/2018.
+Nesse contexto, o acolhimento da reclamação não traz à reclamante qualquer utilidade, pois sua situação, do ponto de vista prático, não se tornaria melhor com a subida do agravo em recurso especial. Pelo contrário, apenas ocasionaria desnecessária movimentação do aparelho judiciário do Estado, além de imprópria postergação da solução definitiva da questão, em franca violação aos princípios da economia e celeridade processual.
+Dessarte, ausente a utilidade no provimento jurisdicional pleiteado, evidencia-se a ausência de interesse de agir da reclamante, impondo-se o indeferimento liminar da reclamação, conforme decidido na decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
