@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdão proferidopelo Tribunal de Justiça do Estado do Acre.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 155, § 4º, III e IVc/c art. 14, II, ambos do Código Penal (furto qualificado tentado), à pena de 03(três) anos, 03(três) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 15 (quinze) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, que restou desprovido poracórdão assim ementado:
+Penal. Processual Penal. Apelação Criminal. Furto qualificado tentado. Materialidade. Autoria. Provas. Existência. Pena base. Redução. Impossibilidade.- As provas produzidas nos autos demonstram a existência do crime e imputam ao réu a sua autoria. Assim, deve ser afastado o argumento de insuficiência delas e com fundamento no qual ele pretende a sua absolvição, mantendo-se a Sentença que o condenou.- Ao estabelecer a pena base acima do mínimo legal, o Juiz singular considerou a presença das circunstâncias judiciais desfavoráveis ao réu, fazendo-o de forma fundamentada, justae proporcional à sua conduta, devendo por isso ser mantida a Sentença.- Recurso de Apelação Criminal desprovido.
+Na petição de recurso especial, a defesa aponta violação ao disposto nos arts. 59 e 68, ambos do Código Penal. Sustenta, em síntese, a redução da pena-base, haja vista a inidoneidade da fundamentação utilizada para negativar a vetorial da personalidade.
+Contrarrazões às fls. 358/363.
+Admitido o recurso (fls. 365/366), os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 374/377).
+É o relatório. Decido.
+O recurso merece provimento.
+O Tribunal de origem manteve a valoração negativa da personalidade do agente, mediante seguinte fundamentação (fls. 329/332):
+"Na fixação da pena a Juíza singular considerou desfavorável ao apelante os antecedente, a personalidade e as circunstâncias do crime, estabelecendo a pena base em quatro anos e três meses de reclusão
+O apelante argumenta com erro na valoração negativa das circunstâncias judiciais da personalidade e circunstâncias do crime.
+Tratando da personalidade, a Juíza singular as valorou de forma negativa, tendo em conta que o apelante já praticou outros crimes e por essa razão a referida circunstância não pode ser avaliada de forma neutra, já que tal conduta evidencia um comportamento inadequado junto à sociedade.
+(..)
+Desse modo, tenho que agiu com acerto a Juíza singular, razão pela qual mantenho essa circunstância como desfavorável ao apelante."
+Conforme entendimento desta Corte,a personalidade do agente não se confundecom os antecedentes criminais, porquanto gozade contornos próprios. Assim, revelainidônea a utilização do histórico criminal do agente paravaloração negativa da personalidade.
+A propósito:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ADMISSÃO DO MINISTÉRIO PÚBLICO DO RIO DE JANEIRO COMO AMICUS CURIAE: DESNECESSIDADE. DOSIMETRIA. VALORAÇÃO NEGATIVA DE MAUS ANTECEDENTES E DA PERSONALIDADE. RÉU QUE OSTENTA MÚLTIPLAS CONDENAÇÕES DEFINITIVAS. FUNDAMENTAÇÃO INIDÔNEA. DECOTE DA VETORIAL PERSONALIDADE. RECURSO PROVIDO.
+(..)
+2. Eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte.
+3. A conduta social e a personalidade do agente não se confundem com os antecedentes criminais, porquanto gozam de contornos próprios - referem-se ao modo de ser e agir do autor do delito -, os quais não podem ser deduzidos, de forma automática, da folha de antecedentes criminais do réu. Trata-se da atuação do réu na comunidade, no contexto familiar, no trabalho, na vizinhança (conduta social), do seu temperamento e das características do seu caráter, aos quais se agregam fatores hereditários e socioambientais, moldados pelas experiências vividas pelo agente (personalidade social).Já a circunstância judicial dos antecedentes se presta eminentemente à análise da folha criminal do réu, momento em que eventual histórico de múltiplas condenações definitivas pode, a critério do julgador, ser valorado de forma mais enfática, o que, por si só, já demonstra a desnecessidade de se valorar negativamente outras condenações definitivas nos vetores personalidade e conduta social.
+4. Havendo uma circunstância judicial específica destinada à valoração dos antecedentes criminais do réu, revela-se desnecessária e "inidônea a utilização de condenações anteriores transitadas em julgado para se inferir como negativa a personalidade ou a conduta social do agente" (HC 366.639/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017). Tal diretriz passou a ser acolhida mais recentemente pela colenda Sexta Turma deste Tribunal: REsp 1760972/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/11/2018, DJe 04/12/2018 e HC 472.654/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/02/2019, DJe 11/03/2019. Uniformização jurisprudencial consolidada.
+(..)
+(EAREsp 1311636/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 26/04/2019).
+Assim, passo a refazer a dosimetria da pena.
+Mantidos os mesmos critérios adotados pelas instâncias ordinárias, considerando a valoração negativa dos antecedentes e circunstâncias do crime, fixo a pena-base em 02(dois) anos e 08(oito) meses de reclusão. Reconhecida a agravante da reincidência, aumento a pena em 1/6 (um sexto), tornando-a em 03 (três) anos, 01 (um) mês e 10 (dez) dias de reclusão. Reconhecida a forma tentada do delito, mantenho a diminuição de 1/3 (um terço), tornando a pena definitiva em 02 (dois) anos e 26 (vinte e seis) dias de reclusão.
+Reduzida a pena, fixo, proporcionalmente, 09 (nove) dias-multa, à razão unitária.
+Considerando as circunstâncias judiciais desfavoráveis, fixo o regime inicial semiaberto. Pelo mesmo motivo, torna-se inviável a substituição da pena, nos termos do art. 44, III, do CP.
+Ante o exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para afastar a valoração negativa da personalidade do agente, readequando a reprimenda do recorrente, nos termos da fundamentação.
+Publique-se. Intimem-se.
