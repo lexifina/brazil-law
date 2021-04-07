@@ -1,0 +1,17 @@
+DIREITO ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE. REMUNERAÇÃO PELOS SERVIÇOS PRESTADOS. TETO ORÇAMENTÁRIO. LEI Nº 8.080/1990. MATÉRIA INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 165, § 5º, III, 167, e 198, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 165, § 5º, III, 167, e 198, I, da Constituição Federal.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Colho precedentes:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE. CONVÊNIO. ATENDIMENTOS REALIZADOS POR PARTICULAR. REPASSE DE VERBAS. LIMITAÇÃO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 25.6.2009 A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (RE 804.168-ED, de minha lavra, 1ª Turma, DJe 17.12.2014).
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. INTERNAÇÃO HOSPITALAR. NECESSIDADE. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC/2015)” (ARE 1272097-AgR-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 05.4.2021).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 07 de abril de 2021.
+Ministra Rosa Weber
+Relatora
