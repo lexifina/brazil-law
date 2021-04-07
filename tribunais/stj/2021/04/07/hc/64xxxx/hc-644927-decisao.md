@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de IURE JACKSON COELHO CALDAS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.601574-5/000).
+O paciente teve a prisão em flagranteconvertida em preventiva a pedido do Ministério Público, pela suposta prática dos delitos previstos nos arts. 14 da Lei n. 10.826/2003 e 33,caput, da Lei n. 11.343/2006 (fls. 72-73).
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, bem como no risco de reiteração delitiva, uma vez constatado que, anteriormente, o paciente já fora autuadoem decorrência da suposta prática do delito de tráfico de drogas.
+Impetradowritna origem, o Tribunal denegou a ordem, pois concluiu pelopreenchimento dos requisitos autorizadores da segregação cautelar e pela existência de fundamentação idônea do decreto prisional. Destacouhaver indíciosdo risco de reiteração delitiva do paciente.
+A defesa alega estar o paciente sofrendo constrangimento ilegal, pois não estão presentes os requisitos autorizadores da prisão preventiva, carecendo o decreto preventivo de fundamentação idônea que demonstrea periculosidade reconhecida.
+Aduz que odecisumde primeiro grau baseou-se na gravidade abstrata do delito.
+Aponta os predicados subjetivos favoráveis do paciente e defende que, em caso de condenação, o regime inicial será menos gravoso que a manutenção da custódia cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido de liminar foi indeferido às fls. 160-161.
+As informações foram prestadas às fls. 165-186 e 187-224.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowritou por sua denegação, caso dele se conheça(fls. 228-237).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 72):
+Assim, diante do exposto, verifico que a prisão em flagrante do autuado deve ser convertida em preventiva para a garantia da ordem pública, uma vez que, conforme salientado pelo Ministério Público, existem elementos nos autos que indicam a prática do delito de tráfico de drogas pelo autuado e não apenas o artigo 28 da Lei 11.343/06, em acréscimo ao porte ilegal de arma de fogo. A quantidade de drogas encontrada (12g) somada aos diversos boletins de ocorrências (REDS 2013-009242404-001; 2019-051365527-001 e 2020-017851303-001) em desfavor do autuado e o fato de supostamente estar portando arma de fogo,indicam personalidade voltada à práticadelitiva, e provavelmente de tráfico de drogas. Ademais, não há nos autos qualquer segurança acerca de trabalho licito e residência fixa do autuado, razão pela qual a prisão também deverá ser decretada para assegurar a aplicação da lei penal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Por fim, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
