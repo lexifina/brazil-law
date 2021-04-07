@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por M NUNES DA SILVA TRANSPORTES EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL EM AÇÃO REGRESSIVA. SEGURO EM TRANSPORTE DE MERCADORIAS. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO INICIAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega a violação do art. 393 do CC, aduzindo que inexiste o dever de indenizar, pela ocorrência da excludente de responsabilidade da força maior, trazendo os seguintes argumentos:
+11. O intuito do presente recurso visa a verificação correta valoração dos elementos fáticos que compões a presente lide.
+12. A despeito da responsabilidade objetiva impostas às transportadoras, não há que se falar em ato ilícito quando os danos reclamados na exordial decorrem de manifestação da natureza excepcional e independente da vontade humana capaz de produzir estragos.
+13. O caminhão transportador, de propriedade da Recorrente, foi atingido por chuva e ventos de tamanha intensidade, que foram capazes de "arrancar" a lona que protegia a carreta transportadora.
+ ..
+16. Situação e motivos decorrentes de "força maior", sem que pudesse haver qualquer controle por parte do motorista e da empresa Recorrente, visto que no trajeto até a descarga da mercadoria ocorreu uma precipitação de grande volume de chuva, situação que deu causa das avarias e molhaduras encontradas.
+ ..
+18. Nessa senda, infere-se que a ocorrência da molhadura se trata de excludente de responsabilidade. Assim, por configurar a hipótese de força maior e não restar comprovado que a empresa requerida tenha se responsabilizado por evento ocorrido em virtude de caso fortuito ou força maior, o dever de indenizar não subsiste, conforme inteligência do artigo 393 do Código Civil.
+ ..
+26. Como se extrai da análise integral dos autos, existem elementos suficientes para afastar a responsabilidade da Recorrente, mas que não foram avaliados, data máxima venia, a contento, o que acabou por resultar na condenação da Recorrente, que nada pode fazer em vista do grande volume de precipitação e ventos com força muito acima do esperado. (fls. 602/606)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em apreço, incontroverso que a empresa ré/apelante efetuou o transporte e que houve molhadura e perecimento da carga transportada, em razão da ocorrência de ventos e chuvas intensos, que danificaram as lonas de proteção do caminhão transportador.
+Inobstante a argumentação deduzida no apelo, no sentido de que "o fato gerador do dano se (mov. 69.1, fl. 4), entendo que as caracteriza como manifestação da natureza excepcional" intempéries climáticas não podem ser enquadradas no conceito legal de caso fortuito ou de força maior (art. 393, p. único, CC/2002 ).
+A despeito da sua intensidade, chuvas e ventos são manifestações cotidianas da natureza, recorrentes e passíveis de previsão através da ciência meteorológica. Trata-se de eventos esperados na atividade de transporte rodoviário, caracterizando , não caso fortuito interno excludente de responsabilidade.
+ ..
+Logo, diante da previsibilidade de fenômenos climáticos, o transportador deve agir com a devida cautela, adotando, se preciso for, medidas além das usuais a fim de proteger a mercadoria transportada.
+No caso concreto, não prospera a alegação da transportadora apelante de que observou todos os cuidados necessários para que a carga chegasse ao destino em perfeito estado.
+Em que pese a argumentação recursal, no sentido de que as lonas protetoras não apresentavam sinais de desgaste, na realidade, os danos à mercadoria foram provocados pelo desprendimento da cobertura, como declarou o motorista que conduzia o caminhão no dia do fato.
+ ..
+Da mesma forma, na instrução processual, o Sr. Claudio Martins Junior, ouvido como informante, reiterou o conteúdo da citada declaração, afirmando que "uma ventania bem forte que arrancou as lonas do caminhão" (mov. 54.2 - 1"09"" a 1"14""). Ainda, acrescentou que, após parar e descer do veículo, "fui correr atrás da lona, mas a lona já tava lá pra baixo no meio do pasto" (mov. 54.2 - 2"29"").
+Logo, por mais que se admita que as lonas estivessem em boa conservação - como defende a transportadora apelante -, o evento danoso teria ocorrido, já que, efetivamente, a mercadoria ficou exposta às intempéries climáticas em razão de a cobertura ter se soltado completamente.
+Incumbia à transportadora certificar-se de que as lonas de proteção estavam bem amarradas à carroceria do caminhão e que assim permaneceriam durante todo o percurso, zelando, assim, pela incolumidade dos produtos até o seu destino.
+Apesar de a apelante ter apresentado uma declaração do empregado da empresa Massas Viccari Ltda. (mov. 69.2) - cujo valor probatório é controverso, diga-se de passagem, já que juntada somente em sede recursal, sem o crivo do contraditório - não há nenhuma informação nesse documento a respeito da forma como a cobertura foi afixada ao veículo transportador. O declarante apenas fez referência à qualidade e ao tamanho das lonas, o que, como visto, não foi o fator decisivo para a molhadura da mercadoria.
+Conclui-se que, na condição de transportadora, a recorrente descumpriu o contrato de transporte firmado com a empresa segurada, restando evidenciada a falha na prestação do serviço.
+Assim sendo, escorreita a r. sentença que determinou a condenação da ré, ora apelante, ao ressarcimento do valor que a seguradora autora/apelada desembolsou em favor do segurado. (fls. 583/586)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
