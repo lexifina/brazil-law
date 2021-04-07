@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deROBERTO IGNACIO DE GOUVEIAem que se aponta como autoridade coatora Tribunal de Justiça do Estado de São Paulo (HC n. 2173191-57.2020.8.26.0000).
+O paciente teve a prisão temporária convertida em preventiva a pedido do Ministério Público e mediante representação da autoridade policial (fls. 163-164), tendo sido denunciado por suposta prática do delito descrito no art. 35, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na existência da materialidade e indícios de autoria, nomodo de execução, que demonstra a periculosidade do paciente, e no risco de fuga ou de reiteração criminosa, porquanto a organização da associação para o tráfico, evidenciada durante as investigações, demonstra a divisão de tarefasde forma permanente. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que a prisão preventiva fundou-se na gravidade abstrata do delito e que não estão presentes os requisitos autorizadores para a constrição cautelar. Pontua que o paciente apresenta condições pessoais favoráveis - é primário e não tem antecedentes criminais-, o que lhe permite a fixação de medidas cautelares diversas da prisão.
+Afirma que a medida constritiva é desproporcional, pois, na remota hipótese de condenação, a pena a ser fixada deverá ser cumprida em regime aberto.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva mediante a expedição de alvará de soltura em favor do paciente, com ou sem a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 125-127.
+As informações foram prestadas às fls. 135-146, 162-226 e 228-236.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fls. 148-153).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que, em cumprimento ao parágrafo único doart. 316 do CPP, reanalisou os requisitos dasegregação cautelar e asseverou (fl. 63):
+Emergem dos autos prova da materialidade e indícios suficientes da autoria atribuída aos denunciados.
+Com efeito, o delito imputado aos acusados é extremamente grave, vez que se trata de associação para o tráfico de entorpecentes, com verdadeira organização, em caráter estável e de forma permanente, com divisão de tarefas, com o propósito de promover a narcotraficância.
+A gravidade do delito e seu modo de execução demonstram a evidente periculosidade dos réus, inclusive, a possibilidade de que, caso soltos, empreendam fuga ou voltem a delinquir, de maneira a indicar a necessidade das prisões cautelares, para que seja garantida a ordem pública.
+O delito de associação para tráfico de drogas denota conduta perniciosa à sociedade, sobretudo por contribuir com a disseminação da substância ilícita entre a população, fato que coloca em risco, inclusive, a tranquilidade social, mormente por ser causa mediata de vários outros delitos, notadamente os de natureza patrimonial.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, segundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
