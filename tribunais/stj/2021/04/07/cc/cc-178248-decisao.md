@@ -1,0 +1,17 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE GURUPI - TO suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL DE GURUPI - TO.
+Depreende-se dos autos, em síntese, que José Ricardo Januário Pecêgo foi condenado à de 1 ano e 4 meses de reclusão em regime aberto. Após reiteradas faltas no cumprimento da prestação de serviço à comunidade, o Juízo Federal da 1ª Vara do Juizado Especial de Gurupi -TO converteu a pena restritiva de direito em privativa de liberdade, sem, contudo, indicar o regime de cumprimento da pena (determinou apenas a expedição de mandado de prisão).
+Com a prisão do condenado, o referido Juízo declinou da competência, com base na Súmula n. 192 do STJ. Os autos foram encaminhados ao Juízo de Direito da Vara de Execuções Penais de Gurupi - TO, que suscitou o presente incidente processual.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito de competência para que seja declarado competente o Juízo Federal da 1ª Vara do Juizado Especial de Gurupi -TO, ora suscitado (fls. 15-20).
+Decido.
+Com razão o suscitante.
+Não descuro da existência do enunciado contido na Súmula n. 192 do STJ, segundo o qual "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos a administração estadual". Entretanto, na espécie, o condenado não cumpria pena em estabelecimento prisional.
+Com efeito, como ponderou o Juízo suscitante, a pena privativa de liberdade foi imposta em regime aberto. Na Comarca de Gurupi -TO não existe casa de albergado ou estabelecimento prisional semelhante, de modo que as prisões em regime aberto (até mesmo em semiaberto), são cumpridas na residência do próprio apenado, às vezes, com o uso de tornozeleira eletrônica.
+Tal situação, inclusive, é reconhecida pelo próprio Juízo suscitado, quando assinalou: "Ocorre que inexiste esse tipo de estabelecimento no município de Gurupi, fato que enseja, como bem pontuado pelo MPF em sua manifestação (evento 11) a aplicação do regime aberto em caráter domiciliar  .. " (fl. 5).
+Assim, como destacou o Ministério Público Federal, lastreado em precedente desta Corte, "não estando o apenado recolhido em estabelecimento prisional estadual, não há razão legal para o processamento da execução penal pelo Juízo suscitante".
+Nesse sentido:
+ ..
+VI. A execução penal, no estágio em se encontrava, perante o Juízo Federal da 3ª Vara da Seção Judiciária do Estado do Pará, tratava do cumprimento de penas restritivas de direitos e não havia recolhimento do apenado em estabelecimento sujeito à Administração estadual, o que afastava, na oportunidade, a competência estadual para a conversão das penas restritivas de direitos - não cumpridas, no Juízo deprecado da Justiça Federal, Subseção Judiciária de Marabá/PA, local de residência do apenado, onde há Vara Federal - em privativa de liberdade, consoante estabelece a Súmula 192 do Superior Tribunal de Justiça.
+VII. Assim, ao converter as penas restritivas de direitos em pena privativa de liberdade e determinar a prisão do apenado, o Juízo Federal da 3ª Vara da Seção Judiciária do Pará era competente para tanto. (CC n. 117.384/PA, Rel. Ministra Assusete Magalhães, DJe 28/5/2013).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara do Juizado Especial de Gurupi -TO, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
