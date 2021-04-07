@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA.PROMITENTE VENDEDORA. INADIMPLEMENTO. AÇÃO DE INDENIZAÇÃO.ART.1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. MULTA CONTRATUAL. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal deorigem motiva adequadamente sua decisão, solucionando a controvérsia com aaplicação do direito que entende cabível à hipótese, apenas não no sentidopretendido pela parte.
+3.Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+4. Na hipótese,rever o entendimento firmado pelas instâncias ordináriaspara alterar a base de cálculo da multa contratual demandaa análise do contrato, dos fatos e das provas dosautos, procedimento inviável em recurso especial devido aos óbices das Súmulas nºs 5 e7/STJ.
+5.Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PIMENTEL SOCIEDADE DE PARTICIPAÇÕESLTDA. contra a decisão (fls. 760/764 e-STJ) que conheceu doagravo para não conhecer do recurso especial.
+Em suas razões (fls. 767/795 e-STJ), a agravante sustenta, em síntese que:
+(i) persiste a negativa de prestação jurisdicional;
+(ii) o termo inicial dos juros de mora deve ser a data em que a agravada deveria ter realizado a entrega dos imóveis, e
+(iii) não se trata de caso da incidência das Súmulas nºs 5 e 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA.PROMITENTE VENDEDORA. INADIMPLEMENTO. AÇÃO DE INDENIZAÇÃO.ART.1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. MULTA CONTRATUAL. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal deorigem motiva adequadamente sua decisão, solucionando a controvérsia com aaplicação do direito que entende cabível à hipótese, apenas não no sentidopretendido pela parte.
+3.Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+4. Na hipótese,rever o entendimento firmado pelas instâncias ordináriaspara alterar a base de cálculo da multa contratual demandaa análise do contrato, dos fatos e das provas dosautos, procedimento inviável em recurso especial devido aos óbices das Súmulas nºs 5 e7/STJ.
+5.Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, não procede oargumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional.
+O tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017).
+No que diz respeito ao termo inicial dos juros de mora, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em se tratando de responsabilidade contratual, incidem a partir da citação (Súmula nº 54/STJ).
+Confiram-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. AFASTAMENTO. TAXA SELIC. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. SÚMULA N. 284/STF. TERMO INICIAL DOS JUROS MORATÓRIOS INCIDENTES SOBRE OS DANOS MORAIS. DATA DO ARBITRAMENTO DE TAL ENCARGO. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DO STJ. TERMO FINAL DOS LUCROS CESSANTES. DATA DO "HABITE-SE". DESCABIMENTO. ÓBICES DAS SÚMULAS N. 7 E 83 DO STJ. COISA JULGADA MATERIAL. TRANSAÇÃO EXTRAJUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. VERIFICAÇÃO NESTA INSTÂNCIA. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF.
+3. Segundo a jurisprudência do STJ, "em se tratando de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula n. 54/STJ), e desde a citação da parte ré, no caso de responsabilidade contratual"(EDcl nos EREsp n. 903.258/RS, Relator p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 6/5/2015, DJe 11/6/2015).
+4. "A tese de que o "habite-se" deve ser considerado como termo final para a entrega do imóvel em razão de expressa previsão contratual nesse sentido, esbarra no óbice das Súmulas 5 e 7 do STJ" (AgInt no REsp n. 1.752.994/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/4/2019, DJe 8/4/2019).
+5. A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019).
+6. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+7. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+8. No caso concreto, para acolher as pretensões da agravante de verificar aexistência de transação formalizada entre as partes seria imprescindível nova análise da matéria fática, vedada em recurso especial.
+9. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+10. Agravo interno a que se nega provimento"(AgInt no AREsp 1.225.153/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/11/2019, DJe 2/12/2019).
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CIVIL. PROCESSUAL CIVIL. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. RESOLUÇÃO CONTRATUAL POR CULPA DA CONSTRUTORA. DEVOLUÇÃO DE VALORES PAGOS ADIMPLÊNCIA DA AUTORA E COMPROVAÇÃO DOS LUCROS CESSANTES E DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ. ATO ILÍCITO CONTRATUAL. TERMO INICIAL DOS JUROS MORATÓRIOS INCIDENTES SOBRE DEVOLUÇÃO DAS PARCELAS PAGAS E SOBRE O VALOR DO DANO MORAL. CITAÇÃO. ACÓRDÃO ESTADUAL ALINHADO À JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 83 DO STJ. REDUÇÃO DO QUANTUM ARBITRADO PELO DANO MORAL. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Havendo o Tribunal local examinado absolutamente todas as questões suscitadas pela parte recorrente, como no caso concreto, não há que se cogitar de violação ao art. 535, I e II, do CPC/73.
+3. O acórdão estadual, ancorado nos termos da avença pactuada e nas provas dos autos, afirmou que a recorrida cumpriu fielmente todas as suas obrigações contratuais, tendo que suportar os danos materiais e morais por não ter recebido o imóvel. A revisão desse entendimento esbarra nas Súmulas nº 5 e 7 do STJ.
+4. Nos termos da jurisprudência desta Corte nos casos de responsabilidade contratual o termo inicial dos juros de mora é a data da citação, no percentual de 1% após a vigência do Código Civil de 2002. De igual forma, em se tratando de indenização por danos morais decorrentes de obrigação contratual, os juros de mora são devidos a partir da citação. Precedentes.
+5. A revisão do valor arbitrado a título de reparação por danos morais demanda, em regra, o reexame do conjunto fático-probatório dos autos, o que não é possível em recurso especial, em face do óbice da Súmula nº 7 do STJ, exceto quando o referido valor se mostrar exorbitante ou irrisório, situação não verificada no caso dos autos.
+6. Agravo interno não provido"(AgInt no AREsp 730.055/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/10/2016, DJe 13/10/2016).
+Quanto à base de cálculo para a incidência da multa contratual, o acórdão assim decidiu:
+"(..)
+O parâmetro a ser utilizado para a penalidade, entretanto, até em observância do princípio do equilíbrio contratual, deve ser a multa moratória de 2% (prevista na Cláusula 10ª- 72), a qual deve incidir sobre as prestações pagas até a efetiva entrega da unidade (nos exatos termos da sentença, e, não, sobre a prestação vencida e impaga, como quer a parte recorrente)" (fl. 454 e-STJ).
+Nesse contexto, a reforma de tal entendimento demandaria o reexame das provas contidasnos autos ea interpretação de cláusula contratual, providências inviáveis emrecurso especial (Súmulas nºs 5 e 7/STJ).
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. DANO MORAL AFASTADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. 2. JUROS MORATÓRIOS E MULTA CONTRATUAL DEVEM RECAIR SOBRE O VALOR DAS PRESTAÇÕES PAGAS NO PERÍODO DE ATRASO E NÃO SOBRE O VALOR DO IMÓVEL. SÚMULAS N. 5 E 7 DO STJ. 3. HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. É entendimento desta Corte que o simples descumprimento contratual não provoca danos morais indenizáveis. Em se tratando de atraso na entrega de unidade imobiliária, o STJ tem concluído que as circunstâncias do caso concreto podem configurar lesão extrapatrimonial. Na hipótese dos autos, contudo, em razão de não ter sido invocado nenhum fato extraordinário que tenha ofendido o âmago da personalidade dos recorrentes, não há que se falar em abalo moral indenizável. Súmulas n. 7 e 83 do STJ.
+2. Quanto aos juros moratórios e à multa contratual o Tribunal deixou assente que a mora deve recair sobre o valor das prestações pagas no período de atraso, e não sobre o valor do imóvel. Súmulas n. 5 e 7 do STJ.
+3. A revisão dos honorários advocatícios, salvo se excessivos ou ínfimos, não pode ocorrer na instância especial, pois implica reexame de circunstâncias fáticas que delimitaram a adoção dos critérios previstos no § 4º do art. 20 do CPC/1973. Incidência da Súmula n. 7/STJ.
+4. Agravo interno improvido"(AgInt nos EDcl no REsp 1.569.623/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/06/2019, DJe 27/06/2019).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
