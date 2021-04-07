@@ -1,0 +1,33 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Crimes de tráfico de drogas e resistência. Dosimetria da pena. Regime inicial. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. PLEITO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006 NO PATAMAR MÁXIMO. IMPOSSIBILIDADE. RÉU QUE RESPONDE A OUTRA AÇÃO PENAL PELO CRIME DE TRÁFICO. CIRCUNSTÂNCIAS DO DELITO QUE JUSTIFICAM A APLICAÇÃO DA MINORANTE NO PATAMAR MÍNIMO. AGRAVO DESPROVIDO.
+    1. Agravante condenado à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, a ser cumprida no regime semiaberto, pela prática do crime de tráfico de drogas, e de 2 (dois) meses de detenção, em regime aberto, por infração ao disposto no art. 329, caput, do Código Penal, porque flagrado, junto com corréu, comercializando 99 (noventa e nove) pedras de crack, pesando aproximadamente 14,8 gramas, e resistir à prisão.
+    2. O legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do magistrado, que deve observar o princípio do livre convencimento motivado.
+    3. No caso, as instâncias ordinárias trouxeram como fundamento para aplicar a fração mínima de 1/6 (um sexto), não apenas a quantidade de droga, mas sobretudo as circunstâncias do crime e o fato de o Réu ostentar ação penal em andamento pelo crime de tráfico de drogas, entendimento que encontra amparo na jurisprudência desta Corte Superior. Precedentes.
+    4. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado às penas de 8 anos e 4 meses de reclusão, em regime inicial fechado, e de 2 anos e 20 dias de detenção, em regime inicial aberto, pelos crimes previstos no art. 33, § 4º, da Lei 11.343/06 e no art. 329, caput, do Código Penal, respectivamente.
+    3. O Tribunal de Justiça do Estado de Santa Catarina (TJ/SC) deu parcial provimento à defesa a fim de reduzir a pena imposta pelo crime de tráfico de drogas para 4 anos e 2 meses de reclusão, em regime inicial semiaberto. De ofício, a Tribunal estadual readequou a pena fixada pelo crime de resistência para 2 anos de detenção, mantido o regime inicial aberto.
+    4. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. A Relatora do HC 616.889, Ministra Laurita Vaz, denegou a ordem. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta a possibilidade da aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, no patamar máximo de 2/3. Alega que a existência de ações penais em curso contra o paciente não justifica a fixação da minorante no patamar mínimo.
+    6. A defesa requer a concessão da ordem a fim de reduzir a pena imposta ao acionante.
+    7. Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    10. No caso, o percentual de aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas foi aplicado no patamar mínimo de 1/6 com respaldo em dados objetivos da causa, notadamente porque “em consulta processual se verificou ação penal EPROC n. 5003729-74.2020.8.24.0075 em andamento, por tráfico de drogas”. Transcrevo, nesse sentido, as seguintes passagens do acórdão do TJ/SC:
+    “[...]
+     Da análise dos autos, verifica-se que ambos os apelantes, de fato, são primários, não possuem antecedentes (eventos 123 e 124), tampouco há informações de que participem ou tenham envolvimento em organização criminosa.
+    Feitas essas considerações, na hipótese, a concessão do tráfico privilegiado no patamar mínimo (1/6), restou corretamente justificada pela natureza e quantidade da droga (14,67g de 'crack' - 99 porções), dado o efeito devastador e elevadíssimo poder de adicção do 'crack'.
+    Ademais, se justifica ainda mais o decréscimo de apenas 1/6 (um sexto) ao apelante (...), haja vista que: 1) em sua residência restou apreendida balança de precisão; 2) na etapa extrajudicial admitiu que quando adolescente utilizava a referida balança no comércio de drogas; e porque 3) em consulta processual se verificou ação penal EPROC n. 5003729-74.2020.8.24.0075 em andamento, por tráfico de drogas (fatos: 04.03.2020 - 35g de cocaína droga que trazia consigo e balança de precisão no interior da residência), o que indica que ainda continua a delinquir.
+    (...)
+    Tendo em vista que na primeira etapa da pena foram excluídas todas as circunstâncias judiciais negativas de ambos os apelantes a pena fica estabelecida no mínimo legal, qual seja, 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+    Na segunda etapa inexistem atenuantes ou agravantes.
+    Na terceira fase ausentes causas de aumento da reprimenda, mas presente a causa de diminuição concernente ao tráfico privilegiado, motivo pelo qual a pena deve ser minorada no patamar de 1/6 (um sexto) restando a pena definitiva de ambos os apelantes em 4 (quatro) anos e 2 (dois) meses de reclusão, além do pagamento de 417 (quatrocentos e dezessete) dias-multa, cada qual no valor de 1/30 do salário- mínimo vigente à época dos fatos, por infração ao art. 33, §4º da Lei de Drogas.
+    Diante do quantum irrogado, da primariedade e da ausência de circunstâncias judiciais negativas, o regime semiaberto revela-se adequado a ambos os apelantes quanto ao crime de tráfico de drogas.
+    [...]” (Grifos acrescentados)
+    11. Sendo assim, não verifico situação de teratologia ou ilegalidade flagrante que justifique o acolhimento da pretensão defensiva.
+    12. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 07 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
