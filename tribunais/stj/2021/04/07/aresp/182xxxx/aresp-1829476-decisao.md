@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROSELI MACEDO SILVA CARNEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL  NEGATIVAÇÃO DE NOME  COMPROVAÇÃO DA EXISTÊNCIA DA DIVIDA E DA INADIMPLÊNCIA  IMPOSSIBILIDADE DE DECLARAÇÃO DE SUA INEXISTÊNCIA  NÃO OCORRÊNCIA DE DANO MORAL  INEXISTÊNCIA DE NOTIFICAÇÃO PRÉVIA  IRRELEVÂNCIA  AÇÃO INTENTADA EM FACE DO ESTABELECIMENTO COMERCIAL DEVER DE NOTIFICAÇÃO A CARGO DO ÓRGÃO MANTENEDOR DO CADASTRO DE PROTEÇÃO AO CRÉDITO  CONDENAÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS E DE HONORÁRIOS DE ADVOGADO  QUESTÃO DE ORDEM PÚBLICA  POSSIBILIDADE DE REVISÃO DE OFICIO PELO TRIBUNAL. (fl. 223).
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do art. 5º, X, da CF/88, no que concerne à decisão equivocada do Tribunal a quo, que entendeu pela não ocorrência de danos morais no caso de inscrição do nome da recorrente em cadastro de proteção ao crédito, sob o fundamento de que esta não comprovou suas alegações, trazendo os seguintes argumentos:
+(..) tem-se por não provado o fato modificativo do direito alegado na inicial (art. 373, II, CPC/2015), pois, cabeira à Recorrida, demonstrar o débito, o que não o fez (..).
+Logo, onde estão os documentos que, de fato, comprovam a divida, e mais, as cobranças dirigidas a Recorrente pela Recorrida
+Assim o dizemos, pois, os documentos de folhas 46/78, não há um único indicio de que a Recorrida age na defesa de seus direitos, pois, não colacionou sequer uma cobrança enviada a Recorrente, repisamos, sequer a notificação de débito, ao contrário, colacionou, tão somente, as telas de computador, impressas, às folhas 48 e 57/62, assim, não trouxe a Recorrida, aos autos, qualquer notificação de débito enviada a Recorrente, ou gravação telefônica de cobrança, limitou-se a trazer apenas "print" de telas do seu sistema interno, repisamos, com a devidas vênias valorados como prova pelo R. Juizo a quo, sem qualquer informação clara quanto à mora da Recorrente, assim, ao contrário do decidido, onde está o comprovado pela Recorrida. Imperioso ressaltar que tais documentos (telas de computador) não suficientes para comprovar débito (..)
+ ..
+Assim, ao contrário do que consta da R. Sentença primeja, o que fora acompanhado no V. Acórdão, no sentido de que a Recorrida "..apresentou documentação idônea acerca da regular cobrança do débito, bem como do negócio jurídico realizado..", tal não condiz com a realidade, conforme retro exposto. (fls. 284).
+ ..
+Logo, procedente é o pedido de dano moral.
+Assim, repisamos, patente e latente, a ofensa aos direitos constitucionais da Recorrente, em especial ao artigo 5º, X, da CF. (fls. 282-285).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Ao exame dos autos, verifica-se que, na inicial, a parte autora, ora apelante, alegou que teve seu nome indevidamente inscrito no cadastro de proteção ao crédito pela parte ré.
+ ..
+Disse que está em dia com suas obrigações.
+Porém, ao contestar esta ação, a parte ré afirmou que não foram pagas as mensalidades dos meses de junho a setembro de 2013, que foram as que deram causa a negativação do nome da parte autora, conforme se vê do documento de f. 30.
+No entanto, a parte autora juntou aos autos apenas as faturas dos meses de março e abril de 2013 (ff, 27/28).
+Assim, não comprovou o pagamento das faturas dos meses de junho a setembro de 2013. (fls. 225-226).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
