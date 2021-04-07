@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por RAFAEL BIANCHI BATISTAcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado (fls. 64):
+HABEAS CORPUS. JÚRI. HOMICÍDIO TENTADO, RECEPTAÇÃ O E POSSE DE ARMA DE USO RESTRITO.PRISÃO PREVENTIVA J Á ANALISADA EM HABEAS CORPUS ANTERIOR. PANDEMIA DA COVID-19. CASO CONCRETO Q UE N Ã O E NSEJA RECONSIDERAÇÃO. Em que pese o risco ao qual a saúde do paciente possa estar sendo submetida no cárcere, risco também haveria do lado de fora, e ainda associado ao risco que ele próprio representa à segurança coletiva, outro valor social que deve ser preservado. Logo, não há razão para reconsiderar o decreto que já foi mantido por sua legalidade e necessidade.
+EXCESSO DE PRAZO. INOCORRÊNCIA. Se o feito vem sendo adequadamente conduzido na origem, tramitando por período razoável e se m nenhum lapso temporal de inatividade injustificada, inexiste constrangimento ilegal por excesso de prazo.
+PERÍODO ATUAL DE S USPENSÃO DOS PRA ZOS PROCESSUAIS. IRRELEVÂNCIA. I NOCORRÊNCIA DE IRRAZOABILIDADE OU EXCESSO. DECRETO PRISIONAL MANTIDO. Não há irrazoabilidade no período de suspensão processual determinado pelo Poder Judiciário de modo extraordinário pela necessidade de controlar a pandemia da covid-19, diante da situação de emergência sanitária que está sendo vivenciada. ORDEM DENEGADA. UNANIME
+O recorrente foi preso preventivamente, em junho de 2019, pela supostaprática dos delitos de porte ilegal de arma de fogo, receptação de veículos, adulteração de sinal identificador de veículo automotor e tentativa de homicídio contra policiais.
+Sustenta excesso de prazo para formação da culpa por encontrar-se preso há mais de um ano sem qualquer previsão para o encerramento da primeira fase processual.
+Requer, no mérito, a revogação da prisão cautelar ou a sua substituição por medidas cautelares diversas.
+O pedido de liminar foi indeferido às fls. 144-145.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls.158).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl.67):
+ ..
+Ainda, das informações prestadas pelo Juízo de origem é possível verificar que o processo está seguindo seu curso natural e sem nenhuma mora injustificada, não havendo, no lapso temporal até agora transcorrido, qualquer irrazoabilidade que caracterize constrangimento ilegal por excesso de prazo, aguardando o juízo o reestabelecimento do s serviços para continuação da instrução, marcada inicialmente para o dia 13/08/2020.De mais a mais, a atual situação de emergência sanitária em nada modifica a situação, porque o período de suspensão processual determinado pelo Poder Judiciário, de modo extraordinário diante da necessidade de controlar a pandemia da covid-19, também não se mostra excessivo, desproporcional ou irrazoável no atual cenário da saúde pública.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
