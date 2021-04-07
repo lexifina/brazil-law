@@ -1,0 +1,5 @@
+DECISÃO
+A ASSOCIAÇÃO DE DEFESA DAS VÍTIMAS DE PIRÂMIDES FINANCEIRAS - ADEVPF, habilitada na origem como assistente de acusação, peticiona, às fls. 753-893, com o objetivo de ver reconsiderado o acórdão de fls. 737-749, que deu provimento ao recurso em mandado de segurança proposto por Vivar Tecnologia da Informação LTDA - ME, a fim de permitir o desbloqueio de suas contas-correntes.
+Entretanto, observo que o pedido é manifestamente incabível. Com efeito, o acórdão que apreciou o mérito do recurso em mandado de segurança deve ser impugnado pela via adequada, que não admite simples pedido de reconsideração. Assim, em virtude de erro grosseiro, não é possível nem sequer a aplicação do princípio da fungibilidade recursal. Nesse sentido é a pacífica jurisprudência desta Corte (v.g. AgInt no AgInt no AREsp n. 918.299/MG, Rel. Ministro Og Fernandes, DJe 23/2/2017).
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do pedido de reconsideração.
+Publique-se e intimem-se.
