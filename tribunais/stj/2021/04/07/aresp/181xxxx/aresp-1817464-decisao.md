@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE INDENIZATÓRIA PROCEDÊNCIA ADEQUAÇÃO AUTORA QUE BUSCA COBERTURA COM OS GASTOS DE SEU PARTO ALEGAÇÃO DE EXISTÊNCIA DE CARÊNCIA NÃO CUMPRIDA SITUAÇÃO DE URGÊNCIA E EMERGÊNCIA QUE AFASTA A CARÊNCIA APLICAÇÃO DOS ARTIGOS 12 INCISO V ALÍNEA "C" E 35-C DA LEI N 9656/98 RECUSA ABUSIVA OCORRÊNCIA DE DANOS MORAIS RECURSO IMPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do 35-C, parágrafo único, da Lei 9.656/98, no que concerne ao não reconhecimento da regularidade do prazo de carência contratual imposto, que ensejou a negativa de cobertura do procedimento obstétrico, trazendo os seguintes argumentos:
+Conforme exposto na inicial, em 20/02/2018, a Requerente estava gestante de 38 (trinta e oito) semanas e 04 (quatro) dias na ocasião da internação para a realização do parto, alegando que o bebê nasceria prematuro.
+Entretanto, há que se ressaltar que, conforme definição da Agência Nacional de Saúde Suplementar, o nascimento com mais de 37 semanas se enquadra na definição de PARTO A TERMO SEGUNDO OS CRITÉRIOS DA PRÓPRIA ANS (AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR):
+ ..
+Portanto, tratando-se de parto a termo, d escaracterizado o c aráter emergencial , está sujeito aos prazos de carência contratual:
+ ..
+O procedimento CESARIANA foi indeferido, uma vez que a beneficiária possuía carência até 21/02/2018, visto que contratou seu plano em 28/04/2017.
+ ..
+Como se vê, por expressa determinação legal, compete à Agência Nacional de Saúde Suplementar - ANS estabelecer a amplitude das coberturas dos planos de saúde no território nacional.
+A imposição de carências é expressamente autorizada pela Lei que regula a atividade das operadoras de planos privados de assistência à saúde.
+Não obstante, em atendimento às determinações legais (Lei 9.656/98) o contrato assistencial que beneficia a Requerente, dispõe de forma clara e objetiva sobre os prazos de carência.
+Não houve descumprimento legal e contratual que justificasse a necessidade de intervenção judicial para a solução da demanda, concluindo, por conseguinte, pela validade da negativa e total improcedência da presente ação. (fls. 379).
+Quanto à segunda controvérsia, também pela alínea "a" do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne à inexistência de ato ilícito que enseje o dever de indenizar danos morais e materiais, trazendo os seguintes argumentos:
+Por óbvio não é o caso, cabendo frisar que a conduta da Recorrente decorreu de razoável interpretacão da Lei no 9.656/98, da RN 162 do Conselho de Saúde Suplementar e das cláusulas contratuais.
+ ..
+Por tais motivos, não poderia ser imposta a condenação à indenização por danos morais à Recorrente, pois esta jamais praticou ato ilícito, tendo apenas observado as determinacões da Lei e do Conselho de Saúde Suplementar, órgão ao qual está submetida.
+ ..
+Deste modo, demonstrado que o v. acórdão proferido pelo Egrégio Tribunal de Justiça do Estado de São Paulo contrariou os artigos 186 e 927, ambos do Código Civil, uma vez que a Recorrente não praticou qualquer ato ilícito, deve ser o presente Recurso Especial conhecido e provido, para que seja afastada a condenação ao pagamento de indenização por danos materiais e morais, julgando-se a lide TOTALMENTE IMPROCEDENTE.
+Subsidiariamente, é pacífico o entendimento deste Colendo Superior Tribunal de Justiça que é possível a redução do quantum fixado a título de danos morais caso se mostre abusivo. (fls. 381).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no Resp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Cuida-se de ação indenizatória sob o fundamento de que a autora é beneficiária do plano de saúde da ré.
+Afirma fazer jus à cobertura dos gastos alusivos ao seu parto, pois a despeito de, à época, ainda não ter findado o prazo de carência (faltando menos dois dias para tanto), o procedimento foi de emergência, devido ao sofrimento fetal. Salientou ter experimentado danos morais.
+Consta do prontuário apresentado pela autora que seu parto, a termo e inicialmente com indicação de ser normal, evoluiu para a necessidade de realização de cesariana de urgência/emergência, pois constatada bradicardia/sofrimento fetal (fls.96/99 e 107, além dos demais documentos médicos de fls. 100/152).
+Uma vez atestada a urgência médica, é abusiva a restrição imposta, pois de acordo com o art. 12, inciso V, alínea "c" da Lei 9.656/98, o plano de saúde não pode negar coberturapara casos de urgência médica.
+Também o art. 35-C da mesma Lei determina que é obrigatória a cobertura de atendimento nos casos de urgência e emergência.
+No mesmo sentido é a Súmula 103 deste Tribunal: "É abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98". (fl. 364/365)
+Assim, para afastar a caracterização de urgência do procedimento, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à segunda controvérsia, assim decidiu o acórdão recorrido:
+O dano moral é aquele que ofende a um atributo da personalidade, tais como a vida, a integridade física, a intimidade, a vida privada, a honra, dentre outros (artigo 5º, inciso X da Constituição Federal).
+Em regra, não ensejam danos morais o simples descumprimento de contrato, para o que a indenização deve estar adstrita à seara patrimonial.
+Neste caso concreto o dano causado extrapola o mero aborrecimento, ofendendo de forma anormal os direitos da personalidade da autora.
+Portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
