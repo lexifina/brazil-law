@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE INDENIZAR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015(Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os vícios estruturais de construção estão acobertados pelo seguro habitacional. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROScontra a decisão (fls. 1.178-1.181e-STJ) que deuprovimento ao recurso especial para restabelecer a sentença defls. 995/1.007 (e-STJ).
+Naquela oportunidade, concluiu-se que o seguro habitacional acoberta osinistro concomitantemente à sua vigência, mesmo após a extinção docontrato.
+Em suas razões(fls. 1.184-1.197 e-STJ), a agravante sustentaque, no tocante à sua ilegitimidade passiva, arguida emrecurso especial, não incide a Súmula nº 284/STF.
+Aponta que foi realizado onecessário cotejo analítico, nos termos do art. 1.029, §1º, do Código de Processo Civil de 2015,c/c art. 255 do RISTJ.
+Porfim, afirma que
+"(..) em casos como este, no qual se busca indenização por sinistro decorrente de vício de construção ocorrido após a entrega do imóvel, excluído de cobertura tanto pela apólice, quanto pela regulação e pela legislação, a jurisprudência pátria não hesita em rejeitar o pleito autoral" (fl. 1.768 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE INDENIZAR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015(Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os vícios estruturais de construção estão acobertados pelo seguro habitacional. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, porque dissociadas do teor da decisão atacada, as seguintesalegações são descabidas:
+(i)"no tocante àmatéria de ilegitimidade passiva da recorrente, arguida em sede de Recurso especial, incide a censura da Súmula nº 284 do STF",e
+(ii)"incabível a alegação de ausência de realização do necessário cotejo, nos termos do art. 1.029, §1º do CPC c/c art. 255 do RISTJ, bem como a aplicação da Súmula 284 do STF" (fl. 1.762 e-STJ) são descabidas, pois dissociadas do teor da decisão atacada.
+Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+Quanto ao mais, de acordo com o entendimento da Segunda Seção, ressalvado o ponto de vistadeste relator,
+"(..) os vícios estruturais de construção estão acobertados peloseguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo apósa conclusão do contrato, para acobertar o sinistro concomitante à vigênciadeste, ainda que só se revele depois de sua extinção (vício oculto)" (REspnº 1.804.965/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em27/5/2020, DJe 1º/6/2020).
+Eis a ementa do referido julgado:
+"RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. NEGATIVA DEPRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. IMÓVELADQUIRIDO PELO SFH. ADESÃO AO SEGURO HABITACIONAL OBRIGATÓRIO.RESPONSABILIDADE DA SEGURADORA. VÍCIOS DE CONSTRUÇÃO (VÍCIOS OCULTOS).BOA-FÉ OBJETIVA. FUNÇÃO SOCIAL DO CONTRATO. JULGAMENTO: CPC/15.
+1. Ação de indenização securitária proposta em 11/03/2011, de que foiextraído o presente recurso especial, interposto em 12/07/2018 e conclusoao gabinete em 16/04/2019.
+2. O propósito recursal é decidir se os prejuízos resultantes de sinistrosrelacionados a vícios estruturais de construção estão acobertados peloseguro habitacional obrigatório, vinculado a crédito imobiliário concedidopara aquisição de imóvel pelo Sistema Financeiro da Habitação - SFH.
+3. A ausência de decisão acerca dos dispositivos legais indicados comoviolados impede o conhecimento do recurso especial (súm. 211/STJ).
+4. Devidamente analisadas e discutidas as questões de mérito, esuficientemente fundamentado o acórdão recorrido, de modo a esgotar aprestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+5. Em virtude da mutualidade ínsita ao contrato de seguro, o risco cobertoé previamente delimitado e, por conseguinte, limitada é também a obrigaçãoda seguradora de indenizar; mas o exame dessa limitação não pode perder devista a própria causa do contrato de seguro, que é a garantia do interesselegítimo do segurado.
+6. Assim como tem o segurado o dever de veracidade nas declaraçõesprestadas, a fim de possibilitar a correta avaliação do risco pelosegurador, a boa-fé objetiva impõe ao segurador, na fase pré-contratual, odever, dentre outros, de dar informações claras e objetivas sobre ocontrato, para permitir que o segurado compreenda, com exatidão, o
+verdadeiro alcance da garantia contratada, e, nas fases de execução epós-contratual, o dever de evitar subterfúgios para tentar se eximir desua responsabilidade com relação aos riscos previamente determinados.
+7. Esse dever de informação do segurador ganha maior importância quando setrata de um contrato de adesão - como, em regra, são os contratos deseguro -, pois se trata de circunstância que, por si só, torna vulnerávela posição do segurado.
+8. A necessidade de se assegurar, na interpretação do contrato, um padrãomínimo de qualidade do consentimento do segurado, implica o reconhecimentoda abusividade formal das cláusulas que desrespeitem ou comprometam a sualivre manifestação de vontade, enquanto parte vulnerável.
+9. No âmbito do SFH, o seguro habitacional ganha conformação diferenciada,uma vez que integra a política nacional de habitação, destinada afacilitar a aquisição da casa própria, especialmente pelas classes demenor renda da população, tratando-se, pois, de contrato obrigatório quevisa à proteção da família e à salvaguarda do imóvel que garante orespectivo financiamento imobiliário, resguardando, assim, os recursospúblicos direcionados à manutenção do sistema.
+10. A interpretação fundada na boa-fé objetiva, contextualizada pelafunção socioeconômica que desempenha o contrato de seguro habitacionalobrigatório vinculado ao SFH, leva a concluir que a restrição decobertura, no tocante aos riscos indicados, deve ser compreendida como aexclusão da responsabilidade da seguradora com relação aos riscos queresultem de atos praticados pelo próprio segurado ou do uso e desgastenatural e esperado do bem, tendo como baliza a expectativa de vida útil doimóvel, porque configuram a atuação de forças normais sobre o prédio.
+11. Os vícios estruturais de construção provocam, por si mesmos, a atuaçãode forças anormais sobre a edificação, na medida em que, se é fragilizadoo seu alicerce, qualquer esforço sobre ele - que seria naturalmentesuportado acaso a estrutura estivesse íntegra - é potencializado, do pontode vista das suas consequências, porque apto a ocasionar danos nãoesperados na situação de normalidade de fruição do bem.
+12. Recurso especial parcialmente conhecido e, nessa extensão, provido".
+Ainda do mencionado julgado, extrai-se que para o fim de análise dacobertura do seguro habitacional ou não, deve-se verificarse os danossuportados são exclusivamente em virtudedo decurso do tempo e da utilizaçãonormal da coisaou se resultam de vícios estruturais de construção, a queos segurados não deram causa, nem poderiam de qualquer modo evitar, e queapenas se agravam com o passar do tempo e a utilizaçãonormal da coisa.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA.SISTEMA FINANCEIRO DE HABITAÇÃO. CLÁUSULA EXCLUDENTE DE RESPONSABILIDADE POR VÍCIOS CONSTRUTIVOS. INAPLICABILIDADE.CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DA SEGUNDA SEÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de que "a interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio"(REsp 1.804.965/SP, Rel.Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/05/2020, DJe de 1º/06/2020).
+3. No caso, como se trata de vícios estruturais, intrínsecos à construção vinculada ao SFH, é incabível a sua exclusão quanto à cobertura por seguro obrigatório. Incidência da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1.648.820/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe 20/10/2020 - grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. CARÁTER INFRINGENTE. POSSIBILIDADE. OMISSÃO RECONHECIDA. NOVOJULGAMENTO DO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR VÍCIOS DECONSTRUÇÃO. SEGURO HABITACIONAL. RESPONSABILIDADE DA SEGURADORA. DANOS DECONSTRUÇÃO (VÍCIOS OCULTOS). BOA-FÉ OBJETIVA PÓS-CONTRATUAL. PRECEDENTE DATERCEIRA TURMA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. AGRAVO INTERNO PROVIDO.AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. A atribuição de efeitos infringentes aos embargos de declaração épossível, em hipóteses excepcionais, para corrigir premissa equivocada nojulgamento, bem como nos casos em que, sanada a omissão, a contradição oua obscuridade, a alteração da decisão surja como consequência necessária.
+3. A questão relativa a abusividade de cláusula constante nas condiçõesparticulares do seguro habitacional inserto no âmbito do SistemaFinanceiro Habitacional é unicamente de direito e configura hipótese deviolação direta aos dispositivos legais que disciplinam o instituto (arts.47, 51, IV, e 54, § 4º, todos do CDC), razão pela qual é cabível o recursoespecial.
+4. Esta eg. Terceira Turma do Superior Tribunal de Justiça, ao julgar oREsp 1.717.112/RN, na sessão realizada aos 25/9/2018, analisandocontrovérsia idêntica à dos presentes autos, pacificou o entendimento deque os vícios estruturais de construção, à luz dos princípios da boa-féobjetiva e da proteção contratual do consumidor, estão acobertados peloseguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo apósa extinção do contrato de mútuo, para acobertar o sinistro concomitante asua vigência, ainda que só depois da sua conclusão venha a se revelar ovício oculto, defeito cuja data inicial não se logra apurar.
+5. Embargos de declaração acolhidos para, sanada a omissão, dar provimentoao agravo interno e conhecer do agravo para dar provimento ao recursoespecial" (EDcl nos EDcl no AgInt no AREsp 1.317.160/SC, Rel. MinistroMOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/6/2020, DJe 17/6/2020 -grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUALCIVIL.SEGURO HABITACIONAL. INTERESSE DA CEF E COMPETÊNCIA. SÚMULA 283/STF.PRESCRIÇÃO. ATRAÇÃO DO ENUNCIADO 7/STJ. QUITAÇÃO. REVISÃO DO ENTENDIMENTODESTA TERCEIRA TURMA. VÍCIOS CONSTRUTIVOS. OBRIGAÇÃO DE INDENIZAR. MULTADECENDIAL. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.792.592/SP, Rel.Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/3/2020,DJe 1º/4/2020 - grifou-se).
+Assim, não prosperam as alegações postas no presente recurso, pois incapazes de alterar os fundamentos da decisão atacada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
