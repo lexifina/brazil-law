@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória formulado por MAXDECOR DECORACOES LTDA, objetivando a concessão de efeito suspensivo a recurso especial interposto contra acórdão proferido pelo TJ/SP.
+Ação: de abstenção de uso e reparação de danos materiais, ajuizada pela requerente, em desfavor de G C GONCALVES MOLDURAS EIRELI e OUTROS, em virtude de suposta violação de direitos autorais e prática de concorrência desleal.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar os requeridos a se absterem de utilizar as fotografias de propriedade da requerente ou textos idênticos, na divulgação de seus produtos, sob pena de fixação de multa diária. Dada a sucumbência recíproca, fixou os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa, sendo 90% (noventa por cento) a cargo da autora/ora requerente em favor dos advogados dos réus, e 10% (dez por cento) a cargo dos réus/ora requeridos em favor dos patronos da parte adversa (e-STJ fls. 183-190).
+Acórdão: negou provimento à apelação interposta pela requerente, nos termos da seguinte ementa:
+Ação de abstenção de uso e indenização por danos materiais por violação de direitos autorais e concorrência desleal com pedido de tutela de urgência - Pretensão visando o reconhecimento da utilização indevida de sua invenção - Incidência da Lei 9.279/96, e não da Lei 9.610/88 - Ausência de registro no INPI a afastar a titularidade da autora sobre o desenho industrial Concorrência desleal - Inexistência - Danos materiais decorrentes da utilização indevida de fotos e textos - Não comprovação - Sentença de improcedência - Manutenção - Arbitramento de honorária que adotou o critério legal objetivo - Manutenção - Recurso desprovido (e-STJ fl. 173).
+Recurso especial: foi interposto pela requerente, com base nas alíneas "a" e "c" do permissivo constitucional (e-STJ fls. 31-118).
+Decisão da Presidência do TJ/SP: determinou o sobrestamento do recurso especial interposto pela requerente, tendo em vista a afetação, pelo STJ, do julgamento de uma das questões jurídicas versadas no recurso, qual seja, a da possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade (e-STJ fls. 191-192).
+Os advogados dos réus/ora requeridos pleitearam, para fins de recebimento da verba honorária que lhes compete, o cumprimento provisório da sentença.
+Pedido de tutela provisória: pleiteia a atribuição de efeito suspensivo ao recurso especial, asseverando, em síntese, que "o requerido ajuizou um cumprimento provisório de sentença acerca dos honorários sucumbenciais (em valor excessivo), matéria essa que afetou o recurso da parte autora, haja vista que está sendo discutida pelo E. Superior Tribunal de Justiça. Assim, a recorrente está impossibilitada de se defender, uma vez que seu recurso especial se encontra sobrestado, não tendo sequer sido apreciado o juízo de admissibilidade de seu recurso, sendo que o nele pleiteado está inteiramente ligado com o cumprimento de sentença" (e-STJ fl. 7).
+Relatados os fatos, decide-se.
+Inicialmente, faz-se mister destacar os artigos do Novo Código de Processo Civil acerca da tutela provisória:
+Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental.
+Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito.
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo." (grifos acrescidos)
+Tem-se ainda que o mesmo diploma legal, com as alterações estabelecidas pela Lei nº 13.256/2016, assim dispõe acerca da concessão de efeito suspensivo a recurso especial:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..)
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037. (grifos acrescidos)
+Na espécie, como mesmo informado pela requerente, o recurso especial foi sobrestado na origem, a fim de aguardar o julgamento de tese jurídica - possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do CPC/2015 - afetada, sob o regimento dos recursos repetitivos, por este STJ.
+Assim, é correto afirmar que não há competência aberta desta Corte para apreciação do pedido de tutela provisória, requerimento que deverá, obrigatoriamente, ser formulado com a estrita observância da regra de competência prevista no art. 1.029, §5º, III, do CPC/15.
+Forte nessas razões, NÃO CONHEÇO do pedido, com fundamento no art. 34, XVIII, "a" do RISTJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
