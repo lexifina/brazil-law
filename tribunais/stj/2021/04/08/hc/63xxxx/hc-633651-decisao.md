@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de LARISSA JULIANA DE SOUZA CARDOSOcontra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0000455-02.2018.8.26.0594.
+Depreende-se dos autos que a paciente foi condenada, em primeira instância, às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, mais pagamento de 500 (quinhentos) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006 (fls. 21-30).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 14-20.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a paciente tem direito ao reconhecimento do tráfico privilegiado.
+Sustenta a primariedade, bons antecedentes e a ausência de participação em organização criminosa ou atividade delitiva.
+Defende que a quantidade de entorpecente apreendido não tem o condão de impedir o benefício pleiteado.
+Aduz ser aplicável à espécie o regime inicial semiaberto.
+Assere que o modo mais gravoso foi fixado com base na gravidade abstrata do delito, em franco descompasso com as Súmulas 719 do STF e 440 do STJ.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 797-798).
+Informações prestadas às fls. 809-834.
+O Ministério Público Federal, às fls. 843-846, manifestou-se pela concessão parcial da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. DOSIMETRIA DA PENA. AFASTAMENTO DA MINORANTE DO § 4º DO ART. 33 DA LEI N.º 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSIÇÃO DO REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO E NATUREZA HEDIONDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. POSSIBILIDADEDE APLICAÇÃO DO REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DEDIREITOS. INVIABILIDADE.
+Parecer pela concessão parcial da ordem para fixação do regime inicial intermediário" (fl. 843).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) o reconhecimento do tráfico privilegiado e, por conseguinte, a substituição da pena privativa de liberdade por restritiva de direitos; e ii) a fixação do regime inicial semiaberto.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Na última etapa, a douta Magistrada deixou, adequadamente, de aplicar o redutor por conta da considerável quantidade e diversidade de entorpecentes, além da apreensão da balança de precisão e material para embalagem e acondicionamento de drogas, demonstrando, assim, a dedicação dos recorrentes à atividade criminosa em questão, não cumprindo, dessa forma, com os requisitos exigidos para a concessão do benefício, pesem as primariedades, porque pelo contexto se verifica que eles não se tratam do pequeno traficante que a lei buscou beneficiar.
+ ..
+O regime prisional fechado é o recomendável à hipótese. A gravidade concreta do delito do ilícito tráfico de drogas e o dano social que este provoca faz com que as penas alternativas ou a fixação de regimes prisionais menos restritivos não sejam adequados nem suficientes como forma de repreensão e reprovação da conduta do agente criminoso. A substituição ou a imposição de regime prisional menos gravoso acabariam gerando um incentivo à prática do comércio ilegal, causando à sociedade a sensação de impunidade e banalização do crime de tráfico de entorpecentes.
+Além do mais, a imposição do regime mais gravoso para início do cumprimento da pena é o reflexo esperado por conta do tratamento rigoroso dado pela Constituição da República ao crime de tráfico ilícito de drogas que, inclusive, é equiparado à categoria de crime hediondo pela legislação infraconstitucional.
+No caso é inviável o acolhimento do pleito defensivo para a diminuição da pena pecuniária, pois esta decorre diretamente do tipo legal a que se subsume a conduta do acusado" (fls. 19-20).
+Quanto ao pedido de incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, frise-se que, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, há fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada na quantidade, na variedade e na natureza da droga apreendida, ou seja: 2.682,23 g de maconha; 5.997,50 g de cocaína; 1.149,90 g de crack.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+Nesse sentido: HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017; e HC n. 379.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017.
+No mais, a quantidade, a variedade e a natureza do entorpecente - 2.682,23 g de maconha; 5.997,50 g de cocaína; 1.149,90 g de crack - são elementos aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
