@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminarimpetrado, de próprio punho,por FELIPE GABRIEL DOS REIS, em seu benefício, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Informa o impetrante/paciente que é portador de graves doenças e que não há tratamento na unidade prisional em que se encontra, razão pela qual pugna pela concessão de prisão domiciliar.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento ou pela denegação da ordem.
+É, em síntese, o relatório.
+Infere-se dos autos que o Tribunal de origem não apreciou opleitoapontadono presente writ. Sendo assim, a análise dotemanão pode ser submetida a esta Corte Superior, sob pena de configurar indevida supressão de instância.
+Como bem anotado no parecer ministerial (e-STJ fls. 83/84):
+Conforme informações prestadas pelo Tribunal de Justiça do Estado do Rio de Janeiro, às fls. 30-31: "Em pesquisas aos sistemas de informática deste Tribunal, verificou-se que, até a presente data, não houve impetração de Habeas Corpus ou Agravo em Execução Penal referente ao objeto do presente writ."
+Ou seja, a ,matéria em questão não restou apreciada pela origem.
+Tão pouco há a negativa do benefício pelo juízo da execução da pena.
+Assim, nessa linha, não se mostra possível o conhecimento do presente habeas corpus, sob risco de supressão de instância.
+A propósito, confiram-se os precedentes:
+ ..  3. As alegações de deficiência de defesa técnica e de ausência de autodefesa não foram enfrentadas no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes.  ..  (HC 262.860/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016).
+ ..  1. O Tribunal de origem não analisou a suposta ausência de fundamentação idônea para a exasperação da pena-base, de forma que seu exame diretamente por esta Corte Superior acarretaria indevida supressão de instância.  ..  (HC 319.513/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/4/2016, DJe 20/4/2016).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL EM RAZÃO DA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. DEVOLUÇÃO DOS AUTOS PARA DECISÃO SOBRE O MÉRITO DA IMPUGNAÇÃO ORIGINÁRIA. RECURSO PARCIALMENTE PROVIDO.
+I - A prisão cautelar só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. O juízo de piso, ao decreta-la, inevitavelmente, deverá se pronunciar sobre os seus motivos legitimadores, ainda que de maneira que depois se considere lacunosa ou deficiente.
+II - Na hipótese, o magistrado de primeira instância já opinou sobre os requisitos e os motivos ensejadores da prisão, quando a decretou originariamente, não sendo necessário que reitere as suas razões para que a possível ilegalidade seja levada ao conhecimento do Tribunal
+II - Todavia, não tendo a eg. Corte a quo se pronunciado sobre a matéria, não pode este Superior Tribunal de Justiça enfrentar o tema, sob pena de incorrer em indevida supressão de instância. Recurso ordinário parcialmente provido, para determinar que os autos retornem ao eg. Tribunal de origem, devendo este decidir, como entender de direito, acerca da adequação da fundamentação da prisão cautelar do ora recorrente.(RHC 64.088/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/4/2016, DJe 20/4/2016.)
+ ..  1. A alegação de nulidade do decreto de prisão preventiva, fundada no fato de não ter havido prévia representação da autoridade policial quanto à custódia cautelar, é questão que não foi enfrentada no acórdão impugnado, proferido em sede de habeas corpus, o que impede esta Corte Superior de conhecer dessa matéria, sob pena de supressão de instância.  ..  (RHC 68.334/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.Dê-se ciência ao interessado.
