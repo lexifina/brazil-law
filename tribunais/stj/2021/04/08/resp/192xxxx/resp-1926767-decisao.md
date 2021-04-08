@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRE SANTANA ZIOTO, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais sintetizado nos seguintes termos (e-STJ fl. 165):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - FALECIMENTO DO AUTOR - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO - ÔNUS SUCUMBENCIAIS - VERBA HONORÁRIA - PRINCÍPIO DA CAUSALIDADE - INAPLICABILIDADE - RECURSO A QUE SE NEGA PROVIMENTO "IN CASU". - Existe dúvidas de que o requerente foi compelido a vir a juízo para o tratamento da enfermidade de que padecia, tendo, juntado documentação comprobatória somente da necessidade do pleito, e não da negativa do Estado. - A extinção do processo sem resolução do mérito, em decorrência de morte da parte e instransponível por disposição legal, importa em não incidência de condenação honorária, por ausência de parâmetro legal para tal.
+Os embargos de declaração foram rejeitados (e-STJ fls. 186/194).
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, o recorrente alega violação ao art. 85, §§ 6º e 10, do CPC/2015, sob o fundamento de que ao caso se aplica o Princípio da Causalidade, devendo o ente estatal responder pelo pagamento da verba honorária.
+Esclarece que a ação proposta contra o Estado de Minas Gerais, visava a condenação ao fornecimentode medicamentos contra o câncer. No curso do processo, o autor faleceu. Assim, em razão de tratar-se de direito intransmissível, o processo foi extinto sem julgamento de mérito. Além disso, não foram fixados honorários sucumbenciais.
+Apresentadas contrarrazões (e-STJ fls. 227/236).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão merece acolhimento.
+Cinge-se a controvérsia, segundo se extrai do acórdão recorrido, de ação de obrigação de fazer, visando compelir o ente estatal ao fornecimento de medicamento ao autor da demanda.
+Consta do julgado a quo que a demanda foi extinta sem julgamento de mérito, uma vez que a parte autora veio a óbito após a propositura da ação. Na mesma assentada, decidiu-se não existir sucumbência e, portanto, inviável a condenação ao pagamento de verba honorária. Transcrevem-se os fundamentos (e-STJ fls. 168/170):
+De fato, restou comprovado nos autos, por meio de relatórios médicos o tratamento devido para a moléstia do autor, os valores do medicamento necessário, a ausência de recursos do autor, conforme documentos anexos à inicial.
+Verificou-se ainda, que o conjunto probatório juntado aos autos foi capaz de formar convencimento do julgador que às fls. 55, que deferiu a tutela pretendida, e determinou o fornecimento pelo réu dos medicamentos pleiteados, estabelecendo inclusive multa diária no caso de descumprimento.
+Ocorre que, verificando melhor os documentos juntados, não restou constatado a juntada de comprovação da negativa pelo requerido para o fornecimento pleiteado, tendo apenas indicado o órgão correto, veja:
+"O(S) MEDICAMENTO(S) SOLICITADO(S)
+(..)
+X DESTINA(M)-SE A TRATAMENTO DE NEOPLASIA. TODOS OS MEDICAMENTOS NECESSÁRIOS SÃO GARANTIDOS PELOS CENTROS DE ALTA COMPLEXIDADE EM ONCOLOGIA (CACON), CREDENCIADOS PELO MINISTÉRIO DA SAÚDE, SOB A COORDENAÇAÕ TÉCNICA DO INSTITUTO NACIONNAL DO CÂNCER (INCA)(DISPONIVEL EM: WWW.INCA.GOV.BR);"(FIS 25).
+Observa-se que no mesmo sentido, cerca de um mês depois da distribuição da ação, o requerido peticionou informando a disponibilidade do medicamento pleiteado.
+ ..
+Ocorre que conforme verificado, o recorrido não deu causa á interposição da ação. Conforme restou comprovado o autor requereu os medicamentos necessários para o seu tratamento e a Secretaria de Estado de Saúde de Minas Gerais, por meio da Superintendência Regional de Saúde de Governador Valadares, direcionou ao órgãocompetente, ou seja, os requerido já era fornecido.
+Por mais que se tenha como fundamento o pedido do advogado do autor, recorrente, no §6º do ad. 85, do CPC, este não se aplica ao caso, tendo em vista não ser possível atribuir responsabilidade automática ao réu pela morte do autor, e nem como consequência, o ônus da sucumbência.
+Da mesma forma, incabível de aplicação ao caso o princípio da causalidade, posto que diante das provas apresentadas, não se constatou que o apelado tenha dado causa à demanda, posto que não comprovada sua alegada omissão.
+Assim, irretocável a r. sentença que deixou de atribuiu ao ESTADO DE MINAS GERAIS os honorários advocatícios, pois conforme restou comprovado, não deu causa.
+Insurge-se o recorrente contra o referido entendimento, justificando a procura por tutela jurisdicional para o caso nos termos seguintes (e-STJ fls. 205/206):
+ ..  o simples ajuizamento da Ação Ordinária com Obrigação de Fazer c/c Liminar, objetivando a condenação do Recorrido na obrigação de entregar coisa certa, que, no caso concreto, eram doses do medicamento à base de temozolomida (TEMODAL ), pertencente ao tratamento de Glioblastoma Multiforme, ÚNICO DISPONIVEL PARA O TRATAMENTO DA DOENCA DO AUTOR, conforme laudo médico de fls., 14, ainda assim, INDISPONIBILIZADO PELO SUS POR TER ALTO CUSTO, já responsabiliza oente público por ter dado causa à propositura da ação.
+Registre-se, ainda, que o autor logrou êxito em relação ao pedido liminar, fls., 55, sendo certo, ainda, que a concessão do tratamento, realizada somente após o deferimento da referida liminar não afasta a discussão sobre á obrigatoriedade ou nãoquanto ao seu fornecimento, vez que é questão de mérito, o que não é mais objeto de análise neste processo.
+Com efeito, esta Corte Superior possui interativa orientação no sentido de que sendo extinta demanda que visa o fornecimento de medicamentos, sem resolução do mérito, em decorrência do falecimento da parte autora, deve o ente estatal responder pelo pagamento das verbas sucumbenciais, em razão do princípio da causalidade, mormente no caso em tela em que se poderiaprojetar a sucumbência estatalcaso o mérito da ação fosse julgado.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA DE FORNECIMENTO DE MEDICAMENTO. MORTE DA AUTORA NO CURSO DO PROCESSO. PERDA DE OBJETO. CAUSA SUPERVENIENTE.
+HONORÁRIOS ADVOCATÍCIOS DEVIDOS. PRINCÍPIO DA CAUSALIDADE. AGRAVO INTERNO DO MUNICÍPIO A QUE SE NEGA PROVIMENTO.
+1. São devidos os honorários advocatícios quando extinto o processo sem resolução de mérito, no caso de morte do(a) autor(a) no curso do processo, devendo as custas e a verba honorária serem suportadas pela parte que deu causa à instauração do processo, ante o Princípio da Causalidade.
+2. Agravo Interno do MUNICÍPIO DE JUIZ DE FORA/MG a que se nega provimento.
+(AgInt no REsp 1810465/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/06/2020, DJe 17/06/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTENTE. ALEGAÇÃO DE VIOLAÇÃO DO ART. 20 CPC/1973. ACÓRDÃO PROFERIDO EM CONSONÂNCIA COM FIRME JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚMULA DO STJ.
+ ..
+V - O acórdão recorrido foi proferido em consonância com a firme jurisprudência desta Corte, no sentido de que, sendo extinta a demanda que objetivava o fornecimento de medicamentos, sem resolução do mérito, em decorrência do falecimento de sua parte autora, deve o ente estatal responder pelo pagamento das verbas sucumbenciais, em razão do princípio da causalidade, mormente por ter sido a demanda proposta em decorrência do não atendimento do pedido na via administrativa.
+ ..
+(AgInt no AREsp 1236461/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/09/2018, DJe 11/09/2018)
+Assim, o recurso especial deve ser provido para reconhecer a aplicação do princípio da causalidade e o estabelecimento de verba honorária em favor do advogado do autor. Por óbvio, a quantificação da medida e os critérios a serem aplicados deverão ser avaliados e estabelecidos pela instância inferior.
+Estando o acórdão de origem em dissonância com a jurisprudência desta Corte Superior, aplica-se, ao caso, a Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTO. VIOLAÇÃO AO ART. 85, §§ 6º e 10, DO CPC/2015. FALECIMENTO DO AUTOR. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO EM DESACORDO COM A JURISPRUDÊNCIA DO STJ. VERBA HONORÁRIA DEVIDA. PRECEDENTES DO STJ. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
