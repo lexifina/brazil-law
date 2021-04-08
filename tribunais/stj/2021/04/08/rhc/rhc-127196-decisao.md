@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JADSON GABRIEL OLIVEIRA DE SOUSA contra o acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento no HC n.1.0000.20.032519-9/000.
+Consta que o Recorrente foi preso em flagrante, em 14/03/2020, pela suposta prática dos ilícitos tipificados no art. 33 e 35 da Lei n.º 11.343/2006, pois, em concurso com correús, teria sido surpreendido na posse de "71 pedras e 01 porção de crack, 12 papelotes e 50 pinos de cocaína, além de 148,46g de maconha" (fls. 115-116). A custódia foi convertida em preventiva às fls. 93-98.
+Inconformada, a Defesa impetrou habeas corpus na Corte de origem, que denegou a ordem, em acórdão assim ementado (fl. 114):
+"HABEAS CORPUS - DELITOS DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO - QUESTÕES DE MÉRITO - MATÉRIA QUE DEPENDE DA ANÁLISE APROFUNDADA DA PROVA - VIA INADEQUADA - LIBERDADE PROVISÓRIA - IMPOSSIBILIDADE NO CASO CONCRETO - PRESENÇA DOS REQUISITOS QUE JUSTIFICAM A PRISÃO PREVENTIVA - REVOGAÇÃO DA PRISÃO PREVENTIVA DIANTE DA PANDEMIA CAUSADA PELO CORONAVÍRUS (COVID-19) - AUSÊNCIA DE DOCUMENTO APTO A COMPROVAR QUE O PACIENTE SE ENQUADRA NO GRUPO DE RISCO - CONSTRANGIMENTO ILEGAL - INOCORRÊNCIA - ORDEM DENEGADA.
+A estreita via do habeas corpus não comporta o exame de questões que demandam profunda análise do conjunto fático-probatório, devendo ser reservadas ao processo-crime. Estando devidamente fundamentada a decisão que determinou a prisão preventiva e estando demonstrada a necessidade de garantia da ordem pública, a segregação cautelar se impõe. A prisão preventiva funciona com a finalidade de prevenção, e não com a de punição, que é característica apenas da prisão definitiva. Não havendo nos autos documento que ateste que o paciente se enquadra no grupo de risco, inviável a sua colocação na prisão domiciliar, não se vislumbrando a ocorrência de constrangimento ilegal."
+Nas presentes razões recursais, reitera as alegações do writ originário, sustentando, em suma, que: (i) não estariam presentes na hipótese os requisitos autorizadores da prisão preventiva; (ii) possuiria as condições pessoais favoráveis; e (iii), não seria salutar permanecer no cárcere no atual cenário de pandemia do novo coronavírus.
+Requer, em medida liminar e no mérito, a substituição da prisão preventiva por medidas cautelares diversas.
+O pedido liminar foi indeferido às fls. 227-228.
+As informações processuais requisitadas foram prestadas às fls. 234-239.
+O Ministério Público Federal opinou pelo provimento do recurso às fls. 243-248.
+É o relatório.Decido.
+Em consulta aositemantido pelo Tribunal de Justiça do Estado de Minas Gerais, pude constatar que, em 20/08/2020, o Magistrado singular julgou a Ação Penal n. 0027859-87.2020.8.13.0313, condenando o ora Recorrente à pena privativa de liberdade de 2(dois) anos e 6(seis) meses de reclusão, em regime inicial aberto, e ao pagamento de 250(duzentos e cinquenta) dias-multa,pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Assim, tendo o Juízo a quodeterminado aexpedição de alvará de soltura em favor do Condenado, concluo que essa impetração perdeu o objeto.
+Ante o exposto, em razão da ausência superveniente de interesse processual,JULGO PREJUDICADOo pedido recursal, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL.REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA EM REGIME INICIAL ABERTO. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA DE OBJETO.RECURSO ORDINÁRIOPREJUDICADO.
