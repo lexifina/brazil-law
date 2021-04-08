@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JHON JAIRO CASTRO MONTOYA, CESAR ANDRES ROMERO e JAVIER HERNANDO ABRIL DUQUE,apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Piauí.
+Consta dos autos que os pacientes forampresos em flagrante (convertida a custódia em prisão preventiva) pela suposta prática dos delitos de furto qualificado, apropriação indébita e associação criminosa.
+Inconformada com o decreto constritivo, a defesa narra que impetrou habeas corpus perante a Corte de origem, tendo o Desembargador Relator indeferido o pleito defensivo (decisão não trazida aos autos).
+Na presente oportunidade, o impetrante argumenta, em síntese,a existência de injustificado excesso de prazo para a formação da culpa, estando os pacientes encarcerados há mais de 45 dias, com violação de prazos processuais, sem que haja notícia de oferecimento de denúncia. Ressalta que os acusados são primários e trata-se de crimes sem violência ou grave ameaça.
+Diante disso, requer, em liminar e no mérito, com o afastamento do óbice previsto na Súmula n. 691 do STF,a revogação da prisão preventiva, e, se for o caso, a aplicação de medidas cautelares previstas no art. 319 do CPP.
+É o relatório. Decido.
+Em princípio, não há como prosseguir a irresignação.
+Primeiramente,porque o habeas corpus não foi devidamente instruído, uma vez que não foi colacionada peça processual indispensável à instrução do mandamus,qual seja, cópia da decisão proferida pelo Tribunal de origem.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+Por outro lado, rememore-se também que oSuperior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Nesse contexto, portanto, a partir das peças trazidas aos autos, entendo não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
