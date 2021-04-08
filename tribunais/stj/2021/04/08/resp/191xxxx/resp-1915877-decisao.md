@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL AÇÃO ORDINÁRIA  REMESSA OFICIAL NÃO PROVIDA.
+1. Ausente apelo voluntário, o que reforça a higidez da decisão (dada a aparente ausência de ulterior resistência e o próprio cumprimento voluntário dela), e considerando o reconhecimento do pedido, mais decorrendo o ajuizamento da demora no exame administrativo da pretensão do direito, adiante judicialmente revelado procedente, não há qualquer óbice ao regular decurso do prazo para trânsito em julgado ante a exatidão do julgado.
+2. Na linha do STJ (REsp nº 577.229/AL), não há "quaisquer questões de fato ou de direito, referente ao mérito ou ao processo, matéria constitucional ou infraconstitucional, direito federal ou não etc", ou princípio que, em sede de exclusiva remessa oficial, desabonem a sentença.
+3. Apelação da União e remessa oficiai não providas.
+4. Peças liberadas pelo Relator, Brasília, 2 de dezembro de 2013., para publicação do acórdão.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente violação dos seguintes dispositivos: a) arts. 458 e 535, II, do Código de Processo Civil de 1973, sustentando que o acórdão recorrido padece de omissão; b) arts. 458 e 475 do Código de Processo Civil de 1973, aduzindo ser cabível o reexame necessário da decisão proferida em primeira instância.
+Houve contrarrazões (e-STJ fls. 783/794).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Preliminarmente, a parte sustenta que o acórdão recorrido é nulo na medida em que deixou de se manifestar acerca do art.475 do CPC, referente ao cabimento da remessa necessária, e do art. 458 do CPC, ligado à tese de que não apresentado fundamento que embasasse o acerto da sentença.
+De fato, o acórdão recorrido limitou-se a fundamentar que (e-STJ fl. 740):
+Ausente apelo voluntário, o que reforça a rigidez da decisão (dada a aparente ausência de ulterior resistência e próprio cumprimento voluntário dela), e considerando o reconhecimento do pedido, mais decorrendo o ajuizamento da demora no exame administrativo da pretensão do direito, adiante judicialmente revelado procedente, não há qualquer óbice ao regular decurso do prazo para trânsito em julgado ante a exatidão do julgado.
+Na linha do STJ (REsp nº 577.229/AL), não há "qualquer questões de fato ou de direito, referente ao mérito ou ao processo, matéria constitucional ou infraconstitucional, direito federal ou não etc" ou princípio que desabonem a sentença.
+Com efeito, o aresto combatido deixou de analisar a matéria controvertida, limitando-se a manter a sentença por ausência de recurso de apelação.
+Verifico, portanto, os vícios suscitados, uma vez que o decisium carece de fundamentação. Nessas hipóteses, faz-se necessário o retorno dos autos à Corte local para novo julgamento dos aclaratórios.
+Exemplificativamente:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+I - Na origem, trata-se de ação de conhecimento objetivando a declaração de nulidade de processo administrativo, relativamente à má prestação de serviços e outras questões inerentes aos contratos por ela entabulados, sustentando a impossibilidade de condução de investigação genérica, bem como pela desproporcionalidade do valor da multa aplicada, razão pela qual pugna, ainda, subsidiariamente, pela sua redução.
+II - A ação foi julgada procedente mas, em grau recursal, o Tribunal de Justiça Estadual não conheceu do recurso de apelação interposto, em razão da ausência de ratificação após o julgamento dos declaratórios recebidos com efeito modificativo.
+III - A jurisprudência desta Corte é uníssona com relação à prescindibilidade de ratificação da apelação interposta quando não alterado o capitulo impugnado da sentença. Precedentes.
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+Precedentes.
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1465390/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para que sejam sanados os vícios apontados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. RECURSO PROVIDO PARA DETERMINAR O RETORNO DOS AUTOS À CORTE DE ORIGEM.
