@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMPANHIA PAULISTA DE FORÇA E LUZcontra acórdão proferidopelo Tribunal de Justiça do Estado de São Paulo, conforme a seguinte ementa:
+Em face da morte do irmão dos autores,atingido por cabo de energia elétrica quando trafegava com motocicleta, e em face da responsabilidade objetiva da concessionária, a ré, mantém-se, com redução, sua condenação ao pagamento de indenização moral.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do especial, aponta a recorrente violação dos arts. 489 e 1.022 do CPC/2015, sustentando a omissão do acórdão recorrido quanto aos dispositivos legais apontados como violados.
+Sustenta violação dos arts. 186884, 927, 944 e 945 do CC/2002; 14 do CDC e 376, I, do CPC/2015, aduzindo, em síntese, que: (i) teria havido culpa exclusiva da vítima que estaria pilotando motocicleta sem a devida habilitação; (ii) ausência de nexo de causalidade entre o dano e o fato ocorrido, a justificar a responsabilidade da recorrente; e (iii) ausência de fundamentação para fixação do valor da indenização. Subsidiariamente, requer seja reduzido o montante indenizatório estabelecido pela Corte local.
+É o relatório.
+Passo a decidir.
+O recurso nãomerece prosperar.
+Quanto àapontada violação dosarts. 489 e1.022, pois o recorrente quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo acórdão a quo, limitando-se a afirmar a necessidade de prequestionamento, sem indicar qualquer dos vícios a que se refere a norma processual
+. Incide, pois, o óbice da Súmula 284 do Supremo Tribunal Federal, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A respeito da caracterização do dano, do nexo de causalidade, e do dever de indenizar, o Tribunal de origem assim se pronunciou (e-STJ, fls. 370/371):
+Segundo a inicial, o irmão dos autores,que não declinaram a qualificação profissional (Código de Processo Civil de 2015, art. 319, II), conduzindo motocicleta, chocou-se "com os fios da rede elétrica" "que se encontravam caídos ao chão", foi atingido por descarga e morreu no local.
+Nem questionada, a versão guarda harmonia com a narrativa do policial que atendeu à ocorrência: "a vítima encontrava-se inconsciente caída ao solo ao lado da motocicleta com um fio de energia enrolado no pescoço" (fl. 39).
+De culpa da vítima não se cogita, porquea falta de habilitação para conduzir motocicleta não passa de infração administrativa, enseja apenas sanções de idêntica natureza e não interferiu no resultado.
+Se terceira causou o rompimento da rede elétrica, do que há indício (fls. 129/263), que com ela se entenda a ré, concessionária cuja responsabilidade objetiva(Constituição da República, art. 37, § 6º, e Código de Defesa do Consumidor, artigos 14 e 17), também pelo risco da atividade (Código Civil, art. 927, parágrafo único), não se exclui por tal aspecto.Assim, obriga-se a ré a indenizar.
+Quanto ao valor da indenização, foi apresentada a seguinte fundamentação (e-STJ, fls. 371/373):
+O arbitramento da indenização moral pela morte do irmão, dor que prescinde de demonstração, há de considerar a condição da ofensora e a real finalidade do reparo, a de amenizar a lesão, tanto quanto possível.
+Há de considerar que o "sofrimento pela morte de parente é disseminado pelo núcleo familiar, como em força centrífuga, atingindo cada um dos membros, em gradações diversas, o que deve ser levado em conta pelomagistrado para fins de arbitramento do valor da reparação do dano moral" - Superior Tribunal de Justiça, REsp1101213/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDATURMA, j. 2/4/2009, DJe 27/4/2009.
+No caso, nada se sabe do convívio e do relacionamento entre os irmãos, seis os autores, entre os outros sete filhos da mesma mãe pré-morta (fl. 34).O endereço do primeiro deles, DurvalinoSteher, Travessa Mateus Riga de Oliveira nº 50, Cabrália Paulista (fls. 21/22 e 51), não corresponde ao da vítima,constante da certidão de óbito e do boletim de ocorrência,Rua Vereador José Zapatier Rios, 620 (fls. 33 e 35/40).
+Não se sabe quem é Osvaldo, referido pela testemunha sem compromisso, informante "chamo ele de Osvaldo" "morava com o irmão dele, o Osvaldo", e comas crianças de Osvaldo (fl. 290).
+Outro autor, Mario de Jesus Steher, mora nos fundos do mesmo endereço (fls. 21/22 e 55) e a coincidência se dá apenas com o de Valdelino Steher (fls.21/22 e 57) mas não foi isso que narrou a inicial (fl. 12).
+Ausente demonstração da maior proximidade e de grau de afeto e de dor, não se faz distinção entre os irmãos e, diante do excesso do arbitramento individual em cinquenta mil reais, reduz-se a indenização moral a dez mil reais para cada autor, com correção monetária desde a data da respeitável sentença e juros desde o evento, o que, só por si, já eleva o montante em cinquenta por cento.
+As conclusões da Corte local a respeito dacaracterização do dano bem como o valor da indenização, portanto, fundaram-se em matéria de fato, cujo revolvimento é vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. MORTE. DANOS MORAIS. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. CULPA EXCLUSIVA DA VÍTIMA. INEXISTSÊNICA DE NEXO DE CAUSALIDADE. REDUÇÃO DO VALOR DA INDENIZAÇÃO.REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DASÚMULA7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DORECURSO ESPECIAL.
