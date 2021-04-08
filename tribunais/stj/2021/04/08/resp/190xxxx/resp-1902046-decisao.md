@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Uilian Macson Furtado e Melina dos Santos Dantas, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ, fl. 3.860):
+Apelação. Usina hidrelética. Preliminares. Possibilidade jurídica do pedido. Legitimidade ativa e passiva. Teoria da asserção. Interesse de agir. Indeferimento de prova. Cerceamento de defesa. Laudo pericial. Nexo de causalidade entre construção e inundação.
+Pedido juridicamente impossível é aquele contrário ao que dispõe a legislação.
+O exame da legitimidade das partes, segundo a teoria da asserção, deve ser verificado de modo hipotético, exclusivamente mediante a consideração da relação de direito material tal como afirmada pelo demandante na petição inicial.
+O interesse de agir é evidenciado pela necessidade e utilidade do provimento jurisdicional.
+Não há que se falar em cerceamento de defesa quando após a impugnação ao laudo pericial, o perito foi intimado e prestou esclarecimentos, apresentando laudo pericial complementar, de modo que os aclaramentos foram feitos documentalmente, tendo sido preservados os princípios do contraditório e ampla defesa no procedimento.
+Demonstrado que o alagamento decorrente de enchente de 2014 fora ocasionado por fenômeno natural, impõe-se reconhecer a ausência de nexo de causalidade entre os danos sofridos pelos moradores da região afetada e o empreendimento relativo à construção da Usina Hidrelétrica de Santo Antônio, de modo que incabível a responsabilização civil da empresa a fins de reparação.
+Os embargos de declaração foram rejeitados.
+Nas razões do apelo especial, os recorrentes alegam, além da existência de divergência jurisprudencial, violação dos arts. 3º, IV, 4º, VII, 14, § 1º, da Lei n. 6.938/1981; 2º da Lei n. 5.173/1964; 2º da Lei n. 9.605/1998; 927 do Código Civil; e 373, 489, II, § 1º, I a V, §§ 2º e 3º, 543-C e 1.013 do Código de Processo Civil de 2015.
+Sustentam, em síntese, que a recorrida pratica condutas geradoras de graves danos ambientais, razão pela qual deve ser responsável pelos danos causados por suaatividade.
+Asseveram, ainda, que o Tribunal de origem não analisou e valorou devidamente as provas constante dos autos, vício caracterizador de ausência de fundamentação do julgado.
+Contrarrazões às fls. 3.988-4.010 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 4.048-4.051, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, observa-se que a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído no julgado, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nesse contexto, não implica contrariedade ao art. 535, I e II, do CPC/1973 (atual art. 1.022, I e II, do CPC/2015).
+Precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14/6/2013; AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22/5/2013; REsp n. 1.244.950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19/12/2012; e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29/10/2009.
+Outrossim, ao contrário do que se sustenta, a decisão está efetivamente fundamentada, ainda que de forma concisa, o que, na linha dos precedentes desta Corte, não se confunde comausência ou deficiência de fundamentação.
+No caso,o Tribunal de origem concluiu pela ausência de nexo de causalidade entre os danos alegados e a atividade da requerida, sob os seguintes fundamentos (e-STJ, fl. 3.814):
+Com efeito, embora o perito tenha concluído que o método utilizado na construção da usina contribuiu para os desbarrancamentos, entendo que o laudo não é conclusivo acerca da responsabilidade pela cheia de 2014, mormente porque o próprio laudo classificou o acontecimento como um fenômeno natural.
+Registre-se, ainda, que conforme consignado na Declaração de Voto do Dr. Rinaldo Forti da Silva nos autos de n. 7018407-21.2015.8.22.0001, cheias na região amazônica não são propriamente uma anomalia, mas uma constante, fazendo parte do regime climático da região. Historicamente algumas cheias são excepcionais e superam as expectativas ordinárias, mas tais ocorrências, não podem ser atribuídas à requerida pois já se verificavam antes de sua instalação, conforme se depreende da seguinte reportagem exibida pela Globo no início de 1982: .https://www.youtube.com/watch v=rCTnhnC2sXg.
+Este entendimento tem sido adotado por esta Corte, consoante voto prolatado pelo Desembargador Raduan Miguel Filho, quando do julgamento da apelação n. 7041819-44.2016.8.22.0001. Por oportuno, transcrevo excerto do julgado:
+" ..
+Vale dizer, conquanto os danos sofridos pelo apelante tenham decorrido da cheia, sua causa não pode ser atribuída à construção da usina hidrelétrica.
+Importante destacar que o apelante suportou danos ao ter seu imóvel atingido pelo alagamento do local e não pelo desbarrancamento das margens do Rio. Assim, o alagamento ao resultar de fenômeno natural, dissipa a possibilidade de ocorrer nexo de causalidade entre os danos no imóvel e o empreendimento da apelada na construção da Usina Hidrelétrica de Santo Antônio. Portanto, incabível a responsabilização civil da apelada neste caso.
+ .. "
+Consta, ainda, da declaração de voto do Desembargador Isaias Fonseca Moraes (e-STJ, fl. 3.847):
+Restou consignado em diversos estudos a respeito da Cheia de 2014 na Bacia do Rio Madeira, que uma barragem a fio d"água, como é a Barragem Santo Antônio, na qual o nível d"água do reservatório e o volume de água armazenado devem ser sempre os mesmos, não pode aumentar ou reduzir as vazões.
+Poder-se-ia ocorrer o agravamento da cheia a montante, caso as comportas não fossem suficientes para liberar o volume d"água recebido, tal fato, se ocorresse na Usina Hidroelétrica de Santo Antônio, provocaria danos, incluindo a inclusive à Usina Hidroelétrica de Jirau e, fosse nessa, o agravamento das cheias a montante desta Bolívia.
+Entretanto, na cheia de 2014, os reservatórios das usinas mantiveram o nível estável, o que significa que as comportas conseguiram liberar o volume de água recebido, o que se conclui que, havendo ou não as represas, o volume de água causaria os danos na proporção que causou.
+Com efeito, o volume de água da cheia de 2014 resultou de fenômeno natural, que acontece na região com periodicidade, intervalos de pouco mais de uma década. Logo, afastada a causa do dano como sendo de responsabilidade da empresa, não há que se falar em indenização.
+Vale dizer, conquanto os danos sofridos tenham decorrido da cheia, sua causa não pode ser atribuída à construção da usina hidrelétrica.
+Assim, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial. Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Outrossim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECLUSÃO E PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ e impede o conhecimento do recurso por ambas alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 949.860/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2016, DJe 28/10/2016)
+Ademais, é assente nesta Corte Superior que a mera transcrição da ementa do acórdão paradigma, sem a realização do necessário cotejo analítico entre trechos dos arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Diante do exposto, conheço parcialmente do recurso especial, e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários de justiça sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade deferida aos recorrentes.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DANO AMBIENTAL. RESPONSABILIDADE. NEXO CAUSAL AFASTADO. REEXAME. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
