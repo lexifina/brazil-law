@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso de agravo regimental em habeas corpus (fls. 659-672), interposto por FABIANO BODANEZI LORENZI eMARCUS VINICIUS DE FARIA PENTEADO, em face da decisão anterior que conheceu e proveu em parte o recurso ordinário para "para que o d. Ministério Público adite a denúncia, de forma a descrever as funções dos recorrentes na empresa e a relação destas com os fatos narrados (..)" (fls. 627-637).
+Neste recurso, argumenta a necessidade de trancamento da ação penal, com a reabertura dos prazos subsequentes.
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, acontecer "o CONHECIMENTO e o PROVIMENTO do presente AGRAVO REGIMENTAL, para reformar-se a decisão monocrática proferida pelo Ministro Relator, a fim de que seja INTEGRALMENTE PROVIDO o Recurso Ordinário em Habeas Corpus interposto pela defesa, reconhecendo-se a nulidade pela inépcia da denúncia para se determinar, como consequência, o trancamento da Ação Penal n. 0025929-05.2018.8.13.0701, em trâmite prante a 2 Vara Criminal da Comarca de Uberaba/MG, em relação aos recorrentes, expurgando-se da decisão recorrida toda e qualquer referência à atuação ministerial"(fl. 671).
+É o relatório.
+Decido.
+Presentes os requisitos legais, recebo o presente recurso de agravo regimental como embargos de declaração.
+Inicialmente, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes. Também, para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior & Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido, os precedentes: EDcl no AgRg no AREsp n. 292.108/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/2/2015; EDcl no RHC n. 35.243/MG, Quinta Turma, de minha relatoria, DJe de 10/12/2014; EDcl no AgRg no AREsp n. 527.022/SC, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 9/10/2014; e EDcl no REsp n. 1.290.073/ES, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 1º/7/2014.
+Ao analisar os autos, em suma, verifica-se que os d. recorrentes afirmam a existência de vícios na decisão embargada.
+Para delimitar a quaestio, transcrevo trecho do dispositivo dadecisão recorrida: "(..) Tendo em vista que a audiência de instrução ainda não ocorreu (13/05/2021 - fl. 560), não há necessidade de reabertura de prazos processuais, apenas recomendando-se que o aqui determinado seja realizado antes do início da instrução (ou do seu encerramento e interrogatório dos recorrentes, caso a fase já tenha se iniciado)" (fls. 627-637).
+Pois bem.
+Assiste razão ao recorrente, pois a iminência da audiência não ensejaria tempo hábil à realização de todos os atos processuais necessários, desprezando-se, assim, os prazos recursais de que a d. Defesa disporia.
+Diante de todo o exposto, recebo o presente recurso de agravo regimental como embargos de declaração, que acolho para determinar o trancamento da ação penal de origem, em relação aos aqui recorrentes, até que o d. Ministério Público supra os vícios já anteriormente apontados.
+Como consequência, deve-se cancelar a audiência de 13/05/2021.
+Igualmente, todos os prazos processuais após a oferta da nova denúncia e citação das partes devem ser reabertos.
+Intime-se, com urgência, o d. Juízo de 1º Grau.
+P. I. C.
