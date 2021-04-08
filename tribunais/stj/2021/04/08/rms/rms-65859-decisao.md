@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por JR COMECIO E TRANSPORTE DE PRODUTOS AGRICOLAS LTDA EM RECUPERCAO JUDICIAL EM RECUPERACAO JUDICIAL, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Requer tutela provisória de urgência às fls. 219.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o "tipo de ação ou recurso escolhido". Assim, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa.
+Percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não o regularizou. Isso porque a recorrente limitou-se a colacionar novamente os comprovantes de pagamento apresentados no momento da interposição do recurso na origem, a saber, o comprovante de pagamento e guia de recolhimento das custas sob a rubrica do recurso ordinário (fls. 268/269).
+Assim, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Ressalte-se, a admissibilidade do pedido de tutela de urgência está intrinsecamente vinculada à possibilidade de êxito no recurso em mandado de segurança. Considerando o não conhecimento do recurso, julgo prejudicada a concessão do pedido liminar.
+Por fim, encaminhem-se os autos à Coordenadoria de Atendimento Judicial para verificação dos requisitos necessários ao atendimento do pedido de restituição dos valores erroneamente recolhidos (fls. 275/281), nos termos da Instrução Normativa STJ/GDG n. 3, de 5 de abril de 2017.
+Publique-se. Intimem-se.
