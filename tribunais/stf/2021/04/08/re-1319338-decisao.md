@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Pará, ementado nos seguintes termos:
+    “APELAÇÕES CÍVEIS:
+    - AGRAVO RETIDO INTERPOSTO POR TELE NORTE LESTE PARTICIPAÇÕES LTDA: ILEGITIMIDADE PASSIVA EXCLUSÃO DA LIDE – RECURSO CONHECIDO E PROVIDO  - RECURSO DO ESPÓLIO DE ANTÔNIO TIBIRIÇÁ DE BARROS ALMEIDA: PAGAMENTO DE DIFERENÇAS HAVIDAS DESCONTO DO VALOR JÁ LEVANTADO SÚMULA 289, STJ – RECURSO CONHECIDO E PROVIDO
+    - RECURSO DA FUNDAÇÃO SISTEL: PAGAMENTO DE DIFERENÇAS HAVIDAS NA RESTITUIÇÃO DE RESERVA DE POUPANÇA SÚMULA 289 STJ AUSÊNCIA DE DISCUSSÃO ACERCA DE DANOS MATERIAIS E MORAIS RECURSO CONHECIDO E IMPROVIDO DECISÃO UNÂNIME.” (eDOC 29, p. 7)
+    Opostos embargos de declaração foram rejeitados. (eDOC 33)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, e “c”, da Constituição Federal, aponta-se violação aos arts. 1º, IV, 5º, caput, I, II, XXII, XXXVI, 170, II, § único, 195, § 5º, 201 e 202, do texto constitucional. (eDOC 35)
+    Nas razões recursais, alega-se que “a SISTEL é uma entidade fechada de previdência complementar que compõe o Sistema de Seguridade Social no âmbito específico da Previdência Social, conforme disposto no artigo 202 da Constituição Federal. Assim, por se situar no âmbito da Previdência Social, revela-se imediatamente necessário observar as disposições gerias que orientam a Seguridade Social no Brasil, em específico ao que dispõe o artigo 195, § 5º, da Constituição Federal.”( eDOC 35, p. 11)
+    Afirma que os arts. 49, § 1º, e 19, § 1º, do Estatuto e Regulamento da SISTEL, respectivamente, são condições integrantes do vínculo contratual de adesão decorrente da relação associativa, e estabelecem a forma de correção monetária, prevista na Lei 6.435/1977.
+    Salienta que a “estipulação de correção monetária sobre a reserva de poupança pela entidade não importa em ilegalidade de qualquer natureza e faz parte da organização e viabilidade de um plano de capitalização.”
+    Ressalta que “não apenas a reserva de poupança (quando resgatada), mas todas as reservas técnicas da SISTEL são corrigidas monetariamente pelos mesmos índices. Logo, tanto a reserva de poupança do Recorrido, como aquelas da Recorrente foram corrigidas pelos mesmos índices de inflação, não havendo que se falar em disparate entre o percebido pelos ativos da entidade e o outorgado em sede de correção da reserva de poupança.”
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 2015, tendo em vista que impugna decisão publicada em data posterior a entrada em vigor da nova codificação processual em 18.3.2016
+    No caso, o Tribunal de origem assentou que o recorrido tem direito ao recebimento da correção monetária referente aos valores levantados a título de reserva de poupança, a qual deve incidir a partir da devolução dos valores pagos a menor.
+    Cumpre registrar que esta Corte, ao analisar o RE 582.504-RG, Rel. Min. Cezar Peluso – Tema 174, assentou a ausência de repercussão geral da controvérsia ora em debate acerca da incidência de correção monetária sobre o resgate de contribuições vertidas a entidade de previdência privada, tendo em vista a natureza infraconstitucional da matéria. Veja-se a ementa do julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.”
+    Confiram-se, a propósito, o seguinte precedente:
+    “SEGUNDO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PREVIDÊNCIA COMPLEMENTAR. RESGATE DA RESERVA DE POUPANÇA. COBRANÇA. EXPURGOS INFLACIONÁRIOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO RE 582.504 RG. TEMA Nº 174 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL.
+    1. A controvérsia sub examine, já foi objeto de análise desta Suprema Corte, nos autos do RE n. 582.504 RG, Rel. Min. Cesar Peluzo, DJe de 09.10.2009, oportunidade em que o Plenário recusou o recurso extraordinário ante a ausência de repercussão geral, visto que a questão versa sobre matéria infraconstitucional. O julgado restou assim ementado: “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.”
+    2. A existência de precedente firmado pelo Tribunal Pleno desta Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. Precedentes: ARE nº. 686.607-ED, Rel. Min. Dias Toffoli, Primeira Turma, 3.12.2012 e ARE n°. 707.863-ED, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 20.11.2012.
+    3. Agravo regimental a que se nega provimento.” (AI 823.849-AgR AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 7.5.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
