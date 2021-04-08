@@ -1,0 +1,39 @@
+DECISÃO
+Na origem, Ivan Calia Barchese interpôs agravo de instrumento decorrente de decisão proferida nos autos da ação de cobrança manejada por Banco do Brasil S.A., na qual se busca o recebimento do valor de R$ 2.870.574,17 (dois milhões, oitocentos e setenta mil, quinhentos e setenta e quatro reais e dezessete centavos).
+No julgamento do agravo de instrumento, a Décima Nona Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu, por unanimidade, dar provimento ao recurso, em aresto assim ementado (e-STJ, fl. 263):
+Agravo de instrumento. Contrato bancário. Ação de cobrança. Etapa de cumprimento de sentença. Legítima, em princípio, a penhora de fundos de previdência complementar. Precedentes. Constrição em exame, todavia, incidindo sobre aplicação cujo saldo é inferior a 40 salários mínimos. Impenhorabilidade que, na hipótese, encontra por fundamento o art. 833, X, do CPC. Proibição legal alcançando não apenas valores depositados em caderneta de poupança, mas também os mantidos em conta corrente, aplicações financeiras, fundos de previdência complementar etc. Precedentes. Decisão de primeiro grau reformada por tal fundamento.
+Deram provimento ao agravo.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 333-336).
+Nas razões do recurso especial, o recorrente, com fundamento naalíneaado permissivo constitucional, alegou violação ao art. 85, § 1º, do CPC/2015, sustentando, em síntese, que, "ao contrário do que foi entendido pelo Acórdão Recorrido, são cabíveis sim honorários sucumbenciais no caso de impugnação ao cumprimento de sentença, que a, rigor, também é um incidente processual como o é o cumprimento de sentença. Ainda mais quando a impugnação ao cumprimento de sentença é acolhida, como ocorreu no presente caso" (e-STJ, fl. 286).
+Aduz ainda ser nesse sentido a jurisprudência pacificada em recurso repetitivo pela Corte Especial do STJ, no REsp 1.134.186/RS.
+Contrarrazões apresentadas às fls. 340-346 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a ausência de vulneração ao dispositivo tido por violado.
+Brevemente relatado, decido.
+Na hipótese, o acórdão recorrido consignou pelo não cabimento dos honorários advocatícios,tendo em vista que a impugnação à penhora trata de mero incidente processual, não estando, portanto, inserida nas hipóteses previstas no art. 85, § 1º, do CPC/2015, conforme se extrai do seguintetrecho dos embargos declaratórios(e-STJ, fl. 336):
+Efetivamente, não existiu a afirmada omissão no julgado.
+Isso porque o acórdão embargado, ao dar provimento ao agravo de instrumento, para acolher a impugnação à penhora apresentada na etapa de cumprimento de sentença, não pôs fim ao processo ou a fase processual, não se justificando, portanto, a fixação de honorários de sucumbência em favor do advogado do embargante.
+Cuidou-se de decisão relacionada a mero incidente processual, assim não se inserindo na previsão do art. 85, § 1º, do CPC.
+Dito isso, verifica-se que o entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, a qual se firmou no sentidoda impossibilidade de arbitramento de honorários advocatícios quando se tratarem demeros incidentes processuais, os quais não extinguem ou modificam substancialmente o andamento processual.
+Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO EXTREMO.INSURGÊNCIA DO AGRAVADO.
+1. Nos termos da orientação firmada pela Corte Especial do Superior Tribunal de Justiça, lavrada no EREsp 1.366.014/SP, em razão da ausência de previsão normativa, não são cabíveis honorários advocatícios nos incidentes processuais, exceto nos casos em que estes são capazes de extinguir o próprio processo principal.Precedentes do STJ.
+2. Agravo interno desprovido.(AgInt nos EDcl no REsp 1.830.273/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/5/2020, DJe 7/5/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS.SÚMULA Nº 284/STF. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. HONORÁRIOS ADVOCATÍCIOS. ARTIGO 85, §1º, DO CPC/2015. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do CPC/2015, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+3. A Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.366.014/SP, firmou orientação no sentido de que não são cabíveis honorários advocatícios nos incidentes processuais, exceto nos casos que haja extinção ou alteração substancial do processo principal.
+4. Agravo interno não provido.(AgInt no REsp 1.838.236/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/4/2020, DJe 27/4/2020)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INVENTÁRIO. AÇÃO DE PRESTAÇÃO DE CONTAS DO INVENTARIANTE. IMPUGNAÇÃO DOS HERDEIROS. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. INCIDENTE PROCESSUAL.CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. ART. 20, § 1º, DO CPC/73. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL.INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não é cabível honorários advocatícios nos incidentes processuais, exceto nos casos em que estes são capazes de extinguir ou alterar substancialmente o próprio processo principal, o que não se verificou no caso em apreço. Precedente da Corte Especial.
+(..) (AgInt no AREsp 1.266.368/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/9/2019, DJe 19/9/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. NÃO CONHECIMENTO. AÇÃO CAUTELAR. CARÁTER INCIDENTAL.HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+(..)
+6. Em outro julgado recente, a Corte Especial, destacando a inexistência de previsão normativa, afirmou o descabimento da condenação em honorários advocatícios em incidente processual, ressalvando apenas os casos em que esses expedientes "são capazes de extinguir ou alterar substancialmente o próprio processo principal" (EREsp 1.366.014/SP, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 5/4/2017).
+7. Recurso especial provido para afastar a condenação em honorários advocatícios.(REsp 1.611.535/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em28/11/2017, DJe 5/12/2017)
+Sendo assim, em razão do atual entendimentoacima expostoà luz do novo Código de Processo Civil, incide o óbice da Súmula 83/STJ, não sendo cabível ojulgado apontado nas razões de recurso especial, proferido ainda sob a égide do CPC/1973.
+Ante o exposto, conheço do agravo para negar provimento aorecurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. 1.INCIDENTE PROCESSUAL. INEXISTÊNCIA DE ALTERAÇÃO OU EXTINÇÃO DO PROCESSO PRINCIPAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. IMPOSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AORECURSO ESPECIAL.
