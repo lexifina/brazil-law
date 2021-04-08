@@ -1,0 +1,23 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão proferido pela Corte Especial do Superior Tribunal de Justiça que, em 17.03.2021, negou provimento ao agravo regimental interposto pelo paciente no âmbito da Ação Penal 940/DF.
+    O impetrante sustenta, em síntese, que: a) o paciente está preso preventivamente desde 28.11.2019; b) com o passar do tempo, os fundamentos que ensejaram a custódia cautelar não subsistem, uma vez que foram deferidas diversas medidas cautelares investigativas, homologada colaboração premiada e todas as testemunhas de acusação já foram ouvidas; c) no atual cenário, não existe nenhum risco de reiteração delitiva, bem assim seria descabida a manutenção da prisão para assegurar a instrução processual; d) “passado um ano e seis meses, nada, absolutamente nada, justifica a manutenção da constrição cautelar. Encerrada a instrução por parte da acusação há sim fato novo e apto a ensejar a revisão dos fundamentos do decreto prisional”; e) há excesso de prazo na formação da culpa do paciente; f) a imposição das medidas cautelares previstas no art. 319 do Código de Processo Penal seria suficiente para cumprir os mesmos objetivos pretendidos com a prisão preventiva.
+    Requer, por fim, o deferimento de medida liminar para que a prisão preventiva seja, desde logo, substituída por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal. No mérito, pleiteia a ratificação do pedido liminar.
+    É o relatório. Decido.
+    2. Cumpre assinalar, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+    Num juízo de cognição sumária, próprio desta fase processual, não depreendo ilegalidade flagrante a justificar a concessão da liminar.
+    Cabe destacar, desde logo, que a análise acerca da prisão preventiva imposta ao paciente já foi suscitada e examinada pela 2ª Turma desta Corte em habeas corpus anteriormente impetrado, cujo acórdão restou assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. OPERAÇÃO FAROESTE. PRISÃO PREVENTIVA. FUMUS COMISSI DELICTI. PERICULUM LIBERTATIS. CONTEMPORANEIDADE DOS FATOS. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. ISONOMIA. EXCESSO DE PRAZO NÃO CONFIGURADO. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. PANDEMIA DE COVID-19. MATÉRIA NÃO ANALISADA PELO STJ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. No âmbito da jurisdição do Supremo Tribunal Federal, não cabe sustentação oral no julgamento de agravo regimental de decisão monocrática proferida pelo Relator em sede de habeas corpus. Constitucionalidade do art. 131, § 2º, do RISTF. Precedentes.
+    2. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida.
+    3. Caracteriza-se indevida supressão de instância o enfrentamento de argumento não analisado pela instância a quo, apresentado como manifesta inovação recursal.
+    4. Agravo regimental desprovido.”
+    (HC 188.220-AgR/DF, Rel. Min. EDSON FACHIN, Segunda Turma, Dje de 28/10/2020, grifei)
+    Em relação ao alegado excesso de prazo, a colenda Segunda Turma desta Corte, em recentíssimo julgamento do HC 186.621/DF, impetrado em favor de corré do paciente na mesma ação penal, entendeu, em sessão ocorrida em 06.04.2021, que não havia excesso de prazo da prisão preventiva, tendo em vista a complexidade da causa, o número de réus e a inexistência de desídia atribuível ao Poder Judiciário.
+    Desse modo, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente habeas corpus, indefiro a liminar.
+    Solicitem-se, com urgência, informações ao Ministro Relator da Ação Penal 976/DF do Superior Tribunal de Justiça a respeito do alegado na inicial do writ, cuja cópia deverá acompanhar o expediente, requisitando-lhe, ainda, cópia do acordão do julgamento realizado em 17.03.2021 que negou provimento ao agravo regimental interposto pelo paciente.
+    Com as informações, abra-se vista à Procuradoria-Geral da República.
+    Oficie-se.
+    Publique-se. Intimem-se.
+    Brasília, 08 de abril de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
