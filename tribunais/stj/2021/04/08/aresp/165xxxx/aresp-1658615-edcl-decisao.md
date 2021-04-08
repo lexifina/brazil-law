@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática assim ementada (fl. 628):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF.ARGUMENTAÇÃO GENÉRICA E DISSOCIADA. SÚMULA 284/STF.NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embarganteaduz, em síntese,que "como não houve sucumbência recíproca, data venia, deve ser sanada contradição no sentido de terem sido majorados em 10% os honorários advocatícios fixados anteriormente, na medida em que o recurso especial da Autora, que inclusive versava sobre os referidos honorários, ter sido desprovido"(fl. 635).
+Sem impugnação.
+É o relatório. Decido.
+De início, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nesse passo, observa-se que a irresignação merece obter êxito, uma vez que afixação de honorários recursais na decisão embargada revela-se equivocada, nos termos do artigo 85, § 11, do CPC/2015.
+Isso porque a Corte Especial do STJ, no julgamento do AgInt nos EAREsp n.762.075/MT, fixou entendimento de que "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, não se exigindo comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso".
+No caso, não houve o atendimento do requisito "condenação em honorários advocatícios desde a origem no feito em que interposto o recurso", visto que não houve arbitramento de verba honorária sucumbencial em desfavor da ora embargante na instância ordinária, o que impossibilita, portanto, a fixação de honorários recursais.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para afastar a condenação da embargante em honorários recursais, na decisão de fls. 628-632.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. HONORÁRIOS RECURSAIS FIXADOS NA DECISÃO EMBARGADA. NÃO CABIMENTO. CONTRADIÇÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
