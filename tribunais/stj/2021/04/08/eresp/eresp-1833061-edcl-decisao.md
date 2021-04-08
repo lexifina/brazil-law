@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Sociedade dos Mineradores do Rio Jacuiem face de decisão de minha lavra, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL PARA COBRANÇA DE RECEITA PATRIMONIAL. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS (CFEM). RECEITA PATRIMONIAL. DECADÊNCIA.ADVENTO DA LEI N. 10.852/2004. EXTENSÃO DO PRAZO DE 10 ANOS.APLICABILIDADE AOS PRAZOS EM CURSO. PRECEDENTES. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões dos aclaratórios, a recorrente assevera pelo provimento dos embargos de declaração,a fim de que seja reconsiderada a decisão de fls. 1.027/1.029 (e-STJ), no sentido de não ser conhecido o recurso especial, diante do óbice das Súmulas nº 283 do STF e 126 do STJ na espécie. Subsdiariamente, afirma qu embargada deixou de levar em consideração que, não há divergência entre a tese firmada pelo STJ e o entendimento do acórdão recorrido, já que o precedente (Tema 244) versa sobre prazo de prescrição (para cobrança judicial da dívida após a constituição do crédito), enquanto o caso em análise discute o prazo de decadência (prazo para constituição do crédito).
+Ao fim, requer-se o acolhimento dos presentes embargos com efeitos infringentes, para não se conhecer do recurso especial interposto pelo Departamento Nacional de Produção Mineral, ou em caso de conhecê-lo que seja negado provimento.
+A embargada apresentou impugnação às fls. 1.049/1.053 (e-STJ).
+É o relatório.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+Deveras, a aplicação dos óbices sumulares aventados não constituem omissão ou vícios processuais, pois nas contrarrazões ao recurso especial não há qualquer tese defendendo a aplicação de tais súmulas (Súmula n. 126/STJ e 283/STF). Outrora, quanto ao suposto impedimento em se analisar o artigo 5º, inciso XXXVI, da Constituição Federaldepreende-se que a menção a este comando normativo foi para espelhar a jurisprudência do STJ a respeito da tese da decadência, tanto que em seguida fora exposta acórdão de lavra do eminente Ministro Og Fernandes. Neste sentido, não há que se considerar, igualmente, um fundamento autônomo não impugnado.
+Desse modo, a questão foi apreciada de modo adequado no acórdão embargado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que o devedor que promove o mero depósito judicial do quantum exequendo com finalidade de permitir a oposição de impugnação ao cumprimento de sentença, não se constitui em adimplemento voluntário da obrigação, autorizando a sanção prevista no art. 475-J do CPC de 1973. Assentou-se, ademais, que o comando normativo inserto no art. 543-C do CPC de 1973 não dá suporte à pretensão da embargante no que respeita à alegada sucumbência recíproca.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 750.635/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/05/2016, DJe 17/05/2016)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ.AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão embargado contém fundamentação clara e suficiente para demonstrar que o acórdão embargado contém fundamentação clara e suficiente para demonstrar que o recurso especial esbarra em óbices de conhecimento.
+2. Não ocorrendo quaisquer das hipóteses elencadas no art. 1.022 do CPC/2015, impõe-se a sua rejeição, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
