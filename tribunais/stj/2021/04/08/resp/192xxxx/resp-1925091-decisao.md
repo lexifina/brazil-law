@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Telefônica Brasil S.A., com fulcro no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 42):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença prolatada na ação civil pública que condenou a Telefônica ao pagamento das participações acionárias dos contratos de plano de expansão firmados no período de 25.08.1996 a 30.06.1997 - Aquisição do plano de expansão durante o período delimitado pela ação civil pública  Necessidade de aplicação dos critérios para cálculo das diferenças devidas já estabelecidos pela Turma Julgadora nos milhares de casos envolvendo a Telefônica - Aplicação do entendimento do Tribunal, no que couber, sobre a apresentação da radiografia, os critérios de cálculo do valor devido e consectários decorrentes do reconhecimento à subscrição acionária.
+EVENTOS SOCIETÁRIOS. Necessidade de considerar as operações de grupamento e desdobramento acionários ocorridas entre a data de emissão das ações e o trânsito em julgado da demanda. Julgamento do REsp nº 1.647.879/SP que tratou de questões específicas do Tema 667 (Recurso Especial Repetitivo n.º 1.387.249/SC). Interpretação dessa 4ª Câmara de Direito Privado no sentido de ser de rigor a inclusão dos eventos societários no cálculo da diferença acionária porque eles estão diretamente relacionados com o aspecto estrutural das ações e não só com o valor econômico delas. Assim, ainda que não haja pedido expresso, eles devem ser observados.
+Agravo de instrumento parcialmente provido.
+Nas razões do recurso especial, a insurgente aponta divergência jurisprudencial e violação aos arts. 489, II, 503, caput, e 509, § 4º, do CPC/2015.
+Sustenta que a decisão estadual não estaria fundamentada.
+Afirma que seria impossível a inclusão da verba relativa à dobra acionária nos cálculos de liquidação, pois ela não estaria compreendida nos pedidos iniciais formulados na ação coletiva nem abarcada pelo título exequendo.
+Não apresentadas as contrarrazões (e-STJ, fl. 84), o recurso especial foi admitido na origem (e-STJ, fls. 99-101), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+De início, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo que se falar em ofensa ao art. 489 do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie" (AgInt no REsp 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+No mais, impende esclarecer que a jurisprudência desta Corte é no sentido de que a inclusão da complementação acionária da telefonia móvel (dobra acionária) nos cálculos da condenação depende de requerimento e de previsão expressa no título executivo, por não constituir consectário lógico do reconhecimento da indenização atinente à telefonia fixa.
+Ilustrativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+(..)
+2. Nos termos da jurisprudência desta Corte Superior, a inclusão da complementação acionária da telefonia móvel (dobra acionária) nos cálculos da condenação depende de previsão expressa no título executivo. Precedentes.
+(..)
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1446868/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/10/2019, DJe 11/10/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE SUBSCRIÇÃO DE AÇÕES DE TELEFONIA. JUROS SOBRE CAPITAL PRÓPRIO. TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE PREVISÃO. CÁLCULO EXEQUENDO. INCLUSÃO. IMPOSSIBILIDADE.
+(..)
+2. Para que haja efetivo direito à complementação acionária da telefonia móvel - dobra acionária -, é necessário que o pedido seja expresso e analisado em ação de conhecimento. Não havendo condenação à referida complementação, inviável que se incluam nos cálculos exequendos as ações decorrentes da dobra acionária. Precedentes desta Corte.
+(..)
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1033459/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018)
+No decisum estadual, verifica-se que foi incluído o direito à dobra acionária, embora não se observe conclusão no sentido da existência de pedido expresso na fase de conhecimento ou mesmo previsão específica no título objeto da execução, formado na ação civil pública.
+A propósito, confira-se o excerto abaixo transcrito (e-STJ, fl. 49):
+No que concerne à dobra acionária, em que pese o entendimento anterior desta colenda turma julgadora, segundo o qual ela seria devida apenas ao acionista que houvesse negociado suas ações depois da cisão que deu origem à companhia (12.01.1998), passa-se agora a considerá-la devida a todos os acionistas que fazem jus à complementação de ações derivada da ação civil pública em referência, uma vez que a subscrição a menor implicou em dobra acionária deficitária.
+A dobra acionária foi estabelecida quando da cisão da Telesp, e por consequência, da criação da Telesp Celular S.A, através da qual cada acionista da antiga Telesp receberia igual número de ações na nova companhia. Assim, quem era sócio daquela, tornou-se também da empresa de telefonia móvel, fazendo jus ao recebimento de idêntico número de ações da então criada Telesp Celular, de modo que o direito da parte autora, no tocante à dobra acionária, se remete às ações que deveriam ter-lhe sido entregues pela demandada, mas não o foram - as quais, obviamente, não foram negociadas.
+Assim, é certo que "o direito ao recebimento da diferença de ações relativas à telefonia celular, chamada dobra acionária, decorre do direito à complementação acionária da telefonia fixa" (STJ, Aglnt no AREsp 629.337/PR, Rei. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2017), sendo certo, também, que diante do caráter consectário da dobra acionária, seu pedido independe de requerimento explícito, devendo prevalecer, para efeito de sua apuração, o mesmo critério estabelecido para o cálculo das ações complementares.
+Assim, por dissentir da jurisprudência desta Casa, de rigor a reforma do acórdão vergastado.
+Ante o exposto, dou provimento ao recurso especial, a fim de afastar a inclusão dos valores pertinentes à dobra acionária.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. 1. DEFICIÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. 2. DOBRA ACIONÁRIA.INCLUSÃO NOS CÁLCULOS APRESENTADOS. IMPOSSIBILIDADE. AUSÊNCIA DE PEDIDO EXPRESSO E DE CONDENAÇÃO NO TÍTULO EXECUTIVO. ACÓRDÃO EM DISSONÂNCIA À JURISPRUDÊNCIA DO STJ. 3. RECURSO PROVIDO.
