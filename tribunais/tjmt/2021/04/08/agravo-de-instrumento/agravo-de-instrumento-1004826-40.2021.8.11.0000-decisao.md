@@ -1,0 +1,29 @@
+AGRAVANTE(S):
+MARIA ALICE ROBERTO DA SILVA
+AGRAVANTE(s):
+ALEXANDRA ROBERTO DA SILVA SIQUEIRA
+AGRAVADO(s):
+FRANCIS JANE ALVES DE BRITO
+Vistos etc.
+Trata-se de Agravo de instrumento interposto por MARIA ALICE ROBERTO DA SILVA e ALEXANDRA ROBERTO DA SILVA SIQUEIRA contra a decisão proferida na Ação de Imissão de Posse no 1003963-22.2020.811.0011 movida por FRANCIS JANE ALVES DE BRITO, que determinou a desocupação, pelas rés ora agravantes, do imóvel denominado de Lote 05, Quadra 45, situado no loteamento denominado Residencial Alto da Boa Vista, na comarca de origem, matriculado no CRI local sob o n. 22.932 (ID. n. 80735955 - Pág. 20/22), prazo de 30 (trinta) dias, sob pena de sua efetivação de forma coercitiva e do pagamento de multa diária no valor de R$500,00.
+Narram os recorrentes que sob a alegação de ser legítima proprietária do imóvel em questão, tendo-o adquirido mediante venda direta junto à CAIXA ECONÔMICA FEDERAL, e afirmando ter notificado extrajudicialmente as ora agravantes, a agravada ajuizou a ação originária de imissão de posse, pugnando pela desocupação imediata de tal imóvel
+Relatam que, citadas, as recorrentes peticionaram nos autos originais, antes mesmo da audiência de conciliação designada, dando conta de que agravante MARIA ALICE ajuizou em face da CAIXA ECONÔMICA FEDERAL, antes mesmo da aquisição do imóvel pela agravada, Ação de Consignação em Pagamento (Proc. n. 1001899-48.2019.4.01.3601), em trâmite perante o Juizado Especial Federal de Cáceres, e que e-mails carreados aos autos demonstrariam que desde o ano de 2016 a mutuária vem tentando pagar o débito pendente, porém sem sucesso.
+Afirmam que tendo havido a audiência de conciliação, sem que esta tivesse sido obtida, apresentaram defesa e, apesar de os autos terem sido suspensos por conta da Lei no 14.010/2020, que suspendeu as ordens de despejo liminar em período da pandemia, foi agora proferida a decisão ora agravada, determinando a desocupação do imóvel objeto da ação.
+Inconformadas, sustentam a necessidade de suspensão da decisão recorrida ao argumento de que a mutuária MARIA ALICE jamais foi intimada para purgação da mora do procedimento extrajudicial da consolidação da propriedade e tampouco do leilão (hasta) realizado, através do qual a agravada teria adquirido o imóvel em questão.
+Alegam que apesar de citada nos autos daquela ação consignatória e de ter apresentado contestação, a Caixa Econômica Federal não apresentou qualquer documento capaz de comprovar a prévia intimação de MARIA ALICE e, apesar de intimado mais uma vez para tal apresentação, vem protelando o cumprimento.
+Asseveram que por não obter qualquer resposta plausível da ação de consignação, MARIA ALICE ajuizou a Ação de Nulidade de Ato Administrativo n. 1000718 -75.2020.4.01.3601 na mesma Seção Judiciária, a qual se encontra pendente de julgamento.
+Ao fim, pugnam pela suspensão da ordem de desocupação ao argumento de que, além de se encontrarem em curso ações para discutir o débito das agravantes junto à Caixa Econômica Federal e da própria legitimidade da consolidação da propriedade fiduciária do imóvel em favor desta e de sua alienação à autora, ora agravada, as recorrentes possuiriam apenas tal imóvel como moradia, onde residem com outras sete pessoas, inclusive menores de idade, não havendo, por outro lado, qualquer risco de dano irreparável para a autora, vez que essa seria proprietária de outros imóveis.
+Pois bem.
+Pelos argumentos trazidos e documentação juntada aos autos, entendo que parcialmente demonstrados, ao menos prima facie, os requisitos previstos no artigo 300 do CPC/2015, se não para a concessão o efeito recursal pretendido nos termos do inciso I do artigo 1.019 do citado Codex, ao menos para a adequação aos princípios da razoabilidade.
+Não há se falar em suspensão da ordem de desocupação porque possíveis tutelas provisórias a obstarem o direito do adquirente do imóvel ao pleno uso, gozo e fruição da coisa adquirida, devem ser buscadas nas ações movidas para questionar o débito das agravantes perante a credora fiduciária alienante, e a própria legitimidade do ato em questão.
+Se não obtiveram, perante aquela justiça especializada, qualquer medida capaz de justificar provisoriamente sua permanência na posse do imóvel, é porque não há, ao menos nessa quadra, plausibilidade ou probabilidade de êxito em tais ações.
+Além do mais, consoante se pode depreender da averbação AV-4/M-22.932, datada de 31/01/2017, e protocolada na referida matrícula sob o n. 53.621, o oficial registrador fez “constar que, realizado o procedimento disciplinado no Art.26, § 7o da Lei n. 9.514/97, em face dos Devedores Fiduciantes: - MARIA ALICE ROBERTO DA SILVA e ANDREIA ROBERTO DA SILVA, já qualificadas, sem que houvesse purgação do débito, FICA CONSOLIDADA A PROPRIEDADE do imóvel desta matrícula, a favor Credora Fiduciária CAIXA ECONÔMICA FEDERAL – CEF”. (ID. n. 80735955 - Pág. 22)
+Considerando que o oficial do registro de imóveis goza de fé pública, há uma presunção, ainda que relativa, de que a consolidação da propriedade do imóvel em favor da credora fiduciária e a posterior alienação do bem a terceiro (a ora agravada) observou as regras da legislação de regência, cujo procedimento passa, necessariamente, pelos serviços do foro extrajudiciais.
+Por outro lado, entendo que, por força do disposto no art.30 da Lei no 9.514/97, o prazo para a desocupação voluntária deve ser de 60 (sessenta dias).
+Ante o exposto, defiro em parte a liminar recursal tão somente para elevar para 45 (quarenta e cinco) dias o prazo para a desocupação voluntária do imóvel a contar da intimação da presente decisão.
+Intime-se a parte adversa para, querendo, ofertar contrarrazões no prazo legal.
+Após, à incontinenti conclusão.
+Cumpra-se.
+Cuiabá, 07 de abril de 2021.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora.
