@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com amparona alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado (e-STJ, fl. 340):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. COMPLEMENTAÇÃO DE APOSENTADORIA DE EX-FERROVIÁRIO. PRESCRIÇÃO. EQUIPARAÇÃO COM OSSERVIDORES DA ATIVA. HONORÁRIOS ADVOCATÍCIOS.
+I. "É pacífica a jurisprudência do Superior Tribunal de Justiça, no sentido da legitimidade passiva tanto da UNIÃO quanto do INSS para figurar no polo passivo das demandas de interesse de ex-ferroviários, beneficiados com a complementação de aposentadoria de que trata a Lei 8.186/91 e o Decreto 956/69" (TRF5, AC 440332/PE, Rel. Des. Edílson Nobre, Quarta Turma, j. 21/06/2011, DJe 30/06/2011 - Página: 676).
+II. Em se tratando de obrigação de natureza sucessiva, aplica-se à hipótese o enunciado n. 85 da Súmula do Superior Tribunal de Justiça, segundo o qual "nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação".
+III. O critério de reajuste regulado pelo parágrafo único do artigo 2º da Lei n. 8.186/1991 prevê para as aposentadorias complementadas as mesmas condições e prazos do pessoal da ativa, evidentemente, para que a isonomia entre ativos e inativos seja mantida, tendo o artigo 1º da Lei n. 10.478/2002 estendido tal garantia aos ex-ferroviários admitidos até 21/05/1991.
+IV. Tendo o autor ingressado na RFFSA anteriormente a 21.05.1991, é beneficiário da equiparação entre os proventos dos inativos (ex-ferroviários) e as remunerações dos ferroviários em atividade, com observância da equivalência de cargos e, por ter se aposentado ainda pela RFFSA, é inequívoco que têm direito, por força das Leis nº 8.186/91 e nº 10.478/2002, à complementação dos seus proventos com aplicação da tabela salarial da VALEC, sucessora da extinta RFFSA, aplicando-se ao caso a regra do art.118, parágrafo 1º, da Lei nº 10.233/2001, com a redação da Lei nº 11.483/2007.
+V. É devida a aplicação de juros de mora de 0,5% ao mês a partir da citação e correção monetária nos termos do Manual de cálculos da Justiça Federal.
+VI. Honorários advocatícios fixados em R$ 2.000,00 (dois mil reais), nos termos do art. 20, §4º, do CPC.
+VII. Apelação parcialmente provida para, respeitando a prescrição quinquenal, determinar à União e ao INSS que paguem ao autor a complementação de aposentadoria concedida pela Lei n.º 8.186/1991, tendo como paradigma a tabela salarial da VALEC, sucessora da Rede Ferroviária Federal - RFFSA.
+Os embargos de declaração foram acolhidos para sanar omissão quanto ao termo inicial da condenação (e-STJ, fls. 412-415).
+Sustenta orecorrente a violação dosarts. 535 do CPC/1973; 103 da Lei n. 8.213/1991; 1º e 2º da Lei n. 8.186/1991; 3º, 17, § 2º, e 26 da Lei n. 11.483/1937; 118 da Lei n. 10.233/2001; 1º e 3º da Lei n. 8.693/1993; e 1º-F da Lei n. 9.494/1997 (art. 5º da Lei n. 11.960/2009).
+Contrarrazões às e-STJ fls. 505-519, nas quais o recorrido alega: a) subsunção do caso à tese firmada no Recurso Repetitivo n. 1.211.676/RN; b) incidência da Súmula 7/STJ; c) inexistência de violação de lei federal.
+O recurso teve seguimento negado em relação ao art. 1º-F da Lei n. 9.494/1997 e foi admitido nos demais aspectos (e-STJ, fls. 521-522 e 621-631).
+É o relatório.
+Cumpre apenas esclarecer que o presente recurso perdeu o objeto, tendo em vista a ausência superveniente de interesse recursal, em virtude do acolhimento do recurso especial da União
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
