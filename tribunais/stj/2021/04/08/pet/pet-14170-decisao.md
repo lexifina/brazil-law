@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de simples petição apresentada pela d. Defesa de ANA PAULA DE MOURA,na qual busca a atribuição de efeito suspensivoao recurso ordinário em habeas corpus interposto em face dov. acórdão prolatado peloeg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim redigido(fls. 1431-1432):
+"RELATÓRIO
+1. Impetrou-se habeas corpus em favor de Ana Paula de Moura, requerendo o trancamento da ação penal que está respondendo a paciente pela acusação do cometimento de delito de tráfico de entorpecentes. Afirmando a litispendência, requereu a ordem. O pedido de liminar foi negado. A autoridade judicial apontada como coatora prestou informações. Em parecer escrito, o Procurador de Justiça opinou pela denegação da ordem.
+VOTO
+2. O pedido não procede. A questão da litispendência foi bem examinada e decidida pela ilustre julgadora, Dra. Evelise Mileide Boratti, motivo pelo qual, concordando com a sua fundamentação, transcrevo-a, fazendo dela as minhas razões de decidir. Afirmou com propriedade: "Ana Paula sustenta a existência de litispendência, considerando já ter sido denunciada pelo crime de tráfico de drogas nos autos do processo nº 123/2.20.0000380-3. Alega que o fato narrado na denúncia veiculada nestes autos não reflete outro delito, mas o mesmo já denunciado, se perpetuando no espaço, de forma duradoura. Neste sentido, verifica-se dos autos acima mencionados, que tramitam na 2ª Vara Judicial desta Comarca, que se tratam de fatos diversos, considerando que os fatos narrados nestes autos se tratam de nova conduta típica, com a apreensão de nova droga, em contexto e datas totalmente diversas dos autos referidos". Conforme narra a peça acusatória, "no dia 10 de agosto de 2020 a Brigada Militar efetuou a busca no local (aparentemente abandonado), onde localizou e apreendeu o cooler da Skol, que ocultava 3,561 quilos de droga, distribuídos em 6 (seis) tijolos, e mais uma porção de 150 gramas da mesma substância".
+Logo, resta totalmente afastada a preliminar de litispendência.
+3. Assim, nos termos supra, voto por denegar a ordem." (grifei)
+Daí apresente petição, na qual narra a d. Defesa que a requerente estaria sendo processada em verdadeira litispendência, de forma que a atribuição de efeito suspensivo ao v. acórdão de origem seria a única forma de afastar a flagrante ilegalidade que vem ela sofrendo.
+Requer, inclusive LIMINARMENTE, "seja concedido efeito suspensivo ao recurso em habeas corpus interposto contra o v. acórdão da 1ª Câmara Criminal do Tribunal de Justiça do estado do Rio Grande do Sul (HC nº 50375041320218217000/RS), afim de que a ação penal 50012158520208210123 seja sobrestada até o julgamento do mérito do recurso em Habeas Corpus" (fl. 5).
+É o relatório.
+Decido.
+Do v. acórdão de origem, não se constata a flagrante ilegalidade aqui apontada.
+Da sua leitura, o que se verifica é que a requerente está sendo processada em novos autos de ação penal por fatos, embora semelhantes, alheios aos primeiros.
+No mais, opedido como um todotem caráter eminentemente satisfativo, devendo ser oportunamente analisado.
+Nesse sentido:
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. EXCEPCIONALIDADE. NÃO CONFIGURAÇÃO. DESCABIMENTO DO RECURSO. 1. É assente na jurisprudência deste Tribunal Superior o entendimento no sentido de que não é cabível a interposição de agravo regimental contra decisão de Relator que, fundamentadamente, indefere pleito de liminar. 2. Não se verifica excepcionalidade quando a tutela de urgência não é concedida em razão da satisfatividade da medida e da ausência, de plano, de demonstração da ilegalidade manifesta, pairando sobre a agravante a acusação de integrar organização criminosa interestadual, voltada à narcotraficância. 3. Recurso não conhecido." (AgRg no HC 348.622/DF, Quinta Turma, Rel. Min. Jorge Mussi, DJe 28/03/2016).
+Por estes motivos, indefiro o pedido.
+P. I.
