@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto com fundamento no artigo 105, II, "b", da Constituição Federal contra acórdão proferido Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 111):
+MANDADO DE SEGURANÇA ORIGINÁRIO. Impetraçãocontra decisão de primeiro grau que, nos autos de ação deimprobidade administrativa, recebeu a inicial e decretou aindisponibilidade de bens dos réus. Não cabimento demandado de segurança, por se tratar de ato judicial passível derecurso (art. 5º, II, da Lei 12.016/09 e Súmula 267 do STF).Possibilidade de interposição de agravo de instrumento (art.1.015, I, do CPC e art. 17, § 10, da Lei 8.429/92), com aconcessão de efeito suspensivo (art. 1.019, I, do CPC).Manifesta ausência de interesse processual da impetrante, porinadequação da via eleita. Precedentes. Segurança denegada.
+O recorrente se insurge contra o acórdão recorrido, alegando, em síntese, que " ..  a decisão era judicialmonocrática que rejeitou sua defesa preliminar erateratológica. E isso sem se falar que a ação já estavacomprovadamente prescrita, o que também configuraconstrangimento de todo inadmissível, atacável, na órbita cível,pela via do mandado de segurança, como o seria por habeascorpus na seara criminal"(e-STJ fl. 122).
+O Ministério Público Federal, em seu parecer às fls. 182-189 e-STJ, opinou pelo não provimento do recurso ordinário.
+É o relatório. Decido.
+A insurgência não merece prosperar. Isso porque " ..  a excepcional utilização de Mandado de Segurança contra decisão judicial é restrita às hipóteses onde não há previsão legal de recurso na lei processual, ou ainda que a decisão atacada seja flagrantemente ilegal, teratológia ou veicule claro abuso de poder ou de finalidade, hipótese não demonstrada no presente caso". (AgRg no MS 19.843/RJ, Relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 18/9/2018).
+Incabível, portanto, o mandado de segurança impetrado que, in casu, não pode ser empregado como sucedâneo recursal, nos termos da Súmula n. 267/STF, que assim preceitua: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO VOLTADA CONTRA ATO JUDICIAL PASSÍVEL DE SER COMBATIVO POR RECURSO. INEXISTÊNCIA DE DECISÃO TERATOLÓGICA OU MANIFESTAMENTE ILEGAL. WRIT UTILIZADO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SÚMULA N. 267/STF. RECURSO ORDINÁRIO NÃO PROVIDO
