@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base na alínea "a" do permissivo constitucional, contra acórdão oriundo do TRF da 5ª Região assim ementado (e-STJ, fl. 285):
+Mandado de Segurança. Contribuição Previdenciária. Autos devolvidos da Vice-Presidência deste Tribunal, na forma do art. 543-B, § 3º, inc. II, do Código de Processo Civil, combinado com o art. 223, § 2º, do Regimento Interno deste Tribunal, para fins de reapreciação da matéria anteriormente julgada, adequando-a aos termos do julgamento proferido no Recurso Extraordinário 595.838/SP.
+1. No julgamento do RE 595.838, o Supremo Tribunal Federal declarou a inconstitucionalidade do inciso IV, do art. 22, da Lei 8.212/1991, com a redação dada pela Lei 9.876/1999, que trata do recolhimento da contribuição previdenciária, com majoração da alíquota de 15% para 20%, incidente sobre o total das remunerações pagas ou creditadas aos segurados avulsos e contribuintes individuais, sejam eles os ex-segurados empresários e autônomos.
+2. Adequação do acórdão ao RE-595.838.
+3. Apelação provida.
+Os embargos de declaração opostos pela União foram rejeitados.
+Nas razões do especial, a insurgente levanta prefacial de ofensa ao art. 535 do CPC/1973, aduzindo omissão quanto à alegada inadequação do julgado no RE 595.838 em regime de repercussão geral, tendo em vista que os presentes autos versam sobre questão diversa.
+No mérito, acusa afronta aos arts. 2º, 128, 460 e 515do CPC/1973.
+Sustenta, em síntese, que, "no RE 595.838, foi declarada inconstitucionalidade do artigo 22, inciso IV, da Lei 8.212/1991 que prevê contribuição previdenciária de 15% incidente sobre o valor de serviços prestados por meio de cooperativas de trabalho; já a causa de pedir dos presentes autos, volta-se se volta contra a elevação de 15% para 20% do percentual da contribuição previdenciária incidente sobre o total das remunerações pagas ou creditadas aos segurados avulsos e contribuintes individuais, ou, seja, contra a Lei 9.876/99, ao dar nova redação ao artigo 22, incisos I e III da Lei 8.212/91" (e-STJ, fl. 332).
+Sem contrarrazões recursais.
+Admitido o recurso especial na origem (e-STJ, fl. 339), subiram os autos a esta Corte.
+É o relatório.
+Analisando os autos, observa-se haver, de fato, a apontada violação do art. 535 do CPC/1973, na medida em que a Corte a quo não respondeu acerca da alegada incompatibilidade do precedente do Supremo Tribunal Federal tirado em regime de repercussão geral, no julgamento do RE 595.838, que decidiu sobre a contribuição previdenciária incidentes sobre serviços prestados por meio de cooperativas de trabalho, e a hipótese encartada nos presentes autos, que diria com a majoração de alíquota da contribuição previdenciária incidente sobre a remuneração para a segurados avulsos e contribuintes individuais.
+É do próprio relatório dos embargos declaratórios da contribuinte a seguinte passagem (e-STJ, fl. 309):
+A embargante aponta omissão do acórdão, que não discutiu a matéria na parte relativa aos limites da prestação jurisdicional, sem debater a aplicação dos arts. 2º, 128, 460,e 515, do Código de Processo Civil, bem como em relação à reserva de plenário, para declarar a inconstitucionalidade do inciso IV, do art. 22, da Lei 8212/91, referente à contribuição previdenciária, consoante o art. 97, da Constituição Federal.
+Nota-se, portanto, que o Tribunal de origem foi provocado acerca do tema, não tendo, contudo, exarado argumentação alguma sobre o verdadeiro objeto dos autos e sobre a referida inadequação do precedente repetitivo aplicado à hipótese.
+Desse modo, tendo o acórdão combatido deixado de analisar matéria de relevância para o deslinde da controvérsia, inviabilizando o conhecimento do apelo especial, em flagrante violação do art. 535, II, do CPC/1973, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimento ao recurso especial para anular o acórdão dos embargos de declaraçãoe determino o retorno dos autos à Corte de origema fim de que se manifeste, expressamente, a respeito do quanto alegado em declaratórios.
+Publique-se. Intimem-se.
