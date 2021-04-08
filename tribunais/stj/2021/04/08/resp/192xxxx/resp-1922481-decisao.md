@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARIA DO CARMO VIEIRA DA SILVA ARAUJO contra acórdão prolatado, por unanimidade, pela 3ª Câmara do Tribunal de Justiça do Estado do Maranhão no julgamento de apelação, assim ementado (fls. 189/190e):
+CONSTITUCIONAL. CIVIL. PROCESSO CIVIL. AÇÃO REVISIONAL C/C
+INDENIZAÇÃO. CONTA VINCULADA AO PASEP. SALDO REMANESCENTE. BANCO DO BRASIL. ILEGITIMIDADE PASSIVA AD CAUSAM. RECONHECIMENTO. EXTINÇÃO DO FEITO: SEM RESOLUÇÃO DO MÉRITO. ART. 485, VI, DO CPC. MANUTENÇÃO. NÃO PROVIMENTO.
+I - O Banco do Brasil S.A. não possui legitimidade para figurar em polo passivo de ação em que se discute a correção das contas vinculadas do PASEP, já que a instituição financeira apenas executa as normas provenientes do Conselho Diretor do PIS/PASEP: pertencente à União: ao qual, de fato, compete a gerência do citado Fundo. Precedentes do STJ;
+II - há que ser mantida inalterada a sentença monocrática que, reconhecendo a ilegitimidade passiva do Banco do Brasil S.A., extinguiu o feito, sem resolução do mérito, a teor do art. 485, VI, do CPC:
+III - apelação cível não provida.
+Opostos embargos de declaração, foram rejeitados (fls. 251/277e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 5º da Lei Complementar n. 8/1970 e art. 10 do Decreto n. 4.751/2003 - "O tema jurídico debatido desde a primeira instância é a legitimidade do Banco do Brasil para figurar no polo passivo de processos em que se questiona desfalques das constas individuais do PASEP e má gestão das citadas contas, com a não aplicação de juros e correção monetária determinados pelo Conselho Diretor do Programa, evidenciado pela aplicação do art. 52 da Lei Complementar nº 8/1970 e art. 10 do Decreto n2 4.751/2003, ambos já citados" (fl. 288e).Sem contrarrazões, o recurso foi admitido (fl. 344/351e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, a controvérsia gira sobre a má prestação do serviço por parte do Banco do Brasil S.A., enquanto gestor das contas vinculadas ao PASEP.
+A instituição financeira deve obedecer tanto às leis em sentido estrito, quanto os atos administrativos normativos expedidos pela União, por intermédio do Conselho Diretor do Fundo e o não cumprimento de tais normas pelo delegatário do serviço (no caso o Banco do Brasil) pode e deve ser questionado pelo usuário final, havendo responsabilidade civil do prestador de serviço público, nos termos do art. 37, § 6º da Constituição de República.
+Ademais, a relação contratual existente entre a União e o Banco do Brasil não afasta a responsabilidade do banco perante os usuários do serviço. Logo, entendo que, por força dos limites do pedido - o qual, repita-se não impugna nenhuma norma do Conselho Diretor, mas, diversamente, reclama o seu adequado cumprimento por parte do Banco.
+Nesse cenário, o Recorrido é sim parte legítima para figurar no polo passivo da demanda.
+Verifico, assim, que o acórdão recorrido está em confronto com a orientação desta Corte segundo a qual o Banco do Brasil tem legitimidade para figurar no polo passivo das ações relativas às contribuições para o Programa de Formação do Patrimônio do Servidor Público  PASEP, enquanto sociedade de economia mista gestora do programa.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALORES RELACIONADOS AO PASEP. JUSTIÇA ESTADUAL. COMPETÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A Primeira Seção do Superior Tribunal de Justiça entende que compete à Justiça Comum Estadual processar e julgar as causas cíveis relativas ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal), razão pela qual resta evidenciada sua legitimidade para constar no polo passivo da demanda.
+3. Agravo interno desprovido.
+(AgInt no REsp 1882379/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020 - destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PASEP. ATUALIZAÇÃO DOS VALORES DEPOSITADOS NO BANCO DO BRASIL. LEGITIMIDADE. COMPETÊNCIA DA JUSTIÇA COMUM. SÚMULA 83/STJ. APLICAÇÃO.
+1. Cuida-se de Agravo Interno interposto contra decisão que não conheceu do Recurso Especial por incidência da Súmula 83/STJ.
+2. Tendo a Justiça Federal reconhecido a ilegitimidade passiva da União para figurar nos autos de ação revisional cumulada com indenização por danos materiais e morais, em decorrência da atualização dos depósitos realizados na conta do Pasep da parte autora, deve-se reconhecer a competência da Justiça Estadual para o julgamento da lide. (AgInt no CC 171.648/DF, Rel. Min. Og Fernandes, Primeira Seção, DJe 24.8.2020)
+3. É pacífica a orientação do STJ segundo a qual é desnecessário sobrestar o Recurso Especial para aguardar julgamento do mérito recursal como representativo de controvérsia quando o recurso não ultrapassa o juízo de admissibilidade, tendo em vista que o mérito não poderá ser alcançado.
+4. Agravo Interno não provido.
+(AgInt no REsp 1890166/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020).
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. CÁLCULO DE ATUALIZAÇÃO MONETÁRIA E INCIDÊNCIA DE JUROS SOBRE O SALDO CREDOR DE CONTA INDIVIDUAL DO PASEP. EVENTUAL INCORREÇÃO NO VALOR CREDITADO NA CONTA INDIVIDUAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA N.
+42/STJ.
+I - Na origem, trata-se de ação de indenização por danos materiais contra o Banco do Brasil alegando, em suma, que sua conta do Programa de Formação do Patrimônio do Servidor Público - PASEP, administrada pelo réu, deixou de receber a devida atualização monetária, além de ter sido objeto de desfalques em razão de saques indevidos.
+II - O Tribunal de Justiça do Distrito Federal e dos Territórios manteve a sentença que extinguiu o processo sem resolução do mérito, diante da ilegitimidade do réu, sob entendimento de ser mero mantenedor das contas do PASEP.
+III - O entendimento deste Superior Tribunal de Justiça é de que, em ações nas quais se pleiteia a recomposição do saldo existente em conta vinculada ao PASEP, a União deve figurar no polo passivo da demanda. No entanto, a presente lide versa sobre responsabilidade decorrente da má gestão dos valores depositados, a exemplo da alegação de saques indevidos e da ausência de atualização monetária da conta bancária.
+IV - Nessas situações, o STJ conclui que a legitimidade passiva é do Banco do Brasil e, por consequência, a competência é da justiça comum estadual, em atenção à Súmula n. 42/STJ. Nesse sentido são as recentes decisões no REsp n. 1.874.404, relatora Ministra Assusete Magalhães, DJe 1º/6/2020; no REsp n. 1.869.872, relator Ministro Herman Benjamin, DJe 29/5/2020 e no REsp n. 1.852.193, Relator Ministro Sérgio Kukina, DJe 5/2/2020.
+V - Agravo interno improvido.
+(AgInt no REsp 1882478/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para reconhecer a legitimidade do Banco do Brasil para figurar no polo passivo da ação.
+Publique-se e intimem-se.
