@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Latbom Indústria e Comércio de Laticínio Ltda. desafiando decisão que não conheceu do recurso especial adesivo manejado pela ora embargante, nos termos do artigo art. 997, § 2º, III, CPC/2015, tendo em vista que o apelo raro principal manejado pela parte ex adversa não logrou ultrapassar a barreira de admissibilidade recursal.
+O embargante, em suas razões, sustenta haver omissão na decisão embargada quanto ao fato de que o recurso adesivo "tratou de fixação ínfima e irrisória de honorários de sucumbência, ou seja, tratou de matéria de ordem pública, não sujeita à preclusão de análise pelo Estado-Juiz, que pode e deve ser conhecida de ofício" (fl. 1.387).
+Impugnação às fls. 1.396/1.397.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+Na decisão embargada (fls. 1.375/1.381), restou claramente exposta a razão pela qual inviabilizado o conhecimento do recurso especial adesivo manejado pelo ora embargante, a saber, o fato de o apelo raro principal, interposto pelo ente público, não haver ultrapassado a barreira de conhecimento, conforme a norma inserta no Art. 997, § 2º, III, CPC/2015, segundo a qual: "não será conhecido, se houver desistência do recurso principal ou se for ele considerado inadmissível" (correspondente ao art. 500, III do CPC/73, vigente ao tempo da interposição do especial apelo: "não será conhecido o recurso adesivo, se houver desistência do recurso principal, ou se ele for declarado inadmissível ou deserto").
+Assim, porque não inaugurada a instância especial, haja vista não terem logrado ultrapassar a barreira de admissibilidade os recursos principal e, por conseguinte, o adesivo, não há como tachar o julgado ora embargado de omisso em relação a questão relativa ao mérito veiculado no segundo, matéria objeto do presente recurso integrativo.
+Não há, portanto, qualquer omissão a suprir.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
