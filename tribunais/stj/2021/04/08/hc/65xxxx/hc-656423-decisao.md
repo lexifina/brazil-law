@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de EZIO GOMES THEODOROem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente está preso preventivamente desde 27/9/2020, por suposta infração ao art. 35 e 33 da lei de drogas sem previsão de julgamento do processo considerando providência requeridas pelo órgão acusador.
+Irresignada, a defesa impetrou habeas corpus perante o TJSP, tendo a liminar sido indeferida (e-STJ, fls. 21-22).
+Neste writ, oimpetrante alega, em síntese, constrangimento ilegal ao argumento de que "o retardamento na instrução processual em nada pode ser imputado à defesa, não podendo o paciente arcar com o ônus de uma prisão injusta, mantida por mais de 07 (sete) meses em processo que se estende ad eternum" (e-STJ, fl. 11).
+Aponta que "a autoridade coatora violou o supracitado diploma legal, ao não reavaliar a prisão provisória do paciente no lapso de 90 dias" (e-STJ, fl. 16).
+Requer, a expedição de contramandado de prisão e consequente relaxamento da prisão do paciente até julgamento do mérito do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte possui entendimento reiterado de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia (Súmula 691/STF AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/8/2014; AgRg no HC 321.554/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/05/2015).
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem.
+A liminar foi indeferida nos seguintes termos (e-STJ, fls. 21-22, grifou-se):
+"2. A liminar em "habeas corpus" é excepcional, reservada para os casos em que avulta flagrante o constrangimento ilegal e essa não é a hipótese dos autos, cabendo desde logo observarque, ao contrário do que se afirmou na impetração, a necessidade da manutenção da segregação cautelar do paciente e dos corréus foi reavaliada em 16 de outubro de 2020, 17 de dezembro de 2020 e em 26 de janeiro de 2021 (fls. 192/193, 423/426 e 526/527 do processo-crime), ou seja, antes mesmo que se completasse o prazo estipulado na norma processual para tanto, em decisões fundamentadas.
+No mais, no que diz com o suposto excesso de prazo para a formação da culpa, não é possível neste juízo provisório de cognição, sabidamente de estreitos limites, o exame da alegação a fim de se apurar se procedem ou não os argumentos deduzidos na impetração, notadamente porque a análise acerca de eventual mora deve ser feita a partir das circunstâncias do caso concreto, à luz do princípio da razoabilidade, no oportuno julgamento de mérito pela colenda Câmara, mesmo porque a medida não se presta a antecipar a tutela jurisdicional. Diante disso, indefiro a liminar.
+3. A inicial está instruída com as peças necessárias ao julgamento do pedido e o processo principal pode ser consultado pelo sistema e-SAJ. Portanto, dispenso a requisição de informações à digna autoridade impetrada. Dê-se vista à ilustrada Procuradoria de Justiça".
+Nesse sentido, faz-se imprescindível a avaliação primeva e detalhada do Tribunal de Justiça sobre as circunstâncias do caso concreto e da situação do paciente, a fim de permitir uma eventual análise posterior nesta instância.
+Cumpre registrar, ainda, que "os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo" (HC 595.906/AL, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/08/2020, DJe 08/09/2020).
+Ilustrativamente:
+" ..
+4. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+5. Ademais, na hipótese, quando da prolação do acórdão recorrido, ficou consignado que as testemunhas acusatórias já haviam sido ouvidas em ato deprecado nos dias 18/2/2020 e 27/1/2020. E, em consulta ao sítio do TJSP, verifico que, em 04/11/2020 foi realizada audiência, encontrando-se o feito em fase de alegações finais, já apresentadas, incidindo, na hipótese, a Súm. n. 52/STJ.
+6. Agravo regimental a que se nega provimento." (AgRg no HC 633.645/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2021, DJe 04/02/2021, grifou-se).
+" ..
+2. É uníssona a jurisprudência de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+3. Não há constrangimento ilegal por excesso de prazo, pois o feito esteve em constante movimentação, seguindo a sua marcha regular, mesmo diante da atual situação causada pela pandemia de Covid-19, tendo em vista que o recorrente foi preso em 21/2/2020, a denúncia foi oferecida em 8/4/2020 e, em 13/4/2020, foi determinada a notificação dos acusados para apresentação de defesa prévia, tendo ocorrido o aditamento da denúncia em 16/5/2020, que foi recebida em 17/7/2020, designando-se audiência de instrução e julgamento para data próxima, 28/1/2021, não se verificando desídia por parte do Estado.
+ ..  5. Agravo regimental improvido." (AgRg no RHC 135.417/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020, com destaque).
+Ademais, não vislumbro flagrante ilegalidade na decretação da prisão preventiva de fls. 575-578 (e-STJ).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
