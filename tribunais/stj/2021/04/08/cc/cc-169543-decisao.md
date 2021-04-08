@@ -1,0 +1,3 @@
+DECISÃO
+Trata-se de expediente avulso veiculando petição na qual a suscitante CASAALTA, noticia "o iminente descumprimento da Decisão expedida nos autos deste Conflito de Competência" (grifou-se, fl. 19 do expediente).
+Todavia, não há o que ser deferido, a) a decisão em evidência ainda não foi descumprida e porque b) o mister jurisdicional desta Corte terminou, porquanto a decisão proferida no conflitode competência transitou em julgado no dia 10/6/2020 (fl. 895).Ademais, diante de efetivo descumprimento de decisão desta Corte, abre-se a possibilidade para o interessado manejar reclamação constitucional, meio adequado para a correção da chamada decisão rebelde.Informe-se.Arquive-se.
