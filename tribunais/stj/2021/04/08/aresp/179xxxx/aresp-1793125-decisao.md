@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por Durval Heitor de Mendonça contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 495):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO - AVERBAÇÃO DE ÁREA DE RESERVA LEGAL - DESCUMPRIMENTO - INÉRCIA INJUSTIFICADA EM CUMPRIR A OBRIGAÇÃO DE FAZER - FIXAÇÃO DE MULTA DIÁRIA - CABIMENTO -POSSIBILIDADE DE SE ATINGIR VALOR EXCESSIVO - LIMITAÇÃO CABÍVEL - RAZOABILIDADE.
+1. A multa cominatória (astreintes) fixada na fase executiva pode ser utilizada como forma de coagir o devedor a adimplir a obrigação de fazer judicialmente estabelecida, propiciando ao credor exatamente o bem a que tem direito. Inteligência do Código de Processo Civil.
+2. Excepcionalmente, é possível a redução da multa, inclusive de ofício e na fase de execução, quando atingir patamares excessivos e desarrazoados. Possibilidade de limitação de multa diária que alcançou cifras exorbitantes, malferindo o princípio da proporcionalidade.
+3. Recurso provido em parte.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 522/526).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 537, caput e inciso I, § 1º, do CPC. Sustenta, em resumo, que astreinte deve ser reduzida, "considerando que lei posterior extinguiu a obrigação pactuada pelo acordo, sendo essa obrigação substituída pelo ato de sua indicação no CAR, não se pode admitir a imposição de penalidade tão exorbitante" (fl. 538).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do recurso (fls. 618/625).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, no tocante ao valor das astreintes fixadas no presente feito, cabe ressaltar que na via especial não é cabível, em regra, a revisão do valor estabelecido pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. Sobre o tema, leiam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL. INOVAÇÃO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO. REVISÃO DO VALOR ARBITRADO (R$ 2.000,00). REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.  ..
+2. A revisão do valor fixado a título de multa em decorrência do descumprimento de decisão judicial, encontra óbice na Súmula 07/STJ, uma vez que fora estipulado em razão das peculiaridades do caso concreto, a exemplo, da capacidade econômica do ofensor e do ofendido, e ao caráter pedagógico da indenização.
+3. Somente é possível rever o valor a ser indenizado quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa no presente caso.
+4. Agravo Regimental do Estado de Pernambuco desprovido.
+(AgRg no AREsp 446.099/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/4/2014, DJe 8/5/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. MULTA DIÁRIA. ASTREINTES. PRETENSÃO DE REDUÇÃO DA MULTA. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de multa diária (astreintes) pelo descumprimento de decisão judicial, pois tal providência exigiria incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. 2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 449.804/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/3/2014, DJe 19/3/2014)
+No caso dos autos, todavia, a parte agravante não demonstrou que o valor arbitrado se revelaria exorbitante. Quanto ao ponto, o Tribunal local reduziu o montante das astreintes nos seguintes termos (fls. 501/502):
+In casu, mostra-se incontroverso que os agravantes não cumpriram a obrigação pactuada do ajuste nos autos da ação civil pública.
+Por outro lado, constitui jurisprudência consolidada no c. STJ a possibilidade de redução das astreintes, inclusive de ofício pelo magistrado, quando atinja patamares excessivos, ficando tal matéria dentro do juízo de razoabilidade e proporcionalidade do julgador.
+Ressalte-se que a possibilidade de limitação da penalidade não se restringe à fase de conhecimento, sendo cabível a minoração inclusive em sede executiva, por ter se consolidado o entendimento de que não se opera a coisa julgada material em relação à importância da multa cominatória.
+Há de se observar, no entanto, que a redução tem sido admitida somente em hipóteses excepcionais, em que os valores alcançados afigurem-se exorbitantes, o quem e parece ser o caso destes autos.
+A multa diária foi arbitrada, inicialmente, em R$100,00, limitada a R$100.000,00 e, pelo que se depreende dos documentos colacionados ao instrumento, houve incremento da penalidade pelo Juízo na decisão de f. 251v dos autos originários - decisum referenciado pelo Parquet na petição à f. 113/114 e apresentado pelo mesmo órgão juntamente com sua contraminuta.
+Verifica-se, ainda, da mesma petição, que o valor do qual se determinou o bloqueio engloba, também, multa cominada em razão da prática de ato atentatório à dignidade da justiça.
+Tais circunstâncias poderiam justificar o elevado montante ao qual se determinou a constrição.
+Não obstante, penso que o montante de R$3.811.027,56 se mostra desarrazoado ou desproporcional ao presente caso.
+Com isso, considero razoável a limitação ao patamar de R$1.000.000,00 (um milhão de reais), atentando-se ao período de descumprimento do ajuste, correspondente a aproximadamente 8 (oito) anos, bem como à amplitude dos imóveis sobre os quais deve ser instituída a reserva legal, que somados equivalem a 799,440 há (f. 61, doc. único), mas a fim de se evitar, por outro lado, que atinja valores exorbitantes.
+Desse modo, deve ser mantido o valor estabelecido a título de astreintes, tendo em vista que ancorado no contexto fático delineado nos autos, não se mostrando, pois, exorbitante.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
