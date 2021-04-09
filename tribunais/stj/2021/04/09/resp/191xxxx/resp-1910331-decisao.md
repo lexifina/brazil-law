@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRO SINVAL DE LIMA, ROSINETE GUEDES CARVALHO DE MIRANDA, ROZELMA LOPES DA COSTA e SALETE CABRAL DE FRANCAcom base nas alíneas "a " e "c" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 264):
+EMENTA: PROCESSUAL CIVIL. APELAÇÃO. AÇÃO ANULATÓRIA DE ATOS JUDICIAIS PRATICADOS POR TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL (QUERELA NULLITATIS INSANABILIS). COMPETÊNCIA DO JEF. PRECEDENTES DO STJ E DO TRF5. AFASTAMENTO DA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO.ENCAMINHAMENTO DOS AUTOS AO JUÍZO COMPETENTE. PROVIMENTO EM PARTE.
+1. Apelação interposta pelos autores em face da sentença que extinguiu, sem resolução do mérito, querela nullitatis insanabilis, promovida com vistas à desconstituição de atos judiciais praticados em diversos processos pela Turma Recursal do Juizado Especial Federal do Rio Grande do Norte, ao fundamento de incompetência de Vara Comum da Justiça Federal e de impossibilidade de envio dos autos ao JEF, à vista da incomunicabilidade entre os sistema PJe e Creta.
+2. Compete ao JEF processar e julgar as ações anulatórias de seus próprios julgados.
+3. O reconhecimento da incompetência da Vara Comum da Justiça Federal não deve conduzir à extinção do feito sem resolução do mérito, mas sim, ao encaminhamento dos autos ao Juízo competente, em mídia digital, para cadastramento e inserção no sistema eletrônico específico do Juizado Especial Federal, seja porque a parte não pode ser penalizada pela ausência de comunicação entre o PJe e o Creta, seja por razões de economia processual.
+4. Precedentes do STJ e do TRF5.
+5. Apelação parcialmente provida, para afastar a extinção do processo sem resolução do mérito e determinar a remessa dos autos ao JEF/RN.
+Rejeitados os aclaratórios (e-STJ fls. 306/308).
+Nas suas razões, a parte recorrente sustenta anecessidade dereconhecimento dacompetência da JustiçaFederal para julgamento docaso dos autos.
+Contrarrazões às e-STJ fls. 368/370.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 372.
+Passo a decidir.
+A irresignação recursal não comporta acolhida.
+Não obstante o recurso especial tenha sido interposto com base na alínea "a", não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide, na espécie, a Súmula 284 do STF.
+Quanto à interposição apoiada na alínea "c" do permissivo constitucional,é inviável a apreciação de recurso especial fundado em divergência jurisprudencialquando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, não atendendo, portanto, aos pressupostos específicos para a configuração do dissenso jurisprudencial, previstos no art. 541, parágrafo único, do Código de Processo Civil e no art. 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
