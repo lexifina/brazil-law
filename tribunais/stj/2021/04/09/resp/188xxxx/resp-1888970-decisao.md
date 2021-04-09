@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto peloBANCO SANTANDER (BRASIL) S.A.contra acórdão prolatado, por unanimidade, pela 24ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeirono julgamento de apelação, assim ementado (fls. 442e):
+APELAÇÃO CÍVEL. SUPERENDIVIDAMENTO. DESCONTOS REFERENTES A EMPRÉSTIMOS CONSIGNADOS. LIMITE DE 30% DO SALÁRIO DO CONSUMIDOR.
+Sentença que julgou improcedentes os pedidos. Matéria uniformizada através da súmula 295 desta Corte Estadual, que dispõe que na hipótese de super endividamento decorrente de empréstimos obtidos de instituições financeiras diversas, a totalidade dos descontos incidentes em conta corrente não poderá ser superior a 30% do salário do devedor. Tese de que o limite em caso de militar seria de 70% dos vencimentos. Leitura atenta do artigo 14, § 3º, da MP 2215/2001, a demonstrar que o dispositivo não é exclusivo para descontos atrelados a empréstimos, pois engloba tanto os descontos obrigatórios quanto os autorizados e, por isso, não conflita com a súmula nº 295 desta Corte Estadual.
+Ainda que assim não fosse, o limite de 70% da remuneração implicaria em clara afronta à dignidade humana, à garantia do mínimo existencial, à prevalência da interpretação mais favorável ao consumidor e ao princípio da isonomia. Precedentes desta Corte Estadual e do Egrégio Superior Tribunal de Justiça.
+Expedição de ofício ao órgão pagador para que cumpra a medida, na forma da súmula nº 144 deste Tribunal de Justiça.
+De outro lado, no que se refere aos pleitos de indenização por danos morais e repetição do indébito devem ser de plano rechaçados. Isso porque não houve cobrança indevida, nem se verifica qualquer atitude abusiva do apelado que tenha sido capaz de gerar abalo moral.
+Provimento parcial do recurso.
+Opostos embargos de declaração, foram rejeitados (fls. 532/537e).
+Com amparo no art. 105, III, a, da Constituição da República,aponta-se ofensa aoart. 14, §3º,da Medida Provisória n. 2.215-15 de 2001, alegando-se, em síntese, quehá autorização legal pararetenção de até 70% dos rendimentos mensais do militar, tendo emvista que a fonte pagadora é a União e o Recorrido faz parte do quadro da Marinha do Brasil.
+Comcontrarrazões (fls. 579/595e), o recurso foi admitido (fl. 597/601e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ao apreciar a questão, o tribunal de origem consignou que (fl. 445e):
+Logo, não é correta a exegese da norma no sentido de que poderia haver descontos de empréstimos consignados até o percentual de 70%, pois o mencionado patamar é relativo ao somatório dos descontos obrigatórios e dos autorizados, de modo que não há conflito entre o mencionado dispositivo e a súmula nº 295 desta Corte Estadual, que define o limite de 30% para fins de descontos em casos de super endividamento.
+Todavia, ainda que assim não fosse, a tese não prosperaria.
+A uma, porque o limite de 70% da remuneração implicaria em clara afronta à dignidade humana e à garantia do mínimo existencial.
+A duas, porque há de prevalecer a interpretação mais favorável ao consumidor.
+A três, porque distinções como essa são consideradas ofensivas ao princípio da isonomia, razão pela qual são repelidas pela jurisprudência desta Corte Estadual
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo o qual "o desconto em folha do militar possui regulamentação própria, Medida Provisória 2.215-10/2001. Nesse sentido, é possível ao servidor militar comprometer contratualmente até 70% de sua remuneração mensal desde que nesse percentual estejam incluídos necessariamente os descontos obrigatórios, observando que este não pode receber mensalmente valor inferior a 30% da remuneração" (AgRg no AREsp 713.892/RJ, 2ª T., Rel. Min. Humberto Martins, DJe de 20.10.2015).
+Nesse sentido:
+ADMINISTRATIVO. CIVIL. EMPRÉSTIMO CONSIGNADO. MILITAR DAS FORÇAS ARMADAS. VIOLAÇÃO AOS ARTS. 1º, CAPUT, E 2º, §§ 1º e 2º, DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. MEDIDA PROVISÓRIA 2.215-10/2001. NORMA ESPECÍFICA. LIMITE DE DESCONTO DE 70% DA REMUNERAÇÃO OU PROVENTOS, INCLUÍDOS DESCONTOS OBRIGATÓRIOS E AUTORIZADOS.
+(..)
+A jurisprudência desta Corte tem aplicado aos servidores públicos o entendimento de que "os arts. 2º, § 2º, inc. I, da Lei n. 10.820/2003, e 45, parágrafo único, da Lei n. 8.112/1990, estabelecem que a soma dos descontos em folha de pagamento referentes às prestações de empréstimos, financiamentos e operações de arrendamento mercantil não poderá exceder 30% da remuneração do servidor." (AgRg no REsp 1.182.699/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 06/08/2013, DJe 02/09/2013)
+Todavia, no que diz respeito às controvérsias relativas a empréstimos consignados em folha de pagamento dos militares das Forças Armadas, deve ser aplicada a Medida Provisória 2.215- 10/2001, que é o diploma específico da matéria.
+(..)
+(REsp 1458770/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR DAS FORÇAS ARMADAS. LIMITAÇÃO DO PERCENTUAL MÁXIMO DE DESCONTO A TÍTULO DE EMPRÉSTIMO CONSIGNADO. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMPRÉSTIMO CONSIGNADO. PERCENTUAL MÁXIMO. INAPLICABILIDADE DAS DISPOSIÇÕES DA LEI 10.820/2003 E DO DECRETO 6.386/2008. INCIDÊNCIA DO ART. 14, § 3º, DA MEDIDA PROVISÓRIA 2.215-10/2001. SÚMULA 83 DO STJ.
+Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+O STJ possui entendimento de que a margem para empréstimo consignado dos militares das Forças Armadas é superior àquela prática para os demais servidores e o público em geral, podendo alcançar até mesmo a ordem de 70% dos seus vencimentos mensais, sempre observando que o somatório dos descontos obrigatórios e autorizados não ultrapasse o referido percentual. Precedentes.
+Recurso Especial não provido.
+(REsp 1532001/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/06/2015, DJe 05/08/2015)
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para restabelecer a sentença, inclusive quanto à fixação dos honorários advocatícios.
+Publique-se e intimem-se.
