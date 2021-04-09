@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ERIVAN LIMA ANGELO, JEFFERSON DOS SANTOS SILVA e MICHEL DOS SANTOS DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido no HC n.2027861-92.2021.8.26.0000.
+Consta dos autos que os Pacientes forampresos em flagrante, em 18/01/2021, pela suposta prática doscrimesde tráfico ilícito de drogas e associação para o tráfico. As prisõesem flagrante foramconvertidas em preventivas no dia seguinte (fls. 120-124).
+Conforme apurado, os Agentes transportavam e mantinham em depósito "1.110g de cocaína e 1.115,6g de maconha" (fl. 121).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 107-119).
+Neste writ, os Impetrantes sustentam, em suma, a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação das prisõespreventivas.
+Requerem, em liminar e no mérito, a revogação das custódias com ou sem a imposição de medidas cautelares alternativas.
+O pedido liminar foi indeferido (fls. 127-129).
+Foram prestadas informações às fls. 133-188.
+O Ministério Público Federal opinou pelo não conhecimento dowrit, ou, se conhecido, pela denegação da ordem (fls. 190-194).
+É o relatório.
+Decido.
+O Juízo de origem - referendado pelo Tribunal -converteu as prisões em flagrante em preventivas nos seguintes termos (fls. 122; sem grifos no original):
+"Nota-se que o delito aqui praticado é grave, gravíssimo, equiparado a hediondo, aliás, uma vez que os indiciados estariam em situação de tráfico de diferentes e nocivos entorpecentes (cocaína e maconha): Jeferson e Michel na posse de DUZENTAS E OITENTA porções individualizadas de drogas, e Erivan na posse de 2 tabletes de drogas, cerca de 1 kg de cocaína e 800 g de maconha, montante capaz de confeccionar nada menos que cerca de 8.000 carreiras de cocaína e 800 cigarros de maconha. Erivan ainda estava na posse do valor de R$ 414,00 de origem suspeita, o que denota a mercancia. Os indiciados confessaram informalmente a prática ilícita. A gravidade do caso revela a necessidade pronta e imediata de atuação do Poder Judiciário, até para impedir que o indiciado torne a delinquir, em resguardo da ordem pública. .. "
+Constatoque as custódias cautelaresforamdevidamente fundamentadas para a garantia da ordem pública, ante a gravidadeconcretada prática delitiva, pois os Pacientes estavamtransportandoe mantendo em depósito quantidade significativa de drogas ("1.110g de cocaína e 1.115,6g de maconha"), circunstância que evidencia opericulum libertatis.
+Cito os seguintes precedentesdo Superior Tribunal de Justiça:
+"PROCESSO PENAL. RECURSO ORDINÁRIO EMHABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste opericulum libertatis.
+2. No caso, aprisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes - 92,15g (noventa e dois gramas e quinze centigramas) de cocaína e549,22g (quinhentos e quarenta e nove gramas e vinte e dois centigramas) de maconha.Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+4. Recurso ordinário desprovido."(RHC 123.913/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/06/2020, DJe 16/06/2020; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA.QUANTIDADE E VARIEDADE DAS DROGAS. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. DESPROPORCIONALIDADE DA PRISÃO COM EVENTUAL REGIME IMPOSTO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+2. No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi preso em flagrante com considerável quantidade e variedade de drogas (337g de cocaína e 990 g de maconha), e R$ 4.590,00 (quatro mil, quinhentos e noventa reais).
+3. Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva. Precedentes.
+4. Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura.
+5. O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com o tráfico privilegiado e consequente fixação de regime prisional diverso do fechado, sendo inviável tal discussão neste momento preliminar.
+6. Agravo regimental desprovido."(AgRg no HC 635.450/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021; sem grifos no original.)
+Nessa conjuntura, as medidas cautelares alternativas à prisão não se mostramsuficientes para o resguardo da ordem pública.
+A propósito: " m ostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC 550.211/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 17/03/2020).
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. APREENSÃO DE QUANTIDADE SIGNIFICATIVA DE ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA.ORDEM DENEGADA.
