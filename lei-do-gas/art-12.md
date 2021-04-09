@@ -1,0 +1,2 @@
+Art. 12. A ANP poderá, a qualquer momento, na forma da regulação, conduzir processo seletivo público para identificar a existência de transportador interessado na construção ou ampliação de gasoduto ou instalação de transporte, cuja necessidade tenha sido identificada e que não tenha sido objeto dos planos coordenados de desenvolvimento do sistema de transporte.
+Parágrafo único. Fica assegurado o direito de preferência ao transportador cuja instalação estiver sendo ampliada, nas mesmas condições da proposta vencedora.

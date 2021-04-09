@@ -1,0 +1,1 @@
+Art. 41. Fica assegurada a manutenção dos regimes de consumo de gás natural em unidades de produção de fertilizantes e instalações de refinação de petróleo nacional ou importado existentes em 5 de março de 2009.

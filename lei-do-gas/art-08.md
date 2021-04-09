@@ -1,0 +1,1 @@
+Art. 8º Os gasodutos de transporte somente poderão movimentar gás natural que atenda às especificações estabelecidas pela ANP, salvo convenção em contrário entre transportadores e carregadores, previamente aprovada pela ANP, que não imponha prejuízo aos demais usuários.

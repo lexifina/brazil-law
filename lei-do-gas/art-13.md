@@ -1,0 +1,4 @@
+Art. 13. A malha de transporte poderá ser organizada em sistemas de transporte de gás natural, nos termos da regulação da ANP.
+§ 1º Os serviços de transporte de gás natural serão oferecidos no regime de contratação de capacidade por entrada e saída, e a entrada e a saída de gás natural poderão ser contratadas independentemente uma da outra.
+§ 2º As tarifas nos sistemas de transporte de gás natural devem ser estruturadas pelos transportadores, observados os mecanismos de repasse de receita entre eles, consoante regulação da ANP.
+§ 3º O cômputo da receita máxima permitida de transporte e o cálculo das tarifas de transporte devem considerar a sinalização dos determinantes de custos associados à área de mercado de capacidade e ao sistema de transporte, além de incluir critérios de eficiência e competitividade, de acordo com a regulação estabelecida pela ANP.

@@ -1,0 +1,2 @@
+Art. 9º A ANP, após a realização de consulta pública, estipulará a receita máxima permitida de transporte, bem como os critérios de reajuste, de revisão periódica e de revisão extraordinária, nos termos da regulação, e essa receita não será, em nenhuma hipótese, garantida pela União.
+Parágrafo único. As tarifas de transporte de gás natural serão propostas pelo transportador e aprovadas pela ANP, após consulta pública, segundo critérios por ela previamente estabelecidos.

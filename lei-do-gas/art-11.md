@@ -1,0 +1,2 @@
+Art. 11. O processo de autorização para construção de gasoduto de transporte deverá prever, nos casos estabelecidos em regulamentação, período de contestação no qual outros transportadores poderão manifestar interesse na implantação de gasoduto com mesma finalidade.
+Parágrafo único. Se houver mais de um transportador interessado, a ANP deverá promover processo seletivo público para escolha do projeto mais vantajoso, considerados os aspectos técnicos e econômicos.
