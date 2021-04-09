@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANTÔNIO VALTER LAMBERTY LOPES - ESPÓLIO e OUTRO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 14/05/2019.
+Concluso ao gabinete em: 04/03/2021.
+Ação: cautelar de produção antecipada de provas, com pedido liminar de indisponibilidade temporária dos imóveis e a suspensão dos processos administrativos no INTERTINS que tenham como objeto a regularização fundiária de áreas dentro da antiga Fazenda Boa Vista (da qual a Fazenda Água Boa foi retirada), ajuizada pelos recorrentes, em face de HENRIQUE GILIOLI e OUTROS, na qual requereu a realização de perícia técnica para o levantamento dos limites demarcatórios da Fazenda Água Boa, com base no método de georreferenciamento.
+Decisão interlocutória: indeferiu o pedido liminar de georreferenciamento.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, para manter a decisão agravada, nos termos da seguinte ementa (e-STJ, fls. 408/422):
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS - GEORREFERENCIAMENTO - REQUISITOS LEGAIS NÃO DEMONSTRADOS - NECESSIDADE DE DILAÇÃO PROBATÓRIA - DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+-Para deferimento da tutela de urgência, de natureza antecipada, exige-se a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, assim como a reversibilidade da medida, nos termos do artigo 300, do cpc/15.
+-Ausentes os requisitos legais, diante da necessidade de dilação probatória, deve ser mantido o indeferimento da realização de georreferenciamento para que antes seja oportunizado o contraditório constitucional aos Agravados, sobretudo resta evidenciado na exordial, que a cadeia possessória do imóvel em litígio remonta ao longínquo ano de 1857, mormente a existência de clandestinidade; abuso de confiança por parte de alguns dos agravados "posse injusta"; ausência de registro em nome de outros; posse precária e esbulho possessório
+-Recurso ao qual se nega provimento, com o fim de manter a decisão recorrida, em todos os seus termos.
+Embargos de declaração: opostos pela recorrente, foram rejeitados (e-STJ, fls. 519/526).
+Recurso especial: alega violação dos arts. 489, §1º, I, II, III e IV, e 1.022, I e II, e parágrafo único, II, do CPC/15.
+Afirma que a ação cautelar teria como pedidos liminares apenas a indisponibilidade das matrículas imobiliárias e a suspensão dos processos administrativos no ITERTINS, bem como que a perícia de georreferenciamento seria o objeto nuclear da ação, a qual teria sido indeferida de forma prematura e equivocada pelo juiz de primeiro grau de jurisdição.
+Assim, aduz que haveria contradição e omissão na decisão do Tribunal de origem, pois, independente do entendimento de que asliminares pleiteadas deveriam ser indeferidas (indisponibilidade das matrículas imobiliárias e suspensão dos processos administrativos no ITERTINS), a decisão de primeiro grau de jurisdição foi mantida, apesar da apreciação da perícia de georreferenciamento em lugar dos pedidos liminares, e não foram declinadas as razões pelas quais a perícia de georreferenciamento poderia ser indeferida liminarmente.
+Além disso, haveria omissão quanto à alegação de que a sobreposição das matrículas imobiliárias seria questão incontroversa.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/TO.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta contradição e omissão do TJ/TO residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional teria sido omisso e contraditório, pois, independente do entendimento de que as medidas liminares pleiteadas deveriam ser indeferidas (indisponibilidade das matrículas imobiliárias e suspensão dos processos administrativos no ITERTINS), a decisão de primeiro grau de jurisdição foi mantida, apesar da apreciação da perícia de georreferenciamento em lugar dos pedidos liminares, sem declinar as razões pelas quais a perícia de georreferenciamento poderia ser indeferida liminarmente. Aduz ainda omissão quanto à alegação de que a sobreposição das matrículas imobiliárias seria questão incontroversa.
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo recorrente, de fato, deixou de manifestar-se acerca dos argumentos relativos à contradição e omissão na manutenção da decisão de primeiro grau de jurisdição, apesar da apreciação da perícia de georreferenciamento em lugar dos pedidos liminares, e quanto as razões pelas quais a perícia de georreferenciamento poderia ser indeferida liminarmente.
+Assim, fica reconhecida a omissão perpetrada pelo TJ/TO em questão relevante, determinando o retorno dos autos àquele Tribunal para que se manifeste sobre o tema.
+Forte nessas razões, CONHEÇO do RECURSO ESPECIAL e DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelo agravante; e b) determinar a remessa dos autos ao TJ/TO, a fim de que este se pronuncie, na esteira do devido processo legal, acerca das questões acima especificadas.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação cautelar de produção antecipada de provas.
+2. Caracteriza-se a negativa de prestação jurisdicional (violação do art. 1.022 do CPC/15) nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, provido.
