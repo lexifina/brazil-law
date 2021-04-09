@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de CICERO BEZERRA DA SILVA JUNIOR, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Processo n.1502026-73.2020.8.26.0428).
+O paciente foi preso em flagrante, em 4/11/2020, como incurso no art.157, §§ 2º,II e V, e 2º-A,I, do Código Penal.
+A defesa alega estarem ausentes os requisitos legais da prisão preventiva. Aduz que a motivação foi amparadaapenas na gravidade abstrata do delito, na garantia da ordem pública e na conveniência da instrução criminal. Sustenta quenão houve aindividualização da condutado paciente nem a comprovação do periculum libertatis.
+Ressalta ser o paciente primário, sem antecedentes e possuir residência fixa.Ademais, apontainobservância ao princípio da presunção de inocência.
+Requer, liminarmente e no mérito, a revogação do decreto prisional; subsidiariamente, pugna por medidas cautelares alternativas previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 70-71.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 97-98).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 65-66):
+Com efeito, imputa-se aos agentes o cometimento de crime de insólita gravidade (roubo de caminhão de carga), posto executado com emprego de arma de fogo e restrição da liberdade das duas vítimas.
+Sabe-se que a utilização de arma de fogo pode causar danos pessoais incalculáveis a policiais, vítimas e outras pessoas inocentes.
+Assim, malgrado a alegada primariedade, os agentes mostraram desenvoltura na execução do crime, com organizada divisão de tarefas.
+E não cabe, neste juízo restrito de cognição, enveredar pela análise detalhada da conduta delituosa executada pelo paciente e seu nível de envolvimento no referido crime.
+Essa tarefa caberá ao primeiro grau, em regular contraditório.
+Há, enfim, indícios de que possam os agentes já estar estruturados em atividades criminosas, ainda que, sob o prisma meramente formal, não exibam antecedentes.
+Nesse cenário, perdem relevância os predicados pessoais do paciente, os quais se mostram incapazes de neutralizar a perigosidade demonstrada na execução de tão grave e violenta conduta delituosa.
+Em suma: o paciente, livre, é perigoso à paz pública, o que justifica o encarceramento.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+O Tribunal de origem entendeu que eventuais condições subjetivas favoráveisdo paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ, conforme os julgados a seguir:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; eRHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta TurmaDJede 2/9/2020.
+Registre-se ainda que, para a decretação da prisão preventiva, é indispensável a demonstração da existência de prova da materialidade do crime e de indícios suficientes da autoria. Exige-se que, mesmo com lastro probatório, a decisão se ajuste às hipóteses excepcionais previstas abstratamente na norma(art. 312 do CPP) e que seja comprovada ainda a imprescindibilidade da medida (AgRg no RHC n. 122.247/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+No caso em apreço, o impetrantenão logrou êxito em afastar osrequisitos acima.
+Ademais, há entendimento do Superior Tribunal de Justiça no sentido de que, na hipótese de delito praticado com violência contra pessoa, a prisão cautelar é solução idônea para adequar a situação subjetiva do paciente à necessidade de acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+Além disso,salvo flagrante ilegalidade, o reexamedascircunstâncias judiciais e dos critérios concretos deindividualização dapena é inadequado naestreita via do habeas corpus, pois exigiria dilação probatória. In casu, verifica-se, no site do Tribunal a quo, que foi designada audiência de instrução, debates e julgamento para o dia 15/4/2021, às 15 horas, momento propício para a indagação.
+Ressalte-se que a manutenção da prisão preventiva está em harmonia com a presunção constitucional de inocência, nos termos do inciso LXI do art. 5º da Constituição Federal.
+Por fim,a "desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto a possibilidade de cumprimento de pena em regime menos gravoso que o fechado" (RHC n. 96.728/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 3/9/2018).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
