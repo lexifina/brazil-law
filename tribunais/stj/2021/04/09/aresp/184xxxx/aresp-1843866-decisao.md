@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por EUNICE FELICIANO DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia.
+Consta dos presentes autos que o Juízo de primeiro grau, julgando procedente a pretensão punitiva deduzida na exordial acusatória, condenou a ora recorrente como incursano delito previsto no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 562 (quinhentos e sessenta e dois) dias-multa(e-STJ fls. 219/225).
+Irresignada, a defesa interpôsrecursode apelação (e-STJ fls. 267/271), ao qual o Tribunal a quo negou provimento, nos termos do acórdão cuja ementa é a seguinte(e-STJ fl. 303):
+Apelação criminal. Tráfico de drogas. Absolvição.Materialidade e autoria comprovadas Modificação de regime. Mausantecedentes. Impossibilidade.
+A negativa de autoria isolada do contexto probatório dos autosfrente ao depoimento policial e a apreensão da droga identificada como sendo depropriedade da apelante, mostra-se suficiente para manutenção da sentençacondenatória por tráfico de drogas.
+Inviável a alteração do regime fechado para um mais brando se afixação do regime levou em consideração as circunstâncias judiciais do agente.
+Nas razões do recurso especial (e-STJ fls. 312/318), alega a parte recorrente violação dos artigos 33, § 2º, alínea "b" e 59, ambos do Código Penal e da Súmula n. 440/STJ.
+Sustenta, em síntese, a fixação de regime semiaberto para o início do cumprimento da reprimenda, argumentando para tanto que a pena foi fixada em patamar superior a 4 (quatro) e não excedente a 8 (oito)anos, e que a reincidência não justifica a imposição de regime inicial fechado, se as circunstâncias do caso e do indivíduo assim indicarem.
+Apresentadas contrarrazões (e-STJ fls. 323/330), o recurso foi inadmitido pela Corte a quo (e-STJ fls. 331/332), dando ensejo à interposição do agravo ora apreciado (e-STJ fls. 335/341).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo conhecimento do agravo para não conhecer do recurso especial(e-STJ fls.364/366).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo, então, à análise do recurso especial.
+No que concerne à pretensão de abrandamento do regime prisional imposto, verifico que, na hipótese dos autos, o Tribunala quomanteve o regime inicial mais gravoso que o previsto para o quantum de pena aplicado (fechado, no caso), apontando como fundamento a existência de circunstância judicial negativa (maus antecedentes), conforme se extrai do acórdão recorrido (e-STJ fl. 309), enão a reincidência, como alega a parte recorrente, de forma desconexa,nas razões do recurso especial (e-STJ fls. 312/318).
+Nesse contexto, evidenciada a deficiência na fundamentação do recurso, impeditiva da exata compreensão da controvérsia, incide, no ponto, por analogia, a Súmula n. 284/STF.
+Na mesma linha:
+AGRAVO REGIMENTAL. PETIÇÃO CONFUSA. AFIRMAÇÕES DESCONEXAS. SUM. 284/STF. RECURSO ESPECIAL INTERPOSTO PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+1. As razões apresentadas no presente agravo regimental, em confusa petição, apresentam-se desconexas e dissociadas do que foi decidido na decisão monocrática, circunstância que caracteriza deficiência na fundamentação e atrai, por analogia, o óbice da Súmula 284 do eg. Supremo Tribunal Federal.
+2. Recurso especial interposto diretamente no Superior Tribunal de Justiça, quando correta seria a apresentação do reclamo à Presidência do Tribunal de origem.
+3. Agravo regimental não conhecido. (AgRg no REsp 1731348/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/5/2018, DJe 25/5/2018).
+Ademais, ainda que superado o mencionado óbice, a pretensão recursal não prosperaria, pelas razões adiante aduzidas.
+Quanto ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é imprescindível, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada na reincidência, nas circunstâncias judiciais previstas no art. 59, do Código Penal, ou na gravidade concreta do delito, evidenciada esta última pelo modus operandi que desborde dos elementos normais do tipo penal violado. Precedentes: HC n. 325.756/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+Nesse contexto, os enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na espécie, aCorte localassim se manifestou para justificar a manutenção do regime fechado para o início do cumprimento da pena (e-STJ fl. 309):
+Quanto ao pedido de modificação de regime, ao fixar o regime fechado o juiz a quo assim fundamentou:
+ ..  diante dos maus antecedentes da ré e notadamente por se tratar de crime de nefastos efeitos na vida social, já fragilizada ante a escalada de crimes nessa pequena comarca, razão também pela qual, como um meio de acautelamento da ordem social, não poderá apelar em liberdade.
+Cumpre ressaltar que a fixação do regime inicial de cumprimento da pena não está vinculado de forma absoluta aoquantumda reprimenda, pois devem ser observadas as diretrizes dos artigos 33 e 59, ambos do Código Penal.
+Assim sendo, entendo que o regime inicial de cumprimento da pena deve ser mantido.
+ .. . - grifei
+Com efeito, in casu, em que pese a reprimenda corporal definitiva tenha sido fixada em quantum superior a 4 (quatro) e não excedente a 8 (oito)anos - 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão (e-STJ fl. 305) -, a pena-base foi estabelecida acima do mínimo legal em razão da existência de circunstânciajudicialnegativa(maus antecedentes, e-STJ fls. 224 e 309), o que justifica a manutenção do regime prisional mais gravoso, no caso, o fechado, na forma do art. 33, § 3º, do CP. Precedentes: AgRg no AREsp 1163912/SP, RelatorMinistro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 8/2/2018, DJe 19/2/2018; HC n. 418.162/MG, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 8/2/2018, DJe 20/2/2018; AgRg no REsp n. 1.581.920/SP, RelatorMinistro JORGE MUSSI, Quinta Turma, julgado em 19/10/2017, DJe 06/11/2017.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
