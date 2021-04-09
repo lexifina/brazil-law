@@ -1,0 +1,8 @@
+Art. 31. A comercialização de gás natural dar-se-á mediante a celebração de contratos de compra e venda de gás natural, registrados na ANP ou em entidade por ela habilitada, nos termos de sua regulação, ressalvada a venda de gás natural pelas distribuidoras de gás canalizado aos respectivos consumidores cativos.
+§ 1º A ANP deverá estabelecer o conteúdo mínimo dos contratos de comercialização, bem como a vedação a cláusulas que prejudiquem a concorrência.
+§ 2º Poderão exercer a atividade de comercialização de gás natural, por sua conta e risco, mediante autorização outorgada pela ANP, as distribuidoras de gás canalizado, os consumidores livres, os produtores, os autoprodutores, os importadores, os autoimportadores e os comercializadores.
+§ 3º Não está sujeita a autorização da ANP a venda de gás natural, pelas distribuidoras de gás canalizado, aos respectivos consumidores cativos.
+§ 4º A comercialização de gás natural no mercado organizado de gás natural deve ser efetuada por meio de contratos de compra e venda padronizados, nos termos da regulação da ANP.
+§ 5º Os contratos de comercialização de gás natural deverão conter cláusula para resolução de eventuais divergências, podendo, inclusive, prever a convenção de arbitragem, nos termos da Lei nº 9.307, de 23 de setembro de 1996.
+§ 6º As empresas públicas e as sociedades de economia mista, suas subsidiárias ou controladas, titulares de concessão ou autorização ficam autorizadas a aderir ao mecanismo e à convenção de arbitragem a que se refere o § 5º deste artigo.
+§ 7º Consideram-se disponíveis os direitos relativos a créditos e débitos decorrentes da celebração de contratos de compra e venda de gás natural de que trata este artigo.

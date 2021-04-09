@@ -1,0 +1,1 @@
+Art. 42. Fica assegurada a manutenção dos regimes e modalidades de exploração dos gasodutos que, em 5 de março de 2009, realizavam o suprimento de gás natural em instalações de refinação de petróleo nacional ou importado e unidades de produção de fertilizantes.

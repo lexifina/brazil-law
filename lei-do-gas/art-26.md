@@ -1,0 +1,2 @@
+Art. 26. Empresa ou consórcio de empresas constituídos sob as leis brasileiras, com sede e administração no País, poderão receber autorização da ANP para exercer as atividades de construção, ampliação de capacidade e operação de unidades de processamento ou tratamento de gás natural.
+Parágrafo único. O exercício da atividade de processamento ou tratamento de gás natural poderá ser autorizado para as empresas que atendam aos requisitos técnicos, econômicos e jurídicos estabelecidos na regulação.

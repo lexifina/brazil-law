@@ -1,0 +1,1 @@
+Art. 36. Os gestores das áreas de mercado deverão celebrar acordo de cooperação técnica com distribuidoras de gás canalizado situadas nas respectivas áreas de mercado para atuação conjunta e coordenada e para atendimento dos consumos prioritários de que trata o inciso IV do § 3º do art. 34 desta Lei em situações caracterizadas como de contingência no suprimento de gás natural.

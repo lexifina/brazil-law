@@ -1,0 +1,2 @@
+Art. 39. O descumprimento das determinações do plano de contingência implicará penalidades pecuniárias, correspondentes ao dobro do prejuízo provocado, conforme apuração da ANP, a serem aplicadas ao agente infrator e dele cobradas pela ANP.
+Parágrafo único. A aplicação da penalidade prevista neste artigo não elimina ou restringe o direito dos agentes prejudicados pelo descumprimento do plano de contingência de exigir reparações, na forma da legislação civil, perante o responsável, pelos eventuais prejuízos causados.
