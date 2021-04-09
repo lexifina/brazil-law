@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, interposto por Elizaide Soares Brasil Leandri, contra acórdão assim ementado pelo Tribunal de Justiça do Estado de Mato Grosso (fls. 104-105):
+MANDADO DE SEGURANÇA - DECISÃO JUDICIAL - DECLINAÇÃO DE COMPETÊNCIA PARA VARA ESPECIALIZADA DESAÚDE - RESOLUÇÃO 09/2019-OE - AUTONOMIA INSTITUCIONAL ORGÂNICO-ADMINISTRATIVA - ART. 96, I, CF - PERPETUATIO JURISDICTIONIS - INCOMPETÊNCIA ABSOLUTA SUPERVENIENTE - NÃO INCIDÊNCIA - AUSÊNCIA DE PREJUÍZO AO JURISDICIONADO - PRINCÍPIO DA CELERIDADE E EFICIÊNCIA - SEGURANÇA DENEGADA.
+1. A Constituição da República prevê, expressamente, em seu art. 96, I, a competência dos Tribunais em promover as alterações em sua estrutura organizacional, garantindo-lhe autonomia institucional orgânico- administrativa para elaborar seus regimentos internos, dispondo sobre a competência dos Juízos.
+2. " ..  II - Não há violação aos princípios constitucionais da legalidade, do juiz natural e do devido processo legal, visto que a leitura interpretativa do art. 96, I, a, da Constituição Federal admite que haja alteração da competência dos órgãos do Poder Judiciário por deliberação dos Tribunais. Precedentes.  .. " (STF - HC 113018/RS - Min. Ricardo Lewandowski).
+3. Segurança denegada.
+A recorrente, alega, em síntese, que deve prevalecer a competência originária da ação, e que a citada Resolução viola a legislação federal ao estabelecer que as ações de saúde em desfavor do Estado só podem tramitar na comarca de Várzea Grande, criando, ainda, uma prerrogativa de foro ao ente público sem a devida previsão constitucional.
+Não foram apresentadas contrarrazões (fl. 133).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 141-144).
+É o relatório. Decido.
+Verifica-se que a matéria versada no apelo foi submetida a Incidente de Assunção de Competência - IAC n. 10/STJ -, no âmbito dos REsp ns. 1.896.379/MT, 1.903.920/MT, e dos RMS ns. 64.531/MT, 64.525/MT, 64.625/MT e 65.286/MT, de Relatoria do Ministro Og Fernandes, com a seguinte questão a ser deliberada:
+Fixação da competência prevalecente para julgamento de matérias de direitos coletivos e individuais quando haja conflito entre norma infralegal ou lei estadual e a previsão de leis federais, no que tange a foro especializado em lides contra a Fazenda Pública.
+Na ocasião, o nobre relator assim considerou:
+ ..
+2. Ordem liminar: i) suspensão imediata da redistribuição à 1ª Vara Especializada da Fazenda Pública da Comarca de Várzea Grande/MT dos feitos propostos ou em tramitação em comarcas diversas ou juizados especiais, cujo fundamento, expresso ou implícito, seja a Resolução 9/2019/TJMT ou normativo similar, independentemente da matéria ou sujeitos envolvidos, até julgamento definitivo deste incidente; ii) retorno aos juízos de origem dos feitos redistribuídos com fundamento nessa norma; iii) fixação provisória da competência nos respectivos juízos de origem, inclusive no que diz respeito ao julgamento de mérito; iv) afastamento da incidência da resolução no ponto; v) fixação no caso concreto, desde logo, da competência do Juizado Especial da Fazenda Pública de Pontes de Lacerda.
+3. Por economia processual, devem ser devolvidos os recursos especiais e ordinários alusivos à matéria e em trâmite nesta Corte ao TJMT, para fins de incidência analógica dos arts. 1.040 e 1.041 do CPC/15 e cumprimento, no ínterim, da ordem liminar.
+Diante disso, torna-se impositivo o cumprimento da referida determinação, em situação análoga a dos casos de demandas repetitivas, cabendo ao ministrorelator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que seja observada a decisão prolatada pelo Ministro Relator no âmbito do citado IAC.
+Publique-se. Intimem-se.
