@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por LUCAS MIRANDA DE PAULAcontra acórdão do Tribunal de Justiça do Estado do Espírito Santoassim ementado (fl. 274):
+HABEAS CORPUS. HOMICÍDIO. REQUISITOS DA PREVENTIVA. EXCESSO DE PRAZO. ORDEM DENEGADA 1. O artigo 312 do Código de Processo Penal prevê que para a decretação da prisão preventiva são necessários indícios de autoria, prova da materialidade e a indicação de que a liberdade do réu represente risco à ordem pública, à ordem econômica, à conveniência da instrução criminal ou à aplicação da lei penal. 2. O excesso de prazo não se verifica através de simples operação matemática, devendo ser analisado à luz do caso concreto sob a ótica dos princípios da proporcionalidade e razoabilidade. 3. Ordem denegada.
+O recorrente teve sua prisão preventiva decretada em razão da suposta prática do crime de homicídio relacionado adisputas territoriais de tráfico de drogas.
+Sustenta ausência dos requisitos ensejadores da prisão preventiva e excesso de prazo na formação da culpa.
+Requer o deferimento da liberdade provisóriaa fim de que a prisão preventiva seja revogada, assegurando-se seu direito de responder ao processo em liberdade.
+O pedido de liminar foi indeferido às fls. 309-310.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fl. 323).
+É o relatório. Decido.
+Para a decretação da prisão preventiva, é indispensável a demonstração da existência de prova da materialidade do crime e de indícios suficientes da autoria. Exige-se que, mesmo com lastro probatório, a decisão se ajuste às hipóteses excepcionais previstas abstratamente na norma(art. 312 do CPP) e que seja comprovada ainda a imprescindibilidade da medida (AgRg no RHC n. 122.247/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+No caso em apreço, o recorrente não logrou êxito em afastar os requisitos acima, porquantoa Corte de origem expôs o seguinte (fl. 275):
+O artigo 312 do Código de Processo Penal prevê que para a decretação da prisão preventiva são necessários Indícios de autoria, prova da materialidade e a indicação de que a liberdade do réu represente risco à ordem pública, à ordem econômica, à conveniência da instrução criminal ou à aplicação da lei penal.
+Análise das decisões proferida pelo juiz em conjunto com as informações prestadas demonstra que a decretação da medida foi devidamente fundamentada nos elementos de cognição presentes na ação penal.
+Ademais, há entendimento do Superior Tribunal de Justiça no sentido de que, na hipótese de delito praticado com violência contra pessoa, a prisão cautelar é solução idônea para adequar a situação subjetiva do agente à necessidade de acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+Quanto à ausência de registro fotográfico de rosto e corpo inteiro, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a tese de irregularidades na prisão em flagrante fica superada com a superveniência de novo título que justifica a segregação, a saber, o decreto de prisão preventiva (HC n. 498.555/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/8/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020).
+No caso dos autos, ficou evidente a falta de demonstração da desídia estatal, porquanto o Tribunal de origem atestou o correto andamento do feito no sistema E-Jud (fl. 276), o que afasta a alegação de excesso de prazo.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
