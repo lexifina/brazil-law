@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, com fulcro no permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 29):
+EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. RENAJUD.RESTRIÇÕES.
+Em suas razões, orecorrente aponta, além de divergência jurisprudencial,violação dos arts. 797 e 831 do CPC/2015 e do art. 10 da Lei n. 6.830/80.
+Para tanto, defende a possibilidade de restringir a circulação de veículo do devedor com o objetivo de assegurar o resultado útil ao processo executivo.
+Afirma, ainda, que "não há necessidade de que o exequente comprove a efetivação e diligências anteriores para que seja requerida a utilização dos sistemas referidos, em especial o RENAJUD" (e-STJ fl. 42).
+Sem contrarrazões, o apelo recebeu juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 46).
+Passo a decidir.
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Dito isso, observa-se que o entendimento firmado pelo Tribunal de origem, no sentido de afastar a restrição de circulação do veículo por considerá-la demasiadamente drástica, contrariou a jurisprudência desta Corte Superiorsobre o tema.
+Confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo. Nesse sentido, as seguintes decisões monocráticas: REsp 1.669.427/RS, Rel. Ministro Mauro Campbell Marques, DJe 9/6/2017; AREsp 1.165.070/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 7/11/2017; AREsp 1.076.857/MG, Rel. Ministro Luis Felipe Salomão, DJe 5/5/2017; AREsp 1.071.742/MG, Rel. Ministra Isabel Gallotti, DJe 18/4/2017; AREsp 1.062.167/MG, Rel. Ministro Antonio Carlos Ferreira, DJe 5/9/2017; e AREsp 1.155.900/MG, Rel. Ministro Moura Ribeiro, DJe 2/10/2017.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.678.675/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 06/03/2018, DJe 13/03/2018).
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DECRETO DE INDISPONIBILIDADE DE VEÍCULO AUTOMOTOR REGISTRADO EM NOME DO EXECUTADO. POSSIBILIDADE. NÃO-LOCALIZAÇÃO DO VEÍCULO PARA FINS DE PENHORA OU ARRESTO. IRRELEVÂNCIA.
+1. Em conformidade com o art. 185-A do Código Tributário Nacional, é possível que seja ordenado ao órgão de trânsito competente o bloqueio de automóvel de propriedade do executado para prevenir eventual fraude à execução, mesmo que ainda não tenha havido a formalização da penhora do veículo automotor. Com efeito, é possível o decreto de indisponibilidade de veículo automotor registrado em nome do executado, mesmo que o veículo ainda não tenha sido encontrado e, justamente por sua não-localização, esteja inviabilizada a penhora ou arresto. De modo a viabilizar futura garantia da execução, bem como sua efetividade perante terceiros, determina-se a indisponibilidade do veículo junto ao DETRAN.
+2 . O Sistema RENAJUD é uma ferramenta eletrônica que interliga o Poder Judiciário e o Departamento Nacional de Trânsito - DENATRAN, possibilitando consultas e o envio, em tempo real, de ordens judiciais eletrônicas de restrição e de retirada de restrição de veículos automotores na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM. O sistema RENAJUD permite o envio de ordens judiciais eletrônicas de restrição de transferência, de licenciamento e de circulação, bem como a averbação de registro de penhora de veículos automotores cadastrados na Base Índice Nacional (BIN) do Registro Nacional de Veículos Automotores - RENAVAM.
+3. No caso concreto, o Estado de Mato Grosso do Sul requereu a expedição de ofício ao Detran local, requisitando o imediato bloqueio na transferência do veículo registrado em nome da executada, ora recorrida.
+4. Recurso especial provido.
+(REsp 1.151.626/MS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 17/2/2011, DJe 10/3/2011).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especialpara determinar a restrição de circulação sobre o veículo descrito nos autos, nos termos da fundamentação.
+Publique-se. Intimem-se.
