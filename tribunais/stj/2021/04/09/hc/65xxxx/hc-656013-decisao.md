@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANTONIO MARDONES PEREIRA RIBEIRO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo na Apelação n. 0200295-86.2008.8.26.0547.
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 6 meses de reclusão, em regime fechado, mais pagamento de 13 dias-multa, pela prática do crime de roubo circunstanciado (art. 157, § 2º, I e II, do Código Penal).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (julgado em 30/9/2014).
+Daí o presente writ, no qual sustenta a defesa que "a prisão do paciente NÃO pode prosperar, uma vez que levada à feito por meio de DECISÃO absolutamente DESPROVIDA DE FUNDAMENTAÇÃO CONCRETA, SEM A INDISPENSÁVEL INDIVIDUALIZAÇÃO DA CONDUTA e, ainda, SEM OBSERVAR A NECESSIDADE DE CONTEMPORANEIDADE, ou seja, em total inobservância ao disposto no art. 315 e parágrafos, do Código de Processo Penal" (e-STJ fl. 4).
+Destaca as condições pessoais favoráveis do paciente.
+Além disso, argui que não há indícios de prova suficientes para fundamentar a condenação.
+Assere falta de motivação idônea com relação ao regime fechado de cumprimento de pena.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente, com ou sem a imposição de medidas cautelares alternativas, a imposição do regime semiaberto de cumprimento de pena, bem assim "o declínio do processo para uma das varas de execução do Estado do Ceará (onde o paciente tem residência e foi preso)" (e-STJ fl. 8).
+É o relatório.
+Decido.
+Conforme se depreende da leitura da inicial, o impetrante se insurge contra a prisão decorrente de condenação transitada em julgado. No entanto, embasa sua tese na falta dos requisitos para decretar a custódia cautelar (art. 312 do Código de Processo Penal), bem como na ausência de contemporaneidade entre a prisão e os fatos ilícitos.
+Nesse contexto, não há interesse de agir com relação ao pleito de revogação da prisão com base nesses argumentos , tendo em vista que não se trata de prisão preventiva, mas sim de execução definitiva.
+Quanto ao regime de cumprimento de pena, cumpre esclarecer que esta Corte carece de competência para a análise de habeas corpus substitutivo de revisão criminal, impetrado contra condenação transitada em julgado, quando não inaugurada anteriormente sua competência, por força do art. 105, inciso I, alínea e, da Constituição Federal.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O MESMO FIM. PLEITO DE REVISÃO DA DOSIMETRIA E DA CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. IMPOSSIBILIDADE DE RECONHECIMENTO. PRECEDENTES.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC 524.600/PR, Ministra Laurita Vaz, Sexta Turma, DJe 21/2/2020).
+2. Agravo regimental improvido. (AgRg no HC 548.771/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2020, DJe 09/06/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. FIXAÇÃO DO REGIME INICIAL FECHADO. AUSÊNCIA DE ILEGALIDADE PATENTE APTA A ENSEJAR A CONCESSÃO DA ORDEM, DE OFÍCIO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Diante dessa situação, não deve ser conhecido o writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. Ademais, não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício, tendo em vista que o regime prisional imposto se encontra justificado pela gravidade concreta da conduta, evidenciada pela quantidade de substância entorpecente apreendida - 1.815,30 gramas de maconha -, além de dinheiro e anotações típicas do tráfico de drogas.
+3. Agravo regimental desprovido. (AgRg no HC 566.580/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/05/2020, DJe 28/05/2020.)
+Ademais, verifico que o Tribunal de origem nem sequer se manifestou especificamente a respeito do recrudescimento do regime , configurando, assim, indevida supressão de instância, o que também impede o conhecimento do habeas corpus.
+Por fim, o pleito absolutório, sobretudo se amparado na alegação de falta de provas para a condenação, não se coaduna com o rito do habeas corpus, ante a impossibilidade de revolvimento de fatos e provas, de modo que não há como conhecer do pedido.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
