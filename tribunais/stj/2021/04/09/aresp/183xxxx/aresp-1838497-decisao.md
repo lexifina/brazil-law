@@ -1,0 +1,8 @@
+DECISÃO
+A Segunda Câmara de Direito Privado do TJ/MT, à unanimidade, negou provimento ao agravo interno interposto pela agravante por considerá-lo manifestamente inadmissível, aplicando multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15 (e-STJ, fl. 272/299).
+Nos termos do § 5º, do referido artigo, "a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final".
+Assim, ante a ausência de comprovação do pagamento da multa imposta pelo Tribunal de origem, inviável o conhecimento do presente recurso especial. Nesse sentido: EDcl no AgInt no AREsp 1.125.912/RJ, 3ª Turma, DJe de 09/03/2018; EDcl no AgInt nos EDcl no AgInt nos EDcl no AgRg no Ag 1.239.068/RJ, 4ª Turma, DJe de 25/10/2017; EDcl no AgInt no AREsp 604.595/RS, 3ª Turma, DJe 06/12/2016; e EDcl no AgRg no AREsp 835.942/SP, 4ª Turma, DJe 23/06/2016.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 (e-STJ, fl. 283) para R$ 1.600,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
