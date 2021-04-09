@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por BERNARDO RAMOS DOS SANTOS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TJ/MA, assim ementado (e-STJ, fls. 231-242):
+"Penal. Processual. Apelação. Art. 1.º, inciso I do Dec-Lei n.º 201/67.Art. 89, da Lei n.º 8666/93. Indeferimento de pedido de adiamento de audiênciade instrução e julgamento. Desconsideração de provas da defesa. Deficiênciadas alegações finais. Inépcia da inicial. Violação ao principio da persuasãoracional das provas. Preliminares. Rejeição. Mérito. Prescrição. Inocorrência.** Elementos configuradores dos tipos. Demonstração. ** Concurso material.Reconhecimento. Condenação. Manutenção. ** art. 312, do Código Penal.Reconhecimento, bis in idem. Exclusão de ofício.
+I - Não constitutiva de cerceamento de defesa o só fato de indeferidopleito de adiamento de audiência de instrução e julgamento subsidiado emmotivo não justificado e atestado por prova inidônea.
+II- Incogitável o alegar de vício nulificador decorrente de supostadesconsideração das provas da defesa, se, nesse particular, inevidenciada nadefesa escrita, expressa intenção de se lhas produzir.
+III - Não há falar-se em nulidade do processo por deficiência das alegaçõesfinais, se, tomadas, estas, em reiteração as apresentadas razões da defesaescrita, onde se vê o declínio da tese defensiva.
+IV- Se a descrever a inicial acusatória suficiente exposição fática doimputado ato, com suas respectivas circunstâncias, inquestionável o seu nãorevestir de inépcia.
+V - Inocorrente nulidade da sentença por violação ao Principio daPersuasão Racional das Provas, se, ao sentenciar, tomado de consideração, omagistrado, firme convencimento extraído do acurado exame das produzidasprovas. Preliminares. Rejeição.
+VI -O não extrapolar do prazo prescricional intercalado entre os marcosinterruptivos desautoriza, por si só, o reconhecimento da extinção dapunibilidade pela sua incidência.
+VII - Se, do produzido acervo, a emergir elementos suficientes no configurardas atribuídas práticas, inquestionável o seu desfazimento ao intuito deabsolver, desclassificar ou absorver um crime menos grave pelo outro demaior gravidade.
+VIII - As ações diversas que resultaram nas tipificações delitivas, denotam,polo sou contexto, inexistência de unidade de conduta a ponto de recomendaro acúmulo material dos crimes.
+IX - A motivação da sentença no dosimetrificar da pena, por si só, autorizao seu aplicar acima do mínimo.
+X- Constitutiva de procedimento nao recomendável, dupla condenaçãopelo mesmo fato com tipificação em normas diferentes em que tutelado omesmo objeto jurídico.
+Recurso a que se nega provimento pelos seus próprios fundamentos, e, que,de ofício, ante ocorrência do bis in idem, excluída da condenação a prática docrime previsto no art. 312, do Código Penal. Unanimidade".
+Em suas razões recursais, a parte recorrente aponta ofensa aos arts. 564, III, "e", do e 619 do CPP, bem como ao art. 59 do CP. Aduz para tanto, em síntese, que: (I) o acórdão teria permanecido omisso sobre pontos relevantes da causa; (II) a denegação do pedido de adiamento da audiência de instrução implicaria cerceamento de defesa; e (III) a pena-base deveria ser fixada no mínimo legal.
+Com contrarrazões (e-STJ, fls. 426-435), o apelo nobre foi inadmitido na origem (e-STJ, fls. 447-450), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 572-578).
+É o relatório.
+Decido.
+A decisão que inadmitiu o apelo nobre na origem pautou-se nos seguintes fundamentos: (I) incidência da Súmula 7/STJ; (II) falta de cotejo analítico; e (III) aplicação da Súmula 83/STJ, quanto à alegada violação do art. 619 do CPP.
+No agravo, todavia,a defesa não combate especificamente este último motivo da decisão agravada, pois silenciou sobre a Súmula 83/STJ.
+Ademais, em recente julgamento dos EAREsp 746.775/PR, datado de 19/09/2018 e publicado em 30/11/2018, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.Eis a ementa do aresto:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.
+1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ,não conheçodo agravo em recurso especial.
+Publique-se. Intimem-se.
