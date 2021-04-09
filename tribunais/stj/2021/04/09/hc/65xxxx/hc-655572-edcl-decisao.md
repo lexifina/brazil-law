@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de JOÃO MARCELINO MIRANDAcontra decisão monocrática que indeferiu liminarmente o habeas corpus (e-STJ, fls. 76/77).
+Neste aclaratórios, a defesa aponta omissão na decisão embargada, porque não teria sido julgado opedido referente à Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça.
+Assim, requero PROVIMENTO dos Embargos,sanando a OMISSÃO da apontada decisão.
+É o relatório. Decido.
+Sem razão o embargante.
+Dispõe o Código de Processo Penal:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado.
+Não se prestam, portanto, os aclaratórios, para revisão do julgado no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS. 1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.  ..  3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado no acórdão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios. 4. Embargos declaratórios rejeitados. (EDcl no AgRg no AREsp 669.505/RN, de minha relatoria, QUINTA TURMA, DJe 25/08/2015.)
+In casu, a decisão embargada consignou que (e-STJ, fl. 77):
+A presente irresignação não pode prosseguir.
+No caso, a decisão primeva foi favorável ao paciente, porque deixou claro que o mandado de prisão foi suspendo, devido ao seu tratamento de saúde, motivo pelo qual o Tribunal não conheceu da impetração, explicando ainda que (e-STJ, fl. 27):
+ ..  o atestado médico acostado em fl. 24 dá conta de que o impetrante teria sido atendido em 29/01/2021, com determinação de afastamento das atividades por 90 dias, ou seja, até29/04/2021.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Conforme explicado na decisão transcrita acima, o decisóriosingular já havia sido favorável ao paciente, suspendendoseu mandado de prisão e determinando expedição de ofício às unidades de regime semiaberto para que informem sobre a possibilidade de tratamento do paciente, razão pela qual o Tribunal a quo não conheceu do habeas corpus lá impetrado.
+Assim, não foi possível nem preciso discutir sobre o pedido referente à Recomendação n. 62/CNJ, porque o próprio Tribunal nada mencionou sobre o assunto.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE. 1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício. 2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva. 3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido. 4. Habeas corpus do qual não se conhece. (HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+Por conseguinte, não há que se falar em omissão, inexistindo o que ser reparado no decisum embargado.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
