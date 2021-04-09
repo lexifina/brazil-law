@@ -1,0 +1,11 @@
+DECISÃO
+ANKARO RIZZO PIMENTELalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou o HC n.4033666-51.2018.8.24.0000.
+Nesta Corte, o impetrante sustenta a ocorrência de indevido cerceamento de defesa, diante da negativa do Juízo singular na produção de provas requeridas na petição de resposta à acusação, aduzindo, ainda, que a intempestividade da defesa constitui "excesso de rigor e formalismo" (fl. 12) e não justifica o indeferimento dos pedidos.
+Requer sejam deferidas as diligências e oitiva das testemunhas requeridas pela defesa.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus.
+Decido.
+Em consulta processual realizada na página eletrônica do Tribunal de Justiça do Estado de Santa Catarina, verifico quesobreveio a prolação de sentença condenatória nos autos do processo objeto deste recurso (Autos n. 0015817-20.2018.8.24.0038, 2ª Vara Criminal da Comarca de Joinville - SC).
+Dessa forma, verifico a prejudicialidade do exame das teses formuladas neste recurso. Com efeito, diante da superveniência de sentença que afastou as nulidades suscitadas pela defesa, a controvérsia, agora, deve ser examinada pelo Tribunal de origem, por ocasião do julgamento do recurso de apelação.
+Faço lembrar que o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição - horizontal e vertical - permite que o Tribunal ad quem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes. Portanto, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse o recurso que devolve ao Tribunal o conhecimento amplo de toda a matéria versada nos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado ohabeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
