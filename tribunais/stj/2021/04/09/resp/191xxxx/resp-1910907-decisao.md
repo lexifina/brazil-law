@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto porMANOEL LUIZ DE SANTANA, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A controvérsia tem origem em apelação de sentença que julgou procedentes embargos à execução opostos pela autarquia, acolhendo os cálculos apresentados pelo INSS.
+O proveito econômico da causa é de R$ 200.343,47(duzentos mil, trezentos e quarenta e três reais e quarenta e sete centavos) (fl. 364).
+O Tribunal a quodeu parcialprovimento ao recurso, em acórdão assim ementado (fl. 364):
+EMBARGOS À EXECUÇÃO - FASE DE LIQUIDAÇÃO - CORREÇÃO MONETÁRIA DAS PRESTAÇÕ ES EM ATRASO - LEI Nº 11.960/09 DECLARADA INCONSTITUCIONAL NO JULGAMENTO DA ADI 4.357 E NO RE 870.947, NO TOCANTE AO USO DA TR PARA ATUALIZAÇÃO DE DÉBITO NÃO - TRIBUTÁRIO DA FAZENDA P Ú BLICA - OBSERVÂNCIA DO ENTENDIMENTO DOS TRIBUNAIS SUPERIORES RETRATADO NOS TEMAS 905 (STJ) E 810 (STF), ATINENTE A ÍNDICES DE ATUALIZAÇÃO MONETÁRIA - DECISÃO REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram eles rejeitados (fls. 380-384).
+Nas razões do recurso especial, o recorrente alega ofensa aos artigos 31 da Lei n. 10.741/2003, 41-A da Lei 8.213/1991, 201,§ 4º da CF/1988, 3º da Lei n. 9.796/1999, ao argumento de que, além da correção monetária própria dos benefícios previdenciários, deve-se atentar também para a correção decorrente de aumentos reais previstos nas Medidas Provisórias n. 291/2006, 316/2006 (que alterou o artigo 3º da Lei n. 9.796/1999) e 475/2009 (posteriormente convertida na Lei n. 12.254/2010).
+Sem contrarrazões.
+É o relatório. Decido.
+Quanto ao alegado direito a aumento realinvocando dispositivo constitucional como respaldo, observa-se que não é possível a apreciação no âmbito desta Corte superior, sob pena de se usurpar a competência do Supremo Tribunal Federal. Nesse sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PRAZO. A PARTIR DA INTIMAÇÃO PESSOAL DA PENHORA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS ESTÃO ALINHADOS À ORIENTAÇÃO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Primeiramente, esclareça-se que a análise dos pontos arguidos na argumentação recursal que remetem à suposta afronta ao texto constitucional não se enquadra no âmbito de julgamento destinado ao Recurso Especial pelo permissivo constitucional.
+2. Quanto à suposta afronta ao art. 535 do CPC/1973, verifica-se que as questões submetidas à apreciação perante a Corte de origem foram integralmente resolvidas, não padecendo o julgado de qualquer mácula, no ponto.
+ ..
+5. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 934.762/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020, grifos nossos)
+Quanto aos artigos 31 da Lei n. 10.741/2003 e3º da Lei n. 9.796/1999, apontados como violados e vinculados à tese de que a cessão relativa às parcelas 3 a 9 não implicam em ilegitimidade para discussão do valor relativo à décima parcela, tem-se que não foram, em nenhum momento, objeto de apreciação pelo Tribunal a quo, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+In casu, não há falar em prequestionamento ficto, previsão do art. 1025 do NCPC, isso porque, em conformidade com a jurisprudência do STJ, para sua incidência, deve a parte ter alegado devidamente em suas razões recursais, ofensa art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos embargos de declaração, caso existente, o que não se verifica no presente feito.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO FUX. RECONHECIMENTO. INDICAÇÃO E CONHECIMENTO DA VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. NECESSIDADE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. IRPJ, CSSL, PIS E COFINS. PERMUTA DE IMÓVEIS. NÃO EQUIPARAÇÃO A COMPRA E VENDA. PRECEDENTES. AUSÊNCIA DE LUCRO, RECEITA, RENDA OU FATURAMENTO COM A OPERAÇÃO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. A alegada violação dos arts. 6o. da Lei 7.689/1988, 57 da Lei 8.981/1995, 28 da Lei 9.430/1996, 2o. e 3o. da Lei 9.718/1998, não pode ser conhecida ante a falta de prequestionamento da matéria, pois o Tribunal de origem não analisou a controvérsia à luz dos dispositivos invocados, apesar da oposição dos Embargos de Declaração.
+2. O reconhecimento do prequestionamento fictício, previsto no art. 1.025 do Código Fux, nos termos da jurisprudência desta Corte Superior, exige que seja invocada e conhecida violação do art. 1.022 do Código Fux, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei (REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017), o que não ocorreu no caso sob exame.
+3. A ausência de impugnação específica de um dos fundamentos nodais do acórdão recorrido enseja o não conhecimento do Recurso Especial, incidindo, por analogia, o enunciado da Súmula 283/STF, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+ ..
+6. Agravo Interno da FAZENDA NACIONAL desprovido.
+(AgInt no REsp 1737467/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 8/6/2020, DJe 17/6/2020)
+Ainda que se pudesse superar o óbice do prequestionamento, observa-se que as razões de recurso especial, desenvolvidas no sentido de ser possível suscitar a aplicação de índices de aumento real no cumprimento de sentença, se afastaram do fundamento apresentado naquele julgado, que distinguiu os valores relativos às parcelas do benefício computados no cálculo da liquidação da prestação mensal do benefício mantido em momento posterior (fl. 382).O referido fundamento foi utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
