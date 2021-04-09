@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado peloEstado do Amazonas contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 427):
+Apelação Cível. Competência. Justiça Federal. Inocorrência. Litígio. Estado e particular. Violação do Princípio do Contraditório e da ampla defesa. Não configurado. Necessidade de comprovação de dano ao erário. Fato extintivo de direito. Inexistência.
+1. Não compete a Justiça Federal julgar ações tendo como partes o Estado e um particular.
+2. Se oportunizada, no curso do processo, a manifestação da parte, bem como a produção de provas que julgar necessárias para o deslinde da ação, não há que se falar em violação do contraditório e da ampla defesa.
+3. Fatos extintivos são aqueles que cessam a relação jurídica, extinguem o direito pretendido.
+4. Apelação conhecida e desprovida.
+Opostos embargos declaratórios, foram acolhidos no termos da seguinte ementa (fl. 468):
+Embargos de declaração. Falta de apreciação de documentos juntados na apelação. Omissão. Ocorrência.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. No caso concreto, de fato, houve omissão quando da apreciação dos documentos acostados aos autos.
+3. Embargos de declaração conhecidos e providos.
+Opostos novos aclaratórios, dessa feita pelo ente estatal, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 504/506).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 7º, 373, II,434 e 435 doCPC/2015; bem como ao art. 5º,LV, da Constituição Federal.Sustenta, em resumo, que: (I)"a empresa trouxe ao recurso de apelação vários argumentos que não foram apresentados no momento processual oportuno (a contestação)" (fl. 517); (II) não houve violação ao contraditório e à ampla defesa; e (III) "o recorrido não se desincumbiu do ônus de provar existência de qualquer fato impeditivo, modificativo ou extintivo do direito" estatal (fl. 525).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do agravo (fls. 533/538).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aoart. 5º, LV,da Constituição Federal.
+Por sua vez, acerca da juntada de documentos em sede de apelação, assim restou decidido no acórdão recorrido(fl. 471/472):
+Não vislumbro qualquer impedimento à juntada da documentação avençada, haja vista tal documentação ter sido submetida a contraditório em juízo, em sede de contrarrazões por parte da Fazenda Pública Estadual.
+A jurisprudência dos tribunais locais admite a juntada de documentos em sede de apelação, conforme a seguinte ementa:  ..
+O fato foi alegado em sede de contestação e os documentos foram juntados em sede de apelação, tendo sido dado, logo em seguida, vista à parte contrária, que peticionou as contrarrazões ao recurso, sem ter impugnado a validade ou autenticidade da prova documental.
+Dessa forma, reconheço como válida a juntada da documentação, motivo pelo qual passo à sua análise, em confronto com as alegações contidas nos autos.
+A pretensão do Estado do Amazonas é a repetição de indébito no valor de R$ 475.989,88 (quatrocentos e setenta e cinco mil novecentos e oitenta e nove reais e oitenta e oito centavos), referente à diferença entre as medições realizadas pela Secretaria de Estado de Infraestrutura e pelo DNIT nas obras e serviços de engenharia para construção de terminal hidroviário no município de Boca do Acre.
+Às fls. 369/370 constam os laudos técnicos, realizados por fiscal de obra da própria SEINF, no qual consta que as obras foram executadas de acordo com as normas técnicas vigentes no país e segundo os termos estabelecidos no contrato, opinando pela liberação da verba indicada.
+Tal documento goza da presunção de veracidade e legitimidade inerente a todos os atos administrativos. A primeira diz respeito ao atributo de que todos os fatos narrados no ato administrativo são verdadeiros. A segunda indica que o ato administrativo foi realizado em observância aos ditames legais.
+Desse modo, os documentos não podem ser simplesmente desconsiderados, devendo a sua invalidação passar por procedimento administrativo prévio, assegurada ampla defesa e contraditório do interessado, como bem salientou a embargante.  ..
+Note-se que este Sodalício possui entendimento no sentido de que "a apresentação de documentos novos em apelação é admitida, desde que não sejam indispensáveis à apreciação da demanda, observe o contraditório e que não haja má-fé" (AgInt no AgInt no AREsp 1.653.794/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/8/2020, DJe 31/8/2020).
+Desse modo, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar a impossibilidade dejuntada dos documentos realizada em sede de apelação,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Quanto à violação ao contraditório e ampla defesa e comprovação das alegações, o Tribunal de origem decidiu nos seguintes termos (fls. 472/473):
+Insta ressaltar que o acórdão impugnado de fato invocou a súmula 346 e 473 do Supremo Tribunal Federal apenas parcialmente, deixando de analisar eventual compatibilidade entre a anulação do ato administrativo e o princípio da ampla defesa e contraditório.
+Nesse sentido, a Fazenda Pública não demonstrou que a anulação se deu por meio de processo administrativo no qual se assegurou a ampla defesa e o contraditório.
+Ademais, o Estado informou que a perícia realizada pela autarquia federal DNIT era incompatível com a conclusão técnica obtida pela SEINF, órgão estadual, pertencente à Administração Indireta.
+Ocorre que não há hierarquia entre as esferas da federação, não havendo prevalência abstrata entre a medição realizada por ente federal e estadual, de modo que deveria ser analisado no caso concreto qual das medições mais se aproxima da realidade.
+Não poderia a Administração Pública Estadual, após realizar medição considerada válida, simplesmente anular unilateralmente seu próprio ato, sem ampla defesa nem contraditório, em razão da superveniência de perícia mais favorável exarada por outro órgão da federação.  ..
+Há que se levar em conta ainda que a avaliação realizada pelo DNIT data de 19/12/2009 e 26/05/2010, foi realizada após o desmoronamento e o solapamento do terreno destinado à construção destinado à construção do terminal, conforme ofício assinado pelo Secretário de Infraestrutura à fl. 304, comunicando tais eventos, o que inclusive motivou o cancelamento do convênio junto ao Ministério do Transporte.
+Assim, é possível vislumbrar que a avaliação técnica do DNIT foi realizada após tais eventos, o que não foi levado em conta no momento da elaboração do laudo. Tais fatos indicam pela impossibilidade de prevalência da perícia realizada pelo DNIT em detrimento daquela feita pelo órgão estadual.
+Ademais, o direito contemporâneo consagra o princípio da boa-fé, protegendo aquele que agiu sem maldade e honestidade de sofrer qualquer dano que não pudesse prever.
+Deste modo, se mostra incongruente a tese da prevalência da fiscalização do Departamento Nacional de Infraestrutura e Transportes, vez que ambas gozam dos mesmos atributos do ato administrativo, e considerando que esta foi realizada após intempérie que acometeu a região, que afetou a área já construída e impossibilitou a continuidade da obra.
+Do mesmo modo, o pleito recursal esbarra na vedação da Súmula 7/STJ, haja vista que para se chegar a conclusão diversa da adotada no julgado, seria imprescindível o reexame dos elementos contidos no caderno processual, providência incabível na via do especial.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
