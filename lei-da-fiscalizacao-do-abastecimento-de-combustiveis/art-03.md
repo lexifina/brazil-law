@@ -37,3 +37,5 @@ XVIII - não dispor de equipamentos necessários à verificação da qualidade, 
 Multa - de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinqüenta mil reais).
 XIX - não enviar, na forma e no prazo estabelecidos na legislação aplicável, as informações mensais sobre suas atividades:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 1.000.000,00 (um milhão de reais).
+XX - comercializar gás natural em desacordo com a legislação aplicável:
+Multa - de R$ 5.000,00 (cinco mil reais) a R$ 2.000.000,00 (dois milhões de reais).
