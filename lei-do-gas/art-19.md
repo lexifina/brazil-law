@@ -1,0 +1,2 @@
+Art. 19. A empresa ou consórcio de empresas constituídos sob as leis brasileiras, com sede e administração no País, poderão receber autorização da ANP para exercer as atividades de importação e exportação de gás natural.
+Parágrafo único. O exercício das atividades de importação e exportação de gás natural observará as diretrizes estabelecidas pelo Conselho Nacional de Política Energética (CNPE), particularmente as relacionadas com o cumprimento do disposto no art. 4º da Lei nº 8.176, de 8 de fevereiro de 1991.

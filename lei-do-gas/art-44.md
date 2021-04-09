@@ -1,0 +1,3 @@
+Art. 44. As novas modalidades de serviço de transporte não prejudicarão os direitos dos transportadores decorrentes dos contratos vigentes na data da publicação desta Lei.
+§ 1º Os contratos de serviço de transporte vigentes na data de publicação desta Lei serão adequados, no prazo de até 5 (cinco) anos, contados da publicação desta Lei, ou de até 3 (três) anos, contados da edição de mencionada norma, o que expirar por último, de modo a refletir os novos regimes de contratação de capacidade, preservando a receita auferida pelos transportadores com os respectivos contratos.
+§ 2º A ANP poderá considerar, no processo de definição ou revisão das tarifas de transporte, a compensação por eventuais prejuízos às partes, desde que devidamente comprovados.
