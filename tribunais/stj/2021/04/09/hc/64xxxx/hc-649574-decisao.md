@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de PABLO MOREIRA RIBEIRO e de KAUÃ HIAGO ROCHA DE OLIVEIRA VELOSOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais(Processo n. 1.0000.20.603182-5/000).
+Os pacientes tiveram a prisão em flagrante convertida em preventiva e foram denunciados porsuposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+A defesaalega que os pacientes estão sendo vítima de constrangimento ilegal, em razão do descumprimento da inviolabilidade de domicílio sem o devido mandado prisional, sendo, consequentemente, ilegal a prisão em flagrante
+Requer, liminarmente e no mérito,a revogação da prisão preventiva dos pacientes, expedindo-se os alvarás de soltura.
+O Tribunal de Justiça do Estado de Minas Geraisapresentou informações às fls. 77-108 e 112-135.
+O Ministério Público Federalopinoupelonão conhecimento do writ (fls. 143-148).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Em relação à alegada nulidade das provas colhidas por violação de domicílio, o Tribunal de origem ressaltou que (fls. 54-56, destaquei):
+Delimitadas tais diretrizes, tenho que o contexto fático anterior legitimou os policiais a ingressarem no imóvel em que se encontravam os pacientes, sem ordem judicial, porquanto havia mesmo fundados indícios da prática de crime no interior da casa aonde os imputados foram detidos.
+Consta dos autos que militares receberam informação dando conta de que um indivíduo oriundo da cidade de Montes Claros/MG estaria realizando o tráfico ilícito de drogas juntamente com Pablo Moreira Ribeiro, ora paciente, no endereço situado na Rua Professora Conceição Pereira, n.º 118, Bairro Santo Antônio, em Juiz de Fora/MG.
+Diante de tal informação, os policiais se deslocaram para o referido logradouro, oportunidade em que visualizaram o denunciado Kauã, ora paciente, em atitude suspeita, o qual tentou empreender fuga ao visualizar a aproximação da viatura policial.
+Ato contínuo, realizada a abordagem e efetuada busca pessoal, os brigadianos lograram apreender em poder de Kauã a quantia de R$ 450,00 em espécie e 22 pedras de substância semelhante a crack.
+Franqueada a entrada dos brigadianos no imóvel de n.º 118, alvo da denúncia, e realizadas buscas na residência, a equipe policial logrou êxito em encontrar, na gaveta do armário da cozinha, a importância de R$ 543,65 em moeda corrente; uma folha contendo registros da provável contabilidade do tráfico; 20 pedras de substância análoga a crack; além de 02 plantas de maconha.
+Dando continuidade à diligência, os castrenses efetuaram buscas no terreno da casa, momento em que localizaram 01 pedra bruta de substância semelhante a crack;17 buchas de substância análoga a maconha; bem ainda 08 tabletes da mesma substância, pesando 620,50 gramas.
+Além dos entorpecentes, foram apreendidos objetos ligados ao preparo de drogas, dentre os quais 01 gilete utilizada para fracionar entorpecentes;01 balança de precisão; diversos invólucros plásticos e 01 rolo de papel filme.
+ ..
+Dessa forma, havendo elementos seguros a legitimar a açãodos militares, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, inadmissível interpretar suas ações, no caso dos autos, como ilícitas, sob pena de permitir, em hipóteses iguais, queo domicílio deixe de ser lugar de preservação da intimidade para se transformar em um espaço de criminalidade.
+Ora, na hipótese dos autos, restou justificado o ingresso no domicílio alheio dada a situação fática emergencial consubstanciadora de flagrante delito, já que os militares, após informações de que um dos pacientes estaria praticando o comércio ilícito de entorpecentes , dirigiram-se até o imóvel alvo da denúncia, oportunidade em que lograram encontrar drogas, petrechos alusivos ao fornecimento de entorpecentes, além de uma folha contendo registros da provável contabilidade do tráfico.
+Ademais, observa-se das declarações prestadas pelo condutor do flagrante que a entrada ao imóvel foi franqueada pelo próprio paciente Kauã.
+De resto, registro despiciendo a expedição de mandado de busca e apreensão,posto que o imputado, em tese, encontrava-se em flagrante delito de crime permanente. E, nessas hipóteses, como já dito, entende-se o agente em flagrante delito enquanto não cessar a permanência.
+O entendimento acima está em consonância com a jurisprudência do STJ de que oingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo (AgRg no AREsp n. 1.573.424/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020; HC n. 306.560/PR, relator Ministro Felix Fischer, Quinta Turma, DJe de 1º/9/2015; AgRg no AgRg no REsp n. 1.726.758/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/12/2019; e EDcl no AREsp n. 1.410.089/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 28/6/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
