@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de LUZIMAR BIDO DE MOURA contra a decisão monocrática que não conheceu do habeas corpus (e-STJ, fls. 153/159).
+Nos presentes embargos, a defesaaponta contradição no julgado combatido, sob o fundamento de queo embargante teria sidoabsolvido em todos os processos oriundos do Estado de Sergipe, conforme as sentenças de absolvição nos processos de Itabaianinha-SE e Arauá-SE anexas.
+Alega, também, que a única menção do Juízo feita ao processo de n. 0014256-43.2008.8.15.0011 não diz respeito a uma condenação, mas ao deslocamento de competência da Justiça Sergipana para a Vara de Execuções de Campina Grande-PB Acrescenta que a pena referente ao processo de n.0014256-43.2008.8.15.0011 foi integralmente cumprida pelo embargante antes mesmo da concessão do regime semiaberto em 2013.
+Nega que o embargante esteja foragido,pois entre o ano de sua prisão preventiva, em 2013, pelos processos de Itabaianinha-SE e Arauá-SE, os quais agora resta absolvido, e o ano de remessa de sua Execução Criminal ao juízo da Vara de Execuções de Campina Grande-PB, em 2019, o embargante sempre cumpriu com suas obrigações na Vara de execuções.
+Acusa, por fim, omissão na decisão embargada, porquanto não houve menção quanto ao conflito de competência entre as decisões da Vara de Execuções de Campina-PB e a Vara de Execuções de Aracaju-SE
+Nesse sentido, requer o conhecimento e provimento dospresentes Embargos de Declaração, atribuindo-se efeitos infringentes.
+É o relatório. Decido.
+Sem razão o embargante.
+Dispõe o Código de Processo Penal:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, os aclaratórios, para revisão do julgado no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS. 1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.  ..  3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado no acórdão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios. 4. Embargos declaratórios rejeitados. (EDcl no AgRg no AREsp 669.505/RN, de minha relatoria, QUINTA TURMA, DJe 25/08/2015.)
+In casu, a decisão embargada consignou, noessencial,que (e-STJ, fls. 155/159):
+O impetrante requer, em suma, o restabelecimento do regime semiaberto.
+O Tribunal, mantendo a decisão singular, assim fundamentou (e-STJ fls. 55/58):
+ ..
+Como se pode ver, o paciente, após ser agraciado com o regime semiaberto, foi condenado por outros crimes, em processos diversos.
+Além disso, o apenado encontra-se foragido.
+Colha-se os detalhes dos fatos na última decisão singular (e-STJ fls. 126/127):  ..
+De acordo com a decisão acima, após o restabelecimento do regime semiaberto ao apenado, em 2013, foi condenado na comarca de Itabaianinha e na Vara de execução de Campina Grande, onde atualmente cumpre pena, estando, no mais, foragido.
+Com efeito, a prática de novo crime, por si só, no decorrer da execução penal, quanto mais sobrevindo condenação, ainda que não tenha sido transitada em julgado, já constitui falta grave, tendo como efeito a regressão de regime.
+Assim reza a Lei de Execuções Penais:
+Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado: .. II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime (artigo 111).
+Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
+Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que, a teor do art. 118, I, da LEP, quando o reeducando comete fato definido como crime doloso pode ser reconhecida a falta grave e, em consequência, ser regredido de regime prisional, mesmo sem o trânsito em julgado da sentença penal condenatória.
+Confira-se:
+ ..
+Assim, não verifica-se a ilegalidade.
+Diante do exposto, não conheço do habeas corpus.
+A alegação defensiva de que o paciente teria sido absolvido em todos os processos oriundos do Estado de Sergipe não foi devidamente provada, porquanto as transcrições juntadas no corpo da inicial dos Embargos não estão em seu inteiro teor. Além disso, essa afirmação não condiz com os julgados das instâncias anteriores, que alegam a suacondenação na comarca de Itabaianinha-SE, conforme transcrição feita na decisão embargada.
+Cumpre observar, nesse aspecto, que as conclusões a que chegaram as instâncias de origem não podem ser mais desconstituídas, por ser incabível a discussão fático probatória na via do habeas corpus.
+Por esse mesmo motivo, não cabe esta Corte discutir se o paciente está foragido ou não, por mais que a defesa negue.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. FUGA. APURAÇÃO E INDIVIDUALIZAÇÃO DA CONDUTA POR MEIO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME.IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. PERDA DOS DIAS REMIDOS.FRAÇÃO MÁXIMA. DECISÃO FUNDAMENTADA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+1. Não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, que tentou empreender fuga do estabelecimento prisional, ao trocar de cela por conta própria e ajudar a serrar a grade de suporte da porta da cela, enquadrada no art. 50, II, da Lei de Execuções Penais.
+2. Maiores incursões, com o objetivo de afastar os fundamentos apontados pelo Tribunal de origem para o reconhecimento da infração ou absolvição do reeducando, demandariam o reexame de matéria fático-probatória, providência inviável na seara restrita do habeas corpus.
+3. Não se verifica ilegalidade na fixação da fração de 1/3 para a perda dos dias remidos, com a indicação de fundamentação concreta sobre a gravidade da conduta e a reprovabilidade da falta grave (fuga), observada a legislação vigente.
+4. Agravo regimental improvido.
+(AgRg no HC 593.104/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020)
+No mais, a menção do Juízo feita ao processo n. 0014256-43.2008.815.0011 diz sim respeito a uma dascondenações do embargante, e não ao deslocamento de competência.
+Para tanto, reproduzo, na íntegra, o trecho em que o Magistrado singular tratou do assunto (e-STJ, fl. 127):
+Outrossim, em junho do corrente ano aportou nesta Vara outra condenação em desfavor do apenado, prolatada nos autos da ação penal nº 0014256-43.2008.815.0011 que tramitou perante a Vara de Entorpecentes desta Comarca, no qual fora imposta a pena de 05 anos e 06 meses de reclusão, a ser cumprida em regime fechado, razão pela qual fora homologada a soma das penas e, considerando que o apenado não se encontra recolhido em nenhuma unidade prisional desta cidade, determinou-se a atualização do mandado de prisão, aguardando-se a captura do fugitivo.
+Por fim, quanto àpontuada omissão na decisão embargada do conflito de competência, cumpre observar que o Tribunal coator não dissertousobre a matéria, de modo que esta Corte não pode julgar diretamente, sob pena de indevida supressão de instância.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE. 1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício. 2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva. 3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido. 4. Habeas corpus do qual não se conhece. (HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
