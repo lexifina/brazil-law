@@ -12,5 +12,6 @@ X - induzir o incremento dos índices mínimos de conteúdo local de bens e serv
 XI - definir diretrizes para comercialização e uso de biodiesel e estabelecer, em caráter autorizativo, quantidade superior ao percentual de adição obrigatória fixado em lei específica.
 XII - estabelecer os parâmetros técnicos e econômicos das licitações de concessões de geração, transmissão e distribuição de energia elétrica, de que trata o art. 8º da Lei nº 12.783, de 11 de janeiro de 2013; e
 XIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica.
+XIV - estabelecer diretrizes para o suprimento de gás natural nas situações caracterizadas como de contingência, nos termos previstos em lei.
 § 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.
 § 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.
