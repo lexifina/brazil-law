@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de LUIZ HENRIQUE BUENO E SILVAapontandocomo autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelaçãon. 512037-82.2020.8.26.0228).
+Narra a defesa, na inicial do presente writ, que o paciente foi condenado, pela suposta prática dodelitode receptação(art. 180, caput, do Código Penal) e adulteração de sinal identificador de veículo automotor (art. 311, caput, do Código Penal), perfazendo um total de 4 (quatro) anos de reclusão, em regime semiaberto(e-STJ fls. 364/371). A sentença manteve a prisão do paciente, não permitindo o apelo em liberdade.
+Irresignada, a defesa interpôs apelação na Corte de origem.
+Neste writ, alegaa defesa que o"Juízo de piso aplicou as reprimendas nos patamares mínimos legais, asseverando que as circunstanciais judicias eram totalmente favoráveis ao paciente, pois, trata-se de réu primário, porém, fixou o regime inicial prisional no semiaberto, mantendo a sua prisão cautelar em caso de apelação" (e-STJ fl. 7).
+Sustenta que "o Tribunal de Justiça mantém o paciente preso cautelarmente, não obstante, inexistentes os requisitos autorizadores da sua prisão preventiva, configurando-se na Autoridade coatora responsável pelo constrangimento ilegal por ele suportado" (e-STJ fl. 9).
+Defende que é "claro o constrangimento ilegal suportado pelo paciente, pois a sua prisão cautelar é incompatível com o regime prisional inicial semiaberto, sobretudo, por tratar-se de réu primário, sendo que todas as circunstâncias judiciais lhesão favoráveis (artigo 59 do CP), inexistindo risco à ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal. Ou seja, a liberdade do paciente não gera qualquer risco ao processo" (e-STJ fl. 10).
+Aduz que o sentenciado faz jus ao regime aberto, por ser réu primário e possuir todas as circunstâncias judiciais favoráveis, conforme consta na sentença proferida pelo Juízo de piso, as quais são observadas no art.59 do CP, e que o Juízo sentenciante fixou o regime intermediário sem nenhuma fundamentação idônea.
+Invoca as Súmulas n. 440/STJ e 718 e 719/STF.
+Requer, inclusive liminarmente, que o paciente seja posto em liberdade, expedindo-se o competente alvará de soltura, uma vez inexistentes os requisitos autorizadores da segregação cautelar, tendo ele o direito de aguardar o julgamento da sua apelação em liberdade, bem como seja fixado o regime prisional inicial aberto para desconto da reprimenda aplicada, com a substituição da pena privativa de liberdade por restritivas de direitos.
+É, em síntese, o relatório.
+Verifico, ab initio, ser inviável o prosseguimento do writ.
+Ao que tudo indica, o recurso de apelação do paciente ainda não foi apreciado pelo Tribunal local, e o pedido de ele recorrer solto, bem como os pleitos de alteração do regime prisional e de substituição da pena privativa por restritiva de direitos ainda não foram examinados na origem,ficando obstada a análisepor esta Corte Superior, sob pena de indevida supressão de instância.
+Com efeito, o art. 105, I, "c", da Constituição da República dispõe que compete a este Tribunal Superior processar e julgar habeas corpus, quando o coator for tribunal sujeito à sua jurisdição.
+Contudo, não constam nos autos elementos que demonstrem a existência de decisão ou de acórdão do Tribunal de Justiça local apreciando a questão objeto deste writ.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos. 5. Embargos de declaração rejeitados. (EDcl no HC 230.583/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
