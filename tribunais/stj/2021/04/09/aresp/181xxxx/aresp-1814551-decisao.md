@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBANCO DO BRASIL SAcontra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: de obrigação de fazer ajuizada por MARIA DO CEU VELOSO MORO, SÉRGIO MORO, em desfavor do agravante e de ESSER HOLANDA EMPREENDIMENTO IMOBILIARIO - SPE LTDA, pleiteando o levantamento da hipoteca celebrada entre a instituição financeira e a construtora.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:não foi demonstrada a violação dos dispositivos arrolados (arts. 485, VI, e 537, § 1º, do CPC/15; arts. 303, 413, 421, 422, 884, 1.418, 1.419, 1.423, 1.474, 1.479, 1.499 e 1.500 do CC;art. 31-A, § 3º, da Lei 4.591/64; arts. 54 e 55 da Lei 13.097/15;ausência de similitude fática entre acórdãos confrontados para fins de demonstração de divergência jurisprudencial.
+ARESP de BANCO DO BRASIL SA: limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial,não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: não foi demonstrada a violação dos dispositivos arrolados (arts. 485, VI, e 537, § 1º, do CPC/15; arts. 303, 413, 421, 422, 884, 1.418, 1.419, 1.423, 1.474, 1.479, 1.499 e 1.500 do CC; art. 31-A, § 3º, da Lei 4.591/64; arts. 54 e 55 da Lei 13.097/15; ausência de similitude fática entre acórdãos confrontados para fins de demonstração de divergência jurisprudencial
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$5.000,00 (e-STJ fl. 329) para R$5.500,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
