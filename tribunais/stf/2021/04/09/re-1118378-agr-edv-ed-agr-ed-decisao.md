@@ -1,0 +1,17 @@
+DECISÃO:
+    Vistos.
+    Gilvan dos Santos Cardoso e outros requerem o destaque do julgamento dos embargos de declaração, com sua retirada do ambiente virtual, para “debate da matéria pelos Ministros dessa Corte de forma pormenorizada em sessão telepresencial”.
+    Verifica-se, inicialmente, que, embora haja previsão regimental para pedido de destaque, seu deferimento está condicionado ao exame do relator.
+    Conforme tenho reiteradamente afirmado, ao rejeitar pleitos desse tipo, o julgamento em ambiente virtual não prejudica a análise da matéria, uma vez que o voto do relator, bem como as demais peças processuais podem ser visualizadas por todos os Ministros, o que propicia uma ampla análise do processo.
+     Além do mais, nos termos do art. 2º, § 2º, da Resolução nº 642/19, deste STF, os relatórios e votos inseridos no ambiente virtual são disponibilizados no sítio eletrônico do STF, durante a sessão de julgamento virtual.
+    No caso ora em análise, não vislumbro qualquer especificidade que justifique o acolhimento do pedido, inviável, ainda, a possibilidade de sustentação oral, por se cuidar de julgamento de embargos de declaração (art. 131, § 2º, do RISTF).
+    Não há nenhuma dificuldade de contato com os gabinetes dos Ministros deste STF, mesmo em face da pandemia que ora vivenciamos, pois todos disponibilizaram múltiplos canais de acesso aos interessados, devendo ser mencionado que milhares de processos já foram julgados, desde a eclosão dessa situação, sem maiores intercorrências.
+    Bem por isso, pedidos semelhantes ao presente têm sido sistematicamente indeferidos, citando-se, apenas para exemplificar, as ementas dos seguintes precedentes, de ambas as Turmas desta Corte
+    EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. OMISSÃO QUANTO AO PEDIDO DE DESTAQUE PARA SE OPORTUNIZAR A REALIZAÇÃO DE SUSTENTAÇÃO ORAL. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES, APENAS PARA O FIM DE SANAR A OMISSÃO. 1. A apreciação da matéria no ambiente virtual não restringe ou desqualifica o debate, tendo os demais integrantes da CORTE amplo acesso a todos os elementos influentes para o julgamento do caso. 2. O § 2º do art. 131 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL prevê, expressamente, a impossibilidade da realização de sustentação oral no âmbito de algumas classes processuais, dentre elas o agravo. 3. Embargos de Declaração acolhidos, sem efeitos infringentes, apenas para o fim de sanar a omissão, mantendo-se o julgamento do Agravo Regimental realizado pela Primeira Turma desta CORTE (ARE nº 1.267.627-AgR-ED/MG, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 31/8/20).
+    Segundo agravo regimental no recurso ordinário em mandado de segurança. 2. Pedido de destaque. Apenas produz efeitos após deferimento pelo relator. Atendimento não é obrigatório. Discricionariedade. Artigo 4º, inciso II, da Resolução STF 642/2019. 3. Pedido de sustentação oral no agravo interno. Admissível contra decisão do relator que extingue ação rescisória, mandado de segurança ou reclamação. Art. 131, § 2º, do RISTF c/c art. 937, § 3º, do CPC. Incabível no caso dos autos. Precedente. 4. Negado provimento ao agravo regimental (RMS nº 34.404-AgR-segundo/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 9/10/19).
+    Ante o exposto, indefiro o pedido de destaque.
+    Publique-se.
+    Brasília, 9 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
