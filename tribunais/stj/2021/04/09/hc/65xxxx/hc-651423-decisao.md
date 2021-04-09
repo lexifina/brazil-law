@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de GILSON HEGNER contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da apelação criminal n. 70052551629.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 3 (três) anos e 9 (nove) meses de reclusão e 10 (dez) meses de detenção, ambas a serem resgatadas no regime inicial semiaberto, mais o pagamento de 20 (vinte) dias-multa, como incurso nas iras do art. 16, parágrafo único, IV, da Lei n. 10.826/2003; e art. 329, caput, do Código Penal (fls. 24-36).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso, a fim de redimensionar a pena de reclusão em 3 (três) anos e 6 (seis) meses e a de detenção em 5 (cinco) meses de detenção, ambas em regime inicial semiaberto, mais o pagamento de 20 (vinte) dias-multa, consoante voto condutor do v. acórdão de fls. 10-23.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois "as consequências do crime não podem ser postas como negativas, porque não houve prejuízo à saúde pública, em face de a droga ter sido apreendida antes de ter chegado à sociedade" (fl. 4).
+Sustenta que "os antecedentes criminais não poderia ser objeto de análise no que concerte ao art. 59 do CP, fato esse que pode haver uma duplicidade em duas circunstâncias distintas, pois nesse sentido era para ser analisado o seu comportamento social, familiar, no trabalho e em suma na sua vida profissional" (fl. 5).
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 43-46.
+O Ministério Público Federal, às fls. 53-55, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DEREVISÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E RESISTÊNCIA. MAJORAÇÃO DA PENA-BASE. ILEGALIDADE NÃO EVIDENCIADA. CIRCUNSTÂNCIAS DOS CRIMES QUE EXTRAPOLAM OS TIPOS PENAIS. RÉU QUE EM FUGA, CONDUZINDO VEÍCULO EM ALTA VELOCIDADE, NA CONTRAMÃO, DISPARA DOIS TIROS CONTRA A GUARNIÇÃO APÓS COLIDIR EM UMA ÁRVORE. PARECER PELO NÃO CONHECIMENTO DA ORDEM" (fl. 53).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a diminuição da pena-base.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Crime de porte ilegal de arma de fogo de uso restrito:
+A basilar foi fixada em 03 (três) anos e 06 (seis) meses de reclusão, eis que, quando da análise das operadoras do artigo 59 do Código Penal, foram avaliadas negativamente a culpabilidade do agente e as circunstâncias do crime. Entretanto, tenho que a culpabilidade é pressuposto para a aplicação da pena, não tendo, in casu, extrapolado o limite ordinário, de sorte que reduzo a pena-base em 03 (meses), restando essa em 03 (três) anos e 03 (meses) de reclusão.
+Registro que se mantém a exasperação em razão das circunstâncias do crime, porquanto a arma estava municiada com oito cartuchos intactos e em perfeitas condições de funcionamento, denotando maior periculosidade e poder de ofensa ao bem jurídico penalmente tutelado.
+ ..
+Crime de resistência:
+A pena-base foi arbitrada em 09 (nove) meses de detenção, porquanto valorados em desfavor ao condenado dois dos vetores do artigo 59 do Estatuto Repressivo, a saber, a culpabilidade do agente e as circunstâncias do crime.
+Aqui, pelos mesmos motivos acima expostos, tenho que não há que ser engrandecida a basilar em razão da culpabilidade. Quanto às circunstâncias, porém, malgrado o tipo penal preveja a oposição mediante violência, fundamento utilizado pelo juiz sentenciante para exasperar a reprimenda inicial, a valoração negativa subsiste porque o acusado fugiu conduzindo um veículo em alta velocidade e na contramão, de forma que causou perigo também a civis. Portanto fixo a pena-base em 04 (quatro) meses de detenção" (fls. 19-21).
+As circunstâncias dos crimes foram consideradas negativas.
+Em relação ao delito de porte ilegal de arma de fogo, a Corte de origem asseverou que a arma se encontrava municiada com 8 (oito) cartuchos intactos.
+Com efeito, "no crime de porte ilegal de arma de fogo, o fato de a arma apreendida estar municiada não constitui condição necessária para a configuração do tipo penal descrito no art. 16 da Lei 10.826/2003, e não evidencia maior grau de censura da ação, o que impede o aumento da pena-base" AgRg no AREsp n. 896.648/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 01/03/2019). Nessa linha: AgRg no HC n. 547.030/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 14/02/2020; e HC n. 393.062/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 05/05/2017.
+Portanto, nesse ponto, merece reparo a dosimetria realizada pelas instâncias ordinárias.
+Quanto ao delido de resistência, o Tribunal local fundamentou o desvalor no fato de "o acusado fugiu conduzindo um veículo em alta velocidade e na contramão, de forma que causou perigo também a civis".
+Desta feita, há fundamento apto a justificar a negativação desse vetor, consoante precedentes deste Tribunal Superior: (AgRg no HC n. 624.919/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 02/03/2021; AgRg no AREsp n. 1477101/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 25/06/2019; AgRg no AREsp n. 1168198/RN, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 19/02/2018; e HC n. 389.795/SC, Quinta Turma, de minha relatoria, DJe 24/10/2017.
+Nesse contexto, mantenho os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena.
+DO CRIME PREVISTO NO ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003.
+Estabeleço a pena-base no mínimo legal - 3 (três) anos de reclusão. Majoro a reprimenda em 3 (três) meses, haja vista a agravante da reincidência, de modo a elevar a sanção para 3 (três) anos e 3 (três) meses de reclusão. À míngua de causas de aumento ou de diminuição de pena, torno a sanção definitiva.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena privativa de liberdade prevista para o delito descrito no art. art. 16, parágrafo único, IV, da Lei n. 10.826/2003 em 3 (três) anos e 3 (três) meses de reclusão, mantidos os demais termos da condenação.
+P. e I.
