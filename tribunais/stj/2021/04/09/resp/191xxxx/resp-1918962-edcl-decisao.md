@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por ANTÔNIO PEREIRA DE OLIVEIRA FILHOcontra decisão por meio da qual foi provido o recurso especial do INSS.
+A parte embargante, nas razões recursais, aponta, em síntese, que a decisão seria omissa porquanto não teria se manifestado sobre a aplicação do art. 5º, XXXVI, da CF que trata sobre odireito adquirido; bem como sobre a possibilidade decumulação dos benefícios, tendo em vista que o benefício de auxílio-acidente fora implantado anteriormente e, portanto, revestido, com caráter vitalício, de acordo com a legislação vigente à época da concessão.
+Aduz, ainda, que "as decisões unânimes da Corte Superior de Justiça são explicativas e se enquadram na situação fática do caso concreto, concluindo pela impossibilidade de devolução dos valores recebidos pelo Segurado, uma vez que o pagamento a maior decorreu de erro exclusivo da autarquia e seu recebimento ocorreu de Boa-Fé pelo Segurado"(e-STJ, fl. 249).
+Sem impugnação.
+É o relatório.
+Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+Com efeito, ao contrário do que pretende fazer crer o interessado, não se verifica, no julgado questionado, nenhuma contradição ou omissão.
+Como tratado anteriormente,ficou  consignado  que,  não havendo o segurado implementado, em data anterior à alteração legal, o direito à aposentadoria, não tinha direito à cumulação em questão, não se havendo de falar em contrariedade ao direito adquirido, ao ato jurídico perfeito ou ao princípio do tempus regit actum.
+Também ficou expresso, na decisão embargada, queseria inviável a apreciação de violação de dispositivo constitucional, ainda que a título de prequestionamento, uma vez que não cabe a esta Corte, emrecurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Carta Magna.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção do insurgente não é sanar omissão, contradição ou obscuridade no acórdão impugnado, esimrediscutir o que decidido, buscando efeitos infringentes em situação na qual não são cabíveis os declaratórios.
+Por fim,registre-se que, quanto ao pedido denão devolução dos valores ao INSS, não há nas razões do recurso especial da autarquia federal qualquer pedido de repetição. Ademaisseria prematura a análise do tema, porquanto a questão jurídica quetrata do cabimento ou não da devolução de valores recebidos de boa-fé, atítulo de benefício, por força de interpretação errônea, má aplicação dalei ou erro da Previdência Social constitui objeto do REsp 1.381.734/RN,da relatoria do Min. Benedito Gonçalves, submetido ao rito dos recursosrepetitivos, cujo processamento se encontra pendente na Primeira Seção(Tema 979).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
