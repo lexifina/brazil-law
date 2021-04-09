@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABIANO DE MELLO SALES contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5061109-22.2020.8.21.7000).
+Consta dos autos que o paciente encontra-se preso preventivamentepela prática, em tese, do crime de tráfico de drogas, pois, " no local em que se encontrava o ora paciente, resultaram apreendidos 16 buchas de cocaína, totalizando 14,9g (quatorze gramas e nove decigramas) da substância, 2 caixas de som, 1 amplificador, 1 coldre preto, 4 cartuchos de munição calibre .38,3 celulares, 4 relógios de pulso, 2 máquinas de cartão de crédito, 2 cadernetas com anotações diversas, 3 facas com lâminas longas (18, 20 e 21cm), 1 faca artesanal com 23 cm de lâmina, 2 adagas com lâminas longas (30 e 43,5cm) e R$ 1.818,06 em notas e moedas variadas" -e-STJ fl. 97.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 96/105).
+No presente writ, sustenta a defesa que não estão presentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal.
+Ressalta que "o decreto prisional encontra-se ilegal, posto que já se passou 5 dias do vencimento da última decisão que manteve a preventiva em 27 de novembro de 2020, ou seja, já ultrapassado os 90 dias da revisão obrigatória de ofício. O paciente, ainda, esta preso de forma preventiva e não teve sua prisão revisada pela MM. Juíza que tem o dever legal para tal. Conforme determina o art. 316, § único do Código de Processo Penal" - e-STJ fl. 5.
+Assim, requer, liminarmentee no mérito, a revogação daprisão preventivamediante a aplicação ou não de medidas cautelares diversas.
+A liminar foi deferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Éo relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva(e-STJ fls. 81/82):
+Outrossim, as circunstâncias do flagrante conferem elementos suficientes para conversão da prisão em preventiva.
+Observa-se que o flagrado Gilmar estava vendendo drogas para Gibran, sendo perseguido e abordado dentro de sua residência. Além da droga apreendida com o usuário Gibran (01 bucha de cocaína), foi localizado com Gilmar 05 buchas de cocaína e dinheiro. Na residência também estava o flagrado Fabiano, sendo apreendido no local mais drogas (cocaína) e dinheiro, além de outros objetos possivelmente relacionados ao tráfico.
+Consta ainda que as drogas estavam embaladas para o comércio e o dinheiro era em notas de pequeno valor.
+Com efeito, resta evidenciada a intenção ilícita de comércio de entorpecente, já que as circunstâncias são incompatíveis com a posse para consumo pessoal. Ademais, os outros objetos apreendidos  adagas, relógios, aparelhos de som, munições- que indicam com alguma segurança a mercancia.
+Registro que o delito de tráfico gera inúmeras consequências, e no caso, a conduta dos flagrados revela-se de gravidade suficiente para ensejar a sua segregação, pois fomenta uma criminalidade paralela que vão dos crimes contra o patrimônio a crimes contra a vida.
+Outrossim, as circunstâncias pessoais do flagrado Gilmar são desfavoráveis à soltura, pois registra 04 condenações além de envolvimentos em outros delitos, conforme consta na certidão de antecedentes. De outra banda, o fato de Fabiano ser tecnicamenteprimário não é suficiente para garantirsua liberdade.
+ ..
+Destaca-se ainda, que muito embora para padrões de grandes centros a quantidade de droga não seja tão expressiva, não pode ser desprezada e não pode ser medida para a liberdade dos flagrados, sob pena de se chancelar a manutenção de uma atividade ilícita.
+ ..
+Isto posto, pelos motivos acima expostos, e com base no disposto nos artigos 312 e 313 do CI"P, acolho o postulado pelo Ministério Público, e converto a prisão em flagrante de GILMAR GERONIMO BERNARDO SEVERO e de FABIANO DE MELLO SALES em PRISÃO PREVENTIVA.
+Conforme adiantado no exame liminar, não vislumbro a existência de elementos concretos a justificar a medida mais gravosa. Com efeito, a quantidade de entorpecente apreendido -"16 buchas de cocaína, totalizando 14,9g (quatorze gramas e nove decigramas)" (e-STJ fl. 76), dissociada de qualquer outra circunstância concreta e aliada à primariedade do paciente, não revela a gravidade da ação ou a sua disposiçãoem reiterar na prática de condutas delitivas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA.CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO MINISTERIAL DESPROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na espécie, ao converter a prisão em flagrante em preventiva, deteve-se o Juízo de piso a fazer ilações acerca da gravidade abstrata do crime de tráfico, a mencionar a prova de materialidade e os indícios de autoria e a invocar a quantidade da droga apreendida, a qual, na hipótese dos autos, não justifica, por si só, a segregação antecipada.
+3. Excepcionalmente, em razão da atual pandemia de Covid-19, esta Casa vem olhando com menor rigor para casos como o presente, flexibilizando, pontualmente, a jurisprudência do Superior Tribunal de Justiça na hipótese de crimes praticados sem violência ou grave ameaça e/ou que não revelem, ao menos num primeiro momento, uma maior gravidade e uma periculosidade acentuada do agente, como é o caso dos autos.
+4. Agravo regimental desprovido.(AgRg no HC 618.370/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 09/02/2021)
+Ante o exposto,ratifico a liminar e concedo a ordempara determinar a soltura dopaciente, se por outro motivo não estiver preso, sem prejuízo de que seja decretada nova custódia, com base em fundamentação concreta, bem como de que sejam impostas as medidas cautelares constantes do art. 319 do Código de Processo Penal pelo Juízo local, caso demonstrada sua necessidade.
+Publique-se. Intimem-se.
