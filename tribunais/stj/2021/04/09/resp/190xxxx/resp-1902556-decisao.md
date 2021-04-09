@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO RIO GRANDE DO SUL, com fulcro no permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 520):
+TRIBUTÁRIO.CONSELHO REGIONAL DE FARMÁCIA. RECURSO ADMINISTRATIVO. PRAZO. CERCEAMENTO DE DEFESA.
+O prazo para a interposição de recurso em processo administrativo instaurado para a aplicação de penalidade imposta pelos Conselhos Regionais de Farmácia, ainda que não se trate de infração disciplinar, é de 30 dias, com base no art. 30, § 2º, da Lei nº 3.820/60.
+Nas suas razões, a parte recorrente aponta violação do art. 30, § 2º, da Lei n. 3.820/1960, sustentando que o prazo de defesa previsto no referido dispositivo legal se aplica exclusivamente às infrações disciplinares, situação diversa do caso em análise, que diz respeito auma infração administrativa e, por isso, deve-se aplicar o disposto no art. 24 da Lei n. 3.820/1960.
+Sem contrarrazões (e-STJ fls. 562).
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fl. 563).
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, verifico que a irresignação recursal não merece prosperar.
+Quanto ao prazo para a interposição de recurso administrativo, no caso concreto, a instância anterior dirimiu a questão nos termos da seguinte motivação (e-STJ fls. 524/525):
+A Autarquia federal aplicou ao caso, em ambos os processos administrativos - relativos aos Autos de Infração 36.047 e 36.672 -, o art. 15 da Resolução nº 566/12 do CFF, que prevê o prazo de 15 (quinze) dias para pagar a multa estipulada em processo de fiscalização ou para, no mesmo prazo, recorrer ao Conselho Federal (E10, NOT7 e NOT9). De outra parte, nos autos de infração concedeu 5 (cinco) dias úteis para a parte excipiente apresentar defesa escrita (E10, AUTO2 e AUTO3).
+A Lei nº 9.784/99, que disciplina os processos administrativos em geral no âmbito da Administração Pública Federal, estabelece prazo inclusive inferior àquele adotado pelo Conselho, de apenas 10 (dez) dias para a prática de referido ato (Art. 59, caput: Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida).
+A Lei nº 3.820/60 (art. 30, §2º), que traz normas aplicáveis no âmbito do Conselho Federal e dos Conselhos Regionais de Farmácia, por sua vez, assim dispõe:
+ ..
+Há um argumento bastante comum contrário à aplicação de referido dispositivo a casos como o presente. Defende-se que a norma, em seu caput, cuida apenas de infrações disciplinares, situando-se dentro do campo ético, o que, via de consequência, levaria obrigatoriamente à conclusão de que é aplicada apenas aos profissionais farmacêuticos (pessoas físicas), ao passo que as multas direcionadas às empresas (caso dos autos) estariam previstas no art. 24 do mesmo diploma legal, que não dispõe de prazo específico, circunstância que legitimaria a aplicação do prazo adotado pelo Conselho.
+No entanto, a tese não merece acolhida.
+Com efeito, não se mostra razoável interpretar restritivamente o §2º do art.30 da Lei nº 3.820/60, de modo a alcançar apenas as punições disciplinares de que dispõe o caput.
+Por analogia e por isonomia, deve ser aplicado a toda e qualquer punição imposta pelo Conselho a todas as pessoas física e jurídicas sujeitas ao âmbito de fiscalização da Autarquia.
+Trata-se de norma especial que, portanto, prevalece sobre a Lei que disciplina regras aplicáveis a processos administrativos em geral. (Grifos acrescidos).
+Com efeito, para a análise da pretensão da agravante, é necessário interpretar a Resolução n. 566/2012 do Conselho Federal de Farmácia, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATIVIDADES DE ENFERMAGEM.SAMU. SERVIÇOS MÉDICOS DE URGÊNCIA E EMERGÊNCIA.AMBULÂNCIAS. RESOLUÇÃO 375/2011 DO COFEN. PORTARIAS 2048/2002 E 1010/2012 DO MINISTÉRIO DA SAÚDE. ATOS NORMATIVOS QUE NÃO SE INSEREM NO CONCEITO DE LEI FEDERAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Nos termos da jurisprudência pacífica do STJ, é inviável, em Recurso Especial, a revisão de acórdão fundamentado em resolução, portaria ou instrução normativa. Isso porque, nos termos do art. 105, inciso III, alínea "a", da Constituição Federal, essas normas não se enquadram no conceito de lei federal, não podendo, portanto, ser objeto do recurso autorizado por esse permissivo constitucional.
+2. A alegação de ofensa ao art. 11 da Lei 7.498/1986 é meramente reflexa, sendo imprescindível a análise da Resolução 375/2011 do Conselho Federal de Enfermagem e das Portarias 2048/2002 e 1010/2012 do Ministério da Saúde.
+3. Recurso Especial não conhecido. (REsp 1.616.010/SC, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 21/02/2017, DJe 18/04/2017).
+Confira-se, ainda: REsp 1.874.881/Rs, Relatora Ministra ASSUSETE MAGALHÃES, DJe 01/06/2020; e AREsp 1.573.727/RS, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 09/03/2020.
+Outrossim, observo que o Tribunal a quo amparou-se também em fundamentação constitucional (princípio da isonomia) e que orecorrente não interpôs o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo este manifestamente inadmissível, nos termos da Súmula 126 do STJ.
+Acerca da hipótese, confiram-se: AgRg no REsp 1.524.755/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 11/12/2015; AgRg no AREsp 662.284/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2015; AgRg no AREsp 287.659/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 15/08/2014.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
