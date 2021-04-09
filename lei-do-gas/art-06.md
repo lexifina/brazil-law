@@ -1,0 +1,1 @@
+Art. 6º O transportador deverá permitir a interconexão de outras instalações de transporte de gás natural, nos termos da regulação estabelecida pela ANP, respeitados os direitos dos carregadores existentes.

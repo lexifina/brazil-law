@@ -1,0 +1,2 @@
+Art. 27. Empresa ou consórcio de empresas constituídos sob as leis brasileiras, com sede e administração no País, poderão receber autorização da ANP para construir e operar unidades de liquefação e regaseificação de gás natural, bem como gasodutos de transferência e de escoamento da produção.
+Parágrafo único. A regulação deverá disciplinar a habilitação dos interessados e as condições para a outorga da autorização, bem como para a transferência de sua titularidade, respeitados os requisitos de proteção ambiental e segurança das instalações.

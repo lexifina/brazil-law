@@ -1,0 +1,1 @@
+Art. 35. Os contratos de comercialização e de serviço de transporte de gás natural deverão prever cláusula de observância compulsória do plano de contingência, incluída a possibilidade de suspensão de obrigações e penalidades em situações caracterizadas como de contingência.

@@ -1,0 +1,4 @@
+Art. 4º A atividade de transporte de gás natural será exercida em regime de autorização, abrangidas a construção, a ampliação, a operação e a manutenção das instalações.
+§ 1º A ANP regulará a habilitação dos interessados em exercer a atividade de transporte de gás natural e as condições para a autorização e a transferência de titularidade, observados os requisitos técnicos, econômicos, de proteção ambiental e segurança.
+§ 2º A outorga de autorização de atividade de transporte que contemple a construção ou ampliação de gasodutos será precedida de chamada pública, nos termos da regulamentação da ANP.
+§ 3º Dependem de prévia autorização da ANP a cisão, a fusão, a transformação, a incorporação, a redução de capital da empresa autorizatária ou a transferência de seu controle societário, sem prejuízo do disposto na Lei nº 12.529, de 30 de novembro de 2011.
