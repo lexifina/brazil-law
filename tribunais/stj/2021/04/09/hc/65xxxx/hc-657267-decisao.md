@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de SIDNEI DE SOUZA LIMA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos atos que o paciente foi condenado à pena de 10 anos e 2 meses de reclusão, em regime fechado, mais pagamento de 763 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 e 304 c.c o 297 do Código Penal.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a sanção para 8 anos e 8 meses de reclusão e pagamento 676 dias-multa, mantido o modo prisional mais gravoso.
+Neste habeas corpus, alega o impetrante ser inidônea a exasperação das penas-bases com amparo em ações definitivas alcançadas pelo período depurador, previsto no art. 64, I, do Código Penal, a título de maus antecedentes.
+Aduz ser cabível o redutor do tráfico privilegiado e do modo prisional mais brando, pelo afastamento dos maus antecedentes do acusado, sobretudo por inexistir comprovação da habitualidade delitiva, do envolvimento com grupo criminoso e não ser expressiva a quantidade do entorpecente apreendida.
+Requer, assim, a readequação da sanção inicial, a incidência da redutora do art. 33, § 4º, da Lei de Drogas, a fixação do regime aberto e a substituição por restritivas de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao dar parcial provimento ao apelo defensivo, redimensionou a sanção imposta com base nos seguintes fundamentos:
+"Em relação à reprimenda, comporta pequeno reparo.
+Inicialmente de se ponderar que o réu possui maus antecedentes, conforme as certidões a fls. 207 e 239.
+Quanto ao processo descrito a fls. 234, não conta com sentença condenatória ou trânsito em julgado, daí porque não será considerado.
+Assim, os maus antecedentes levam à exasperação da pena base do crime de uso de documento falso em 1/6, fixada inicialmente em 2 anos e 4 meses de reclusão e o pagamento de 11 dias multa.
+Quanto ao tráfico, somam-se aos maus antecedentes a maior culpabilidade da conduta em razão da premeditação da prática criminosa, com toda a preparação do veículo com três fundos falsos a possibilitar o transporte de enorme quantidade de droga. Logo, a pena base é aplicada 1/3 acima do mínimo, em 6 anos e 8 meses de reclusão e o pagamento de 666 dias multa.
+Na fase seguinte se faz presente a atenuante da confissão em relação ao crime de uso de documento falso, motivo pelo qual a reprimenda retorna ao mínimo de 2 anos de reclusão e o pagamento de 10 dias multa, no menor patamar legal, pena que torna-se definitiva por ausência de outras causas de modificação.
+Em relação ao tráfico, não há atenuantes ou agravantes.
+Por fim, incabível o redutor do § 4º do artigo 33 da Lei de Drogas, presentes provas nos autos de que o réu se dedicava as atividades criminosas e integrava organização criminosa.
+Nesse sentido destaca-se que o réu está sendo processado por outros crimes (denunciado por tráfico, associação para o tráfico, porte de arma, receptação e formação de quadrilha no processo nº 0001018-55.2017.8.26.0618 - fls. 150/163 e 234) e, em razão dessas imputações, tinha em seu desfavor mandado de prisão a cumprir.
+A estes fatos somam-se à forma como se deu o crime em tela, em que o réu admitiu aos policiais que era responsável por realizar o transporte de drogas, o que, somado à informação dada por um dos policiais de que o réu integra organização criminosa, bem como ao fato de que não comprovou possuir emprego lícito, evidenciam que o réu fazia do crime o seu meio de vida. Ainda, pela organização e divisão de tarefas em que incorreu neste crime, é certo que integra organização criminosa.
+Presente o concurso material de crimes, as penas somam-se totalizando 8 anos e 8 meses de reclusão e o pagamento de 676 dias multa, na fração unitária mínima" (e-STJ, fls. 522-523)
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Na hipótese, observa-se que a Corte de origem sopesou validamente os maus antecedentes do paciente e a culpabilidade da conduta (veículo preparado para transportar entorpecentes de forma velada), para exasperar a pena do delito de tráfico em 1/3 acima do mínimo legal, e apenas os antecedentes para elevar a sanção inicial do delito de uso de documento falso em 1/6.
+Em relação à validade das condenações definitivas consideradas como maus antecedentes, vale lembrar que o Superior Tribunal de Justiça tem entendimento de que o tempo transcorrido após o cumprimento ou a extinção da pena não impede a análise desfavorável de tais circunstâncias, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade, ao contrário do que se verifica na reincidência (CP, art. 64, I), pois o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal.
+A propósito:
+" ..
+DOSIMETRIA. ANTECEDENTES. DECURSO DE MAIS DE CINCO ANOS ENTRE O TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR E O NOVO CRIME. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. ACÓRDÃO RECORRIDO ALINHADO À JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO DISPOSTO NA SÚMULA N. 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A existência de condenação anterior transitada em julgado autoriza a valoração negativa dos antecedentes do agente, ainda que ultrapassado o período de 5 (cinco) anos previsto no inciso I do artigo 64 do Código Penal.
+2. Encontrando-se o aresto combatido em consonância com a jurisprudência firmada nesta Corte, a pretensão defensiva esbarra no óbice previsto na Súmula nº 83/STJ, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1.068.053/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/8/2017, DJe 23/8/2017);
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DA INICIAL. NULIDADE DO PROCESSO. OFENSA AO PRINCÍPIO DA INVIOLABILIDADE DE DOMICÍLIO. INEVIDÊNCIA. DOSIMETRIA. PENA-BASE. CONDENAÇÃO COM MAIS DE 5 ANOS DE TRÂNSITO EM JULGADO. CARACTERIZAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. AFASTAMENTO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA. ADMISSIBILIDADE. AUSÊNCIA DE UM DOS REQUISITOS PREVISTOS NA LEI N. 11.343/2006. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.
+1. É pacífico nesta Corte Superior o entendimento de que, tratando-se de flagrante por crime permanente, no caso, por tráfico de drogas, desnecessário tanto o mandado de busca e apreensão quanto a autorização para que a autoridade policial possa adentrar no domicílio do paciente, conforme previsto no 5º, XI, da CF.
+2. Não há qualquer ilegalidade na valoração desfavorável dos antecedentes do paciente com base em processo cuja condenação definitiva por prazo superior a cinco anos. A teor da jurisprudência desta Corte, condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de cinco anos previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes.
+ ..
+5. Agravo regimental improvido."
+(AgRg no HC 358.539/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 8/8/2017, DJe 16/8/2017).
+No que se refere à incidência do redutor pelo tráfico privilegiado, consigno que, nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+In casu, tratando-se de réu que ostenta maus antecedentes, é incabível a a plicação do redutor por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na primeira e terceira fase da dosimetria não enseja bis in idem.
+Cito, a propósito, os seguintes julgados:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. ELEMENTOS CONCRETOS DOS AUTOS. NATUREZA E DIVERSIDADE DAS DROGAS. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+1. Inaplicável a causa especial de diminuição prevista no § 4.º do art. 33 da Lei n.º 11.343/06, tendo em vista que o paciente não preenche os requisitos legais, porquanto ostenta maus antecedentes.
+ ..
+4. Ordem denegada."
+(HC 389.891/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/4/2017, DJe 20/4/2017);
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. UTILIZAÇÃO DOS MAUS ANTECEDENTES PARA MAJORAR A PENA-BASE E PARA VEDAR O RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. BIS IN IDEM. INOCORRÊNCIA. REGIME PRISIONAL FECHADO FIXADO COM BASE NA QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ao contrário do afirmado pelo agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de que a droga apreendida se destinava ao consumo próprio, e não ao tráfico, demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o empecilho da Súmula 7/STJ.
+2. Esta Corte já se manifestou no sentido de permitir a utilização dos maus antecedentes para majorar a pena-base na primeira fase da dosimetria e também para vedar o reconhecimento do tráfico privilegiado, não havendo se falar em bis in idem. Precedentes
+ ..
+4. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+5. Agravo regimental desprovido."
+(AgRg no AREsp 942.291/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/9/2017, DJe 27/9/2017).
+Mantido o quantum da pena reclusiva em patamar superior a 8 anos de reclusão, é incabível a alteração do regime prisional para o aberto ou o semiaberto e a substituição da pena privativa de liberdade por restritivas de direitos, a teor dos arts. 33, § 2º, "a", e 44, I, ambos do CP.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
