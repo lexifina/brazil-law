@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO DESPROVIDO.
+1.A aplicação analógica da Súmula n. 182 do STJ deve ser mantida quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Agravo regimentaldesprovido.
+RELATÓRIO
+HELIO LUCAS CONCEIÇÃO VIDAL e ICARO DA SILVA PEREIRAinterpõem agravo regimental contra a decisão de fls. 964-965, que não conheceu do agravo em recurso especial com base na Súmula n. 182 do STJ.
+Aduzemque referido óbice sumular deve ser superado, tendo em vista que procederam à devida impugnação específica do fundamento adotado para a inadmissão do recurso especial na origem, a saber, a incidência da Súmula n. 83 do STJ. Afirmam que mencionaram a jurisprudência contemporânea do STJsobre o tema (inviolabilidade domiciliar).
+Requerem o conhecimento do presente recursopara reforma dadecisão monocrática ou, caso seja mantida, a submissão do feito a julgamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO DESPROVIDO.
+1.A aplicação analógica da Súmula n. 182 do STJ deve ser mantida quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Agravo regimentaldesprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Conforme exposto na decisão de fls. 964-965, os ora agravantes, nas razões do agravo em recurso especial, não impugnaramadequadamente ofundamentoda decisão agravada, ou seja, a incidência da Súmula n. 83 do STJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020; e AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019), o que não ocorreu na espécie.
+Ressalte-se que nenhuma das alegações apresentadas no agravo em recurso especial constitui impugnação específica da aplicação da Súmula n. 83, pois, segundo o entendimento do Superior Tribunal de Justiça, exige-se a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do STJ ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula. Nesse sentido: AgRg no AREsp n. 1.433.473/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 5/6/2019; e AgInt no AREsp n. 827.751/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/5/2019.
+É de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ainda que assim não fosse, verifica-se que, em relação à alegada violação ilegal de domicílio por ausência de mandado, o Tribunal de origem ressaltou (fl. 725):
+Observo, contudo, a inexistência de nulidade processual referente a ausência de mandado de busca e apreensão domiciliar, tendo em vista que os acusados estavam sob investigação diante das denúncias de que faziam parte de uma facção criminosa da Bahia e que estariam comum a base no Mosqueiro para atuar no tráfico ilícito de entorpecentes, sendo que após diligência na casa apontada como ponto de tráfico, foram encontradas as drogas, relógios, dinheiro e cinco aparelhos celulares.
+Há de se vê que as informações apontavam para existência de uma casa com carros roubados e suspeita de tráfico, levando os policiais, após diligências, a encontrar as drogas e bens apreendidos.
+Assim, sendo o tráfico de drogas um crime permanente, prescinde a busca de autorização judicial, em razão da situação flagrancial configurada nos autos.
+Assim,o argumento apresentado nainicial mostra-se totalmente equivocado, visto tratar-se de situação deflagrante de crime de tráfico de drogas, considerado crime permanente, para o qual o momento de consumação está sempre em execução, o que permite à autoridade policial, havendo fundada razão, conforme se verifica no caso em apreço, adentrar a residência do agente a qualquer ora do dia ou da noite, sem a necessidade de autorização do morador ou de ordem judicial, porquanto a segurança e o sossego do domicílio não podem ser usados como escudo para a prática de crimes. Os direitos fundamentais existem para que se resguardem valores lícitos, e não criminosos, sob pena de haver desvirtuamento da ordem constitucional e legal.
+O entendimento adotado pelo Tribunal de origem, portanto, está em consonância com a jurisprudência do STJ de que o ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo (AgRg no AREsp n. 1.573.424/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020; HC n. 306.560/PR, relator Ministro Felix Fischer, Quinta Turma, DJe de 1º/9/2015; AgRg no AgRg no REsp n. 1.726.758/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/12/2019; e EDcl no AREsp n. 1.410.089/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 28/6/2019). Seria cabível,portanto, a Súmula n. 83 do STJ.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
