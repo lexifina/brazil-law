@@ -1,0 +1,1 @@
+Art. 281-A. Na notificação de autuação e no auto de infração, quando valer como notificação de autuação, deverá constar o prazo para apresentação de defesa prévia, que não será inferior a 30 (trinta) dias, contado da data de expedição da notificação.
