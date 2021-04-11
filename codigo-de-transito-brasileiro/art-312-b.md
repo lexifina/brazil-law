@@ -1,0 +1,1 @@
+Art. 312-B. Aos crimes previstos no § 3º do art. 302 e no § 2º do art. 303 deste Código não se aplica o disposto no inciso I do caput do art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).

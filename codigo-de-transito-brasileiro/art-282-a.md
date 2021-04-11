@@ -1,4 +1,4 @@
-Art. 282-A. O proprietário do veículo ou o condutor autuado poderá optar por ser notificado por meio eletrônico se o órgão do Sistema Nacional de Trânsito responsável pela autuação oferecer essa opção.
-§ 1º O proprietário ou o condutor autuado que optar pela notificação por meio eletrônico deverá manter seu cadastro atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal.
-§ 2º Na hipótese de notificação por meio eletrônico, o proprietário ou o condutor autuado será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico.
+Art. 282-A. O órgão do Sistema Nacional de Trânsito responsável pela autuação deverá oferecer ao proprietário do veículo ou ao condutor autuado a opção de notificação por meio eletrônico, na forma definida pelo Contran.
+§ 1º O proprietário e o condutor autuado deverão manter seu cadastro atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal.
+§ 2º Na hipótese de notificação prevista no caput deste artigo, o proprietário ou o condutor autuado será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico e do envio da respectiva mensagem.
 § 3º O sistema previsto no caput será certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).

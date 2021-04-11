@@ -1,0 +1,1 @@
+Art. 10-A. Poderão ser convidados a participar de reuniões do Contran, sem direito a voto, representantes de órgãos e entidades setoriais responsáveis ou impactados pelas propostas ou matérias em exame.
