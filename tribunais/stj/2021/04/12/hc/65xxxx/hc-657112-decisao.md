@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS ANTONIO BARBOSA DOS SANTOS contra decisão indeferitória de liminar proferida por Desembargador Relator do Tribunal de Justiça do Estado de Alagoas no HCn. 0802264-91.2021.8.02.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 03/10/2020, pela suposta prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, pois tinha em sua posse "510g de maconha e 20g de cocaína distribuídos em 25 balinhas" (fl. 21). A prisão em flagrante foi convertida em preventiva.
+O Réu foi condenado, em primeiro grau de jurisdição, à pena de 6 (seis) anos de reclusão, no regime inicial semiaberto, mais 600 (seiscentos) dias-multa, com incurso no art. 33 da Lei n. 11.343/2006. Na oportunidade foi negado o recurso em liberdade.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. O Desembargador Relator indeferiu o pleito liminar.
+Neste writ, o Impetrante sustenta, em suma, que, não obstante estabelecido o regime inicial semiaberto, o Paciente permanece em "estabelecimento mais gravoso (regime fechado)" (fl. 5). Aduz, ainda, que a manutenção da prisão preventiva na sentença condenatória carece de fundamentação.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do Paciente.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n.691/ STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+Assim, em regra, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, por forçar o pronunciamento adiantado da Instância Superior, suprimir a competência da Inferior e subverter a regular ordem do processo.
+No caso, verifico, em princípio, que não foi comprovada a existência de patente ilegalidade capaz de ensejar a superação do enunciado da Súmula n.691/STF.
+Com efeito, oDesembargador Relator, sobre a alegada incompatibilidade do regime semiaberto com o estabelecimento prisional em que o Paciente está recolhido, ressaltou a necessidade de informações prévias do Juízo de primeiro grau, providência que não se mostra desarrazoada.
+Por outro lado, amanutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal,não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento.
+Friso, ainda, que a legalidade da prisão preventiva é objeto do HC n. 621.027/AL, no qual indeferi o pedido liminar.
+Desse modo, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a este Tribunal Superioradiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO WRIT NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃ O DA SÚMULA N.691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
