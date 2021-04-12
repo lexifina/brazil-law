@@ -1,0 +1,8 @@
+DESPACHO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL,no qual se insurge contra acórdão proferido pelo Tribunal Regional da 3ª Região.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente o fundamento da decisão agravada, notadamente a incidência da Súmula 83 do STJ.
+3. Afinal, inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles (AgRg no AREsp 1.791.009/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 19.3.2021; AgInt no AREsp 1.396.520/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 13.9.2019; AgInt no AREsp 1.1123.33/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 28.3.2019).
+4. Com efeito, o agravo em recurso especial tem por escopo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ.
+5. Diante dessas considerações, não conheço do agravo em recurso especial.
+6. Publique-se. Intimações necessárias.
