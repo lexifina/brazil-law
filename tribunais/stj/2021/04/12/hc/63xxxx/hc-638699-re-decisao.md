@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 1.398-1.399):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL.REMIÇÃO DE PENAS. APROVAÇÃO PARCIAL NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. CÁLCULO. ADEQUAÇÃO. NECESSIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA.HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - O Conselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, inc. IV, regulamentando o § 5º do art. 126 da Lei de Execução Penal, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino fundamental (ENCCEJA).
+III - No que tange ao cálculo do quantum de dias a serem remidos, observando a quantidade considerada na Recomendação n. 44/2013 do CNJ, já de 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino como base de cálculo para fins de cômputo das horas, tem-se que deve ser considerado, em favor do agravado, o montante de 1.200 horas. Isso porque a Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/96), que define legalmente a carga horária do ensino nacional, estabelece a carga horária mínima de 2.400 horas para o ensino médio.
+IV - In casu, tendo em vista que o apenado não realizava estudo de maneira formal, restando aprovado em 3 (três) áreas de conhecimento do ENCCEJA (2  duas  áreas de conhecimento do ENCCEJA2017 e em 1  uma  área deconhecimento do ENCCEJA2019), cujas horas ainda devem ser divididas por 12 (doze), conforme preceitua o inciso I do § 1º do art. 126 da LEP, isso totaliza 78 (setenta e oito) dias a serem remidos.
+Agravo regimental do Ministério Público Federal desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.423-1.433).
+Sustenta o recorrente que está presente a repercussão geral da questão tratada, dado que houve violação aoart. 5º, II, da Constituição Federal.
+Alega que a base de cálculo para a remição da pena por estudo deve ser a prevista na Resolução nº 3/2010 do Conselho Nacional de Educação.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às fls. 1.457-1.461.
+É o relatório.
+É assente na Suprema Corteo entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Na ocasião, o eminente Relator, Ministro Edson Fachin, consignou que, "igualmente, colhe-se da jurisprudência desta Corte o reconhecimento uníssono de que são destituídos de repercussão geral temas correlatos dignidade da pessoa humana, legalidade, propriedade, acesso à Justiça, devido processo legal e consectários, todos demandando o reexame de legislação infraconstitucional e o contexto fático específico de sua incidência, o que leva à conclusão de que o caso não transcende os interesses subjetivos da causa, por constituir-se peculiar situação jurídica que não prescinde dos elementos específicos da discussão em concreto".
+Na espécie, a violação do art. 5º, inciso II, da Constituição Federal é reflexa, pois depende da análise da Lei n. 9.394/1996,da Recomendação n. 44/2013 do Conselho Nacional de Justiçae doart. 126, §§ 1º, I, e 5º, da Lei de Execução Penal, razão pela qual incide o Tema 895/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOPRINCÍPIODA LEGALIDADE. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
