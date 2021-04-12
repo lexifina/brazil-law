@@ -1,0 +1,41 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO TAMBÉM CONTRA AUTORIDADE FEDERAL, COM SEDE FUNCIONAL EM BRASÍLIA/DF. COMPETÊNCIA TERRITORIAL DO JUÍZO DO FORO DE DOMICÍLIO DA PARTE IMPETRANTE. POSSIBILIDADE. APLICABILIDADE DO ART. 109, § 2o., DA CF/1988, ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DA 10A. VARA CÍVEL FEDERAL DE SÃO PAULO, SUSCITADO, O QUAL DEVE SER COMUNICADO COM URGÊNCIA, PARA A APRECIAÇÃO DO PEDIDO DE LIMINAR NOS AUTOS ORIGINÁRIOS.
+1. Trata-se de Conflito Negativo de Competência estabelecido entre o JUÍZO DA 4a. VARA FEDERAL CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, suscitante, e o JUÍZO DA 10a. VARA CÍVEL FEDERAL DE SÃO PAULO, suscitado, nos autos do Mandado de Segurança, com pedido de liminar, impetrado por FIANMA MAIANNA QUEIROZ PORTO contra aautoridademáxima da CEF-Caixa Econômica Federal.
+2. O mandamus foi ajuizado perante a Justiça Federal em São Paulo/SP, aqual se declarou incompetente (fls. 39/41), por entender que, tendo a autoridade coatora sede funcional no DISTRITO FEDERAL, a ação mandamental deveria ser apreciada na Seção Judiciária do Distrito Federal.
+3. Recebidos os autos no Juízo Suscitante, este reconheceu-se também incompetente, argumentandopara tantoque, mesmo em se tratando de Mandado de Segurança, poderá a parte autora escolher o foro de seu domicílio, conforme a atual jurisprudência dos Tribunais Superiores (fls. 44/45).
+4. Com base nesse entendimentoe nos termos do art. 105, I, d, da CF/1988, suscitou o Conflito Negativo de Competência perante este STJ, posto tratar-se de Juízos vinculados a tribunais diversos.
+5. É o relatório.
+6. A controvérsia está relacionada à competência territorial para julgamento de Mandado de Segurança com pedido de liminar impetrado também contra autoridade federal. Busca-se definir, portanto, se o mandamus deve ser ajuizado, obrigatoriamente, na sede funcional da autoridade apontada como coatora, ou se, ao revés, aplica-se ao caso o art. 109, § 2o., da CF/1988, permitindo ao jurisdicionado optar, pelo foro de seu domicílio, por se caracterizar causa intentada contra a UNIÃO.
+7. Neste cenário, a atual jurisprudência do STJ é firme quanto à incidência do sobredito art. 109, § 2o., da Carta Magna ao Mandado de Segurança, até mesmo como maneira de permitir o mais amplo acesso à Justiça.
+8. Confiram-se, a propósito, os julgados a seguir:
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. AUTORIDADE COATORA: DELEGADO DA RECEITA FEDERAL NO RIO DE JANEIRO. ARTIGO 109, § 2o. DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE. PRECEDENTES.
+(..).
+2. Tratando-se de mandado de segurança impetrado contra autoridade pública federal, o que abrange a União e respectivas autarquias, o Superior Tribunal de Justiça realinhou a sua jurisprudência para adequar-se ao entendimento do Supremo Tribunal Federal sobre a matéria, admitindo que seja aplicada a regra contida no art. 109, § 2o. da CF/1988, a fim de permitir o ajuizamento da demanda no domicílio do autor, tendo em vista o objetivo de facilitar o acesso à Justiça (AgInt no CC 154.470/DF, Rel. Min. OG FERNANDES, Primeira Seção, DJe 18.4.2018).
+(..).
+4. Agravo interno não provido.
+(AgInt no CC 158.943/SP, Rel. Min. SÉRGIO KUKINA, DJe 17.12.2018).
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. IMPETRAÇÃO. AUTARQUIA FEDERAL. APLICAÇÃO DA REGRA CONTIDA NO ART. 109, § 2o. DA CF/1988. ACESSO À JUSTIÇA. PRECEDENTES DO STF E DO STJ. AGRAVO NÃO PROVIDO.
+1. Tratando-se de mandado de segurança impetrado contra autoridade pública federal, o que abrange a União e respectivas autarquias, o Superior Tribunal de Justiça realinhou a sua jurisprudência para adequar-se ao entendimento do Supremo Tribunal Federal sobre a matéria, admitindo que seja aplicada a regra contida no art. 109, § 2o. da CF, a fim de permitir o ajuizamento da demanda no domicílio do autor, tendo em vista o objetivo de facilitar o acesso à Justiça. Precedentes: (..).
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 154.470/DF, Rel. Min. OG FERNANDES, DJe 18.4.2018).
+9. Destaque-se que, consoante firmado pelo STF, o art. 109, § 2o., da CF/1988 incide também para as ações judiciais propostas contra autarquias federais. Eis a ementa do acórdão paradigma, proferido em sede de Repercussão Geral:
+CONSTITUCIONAL. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2o. DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS, INCLUSIVE AO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA-CADE. RECURSO CONHECIDO E IMPROVIDO.
+I - A faculdade atribuída ao autor quanto à escolha do foro competente entre os indicados no art. 109, § 2o. da Constituição Federal para julgar as ações propostas contra a União tem por escopo facilitar o acesso ao Poder Judiciário àqueles que se encontram afastados das sedes das autarquias.
+II - Em situação semelhante à da União, as autarquias federais possuem representação em todo o território nacional.
+III - As autarquias federais gozam, de maneira geral, dos mesmos privilégios e vantagens processuais concedidos ao ente político a que pertencem.
+IV - A pretendida fixação do foro competente com base no art. 100, IV, a do CPC nas ações propostas contra as autarquias federais resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional.
+V - A jurisprudência do Supremo Tribunal Federal tem decidido pela incidência do disposto no art. 109, § 2o. da Constituição Federal às autarquias federais. Precedentes.
+VI - Recurso extraordinário conhecido e improvido.
+(RE 627.709/DF, Rel. Min. RICARDO LEWANDOWSKI, DJe 30.10.2014, Tema 374/STF).
+10. Tal entendimento vem sendo seguido por esta Corte Superior, como exemplificam os julgados a seguir:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2o. DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCUSSÃO GERAL. TEMA 374/STF. AGRAVO NÃO PROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do RE 627.709/DF, sob a sistemática da repercussão geral, firmou entendimento no sentido da incidência do disposto no art. 109, § 2o. da Constituição Federal às autarquias federais, na medida em que a fixação do foro competente com base no art. 100, IV, a, do CPC, nas ações propostas contra as autarquias federais, resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional (Tema 374/STF).
+2. Agravo interno não provido.
+(AgInt no RE no AgInt no CC 148.082/DF, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 14.2.2019).
+RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA INTERPOSTO CONTRA ATO DE AUTORIDADE DE AUTARQUIA FEDERAL. FORO. INTERPRETAÇÃO DO ART. 109, § 2o. DA CF/1988. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O QUE FOI DECIDIDO SUPREMA CORTE.
+1. O pretório Excelso, ao examinar o caso dos autos, entendeu que a questão controvertida trazida no recurso extraordinário se enquadra no Tema 374/STF.
+2. No julgamento do RE 627.709/DF (Tema 374/STF), sob a sistemática da repercussão geral, firmou-se o entendimento de que a fixação do foro competente, com base no art. 100, IV, a, do CPC, nas ações propostas contra as autarquias federais, resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo art. 109, § 2o. da Constituição Federal.
+Agravo interno improvido.
+(AgInt no RE no AgInt no CC 150.269/AL, Rel. Min. HUMBERTO MARTINS, DJe 4.4.2018).
+11. Ante o exposto, conheço do presente conflito de competência para declarar competente para processar e julgar o Mandado de Segurança subjacente, o JUÍZO DA 10a. VARA CÍVEL FEDERAL DE SÃO PAULO, o suscitado, o qual deve ser comunicado com a urgência necessária, porquanto existe pedido de liminar nos autos do Mandado de Segurança.
+12. Publique-se. Intimações necessárias.
