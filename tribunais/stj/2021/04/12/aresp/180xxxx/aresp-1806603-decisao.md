@@ -1,0 +1,41 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO INEXISTENTE. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS E PRINCÍPIOS DE NATUREZA CONSTITUCIONAL. COMPETÊNCIA DO STF.AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL DO MILITAR E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Agrava-se de decisão que não admitiu o Recurso Especial interposto porVALMIR APARECIDO DE JESUS, com fundamento naalíneaa do art. 105, III, da Constituição Federal, que objetiva a reforma do acórdão do egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO/REMESSA NECESSÁRIA. Mandado de Segurança. Nulidade de ato administrativo que determinou a movimentação do impetrante, Cb.PM, para outro batalhão. Sentença de primeiro grau que concedeu a segurança.
+1. Pretensa declaração de nulidade do ato administrativo que determinou sua transferência a outro Batalhão da Polícia militar. Critérios de conveniência e oportunidade inerentes ao interesse público que devem ser observados. Impetrante que não demonstrou afronta a direito líquido e certo. Ato motivado e produzido dentro dos limites da legalidade. Boletim Geral PM nº 057/01.
+Poder Judiciário não é o revisor-geral dos atos administrativos; não tem a última palavra nas competências constitucionais de outros poderes.
+2. Policial Militar submetido a regramento próprio, dentre os quais não se inclui a garantia da inamovibilidade. Em suma, a Administração detém o chamado poder hierárquico, podendo, com ao interesse público, que ele afere, lotar ou relotar qualquer servidor, dentro de suas atribuições funcionais, em qualquer unidade ou repartição, unilateralmente, obviamente. E servidor algum, salvo as exceções constitucionais, detém a prerrogativa da inamovibilidade. Ordem denegada.
+3. Sentença reformada. Recurso voluntário do ESTADO DE SÃO PAULO provido e remessa necessária acolhida (fls. 258).
+2. Os Embargos de Declaração opostos foram julgados nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO. Apelação/Remessa Necessária. Mandado de Segurança. Nulidade de ato administrativo que determinou a movimentação do impetrante para outro Batalhão.PM. Sentença de primeiro grau que concedeu a segurança. Acórdão que reformou o r. julgado singular e decretou a denegação da segurança.
+1. Inexistência de obscuridade, contradição, omissão ou erro material, à luz do artigo 1.022 do NCPC/2015. Matéria aventada prequestionada. Exegese do artigo 1.025 do NCPC/2015.
+2. Embargos de declaração rejeitados (fls. 352).
+3. Nas razões de seu Apelo Nobre inadmitido, sustentaa parte recorrenteviolação dos arts. 489 e1.022 do CPC/2015; e 37 da Constituição Federal, aos seguintesfundamentos: (a) de que o acórdão recorrido, a despeito da oposição dos Embargos de Declaração, se mostrou omisso quanto a ausência de motivação do ato daAdministração Pública que promoveu a remoção do Militar para outra localidade de trabalho; (b) de que restou devidamente caracterizado o abuso de poder, em ofensa clara a diversosprincípíos constitucionais.
+4. Embora devidamente intimada, a FAZENDA DO ESTADO DE SÃO PAULO deixou de ofertar contrarrazões (fls. 360). Juízo negativo de admissibilidade às 361/362, que ensejou a interposição deAgravo (fls. 365/386).
+5. É o relatório.
+6. Inicialmente, quanto à alegada violação do art. 37, da CF/1988, bem como aos princípios da legalidade, impessoalidade, moralidade, publicidade e efiência, é incabível o Recurso Especial porque visa discutir violação à norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+7. No mais, aquestão em debate cinge-se à existência de omissãono acórdão hostilizado, no tocante àausência de motivação do ato da Administração Pública que promoveu a remoção do Militar para outra localidade de trabalho.Em relação ao tema, merece destaque o seguinte trecho do acórdão combatido:
+(..) o impetrante não trouxe aos autos demonstração de eventual afronta a direito líquido e certo eis que o ato administrativo de transferência do impetrante aqui discutido foi, ao contrário do que sustenta, motivado.Cumpre aqui reproduzir trecho das informações prestadas pelo CHEFE DE DIVISÃO DE RECURSOS HUMANOS DA POLÍCIA MILITAR DO ESTADO DE SÃO PAULO às fls. 153/156:
+(..).
+Depreende-se que o ato administrativo combatido está motivado e, ainda, é legal; atente-se para a INSTRUÇÃO POLICIAL MILITAR Nº 057/01, I-2-PM que dispôs sobre a movimentação dos policiais militares por conveniência do serviço (fls. 145/152):
+(..).
+Ademais, integrantes da carreira da Polícia Militar do Estado de São Paulo sujeitam-se a regime próprio e não ostentam a garantia da inamovibilidade, sendo a transferência de servidores prerrogativas da Administração Pública; a cobrança de eficiência por parte do contribuinte, que é quem custeiatoda a estrutura estatal não se dá a qualquer um mas ao Administrador, que sabe melhor que ninguém, pois próximo aos comandados, com quem contar para exalçar a missão pública.
+(..).
+Em suma, a Administração detém o chamado poder hierárquico, podendo, com ao interesse público, que ele afere, lotar ou relotar qualquer servidor, dentro de suas atribuições funcionais, em qualquer unidade ou repartição, unilateralmente,obviamente. E servidor algum, salvo as exceções constitucionais, detém a prerrogativa da inamovibilidade (fls. 262/268).
+8. A leitura do acórdão recorrido revela inexistir a violação apontada, uma vez que a Corte de origem concluiu que o ato de transferência do Militar foi devidamente motivado, destacando, inclusive, as manifestações do Chefe de Divisão deRecursos Humanos da Polícia Militar do Estado de São Paulo, bem como o conteúdo da Instrução Policial Militar 57/2001, que dispôs acerca da movimentação dos policiais militares daquele ente federativo por conveniência do serviço.
+9. Assim, observa-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Ademais,julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+10. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+11. Neste sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC. OFENSA NÃO CARACTERIZADA. ART. 273 DO CPC. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SUMULA 7 DO STJ. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo Regimental não provido.
+(AgRg no AREsp615.053/RJ, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015).
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCON. APLICAÇÃO DE MULTA EMPRESA PÚBLICA FEDERAL. REDUÇÃO DO VALOR. NÃO OFENSA AO ART. 535 DO CPC. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao artigo 535 do CPC.
+2. A controvérsia dos autos foi dirimida com base nos fatos e provas constantes dos autos, de modo que o recurso especial é inviável em razão do enunciado n.º 07 da Súmula desta Corte.
+3. Agravo regimental não provido.
+(AgRg no AREsp. 618.556/PE, Rel. Min. BENEDITO GONÇALVES, DJe 31.3.2015).
+12. Diante do exposto, conheço do Agravo para conhecer em parte do Recurso Especial do Militar e, nessa extensão,negar-lhe provimento.
+13. Publique-se.
+14. Intimações necessárias.
