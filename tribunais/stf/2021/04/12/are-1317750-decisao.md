@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de dois recursos extraordinários com agravo interpostos por ENOPS ENGENHARIA S/A. e por WELLINGTON CYRO DE ALMEIDA LEITE contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+    Decido.
+    Quanto à insurgência de WELLINGTON CYRO DE ALMEIDA LEITE, verifica-se que o acórdão recorrido foi publicado em 30/04/2014, tendo o recurso extraordinário sido interposto somente em 02/06/2014.
+    Dessa forma, ele é inadmissível, porquanto intempestivo, visto que foi interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do CPC/73.
+    Segundo a firme jurisprudência da Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, por documento idôneo, no ato da interposição do recurso manejado. Nesse sentido: ARE nº 1.117.110/RJ-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 27/8/18; ARE nº 1.120.473/SP-ED-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 29/6/18.
+    Já quanto à insurgência de ENOPS ENGENHARIA S/A., verifica-se que o recurso especial interposto simultaneamente ao recurso extraordinário foi provido pelo Superior Tribunal de Justiça, que atendeu a pretensão da parte recorrente.
+    O apelo extremo, portanto, está prejudicado, tendo em vista a perda superveniente de seu objeto, decorrente da substituição do julgado (art. 1.008 do Código de Processo Civil). Nesse sentido:
+     “Agravo regimental no recurso extraordinário. Recurso especial provido pelo Superior Tribunal de Justiça para anular acórdão dos embargos de declaração da Corte de origem. Recurso extraordinário prejudicado. Precedentes. 1. O provimento do recurso especial pelo Superior Tribunal de Justiça, anulando-se o acórdão dos embargos de declaração e determinando-se a realização de novo julgamento pela Corte de origem, torna prejudicado o recurso extraordinário, por perda de objeto. 2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC)" (RE nº 1.113.783/MA–AgR, Plenário, Rel. Min. Dias Toffoli, DJe de 20/11/18).
+     “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSOEXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO: DENEGAÇÃO DO MANDADO DE SEGURANÇA. RECURSO EXTRAORDINÁRIO PREJUDICADO: PERDA SUPERVENIENTE DE OBJETO. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 1.069.871/RS–ED–AgR, Plenário, Rel. Min. Cármen Lúcia, DJe de 26/6/18).
+    Ex positis, nego seguimento ao recurso interposto por WELLINGTON CYRO DE ALMEIDA LEITE (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e julgo prejudicado o recurso interposto por ENOPS ENGENHARIA S/A. (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
