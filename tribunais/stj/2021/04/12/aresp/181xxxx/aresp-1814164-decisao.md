@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por CILAS DOS SANTOS SÁ contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+CIVIL E PROCESSO CIVIL. AÇÃO RESCISÓRIA. CABIMENTO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. NEGÓCIO JURÍDICO NULO. VIOLAÇÃO A NORMA JURÍDICA E ERRO DE FATO. INOCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA.
+1. Quando o autor indica expressamente os fundamentos de rescisão do julgado, bem como aponta especificamente os preceitos legais que teriam sido violados e as razões para entender pela ocorrência de erro de fato, evidencia-se a adequação da via eleita.
+2. Se o contrato de promessa de compra e venda de imóvel foi firmado apenas por um dos co-proprietários, ressai evidente a nulidade do negócio jurídico e a consequência é o retorno das partes ao status quo ante.
+3. Não há que se falar em violação a norma jurídica quando a questão foi dirimida com base nos dispositivos legais e na jurisprudência pertinentes.
+4. O erro de fato que autoriza a rescisão do julgado ocorre quando há uma falsa percepção das circunstâncias objeto dos autos e não quando há controvérsia sobre determinada questão.
+5. Não se aplica a penalidade da litigância de má-fé quando ausente prova cabal do dolo.
+6. Pedido rescisório julgado improcedente.
+Nas razões do recurso especial obstado na origem, alega violação do art. 966, caput, V e VIII, do CPC, no que concerne à ocorrência de violação literal de dispositivo de lei e erro de fato pela decisão rescindenda, trazendo o seguinte argumento:
+A sentença se desenvolveu exatamente no corpo da legitimidade dos corretores e co-proprietário para futura transferência do imóvel.
+Com isso a douta magistrada considerou inexistente o fato do prazo contratual de 120 dias para a ré efetivar o financiamento do imóvel transcorrido antes de qualquer "descoberta" de co-proprietário.
+Impossível saber qual foi a incidência do não financiamento se porque haveria um co-proprietário se nas conversas nada disso foi mencionado, mas confessado pela ré que "não tinha recursos".
+E para não sofrer a perda das arras buscou alterar a verdade dos fatos para induzir o julgador a erro.
+No mais, antes mesmo de qualquer suposto vício contratual, a ré violou os artigos já declinados do Código Civil. (fls. 520).
+É, no essencial, o relatório. Decido.
+O Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, o entendimento firmado na r. sentença rescindenda não violou os dispositivos civilistas, porquanto a declaração de nulidade do pacto constitui imposição da lei.
+A toda evidência, o escopo do requerente é transmutar a ação rescisória em recurso, a fim de alterar o entendimento que não lhe foi favorável, sem, contudo, demonstrar a efetiva violação a norma jurídica.
+Desse modo, os fundamentos constantes do r. julgado rescindendo estão em consonância com a legislação e a jurisprudência sem revelar a alegada violação a norma jurídica.
+Com efeito, somente se acolhe o pedido rescindendo lastreado em eventual violação manifesta a norma jurídica quando esta se mostrar flagrantemente inequívoca, de modo a prejudicar o direito postulado. Tendo o r. julgado sido prolatado dentro da estrita legalidade, não há de se falar em ofensa a eventual dispositivo de lei.
+ ..
+O autor assevera que o r. julgado rescindendo incorreu em erro de fato consistente na ausência de percepção de que a não concretização do negócio se deu em virtude do descumprimento contratual por parte da ora requerida, promitente compradora do imóvel.
+Acrescenta que foi desconsiderado o prazo de 120 (cento e vinte) dias para a efetivação do financiamento imobiliário, período no qual a requerida não obteve a liberação da quantia junto ao agente financeiro e, assim, não quitou o preço ajustado.
+Conforme já destacado no tópico que tratou sobre a alegada violação a norma jurídica, não se trata de rescisão contratual por descumprimento das regras ajustadas pelas partes, mas de evidente nulidade do negócio jurídico.
+O erro de fato que autoriza a rescisão do julgado ocorre quando há uma falsa percepção das circunstâncias objeto dos autos e não quando há controvérsia sobre determinada questão.
+Na espécie, ressai evidente a ausência de erro de fato, haja vista que a matéria referente a não participação do co-proprietário no negócio e, em virtude disso, a consequente nulidade não foi equivocadamente analisada pela MMª. Julgadora monocrática, mas apenas ensejou o resultado que o autor busca desfazer pela via rescisória (fls. 508-509).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
