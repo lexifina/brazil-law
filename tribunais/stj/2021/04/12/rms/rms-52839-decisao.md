@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurançacom pedido de tutela antecipada recursalinterposto por ANDRÉ LUIZ DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 52):
+MANDADO DE SEGURANÇA. Impetração objetivando a cassação da decisão que indeferiu pedido de fornecimento de alimentação por restaurante particular dentro do presídio. Decisão bem fundamentada. Indeferimento baseado em informações da direção do presídio, dando conta de que os alimentos permitidos pela dieta nutricional formulada já são fornecidos naquela unidade. Inexistência de violação a direito líquido e certo. Segurança denegada.
+Nas razões recursais, o recorrente sustenta violação do direito de assistência à saúde, tendo em vista que a Unidade Prisional não possui condições de fornecer alimentação adequada à sua situação específica, já que é portador de gastrite, litíase renal e hemorroidae, por conseguinte, deve seguir dieta diferenciada.
+Requer o provimento do recurso para queseja autorizado que um restaurante particular entregue as refeições adequadas, conforme cardápio anexado.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Nos termos do art. 1º da Lei n. 12.016/2009 (repetindo a redação da Lei n. 1.533/1951), o mandado de segurança visa à proteção de direito líquido e certo não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídicasofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+No presente caso, como antes relatado, a pretensão do ora recorrente, ao impetrar habeas corpus na origem, era a de trancar a ação penal movida contra ele em razão da alega falta de justa causa.
+Conforme despacho de e-STJ fl. 151, "considerando o tempo decorrido desde a propositura do recurso e diante da possibilidade de se ter alterado o quadro fático apresentado nos autos", determinei a intimação do recorrente para que se manifestasse, "justificadamente, em 5 dias, acerca do interesse no prosseguimento da análise do presente feito, sob pena de extinção".
+Tendo o recorrente permanecido inerte e diante da provável perda do objeto do mandamus, solicitei aos Juízos de origem informações atualizadas sobre o cumprimento da pena imposta ao recorrente.
+Conforme informações prestadas àe-STJ fl. 186, "em pesquisa realizada no sistema SIVEC, constata-se que o acautelado ANDRÉ LUIZ DE SOUZA, MTR 164444, atualmente se encontra recolhido na Penitenciária II de Presidente Venceslau/SP, possui Execução Criminal em formato físico, registrada sob o nº466.330".
+Assim, considerando que a questãoora sob análise diz respeito ao cardápio oferecido pela unidade prisional onde o recorrente encontrava-se detido no momento da propositura do mandamuse diante da sua inérciaem manifestar interesse no prosseguimento do feito, bem como o fato de que ele atualmente se encontra em outra unidade prisional, impõe-se reconhecer a perda do objeto domandamus
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno doSuperior Tribunal de Justiça, julgo prejudicado este recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
