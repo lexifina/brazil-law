@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deEMERSON CLAUDINO DOS SANTOS SILVAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HC n. 2027645-34.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva pelo magistrado (fls. 84-85)e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, tendo em vista a significativa quantidade de droga apreendida com o acusado - 144,49gde maconha -, além de outros objetos típicos da traficância. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que inexiste fundamentação idônea no decreto preventivo.Aduz que o paciente é primário e de bons antecedentes.
+Defende a observância da Recomendação do CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares diversas.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 180-181.
+As informações foram prestadas às fls. 185-218.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fls. 231-239).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 168-173):
+Narra a exordial acusatória que:
+"(..)no dia 8 de fevereiro de 2021 (ontem), por volta das 08h30min, na Rua José Bernini, Jardim América, nesta cidade e Comarca de Jales/SP, nas mediações de estabelecimento religioso e da Junta de Serviço Militar, EMERSON CLAUDINO DOS SANTOS SILVA trazia consigo e transportava para fins de entrega para consumo de terceiros, 1 porção grande ("tijolo") de Cannabis Sativa L.("maconha")com peso de 149,34g, tudo sem autorização e em desacordo com de terminação legal ou regulamentar (cf. auto de exibição e apreensão defls. 22/23, laudo de constatação preliminar de fls. 25/27 e rebatimento fotográfico a fls. 32).Segundo apurado, na data dos fatos, o denunciado se dirigiu até o local dos fatos com a finalidade de comercializar maconha a trabalhadores rurais, levando consigo uma balança de precisão e uma faca para separar e pesar os entorpecentes, para depois entregá-los a consumo.
+ ..
+No mais, diferentemente do que foi narrado na inicial, verifico que a segregação excepcional do Paciente se encontra justificada, o que afasta a arguição de constrangimento ilegal a que estivesse sendo submetido, como ofensa à sua liberdade individual.
+Conforme se observa do feito de origem, a r. decisãoque decretou a custódia preventiva do ora Paciente restou devidamente fundamentada, senão vejamos:
+"(..)
+Com efeito, a quantidade significativa da droga que fora objeto de apreensão, recomenda, num primeiro momento, maior cautela na concessão da liberdade provisória, porquanto há o vislumbre inicial da perspectiva do reconhecimento de traficância de possível envergadura.
+Em casos tais, os contornos fáticos da conduta imputada se sobrepõem ao tipo penal imputado, de tal arte que, o decreto da prisão preventiva, em absoluto, está calcado na singela imputação penal, o que, por evidente, seria insuficiente, mas, sim, em todos os contornos fáticos da conduta imputada, os quais acenam para o vislumbre da gravidade concreta, com necessidade do acautelamento social, até que advenham maiores informes sobre todos os matizes atinentes ao comportamento imputado ao indiciado, bem como em relação à sua pessoa.
+Nessa quadra, por ora, recomendável o cerceio cautelar da liberdade, até que sejam hauridos maiores informes sobre todos os matizes da imputação e das circunstâncias que timbram o acontecimento de índole penal.
+Noutras letras, as circunstâncias objetivas que timbram o fato imputado, diante do vulto quantitativo da droga apreendida, por ora, em razão do possível cenário de reconhecimento da traficância de maior envergadura, recomenda, a priori, o decreto da prisão preventiva.
+Nessa ordem de ideias, diante da base empírica delineada, até que sobrevenham maiores informes sobre todas as circunstâncias que circundam o indiciado e o fato penal a ele imputado, prudente e recomendável o decreto de sua prisão preventiva.
+Converto, assim, a prisão em flagrante em prisão preventiva.
+De outro bordo, com fincas nos fundamentos expendidos ,neste átimo, deixo de acolhero requerimento formulado pelo Ilustre Defensor, por entender recomendável maiores informes obre os acontecimentos, o que, decerto advirá da dialética estabelecida no decorrer do processo.
+(..)". (fls. 61/63, dos autos de origem) (Destaquei).
+Destarte, provada a materialidade e havendo indícios suficientes de autoria, o MM. Juízo a quo considerou a gravidade do crime em comento e, visando à garantia da ordem pública, decretou a prisão preventiva do Paciente fundamentadamente.
+ ..
+Assim, inexiste qualquer desproporcionalidade nadecretação da custódia cautelar, ainda que se trate de crime praticado sem violência ou grave ameaça contra a pessoa.
+Desta feita, as medidas cautelares alternativas à prisão preventiva não se aplicam neste caso, uma vez que não se mostram suficientes, adequadas e proporcionais às circunstâncias que envolvem o fato.
+Referidas medidas só poderão ser aplicadas quando ausentes os requisitos da prisão preventiva, o que não ocorre no presente caso.
+Destaque-seaindao que consta das informações prestadas pelo juízo de primeiro grau (fl. 186):
+Consigno, por relevante, à vista dos documentos de fls. 36/37 e 38/41, que, a rigor, o denunciado tem contra si sentença condenatória transitada em julgado, pelo crime insculpido no artigo 33, §2º, da Lei de Drogas, cuja pena, numa primeira visada, pode ainda se encontrar em cumprimento (fls.40).
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a quantidade dos entorpecentes apreendidos (144,49gs de maconha)foi consideradapelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+Ademais, a reincidência específica evidencia maior envolvimento dopacientecom a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, opaciente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
