@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO – JUÍZO DE RETRATAÇÃO.
+RECLAMAÇÃO – SEQUÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+     Telemont Engenharia de Telecomunicações S.A. assevera haver a Segunda Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0011908-64.2014.5.03.0031, inobservado o verbete vinculante nº 10 da Súmula do Supremo, bem assim o decidido na arguição de descumprimento de preceito fundamental nº 324.
+    Narra ter o interessado, Clayton Teixeira da Silva, ajuizado ação contra si e Telemar Norte Leste S.A., esta na condição de empregadora e prestadora de serviços, objetivando, considerando o princípio da isonomia, o recebimento de verbas trabalhistas levando em conta o que pago aos próprios empregados. Relata a improcedência dos pedidos, tendo sido reformado o entendimento em sede de recurso ordinário, no que declarada irregular a intermediação de mão de obra, surgindo daí o alegado descompasso.
+    Afirma desrespeitado o decidido no julgamento da arguição de descumprimento de preceito fundamental nº 324, no qual fixada tese no sentido da licitude da terceirização de toda e qualquer atividade, meio ou fim. Diz da insubsistência do enunciado nº 331 da Súmula do Tribunal Superior do Trabalho ante o assentado no paradigma. Protocolado recurso de revista, teve o seguimento negado.
+    Aponta contrariedade ao verbete vinculante nº 10, sustentando afastado, com alegada base na Constituição Federal e por órgão fracionário, o artigo 25, § 1º, da Lei nº 8.987/1995, a permitir o desenvolvimento, por trabalhadores terceirizados, de atividades inerentes, acessórias ou complementares ao serviço concedido.
+    Frisa afastado o preceito, mesmo de forma implícita, tendo em vista o princípio da isonomia, a revelar inobservância da cláusula de reserva de plenário. Assinala a insuficiência do critério atinente à distinção entre atividades-meio e fim, estando permitida a intermediação de mão de obra inclusive quanto a tarefa alcançada pelo próprio objeto social.
+    Em 17 de abril de 2020, Vossa Excelência negou seguimento à reclamação, ante a substituição do pronunciamento por acórdão do Tribunal Superior do Trabalho formalizado em agravo de instrumento em recurso de revista.
+    A agravante aponta não analisada, no âmbito do Tribunal Superior do Trabalho, a problemática da licitude da terceirização, porquanto não conhecido o recurso de revista, ausente requisito de admissibilidade. Afirma o acerto da reclamação voltada à suspensão da decisão proferida pela Primeira Turma do Regional, argumentando que, ausente julgamento de mérito pelo Superior, não há falar em substituição do ato reclamado. Insiste que houve desrespeito ao decidido na arguição de descumprimento de preceito fundamental nº 324 e contrariedade ao verbete vinculante nº 10 da Súmula.
+    O agravado, em contraminuta, diz incabível reclamação ante a inovação na causa de pedir e a necessidade de reexame do quadro fático. Argumenta que a alteração jurisprudencial não é capaz de desconstituir a coisa julgada, tendo em vista o princípio da segurança jurídica. Salienta a ilegitimidade da reclamante para proteção de interesses da segunda reclamada no processo trabalhista nº 0011908-64.2014.5.03.0031.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogados credenciados, foi protocolada no prazo legal.
+    Reanalisado o caso a partir das razões veiculadas no agravo, concernentes a erronia quanto à substituição do pronunciamento reclamado, conclui-se adequada a retomada do curso do processo. A leitura do acórdão do Tribunal Superior do Trabalho revela não conhecido o agravo de instrumento em recurso de revista ante óbice formal. Não houve discussão a respeito da licitude da terceirização.
+    3. Reconsidero a decisão proferida em 17 de abril de 2020, para determinar a sequência do processo.
+    4. Solicitem informações e colham, em seguida, parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 12 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
