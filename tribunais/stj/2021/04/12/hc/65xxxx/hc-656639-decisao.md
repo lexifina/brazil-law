@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetradoem favor de Valmir Santana contra ato coator proferido pela Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução n.0001318-95.2021.8.26.0482, negou provimento ao pleito defensivo, negando o direito à progressão ao regime aberto e o livramento condicional.
+A impetrante alega, em síntese, que obteve parecer favorável à progressão e ao livramento condicional, tendo o Tribunal local denegado com base em fundamento inidôneo.
+Pede, em caráter liminar e no mérito, a progressão ao regime aberto ou o livramento condicional (fls. 4/19).
+É o relatório.
+A concessão de ordem de habeas corpusdemandademonstração, de plano, da ilegalidade, ônus que recai sobre oimpetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local denegou a ordem, em resumo, pelos seguintes fundamentos (fls. 79/81):
+Na hipótese em apreço, o condenado cumpre pena por crimes graves, dois deles praticados mediante violência física ou grave ameaça contra pessoa e outro equiparado a hediondo. A fim de justificar qualquer benesse, ele deve ter comportamento carcerário que demonstre sua perfeita capacidade de reinserir-se nasociedade.
+Mas isto não ficou satisfatoriamente demonstrado no caso dos autos.
+Isto porque Valmir foi submetido a exame criminológico (fls. 42/50) e, embora a Comissão Técnica de Avaliação Conjunta tenha opinado favoravelmente à concessão dos benefícios, não se pode ignorar os elementos negativos ponderados pela Expert em Psicologia. Segundo a Profissional, o sentenciado manifesta traços de ansiedade que podem acarretar dificuldade em elaborar pensamentos de empatia, motivo pelo qual existe a possibilidade de desenvolver mecanismos de que envolvam compulsão e, consequentemente, podem implicar processos de institucionalização; além disso, atualmente demonstra parcial capacidade de desenvolver a autocrítica.
+Não fosse isso, chama atenção também o histórico prisional conturbado do agravante, que conta com seis execuções anotadas em sua folha de antecedentes, denotando possuir personalidade voltada à habitualidade delitiva. Ademais, registra três infrações disciplinares em seu prontuário, uma de natureza grave e duas de natureza média, as quais, embora já reabilitadas, são aptas a macular o mérito do recorrente, pois evidencia que ele não está engajado no processo de ressocialização, já que sequer consegue seguir as regras básicas do sistema prisional.
+Assim, diante de tais circunstâncias desfavoráveis, não se pode dizer que o sentenciado reúna mérito suficiente para ser promovido ao regime menos rigoroso ou colocado em livramento condicional. E como se sabe, na fase de execução penal, vigora o princípio do in dubio pro societate. Ou seja, exige-se a comprovação segura de que o condenado está preparado para a vida em liberdade desvigiada, o que não se vislumbra na hipótese em apreço.
+Não se verifica constrangimento ilegal a ser reparado, uma vez que o benefício foi indeferido por ausência de requisito subjetivo, tendo como fundamento o exame criminológico que, emborafavorável ao paciente, trouxe elementos sopesados de modo a contrariar a pretensão de progressão de regime e livramento condicional.
+Nos termos da jurisprudência deste Tribunal Superior,concretizada a realização da perícia, o resultado desfavorável pode ser empregado pelo Magistrado para firmar sua convicção sobre o implemento do requisito subjetivo para o abrandamento do regime carcerário (HC n. 591.919/MS, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2020).
+Ademais, a estreita via do habeas corpus não se presta a contrariar o entendimento firmado pelas instâncias ordinárias acerca do preenchimento ou não do requisito subjetivo, dada a necessidade de incursão na seara fático-probatória, insuscetível nesta sede.
+Nesse sentido: HC n. 323.687/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/4/2016; e HC n. 274.477/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP, DJe 10/9/2015.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.EXAME CRIMINOLÓGICO. AUSÊNCIA DO REQUISITO SUBJETIVO. ILEGALIDADE AUSENTE. PRECEDENTES.DISCUSSÃO SOBRE O TEOR DO EXAME.INVIABILIDADE NA ESTREITA VIA DO WRIT. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA.
+Writ indeferido liminarmente.
