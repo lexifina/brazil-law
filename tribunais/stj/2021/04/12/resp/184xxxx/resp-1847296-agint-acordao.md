@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE RESTABELECIMENTO DE CONTRATO DE PLANO DE SAÚDE COLETIVO JULGADO IMPROCEDENTE. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO COM BASE NO VALOR ATUALIZADO DA CAUSA.
+1. "A jurisprudência firmada na Segunda Seção desta Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019)" (AgInt no AREsp 1638593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto em face da decisão monocrática de fls. 742-745, assim ementada:
+RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL. VIABILIDADE. RECURSO ESPECIAL PROVIDO.
+Nas razões recursais, aduz a recorrente que, nas instâncias ordinárias, foi condenada a paga danos morais para os agravados, além de honorários advocatícios.
+Pondera que, malgrado o provimento de seu recurso para julgar improcedente o pedido exordial, não foi adequado o arbitramento dos honorários com base no valor atualizado da causa.
+Acena que "cabe ao julgador observar a seguinte ordem para determinar a base de cálculo dos honorários sucumbenciais: (i) o valor da condenação; (ii) o proveito econômico obtido pela parte vencedora e, somente se esse último não for possível de ser verificado; (iii) valor atualizado da causa".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE RESTABELECIMENTO DE CONTRATO DE PLANO DE SAÚDE COLETIVO JULGADO IMPROCEDENTE. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO COM BASE NO VALOR ATUALIZADO DA CAUSA.
+1. "A jurisprudência firmada na Segunda Seção desta Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019)" (AgInt no AREsp 1638593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Na inicial, delimitando o objeto do pedido, os autores, aduzindo que foram surpreendidos com uma carta emitida e encaminhada pela ré "comunicando o cancelamento do plano de saúde que teria ocorrido de comum acordo entre as Requeridas" (operadora do plano de saúde e estipulante)", vindicam, a título de obrigação de fazer, o "restabelecimento do plano de saúde" e danos morais.
+Ora, se a ré, ora agravante, afirma que o valor atribuído à causa (R$ 10.000,00, em março de 2016) foi irrisório, evidentemente, deveria ter feito a oportuna impugnação, evitando-se a preclusão quanto ao ponto.
+Com efeito, não há razão para modificação dos honorários sucumbenciais arbitrados em 18% do valor atualizado da causa, tampouco para tomar por parâmetro a suposta condenação do acórdão recorrido, visto que, em acolhimento ao recurso especial, fora integralmente reformado, não remanescendo nenhuma condenação ou proveito econômico para as partes.
+Dessarte, soa até mesmo contraditório que a agravante invoque acórdão em face do qual insurgiu-se e que, como se extrai das teses do recurso especial acolhido pela decisão monocrática, incidiu em error in judicando.
+"A jurisprudência firmada na Segunda Seção desta Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019)" (AgInt no AREsp 1638593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020).
+Com efeito, em havendo preclusão para discussão do valor da causa decorrente de inércia da própria ré, ora recorrente, e em se tratando de ação com pedido de obrigação de fazer (restabelecimento de contrato) sem que tenha havido obtenção de proveito econômico ou mesmo condenação para nenhuma das partes, dispõe o art. 85, § 2º, do CPC que a sentença condenará o vencido a pagar honorários ao advogado do vencedor. Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+3. Diante do exposto, nego provimento ao agravo interno.
+  como voto.
