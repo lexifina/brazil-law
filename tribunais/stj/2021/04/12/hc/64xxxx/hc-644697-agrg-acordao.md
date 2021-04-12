@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES QUE NÃO IMPUGNARAM A FUNDAMENTAÇÃO LANÇADA NA DECISÃO AGRAVADA. INADMISSIBILIDADE. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Lucas Bitencourt Galhardi contra a decisão monocrática, de minha lavra, assim ementada (fl. 136):
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PRISÃO DOMICILIAR INDEFERIDO. INEXISTÊNCIA DE ILEGALIDADE. PACIENTE QUE OSTENTA BOM ESTADO DE SAÚDE. RECOMENDAÇÃO N. 62/CNJ. INAPLICABILIDADE. ESTABELECIMENTO COM EQUIPE DE SAÚDE.
+Ordem denegada (art. 34, XVIII, b, do RISTJ).
+Nas razões, a defesa do agravante reiterou a tese deduzida na impetração, qual seja, de que o paciente (agravante) faz jus à prisão domiciliar.
+Asseverou que, ainda que se entenda que a existência de comorbidade não gere um efeito automático para a colocação do paciente em prisão domiciliar, a verdade é que o advento da pandemia do novo coronavírus acabou trazendo um incremento a essa possibilidade de tratamento jurídico excepcional, notadamente porque diante dos princípios da dignidade da pessoa humana, da individualização da pena e da vedação de penas cruéis, negar esse direito ao paciente seria o mesmo que assumir o risco de seu contágio, imputando-lhe impacto desproporcional e inaceitável (fl. 146).
+Pugnou, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES QUE NÃO IMPUGNARAM A FUNDAMENTAÇÃO LANÇADA NA DECISÃO AGRAVADA. INADMISSIBILIDADE. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O recurso é manifestamente inadmissível, pois não impugna os fundamentos da decisão agravada.
+Veja-se que, para concluir no sentido da inexistência de ilegalidade na decisão que negou o pedido de prisão domiciliar formulado pela defesa do paciente (ora agravante), a decisão combatida sopesou as informações obtidas junto ao estabelecimento prisional e as disposições contidas na Recomendação n. 62/CNJ (fls. 137/139):
+ ..
+A ordem não merece concessão.
+Por razões humanitárias e em caráter excepcional, o Superior Tribunal de Justiça tem entendido que, mesmo no caso de regime prisional diverso do aberto, é possível a concessão de prisão domiciliar (art. 117, II, da Lei de Execuções Penais), em face de comprovada doença grave e desde que o tratamento médico necessário não possa ser ministrado no presídio onde se encontra o apenado.
+Nesse sentido, confiram-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. CONDENAÇÃO DEFINITIVA. REGIME FECHADO. PLEITO DE CUMPRIMENTO DA PENA EM REGIME ABERTO DOMICILIAR. SAÚDE. MOTIVOS HUMANITÁRIOS. POSSIBILIDADE DE TRATAMENTO NO PRESÍDIO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VIA ESTREITA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem, de ofício.
+II - Com efeito, o art. 117, caput e seu inciso II, da Lei de Execuções Penais, somente admite a concessão de prisão domiciliar ao apenado acometido de doença grave, quando se trata de cumprimento de pena em regime aberto.
+III - Historicamente, a jurisprudência do col. Supremo Tribunal Federal era também no sentido de que a "prisão domiciliar só pode ser concedida a beneficiário de regime aberto e, sendo do sexo masculino, que seja maior de 70 anos ou esteja acometido de doença grave (art. 117 da LEP)" (HC n. 74.404/BA, Segunda Turma, Rel. Min. Maurício Corrêa, DJU de 19/12/96).
+IV - Mais recentemente, por questões humanitárias e em caráter excepcional, este eg. Superior Tribunal de Justiça tem entendido que, mesmo no caso de regime prisional diverso do aberto, é possível a concessão de prisão domiciliar, em face de comprovada doença grave e se o tratamento médico necessário não puder ser ministrado no presídio em que se encontra o apenado. Vale destacar: "Em caráter excepcional, este Superior Tribunal de Justiça tem entendido que, mesmo no caso de regime prisional diverso do aberto, é possível a concessão de prisão domiciliar, em face de comprovada doença grave, se o tratamento médico necessário não puder ser ministrado no presídio em que se encontra o apenado. Precedentes" (AgRg no HC 439.362/SP, Quinta Turma, Rel. Min. Félix Fischer, DJe 09/08/2018).
+V - In casu, desconstituir o entendimento firmado pelas instâncias originárias de que o paciente pode receber tratamento adequado mesmo recluso, assim, não se verificando ilegalidade manifesta, demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+Habeas corpus não conhecido.
+(HC n. 516.519/SP, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 14/10/2019)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS . REGIME FECHADO EM PRISÃO DOMICILIAR. IMPOSSIBILIDADE. FALTA DE PROVA DE DEBILIDADE EXTREMA POR FALTA DE TRATAMENTO ADEQUADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 117, caput e inciso II, da Lei de Execuções Penais, a prisão domiciliar ao condenado acometido de doença grave somente é admitida durante o regime aberto. Entretanto, a melhor exegese, extraída da evolução e do aperfeiçoamento das instituições na proteção aos direitos e às garantias fundamentais, permite inferir a viabilidade da prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado ou semiaberto, desde que a realidade concreta assim o recomende.
+2. Trata-se de medida humanitária, excepcional, em atenção aos princípios da dignidade da pessoa humana e da individualização da pena, cabível quando haja evidente conflito entre direitos e garantias fundamentais, a impor ao intérprete da norma penal a necessária ponderação.
+3. Não se verifica ilegal coação a direito de locomoção se o regime fechado em prisão domiciliar foi indeferido com lastro em perícia, ante a não constatação de pretensa debilidade extrema por motivo de enfermidade grave. A reeducanda cumpre mais de 40 anos de reclusão, por roubos e latrocínios, e peritos concluíram que seu estado de saúde não é grave e que o estabelecimento penal oferece condições necessárias ao controle e ao acompanhamento da patologia, o que é realizado por meio de consultas esporádicas.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no RHC n. 112.552/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/9/2019)
+No caso, colhe-se das informações obtidas pelo Juízo da execução que o apenado ostenta bom estado de saúde e recebe tratamento médico adequado (fl. 130 - grifo nosso):
+Informar que o detento LUCAS BITENCOURT GALHARDI matrícula: 545.189-3 RG: 46.293.385-4 está em bom estado geral no momento, relata desconforto em região anal (hemorróidas), está em uso de antiinflamatório para melhora do quadro clínico.
+Passou por avaliação médica em 23/02/2021:
+Temperatura: 36,9 0 C, Pressão Arterial: 140X100 mmhg Freqüência cardíaca: 119 bpm Saturação: 98% Aparelho respiratório: Murmúrio vesicular presente bilateralmente Aparelho circulatório: Bulhas rítmicas normofonética Giordana: negativo, sem dores abdominais.
+Orofaringe: Nada digno de nota
+Diante do exposto ressaltamos que o Centro de Detenção Provisória de Taiúva SP, através do Núcleo de Atendimento à Saúde vem tomando todas as medidas a fim de garantir o atendimento à saúde do detento em observância dos direitos previstos na legislação para o réu preso, tomando as medidas determinadas pela Secretaria de Saúde do Estado de São Paulo e ANVISA, através da NOTA TÉCNICA GVIMS/GGTES/ANVISA No 04/2020.
+Aproveito o ensejo para renovar a Vossa Excelência meus protestos de elevada estima e distinta consideração.
+Quanto ao estabelecimento penal em si, embora com lotação acima da capacidade, ostenta equipe de saúde (fl. 131):
+Venho respeitosamente a presença de Vossa Excelência, em atenção à r. decisão prolatada aos 22/02/2021 nos autos do processo digital de nº 1010401- 32.2020.8.26.0037, para informar que esta Unidade Prisional conta com capacidade para abrigar 847 (oitocentos e quarenta e sete) detentos e nesta data constam inclusos 910 (novecentos e dez) detentos.
+Insta salientar que nesta Unidade atua equipe de saúde composta por 01 (um) médico, 01 (um) enfermeiro, 02 (duas) técnicas de enfermagem e 01 (um) dentista.
+Nesse contexto, o paciente não faz jus à prisão domiciliar com base no art. 117, II, da LEP, tampouco com lastro na Recomendação n. 62 (CNJ) - grifo nosso:
+Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante no 56 do Supremo Tribunal Federal, sobretudo em relação às:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança
+de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, sob ordem de interdição, com medidas cautelares determinadas por órgão de sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+Ante o exposto, denego a ordem (art. 34, XVIII, b, do RISTJ).
+Ocorre que, nas razões do agravo regimental, a defesa não deduziu argumentos no sentido de infirmar a decisão; aliás, nem sequer referenciou os elementos que subsidiaram a conclusão do decisum que se busca reformar.
+É o caso, pois, de incidir a Súmula 182/STJ, ante a inobservância do princípio da dialeticidade recursal (art. 932, III, do CPC c/c o art. 3º do CPP).
+Ante o exposto, não conheço do agravo regimental.
