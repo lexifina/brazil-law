@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. CONSELHO DE CLASSE. RECOLHIMENTO DE ANUIDADE POR FILIAL QUE SE ENCONTRA SOB A MESMA BASE TERRITORIAL DA MATRIZ. AUSÊNCIA DE IMPUGNAÇÃO DA SÚMULA Nº 83 DO STJ. NÃO DEMONSTRAÇÃO DE CONTRARIEDADE EM FACE DA ATUAL JURISPRUDÊNCIA DO STJ.
+1. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração através de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+2. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno manejado por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DO PARANÁ - CRF/PR em face de decisão da Presidência do STJ que não conheceu do agravo em razão da ausência de impugnação do fundamento do juízo negativo de admissibilidade recursal que aplicou a Súmula nº 83 desta Corte.
+A agravante insurge-se contra a decisão agravada alegando, em síntese, que o agravo enfrentou de forma expressa os termos do enunciado da Súmula 83 com o objetivo de demonstrar que o entendimento consolidado do STJ sobre o tema foi construído sob o alicerce de legislação superada, qual seja, a Lei 6.994/82, revogada pela Lei 12.514/2011 e, mais importante, haveria precedente do próprio STJ que reconhece o tratamento diferenciado que deve ser dado a filiais de farmácias, em vista das características exclusivas concedidas pela Lei e que impõe a autonomia jurídico-administrativa necessária para a exigência tributária.
+Sem impugnação.
+Requer a reconsideração da decisão agravada para que seja conhecido o agravo e analisado o recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. CONSELHO DE CLASSE. RECOLHIMENTO DE ANUIDADE POR FILIAL QUE SE ENCONTRA SOB A MESMA BASE TERRITORIAL DA MATRIZ. AUSÊNCIA DE IMPUGNAÇÃO DA SÚMULA Nº 83 DO STJ. NÃO DEMONSTRAÇÃO DE CONTRARIEDADE EM FACE DA ATUAL JURISPRUDÊNCIA DO STJ.
+1. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração através de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+2. Agravo interno não provido.
+VOTO
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+O agravante afirma que impugnou o fundamento relativa à Súmula nº 83 desta Corte, citando, inclusive, precedente do STJ que teria sido favorável à sua tese, qual seja, o REsp 1.469.945/RS.
+Contudo, o paradigma citado, que entendeu com base na Lei nº 12.514/2011 que a prestação de serviços ou a venda de produtos relacionados à área farmacêutica gera a obrigação de pagamento da anuidade tanto ao estabelecimentos sede como ao filial, independente de estarem sob a jurisdição de um mesmo Conselho Regional de Farmácia, restou superado pela própria Primeira Turma desta Corte no âmbito do REsp 1.592.012/RS, sessão de 23/8/2016, ocasião em que decidiu-se que se matriz e filial encontram-se localizadas sob a jurisdição do mesmo conselho de classe, só há obrigação da segunda em pagar as anuidades ao órgão quando esta tiver capital social destacado do capital da matriz. Tal entendimento também foi confirmado no âmbito da Primeira Seção desta Corte nos autos do EREsp 1.615.620/SC, DJe 25.8.2018, ocasião em que foi reafirmado que "Nos casos em que a matriz e a filial encontram-se na mesma jurisdição, a filial deverá pagar anuidades ao órgão de classe, quando tiver "capital social destacado" de sua matriz".
+Confira-se a ementa do referido julgado da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. CONSELHO DE CLASSE. RECOLHIMENTO DE ANUIDADE POR FILIAL QUE SE ENCONTRA SOB A MESMA BASE TERRITORIAL DA MATRIZ. OBRIGAÇÃO QUE SOMENTE ATINGE FILIAL QUE APRESENTE CAPITAL SOCIAL DESTACADO DA MATRIZ. NÃO CONFIGURAÇÃO DO DISSÍDIO ATUAL.
+1. O dissídio, a ensejar a admissão dos embargos de divergência, deve ser atual, conforme dispõe o artigo 266, caput, do RI/STJ, o que não ocorreu no caso dos autos, pois a Primeira Turma, da qual provém o acórdão paradigma, assentou compreensão posterior no sentido do acórdão recorrido. Confira-se: "Nos casos em que a matriz e a filial encontram-se na mesma jurisdição, a filial deverá pagar anuidades ao órgão de classe, quando tiver "capital social destacado" de sua matriz AgInt no REsp 1.592.012/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 5/9/2016)".
+2. Agravo interno não provido. (EREsp 1.615.620/SC, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 25.10.2018)
+Dessa forma, não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração através de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
