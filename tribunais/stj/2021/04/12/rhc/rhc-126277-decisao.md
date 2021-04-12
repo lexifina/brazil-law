@@ -1,0 +1,11 @@
+DECISÃO
+O presente recurso em habeas corpus ataca a negativa do direito de recorrerem liberdade imposta por ocasião da prolação de sentença condenatória (Ação Penal n. 0033701-54.2019.8.13.0290- fls. 67/77).
+Pois bem. Com a informação obtida no endereço eletrônico do Tribunal de origem da realização do julgamento do recurso de apelação (n. 0033701-54.2019.8.13.0290), em 24/112020, rejeitando a preliminar e negando provimento ao apelo defensivo, por unanimidade de votos, verifica-se o exaurimento do objeto do recursoem liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da sentença, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 24/11/2020, tem-se por esvaído o objeto do remédio heroico.
+Com efeito, nos termos do entendimento adotado por este Sodalício: Com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o recurso(arts.38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 61, I, DO CP. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. NEGATIVA DO RECURSO EM LIBERDADE. PLEITO DE RECURSO EM LIBERDADE. IMPETRAÇÃO QUE SE VOLTA CONTRA DENEGAÇÃOEM WRIT ORIGINÁRIO (HC N. 1.0000.20.017987-7/000). SUPERVENIENTE JULGAMENTO DO RECURSO DE APELAÇÃO, COM PROVIMENTO NEGADO AO APELO DEFENSIVO. SUBSTITUIÇÃO DA SENTENÇA PELO ACÓRDÃO (APELAÇÃO N. 0033701-54.2019.8.13.0290). NOVO TÍTULO JUDICIAL. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA IMPETRAÇÃO. PERDA DO OBJETO.
+Recurso prejudicado.
