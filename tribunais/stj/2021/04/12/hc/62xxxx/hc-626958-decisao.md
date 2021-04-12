@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rafael de Souza Medeiros,em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça de Pernambuco.
+Consta dos autos (Processo n. 000399-27.2013.8.17.0001) que o paciente foi condenado como incurso no art. 121, § 2º, II e IV, do Código Penal, à pena de 17 anos de reclusão (fls. 9/11).
+Em sede de apelação, a defesa apontou nulidade no julgamento do Júri, por ter sido feita menção ao silêncio do paciente, influenciando na decisão. Alegou também que houve julgamento contrário às provas, e pediu a redução da pena. APrimeira Câmara Criminal do Tribunal de Justiça de Pernambuco deu parcial provimento ao recurso, para redimensionar a pena final do paciente para 14 anos de reclusão (fls. 37/52).
+No presente writ, a defesa aponta ilegalidade na dosimetria. Afirma que a culpabilidade faz parte do tipo penal, pois se trata de conhecimento da ilicitude e que não há como afirmar que o réu tenha agido com extrema frieza. Aduz, também, que a redução da pena, na segunda fase da dosimetria, pela confissão espontânea, deve se dar na fração de 1/6, e não inferior, como entendido pela instância ordinária.
+Decisão deste Relatorindeferindo a liminar (fls. 58/59).
+Parecer ministerial opinando pelo não conhecimento do writ (fl. 65).
+É o relatório.
+Verifica-se a existência do processo conexo HC n. 386.079/PE, em que o writ foi julgado prejudicado.
+A insurgência da defesa diz respeito à dosimetria. Quanto ao pedido de afastamento da culpabilidade, por não ser possível o Magistrado entender pela frieza do paciente, razão não lhe assiste, uma vez que tal análise foi feita diante das provas dos autos e dos fatos ocorridos. O Magistrado trouxe como fundamentos queo réu agiu com extrema frieza, sendo sua conduta merecedora de elevada censura. O desrespeito à vida do semelhante e predisposição à violência e o desprezo às lei de convivência social restaram sobejamente demonstrados (fl. 10). Vê-se que houve concreta fundamentação, de modo que não está presente o constrangimento ilegal.
+Para o delito de homicídio qualificado, a pena-base mínima deve partir de 12 anos de reclusão. No caso, foram valoradas duas circunstâncias judiciais, culpabilidade e antecedentes. Na sentença, foi fixada a pena-base em 18 anos de reclusão. Já no julgamento da apelação, o Julgador redimensionou a pena de 18 para 16 anos de reclusão. Entendo que nãohouve excesso, pois fixada a fração de 1/6 para cada uma das vetoriais, o que se mostrou adequado. Já na segunda fase, assiste razão à defesa. Para a atenuante de confissão espontânea, o julgador reduziu a pena em2 anos de reclusão. No entanto, sendo a pena provisória de 16 anos, mostra-se proporcional que a redução seja feita também na fração de 1/6, tal como aplicada na primeira fase,portanto, a pena fica redimensionada para 13 anos e 6 meses de reclusão.
+Ante o exposto, concedo parcialmentea ordem a fim deredimensionar a pena do paciente para 13 anos de 6 meses de reclusão, em regime fechado, mantidos os demais fundamentos do acórdão hostilizado.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PEDIDO DE AFASTAMENTO DA VETORIAL CULPABILIDADE. IMPOSSIBILIDADE. DOSIMETRIA. AUMENTO DA FRAÇÃO DE REDUÇÃO NA SEGUNDA FASE. REDIMENSIONAMENTO DA PENA.
+Ordem parcialmente concedida nos termos do dispositivo.
