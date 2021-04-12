@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO COMERCIAL. INDENIZAÇÕES. DANO MORAL. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por TREVO DISTRIBUIDOR DE VEÍCULOS PEÇAS E SERVIÇOS LTDA contra decisão de fls. 4.158-4.161, e-STJ, que negou provimento ao agravo em recurso especial.
+Defende que não há falar em reexame do conjunto probatório ou de cláusulas contratuais para o deslinde da controvérsia, o que afasta a incidência das Súmulas 5 e 7/STJ.
+Sustenta que, dada a admissão da parte contrária de suas práticas abusivas e do equívoco na análise do laudo pericial pelas instância ordinária, deve-se reconhecer seu direito às indenizações pleiteadas, quais sejam: danos emergentes, despesas com instalação e encargos trabalhistas, lucros cessantes, fundo de comércio, danos morais, revisão do débito pactuado em confissão de dívida, bem como ressarcimento de imposto recolhido a maior.
+Intimada, a parte agravada apresentou impugnação e manifestou-se pela manutenção da decisão atacada (fls. 4.215-4.225, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO COMERCIAL. INDENIZAÇÕES. DANO MORAL. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente agravo não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+"Trata-se de agravo interposto por TREVO DISTRIBUIDOR DE VEÍCULOS PEÇAS E SERVIÇOS LTDA.contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Concessão veicular. Alegação de abuso de poder econômico da montadora e do banco do mesmo grupo econômico (Volkswagen), como responsável pelo encerramento das atividades da autora e por seu endividamento. Pedido de indenização material e moral. Prova, porém, da má gestão por parte da autora, que se endividou por opção própria. Empréstimos realizados regularmente, afastados porém os juros, porque as Taxas Dl os incorporam. Retraimento de mercado comum nesse tipo de atividade; inadmissibilidade de se apontar a montadora como responsável pelos maus negócios encetados e pelos prejuízos havidos. Ausência de danos a serem reparados, salvo quanto a débitos de fidelidade de peças e de ausência de repasse de IPI, determinado o abatimento dos débitos correspondentes.
+Honorários diminuídos, mas mantida a sucumbência da autora, por seu maior decaimento. Apelo provido parcialmente.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, a parte recorrente sustenta violação dos artigos 5º, 7º, 22, 23 e 30 da Lei 6.729/78; 20 e 21 da Lei 8.884/94.Aduz que a atitude dos recorridos ao modificar as características dos veículos fornecidos e atrasar a entrega de peças de reposição, promoveu dificuldade na sua atividade empresarial, além de maior lucro para o banco/réu, dada a demora na venda do produto e atraso na prestação de serviço de reparo e manutenção, fatores que quebraram a expectativa do mercado consumidor consolidado pela autora.
+Requer reparação econômica por dano emergente, lucro cessante, indenização de fundo de comércio e dano moral.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+No caso dos autos, a Corte estadual, ao analisar as circunstâncias fáticas, contrato tabulado e o conjunto probatório produzido, assim decidiu (fls. 3.896-3.898, e- STJ):
+Primeiramente, a própria perícia demonstrou induvidosamente que a apelante descapitalizou-se em excesso à época dos fatos, com expressivas dívidas sobre o valor do ativo e grande dependência ao capital de terceiros. A imensa falta de liquidez fica clara a fl.471: "Em 31/12/2000 o índice apurado demonstra que para cada R$ 100,00 de Capital Próprio a autora tomou R$ 315,00 de Capital de Terceiros e que, em 31/12/2001, a situação se agravou já que para cada R$ 100,00 próprios a autora tomou R$ 1.171 emprestados" (sic). De 1998 a 2002 só houve prejuízos, o que à evidência não pode ser imputado à montadora ré e sim à má gestão administrativa da apelante (até no ano em que ganhou o prêmio "Golden Pin", 1999, sofreu a apelante prejuízo de R$ 539.693,63; ótima concessionária, empresa ineficiente).
+Afirmar que isto se deu porque os carros da ré deixaram de ser atrativos é falácia clara. Não há notícia de debacle generalizada de concessionárias Volkswagen no período (houvesse e obviamente a apelante a teria apontado, em sua argumentação acusadora contra os métodos da montadora) e é natural que, sazonalmente, uma marca esteja melhor no mercado e outra pior. Mas se, apesar dos maus resultados, a apelante continuou investindo em seu imobilizado, abrindo outra filial e aumentando seu já grande endividamento, não poderia esperar senão a asfixia financeira futura, pois quem toma dinheiro emprestado um dia tem que pagar o empréstimo, logicamente.
+E, quanto aos termos dos financiamentos tomados do banco corréu, não há a mínima prova de que tenham ocorrido abusos, o que mesmo a perícia esclarece, anotada a inexistência de anatocismo.
+(..) A apelante tinha outras opções para obter dinheiro no mercado e, se escolheu emprestar com o banco corréu, pela óbvia facilidade de pertencer ao mesmo grupo empresarial da montadora, não pode depois alegar "coação" (de que tipo, se estava endividada por sua própria gestão à frente da empresa ), mormente nada tendo de hipossuficiente ou vulnerável. Se o negócio havia retraído e mostrava-se inviável, sempre poderia a apelante ter resilido o contrato e se dedicado a outras atividades; o que é injustificável é ter-se mantido nas mesmas atividades e, logo após consolidar a confissão de seus débitos, passar a se ver como vítima do poder econômico dos réus, apontando-os como responsáveis por sua derrocada - retraimento e crises no mercado automotivo são comuns e, nem por isso, verificam-se fechamentos de concessionárias em massa, mormente das marcas principais e de maior tradição, dentre as quais se inclui a Volkswagen.
+Nessas circunstâncias, apontada a própria autora como responsável por sua derrocada empresarial, não há que se falar em indenização por fundo de comércio nem, muito menos, de reparação moral, logicamente. Também não há o enquadramento desejado na Lei Ferrari, pelo fato, repita-se à exaustão, de não se ter verificado ilicitude na conduta dos réus.
+Dessa forma, ao contrário do alegado neste recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório e obrigações assumidas em contrato, reconheceu pela regularidade da rescisão da avença de concessão comercial pela agravada, considerando não existir direito à reparação econômica.
+A revisão do entendimento destes pontos, nos moldes das questões factuais, ainda com base na interpretação de cláusulas contratuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do arcabouço contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SUBSTITUIÇÃO TRIBUTÁRIA. RESTITUIÇÃO À CONCESSIONÁRIA AUTORA DE IPI RECOLHIDO A MAIOR. PRESCRIÇÃO. TEORIA DA ACTIO NATA. QUANTUM DEBEATUR. APURAÇÃO NA FASE DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. (..)
+2. (..).
+3. (..)
+4. A reforma do acórdão recorrido, quanto ao ônus da prova, à alegada quitação plena dada por ocasião do distrato e à validade do acordo firmado entre a montadora e a respectiva associação de concessionários, exigiria o revolvimento de fatos e provas e a interpretação de instrumento contratual, providências vedadas no recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp 411.846/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/09/2017, DJe 02/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. CONTRATO DE CONCESSÃO COMERCIAL. VIOLAÇÃO A CLÁUSULAS ACORDADAS ENTRE AS PARTES. RESCISÃO CONTRATUAL. APLICAÇÃO PRÉVIA DE PENALIDADES DE FORMA PROGRESSIVA. NOTIFICAÇÃO E ADVERTÊNCIA. ANTECEDENTES. OCORRÊNCIA. REGULARIDADE DO PROCEDIMENTO. ALTERAÇÃO. NECESSIDADE DE REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. (..)
+2. A Corte estadual, a partir da análise da avença firmada entre as partes e provas coligidas nos autos, entendeu pela regularidade da rescisão pela recorrida do contrato de concessão comercial, considerando que, diante de infrações contratuais cometidas pela concessionária de veículos, foi observada a aplicação de penalidades gradativas previamente ao término do acordo. A revisão desse entendimento, na via especial, é obstada pelas Súmulas nºs 5 e 7 do STJ.
+3. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 894.390/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 26/5/2017)
+Em face do exposto, nego provimento ao agravo".
+Em nova análise, quanto à admissão pela parte contrária de práticas abusivas ou no equívoco de análise realizado pelas instâncias ordinárias do laudo pericial, provas que arrimaram a prestação jurisdicional, não há como contrariar as conclusões expostas no acórdão da origem, em razão do seu exame demandar a análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
