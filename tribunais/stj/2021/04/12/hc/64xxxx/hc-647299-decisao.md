@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ELIANDRO RICARDO ALVES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Agravo em Execução Penal n.5072398-49.2020.8.21.7000.
+Consta dos autos que o Juízo das Execuções concedeu ao Paciente, o qual cumpre pena em regime aberto, a remição de dias por trabalho.
+Irresignado, o Ministério Público Estadual interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao recurso, nos termos da seguinte ementa (fl. 190):
+"AGRAVO EM EXECUÇÃO. MINISTÉRIO PÚBLICO. REMIÇÃO. PRESO DO REGIME ABERTO. PRISÃO DOMICILIAR. IMPOSSIBILIDADE. A declaração de remição pelo trabalho está autorizada, tão somente, aos condenados que cumprem pena nos regimes fechado e semiaberto (art. 126, "caput"da LEP). No regime aberto, o labor desvigiado é imposição do próprio regime prisional, que se baseia na autodisciplina e senso de responsabilidade do condenado (art. 36, § 1º do CP). Entendimento pacífico das Cortes Superiores. Procedência da pretensão de cassação da remição pelo trabalho realizado quando em regime aberto, em prisão domiciliar, período compreendido entre 28.02.2020 a 06.08.2020.
+AGRAVO EM EXECUÇÃO PROVIDO. CASSADO O BENEFÍCIO DA REMIÇÃO DA PENA PELO TRABALHO REALIZADO EM REGIME ABERTO, EM PRISÃO DOMICILIAR, NO PERÍODO DE 28.02.2020 A 06.08.2020."
+No presente mandamus, sustenta a Defensoria Pública que o Paciente sofre constrangimento ilegal em razão de o Tribunal a quo ter cassado a decisão de primeiro grau que concedeu ao Apenado a remição de dias pelo trabalho exercido enquanto cumpria pena em regime aberto.
+Requer seja concedida a ordem "para o efeito de determinar que o art. 126, caput e § 6º, da Lei nº 7.210/84 contemple a possibilidade de remição pelo trabalho realizado em regime aberto" (fl. 9).
+As informações foram prestadas (fls. 211-227).
+O Ministério Público Federal manifestou-se pelo não conhecimento do write, caso conhecido, pela denegação da ordem (fls. 232-237).
+É o relatório. Decido.
+A Corte estadual, ao dar provimento ao agravo em execução ministerial, explicitou (fl. 187; grifos diversos do original):
+"No regime aberto, então, não se afigura possível diminuir a pena pelo trabalho realizado.
+Cada um dos três regimes previstos no nosso ordenamento jurídico vêm envoltos em características e fins próprios, como já dito, dirigidos que são à reintegração progressiva do apenado, e não à mera e simples contenção física do indivíduo.
+Nesse passo, há que se entender que a remição encontra guarida nos regimes fechado e semiaberto porque neles se cumprem as penas mais rigorosas, o que traz, em seu bojo, a conclusão pela maior periculosidade do agente e menor adequação às regras sociais.
+Daí a necessidade de incentivá-lo ao trabalho honesto, oferecendo-lhe a remição da pena.
+Mas o regime aberto, destinado a presos com menor grau de perigosidade, funda-se no senso de responsabilidade do condenado, que, nesta fase, deverá demonstrar que tem incutido já os valores do trabalho honesto, exercendo-o não como fim de reduzir a pena, mas pelo seu valor intrínseco, sendo, então, inerente ao próprio regime."
+Como se vê, o entendimento do Tribunal a quo está em perfeita sintonia com a jurisprudência desta Corte. O art. 126 da Lei de Execução Penal expressamente prevê a possibilidade da remição de pena pelo trabalho apenas aos condenados que cumprem pena em regime fechado ou semiaberto. No regime aberto, o referido benefício somente é conferido se há frequência em curso de ensino regular ou de educação profissional, na forma como disciplinado no § 6.º desse mesmo dispositivo legal, o que não se aplica ao caso em tela.
+Confiram-se:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO. REGIME ABERTO. TRABALHO DO ADVOGADO NO PRÓPRIO ESCRITÓRIO. REMISSÃO NÃO RECONHECIDA. REGIME QUE NÃO ADMITE REMISSÃO. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, conforme já devidamente consignado no v. acórdão na origem, confirmado por esta relatoria na decisão monocrática em habeas corpus e em seu respectivo recurso de embargos de declaração, o direito à remição por trabalho apenas recai sobre aqueles apenados que cumprem pena no regime semiaberto ou fechado. Precedentes.
+III - "A jurisprudência do Superior Tribunal de Justiça é no sentido de que o condenado que cumpre pena em regime aberto não faz jus à remição pelo trabalho, nos termos do art. 126 da Lei de Execução Penal, que prevê, expressamente, tal benefício apenas ao condenado que cumpre pena em regime fechado ou semiaberto, situação mantida com a entrada em vigor da Lei n. 12.433/2011"(HC n. 186.389/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 21/03/2012). Precedentes.
+ ..
+Agravo regimental desprovido." (AgInt nos EDcl no HC 475.842/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/03/2019, DJe 18/03/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. TRABALHO DO CONDENADO. REGIME ABERTO. ART. 126 DA LEI DE EXECUÇÃO PENAL. REMIÇÃO. IMPOSSIBILIDADE. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL. INVIÁVEL. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MANUTENÇÃO DA DECISÃO AGRAVADA. INSURGÊNCIA PARCIALMENTE CONHECIDA E, NESTA PARTE, DESPROVIDA.
+1. A jurisprudência desta Corte assentou o entendimento de que o sentenciado que cumpre pena em regime aberto não tem direito à remição pelo trabalho, nos termos do art. 126 da LEP, sendo o benefício, ora pretendido, aplicável somente aos condenados que se encontrem no modo fechado ou semiaberto.
+2. Eventual análise por esta Corte Superior de Justiça de alegadas violações à Constituição Federal se daria em indevida usurpação da competência do Pretório Excelso, razão pela qual não podem ser conhecidas nesta via.
+3. Agravo regimental conhecido em parte e, nesta, desprovido." (AgRg no REsp 1.561.254/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/12/2015, DJe 03/02/2016; sem grifos no original.)
+No mesmo sentido, cito as seguintes decisões monocráticas:HC n. 453.549/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, decisão publicada em 16/08/2018; HC n. 625.865/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, decisão publicada em 20/11/2020.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM REGIME ABERTO. REMIÇÃO POR TRABALHO. IMPOSSIBILIDADE. DECISÃO DE PRIMEIRO GRAU CASSADA PELO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA.
