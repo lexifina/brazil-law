@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Mandado de Segurança, impetrado, em 31/03/2021, por NADIA TERESINHA ESTEVAO, contra ato do PRESIDENTE DA EMPRESA DE TECNOLOGIA E INFORMAÇÕES DA PREVIDÊNCIA - DATAPREV.
+A parte impetrante alega, em síntese, que:
+"O ato coator a que se busca a tutela jurisdicional, consiste na ausência de correção do banco de dados Dataprev para o pagamento do Auxílio Emergencial aos Trabalhadores Informais de que trata a Lei nº 13.982 de 2 de abril de 2020 e sua extensão conforme previsão da Medida Provisória nº 1000, de 2 de setembro de 2020, tendo em vista que após a atualização cadastral no Cadastro Único datada de 14/01/2021, realizada junto ao Centro de Referência da Assistência Social da cidade de Jaguaruna/SC onde reside a impetrante, a Dataprev, continua considerando em sua base de dados para o pagamento do Auxílio Emergencial Extensão, dados incorretos das unidades familiares da impetrante e sua irmã Lucia Helena Estevão" (fl. 4e).
+Ao final, requer:
+"A procedência do pedido com a concessão da Segurança, confirmando a medida liminar deferida de correção dos dados da impetrante na Dataprev e declarando o direito da impetrante Nadia Teresinha Estevão Rodrigues como titular do direito ao Auxílio Emergencial previsto na Lei. 13.982/2020 e sua extensão prevista na MP nº 1039/2021, considerando que a impetrante possui desde 31/05/2019, requerimento administrativo de concessão de benefício assistencial à pessoa com deficiência junto ao INSS" (fl. 10e).
+O Superior Tribunal de Justiça não possui competência para processar e julgar o presente Mandado de Segurança.
+Com efeito, nos termos do art. 105, I, a, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Ante o exposto,declaro a incompetência do Superior Tribunal de Justiça para processar e julgar o presente Mandado de Segurança e determino a remessa dos autos à Subseção Judiciária da Justiça Federal de Tubarão/SC.
+I.
