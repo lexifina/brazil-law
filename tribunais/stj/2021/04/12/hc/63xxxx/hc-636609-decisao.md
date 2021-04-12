@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de DAVID DOS REIS MACHADO, impugnando acórdão do Tribunal de Justiça do Rio de Janeiro no Habeas Corpus n. 0069683- 27.2020.8.19.0000.
+Referido acórdão recebeu a seguinte ementa:
+Habeas Corpus. Alegação de constrangimento ilegal na demora da apreciação do pedido de transferência do paciente para o regime compatível com a condenação, bem como de progressão para o regime aberto. Paciente que há muito se encontra no regime correto, qual seja, semiaberto (transferência ocorrida em 24/06/2020), não havendo que se falar em desvio de execução. De igual modo, há de se afastar o inconformismo defensivo quanto à suposta necessidade de transferência do penitente para uma Unidade Prisional de regime aberto. O sistema penal pátrio não adotou a progressão de regime automática. O paciente implementou o requisito objetivo necessário à obtenção da progressão ao regime aberto em 18/10/2020, data posterior à impetração deste Habeas Corpus, sendo certo que, conforme consulta realizada ao sistema SEEU, o pleito foi realizado pela Defesa ao juízo da VEP em 20/10/2020, sendo razoável que ainda não tenha sido apreciado. Deste modo, verifica-se que nenhum retardo indevido pode ser imputado à autoridade coator a. Ordem DENEGADA.
+(Habeas Corpus n. 0069683-27.2020.8.19.0000, Rela. Desa. Mônica Tolledo de Oliveira, 3ª Câmara Criminal do TJ/RJ, unânime, julgado em 10/11/2020)
+Na presente impetração, a defesa insiste em que o paciente sofre constrangimento ilegal em virtude da demora do Juízo de 1º grau em analisar seu pedido de progressão para o regime aberto, na execução penal n. 5090812-55.2020.8.19.0500.
+Pede, assim, liminarmente e no mérito, a concessão de ordem, determinando "a revogação da prisão decretada em desfavor do paciente pela ocorrência do excesso de prazo, ou seja, para o regime aberto, nos termos do art. 648, II, do Código de Processo Penal" (e-STJ fl. 8).
+Às fls. 42/43, a Presidência desta Corte indeferiu a liminar.
+Foram prestadas informações pelo Tribunal de Justiça.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pelo não conhecimento do writ, ante a sua perda de objeto, em parecer assim ementado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PROCESSO PENAL. EXECUÇÃO DA PENA. PLEITO DE PROGRESSÃO DE REGIME. DESCABIMENTO. REGIME ABERTO, NA MODALIDADE PRISÃO ALBERGUE DOMICILIAR MONITORADA, CONCEDIDA NA ORIGEM. PERDA DE OBJETO DA PRESENTE IMPETRAÇÃO. PARECER NO SENTIDO DE QUE SE JULGUE PREJUDICADO O HABEAS CORPUS ORA ANALISADO.
+É o relatório. Passo a decidir.
+Com efeito, como bem observou o parecer ministerial, de acordo com as informações constantes do site do Tribunal de Justiça do Estado do Rio de Janeiro e do Sistema Eletrônico de Execução Unificado - SEEU, sobre o andamento da Execução n. 5090812-55.2020.8.19.0500, infere-se que o paciente foi beneficiado com a progressão ao regime aberto, na modalidade Prisão Albergue Domiciliar (PAD) monitorada, em 18 de janeiro de 2021.
+Não remanesce, assim, nenhum interesse no exame da controvérsia posta nesta impetração.
+Ante o exposto, com amparo no art. 34, XI, do Regimento Interno do STJ, não conheço do pedido, ante a perda superveniente de seu objeto.
+Intimem-se.
