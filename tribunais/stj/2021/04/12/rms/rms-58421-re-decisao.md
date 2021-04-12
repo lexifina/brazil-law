@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto porGEVALDO JOSÉ RIBEIRO, com fundamento no art. 102, inciso III, alínea"a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 2.136):
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR.DATA DA CIÊNCIA DO ATO IMPUGNADO. PEDIDO DE REVISÃO NA ESFERA ADMINISTRATIVA QUE NÃO SUSPENDE NEM INTERROMPE A DECADÊNCIA.RECONHECIDA A DECADÊNCIA DO DIREITO DE IMPETRAR O MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ.
+1. Na hipótese dos autos, o acórdão recorrido não destoa da jurisprudência do STJ segundo a qual o prazo decadencial de 120 dias para impetração do mandamus tem início na data em que o impetrante toma ciência do fato impugnado, nos termos do art. 23 da Lei 12.016/2009, e o pedido de reconsideração ou o recurso administrativo destituído de efeito suspensivo não têm o condão de suspender ou interromper o curso do prazo decadencial, conforme a Súmula 430/STF.
+2. Agravo Interno não provido.
+Sustentaorecorrente, além da existência de repercussão geral da matéria, a violação do art. 5º, XXXV,da Constituição Federal, bem como contrariedade às Súmulas 346, 473 e 430 do STF.
+Afirma que a previsão do art. 5º, XXXV, da Constituição Federal "autoriza o cidadão afetado por ato administrativo disciplinar a pedir a sua anulação através de revisão administrativa, não sendo lícito à Autoridade Pública negar-se de conhecer o pedido, pois além do poder-dever de anular ato ilícito administrativo a sua convalidação por ato da autoridade superior se constitui em inegável abuso de poder, com ofensa direta e clara aos princípios da moralidade e eficiência administrativa" (e-STJ fl. 2.192).
+Pondera que o pedido formuladona esfera administrativa, de revisão do ato disciplinar, não se confunde com pedido de reconsideração do ato.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Apresentadas contrarrazões às e-STJ fls. 2.257/2.258.
+É o relatório.
+É assente na Suprema Corte o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Na ocasião, o eminente Relator, Ministro Edson Fachin, consignou que, "igualmente, colhe-se da jurisprudência desta Corte o reconhecimento uníssono de que são destituídos de repercussão geral temas correlatos dignidade da pessoa humana, legalidade, propriedade, acesso à Justiça, devido processo legal e consectários, todos demandando o reexame de legislação infraconstitucional e o contexto fático específico de sua incidência, o que leva à conclusão de que o caso não transcende os interesses subjetivos da causa, por constituir-se peculiar situação jurídica que não prescinde dos elementos específicos da discussão em concreto".
+Na espécie, a violação do art. 5º, XXXV, da Constituição Federalnão tem como ser aferida porque o acórdão negou provimento ao agravo interno para manter decisão que negou seguimento ao recurso ordinário em razão da consumação do prazo decadencial de 120 dias para a impetração do Mandado de Segurança.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DA INAFASTABILIDADE DE JURISDIÇÃO, DA DIGNIDADE DA PESSOA HUMANA, DA LEGALIDADE E DA PROPRIEDADE. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
