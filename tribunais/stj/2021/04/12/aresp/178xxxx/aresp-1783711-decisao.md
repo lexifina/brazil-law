@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INMETRO. ABNT. AUTO DE INFRAÇÃO. PORTARIA 371/2009 DO INMETRO. CERTIFICAÇÃO COMPULSÓRIA. ARMADILHA LUMINOSA ADESIVA. PROVA PERICIAL. NECESSIDADE.
+A fim de ser observado o devido processo legal e para apuração da melhor solução, há necessidade de realização de prova pericial no caso dos autos conforme requerido pelo recorrente" (fl. 362e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 418/425e), os quais restaram rejeitados (fls. 433/437e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 485, § 3º, 489 e 1.022 do CPC/2015, 39 do CDC e 1º e 5º da Lei 9.933/99, sustentando que: a) o acórdão recorrido restou omisso acerca de questão fática relativa a se tratar de produto novo sem certificação, b) legal a conduta adotada pelo INMETRO, sendo desnecessária a produção de prova pericial.
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 461/473e.
+Inadmitido o Recurso Especial (fls. 477/479e), foi interposto o presente Agravo (fls. 489/494e).
+Contraminuta a fls. 499/511e.
+A irresignação não merece prosperar.
+De início, em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que as teses recursais contidas nos arts. 39 do CDC e 1º e 5º da Lei 9.933/99, sequer implicitamente, foramapreciadas pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2.015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.No caso, porém, não obstante conste do Recurso Especial a indicação de contrariedade a referido dispositivo legal, não foi apontada omissão no acórdão sobre o disposto nos arts. 39 do CDC e 1º e 5º da Lei 9.933/99
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+No mérito, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"Dado que a apelante pretende afastar a opinião técnica tida por decisiva pela Administração e pela sentença, e há comprovadamente contradição entre opiniões técnicas da entidade administrativa, apesar de a sentença ter reputado desnecessária a produção de prova pericial judicial, entendo que ela é necessária, sim, para a segura decisão sobre o caso. Ponderando, sobretudo, que o julgado recorrido baseou-se em trocas de e-mail, quer parecer mais adequado que se produza um laudo pericial judicial com a participação dos litigantes em homenagem ao devido processo legal. Desse modo, deve ser dado parcial provimento ao recurso, a fim de que, reabrindo-se a instrução, se produza na origem a prova pericial judicial almejada" (fl. 360e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente, quanto à desnecessidade da prova pericial, somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+I.
