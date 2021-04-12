@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DAVID APARECIDO GONCALVES, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o acusado foi preso, em flagrante, na data de 28/1/2021, pela suposta prática do crime previsto no art. 33,caput, da Lei 11.343/2006. Formulado pedido de liberdade provisória ao Juízo de primeiro grau, com base na tese de que o paciente padece de problema de saúde de ordem pulmonar, foi concedida a benesse ao acusado.
+O Ministério Público estadual manejouRecurso em Sentido Estrito, perante o Tribunal de origem,que lhe deu provimento, paradecretar a prisão preventiva do paciente (e-STJ, fls. 38-46).
+Neste writ, tecendo várias considerações acerca da pandemia do COVID-19, a defesa alega constrangimento ilegal relativo à manutenção da prisão do acusado, uma vez que corre risco de contrair o novo coronavírus no cárcere. Acrescenta que o paciente é pai de três filhos menores, que contam com 9, 7 e 2 anos de idade.
+Requer, inclusive liminarmente, a reforma do acórdão impugnado, para que seja concedida a prisão domiciliar ao paciente.
+É o relatório.
+Decido.
+Esta Corte -HC 535.063, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, verifica-se que osautos revelam que a matéria ora questionada não foi apreciada pelo Tribunal Estadual no julgamento do Recurso em Sentido Estrito 0002122-03.2021.8.26.0114.
+Tal fato impossibilita a sua análise por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito, os seguintes julgados desta Corte:
+"PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. i NÃO CONHECIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO EM EXECUÇÃO PENDENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Este Tribunal possui entendimento pacificado no sentido da aplicação dos princípios da fungibilidade recursal e celeridade processual para receber pedido de reconsideração como agravo regimental, desde que observado o quinquídio legal.
+2. Constata-se que a matéria do presente habeas corpus ainda não foi debatida pelo Tribunal de origem, pois é objeto de agravo em execução pendente de julgamento, não podendo a impetração ser conhecida por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Nesse sentido, entende esta Corte Superior que, não tendo sido analisado o mérito do writ de origem, em razão da pendência de julgamento do recurso competente (agravo em execução), torna-se inviável a apreciação da matéria, diretamente por esta Corte Superior, sob pena de supressão de instância. Precedentes.
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega conhecimento."
+(RCD no HC 594.943/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020).
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. POSSE DE ARTEFATO EXPLOSIVO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA DO DECRETO PRISIONAL. NÃO CONHECIDO. REVOGAÇÃO DA PRISÃO PREVENTIVA EM RAZÃO DA PANDEMIA DA COVID-19. PACIENTE COM DOENÇA CRÔNICA RESPIRATÓRIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ .. III - Quanto à alegação de ausência de fundamentação idônea a justificar a decretação da segregação cautelar do ora agravante, o presente recurso não comporta conhecimento, pois verifica-se que tal pedido não foi conhecido pelo eg. Tribunal de origem por se tratar de reiteração de pedido já julgado em habeas corpus impetrado anteriormente, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob pena de indevida supressão de instância.
+ .. Agravo regimental desprovido."
+(AgRg no RHC 130.645/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2020, DJe 14/09/2020).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. RECEPTAÇÃO. CORRUPÇÃO DE MENORES. EXCESSO DE PRAZO. COMPLEXIDADE DO FEITO. CARTAS PRECATÓRIAS. DESÍDIA ESTATAL NÃO CARACTERIZADA. FUNDAMENTOS DO DECRETO CONSTRITIVO. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA PRISÃO DOMICILIAR. MATÉRIAS NÃO TRATADAS PELO JULGADO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO PARCIALMENTE CONHECIDO, NESTA PARTE, DESPROVIDO.
+ .. 4. O acórdão recorrido não conheceu das teses de ilegalidade da prisão preventiva e de preenchimento dos requisitos necessários para a prisão domiciliar, por se consubstanciarem em reiteração de pedido já analisado em outros habeas corpus na origem. Assim, sob pena de supressão de instância e de violação ao princípio da dialeticidade é vedada a análise dos supostos constrangimentos ilegais.
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta parte, desprovido."
+(RHC 106.612/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/04/2019, DJe 30/04/2019).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
