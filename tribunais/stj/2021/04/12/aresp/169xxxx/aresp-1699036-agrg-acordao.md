@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELA PRESIDÊNCIA DESTA CORTE. POSSIBILIDADE. ARTS. 932 DO CPC E 21-E, V, DO RISTJ. RAZÕES QUE NÃO INFIRMAMO FUNDAMENTO DO DECISUM ATACADO. NÃOOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É possível ao Presidente desta Corte, de forma monocrática, não conhecer de recurso inadmissível, prejudicadoou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, sem que isso configure nulidade ou mesmo ofensa ao princípio da colegialidade, haja vista a existência de previsão legal e regimental para tanto. Precedentes.
+2.As razões do agravo regimental não refutaram o fundamento pelo qual não se conheceu do agravo em recurso especial, qual seja, o manifesto descabimento do agravo de instrumento. Incidência da Súmula 182/STJ.
+3.Agravo regimental não conhecido.
+RELATÓRIO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 476.427/SP (fl. 850).
+Trata-se de agravo regimental interposto porMarcos Gomes da Silvacontra a decisão monocrática daPresidência desta Corte, que não conheceu do agravo em recurso especial, ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+Nas razões do agravo regimental, a defesa do agravantereitera atese de mérito, suscitada no recurso especial, de violação dos arts. 33, § 2º, b, e59do Código Penal,1º e 2ºda Lei n. 12.736/2012 e 387, § 2º, do Código de Processo Penal, citando, ainda, ofensa ao princípio da colegialidade.Pugna, ao final,pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELA PRESIDÊNCIA DESTA CORTE. POSSIBILIDADE. ARTS. 932 DO CPC E 21-E, V, DO RISTJ. RAZÕES QUE NÃO INFIRMAMO FUNDAMENTO DO DECISUM ATACADO. NÃOOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É possível ao Presidente desta Corte, de forma monocrática, não conhecer de recurso inadmissível, prejudicadoou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, sem que isso configure nulidade ou mesmo ofensa ao princípio da colegialidade, haja vista a existência de previsão legal e regimental para tanto. Precedentes.
+2.As razões do agravo regimental não refutaram o fundamento pelo qual não se conheceu do agravo em recurso especial, qual seja, o manifesto descabimento do agravo de instrumento. Incidência da Súmula 182/STJ.
+3.Agravo regimental não conhecido.
+VOTO
+Não procede a alegação de que ojulgamento por decisão monocrática fere a isonomia.
+Como é cediço, ao apreciar agravo que objetiva o processamento de recurso especial, o Relator, nesta Corte Superior, necessita fazer um prévio estudo da viabilidade desse último, além de analisar se a tese encontra alguma plausibilidade jurídica.
+Esse procedimento não é vedado pela legislação processual ou pelo RISTJ (arts. 932 do CPC, 21-E do RISTJ e 38 da Lei n. 8.038/1990).
+Consoante dispõe o mencionado art. 21-E, V, do RISTJ, são atribuições do Presidente do Superior Tribunal de Justiça, antes da distribuição dos feitos aos ministros, não conhecer de recurso inadmissível, hipótese dos autos.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.DECISÃO DA PRESIDÊNCIA DO STJ. PRINCÍPIO DA COLEGIALIDADE. OFENSA.INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Compete ao Presidente do STJ, antes mesmo da distribuição do processo, decidir pelo não conhecimento de recursos inadmissíveis, prejudicados ou que não houverem impugnado especificamente todos os fundamentos da decisão recorrida, nos termos do art. 21-E, inciso V, do RISTJ.
+2. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+3. As razões do agravo regimental não refutaram o fundamento pelo qual não se conheceu do agravo em recurso especial, qual seja, a falta de impugnação específica da ausência de realização do cotejo analítico, que foi um dos óbices utilizados pela Corte de origem para inadmitir o apelo nobre. Aplicação da Súmula n. 182 do STJ.
+4. Ao impugnar os fundamentos utilizados pela Corte de origem para não admitir o recurso especial, busca o Agravante, no presente agravo regimental, suprir as deficiências do agravo em recurso especial, o que se mostra inviável, pela ocorrência de preclusão consumativa.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 1.716.354/SC, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2020)
+Inexiste, assim, irregularidade na decisão impugnada proferida pela Presidência deste Superior Tribunal.
+Noutra vertente, oagravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, positivado no art. 932, III, do Código de Processo Civil, aplicável por força do art. 3º do Código de Processo Penal, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso concreto, as razões do agravo regimental não refutaram o fundamento pelo qual a Presidência desta Corte não conheceu do agravo em recurso especial, qual seja, a interposição equivocada de agravo de instrumento, o qual se destina, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição (fl. 830).
+Assim,o agravante inobservou o disposto no art. 932, III, do Código de Processo Civil, atraindo, com isso, o óbice da Súmula 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO.INOCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS.POSSIBILIDADE DE REAPRECIAÇÃO PELO ÓRGÃO COLEGIADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.CONCESSÃO DA ORDEM DE HABEAS CORPUS PARA ALTERAR A FRAÇÃO DE EXASPERAÇÃO DA PENA-BASE. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Não há se falar em nulidade da decisão agravada por usurpação de competência dos órgãos colegiados, no âmbito desta Corte Superior, porquanto é possível o julgamento monocrático quando manifestamente inadmissível, prejudicado, com fundamento em súmula ou, ainda, na jurisprudência dominante desta Corte Superior, como no caso vertente, exegese do art. 932, incisos III e IV, alíneas "a" e "b", do CPC/2015 e dos arts. 34, inciso XVIII, alínea "a", e 255, § 4º, incisos I e II, do RISTJ e da Súmula n. 568/STJ. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade. Precedentes.
+2. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência dos óbices apontados pela Corte a quo como fundamento para a inadmissão do recurso especial (e-STJ fls.940/941). Nas razões do regimental (e-STJ fls. 942/949), por sua vez, o agravante deixou de infirmar especificamente os fundamentos atinentes aos referidos entraves, reiterando os argumentos relativos ao mérito da controvérsia.
+3. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+ ..
+10. Agravo regimental não conhecido e concedida, de ofício, a ordem de habeas corpus, para, na primeira fase da dosimetria da pena, alterar a fração de exasperação da pena-base para 1/3 (um terço), redimensionando as penas dos recorrentes.
+(AgRg no AREsp n. 1.791.991/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/2/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EXTORSÃO MEDIANTE SEQUESTRO. NÃO INFIRMADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TESE DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. ..
+1. A decisão agravada está calcada nos seguintes fundamentos: a) a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a superveniência da sentença torna superada a tese de inépcia da denúncia; b) aplicação do princípio pas de nulitté sans grief, no tocante à alegação de nulidade por cerceamento de defesa; c) incidência da Súmula 7 do Superior Tribunal de Justiça no que concerne ao pleito para desclassificação do delito de extorsão mediante sequestro para o de extorsão; e d) óbice da Súmula 83/STJ no que diz respeito ao pretenso dissídio pretoriano.
+2. Nas razões do regimental, não foram infirmados esses fundamentos, mas apenas tecidos argumentos acerca de suposta violação aos arts.932, inciso IV, 937, inciso III, e 1.072, inciso IV, ambos do Código de Processo Civil; aos arts. 38 e 39 da Lei n.º 8.038/90; à Súmula 568 do Superior Tribunal de Justiça; aos arts. 34 e 258 do Regimento Interno do STJ; ao art. 8.º, item 2, alínea h, do Pacto de San José da Costa Rica; bem como aos princípios do devido processo legal, da colegialidade e do juiz natural - insculpidos no art. 5.º, inciso XXXVII, LIII e LIV, da Carta Magna, porquanto o agravo em recurso especial não poderia ter sido julgado monocraticamente, mas, sim, levado a julgamento pela Sexta Turma desta Corte Superior de Justiça.
+3. Segundo a orientação firmada nesta Corte Superior de Justiça, pode o relator, monocraticamente, dar ou negar provimento a recurso especial quando houver entendimento dominante sobre a matéria no Tribunal. É o que está sedimentado na Súmula n.º 568 do STJ.Ademais, a possibilidade de submeter a matéria ao exame do órgão colegiado por meio do agravo regimental afasta a arguida ofensa ao princípio da colegialidade. Precedentes.
+ ..
+10. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.337.066/RS, Ministra Laurita Vaz, Sexta Turma, DJe 29/10/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL.VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ.AGRAVO NÃO CONHECIDO.
+1. O entendimento pacífico deste Superior Tribunal de Justiça é no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ.
+3. In casu, o agravante deixou de impugnar o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 182 do STJ.
+4. Tendo em vista a ausência de prejudicialidade do Agravo em Recurso Extraordinário, após o trânsito em julgado, remetam-se os autos ao Supremo Tribunal Federal, conforme determina o art. 1.031, § 1º, do Código de Processo Civil.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.654.619/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/5/2020)
+Ante o exposto, não conheço do agravo regimental.
