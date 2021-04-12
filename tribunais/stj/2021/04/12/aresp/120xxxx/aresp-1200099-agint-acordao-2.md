@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. VALOR EXORBITANTE. REEXAME. POSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Nos embargos à execução julgados sob a égide do antigo estatuto processual, a verba honorária decorrente da sucumbência deve ser arbitrada de forma equitativa, nos termos do art. 20, § 4º do CPC de 1973, devendo o julgador observar o proveito econômico da demanda, não estando adstrito aos percentuais estabelecidos no § 3º do referido dispositivo.
+3. Não se admite o recurso especial para reapreciar honorários advocatícios fixados por equidade (art. 20, § 4º, do CPC de 1973), ante o óbice de Súmula 7 do STJ, exceto quando quantificados em valor flagrantemente irrisório ou exorbitante, como no caso dos autos.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FAZENDA DO ESTADO DE SÃO PAULOcontra decisão de minha lavra, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar provimento ao recurso especial, a fim de reduzir os honorários advocatícios para 1% do valore atualizado do crédito executado (e-STJ fls. 427/431).
+Sustenta a parte recorrente que o valor dos honorários advocatícios foi apreciadopelo Tribunal de origem, o qual já fixou-o no percentual mínimo, de modo que a revisão de tal entendimento esbarra no óbice da Súmula 7 do STJ.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma .
+Impugnação apresentada às e-STJ fls. 462/467.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. VALOR EXORBITANTE. REEXAME. POSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Nos embargos à execução julgados sob a égide do antigo estatuto processual, a verba honorária decorrente da sucumbência deve ser arbitrada de forma equitativa, nos termos do art. 20, § 4º do CPC de 1973, devendo o julgador observar o proveito econômico da demanda, não estando adstrito aos percentuais estabelecidos no § 3º do referido dispositivo.
+3. Não se admite o recurso especial para reapreciar honorários advocatícios fixados por equidade (art. 20, § 4º, do CPC de 1973), ante o óbice de Súmula 7 do STJ, exceto quando quantificados em valor flagrantemente irrisório ou exorbitante, como no caso dos autos.
+4. Agravo interno desprovido.
+VOTO
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No caso, o recurso especial se insurge contra acórdão publicado em 2015 (e-STJ fl. 295), tendo sido apreciado, portanto, conforme as regras do antigo estatuto processual.
+Isso considerado, observa-se que o juízo de primeira instância, em julgamento antecipado da lide (e-STJ fl. 185), julgou improcedente os embargos à execução, fixando os honorários de sucumbência em 15% do valor do débito (e-STJ fl.189).
+O Tribunal de origem reduziu-o para o percentual mínimo de 10% do débito atualizado, nos termos do art. 20 do CPC de 1973, ao fundamento de que não foi motivada a exasperação (e-STJ fls. 266 e 270).
+Quanto ao tema,conforme destacado na decisão agravada (e-STJ fl. 429), esta Corte de Justiça consolidou entendimento de que, nos embargos à execução julgados sob a égide do antigo estatuto processual, como na hipótese em apreço, averba honorária decorrente da sucumbência deve ser arbitrada de forma equitativa, nos termos do art. 20, § 4º do CPC de 1973, devendoo julgador observar o proveito econômico da demanda, ou seja, a diferença entre o valor executado e aquele efetivamente devido, não estando, porém,adstrito aos percentuais estabelecidos no § 3º do referido dispositivo, mas apenas aos critérios previstos em suas alíneas.
+Nesse sentido:AgRg no REsp 1296141/GO, rel.Ministro MAURO CAMPBELL MARQUES, Órgão Julgador T2 - SEGUNDA TURMA, DJe 25/04/201; e(EDcl nos EDcl no REsp 1141554/SC, rel.Ministro RICARDO VILLAS BÔAS CUEVA, Órgão Julgador T3 - TERCEIRA TURMA, DJe 13/05/2016
+É certo que, em regra, o STJ não admite o revisão de juízo de equidade realizado pelo magistrado, uma vez que além de exigir o reexame do históricoprocessual para se mensurar o trabalho realizado pelo causídico, não guarda relação direta com a legalidade da decisão atacada, estando relacionada com a percepção do julgador, que é de cunho subjetivo.
+Entretanto, excepcionalmente este Tribunal admite reapreciar os honorários advocatícios fixados por equidade, quando se mostram flagrantemente irrisórios ou exorbitantes, pois, nessas hipóteses, a violação à norma processual é patente e justifica a intervenção como meio de preservar a aplicação da lei de regência.
+A propósito:AgInt no REsp 1631276 / PE, rel.Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 26/05/2017;AgInt no AREsp 958633 / DF, rel.Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 27/09/2018.
+Considerando o valor integral da multa R$ 559.991,00 (quinhentos e cinquenta e nove mil,novecentos e noventa e um reais )sem correções (e-STJ fl. 12) -o qualdeve ser considerado para aferição dos honorários de sucumbência, haja vista que os embargos à execução foram julgados improcedentes -, a fixação da referida verba em 10% sobre o quantum atualizado do débito mostra-se flagrantemente desproporcional, notadamente se considerada a baixa complexidade do feito (e-STJ fl. 185), ensejando, pois, a mitigação da aplicaçãoda Súmula 7 do STJ, para arbitra-la em 1% do valor atualizado do crédito executado.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
