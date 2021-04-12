@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por NELSON LUCIANO DE CARVALHO TEIXEIRA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 3.321):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO CURAÇAO.CORRÉU CONSIDERADO "FORAGIDO DESDE 2017". SITUAÇÃO PESSOAL DIFERENCIADA DOS DEMAIS CORRÉUS. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA À SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, conforme já esclarecido na decisão agravada, ao que tudo indica,teve sim o recorrente efetiva defesa constituída durante a execução provisória das penas, desde pelo menos a data da propositura do recurso ordinário anterior, ou seja, 18/08/2017, não tendo se apresentado espontaneamente para o início da execução de sua pena, que repita-se,desde o ano de 2017, estava autorizada, ainda que na forma provisória, pois foi encontrado apenas quando em viagem a país que não contemplava sua cidadania. Ademais, acerca da suposta falta de isonomia entre o recorrente e os demais réus da mesma Operação Curaçao, foi esclarecido que o recorrente só veio aos autos pedir a concessão do benefício, após o cumprimento do mandado de prisão, sendo certo que sua condição de "foragido desde 2017" (nas próprias palavras da origem) prejudica o deferimento de benefícios executórios e diferencia de forma negativa a situação do corréu, mesmo em plena pandemia de coronavírus.
+III - No mais, a d. Defesa se limitou a reprisar os argumentos do recurso ordinário em habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+Alega o recorrente que o acórdão combatido não mereceria prosperar, "posto que os argumentos trazidos são incapazes de afastar a incidência do princípio da isonomia" (e-STJ fl. 3.356).
+Sustenta a repercussão geral da matéria posta a julgamento e a violação ao art. 5º, caput e inciso I, da Constituição Federal, no tocante à não aplicação do regime harmonizado concedido aos demais corréus.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às e-STJ fls. 3.402-3.406.
+É o relatório.
+Compulsando os autos, verifica-se que a violação ao art. 5º, caput e inciso I, da Constituição Federal é reflexa, pois depende da análise dos dispositivos infraconstitucionais, notadamente os arts. 33 do Código Penal e 580 do Código de Processo Penal.
+Observa-se que a controvérsia cinge-se à questão da fixação do regime para o início de cumprimento do ora recorrente, estando o acórdão recorrido assim fundamentado (e-STJ fls. 3.343-3.346):
+In casu, conforme já esclarecido na decisão agravada, ao que tudo indica, teve sim o recorrente efetiva defesa constituída durante a execução provisória das penas, desde pelo menos a data da propositura do recurso ordinário anterior, ou seja, 18/08/2017, não tendo se apresentado espontaneamente para o início da execução de sua pena, que repita-se, desde o ano de 2017, estava autorizada, ainda que na forma provisória, pois foi encontrado apenas quando em viagem a país que não contemplava sua cidadania.
+Ademais, acerca da suposta falta de isonomia entre o recorrente e os demais réus da mesma Operação Curaçao, foi esclarecido que o recorrente só veio aos autos pedir a concessão do benefício após o cumprimento do mandado de prisão, sendo certo que sua condição de "foragido desde 2017" (nas próprias palavras da origem) prejudica o deferimento de benefícios executórios e diferencia de forma negativaa situação do corréu, mesmo em plena pandemia de coronavírus.
+ ..
+No mais, o presente agravo se limitou a reiterar as teses do recurso ordinário em habeas corpus, deixando de refutar, ponto por ponto, os argumentos da r. decisão guerreada, caso em que tem aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos.
+Ante o exposto,com fundamento no art. 1.030, inciso I, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário quanto à alegação de ofensa aoart. 5º, caput e inciso I, da Constituição Federal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. REGIME PRISIONAL. ART. 5º, CAPUT E INCISOI, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIODA ISONOMIA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL.RECURSO NÃO ADMITIDO.
