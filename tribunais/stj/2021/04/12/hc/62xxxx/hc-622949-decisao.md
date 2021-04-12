@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido de liminarimpetrado em favor de HERMES MARTINS RAMOS, contra acórdão do Tribunal de Justiça do Estado de São Paulo(Apelaçãon. 0000241-34.2006.8.26.0205).
+O paciente foi condenado àpenade 4anos e 8mesesde reclusão noregime inicial fechadopela prática do delito descrito no art. 148, § 2º, do Código Penal.
+A defesasustenta que houve constrangimento ilegal ao se fixar o regime fechado para o início do cumprimento da pena, bem como que a gravidade abstrata do crime não constitui motivação idônea para justificar regime mais gravoso. Sustenta que inexistem circunstâncias judiciais desfavoráveis peloque cabível o regime semiaberto. Invoca o teor das Súmulas n. 718 e 719 do STF.
+Requer, liminarmente e no mérito, que o paciente seja transferido para o regime semiaberto.
+A liminar foi indeferida (fls. 86-87).
+Foram prestadas informações (fls. 91-224).
+O Ministério Público Federal opinoupelo não conhecimento dowrite, caso dele seconheça, pela denegação da ordem(fls. 227-232).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento deque não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, a sentença absolveu o réu.O TJSP reformou a sentença para condenar o réu e fixar o regime prisional fechadonestes termos (fls. 58-60):
+Por fim, no que tange ao cumprimento da pena deve ser fixado regime inicial fechado para todos, uma vez que, é certo que é incabível que o regime prisional inicial seja outro diverso do fechado, posto que é o único adequado para a prevenção e reprovação de crimes dessa natureza, uma vez a concessão de regime diverso do fechado a autores de crime desta natureza anularia a finalidade intimidante da pena. parágrafo terceiro.
+Ora, o próprio artigo 33, em seu parágrafo terceiro determina que na fixação do regime inicial omagistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Eis que, no caso em tela, os réus não apresentam circunstâncias judiciais favoráveis, vez que mesmo encarcerados por condutas criminosas anteriores, os mesmos, valendo-se de armas de fogo ilegalmente adquiridas, formularam complexo plano de fuga, rebelando-se contra os funcionários públicos que ali estavam, submetendo os mesmos a vexame, obrigando-os a se despirem no local, sendo que, os meliantes não hesitaram em efetuar disparos de arma de fogo em local fechado, expondo à perigo todos os evolvidos, chegando, inclusive, a ferir um dos funcionários que prestava serviço no local, demonstrando assim audácia, preparo e vontade em praticar crimes, além da presença de uma personalidade inteiramente avessa aos preceitos ético-jurídicos que regem a convivência social.
+Assim, a determinação do regime inicial como diverso daquele previsto no artigo 33, § 2º do Código Penal, é faculdade do juiz, que pode dosar a qualidade da pena.
+ ..
+Não obstante, o próprio artigo 33, do Código Penal, em seus parágrafos, é claro em determinar que apenas os condenados não reincidentes podem iniciar o cumprimento da pena em regime aberto ou semiaberto, dependendo do quantum de pena e das circunstâncias do delito.
+Eis que, no caso em tela os corréus, como dito anteriormente, apresentam condenações anteriores, estando presente a circunstância agravante da reincidência, que por vez impede a concessão de regime inicial diferente do fechado.
+Fica patente, portanto, que o regime fechado é o único que se mostra apto para atingir a função preventiva da pena, de inibir a prática de novas ações delituosas.
+Na fixação do regime inicial de cumprimento da pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, e 59 do Código Penal, observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis.
+Ademais, é assente no STJ que, na hipótese em que a pena definitiva é superior a 4 anos e não exceda a 8 anos, sendo reincidente o réu, é cabível a fixação do regime inicial fechado.
+Assim, levando em consideração que a pena definitiva foi fixada em 4anos e 8mesesde reclusão e que o paciente é reincidente, é cabível a fixação de regime imediatamente mais gravoso,que, no caso, deve sero fechado.
+Sobre a questão, vejam-se estes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REITERAÇÃO DE PEDIDO. REGIME INICIAL FECHADO. PENA INFERIOR A 8 ANOS DE RECLUSÃO.RÉU REINCIDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus cujo objeto é parcialmente idêntico ao de impetração, com objeto mais amplo e já julgado por esta Corte Superior de Justiça, caracteriza indevida reiteração de pedido e, portanto, autoriza o indeferimento liminar do writ.
+2. É cabível a fixação de regime inicial fechado ao réu reincidente condenado a pena de reclusão superior a 4 anos e inferior a 8 anos.
+3. Agravo regimental não provido.(AgRg no HC n. 618.013/PB, relatorMinistro RogerioSchiettiCruz, SextaTurma, DJe de 28/10/2020.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO.DOSIMETRIA. REGIME PRISIONAL FECHADO. REGIME PRISIONAL FECHADO DEVIDAMENTE JUSTIFICADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. REINCIDÊNCIA. INTELIGÊNCIA DO ART. 33, § 2º, "B", DO CÓDIGO PENAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. Em que pese tenha sido imposta reprimenda superior a 4 e inferior a 8 anos de reclusão, tratando-se de réu reincidente, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor. Aplica-se ao caso, a contrario sensu, a Súmula 269/STJ, segundo a qual "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+3. Agravo regimental não provido.(AgRg no HC n. 579.032/SP, relatorMinistro RibeiroDantas, QuintaTurma, DJe de 2/6/2020.)
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordemde ofício pelo STJ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
