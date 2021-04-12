@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por CELSO ANTONIO DALASEN e ALESSANDRA DA SILVA DALASEN, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra o acórdão do Egrégio Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL - CONTRATO DE COMPRA E VENDA DE IMÓVEL COM CLÁUSULA DE RESPONSABILIDADE DO VENDEDOR POR VÍCIOS ESTRUTURAIS NO PRÉDIO - RESPONSABILIDADE CONTRATUAL PELO DANO NA CONSTRUÇÃO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.O contrato exige consensos de vontade, que deve ser livre, consciente, de boa -fé e autônoma. Partindo desse pressuposto, pelo princípio da obrigatoriedade dos contrato, o pacto faz lei entre as partes, vinculando-as, de modo que deve ser cumprido, anão ser que haja possibilidade de ser alterado, em casos extremos.Na hipótese, o contrato prevê que os vendedores são responsáveis pela evicção, bem como se comprometeram a arcar, com indenização por eventuais vícios estruturais do prédio, condição que não pode ser ignorada sob a alegação de "cláusula leonina".Em que pese tenha ficado demonstrado no laudo pericial o mau uso da estrutura do imóvel, fazendo aumentar os riscos de danos à casa, os vendedores, ora Apelantes, anuíram com a cláusula contratual indenizatória, que deve ser cumprida, em observância ao princípio da boa-fé contratual.
+Opostos embargos de declaração, foram rejeitados, com aplicação de multa.
+Em suas razões recursais, sustentou-se, além do dissídio, a violação aos arts. 7º, 11, 371, 373, 489 e 1.026, §2º, do CPC. Asseveraram, além da impossibilidade de reconhecimento de intuito protelatório em relação a embargos opostos com intuito prequestionatório, a existência decontrariedade ao laudo pericial. Aduziram inadmissível o reconhecimento deculpa concorrente das partes pelos vícios estruturais quando comprovou-se o agravamento do risco pelo recorrido ao erguer mais um andar no imóvel adquirido. Pediram o provimento do recurso.
+Não houve contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+O recurso especial merece ser em parte conhecido e provido, afastando-se, apenas,a multa do art. 1.026, §2º, do CPC.
+O apelo não pode ser conhecido no tocante aos arts. 7º e11 do CPC, pois não houve a devida demonstração de sua afronta pelo aresto da Corte local, o que revela atraído, por analogia, o enunciado 284/STF.
+Por outro lado, não há conhecer do recurso especial pela alínea "c", pois o recorrente sustentou a existência de dissídio citando precedentes desta Corte Superior como paradigmas a reconhecer que o contexto fático probatório pode ser revalorado em sede de recurso especial, o que nada diz com o mérito do quanto julgado na origem.
+Por outro lado, no tocante à violação aos arts. 371 e 373 do CPC é patente a atração do enunciado 7/STJ.
+A compreensão que a parte deve extrair dos próprios precedentes por ela indicados acerca da revaloração jurídica do contexto fático probatório traçados nas decisões prolatadas na origem é a de será, sim, possível o conhecimento do recurso quando a compreensão do acórdão acerca dos fatos e do direito é bastante para, de per si, sem que se precise revisitar as provas consideradas pela instância de origem, alcançar-se conclusão diversa a que chegaram os julgadores na origem.
+No caso dos autos, o juízo sentenciante e oTJMT reconheceramque os vícios estruturais cuja indenização se busca seriam oriundos, não apenas da extensão do imóvel original, mas da própria construção e que, assim, na forma do que contratado teria responsabilidade, também, o recorrente.
+O juízo asseverou à fl. 213 e-STJ:
+Não obstante ao exposto acima, ainda há o laudo pericial às fls. 121/149 o qual apontou como vícios de construção vazamentos e infiltrações, tendo concluído que a edificação não foi construída de acordo com as normas técnicas (fl. 139), bem como respondeu a todos o quesitos das partes (fls. 140/143), reafirmando que o imóvel não foi construído obedecendo as normas técnicas de engenharia (fl. 142).(..)
+Dessa maneira, a aquisição do bem imóvel com cláusula indenizatória e a negativa da parte requerida em cumprir com o contrato caracteriza a sua responsabilidade, uma vez que restou comprovado o prejuízo sofrido pelo requerente ante o fato de ter adquirido o bem imóvel e este não alcançou as suas expectativas de moradia, levando a ofensa de sua dignidade.
+O acórdão é claro ao expor que a causa dos danos não adviria exclusivamente da ampliação realizada ao afirmar com base nas provas produzidas (fl. 266 e-STJ):
+"Além disso, o perito afirmou que a construção inicial do imóvel se deu com inobservância de determinados padrões da ABNT, e que acabou por intensificar o problema da ampliação realizada.
+No laudo complementar de fls. 162/166, consta ter havido mau uso da laje, pois foi utilizada como piso, para uma sala de estudos e biblioteca, o que potencializou e agravou as anomalias da construção inicial."
+Certamente a revisão da conclusão a que chegou a instância de origem acerca da existência de culpa concorrente entre os contratantes não pode ser levada a efeito por esta Tribunal Superior sem o reexame, apenas, das provas produzidas.
+Não se tem como, em sede de recurso especial, do que consta cristalizado noa sentença e no acórdão recorrido, extrair conclusão diversa daquela em que os danos tem origem em anomalias na construção inicial, elemento a imputar a corresponsabilidade ao vendedor, e também na indevida ampliação do imóvel, fato a imputar a corresponsabilidade ao comprador.
+Por isso, não há violação ao art. 489 do CPC, não se podendo falar em defeito de fundamentação no acórdão recorrido a fazê-lo anulado. Pelo contrário, dali se extrai claramentea ratio decidendi do desprovimento do apelo.
+O fato de se fazer menção também à evicção, instituto que, na verdade, não diz com os vícios estruturais do imóvel, não torna nula a decisão prolatada, pois consentâneos aos fatos, ao contrato eao direito aplicado, os demais fundamentos formulados.
+Por outro lado, não possodeixar de registrar que o acórdão recorrido desprovera o apelo por entender ter o juízo de primeiro grau condenado os demandados a 50% das indenizações postuladas. A propósito, registrou:
+O Juiz de Primeiro de Grau concluiu que o contrato firmado entre as partes previa indenização por parte dos vendedores pelos eventuais vícios estruturais do prédio, além do fato de ter havido alterações no destino da construção, razão pela qual condenou a parte demandada em dano moral e material, na proporção de 50%.(..)
+Desse modo, tenho por irretocável a sentença hostilizada, que sopesou os fatos trazidos pelas partes para considerar o dever de cumprir a cláusula contratual, sem eximir o apelado de sua responsabilidade por ter contribuído, com a ampliação irregular do prédio, para o aparecimento das avarias. (fl. 268 e-STJ)
+Sobre esta interpretação não houve recurso da parte autora, incidindo a preclusão.
+Assim, tenho que o acórdão recorrido não pode ser reformado na conclusão acerca da existência de culpa concorrente, destacando, ainda, a necessidade de se atentar para a interpretação do decisum levada a efeito pela Corte localno sentido de que os réus foram condenados a apenas metade das indenizações apuradas em face, exatamente, da concorrência de culpas reconhecida.
+Finalmente, no tocante à violação ao art. 1.026 do CPC, tenho que o recurso pode ser conhecido e merece ser provido.
+Nos embargos de declaração a parte recorrente postulara, em suma, o aclaramento do acórdão acerca da sua condenação e o prequestionamento, tendo-se ressaltado no aresto dos aclaratórios (fl. 302 e-STJ):
+Como é cediço, a legislação processual vigente não admite a utilização dos embargos de declaração com o intuito de rediscutir questões já apreciadas.
+Ademais, o Acórdão manteve a sentença que condenou as partes a arcar com 50% dos danos morais e materiais, por ter reconhecido a culpa concorrente das partes, o que foi mantido, não .havendo portanto necessidade de rediscussão desse tópico.
+No que tange ao prequestionamento, de acordo com o CPC, a simplesinterposição dos embargos de declaração já é suficiente para prequestionar a matéria(..)"
+Não se sustenta, assim, a aplicação da multa se o próprio acórdão reforça a sua conclusão acerca da condenação e, ainda, refere que a oposição dos embargos seria suficiente para o prequestionamento.
+Ante o exposto, conheço em parte do recurso especial e lhe dou provimento, afastando a multa aplicada, com observação.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL.CONTRATO DE COMPRA E VENDA DE IMÓVEL.
+1. Verificada a existência de culpa concorrente, insindicável a conclusão alcançada pela instância de origem em face do quanto disposto no enunciado 7/STJ.
+2. Da ausência dedemonstração da violação a dispositivos legais indicados no especial impositivaa atração, por analogia,do enunciado sumular 284/STF.
+3. Acórdãos paradigmas não relacionadoscom o mérito do quanto examinado no acórdão recorrido, não se podendo conhecer do dissídio.
+4. Interpretação do decisum pelo acórdão recorrido aser observada, tendo em vista uma, apenas aparente, contradição na sentença.
+5. RECURSO ESPECIAL EM PARTE CONHECIDO E PROVIDO, COM OBSERVAÇÃO.
