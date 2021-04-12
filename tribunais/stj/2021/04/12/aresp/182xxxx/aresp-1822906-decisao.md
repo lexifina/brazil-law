@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA. ENUNCIADO N 182 DA SÚMULA DESTE TRIBUNAL DE JUSTIÇA.
+DESPROVIMENTO DO RECURSO (fl. 272).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 85, §§ 2º e 3º, do CPC, no que concerne ao critério de fixação dos honorários advocatícios, trazendo os seguintes argumentos:
+Com efeito, o artigo 85, §§ 2º e 3º do novo CPC - lei 13.105/2015, estabelece que os honorários advocatícios deverão ser fixados sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível, sobre o valor atualizado da causa, observados os requisitos já mencionados no antigo código, reproduzidos no § 2º.
+Em sendo a Fazenda Pública parte, os honorários igualmente devem observar os critérios estabelecidos no § 2º, sendo o percentual mínimo, em ações cujo valor da causa, ou proveito econômico alcance até 200 salários mínimos (hipótese dos autos), correspondente a 10%.
+ ..
+Diante disso, está superado o entendimento Jurisprudencial do Tribunal de Justiça do Estado do Rio de Janeiro, no tocante à condenação ao pagamento de honorários sucumbenciais nas ações que versem acerca da prestação unificada de saúde (fornecimento de medicamentos, insumos e etc.), pois foi construído sobre pilares não mais existentes no ordenamento jurídico: a utilização do critério da equidade.
+ ..
+Com efeito, na presente demanda o critério a ser aplicado na fixação da verba honorária é aquele estabelecido no mencionado dispositivo, ora tido por violado, devendo ser levado em conta o valor da causa, sobre qual deve incidir o percentual previsto. Não há margem de discricionariedade. A lei é clara. Isto porque, apesar de estarmos diante de um objeto que não é especificamente dimensionado, é mensurável, pois tem expressão econômica.
+Dessa forma, como foi atribuído à causa o valor de R 12.850,00 (doze mil, oitocentos e cinquenta reais) - 14,60 Salários Mínimos -, considerando a tabela supramencionada, o valor a ser arbitrado a título de honorários seria no mínimo o de R (1.285,00) (fls. 335/340).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
