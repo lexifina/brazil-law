@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS REFLEXOS. ENRIQUECIMENTO SEM CAUSA. VALOR DA INDENIZAÇÃO. REVISÃO. DECISÃO DA PRESIDÊNCIA DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 923/930) interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula n. 7 do STJ (e-STJ fls. 918/920).
+Em suas razões, a agravante defende a inaplicabilidade da Súmula n. 7 do STJ, afirmando que "é manifesta a violação ao disposto nos arts. 884 e 944 do Código de Processo Civil e a análise do recurso especial interposto pela ora agravante não depende de qualquer análise de provas ou questões controvertidas" (e-STJ fl. 927).
+Alega que foi condenada "ao pagamento da quantia de R$ 30.000,00 (trinta mil reais), todavia, o valor da condenação extrapola o patamar da razoabilidade e proporcionalidade, pois, repita-se, trata-se de danos morais reflexos" (e-STJ fl. 928).
+Aduz que a Corte local deixou ainda de considerar o acréscimo que os juros de mora e a correção monetária trazem ao valor da condenação.
+Defende o enriquecimento ilícito das partes recorridas e busca a minoração do valor fixado a título de danos morais.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+As agravadas apresentaram impugnação (e-STJ fls. 955/958).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS REFLEXOS. ENRIQUECIMENTO SEM CAUSA. VALOR DA INDENIZAÇÃO. REVISÃO. DECISÃO DA PRESIDÊNCIA DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 918/920):
+Cuida-se de agravo apresentado por DIA BRASIL SOCIEDADE LIMITADA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DANOS MORAIS REFLEXOS - Ação proposta por mãe, irmã e sobrinha da vítima de agressão em supermercado - Procedência parcial do pedido - Inconformismo das partes - Acolhimento parcial apenas do recurso das autoras - Sentença transitada em julgado no juízo criminal condenando o preposto da ré por agressão - Autoras que presenciaram todo o sofrimento físico e moral da vítima, pois residem na mesma casa - Danos morais reflexos configurados - Indenização fixada em R$ 20.000,00 em favor da mãe da vítima e em R$ 10.000,00 em favor da irmã e da sobrinha da vítima - Observância dos princípios da proporcionalidade e da razoabilidade - Juros de mora a partir do evento danoso - Aplicação da Súmula 54 do Colendo Superior Tribunal de Justiça - Sentença parcialmente reformada apenas para fixar a incidência dos juros de mora a partir do evento danoso - Recurso da ré desprovido e recurso das autoras parcialmente provido.
+Quanto à controvérsia, alega violação dos arts. 884 e 944 do CC, no que concerne ao enriquecimento sem causa em razão do valor excessivo fixado a título de dano moral, do qual pleiteia redução com base no seguinte:
+Entende o Recorrente que o v. acórdão contrariou e negou vigência aos artigos 884 e 944 ambos do Código Civil, uma vez que fixou a condenação por danos morais em patamar extremamente excessivo, cujo valor não condiz com as peculiaridades do caso em debate.
+ ..
+In casu, a negativa de vigência aos artigos 884 e 944 ambos do Código Civil, ocorreu em razão da fixação da verba indenizatória em patamar exorbitante, cujo valor não guarda nenhuma relação com as especificidades do caso em debate, razão pela qual este Superior Tribunal de Justiça deverá rever o valor da condenação.
+ ..
+O valor da indenização do dano moral deve ser fixado, respeitando aos princípios da razoabilidade e da proporcionalidade, levando critérios não só sobre condições sociais e econômicas das partes, como também o grau de culpa e a extensão do sofrimento psicológico, de modo que possa significar uma repressão ao ofensor, para que se abstenha de reiterar o mesmo fato danoso, mas não ocasione um enriquecimento injustificado para o lesado.
+ ..
+O Egrégio Tribunal de Justiça de São Paulo não considerou o acréscimo que os juros de mora e a correção monetária trarão para o valor histórico da condenação, razão pela qual o valor não poderá ser mantido, sob pena de causar enriquecimento ilícito por parte das Recorridas.
+Em que pesem os argumentos levantados, já restou esclarecido que, em nosso ordenamento, a indenização por danos morais tem caráter exclusivamente reparador, sendo impossível a adoção do critério de fixação dos punitive damages, proveniente do direito estrangeiro. (fls. 837-841).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  os danos morais reflexos suportados pelas autoras, mãe, irmã e sobrinha da vítima Igor são incontestes. O valor dos danos morais deve ser fixado com moderação, atento o magistrado para as condições financeiras da vítima e do ofensor. Não cabe ao Poder Judiciário, por um lado, fixá-lo em valor exageradamente elevado, permitindo o enriquecimento ilícito da vítima. Não pode, por outro lado, arbitrá-lo em valor insignificante que estimule o agressor a reiterar a prática ilícita. Na correta advertência do Colendo Superior Tribunal de Justiça, "não pode contrariar o bom senso, mostrando-se manifestamente exagerado ou irrisório" (RT 814/167).
+Assim, o valor fixado na sentença (R$ 20.000,00 para Aparecida, mãe de Igor, e R$ 10.000,00 para Claudineia e para Ketllyn, irmã e sobrinha de Igor) não é elevado nem irrisório e se mostra apto a compensar os transtornos e constrangimentos suportados pelas autoras, em efetiva observância aos princípios da proporcionalidade e da razoabilidade (fls. 826-827).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+A Corte local, mediante a análise da prova dos autos, entendeu que, "o valor fixado na sentença (R$ 20.000,00 para Aparecida, mãe de Igor, e R$ 10.000,00 para Claudineia e para Ketllyn, irmã e sobrinha de Igor) não é elevado nem irrisório e se mostra apto a compensar os transtornos e constrangimentos suportados pelas autoras, em efetiva observância aos princípios da proporcionalidade e da razoabilidade" (e-STJ fls. 826/827).
+Consignou que a incidência dos juros de mora deve ser a partir do evento danoso, nos termos da Súmula n. 54 do STJ.
+Nesses termos, para dissentir das conclusões do acórdão recorrido quanto ao valor da indenização e a seus consectários legais, seria necessário reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos da Súmula n. 7 do STJ.
+Conforme entendimento pacífico desta Corte, a modificação do valor do dano moral é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade.
+Corroborando tal entendimento:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS. ACIDENTE DE TRÂNSITO. MORTE. VALOR DA INDENIZAÇÃO. OBSCURIDADE E CONTRADIÇÃO CONFIGURADAS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Consoante entendimento desta Corte Superior, somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não se verifica no caso em debate, em que fixada em 500 salários mínimos à época da prolação da sentença, equivalente a R$ 362.000,00 (trezentos e sessenta e dois mil reais) aos autores, em razão do falecimento do filho adolescente em acidente de veículo automotor, por atropelamento.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para sanar obscuridade e contradição e, com isso, negar provimento ao agravo interno.
+(EDcl no AgInt nos EDcl no AREsp n. 1.196.640/BA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, DJe 5/2/2019.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
