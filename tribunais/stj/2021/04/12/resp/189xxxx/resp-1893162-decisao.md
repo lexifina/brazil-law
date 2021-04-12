@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJMT, assim ementado (fl. 187/188):
+RECURSO DE APELAÇÃO CÍVEL  COM REMESSA NECESSÁRIA - AÇÃO DE OBRIGAÇÃO DE  FAZER - MEDICAMENTO VACINA SUBCUTÁNEA " - PESSOA HIPOSSUFICIENTE - PARECER DO NAT - A VACINA. NÃO É FORNECIDA PELO CRIE - CENTRO DE REFERÊNCIA PARA IMUNOBIOLOGICAS ESPECIAIS - TEMA 106/STJ - RESP1.657.156/STJ - EM REMESSA NECESSÁRIA - RETIFICO INTEIRAMENTE A SENTENÇA PARA JULGAR IMPROCEDENTE A AÇÃO DE BASE - RESTANDO PREJUDICADO O APELO - SENTENÇA RETIFICADA INTEGRALMENTE -A PELO PREJUDICADO.
+1. A saúde é direito de todos e dever do Estado, nos termos do artigo 196 da Constituição Federal," que deve garantir aos cidadãos o fornecimento de todos os meios indispensáveis para manutenção e restabelecimento da saúde.
+2. No julgamento do Resp 1.657.156/SP foi fixada a obrigação do poder público fornecer medicamentos que estão fora da lista do Sistema Único de Saúde (SUS), desde que presentes três requisitos: laudo médico que comprove a necessidade do produto, incapacidade financeira do paciente e registro do remédio na Agência Nacional de Vigilância Sanitária (Anvisa). Embora tenha havido modulação dos efeitos, no sentido de que referidos critérios só serão exigidos nos processos judiciais que forem distribuídos a partir do julgamento, em abril transato, penso não se pode permitir bloqueios de valores para medicamentos não disponibilizados, muito menos para suprimento de mais de ano de tratamento.
+3.  Sentença integralmente retificada para julgar improcedente ação. Apelo prejudicado.
+O recorrente alega violação dos artigos 1º, 2º e 3º da Lei 8.080/90, ao argumento de que é obrigação dosentes estatais o fornecimento de tratamento necessário à saúde da autora, como forma de proporcionara prestação de serviço sociais essenciais que possibilite a existência digna à pessoa humana.
+Em seguida, afirmaa tese constante doREsp 1.657.156/RJ (necessidade do cumprimento cumulativo dos requisitos lá previstos para a concessão de medicamentos não insertos na lista fornecidas pelo SUS)não se aplica aos autos, diante da modulação dos efeitos que lhe fora fixada.
+Assim, defendeterpreenchido os requisitos para o fornecimento de medicamentos, posto que restou incontroverso nos autosa imprescindibilidade do medicamento,a incapacidade financeira da recorrente e o registro da Anvisa.
+Com contrarrazões às fls. 233/243.
+Juízo positivo de admissibilidade às fls. 262/264.
+É o relatório. Passo a decidir.
+Examinando os autos, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem acerca dos dispositivos tidos por violados (artigos 1º, 2º e 3º da Lei 8.080/90), o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ainda que assim não fosse, a Corte de origem, após ampla análise do conjunto fático-probatório, concluiu que não se encontram presentes os requisitos necessários para o fornecimento do medicamento pleiteado, à luz do entendimento firmado pelo STJ no REsp 1.657.156/STJ.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AUSÊNCIA DE REQUISITOS PARA A CONCESSÃO DO FARMACO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
