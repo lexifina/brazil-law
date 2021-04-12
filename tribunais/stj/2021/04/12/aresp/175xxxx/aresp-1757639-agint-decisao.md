@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo Interno, interposto pela FAZENDA NACIONAL, em face de decisão de fls. 290/292e que deu provimento ao Recurso Especial, manejado pela parte ora agravada, para fixar os honorários advocatícios.
+Alega a parte agravante, em síntese, que não cabe, no caso, a condenação em honorários, nos termos do art. 19, § 1º, I, da Lei 10.522/2002 (fls. 296/306e).
+Assiste razão ao agravante.
+Portanto, reconsidero a decisão impugnada e passo a nova análise do Agravo em Recurso Especial.
+Trata-se de Agravo em Recurso Especial, interposto por RSC SUPERMERCADO LTDA, em face de decisão que inadmitiu Recurso Especial manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. HONORÁRIOS DE ADVOGADO. RECONHECIMENTO DO PEDIDO. LEI  10.522, DE 2002.
+1. O afastamento da condenação da União ao pagamento de honorários de advogado, com base no art. 19 da Lei nº 10.522, de 2002, somente ocorre quando houver o reconhecimento integral da procedência do pedido e não for ofertada resistência à pretensão da parte.
+2. Apelo não provido" (fl. 129e).
+RSC SUPERMERCADO LTDA alega, no Recurso Especial, divergência jurisprudencial e violação aos arts. 85, caput, e incisos, e 90, § 4º, ambos do CPC/2015 e 19, § 1º, I, da Lei 10.522/2002, sustentando, em síntese, que deve ser a Fazenda pública condenada ao pagamento dos honorários sucumbenciais, haja vista que não se aplica o § 1º do art. 19 da Lei 10.522/2002, no caso dos autos, em que a extinção da execução fiscal somente ocorreu em decorrência da oposição de exceção de pré-executividade (fls. 141/165e).
+Apresentadas as contrarrazões (fls. 191/193e), o Recurso Especial foi inadmitido (fls. 206/208e), o que ensejou a interposição do presente Agravo (fls. 216/214e).
+Na origem, trata-se de "recurso de apelação contra sentença que acolheu a exceção de pré-executividade, reconhecendo a prescrição do crédito exequendo, nos termos do art. 487, II, do CPC. Não houve a condenação em honorários advocatícios" (fl. 131e).
+O Tribunal a quo negou provimento à apelação, mantendo a sentença que deixou de condenar a União ao pagamento de honorários de sucumbência (fls. 129/133e).
+Daí a interposição do Recurso Especial, que não merece prosperar.
+Com efeito, o entendimento da jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não cabe a condenação em honorários advocatícios quando a execução fiscal é extinta com base na prescrição intercorrente, sem resistência da exequente.
+Nesse sentido:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS EM FAVOR DO DEVEDOR. DESCABIMENTO. RECONHECIMENTO DO PEDIDO. INOCORRÊNCIA.
+1. O reconhecimento da prescrição intercorrente não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação. Precedentes.
+2. Hipótese em que, extinta a execução fiscal com base na prescrição intercorrente, sem resistência da exequente, não é possível reconhecer que a parte devedora sagrou-se vencedora na demanda e, por conseguinte, que obteve algum proveito econômico da Fazenda Pública credora, a justificar que essa venha a pagar honorários advocatícios.
+3. Inocorrência de reconhecimento do pedido pela Fazenda Pública, nos termos do que dispõe o art. 90 do CPC, pois o ente fazendário apenas concordou com fato que ocorreu no curso processual (prescrição intercorrente).
+4. Agravo interno desprovido" (STJ, AgInt no REsp 1.849.437/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/10/2020).
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO DA EXTINÇÃO DO CRÉDITO TRIBUTÁRIO, PELA FAZENDA NACIONAL. OMISSÃO NÃO CONFIGURADA. ART. 19, § 1º, I, DA LEI 10.522/2002, COM A REDAÇÃO DA LEI 12.844/2003. NÃO CABIMENTO DA CONDENAÇÃO AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS.
+1. O acórdão recorrido consignou: "Primeiramente, observo que foi o executado quem deu causa ao processo, em razão do inadimplemento das suas obrigações tributárias, não tendo a Fazenda feito mais do que cumprir a sua obrigação legal ao ajuizar a execução fiscal. Ademais, a alegação de prescrição intercorrente foi imediatamente reconhecida pela exequente, de forma que não houve qualquer litígio a justificar a condenação em honorários advocatícios. Assim, deve ser negado provimento à apelação" (fl. 377, e-STJ).
+2. O Tribunal de origem, confirmando a sentença, excluiu o arbitramento da verba honorária porque verificou que, em resposta à Exceção de Pré-Executividade, a Fazenda Nacional expressamente reconheceu a ocorrência de prescrição intercorrente.
+3. Não merece acolhida a pretensão veiculada (arbitramento de honorários advocatícios no contexto específico em que ocorreu a extinção da Execução Fiscal).
+4. Desde quando entrou em vigor a Lei 12.844/2003, se a Fazenda Nacional, ao responder à Exceção de Pré-Executividade, expressamente manifestar concordância com a tese do executado/excipiente, não há condenação ao pagamento de honorários advocatícios. Precedentes do STJ.
+5. A sentença extintiva do feito foi proferida em 15.2.2018 (fls. 327-332, e-STJ), quando já estava em vigor a norma do art. 19, § 1º, da Lei 10.522/2002, com a redação da Lei 12.844/2013.
+6. O recurso repetitivo foi julgado em 2010, quando era materialmente impossível a solução do caso ser feita com a interpretação do regime jurídico específico, que só veio a ser implementado em 2013 (Lei 12.844/2013, modificando a redação do art. 19, § 1º, da Lei 10.522/2002).
+7. No julgamento do recurso repetitivo constou expressamente que "embora possível a condenação em honorários, deve ser observado, em cada caso, o princípio da causalidade, conforme já pacificado no STJ no julgamento do REsp 1.111.002/SP".
+8. Essa circunstância foi respeitada no caso concreto, em que o Tribunal de origem expressamente invocou o referido princípio para afastar o arbitramento da verba honorária.
+9. Recurso Especial não provido" (STJ, REsp 1.838.973/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/11/2019).
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA PROIBIÇÃO DA REFORMA PARA PIOR.
+1. Cuida-se de agravo interno por meio do qual o executado, em razão da decretação da prescrição intercorrente, postula a fixação de honorários advocatícios com base no "proveito econômico obtido", isto é, o montante que deveria adimplir se a execução chegasse ao seu termo natural.
+2. Consoante a jurisprudência de ambas as Turmas que compõem esta 2ª Seção, a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Precedentes.
+3. Hipótese dos autos em que, contudo, mostra-se inviável a imputação das verbas de sucumbência à parte executada, ante o princípio da vedação da reforma para pior (non reformatio in pejus).
+4. Agravo interno não provido" (STJ, AgInt nos EDcl nos EAREsp 957.460/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 20/02/2020).
+Ante o exposto, reconsidero a decisão de fls. 290/292e, e, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo em Recurso Especial interposto por RSC SUPERMERCADO LTDA, para negar provimento ao Recurso Especial.
+I.
