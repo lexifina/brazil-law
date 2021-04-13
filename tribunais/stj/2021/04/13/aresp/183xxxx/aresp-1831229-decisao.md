@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCIANA CESTONARI GALEANE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CERCEAMENTO DE DEFESA - Situação não ocorrente - Desnecessidade de produção doutras provas - Possibilidade de julgamento antecipado.
+MONITÓRIA - Contrato de prestação de serviços educacionais - Ilegitimidade de parte não verificada - Ausência de requerimento formal para trancamento/desistência do curso - Valor reclamado devido - Sentença mantida - Recurso desprovido.
+Quanto à controvérsia, alega violação dos arts. 7º, 9º, 10 e 369 do CPC, atinente ao cerceamento do direito de defesa, trazendo o seguinte argumento:
+A r. decisão apelada, em primeiro plano e, posteriormente, o v. acórdão, violaram, data máxima vênia, diretamente o disposto nos artigos 7, 9, 10 e 369, todos do Código de Processo Civil, ao, respectivamente, julgar antecipadamente o feito e mantê-lo hígido, sem oportunizar à recorrente seu constitucional direito de ampla defesa e contraditório Depreende-se dos autos que a recorrente, oportunamente, apresentou contestação argumentando, entre outras questões, matéria de fato que demandaria prova oral a respeito, mormente ser indevido o valor exigido.
+ ..
+Todavia, sentença e v. acórdão, em absoluta violação a legislação federal vigente, mormente artigos 7, 9, 10 e 369, do CPC, indeferiram as provas requeridas.
+O v. acórdão guerreado ao indeferir a produção de prova, violou frontalmente a legislação federal vigente, bem como a melhor doutrina e jurisprudência hodiernas (fls. 116/117).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+2. Não se cerceou defesa os fatos, quais documentalmente postos, denotaram da falta de proveito de produção doutras provas, sob pena de protelação. Aqui, incide o art. 370 do CPC. Lembre-se de que a prova se destina ao juiz, não às partes. Por outro lado, a questão tornou-se, diante da evidência documental, de direito, a impor decisão correlata sem mais demora.
+ ..
+Apelação infundada. Não há se falar em ilegitimidade passiva.
+Exame do contrato de prestação de serviços de fls. 25/28 aponta que, consoante cláusula quinta, parágrafo primeiro (fl. 26), tanto a ré quanto o responsável legal que igualmente assinou a avença assumiram os pagamentos correlatos das prestações. Há clara solidariedade entre os envolvidos, com o que descabida a argumentação.
+ ..
+A apelante não comprovou ter formalizado pedido expresso e por escrito de desistência do curso. E a monitória exige parcelas vencidas no ano de 2014, até mesmo com prova de alguma frequência e obtenção de notas (fl. 30). Não atentou a recorrente, segundo se verifica, para a cláusula contratual expressa, escrita em linguagem objetiva e de fácil entendimento, no sentido da necessidade formal de que a solicitação fosse efetivada. Além disso, a apelante é pessoa esclarecida, logrando obter aprovação em curso de bom nível técnico; com o que, não poderia afirmar desconhecimento a respeito daquilo que subscreveu.
+Não era caso, portanto, de se desconsiderar a necessidade de pagamento das mensalidades respectivas, conforme claramente estipulado no contrato. Não há prova alguma de que outro aluno foi inscrito ou assistiu aulas no lugar da apelante (fls. 108-110).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Além de as provas requeridas em primeiro grau não interferirem na motivação apresentada pela Justiça estadual, a pretendida reforma do aresto, no caso concreto, para reconhecer o cerceamento do direito de defesa e a necessidade de coletar mais provas em decorrência da insuficiência dos elementos constantes dos autos esbarra na vedação da Súmula n. 7 do STJ. Precedentes." (AgInt no AREsp 513.020/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 23/2/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
