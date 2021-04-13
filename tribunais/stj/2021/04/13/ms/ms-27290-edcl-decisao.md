@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão deste Relator que indeferiu liminarmente o mandado de segurança, por entender incidente a Súmula 267/STF e prejudicado o mandamus.
+Em suas razões recursais, a ora embarganterequer, em suma:"1) A reconsideração da v. DECISÃO de indeferimento do MS 27290/DF (2021/0034930-6), pelas razões abaixo apontadas; e2) Seja suprida a omissão tocante ao pleito da letra d) do presente writ, onde se pede: "d) Como pedido alternativo sucessivo, anular todos os atos processuais a partir da rejeição dos embargos de declaração e da apelação rejeitados por uma outra gritante e ilegal (sem respaldo de uma regra processual) apelidada de recurso prematuro"."
+Devidamente intimada, a parte embargada não apresentou impugnação.
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022), sendo inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+In casu, inexistem os vícios apontados nos declaratórios.
+Na decisão ora embargada, ficou consignado:
+O mandado de segurança é ação constitucional voltada para a proteção de direito líquido e certo próprio do impetrante contra ato abusivo ou ilegal de autoridade pública ou de agente de pessoa jurídica no exercício de atribuições do Poder Público (CF, art. 5º, LXIX), não podendo, em regra, ser utilizado como sucedâneo recursal.
+Por essa razão, o art. 5º, II, da antiga Lei do Mandado de Segurança (Lei 1.533/51) dispunha que "não se dará mandado de segurança quando se tratar de despacho ou decisão judicial, quando haja recurso previsto nas leis processuais ou possa ser modificado por via de correição". Também a atual Lei do Mandado de Segurança (Lei 12.016/2009), em seu art. 5º, II, disciplina que "não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo". Além disso, a Súmula 267/STF estabelece que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+No caso em exame, o ato judicial impugnado, consubstanciado na decisão monocrática, proferida pelo eminente Ministro Luis Felipe Salomão, que rejeitou os segundosembargos declaratórios opostos nos EAREsp 1.371.189/CE e aplicou a multa prevista no art. 1.026, 3º, do CPC de 2015, não é passível de mandado de segurança, porquanto enseja a interposição de recurso.
+Na hipótese, registre-se, o recurso específico e cabível contra a referida decisão foi interposto pelo ora impetrante, o agravo interno de fls. 1.280/1.297, constante dos autos do aludido EAREsp.
+Portanto, incide aSúmula 267/STF (Não cabe mandado de segurança contra ato judicial passível de recurso ou correição). A propósito:
+(..)
+É salutar ressaltar, ademais, que o referido Agravo Interno interposto pelo ora impetrante no EAREsp 1.371.189/CE foi julgado recentemente pela colenda Segunda Seção, na sessão do último dia 10/2/21, tendo concluído aquele órgão julgador, por maioria de votos, por negar provimento ao recurso, confirmando a decisão ora combatida em todos os seus termos, inclusive quanto à imposição da multa.
+Nesse contexto, a decisão monocrática impetrada já não subsiste por si, pois foi substituída no mundo jurídico por outro ato judicial advindo de órgão julgador mais amplo: o acórdão proferido pela colenda Segunda Seção, que a confirmou integralmente, o qual também poderá ser impugnado pelo instrumento processual cabível e adequado.
+Desse modo, não há como afastar na hipótese, além da incidência da Súmula 267/STF, a conclusão de perda de objeto do presente mandamus.
+Diante do exposto, com fundamento no art. 10 da Lei 12.016/2009 c/c arts. 34, XIX e 212 do RISTJ, indefiro liminarmente o mandamus, ficando prejudicado o pedido liminar formulado no presente writ.
+Não está configurado, portanto, nenhum dos vícios previstos no art. 1.022 do CPC de 2015.
+Nos termos da jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Por derradeiro, saliente-se que eventual inconformismoda ora embargante em relação ao resultado do julgamento monocrático do presente mandamus,deve ser agora sanado por meio da utilização deinstrumentojudicialcabível, capazde impugnar efetivamente a decisão.
+Como dito na decisão ora embargada, o ato judicial monocrático, impugnado neste mandamus,foi substituído por outro, do colegiado da colenda Segunda Seção. Descabe, assim, cogitar-se do exame de pedido alternativo sucessivo.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
