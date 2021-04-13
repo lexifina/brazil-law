@@ -1,0 +1,19 @@
+DECISÃO
+WILLIAN CRISTIANO DE ALMEIDA alega sofrer coação ilegal, em decorrência da manutenção da prisão cautelar, em acórdão proferido peloTribunalde Justiça do Estado do Paraná, nos autos do HC n.0062268-74.2020.8.16.0000.
+A defesa pretende a soltura ou a aplicação do art. 319do CPPao paciente - denunciado pela suposta prática de furtos qualificados e homicídios simples tentados -, sob o argumento de ausência de fundamentação concreta idônea para a imposição dacustódia cautelar.
+Todavia, o Juízo de Direito, ao decidir, destacou que o insurgente, "apesar de não ser reincidente, foi solto recentemente e também responde a dois processos que já tiveram sentenças condenatórias contra o mesmo em 1º grau de jurisdição" (fl. 77).
+O referido Juízo, ainda, ao indeferir o pleito de revogação da custódia, ressaltou a periculosidade do acusado, "haja vista que estava em cumprimento de pena quando de sua prisão em flagrante" (fl. 80).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficientee concretapara decretar a prisão preventiva, ao salientaro risco de reiteração delitiva do réu, evidenciado pelas notícias de que estava em cumprimento de pena à época em que foi preso e que possui condenações por tráfico de drogas e por posse irregular de arma de fogo de uso permitido.
+O STJ, em casos similares, entende que aexistência de inquéritos, ações penais em curso ou condenações definitivas denotam a possibilidade de que, solto, o investigado reitere as condutas criminosase, assim, são fundamentação apta a justificar a segregação cautelar. Confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. LEGALIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE.REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA.AGRAVO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso dos autos, a prisão foi decretada como forma de acautelar a ordem pública, haja vista a referência ao fato de que o agravante, que recentemente alcançou a maioridade, possuía outras passagens pela prática de atos infracionais análogos aos crimes de roubo e porte ilegal de arma de fogo de uso restrito. Mostra-se inequívoco, dessa forma, o risco de que, solto, perpetre novas condutas ilícitas. Desse modo, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública e de cessar a reiteração delitiva.
+3. Como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 133.966/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 3/12/2020)
+Pelas mesmas razões acima externadas, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
