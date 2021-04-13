@@ -1,0 +1,65 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSO FALIMENTAR. ART. 104, III, DA LEI Nº 11.101/05. AUTORIZAÇÃO PARA VIAGEM INTERNACIONAL. INDÍCIOS DE CRIME FALIMENTAR. AUSÊNCIA DE INDICAÇÃO DE PROCURADOR. ORDEM DENEGADA.
+1. Não é possível, na via do habeas corpus, a análise de alegações sobre o mérito do processo falimentar.
+2. O constrangimento à liberdade do paciente - indeferimento de pedido de viagem ao exterior - encontra fundamento nas provas dos autos da ação falimentar, pois a restrição está amparada no art. 104, III, da Lei 11.101/2005, diante da não colaboração com o andamento do processo de falência, da ausência de apresentação de procurador, bem como da notícia de fortes indícios da prática de crimes falimentares.
+3. Recurso a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira, Luis Felipe Salomão (Presidente) e Raul Araújo votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+Sustentou oralmente o Dr. JOÃO LUIZ DE ALENCAR MACHADO MAIA, pela parte RECORRENTE: JAIR MARCHESINI
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de recurso ordinário interposto em face de acórdão que concedeu parcialmente o habeas corpus para permitir a renovação do passaporte, mantendo-se o impedimento à viagem internacional em processo falimentar, mediante acórdão assim ementado:
+"HABEAS CORPUS REPRESSIVO. PROCESSO DE FALÊNCIA. DECRETO DE QUEBRA DA SOCIEDADE EMPRESÁRIA. SÓCIO DIRETOR. INDEFERIMENTO DE RENOVAÇÃO DE PASSAPORTE E DE VIAGEM INTERNACIONAL (ANGOLA), PARA ALEGADOS FINS PROFISSIONAIS. INTELIGÊNCIA DO ART.104, III, DA LEI FEDERAL N.º 11.101/2005. DESCABIMENTO DO ÓBICE À RENOVAÇÃO DE PASSAPORTE. JURISPRUDÊNCIA DO C. SUPERIOR TRIBUNAL DE JUSTIÇA. VIAGEM INTERNACIONAL. PACIENTE QUE NÃO COLABORA COMO TRÂMITE DO PROCESSO DE FALÊNCIA. FORTES INDÍCIOS DE PRÁTICA DE CRIMES FALIMENTARES. AUSÊNCIA DE INDICAÇÃO DE PROCURADOR PARA REPRESENTAR O PACIENTE DURANTE SUA AUSÊNCIA. INEXISTÊNCIA DE PRAZO DETERMINADO PARA RETORNO AO BRASIL. COAÇÃO ILEGAL À LIBERDADE DE LOCOMOÇÃO CONFIGURADA, TÃO SOMENTE, NO TOCANTE AO PASSAPORTE. ORDEM PARCIALMENTE CONCEDIDA."
+Em suas razões, afirmou que a jurisprudência "é clara no sentido de permitir o livre trânsito dos sócios falidos ao exterior, ainda que para fixar domicílio, sem a anuência do juízo, se fazendo necessário meramente que seja informado previamente".
+Afirmou que "não era administrador de direito ou de fato e jamais teve poder decisório, lugar físico na empresa ou qualquer coisa que indicasse sua ingerência sobre os negócios", de modo que "não se lhe pode exigir que entregue documentos que jamais estiveram com ele, e, quando da transferência da posse ao administrador, tudo estava a cargo do Sr. Pedro Barenboim que era quem estava à frente dos negócios."
+Pugnou, assim, pela possibilidade de viajar ao exterior, mantendo-se somente o dever de informar.
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso.
+É o relatório.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSO FALIMENTAR. ART. 104, III, DA LEI Nº 11.101/05. AUTORIZAÇÃO PARA VIAGEM INTERNACIONAL. INDÍCIOS DE CRIME FALIMENTAR. AUSÊNCIA DE INDICAÇÃO DE PROCURADOR. ORDEM DENEGADA.
+1. Não é possível, na via do habeas corpus, a análise de alegações sobre o mérito do processo falimentar.
+2. O constrangimento à liberdade do paciente - indeferimento de pedido de viagem ao exterior - encontra fundamento nas provas dos autos da ação falimentar, pois a restrição está amparada no art. 104, III, da Lei 11.101/2005, diante da não colaboração com o andamento do processo de falência, da ausência de apresentação de procurador, bem como da notícia de fortes indícios da prática de crimes falimentares.
+3. Recurso a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, anoto que a questão em debate versa somente sobre a alegada ilegalidade do impedimento decretado ao recorrente de viajar internacionalmente, com base no artigo 104, III, da Lei nº 11.101/05, em processo falimentar, diante da parcial concessão da ordem para permitir a renovação do passaporte.
+O impedimento ao paciente de viajar ao exterior (Angola) foi decretado em processo de falência em que houve a quebra de sociedade empresária da qual é sócio diretor, havendo "fortes indícios de prática de crimes falimentares" segundo a Corte de origem.
+Para a devida compreensão da controvérsia, transcrevo trecho pertinente do acórdão recorrido (fls. 46/49 e-STJ):
+"06. Com efeito, o art. 104 da Lei Federal n.º 11.101/2005 lista, em seus 12 (doze) incisos, deveres exigíveis do falido, constando, dentre eles, o de "(..) não se ausentar do lugar onde se processa a falência sem motivo justo e comunicação expressa ao juiz, e sem deixar procurador bastante, sob as penas cominadas na lei (..)" (inciso III).
+07. Essa regra legal tem por escopo o regular andamento do processo de falência, o qual não pode ser prejudicado por ausências repentinas e inoportunos do falido, mas é preciso observar que não caracteriza espécie de pena, nem tampouco justifica grave restrição à liberdade de locomoção do ora paciente, a ponto de, no caso, vedar a renovação de passaporte, documento este que é emitido desde que preenchidos os requisitos exigidos pela Policia Federal.
+08. Sobre o tema, confiram-se os seguintes precedentes do colendo Superior Tribunal de Justiça:
+(..)
+09. Assim, consubstancia coação ilegal à liberdade de locomoção a decisão judicial que obstou a renovação de passaporte.
+10. Já no tocante à viagem internacional (Angola), para alegados fins profissionais, não se trata de coação ilegal, porquanto, neste específico ponto, a decisão judicial evidencia razoabilidade e proporcionalidade, princípios estes que norteiam os pronunciamentos judiciais, além de se mostrar cauta diante das circunstâncias fáticas do caso concreto.
+11. Isto porque o paciente não indicou procurador com poderes para representá-lo durante sua ausência, nem há informação sobre o tempo de afastamento do país, convindo observar que, nos termos do instrumento contratual de trabalho (Anexo 01, indexador n.º 33, fls. 33), o prazo do vínculo trabalhista é indeterminado, ou seja, não é certo que a ausência seja desinfluente para o regular andamento do processo de falência.
+12. Ademais, conforme consignou a d. Procuradora de Justiça:
+"O que realmente consta nos autos é que o paciente, após mais de 04 anos de inércia, somente compareceu à audiência para renovação de passaporte e autorização de saída do país, sendo que neste período não colaborou com o processo de falência, havendo inclusive notícia de fortes indícios de prática de crimes falimentares." (Literalmente, fls. 30, indexador n.º 27)
+13. Ora.. a permissão para que o paciente viaje ao exterior viria como espécie de prêmio a quem não aparenta colaborar com o trâmite do feito originário e, em tese, praticou crimes falimentares, convindo, a respeito, volver à Jurisprudência da colenda Instância Especial calcada em ilustrativo aresto:
+(..)
+14. Tudo bem ponderado, voto no sentido de conceder parcialmente a ordem de habeas corpus, a fim de assegurar apenas o direito do paciente de renovar o seu passaporte, desde que obedecidos os requisitos exigíveis para tanto, mantendo, contudo, o impedimento à viagem internacional (Angola) pretendida."
+Com efeito, verifico que pedido de autorização para realização de viagem internacional foi indeferido pelo magistrado do Juízo falimentar, com fundamento no inciso III do artigo 104 da Lei de Falências, que possui a seguinte redação:
+"Art. 104. A decretação da falência impõe aos representantes legais do falido os seguintes deveres:
+III - não se ausentar do lugar onde se processa a falência sem motivo justo e comunicação expressa ao juiz, e sem deixar procurador bastante, sob as penas cominadas na lei;"
+No caso em debate, observo que o indeferimento da autorização para viagem encontra fundamento nas provas dos autos da ação falimentar, dada a necessidade de assegurar o andamento do processo falimentar, considerando a falta de colaboração do paciente durante sua tramitação e a ausência de apresentação de procurador bastante, bem como a notícia de fortes indícios da prática de crimes falimentares.
+Consta, ainda, que sequer houve indicação da data de retorno da viagem, para assumir relação de trabalho por prazo indeterminado, e que o recorrente se manteve inerte, sem colaborar com o processo, por mais de 4 anos, manifestando-se o MPF pela manutenção do impedimento (fls. 126/127 e-STJ):
+"7. A pretensão recursal é de reconhecimento do direito do recorrente em realizar viagem internacional de cunho laboral.
+8.Ocorre que o acórdão atacado, ao analisar o material probatório dos autos, destacou que o recorrente não tem contribuído com o processo de falência da empresa no qual é Sócio- Diretor, além de existirem sérios indícios da prática de crimes falimentares, bem como afirmou que não foi indicado procurador para representação processual e nem data de retorno da viagem. Confira-se (fls. 47/48):
+"10. Já no tocante à viagem internacional (Angola), para alegados fins profissionais, não se trata de coação ilegal, porquanto, neste específico ponto, a decisão judicial evidencia razoabilidade e proporcionalidade, princípios estes que norteiam os pronunciamentos judiciais, além de se mostrar cauta diante das circunstâncias fáticas do caso concreto.
+11. Isto porque o paciente não indicou procurador com poderes para representá-lo durante sua ausência, nem há informação sobre o tempo de afastamento do país, convindo observar que, nos termos do instrumento contratual de trabalho (Anexo 01, indexador n.º 33, fls. 33), o prazo do vínculo trabalhista é indeterminado, ou seja, não é certo que a ausência seja desinfluente para o regular andamento do processo de falência.
+12. Ademais, conforme consignou a d. Procuradora de Justiça:
+"O que realmente consta nos autos é que o paciente, após mais de 04 anos de inércia, somente compareceu à audiência para renovação de passaporte e autorização de saída do país, sendo que neste período não colaborou com o processo de falência, havendo inclusive notícia de fortes indícios de prática de crimes falimentares."
+9.A jurisprudência dessa Corte Superior de Justiça tem afirmado que diante de indícios de crimes falimentares, incabível a autorização para viagem internacional de responsáveis pela empresa, em garantia da apuração do crimes falimentares.
+Confira-se:
+(..)
+10.Ademais, o recorrente não apresentou procurador para representá-lo judicialmente e nem informou a data de retorno da viagem internacional, devendo ser mantido o indeferimento da autorização para viagem internacional, nos termos do artigo104 da Lei 11.101/2005.
+11. Ante o exposto, o Ministério Público Federal opina pelo desprovimento do recurso ordinário constitucional."
+Ademais, assinalo que o recorrente sequer refuta o não cumprimento das exigências legalmente previstas, limitando-se a pleitear o respeito apenas ao dever de informar, de modo que suas alegações corroboram, inclusive, no sentido da legalidade do ato do magistrado, de modo que não se encontram presentes os requisitos previstos no artigo 5º, LXVIII, da Constituição Federal.
+A propósito:
+HABEAS CORPUS. DECLARAÇÃO DE NULIDADES EXISTENTES EM PROCESSO FALIMENTAR. INADEQUAÇÃO DA VIA ELEITA. AUTORIZAÇÃO PARA SE AUSENTAR DO LOCAL DA FALÊNCIA. VIAGEM INTERNACIONAL. ORDEM DENEGADA.
+1. Não é possível, na via estreita do habeas corpus, a análise das alegações de supostas nulidades processuais existentes em processo falimentar.
+2. O constrangimento à liberdade do paciente - proibição de viajar ao exterior - encontra fundamento nas provas dos autos da ação falimentar, pois a restrição está amparada na necessidade de assegurar a apuração da possível ocorrência de crime falimentar, e, contrariamente ao que alegam os impetrantes, por reiterado desrespeito seja ao inciso III do artigo 34 da Lei 7.661/45, vigente à época da decretação da quebra, seja ao atual art. 104, III, da Lei 11.101/2005.
+3. Ordem denegada.
+(QUARTA TURMA, HC 121.107/PB, de minha relatoria, julgado em 4/11/2014, DJe 13/11/2014)
+Confiram-se, ainda, os seguintes julgados: HC 525.378/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/9/2019, DJe 11/10/2019; RHC 80.124/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/5/2020, DJe 3/6/2020.
+Por fim, nos termos do inciso LXVIII do artigo 5º da Constituição Federal, o habeas corpus serve para sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção, e a análise da alegação de que "não era administrador de direito ou de fato e jamais teve poder decisório" demanda reexame de matéria fático-probatória, que não cabe na via do writ. (AgInt no RHC 102.034/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/4/2019, DJe 6/5/2019).
+Em face do exposto, nego provimento ao recurso ordinário.
+É como voto.
