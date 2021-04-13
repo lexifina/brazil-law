@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA ECONÔMICA FEDERALcom fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Regiãoassim ementado:
+"PROCESSO CIVIL. AGRAVO PREVISTO NO ART. 557, § 1º, DO CPC. DECISÃO QUE REJEITOU AS PRELIMINARES E NEGOU SEGUIMENTO AOS RECURSOS INTERPOSTOS PELAS RÉS, NOS TERMOS DO ART. 557, CAPUT, DO CPC. DECISÃO MANTIDA.
+1. Para a utilização do agravo previsto no artigo 557, parágrafo 1º, do Código de Processo Civil, deve-se enfrentar especificamente a fundamentação da decisão, ou seja, deve-se demonstrar que aquele recurso não é manifestamente inadmissível, improcedente, prejudicado ou não está em confronto com súmula ou com jurisprudência deste Tribunal ou das Cortes Superiores.
+2. No caso, a decisão agravada negou seguimento aos recursos interpostos pelas rés, nos termos do artigo 557, caput, do Código de Processo Civil, em conformidade com: a) o entendimento pacificado pelos Tribunais Regionais, no sentido de que, nada obstante a obrigação do pagamento do seguro incumbir à seguradora, a CEF está, em consequência, obrigada a dar quitação do financiamento relativo ao imóvel, e impedida de executar o mutuário, nisso residindo a sucumbência da empresa pública, até porque, no caso dos autos, a mutuante foi condenada na restituição dos valores indevidamente cobrados, desde o evento morte do mutuário, não se aplicando, à espécie, a jurisprudência invocada em razões de agravo (TRF - Terceira Região, Turma Suplementar da Primeira Seção, AC nº 98.03.069425-1, Rel. Juiz Venilto Nunes); b) o entendimento pacificado pelo Egrégio Supremo Tribunal Federal, no sentido de que "o terceiro beneficiário de seguro de vida em grupo, que não se confunde com a figura do segurado, não se sujeita ao prazo prescricional ânuo previsto no artigo 178, § 6º, II, do Código Civil", (RE nº 44080/PR; Relator Ministro Prado Kelly; DJ 20/12/1967); e c) jurisprudência pacífica do E. Superior Tribunal de Justiça, cristalizada na Súmula nº 31 do STJ, no sentido de que a aquisição, pelo segurado, de mais de um imóvel financiado pelo Sistema Financeiro da Habitação, situados na mesma localidade, não exime a seguradora da obrigação de pagamento dos seguros (REsp 488.520/RS; Quarta Turma; Relator Ministro Barros Monteiro).
+3. Considerando que a parte agravante não conseguiu afastar os fundamentos da decisão agravada, deve ser ela mantida.
+4. Recurso improvido" (fls. 607-608 e-STJ).
+No especial, a recorrente alega violação dos arts. 178, § 6º,II, do Código Civil e 9º, § 1º, da Lei nº 4.380/1964. Sustenta, em síntese,que a prescrição ânua também se aplica ao beneficiário do seguro e que o financiamento de dois imóveis importa na perda da cobertura securitária.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973(Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Isso porque a jurisprudência desta Corte é no sentido de que os herdeiros do mutuário falecido não podem ser considerados como segurados, de modo que é inaplicável a prescrição ânua prevista no art. 206, § 1º, II, do CC/02.
+A propósito:
+"DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 515 DO CPC/73. NÃO OCORRÊNCIA. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. MORTE DO MUTUÁRIO. HERDEIROS QUE BUSCAM A QUITAÇÃO DO FINANCIAMENTO E O RECEBIMENTO DA INDENIZAÇÃO SECURITÁRIA. SEGURO HABITACIONAL. PRAZO PRESCRIÇÃO APLICÁVEL. ART. 205 DO CC/02. 1. Ação de cobrança cumulada com obrigação de fazer por meio da qual os herdeiros dos mutuários já falecidos pretendem a condenação da Caixa Seguradora S/A ao pagamento de indenização securitária, bem como à consequente quitação do financiamento imobiliário realizado por seus pais.
+2. Ação ajuizada em 11/02/2003. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é definir se está prescrita a ação interposta pelos recorrentes que, na condição de herdeiros dos mutuários já falecidos, pretendem o recebimento de indenização referente a seguro habitacional, bem como a quitação do financiamento realizado.
+4. Tendo em vista que os recorrentes, herdeiros do mutuário falecido, não podem ser considerados como segurados, inviável mostra-se a aplicação da prescrição ânua prevista no art. 206, § 1º, II, do CC/02.
+5. Ainda que sejam considerados beneficiários, inviável mostra-se, também, a aplicação do art. 206, § 3º, IX, do CC/02, pois o seguro habitacional não pode ser considerado seguro de responsabilidade civil.
+6. Sob essa ótica, aplica-se o prazo prescricional decenal previsto no art. 205 do CC/02. Como o óbito do mutuário ocorreu em 24/08/1999, e a ciência da negativa da cobertura securitária ocorreu em 03/02/2000, não há como se ter por prescrita a presente ação que, em verdade, foi ajuizada em 11/02/2003.
+7. Recurso especial conhecido e provido" (REsp 1.694.257/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/8/2018, DJe 31/08/2018 - grifou-se).
+Quanto à ventilada afronta ao art.9º, § 1º, da Lei nº 4.380/1964, nos termos da consolidada jurisprudência desta Corte, acircunstância de haver o mutuário adquirido dois imóveis na mesma localidade pelo Sistema Financeiro da Habitação não exclui a cobertura securitária que contratou.
+Sobre o tema:
+"SEGURO HABITACIONAL. FALECIMENTO DO MUTUÁRIO. EXISTÊNCIA DE OUTRO IMÓVEL FINANCIADO PELO SFH NA MESMA LOCALIDADE. MANUTENÇÃO DA COBERTURA SECURITÁRIA.
+A aquisição, pelo segurado, de mais de um imóvel financiado pelo sistema financeiro da habitação, situados na mesma localidade, não exime a seguradora da obrigação de pagamento dos seguros.(Súmula n. 31-STJ).
+Recurso especial não conhecido"(REsp 488.520/RS, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 5/5/2005, DJ 13/6/2005 - grifou-se).
+"Administrativo. SFH. Aquisição de Mais de Um Imóvel pelo Mesmo Mutuário. FCVS. Recurso da Seguradora. Possibilidade da Cobertura.Lei 4.380/64 (art. 9º, § 1º). Lei 8.004/90 (art. 6º). Lei 8.100/90 (art. 3º). Súmulas 282 e 356/STF.
+1. Padrão legal sem específica interpretação ou aplicação não concretiza o prequestionamento (Súmulas 282 e 356/STF).
+2. O mutuário não perde a cobertura do FCVS no duplo financiamento, quando as prestações são recolhidas pelo agente financeiro, inclusive quanto ao seguro.
+3. Multifários precedentes.
+4. Recurso parcialmente conhecido e sem provimento"(REsp 231.741/PR, Rel. Ministro MILTON LUIZ PEREIRA, PRIMEIRA TURMA, julgado em 5/9/2002, DJ 7/10/2002, p. 177)
+"CIVIL E PROCESSUAL CIVIL. ACÓRDÃO. NULIDADE NÃO CONFIGURADA. SEGURO.S.F.H. ÓBITO DE SEGURADO. QUITAÇÃO DO SALDO DEVEDOR. RECUSA DA SEGURADORA. EXISTÊNCIA DE OUTRO IMÓVEL FINANCIADO EM MUNICÍPIO DIVERSO. SÚMULAS NS. 5 E 31-STJ. INCIDÊNCIA. CC 1.092, 1.432, 1.454 E 1.460 E ART. 9º, PARÁGRAFO 1º, DA LEI N. 4.380/64.
+I. Não se configura nulidade do acórdão se o mesmo enfrentou os temas ventilados pela parte recorrente, apenas que com conclusão desfavorável à mesma.
+II. "A aquisição, pelo segurado, de mais de um imóvel financiado pelo Sistema Financeiro da Habitação, situados na mesma localidade, não exime a seguradora da obrigação de pagamento dos seguros""(Súmula nº 31 do STJ).
+III. Inexiste violação às normas legais ventiladas no recurso se elas não contêm as cominações com base nas quais a seguradora se opõe ao pagamento do seguro, sobressaindo, do acórdão a quo, a interpretação de cláusulas contratuais e normas administrativas cujo exame refoge à competência desta Corte, consoante o preceituado na Súmula n. 5.
+IV. Recurso especial não conhecido"(REsp 195.474/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 4/11/1999, DJ 6/12/1999 - grifou-se).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
