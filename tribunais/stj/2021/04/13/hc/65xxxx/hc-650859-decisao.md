@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor deMarcio de Paula Amancio Alves, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n.º 1512104-47.2020.8.26.0228).
+Consta dos autos que o paciente foi condenado pelo Juízo da 6ª Vara Criminal da comarca de São Pauloà pena de 8 anos, 3 meses e 16 dias de reclusão, e pagamento de 34 dias-multa, pela prática do delito tipificado no art. 157, § 2º, II, c/c o art. 70, ambos do Código Penal (fls. 67/79).
+Interposta apelação pela defesa, o Tribunala quonegou-lhe provimento (fls. 82/87).
+Sustenta a impetrante, em suma, ilegalidades decorrentes: a) da fixação da fração de aumento da pena pelo reconhecimento da reincidência em 1/3; e b) da incidência da agravante da calamidade pública, tendo em vista que a pandemia em nada contribuiu ou facilitou a execução do delito.
+Requer, assim,a redução da pena imposta ao paciente, para reformular a fração aplicada em razão da reincidência, para o patamar mínimo legal, qual seja de 1/6, bem como seja decotada a agravante da calamidade pública (fl. 13).
+Não houve pedido de liminar.
+Prestadas as informações (fls. 91/112), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 115/120).
+É o relatório.
+Para melhor compreensão da controvérsia, confiram-se os fundamentos exarados pelo Magistrado de primeiro grau, ao fixar a pena (fls. 75/77 - grifo nosso):
+Passo a dosar a pena a ser imposta.
+A certidão de págs. 109/112 e a F.A. de págs. 97/106 dão conta de três condenações definitivas suportadas pelo acusado (18ª Vara Criminal desta capital, com trânsito em julgado para a Defesa em 30/11/2018; 28ª Vara Criminal desta capital, cuja pena foi julgada extintapor indulto em 10/11/2016; e 1ª Vara Distrital de Ferraz de Vasconcelos, cuja pena foi julgada extinta por indulto em 10/11/2016), que serão consideradas para fins de reincidência.
+Logo, atendendo aos critérios norteadores do artigo 59 do Código Penal, fixo a pena base em seu mínimo legal, ou seja, em quatro anos de reclusão e dez dias-multa.
+De se verificar que, no caso em epígrafe, incidiu a agravante prevista no artigo 61, inciso II, alínea "j" do Código Penal, já que o delito foi praticado durante estado de calamidade pública, decorrente da pandemia de Covid-19 (Decreto Estadual nº 64.879 e Decreto Legislativo nº 06/2020, ambos de 20.3.2020), mas referida agravante fica compensada com a atenuante da confissão espontânea, já que o acusado admitiu a imputação em solo policial.
+Por força da reincidência, porque são três as condenações geradoras da agravante em questão, aumento a pena à razão de 1/3, resultando em cinco anos e quatro meses de reclusão e treze dias-multa.
+Pelo reconhecimento da majorante do concurso de agentes, aumento a reprimenda em mais 1/3, resultando em sete anos, um mês e dez dias de reclusão e dezessete dias-multa.
+O réu, mediante uma única ação, violou dois patrimônios distintos - o veículo, o telefone celular e documentos de L.A.P.C., e uma carteira contendo documentos pessoais e dinheiro pertencente a L.F.S. -, motivo pelo qual, atendendo à regra insculpida no artigo 70 do Código Penal, aumento a reprimenda em 1/6, observando-se a regra do artigo 72 do mesmo código para a pena de multa, resultando, em final dosimetria, em oito anos, três meses e dezesseis dias de reclusão e trinta e quatro dias-multa, calculada aunidade em seu mínimo legal.
+O Tribunala quocorroborou a sentença condenatória, em todos os seus termos.
+Do exposto, verifica-se que, em parte,assiste razão à impetrante.
+Com efeito, há flagrante ilegalidade na incidência da agravante prevista no art. 61, II,j, do Código Penal. Não obstante o momento de pandemia mundial no qual são empreendidos vários esforços para combater o novo coronavírus, entendo que não pode ser elevada a pena do paciente por ter praticado o delito no mês de junho/2020, porque o crime em si não está diretamente relacionado a essa circunstância da calamidade pública em questão, situação diferente de quando um delito é praticado durante um incêndio, ou naufrágio ou inundação, por exemplo. Ora, aplicar a referida agravante aqualquer delito praticado durante este período da pandemia, configura inadmissível responsabilidade objetiva.
+De outro lado, quanto à fração de recrudescimento pelo reconhecimento da agravante da reincidência,o entendimento desta Corte firmou-se no sentido de que, na falta derazão especial para afastar este parâmetro prudencial, a exasperação dapena-base, pela existência de circunstâncias judiciais negativas, deveobedecer à fração de 1/6 sobre o mínimo legal, para cada circunstânciajudicial negativa. O aumento de pena superior a esse quantum, para cadavetorial desfavorecida, deve apresentar fundamentação adequada eespecífica, a qual indique as razões concretas pelas quais a conduta doagente extrapolaria a gravidade inerente ao teor da circunstânciajudicial(HC n. 534.173/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe19/12/2019).
+Na hipótese, como visto, a fração de aumento foi fixada em 1/3 pelo reconhecimento da multirreincidência do réu (três condenações anteriores ao fato transitadas em julgado), o que não se afigura desproporcional, consoante reiterada jurisprudência desta Corte. Confira-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. NULIDADE. INVIOLABILIDADE DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. DOSIMETRIA. REINCIDÊNCIA. SÚMULA N. 636/STJ. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE.MULTIRREINCIDÊNCIA. AUSÊNCIA DE DESPROPORCIONALIDADE NA FRAÇÃO DE 1/3 UTILIZADA. MINORANTE DO ART. 41 DA LEI N. 11.343/2006.REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+ ..
+3. Não há ilegalidade na ausência de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea quando o réu é multirreincidente, como no caso, em que o agravante possuía, quando da sentença, três condenações anteriores transitadas em julgado.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 462.544/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/3/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. DOSIMETRIA.MULTIRREINCIDÊNCIA. AUMENTO DA PENA NA SEGUNDA FASE DA DOSIMETRIA EM 1/3 (UM TERÇO). MOTIVAÇÃO IDÔNEA. PROPORCIONALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há flagrante desproporcionalidade se as instâncias ordinárias, com fundamento na multirreincidência do agravante, majora a pena no patamar de 1/3 (um terço) do interregno existente entre as penas mínima e máxima cominadas ao delito.
+2. Agravo regimental improvido.
+(AgRg no HC n. 597.749/SC,Ministro Nefi Cordeiro, Sexta Turma, DJe 16/11/2020)
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pelas instâncias ordinárias, passo ao redimensionamento da pena.
+Na primeira fase, mantém-se a pena-base fixada no mínimo legal, qual seja, 4 anos de reclusãoe pagamento de 10 dias-multa. Na segunda fase, reconhecida a atenuante da confissão espontânea e a multirreincidência do réu, a pena deve ser agravada em1/6, haja vista que a compensação nesses casos (mais de uma reincidência) deve ser parcial, ficando estabelecida em 4 anos e 8meses de reclusão, e pagamento de 11 dias-multa. Na terceira fase, presente a majorante do concurso de agentes, a pena deve ser acrescida em 1/3, chegando ao quantum de 6 anos, 2 meses e 20 dias de reclusão, e pagamento de 14 dias-multa. Por fim, reconhecido o concurso formal, deve ser acrescida a fração de1/6, tornando-se a pena definitiva em 7 anos, 3 meses e 3 dias de reclusão, e pagamento de 16 dias-multa.
+Quanto ao regime de cumprimento de pena, reconhecida a multirreincidência do réu, mantém-se o regime fechado, nos termos do que determina o art. 33 do Código Penal.
+Ante o exposto, concedo parcialmente a ordem para, redimensionando a pena, fixá-la em7 anos, 3 meses e 3 dias de reclusão, e pagamento de 16 dias-multa, mantendo-se o regime inicial fechado.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. AGRAVANTE DE CALAMIDADE PÚBLICA. AFASTAMENTO. RÉU MULTIRREINCIDENTE. MAJORAÇÃO NA FRAÇÃO DE 1/3. LEGALIDADE. COMPENSAÇÃO PARCIAL COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDIMENSIONAMENTO DA PENA.
+Ordem parcialmente concedida nos termos do dispositivo.
