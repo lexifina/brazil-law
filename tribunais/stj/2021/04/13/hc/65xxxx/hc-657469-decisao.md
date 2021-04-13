@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MURILO DANTON BRITTO JEFRES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (HC n.0003686-83.2021.8.17.9000).
+O paciente teve sua prisão em flagrante convertida em preventiva pela suposta prática dos delitos previstos nos arts. 33, caput, e 34da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade de entorpecentes apreendidos - 3.279gde maconha do tipo skunk - em linha aérea comercial.
+Impetrado writ originário, o pedido liminar foi indeferido.
+A defesa alega que o paciente é primário, tem bons antecedentes, emprego lícito e residência fixa.Aduz que é asmático, integrando grupo de risco para covid-19.Alega ainda que é estudante universitárioe a manutenção da prisão importa em descontinuidade de seus estudos.
+Requer, liminarmente e no mérito, seja obstada a preventiva e aplicadas as medidas cautelares diversas da prisão, preferencialmente a que consiste no comparecimento periódico em Juízo, com a conseguinte expedição do alvará de soltura competente. Subsidiariamente, pleiteiaseja determinado o cumprimento de prisão domiciliar.
+É o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+O entendimento pacificado pelo STJ é que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade ou de tetralogia da decisão singular. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+
+Assim, somente se admite"em casos excepcionais e em circunstâncias fora do ordinário, o temperamento na aplicação da Súmula n. 691 do Supremo Tribunal. Essa excepcionalidade fica demonstrada nos casos em que se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada" (HC n. 120.274/ES, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/6/2014), o que não ficou evidenciado na hipótese dos autos.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, com o indeferimento do pedido de liminar formulado no habeas corpus originário, a decisão que decretara a prisão preventiva do paciente ficou mantida pelas razões seguintes (fls.25-26):
+In casu, em análise superficial da questão, o decreto preventivo exarado em desfavor do paciente foi devidamente fundamentado nas circunstâncias do flagrante delito - apreensão de considerável quantidade de droga em poder do paciente - 3 (três) "tijolos" da droga "Skunk" - e suposta realização de mercancia interestadual do material ilícito - flagrante delito ocorrido no aeroporto desta cidade, tendo o paciente dito, perante a autoridade policial, que objetivava levara droga para a cidade de Salvador, estado da Bahia, e que receberia R$ 3.000,00 (três mil reais)por esse serviço.
+Quanto à Recomendação nº 62 do Conselho Nacional de Justiça, publicada em 17 de março de2020, invocada pelos impetrantes, como sabido, trata-se de recomendação de que Tribunais e magistrados adotem as medidas preventivas à propagação da infecção pelo novo coronavírus -Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo, não se tratando, pois, de ordem de concessão automática de Habeas Corpus aos recolhidos ao sistema prisional.
+O fato de o paciente ser portador de asma, por si só, não autoriza a prisão domiciliar, sendo certo que, a teor da declaração médica acostada aos autos, o paciente faz uso de medicação contínua, que pode perfeitamente ser ministrada no interior da unidade prisional, e os impetrantes não cuidaram de comprovar que o paciente está em estado grave de saúde.
+Ademais, a equipe de administração das unidades prisionais vem adotando as medidas profiláticas necessárias à prevenção e ao combate da disseminação do novo coronavírus.
+Inafastável, portanto, a incidência da Súmula n. 691 do STF.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
