@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de decisão proferida pelo TRF da 4ª Regiãoassim ementada (e-STJ fl. 163):
+ADMINISTRATIVO. SERVI DOR CIVIL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA (VPNI) DECORRENTE DE QUINTOS/DÉCIMOS INCORPORADOS. REAJUSTAMENTO. MANUTENÇÃO DO CRITÉRIO DE CÁLCULO PREVISTO NA PORTARIA Nº 474/87 DO MEC. DESCABI MENTO. LEI Nº 9.527/97. ALTERAÇÃO NA NATUREZA E NA FORMA DE PAGAMENTO DO BENEFÍCIO. HONORÁRIOS ADVOCATÍCIOS.
+1. Embora o autor tenha sido beneficiado por decisão judicial que lhe garantiu a manutenção do valor da parcela incorporada, com base nos valores ditados pela Portaria 474/87 do MEC, sem a redução prevista na Lei 8.168/91, tal decisão não tem o condão de afastar lei posterior, que dispôs sobre a vantagem, assim como o critério de atualização da mesma.
+2. A Lei nº 9.527/97, que extinguiu a vantagem dos quintos/décimos, transformando a parcela incorporada em Vantagem Pessoal Nominalmente Identificada (VPNI), dispôs que os valores da vantagem transformada estariam sujeitos tão somente à atualização pelos índices gerais de reajuste dos servidores públicos federais. E tal disposição não confronta com a aludida decisão judicial, cabendo, sim, a adoção do critério de atualização da parcela incorporada ditado pela Lei nº 9.527/97.
+3. Não há falar, na hipótese, em ofensa ou violação à coisa julgada, mas apenas adequação da base de cálculo da vantagem aos limites legais, eis que, se de um lado o título judicial não fala na limitação temporal, por outro, também não fala que o critério de cálculo então reconhecido deva ser adotado para sempre, especialmente em se tratando de caso de relação continuativa, afetada pela subsequente alteração legislativa que instituiu nova conformação do benefício, justificando limitar no tempo os efeitos da sentença transitada em julgado, forte no art. 471, I, do CPC.
+4. A todos os servidores ativos e inativos que percebem Vantagem Pessoal Nominalmente Identificada (VPNI) decorrente de quintos/décimos incorporados é aplicável o critério de reajuste ditado pela Lei nº 9.527/97, sendo aqui pertinente a ponderação de que o servidor público não goza do direito adquirido a regime jurídico e forma de composição remuneratória, embora goze da garantia constitucional de irredutibilidade de vencimentos
+5. Quantum da verba honorária mantido, conforme fixado na sentença, conquanto razoável, estando em conformidade com o § 4º do art. 20 do CPC, bem como com a jurisprudência desta Corte em causas da espécie.
+Agravo a que se nega provimento.
+Contra o acórdão foram opostos embargos de declaração (e-STJ fls. 379/384), desprovidos (e-STJ fl. 399).
+Alega a recorrente contrariedade aos arts. 467, 468, 471, 472 e 473, todos do CPC/73.
+Contrarrazões (e-STJ fls. 459/467).
+Passo a decidir.
+Entendo que o recurso não deve ser conhecido.
+A Corte Regional entendeu que a revisão feita pela Administração não violou o comando de sentença anterior proferida em favor dos ora recorrentes. Eis o trecho relevante do acórdão recorrido:
+Não há falar, na hipótese, em ofensa ou violação à coisa julgada, mas apenas adequação da base de cálculo da vantagem aos limites legais, eis que, se de um lado o título judicial não fala na limitação temporal, por outro, também não fala que o critério de cálculo então reconhecido deva ser adotado para sempre, especialmente em se tratando de caso de relação continuativa, afetada pela subsequente alteração legislativa que instituiu nova conformação do benefício, justificando limitar no tempo os efeitos da sentença transitada em julgado, forte no art. 471, I, do CPC.
+Os insurgentes, porém, entendem que houve sim violação ao título, expondo, em sua fundamentação, todo o histórico do processo anterior.
+Dessa maneira, fica claro que a revisão do acórdão recorrido, para saber se correta ou não a premissa de que não houve violação à coisa julgada, pressuporia reexame de fatos e provas, esbarrando no óbice da Súmula 7 desta Corte.
+Ante o exposto, NÃO CONHECO do apelo especial.
+Publique-se. Intimem-se.
