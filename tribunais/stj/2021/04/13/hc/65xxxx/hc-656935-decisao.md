@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de MARCELO ALEGRIA ZECCHINELLIcontra acórdão do Tribunal de Justiça do Estado de São Paulo no HCn. 2260019-56.2020.8.26.0000.
+Consta dos autos que o Paciente, junto com corréus,foi denunciado como incurso nos arts. 158, §§ 1.º e 3.º, e157, § 2.º, incisos II e V, e § 2.º-A, inciso I, do Código Penal, em concurso material.Narra a denúncia que o Acusado se utilizoudo cargo de Policial Civil para extorquir,mediante grave ameaça e com a restrição da liberdade, a quantia de R$ 300.000,00 (trezentos mil reais) da Vítima, bem comosubtraiu diversos bens do ofendido, ao cumprir mandado de busca e apreensão em sua residência.
+Narra o Impetrante que o Paciente teve sua prisão temporária decretada pelo prazo de cinco dias. Posteriormente, foi decretada prisão preventiva em seu desfavor.
+Quando do recebimento da denúncia (fls. 20-22), o Magistrado de primeiro grau manteve a custódia cautelar.
+Inconformada com a prisão, a Defesa impetrou o writ originário, denegado em acórdão assim ementado(fl. 33):
+"Habeas corpus. Extorsão qualificada e Roubo majorado em concurso material. Pretendida revogação da prisão preventiva.
+Inadmissibilidade. Paciente policial civil que, em cumprimento a mandado de busca, juntamente com outros dois policiais e um quarto indivíduo teriam subtraído bens de propriedade da vítima além de ter exigido importância de R$ 300.000,00 para que não fosse presa, restringindo sua liberdade. Presença dos motivos que a ensejam (art. 312 do CPP). Condutas concretamente graves, em tese praticadas por agentes estatais na posição de garantidores. Necessidade da custódia cautelar para garantia da ordem pública. Decisão bem fundamentada. Constrangimento ilegal inexistente. Ordem denegada."
+Defende o Impetrante ilegalidade na decisão que indeferiu o pedido de revogação da custódia provisória, porque "meros indícios de autoria e a gravidade em abstrato do delito, não servem para fundamentação de decreto de prisão preventiva" (fl. 5).
+Afirma que,além de inexistir risco de reiteração criminosa, não foi demonstrada a necessidade de garantir a ordem pública, porque o Réu "é primário e portador de bons antecedentes, possui residência fixa e emprego lícito, no caso funcionário público concursado, podendo ser encontrado a qualquer momento na repartição pública na qual está lotado atualmente ou em sua residência fixa" (fl. 6; grifos originais).
+Aduz, ainda, evidente excesso de prazo na formação da culpa, pois o Paciente está preso há sete meses sem que a instrução criminal tenha sido concluída.
+Busca, assim, liminarmente e no mérito, "a revogação e/ou relaxamento da prisão preventiva" (fl. 13).
+É o relatório.Decido.
+Verifico, inicialmente, quea tesede excesso de prazo na instrução não foi suscitada, tampouco apreciada no acórdão atacado, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+Fora isso, a parte Impetrante não acostou aos autos cópiadas peças processuais que comprovariam o andamento do feito ea situaçãoprocessual do Paciente, inclusive dos decretos de prisão temporária e preventiva, que se pretende revogar, o que inviabiliza a análise do pleito de soltura deduzido.
+Assim, no caso, a pretensão ora formulada não pode ser conhecida, seja por supressão de instância ou porque a documentação trazida aos presentes autos é incompleta.
+Comose sabe, "revela-se insuscetível de exame ohabeas corpusdesacompanhado de elementos que evidenciem o alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída"(STF, HC 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Portanto, compete à Defesa narrar e instruir completa e adequadamente ohabeas corpus(ou seu respectivo recurso) -v.g.: STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+Com igualconclusão, citoos seguintes precedentes do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL.HABEAS CORPUS.INDEFERIMENTO LIMINAR. .. . AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DA DEFESA. IMPOSSIBILIDADE DE JUNTADA POSTERIOR DE DOCUMENTOS. .. . DESPROVIMENTO DO RECLAMO.
+1. .. .
+2. Omandamusnão foi instruído com a íntegra do acórdão impugnado, peça processual indispensável para a análise das ilegalidades suscitadas.
+3. O rito dohabeas corpuse do recurso ordinário emhabeas corpuspressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia.
+4.Cumpre à defesa zelar pela correta formação do caderno processual que será apresentado à apreciação judicial, em respeito ao princípio dispositivo que vige no ordenamento jurídico pátrio, resguardando-se, assim, a necessária imparcialidade do órgão julgador.
+5. É ônus do impetrante instruir corretamente a ação constitucional com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis ao exame do pedido e que não foram anexados tempestivamente. Precedentes.
+6. .. .
+7. Agravo regimental desprovido."(AgRg no HC 547.736/MA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/12/2019, DJe 16/12/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018).Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido."(AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. EXTORSÃO QUALIFICADA E ROUBO MAJORADO EM CONCURSO MATERIAL. PRISÃOPREVENTIVA.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
