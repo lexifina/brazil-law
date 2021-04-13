@@ -1,0 +1,27 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo BANCO HONDA S/A, em face de decisão prolatada pelo Juízo da 3a Vara Especializada em Direito Bancário da Comarca de Cuiabá/MT, nos autos da Ação de Busca e Apreensão n. 1030058-62.2020.8.11.0041, ajuizada em desfavor de ADRIANA STELLE DE OLIVEIRA, que determinou a imediata devolução do bem, mediante mandado de restituição e requisitou ao SERASA e SPC a imediata exclusão do nome do Requerida referente ao contrato objeto dos autos.
+O agravante alega, em síntese, a nulidade da decisão agravada, vez que não foi intimado para manifestar-se acerca da purgação da mora, violando o princípio da não surpresa.
+Sustenta haver ilegal pedido de extensão de prazo por parte da agravada, ante a inconsistência de valores e, ainda, junta planilha de débitos com petição datada de 30/06/2020, enquanto a apreensão e depósito se deu em dezembro/2020, pugnando por eventual complementação do valor em razão de eventuais ajustes financeiros reconhecidos pelo juízo.
+Aduz ser indispensável a anulação da decisão agravada e atos posteriores, para oportunizar ao agravante se manifestar/apreciar a suposta purgação de mora realizada pela devedora.
+Com essas considerações, requer a concessão de efeito suspensivo, para sobrestar os efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso, para reformar o decisum, mantendo a liminar anteriormente concedida.
+Requesta ainda, pela “apuração contábil atualizada, possibilitando, ao final, seja declarado a consolidação da posse e a propriedade plena do bem nas mãos do agravante, ainda, condenando a Apelada no pagamento total das despesas, custas processuais e honorários advocatícios”.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pelo Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito suspensivo pretendido, uma vez que, embora defenda o desacerto da decisão, ante a ausência de intimação para manifestação acerca da alegada purgação da mora, não é possível visualizar, ao menos em sede de cognição sumária, a probabilidade de seu direito que conduza a suspensão dos efeitos da decisão, sendo consistentes os argumentos do Juízo a quo:
+“Considerando a purgação da mora pela Requerida nos exatos termos pretendidos pelo Credor na inicial, nos termos do art. 3, §§ 1o e 2o da Lei 911/69 e suas hodiernas alterações, determino a imediata devolução do bem indicado na inicial, mediante expedição de mandado de restituição.
+Aguarde-se o decurso de prazo para contestação, certifique-se e intime-se o Autor a impugnação em dez (10) dias.
+Requisite-se do SERASA e SPC a imediata exclusão do nome do Requerido dos registros existentes junto aos cadastros de inadimplentes, referente aos débitos inscritos pelo Autor referente ao contrato objeto da ação, no prazo de vinte e quatro (24) horas, após o recebimento da ordem judicial, cuja expedição ora é determinada. (ID. 47695072 - Pág. 1– autos de origem).
+“No caso em apreço, é evidente o inconformismo da parte Embargante, pois a pretexto de sanar vícios de intelecção da decisum, levanta suposta obscuridade, contradição, omissão e erro material na decisão exarada no id. 47695072.
+Apenas a título argumentativo, não obstante a indignação da parte Embargante ao alegar que a decisão está eivada dos vícios da obscuridade, contradição, omissão e erro material, consigno que as suas alegações não prosperam, já que a decisão combatida encontra-se coerente, objetiva, no que tange aos pontos que formaram o convencimento deste Juízo, não havendo que se falar em saneamento algum.
+Posto isso, conheço dos Embargos de Declaração, pois próprios e tempestivos, mas, por não vislumbrar a presença dos vícios alegados NEGO-LHES PROVIMENTO” (ID. 51046443 - Pág. 2 – autos de origem).
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta da agravada, INDEFIRO a almejado efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se a agravada, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
