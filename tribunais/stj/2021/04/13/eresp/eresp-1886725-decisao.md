@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por PRUDENTIAL DO BRASIL VIDA EM GRUPO S/Acontra o acórdão da Quarta Turma do Superior Tribunal de Justiça assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA COLETIVO. MICROTRAUMAS. ESFORÇOS REPETITIVOS. ENQUADRAMENTO COMO ACIDENTE PESSOAL. PRECEDENTES. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. "Consoante a jurisprudência do STJ, "os microtraumas sofridos pelo operário, quando exposto a esforços repetitivos no ambiente de trabalho, incluem-se no conceito de acidente pessoal definido no contrato de seguro" (REsp 324.197/SP, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 23/11/2004, DJ 14/3/2005, p. 340)"(AgInt no AREsp 1.565.950/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2020, DJe de 24/04/2020).
+2. Agravo interno a que se nega provimento" (fl. 123, e-STJ).
+A embargante aponta divergência jurisprudencial comprecedenteda Terceira Turma de seguinte ementa:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - SEGURO EM GRUPO - REDUÇÃO DA ACUIDADE AUDITIVA - MICROTRAUMAS - INCAPACIDADE PARCIAL - RECONHECIMENTO - ACIDENTE PESSOAL - CONCEITUAÇÃO - AUSÊNCIA DE COBERTURA - SÚMULAS 5 E 7/STJ - PRECEDENTE DA SEGUNDA SEÇÃO - FUNDAMENTOS DA DECISÃO AGRAVADA - MANUTENÇÃO - RECURSO IMPROVIDO" (AgRg no AG nº 1.356.196/SP, Rel. Min. Massami Uyeda, julgado 15/3/2011, DJe 30/3/2011.
+Argumenta a embargante que o acórdão paradigma decidiu que a cláusula que exclui da cobertura securitária a doença profissional não se mostra abusiva.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015(Enunciados Administrativos nºs 2 e 3/STJ).
+Com efeito, os embargos de divergência devem ser liminarmente indeferidos na hipótese em que o aresto embargadoadentra o mérito do recurso e o acórdão paradigmasimplesmente não o conhece devido à incidência de algum óbice recursal.
+De fato, extrai-se do art. 1.043, III, do Código de Processo Civil de 2015 que existe a necessidade de que tanto o acórdão embargado quanto o aresto paradigma tenham apreciado a tese jurídica trazida no recurso especial, embora a pretensão de um deles, ao final, não tenha sido conhecida.
+Com efeito,"(..) a previsão do art. 1.043, III, do novo CPC, na esteira dos princípios da instrumentalidade das formas e da primazia da resolução de mérito (art. 4º, CPC), vem afirmar o cabimento de embargos de divergência contra julgados que, por um equívoco de técnica de julgamento, a despeito de terem examinado o mérito da controvérsia, não conhecem de recurso ou pedido, quando o resultado de julgamento mais adequado seria o da improcedência" (AgRg nos EREsp nº 1.393.786/RS, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 2/12/2016).
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. AGRAVO INTERNO A QUE SENEGA PROVIMENTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargosde Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado com base na Súmula 07/STJ, com a ressalva de não restar caracterizado o dissídio jurisprudencial.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Agravo interno não provido"(AgInt nos EAREsp nº 823.290/MG, Rel. Ministro FELIX FISCHER, Corte Especial, DJe 27/9/2017).
+Referido entendimento deve-se ao fato de ser inviável a verificação de similitude fática entre os arestos confrontados caso ao menos um deles verse acerca da aplicação de regra técnica concernente ao conhecimento de recurso especial.
+É certo que o inciso II do art. 1.043 do CPC/2015 previa a possibilidade de interposição de embargos de divergência em se tratando de acórdãos relativos a juízo de admissibilidade, mas tal hipótese de cabimento foi revogada pela Lei nº 13.256/2016.
+Assim, é de ser mantido o entendimento desta Corte Superior de que os embargos de divergência não se prestam a discutir o erro ou acerto na aplicação de regra técnica de conhecimento de recurso especial, visto que tal análise se esgota nas particularidades de cada caso concreto, não havendo dissonância interpretativa quanto à mesma questão de direito (vide AgInt nos EREsp nº 1.377.677/RS, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe20/6/2017, e AgRg nos EREsp nº 1.459.396/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe 14/6/2017).
+No caso dos autos, enquanto o acórdão recorridodecidiu o mérito da demanda, o aresto paradigma negou provimento em virtude da incidência das Súmulas nºs 5 e 7/STJ, o que acarreta a inadmissão dos embargos de divergência.
+Não existem, portanto, interpretações conflitantes por órgãos fracionários do Superior Tribunal de Justiça a respeito dos mesmos temas de direito e substrato fáticos, a exigir a devida uniformização.
+Nesse sentido, incide na espécie a Súmula nº 315/STJ, de seguinte teor:"Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se.
+Intimem-se.
