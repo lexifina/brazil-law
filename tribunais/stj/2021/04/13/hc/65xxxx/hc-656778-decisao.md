@@ -1,0 +1,6 @@
+DECISÃO
+JOSE CARLOS CORREA FILHO alega sofrer coação ilegal, em decorrência de decisão do Desembargador relator do HC n. 0900081-08.2021.9.26.0000, em trâmite no Tribunal de Justiça Militar do Estado de São Paulo, que indeferiu o pedido liminar.
+Ao analisar os autos, verifico que, como bem assinalou o Desembargador Fernando Pereira, "ainda que providenciada pelos impetrantes a juntada das Atas das Sessões de Julgamento, não constam dos autos as respectivas Sentenças proferidas nos três processos mencionados" (fl. 149), o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
