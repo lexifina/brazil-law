@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela Fazenda Nacional e por Auto Posto Jorge Lacerda Ltda. contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. TEMA 69 DAREPERCUSSÃO GERAL. EXCLUSÃO DO ICMS DA BASE DE CÁLCULODO PIS E DA COFINS. ICMS-ST. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E DA COFINS. MERCADORIAS ADQUIRIDAS PELOSUBSTITUÍDO TRIBUTÁRIO. INCABIMENTO.
+1. Adoção da orientação firmada pelo Supremo Tribunal Federal (Tema 69), segundo a qual "o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS".
+2. Não se reconhece o direito do contribuinte ao abatimento, da base de cálculo do PIS e da COFINS, dos valores pagos a título de ICMS-ST, seja pelo substituto, seja pelo substituído.
+A sociedade empresária discute a inclusão do ICMS-ST, nas bases de cálculo da contribuição ao Pis e da Cofins. Entende que o ICMS, na hipótese de substituição tributária, deve ser qualificado como custo de aquisição da mercadoria, suportado pelo contribuinte substituído, revendedor (fls. 346/380).
+A Fazenda, por sua vez, discute a forma de exclusão do ICMS da bases de cálculo das referidas contribuições, uma vez considerada a tese definida pelo STF, no RE 574.706/PR (fls. 414/433).
+O recurso fazendário, porém, não foi admitido, o que deu ensejo à interposição de Agravo em Recurso Especial.
+Contrarrazões apresentadas por ambas as partes.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Recurso especial da sociedade empresária.
+Não deve ser conhecido, consoante enuncia a Súmula 83 do STJ, pois o acórdão recorrido está em conformidade com a orientação deste Tribunal Superior; vide, por todos:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. EXCLUSÃO DO VALORES REFERENTES A ICMS-SUBSTITUIÇÃO (ICMS- ST) DA BASE DE CÁLCULO DAS CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS DEVIDAS PELO SUBSTITUÍDO. IMPOSSIBILIDADE.
+1. O ICMS-ST não pode ser excluído da base de cálculo das contribuições ao PIS/PASEP e COFINS devidos pelo substituído simplesmente porque jamais esteve formalmente incluído nessa mesma base de cálculo. É da natureza de todos os tributos a repercussão econômica. Os informes de "ICMS Cobrado Anteriormente por ST" preenchidos eletronicamente pelo substituído existem apenas para efeito de controle fiscal, não o transformando em contribuinte de direito da exação, mas apenas informando sua repercussão econômica o que não é suficiente para possibilitar a "exclusão" pretendida.
+2. O argumento desenvolvido pelo PARTICULAR substituído, em verdade, é uma forma alternativa de se pleitear que o valor suportado economicamente pelo substituído a título de ICMS-ST gere créditos dentro da sistemática da não cumulatividade das contribuições ao PIS/PASEP e COFINS, sendo que esta Segunda Turma tem vários precedentes formados sobre a matéria onde restou consignado que o contribuinte não tem direito ao creditamento, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores que, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição, a saber:  ..
+3. Agravo interno não provido.
+(AgInt no REsp 1885048/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+Agravo em Recurso especial da Fazenda Nacional.
+O recurso especial não pode ser conhecido quanto à pretensão relacionada ao alcance da tese definida pelo Supremo Tribunal Federal, pois se trata de matéria constitucional, cuja competência para revisão não é deste Tribunal Superior, nos termos do art. 105, III, da Constituição Federal de 1988.
+De fato, "tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e respectivo julgamento, sendo certo que, relacionando-se o debate co a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo" (AgInt no AREsp 1508001/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019).
+A respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESNECESSIDADE DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE DECISÃO SOBRE AFETAÇÃO DO TEMA À SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. VIOLAÇÃO DO ART. 1.022, CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+1. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Na hipótese, tem-se que o acórdão do Tribunal de origem esta fundamentado exclusivamente na interpretação dada pelo STF sobre à inclusão do ICMS na base de cálculo do PIS e da COFINS. Dessa feita, dada a natureza estritamente constitucional do decidido pelo Tribunal a quo, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Por fim, verifica-se que o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à Cofins é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial. Precedentes: AgInt no REsp 1.435.966/RS, Rel. Min. Gurgel de Faria, Primeira Turma, Dje 16/2/2018; AgInt no Resp 1.668.205/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 4/6/2019.
+3. Agravo interno não provido.
+(AgInt no REsp 1834634/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019)
+No mesmo sentido, dentre outros: AgInt no AREsp 1519714/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/09/2019, DJe 24/09/2019.
+Ante o exposto, não conheço do recurso especial da sociedade empresária; e conheço do agravo da Fazenda para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PIS E COFINS. BASES DE CÁLCULO. INCLUSÃO DO ICMS E DO ICMS-ST. MATÉRIA CONSTITUCIONAL. ACÓRDÃO EM CONFORMIDADE COM ORIENTAÇÃO DO STJ. RECURSOS DO CONTRIBUINTE E DA FAZENDA NÃO CONHECIDO.
