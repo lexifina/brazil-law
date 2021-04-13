@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de revisão criminal, com pedido liminar, ajuizada em favor de MARIA CRISTINA BUFFONI,com fulcro no art. 621, I, do CPP, contra decisão prolatada por esta Corte no Recurso Especial n. 1.839.200/SP.
+Na referida decisão, deu-se provimento ao seu recurso especial para reduzir sua pena privativa ao patamar de 5 anos de reclusão no tocante ao crime previsto no artigo 312 do Código Penal (e-STJ, fls. 1625-1629).Insurgiu-se a defesa com a interposição de agravo regimental, pretendendo o afastamento da circunstância judicial relativa às "consequências" do delito. Restou improvido o agravo, conforme acórdão da Sexta Turma, assim ementado:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESVIO DE VERBA PÚBLICA. DOSIMETRIA DA PENA. ELEVAÇÃO DA PENA-BASE.
+CONSEQUÊNCIAS DO DELITO. MAIOR REPROVABILIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO IMPROVIDO.
+1. Ao manter como desfavorável a circunstância judicial relativa às consequências, as instâncias ordinárias consideraram que a ré não apenas desviara dinheiro público, mas, ao mesmo tempo, prejudicou as crianças e adolescentes da Casa de Abrigo de Pontal, fundamentos concretos que evidenciam maior reprovabilidade da conduta, justificando, assim, o incremento da pena-base com apoio na referida vetorial.
+2. Agravo regimental improvido." (e-STJ, fls. 1665)
+Negado seguimento ao recurso extraordinário com aplicação do Tema 182/STF (e-STJ, fls. 1712-1713), transitou em julgado o feito em 11/12/2020.
+Neste pedido revisional, arequerente pleiteia o reconhecimento da ausência de fundamentação para o aumento da pena-base pela indevida utilização de características inerentes ao tipo penal de peculato na primeira fase da dosimetria. Pretende, assim, a nulidade do édito condenatório ou o redimensionamento imediato da pena-base.
+Nestes termos, requer, liminarmente, a suspensão domandado de prisão e, no mérito, a revisão da pena.
+A liminar foi indeferida.
+O Ministério Público Federal ofertou parecer pelo não indeferimento da revisão criminal.
+É o relatório.
+Decido.
+Como se sabe, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido de não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 25/2/2016).
+Conforme já restou suficientemente fundamentado no julgamento do recurso especial, não há ilegalidade na atribuição de maior desvalor às consequência do crime de peculato quando evidenciado que o prejuízo ao erário acabou por prejudicar população mais vulnerável do País. Na hipótese, constatou-se que "há provas suficientes de que os acusadosdesviaram em proveito próprio ou de terceiros dinheiro público. mediante fraudes na prestação de contas ao projeto Casa Abrigo de Pontal." (e-STJ, 1670). Assim, legítima a maior reprovabilidade da conduta. A respeito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PECULATO. DOSIMETRIA. PENA-BASE.EXASPERAÇÃO. CONDUTA EXCEDE A DESCRIÇÃO DO TIPO PENAL. ATENUANTE DE REPARAÇÃO DE DANO. INAPLICABILIDADE. REPARAÇÃO PARCIAL. NÃO COMPROVAÇÃO DA DEVOLUÇÃO DAS VERBAS DESVIADAS PELO AGENTE. WRIT DENEGADO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A conduta do agente que extrapola a descrição do tipo penal do crime de peculato justifica a exasperação da pena-base, tendo em vista que, além do desvio de verbas públicas, a conduta criminosa resultou no impedimento do acesso integral de cidadãos carentes a serviço de saúde bucal.
+2. A reparação de parte menor do dano e o fato de que não restou comprovado que o agente buscou a reparação do prejuízo desautorizam a aplicação da atenuante do art. 65, III, b, do Código Penal.
+3. Agravo regimental improvido."
+(AgRg no HC 548.035/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020, grifou-se)
+"AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. ART. 1º, V E VII, § 4º, DA LEI 9.613/98. CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE.VIOLAÇÃO DOS ARTS. 619 CPP E 535, II, DO CPC. OMISSÃO. DESCRIÇÃO DAS TRANSAÇOES QUE ACARRETARAM A CONDENAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DA MATERIALIDADE. SÚMULA 7/STJ. PRESCRIÇÃO. NÃO OCORRÊNCIA. LAVAGEM DE DINHEIRO. MODALIDADES "OCULTAR" E "DISSIMULAR". CRIME PERMANENTE. DOSIMETRIA. AUMENTO DA PENA-BASE.FUNDAMENTAÇÃO IDÔNEA. CONSEQUÊNCIAS DESFAVORÁVEIS. OCULTAÇÃO DE RECURSOS PÚBLICOS DESTINADOS À SAÚDE. PERDA DO MANDATO ELETIVO E INABILITAÇÃO PARA EXERCÍCIO DE CARGO PÚBLICO. SÚMULA 283/STF.
+ ..
+V - Na hipótese sob apreciação, constata-se que a lesão ao bem jurídico tutelado pelo crime foi considerada mais grave que o habitualmente observado para essa espécie de infração. Tal avaliação revela-se fundamentada e razoável, na medida em que os recursos públicos cujo desvio gerou produto que foi ocultado e dissimulado pelo réu eram destinados à saúde, contribuindo, portanto, com "a precariedade do serviço público de saúde experimentada pelos munícipes, especialmente a camada mais carente da população, que foi exposta a situação de risco". Assim, tal circunstância desfavorável, por si só, é apta a conduzir a pena-base ao patamar fixado na origem, não se verificando qualquer desproporcionalidade na exasperação efetuada.
+VI - No que concerne à perda do cargo público, verifica-se que apenas o segundo fundamento foi impugnado especificamente pelo recorrente, não constando das razões do apelo extremo insurgência quanto à reconhecida incompatibilidade do delito praticado com o exercício da função pública, fundamento que, per se, sustenta o decisum recorrido. Portanto, o recurso não pode ser conhecido, no ponto, pela aplicação, por analogia, do Enunciado n. 283 da Súmula do c. Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo regimental desprovido.
+(AgInt no REsp 1593312/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/09/2018, DJe 21/09/2018, grifou-se)
+Assim, muito embora a autora sustente sua pretensão no art. 621, I, do CPP, não se verifica, no caso, hipótese de contrariedade ao texto expresso de lei penal ou à evidência dos autos, constatando-se em verdade mero inconformismo da defesa.
+Dessa forma, não se verifica hipótese de cabimento da revisão criminal proposta.
+Ante o exposto, indefiro o pedido revisional.
+Publique-se.
+Intimem-se.
