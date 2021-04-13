@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GELSON DA SILVA MARTINS e RICARDO DE MELOcontra decisão do Tribunal de Justiça do Estado doRio Grande do Sul, que inadmitiu o processamento do recurso especial manejado com fundamento no art. 105, inciso III, alínea a, da Constituição da República na Apelação n.70079918579.
+Consta dos autos que o Juízo de primeiro grau condenou os Agravantes às penas de 2 (dois) anosde reclusão, em regime aberto, e pagamento de 10 (dez) dias-multa, como incursosno art. 155, § 4.º, inciso IV, do Código Penal, sendo substituída a pena privativa de liberdade por 2 (duas) penas restritivas de direitos.
+Houve apelação somente defensiva, à qual a Corte de origem, em relação aos Agravantes, por maioria, deuparcial provimentopara reconhecer a forma tentada do delito,redimensionando apena privativa de liberdade para 1 (um) ano e 4 (quatro) meses de reclusão. O acórdão ficou assim ementado (fl. 437):
+"APELAÇÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. FURTO QUALIFICADO. CONCURSO DE AGENTES. SUFICIÊNCIA PROBATÓRIA. CONDENAÇÃO CONFIRMADA.
+1. PRELIMININAR. ATIPICIDADE DA CONDUTA PELO PRINCÍPIO DA NÃO OFENSIVIDADE. Não há falar em ausência de dano patrimonial à empresa prestadora de serviço público, pois demonstrado, nos autos, que os acusados furtaram aproximadamente 40 metros de cabos de linhas de telefone da empresa Oi, sendo, posteriormente, restituídos à vítima. E, a restituição da res não afasta a tipicidade do fato.
+2. MÉRITO. ABSOLVIÇÃO DO RÉU E.J.M. Insuficiência de provas em relação ao réu E.J.M. reconhecida por maioria, vencida a relatora. Absolvição forte no artigo 386, inciso VII, do CPP. quando aos corréus, a prova é robusta ao indicar a prática delitiva.
+3. TENTATIVA RECONHECIDA. Em relação aos corréus foi reconhecida a tentativa, vencida a relatora no ponto.
+4. REINCIDÊNCIA. O Supremo Tribunal Federal já pacificou a constitucionalidade da reincidência.
+5. EXECUÇÃO PROVISÓRIA DA PENA. Possível a execução provisória da pena, conforme jurisprudência do Supremo Tribunal Federal e desta Colenda Câmara Criminal.
+PRELIMINAR REJEITADA POR UNANIMIDADE. RECURSOS PARCIALMENTE PROVIDOS POR MAIORIA."
+Nas razões do recurso especial, aduz a Defesa, em síntese, o malferimento aoart. 155 do Código Penal e ao art. 386, inciso III, do Código de Processo Penal.
+Pondera que deve ser reconhecida a atipicidade da conduta, aplicando-se, à hipótese dos autos, o princípio da insignificância, na medida em que inexpressiva a conduta dos Agravantes e o valor do bem furtado - 40 metros de linhas telefônicas - é insignificante.
+Foram apresentadas contrarrazões (fls. 477-482). O recurso especial não foi admitido (fls. 484-489). Foi interposto agravo (fls. 494-508). Contraminuta às fls. 513-516.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo e do recurso especial (fls. 532-534).
+É o relatório.
+Decido.
+O acórdão objurgado, na parte que interessa, está calcado nas seguintes razões de decidir (fl. 441; sem grifos no original):
+"Incialmente, não assiste razão à defesa ao sustentar ser atípica a conduta pelo princípio da não ofensividade, em razão da ausência de dano patrimonial, considerando ter sido comprovado nos autos que os réus foram os autores do furto de aproximadamente 40 metros de cabos de linhas de telefone da Oi, empresa prestadora de serviço público, sendo, posteriormente, restituídos, pois localizados no interior doveículo, onde estavam os réus, quando da prisão em flagrante.
+E, sabidamente, a restituição da res não afasta a tipicidade do fato. No mais, embora ausente o valor da res, na espécie, considerando que os réus praticaram o crime em concurso de agentes, sendo o acusado Eder reincidente em crime patrimonial, demonstrada a reprovabilidadeda conduta social, razão pela qual não há falar em atipicidade da conduta."
+Quanto à aplicabilidade do princípio da insignificância deve se observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e identificar a necessidade, ou não, da utilização do direito penal como resposta estatal.
+Não se descura que, diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas os bens jurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade.
+É certo, porém, que, mesmo quando eventualmente constatado o pequeno valor da vantagem patrimonial ilícita, tal circunstância não se traduz, automaticamente, no reconhecimento do crime de bagatela.
+De fato, a aplicabilidade do princípio da insignificância é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+Na hipótese dos autos,porém, não há como se afirmar o desinteresse estatal à repressão da conduta praticada pelos Agravantes, já que o delito de furto foi perpetrado mediante concurso de agentes. E, segundo a jurisprudência desta Corte, salvo em situações excepcionais,"a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (HC 351.207/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016; sem grifos no original).
+No mesmo sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO DUPLAMENTE QUALIFICADO. ABSOLVIÇÃO DO PACIENTE. CONCURSO DE AGENTES E ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. DOSIMETRIA. MAUS ANTECEDENTES. CONDENAÇÃO TRANSITADA EM JULGADO ATINGIDA PELO PRAZO DEPURADOR DE CINCO ANOS. MOTIVAÇÃO IDÔNEA PARA INCREMENTO DA PENA-BASE. DUAS QUALIFICADORAS. UMA UTILIZADA NA PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. MULTIRREINCIDÊNCIA. PATAMAR ACIMA DE 1/6. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. REGIME PRISIONAL. RÉU COM CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME SEMIABERTO ADEQUADO E SUFICIENTE. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Tendo o furto sido praticado mediante o concurso de pessoas e com o rompimento de obstáculo, resta demonstrada maior reprovabilidade da conduta, o que torna incompatível a aplicação do Princípio da Insignificância. Precedentes.
+ ..
+12. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de estabelecer o regime prisional semiaberto para o desconto da reprimenda imposta ao paciente Reginaldo de Mattos Donaire." (HC 537.325/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 155 DO CP. CONCURSO DE PESSOAS. COMPORTAMENTO REPROVÁVEL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+ ..
+3. Nos termos da jurisprudência pacífica deste Tribunal Superior a prática do delito de furto qualificado por escalada, arrombamento, rompimento de obstáculo ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (AgRg no AREsp n. 1.204.004/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/3/2018).
+ ..
+5. Agravo regimental improvido." (AgRg no REsp 1.688.274/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/04/2018, DJe 11/05/2018.)
+Outrossim, não houve avaliação do valor dos bens furtados, o que também obsta a análise do pleito de aplicação do princípio da insignificância, pela aplicação da Súmula n.7 do STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. DELITO COMETIDO EM CONCURSO DE AGENTES. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES. RES FURTIVA. VALOR. AFERIÇÃO. INVIABILIDADE. SÚMULA N.7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
