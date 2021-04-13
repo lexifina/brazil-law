@@ -1,0 +1,20 @@
+DECISÃO
+DANILO HENRIQUE OLIVEIRAalega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n. 0000816-14.2018.8.26.0628.
+A defesa pretende, em liminar e no mérito,o abrandamento do regime inicial fechado,notadamente pelo quantum da reprimenda fixada (inferior a 4 anos) e pela primariedade do agente, bem como pela aplicação do instituto da detração.
+Decido.
+Consta dos autos que o paciente foi condenado a 2 anos e 6 meses de reclusão, mais multa, pela prática dos delitos de receptação e associação criminosa. A pena-base foi fixada acima do mínimo legal e não foram reconhecidas outras moduladoras, nem mesmo a reincidência - circunstância legal aplicável apenas ao corréu.
+Oregime fechado foi assim mantido pela Cortelocal: "Foi aplicado o concurso material e, diante das mesmas circunstâncias que também justificaram a elevação da pena-base, maus antecedentes, tudo somado à ação orquestrada e reincidência de RAFAEL, impossível cogitar de aplicação da permuta e outro não poderia ser o regime prisional para expiação das penas aplicadas senão o fechado, para todos os réus" (fl. 40).
+Consoante a jurisprudência do STJ, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. MinistroMoura Ribeiro, 5ª T., DJe 25/11/2013;HC n. 265.367/SP, Rel. MinistraLaurita Vaz, 5ª T., DJe 19/11/2013;HC n. 213.290/SP, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/11/2013;HC n. 148.130/MS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Contudo, embora a gravidade concreta do delito - utilizada, inclusive, para o incremento da pena-base - justifique a adoção de regime prisional mais severo, a teor do art. 33, § 3º, do Código Penal, à vista da quantidade de pena aplicada - inferior a 4 anos de reclusão - e da primariedade do réu, o regime mais gravoso do que o correspondente à pena aplicada é o semiaberto, e não o fechado.
+Com efeito, o paciente, além de tecnicamente primário ao tempo do delito, foi condenado a pena de 2 anos e 6 meses de reclusão, de maneira que, mesmo diante da gravidade concreta do delito, não se mostra idôneo o regime inicial fechado.
+Nessa perspectiva:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. REGIME INICIAL DE CUMPRIMENTO DA PENA. RÉU PRIMÁRIO. PENA IGUAL A 4 ANOS DE RECLUSÃO.
+GRAVIDADE CONCRETA DO DELITO. ILEGALIDADE NA FIXAÇÃO DIRETA DO REGIME FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2. A gravidade concreta do delito justifica a fixação, ao réu primário, de regime prisional mais gravoso do que o correspondente à pena aplicada que, se igual ou inferior a 4 anos de reclusão, deve ser, a princípio, o semiaberto; afigura-se assim desproporcional a escolha, per saltum, do regime fechado.
+3. Agravo regimental não provido.
+(AgRg no HC 578.937/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/02/2021)
+No tocante ao pleito de detração, verifico que,mesmo se descontado o período de prisão preventiva doréu,o regime inicial continuaria sendo o semiaberto, porque fixado com base na avaliação desfavorável das circunstâncias judiciais - e não apenas no quantum de pena aplicado.
+Ademais, registro que, com a expedição da guia para recolhimento do condenadoe remessa do caso ao Juízo da Execução Criminal, haverá a adequação das particularidades do sentenciado, inclusive a detração penal e a progressão de regime, nos termos do art. 66, VI, da Lei n. 7.210/1984.
+À vista do exposto,concedo a ordemin limine, a fim de fixar o regime inicial semiaberto ao paciente.
+Publique-se e intimem-se.
