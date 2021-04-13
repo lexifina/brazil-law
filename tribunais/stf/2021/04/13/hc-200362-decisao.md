@@ -1,0 +1,39 @@
+DECISÃO:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Jose Paulo dos Santos, apontando como autoridade coatora o Presidente do Superior Tribunal de Justiça, Ministro Humberto Martins, que indeferiu liminarmente a inicial no HC nº 657.047/MG.
+    Consta dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva ante a suposta prática do crime descrito no art. 33, caput, da Lei nº 11.343/2006(tráfico de drogas).
+    O impetrante alega ser o caso de mitigação do verbete nº 691 da Súmula do Supremo.
+    Sustenta a ausência de fundamentação idônea para justificar a prisão preventiva, referindo-se a ausência de laudo preliminar ou definitivo da substância apreendida.
+    Aponta incongruências, pois, consoante assevera, o auto de apreensão constou 1,00g de cocaína e na decisão por meio da qual imposta a preventiva foi lançada a quantidade de 450 g de pasta base de cocaína.
+    Diz tratar-se de paciente primário, com bons antecedentes e residência fixa, entendendo viável a aplicação de medidas cautelares diversas da prisão.
+    Requer, liminarmente, a concessão da ordem para revogar a preventiva do paciente.
+    Examinados os autos, decido.
+    Ressalto inicialmente não ser o caso de eventual aplicação ou não da Súmula nº 691/STF.
+    Não se trata, na espécie, de decisão indeferindo pretensão liminar, mas de decisão segundo a qual o eminente Ministro Humberto Martins indeferiu de plano a inicial do HC nº 657.047/MG, uma vez que questionava decisão indeferitória de liminar do Tribunal de Justiça.
+    Logo, a questão submetida à discussão do Superior Tribunal Justiça e reiterada neste habeas corpus não teria sido objeto de análise definitiva por parte daquele Tribunal de Justiça estadual. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível dupla supressão de instância.
+    Segundo a pacífica jurisprudência da Corte,
+    “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão de Relator que, em HC requerido a Tribunal Superior, indefere liminarmente o pedido com supedâneo na Súmula 691 desta Corte. Essa circunstância impede o exame da matéria por este Tribunal, sob pena de se incorrer em dupla supressão de instância, com evidente extravasamento dos limites da competência descritos no art. 102 da Carta Magna” (HC nº 117.761/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/10/13).
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ademais, vale registrar que a impetração se volta contra decisão singular proferida nos autos do HC nº 657.047/MG. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, registro que o Juízo de primeira instância fundamentou a prisão preventiva na garantia da ordem pública, tendo em vista a quantidade de droga apreendida(450g de pasta base) a qual permitiu concluir que ”não se trata de tráfico de pequena monta, estando o autuado envolvido com criminalidade mais grave, que lhe garante acesso a elevada quantidade de droga” :
+    “(…)
+    Consta que, em abordagem de rotina, na rodovia MG-050, policiais militares encontraram aproximadamente quatrocentos e quarenta gramas de pasta base de cocaína no veículo do autuado, que admitiu que fazia o transporte do entorpecentes, de Betim para Divinópolis.
+    O auto de prisão em flagrante encontra-se formalmente em ordem e a situação de flagrância está demonstrada, ante o quadro supra referida, não sendo, portanto, o caso de relaxamento. Ladro outro, tenho como imperativa a decretação da prisão preventiva do indiciado, não obstante a primariedade técnica.
+    A materialidade do crime está satisfatoriamente demonstrada pela apreensão da droga, em elevada quantidade, indicativa de tráfico, e a própria prisão em flagrante em sua posse/guarda é forte indício de autoria.
+    O tráfico de drogas, por si só, é grave, causa repulsa e gera inquietação social. Por sua própria natureza, coloca em risco a saúde e a ordem públicas, pois é a causa da desgraça e infelicidade de várias famílias brasileiras, cujos jovens — que não conseguem deixar o vício — sabidamente perdem a noção de certo e errado e fazem de tudo para sustentá-lo.
+    No caso presente, a elevada quantidade de droga, e seu tipo (pasta base de cocaína, que seria desdobrada em volume muito maior), permite concluir - dentro da análise dos fatos cabível neste momento - que não se trata de tráfico de pequena monta, estando o autuado envolvido com criminalidade mais grave, que lhe garante acesso a elevada quantidade de droga. ” (doc. 5).
+    Ademais, segundo a jurisprudência da Corte “a falta de laudo pericial não possui o condão de afastar, de modo inarredável, a ocorrência de crime.
+    “HABEAS CORPUS. PENAL MILITAR E PROCESSUAL PENAL MILITAR. TRÁFICO, POSSE OU USO DE ENTORPECENTE EM LUGAR SUJEITO À ADMINISTRAÇÃO MILITAR. ART. 290 DO CÓDIGO PENAL MILITAR. AUSÊNCIA DO AUTO DE APREENSÃO E DO LAUDO PRELIMINAR. MERA IRREGULARIDADE. MATERIALIDADE DELITIVA COMPROVADA POR OUTROS MEIOS. INAPLICABILIDADE DA LEI 11.343/2006. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA PROPORCIONALIDADE.
+    1. A ausência de auto de apreensão e do laudo inicial de constatação configura mera irregularidade, inábil a invalidar a condenação penal, desde que lastreada esta em outras provas idôneas. Precedentes.
+    2. O Plenário deste Supremo Tribunal Federal, nos autos do HC 103.684/DF, Rel. Min. Ayres Britto, DJe 13.4.2011, ao afastar a aplicação do princípio da insignificância nos crimes de posse, por militar, de substância entorpecente em lugar sujeito à administração castrense (art. 290 do CPM), distinguiu a qualidade da relação jurídica entre o usuário e a instituição militar da qual faz parte.
+    3. Inobstante mais benéfica a Lei 11.343/2006 em relação ao usuário de substância entorpecente, esta Suprema Corte, em observância aos princípios da hierarquia e disciplina militares, reputa aplicável o art. 290 do CPM forte no critério da especialidade da norma.
+    4. A jurisprudência deste Supremo Tribunal Federal, quanto à recepção da norma castrense pelo texto constitucional, é no sentido de que “o art. 290, caput, do Código Penal Militar não contraria o princípio da proporcionalidade e, em razão do critério da especialidade, não se aplica a Lei n. 11.343/2006” (HC 119.458/AM, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 03.4.2014) .
+    5. Ordem denegada.(HC 123.190/DF – Primeira Turma – Relatora Ministra Rosa Weber – DJe: 16/12/2014)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 13 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
