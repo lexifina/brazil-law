@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de acórdãoproferidopelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 14, caput, da Lei Federal n. 10.826/03 (porte de munições de uso permitido), à pena de 02 (dois) anos de reclusão, em regime inicial aberto, e ao pagamento de 10 (dez) dias-multa, substituída por uma pena restritiva de direitos.
+Irresignada, a defesa interpôs recurso de apelação, que restou desprovido.
+Sem ementa.
+Na petição de recurso especial, a defesa aponta violação ao disposto no art. 14, caput, da Lei Federal n. 10.826/03.Sustenta, em síntese, a atipicidade da conduta, diante da insignificância de portar seis munições de uso permitido.
+Contrarrazões às fls. 269/274.
+Admitido o recurso (fl. 277), os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 292/298).
+É o relatório. Decido.
+O recurso merece provimento.
+Conforme jurisprudência desta Corte,admite-se a aplicação do princípio da insignificância, nas hipótesesde posse ou porte de ínfima quantidade de munições, desacompanhadas de arma de fogo, diante da inexistência de perigo à incolumidade pública.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DENÚNCIA, APENAS, EM RELAÇÃO AO CRIME TIPIFICADO NO ART. 16, CAPUT, DA LEI N. 10.826/2003. PORTE ILEGAL DE 17 MUNIÇÕES, ATUALMENTE DE USO PERMITIDO, DESACOMPANHADAS DE ARMA DE FOGO. SENTENÇA ABSOLUTÓRIA REFORMADA EM GRAU DE APELAÇÃO.FUNDAMENTAÇÃO GENÉRICA. CONSTRANGIMENTO ILEGAL VERIFICADO.INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONTEXTO FÁTICO QUE NÃO REVELA ESPECIAL GRAVIDADE. PRECEDENTES. AGRAVO IMPROVIDO.1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.2. A jurisprudência dos Tribunais Superiores reconheceu ser possível aplicar o princípio da insignificância na hipótese de apreensão de pequena quantidade de munição (em regra, de uso permitido), desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública.3. Na hipótese dos autos, a Corte de origem, sem considerar as excepcionalidades do caso concreto, entendeu que a atipicidade da conduta somente tem lugar quando apreendidos até 6 (seis) cartuchos de munições. Contudo, embora a conduta do acusado amolde-se formalmente ao tipo penal previsto no art. 16, caput, da Lei n.10.826/2003, na hipótese dos autos, verifica-se a possibilidade de aplicação do princípio da insignificância, devendo ser restabelecida a sentença absolutória de primeiro grau.4. Foram apreendidas com o acusado, em via pública, 17 munições (atualmente consideradas de uso permitido), e, posteriormente, 1 colete balístico e pinos vazios possivelmente utilizados como invólucros de drogas, encontrados em sua residência. Assim, ainda que considerado referido contexto fático, tem-se que as circunstâncias não denotam especial gravidade, a afastar a incidência do princípio da insignificância, dada a incapacidade de os itens apreendidos causarem ofensa à incolumidade pública.5. Agravo regimental em habeas corpus improvido.
+(AgRg no HC 566.373/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 18/05/2020).
+No caso dos autos,o porte de apenas 06 (seis) munições de uso permitido, desacompanhada de arma de fogo, é desprovidode lesividade ao bem jurídico tutelado.
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial para absolver o recorrente, com fundamento no art. 386, III, do CPP.
+Publique-se. Intimem-se.
