@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça da respectiva unidade federativa, que manteve a fração de 1/6 para majorar a continuidade delitiva.
+Nas razões do recurso, o insurgente aponta violação ao art. 71, parágrafo único, do CP.
+Em síntese, alega equivoco na aplicação do patamar mínimo de aumento da pena aplicada aos acusados, em razão da incidência de continuidade delitiva, não obstante tenha expressamente reconhecido a existência de dois crimes e de circunstância judicial negativa em desfavor deles, inobservando, com isso, o critério subjetivo exigido para a exasperação da pena, insculpido no artigo 71, § único, do Código Penal.
+Requer a majoração da fração de aumento referente à continuidade delitiva.
+Após juízo de admissibilidade, os autos ascenderam a esta Corte Superior.
+O Ministério Público Federal opinou pelo provimento do recurso (e-STJ, fls. 1170-1175).
+É o relatório.
+Decido.
+No que se refere à fração aplicável pelo reconhecimento da continuidade delitiva, o Tribunal de origem asseverou:
+"O Ministério Público do Estado do Paraná aduziu em suas razões recursais que, apesar do entendimento do Juízo de que os delitos de roubo ocorridos em Arapongas/PR e em Rolândia/PR se deram em continuidade delitiva, o reconhecimento da continuidade delitiva aumentou a pena em 1/6 (um sexto), porém, há de ser reconhecido o aumento da pena prevista no art. 71, parágrafo único, do Código Penal, aumentado a pena até o triplo.
+Tal aumento tem fundamento no fato de que os agentes cometeram os roubos mediante grave ameaça tendo sido utilizadas diversas armas de fogo e, inclusive, restrição da liberdade das vítimas.
+Ademais, aduziu a reincidência de todos os agentes, desse modo, os motivos e as circunstâncias possibilitam o aumento da pena até o triplo.
+Não merece acolhimento tal pleito.
+ ..
+Segundo o entendimento do Superior Tribunal de Justiça, "a escolha da fração utilizada para majorar a pena no reconhecimento da continuidade delitiva prevista no art. 71, parágrafo único, do Código Penal, deve ser fundamentada com base no número de infrações cometidas, bem como nas circunstâncias judiciais do art. 59 do Código Penal." (HC 168.716/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 02/12/2014, DJe 11/12/2014)
+ ..
+Desta forma, vislumbra-se que o MM.Magistrado a quo sopesou a continuidade delitiva, prevista no caput, do referido artigo tendo em vista a existência de um só crime de roubo cometido na sequência, além das circunstância judiciais tais como valoradas.Sendo assim, vislumbro ser proporcional o aumento em 1/6 (um sexto) da pena, tal como fundamentando na r.sentença" (e-STJ, fls. 959-962)
+No parágrafo único do art. 71 do CP, a lei somente estipula a exasperação máxima da continuidade delitiva específica (até o triplo), não apontando a fração mínima aplicável. Contudo, em sintonia com o caput do art. 71 do Código Penal, impõe-se a utilização do parâmetro mínimo de 1/6 (um sexto), sob pena da continuidade delitiva específica tornar-se inútil, por ser substituída pelo concurso material.
+Estabelecido o espectro de exasperação entre 1/6 (um sexto) e o triplo, infere-se da norma que a fração de aumento da continuidade delitiva específica, descrita no art. 71, parágrafo único, do Código Penal, é determinada pela combinação de elementos objetivos - quantidade de crimes dolosos praticados contra vítimas diferentes, com violência ou grave ameaça à pessoa - e subjetivos, consistentes na análise da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, dos motivos e das circunstâncias do crime.
+Nesse sentido:
+"PROCESSUAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. LATROCÍNIO. DOSIMETRIA. CONTINUIDADE DELITIVA ESPECÍFICA. FRAÇÃO DE AUMENTO. LEGALIDADE. REGIME INTEGRALMENTE FECHADO. INCONSTITUCIONALIDADE. PROGRESSÃO. POSSIBILIDADE. SÚMULA 471 DO STJ. APLICAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+ ..
+2. Conforme orientação firmada nesta Corte, a majoração da pena pela aplicação do art. 71, parágrafo único, do Código Penal, deve se pautar por critérios objetivos (número de infrações cometidas) e subjetivos (circunstâncias judiciais do art. 59 do Código Penal).
+3. Admitido o acréscimo da pena no patamar de 1/3 pela continuidade delitiva específica quando, cometidas apenas duas infrações (duplo latrocínio), as circunstâncias judiciais se mostrarem desfavoráveis ao réu, como no caso.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para, respeitado o regime inicial fechado, determinar ao Juízo das Execuções Penais que examine o cabimento da progressão, observada a fração de 1/6, nos termos do art. 112 da LEP. "(HC 187.617/RJ, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 4/8/2015, DJe 20/8/2015)
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ROUBO DUPLAMENTE MAJORADO EM CONTINUIDADE DELITIVA ESPECÍFICA. PENA-BASE. ALEGAÇÃO DE BIS IN IDEM. INOCORRÊNCIA. CONDENAÇÕES DEFINITIVAS DISTINTAS UTILIZADAS PARA FINS DE MAUS ANTECEDENTES E REINCIDÊNCIA. POSSIBILIDADE. AUMENTO SUPERIOR À FRAÇÃO MÍNIMA PELAS DUAS MAJORANTES RECONHECIDAS. FUNDAMENTAÇÃO COM BASE APENAS NO CRITÉRIO NUMÉRICO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. INTELIGÊNCIA DA SÚMULA N. 443/STJ. CRIME CONTINUADO ESPECÍFICO. FRAÇÃO DE 1/3 FUNDAMENTADA NA QUANTIDADE DE CRIMES (TRÊS), NOS ANTECEDENTES E NA REINCIDÊNCIA DO ACUSADO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- A fração de aumento pela continuidade delitiva específica, descrita no art. 71, parágrafo único, do Código Penal, pressupõe a análise de requisitos objetivos (quantidade de crimes praticados) e subjetivos, estes consistentes na análise da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, dos motivos e das circunstâncias do crime.
+- Inexiste constrangimento ilegal quando o Tribunal de origem estabeleceu a fração de 1/3 pela continuidade delitiva específica, com base na quantidade de infrações (3 delitos), na reincidência e nos maus antecedentes do acusado.
+- Habeas corpus não conhecido. Ordem concedida ex officio, para reduzir a pena do paciente para 8 anos e 22 dias de reclusão, mantidos os demais termos da condenação." (HC 351.895/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2016, DJe 24/05/2016)
+No caso, considerando a prática de dois roubos e a valoração negativa de circunstâncias judiciais, a exasperação da pena em 1/6 mostra-se desproporcional, porquanto, em se tratando de crime continuado específico, não se utiliza apenas o critério objetivo da quantidade de crimes, devendo o julgador sopesar, também, as circunstâncias judiciais dos acusados.
+Passo, assim, a redimensionar a pena utilizando os parâmetros estabelecidos na origem.
+Partindo-se da pena intermediária de 9 anos, 9meses e 18dias de reclusão, aplicoo aumento de 1/3referente à continuidade delitiva, o que resulta na pena definitiva a todos os réus em 13 anose 24dias de reclusão.
+Ante o exposto, douprovimento ao recurso especial, paradeterminar que a causa de aumento da continuidade delitiva corresponda à fração de1/3 e fixar a pena privativa de liberdade dos recorridos em 13 anose 24 dias de reclusão, mantendo-se, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
