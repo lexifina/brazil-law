@@ -1,0 +1,15 @@
+DECISÃO
+LEANDRO HENRIQUE FURQUINalega sofrer coação ilegal em face de acórdão do Tribunal a quo. Busca a prisão domiciliar ou a"substituição da pena privativa de liberdade imposta  ..  por restritiva de direitos" (fl. 6),em razão da pandemia da Covid-19.
+Decido.
+O condenado cumpre pena privativa de liberdade (12 anos de reclusão) por crimes de tráfico de drogas e receptação,com vencimento em 12/11/2030.
+O princípio da legalidade norteia a execução e os benefícios do sistema progressivo são deferidos de acordo com o que a lei dispuser. Ademais, a  Recomendação  n.  62/2020 é  mera  orientação; não  criou  direito  subjetivo  ao  desencarceramento .  Tem  de  ser  aplicada  com  razoabilidade, ponderados : a)  a especial vulnerabilidade de alguns presos; b) o  cenário  de  surto  da  Covid-19  em  cada  ambiente  carcerário( conforme  indica  o  próprio  art.  5º) e c) as  características  da  execução , penal, pois mesmo durante a pandemia  persiste o  direito  da  coletividade  em  ver  preservada  a  segurança  pública.
+A Recomendação 91/2020, do CNJ,considerandoa subsistência e o agravamentoda crise sanitária, resolveu:
+Art. 1º Recomendar  ..  a adoção de medidas preventivas adicionais à propagação da infecção pelo novo Coronavírus e suas variantes - Covid-19, no âmbito dos estabelecimentos do sistema prisional,  ..
+§ 1º As disposições da Recomendação CNJ N. 62/2020e suas atualizações permanecem aplicáveis no que couber, até 31 de dezembro de 2021, competindo a cada autoridade judicial e tribunal compatibilizá-las com o contexto epidemiológico local e a situação concreta dos casos analisados, devendo ser observado que as medidas previstas nos arts. 4º e 5º da Recomendação n. 62/2020não se aplicam às pessoas condenadas .. por crimes hediondos  ..
+Assim, épreciso equilíbrio ao adotar medidas de desencarceramento, poisem toda análise de interesses e valores divergentes, há a necessidade de pautar as decisões judiciais pelo princípio da proporcionalidade.
+A  "Recomendação  n.  62/2020,  do  CNJ  ..  não  confere  direito  subjetivo  aos  detentos  .. .  Verificada  a  adequação  do  ambiente  prisional  às  recomendações  expedidas  pelas  autoridades  sanitárias  ..  não  se  constata  a  necessidade  da  adoção  de  medidas  excepcionais  na  execução ..  (Supremo  Tribunal  Federal,  AP  996/DF,  decisão  monocrática,  Min.  Edson  Fachin,  DJe  7/4/2020).
+O apenadoostenta condenaçãopor crime equiparado a hediondo (tráfico de drogas) e não comprovou excepcionalidade concreta a justificar medidas de desencarceramento. Não há evidênciadecondição clínicafragilizada oude contexto epidemiológico preocupante, no local de sua reclusão, comcasos graves e morte pela Covid-19 entre os detentos.Não era possível a concessão da ordem. O pedido da defesa vai de encontro àRecomendação n. 78/2020 do CNJ, que dispõe: "
+Art. 1º ARecomendação CNJ N. 62/2020passa a vigorar acrescida do seguinte dispositivo:
+Art. 5-A. As medidas previstas nos artigos 4º e 5º não se aplicam às pessoas condenadas  ..  por crimes hediondos  .. .
+À vista do exposto, nego provimento ao recurso ordinário, in limine.
+Publique-se e intimem-se.
