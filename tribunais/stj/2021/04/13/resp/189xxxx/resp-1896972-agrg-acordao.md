@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. APLICAÇÃO. NÃO AFETAÇÃO DO ENTENDIMENTO DE INTEMPESTIVIDADE DO RECURSO ESPECIAL. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. INTERPOSIÇÃO POR MEIO DE CORREIO ELETRÔNICO (E-MAIL). LEI N. 9.800/99. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que se aplicasse o princípio da fungibilidade recursal, recebendo os anteriores embargos de declaração como agravo regimental, o recurso seria desprovido.
+2. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil - CPC e no art. 798 do Código de Processo Penal - CPP (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+3. Verifica-se que acórdão recorrido foi publicado em 23/7/2019 e, não obstante o recurso especial tenha sido interposto em 7/8/2019, dentro do prazo legal, foi feito por meio inadequado, uma vez que "o envio de petição ao Tribunal via e-mail não configura meio eletrônico equiparado a fac-símile para fins de aplicação do disposto no art. 1º da Lei 9.800/1999, não tendo, portanto, o condão de estender o prazo para a entrega da petição original" (AgRg no AREsp 698.745/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/8/2015).
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO TIEPOLO contra decisão da Presidência desta Corte, que não conheceu do recurso especial, ante a intempestividade, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça - RISTJ (fls. 1964/1965).
+O agravante alega que: "(..) poder-se-ia ter reconhecido e aplicado, o princípio da fungibilidade recursal, nos termo do art. 579 da Lei Adjetiva Penal (..)" (fl. 1985). Afirma que na hipótese o recurso que deveria ter sido manejado inicialmente era o agravo regimental, no prazo de cinco dias, ocorre que a defesa primária interpôs recurso inadequado de embargos de declaração no prazo de cinco dias, e assim, aplicar-se-ia o prazo deste, não do outro, descaracterizando assim a má fé recursal.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 2040/2061).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. APLICAÇÃO. NÃO AFETAÇÃO DO ENTENDIMENTO DE INTEMPESTIVIDADE DO RECURSO ESPECIAL. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. INTERPOSIÇÃO POR MEIO DE CORREIO ELETRÔNICO (E-MAIL). LEI N. 9.800/99. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que se aplicasse o princípio da fungibilidade recursal, recebendo os anteriores embargos de declaração como agravo regimental, o recurso seria desprovido.
+2. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil - CPC e no art. 798 do Código de Processo Penal - CPP (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+3. Verifica-se que acórdão recorrido foi publicado em 23/7/2019 e, não obstante o recurso especial tenha sido interposto em 7/8/2019, dentro do prazo legal, foi feito por meio inadequado, uma vez que "o envio de petição ao Tribunal via e-mail não configura meio eletrônico equiparado a fac-símile para fins de aplicação do disposto no art. 1º da Lei 9.800/1999, não tendo, portanto, o condão de estender o prazo para a entrega da petição original" (AgRg no AREsp 698.745/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/8/2015).
+4. Agravo regimental desprovido.
+VOTO
+O recurso não merece ser provido.
+Ainda que se aplicasse o princípio da fungibilidade recursal, recebendo os anteriores embargos de declaração como agravo regimental, o recurso seria desprovido, o que aqui será mantido.
+É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, do CPP (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+Verifica-se que o acórdão recorrido foi publicado em 23/7/2019 (fl. 1798) e, não obstante o recurso especial tenha sido interposto em 7/8/2019 (fl. 1801/1811), dentro do prazo legal, foi feito por meio inadequado, uma vez que "o envio de petição ao Tribunal via e-mail não configura meio eletrônico equiparado a fac-símile para fins de aplicação do disposto no art. 1º da Lei 9.800/1999, não tendo, portanto, o condão de estender o prazo para a entrega da petição original" (AgRg no AREsp 698.745/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/8/2015).
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO VIA CORREIO ELETRÔNICO. NÃO CABIMENTO. PRECEDENTES DO STJ. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO. PRECEDENTE DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. É firme o posicionamento desta Corte Superior de que o envio de petição ao Tribunal via e-mail não configura meio eletrônico equiparado a fac-símile para fins de aplicação do disposto no art. 1º da Lei 9.800/1999, não tendo, portanto, o condão de estender o prazo para a entrega da petição original (AgRg no AREsp 698.745/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 04/08/2015, DJe 17/08/2015).
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp 957.821/MS (DJe 19/12/2017), proferiu o entendimento de que, nos JIP 20 AREsp 1625488 Petição : 189761/2020 2019/0351393-1 Página 3 de 4 Superior Tribunal de Justiça termos do art. 1.003, § 6º, do CPC/15, a comprovação do feriado local, para fins de aferição da tempestividade recursal, deve ocorrer no ato da sua interposição, sob pena de preclusão.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1165264/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 1º/6/2018).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
