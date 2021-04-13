@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por CRISTIANO CAJU FREITAS E OUTROS contra acórdão prolatado, por unanimidade, pela 25ª Câmara Cível do Tribunal de Justiça do Rio Grande do Sul no julgamento de agravo de instrumento, assim ementado (fl. 147e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. ÍNDICES DE ATUALIZAÇÃO. APLICAÇÃO DA LEI Nº 11.960/09 Em condenações impostas à Fazenda Pública, deverão prevalecer os juros e o índice de correção monetária definidos no título executivo judicial, até a vigência da Lei nº 11.960/2009, quando o disposto em seu artigo 5º, de emprego imediato aos processos em curso, aplicar-se-á.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+UNÂNIME.
+Em sede de juízo de conformidade, foi dado parcial provimento ao agravo de instrumento, consoante ementa de seguinte teor (fl. 174e):
+REJULGAMENTO. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. EXECUÇÃO. RPV. REAJUSTE DA LEI Nº 10.395/95. DIFERENÇA EM RAZÃO DA MORA. TEMA 810 DO SUPREMO TRIBUNAL FEDERAL. PERÍODO ENTRE A ENTRADA EM VIGOR DA LEI Nº 11.960/2009 E 25/03/2015. CORREÇÃO MONETÁRIA PELA TR DECLARADA INCONSTITUCIONAL. JUROS DE MORA PELO INDICE APLICÁVEL À CADERNETA DE POUPANÇA PARA CRÉDITOS NÃO TRIBUTÁRIOS DECLARADA CONSTITUCIONAL. TEMA 905 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA A DEPENDER DA NATUREZA DA CONDENAÇÃO. READEQUAÇÃO.
+Em razão da tese firmada no Tema 810 pelo Supremo Tribunal Federal e no Tema 905 pelo Superior Tribunal de Justiça, impõe-se a readequação do índice de atualização.
+No caso, incide correção monetária pelo IPCA-E, da entrada em vigor da Lei nº 11.960/2009 até 25/03/2015.
+A declaração de insconstitucionalidade dos juros aplicados à caderneta de poupança aplica-se somente aos débitos tributários, hipótese em que não se enquadra o caso em tela.
+Em rejulgamento, agravo de instrumento parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (fls. 210/213e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, alegando-se, em síntese, que: "Existindo decisão transitada em julgado no sentido da aplicação do IGPM, somente tal decisum poderia ser alterado através de ação rescisória, o que o não ocorreu no caso em concreto. Portanto, deve ser respeitada a decisão transitada em julgado, restando inalterado o índice de correção e juros. Os juros no mesmo percentual da caderneta de poupança são verdadeira afronta à coisa julgada e ao bom senso, outra vez deve ser respeitada a decisão judicial transitada em julgado. Caso não tenha sido fixado o percentual dos juros, devem ser aplicados os juros legais." (fls. 228/237e).
+Sem contrarrazões, o recurso foi admitido (fls. 283/288e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante impugne acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada à Corte é o caminho apropriado para impedir a preclusão da matéria.
+No caso, observo não ter sido apontadoo dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+O Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de indicar os dispositivos legais que teriam sido interpretados de forma divergente pelos acórdãos confrontados, o que caracteriza deficiência na fundamentação recursal e atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaco precedente da Corte Especial deste Tribunal:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014, destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
