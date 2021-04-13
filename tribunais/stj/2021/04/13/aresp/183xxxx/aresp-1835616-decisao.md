@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSÉ DE CASTRO SILVA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+OBRIGAÇÃO DE FAZER - Outorga de posse de imóvel situado em área rural firmada em instrumento particular de permuta - Hipótese em que os apelantes venderam a área para terceiro após a celebração da troca - Terceiro que é sociedade empresarial constituída pelos familiares de uma das partes do contrato de troca - Impossibilidade de concessão da tutela específica diante da proibição do enriquecimento sem causa - Tentativa de ver invalidado o contrato de compra e venda por via obliqua e sem demonstração de vício no negócio jurídico - Sentença mantida por outros fundamentos - Recurso improvido.
+Quanto à controvérsia, alega violação do art. 884 do CC, relativo ao enriquecimento ilícito da parte recorrida, trazendo o seguinte argumento:
+14. Ocorre que, na verdade, o enriquecimento sem causa será da parte Recorrida em detrimento dos Recorrentes, caso o R. Acórdão permaneça como lançado.
+Deve ser repetido que não existiram dois negócios jurídicos sucessivos, mas apenas um (Permuta), o qual deveria ser materializado por meio de três escrituras públicas diversas, sendo que duas já foram celebradas, faltando apenas a celebração da terceira, que é objeto deste processo!
+15. Deve ser ressaltado que a má-fé dos Recorrentes por terem, suspostamente, celebrado dois negócios jurídicos sucessivos, foi presumida pelos Doutos Julgadores, sendo que tal argumentação sequer foi levantada pela Recorrida (e nem poderia ser, afinal não corresponde à verdade!) (fl. 486).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido decidiu:
+A escritura pública de compra e venda de imóvel, celebrada entre os apelantes e o RESIDENCIAL CIDADE JARDIM CAJOBI acostada a fls. 104/107 aponta que o imóvel de posse dos apelantes (e que seria entregue à apelada) foi transmitido a terceiro meses depois da celebração da permuta.
+Os apelantes celebraram dois negócios jurídicos sucessivos (troca e depois compra e venda) do mesmo imóvel, pretendendo que o julgador, simplesmente, ignore esse fato.
+O nosso ordenamento jurídico tem como norma fundamental a proibição do enriquecimento sem causa, o que leva ao não acolhimento da pretensão de outorga da área.
+Caso fosse concedida a obrigação de fazer, os mesmos seriam beneficiados duplamente, pois é fato incontroverso que eles receberam o pagamento pela venda total da área rural (fls. 104/107).
+O que se verifica no caso concreto, é clara tentativa de os apelantes obterem, de forma obliqua, a nulidade da compra e venda do imóvel sem provar qualquer vício existente no negócio. (fls. 459/460).
+Ademais, o Tribunal de origem, ao julgar os embargos de declaração, assim se manifestou:
+Em relação à natureza jurídica do negócio jurídico, realizados, bem como o modo pelo qual eles foram este órgão julgador já se os debruçou sobre a questão e analisou todos elementos atribuído de prova, concluindo pelo desfecho à controvérsia (fls. 459/460).
+Os embargantes não justificam a venda posterior documentada a fls. 104/107. Omitem esse negócio jurídico, exigindo, unicamente, o cumprimento da obrigação pactuada no contrato anterior de permuta de fls. 43/45.
+Conforme já fundamentado a fls. 459/460, a determinação de outorga da área definida no contrato de permuta é incabível, pois ela integra o imóvel que foi vendido pelos embargantes ao RESIDENCIAL CIDADE JARDIM CAJOBI.
+Ademais, o pedido não prospera porque no instrumento público de compra e venda não há qualquer menção em relação à permuta, assim como não há qualquer ressalva ou destinação especial quanto à área pretendida pelos embargantes.
+Portanto, apesar do esforço argumentativo dos recorrentes, não há reforma a ser feita, pois, caso contrário, estaria ocorrendo o enriquecimento sem causa. (fl. 477).
+Ademais, verifica-se que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos, o que é obstado pela Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+A propósito: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
