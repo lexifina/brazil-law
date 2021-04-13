@@ -1,0 +1,12 @@
+DECISÃO
+DELY DOS REIS GONÇALVESalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação n. 0110969-39.2017.8.26.0050.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para fixar o regime inicial semiaberto e negar a substituição da pena privativa de liberdade por restritiva de direitos. Pondera, ainda, que o paciente faz jus à progressão antecipada ao regime aberto em prisão domiciliar, nos moldes estabelecidos pelo Supremo Tribunal Federal na Medida Cautelar no HC n. 188.820/DF.
+A simples leitura da decisão constante de fls. 63-67 dos autos, proferida no AREsp n. 1.789.381/SP, permite verificar que aquestãoatinenteà possibilidade de abrandamento do regime inicial de cumprimento de pena e de substituição da medida privativa de liberdade por restritivas de direitosjá foipor mim apreciada naqueles autos. Confira-se (fl. 67, grifei):
+De plano, não há como afastar a premissa de que o acusado é reincidente específico, tendo em vista as certidões criminais de fls. 154 e 159-161.
+Em relação à fixação do regime prisional, constato que o acórdão recorrido está em consonância com a Súmula n. 269 do STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+A pretensão da defesa é contrária à jurisprudência desta Corte e ao texto expresso da lei, pois o recorrente é reincidente e, a teor do art. 33, § 2º, "c", do CP, somente é cabível a fixação do regime inicial aberto ao condenado não reincidente, cuja pena seja igual ou inferior a 4 anos de reclusão.
+A mesma fundamentação se aplica ao pedido de substituição da pena privativa de liberdade por restritivas de direitos, porquanto o réu não preenche o art. 44, § 3º, do CP.
+Logo, como o referido agravo em recurso especial também foi interposto em favor do ora paciente, se volta contra o mesmo acórdão aqui combatido e formula pleito idêntico, verifico se tratar de mera reiteração de pedido já apreciado.
+Ademais, a defesanão anexou aos autos nenhuma decisão do Juízo da execução penal, bem como acórdão da Corte estadual, que hajam apreciado a questão da progressão antecipada ao regime aberto em prisão domiciliar, circunstância que inviabiliza o exame do tema nesta oportunidade, sob pena de supressão de instância.
+À vista do exposto,indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
