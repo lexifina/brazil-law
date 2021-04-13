@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ARCENDINO ANTONIO DA CONCEIÇÃO contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, proferido no julgamento dos Embargos de Declaração em Apelação Criminal nº 0007470- 43.2018.8.24.0023/50000.
+Consta dos autos que o paciente foi condenado em primeira instância à pena de 11 (onze) meses de detenção, em regime inicial semiaberto, e ao pagamento de 60 (sessenta) dias-multa, em seu mínimo legal, por infração ao disposto no art. 163, III, do Código Penal (dano qualificado).
+Inconformada a Defensoria Pulica apelou perante Corte Estadual, que negou provimento do recurso, readequando, de ofício, a reprimenda do acusado para 7 (sete) meses de detenção e pagamento de 11 (onze) dias-multa em acórdão assim ementado (fl. 142):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO PÚBLICO. DANO QUALIFICADO (ART. 163, PARÁGRAFO ÚNICO, III, DO CP). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO ABSOLUTÓRIO PELO RECONHECIMENTO DA ATIPICIDADE MATERIAL, ANTE A INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO ACOLHIMENTO.BEM JURÍDICO TUTELADO QUE NÃO PODE SER CONSIDERADO IRRELEVANTE. MANIFESTA CARGA DE LESIVIDADE. ADEMAIS, ACUSADO REINCIDENTE E POSSUIDOR DE MAUS ANTECEDENTES. HABITUALIDADE QUE IMPEDE A INCIDÊNCIA DA BAGATELA. TIPICIDADE INCONTESTE. CONDENAÇÃO MANTIDA. DOSIMETRIA. PRIMEIRA FASE. CÁLCULO EFETUADO COM BASE NA DIFERENÇA ENTRE O QUANTUM MÍNIMO E O MÁXIMO DA PENA IN ABSTRATO. READEQUAÇÃO,DE OFÍCIO, QUE SE IMPÕE. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, o Tribunal a quo rejeitou o pedido em acórdão que recebeu seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO PÚBLICO.
+DANO QUALIFICADO (ART. 163, PARÁGRAFO ÚNICO, III,DO CP). ACÓRDÃO QUE CONFIRMOU A SENTENÇA CONDENATÓRIA. ALEGADA OMISSÃO INDIRETA NO ACÓRDÃO POR NÃO TER HAVIDO A ANÁLISE, DE OFÍCIO, DA ATIPICIDADE DA CONDUTA POR AUSÊNCIA DE DOLO ESPECÍFICO. TESE NÃO VENTILADA NO APELO. INSURGÊNCIA QUE CARACTERIZA INOVAÇÃO RECURSAL. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL.
+"É vedado, em sede de embargos de declaração, ampliara matéria veiculada nas razões recursais, inovando em questões não suscitadas anteriormente no inconformismo" (Embargos de Declaração n. 0040545- 15.2014.8.24.0023, da Capital, rel. Luiz Antônio Zanini Fornerolli, Quarta Câmara Criminal, j. 05-12-2019).
+EMBARGOS NÃO CONHECIDOS.
+Na presente impetração, a Defensoria Pública busca, em sede liminar, a suspensão dos efeitos da condenação até julgamento definitivo do mandamus e, no mérito, que "seja DECLARADA a ilegalidade do acórdão impugnado, para (d.1) absolver o Paciente em relação ao crime de dano qualificado (CP, art. 163, par. único, III), tendo em vista a manifesta atipicidade de sua conduta (CPP, art. 386, III); (d.2) subsidiariamente, anular o acórdão citra petita, determinando-se ao TJSC a prolação de nova decisão, desta vez enfrentando a tese da defesa formulada em embargos de declaração" (fl. 9).
+Liminar indeferida às fls. 292/294.
+O Ministério Público Federal opinou pelo não conhecimento da impetração, conforme parecer de fls. 319/323
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Ademais, a tese de ausência de dolo específico somente foi deduzida em sede de embargos de declaração no julgamento da apelação, não tendo o TJSC conhecido do recurso diante da evidente inovação recursal.
+Desse modo, resta afastada a competência desta Corte Superior para análise da matéria sob pena de incorrer em indevida supressão de instância. Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PARTICULAR. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MULTA.
+SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. INEXISTÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como esta Corte Superior conhecer do habeas corpus cuja matéria não haja sido analisada previamente pelo Tribunal a quo, sob pena de, se assim o fizer, incorrer em indevida supressão de instância.
+2. Não é socialmente recomendável a aplicação da multa substitutiva em crimes cujo preceito secundário do tipo penal preveja multa cumulativa com a pena privativa de liberdade. Precedentes.
+3. Na espécie, a tese defensiva não foi formulada perante o Tribunal estadual em apelação, mas apenas no bojo dos aclaratórios, em evidente inovação recursal. Ademais, não há ilegalidade manifesta a autorizar a concessão da ordem de ofício. A substituição da pena privativa de liberdade por restritiva de direitos - em vez de multa, como pretende o agravante - é a medida socialmente recomendável, notadamente porque é cominada pena de reclusão cumulada com multa ao delito pelo qual o agente foi condenado.
+4. Agravo regimental não provido (AgRg no HC 608.585/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/12/2020, DJe 15/12/2020).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
