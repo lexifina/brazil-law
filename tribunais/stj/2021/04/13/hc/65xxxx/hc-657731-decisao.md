@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ALINE GRACIELE SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A paciente foi presa preventivamente no dia 1º de abril de 2021, em razão da suposta prática dos crimes previstos nos artigos 33, caput, e 35, ambos da Lei 11.343/2006.
+Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o tribunal de origem, visando a revogação da prisão preventiva.
+Sustenta, em síntese, que a segregação cautelar da paciente, além de despida de fundamentação idônea, não preenche os requisitos autorizadores previstos no art. 312 do CPP. Ressalta a existência de três filhos menores de 12 anos de idade.
+Requer a concessão da ordem, liminarmente, para que a paciente seja colocada em liberdade. Subsidiariamente, requer a substituição da prisão preventiva por prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Como bem ressaltado pelo Tribunal a quo:
+Observado os autos da Prisão Preventiva nº 50021295720218210013, constata-se que a paciente foi apontada como integrante de uma associação criminosa de tráfico de drogas, sendo a responsável por armazenar as drogas, distribuí-las nos pontos de vendas e, posteriormente, arrecadar o dinheiro. Soma-se a isso o fato de ser sobrinha de um criminoso de alta periculosidade, que atualmente está preso, considerado um dos líderes do tráfico de drogas em Erechim, pertencente à facção criminosa denominada "Os Abertos". (fl. 579)
+Por fim, quanto ao pedido de prisão domiciliar, pautado no fato da paciente ter três filhos, sendo um deles menor de 12 anos, tenho que o modus operandi aparentemente empregado pela paciente na prática delitiva, associado a sua aparente reiteração criminosa, não indicam que a convivência da acusada com os seus filhos é a melhor solução a ser seguida, ou que essa possa protegê-los; pelo contrário, os fatos até agora revelados demonstram que a manutenção da paciente em seu lar, além de permitir que ela prossiga livremente no mister de comercializar drogas, é negativa para as crianças, por sua aparente dedicação a atividades criminosas. (fl. 640)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
