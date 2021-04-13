@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 285):
+APELAÇÃO CÍVEL. REVISIONAL. CONTRATOS DE FINANCIAMENTO. DESCONTO CONSIGNADO E EM CONTA CORRENTE. BASE DE CÁLCULO PARA FINS DE CONSIGNAÇÃO. REMUNERAÇÃO GERAL BRUTA. NÃO É CABÍVEL A LIMITAÇÃO DE 30% EM RELAÇÃO AOS EMPRÉSTIMOS NÃO CONSIGNADOS. PRINCÍPIO DA AUTONOMIA DA VONTADE.
+1. O parâmetro a ser utilizado para fins de apuração de eventual ilícito quanto à margem de consignação, é a remuneração total do servidor público civil, e não o seu rendimento líquido, consoante se extrai do art. 45, §2º, da Lei 8.112/90.
+2. A legislação que limita o desconto a 30% da remuneração do devedor diz respeito apenas aos empréstimos consignados em folha de pagamento, não sendo a referida norma aplicável aos descontos que incidem diretamente na conta corrente.
+3. Deve ser preservado o princípio da autonomia da vontade contratual manifestada pelo consumidor, quando este contrai dívidas no exercício da capacidade contratual plena.
+4. Recurso conhecido e provido.
+Embargos de declaração rejeitados.
+No recurso especial a recorrente alega violação do artigo 1.022, I e II, do CPC/2015 pois, segundo afirma, a Corte local "ignora os princípios da boa-fé nas relações consumeristas, o dever dos fornecedores de prover adequada informação sobre o serviço adquirido, a função social do contrato e os limites de desconto previstos em lei" para "acolher o argumento que os empréstimos preveem desconto em folha e conta corrente, o que afastaria o limite legal de 30% (trinta por cento) de endividamento previsto em lei" (fl. 318).
+Quanto à questão de fundo, além de dissídio jurisprudencial, sustenta ofensa aos artigos 421 do Código Civil, 4º, III, 6º, II e III, 47 e 51, IV, do CDC, 5º do Decreto 8.690/2016 e 1º da Lei 10.820/2003, sob o argumento de que em respeito à boa-fé, função social dos contratos, dignidade da pessoa humana e equilíbrio contratual, os descontos realizados pelo recorrido devem limitar-se a 30% (trinta por cento) dos seus rendimentos líquidos. Pugna, ao final, pela concessão de efeito suspensivo ao recurso especial, pois "aplicação imediata do v. acórdão atacado acarretará perda de 90,24% (noventa inteiros e vinte e quatro centésimos por cento) da renda da recorrente" (fl. 332).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+A propósito, entendimento contrário ao interesse da parte e omissão no julgado são conceitos que não se confundem.
+Quanto aos demais aspectos, colhe-se do acórdão a quo a seguinte fundamentação (fls. 287-291, com grifos nossos):
+ ..
+Analisando a prova documental acostada, verifica-se que a autora, de forma livre e espontânea, contratou 1 empréstimo consignado e 2 financiamentos por meio de Cédulas de Crédito Bancário, quais sejam: BB Renovação Consignação nº 917626617, com parcelas de R$ 7.574,87; BB Crédito Automático nº 913864396, com parcelas de R$ 7.596,40 e BB Crédito Veículo Próprio nº 918861640, com parcelas de R$ 1.822,19.
+Em todos eles, comprometeu-se a pagar os respectivos débitos em parcelas prefixadas, por meio de autorização expressa de desconto em folha (empréstimo consignado) ou em conta bancária.
+EMPRÉSTIMO CONSIGNADO
+O chamado débito consignado tem de guardar respeito à lei, ficando o desconto limitado a 30% (trinta por cento) da remuneração do servidor, nos termos do art. 45 da Lei 8.112/90.
+Cumpre destacar, que não há previsão legal para que a limitação ao empréstimo consignado seja sobre o rendimento líquido.
+No caso concreto, o parâmetro a ser utilizado para fins de apuração de eventual ilícito quanto à margem de consignação, é a remuneração total do servidor público civil, e não o seu rendimento líquido, consoante se extrai do art. 45, § 2º, da Lei 8.112/90 e legislação aplicável à servidora pública do Tribunal Superior Eleitoral.
+ ..
+No que concerne ao empréstimo consignado, examinando os contracheques colacionados à inicial (ID 121867732), verifica-se que a remuneração da autora/apelada sem o desconto do empréstimo consignado totalizaria o importe de R$ 26.994,18. Verifico ainda que não há nos contracheques nenhum dos itens listados no art. 14 da Resolução Normativa nº 5 do TST para fins de exclusão no cálculo percentual cabível a título de consignação. Assim, fazendo incidir o percentual de 30% sobre a remuneração em questão chega-se ao valor de R$ 8.098,25.
+Ocorre que o desconto do empréstimo consignado atinge a quantia de R$ 7.574,87, portanto, verifica-se que os descontos no contracheque da autora não ultrapassaram 30% de sua remuneração bruta.
+ ..
+EMPRÉSTIMOS COM DESCONTO DIRETO EM CONTA CORRENTE
+Quanto aos empréstimos com desconto em conta corrente, assiste razão à ré/apelante, ao argumentar que sobre estes não incide limitação de 30% dos rendimentos da autora.
+Na espécie, a autora, de forma livre e espontânea, entabulou com o banco réu mais dois contratos de financiamento (cédulas de crédito bancário), comprometendo-se a pagar as parcelas fixas e mensais ajustadas por meio de descontos diretamente em conta corrente. Como se vê, os descontos se tratam da forma de pagamento estabelecida em contrato, além do que os valores descontados correspondem às parcelas legitimamente acordadas entre as partes, e não a valores salariais aleatoriamente apropriados pelo banco réu.
+Em outras palavras, os descontos mensais das parcelas contratadas constituíram forma de pagamento ajustada entre as partes, não se confundindo com o confisco aleatório de valores na conta do mutuário.
+ ..
+Portanto, o que acontece é apenas o exercício regular do direito do credor de descontar da conta bancária do devedor o valor das parcelas contratadas, sendo, tanto o montante descontado mensalmente quanto a forma de pagamento, previstos nos negócios jurídicos validamente pactuados entre as partes, no exercício de sua capacidade civil plena.
+Destarte, ausente qualquer ilícito perpetrado pelo banco réu em promover os descontos das parcelas contratadas na conta corrente do autor, não há que se falar em limitação quanto aos empréstimos realizados mediante débito em conta, sendo que a limitação ao percentual de 30% deve ser observado apenas em relação ao empréstimo contratado na modalidade de consignação em folha.
+ ..
+A leitura do excerto acima transcrito evidencia que o entendimento externado pelo Tribunal de origem encontra-se em conformidade com a jurisprudência desta Corte, segundo a qual, os descontos incidentes nos proventos/remuneração de servidor público, a título de empréstimo consignado, devem ser limitados em 30% da remuneração.
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITE DE 30% DOS VENCIMENTOS. MATÉRIA PACIFICADA. AGRAVO INTERNO DO BANCO BMG S/A A QUE SE NEGA PROVIMENTO.
+1. No tocante aos empréstimos consignados, esta Corte pacificou o entendimento de que a autorização para o desconto na folha de pagamento de prestação de empréstimo contratado não constitui cláusula abusiva, porquanto se trata de circunstância que facilita a obtenção do crédito com condições mais vantajosas, contanto que a soma mensal das prestações destinadas ao desconto dos empréstimos realizados não ultrapasse 30% dos vencimentos do trabalho, em função do princípio da razoabilidade e do caráter alimentar dos vencimentos.
+2. Não há que se falar em violação às Súmulas 5 e 7/STJ, na análise de tal controvérsia, uma vez que não se faz necessário reexame da prova dos autos ou do contrato bancário para o provimento do Recurso Especial, tratando-se apenas de aplicação do entendimento sedimentado nesta Corte.
+3. Agravo Interno do BANCO BMG S/A a que se nega provimento (AgInt no AREsp. 194.810/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/2/2017).
+DESCONTO EM FOLHA DE PAGAMENTO CONSIGNADO. SERVIDOR PÚBLICO ESTADUAL. LIMITE DE 30%. NORMATIZAÇÃO FEDERAL.
+1. O decisum vergastado, ao estabelecer o limite de desconto consignado em 70% (setenta por cento) do valor bruto do vencimento da agravada, destoa da orientação do STJ, no sentido de que tal limite deve ser de 30% (trinta por cento) dos rendimentos líquidos do servidor público.
+2. Os descontos de empréstimos na folha de pagamento são limitados ao percentual de 30% (trinta por cento) em razão da natureza alimentar dos vencimentos e do princípio da razoabilidade.
+3. Agravo Regimental não provido (AgRg no REsp 1.414.115/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/6/2014).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. EMPRÉSTIMO CONSIGNADO. DESCONTO LIMITADO A 30% DA REMUNERAÇÃO.
+1. É firme a jurisprudência desta Corte no sentido de que eventuais descontos em folha de pagamento, relativos a empréstimos consignados tomados por servidor público, estão limitados a 30% (trinta por cento) do valor de sua remuneração.
+2. Agravo regimental não provido (AgRg no RMS 29.988/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/6/2014).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. LIMITAÇÃO DO DESCONTO EM FOLHA DE PAGAMENTO DO SERVIDOR. PATAMAR DE 30% DA REMUNERAÇÃO. SÚMULA 280/STF. NÃO INCIDÊNCIA. QUESTÃO EXCLUSIVAMENTE DE DIREITO. REEXAME DE FATOS E PROVAS. DISPENSABILIDADE. SÚMULA VINCULANTE 10/STF. NÃO APLICABILIDADE, NA ESPÉCIE.
+1. Os arts. 2º, § 2º, inc. I, da Lei n. 10.820/2003 e 45, parágrafo único, da Lei n. 8.112/1990, estabelecem que a soma dos descontos em folha de pagamento referentes às prestações de empréstimos, financiamentos e operações de arrendamento mercantil não poderá exceder 30% da remuneração do servidor.
+2. Não incidência da Súmula 280/STF, porquanto a limitação dos descontos em folha é estabelecida com base em legislação federal (Leis n. 10.820/2003 e n. 8.112/1990).
+3. A questão é exclusivamente de direito, dispensando análise de fatos e provas.
+4. Ausente declaração de inconstitucionalidade ou negativa de vigência de lei ou ato normativo de Poder Público, razão pela qual não há falar em aplicabilidade da Súmula Vinculante 10/STF, na espécie.
+5. Agravo regimental a que se nega provimento (AgRg no REsp 1.182.699/RS, Rel. Ministro Og Fernandes, Sexta Turma, DJe 2/9/2013).
+Nessa mesma linha, destaca-se que a orientação desta Corte é que "a limitação dos descontos aplicados à remuneração não pode ser estendida às constrições efetuadas em conta-corrente, que, pela natureza do contrato firmado com a instituição financeira, não podem sofrer restrição quanto aos lançamentos de créditos e débitos nela inseridos" (AgInt no REsp 1.812.927/DF, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 22/10/2019).
+Anote-se, ademais, que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Prejudicado o pedido de concessão de efeito suspensivo formulado nas razões recursais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO APOSENTADO. CONTRATOS DE FINANCIAMENTO. DESCONTO CONSIGNADO E EM CONTA CORRENTE. HIPÓTESES DISTINTAS.VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EMPRÉSTIMO CONSIGNADO. LIMITAÇÃO DO DESCONTO EM FOLHA DE PAGAMENTO DO SERVIDOR. PATAMAR DE 30% DA REMUNERAÇÃO. PRECEDENTES. ACÓRDÃO A QUO ASSENTADO EM FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
