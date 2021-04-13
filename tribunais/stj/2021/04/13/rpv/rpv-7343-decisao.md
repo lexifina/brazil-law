@@ -1,0 +1,4 @@
+DECISÃO
+Mediante aPetição n. 00202830/2021 (fls. 94-96), DILMA DUTRA FARIApugna pela transferência de valores para as contas pessoais indicadas à fl. 95, em razão da idade avançada dos herdeiros a da necessidade de medidas de isolamento social decorrentesda pandemia do coronavírus.
+Ante o exposto, considerando a pandemia da COVID-19 e a documentação acostada às fls. 49-50, que comprova a idade dos herdeiros/sucessores, defiro opedido de fls. 94-96 para determinar que a decisão de fl. 57 seja cumprida mediante transferência do valor principalpara as contaspessoaisdos herdeiros/sucessores DILMA DUTRA FARIA, JOSÉ EDUARDO DUTRA FARIA e JOSÉ MELO FARIA JÚNIOR, indicadasàfl. 95, respectivamente, aplicando-se os descontos legais cabíveis, cujos dados bancários deverão ser previamente conferidos pela instituição financeira.
+Publique-se. Intimem-se.
