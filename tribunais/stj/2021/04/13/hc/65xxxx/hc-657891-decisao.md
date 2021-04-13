@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de BRUNO RODRIGUES ALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação n. 0004707-22.2018.8.26.0635.
+Consta dos autos que a paciente foi condenado em primeira instância à pena de 5 anos, no regime inicial fechado, e pagamento de 500 dias-multa, pela pratica do delito tipificado no art. 33 da Lei 11.343/06 (tráfico ilícito de drogas), por trazer consigo 9,1g de cocaína.
+A defesa e o Ministério Público apelaram, tendo sido negado provimento ao recurso defensivo e dado provimento ao recurso ministerial, assim aumentando a pena para 5 anos e 10 meses de reclusão, no regime inicial fechado, e pagamento de 583 dias-multa, nos termos da seguinte ementa:
+"APELAÇÃO. Tráfico de drogas. Recursos defensivo e ministerial. Absolvição por insuficiência de provas. Inviabilidade. Autoria e materialidade do crime bem demonstradas. Depoimentos dos policiais civis em harmonia com os demais elementos probatórios coligidos aos autos. Desclassificação para o tipo previsto no artigo 28 da Lei n. 11.343/06. Não cabimento. Circunstâncias que indicam a destinação da droga ao tráfico. Dosimetria. Incremento da reprimenda diante da agravante da reincidência. Reconhecimento da reincidência como circunstância agravante e para afastar a incidência do redutor de pena do artigo 33, §4º, da Lei n. 11.343/06. Non bis in idem. Regime inicial para cumprimento de pena bem fixado. Recurso ministerial provido, negado provimento ao defensivo." (fl. 73)
+A defesa alega que o Juízo a quo não fundamentou idoneamente sua decisão. Destarte, argumenta que deve ser aplicado o redutor de pena previsto no § 4º do art. 33 da Lei 11.343/06, pois embora reincidente pelo crime de roubo, só a reincidência específica é apta a afastar o referido redutor. Assim, sustenta que deve ser fixado o regime inicial semiaberto, invocando a Súmula n. 440 desta Corte.
+De outro modo, aduz que o agravamento da pena em razão da reincidência configura bis in idem, posto que esta não pode ser majorada duplamente como circunstância judicial e agravante, nos termos da Súmula n. 241 deste Tribunal da Cidadania.
+Pugna, assim, em liminar, pela suspensão do acórdão até o julgamento do writ. No mérito, requer a aplicação do redutor do art. 33, § 4º, da Lei 11.343/06 ou, alternativamente, o afastamento da agravante de reincidência. Ao final, postula a fixação do regime intermediário.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Por tais razões, indefiro o pedido de liminar.
+Suficientemente instruídos, encaminhem-se os autos ao Parquet para parecer.
+Publique-se.
+Intimem-se.
