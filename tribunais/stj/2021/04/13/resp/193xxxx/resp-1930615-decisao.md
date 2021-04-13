@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Itaúna com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 134):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PESSOAL DO DEVEDOR.NECESSIDADE. RECURSO NÃO PROVIDO.
+1. A execução é feita em benefício do credor, mas deve haver a menor onerosidade possível para o devedor.
+2. Assim, enquanto inexistir a comunicação real à parte para adimplir voluntariamente a obrigação constante do título judicial é inviável promover atos de expropriação de bens.
+3. Agravo de instrumento conhecido e não provido, mantida a decisão que indeferiu a pretensão do agravante.
+Opostos embargos declaratórios, foram rejeitados (fls. 181/182).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 274, parágrafo único, e 513, § 3º, do CPC/2015. Sustenta que "caso as comunicações originadas do processo sejam remetidas ao endereço onde a parte tenha sido citada, e por ela não sejam recebidas em razão de mudança de endereço, considera-se válida a intimação, fluindo seu prazo de manifestação a partir da juntada aos autos do AR ou da certidão do oficial de justiça" (fl. 192).
+Ausentes as contrarrazões, cf. certidão de fl. 240.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese dos autos, o Tribunala quoassim dirimiu a celeuma relativa à intimação do executado(fls. 136/137):
+Insista-se: o agravante insurge-se contra provimento judicial que indeferiu pedido de expropriação de bens no cumprimento de sentença promovido contra o agravado. O indeferimento mencionado ocorreu porque o recorrido não foi encontrado para ser intimado.
+O exame da prova revela que foi feita intimação por meio de carta com aviso de recebimento enviada ao endereço Rua GláucusCorradi Mello, nº 179, bairro Três Marias, Município de Itaúna, conforme preconiza o disposto no art. 513, §2º, II, do CPC de 2015.
+Mas, esta restou frustrada porque o recorrido estaria "ausente".
+Diante disto, foi determinada a intimação por Oficial de Justiça, o qual certificou (arquivo eletrônico nº 23) ter comparecido no endereço indicado, todavia, deixou de proceder à intimação por não haver encontrado o Sr. Marcos Júnior da Silva Novaes, devedor. Verifico, ainda, ter ele noticiado que o agravado reside, atualmente, em outro bairro.
+Consoante assinalado, a execução é feita em benefício do credor, mas deve haver a menor onerosidade possível para o devedor.
+Logo, conforme bem ponderou o julgador do primeiro grau de jurisdição, enquanto inexistir a comunicação real à parte, tendo em vista adimplir de forma voluntária a obrigação constante do título judicial é inviável promover atos de expropriação de bens do recorrido.
+Com estes fundamentos, nego provimento ao agravo de instrumento.
+Por ocasião do julgamento dos aclaratórios, esse entendimento restou assim complementado (fls. 181/182):
+Conforme assinalado no aresto embargado (arquivo eletrônico nº 46, sequência 002), foi determinada a intimação do embargado, realizada por Oficial de Justiça. Este certificou ter comparecido no endereço indicado, todavia, noticiou que deixou de proceder à intimação por não haver encontrado o recorrido (certidão constante no arquivo eletrônico nº 23, sequência 001).
+Ora, em nosso ordenamento jurídico, a regra é a comunicação real dos atos às partes, seja citação, seja intimação. Portanto, considerando acertidão mencionada, não se pode presumir implementado o ato de comunicação.
+Nesse contexto, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
