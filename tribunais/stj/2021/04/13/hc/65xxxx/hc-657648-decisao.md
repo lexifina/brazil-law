@@ -1,0 +1,23 @@
+DECISÃO
+LUIS PAULO RAMOS VIEIRAalega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunala quono Agravo em Execução n. 0007411-21.2020.8.26.0026, em quefoi cassada concessão da progressão a regime menos gravoso.
+A defesa alega que o apenado preencheu os requisitos objetivo e subjetivo para a progressão ao regime semiaberto, não havendo que se falar na realização de exame criminológico, exigido pelo Tribunal de origem.
+Requer, assim, a concessão da ordem, a fim de que seja restabelecida a decisão proferida pelo Juízo das execuções, dada a violação da Súmula n. 439 do STJ.
+Decido.
+A Corte de origem deu provimento ao recurso ministerial, nos seguintes termos:
+A pena do reeducando vai até o ano de 2034, sendo encarcerado em 2017 (fls. 19). Pese a pouca idade, registra múltiplos crimes contra o patrimônio e, apesar do pouco tempo em unidade prisional, registra faltas disciplinares, a última delas em 2020 (fls. 23).
+O cenário é de reeducando que não tem se empenhado na ressocialização. Não se envolveu com estudos ou atividades laborterápicas, ingressando no cárcere aos 20 anos de idade. Por ser novo, deveria mostrar maior aptidão, de modo que há dúvida concreta no processo de reabilitação deste encarcerado.
+O demérito por reunir falta no cárcere tão rapidamente também revela ausência de comprometimento com o escopo da pena.
+Em suma, as informações até aqui recolhidas dão conta de que o reeducando não está absorvendo adequadamente a terapêutica prisional, não sendo merecedor do beneplácito legal, devendo inelutavelmente ser submetido ao exame criminológico.
+Nessa linha, firma-se a premissa de que o enunciado nº 439 do Superior Tribunal de Justiça autoriza realização de exame criminológico, desde que tal venha a ser, em sua motivação, adequadamente fundamentado e não estribado em argumentação genérica.
+E, na espécie, tal motivação existe.
+Daí porque, havendo duvida quanto o poder de autocontenção e existindo perspectiva concreta de que poderávoltar a delinquir, justificada realização do exame criminológico.
+Imperiosa, destarte, maior cautela na concessão do benefício, especialmente por ser o expiado dotado de extensa pena a ser cumprida (fls. 68-69, grifei).
+Todavia, consoante exposto na decisão de primeiro grau, "as demais informações constantes dos autos indicam que também ostenta o requisito subjetivo para a progressão prisional, inclusive em razão da boa conduta carcerária atual e da inexistência de nova falta disciplinar. Além disso, o "boletim informativo" emitido pela unidade prisional não foi impugnado pelo Ministério Público. Apresenta mérito suficiente para a progressão de regime, que lhe dará estímulo para a sua recuperação social" (fl. 51, destaquei).
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime,podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico,o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimentoacerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada aSúmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal.
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão que retarda a concessão do livramento condicional ao paciente, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico,configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável. Precedentes" (HC n. 399.139/SP, Rel. MinistroFelix Fischer, 5ª T., DJe 30/10/2017, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,concedo,in limine, a ordempostulada, a fim de cassar a decisão de primeira instância e determinar aimediatainserção do apenadono regime semiaberto.
+Comunique-se,com urgência.
+Publique-se e intimem-se.
