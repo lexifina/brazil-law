@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO BRAGA XAVIER FERREIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Agravo em Execução n. 0702623-29.2020.8.07.0000.
+Consta nos autos que o Juízo das Execuções Penais indeferiu o pedido de autorização para que o Recorrente pudesse receber visitas de sua esposano estabelecimento prisional (fl. 19). Houve recurso defensivo, a queo Tribunal de origem negou provimento, em acórdão assim ementado(fl. 43):
+"RECURSO DE AGRAVO. EXECUÇÃO PENAL. DIREITO DE VISITA. ESPOSA.CUMPRIMENTO DA PENA EM REGIME ABERTO. CONTATO COM PRESOS.IMPOSSIBILIDADE. ARTIGO 6º DA PORTARIA Nº 8/2016 DA VEP.
+I - O direito do preso de receber visitas de seus familiares, previsto no art. 41, X, da LEP, não é absoluto, nos termos do parágrafo único do mesmo artigo, ao disciplinar que "os direitos previstos nos incisos V, X e XV poderão ser suspensos ou restringidos mediante ato motivado do diretor do estabelecimento".
+II - O Conselho Especial deste Tribunal declarou a inconstitucionalidade de diversos dispositivos do Código Penitenciário do Distrito Federal, dentre os quais o art. 64, que conflitava com a LEP, ao afastar possibilidade de restrição de visitas.
+III - Deve ser mantida a decisão que veda ao interno o direito de visita da esposa que está em cumprimento de pena no regime aberto, haja vista não ser salutar ao seu processo de reeducação (art. 6º da Portaria nº 8/2016 da VEP).
+IV - Recurso conhecido e desprovido."
+Nas razões do recurso especial, a Defensoria Pública aponta ofensa ao art. 1.º do Código Penal e ao art. 41, inciso X, da Lei de Execução Penal, sob o argumento de que o apenado é sujeito de direitos e sua ressocialização é um dos objetivos buscados pela sanção. Sendo assim, a restrição ou suspensão do direito do preso de receber visitas regulares só se justificaria em situações excepcionais, como consequência da prática de faltas disciplinares.Aduz, ainda, que uma portaria não pode restringir o gozo de um direito fundamental.
+Requer, assim, seja assegurado ao Recorrente o direito de receber visitas de sua esposa.
+Contrarrazões às fls. 66-68.
+O Ministério Público Federal, por meio do Subprocurador-Geral da República Durval Tadeu Guimarães,opinapelo provimento do recurso especial (fls. 85-86).
+É o relatório.
+Decido.
+O pedido formulado por Poliane Raysa de Oliveirade visitar o Recorrente, seu esposo, foi negado pelo Tribunal de origem em razão de, atualmente, estar a cumprir pena em regime aberto (fl. 19).
+Com efeito, o art. 41, inciso X, da Lei de Execução Penal assegura à pessoa presa o direito de receber visitas do cônjuge, da companheira, de parentes e de amigos em dias determinados. Este direito não é absoluto e pode ser mitigado em circunstâncias excepcionais, mediante motivação que demonstre a proporcionalidade da medida.
+Todavia, a motivação necessária ao estabelecimento de vedações ao direito de visitas do preso deve ser concreta e vinculada à situação específica que a ensejou, não sendo possível a determinação de limitações gerais e abstratas em detrimento da manutenção do vínculo familiar que é constitucionalmente protegido (art. 226 da Constituição Federal).
+Por essa razão, a jurisprudência do Superior Tribunal de Justiça tem reconhecido ser inadmissível impor óbice geral à visita de familiares de presos que cumprem penas restritivas de direitos ou em regime aberto, seja por ausência de previsão legal neste sentido, seja porque a condenação penal não impede o exercício de nenhum direito que não tenha sido expressamente atingido pela sentença ou pela lei.
+Sobre o tema, há vários precedentes desta Corte que tratam especificamente do indeferimento de visitas no âmbito do Distrito Federal.
+Confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO ATACADA. CONHECIMENTO DO AGRAVO. EXECUÇÃO PENAL. DIREITO DE VISITA. LIMITAÇÃO. CUMPRIMENTO DE PENA PELO VISITANTE. AGRAVO REGIMENTAL PROVIDO PARA DAR PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+1. Reconhecida a impugnação a todos os fundamentos da decisão atacada, deve ser conhecido o agravo em recurso especial.
+2. É entendimento desta Corte que o direito de visita tem objetivo de ressocialização do condenado, não podendo ser negado sob o fundamento de o visitante estar cumprindo pena em regime aberto, já que os efeitos da sentença penal condenatória não podem restringir o gozo de outros direitos individuais, ante as vedações constitucionais à perpetuidade e à transcendência da sanção penal.
+3. Agravo regimental provido para dar provimento ao agravo em recurso especial."(AgRg no AREsp 1.650.427/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 06/08/2020.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. OFENSA AO ART. 41, X , DA LEP. OCORRÊNCIA.DIREITO DE VISITA. VISITANTE QUE TAMBÉM CUMPRE PENA EM REGIME ABERTO. CIRCUNSTÂNCIA QUE NÃO OBSTA O DIREITO DE VISITA.PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É certo que o direito do preso à visitação não é absoluto, podendo ser negado em virtude de peculiaridades do caso concreto.Não é menos certo, por outro lado, que o direito de visita tem objetivo de ressocialização do condenado, não podendo ser negado sob o fundamento de a visitante estar também cumprindo pena em regime aberto já que os efeitos da sentença penal condenatória não podem restringir o gozo de outros direitos individuais. Precedentes.
+2. Agravo regimental a que se nega provimento."(AgRg no AREsp 1.227.471/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reformar o acórdão recorrido e assegurar ao Recorrente o direito de receber visitas de sua esposa.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. PESSOA PRESA. DIREITO DE VISITA. ART. 41, INCISO X, DA LEI DE EXECUÇÃO PENAL. HUMANIZAÇÃO DA PENA E RESSOCIALIZAÇÃO DO APENADO. MITIGAÇÃO DO DIREITO DE VISITA. EXIGÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA. VISITANTE, ESPOSA DO REEDUCANDO, QUE CUMPRE PENA EM REGIME ABERTO. INEXISTÊNCIA DE IMPEDIMENTO LEGAL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
