@@ -1,0 +1,122 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000281-93.2019.8.08.0004
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: ADALGIZA DE OLIVEIRA
+RELATOR(A
+):PAULO ABIGUENEM ABIB
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+Acompanho o relator
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº
+
+5000281-93.2019.8.08.0004
+
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+
+RECORRIDA: ADALGIZA DE OLIVEIRA
+
+SENTENÇA: JUIZ DE DIREITO MARCELO MATTAR COUTINHO
+
+RELATOR: J
+UIZ DE DIREITO PAULO ABIGUENEM ABIB
+
+RELATÓRIO
+
+Trata-se de ação proposta por
+ADALGIZA DE OLIVEIRA
+contra
+EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+, na qual a parte autora sustenta ser idosa portadora de deficiência cerebral, sendo necessários cuidados especiais e que, na data de 30 de maio de 2019 foi notificada pela empresa ré para providenciar a mudança do padrão de energia elétrica. Diante de tal notificação, a autora relata que realizou o procedimento solicitado, gastando aproximadamente R$ 3.000,00 (três mil reais). Afirma que, na data de 08 de agosto de 2019, foi surpreendida com o corte no fornecimento de energia de sua residência, em virtude de supostas irregularidade no medidor, resultando em multa no montante de R$ 14.497,87.
+
+Em sede de
+
+sentença (ID 1084961) foi julgado parcialmente procedente o pedido autoral, sob o seguinte dispositivo:
+
+“Diante dessas considerações, profiro resolução de mérito, com base no artigo 487, inciso I, do CPC/15, e JULGO
+IMPROCEDENTE
+o pedido contraposto
+e
+PARCIALMENTE PROCEDENTES
+os pedidos iniciais
+para:
+
+DECLARAR
+a inexistência dos débitos discutidos nos autos decorrentes do
+Termo de Ocorrência e Inspeção n. 3438135 (ID 3196269)
+e, por consequência,
+DETERMINAR
+à parte requerida que se abstenha de realizar cobranças e suspender o fornecimento de energia elétrica no imóvel da requerente em razão de cobrança oriundo do referido termo, sob pena de multa única de R$ 5.000,00 (cinco mil reais).
+
+CONFIRMAR
+a decisão provisória de
+ID 2765602
+.
+
+CONDENAR
+a requerida a pagar a cada autora a quantia de R$ 5.000,00 (cinco mil reais) a título de danos morais, com juros de mora desde a citação e correção monetária pelos índices da tabela Colenda Corregedoria Geral de Justiça do Estado do Espírito Santo desde o arbitramento."
+
+Irresignada, a recorrente, apresentou recurso inominado (ID 1084965)
+
+almejando que seja reformada a sentença, sustentando, preliminarmente, a necessidade de concessão de efeito suspensivo ao recurso e a incompetência dos Juizados para julgar a causa. Afirma que a cobrança realizada pela empresa é legítima, elaborada em observância aos regulamentos da Agência Nacional de Energia Elétrica (ANEEL), tendo por base o Termo de Ocorrência e Inspeção. Sustenta, ainda, que houve a participação do usuário no procedimento para apuração de irregularidade realizado, que a recorrente agiu em exercício regular do direito, que há no caso em questão ausência de responsabilidade da recorrente, assim como alega a impossibilidade de suspensão/inexigibilidade/cancelamento dos débitos discutidos. Por fim, sustenta a inexistência de dano moral e pugna, subsidiariamente, pela redução do
+quantum
+indenizatório.
+
+Verifica-se que não foram apresentadas contrarrazões ao Recurso.
+
+É o breve relatório. Passo a decidir.
+
+VOTO
+
+Conheço do Recurso Inominado interposto, eis que preenche seus requisitos de admissibilidade intrínsecos e extrínsecos, motivo pelo qual o recebo em seu efeito devolutivo, na forma do art. 43 da Lei n. 9.099/1995.
+
+Primeiramente, a recorrente requer que seja concedido efeito suspensivo ao recurso, para que a decisão atacada fique suspensa até o julgamento final deste. Todavia, o recurso inominado tem como regra o efeito devolutivo, como forma de propiciar a execução provisória da sentença.
+
+O duplo efeito (suspensivo e devolutivo) só é cabível para evitar risco irreparável para a parte recorrente, conforme expresso em artigo 43 da lei dos Juizados Especiais. Caminha nesse sentido o entendimento jurisprudencial. Nesta toada, a parte recorrente sequer suscitou quaisquer possíveis riscos irreparáveis, motivo este pelo qual não merece prosperar o pedido do duplo efeito no recurso em questão.
+
+Logo, indefiro o pedido de atribuição de efeito suspensivo.
+
+No que tange a preliminar suscitada pela recorrente de incompetência do juízo, o destinatário das provas é o julgador. No particular, em análise dos documentos trazidos aos autos, não vislumbro necessidade de produção de prova pericial. Assim, ao verificar que os mesmos são suficientes à formação do seu convencimento, deve conhecer diretamente do pedido e decidir. Com base no livre convencimento motivado e analisando as provas dos autos, entendo que a questão já está suficientemente provada.
+
+Assim, rejeito, pois, a preliminar arguida.
+
+A relação jurídica existente entre as partes é de consumo, sendo formada de um lado por um fornecedor de serviços (art. 3º do CDC) e de outro lado pelo consumidor (art. 2º do CDC). Em favor do consumidor incide a presunção dos fatos por ele narrados (art. 4º, I e III do CDC), bem como a inversão do ônus da prova (art. 6º, VIII do CDC) quando se verificarem a hipossuficiência e a verossimilhança das alegações.
+
+Acontece que a inversão do ônus da prova não isenta a parte consumidora da prova de suas alegações, pois, conforme estabelece o artigo 373, I, do CPC, cabe a ela o ônus de provar os fatos constitutivos de seu direito. Cabe ao fornecedor, por sua vez, apresentar os fatos impeditivos, modificativos ou extintivos do direito do requerente, nos termos do art. 373, II, do CPC.
+
+In casu, se verifica que a recorrente emitiu multas ao consumidor referente a suposta irregularidade no medidor de energia elétrica na instalação autoral, constatado através do Termo de Ocorrência e Inspeção de nº 3438135. O débito imputado à consumidora, totaliza a quantia de R$ 14.497,87 (quatorze mil quatrocentos e noventa e sete reais e oitenta e sete centavos).
+
+Acontece que embora ordinariamente se reconheça a higidez do termo de ocorrência, seus efeitos não podem perdurar no mundo jurídico tal como pretende a concessionária de serviço público. Ou seja, mesmo mantida a constatação da irregularidade, nula é a cobrança retroativa, pois ausente prova do termo inicial da fraude.
+
+Deste modo, o débito é inexigível, razão pela qual merece acolhimento o pedido inicial para declarar a inexigibilidade do débito de R$ 14.497,87 (quatorze mil quatrocentos e noventa e sete reais e oitenta e sete centavos) referente ao TOI de nº 3438135.
+
+Destarte, verifica-se que o Termo de Ocorrência e Inspeção - TOI - foi elaborado de forma unilateral pela empresa recorrente, o que o eiva de ilegalidade de acordo com a jurisprudência pátria, tornando, via de consequência, ilegal os débitos dele oriundos.
+
+Assim, demonstrada a falha na prestação de serviços por parte da recorrente, surge o dever de indenizar, tendo em vista que, em razão da falha na prestação do serviço, a consumidora foi exposta a angústia e constrangimento ao ser cobrado indevidamente e ter o fornecimento de energia suspenso.
+
+Desta feita, no que tange ao
+quantum
+arbitrado, a valoração da compensação moral deve observar o princípio da razoabilidade, a gravidade e a repercussão dos fatos, a intensidade e os efeitos da lesão. A sanção, por sua vez, deve observar a finalidade didático-pedagógica, evitar valor excessivo ou ínfimo, e objetivar sempre o desestímulo à conduta lesiva.
+
+Considerando os parâmetros acima consignados, bem como em consonância com os valores que vem sendo arbitrados por esta Terceira Turma em outras causas envolvendo fatos semelhantes, entendo que ser razoável a quantia arbitrada (R$ 5.000,00), o que compensa adequadamente à recorrida, ao tempo em que serve de estímulo para que a recorrente evitar a reiteração do referido evento danoso, estando, ainda, de acordo com os critérios da razoabilidade e proporcionalidade.
+
+Por todo o exposto, não encontro motivação para reformar a sentença vergastada, devendo a mesma ser mantida irretocável por seus próprios e jurídicos fundamentos.
+
+Por tais razões, CONHEÇO do recurso apresentado e, no mérito, NEGO-LHE PROVIMENTO, para manter incólume a sentença guerreada na forma como lançada. Condeno a recorrente em custas processuais. Deixo de condenar a recorrente ao pagamento de honorários advocatícios, por estar a recorrida desassistida de advogado nos presentes autos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
