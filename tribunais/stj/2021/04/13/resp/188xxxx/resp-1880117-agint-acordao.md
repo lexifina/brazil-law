@@ -1,0 +1,66 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. FACULDADE DO CREDOR. SUSPENSÃO. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. "A habilitação é providência que cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei" (CC 114.952/SP, DJe de 26/09/2011).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, contra decisão que negou provimento ao recurso especial com apoio na Súmula 83/STJ, sob o entendimento de que a habilitação é providência que cabe ao credor, mas a este não se impõe e, caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei.
+Em razões de agravo interno, aduz que permanece a omissão do Tribunal a quo, de acordo com o art. 1.022 do CPC/2015, em enfrentar a natureza do crédito como concursal, mesmo diante da faculdade do credor/exequente.
+Sustenta que, nos termos do art. 49 da Lei 11.101/2005, a faculdade do credor não afasta a concursalidade do crédito. Isso, porque não há forma legal de satisfação da obrigação devida, senão pela via do Plano de Recuperação Judicial. Reforça que a natureza do crédito é concursal.
+Em impugnação do presente recurso, sustenta a parte agravada a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. FACULDADE DO CREDOR. SUSPENSÃO. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. "A habilitação é providência que cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei" (CC 114.952/SP, DJe de 26/09/2011).
+3. Agravo interno a que se nega provimento.
+AgInt no RECURSO ESPECIAL Nº 1.880.117 - RS (2020/0148751-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+OI S.A. - EM RECUPERACAO JUDICIAL
+ADVOGADOS
+:
+TOMÁS ESCOSTEGUY PETTER - RS063931
+DIEGO SOUZA GALVAO - RS065378
+FERNANDA LEIVAS FAILLACE - SC031082
+CRISTIANE BENITES MICHEL KAMPFF - RS063427
+AGRAVADO
+:
+JOAO BATISTA PANAZZOLO
+ADVOGADOS
+:
+HUMBERTO LODI CHAVES - RS063524
+TIAGO ALEXANDRE BELTRAME - RS066196
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem os argumentos da parte agravante, não merece reforma a decisão agravada, que deve ser confirmada por seus próprios fundamentos.
+Conforme asseverado na decisão agravada, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, pois não há omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à solução da lide. Dessa forma, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Como dito, é indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mérito, cinge-se a controvérsia em analisar se, na espécie, o desinteresse dos credores em habilitar créditos perseguidos na recuperação judicial resulta em renúncia ao crédito.
+No caso em exame, o Tribunal Estadual concluiu pela possibilidade de o credor, ora recorrido, não habilitar o crédito perseguido na presente execução, determinando a suspensão do feito até o final da recuperação judicial da ora agravante.
+Nos termos da jurisprudência desta Corte, firmada no julgamento proferido no CC 114.952/SP, a habilitação dos créditos em recuperação judicial é uma faculdade do credor, que não lhe pode ser imposta, sendo direito deste não habilitar seus créditos e aguardar o término da recuperação para então prosseguir na busca individual dos valores, salvo se a recuperação judicial for convolada em falência. O julgado foi assim ementado:
+"CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITO SUJEITO À RECUPERAÇÃO. CRÉDITO LÍQUIDO. NÃO INCLUSÃO NO PLANO. HABILITAÇÃO. FACULDADE. IMPOSSIBILIDADE DE PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL DURANTE O TRÂMITE DA RECUPERAÇÃO.
+1. Nos termos do art. 49 da Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+2. Se o crédito é ilíquido, a ação deve prosseguir no Juízo trabalhista até a apuração do respectivo valor (art. 6º, § 2º, da Lei 11.101/2005). Porém, se o crédito já foi apurado, pode ser habilitado na recuperação judicial.
+3. Nos termos do art. 10 da Lei 11.101/2005, o crédito líquido não habilitado no prazo de quinze dias após a publicação do edital será recebido na recuperação na condição de habilitação retardatária, sendo da competência do Juízo da Recuperação estabelecer a forma como será satisfeito, sob pena de não ser adimplido durante o trâmite da recuperação, mas somente após seu encerramento, já que as execuções individuais permanecem suspensas.
+4. A habilitação é providência que cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei. Porém, admitir que alguns credores que não atenderam ou não puderam atender o prazo para habilitação de créditos submetidos à recuperação (arts. 7º, § 1º, e 52, § 1º, III, da 140979) prossigam com suas execuções individuais ofende a própria lógica do sistema legal aplicável. Importaria em conferir melhor tratamento aos credores não habilitados, além de significar a inviabilidade do plano de reorganização na medida em que parte do patrimônio da sociedade recuperanda poderia ser alienado nas referidas execuções, implicando, assim, a ruptura da indivisibilidade do juízo universal da recuperação e o desatendimento do princípio da preservação da empresa (art. 47 da LF), reitor da recuperação judicial.
+5. Conflito conhecido, em face da impossibilidade de dois diferentes juízos decidirem acerca do destino de bens pertencentes à empresa sob recuperação, para declarar a competência do Juízo da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP."
+(CC 114.952/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 14/09/2011, DJe de 26/09/2011, g.n.)
+No mesmo sentido, colhem-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OI S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DO CRÉDITO. FACULDADE DO CREDOR. (..) 2. Nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito. 3. Agravo interno não provido. (AgInt no REsp 1873408/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OMISSÃO. NÃO OCORRÊNCIA. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. FACULDADE DO CREDOR. SUSPENSÃO. POSSIBILIDADE. AGRAVO NÃO PROVIDO. 1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia. 2. "A habilitação é providência que cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei" (CC 114.952/SP, DJe de 26/09/2011). 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1675583/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. SÚMULA N. 83/STJ.LEVANTAMENTO DE VALORES. REEXAME DO PLANO DE RECUPERAÇÃO JUDICIAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. (..) 3. No caso concreto, o Tribunal de origem concluiu que não era o possível o levantamento dos valores pretendidos em virtude do plano de recuperação judicial. Alterar esse entendimento demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial. 4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ). 5. "O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento" (AgInt nos EDcl no CC 165.079/SP, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 05/05/2020, DJe 08/05/2020). 6. Agravo interno a que se nega provimento. (AgInt no AREsp 1585951/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 1º/10/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NO QUADRO GERAL DE CREDORES DA SOCIEDADE EM RECUPERAÇÃO JUDICIAL. FACULDADE DO CREDOR PRETERIDO. AGRAVO INTERNO DESPROVIDO. 1. O entendimento desta Corte é no sentido da faculdade do credor em habilitar seu crédito no quadro geral de credores, podendo ele aguardar o término da recuperação judicial para prosseguir na execução individual. 2. Agravo interno desprovido. (AgInt no REsp 1.872.740/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 31/8/2020, DJe de 8/9/2020)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA. HABILITAÇÃO RETARDATÁRIA. FACULDADE DO CREDOR PRETERIDO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. Ação de adimplemento contratual em fase de cumprimento de sentença. 2. A habilitação retardatária é providência que cabe ao credor mas a ele não se impõe, razão pela qual ele pode optar por aguardar o término da recuperação para prosseguir na busca individual de seu crédito. Precedentes. 4. Agravo interno não provido." (AgInt nos EDcl no REsp 1847399/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020, g.n.)
+Como se vê, em que pese o art. 49 da LRF estabeleça que todos os créditos existentes na data do pedido se submetem à recuperação, não há impedimento de que o credor não inscrito no quadro geral de credores (hipótese de habilitação retardatária) decida aguardar o término da recuperação judicial para prosseguir na busca individual de seu crédito, pois é direito que se lhe assegura, excetuando-se os casos de convolação da recuperação judicial em falência.
+Ao contrário do defendido pela parte agravante, a não habilitação do crédito na recuperação, no caso em exame, não importa renúncia dos credores, tampouco violação ao art. 49 da Lei 11.101/2005 e ao princípio da pars conditio creditorium, uma vez que a suspensão da execução até o final do processamento da recuperação judicial, isto é, até a finalização do plano de reorganização, visa justamente afastar eventual privilégio do credor retardatário em caso de continuidade da execução.
+Assim, não há como se afastar o óbice da Súmula 83/STJ, uma vez que, de fato, o acórdão recorrido posicionou-se em total consonância com a jurisprudência desta Corte.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
