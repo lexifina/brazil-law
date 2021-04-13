@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da3ª Vara de Santos SJ/SP, em face do Tribunal Regional do Trabalho da 2ª Região.
+A açãode cumprimento que subjaz ao presente conflito foi ajuizada por BENEDICTO JUVENTINO DOS SANTOS, em desfavor da COMPANHIA DOCAS DO ESTADO DE SÃO PAULO, a fim de que lhe fosse assegurada complementação de aposentadoria, como resultado de pretensão de enquadramento no Plano de Cargos, Carreiras e Salários (PECS/2013),inicialmente distribuída à 6ª Vara do Trabalho de Santos.
+O pedido foi julgado improcedente, tendo o autor interposto recurso ordinário dirigido aoTribunal Regional do Trabalho, que acolheu preliminar de incompetência material, e determinou a remessa dos autos à Justiça Federal,tendo em vista que caberia à União a responsabilidade pelo pagamento da parcela e que a Codesp apenas atua como intermediadora.
+O Tribunal Regional Federal,todavia, suscitou o presente conflito de competência, diante do previsto no art. 114 da CF, de que compete a justiça especializada julgar as controvérsias oriundas de relação do trabalho.
+A causa de pedir da complementação de aposentadoria decorre, ao que se depreende dos autos, de acordo coletivo de trabalho firmado entre o Governo Federal e a Federação Nacional dos Portuários na qual a União seria a responsável pelo pagamento da parcela com a subvenção de taxa portuária específica, de modo quea apreciação do presente conflito de competência foge à competência desta Segunda Seção, a teor do que dispõe o art. 9º, § 1º, XIV, do RISTJ.
+A propósito: CC 176.883/SP, Primeira Seção, DJe 1/2/2021; CC 173.985/SP, DJe 2910/2020; CC 174.919/SP, DJe 7/10/2020; CC 174.523/SP, DJe 9/9/2020.
+Assim sendo, determino a redistribuição do presente conflito de competência a um dos e. Ministros da Primeira Seção deste Tribunal.
+Publique-se.
