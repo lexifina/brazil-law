@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRETENSÃO DEFENSIVA. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "a jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, porquanto tal circunstância denota maior grau de reprovabilidade do comportamento lesivo, sendo desnecessário perquirir o valor dos tributos iludidos pelo acusado.  Ademais,  a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, em que pese não configurarem reincidência, denotam a habitualidade delitiva do réu e afastam, por consectário, a incidência do princípio da insignificância"(AgRg no REsp n. 1.808.770/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/08/2019).
+III - Portanto, a decisão impugnada "está em harmonia com a jurisprudência desta Corte, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos" (AgRg no REsp n. 1.842.908/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/03/2020).
+IV - De qualquer sorte, o acolhimento da pretensão defensiva, segundo as alegações vertidas pela defesa, demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAUL ADRIANO ALAMINO contra a decisão de fls. 602-605, que negou provimento ao recurso ordinário em habeas corpus.
+Nas razões do presente inconformismo (fls. 608-630), a parte agravante alega "o valor da hipotética supressão de ICMS indicado na denúncia(R$ 6.345,80) é inferior ao sedimentado para aplicação do princípio da insignificância em crimes tributários, e também muito inferior ao vetor fixado na legislação do Estado de Minas Gerais (Decreto 47257/17), que dispensa de cobrança de ICMS de créditos que não superem o valor de R$ 37.116,00 (10.000 UFEMG), como ocorre no caso em questão em que o hipotético crédito pouco ultrapassa o valor de R$ 6.000,00 que, atualizado segundo o sítio eletrônico da Fazenda do Estado de Minas Gerais, monta em R$ 17.211,10 -inferior ao patamar de R$ 37.116,00, o que demandaria, portanto, o trancamento da ação penal" (fl. 609).
+Pondera que, "considerando-se que o cálculo atualizado do hipotético débito original (R$6.345,80), efetuado no sítio eletrônico da Fazenda do Estado de Minas Gerais, monta em R$ 17.211,10, não haveria justa causa para a ação penal na medida em que uma conduta administrativamente irrelevante e que não lesiona o bem jurídico penalmente tutelado não pode ter relevância criminal à luz dos princípios da subsidiariedade, da fragmentariedade, da necessidade e da intervenção mínima que orquestram o Direito Penal" (fl. 610).
+Sustenta que o paciente "NUNCA FOI SÓCIO OUMANTEVE QUALQUER LIGAÇÃO, DIRETA OU INDIRETA, COM A EMPRESA AUTUADA PELA RFB (INTERNATIONAL COMMERCIAL CENTER LTDA),e que foi apontado na denúncia como gestor de fato da empresa por mera e simples ilação lastreada na exclusiva palavra do sócio da empresa, em franca tentativa de se eximir de sua responsabilidade" (fl. 615).
+Defende a inexistência da habitualidade delitiva por parte do paciente.
+Assere ser o acusado primário.
+Expõe que, para a aplicação do princípio da insignificância, não é necessário se averiguar as condições pessoais do autor do fato.
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRETENSÃO DEFENSIVA. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "a jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, porquanto tal circunstância denota maior grau de reprovabilidade do comportamento lesivo, sendo desnecessário perquirir o valor dos tributos iludidos pelo acusado.  Ademais,  a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, em que pese não configurarem reincidência, denotam a habitualidade delitiva do réu e afastam, por consectário, a incidência do princípio da insignificância"(AgRg no REsp n. 1.808.770/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/08/2019).
+III - Portanto, a decisão impugnada "está em harmonia com a jurisprudência desta Corte, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos" (AgRg no REsp n. 1.842.908/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/03/2020).
+IV - De qualquer sorte, o acolhimento da pretensão defensiva, segundo as alegações vertidas pela defesa, demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, o recorrente insurge-se contra a não aplicação do princípio da insignificância.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Noticia a denúncia que, enquanto operadores da empresa International Commercial Center Ltda, os denunciados suprimiram dolosamente o pagamento de ICMS devido à Fazenda Estadual no valor de R$ 6.345,80 (seis mil trezentos e quarenta e cinco reais e oitenta centavos), que acrescido pelos encargos legais alcançou a cifra de R$ 51.397,00 (cinquenta e um mil trezentos e noventa e sete reais).
+ ..
+Ocorre que a jurisprudência pátria também já consolidou seu entendimento de que o reconhecimento da atipicidade material da conduta, pela aplicação do princípio da insignificância, não se limita apenas ao aspecto objetivo, qual seja, o valor do tributo dolosamente suprimido inferior à R$ 20.000,00 (vinte mil reais).
+ ..
+Sabe-se que, além do critério objetivo, também deverão ser analisados critérios subjetivos, especialmente no que tange à existência de indicadores da habitualidade delitiva.
+ ..
+Analisando atentamente os elementos constantes nos autos, verifica-se que o Parquet explicitou em sua denúncia que o paciente é especialista neste tipo de fraude, dentre outras contra a ordem tributária e bens jurídicos diversos, o que pode ser corroborado pela existência de outros processos em seu desfavor (fls. 224/227).
+De pronto, constata-se que, seguindo o entendimento firmado pelo STF, a existência de indicadores de habitualidade delitiva, mesmo relacionados a fatos distintos e ainda em tramitação, afasta a aplicação do princípio da insignificância, e consequentemente, o trancamento do processo criminal" (fls. 500-502, grifei).
+Com efeito, "a jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, porquanto tal circunstância denota maior grau de reprovabilidade do comportamento lesivo, sendo desnecessário perquirir o valor dos tributos iludidos pelo acusado.  Ademais,  a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, em que pese não configurarem reincidência, denotam a habitualidade delitiva do réu e afastam, por consectário, a incidência do princípio da insignificância"(AgRg no REsp n. 1808770/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 13/08/2019).
+Portanto, a decisão impugnada "está em harmonia com a jurisprudência desta Corte, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos" (AgRg no REsp n. 1842908/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 16/03/2020).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer ilegalidade.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+P. e I."
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+De qualquer sorte, o acolhimento da pretensão defensiva, segundo as alegações vertidas nas razões recursais,demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
