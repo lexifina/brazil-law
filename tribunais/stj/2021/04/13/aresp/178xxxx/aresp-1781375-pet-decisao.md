@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de distinção tendo em vista a decisão que determinou a devolução dos autos ao Tribunal estadual, com a devida baixa nesta Corte, para que lá permaneçam suspensos até o julgamento dos REsps 1.801.6015/SP e 1.774.204/SP, observando-se, em seguida, a sistemática prevista nos arts. 1.040 e 1.041 do NCPC.
+Em suas razões, NADIMI DIPP alegou que (1) o requerimento de cumprimento de sentença da Ação Civil Pública 1998.01.016798-9 foi formulado dentro do prazo prescricional, (2) a cautelar de protesto interruptiva não havia sido ajuizada por ocasião do aludido cumprimentoe (3) a matéria em que se baseou a determinação da suspensão do processo não foi prequestionada.
+Ao final, requereu o prosseguimento do processo.
+É o relatório.
+Observa-se que a questãoreferente à interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivasfoi submetida à Segunda Seção, em conformidade com os arts. 1.036 e seguintes do NCPC (art. 543-C do CPC/73), nos termos do acórdão de relatoria do Ministro RAUL ARAÚJO, prolatado nas ProAfRs nos REsps 1.801.6015/SP e 1.774.204/SP:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA.EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas." 2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(j. 15/10/2019, DJe 30/10/2019)
+Nesse contexto, a afetação de recurso especial como representativo da controvérsia demanda à Corte de origem a suspensão de recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do CPC (art. 5º, inciso III, da Resolução nº 8/2008 da Presidência do STJ).
+Ocorre que, examinando-se os autos, sobretudo asfls. 534/536 (e-STJ), é possível verificar que a discussão travada no presente processo não desborda da questão tratada nos REsps1.801.6015/SP e 1.774.204/SP.
+Ressalte-se, ainda, que "antes da verificação da presença de óbices à admissibilidade do recurso especial, deve ser realizada a verificação da existência ou não de pendência: afetação para julgamento repetitivo; repercussão geral reconhecida sobre a matéria, incidente de resolução de demandas repetitivas ou outro incidente de uniformização de jurisprudência" (AgInt nos EDv nos EAg 1409814/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 04/12/2019, DJe 09/12/2019).
+Não está configurado, portanto, o distinguishing apontado.
+Nessas condições, INDEFIRO o pedido de distinção.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL  CIVIL.  PEDIDO DE DISTINÇÃO. AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTERPOSTO  NA  VIGÊNCIA  DO  NCPC.  CONTROVÉRSIA SOBRE INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA PLEITEAR O CUMPRIMENTO DE SENTENÇA COLETIVA, EM VIRTUDE DO AJUIZAMENTO DE AÇÃO DE PROTESTO OU DE EXECUÇÃO COLETIVA POR LEGITIMADO PARA PROPOR DEMANDAS COLETIVAS. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS (PROAFR NOS RESPS 1.801.6015/SP E 1.774.204/SP, REL. MINISTRO RAUL ARAÚJO, SEGUNDA SEÇÃO).TEMA 1033. SUSPENSÃO  DO  PROCESSO.  PEDIDO  DE  DISTINÇÃO  INDEFERIDO.  RETORNO  DOS  AUTOS  À  ORIGEM.
