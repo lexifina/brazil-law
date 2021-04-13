@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que negou admissão a Recurso Especialinterpostocom fundamento no art. 105, inciso III, alínea "a" e "c", daConstituição Federal, contra acórdão do assim ementado:
+APELAÇÃO - Cumprimento de sentença contra a FazendaPública - Impugnação - Extinção da execução - Decisão quereconhece a necessidade de prévia liquidação - Condenação daFazenda Estadual ao recálculo do valor dos ganhos dos autoresaplicando-se os critérios de conversão de vencimentos em URV,ditados pela Lei Federal n.º 8.880/94 e ao pagamento dasdiferenças - Fazenda do Estado que alega inexistir diferença dianteda reestruturação remuneratória da carreira - Sentença ilíquida -Possibilidade de se levar em consideração tal parâmetro para finsde liquidação sem que se alegue eventual ofensa à coisa julgada -Havendo reestruturação da carreira, devida a extinção documprimento de sentença - Precedente desta C. Câmara -Sentença reformada - Recurso provido.
+Opostos Embargos de Declaração, foram eles rejeitados pelo acórdão de fls. 314--316, e-STJ.
+Nas razões do Recurso Especial, às fls. 319-335, e-STJ, os ora agravantes apontam divergência jurisprudencial e violação dos arts. 502, 503, 508 e 535, VI, do Código deProcesso Civil. Sustentam que "a superveniência de lei estabelecendo novo padrão de vencimentos para determinada categoria de servidores, tem o condão de suprir as perdas reclamadas nas ações em que se discute a conversão monetária dos vencimentos" (fl. 326, e-STJ).
+Contrarrazões às fls. 422-428, e-STJ.
+A decisão de inadmissibilidade do Recurso Especial (fl. 429, e-STJ) tem fundamentona Súmula 7/STJ.
+O Agravo apresenta argumentos que visaminfirmar os fundamentos da decisãoagravada.
+Contraminuta às fls. 480-487, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26 de março de 2021.
+A pretensão recursal não merece prosperar.
+Os agravantes impugnaramos fundamentos da decisão agravada e estão atendidosos demais pressupostos de admissibilidade do agravo. Assim, passo ao examedo Recurso Especial.
+No tocante à questão de fundo, o Tribunal de origem dirimiu acontrovérsia, reformando a sentençahostilizada, nos seguintes termos:
+Trata-se de apelação contra a r. sentençaque, em sede de cumprimento de sentença, acolheu impugnaçãoofertada pela Fazenda do Estado de São Paulo, ora apelante,julgando extinta a execução, diante da necessidade de prévialiquidação da sentença, e reconhecendo-se ainda a preclusãoquanto á reestruturação da carreira.
+A r. sentença merece reforma, poisinexequível o titulo, haja vista ter havido ulteriorreestruturação nas carreiras dos exequentes, tal comoreconhecido pelo C. Supremo Tribunal Federal por ocasião dojulgamento do RE n.º 561.836/RN, processado sob a sistemáticade Repercussão Geral, impondo-se, destarte, considerar comocumprida a obrigação de fazer à vista de que o reajuste dosvencimentos já teria sido absorvido pela edição das LeisComplementares n.s 770/94, 823/96, 830/97, 901/01 e1.065/2008, não se podendo falar em apostilamento e recálculode diferenças apuradas nos vencimentos dos exequentes, nostermos do art. 22 da Lei n.º 8.880/94 - URV.
+Consoante entendimento desta C. Câmara, nãose mostraria viável, a esta altura do feito, proceder àalteração do executivo judicial, sob pena de ofensa à coisajulgada material. Entretanto, considerando se tratar decondenação ilíquida,afigura-se plenamente possível que, emcasos como o presente, nos quais não houve a fixação deíndice certo e determinado para fins de recomposição estipendial,se utilize de tal parâmetro para fins deliquidação sem que se alegue eventual ofensa à coisa julgada,pois, consoante decidido pelo C. Supremo Tribunal Federal emsede de Repercussão Geral (RE n.º 561.836/RN):
+(..)
+Dessa forma, o recálculo não poderáconsiderar os reajustes salariais posteriores concedidos aosservidores, ainda que sob o argumento de garantir airredutibilidade de vencimentos, pois a compensação é vedada,nos termos acima expostos. Por outro lado, havendo areestruturação da carreira, os prejuízos foram absorvidospelos novos valores, como se deu no presente caso.
+Destarte, diante da decisão acima, e com aedição da Lei Estadual n.º 8.989/94, e das LeisComplementares Estaduais n.º9 770/94, 823/96, 830/97, 901/01,957/04, 975/05, 1.065/08, 1.216/13, 1.249/14 e 1.317/18, aobrigação de fazer deve ser extinta, levando-se em conta asbalizas traçadas pelo julgamento do RE nº 561.836/RN,conforme esposado, ou seja, afastando os reajustes salariais concedidos posteriormente, mas considerando a reestruturação da carreira.
+Nesse sentido, esta C. Câmara decidiu:
+(..)
+Observe-se, por oportuno, que, de acordocom o escólio de Luiz Guilherme Marinoni, Sérgio CruzArenhart e Daniel Mitidiero1, "é possível alcançar-seresultado zero na fase de liquidação. Duas são as hipóteses:ou o resultado zero decorre da insuficiência de dados capazesde indicar o valor da condenação ou procede da contingênciade ter-se encontrado resultado verdadeiramente igual a zero.Em ambos os casos, não há violação à coisa julgada, porque asentença da fase de conhecimento não chegou a se pronunciarsobre a dimensão do dano sofrido pelo liquidante. Em ambos oscasos deve o órgão jurisdicional rejeitar a liquidação".
+Por fim, no tocante à prescrição, é certoque a decisão afastou a prescrição do fundo de direito,entendendo tratar-se de prescrição continuada.
+No entanto, a demanda foi ajuizada em 2008,ou seja, após a reestruturação das carreiras, inexistindo,portanto, parcelas anteriores à reestruturação.
+Ante tais ponderações, a r. sentença merecereforma para que a extinção da ação decorra dainexequibilidade em razão da reestruturação remuneratória dascarreiras.
+Nota-seque a instância de origem decidiu a questão com base nosuporte fático-probatório dos autos, cujo reexame é inviável no SuperiorTribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simplesreexame de prova não enseja Recurso Especial".
+Assim, afasta-se a ideia de simples valoração da prova, concluindotratar-se de pura análise do conteúdo fático probatório dos autos, o que,como é cediço, é vedado na estreita via do Recurso Especial, por força daSúmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelasinstâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dezpor cento) o valor já arbitrado, nos termos do art. 85, § 11,do CPC/2015, observados, se aplicáveis, os limites percentuais previstosnos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, §3º, do mesmo diploma legal.
+Ante o exposto, conheço doAgravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
