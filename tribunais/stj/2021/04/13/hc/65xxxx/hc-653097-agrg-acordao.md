@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. TENTATIVA DE ROUBO MAJORADO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do habeas corpus, podendo, inclusive, decidi-lo monocraticamente (art. 34, XX, do RISTJ). Por outro lado, a parte possui mecanismos processuais de submeter a controvérsia ao órgão colegiado por meio do competente agravo regimental, o que supera eventual mácula da decisão singular do Relator.
+2. O entendimento firmado pelas instâncias de origem está em harmonia com a jurisprudência desta Corte Superior, haja vista que a existência de circunstância judicial desfavorável, a qual justificou a exasperação da pena-base em 1/6, determina a fixação do regime inicial semiaberto. Precedentes.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental (e-STJ, fls. 68/76) interposto contra decisão de minha relatoria (e-STJ, fls. 61/65), que não conheceu do habeas corpus impetrado em favor de RODRIGO YAMASSAKI GARDIN.
+Narram os autos que o paciente/agravante foi condenado pela prática do delito previsto no art. 157, §2º, inciso II, c.c. o artigo 14, inciso II, ambos do Código Penal, às penas de2 anos e 26 dias de reclusão, em regime inicial semiaberto, e 4 dias-multa(e-STJ, fls. 22/28).
+Irresignada, a defesa interpôs apelação criminal, na Corte estadual, que negou provimento ao recurso, mas corrigiu erro material no cálculo da pena. Com isso, a reprimenda do paciente foi reduzida para 1 ano, 9 meses, e 10 dias de reclusão, mantido o regime semiaberto (e-STJ fls. 41/56).
+No presentemandamus(e-STJ fls. 3/8), a impetrante argumentou que o regime inicial mais gravoso foi fixado sem fundamentação idônea, já que todas as circunstâncias judiciais foram consideradas favoráveis ao paciente e a pena-base foi mantida em seu mínimo legal.
+Aduziu que, no caso, a ausência de fundamentação concreta para o fixação de regime mais gravoso, a quantidade de pena ao final imposta, a primariedade do condenado e a normalidade das circunstâncias judiciais previstas no art. 59, do Código Penal, levam à conclusão de que o regime aberto é, de fato, o adequado para o início de cumprimento de pena. Acrescentou que a gravidade em abstrato do crime não é motivo idôneo para a fixação de regime mais gravoso.
+Ao final, pediu, liminarmente e no mérito, a concessão da ordem para abrandar o regime prisional inicial imposto ao paciente.
+O habeas corpus não foi conhecido (e-STJ, fls. 61/65).
+Neste agravo regimental, aponta o recorrente a existência de cerceamento da defesa e violação ao princípio da colegialidade em razão do julgamento monocrático pelo relator.
+Reafirma, ainda, a necessidade de correção do regime inicial do cumprimento da pena, ressaltando que o juiz não se atentará apenas para a eficiência do processo, mas também aos fins sociais e às exigências do bem comum, devendo ainda resguardar e promover a dignidade da pessoa humana, observando a proporcionalidade, a razoabilidade e a legalidade (e-STJ, fl. 75).
+Pleiteia, assim, que o habeas corpus seja levado ao Colegiado da Quinta Turma para julgamento, a fim de que seja concedida a ordem em habeas corpus para fixar o regime inicial aberto para o cumprimento da pena do recorrente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. TENTATIVA DE ROUBO MAJORADO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do habeas corpus, podendo, inclusive, decidi-lo monocraticamente (art. 34, XX, do RISTJ). Por outro lado, a parte possui mecanismos processuais de submeter a controvérsia ao órgão colegiado por meio do competente agravo regimental, o que supera eventual mácula da decisão singular do Relator.
+2. O entendimento firmado pelas instâncias de origem está em harmonia com a jurisprudência desta Corte Superior, haja vista que a existência de circunstância judicial desfavorável, a qual justificou a exasperação da pena-base em 1/6, determina a fixação do regime inicial semiaberto. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Inicialmente, esclareço que inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do habeas corpus, podendo, inclusive, decidi-lo monocraticamente (art. 34, XX, do RISTJ). Por outro lado, a parte possui mecanismos processuais de submeter a controvérsia ao órgão colegiado por meio do competente agravo regimental, o que supera eventual mácula da decisão singular do Relator.
+No caso dos autos o recurso não merece prosperar.
+Embora seja o agravo regimental tempestivo e tenha o recorrente infirmado os fundamentos da decisão combatida, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+A defesa busca o abrandamento do regime prisional inicial do paciente.
+O cálculo das penas na sentença ficou posto nos seguintes termos (e-STJ, fl. 26 - grifei):
+Em atenção ao quanto determinado pelo artigo 59 do Código Penal, verifico que o crime praticado pelo acusado ocorreu em ambiente domiciliar e em elevado horário noturno, circunstâncias que indicam maior reprovabilidade (culpabilidade) de sua conduta. Assim,elevo a pena mínima cominada em abstrato em 1/6, fixando a pena-base em 4 anos e 8 meses de reclusão, e 11 dias-multa, cada qual no mínimo legal. Em segunda fase de dosimetria, presentes as atenuantes da confissão (ainda que parcial) e da menoridade relativa, razão pela qual fixo a pena provisória no mínimo legal. Por fim, encontra-se presente a causa de aumento de pena prevista no inciso II do §2º do artigo 157 do Código Penal, razão pela qual, forte nos argumentos já mencionados, aumento a pena provisória em 1/3, fixando a pena corporal em 6 anos 2 meses e 20 dias de reclusão, e 14 dias-multa. Presente, ainda, a minorante prevista no artigo 14, parágrafo único, do CP, a incidir em seu patamar máximo, qual seja, de 2/3, razão pela qual fixo a pena definitiva do réu em 2 anos e 26 dias de reclusão, e 4 dias-multa.
+Já a Corte local manteve os critérios adotados na fixação da reprimenda, tendo apenas corrigido erro material no cálculo, como se verifica na transcrição a seguir (e-STJ, fls. 52/54 - grifei):
+a) Estando-se atento ao quanto disposto no art. 59 do CP, as penas-base foram fixadas, para ambos os acusados, em 04 anos e 08 meses de reclusão e em 11 dias-multa. Justifica-se esse quantum em razão de os fatos terem ocorrido em ambiente familiar e em adiantado horário noturno(fls. 191/192).
+b) Na segunda fase, o quantum estabelecido como base para ambos os réus foi reduzido para o seu mínimo legal; ou seja, 04 anos de reclusão e 10 dias-multa, em virtude da presença da atenuante da menoridade relativa dos dois sentenciados.
+c) Na terceira etapa da dosimetria, foram elevados os subtotais obtidos na fase anterior de 1/3, eis que presente a causa de aumento de concurso de agentes, perfazendo 05 anos e 04 meses de reclusão e 13 dias-multa.
+Ainda na mesma fase, reconhecida a causa de diminuição prevista no art. 14, II, do CP, foram as reprimendas de ambos os apelantes beneficamente reduzidas de 2/3.
+Nesta etapa, ocorreu, todavia, erro material quanto à pena privativa de liberdade, o que ora se corrige, eis que o quantum fixado pelo Juízo a quo após essa operação acabou sendo maior do que o que seria obtido pela aplicação da fração escolhida.
+ ..
+As sanções restarão, assim, benevolentemente finalizadas em 01 ano, 09 meses e 10 dias de reclusão e em 04 dias-multa, à razão de 1/30 do maior salário mínimo vigente à época dos fatos.
+Com efeito, a quantidade definitiva da pena imposta ao paciente e a sua primariedade recomendam, à primeira vista, a fixação do regime prisional inicial aberto. Contudo, ao contrário do que alegou a defesa, nem todas as circunstâncias judiciais foram consideradas favoráveis. A presença de um vetor negativado, a refletir a gravidade concreta do caso, autoriza o agravamento do regime prisional inicial em um patamar, como feito na origem, nos termos do art. 33, § § 2.º e 3.º, do Código Penal.
+Assim, não há ilegalidade flagrante a coatar no acórdão impugnado. No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FURTO QUALIFICADO. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. REGIME PRISIONAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS. MODO FECHADO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. FLAGRANTE ILEGALIDADE. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. ADC"S 43, 44 e 54. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+ ..
+4. Aplicada a pena final em patamar inferior a 4 anos e sendo desfavoráveis as circunstâncias judiciais, o regime semiaberto é o adequado para o cumprimento da pena reclusiva, nos termos do art.33, §§ 2º e 3º, do CP.
+ ..
+6. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, somente para JOSE BENEDITO GOULART, a fim de estabelecer o regime inicial semiaberto e suspender a execução provisória da pena, até que seja esgotada a jurisdição ordinária.(AgRg no AREsp 1603956/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 3/3/2020, DJe 10/3/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO.REPRIMENDA INFERIOR A 4 (QUATRO) ANOS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FIXAÇÃO DE REGIME MAIS GRAVOSO (SEMIABERTO). CABIMENTO. AGRAVO DESPROVIDO.
+1. Fixada a pena-base acima do mínimo legal, em virtude da presença de circunstâncias judiciais desfavoráveis, é cabível a fixação do regime semiaberto para o início de cumprimento de pena, nos termos do art. 33, § § 2.º e 3.º, do Código Penal, ainda que a reprimenda definitiva tenha sido inferior a 4 (quatro) anos de reclusão.
+2. Agravo regimental desprovido.(AgRg no HC 511.164/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 6/2/2020, DJe 21/2/2020)
+Assim, pelas próprias razões do decisum impugnado, acima reiteradas, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
