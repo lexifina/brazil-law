@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO OZORES contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+"NO BOJO DO RECURSO INTERPOSTO FICOU NÍTIDO A VIOLAÇÃO AO ART. Nº 17 DO ESTATUTO DOS MILITARES, LEI FEDERAL Nº 6.880/80, AINDA EM VIGOR E NADA TEM A VER COM A LEI Nº 4.414/64 QUE REGULA O PAGAMENTO DE JUROS MORATÓRIOS PELA UNIÃO, PELOS ESTADOS, DISTRITO FEDERAL, MUNICÍPIOS E AUTARQUIAS.
+(..)
+PORTANTO, MERITÍSSIMO, A TÔNICA DO PEDIR SE TRATA DA MANUTENÇÃO DA LEI E DA ORDEM, AFINAL DE CONTAS "HIERARQUIA E DISCIPLINA" SÃO OS PILARES SAGRADOS DAS FORÇAS ARMADAS NO MUNDO INTEIRO E NO BRASIL NÃO É DIFERENTE; POIS ACIMA DE TUDO SÃO TAMBÉM OS PILARES DO ESTADO DEMÓCRATICO DE DIREITO, RAZÃO DO EXISTIR DO PRÓPRIO PODER JUDICIÁRIO (fls. 306).
+Por todo o exposto, restou demonstrado a controvérsia / omissão na r.
+sentença ao desconsiderar a preterição do Embargante pelas promoções de militares mais modernos (hierarquicamente inferiores) consumadas e publicadas no DOU nº 112 de 13/06/2011, causando danos materiais (salários) e morais ao Recorrente, além de alegar leis espúrias (MP 2.180-35/01 e a Lei n. 4.414/64) que nada têm a ver com o processo e que em momento algum foram citadas pelo Recorrente (fls. 318).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Na espécie, confirma-se que não houve indicação de violação de lei federal.
+O inconformismo da parte em relação à MP 2.180-35/01 e à Lei 4.414/64 não procede, tendo em vista que a citação desta legislação foi utilizada apenas como exemplo para fundamentar, de acordo com a jurisprudência do STJ, que não é possível alegação genérica de violação de lei federal.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
