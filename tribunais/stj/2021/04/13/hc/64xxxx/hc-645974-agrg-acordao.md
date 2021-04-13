@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/06. NÃO APLICAÇÃO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PROCESSO CRIMINAL EM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É assente na jurisprudência deste Superior Tribunal de Justiça a possibilidade de afastamento do tráfico privilegiado consubstanciado na existência de procedimentos criminais em andamento, quando as circunstâncias permitirem concluir que o acusado se dedica a atividades criminosas ou integra organização criminosa.
+2. Na hipótese, as instâncias locais informaram que o paciente responde a outro processo criminal pela prática do mesmo delito, o que, embora não configure maus antecedentes ou reincidência, é suficiente para afastar a incidência do benefício pleiteado.
+3. Ademais, tendo as instâncias ordinárias concluído que o paciente se dedica à atividade criminosa, para entender de modo diverso, seria necessário o revolvimento de todo o conjunto fático-probatório amealhado durante a instrução probatória, o que, como cediço, é vedado na via estreita dohabeas corpus, de cognição sumária.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental (e-STJ, fls. 557/562) interposto contra decisão de minha relatoria (e-STJ, fls. 546/551), que não conheceu do habeas corpus impetrado em favor de JARBAS MARTINS GOULART.
+Narram os autos que o paciente/agravante foi condenado pelo Juízo de primeiro grau, às penas de 5 anos de reclusão, em regime inicial fechado, e multa, pela prática do delito previsto no art. 33,caput,da Lei n. 11.343/2006 (e-STJ, fls. 419/431).
+Inconformada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido, apenas para alterar o regime de cumprimento da pena para o semiaberto (e-STJ, fls. 521/529). Segue a ementa do acórdão:
+TRÁFICO DE DROGAS. PRELIMINAR. INVIOLABILIDADE DE DOMICILIO. INOCORRÊNCIA. PROVA. PROPÓSITO DE COMERCIO CONFIGURADO. APENAMENTO. MINORANTE. MULTA.
+A Infração de que trata a regra contida no art. 33, caput. da Lei no 11.343/2006, não é caracterizada pela venda, tao-somente, resultando incriminadas diversas outras condutas, como as de simplesmente levar consigo a substância entorpecente ou mantê-la em depósito, desde que com o propósito de mercancia.
+Desimporta, assim, ao efeito de se acolher a pretensão acusatória, tenha o agente efetivado, ou não, a venda, mostrando-se suficiente, para tanto, que os elementos informativos evidenciem tal intento. E tanto ocorre no caso vertente em que dispunha o acusado de significativa quantidade de droga (trinta e :rés porções de maconha, com peso aproximado de 34.5g), além de um cigarro da mesma substância entorpecente e numerário, em local conhecido pela narcotraficância.
+Condenação e apenamento mantidos. Regime alterado para o semiaberto.
+APELO PARCIALMENTE PROVIDO.
+No presentewrit (fls. 3/6), a impetrante sustentou haver constrangimento ilegal imposto ao paciente, ante a não aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, apesar de estarem presentes todos os requisitos legais para a concessão do benefício. Nesse sentido, aduziu que a ação penal em curso utilizada pelo Tribunal Coator para afastamento do benefício sequer foi sentenciada, não podendo, portanto, servir de embasamento para o afastamento da minorante, sob pena de afronta aos princípios da isonomia, da individualização da pena, da segurança jurídica e da proporcionalidade.
+Diante disso, pleiteou, liminarmente e no mérito, a incidência da causa especial de redução de pena, previsto no art. 33, § 4º, da Lei n. 11.343/2006, com a consequente readequação do regime de cumprimento da pena e a sua substituição por pena restritiva de direitos.
+O habeas corpus não foi conhecido (e-STJ, fls. 546/551).
+Neste agravo regimental, reitera o recorrente a fundamentação adotada na impetração, ressaltando que a utilização de processos em andamento para negar a aplicação da redutora do tráfico privilegiado viola o princípio da presunção da inocência e contraria precedentes do STF.
+Argumenta que uma solução mais razoável seria a utilização de outros processos em curso para modular a fração da redutora, mas não para impedir a sua incidência.
+Requer, ainda, a adequação do regime inicial de cumprimento da reprimenda e a substituição da pena privativa de liberdade por restritivas de direitos.
+Pleiteia, ao final, o provimento do presente agravo para que seja reformada a decisão monocrática para reconhecer a incidência da redutora do 4º, do art. 33, da Lei 11.343/2006.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/06. NÃO APLICAÇÃO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PROCESSO CRIMINAL EM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É assente na jurisprudência deste Superior Tribunal de Justiça a possibilidade de afastamento do tráfico privilegiado consubstanciado na existência de procedimentos criminais em andamento, quando as circunstâncias permitirem concluir que o acusado se dedica a atividades criminosas ou integra organização criminosa.
+2. Na hipótese, as instâncias locais informaram que o paciente responde a outro processo criminal pela prática do mesmo delito, o que, embora não configure maus antecedentes ou reincidência, é suficiente para afastar a incidência do benefício pleiteado.
+3. Ademais, tendo as instâncias ordinárias concluído que o paciente se dedica à atividade criminosa, para entender de modo diverso, seria necessário o revolvimento de todo o conjunto fático-probatório amealhado durante a instrução probatória, o que, como cediço, é vedado na via estreita dohabeas corpus, de cognição sumária.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Como sabido, a aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006 demanda o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar a atividades criminosas ou integrar organização criminosa.
+Na hipótese, a Corte local assim se manifestou ao manter a não aplicação da benesse (e-STJ, fl. 527):
+Diversamente do sustentado pela defesa. não há cogitar da observância da causa de diminuição de pena prevista no artigo 33, § 4º , da Lei Antidrogas, pois o acusado figura como réu em processo outro pelo cometimento posterior dos delitos de tráfico de drogas e associação para o tráfico, circunstância que deixa à mostra a dedicação do apelante às atividades delituosas.
+Com efeito, este Tribunal tem considerado idônea a utilização de condenações, e até mesmo de processos em andamento, mesmo que sem trânsito em julgado, para afastar a aplicação da redutora do tráfico privilegiado.
+Confiram-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. EXPRESSIVA QUANTIDADE E VARIEDADE DE DROGA E EXISTÊNCIA DE CONDENAÇÕES ANTERIORES.
+FUNDAMENTOS IDÔNEOS. CONCLUSÃO DIVERSA QUE EXIGIRIA REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE.
+1. Consoante o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+ ..
+3. A existência de inquéritos policiais ou de ações penais em andamento não possui o condão de exasperar a reprimenda-base, consoante o enunciado na Súmula n. 444 deste Superior Tribunal.
+Contudo, esta Corte firmou entendimento de que a existência de outros processos criminais contra o acusado, ainda que sem condenação transitada em julgado, sobretudo da mesma espécie de delito, afasta a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+4. Na hipótese, as instâncias ordinárias deixaram de reconhecer a minorante com base na quantidade e variedade de droga e nos pormenores da situação concreta, que demonstraram que o agravante dedicava-se à atividade criminosa, excluindo a possibilidade do pretendido redutor. Concluir de forma diversa, aliás, ensejaria o revolvimento de matéria fático-probatória, tarefa para a qual não se presta o habeas corpus.
+5. Agravo regimental a que se nega provimento. (AgRg no HC 424.827/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/03/2018, DJe 26/03/2018)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. NATUREZA DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO CASO CONCRETO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. REGIME INICIAL FECHADO. ART. 42 DA LEI DE DROGAS CONSIDERADO NA 3ª FASE DA DOSIMETRIA. FUNDAMENTO IDÔNEO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ART. 44 DO CÓDIGO PENAL. PENA FIXADA ACIMA DE 4 ANOS. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. LIMINAR CASSADA.
+ ..
+III - In casu, observa-se que, não obstante ser pequena a quantidade da droga apreendida - apenas 3 (três) gramas -, a natureza altamente viciante do crack e as demais circunstâncias do caso concreto (a forma de acondicionamento da droga, a ausência de demonstração da origem lícita do dinheiro apreendido ou de exercício de atividade lícita e, ainda, outras passagens pela justiça pela prática de mesmo delito) indicam que a paciente dedica-se a atividades criminosas, justificando, por isso, o afastamento da redutora prevista no caput do § 4º do art. 33 da Lei n. 11.343/06.
+ ..  Habeas corpus não conhecido. Liminar cassada. (HC 400.348/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/08/2017, DJe 29/08/2017)
+Acrescente-se que, tendo as instâncias ordinárias concluído que o paciente se dedica à atividade criminosa, para entender de modo diverso, seria necessário o revolvimento de todo o conjunto fático-probatório amealhado durante a instrução probatória, o que, como cediço, é vedado na via estreita dohabeas corpus, de cognição sumária.
+Nessa linha:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. REGIME FECHADO. POSSIBILIDADE. QUANTIDADE, VARIEDADE E NATUREZA DAS DROGAS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06 depende do convencimento do Magistrado, de que o apenado, primário e de bons antecedentes, não se dedique a atividades delituosas nem integre organização criminosa. In casu, o entendimento registrado na origem está em consonância com a jurisprudência deste Tribunal Superior, firmada no sentido de que a considerável quantidade, a variedade e a natureza das drogas apreendidas, pressupõe a dedicação à atividade criminosa, revelando-se suficiente a afastar a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/06.
+3. A reforma do entendimento das instâncias ordinárias quanto à dedicação dos pacientes às atividades criminosas constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+(..)
+Habeas corpus não conhecido. (HC 375.681/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/02/2017, Dje 24/02/2017) - grifei.
+Mantida a reprimenda fixada na origem, ficam prejudicados os pedidos de abrandamento de regime e de substituição de pena privativa de liberdade por restritivas de direitos.
+Assim, pelas próprias razões do decisum impugnado, acima reiteradas, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
