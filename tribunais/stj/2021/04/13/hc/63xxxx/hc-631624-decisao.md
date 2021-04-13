@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido de liminar, impetrado em benefício de HUDSON BARBARA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento do HC n. 0071097-60.2020.8.19.0000.
+Extrai-se dos autos que o paciente foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV do Código Penal (homicídio qualificado), tendo sido negado o direito de recorrer em liberdade, mantendo a segregação cautelar anteriormente decretada.
+Alegando excesso de prazo para formação da culpa, a defesa impetrou habeas corpus originário, cuja ordem foi denegada pelo Tribunal de origem nos termos do acórdão assim ementado:
+"EMENTA: HABEAS CORPUS. ARTIGO 121, § 2º, INCISOS I E IV DO CÓDIGO PENAL.POSTULA-SE A CONCESSÃO DA LIBERDADE DO PACIENTE, ALEGANDO-SE EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL, EIS QUE PRESO DESDE 18/11/2018,SEM QUE A MESMA TENHA SE FINDADO, ALÉM DE AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE INDEFERIU O PLEITO DE RELAXAMENTO DE PRISÃO. Noticiam os autos, que o paciente foi denunciado pela prática da conduta descrita no artigo 121, § 2º, incisos I e IV do Código Penal. Percebe-se, que a medida prisional foi mantida de modo suficientemente motivado, em atenção ao disposto no art. 315 do CPP, observado o inciso IX do art. 93, da CR/88, inferindo-se a adequação da cautela ao caso, como a necessidade de sua imposição. Relativamente a alegação de excesso de prazo na instrução criminal, conquanto o paciente tenha sido pronunciado há cerca de um ano, sem que tenha sido realizada a sessão plenária do Tribunal do Júri, importante consignar, as circunstâncias excepcionais pelas quais passa o País nesse momento de pandemia, que levaram este Egrégio TJRJ a estabelecer medidas, tais como, a suspensão dos processo físicos e eletrônicos, tudo com espeque nas Resoluções nº 313, nº 314 e nº 318 do CNJ, a fim de prevenir o contágio pelo Coronavírus. Lado outro, considerando-se que a cautela encontra-se estabelecida desde meados de novembro de 2018, entende-se necessário, seja repisada alguma urgência quanto a colocação do feito em julgamento. CONHECIDA E DENEGADA, com recomendação para que seja ultimada a instrução dentro das possibilidades do juízo, no menor prazo possível" (fls. 14/15).
+No presente writ, repisa a alegação de excesso de prazo para o encerramento do processo, sustentando que o paciente encontra-se preso preventivamente desde 18/11/2018, ou seja, há mais de 2 anos.
+Destaca que a ação penal não se reveste de qualquer complexidade.
+Aponta que, "apesar de agendado o julgamento do plenário do Júri para o dia 24.03.2021, deve-se rememorar que diante da pandemia do novo coronavírus, não há certeza de sua realização, o que endossa a justificativa para o relaxamento da prisão" (fl. 09).
+Aduz não ser o caso da aplicação da Súmula 21/STJ.
+Pugna, assim, em liminar e no mérito, pelo relaxamento da prisão e expedição de alvará de soltura em favor do paciente.
+Indeferida a liminar (fls. 59/61) e informações prestadas (fls. 66/67), o Ministério Público Federal opinou pela concessão parcial da ordem, de ofício (fls. 74/79).
+É o relatório.
+Decido.
+O mandamus está prejudicado.
+Isso porque, em consulta ao andamento processual na página eletrônica do Tribunal de origem, verificou-se que, em 12/3/2021, nos autos da Ação Penal n. 0030663-93.2018.8.19.0066 , foi concedida liberdade provisória ao ora paciente, tendo sido expedido alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intime-se.
