@@ -1,0 +1,33 @@
+DECISÃO
+MAIK BRENO VIRGINIOalega sofrer constrangimento ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulo, que denegou o HC n. 2000783-26.2021.8.26.0000.
+A defesa requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente, aos argumentos de que não foi realizada a audiência de custódia e não estão presentes motivos suficientes para a decretação da prisão preventiva pela suposta prática do delito de tráfico de drogas.
+Deferida a liminar (fls. 259-262) e prestadas as informações,veio o parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 280-287).
+Decido.
+I. Contextualização
+Consta dos autos que o paciente foi preso em flagrante, pela suposta prática do delito de tráfico de drogas. A necessidade da custódia preventiva foi justificada, para garantia da ordem pública, porque "os policiais rodoviários federais encontraram03 cigarros de maconha no console central, 01 tablete de haxixe pesando aproximadamente 105 gramas e 12 pílulas de ecstasy, além de uma pequena balança" (fl. 103, grifei), além de dinheiro e dois celulares.
+Por ocasião do pedido de liberdade provisória, o Juiz de primeiro grau asseverou que "muito embora a folha de antecedentes do investigado, emitida pelo Tribunal de Justiça do Estado de São Paulo, indique a sua primariedade, observa-se que, pelodocumento expedido pela Polícia Civil do Estado de Minas Gerais, local de sua residência, há indicativos de que Maik já foi apreendido em flagrante delito pela prática de idêntico crime" (fl. 142, destaquei).
+A Corte estadual manteve a segregação do paciente.
+De acordo com as informações prestadas pelo Juízo de primeiro grau, o feito aguarda a realizaçãoda audiência de instrução e julgamento, designada para 10/6/2021 (fl. 274).
+II. Prisão preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito -o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Na espécie, verifico que o Magistrado singular embasou sua decisão em elementos concretos e idôneos-apreensão de certa quantidade de drogas e uma balança de precisão, além de um registro policial pretérito-, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a preventiva. Isso porque, entendo que a quantidade de droga encontrada em seu poder não tem o condão de, isoladamente, indicar a prática habitual do comércio de entorpecentes e, por conseguinte, justificar a custódia provisória.
+Assim, as circunstâncias apresentadas, isoladamente, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Ao considerar, então, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliar as situações em que perpetrado o suposto crime em questão, reputo cabível a concessão da ordem, com a confirmação da medida de urgência anteriormente deferida.
+Apesar da reprovabilidade social do comportamento atribuído ao paciente-a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal-, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+Tal opção judicial produzirá o mesmo resultado cautelar-no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública-sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque odelitoa ele atribuídonão envolveuviolência ou grave ameaça contra pessoa.
+Ilustrativamente:
+ ..
+1. A manutenção da medida extrema somente se justifica se outras providências cautelares pessoais, com igual eficácia e adequação, não forem aptas a afastar opericulum libertatis(art. 282 do Código de Processo Penal).
+2. É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+3. Os fatos de o acusado não ostentar antecedentes criminais, de haver sido apreendido com reduzida quantidade de drogas, de o delito não haver envolvido violência ou grave ameaça contra pessoa e de não haver notícias concretas de reiteração criminosa evidenciam que as medidas cautelares alternativas produzirão o mesmo resultado cautelar - a proteção da ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado.
+4. Ordem concedida, para substituir a prisão preventiva do paciente por medidas cautelares alternativas, nos termos do voto do relator.
+(HC n. 390.080/SP, Rel. MinistroRogerio Schietti, 6ª T., DJe 26/6/2017)
+III. Dispositivo
+À vista do exposto,concedo a ordem para, confirmada a liminar, substituir a prisão preventiva do ora paciente, pelas seguintes medidas cautelares:
+a)comparecimento periódico em juízo, sempre que forem intimados para os atos do processo e no prazo e nas condições a serem fixados pelo Magistrado, a fim de informar seu endereço e justificar suas atividades;
+b)proibição de ausentar-se da comarca, quando a permanência seja conveniente ou necessária para a investigação ou a instrução;
+c)recolhimento domiciliar noturno(das 20h de um dia às 6h do dia seguinte), sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+Alerte-se ao paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure sua exigência.
+Comunique-se, com urgência, o inteiro teor destedecisumao Juízo singular e à autoridade apontada como coatora.
+Publique-se e intimem-se.
