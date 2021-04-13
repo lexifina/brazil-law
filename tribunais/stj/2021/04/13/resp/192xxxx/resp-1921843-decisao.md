@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS,contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO. REEXAME NECESSÁRIO. AÇÃO CIVIL PÚBLICA.SUS. DIREITO À VIDA E À SAÚDE. MEDICAMENTO RANIBIZUMABE.AÇÃO AJUIZADA APÓS 23.6.2015. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DO JUIZADO ESPECIAL.
+- Para as ações ajuizadas após 23 de junho de 2015, a competência do Juizado Especial da Fazenda Pública será definida unicamente com base nos requisitos previstos na Lei nº12.153/2009.
+- No caso concreto, o valor da ação é inferior a 60 salários mínimos e a matéria discutida não está elencada no rol do artigo 2º, § 1º, da Lei nº 12.153/09, o que, por consequência, torna o Juizado Especial da Fazenda Pública competente para processar e julgar o presente feito" (fl. 230e).
+Opostos embargos de declaração, foram eles rejeitados:
+":NOVOS EMBARGOS DECLARATÓRIOS. FORNECIMENTO DE MEDICAMENTO (LUCENTIS) DE ALTO CUSTO. AUSÊNCIA DE PROVA INEQUÍVOCA DA IMPRESCINDIBILIDADE DO MEDICAMENTO FORNECIDO PELO ESTADO PARA TRATAMENTO DA DOENÇA QUE ACOMETE O PACIENTE. PECULARIEDADES DO CASO CONCRETO.OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. RECURSO REJEITADO.
+- Cabem embargos declaratórios nas hipóteses de omissão, contradição ou obscuridade do acórdão.
+- As questões levantadas pelo embargante foram categoricamente analisadas por esta Turma Julgadora por ocasião do julgamento do recurso de apelação e dos primeiros embargos declaratórios, não ressaindo qualquer vicio a ser sanado.
+- A decisão que acata tese diversa da que foi defendida pelo embargante não é, só por isso, contraditória ou omissa.
+- Embargos rejeitados" (fl. 300e).
+Em suas razões, a parte recorrente, com fundamento no art. 105, III, a, da CF/88, alega ofensa aos arts. 2º e 6º, I ed, da Lei 8.080/90 e1.022, I e II, do CPC/2015, sustentando que a) mesmo com a oposição dos Embargos de Declaração, não foram sanadas as omissões e obscuridade indicadas; b) "a Corte a quo acabou invocando novo tratamento não indicado pelo recorrido ou em documento médico constante dos autos, não havendo sequer informação sobre a sua disponibilização pelo SUS" e que, "diante da indicação firmada por médico de cuja idoneidade não se duvida, nem se discute, a negativa da prestação do serviço à saúde é arbitrária e abusiva" (fls. 319/321e).
+Apresentadas contrarrazões (fls. 325/335e), o recurso foi admitido na origem (fls. 337/338e).
+O inconformismo não merece prosperar.
+Inicialmente, em relação aoart. 1.022 do CPC/2015, deve-seressaltar queo acórdão recorrido não incorreu em qualquer vício, uma vezque o votocondutor do julgado apreciou, fundamentadamente, todas asquestõesnecessárias à solução da controvérsia, dando-lhes, contudo,soluçãojurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contráriaaointeresse da parte com ausência de fundamentação ou negativa deprestaçãojurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel.MinistroOG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp1.667.456/RS,Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de18/12/2017;REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDATURMA, DJede19/12/2017.
+Quanto ao mais, extrai-se do acórdão recorrido:
+"Noutro norte, não passou despercebido aos julgadores que os referidos profissionais são particulares e da mesma clínica, e, portanto, não integrantes da rede do SUS. Além disso, não houve perícia médica judicial, realizada sob o crivo do contraditório e da ampla defesa, sendo certo que, ao responder o questionário formulado pelo "parquet", a médica particular informou que não foram sequer realizados outros tipos de tratamento.
+Como bem ficou ressaltado no voto de minha Relatoria:
+"Não se desconhece a afirmação da referida profissional de que o medicamento AVASTIN não pode ser utilizado para o tratamento do autor, porém ele não é o único substituto do fármaco LUCENTIS.
+Existe, por exemplo, o remédio aflibercepte (Eyliae), que possui o mesmo princípio ativo.
+Em síntese, conforme assinalado, os laudos emitidos por médicos particulares não demonstram a ineficácia de todos Estado, os de outros forma tratamentos oferecidos pelo a levar à necessidade do Lucentis, que custa em média R$4.000,00 ( https://consultarernedios.com.billucentis/p ) e o tratamento da paciente, cuja prescrição prevê no mínimo a compra de 12 ampolas e pode chegar a custar R$48.000,00".
+Nesse momento, mostra-se necessário afastar a alegação do embargante no sentido de que inexiste documento médico nos autos que indique o medicamento EYLIA como um possível substituto do fármaco LUCENTIS.
+Ora, a informação contida no acórdão foi retirada da Técnica disponível no "site"deste Tribunal URL: http://bd.timq.ius.br:80/ispuithandle/timo/7989:
+(..)
+Impende destacar que o referido documento apresenta elementos fundados, confiáveis, de que o medicamento pode ser substituído por outros, tais como "aflibercepte (Eylia0), bevacizumabe (Avastine"). Não ressai, portanto, a obscuridade invocada pelo embargante" (fls. 303/304e).
+Deste modo, a reversão do entendimento adotado pelo Tribunal a quo, no sentido de quenão teria sido demonstrada a imprescindibilidade do medicamento requerido para o tratamento médico, considerada a possibilidade de sua substituição, demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, pelo óbice enunciado na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
