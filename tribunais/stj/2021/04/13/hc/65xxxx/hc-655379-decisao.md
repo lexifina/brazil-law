@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado de São Paulo em favor de RICARDO DE MENDONÇA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo em execução n 0001157-50.2021.8.26.0041).
+Consta dos autos que Juízo das Execuções Criminais indeferiu pedido de retificação do cálculo de penas para fins de progressão de regime, considerando o lapso temporal de 3/5 (60%), por ser o réu reincidente (e-STJ fls. 24/25) - Execução Provisória n. 0008835-53.2020.8.26.0041.
+Inconformada, a defesa interpôs agravo em execução perante a Corte estadual, pugnando, dentre outros argumentos, pela retificação do cálculo de penas do sentenciado.
+O Tribunal, contudo, negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 53):
+AGRAVO EM EXECUÇÃO. Recurso interposto diante da decisão que indeferiu o pedido de retificação do cálculo de liquidação de pena, que adotou o interstício temporal de 3/5 para progressão de regime. Sentenciado reincidente que cumpre pena pela prática de crime equiparado a hediondo. Inteligência do artigo 112, inciso VII, da LEP. Dispositivo legal que não exige a reincidência específica para observância da maior fração. Agravo improvido.
+(Agravo de Execução Penal nº 0001157-50.2021.8.26.0041, Rel. Des. FARTO SALLES, 6ª Câmara de Direito Criminal do TJ/SP, unânime, julgado em 02/03/2021)
+Na presente impetração, a Defensoria relata que o paciente é reincidente simples em crime comum, de modo que o lapso aplicável ao caso do sentenciado é de 40% (quarenta por cento) para progressão de regime.
+Argumenta que se, de um lado, o executado não é primário, como mencionado pelo inciso V do artigo 112 da Lei de Execução Penal, de outro, não é reincidente específico, como expressamente exige o inciso VII do mesmo artigo, deverá ser aplicada a norma mais favorável, como consequência lógica do princípio do favor rei.
+Pede, assim, liminarmente e no mérito, a retificação do cálculo de penas para constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional.
+Às fls. 67/68, indeferi a liminar.
+O Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 1ª RAJ - da Comarca de São Paulo/SP prestou informações (e-STJ fls. 72/73), nas quais esclareceu que "em respeito aos princípios da segurança jurídica, da proteção da confiança e da isonomia, na data de hoje foi determinada a retificação do cálculo de o 2 (1) penas para o fim de fixar o lapso de 40% de cumprimento da pena, preconizado no art. 112, V, da LEP, em observância à jurisprudência do colendo Superior Tribunal de Justiça".
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pela prejudicialidade da impetração, ante a perda superveniente de seu objeto.
+É o relatório. Passo a decidir.
+Tendo em conta que a única irresignação posta na presente impetração dizia respeito à realização de novo cálculo da pena do paciente, aplicando-se o percentual de 40% (quarenta por cento) previsto no art. 112, V, da Lei de Execuções Penais, para fins de progressão de regime, e que, nas informações prestadas, o Juízo de 1º afirmou ter reconsiderado sua decisão anterior para determinar a realização de novo cálculo, nos moldes pleiteados pela defesa, não remanesce interesse na discussão posta nestes autos.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
