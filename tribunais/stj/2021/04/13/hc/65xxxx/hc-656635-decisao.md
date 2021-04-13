@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deMARLON ROCHA DA SILVAcontra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento da Apelação n. 0003351-72.2019.8.24.0033, de Itajaí.
+Colhe-se nos autos que, em primeiro grau de jurisdição, o Paciente foi condenado pela prática do crime previsto no art. 155, §§ 1.º e 4.º, inciso IV, do Código Penal, à pena reclusiva de 2 (dois)anos, em regime aberto, "substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e interdição temporária de direitos" (fl. 232).
+A sentença foi mantida pela Corte de origem no acórdão ora impugnado, que foi assim ementado (fl. 444):
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO.FURTO QUALIFICADO PELO CONCURSO DE AGENTES (CÓDIGO PENAL, ART. 155, § 4º, IV). SENTENÇA CONDENATÓRIA. INSURGIMENTO DA DEFESA.
+ALMEJADA DESCLASSIFICAÇÃO PARA A MODALIDADE SIMPLES, PREVISTA NO RESPECTIVO ART. 155,CAPUT.IMPOSSIBILIDADE. SUBSTRATOS DE CONVICÇÃO COLIGIDOS AO FEITO QUE DEMONSTRAM ESTREME DE DÚVIDAS A COMPARSARIA.
+DOSIMETRIA DA PENA. FASE INTERMEDIÁRIA DO CÔMPUTO. PRETENSA REDUÇÃO DA REPRIMENDA PARA AQUÉM DO MÍNIMO ABSTRATAMENTE COMINADO EM DECORRÊNCIA DO RECONHECIMENTO DA CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA. DESCABIMENTO. EXEGESE DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES.
+PRONUNCIAMENTO MANTIDO. RECURSO CONHECIDO E DESPROVIDO."
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+Daí a presente impetração, em que se alega, inicialmente, que "o TJSC deixou de converter o julgamento em diligência, a fim de intimar o Ministério Público na origem para propor acordo de não persecução penal ao Paciente" (fl. 8), e que o art. 28-A do Código de Processo Penalé aplicável em benefício do réuainda que a causa tramite em fase recursal.
+Sustenta-se, ainda, que "estabelecida a pena privativa de liberdade em patamar superior a 1 ano (2 anos), caberia ao Magistrado substituí-la por uma restritiva de direitos e multa ou por duas restritivas de direitos, nos termos da segunda parte do § 2.º do art. 44 do Código Penal" (fl. 14), mas que, no caso, "o Juízo sentenciante optou pela segunda alternativa-substituição por uma restritiva de direito, consistente em prestação de serviços à comunidade e prestação pecuniária-sem nenhuma fundamentação" (fl. 15).
+Requer-se, liminarmente e no mérito, a cassação do acórdão impugnado para que o julgamento em segundo grau seja convertido "em diligência a fim de determinar a intimação do Ministério Público na origem para oferecer acordo de não persecução penal ao Paciente, já que preenchidos os requisitos legais do art. 28-A do CPP"(fl. 22). Subsidiariamente, a readequação das "penas substitutivas, de modo a substituir a pena de reclusão imposta ao Paciente por uma restritiva de direitos (prestação de serviços à comunidade) e multa (em vez de duas penas restritivas de direitos), nos termos do § 2.º do art. 44 do CP" (ibidem).
+É o relatório. Decido.
+O writ não merece trânsito, ante a caracterização de litispendência.
+Há identidade de partes e de causa de pedir no presente writ e no HC n. 631.088/SC, Rel. Ministra LAURITA VAZ, no qual, a propósito, reconheci a ilegalidade da conversão da prisão preventiva de ofício.
+Ocorre que não podem ser analisados habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi.
+Isso porque o reconhecimento da litispendência visa precipuamente à economia processual e ao "propósito de evitar a ocorrência de decisões contraditórias" (STJ, REsp 88.354/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, PRIMEIRA TURMA, DJ 02/09/1996).
+Destaco ainda os seguintes precedentes,mutatis mutandis:
+"RECURSO ORDINÁRIO EMHABEAS CORPUS. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. REITERAÇÃO DE PEDIDO FORMULADO EMHABEAS CORPUSANTECEDENTE. LITISPENDÊNCIA.
+1. Configura litispendência a reiteração de pedido idêntico ao formulado emhabeas corpusantecedente que ainda se encontra em curso.
+2. Recurso ordinário não provido." (RHC 36.788/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/06/2013, REPDJe 02/08/2013, DJe 17/06/2013.)
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO CONSTITUCIONAL EMHABEAS CORPUS.REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DECAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EMWRITANTERIORMENTE IMPETRADO. LITISPENDÊNCIA CONFIGURADA. AGRAVO DESPROVIDO.
+1. Não podem ser analisados habeas corpus e recurso ordinário emhabeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e decausa petendi.
+2. É certo que o Agravante alega que o pedido que deve ser analisado pelo Superior Tribunal de Justiça é o formulado no recurso cabível (como no caso, em que a presente via de impugnação foi interposta na origem concomitantemente awritimpetrado nesta Corte). Todavia, a Sexta Turma do Superior Tribunal de Justiça não impõe óbice ao conhecimento do habeas corpus substitutivo de recurso ordinário.Dessa forma, deve ser processado tão somente o pedido que primeiramente foi recebido pelo STJ.
+3. A despeito de não se vedar a possibilidade da impetração demandamusoriginário, nessa hipótese a Defesa pode eventualmente ter de arcar com o ônus de o recurso ordinário - embora trate-se da adequeda via de impugnação - não ter seu mérito analisado (vide RHC 37.895-RS, Rel. Min. LAURITA VAZ, QUINTA TURMA, Informativo STJ n.º 539, 15 de maio de 2014).
+4. Agravo regimental desprovido."(AgRg no RHC 126.237/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento no art. 34, inciso XX, c.c. o art. 210, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EM WRITANTERIORMENTE IMPETRADO, DE COMPETÊNCIA DESTA CORTE. LITISPENDÊNCIA CONFIGURADA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
