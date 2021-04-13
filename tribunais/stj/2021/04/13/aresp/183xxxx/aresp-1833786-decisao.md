@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONDOMINIO DO EDIFICIO GUAIAQUIL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. CARTA DE ADJUDICAÇÃO. IMPOSSIBILIDADE DE CUMPRIMENTO PELO OFICIAL DE REGISTRO PÚBLICO. EXISTÊNCIA DE HIPOTECA. 1. O pedido de baixa da hipoteca, haverá de ser ajuizado contra o credor hipotecário, no juízo federal, constitucionalmente competente para tanto, não podendo o Juízo a quo apreciá-lo, como quer o agravante. Ademais, inaplicável ao caso a Súmula 308 do STJ, pois não se trata de gravame originário da Construtora do Imóvel e o agente financeiro, mas de terceiros, pessoas físicas. 2. Assim, tem-se que agiu agiu com acerto o Julgador de Origem, ao indeferir o pleito do exequente, haja vista a comunicação apresentada pelo Oficial de Registro Público no que se refere à impossibilidade em cumprir com a carta de adjudicação, dada a existência do gravame em referência, bem como de outros ali citados.
+AGRAVO CONHECIDO E DESPROVIDO
+Alega violação do art. 1499, VI, do CC, no que concerne ao reconhecimento de que a adjudicação extingue o registro da hipoteca na matrícula de imóvel, trazendo os seguintes argumentos:
+Ao levar a Carta de Adjudicação para registro no 4º Cartório Imobiliário de Goiânia  GO, o mesmo se negou a cumprir a Carta de Adjudicação alegando existência de Ônus sobre o Imóvel (Evento 42).  ..
+A arrematação ou adjudicação judicial sempre extingue os ônus que recaem sobre o bem arrematado ou adjudicado, por sua força extintiva de onerações pessoais e reais, previstas no citado artigo.
+A arrematação translada, ou transfere, o vínculo da constrição para o preço da aquisição do bem. Ela opera o "cancelamento indireto" das constrições, e o arrematante adquire o imóvel de forma originária.  ..
+Desse modo, a hipoteca não tem eficácia em relação ao Recorrente, novo titular de domínio. Deve ser autorizado o cancelamento das constrições pendentes sobre o bem.
+ ..
+Ao rejeitar o pedido de cancelamento da hipoteca, o juízo de origem violou o artigo 1.499, VI do CC, em sua literalidade (fls. 107/111).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Certo é que, nesse cenário, o pedido de baixa da hipoteca, haverá de ser ajuizado contra o credor hipotecário, no juízo federal, constitucionalmente competente para tanto, não podendo o Juízo a quo apreciá-lo, como quer o agravante (fl. 76).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
