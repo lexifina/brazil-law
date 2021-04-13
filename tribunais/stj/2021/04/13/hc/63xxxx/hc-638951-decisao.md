@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em benefício de ROBERTO DELFINO DE MELO contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro proferido no julgamento da Apelação n. 0384443-59.2010.8.26.0000.
+Infere-se dos autos que o paciente foi condenado, em primeiro grau, a 9 anos e 4 de reclusão, em regime fechado, pela prática dos crimes de tráfico e associação para o tráfico de drogas (arts. 33, caput, e art. 35, ambos da Lei n. 11.343/06).
+Interposta apelação, pela defesa, o Tribunal a quo negou provimento ao recurso, em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO, AMBOS MAJORADOS PELO ENVOLVIMENTO DE MENOR, EM CONCURSO MATE- RIAL (ARTS. 33, CAPUT, E 35, AMBOS C/C ART. 40, VI, TODOS DA LEI N.º 11.343/06, NA FORMA DO ART. 69 DO CÓDIGO PENAL).
+APELANTE QUE, EM SÃO JOÃO DE MERITI/RJ, DE FORMA COMPARTILHADA COM O ADOLESCENTE PABLO, VENDIAM, EXPUNHAM À VENDA E TRAZIAM CONSIGO, PARA FINS DE TRÁFICO ILÍCITO DE ENTORPECENTES, 38 TA- BLETES DE ERVA SECA, PICADA E PRENSADA, OSTENTADO AS INSCRIÇÕES "FAVELA DA LINHA - HIDROPONICA 10-CV", CONTENDO 79 GRAMAS DE MACONHA, 308 PINOS DE PÓ BRANCO, OSTENTANDO AS INSCRIÇÕES "FA- VELA DA LINHA - S.J.M. - PÓ 10 - C.V.", CONTENDO 190,9 GRAMAS DE COCAÍNA, E 87 SACOLÉS DE PÓ BRANCO-AMARELADO COMPACTADO EM PEQUENAS PEDRAS, CONTENDO 10,4 GRAMAS DE COCAÍNA (CRACK), SEM AUTORIZAÇÃO E EM DESACORDO COM DETERMINAÇÃO LEGAL E REGULAMENTAR, E QUE, NAS MES- MAS CONDIÇÕES, ASSOCIOU-SE DE FORMA ESTÁVEL E PERMANENTE AO ADOLESCENTE PABLO E AOS TRAFICANTES DO "COMANDO VERMELHO", PARA O FIM DE PRATICAREM O CRIME PREVISTO NO ART. 33, CAPUT, DA LEI N.º 11.343/06.
+PRETENSÃO DEFENSIVA À ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS OU POR ATIPICI- DADE DA CONDUTA QUANTO AO DELITO DE TRÁFICO DE DROGAS E POR AUSÊNCIA DE PROVAS DA ESTABILIDADE E PERMANÊNCIA EM RELAÇÃO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO QUE SE NEGA, ESPECIALMENTE PELAS CIRCUNSTÂNCIAS DO FLAGRANTE, O LOCAL, A QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS, A FORMA DE ACONDICIONAMENTO, ALÉM DOS DEPOIMENTOS COERENTES E CONVERGENTES DOS AGENTES DA LEI, TUDO A EVIDENCIAR A AUTORIA, OS CRIMES E A TIPICIDADE DA CONDUTA. ASSOCIAÇÃO PARA O TRÁFICO QUE SE TRATA DE CRIME FORMAL, BASTANDO, PARA A VIOLAÇÃO DO TIPO PENAL, QUE HAJA ÂNIMO ASSOCIATIVO ENTRE OS AGENTES, CONSUBSTANCIADO NO FIRME ACORDO DE VONTADES PA- RA A PRÁTICA DO CRIME DE TRÁFICO ILÍCITO DE DROGAS, O QUE RESTA CRISTALINO NOS AUTOS. IMPOSSIBILIDADE DE TRAFICÂNCIA AUTÔNOMA EM ÁREA DOMINADA PELA FACÇÃO CRIMINOSA "COMANDO VERMELHO".
+FIXAÇÃO DAS PENAS-BASE NO MÍNIMO LEGAL JÁ EFETUADA NA SENTENÇA.
+REDUÇÃO DA PENA DE MULTA INVIÁVEL, PORQUE APLICADA NA FORMA DO DISPOSTO NO ART. 60 DO CÓDIGO PENAL.
+APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4.º, DA LEI N.º 11.343/06, QUE NÃO SE ACOLHE, FACE À CONDENAÇÃO PELO DELITO DE ASSOCIAÇÃO AO TRÁFICO.
+PLEITO DE ISENÇÃO DO PAGAMENTO DAS CUSTAS QUE DEVE SER DIRECIONADO AO JUÍZO DE EXECUÇÃO.
+AUSÊNCIA DE VIOLAÇÃO À NORMA CONSTITUCIONAL OU INFRACONSTITUCIONAL.
+DESPROVIMENTO DO RECURSO" (fls. 104/106).
+No presente writ, a impetrante busca a absolvição do paciente pelo delito de associação para o tráfico e a aplicação do redutor de pena previsto no § 4º do art. 33 da Lei n. 11.343/2006, com o consequente abrandamento do regime e a substituição da pena por restritiva de direitos.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 147/151).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+No caso, o Tribunal a quo manteve a condenação do paciente pela prática do crime de associação para o tráfico de drogas, sob os seguintes fundamentos:
+" ..
+No que tange ao crime de associação, este resta igualmente comprovado por todo o conjunto probatório e pelo simples fato de que não seria razoável que o apelante estivesse de posse de elevada quantidade e variedade de drogas na localidade em questão, conhecida como "boca de fumo", sem que fosse associado à organização crimi- nosa autodenominada "Comando Vermelho", vez que é esta que controla todo o comércio ilegal de drogas na região.
+Ademais, merece ser ressaltado que o crime de associação ao tráfico é formal, bastando, para a violação do tipo penal, que haja ânimo associativo entre os agentes, consubstanciado no firme acordo de vontades para a prática do crime de tráfico ilícito de drogas, o que resta cristalino nos autos, como já analisado.
+Diante de tal contexto, não se vislumbra qualquer dúvida de que o acusado praticou os delitos imputados, imperando a certeza necessária para um juízo de condenação, até porque não logrou a defesa produzir qualquer prova que lhe socorresse" (fls. 116/117).
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA INVIÁVEL EM SEDE DE HABEAS CORPUS. PEDIDO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DOS CRIMES QUE INDICAM O TRÁFICO HABITUAL. FUNDAMENTAÇÃO IDÔNEA. PEDIDOS SUBSIDIÁRIOS PREJUDICADOS. AGRAVO NÃO PROVIDO.
+- Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei n. 11.343/2006. Na espécie, tendo a Corte local, com arrimo no conjunto probatório produzido nos autos, constatado que os agravantes praticaram o delito de associação para o tráfico, é inviável desconstituir tal premissa em sede de habeas corpus, diante da necessidade de revolvimento fático-probatório, vedado na estreita via do mandamus, de cognição sumária. Precedentes.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC 420.808/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/03/2018).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO QUANTO AO DELITO DO ARTIGO 35 DA LEI 11.343/2006. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS NO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL NÃO CARACTERIZADA.
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina. Precedentes.
+2. Tendo as instâncias de origem reconhecido, com arrimo no conjunto probatório produzido nos autos, que o paciente integraria organização criminosa estável e permanente, está caracterizado o delito de associação para o tráfico, afastando-se a coação ilegal suscitada na impetração.
+3. Para se entender de modo diverso e desconstituir o édito repressivo, como pretendido no writ, seria necessário o exame aprofundado do conjunto probatório produzido nos autos, providência que é inadmissível na via estreita do habeas corpus.
+ ..
+REGIME INICIAL FECHADO DETERMINADO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS. ELEMENTOS PRÓPRIOS DO TIPO PENAL VIOLADO. DESCABIMENTO. ENUNCIADOS 718 E 719 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DA ORDEM DE OFÍCIO.  ..
+2. Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime semiaberto para o cumprimento inicial da pena imposta ao paciente.
+(HC 392.153/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 07/06/2017)
+Destarte, mostra-se incabível o pedido referente à aplicação da minorante, haja vista que, conforme se verifica nos julgados desta Quinta Turma, a associação com o tráfico de drogas inviabiliza a aplicação da causa redutora de pena (§ 4º do art. 33 da Lei de Drogas).
+Confiram-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉ QUE SE DEDICA AO TRÁFICO. CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. REGIME MAIS GRAVOSO (FECHADO). CONCURSO MATERIAL. REPRIMENDA SUPERIOR A 8 ANOS. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+ ..
+2. O Superior Tribunal de Justiça firmou o entendimento que o acolhimento do pedido de absolvição pelo delito de associação para o tráfico de drogas implica imersão no conjunto fático-probatório dos autos, o que é inviável na via estreita do habeas corpus. Precedentes.
+ ..
+6. A condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente entre os agentes no cometimento do delito, evidenciando, assim, a habitualidade criminosa da paciente. Precedentes.
+7. Aplicada a regra do concurso material e somadas as reprimendas impostas para os delitos de tráfico de drogas e de associação para o tráfico, revela-se correto o regime inicial fechado para o cumprimento inicial da pena superior a 8 anos de reclusão, nos termos dos arts. 33, § 2º, "a", do Código Penal e art. 111 da LEP.
+8. Habeas corpus não conhecido.
+(HC 392.818/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 19/05/2017).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE LAUDO TOXICOLÓGICO. PRESCINDIBILIDADE. CONJUNTO PROBATÓRIO ROBUSTO A COMPROVAR A MATERIALIDADE DO DELITO. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS IMPOSSIBILIDADE NA ESTREITA VIA DO WRIT. DOSIMETRIA DA PENA. PENAS-BASE FIXADAS ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS. CULPABILIDADE, MOTIVOS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. FUNDAMENTAÇÃO INIDÔNEA. ELEMENTOS DO PRÓPRIO TIPO. CAUSA DE AUMENTO PREVISTO NO ART. 40, V E VI, DA LEI 11.343/2006. AUMENTO SUPERIOR A 1/6 SEM FUNDAMENTAÇÃO CONCRETA. IMPOSSIBILIDADE. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO 4º DO ART. 33 DA LEI Nº 11.343/06. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+IV - O habeas corpus não é a via adequada para apreciar questões que envolvam exame aprofundado de matéria fático-probatória, mormente se a prova não for convergente para tal desiderato.
+ ..
+VIII - Na espécie, a não aplicação, pelas instâncias ordinárias, da minorante prevista no § 4º do art. 33 da Lei 11.34306, está devidamente fundamentada, tendo em vista o paciente ter sido condenado, outrossim, pelo crime de associação para tráfico, não preenchendo, portanto, os requisitos legais para a concessão da benesse. (Precedentes).
+Habeas corpus não conhecido. Ordem concedida de ofício apenas para redimensionar as penas impostas ao paciente, tornando-as definitivas, em razão da regra do art. 69, do Código Penal, em 9 (nove) anos e 4 (quatro) meses de reclusão.
+(HC 303.109/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 27/03/2015).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimações necessárias.
