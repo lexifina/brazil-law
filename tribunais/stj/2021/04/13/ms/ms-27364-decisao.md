@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por ABRAÃO IURI MEDERIOS ANGELIM, com fundamento no art. 105, I, b, da Constituição Federal, contra suposto ato ilegalatribuído ao MINISTRO DE ESTADO DA SAÚDE e aos PRESIDENTES do FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE e do BANCO DO BRASIL S/A.
+Em apartada síntese, narra o impetrante que: (a)na condição de Médico participante do Programa de Residência em Neurologia pelo Hospital Federal dos Servidores do Estado, iniciado em 1º/3/2020 e com término previsto para 28/5/2003, faz jus à extensão do período decarência de seu Contrato de Financiamento Estudantil - FIES, por todo o período de duração do aludido programa de residência; (b) passados mais de 6 (seis) meses do requerimento de extensão do referido prazo de carência, sem nenhuma resposta do Ministério da Saúde, em janeiro de 2021 foi surpreendido pela cobrança da primeira parcela de seu financiamento; (c) em posterior contato por meio de correio eletrônico, foi informado de que seu requerimento teria sido indeferido uma vez que a residência médica por ele cursada não integrai o rol de especialidades que autorizariam a extensão do período de carência.
+À luz desses fatos, sustenta que o indeferimento em tela importa em ofensa aos princípios da Administração Pública e, ainda, ao direito à educação, previstos nosarts. 37, caput, e 205 da Constituição da República.
+Nesse sentido, argumenta que a partir da interpretação sistemática dos arts. 1º, 5º e 6º-B, Anexo II, item 14, da Lei 10.260/2001, que disciplina o FIES, dúvidas não há de que a residência médica na especialidade "neurologia" também autoriza a extensão do período de carência de seu financiamento estudantil.
+Requer-se, assim, a concessão de tutela de urgência para o fim de que seja determinada "a imediata suspensão da amortização do contrato de FIES objeto desta ação até a conclusão da residência médica do impetrante, além de determinar que as impetradas não inscrevam o autor e seus fiadores no SPC e SERASA, promovendo a respectiva baixa em caso de anotação, sob pena de multa diária no valor de R$ 1.000,00 (mil reais)" (fl. 46).
+No mérito, pleiteia o impetrante a concessão da segurança.
+Inicialmente o feito foi distribuído ao Juízo da 2ª Vara Federal Cível da Seção Judiciária do Distrito Federalque, ante o reconhecimento da existência de prevenção com o MS1004130-98.2021.4.01.3400, motivo pelo qual determinar a remessa dos autos ao Juízo da 17ª Vara Federal, também da SJDF (fls. 13/14).
+A seu turno,o Juízo da 17ª Vara Federal da Seção Judiciária do Distrito Federal se declarou incompetente para processar e este writ, ante a presença em seu polo passivo do MINISTRO DE ESTADO DA SAÚDE, por isso determinando a remessa dos autos a este Superior Tribunal (fls. 18/19).
+O pedido de gratuidade de justiça foi deferido (fl. 64).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Na forma da jurisprudência desta Corte, "a opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado" (AgInt no AgInt no MS 20.111/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 26/8/2019).
+Ocorre que, no caso concreto, não foi trazido aos autos nenhuma prova de que o indeferimento do pedido de prorrogação da carência do início de pagamento do financiamento estudantil assumido pelo ora impetrante seja de responsabilidade direta do MINISTRO DE ESTADO DA SAÚDE.
+Calha ressaltar que, conquanto a competência para definir as especialidades médicas prioritárias, para fins de prorrogação do prazo de carência do pagamento do FIES seja no MINISTRO DE ESTADO DA SAÚDE, não é este o responsável por aferir o preenchimento, ou não, dos requisitos legais para deferimento do pedido de prorrogação.
+A proposito, confira-se o que dispõe a Lei 10.260/2001:
+Art. 3º. A gestão do Fies caberá:
+I - ao Ministério da Educação, na qualidade de:
+a) formulador da política de oferta de vagas e de seleção de estudantes, nos termos do que for aprovado pelo CG-Fies;
+b) supervisor do cumprimento das normas do programa;
+c) administrador dos ativos e passivos do Fies, podendo esta atribuição ser delegada ao Fundo Nacional de Desenvolvimento da Educação (FNDE);
+II - a instituição financeira pública federal, contratada na qualidade de agente operador, na forma a ser regulamentada pelo Ministério da Educação;
+II - ao Comitê Gestor do Fundo de Financiamento Estudantil (CG-Fies), que terá sua composição, sua estrutura e sua competência instituídas e regulamentadas por decreto, na qualidade de:
+a) formulador da política de oferta de financiamento;
+b) supervisor da execução das operações do Fies sob coordenação do Ministério da Educação.
+ ..
+Art. 6º-B.O Fies poderá abater, na forma do regulamento, mensalmente, 1,00% (um inteiro por cento) do saldo devedor consolidado, incluídos os juros devidos no período e independentemente da data de contratação do financiamento, dos estudantes que exercerem as seguintes profissões:
+ ..
+§ 3º.O estudante graduado em Medicina que optar por ingressar em programa credenciado Medicina pela Comissão Nacional de Residência Médica, de que trata aLei nº6.932, de 7 de julho de 1981, e em especialidades prioritárias definidas em ato do Ministro de Estado da Saúde terá o período de carência estendido por todo o período de duração da residência médica.
+Nessa linha de ideias, portanto, é de rigor o reconhecimento, de ofício, da ilegitimidade passiva ad causam do MINISTRO DE ESTADO DA SAÚDE.
+Via de consequência, tendo em vista que as demais autoridades impetradas não se encontram elencadas dentro do rol previsto no art. 105, I, b, da Constituição Federal, em relação a estas deve ser declarada a incompetência deste Superior Tribunal para processar e julgar o presente mandamus.
+ANTE O EXPOSTO, extingo o mandado de segurança, sem a resolução do mérito, em relação ao MINISTRO DE ESTADO DA SAÚDE, ante sua ilegitimidade passiva ad causam, declarando, de ofício, a incompetência desta Corte para processar e julgar o writ em relação as demais autoridades impetradas. Proceda-se a baixa dos autos aoJuízo da 17ª Vara Federal da Seção Judiciária do Distrito Federal.
+Publique-se. Cumpra-se.
