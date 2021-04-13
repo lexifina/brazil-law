@@ -1,0 +1,32 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Dosimetria da pena. Supressão de instância. Fatos e provas. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. DOSIMETRIA. ALEGADA OCORRÊNCIA DE BIS IN IDEM. INOVAÇÃO RECURSAL. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+    I - O agravo não comporta conhecimento, pois verifica-se que as matérias ora suscitada não foi alvo de debate no Tribunal de origem, bem como não foi arguidas na inicial do presente writ, constituindo, assim, indevida inovação recursal, razão pela qual não pode ser apreciada. Precedentes.
+    II - Ad argumentandum tantum, ainda que a matéria fosse passível de conhecimento, diferente do alegado pelo agravante, a circunstância utilizada pelo eg. Tribunal de origem para a aplicação do redutor legal na fração mínima foi o contexto de atuação em organização criminosa, sem qualquer relação com a quantidade ou natureza da droga apreendida. Precedentes.
+    III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+    Agravo regimental não conhecido.”
+    2. Extrai-se dos autos que a paciente foi condenada à pena 4 anos, 10 meses e 5 dias de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 33, c/c o art. 40, I, da Lei 11.343/2006. Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal estadual negou provimento. O recurso especial foi inadmitido. Sobreveio o respectivo agravo, o qual não foi conhecido pelo STJ.
+    3. Na sequência, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 622.548, Min. Felix Fischer, não conheceu do writ. Interposto agravo regimental, o recurso foi desprovido. Os embargos de declaração opostos foram rejeitados.
+    4. Neste recurso ordinário, a defesa afirma que:
+          (i) “notória [...] a utilização do binômio natureza-quantidade de drogas em momentos distintos da dosimetria: tanto para aumentar a pena-base na primeira fase quanto para determinar a fração de redução decorrente do tráfico privilegiado em seu patamar mínimo, o que caracteriza inaceitável bis in idem”;
+          (ii) “os fundamentos para determinar a fração de redução decorrente do tráfico privilegiado não passam de ilações”;
+          (iii) “fazer crer que a recorrente teve contato com organização criminosa, ainda que eventual e esporadicamente, em virtude das circunstâncias utilizadas para se chegar a esta conclusão, representa flagrante ilegalidade, já que calcada em suposições”.
+    5. A defesa requer seja “concedida a ordem em definitivo, para reformar o acórdão do e. STJ e dar provimento ao habeas corpus impetrado, readequando-se a pena nos termos pleiteados”.
+    6. Decido.
+    7. O recurso ordinário não deve ser provido.
+    8. Quanto à alegação da defesa da ausência de indícios suficientes de participação da paciente no contexto de organização criminosa, a orientação do Supremo Tribunal Federal (STF) é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux. No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).
+    9. A alegação da ocorrência de bis in idem na dosimetria da pena, nos termos trazidos no recurso ordinário, não foi analisada pelo STJ, o que impede o imediato exame pelo STF, sob pena de supressão de instância.
+    10. Ainda: a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. Na hipótese dos autos, as instâncias precedentes deixaram de aplicar a minorante do art. 33, § 4º, da Lei de Drogas em seu patamar máximo com respaldo em dados objetivos da causa. De modo que o acolhimento da pretensão defensiva demandaria o revolvimento de matéria fática. Transcrevo, nesse sentido, as seguintes passagens do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    (…) diferente do alegado pelo agravante, a circunstância utilizada pelo eg. Tribunal de origem para a aplicação do redutor legal na fração mínima foi o contexto de atuação em organização criminosa, sem qualquer relação com a quantidade ou natureza da droga apreendida, consoante o seguinte excerto do v. acórdão objurgado do apelo defensivo:
+     ‘A ré, em seu interrogatório, declarou que receberia recompensa de cinco mil dólares pela empreitada criminosa. Bem assim, declarou que veio ao Brasil especialmente para esta finalidade. De se concluir, portanto, que tinha plena consciência de que aceitara transportar entorpecente para uma organização criminosa internacional.
+    Assim, a ré associou-se, ainda que de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, cumprindo papel de importância para o êxito da citada organização, já que era a responsável pelo transporte da droga até o destinatário final. Portanto, faz jus à aplicação da referida causa de diminuição no percentual mínimo de 1/6 (um sexto), tal como reconhecido na sentença’ (fl. 59, grifei).
+    […].”
+    12. Nessas condições, não verifico situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    13. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 13 de abril de 2021.
+Ministro Luís Roberto Barroso
+                            Relator
