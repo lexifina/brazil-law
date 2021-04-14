@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de PAULO BUENO DE SOUZA JUNIOR, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região no julgamento do HC n. 5027368-17.2018.4.04.0000.
+Extrai-se dos autos que o paciente foi condenado na Ação Penal n. 5001693-39.2016.4.04.7011, a qual faz parte da denominada "Operação Celeno", às penas de 7 (sete) anos e 9 (nove) meses de reclusão, em regime semiaberto, pela prática dos crimes previstos no art. 2º da Lei 12.850/2013 (organização criminosa) e no art. 334 do Código Penal (descaminho), concedido o direito de recorrer em liberdade, tendo o Juízo sentenciante mantido as medidas cautelares diversas da prisão anteriormente impostas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual, em 1/2/2019, denegou a ordem nos termos do acórdão acostado às fls. 259/261.
+No presente mandamus, o impetrante sustenta que a medida cautelar de vedação ao exercício de voar e frequentar aeroportos foi imposta apenas em desfavor do paciente, sendo violado os princípios da igualdade, proporcionalidade e razoabilidade.
+Afirma que o paciente tem como profissão e sempre trabalhou como piloto agrícola, porém se encontra impedido de exercer seu labor por conta da medida cautelar de não poder frequentar aeroportos e voar, o que vem causando enorme prejuízo ao paciente e toda sua família.
+Pondera que o art. 282, II, do CPP, é claro ao afirmar que as medidas alternativas devem ser aplicadas observando as condições pessoais do acusado.
+Assevera que as medidas cautelares se mantêm a 04 anos e durante todo esse período não há qualquer informação nos autos de que o paciente praticou ato ilícito, seja vinculado à função de piloto ou não.
+Requer, assim, em liminar e no mérito, a substituição da medida cautelar imposta ao paciente de proibição de acesso a aeroportos, aeroclubes, pistas de pouso ou a qualquer outra instalação, mesmo que não oficial, em que são realizados pousos e decolagens de aeronave, por outra medida cautelar a fim de que possa voltar a exercer seu labor como piloto agrícola.
+O pedido liminar foi indeferido às fls. 292/294, as informações devidamente prestadas às fls. 302/305 e 306/310.
+O Ministério Público Federal manifestou-se pelo não conhecimento do mandamus, em razão de tratar-se de reiteração de pedidos (fls. 318/319).
+A defesa interpôs agravo regimental contra o indeferimento do pleito liminar.
+É o relatório.
+Decido.
+Com efeito, verifica -se que a presente irresignação traz pedidos idênticos aos formulad os no HC 572.338/PR, que já teve o mérito julgado pela egrégia Quinta Turma deste Superior Tribunal, inclusive ambos atacam o mesmo acórdão proferido pelo TJ/PR. Eis a ementa do julgado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DESCAMINHO E ORGANIZAÇÃO CRIMINOSA. MEDIDA CAUTELAR ALTERNATIVA. REVOGAÇÃO OU SUBSTITUIÇÃO. IMPOSSIBILIDADE. APLICAÇÃO DEVIDAMENTE FUNDAMENTADA. INDISPENSÁVEL E ADEQUADA. GRAVIDADE CONCRETA E CIRCUNSTÂNCIAS DA AÇÃO DELITUOSA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que não seria o caso de manutenção da prisão do paciente. No entanto, concluíram que a gravidade concreta e as circunstâncias das ações delituosas (transportar no espaço aéreo bens irregularmente importados do Paraguai e distribuí-los) não recomendam a concessão da liberdade provisória em sua totalidade, sem a aplicação de providências acautelatórias alternativas à medida extrema.
+3. De modo suficientemente fundamentado e à luz do princípio da razoabilidade, as instâncias ordinárias entenderam que a total soltura do paciente representa um efetivo risco à ordem pública, pelo fato dele ter se aproveitado da profissão de piloto aéreo para praticar o crime de descaminho, em conjunto com quatro grandes grupos, que atuam de forma intensa no comércio de produtos irregulares, transportando-os por meio de aeronaves, motivo pelo qual bem aplicada a medida cautelar de proibição de acesso a aeroportos, aeroclubes, pistas de pouso ou a qualquer outra instalação, mesmo que não oficial, em que são realizados pousos e decolagens de aeronaves, porquanto indispensável e adequada na hipótese em debate, a par das circunstâncias do cometimento dos delitos. Nada há, pois, que ser reformado por este Superior Tribunal de Justiça - STJ.
+4. Habeas corpus não conhecido".
+Dessa forma, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. NULIDADE. ALEGAÇÃO DE ILICITUDE DA PROVA. PRISÃO REALIZADA POR GUARDAS MUNICIPAIS. SITUAÇÃO DE FLAGRÂNCIA. OCORRÊNCIA. FUNDADA SUSPEITA. USO DE DROGA NO MOMENTO DA ABORDAGEM. BUSCA NA RESIDÊNCIA DO ACUSADO FRANQUEADA. ILEGALIDADE. NÃO OCORRÊNCIA. MINORANTE DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE OUTRO HC. INADMISSIBILIDADE. AGRAVO IMPROVIDO.
+1. Considera-se lícita a revista pessoal executada por guardas municipais, com a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. § 2º do art. 240 do CPP, bem como a prova
+derivada da busca pessoal.
+2. Configurada a situação de flagrância, com a demonstração de fundada suspeita, não se verifica ilegalidade na realização de abordagem pessoal por guardas municipais que estavam em patrulhamento com cães farejadores, encontrando drogas com o paciente e nas proximidades do local do flagrante, pois o acusado informou que estava usando drogas no momento em que foi abordado.
+3. A questão referente à aplicação da minorante, a matéria já foi analisada no HC 563.700/SP, tratando-se de mera reiteração de pedido.
+4. Agravo regimental improvido
+(AgRg no HC 597.923/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 26/10/2020).
+Por conseguinte, resta prejudicada a análise do agravo regimental (fls. 312/317) interposto contra decisão que indeferiu o pleito liminar.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
