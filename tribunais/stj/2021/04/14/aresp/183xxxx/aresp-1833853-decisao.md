@@ -1,0 +1,23 @@
+DECISÃO
+EDMILSON LOPES DA SILVA agrava de decisão que inadmitiu o recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios (Apelação n. 0007645-76.2015.8.07.0003).
+Consta nos autos que o réu foi condenado a 4 anos e 6 meses de reclusão, em regime semiaberto, mais 139 dias-multa, pela prática dos crimes previstos nos arts. 171, caput, § 2º, I, e 304 c/c o 297, todos do Código Penal.
+A defesa apontou violação do art. 59 do Código Penal quanto ao delito de estelionato, dado o reconhecimento dos maus antecedentes após o período depurador de 5 anos e o aumento superior a 1/6 pela vetorial desfavorável.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 1.053-1.055, no qual a parte impugna os óbices das Súmulas n. 7 e 83 do STJ.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 1.083-1.086).
+Decido.
+O recorrente busca o afastamento dos maus antecedentes pelo decurso do período depurador, contudo, atese suscitada não foi analisada no Juízo a quo, o que caracteriza ausência de prequestionamento e faz incidir a Súmula n. 282 do STF.
+Também almeja que seja aplicada a fração de 1/6 da pena mínima cominada no estelionato para a circunstância judicial desfavorável. A esse respeito, a Cortede origem aduziu (fl. 998):
+Embora não exista uma previsão legal de qual percentual deve ser aplicado em cada uma das etapas da dosimetria, este Tribunal entende que na primeira fase a pena deve ser aumentada na razão de 1/8 para cada circunstância judicial desfavorável, calculada sobre a diferença entre as penas máxima e mínima previstas em abstrato, tendo em vista a existência de 8 circunstanciais judiciais.
+A jurisprudência destaCorte Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Saliento que o STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa de circunstâncias judiciais. Portanto, a individualização da pena está sujeita à revisão no habeas corpus nas hipóteses de flagrante ilegalidade ou de teratologia, quando não observados os parâmetros legais estabelecidos no CP ou o princípio da proporcionalidade. Nesse sentido:
+ ..
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta à certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+ ..
+(AgRg no HC n. 508.728/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/9/2019)
+É esse também o entendimento do Supremo Tribunal Federal:
+ ..
+A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias.(HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015)
+Não verifico flagrante ilegalidade na espécie, pelo aumento da pena-base em 6 meses, ante a valoração negativa de uma circunstância judicial.Com efeito, o quantum de exasperação correspondeu a um oitavo da diferença entre a pena máxima e a mínima abstratamente cominada ao delito. Esse critério, inclusive, é considerado idôneo por esta Corte Superior.
+Ilustrativamente: "a exasperação relacionada a cada circunstância judicial poderá, entre outros critérios, ser calculada com base no termo médio entre o mínimo e o máximo da pena cominada em abstrato ao crime, dividido pelo número de circunstâncias judiciais do art. 59 do CP" (AgRg no AREsp n.785.834/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 10/8/2017).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intime-se.
