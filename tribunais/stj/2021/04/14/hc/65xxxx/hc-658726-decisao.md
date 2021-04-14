@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JOSE LUIZ CORREA BONFIM, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, que denegou o HC n. 1.0000.20.601886-3/000, conforme esta ementa (fl. 76):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO DOMICILIAR - AUSENCIA DE COMPROVAÇÃO DE QUE O PACIENTE SE ACHE EXTREMAMENTE DEBILITADO POR MOTIVO DE DOENÇA GRAVE, TAMPOUCO DE QUE NÃO POSSA REALIZAR TRATAMENTO NA UNIDADE PRISIONAL - ORDEM DENEGADA.
+Alega-se que o paciente é portador de hepatite C e se encontra extremamente debilitado, fazendo jus à substituição da prisão preventiva decretada no Processo n. 0032682-41.2020.8.13.0625, da 1ª Vara Criminal e da Infância e Juventude da comarca de São João del-Rei/MG,pela prisão domiciliar, até porque conduz a um perigo de contaminação aos demais detentos.
+Requer-se a imediata expedição de alvará de soltura em nome do paciente e a aplicação da cautela menos gravosa, nos termos do art. 318, II, do Código de Processo Penal.
+É o relatório.
+Inexiste coação ilegal a ser reparada por meio da via eleita no que diz respeito à negativa de prisão domiciliar.
+Com efeito, a fundamentação adotada pelainstânciade origem encontra respaldo na jurisprudência desta Casa. Afinal, é inadmissível a prisão domiciliar sem que tenham sido demonstrados os pressupostos necessários e excepcionais para tanto. Eo habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+Ora,a cognição da pretensão deduzida no writ, necessariamente, demanda a análise acerca do real estado de saúde do paciente e da impossibilidade de ter o tratamento necessário no estabelecimento em que se encontra custodiado; e,sem os documentos necessários, não é possível fazer tal aferição. Impõe-sea demonstração inequívoca das alegações, o que, na espécie, não ocorreu.
+Veja-se o que disse o Tribunal local (fl. 79):
+ ..  não é possível extrair dos autos comprovação idônea de que José, de fato, se acha debilitado em virtude da hepatite C, constando do feito apenas relatório médico informando que o réu se acha em tratamento de mencionada enfermidade (fls. 18/19 do doc.único), à ausência de notícia de que se encontre em situação grave a ensejar a benesse, tampouco da impossibilidade de realização de tratamento na unidade prisional em que se acha acautelado.
+Cediço que o habeas corpus, de instrução e cognição sumárias, por não admitir dilação probatória, deve vir instruído, desde o momento da impetração, com documentos suficientes a demonstrar as alegações constantes da inicial, ônus do qual os impetrantes não se desincumbiram.
+Cumpre registrar também que a Recomendação n. 62/2020 não é norma de caráter cogente e não criou espécie de direito subjetivo à prisão domiciliar, de observância obrigatória. É uma orientação aos juízes e aos Tribunais e deve ser interpretada com razoabilidade, ponderados o cenário de surto da doença e as condições de cada ambiente carcerário, conforme indica o próprio Conselho Nacional de Justiça (HC n. 576.333/RS, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+Não estando evidenciados os pressupostos do art. 318, II, do Código de Processo Penal e as hipóteses previstas na Recomendação n. 62 do CNJ, é inviável a concessão da prisão domiciliar.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO DOMICILIAR. ART. 318, II, DO CPP.EXTREMA DEBILIDADE NÃOCOMPROVADA.INCOMPATIBILIDADE ENTREO TRATAMENTO MÉDICO E O ENCARCERAMENTO.FALTA DE DEMONSTRAÇÃO. AUSÊNCIA DOS PRESSUPOSTOS DA RECOMENDAÇÃO N. 62/2020 DO CNJ. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
