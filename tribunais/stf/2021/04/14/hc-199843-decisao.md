@@ -1,0 +1,25 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Roubo. Condenação transitada em julgado. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DOIS DELITOS DE ROUBO EM CONCURSO FORMAL IMPRÓPRIO. DOSIMETRIA DA PENA. PRETENDIDO RECONHECIMENTO DE CRIME ÚNICO OU DE CONCURSO FORMAL PERFEITO. INVIABILIDADE. DESÍGNIOS AUTÔNOMOS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO HABEAS CORPUS. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+    – A dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+    – Nucci leciona que ‘no concurso formal imperfeito: as penas devem ser aplicadas cumulativamente se a conduta única é dolosa e os delitos concorrentes resultam de desígnios autônomos. A intenção do legislador, nessa hipótese, é retirar o benefício daquele que, tendo por fim deliberado e direto atingir dois ou mais bens jurídicos, cometer os crimes com uma só ação ou omissão’ (in Código Penal Comentado, 6ª ed., São Paulo, RT, p. 398).
+    – Na hipótese dos autos, o paciente, mediante uma só conduta, terminou por atingir o patrimônio de duas vítimas distintas, o que denota a ocorrência de concurso formal. Porém, para que seja reconhecido o cúmulo formal impróprio, mister se faz a comprovação dos desígnios distintos, ou seja, que o agente tivesse consciência de que estava subtraindo bens de ofendidos diversos, exatamente como ocorrido na espécie e confirmado pelo próprio impetrante ao relatar que o acusado foi condenado por ser autor de um suposto roubo, tendo subtraído, para si, mediante violência e grave ameaça, bens pertencentes às vítimas Leonardo e Luana (que estavam sentados em um banco), subtraindo seus celulares (e-STJ, fls. 5 e 7), e expressamente reconhecido pela Corte paulista. Desse modo, houve a ocorrência de desígnios autônomos aptos a justificar a caracterização do concurso formal imperfeito.
+    – Entendimento em sentido contrário, como pretendido, demandaria a imersão vertical na moldura fática e probatória delineada nos autos, procedimento incompatível com a via mandamental eleita. Precedentes.
+    – Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, à pena de 8 anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 157, caput, na forma do art. 70, parte final, do Código Penal. A sentença condenatória transitou em julgado em 30.03.2015.
+    3. A defesa, então, impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo (TJ/SP). Denegada a ordem, sobreveio a impetração de HC (651.158/SP) no STJ. O Relator, Ministro Reynaldo Soares da Fonseca, não conheceu do writ. Contra a decisão, foi interposto agravo regimental, desprovido.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “houve crime único, e não concurso formal de delitos”. Em tese subsidiária, aponta a “necessidade de reconhecimento de concurso formal próprio”.
+    5. Decido.
+    6. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+    7. Não é caso de concessão da ordem de ofício.
+    8. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    9. As decisões proferidas pelas instâncias de origem estão alinhadas com a jurisprudência do STF no sentido de “configurar-se concurso formal a ação única que tenha como resultado a lesão/ ao patrimônio de vítimas diversas, e não crime único” (HC 91.615, Rel. Min. Cármen Lúcia).
+    10. No caso, o acolhimento da pretensão defensiva demandaria o revolvimento do conjunto fático-probatório, providência que não é possível em habeas corpus. Transcrevo, nesse sentido, as seguintes passagens da sentença condenatória:
+    “[...] Há concurso formal. Com uma ação, o rapaz roubou duas pessoas. Os desígnios eram autônomos, porém, já que a abordagem deu-se exatamente em face de duas pessoas. Sua vontade era vitimar dois cidadãos.
+    [...]”
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 14 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+           Relator
