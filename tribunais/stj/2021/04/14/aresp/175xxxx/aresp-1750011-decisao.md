@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por OI S.A., em face de acórdão assim ementado (fl. 364):
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INTERNO.
+AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE INDEFERIU EFEITO SUSPENSIVO A TIVO AO RECURSO.
+PRESSUPOSTOS LEGAIS QUE AUTORIZARIAM E JUSTIFICARIAM A LIMINAR PLEITEADA. NÃO EVIDENCIADAS, TANTO A PLAUSIBILIDADE JURÍDICA QUANTO A PERTINÊNCIA FÁTICA QUE PUDESSEM LEGITIMAMENTE AUTORIZAR A CONCESSÃO DE TUTELA JURISDICIONAL À PRETENSÃO LIMINARMENTE DEDUZIDA PELA AGRAVANTE.
+1. Recurso de agravo interno conhecido, e, no mérito, não provido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 459/464).
+Nas razões do especial, a ora agravante alega, entre outros argumentos, ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre a arguição de que "o incidente de impugnação transitou em julgado apenas em 28.11.2016, portanto, após o deferimento da Recuperação Judicial da Oi (21.6.2016) não estando, pois, o caso dos autos, abarcados pela exceção prevista pelo Juízo Universal para levantamento de valores" (fl. 492), tendo em vista que"somente poderão ser levantados caso haja "trânsito em julgado dos embargos à execução" ou "preclusão da decisão da impugnação", antes de 21.6.2016, o que, como já demonstrado, não retrata a hipótese do autos" (fl. 498).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido, ao julgar a questão referente à liberação dos valores, entendeu queo ofício n. 245/2018/OF (seq. 298.2)não condicionou a "expedição de alvará de levantamento à preclusão ou o trânsito em julgado da sentença de embargos à execução ou da decisão final de impugnação ao cumprimento de sentença fosse anterior à data de 21 de junho do ano de 2016, mas, tão somente, que os valores tenham sido espontaneamente depositados até a referida data" (fl. 366); afirmando, tão somente, que "a Agravante realizou o depósito da quantia de R$ 8.287,37 (oito mil, duzentos e oitenta e sete reais e trinta e sete centavos) em 4 de agosto do ano de 2014" (fl. 366).
+A conclusão acima transcrita não evidencia o cumprimento dos requisitos exigidos pelo Juízo da Recuperação, a partir do julgamento da 8ª Câmara Cível do Tribunal de Justiça do Rio de Janeiro, de que no dia 21.6.2016, o valor do crédito já estivesse depositado em juízo; e que preclusa qualquer possibilidade de discussão acerca do valor da dívida, faltando apenas o ato de mero expediente de autorizar a liberação em favor do credor.
+A omissão não foi suprida, a despeito da oposição de embargos de declaração sendo necessário o retorno dos autos à origem para dirimir a relevante questão.
+Em face do exposto, prejudicada a análise dos demais pontos, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão desde a apelação.
+Intimem-se.
