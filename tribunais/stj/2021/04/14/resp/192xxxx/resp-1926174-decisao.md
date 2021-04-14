@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 144):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL, SAT/RAT E DAS CONTRIBUIÇÕES A TERCEIROS.
+1. O mandado de segurança não é a via processual adequada para obter o reconhecimento de eventual direito a restituição de valores.
+2. À luz do disposto no artigo 240 da Constituição Federal e no inciso II do artigo 22 da Lei nº 8.212/91, a base de cálculo das contribuições ao SAT/RAT e das contribuições destinadas a terceiros é a folha de salários, correspondente à remuneração devida pelo empregador ao empregado.
+3. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições destinadas a terceiros e ao SAT/RAT, na medida em que a base de incidência das mesmas também é a folha de salários, da qual não fazem parte os valores pagos aos empregados a título de verba indenizatória.
+Embargos de declaração rejeitados (fl. 191).
+A parte recorrente aponta violação do art. 28, § 9º, da Lei 8.212/1991. Sustenta, em síntese, que "as contribuições a terceiros possuem fundamento constitucional e legal de validade, natureza, finalidade e destinação diversos daqueles concernentes às contribuições previdenciárias, sendo inviável a extensão àquelas do tratamento dispensado às contribuições previdenciárias no tocante às verbas tidas por indenizatórias pagas pelo empregador aos seus empregados" (fl. 214).
+Com contrarrazões (fls. 227/231).
+Inadmissão do recurso às fls. 234/236.
+Parecer do MPFàs fls. 289/291.
+Decisão de conversão do agravo para recurso especial (fl. 293).
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Com efeito, verifica-se que o acórdão recorrido encontra-se em consonância com o entendimento jurisprudencial desta Corte, no sentido de que as contribuições destinadas a terceiros (sistema "S" e outros), em razão da identidade de base de cálculo com as contribuições previdenciárias (vide art. 3º, §2º, da Lei nº 11.457/2007 - "remuneração paga, devida ou creditada a segurados do Regime Geral de Previdência Social"), devem seguir a mesma sistemática que estas, não incidindo sobre as rubricas que já foram consideradas por este Superior Tribunal de Justiça como de caráter indenizatório.
+Nesse sentido:
+TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VÁRIAS VERBAS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - Na origem, trata-se de ação ordinária em que se pretende declarar a inexistência de relação jurídico-tributária no que concerne ao recolhimento das contribuições previdenciárias, das contribuições ao RAT/SAT, das contribuições ao Sistema S, das contribuições ao INCRA e das contribuições ao salário-educação incidentes sobre a folha de salário, referente (i) às férias usufruídas e indenizadas, ao terço constitucional de férias e ao abono de férias; (ii) às horas-extras, aos adicionais noturnos, de insalubridade e periculosidade, quando não habituais; (iii) ao aviso prévio gozado e indenizado e ao valor da multa prevista no art. 477, § 8º, da CLT; (iv) à remuneração paga durante os primeiros 15 dias do auxílio-doença/acidente; (v) ao auxílio-maternidade, ao auxílio-creche e ao salário-família; (vi) às diárias para viagens, ao auxílio transporte, aos valores pagos pelo empregado para vestuário e equipamentos e à ajuda de custo em razão de mudança de sede; (vii) ao auxílio-educação, ao convênio de saúde e ao seguro de vida em grupo; e (viii) às folgas não gozadas, ao prêmio-pecúnia por dispensa incentivada e à licença-prêmio não gozada; ordenando, por conseguinte, que a Secretaria da Receita Federal do Brasil, em definitivo, abstenha-se de exigir da autora o recolhimento desse tributo.
+ ..
+X - Por outro lado, as contribuições destinadas a terceiros (sistema "S" - SESC, SESI, SENAI, SENAT e outros), em razão daidentidade de base de cálculo com as contribuições previdenciárias (art. 3º, § 2º, da Lei n. 11.457/2007 - "remuneração paga, devida ou creditada a segurados do Regime Geral de Previdência Social"), "devem seguir a mesma sistemática que estas,não incidindo sobre as rubricas que já foram consideradas pelo Superior Tribunal de Justiça como de caráter indenizatório", tais como: auxílio-doença, aviso prévio indenizado, terçode férias e vale transporte. Nesse sentido: AgInt no REsp n.1.750.945/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/2/2019, DJe 12/2/2019.
+ ..
+XIX - Agravo interno parcialmente provido nos termos da fundamentação (AgInt no REsp 1.602.619/SE, Rel. Min. FRANCISO FALCÃO, SEGUNDA TURMA, Dje 26/03/2019,grifo nosso).
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. NÃO INCIDÊNCIA SOBRE AUXÍLIO-DOENÇA, TERÇO CONSTITUCIONAL DE FÉRIAS, AVISO PRÉVIO INDENIZADO E VALE TRANSPORTE. INCIDÊNCIA SOBRE ABONO PECUNIÁRIO DE FÉRIAS.
+1. As contribuições destinadas a terceiros (sistema "S"), emrazão da identidade de base de cálculo com as contribuições previdenciárias (vide art. 3º, §2º, da Lei n. 11.457/2007 - "remuneraçãopaga, devida ou creditada a segurados do Regime Geral de Previdência Social"), devem seguir a mesma sistemáticaque estas, não incidindo sobre as rubricas que já foram consideradas por este Superior Tribunal de Justiça como de caráter indenizatório, vale dizer: auxílio-doença, aviso prévio indenizado, terço de férias e vale transporte.
+2.Agravo interno não provido (AgInt no REsp n. 1.750.945/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/2/2019,grifo nosso).
+Incide, ao caso, o disposto na Súmula 83/STJ.
+Ante o exposto, nego provimentoao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL.CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SAT/RAT. MESMA SISTEMÁTICA DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. NÃO INCIDÊNCIA SOBRE VERBAS DE CARÁTER INDENIZATÓRIO. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO PROVIDO.
