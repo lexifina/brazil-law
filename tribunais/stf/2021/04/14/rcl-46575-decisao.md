@@ -1,0 +1,32 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Rodrigo de Jesus Quintas contra decisão do Juiz de Direito da Vara de Execução Penal do Interior da Comarca de Campo Grande/MS, que, nos autos da Execução n. 0004658- 48.2015.8.12.0029 , teria indevidamente aplicado a Súmula Vinculante n. 26 do Supremo Tribunal Federal.
+    Consta dos autos que o reclamante cumpre pena de 18 (dezoito) anos e 8 (oito) meses de reclusão pela prática do delito disposto no art. 121, § 2º, I, III, IV e no art. 125 do Código Penal. (eDOC 3).
+    Argumenta a defesa que o reclamante que o único argumento apresentado para a realização do exame criminológico foi o de que o exame “...revelará se o detento permanece com a personalidade de um criminoso, se apresenta periculosidade para a sociedade, eventual arrependimento, bem como se há a possibilidade de voltar a delinquir”. (eDOC 1, p. 2).
+    Nesse sentido, acrescenta que o Juízo reclamado utiliza deste mesmo fundamento para exigir a realização do exame em outros casos.
+    Requer, portanto, que o Juízo da Execução Penal analise a progressão de regime do reclamante, abstendo-se de exigir a realização prévia do exame criminológico. (eDOC 1).
+    Em despacho, solicitei informações à autoridade reclamada (eDOC 8), as quais foram prestadas (eDOC 11, 12, 17 e ss.).
+    Antes da apresentação das informações e da análise do feito por esta Corte, o reclamante apresentou petição reiterando o pedido. (eDOC 10).
+    Por entender que o processo já possui condições de julgamento, dispenso a vista à Procuradoria-Geral da República, nos termos do artigo 52, parágrafo único, do RISTF.
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    A Súmula Vinculante 26 dispõe que: para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+    No presente caso, o Juízo de Vara de Execução Penal dispôs o seguinte:
+    “O reclamante iniciou o cumprimento da pena em 24/11/2014, quando foi preso em flagrante delito por ceifar a vida de sua companheira, grávida de 6 meses.
+    Ao término da instrução processual, o paciente foi condenado a pena de 18 anos e 8 meses de reclusão em regime inicial fechado e expedida guia de recolhimento para início do cumprimento da pena.
+    A pena estava em seu regular cumprimento, quando o reclamante preencheu o requisito objetivo em 14/05/2020. Ao analisar as circunstâncias que o delito foi praticado, mormente a frieza da conduta do reclamante, que desferiu golpe de faca contra a vítima e após a atropelou fazendo com que abortasse a criança que esperava, demonstrando, em tese, frieza e total menosprezo com a vida humana, entendi imprescindível a elaboração de exame criminológico.
+    Realizada a perícia médica, o "expert concluiu pela inaptidão do paciente ao regime semiaberto, manifestando-se o representante ministerial contrário a concessão de progressão de regime.
+    Os autos vieram conclusos para análise da progressão de regime e analisando o laudo pericial, no qual o " " expert informou que o reclamante "é acometido pelo transtorno de personalidade paranoide, que em seu caso é caracterizado pela desconfiança excessiva, baixa capacidade de tolerância à frustração, impulsividade e agressividade, que podem desencadear comportamentos violentos e desproporcionais aos estímulos que lhe são impingidos, sendo que tais características foram confirmadas pelos resultados dos testes psicométricos, que evidenciam que seu controle cognitivo é extremamente inferior, ao passo que seu autocontrole/enfrentamento e seu repertório geral de habilidades sociais estão abaixo da média" (sic), indeferi o pedido de progressão de regime.
+    O perito, psicólogo devidamente cadastrado no Tribunal de Justiça do Estado de Mato Grosso do Sul, descreveu ainda que o paciente "apresenta um comportamento imaginativo e tende a interpretar as situações como se as pessoas conspirassem contra ele, o que pode desencadear atitudes reativas impulsivas desproporcionais aos estímulos que lhe são impingidos (...)" ( sic). ” (eDOC 12)
+    Na hipótese, verifica-se que o Juízo reclamado, ao optar pela realização do exame criminológico, fundamentou sua decisão de forma clara e detalhada.
+    Verifica-se, ainda, que, em desconformidade ao alegado pelo reclamante, foi realizada uma análise completa do caso concreto.
+    Ademais, ressalta-se que, no caso, o exame criminológico já foi realizado e o profissionais não recomendaram o retorno do executado ao convívio social imediato. Solicitaram, ainda, o acompanhamento psicológico e a realização de novo exame em 1 (um) ano. É o que se verifica no seguinte trecho:
+    “Destaco que determinei a disponibilização de tratamento psicológico intramuros ao paciente e realização de novo exame criminológico no prazo de 1 (um) ano para a análise do requisito subjetivo para a concessão de benefícios.” (eDOC 12).
+    Feitas essas considerações, observo que o Juízo reclamado não descumpriu o disposto na Súmula Vinculante 26, pois entendeu ser necessária a emissão de parecer técnico sobre a evolução do apenado durante a execução. E, com base no parecer técnico, indeferiu, por ora, a progressão de regime.
+    A decisão questionada está em consonância com a jurisprudência firmada pelo STF acerca do tema, ou seja, apesar do silêncio da Lei 10.792/03 a respeito do exame criminológico, o Juiz, sempre que entender necessário, poderá determiná-lo, desde que fundamentadamente, e as conclusões dele advindas poderão subsidiar a decisão de deferimento ou indeferimento da progressão de regime pleiteada.
+    Nesse sentido, destaco diversos precedentes: RCL 27.894/SP, Rel. Min. Luiz Fux, DJe 25.8.2017; RCL 27.611/SP, Rel. Min. Marco Aurélio, DJe 25.8.2017; RCL 27.100/SP, Rel. Min. Celso de Mello, DJe 17.8.2017; RCL 27.615/SP, Rel. Min. Dias Toffoli, DJe 7.8.2017.
+    Ante o exposto, julgo improcedente à presente reclamação (RISTF, art. 21, § 1º), prejudicada a medida liminar pleiteada.
+    Intime-se.
+    Brasília, 14 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
