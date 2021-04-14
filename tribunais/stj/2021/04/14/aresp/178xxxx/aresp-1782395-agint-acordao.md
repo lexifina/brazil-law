@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS. ARTS. 355, I, DO CÓDIGO DE PROCESSO CIVIL, 166, 172, 173, 183, 475, 884 E 927 DO CÓDIGO CIVIL. CERCEAMENTO DE DEFESA. TEORIA DO ADIMPLEMENTO SUBSTANCIAL DO CONTRATO. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 284 DO STF.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do STF.
+2. A deficiência na fundamentação do recurso especial no tocante à alegada violação do art. 1.022 do Código de Processo Civil, atrai a incidência da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Agropecuária Grande Norte Ltda. interpõe agravo interno contra a decisão, de fls. 732/734, na qual neguei provimento ao agravo em recurso especial.
+Sustenta a agravante, em síntese, que não incidem, ao presente caso, os óbices das Súmulas n. 282, 284 e 356 do STF, uma vez que as questões suscitadas no recurso especial foram prequestionadas pela Corte local.
+Postula "seja conhecido e provido o presente recurso de agravo interno, para efeito de que se conheça do agravo em recurso especial aviado e, ao final, seja o mesmo provido no diapasão de reconhecer o adimplemento substancial do contrato por parte da ora peticionária e do enriquecimento sem causa do "ex adverso"" (fl. 738).
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária apresentou impugnação postulando pela manutenção da decisão, bem como pela aplicação da multa prevista no § 4º do art. 1.021 do Código de Processo Civil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS. ARTS. 355, I, DO CÓDIGO DE PROCESSO CIVIL, 166, 172, 173, 183, 475, 884 E 927 DO CÓDIGO CIVIL. CERCEAMENTO DE DEFESA. TEORIA DO ADIMPLEMENTO SUBSTANCIAL DO CONTRATO. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 284 DO STF.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do STF.
+2. A deficiência na fundamentação do recurso especial no tocante à alegada violação do art. 1.022 do Código de Processo Civil, atrai a incidência da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não merece prosperar.
+Transcrevo os fundamentos da decisão agravada (fls. 732/734):
+Trata-se de agravo em recurso especial (conexo à PET n. 13.844/MT) manifestado por Agropecuária Grande Norte Ltda. contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 355, I, e 1.022 do Código de Processo Civil; 5º, XXX, LIV, e LV, da Constituição Federal; 166, 172, 173, 183, 475, 884 e 927 do Código Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 590/591):
+RECURSO DE APELAÇÃO CIVIL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS - VENDA DE IMÓVEL PERTENCENTE À SOCIEDADE EMPRESÁRIA SEM A ANUÊNCIADE UM DOS SÓCIOS-ADMINISTRADORES - PREVISÃO EXPRESSA NO CONTRATO SOCIAL DE INDISPENSÁVEL PARTICIPAÇÃO CONJUNTA DOS DIRETORES NOS ATOS RELATIVOS À ALIENAÇÃO DE IMÓVEIS DA SOCIEDADE - DESTITUIÇÃO DO SÓCIO DO CARGO DE ADMINISTRADOR - DECLARAÇÃO DE NULIDADE DE AMBOS OS ATOS - CONDENAÇÃO DOS RÉUS AO PAGAMENTO DE INDENIZAÇÃO POR PERDAS E DANOS A SEREM APURADOS EM LIQUIDAÇÃO DE SENTENÇA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1. Havendo no contrato social da sociedade empresária previsão expressa no sentido de ser indispensável a participação conjunta dos sócios diretores nos atos que impliquem em alienação de imóveis de titularidade da sociedade, deve ser declarada nula a venda de imóvel realizada sem a participação de um dos sócios administradores.
+2. As modificações do contrato social que tenham por objeto as matérias indicadas no art. 997 do Código Civil dependem, nos termos do art. 999 do mesmo diploma legal, do consentimento de todos os sócios, sendo, portanto, nulo o ato jurídico que implique em alteração do contrato social e destituição de um dos sócios do cargo de administrador, sem a participação de todos os sócios ou prévia notificação do administrador destituído.
+3. Deve ser mantida a condenação dos réus ao pagamento de indenização por perdas e danos decorrentes da prática dos atos anulados.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fls. 617/618):
+EMBARGOS DE DECLARAÇÃO  RECURSO DE APELAÇÃO CIVIL  AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS  VENDA DE IMÓVEL PERTENCENTE À SOCIEDADE EMPRESÁRIA SEM A ANUÊNCIA DE UM DOS SÓCIOS-ADMINISTRADORES  PREVISÃO EXPRESSA NO CONTRATO SOCIAL DE INDISPENSÁVEL PARTICIPAÇÃO CONJUNTA DOS DIRETORES NOS ATOS RELATIVOS À ALIENAÇÃO DE IMÓVEIS DA SOCIEDADE  DESTITUIÇÃO DO SÓCIO DO CARGO DE ADMINISTRADOR  DECLARAÇÃO DE NULIDADE DE AMBOS OS ATOS  CONDENAÇÃO DOS RÉUS AO PAGAMENTO DE INDENIZAÇÃO POR PERDAS E DANOS A SEREM APURADOS EM LIQUIDAÇÃO DE SENTENÇA  SENTENÇA MANTIDA  APELO DESPROVIDO  DESNECESSIDADE DE PRONUNCIAMENTO SOBRE TODAS AS TESES  EXISTÊNCIA DE OMISSÃO NO VOTO CONDUTOR DO ACÓRDÃO APENAS QUANTO A UMA DAS PRETENSÕES RECURSAIS  VÍCIO SANADO COM REJEIÇÃO DO PEDIDO  IMPOSSIBILIDADE DE COMPENSAÇÃO DE CONDENAÇÃO EM PERDAS E DANOS COM DÉBITO ESTRANHO ÀQUELE TRATADO NOS AUTOS  EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. O julgador não precisa rebater todos os argumentos trazidos pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação satisfatória para dirimir a controvérsia.
+2. Omitindo -se o voto condutor do acórdão quanto a uma das pretensões recursais, devem ser parcialmente acolhidos os embargos de declaração, sem efeitos modificativos, tão somente para que seja sanada a omissão, afastando-se todos os argumentos recursais e prevalecendo, pois, o resultado do julgamento, no sentido de desprover o recurso de apelação.
+3. Eventual crédito decorrente do pagamento de dívida estranha àquela tratada nos autos deve ser perseguido por meio de ação própria, e não compensado com a condenação imposta pela sentença apelada.
+Sustenta a agravante que o julgamento antecipado da lide cerceou o seu direito de defesa.
+Afirma que "(..) efetuou o pagamento substancial do preço previsto no contrato de compra e venda declarado nulo pelo v. Acórdão vergastado, pacto este que foi completamente ratificado pelas demais rés na Contestação (..)" (fl. 640).
+Assevera que a jurisprudência dos Tribunais de justiça "reconhece a impossibilidade de decreto de nulidade de contrato se houve o adimplemento substancial desse, como no caso trazido à baila" (fl. 642).
+Argumenta que é terceiro de boa-fé, e que eventual problema entre os sócios da vendedora não pode atingir a pessoa jurídica adquirente.
+Assim posta a questão, passo a decidir.
+Inicialmente, é necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Incidem, por outro lado, os enunciados n. 282 e 356 da Súmula do STF quanto aos arts. 355, I, do Código de Processo Civil, 166, 172, 173, 183, 475, 884 e 927 do Código Civil, e quanto às questões do cerceamento de defesa, da Teoria do Adimplemento Substancial do C ontrato, e acerca do tema do enriquecimento sem causa, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Além disso, não conheço do recurso no tocante à alegação de violação do art. 1.022 do CPC/2015, uma vez que a parte agravante não opôs embargos de declaração a fim de suprir eventual omissão pela Corte de origem, o que faz incidir o enunciado n. 284 da Súmula do STF.
+Registro, por fim, que o dissídio jurisprudencial não foi demonstrado nos moldes legais e regimentais; para tanto, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, o que não ocorreu na espécie.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Fica prejudicada a Pet 13.844/MT, devendo ser trasladada cópia desta decisão para aqueles autos.
+Intimem-se.
+Observo que o prequestionamento, mesmo implícito, não ocorreu com relação aos arts. 355, I, do Código de Processo Civil, 166, 172, 173, 183, 475, 884 e 927 do Código Civil, e quanto às questões do cerceamento de defesa, da Teoria do Adimplemento Substancial do Contrato, e acerca do tema do enriquecimento sem causa, o que atraiu os óbices das Súmulas n. 282 e 356 do STF.
+Além disso, verifico que, de fato, incide o óbice do enunciado n. 284 da Súmula do STF no tocante à suposta violação do art. 1.022 do Código de Processo Civil em razão da fundamentação deficiente nas razões do recurso especial.
+Destaco, por fim, que a interposição do presente recurso, por si só, não pode ser considerada como protelatória, de modo que é incabível a aplicação da penalidade prevista no § 4º do art. 1.021 do CPC/2015, postulada pelo agravado, à parte que exerce regularmente faculdade processual prevista em lei.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
