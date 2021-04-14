@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgecontra acórdão do Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fls. 233-234):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE COMPLEMENTAÇÃO DO SEGURO OBRIGATÓRIO (DPVAT). SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DO AUTOR. PRETENSÃO DE OBTENÇÃO DO VALOR TOTAL DA INDENIZAÇÃO SECURITÁRIA. ALEGAÇÃO DE INVALIDEZ INTEGRAL DO SEGMENTO CORPORAL AFETADO. INACOLHIMENTO. APLICABILIDADE DA TABELA DO GRAU DE INVALIDEZ. NECESSIDADE DE SE VERIFICAR A EXTENSÃO DA INCAPACIDADE DA VÍTIMA. ENTENDIMENTO PACIFICADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA COM A EDIÇÃO DA SÚMULA 474. CONSTATAÇÃO PELA PERÍCIA MÉDICA DE INCAPACIDADE LABORATIVA PERMANENTE PARCIAL INCOMPLETA DE GRAU MÉDIO (50%). VALOR ARBITRADO CORRETAMENTE PELO JUÍZO A QUO. MONTANTE PAGO NA FASE EXTRAJUDICIAL QUE EQUIVALE AO IMPORTE EFETIVAMENTE DEVIDO AO SEGURADO. AUTOR QUE NÃO COMPROVOU A EXISTÊNCIA DE GRAU DE INVALIDEZ DIVERSO DO APURADO NO LAUDO PERICIAL. MANUTENÇÃO DA SENTENÇA IMPERATIVA. APELO DA RÉ. PLEITO DE REFORMA DA DECISÃO PARA AFASTAR A OBRIGAÇÃO DE PAGAMENTO DO REAJUSTE MONETÁRIO INCIDENTE SOBRE A INDENIZAÇÃO PAGA EXTRAJUDICIALMENTE. ALEGAÇÃO DA QUITAÇÃO TER OCORRIDO DENTRO DO PRAZO DE 30 (TRINTA) DIAS, PREVISTO NO ART. 5º, § 1º, DA LEI N. 6.194/1974. ARGUMENTO SUBSIDIÁRIO DE MODIFICAÇÃO DO TERMO INICIAL DO CONSECTÁRIO LEGAL, PARA QUE INCIDA A PARTIR DO MOMENTO DA CONSTATAÇÃO DA MORA DA SEGURADORA. IRRELEVÂNCIA. SEGURADO QUE TEM DIREITO À ATUALIZAÇÃO MONETÁRIA SOBRE O VALOR DEVIDO DESDE A DATA DO EVENTO DANOSO. INTELIGÊNCIA DAS SÚMULAS 580 DO SUPERIOR TRIBUNAL DE JUSTIÇA E 47 DO GRUPO DE CÂMARASDE DIREITO CIVIL DESTE TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. ALMEJADA MINORAÇÃO DA VERBA HONORÁRIA. ALTERAÇÃO DESCABIDA. QUANTIA ARBITRADA NA ORIGEM QUE SEGUIU OS CRITÉRIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. MITIGAÇÃO NÃO RECOMENDADA, SOB PENA DE AVILTAMENTO DO TRABALHO DO CAUSÍDICO. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, §§ 1º E 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SENTENÇA PUBLICADA APÓS A VIGÊNCIA DO ATUAL DIPLOMA PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA RECONHECIDA EM PRIMEIRO GRAU. MAJORAÇÃO DA VERBA HONORÁRIA EM FAVOR DE AMBOS OS PATRONOS QUE SE IMPÕE. EXIGIBILIDADE SUSPENSA NO QUE CONCERNE AO AUTOR, POR BENEFICIÁRIO DE JUSTIÇA GRATUITA, EX V/ DO ART. 98, § 3º, DO MESMO DIPLOMA LEGAL. RECURSOS CONHECIDOS E DESPROVIDOS.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes (e-STJ, fls. 270-277).
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação doart. 5º, §§ 1ºe 7º, da Lei n. 6.19/1974.
+Esclareceque se opõe ao acórdão que estabeleceu o pagamento de correção monetária da indenização desde a data do evento danoso, mesmo sem mora da insurgente.
+Afirma quenão incide correção monetária da indenização referente aoseguro obrigatório DPVAT, pois foi paga dentro do prazo legal de 30 (trinta) dias do pedido administrativo.Pugna pela exclusão dessa parcela da condenação(e-STJ, fls. 279-287).
+Contraminuta apresentada (e-STJ, fls. 324-320).
+Juízo positivo de admissibilidade do recurso especial(e-STJ, fls. 323-325).
+Brevemente relatado, decido.
+O acórdão entendeu pelo cabimento da incidência de correção monetária da indenização desde a data do evento danoso.
+Confira-se (e-STJ, fls. 239-240):
+A recorrente almeja a reforma da sentença recorrida para não ser condenada ao pagamento da atualização monetária incidente sobre o valor adimplido administrativamente em favor do apelado, ao argumento de ter feito a quitação dentro do prazo legal de 30 (trinta) dias posteriores à comunicação do sinistro.
+Além disso, na hipótese de ser mantida a condenação do consectário legal, postula a retificação de seu termo inicial, que deve ser protraído para o momento em que a seguradora passou a estar em mora.
+Entretanto, sobre qualquer prisma, razão não assiste à insurgente. Imperioso destacar que o tema da correção monetária nas ações de seguro obrigatório Dpvat já foi apreciado pelo Superior Tribunal de Justiça no julgamento do Recurso Representativo da Controvérsia n. 1.483.620/SC, no qual se decidiu, por unanimidade, fixar a incidência da atualização monetária desde a data do evento danoso.
+Veja-se:
+ ..
+Em razão do entendimento sedimentado na jurisprudência, o STJ editou a Súmula 580 que prevê que "a correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso".
+Nesta Corte de Justiça igualmente não pairam dúvidas a respeito do termo inicial do consectário legal, porquanto a Súmula 47 do Grupo de Câmaras de Direito Civil sedimentou que "Incide correção monetária desde o evento danoso na indenização do Seguro DPVAT, tenha ou não havido pagamento administrativo no prazo previsto no § 7º do artigo 5º da Lei n. 6.194/1974" (Texto publicado no DJe n. 3048, de 26-4-2019).
+Por conseguinte, tendo como norte que o intuito da correção monetária é recompor o prejuízo do poder aquisitivo da moeda com o decurso do tempo, sua incidência sobre o montante devido deve prevalecer inclusive quando o pagamento extrajudicial é realizado dentro do prazo de 30 (trinta) dias, tal qual previsto no art. 5º, § 1º, da Lei n. 6.194/19474, motivo pelo qual não merece acolhimento a insurgência da apelante.
+Esse entendimento destoa da jurisprudência desta Corte Superior, porquanto épacífico que a correção monetária incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO OBRIGATÓRIO.DPVAT. INDENIZAÇÃO. PAGAMENTO. VIA ADMINISTRATIVA. PRAZO LEGAL.SÚMULA Nº 580/STJ. INAPLICABILIDADE. DIREITO À CORREÇÃO MONETÁRIA.INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que a correção monetária incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal.
+3. Na hipótese, a revisão do entendimento firmado pela Corte de origem implicaria o revolvimento de matéria fático-probatória, procedimento inviável em recurso especial (Súmula nº 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp 1687494/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/03/2021, DJe 19/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DPVAT. CORREÇÃO MONETÁRIA. DESCABIMENTO. PAGAMENTO ADMINISTRATIVO REALIZADO NO PRAZO DE TRINTA DIAS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança.
+2. A correção monetária entre a data do sinistro e a data do pagamento administrativo das indenizações do seguro DPVAT incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal. Precedentes.
+3. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1879946/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020)
+RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DPVAT. INDENIZAÇÃO.ATUALIZAÇÃO MONETÁRIA. TERMO "A QUO". DATA DO EVENTO DANOSO. ART.543-C DO CPC.
+1. Polêmica em torno da forma de atualização monetária das indenizações previstas no art. 3º da Lei 6.194/74, com redação dada pela Medida Provisória n. 340/2006, convertida na Lei 11.482/07, em face da omissão legislativa acerca da incidência de correção monetária.
+2. Controvérsia em torno da existência de omissão legislativa ou de silêncio eloquente da lei.
+3. Manifestação expressa do STF, ao analisar a ausência de menção ao direito de correção monetária no art. 3º da Lei nº 6.194/74, com a redação da Lei nº 11.482/2007, no sentido da inexistência de inconstitucionalidade por omissão (ADI 4.350/DF).
+4. Para os fins do art. 543-C do CPC: A incidência de atualização monetária nas indenizações por morte ou invalidez do seguro DPVAT, prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n. 11.482/2007, opera-se desde a data do evento danoso.
+5. Aplicação da tese ao caso concreto para estabelecer como termo inicial da correção monetária a data do evento danoso.
+6. RECURSO ESPECIAL PROVIDO.
+(REsp 1483620/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 27/05/2015, DJe 02/06/2015)
+Portanto, tendo ocorrido o pagamento da indenização securitária dentro do prazo de 30 (trinta) dias da comunicação do sinistro, não cabe falar em pagamento de correção monetária.
+Ante o exposto, dou provimento ao recurso especial para afastar o pagamento de correção monetária.
+Em respeito ao teor do art. 85 do novo CPC, reduzo os honoráriosadvocatícios a serem pagos pela insurgente em favor do causídicoda parteora recorrida em R$ 200,00 (duzentos) reais, observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. INDENIZAÇÃO. SEGURO OBRIGATÓRIO DPVAT. CORREÇÃOMONETÁRIA. PAGAMENTO DA INDENIZAÇÃO SECURITÁRIA DENTRO DO PRAZO LEGAL DE 30 (TRINTA) DIAS APÓS A COMUNICAÇÃO DO SINISTRO. ACÓRDÃO EMDESCOMPASSO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AFASTAMENTO DA ATUALIZAÇÃO. RECURSO ESPECIAL PROVIDO.
