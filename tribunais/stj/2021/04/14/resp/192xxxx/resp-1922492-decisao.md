@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MB Engenharia SPE 052 S.A. contra os acórdãos de fls. 290-304 e 349-356 (e-STJ), proferidos pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementados:
+APELAÇÃO CÍVEL. CONSUMIDOR. CONHECIMENTO PARCIAL. PRELIMINAR. INTERESSE PROCESSUAL. AUSÊNCIA. REJEIÇÃO. PROMESSA DE COMPRA E VENDA. IMÓVEL NAPLANTA. ATRASO NA ENTREGA. CLÁUSULA DE TOLERÂNCIA. LICITUDE. CONSTRUTORA. RESPONSABILIDADE. FORÇA MAIOR. INEXISTÊNCIA. CLÁUSULA PENAL. BASE DE CÁLCULO. PREVISÃO CONTRATUAL. ONEROSIDADE EXCESSIVA. REDUÇÃO. POSSIBILIDADE. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO.
+1. Falta interesse recursal à Ré em rediscutir questão apreciada na sentença no mesmo sentido pleiteado por ela no recurso.
+2. O interesse processual tem como fundamento a necessidade e a utilidade do processo para alcançar a tutela jurisdicional vindicada, bem como a adequação entre essa e o pedido formulado na demanda.
+3. Por se tratar de pedidos diversos, não há óbice a que o Requerente ajuíze duas ações distintas, uma visando à rescisão contratual e devolução dos valores por ele pagos à vendedora, e outra ao recebimento de reparação pelos danos que sofreu com o atraso na entrega do imóvel, de modo que resta presente o interesse processual do Autor no feito, sendo o processo útil e necessário para que o adquirente do imóvel alcance a reparação de danos pleiteada.
+4.Acerca da licitude da cláusula que alarga o prazo de entrega da obra, a jurisprudência do eg. TJDFT consolidou o entendimento de que não há abusividade no período de tolerância de 180 (cento e oitenta) dias estabelecido contratualmente e que esse tampouco gera desvantagem excessiva ao consumidor.
+5. A responsabilidade da construtora não pode ser afastada em razão de escassez de mão de obra, porquanto tal fato não caracteriza motivo de força maior capaz de excluir o nexo causal, mas, sim, risco específico daatividade, que já está englobado pelo prazo de tolerância previsto contratualmente.
+6. O c. Superior Tribunal de Justiça, no julgamento do REsp 1.447.247/SP, de relatoria do eminente Ministro Luís Felipe Salomão, esclareceu que a questão envolvendo a onerosidade excessiva da cláusula penal constitui matéria de ordem pública, cognoscível de ofício pelo magistrado, afigurando-se um poder/dever do Juízo a coibição de excessos e abusos contidos na cláusula contratual que impõe a penalidade.
+7. Consoante o disposto no artigo 413 do Código Civil, "A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade formanifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio"
+8. Constatado pelo Juízo que a cláusula penal contratualmente prevista afigura-se excessiva, constitui dever do magistrado a sua redução, sem que isso implique inobservância ao princípio da adstrição ou julgamento extra petita, tratando-se, em verdade, de ajuste da penalidade, para que não haja onerosidade em excesso para uma das partes e enriquecimento sem causa da outra.
+9. A cláusula penal deve ser fixada com base no valor efetivamente pago pelo comprador, calculada da data em que o imóvel deveria ter sido entregue pela vendedora, sob pena de configurar onerosidade excessiva à construtora e enriquecimento ilícito do adquirente. Precedentes da 8ª Turma Cível.
+10. Em se tratando de casos de responsabilidade da promitente vendedora por inadimplemento do contrato, os juros moratórios incidem a partir da citação válida.
+11. Apelação conhecida em parte e parcialmente provida. Preliminar rejeitada.
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PROMESSA DE COMPRA E VENDA. IMÓVEL NA PLANTA. ATRASO NA ENTREGA. FORÇA MAIOR. INEXISTÊNCIA. CLÁUSULA PENAL. BASE DE CÁLCULO. REDUÇÃO. POSSIBILIDADE. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. Os Embargos de Declaração são cabíveis contra decisão judicial que estiver eivada de omissão, contradição, obscuridade ou erro material, admitindo-se, excepcionalmente, a modificação do julgado, conforme dispõe o art. 1.022 do CPC/15.
+2. Devidamente analisadas as questões devolvidas a exame, em consonância com os elementos trazidos aos autos e dentro dos limites objeto do feito, não há qualquer vício no acórdão a ser sanado pela via integrativa e, portanto, as pretensões declaratórias não merecem acolhimento.
+3. A contradição que autoriza o manejo desse recurso é somente aquela constatada internamente, ou seja, entre partes do julgado que conflitam entre si.
+4. As pretensões dos Embargantes de rediscutir dos fundamentos do acórdão atacado não se coadunam com a estreita via dos declaratórios, devendo as partes manejarem os recursos extraordinários cabíveis, a fim de reformar o decidido.
+5. Quanto ao prequestionamento, o c. Superior Tribunal de Justiça orienta que, devidamente discutida a tese jurídica, desnecessária a menção expressa pelo magistrado dos dispositivos legais tidos como violados.
+6. Embargos de Declaração da Ré e do Autor conhecidos e não providos.
+Nas razões do recurso especial (e-STJ, fls. 359-375), aponta a insurgente a existência de violação dos arts. 393 e 422 do Código Civil; e 1º, § 2º, da Lei 6.899/1981.
+Sustenta, em síntese: i) incompatibilidade dos pedidos de rescisão contratual e pagamento de cláusula penal; ii) falta de interesse na ação; iii) ocorrência de caso fortuito ou força maior, a afastar a sua responsabilidade; e iv) termo inicial dos juros de mora na data do trânsito em julgado da decisão ou na data da citação; v) e termo inicial da correção monetária na data do ajuizamento da ação.
+Sem contrarrazões(e-STJ, fl. 385).
+Admitido o processamento do recurso na origem (e-STJ, fls. 387-389), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Embora a insurgente tenha discorrido sobre a incompatibilidade entre os pedidos de rescisão contratual e pagamento de cláusula penal, não apontou os dispositivos legais supostamente violados.
+Ora, o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado. Assim, a ausência de indicação expressa de dispositivos legais tidos por vulnerados impede de verificar se a legislação federal infraconstitucional ficou, ou não, malferida.
+Dessa forma, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. NECESSIDADE. SÚMULA 284/STF.
+O agravante não particulariza quais preceitos infraconstitucionais estariam supostamente afrontados o que caracteriza a ocorrência de alegação genérica e evidencia a deficiência na fundamentação recursal. Aplicação da Súmula 284 do STF.
+Agravo regimental improvido.
+(AgRg no AREsp 465.591/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe de 28/03/2014).
+Quanto à alegada falta de interesse na ação, sem razão a recorrente. Nada obsta que a parte proponha uma ação visando a rescisão contratual e depois proponha outra pleiteando indenização por danos materiais (pedidos distintos).
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA RURAL POR IDADE.PEDIDOS DIVERSOS. COISA JULGADA. NÃO OCORRÊNCIA. RETORNO DOS AUTOS À INSTÂNCIA ORIGINÁRIA.
+1. "Não há que se falar em coisa julgada ou falta de interesse de agir, justamente por não haver de identidade de pedidos entre as duas ações. Precedentes." (EDcl no AgRg no Ag 1116060/SE, Rel.
+Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/02/2014, DJe 07/03/2014) 2. Conclui-se que a premissa em que se baseou o Tribunal a quo (o fato de os pedidos de ambas as demandas serem diversos, não afasta a existência da coisa julgada) encontra-se equivocada, nos termos da jurisprudência desta Corte.
+3. O acórdão recorrido merece ser reformado para que os autos retornem à instância inicial e seja analisado o pedido de reconhecimento de especialidade no trabalho, no período pretendido pelo autor.
+Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgRg no AREsp 446.807/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 01/04/2014, DJe 07/04/2014).
+No tocante à defendidaocorrência de caso fortuito ou força maior, tendo o Tribunal de origem afastado tal ocorrência, incidente a Súmula 7/STJ a obstar o conhecimento do recurso que visa a revisão de tal conclusão.
+Note-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. CLÁUSULA DE TOLERÂNCIA. VALIDADE. CASO FORTUITO E FORÇA MAIOR. INEXISTÊNCIA. MORA CONFIGURADA. DEVER DE INDENIZAR. LUCROS CESSANTES AFASTADOS. DANOS EMERGENTES COMPROVADOS. INVERSÃO DA CLÁUSULA PENAL. POSSIBILIDADE (RESP 1.621.485/SP, DJE 25/6/2019, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS (TEMA 971). HONORÁRIOS SUCUMBENCIAIS FIXADOS COM BASE NOS FATOS DA CAUSA. REVISÃO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os arts. 393 do CC/02, 14, § 3º, II, do CDC e 1º, § 2º, da Lei nº 6.899/81, da forma em que lançadas nas razões do apelo especial, não foram debatidos na origem, apesar da oposição dos embargos de declaração. Caberia à parte alegar violação do art. 1022 do NCPC, o que não foi feito. Incidência da Súmula nº 211 do STJ.
+3. O Tribunal bandeirante, sopesando os fatos da causa, reconheceu inexistir caso fortuito apto a afastar a condenação da demandada pelo atraso na entrega da obra. Rever tal entendimento encontra óbice no enunciado da Súmula nº 7 do STJ. Precedentes.
+4. Quanto a possibilidade de inversão da cláusula penal em favor do comprador, a Segunda Seção do STJ, no julgamento do REsp 1.621.485/SP, DJe 25/6/2019, sob o rito dos recursos repetitivos (Tema 971), firmou o seguinte entendimento: "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial". Aplicável, no ponto, a Súmula nº 568 do STJ.
+5. Rever os critérios de fixação da sucumbência no Tribunal estadual encontra óbice no enunciado da Súmula nº 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no REsp 1.858.141/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/04/2020, DJe 23/04/2020).
+Referente ao termo inicialda correção monetária, verifica-se que não houvemanifestação por parte do Tribunal local.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre atesejurídicaem torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nessa esteira:
+PROCESSUAL CIVIL. MEDIDA CAUTELAR DE BUSCA E APREENSÃO. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF.
+I - Não há como aferir violação do art. 330, inciso I, do Código de Processo Civil de 1973, sem adentrar no acervo fático-probatório dos autos e sem que se faça a reanálise de provas ao reexame. Incidência do enunciado n. 7 da Súmula do STJ.
+II - O recurso especial não merece ser conhecido em relação à questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento, incidindo, por analogia, os enunciados n. 282 e n. 356 da Súmula do STF.
+III - Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu no caso dos autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp 985.845/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 20/06/2017, DJe 26/06/2017).
+Já com relação aos juros de mora, a jurisprudência desta Corte é de que o seu termo inicial se dá na data da citação.
+Nessa toada:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. FALHA GEOLÓGICA NO TERRENO. RISCO INERENTE À ATIVIDADE. DANO MORAL. ATRASO EXPRESSIVO SUPERIOR A DOIS ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O fortuito interno, fato imprevisível e inevitável ocorrido no momento da realização do serviço ou da fabricação do produto, como é o caso da alegada existência de falha geológica no terreno adquirido para a construção do empreendimento, não exclui a responsabilidade do fornecedor, porque relaciona-se com a atividade e aos riscos da atividade. 2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial. 3. Na hipótese, o atraso de mais de dois anos na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 941.250/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/03/2019, DJe 29/03/2019).
+Logo, a decisão recorrida se mostra em sintonia com o entendimento deste Tribunal, razão pela qual não merece reforma.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% (três por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. RESCISÃO CONTRATUAL. AÇÃO INDENIZATÓRIA. INCOMPATIBILIDADE DE PEDIDOS. SÚMULA 284/STF. FALTA DE INTERESSE. IMPROCEDÊNCIA. CASO FORTUITO E FORÇA MAIOR. SÚMULA 7/STJ. TERMO INICIAL DOS JUROS. DATA DA CITAÇÃO. TERMO INICIAL DA CORREÇÃO MONETÁRIA. SÚMULAS 282 E 356/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
