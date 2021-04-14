@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS.FIXAÇÃO COM FUNDAMENTO EM JUÍZO DE EQUIDADE (TEMA REPETITIVO 1.046).RETORNO DOS AUTOS PARA SOBRESTAMENTO PERANTE O EGRÉGIO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por MAPTEC COMÉRCIO E REPRESENTAÇÃO EIRELIcontra acórdão prolatado pelo Tribunal Regional Federal da 2a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. VALOR EXORBITANTE. APRECIAÇÃO EQUITATIVA DO JUIZ. REDUÇÃO.
+1. Caso em que o juízo de origem, com base no art. 85 do CPC/15, fixou os honorários advocatícios, em desfavor da União Federal, em 3% sobre o proveito econômico auferido pela Executada, o que representa mais de R$ 1.033.901,56 (um milhão, trinta e três mil, novecentos e um reais e cinquenta e seis centavos).
+2. O valor fixado pelo juízo de origem é exorbitante, notadamente tendo em vista que a União Federal não se opôs, nestes autos, ao reconhecimento da invalidade das CDAs, devido à duplicidade da cobrança.
+3. A interpretação sistemática do artigo 85 do CPC e seus parágrafos conduz à compreensão de que o comando contido no § 8º, no sentido de que "o juiz fixará o valor dos honorários por apreciação equitativa" é de todo aplicável como parâmetro à espécie. A apreciação equitativa não é a regra, de fato, mas subsiste como critério previsto no CPC/15, embora tenha tido seu escopo muito reduzido.
+4. O caso presente insere-se dentre as hipóteses excepcionais de incidência da apreciação equitativa, de modo que os honorários devem ser reduzidos e fixados em R$ 5.000,00 (cinco mil reais), conforme jurisprudência deste Tribunal.
+5. Agravo de instrumento da União Federal a que se dá provimento.
+2. Verifica-se que a matéria debatida nos autos refere-se à discussão sobre a possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2o. e 8o., do CPC/2015 (Tema repetitivo 1.046 - REsps. 1.812.301/SC e 1.822.171/SC).
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do CPC/2015.
+4. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do CPC/2015.
+5. Publique-se.
+6. Intimações necessárias.
