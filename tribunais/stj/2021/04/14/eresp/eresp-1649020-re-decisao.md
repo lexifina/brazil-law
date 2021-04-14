@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por COMERCIAL DE ALIMENTOS CARREFOUR LTDA,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 886):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.
+APLICABILIDADE. ART. 1.043, I E III, DO CPC/15. DISSÍDIO JURISPRUDENCIAL.AUSÊNCIA DE SIMILITUDE FÁTICO/JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. DIVERGÊNCIA NÃO DEMONSTRADA. APLICAÇÃO DE MULTA.ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Nos termos do art. 1.043, I, III e § 4º, do CPC/2015, para que os Embargos de Divergência sejam admitidos, faz-se necessário demonstrar, entre outros requisitos: a) que os acórdãos embargado e paradigma sejam de mérito, ou que um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia; b) que a divergência seja atual. Precedentes.
+III - É firme o posicionamento desta Corte segundo o qual, para a comprovação de divergência jurisprudencial, impõe-se que os acórdãos confrontados tenham apreciado matéria idêntica, à luz da mesma legislação federal, dando-lhes, porém, soluções distintas, o que não é o caso.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Sustenta a recorrente a repercussão geral da matéria tratada, aduzindoque o aresto impugnado violaria o art. 5º, incisoLV, da Constituição Federal.
+Afirma que "o E. STJ deixou de analisar o dissídio em razão da premissa equivocada de que os embargos de divergência não poderiam ser conhecidos em razão da ausência de similitude fática entre os julgados. Como visto, a ora Recorrente esclareceu, em diversos momentos, que a similitude fática é prescindível no caso, na medida em que se está diante de uma divergência de caráter processual, o que caracteriza a existência de vícios de erro material e de omissão no v. acórdão ora recorrido" (e-STJ fl. 943).
+Adverte que o presente caso não se adequa aos temas de repercussão geral 339 e 660/STF, na medida em que se trata de violação clara e direta aos princípios da ampla defesa e do contraditório.
+Argumenta ser irrelevante o tema de fundo debatido nas hipóteses confrontadas no recurso de embargos de divergência, em razão da natureza processual do dissenso estabelecido.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões, conforme certificadoàs e-STJ fl. 966.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa aos princípios do contraditório e da ampla defesadepende do exame de normas de admissibilidade do recurso deembargos de divergência,razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
