@@ -1,0 +1,13 @@
+DECISÃO
+ELEANDRO DE LIMA CARVALHOagrava da decisão de fls. 41-45, em que deneguei o pedido de alteração docálculo da remição por aprovação em exame nacional de ensino.
+Requer a reconsideração dodecisumanteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+Decido.
+Em juízo de retratação, torno sem efeito a decisão agravada.
+A Terceira Seção, em 10/3/2021, ao julgar oHC n. 602.425/RJ, por maioria, nos termos do voto doMinistro Reynaldo Soares da Fonseca, uniformizou a jurisprudência conflitante existente entre a Quinta e a Sexta Turmas sobre o cálculo de remição de pena dos detentos aprovados no ENCCEJA.
+O condenado que cumpre a pena em regime fechado ou semiaberto pode remir um 1 diade pena a cada 12 horas de frequência escolar, caracterizada por atividade de ensino fundamental, médio, superior, ou ainda de requalificação profissional.
+A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de reconhecer o benefício na situação de estudo por conta própria, com aprovação nos exames nacionais que certificam a conclusão do ensino fundamental ou médio, como incentivo à ressocialização do preso. Estipula, nessa hipótese, a forma de cálculo a ser adotada pelo Juiz da VEC.
+No julgamento da Terceira Seção, após debates e pedidos de vista, prevaleceu a compreensão de que a quantidade de horas declarada na Recomendação n. 44/2013 do CNJ já equivale a 50% da carga definida legalmente para cada nível de ensino.
+O colegiado concluiu, por decisão majoritária, que a Lei n. 9.394/1996, que estabelece regras específicas de educação básica, obrigatória e gratuita dos 4 aos 17 anos de idade, pode ser utilizada como critério de interpretação do art. 1º, IV, da Recomendação n. 44/2013 do CNJ, o que não afronta o art. 4º, II e III, da Resolução n. 03/2010, do CNE.
+Assim, doravante, em respeito ao entendimento da Terceira Seção, na hipótese de o apenado realizar estudos por conta própria e lograr, com isso, a aprovação no ENCEJJA,adotar-se-á, para o cálculo da remição prevista na Recomendação n. 44/2013 do CNJ, 1.600h ou 1.200h, o que corresponde a 50% dacarga horáriadefinida legalmente para os ensinos fundamental e médio.Esse total, dividido por 12 (133 ou 100 dias), orientará a declaração do benefício, a depender da aprovação total ou parcial das áreas de conhecimento e, ainda, do acréscimo de 1/3, nos termos do § 5º, do art. 126, da Lei de Execuções Penais, em caso de conclusão certificada do curso.
+À vista do exposto, em juízo de reconsideração,concedo o habeas corpus para determinar que o Juiz das Execuções refaça os cálculos da remição por aprovação no ENCEJJA, consoante as diretrizes apontadas nesta decisão.
+Publique-se e intimem-se
