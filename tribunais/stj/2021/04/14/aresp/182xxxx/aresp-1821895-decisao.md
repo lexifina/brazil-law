@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por ADRIANO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DANOS MORAIS SENTENÇA DE PROCEDÊNCIA - APELAÇÃO DA RÉ Danos morais - Alegação de cobrança vexatória, realizada por telefone - Ausência de demonstração de publicidade e de prova do quanto alegado - Ainda que aplicável a inversão do ônus probandi, por força do CDC, não se pode exigir a realização de prova negativa - Sentença reformada. Recurso provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 6º, VIII, e 42 do CDC e dos arts. 186, 187 e 927 do CC, no que concerne à comprovação do dano moral sofrido e à inversão do ônus da prova, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão recorrido reformou a r. sentença do juízo a quo, que julgou procedente os pleitos aduzidos na peça vestibular das Recorrentes, no que tange a improcedência da ação, tendo como fundamento que não caberia a inversão do ônus a Recorrida, uma vez que não poderia fazer provas "Diabólicas", negativas contra si mesmo. Denota-se que, ao assim decidir, o C. Tribunal sequer valorou o conjunto fático probatório apresentado nos autos, nem ao menos, as confissões da Recorrida no tópico de cumprimento da liminar, que realmente estavam sendo realizados cobranças em nome do Recorrente.
+Primeiramente, INADMISSÍVEL a reforma da r. Sentença, que deferiu a condenação da ora recorrida à indenização por "danos morais", OS QUAIS FORAM COMPROVADOS PELA RECORRENTE E CONFESSADO PELA RECORRIDA.
+ ..
+ÍNCLITOS JULGADORES, O RECORRENTE FEZ PROVA DO FATO CONSTITUTIVO DO SEU DIREITO, LHE SENDO ASSEGURADO PELO CDC O ONUS DA PROVA O QUE FOI INOBSERVADO PELA lla CAMARA DE DIREITO PRIVADO DO E. TJ/SP:
+Veja, que as ligações indevidas perturbavam o sossego tanto do Recorrente quanto dos seus parentes, o que restou evidenciado inclusive em cognição sumária a afronta ao ar tifo 42 do Código de Defesa do Consumidor.
+ ..
+Na esteira do raciocínio, para que exista o dever de indenizar, foi preenchido concomitantemente os três requisitos: (i) a conduta ilícita do agente; (ii) ocorrência de um dano; e (iii) o nexo de causalidade entre o dano e a conduta considerada ilícita.
+Portanto, ressaltamos: a existência da conduta ilícita da Recorrida, e, por conseguinte, nexo de causalidade entre os existentes danos morais e os PREJUÍZOS, igualmente existentes, motivo pelo qual necessá rio se faz a reforma do v. ac órdão, condenando a Recorrida a indenização a título de danos morais nos termos da r. Sentença do juízo a quo.
+ ..
+Igualmente, não prevalecem os fundamentos da Recorrida ao não pagamento de indenização por danos morais, os quais, FORAM DEMONSTRADOS, tem como FATO GERADOR "AS COBRANÇAS VEXATÓRIAS QUE TIRARAM O SOSSEGO DO RECORRENTE E SEUS FAMILIARES", que, conforme precedentes, enseja o dever de reparar: (fls. 165-168).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O que se extrai destes autos é que o autor não se desincumbiu de comprovar os fatos alegados de forma convincente.
+ ..
+Primeiramente, o fato de o réu ter admitido a contratação, inclusive juntando cópia do contratado estabelecido com o banco, não demonstra, por si só, que tenha agido da forma como narrado pelo autor na inicial. Por outro lado, no que se refere aos documentos de fls. 20/39, além de haver sido produzido unilateralmente, deles não há qualquer indicativo de que os números ali relacionados pertençam ao réu, sendo certo que não se poderia exigir deste tal comprovação, porquanto a parte não está obrigada a realizar prova negativa ou, como é chamada pela doutrina "diabólica", não bastando, portanto, a aplicação do Código de Defesa do Consumidor.
+Registre-se que na réplica o autor sequer se manifestou em relação à impugnação do réu quanto às ligações, sendo totalmente omisso.
+Ainda que assim não fosse, não há prova de existência de publicidade das cobranças, sem o que não há que se falar em abalo à honra do autor. (fl. 154)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
