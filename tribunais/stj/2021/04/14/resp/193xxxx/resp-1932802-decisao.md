@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MARIO PAES RODRIGUES contra decisão do Tribunal de Justiça do Mato Grosso do Sul que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. CONTRATO DE ARRENDAMENTO RURAL. AÇÃO DE RESCISÃO CONTRATUAL C/C COBRANÇA E DESPEJO. JUNTADA DE DOCUMENTOS EM SEDE RECURSAL - IMPOSSIBILIDADE. RENOVAÇÃO AUTOMÁTICA DO CONTRATO - INEXISTÊNCIA DE PROVAS E VEDAÇÃO LEGAL (ART. 373, DO CPC - ART. 21 DO DECRETO N. 59.566/66 C/C ART. 95, II, DO ESTATUTO DA TERRA). DESOCUPAÇÃO E POSTERIOR ESBULHO - RESCISÃO NÃO CABÍVEL. EXCEÇÃO DE DOMÍNIO - USUCAPIÃO ESPECIAL RURAL - REQUISITOS AUSENTES. RECURSO CONHECIDO E PROVIDO.
+O art. 435, do CPC/2015, admite a juntada de documentos novos a qualquer tempo, desde que destinados a fazer prova dos fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos, o que não é o caso dos autos.
+O CPC/2015 prevê, no art. 373, que o ônus da prova com relação à existência de determinado fato incumbe à parte que o alega e que cabe ao réu provar a existência de fato impeditivo, modificativo ou extintivo do direito alegado na inicial.
+Tratando-se de arrendamento rural, é aplicável o Estatuto da Terra(Lei n. 4.504/1964) e o Decreto n. 55.891/1965, independentemente da localização do imóvel.
+Inexistente a renovação automática do contrato havido entre as partes e o esbulho praticado pelo requerido, improcede os pedidos iniciais (rescisão contratual, despejo e pagamento de alugueres atrasados).
+Não é possível o reconhecimento de prescrição aquisitiva de propriedade por meio da usucapião especial rural (art. 1.239, do Código Civil e art. 191, da Constituição Federal), uma vez que o imóvel está localizado em zona urbana.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: artigo 1.239 do Código Civil, artigo 4º da Lei 4.504/64, artigo 5º do Decreto 55.891/65, artigo 15, inciso II, da Lei 13.465/17, artigo 3º do Decreto 9.310/18, artigo 4º, inciso I, da Lei 8.269/93,artigo 15 do Decreto-lei 57/66 e artigo 1.026, § 2º, do Código de Processo Civil.
+Pede a reforma do acórdão por entender, em síntese, que: (i) a natureza rural do bemdeve levar em consideraçãoa "destinação do imóvel, previsto expressamente no Estatuto da Terra e respectiva regulamentação"e (ii) "não houve a configuração de embargos protelatórios, já que além de pretender sanar as contradições que menciona, o recorrente interpôs os embargos declaratórios com vistas a prequestionar os dispositivos legais acima especificados, para permitir a interposição deste Recurso Especial, de modo que a aplicação de multa com base no art. 1.026, § 2º, do Código de Processo Civil/2015 (Lei nº 13.105/2015) se mostra totalmente desacertada".
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+As razões veiculadas pela agravante mostram-se relevantes, exigindo, assim, uma análise mais profunda. Ante o exposto, acolho o agravo para, em juízo de retratação, determinar a sua reautuação como recurso especial a fim de permitir um melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento do recurso especial.
+Intimem-se.
