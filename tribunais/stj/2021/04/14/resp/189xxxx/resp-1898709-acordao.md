@@ -1,0 +1,51 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. GRATIFICAÇÃO. SERVIDORES PÚBLICOS. AUSÊNCIA DE OMISSÃO, ART. 1.022, II, DO CPC. EXISTÊNCIA DE COISA JULGADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ.
+1. A parte recorrente sustenta que o art. 1.022, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Para alterar a conclusão a que chegou a Corte regional, de que houve o trânsito em julgado do acórdão, seria necessário o reexame de provas, o que é impossível nos estritos limites de cognição do Recurso Especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator.
+Dr(a). BRUNO CONTI GOMES DA SILVA, pela parte RECORRIDA: SELMA RODRIGUES DE OLIVEIRA"
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 844, e-STJ):
+EMBARGOS DECLARATÓRIOS. AGRAVO DE INSTRUMENTO. OMISSÃO. OCORRÊNCIA. MATÉRIA SUSCITADA NO PRESENTE RECURSO NÃO ABORDADA NA DECISÃO IMPUGNADA. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO PROVIDOS COM EFEITOS INFRINGENTES PARA NEGAR PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+1 - Embargos de declaração interpostos pelo particular em face de acórdão emanado da Eg. Quarta Turma que, em anteriores embargos de declaração, lhes negou provimento , mantendo na íntegra o acórdão que deu parcial provimento ao agravo de instrumento interposto pela UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO - UFRPE , apenas para reconhecer que a gratificação (FG-01) só é devida nos períodos de 17/02/2004 a 17/02/2006 e 26/03/2008 a 27/06/2008 .
+2 - Há omissão a ser sanada. Não foi analisada a alegação do particular, formulada em suas contrarrazões, de preclusão da oportunidade que a A utarquia possuía de suscitar a alteração dos critérios de cálculo utilizados pelo juízo a quo , eis que tais critérios foram definidos por decisão anterior e não pela decisão agravada, que apenas homologou os cálculos da contadoria.
+3 - Embora a UFRPE requeira a reforma da decisão agravada, para que seja corrigido o cálculo referente ao abono de férias e seja excluído da planilha de cálculos o período de 03/2006 a 12/2007 para pagamento da gratificação FG-01, tal decisão não resolve as matérias abordadas pela UFRPE em seu agravo de instrumento. Em realidade, sequer abord a tais questões , limit ando -se apenas a: (a) indeferir pedido de dilação de prazo pela UFRPE; (b) homologar os cálculos da contadoria e (c) e se manifestar sobre o pagamento de honorários de sucumbência.
+4 - As questões suscitadas no agravo foram debatidas e solucionadas em decisão anterior, a qual também foi objeto de recurso pela Universidade. Logo, na data de interposição deste agravo (06.03.2017), já teria ocorrido a preclusão, não sendo mais possível impugnar a decisão recorrida , inclusive porque as matérias ali abordadas não são consideradas de ordem pública.
+5 - Embargos de declaração providos, com efeitos infringentes , para, suprindo a omissão apontada, reconhecer a impossibilidade de analisar toda a matéria arguida no presente agravo de instrumento , por ocorrência de preclusão, negando-se provimento ao agravo de instrumento.
+Os Embargos de Declaração foram rejeitados (fls. 835-845, e-STJ).
+A parte recorrente alega violação aos arts. 503 e 1.022 do CPC. Afirma que o acórdão é omisso, porquanto deixou de apreciar diversas questões de direito suscitadas pela parte (fl. 874, e-STJ).
+Aduz que houve excesso de execução, visto que o procedimento executório extrapolou o assentado no acórdão transitado em julgado (fl. 874, e-STJ).
+Contrarrazões oferecidas às fls 881-892, e-STj.
+É o relatório
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.10.2020.
+Não se pode conhecer da irresignação.
+A parte recorrente sustenta que o art. 1.022, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. VIOLAÇÃO AO ARTIGO 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARTIGOS INFRACONSTITUCIONAIS APONTADOS COMO VIOLADOS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. LAUDOS TÉCNICOS DIVERGENTES. VALORES EM DESCOMPASSO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Não se conhece da alegada violação do art. 535, II, do Código de Processo Civil - CPC quando são apresentadas alegações genéricas sobre as suas negativas de vigência. Óbice da Súmula 284 do STF.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp 44.316/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/02/2014).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MILITAR. LICENCIAMENTO. OMISSÃO DO JULGADO REGIONAL. OFENSA AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRECEDENTES. INEXISTÊNCIA DE INVALIDEZ TOTAL E DEFINITIVA PARA O TRABALHO CASTRENSE. REFORMA INCABÍVEL. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica.
+Aplica-se, assim, o óbice da Súmula 284 do STF. Precedentes do STJ.
+2. A alteração das conclusões adotadas pela instância ordinária quanto à inexistência de invalidez total e definitiva para o trabalho castrense, tal como colocada a questão nas razões recursais, exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.341.229/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 17/2/2014).
+O Tribunal de origem consignou:
+As matérias suscitadas pela UFRPE no presente agravo foram resolvidas anteriormente pela decisão nº 4058300.2340950 (de 12.09.2016), em face da qual a UFRPE interpôs o agravo de instrumento nº 0808947-72.2016.4.05.0000, o qual transitou em julgado no presente ano e apenas impugnou o índice de correção monetária aplicado pelo juízo a quo, não adentrando no excesso de execução referente ao abono de férias e ao período em que é devida a gratificação FG-01.
+Para alterar a conclusão a que chegou a Corte regional, de que houve o trânsito em julgado do acórdão, seria necessário o reexame de provas, o que é impossível nos estritos limites de cognição do Recurso Especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça. Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVOS LEGAIS FEDERAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SERVIDOR PÚBLICO. REAJUSTE DE 28, 86%. EXECUÇÃO. COMPENSAÇÃO. OFENSA À COISA JULGADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES.
+1. Extrai-se do teor do voto condutor do acórdão recorrido que os arts. 303, 468 e 474 do CPC/1973 e as matérias a eles correlatas não foram objeto de debate e apreciação pela Corte de origem, circunstância que redunda na incidência da Súmula 211/STJ em virtude da ausência de prequestionamento dos referidos dispositivos legais pela instância a quo.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.235.513/AL (Rel. Ministro Castro Meira, Primeira Seção, DJe 20/12/2012), submetido ao rito do art. 543-C do CPC, pacificou a orientação de que "não ofende a coisa julgada  ..  a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso. Nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada. É o que preceitua o art. 741, VI, do CPC: "Na execução contra a Fazenda Pública, os embargos só poderão versar sobre  ..  qualquer causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença"".
+3. No caso, verificar se a compensação do reajuste de 28,86% se deu em desconformidade com o que preconiza o título executivo, bem como se ocorreu, ou não, eventual afronta à coisa julgada, é pretensão inviável na via recursal eleita, tendo em vista a necessidade do reexame do acervo fático-probatório dos autos, o que é incabível em recurso especial, segundo o teor da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 445.971/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/2/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2017).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
