@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por OSEIAS GONÇALVEScontra decisão monocrática da lavra do Ministro Presidente desta Corte, que não conheceu do agravo pela ausência de impugnação dos fundamentos da decisão denegatória de admissibilidade (Súmula n. 182/STJ).
+O agravantealega que todos os fundamentos da decisão denegatória foramimpugnados.
+É o relatório. Decido.
+Compulsando-se os autos, verifica-se que procede a argumentação trazida no agravo regimental. Passa-se, então, ao reexame do recurso especial.
+O elementosexistentes nos autos informam que o recorrente foi condenado àpena de 3 anos, 4 meses e 15 dias de reclusão, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pela práticado crime do art. 16, caput, da Lei nº 10.826/03.
+A defesa se insurge contra a condenação do recorrente alegando que não foram considerados pelo julgador os depoimentos extrajudiciais prestados pelos policias militares.
+Conforme admitido pelo próprio recorrente em seu recurso,ojulgador não está obrigado a refutar expressamente todas as teses aventadas pela defesa, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas (HC 305.849/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 11/3/2015).
+Exatamente como no presente caso, em que o TJSP após minuciosa análise dos elementosde prova constantes nos autos, concluiu pela condenação do recorrente. Confira-se:
+Não vinga o pleito de anulação da r. sentençaem razão da alegada ausência de valoração da prova defensiva e deenfrentamento da tese antes referida, relativa à validade dos laudospericiais juntados aos autos.
+Com efeito, o i. magistrado, quando da prolaçãoda r. sentença condenatória, valorou todas provas conforme o seu livreconvencimento e reconheceu a ocorrência do delito cuja prática foiatribuída ao réu, de maneira que, ainda que implicitamente, afastoutodas as teses defensivas ora reiteradas.
+ ..
+Do conjunto probatório, depreende-se que ospoliciais que prenderam o acusado em flagrante delito, narraram deforma firme e coerente, sob o crivo do contraditório, que havia préviadenúncia acerca do seu envolvimento com a caça clandestina na região,bem assim que ele tinha em sua propriedade rural armas de fogoirregulares, o que foi confirmado pela apreensão de uma espingarda, deduas miras e de um silenciador, além de munição de variados calibres,não vingando, pois, as versões que apresentou ao longo do processo,ora no sentido de que a espingarda era herança de seu pai, ora que amesma arma foi abandonada em sua propriedade, junto a outrosacessórios de uso restrito, como as miras, o silenciador e a munição decalibres distintos da arma em questão.
+Acrescente-se que, ao contrário do que sustentaa Defesa, não se vislumbra qualquer erro ou omissão no laudo doexame pericial dos objetos apreendidos, cujas conclusões evidenciam apresença dos requisitos determinantes da classificação como acessóriosde uso restrito.
+Importante registrar que"cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação. (Súmula 7/STJ)" (ut, AgRg no REsp 1716998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/05/2018).
+Ante o exposto, reconsidero a decisão de e-STJ fls. 683/684e conheço do agravo para não conhecer dorecurso especial.
+Intimem-se.
