@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Petrogoiás Distribuidora de Petróleo Ltda. à decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 243):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.1.CONEXÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.2.VIOLAÇÃO AO ART. 55, § 3º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF.3.EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EFEITO SUSPENSIVO. REQUISITOS. ART.919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO E RISCO GRAVE OU DE DIFÍCILREPARAÇÃO.IMPOSSIBILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.4.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Alega a embargante a ocorrência de contradição no acórdão recorrido, considerando que, ainda que implicitamente, o Tribunal local prequestionou a matéria disciplinada no art. 55, 3º, do CPC/2015.
+Por fim, pleiteia o acolhimento dos aclaratórios, com efeitos modificativos.
+Impugnação apresentada às fls. 329-332 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo apenas cabíveis quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, sejam detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, quando a correção dos vícios constatados forem aptos a modificar, de algum modo, odecisumprolatado.
+Na hipótese dos autos, os presentes embargos de declaração devem ser acolhidosparaafastara contradição apontada quanto à ausência de prequestionamento.
+A respeito do tema, o Tribunalestadual, ao julgar o agravo de instrumento, assim concluiu (e-STJ, fls. 179-180):
+3. Atento ao direito positivo consagrado no CPC, anota insigne doutrinador:
+"Ocorre conexidade quando duas ou várias demandas tiverem por objeto o mesmo bem da vida ou forem fundadas no mesmo contexto de fatos.
+(..)
+Do mesmo modo, duas demandas são conexas pela causa de pedir quando os fatos narrados são os mesmo, ainda que só parcialmente coincidam.
+(..)
+O que importa, nos institutos regidos pela conexidade, é a utilidade desta como critério suficiente para impor certas consequências (prorrogação da competência, reunião de processo) ou autorizar outras (litisconsórcio). Essa utilidade está presente sempre que as providências a tomar sejam aptas a proporcionar a harmonia dos julgados ou a convicção única do julgador em relação a duas ou mais demandas (Redenti). Ainda que ocorra a mera identidade parcial de títulos, será útil a prorrogação da competência, com reunião das causas sob um juiz só (..) sempre que a convicção para julgar haja de ser a mesma e não deva haver discrepâncias entre os julgamentos." (DINAMARCO, CÂNDIDO RANGEL. Instituições de Direito Processual Civil. 2ª ed. rev. e at. São Paulo: Ed. Malheiros, 2002, vol. 2, p. 149/151).
+In casu, não há identidade de partes, porquanto os presentes embargos foram opostos pela Petrogoiás Distribuidora de Petróleo Ltda. em face de Frederico Luiz Bobbio Lima e a ação de rescisão contratual c.c. indenização que tramita perante a 6ª Vara Cível da Comarca de Vitória-ES (processo nº 00113214-34.2018.8.26.0024) foi intentada por Naft Importação e Exportação de Derivados de Petróleo Ltda. e Petrogoiás Distribuidora de Petróleo Ltda. em face de Hiper Petro Terminal Marítimo Ltda. Me., Peiú Sociedade de Propósito Específico SPE S. A., Vitória Tugs Navegação Marítima e Portuária Ltda. e Vol Vitória Offshore Logistics S.A. (fls. 46/70), recaindo sobre contratos diversos, a primeira sobre contrato de mútuo/empréstimo por prazo determinado (fls. 16) e a última sobre contratos de joint venture e de prestação de serviços (fls. 16/37), de sorte que, inexiste semelhança entre as ações e os fundamentos em cada uma delas não coincidem. Por tais circunstâncias, a toda evidência, inviável o reconhecimento de conexão entre as demandas em apreço, nos termos do artigo 55 do CPC.
+Ao que se verifica, não há nexo entre a causa de pedir das demandas.
+A modificação de tais entendimentos lançados no acórdão recorrido, a fim de reconhecer a necessidade de reunião dos processos, a fim de evitar decisões conflitantes ou contraditórias, demandaria o revolvimento de suporte fático-probatório dos autos, o que é impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, acolho os embargos de declaração, sem, contudo, conferirefeitos modificativosà decisão embargada.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INAPLICABILIDADE DAS SÚMULA 282 E 356 DO STF. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
