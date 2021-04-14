@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício deCaio Cesar Pereira Menezes, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo(Apelação n. 1501204-44.2020.8.26.0603).
+Verifica-se dos autos que o paciente foi condenadopelo Juízo da 1ª VaraCriminal de Araçatuba/SP, por incurso noart. 33,caput, da Lei n.11.343/2006, àpenade 5 anos de reclusão, no regimeinicial fechado, e pagamento de 550 dias-multa (apreensão de 23,9 g de cocaína e 77,57 g de maconha).
+O recurso defensivo foi desprovido pela Décima Primeira Câmara de Direito Criminal do Tribunal paulista (fls. 39/50).
+Neste feito, a Defensoria Pública alega constrangimento ilegal decorrentedo afastamento da causa especial de redução da pena sem fundamentaçãoidônea, da não fixação do regime inicial aberto, bem como da ausênciade aplicação da substituição da privativa de liberdade por restritivas dedireitos.
+Requer, em liminar e no mérito, seja reconhecida a causa de diminuição prevista no art.33, § 4º, da Lei n.11.343/2006, em seu grau máximo, fixadoo regime inicial aberto e convertida a pena privativa de liberdade em restritiva de direitos.
+Deferi medida liminar paraaplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, fixando a pena de 1 ano e 8 meses de reclusão, em regime aberto, mais 166 dias-multa, bem como para substituir a pena privativa de liberdade por restritiva de direitos, a ser estabelecida pelo Juízo competente (fls. 53/55).
+Informações prestadas (fls. 59 e 76/77).
+Ouvido, o Ministério Público Federal, por meio do parecer escrito pelaSubprocuradora-Geral da RepúblicaJulieta E. Fajardo Cavalcanti de Albuquerque, opinou pela concessão da ordem, confirmando-se a liminar deferida (fls. 74/75).
+É o relatório.
+No caso, as instâncias originárias entenderam não ser possível a aplicaçãoda causa especial de redução da pena, prevista na Lei de Drogas, porque o réu responde a outro processo também por tráfico de drogas, sendo que estava em liberdade provisória quando voltou a ser preso (presente processo) - fl. 36.
+Conforme antecipei na decisão em que concedida a medida liminar,a Suprema Corte, em recentes precedentes, na esteira do entendimento, firmado sob a sistemática da repercussão geral, consignou que, na ausência das demais situações impeditivas da causa de diminuição da pena, tão somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante.
+Essa orientaçãofoi seguida pela Sexta Turmaconsiderando que, ante o princípio constitucional da não culpabilidade, a indicação unicamente da existência de ações penais sem trânsito em julgado não pode justificar a negativa da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 (HC n. 559.880/RS, Ministra Laurita Vaz, Sexta Turma, DJe 2/3/2021).
+Tal o cenário etendo me vista queforam valoradas favoravelmente todas as circunstâncias judiciais do paciente, tanto que a pena-base foi aplicada no patamar mínimo legalmente previsto para o tipo penal violado, cabível a redução da pena no patamar máximo (2/3), em razão de não ser expressiva a quantidade de droga apreendida (23,9 g de cocaína e 77,57 g de maconha), atendendo-se, assim, à proporcionalidade necessária e suficiente para reprovação do crime.
+Dessa forma, é de se estabelecer a reprimenda do paciente definitiva em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, em regime aberto, dado o quantum da pena, a primariedade e a ausência de circunstâncias judiciais negativas.
+Também está ausente qualquer empecilho legal para a substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, acolho o parecer e, confirmando a liminar, concedo a ordempara aplicar ao paciente acausa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, fixando sua reprimendaem1 ano e 8 meses de reclusão, em regime aberto, mais 166 dias-multa, bem como para substituir a pena privativa de liberdade por restritiva de direitos, a ser estabelecida pelo Juízo competente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTORA DO ART. 33, § 4º, DA LEIN.11.343/2006. AFASTAMENTO. FUNDAMENTO INIDÔNEO. INCIDÊNCIA. VIABILIDADE. REGIMEINICIAL.PENA INFERIOR A 4 ANOS. AUSÊNCIA DE CIRCUNSTÂNCIASJUDICIAISDESFAVORÁVEIS. PRIMARIEDADE. ADEQUAÇÃO DO ABERTO. SUBSTITUIÇÃODA PENA.POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
