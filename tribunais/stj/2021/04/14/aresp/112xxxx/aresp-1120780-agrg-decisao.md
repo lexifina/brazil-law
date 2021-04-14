@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra decisão desta Relatoria que, fundamentada no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheceu do agravo para negar provimento ao recurso especial.
+O agravante alega, em síntese, que "a prescrição da pretensão executória, nos termos dos artigos 110, parágrafo único, 112, I, ambos do Código Penal, tem como marco inicial o trânsito em julgado da sentença/acórdão para a acusação" (e-STJ, fl. 237).
+Assim, "se o Ministério Público Federal interpôs recurso de apelação da sentença é manifestamente evidente que o termo inicial da prescrição executória não pode ter como referência a sentença, pois não ocorreu o trânsito em julgado para acusação ante a interposição do recurso de apelação" (e-STJ, fl. 237).
+Sustenta que, se o "v. acórdão do TRF da 1ª Região, que julgou o recurso do MPF, somente transitou em julgado para acusação em 30/04/2007, como reconhece o próprio acórdão recorrido, este é o termo inicial da prescrição da pretensão executória, consoante dispõem expressamente os artigos 110 e 112 do Código Penal, sendo certo que a prescrição da pretensão executória foi interrompida com a continuação do cumprimento da pena do ora recorrido em razão de sua recaptura em 30/10/2014" (e-STJ, fl. 238).
+Afirma, assim, restar "evidente que não houve o transcurso do prazo prescricional de 12 anos, razão pela qual merece ser reconsiderada a r. decisão ora recorrida para prover o recurso especial e reformar integralmente o v. acórdão recorrido" (e-STJ, fl. 239).
+É o relatório.
+A irresignação merece acolhimento.
+Com efeito, a orientação jurisprudencial pacífica desta Corte é no sentido de que "conforme disposto expressamente no art. 112, inciso I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação" (AgInt no HC n. 573.231/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 20/10/2020).
+Assim, tendo em vista a interposição de apelação pelo Ministério Público Federal, a qual foi julgada e transitou em julgado para acusação em 30/04/2007, esse é o termo inicial da prescrição da pretensão executória.
+Considerando, ainda, que o sentenciado foi condenado a 8 anos de reclusão, o prazo prescricional se dá em 12 anos, nos termos do art. 109, III, do CP.
+Verifica-se, também, que, uma vez iniciada a execução, o apenado evadiu-se da prisão em 06/10/1997.
+Portanto, fixado o termo inicial da prescrição executória em 30/04/2007 e efetuada a recaptura do condenado em 30/10/2014, observa-se que não escoou o prazo de 12 anos entre os referidos marcos interruptivos.
+Ante o exposto, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de afastar o reconhecimento da prescrição da pretensão executória e determinar o prosseguimento da execução penal do apenado Marcio Fernandes Araujo.
+Publique-se. Intimem-se.
