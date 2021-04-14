@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto porLUIZ FERNANDO GONÇALVES,com fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial de e-STJ fls. 356/360, in verbis:
+Trata-se de recurso especial interposto por LUIZ FERNANDO GONÇALVES, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que que deu provimento ao recurso da defesa, a fim de reduzir a pena-base ao mínimo legal, mantendo a condenação do recorrente nas sanções do artigo 14 do Estatuto do Desarmamento. (Apelação Criminal nº 1.0433.12016312.9/001).
+Dos fatos
+Consta dos autos que THIAGO ANTONIO XAVIER SANTOS e LUIZ FERNANDO GONÇALVES foram denunciados pelo Ministério Público como incursos nas iras do artigo 14 da Lei 10.826/03 e art. 311 do CBT, porque no dia 30 de maio de 2012, porvolta das 15 horas, policiais militares em patrulhamento rotineiro, abordaram os denunciados, numa motocicleta, quando foi arrecadado com o acusado Luiz Fernando uma arma de fogo municiada, sem autorização e em desacordo com determinação legal. Na abordagem foi constatado que os acusados haviam adulterado a placa da moto com fita adesiva, pois pretendiam praticar um assalto.
+Transcorrido regularmente o processo, com observância dos princípios constitucionais da ampla defesa e do contraditório, sobreveio sentença que julgou procedente a acusação para condenar o recorrente pela prática do crime previsto no artigo 14 do Estatuto do Desarmamento, às penas de 03 anos de reclusão, em regime semiaberto, e pagamento de 20 dias-multa, à razão mínima. Na mesma decisão, os acusados foram absolvidos do cometimento do delito descrito no artigo 311 do Código Penal, com fundamento no artigo 386, III, do Código de Processo Penal.
+Foi concedido ao acusado o direito de apelar em liberdade.
+Interposto recurso de apelação pela defesa, o Tribunal de origem, em 21/08/2019, à unanimidade, deu provimento ao recurso, nos termos do acórdão assim ementado (fl. 252/256):
+ ..
+Opostos embargos de declaração (fls. 296/297), estes foram rejeitados (fls.306/308).
+Irresignada, a defesa interpôs recurso especial com fulcro no artigo 105, inciso III, alínea "a", do permissivo constitucional, em que alega que o acórdão violou o artigo 44, § 3o, do Código Penal, discorrendo acerca da possibilidade de substituição da pena aos reincidentes não específicos, quando as circunstâncias judiciais lhe são favoráveis.
+Contrarrazões do MP/RJ (fls. 335/339).
+A Terceira Vice-Presidência do TJ/MG admitiu o recurso, conforme decisão de fls. 342/343.
+O Parquet opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+De acordo com a jurisprudência desta Corte, "o art. 44, § 3º, do Código Penal, é claro afirmar que se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime" (AgRg no HC n. 618.438/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 23/10/2020).
+Contudo, "tratando-se de reincidência genérica, cumpre às instâncias ordinárias fundamentar concretamente as razões pelas quais a medida não se mostra socialmente recomendável"(AgRg no REsp n. 1.806.007/RS, relator MinistroNEFI CORDEIRO, SEXTA TURMA, julgado em 5/11/2019, DJe 11/11/2019).
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. SEGUNDA FASE.RECONHECIMENTO DA REINCIDÊNCIA. COMPROVAÇÃO. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. CERTIDÃO CARTORÁRIA. DESNECESSIDADE. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS.REINCIDÊNCIA. SÚMULA N.º 269/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ART. 44, § 3.º, DO CP.POSSIBILIDADE. REINCIDÊNCIA NÃO ESPECÍFICA. AUSÊNCIA DE JUSTIFICATIVA QUANTO A SER A MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL.CONSTRANGIMENTO ILEGAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART.147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+- Na hipótese, a negativa de substituição da pena privativa de liberdade por restritivas de direitos não está devidamente justificada. Isso, porque o Tribunal local não procurou demonstrar o porquê de não ser recomendável a substituição, tendo em vista as circunstâncias delineadas no caso concreto, além da reincidência.Vale dizer, ao contrário do que entendeu a instância a quo, a reincidência não específica, de modo isolado, não evidencia a insuficiência das penas alternativas (art. 44, § 3.º, do Código Penal).
+- Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação. Precedentes.
+ ..
+Habeas corpus não conhecido. Ordem concedida, de ofício, para substituir a pena privativa de liberdade imposta ao paciente por duas sanções restritivas de direitos, a critério do juiz singular, e para determinar que somente seja iniciado o seu cumprimento após o trânsito em julgado da condenação.
+(HC 436.307/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018)
+Ante o exposto, dou provimento ao recurso especial para determinar a substituição da pena privativa de liberdade por duasrestritivas de direitos a serem definidas pelo Juízo da execução penal.
+Publique-se. Intimem-se.
