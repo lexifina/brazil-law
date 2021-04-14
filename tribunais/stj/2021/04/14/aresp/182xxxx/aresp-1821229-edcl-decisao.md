@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COMPANHIA ULTRAGÁZ S/A, à decisão de fls. 233/234, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com efeito, quando do ajuizamento da ação junto a Vara de origem, nota-se que foram juntados os atos constitutivos da empresa (fls.
+18/19), procuração (fls.20) e substabelecimento conferindo poderes à Dra. Juliana Andreozzi Carnevale.
+Em seguida, os poderes foram devidamente conferidos ao subscritor do recurso, Dr. Bruno Andreozzi, mediante juntada do substabelecimento de fls. 229.
+Não obstante, ao adverso do quanto proferido na r. decisão, ainda que se exija tal formalidade, a cadeia completa de procurações foi adequadamente juntada (fls. 227/228), bem como novo substabelecimento conferindo poderes ao subscritor do recurso (fls. 229).
+Deste modo, se havia eventual irregularidade na representação processual, temos que após a juntada de referida documentação, tal vício foi sanado (fls. 244/245).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao Dr. Bruno Andreozzi, subscritor do recurso especial.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a procuração e o substabelecimento juntados às fls. 225/230 não foram suficientes para completar a cadeia de representação outorgando poderes ao subscritor do recurso.
+Veja-se que, ao contrário do alegado pela parte embargante, no substabelecimento de fl. 229, a substabelecente Dra. Juliana Andreozzi Carnevale apenas consta nominalmente no documento citado, no entanto, não há sua assinatura física ou eletrônica.
+Mais ainda, na parte inferior da referida peça consta assinatura eletrônica do Dr. Bruno Andreozzi, ou seja, ele substabeleceu para si próprio, uma vez que a assinatura eletrônica é a forma de identificação inequívoca do signatário. A opção pela utilização do meio eletrônico de peticionamento implica a vinculação do advogado titular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, o subscritor da peça, não tendo valor eventual assinatura digitalizada de outro advogado que venha a constar da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração. Nesse sentido, o AgInt no AREsp 1339129/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 30/8/2019.
+Dessa forma, o instrumento de substabelecimento juntado à fl. 229 não tem eficácia. Portanto, correta a aplicação da Súmula n. 115/STJ.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
