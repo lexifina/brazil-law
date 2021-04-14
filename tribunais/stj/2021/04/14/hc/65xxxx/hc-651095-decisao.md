@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Manoel Francisco da Silva, apontando-se como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais (Agravo em Execução n. 1.0000.21.003262-9/001).
+Narram os autos que o Juízo da Vara de Execuções Penais - Meio Aberto da comarca de Belo Horizonte/MG (Autos n. 4400921-47.2019.8.13.0024), em razão da pandemia da Covid-19, revogou eventual condição de prestação de serviços à comunidade ou participação de grupo reflexivo imposta na sentença condenatória.
+Inconformado, o Ministério Público interpôs recurso, ao qual o Tribunal de Justiça deu parcial provimento para cassar a decisão e manter as condições impostas pela concessão do sursis na sentença condenatória proferida pelo Juízo de Conhecimento (fl. 146).
+Neste mandamus, a Defensoria Pública alega que, no caso em análise a alteração da situação fática que justificou a decisão recorrida refere-se à situação da pandemia, notadamente quanto à adequação da sentença às medidas e normas de prevenção ao contágio pelo coronavírus (fl. 8).
+Destaca que a decisão recorrida que modificou a forma de execução da pena, não se poderia falar em ofensa à coisa julgada, tendo em vista a alteração da situação fática a exigir o cumprimento de normas de prevenção ao contágio pelo Coronavírus, revelando verdadeira imposição de saúde pública, baseada em evidências científicas e recomendações internacionais, em benefício de toda a população para evitar o adoecimento e a morte de milhares de pessoas (fl. 9).
+Requer, inclusive liminarmente, a concessão da ordem e reforma do acórdão impugnado para manter a decisão singular e, por conseguinte a alteração das condições do sursis (fl. 13).
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República André de Carvalho Ramos, pelo não conhecimento do writ, mas pela concessão da ordem de ofício.
+É o relatório.
+Com razão o nobre Subprocurador-Geral da República, com cujo parecer estou de acordo. Vejamos, no ponto, o que interessa (fls. 173/176):
+ ..
+Não obstante, em situações manifestamente ilegais, o remédio constitucional pode ser conhecido de ofício, o que se verifica no quadro em tela.
+Conforme se extrai dos autos, o juízo de execução alterou as condições de sursis impostas em sentença de condenação nos seguintes termos (e-STJ, fl. 93):
+Considerando o atual contexto de pandemia da covid-19, que impõe a necessidade de se evitar aglomerações de pessoas, revogo eventual condição de prestação de serviços à comunidade ou participação de grupo reflexivo imposta na sentença condenatória.
+Estabeleço as seguintes condições para o sursis, pelo prazo de 02 anos, levando-se em consideração a natureza do delito da condenação do sentenciado, bem como sua pena, para unificação da política criminal da Vara de Execuções desta comarca para casos similares:
+1) Fica o acusado proibido de frequentar bares, boates, prostíbulos e similares, bem como casas de jogos e similares;
+2) Fica o acusado obrigado a comparecer pessoal, a partir desta data, e mensalmente, em juízo, para informar e justificar suas atividades;
+3) O sentenciado deverá manter seu endereço atualizado perante este juízo.
+Inconformado, o Ministério Público interpôs recurso de agravo em execução, ao qual o Tribunal a quo deu provimento, cassando a decisão de primeiro grau acima destacada, em acórdão assim ementado (e-STJ, fl. 143):
+AGRAVO EM EXECUÇÃO PENAL - ALTERAÇÃO DAS CONDIÇÕESIMPOSTAS NO SURSIS - INADMISSIBILIDADE - AUSÊNCIA DE AMPAROLEGAL - OFENSA À COISA JULGADA. O Juiz da Execução não tem competência para modificar decisão proferida em processo de conhecimento, alterando as condições impostas pelo Sursis na sentença.
+Como se sabe, a suspensão condicional da pena é regulada pela Lei de Execução Penal, sendo que os parágrafos 1º e 2º do art. 158 prevêem a necessidade de adequação das condições às circunstâncias objetivas e subjetivas e a possibilidade alteração das condições do sursis a qualquer tempo, in verbis:
+Art. 158. Concedida a suspensão, o Juiz especificará as condições a que fica sujeito o condenado, pelo prazo fixado, começando este a correr da audiência prevista no artigo 160 desta Lei.
+§ 1º As condições serão adequadas ao fato e à situação pessoal do condenado, devendo ser incluída entre as mesmas a de prestar serviços à comunidade, ou limitação de fim de semana, salvo hipótese do artigo 78, § 2º, do Código Penal.
+§ 2º O Juiz poderá, a qualquer tempo, de ofício, a requerimento do Ministério Público ou mediante proposta do Conselho Penitenciário, modificar as condições e regras estabelecidas na sentença, ouvido o condenado.
+Extrai-se deste e de outros dispositivos da LEP que a pena e demais medidas penais devem ser adequadas às situações fáticas ao tempo do cumprimento, conferindo-se certa flexibilidade ao juízo de execução penal, em atenção à função ressocializadora da pena.
+Por esse motivo, entende-se que a "força vinculativa do ato decisório,em sede de execução penal, subordina-se à cláusula rebus sic standibus, é dizer, está atrelada à manutenção dos pressupostos fáticos e jurídicos que lhe serviram de suporte" (HC 385.541/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTATURMA, julgado em 16/05/2017, DJe 24/05/2017).
+Nesse sentido, não há que se falar em ofensa à coisa julgada em decisão do juízo de execução que readequou as condições de sursis impostas em sentença condenatória diante de novas circunstâncias fáticas.
+No caso em tela, o juízo a quo alterou as condições impostas ao paciente em razão da edição da Recomendação n. 62/20, do CNJ, a qual orienta magistrados de execução penal que, diante da necessidade de adoção de medidas de contenção dos efeitos da pandemia de Covid-19, considerem a "suspensão temporáriado dever de apresentação regular em juízo das pessoas em cumprimento de pena no regime aberto, prisão domiciliar, penas restritivas de direitos, suspensão da execução da pena (sursis) e livramento condicional, pelo prazo de noventa dias"(art. 5º, inciso V - g.n.).
+Ademais, em Orientação Técnica sobre Alternativas Penais no âmbito das medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19),de 27/04/20201, o CNJ recomenda aos magistrados considerar as alternativas penais adequadas em razão do caráter excepcional da pandemia, dentre as quais se destaca, no âmbito da execução penal, transação penal e condições impostas por suspensão condicional do processo e sursis, as seguintes medidas.
+ ..
+Verifica-se, portanto, que a decisão do juízo de execução está em consonância com o princípio rebus sic standibus, sendo a readequação das condições do sursis fundamentada em alteração das circunstâncias fáticas, que exigem, conforme recomendações do CNJ, a suspensão de medidas de comparecimento pessoal. A interrupção de medidas alternativas que exigem o comparecimento do apenado não pode interromper o cumprimento do sursis, sob pena de grave prejuízo à locomoção do paciente, bem como ao processo de ressocialização.
+Diante do exposto, não havendo fundamentação idônea no acórdão impugnado para revogar a decisão que alterou as condições do sursis, deve ser reconhecida a flagrante ilegalidade suficiente a ensejar a concessão ex officio da ordem.
+Ante o exposto, à vista do parecer,concedoa ordem a fim de cassar o acórdão impugnado e restabelecer a decisão do Juízo da Vara de ExecuçõesPenais - Meio Aberto da comarca de Belo Horizonte/MG (Autos n. 4400921-47.2019.8.13.0024).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO CRIMINAL. SUSPENSÃO CONDICIONAL DA PENA. ALTERAÇÃO DAS CONDIÇÕES PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
