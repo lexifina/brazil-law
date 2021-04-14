@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRENDO BARBOSA LIMA contra a decisão de e-STJ fls. 77/78, naqual indeferi a liminar pleiteada no presentehabeas corpus.
+Nas razões do presente recurso, o embargante informa que foi condenado pela prática do crime de receptação, tendo sido expedidomandado de prisãopara cumprir 2 (dois)meses, no regime inicial semiaberto, da pena de 1 (um) ano e 2 (dois) meses.
+Aduz que as "provas não foram anexadas aos autos por motivos desconhecidos, motivo pelo qual aproveita a presente oportunidade para juntar a cópia da certidão de nascimento da criança, certidão de óbito da mãe da criança, RG do Embargante para comprovar que ele é o único pai vivo da criança menor de 12 (doze) anos, além do diagnóstico médico para comprovar a doença crônica que o inclui no grupo de risco da COVID-19. Ademais, requer seja deferida a juntada do documento comprobatório da superlotação das unidades prisionais de regime semiaberto do Estado de São Paulo, as quais encontram-se inseridas no estado de coisas inconstitucionais que existem nas instituições prisionais do País"(e-STJ fls. 81/82).
+Assim, requer a juntada dos documentos e o deferimento da liminar para "que o mandado de prisão seja suspenso para que o paciente possa exercer o direito de liberdade ao lado de sua única filha" (e-STJ fl. 82).
+É, em síntese, o relatório.
+Decido.
+De início, ressalto que os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão. Outrossim, tem-se admitido sua oposição com o objetivo de sanar erro material constante da decisão proferida. Cuida-se, portanto, de ferramenta processual apta ao aprimoramento do julgamento já realizado.
+Fixada essa premissa, a despeito dos argumentos expendidos pelo embargante, é certo que se verifica, na decisão embargada, ter sido devidamente consignada ainexistência, em juízo de cognição sumária, do fumus boni iuris e do periculum in mora hábeis a justificar o deferimento da tutela de urgência pleiteada, notadamente ao se considerar que o paciente, ao que tudo indica, é reincidente em crime doloso.
+Inexiste, portanto, ambiguidade, obscuridade, contradição ou omissão a serem sanadas, o que evidenciaa impossibilidade de acolhimento dos presentes aclaratórios.
+Ante o exposto, rejeito os embargos de declaração opostos.
+Publique-se.Intimem-se.
