@@ -1,0 +1,10 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 11, p. 2):
+    “RECURSO DE AGRAVO REGIMENTAL EM RECURSO DE APELAÇÃO EM MANDADO DE SEGURANÇA. CONSTITUCIONAL. FORNECIMENTO DE MEDICAMENTO. FALTA DE REGISTRO DA ANVISA. IRRELEVÂNCIA. 1. Paciente que sofre de Hepatopatia crônica e Cirrose. Necessidade de utilização de medicamento para o tratamento. Decisão em consonância com entendimento pacificado neste E. Tribunal de Justiça, Superior Tribunal e Supremo Tribunal Federal. Possibilidade de decisão monocrática do relator. Inteligência do art. 557, caput, do Código de Processo Civil. Recurso que objetiva nova instância de julgamento. Não comprovação de que a decisão é conflitante com jurisprudência dos Tribunais Superiores, do STF ou do E. Tribunal de Justiça do Estado de São Paulo. 2. Prazo fixado para o cumprimento da obrigação que se mostra razoável, não havendo comprovação de que tenha sido insuficiente para o fornecimento do medicamento. Recurso desprovido.”
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE 657.718-RG, Rel. Min. Marco Aurélio, DJe 11.5.2012 (tema 500), pendente ainda a análise de mérito, entendeu pela existência de repercussão geral da matéria versada nestes autos. Na oportunidade, a ementa restou assim redigida:
+    “SAÚDE – MEDICAMENTO – FALTA DE REGISTRO NA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA – AUSÊNCIA DO DIREITO ASSENTADA NA ORIGEM – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – CONFIGURAÇÃO. Possui repercussão geral a controvérsia acerca da obrigatoriedade, ou não, de o Estado, ante o direito à saúde constitucionalmente garantido, fornecer medicamento não registrado na Agência Nacional de Vigilância Sanitária – ANVISA.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral, nos termos do art. 1.036 do CPC, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 14 de abril de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
