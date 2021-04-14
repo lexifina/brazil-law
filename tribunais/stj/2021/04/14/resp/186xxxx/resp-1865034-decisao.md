@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULOfundado na alínea "a" do permissivo constitucionalcontra acórdão assim ementado:
+DIREITO PÚBLICO - AGRAVO DE INSTRUMENTO INTERPOSTO PELA RÉ - AÇÃO ANULATÓRIA DE DÉBITO FISCAL (I.C.M.S.) - TUTELA CAUTELAR EM CARÁTER ANTECEDENTE - DEPÓSITO DO MONTANTE INTEGRAL- DEFERIMENTO DA SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO - MANUTENÇÃO - Suspensão da exigibilidade do crédito tributário que, no caso, impõe garantia integral e em dinheiro (artigo 151, inciso II, do C.T.N. e Súmula 112 do C. S.T.J.) - Valor integral que deve corresponder ao valor exigido na data do depósito Depósito efetivado no exato valor da G.A.R.E. emitida pela Delegacia Regional Tributária e em conformidade com a conta fiscal do A.I.I.M objeto da ação - Suspensão de rigor, nos termos das disposições legais Agravo de instrumento desprovido.
+O recorrente, apontando violação do art. 151, II, do CPC, sustenta, em resumo, que o depósito realizado com o desconto de 25% sobre o valor da multa, concedido em caso de pagamento após 30 dias do julgamento do recurso administrativo, não é integral e, por isso, não suspende a exigibilidade do crédito tributário.
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+A presente irresignação recursal não supera o juízo de admissibilidade.
+Isso porque, a despeito da oposição de embargos de declaração,a tese ora defendida pelo recorrente em torno da interpretação do art. 151, II, do CTN, de que o desconto no valor da multa é um benefício para o pagamento da dívida e não para a suspensão da exigibilidade do crédito tributário, não foi efetivamente analisada pela Corte estadual.
+A propósito, no julgamento dos aludidos aclaratórios, o colegiado local limitou-se a ratificar que:
+(..) o v. acórdão, de forma clara e coerente, com fartíssima fundamentação assentou que "no caso concreto, a suspensão da exigibilidade do crédito tributário se efetivou mediante garantia integral e em dinheiro, a teor do artigo 151, inciso II, do Código Tributário Nacional, bem como da Súmula 112 do E. S.T.J" (fls. 31), esclarecendo, ainda, "que o débito discutido se restringe ao item 3 do mencionado A.I.I.M, de modo que, em relação a esse valor, houve o depósito integral do valor exigido na data do depósito, condição suficiente para suspensão da exigibilidade do crédito" (fls. 32).
+Constata-se, pois, a falta do requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
