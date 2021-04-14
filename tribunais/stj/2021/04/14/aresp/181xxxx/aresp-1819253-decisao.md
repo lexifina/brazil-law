@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por TG SAO PAULO EMPREENDIMENTOS IMOBILIARIOS S.A,contra decisão do Tribunal de Justiça do Estado do Paraná que não admitiu o seu recurso especial.
+Opostos embargos de declaração, foram rejeitados à e-STJ Fls. 1800/1838.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489, IV, e 1.022, II e parágrafo único, do CPC/2015, 335, II do CC, 896, II, e 899, §1º do CPC/1973, bem como dissídio jurisprudencial.
+A par da negativa de prestação jurisdicional, insurge-se contra o pleito indenizatório por parte dos recorridos, mormente quanto a justo motivo para a recusa ao recebimento das chaves de imóvel objeto de contrato entabulado entre as partes. Aduz, assim, que foram indevidamente confundidos os conceitos de pleito indenizatório com o pleito consignatório por parte do Tribunal a quo.
+Contrarrazões à e-STJ Fls. 1898/1930.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente,aponto que se apresenta deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam carentes de fundamentação,omissos, contraditórios ou obscuros.
+Nesse passo, é deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Aplica-se, assim, o óbice da Súmula 284/STF. Nesse sentido: AgRg no Ag 1.130.264/SP, 6ª Turma, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), DJe de 01/07/2011; REsp 1.253.231/SC, 2ª Turma, Rel. Min. Castro Meira, DJe de 03/11/2011; REsp 1.268.469/SP, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 27/02/2012; e REsp 1.190.865/MG, 3ª Turma, Rel. Min. Massami Uyeda, DJe de 01/03/2012.
+De outra parte, no que tange aos arts.335, II do CC, 896, II, e 899, §1º do CPC/1973, bem como ao respectivo dissídio jurisprudencial,o recurso especial não pode ser conhecido, pois, sobre a matéria de que tratam essas normas, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Ademais, ainda que assim não fosse,exsurge deficiente a fundamentação recursal, pois a parte recorrente limita-se a citar os dispositivos supostamente violados e a existência de dissídio jurisprudencial, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação no acórdão recorrido e, ainda, de proceder ao confronto entre acórdãos supostamente divergentes. Assim, não conheço do recurso, ante a incidência da Súmula 284/STF.
+Veja-se, a propósito, o quanto manifestado pela origem (e-STJ Fls. 1694):
+E por corolário, diante do resultado desse julgamento, impõe-se manter a r. Sentença que julgou improcedentes os pedidos deduzidos na "Consignação em Pagamento" de n.º 0013791-27.2014.8.16.0001, pois havia justa causa para seis, dentre os dezoito autores da Indenizatória, recusarem-se a receber suas unidades imobiliárias, já que a requerida não estava a lhes entregar o devido, não concordando os requeridos sequer com a área construída.
+Conforme destacou a r. Julgadora singular, a Sentença reconheceu o direito dos autores da Indenizatória ao acréscimo de área construída, fundamento este primordial ao julgamento da improcedência da Consignatória.
+Em que pese a Brookfield não concorde com a prolação de Sentença una, é evidente que em se tratando de medidas conexas, os fundamentos de fato e de direito devem ser analisados de forma conjunta, porquanto partem das mesmas premissas, interconectadas, tendo em vista a relação de causalidade/prejudicialidade/acessoriedade entre elas.
+Dessa forma, se houve o reconhecimento do direito dos autores da Indenizatória, mas inexistiu pleito de compensação entre eventuais áreas entregues a maior aos apelados na Consignatória ou pedido reconvencional na Indenizatória, resta julgar improcedentes os pedidos na "Consignatória", quais sejam (..) (g.n.)
+Nesse mesmo passo, a parde a agravante sequer atacar os fundamentos do acórdão recorrido supracitados, o que enseja a aplicação da Súmula 283/STF,elidir as conclusões do aresto impugnado, notadamente quanto à tese de conduta dos agravados, à justa causa e à indevida fusão dos pleitos indenizatórios e consignatórios, demandaria o revolvimento do conjunto fático-probatório e contratual dos autos, providência vedada nesta sede especial a teor da Súmulas 5 e 7/STJ.
+Destarte, inviável a pretensão darecorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à multa.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF.REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
