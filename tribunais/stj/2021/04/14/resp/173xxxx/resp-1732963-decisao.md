@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Paraná, com amparo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 173):
+APELAÇÃO CÍVEL E RECURSO ADESIVO - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA - INTERPOSIÇÃO DE RECURSO DE APELAÇÃO INTEMPESTIVO E RECURSO ADESIVO PELO RÉU - OCORRÊNCIA DA PRECLUSÃO CONSUMATIVA - RECURSO ADESIVO NÃO CONHECIDO - CONCESSÃO DE DIÁRIAS DE VIAGEM - AUSÊNCIA DE COMPROVAÇÃO DAS DESPESAS - FALTA DE PRESTAÇÃO DE CONTAS - IMPROBIDADE ADMINISTRATIVA CONFIGURADA - SANÇÕES APLICADAS DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE - PREVISÃO NA LEI N0 8.429/92 - MANUTENÇÃO - RECURSO ADESIVO NÃO CONHECIDO E RECURSO DE APELAÇÃO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 204-211).
+Nas razões do especial, o recorrente sustenta violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015 (CPC/2015), ao argumento de que o acórdão combatido é omissão, pois não se manifestou sobre a tese de que a conduta do recorrido, além de configurar o ato de improbidade previsto no art. 11, VI, da LIA, pelo qual o demandado fora condenado, também se amolda aos tipos previstos nos arts. 9 e 10 da Lei n. 8.429/1992.
+Parecer do Ministério Público Federal pelo provimento do recurso especial (e-STJ, fls. 243-247).
+É o relatório.
+Assiste razão à parte insurgente no ponto em que sustenta violação dos arts. 489 e 1.022 do CPC/2015, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos interpostos pelo insurgente, revela que acórdão impugnadonão se manifestou sobre a alegação do parquet no sentido de a conduta do demandado se amoldar aos tipos previstos nos arts. 9º e 10 da Lei n. 8.429/1992.
+Por estar configurada a agressão ao disposto no art. 1.022 da legislação processual, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado pela via declaratória.
+Publique-se. Intimem-se.
