@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Clayton Cristiano Candido contra ato coator proferido pelo Tribunal de Justiça de São Paulo, que, nos autos do A gravo em Execução n. 0004316-90.2020.8.26.0637, negou provimento ao pleito defensivo, negando o direito à progressão a o regime semiaberto.
+O impe trante alega, em síntese, que obteve parecer favorável à progressão, tendo as instâncias ordinárias denegado o pedido com base em fundamento inidôneo.
+Pede, em caráter liminar e no mérito, a progressão ao regime semiaberto.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Juízo da execução indeferiu o pedido, delineando que (fls. 55/56 - grifo nosso):
+ ..
+Pelo que se verifica nos autos, o sentenciado cumpre penas que lhe foram impostas pela prática de diversos crimes, entre eles quatro crimes de roubo qualificado, um crime de roubo, cuja violência resultou em lesão corporal grave, além de um crime de extorsão mediante sequestro, na forma qualificada. Condenado a uma pena que supera 54 (cinquenta e quatro) anos de reclusão, resta-lhe, ainda, longa pena a descontar (término previsto para 26/2/2054).
+Ademais, da análise do relatório de fls. 29/30, verifica-se que o sentenciado ".. Assume as práticas delitivas a ele atribuídas, com crítica superficial, alegando dificuldades de ordem econômica. Apresenta crítica centrada nas perdas e restrições que tais atitudes imprimiram em seu contexto de vida, a partir da sua reclusão.", o que indica um certo egocentrismo. O profissional aponta, ainda, que, embora apresente planos futuros pautados em seu retorno ao convívio familiar e social e em exercer uma atividade laboral, os mesmos carecem de melhor elaboração para serem efetivados.
+Entendo que o sentenciado em questão é pessoa de altíssima periculosidade ao meio social, que precisa ser mais bem observada no regime fechado para, então, poder obter a progressão ao regime semiaberto. Desta forma, mostra-se necessário o sentenciado permanecer mais tempo no regime em que se encontra, para que reflita sobre a gravidade de seus atos e exercite a autodisciplina necessária para angariar o direito de cumprir a pena em regime mais brando.
+ ..
+Por sua vez, o Tribunal local denegou a ordem, em resumo, pelos seguintes fundamentos (fls. 60/61 - grifo nosso):
+ ..
+Quanto ao requisito subjetivo, apresentou atestado de bom comportamento carcerário (fls. 12).
+O incidente foi também instruído com Relatório Conjunto de Avaliação, subscrito por Assistente Social e pelos Diretores Técnicos da Saúde, Trabalho e Educação e Segurança e Disciplina do Estabelecimento Prisional, os quais se manifestaram favoravelmente ao benefício (fl. 24/25).
+Certificou-se que CLAYTON trabalhou na unidade prisional de 01.12.2016 a 26.04.2017 e de 01.04.2019 a 01.08.2019 com a costura de bolas e estudou de 01.02.2016 a 28.03.2016 e de 28.01.2020 até a data do parecer 29.04.2020 (fls. 26).
+Em parecer psicológico, constou que o sentenciado, "no momento, revela ego se reestruturando com agressividade e impulsividade sob controle. Está aprendendo a lidar com suas limitações e frustrações. Autocrítica positiva em relação aos seus delitos e planos futuros possíveis de realização. Ainda que se observem, na ocasião desta entrevista, qualidade pessoais desejáveis, não se pode afirmar que as mesmas sejam decorrentes da assimilação das medidas de prevenção e repressão do crime a que foi submetido no atual regime prisional, embora o próprio entrevistado admita que este tempo que esteve preso o levou a refletir sobre a responsabilidade que deve assumir perante seus familiares e a necessidade de fixar objetivos e metas a cumprir" (fls. 26/28).
+No mesmo tom cauteloso foram os apontamentos realizados pelo Assistente Social, observando que o recorrente: "Apresenta crítica centrada na perda e restrições que tais atitudes imprimiram em seu contexto de vida, a partir da sua reclusão.. Apresenta planos futuros pautados em seu retorno ao convívio familiar e social e exercer de uma atividade laboral, no entanto carecem de melhor elaboração para efetiva-los" (fls. 29/30).
+Ainda há registro de CLAYTON fugiu por duas vezes do sistema prisional e sua última falta grave, no ano de 2007, foi pela construção de túnel (fl. 17 e 26).
+Ao analisar os dados constantes dos autos da execução, o Juízo competente indeferiu o benefício pleiteado sob o fundamento de que o sentenciado foi condenado por crimes graves e violentos, além de ter sido reconhecido no parecer emitido pelo assistente social, que sua crítica sobre sua conduta é pobre e egoísta, reconhecendo e apontando apenas os prejuízos pessoais.
+Com efeito, o réu ainda tem longa pena por cumprir (até 2054), foi condenado por crimes cometidos com violência, classificados como hediondos quando ainda não era permitida a progressão de regime (daí porque preenchido o requisito objetivo por aplicação analógica da lei mais benéfica), devendo-se adotar extrema cautela quanto à apuração do momento oportuno para a concessão do regime de menor vigilância estatal.
+ ..
+Não se verifica constrangimento ilegal a ser reparado, uma vez que o benefício foi indeferido por ausência de requisito subjetivo, tendo, também, como fundamento o Relatório Conjunto de Avaliação, que, embora favorável ao paciente, trouxe elementos sopesados de modo a contrariar a pretensão de progressão de regime.
+Nos termos da jurisprudência deste Tribunal Superior, concretizada a realização da perícia, o resultado desfavorável pode ser em pregado pelo Magistrado para firmar sua convicção sobre o implemento do requisito subjetivo para o abrandamento do regime carcerário (HC n. 591.919/MS, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2020).
+Ademais, a estreita via do habeas corpus não se presta a contrariar o entendimento firmado pelas instâncias ordinárias acerca do preenchimento ou não do requisito subjetivo, dada a necessidade de incursão na seara fático-probatória, insuscetível nesta sede.
+Nesse sentido: HC n. 323.687/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/4/2016; e HC n. 274.477/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP, DJe 10/9/2015.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. AUSÊNCIA DO REQUISITO SUBJETIVO. ILEGALIDADE AUSENTE. PRECEDENTES. DISCUSSÃO SOBRE O TEOR DO EXAME. INVIABILIDADE NA ESTREITA VIA DO WRIT. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA.
+Writ indeferido liminarmente.
