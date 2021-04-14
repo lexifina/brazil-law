@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Banco Bradesco S.A. contra os acórdãos de fls. 290-301 e 317-322 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementados:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE PROCEDIMENTO DE LEILÃO EXTRAJUDICIAL C/C REVISIONAL DE CONTRATO C/C PEDIDO DE TUTELA DE EVIDÊNCIA - CÉDULA DE CRÉDITO BANCÁRIO DE CAPITAL DE GIRO - PRINCÍPIO PACTA SUNT SERVANDA- IMPOSSIBILIDADE DE QUE SEJAM ACOBERTADAS IRREGULARIDADES E ABUSIVIDADES - JUROS REMUNERATÓRIOS FIXADOS DE ACORDO COM A TAXA MÉDIA DE MERCADO VIGENTE À ÉPOCA DA ASSINATURA DO CONTRATO - TARIFA TAC - IMPOSSIBILIDADE DE COBRANÇA - ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL EM GARANTIA PARA CÉDULA DE CRÉDITO BANCÁRIO CAPITAL DE GIRO - IMPOSSIBILIDADE - DESVIRTUAMENTO DO ESCOPO DA LEI - ADSTRIÇÃO AO SISTEMA FINANCEIRO IMOBILIÁRIO - RECURSOCONHECIDO E DESPROVIDO.
+1 - O princípio "pacta sunt servanda" não é absoluto, devendo ser interpretado de forma relativa, em virtude do caráter público das normas violadas no contrato
+2 - Se os juros remuneratórios contratados excedem a taxa média de mercado geral, fixada pelo Banco Central do Brasil, fica autorizada a revisão contratual, para reduzi-los ao patamar legal, conforme tabelado Bacen.
+3 - Somente se admite a incidência da Tarifa de Abertura de Cadastro (TAC) quando baseadas em contratos celebrados até 30 de abril de 2008 (data em que entrou em vigência a Resolução CMN3.518/2007), que contenham cláusula prevendo sua cobrança expressamente.
+4 - A alienação fiduciária de imóveis não é privativa do Sistema Financeiro Imobiliário, entretanto, referida conclusão não induz à assertiva de que a excussão extrajudicial poderá ser aplicada aos contratos de mútuo, que, como se sabe, tratam de fornecimento de bens móveis fungíveis, ou seja, dinheiro, sob pena de desvirtuamento do instituto. Como a alienação fiduciária de bens imóveis prevista na Lei nº 9.514/97 tem como finalidade fomentar o financiamento de bens imóveis (para sua aquisição, reforma ou edificação), com vistasa facilitar que o maior número de pessoas tenham acesso ao direito à moradia, constitucionalmente garantido (art. 6º) e que o caso dos autos trata-se de contrato de crédito bancário/ capital de giro não relacionado ao sistema financeiro imobiliário, inaplicável o procedimento extrajudicial de expropriação previsto na referida lei.
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃOCÍVEL - INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADEOU OMISSÃO - REDISCUSSÃO DA MATÉRIA DECIDIDA -PREQUESTIONAMENTO - VEDAÇÃO - EMBARGOSREJEITADOS.
+1 - Não padece de vício a decisão apenas porque, sob a ótica particulardo próprio interessado a respeito da valoração jurídica dos fatos e dasprovas, a solução haveria de ter sido diferente daquela adotada peloEstado-Juiz, porquanto a rediscussão do mérito de decisum viaaclaratórios não encontra amparo na legislação processual vigente.
+2- Mesmo na hipótese de prequestionamento da matéria, airresignação apresentada a exame deve encontrar abrigo em uma dashipóteses do artigo 1.022 do Código de Processo Civil. Oprequestionamento pressupõe debate e decisão quanto à matéria, desorte que a manifestação expressa sobre normativo é prescindível.
+Nas razões do recurso especial (e-STJ, fls. 324-337), aponta oinsurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 22, parágrafo único, da Lei 9.415/1997; e 51 da Lei 10.931/2004.
+Sustenta, em síntese, a validade da cláusula de alienação fiduciáriano contrato de financiamento de capital de giro.
+Contrarrazões às fls. 352-364 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 367-371), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, contata-se que o Tribunal de origem concluiu pela inaplicabilidade da alienação fiduciária de imóvel no contrato de financiamento de capital de giro.
+Veja-se à fl. 300 (e-STJ):
+Portanto, como a alienação fiduciária de bens imóveis prevista na Lei nº 9.514/97 tem como finalidade fomentar o financiamento de bens imóveis (para sua aquisição, reforma ou edificação), com vistas a facilitar que o maior número de pessoas tenham acesso ao direito à moradia, constitucionalmente garantido (art. 6º) e que o caso dos autos trata-se de contrato de crédito bancário/ capital de giro não relacionado ao sistema financeiro imobiliário, inaplicável o procedimento extrajudicial de expropriação previsto na referida lei. Logo, nula a garantia outorgada no contrato sub judice firmado entre as partes, razão por que, neste aspecto, também não prospera a irresignação recursal.
+O recorrente, por sua vez, defende a validade da cláusula de alienação fiduciária contida no contrato de financiamento de capital de giro.
+Com razão o recorrente, pois a jurisprudência desta Corte é no sentido da validade da cláusula de alienação fiduciária em qualquer obrigação pecuniária.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA SOBRE BEM IMÓVEL. DESVIO DE FINALIDADE. AUSÊNCIA.
+1. É legítima a celebração de contrato de alienação fiduciária de imóvel como garantia de toda e qualquer obrigação pecuniária, podendo inclusive ser prestada por terceiros, não havendo que se cogitar de desvio de finalidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no AREsp 772.722/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/04/2017, DJe 25/04/2017).
+Dessa forma, o acórdão recorrido não expressou o entendimento deste Tribunal, razão pela qual merece reforma.
+Diante do exposto, conheço do recursoespecial e dou-lhe provimento parareconhecera validade da cláusula de alienação fiduciária no contrato de financiamento de capital de giro. Retornemos autos à origem para prosseguimento do feito.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE PROCEDIMENTO DE LEILÃO EXTRAJUDICIAL C/C REVISIONAL DE CONTRATO C/C PEDIDO DE TUTELA DE EVIDÊNCIA. VALIDADE DA CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA NO CONTRATO DE FINANCIAMENTO DE CAPITAL DE GIRO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
