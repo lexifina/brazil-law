@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo da Fazenda do Estado de São Paulo e outro contra decisão da Corte de origem que inadmitiu o recurso especial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (e-STJ fl. 258):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada em condições de vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Recurso parcialmente provido.
+Devolvidos os autos ao Órgão julgador para que pudesse exercer o juízo de retratação, este manteveo acórdão anterior, nestes termos (e-STJ fl. 355):
+AÇÃO ORDINÁRIA - Devolução dos autos em cumprimento à regra do artigo 1.040, II, do CPC - Julgamento do Recurso Especial nº 1.495.146/MG, no qual o Superior Tribunal de Justiça entendeu que as condenações judiciais de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/06, que incluiu o art. 41-A na Lei nº 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09) - Paradigma do qual não se afastou o v. acórdão proferido pela E. 7ª Câmara de Direito Público, no que concerne aos juros de mora - Acórdão que, no julgamento da apelação, ao tratar da correção monetária, revelou-se em conformidade com o paradigma do STF, pelo que fica mantido - Recurso restituído à Egrégia Presidência da Seção de Direito Público, nos termos do art. 1.041, caput, do CPC.
+No apelo especial, as recorrentes alegam violação dos artigos 1ºe 9º, do Decreto 20.910/1932e 5º da Lei 11.960/2009,sob os seguintes argumentos:
+(a)ocorrência da prescrição da ação;
+(b) a impetração de writ por terceira pessoa não é medida proposta pelo devedor apta a interromper a prescrição da cobrança de valores, sendo que a ação mencionada não foi proposta pelos autores, não sendo ato por eles praticados para lhes beneficiar em termos de interrupção da prescrição, porquanto não afastou sua desídia através de ato judicial como previsto no art. 202 do Código Civil; e
+(c) "os índices da caderneta poupança continuam ser aplicados para fins de atualização monetária nas condenações impostas à Fazenda Pública até a expedição do requisitório" (e-STJ fl. 291).
+Contrarrazões apresentadas (e-STJ fls. 328-345).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Contraminuta apresentada (e-STJ fls. 393-404).
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recurso em apreço não merece prosperar.
+Registre-se que, no tocante às alegações das recorrentes quanto aos critérios de correção monetária e juros de mora incidentes sobre os valores devidos, após o sobrestamento do feito, a decisão de e-STJ fls. 361-362negou seguimento ao recurso especial, e não foi objeto de irresignação, razão pela qual o apelo, quanto ao ponto, não merece apreciação.
+Quanto à questão atinente à prescrição e à alegada ofensa aos arts. 1º e 9º do Decreto 20.910/1932, registrou o Tribunal de origem que (e-STJ fls. 270-272):
+ ..
+Narram os autores, policiais militares inativos e pensionistas, que, por força de mandado de segurança coletivo impetrado pela Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo (Autos nº 0600592-55.2008.8.26.0053), viram reconhecido o direito à incorporação do ALE a proventos de aposentadoria e pensões, nos termos de acórdão desta E. 7ª Câmara de Direito Público..
+ ..
+E a contagem do lustro prescricional de que cuida a norma do artigo 3º do Decreto n.º 20.910/32, por certo, dar-se-á, retroativamente, a partir da data do mandado de segurança coletivo, porquanto o direito à vantagem lá se viu reconhecido, não se tratando, por isto, de hipótese de suspensão de prazo prescricional.
+Evidente, a propósito, está a inaplicabilidade da regra doartigo 3º do Decreto-lei nº 4.597/42 à espécie, pois, se o direito à ação de cobrança nasceu com o mandado de segurança, a prescrição, desde a actio nata, corre por inteiro, e não pela metade.
+Do que se observa, a conclusão alcançada pelo Tribunal local está em sintonia com o entendimento dominante no âmbito desta Corte Superior acerca da matéria, segundo o qual a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, o qual somente volta a fluir com o trânsito em julgado do mandamus, para fins de cobrança das parcelas referentes ao quinquênio que antecedeu a sua propositura (AgRg no AREsp 122.727/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/9/2012).
+No mesmo sentido, recente julgado da Primeira Turma deste e. STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPLEMENTAÇÃO DE PENSÃO. PARCELAS PRETÉRITAS AO AJUIZAMENTO DO MANDAMUS. PRESCRIÇÃO. TERMO INICIAL.
+1. O acórdão recorrido está em sintonia com a orientação jurisprudencial do STJ, segundo a qual a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ (AgRg no AREsp 122727/MG, relator Ministro HERMAN BENJAMIN, DJe 11/9/2012).
+2. Agravo interno a que se nega provimento (AgInt no AREsp 1.047.834/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/6/2017).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro em 5% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. POLICIAIS MILITARES ATIVOS, INATIVOS E PENSIONISTA. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
