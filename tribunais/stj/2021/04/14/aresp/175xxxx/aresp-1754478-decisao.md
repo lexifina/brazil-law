@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Rondonópolis contra decisão que não admitiu o recurso especial com fundamentonos óbices das Súmula 282 e 284do STF.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado, com amparo na alínea "a" do permissivo constitucional, em oposição a acórdão assim ementado (e-STJ, fls. 329-330):
+CONSTITUCIONAL E ADMINISTRATIVO - APELAÇÃO - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - MUNICÍPIO DE RONDONÓPOLIS - CARGO DE TÉCNICO DE ENFERMAGEM - COMPROVADA A NECESSIDADE DE PREENCHIMENTO DE VAGA - CARGO EM COMISSÃO - ILEGALIDADE - PRETERIÇÃO DE CANDIDATO APROVADO - RECURSO PROVIDO.
+A Administração Pública somente poderá contratar para cargo em comissão quando estes possuírem as atribuições de direção, chefia e assessoramento.
+A nomeação de servidor para cargo em comissão para o exercício das mesmas funções previstas no edital do concurso no qual a apelante concorreu, evidencia não só a necessidade de vagas como também a realização do certame para o preenchimento destas.
+Decorre daí o direito da apelante em ser nomeada de acordo com a ordem de classificação, número de cargos vagos e validade do certame.
+Os embargos de declaração opostos foram parcialmente acolhidos (e-STJ, fls. 351-352):
+EMBARGOS DE DECLARAÇÃO  MANDADO DE SEGURANÇA  HONORÁRIOS ADVOCATÍCIOS  INDEVIDO  CONTRADIÇÃO RECONHECIDA  EMBARGOS CONHECIDO E PARCIALMENTE ACOLHIDO.
+1. Se no acórdão há o vício apontado pela embargante, o recurso de embargos de declaração deve ser acolhido para ser corrigido.
+2. "Conforme prelecionam o art. 25, da Lei nº 12.016/09, a Súmula 105, do Superior Tribunal de Justiça, e a Súmula 512, do Supremo Tribunal Federal, não é cabível, na ação de mandado de segurança, a condenação ao pagamento de honorários advocaticios".
+(N.0 0042327-63.2014.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 14/05/2019, Publicado no DJE 21/05/2019).
+Nas razões do especial, o recorrente alega violação dos arts. 489, 1.021, § 3º, 1.022 do Código de Processo Civil de 2015 (CPC/2015), sustentando que o acórdão é incongruente entre a causa de pedir utilizada para fundamentar a nomeação (desistência de candidatos melhores classificados) e o fundamento da decisão (contratação de supostamente 89 enfermeiros irregularmente).
+Aponta malferimento dos arts. 326 e 492 do CPC/2015, ao argumento de que a causa de pedir e o que foi decidido pelo acórdão são divergentes.
+Ressalta que cabe ao juiz decidir conforme lhe foi pedido.
+Aduz contrariedade ao art. 1º da Lei n. 12.016/2009, afirmando que o provimento do direito da recorrida depende de dilação probatória.
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ, fls. 420-429).
+É o relatório.
+Inicialmente, não prospera a tese de violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Veja-se (e-STJ, fls. 353-354):
+Com relação a fundamentação diversa da causa de pedir, verifico que razão não assiste ao Embargante, a fundamentação utilizada para garantir o direito do Embargado foi enfrentado na sentença, vejamos:
+Sustenta que o impetrado nomeou para exercer o cargo em Comissão de Enfermeiro do Programa de Saúde da Família  PSF mais de 89 pessoas, conforme faz prova as nomeações e a Relação de Servidores Ativos, retirada do Portal de Transparência, de modo que a vaga da impetrante, garantida por concurso público, está sendo ocupada de maneira indevida e ilegal.
+Acrescenta que estando a impetrante classificada na 38a posição e tendo o impetrado nomeado e/ou contratado de forma precária e ilegal, a quantidade de 89 Enfermeiros nomeados em comissão, com a denominação Enfermeiro da Família, nasceu para aquela o direito subjetivo à nomeação.
+Aliado a isso, é certo que a matéria foi debatida no recurso de Apelação remetida a este Tribunal, bem como foi contrarrazoada pelo Embargante, sem qualquer impugnação quanto a causa de pedir, como se vê:
+Embora a autora afirme que houve a contratação de 89 enfermeiros nomeados em comissão, denota-se que o concurso ainda está dentro do seu prazo de validade, como baste informar que essa contratação se baseia no programa de saúde família (PSF), e essas contratações se deriva desse programa do governo federal, não aferindo então as vagas realizadas pelo concurso desta municipalidade.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele proposto, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+Relativamente ao argumento de violação do princípio da congruência, o Tribunal de origem assim se manifestou (e-STJ, fls. 353-354):
+Com relação a fundamentação diversa da causa de pedir, verifico que razão não assiste ao Embargante, a fundamentação utilizada para garantir o direito do Embargado foi enfrentado na sentença, vejamos:
+Sustenta que o impetrado nomeou para exercer o cargo em Comissão de Enfermeiro do Programa de Saúde da Família  PSF mais de 89 pessoas, conforme faz prova as nomeações e a Relação de Servidores Ativos, retirada do Portal de Transparência, de modo que a vaga da impetrante, garantida por concurso público, está sendo ocupada de maneira indevida e ilegal.
+Acrescenta que estando a impetrante classificada na 38a posição e tendo o impetrado nomeado e/ou contratado de forma precária e ilegal, a quantidade de 89 Enfermeiros nomeados em comissão, com a denominação Enfermeiro da Família, nasceu para aquela o direito subjetivo à nomeação.
+Aliado a isso, é certo que a matéria foi debatida no recurso de Apelação remetida a este Tribunal, bem como foi contrarrazoada pelo Embargante, sem qualquer impugnação quanto a causa de pedir, como se vê:
+Embora a autora afirme que houve a contratação de 89 enfermeiros nomeados em comissão, denota-se que o concurso ainda está dentro do seu prazo de validade, como baste informar que essa contratação se baseia no programa de saúde família (PSF), e essas contratações se deriva desse programa do governo federal, não aferindo então as vagas realizadas pelo concurso desta municipalidade.
+Da leitura do acórdão recorrido, dessume-se que a Corte regional dirimiu a controvérsia com base no acervo provatório. Desse modo, a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante a Súmula 7 do STJ.
+Por fim, as matérias referentes aos arts.1.021, § 3º, do CPC/2015 e 1º da Lei n. 12.016/2009não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse aspecto, confira-se o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ. 3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+4. Agravo regimental não provido. (AgRg no AREsp n. 15.180/PR, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 10/5/2013).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
