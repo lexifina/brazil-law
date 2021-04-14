@@ -1,0 +1,43 @@
+DECISÃO
+JOÃO PEDRO DA SILVA ALMEIDAalega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de Minas Geraisno Habeas Corpus n.1.0000.20.597280-5/000.
+Nesta impetração, a defesa pretende o abrandamento do regime e a revogação da prisão preventiva. Para tanto, aduz que foi fixado oregime fechado, mais rigoroso, sem a devida fundamentação e que não estão presentes os requisitos para a manutenção da custódia cautelar. Sustenta que o paciente tem residência fixa, trabalho lícito, esposa e dois filhos menores.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+Extrai-se dos autos que o réu foi condenado a 1 anoe 6 meses de reclusão e 6 dias-multa, em regime inicial fechado, pela prática do delito tipificado no art. 155, § 4º, I, c/c o art. 14, II,do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal estadual, com a pretensão de alterar o regime de cumprimento da pena e de assegurar o direito do réu recorrer em liberdade, cuja ordem foi denegada.
+I.Regime prisional
+Inicialmente, constato que a questão relativa à fixação do regime prisional mais gravososem a devida motivaçãonão foi apreciada pelo Tribunal de origem, a respeito do qual se manifestou (fl. 15, grifei):
+Ab initio,quanto à irresignação defensiva atinente à alteração do regime de pena fixado em sentença, insta advertir que o habeas corpus não se presta a substituir meio hábil a corrigir a decisão combatida, não servindo como sucedâneo recursal.
+Insta salientar não comportar o habeas corpus exame de questões atinentes à aplicação da pena, o que desafia recurso próprio de apelação, ao menos que se constate flagrante nulidade:
+ ..
+Desse modo, fica vedada a apreciação da matéria por esta Corte Superiorsob pena de indevida supressão de instância.
+II. Direito de recorrer em liberdade
+Sobre a manutenção da prisão preventiva, com a vedação de recorrer em liberdade,noto que o Magistrado de primeiro grau justificou a necessidade da medidanos seguintes termos (fls. 47-48, destaquei):
+Recurso em Liberdade: Constata-se estarem presentes motivos suficientes à manutenção da custódia preventiva anteriormente decretada, consubstanciados pelos pressupostos à prisão ("fumus commissi delicti"), os quais se encontram relacionados na fundamentação deste julgado (materialidade e autoria) e, ainda, à vista da presença de fundamento à reprimenda legal ("periculum libertatis"), o qual se revela para garantir a ordem pública.
+Nesta quadra, o risco de reiteração delitiva é evidente ante a reincidência e maus antecedentes do acusado.
+Não obstante, tem-se informações do Presídio local indicando que o acusadovem exercendo liderança negativa junto aos demais detentos, liderando todo o pavilhão,bem como que integraria organização criminosa, indicando sua concreta periculosidadede modo que permanecem íntegros os fundamentos da decisão que decretou a prisão preventiva do acusado.
+O fato de possuir filhos menores em nada influi na manutenção da prisão preventiva do acusado, tendo em vista a sua concreta periculosidade e da patente possibilidade de reiteração delitiva, sendo certo que não há nos autos nada que comprove ser ele o único responsável pelos cuidados das crianças.
+Com efeito, o registro do filho recém-nascido pode ser buscado administrativamente junto ao Presídio em que ele se encontrar e, em caso de impossibilidade, judicialmente, não sendo motivo suficiente para revogação da prisão preventiva quando presentes seus requisitos autorizadores.
+Assim, mantidos presentes os requisitos para a decretação da prisão preventiva do acusado, inviável a concessão do direito de recorrer em liberdade.
+A jurisprudência desteTribunal Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a prisão cautelar do paciente, porquanto contextualizaram, em dados dos autos, a sua necessidade.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal. Indicou, de forma fundamentada, agora já com a prolação da sentença, a materialidade e a autoria delitivas, além da necessidade de garantia da ordem pública,porquanto demonstradoo fundado risco de reiteração delitiva do paciente, reincidente específico em crimes contra o patrimônio -ostenta quatro condenações transitadas em julgado (fl. 47). Destacou, ainda, a periculosidade do agente, que tem exercido liderança negativa no pavilhão do presídio onde está custodiado, além de integrar organização criminosa.
+O Tribunal de origem asseverou que o acusado é "reincidente específico em crime de furto, aforapossuir condenação pela prática do delito de roubo duplamente qualificado, conforme FACde fls. 01/22 do documento de ordem 23, fazendo-se insuficientes as medidas cautelares alternativas à prisão previstas no art. 319 do CPP" (fls. 15-16).
+Nesse sentido:
+ ..
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão foi decretada em razão da gravidade concreta dos inúmeros fatos imputados ao ora agravante, evidenciada pelo modus operandi empregado; ele se valia da função de confiança que exercia na empresa vítima para realizar os crimes que lhe foram imputados. Destacou também o decreto prisional a periculosidade do agravante, revelada pelos maus antecedentes criminais, bem como pelo fato de ter perseverado na prática delitiva na empresa vítima, mesmo após ter sido demitido. Dessa forma, justifica-se a imposição da prisão preventiva para a garantia da ordem pública e a fim de evitar a reiteração delitiva por parte do acusado.
+3. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, tendo em vista o já mencionado histórico delitivo do agravante.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no HC 604.770/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2021, DJe 24/03/2021)
+ ..
+1. A análise das teses relativas à ausência de materialidade delitiva e de animus necandi no comportamento do Acusado, bem como o pleito de desclassificação da conduta para o delito de lesões corporais, demanda o revolvimento do conjunto fático-probatório do processo criminal, o que é inviável na via eleita.
+2. A custódia cautelar encontra-se devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, pois as instâncias ordinárias ressaltaram que o delito atribuído ao Recorrente - tentativa de feminicídio - foi praticado com violência extremada, após a invasão do domicílio da Vítima, que foi submetida, por duas horas, a agressões psicológicas e físicas que lhe causaram várias lesões corporais por todo o corpo, inclusive sangramento no couro cabeludo, nariz e orelha. Tal circunstância evidencia a gravidade concreta da conduta e a periculosidade do Agente, a justificar a imposição da medida constritiva para garantia da ordem pública.
+3. Além disso, o Juízo singular afirmou que o Recorrente " ..  não retrata uma pessoa neonata no mundo processual penal. Seu histórico criminal, provisoriamente alimentado por sua folha de antecedentes, demonstra deter um certa bagagem criminal", a denotar o risco concreto de reiteração delitiva.
+4. Nesse contexto, considerando-se a gravidade da conduta e o risco concreto de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, incisos I e II, do Código de Processo Penal.
+5. A irresignação embasada na Recomendação n. 62/2020 do Conselho Nacional de Justiça e as alegações de ausência de revisão recente da necessidade da prisão cautelar, de excesso de prazo e de falta de contemporaneidade e proporcionalidade da medida extrema não foram debatidas no aresto impugnado, de modo que as matérias não podem ser conhecidas originariamente por esta Corte, sob pena de supressão de instância.
+6. Recurso ordinário em habeas corpus parcialmente conhecido e, nessa parte, desprovido. Pedido de reconsideração prejudicado.
+(RHC 125.165/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/03/2021, DJe 26/03/2021)
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
