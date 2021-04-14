@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO DETÍTULO EXTRAJUDICIAL. EFEITO SUSPENSIVO. NÃO PREENCHIDAS AS CONDIÇÕESLEGAIS.
+1. Agravo de Instrumento manejado pelo Particular com o fim de reformar decisão do Juízo a quo, que indeferiu o pedido de efeito suspensivo dos Embargos à Execução.
+2. A parte alega, em síntese, que o Magistrado Singular não aplicou as normas substantivas e processuais ao caso concreto, expondo a Agravante a um risco grave e de difícil reparação, haja vista que se trata de uma execução fadada ao insucesso, pois no presente caso deveria ter sido ajuizada uma Ação de Conhecimento pelo detentor do título executivo, o que ensejaria uma situação menos gravosa ao devedor, que poderia exercer a sua defesa com maior amplitude. Requer seja flexibilizada a necessidade da garantia da execução para a concessão do efeito suspensivo aos Embargos.
+3. Trata-se, na origem, de Embargos à Execução de Título Extrajudicial fundamentado em Termo de Reconhecimento de Dívida em que o ora Agravante se comprometeu a pagar para a União o valor de R$9.487,52, referente aos saques indevidos na conta corrente de ex-pensionista após o óbito desta última.
+4. A jurisprudência do Egrégio STJ firmou entendimento no sentido de que a atribuição do efeito suspensivo aos Embargos do Devedor passou a depender de decisão judicial e do cumprimento de determinados requisitos, quais sejam: (a) requerimento da parte; (b) relevância dos fundamentos apontados; (c) risco de dano de difícil ou incerta reparação e (d) garantia do juízo por meio da penhora, depósito ou caução. Precedente: (STJ - REsp 201202321155,Terceira Turma, Rel. Ministra Nancy Andrighi, DJe 30/04/2013).
+5. A atribuição de efeito suspensivo aos Embargos do Devedor deixou de ser decorrência automática de5.seu simples ajuizamento. (STJ - AGAREsp 201200287303,Segunda Turma, Rel. Ministro Herman Benjamin, DJe 22/05/2012).
+6. Com o advento do Novo Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015), a questão passou a ser tratada no art. 919, que mantém, como regra geral, o processamento dos embargos à execução sem atribuição do efeito suspensivo.
+7. Assim, a atribuição de efeito suspensivo aos Embargos à Execução permanece sendo prevista como exceção à regra e não o oposto.
+8. Não há elementos para a atribuição do efeito suspensivo aos Embargos, ante a ausência da demonstração efetiva de risco de dano de difícil ou incerta reparação, bem como pela falta de garantia do juízo. Agravo de Instrumento improvido.
+Os Embargos de Declaração foram desprovidos.
+A parte recorrente alega:
+Da simples análise da decisão recorrida, verifica-se que o Tribunal a quo não se manifestou expressamente sobre a justiça gratuita requerida pelo Recorrente e muito menos apresentou suficiente fundamentação para manter a decisão proferida no Juízo a quo e que negou o efeito suspensivo aos Embargos à Execução, o que, em um primeiro momento, essa questão não poderia ensejar recurso especial, por falta de prequestionamento.
+(..)
+Não há dúvidas de que a situação reclamava a adoção de providência urgente do Tribunal a quo, porque a suspensão da ação de execução manejada pelo Recorrido configurava, como de fato configura, ÚNICA alternativa viável de impedir que os bens do Recorrente seja submetido a uma excussão indevida o que, sem dúvidas, causará prejuízo grave e de incerta reparação, sobretudo considerando que os atos de constrição são medidas oriundas da própria execução.
+Destarte, restou ao ora Recorrente interpor o presente Recurso Especial pelo Art. 105, III, alínea "a", enfocando, também, a violação ao art. 1.022, do CPC.
+IV. DA INFRINGÊNCIA À LEI FEDERAL - NEGATIVA DE VIGÊNCIA AOS ARTS. 3º, 300, 783, 803, I, E 919, PARÁGRAFO ÚNICO, TODOS DA LEI FEDERAL 13.105/2015
+(..)
+Entretanto, a decisão recorrida, em completa dissonância com o texto da legislação Federal acima citado, asseverou que: "a atribuição de efeito suspensivo aos Embargos à Execução permanece sendo prevista como exceção à regra e não o oposto" e ainda "nada obstante, não há elementos para a atribuição do efeito suspensivo aos Embargos, ante a ausência da demonstração efetiva de risco de dano de difícil ou incerta reparação, bem como pela falta de garantia do juízo.".
+(..)
+Em que pesem as considerações tecidas pela Recorrida, tem-se que a execução manejada pela Recorrida encontra-se fadada ao completo insucesso, não convergindo com a realidade fática, tampouco com as peculiaridades e requisitos da ação executiva.
+(..)
+Ora, verifica-se que o fato de o "pedido de reversão bancária" realizado pela Capitania dos Portos ao Banco do Brasil não ter sido atendido pela referida instituição financeira não dá à União o direito de cobrar os valores retidos ao Recorrente, com base em simples "Termo de Confissão" assinado mediantepressão e indução ao erro.
+(..)
+Tem o Recorrente pleno conhecimento de que sua absolvição criminal por ausência de tipicidade da conduta não implica automática dispensa do ressarcimento dos valores discutidos. (porém, se há discussão, não há liquidez). É claro que, comprovados os saques de benefício após o óbito da pensionista, superiores ao proporcional dos 18 (dezoito) dias de vida, ainda que sem emprego de meio fraudulento ou intenção de lesar o erário, impõe-se a devolução à Administração Pública, contudo, não no valor pretendido pela união, posto que, este sim, indevido.
+Inobstante o Art. 784, II do NCPC reconhecer como título executivo o documento produzido por autoridade pública, assinado pelo devedor, é de se observar que a admissão da ação executiva exige, além da natureza do título executivo que embasa a ação a análise de outros requisitos, tais como a certeza, a liquidez e a exigibilidade, sob pena de ser reconhecida a nulidade da execução (arts. 783 e 803, I, do NCPC).
+(..)
+Ante os fatos evidenciados, resta evidente que o fumus boni iuris, ou a probabilidade do direito está evidenciado nos documentos acostados aos autos e até mesmo na própria conclusão a que chegou a Justiça Militar, os quais demonstram de forma inequívoca que o Recorrente em nada se beneficiou dos valores sacados, tendo sido estes totalmente direcionados para despesas que a curatelada havia deixado.
+(..)
+Logo, caso a Execução indevida não seja suspensa, não se poderá impedir que a Recorrente tenha o seu patrimônio dilapidado indevidamente, de nada adiantando discussão no tocante a validade do título exequendo ou, até mesmo, do efetivo quantum debeatur, se apresentando como inócua a presente medida, o que representa risco ao resultado útil do processo.
+(..)
+Desta forma, requer-se a reforma do acórdão, reconhecendo-se a necessidade de atribuir efeito suspensivo aos Embargos de Execução de nº 0816193-80.2018.4.05.8300 e, via de consequência, à ação de execução de título extrajudicial de nº 0811368-93.2018.4.05.8300 manejado pela ora Recorrida, visto estarem presentes todos os requisitos autorizadores à concessão da referida tutela, sobretudo porque, comprovadamente, sofre a Recorrente risco de ter seu patrimônio dilapidado indevidamente.
+V. DA INFRINGÊNCIA À LEI FEDERAL - NEGATIVA DE VIGÊNCIA AOS ARTS. 98, 99, §3º, 489, §1º, IV e 1.022, TODOS DA LEI FEDERAL 13.105/2015
+(..)
+Logo, restando demonstrado que houve omissão no tocante o requerimento de justiça gratuita formulado pelo Recorrente, é de se requerer seja o referido vício sanado, com vistas a garantir ao Recorrente a isenção de todas as despesas decorrentes do processo em epígrafe, notadamente no que diz respeito às custas recursais e a oferta de garantia nos autos dos Embargos à Execução, por carecer o Recorrente de meios de prover referida despesa.
+Foram apresentadas Contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.4.2021.
+A parte recorrente apresenta preliminar de ocorrência de violação do art. 1.022 do CPC/2015 alegando: a) não foram enfrentados os tópicos relativos à dispensa da garantia do juízo e a correlacionada pretensão de concessão do benefício da Gratuidade da Justiça; e b) o decisum recorrido não "apresentou suficiente fundamentação para manter a decisão proferida no Juízo a quo e que negou o efeito suspensivo aos Embargos à Execução".
+Com relação ao item "b" acima, não há como dele conhecer, pois a fundamentação é genérica e não aponta qual elemento não foi ponderado pelo Tribunal de origem, que assentou expressamente não ser possível dar efeito suspensivo aos Embargos á Execução por falta de demonstração efetiva de risco de difícil e incerta reparação e pela falta de garantia do juízo.
+Aplica-se sobre o tópico a Súmula 284/STF, ante a deficiência da fundamentação.
+No que concerne ao item "a" antes referido, tenho que a omissão persiste, pois o Tribunal de origem não examinou o pedido de Gratuidade da Justiça e a dispensa de garantia do juízo, que pode ser declarada com base no art. 98, § 1º, VIII, do CPC/2015.
+Importante o retorno ao Tribunal de origem para sanar a relevante omissão e para também analisar outros elementos de fato e de direito dos autos, como, por exemplo, a alegação da União, alegada na resposta aos Embargos de Declaração, de que houve preclusão da matéria relativa ao benefício da Justiça Gratuita.
+Diante do exposto, conheço parcialmente do Recurso Especial relativamente à preliminar de nulidade do acórdão dos Embargos de Declaração, para, nessa parte, dar-lhe provimento, de forma a retornar os autos à origem para sanar as omissões antes apontadas, ficando prejudicadaa análise das questões de mérito do Recurso Especial.
+Publique-se.
+Intimem-se.
