@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE VITÓRIA DE SANTO ANTÃO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+ADMINISTRATIVO E PREVIDENCIÁRIO. AGRAVO LEGAL. AÇÃO DE COBRANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO MUNICÍPIO DE VITÓRIA DE SANTO ANTÃO. REJEITADA. JUROS DE MORA A PARTIR DA CITAÇÃO. SÚMULA 69 DO TJPE. REDISCUSSÃO DA MATÉRIA. PRECEDENTES UNÂNIMES DOS TRIBUNAIS.
+Quanto à controvérsia, alega violação do art. 3º do CPC/73, no que concerne à ilegitimidade passiva do município recorrente quanto aos descontos indevidos a título de contribuição previdenciária do Regime Próprio de Previdência, trazendo os seguintes argumentos:
+No caso dos autos, o Município da Vitória de Santo Antão é parte ilegítima para figurar no polo passivo da demanda, haja vista que, após o repasse, o ganho financeiro da verba debitada em folha foi da autarquia - VITÓRIA PREV.
+O VITÓRIA PREV é uma autarquia municipal instituída pela lei no 3.188/2006 e que integra a Administração indireta, sendo portadora de personalidade jurídica própria em relação ao Município da Vitória de Santo Antão. Desta forma, diante da autonomia administrativa e financeira que possui esta autarquia deverá responder em nome próprio e através do patrimônio que lhe é peculiar, não se confundindo com o patrimônio da Municipalidade.
+Com efeito, a supramencionada entidade deverá responder em nome próprio e através do patrimônio que lhe é peculiar, tendo em vista sua autonomia administrativa e financeira. Verifique-se:
+"Art. 23. Fica criado, no âmbito da Administração Municipal, o Instituto de Previdência dos Servidores Municipais de Vitoria de Santo Antão - VITÓRIA PREV, entidade autárquica de direito público, dotada de personalidade jurídica própria, com sede e foro em Vitória de Santo Antão, Pernambuco".
+ ..
+Verifica-se, ao compulsar a lei nº. 3.188, que não há como atribuir ao recorrente o dever de responder pelos valores repassados ao Fundo Próprio por simples falta de interesse e legitimidade. (fls. 224/225)
+É, no essencial, o relatório. Decido.
+Na espécie, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; e AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
