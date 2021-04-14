@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 1.843):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. CASSAÇÃO DE APOSENTADORIA. INDEPENDÊNCIA DAS ESFERAS PENAL, CIVIL E ADMINISTRATIVA. AFRONTA AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA, ATO JURÍDICO PERFEITO E DIGNIDADE DA PESSOA HUMANA. NÃO OCORRÊNCIA. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. RECURSO NÃO PROVIDO.
+O embargante, aduzindo a ocorrência de omissão, pugna pela nulidade do referidodecisumpois, segundo alega, inexistiu intimação perante a Imprensa Oficial dando conta e publicidade da pauta de julgamento, o que impossibilitou o causídico de sustentar oralmente a tese recursal, em visível cerceamento de defesa.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Segundo prescreve o artigo34, XVIII, "b", do RISTJ, compete ao relator"negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante acerca do tema".
+No caso, essa relatoria negou provimento ao recurso em comento, em decisão monocrática que, sabidamente, independe de pauta, donde se conclui que, ao contrário do afirmado pelo embargante, não há falar em cerceamento de defesa.
+Ressalte-se, que o decisumembargado, de forma clara e fundamentada, consignou que:(i)a jurisprudência desta Corte reconhece a independência das esferas penal, civil e administrativa, de modo que o reconhecimento da transgressão disciplinar e a aplicação da punição respectiva não dependem do julgamento no âmbito criminal, nem obriga a Administração a aguardar o desfecho dos demais processos; (ii)não há falar em violação aos princípios da segurança jurídica, do ato jurídico perfeito e da violação aos direitos fundamentais do recorrente oriundos da sua condição de servidor inativo, pois o processo administrativo disciplinar se deu em razão de condutas cometidas quando ele se encontrava na ativa; (iii)a Primeira Seção do Superior Tribunal de Justiça sustentou a constitucionalidade da penalidade de cassação de aposentadoria, tese dominante no âmbito do Colendo STJ e também do Supremo Tribunal Federal.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ARTIGO1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
