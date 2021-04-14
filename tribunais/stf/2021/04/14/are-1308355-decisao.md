@@ -1,0 +1,53 @@
+DECISÃO
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (Vol. 6, fls. 1-2):
+    “DIREITO ADMINISTRATIVO. ADICIONAL NOTURNO. SERVIDOR PÚBLICO ESTADUAL. REGIME DE PLANTÃO. POSSIBILIDADE. VERBA PRO LABORE FACIENDO. INCIDÊNCIA SOBRE HORAS EFETIVAMENTE TRABALHADAS. INCORPORAÇÃO. IMPOSSIBILIDADE. SENTENÇA QUE SE REFORMA PARCIALMENTE.
+    Trata-se de apelação cível interposta pela UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO de sentença que julgou procedentes os pedidos exordiais para condenar a ré a incorporar na remuneração da autora, em 10 dias, o adicional noturno, no percentual de 20% sobre o vencimento-base da demandante, enquanto esta laborar na jornada noturna e ao pagamento das diferenças atrasadas a esse título, desde agosto de 2014, inclusive seus reflexos sobre férias e 13º salário, com juros e correção monetária, a serem apurados em liquidação de sentença.
+    1. Servidores de cargo público que possuem direito ao adicional noturno, ex vi art. 7º, incisos VIII e XVII; e art. 39, § 3º, ambos da Constituição da República.
+    2. Art. 39 da Constituição da República que é norma de eficácia plena, porque a ausência de regulamentação do adicional noturno pelo ente político estadual não constitui óbice ao seu pagamento, por se tratar de garantia constitucional estendida a todos os empregados e servidores públicos.
+    3. Constituição do Estado do Rio de Janeiro que assegura, em seu artigo 83, V, aos servidores públicos civis direito a remuneração do trabalho noturno superior à do diurno.
+    4. Órgão Especial deste Tribunal de Justiça que, no julgamento do Mandado de Injunção nº 0039303- 26.2017.8.19.0000, entendeu pela aplicação, de forma analógica, do disposto no art. 73 da CLT, que fixa o adicional noturno em 20% sobre a hora diurna, no trabalho executado entre às 22:00h de um dia e às 5:00h do dia seguinte.
+    5. Acréscimo de 20% que se aplica sobre o valor pago pela hora diurna, sendo considerado como noturno o trabalho executado entre as 22:00h de um dia e 05:00h do dia seguinte, devendo o mesmo acréscimo ser devido quanto às horas prorrogadas.
+    6. Alegação de que diante do regime de plantão adotado haveria uma compensação in natura que não pode prosperar, já que a razão de existir da norma é indenizar o trabalhador noturno pelo maior desgaste que sofre em relação ao horário diferenciado que se encontra trabalhando, e neste contexto resta indiferente a quantidade de horas de intervalo para descanso do plantão. Inteligência da Súmula 213 do STF.
+    7. Adicional noturno é verba pro labore faciendo, que possui natureza indenizatória, razão pela qual é devida unicamente pelo trabalho efetivamente exercido em caráter noturno, pelo que não há que se falar em seus reflexos nas férias, 1/3 de férias e décimo terceiro, ante a inexistência de norma determinando a sua incorporação ao vencimento.
+    8. Percentual de 20% do adicional noturno que deve ter como base de cálculo, exclusivamente, as horas efetivamente trabalhadas entre 22:00h e 05:00h, incidindo o acréscimo sobre as horas prorrogadas, excluindo-se a sua incorporação ao vencimento e a incidência sobre férias e gratificação natalina, inclusive quanto às parcelas retroativas a serem apuradas em liquidação de sentença.
+    9. Recurso a que se dá parcial provimento.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a” (Vol. 8), alega-se violação aos artigos 2º; 37, caput; 39, §3º; 61, §1º, II, “c”; e 169, §1º, da Constituição Federal, bem como à Súmula Vinculante 37 do STF.
+    Argumenta-se, em síntese, que “[...] o pagamento do adicional noturno aos servidores do Estado do Rio de Janeiro depende da edição de lei regulamentadora estadual – ainda inexistente – já que o comando constitucional que prevê o seu pagamento possui eficácia limitada e não cabe o pagamento de quaisquer vantagens remuneratórias a servidores públicos sem prévia dotação em lei orçamentária e prévia autorização específica na lei de diretrizes orçamentárias” (Vol. 8, fl. 5).
+    Destaca-se que “o Estado do Rio de Janeiro ainda não regulamentou a concessão do adicional noturno em prol dos servidores da Administração direta, autárquica e fundacional, inclusive daqueles que integram os quadros da recorrente” (fl. 13, Vol. 8).
+    Aduz-se que “o ordenamento constitucional, diante do princípio fundamental do federalismo e na medida em que confere aos Estados o poder autônomo de auto-organização e legislação, com o dever de dispor sobre a política de remuneração dos seus servidores e ao mesmo tempo lhes estende alguns dos direitos sociais dos trabalhadores comuns, dirige esse comando à obrigatoriedade de integrá-los no âmbito da legislação infraconstitucional local” (Vol. 8, fl. 16).
+    Ressalta-se que, ao contrário do entendimento firmado no acórdão recorrido, “o art. 39, §3º, da CRFB, é (...) norma constitucional de eficácia limitada, que depende de normatização por lei específica para que seus comandos saiam da abstração e passem a propagar efeitos no mundo concreto” (Vol. 8, fl. 16).
+    Em contrarrazões (Vol. 9), a recorrida alega, preliminarmente, (a) ausência de ofensa direta a dispositivos constitucionais; (b) incidência das Súmulas 279/STF e 284/STF. No mérito, requer a manutenção do acórdão recorrido.
+    Em juízo de admissibilidade (Vol. 10), o Tribunal de origem negou seguimento ao apelo extremo, aplicando as Súmulas 279 e 280, ambas do STF (Vol. 10, fl. 3).
+    No Agravo, a parte agravante refutou todos os óbices apontados na decisão agravada (Vol. 12).
+    É o relatório. Decido.
+    Cuida-se de matéria constitucional, devidamente prequestionada na instância de origem. Assim, passo à análise do mérito do apelo extremo.
+    Assiste razão à parte recorrente.
+    No caso, o Tribunal de origem reconheceu o direito ao adicional noturno aos servidores públicos estaduais, a partir da seguinte fundamentação (Vol. 6, fl. 4):
+    “Cinge-se a controvérsia recursal sobre o cabimento do adicional noturno para servidor que labora em regime de plantão, sua base de cálculo, bem como possibilidade de incorporação.
+    Nesse contexto, cumpre ressaltar que os servidores de cargo público, regra geral, possuem direito ao adicional noturno, ex vi art. 7º, incisos VIII e XVII4; e art. 39, § 3º5, ambos da Constituição da República.
+    No que tange à eficácia do art. 39 da Constituição da República, prevalece o entendimento jurisprudencial atual de que a norma em comento tem eficácia plena, porque a ausência de regulamentação do adicional noturno pelo ente político estadual não constitui óbice ao seu pagamento, por se tratar de garantia constitucional estendida a todos os empregados e servidores públicos.
+    Outrossim, a Constituição do Estado do Rio de Janeiro, em seu artigo 83, V6 , assegura aos servidores públicos civis direito a remuneração do trabalho noturno superior à do diurno.
+    O Órgão Especial deste Tribunal de Justiça, no julgamento do Mandado de Injunção n.º 0039303-26.2017.8.19.0000, entendeu pela aplicação, de forma analógica, do disposto no art. 73 da CLT, que fixa o adicional noturno em 20% sobre a hora diurna, no trabalho executado entre às 22:00h de um dia e às 5:00h do dia seguinte.
+    (…)
+    Destarte, merece prosperar o recurso no que tange a base de cálculo, a fim de incidir o percentual de 20% exclusivamente sobre as horas efetivamente trabalhadas entre 22:00 h e 05:00 h, incidindo o acréscimo sobre a horas prorrogadas, excluindo-se a sua incorporação ao vencimento e a incidência sobre férias e gratificação natalina, inclusive quanto às parcelas retroativas a serem apuradas em liquidação de sentença.”
+    Ocorre que esta SUPREMA CORTE tem jurisprudência consolidada no sentido de que cabe à legislação infraconstitucional disciplinar a respeito da extensão aos servidores públicos civis dos direitos sociais estabelecidos no art. 7º da Carta Magna, com a devida observância das regras de competência de cada ente federado.
+    Nesse sentido, confiram-se as ementas dos seguintes julgados:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ADICIONAL NOTURNO. NECESSIDADE DE LEI QUE REGULAMENTE A MATÉRIA. PRECEDENTES.
+    1. O entendimento do Supremo Tribunal Federal (STF) orienta-se no sentido de que cabe à legislação infraconstitucional, com observância das regras de competência de cada ente federado, a disciplina da extensão aos servidores públicos civis dos direitos sociais estabelecidos no art. 7º do Texto Constitucional. Precedentes.
+    2. A Súmula Vinculante 37 veda ao Poder Judiciário a majoração de vencimentos de servidores públicos, com base no princípio da isonomia.
+    3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Com a ressalva do deferimento da assistência judiciária gratuita, nos termos do art. 98, § 3º, do CPC/2015.
+    4. Agravo interno a que se nega provimento.” (RE 630.918 AgR-segundo/RJ, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 12/4/2018)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR DO ESTADO DE SÃO PAULO. RECEBIMENTO DE ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PREVISÃO LEGAL. IMPROCEDÊNCIA DA PRETENSÃO.
+    1. Nos termos da jurisprudência do Supremo Tribunal Federal, cabe à legislação infraconstitucional - observadas as regras de competência de cada ente federado - a disciplina da extensão dos direitos sociais contidos no art. 7º do Magno Texto a servidores públicos.
+    2. Agravo regimental a que se nega provimento.” (RE 599.166 AgR/SP, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 23/9/2011).
+    O acórdão impugnado está em dissonância com esse entendimento, razão pela qual merece ser reformado.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, conheço do Agravo e DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para julgar improcedentes os pedidos iniciais.
+    Invertam-se os ônus sucumbenciais.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 14 de abril de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
