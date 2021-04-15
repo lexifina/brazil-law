@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. VÍCIOS DO ART. 619 DO CPPNÃO CONSTATADOS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade,obscuridade, contradição ou omissão ocorridas no acórdão embargado; éinadmissível quandoobjetiva apenas a reversão do julgado.
+2. O acórdão da Sexta Turmacontém todas as razões quelastrearam a concessão da ordem de habeas corpus e onão acolhimento dateselevantadapelo Ministério Público Federal, sem a configuração dos vícios elencados no art. 619 do CPP. A pretensão da parte, em verdade, é rediscutir a matéria, o que não se admite nos limites dos aclaratórios.
+3. Não compete a esta Corte Superior o exame de suposta violação de dispositivos constitucionais,nem sequer para fins de prequestionamento,por ser matéria reservada ao Supremo Tribunal Federal,nos termos do art. 102, III, da Constituição Federal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O  MINISTÉRIO  PÚBLICO  FEDERAL  opõe  embargos  de  declaração  ao  acórdão  de  fls.  104-108.  Para  tanto,  assinala  (fls.  116-117).
+ .. 10.  Da  leitura  do  inciso  V  do  art.  112  da  Lei  de  Execução  Penal,  observa-se  que  o  legislador  aplicou  o  percentual  de  40%  ao  condenado  pela  prática  de  crime  hediondo  ou  equiparado,  desde  que  primário,  o  que  corresponde  ao  patamar  de  2/5  previsto  no  §2º  do  art.  2º  da  Lei  nº  8.072/1990.
+11.  Por  sua  vez,  o  inciso  VII  daquele  preceito  legal  determina  a  observância  do  cumprimento  de  60%  da  pena  para  o  apenado  reincidente  na  prática  de  crime  hediondo  ou  equiparado,  ou  seja,  ao  reincidente  a  novel  legislação  aplica  percentual  equivalente  a  3/5.
+12.O  art.  5º,  XL,  da  Constituição  da  República  determina  que  a  lei  penal  não  retroagirá,  salvo  para  beneficiar  o  réu.  Na  espécie,  considerando  que  a  embargada  é  reincidente  genérica,  haja  vista  que  o  primeiro  delito  praticado  não  tem  natureza  hedionda  ou  equiparada,  não  há  que  se  falar  na  aplicação  retroativa  do  Pacote  Anticrime.
+13.Com  efeito,  a  embargada  somente  faria  jus  à  aplicação  do  percentual  de  40%  se  fosse  ré  primária.  Como  se  trata  de  apenada  reincidente,  ainda  que  não  seja  específica,  deve-se  observar  a  fração  de  3/5  (três  quintos)  prevista  no  art.  2º,  §2º,  da  Lei  dos  Crimes  Hediondos.
+Para  o  embargante,  entendimento  diverso  contraria  "o  princípio  da  individualização  da  pena  previsto  no  art.  5º,  XLVI,  da  Constituição  Federal"  e  "o  tratamento  igualitário  de  condenados  com  situações  diferentes  viola  frontalmente  o  postulado  da  proporcionalidade  (princípio  do  devido  processo  legal  substancial)  sob  a  perspectiva  da  proibição  de  proteção  deficiente  (insuficiente)"  (fl.  120).
+Por  tais  razões,  o  Parquet  sustenta  que  "o  acórdão  embargado  merece  integração"  (fl.  121),  "visando  o  prequestionamento  do  art.  5º,  XL  XLVI  e  LIV,  da  Constituição  Federal  para  impedir  que  a  interposição  de  futuro  recurso  extraordinário  esbarre  no  óbice  dos  enunciados  das  Súmulas  nº  282  e  nº  356  do  Supremo  Tribunal  Federal"  (fl.  122).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. VÍCIOS DO ART. 619 DO CPPNÃO CONSTATADOS. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade,obscuridade, contradição ou omissão ocorridas no acórdão embargado; éinadmissível quandoobjetiva apenas a reversão do julgado.
+2. O acórdão da Sexta Turmacontém todas as razões quelastrearam a concessão da ordem de habeas corpus e onão acolhimento dateselevantadapelo Ministério Público Federal, sem a configuração dos vícios elencados no art. 619 do CPP. A pretensão da parte, em verdade, é rediscutir a matéria, o que não se admite nos limites dos aclaratórios.
+3. Não compete a esta Corte Superior o exame de suposta violação de dispositivos constitucionais,nem sequer para fins de prequestionamento,por ser matéria reservada ao Supremo Tribunal Federal,nos termos do art. 102, III, da Constituição Federal.
+4. Embargos de declaração rejeitados.
+VOTO
+O  recurso  integrativo  é  cabível  somente  nas  hipóteses  de  ambiguidade,  obscuridade,  contradição  ou  omissão  ocorridas  no  acórdão  embargado;  é  inadmissível  quando,  a  pretexto  de  vícios  elencados  no  art.  619  do  CPP,  objetiva  novo  julgamento  do  caso,  como  in  casu.
+O  acórdão  da  Sexta  Turma  não padece de vícios;  contém  todas  as  razões  que  lastrearam  o  não  acolhimento  da  tese  do  Ministério  Público  Federal.  Constou,  expressamente,  que:
+a)  "em  que  pese  as  alegações  do  Parquet  sobre  o  art.  5º,  inc.  XLVI,  da  Constituição  Federal  e  o  princípio  do  devido  processo  legal  substancial,  sob  a  perspectiva  da  proibição  de  proteção  deficiente,  deu-se  primazia,  nestes  autos,  ao  princípio  da  legalidade,  também  de  envergadura  constitucional"  (fl.  106) e
+b)Nas "disposições sobre a execução das sanções criminais, o julgador dever recorrer à analogia in bonam partem para a integração normativa, observados, ainda, o princípio da legalidade e a retroatividade da lei penal mais benéfica" (fl. 104).
+A  pretensão  da  parte,  em  verdade,  é  rediscutir  a  matéria  decidida,  o  que  não  se  admite  nos  limites  dos  aclaratórios.
+Por  fim,  não  compete  a  esta  Corte  Superior  o  exame  de  suposta  violação  de  dispositivos  constitucionais  (art.  5º,  XL  XLVI  e  LIV,  da  Constituição  Federal),  nem  sequer  para  fins  de  prequestionamento,  por  ser  matéria  reservada  ao  Supremo  Tribunal  Federal,  nos  termos  do  art.  102,  III,  da  Constituição  Federal.
+À  vista  do  exposto,  rejeito  os  embargos  de  declaração.
