@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO DO ESTADO REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos pelo ESTADO DO MATO GROSSO DO SUL em desfavor da decisão que negou provimento ao Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO FORA DO NÚMERO DE VAGAS INICIALMENTE PREVISTO NO EDITAL. PRETERIÇÃO RECONHECIDA PELACORTE DE ORIGEM. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO ESTADO A QUE SE NEGA PROVIMENTO.
+2. Nas razões apresentadas, a parte embarganterequer seja expressamente analisado o caso à luz dos precedentes invocados em seu recurso, ante a necessidade de integração das lacunas por elaassinaladas e a atribuição dos consequentes efeitos infringentes.
+3. É o relatório.
+4. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração, sendo restrito a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado. Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+5. Do confronto entre a leitura da decisão embargada e a da peça recursal verifica-se, todavia, que a parte embargante, na realidade, não pretende qualquer integração da decisão, mas, sim, a sua reforma, objetivo que extrapola a finalidade do recurso utilizado.
+6. Basta, portanto, a esta conclusão, a singela verificação de que, dentre as razões recursais, não se observa qualquer pleito de suprimento de omissão, esclarecimento de contradição ou obscuridade, ou ainda alegação da existência de erro material; simplesmente há a não conformidade com o mérito da decisão.
+7. Ora, o espectro do recurso integrador não permite a simples reforma da decisão sem que tenha havido erro material, ou ainda omissão relevante, ocasião em que a análise correta da questão ou do ponto sobre o qual se deu a omissão ensejará o chamado efeito infringente, causando, por via de consequência, a reforma do julgado, mediante a atribuição de efeitos infringentes ao recurso integrador.
+8. No presente caso, a combatividade demonstrada na peça recursal indica a não conformação da parte com o resultado obtido através da prolação da decisão embargada, hipótese que não encontra amparo legal para a oposição dos embargos de declaração, sendo certo que o objetivo real da parte embargante é simplesmente a reforma do decisum.
+9. Ante o exposto, rejeitam-se os Embargos de Declaração do Estado.
+10. Publique-se.Intimações necessárias.
