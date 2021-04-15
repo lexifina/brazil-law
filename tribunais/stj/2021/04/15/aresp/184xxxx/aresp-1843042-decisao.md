@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por JEAN CLAUDIO DOS SANTOS LIMA (e-STJ, fls. 230-237) contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal.
+Opostos embargos de declaração, foram estes rejeitados pelo Tribunal de origem (e-STJ, fls. 201-203).
+A defesa alega contrariedade aoart. 33, § 2º, "c" e § 4º, do Código Penal.
+Sustenta que o regime inicial fechado teria sido estabelecido sem a devida fundamentação, salientando que o agravante, primário, fora condenado à pena de 4 anos de reclusão, razão pela qual teria direito a regime prisional diverso, com amparo, ainda, no teor das Súmulas 718 e 719/STF, e Súmula 440/STJ.
+Requer, assim, o provimento do recurso, para queseja estabelecido o regime prisional aberto.
+Foram apresentadas as contrarrazões (e-STJ, fls. 215-221).
+O recurso foi inadmitido (e-STJ, fls. 224-225). Daí este agravo (e-STJ, fls. 230-237).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ, fls. 261-264).
+É o relatório.
+Decido.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls.174-175, grifou-se):
+"Procede o inconformismo ministerial.
+De fato. Embora o limite da pena aplicada possibilite o cumprimento da reprimenda já de início no regime mais brando, a gravidade do delito, reclama tratamento penal mais severo. É que a ousadia e a periculosidade ínsita de agente de crime de roubo, que desassossega a população, desaconselham o regime aberto fixado no r. decisum, vez que tal modalidade de cumprimento de pena constituir-se -ia típica impunidade, a incentivar o apelado a novas investidas criminosas.
+Ressalte-se, ainda, que o recorrido é portador de maus antecedentes, já tendo sido condenado pela prática de igual delito (fl. 106).
+Assim, o cumprimento da pena privativa de liberdade há de iniciar-se no regime fechado.
+A respeito, bem disserta a ilustrada Procuradoria Geral de Justiça, em judicioso parecer:
+"Com efeito, o acusado ostenta condenação anterior pela prática de outro crime de roubo (fl. 106), majorado pelo concurso de agentes, praticado em 2007.
+Dez anos após a ocorrência, e somente pouco mais de cinco anos após o término do cumprimento daquela pena (extinta em 28/11/2012), voltou a delinquir, novamente praticando crime grave mediante violência ou grave ameaça.
+Tal forma de agir demonstra a absoluta ausência deassimilação da terapêutica penal por parte do acusado.
+Em verdade, Jean Cláudio optou por fazer dos crimes patrimoniais o seu meio de vida, atitude incompatível com um regime de menor vigilância estatal.
+Constata-se, assim, que há anos infiltrou-se no crime e vem se aprimorando, com mestrado e doutorado, tudo a demonstrar estar ávido para voltar à cena. Se voltou a delinquir, usou de seu livre arbítrio e vontade própria, e não por exclusiva incapacidade do Estado em recuperá-los.
+(..)
+Ante sua reiteração delitiva, não poderá receber o um cidadão que jamais registrou deslize criminal.
+Não se pode tratar de forma igual situações desiguais, violando a necessária individualização da pena como dispõeo artigo 5º, inciso XLVI, da Constituição Federal.
+Tendo em vista a gravidade em concreto do crime praticado, seus maus antecedentes e sua reiteração na prática de crimes graves contra o patrimônio, a fixação de regime prisional fechado é medida de rigor, para a correta reprovação e prevenção do delito, nos termos do artigo 33, § 3º, do Código Penal"(fls. 169 a 170)."
+Quanto ao regime prisional, inicialmente cumpre ressaltar que, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso dos autos, a Corte local estabeleceu o regime inicial fechado, mantendoa pena imposta ao agravante, pelo crime previsto no art. 157, caput, do Código Penal, em 4 anos de reclusão, mais o pagamento de 10 dias-multa. Apena-base foi fixada acima do mínimo legal, diante dos maus antecedentes,o que, por si só, permite a fixação de regime prisional mais gravoso que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+Contudo, o regime prisional semiaberto merece ser estabelecido ao recorrente, pois a fixação do regime mais severo carece de amparo legal e fático.
+A seguir, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.FURTO QUALIFICADO. CONCURSO DE PESSOAS. AFASTAMENTO DA QUALIFICADORA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE DA VIA ELEITA. RECONHECIMENTO FUNDADO NA CONFISSÃO DO RÉU E NO DEPOIMENTO DE TESTEMUNHAS.DOSIMETRIA. DESPROPORCIONALIDADE DO AUMENTO NA PENA-BASE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. DOSIMETRIA PROCEDIDA PELAS INSTÂNCIAS ORDINÁRIAS QUE SE REVELA FAVORÁVEL AO RÉU. REGIME PRISIONAL FECHADO.AUSÊNCIA DE FUNDAMENTAÇÃO. PENA INFERIOR A 4 ANOS DE RECLUSÃO.CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME SEMIABERTO.POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+7. In casu, as instâncias ordinárias estabeleceram a pena-base acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, o que, por si só, permite a fixação de regime prisional mais gravoso que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+8. Se a pena foi estabelecida em patamar inferior a 4 anos de reclusão, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional e diante do reconhecimento de circunstâncias judiciais desfavoráveis, o regime inicial semiaberto mostra-se adequado e suficiente para o início do cumprimento da pena imposta, dada a primariedade do réu, nos termos do art. 33, §§ 2º e 3º, e art. 59, ambos do Código Penal.
+9. Writ não conhecido. Ordem concedida de ofício, a fim de, confirmando a liminar anteriormente concedida, fixar o regime prisional semiaberto para o desconto da reprimenda imposta ao paciente."
+(HC 615.982/SP, de minha Relatoria, QUINTA TURMA, julgado em 03/11/2020, DJe 12/11/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. ART. 306 DO CÓDIGO DE TRÂNSITO BRASILEIRO. REPRIMENDA INFERIOR A 4 (QUATRO) ANOS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FIXAÇÃO DE REGIME MAIS GRAVOSO (SEMIABERTO). CABIMENTO. AGRAVO DESPROVIDO.
+1. Diante do reconhecimento de uma circunstância judicial desfavorável - referente aos maus antecedentes -, a pena-base foi fixada acima do piso legal. Dessa forma, aplicada a pena em 6 (seis) meses de detenção, é adequado o regime inicial semiaberto imposto pelas instâncias ordinárias, já que está em conformidade com o previsto no art. 33, § 2.º e § 3.º, c.c. o art. 59, ambos do Código Penal.
+2. Segundo reiteradamente proclama esta Corte, "estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Código Penal, é possível a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (HC 446.919/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/06/2018, DJe 20/06/2018).
+3. Agravo desprovido."
+(AgRg no HC 603.617/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/10/2020, DJe 23/10/2020).
+Assim, se a pena foi estabelecida em patamar igual a 4 anos de reclusão, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional e diante do reconhecimento de circunstâncias judiciais desfavoráveis, o regime inicial semiaberto mostra-se adequado e suficiente para o início do cumprimento da pena imposta,nos termos do art. 33, §§ 2º e 3º, e art. 59, ambos do Código Penal.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de fixar o regime prisional semiaberto para o desconto da reprimenda imposta ao recorrente.
+Publique-se. Intimem-se.
