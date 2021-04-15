@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, não sendo necessária integração para esclarecer o alcance do acórdão embargado, no qual consta, expressamente: "o oferecimento de fiança bancária não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1.156.668/DF, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10/12/2010).
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por ALIANÇA NAVEGAÇÃO E LOGÍSTICA LTDA. contra acórdão que nego provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. SEGURO-GARANTIA. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Diferentemente do que ocorre com créditos não-tributários, o seguro-garantia e a fiança bancária não servem à suspensão da exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos. Precedentes.
+2. No caso dos autos, o recurso fazendário foi provido, tendo em vista o TRF da 1ª Região ter decidido de forma contrária ao entendimento jurisprudencial deste Tribunal Superior.
+3. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 252/254):
+O acórdão embargado não se pronunciou sobre fato essencial ao perfeito deslinde da questão sub judice, e que se refere a necessidade de suspender a exigibilidade do crédito tributário, isto para efeitos de obtenção pela Embargante da competente CPE-N -Certidão Positiva com Efeito de Negativa, e da sua não inscrição no CADIN - Cadastro de Inadimplentes, visto a apresentação do competente seguro-garantia. Desta forma e como e Embargante apresentou o competente seguro-garantia, isto como forma de lhe permitir obter a competente CPE-N - Certidão Positiva com Efeito de Negativa e não ser inscrito no CADIN -Cadastro de Inadimplentes, faz-se necessário promover este esclarecimento no julgado embargado, eis que não houve, data venia a devida expressão de determinação para que fosse conferido a empresa litigante o direito ora sustentado. Ante o exposto, requer a Embargante seja processado e julgado o presente embargos para, ao fim, reconhecer a omissão ora apontada, determinando, expressamente, que esta obtenha a competente CPE-N - Certidão Positiva com Efeito de Negativa, bem como não seja inscrita no CADIN - Cadastro de Inadimplentes, visto a apresentação do competente seguro-garantia.
+Sem impugnação pela parte agravada (fl. 271).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, não sendo necessária integração para esclarecer o alcance do acórdão embargado, no qual consta, expressamente: "o oferecimento de fiança bancária não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1.156.668/DF, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10/12/2010).
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício de integração a ser sanado, pois o acórdão foi expresso e claro ao consignar que o seguro garantia não serve à suspensão da exigibilidade do crédito tributário, mas só ao fim de obter a Certidão Positiva com Efeitos de Negativa; daí porque, no julgamento do agravo interno, foi mantida a decisão cuja conclusão está assim: "dou provimento ao recurso especial da Fazenda Nacional para, cassando, em parte, o acórdão recorrido, recusar o seguro-garantia como hipótese de suspensão da exigibilidade do crédito tributário".
+De outro lado, como está expressamente registrado, o TRF1 decidiu:
+Ante o exposto, defiro o pedido de tutela provisória de urgência para determinar a suspensão da exigibilidade dos créditos tributários constituídos nos Processos Administrativos nº 10907.000.115/2010-24, 10907.000.858/2010-02, 11050.002.276/2008-19, 11698.000.827/2008-77 e 10907.000.759/2010-12, não devendo ser obstada a emissão de Certidão Negativa ou Positiva de Débitos com efeitos de Negativa em virtude dos créditos discutidos neste processo, até ulterior decisão deste juízo
+Nesse contexto, não é necessária integração para esclarecer o alcance do acórdão.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
