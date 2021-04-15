@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de recurso especial interposto por BOSSANEL COMERCIO LTDA., fundado naalínea"a"do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 266):
+APELAÇÃO EM MANDADO DE SEGURANÇA. DELEGAÇÃO DE COMPETÊNCIA ADMINISTRATIVA PARA JULGAMENTO DAS INFRAÇÕES SUJEITAS À PENA DE PERDIMENTO. PLENO EXERCÍCIO DAS ATRIBUIÇÕES PELO INSPETOR DA RECEITA FEDERAL DO BRASIL NA ALFÂNDEGA. PORTARIA SRF N. 841/1993.DECISÃO EM ÚNICA INSTÂNCIA ADMINISTRATIVA.
+1. Os §§6º e 7º do art. 774 do Decreto nº 6.759/2009 preveem, de forma expressa, a competência do Ministro da Fazenda para decidir sobre os processos relativos a infrações sujeitas à pena de perdimento, possibilitando-lhe a delegação dessa competência específica. A jurisprudência dos tribunais é rica em precedentes que reconhecem a validade jurídica da Portaria SRF nº 841/1993, que traduz a subdelegação daquela competência pelo Secretario da Receita Federal do Brasil em favor dos Inspetores da Receita Federal do Brasil das Alfândegas.
+2. Decorrido o prazo para interposição de recurso administrativo, previsto em dez dias pela regra geral (art. 59 da Lei nº 9.784/1999), revela-se incabível a alegação de inconstitucionalidade da previsão legal de julgamento em única instância.
+3. Apelo desprovido.
+Opostos embargos declaratórios, foram eles acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (e-STJ fl. 283):
+EMBARGOS DE DECLARAÇÃO. PENA DE PERDIMENTO. RELÓGIOS SEM O SELO DE IPI.
+1. Afigura-se com pleno embasamento legal a pena de perdimento aplicada pela autoridade fiscal, em razão do descumprimento, pelo sujeito passivo, da obrigação tributária acessória concernente à regularidade do selo de IPI, consoante a disciplina legal constante dos artigos 253 e 514 do RIPI (Decreto nº 4.544/2002); art. 33, §2º, do DL 1.593/77, com as modificações dadas pela Lei nº 10.637/2002, e art. 61 da Lei nº 11.196/2005.
+2. Embargos de declaração providos, mas sem efeitos infringentes.
+Novos aclaratórios opostos pela parte, foram rejeitados, com aplicação de multa processual de 1% sobre o valor da causa (e-STJ fls. 294/298).
+No especial, a parte alega violaçãodos arts. 535, II, 538 do CPC/1973 e514, III, do RIPI.
+Argumenta, em suma, que (e-STJ fl. 315):
+o dispositivo em comento não menciona que na hipótese de não haver o selo de IPI aplica-se a pena de perdimento, mas sim que não havendo comprovação da origem da aquisição dos relógios (itens na tabela do IPI 91.01 e 91.02) que se aplica a pena de perdimento.
+11. Ora, nestes autos, o tempo inteiro se sustentou que os relógios têm a sua origem comprovada por meio das notas fiscais de fls. 61/79, comprovando que, além de serem relógios nacionais (e não importados como sustentado pelo fisco, pelo juiz de piso, e o silêncio do Tribunal), foram adquiridos de empresas consagradas no mercado.
+Pugna, ao final, pela exclusão da multa imposta, em razão da ausência de caráter protelatório dos embargos opostos.
+Com contrarrazões (e-STJ fls. 337/349), o recurso foiadmitido parcialmente na origem.
+A parte recorrente interpôs agravo da parte não admitida.
+Em parecer conclusivo, o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial e pelo desprovimento do apelo nobre (e-STJ fls. 380/384).
+Passo a decidir.
+De início, registro que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça(Enunciado Administrativo n. 2).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de mandado de segurança impetrado por BOSSANEL COMÉRCIO LTDA. contra ato do Inspetor Chefe da Alfândega da Receita Federal do Brasil em Porto de Vitória/ES, questionando o ato administrativo consubstanciado na decretação de pena de perdimento de mercadorias.
+Na primeira instância, a segurança foi denegada.
+Irresignada, a empresa apelou.
+O Tribunal de origem desproveu o recurso de apelação.
+Em sede de aclaratórios, salientou, no que interessa (e-STJ fls. 280/281):
+Nada obstante as alegações sustentadas pela Embargante, penso que a autuação da Administração tributária mostrou-se válida, tendo em vista o descumprimento, pelo sujeito passivo, da obrigação tributária acessória.
+A autuação fiscal encontra-se lastreada em dispositivos da legislação tributária, que conferem legitimidade à aplicação da pena de perdimento, quando não comprovada a origem da mercadoria, em face da ausência de regular selagem do IPI, a teor dos artigos 253 e 514 do RIPI (Decreto nº 4.544/2002). Senão vejamos:
+Art. 253. A falta do selo no produto, o seu uso em desacordo com as normas estabelecidas ou a aplicação de espécie imprópria para o produto importarão em considerar o produto respectivo como não identificado com o descrito nos documentos fiscais (Lei nº 4.502, de 1964, art. 46, § 2º, e Lei nº 9.532, de 1997, art. 37, inciso IV). (grifei) Art. 514. Sujeitar-se-ão também à pena de perdimento da mercadoria:
+III - os vendedores ambulantes e os estabelecimentos que possuírem ou conservarem produtos das posições 71.02 a 71.04, 71.06 a 71.11, 71.13 a 71.16, 91.01 e 91.02 da TIPI, cuia origem não for comprovada, ou quando os que os possuírem ou conservarem não estiverem inscritos no CNPJ (Decreto-lei nº 34, de 1966, art. 22, parágrafo único).
+Em complementação, mencione-se o art. 33, §2º, do DL 1.593/77, com asmodificações dadas pela Lei nº 10.637/2002, e o art. 61 da Lei nº 11.196/2005:
+Art. 33. Aplicam-se as seguintes penalidades, em relação ao selo de controle de que trata o art. 46 da Lei no 4.502, de 30 de novembro de 1964, na ocorrência das seguintes infrações: (Redação dada pela Lei nº 10.637, de 2002) § 2o Aplicar-se-á ainda a pena de perdimento aos produtos do código 24.02.20.00 da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi):(Incluído pela Lei nº 10.637, de 2002) (grifei) Art. 61. O disposto no art. 33, § 2o, inciso I, do Decreto -Lei no 1.593, de 21 de dezembro de 1977, também se aplica aos demais produtos sujeitos ao selo de controle a que se refere o art.
+46 da Lei no 4.502, de 30 de novembro de 1964. (grifei) As sanções previstas no art. 33 do Decreto -Lei nº 1.5931977, alterado pelo art. 52 da Lei nº 10.637/2002, dizem respeito às infrações relativas à selagem exigida nas mercadorias sujeitas ao imposto sobre produto industrializado. Tal dever fiscal (obrigação acessória) destina-se à prova da regularidade da arrecadação do IPI.
+Portanto, a pena de perdimento, no caso apreciado nesta ação mandamental, tem amparo nas normas legais de regência.
+Pois bem.
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia e apontouas razões de seu convencimento, não se vislumbrando, na espécie, nenhumacontrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o Órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, relator Ministro Humberto Martins, Órgão Julgador T2 - Segunda Turma, DJe 30/9/2015, e AgRg no AREsp 493652/RJ, relator Ministro Sérgio Kukina, Órgão Julgador T1 - Primeira Turma, DJe 20/06/2014.
+O recurso especial não pode ser conhecido quanto ao mérito.
+Consoante se depreende da leitura dos dispositivos legais que regem a questão, o uso doselode controle doIPIé obrigatório para expor o produto à venda econstitui responsabilidade inerente à atividade do comerciante.
+De igual modo, o uso impróprio ou a falta do seloimporta em considerar o produto respectivo como não identificado e de origem desconhecida.
+Nesse cenário, verifica-se que a Corte regional, com base no acervo probatório dos autos,foiuníssona em destacar que o sujeito passivo descumpriu a obrigação acessória, ressaltando, novamente, que não ficoucomprovada a origem da mercadoria.
+Assim, é inviável a modificação do acórdão recorrido, porquanto, para se infirmar suas conclusões, seria necessário o revolvimento do mesmo conjunto fático-probatório, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ.
+Nesse sentido, trago, atítulo ilustrativo:
+TRIBUTÁRIO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. APREENSÃO DE MERCADORIA. RELÓGIOS DE PULSO EXPOSTOS À VENDA SEM O SELO DE CONTROLE DO IPI. ORIGEM NÃO COMPROVADA DA MERCADORIA APREENDIDA. PENA DE PERDIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que caracterizada a responsabilidade do comerciante pela falta de selo de controle do IPI em relógios de pulso expostos à venda, sem nenhuma ilegalidade no auto de infração, com a consequente aplicação da pena de perdimento da mercadoria apreendida.
+2. O uso do selo de controle do IPI é obrigatório para expor o produto à venda. Sua falta ou uso impróprio autorizam considerar o produto respectivo como não identificado e de origem desconhecida.
+3. O art. 514, III, do Decreto nº 4.544/2002, prevê a possibilidade de aplicação da pena de perdimento da mercadoria aos estabelecimentos que possuírem os produtos relacionados, incluídos os das posições 91.01 e 91.02 da Tabela de Incidência do Imposto sobre Produtos Industrializados (hipótese dos autos), cuja origem não for comprovada.
+4. No âmbito estreito do recurso especial, não há como desconstituir a conclusão de que a origem da mercadoria restou sem comprovação, ausente qualquer evidência de arbitrariedade ou ilegalidade no auto de infração, uma vez que essas questões demandariam necessariamente o reexame de fatos e provas, o que é inviável a teor do disposto na Súmula 7/STJ.
+5. Ausência de impugnação no agravo regimental quanto à incidência das Súmulas 283 e 284 do STF.
+6. É inviável o conhecimento do recurso especial pela divergência jurisprudencial, se não realizado o necessário cotejo analítico, com a transcrição dos trechos divergentes e comprovação da similitude fática entre os acórdãos confrontados, elementos indispensáveis à demonstração do dissídio.
+7. Agravo regimental desprovido.
+(AgRg no REsp 1.448.938/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 16/06/2015, DJe 30/06/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. ADUANEIRO.PENA DE PERDIMENTO.MERCADORIAS IMPORTADAS. FALSA INFORMAÇÃO NAS ETIQUETAS ACERCA DA PROCEDÊNCIA. ANÁLISE DA CULPA. SÚMULA N.7/STJ.
+1. O Tribunal a quo concluiu que as informações do produto comercializado pela recorrente eram falsificadas e que houve dano ao erário, enquadrando-se a conduta da Importadora nas hipóteses normativas depena de perdimento.
+2. O argumento utilizado pela recorrente no sentido de que houve apenas uma falha procedimental por parte do fabricante, não pode ser analisado em recurso especial, por esbarrar no óbice da Súmula7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 808.583/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/3/2016, DJe 16/3/2016).
+TRIBUTÁRIO. VEÍCULO ESTRANGEIRO. IMPORTAÇÃO IRREGULAR.PENA DE PERDIMENTO.INTERNAÇÃO DEFINITIVA. AFERIÇÃO DA REAL PROPRIEDADE DO BEM. SUMULA7/STJ.
+1. A análise da tese recursal que busca a aferição da real propriedade do veículo apreendido demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula7/STJ.
+2. Agravo regimental a que se nega provimento.
+(STJ, AgRg no REsp 1.518.751/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/08/2015).
+Veja-se, ainda, a decisão proferida monocraticamente no REsp 1.447.130/PR, Rel. Ministra REGINA HELENA COSTA, DJe16/09/2015.
+No que tange à multa processual, melhor sorte tem a parte recorrente, pois, independentemente da procedência dos argumentos neles ventilados, os embargos declaratórios opostos na origem tinham por objeto, além da omissão apontada, o prequestionamento dos dispositivos legais mencionados, não podendo ser considerados protelatórios para o fim de aplicação da penalidade.
+Acerca da questão, o Superior Tribunal de Justiça sumulou entendimento no sentido de que embargos de declaração opostos com o intuito de prequestionamento não devem ser considerados procrastinatórios. Nesse sentido é a redação da Súmula 98 deste Tribunal, a qual determina que os "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Sobre a questão, cito os seguintes julgados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL FUNDADO NO CPC/73. EXECUÇÃO DE VERBA HONORÁRIA ADVOCATÍCIA. FAZENDA PÚBLICA CREDORA. MEDIDAS EXPROPRIATÓRIAS. ARTS. 647 E 685-C DO CPC/73. DESINTERESSE DA PARTE EXEQUENTE NA ADJUDICAÇÃO DO BEM E NA ALIENAÇÃO POR INICIATIVA PARTICULAR. FACULDADE DO CREDOR. POSSIBILIDADE DE OPÇÃO PELA HASTA PÚBLICA. EMBARGOS DE DECLARAÇÃO OPOSTOS COM PROPÓSITO PREQUESTIONADOR. APLICAÇÃO DA MULTA PREVISTA NO ART. 538 DO CPC/73. AFASTAMENTO. SÚMULA 98/STJ.
+1 - Manifestado o desinteresse da parte exequente na adjudicação e na alienação particular do imóvel penhorado (arts. 647, I e II e 685-C do CPC/73), poderá ela, desde logo, requerer sua alienação em hasta pública.
+2 - Extrai-se do art. 685-C do CPC/73 que a norma confere uma faculdade ao credor de se valer da alienação por iniciativa particular (art. 647, II), sem impedir a opção pela hasta pública. Precedente: REsp 1.410.859/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 13/06/2017.
+3 - A multa imposta com base no parágrafo único do art. 538 do CPC/73 deve ser afastada quando os embargos de declaração tenham sido opostos com visível propósito de prequestionamento, de modo a elidir o seu caráter protelatório, como assentado na Súmula 98 do STJ e na jurisprudência consolidada do STJ.
+4 - Recurso especial a que se dá provimento para que a execução retome seu curso, com a pretendida alienação em hasta pública, afastando-se, mais, a multa fundada no art. 538 do CPC/73.
+(REsp 1.312.509/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/12/2017, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. FUNRURAL. ART. 25, I E II, DA LEI 8.212/1991. EXIGIBILIDADE DA CONTRIBUIÇÃO A PARTIR DA EDIÇÃO DA LEI 10.256/2001. ACÓRDÃO RECORRIDO EM SINTONIA O ENTENDIMENTO DO STJ. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM PARA PREQUESTIONAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ.
+1. O Pleno do Supremo Tribunal Federal, ao analisar o RE 718.874/RS, pacificou a questão aqui posta no sentido de que "é constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção" (RE 718.874/RS).
+2. No mesmo sentido, os seguintes precedentes do STJ: EDcl no AgRg no AREsp 546.004/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11.5.2018; REsp 1.717.965/ES, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25.5.2018.
+3. No que pertine à aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973, a irresignação é pertinente. Ora, os Aclaratórios foram opostos com o nítido caráter de prequestionamento, o que, por si só, atrai a incidência da Súmula 98/STJ, segundo a qual o recurso integrador manifestado com notório propósito de prequestionamento não tem caráter protelatório.
+4. Recurso Especial parcialmente provido, apenas para excluir a multa imposta na origem com base no art. 538, parágrafo único, do CPC/1973.
+(REsp 1.795.800/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 28/05/2019).
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial,apenas para afastar a multa processual aplicada com base no art. 538, parágrafo único, do CPC/1973.
+Publique-se. Intimem-se.
