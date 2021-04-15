@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE NEGOU O PEDIDO DE TUTELA DE URGÊNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DE RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 735 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito ativo interposto contra a decisão que indeferiu o pedido de tutela de urgência em ação que pretende desconstituir infração administrativa de trânsito em razão de vício na notificação. No Tribunala quo, negou-se provimento ao agravo de instrumento.
+II - É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em razão do óbice do enunciado n. 7 da Súmula do STJ, bem como, por analogia, do enunciado n. 735 da Súmula do do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar." Nesse sentido: AgInt no REsp n. 1.813.658/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no REsp n. 1.755.457/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/9/2020, DJe 14/10/2020.
+III - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de agravo de instrumento com pedido de efeito ativo interposto contra a decisão que indeferiu o pedido de tutela de urgência em ação que pretende desconstituir infração administrativa de trânsito em razão de vício na notificação. No Tribunal a quo, negou-se provimento ao agravo de instrumento, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO Indeferimento da liminar Ação declaratória de nulidade de auto de infração e imposição de multa de trânsito - Pedido de suspensão dos autos de infração apontados na inicial, por ausência de dupla notificação Infração praticada por veículo registrado em nome de pessoa jurídica Suposta ausência de notificação da infração por não indicação de condutor Em cognição sumária, tem-se que a dupla notificação não é necessária no caso de não indicação de condutor por pessoa jurídica Ausente o fumus boni iuris No mais, a liminar é ato de livre convicção do Magistrado. Negada, caberá a revisão na segunda instância apenas em casos de abuso de poder ou ilegalidade Inocorrência Ausência dos requisitos ensejadores da medida - Recurso desprovido.
+Interposto recurso especial, foi inadmitido.
+No agravo interno, a parte agravante apresenta as seguintes razões:
+Outrossim, não há que se falar em conflito com a Súmula 7, desnecessário, na presente situação, a análise de provas, pois, a questão de mérito possui, no presente momento, o condão de demonstrar o "fumus boni iuris", considerando que a tese que fundamenta o pedido da recorrente, a anulação das multas aplicadas em decorrência do art. 257, § 8º do CTB sem a devida dupla notificação, é tema pacificado no STJ - Superior Tribunal de Justiça.
+ ..
+Desta forma, completamente desnecessário analisar prova de efetivação da dupla notificação, uma vez ser procedimento padrão adotado pela municipalidade, desta forma, o conhecimento do Recurso Especial é o caminho correto, bem como o provimento com base no entendimento pacificado desta Suprema Corte
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE NEGOU O PEDIDO DE TUTELA DE URGÊNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DE RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 735 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito ativo interposto contra a decisão que indeferiu o pedido de tutela de urgência em ação que pretende desconstituir infração administrativa de trânsito em razão de vício na notificação. No Tribunala quo, negou-se provimento ao agravo de instrumento.
+II - É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em razão do óbice do enunciado n. 7 da Súmula do STJ, bem como, por analogia, do enunciado n. 735 da Súmula do do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar." Nesse sentido: AgInt no REsp n. 1.813.658/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no REsp n. 1.755.457/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/9/2020, DJe 14/10/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em razão do óbice do enunciado n. 7 da Súmula do STJ, bem como, por analogia, do enunciado n. 735 da Súmula do do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."Nesse sentido: AgInt no REsp n. 1.813.658/RS, relatorMinistro OgFernandes, SegundaTurma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no REsp n. 1.755.457/RJ, relatorMinistro HermanBenjamin, Segunda Turma, julgado em 28/9/2020, DJe 14/10/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
