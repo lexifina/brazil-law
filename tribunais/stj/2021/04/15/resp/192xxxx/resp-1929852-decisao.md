@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial cuja controvérsia aborda a possibilidade decondenar ente federativo ao pagamento de honorários advocatícios à Defensoria Pública que lhe é vinculada.
+Passo a decidir.
+O Supremo Tribunal Federal reconheceu a existência de repercussão geral da "discussão relativa ao pagamento de honorários à Defensoria Pública, em litígio com ente político ao qual vinculada", nos autos do RE 1.140.005/RJ, de relatoria do eminenteMinistro Roberto Barroso (Tema 1.002).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos quetratam da mesma controvérsia no STJ devem aguardar,no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso,deverá ser encaminhado para esta Corte Superior, para que possam seranalisadas as questões jurídicas nelesuscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS aoTribunalde origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no aludido recurso extraordinário com repercussão geral reconhecida e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela SupremaCorte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
