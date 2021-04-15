@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Romildo Francisco Napoleão, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 593.169/SC.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus com pedido liminar impetrado em favor de ROMILDO FRANCISCO NAPOLEAO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em execução n. 0000585- 51.2020.8.24.0020).
+    Depreende-se dos autos que o paciente, que se encontra em cumprimento de pena, foi aprovado no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) nas 5 matérias do ensino médio, motivo pelo qual obteve remição de 66 dias (e-STJ fl. 65).
+    Interposto agravo em execução, o Tribunal a quo negou provimento ao recurso (e-STJ fls. 64/67).
+    Daí o presente writ, no qual alega a defesa fazer jus o paciente a 133 dias de remição (e-STJ fl. 3).
+    Requer, liminarmente e no mérito, a remição de 133 dias em razão da aprovação no ENCCEJA (e-STJ fl. 13). A liminar foi indeferida (e-STJ fls. 73/74).
+    O Ministério Público Federal opinou pela concessão da ordem de ofício (eSTJ fls. 104/108).
+    No STJ, a ordem foi denegada. Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, o recorrente diz que “a Recomendação n.º 44/2013, ao afirmar a base de cálculo de 50% sobre a carga horária do Ensino Médio, o faz mencionando a “carga horária definida legalmente” para este nível de ensino. Tal menção, expressa do inciso IV, refere-se à definição da carga horária legalmente estipulada ao Ensino Médio, enquanto integrante da educação básica, i.e., da grade acadêmica comum da formação educacional.”
+    Argumenta que “a norma legal a estruturar a educação brasileira é a Lei n.º 9.394/1996, denominada de Lei de Diretrizes e Bases da Educação Nacional. Em seu art. 24, inciso I, a LDB assevera que “a carga horária mínima anual será de oitocentas horas para o ensino fundamental e para o ensino médio, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, excluído o tempo reservado aos exames finais, quando houver”. De modo que, por simples raciocínio aritmético, o ensino médio, que se divide em três anos, terá a carga horária mínima global de 2.400 (duas mil e quatrocentas) horas (3x800 = 2.400).”
+    Pontua que “em seu artigo 4º, a Resolução do CNE determina a duração dos CURSOS presenciais de EJA, sendo que, no inciso III, determina que o Ensino Médio nesta modalidade, terá uma duração mínima de “1.200 (mil e duzentas) horas”. Como se vê, a estipulação de 1.200 (mil e duzentas) horas para a carga horária do curso presencial de Ensino Médio na Educação de Jovens e Adultos (EJA), é, efetivamente, a metade (50%) da carga horária legalmente prevista para os três anos do Ensino Médio comum.”
+    Requer que “o cálculo da remição pela aprovação integral do recorrente no Exame Nacional para Certificação de Competências de Jovens e Adultos – ENCCEJA relativo ao ensino médio, seja feito considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio regular (2.400 horas), ou seja, 1.200 horas, resultando em 133 dias a serem remidos”.
+    A PGR opina pelo desprovimento do recurso.
+    É o relatório.
+    Decido.
+    A Segunda Turma desta Corte, nos autos do AgR no HC 190.806, Rel. Min. Ricardo Lewandowski, julgado em 30.3.2021, assentou que, para a remição decorrente da aprovação no ENCCEJA, aplica-se “o total de 1.600 horas de estudo, e não as 800 horas como foi fundamentado na decisão agravada [do Tribunal de Justiça local], conforme a Recomendação 44/2013 do CNJ. Esse total deve ser dividido por 12 horas, encontrando-se o resultado de 133 dias para a aprovação no ENCCEJA”.
+    É evidente que, para um detento em ambiente de cárcere, as dificuldades impostas pelos estudos são maiores que para um estudante de curso regular ou de curso na modalidade EJA, uma vez que estes últimos são beneficiados pela tutoria de professores, bem como pelo uso de materiais escolares direcionados. Por outro lado, o reeducando que escolhe estudar por conta própria, com os materiais disponíveis e sem acompanhamento, emprega esforços maiores para alcançar seus objetivos, tornando sua conquista algo louvável.
+    Valorizar a conquista em voga trará consequências positivas à sociedade, pois servirá de incentivo para todos aqueles que vislumbrarem os benefícios do estudo, principalmente para aqueles que já acreditaram nos “benefícios” de uma vida delituosa. Portanto, seria desproporcional diminuir todo o esforço empregado e considerar o empenho demonstrado como algo mínimo e comparável à modalidade de curso com a menor carga horária para o cálculo da remição.
+    Ante o exposto, provejo o recurso para declarar a remição de 133 dias na pena do paciente, nos termos da jurisprudência assentada na 2ª Turma deste Supremo Tribunal Federal.
+    Publique-se. Comunique-se com urgência.
+    Brasília, 15 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
