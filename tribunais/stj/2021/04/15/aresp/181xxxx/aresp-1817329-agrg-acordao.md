@@ -1,0 +1,59 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por ALAN DA SILVA RIBEIRO contra a decisão de fls. 606-606, na qual não conheci do agravo em recurso especial, por ausência de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 155, § 4º, inciso II, do Código Penal, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicial aberto, mais 12 dias-multa. Houve substituição por penas restritivas de direitos (fls. 310-316).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 432-444). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL. CRIME DE FURTO QUALIFICADO. SENTENÇA CONDENATÓRIA. ABSOLVIÇÃO. PENA. FIXAÇÃO. SUBSTITUIÇÃO. SOLUÇÃO MANTIDA.
+I - Rejeita-se a absolvição_da _imputação, _a _pretexto da insuficiência das provas, presentes nos autos da ação penal elementos de convicção da materialidade e da autoria delitivas, apurados validamente no curso da instrução processual, aptos à resposta penal desfavorável, convergentes no sentido da responsabilidade do processado pelo crime de furto qualificado, tipificado pelo art. 155, § 4 º , inciso II, c/c art. 71, todos do Código Penal Brasileiro.
+II - Não é possível a exclusão da causa de aumento de pena, referente à continuidade delitiva, art. 71, do Código Penal Brasileiro, quando os elementos de convicção dos autos revelam a reiteração criminosa na prática do delito de furto, cometido contra pessoa o O Z i:.") jurídica, efetuando o depósito dos cheques o -1 subtraídos na conta bancária da sua mulher, expondo a identidade das infrações penais, igualdade de ( 7 ) tempo, lugar e maneira de execução.
+III - Não revela excesso judicial a substituição da pena privativa da liberdade por duas restritivas de direitos, quando o processado foi condenado à sanção corpórea de 02 (dois) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, nos termos do art.
+44, § 2 º , do Código Penal Brasileiro."
+Opostos embargos de declaração, pelo ora agravante (fls. 464-471), foram eles rejeitados, à unanimidade de votos (fls. 478-484), nos termos da ementa a seguir transcrita:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. ACÓRDÃO OMISSO E CONTRADITÓRIO. REAPRECIAÇÃO DA CAUSA. DESPROVIMENTO.
+Os embargos declaratórios, apresentados ao desencontro com os arts. 619 e 620, do Código de Processo Penal, não evidenciadas a omissão e a contradição do acórdão, apreciadas e decididas as questões submetidas ao conhecimento da Corte, no âmbito do recurso apelatório, expondo a pretensão de rediscussão dos temas decididos, devem ser desprovidos, porquanto ausente a função integrativa que os caracteriza.
+EMBARGOS DESPROVIDOS."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alegou violação aos arts. 1º, inciso III, e 5º, incisos LIV, LV, LVII e LXIII, ambos da Constituição Federal, ao art. 261, do Código de Processo Penal, e ao princípio da dignidade humana, do devido processo legal, contraditório, ampla defesa, inculpabilidade e defesa técnica (fls. 491-519). Para tanto, menciona que:
+a) "o due processo of law, inscrito no art. 5º, inciso LIV, da Carta de Outubro, não permite que o Poder Judiciário - garantidor das premissas máximas firmadas na Constituição da República - balize sua decisão em procedimento inquisitorial, quer por afronta ao Estado Democrático de Direito, art. 1º, inciso III, da CF, quer pela livre persuasão racional ancorada naqueles postulados essenciais, art. 155, do CPP" (fl. 507);
+b) "- Gize - -se - que-a prolação de uma sentença_condenatória, sonega.ndo prova_ requerida pelo acusado, inclusive de cunho imprescindível, porquanto demonstraria que jamais ocorreu qualquer ilícito, quer de furto, quer de apropriação, apta a influenciar decisivamente no julgamento do litígio, obstruindo a fase instrutória, viola os princípios da ampla defesa e contraditório, consoante art. 5º, inciso LV, da CF" (fl. 510).
+c) "se o interrogatório é um ato pessoal, com natureza jurídica de meio de defesa e, secundariamente, meio de prova  como afirmado pela doutrina majoritária, não há como se admitir sua utilização para firmar um édito condenatório, ainda mais quando extirpado em sede judicial, sob a alegativa que jamais praticara tal conduta, conforme anotado no interrogatório judicial do Recorrente." (fl. 512).
+Apresentadas as contrarrazões (fls. 536-542), o especial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) impossibilidade de alegação de violação a princípios e a dispositivos da Constituição Federal em sede de recurso especial; b) aplicação da Súmula n. 282/STF; e c) incidência da Súmula n. 7/STJ (fls. 545-548).
+Foi interposto o respectivo agravo, no qual o agravante, em apertada síntese, repisou os argumentos expendidos no apelo nobre (fls. 563-576).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 595-600). Eis a ementa do parecer:
+"AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+ABSOLVIÇÃO. PRETENSÃO DE REVOLVER MATÉRIA FÁTICO- PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. PARECER PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL."
+Em decisão de fls. 602-606, não conheci do agravo, nos termos da ementa a seguir transcrita:
+"PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO."
+Daí a interposição do presente agravo regimental, por meio do qual se alega, em síntese, que:
+a) " ..  não há falar em ausência de enfrentamento do cerne da decisão, tampouco de falta de dialeticidade e nem de clareza da insurgência, mormente pelo fato de que houve a impugnação, pela via recursal, dos pontos fixados na inadmissão" (fl. 613);
+b) " ..  não se almejou revolvimento de fatos e provas. Ademais, as impugnações tiveram como referências das decisões judiciais e, de forma alguma, o caderno processual, para não macular o enunciado da Súmula n. 07, desse e. STJ" (fl. 614).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida.
+Conforme relatado, o especial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) impossibilidade de alegação de violação a princípios e a dispositivos da Constituição Federal em sede de recurso especial; b) aplicação da Súmula n. 282/STF; e c) incidência da Súmula n. 7/STJ (fls. 545-548).
+No entanto, o ora recorrente, quando da interposição do respectivo agravo, deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal a quo para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula n. 7/STJ.
+De fato, conforme ressaltado no decisum monocrático reprochado, em percuciente análise dos autos, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que, repita-se, não aconteceu.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer: " ..  o agravante não impugnou os fundamentos da decisão agravada, o que atrai a incidência da Súmula 182 do STJ" (fl. 596).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+No mesmo sentido, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido, e em reforço:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
