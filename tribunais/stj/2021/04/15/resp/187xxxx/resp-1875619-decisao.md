@@ -1,0 +1,53 @@
+DECISÃO
+OI S.A. - EM RECUPERAÇÃO JUDICIAL (OI) interpôs agravo de instrumento contra decisão que, em ação declaratória de inexigibilidade de cobrança cumulada com repetição de indébito, dano moral e responsabilidade civil dissuasória ajuizada por ESPÓLIO DE VERGÍLIO COPETTI (ESPÓLIO), representado por FANNY LUIZA MABONI, ora em fase de cumprimento de sentença, considerou o crédito do agravo como extraconcursal e fixou como termo final da correção monetária a data do efetivo pagamento(e-STJ, fls. 121/127).
+O agravo de instrumento foi desprovido pelo Tribunal gaúcho em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. DATA DA CONSTITUIÇÃO DO CRÉDITO. NATUREZA CONCURSAL.
+1. Crédito de natureza concursal: sendo o fato gerador da pretensão indenizatória anterior ao pedido de recuperação judicial, impõe-se a caracterização do crédito como de natureza concursal. Precedentes.
+2. Termo final de atualização da dívida: tratando-se de crédito de natureza concursal, a atualização deste deve se dar até 20/06/2016, conforme disposições do Juízo da recuperação judicial. Precedentes.
+3. Tese contrarrecursal: hipótese em que, frente à singularidade e à complexidade da Recuperação Judicial da agravante, impõe-se, conforme as orientações do ofício nº 42/2018, editado pela Corregedoria-Geral de Justiça deste Tribunal, após a liquidação do crédito, a extinção do feito na origem, em razão da novação do crédito devido à parte agravada. Precedentes desta Corte e do Superior Tribunal de Justiça.
+Agravo de instrumento provido.(e-STJ, fl. 212).
+Inconformado, ESPÓLIO interpôs recurso especial com fundamento nas alíneasaecdo permissivo constitucional, apontando violação dosarts. 49,caput, 59 e 62 da Lei nº 11.101/05, sob o argumento de que, não obstante o crédito dorecorrenteseja concursal, a sua habilitação retardatária consiste em faculdade do titular preterido após a homologação do quadro geral de credores.Também apontou dissídio jurisprudencial, tendo por paradigma precedentedesta Corte Superior.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal gaúcho admitiu o referido apelo nobre (e-STJ, fls. 304/313).
+O Ministério Público Federal manifestou-se pela negativa de provimento do recurso especial (e-STJ, fls. 327/331).
+Nesta Corte, o recurso especial não foi conhecido por decisão monocrática de minha lavra assim sintetizada:
+PROCESSUAL CIVIL.RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE COBRANÇA CUMULADA COM REPETIÇÃO DE INDÉBITO, DANO MORAL E RESPONSABILIDADE CIVIL DISSUASÓRIA.CUMPRIMENTO DE SENTENÇA. COMPANHIA TELEFÔNICA EM RECUPERAÇÃO JUDICIAL. ALEGADA FACULDADE DO TITULAR PRETERIDO APÓS A HOMOLOGAÇÃO DO QUADRO GERAL DE CREDORES EM HABILITAR OU NÃO SEU CRÉDITO.PREQUESTIONAMENTO.AUSÊNCIA. SÚMULA Nº 211 DO STJ.RECURSO ESPECIAL NÃOCONHECIDO(e-STJ, fl. 334).
+Nas razões do presente agravo interno, ESPÓLIO alegou a inaplicabilidade da Súmula nº 211 do STJ, uma vez que a matéria foi devidamente prequestionada, na medida em que há clara discussão acerca da opção ou obrigação do credor na habilitação(e-STJ, fls. 339/343).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 334/336 e passo a novoexame do recurso especial.
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Necessidade de habilitação retardatária
+Nas razões do presente recurso, ESPÓLIO alegouviolação dos arts. 49, caput, 59 e 62 da Lei nº 11.101/05, sob o argumento de que, não obstante o crédito do recorrente seja concursal, a sua habilitação retardatária consiste em faculdade do titular preterido após a homologação do quadro geral de credores. Também apontou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Sobre o tema, o TJ/RS, analisando referida questão trazida nas contrarrazões ao agravo de instrumento,consignou que, após a liquidação do crédito, seria o caso de extinção da execuçãono juízo de origem coma consequente habilitação do crédito nos autos da recuperação judicial da OI, confira-se:
+No que diz respeito dos argumentos expostos nas contrarrazões, entendo que, após a liquidação do crédito, é caso de extinção da execução no Juízo de origem, sendo expedida a competente certidão de crédito em nome do agravado para que esse possa se habilitar nos autos da Recuperação Judicial da empresa recorrente.
+Isso porque, na hipótese em exame, convém ressaltar a singularidade da Recuperação Judicial da recorrente, a qual, em uma infinidade de processos por todo o território nacional, figura como executada.
+Destaca-se que são mais de 50 mil credores e que o débito da recorrente ultrapassa a expressiva quantia de R$ 60.000.000.000,00 (sessenta bilhões), sendo a maior Recuperação Judicial que já tramitou no Brasil.
+Dessa forma, diante das constantes divergências de entendimentos envolvendo os processos da OI S/A, o Juízo responsável pelo trâmite da Recuperação Judicial da empresa vem buscando adotar práticas uniformes nos feitos em que a recorrente consta comoexecutada, a fim de garantir o pleno cumprimento do plano de recuperação devidamente homologado(e-STJ, fls. fl. 218/219).
+Tal entendimento, no entanto, está em desconformidade com a jurisprudência desta Corte que é firme no sentido de que o credor não incluído no quadro geral de credores tem a prerrogativa de optar por habilitar o seu crédito ou aguardar o término da recuperação judicial para prosseguir com a execução individual.
+A propósito, vejam-se os seguintes julgados:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL.DECISÃO MONOCRÁTICA.IMPOSSIBILIDADE. HABILITAÇÃO RETARDATÁRIA DE CRÉDITO. FACULDADE DO CREDOR. PRECEDENTES. ATUALIZAÇÃO DO MONTANTE DEVIDO. DATA DO PEDIDO.LIMITAÇÃO. DESCABIMENTO. SITUAÇÕES FÁTICAS DISTINTAS.
+1. Ação ajuizada em 17/12/2012. Recursos especiais interpostos em 18/12/2019 e 8/1/2020. Autos conclusos à Relatora em 26/5/2020.
+2. Os propósitos recursais consistem em definir: (i) se houve negativa de prestação jurisdicional; (ii) se é possível ao credor aguardar o encerramento da recuperação judicial da devedora para cobrar seu crédito; e (iii) se a atualização dos valores devidos pela recuperanda encontra termo na data em que foi formulado o pedido de recuperação judicial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a matéria em debate, não há que se falar em negativa de prestação jurisdicional.
+4. A deficiência na fundamentação do recurso especial importa o seu não conhecimento quanto às respectivas questões jurídicas.
+5. Não se admite a invocação de decisão unipessoal para comprovação de dissídio jurisprudencial.
+6. A habilitação retardatária de crédito é providência que incumbe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei. Precedentes.
+7. A limitação da atualização dos valores prevista no inc. II do art. 9º da Lei 11.101/05 constitui determinação que concerne, unicamente, àqueles créditos que constituem objeto de habilitações pleiteadas pelos credores na forma do art. 7º, § 1º, da mesma lei (ou seja, após deferido o processamento da recuperação).
+8. A situação dos autos, no entanto, é diversa, haja vista o interesse manifestado pelo credor de não habilitar seu crédito na ação recuperacional. Assim, não se tratando de crédito que será pago de acordo com o plano de soerguimento, não pode incidir sobre ele disposições que se destinam, exclusivamente, àqueles que a ele se submetem. A presença de situação fática diversa daquela contida na norma de regência obsta a incidência da consequência jurídica nela prevista.
+9. Nesse panorama, tendo os credores recorrentes, na espécie, optado por aguardar o encerramento da recuperação judicial para perseguir seu crédito, não há razão jurídica apta a autorizar a limitação da atualização do montante da dívida somente até a data do pedido.
+RECURSO ESPECIAL DE OI S/A NÃO CONHECIDO.
+RECURSO ESPECIAL DE ANADIR E OUTRO PARCIALMENTE CONHECIDO E PROVIDO.
+(REsp 1.873.572/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 4/3/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NO QUADRO GERAL DE CREDORES DA SOCIEDADE EM RECUPERAÇÃO JUDICIAL. FACULDADE DO CREDOR PRETERIDO.
+1. É firme o entendimento do STJ de que o titular do crédito que for voluntariamente excluído do plano recuperacional detém a prerrogativa de decidir entre habilitar o seu crédito ou promover a execução individual, após o encerramento da recuperação judicial.
+2. Na hipótese, em tendo o credor optado por prosseguir com o processo executivo, não poderá ser obrigado a habilitar o seu crédito. No entanto, deverá o exequente aguardar o encerramento da recuperação judicial e assumir as consequências jurídicas (processuais e materiais) de sua escolha.
+3. Agravo interno não provido.
+(AgInt no REsp 1.467.046/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 2/3/2021)
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, DAR PROVIMENTOao recurso especial,facultando ao exequente optar entre a imediatahabilitaçãodo seucréditoou aguardar o encerramento do processo falimentar.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNOEM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DE AÇÕES. RECONSIDERAÇÃO.PLANO DE RECUPERAÇÃO JUDICIAL HOMOLOGADO. HABILITAÇÃO RETARDATÁRIA. FACULDADE DO CREDOR. PRECEDENTES.AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
