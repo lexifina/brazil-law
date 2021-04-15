@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ALAN MELO MARTINS contraa decisão de fls. 178-180, em que indeferi liminarmente ohabeas corpusimpetrado em favor do ora Agravante.
+Nas razões do regimental, aDefesa argumenta que "é mais que evidente o cabimento do Hc interposto pelo Agravante em face da decisão de indeferimento por parte do desembargador relator" (fl. 196).
+Assevera que é "de clareza solar que o Agravante sofre constrangimento ilegal em sua prisão preventiva, sobretudo em razão da demora injustificada em ser elaborada prova pericial" (fl. 198).
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Sexta Turma.
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, constata-se que a decisão do Desembargador Relator da impetração originária, impugnada neste writ, foi substituída pelo acórdão proferido em 08/04/2021, que denegou a ordem dehabeas corpus.
+Por tal razão, fica superada a análise das teses constantes da impetração, que se insurgia contra o indeferimento do pedido liminar na origem, conforme jurisprudência desta Corte:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA.HABEAS CORPUSIMPETRADO CONTRA DECISÃO QUE INDEFERIU A MEDIDA DE URGÊNCIA PLEITEADA NA CORTE DE ORIGEM. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO DOWRITORIGINÁRIO.HABEAS CORPUSPREJUDICADO. AGRAVO DESPROVIDO.
+I - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Omandamusimpetrado na eg. Corte de origem teve o pedido de urgência indeferido. Assim, impetradohabeas corpusnesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF, segundo a qual"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+III -Verifica-se a superveniência do julgamento de mérito do habeas corpus originário, em 12/02/2019. Desse modo, forçoso reconhecer a prejudicialidade do presentemandamus,tendo em vista a perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática indeferitória da medida liminar, restaram superados com o julgamento definitivo dohabeas corpusda origem.
+Agravo regimental desprovido." (AgRg no HC 488.484/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/03/2019, DJe 26/03/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR POR DESEMBARGADOR. EXTINÇÃO SUPERVENIENTE DOHABEAS CORPUSSEM EXAME DE MÉRITO. DECISÃO TERMINATIVA QUE DESAFIA INSTRUMENTO PRÓPRIO. AGRAVO REGIMENTAL EHABEAS CORPUSPREJUDICADOS.
+1.Se a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto dohabeas corpuse do agravo regimental que buscavam a superação da Súmula n. 691 do STF. O novo ato coator desafia impugnação própria.
+2. Além de não subsistir a decisão de indeferimento da liminar, atualmente não persiste a prisão preventiva do paciente por força de direito de extensão reconhecido por Ministro do Supremo Tribunal Federal. Assim, não há falar empericulum in moraapto a autorizar a intervenção de urgência deste Superior Tribunal, fora de sua competência constitucional, para análiseper saltumde legalidade de ato de Juiz de primeiro grau.
+3. Agravo regimental ehabeas corpusprejudicados." (AgRg no HC 447.377/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 28/08/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DECISÃO QUE INDEFERIU LIMINARMENTE A PETIÇÃO INICIAL. APLICAÇÃO DA SÚMULA N.º 691 DO SUPREMO TRIBUNAL FEDERAL. RECURSO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO NA ORIGEM. PREJUDICIALIDADE DA IMPETRAÇÃO.AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não merece conhecimento o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Aplicação da Súmula n.º 182 do STJ. 2. Com a superveniência do julgamento colegiado do mérito do writ na origem, fica prejudicada a impetração contra a anterior decisão do Desembargador Relator que indeferiu pedido liminar.
+3. Agravo regimental não conhecido."(AgRg no HC 472.047/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 26/02/2019; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o presente agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM. ACÓRDÃO POSTERIOR QUE DENEGOU A ORDEM.RECURSO PREJUDICADO.
