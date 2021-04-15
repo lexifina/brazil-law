@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpus substitutivo de recurso próprio,com pedido de liminar, impetrado em favor de ADEMIR NAIDE, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Segundo se infere dos autos, após a instauração de procedimento para apuração da suposta prática do delito previsto no art. 2º, § 2º da Lei 12.850/2013,o Ministério Público requereu a decretação da custódia preventiva dopaciente, tendo sido oreferido pleito indeferido pelo Juiz de primeiro grau.
+Irresignada, a acusação recorreu. O Tribunal de origem acolheu o pedido ministerial e determinou o recolhimento provisório dopaciente e demais corréus.
+Nesta Corte, o impetrante sustentahaver excesso de prazo para formação da culpa, estando o paciente presodesde 23/7/2018, sem previsão para o término da instrução criminal.
+Argumenta que "o processo tem 28 réus e, muitas testemunhas arroladas para serem ouvidas e não teve sequer ouvidas as testemunhas de acusação e, até a presente data, sequer tem previsão de data para interrogatório dos 28 réus".
+Por fim, indica que a demora decorre de indevida postura do Ministério Público estadual, que decidiu por denunciar grande número de réus na mesma ação penal, ocasionando, assim demora desproporcional na tramitação do feito.
+Pleiteia, assim, o relaxamento da segregação cautelar.
+O pedido de liminar foi indeferido.
+O Ministério Público Federal opinou peladenegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto ao alegado excesso de prazo para formação da culpa, o Tribunal de origem dispôs:
+"Inicialmente, deve ser esclarecido que segundo entendimentoconsolidado nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser aferidas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes (RHC 94.813/AL, Rel. Ministro RIBEIRODANTAS, QUINTA TURMA, julgado em 12/02/2019, DJe 19/02/2019).
+Aqui se trata de processo complexo, em que figuram vários réus(vinte e oito), presos em diversos locais do país, com diversas testemunhas a serem ouvidas, inclusive com necessidade de expedição de cartas precatórias, além de outras particularidades que justificam o tempo até agora decorrido, consoante informou a autoridade apontado como coatora (p. 207/209). Vejamos:
+" (..) Destaco, outrossim, que a morosidade na conclusão da instrução probatória restou justificada diante da complexidade da causa, que possui 28 réus presos em diversos locais do país, de maneira que realizaram-se inúmeras diligências a fim de concluir as citações. Tanto que os autos foram desmembrados para agilizar o andamento processual.
+Aliás, aos 18/06, 19/06 e 15/10 do corrente foram realizadas as audiências de instrução, que só não foram concluídas diante da ausência de algumas testemunhas, inclusive da defesa. Sublinho ainda que a crise de saúde pública prejudicou significativamente os atos processuais.
+Contudo, a audiência de continuidade fora agendada para 03/12/2020, de forma que não há se falar em desídia do juízo (..)".
+Ademais, depreende-se que já foram realizadas audiências de instrução nos dias 18 e 19 de junho e 15 de outubro do corrente ano, que só não restaram concluídas em razão da ausência de algumas testemunhas, inclusive da defesa, conforme informado pelo magistrado.
+Além disso, conforme ficou demonstrado nas informações, o feito possui trâmite regular e a instrução criminal está próxima de seu encerramento03/12/2020.Dessa forma, não há falar em constrangimento ilegal por excesso de prazo, pois a elasticidade no prazo para a conclusão do feito não é desproporcional frente ao caso apurado, bem como a culpa por esse maior tempo não pode ser atribuída ao poder judiciário"(e-STJ, fls. 12-13).
+Segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Na hipótese, observa-se que a prisão preventiva dopaciente foi decretada em 14/8/2018. Em consulta ao site do Tribunal de origem, verificou-se que a instrução criminal se encerrou em 9/2/2021, ocasião em que se realizou audiência de instrução com interrogatório dos réus.
+Já foram apresentadas alegações finais pela acusação e pelas defesas.
+Atualmente, o feito está concluso para sentença
+Sob tal contexto, não há se falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na formação da culpa, haja vista a complexidade do feito, que apura a estrutura de organização criminosa de alto vulto, contando o processocom 28 réus, localizados em comarcas distintas e com procuradores diferentes, tendo sido necessária a expedição de inúmeras cartas precatórias e análise de pluralidade de pedidos de revogação e relaxamento de prisão.
+Ademais, verifica-se que já foi encerrada a instrução criminal, incidindo, à hipótese, a súmula 52 do STJ, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo ".
+No mesmo sentido, os seguintes precedentes:
+" ..
+6. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento da delonga injustificada deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+7. Fica afastado, ao menos por ora, o suscitado excesso de prazo se a demanda tramita regularmente e o prognóstico para o término do feito, com data prevista para a realização da audiência de instrução, é de que seja em breve.
+8. Ordem denegada."
+(HC 530.341/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+" ..
+6. Não se verifica excesso de prazo na formação da culpa quando o processo segue regular tramitação, sendo que o maior prazo para o julgamento decorre da complexidade do feito, em que se apura a imputação a 3 réus da prática de tráfico e associação para o tráfico, em que foi necessária expedição de cartas precatórias para a oitiva de testemunhas para continuação da audiência de instrução e julgamento realizada em 12/11/2018. E, ainda, conforme verifica-se no sítio eletrônico do Tribunal de origem, a audiência ainda não foi realizada por ausência das testemunhas, sendo designada para 10/10/2019. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora.
+7. Habeas corpus não conhecido."
+(HC 526.418/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Ante o exposto, não conheço dohabeas corpus. Recomenda-se, porém, ao Juízo processante que imprima a maior celeridade possível no julgamento da ação penal n.0900093-92.2018.8.12.0002.
+Publique-se. Intimem-se.
