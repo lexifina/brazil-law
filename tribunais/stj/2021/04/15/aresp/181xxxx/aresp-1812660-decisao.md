@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por NYVEA ALVES RIBEIRO DA COSTA NAVESe OUTROcontra decisão do Tribunal de Justiça do Estado de Goiás que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl.472):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE EXECUÇÃO EXTRAJUDICIAL, DESCONSTITUIÇÃO DE CONSOLIDAÇÃO DE PROPRIEDADE, DECLARATÓRIA DE INEXISTÊNCIA DE MORA E DE INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA. AUSÊNCIA DE ALEGAÇÕES FINAIS. INDEFERIMENTO E DISPENSA DE PROVAS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AUSÊNCIA DE PREJUÍZO DEMONSTRADO. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL (LEI 9.514/97). MORA INCONTROVERSA E CONSOLIDAÇÃO DA PROPRIEDADE DO IMÓVEL EM NOME DO CREDOR. REGULARIDADE. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS (ART. 85 §11º DO CPC).
+I - Afasta-se a preliminar de cerceamento de defesa, ante a ausência de alegações finais, porquanto a falta de tais manifestações de ordem procedimental não é capaz, por si só, de macular o princípio da ampla defesa, sobremodo se inexistente efetivo prejuízo processual e se as provas constantes dos autos, associadas às demais manifestações das partes, permitirem o julgamento do mérito da causa então posta "sub examine".
+II - No mesmo passo, também não configura cerceamento de defesa o indeferimento ou dispensa de provas pelo magistrado "a quo", isto porque é o Juiz o destinatário final das provas juntadas e produzidas durante o "iter" procedimental. Logo, conclui-se que tem o julgador a liberalidade de determinar a produção das provas que entender necessárias e úteis ao deslinde da demanda, bem como de indeferir ou dispensar aquelas que considerar apenas protelatórias (arts. 370 c/c 371, ambos do CPC).
+III - "In casu", não há como prosperar a aventada nulidade do procedimento expropriatório levado a cabo na espécie, porquanto restou devidamente provada nos autos não só a notificação dos devedores (evento nº 71  docs. 03 e 17), mas também a inadimplência respectiva, razão pela qual, regular se afigura a consolidação da propriedade garantida por alienação fiduciária no nome do credor que, nos termos da lei específica, poderá levá-la a leilão extrajudicial na sequência.
+IV- Uma vez evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme disposto no artigo 85, § 11 do CPC. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls.507-513).
+Nas razões do recurso especial a parte alega ofensa aosartigos 26 e 27-A da Lei de Alienação Fiduciária.
+Sustenta, em síntese, anulidade do procedimento da execução extrajudicial e a inexistência de mora, eis que não foram observadas as formalidade previstas na Lei de Alienação Fiduciária (Lei 9.514/95) quanto à notificação do fiduciante e sem que fossem observados os direitos à purgação da mora, ao contraditório e à ampla defesa (e-STJ, fls. 540 e 543).
+Devidamente apresentadas as contrarrazões (e-STJ, fls. 561-569), sobreveio juízo negativo de admissibilidade na origem, advindo daí, o presente agarvo (e-STJ, fls. 577-608).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A pretensão recursal não prospera.
+Acerca da alegada nulidade do procedimento expropriatório, dispôs o acórdão (e-STJ, fls. 469-470):
+(..)
+Bem por isso, não há como prosperar a aventada nulidade do procedimento expropriatório, porquanto restou devidamente provada nos autos, não só a notificação dos devedores Nyvea e Wilson (evento nº 71  docs. 03 e 17), como também a inadimplência, razão pela qual, é regular a consolidação da propriedade garantia fiduciária no nome do credor que, nos termos da lei específica, poderá levá-la a leilão extrajudicial.
+Ademais, conquanto os Apelantes sustentem que iniciaram tratativas de renegociações, estas não foram concluídas. Assim, conforme corretamente dispôs o magistrado singular em ato sentenciai (evento nº 98), "os valores depositados pelos autores em conta bancária não foram recebidos pelo banco nem mesmo se concretizou qualquer renegociação. Diante disto, resta evidente que os autores realmente deixaram de efetuar o pagamento das parcelas as que se comprometeram, gerando a abertura de procedimento executivo extrajudicial que foi concluído após regular intimação dos devedores, consolidando a propriedade junto ao banco. Não havendo dúvidas da existência da mora e a inexistência da concretização da renegociação não se pode reconhecer a nulidade do procedimento expropriatório, assim como qualquer tipo de dano moral dele decorrente." (Grifei).
+Nesse contexto, alterar o entendimento do Tribunal a quo - de que não há que se falar em nulidade do procedimento extrajudicial, para concluir-se de forma diversa, como pretendido pelo recorrente - seria necessário reexaminar as provas dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL.EXECUÇÃOEXTRAJUDICIAL. NOTIFICAÇÃO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. É pacífica a jurisprudência do STJ segundo a qual, no regime deexecuçãoextrajudicial do Decreto-Lei nº 70/1966, somente é legítima a publicação de edital, inclusive da realização do leilão, quando frustrada a tentativa de notificação pessoal do devedor por meio do Cartório de Título e Documentos. Precedentes.
+2. Esbarra no óbice da Súmula n. 7/STJ a pretensão de rever o entendimento do Tribunal estadual, no sentido de que foi observado o procedimento legal por parte da exequente.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1475436/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/02/2020, DJe 13/02/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO EXTRAJUDICIAL. TENTATIVA DENOTIFICAÇÃO PESSOALFRUSTRADA.NOTIFICAÇÃOPOREDITAL.VALIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta egrégia Corte é assente no sentido de que, "Nos termos estabelecidos pelo parágrafo primeiro do art. 31 do DL 70/66, anotificação pessoaldo devedor, por intermédio do Cartório de Títulos e Documentos, é a forma normal de cientificação do devedor na execução extrajudicial doimóvelhipotecado. Todavia, frustrada essa forma denotificação,é cabível anotificaçãoporedital,nos termos parágrafo segundo do mesmo artigo, inclusive para a realização doleilão"(EAg 1.140.124/SP, Corte Especial, Rel. Min. TEORI ALBINO ZAVASCKI, DJe de 21.6.2010).
+2. No caso, ficou provado nos autos que o procedimento de execução extrajudicial se desenvolveu nos termos exigidos pela legislação, com regular envio denotificaçãoao endereço doimóvelda parte autora, em diligências realizadas em 9/3/1989, 13/3/1989, 17/3/1989 e 20/3/1989, todas infrutíferas, bem como por publicações deeditaisdenotificaçãoem jornal local.
+3. Para alterar o entendimento do Tribunal a quo, qual seja o de que ficou comprovado nos autos o cumprimento das formalidades exigidas para o regular processamento da execução extrajudicial, seria necessário reexaminar o contexto fático-probatório dos autos, o que, todavia, não é possível em sede de recurso especial, por força da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 652.239/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA julgado em 19/03/2015, DJe 17/04/2015 - grifou-se)
+AGRAVO REGIMENTAL - AÇÃO REVISIONAL DE CONTRATO DE MÚTUO FIRMADO NO ÂMBITO DO SISTEMA FINANCEIRO DA HABITAÇÃO- EXECUÇÃOEXTRAJUDICIAL PELOS MOLDES DO DECRETO-LEI Nº 70/66 - DECISÃO MONOCRÁTICA DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL.INSURGÊNCIA DA AUTORA.
+1. Incidência da súmula 7/STJ. Impossibilidade de reenfrentamento do acervo fático e probatório dos autos para verificar eventualnulidade do procedimentodeexecuçãoextrajudicial.
+2. "Os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado àexecuçãodo saldo sem excluir a legitimidade da própria parte", nos termos do enunciado da súmula 306/STJ, sendo admitida ainda que uma das partes seja beneficiária da assistência judiciária.
+3. Inviável verificação da sucumbência mínima nesta Corte, visto que implicaria revolvimento de prova.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg no REsp 1110826/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/05/2012, DJe 30/05/2012).
+Destarte, inviável a pretensão recursal.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 12% sobre o valor atualizado da causa(e-STJ fls. 470), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 15% sobre o valor atualizado da causa é medida adequada ao caso.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial, com majoração dos honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. EXECUÇÃO EXTRAJUDICIAL. ARGUIÇÃO DE NULIDADE DO PROCEDIMENTO EXPROPRIATÓRIO. INEXISTÊNCIA. RENEGOCIAÇÃONÃO CONCRETIZADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. .
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
