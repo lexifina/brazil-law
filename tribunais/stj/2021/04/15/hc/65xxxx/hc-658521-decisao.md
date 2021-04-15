@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WILLIAN HENRIQUE DOS SANTOS RODRIGUES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.0007998-85.2016.8.26.0510.
+Consta nos autos que o Paciente foi condenado como incurso no art.157, §2.º, inciso II,Código Penal, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 14 (catorze) dias-multa (fls. 13-22).
+Irresignada, a Defesarecorreu ao Tribunal de origem, que manteve integralmente a condenação imposta, conformeacórdão prolatado em27/07/2020(fls. 23-45).
+Em consulta ao sistema de informações processuais do Tribunal de origem, constata-se que acondenação transitou em julgado em 18/11/2020.
+Nas razões desta impetração, a Defesasustenta, em síntese, a nulidade da condenação, pois o reconhecimento do Paciente foi realizado apenas na fase policial e por fotografia, em ofensa ao disposto no art. 226 do Código de Processo Penal.
+Dede modo, alega que "considerando que toda a prova acerca da autoria colhida emana desta violação, inexiste comprovação dos fatos descritos na denúncia, o que deve levar à absolvição" (fl. 9).
+Pleiteia-se, assim, liminarmente e no mérito, "a concessão da ordem de Habeas Corpus para ABSOLVER o paciente da imputação de roubo, ante a ilicitude das provas, nos termos do art. 157 do CPP, por violação ao art. 226 do mesmo código" (fl. 9).
+É o relatório. Decido.
+No caso, verifica-se queo acórdão do Tribunal de Justiça do EstadodeSão Paulo apontado como ato coator (Apelaçãon. 0007998-85.2016.8.26.0510)transitou em julgado no dia 18/11/2020. Diante dessa situação, não deve ser conhecido o presente writ, pois a rediscussão da condenação definitivaexige a instauração de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus própriosjulgados, o que não é o caso dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue, monocraticamente, inadmissível o habeas corpus.
+2. Não deve ser conhecido o habeas corpus substitutivo de revisão criminal de decisões proferidas por outros Tribunais, por não haver sido inaugurada a competência do STJ. Só compete a esta Corte Superior apreciar pedidos de revisão criminal de seus próprios julgados, nos termos do art. 105, I, "e", da Constituição Federal. ..
+4. Agravo regimental não provido."(AgRg no HC 499.382/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020, sem grifos no original).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DESACATO. PLEITOS DE ABSOLVIÇÃO, EXCLUSÃO DA REINCIDÊNCIA, FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADA E DECIDIDA PELA CORTE DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.HABEAS CORPUS NÃO CONHECIDO. ..
+IV - O exame das alegações do impetrante se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, já que transitada em julgado a condenação, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal.
+Habeas corpus não conhecido."(HC 540.161/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADOTJ/PE), QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019, sem grifos no original.)
+De outra parte, também não se verifica nenhuma ilegalidade flagrante capaz de autorizar a concessão de habeas corpus de ofício por esta Corte Superior.
+Isso porque, ao contrário do que sustenta a Defesa, a condenação não se encontra fundamentada apenas no reconhecimento fotográfico do Paciente, mas igualmente no fato de que "vários objetos foram subtraídos da casa da vítima, dentre os quais batons e esmaltes, alguns dos quais foram localizados na residência do réu" (fl. 17), não havendo sido oferecida justificativa idônea pelo Acusado para a presença destes objetos no local.
+Nesse contexto, a pretensão de rediscutir a condenação transitadaem julgado, como pretende a Defesa, efetivamenteexigiria amplaincursão em matéria fático-probatória, o que não é possível nos estreitos limites cognitivos do habeas corpus.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL EPROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO.
