@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MÁRCIO TARCÍSIO RENNO SILVA NEGREIROS contra decisão de minha relatoria que julgou prejudicado o agravo internoanterior manejado pelo TRIBUNAL DE CONTAS DO ESTADO DO RIO GRANDE DO NORTE, visto que teria perdido o objeto diante do deferimento concedido pelo STF nos autos da Suspensão de Segurança n. 5.335/RN (fls. 2.373-2.374).
+Nas razões dos declaratórios, o embargante aduz omissão na decisãotrazida nas contrarrazões do agravo interno de"reconhecimento do caráter abusivo e infringente do Agravo, suficientes à aplicação da penalidade prevista no art. 1.021, § 4ºdo CPC/2015" (fl. 2.378).
+É, no essencial, o relatório. Decido.
+Embora o embargante tenha suscitado a aplicação de multa em desfavor do ora embargadoem virtude da interposição do agravo interno, não ficou evidenciado nenhumdos elementos que autorizasse a aplicação da sanção.
+Registre-se que"omero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso" (EDcl no AgInt no AREsp n. 1.753.528/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/3/2021).
+O simples fato de o tribunal de contas ter ajuizado suspensão de segurança no STF não veda que ocorra a formulaçãonoSTJ. Embora a suspensão tenha sido manejada na Corte Suprema em 3/12/2019, até a data do ajuizamento no STJ (em 2/6/2020) e mesmo até a interposição do citado agravo interno (em 24/6/2020), não haviamanifestação do STF sobre os fundamentos apresentados na suspensão, menos ainda com reconhecimento de sua competência sobre a questão em debate, o queocorreu somente em 3/7/2020.
+Assim, a mera utilização dos meios processuais ordinários postos àdisposição das partes não pode ser classificado como "temerária", como aduz o embargante.
+Nesse sentido, veja-se a título de reforço:
+3. A tão só atitude deliberada da parte de interpor o recurso previsto na legislação não condução à conclusão da má fé processual ou a
+necessidade de aplicação da multa do § 4º do art. 1.021 do CPC/2015, pois necessária a comprovação concreta da quebra da boa fé. (EDcl no AgInt no RE nos EDcl no AgInt no AREsp n. 1.114.382/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 3/12/2018.)
+Ante o exposto, acolho os embargos de declaração para sanar a omissão apontada, sem efeitos infringentes.
