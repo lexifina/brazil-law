@@ -1,0 +1,32 @@
+Recurso Inominado:
+1005051-83.2019.8.11.0015 - PJE
+Origem:
+VARA ESPECIALIZADA DA FAZENDA PÚBLICA DE SINOP
+Recorrente:
+MUNICIPIO DE SINOP
+Recorrido:
+ROBERTO SATOSHI YOSHIDA
+Juiz Relator:
+JORGE ALEXANDRE MARTINS FERREIRA
+EMENTA – DECISÃO MONOCRÁTICA
+REEXAME NECESSÁRIO. DESCABIMENTO NO RITO DOS JUIZADOS ESPECIAIS.
+1. Nos termos do artigo 11 da Lei 12.153/2009, no âmbito do sistema do Juizado Especial da Fazenda Pública, não há reexame necessário.
+2. Reexame Necessário não conhecido.
+DECISÃO MONOCRÁTICA
+Vistos, etc.
+Dispenso o relatório, nos termos do artigo 38, da Lei 9.099/95.
+Trata-se de Reexame Necessário encaminhado à esta Turma Recursal.
+Pois bem. No Sistema dos Juizados Especiais, especificamente no que diz respeito ao Juizado Especial da Fazenda Pública, nos termos do artigo 11, da Lei no 12.153/2009, não há reexame necessário, litters:
+“Art. 11. Nas causas de que trata esta Lei, não haverá reexame necessário.”
+Esse é o ensinamento de Ricardo Cunha Chimenti, Presidente de honra do FONAJE - Fórum Nacional dos Juizados Especiais:
+“Nos Juizados da Fazenda Pública é incabível o reexame necessário, qualquer que seja o valor da condenação ou do direito controvertido, mas os arts. 12 e 13 desta Lei n. 12.153/2009 estabelecem o trânsito em julgado da sentença como requisito para que tenha início a fase satisfativa do processo. (CHIMENTI, Ricardo Cunha. Juizados Especiais da Fazenda Pública, 1a ed: São Paulo. Saraiva, 2010, p. 90)”
+A Turma Recursal Única do Estado de Mato Grosso tem entendimento pacífico sobre o tema:
+“DECISÃO MONOCRÁTICA: REEXAME NECESSÁRIO. REMESSA DOS AUTOS À E. TURMA RECURSAL, APÓS O JULGAMENTO DO IRDR N.o 85560/2016. DESCABIMENTO NO RITO DOS JUIZADOS ESPECIAIS. REEXAME NECESSÁRIO NÃO CONHECIDO. 1. De início, impõe-se esclarecer que o presente feito fora remetido à esta E. Turma Recursal em razão do julgamento do IRDR 85560/2016, no qual o E. Tribunal de Justiça Estadual fixou a tese no sentido de que “compete ao Juizado Especial da Fazenda Pública o processamento e o julgamento das ações, em que o valor da causa não ultrapasse a 60 (sessenta) salário mínimos, independentemente da complexidade da matéria e da necessidade da produção da prova pericial”. 2. Sucede, no entanto, que no âmbito do sistema do Juizado Especial da Fazenda Pública, não há reexame necessário, nos termos do artigo 11 da Lei 12.153/2009. Neste contexto, considerando a modificação da competência, impõe-se o não conhecimento do reexame necessário. 3. Inexistindo recurso voluntário a ser examinado por esta E. Turma Recursal, a devolução dos autos à origem é medida impositiva. 4. Reexame Necessário não conhecido. (TJMT – Turma Recursal Única - Reexame Necessário: 1005782-50.2017.8.11.0015, Juíza Relatora: LAMISSE RODER FEGURI ALVES CORRÊA, Data de Julgamento: 31/10/2019, Data de Publicação: 05/11/2019)”
+Inclusive, vale mencionar casos idênticos os quais foram decididos monocraticamente, dentre eles: 1002122-53.2018.8.11.0002 - Juíza Relatora: Valdeci Moraes Siqueira, 0002013-77.2015.8.11.0029 – Juíza Relatora: Patrícia Ceni, 0008361-56.2015.8.11.0015 – Juiz Relator: Sebastião de Arruda Almeida, 1000213-53.2018.8.11.0041 – Juiz Relator: Marcelo Sebastião Prado de Moraes, 0001708-70.2017.8.11.0111 – Juíza Relatora: Lamisse Roder Feguri Alves Corrêa, 1022579-57.2016.8.11.0041 – Juíza Relatora: Lúcia Peruffo e 1000342-81.2018.8.11.0001 – Juiz Relator: Gonçalo Antunes de Barros Neto.
+Sendo assim, diante da expressa vedação legal, faz-se imperioso o não conhecimento do Reexame Necessário, bem como a devolução dos autos à origem, especificamente para os Juizados Especiais com atribuições da Fazenda Pública, em razão da inexistência de recurso voluntário a ser examinado por esta E. Turma Recursal.
+Posto isso, NÃO CONHEÇO do REEXAME NECESSÁRIO e DETERMINO a devolução dos autos à origem.
+Intimem-se.
+Cumpra-se.
+Às providências.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
