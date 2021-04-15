@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO DO PEDIDO LIMINAR. DESCABIMENTO DE RECURSO. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não cabe agravo regimental contra decisão proferida em habeas corpus que, fundamentadamente, defere ou indefere o pedido liminar.
+2. Hipótese em que, outrossim, a decisão deve ser mantida por seus próprios fundamentos, pois, ao menos em juízo perfunctório, não há como se concluir, prontamente, haver ilegalidade nos autos.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por ELTON ROGERIO DOS SANTOS contra a decisão monocrática de minha lavra, por meio da qual indeferi o pedido liminar formulado em habeas corpus (fls. 103-105).
+Nas razões do agravo, o Agravante reitera as alegações do writ, sustentando que, "a decretação da prisão preventiva, assim como sua manutenção, exige a existência de concretos indícios de periculum libertatis, e não meras ilações genéricas referentes à gravidade do crime ou à etapa processual em que o feito se encontra. Assim, o simples fato de ter sido prolatada sentença em primeiro grau em nada implica" (fl. 115).
+Aduz, ainda, que "o regime prisional também comporta modificação urgente, eis que o MM. Julgador de piso sequer justificou a fixação de regime mais gravoso que o previsto em lei" (fl. 117).
+Pleiteia, desse modo, caso não haja retratação, seja o feito submetido à apreciação do Órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO DO PEDIDO LIMINAR. DESCABIMENTO DE RECURSO. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não cabe agravo regimental contra decisão proferida em habeas corpus que, fundamentadamente, defere ou indefere o pedido liminar.
+2. Hipótese em que, outrossim, a decisão deve ser mantida por seus próprios fundamentos, pois, ao menos em juízo perfunctório, não há como se concluir, prontamente, haver ilegalidade nos autos.
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não deve ser conhecido.
+Com efeito, na decisão proferida às fls. 103-105, em juízo perfunctório, foram analisadas sinteticamente as razões apresentadas na petição inicial, com o único objetivo de aferir a existência do fumus boni iuris necessário à concessão do provimento urgente pleiteado. Desse modo, ante a ausência de plausibilidade do direito alegado, limitou-se a decisão impugnada a indeferir fundamentadamente o pedido liminar.
+Ocorre que, consoante reiterada jurisprudência deste Superior Tribunal de Justiça, não cabe agravo regimental contra decisão proferida em habeas corpus que, fundamentadamente, defere ou indefere o pedido liminar.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DO PEDIDO DE LIMINAR. DECISÃO FUNDAMENTADA. RECURSO INCABÍVEL. AGRAVO NÃO CONHECIDO.
+1. Uníssono o entendimento desta Corte Superior de que não é passível de agravo regimental a decisão do relator que indefere de forma fundamentada o pedido de liminar. Precedentes.
+2. O pedido de liminar restou indeferido de forma fundamentada. Isso porque o habeas corpus impugnou decisão que indeferiu pedido de liminar perante a Corte de origem, nos termos da Súmula 691/STF, não sendo possível, ainda, a verificação da alegada flagrante ilegalidade, tendo em vista a deficiência da instrução processual no momento da impetração.
+Agravo regimental não conhecido." (AgRg no HC 458.367/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/08/2018, DJe 30/08/2018.)
+"AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERE LIMINAR EM HABEAS CORPUS. NÃO CABIMENTO. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO.
+1. Nos termos da orientação sedimentada por esta Corte, é incabível agravo regimental contra decisão que, fundamentadamente, concede ou rejeita pedido de liminar em habeas corpus.
+2. In casu, não há que se falar em excesso de prazo, neste juízo cognitivo, e ao menos por ora, pois o processo vem tendo regular andamento na origem, sinalizando, inclusive, para o encerramento da instrução.
+3. Agravo regimental não conhecido." (AgRg no HC 445.213/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/05/2018, DJe 16/05/2018.)
+No mesmo diapasão, os seguintes precedentes do Supremo Tribunal Federal:
+"HABEAS CORPUS IMPETRADO, ORIGINARIAMENTE, PERANTE O SUPREMO TRIBUNAL FEDERAL - MEDIDA LIMINAR DENEGADA, PELO RELATOR DA CAUSA, EM DECISÃO PLENAMENTE FUNDAMENTADA - OPOSIÇÃO, EM FACE DESSE ATO DECISÓRIO, DE "EMBARGOS DE DECLARAÇÃO" - ATO DECISÓRIO INSUSCETÍVEL DE IMPUGNAÇÃO RECURSAL SEJA ATRAVÉS DE EMBARGOS DE DECLARAÇÃO SEJA POR MEIO DE RECURSO DE AGRAVO - PRECEDENTES - RECURSO NÃO CONHECIDO. - Não se revelam suscetíveis de conhecimento, por inadmissíveis, quaisquer recursos, inclusive embargos de declaração, deduzidos contra decisão do Relator que, motivadamente, defere ou, como na espécie, indefere pedido de medida liminar formulado em sede de "habeas corpus" originariamente impetrado perante o Supremo Tribunal Federal. Precedentes." (HC 112,860 ED-MC, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJe 17/12/2012.)
+"HABEAS CORPUS. PROCESSUAL PENAL. AGRAVO REGIMENTAL CONTRA DECISÃO DE RELATOR QUE INDEFERE PEDIDO DE LIMINAR EM HABEAS CORPUS. RECURSO NÃO-CONHECIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE CONHECIMENTO DE QUESTÃO NÃO-EXAMINADA NO ACÓRDÃO IMPUGNADO. PRECEDENTES.
+1. O acórdão questionado está em perfeita consonância com a jurisprudência desta Corte Suprema no sentido de que não cabe agravo regimental contra decisão monocrática do relator que indefere pedido de liminar em habeas corpus.
+2. O não-conhecimento do agravo regimental pelo Tribunal a quo impossibilita o exame, por este Supremo Tribunal Federal, da questão relativa ao excesso de prazo, sob pena de incorrer em julgamento per saltum. 3. Habeas corpus não-conhecido." (STF, HC 93.531/SP, Rel. Ministro MENEZES DIREITO, PRIMEIRA TURMA, DJe 30/05/2008.)
+Ademais, a decisão impugnada deve ser mantida por seus próprios fundamentos, pois não foram demonstrados os requisitos para a concessão de pleito liminar, conforme se extrai, in verbis:
+"Conforme posicionamento adotado pelo Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva. Para a satisfação do art. 387, § 1.º, do Código de Processo Penal, é suficiente esclarecer se estão inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma, como, em princípio, verificado na hipótese.
+No ponto, vale ressaltar que, no decreto prisional, consignou-se o que se segue (fl. 33; sem grifos no original):
+"Os elementos de convicção produzidos até o presente momento demonstram comprovada materialidade e indícios suficientes de autoria da traficância, a ensejar, desde agora, a necessidade da prisão para a garantia da ordem pública, a qual restará ameaçada se ele, envolto nesta grave acusação, permanecer em liberdade. Consigne-se ainda que o autuado ostenta diversas passagens policiais e atualmente responde em autos apartados (0001885-88.2017.8260637) juntamente com mais seis acusados pela prática do delito de tráfico de drogas e associação ao tráfico ocorridos no ano de 2017. Naquela oportunidade, indeferiu-se o pedido de prisão preventiva formulado pelo Ministério Público, privilegiando-se a presunção de inocência. Todavia,a nova infração penal noticiada nestes autos sugere fortemente que o autuado não cessou sua atividade ilícita; que continua desde àquela época a perpetrar o tráfico de drogas. Na conformidade do que disse o Ministério Público, forte os indícios de que o autuado possui estreita ligação com organizações criminosas."
+A sentença condenatória, da mesma forma, destacou a periculosidade do Paciente, conforme se observa dos seguintes fragmentos da decisão (fl. 95; sem grifos no original):
+"A propósito, apesar da quantidade de entorpecente apreendido não ser exorbitante (36,18 g de maconha), verifico pela certidão de antecedentes criminais que o paciente está sendo processado pelo crime de tráfico interestadual de drogas e associação ao tráfico (fls. 112/115 autos originais; processo n.º 0001885-88.2017.8.26.0637 - fls. 540/577), o que revela, nesta primeira análise, que as demais cautelares previstas no artigo 319 do Código de Processo Penal podem ser inadequadas."
+Como se vê, tais fundamentos não se mostram, em princípio, desarrazoados ou ilegais, tendo sido demonstrada, prima facie, a necessidade da manutenção da segregação cautelar para garantia da ordem pública, sobretudo porque o Paciente "ostenta diversas passagens policiais e atualmente responde em autos apartados (0001885-88.2017.8260637) juntamente com mais seis acusados pela prática do delito de tráfico de drogas e associação ao tráfico ocorridos no ano de 2017" (fl. 33), evidenciando o risco concreto de reiteração delitiva.
+Nesse sentido:
+"HABEAS CORPUS. ROUBO MAJORADO. PRISÃO. VEDAÇÃO DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. EXTENSA FOLHA DE ANTECEDENTES. GARANTIA DA ORDEM PÚBLICA.
+1. A prisão cautelar só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência.
+2. No caso, a constrição cautelar foi devidamente fundamentada na garantia da ordem pública, dada a periculosidade concreta do agente, o qual, segundo a sua folha de antecedentes, parece ser contumaz na prática de crimes.
+3. O fato de o paciente ter sido posto em liberdade durante a instrução do processo, diga-se, em razão do reconhecimento do excesso de prazo, não quer dizer que não possa ter a sua liberdade restringida na sentença quando apresentados fundamentos idôneos.
+4. Ordem denegada." (HC 527.689/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/10/2019, DJe 05/11/2019.)
+Por fim, quanto a alegação de que o Paciente estaria ilegalmente cumprindo a reprimenda em regime mais gravoso, verifico que que não houve pronunciamento da Corte estadual quanto ao tema, sendo, dessa forma, vedada sua apreciação por este Superior Tribunal de Justiça, sob pena de violação ao princípio da dialeticidade e de supressão de instância.
+Assim, vejo que o caso não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a instrução completa do feito.
+Ante o exposto, INDEFIRO o pedido liminar" (fls. 103-105).
+Destaco que eventual irresignação defensiva deverá ser manejada contra a decisão terminativa, singular ou colegiada, na qual haverá a apreciação definitiva das alegações do writ para acolher ou rejeitar as pretensões deduzidas.
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
