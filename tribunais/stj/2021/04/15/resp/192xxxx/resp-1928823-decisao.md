@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado por J. S. Oliveira Eireli com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 291):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. NOTAS FISCAIS DESACOMPANHADAS DE ASSINATURA. ÔNUS DA PROVA. RECURSO PROVIDO. 1. No caso em tela a prova escrita do alegado crédito da Apelada está formalizado em uma nota fiscal, desprovida de assinatura e da data da entrega das mercadorias. 2. O Apelado não se desincumbiu na inicial do ônus de comprovar seu direito de crédito contra o Apelante, sendo ônus daquele a prova de fato modificativo do direito nos temos do disposto no art. 373, inciso I, do Código de Processo Civil. 3. Recurso conhecido e provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+A parte recorrente aponta violação aos arts. 489, § 1º, 1013 e 1022 do CPC. Sustenta que o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia, concernentes às provas carreadas aos autos, que teriam o condão de comprovar a entrega das mercadorias cujo preço é objeto de cobrança nos autos principais.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, 1013 e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, ao analisar a apelação interposta pelo Município recorrido, a Corte local consignou (fls. 288/289):
+Em detida análise dos autos verifica-se que assiste razão ao Apelante, já que o documento apresentado na petição inicial não é capaz de comprovar que o Apelado possui crédito a receber do Município.
+É cediço que um requisito da prova escrita é que ela não pode ter sido produzida unilateralmente pelo autor, exigindo-se alguma participação do réu na sua formação.
+No caso em tela a prova escrita do alegado crédito da Apelada está formalizado em uma nota fiscal, desprovida de assinatura e da data da entrega das mercadorias.
+O Apelante sustenta que as mercadorias elencadas na nota fiscal não foram por ele solicitadas e, outrossim, não há provas de sua efetiva entrega, já que ausentes os comprovantes de recebimento.
+Depreende-se do processado que, de fato, o lastro negocial não restou evidenciado, porquanto ausentes os comprovantes de entrega da mercadoria ao Apelante, não havendo como se dar guarida à pretensão da Apelado e compelir o Município ao pagamento da importância apresentada.
+Não há, pois, omissão a ser sanada na via do recurso especial,uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+ANTE O EXPOSTO, nego provimento ao recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
