@@ -1,0 +1,19 @@
+D E C I S Ã O
+    Reputo intempestivo o presente agravo em recurso extraordinário.
+    A parte recorrente foi regularmente intimada da decisão de admissibilidade do apelo extremo em 15/10/2020, de modo que, considerando as regras de contagem de prazo (art. 1.003, § 5º, do CPC/15, c/c o art. 798 do CPP), o termo final para oportuna interposição do agravo em recurso extraordinário era 30/10/2020.
+    Entretanto, o agravo foi interposto em 03/11/2020, o que demonstra, a toda evidência, sua manifesta intempestividade. Nos termos da jurisprudência desta Suprema Corte em matéria penal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL. CRIME DE RESPONSABILIDADE. ARTIGO 1 º DO DECRETO-LEI 201/1967. TEMPESTIVIDADE EM MATÉRIA PENAL. REVOGAÇÃO EXPRESSA DO ARTIGO 28 DA LEI 8.038/1990 PELO CÓDIGO DE PROCESSO CIVIL DE 2015. PRAZO DE 15 (QUINZE) DIAS PARA INTERPOSIÇÃO DO AGRAVO EM RECURSO EXTRAORDINÁRIO (ARTIGOS 1.003, § 5 º, E 1.042 DO CPC/2015). CONTAGEM DOS PRAZOS DE FORMA CONTÍNUA (ARTIGO 798 DO CPP). PETIÇÃO DE AGRAVO RECEBIDA PELO PROTOCOLO DO TRIBUNAL DE ORIGEM APÓS O PRAZO LEGAL. INTEMPESTIVO. AGRAVO REGIMENTAL DESPROVIDO.”
+    (ARE 1.009.351-AgR/SE, Ministro Luiz Fux – com meus grifos)
+    Convém referir, que, tratando-se de prazo processual penal, a forma de contagem é disciplinada por norma legal que dispõe expressamente sobre a matéria “Todos os prazos (…) serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado” (CPP, art. 798, “caput”), tornando inaplicável a regra contida no art. 219, “caput”, do Código de Processo Civil de 2015, pois, a aplicação analógica da legislação processual civil ao processo penal, embora autorizada pelo art. 3º do Código de Processo Penal, depende da existência de omissão na legislação processual penal (Lei de Introdução às Normas do Direito Brasileiro, art. 4º).
+    Ressalto, ademais, que é incumbência da parte recorrente comprovar, no ato de interposição do pertinente recurso, a suspensão de prazo porventura ocorrida na origem, a teor do disposto no art. 1.003, § 6º, do CPC e de reiterados precedentes desta Suprema Corte (ARE 1.134.665-AgR/SP, Ministro Edson Fachin; ARE 1.185.991-AgR/PE, Ministro Luiz Fux; ARE 1.193.552-AgR/SP, Ministro Gilmar Mendes; entre outros).
+    Saliento, no ponto, que o Plenário do Supremo Tribunal Federal, em recente julgamento, ao apreciar o ARE 1304679-AgR/SP, Ministro Luiz Fux, reputou intempestivo o recurso extraordinário interposto, em razão de não comprovação de suspensão dos prazos no ato de interposição do apelo extremo, em mesma situação excepcional da pandemia do COVID/19. Transcrevo a ementa:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE. RECURSO MANIFESTAMENTE INADMISSÍVEL. INTERRUPÇÃO OU SUSPENSÃO DO PRAZO. IMPOSSIBILIDADE. PRECEDENTES.
+    1. A parte agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do recurso extraordinário (art. 1.003, § 5º, c/c art. 219, ambos do CPC).
+    2. A comprovação da ocorrência de feriado local deve se dar no ato de interposição do recurso (art. 1003, § 6º, do CPC).
+    3. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+    4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.”
+    Em face do exposto, com fundamento no inciso III do art. 932 do CPC, c/c §1º do art. 21 do RISTF, não conheço o recurso extraordinário. com agravo.
+    Publique-se.
+    Brasília, 15 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
