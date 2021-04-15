@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de SERGIO DIAS MARTINS JUNIOR,em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente foi condenado à pena de 8anos, 2meses e 4 dias de reclusão e 1.180dias multa, como incurso no art. 35, caput, da Lei n.11.343/2006, à pena de 5 anos e 3 meses de reclusão e 14 dias-multa, como incurso no art. 333, caput, do CP, e à pena de 7 anos de reclusão e 22 dias-multa, como incurso no art. 333, parágrafo único, do CP, totalizadas em 20 anos, 5 meses e 4 dias de reclusão e 1216 dias-multa.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao recurso ministerial para condenar o paciente, também, pela prática do delito do art. 33, caput, da Lei n. 11.343/2006, à pena de 8 anos de reclusão e 800 dias-multa, totalizando a pena do réu, em concurso material com os delitos dos arts. 35 da Lei n. 11.343/2006 e 333, caput e parágrafo único, do Código Penal, em 27 anos, 9 meses e 15 dias de reclusão e pagamento de 1858 dias-multa.
+Neste habeas corpus, alega o impetrante, em suma, violação do art. 59 do Código Penal.
+Assevera que "a condenação indicada no artigo 333 do CP, a pena foi aplicada duplamente não só a pena relativa ao caput do artigo, mais o acréscimo previstono paragrafo único, gerando na dosimetria da pena em bis in idem à condenação nesse particular." (e-STJ, fl. 10)
+Aduz que "ao fixar a pena-base muito acima do mínimo legal, o Juízo sentenciante faz considerações genéricas e abstratas, e ainda, utiliza de fundamentos que não tem o condão ajustificar a valoração negativa das vetoriais, não tendo Tribunal a quo realizado a correção que se faz necessário, e hoje o Paciente se encontra com uma pena aplicada de forma exacerbada, contudo, com um decreto condenatório eivado de ilegalidades." (e-STJ, fls. 10-11)
+Argumenta que "a r. sentença aponta que o paciente ostentava caracterização de reincidência, o que não se faz justo pois não há condenação no crime a si imputado, eis que primário nas imputações que lhe são indicadas." (e-STJ, fl. 14)
+Aponta que, em relação aos antecedentes, "não há qualquer crime previsto na Lei 11.343/2006 em desfavor do paciente em toda sua guia de execução penal." (e-STJ, fl. 17)
+Afirma que "ante a ausência de elementos aptos a justificar a elevação da pena pelos motivos, deve a circunstância valorada de forma negativa ser afastada." (e-STJ, fl. 19)
+Sustenta que "o magistrado sopesou negativamente as consequências com argumentos vagos e inerentes ao próprio tipo penal, apontando que a prática de crimes, que ocorreram de dentro da PSMA II, como fato de motivação de aumento de pena, o que se encontra em desconformidade com o Entendimento firmado pelos Tribunais e Cortes Superiores, isto porque não há regra para crimes ocorridos dentro ou fora de um presidio." (e-STJ, fl. 21)
+Por fim, alega que o Tribunal de origem "deixou de lado os entendimentos desta Corte no tocante a ausência de materialidade do crime bem como a ausência de laudo toxicológico para a materialidade do crime, prova esta que o Ministério Publico não logrou êxito em trazer aos autos." (e-STJ, fl. 22)
+Requer, assim, liminarmente e no mérito, seja reduzida a pena-base ao mínimo legal, seja reconhecida a abolitio criminis no tocante à causa de aumento prevista no art. 33, caput, da Lei de Drogas, ante a ausência de materialidade, bem como seja submetida a pena de multa ao sistema trifásico da dosimetria da pena.
+É o relatório.
+Decido.
+A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrado, de modo claro e indiscutível, ilegalidade no ato judicial impugnado.
+Na espécie, sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste instante, a presença de pressuposto autorizativo da concessão da tutela de urgência pretendida.
+Assim, indefiro o pedido de liminar.
+Solicitem-se informações à autoridade coatora e ao Juízo de primeira instância, notadamente o laudo toxicológico definitivo, além da senha para consulta ao processo, a serem prestadas preferencialmente por malote digital.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
