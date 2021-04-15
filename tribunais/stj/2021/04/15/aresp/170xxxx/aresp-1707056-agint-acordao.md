@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Na espécie, a Corte de origem não apreciou a tese recursal, segundo a qual,na hipótese em que a liquidação dependa de simples cálculos aritméticos, o prazo prescricional passa a ser computado a partir do trânsito em julgado da ação de conhecimento". A falta de prequestionamento da matéria suscitada no recurso especial, impede o conhecimento do recurso especial, a teor da Súmula 282/STF.
+2. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 211/STJ.
+O agravante alega, em suma, que não se aplica a Súmula 211/STJ à hipótese, pois o Tribunal a quo, "consignou, em mais de uma oportunidade, que a "liquidação" ocorrida no caso em comento dependia de simples cálculos aritméticos e, assim sendo, referida "liquidação" não teria o condão de interromper ou suspender o prazo prescricional" (fl. 383).
+Reitera a existência de dissídio jurisprudencial.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Na espécie, a Corte de origem não apreciou a tese recursal, segundo a qual,na hipótese em que a liquidação dependa de simples cálculos aritméticos, o prazo prescricional passa a ser computado a partir do trânsito em julgado da ação de conhecimento". A falta de prequestionamento da matéria suscitada no recurso especial, impede o conhecimento do recurso especial, a teor da Súmula 282/STF.
+2. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+3. Agravo interno não provido.
+VOTO
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+Ao solucionar a controvérsia, o Tribunal local asseverou que (fls. 259-260):
+ ..
+Segundo o art. 1º do Decreto nº 20.910/32, as dívidas passivas dos Estados, bem assim todo e qualquer direito ou ação contra a Fazenda Estadual, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+O teor da Súmula 150 do STF, por sua vez, prevê que "prescreve a execução no mesmo prazo de prescrição da ação".
+No caso dos autos, o fato que originou a execução foi o acórdão confirmatório da sentença condenatória coletiva, que transitou em julgado em 18.07.2011, tal como considerado pelo magistrado sentenciante.
+Entretanto, compreende-se que tratava-se de sentença ilíquida, circunstância que impediu sua imediata execução, haja vista a homologação do acordo realizado pelas partes no tocante à obrigação de fazer, que denotava a necessidade de liquidação do título obtido ao dispor, de maneira clara, que o título formado continha comando genérico, com inúmeros substituídos devendo os autos serem encaminhados à Contadoria Judicial para a respectiva apuração.
+A liquidação, todavia, se deu somente em 09/12/2013, quando houve a homologação dos cálculos realizados pela contadoria, expondo que as execuções individuais deveriam se utilizar daquele modelo para o seu regular processamento.
+Equivocada, assim, a sentença recorrida que considerou como início do prazo prescricional a partir do trânsito em julgado da demanda, pois o termo para o início do prazo prescricional referente a dies a quo pretensão executiva deve ser aquele em que o título restou devidamente liquidado, qual seja, 09/12/2013, nos termos do entendimento do Superior Tribunal de Justiça.
+ ..
+Dessarte, considerando que a presente execução foi intentada em julho de 2018, dentro, por conseguinte, do prazo de 05 (cinco) anos a contar da liquidação, entende-se que não há que se falar em prescrição na espécie, devendo ser cassada a sentença proferida.
+ ..
+Ao que se vê, a Corte de origem, de fato, não apreciou nem debateu a controvérsia acerca da suposta violação do1º do Decreto 20.910/1932, considerando a tese de que, "quando a liquidação dependa de simples cálculos aritméticos, o prazo prescricional passa a ser computado a partir do trânsito em julgado da ação de conhecimento" (fl. 274).
+A ausência de juízo de valor sobre a referida tese por parte do Tribunal a quoacarreta o não conhecimento do recurso especial, pela falta de cumprimento ao requisito do prequestionamento.
+Ainda nessa esteira, cumpre salientar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não é o caso dos autos.
+Nesse sentido, vejam-se (grifos nossos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUME NTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.682.293/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.098.633/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 15/9/2017)
+Além do mais, destaca-se que a orientação desta Corte se firmou no sentido de que "a exigência do prequestionamento prevalece também quanto às matérias de ordem pública" (EREsp 805.804/RS, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 01/07/2015). Em igual sentido: AgInt nos EDcl no REsp 1.526.220/MT, Rel. Min. Og Fernandes, Segunda Turma, DJe 17/10/2017.
+Desse modo, mantém-se o não conhecimento do recurso especial, face a carência de prequestionamento da tese recursal.
+Da mesma forma quanto ao dissídio jurisprudencial,falece a questão do necessário prequestionamento, pois a divergência jurisprudencial suscitada recai sobre a mesma controvérsia acima apreciada, consoante se observa à fl. 280.
+Com isso, tem-se, conforme entendimento desta Corte, a prejudicialidade do exame do dissídio jurisprudencial. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
