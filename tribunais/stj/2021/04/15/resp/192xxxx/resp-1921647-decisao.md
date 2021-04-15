@@ -1,0 +1,18 @@
+DECISÃO
+Ministério Público do Estado de Mato Grosso interpõe recurso especial, com fundamento no art. 105, III,a, da Constituição Federal, contra acórdão assim ementado pelo Tribunal de Justiça, em autos de ação civil pública por ele ajuizada, com objetivo de compelir o Estado a franquear tratamento cirúrgico a menor de idade (fls. 139-140):
+AGRAVO DE INSTRUMENTO  OBRIGAÇÃO DE FAZER  ASSISTÊNCIA À SAÚDE  DATA DA DISTRIBUIÇÃO DA PRETENSÃO  COMPETÊNCIA DA PRIMEIRA VARA ESPECIALIZADA DA FAZENDA PÚBLICA DA COMARCA DE VÁRZEA GRANDE  RESOLUÇÃO TJ-MT/OE Nº 9, DE 25 DE JULHO DE 2019  OBSERVÂNCIA  NECESSIDADE.
+Constata-se que a pretensão foi distribuída após a publicação da Resolução TJ-MT/OE nº 9, de 25 de julho de 2019, que alterou a competência da Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande e estabeleceu que as ações que envolvam direitos relacionados à assistência à saúde, serão processadas e julgadas na referida Vara, a autorizar a remessa dos autos ao Juízo da Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande.
+Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 191-203).
+O recorrente, alega, em síntese,que deve prevalecer a competência originária da ação, e que a citada Resolução viola a legislação federal ao estabelecer que as ações de saúde em desfavor do Estado só podem tramitar na comarca de Várzea Grande, criando, ainda, uma prerrogativa de foro ao ente público sem a devida previsão constitucional.
+Não foram apresentadas contrarrazões (fl. 298).
+É o relatório. Decido.
+Verifica-se que a matéria versada no apelo foi submetida a Incidente de Assunção de Competência - IAC n. 10/STJ -, no âmbito dos REsp ns. 1.896.379/MT, 1.903.920/MT, e dos RMS ns. 64.531/MT, 64.525/MT, 64.625/MT e 65.286/MT, de Relatoria do Ministro Og Fernandes, com a seguinte questão a ser deliberada:
+Fixação da competência prevalecente para julgamento de matérias de direitos coletivos e individuais quando haja conflito entre norma infralegal ou lei estadual e a previsão de leis federais, no que tange a foro especializado em lides contra a Fazenda Pública.
+Na ocasião, o nobre relator assim considerou:
+ ..
+2. Ordem liminar: i) suspensão imediata da redistribuição à 1ª Vara Especializada da Fazenda Pública da Comarca de Várzea Grande/MT dos feitos propostos ou em tramitação em comarcas diversas ou juizados especiais, cujo fundamento, expresso ou implícito, seja a Resolução 9/2019/TJMT ou normativo similar, independentemente da matéria ou sujeitos envolvidos, até julgamento definitivo deste incidente; ii) retorno aos juízos de origem dos feitos redistribuídos com fundamento nessa norma; iii) fixação provisória da competência nos respectivos juízos de origem, inclusive no que diz respeito ao julgamento de mérito; iv) afastamento da incidência da resolução no ponto; v) fixação no caso concreto, desde logo, da competência do Juizado Especial da Fazenda Pública de Pontes de Lacerda.
+3. Por economia processual, devem ser devolvidos os recursos especiais e ordinários alusivos à matéria e em trâmite nesta Corte ao TJMT, para fins de incidência analógica dos arts. 1.040 e 1.041 do CPC/15 e cumprimento, no ínterim, da ordem liminar.
+Diante disso, torna-se impositivo o cumprimento da referida determinação, em situação análoga a dos casos de demandas repetitivas, cabendo ao ministro relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem, nos termos do referidos dispositivos processuais.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que seja observada a decisão prolatada pelo Ministro Relator no âmbito do citado IAC.
+Publique-se. Intimem-se.
