@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porJhonathas Aparecido Guimarães Sucupira e outroà decisãomonocrática proferida por este signatário, a qual deu provimento ao recurso especial afim de fixar a verba honorária em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, do CPC/2015.
+A decisão está assim ementada (e-STJ, fls. 489-493):
+RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Em suas razões (e-STJ, fls. 495-499), os embargantes alegam omissão quanto ao critério de arbitramento dos honorários, o qual deve observar o valor da causa.
+Impugnação às fls. 501-506 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, deve-se ressaltar que apenas são cabíveis osaclaratórios quando existir no julgado omissão, contradição ou obscuridade,nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que,de fato, não se observa na espécie.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO REGIMENTALNOCONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIALEMFACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃOOUOMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃODACOMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022,do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade,contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro materialdo acórdão embargado. Recurso dotado de caráter manifestamenteinfringente. Inexistência de demonstração dos vícios apontados, objetivandoà rediscussão da matéria, já repetidamente decida.
+ ..
+4. Embargos de declaração rejeitados. (EDcl nosEDcl no AgRg noCC 122.675/RJ, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 14/6/2017,DJe 22/6/2017)
+Afigura-se correta a decisão agravadaquanto ao arbitramento de honorários advocatícios, no patamar de R$ 5.000,00(cinco mil reais).Isso porque, considerando a extensão do provimento judicial na primeira fase da prestação de contas, em que não há condenação, inexistindo, inclusive, qualquer correspondência com o valor da causa, o proveito econômico mostra-se de todo inestimável, a atrair a incidência do § 8º do art. 85 do Código de Processo Civil.
+Nesse sentido, aliás, posicionou-se a Terceira Turma do STJ, por ocasião do julgamento do REsp n. 1.874.603/DF, que, sobre a matéria, decidiu:
+ ..
+18. Ressalte-se que o Código de Processo Civil revogado tampouco continha previsão expressa sobre a fixação da verba honorária nas ações de prestação de contas, mas a doutrina e a jurisprudência consolidaram o entendimento acerca do cabimento da incidência da verba honorária sucumbencial ainda na primeira fase da ação.
+19. É que, com a procedência do pedido do autor (condenação à prestação das contas exigidas), infere-se que o réu fica vencido na primeira fase da ação de exigir contas, devendo arcar com os honorários advocatícios como consequência óbvia do princípio da sucumbência. Inclusive, foi este o entendimento perfilhado no julgamento dos EDcl no REsp 1.746.337/RS, 3ª Turma, DJe 12/04/2019).
+20. A propósito, transcreve-se, também, a lição de Elpídio Donizetti, que, por sua vez, faz remissão à doutrina de Theotonio Negrão:
+Em se reconhecendo, na primeira fase, a improcedência da pretensão de se exigirem contas, a questão é simples. O pedido será julgado improcedente e o demandante será condenado ao pagamento das custas processuais e honorários advocatícios em favor do demandado. Em caso de procedência da primeira fase, a solução é um pouco mais complicada. Isso porque o autor, até então vitorioso, pode não o ser após o julgamento da segunda fase, isto é, o autor pode, ao final, ser condenado a quitar saldo em aberto a favor do réu.
+A solução em tais casos é apontada por Theotonio Negrão:
+"Na primeira fase da ação de prestação de contas, a sentença condenará o vencido ao pagamento de honorários de advogado, conforme considere a ação procedente ou improcedente; na segunda fase, essa condenação dependerá da conduta das partes".
+Julgada procedente a primeira fase, o réu já será condenado ao pagamento das respectivas custas e dos honorários advocatícios. Por não haver, ainda, condenação (que, na verdade, além de inestimável é também imprevisível), a verba honorária será fixada com base no § 8º do art. 85.
+Na segunda fase do procedimento, a sucumbência dependerá da postura dos litigantes. Prestadas as contas, e não instaurada qualquer controvérsia, mantém-se a distribuição arbitrada na primeira fase. Havendo impugnação das contas e do saldo devedor pretendido, dando ensejo a um novo contraditório, com produção de provas, a sentença resolverá os pontos controversos e, então, fixará a verba de sucumbência. Poderá ocorrer, assim, acréscimo da condenação imposta na primeira fase ou imposição de encargos ao autor da ação, o que caracterizaria sucumbência recíproca (Novo Código de Processo Civil comentado - 2 ed. rev., atual. e ampl. São Paulo: Atlas, 2017, pp. 734-735) (grifos acrescentados).
+21. Convém frisar que, na espécie, a autora ajuizou a ação de exigir contas em desfavor do ora recorrido, que ofereceu contestação impugnando a própria obrigação de prestá-las, não se podendo negar, portanto, que o mesmo restou vencido quanto ao ponto.
+22. O acórdão recorrido, portanto, merece reforma. Forte nessas razões, CONHEÇO do recurso especial interposto por J A G S e M G DE O P E - MICROEMPRESA e DOU-LHE PROVIMENTO, para fixar a verba honorária em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, do CPC/2015.
+Dessa forma, a condenação da parte sucumbente aos honorários advocatícios da parte adversa deve se lastrear no critério de equidade, estabelecido no art. 85, § 8º, do Código de Processo Civil.
+Em atenção aos critérios estabelecidos no § 2º do dispositivo legal em comento, atento à singeleza da primeira fase processual da ação de prestação contas, restrita ao reconhecimento do dever da instituição financeira de prestar contas na condição depositária, conforme o contrato bancário estabelecido entre as partes, tem-se que o valor de R$ 5.000,00 (cinco mil reais) remunera condignamente o advogado da parte vitoriosa, na extensão do trabalho expendido.
+Desse modo, o que se constata, na verdade, é apenas a pretensão derejulgamento da causa em razão do inconformismo da parte com o resultado,tornando inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO.INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA QUESTÃO. IMPOSSIBILIDADE.EMBARGOS REJEITADOS.
