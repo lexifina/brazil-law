@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaMETAXAS REPRESENTAÇÃO, IMPORTAÇÃO E EXPORTAÇÃO LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão oriundo do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 295):
+EMBARGOS DE TERCEIRO. TERMO INICIAL DO PRAZO. INTEMPESTIVIDADE.
+Intimado acerca da realização da hasta pública do imóvel sobre o qual possui garantia hipotecária, não cabe estender o prazo para a oposição de embargos de terceiro para após o lapso de que dispõe a União para adjudicar o bem arrematado, uma vez que o embargante pretende a discussão do preço da avaliação do bem.
+No recurso especial (e-STJ fls. 302/315), a empresa alega, além de divergência jurisprudencial, violação doart. 24 da Lei 6.830/1980, do art.2º, § 2º da LICCe dos arts.1.048 e 1.052 do CPC/1973. Entende que os embargos de terceiroseriam tempestivos, aduzindoque a possibilidade de adjudicação do bem pela Fazenda (30 dias, conforme art. 24 da LEF) inviabiliza a interposição de embargos.
+Argumenta que,"para verificar o prazo para apresentação dos presentes Embargos, em se tratando de Execução Fiscaldeve respeitar ainda o lapso de 30 (trinta) dias a contar da arrematação, para só após iniciar o prazo de 5 (cinco) dias acima expostos" (e-STJ fls. 309).
+Contrarrazões foram apresentadas às e-STJ fls. 351/356.
+Decisão que admitiu o recurso especial consta à e-STJ fl. 359.
+Passo a decidir.
+Registroque "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feito esse esclarecimento, destaco que o presente recurso tem origem em embargos de terceiro julgados intempestivosem primeiro grau de jurisdição (e-STJ fls. 154):
+Alegando a embargante o desconhecimento da existência da execução, é predominante o entendimento de não servir o ato de arrematação, adjudicação ou remição como termos a quo da fluência do prazo, pois somente com a imissão de posse se pode ter seguro conhecimento da possível turbação.
+Não é o que ocorre no presente caso, em que a embargante foi intimada sobre a realização da hasta pública em 30/12/2013 (eventos 35 e 42 dos autos50006230720134047006).
+Demais disso, o Juízo da 3ª Vara Cível de Guarapuava/PR, em que tramitam os autos 0018415-97.2012.8.16.0031, tendo por objeto a execução do crédito hipotecário, solicitou a reserva de eventual saldo remanescente na execução fiscal em 12/03/2014 (evento52 dos autos 50006230720134047006), o que evidencia que há muito tempo a embargante tem inequívoco conhecimento da existência da presente execução e da alegada turbação de sua posse.
+ ..
+Assim, ciente a embargante da presente execução desde 30/12/2013, e tendo ocorrido a arrematação do imóvel de matrícula nº 15.376, do 2º Ofício de Registro de Imóveis de Guarapuava/PR em 27/03/2014 (evento 01, AUTOARREM3), intempestivos os presentes embargos, ajuizados somente em 25/04/2014.
+O fato de os autos de execução estarem aguardando o decurso do prazo para manifestação da exequente sobre eventual interesse na adjudicação do bem em nada altera essa conclusão, mormente porque o bem será, de qualquer forma, expropriado.
+O Tribunal de origem negou provimento ao recurso de apelação,mantendo os fundamentosda sentença, e acrescentou o seguinte(e-STJ fl. 294):
+Compulsando os autos, observo que, ao contrário do alegado na inicial, a embargante foi intimada da designação do leilão nos autos da execução fiscal em 30-12-2013(Processo 5000623-07.2013.404.7006, Eventos 35 e 42). Portanto, desde aquela data tinha ciência da avaliação do imóvel, de modo que as alegações contra ela referentes poderiam já ter sido formuladas àquela época.
+No mesmo sentido, não há falar em postergação do termo inicial para o ajuizamento de embargos de terceiro para após os 30 dias de que dispõe a União para adjudicar o imóvel depois da arrematação. Isso porque a jurisprudência do STJ só admite tal hipótese para os casos de embargos à arrematação (e vícios dela decorrentes), e porque as alegações concernentes à avaliação do bem são descabidas no presente momento processual(art. 13, § 1º, LEF).
+Além disso, as questões debatidas no presente feito, incluindo a alegação de preço vil, já foram vertidas pela empresa executada em sede de embargos à arrematação(processo nº 5001895-02.2014.404.7006), os quais foram julgados improcedentes.
+Em conclusão, agiu acertadamente o juiz da causa ao extinguir o presente feitos em resolução do mérito, de modo que a sentença deve ser mantida.
+Pois bem.
+O recurso não comporta acolhimento, uma vez que o acórdão recorrido não diverge do entendimento desta Corte Superior.
+Com efeito," ..  na hipótese de o terceiro não ter ciência da execução, a fluência do prazo de cinco dias para a oposição de embargos de terceiro (art. 1.048 do CPC/1973, equivalente ao art. 675 do CPC/15) deve ser contada da data da turbação ou esbulho. Incidência da Súmula 83 desta Corte" (AgInt no AREsp 1.569.845/SC, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 29/06/2020, DJe 03/08/2020).
+No mesmo sentido, destaco, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS DE TERCEIRO.INTEMPESTIVIDADE. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui firme o entendimento no sentido de que a fluência do prazo de cinco dias para a oposição de Embargos de terceiro, contados da data da turbação ou esbulho, ocorre no caso do terceiro não ter ciência da execução. Incidência da Súmula 83 desta Corte.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.380.712/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2019, DJe 26/11/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. EMBARGANTE QUE NÃO FOI PARTE NA AÇÃO DE EXECUÇÃO. CIÊNCIA DO PROCESSO. A ALTERAÇÃO DO ACÓRDÃO DE ORIGEM IMPLICARIA NO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. No caso em apreço, postula a parte autora sejam considerados tempestivos os Embargos de Terceiro opostos após a turbação da posse.
+2. A questão foi dirimida pelas instâncias ordinárias, com base na moldura fático-probatória, e levando-se em conta as certidões lançadas no caderno processual; impossível sua alteração em sede de recorribilidade extraordinária.
+3. Conforme decidido pela Corte de origem, os embargantes tiveram ciência da realização da hasta pública em 20.11.2011, onde inclusive constou a advertência do prazo de cinco dias para oposição de embargos. A arrematação se deu em 22.11.2011 e somente em 9.1o.2012 o autor ajuizou os embargos de terceiros, portanto, intempestivos.
+4. Agravo Interno dos Particulares a que se nega provimento.
+(AgInt no REsp 1.502.498/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 27/02/2018).
+No caso dos autos, comodemonstrado na sentença, a parte embargante teveciência da execução em 31/12/2013 (e-STJ fl. 155), portanto, o prazo de 5 (cinco) dias deverá ser contado, nos termos da segunda parte do art. 1.048 do CPC/1973, a partir da arrematação, ocorrida em 37/03/2014 (e-STJ fl. 155),(CPC/1973, art. 1.048):"Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença, e, no processo de execução, até 5 (cinco) dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta."
+Infere-se extemporânea a interposição dos presentes embargos de terceiro em 25/04/2014.
+Assim, o recurso não merece acolhimento, pois o acórdão recorrido não diverge desse entendimento.
+Incide, portanto, a Súmula 83 do STJ (não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/08/2016, DJe 30/08/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais(art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
