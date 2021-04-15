@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. CAUSAS INTERNAS. COBERTURA. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL E A BOA-FÉ OBJETIVA. A CLÁUSULA QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA AO ART. 51 DO CDC. AGRAVO IMPROVIDO.
+1. É iterativa a jurisprudência desta Casa no sentido de que, mesmo não estando o caso previstoem alguma das hipóteses autorizativas do art. 932 do CPC/2015, que permite ao julgadorentregar a prestação jurisdicional de forma unipessoal, eventual mácula na decisão singular ficacorrigida com o julgamento do agravo interno pelo órgão colegiado respectivo.
+2.Ajurisprudência desta Corte tem entendimento de que é nula a cláusula contratual que, em seguro habitacional, exclui a cobertura dos danos causados pelos vícios de construção.
+3.Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Sul América Companhia Nacional de Seguros contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 719):
+RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. CAUSAS INTERNAS. COBERTURA. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL E A BOA-FÉ OBJETIVA. A CLÁUSULA QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA AO ART. 51 DO CDC. RECURSO ESPECIAL PROVIDO.
+Em suas razões, a agravante alega que a decisão agravada não se encontra em consonância com os mais recentes entendimentos desta Corte; que "não há nestes autos a presença dos dois requisitos essenciais para a concessão da tutela antecipada, quais sejam: a) a probabilidade do direito, que no regime anterior seria um convencimento da verossimilhança das alegações; b) e que, ainda, seja patente o fundado receio de dano irreparável ou de difícil reparação, que justifique o julgamento monocrático e antecipado por parte do Relator, mormente quando, em sua fundamentação não está evidenciado o confronto direito com súmula ou jurisprudência dominante deste Tribunal"; a necessidade de julgamento pelo colegiado; e a ausência de cobertura dos vícios de construção, por serem eventos de causa externa. Repisa os argumentos do recurso especial, aduzindo que a apólice e seguro não visa assegurar a qualidade e solidez da obra, mas apenas garantir o financiamento imobiliário. Defende, ainda, a não incidência do Código de Defesa do Consumidor(e-STJ, fls. 726-743).
+Busca, assim, a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fls. 746-750).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. CAUSAS INTERNAS. COBERTURA. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL E A BOA-FÉ OBJETIVA. A CLÁUSULA QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA AO ART. 51 DO CDC. AGRAVO IMPROVIDO.
+1. É iterativa a jurisprudência desta Casa no sentido de que, mesmo não estando o caso previstoem alguma das hipóteses autorizativas do art. 932 do CPC/2015, que permite ao julgadorentregar a prestação jurisdicional de forma unipessoal, eventual mácula na decisão singular ficacorrigida com o julgamento do agravo interno pelo órgão colegiado respectivo.
+2.Ajurisprudência desta Corte tem entendimento de que é nula a cláusula contratual que, em seguro habitacional, exclui a cobertura dos danos causados pelos vícios de construção.
+3.Agravo interno improvido.
+VOTO
+O recurso não comporta provimento.
+De início, em relação ao suscitado descabimento de julgamentomonocrático da petição, é assente na jurisprudência desta Casa que, mesmo nãoestando o caso previsto em alguma das hipóteses autorizadoras do art. 932 doCPC/2015, que permite ao julgador entregar a prestação jurisdicional de formaunipessoal, eventual mácula na decisão singular fica corrigida com o julgamento doagravo interno pelo órgão colegiado respectivo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO.MANDADO DE SEGURANÇA. MOTIVAÇÃO PER RELATIONEM.POSSIBILIDADE. ENTENDIMENTO PACÍFICO DO STJ E DO STF.AUSÊNCIA DE PREQUESTIONAMENTO. DEVIDO PROCESSOLEGAL. INEXISTÊNCIA DE NULIDADE.
+1. Trata-se de Agravo Internointerposto contra decisum que conheceu em parte do Recurso Especiale, nessa parte, negou-lhe provimento.
+2. Cuida-se, na origem, de Mandado de Segurança impetrado porfuncionário público contra o Município de Sítio Novo/MA para a imediatareintegração ao cargo público, com o pagamento das verbasremuneratórias desde a data da impetração.
+3. A sentença concedeu a segurança para "declarar a nulidade doProcesso Administrativo Disciplinar 002/2015-CPAD, determinando oimediato retorno do impetrante ao exercício do cargo de CirurgiãoDentista, com o pagamento dos seus vencimentos devidos desde oajuizamento do presente writ". O Tribunal de origem negou provimento àApelação do Município.
+4. Não se pode conhecer da irresignação contra a ofensa ao art. 489 doCPC, pois o referido dispositivo legal não foi analisado pela instância deorigem. Ausente, portanto, o indispensável requisito doprequestionamento, o que atrai, por analogia, o óbice da Súmula282/STF: "É inadmissível o recurso extraordinário, quando não ventilada,na decisão recorrida, a questão federal suscitada."
+5. A jurisprudência doSupremo Tribunal Federal e do Superior Tribunal de Justiça, mesmoapós o advento do novo Código de Processo Civil, admite o emprego demotivação per relationem, a fim de evitar tautologia, reconhecendo quetal técnica se coaduna com o art. 93, IX, da Constituição Federal.
+6. Constam no acórdão recorrido as razões pelas quais o juízo declarou anulidade do processo administrativo disciplinar, o qual possibilitou oexercício regular do contraditório e da ampla defesa.
+7. Ademais, não há falar em nulidade por não estar a decisãomonocrática do relator no Tribunal de origem integrada nashipóteses previstas no art. 932, IV, do CPC/2015, haja vista que oposterior julgamento do Agravo Interno pelo Colegiado saneiaeventual irregularidade processual.
+8. O STJ consolidou jurisprudência no sentido de que a declaração denulidade de atos processuais depende da demonstração do efetivoprejuízo, o que não ocorreu, na hipótese, em observância ao princípio
+pas de nullité sans grief.
+9. Agravo Interno não provido.
+(AgInt no REsp n. 1.777.961/MA, RelatorMinistro HERMAN BENJAMIN,SEGUNDA TURMA, julgado em 11/6/2019, DJe 2/8/2019 - sem grifo no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUALCIVIL. CONSUMIDOR. AÇÃO CIVIL PÚBLICA. PEDIDO DENULIDADE DE CLÁUSULA QUE PREVÊ A RENOVAÇÃOAUTOMÁTICA DE CONTRATO DE ABERTURA DE CRÉDITO EMCONTA CORRENTE. IMPROCEDÊNCIA. CLÁUSULA ABUSIVA.ONEROSIDADE EXCESSIVA OU DESVANTAGEM DEMASIADA AOCONSUMIDOR. NÃO CONFIGURAÇÃO. AGRAVO DESPROVIDO.
+1. Esta Corte de Justiça consagra orientação no sentido de ser permitidoao relator decidir monocraticamente o recurso, quando amparado emjurisprudência dominante ou Súmula de Tribunal Superior, consoanteexegese do art. 932, IV e V, do CPC/2015. Eventual mácula nadeliberação unipessoal fica superada, em razão da apreciação da matéria
+pelo órgão colegiado em sede de agravo interno.
+2. A cláusula de renovação automática do contrato de abertura de créditonão pode ser considerada abusiva. Nesse sentido: REsp 697.379/RS,
+Rel. Min. Carlos Alberto Menezes Direito, Terceira Turma, DJ de21/5/2007.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.280.889/RJ, RelatorMinistro RAUL ARAÚJO, QUARTA
+TURMA, julgado em 11/4/2019, DJe 8/5/2019).
+Quanto ao mérito, conforme consignado na decisão agravada, ajurisprudência desta Corte tem entendimento de que é nula a cláusula contratual que, em seguro habitacional, exclui a cobertura dos danos causados pelos vícios de construção.
+Nesse sentido:
+RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. IMÓVEL ADQUIRIDO PELO SFH. ADESÃO AO SEGURO HABITACIONAL OBRIGATÓRIO. RESPONSABILIDADE DA SEGURADORA. VÍCIOS DE CONSTRUÇÃO (VÍCIOS OCULTOS). BOA-FÉ OBJETIVA. FUNÇÃO SOCIAL DO CONTRATO. JULGAMENTO: CPC/15.
+1. Ação de indenização securitária proposta em 11/03/2011, de que foi extraído o presente recurso especial, interposto em 12/07/2018 e concluso ao gabinete em 16/04/2019.
+2. O propósito recursal é decidir se os prejuízos resultantes de sinistros relacionados a vícios estruturais de construção estão acobertados pelo seguro habitacional obrigatório, vinculado a crédito imobiliário concedido para aquisição de imóvel pelo Sistema Financeiro da Habitação - SFH.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm.211/STJ).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+5. Em virtude da mutualidade ínsita ao contrato de seguro, o risco coberto é previamente delimitado e, por conseguinte, limitada é também a obrigação da seguradora de indenizar; mas o exame dessa limitação não pode perder de vista a própria causa do contrato de seguro, que é a garantia do interesse legítimo do segurado.
+6. Assim como tem o segurado o dever de veracidade nas declarações prestadas, a fim de possibilitar a correta avaliação do risco pelo segurador, a boa-fé objetiva impõe ao segurador, na fase pré-contratual, o dever, dentreoutros, de dar informações claras e objetivas sobre o contrato, para permitir que o segurado compreenda, com exatidão, o verdadeiro alcance da garantia contratada, e, nas fases de execução e pós-contratual, o dever de evitar subterfúgios para tentar se eximir de sua responsabilidade com relação aos riscos previamente determinados.
+7. Esse dever de informação do segurador ganha maior importância quando se trata de um contrato de adesão - como, em regra, são os contratos de seguro -, pois se trata de circunstância que, por si só, torna vulnerável a posição do segurado.
+8. A necessidade de se assegurar, na interpretação do contrato, um padrão mínimo de qualidade do consentimento do segurado, implica o reconhecimento da abusividade formal das cláusulas que desrespeitem ou comprometam a sua livre manifestação de vontade, enquanto parte vulnerável.
+9. No âmbito do SFH, o seguro habitacional ganha conformação diferenciada, uma vez que integra a política nacional de habitação, destinada a facilitar a aquisição da casa própria, especialmente pelas classes de menor renda da população, tratando-se, pois, de contrato obrigatório que visa à proteção da família e à salvaguarda do imóvel que garante o respectivo financiamento imobiliário, resguardando, assim, os recursos públicos direcionados à manutenção do sistema.
+10. A interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio.
+11. Os vícios estruturais de construção provocam, por si mesmos, a atuação de forças anormais sobre a edificação, na medida em que, se é fragilizado o seu alicerce, qualquer esforço sobre ele - que seria naturalmente suportado acaso a estrutura estivesse íntegra - é potencializado, do ponto de vista das suas consequências, porque apto a ocasionar danos não esperados na situação de normalidade de fruição do bem.
+12. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp n. 1.804.965/SP, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/5/2020, DJe 1º/6/2020).
+AGRAVO INTERNO. RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO ÂNUA. TERMO INICIAL. PRECEDENTES.
+1. Em se tratando de vícios construtivos, o fato gerador da pretensão (e termo inicial do prazo prescricional) é o momento da ciência inequívoca dos danos à estrutura do imóvel, os quais, em regra, ocorrem de maneira progressiva/sucessiva/gradual, dando azo a inúmeros sinistros que, seguidamente, renovam a pretensão do beneficiário do seguro. Desse modo, considera-se deflagrado o prazo prescricional apenas no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar. Precedentes.
+2. "À luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, conclui-se que os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar notempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto)" (REsp 1717112/RN, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 25/09/2018, DJe 11/10/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.744.749/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/6/2019, DJe 25/6/2019).
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL, A BOA-FÉ OBJETIVA, E A NATUREZA ADESIVA. A CLÁUSULA DAS CONDIÇÕES PARTICULARES DO SEGURO QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA O QUANTO DISPOSTO NO ART. 51, VI E §2º, DO CDC.
+1. Caso concreto em que a alegação de incompetência da Justiça Estadual em face do interesse da CEF já fora objeto de anterior recurso especial entre as mesmas partes, no curso do mesmo processo, tendo sido rechaçada a competência da Justiça Federal em decisão transitada em julgado em 08/10/2018 (REsp 1.673.848-SP).
+2. Discussão acerca da abusividade de cláusula constante nas condições particulares do seguro habitacional inserto no âmbito do SFH segundo a qual vícios de construção ou defeitos físicos oriundos de causas internas estejam afastados da cobertura securitária.
+3. O seguro é erigido dentro do Sistema Financeiro Habitacional como garantia ao segurado e, do mesmo modo, ao financiador, de modo que possa desempenhar a sua mais clara função: garantir que o segurado seja ressarcido pelos riscos invalidez/morte, danos físicos ao imóvel financiado, e responsabilidade do construtor e que o credor financiante não seja surpreendido com a ruína do imóvel que garante o financiamento.
+4. Abusividade da cláusula das condições particulares do seguro habitacional que restringe direitos ou obrigações fundamentais inerentes à natureza do contrato.
+5. Incompatibilidade com os fins sociais do seguro obrigatório habitacional, voltado a coadjuvar um sistema pensado na aquisição da casa própria para a população, notadamente de baixa renda, que os principais vícios que acometam o bem objeto de garantia do financiamento não estejam por ele cobertos.
+6. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.702.126/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/6/2019, DJe 25/6/2019).
+No ponto, o Tribunal de Justiça assim se pronunciou (e-STJ, fls. 666-668):
+Conforme os termos da apólice o risco coberto não engloba vícios construtivos decorrentes de falha na construção ou na escolha de materiais.
+O risco coberto consiste em dano oriundo de causas externas, não englobando vício interno da coisa.
+O contrato contém cláusula expressa de exclusão dos vícios construtivos, limitando às causas externas os riscos segurados, não prevalecendo aargumentação a respeito da liquidação de sinistro nas hipóteses em que este é contemplado.
+(..)
+No caso sub judice a própria parte autora relata que os vícios decorrem de falhas no processo construtivo, não havendo indicação de qualquer causa externa nos moldes exigidos pelo contrato.
+A invocação do Código de Defesa do Consumidor ou da cláusula geral de boa-fé não ampara a pretensão da parte, pois lícita a limitação convencional do risco segurado, considerando que o contrato de seguro tem finalidade própria.
+O seguro tem como objeto a preservação do imóvel financiado em face de circunstâncias externas que possam causar dano e inviabilizar o negócio, especialmente a garantia ao credor mutuante. Vícios construtivos são de responsabilidade do incorporador e não constituem objeto do risco segurado.
+Não se vislumbra, data venia, lesão ao CDC por esvaziamento do conteúdo essencial do contrato, pois o mencionado contrato de seguro não tem a finalidade pretendida pela parte, constitui garantia de outro tipo de risco, não sendo de sua essência assegurar o adquirente quanto a defeitos construtivos.
+A despeito da existência de relação de consumo não se conclui que o contrato de seguro deveria englobar todo e qualquer dano relativo ao imóvel.
+É lícito, mesmo sob a ótica do CDC, delimitação no contrato de seguro de quais os riscos segurados, conquanto observados os deveres gerais de clareza e informação, o que ocorreu no caso sub judice.
+Dessa forma, ratifica-se que o Tribunal de origemjulgou em desconformidade com o entendimento desta Corte.
+Cabe ressaltar que a agravante, embora tenha alegado quea decisão agravada não se encontra em consonância com os mais recentes entendimentos desta Corte, não colacionou nenhum precedente que demonstrasse tal afirmação.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
