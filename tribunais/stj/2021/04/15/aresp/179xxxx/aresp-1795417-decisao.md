@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por OI S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/10/2020.
+Concluso ao gabinete em: 29/01/2021.
+Ação: adimplemento contratual em fase de cumprimento de sentença apresentada por JORGE HENRIQUE DE SOUZA em face da agravante, em razão de contrato de participação financeira em plano de expansão de serviço de telefonia.
+Decisão interlocutória: rejeitou a impugnação e homologou os cálculos realizados pelo perito.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo de instrumento. Ação de adimplemento contratual. Impugnação ao cumprimento de sentença rejeitada. Recurso da empresa de telefonia. Excesso de execução. Discussão acerca do valor patrimonial da ação. Alegação que se rejeita. Apuração do débito que considerou corretamente o VPA correspondente às ações da Telebrás e o índice referente ao trimestre que engloba o mês de setembro/1995. Obediência às informações e orientações divulgadas pela Corregedoria-Geral de Justiça e à radiografia do contrato. Manutenção da decisão no ponto. Equívoco na cotação das ações. Desprovimento. Cotação das ações que considerou a determinação do título executivo judicial e os índices divulgados nas planilhas pela CGJSC. Alegado excesso de execução quanto a inclusão dos dividendos. Desprovimento. Previsão no título judicial. Legitimidade da cobrança da verba. Respeito à coisa julgada. Alegação de equívoco quanto ao fator de conversão da Telesc celular e Telepar. Utilização acertada pelo contador judicial ao valer-se dos índices disponibilizados pela Corregedoria-Geral de Justiça para cálculos dessa natureza. Precedentes da Corte. Pedido de suspensão do feito em virtude da ação de recuperação judicial. Desprovimento do pedido. Discussão sobre os cálculos do débito na origem. Necessidade de apuração do quantum devido. Precedentes desta Corte.
+"Ressalvada a impossibilidade de realização de novos atos constritivos ou de liberação de valores, desnecessária a suspensão do trâmite processual, em decorrência do deferimento do pedido de recuperação judicial da empresa de telefonia, porquanto se trata de simples incidente de impugnação ao cumprimento de sentença" (Embargos de Declaração n. 0018043-83.2016.8.24.0000, de Criciúma, rel. Des. Robson Luz Varella, j. 13-12-2016).
+RECURSO CONHECIDO E DESPROVIDO.
+Embargos de Declaração: opostos pela agravante, foram desacolhidos.
+Recurso especial: alega violação dos arts. 502, 503, 508 e 1.022, do CPC/15. Além de negativa de prestação jurisdicional insurge-se contra o critério de cálculo do valor patrimonial da ação aplicado pelo tribunal e aduz violação da coisa julgada.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos supostos pontos omissos e contraditórios, notadamente em relação ao critério de cálculo do valor patrimonial da ação, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Segundo entendimento sumulado pelo Superior Tribunal de Justiça, "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização" (Enunciado n. 371), assim entendida como a data do pagamento da quantia pactuada, com base no correspondente balancete mensal aprovado.
+Nada obstante, tratando-se de títulos acionários emitidos pela Telebrás S.A., não há falar em balancetes mensais, porquanto a companhia os elaborava e divulgava apenas trimestralmente.
+Assim, a apuração do montante devido deve considerar o VPA calculado no mês da assinatura do pacto ou, em se tratando de mês em que não havia divulgação de balancete, o parâmetro então vigente.
+Isso significa, exemplificativamente, que o valor patrimonial da ação calculado em setembro de 1995, valerá para os meses de setembro, outubro e novembro do respectivo ano, enquanto que o VPA de dezembro de 1995, valera para este mês e, ainda, para janeiro e fevereiro de 1996.
+Nessa linha,o TJ/SC, após analisar o acervo probatório reunido nos autos, concluiu que:
+E, consabido é que a distribuição ou indenização das ações deve ser feita com base na mesma classe e origem das que foram inicialmente subscritas, ou seja, o valor patrimonial da ação (VPA) deve obedecer o mesmo tipo de ação recebida pela acionista e a mesma companhia emissora, in casu, a Telebrás S/A, conforme consta na tabela apresentada pelo recorrente. Acrescente-se que a Telebrás não emitia balancetes mensais, e sim trimestrais, os quais valiam para o mês de sua divulgação e para os dois meses anteriores.
+( ) Atentando-se ao caso concreto, vê-se que foi adotado corretamente o índice (R$0,0750) constante na tabela divulgada pela Corregedoria-Geral de Justiça para o cálculo do valor correspondente ao VPA-Telebrás - SETEMBRO/1995, o qual valeu para os meses de setembro-outubro-novembro do mesmo ano, eis que proveniente do balancete trimestral.
+( ) Assim, é de ser desprovido o recurso no ponto, já que o cálculo apresentado obedeceu orientação estabelecida na "planilha para cálculo de diferença de subscrição de ações de telefonia-BRT", conforme orientação da Corregedoria-Geral de Justiça. Também sem razão a agravante no que se refere à cotação das ações, eis que corretamente aplicados os parâmetros da data do trânsito em julgado para a cotação das ações, pois em consonância com a planilha da Corregedoria-Geral de Justiça (e-STJ, fl. 58/60).
+Dessa forma, para alterar tais fundamentos e reconhecer irregularidade na fixação do valor patrimonial da ação, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Impugnação ao cumprimento de sentença, em razão de excesso de execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
