@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HIVANA VASCONCELOS VIEIRA contra decisão que não conheceu de seu habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC 1.0000.21.017790-3/000).
+Segundo consta dos autos, a ora embargante foi presa preventivamente em 20/1/2021 e denunciada, com outros corréus, pela prática, em tese, do art. 2º da Lei 12.850/13 (organização criminosa).
+Contra a prisão cautelar, a defesa impetrou habeas corpus perante o Tribunal estadual que denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 141):
+EMENTA: HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. Presentes os pressupostos e requisitos constantes nos artigos 312 e 313, ambos do Código de Processo Penal, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública, e a decisão que decretou a segregação cautelar encontra-se devidamente fundamentada
+Nas razões da presente ação, a defesa afirmou ausência de fundamentação idônea no decreto prisional.
+Aduziu, outrossim, excesso de prazo na conclusão do IPL e ausência de contemporaneidade do decreto prisional.
+Apontou, também, condições pessoais favoráveis da paciente (primária, residência fixa e mãe de filha menor de idade).
+Por fim, relatou que o Tribunal a quo concedeu a ordem a outra investigada, devendo ser estendido aqueles efeitos a paciente.
+Diante disso, pediu, em liminar e no mérito, a revogação da prisão preventiva ou a substituição por medidas mais brandas, como as previstas no art. 319 do CPP.
+Na decisão de e-STJ fls. 1130-1143, não conheci do writ, sem deixar de fazer exame de ofício.
+Neste incidente, a embargante, reportando-se a decisão embargada como sentença (sic - e-STJ fl. 1145), aponta omissão e obscuridade no decisum.
+Alega que a utilização do habeas corpus como substitutivo do recurso próprio se deu pelo esgotamento do prazo recursal, o que faz desta ação constitucional a via adequada por excelência (e-STJ fl. 1145), tema que não teria sido enfrentado na decisão embargada.
+Afirma, outrossim, que no que tange à alegada supressão de instância, extrai-se da decisão que o Tribunal de Justiça, ao analisar a questão, não teria se manifestado a respeito das matérias "excesso de prazo na conclusão do inquérito", "ausência de contemporaneidade do decreto prisional" e "extensão de benefícios concedidos a outra investigada" (e-STJ Fl 1131), o que não procede. Deveras, o acórdão denegatório proferido pela 8ª Câmara Criminal tão somente deixou de enfrentar a totalidade das questões mencionadas por impossibilidade fática: o deferimento da liberdade provisória à corre MARILDE data de momento posterior à apreciação do habeas corpus pelo Tribunal de Justiça de Minas Gerais. Quanto às demais matérias, todas foram apreciadas (e-STJ fl. 1146). Para corroborar tal afirmação, transcreve trechos que pertenceriam ao acórdão impugnado, senão vejamos (e-STJ fl. 1146):
+Com o é sabido, para aplicação do principio da contemporaneidade deve ser observado o caso concreto, sobretudo a complexidade das investigações; a especificidade dos crimes objetos da apuração.
+Destaco que. pela natureza e complexidade das investigações e número de diligências praticadas pela autoridade policial, o prazo entre a instauração do inquérito e a representação pela prisão preventiva se revela razoável.
+Aduz, também, que é preciso muita cautela para que a exigência de provocação anterior da autoridade coatora de primeiro grau não agrida uma garantia constitucional cogente, que é a ação autônoma de habeas corpus. De fato, não há nenhum dispositivo legal que preveja esta exigência (e-STJ fl. 1147).
+Por fim, reafirma a necessidade de se examinar o pedido de extensão do benefício concedido outra investigada.
+Pretende, assim, o acolhimento dos presentes embargos com efeitos modificativos para a concessão da ordem pleiteada.
+É o relatório. Decido.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+In casu, não se verifica que a decisão embargada contenha quaisquer dos vícios que permitem o manejo da insurgência, o que impede o seu acolhimento, valendo o destaque de que a presente via não funciona como recurso de revisão.
+A mera irresignação com o entendimento apresentado na decisão embargada não viabiliza a oposição dos aclaratórios.
+Conforme relatado anteriormente, o presente mandamus foi impetrado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC 1.0000.21.017790-3/000).
+Diante dessa situação, o writ deve seu conhecimento negado nos termos da consolidada jurisprudência desta Corte Superior, conforme agora reafirmo:
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC n. 313.318/RS, Quinta Turma, Rel. Min. FELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC n. 321.436/SP, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+Ora, o esgotamento do prazo recursal, diversamente do alegado nestes embargos, não autoriza a abertura da via mandamental de habeas corpus, mas revela eventual desídia da defesa. Pensar de modo diverso é fazer letra morta do Código de Processo Penal.
+Importante gizar que a autorização para impetração de habeas corpus surge do constrangimento ilegal sofrido com reflexo em possível cerceamento da liberdade de locomoção (direito de ir, vir e ficar), e não da perda do prazo recursal.
+Daí por que tem esse Tribunal Superior examinado de ofício, em casos tais, constrangimentos ilegais que porventura esteja sofrendo o paciente. Sem que isso implique, por certo, violação das regras constitucionais de sua competência.
+A competência do Superior Tribunal de Justiça pressupõe que a matéria objurgada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal. Nesse sentido, destaco ainda:
+(..) Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância. (..) (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017)
+(..). 3. A matéria relativa ao excesso de prazo na formação da culpa não foi debatida pelo Tribunal de origem, sendo inviável a análise da questão por esta Corte, sob pena de indevida supressão de instância.
+4. Recurso ordinário não provido. (RHC n. 57.010/RJ, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 21/5/2015, DJe 2/6/2015).
+Exatamente como foi realizado na decisão ora embargada.
+Por outro vértice, equivoca-se, novamente, a defesa ao apontar trecho que comprovariam o enfrentamento de certos temas pelo Tribunal estadual.
+Da simples leitura do acórdão estadual impugnado (e-STJ fls. 141-149), verifica-se que tais trechos não pertencem àquele julgado !!
+Com efeito, o que se percebe, analisando as razões deste incidente, é que, sob a alegação da existência dos vícios que autorizam a oposição de embargos, a defesa pretende, em verdade, a reapreciação de matéria já analisada e rechaçada, propósito para o qual não se prestam os aclaratórios, conforme entendimento jurisprudencial já pacificado nesta Corte Superior de Justiça.
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO E CONTRADIÇÃO NO JULGADO. INEXISTÊNCIA DE VÍCIO A SER SANADO. ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, hipótese não configurada nos autos.
+2. A intenção de atribuir caráter infringente ao embargo de declaração, pretendendo-se a modificação do provimento anterior, com a rediscussão da questão, não é efeito próprio do recurso integrativo.
+3. São incabíveis embargos de declaração para que o Superior Tribunal de Justiça enfrente matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Embargos declaratórios rejeitados. (EDcl no AgRg no AREsp 521.900/ES, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 5/5/2016, DJe 16/5/2016);
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE INDICAÇÃO DOS FUNDAMENTOS NÃO IMPUGNADOS NA DECISÃO AGRAVADA. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste a omissão apontada pela defesa, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Caracteriza inovação recursal a pretensão de revolver a matéria decidida apresentando nova alegação suscitada apenas nos presentes embargos declaratórios.
+4. Embargos de Declaração rejeitados. (EDcl no AgRg no AREsp 381.524/CE, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 17/5/2018, DJe 1º/6/2018)
+Ante o exposto, rejeito os presentes embargos.
+Intimem-se.
