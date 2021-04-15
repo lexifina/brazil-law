@@ -1,0 +1,32 @@
+AGRAVANTE: MUNICÍPIO DE CUIABÁ-MT
+AGRAVADO: MAYSA CARLA MACIEL DE BARROS
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo MUNICÍPIO DE CUIABÁ contra decisão proferida pela 1a Vara Espec. da Fazenda Pública da Comarca de Várzea Grande-MT que nos autos da Ação COMINATÓRIA DE OBRIGAÇÃO DE FAZER para cumprir o dever político constitucional de fornecer medicamento COM PEDIDO DE ANTECIPAÇÃO DE TUTELA n° 1000914 -29.2021.8.11.0002 movida por MAYSA CARLA MACIEL DE BARROS, objetivando o fornecimento do medicamento ESILATO DE NINTEDANIBE 150 mg, 02 cápsulas ao dia, 60 cápsulas ao mês diante do diagnóstico de Esclerose Sistêmica forma cutânea difusa desde 2010.
+A tutela de urgência foi deferida parcialmente determinou o fornecimento do medicamento requerido.
+Por consequência, determinou o bloqueio judicial das contas do Município/ Agravante tendo em vista o não cumprimento da ordem de fornecimento do medicamento necessário à manutenção da saúde da parte autora.
+Irresignado com a decisão proferida, sustenta o agravante sua ilegitimidade para figurar no polo passivo da ação, uma vez que a medicação não é disponibilizada pelo Município.
+Sustenta a competência da União para incluir novos insumos, medicamentos e protocolos clínicos no SUS.
+Assevera que o fornecimento do fármaco é de responsabilidade do Estado de Mato Grosso, por não estar padronizado na Rede Municipal.
+Suscita ainda a gradação de obrigações entre os entes federados e a impossibilidade da escolha da marca do medicamento.
+Com base nestes fundamentos, pugna pela concessão do efeito suspensivo e no mérito, que seja reformada a decisão liminar para que seja indeferida a tutela de urgência pretendida pela Agravada ou que o bloqueio de valores recaia totalmente ou prioritariamente sobre as contas do Estado de Mato Grosso.
+É o relatório.
+Decido.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo ao agravo de instrumento não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+Sustenta, em síntese, o agravante sua ilegitimidade passiva por ser responsabilidade do Estado o fornecimento da medicação, já que não integra a lista dos fármacos ofertados pela Rede Municipal.
+Da análise dos autos tem-se que tais argumentos não foram apreciados pelo Juízo de 1o Grau, sendo vedado ao Juízo ad quem, conhecer de matéria não abordada na decisão agravada, sob pena de indevida supressão de instância e violação ao princípio do duplo grau de jurisdição.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. [...] ainda que se trate de matéria de ordem pública, é exigido o prequestionamento da tese aventada em sede de recurso especial, sendo vedado o julgamento, por esta Corte, de temas que constituam inovação recursal, sob risco de supressão de instância e de ofensa aos princípios do duplo grau de jurisdição e do devido processo legal [...]". (AgInt no AREsp 1529091/BA, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/10/2019, DJe 23/10/2019)
+In casu, verifica-se que há indícios suficientes nos autos, de que o agravado necessita do remédio para tratamento da doença que o acomete, conforme prescrição médica.
+Corroborado pelo laudo que registra que já foram esgotadas todas as possibilidades de tratamento pelo sistema público de saúde. (id. 47012053 autos referência).
+Logo, demonstrada nos autos, de forma inequívoca, a imprescindibilidade do medicamento prescrito no receituário do paciente, por meio de relatório médico, qual seja, ESILATO DE NINTEDANIBE 150 mg, diante do diagnóstico de Esclerose Sistêmica forma cutânea difusa desde 2010 que revela prejuízo à saúde e à vida em caso de ausência, a decisão objurgada deve ser mantida.
+Importa frisar que cabe ao médico, que é o profissional competente, prescrever o melhor tratamento para o restabelecimento da saúde do paciente.
+Assim, não pode o Poder Judiciário negar a prestação jurisdicional aos necessitados quando se evidencia a morosidade da “máquina estatal”, mormente quando o caso concreto apresenta risco iminente à saúde e à vida humana.
+Somado a isso, é cediço que a proteção da saúde e o dever de assistência médica por parte do Estado é uma atividade indispensável. Tanto é assim que a Constituição Federal resguarda em seu artigo 198 e seguintes como será prestado esse Direito Social, após dispor em seu art. 196 que “a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação”.
+Além do mais, a tutela desse direito indisponível também é amparada pela Lei 8.080/90, a qual descreve os princípios do sistema de saúde nacional, reconhecendo que “a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício” (art. 2o).
+Feitas estas considerações, na espécie, não há se falar em plausibilidade do direito substancial invocado a revelar, a relevância da pretensão recursal, uma vez que se encontra demonstrada a necessidade do tratamento e o risco ao próprio direito à vida, à dignidade e à saúde do agravado, bem como não comporta acolhimento o pedido para afastar o bloqueio judicial, em caso de descumprimento da sentença.
+A constrição de valores, além de mais eficaz do que a multa, não afronta o princípio da separação dos poderes, mas se insere no sistema de efetivação dos valores constitucionais.
+O direito fundamental à saúde precisa extrapolar o texto da carta superior, alcançando o plano real, cumprindo ao Judiciário, sempre que provocado, valer-se dos meios adequados para impor à Administração Pública o cumprimento dos deveres que lhe cabem, com base nos princípios extraídos de seu artigo 5°, inciso XXXV.
+Ante o exposto, INDEFIRO o pedido de concessão do efeito suspensivo.
+Comunique-se o juízo de primeiro grau.
+Intime-se para apresentar contrarrazões.
+Após, colha-se o parecer da Procuradoria Geral de Justiça.
+Des. Mario Roberto Kono de Oliveira
