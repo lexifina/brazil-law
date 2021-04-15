@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL.PROFESSOR DE EDUCAÇÃO BÁSICA DA REDE ESTADUAL DE ENSINO. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação ordinária objetivando a condenação da requerida na obrigação de fazer, consistente no ajuste da jornada de trabalho à Lei n. 11.738/2008, bem como ao pagamento da diferença salarial decorrente das horas trabalhadas a mais, tendo como parâmetro o valor da hora-aula calculada na época em que exerceram atividades de magistério a mais, com efeitos retroativos a 16/7/2008, data em que publicada a Lei n. 11.738/2008.O Tribunal de Justiça do Estado de São Paulo manteve a sentença, que julgou improcedente o pedido.
+II - Verifica-se, assim, que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+III - Ademais, a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em recurso especial, em vista do óbice contido no enunciado n. 7, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Não ultrapassada a barreira ao conhecimento do agravo, inviabiliza-se a discussão das teses de mérito ventiladas no respectivo recurso especial.
+V - Agravo interno improvido.
+RELATÓRIO
+Na origem, Josele Aparecida Francisco e outros ajuizaram ação ordinária contra a Fazenda do Estado de São Paulo objetivando a condenação da requerida na obrigação de fazer, consistente no ajuste da jornada de trabalho à Lei n. 11.738/2008, bem como ao pagamento da diferença salarial decorrente das horas trabalhadas a mais, tendo como parâmetro o valor da hora-aula calculada na época em que exerceram atividades de magistério a mais, com efeitos retroativos a 16/7/2008, data em que publicada a Lei n. 11.738/2008.
+Sustentaram, para tanto, que são professores da rede estadual de ensino e que a requerida não observou o disposto na Lei Federal n. 11.738/2008, uma vez que, no Mandado de Segurança Coletivo n. 0044040-25.2011.8.26.0053, foi reconhecida a ilegalidade da conduta, afastando a aplicação da Resolução SE n. 8/2012.
+Deu-se à causa o valor de R$ 41.000,00 (quarenta e um mil reais) em maio 2013.
+O Tribunal de Justiça do Estado de São Paulo manteve a sentença, que julgouimprocedente o pedido, conforme acórdão assim ementado (fl. 275):
+APELAÇÃO CÍVEL.
+1. Professor de Educação Básica da rede estadual de ensino. Pretensão de obter a readequação de sua carga horária, nos termos do artigo 2º, § 4º, da Lei Federal nº. 11.738/08 - Edição da Resolução SE nº. 08/2012, que se encontra em perfeita consonância com a referência Lei Federal - Precedentes - Honorários - Volume mantido - Improcedência da ação - Manutenção da sentença.
+2. Recurso não provido.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 538-544).
+No presente recurso especial aponta violação dos arts. 2º, § 4º, da Lei n.11.738/2008, 12, III e IV, 25, caput, 67, V e VI, da Lei n. 9.394/1996, e 186 e 927, do CC, alegando que o acórdão recorrido considerou legítimo que a administração pública do Estado de São Paulo exigisse de seus educadores jornada superior ao estabelecido pela Lei n. 11.738/2008.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido às fls. 603- 610.
+Após decisão que inadmitiu o recurso especial, com base nas Súmulas n.7/STJ e 280/STF, foi interposto agravo, tendo as recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a , do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+Assim, requerem os autores que essa questão seja enfrentada, dizendo-se se o posicionamento firmado pelo C. STJ no julgamento do REsp 1.569.560/RJ pode ser aplicado no presente processo, ou, caso se entenda pela sua não aplicação, que então sejam aduzidos os motivos pelos quais haveria distinção ou eventual superação de entendimento, nos termos do CPC. 489, § 1º, VI.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.PROFESSOR DE EDUCAÇÃO BÁSICA DA REDE ESTADUAL DE ENSINO. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação ordinária objetivando a condenação da requerida na obrigação de fazer, consistente no ajuste da jornada de trabalho à Lei n. 11.738/2008, bem como ao pagamento da diferença salarial decorrente das horas trabalhadas a mais, tendo como parâmetro o valor da hora-aula calculada na época em que exerceram atividades de magistério a mais, com efeitos retroativos a 16/7/2008, data em que publicada a Lei n. 11.738/2008.O Tribunal de Justiça do Estado de São Paulo manteve a sentença, que julgou improcedente o pedido.
+II - Verifica-se, assim, que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+III - Ademais, a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em recurso especial, em vista do óbice contido no enunciado n. 7, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Não ultrapassada a barreira ao conhecimento do agravo, inviabiliza-se a discussão das teses de mérito ventiladas no respectivo recurso especial.
+V - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos:
+(..) É consabido que inconstitucionalidade da Lei Federal n. 11.738/08 em comento, conhecida como "Lei do Piso Nacional do Professor", foi afastada pelo E. STF no julgamento da ADI 4.167-DF.
+(..) No intuito de adequar a situação dos docentes da rede estadual à lei federal, de âmbito nacional, a Secretaria Estadual da Educação expediu a Resolução SE n. 08/2012.
+(..) A Lei Complementar Estadual n.º 836/1997, por sua vez, dispõe:
+Artigo 10 - A jornada semanal de trabalho do docente constituída de 5 horas em atividades com alunos, de horas de trabalho pedagógico na escola e de horas de trabalho pedagógico em local de livre escolha pelo docente, a saber:
+(..) § 1º - A hora de trabalho terá a duração de 60 (sessenta) minutos, dentre os quais 50 (cinquenta) minutos serão dedicados à tarefa de ministrar aula.
+§ 2º - Fica assegurado ao docente, no mínimo, 15 (quinze) minutos consecutivos de descanso, por período letivo.
+Dessa forma, verifica-se que a norma estipula que, a cada cinquenta (50) minutos de aula ministrada, haverá dez (10) minutos adicionais para desempenho de outras atividades pelo professor, sendo que referido tempo já é destinado a atividades sem interação com alunos.
+(..) Portanto, verifica-se que o disposto na Resolução SE n. 08/2012 não apresenta qualquer ilegalidade, estando em consonância com o disposto no artigo 2º, § 4º, da Lei nº.11.738/08, uma vez que, dos sessenta (60) minutos que compõem a hora de trabalho do professor da rede estadual, cinquenta (50) são dedicados exclusivamente à tarefa de ministrar aula, enquanto os dez (10) restantes são voltados a trabalho extraclasse. O cálculo efetuado pela Secretaria de Educação do Estado de São Paulo considera dois terços da carga horária total, dedicando-os às atividades com alunos, sendo o terço restante dedicado às atividades de trabalho pedagógico coletivo na escola e em local de livre escolha.
+Indevida, pois, a pretensão inicial dos autores, inclusive para fins de eventual indenização material pelas diferenças salariais decorrentes das horas trabalhadas a mais.
+(..)
+Verifica-se, assim, que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Ademais,a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em recurso especial, em vista do óbice contido no Enunciado n. 7, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Não ultrapassada a barreira ao conhecimento do agravo, inviabiliza-se a discussão das teses de mérito ventiladas no respectivo recurso especial.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
