@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de ERIVALDO COSTA GONÇALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação Criminal n.0002095-93.2016.8.26.0405, assim ementado:
+"APELAÇÃO -PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA -Sentença condenatória desclassificatória - Absolvição por insuficiência probatória -Descabimento - Materialidade e autoria comprovadas - Prova cabal a demonstrar que o recorrente portava arma de fogo sem autorização e em desacordo com determinação legal e regulamentar -Sentença reformada -desclassificação da conduta imputada incabível, na medida em que prevista em tipo penal específico -Regime fixado alterado diante da gravidade do crime perpetrado e da reincidência do réu -RECURSO DEFENSIVO NÃO PROVIDO. RECURSO MINISTERIAL PROVIDO." (fl. 19)
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, no regime inicial fechado, pela prática do delito tipificado no art. 16, inc. IV, da Lei 10.826/03 (porte ilegal de arma de fogo de uso restrito)
+Nessa impetração, a defesa sustenta que pelo fato de já ter ocorrido o trânsito em julgadohá mais de 5 anosde sua última condenação, não haveria a possibilidadede aplicação da circunstância referente aos maus antecedentes.
+Também alega que deveria ser aplicado regimeinicial mais brando em observância ao art. 33, § 2º, "c", do Código Penal.
+Requer, assim, a fixação do regime aberto.
+A liminar foi indeferida por decisão de fls. 33/34.
+O Ministério Público Federal manifestou-se pela parcial concessãoda ordem, em parecer assim sumariado:
+"HABEAS CORPUS. PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. CONDENAÇÃO. PRETENSÃO DE AFASTAMENTO DOS MAUS ANTECEDENTES. PENA-BASE FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE INTERESSE RECURSAL. FIXAÇÃO DO REGIME INICIAL FECHADO. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE. DESPROPORCIONALIDADE. DIREITO AO REGIME SEMIABERTO.
+Parecer pelo parcial conhecimento do writ e, nessa extensão, pela concessão parcial da ordem, para que seja fixado o regime semiaberto" (fl. 40)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida,segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, tenho por prudente determinar o processamento do feito somente para verificação da existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, acontrovérsia restringe-se ao regime inicial para o cumprimento da pena.
+Por oportuno, confira-se os seguintes excertos do acórdão impugnado acerca do tema:
+"Diante deste contexto, a condenação do réu como incursos no artigo 16, parágrafo único, inciso IV, da Lei 10.826/03 era mesmo de rigor, não sendo caso de absolvição por insuficiência probatória, passando-se à análise da pena imposta.
+Na primeira fase da dosimetria da pena, o juiz sentenciante fixou a pena-base no mínimo legal, mantida nesta oportunidade. Contudo, diante da modificação do tipo penal, fixo-a em 03 (três) anos de reclusão, bem como o pagamento de 10 (dez) dias-multa.
+Na segunda fase da dosimetria da pena, não incidiram circunstâncias atenuantes. Contudo, incidiu a circunstância agravante da reincidência, conforme certidões de objeto e pé juntadas às fls. 267 e 276, razão pela qual agrava-se a reprimenda em 1/6 (um sexto), passando a dosá-la em 03 (três) anos e 06 (seis) meses de reclusão e pagamento de 11 (onze) dias-multa.
+Na terceira fase da dosimetria da pena, não incidiram causas de aumento ou diminuição de pena, tornando-a definitiva.
+Cumpre ressaltar que não há no ordenamento jurídico pátrio lei que estabeleça frações específicas para exasperação da pena, de modo que a dosimetria da pena fica a critério subjetivo do Juiz, cabendo a ele observar as circunstâncias específicas do caso, as diretrizes previstas nos artigos 59 e 68, ambos do Código Penal, e os princípios da proporcionalidade, razoabilidade e individualização da pena.
+E isso foi devidamente observado pelo douto Magistrado "a quo", no caso em apreço, pois a fração de exasperação e mitigação utilizada na segunda fase da dosimetria das penas se mostrou adequada.
+Não obstante, assiste razão ao Ministério Público a alteração do regime inicial de cumprimento de pena, mostrando-se de melhor alvitre a fixação de regime mais rígido, tendo em vista os fins punitivo e dissuasório das penas (artigo 59 do Código Penal). Ademais, os extratos de pena previstos no artigo 33, § 2º, do referido diploma legal, não são aplicáveis com rigidez pétrea, tomando em conta apenas o binômio formado pelo quantum de pena e a gravidade da conduta perpetrada, novamente por conta dos princípios da individualização das penas e da isonomia, comprometendo-se uma resposta punitiva estatal adequada ao caso analisado. Outrossim, no caso em comento, constata-se que o réu, além de reincidente, encontrava-se em cumprimento de pena pelo delito de roubo, razão pela qual fixa-se o regime inicial de cumprimento de pena fechado."(fls. 27/28)
+Inicialmente, é necessário analisar que a pena-base foi mantida no mínimo legal,não ocorrendo, portanto,a valoração dos maus antecedentes.
+Deste modo, inexiste interesse recursal no ponto.
+De outra parte, registra-se que éfirme neste Tribunal Superior de Justiça a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal - CP. Nesse sentido, foi elaborado o enunciado n. 440 da Súmula desta Corte, que prevê:
+Súmula 440/STJ - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+No mesmo sentido, são os enunciados n. 718 e 719 das Súmulas do Supremo Tribunal Federal - STF, os quais indicam:
+Súmula 718/STF-A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF - A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+In casu, a fundamentaçãoutilizada pelo Tribunala quo,de que"além de reincidente, encontrava-se em cumprimento de pena pelo delito de roubo"(fl. 41), não traz elementos do caso concreto ebaseia-seapenas nas circunstâncias já valoradas em fases anteriores da dosimetria,não sendo suficientepara justificaro regime fechado.
+Além disso, o pacienteobteveareprimendabásicaestabelecidaem seumínimolegal. Assim, levando-se em consideração o quantum de pena aplicado  3 anos, 6meses de reclusão seria adequado, portanto,o regime semiaberto.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE.CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS.BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO.IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+2. Estabelecida a pena-base no mínimo legal e reconhecida a reincidência do réu, não se vislumbra desproporcionalidade na imposição do regime prisional semiaberto para o desconto da reprimenda, malgrado a sanção corporal seja inferior a 4 (quatro) anos de reclusão.
+3. É inviável o reconhecimento da consunção entre o delito de violação de domicílio e o de lesão corporal no âmbito doméstico, quando um não constitui meio para a execução do outro, mas evidentes infrações penais autônomas, que tutelam bens jurídicos distintos.Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.902.294/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 08/03/2021)
+Ante o exposto, não conheço do presentehabeas corpus, mas concedo a ordem, de ofício, para fixar o regime prisional inicial semiaberto ao paciente.
+Publique-se.
+Intimem-se.
