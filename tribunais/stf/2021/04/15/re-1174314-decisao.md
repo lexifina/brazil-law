@@ -1,0 +1,33 @@
+D E C I S Ã O
+    O eminente Ministro Celso de Mello havia determinado o sobrestamento do presente recurso em razão de a questão jurídica em análise nestes autos também ser objeto de apreciação na AO 1.773/DF.
+    Entendo, todavia, ser necessário o levantamento do aludido sobrestamento, forte na decisão que, proferida em 05/03/2021 pelo eminente Ministro Dias Toffoli, extinguiu referido feito, sem apreciação de mérito.
+    Feita essa ponderação, passo à análise do apelo extremo.
+    Trata-se de recurso extraordinário interposto contra acórdão da 3ª Turma Recursal dos Juizados Especiais Federais do Ceará assim ementado (com grifos no original):
+    “DIREITO CONSTIITUCIONAL. DIREITO ADMINISTRATIVO. CONCESSÃO DE AUXÍLIO-MORADIA A MAGISTRADO FEDERAL. INEXISTÊNCIA DE RESIDÊNCIA OFICIAL NA COMARCA. VERBA DE CARÁTER INDENIZATÓRIO. POSSIBILIDADE. PRELIMINAR DE INCOMPETÊNCIA E SUSPENSÃO DA DEMANDA AFASTADAS. PREJUDICIAL DE PRESCRIÇÃO REJEITADA. CORREÇÃO MONETÁRIA DEVIDA PELA FAZENDA PÚBLICA. 1º-F DA LEI 9.494/97. ART 5º DA LEI N. 11.960/2009. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. CORREÇÃO MONETÁRIA PELO INPC. RECURSO DESPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.”
+    É o relatório do essencial. Decido.
+    Preliminarmente, afasto a competência originária deste Supremo Tribunal Federal para julgar o feito, arguida pela União forte no art. 102, I, n, da CF.
+    Consigno que, na linha jurisprudencial da Corte, para se firmar a competência originária definida no art. 102, I, n, da Carta Republicana, há de se ter interesse exclusivo da magistratura direta ou indiretamente interessada na causa, de forma a não abranger, portanto, outras categorias funcionais (AO 1.743-AgR/DF, Ministro Edson Fachin; AO 1.777-AgR/DF, Ministra Rosa Weber; AO 2.059-AgR/PR, Ministro Edson Fachin; Rcl 16.597-AgR/CE, Ministro Teori Zavascki; Rcl 17.016-AgR- -segundo/SC, Ministro Gilmar Mendes; Rcl 22.235-AgR/SC, Ministro Edson Fachin; Rcl 22.429-AgR/AP, Ministro Celso de Mello; RE 984.249- -AgR/CE, Ministro Edson Fachin; entre outros):
+    “Agravo regimental em recurso extraordinário. 2. Magistrado. Auxílio moradia. Competência do Supremo Tribunal Federal. Não ocorrência. Prerrogativa de outras carreiras do serviço público. Ausência de interesse exclusivo da magistratura. Precedentes. 3. Agravo regimental a que se nega provimento.”
+    (RE 982.276-AgR/CE, Ministro Gilmar Mendes – com os meus grifos)
+    Assim, não vislumbro a alegada competência originária.
+    Para além disso, passa-se, necessariamente, pelo reexame fático-probatório aferir o direito à percepção de ajuda de custo para a moradia pleiteada pela parte recorrida. Ademais, a controvérsia seria solucionada com interpretação de legislação infraconstitucional. Tais circunstâncias fazem caracterizar a suposta ofensa ao Texto Constitucional como indireta ou reflexa, bem como atrai a aplicação, na espécie, do Enunciado 279 da Súmula/STF.
+    Em casos fronteiriços, há – entre outros – os seguintes precedentes: ARE 933.775-AgR/SC, Ministro Ricardo Lewandowski; ARE 1.019.893/CE, Ministro Marco Aurélio; ARE 1.206.234/CE, Ministro Ricardo Lewandowski; RE 849.521-AgR/SE, Ministra Cármen Lúcia:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. PRETENSÃO RECURSAL QUE NÃO ENCONTRA AMPARO NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA SITUADA NO CONTEXTO NORMATIVO INFRACONSTITUCIONAL. OFENSA À CONSTITUIÇÃO MERAMENTE REFLEXA. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. TEMA 810 DA REPERCUSSÃO GERAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.”
+    (RE 1.227.947-AgR/CE, Ministro Alexandre de Moraes)
+    Finalmente, cabe ressaltar que, no âmbito da repercussão geral da questão suscitada, o Plenário do Supremo Tribunal Federal, ao apreciar o RE 870.947/SE, Ministro Luiz Fux, DJ de 9/11/2017, firmou a seguinte tese (com meus grifos):
+    “1. O princípio constitucional da isonomia (CRFB, art. 5º, ‘caput’), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09,  na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídicotributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado.
+    2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+    3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29).”
+    (RE 870.947/SE, Ministro Luiz Fux, DJ de 20.11.2017)
+    Buscando modular aquele julgamento, os entes públicos réus opuseram embargos de declaração.
+    Na sessão de 3/10/2019, todavia, o Plenário do STF, em julgamento majoritário, rejeitou tais embargos, havendo, assim, recusado a pleiteada atribuição de efeitos prospectivos.
+    Vê-se, dessa maneira, que o acórdão recorrido está em conformidade com o aludido entendimento.
+    Em casos idênticos, há os seguintes precedentes: RE 1.290.469/MS, Ministro Roberto Barroso; RE 1.293.366/MS, Ministro Edson Fachin; RE 1.293.369/MS, Ministra Cármen Lúcia.
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios.
+    Ao amparo do § 11 do art. 85 do CPC, majoro em 1% (um por cento), a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+    Em face do exposto, com fundamento alínea b do inciso IV do art. 932 do CPC, conheço, em parte, do recurso extraordinário, para, nessa parte, negar-lhe provimento.
+    Publique-se.
+    Brasília, 15 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
