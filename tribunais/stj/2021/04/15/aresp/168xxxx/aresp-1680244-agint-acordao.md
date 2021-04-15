@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL.PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXCLUDENTE DE RESPONSABILIDADE. CASO FORTUITO OU FORÇA MAIOR. AUSENTE. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ. INDENIZAÇÃO QUE ATENDE O ESTABELECIDO PELO LEGISLADOR.
+1.Atrai a incidência analógica do enunciado sumular n. 211 do STJ, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, ante a ausência do indispensável prequestionamento.
+2. No caso de não ser sanada a omissão pelo acórdão do julgamento dos embargos de declaração, necessário suscitar a ofensa ao art. 1.022 do CPC/2015 no recurso especial, o que não ocorreu no caso dos autos.
+3.No caso, o Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4.O acolhimento do inconformismo recursal, no sentido de verificar a inexistência das condicionantes para o reconhecimento da litigância de má-fé processual, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor da Súmula 07/STJ.
+5. A previsão contida no§ 3º do art. 81 do CPC/2015 não determina que a indenização pela litigância de má-fé seja arbitrada em quantia em espécie, podendo plenamente ser fixada em percentual sobre o valor da causa, o que atende o estabelecido pelo legislador.
+6. Descabida a pretensão de nova majoração dos honorários, deduzida em sede de impugnação, por ocasião do julgamento do presente agravo interno
+7.Não enseja a aplicação de multa por litigância de má-fé a interposição de recurso cabível, ainda que reiterados os mesmos argumentos já refutados na origem.
+8. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por HELOISA HELENA PEREIRA SANTOS e outro contra decisão monocrática assim ementada:
+AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. ALEGADA VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. EXCLUDENTE DE RESPONSABILIDADE NÃO COMPROVADA. SÚMULA 7 DO STJ. DECISÃO EXTRA PETITA. AUSENTE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a agravante alega:(i) que descabe a incidência da Súmula 211/STJ, ao argumento de quebasta que seja suscitada a matéria controvertida, neste caso o art. 492 do CPC/15, para que seja considerada prequestionada, visto que foi dada a oportunidade ao tribunal a quo se manifestar a respeito do assunto. (e-STJ fl. 403); (ii) a não incidência da Súmula 7/STJ acerca da excludente de responsabilidade civil e da condenação porlitigância de má-fé; (iii) que a indenização por litigância de má-fé em 20% do valor da causa não encontra respaldo na legislação que a fundamenta.
+Os agravados apresentaram impugnação de fls. 420/424, e-STJ, oportunidade em que requereram o não provimento do recurso,nova condenação da parte recorrente por litigância de má-fé e a majoração dos honorários.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL.PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXCLUDENTE DE RESPONSABILIDADE. CASO FORTUITO OU FORÇA MAIOR. AUSENTE. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ. INDENIZAÇÃO QUE ATENDE O ESTABELECIDO PELO LEGISLADOR.
+1.Atrai a incidência analógica do enunciado sumular n. 211 do STJ, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, ante a ausência do indispensável prequestionamento.
+2. No caso de não ser sanada a omissão pelo acórdão do julgamento dos embargos de declaração, necessário suscitar a ofensa ao art. 1.022 do CPC/2015 no recurso especial, o que não ocorreu no caso dos autos.
+3.No caso, o Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4.O acolhimento do inconformismo recursal, no sentido de verificar a inexistência das condicionantes para o reconhecimento da litigância de má-fé processual, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor da Súmula 07/STJ.
+5. A previsão contida no§ 3º do art. 81 do CPC/2015 não determina que a indenização pela litigância de má-fé seja arbitrada em quantia em espécie, podendo plenamente ser fixada em percentual sobre o valor da causa, o que atende o estabelecido pelo legislador.
+6. Descabida a pretensão de nova majoração dos honorários, deduzida em sede de impugnação, por ocasião do julgamento do presente agravo interno
+7.Não enseja a aplicação de multa por litigância de má-fé a interposição de recurso cabível, ainda que reiterados os mesmos argumentos já refutados na origem.
+8. Agravo interno não provido.
+VOTO
+Eminentes colegas, a nova irresignação recursal não merece acolhida.
+Insta sublinhar que, não obstante os argumentos declinados pela parte, as razões trazidas em agravo interno não contêm fundamentos suficientes a desconstituir a decisão recorrida.
+Com efeito, como já salientado, a alegada violação ao artigo 492 do Código de Processo Civil não foi apreciado pelo Tribunal de origem.
+Ressaltoque embora a recorrente tenha suscitado a matéria em aclaratórios, seria imprescindível a alegação de violação ao art. 1.022 do CPC, em relação ao ponto específico, quando da interposição do recurso especial, para possibilitar a verificação do vício inquinado ao acórdão, o que não ocorreu no caso dos autos.Resta, nesta hipótese, configurada a ausência de prequestionamento, devendo incidir o enunciado da Súmula 211 desta Corte Superior.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO NA ORIGEM. PRECLUSÃO. TRANSPORTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. SÚMULA 211/STJ. REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO NÃO PREENCHIDOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No tocante à negativa de prestação jurisdicional, percebe-se que a apontada violação aos arts. 489 e 1.022 do CPC/2015 não se sustenta, tendo em vista que o Tribunal de origem resolveu satisfatoriamente as questões deduzidas no recurso, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula n. 211/STJ).
+2.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, além de opor a parte recorrente embargos de declaração na origem e suscitar a violação ao art. 1.022 do diploma legal, esta Corte reconhecer a ocorrência de omissão, obscuridade ou contradição no julgado, situações não verificadas na hipótese em apreço.
+3.  ..
+6. Agravo interno desprovido.
+(AgInt no AREsp 1676145/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020, grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS. CONTAMINAÇÃO DE LAVOURA. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 211 STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1597715/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/05/2020, DJe 21/05/2020, grifou-se)
+Segundo contorno fático delineado pelas instâncias de origem, os agravantes tinham conhecimento dos danos no muro de contençãoe não há comprovação de que as fortes chuvas tenham causado o desabamento da edificação, não havendo falar em caso fortuito ou força maior a excluir a responsabilidade dos agravantes pelos danos causados aos autores, ora agravados.
+É o que se infere da leitura do seguinte excertodo acórdão recorrido:
+Portanto, inconteste que os Demandados tinham conhecimento sobre as condições precárias do muro de contenção, haja vista a existência de laudo da Defesa Civil do município, somando-se à concordância na realização de obras de contenção.
+Nesta esteira, inviável o reconhecimento de que as "fortes chuvas" que ocorreram no ano de 2014 ocasionaram a queda da edificação, tendo em vista a ausência de qualquer prova nos autos nesse sentido. Destarte, o laudo de fls. 61-63 atesta de forma clara que os problemas verificados são anteriores ao evento climático ocorrido.
+Ademais, os Requeridos alegam que o muro de arrimo encontra-se em perfeitas condições, referindo-se ao laudo pericial apresentado em sede de contestação (fls.121-122). Todavia, o aludido parecer foi confeccionado em29-03-2016, aproximadamente dois anos após o ocorrido e, tendo a parte Ré informado que ergueram uma segunda contenção, é evidente que as conclusões do expert referem-se ao muro reconstruído e não à construção objeto da controvérsia.
+Em que pese o risco de desabamento do muro fosse conhecido desde 13-3-2013 (laudo da Defesa Civil de fl .61), os Réus deixaram de promover, tempestivamente, as obras necessárias para a contenção da estrutura, fato esse que, conforme demonstrado nos autos, culminou com a sua ruína em agosto de 2014.
+A ocorrência de abalo anímico sofrido, desse modo, está devidamente comprovada no caderno processual, sobretudo porque a inércia dos Requeridos foi fator preponderante para o agravamento dos riscos suportados pelos Autores, os quais tiveram a sua propriedade invadida por detritos e lama, alémde lidar diariamente com o temor de queda da edificação.(e-STJ fls. 267/2658)
+A reforma de tal entendimento exige reexame do conjunto probatório dos autos, tarefa inadmissível em sede de recurso especial, em face do impedimento da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA.RESPONSABILIDADE DA CONSTRUTORA COMPROVADA. RESCISÃO CONTRATUAL.POSSIBILIDADE. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.REDUÇÃO DA CLÁUSULA PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. A Corte de origem concluiu que as questões relativas à regularidade do loteamento são de integral responsabilidade do vendedor, que, ao iniciar o empreendimento com a intenção de venda e obtenção de lucro, deveria ter-se resguardado da efetiva regularidade da área para então disponibilizar a venda. Não houve, assim, caso fortuito ou força maior.
+2. Nesse contexto, a modificação de tal entendimento lançado no v.acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3.  ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1635882/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO COMINATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida a sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022, inciso II, CPC/15.
+2. O Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu que não houve caso fortuito. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. A Corte local assentou, também, estarem presentes os requisitos que ensejam a responsabilidade civil e julgou procedente o pedido de indenização por dano moral. Para alterar este entendimento seria necessário o revolvimento fático-probatório dos autos, providência vedada mediante o óbice da Súmula 7/STJ.
+4. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no REsp 1783675/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe 07/10/2019)
+Tocante a presença dos elemento caracterizadores da litigância de má-fé, dispôs o acórdão estadual:
+Em arremate, observa-se a má-fé dos Réus ao tentar induzir os Julgadores em erro alterando a verdade dos fatos, tanto nas razões de apelação quanto na sustentação oral, em tribuna, ao afirmar que o pedido de dano moral dos Autores funda-se apenas em evento "futuro e incerto" pelo "temor de desabamento" do novo muro erigido, quando, na verdade, os Demandantes alegaram expressamente na peça exordial que o abalo anímico sofrido decorreu do desmoronamento do muro em virtude da inércia dos Demandados ao não realizarem as obras necessárias para a sua sustentação.
+(..)
+Destarte, conforme já explanado anteriormente, a tentativa de induzimento em erro fica clara quando os Demandados insistem em alegar que o laudo pericial de fls. 121-122 atesta que o muro de arrimo está em perfeitas condições; contudo, o laudo referido foi confeccionado aproximadamente dois anos após o ocorrido, quando o muro já havia sido reconstruído, e não diz respeito àquele objeto da controvérsia, que desmoronou pela desídia dos Réus, causando danos morais aos Autores.
+Assim, pelos fatos narrados, violaram os Réus comezinho dever de lealdade processual insculpido no artigo 77, I e II, do CPC/2015, razão pela qual hão de ser declarados litigantes de má-fé pela prática das condutas descritas no artigo 80,I e II, do mesmo Diploma Legal, e condenados ao pagamento de multa de 5% e indenização de 20% (artigo 81, caput, do CPC/2015) que incidirão sobreo valor da causa devidamente corrigido.(e-STJ fls. 269/270)
+Desse modo, adiscussão acerca da existência das condicionantes para o reconhecimento da litigância de má-fé esbarra no enunciado 7/STJ.
+Importante consignar que o § 3º do art. 81 do CPC/2015 não determina que a indenização pela litigância de má-fé seja arbitradaem quantia em espécie, podendo plenamente ser fixada em percentual sobre o valor da causa, o que atende o estabelecido pelo legislador.
+Assim, resta patente que a pretensão dos recorrentesnão merece guarida,devendo ser mantida incólume a decisão agravada em virtude dos referidosfundamentos.
+Frise-seser descabida a pretensão de nova majoração dos honorários, deduzida em sede de impugnação, por ocasião do julgamento do presente agravo interno, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. LEILÃOEXTRAJUDICIAL. RECURSO QUE NÃO ENFRENTA ESPECIFICAMENTE OS TERMOS DADECISÃO RECORRIDA. APLICAÇÃO DA SÚMULA 182/STJ. PLEITO POR NÃO ELEVAÇÃO DAVERBA HONORÁRIA. DESNECESSIDADE. QUANTUM JÁ AUMENTADO NO JULGAMENTO DOAGRAVO. AGRAVO INTERNO NÃO CONHECIDO.
+1. Viola-se o princípio da dialeticidade recursal quando as razões doagravo interno deixam de infirmar especificadamente os fundamentos dadecisão agravada. A inobservância do preceito contido no art. 1.021, § 1º,do CPC/2015 atrai a aplicação do enunciado da Súmula n. 182/STJ.
+2. Não é cabível a majoração dos honorários recursais, por ocasião dojulgamento do agravo interno, tendo em vista que a referida verba deve seraplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recursointerposto na mesma instância. Precedente.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1374512/SP, Rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/04/2019, DJe06/05/2019)
+Por fim,impõe-se ressaltar quenão pode ser considerada como protelatória ou como litigância de má-féa apresentação de recurso legalmente previsto no ordenamento jurídico, quando não ficar evidenciado o intuito protelatório da insurgência.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+É o voto.
