@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Trata-se de habeas corpus, com pedido de liminar, interposto em favor de Igor Câmara de Araújo contra decisão do Ministro Relator do Hc Nº 7000230-95.2021.7.00.0000 do Superior Tribunal Militar, que negou seguimento ao writ.
+    Requerem os impetrantes o imediato trancamento de ação penal na qual o paciente responde pela prática do crime previsto no art. 315 do Código Penal Militar.
+    Argumenta-se para tanto, o seguinte:
+    “[A] decisão de recebimento da denúncia seria nula, pois
+    não oportunizada à defesa o direito de resposta preliminar. Alega não estarem atendidos os requisitos legais do art. 77 do CPPM, razão pela qual seria caso de rejeição da inicial acusatória. Argumenta ainda que a decisão de recebimento seria nula por falta de fundamentação. Destaca também que ‘o acusado é civil e que é ilegal submeter civil a jurisdição castrense, desrespeitando Súmula vinculante 36 do STF e Súmula 297 do STF, e concomitantemente o princípio do juiz natural’. E diz ser a denúncia inepta, pois não individualizada a conduta do réu, não havendo também justa causa para a ação penal, por ser a conduta atípica.”
+    Requer-se, liminarmente, o provimento do recurso no seguinte sentido:
+    “a) O deferimento de justiça gratuita em prol do paciente.
+    b) o deferimento do pedido liminar, para que seja determinado o imediato trancamento da ação penal militar nº 7000241-60.2018.7.12.0012 que tramita da Auditoria da 12ª Circunscrição Militar da JMU, tendo em vista a incompetência daquele Juízo Militar para processar e, julgar o feito;
+    c) Caso o Relator entenda por não trancar a ação penal, que seja deferido em sede liminar a suspenção da ação penal nº 7000241-60.2018.7.12.0012, até que o plenário do STF julgue o mérito do presente habeas em definitivo.
+    d) Ainda requer que todas as ações que tramitam na JMU referente a submissão de civil ante a tribunal militar sejam suspensas considerando a ADI 5032, ADPF 298 e o presente writ que questionam a incompetência absoluta da JMU para processar e julgar civil em tempos de paz.
+    e) no Mérito, após apreciação e concessão da (s) liminar (es) requerida (s), o impetrante pugna pela cassação do acórdão recorrido e a declaração de incompetência absoluta da Justiça Especializada Militar para processar e julgar a demanda com base no princípio do juiz natural com o consequente encaminhamento do feito para apreciação e julgamento na Justiça Comum competente.
+    f) Pugna pelo processamento do presente writ e que seja concedida a ordem, trancando em definitivo a ação penal militar de nº processo n. 7000241-60.2018.7.12.0012, com a sua consequente extinção com resolução de mérito considerando a incompetência absoluta da Auditoria da 12ª CJM para processar e julgar o feito.
+    g) Requer que todos os atos do Juízo da 12ª CJM na ação penal sejam nulos absolutos. Ainda requer que todos os atos do MPM sejam nulos desde a fase do IPM e oferecimento da denúncia considerando que o parquet não é a Promotoria Natural para atuar na demanda
+    h) Por fim, requer que todos os atos processuais sejam nulos desde o recebimento da denúncia, bem como todos os atos praticados em sede de IPM considerando a incompetência absoluta da Auditoria da 12ª CJM para processar e julgar o feito. E considerando ainda a incompetência absoluta do parquet militar para atuar no litígio.”
+    Examinados os autos, decido
+    Constata-se que este habeas corpus é mera reiteração de outro pedido veiculado na Corte (RHC 189553), no qual indeferi o pedido liminar (ainda pendente o julgamento do mérito). Logo, veiculando o mesmo paciente, impetrante, pedido e causa de pedir.
+    A pacífica jurisprudência do Supremo Tribunal Federal destaca a inadmissibilidade de habeas corpus em que se reitera pretensão veiculada em impetração anterior já examinada pelo STF (v.g. HC nº 126.835-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 18/8/15).
+    No mesmo sentido, vide:
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXTORSÃO QUALIFICADA. PLEITO DE ABSOLVIÇÃO EM DECORRÊNCIA DE ATIPICIDADE DA CONDUTA. RECURSO INADMITIDO. REITERAÇÃO DE ARGUMENTOS EXPOSTOS EM IMPETRAÇÃO ANTERIOR. AGRAVO A QUE SE NEGA PROVIMENTO (RHC nº 175.079-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 16/10/19).
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. INVIABILIDADE DE REPETIÇÃO, NESTA SUPREMA CORTE, DE HABEAS CORPUS COM A MESMA CAUSA DE PEDIR E O MESMO PEDIDO DE IMPETRAÇÃO ANTERIOR. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO. I O pedido veiculado neste habeas corpus é mera repetição do pedido formulado em impetração anterior, de minha relatoria, em favor do paciente, com a mesma causa de pedir e o mesmo pedido. Aliás, a petição inicial é cópia da impetração anterior. II É firme a orientação desta Corte no sentido de não se admitir a reiteração de habeas corpus. Precedentes. III Agravo a que se nega provimento (HC nº 189.119-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/9/20).
+    RECURSO ORDINÁRIO EM HABEAS CORPUS REITERAÇÃO DE PEDIDO INVOCAÇÃO DOS MESMOS FUNDAMENTOS DE DIREITO E/OU DE FATO APRESENTADOS EM ANTERIOR POSTULAÇÃO RECURSAL DEDUZIDA PERANTE ESTA SUPREMA CORTE RECURSO IMPROVIDO. A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulações anteriores, torna inviável o próprio conhecimento do recurso ordinário em habeas corpus. Precedentes (RHC 166216 AgR, Rel. Celso de Mello, Segunda Turma, 22/4/2019).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário em habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se. Int..
+    Brasília, 15 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
