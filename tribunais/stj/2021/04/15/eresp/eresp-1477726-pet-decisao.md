@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da Petição n. 00324055/2021 (e-STJ fls. 695-696), Foz do Chapecó Energia S/A alega a ocorrência de fato superveniente. Nesse sentido, informa que, " .. em 03/11/2020, justamente para evitar contradições sistêmicas no ordenamento jurídico, este C. STJ procedeu ao julgamento da Pet 12.344 em 03/11/2020, estabelecendo, à luz da decisão do c. STF, que "os juros compensatórios, quando forem devidos, são de 6% ao ano para as incidências a partir de 11 de junho de 1997, data de edição da MP 1.577/97" (e-STJ fl. 696).
+Diante disso, requer " ..  seja reconhecido que os juros compensatórios devem serfixados na razão de 6% ao ano sobre a diferença entre 80% do valor total depositadoatualizado e aquele da condenação, conforme o disposto no art. 15-A do Decreto-Lei3.365/1941" (e-STJ fls. 695-696).
+É o breve relatório. Decido.
+O requerimento deve ser indeferido. Isso porque, conforme das razões do apelo nobre (e-STJ fls. 398-400), o recorrente, ora requerente, asseverou que a Corte de origem se omitiu sobre o tema percentual dos juros compensatórios, ou seja,foi veiculada preliminar de contrariedade ao art. 535 do CPC/1973. E, no julgamento do recurso especial, não foi acolhida tal alegação (e-STJ fls. 449-455). Nessas condições, sem que esta Corte tenha sindicado acerca dopercentual dos juros compensatórios, é defeso alterar as conclusões da Corte de origem quanto a esse particular.
+Isso posto, indefiro o requerimento.
+Publique-se. Intimem-se.
