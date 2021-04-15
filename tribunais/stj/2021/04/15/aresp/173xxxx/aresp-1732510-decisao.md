@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICÍPIO DE SÃO PAULO contra decisão que inadmitiu recurso especial, interpostocom apoio no permissivo constitucional, e que desafia acórdão proferido pelo TJ/SPassim ementado (e-STJ fl. 150):
+CONCESSÃO DE USO ESPECIAL PARA FINS DE MORADIA. MP nº 2.220/01, que regulamenta o art. 183 da CR. O direito à concessão especial de uso, observados os requisitos legais, impõe aos entes federados um poder-dever de agir no sentido de assegurar moradia aos desamparados, de forma a dar efetividade a direito fundamental assinalado no art. 6º da CR. Preenchimento dos requisitos legais para concessão do benefício, na hipótese, facultado ao Poder Público assegurar o exercício desse direito em outro local na hipótese de ocupação de imóvel, no prazo de 1 ano, a partir do qual, no silêncio da Administração, consolidar-se-á o statu quo.
+Sentença parcialmente reformada. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 207/211).
+No especial obstaculizado, o ora agravante apontou violação dos arts. 1º, 5º e 6º da MP n. 2.220/2001, alegando, em síntese, que "não cabe mesmo ao Poder Judiciário deferir títulos para regularização de áreas públicas sem o prévio requerimento administrativo" (e-STJ fl. 221).
+Após contrarrazões (e-STJ fls. 228/241), oapelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal, o que foi infirmado peloagravante.
+Contraminuta apresentada (e-STJ fls. 245/252).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+De plano, observoque o Tribunal a quo decidiu a questão mediante fundamentação constitucional (Princípios da destinação social da propriedade- arts. 5º, XXIII, 6º, 170, III, e183; e da inafastabilidade da jurisdição - art. 5º, XXXV, e-STJ fl. 152) e infraconstitucional, suficientes e autônomas à preservação do decisum.
+Todavia, o recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ, que também impede o conhecimento do recurso pela divergência suscitada.
+Acerca da hipótese, confiram-se: AgRg no REsp 1.524.755/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 11/12/2015; AgRg no AREsp 662.284/MS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 18/12/2015; AgRg no AREsp 287.659/RS, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 15/08/2014).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
