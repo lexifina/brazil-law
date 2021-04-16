@@ -1,0 +1,58 @@
+DECISÃO
+IVONILSON VIEIRA SOARES E MARIA JOSÉ ROCHEDO SOARES (IVONILSON e MARIA) ajuizaram ação declaratória de nulidade de garantia de hipoteca c/c revisional de contrato contra BANCO DO BRASIL S.A. (BANCO) buscando a declaração de abusividade das cláusulas da cédula rural pignoratícia e a hipoteca de bem de família.
+A ação foi julgada improcedente.
+IVONILSON e MARIA interpuseram recurso de apelação que foi desprovido pelo Tribunal estadual nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE GARANTIA HIPOTECÁRIA C/C REVISIONAL DE CONTRATO -SENTENÇA DE IMPROCEDÊNCIA - RECURSO DOS AUTORES.1. Alegada nulidade da contratação diante excesso de prazo do penhor rural, em ofensa ao disposto no art. 61, do Dec.-Lei nº 167/67 e no art. 1.439, do Código Civil - Pleito não provido - Penhor rural que foi previamente liberado diante da alteração da modalidade do crédito rural para "Cédula Rural Hipotecária" (Art. 20 a 24, do Dec.- Lei nº 167/67 e art. 1.486, do Código Civil).2. Impenhorabilidade do bem de família - Não provimento - Configurada a renúncia ao benefício legal, nos termos do inciso V, do art. 3º da Lei 8.009/90,que excepcionada a regra da impenhorabilidade do bem de família quando o imóvel tenha sido oferecido como garantia real pelo casal ou pela entidade familiar - Recorrentes não alegaram que recursos financeiros provenientes do contrato não se reverteram em favor da entidade familiar.3. Decisão mantida - Majoração da verba honorária, nos termos do art. 85,§11, do CPC, ressalvada a benesse da assistência judiciária gratuita. RECURSO NÃO PROVIDO (e-STJ, fls. 413/420)
+Inconformados, IVONILSON e MARIA manejaram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. (1) 61, do Decreto Lei nº 167/67, porque a cédula rural pignoratícia e hipotecária foi emitida em prazo superior ao previsto em lei; e (2) 1º, parágrafo único, e 5º, parágrafo único, da Lei nº 8.009/90, porque o imóvel objeto da hipoteca era bem de família, tornando-o impenhorável (e-STJ, fls. 431/442).
+Não foram apresentadas contrarrazões. (e-STJ, fl. 452)
+O apelo nobre não foi admitido porque (1) quanto ao art. 61 do Decreto Lei nº 167/67, não atacou o fundamento consignado no acordão, incidindo a Súmula nº 283 do STF; e (2) quanto à impenhorabilidade do bem de família, o entendimento do TJPR amoldou-se a orientação desta Colenda Corte, incidindo a Súmula nº 83 do STJ (e-STJ, fls. 455/457).
+Nas razões do presente agravo em recurso especial, IVONILSON e MARIA sustentam que (1) não incide a Súmula nº 283 do STF, uma vez que os argumentos foram elencados na apelação e no recurso especial; e (2) não se aplica Súmula nº 83 do STJ, pois, apesar de haver entendimento consolidado acerca do tema, não se coadunou ao caso concreto (e-STJ, fls. 469/475).
+Não foi apresentada contraminuta (e-STJ, fl. 487).
+É o relatório.
+DECIDO.
+Do agravo em recurso especial
+Da acurada análise das razões do agravo, verifica-se que foram impugnados os fundamento da decisão de inadmissibilidade motivo pelo qual CONHEÇO do agravo e passo ao julgamento do apelo nobre interposto às e-STJ, fls. 430/441.
+Do recurso especial
+O recurso não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da incidência das Súmulasnºs 5 e 7 do STJ
+IVONILSON e MARIA alegando a violação dos art. 61, do Decreto Lei nº 167/67, porque a cédula rural pignoratícia e hipotecária foi emitida em prazo superior ao previsto em lei.
+Sobre o tema o TJPRconsignou quehouve contratação de garantia hipotecária e que esta não pode ser tratada da mesma forma que o penhora rural, ressaltando que o contrato firmado entre as partes foi aditivado com a previsão deliberação da garantia pignoratícia, afastando, portanto a alegação de nulidade do título,confira-se:
+À vista disso, diante da legítima contratação da garantia hipotecária é escorreita as entença guerreada ao entender que, "em se tratando de institutos distintos, não há como dar à hipoteca o mesmo tratamento dado ao penhor rural"
+Ora, a hipoteca é direito acessório cuja existência está condicionada ao direito de crédito. No caso, não foram comprovadas quaisquer causas extintivas da garantia hipotecária, sendo 2 consentânea sua manutenção dos termos do contrato.
+Pois bem. No tocante à alegada nulidade do contrato, em razão do excesso de prazo do penhor rural, insta ressaltar que no referido aditivo, foi pactuada a liberação do penhor de primeiro grau sobre a colheita de soja (em grãos) do período agrícola de setembro de 2005 a agosto de 2006,estimada em 1.015.600,83 kg, no valor de R$ 416.396,34.
+Assim, liberada a garantia pignoratícia, resta desarrazoada a alegação de nulidade do título.
+Isso porque, a prorrogação do vencimento da dívida não implicou no excesso de prazo de penhor rural, inexistindo, portanto, qualquer ofensa ao disposto nos artigos 61, do Dec.-Lei nº167/67 e 1.439, do Código Civil  ..  (e-STJ, fls. 414/415).
+Assim, rever as conclusões quanto à inexistência de nulidade na prorrogação do contrato em virtude da liberação da garantia pignoratíciademandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES.PLANO DE SAÚDE COLETIVO EMPRESARIAL. REAJUSTE DAS MENSALIDADES POR SINISTRALIDADE. FALTA DE DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. AUSÊNCIA DE ELEMENTOS PARA AFERIR A SUA REGULARIDADE. REVISÃO DAS CONCLUSÕES DA CORTE DE ORIGEM.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à abusividade do reajuste e ausência de justificativa para a majoração dos valores cobrados, sem que se proceda ao reexame dos fatos e das provas dos autos e à análise do contrato firmado entre as partes, o que não se admite nesta instância extraordinária, em decorrência do disposto nas Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.533.674/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TerceiraTurma, j. 22/3/2021, DJe 25/3/2021)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+(2) Da incidência da Súmula nº568 do STJ
+Nas razões do presente recurso, IVONILSON e MARIA afirmaram a violação do art.1º, parágrafo único, e 5º, parágrafo único, da Lei nº 8.009/90, porque o imóvel objeto da hipoteca era bem de família, tornando-o impenhorável.
+Sobre o tema o TJPRconsignou que (i) o imóvel foi dado em garantia o que permite o afastamento da impenhorabilidade e (ii) não houve alegação de que os recursos financeiros não foram revertidos em favor da entidade familiar, confira-se:
+No caso em comento, o Juízo "a quo", ao afastar a impenhorabilidade do referido bem imóvel, fundou seu entendimento justamente nos termos do artigo 3º, V, da Lei nº 8.009/90, que permite o afastamento da impenhorabilidade do imóvel quando oferecido como garantia real pelo casal oupela entidade familiar.
+ ..
+Assim, considerando que o imóvel em questão foi oferecido como garantia na cédula rural hipotecária, devidamente assinada pelo casal (mov. 1.10), resta caracterizada a renúncia à impenhorabilidade, conforme dispõe o citado inciso V, do art. 3º da Lei 8.009/90.
+Ademais, os recorrentes não alegaram que recursos financeiros provenientes do contrato não se reverteram em favor da entidade familiar  ..  (e-STJ, fls. 416/417).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de quea impenhorabilidade do bem de família não é oponível para obstar a execução de hipoteca sobre bem imóvel oferecido como garantia real hipotecária pelo casal ou entidade familiar.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. PRODUÇÃO DE PROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.PENHORA. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA DE EMPRÉSTIMO EM FAVOR DA ENTIDADE FAMILIAR. CABIMENTO. RECURSO PROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. A jurisprudência desta Corte firmou-se no sentido de que a impenhorabilidade do bem de família não é oponível para obstar a execução de hipoteca sobre bem imóvel oferecido como garantia real hipotecária pelo casal ou entidade familiar. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1.682.003/PR, Rel. Ministro RAUL ARAÚJO, QuartaTurma, j. 8/2/2021, DJe 23/2/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC DE 1973. APELAÇÃO CÍVEL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 535, INCISOS I E II, DO CPC. NÃO OCORRÊNCIA. BEM DE FAMÍLIA DADO EM GARANTIA DE DÍVIDA (HIPOTECA). IMPENHORABILIDADE AFASTADA.POSSIBILIDADE. POSICIONAMENTO FIRMADO NO TRIBUNAL DE ORIGEM DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp 1.604.422/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TerceiraTurma, j.14/9/2020, DJe 21/9/2020)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº568 do STJ.
+Nessas condições, CONHEÇO do agravo paraNÃO CONHECERdo recurso especial.
+MAJOROpara 15% o valor dos honorários advocatícios anteriormente fixados em favor de BANCO, nos termos do art. 85, § 11, do NCPC.a, ressalvada a benesse da assistência judiciária gratuita eventualmente deferida no primeiro grau de jurisdição.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE HIPOTECA E REVISIONAL DE CONTRATO. ALEGAÇÃO DE NULIDADE DO PRAZO DA CÉDULA RURAL PIGNORATÍCIA. TRIBUNAL ESTADUAL QUE CONSIGNOU A EXISTÊNCIA DE NULIDADE EM VIRTUDE DA ASSINATURA DE ADITIVO CONTRATIAL COM LIBERAÇÃO DO PRIMEIRO PENHOR.IMPOSSIBILIDADE DE REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROVBATÓRIO DOS AUTOS. SÚMULAS NºS 5 E 7 DO STJ. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA DE EMPRÉSTIMO EM FAVOR DA ENTIDADE FAMILIAR. CABIMENTO. PRECEDENTES. SÚMULA Nº 568 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO
