@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE GOIÁS contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL EM REEXAME NECESSÁRIO. DECLARATÓRIA C/C COBRANÇA. SERVIDORA PÚBLICA. CONVERSÃO DOS VENCIMENTOS EM URV (UNIDADE REAL DE VALOR). APLICAÇÃO DA LEI 8.880/94. DIREITO A REPOSIÇÃO SALARIAL, DEFASAGEM A SER APURADA EM LIQUIDAÇÃO DE SENTENÇA. LEI SUPERVENIENTE, REESTRUTURANDO SALÁRIO. VERBAS DE NATUREZA DISTINTAS.
+1. O servidor público tem o direito de revisar sua remuneração ou incorporar eventual índice de defasagem salarial referente a conversão da moeda em URV.
+2. Reestruturação de vencimentos e concessão de benefícios e gratificações, determinados por lei superveniente à Lei nº 8.880/94 não têm o condão de corrigir equívocos procedidos na conversão dos vencimentos dos servidores em URV, por se tratar de parcelas de natureza jurídica diversa e que, por isso, não podem ser compensadas.
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA CONHECIDAS E DESPROVIDAS. SENTENÇA MANTIDA (fl. 152).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 193 e 205 do CC e 1º do Decreto n. 20.910/32, no que concerne à ocorrência de prescrição, trazendo os seguintes argumentos:
+No caso debatido nestes autos, o direito de cobrança de supostas perdas remuneratórias decorrentes de erro na conversão do salário da parte recorrida em URV foi atingido pelo óbice intransponível da prescrição.
+ ..
+Com isso, o termo a quo do prazo prescricional do direito de cobrança de supostas perdas remuneratórias decorrentes de erro na conversão do salário da parte autora em URV deve ser a data em que houve a reestruturação da carreira, com a instituição de novo regime jurídico remuneratório, que no presente caso se deu em novembro de 2001, com a entrada em vigor da Lei Estadual nº 13.909/2001.
+Ao mesmo passo, o termo ad quem deve ser aquele fixado pelo art. 1º do Decreto 20.910/32, visto que inexiste outra disposição específica para a prescrição dos pleitos em face das Fazendas Públicas.
+ ..
+Diante disso, considerando que as dívidas e todo e qualquer direito ou ação contra as Fazendas Públicas prescrevem em 05 (cinco) anos, conforme estabelece o Decreto nº 20.910/32, o suposto direito vindicado pela parte autora na presente ação está prescrito desde setembro de 2006 (fls. 231/233).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
