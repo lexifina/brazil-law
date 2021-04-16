@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSIVAN DOS SANTOS MARTINScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2105605- 03.2020.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 23/2/2020 por ter supostamente praticado o delito tipificado no art. 157, § 2º, II, do Código Penal, em concurso material (roubos majorados). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos do acórdão que restou assim ementado:
+"PENAL. "HABEAS CORPUS". ROUBO MAJORADO. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA.
+Pretendida revogação da prisão preventiva com a expedição de alvará de soltura. Descabimento. A) Havendo prova da materialidade e indícios suficientes de autoria, legítima a segregação cautelar para preservar a ordem pública. Paciente e corréu que subtraíram, em proveito dos dois, mediante violência física contra a vítima, uma carteira, avaliada em R$ 50,00, bem como a quantia em dinheiro de R$ 114,00, pertencentes ao ofendido. Verificada situação de relevante gravidade, inclusive crime praticado em concurso de pessoas, o que torna a conduta ainda mais reprovável, tudo a demonstrar periculosidade concreta do paciente pelo modus operandi efetivado, sendo o crime de roubo um daqueles que gera um enorme temor à população, exigindo, por isso, maior rigor da justiça. Necessária sua custódia cautelar para a garantia da ordem pública e acautelar o meio social, nenhuma outra medida, menos rigorosa, surgindo suficiente para tanto. B) Decisão de conversão que se limita a verificar a viabilidade da manutenção da prisão, com observação da gravidade da conduta e periculosidade presumida do agente, de acordo com a necessidade da garantia da ordem pública, afastando, como possível, concessão de liberdade provisória. Constrangimento ilegal não configurado. C) O prazo de conclusão do juízo de culpa não deve resultar de mera soma aritmética, mas sim ser aferido de acordo com as particularidades do caso em concreto. Precedentes do C. STJ. Dilação que não decorre de desídia por parte do Poder Judiciário, sendo que o processo se encontra em regular trâmite e a instrução somente não se encerrou em razão da pandemia, situação excepcional de força maior (artigo 798,§4º, do CPP), o que justifica o atraso, não se verificando exagerada dilação por desídia do poder judiciário, portanto, não se observando manifesta ilegalidade a ser corrigida por este Tribunal.
+Ordem denegada"(fls. 34/35).
+No presente writ, a defesa sustenta que não há fundamento para a manutenção da prisão preventiva do paciente, nos termos do art. 312 do Código de Processo Penal - CPP, não tendo sido o crime praticado com ameaça à integridade física da vítima.
+Alega o excesso de prazo para a formação da culpa e na custódia, não havendo previsão de encerramento da instrução, não tendo a defesa dado causas aos atrasos.
+Ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Pleiteia, em liminar e no mérito, a revogação da prisão preventiva do paciente, com a expedição de alvará de soltura,ainda que comimposição de medidas cautelares diversas da prisão.
+A liminar foi indeferida (fls. 390/392), as informações foram prestadas (fls. 398/402 e 405/435) eo Ministério Público se manifestou pelo não conhecimento dohabeas corpus(fls. 437/441).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Com efeito, das informações obtidas na página eletrônica do Tribunal de origem, na Ação Penal n.1500396-97.2020.8.26.0616,verifica-se que, em 31/3/2021,nos autos doHC nº 2004902-30.2021.8.26.0000, foi concedida a ordem erevogada a prisão preventiva dopaciente,expedindo-se alvará de soltura em seu favor.
+Assim, constata-se a perda superveniente do objeto deste mandamus.
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
