@@ -1,0 +1,9 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS DESTINADAS A TERCEIROS. BASE DE CÁLCULO. LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESPs. 1.898.532/CE E 1.905.870/PR, REL. MIN. REGINA HELENA COSTA. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por BONSAI MOTORS VEÍCULOSLTDA., com fundamento nas alíneas a e c do art. 105, III, da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF 4ª Região, assim ementado:
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. BASE DE CÁLCULO. LIMITE. 20 SALÁRIOS MÍNIMOS.INAPLICABILIDADE.
+O limite de 20 salários mínimos, uma vez estabelecido pela Lei nº 6.950, de 1981, para o salário-de-contribuição do empregado, não condiciona a incidência das contribuições que tem por objeto a folha de salários do empregador.
+2. A questão debatida nos autos, qual seja, limitação a 20 (vinte) salários mínimos das bases de cálculo das contribuições parafiscais, encontra-se afetada à 1a. Seção desta Corte Superior, aguardando o julgamento dos REsps1.898.532/CE e 1.905.870/PR, de relatoria da Min. REGINA HELENA COSTA, sob o rito dos recursos repetitivos - Tema 1.079.
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+4. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia,o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintes do CPC/2015.
+5. Publique-se. Intimações necessárias.
