@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RENATO SIQUEIRA BASILE contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás, nos autos da apelação criminal n. 131023-81.2015.8.09.0175.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 21 (vinte e um) dias-multa, como incurso nas iras do art. 157, § 2º, I e II, c/c art. 71 (oito vezes), todos do Código Penal (fls. 109-172).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, mas de ofício diminuiu a pena pecuniária, consoante voto condutor do v. acórdão de fls. 204-216.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois, "conforme depoimento das testemunhas auto de reconhecimento do termo, o reconhecimento da recorrente foi feito por fotografia, e a condenação foi baseada nesses reconhecimentos decisão contraria a jurisprudência desta corte" (fl. 5).
+Sustenta que o reconhecimento do paciente não observou os ditames do art. 226 do Código de Processo Penal.
+Pondera que, "sem necessidade de nenhum exame mais detido, basta ler o conteúdo dos referidos depoimentos, para se constatar que, embora, de fato, tenham as vítimas mencionado de modo categórico que eram dois os assaltantes, o reconhecimento dos autores do roubo ficou longe de ser aproveitável" (fl. 9).
+Insurge-se contra a fixação da pena-base.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. XXX).
+Informações prestadas às fls. XXX.
+O Ministério Público Federal, às fls. 263-270, manifestou-se pelo não conhecimento do writ, em parecer sem ementa.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a absolvição do paciente, tendo em vista a nulidade do reconhecimento fotográfico; ii) a diminuição da pena-base; e iii) a redução da fração aplicada em face da continuidade delitiva.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Da redução da fração da continuidade delitiva(pedido de todos os apelantes):
+Em face dos vários crimes cometidos pelos apelantes majorou a pena provisória em 2/3 (dois terços), o maior coeficiente previsto em Lei, assim se justificando:
+ ..
+Ocorre que a Defesa entende que somente foram perpetrados 02 (dois) crimes de roubo, devendo o coeficiente escolhido, ser fixado no mínimo legal.
+Mas, dos autos, extrai-se que os apelantes, em unidade de desígnios e ações, valendo-se das mesmas condições de tempo, lugar e maneira de agir, subtraíram, para eles, mediante grave ameaça, exercida com emprego de arma de fogo, no dia 02/03/2015, por volta das 19h30min, na Alameda da República, Setor Jaó, nesta Capital, 03 televisões, 02 notebooks, sendo um deles da Apple, 03 Iphones, além de 01 play station 4, vários jogos de CD e 01 relógio Michael Kors, de propriedade das vítimas Eliane Rodrigues Arantes (1ª vítima) e Carolina Rodrigues Servido Goulart (2ªvítima); seguidamente, num curto intervalo e envolvendo o mesmo contexto fático, no dia 05/03/2015, por volta das 21:00 horas, na Avenida Toronto, Residencial Canadá, nesta Capital, R$ 650,00 (seiscentos e cinquenta reais) em dinheiro, 06 alianças em ouro, 01 anel em ouro branco, amarelo e vermelho, 01pulseira em outro, 01 anel em terço em ouro, 02 correntes em outro com pingentes, 01 mapa do Irã, 01 televisão marca Sony de 32", 01 filmadora marca Sony, 01 máquina fotográfica marca Samsung, 01 jaqueta de couro, 01 anel emouro com brilhante, 01 celular Samsung Gran Duos, 02 malas, 01 pulseira emouro, além de roupas e cintos, tudo de propriedade das vítimas Vinícius Ferreira de Faria Barros (3ª vítima), Silma Aparecida de Faria Renema (4ªvítima), Rodolfo Valentino José de Moura (5ª vítima), Lidiane Pires Borges (6ªvítima), Nilma Maria Ferreira de Moura (7ª vítima) e Marcela Rosa de Oliveira Silva (8ª vítima), sendo as últimas parentes da primeira, que estavam em sua residência no momento do fato.
+Como efeito, a descrição da prática de 08 (oito) crimes de roubo encontra-se devidamente delineada na peça vestibular e na prova amealhada, razão pela qual, acertada a sentença no ponto em que considerou referido número para fixação, quando da aplicação da ficção da continuidade delitiva, disposta no artigo 71, do Código Penal, e não apenas dois deles.
+ ..
+Assim, reconhecidas 08 (oito) infrações, há que ser mantida a fração utilizada pelo Sentenciante, conforme a jurisprudência dominante  .. " (fls. 206-209).
+Em relação à nulidade do reconhecimento fotográfico e à pena-base, observa-se que as referidas teses não foram enfrentadas pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre os referidos temas expostos na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 28/08/2017.
+De outro lado, é iterativa a jurisprudência desta Corte Superior no sentindo de que a exasperação da reprimenda, em razão da continuidade delitiva, prevista no art. 71, caput, do Código Penal, se dá em função do número de infrações praticadas: 2 (duas) dá azo ao aumento de 1/6 (um sexto); 3 (três) correspondem a 1/5 (um quinto); 4 (quatro) enseja 1/4 (um quarto); 5 (cinco) majora-se em 1/3 (um terço); 6 (seis) exaspera-se em 1/2 (um meio); e 7 ou mais infrações na razão de 2/3 (dois terços).
+A Corte de origem, soberana na análise da prova, asseverou que foram praticados 8 (oitos) crimes em continuidade delitiva. Desse modo, o Tribunal local manteve a exasperação em 2/3 (dois terços).
+Nesse contexto, a solução adotada pela instância a quo não destoa da jurisprudência desta Corte Superior. Em verdade, afastar a premissa assentada no ato apontado como coator demanda o reexame do conjunto fático-probatório dos autos, situação interditada na via estreita do presente remédio heroico.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
