@@ -1,0 +1,21 @@
+DECISÃO:
+EMENTA: Processo penal. Recurso ordinário em habeas corpus. Crime Roubo qualificado. Inadequação da via eleita. Condenação transitado em julgado. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, impetrado contra decisão monocrática que indeferiu liminarmente o HC 648.299, no Superior Tribunal de Justiça.
+    2. Consta dos autos que o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática do crime previsto no art. 157, § 2º, II, do Código Penal. Interposta apelação pela defesa, o Tribunal estadual negou provimento ao recurso.
+    3. Houve a impetração de habeas corpus no Superior Tribunal de Justiça. O Relator do HC 648.299, Min. Rogerio Schietti Cruz, indeferiu liminarmente o writ.
+    4. Neste recurso ordinário, a defesa alega que, “ao Julgar a Ação Penal e todo o seu iter procedimental, o E. Tribunal de Justiça do Estado de São Paulo deixa claro que entende ser o competente para processar e julgar os fatos declarando, implicitamente, a competência”.
+    5. A defesa requer “seja conhecido e provido o presente recurso, para declarar a nulidade absoluta do julgamento produzido pelas instâncias de origem, anulando-se todos os atos decisórios, com o fim de remeter os autos para julgamento perante a Justiça Federal de São Paulo, como medida de inteira e eficaz justiça !!!!!”.
+    6. Decido.
+    7. Do ponto de vista processual, o caso é de recurso ordinário em habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9. E mais: a orientação do STF é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, consta dos autos que a condenação imposta ao paciente transitou em julgado em 03.11.2014.
+    10. Ainda: a matéria trazida pelo paciente neste recurso ordinário não foi apreciada pelas instâncias de origem (TJ/SP e STJ). Fato esse que impede o imediato exame da matéria pelo Supremo Tribunal Federal, sob pena de dupla supressão de instâncias.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 16 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
