@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravos interpostos por MÁRCIO RAMALHO DE OLIVEIRA e OUTROS, contra decisões que inadmitiram recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+Mediante análise dos autos, observa-se que a parte Agravante interpôs recurso especial contra o acórdão que negou provimento ao agravo de instrumento, proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso.
+Conclusos os autos, o Vice-Presidente do Tribunal de origem negou seguimento ao recurso especial, com fundamento no art. 1.030, I, b, em razão da conformidade do acórdão recorrido com o Recurso Especial repetitivo n. 1.333.349/SP (Tema 885).
+Após, houve a interposição de agravo em recurso especial, o qual não foi conhecido por ser manifestamente incabível na hipótese.
+Dessa decisão, a parte Agravante opôs embargos de declaração, ao argumento de que "não houve fundamentação em recursos repetitivos ou de repercussão geral, ao contrário, fora aduzido tão simplesmente que o Tribunal de Justiça de Mato Grosso e o E. Superior Tribunal de Justiça tinham entendimento semelhante sobre a matéria" (fls. 766/767), alegação novamente deduzida por ocasião dos segundos aclaratórios opostos, tendo sido ambos rejeitados.
+Ainda insatisfeita, a parte Agravante veio aos autos para interpor novo recurso especial e novamente se insurgir contra a decisão de mérito prolatada pelo Tribunal de origem, tendo ressalvado, ao fim, a vigência, em nosso sistema normativo, do princípio da fungibilidade recursal, que, em última análise, autoriza o recebimento do agravo em recurso especial como agravo interno.
+Novamente conclusos os autos, a Vice-Presidente não admitiu o apelo nobre em razão da preclusão consumativa, sendo ainda incabível recurso especial na hipótese. (fls. 953/957)
+Em face dessa decisão, a parte interpôs embargos de declaração, os quais não foram conhecidos por falta de interesse recursal, tendo em vista a interposição conjunta de novo agravo em recurso especial, o qual foi remetido a esta Corte, nos termos do art. 1.042 do CPC, para os mesmos fins ali pretendidos.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, constata-se que o agravo de fls. 664/689 foi interposto contra a decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, cuja intimação efetivou-se já na égide do novo Código de Processo Civil.
+Consoante o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra decisão que nega seguimento a recurso especial com base no inciso I, "b", do mesmo artigo. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Quanto ao mais, registre-se, como bem observado pelo Tribunal de origem, não ser possível conhecer do segundo recurso especial (fls. 863/939), tendo em vista a ocorrência da preclusão consumativa a partir da interposição do primeiro apelo, "o qual teve seu seguimento negado ante a aplicação do Tema 885 da sistemática de recursos repetitivos (id 45874455)." (fls. 953/957)
+Ou seja, ao interpor o recurso especial de fls. 414/456, a parte Agravante praticou ato processual pelo qual se consumou o seu direito de recorrer, não havendo como conhecer do outro apelo apresentado às fls. 863/939, interposto contra o mesmo acórdão, bem como do agravo a ele correspondente (fls. 959/984).
+Nesse sentido, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. RECURSO ESPECIAL. PREPARO. COMPROVANTES DE RECOLHIMENTO. ILEGIBILIDADE. DESERÇÃO. SÚMULA Nº 187/STJ. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. SUSPENSÃO. AUSÊNCIA DE COMPROVAÇÃO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, haja vista a ocorrência de preclusão consumativa e a aplicação do princípio da unirrecorribilidade das decisões.
+2. Incide a Súmula nº 187/STJ quando estão ilegíveis os comprovantes de recolhimento de preparo do recurso especial. Precedentes.
+3. É intempestivo o recurso especial interposto fora do prazo legal de 15 (quinze) dias previsto no artigo 508 do Código de Processo Civil/1973.
+4. É firme o entendimento desta Corte Superior de que a existência de feriado local ou a suspensão de expediente forense no dia do termo inicial ou final do prazo recursal deve ser demonstrada por certidão expedida pelo tribunal de origem ou por documento oficial.
+5. Agravo interno não provido (AgInt no AREsp 968.396/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 04/04/2017)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos agravos de fls. 664/689 e 959/984.
+Publique-se. Intimem-se.
