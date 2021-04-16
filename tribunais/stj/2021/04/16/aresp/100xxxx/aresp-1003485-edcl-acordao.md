@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1601757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017). No caso, não há vício a ser sanado.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por JOSÉ HÉLIO MENEZES, JUÇARA FERNANDES DOS SANTOS PORTO, MARIA CRISTIANE SANTOS MENEZES e ANATÁLIA ODETE DA SILVA contra acórdão desta Quinta Turma, assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. POSSIBILIDADE. SÚMULA 568/STJ. FRAUDE À LICITAÇÃO. CRIME FORMAL. DOSIMETRIA DA PENA-BASE. ADEQUAÇÃO. AGRAVANTE. ART. 12, I, DA LEI 8.137/90. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Conforme entendimento sumulado desta Corte, o relator, sempre que houver entendimento dominante sobre o tema, pode dar ou negar provimento a recurso. Conforme jurisprudência pacífica, é manifestamente incabível agravo regimental contra acórdão, decisão colegiada. Súmula 568/STJ.
+2. A natureza formal da conduta descrita no art. 90 da Lei 8.666/93 dispensa a demonstração de prejuízo ou dano aos cofres públicos. Basta a comprovação da fraude para se configurar o crime em questão.
+3. A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade." (AgRg nos EDcl no AREsp 1069353/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/10/2019, DJe 04/11/2019).
+4. Tendo o TRF destacado que determinado agente, na condição de presidente da Comissão do Procedimento Licitatório, dirigiu a atividade dos demais agentes, torna-se inviável, nesta instância, sob pena de violação da Súmula 7/STJ, afastar a agravante do art. 62, I, do CP.
+5. Agravo regimental desprovido." (e-STJ, fl. 1.014).
+Nos aclaratórios, os embargantes apontam omissão no decisum.
+Aduzem que não foi enfrentada a alegação de ausência do dolo de fraudar. Além disso, asseveram que, a despeito do pedido de adiamento para sustentação oral no agravo regimental, o pedido não foi analisado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1601757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017). No caso, não há vício a ser sanado.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Inicialmente, destaque-se que o acórdão encontra-se devidamente fundamentado.
+Com efeito, vale lembrar que o art. 619 do Código de Processo Penal dispõe que os aclaratórios destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1601757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017).
+Na hipótese, o embargante não preencheu os requisitos de admissibilidade do recurso.
+Ao contrário do que alegam os embargantes, o acórdão recorrido ressaltou expressamente a existência de fraude, nos termos do que restou consignado pela Corte local:
+Na hipótese dos autos, a Corte recorrida anotou:
+"Com efeito, como já analisado anteriormente, encontra-se evidenciado nos autos, que a Apelante JUÇARA FERNANDES DOS SANTOS PORTO, na condição de Presidente, e os demais membros da Comissão Permanente de Licitação, também Recorrentes neste feito, MARIA CRISTIANE SANTOS MENEZES e ANATÁLIA ODETE VIEIRA SILVA, foram responsáveis pela montagem da licitação, preparando-a mediante a produção de documentação ideologicamente falsa. E o então Prefeito, JOSÉ HÉLIO DE MENEZES, foi o responsável pela homologação da licitação fraudulenta, tendo também participado dos seus ajustes, dando-o como regular, acobertando e concordando com a consumação criminosa. Fatos que não foram refutados pela Defesa.
+De consignar, ainda, que os Apelantes, enquanto membros da CPL e o então Prefeito Municipal, promoveram mediante fraude a contratação indireta dos "licitantes" beneficiados em cada uma das 46 "linhas" de transporte.
+ ..
+Alegam, ainda, os Apelantes que o delito do artigo 90, da Lei 8.666/93 exige a configuração do dolo específico, ao argumento de que seria necessária, no caso, a obtenção do proveito econômico.
+Pois bem, é entendimento do egrégio Superior Tribunal de Justiça no sentido de que o elemento subjetivo do tipo penal em análise consiste no intuito de obter para si ou para outrem, vantagem decorrente da adjudicação do objeto da licitação, e para tal "Basta à caracterização do delito tipificado no art. 90 da Lei 8.666/93 que o agente frustre ou fraude o caráter competitivo da licitação, mediante ajuste, combinação ou qualquer outro expediente, com o intuito de obter vantagem decorrente da adjudicação do objeto do certame, vantagem essa que pode ser para si ou para outrem" (AgRg no AG 983730/RS).
+ ..
+Na espécie, o elemento subjetivo encontra-se demonstrado no intuito de favorecer 46 pessoas que tiveram em seu favor adjudicadas as linhas de transporte escolar, sem precisar passar por qualquer procedimento de efetiva disputa para prestar serviço à municipalidade e obter a garantia de um contrato administrativo devidamente remunerado e sem o risco de assunção do objeto contratado por terceiros." (e-STJ, fls. 726-728; grifou-se).
+Logo, a tese absolutória não se sustenta, pois, conforme já ressaltado, o crime em questão prescinde de qualquer demonstração de prejuízo, bastando a fraude, requisito este que, segundo o acórdão local, está demonstrado nos autos." (e-STJ, fls. 1016-1017; grifo no original).
+É necessário lembrar também que, no recurso especial, a tese principal dos então embargantes foi a de ausência de prejuízo, e não a de inexistência de fraude. A propósito, confira-se um trecho que bem demonstra a pretensão recursal:
+Por seu turno os recorrentes não auferiram qualquer vantagem, bem como não houve dano ao erário.
+Dessa feita o posicionamento adotado pelo ilustre relator em seu voto diverge frontalmente do lançado no acórdão paradigma, no sentido de que a não comprovação da ocorrência de dano ao erário não há a incidência do art. 90 da Lein. 8.666/93, o que impõe a absolvição dos recorrentes." (e-STJ, fl. 820).
+Anote-se não ser dado aos recorrentes modificarem a estratégia de defesa em sede de embargos de declaração. Sobre o tema:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. VIOLAÇÃO DOS ARTS. 619 E 620 DO CPP. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. REVISÃO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. INOVAÇÃO RECURSAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. IRRETROATIVIDADE DA LEI. DECISÃO MANTIDA.
+1. Inexiste contrariedade aos arts. 619 e 620 do CPP se o tribunal de origem examina e decide, de forma motivada e suficiente, as questões que lhe foram submetidas.
+2. "A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+4. É inviável a análise de matéria não suscitada no recurso especial e apresentada posteriormente, em agravo regimental e/ou embargos de declaração, caracterizando inovação recursal.
+5. A norma do art. 28-A do CPP, que trata do acordo de não persecução penal, somente é aplicável aos processos em curso até o recebimento da denúncia.
+6. Agravo regimental desprovido."
+(AgRg no REsp 1882601/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. OMISSÃO. INEXISTÊNCIA. ALEGAÇÃO NÃO SUSCITADA NA PETIÇÃO INICIAL DO WRIT, NEM SEQUER NO RECURSO INTERNO. INOVAÇÃO RECURSAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA AFASTAR A MEDIDA CAUTELAR DE RECOLHIMENTO NOS FINAIS DE SEMANA E FERIADOS. EXTENSÃO AOS DEMAIS INVESTIGADOS/DENUNCIADOS.
+1. A questão alegadamente omissa - inidoneidade da fundamentação da medida cautelar de recolhimento nos finais de semana e feriados - não foi objeto da petição inicial do habeas corpus, nem sequer do recurso de agravo regimental apreciado pela Sexta Turma do Superior Tribunal de Justiça, constituindo inovação de tese no presente recurso integrativo.
+2. No âmbito de agravo regimental e de embargos de declaração, o Superior Tribunal de Justiça não admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso.
+3. Não obstante isso, diante da fundamentação utilizada pela maioria da Sexta Turma do Superior Tribunal de Justiça para afastar o recolhimento noturno, não se mostra proporcional, nem sequer razoável, a manutenção da restrição do Embargante nos finais de semana e feriados.
+4. Embargos de declaração não conhecidos. Ordem de habeas corpus concedida de ofício para afastar o recolhimento do Embargante nos finais de semana e feriados, sem prejuízo de nova fixação por fato superveniente, desde que de forma fundamentada. Extensão dos efeitos do provimento à Corré DENISE KRUMMENAUER PAHIM (fls. 213-216)."
+(EDcl no AgRg no HC 564.325/PB, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/12/2020, DJe 24/02/2021).
+Sobre a suposta omissão quanto ao pleito de sustentação oral no agravo regimental, necessário destacar que, "nos termos do art. 258 do Regimento Interno deste Superior Tribunal de Justiça, o agravo regimental relativo à matéria penal em geral será apresentado em mesa, para que o órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a. Além disso, o art. 159, inciso IV, do RISTJ também afasta a realização de sustentação oral no julgamento do agravo regimental, salvo expressa disposição legal em contrário, o que não constitui a hipótese dos autos. Precedente da Terceira Seção." (AgRg nos EDcl no AREsp 1777813/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/03/2021, DJe 25/03/2021).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
