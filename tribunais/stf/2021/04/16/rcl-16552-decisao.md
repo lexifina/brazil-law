@@ -1,0 +1,21 @@
+DECISÃO
+COMPETÊNCIA DO SUPREMO – USURPAÇÃO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Regina Pereira Alves afirma haver o então Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, no processo nº 9142586-97.2006.8.26.0000/500, usurpado a competência do Supremo.
+    Narra a interposição simultânea de recursos especial e extraordinário. Ante a inadmissão do segundo, protocolou agravo visando destrancá-lo. Esclarece ter o Colegiado de origem remetido ao Supremo o processo, que Vossa Excelência encaminhou ao Superior Tribunal de Justiça, para exame do recurso especial. Após o trânsito em julgado e a baixa à origem, a autoridade reclamada, apreciando agravo contra o pronunciamento formalizado no juízo primeiro de admissibilidade, julgou prejudicado o recurso extraordinário.
+    Frisa caber ao Supremo examinar agravo voltado ao processamento de recurso extraordinário.
+    Destaca erronia na observância de precedente do Tribunal. Tem como impróprio o decidido no agravo de instrumento nº 839.695 como justificativa a ensejar prejuízo do recurso extraordinário, não estando em jogo revisão de valor indenizatório, mas o direito, em si, a indenização – artigo 37, § 6º, da Constituição Federal.
+    Requer a cassação da decisão e o envio do processo ao Supremo.
+    No recurso extraordinário, aponta-se afronta ao artigo 37, § 6º, da Carta da República. A parte recorrente insurge-se contra a exclusão da responsabilidade civil por culpa exclusiva da vítima. Frisa consolidada a jurisprudência deste Tribunal no sentido da responsabilidade objetiva da empresa, em caso de atropelamento em via férrea, ausente fiscalização.
+    O Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, ao inadmitir o recurso, assentou o não enquadramento no artigo 102, alínea “a”, da Lei Maior. Concluiu não demonstrada violação de dispositivo constitucional.
+    A reclamante, com a petição/STF nº 64.703/2013, informa posteriormente acolhidos os embargos de declaração interpostos em face do ato questionado. Nada obstante reformado o entendimento, o agravo foi novamente julgado prejudicado, a partir de premissa diversa. Assinala persistir o interesse na sequência da reclamação.
+    A autoridade reclamada, em informações, discorre sobre o histórico processual.
+    Companhia Paulista de Trens Metropolitanos – CPTM não apresentou contestação – certidão de 21 de maio de 2014.
+    O Ministério Público Federal manifesta-se pela procedência do pedido. Diz do equívoco da Secretaria Judiciária do Supremo ao devolver o agravo à origem, aludindo à determinação, por Vossa Excelência, de envio ao Superior Tribunal de Justiça. Realça inaugurada a jurisdição no Supremo, a evidenciar a impossibilidade de modificação da primeira decisão de admissibilidade.
+    2. Em 3 de outubro de 2011, no recurso extraordinário com agravo nº 658.577, de minha relatoria, constatada a pendência de recurso especial, determinei a remessa do processo ao Superior Tribunal de Justiça, de onde, ante a preclusão maior, retornou ao Tribunal de Justiça do Estado de São Paulo. Ao examinar o agravo em recurso extraordinário, a autoridade reclamada declarou o prejuízo a partir do assentado no agravo de instrumento nº 839.695. Nos embargos de declaração a seguir protocolados, o entendimento foi mantido, com base no decidido nos recursos extraordinários nº 765.567/SP e 591.874. O Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, ao julgar prejudicado o recurso extraordinário, desconsiderou o fato de a jurisdição ter sido inaugurada no Supremo.
+    Considerados a formalização de agravo visando destrancar o recurso extraordinário e a preclusão do decidido no recurso especial, cumpria remeter o processo a este Colegiado.
+    3. Julgo procedente o pedido formulado, para cassar os atos do Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, no processo nº 9142586-97.2006.8.26.0000/500, mediante os quais declarado o prejuízo do recurso extraordinário, e determinar a remessa do processo ao Supremo.
+    4. Publiquem.
+Brasília, 16 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
