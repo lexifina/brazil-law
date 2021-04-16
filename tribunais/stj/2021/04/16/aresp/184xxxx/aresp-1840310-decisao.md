@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLAÚDIA CERAVOLO DE BENEDICTIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. Interposição contra decisão que indeferiu o benefício da assistência judiciária. Intimada nos termos do art. 99, §2º do CPC, a agravante não demonstrou a efetiva hipossuficiência de recursos. Indeferimento mantido. RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 489, II, e § 1º, IV, do CPC, no que concerne à nulidade do acórdão recorrido por ausência de fundamentação, trazendo os seguintes argumentos:
+É dizer, o E. Tribunal a quo de fato não explicitou porque a documentação acostada no processo não seria capaz de comprovar a hipossuficiência declarada pela Recorrente.
+ ..
+Assim, considerando o valor do salário mínimo atual, é possível se afirmar que a recorrente integra a Classe D da população, com renda familiar de menos de 4 (quatro) salários mínimos.
+ ..
+É preciso que se saliente que, no caso dos presentes autos, o valor da causa é de R$ 300.000,00 (trezentos mil reais) que é o valor nominal do imóvel de propriedade do casal.
+Assim, não apenas o valor das custas iniciais já seria de valor impossível de a recorrente suportar (R$ 3.000,00 -  três mil reais), como também o seria, logicamente, o valor das custas de preparo do recurso de apelação (R$ 12.000,00  doze mil reais).
+Excelências, o que está sendo demonstrado aqui é que, para cumprir o quanto determinado pelo E. Desembargador Relator, teria a recorrente que gastar cerca de 12 (doze) meses de sua renda pessoal, sem que pudesse fazer qualquer outro dispêndio.
+ ..
+É importante frisar, ainda, que, em relação aos frutos percebidos pela locação do imóvel por parte dos proprietários, como destacou o D. Relator na r. decisão ora recorrida, atualmente não há qualquer relação locatícia em andamento, de modo que aquela renda, evidentemente eventual e incerta, outrora utilizada integralmente para a complementação da renda obtida ordinariamente pelo casal, hoje sequer pode ser aproveitada pela recorrente, tendo em vista que o imóvel em questão já foi arrematado.
+ ..
+Outro ponto levantado pelo E. Desembargador Relator e ratificada pela c. Câmara Julgadora é o fato de a recorrente ter, perante a instituição bancária da qual é correntista, uma linha de crédito de R 6.000,00 (seis mil reais), como se este valor fizesse parte da renda mensal obtida por ela.
+ ..
+Assim, é certo que o limite de crédito disponibilizado pelo banco não pode sequer ser considerado como indicativo de autossuficiência da parte por ser, em verdade, mais um passivo em potencial, o que agravaria ainda mais a sua situação de vulnerabilidade financeira.
+ ..
+Ora, nobres Ministros, é evidente que a situação narrada não demonstra a capacidade da recorrente, mesmo com o auxílio de seu cônjuge, de suportar as despesas processuais.
+Deveras, muito embora o magistrado não precise se manifestar sobre todos os argumentos das partes, ele deve fazê-lo quando tais argumentos puderem levar a lide a um resultado diferente, sob pena de a decisão ser nula por vício de motivação (artigo 489, inciso II, do CPC). Nesse sentido, o Novo Código de Processo Civil estancou qualquer dúvida que pudesse haver sobre o tema no artigo 489, inciso II e §1º , inciso IV, verbis:  ..  (fls. 223/226).
+Quanto à segunda controvérsia, alega violação do art. 99, § 3º, do CPC, no que concerne à concessão dos benefícios da justiça gratuita, trazendo os seguintes argumentos:
+Ora, Nobres Julgadores. A negativa de vigência ao referido dispositivo de lei federal  art. 99, §3º do CPC é evidente porque se presume como verdadeira a alegação de insuficiência apresentada no processo, só sendo ela elidida mediante comprovação, pela parte contrária, de que não há direito à concessão da referida benesse.
+ ..
+E. Tribunal a quo, infelizmente, inverteu a ordem da norma legal. Mediante a declaração de insuficiência apresentada pela Recorrente, sem que o pedido fosse impugnado pela parte contrária, exigiu que ela comprovasse o quanto havia sido declarado. E pior. Conforme se verá melhor no tópico subsequente desde recurso, a verdade é que o E. Tribunal a quo sequer analisou a documentação apresentada (fls. 221/222).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A agravante interpôs recurso de apelação e pleiteou o benefício da assistência judiciária, o que foi indeferido pela decisão agravada, pois intimada nos termos do art. 99, §2º do Código de Processo Civil, apresentou documentos que não comprovam a insuficiência de recursos.
+É do comando constitucional que a assistência jurídica integral e gratuita seja prestada aos que comprovarem insuficiência de recursos.
+Não se pode olvidar da supremacia da norma constitucional, porém, podemos harmonizar tais dispositivos, expurgando-se do benefício aqueles que não revelam efetiva necessidade do favor estatal.
+ ..
+No caso, constou na decisão agravada que a agravante recebe benefício previdenciário no valor de R$-998,00; possui limite de crédito de R$-6.000,00 (fls. 63); recebe renda de aluguel de imóvel no valor de R$-3.000,00 e seu marido possui renda mensal de R$-2.739,35 (fls. 197/198), situação que não se coaduna com a hipossuficiência alegada.
+Não é demais destacar que a agravante afirma que é casada sob o regime de comunhão universal de bens com Emílio de Benedictis Neto (fls. 04) e, mesmo intimada da decisão de fls. 187, não trouxe aos autos a declaração de imposto de renda.
+Ressalto, ainda, que a agravante não trouxe com esse recurso qualquer outro documento capaz de demonstrar a alegada hipossuficiência, razão pela qual deve ser mantido o indeferimento do benefício pleiteado (fls. 268/269).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
