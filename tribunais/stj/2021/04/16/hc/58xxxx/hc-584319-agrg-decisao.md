@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental nos embargos de declaração no habeas corpus interposto por BRUNO LAMEGO ALVES contra a decisão que rejeitou os aclaratórios, mantendo indeferimento liminar do writ, dada a incidência da Súmula 691/STF.
+Em razões, o agravante sustenta, em síntese, a ocorrência de manifesta ilegalidade sanável no decisum, pois a impetração se volta contra decisão monocrática que indeferiu pleito de reavaliação da custódia preventiva, com fundamento na Recomendação n. 52 do Conselho Nacional de Justiça, não tendo atacado decisão indeferitória de pedido liminar.
+É o relatório.
+Decido.
+Em pesquisa realizada no sítio eletrônico do Tribunal Federal da 3ª Região, verificou-se a concessão de custódia domiciliar ao ora agravante, nos autos da Apelação Criminal n. 0000826-95.2018.4.03.6104, com fundamento da Resolução 62/2020 do Conselho Nacional de Justiça. Eis a ementa do julgado:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. PRETENSÃO DE REVISÃO DO JULGAMENTO. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. REAVALIAÇÃO DA PRISÃO PREVENTIVA. OBSERVÂNCIA DO ART. 316 E PARÁGRAFO ÚNICO DO CPP. RESOLUÇÃO 62/2020 DO CNJ. REVOGAÇÃO DA PRISÃO CAUTELAR MEDIANTE FIXAÇÃO DE MEDIDAS ALTERNATIVAS. EMBARGOS PARCIALMENTE PROVIDOS.
+1. Inexistência de vícios no acórdão a sanar pela via dos embargos declaratórios.
+2. O acórdão embargado expressamente salientou que não se configura nulidade em razão da negativa de vigência ao art. 208 do CPP a dispensa do compromisso legal de dizer a verdade às testemunhas de defesa nos exatos termos do disposto no art. 447, § 3º, incisos I e II, e § 5º, do Código de Processo Civil, aplicável ao caso por força do art. 3º do Código de Processo Penal. O fato de as testemunhas terem sido dispensadas de prestar compromisso a que alude o art. 203 do Código de Processo Penal não significa que suas declarações tenham sido desconsideradas, já que tais devem ser sopesadas de acordo com os demais elementos de prova produzidos nos autos. Ademais, as alegações não vieram acompanhas da demonstração do prejuízo suportado, o que impede o reconhecimento de nulidades, em observância ao princípio pas de nullité sans grief.
+3. Dosimetria da pena. Pena-base fixada acima do mínimo legal em razão da quantidade e da qualidade do entorpecente apreendido, (760kg de cocaína).
+4. Em observância o artigo 316 e seu parágrafo único do Código de Processo Penal, possível a reavaliação da manutenção da prisão preventiva.
+5.O réu foi condenado foi condenado no v. acordão preferido em sessão de julgamento do dia 14/09/2020 à pena privativa de liberdade de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão em regime semiaberto e 729 (setecentos e vinte e nove) dias-multa, no valor unitário do dia-multa de 1/30 (um trigésimo) do salário mínimo vigente na data dos fatos, pela prática do crime do artigo 33, c.c. artigo 40, I, da Lei 11.343/2006.
+6. O acusado não ostenta maus antecedentes e é primário, bem como não há elementos concretos que integra organização criminosa, tanto que no v. acordão embargado foi reconhecida a incidência da causa de diminuição do §4º, do artigo 33 da Lei 11.343/2006, apesar da insurgência da acusação quanto a isso em suas razões de Recurso Especial.
+7. Resolução 62/2020 do CNJ. Crime cometido sem violência ou grave ameaça e réu condenado ao regime semiaberto. Revogação da prisão preventiva com fixação de medidas diversas.
+8. Embargos parcialmente providos".
+Ante o exposto, julgo o agravo regimental prejudicado.
+Publique-se. Intimem-se.
