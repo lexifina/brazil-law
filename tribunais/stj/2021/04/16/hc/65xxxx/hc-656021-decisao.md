@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LINDOMAR ALVES DE LIMAcontra decisão de Desembargador do Tribunal de Justiça do Estado de Tocantinsque indeferiu pedido liminar (e-STJ, fls. 21-24).
+Narram os autos que o paciente foi preso no dia 28/12/2020 em razão do cumprimento de mandado de prisão preventiva decretado pelo Juízo de primeiro grau, por ter praticado, em tese, o crime previsto no art.121, § 2º,IIe IV, c/c o art. 14, II, e com o art. 29, caput, todos do Código Penal, sob as diretrizes da Lei nº 8.072/1990. Sobreveio a prolação de sentença de pronúncia em desfavor do acusado em3/2/2021
+Nestewrit,alega a Defensoria Pública estadual aexistência de constrangimento ilegal no caso, pois o decreto constritivo padeceria de ausência de fundamentação concreta, por não levar em consideração as boas condições pessoais do acusado, que não possui antecedentes criminais, tem endereço fixo e é arrimo de família (é pai de cinco filhos, com idades entre 3 e 13 anos de idade), sofrendo sua esposa de doença mental.
+Requer, assim, a revogação da custódia preventiva. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão, a teor do disposto no art. 319 do Código de Processo Penal.
+O pedido de liminar foi indeferido àfl. 62.
+Prestadas as informações (e-STJ, fls. 67-69 e 70-74), o Ministério Público Federal manifesta-se pelo não conhecimento da impetração (e-STJ, fls. 76-80).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, consoante os termos da Súmula 691/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA N. 691/STF. ART. 1º, I, § 1º, DO DECRETO N. 201/1967 (TRÊS VEZES) E ART. 316 DO CP (TRÊS VEZES). DESCUMPRIMENTO DE MEDIDA CAUTELAR. PRISÃO PREVENTIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que a prisão foi decretada em razão do descumprimento de medida cautelar anteriormente imposta, conforme previsão. Precedentes. Ausência de manifesta ilegalidade, abuso de poder ou teratologia a autorizar a superação do mencionado enunciado.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 400.949/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+Na hipótese, a Corte de origem indeferiu o pleito liminar, por não verificar a presença dos requisitos autorizadores da medida de urgência, nos seguintes termos:
+"Trata-se de HABEAS CORPUS, com pedido liminar. impetrado pela Defensoria Pública em favor de LINDOMAR ALVES DE LIMA, contra ato atribuídoao MM. Juiz de Direito da 1ª Vara Criminal da Comarca de Araguaína/TO, consubstanciado na decisão que indeferiu pedido de liberdade provisória do paciente.
+Consta nos autos que o paciente foi preso no dia 28/12/2020 em razão do cumprimento de mandado de prisão preventiva exarado nos autos n.º 0031621- 57.2019.8.27.2706, por ter praticado o crime descrito no artigo 121, § 2º, incisos II (motivo fútil) e IV (recurso que dificultou a defesa da vitima), combinado com o art. 14, inciso II, e com o art. 29, caput, todos do Código Penal. sob as diretrizes da Lei no 8.072/1990, pelo qual foi denunciado no dia 4/2/2020 pronunciado em 3/2/2021 (autos n.º 0004073-23.2020.8.27.2706).
+De acordo com a narrativa da denúncia, o paciente e um comparsa - JOSÉ NETO ALVES, agindo previamente ajustados e valendo-se de motivo fútil com emprego de meio que dificultou a defesa da vitima, tentaram contra a vida de Antônio José da Silva, que só não morreu por circunstâncias alheias à vontade dos autores.
+Consoante a versão da acusação, a vítima caminhava na via pública juntamente com seu amigo Natanel, quando foi subitamente interceptado por José Neto (cunhado da vitima) e Lindomar (sogro da vitima), momento em que José Neto iniciou as agressões com golpes de facão na altura do ombro, próximo ao pescoço, e costelas. Ato contínuo, LINDOMAR desferiu um golpe de foice, mas foi empurrado por Natanael, o que evitou uma nova lesão.
+Nas razões do writ, afirma o impetrante que o paciente possui filhos menores e que as crianças dependem exclusivamente dele para sobreviverem.
+Assevera que a mãe das crianças é acometida por deficiência fisica e mental, conforme laudo médico anexado, e não consegue desenvolver atividades básicas sem ajuda de terceiros.
+Destaca que há prova testemunhal demonstrando que os filhos do paciente estão passando necessidades e que recebem ajuda dos vizinhos.
+Afirna que: "O impacto da prisão cautelar do réu foi total e absoluto na vida dessas crianças. Não podemos olvidar que a CF/88 expressamente determina que nenhuma pena deverá passar da pessoa do condenado, o que deve ser analisado, também, em sede de prisão cautelar que, na hipótese, já dura mais de 1 ano."
+Sustenta que in casu é possível a substituição da prisão cautelar por outra medida prevista no artigo 319, do CPP, tais como a conversão em prisão domiciliar.
+Informa que o paciente é primário, tem bons antecedentes, endereço certo e emprego fixo, condições que autorizam a concessão da ordem de habeas corpus.
+Com tais argumentos, requer a concessão liminar da ordem de habeas corpus com a consequente expedição de alvará de soltura em nome do favorecido. No mérito, pretende concessão definitiva do "writ".
+É o breve relatório do pleito formulado pelo impetrante.
+DECIDO.
+Em que pesem os argumentos suscitados pela nobre Defensoria Pública, os elementos trazidos à baila não permitem a visualização. de plano, de ilegalidade na manutenção do encarceramento, valendo registrar que, ao decretar a prisão preventiva do paciente, o Juiz fez uma avaliação consistente sobre a presença da materialidade e dos indícios de autoria, fundando-se na necessária garantia da ordem pública, tendo em vista a gravidade concreta do delito supostamente praticado pelo paciente, cometido com emprego de arma branca e violência à pessoa.
+Daí porque, a princípio, e sem prejuízo de posterior reanálise do feito, entendo que não há ilegalidade na atuação do Magistrado que justifique a concessão da ordem em sede de liminar.
+Com efeito, na forma do entendimento sedimentado no Superior Tribunal de Justiça, a concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP, como destacado na sentença condenatória.
+Ademais, o relator não pode, sob pena de usurpação das atribuições do órgão colegiado, conceder liminar, em sede de cognição sumária, que importe na antecipação do mérito do próprio habeas corpus, salvo quando a não concessão tomar ineficaz a decisão final a ser proferida pelo órgão competente, o que não é o caso.
+ ..  No tocante às alegações quanto à situação de saúde da esposa do paciente, verifico que o laudo anexado aos autos (evento 1 LAU8) constatou que a esposa do paciente apresenta quadro de surdo-mudez desde o nascimento, com deficiência cognitiva e comportamental importante.
+No entanto, apesar de estar assinado por profissional médico - sem indicação de especialidade -, o laudo apresentado pela Defensoria é particular e unilateral, situação que não descarta a ocorrência dos distúrbios, mas também não é prova absoluta da sua existência.
+A meu sentir seria importante a análise da situação por junta médica oficial.
+Ademais, o Magistrado de origem não se pronunciou sobre estas questões o que poderia levar à supressão de instância.
+Finalmente, destaco ainda que a matéria suscitada como justificativa para concessão da liminar confunde-se com o próprio mérito da impetração e deve ser analisada em momento oportuno, após a manifestação do Ministério Público.
+Assim, sem prejuízo de posterior reanálise da questão. entendo que não se verifica de plano a alegada ilegalidade, motivo pelo qual, INDEFIRO a liminar requestada. Remetam-se os autos ao Ministério Público nesta instância" (e-STJ, fls. 21-24, grifos originais).
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o conhecimento daordem.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
