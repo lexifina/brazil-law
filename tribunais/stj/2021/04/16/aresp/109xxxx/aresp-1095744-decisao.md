@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por GUSTAVO HENRIQUE REIS DE OLIVEIRA contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. TENTATIVA DE HOMICÍDIO QUALIFICADO. RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. RECURSO DO RÉU. TERMO ESPECIFICOU AS ALÍNEAS "A", "B", "C" E "D" DO ARTIGO 593, INCISO III, DO CPP. RAZÕES. ERRO NA APLICAÇÃO DA PENA. PRELIMINAR REJEITADA. RECURSO DESPROVIDO.
+1-O recurso de apelação interposto contra as decisões do Tribunal do Júri é delimitado pelo termo e não pelas razões. Se o termo de apelação especifica todas as alíneas do inciso III, do art. 593, do Código de Processo Penal e as razões limitam-se a apenas uma delas, o apelo deve ser conhecido por todos os fundamentos. Precedentes.
+2-A dosimetria da pena deve guardar proporção com o crime praticado, de forma razoável e com a devida ponderação entre as circunstâncias fáticas do delito e as condições pessoais do réu.
+3-Rejeitar a preliminar de nulidade suscitada pela defesa técnica e, no mérito, negar provimento. Unânime." (e-STJ, fls.736-749)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 769-777).
+Nas razões do recurso especial, a defesa aponta violação ao art. 571, VII, do Código de Processo Penal, sob o argumento de que alguns atos judiciais foram praticados exclusivamente por estagiário e não por advogado devidamente habilitado, o que acabou por ensejar nulidade processual.
+Alega ainda negativa de vigência do art. 59 do Código Penal, já "que o Tribunal a quo" exacerbou a pena além do mínimo legal, considerando fatos não provados documentalmente nos autos" e que "em nenhum momento ficou provado qual dos acusados efetuou os disparos que atingiram a vítima, 6 (seis) no máximo, repita-se" (e-STJ, fl. 789).
+Sustenta negativa de vigência ao art.14, II, do Código Penal, em razão da fração de diminuição da pena utilizada pelo Tribunal no patamar mínimo (1/3), quando deveria ter aplicado o redutor em 2/3, sob a justificativa de que, "em nenhum momento ficou provado qual dos acusados (Matheus ou Gustavo) efetuou os disparos que atingiram a vítima, 6 (seis) no máximo, conforme laudo técnico" (e-STJ, fl. 793).
+Requer o provimento do recurso para reconhecer a nulidade arguida, bem como seja fixada a pena-base no mínimo legal e/ou quantificada a diminuição da tentativa de homicídio no patamar máximo (2/3).
+Foram apresentadas contrarrazões (e-STJ, fls. 813-816).
+O recurso foi inadmitido, diante do óbice da Súmula n. 7/STJ (e-STJ, fls. 823-825). Daí este agravo (e-STJ, fls. 828-835).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ, fls. 886-888).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Quanto à suscitada violação doart. 571, VII, do CPP, a Corte local constatou que a defesa do recorrente foi exercida não pelo estagiário Adson Danilo Nascimento de Sousa, mas sim por advogados regularmente inscritos perante a OAB, sem prejuízo para o réu (e-STJ, fl. 741). Outrossim, a ata da sessão de julgamento do júri indica que os causídicos defensores do recorrente estavam presentes (e-STJ, fl. 508). Destarte, para concluir que a estratégia defensiva teria sido elaborada pelo referido estagiário (e de maneira deficiente, sobretudo), seria necessário promover novo exame do conteúdo fático-probatório, providência vedada pela Súmula 7/STJ.
+Do mesmo modo, a pretensão de que a minorante da tentativa incida na fração de um 2/3 (ao invés do mínimo de 1/3 aplicado na origem) encontra óbice na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para concluir quão perto o recorrente chegou de concluir o iter criminis do homicídio.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. DESCLASSIFICAÇÃO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. TENTATIVA. FRAÇÃO MÁXIMA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Em relação à tentativa, o Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição (HC n. 502.584/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/6/2019, DJe 11/6/2019).
+4. No presente caso, o Juízo sentenciante aplicou a redução pela tentativa em 1/3, tendo em vista o iter criminis percorrido pelo agente, decisão esta mantida pela Corte de origem. Ora, rever tal conclusão, como requer a parte recorrente, no sentido da aplicação da fração de 2/3, em relação à tentativa, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula 7/STJ.
+ ..
+6. Agravo regimental não provido".
+(AgRg no AgRg no AREsp 1710516/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020)
+Sobre a alegada ofensa ao art. 59 do CP, verifica-se queo recurso especial contém fundamentação bastante deficiente, pois sequer especifica quais vetoriais do dispositivo legal teriam sido analisadas de forma equivocada pelo acórdão recorrido, tampouco o porquê de estarem erradas as conclusões da Corte de origem. Assim, a Súmula 284/STF obsta o conhecimento da irresignação.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
