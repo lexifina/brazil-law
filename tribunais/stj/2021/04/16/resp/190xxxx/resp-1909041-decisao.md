@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto porDIEGO BOTELHO DE CASTRO, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 203):
+1. Presentes o nexo causal e a incapacidade parcial e permanente, de rigor a concessão do auxílio acidente, a partir do dia seguinte ao da alta médica.
+2. O pagamento do auxílio-acidente deverá observar o disposto no art. 104, § 6º, do Decreto nº 3.048/99, na hipótese de concessão de auxílio-doença pelo mesmo fato gerador.
+3. Acerca da adequação das parcelas em atraso, incidirá a Lei nº 8.213/91 e alterações posteriores.
+Opostos embargos de declaração, foram rejeitados (fls. 229/231).
+Aponta o recorrente violação aos arts. 1.022 do CPC eda 10 Lei 9.711/98, sustentando, além de negativa de prestação jurisdicional,a necessidade de"reforma do Venerando Acórdão recorrido para o fim de afastar a TR como índice de correção monetária, e determinar a adoção do I GP-DI até a inscrição do precatório." (fl. 248).
+Interposto recurso extraordinário às fls. 249/262
+Devidamente intimado, o INSS não apresentou contrarrazões, ao recurso especial, conforme certidão às fls. 266.
+Em novo exame por forçado art. 1.040, II, do CPC/2015, o acórdão foi parcialmente modificado, cuja ementa se colhe (fl. 281):
+Acidente do Trabalho  Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civil, em razão do julgamento do RE nº 870.947/SE Tema nº 810 do STJ - matéria fática que não se enquadra no recurso utilizado como parâmetro  Provimento parcialmente alterado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Quanto à questão de fundo, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e modificou o entendimento anteriormente exarado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+Ademais, com relação aos Temas nº 905 do STJ e nº 810 do STF, o Tribunal a quo assim concluiu, in verbis (fls. 282/284):
+Não obstante a tese fixada no STJ (Terna nº 905): "Condenações judiciais de natureza previdenciária. As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A naLei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009)", sobre a mesma lei o STF, no julgamento do RE. 870.947 (Tema nº 810), fixou o seguinte: O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+Logo, temos que, no que se refere à correção monetária, enquanto o STJ adotou a aplicação do INPC a partir da vigência da Lei nº 11.430/2006 (que incluiu o art. 41-A na Lei 8.213/91), o STF determinou a partir da edição da Lei nº 11.960/09 a aplicação do IPCA-E.
+Neste ponto, ressalte-se que esta Turma Julgadora adota o índice de correção monetária que ficou deliberado pelo Supremo Tribunal Federal a partir da vigência da Lei nº 11.960/09.
+Por conseguinte, em razão dos julgamentos dos temas nºs 905 do STJ e 810 do STF, alterando entendimento anterior, passa -se a delinear o capitulo envolvendo a aplicação da Lei nº 11.960/09, nos seguintes termos:
+Acerca da adequação das parcelas em atraso, caberáa Lei nº 8.213/91 e suas posteriores alterações.
+Relativamente à aplicação da Lei nº 11.960/09, registre-se que no julgamento dos embargos de declaração opostos pelos entes federativos estaduais foi decidido: "O Tribunal, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida, nos termos do voto do Ministro Alexandre de Moraes, Redator para o acórdão, vencidos os Ministros Luiz Fux (Relator), Roberto Barroso, Gilmar Mendes e Dias Toffoli (Presidente). Não participou, justificadamente, deste julgamento, a Ministra Cármen Lúcia. Ausentes, justificadamente, os Ministros Celso de Mello e Ricardo Lewandowski, que votaram em assentada anterior. Plenário, 03.10.2019" (Fonte: www. stf. jus .br ).
+Por esta razão, prevalecem as teses firmadas no Tema nº 810 do STF (Leading Case  RE. 870.947), com a aplicação do IPCA-E em substituição à TR.
+Observa-se que a Corte local decidiu a controvérsia à luz de fundamentosconstitucionais, matériainsuscetível de ser examinado em sede de recurso especial.
+Com efeito, ultimada a resolução da controvérsia em repercussão geral, denotando a primazia do viés constitucional do tema em debate, caso não é de enfrentá-lo na seara do recurso especial ou do agravo dele decorrente (AREsp).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
