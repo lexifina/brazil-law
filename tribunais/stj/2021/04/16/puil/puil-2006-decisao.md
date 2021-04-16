@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Intepretação de Lei interposto pelo Município de Colombo/PR com fundamento no art. 18, § 3º, da Lei 12.153/2009 sob o argumento de que há divergência na interpretação do art. 22 da LC 101/2000 entre a 4ª Turma Recursal do Paraná e a lª Turma Recursal do Rio Grande do Sul.
+Em síntese, alega que, enquanto a decisão paradigma entendeu por dar vigência ao art. 22 da mencionada legislação federal, suspendendo as progressões/promoções do quadro funcional do Estado do Rio Grande do Sul, o acórdão ora recorrido ignorou suas determinações. Bem aqui se vê, portanto, a divergência entre duas Turmas Recursais no que concerne à interpretação de lei federal relativamente ao mesmo tema.Ao final foi formulado pedido para que:
+seja reformado o acórdão recorrido, eis que diverge do recente entendimento da Turma Recursal do Juizado Especial da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul sobre o tema, nos termos acima explicitados, para que seja julgado totalmente IMPROCEDENTE o pedido autoral para fins de suspender a progressão/promoção na carreira, com base nas disposições do artigo 22, da Lei Complementar n.º 101/2000.
+É o relatório.
+Decido.
+Os Pedidos de Uniformização de Interpretação de Lei Federal ao Superior Tribunal de Justiça somente serão cabíveis quando houver divergência proferida por Turmas Recursais sobre questões de direito material, em contradição a súmula ou jurisprudência dominante do STJ.
+A divergência deve ser demonstrada com base na verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e na realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia, sendo insuficiente a mera transcrição de ementas.
+No caso dos autos, embora a parte tenha exposto argumentação a fim de defender seu pleito, limitou-se a transcrever a ementa do paradigma e trechos esparsos sem realizar o cotejo analítico, providência indispensável ao conhecimento do pedido. Não foi feita exposição adequada da similitude fática e jurídica entre os casos, razão pela qual não é possível conhecer do pedido.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE COTEJO ANALÍTICO. PEDIDO NÃO CONHECIDO.
+1. Nos termos do art. 14, § 4º, da 10.259/2001, o cabimento do incidente perante o STJ se dará nas hipóteses de decisão colegiada que examina questão de direito material, a qual esteja em confronto com súmula ou jurisprudência dominante do STJ. Para tanto, faz-se necessária a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).2. Na espécie, a requerente não procedeu ao cotejo analítico entre os acórdãos confrontados. Também não fez prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, requisitos indispensáveis para o processamento e conhecimento do referido incidente de uniformização.
+3. Agravo interno não provido.
+(AgInt no PUIL 760/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 31/03/2020, DJe 02/04/2020)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADOS ESPECIAIS FEDERAIS.
+DIVERGÊNCIA. REQUISITOS. AUSÊNCIA.
+1. O incidente de uniformização dirigido ao STJ, nos termos do art. 14, § 4º, da Lei 10.259/2001, é cabível contra acórdão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante neste Sodalício, "exigindo-se a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.209, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis por analogia" (PUIL 838/RJ, Min. Rel. ASSUSETE MAGALHÃES, Primeira Seção, DJe 10/09/2018).
+2. Hipótese em que não foram atendidos os requisitos indispensáveis para o processamento e conhecimento do Incidente de Uniformização.
+3. Agravo interno desprovido.
+(AgInt no PUIL 885/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 03/12/2019, DJe 06/12/2019)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Pedido de Uniformização de Interpretação de Lei não pode ser conhecido, porquanto a parte requerente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no PUIL 106/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 28/05/2019, DJe 31/05/2019)
+Na mesma linha: PUIL 1.919/PR, Ministro GURGEL DE FARIA, DJe 3/2/2021, PUIL 1.702/PR, Ministro GURGEL DE FARIA, DJe 17/11/2020;PUIL 1.804/PR, Ministra REGINA HELENA COSTA, DJe 28/8/2020;PUIL 1.779/PR, Ministro MAURO CAMPBELL MARQUES, DJe 18/8/2020.
+Ante o exposto, não conheço do Pedido de Uniformização de Interpretação de Lei Federal.
+Publique-se.
+Intimem-se.
