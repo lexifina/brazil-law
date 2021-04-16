@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração, com pedido de efeitos modificativos,opostos porAdilon Nascimento Nunes Juniorà decisão monocrática de minha lavra, na qual indeferi liminarmente owrit,à vista dos fundamentos sintetizados na seguinte ementa (fl. 208):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. PEDIDO DE ABSOLVIÇÃO. INADEQUAÇÃO DA VIA ELEITA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO PELA QUANTIDADE E VARIEDADE DA DROGA (MAIS DE 1 KG DE COCAÍNA). CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente
+O embargante alega, em síntese, omissão no reconhecimento da ilegalidade inerente a prisão preventiva do paciente, em razão da inobservância de recomendação expedida por esta Corte em sede do HC n. 620.643/AM, pedido este não analisado pelo presente Relator(fl. 213).
+Requer-se que reconheça esane a omissão evidenciada perante a decisão monocrática, analisando o item I.1 na qual requer o reconhecimento da ilegalidade por omissão e configuração de prisão ilegal em razão da inobservância de recomendação desta Corte e parágrafo único do art. 316 do CPP (fl. 216).
+É o relatório.
+Os presentes embargos de declaração devem ser conhecidos, já que reúnem os requisitos de admissibilidade.
+No mérito, todavia, não devem ser acolhidos.
+A decisão ora impugnada não revela nenhuma ilegalidade evidente, dado o entendimento desta Casa a respeito do tema.
+Por todos, confira-se, pela ementa, este julgado:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. CONDENAÇÃO DE 21 ANOS E 7 MESES. PRISÃO MANTIDA NA SENTENÇA. NEGADO O DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DA CONDUTA. APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO. REVISÃO DA NECESSIDADE DA PRISÃO PREVENTIVA.PARÁGRAFO ÚNICO DO ART. 316 DO CPP. DEVER DE REVISÃO DA PRISÃO.INCUMBÊNCIA DO JUIZ QUE A DECRETOU. PRECEDENTES DESTA CORTE.RESSALVA DE ENTENDIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A nova redação do art. 316, parágrafo único, do Código de Processo Penal, operada pela Lei n. 13.964/2019, determina a reavaliação periódica dos fundamentos que indicaram a necessidade da custódia cautelar a cada 90 dias. "Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade.Precedentes.
+2. Tese fixada pelo Plenário do Supremo Tribunal Federal, nos autos da SL 1395:A inobservância do prazo nonagesimal previsto no parágrafo único do art. 316 do Código de Processo Penal não implica automática revogação da prisão preventiva, devendo o juiz competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos (Sessão de 15/10/2020).
+-Nesse diapasão, o prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, parágrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo-se assim eventual e não relevante prorrogação da decisão acerca da mantença de necessidade das cautelares penais.(AgRg no HC 579.125/MA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/6/2020, DJe 16/6/2020).
+3. O dever de reavaliar periodicamente, a cada 90 dias, a necessidade da prisão preventiva cessa com a formação de um juízo de certeza da culpabilidade do réu, declarado na sentença, e ingresso do processo na fase recursal. A partir de então,eventuais inconformismos com a manutenção da prisão preventiva deverão ser arguidos pela defesa nos autos do recurso ou por outra via processual adequada prevista no ordenamento jurídico. Precedentes.
+- Nessa trilha, a obrigação de revisar, a cada 90 (noventa) dias, a necessidade de se manter a custódia cautelar (art. 316, parágrafo único, do Código de Processo Penal) é imposta apenas ao juiz ou tribunal que decretar a prisão preventiva. Com efeito, a Lei nova atribui ao "órgão emissor da decisão" - em referência expressa à decisão que decreta a prisão preventiva - o dever de reavaliá-la. (..) Encerrada a instrução criminal, e prolatada a sentença ou acórdão condenatórios, a impugnação à custódia cautelar - decorrente, a partir daí, de novo título judicial a justificá-la - continua sendo feita pelas vias ordinárias recursais, sem prejuízo do manejo da ação constitucional de habeas corpus a qualquer tempo (HC 589.544/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/09/2020, DJe 22/09/2020). A propósito: AgRg no HC 569.701/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020.
+- Ressalva de entendimento diverso do Relator: Enunciado nº 21 da I Jornada de Direito e Processo Penal - CJF.
+ ..
+(AgRg no HC n. 618.069/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020 - grifo nosso)
+Pretende o ora embargante rediscutir o pedido liminar, o que não se presta na via dos embargos de declaração.
+Os embargos somente podem ser utilizados quando, na decisão, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Sobre o tema, destaca-se ainda:
+PENAL E PROCESSUAL PENAL. PETIÇÃO RECEBIDA COMO EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na hipótese, nenhum vício é indicado no v. acórdão que julgou os primeiros aclaratórios, pretendendo o embargante, pela segunda vez, reiterando seus argumentos, a rediscussão de matéria já apreciada, em virtude de mera irresignação decorrente do não conhecimento de seu recurso especial. (Precedentes). Embargos de declaração rejeitados.
+(PET nos EREsp n. 1.622.169/MG, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018)
+Não vislumbroambiguidade,obscuridade, contradição ou omissão a ser saneada, haja vista a ausência de demonstração patente da nulidade aventada nessa fase.
+Ante o exposto,rejeitoos embargos de declaração.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EMHABEAS CORPUS.TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. OMISSÃO. NÃO OCORRÊNCIA.
+Embargos de declaração rejeitados.
