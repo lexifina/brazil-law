@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JUDE ANOZIE IHEMEGWO,no qual se aponta como autoridade coatora o JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO BENTO/PB.
+Extrai-se dos autos que o paciente está sendo investigado pela prática do delito previsto no art. 171, §4º, c.c. oart. 288, ambos doCódigo Penal - CP, por supostamente ter cadastrado chip de telefone em seu aparelho, os quais, em tesese destinavam à realizaçãodegolpes praticados por "estelionatários sentimentais", razão pela qual foi decretada a sua prisãopreventiva (fls. 30/31).
+Na presente impetração, a defesa alegaconstrangimento ilegal pela decretação da prisão cautelar, sob o argumento de que o investigadonão teria praticado nenhum dos atos a ele imputados, pois na data dos fatos estaria preso, ressaltando que "não se pode ter como fator predominante a prisão do acusado por este ser pessoa estrangeira por ter condenações criminais por outro tipo de delito" (fl. 5).
+Afirma a existência de abuso de autoridade, aduzindo que o paciente poderia responder em liberdade, haja vista ser idoso, com problemas de saúde, possui residência fixa, com filhas menores que dependem de seus cuidados (a sua companheira também está presa), alémde não se dedicar mais a atividades criminosas.
+Aponta a ocorrência de excesso de prazo para o oferecimento da denúncia, aduzindo que o acusado está preso desde 22/02/2021, em afronta ao art. 46 do Código de Processo Penal - CPP e ao princípio da razoável duração do processo.
+Alterca que o paciente é idoso, portanto, inserido no grupo de risco pelo contágio com o COVID-19,de modo que, nos termos da Recomendação n. 62/2020, deveria ser a ele concedida a prisão domiciliar humanitária.
+Pretende, por fim, o trancamento da ação penal por ausência de justa causa, haja vista que "não foram apresentados quaisquer elementos que demonstrem a mínima participação do acusado no delito que lhe está sendo imputado"(fl. 24).
+Requer, assim, em liminar e no mérito, a revogação da prisão preventivamediante a aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+É o relatório.Decido.
+Consoante acima relatado, aponta-se como autoridade coatora o Juízo de Direito da Vara Única de São Bento/PB.Dessa forma, a partir da leitura da documentação acostada aos autos, a matéria aqui aventada não foi apreciada pelo Tribunal de Justiça do Estado da Paraíba. Nessa seara, de acordo com o disposto no art. 105, I, alínea "c", da Carta da República, incompetente o Superior Tribunal de Justiça para processar e julgar o presente feito.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS, IMPETRADO CONTRA ATO DE JUIZ DE DIREITO. INVIABILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DESTA CORTE PARA JULGAMENTO DE ATOS DE TRIBUNAL SUJEITO A SUA JURISDIÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inviável o conhecimento por esta Corte Superior de alegação de constrangimento ilegal praticado por juiz de direito, uma vez que, na forma do art. 105, I, alínea "c" da Carta da República, possui competência para atos emanados de Tribunal sujeito a sua jurisdição.
+2. Agravo regimental improvido.
+(AgInt no HC 418.953/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 12/12/2017).
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. TERCEIRA FASE. MINORANTE. AUSÊNCIA DE ATO COATOR SUJEITO À JURISDIÇÃO DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS PARA OBTENÇÃO DO BENEFÍCIO. RECURSO NÃO PROVIDO.
+1. Compulsando-se os autos, não se constata a existência de ato coator sujeito à jurisdição desta Corte Superior de Justiça, uma vez que das peças processuais que instruem o presente habeas corpus consta apenas a decisão que recebeu a denúncia proferida pelo Juízo da singular, circunstância que evidencia a manifesta incompetência deste Sodalício para apreciar o mandamus, nos termos do artigo 105, inciso I, alínea "c", da Constituição Federal. Precedentes.
+2. O fato de a defesa haver juntado provimento judicial proferido em writ impetrado na origem não altera tal conclusão, o que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+3. Ainda que assim não fosse, as instâncias antecedentes concluíram pelo não atendimento das exigências legais para a concessão do benefício a partir da avaliação criteriosa do conjunto probatório. O pleito de modificação de tal entendimento depende de novo e aprofundado exame dos fatos e das provas, providência inviável dentro dos estreitos limites cognitivos do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC 433.532/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/05/2018).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
