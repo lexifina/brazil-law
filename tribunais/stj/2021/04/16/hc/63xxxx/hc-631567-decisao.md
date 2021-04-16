@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Saturnina de Souza Zero, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Paraná.
+Consta dos autos que apaciente foi condenada como incursa noart. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal, por duas vezes, à pena total de 14 anos de reclusão, em regime fechado (fls. 12/20).
+Em sede de apelação, a defesa requereu o reconhecimento da atenuante da confissão espontânea, mesmo que qualificada. A Primeira Câmara Criminal do Tribunal de Justiça do Paraná negou provimento ao recurso (fls. 21/29).
+No presente writ, a defesa aponta ilegalidade pela não redução da pena, em face daconfissão espontânea da paciente (fls. 3/11).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 148/151).
+É o relatório.
+Razão não assiste à defesa, por ausência de ilegalidade na fixação da pena. Para ambas as vítimas, a pena-base da paciente foi fixada em 12 anos de reclusão, portanto, no piso mínimo para o delito de homicídio qualificado. Na segunda fase, a atenuante de confissão espontânea não foi reconhecida, por ter sido qualificada. No entanto, o Magistrado deixou expresso na sentença que, ainda que reconhecida, inviável a redução da pena aquém do mínimo legal, o que está de acordo com a Súmula 231/STJ. Assim, há ausência deinteresse jurídico por parte da paciente, uma vez que a eventual incidência da atenuante não acarretaria alteração na segunda fase da dosimetria da pena.
+Já na terceira fase, não houve reconhecimento de causa de aumento da pena. Foi aplicada a causa de diminuição da pena, pela tentativa, e analisando o iter criminis percorrido, o Magistrado reduziu as pena da paciente, para 6 e 8 anos de reclusão. Em relação à primeira vítima, a redução foi na fração de 1/2, portanto, 6 anos de reclusão, por ter a vítima sido perseguida e atingida pelas costas, somente não tendo pior consequência em face do rápido atendimento médico; já quanto à segunda vítima, foi fixada em 8 anos, por ter atingido órgãovital, e sido submetida a neurocirurgia a craniectoinia descompressiva. Tais questões não podem ser reexaminadas, em sede de habeas corpus, uma vez que as provas dos autos são analisadas pela instância ordinária, e o Magistrado está mais próximo aos fatos ocorridos, não sendo razoável a alteração da fração pelo iter criminis percorrido na hipótese dos autos. Esta Corte somente deve intervir quando houver flagrante ilegalidade.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.HOMICÍDIO QUALIFICADO TENTADO, POR DUAS VEZES. ALEGAÇÃO DE ILEGALIDADE NA DOSIMETRIA DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PENA-BASE MÍNIMA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA NA SEGUNDA FASE, AINDA QUE RECONHECIDA A CONFISSÃO ESPONTÂNEA. ITER CRIMINIS PERCORRIDO. REEXAME DE PROVAS.
+Ordem denegada.
