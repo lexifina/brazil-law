@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 391):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DE APOSENTADORIA. ACUMULAÇÃO DE CARGOS. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA.REEXAME DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.REEXAME DE MATÉRIA FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante, aduzindo a ocorrência de erro material, alega queo caso em estudo envolve o acúmulo do cargo de Professor Titulare de outro técnico-administrativo de Coordenador ou Diretor, como esclarece a sentença de primeira instância. Ressalta que "mesmo afastado do cargo de coordenador ao exercer o cargo de diretor, o acúmulo de um destes cargos com o cargo de professor titular persistiu por todo o tempo, gerando remunerações comfatos geradores distintos, como autoriza o artigo 37, inciso XVI, alínea "b", da Constituição Federal" (fls. 396-397).
+Semimpugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada resolveu ao controvérsia ao assentar quenão há falar em violação ao artigo 489 do CPC/2015 e queinfirmar a conclusão alcançada pela Corte de origem pressupõe reexaminar (a) legislação local, em especial no que se refere a natureza dos cargos acumulados, se de provimento efetivo ou em comissão, o que atrai a incidência da Súmula 280/STF e (b) matéria fático-probatória, no que pertine (i) ao seu afastamento de um dos cargos para o exercício do outro, (ii) quanto a incorporação da verba paga pelo seu desempenho, nos termos da Constituição Estadual, (iii) tratar-se de cargo comissionado/função comissionada oriunda de um mesmo cargo efetivo, ou seja, assumido(a) em decorrência do mesmo vínculo funcional havido com a Administração e, por isso, remunerado(a) por gratificação e não remuneração propriamente dita.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
