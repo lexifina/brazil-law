@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por TWN17 COMERCIO DE ROUPAS EIRELI - ME, com o fito de reformar a decisão que, nos autos da Ação Revisional de Aluguel no 1006950-67.2021.8.11.0041, ajuizada em face do CONDOMÍNIO CIVIL PANTANAL SHOPPING, indeferiu o pedido liminar de tutela de urgência, com pretendia, a um, suspender a obrigação de cobrança do aluguel mínimo havido entre as partes, a dois, readequar as obrigações contratadas, com a mudança do índice para reajuste contratual e, a três, afastar todos os efeitos decorrentes da mora.
+Para tanto, a agravante diz ser locatária de lojas comerciais na área pertencente ao Agravado, tendo firmado contrato com vigência de 60 meses a partir de 01.04.2017 e término em 31.03.2022, tendo por preço do aluguel o valor correspondente a 5% do faturamento bruto das lojas, respeitando o valor mínimo de R$ 13.000,00 (treze mil reais), o qual diz não ter condições de suportar, tendo em conta as restrições de circulação e a consequente crise econômica causada pela pandemia COVID-19.
+Discorre que, além do valor do aluguel, precisa suportar despesas mensais de condomínio, no montante de R$ 7.000,00 (sete mil reais), cota do fundo de promoção (FPP) de R$ 2.000,00 (dois mil reais), fundo de reserva de R$ 2.000,00 (dois mil reais), além das despesas do rateio de energia elétrica, ar-condicionado e o IPTU.
+Assevera que, as despesas extra aluguel somam aproximadamente R$ 12.500,00 (doze mil e quinhentos reais), as quais são de impossível pagamento, diante da queda de 75% sobre o faturamento bruto, sendo medida de rigor, a readequação das bases contratuais, a fim de permitir a manutenção das suas atividades econômicas.
+Pugna pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+A rigor do artigo 300 do Código de Processo Civil, a obtenção da tutela de urg perigo de dano ou risco ao resultado útil do processo.
+ência, antecipada ou não, depende do grau de probabilidade do direito invocado e doA propósito:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Contudo, à luz dos requisitos inerentes à tutela jurisdicional pretendida, não se verifica, inicialmente, a probabilidade do direito em questão, sobretudo porque a revisão almejada pela parte recorrente, depende da alteração unilateral de todas as bases do contrato firmado entre as partes, sem que haja prova bastante acerca da extensão de eventuais danos econômicos sofridos por causa da pandemia Covid-19.
+No caso, é de conhecimento público e notório que não houve, em período recente, restrição ao funcionamento do comércio, mas sim, readequação momentânea quanto aos horários de abertura e de fechamento das lojas.
+Assim, apesar do contexto de urgência alegado, a situação em exame reclama maior margem de debate, à luz do contraditório, sob pena de eximir sumariamente a parte agravante das obrigações por ela contratadas.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
