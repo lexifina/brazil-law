@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por INDÚSTRIA DE TECIDOS BIASI LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Execução - Embargos - Justiça gratuita deferida - Cerceamento de defesa - Inocorrência - Contrato de compra e venda de maquinário têxtil - Nota promissória - Contratação em moeda estrangeira- Ausência de abusividade, desde que ocorra a conversão em moeda nacional na data do pagamento - Juros de mora - Incidência devida - Improcedência dos embargos - Decisão correta - Ratificação nos moldes do artigo 252 do Regimento Interno deste E. Tribunal de Justiça - Recurso improvido.
+Alega violação do art. 369 do CPC e do art. 5, LV, da CF, no que concerne à ocorrência de cerceamento de defesa, em razão do julgamento antecipado da lide, trazendo os seguintes argumentos:
+Com efeito, ao Recurso de Apelação foi negado provimento. O E. TJSP entendeu desnecessária a produção de provas e procedeu ao julgamento antecipado da lide, resultando à Recorrente uma decisão arbitrária e em total desacordo com a Lei Federal, conforme o teor do artigo 369, do Código de Processo Civil e do art. 5º, inciso LV, da Constituição Federal.
+ ..
+E mais, no caso em tela, a prova pericial é imprescindível para aferição de fatos relevantes, sendo certo que o julgamento antecipado da lide importou em violação ao contraditório e a ampla defesa.
+ ..
+Com efeito, a tese e documentos apresentados com os embargos pela ora Recorrente exigia a realização de prova pericial, para trazer a lume as diferenças cambiais e os juros indevidos apontados no período de normalidade, fato que poderia comprovar a inexistência da mora da Recorrente entre outras inconsistências e revelaria o real valor do débito, se existente.
+Contudo, suprimiu-se esta fase processual e os autos foram para julgamento antecipado sem nenhuma manifestação do Juízo quanto a produção de provas requerida a tempo e modo pela Recorrente frise-se, em atendimento ao quanto comandado pelo i .Juíza "a quo", às fls. 69 e certificado às fls. 70 (fls. 144/147).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Afasta-se a alegação de cerceamento de defesa.
+Como é cediço, a prova se destina ao Juiz, portanto, cabe a ele decidir acerca de sua pertinência que, no caso, mostrou-se e mostra-se desnecessária, diante da documentação apresentada, que é suficiente para formar convencimento (fl.135).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
