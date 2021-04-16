@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de JUNIO LUCAS TEIXEIRA DA SILVA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, nestes termos ementado (fls. 10-17):
+"AGRAVO EM EXECUÇÃO PENAL -NULIDADE DA DECISÃO IMPUGNADA -CONCESSÃO DE PRISÃO DOMICILIAR EM SEDE DE EXECUÇÃO PENAL DIANTE DA PANDEMIA DA COVID-19 -AUSÊNCIA DE PRÉVIA INTIMAÇÃO DO MINISTÉRIO PÚBLICO -ILEGALIDADE -VIOLAÇÃO AO DISPOSTO NOS ARTIGOS 67 E 112, §2º, DA LEI DE EXECUÇÃO PENAL.
+-É nula a decisão proferida em sede de execução penal sem prévia intimação do Ministério Público para se manifestar, nos termos dos artigos 67 e 112, §2º, da LEP."
+Embargos de declaração rejeitados (fls. 18-21).
+Daí o presente habeas corpus, no qual a d. Defesa, em resumo, afirma que a decisão em recurso de agravo em execução penal que concede a prisão domiciliar, em razão da atual pandemia de coronavírus, sem prévia manifestação do d. Ministério Público, não seria nula.
+Requer a concessão da ordem, inclusive LIMINARMENTE e/ou de ofício, com aimediata suspensão do v. acórdão. No mérito, a confirmação da liminar, com a ordem definitiva.
+É o relatório.
+Decido.
+Com efeito, verifica-se que o entendimento do eg. Tribunal de origem não destoa do desta Corte Superior de Justiça.
+Vejamos:
+"HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO. RETIFICAÇÃO DO ATESTADO DE PENA DO SENTENCIADO. AFASTAMENTO DO REGISTRO DE REINCIDÊNCIA. AUSÊNCIA DE OITIVA PRÉVIA DO MINISTÉRIO PÚBLICO. NULIDADE. ART. 67 DA LEI DE EXECUÇÃO PENAL. INTERVENÇÃO OBRIGATÓRIA. ORDEM DENEGADA.
+1. Espécie em que o Juízo da Execução retificou o atestado de pena do Sentenciado para afastar o registro de reincidência, sem prévia oitiva do Ministério Público. Decisum anulado no julgamento de agravo em execução, determinando a abertura de vista ao Parquet para posterior decisão.
+2. O reconhecimento da reincidência, depois de unificadas as penas, é relevante para a análise de benefícios executórios. Assim, a manifestação prévia do Ministério Público é indispensável, não havendo constrangimento ilegal causado ao Paciente na determinação de retorno dos autos ao Juízo da Execução para a providência prevista no art. 67 da Lei de Execução Penal.
+3. Ordem de habeas corpus denegada." (HC 470.406/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 12/12/2018, grifei).
+"AGRAVO EM EXECUÇÃO CRIMINAL. PROGRESSÃO DE REGIME (FECHADO PARA O SEMIABERTO). CONCESSÃO SEM A PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. VIOLAÇÃO DOS ARTS. 67 E 112, § 1º, DA LEP. NULIDADE. CASSAÇÃO DO DECISUM PELA CORTE DE ORIGEM. SUBMISSÃO AO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO. AUSÊNCIA.
+1. A Lei nº 7.210/84 determina expressamente a participação do representante do Ministério Público em todos os atos do processo de execução penal. Portanto, tendo o Juiz a quo concedido ao paciente a progressão de regime sem o prévio pronunciamento do Parquet, houve por bem o Tribunal de origem decretar a nulidade dessa decisão, para que seja observado o devido processo legal.
+(..)
+5. Habeas corpus parcialmente concedido para, de um lado, manter o paciente no regime semiaberto até que nova decisão seja proferida, mediante a regular manifestação do Ministério Público acerca da progressão de regime; de outro, determinar seja desconsiderando, na aferição do requisito subjetivo, a longa pena a cumprir e a gravidade dos delitos perpetrados." (HC 191.569/SP, Sexta Turma,Rel. Min. Og Fernandes, DJe 9/3/2011, grifei).
+Contudo, no presente caso concreto, a situação de ter sido beneficiado com a prisão domiciliar no curso da execução penaltorna imperioso que se conceda a ordem, de ofício, nos mesmos termos da impetração liminarmente concedida pelo Em. Min. Reynaldo Soares da Fonseca, no HC n. 656.553/MG, na data de 7/4/2021, conforme se transcreve abaixo:
+"No caso concreto, aplica-se entendimento consolidado no sentido de que ainda que ausente a prévia manifestação do Ministério Público acerca do pleito de progressão de regime prisional (§ 1º, do art. 112 da Lei nº 7.210/84), esta Corte possui o entendimento de que não se mostra razoável determinar o retorno do apenado ao regime mais gravoso, pois ele não pode ser prejudicado com a nulidade à qual não deu causa, sendo válido, nesse caso, a manifestação ministerial a posteriori (AgRg no REsp n. 1.364.215/SE, Ministro Campos Marques (Desembargador convocado do TJ/PR), Quinta Turma, DJe 8/5/2013 - grifo nosso).
+Nessa linha, bem de ver que a jurisprudência do Supremo Tribunal Federal e desta Corte Superior é uníssona no sentido de que, tanto nos casos de nulidade relativa quanto nos casos de nulidade absoluta, o reconhecimento de vício que enseje a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado, o que não foi feito pelo Ministério Público. Nesse diapasão: AgRg no RHC n. 119.377/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe 23/10/2020)
+Além do mais, verifica-se, por meio de consulta ao site do TJMG, que já foi concedida a progressão do sentenciado ao regime aberto, nos seguintes termos (Autos n. Autos n. 4400002-82.2020.8.13.0231): (..)
+Diante do exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para manter a decisão do Juízo das Execuções Criminas, que deferiu a prisão domiciliar ao sentenciado."
+Nenhum prejuízo concreto, bem verdade, foi mencionado/debatido pelo d. Ministério Público local (fls. 10-17 e 18-21).
+Por estes motivos,não conheço do habeas corpus. Concedo a ordem, de ofício, para suspender os efeitos do v. acórdão de origem e manter a r. decisão do d. Juízo daExecução, que deferiu a prisão domiciliar, masapenas até que nova decisão seja proferida nos autos da execução penal do paciente, com a devida oitiva prévia dod. Ministério Público.
+Intime-se, com urgência, a origem.
+Abra-se vista dos autos ao d. Ministério Público Federal.
+P. I.
