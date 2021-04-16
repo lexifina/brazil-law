@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpusimpetradoem favor de JEFFERSON LIMA DA SILVEIRA contra decisão proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de Santa Catarina, que não conheceudo HC n. 5014114-78.2021.8.24.0000.
+Consta dos autos que, em 17/07/2017,o Juízo das Execuções homologou o processo administrativo disciplinar em desfavor do Paciente para reconhecera prática de falta grave, razão pela qual determinou a perda de 1/6 (um sexto) dos dias remidos e estabeleceu nova data-base para a concessão de futuros benefícios (fls. 28-29).
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem. Na decisão monocrática de fls. 13-15, o Desembargador Relator não conheceu dowrit.
+Neste habeas corpus, o Impetrante alega quea decisão que reconheceu judicialmente a falta grave é nula por ausência de fundamentação.
+Argumenta que, " s em adentrar ao mérito das provas apresentadas pelo paciente, mesmo a juíza da causa tendo intimado o paciente aapresentar as alegações finais para contraditar a conclusão do procedimento administrativo, a decisão se limitou àleitura do relatório da autoridade administrativa" (fl. 5).
+Assevera que "o magistrado tem por prerrogativa, mediante análise global dos elementos probatórios, reconhecer a falta grave ou até mesmo reclassificar a conduta, ainda que a decisão seja contrária àdecisão administrativa a qual não está subordinado" (fl. 6).
+Requer a concessão da ordem para que seja anulada a "decisão que homologou o Procedimento Administrativo Disciplinar, devendo todas as provas serem consideradas para fins de reconhecimento ou afastamento da falta grave" (fl. 12).
+É o relatório.Decido.
+De início, ressalto que não é cabível a impetração de habeas corpus no Superior Tribunal de Justiça contra decisão monocrática de Desembargador do Tribunal de Justiça, pois o decisum singular desafia a interposição de agravo regimental no âmbito da própria Corte de origem, a fim de que haja a manifestação do colegiado local.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM INDEFERIDA LIMINARMENTE. SUPRESSÃO DE INSTÂNCIA. ANÁLISE PER SALTUM. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA.
+1. Não cabe habeas corpus contra decisão monocrática de Desembargador relator, porquanto ausente manifestação colegiada do órgão de origem.
+ ..
+6. Agravo regimental a que se nega provimento." (AgRg no HC 585.813/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020, sem grifos no original.)
+"AGRAVO REGIMENTAL CONTRA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. PEDIDO AJUIZADO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE JULGAMENTO COLEGIADO. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. FURTO QUALIFICADO. CONDENAÇÃO. REGIME INICIAL SEMIABERTO. COMPATIBILIZAÇÃO COM A MANUTENÇÃO DA CUSTÓDIA PREVENTIVA. CONSTRANGIMENTO ILEGAL INEXISTENTE. RECEIO DE CONTAMINAÇÃO PELO COVID-19. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO JUÍZO DE PRIMEIRO GRAU. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de apelar em liberdade foi indeferido em decisão monocrática do desembargador relator da apelação interposta em favor do apenado, inexistindo provocação ao colegiado para se manifestar acerca do tema. A competência do Superior Tribunal de Justiça - STJ, portanto, não foi inaugurada para apreciar a questão. Precedentes.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC 567.540/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020, sem grifos no original.)
+Contudo, observo que o Desembargador Relator não conheceu daimpetração originária sob o fundamento de que o habeas corpus não seria a via adequada para apreciar a matéria em comento (suposta ilegalidade na decisão que homologou a falta grave), haja vista a existência de recurso específico para tratar a questão - qual seja,o agravo em execução -, o que torna proibitivo ao STJ examinar tal questão, sob pena de indevida supressão de instância.
+Assevero, no entanto, que não há impedimento algum à apreciação da aludida tese pelo Tribunal a quo, pois é questão de direito, consubstanciada na verificação daidoneidade da decisão do Juízo singular.
+Ressalto que, apesar de ser o agravo em execução o recurso próprio cabível, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e existir possibilidade de lesão à liberdade de locomoção do indivíduo, como na espécie.
+Nesse sentido, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HABEAS CORPUS NÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+ ..
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na tese a respeito da previa realização do exame criminológico para fins de progressão de regime. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender de direito." (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 10/04/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO.REGRESSÃO DE REGIME. COMETIMENTO DE FALTA GRAVE. PRÉVIA INSTAURAÇÃO DE PROCEDIMENTO DE APURAÇÃO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. ILEGALIDADE NA FASE DE EXECUÇÃO. QUESTÃO DE DIREITO.LIBERDADE DE LOCOMOÇÃO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ ..
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. A previsão legal de recurso específico não inviabiliza a impetração de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a questão discutida é meramente de direito e intrinsicamente relacionada à liberdade de locomoção do indivíduo.
+4. Agravo regimental desprovido. Ordem concedida de ofício para que o Tribunal de origem examine o mérito da impetração."(AgRg no HC 629.226/RO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021; sem grifos no original.)
+Ante o exposto,INDEFIRO LIMINARMENTE a petição inicial. Todavia, CONCEDO ordem de habeas corpus, DE OFÍCIO, para determinar que o Tribunal de Justiça do Estado de Santa Catarina, como entender de direito, julgue o mérito do habeas corpus originário (HC n. 5014114-78.2021.8.24.0000), afastado o entendimento de que a via eleita é inadequada.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. ORDEM CONCEDIDA DE OFÍCIO PARA DETERMINAR QUE A CORTE A QUO APRECIE O MÉRITO DA IMPETRAÇÃO ORIGINÁRIA.
