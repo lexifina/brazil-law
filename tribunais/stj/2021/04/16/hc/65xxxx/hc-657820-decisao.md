@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em face de decisão que indeferiu a liminar nowritde origem.
+Afirma a defesa que o paciente sofre constrangimento ilegal em decorrência de excesso de prazo da instrução processual, destacando que está preso desde 05.08.2019.
+Requer, liminarmente e no mérito, arevogação do decreto de prisão preventiva, com a consequente soltura do paciente.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fls. 17):
+I. O pleito liminar é a busca, em juízo perfunctório, da antecipação do provimento final da tutela jurisdicional, tendo como vertentes de análise os requisitos do fumus boni iuris e o periculum in mora. Vale ressaltar que a doutrina apenas defende a viabilidade da concessão da liminar no writ como medida de exceção, a comprovação imediata de ilegalidade, cerceadora do status libertatis do indivíduo. Imperioso que, por ser criação jurisprudencial, esta concessão tem "caráter excepcional", advertindo, nesse passo, Ada Pellegrini Grinover, que, "embora não prevista em lei para o remédio aqui analisado, a concessão de liminar vem sendo admitida pela jurisprudência, em caráter excepcional, sempre que presentes os requisitos das medidas cautelares em geral."(Recurso no Processo Penal, 3. ed. rev. atual, e ampl. São Paulo: Editora Revista dos Tribunais, 2001, p. 371). Assim, considerando que os prazos processuais devem ser observados em consonância com o princípio da razoabilidade, não vislumbro, de plano, o excesso de prazo alegado. Dessa forma, INDEFIRO o pedido de liminar, remetendo-se, por prudência em homenagem ao princípio do Colegiado, a apreciação d o m é r it o d a matéria à Primeira Câmara Criminal, Primeira Turma, deste Tribunal de Justiça, para que, em futura análise mais aprofundada, possa, quando do julgamento final deste Habeas Corpus, decidir sobre a ilegalidade, ou não, da medida constritiva combatida. Requisitem-se informações junto à autoridade apontada como coatora, a fim de esclarecer o quanto alegado na peça inaugural.
+Como se vê, o decisum apresenta fundamentação que deve ser entendida como válida para a negativa da liminar, uma vez ausentes os requisitos legais para sua concessão, não se evidenciando, na espécie, a plausibilidade jurídica do pedido no que diz respeito à tese de excesso de prazo para a condenação, considerando-se, inclusive, a necessidade de maiores informações.
+Desse modo, não háilegalidade apta a ensejar a mitigação daSúmula691/STF.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
