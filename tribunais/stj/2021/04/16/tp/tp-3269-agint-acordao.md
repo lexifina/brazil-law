@@ -1,0 +1,92 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. RECURSO ESPECIAL. EFEITO SUSPENSIVO. REQUISITOS. NÃO PREENCHIMENTO. INDEFERIMENTO. DECISÃO MANTIDA.
+1. A atribuição de eficácia suspensiva ou a antecipação dos efeitos de recurso especial é medida excepcional, que somente se justifica diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos.
+2. No caso concreto, a requerente não logrou demonstrar a plausibilidade das teses jurídicas deduzidas no recurso especial, carecendo de requisito necessário para o deferimento da tutela de urgência.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno interposto contra a decisão de fls. 626/629 (e-STJ), por meio da qual indeferi o pedido de efeito suspensivo ao recurso especial.
+Em suas razões (e-STJ, fls. 632/653), a agravante sustenta a plausibilidade das teses jurídicas deduzidas no especial, afirmando não incidir o óbice da Súmula n. 7/STJ, defendendo ser inaplicável, em seu prejuízo, a interrupção da prescrição levada a efeito contra o anterior proprietário do imóvel arrematado, e aduzindo o prequestionamento da matéria relacionada à tese de coisa julgada.
+Resposta do agravado às fls. 658/670 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. RECURSO ESPECIAL. EFEITO SUSPENSIVO. REQUISITOS. NÃO PREENCHIMENTO. INDEFERIMENTO. DECISÃO MANTIDA.
+1. A atribuição de eficácia suspensiva ou a antecipação dos efeitos de recurso especial é medida excepcional, que somente se justifica diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos.
+2. No caso concreto, a requerente não logrou demonstrar a plausibilidade das teses jurídicas deduzidas no recurso especial, carecendo de requisito necessário para o deferimento da tutela de urgência.
+3. Agravo interno a que se nega provimento.
+AgInt no PEDIDO DE TUTELA PROVISÓRIA Nº 3.269 - SP (2021/0042171-8)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+COMERCIAL & SERVIÇOS JVB S.A
+ADVOGADOS
+:
+RODRIGO DE SÁ QUEIROGA - DF016625
+CARLOS ANTÔNIO VIEIRA FERNANDES FILHO - DF034472
+MURILLO SILVA DA ROSA - DF034132
+LETHICIA MESQUITA BRANDÃO - DF057913
+YGOR JOSE CAVALCANTE PEREIRA - DF048148
+AGRAVADO
+:
+EDIFICIO MONTE VERDE PARK
+ADVOGADO
+:
+LÍGIA MARIA DE FREITAS CYRINO - SP191899
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A irresignação não comporta acolhida.
+A agravante não trouxe argumentos capazes de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ, fls. 626/629):
+Trata-se de pedido de tutela provisória de urgência que objetiva atribuir efeito suspensivo a recurso especial tirado contra acórdão do TJSP assim ementado (e-STJ, fl. 485):
+DESPESAS CONDOMINIAIS. AÇÃO DE EXECUÇÃO PROPOSTA EM FACE DA ARREMATANTE DO IMÓVEL. EMBARGOS À EXECUÇÃO. JULGAMENTO DE PARCIAL PROCEDÊNCIA DO PEDIDO. RECONHECIMENTO DA OCORRÊNCIA DE PRESCRIÇÃO DE PARTE DAS CONTRIBUIÇÕES. NÃO PREVALECIMENTO. HIPÓTESE DE OBRIGAÇÃO "PROPTER REM", QUE ENSEJA A RESPONSABILIDADE DO ARREMATANTE PELAS DESPESAS ANTERIORES À AQUISIÇÃO, DESDE QUE INSERIDA RESSALVA NO EDITAL, O QUE OCORREU NO CASO. INTERRUPÇÃO DA PRESCRIÇÃO EM FACE DO ANTIGO PROPRIETÁRIO QUE ATINGE A ARREMATANTE. IMPROCEDÊNCIA DOS EMBARGOS RECONHECIDA. RECURSO DA RÉ PROVIDO, PREJUDICADO O DA DEMANDANTE. A obrigação de pagamento da quota de rateio das despesas tem natureza "propter rem" e por isso vincula aquele que vier a se tornar condômino, pouco importando a época em que se constituiu e a forma de aquisição da propriedade. A aquisição por arrematação torna o arrematante passivo da obrigação de pagamento das despesas, desde que do edital conste a notícia da pendência de débito, o que ocorreu na hipótese. Diante da oportuna propositura da ação de cobrança em face do anterior proprietário, a interrupção da prescrição efetivamente ocorreu e beneficia o credor, sendo oponível ao arrematante.
+Na origem, a ora requerente opôs embargos à execução de título extrajudicial promovida pelo aqui requerido, aduzindo não ser responsável por cotas condominiais anteriores à arrematação do bem imóvel sobre o qual recaem os encargos, sustentando que sua responsabilidade se inicia somente com a efetiva imissão na posse. Apontou a prescrição parcial do débito.
+O recurso foi desprovido pelo TJSP, que entendeu pela sucessão do arrematante na responsabilidade pelos débitos condominiais, sobretudo em razão de ressalva contida no edital de praça do imóvel. Nessa perspectiva, concluiu que a interrupção da prescrição, levada a efeito em prejuízo do anterior proprietário, outrossim atinge o atual condômino.
+No especial, o recorrente sustenta violação dos arts. 202, 204 e 206, § 5º, I, do CC/2002; arts. 42 e 568, I, do CPC/1973; arts. 323 e 337, § 1º, do CPC/2015; e art. 34 do CTN. Insiste na prescrição parcial da pretensão do recorrido e afirma a existência de coisa julgada. Defende que a arrematação qualifica modo originário de aquisição da propriedade, de sorte que o novel proprietário não responde por obrigações anteriores. Sustenta que o edital de praça do bem não previu a existência da dívida que agora é exigida.
+O recurso foi inadmitido na origem por meio de decisão contra a qual o requerente interpôs agravo nos próprios autos (e-STJ, fls. 564/567 e 569/593), devidamente respondido (e-STJ, fls. 596/608).
+Ao fim, o requerente formula os seguintes pedidos (e-STJ,fls. 23/24):
+Ante todo o exposto, requer-se o provimento ao presente pedido incidental de Tutela de Urgência Cautelar, para conferir, de imediato, efeito suspensivo ao Recurso Especial e ao respectivo Agravo interpostos nos autos do processo nº. 1029217-44.2018.8.26.0001, proveniente do TJSP, determinando-se o imediato sobrestamento do trâmite do Cumprimento Provisório de Sentença inaugurado nos autos do processo nº. 1024381-28.2018.8.26.0001, até decisão final por parte dessa e. Corte.
+É o relatório.
+Decido.
+No que se refere à responsabilidade do arrematante pelas cotas condominiais anteriores à arrematação, quando anotada informação sobre a existência de dívida, o entendimento da Corte local encontra amparo na jurisprudência do STJ:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. COTAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. RESPONSABILIDADE DO ARREMATANTE. RESSALVA NO EDITAL. SUCESSÃO NO POLO PASSIVO DO FEITO EXECUTIVO. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "em se tratando a dívida de condomínio de obrigação "propter rem", constando do edital de praça a existência de ônus incidente sobre o imóvel, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, ainda que estas sejam anteriores à arrematação, admitindo-se, inclusive, a sucessão processual do antigo executado pelo arrematante" (REsp 1.672.508/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/06/2019, DJe 01/08/2019).
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1852710/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/11/2020, DJe 04/12/2020)
+Na espécie, o acórdão assevera que a informação sobre a existência de débito perante o condomínio constou do edital de praça (e-STJ, fl. 490):
+No presente caso, constou expressamente a ressalva da existência de débitos condominiais e de IPTU, conforme se verifica do Auto de Arrematação em Leilão (fls. 49/50).
+A revisão dessa assertiva esbarra no óbice da Súmula n. 7/STJ.
+Sobre a prescrição, concluiu o Tribunal local que a ação de cobrança ajuizada pelo condomínio contra o antigo proprietário interrompeu o curso do prazo prescricional também em prejuízo do arrematante (e-STJ, fl. 490):
+A ação de cobrança proposta pelo condomínio face ao anterior proprietário do imóvel foi distribuída em 10 de abril de 2006 (fls. 63/64).
+A citação tem a eficácia de interromper a prescrição e a oportuna prática dos atos processuais pela parte faz com que seja sempre postergado o reinício da contagem do prazo. Assim, a retomada da contagem do prazo ocorre após a prática do último ato nos autos da ação de cobrança.
+Desse modo, não se verificou a prescrição, ainda que em relação à arrematante. Aliás, o caráter "propter rem" da obrigação insere o novo titular do domínio na relação obrigacional, ocupando exatamente a mesma posição, o que o torna sujeito a todos os efeitos.
+Colhe-se dessa fundamentação que o TJ concluiu pela eficácia da interrupção do prazo prescricional - ocorrida em demanda proposta contra o antigo proprietário - em razão da natureza propter rem dos encargos condominiais, cujos efeitos irradiam para o atual proprietário em razão do vínculo mantido com a coisa. O entendimento encontra amparo na jurisprudência desta Corte:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE DO CONDOMÍNIO POR DANOS A TERCEIRO. OBRIGAÇÃO DO CONDÔMINO PELAS DESPESAS CONDOMINIAIS, NA MEDIDA DE SUA COTA-PARTE. FATO ANTERIOR À CONSTITUIÇÃO DA PROPRIEDADE. DÍVIDA PROPTER REM. PENHORABILIDADE DO BEM DE FAMÍLIA. POSSIBILIDADE. LEI N. 8.009/1990, ART. 3º, IV.
+1. Constitui obrigação de todo condômino concorrer para as despesas condominiais, na proporção de sua cota-parte, dada a natureza de comunidade singular do condomínio, centro de interesses comuns, que se sobrepõe ao interesse individual.
+2. As despesas condominiais, inclusive as decorrentes de decisões judiciais, são obrigações propter rem e, por isso, será responsável pelo seu pagamento, na proporção de sua fração ideal, aquele que detém a qualidade de proprietário da unidade imobiliária ou seja titular de um dos aspectos da propriedade (posse, gozo, fruição), desde que tenha estabelecido relação jurídica direta com o condomínio, ainda que a dívida seja anterior à aquisição do imóvel.
+3. Portanto, uma vez ajuizada a execução em face do condomínio, se inexistente patrimônio próprio para satisfação do crédito, podem os condôminos ser chamados a responder pela dívida, na proporção de sua fração ideal.
+4. O bem residencial da família é penhorável para atender às despesas comuns de condomínio, que gozam de prevalência sobre interesses individuais de um condômino, nos termos da ressalva inserta na Lei n. 8.009/1990 (art. 3º, IV).
+6. Recurso especial não provido.
+(REsp 1473484/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 23/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. PENHORA DO IMÓVEL GERADOR DOS DÉBITOS CONDOMINIAIS NO BOJO DE AÇÃO DE COBRANÇA NA QUAL A PROPRIETÁRIA DO BEM NÃO FIGUROU COMO PARTE. POSSIBILIDADE. OBRIGAÇÃO PROPTER REM. SÚMULA 568/STJ.
+1. Cuida-se, na origem, de ação de cobrança de cotas condominiais, em fase de cumprimento de sentença.
+2. A jurisprudência do STJ é no sentido de que, em se tratando a dívida de condomínio de obrigação propter rem, em razão do que o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, ainda que não tenha participado da fase de conhecimento.
+3. Sob o enfoque do direito material, aplica-se a regra do art. 1.345 do CC/02, segundo o qual "o adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multa e juros moratórios". Por outro lado, no plano processual, a penhora do imóvel e a inclusão da proprietária no polo passivo da lide é viável ante o disposto no art. 109, § 3º, do CPC/15, no sentido de que os efeitos da sentença proferida entre as partes originárias se estendem ao adquirente ou cessionário. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1851742/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+Entende-se possível prosseguir com o cumprimento de sentença em face do atual proprietário do imóvel, ainda que não tenha participado da demanda. Mutatis mutandis, é também válida a conclusão de que a interrupção da prescrição operada contra o anterior condômino atinge o novo titular do bem.
+Sobre a alegação de coisa julgada, conquanto tenha apontado o tema no relatório do acórdão da apelação (e-STJ, fl. 487) e dos embargos declaratórios (e-STJ, fl. 512), o Tribunal local não tratou do assunto, carecendo o recurso do necessário prequestionamento. Além disso, o mero indeferimento da substituição do polo passivo na demanda anterior não traduz o reconhecimento de ilegitimidade passiva, tampouco coisa julgada impeditiva da cobrança - pela via executiva - das cotas condominiais devidas pelo atual proprietário do imóvel.
+Ante o exposto, à míngua da necessária plausibilidade do direito invocado, INDEFIRO o pedido de tutela provisória.
+Publique-se. Intimem-se.
+Conforme consta da decisão agravada, o TJSP afirmou no acórdão que a informação sobre a existência de débito condominial constou do edital de praça, sendo certo que a revisão dessa assertiva pressupõe o revolvimento de material fático-probatório dos autos, vedada na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ.
+Consigne-se, de outro lado, que os débitos relativos a cotas condominiais têm natureza propter rem, vinculando-se à coisa, não havendo falar em responsabilidade pessoal do anterior proprietário do bem. Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. IMÓVEL ARREMATADO EM HASTA PÚBLICA. INFORMAÇÃO NO EDITAL ACERCA DA EXISTÊNCIA DE DÉBITOS CONDOMINIAIS. CARÁTER "PROPTER REM" DA OBRIGAÇÃO. RESPONSABILIDADE DO ARREMATANTE. SUCESSÃO NO POLO PASSIVO DA EXECUÇÃO. CABIMENTO.
+(..)
+5. Em se tratando a dívida de condomínio de obrigação "propter rem", constando do edital de praça a existência de ônus incidente sobre o imóvel, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, ainda que estas sejam anteriores à arrematação, admitindo-se, inclusive, a sucessão processual do antigo executado pelo arrematante. (..)
+(REsp 1672508/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/06/2019, DJe 01/08/2019)
+Reitere-se que o TJ local não examinou a tese sobre a cogitada violação de coisa julgada, tratando do assunto apenas no campo do relatório - reportando-se às alegações do agravante, todavia não exarando qualquer juízo de valor sobre o tema - do que resulta a falta de prequestionamento da matéria. Embora provocado por meio de recurso declaratório, a omissão persistiu, não tendo o agravante suscitado, em seu recurso especial, possível violação do art. 1.022 do CPC/2015.
+Lembro, a propósito, que " o  prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau" (AgInt no AREsp 1551502/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
