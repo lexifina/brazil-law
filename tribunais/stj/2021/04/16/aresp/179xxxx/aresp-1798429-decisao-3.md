@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPY MEDEIROS DE OLIVEIRAcontra decisão que inadmitiu o recurso especial com fulcro no art. 105, III, alíneas "a" e "b", da Constituição Federal.
+Consta dos autos que o agravante FELIPY MEDEIROS DE OLIVEIRA foi condenado pela prática do delito tipificado no art. 33, caput, da Lei Federal n. 11.343/06 (tráfico ilícito de entorpecentes), à pena de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial fechado, e ao pagamento de 416 (quatrocentos e dezesseis) dias-multa.
+Irresignados, defesa e acusação interpuseram recurso de apelação. O Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao apelo ministerial para condenar o corréu Marcos e afastar o tráfico privilegiado, majorando a pena do agravante Felipypara 05 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa.
+O acórdão restou assim ementado:
+APELAÇÃO CRIMINAL. Tráfico de drogas. Sentença condenatória para FELIPY e KEVIN e absolutória para MARCOS. Apelam as partes. O Ministério Público pretende a condenação de MARCOS e o afastamento do privilégio reconhecido para os demais corréus. Defesa de FELIPY busca a absolvição por insuficiência probatória e, se diverso o entendimento, a aplicação de fração mais elevada pelo privilégio, a substituição da pena corporal e a redução dos dias-multa. Defesa de KEVIN, por sua vez, pretende que o privilégio seja aplicado em seu patamar máximo, o abrandamento do regime e a substituição da pena privativa de liberdade. Com razão apenas o apelo do Ministério Público. Autoria e materialidade devidamente comprovadas. Prisão em flagrante. Provas robustas e coesas imputam aos acusados a responsabilidade pelos fatos narrados na denúncia. Seguro relato dos policiais, escorado nos demais elementos colacionados, sustentam o édito condenatório com relação a KEVIN e FELIPY e impõe a condenação de MARCOS. Versões defensivas sozinhas, vazias e contraditórias no feito, incapazes de lançar dúvidas sobre a responsabilidade criminal dos acusados. Dosimetria. Pena-base fixada no mínimo. Impossível o reconhecimento do privilégio. Incompatibilidade de requisitos. Demonstrada dedicação às atividades criminosas. Ausência de bis in idem. Regime fechado fixado com base em circunstâncias concretas, em atenção ao disposto nas Súmulas nº 718 e nº 719 do STF e na Súmula nº 440 do STJ. Impossível a concessão de benefícios. Pena de multa que, apesar de mais rigorosa que o padrão, não afronta garantias individuais. Sentença parcialmente reformada. Recursos defensivos improvidos e recurso ministerial provido.
+Em sede de recurso especial, a defesa do agravante FELIPY MEDEIROS DE OLIVEIRA aponta violação ao disposto no art. 33, § 4º, da Lei Federal n. 11.343/06. Sustenta, em síntese, a aplicação do tráfico privilegiado, no patamar máximo de diminuição (2/3),ante a inexistência de fundamentação idônea (fls. 402/412).
+A r. decisão agravada inadmitiu o recurso especial, haja vista a deficiência na fundamentação, não comprovação da divergência jurisprudencial, além do óbice contido na Súmula n. 07/STJ (fls. 459/460).
+Em agravo em recurso especial, a defesa do agravante FELIPY MEDEIROS DE OLIVEIRA refutou os aludidos argumentos(fls. 477/481).
+Contraminuta às fls. 496/513.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 541/547).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnados os fundamentos da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+O recurso merece parcial provimento.
+O Tribunal de origem afastou a aplicação do tráfico privilegiado, mediante fundamentação que ora se destaca (fls. 355/358):
+"Passo, agora, à análise da dosimetria e das teses que lhe são correlatas.
+Atento às circunstâncias do artigo 59 do Código Penal e do artigo 42 da Lei de Drogas, a pena-base foi fixada no mínimo legal, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no piso, para FELIPY e KEVIN, mesmo patamar aplicado, agora para MARCOS, que não ostenta maus antecedentes.
+Friso, neste ponto, que a expressiva quantidade de entorpecentes será valorada na terceira etapa, a fim de afastar a incidência do privilégio, evitando-se eventual alegação de bis in idem.
+Na segunda fase, apesar de reconhecida a confissão espontânea de FELIPY e KEVIN, não há que se falar na redução da pena aquém no mínimo, em atenção ao disposto na Súmula nº 231 do C. Superior Tribunal de Justiça, que estabelece:
+(..)
+Ausentes agravantes e atenuantes, a pena se mantém inalterada também para MARCOS.
+Na terceira etapa, a douta Magistrada a quo reconheceu o privilégio e reduziu a pena imposta a KEVIN e FELIPY na fração de 2/3 (dois terços), insurgindo-se o Ministério Público pelo afastamento da medida.
+E com razão o ilustre representante do parquet.
+Sabe-se que para que o Magistrado deixe de aplicar a minorante, é necessário que demonstre que existem nos autos provas que possam afastar ao menos um dos seguintes critérios, que são cumulativos: primariedade; bons antecedentes; não dedicação a atividades criminosas; e não integração à organização criminosa.
+No caso em tela, a expressiva quantidade e qualidade de droga apreendida, aproximadamente um quilo de crack, demonstra que os acusados, longe de meros neófitos no mundo criminoso, se dedicavam ao tráfico de forma ampla e com enorme envolvimento.
+Frise-se, outrossim, como anteriormente asseverado, que tal fato não foi valorado na primeira etapa da análise dosimétrica, não configurando bis in idem lançar mão desta circunstância para fins de afastara incidência do privilégio.
+Diante da incompatibilidade dos requisitos para a aplicação do redutor com as circunstâncias acima expostas, resta impossível aplicar a almejada causa de diminuição, devendo a mesma ser afastada.
+As penas, para todos os acusados, se torna definitiva em 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, no piso.
+Foi estabelecido, para KEVIN e FELIPY, o regime inicial fechado, o qual não merece atenuação, traduzindo-se, inclusive, no mesmo regime imposto a MARCOS AURÉLIO.
+Ao Magistrado compete estabelecer o regime inicial de cumprimento da pena que acreditar suficiente para reprovação e prevenção do delito, respeitados os ditames legais.
+Além disto, o indivíduo que participa do narcotráfico revela extrema periculosidade, tratando-se de delito gravíssimo, com vitimização elevada e consequências maléficas a toda a sociedade.
+No caso, a gravidade concreta da conduta dos apelantes, decorrente da quantidade e nocividade do entorpecente apreendido, alta danosidade social e das peculiaridades da abordagem, exige tratamento mais rigoroso e severo, devendo ser submetido ao regime de segregação total até que, paulatinamente, possa ser reinserido no corpo social.
+Assim, o regime fechado é aquele que mais se coaduna com os objetivos acima e com o caráter ressocializador da pena, capaz de incutir nos acusados a terapêutica prisional."
+No entanto, "Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa." (AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 29/05/2020).
+Na espécie, a Corte de origem afastou a aplicação do tráfico privilegiado com base exclusiva na quantidade e natureza da droga apreendida, sendo necessária a aplicação do redutor previsto no § 4º do art. 33 da Lei Federal n. 11.343/06, contudo, no patamar mínimo (1/6).
+Assim, passo a refazer a dosimetria da pena.
+Na primeira fase, considerando a fundamentação adotada pela instância ordinária, fixo a pena-base em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa. Na segunda fase, reconheço a atenuante da confissão espontânea, com observância ao disposto na Súmula n. 231/STJ.
+Na terceira fase, reconheço a causa de diminuição do § 4º do art. 33 da Lei n.11.343/06, reduzindo a pena em 1/6 (um sexto), diante da natureza (crack) e expressiva quantidade de drogas apreendidas (993,8 gramas). Nesse sentido, colaciono o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL. PENA INFERIOR A 8 ANOS. QUANTIDADE DO ENTORPECENTE QUE POSSIBILITA A FIXAÇÃO DO REGIME MAIS GRAVOSO. RECURSO DESPROVIDO.
+(..)
+- Na espécie, consigne-se que, embora o recorrente seja primário e a pena de 4 anos e 2 meses de reclusão comporte, em princípio, o regime semiaberto, o regime fechado é o que mais se amolda ao caso concreto, ante a quantidade de entorpecente apreendido - 1.041,67g de crack -, elemento que, inclusive, justificou a escolha da fração redutora de 1/6, pelo tráfico privilegiado.
+- Recurso desprovido.
+(AgRg no AREsp 1354149/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/03/2019).
+Assim, torno a pena definitiva em 04 (quatro) anos e 02 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa, à razão unitária.
+Considerando a fundamentação adotada pelo Tribunal de origem (quantidade e qualidade da droga apreendida), mantenho o regime inicial fechado.
+Diante do exposto, com fundamento na Súmula n. 568/STJ,dou parcial provimento ao recurso especial interposto porFELIPY MEDEIROS DE OLIVEIRA para aplicar a causa de diminuição do § 4º do art. 33 da Lei n.11.343/06, porém, no patamar mínimo (1/6),readequando a pena do agravante, nos termos da fundamentação.
+Publique-se. Intimem-se.
