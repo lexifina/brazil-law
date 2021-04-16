@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso emhabeas corpus, interposto por JHONNATAN COELHO CEA, JONNY DOS SANTOS RODRIGUES, MANOEL MALAQUIAS CLEMENTE JUNIOR, WELISON JHONATA MARTINS ALVES contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido no julgamento do HC n. 0016373-06.0020.8.109.0001.
+Extrai-se dos autos que os recorrentes foram presos em flagrante pela suposta prática do delito tipificado no art. 16, § 1º, inciso IV, da lei n. 10.826/2003 (porte de arma de fogo com numeração suprimida). Referida custódia foi convertida em preventiva.
+Inconformada, a defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS.AÇÃO PENAL MOVIDA PELO MINISTÉRIO PÚBLICO PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 16, PARÁGRAFO ÚNICO, IV, DA LEI 10.826/03. Pacientes presos em flagrante dentro de um veículo Renault Duster, placa LSH 6836, adulterada para a placa LRO-1F83, de forma compartilhada com os Pacientes Jhonanatan Coelho Cea, Jonny dos Santos Rodrigues, Manoel Malaquias Clemente Junior e Welison Jhonata Martins Alves, foram encontradas 02 (duas) armas de fogo, tipo pistola, calibre 40mm, ambas com numeração raspada; 02 (duas) armas de fogo, tipo pistola, calibre 9mm, ambas com numeração raspada; 06 carregadores, calibre 40mm; 05 carregadores, calibre 9mm (um deles alongado); 90 cartuchos, calibre 40mm; 170 cartuchos, calibre 9mm; 43 cartuchos, calibre 38, 02 (duas) toucas ninjas, dois coldres, um porta carregador, uma camisa com a inscrição "POLÍCIA CIVIL", um casaco (camuflado) padrão Exército, 01 uma combat shirt(camisa à prova de balas) e 04 (quatro) aparelhos de telefone celular, pela suposta prática de crime previsto no artigo 16, parágrafo único, IV da Lei 10.826/03. Pleito para revogação da prisão cautelar dosPacientes, expedindo o competente alvará de soltura, concedendo-se a liberdade aos Pacientes até o julgamento do mandamus. por excesso de prazo, eis que não finalizada a instrução criminal. No mérito, pugnou pela concessão da ordem. Decisão que converte o flagrante em prisão preventiva e outra que indefere o pedido de revogação da prisão cautelar, suficientemente bem fundamentadas, em estreita consonância com o artigo 93, IX da Constituição Federal e artigo 315 do Código de Processo Penal. Pressupostos elencados no artigo 312 do mesmo diploma processual penal claramente evidenciados a justificar a medida de exceção para garantia da ordem pública, da ordemeconômica e a aplicação da lei penal. Delito que possui pena máxima superior a quatro anos, o que autoriza a decretação da prisão preventiva, conforme o que dispõe o artigo 313, I, do CPP. Excesso que prazo que não pode ser imputado ao Poder Judiciário. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DENEGAÇÃO DA ORDEM"(fls. 26/27).
+No presente recurso, alegam a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estaria suficientemente justificada, uma vez que baseada em elementos genéricos.
+Apontam excesso de prazo na formação da culpa.
+Ponderam a vulnerabilidade da população carcerária diante da pandemia da COVID-19.
+Destacam suas condições pessoais favoráveis.
+Requerem, assim, a revogação da prisão preventiva ou a sua substituição por prisão domiciliar.
+O Ministério Público Federal opinou pelo desprovimento do reclamo (fls. 127/131).
+É o relatório.
+Decido.
+O recursoestá prejudicado.
+Isso porque, dos informes obtidos na página eletrônica do Tribunal de origem, verificou-se que, em 14/12/2020, nos autos da Ação Penal n.0016373-06.2020.8.19.0001, foi relaxada a prisão preventiva dosrecorrentes, tendo sido expedidosalvarás de soltura.
+Deste modo,constata-se a perda superveniente do objeto do reclamo.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
