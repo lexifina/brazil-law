@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. REQUISITOS DE ADMISSIBILIDADE DA RECLAMAÇÃO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.TEMA 747/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Aquestão sobre o cabimento de reclamação ao Superior Tribunal de Justiça por alegada usurpação de sua competência pelo Tribunal de Justiça que examina liminar em mandado de segurança impetrado contra acórdão proferido por Conselho da Magistratura, em processo de dúvida registral, não tem repercussão geral, pois ausente relevância econômica, política, social ou jurídica que transcenda o interesse das partes (Tema 747/STF).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUIZ RIBEIRO DO VALE contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 531):
+RECURSO EXTRAORDINÁRIO. ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL.SUFICIÊNCIA DAFUNDAMENAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE EM REPERCUSSÃO GERAL.TEMA 339/STF. REQUISITOS DE ADMISSIBILIDADE DA RECLAMAÇÃO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.TEMA 747/STF. SEGUIMENTO NEGADO.
+Insiste o agravante na repercussão geral da matéria debatida e naviolação aosarts. 2º, 5º, incisos II,§ 1º, e XXXV, 60, § 4º, incisos III e IV, 92, § 2º, 93, inciso IX, e 105, inciso I, alínea f, todos da Constituição Federal.
+Sustenta que os Temas 339 e 745 não se aplicariam ao caso sub judice.
+Requer o provimento do presentereclamo para que o recurso extraordinário seja admitido.
+Sem contrarrazões (e-STJ fl. 555).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. REQUISITOS DE ADMISSIBILIDADE DA RECLAMAÇÃO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.TEMA 747/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Aquestão sobre o cabimento de reclamação ao Superior Tribunal de Justiça por alegada usurpação de sua competência pelo Tribunal de Justiça que examina liminar em mandado de segurança impetrado contra acórdão proferido por Conselho da Magistratura, em processo de dúvida registral, não tem repercussão geral, pois ausente relevância econômica, política, social ou jurídica que transcenda o interesse das partes (Tema 747/STF).
+3. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 23/11/2020 (e-STJ fl. 536), cumpre atestar a tempestividade da insurgência, pois interposta no dia 25/11/2020 (e-STJ fl. 549), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais se negou provimento ao agravo interno, valendo destacar o seguinte excerto (e-STJ fls. 404-410):
+Não assiste razão ao Agravante, porquanto a Reclamação prevista no art. 105, I, f, da Constituição da República constitui ação constitucional destinada a garantir a autoridade das decisões do Superior Tribunal de Justiça ou à preservação de sua competência, sendo cabível em face de decisões de autoridades administrativas e judiciais (v.g. Rcl 3.506/ES, 1ª S., Rel. Min. DENISE ARRUDA, Rel. p/ Acórdão Min. LUIZ FUX, DJe de 30.06.2010; Rcl 2.559/ES, Corte Especial, Rel. Min. Barros Monteiro, DJe de 05.05.2008.
+In casu, a Reclamante afirma o desacerto de decisão monocrática, proferida pelo pela 4ª Turma Recursal da Seção Judiciária do Paraná, em sede de admissibilidade, em suposta contrariedade à jurisprudência desta Corte, situação, contudo, que não se enquadra nas hipóteses de cabimento da Reclamação.
+Isso porque a Reclamação (art. 105, I, f da Constituição da República) destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+ ..
+Desse modo, diante da impossibilidade de utilização da reclamação constitucional como sucedâneo recursal, os pedidos veiculados, devem ser formulados na origem, utilizando-se os recursos adequados, caso existam.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Não bastasse, a Suprema Corte definiu, quando do julgamento do RE n. 655.466/DF na sistemática da repercussão geral, que a "questão sobre o cabimento de reclamação ao Superior Tribunal de Justiça por alegada usurpação de sua competência pelo Tribunal de Justiça que examina liminar em mandado de segurança impetrado contra acórdão proferido por Conselho da Magistratura, em processo de dúvida registral, não tem repercussão geral, pois ausente relevância econômica, política, social ou jurídica que transcenda o interesse das partes" (Tema 747/STF).
+Eis a ementa do referido acórdão:
+PROCESSUAL CIVIL. RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. LIMINAR EM MANDADO DE SEGURANÇA CONCEDIDA NA ORIGEM. PROCEDIMENTO SOBRE DÚVIDA REGISTRAL. QUESTÃO RESTRITA AO INTERESSE DAS PARTES. INEXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 655466 RG, Relator(a): Min. RICARDO LEWANDOWSKI, julgado em 12/06/2014, PROCESSO ELETRÔNICO DJe-148 DIVULG 31-07-2014 PUBLIC 01-08-2014.
+E, no caso, o acórdão objeto do recurso extraordinário negou provimento ao agravo interno para manter a decisão que negou seguimento à Reclamação por inadequação da via eleita.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
