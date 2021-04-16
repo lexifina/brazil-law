@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por COPEN COMPANHIA PAULISTA DE ENERGIA S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE EXTINÇÃO SEM RESOLUÇÃO DO M ÉRI TO POR PERDA DO OBJETO CONDENAÇÃO NO PAGAMENTO D E CUSTAS E HONORÁRIOS SUCUMBENCIAIS DISCUSSÃO ACERCA DA RESPONSABILIDADE PELA PROPOSITURA DA AÇÃO CONDUTA DA APELANTE DE RETIRAR GARANTIA QUE CAUSOU O PROCESSO ARGUMENTOS PARA AFASTAR CONDENAÇÃO EM HONORÁRIOS JÁ LEVADOS EM CONSIDERAÇÃO PELO JUÍZO DE PISO SENTENÇA MANTIDA HONORÁRIOS MAJORADOS EM VIRTUDE DO TRABALHO RECURSAL APELO NÃO PROVIDO" (e-STJ fl. 550).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 560/563).
+No recurso especial, alega-se violação dos artigos 85, §10, 485, VI, 489, §1º,III, 493, 1.022, parágrafo único, III e 1.025 do Código de Processo Civil de 2015, ao fundamento de ausência de fundamentação do acórdão recorrido, negativa de prestação jurisdicional e que a recorrida é quem deve arcar com o pagamento dos ônus de sucumbência.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No tocante à violação dos artigos 489, 1.022 e 1.025 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou existência de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. ART. 489, § 1º, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. (..)
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pelos recorrente. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Afasta-se a tese de fundamentação deficiente do aresto combatido (art. 489, § 1º, III, IV e VI, do CPC/2015), pois esta Corte Superior possui precedente de que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em
+14/6/2016, DJe 21/6/2016).
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.649.443/RO,
+Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/9/2017, DJe 29/9/2017).
+No mais, o Tribunal estadual assim se pronunciou sobre os ônus de sucumbência:
+"(..)
+Extrai- se dos autos que a sentença arbitral a que se referem as partes foi editada em 07/ 11/ 2016 ( fls. 122/ 172) , momento em que encerrada a jurisdição do Tribunal Arbitral, revigorada de forma limitada nos termos do artigo 30 da Lei de Arbitragem Lei n. 9. 307/ 96. Em virtude do exposto, o Árbitro Presidente esclareceu que competia à CCEE então adotar as medidas que entendia pertinentes, conforme se infere do documento acostado a fls. 182/ 184.
+Assim, pediu a recorrida que a Câmara Arbitral determinasse a imediata transferência dos valores afiançados ( fls. 265/ 266), o que foi prontamente atendido, com ressalva à eventual suspensão da determinação caso apresentada nova garantia ou renovada a então exigida ( fls. 268/ 269) . O resultado, no entanto, foi notícia do Banco de que a Carta de Fiança havia sido devolvida em setembro de 2016.
+Conclui- se, portanto, que foi conduta da apelante de retirar a garantia previamente ofertada que ocasionou o ajuizamento da ação, atuando a recorrida unicamente para resguardar seu direito, inclusive conforme autorizado pela Câmara Arbitral" (e-STJ fls. 551/552).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal, para inverter os ônus sucumbenciais, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SUCUMBÊNCIA. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR EXTINTO EM RAZÃO DA LITISPENDÊNCIA. CONDENAÇÃO DO EMBARGANTE EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRINCÍPIO DA CAUSALIDADE. REVISÃO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inexiste a alegada violação ao art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Segundo entendimento do STJ, "no caso de os embargos do devedor opostos contra execução fiscal serem extintos, sem resolução do mérito, em razão de litispendência com ação anulatória, na qual não houve suspensão da exigibilidade do crédito tributário, os honorários advocatícios devem ser suportados pela parte executada. Precedente: REsp 1040781/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 17/03/2009" (AgRg no REsp 1.269.192/SC, Rel. Min. Benedito Gonçalves, DJe 27.5.2013).
+3. Ademais, no presente caso, o Tribunal a quo aplicou os ônus da sucumbência com base no princípio da causalidade, asseverando: "Com efeito, a ação anulatória já foi julgada, não tendo razão a parte agravante ao requerer o julgamento de mérito quando outra ação judicial já tratou da mesma questão. No tocante aos honorários advocatícios, a parte embargante deu causa ao ajuizamento da ação, razão pela qual deve arcar com os ônus sucumbenciais" (fl. 972, e-STJ).
+4. Pelas circunstâncias apontadas pelo Tribunal de origem, é evidente que, para alterar a conclusão alcançada no acórdão recorrido, averiguando-se a adequação do princípio da causalidade para a fixação dos honorários advocatícios, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7/STJ.
+5. Agravo Interno não provido" (AgInt no AREsp 1.660.923/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 12/11/2020 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 50.000,00 (cinquenta mil reais) os quais devem ser majorados para o valor de R$ 55.000,00 (cinquenta e cinco mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
