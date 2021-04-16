@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTOS MULTIDISCIPLINARES. COBERTURA DE TRATAMENTO. EXEMPLIFICATIVO DO ROL DA ANS. JURISPRUDÊNCIA DA TERCEIRA TURMA.
+1. A jurisprudência do STJ firmou-se no sentido de que, "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no REsp n. 1.349.647/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018)"
+2. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+4. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática que negou provimento ao recurso especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PRESCRIÇÃO MÉDICA. DOENÇA COBERTA PELO PLANO CONTRATADO. A AUSÊNCIA DO PROCEDIMENTO PRESCRITO NO ROL DA ANS NÃO AFASTA O DEVER DE COBERTURA PELO PLANO DE SAÚDE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DA TERCEIRA TURMA DO STJ. DANO MORAL CONFIGURADO. REEXAME. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+Em suas razões, a agravante sustenta que o entendimento adotado no acórdão recorrido não se mostra correto. Assevera que a Quarta Turma, no julgamento do REsp 1.733.013, reconheceu a taxatividade do rol de procedimentos obrigatórios elaborado pela ANS.
+Prosseguindo em suas razões, a agravante sustenta que o Recurso Especial fundamenta-se no sentido de a Lei nº 9.656/98, assim como a normativa da ANS, excluem expressamente a obrigatoriedade de cobertura, pelas operadoras de planos de saúde, tratamentos não constantes do rol, a exemplo do vindicado nos autos presentes pelo Agravado.(e-STJ Fl.575)
+Não houve mpugnação. (e-STJ Fls. 583)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTOS MULTIDISCIPLINARES. COBERTURA DE TRATAMENTO. EXEMPLIFICATIVO DO ROL DA ANS. JURISPRUDÊNCIA DA TERCEIRA TURMA.
+1. A jurisprudência do STJ firmou-se no sentido de que, "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no REsp n. 1.349.647/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018)"
+2. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+4. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+5. Agravo interno não provido.
+VOTO
+Eminentes colegas, a nova irresignação recursal não merece acolhida.
+Insta sublinhar que, não obstante os argumentos declinados pela parte, as razões trazidas em agravo interno não contêm fundamentos suficientes a desconstituir a decisão recorrida.
+Dessa forma, o entendimento firmado na decisão monocrática recorrida deve ser mantido.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas de cobertura,"à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no REsp n. 1.349.647/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018)
+Nessesentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. LIMITAÇÃO DE TRATAMENTO. ABUSIVIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N.182/STJ. DECISÃO MANTIDA.
+1. A "jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g.limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019)"
+(AgInt no REsp n.1.782.183/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FONOAUDIOLÓGICOS E HOSPITALARES. CARÁTER ABUSIVO. RECONHECIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.  ..  3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fonoaudiologia.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+AgInt no AREsp 1.527.318/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 2/4/2020)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DEFICIÊNCIA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. AUSÊNCIA.HIGIDEZ DO ACÓRDÃO RECORRIDO. LIMITAÇÃO DO NÚMERO DE SESSÕES.ABUSIVIDADE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. COPARTICIPAÇÃO ADMITIDA EM TESE, MAS QUE NÃO PODE SER EXAMINADA NO CASO CONCRETO POR INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se verifica omissão de julgamento na hipótese dos autos, porque os temas suscitados foram efetivamente examinados pelo TJSP.
+3. A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+4. Conquanto admitida, em tese, a legalidade da cláusula contratual que prevê coparticipação do segurado para as sessões que excedem o limite mencionado, não é possível examinar o tema no caso dos autos, por falta de indicação de qual dispositivo de lei federal foi eventualmente violado, caracterizando deficiência na fundamentação e fazendo incidir à hipótese o teor da Súmula nº 284 do STF, por analogia.
+5. Agravo interno não provido.
+(AgInt no AREsp 1626988/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. TRATAMENTO.NEGATIVA DE COBERTURA. INDICAÇÃO MÉDICA. ABUSIVIDADE RECONHECIDA.INCIDÊNCIA DA SÚMULA N. 83/STJ. RECURSO NÃO PROVIDO.
+1.  ..
+2. "À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes". (AgInt no REsp 1349647/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018).
+3. Nos termos da jurisprudência desta Corte, "os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os medicamentos experimentais" (AgInt no AREsp 1.014.782/AC, Rel.Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1432075/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/05/2019, DJe 16/05/2019)
+Portanto, o aresto recorridoencontra-se em consonância com o entendimento desta Corte.
+Registre-se, por fim, em que pese o precedente da eg.Quarta Turma reconhecendo que seria legítima a recusa de cobertura com base no rol de procedimentos elaborado pela ANS, prevalece nesta eg. Terceira Turma o entendimento no sentido do caráter exemplificativo do referido rol.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
