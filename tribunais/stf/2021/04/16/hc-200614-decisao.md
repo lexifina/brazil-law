@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Agenor Lasaro Soares, apontando como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que, em juízo de retratação, conheceu do agravo no AREsp nº 1.521.534/MG, interposto pelo Ministério Público, deu provimento “ao recurso especial, para restabelecer a prisão preventiva do agravado, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II, c, ambos do Regimento Interno do Superior Tribunal de Justiça”.
+    Sustenta o impetrante, em síntese, a presença de constrangimento ilegal em decorrência do restabelecimento da prisão preventiva do paciente, após 2 anos da soltura, sem apresentar novos argumentos, concluindo pela inexistência de contemporaneidade do novo decreto prisional.
+    Acrescenta que:
+    “7. Em 30/08/2019, foi interposto Agravo Interno pelo Ministério Público Federal, sendo que em 02/03/2020, em juízo de retratação, APÓS PASSADOS MAIS DE 14 (QUATORZE) MESES DA REVOGAÇÃO DA PRISÃO PREVENTIVA, o Eminente Ministro Jorge Mussi conhece do agravo e dá provimento ao Recurso Especial em Habeas Corpus, reestabelecendo a prisão preventiva do paciente. (Documento anexo VI)“
+    Aduz, ainda, a ausência dos requisitos do art. 312 do CPP para a decretação da custódia cautelar do paciente.
+    Alega a ocorrência de excesso de prazo para a apreciação do agravo regimental, com pedido de reconsideração, porque “até o presente momento, em 12/04/2021, mais de 1 (UM) ANO DEPOIS, pendente está de apreciação pelo Ministro Relator, prazo este que alcançou mais que o limite do razoável, demonstrando restar claro e inequívoco constrangimento ilegal”.
+    Requer, liminarmente, a concessão da ordem para revogar a prisão preventiva do paciente e, no mérito, a confirmação da medida.
+    Examinados os autos, decido.
+    No caso, a impetração volta-se contra decisão singular proferida nos autos do AREsp nº 1.521.534/MG. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, registro a decisão impugnada não evidencia ilegalidade flagrante a amparar a pretensão do impetrante.
+    Com efeito, não há ilegalidade da prisão por excesso de prazo, porque não houve comprovação de injustificada da mora processual, conforme destacou o Ministro Jorge Mussi. Vide:
+    “Com efeito, o fato de tratar-se de ação penal oriunda de duas operações policiais denominadas "Fênix" e "Zeus", nas quais se apuram a ocorrência de diversos crimes, envolvendo 35 acusados representados por advogados distintos, entre os quais, Delegados, Agentes e Investigadores da Polícia Civil, integrantes de uma suposta organização criminosa, são circunstâncias que certamente demandam maior tempo para se superar as etapas procedimentais e chegar à solução da causa.
+    Além disso, verifica-se que foram protocolados sucessivos pedidos de liberdade provisória em favor de diversos réus, bem como houve a necessidade de serem expedidas várias cartas precatórias. Soma-se a isso, o fato de que houve a declaração de suspeição pelo Juiz de Direito da 2ª Vara Criminal da Comarca de Uberlândia/MG, provocando o deslocamento da competência para o Juízo da 3ª Vara Criminal da da Comarca de Uberlândia, também em Minas Gerais.
+    Diante de tais circunstâncias, ainda que se possa vislumbrar certa delonga na conclusão da instrução, é forçoso reconhecer que não há notícias de morosidade ou retardo excessivo (desnecessário) na implementação dos atos processuais, tampouco desídia ou inércia por parte das autoridades judiciárias.
+    Não cabe, portanto, neste momento processual, falar em excesso de prazo para a formação da culpa, vez que o eventual alongamento justifica-se com base nas especificidades do processo, sendo inviável a soltura do agravado por esse fundamento, especialmente em se considerando que está sendo acusado de crimes graves, cujas penas mínimas em abstrato são elevadas.
+    (…)
+    Assim, não há razões para manter o acórdão do TJMG que revogou a custódia cautelar do agravado, pela não configuração do excesso de prazo para formação da culpa” (doc. 12).
+    Essa compreensão não afronta a jurisprudência da Corte, consolidada no sentido de que “[n]ão caracteriza constrangimento ilegal o excesso de prazo que não decorra de inércia ou desídia do Poder Judiciário.” (HC nº 91.480/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 30/11/07)
+    Lado outro, quanto à alegada falta de fundamentação do decreto de prisão preventiva, a decisão recorrida não tratou do tema. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 121.512-AgR/SP, Primeira Turma, DJe de 4/6/14, e HC nº 113.172/SP, Primeira Turma, DJe de 17/4/13, ambos de minha relatoria; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 16 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
