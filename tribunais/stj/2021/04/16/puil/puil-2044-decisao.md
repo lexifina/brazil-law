@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se depedido de uniformização de interpretação de lei apresentado pelo Município de Colombocontra acórdão da 4ª Turma Recursal dos Juizados Especiaisdo Estado doParaná.
+O requerente aduz divergênciacomdecisão proferida pela Turma Recursal do Juizado da Fazenda Pública do Estado do Rio Grande do Sul. Assevera que "a parte recorrida não comprovou ser a mão de obra sua, mas sim de ter se utilizado de um construtor para levar a cabo seu intento, que é a construção".
+Impugnação apresentada.
+É o relatório.
+O art. 18, § 3º, da Lei n. 12.153/2009 admite a possibilidade de pedido de uniformização de jurisprudência perante o STJ, quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+No caso, o Colegiado de origem entendeu, resumidamente:
+RECURSOINOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA JURÍDICA TRIBUTÁRIAC/C REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA RECURSAL DA PARTE RÉ. FAZENDA PÚBLICA. MUNICÍPIO DE COLOMBO/PR. COBRANÇA DE ISSQN. INCORPORAÇÃO IMOBILIÁRIA DIRETA. CONSTRUÇÃO FEITA PELO INCORPORADOR EM TERRENO PRÓPRIO, POR SUA CONTA E RISCO. PARTE RÉ QUE NÃO LOGROU ÊXITO EM COMPROVAR A EXISTÊNCIA DE NEGÓCIO JURÍDICO ENTRE O SUPOSTO TOMADOR E O PRESTADOR DO SERVIÇO. ÔNUS PROBATÓRIO QUE RECAI SOBRE O FISCO. ARTIGO 373, II, DO CPC. CONDIÇÃO DE TOMADOR DE SERVIÇOS PELO INCORPORADOR NÃO DEMONSTRADA. AUSÊNCIA DE FATO GERADOR DO TRIBUTO. PRECEDENTES DO STJ: REsp n.º 1295814/MS, REsp n.º 1012552/RS. PRECEDENTES DESTA TURMA RECURSAL: 0000108-57.2019.8.16.0029, 0041619-95.2018.8.16.0182, 0040030-68.2018.8.16.0182. INEXIGIBILIDADE DO TRIBUTO RECONHECIDA. PAGAMENTO POR PARTE DA RECORRIDA. DANO MATERIAL COMPROVADO. RESTITUIÇÃO DEVIDA. SENTENÇA DE PROCEDÊNCIA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. APLICAÇÃO DO ART. 46 DA LEI 9.099/95. RECURSO CONHECIDO E DESPROVIDO.
+A questão controvertida, como se observa, não é de direito material, mas sim sobre o ônus da prova na ação ordinária (exclusivamente processual), a afastar o cabimento do presente incidente.
+No ponto:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI.HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. QUESTÃO DE DIREITO PROCESSUAL. EXAME. DESCABIMENTO.
+1. "Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça" (AgInt no PUIL 1.774/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 24/11/2020).
+2. Caso concreto em que a controvérsia acerca do eventual desacerto da Turma recursal em promover a redução dos honorários advocatícios - seja porque não se trata de valor excessivamente arbitrado ou, ainda, seja em razão de que referida questão já estaria preclusa - é matéria exclusivamente de natureza processual, o que inviabiliza o manejo do pedido de uniformização.
+3. Especificamente no que tange à alegada divergência quanto à fixação dos valores devidos à requerente, melhor sorte não lhe assiste, haja vista que não indicou qual o enunciado sumular deste Superior Tribunal teria sido supostamente contrariado pela Turma Recursal, o que atrai, por analogia, o óbice a Súmula 284/STF.
+4. De toda sorte, "faz-se necessário reconhecer a inadmissibilidade do pedido aqui deduzido, porque de cunho eminentemente processual, qual seja, possível desproporcionalidade na condenação dos honorários advocatícios" (AgInt no PUIL 52/RO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 30/4/2018).
+5. Agravo interno não provido.
+(AgInt no PUIL 1.850/PE, Rel. Min. SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 2/3/2021, DJe 9/3/2021.)
+Ante o exposto, indefiro o processamento do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
