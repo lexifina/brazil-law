@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão agravada que não autorizou a suspensão da CNH do devedor, anotações junto à Polícia Federal para restrição de saída do país, nem o impedimento de acesso à linhas de crédito em instituições financeiras, pois isto seria inconstitucional, na medida que restringe o direito de liberdade da pessoa. Inconformismo do exequente. Pretensão de reforma da decisão. Pedido de efeito antecipatório recursal, cuja apreciação se dá, neste momento, diretamente pelo colegiado desta câmara julgadora (arts. 129 e 168, § 2º do RITJSP). Sem razão. O magistrado pode impor medidas visando celeridade e efetividade da prestação jurisdicional (art. 139, inciso IV do CPC); todavia, estas devem ser ponderadas a fim de evitar providências inúteis à demanda. Por outro lado, a execução tem por finalidade promover atos de expropriação de bens dos devedores, para viabilizar a satisfação do crédito exequendo (artigo 789 do CPC), de modo que as medidas requeridas pelo exequente não lhe trarão proveito econômico. Efeito antecipatório recursal indeferido e, na sequência, já julgado o agravo, com a decisão recorrida ficando mantida. Recurso não provido.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    (...).
+    Trata-se de execução de título extrajudicial fundada em Termo de Acordo para pagamento de sobreestadia da containers, celebrado pela exequente e a executada MULTIFOOD TRADING LTDA, cujo valor da causa perfaz R$ 518.289,62 (abril de 2005).
+    Em que pesem os argumentos da agravante, razão não lhe assiste.
+    Certo é que o estatuto processual civil prevê:
+    Art. 139. O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: (...) IV - determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária;
+    Todavia, tais medidas devem ser ponderadas pelo MM. Juízo a quo, a fim de evitar providências inúteis à demanda.
+    Nos termos do artigo 789 do CPC, a execução tem por finalidade promover atos de expropriação de bens do devedor, para viabilizar a satisfação do crédito exequendo, de modo que as medidas, aqui pleiteadas pela exequente, não lhe trarão proveito econômico.
+    Assim, tem-se que o pedido é desarrazoado. Nesse sentido a jurisprudência:
+    (...).
+    Portanto, de rigor a manutenção da decisão agravada.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 16 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
