@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+Apelação e Reexame Necessário. Direito Administrativo. Parte autora que é esposa de Bombeiro Militar já falecido e, na qualidade de pensionista, pleiteia a continuidade de seu tratamento perante o sistema de saúde do CBMERJ. Demanda ajuizada perante a Justiça Federal, em face da União Federal e do Estado do Rio de Janeiro, tendo sido reconhecida a ilegitimidade passiva da União, declinando-se da competência para a Justiça Estadual sem que fosse interposta qualquer espécie de recurso por parte do Estado do Rio de Janeiro. Preclusão. Documentação acostada à exordial que atesta o vínculo do falecido marido da autora com o CBMERJ e a condição da demandante como pensionista do Estado.
+Comprovação acerca da contribuição para o Fundo de Saúde do Corpo de Bombeiros. Direito ao atendimento médico-hospitalar pleiteado.
+Sentença de procedência que se mantém por seus próprios fundamentos.
+Retificação de erro material, em sede de reexame necessário, quanto à base de cálculo da verba honorária, que foi equivocadamente fixada em 10% do valor da condenação. Hipótese em que não é possível mensurar o proveito econômico obtido, razão pela qual os honorários devem incidir sobre o valor da causa, na forma do artigo 85, §4º, III, do CPC/15. Recurso desprovido, retificando-se a sentença em reexame necessário para que a verba honorária de 10% incida sobre o valor da causa.
+Não foram opostos Embargos de Declaração.
+A parte recorrente alega que o art. 65, § 1º, da Lei 10.486/2002 foiviolado. Aduz:
+A ora Recorrida é pensionista de ex-servidor federal, bombeiro militar do antigo Distrito Federal.
+Em sendo assim, a ora Recorrida não mantém vinculo com o Estado do Rio de Janeiro ou qualquer órgão seu, em especial o Corpo de Bombeiros do Estado do Rio de Janeiro.
+Nestes termos, por certo que eventual pleito de manutenção de plano de saúde decorrente de vínculo estatutário apenas poderia ser voltado em face da União Federal, sendo improcedente a pretensão contra o Estado do Rio de Janeiro.
+(..)
+De fato, apenas na hipótese de ser conveniente ao Estado do Rio de Janeiro e ao seu corpo de bombeiros a celebração de convênio com a União é que o mesmo poderá ser celebrado, não podendo ser imputada ao Estado seja a obrigação de celebração de tal convênio, seja a assistência médico-hospital em caráter especial, além dos hospitais da rede pública de saúde, aos servidores da União.
+O Ministério Público emitiu parecer pelo não provimentodo Agravo pela incidência da Súmula 7/STJ.
+É o relatório.
+Decido.
+Ao decidir a controvérsia, o Tribunala quoconsignou (fls. 121-122):
+O recorrente alega que a autora não tem qualquer vínculo com a Corporação do Estado do RJ, razão pela qual a pretensão deve ser dirigida à União Federal, pois a esta cabe, nos termos da Lei nº 10.486/2002, o oferecimento de assistência médica aos militares (e pensionistas) do antigo Distrito Federal, não tendo sido renovado o convênio que era mantido entre o Ministério da Fazenda e o Estado para tal fim.
+Contudo, não é isto que se verifica pela análise do conjunto probatório dos autos, pois a documentação que consta no index 11 permite verificar que o vínculo da demandante é com o Estado do Rio de Janeiro.
+Com efeito, a carteira funcional de fls.15, pertencente ao falecido marido da autora, foi expedida pelo Corpo de Bombeiros Militar do Estado do Rio de Janeiro, contendo inclusive o número de registro do servidor. O Título de Pensionistade fls.16, em nome da autora, foi expedido pelo IPERJ. Por fim, o comprovante de rendimentos de fls.17 foi expedido pelo Proderj.
+No ofício expedido pelo Ministério da Fazenda (fls.27, index 11), quando o processo ainda tramitava perante a Justiça Federal, há informação no sentido de que a autora não consta como pensionista da União e o nome de seu marido não consta nos bancos de dados do Ministério como integrante do grupo de militares que pertenciam ao Distrito Federal, conforme documentos emitidos pelo sistema SIAPE.
+Assim, com base na documentação acostada à exordial (carteira funcional expedida pelo CBMERJ, título de pensionista emitido pelo IPERJ e comprovante de pagamento emitido pelo PRODERJ), que atesta o vínculo da parte autora com o Estado do Rio de Janeiro, foi proferida decisão, pela Justiça Federal, que acolheu a preliminar de ilegitimidade passiva da União Federal, extinguindo o processo com relação a tal ente e, consequentemente, declinando da competência para a Justiça Estadual.
+Contra tal decisão, não foi interposta qualquer espécie recursal, conforme certificado às fls.68 (index 11). Assim, operou-se o fenômeno da preclusão, não havendo que se falar em responsabilidade da União Federal e nem tampouco em ilegitimidade passiva do Estado do Rio de Janeiro.
+Neste passo, comprovado o vínculo da autora com o Corpo de Bombeiros Militar do Estado do Rio de Janeiro, na qualidade de pensionista, impõe-se o reconhecimento do seu direito ao tratamento de saúde segundo o sistema daquela Corporação, conforme devidamente reconhecido pela sentença, que merece destaque quanto ao seguinte trecho:(..)
+É inviável analisar a tese defendida no Recurso Especial de que "a recorrida não mantém vinculo com o Estado do Rio de Janeiro ou qualquer órgão seu, em especial o Corpo de Bombeiros do Estado do Rio de Janeiro", pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário ao defendido pela parte agravante. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao Agravo.
+Publique-se.
+Intimem-se.
