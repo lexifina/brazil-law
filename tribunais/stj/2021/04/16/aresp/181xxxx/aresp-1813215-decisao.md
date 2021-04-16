@@ -1,0 +1,62 @@
+DECISÃO
+P. G. MENEZES LIMPEZA E CONSERVAÇÃO (MENEZES LIMPEZA). propôs ação de execução de título extrajudicialcontra TELEVISÃO CIDADE S.A.(TELEVISÃO),em razão do inadimplemento dos pagamentos das parcelas acordadas mediante instrumento particular de confissão de dívida.
+Em primeira instância, o pedido de gratuidade judiciária requerido por MENEZES LIMPEZA foi indeferido.
+Contra essa decisão, MENEZES LIMPEZA interpôs agravo de instrumento sustentando não dispor de condições econômico-financeiras para arcar com os custos da demanda(e-STJ, fls.2/11).
+O Tribunal fluminense negou provimento ao agravo de instrumento em acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO. Decisão indefere gratuidade de justiça à empresa autora. Ausência de prova da incapacidade econômica. Súmula 481, STJ"Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais". Os extratos bancários juntados aos autos demonstram alta movimentação financeira. Embora em alguns períodos a conta corrente aponte saldo negativo, o fato é que em outros momentos o saldo é positivo, na casa dos R$30.000,00 a R$50.000,00. Em razão disso, conclui-se que a agravante possuiu condições financeiras de arcar com as despesas processuais e honorários advocatícios. Mantida a decisão agravada. DESPROVIMENTO DO RECURSO (e-STJ, fl.31).
+Os embargos de declaração opostos por MENEZES LIMPEZA foram rejeitados (e-STJ, fls.51/53).
+Irresignada, MENEZES LIMPEZAinterpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 98 e1.022, parágrafo único, II, do NCPC, ao sustentar, em síntese,(1) a necessidade de retorno dos autos ao Tribunal estadual para que lá seja analisada a tese levantada nos embargos de declaração que opôs, a saber: omissão quanto à análise a dinâmica das atividade do recorrente, especialmente, sobre as movimentações existentes em suas contas bancárias, que se tivessem sido analisadas corretamente, constataria a hipossuficiência da recorrente;e,(2) que o acórdão objurgado reconheceu a situação de insolvência em que a recorrente se encontra, por oscilação dos saldos bancários em suas contas, entretanto,indeferiu a concessão dos benefícios da justiça gratuita(e-STJ, fls. 58/73).
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 85/86).
+O apelo nobre não foi admitido, em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 88/90).
+Nas razões do presente agravo em recurso especial, MENEZES LIMPEZA afirmou que não se aplica, ao caso, aSúmulanº7do STJ, tendo sido devidamente fundamentado o pleito da justiça gratuita, em razão daausência de recursos para o pagamento das custas(e-STJ, fls. 93/102).
+Foi apresentada contraminuta (e-STJ, fls. 111/117).
+Em atendimento ao art. 1.042, § 4º, do NCPC, o Tribunal de Justiça do Estado de São Paulo manteve a decisão agravada (e-STJ, fl.119).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não comporta acolhimento, na parte conhecida.
+(1) Da alegada omissão no acórdão objurgado
+Nas razões do seu recurso, MENEZES LIMPEZAalegou a violação dos arts. 1.022, parágrafo único, II, do NCPC, em razão da omissãoquanto à análise a dinâmica das atividade do recorrente, especialmente, sobre as movimentações existentes em suas contas bancárias, que se tivessem sido analisadas corretamente, constataria a hipossuficiência da recorrente.
+Contudo, verifica-se que o TJRJse pronunciou sobre os temas consignando o seguinte, confira-se:
+A mera declaração de hipossuficiência não é suficiente para concessão de gratuidade da justiça à pessoa jurídica. O art.99, §3º, do CPC/2015, prevê que "Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+No caso de pessoa jurídica, com ou sem fins lucrativos, necessária a comprovação da hipossuficiência, não bastando a mera declaração de miserabilidade. Segue entendimento sumulado: Súmula nº 481, STJ: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+A empresa agravante não se desincumbiu do ônus de demonstrar sua incapacidade econômica, de forma a justificar a concessão do benefício da gratuidade de justiça ou mesmo o recolhimento ao final doprocesso. Sem a demonstração da hipossuficiência, não há como conceder a gratuidade postulada nem autorizar o recolhimento ao final. Pelo contrário, os extratos bancários juntados aos autos demonstram alta movimentação financeira. Embora em alguns períodos a conta corrente aponte saldo negativo, o fato é que em outros momentos o saldo é positivo, na casa dos R$30.000,00 a R$50.000,00. Logo, não é crível a alegação de hipossuficiência para adiantamento das despesas processuais( e-STJ,fls.32/33).
+Assim, inexistem ovícioelencadono art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE. SEGURADORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRINCÍPIO DO CONTRADITÓRIO. VIOLAÇÃO. NÃO OCORRÊNCIA. DECISÃO EXTRA PETITA NÃO VERIFICADA. FUNDAMENTO SUFICIENTE NÃO REFUTADO. INDENIZAÇÃO POR DANOS MORAIS. EXCLUSÃO EXPRESSA DA APÓLICE. SÚMULAS N. 5 E 7 DO STJ. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Inexiste afronta aos arts. 141, 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, dentro dos limites da controvérsia, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+8. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.527.214/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 16/11/2020, DJe 20/11/2020 - sem destaques no original)
+Afasta-se, portanto, a alegada violação.
+(2) Da incidência da Súmula nº 7 do STJ
+MENEZES LIMPEZA alegou a violação do art.98 do NCPC, sustentando que o acórdão objurgado reconheceu a situação de insolvência em que a recorrente se encontra, por oscilação dos saldos bancários em suas contas, entretanto, indeferiu a concessão dos benefícios da justiça gratuita.
+O Tribunal de Justiça do Estado do Rio de Janeiro, soberano na análise do conteúdo fático-probatório, asseverou que não foi demonstrada a suscitada hipossuficiência,como se pode ver dos trechos extraídos do acórdão impugnado, transcritos no tópico nº 1 desta decisão.
+Dessa forma, para adotar conclusão diversa da que chegou o Tribunal estadual no sentido de que MENEZES LIMPEZA faz jus a concessão dos benefícios da gratuidade judiciária,seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. PESSOA JURÍDICA.HIPOSSUFICIÊNCIA. NÃO COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+2. Na hipótese, rever as premissas adotadas pelo tribunal de origem, que, a partir das circunstâncias fático-probatórias dos autos, concluiu que a agravante não comprovou a impossibilidade de arcar com o pagamento das custas, despesas processuais e honorários advocatícios, encontra o óbice da Súmula nº 7/STJ.
+3. É ônus da pessoa jurídica comprovar os requisitos para a obtenção do benefício da assistência judiciária gratuita, mostrando-se irrelevante a finalidade lucrativa ou não da entidade requerente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.683.818/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 8/2/2021, DJe 12/2/2021 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA.INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO DA HIPOSSUFICIÊNCIA ECONÔMICA DA PESSOA JURÍDICA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL EM PARTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Nos termos da Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais". Além disso, é relativa a presunção decorrente da declaração de hipossuficiência econômica, sendo possível o indeferimento da gratuidade de justiça quando encontrados elementos que coloquem em dúvida a condição financeira da parte requerente. Precedentes.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. As instâncias ordinárias, com base no acervo fático-probatório dos autos, consideraram inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+5. Agravo interno provido, a fim de conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp 1.714.898/MG, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j.7/12/2020, DJe 1º/2/2021 - sem destaques no original)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL RECURSO ESPECIAL MANEJADOSOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INDEFERIMENTO DA JUSTIÇA GRATUITA. PESSOA JURÍDICA. VIOLAÇÃO DOART. 1.022, PARÁGRAFO ÚNICO, II,DO NCPC. INOCORRÊNCIA. REFORMA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO.RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
