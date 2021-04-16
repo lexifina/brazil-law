@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF 5ª Região, assim ementado (fl. 449):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO NÃOCONFIGURADO. HONORÁRIOS RECURSAIS.
+1. Trata-se de apelação interposta contra sentença que julgou improcedentes os embargos à execução. O INSS alega: 1) violação à coisa julgada, porque o cálculo do apelado não se encontra em conformidade com o título judicial ( ); 2) excesso de execução, porque foram computadas art. 475-G do CPC de 1973 parcelas posteriores ao óbito do autor.
+2. O Supremo Tribunal Federal já firmou o posicionamento de que a motivação referenciada "per relationem" não constitui negativa de prestação jurisdicional, tendo-se por cumprida a exigência constitucional da fundamentação das decisões judiciais ( HC 160088 AgR, Relator: Min. Celso de Mello, Segunda Turma, julgado em 29/03/2019, Processo Eletrônico DJe-072, Public 09-04-2019 e AI 855829 ), adota-se AgR, Relator: Min. Rosa Weber, Primeira Turma, julgado em 20/11/2012, Public 10-12-2012 como razões de decidir os termos da sentença.
+3. "Exsurge dos autos, como demonstrado pelo Contador do Juízo, após rigorosa apuração, que não assiste razão ao embargante. Perlustrando os autos principais, verifica-se que a questão do teto foi objeto de amplo debate por esse Juízo, que remeteu os autos ao Contador do Juízo, para a elaboração dos cálculos, consoante os parâmetros fixados na sentença e na decisão datada de 05/12/2014. Observe-se que a decisão foi objeto de agravo, o qual não foi conhecido, diante da ausência de certidão de intimação, conforme narrou o próprio embargante. Destarte, pretende o INSS modificar o julgado, em momento processual inadequado. " 4. Apelação improvida.
+5. Honorários advocatícios fixados na sentença no percentual de 5% ( ) sobre a diferença cinco por cento apurada entre os valores oferecidos à execução e o montante final apurado como devido, majorados para o percentual de 7% ( ), a título de honorários recursais ( ). sete por cento art. 85, § 11, do CPC.
+Embargos de declaração rejeitados.
+O recorrente alega ofensa aos artigos 463, 474 e 475-G do CPC/1973 (artigos 494, 508 e 509, §4º do CPC/2015. Defende, em síntese, que "A execução, nos termos em que pretende o apelado, está a fazer o que o código veda expressamente, ou seja, modificando o título executivo em fase de cumprimento, determinandonovos cálculos com base em fundamento diverso do determinado na sentença originária.", além de quea execução não pode ser fixada nos valores apresentados pela parte autora, uma vez que haveria afronta a coisa julgada e ao interesse público, bem como enriquecimento sem causa por parte do autor e dano ao erário.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 533.
+É o relatório. Passo a decidir.
+No que diz respeito aos artigos mencionados (e a tese a eles vinculados), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO NÃO CONHECIDO.
