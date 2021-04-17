@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, assim ementado:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. RESPONSABILIDADE CIVIL. PARTIDO POLÍTICO. ILEGITIMIDADE PASSIVA DO DIRETÓRIO NACIONAL POR DÍVIDAS CONTRAÍDAS PELO DIRETÓRIO MUNICIPAL.
+    1. Ação ajuizada em 29/05/2014. Recurso especial concluso ao gabinete em 05/03/2018. Julgamento: CPC/2015.
+    2. O propósito recursal é definir acerca da responsabilidade do Diretório Nacional do Partido dos Trabalhadores por dívida contraída pelo Diretório Municipal do partido, a fim de concluir pela possibilidade de inclusão daquele no polo passivo do cumprimento de sentença de ação de cobrança em face deste proposta.
+    3. O art. 15-A da Lei 9.096/95 (Lei dos Partidos Políticos) prevê expressamente que a responsabilidade, inclusive civil e trabalhista, cabe exclusivamente ao órgão partidário municipal, estadual ou nacional que tiver dado causa ao não cumprimento da obrigação, à violação de direito, a dano a outrem ou a qualquer ato ilícito, excluída a solidariedade de outros órgãos de direção partidária.
+    4. A corroborar com o disposto no mencionado dispositivo legal, tem-se que o art. 655, § 4º, do CPC/73 (atual art. 854, § 9º, do CPC/2015) preceitua que, quando se tratar de execução movida em face de partido político, cabe a constrição de bens tão somente do órgão partidário que tenha contraído a dívida executada ou que tenha dado causa à violação de direito ou ao dano.
+    5. Destarte, reconhecida a ausência de solidariedade entre o Diretório Nacional e o Diretório Municipal do partido, não pode aquele figurar no polo passivo do cumprimento de sentença, sendo de rigor, também, o afastamento das constrições incidentes sobre numerários em sua conta corrente.
+    6. Recurso especial conhecido e provido.”
+    Sustenta a recorrente violação do artigo 17, inciso I, da Constituição Federal. Pleiteia a reforma do acórdão recorrido para “manter a penhora on-line realizada em conta bancária do Diretório Nacional do Partido dos Trabalhadores”.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido os seguintes fundamentos:
+    “(…) verifica-se que a própria Lei dos Partidos Políticos (Lei 9.096/95) afasta a mencionada solidariedade ao dispor, em seu art. 15-A, que “A responsabilidade, inclusive civil e trabalhista, cabe exclusivamente ao órgão partidário municipal, estadual ou nacional que tiver dado causa ao não cumprimento da obrigação, à violação de direito, a dano a outrem ou a qualquer ato ilícito, excluída a solidariedade de outros órgãos de direção partidária”.
+    Não somente, vale lembrar que, a legislação processual civil, no capítulo que trata sobre a constrição de bens, traz também a previsão de que, quando se tratar de execução contra partido político, o juiz, a requerimento do exequente, requisitará à autoridade supervisora do sistema bancário, informações sobre a existência de ativos tão somente em nome do órgão partidário que tenha contraído a dívida executada ou que tenha dado causa a violação de direito ou ao dano, ao qual cabe exclusivamente a responsabilidade pelos atos praticados (art. 655, § 4º, do CPC/73).
+    Ressalte-se que mencionado dispositivo legal foi reproduzido pelo Novo CPC, em seu art. 854, § 9º, o que, de fato, leva a crer a intenção do legislador em separar as responsabilidades dos diversos entes partidários.
+    Por óbvio, não se descura que, quanto ao art. 15-A da Lei 9.096/95, pende de análise pelo Supremo Tribunal Federal uma ação declaratória de constitucionalidade (ADC 31), ajuizada propriamente por partidos políticos (dentre eles, o Partido dos Trabalhadores) com o objetivo de confirmar a validade constitucional do mencionado dispositivo legal.
+    Ocorre que, até o momento, não houve qualquer declaração de inconstitucionalidade do mencionado artigo, que, inclusive, revela redação harmônica e em consonância com dispositivo legal da atual legislação processual civil.
+    (…)
+    Destarte, reconhecida a ausência de solidariedade entre o recorrente e o recorrido, não pode aquele figurar no polo passivo do cumprimento de sentença, sendo de rigor, também, o afastamento das constrições incidentes sobre numerários em sua conta corrente.”
+    Desse modo, verifica-se que o Tribunal de origem decidiu a lide amparado na legislação infraconstitucional pertinente (Lei nº 9.096/95). Assim, a afronta ao dispositivo constitucional suscitado no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Nesse sentido, anote-se o seguinte julgado que trata especificamente do tema em questão:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – ADEQUAÇÃO. O recurso extraordinário não é meio próprio ao revolvimento da prova nem serve à interpretação de normas legais” (ARE nº 1.294.259/SP-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 23/03/2021).
+    Nesse mesmo sentido, transcrevo, por oportuno, o seguinte trecho da decisão proferida pelo Ministro Edson Fachin, em caso análogo ao presente, nos autos do RE nº 1.179.210/SP (DJe de 22/10/2019), que também trata do tema ora em análise:
+    “Na espécie, verifica-se que o Tribunal de origem apreciou a matéria mediante aplicação legislação infraconstitucional pertinente, demonstrando que mesmo antes da vigência do art. 15-A da Lei 9.096/95, alterado pelas Leis 11.694/2008 e 12.034/09, “a jurisprudência já havia consagrado a independência entre os órgãos dos partidos políticos quanto à responsabilidade civil.” (eDOC 5, p. 230)
+    Desse modo, a discussão referente à existência de solidariedade entre as esferas partidárias municipal, estadual e nacional revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.”
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 17 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
