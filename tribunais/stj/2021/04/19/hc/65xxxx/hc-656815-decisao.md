@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de WOLMY BARBOSA DE FREITAS, em causa própria, contra as ações originárias n.55304-14.2018.8.09.0038 e 11787-22.2019.8.09.0038 eacórdão do Tribunal de Justiça do Estado do Goiásproferido no HC n. 5156132.13.2019.8.09.0000.
+Narra o Impetrante/Paciente que "foi Denunciado pelo representante do Ministério Público ao juízo de Direito da Comarca de Crixás-GO, com arrimo nas disposições tipificadas nos arts. 138, 139, 140 e 339, todos do Código Penal" (fl. 3, sic). Explicita que " f oram apresentadas duas denúncias contra o paciente, uma sob o nº 201700437227, com tipificação no art. 19 da Lei nº 8.429/92e outra sob o nº 201900036133, com tipificação nos arts. 138, 139, 140 e 339, CP, sobre o mesmo fato, dando instauração de duas Ações Penais consecutivas (doc n.13 anexo)" (fl. 4).
+Nas razões do presente writ, a parteImpetrante argumenta a "viabilidade da impetração decorre da excepcionalidade da situação deparada, posto o evidente fato de que de nenhuma tipificação criminal resultou perpetrada pelo Paciente, conforme inúmeros despachos díspares e sentença que acolheu pedido em processo análogo sob o n. 201501170397  .. " (ibidem).
+Alega aatipicidade das supostas condutas delituosas.Sustenta que "não restou comprovado em nenhum momento que o Paciente estava ciente da suposta falsidade dos fatos narrados, razão pela qual, é evidente que faltou no presente caso o elemento subjetivo, indispensável à configuração do crime de denunciação caluniosa" (fl. 15).
+Aponta, ainda, incompetência do Juízo de origem para julgas as ações penais.
+Dessa forma, requer a "concessão da presente ordem de habeas corpus, a fim de trancar as Ações Penais n. 201800553042 e 201900117872, inicialmente propostas na Comarca de atuação da suposta vítima (Crixás-GO), e posteriormente remetidas para Vara Criminal da Comarca de Santa Terezinha-GO, ambas incompetentes para processamento do feito, conforme o critério da conexão, nos termos do art.76, III, CPP" (fl. 18).
+É o relatório.
+Decido.
+Registre-se que apesar de citar oacórdão do Tribunal de Justiça do Estado do Goiás proferido no HC n. 5156132.13.2019.8.09.0000, observa-se que o Impetrante/Pacientese insurgecontra atos supostamente praticado pelo recebimento das denúncias nas Ações Penais n.55304-14.2018.8.09.0038 e n.11787-22.2019.8.09.0038
+Nesse contexto, está evidenciada a incompetência deste Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do que dispõe o art. 105, inciso I, alíneac, da Constituição da República, na medida em que o ato apontado como coator foi praticado por Juiz de Direito e não pelo Tribunala quo.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO PROLATADA POR MAGISTRADO DE PRIMEIRO GRAU. COMPETÊNCIA PARA JULGAMENTO ATRAÍDA PELO TRIBUNAL DE JUSTIÇA LOCAL. SUPRESSÃO DE INSTÂNCIA.
+1. No sistema constitucional vigente,figurando como autoridade coatora magistrado de piso, a competência para o julgamento dohabeas corpusé atraída pela Corte estadual a que ele esteja vinculado.
+2. A questão de fundo não pode ser analisada pelo Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente ainda não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por esta Superior Corte de Justiça, sob pena de indevida supressão de instância.
+3.O art. 105, I, "c", da Magna Carta dispõe que compete a esta Corte processar e julgarhabeas corpusquando o coator for tribunal sujeito à sua jurisdição. Contudo, não constam dos autos elementos que demonstrem a existência de decisão ou acórdão do Tribunala quoapreciando a questão objeto destewrit.
+4. Agravo regimental a que se nega provimento." (AgRg no HC 509.664/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/06/2019, DJe 14/06/2019; sem grifos no original.)
+No mais,cabe salientar que esta Corte de Justiça, no julgamento do HC n.511.664/GO, já analisouoacórdão do HC n. 5156132.13.2019.8.09.0000 proferido peloTribunal de Justiça do Estado do Goiás.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.IMPETRAÇÃO CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL PARA APRECIAR E JULGAR ORIGINARIAMENTE A CAUSA.PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
