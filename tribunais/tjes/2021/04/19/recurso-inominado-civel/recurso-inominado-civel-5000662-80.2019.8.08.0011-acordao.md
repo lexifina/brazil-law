@@ -1,0 +1,44 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000662-80.2019.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: SILVANA DALFIOR DALCIN LACERDA
+RELATOR(A
+):FABIO PRETTI
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Embargos de Declaração nos autos n° 5000662-80.2019.8.08.0011
+
+Recorrente/Embargante: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+
+Recorrido/Embargado: SILVANA DALFIOR DALCIN LACERDA
+
+VOTO
+
+DR. FABIO PRETTI – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: EMBARGOS DE DECLARAÇÃO. ACÓRDÃO. OMISSÃO NÃO VERIFICADA. INCONFORMISMO. ADEQUADO ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO SUBSIDIÁRIA DO CPC QUE PRESSUPÕE OMISSÃO NA LEI DOS JUIZADOS ESPECIAIS. VALOR DA CAUSA PREVISTO EXPRESSAMENTE COMO PARÂMETRO PARA FIXAÇÃO DAS VERBAS DE SUCUMBÊNCIA QUANDO INEXISTENTE CONDENAÇÃO PECUNIÁRIA. INTELIGÊNCIA DO ART. 55 DA LEI 9099/95. HONORÁRIOS SUCUMBENCIAIS COM BASE NO PROVEITO ECONÔMICO OBTIDO PELA PARTE. IMPOSSIBILIDADE. RECURSO CONHECIDO, MAS NÃO PROVIDO.
+
+É como voto.
+
+FABIO PRETTI
+
+Relator
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
