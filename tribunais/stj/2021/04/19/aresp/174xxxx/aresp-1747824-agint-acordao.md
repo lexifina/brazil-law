@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃOAGRAVO INTERNO. REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. A revisão do valor da indenização não se revela de plano desarrazoada, não havendo comose analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Joel Antônio da Silva contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+O agravante aduz não ser caso de aplicação da Súmula 7/STJ, porquanto não se faz necessário o reexame probatório para majorar o valor da indenização fixada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃOAGRAVO INTERNO. REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. A revisão do valor da indenização não se revela de plano desarrazoada, não havendo comose analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+A decisão da Presidência foi assim redigida:
+Cuida-se de agravo apresentado por JOEL ANTONIO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+INDENIZAÇÃO POR ACIDENTE DO TRABALHO MOTORISTA DE PREFEITURA QUE PERDEU A VISÃO BILATERAL EM PROCEDIMENTO DE LAVAGEM DE SEU VEÍCULO DE TRABALHO POR CONTATO DE SUBSTÂNCIA QUÍMICA NOS OLHOS APOSENTADORIA POR INVALIDEZ PERMANENTE DANO MORAL CONFIGURADO DANO ESTÉTICO ABRANGIDO PELA INDENIZAÇÃO DEVIDA CIRCUNSTÂNCIAS DE DEPENDÊNCIA DE TERCEIROS ENQUANTO VIVER QUE JUSTIFICA ELEVAÇÃO DO VALOR DA INDENIZAÇÃO HONORÁRIOS CONTRATUAIS QUE NÃO COMPORTAM RESSARCIMENTO SENTENÇA DE PROCEDÊNCIA PARCIAL CONFIRMADA RECURSO DO AUTOR PROVIDO EM PARTE PARA ELEVAÇÃO DA INDENIZAÇÃO DO DANO MORAL
+Quanto à controvérsia, alega violação dos arts. 944, caput e parágrafo único, e 950 do CC, no que concerne ao valor fixado a título de dano moral e estético, trazendo o(s) seguinte(s) argumento(s):
+Não resta dúvida que a perda da visão do Recorrente levou ao dano moral e estético considerando não somente os documentos levados ao feito como a revelia existente, além do que, levou o Recorrente a viver novamente nas trevas, não do conhecimento claro, mas da luz.
+ ..  Tal situação foi tirada do Recorrente pelo Recorrido, tornando- absolutamente dependente de terceiros e a lhe exigir um novo conceito de vida e práticas novas para relacionar-se consigo mesmo e com o meio.
+A situação impingida pelo Recorrido ao Recorrente não se altera mais, tornou-se imodificável e as trevas levadas devem ser reparadas deforma eficiente, digna, justa, correta permitindo ao menos a possibilidade de compensação de forma financeira e considerando que materialmente não se retorna ao estado anterior.
+Nessa linha entende o Recorrente que os valores arbitrados a título de indenização por dano moral, estético ou qualquer outro nome que se possa dar não é proporcional ao dano causado que lhe levou a cegueira e assim nos termos do Código Civil a indenização correspondente e arbitrada pelos Juízos anteriores não mediu adequadamente a extensão do dano, diante da desproporcionalidade, ofendendo ao artigo 944.
+Considerando também o parágrafo único do artigo 944 que permite ao juiz reduzir equitativamente valores indenizatórios se houver excessiva desproporção entre a gravidade da culpa e o dano e interpretando-o de forma contrária como permite a legislação e as técnicas interpretativa, fácil observar e sentir no presente caso ocorreu justamente situação inversa, qual seja, a desproporção do dano e indenização encontram-se muito distantes e considerando a gravidade do resultado e omissão do Recorrido na prática da segurança, necessário adequar por aplicação do princípio da razoabilidade os valores indenizatórios, majorando-os no mínimo ao dobro, novamente.
+Por fim demonstra ainda o Recorrente a aplicação por analogia do artigo 950 parte final do Código Civil Brasileiro que ofendido foi aos "olhos" do Recorrente na medida em que constou dos autos que a ofensa resultou em efetivo defeito físico (perda da visão e alteração estética) portanto depreciando para os regulares atos de sua vida e manifestações, merecendo reparos pois o julgado colegiado (fls.101/102).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A procedência da ação foi bem reconhecida e a indenização correspondente é devida, não resta dúvida sobre isso. Todavia, e para evitar bis in idem, não se cumula uma indenização por perda de visão com outra por dano moral;mesmo porque o dano moral ( in re ipsa ) resulta da própria perda da visão.
+Possível cumular o dano moral com dano estético, prova de relativa e fácil constatação até por ilustração fotográfica, mas o juiz afastou essa pretensão; portanto, o alegado dano estético fica abrangido pela indenização fixada.
+Subsiste a indenização do dano moral resultante da perda bilateral da visão, situação que compromete para sempre a qualidade de vida do apelante, que atuava como motorista e se viu aposentado por invalidez permanente.
+A indenização arbitrada na sentença, de R$ 50 mil, pode ser elevada ao dobro, R$ 100 mil, valor que não é exagerado, atende princípios de proporcionalidade e de razoabilidade, pois o autor, enquanto viver, além de não poder trabalhar em serviço que não prescinda da visão, dependerá dos cuidados alheios, da mulher e/ou filhos, para as necessidades básicas do cotidiano (fls. 86).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.) Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020;
+AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Não se mostra cabível, nesta via, perquirir acerca da razoabilidade da condenação determinada na origem devido ao óbice constante da Súmula 7/STJ, mormente quando não desbordam dos lindes de razoabilidadeOs fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+Recurso especial.
+Não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido. Inviável é ter como ocorridos fatos cuja existência o acórdão negou ou negar fatos que se tiveram como verificados. (AgRg nos EREsp 134.108/DF, Rel. Min.EDUARDO RIBEIRO, CORTE ESPECIAL, julgado em 2/6/1999, DJ 16/8/1999, p. 36).
+PROCESSUAL CIVIL E ADMINISTRATIVO. REGISTRO NO CRQ. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INVIABILIDADE DE UTILIZAÇÃO COMO VIA RECURSAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO DEMONSTRADA. EXISTÊNCIA DE MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF, APLICÁVEIS POR ANALOGIA. VERIFICAÇÃO DA OCORRÊNCIA DE FATO GERADOR. AFERIÇÃO DA ATIVIDADE PREPONDERANTE DE SOCIEDADE EMPRESÁRIA. SÚMULAS 5 E 7 DO STJ.
+ ..
+4. O Tribunal de origem entendeu, à luz do contrato social e das provas dos autos, que as indústrias vinícolas e os associados representados pelo SINDUSVINHO possuem, como objetos sociais, produção, engarrafamento e comercialização de vinhos, ou seja, atividades não inerentes à química, o que afastaria a obrigatoriedade de registro no Conselho Regional de Química. Insuscetível de revisão o referido entendimento, por demandar interpretação de cláusulas contratuais e reexame do conjunto fático-probatório, atraindo a aplicação das Súmulas 5 e 7 do STJ.
+Agravo regimental improvido.(AgRg nos EDcl no REsp 1.425.008/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/11/2014, DJe 14/11/2014).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
