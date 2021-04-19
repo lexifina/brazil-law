@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de EDUARDO CALIU DA SILVA VIEIRA, contra decisão do relator, que indeferiu a medida liminar na origem.
+Consta dos autos que o paciente teve a prisãopreventiva decretada pela suposta prática do delito tipificado no art.121, § 2º, III, e VII, c/c o art. 14, II, ambos do Código Penal.
+A impetrante sustenta, em síntese,que: a) é necessária a extensão dos efeitos de liminar concedida na origem a corréu, "uma vez que os pacientes foram denunciados e pronunciados pelomesmo fato criminoso, deve-se aplicar o artigo 580 do Código de Processo Penal" (e-STJ, fl. 5); b)"a sessão no Plenário do Túri ainda não foi marcada,tampouco tem previsão de ser agendada devido ao fato do Estado de São Pauloestar na Fase Vermelha, tendo em vista a pandemia de COVID 19" (e-STJ, fl. 5); c)"opaciente possui emprego e residência fixa e está presopreventivamente há mais de 01 ano e 05 meses por conta de uma ação penal quenão trata de fato de alto grau de complexidade" (e-STJ, fl. 7); d)"o paciente não traz perigo àordem pública, ordem econômica, não irá prejudicar a aplicação da lei penal,entre outras hipóteses previstas no artigo 312, do CPP, que no presente caso,estão plenamente garantidas" (e-STJ, fl. 7).
+Pleiteia a revogaçãoda prisão preventiva imposta ao paciente.
+É o relatório.
+Esta Corte possui entendimento pacificado no sentido de que não cabehabeas corpuscontra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. INDEFERIMENTO DE PEDIDO LIMINAR NA ORIGEM. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. EXECUÇÃO PROVISÓRIA. PENA PRIVATIVA DE LIBERDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Não se admite, em princípio, a impetração dehabeas corpuscontra decisão que indefere pedido liminar emwritimpetrado na origem, sob pena de se configurar indevida supressão de instância (Súmula n. 691 do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+III -In casu, o impetrante se insurge contra a determinação de execução provisória da pena privativa de liberdade, após esgotadas as instâncias ordinárias. Não se verifica, portanto, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido"
+(AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018).
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU PEDIDO LIMINAR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ÓBICE DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática que se ampara no art. 932, III, do Código de Processo Civil de 2015 (aplicável ao caso, por força do disposto no art. 3º do Código de Processo Penal) e no art. 210 do Regimento Interno deste Superior Tribunal.
+2. Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+3. A leitura da decisão monocrática impugnada na inicial (sentença condenatória) não evidencia, de pronto, a presença de alguma excepcionalidade, de flagrante ilegalidade ou de abuso de poder que justifique o afastamento da orientação contida na referida súmula.
+Isso porque o Juiz sentenciante afirmou ser o acusado possuidor de maus antecedentes e reincidente específico, razões pelas quais afastou a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, fixou o regime inicial fechado e negou o direito de recorrer em liberdade (para o fim de garantir-se a ordem pública).
+4. Agravo regimental não provido"
+(AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+Na hipótese, assim fundamentou o Desembargador Relator, ao indeferir a liminar requerida pelaimpetrante:
+"Aantecipação do mérito no habeas corpus exige que a ilegalidade do ato impugnado seja flagrante, o que não sucede na hipótese dos autos.
+O paciente foi preso e está sendo processado como incurso no art. 121, § 2º, incisos III e VII, combinado com o artigo 14, inciso II, ambos do Código Penal.
+Em que pesem as alegações da d. Defesa, a legalidade da prisão já foi analisada por esta C. Turma Julgadora em impetração formulada recentemente autos nº 2069662-22.2020, de modo que não verifico, nesta análise sumária, flagrante ilegalidade a ensejar a revogação de decreto de prisão.
+A questão do excesso de prazo na formação da culpa, por sua vez, exige uma análise mais acurada perante a autoridade coatora, e no caso dos autos, analisando-se a documentação acostada, não se vislumbra flagrante ilegalidade passiveis de correção em sede liminar.
+Por fim, quanto ao pedido de extensão dos efeitos da decisão que concedeu a liberdade provisória ao corréu George, Reis dos Santos, verifica-se que este se encontrava segregado cautelarmente há mais de quatro anos, ou seja, não há, ao menos nesta fase sumária, identidades de situações entre este e o paciente.
+Portanto, fica indeferia a tutela de urgência." (e-STJ, fls. 16-17)
+No caso em tela, verifica-se que não houve ilegalidade capaz de autorizar a mitigação do Enunciado Sumular n. 691/STF, na medida em que não há a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte.
+Ante o exposto,indefiro liminarmenteohabeas corpus.
+Publique-se. Intime-se.
