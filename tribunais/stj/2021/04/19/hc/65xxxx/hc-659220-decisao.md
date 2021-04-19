@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO FRANCISCO DA SILVA ou LEANDRO FRANCISCO DA SIVLA, contra despacho proferido pelo Desembargador Relator da Apelação Criminal n. 1500058-12.2020.8.26.0556, em trâmite noTribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Paciente, no dia 13/01/2021,foi condenado em primeiro grau de jurisdição como incurso no art. 155, caput, do Código Penal, à pena reclusiva de 1 (um) ano e 2 (dois) meses, no regime inicial fechado, e ao pagamento de 11 (onze) dias-multa.
+O Sentenciado interpôs recurso de apelação, o qual se encontra pendente de julgamento pelo Tribunal estadual. A Defesa, então, atravessou pedido de extinção da punibilidade, em razão do integral cumprimento da pena, perante a Corte a quo. O Desembargador Relator, todavia, não examinou o pleito. Na oportunidade, determinou a remessa do feito "à mesa para julgamento" (fl. 286).
+Daí o presente habeas corpus, em que a Parte Impetrante aduz o constrangimento ilegal sofrido pelo Paciente, "diante do flagrante absurdo decorrente do fato de que, preso preventivamente, cumpriu integralmente no regime fechado a pena que lhe fora imposta" (fl. 4).
+Requer, liminarmente e no mérito, seja declarada a extinção da punibilidade.
+É o relatório.
+Decido.
+Como se vê do relatório, a pretensão de extinção da punibilidade pelo cumprimento integral da pena não foi apreciada pela Corte a quo. Tal situação, ao contrário do alegado pela Defesa, não está eivada de flagrante ilegalidade, uma vez que compete ao Juízo das Execuções Penais decidir sobre a questão, porquanto, tal qual ressaltado pelo Desembargador Relator, aquele Magistrado "terá mais condições para avaliar, com exatidão, a situação do acusado e eventuais incidentes de execução" (fl. 286), mormente diante da circunstância consignada na sentença condenatória de que o Paciente "praticou o crime  em 17/01/2020  quando estava foragido do sistema carcerário havia mais de 2 anos" (fl. 226).
+Dessa forma, ausentes a manifestação prévia pelo Juízo competente sobre a matéria e a demonstração inequívoca do atual estágio da unificação da pena, não está evidenciado a ilegalidade patente apta à concessão da ordem de ofício pelo Superior Tribunal de Justiça.
+Ante o exposto, INDEFIRO LIMINARMENTE o habeas corpus. DETERMINO a remessa da cópia da presente impetração ao Juízo de primeiro grau para examinar, com urgência, o direito ora invocado.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. FURTO. PLEITO DE EXTINÇÃO DA PUNIBILIDADE. QUESTÃO NÃO EXAMINADA PELAS INSTÂNCIAS ORDINÁRIAS. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. NÃO DEMONSTRAÇÃO DA FLAGRANTE ILEGALIDADE APTA À CONCESSÃO DA ORDEM DE OFÍCIO. WRIT INDEFERIDO LIMINARMENTE. DETERMINADA A REMESSA DE CÓPIA DA IMPETRAÇÃO PARA APRECIAÇÃO, COM URGÊNCIA, PELO JUÍZO DE PRIMEIRO GRAU, DO DIREITO INVOCADO.
