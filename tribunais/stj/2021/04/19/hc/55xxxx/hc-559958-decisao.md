@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANTONIO CARLOS DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0010796-82.2018.8.24.0064).
+O paciente foi condenado às penas de 5 anos de reclusão em regime fechado e de 500 dias-multa, pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O impetrante alega constrangimento ilegal ao se determinar o início da execução provisória da pena do paciente antes do trânsito em julgado.
+Afirma que a determinação de imediata prisão é contrária ao entendimento do Supremo Tribunal Federal adotado no julgamento das ADCs n. 43, 44 e 54, nas quais aquela Corte decidiu pela constitucionalidade do art. 283 do CPP.
+Requer, liminarmente e no mérito, seja suspensa a execução provisória da pena.
+O pedido de liminar foi deferido (fls. 95-96).
+O Juízo da 2ª Vara Criminal da Comarca de São José prestou informações às fls. 102-105, ocasião em que esclareceu que o acusado encontra-se preso preventivamente, razão de não ter sido posto em liberdade. Também constam informações do TJSC (fls. 113-224).
+O impetrante peticiona nos autos (fls. 106-107 e 236-245).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, mas pela concessão da ordem de ofício quanto à execução provisória da pena (fls. 228-232).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+Com o julgamento das Ações Diretas de Constitucionalidade n. 43, 44 e 54, em 7/11/2019, o Supremo Tribunal Federal adotou o entendimento, erga omnes e com efeito vinculante (art. 28, parágrafo único, da Lei n. 9.868/1999), de que a execução da pena privativa de liberdade só poderá ser iniciada após o trânsito em julgado da condenação.
+Ademais, consoante orientação do STF, que deu interpretação ao art. 283 do CPP, o início do cumprimento da pena só é possível após o esgotamento dos recursos previstos na legislação vigente, ressalvada a hipótese de decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 558.520/SP, relator Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJPE , Quinta Turma, DJe de 28/2/2020).
+No caso, o Tribunal de origem decidiu nestes termos: "Determina-se ao Juízo da Condenação, exaurida a possibilidade de interposição de recurso nesta Corte, que expeça os documentos necessários à execução imediata da pena imposta ao Acusado, caso isso ainda não tenha sido implementado, nos termos da orientação do Supremo Tribunal Federal (ARExtra 964246, Rel. Min. Teori Zavascki, j. 11.11.16; Ag. Reg. no HC 142.750, Rel. Min. Luiz Fux, j. 2.6.17; e HC 156.661, Rel. Min. Roberto Barroso, j. 9.5.18)" (fl. 87).
+Esse entendimento diverge, pois, da decisão do STF. Dessa forma, deve ser garantido ao acusado o direito de somente cumprir a pena que lhe imposta após o trânsito em julgado da condenação. Com a presente decisão, não se está decidindo sobre a prisão preventiva decretada na origem e que foi informada pelo Juízo da 2ª Vara Criminal da Comarca de São José.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para, confirmando a liminar anteriormente deferida, suspender a execução antecipada da pena, determinada pelo Tribunal de origem, salvo prisão por outro motivo.
+Publique-se. Intimem-se.
