@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado porNivea Pimentel Barcelloscom fundamentono art. 105, III,a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro,assim ementado (fl. 224):
+Ação de obrigação de fazer.
+Paciente portador de esclerose múltipla (CID 10: G35)
+Necessidade de fornecimento da medicação respectiva.
+Sentença de procedência.
+Apelações e remessa necessária.
+"Deriva-se dos mandamentos dos artigos 6º e 196 da Constituição Federal de 1988 e da Lei nº. 8080/90, a responsabilidade solidária da União, Estados e Municípios, garantindo o fundamental direito à saúde e consequente antecipação da respectiva tutela". (Súmula 65, TJRJ)
+Custas processuais e taxa judiciária.
+O Município, embora isento das custas processuais, nos exatos termos do artigo 17, IX, e §1º da Lei Estadual nº 3.350/99, não o é quanto à taxa judiciária, de índole e fato gerador diverso daquelas, nos termos do Enunciado nº 42 do FETJ, sobremodo porque somente faz jus ao benefício quando figurar como autor -- Enunciado nº 145 deste E. Tribunal de Justiça. Incidência da Súmula nº 45 do STJ.
+Honorários advocatícios.
+"A Defensoria Pública é órgão do Estado do Rio de Janeiro. Logo, a este não pode impor condenação nos honorários em favor daquele Centro de Estudos, conforme jurisprudência iterativa do STJ". - Súmulas 80 TJRJ e 421 do E. STJ. Sujeição tão somente do Município aos honorários advocatícios, cuja verba se reduz em atenção à Súmula 182 TJRJ.
+Multa diária.
+Delicada situação financeira do Estado que demanda a adoção de medidas coercitivas menos gravosas, mas que a um só tempo também atendam à urgência da hipótese - de tutela do direito à vida -, de modo a que se substitua a multa diária de cinco mil reais pelo sequestro da verba necessária à aquisição dos medicamentos (Enunciado 178 TJRJ). Recursos providos, confirmado no mais o julgado remetido.
+Opostos embargos declaratórios, foram rejeitados (fls. 259/264).
+A parte recorrente aponta violação ao art. 85, §2º, I a IV, do CPC/15. Sustenta, em síntese, que "o acórdão proferido modificou os honorários fixados, afastando os dispositivos legais que regem a matéria, além de ser fixada quantia que avilta a dignidade do exercício da assistência jurídica, razão pela qual deve ser revista" (fl. 281).
+O Ministério Público Federal opina pelo não conhecimento do recurso (fls. 397/400).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Observa-se que as razões de recurso especial contêm discussão acerca da fixação dos honorários advocatícios por equidade.
+Sobre o tema, a Corte Especial desteSuperior Tribunal de Justiça, na sessão de julgamento concluída em 4/12/2020, afetou a matéria ao rito dos repetitivos, nos seguintes termos:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-I C/C ART. 256-E DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/09/2016. ART. 85, § 8º, DO CPC. DEFINIÇÃO DO ALCANCE DO DISPOSITIVO NAS DEMANDAS EM QUE ELEVADOS O VALOR DA CAUSA OU O PROVEITO ECONÔMICO. MULTIPLICIDADE DE PROCESSOS. PARTICIPAÇÃO DE AMICI CURIAE. ART. 138 DO CPC. DESNECESSIDADE DE DETERMINAÇÃO DA SUSPENSÃO DOS PROCESSOS QUE VERSEM SOBRE A QUESTÃO. ART. 1.037, INC. II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.".
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016).
+3. Convite à Ordem dos Advogados do Brasil - OAB, à União, ao Colégio Nacional de Procuradorias-Gerais dos Estados e do Distrito Federal - CONPEG, ao Instituto Brasileiro de Direito Processual - IBDP, e à Associação Norte e Nordeste de Professores de Processo - ANNEP, para atuação como amici curiae.
+4. Afastada a determinação de suspensão nacional dos processos que versem sobre a matéria. 5. Acolhida a proposta de afetação do recurso especial como representativo da controvérsia, para que seja julgado na Corte Especial (afetação conjunta dos Recursos Especiais 1.850.512/SP e 1.877.883/SP)
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunala quo, a qual apenas se esgotará com a fixação da tese noTema n. 1.076/STJ,oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar oiterdelineado nos arts. 1.040 e 1.041 do CPC/2015.
+Por fim, no julgamento daQuestão de Ordem no REsp 1.653.884/PR, pela Primeira Turma deste Superior Tribunal de Justiça, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+Importante salientar que o retorno dos autos à origem, para aguardar o julgamento do recurso especial afetado, é medida que tem sido adotada em casos como o presente. Exemplificativamente, destacam-se as seguintes decisões singulares: REsp 1.917.899/RS, relator Ministro Luiz Felipe Salomão, DJE 18/2/2021; AREsp 1.759.474/SP, relator Ministro Marco Aurélio Bellizze, DJe 18/2/2021; REsp 1.911.859/DF, relatora Ministra Maria Isabel Gallotti, DJe 11/2/2021; REsp 1.912.455/SP, relator Ministro Og Fernandes, DJe 5/2/2021; AgInt no REsp 1.815.259/SP, relatora Ministra Assusete Magalhães, DJe 2/2/2021 e AgInt no AgInt no REsp 1.847.990/SP.
+ANTE O EXPOSTO, determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por esteSuperior Tribunal de Justiça sobre oTema 1.076.
+Publique-se.
