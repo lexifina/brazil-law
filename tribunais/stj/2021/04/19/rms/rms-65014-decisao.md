@@ -1,0 +1,51 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por Daniel Gomes Figueiredo e outro contra acórdão do Tribunal de Justiça do Estado da Bahiaassim ementado (e-STJ, fls. 169-170):
+MANDADO DE SEGURANÇA - PRELIMINAR DE ILEGITIMIDADE PASSIVA RECHAÇADA POR SEREM OS IMPETRADOS RESPONSÁVEIS PELO CUMPRIMENTO DA DECISÃO JUDICIAL - INÉPCIA DA INICIAL QUE SE AFASTA POR ESTAREM PRESENTES OS REQUISITOS EXIGIDOS PELO ART. 330, §1º, DO CPC/2015 - ADICIONAL DE PERICULOSIDADE - NECESSIDADE DE DILAÇÃO PROBATÓRIA INCOMPATÍVEL COM A VIA ESTREITA DA AÇÃO MANDAMENTAL - INADEQUAÇÃO DA VIA ELEITA QUE SE RECONHECE DE OFÍCIO - SEGURANÇA DENEGADA.
+1. Há legitimidade passiva do Secretário da Administração e do Governador do Estado da Bahia na forma do art. 1º, da lei 12.016/2009, por disporem os mesmos dos meios necessários para executar a ordem emanada no caso de concessão da segurança pelo Judiciário.
+2. Inépcia da inicial que se afasta percebendo-se que a inicial possibilita a correta compreensão da causa, sendo visível a lógica entre os fatos e os pleitos formulados, possibilitando o pleno exercício do direito de defesa, restando atendidos os requisitos exigidos pelo art. 330, §1º, do CPC/2015.
+3. Dentre os requisitos necessários para concessão do adicional de periculosidade previstos no Decreto nº 9.967/2006 encontra-se a exigência laudo atestando o trabalho em condições perigosas não presente nos autos o que redunda no afastamento da via estreita do mandado de segurança, diante da impossibilidade de dilação probatória em sede mandamental e a ausência de prova pré-constituída.
+4. Segurança denegada.
+Os embargos de declaração foram rejeitados, conforme julgado de e-STJ, fls. 230-244.
+Defendem os recorrentes, em apertada síntese, que possuem direito ao recebimento do adicional de periculosidade sobre os seus vencimentos.
+Apontamque não é necessário o laudo técnico para comprovação do risco de atividade policial, por entender que "basta que vistam suas fardas e/ou tenham consigo suas identidades funcionais e insígnias, para que, desde este momento, exponham suas vidas a risco, tanto que o eg. STF - Supremo Tribunal Federal -, através de reiterados Arestos, todos no mesmo sentido, já estabeleceu ser presumido o risco da atividade policial" (e-STJ, fl. 285).
+Contrarrazões apresentadas às e-STJ, fls. 426-446.
+Parecer do Ministério Público Federal às e-STJ, 456-460, pelo desprovimento do recurso.
+É o relatório.
+Na origem, os recorrentes impetraram mandado de segurança contra suposto ato omissivo, atribuído ao Secretário de Administração do Estado da Bahia e ao Comandante Geral da Polícia Militar do Estado da Bahia, consistente na ausência de pagamento do adicional de periculosidade.
+Defenderam, em síntese, que o estatuto da polícia militar estabeleceu o direito ao recebimentodo adicional de periculosidade, porém não foram adotados os procedimentos necessários para a implantação do seu pagamento.
+O Tribunal de origem denegou a segurança ao fundamento de ausência de prova pré-constituída acerca do direito ao recebimento dos adicionais pleiteados, tornando-se imprescindível a instrução probatória, procedimento incompatível com a via mandamental.
+Transcrevo, no que interessa, excerto do acórdão recorrido (e-STJ, fls. 177-178):
+Não há prova documental nos autos capaz de comprovar o direito dos impetrantes e perceber tal parcela, já que o exercício da atividade policial não importa em reconhecimento imediato do desenvolvimento de atividade periculosa tais como os policiais em funções administrativas internas, policiais que exercem ofício de professor em colégios militares, dentre outras funções.
+Nessa senda, deveria a parte impetrante ter apresentado, junto com a inicial, todos os documentos necessários à análise de seu pleito, dentre os quais o processo administrativo onde se apurou o efetivo exercício da função em condições periculosas ou mesmo a tentativa de apuração pericial de tais condições.
+Com efeito, para o cabimento do é indispensável que o impetrante demonstre que possui o direito writ, subjetivo, sendo passível de comprovação, em seu aspecto fático, tão somente por meio de prova documental.
+Conforme afirma Rodrigo Klipper e José Antônio Neffa Junior, "o direito líquido e certo significa aquele direito cujos elementos fáticos possam ser atestados, judicialmente, somente por meio de cotejo de provas documentais, constituídas com referência ao processo (in Comentários à Lei de Mandado de Segurança, 2010, p. 16)".
+Assim, diante da ausência de prova pré-constituída necessária à análise da pretensão mandamental, entende-se pela inadequação da via do Mandado de Segurança.
+Conforme se verifica, a pretensão dos recorrentes não foi deferida pela Corte local devido à inexistência de prova pré-constituída, consistente na comprovação das condições insalubres e perigosas, apta à concessão dos referidos adicionais.
+De fato, a tutela jurisdicional em mandado de segurança depende, para ser proferida, da demonstração do direito certo reclamado na petição inicial. Isso é realizado por meio de provas pré-constituídas à impetração, sendo inviável a atividade instrutória no mandado de segurança.
+Desse modo, para configurar-se o direito pretendido, é necessária a presença de prova pré-constituída (laudos técnicos) a indicar as condições de insalubridade e periculosidade, o que não ocorreu na presente hipótese.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. POLÍCIA MILITAR. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADICIONAL DE PERICULOSIDADE. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO.
+1. O acórdão recorrido reconheceu a existência da previsão legal do adicional de periculosidade aos policiais militares nos termos do art. 92 da Lei Estadual 7.990/2001. Entretanto, denegou a segurança por haver necessidade da elaboração de laudo técnico que atestasse o trabalho em condições perigosas, consoante o Decreto 9.967/2006.
+2. O Mandado de Segurança exige prova pré-constituída como condição essencial à verificação do direito líquido e certo, de modo que a dilação probatória mostra-se incompatível com a natureza dessa ação constitucional. Não é o meio processual adequado para provar um fato. No mesmo sentido: RMS 53.485/BA, Relator Ministro Herman Benjamin, Segunda Turma, DJe 13.9.2017; e AgInt no RMS 57.059/BA, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 9.8.2018.
+3. Recurso Ordinário em Mandado de Segurança não provido.
+(RMS 61.789/BA, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/10/2019, DJe 29/10/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. Em sede de mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória.
+2. Não obstante o Decreto n. 9.967/2006 assegure o direito à percepção do adicional de periculosidade aos servidores do Estado da Bahia, há expressa exigência de apresentação do laudo pericial que ateste as condições de trabalho.
+3. Hipótese em que não há a comprovação, nos termos da legislação de regência, das condições perigosas a que estão submetidos os policiais militares, exigindo-se para sua comprovação instrução probatória, medida incompatível com a via mandamental.
+4. Agravo interno desprovido.
+(AgInt no RMS 55.586/BA, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/4/2019, DJe 15/5/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO LÍQUIDO E CERTO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. "A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado" (AgRg no MS 19.025/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 21/9/2016).
+2. O Decreto n. 9.967/2006, dentre os requisitos necessários ao pagamento do adicional de periculosidade, prevê a existência de laudo atestando "o exercício de condições de insalubridade e periculosidade, indicando, quando cabível, o grau de risco correspondente" (art. 6º, caput).
+3. No caso, malgrado as alegações dos recorrentes no sentido de que a periculosidade da atividade policial militar seria fato notório, a apresentação do laudo pericial é uma exigência legal, a qual, conforme se infere dos documentos colacionados aos autos, não foi cumprida.
+4 Agravo interno não provido.
+(AgInt no RMS 56.351/BA, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 2/10/2018, DJe 5/10/2018.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. POLICIAIS MILITARES DO ESTADO DA BAHIA. ADICIONAL DE PERICULOSIDADE. ART. 92, V, "P", DA LEI ESTADUAL Nº 7.990/2001. LAUDO PERICIAL. EXIGÊNCIA. DECRETO ESTADUAL Nº 9.967/2006. DISPENSA. PRETENSÃO CONTRA LEGEM. DIREITO LÍQUIDO E CERTO NÃO EXISTENTE.
+1. A pretensão dos agravantes, de obter o adicional de periculosidade independentemente de laudo pericial não é expressão de um direito líquido e certo, mas pretensão contra legem, pois se trata de condição requerida pela legislação estadual de regência. Precedentes.
+2. Ademais, "a aferição do direito postulado pelos Impetrantes demanda dilação probatória, o que é incabível no mandado de segurança. Nesses termos, ainda que a legislação assegure aos Impetrantes o direito à percepção do adicional de periculosidade, somente após comprovado que, de fato, exercem suas funções em condições perigosas, e apenas após o processamento do pleito nos termos do art. 6º do Decreto nº 9.967/06, é que eventualmente nascerá o direito líquido e certo à obtenção da mencionada gratificação" (RMS 55.620/BA, Rel. Ministro FRANCISCO FALCÃO, DJe 09/03/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS 57.059/BA, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 2/8/2018, DJe 9/8/2018.)
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
