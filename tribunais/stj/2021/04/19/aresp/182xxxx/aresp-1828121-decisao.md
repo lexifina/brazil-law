@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Maranhão contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 147):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTORIA. SENTENÇA ILÍQUIDA. TERMO INICIAL DA PRESCRIÇÃO. HOMOLOGAÇÃO DOS CÁLCULOS. INAPLICABILIDADE DO ART. 9º DO DECRETO N. 20910/1932. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão central deste recurso diz respeito ao termo inicial da prescrição para a execução individual da sentença proferida na Ação Coletiva n. 14440/2000.
+2. De acordo com a jurisprudência do STJ e deste Tribunal de Justiça, o termo inicial do prazo prescricional para execução de sentença coletiva ilíquida é a data da efetiva liquidação do título.
+3. No caso em análise, a homologação dos cálculos da sentença coletiva ocorreu em 09.12.2013, devendo ser afastada a prescrição da pretensão executória individual, porquanto formulada em 17.10.2017, vale dizer, dentro do quinquênio legal. Desta forma, não se aplica o art. 9º do Decreto n. 20.910/1932.
+4. Agravo Interno conhecido e não provido.
+Não foram opostos embargos declaratórios,
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 1º do Decreto 20.910/32 e 535, II e §§ 5º e 7º do CPC. Sustenta a ocorrência da prescrição, sob o argumento de que "o título executivo judicial transitou em julgado em 18/07/2011, conforme se verifica pelo documento de ID 2886505 juntado pelo recorrente quando da interposição do agravo de instrumento.Lado outro, a execução/cumprimento da obrigação constante do título deveria ter sido postulada em juízo até o dia 18/07/2016, pois a partir desta data estaria consumada a prescrição de pretensão executória do título judicial, tendo em vista o prazo prescricional de cinco anos. No entanto, a parte exequente ajuizou a presente execução somente em outubro de 2018, de modo que resta patentemente prescrita." (fl. 154).
+Acrescenta que "a liquidação (coletiva ou individual) sob modalidade cálculos não impede o curso do lapso prescricional da pretensão executória, o qual fluiu normalmente desde o trânsito. Assim, a liquidação de sentença por cálculos, ao contrário do entendimento exarado pelo TJMA, não é hipótese de suspensão, impedimento e interrupção da prescrição" (fl. 155).
+Defende, ainda, a inexigibilidade do título executivo, sob o argumento de que "O Tribunal a quo firmou o entendimento de que o título seria exigível, tendo em vista que o processo de execução não seria o momento adequado para discussão de suposto aumento salarial da ora recorrida, o que já teria sido discutido no bojo da ação coletiva. No entanto, referida fundamentação ofende diretamente o art. 535, inciso III c/c § § 5º e 7º do NCPC, pois o processo de execução é sim o momento adequado para se discutir inexigibilidade" (fl. 157).
+Pugna, por fim, pela concessão de efeito suspensivo ao recuro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, amatéria pertinente ao art. 535, II e §§ 5º e 7º do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o Tribunal de origem afastou a ocorrência da prescrição, sob a seguinte fundamentação (fls. 148):
+Conforme relatado, a questão central deste agravo interno diz respeito ao termo inicial do prazo prescricional para a execução individual da sentença proferida na Ação Coletiva n. 14440/2000.
+Segundo o Estado do Maranhão, o prazo começa a fluir da data do trânsito em julgado da ação de conhecimento.
+Reanalisando os autos, verifica-se que o prazo prescricional aplicável às pretensões indenizatórias movidas contra a Fazenda Pública é de 05 (cinco) anos, conforme dispõe o art. 1º 1  do Decreto 20.910/32.
+Do mesmo modo, esse é o prazo para ajuizamento das execuções contra a Fazenda Pública, consoante enunciado 150 2  da súmula de jurisprudência do Supremo Tribunal Federal.
+Desta forma, a sentença oriunda da Ação Coletiva nº 14.440/2000 transitou livremente em julgado em 01.08.2011 e liquidada em 18.03.2016, sendo que a presente execução foi protocolada em 31.07.2018.
+Ao contrário do entendimento do Estado do Maranhão, o termo inicial para a execução individual é a data da liquidação definitiva, logo, não está prescrita a pretensão da Agravada.
+Tratando-se de sentença coletiva ilíquida, não há como se aplicar o trânsito em julgado da demanda como termo inicial do prazo prescricional, que deve ser a data da efetiva liquidação da sentença.
+Nesse sentido é a jurisprudência pacífica do Superior Tribunal de Justiça, senão veja-se:
+(..)
+Portanto, nos termos da jurisprudência do STJ, o termo inicial do prazo prescricional para execução de sentença coletiva ilíquida é a data da efetiva liquidação do título.
+Logo, considerando que a homologação dos cálculos da sentença coletiva ocorreu em 09.12.2013, e a presente ação foi ajuizada em 17.10.2017, dentro do quinquênio legal, não se podendo aplicar o art. 9º do Decreto n. 20.910/1932.
+Destarte, o entendimento adotado pelo Tribunal de origem encontra-se em conformidade com a jurisprudência desta Corte, firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação (Súmula 83/STJ)" (AgRg no AREsp 214.471/RS, Rel. Ministro Castro Meira, Segunda Turma, julgado em 4/12/2012, DJe 4/2/2013).
+Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. PRESCRIÇÃO. TERMO INICIAL DO PRAZO. LIQUIDAÇÃO. INOVAÇÃO RECURSAL. NÃO CABIMENTO.
+1. A liquidação é fase do processo de cognição, só sendo possível iniciar-se a execução se o título, certo pelo trânsito em julgado da sentença de conhecimento, estiver também líquido. Precedentes.
+2. Na origem, inexiste discussão quanto à necessidade ou não de simples cálculo aritmético para a apuração do valor executado, tampouco da repercussão da entrega de planilhas para a contagem do prazo prescricional. Além disso, os precedentes citados pela agravante não guardam relação com o caso e, por fim, essa tese não é estabelecida no recurso especial. Assim, carecem de qualquer sentido as alegações trazidas pela União no presente recurso.
+3. Também não consta do apelo nobre a alegação de que o protesto interruptivo, apresentado pelo SINDISPREV/RS, não aproveita aos servidores beneficiados pelo título executivo. Tendo surgido apenas neste agravo interno, a matéria configura inovação recursal, descabendo o seu exame neste momento do processo.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 316.478/PR, Rel. Ministra Diva Malerb, Desembargadora convocada TRF 3ª Região, Segunda Turma, julgado em 16/8/2016, DJe 23/8/2016)
+No mais, a verificação quanto a alegação de que a liquidação se deu por simples cálculos aritméticos, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ, o que impede, também, o conhecimento do dissídio jurisprudencial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ADMISSIBILIDADE DE LIQUIDAÇÃO ABREVIADA. PROVA PRÉ-CONSTITUÍDA DA TITULARIDADE DO DIREITO PLEITEADO E APURAÇÃO DA DÍVIDA POR MEROS CÁLCULOS ARITMÉTICOS. PRETENSÃO RECURSAL EM SENTIDO CONTRÁRIO QUE ESBARRA NA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O entendimento desta Corte é de ser possível a dispensa de liquidação por arbitramento ou artigos nas execuções coletivas que permitam verificar o valor devido por simples operação matemática com planilha de cálculo. Entretanto, essa possibilidade deve ser analisada caso a caso devido à diversidade de situações fáticas existentes nos processos coletivos.
+2. O Tribunal de origem afirmou que os documentos apresentados com a petição que requereu o cumprimento individual da sentença eram suficientes para comprovar, de plano, o valor da dívida e também a titularidade do crédito pleiteado, sem necessidade de uma liquidação por artigos ou arbitramento. Aferir se a liquidação de sentença deve ser procedida por simples cálculo aritmético ou mediante liquidação por artigos na ação coletiva enseja o revolvimento do conjunto fático-probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no REsp 1602761/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+ANTE O EXPOSTO, nego provimento ao agravo, restando prejudicada a
+concessão do efeito suspensivo.
+Publique-se.
