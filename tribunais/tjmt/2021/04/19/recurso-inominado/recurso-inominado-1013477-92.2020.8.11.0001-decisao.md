@@ -1,0 +1,13 @@
+Vistos, etc...
+A parte promovida, ora Recorrente, requereu a desistência do recurso inominado interposto, conforme petição digitalizada no ID. 59678468.
+Nos termos do estatuído no artigo 998, parágrafo único, do Código de Processo Civil, o recorrente poderá, a qualquer tempo, sem anuência do recorrido, desistir do recurso, verbis:
+Art. 998. O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso.
+Parágrafo único. A desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos.
+Art. 999. A renúncia ao direito de recorrer independe da aceitação da outra parte.
+Ante o exposto, para que produzam os seus jurídicos e legais efeitos, HOMOLOGO o pedido de desistência recursal.
+Retire-se o processo da pauta de julgamento e remetam-se os autos ao Juizado Especial de origem para as providências cabíveis.
+Intimem-se.
+Cumpra-se.
+Lúcia Peruffo
+Juíza de Direito
+Relatora
