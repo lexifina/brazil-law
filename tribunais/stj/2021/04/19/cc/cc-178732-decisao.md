@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Tribunal Regional do Trabalho da 3.ª Região (suscitante) e o Juízo de Direito da 2.ª Vara Cível de Ouro Preto/MG(suscitado), nos autos da reclamação trabalhista proposta por Eglay Karen da Silva em desfavor do Município de Ouro Preto/MG e da Universidade Federal de Ouro Preto.
+A ação foi proposta perante o Juízo da Vara do Trabalho de Ouro Preto/MG, que julgou parcialmente procedentes os pedidos formulados pela reclamante. Quando do julgamento dos recursos ordinários, o Tribunal Regional do Trabalho da 3.ª Região acolheu a preliminar de incompetência absoluta e determinou a remessa dos autos à Justiça Comum Estadual.
+O feito, por isso, foi distribuído ao Juízo de Direito da 2.ª Vara Cível de Ouro Preto/MG, o qual determinou o retorno dos autos à Justiça Especializada, com fundamento em entendimento deste Superior Tribunal de Justiça, no sentido de que o jovem aprendiz é submetido às regras celetistas (fls. 73/74).
+Recebidos novamente os autos, o Tribunal Regional do Trabalho da 3.ª Região suscitou o presente conflito de competência, conforme acórdão assim ementado:
+CONFLITO NEGATIVO DE COMPETÊNCIA.
+Já declarada por este Tribunal a incompetência desta Justiça do Trabalho para julgar o feito e, por outro lado, também decidindo-se na Justiça Comum pela ausência de competência material, impõe-se suscitar conflito negativo de competência, nos termos do art. 804, b, da CLT, com determinação da remessa dos autos ao Superior Tribunal de Justiça, na forma do art. 105, I, d, da CF. Inviável ao juízo cível devolver o processo a esta Especializada se amparando unicamente em definição do STJ para lide similar, pois a decisão de conflito de competência é restrita à ação em que proferida (inter partes), não possuindo efeito vinculante e erga omnes.(fl. 15)
+Essa a origem do presente conflito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Porque presente a condição prevista no art. 66, II, do CPC, bem como satisfeita a exigência inserta no art. 954 do diploma processual com as peças apresentadas, conheço do presente conflito de competência.
+No mérito, pelo que se extrai da petição inicial e da documentação apresentada com a exordial, Eglay Karen da Silvaalega ter sido contratada pelo Município para prestar serviço à Universidade mediante o programa de aprendizagem "Jovem de Ouro", em 28 de outubro de 2011, e questiona o pagamento de verbas trabalhistas, em razão de contrato.
+Acerca do tema, a compreensão firmada no âmbito desta Corte é a de que as causas relativas a contratos de aprendizagem são da competência da Justiça do Trabalho, conforme se extrai, dentre outros, dojulgadoassim ementado:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E COMUM. POLICIAL MIRIM VINCULADO A ASSOCIAÇÃO EDUCACIONAL QUE DESENVOLVE ATIVIDADE LABORATIVA PARA DIVERSAS EMPRESAS. RELAÇÃO QUE SE ASSEMELHA À APRENDIZAGEM E QUE SE SUJEITA À COMPETÊNCIA DA JUSTIÇA LABORAL.
+- A competência para o julgamento da causa define-se em função da natureza jurídica da questão controvertida, demarcada pelos pedidos e pela causa de pedir.
+- A relação havida entre as partes, diante dos elementos constantes dos autos, revela-se semelhante à de aprendizagem. A analogia justifica, portanto, que as duas situações recebam o mesmo tratamento jurídico.
+- Como a aprendizagem se configura como relação de trabalho, a disputa existente entre as partes se sujeita à competência da Justiça Laboral.
+Conflito de competência conhecido para declarar a competência do Juízo da 1a Vara do Trabalho de Dourados, Estado do Mato Grosso do Sul, ora suscitante.
+(CC 83.804/MS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/02/2008, DJe 05/03/2008)
+Também merece registro o fato de que, em questões semelhantes, nas quais figurou no polo passivo da ação o Município de Ouro Preto/MG, decisões desta Corte declararam a competência da Justiça do Trabalho, como se pode aferir: CC 150.506/MG, Rel. MinistraRegina Helena Costa, DJe de 26/04/2017; CC 147.262/MG, Rel. Ministro Mauro Campbell Marques, DJe de 28/06/2016
+ANTE O EXPOSTO, com fundamento no art. 955, parágrafo único, do CPC e na Súmula 568 do STJ, decido desde logo o presente conflito para declarar competente o Tribunal Regional do Trabalho da 3.ª Região, o suscitante, para que, afastada a incompetência, prossiga no julgamento da demanda, decidindo-a como entender de direito.
+Dê-se ciência aoTribunalsuscitante e ao Juízosuscitado.
+Publique-se.
