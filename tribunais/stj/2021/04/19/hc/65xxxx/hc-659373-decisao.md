@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EMERSON LEITE DA SILVAapontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HCn. 2075895-98.2021.8.26.0000).
+Consta dos autos ter sido o paciente condenado à pena de 5anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 580dias-multapela prática docrimeprevistonoart. 33da Lei n. 11.343/2006, ante a apreensão de cerca de 146g (cento e quarenta e seis gramas) de maconha e 124g (cento e vinte e quatro gramas) de cocaína.
+Impetradohabeas corpusno Tribunal de origem, a ordem foi indeferida liminarmente(e-STJ fls. 17/21).
+No presente writ,defende a defesa o cabimento de habeas corpuscontra sentença transitada em julgado e requer, inclusive liminarmente, o seguinte(e-STJ fls. 8/9):
+a) Seja concedida a ORDEM LIMINARMENTE para o RECONHECIMENTO DA INIMPUTABILIDADE OU SEMI-IMPUTABILIDADE do paciente, concedendo-lhe a isenção ou a redução de sua pena imposta;
+b) Seja aplicada a redução da pena na fração máxima, nos termos do art. 46, da Lei nº 11.343/06 e substituída a pena privativa de liberdade por restritiva de direitos;
+c) Subsidiariamente, em remota hipótese de ser contrário o vosso entendimento, requer-se seja aplicado o redutor previsto no art. 33, § 4º da Lei 11343/06;
+c) Seja cassada a r. sentença monocrática nos pontos aqui questionados, sendo reconhecida inimputabilidade ou semi-imputabilidade do paciente, concedendo-lhe a isenção ou a redução de sua pena imposta;
+É o relatório.
+Decido.
+Pois bem. A despeito do esforço da diligente defesa, as teses formuladas não foram enfrentadas pelo Tribunal a quo no julgamento do writ originário, o que impede esta Corte de analisá-las, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016.p. 2.470).
+Assim, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL.REVISÃO DE DOSIMETRIA DE CONDENAÇÃO TRANSITADA EM JULGADO. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. IMPOSSIBILIDADE DE RECONHECIMENTO. TESES NÃO ANALISADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça" (AgRg no HC n. 524.600/PR, Ministra Laurita Vaz, Sexta Turma, DJe 21/2/2020).
+2. Além do mais, as teses aqui submetidas não foram objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.(AgRg no HC 607.796/SP, de minha relatoria, SEXTA TURMA, julgado em 22/09/2020, DJe 28/09/2020, grifei.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA.INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS.ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA.ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevid a supressão de instância.
+ ..  (HC 387.938/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
