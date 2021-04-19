@@ -1,0 +1,38 @@
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Trata-se de recurso de apelação cível interposto por MARIA APARECIDA DA SILVA em face da sentença proferida na Ação de Rescisão Contratual c/c Anulação de Cláusulas Contratuais e Devolução de Parcelas Pagas, ajuizada em desfavor de CARRASCO & SILVA LTDA, FERNANDO ALVES DA SILVA e JEZICA ANDREA TONHON CARRASCO, que indeferiu a inicial, nos termos do art. 321, parágrafo único, do CPC/15 e, por consequência, julgou extinto o feito sem resolução de mérito, na forma do art. 485, IV, do mesmo regramento processual.
+Sem condenação em custas processuais.
+Em síntese, sustenta a apelante que laborou em equívoco o magistrado a quo, pois, não obstante tenha sido intimada pessoalmente para emendar a inicial, não fora oportunizada vistas à Defensoria Pública Estadual para manifestar-se quanto ao prosseguimento do feito, conforme preconiza o art. 5o, da LCE 146/2003 e artigos 9o e 10, do CPC/15.
+Alega que no caso dos autos fora determinada a emenda da inicial para a apresentação do contrato firmado entre as partes, o qual se pretende desconstituir, contudo, a seu ver, tal diligência não se mostra imprescindível, pois juntou outros documentos hábeis a demonstrar a avença, inclusive, comprovantes de pagamentos da taxa de adesão e de mensalidades, comprovando, assim, de maneira satisfatória, o negócio jurídico entabulado.
+Assegura que é idosa, não alfabetizada, portanto, enquadra-se no conceito de consumidor hipervulnerável, fazendo jus à facilitação de sua defesa, inclusive, com a inversão do ônus da prova, nos termos do art. 6o, VIII, do CDC, para que seja determinada aos apelados a apresentação do referido contrato, caso se entenda pela sua imprescindibilidade ao deslinde da demanda.
+Afirma ainda que o documento solicitado trata-se de contrato de adesão, objeto de ação pública, em razão da ilicitude do negócio jurídico realizado pela parte recorrida, cuja ação foi julgada procedente para declarar a atividade exercida pela empresa como ilegal e irregular, inclusive, com a responsabilização dos sócios pelas restituição dos valores pagos pelos consumidores (Processo no 4903-90.2013.811.0018 - código no 62284 – 1a Vara Cível).
+Assim, sob tais alegações, pugna pelo provimento do recurso com a determinação de retorno dos autos à origem para seu regular processamento.
+Prequestiona eventual ofensa aos art. 5o, incisos XXXV e LIV, ambos da CF/88.
+Sem apresentação de contrarrazões em razão da ausência de angularização processual.
+Não houve retratação pelo magistrado a quo, a teor do art. 331, § 1o, do CPC/15 - ID no 82969529.
+É o relatório.
+Decido.
+Trata-se de questão consolidada neste Tribunal e no Superior Tribunal de Justiça, razão pela qual passo a decidir de forma monocrática.
+Consoante se extrai dos autos, a apelante MARIA APARECIDA DA SILVA ajuizou a Ação de Rescisão Contratual c/c Anulação de Cláusulas Contratuais e Devolução de Parcelas Pagas em desfavor de CARRASCO & SILVA LTDA, FERNANDO ALVES DA SILVA e JEZICA ANDREA TONHON CARRASCO, pretendendo o desfazimento do negócio firmado para aquisição de uma MOTO HONDA POP 100, a ser paga em 48 parcelas no valor de R$ 149,00 (cento e quarenta e nove reais), alegando em suma, que o rompimento contratual teria sido motivado pelos apelados.
+Dos autos se observa que em decisão de ID no 82969512, o magistrado determinou a emenda da inicial para a juntada do contrato, estabelecendo o prazo de 15 dias para a diligência.
+A Defensoria Pública Estadual vem então aos autos requerer dilação do prazo para apresentação do documento, pleito deferido pelo magistrado singular.
+Com o decurso do referido prazo, determinou-se nova intimação, momento em que a Defensoria Pública vem aos autos e noticia a dificuldade para localização da autora e requer ao juízo sua intimação pessoal, pleito também deferido pelo magistrado a quo, sendo efetivada a intimação pessoal da autora, conforme se denota da certidão de ID no 82969520.
+Na inércia da parte autora, a inicial foi indeferida e o feito sentenciado e extinto sem resolução de mérito, conforme exposto acima.
+Pois bem.
+De plano, constata-se que não merece acolhimento o pleito recursal para que a sentença seja anulada com a determinação de retorno dos autos à origem para regular processamento.
+Isso porque, dos autos se observa que a ação fora ajuizada em 28/08/2019 e, passados mais de 01 ano e meio, a autora não se mostrou diligente no cumprimento da determinação para emenda da inicial, em evidente confronto à norma do art. 6o do CPC/15, que preconiza:
+Art. 6o Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+Com efeito, o magistrado a quo oportunizou a emenda da inicial mais de uma vez, aliás, foram duas determinações para juntada da íntegra do contrato, conforme se depreende das decisões nos ID`s no 82969512 e 82969514, sendo a Defensoria Pública, representante processual da autora, devidamente intimada das referidas decisões.
+Soma-se a isso a circunstância de que houvera, inclusive, a intimação pessoal da autora para cumprir a diligência, conforme se vê da certidão do Oficial de Justiça acostada no ID no 82969520.
+Nesse sentido:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL – REVOGAÇÃO DA JUSTIÇA GRATUITA – DETERMINAÇÃO DE RECOLHIMENTO DE CUSTAS – INÉRCIA - INDEFERIMENTO DA PETIÇÃO INICIAL - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO – ART. 485, I E IV E 321 DO CPC - INTIMAÇÃO PESSOAL DO AUTOR PARA PROMOVER O ANDAMENTO DO FEITO. DESNECESSIDADE. PROCESSO EXTINTO. SENTENÇA MANTIDA. Sendo a parte devidamente intimada para cumprir a ordem de emenda, mas deixou transcorrer in albis o prazo para proceder ao seu cumprimento, correta a sentença que extingue o processo por indeferimento da petição inicial, com fulcro no art.art. 485, inciso I, IV c/c art. 321, parágrafo único do CPC, ambos do Código de Processo Civil. A intimação pessoal da parte autora, prevista no art. 485, § 1o do CPC somente é aplicada nas hipóteses dos incisos II e III do mesmo dispositivo, não se aplicando para os casos de indeferimento da inicial. (N.U 0000631-62.2019.8.11.0044, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, NILZA MARIA POSSAS DE CARVALHO, Primeira Câmara de Direito Privado, Julgado em 23/03/2021, Publicado no DJE 29/03/2021)
+Assim, oportunizada à parte autora a regularização da peça inaugural, a teor do art. 10 do CPC/15, não há se falar em decisão surpresa, de modo que, na ausência de impulso, o indeferimento da inicial e extinção sem resolução de mérito é medida que se impõe.
+Ademais, não se pode admitir que uma demanda se perpetue no tempo, tornando-se imprescritível, pois contrário ao princípio da razoável duração do processo preconizado pelo artigo 5o, inciso LXXVIII, da CF/88.
+Relativamente ao prequestionamento mencionado neste recurso, ressalta-se que para solução da questão em exame, não há necessidade de o julgador citar tais ou quais dispositivos. Interessa que a decisão aprecie integralmente a questão trazida aos autos, dando-lhe o devido fundamento.
+Além do mais, a exigência de prequestionamento para a interposição de recurso especial ou extraordinário deve ser cumprida pela parte e não pelo julgador, que não precisa apontar expressamente se restaram ou não violadas as disposições legais e/ou constitucionais apresentadas.
+Desta feita, diante do flagrante confronto da sentença hostilizada com a jurisprudência dominante nesta Eg.Corte de Justiça, impõe-se o desprovimento monocrático do presente apelo.
+Logo, de todo o exposto, com fundamento no artigo 932, inciso IV, do CPC/15 c/c Súmula no 568 do STJ, nego provimento monocrático ao recurso.
+P.I.C.
+Cuiabá, 19 de abril de 2021.-
+Marilsen Andrade Addario
+Desembargadora
