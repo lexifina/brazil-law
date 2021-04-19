@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de pedido de uniformização de interpretação de lei formulado por ANDRE CISMER CAVALHEIRO, contra acórdão da 1ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná, com fundamento no art. 18 e seguintes da Lei 12.153/2009 e art. 39 da Resolução 01/2010 do Tribunal de Justiça do Estado do Paraná.
+Pedido de uniformização formulado em: 29/11/2019.
+Atribuído ao gabinete em: 09/04/2021.
+Ação: de compensação por danos morais, ajuizada por ANDRE CISMER CAVALHEIRO em face de AMILTON OSMAR COLOMBO, MARISE VOITAS NASSER COLOMBO e COLOMBO CONSTRUTORA E INCORPORADORA LTDA, na qual alega inadimplemento contratual, decorrente da falta de regularização de loteamento junto a órgãos públicos após a quitação do contrato, sob o fundamento de que tal obrigação foi prevista na cláusula 8ª do respectivo contrato particular de compromisso e promessa de compra e venda de bem imóvel rural firmado.
+Sentença: julgou extinto o processo, sem resolução do mérito, em relação à COLOMBO CONSTRUTORA E INCORPORADORA LTDA, ante o reconhecimento da ilegitimidade passiva; julgou improcedentes os pedidos iniciais em face de AMILTON OSMAR COLOMBO e MARISE VOITAS NASSER COLOMBO; e julgou improcedente o pedido contraposto formulado por AMILTON OSMAR COLOMBO e MARISE VOITAS NASSER COLOMBO em face de ANDRE CISMER CAVALHEIRO.
+Acórdão: não conheceu do recurso inominado interposto por ANDRE CISMER CAVALHEIRO e o condenou ao pagamento das custas processuais e honorários advocatícios, nos termos da seguinte ementa:
+EMENTA: DECISÃO MONOCRÁTICA. RECURSO INOMINADO. JUSTIÇA GRATUITA REVOGADA. AUSÊNCIA DE PAGAMENTO DAS CUSTAS NO PRAZO LEGAL. RECURSO NÃO CONHECIDO.
+1. O Art. 932, III do Código de Processo Civil (antigo artigo 557 do CPC/73), determina que o relator não conhecerá de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida. Tal artigo deve ser aplicado, por analogia, aos Juizados Especiais, respeitando o Enunciado n.º 13.17 das Turmas Recursais. Assim, é cabível o julgamento da presente lide por decisão monocrática, ante a verificação de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+2. Compulsando-se os autos, verifica-se que, após oportunidades para comprovação, pelo recorrente, da necessidade de concessão da justiça gratuita, esta foi revogada em decisão fundamentada (mov. 11.1), tendo o prazo legal de 48 horas para comprovação do preparo recursal. Em que pese a leitura da decisão em 04/10/2019, o recorrente deixou transcorrer in albis o prazo, não comprovando o pagamento das custas processuais.
+3. Portanto, verifico que a parte não cumpriu o disposto no art. 42, §1º da Lei dos Juizados Especiais, razão pela qual o presente Recurso Inominado é considerado deserto, não cabendo seu conhecimento ante a ausência do pressuposto de admissibilidade, qual seja, preparo recursal.
+4. Intimações e diligências necessárias.
+Embargos de declaração: opostos por ANDRE CISMER CAVALHEIRO, foram rejeitados.
+Pedido de uniformização de interpretação de Lei encaminhado ao STJ: aponta a ocorrência de divergência entre o entendimento consignado na decisão monocrática da 1ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná e acórdão da 1ª Turma Recursal do Tribunal de Justiça do Distrito Federal, que adota a orientação de que se não há recorrente vencido, porque não houve apreciação do mérito, não há condenação em honorários sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do cabimento do pedido de uniformização de interpretação de lei
+De início, verifica-se que apesar de ter sido fundamentado no art. 18 e seguintes da Lei 12.153/2009, a decisão impugnada no presente incidente processual foi proferida, em ação estabelecida entre particulares, por Turma Recursal de Juizados Especiais Cíveis, e não por Juizados Especiais da Fazenda Pública, conforme exige o § 3º do art. 18 da Lei 12.153/09, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios.
+Com efeito, conforme bem delineado pela 1ª Seção no julgamento do RCD na Rcl 14/730/SP (DJe de 24/02/2015), o sistema para processo e julgamento de causas em juizados especiais é composto por três microssistemas: a) Juizados Especiais Estaduais Comuns, instituídos pela Lei 9.099/1995; b) Juizados Especiais Federais, instituídos pela Lei 10.259/2001 e; c) Juizados Especiais da Fazenda Pública Estadual e Municipal, instituídos pela Lei 12.153/2009.
+Cada um desses microssistemas é submetido a regras processuais e procedimentais específicas, sendo que, no tocante à uniformização de jurisprudência, apenas as leis que dispõem sobre Juizado Especial Federal e sobre Juizados Especiais da Fazenda Pública previram a possibilidade de se efetuar pedido de uniformização de interpretação de Lei federal perante o STJ, conforme estabelecem os arts. 14, § 4º, da Lei 10.259/2001 e 18, § 3º, e 19, caput, da Lei 12.153/2009.
+Por isso, esta Corte apenas detém competência para o julgamento dos pedidos de uniformização de interpretação de Lei federal deduzidos no âmbito dos Juizados Especiais Federais e dos Juizados Especiais da Fazenda Pública.
+A propósito, confira-se os seguintes precedentes: AgRg nos EDcl no PUIL 694/SP, 3ª Seção, DJe 02/04/2018; e AgInt no PUIL 1.751/BA, 2ª Seção, DJe 04/09/2020.
+A hipótese concreta dos autos, conforme relatado anteriormente, relaciona-se a pedido de uniformização de entendimento no âmbito de Juizado Especial Estadual Comum, cujo exame, portanto, foge à competência do STJ. Nesse sentido: AgInt no PUIL 1.798/BA, 2ª Seção, DJe 02/10/2020.
+CONCLUSÃO
+Forte nessas razões, NÃO CONHEÇO do presente pedido de uniformização de interpretação de lei, com fundamento no art. 932, III, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DECISÃO IMPUGNADA PROFERIDA POR TURMA RECURSAL DOS JUIZADOS ESPECIAIS CÍVEIS. NÃO CABIMENTO. PREVISÃO LEGAL RESTRITA PARA AS HIPÓTESES PREVISTAS NOS ARTIGOS
+14, § 4º, DA LEI 10.259/2001 E 18, § 3º, E 19, CAPUT, DA LEI
+12.153/2009.
+1. Pedido de uniformização de interpretação de lei.
+2. Esta Corte apenas detém competência para o julgamento dos pedidos de uniformização de interpretação de lei federal deduzidos no âmbito dos Juizados Especiais Federais (art. 14, § 4º, da Lei 10.259/2001) e dos Juizados Especiais da Fazenda Pública (art. 18, § 3º, e 19, caput, da Lei 12.153/2009). Precedentes.
+3. Hipótese em que o pedido foi formulado contra decisão proferida, em ação de compensação por danos moraisestabelecida entre particulares, por Turma Recursal dos Juizados Especiais Cíveis.
+4. Pedido de uniformização de interpretação de lei não conhecido.
