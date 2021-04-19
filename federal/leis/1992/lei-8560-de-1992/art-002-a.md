@@ -1,0 +1,3 @@
+Art. 2º-A Na ação de investigação de paternidade, todos os meios legais, bem como os moralmente legítimos, serão hábeis para provar a verdade dos fatos. (“Caput” do artigo acrescido pela Lei nº 12.004, de 29/7/2009)
+§ 1º A recusa do réu em se submeter ao exame de código genético - DNA gerará a presunção da paternidade, a ser apreciada em conjunto com o contexto probatório.
+§ 2º Se o suposto pai houver falecido ou não existir notícia de seu paradeiro, o juiz determinará, a expensas do autor da ação, a realização do exame de pareamento do código genético (DNA) em parentes consanguíneos, preferindo-se os de grau mais próximo aos mais distantes, importando a recusa em presunção da paternidade, a ser apreciada em conjunto com o contexto probatório.
