@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo ESTADO DO PARANÁ, contra acórdão do Tribunal de Justiça do referido Estado, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. JUÍZO DE RETRATAÇÃO. ACÓRDÃO QUE REFORMOU PARCIALMENTE A SENTENÇA QUANTO AO ÍNDICE DE CORREÇÃO MONETÁRIA INCIDENTE NA CONDENAÇÃO. INTERPOSIÇÃO DE RECURSO ESPECIAL PELO ESTADO DO PARANÁ. PRECEDENTES DO STJ EM SEDE DE RECURSOS REPETITIVOS (TEMA Nº 905-STJ). RETORNO AO ÓRGÃO JULGADOR. MODIFICAÇÃO DO JULGADO INVIÁVEL, SOB PENA DE AGRAVAR A CONDENAÇÃO. SÚMULA 45/STJ.ACÓRDÃO MANTIDO" (fl. 595e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 613/615e), os quais restaram rejeitados, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO PREQUESTIONAMENTO - VÍCIOS A "SEREM SANADOS - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - ENFRENTAMENTO SUFICIENTE DA MATÉRIA ABORDADA - NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Os embargos de declaração somente são acolhidos quando se verifica no decisum algum vício. Se não há defeito, não devem ser acolhidos os Embargos com único fim de prequestionamento" (fl. 620e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 535, II, do CPC/73, 1º-F da Lei 9.494/97, com a redação conferida pela Lei 11.960/2009, e 407 do Código Civil, sustentando que: a) o Tribunal local "negou-se a enfrentar a questão atinente a incidência do artigo 407, do Código Civil ao caso em tela, cujo exame é indispensável para o deslinde do termo inicial dos juros moratórios sobre a condenação ao pagamento da indenização por danos morais" (fl. 643e), b) "não é possível a incidência de juros moratórios sobre indenização relativa a danos morais em momento anterior a fixação de seu valor em pecúnia por sentença judicial" (fl. 644e), c) a correção monetária deve incidir nos termos do art. 1º-F da Lei 9.94/97.
+Por fim, requer o provimento do recurso.
+Contrarrazões não apresentadas (fl. 651e).
+Por determinação da Vice-Presidência do TJPR, foi determinado o sobrestamento do recurso, até a apreciação do Tema 905 pelo STJ.
+Às fls. 683/684e, oRecurso Especial foi admitido pelo Tribunal de origem.
+A irresignação não merece prosperar.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Em relação aos juros de mora e à correção monetária, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Por sua vez, segundo a Súmula 54 do Superior Tribunal de Justiça: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual."
+Assim, os juros de mora devem incidir a partir da ocorrência do fato, ou seja, data do evento danoso, conforme entendimento dominante na jurisprudência" (fl. 622e).
+"Adaptando-se essas premissas ao caso em tela, a correção monetária da condenação devida à autora dar-se-ia, tão somente, pelo IPCA-E até a data do efetivo pagamento, ou seja, deveria incidir, inclusive, após a requisição de pequeno valor (RPV) ou expedição do precatório, conforme restou decidido no Supremo Tribunal Federal na ocasião do julgamento do Recurso Extraordinário nº 870.947/SE (Tema nº 810 - Repercussão Geral). Entretanto, aplica-se ao caso a Súmula 45 do STJ, in verbis: "No reexame necessário, é defeso, ao Tribunal, agravar a condenação imposta à Fazenda Pública".
+Por consequência, deve ser mantido o INPC como índice de correção monetária, posto que mais benéfico à fazenda pública"(fl. 597e).
+Entretanto, taisfundamentos não foramimpugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa extensão, nego-lhe provimento.
+I.
