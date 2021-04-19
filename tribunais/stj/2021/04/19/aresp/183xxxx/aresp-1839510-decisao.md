@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCO ANTONIO TAGLIARI FREY contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANO MATERIAL E MORAL. PARCERIA AVÍCOLA (fl. 697).
+Alega violação do art. 402 do CC, no que concerne à necessidade de restabelecimento da sentença em relação ao quantum estipulado para fins de danos materiais. Traz os seguintes argumentos:
+ ..  incontroverso que o contrato celebrado entre as partes estabelece, em sua cláusula sexta, que ao final dos 5 ciclos mínimos de vida das aves, o contrato se encerrará ou se renovará automaticamente, ressalvada a hipótese de novo acordo.
+Destarte, o parágrafo único da cláusula sexta prevê, ainda, a possibilidade de rescisão contratual, mediante notificação prévia com antecedência mínima de 2 (dois) ciclos de produção, observando-se o ciclo reprodutivo das aves e o período mínimo de 5 ciclos. Veja-se (mov. 1.7):
+ .. .
+Assim, diante da previsão contratual da possibilidade de rescisão contratual, mediante notificação prévia com antecedência mínima de 2 (dois) ciclos de produção, tal providência justamente se aplica para as perdas e danos, sendo que como não houve a notificação prévia tal antecedência mínima a Recorrente deixou de lucrar nesses 02 (dois) ciclos, que correspondem a 02 (dois) anos.
+Como restou comprovado durante a instrução processual do feito, houve descumprimento contratual por parte da Apelante ora Recorrida na medida em que não observou a antecedência mínima de 2 (dois) ciclos de produção para rescindir o contrato, a teor do disposto neste.
+A Recorrente indica, de forma explícita e fundamentada, contrariedade ao disposto no art. 402 do Código Civil.
+ .. .
+Ocorre que a base de cálculo estipulada no Acórdão de Multiplicar a média mensal dos pagamentos (R$ 42.447,17) pelos 3 meses supra (agosto, setembro e outubro de 2012), para obter um quantum indenizatório no patamar de R$ 127.341,51, infringe o art. 402 do Código Civil, pelo fato de que o contrato deveria ter perdurado por pelo menos mais 02 (dois) ciclos de produção, que equivale ao valor de R$ 1.068.696,00.
+Assim, diante da contrariedade ao art. 402 do Código Civil requer a reforma do Acórdão para restabelecer a Sentença de primeiro grau para condenar a ré ao pagamento do valor equivalente a dois ciclos, totalizando a importância de R$1.068.696,00 (um milhão sessenta e oito mil seiscentos e noventa e seis reais), acrescido de juros moratórios de 1% ao mês desde a data do efetivo prejuízo e correção monetária pela média do INPC e do IGP-DI desde a citação, em razão da não observância do período mínimo a ser respeitado para rescisão do contrato (fls. 723/726, grifos meus).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Reconhece-se o dever de indenização por dano material, em decorrência da interrupção dos lucros da parte Apelada.
+Do quantum indenizatório
+No tocante ao quantum indenizatório, a sentença acatou a fundamentação da exordial, tendo considerado o último valor mensal pago ao Apelante (R$ 44.529,00, em julho de 2011), para apurar o valor das perdas e danos.
+Pois bem.
+O princípio da restitutio in integrum determina que os danos materiais causados devam ser reparados em sua completa extensão, a teor do artigo 944 do Código Civil.
+Neste sentido é o entendimento desta Câmara Cível:
+ .. .
+Nesta linha de raciocínio, eventual condenação em patamar superior ao dano efetivamente experimentado causaria enriquecimento sem causa à Apelada, o que não pode ser admitido.
+De todos os comprovantes de pagamentos acostados nos mov. 1.9 e 1.10, o último é o mais vultoso, sendo exceção quanto aos demais meses do ano de 2011, de modo que o considerar, individualmente, como base de cálculo para apurar o valor da indenização não se mostra razoável.
+A média de todos os pagamentos mensais totaliza R$ 42.447,17 (quarenta e dois mil quatrocentos e quarenta e sete reais e dezessete centavos), devendo este valor médio ser utilizado para o cômputo do quantum indenizatório.
+Em 01.08.2012 ocorreu fim do 5º ciclo, tendo a parte Apelada recebido a notificação de resilição contratual em 30.10.2012 (mov. 1.8).
+Naquela oportunidade, o Apelado já tinha realizado investimentos na granja para o recebimento das aves em decorrência da renovação automática do contrato.
+Não é possível concluir que com os investimentos efetuados naquela época, o Apelado teria lucro nos exatos 24 meses subsequentes e na média do que até então vinha tendo.
+Após o término da relação contratual, o Apelado permaneceu com toda a estrutura por ele montada, disponível para empreender com outro parceiro avícola, a princípio.
+Não há informação nos autos acerca da destinação da estrutura da granja e seus funcionários, assim como acerca da continuação (ou não) das atividades com terceiros.
+O valor da indenização deve compreender os meses de preparação do aviário, mais especificamente desde o fim do 5º e último ciclo (01.08.2012), até a resilição contratual (em 30.10.2012).
+Multiplicando-se a média mensal dos pagamentos (R$ 42.447,17) pelos 3 meses supra (agosto, setembro e outubro de 2012), tem-se o quantum indenizatório no patamar de R$ 127.341,51. Os valores indenizatórios referentes a agosto, setembro e outubro de 2012 decorrem do período de preparação do aviário, com a implementação de investimento e mão-de-obra não usufruídos em razão da resilição precoce, não se confundindo com o saldo devedor referente os referidos meses, que será abordado adiante.
+Dá-se parcial provimento ao recurso, neste tópico, para minorar o indenizatório para R$ 127.341,51, quantum acrescido de juros moratórios de 1% ao mês e correção monetária pela média do INPC/IGP-DI, a contar da citação (art. 405 do Código Civil) - (fls. 707/708, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal - dissentindo dos cálculos realizados pelo acórdão recorrido para se chegar ao quantum devido pela parte recorrida à recorrente, a título de danos materiais - demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ademais, incide o óbice da Súmula n. 5 do STJ ("A simples interpretação de cláusula contratual não enseja recurso especial"), uma vez que a pretensão recursal demanda reexame de cláusulas contratuais.
+Nesse sentido: "E mesmo se superado tal obstáculo, constata-se que a controvérsia foi dirimida pelo Tribunal a quo com base na análise e interpretação de cláusulas contratuais, fato esse que impede o exame da questão por esta Corte, em face da vedação prevista na Súmula n. 5/STJ". (AgInt no AREsp 1.298.442/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.639.849/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; AgInt no REsp 1.662.100/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e AgInt no REsp 1.848.711/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
