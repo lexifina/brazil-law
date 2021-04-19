@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por DPMC FABRICAÇÃO E DISTRIBUIÇÃO DE DESCARTÁVEIS PLÁSTICOS E MATERIAIS DE CONSTRUÇÃO LTDA., CANGURU PLASTICOS LTDA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. EXCLUSÃO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. NÃO DEMONSTRAÇÃO. DILAÇÃO PROBATÓRIA.
+É inviável o exame da alegação de exclusão do ICMS da base de cálculo do PIS e da COFINS em sede de exceção de pré-executividade (STJ, Súmula 393), por demandar dilação probatória a fim de aferir a efetiva incidência do tributo e dimensionar o valor do crédito a ser excluído da execução" (fl. 33e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 45/47e), os quais restaram rejeitados (fls. 55/58e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 489, § 1º, IV, e 1.022,II, do CPC/2015, assim como aos arts. 783 e 803, I, do CPC/2015.
+Sustenta, de início, a existência de omissão, não suprida em sede de Embargos de Declaração, afirmando que, "houvesse o acórdão recorrido apreciado tais dispositivos, certamente teria provido o agravo de instrumento para determinar o prosseguimento da exceção de pré-executividade, haja a manifesta iliquidez e certeza da CDA, passível de ser aferida por simples prova documental, sem necessidade de dilação probatória" (fl. 73e).
+Assevera, de outra parte, o cabimento da exceção de pré-executividade diante de nulidade da CDA que exige valores já considerados indevidos em razão de decisão proferida STF em sede de repercussão geral. Para tanto, aduzo seguinte:
+"Sem razão o acórdão recorrido quando afirma que apreciação da exceção de pré-executividade apresentada demandaria a realização de prova/perícia, na medida em que a pretensão veiculada é simplesmente de direito. Senão, veja-se.
+Como se sabe, a exceção de pré-executividade, admitida em nosso direito por construção doutrinário-jurisprudencial, tem como escopo a defesa atinente à matéria de ordem pública, tais como a ausência das condições da ação e dos pressupostos de desenvolvimento válido do processo, desde que comprovadas de plano, mediante prova pré-constituída.
+Nesse sentido, tem-se que a nulidade formal e material da certidão de dívida ativa figura como matéria que o juiz pode conhecer de plano, sem necessidade de garantia da execução ou interposição dos embargos, sendo a exceção de pré-executividade a via apropriada para tanto, mormente diante do cenário jurídico em que gravita a discussão posta.
+A ausência de certeza, liquidez e exigibilidade do título é questão relativa aos pressupostos do processo de execução, a teor do previsto no art. 783, do Código de Processo Civil, que foi violado pelo acórdão recorrido:
+(..)
+Já o art. 803, I, também do CPC, igualmente violado, preceitua a nulidade do processo de execução que se fundar em título executivo sem certeza, liquidez ou exigibilidade, da seguinte forma:
+(..)
+Por outro lado, o art. 803, parágrafo único, do CPC é claro ao afirmar que a nulidade relativa à certeza, liquidez e exigibilidade do crédito deve ser pronunciada pelo juiz, de ofício ou a requerimento da parte, independentemente de embargos à execução, como levado a efeito pela agravante nos autos originário. Este o teor do referido dispositivo legal:
+(..)
+No caso dos autos, a presente exceção de pré-executividade tem por objeto o reconhecimento da inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS/COFINS.
+Deve ser destacado que a questão controvertida, diferentemente do quanto decidido pelo acórdão recorrido, é eminentemente de direito, não demandando qualquer dilação probatória, podendo ser de pronto analisada pelo Juízo, sendo, assim, passível de ser objeto de exceção de pré-executividade.
+Diga-se, sobre o ponto, que há muito a pacífica jurisprudência do STJ admite, em sede de exceção de pré-executividade, a arguição de inconstitucionalidade de lei, como no caso, senão vejamos:
+(..)
+Como se vê, sustentando a exceção de pré-executividade inconstitucionalidade da norma tributária, é ela plenamente admissível. E é precisamente esta a hipótese dos autos, onde a recorrente sustenta a inconstitucionalidade da cobrança levada a efeito na execução fiscal, tendo em vista a inconstitucionalidade da cobrança do PIS/COFINS sobre o ICMS destacado nos documentos fiscais, inconstitucionalidade esta já reconhecida pelo Pretório Excelso em sede de repercussão geral.
+Logo, tão só por este argumento já seria plenamente admissível a exeção de pré-executividade apresentada, precisamente porque o reconhecimento da inconstitucionalidade em questão não demanda dilação probatória, podendo ser verificada de plano.
+Por fim, a necessária exclusão do ICMS da base de cálculo do PIS/COFINS, conforme decidido pelo STF em sede de repercussão geral, caracteriza manifesto excesso de execução, o qual pode ser atacado por meio de exceção de pré-executividade, como reiteradamente tem decidido o E. STJ:
+(..)
+Nesse sentido, há manifesto excesso de execução, o qual é aferível de ofício e pode ser apurado pela própria recorrida com a simples determinação nesse sentido por parte do juízo competente.
+Portanto, diversamente do quanto referido pelo acórdão recorrido, não se trata de matéria de fato aferível por meio de prova, mas de questão meramente de direito que pode ser veiculada por meio de exceção de pré-executividade, como reiteradamente decidido pela jurisprudência.
+Logo, ao teor da jurisprudência, é cabível a exceção de pré-executividade oposta em execução fiscal requerendo seja determinada a exclusão do ICMS da base de cálculo do PIS/COFINS.
+Portanto, resta evidenciada a violação aos arts. 783 e 803, I, do CPC, na medida em que, verificado cabimento da exceção de pré-executividade e falta de liquidez e certeza da CDA, era caso de dar prosseguimento à exceção, de modo a desconstituir os títulos executivos extrajudiciais indevidamente expedidos.
+Assim, impõe-se o provimento do presente recurso especial, para que se entenda como cabível a exceção de pré-executividade apresentada, determinando que a Corte de origem determine o seu regular prosseguimento com a apreciação de seu mérito"(fls. 74/78e).
+Por fim, requer "digne-se V.Exa. de conhecer o presente Recurso Especial, tendo em vista o atendimento dos pressupostos de admissibilidade do mesmo, para o fim de:a) determinar a cassação do acórdão recorrido por negativa de vigência ao art.1.022, II, do CPC, à medida que foram opostos Embargos de Declaração para suprir a omissão do julgamento, e estes foram rejeitados pelo Tribunal a quo;b) quanto ao mérito, dar provimento ao Recurso Especial, no intuito de ser reformado o acórdão recorrido, para que se entenda como cabível a exceção de pré-executividade apresentada, determinando que a Corte de origem determine o seu regular prosseguimento com a apreciação de seu mérito" (fl. 78e).
+Contrarrazões a fls. 85/87e.
+Inadmitido o Recurso Especial (fls. 90/91e), foi interposto o presente Agravo (fls. 101/108e).
+Não foi apresentada contraminuta.
+A irresignação não merece prosperar.
+Inicialmente, em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorridonão incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+In casu, o Tribunalde origem decidiu integralmente a controvérsia, consoante os seguintes fundamentos:
+"Pretende a parte agravante a reforma da decisão agravada que não conheceu da exceção de pré-executividade, a pretexto de que a exclusão do ICMS da base de cálculo do PIS e da COFINS pressupõe demonstração documental e/ou pericial.
+Ocorre que para verificar se fato houve a incidência da contribuição ao PIS e COFINS sobre valores referentes ao ICMS, bem assim para dimensionar o valor a ser excluído da execução, é necessária dilação probatória, incompatível com o incidente de exceção de pré-executividade, pois, nos termos da Súmula nº 393 do Superior Tribunal de Justiça: A exceção de pré- executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+Assim, entendo que agiu acertadamente o juízo de origem ao não conhecer da exceção de pré-executividade oposta pela agravante.
+Ante o exposto, voto por negar provimento ao agravo de instrumento" (fl. 36e).
+Portanto, ao contrário do que alega a agravante, não se verifica negativa de prestação jurisdicional.
+No mais, a irresignação não pode ser conhecida.
+Com efeito, a Corte de origem negou provimento ao Agravo de Instrumento,entendendo que verificar se, de fato, houve a incidência de PIS/COFINS na base de cálculo de valores referentes ao ICMS, e dimensionar o valor a ser excluído da Execução Fiscal, seria necessária a dilação probatória.
+Épacífica a jurisprudência do STJ no sentido de que descabe o reexame, nessa seara especial, da afirmação feita nas instâncias ordinárias, em sede de Exceção de Pré-Executividade, da necessidade de realização de dilação probatória, porquanto demandaria incursão no conjunto probatório dos autos, medida vedada pela Súmula 7/STJ.
+Confiram-se:
+"TRIBUTÁRIO. IPVA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. (..). PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..)
+IV - No tocante à possibilidade da rejeição da exceção de pré-executividade, a Corte "a quo" afirmou que a questão em debate demanda dilação probatória. A revisão desse entendimento exige o reexame do acervo fático-probatório considerado pelo Tribunal de origem, o que é inviável pela via do recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+V - Agravo interno improvido" (STJ, AgInt no AREsp 1.128.105/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 31/10/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. (..) EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - "In casu", rever o entendimento do tribunal de origem de que a via eleita - exceção de pré-executividade - seria inadequada, porquanto necessária dilação probatória, demandaria revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+(..)
+VIII - Agravo Interno improvido" (STJ, AgInt no REsp 1.695.114/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 06/12/2017).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+I.
