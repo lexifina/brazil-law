@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.EXECUÇÃO FISCAL. IPTU, TAXA DE COLETA DE LIXO E TAXA DE EXPEDIENTE DOS EXERCÍCIOS DE 2012 A 2015.PROMITENTE COMPRADOR OU PROMITENTE VENDEDOR. ENTENDIMENTO DESTA CORTE. DIREITO REAL. CONTRATO DE COMPRA E VENDA REGISTRADO EM CARTÓRIO. APLICABILIDADE.
+I - Trata-se de agravo de instrumento, com pedido liminar de concessão de efeito ativo, interposto por Francisco Munhoz Filho (Espólio), objetivando reformar decisão proferida nos autos da execução fiscal, movida pelo Município de Itanhaém, que rejeitou exceção de pré-executividade em que foi alegada nulidade da CDA e ilegitimidade passiva. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de quetanto o promitente comprador do imóvel quanto seu promitente vendedorsão contribuintes responsáveis pelo pagamento do IPTU, mesmo que o contrato de alienação do bem tenha sido registrado em cartório antes do fato gerador do mencionado tributo. Nesse sentido:AgInt no REsp n. 1.655.107/SP, relatorMinistro Francisco Falcão, Segunda Turma, julgado em 19/6/2018, DJe 22/6/2018;REsp n. 1.773.779/SP, relatorMinistro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe 17/12/2018 eAgInt no REsp n. 1.695.049/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 12/2/2019, DJe 21/2/2019.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo de instrumento, com pedido liminar de concessão de efeito ativo, interposto por Francisco Munhoz Filho (Espólio), objetivando reformar decisão proferida nos autos da execução fiscal, movida pelo Município de Itanhaém, que rejeitouexceção de pré-executividade em que foi alegada nulidade da CDA e ilegitimidade passiva. No Tribunala quo, negou-se provimento ao recurso conforme a seguinte ementa do acórdão:
+Apelação. Execução Fiscal. IPTU, Taxa de Coleta de Lixo e Taxa de Expedientedos exercícios de 2012 a 2015. Decisão que rejeitou a exceção de pré-executividade em que alegada nulidade da CDA por ausência de notificação do processo administrativo e ilegitimidade passiva. Pretensão à reforma. Desacolhimento.
+Nulidade da CDA. Ausência de notificação. Inocorrência. IPTU e Taxas. Tributos diretos, periódicos e rotineiros. Vencimento anual. Presunção da notificação pelo envio do carnê ao endereço do contribuinte a cada virada de ano. Aplicação do quanto decidido no REsp. 1.111.124/PR e da inteligência da Súmula 397 do STJ.
+Ilegitimidade passiva. Inocorrência. Compromisso de compra e venda que não foi levado a registro na matrícula imobiliária, conforme determina o Código Civil em seus arts.
+1.227 eM1.245. Aplicação do quanto decidido no julgamento definitivo de Recurso Especial Representativo de Controvérsia n. 1.111.202/SP, no qual se reconheceu a legitimidade passiva tanto do proprietário (promitente vendedor, a exemplo da agravante), quanto do possuidor (promitente comprador) quanto aos débitos de IPTU.
+Recurso não provido.
+No recurso especial, o recorrente apontou como violados os arts. 34, 124 e 130 do CTN, sustentando, em síntese, que é indevida a cobrança de IPTU em desfavor do promitente vendedor.
+Em suas razões recursais, o contribuinte suscitou, ainda, violação ao art. 5º,LV, da Constituição Federal, alegando que houve ofensa ao seu direito de defesa por ausência de notificação do lançamento do IPTU em seu nome.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego- lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ."
+Interposto agravo interno, a parte agravante traz argumentos contrários a decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO.EXECUÇÃO FISCAL. IPTU, TAXA DE COLETA DE LIXO E TAXA DE EXPEDIENTE DOS EXERCÍCIOS DE 2012 A 2015.PROMITENTE COMPRADOR OU PROMITENTE VENDEDOR. ENTENDIMENTO DESTA CORTE. DIREITO REAL. CONTRATO DE COMPRA E VENDA REGISTRADO EM CARTÓRIO. APLICABILIDADE.
+I - Trata-se de agravo de instrumento, com pedido liminar de concessão de efeito ativo, interposto por Francisco Munhoz Filho (Espólio), objetivando reformar decisão proferida nos autos da execução fiscal, movida pelo Município de Itanhaém, que rejeitou exceção de pré-executividade em que foi alegada nulidade da CDA e ilegitimidade passiva. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de quetanto o promitente comprador do imóvel quanto seu promitente vendedorsão contribuintes responsáveis pelo pagamento do IPTU, mesmo que o contrato de alienação do bem tenha sido registrado em cartório antes do fato gerador do mencionado tributo. Nesse sentido:AgInt no REsp n. 1.655.107/SP, relatorMinistro Francisco Falcão, Segunda Turma, julgado em 19/6/2018, DJe 22/6/2018;REsp n. 1.773.779/SP, relatorMinistro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe 17/12/2018 eAgInt no REsp n. 1.695.049/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 12/2/2019, DJe 21/2/2019.
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de quetanto o promitente comprador do imóvel quanto seu promitente vendedor são contribuintes responsáveis pelo pagamento do IPTU, mesmo que o contrato de alienação do bem tenha sido registrado em cartório antes do fato gerador do mencionado tributo. In verbis:
+TRIBUTÁRIO. IPTU. PAGAMENTO. CONTRIBUINTES RESPONSÁVEIS.PROMITENTE COMPRADOR OU PROMITENTE VENDEDOR. ENTENDIMENTO DESTA CORTE. DIREITO REAL. CONTRATO DE COMPRA E VENDA REGISTRADO EM CARTÓRIO. APLICABILIDADE.
+I - A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 122, vinculado aos Recursos Especiais Repetitivos n.os 1.110.511/SP e 1.111.202/SP, da relatoria do Min. Mauro Campbell Marques, firmou entendimento no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu promitente vendedor (que tem a propriedade do imóvel registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU, podendo o legislador municipal eleger quaisquer deles.
+II - O art. 34 do Código Tributário Nacional, ao apontar como contribuinte do IPTU o possuidor a qualquer título, engloba também a relação de direito real advinda do contrato de promessa de compra e venda irretrável, senão vejamos: "Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título. Quando o CTN considera contribuinte do IPTU o possuidor a qualquer título, refere-se às hipóteses de relações de direito real, no qual se inclui o contrato de promessa de compra e venda irretratável. Assim, analisando-se o art. 34 do CTN, conclui-se que o proprietário do imóvel, na qualidade de promitente vendedor, é contribuinte do IPTU, cuja responsabilidade deve ser somada a do promitente comprador (possuidor do imóvel).
+III - Ressalte-se que essa orientação quanto à legitimidade aplica-se, inclusive, às hipóteses em que o contrato de compra e venda foi devidamente registrado em cartório.
+Neste sentido: REsp 1.576.319/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/05/2016; AgRg no REsp 1.519.072/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 02/02/2016.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.655.107/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2018, DJe 22/6/2018.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. CONTRATO DE PROMESSA DECOMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+RECURSO ESPECIAL REPETITIVO 1.111.202/SP.
+1. O Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.111.202/SP, sob o rito do art. 543-C do CPC/1973, firmou o entendimento de que se consideram contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. Orientação que se aplica, inclusive, às hipóteses em que o compromisso de compra e venda foi devidamente registrado em cartório. Precedentes do STJ.
+3. A compreensão esposada no acórdão recorrido, no sentido de que o mero compromisso de compra e venda é suficiente para afastar a responsabilidade tributária do proprietário/promitente vendedor, não está em sintonia com a orientação firmada no Superior Tribunal de Justiça acerca da matéria.
+4. Recurso Especial provido.
+(REsp n. 1.773.779/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe 17/12/2018.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU.CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 122, vinculado ao Recurso Especial repetitivo n. 1.111.202/SP, de relatoria do Ministro Mauro Campbell Marques, firmou entendimento de que tanto o promitente comprador do imóvel quanto seu promitente vendedor são contribuintes responsáveis pelo pagamento do IPTU.
+2. Essa orientação se aplica, inclusive, às hipóteses em que o compromisso de compra e venda foi devidamente registrado em cartório. Precedentes.
+3. O presente caso não se enquadra na hipótese de exceção observada no julgamento do REsp 1.204.294/RJ, tendo em vista a ausência de identidade das circunstâncias fáticas que orientaram o referido precedente, em especial a aquisição do imóvel pela modalidade de usucapião.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.695.049/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 12/2/2019, DJe 21/2/2019.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
