@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado porPaulina Divina Spina de Souza e Outros contra decisão denegatória de admissibilidade a recurso especial interposto com fundamento no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 168/169):
+RECURSO DE APELAÇÃO - EXECUÇÃO FISCAL - ICMS - AUSÊNCIA DE COMPROVAÇÃO DA ENTREGA DE DECLARAÇÃO E PAGAMENTO - LANÇAMENTO DE OFÍCIO PELA AUTORIDADE FISCAL - PRAZO DECADENCIAL DO ART. 173, I, DO CTN - DECADÊNCIA NÃO RECONHECIDA - CONSTITUIÇÃO DO CRÉDITO DENTRO DO QUINQUÍDIO LEGAL - RECURSO DA FAZENDA PÚBLICA ESTADUAL CONHECIDO E PROVIDO - RECURSO DA DEFENSORIA PÚBLICA PREJUDICADO.
+"Ocorre a decadência em cinco anos, a contar do primeiro dia do exercício seguinte àquele em que o pagamento antecipado deveria ter sido realizado e da constituição do crédito tributário (ICMS). (AgR 127812/2015, DES. JOSÉ ZUQUIM NOGUEIRA, QUARTA CÂMARA CÍVEL, Julgado em 06/10/2015, Publicado no DJE 21/10/2015)
+Nas razões do recurso especial, a agravante aponta violação aos arts. 85 do CPC; e 4º, XXI, da Lei Complementar 80/1994. Sustenta que "o artigo 174 do CTN enuncia que o crédito tributário prescreve em cinco anos, e, portanto, não poderá mais ser executado pelo Fisco por meio de Execução Fiscal" (fl. 188).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A matéria pertinente aos arts. 85 do CPC e4º, XXI, da Lei Complementar 80/1994 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Da mesma forma, o Tribunal de origem não se manifestou sobre a alegação de que "o artigo 174 do CTN enuncia que o crédito tributário prescreve em cinco anos, e, portanto, não poderá mais ser executado pelo Fisco por meio de Execução Fiscal" (fl. 188), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
