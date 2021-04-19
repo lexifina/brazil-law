@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Banco do Brasil S.A. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 469):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. EXTINÇÃO POR ILEGITIMIDADE. PASEP. DESFALQUE DO SALDO. ALEGAÇÃO DE SAQUES INDEVIDOS E FALTA DE ATUALIZAÇÃO DO VALOR. LEGITIMIDADE DO BANCO DO BRASIL RECONHECIDA.
+1- Em demanda em que se visa à indenização moral e material em virtude de desfalques em conta vinculada ao PASEP, oriundos de supostos saques indevidos e ausência de atualização, é parte legítima para figurar no polo passivo o Banco do Brasil, especialmente pela atribuição que tem de processar as solicitações de saque nos termos do Decreto nº 4.751/2003.
+2- Apelação conhecida e provida. Sentença cassada.
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) arts. 330, II, e 485, VI, do CPC, na medida em que se constitui por mero operador do Programa de Formação do Patrimônio do Servidor Público, motivo pelo qual não pode ser considerado como legitimado passivo das ações que versem sobre PASEP. Acrescenta que é a União Federal responsável pelo Conselho Diretor do Fundo de Participação Social, devendo ser ela responsabilizada pelos erros inerentes ao negócio;
+(II) art. 487, II, do CPC, afirmando que a distribuição de cotas do PASEP vigorou até 1988, de modo que eventual não recolhimento de valores pela União Federal somente poderia ser reclamado até o quinquênio seguinte ao último depósito. Aduz, ainda, que é de dez anos o prazo prescricional para guarda de documentos referentes à liberação/saque de PASEP e contestação de saque, de maneira que, como não há mais contribuições desde 1989 para as contas individuais, reclamações sobre esses depósitos estão prescritas;
+(III) arts. 186 e 927, ambos do Código Civil, ao argumento de que a parte recorrida não fez prova alguma do prejuízo sofrido ou de que o Banco contribuiu para a perda patrimonial alegada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Sobre o tema da legitimidade passiva nas ações que visem ao ressarcimento dos valores indevidamente sacados das contas vinculadas ao PIS/PASEP, a Primeira Seção desta Corte de Justiça possui entendimento no sentido de que compete à Justiça Estadual processar e julgar as causas cíveis relativas ao PASEP, porquanto o Banco do Brasil é o gestor das referidas contas, incidindo, desse modo, o teor da Súmula 42/STJ. No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PASEP. AÇÃO EM QUE SE ALEGA FALHA NA ADMINISTRAÇÃO DO PROGRAMA. INSTITUIÇÃO GESTORA. BANCO DO BRASIL. LEGITIMIDADE PASSIVA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE DÁ PROVIMENTO.
+1. A Primeira Seção desta egrégia Corte Superior tem entendimento de que, nos termos da Súmula 42/STJ, compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o BANCO DO BRASIL, razão pela qual é parte legítima para figurar no polo passivo da demanda.
+2. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no REsp 1885932/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALORES RELACIONADOS AO PASEP. JUSTIÇA ESTADUAL. COMPETÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A Primeira Seção do Superior Tribunal de Justiça entende que compete à Justiça Comum Estadual processar e julgar as causas cíveis relativas ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal), razão pela qual resta evidenciada sua legitimidade para constar no polo passivo da demanda.
+3. Agravo interno desprovido.
+(AgInt no REsp 1882379/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+No caso, ao concluir pela legitimidade do ora recorrente para figurar no polo passivo da ação, a Corte local consignou (fls. 242/243):
+Nessa linha, considerando que a lide em apreço funda-se não apenas na suposta ausência de correção do valor depositado na conta da Apelante, mas também traz a pretensão desta de ser indenizada pelo suposto desfalque decorrente, ainda, de saques realizados indevidamente, penso que há, sim, legitimidade do Banco para figurar no polo passivo da demanda.
+Cumpre registrar que, se os desfalques verificados se deram com ou sem a autorização da entidade gestora do PASEP, qual seja, o Conselho Diretor já mencionado, tal matéria deve ser debatida e eventualmente instruída em momento próprio, não obstando, portanto, o prosseguimento da demanda em face do Apelado, especialmente pela aplicação da teoria da asserção, segundo a qual as condições da ação devem ser apreciadas à luz das afirmações contidas na exordial.
+Verifica-se que o acórdão recorrido está em consonância com o entendimento desta Corte Superior sobre o tema, merecendo subsistir.
+Por fim, quanto às alegações de prescrição e de ausência de comprovação dos danos materiais, constata-se que o Tribunal de origem não se manifestou sobre os temas, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXP OSTO, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
