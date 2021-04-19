@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interposto por CONCAL CONSTRUTORA CONDE CALDAS LTDA e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Cumprido o despacho de fl. 981, prossigo na análise dos autos.
+Mediante análise do recurso de CONCAL CONSTRUTORA CONDE CALDAS LTDA e OUTRO, a parte recorrente foi intimada do acórdão recorrido em 30/05/2019, sendo o recurso especial interposto somente em 24/06/2019.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ressalte-se que os documentos juntados às fls. 887/888 não são aptos à comprovação de feriado local e/ou suspensão de expediente forense. Conforme jurisprudência desta Corte, os feriados e suspensões devem ser comprovados por meio de documento idôneo (AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/10/2019, DJe 03/10/2019; AgRg nos EDcl no REsp 1819067/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/08/2019, DJe 05/09/2019), não servindo cópia de calendário (AgInt no AREsp 1158537/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 08/08/2018);
+Ainda, apesar da parte ter apresentado os documentos de fls. 889/890, os mesmo são insuficientes para comprovar a tempestividade do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
