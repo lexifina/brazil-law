@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. PREPARO. FALTA DE COMPROVAÇÃO DO PAGAMENTO OPORTUNO. INTIMAÇÃO. PAGAMENTO EM DOBRO. NECESSIDADE. NÃO RECOLHIMENTO. DESERÇÃO.
+I -Na origem, trata-se de mandado de segurança objetivando provimento judicial que declare a nulidade de ato administrativo que impôs a cobrança de direitos antidumping e multa em relação à declaração de importação de produto. Por sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido.
+II - Mediante análise dos autos, verifica-se que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+III - Ainda, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Contudo, apesar de sua manifestação nos autos, o preparo ainda ficou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+IV - Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+V - Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de 5 dias, o vício apontado, complementando o recolhimento das custas. A parte, porém, apresentou recurso contra o despacho de regularização.
+VI - Registre-se que o despacho não possui conteúdo decisório, razão pela qual é irrecorrível, nos termos do art. 1.001 do CPC. Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso especial não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso. Nesse sentido:AgInt no AREsp n. 1.635.507/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/10/2020, DJe 21/10/2020.
+VII - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança objetivando provimento judicial que declare a nulidade de ato administrativo que impôs a cobrança de direitos antidumping e multa em relação à declaração de importação de produto. Por sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+O recurso especial foi interposto contra acórdão com a seguinte ementa:
+ADUANEIRO. DIREITOS ANTIDUMPING. QUITAÇÃO. REQUISITOPARA A PERFECTIBILIZAÇÃO DO PROCESSO DE IMPORTAÇÃO.LAVRATURA DO AUTO DE INFRAÇÃO.O cumprimento das obrigações resultantes da aplicação dos direitos antidumping, objeto de auto de infração, é condição para aintrodução dos produtos no Brasil.
+O recurso especial não foi conhecido em razão de deserção.
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+Entretanto, como se verá, o comprovante de pagamento, bem como a guia de recolhimento das custas de preparo do Recurso Especial estavam satisfeitas no ato de interposição, especialmente diante da aplicação do art. 1.007, §7º, do CPC, pelo Juízo a quo, ao verificar equívoco no processamento do recurso (e-STJ fl. 343)e permitir esclarecimento pelo recorrente. Portanto, o veredicto atacado deve ser reformado para reconhecer a satisfação dos requisitos de admissibilidade do Recurso Especial ou esclarecer as questões processuaisembasadas documentalmente nos autos) essenciais para a questão, com a manutenção da sua conclusão e abertura do prazo para regularização.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREPARO. FALTA DE COMPROVAÇÃO DO PAGAMENTO OPORTUNO. INTIMAÇÃO. PAGAMENTO EM DOBRO. NECESSIDADE. NÃO RECOLHIMENTO. DESERÇÃO.
+I -Na origem, trata-se de mandado de segurança objetivando provimento judicial que declare a nulidade de ato administrativo que impôs a cobrança de direitos antidumping e multa em relação à declaração de importação de produto. Por sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido.
+II - Mediante análise dos autos, verifica-se que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+III - Ainda, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Contudo, apesar de sua manifestação nos autos, o preparo ainda ficou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+IV - Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+V - Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de 5 dias, o vício apontado, complementando o recolhimento das custas. A parte, porém, apresentou recurso contra o despacho de regularização.
+VI - Registre-se que o despacho não possui conteúdo decisório, razão pela qual é irrecorrível, nos termos do art. 1.001 do CPC. Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso especial não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso. Nesse sentido:AgInt no AREsp n. 1.635.507/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/10/2020, DJe 21/10/2020.
+VII - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Mediante análise dos autos, verifica-se que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+Ainda, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Contudo, apesarde sua manifestação nos autos, o preparo ainda ficou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de 5 dias, o vício apontado, complementando o recolhimento das custas. A parte, porém, apresentou recurso contra o despacho de regularização.
+Registre-se que o despacho não possui conteúdo decisório, razão pela qual é irrecorrível, nos termos do art. 1.001 do CPC.Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso especial não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n.187 deste Tribunal, o que leva à deserção do recurso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. FALTA DE COMPROVAÇÃO DO PAGAMENTO OPORTUNO. INTIMAÇÃO. PAGAMENTO EM DOBRO.NECESSIDADE. NÃO RECOLHIMENTO. DESERÇÃO. INTEMPESTIVIDADE. PRAZO EM DOBRO. INAPLICÁVEL À ESPÉCIE.
+1. A ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º) sofre a pena da deserção (Súmula 187/STJ). Não há falar em possibilidade de comprovação tardia, visto que a hipótese não se equipara às situações de regularização posterior previstas no § 2º (insuficiência no valor) e no § 7º (equívoco no preenchimento da guia).
+2. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1.081.447/GO, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 24/10/2017, DJe 19/12/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.635.507/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/10/2020, DJe 21/10/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
