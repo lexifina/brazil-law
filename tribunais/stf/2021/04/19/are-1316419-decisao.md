@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL (ICMS E MULTA). INDEFERIMENTO DO LEVANTAMENTO DE VALORES BLOQUEADOS. FORMAL INCONFORMISMO. INVIABILIDADE NA REALIZAÇÃO DE ATOS CONSTRITIVOS. INCONGRUIDADE. ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE O PARCELAMENTO PROCEDIDO ENGLOBE CRÉDITOS DEVIDOS AO ESTADO DO PARANÁ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 170 da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    A controvérsia recursal cinge-se à inviabilidade na realização de atos constritivos em desfavor da agravante.
+    Compulsando os autos, depreende-se que os créditos executados se referem a ICMS e multa, alusivos ao exercício fiscal de 2012.
+    Vislumbra-se que o plano de recuperação judicial da sociedade agravante foi homologado em 07.08.2013 (autos nº 3001001-19.2012.8.26.0108), perante o Juízo da Vara Única da Comarca de Cajamar/SP e embora tenha sido dada continuidade à vigência do parcelamento concedido, a recuperação foi encerrada (mov. 14.2).
+    Ao contrário do arguido pela agravante, dos documentos colacionados nos autos, não se evidencia que o parcelamento englobe todos os estados da federação, ressaltada a manifestação do Estado do Paraná que afirma sua não participação, corroborando com o elucidado (mov. 14.1).
+    A ministra relatora Maria Isabel Gallotti, quando do julgamento do conflito de competência nº 131316/SP (2013/0384937-1), instaurado pela agravante, concluiu que a recuperação judicial foi encerrada em 20.08.2015, sendo, pois, nesta data, revogadas “todas as decisões que impediam execuções contra a recuperanda” (mov. 85.1).
+    Assim, ante a ausência de elementos que demonstrem que os débitos exequendos foram abrangidos pelo parcelamento firmado no curso da recuperação judicial, ou de demonstração de parcelamento perante o Estado do Paraná, afasta-se a tese de suspensão da exigibilidade do crédito tributário perseguido.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
