@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração de fls. 544-548 opostos pela UNIÃO contra decisão monocrática que tornou sem efeito anterior decisão proferida nos autos e julgou procedente a impugnação, manejada pelo referido ente público, para extinguir o feito executivo e determinar o cancelamento do precatório expedido. Condenou-se, ainda, na ocasião, o exequente, ora embargado, ao pagamento de honorários sucumbenciais fixados em R$ 1.000,00 (mil reais).
+A embargante alega que: (a) "em que pese ter sido reconhecido que nada é devido na execução, o il. Ministro relator arbitrou verba honorária no valor irrisório de R$ 1.000,00 (um mil reais)"; (b) consoante orienta a jurisprudência, "a base de cálculo para fixação da verba honorária é o excesso de execução apurado", que, "no caso em epígrafe, é o valor de R$ 517.697,34 (quinhentos e dezessete mil, seiscentos e noventa e sete reais e trinta e quatro centavos)"; (c) a verba honorária "não chega a 0,1% do excesso de execução encontrado"; e (d) "deve ser majorada a verba honorária em valor correspondente a 20% (vinte por cento) sobre o excesso de execução".
+Requer sejam acolhidos os embargos.
+Não houve apresentação de impugnação pelo embargado.
+É o relatório. Decido.
+A embargante não se desincumbiu de apontar quaisquer dos vícios elencados no art. 1.022 do CPC.
+É manifesto o seu propósito de rediscutir o que restou julgado, não sendo os aclaratórios a via adequada para esse fim. Nesse sentido: "Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum" (EDcl no AgInt no AREsp 1533637/AP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/03/2020, DJe 17/03/2020).
+Por fim, esclareça-se que, no caso dos autos, a fixação dos honorários sucumbenciais deu-se por apreciação equitativa, nos moldes do art. 85, § 8º, do CPC, e não segundo os percentuais de que trata o § 2º do mesmo dispositivo, em atenção ao princípio da razoabilidade e para evitar que ocorram distorções no caso concreto.
+Nesse contexto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
