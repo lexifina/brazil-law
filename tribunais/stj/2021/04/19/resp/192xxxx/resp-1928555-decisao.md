@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, mediante o qual se impugna acórdão, proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSO CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. INAPLICABILIDADE DA ISENÇÃO PREVISTA NO ART. 19, §1º, DA LEI Nº 10.522/2002. APELAÇÃO PARCIALMENTE PROVIDA.
+1. O art. 19, §1º, da Lei nº 10.522/2002, com redação dada pela Lei nº 12.844/2013, prevê a isenção ao pagamento de honorários sucumbenciais apenas nos casos em que o Procurador da Fazenda Nacional reconhecer a procedência do pedido quando citado para apresentar resposta em embargos ou exceção de pré-executividade. Precedente do STJ.
+2. No caso em tela, citada para apresentar resposta aos embargos em 31.03.1996, a Fazenda apresentou impugnação ao pedido, opondo-se aos embargos por mais de 20 (vinte) anos. O reconhecimento da procedência do pedido ocorreu, tão somente, mediante petição apartada, em 13.03.2017, após a instauração do litígio.
+3. Nas causas em que a Fazenda Pública for parte, a fixação de honorários deverá obedecer às regras previstas no art. 85, §3º e incisos do CPC, os quais estabelecem limites percentuais que variam de acordo com o valor da condenação, do proveito econômico, ou ainda, o valor atualizado da causa (§4º, III).
+4. Na hipótese, por ser o valor do proveito econômico alcançado - quantia atualizada da execução - superior ao patamar inicial previsto no art. 85, §3º, I do NCPC, cabe fixação de verba honorária nos moldes estabelecidos pelo §5º, combinado com as diretrizes do §2º e incisos.
+5. Arbitra-se honorários a serem pagos pela Fazenda Nacional à apelante no percentual mínimo (10%) sobre 200 (duzentos) salários-mínimos da faixa inicial (§3º, I) e, sobre o valor excedente, o menor percentual (8%) da faixa seguinte (§3º, II), e assim sucessivamente caso seja necessário.
+6. Apelação provida parcialmente" (fl. 1.910e).
+Embargos de Declaração rejeitados (fls. 1.935/1.942e).
+No Recurso Especial, manejado com apoio naalíneaado permissivo constitucional, aponta-se ofensa aos arts. 90, § 4º, e 1.022 do CPC/2015.
+Sustenta-se, em síntese, que o Tribunal de origem teria sido "omisso quanto ao disposto no art. 90, §4º, do CPC/15, o qual permite a redução dos honorários advocatícios pela metade sempre que houver reconhecimento do pedido pelo réu. Ora, ainda, que se entenda que o Fisco "demorou"a reconhecer a procedência do pedido; inegavelmente, houve reconhecimento com o cancelamento do débito (conforme comprovado pelo documento anexo). Quanto a tal dispositivo legal, foi omisso o v. acórdão, uma vez que não há qualquer limitação temporal para aplicação daquele"(fl. 1.958e). Requer-se o provimento do Recurso Especial, de modo a excluir ou a reduzir, pela metade, a condenação em honorários de sucumbência.
+Recurso Especial admitido (fls. 1.970/1.974e).
+A irresignaçãomerece prosperar.
+Está devidamente caracterizada a omissão, no acórdão recorrido.
+Com efeito, embora o Tribunal de origem tenha sido instado, inclusive mediante Embargos de Declaração, a examinar a alegação de que, emboratenha sido posterior à citação do exequente, houve, de fato, reconhecimento do pedido, por parte da Fazenda recorrente, de modo a justificar a redução dos honorários de sucumbência pela metade, nos termos do art. 90, § 4º, do CPC, quedou-se, aquele Sodalício, silente.
+Como o acolhimento da alegação da ora recorrente poderia, em tese, influir na fixação da verba de sucumbência, tem-se que seu exame era de rigor, sob pena de negativa de prestação jurisdicional e violação ao art. 1.022, II, do CPC.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento aoRecurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Embargos de Declaração, com o expresso enfrentamento da questão referente à aplicação, ou não, no caso, do art. 90, § 4º, do CPC.
+I.
