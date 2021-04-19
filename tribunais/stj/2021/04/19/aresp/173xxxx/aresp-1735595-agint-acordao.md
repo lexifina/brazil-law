@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. ADMINISTRATIVO. FGTS. LIBERAÇÃO DO SALDO. QUITAÇÃO DE FINANCIAMENTO IMOBILIÁRIO. IMPROCEDÊNCIA. RECURSO ESPECIAL. INTEMPESTIVIDADE. PREPARO. DESERÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO.
+I -Na origem, trata-se de ação ajuizada por Felipe Miranda Tavares contra a Caixa Econômica Federal- CEF objetivando a liberação do saldo do FGTS para quitação de parcelas de financiamento imobiliário. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em desfavor da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Nesse sentido, o AgInt no AREsp n. 1.261.554/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/8/2018.
+III - Mediante análise do recurso de Felipe Miranda Tavares, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+IV - Foi percebida no Tribunal de origem irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte recorrente, com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+V - A parte, embora regularmente intimada para efetuar o recolhimento em dobro, fê-lo de forma simples, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil.
+VI - O recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+VII - A recorrente foi intimada da decisão agravada em 22/6/2020, sendo o agravo somente interposto em 22/7/2020.
+VIII - O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+IX - Com efeito, o Superior Tribunal de Justiça pacificou o entendimento de que é presente a configuração do trabalho adicional do advogado que justifica a majoração dos honorários na instância recursal.
+X - Por essa razão, ficou consignado que, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determinará sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da Justiça.
+XI - Agravo interno improvido .
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática que decidiu agravo em recurso especial interposto por Felipe Miranda Tavares, fundamentado no art. 105, II, a, da Constituição Federal.
+O recurso visa reformar acórdão do Tribunal de Justiça do Estado de São Paulo, ementado, nesses termos fl. 280):
+CIVIL. PRETENSÃO DE LEVANTAMENTO DE FGTS COM O FIM DE AMORTIZAR DÍVIDA ADQUIRIDA NO SISTEMA FINANCEIRO IMOBILIÁRIO. IMPOSSIBILIDADE. RESOLUÇÃO 3.932/2010 E POSTERIORES MODIFICAÇÕES. IMÓVEL ADQUIRIDO FORA DOS PARÂMETROS DO SFH. PRECEDENTES DO STJ E DESTE TRIBUNAL. APELO DESPROVIDO.
+Embora a jurisprudência admita a utilização do saldo das contas fundiárias para amortização do saldo devedor, inclusive no âmbito do Sistema Financeiro Imobiliário, tal procedimento apenas é possível quando o imóvel foi adquirido dentro dos requisitos, critérios e parâmetros do Sistema Financeiro Habitacional - SFH. Hipótese na qual, ademais, o recurso deveria ser considerado deserto, por falta de preparo, mas, de qualquer modo, a primazia do exame de mérito é garantida, já que não há prejuízo para a apelada. Apelo desprovido.
+Na origem, trata-se de ação ajuizada por Felipe Miranda Tavares contra a Caixa Econômica Federal - CEF objetivando a liberação do saldo do FGTS para quitação de parcelas de financiamento imobiliário. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+No recurso especial, Felipe Miranda Tavares alega ofensa aos arts.20 da Lei n. 8.036/1990; 8º, II, c, da Lei n. 5.107/1966; 52 do CDC; 276 do CPC/2015; e 93, IX, da CF/1988.
+Foram apresentadas contrarrazões para que seja mantido o acórdão recorrido.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos do acórdão, nesses termos (fls. 383-384):
+Se inadmissível o recurso não era, NÃO SE PODE considerar que seu manejo não obstou a fluência do prazo para interposição do citado Recurso Especial, e, sendo assim, a data de interposição do mesmo é TEMPESTIVA ao contrário do afirmado pelo Relator. (..)
+A nosso modo de ver, mostra-se imprescindível o provimento do recurso especial da parte interessada, porquanto o acórdão do Tribunal a quo está em confronto com a jurisprudência do Superior Tribunal de Justiça, orientada na linha dos precedentes desta Casa (..)
+Além disso, ainda que assim não se entenda, é certo que o Agravante, em SITUAÇÃO DE INSOLVÊNCIA, foi condenado em honorários em valor absurdamente alto em favor dos ríquissimos advogados da CEF, que chegam a receber mais de 40 mil reais mensais de honorários através de sua associação!
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. ADMINISTRATIVO. FGTS. LIBERAÇÃO DO SALDO. QUITAÇÃO DE FINANCIAMENTO IMOBILIÁRIO. IMPROCEDÊNCIA. RECURSO ESPECIAL. INTEMPESTIVIDADE. PREPARO. DESERÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO.
+I -Na origem, trata-se de ação ajuizada por Felipe Miranda Tavares contra a Caixa Econômica Federal- CEF objetivando a liberação do saldo do FGTS para quitação de parcelas de financiamento imobiliário. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em desfavor da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Nesse sentido, o AgInt no AREsp n. 1.261.554/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/8/2018.
+III - Mediante análise do recurso de Felipe Miranda Tavares, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+IV - Foi percebida no Tribunal de origem irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte recorrente, com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+V - A parte, embora regularmente intimada para efetuar o recolhimento em dobro, fê-lo de forma simples, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil.
+VI - O recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+VII - A recorrente foi intimada da decisão agravada em 22/6/2020, sendo o agravo somente interposto em 22/7/2020.
+VIII - O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+IX - Com efeito, o Superior Tribunal de Justiça pacificou o entendimento de que é presente a configuração do trabalho adicional do advogado que justifica a majoração dos honorários na instância recursal.
+X - Por essa razão, ficou consignado que, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determinará sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da Justiça.
+XI - Agravo interno improvido .
+VOTO
+O recurso não merece provimento.
+A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em defavor da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Nesse sentido, o AgInt no AREsp n. 1.261.554/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/08/2018.
+Mediante análise do recurso de Felipe Miranda Tavares, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ainda, foi percebida, no Tribunal de origem, irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte recorrente, com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+A parte, embora regularmente intimada para efetuar o recolhimento em dobro, fê-lo de forma simples, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Outrossim, a parte recorrente foi intimada da decisão agravada em 22/6/2020,sendo o agravo somente interposto em 22/7/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Com efeito, o Superior Tribunal de Justiça pacificou o entendimento de que é presente a configuração do trabalho adicional do advogado que justifica a majoração dos honorários na instância recursal.
+Por essa razão, ficou consignado que, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determinará sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da Justiça.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
