@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de tutela liminar, ajuizada por Orbenk Administração e Serviços LTDA. contra decisão proferida pelo Tribunal Superior do Trabalho, nos autos da reclamação trabalhista nº 0000475-88.2018.5.12.0058, por alegado descumprimento da ordem de suspensão nacional de processos exarada pelo Ministro Gilmar Mendes no ARE nº 1.121.633/GO (Tema nº 1.046 de repercussão geral).
+    Trata-se, na origem, de reclamação trabalhista ajuizada por Margarete Tonelli Muller, empregada pela reclamante, em que se pleiteia o direito à percepção do adicional de insalubridade em grau máximo.
+    A reclamante aduz a existência de convenção coletiva de trabalho que fixa o grau médio de insalubridade para a função desempenhada pela empregada, de modo que a matéria debatida na espécie se enquadraria no Tema 1.046 do Quadro de Repercussão Geral desta Corte.
+    Pondera que, não obstante o adicional de insalubridade encontrar-se assegurado na Constituição Federal, “também é certo que o pagamento da parcela é devido em razão do grau da insalubridade, estando este assegurado na CLT (art. 192), ou seja, na legislação infraconstitucional”.
+    Sustenta que, não obstante ter sido apresentado o pedido de sobrestamento do feito ao TST, os autos encontram-se conclusos a julgamento, omitindo-se a Corte de se manifestar sobre o tema, o que deu ensejo ao ajuizamento da presente reclamação.
+    Requer a “suspensão imediata do Processo 0000475- 88.2018.5.12.0058 e a nulidade de todos os atos processuais posteriores ao ajuizamento da presente reclamação ”.
+    Em 1º/2/21, deferi o pedido liminar para suspender o Processo nº 0000475- 88.2018.5.12.0058.
+    Devidamente citada, a beneficiária apresentou contestação.
+    A autoridade reclamada apresentou informações.
+    É o relatório. Decido.
+    Confirmo as razões que ensejaram o deferimento da medida liminar.
+    Põe-se em foco na reclamação se a autoridade reclamada teria descumprido a determinação de suspensão nacional de processos sobre o Tema nº 1.046 da repercussão geral ao indeferir o sobrestamento do feito na origem.
+    No representativo da controvérsia do Tema nº 1.046 RG (ARE nº 1.121.633/GO), o STF consignou a existência de repercussão geral, nos termos da manifestação do Ministro Gilmar Mendes (Relator):
+    “[A] controvérsia referente à validade de norma coletiva de trabalho que limita ou reduz direitos trabalhistas possui natureza constitucional e inegável relevância do ponto de vista social, econômico ou jurídico, além de transcender os interesses subjetivos da causa, já que a correta interpretação do art. 7º, XXVI, da Constituição Federal é tema recorrente nos tribunais trabalhistas brasileiros e tem gerado insegurança quanto à validade e alcance do pactuado em convenções e acordos coletivos em face das normas previstas na Consolidação das Leis Trabalhistas, à luz do citado preceito constitucional, o que dá ensejo ao reconhecimento da repercussão geral.”
+    Destaco, ainda, que, nos autos do ARE nº 1.121.633/GO-RG, o Ministro Gilmar Mendes determinou a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão em trâmite no território nacional, nos termos do art. 1035, §5º, do CPC, uma vez que o plenário virtual do STF reconheceu a repercussão geral do tema.
+    Entendo que a prescrição constitucional de que trabalhos prestados sob condições especiais sejam remunerados em valor superior àqueles que não apresentam tais características (CF/88, art. 7º, XXIII) não constitui razão que, a priori, suprima a possibilidade de a tese concernente ao Tema 1.046 de repercussão geral granjear segurança jurídica na solução da controvérsia acerca de acordos coletivos que tangenciam os critérios legais para o pagamento desses adicionais.
+    Assim, entendo que o Juízo reclamado, ao indeferir o pedido de suspensão declinado pela parte, viola a autoridade do despacho de sobrestamento no referido paradigma.
+    Nesse mesmo sentido, cito as seguintes decisões: Rcl nº 38.075, Relator o Ministro Alexandre de Moraes, DJe de 26/11/19; Rcl nº 37.932, Relatora a Ministra Cármen Lúcia, DJe de 20/2/20; Rcl nº 36.592, Relator o Ministro Luiz Fux, DJe de 19/3/20; Rcl nº 38.389, Relator o Ministro Gilmar Mendes, Dje de 4/5/20 e Rcl nº 40.630, Relator o Ministro Roberto Barroso, DJe de 15/9/20.
+    Pelo exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para sobrestar o processo nº 0000475-88.2018.5.12.0058, de modo a se aguardar o julgamento do Tema 1.046 de repercussão geral por esta Suprema Corte.
+    Publique-se. Int..
+    Brasília, 19 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
