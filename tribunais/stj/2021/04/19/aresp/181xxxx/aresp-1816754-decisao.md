@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por CELSO CORRÊA E OUTRA pelo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 301):
+Imóvel - Administração Pública Permuta -Alienação - Venda a non domino - Nulidade - Melhorias - Danos materiais - Perda do bem - Danos morais - Responsabilidade estatal - Impossibilidade:
+Sentença que deu a solução acertada mereceprevalecer por seus próprios fundamentos.
+Nas razões do recurso especial, a parte agravante aponta violação aosarts. 369 e 370 do CPC.
+Sustenta, em síntese, a ocorrência de cerceamento de defesa diante do julgamento antecipado do feito. Alega ser"imperioso que a r. sentença e o v. acórdão proferidos sejam anulados, devolvendo-se os autos à Primeira Instância, para que seja realizada a prova pericial a fim de constatar todas as melhorias e benfeitorias efetivadas pelos recorrentes no imóvel, demonstrando-se assim que a recorrida foi beneficiada pela valorização acometida ao bem, de modo quea perda do imóvel por parte dos apelantes configura sua indenização." (fl. 319).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+Quanto ao suposto cerceamento do direito de defesa, de acordo com a jurisprudência consagrada nesta Corte, de fato, é facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, que lhe é conferida pelo art. 370do CPC/2015, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão. Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DE PROVAS.INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO. SÚMULA07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma, DJe5/3/2012).
+O juiz é o destinatário da prova, devendo guardar adstrição ao seu livre convencimento sob o manto da persuasão racional, competindo-lhe determinaras provas úteis à instrução do feito, até mesmo ex officio, afastando as diligências que entender inúteis ou meramente protelatórias sem que, comisso, incorra em cerceamento de defesa.(AgRg nos EDcl nos EDcl no Ag 1.102.672/BA, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 6/9/2010).
+Consoante reiterada jurisprudência deste Superior Tribunal, o art. 130 do CPC/73 (atual art. 370 do CPC/2015)não delimita uma obrigação, mas uma faculdade de o magistrado determinar a realização de provas a qualquer tempo e sob seu livre convencimento, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.(REsp 880.057/SP, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma,2/2/2009).
+No caso, ao indeferir o pleito de produção de provas, a Instância a quo consignou (fl. 303):
+2. Não houve cerceamento de defesa, pois as provas requeridas pelos autores não têm relevância para o deslinde da controvérsia.
+Não se discute eventuais melhorias realizadas pelos autores, pois a o alienação do imóvel, em sendoa non domino, era absolutamente nula, daí nãose podendo extrair qualquer direito aos autores.
+Por essa mesma razão, eventual indenização deveria ser pleiteada em face do alienante, que vendeu bem sobre o qual não tinha propriedade. E mais, com pleno conhecimento desse fato poucos meses após a alienação, conformese verá.
+O Município não teve qualquer participação na avença entre os autores e o alienante Pedro. Note-se que a alienação nem sequer foi registrada, como também se verá.
+Além disso, nem se diga ter havido desapropriação, pois o imóvel nunca foi dos alienantes, menos ainda dos recorrentes, para que se pudesse N H falar em perda do domínio.
+E a prova testemunhal teria a mesma sorte, porque igualmente irrelevante o tempo da posse exercida pelos autores que, a rigor, nem posse tinham,mas mera detenção, por se tratar de bem público.
+Acrescente-se que o princípio da livre convicção realmente não é absoluto, não podendo a sua aplicação implicar arbitrariedade ou abuso do julgador. Ocorre que a parte deve comprovar a pertinência da prova pedida, ônus do qual não se desincumbiram os autores.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, de modo a se chegar à conclusão de que é realmente necessária a realização da prova requerida,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. SERVIÇO PÚBLICO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVAPERICIAL. INDEFERIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTOFÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSALELEITA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7/STJ.
+1. Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária.
+2. Eventual reforma desta decisão importaria em reexame do conjunto fático-probatório, o que é vedado para este magistrado pela Súmula n. 7deste Tribunal. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.355.378/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4/6/2013).
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
