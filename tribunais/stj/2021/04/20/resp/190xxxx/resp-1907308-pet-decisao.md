@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de petição acostada aos autospor IGUATEMI ALIMENTOS LTDA. na qualrequer o sobrestamento do feito até decisão final do recurso especial repetitivo, sem a revogação das decisões proferidas anteriormente.
+Aponta a insurgenteque "a decisão que deu provimento ao Recurso Especial (fls. 314-320) para reconhecer a limitação da Base de Cálculo das Contribuições destinadas à terceiras entidades foi disponibilizada na data de 11/12/2020, com publicação na data de 12/12/2020, conforme certidão de fl. 323. Enquanto, o acordão a qual julgou o sobrestamento, REsp 1.905.870/PR, foi publicado na data de 18/12/2020"(e-STJ, fl. 373) e, nesse contexto,o art. 1.037, II, do CPCprevê a suspensão, e não a anulação, de atos processuais já proferidos quando houver afetação pelo rito dos recursos repetitivos.
+É o relatório.
+Por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Ademais, compete aoTribunal de origem, observar a disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+A propósito, os seguintes julgados em casos nos quais o relator tornou sem efeito a decisão anteriore determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para aguardaro julgamento do recurso repetitivo:AgInt nos EDcl no AgInt nos EDcl no REsp1.829.428/SC, relator Ministro Herman Benjamin, DJe 30/3/2021;AgInt no AREsp 1.353.224/DF,relatora MinistraAssusete Magalhães, DJe 26/3/2021; eEDcl no REsp 1.493.895/AM,relator MinistroMarco Aurélio Bellizze,DJe 23/3/2021.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
