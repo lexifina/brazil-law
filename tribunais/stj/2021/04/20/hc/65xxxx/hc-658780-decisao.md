@@ -1,0 +1,12 @@
+DECISÃO
+IVONETE CORREIAalega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que denegou seu pedido de habeas corpus (HC n. 0001263-17.2021.8.16.0000).
+Infere-se dos autos que a prisão preventiva da paciente foi decretadaa pedido do Ministério Público e perdura desde 28/9/2020, haja vista a suposta prática do delito descrito no art. 157, § 3º, inciso II, do CP(Ação Penalnº 0006674-95.2019.8.16.0037). Os impetrantes assinalam que o fato ocorreu há mais de uma década e que não está justificado o periculum libertatis, pois a suspeita não teria se esquivado da responsabilização criminal. Em verdade, ela não sabia da existência do processo. Invocam a situação de pandemia para pedir a revisão da medida de coação, com lastro na Recomendação n. 62/2020 do CNJ.
+Decido.
+Não verifico, a um primeiro olhar, a plausibilidade jurídica do pedido.
+O suposto crimeocorreu em 2008.Ao que parece, a prisão preventiva não foi decretada apenas porque a ré estava "foragida do distrito da culpa" (fl. 84), o que é contestado pela defesa, apesar de o Tribunal ter consignado que a ré estava "ciente da existência da persecução criminal em seu desfavor, mesmo argumentando o contrário" (fl. 85). O Juiz também salientou ohistórico criminal da acusada, uma vez que, "após perpetração, em tese, dos fatos descritos na denúncia, ela praticou diversos delitos graves, inclusive da mesma natureza patrimonial (por duas vezes), sendo imposta, ao total, pena de vinte e três (23) anos e dez(10) dias de reclusão" (fl. 85).
+A reiteração de crimes violentosevidenciaa elevadapericulosidade da paciente e, portanto, o risco concreto de reiterar atos ilícitos, o que, a princípio, justifica o acautelamento dapública. A motivação externada e odestaque de que a acusada tem"pena pendente de cumprimento", denotam a insuficiência de cautelares menos gravosas (fl. 85).
+Quanto ao pedido de aplicação da Recomendação n. 62/2020 do CNJ, está caracterizada a indevida supressão de duas instâncias, o que impede sua análise direta por esta Corte, principalmente quando não há prova pré-constituídade extrema debilidade clínica da presa ou, ainda, de casos grave ou de óbitos pela Covid-19 no lugar desua reclusão.
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações atualizadas ao Juiz de primeiro grau.
+Depois da resposta, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se e intimem-se.
