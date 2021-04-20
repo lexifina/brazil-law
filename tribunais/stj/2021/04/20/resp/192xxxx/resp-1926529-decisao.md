@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. BASE DE CÁLCULO. LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESPs 1.898.532/CE E 1.905.870/PR, REL. MIN. REGINA HELENA COSTA. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por URBAN SERVIÇOS E TRANSPORTES LTDA., com fundamento na alínea a e c do inciso III do art. 105 da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF 4ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES. LIMITE PREVISTO NO ART. 4º DA LEI Nº 6.950/81. INAPLICABILIDADE.DISPOSITIVO REVOGADO PELO DECRETO-LEI Nº 2.318/86.
+1. A limitação de 20 salários mínimos, prevista no parágrafo único do artigo 4º da Lei nº 6.950/81, foi revogada juntamente com o caput do artigo 4º, pelo Decreto-Lei nº 2.318/86, pois não é possível subsistir em vigor o parágrafo estando revogado o artigo correspondente.
+2. Sentença mantida.
+2. A questão debatida nos autos, qual seja, limitação a 20 (vinte) salários mínimos das bases de cálculo das contribuições parafiscais, encontra-se afetada à 1a. Seção desta Corte Superior, aguardando o julgamento dos REsps1.898.532/CE e 1.905.870/PR, de relatoria da Min. REGINA HELENA COSTA, sob o rito dos recursos repetitivos - Tema 1.079 .
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+4 . Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintes do CPC/2015.
+5. Publique-se. Intimações necessárias.
