@@ -1,0 +1,34 @@
+DECISÃO
+EBERVAL CESAR ROMÃO CINTRA, em habeas corpus impetrado de próprio punho, alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deixou de reconhecer inúmeras nulidades suscitadas pela defesa nos autos do HC n. 2157484-49.2020.
+Informam os autos que o impetrante-paciente foi condenado definitivamente à pena de 8 meses de detenção, em regime inicial aberto, como incurso no art. 331, caput, do Código Penal.
+A defesa sustenta que:
+(a) o juízo aplicou a revelia ao réu, constituindo-se defensor dativo para defender nos interesses do réu;
+(b) o juízo incorreu em erro in procedendo, "o qual, após retificação passou a ter nova data de transito em julgado, não devolvendo-se ao reu o lapso temporal para se recorrer da sentença, e portanto havendo evidente cerceamento do direito de defesa e do contraditório!";
+(c) o paciente é revel, pois "foi condenado pelo suposto crime de desacato perpertuado (sic) por terceiro conforme declarações colhidas na delegacia e teve alterado após oitiva em audiência sem a participação do paciente, seu defensor, ora em causa própria, a buscar a efetiva condenação do advogado, conforme se denota da asseverada advertência em que se fundamentou a injuriar e difamar o causídico por ato não ocorrido!";
+(d) "há nulidade também pela ausencia de intimação do advogado em causa própria em quase todas as intimações", notadamente a da sentença;
+(e) "o réu ora causídico em causa própria, desconstituído pela constituição de defensor dativo pelo juízo", todavia, "o juízo singular não recebeu o recurso e determinou a intimação do defensor dativo as fls. 394, causando prejuízo irreparável pela sentença condenatória face o prejuízo da oferta de defesa e do recurso!";
+(f) "tanto a prova pericial quanto a testemunhal foram cerceadas a defesa, posto que as provas periciais a favor da vitima foram devidamente juntadas e aquela de fls. 11 a favorecer a defesa técnica do acusado ora réu, sumiu";
+(g) "não foram arroladas testemunhas de defesa";
+(h) "o recorrente é advogado e no momento dos fatos encontrava-se no estabelecimento comercial que sofria a coação dos guardas municipais prestando serviços de consultoria empresarial e juridica!!", havendo, portanto necessidade de presença representante da OAB;
+(i) o crime de desacato é atípico porque "quem deu causa pela exaltação, ou mesmo pela retorção foi a guarda municipal, que desferiu palavras direcionadas a honra objetiva do recorrente, já que o recorrente na posição de defensor e advogado do estabelecimento comercial não teria motivos para tanto!";
+(j) o crime de desacato exige dolo específico, a vontade consciente e dirigida à ação de humilhar, de ofender o servidor público, o que não restou evidenciado nos autos porquanto a conduta da recorrente, ainda que incompatível com os padrões da boa educação, foi motivada pela insatisfação - ainda que sem fundamento - com sua prisão em flagrante forjado!";
+(k) "a pena in concreto do apelante foi de à pena de 8 meses de detenção em regime inicial aberto, e os fatos em 08/02/2017, no caso em tela, incide no inciso vi do art. 109 do CP, a pretenção prescreverá em 03 anos, portanto, a pretensão punitiva retroativa como fundamentado, prescreve em 3 (três) anos, contados dos fatos em fevereiro de 2017, ou seja, em 07/02/2020", de modo que, "portanto, a pretensão agora, também executória, restará e estará prescrita".
+A defesa requer:
+Pede e espera o PACIENTE a concessão da ordem de habeas corpus, para TRANCAR A AÇÃO PENAL e ou DECLARAR NULO os ATOS, as AUDIENCIAS, o PROCESSO na sua integralidade e ou pela AUSENCIA de CITAÇÃO VALIDA e PUBLICIDADE dos ATOS JUDICIAIS;
+a concessão da ordem de "habeas corpus" com fulcro art. 5º, LXVIII da CF e art. 647 do CPC em razão de:
+b) ausência de justa causal:
+c) fato atípico: crime foi tipificado contra funcionário público no exercício da função ou em razão dela, no cumprimento da ordem administrativa, sendo arbitrário, de acordo com que a lei exige, além da ausência de prova;
+c) Seja Considerado como RETORÇÃO as palavras dirigidas de baixo calão, pois a causa ocorreu em razão do Abuso de poder em Exaltação momentânea dos envolvido, não podem ser considerados como desacato;
+d) Reconhecidos, atipipicidade da conduta, Nulidade da Prisão e do processo penal, em seqüência, determinar o arquivamento dos autos, e a instauração de procedimentos a Verificar os crimes praticados pelos Servidores municipais, em especial ato abuso de autoridade (art. 3º "a", lei 4.898/65) e de crime de denunciação caluniosa (art. 339, CP e art. 343, com), c.c art. 295 c.c art.
+297, art. 298 e art. 299 c.c art. 304, art. 307 ambos do CP.
+e) Nulidade diante da SUPRESSÃO das PRERROGATIVAS INERENTES a PROFISSÃO de ADVOGADO;
+f) Demais questões Sucitadas na FUNDAMENTAÇÃO;
+Indeferida a liminar pela Presidência do STJ, e prestadas as informações de fls. 291-320, foram os autos enviados ao Ministério Público Federal, que oficiou pelo não conhecimento do writ (fls. 341-346).
+Decido.
+Inicialmente, observo que o acórdão impugnado, embora tenha denegado a ordem, na verdade, não analisou as teses suscitadas pela defesa, salvo a alegada prescrição, o que inviabiliza o conhecimento dos temas, sob pena de vedada supressão de instância.
+Ademais, no que tange ao pedido de trancamento do processo, o Superior Tribunal de Justiça é firme em assinalar que, "proferida sentença condenatória, fica prejudicado o exame de habeas corpus que pugna pelo trancamento da ação penal sob o fundamento de ausência de justa causa para a persecução criminal" (AgRg no RHC 101.886/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 19/9/2018).
+No que tange ao pedido de absolvição, "constatada a regularidade das decisões proferidas pelas instâncias de origem, não é cabível a apreciação do pedido de absolvição, pois a alteração da convicção motivada da instância ordinária demandaria reexame aprofundado do quadro fático-probatório, inviável no rito de cognição sumária da ação constitucional" (HC 293.252/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 5/10/2015).
+Por fim, quanto à alegação de prescrição, a Corte local, corretamente, assinalou que "não se pode admitir qualquer ocorrência da prescrição penal na espécie, diante dos lapsos temporais encontrados, em especial o fato de que o crime atribuído e reconhecido em relação ao paciente se deu em 08 de fevereiro 2017, o recebimento da denúncia em 28 de fevereiro daquele ano (cf. fl. 58 dos autos principais) e o feito devidamente sentenciado, quando publicada a r. sentença em 13 de janeiro de 2020" (fl. 117).
+Julgado o mérito do writ, está prejudicada a análise do pedido de tutela provisória de fls. 348-355.
+À vista do exposto, conheço parcialmente do habeas corpus e, no mais, o denego.
+Publique-se. Intimem-se.
