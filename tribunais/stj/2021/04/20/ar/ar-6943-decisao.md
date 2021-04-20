@@ -1,0 +1,16 @@
+DECISÃO
+Carlos Roberto Soares ajuiza ação rescisória, com base no art. 966, IV, V, VI, VII, VIII e §1º, do CPC, com pedido de tutela de urgência para suspensão dos efeitos da decisão rescindenda, contra o Ministério Público do Estado de Mato Grosso do Sul, pretendendo, em síntese, a rescisão da sentença proferida em autos de ação civil pública - n. 0000520-07.2006.8.12.0012 - , relativamente à demolição de edificações em área de preservação permanente.
+O autor alega, em síntese, que nova legislação - Deliberação Normativa CEC n. 26/2019, que normatizou os ranchos de lazer e equivalentes, de ecoturismo, considerando-os de baixo impacto ambiental - fato superveniente - impede o cumprimento da respectiva sentença.
+Afirma que a decisão a quo foi alvo do Recurso Especial n. 1.495.038/MS, julgado de forma equivocada sob a égide do anterior Código Florestal, tendo sido restabelecida a sentença que determinou que ora autor se abstivesse de utilizar a Área de Preservação Permanente em questão, impondo-lhe a demolição e remoção das edificações existentes, bem como a promoção do reflorestamento da área danificada.
+Invoca precedentes no sentido de encampar a tese ora defendida.
+Recebendo os autos, o Tribunal de Justiça Estadual declinou de sua competência, nos termos da seguinte ementa (fl. 537):
+AGRAVO INTERNO  AÇÃO RESCISÓRIA  COMPETÊNCIA DO TJMS PARA APRECIAR A JULGAR O MÉRITO DA AÇÃO - AFASTADO PARA MANTER A INCOMPETÊNCIA ABSOLUTA  RECURSO IMPROVIDO.
+I - Se o Superior Tribunal de Justiça foi o órgão judicial que por último emitiu pronunciamento de mérito a respeito da controvérsia fático-jurídica, por força do efeito substitutivo do art. 1.008 do CPC, essa decisão do STJ substitui o acórdão prolatado por este Tribunal de Justiça e, por via de consequência, a quem tem competência para processar e julgar a Ação Rescisória, nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, de forma que há obstáculo processual intransponível para julgamento perante este Tribunal local, sob pena de usurpação de competência do art. 988, I, do CPC.
+  Recurso Improvido.
+Os autos ascenderam a esta Corte de Justiça (fl. 565), onde foi concedida a gratuidade de justiça requerida (fl. 566).
+É o relatório. Decido.
+Na hipótese, constata-se a intempestividade da presente ação rescisória.
+Em consulta ao sítio oficial do STF verifica-se que o acórdão respectivo transitou em julgado em 25.05.2018. O autor ajuizou a ação, no Tribunal incompetente, em 24/03/2020 (fl. 2).
+Constatado o equívoco, o Tribunal de Justiça do Estado de Mato Grosso do Sul declarou sua incompetência para o feito, determinando a remessa dos autos a esta Corte de Justiça, mas o autor não se conformou com tal entendimento, interpondo agravo contra a decisão de reconhecimento da incompetência fls. 537-542, e até mesmo posteriores embargos de declaração (fls. 553-556), o que levou a que esta ação chegasse a esta Corte - juízo competente -, fora do prazo decadencial, que não se suspende ou interrompe, nos termos do art. 975 do CPC.
+Ante o exposto, com fundamento no art. 485, IV, do CPC e art. 34, XVIII, do RISTJ, determino a extinção do feito, sem resolução de mérito, julgando prejudicado o pedido liminar.
+Publique-se. Intimem-se.
