@@ -1,0 +1,26 @@
+DECISÃO
+FAROL APOIO MARÍTIMO LTDA.(FAROL) ajuizou ação monitória contra PETRÓLEO BRASILEIRO S.A. PETROBRAS(PETROBRAS), em decorrência de aditivos de cessão contratual formalizados em março e novembro de 2013, tendo como objeto a prestação de serviços de apoio às embarcações afretadas "DEVIN CANDIES" e "KELLY CANDIES".
+Em primeira instância, o pedido foi julgadoprocedente, constituindo de pleno direito o restante do crédito devido, no valorde R$ 190.111,40 (cento e noventa mil cento e onze reais e quarenta centavos) em título executivo judicial, acrescidos de juros legais e correção monetária. A PETROBRAS foi condenadaao pagamento das custas e honorários advocatíciosfixados em 10% sobre o valor da causa (e-STJ, fls. 1.077/1.080).
+A apelação interposta por PETROBRAS não foi provida pelo TJRJ nos termos do acórdão, assim ementado:
+Ação monitória. Contrato de prestação de serviços de apoio a embarcações afretadas celebrado entre as partes. Cláusulas contratuais que previam reembolso de determinadas despesas adiantadas pela contratada, totalizando R$419.525,15.Ausência de pagamento pela Contratante.Oposição de embargos monitórios,tendo sido, na sentença, constituído o título executivo judicial, em R$190.111,40, na forma do artigo 702, §8º do CPC. Irresignação da Empresa embargante. Conjunto probatório suficiente para o reconhecimento da dívida. Apelante que se limitou a sustentar que a sua obrigação contratual (pagamento do reembolso) somente poderia ser cumprida, após um trâmite burocrático, restando, pois, incontroversa a existência da relação jurídica entre as partes e o valor devido, a título de reembolso, claramente consubstanciado através dos documentos apresentados, que não havia sido pago na integralidade.Manutenção do decisum que se impõe. Desprovimento da apelação (e-STJ, fls. 1.147/1.151)
+Os embargos de declaração opostos por PETROBRAS foram desprovidos (e-STJ, fls. 1.171/1.173).
+Irresignada, PETROBRAS interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 489, §1º, IV, e 1.026, §2º, do NCPC ao sustentar que (1) a decisão não foi devidamente fundamentada, porquanto não adotada interpretação correta acerca das cláusulas do contrato firmado entre as partes que não obriga reembolso automático das despesas de praticagem incorridas. Afirmou que não foi apreciada a questão referente aos valores cobrados que foram disponibilizados majoritariamente para reembolso da parte recorrida;(2)a multa aplicada nos embargos declaratórios deve ser afastada (e-STJ, fls. 1.175/1.183).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.193/1.208).
+O apelo nobre não foi admitido em virtude da (1) ausência de ofensa ao art. 489, §1º, IV, do NCPC; (2) incidência das Súmulas nºs 5 e 7 do STJ;e, (3) por estar em consonância com o recurso repetitivo (Resp 1.198.108/RJ,Tema nº 434 do STJ)(e-STJ, fls. 1.210/1.216).
+Nas razões do presente agravo em recurso especial, PETROBRAS afirmouque (1) houve ofensa aos dispositivos de lei federal; e, (2) aSúmulanº7 do STJé inaplicável ao caso (e-STJ, fls. 1.234/1.244).
+Foi apresentada contraminuta (e-STJ, fls. 1.254/1.265).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o fundamento da decisão agravada, pois a PETROBRAS não refutou a incidência daSúmulanº5do STJ.
+E isso não fez porque somente afirmou, nas razões do seu agravo em recurso especial, a ofensa aos dispositivos de lei federal e a inaplicabilidade daSúmulanº 7 do STJ.
+Assim, como não houve a demonstração do adequado enfrentamento do fundamento de incidência da Súmula nº 5 do STJ, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de FAROL, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. RECURSO QUE NÃO INFIRMA FUNDAMENTO DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
