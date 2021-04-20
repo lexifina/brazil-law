@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de WALBER SILVESTRI, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, o qual não conheceu de agravo em execução defensivo, nos termos do acórdão assim ementado:
+" RECURSO DE AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE SOMA AS PENAS E FIXA REGIME. RECURSO DO APENADO. PENA DE DETENÇÃO. REGIME INICIAL FECHADO. JUÍZO DA CONDENAÇÃO. TRÂNSITO EM JULGADO. COISA JULGADA. REVISÃO CRIMINAL (CPP, ARTS. 621 E SS.).
+O Juízo da Execução Penal não detém competência para alterar o regime inicial de cumprimento da pena fixado na sentença condenatória e confirmado pelo Tribunal em julgamento de apelo, pois a matéria, após resolvida pelo Juízo da Condenação, é inalterável, por força do instituto da coisa julgada, cabendo ao interessado ajuizar ação de revisão criminal caso pretenda desconstituí-la.
+RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fl. 13)
+Neste writ, a defesa alega constrangimento ilegal apontou constrangimento ilegal, na medida em que as instâncias ordinárias determinaram a soma das reprimendas e a fixação de regime inicial único para ambas (fechado).
+Afirmou que deveria ter se estabelecido o resgate na forma sucessiva, a iniciar pela mais grave (6 anos, 9 meses e 20 dias, em regime fechado, e, posteriormente, 2 anos, 4 meses e 19 dias, em regime semiaberto), nos moldes do art. 76 do Código Penal.
+Requereu, inclusive liminarmente, a concessão da ordem "para que, afastando-se a soma e a fixação de regime inicial único para cumprimento de ambas as penas (fechado), seja restabelecido o seu resgate de forma sucessiva, a iniciar pela mais grave (6 (seis) anos, 9 (nove) meses e 20 (vinte) dias em regime fechado e, posteriormente, 2 (dois) anos e 4 (quatro) meses e 19 (dezenove) dias em regime semiaberto), com a consequente retificação da ficha do réu para todos os fins" (e-STJ, fl. 11).
+O Ministério Público opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 946-948).
+É o relatório.
+Decido.
+Em consulta à base de dados processuais desta Corte, constato que a controvérsia constitui mera reiteração do pedido formulado no HC 552.477/SC, já julgado por este Relator.
+Destaca-se que há identidade de partes, da causa de pedir e do pedido, ambos os feitos impugnando o mesmo acórdão (HC n. 2099023-84.2020.8.26.0000), fatos esses que obstam o conhecimento deste writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. IMPUGNAÇÃO A FUNDAMENTOS DE DECISÃO PROFERIDA EM OUTRO HABEAS CORPUS JÁ JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182 DO STJ . DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. REITERAÇÃO DE PLEITO FORMULADO NO HC 532.429/ES. IMPOSSIBILIDADE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+3. No caso, note-se que o presente recurso em habeas corpus, distribuído em 12/2/2020, constitui mera reiteração do pedido formulado no HC 532.429/ES, de minha relatoria, o qual não foi conhecido em decisão publicada em 17/12/2019, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (HC 0018605-34.2019.8.08.0000), já tendo sido a matéria devidamente apreciada, o que constitui óbice ao seu conhecimento.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido."(AgRg no RHC 123.835/ES, deste Relator, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020)
+"HABEAS CORPUS. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. PEDIDO DE RECONSIDERAÇÃO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO COMO AGRAVO REGIMENTAL. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 558.936/RS. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 559.376/RS é mera reiteração daquele veiculado no HC n.º 558.936/RS, pois há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria.
+2. Não podem ser processados, nesta Corte, concomitantemente, habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+3. Pedido de reconsideração recebido como agravo regimental e desprovido."(RCD no HC 559.376/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/03/2020, DJe 16/03/2020)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI ANTIDROGAS. PEDIDO FORMULADO ANTERIORMENTE EM OUTRO WRIT JÁ ANALISADO. MERA REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no presente habeas corpus é idêntico ao manejado em outro mandamus, qual seja o HC 417.866/SP, já decidido nesta Corte Superior, em que foi atacado o mesmo acórdão proferido no julgamento da apelação, após análise dos elementos fático-probatórios dos autos, não aplicou a causa especial de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006. Nesse contexto, mantenho o entendimento de inadmissibilidade do conhecimento do presente writ, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal.
+2. Ressalta-se, ainda, que não houve alteração da jurisprudência acerca da aplicação do redutor da pena previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+3. Ademais, eventual modificação jurisprudencial deve ser primeiramente levada ao conhecimento da instância ordinária.
+4. Agravo regimental desprovido." (AgRg no HC 544.699/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/02/2020, DJe 12/02/2020)
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
