@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 1 TABLETE COM O PESO DE 68,02 G DE MACONHA, 0,71 G DE CRACK, 115,63 G DE MACONHA E 93,98 G DE COCAÍNA. DOSIMETRIA. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS, POR PARTE DO PACIENTE.
+1. Não há como a questão da dedicação ao tráfico ser reexaminada em sede de habeas corpus, inaplicável o art. 33, § 4º, da Lei de Drogas. Ainda que a defesa alegue o contrário, esta Corte recebe os fatos que estão delineados no acórdão hostilizado, pel a instância ordinária.
+2. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental em habeas corpus interposto por Willian Lourenço de Oliveira, contra decisão de minha Relatoria, que concedeu a ordem de habeas corpus. Esta, a ementa da decisão (fl. 91):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 1 TABLETE COM O PESO DE 68,02 G DE MACONHA, 0,71 G DE CRACK, 115,63 G DE MACONHA E 93,98 G DE COCAÍNA. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DA PENA. REGIME DE CUMPRIMENTO DA PENA ABRANDADO PARA O SEMIABERTO.
+Ordem parcialmente concedida nos termos do dispositivo.
+Alega o agravante que a decisão deve ser reconsiderada, para que a ele seja reconhecido o redutor de pena, previsto no art. 33, § 4º, da Lei n. 11.343/2006. Afirma ser primário, sem antecedentes e que inexistem provas quanto à dedicação à atividade criminosa.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 1 TABLETE COM O PESO DE 68,02 G DE MACONHA, 0,71 G DE CRACK, 115,63 G DE MACONHA E 93,98 G DE COCAÍNA. DOSIMETRIA. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS, POR PARTE DO PACIENTE.
+1. Não há como a questão da dedicação ao tráfico ser reexaminada em sede de habeas corpus, inaplicável o art. 33, § 4º, da Lei de Drogas. Ainda que a defesa alegue o contrário, esta Corte recebe os fatos que estão delineados no acórdão hostilizado, pela instância ordinária.
+2. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Razão não assiste à defesa. Com efeito, o paciente é primário, sem antecedentes e a quantidade de drogas (1 tablete com o peso de 68,02 g de maconha, 0,71 g de crack, 115,63 g de maconha e 93,98 g de cocaína) não foi suficiente para aumentar a pena-base, que foi fixada no piso mínimo de 5 anos de reclusão. Na segunda fase, foi reconhecida a atenuante de menoridade relativa, porém, a pena provisória se manteve no mesmo patamar, em razão da Súmula 231/STJ. Já na terceira fase, e essa é a insurgência da defesa, deve ser mantido o entendimento da decisão, por estar comprovada a dedicação a atividades criminosas, como constatado na sentença (fl. 28):
+ ..  Registre-se também que não é o caso de aplicação da causa de diminuição de pena prevista no §4º do artigo 33 da Lei de Drogas, uma vez que, durante a instrução processual, constatou-se que, na residência dos réus, estes praticavam a traficância já há bastante tempo, o que faz concluir que eles se dedicavam à atividade criminosa. Tal fato é reforçado pela apreensão de entorpecentes, apetrechos para o tráfico e um pé de maconha no local  .. .
+Não há como a questão da dedicação ao tráfico ser reexaminada em sede de habeas corpus, inaplicável o art. 33, § 4º, da Lei de Drogas. Ainda que a defesa alegue o contrário, esta Corte recebe os fatos que estão delineados no acórdão hostilizado, pela instância ordinária. De fato,  ..  uma vez demonstrada a dedicação do agente ao comércio ilegal de entorpecentes, a hipótese não era de incidência da causa de diminuição da pena do tráfico privilegiado  ..  (AgRg no HC 639517/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/4/21). Nesses termos, inexistente constrangimento ilegal.
+Ante o exposto, nego provimento ao agravo regimental.
