@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CF, contra acórdão do TJSC, que entendeu inexistir prova pré-constituída do direito do impetrante de incorporar valores em seus vencimentos (e-STJ fls. 144/149).
+Alega a parte recorrente, em síntese, que: a) não teria como apresentar prova pré-constituída do VNI (Valor Nominal Identificado) porque o Estado jamais reconheceu o direito de incorporação do cargo comissionado que desempenhou entre 1988 a 1990; b) ainda que tenha optado em receber o valor do cargo efetivo durante o período que desempenhou cargo comissionado, isso não afastava a possibilidade de requerer a incorporação posteriormente, em que a vantagem oferecida pelo segundo passou a superar o primeiro.
+Sem contrarrazões (e-STJ fl. 182).
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 194/196).
+Passo decidir.
+Entendo que o recurso não merece guarida.
+Afirma o impetrante que exerceu cargo em comissão durante 1988 e 1990 e que, por força do art. 90 da Lei Estadual n. 6.745/85, faria jus à incorporação de 40% da diferença entre o vencimento do cargo comissionado e o vencimento do cargo efetivo por ele ocupado - 20% para cada ano.
+O referido artigo - 90, II -dispunha que o servidor que contasse com 12 (doze) meses consecutivos de exercício de cargo em comissão ou função de confiança teria adicionada ao vencimento do seu cargo efetivo, passando a integrá-lo, para todos os efeitos legais, a importância equivalente a 20% até o limite de 100%do valor da diferença entre os vencimentos do cargo em comissão e os vencimentos do cargo efetivo.
+A norma pressupunha, pois, que o montante pago a título do exercício do cargo comissionado superasse aquele pago em relação ao exercício do cargo efetivo.
+Verifica-se, todavia, ser incontroverso que na época em que desempenhou o cargo em comissão (1988 a 1990), o valor do vencimento do cargo efetivo desempenhado pelo impetrante era superior ao do cargo comissionado, tanto que o insurgente optou pela remuneração daquele, e não deste.
+Somente em 2013, quando há muito já extinto o direito de incorporação (revogado pela LC estadual n. 36/91), o autor manifestou o interesse em ver reconhecido o direito de percepção da diferença de 40%.
+Afirma que, atualmente, o cargo comissionado remunera de modo superior ao efetivo, de sorte que não haveria impeditivo para apenas agora solicitar a incorporação, eis que, de toda forma, desempenhou cargo em comissão por dois anos consecutivos, requisito da época o qual teria sido atendido.
+Observa-se que o autor pretende, por via transversa, reconhecer direito adquirido a regime jurídico, aplicando, somente na atual quadra, regra inexistente há mais de vinte anos.
+O direito adquirido que o impetrante poderia reclamar aplicação seria o de incorporação da diferença na época em que desempenhou o cargo comissionado (1988 a 1990), e segundo as regras ali existentes.
+Se, naquele período, o demandante fez a opção de receber os valores do cargo efetivo, e não o do comissionado, não havia diferença a ser incorporada, nos termos do comando normativo que regia a situação jurídica do recorrente (art. 90 da Lei Estadual n. 6.745/85).
+Não pode, agora, exigir o direito à incorporação há muito extinto.
+O Supremo Tribunal Federal, no exame do RE nº 563.965/RN, com repercussão geral reconhecida, reafirmou a jurisprudência de que não há direito adquirido a regime jurídico ou a fórmula de composição da remuneração dos servidores públicos, desde que assegurada a irredutibilidade de vencimentos.
+No mesmo sentido este STJ já sedimentou que "consoante jurisprudência desta Corte Superior e do Supremo Tribunal Federal, o servidor público não possui direito adquirido à permanência no regime jurídico funcional anterior nem à preservação de determinado regime de cálculo de vencimentos ou proventos (..)" (AgInt no RMS 56.816/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 23/09/2020).
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
