@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS ALBERTO ELANDcontra decisão monocrática assim ementada (fl. 53):
+"HABEAS CORPUS. PENAL. FURTO QUALIFICADO. REGIME INICIAL SEMIABERTO. REINCIDENTE. IMPOSIÇÃO LEGAL. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA"
+Nas razões destes embargos, a Defesa alega, em suma, que houve omissão na decisão, pois não foi observado o argumento defensivo de que o Embargante faz jus ao regime prisional abertodiante da pandemia causada pela Covid-19, porquanto ele é portador de doença grave (doença de hodgkin).
+Requer o acolhimento dos presentes embargos para que seja suprida a omissão apontada e reformado o pronunciamento judicial singular.
+É o relatório.Decido.
+Conforme afirmado pelo Impetrante,a tese acima relatada não foi analisada na decisão impugnada. Desse modo, acolho os embargos, massem efeitos modificativos, conforme fundamentação a seguir exposta.
+De início, ressaltoque a alegação de que o Embargantetem direito ao regime mais benéfico em razão da pandemia causada pela Covid-19, notadamente diante da patologia que o acomete,não foi analisada pela Corte estadual, o que impede a apreciação do tema por esta Corte Superior de Justiça, sob pena indevida supressão de instância.
+Exemplificativamente:
+"7. O pedido de revogação da prisão como forma de evitar contaminação por coronavÍrus não foi apreciado no acórdão atacado, o que obsta o conhecimento da tese diretamente por esta Corte, sob pena de incorrer-se em indevida supressão de instância.  .. 9. Recurso parcialmente conhecido e desprovido."(RHC 144.001/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 30/03/2021, DJe 08/04/2021.)
+Não obstante,cumpre registrar que a Recomendação n. 62 do CNJ não tem caráter vinculante. Sua finalidade é recomendar/indicar a adoção de providências por parte do Poder Judiciário no combate à proliferação e contágio da Covid-19 nos estabelecimentos prisionais.
+Nesses termos, a jurisprudência desta Corte sedimentou o entendimento de que a referida recomendação não implica automática concessão de liberdade, de prisão domiciliar ou de benefícios executórios, devendo ser analisada a situação dos reclusos no sistema carcerário caso a caso. Assim, para o reconhecimento de algum desses direitos, é necessário que o requerente demonstre a presença dos seguintes requisitos cumulativos: "a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida .. " (AgRg no HC 580.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+No caso, em que pese haver documentos - juntados às fls. 49-50 e datados de outubro de 2020 -que indiquem adoençaque acomete oEmbargante,não há prova pré-constituída capaz de evidenciar a presença dos demais requisitos acima mencionados, notadamente a impossibilidade do recebimento de tratamento no estabelecimento prisional.
+Ademais, via de regra, a aferição da real situação de saúde do Paciente e das condições de tratamento oferecidas pelo estabelecimento prisional demanda revolvimento de provas, o que, como se sabe, não se coaduna com a estreita via dowrit.
+Ante o exposto, ACOLHO os embargos de declaração para sanar a omissão apontada,todavia, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO EXISTENTE. COVID-19. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS CUMULATIVOSELENCADOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
