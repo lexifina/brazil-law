@@ -1,0 +1,25 @@
+DECISÃO
+VERBETE VINCULANTE Nº 10 DA SÚMULA – INOBSERVÂNCIA RELEVÂNCIA – LIMINAR DEFERIMENTO.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    O Estado de Goiás afirma haver a Segunda Turma do Tribunal Superior do Trabalho, no processo nº 10788- 95.2015.5.18.0010, inobservado o verbete vinculante nº 10 e o decidido na ação declaratória de constitucionalidade nº 16 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 – Tema nº 246.
+     Narra estar em debate a responsabilidade subsidiária da Administração Pública quanto a encargos trabalhistas devidos à empregada de prestadora de serviços. Salienta mantida, em sede de recurso ordinário, a obrigação. Afirma interposto agravo de instrumento em recurso de revista, sem sucesso. Noticia suspenso recurso extraordinário.
+    Diz proclamada, no processo objetivo, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Sublinha fixada, no julgamento do extraordinário de nº 760.931, tese a revelar que o inadimplemento de encargos trabalhistas dos empregados da contratada não implica, automaticamente, a responsabilidade, em caráter solidário ou subsidiário, do ente contratante. Evoca jurisprudência. Destaca transferido, sem comprovação de negligência na fiscalização, o pagamento das verbas. Argumenta ser do trabalhador o ônus de demonstrar a falha. Realça contrariado o verbete vinculante nº 10, uma vez afastado, sem observância da cláusula de reserva de plenário, o § 1º do artigo 71 da Lei nº 8.666/1993.
+    Requer, no campo precário e efêmero, a suspensão do processo. No mérito, busca a cassação do ato atacado.
+    2. Quanto à inobservância ao verbete vinculante nº 10, nota-se o afastamento, na origem, do § 1º do artigo 71 da Lei nº 8.666/1993, no que excluída a responsabilidade automática da tomadora dos serviços. Atribuiu-se à Administração, de forma linear, obrigação subsidiária pelos créditos trabalhistas. Em 24 de novembro de 2010, o Plenário do Supremo julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16/DF e concluiu pela harmonia do mencionado parágrafo com a Constituição Federal. Em 30 de março de 2017, apesar da ausência de eficácia vinculante, reiterou o entendimento, sob o ângulo da repercussão geral, por ocasião da apreciação do recurso extraordinário nº 760.931. Confiram trecho:
+    […]
+    A condenação subsidiária do ente público (tomador de serviços), ora agravante, resultou da relação mantida com a primeira reclamada prestadora de serviços e do proveito direto e continuado do labor da parte reclamante em suas dependências.
+    Embora não sendo o tomador dos serviços o principal obrigado, deve ser responsabilizado subsidiariamente, por aplicação analógica do artigo 455 da CLT, pois se beneficiou do trabalho da parte reclamante.
+    Tal entendimento está fundamentado, ainda, no Princípio da Proteção, informador do Direito do Trabalho, bem como na culpa in vigilando.
+    [...]
+    Nesses termos, o reconhecimento da responsabilidade subsidiária da recorrente não implica afronta a qualquer artigo constitucional e legal, na medida em que estes devem ser interpretados de forma a não conflitar com as disposições legais e princípios que regem a prestação de trabalho, de sorte a não permitir que fiquem os trabalhadores ao desamparo. Importante salientar que a relação de emprego é tutelada por normas de índole social, que, mesmo em nível constitucional, são hierarquicamente superiores àquelas administrativas ou organizacionais.
+    [...]
+    Não há afronta ao artigo 97, da Constituição Federal ou contrariedade à Súmula Vinculante 10 do Supremo Tribunal Federal, a qual dispõe que “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”, uma vez que não se declarou a inconstitucionalidade do artigo 71 da Lei 8.666/93 ou tampouco se afastou a sua incidência, mas apenas se definiu o seu real alcance, mediante a interpretação sistemática do ordenamento jurídico.
+    Ressalto, também, que não se trata de reconhecimento de vínculo empregatício com a Administração Pública, mas de contrato de terceirização válido, que, por consequência, transfere ao tomador de serviços à responsabilidade subsidiária pelos débitos não quitados pela empresa prestadora de serviços, já que, de fato, é o ente público o verdadeiro beneficiário da mão de obra do trabalhador. Incólume o artigo 37, II, da CF.
+    [...]
+    Frise-se que a falta de fiscalização do tomador dos serviços é estranha aos parâmetros subjetivos da relação jurídica regida pela Consolidação das Leis do Trabalho.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, o processo nº 10788-95.2015.5.18.0010, em curso na Segunda Turma do Tribunal Superior do Trabalho.
+    4. Citem os interessados e solicitem informações. Colham, em seguida, o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 20 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
