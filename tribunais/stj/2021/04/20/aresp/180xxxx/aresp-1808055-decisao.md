@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (fls. 169-170, e-STJ):
+EMENTA - APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - CARGOS DE ANALISTA JUDICIÁRIO E TÉCNICO DE NÍVEL SUPERIOR - EQUIPARAÇÃO SALARIAL DEVIDA - LEI 4.834/2016 - DIREITO AO RECEBIMENTO DE PARCELAS PRETÉRITAS EM PARCELA ÚNICA - RESPONSABILIDADE DO ESTADO - AUSÊNCIA DE PERSONALIDADE JURÍDICADO PODER JUDICIÁRIO - CORREÇÃO MONETÁRIA E JUROS DE MORA EM DÉBITOS DA FAZENDA PÚBLICA - OBSERVÂNCIA DOSJULGADOS DOS RECURSOS REPETITIVOS PELO STF E STJ -HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO EM LIQUIDAÇÃO - RECURSO DE APELAÇÃO E REMESSA NECESSÁRIA CONHECIDOS E DESPROVIDOS.
+I - A equiparação do salário entre os cargos de analista judiciário e técnico de nível superior foi reconhecida de forma expressa pela Lei Estadual 4.834/2016, que se limitou a normatizar quadro fático já verificado, no sentido de que os servidores de ambos possuíam atribuições com a mesma complexidade e carga horária.
+II - Reconhecida a responsabilidade estatal, deve ser este condenado ao pagamento integral das verbas pretéritas devidas, não havendo que se falar em postergação ou vinculação ao duodécimo devido ao Poder Judiciário, ante a ausência de personalidade jurídica deste.
+III Em recente julgado do Superior Tribunal de Justiça no REsp1495146/MG Tema 905, realizado em 22/02/2018, cujo acórdão foi publicado em 02/03/2018, firmou-se a tese de que As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+IV - Tratando-se de sentença ilíquida, deve ser postergada a fixação dos honorários sucumbenciais em favor do patrono da autora para aase de liquidação, em conformidade com o disposto no art. 85, § 4º do CPC/2015.
+Os Embargos de Declaração foram rejeitados (fls. 224-225, e-STJ).
+Sustenta a parte agravante, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC/2015, sob o argumento de que os vícios apontados nos Embargos de Declaração não foram supridos; e, no mérito, dos arts. 1º e 6º da LINDB. Aduz, em síntese (fl. 289, e-STJ):
+Consoante já registrado, o v. Acórdão recorrido reconheceu a equiparação entre duas carreiras distintas para fins de remuneração, determinando que o pagamento da diferença fosse implantado e o período pretérito mesmo anterior à edição da Lei Estadual n. 4.834/2016 fosse pago respeitando-se a prescrição quinquenal, ao arrepio dos arts. 1º e 6º da LINDB que estabelecem que as leis não retroagirão.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 300-306, e-STJ), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 320-324, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 6.4.2021.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/10/2016).
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fl. 172, e-STJ):
+Com efeito, consoante reiteradas manifestações deste Egrégio Tribunal, a Lei Estadual 4.834, de 12 de abril de 2016, reconheceu a identidade de atribuições entre os cargos de técnico de nível superior e o de analista judiciário, e, em decorrência, o direito à respectiva equiparação salarial, com autorização de enquadramento, cálculo e pagamento, pelo Poder Judiciário Estadual, dos vencimentos do cargo de Analista Judiciário, símbolo PJJU-1, nas escalas de vencimentos do cargo de Técnico de Nível Superior, símbolo PJNS-1, com procedência de ajustes orçamentários necessários para nova fórmula de enquadramento, cálculo e pagamento.
+Nesse sentido, confira-se as disposições do art. 1º, da referida lei:
+(..)
+Referida lei, portanto, nada mais fez senão reconhecer uma realidade fática que se apresentava na atuação funcional dos cargos referidos, que possuíam ambos requisito de escolaridade de nível superior, com verdadeira identidade em relação à complexidade das funções e da responsabilidade para o desempenho destas.
+Dessume-se que o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local, a saber, naLeiEstadual4.834/2016. Destaco a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa sua apreciação pelo STJ. Aplicação, por analogia, da Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RESTRUTURAÇÃO ADMINISTRATIVA. OFENSA Á LEI LOCAL. SÚMULA 280/STF. RAZÕES REPETIDAS DOS ACLARATÓRIOS. INTUITO PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Conforme consta dos autos, "a matéria trazida a lume diz respeito a restruturação administrativa do Instituto réu e a consequente equiparação, ou não, das funções de Chefe de Serviço (FGP-V) e de Coordenador (FG-10)".
+2. Nos primeiros aclaratórios, analisaram-se todos os fundamentos expostos pela recorrente, tendo sido esclarecido que o Agravo Interno no Agravo em Recurso Especial 1.419.969/RS, Rel. Ministro Mauro Campbell, utilizado como paradigma, julgou questão distinta: paridade dos servidores ativos e inativos. Portanto, feito o distinguishing dos pontos controversos, fica demonstrado que os contextos fáticos cotejados nos acórdãos são distintos.
+3. A questão em debate envolve, na realidade, análise de legislação local, Lei estadual 13.415/2010, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+4. Diante da renovação de recurso que indicou razões repetidas, já apreciadas e rejeitadas anteriormente - o que evidencia a absoluta desnecessidade de sua utilização -, caracteriza-se o caráter protelatório, de modo que é cabível a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+5. Embargos de Declaração novamente rejeitados, com imposição de multa de 2% do valor da causa, atualizados desde o seu ajuizamento.
+(EDcl nos EDcl no AgInt nos EDcl no REsp 1784152/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/04/2020, DJe 05/05/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. APOSENTADOS E PENSIONISTAS DA EX-FEPASA. DIFERENÇAS DE PISO SALARIAL. CLASSES SALARIAIS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARTIGOS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. ANÁLISE DE LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF.
+1. Cuida-se de ação com o objetivo de restabelecer a diferença entre as classes, de acordo com o piso mínimo estabelecido para a categoria, qual seja, 2,5 salários mínimos, respeitando os percentuais de diferença salarial existente entre uma classe e outra, no salário-base das complementações de proventos recebidas pelos autores, de forma acumulada.
+2. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+3. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+4. Apesar de terem sido invocados dispositivos legais, o fundamento central da controvérsia é de cunho eminentemente amparado em legislação local, a saber, Decreto 35.530, de 19 de setembro de 1959 e art. 4º, §2º, da Lei Estadual 9.343/1996. Destaco a inviabilidade da discussão em Recurso Especial acerca de suposta afronta a matéria local, sendo defesa a sua apreciação pelo STJ.
+Aplicação, por analogia, da Súmula 280/STF, in verbis: "Por ofensa a direito local não cabe Recurso Extraordinário".
+5. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é impossível no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+6. Agravo Interno não provido.
+(AgInt no REsp 1749441/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/12/2018, DJe 11/03/2019)
+PROCESSUAL CIVIL. SERVIDOR MUNICIPAL. REAJUSTE DE VENCIMENTOS. PISO SALARIAL. EQUIPARAÇÃO. EXAME DE LEI LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta pelas recorrentes contra o recorrido, objetivando implantação imediata do piso salarial correspondente à categoria profissional a que pertencem, reajustando as suas folhas de pagamento nos mesmos valores e quantitativos numéricos dos paradigmas apontados.
+2. O Juiz de 1º Grau julgou procedente o pedido.
+3. O Tribunal a quo deu provimento à Apelação do recorrido e assim consignou: "A meu sentir, a decisão meritória proferida pelo Juízo singular está a merecer reparo, porquanto deixou de analisar escorreitamente o cerne da questão. A questão em julgamento gira em tomo de se saber da existência ou não de direito em favor da recorrida em receber reajuste vencimental, tendo por fundamento, conforme alega, o princípio constitucional da isonomia e a existência de decisão judicial determinando a equiparação salarial na forma e nos valores contidos no Decreto municipal n" 7.153/1985, fixando, desta forma, o piso salarial da respectiva categoria profissional." (fl. 206, grifo acrescentado).
+4. Esclareça-se que o exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente do Decreto Municipal 7.153/1985.
+5. Isso posto, a Corte de origem decidiu a lide à luz do aludido Decreto Municipal 7.153/1985, fazendo referência às suas disposições para solucionar a controvérsia. Aplica-se, in casu, por analogia, a Súmula 280 do STF. Nesse sentido: REsp 1.245.902/AM, Relatora Ministra Eliana Calmon, Segunda Turma, DJe 19/6/2013, e AgInt no AREsp 965.063/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2017.
+6. Recurso Especial não conhecido.
+(REsp 1655446/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/04/2017, DJe 08/05/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EQUIPARAÇÃO SALARIAL. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. DIVERGÊNCIA PREJUDICADA.
+1. Cuida-se originalmente de ação ordinária proposta pelo recorrente, com o intuito de recebimento isonômico por seus filiados, delegados de polícia do mesmo patamar salarial dos Procuradores do Estado de mato Grosso, previsto na Lei 6.528/94.
+2. Alega o recorrente violação do art. 4º da Lei 6.528/94. Todavia, o exame de normas de caráter local é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual, "por ofensa a direito local, não cabe recurso extraordinário".
+3. Ressalte-se, ainda, a inviabilidade de análise da questão pela via da divergência. Isso porque atos normativos não enquadrados no conceito de lei federal (Súmula 280/STF) obstam a apreciação da alegada divergência jurisprudencial.
+Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 746.744/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 24/11/2015, DJe 01/12/2015)
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o agravante ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal.
+Por tudo isso,conheçodo Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
