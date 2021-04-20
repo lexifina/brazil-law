@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RENAN GUILHERME CHECAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime previsto no artigo 16, § 1º, inciso IV, da Lei n.º 10.826/2003, tendo o Magistrado singular concedido a liberdade ao acusado mediante recolhimento de fiança, arbitrada em 1 (um) salário mínimo.
+Inconformado, o Ministério Público estadual interpôs recurso em sentido estrito, ao qual foi dado provimento pelo Tribunal de origem, recebendo o acórdão a seguinte ementa (e-STJ fl. 21):
+RECURSO EM SENTIDO ESTRITO - PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA - Decisão que deixou de converter a prisão em flagrante do recorrido em preventiva - Reforma da decisão de primeiro grau - Necessidade - Acusado reincidente em crime doloso - Presentes os requisitos autorizadores da segregação cautelar, notadamente para garantia da ordem pública - Recurso ministerial provido.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a existência de condições pessoais favoráveis ao paciente, que é réu confesso, como primariedade técnica, residência fixa e ocupação lícita, bem como a possibilidade de aplicação de medidas cautelares alternativas, não havendo falar em periculum libertatis, sobretudo porque permaneceu em liberdade desde 10/6/2020, sem que tenha ocorrido qualquer risco à ordem pública.
+Salienta a desproporcionalidade da custódia ante o prognóstico, em caso de condenação, de pena final menos gravosa que o regime fechado,tratando-se de crime cometido sem violência ou grave ameaça.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura.
+O pleito urgente foi indeferido (e-STJ fls. 539/541).
+Prestadas as informações (e-STJ fls. 545/546), o Ministério Público Federal manifestou-se pela prejudicialidade do habeas corpus (e-STJ fls. 539/541).
+É o relatório. Decido.
+Consoante as informações prestadas pelo Juiz a quo, em 29/3/2021 sobreveio sentença nos autos da ação penal originária,condenando Renan como incurso no art. 16, §1º, IV, da Lei n.º10.826/03 a pena de 03 (três) anos de reclusão, em regime aberto, e 10 (dez) dias-multa, no mínimo legal, substituída a pena corporalpor prestação de serviço à comunidade e prestação pecuniária (e-STJ fl. 546). Ademais,Em virtude da superveniente condenação à pena restritiva de direito, o Juízo deu por prejudicada a expedição de mandado de prisão ordenada pelo E. TJSP.(e-STJ fl. 546).
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar imposta ao paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
