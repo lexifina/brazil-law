@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente o recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO NÃO ATACADO. NÃO CONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE.
+1. A agravante não infirmou especificamente as razões dodecisumcombatido.
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ).
+3."É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ Acórdão Min. Herman Benjamin, Corte Especial, DJe 7/3/2019).
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+RELATÓRIO
+Trata-se de agravo interno manejadopor Notre Dame Intermédica S.A. contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial. Na oportunidade, deu-se aplicação ao teor da Súmula 182/STJ, porquanto não combatidos todos os fundamentos dodecisumproferido na origem.
+A agravante questiona a majoração da condenação em honorários advocatícios, dizendo que a regra do art. 85, § 11, do CPC/2015 não se aplica nessa instância, em virtudede a sentença haver sido proferida na vigência do CPC/1973.
+Alega que combateu todos os pontos da decisão que inadmitiu o recurso especial.
+Aduz ter questionado a aplicação das Súmulas 5 e 7 do STJ, transcrevendo trecho das razões do seu recurso especial. Acrescenta que (e-STJ, fl. 2.339):
+ ..  mesmo tendo sido recentemente reconhecida a constitucionalidade do ressarcimento ao SUS - posicionamento até então sustentado pela decisão liminar prolatada nos autos da ADIn 1.931-8 MC - é certo que ainda a extensão e o alcance a ser dado à aludida norma deverá ser resolvido pelo Eg.Supremo Tribunal Federal no âmbito do julgamento do precitado recurso de Embargos de Declaração oposto nos autos do Recurso Extraordinário nº 597.064-RJ, de modo que a impugnação formal realizada pela ora Agravante às Súmulas 5 e 7/STJ, desacompanhada de precedentes jurisprudenciais que reforcem sua tese, na forma como preconizado pela r. decisão monocrática de vossa lavra, não poderá, data máxima vênia, inviabilizar a apreciação das violações perpetradas aos artigos 535, incisos I e II; 128; e 460 do CPC/1973, que correspondem aos artigos 1.022, incisos I e II; 141; e 492 do CPC/2015; ao artigo 32, caput e parágrafo 8º, da Lei 9.656/1998; e ao artigo 273, inciso I, do CPC/1973, que corresponde ao artigo 300, caput, do CPC/2015, por esta C. Segunda Turma.
+Registraque, em razão desse quadro," ..  a aplicação da alínea "c" do permissivo constitucional ficou prejudicada ao tema debatido nos autos.." (e-STJ, fl. 2.339).
+Refere violação do art. 300,caput, do CPC/2015 pelo acórdão recorrido, porquanto demonstrados a verossimilhança do pedido e o perigo de dano irreparável. Defende ser possível a análise desse ponto sem reexame de matéria fático-probatória.
+Argumenta que, no recurso especial, expõe a contrariedade ao art. 32,capute § 8º, da Lei n. 9.656/1998, matéria devidamente prequestionada. Afirmaque, "se ressarcimento pressupõe recomposição, esta deve ocorrer pelos valores efetivamente gastos nos atendimentos dos beneficiários de planos de saúde pelas unidades públicas e privadas, credenciadas ou contratadas, pelo Sistema Único de Saúde, e não mediante tabela imposta de forma unilateral através de resolução normativa" (e-STJ, fl. 2.342).
+Impugnação da parte contrária às e-STJ, fls. 2.351-2.358.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO NÃO ATACADO. NÃO CONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE.
+1. A agravante não infirmou especificamente as razões dodecisumcombatido.
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ).
+3."É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ Acórdão Min. Herman Benjamin, Corte Especial, DJe 7/3/2019).
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+O presente recurso não merece prosperar.
+Como dito acima, o não conhecimento do agravo em recurso especial fundou-se na ausência de combatea todos os fundamentos da decisão de inadmissão do apelo nobre. Consignou odecisumora combatido que (e-STJ, fl. 2.321):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC, Súmula 83/STJ, não cabimento de REsp contra acórdão com fundamento eminentemente constitucional, Súmula 7/STJ (cerceamento de defesa), Súmula 5/STJ (exorbitância dos valores cobrados) e Súmula 7/STJ (exorbitância dos valores cobrados).
+Entretanto, a parte agravante deixou de impugnar especificamente:ausência de afronta ao artigo 1.022 do CPC, Súmula 83/STJ, Súmula 7/STJ (cerceamento de defesa), Súmula 5/STJ (exorbitância dos valores cobrados) e Súmula 7/STJ (exorbitância dos valores cobrados).
+A partenão demonstra que, no seu agravo, atacou todas essas razões de decidir. Ela, na verdade, repisa considerações pertinentes ao seu recurso especial, transcrevendo as teses que foram apresentadas naquela ocasião.
+Com esse comportamento, deixou de combater os motivos do julgamento monocrático. Incide, por conseguinte, o óbice da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DO PARTICULAR NÃO CONHECIDO.
+ ..
+3. A decisão ora recorrida não conheceu do Agravo em razão da não impugnação dos fundamentos da decisão agravada, notadamente quanto à incidência da Súmula 7 do STJ, à ausência de prequestionamento, bem como à falta de cotejo do dissídio jurisprudencial. Em razão disso, consignou-se a incidência da Súmula 182/STJ.
+4. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+5. Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável, in casu, a Súmula 182 do STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+6. Agravo Interno não conhecido.
+(EDcl no AREsp 482.971/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 6/3/2018.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANTIDA. MITIGAÇÃO DA EXIGÊNCIA DE COTEJO ANALÍTICO. IMPOSSIBILIDADE NO CASO CONCRETO. AGRAVO DESPROVIDO.
+1. Não há como modificar a decisão agravada que negou seguimento ao recurso em razão da incidência da Súmula n. 182/STJ, uma vez que a parte agravante deixou de impugnar o fundamento de inadmissão do recurso especial - não realização de cotejo analítico entre a hipótese dos autos e o paradigma indicado -, limitando-se a reproduzir a peça especial.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp 1.043.276/SP, Rel. Min. JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/5/2017, DJe 7/6/2017.)
+Relativamente à majoração da condenação em honorários advocatícios,nada há a reparar.
+A Corte Especial do Superior Tribunal de Justiça estabeleceu que a providência é devida quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Segue a ementa do precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11.In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Min. FELIX FISCHER, Rel. p/ Acórdão Min. HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019.)
+Ante o exposto, conheço parcialmente do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
