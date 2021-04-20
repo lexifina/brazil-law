@@ -1,0 +1,29 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Crimes de receptação e furto qualificado. Acordo de Não Persecução Penal – ANPP. Pedido de remessa dos autos ao Juízo de primeiro grau. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. RECEPTAÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. IRRETROATIVIDADE DA LEI PROCESSUAL PENAL MAIS BENÉFICA. PRECLUSÃO DA FASE INSTRUTÓRIA. RÉU JÁ CONDENADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+    I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+    II - Descabida a aplicação retroativa do acordo de não persecução penal, inserido pela Lei n. 13.964/2019, quando a persecução penal já ocorreu, com o feito sentenciado e condenação mantida pelo Tribunal de origem. Precedentes.
+    Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 anos de reclusão, em regime inicial aberto, pela prática dos crimes previstos nos arts. 180 e 155, § 4º, I e IV, na forma do art. 69, todos do Código Penal. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos.
+    3. O Tribunal de Justiça do Estado de Santa Catarina (TJ/SC) negou provimento à apelação da defesa.
+    4. Na sequência foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 629.225, Ministro Felix Fischer, não conheceu do writ. Contra essa decisão, foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante afirma que:
+    (i) “instituto inserido no artigo 28-A, do CPP, pela recente edição do Pacote Anticrime, Lei nº 13.964, de 24 de dezembro de 2019, o Acordo de Não Persecução Penal – ANPP – surge como medida despenalizadora, permitindo afastar a incidência da sanção penal em certos crimes (sem violência ou grave ameaça e com pena mínima inferior a quatro anos), mediante acordo de cumprimento de determinadas medidas”;
+    (ii) “não fosse pela aplicação imediata da lei processual, em se tratando o Pacote Anticrime de norma penal que atenua a situação do réu com caráter misto (tanto é de direito processual penal quanto de direito material), isso já seria bastante para determinar a aplicação do instituto do Acordo de Não Persecução Penal de forma retroativa, nos termos do art. 2º, parágrafo único, do Código Penal, e art. 5º, XL, da Constituição Federal de 1988”.
+    6.  Prossegue a narrativa para sustentar que, no caso, “[o] réu foi denunciado pelos crimes dos arts. 155, §4º, I e IV, e no art. 180, caput, do CP, cuja pena mínima é inferior a quatro anos e não é cabível a transação penal, já que a pena máxima é superior a dois. Trata-se de delito praticado sem violência ou grave ameaça. O assistido não é reincidente e não há elementos que indiquem conduta criminal habitual, reiterada ou profissional. Tampouco há notícia de que tenha sido beneficiado anteriormente por transação penal ou suspensão condicional do processo”. Sendo assim, “mostra-se claramente cabível a remessa dos autos ao juízo de origem para a verificação de eventual possibilidade de oferecimento de proposta de Acordo de Não Persecução Penal pelo Ministério Público em benefício do ora PACIENTE”.
+    7. A defesa requer a concessão da ordem “com a determinação de baixa ao Juízo de origem e oferecimento de ANPP”.
+    8. Decido.
+    9. O habeas corpus não deve ser concedido.
+    10. O acórdão impugnado está alinhado com o entendimento da Primeira Turma do Supremo Tribunal Federal (STF) no sentido de que “o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia” (HC 191464 AgR, de minha relatoria). Transcrevo a ementa do julgado:
+    “Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+    1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+    2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+    3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+    4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+    5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: ‘o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia’.”
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 20 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
