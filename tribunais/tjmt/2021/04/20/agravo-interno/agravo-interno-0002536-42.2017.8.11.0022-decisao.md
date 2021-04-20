@@ -1,0 +1,59 @@
+VISTOS.
+Trata-se de recurso especial interposto por MARIA NUNES FERREIRA com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo, que restou assim ementado (id. 70496970):
+“AGRAVO INTERNO – RECURSO DE APELAÇÃO E REMESSA NECESSÁRIA – AÇÃO DE COBRANÇA – URV – DECLARADA A INCOMPETÊNCIA DESTE E. TRIBUNAL – DETERMINADO A REMESSA A TURMA RECURSAL – LIQUIDAÇÃO DE SENTENÇA – VALOR DA CAUSA INFERIOR A 60 (SESSENTA) SALÁRIOS MÍNIMOS - TRAMITAÇÃO JUNTO AO JUIZADO ESPECIAL DA FAZENDA - POSSIBILIDADE - RECURSO DESPROVIDO.
+1 - A vedação de sentença ilíquida, contida no art. 38, parágrafo único, da Lei 9.099/95, não se aplica ao Juizado Especial da Fazenda Pública, o qual possui ordenamento jurídico próprio, vale dizer, a Lei 12.153/09, que não reproduz aquela norma restritiva. (TJMG - Conflito de Competência 1.0000.18.028589-2/000, Relator (a): Des. (a) Jair Varão , 3a CÂMARA CÍVEL, julgamento em 26/4/0018, publicação da sumula em 27/4/2018)
+2 - O art. 2o, caput e § 4o, da Lei no 12.153/2009 estabelece o valor da causa como regra geral da fixação da competência do Juizado Especial da Fazenda Pública.
+3 - Recurso desprovido”.
+Nas razões do recurso especial, a recorrente sustenta, em síntese, violação ao artigo 38, parágrafo único, da Lei no 9.099/95, além de divergência jurisprudencial, ao argumento de que foi formulado pedido ilíquido, cuja quantificação somente será possível na fase de liquidação, de modo que não há como se afirmar que a causa se encarta naquelas aquém de 60 salários mínimos.
+Recurso tempestivo (id. 75427993).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+A recorrente alega violação ao artigo 38, parágrafo único, da Lei no 9.099/95, além de divergência jurisprudencial, ao argumento de que foi formulado pedido ilíquido, cuja quantificação somente será possível na fase de liquidação, de modo que não há como se afirmar que a causa se encarta naquelas aquém de 60 salários mínimos.
+No acórdão impugnado ficou consignado que:
+“(...)Trata-se de Recurso de Agravo Interno, interposto por MARIA NUNES FERREIRA, em face da decisão monocrática proferida por esta Relatora no ID. no 44632476, que, nos autos do Recurso de Apelação com Remessa Necessária no 0002536-42.2017.811.0022, declinou a competência à Turma Recursal Única dos Juizados Especiais do Estado de Mato Grosso, em razão do valor da causa não ultrapassar 60 (sessenta) salários mínimos.
+Em que pesem as alegações da Agravante, tenho que a pretensão posta não merece acolhida, uma vez que não se verifica qualquer ilegalidade na decisão recorrida.
+Precipuamente, é importante asseverar que, a matéria aqui posta está afeta às teses suscitadas no IRDR n. 85560/2016, em que se discutem a tramitação da ação de cobrança de diferenças salariais decorrentes da conversão do Real para URV, perante o Juizado Especial da Fazenda Pública, em observância ao art. 2o, § 4o, da Lei n. 12.153/2009, pois, restou decidido neste que, compete ao Juizado Especial da Fazenda Pública para processar e julgar as ações, que não ultrapassem o valor de 60 (sessenta) salários mínimos, independente da complexidade da matéria e necessidade de produção de prova pericial.
+Em que pesem as alegações do Apelado de que a sentença é ilíquida, imperioso esclarecer que, a aplicação da tese supracitada considera para atribuição de competência o valor atribuído à causa, e não o da sentença.
+(...)
+Ademais, em reunião realizada entre a Presidência desta Corte, a Primeira Câmara de Direito Público e Coletivo e a Segunda Câmara de Direito Público Coletivo, restou acordado que, em cumprimento a tese jurídica firmada no IRDR n. 85560/2016, sob o tema n. 01, nos autos em que o valor da causa não ultrapasse o valor de 60 (sessenta) salários mínimos, deverão ser redistribuídos aos Juizados Especiais da Fazenda Pública, desde que observados as exceções previstas em Lei.
+Com efeito, o artigo 2o da Lei n.12.153, de 22 de dezembro de 2009, dispõe que:
+Art. 2o. É de competência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de 60 (sessenta) salários mínimos.
+§ 1o Não se incluem na competência do Juizado Especial da Fazenda Pública:
+I – as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, por improbidade administrativa, execuções fiscais e as demandas sobre direitos ou interesses difusos e coletivos;
+II – as causas sobre bens imóveis dos Estados, Distrito Federal, Territórios e Municípios, autarquias e fundações públicas a eles vinculadas;
+III – as causas que tenham como objeto a impugnação da pena de demissão imposta a servidores públicos civis ou sanções disciplinares aplicadas a militares.
+§ 2o Quando a pretensão versar sobre obrigações vincendas, para fins de competência do Juizado Especial, a soma de 12 (doze) parcelas vincendas e de eventuais parcelas vencidas não poderá exceder o valor referido no caput deste artigo.
+§ 3o (VETADO)
+§ 4o No foro onde estiver instalado Juizado Especial da Fazenda Pública, a sua competência é absoluta. [Destaquei]
+(...)
+Logo, considerando que o valor atribuído à causa não ultrapassa a 60 (sessenta) salários mínimos, bem como a matéria não se enquadra em nenhuma das excludentes de competência do Juizado Especial da Fazenda Pública, previstas na Lei n. 12.153/2009; além da tese jurídica fixada no IRDR n. 85560/2016, sob o tema n. 01, e diante da reunião ocorrida entre a Presidência e as Câmaras de Direito Público e Coletivo desta Corte, em 25-4-2019, acerca do tema, impõe-se que seja reconhecida a incompetência desta Câmara, para julgar a presente ação.
+Por fim, cabe ressaltar que entendo desnecessário anular as decisões já proferidas, uma vez que, com amparo nos princípios da economia, celeridade processual e instrumentalidade das formas, estabelece a possibilidade de ratificação dos atos processuais praticados até o momento, o que, ao meu entender, deverá ficar a cargo do Magistrado que receber o processo.
+Esse também é o entendimento dos tribunais pátrios. Confira-se:
+Embargos de declaração. Incompetência. Nulidade da sentença. Necessidade de ratificação. Inteligência do art. 64, § 4o, CPC. Vedação à reformatio in pejus. Matéria de ordem pública. Cognoscibilidade de ofício e a qualquer tempo. 1. É do comando do § 4o do art. 64 do CPC que decisão proferida por juiz incompetente conservará seus efeitos até que outra, se necessário, seja proferida pelo magistrado competente. 2. Em se tratando de processo judicial, não se pode pensar em decisão implícita. 3. Singela remessa de processo para instância superior não substitui a indispensável manifestação do magistrado competente a respeito de retificação ou convalidação de sentença que tenha sido proferida por juízo incompetente. 4. Para que não ocorra supressão de instância, não é possível, em grau de recurso, decidir acerca da indispensável providencia prevista no art. 64, § 4o, do CPC. 5. A despeito de prevalecer, no âmbito recursal, vedação à reformatio in pejus, impõe-se observar que esse princípio encontra exceção nas matérias de ordem pública, que devem ser conhecidas, de ofício, em qualquer fase do processo e grau de jurisdição. 6. A convalidação da sentença proferida por magistrado incompetente, sua retificação, ou prolação de decisão substitutiva, nos termos do que prescreve o § 4o do artigo 64 do Código de Processo Civil, constitui condição de eficácia da sentença que, uma vez desatendida, impõe, por se tratar de matéria de ordem pública, o reconhecimento, até mesmo de ofício, da mácula processual. 7. Acórdão alterado de ofício.
+(TJ-RO - APL: 70047064420168220005 RO 7004706-44.2016.822.0005, Data de Julgamento: 2/4/2019). [Destaquei].
+Ante o exposto, com base nos fundamentos retro mencionados, NEGO PROVIMENTO ao recurso de Agravo Interno interposto por Maria Nunes Ferreira, mantendo inalterada a decisão proferida no ID no 44632476, que declarou a incompetência deste egrégio Tribunal de Justiça para apreciar este recurso, por conseguinte, determinando a remessa dos autos à Turma Recursal competente.”.
+Pois bem, compulsando os autos, observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo, senão vejamos:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. VALOR ATRIBUÍDO À CAUSA. COMPETÊNCIA ABSOLUTA. COMPLEXIDADE DA LIDE. IRRELEVÂNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I – [...] II - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual a competência dos Juizados Especiais da Fazenda Pública, sendo absoluta, é firmada segundo o valor atribuído à causa, independentemente do grau de complexidade da lide.
+III – [...] V - Agravo Interno improvido”. (AgInt no RMS 61.265/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020) (g.n.)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta ao artigo 38 da Lei 9.099/95, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Ante o exposto, nego seguimento ao recurso interposto por MARIA NUNES FERREIRA.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
