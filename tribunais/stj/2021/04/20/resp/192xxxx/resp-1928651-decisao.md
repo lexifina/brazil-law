@@ -1,0 +1,44 @@
+DECISÃO
+JOVANI REUS SACON (JOVANI) ajuizou ação revisional contra FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO (FUNCORSAN), cujos pedidos foram julgados parcialmente procedentes para declarar que os juros remuneratórios ficam limitados a 12% ao ano e a compensação dos valores pagos a maior, de forma simples.
+Irresignados, JOVANI e FUNCORSAN apelaram da sentença. O aresto encontra-se assim sintetizado:
+APELAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. EMPRÉSTIMOS FIRMADOS COM ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PRESCRIÇÃO. REJEITADA.
+Em se tratando de ação revisional de contrato de empréstimo, aplica-se o prazo prescricional de 10 anos, previsto no art. 205 do CC, pois fundada em direito pessoal. Ante a ocorrência de renovação sucessiva das dívidas, não há falar em prescrição.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA.
+As atividades prestadas pelas entidades privadas de previdência complementar não podem ser equiparadas às instituições financeiras, sujeitando-se, por conseguinte, às disposições que regem os contratos celebrados com o mercado financeiro e à limitação da taxa de juros de 1% ao mês, equivalente a 12% ao ano. No caso, os juros foram pactuados entre 1,10% e 1,80% ao mês, ou seja, acima do limite imposto pela legislação, inexistindo dúvida a respeito da abusividade.
+CAPITALIZAÇÃO DE JUROS. AFASTAMENTO.
+Não é permitida a cobrança em periodicidade inferior a anual, ainda que prevista de forma expressa, uma vez que as entidades privadas de previdência complementar deixaram de ser equiparadas às instituições financeiras, com o advento da Lei Complementar nº 109/2001. Os cálculos acostados aos autos evidenciam a evolução da dívida com a incidência de capitalização mensal, impondo-se o afastamento da cobrança.
+RECÁLCULO DA TAXA DE ADMINISTRAÇÃO. PARCIAL ACOLHIMENTO.
+Nada a reparar com relação aos contratos nº 0001054-1/2010, 0000077-1/2010, 0044127-1/2009, 0039902-1/2008, 0036268-1/2007, 0030887-1/2006, 0025164- 1/2005, 0021996-1/2004, 0020174-1/2003, 0018308-1/2003, 0011357-1/2001, pois a cláusula contratual estabelece a incidência da taxa de administração sobre o valor emprestado. Porém, quanto aos contratos nº 0056179-8/2017, 0054952-1/2017, 0053496-1/2016, 0048953-1/2014, 0001054-2/2010, a taxa deve ser calculada " sobre o valor solicitado".
+REPETIÇÃO DO INDÉBITO. POSSIBILIDADE.
+Deferida a revisão dos contratos, mostra-se viável a compensação e a repetição do indébito na forma simples, após o expurgo dos encargos abusivos e apuração do saldo final.
+Recurso da demandada desprovido. Apelação do autor parcialmente provida (e-STJ, fls. 325/326).
+Os embargos de declaração opostos por FUNCORSAN foram rejeitados (e-STJ, fls. 346/348).
+Inconformada, FUNCORSAN interpôs  recurso especial, com fundamento no art. 105, a e c, da CF, alegando violação do art. 205 do CC/02, sob o argumento de que o marco inicial do prazo prescricional seria a data da assinatura de cada um dos contratos firmados entre as partes, e não do vencimento ordinário da avença ou do último pagamento realizado. Também apontou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Em juízo de admissibilidade, a Terceira Vice-presidência do Tribunal gaúcho admitiu o referido apelo nobre (e-STJ, fls. 389/399).
+Nesta Corte, orecurso especial não foi provido em decisão monocrática de minha lavra assim ementada:
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE MÚTUO. PRETENSÃO DE REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL.TERMO INICIAL. DATA DO PAGAMENTO. PRECEDENTE.RECURSO ESPECIAL NÃO PROVIDO(e-STJ, fl. 414).
+Nos presentes embargos de declaração, FUNCORSANsustentou que a decisão embargada padece de erro material, pois o caso não se trata de termo inicial da prescrição para a cobrança de obrigações, mas de termo inicial da prescrição para o ajuizamento de ação revisional(e-STJ, fls. 430/440).
+Impugnação apresentada (e-STJ, fls. 443/455).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nos presentes embargos de declaração, FUNCORSAN sustentou que a decisão embargada padece de erro material, pois o caso não se trata de termo inicial da prescrição para a cobrança de obrigações estabelecidas em contrato, mas sim de termo inicial da prescrição para o ajuizamento de ação revisional.
+Deveras, assiste razão àembargante.
+De fato, a decisão embargada analisou a questão como sendo o termo inicial do prazo prescricional para a pretensão de repetição de indébito, o que não é o caso dos autos.
+Com efeito, nas razões do  recurso especial, FUNCORSANalegou violação do art. 205 do CC/02, sob o argumento de que o marco inicial do prazo prescricional seria a data da assinatura de cada um dos contratos firmados entre as partes, e não do vencimento ordinário da avença ou do último pagamento realizado. Também apontou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Quanto ao ponto, o TJRS consignou que:
+Considerando que a ação foi ajuizada em setembro/19, estariam prescritos os contratos com vencimento anterior a setembro/09 (00113571/2001, 00183081/2003, 00201741/2003, 00219961/2004, 00251641/2005 e 00308871/2006), como reconhecido pelo sentenciante.
+No entanto, o exame de cada contrato permite verificar que houve renovação sucessiva das dívidas, uma vez que os valores concedidos são bastante superiores aos valores creditados (ex. R$11.444,38 e R$2.600,00, respectivamente - evento 01, doc. 03, fl. 11), o que reforça a ocorrência de novação e de quitação dos empréstimos anteriores.
+E não há dúvida de que a renegociação não impede a revisão da totalidade da relação contratual. A propósito, o teor da Súmula nº 286 do STJ: "A renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores".
+Portanto, afasto a prescrição reconhecida nos contratos nº 00113571/2001, 00183081/2003, 00201741/2003, 00219961/2004, 00251641/2005 e 00308871/2006, passando depronto à análise das abusividades apontadas, juntamente com o exame dos outros contratos, com base na teoria da causa madura(e-STJ, fls. 321/322 -com destaque no original).
+Como se vê,verifica-se que a Corte Estadual entendeu aplicável, ao caso,a Súmula nº 286 do STJ, uma vez que o montante concedido em cada um dos contratos era sempre superior ao montante concedido no negócio anterior, ou seja, cada contrato, além da quantia concedida, compreendia o saldo devedor relativo ao contrato anteriormente firmado, configurando verdadeira novação da dívida, e, por isso, no entender daquele colegiado,o prazo prescricional não teria se consumado com relação aos contratos de nºs 00113571/2001, 00183081/2003, 00201741/2003, 00219961/2004, 00251641/2005 e 00308871/2006.
+As razões recursais, no entanto, não impugnaram, de forma específica, o fundamento acima destacado, a incidir a Súmula nº 283 do STF.
+Outrossim, o dissídio jurisprudencial não foi demonstrado tendo em vista a ausência de similitude fática, na medida em que a questão do termo inicial do prazo prescricionalpara o caso de renegociação de empréstimos não foi analisada no acórdão indicado como paradigma.
+Nessas condições, ACOLHO os embargos de declaração opostos para, corrigindo o erro material apontado, NEGAR PROVIMENTO ao recurso especial por outro fundamento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL.CONTRATO DE MÚTUO. VIOLAÇÃO DO ART. 1.022 DO NCPC. ERRO MATERIAL.VERIFICADO.PRAZO PRESCRICIONAL. AÇÃO REVISIONAL. TERMO INICIAL. DATA DO CONTRATO. APLICAÇÃO DA SÚMULA Nº 286 DO STJ. NOVAÇÃODA DÍVIDA.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA Nº 283 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.EMBARGOS DE DECLARAÇÃO ACOLHIDOS. RECURSO ESPECIAL NÃO PROVIDO.
