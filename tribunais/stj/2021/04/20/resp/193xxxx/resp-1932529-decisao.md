@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. BASE DE CÁLCULO. LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESPS 1.898.532/CE E 1.905.870/PR, REL. MIN. REGINA HELENA COSTA. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por MARAJÓ BELLA VIA AUTOMOVEIS LTDA., com fundamento nas alíneas a e c do inciso III do art. 105 da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF 4ª Região, assim ementado:
+TRIBUTÁRIO.CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO.20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n.6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Precedentes de ambas as Turmas desta Corte.
+2. A questão debatida nos autos, qual seja, a limitação a 20 (vinte) salários mínimos das bases de cálculo das contribuições parafiscais, encontra-se afetada à 1a. Seção desta Corte Superior, aguardando o julgamento dos REsps 1.898.532/CE e 1.905.870/PR, de relatoria da Min. REGINA HELENA COSTA, sob o rito dos recursos repetitivos - Tema 1.079.
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+4 . Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o Tribunal de origem proceda nos termos dos arts. 1.040 e seguintes do CPC/2015.
+5. Publique-se. Intimações necessárias.
