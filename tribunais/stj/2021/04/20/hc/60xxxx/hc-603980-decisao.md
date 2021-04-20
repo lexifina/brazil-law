@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de JOSE ROBERTO DE SA, contra acórdão do Tribunal de Justiça do Estado de Goiásassim ementado (fl. 30):
+HABEAS CORPUS. DUPLO HOMICÍDIO QUALIFICADO. FRAUDE PROCESSUAL. PANDEMIA DO NOVO CORONAVÍRUS. GRUPO DE RISCO. DIREITO A SALA DE ESTADO MAIOR. TEMAS JULGADOS POR ESTA CORTE. TORTURA. MERA ALEGAÇÃO. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. 1. Avaliadas em habeas corpus anterior, pedido de prisão domiciliar e de direito à sala de estado maior, não se conhece do presente writ, porquanto já existe declaração deste Tribunal de Justiça acoberta pela coisa julgada. 2. Propalada tortura com eventual responsabilização dos agentes públicos de tais atos, deve ser apurada em procedimento específico e/ou por órgãos correicionais, não sendo motivo para revogação da prisão preventiva. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+A defesa alega ausência de requisitos mantenedores da segregação cautelar, inclusive pela manutenção do paciente que é advogado em cela comum e não em sala de estado maior.
+Pondera que"temos que a prerrogativa contemplada no art. 7º, V, da lei 8.906/1994 - Estatuto da Advocacia, interpretado constitucionalmente pelo STF na ADIN 1.127-8 define que são direitos do advogado  ..  não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar" (fl. 9).
+Requer a concessão da ordem paramanter o paciente preso em sala de estado-maiorou, na impossibilidade, a aplicação da prisão domiciliar.
+O pedido de liminar foi indeferido às fls. 145-146.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus. (fls. 179-216).
+É o relatório. Decido.
+O pedido não merece prosperar.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Conformedispõe o acórdão àfl. 34, "Noutro ponto, estando o paciente já em sala de estado- maior, assegurados todos os seus direitos, mormente não havendo comprovação de torturas, como relatado pelo impetrante, não há que falar em revogação da prisão preventiva, sendo que eventual responsabilização dos agentes públicos por tais atos, deve ser apurada em procedimento específico e/ou pelos órgãos correcionais".
+Verifico, portanto, que o paciente já está recolhido em sala de estado-maior, não se cogitando o constrangimento ilegal apontado.
+Por oportuno, a manutenção da prisão preventiva está justificada, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
