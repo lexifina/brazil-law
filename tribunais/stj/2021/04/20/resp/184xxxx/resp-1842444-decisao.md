@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL com fulcro na alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOSassim ementado (e-STJ fl. 384):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. CONSTITUCIONAL E ADMINISTRATIVO.DIREITO FUNDAMENTAL À INFORMAÇÃO. NOTAS FISCAIS DE GASTOS PÚBLICOS. ART. 5º,XXXIII, DA CF. LEI DE ACESSOÀS INFORMAÇÕESPÚBLICAS.
+1. O direito de acesso à informação, positivado no art. 5º, XXXIII, e 37, caput e § 3º, II da ConstituiçãoFederal, tem a finalidade de assegurar a subordinação do Estado a interesses comuns e a sua submissão aocontrole público.
+2. A Lei Distrital nº 4.990/2012 estabelece, no art. 8º, parágrafo único, II e III, que é dever dos órgãos eentidades públicas garantir o acesso, dentre outros, aos gastos realizados pelo administrador.
+3. Assim, é obrigação do Distrito Federal fornecer as informações relativas aos gastos com a aquisição deprodutos e serviços, mediante a disponibilização das notas fiscais emitidas em seu desfavor.
+4. APELAÇÃO E REMESSA NECESSÁRIA CONHECIDAS E NÃO PROVIDAS.
+Embargos de declaração providos, para sanar omissão e majorar os honorários advocatícios (e-STJ fls. 402/406).
+Em suas razões, a parte recorrente aponta violação dos arts. 7º, § 2º e 22 da Lei 12.527/2011 e do art. 198 do Código Tributário Nacional, argumentando que deve-se negar"o direito de acesso ilimitado, genérico e amplo da Autora às notasfiscais eletrônicas relativas ao fornecimento de mercadorias e serviços adquiridos pelaAdministração Pública distrital, uma vez que tais informações são resguardadas porsigilo"(e-STJ fl. 420).
+Contrarrazões às e-STJ fls. 441/452.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 464/465.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa anotação, passo à análise da pretensão recursal.
+Com efeito, os artigos apontados como violadosno apelo extremo não foramalvo de debate no julgado impugnado, tampouco foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir, por analogia, o óbice da Súmula 282 do STF (AgInt no AREsp 905.798/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/08/2016, DJe 19/08/2016, e AgRg no REsp 1.408.130/AL, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2015, DJe 14/08/2015).
+Ademais, épossível verificar que os fundamentos do acórdão recorrido (interpretação do art. 8º da Lei 12.527/2011 edo art. 16 da Lei n. 8.666/1993) não foram rebatidos nas razões do especial interposto, situação que atrai a incidência, por analogia da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", bem como da Súmula 284 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". (EDcl no AgInt no REsp 1589590/SP, rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016).
+Não bastasse isso,verifico que os dispositivos apontados como violados não possuem comando normativo apto a infirmar a tese adotada pelo acórdão recorrido, motivo pelo qual incide a Súmula 284 do STF.
+Leia-se, a propósito, a seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
