@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    Cemig Geração e Transmissão S.A. afirma haver a Primeira Turma do Tribunal Regional do Trabalho da 3ª Região, no processo nº 0010002-95.2014.5.03.0174, inobservado o verbete vinculante nº 10 da Súmula do Supremo e o decidido na ação declaratória de constitucionalidade nº 16 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 – Tema nº 246.
+    Narra estar em debate a responsabilidade subsidiária da Administração Pública quanto a encargos trabalhistas devidos a empregado de prestadora de serviços. Salienta mantida, em sede de recurso ordinário, a obrigação. Noticia interposto agravo de instrumento em recurso de revista, pendente de análise.
+    Diz proclamada, na ação declaratória de constitucionalidade nº 16, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Salienta fixada, no julgamento do recurso extraordinário nº 760.931, tese a revelar que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica, automaticamente, transferência de responsabilidade, em caráter solidário ou subsidiário, ao ente contratante. Evoca jurisprudência. Sustenta transferido, sem comprovação de negligência na fiscalização, o pagamento das verbas. Realça contrariado o verbete vinculante nº 10, uma vez afastado, sem observância da cláusula de reserva de plenário, o mencionado artigo 71, § 1º, a dispor sobre a proibição da transferência, para o ente estatal, dos encargos, e o artigo 8º, cabeça e § 2º, da Consolidação das Leis do Trabalho. Assevera não comprovada culpa relativamente à fiscalização do cumprimento das obrigações trabalhistas.
+    Requer, no campo precário e efêmero, a suspensão dos efeitos do pronunciamento impugnado e do processo. No mérito, busca a cassação do ato atacado.
+    2. Consulta ao sítio do Tribunal Superior do Trabalho revela que, na ocasião da propositura da reclamação, em 9 de junho de 2020, o pronunciamento impugnado, formalizado pelo Regional do Trabalho da 3ª Região e decorrente de julgamento concluído em 9 de março de 2015, já havia sido substituído por acórdão em agravo de instrumento em recurso de revista. Este foi desprovido em 27 de maio de 2020, oportunidade na qual abordada controvérsia atinente à responsabilidade subsidiária da Administração Pública. Confiram trecho:
+    […]
+    O aludido item V foi editado para ajustar a Súmula 331 ao entendimento do Supremo Tribunal Federal, firmado no julgamento da ADC 16 (DJE de 6/12/2010), restando evidenciada a necessidade de efetiva prova da conduta culposa da administração pública (tomadora dos serviços) pelo inadimplemento das obrigações trabalhistas pela empresa prestadora dos serviços.
+    Essa situação fática, contudo, não está evidenciada no processo em exame, na medida em que o Tribunal Regional consignou somente que:
+    “In casu, se não incorreu na culpa in eligendo, por ter escolhido a primeira reclamada através de regular processo licitatório, a recorrente incorreu na culpa in vigilando, por não ter fiscalizado com eficácia os atos da primeira ré no tocante ao cumprimento das obrigações geradas da relação jurídica de emprego que se desenvolveu entre a empregadora e os trabalhadores (fls. 58).
+    Nesse contexto, não se pode atribuir responsabilidade à administração pública com fundamento apenas no inadimplemento da empresa prestadora de serviços. É oportuno ressaltar que o Supremo Tribunal Federal, ao apreciar Reclamações ajuizadas contra decisões proferidas pela Justiça do Trabalho, tem reiteradamente decidido ser indispensável a prova taxativa do nexo de causalidade entre a conduta dos agentes públicos e o dano causado aos empregados das empresas prestadoras de serviços.
+    [...]
+    Assim, ausente prova efetiva de conduta culposa da administração pública, é incabível atribuir-lhe responsabilidade subsidiária pelo descumprimento de obrigação trabalhista pela empresa prestadora de serviços.
+    [...]
+    O artigo 1.008 do Código de Processo Civil prevê que o julgamento prolatado pelo Tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso. Tendo em conta a decisão do Tribunal Superior do Trabalho, mostrou-se impróprio o direcionamento da irresignação contra o do Regional.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 20 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
