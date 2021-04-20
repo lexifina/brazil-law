@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ISRAEL DE SANTANA SOUZA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado da Bahia.
+Depreende-se dos autos que, em 28/12/2018, o paciente foi preso em flagrante pela prática do delito tipificado no art. 157, § 2º, inciso II, do Código Penal (roubo majorado). Em 13/5/2019, foi condenado à pena de 6 (seis) anos de reclusão, no regime inicial fechado, e ao pagamento de 39 dias-multa.
+A defesa informa que impetrou habeas corpus na origem postulando fosse concedido o direito de recorrer em liberdade, writ esse denegadoem acórdão cuja ementa transcrevo a seguir (e-STJ fl. 327):
+CONSTITUCIONAL. PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PACIENTE CONDENADO PELA PRÁTICA DO CRIME DE ROUBO QUALIFICADO À PENA DE 06 (SEIS) ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO, E PRESO DESDE O DIA 28/12/2018.01. PEDIDOS DE ADEQUAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA E DETRAÇÃO PENAL. INVIABILIDADE. AÇÃO CONSTITUCIONAL UTILIZADA COMO SUBSTITUTIVA DE RECURSO PRÓPRIO. ESTREITA VIA QUE NÃO COMPORTA EXAME APROFUNDADO DE PROVAS. NÃO CONHECIMENTO. 02. DA ALEGAÇÃO DE EXCESSO DE PRAZO PARA REMESSA DO RECURSO DE APELAÇÃO A ESTE TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. ATENDIMENTO AOS PRINCÍPIOS DA RAZOABILIDADE E CELERIDADE PROCESSUAL. INSTRUÇÃO QUE DECORREU DE MANEIRA CÉLERE. MAGISTRADO QUE INTIMOU O RÉU, ORA PACIENTE, QUE JÁ APRESENTOU SUAS RAZÕES RECURSAIS, O MINISTÉRIO PÚBLICO, QUE TAMBÉM APRESENTOU SUA PEÇA CORRESPONDENTE, E VEM EMPREENDENDO DILIGÊNCIAS PARA INTIMAR UMA DAS VÍTIMAS. MEDIDA RAZOÁVEL, QUE VISA IMPEDIR A TRAMITAÇÃO DO RECURSO, NESTE SEGUNDO GRAU, COM POSSÍVEIS NULIDADES.
+AUSÊNCIA DE DESÍDIA ESTATAL NA CONDUÇÃO DO FEITO. RESPEITADO O PRINCÍPIO CONSTITUCIONAL DA DURAÇÃO RAZOÁVEL DO PROCESSO (ART. 5º, LXVIII, CF). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER COMBATIDO POR ESTE TRIBUNAL DE JUSTIÇA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NA PARTE CONHECIDA, DENEGADA.
+No Superior Tribunal de Justiça, a defesa aponta constrangimento ilegal decorrente do excesso de prazo para julgamento da apelação, sem que tenha contribuído para tanto.
+Sustenta que "o constrangimento ilegal no qual o Paciente está sendo submetido é evidente; A ILEGALIDADE CONTINUA, ISSO PORQUE OS AUTOS SEGUEM SEM A SUA DEVIDA REMESSA PARA A INSTÂNCIA SUPERIOR E NÃO HÁ QUALQUER PERSPECTIVA DE DISTRIBUIÇÃO DAS RAZÕES RECURSAIS E TAMPOUCO DA SUA ANÁLISE, E INCLUSÃO DE PAUTA PARA SESSÃO DE JULGAMENTO. ADEMAIS, É DE BOM ALVITRE RESSALTAR QUE, DO DIA EM QUE FOI PROTOCOLADO O RECURSO DE APELAÇÃO (17 DE JUNHO DE 2019), ATÉ O PROTOCOLO DO PRESENTE WRIT SE PASSARAM MAIS DE 07 (SETE) MESES" (e-STJ fl. 8).
+Dessa forma, requer, em liminar e no mérito, a expedição de alvará de soltura ou a determinação para a inclusão do recurso de apelação em pauta de julgamento.
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Insta consignar, por necessário, que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisóriamas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que o ora paciente está custodiado desde 28/12/2018, foi condenado em 13/5/2019e aguarda até o presente momento o julgamento da apelação.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que o feito continua na mesma situação, tendo sido baixado em diligência, mas até o momento não foi nem sequer lançado o relatório para revisão, o que sugere uma ainda maior dilação da custódia, que já perdura há mais de 28 meses, circunstância que ultrapassa todos os limites da razoabilidade.
+Desse modo, concedo a ordem para relaxar a prisão preventiva do paciente.
+Publique-se. Intimem-se.
