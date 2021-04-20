@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de mandado de segurança impetrado por GILCIANE DE AGUIAR FERREIRA, com requerimento liminar, contra ato atribuído ao EXMO. MINISTRO DE ESTADO DA SAÚDE, objetivando provimento jurisdicional que declare lícita a acumulação de cargos e válida a compatibilidade de carga horária da impetrante paraacumulação remunerada de cargos públicos ocupados, garantindo-lhe todos os direitos inerentes aos seus cargos públicos.
+Como causa de pedir, a impetrante afirma, em apertada síntese, que é servidora pública federal e atua na área de saúde em dois cargos públicos, sendo o primeiro de auxiliar de enfermagem no Hospital Federal de Bonsucesso, desde 6/12/2005, e o segundo de auxiliar policial de necropsia na Polícia Civil do Rio de Janeiro, admitida em 12/4/2006.
+Destaca que foi compelida pelo Diretor do Hospital Federal de Bonsucesso a tomar ciência de notificação (PAD), na qual deveria apresentar opção de exoneração de um dos cargos, sob pena de abertura de processo administrativo disciplinar.
+Como fundamento para seu pedido, a impetrante sustenta a licitude da acumulação dos cargos públicos que ocupa, na medida em que a legislação de regência denota que, no curso de formação profissional do cargo de auxiliar de necropsia, são ministradas matérias relacionadas à área de saúde, como por exemplo noções básicas de anatomia, noções de traumatologia forense, o que comprova que se trata de cargo privativo da área de saúde. Assinala, ainda, a plena compatibilidade de horários nos cargos em comento.
+Impetrado perante a Justiça Federal do Rio de Janeiro, o writ foi redirecionado a esta Corte de Justiça, conforme decisão de e-STJ, fls. 82-84.
+É o relatório.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso, da documentação juntada aos autos,conclui-se pela ausência deato coator praticado peloMinistro de Estado da Saúde, que atrairia a competência desta Corte, nos termos do 105, I, b, da Constituição da República.
+Com efeito, consoante inteligência do art. 6º, § 3º, da Lei n. 12.016/2009, considera-se autoridade coatora aquela que tenha omitido ou praticado diretamente o ato impugnado ou da qual emane ou deveria emanar a ordem concreta e específica para a sua prática, revelando-se incabível a segurança contra autoridade que não tenha competência para corrigir a ilegalidade impugnada.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROGRAMA "MAIS MÉDICOS PARA O BRASIL". ILEGITIMIDADE DO MINISTRO DE ESTADO DA SAÚDE. COMPETÊNCIA DO SECRETÁRIO DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE (SGTES/MS). PRECEDENTES DO STJ. MANDAMUS DENEGADO.
+1. Cuida-se de Mandado de Segurança cujo pleito é que seja determinado, em caráter liminar, inaudita altera parte, à autoridade coatora que efetue a inscrição do impetrante no programa "Mais médicos para o Brasil" através do Edital 12/2017.
+2. O presente mandamus foi proposto por médico cubano, com diploma revalidado no Brasil. Alega o impetrante que participou do Projeto até o dia 1º/8/2017, quando ocorreu o seu desligamento sem a possibilidade de renovação. Ainda, que ao tentar se inscrever para a chamada pública do 15º ciclo para adesão ao Projeto, no dia 28/11/2017, o impetrante não obteve acesso ao SGP sob justificativa de desligamento voluntário do Projeto.
+3. Na espécie, o impetrante não comprova nenhum ato que, de forma concreta e específica, possa ser atribuído ou imputado ao Ministro de Estado da Saúde. Limitou-se a juntar aos autos a comunicação eletrônica do Departamento de Planejamento e Regulação da Provisão de Profissionais de Saúde - DEPREPS noticiando o seu desligamento do programa anterior.
+4. No caso dos autos, infere-se da legislação de regência do projeto "Mais Médicos para o Brasil" que a gestão dos procedimentos necessários à adesão de médicos é responsabilidade da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES/MS), gerida pelo respectivo Secretário.
+5. Mandado de Segurança denegado.
+(MS 23.919/DF, Rel. Min. HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 9/5/2018, DJe 20/11/2018).
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. AUTORIDADE COATORA.
+Ato do Diretor-Geral do Fundo de Financiamento Estudantil - FIES não pode ser contrastado em mandado de segurança originário perante o Superior Tribunal de Justiça, nada obstante essa autoridade seja subordinada ao Ministro da Educação; só ato praticado por este está sujeito, originariamente e nessa via, ao crivo do Tribunal.
+Agravo regimental desprovido.
+(AgRg no MS 19.563/DF, Rel. Min. ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 23/10/2013, DJe 14/3/2014).
+Na hipótese, o ato apontado como coator foi, ao que tudo indica, praticado pelo Diretordo Hospital Federal de Bonsucesso, ao notificar a impetrante para que optasse por um dos cargos exercidos.
+Em vista disso, a impetrante pretende a declaração de licitude da acumulação de cargos por ela exercida, sem que haja qualquer indicação de ato porventura praticado pelo Ministro de Estado da Saúde, o que afasta a competência desta Corte de Justiça para análise do mandamus.
+Não bastasse isso, é certo que o mandado de segurança é ação constitucional de uso restrito, que visa sanar ato flagrantemente ilegal, de efeitos concretos, o que, da documentação colacionada aos autos,não se observa no presente caso.
+Ante o exposto, indefiro a petição inicial do mandado de segurança, com fundamento nos arts. 10 da Lei n. 12.016/2009 e 212 do Regimento Interno desta Corte.
+Publique-se. Intimem-se.
