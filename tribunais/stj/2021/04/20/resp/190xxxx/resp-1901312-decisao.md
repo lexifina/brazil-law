@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSPassim ementado (e-STJ fl. 452):
+SEGURO SAÚDE - Ação de obrigação de fazer - Cobertura integral de tratamento terapêutico experimental ABA, indicado para portadores do Transtorno do Espectro do Autismo, conforme prescrição médica - Direito do beneficiário, independentemente de não previsão deste no rol de procedimentos obrigatórios da ANS - Incidência da Súmula 102 deste Tribunal - Recusa de cobertura que não se sustém - Negativa que compromete o restabelecimento da saúde do paciente - Prova pericial inútil, no caso Cerceamento de defesa inocorrente Preliminar rejeitada - Recurso desprovido, com observação em relação à majoração da verba honorária de sucumbência.
+No recurso especial (e-STJ fls. 457/473), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 10, § 4º, da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000.
+Sustenta que (e-STJ fls. 464/465):
+ .. se a própria Agência reguladora, que detém autoridade e controle sobre o mercado de planos de saúde, não determina a cobertura obrigatória para terapias com o método ABA, não cabendo, portanto, à operadora a cobertura de qualquer despesa neste aspecto.
+Além disso, necessária observância dos limites de sessões com terapia ocupacional e fonoaudiologia definidos no referido rol.
+Notem Excelências, evidente se mostrou a legalidade da conduta da operadora em relação à negativa efetivada, pois, não há previsão de cobertura para o tratamento que originou a presente demanda.
+ .. o rol proveniente da Agência Nacional de Saúde Suplementar é TAXATIVO e não exemplificativo e que a operadora, ao negar o procedimento com base na respectiva regulamentação, age em exercício regular de direito  ..
+O recorridoapresentou contrarrazões (e-STJ fls. 478/487).
+O recurso foi admitido na origem (e-STJ fls. 488/490).
+Parecer do MPF pelo não conhecimento do recurso (e-STJ fls. 502/506).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fls. 453/454):
+O médico que acompanha o autor, recomendou intervenção comportamental intensiva, especialmente Terapia Psicoterápica Intensiva e Fonoaudiologia pelo método ABA e Terapia Ocupacional - mínimo de 20 horas semanais, o que foi negado pela ré, ao argumento de que não tem obrigação legal de cobrir referido tratamento, não incluído no rol da ANS, bem como extrapola os limites quanto aos fornecimentos de sessões regulamentadas na Resolução Normativa 387/2015 da Agência Nacional de Saúde Suplementar.
+No entanto, prevendo o contrato cobertura para determinada doença, não cabe à seguradora/operadora de plano de saúde definir as técnicas terapêuticas que serão empregadas no tratamento da enfermidade, pena de imiscuir-se na prerrogativa que cabe somente ao médico responsável, detentor do conhecimento técnico-científico necessário para aquilatar a imprescindibilidade e conveniência de suas prescrições. Em assim sendo, a inclusão da obrigação de custeio das terapias prescritas ao autor é de rigor e tem sido deferida por este Tribunal. Essa a razão, até mesmo, da inutilidade da prova pericial pretendida.
+ .. Portanto, deve a ré responsabilizar-se pela cobertura do tratamento solicitado, incluídas todas as terapias que lhe foram recomendadas, sem qualquer limitação temporal. Isso porque, tratando-se de tratamentos contínuos e de longa duração, tem-se que a restrição da cobertura comprometeria o restabelecimento da saúde do autor, esvaziando e prejudicando a sua eficácia, se revelando incompatível com a equidade e a boa-fé, colocando o usuário(consumidor) em situação de desvantagem exagerada.
+Já sedimentado pelo Superior Tribunal de Justiça o entendimento de que abusiva e, consequente, nula, cláusula contratual de contrato de assistência à saúde que estabeleça quantidade máxima de sessões de tratamentos médicos abrangidas na cobertura assistencial, por colocar o consumidor em desvantagem exagerada, conforme previsão do art. 51, IV, do Código de Defesa do Consumidor, aplicável aos planos de saúde conforme teor da Súmula nº 608 do C. STJ.
+Portanto, caracterizada a abusividade da condutada ré, imperativo o custeio integral de todo tratamento de que necessita o autor, sem limites de sessões.
+Com efeito, "esta Corte já se posicionou no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo beneficiário, (..) consideradas necessárias ao pleno restabelecimento da saúde do segurado" (AgInt no AREsp n. 1.699.300/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020). Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. PLEITO ALTERNATIVO DE COPARTICIPAÇÃO. INVIABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte entende ser abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide, ao caso, a Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.575.837/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PARALISIA CEREBRAL. TERAPIA MULTIDISCIPLINAR. DOENÇA COBERTA PELO PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO ABUSIVA. CLÁUSULA CONTRATUAL QUE PREVÊ LIMITE DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+4. "O Superior Tribunal de Justiça já decidiu que, embora a seguradora, com alguma liberdade, possa limitar a cobertura do plano de saúde, a definição do tratamento a ser prestado cabe ao profissional médico, de modo que, se a doença está acobertada pelo contrato, a operadora do plano de saúde não pode negar o procedimento terapêutico adequado. Precedentes" (AgInt no REsp 1.828.289/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe de 02/04/2020)
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.603.974/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Desse modo, devendo o tratamento ser coberto pelo plano de saúde, também não poderia a operadora limitar seu tempo, estando a decisão recorrida em conformidade com o entendimento desta Corte sobre o tema.
+Incidência da Súmula n. 83 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se
