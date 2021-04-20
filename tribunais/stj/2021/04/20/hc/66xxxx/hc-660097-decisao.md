@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de FELIPE LEON SOARES SILVA contra decisão de Desembargador do Tribunal de Justiça do Estado de Minas Gerais,proferidano Habeas Corpus Criminal nº 1.0000.21.060741-2/000.
+Extrai-se dos autos que emdata de 20 de abril de 2020o paciente cumpria pena em livramento condicional quando foi preso em flagrante, em tese, pela suspeita de tráfico de drogas. Após regular instrução, foi ele absolvido, conformesentençade fls. 31/40.
+Foi impetrado o writ originário alegando que o paciente não foi colocado em liberdade por ordem do Juízo da Vara de Execuções Penais, sob o argumento de que o paciente havia cometido novo crime no curso do período de prova do Livramento Condicional e de que não havia ocorrido o trânsito em julgado da sentença que absolveu o paciente, conforme decisão de fl. 74.
+Nopresente mandamus suaDefesareitera a alegação de falta de razoabilidade na manutenção da custódia após a sentença absolutória.
+Requer, em sede liminar e no mérito, que seja assegurado ao paciente o direito de aguardar solto o trânsito em julgado da sentença absolutória.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n.691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco o seguinte precedente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE.AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DE ORIGEM. INDEFERIMENTO DA LIMINAR. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator, ou mesmo pela Presidência no período de férias forenses, está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+3. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+4. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a superação do obstáculo contido na Súmula 691/STF.5. Agravo regimental não provido." (AgRg no HC 556.937/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/03/2020)
+Na hipótese não vislumbro a possibilidade de superação do mencionado enunciado sumular, notadamente porque já foi determinado na sentença absolutória a expedição de alvará de soltura em favor do acusado, a ser cumprido se por outro motivo não deva permanecer preso. Note-se, ainda, que o indeferimento da tutela de urgência, embora sucinto, pautou-se em fundamentação idônea, tendo o relator assim asseverado (fls. 19/20):
+"É cediço que a tutela de urgência reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente, e desde que preenchidos os pressupostos legais, que são o "fumus boni juris" e o "periculum in mora".
+No caso, em análise dos autos, a meu ver, a priori, os argumentos lançados na exordial não se mostram suficientes para caracterizar os requisitos autorizadores do acolhimento do pedido liminar.
+Não há assim, nenhuma ilegalidade flagrante ou abuso de poder manifestamente aferível de plano, ao que dos autos por ora se vê, que possa indicar ou autorizar a concessão liminar da ordem, de modo que julgo prudente, diante das peculiaridades do caso, ouvir as autoridades indicadas como coatoras, para melhor elucidação de todos os fatos narrados na inicial.
+Com tais considerações, INDEFIRO a liminar pleiteada.
+Oficie-se a autoridade apontada como coatora requisitando informações, bem como dos documentos que entender necessário, no prazo de 10 (dez) dias.
+Decorrido o prazo e/ou juntadas as informações prestadas pela dita autoridade coatora, dê-se vista à douta Procuradoria de Justiça, nos termos do art. 449 do Regimento Interno do Tribunal de Justiça do Estado de Minas Gerais."
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a superação do enunciado sumular.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
