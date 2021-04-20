@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por RAIMUNDO BELARMINO RIBEIRO, com fundamento nas alíneas "a" e "c" do art. 105, III, da CF/1998, no qual se insurge contra acórdão do TJ/TO, assim ementado (e-STJ, fls. 46-51):
+"REVISÃO CRIMINAL. CRIME DEHOMICÍDIO. HIPÓTESE NÃO ABRANGIDA PELOARTIGO 621 DO CPP. INADMISSÃO DA AÇÃOREVISIONAL.
+- Não se enquadrando a revisão criminal em nenhumadas hipóteses previstas nos incisos do artigo 621 doCódigo de Processo Penal, a ação não deve serconhecida".
+Sustenta o agravante, nas razões do recurso especial, violação ao art. 155 e art. 414 do Código de Processo Penal.
+Alega, em síntese, que ""as provas existentes foram produzidas sem o contraditório e a ampla defesa"". Aduz que ""inexistem provas judicializadas que demonstrem ter o recorrente praticado o tipo penal ao qual foi condenado"". Relata que não há prova da autoria do crime pelo recorrente. Assevera que a pena base fora fixada muito acima do mínimo legal, na media em que se ""elevou em 04 (quatro) anos a pena-base para o crime de homicídio simples, tendo valorado negativamente praticamente todas as circunstâncias judiciais sem motivação concreta para tanto"". Por fim, afirma que ""qualquer agravamento deve ter esteio em fundamentação idônea, o que não ocorreu no presente caso, configurando, assim, flagrante constrangimento ilegal e violação do próprio texto constitucional (art. 93, IX)"".
+Requer a reforma do acórdão combatido, ante a ausência de prova judicializada. Alternativamente, pleiteia a reformulação da dosimetria da pena.
+Apresentadas as contrarrazões (e-STJ, fls. 86-98).
+O recurso foi inadmitido com fundamento na Súmula 282 do Supremo Tribunal Federal (e-STJ, fls. 100-102), ao que se seguiu a interposição de agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 145-149).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido, de modo que passo ao exame do recurso especial propriamente dito.
+Este, todavia, não ultrapassa a barreira do conhecimento.
+Constato a falta de prequestionamento dos arts. 155 e 414 do CPP, pois a matéria neles tratada não foi objeto de exame pelo acórdão recorrido, o qual não emitiu qualquer juízo de valor sobre a alegada fundamentação da condenação apenas em elementos produzidos durante o inquérito. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+Também não pode ser conhecido o questionamento do recorrente quanto adosimetria da pena, pois o apelo nobre, neste ponto, não indicou especificamente quais seriam os dispositivos de lei federal afrontados pelo acórdão recorrido. Tal circunstância configura deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF.
+Ressalte-se que o recurso especial é de fundamentação vinculada, e por isso exige a indicação ostensiva dos textos normativos federais a que negou vigência o aresto impugnado. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Para inaugurar a instância especial, é imprescindível que o apelo nobre aponte, com precisão, quais dispositivos legais teriam sido violados pela Corte de origem, o que não foi feito no presente caso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
