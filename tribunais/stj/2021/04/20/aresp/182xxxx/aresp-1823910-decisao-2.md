@@ -1,0 +1,31 @@
+DECISÃO
+RITA DE CÁSSIA DA SILVAagrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao apelo defensivo, mantendo a sentença que condenou arecorrente pela prática dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006.
+A defesa aponta a violação doart.35 da Lei n. 11.343/06 insurgindo-se, em síntese, contra a condenação da recorrente pelo crime de associação para o tráfico em razão da nãocomprovação da estabilidade e permanência, necessários para a configuração do referido delito.
+Contrarrazões às e-STJ fls. 1.184/1.189.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 1.362/1.364.
+É o relatório. Decido.
+A irresignação não prospera.
+A questão relativa à configuração do crime do art. 35 da Lei n. 11.343/2006 foi assim dirimida pelo Tribunal de origem:
+Desta forma, as várias evidências colhidas - apreensão de FARTA quantidade de substâncias entorpecentes e material para endolação; a prisão dos Réus em local dominado por facção criminosa; o fato de vários meliantes terem empreendido fuga do local quando notaram a presença da PM. tudo isso somado ao depoimento de William, que fora ameaçado, por membro da facção criminosa Comando Vermelho, por conta de suspeitas de que teria delatado os envolvidos são suficientes para que concluamos pela existência de uma organização anterior entre os Réus e os demais integrantes da organização criminosa.
+Efetivamente, uma associação eventual não compreenderia tantos elementos diversos como os encontrados.
+Ou seja, todos os fatos narrados acima constituem elementos idôneos de que os Réus integravam organização estável e permanente para a venda ilícita de drogas - tendo sido apreendidos os entorpecentes que iriam ser vendidos e o material usado para a endolação da droga. (e-STJ fl. 1.045)
+A análise das circunstâncias fáticas comprovadas no caso concreto conduziu a instância ordinária ao entendimento de que o elemento subjetivo específico do art. 35 da Lei n. 11.343/2006, isto é, o dolo de associar-se de maneira estável para a prática do tráfico de drogas se faz presente.
+Assim, rever a condenação do recorrente como incurso as penas do crime e associação para o tráfico, como proposta pela defesa, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO.INSUFICIÊNCIA DE PROVAS. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS PELA CORTE A QUO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. NECESSIDADE.INCIDÊNCIA DA SÚMULA N. 7/STJ. ILEGALIDADE NÃO CARACTERIZADA.AGRAVO DESPROVIDO.
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina.
+Precedentes.
+2. Concluindo as instâncias de origem, com arrimo no conjunto probatório produzido nos autos, que o agravante, embora tenha evadido do local dos fatos, era um dos agentes que participava da ação ilícita flagrada e estava associado de maneira permanente e estável para o comércio de drogas aos outros agentes, estão caracterizados os delitos de tráfico e associação para o tráfico de drogas, afastando-se a ilegalidade suscitada na insurgência.
+3. Para se entender de modo diverso e desconstituir o édito repressivo, como pretendido no recurso, seria necessário o exame aprofundado do conjunto probatório produzido nos autos, providência que é inadmissível na via especial, ante o óbice da Súmula n. 7/STJ.
+DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. MOTIVAÇÃO SUFICIENTE. ILEGALIDADE INEXISTENTE.
+1. Na fixação da pena-base de crimes previstos na Lei 11.343/2006, deve-se considerar, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância entorpecente, consoante o disposto no artigo 42 da Lei de Drogas.
+2. Na espécie, a reprimenda básica foi estabelecida acima do mínimo legal com esteio na natureza e quantidade da droga apreendida - maconha -, mostrando-se o montante exorbitante fundamento apto a justificar a necessidade de imposição de reprimenda mais grave ao recorrente.
+PRETENDIDA APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4 º, DA LEI N. 11.343/06. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI.
+1. A condenação pelo crime de associação para o tráfico de entorpecentes demonstra a dedicação do agente às atividades criminosas, autorizando a conclusão pelo não preenchimento dos requisitos legalmente exigidos para a concessão da benesse prevista no § 4º do art. 33, da Lei n. 11.343/2006.
+2. Agravo desprovido. (AgRg no AREsp 1676091/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 31/08/2020)
+AGRAVO REGIMENTAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. NATUREZA E QUANTIDADE DA DROGA. EXACERBAÇÃO. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. As instâncias ordinárias concluíram, com fundamento no acervo probatório da ação penal, existir provas aptas para condenar o agravante pela prática do delito de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
+2. Para albergar o pleito absolutório é necessário o revolvimento do material fático-probatório, providência vedada na via estreita do habeas corpus.
+3. Consoante a jurisprudência do Superior Tribunal de Justiça, a natureza e a quantidade do entorpecente são fundamentos idôneos para exasperar a pena-base dos delitos de tráfico e de associação para o tráfico, ex vi do art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental desprovido. (AgRg no HC 497.513/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 17/10/2019)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
