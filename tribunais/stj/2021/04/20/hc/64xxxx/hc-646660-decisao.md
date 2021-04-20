@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deNATHAN DOS SANTOS PEREIRAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará (HC n.0637001-30.2020.8.06.0000).
+O paciente foi preso em flagrante no dia3/9/2020 (fl. 31).Teve a prisão em flagrante convertida em preventiva por representação da autoridade policiale a pedido do Ministério Público (fl. 70) e foi denunciado por suposta prática do delito descrito no art. art. 33, caput e § 1º , II , da Lei n. 11.343/2006 (fls. 124-125).
+O decreto prisional fundou-se na natureza e na quantidade dos entorpecentes apreendidos - "11g de cocaína e 117g de maconha, além de três plantas desta última cultivadas no terreno da residência", e na reiteração delitiva específica "existência de outras ações penais em andamento por crime idêntico e por receptação". (fl. 73). Impetrado o writ na origem,a ordem foi parcialmente conhecida e denegada (fl. 254).
+O Tribunal de origem manteve a decisão do primeiro grau, denegando a ordem, e expediu recomendação ao Juízo de origem para que atribuísse maior celeridade processual ao andamento da ação penal (fl.244).
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, argumentando que a tese acusatória é inidônea, com um conjunto probatório frágil e insuficiente para embasar uma ação penal de tráfico de drogas. Sustenta que o paciente é primário, tem residência fixa e adquire entorpecentes para uso pessoal. Afirma que os princípios constitucionais da razoabilidade e da celeridade processual estão sendo frustrados, haja vista que o paciente encontrou-se privado de sua liberdade durante todo o transcurso do inquérito e início da ação criminal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 287-288.
+As informações foram prestadas às fls. 296-301.
+O Ministério Público Federal manifestou-se pela denegação do Habeas Corpus (fls. 305-306).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+De início, ressalta-se que aquestão da desclassificação da conduta, por demandar exame aprofundado dos elementos de prova constantes do inquérito e/ou da ação penal, não pode ser analisada na estreita via do habeas corpus(AgRg no HC n. 587.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020.)
+Por outro lado,consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 240):
+Pelo cenário delineado, infere-se que a prisão cautelar perdura pelo lapso temporal de 03 (três) meses e que a ação aguarda a citação do paciente. Entretanto, não foi possível vislumbrar morosidade ou desídia por parte da autoridade judicante, pelo contrário, os atos de sua competência foram praticados de forma célere sempre que o processo lhe foi concluso.
+De modo geral, é corriqueiro que atividades criminais perdurem por tempo superior ao imposto na legislação, pois a sistemática adotada na legislação brasileira estabelece a realização de atos/formalidades que por vezes requerem tempo para efetivação.
+Não por acaso, eventual descumprimento dos interregnos processuais não implica automático relaxamento de prisões provisórias. Na verdade, o andamento da demanda deve ser analisado à luz do princípio da razoabilidade.
+Na espécie, trata-se de ação penal complexa, sobretudo em razão das morosas diligências realizadas na apuração dos fatos. De igual modo, não é possível ignorar as dificuldades naturalmente existentes na citação e apresentação de defesa preliminar do acusado. Ainda, não é possível refutar a crise mundial causada pela pandemia do novo corona vírus Covid-19.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Por fim, segundoinformações do Juízo de primeiro grau, a denúncia foi recebida em 28/10/2020, tendo a defesa preliminar sido apresentada em 8/2/2021. Houve ratificação do recebimento da denúncia em 9/2/2021. Audiência de instrução e julgamentodesignada para o dia 6/4/2021.
+Em consulta recente ao site do Tribunal de Justiça do Estado do Ceará, verifica-se que a audiência de instrução e julgamento, de fato, aconteceu no dia aprazado e em13/4/2021, os autos foram conclusos para despacho.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
