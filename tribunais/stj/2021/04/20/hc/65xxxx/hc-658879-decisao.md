@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus impetrado em favor deADELSON ROCHA DOS SANTOScontra acórdãodoTribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o Juiz da VEC negou ao paciente a progressão ao regime semiaberto. O Tribunal negou provimento ao agravo em execução, para mantê-lo no modo mais gravoso.De acordo com a defesa, não existe razão idônea, relacionada à execução penal, apta a demonstrar a dúvida quanto ao requisito subjetivo do art. 112 da LEP.
+Requer, por isso, a colocação do paciente no regime semiaberto.
+Decido.
+O Juízo de primeiro grau assim indeferiu o pedido:
+Em que pese a atual boa conduta carcerária e o preenchimento do requisito objetivo, o sentenciado não reúne méritos subjetivos suficientes para a imediata progressão de regime, eis que cumpre pena por crime hediondo praticado com violência ou grave ameaça contra a pessoa (latrocínio tentado), revelando-se tratar de pessoa perigosa,corrompida pelo submundo do crime e nociva à sociedade.
+Além disso, registra a prática de falta disciplinar de natureza grave durante o cumprimento de penas (fls. 45/50), sendo indispensável a manutenção de sua segregação no regime fechado por maior período, visando a necessária e adequada reeducação penal para, posteriormente, revelar seu merecimento a futura progressão a regime mais brando (fls. 17-18, grifei).
+ACorte local negou provimento ao recurso defensivo, sob a seguinte motivação:
+O agravante, condenado à pena privativa de 13 anos e 4 meses de reclusão, pela prática do gravíssimo delito de latrocínio tentado, possui término da sanção carcerária previsto somente para 29/1/2026.
+Ainda que cumprido o requisito objetivo, ainda nãodemonstrou ter assimilado a terapêutica penal, ausente, pois, o subjetivo, não bastando o mero "atestado de bom comportamento carcerário".
+A despeito do favorável exame criminológico, vários elementos contidos denotam ainda não possuir condições de progredir ao regime intermediário (fls. 14-15, grifei).
+A progressão para o regime menos rigoroso pressupõe o preenchimento dos requisitos objetivo e subjetivo (artigo 112 da LEP). Além do resgate de certa quantidade de pena, o apenado tem que ostentar bom comportamento carcerário para fazer jus aos favores legais.
+Impõe ressaltar que:
+ ..  1. O atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional.
+ .. (AgRg no HC n. 525.070/MS, Rel. MinistroReynaldo Soaresda Fonseca, 5ª T., DJe 4/10/2019).
+A menção, no art. 112 da LEP, a atestado de bom comportamento carcerário não impede o indeferimento da progressão de regime, desde que em decisão motivada, que indique dados concretos, mais ou menos recentes, relacionados ao período de cumprimento da pena,que sinalizem a falta de ajustamento do apenado ao retornoà convivência social.
+É necessário indicar "algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena. Precedentes do STJ" (AgRg no HC 588.110/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 13/8/2020).
+Confira-se: "fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se emfatos ocorridos no curso da própria execução" (AgRg no HC 567.402/SP, Rel. MinistroNefi Cordeiro, 6ª T., DJe 8/6/2020).
+Atosde indisciplinamuito antigostambémnão podem impedir, permanentemente, a obtenção de benefícios do sistema progressivo, pois a própria Constituição Federalveda a sanções de caráter perpétuo. É desproporcional e desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução, sem nenhum tipo de depuração de seus efeitos.A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por prazo de tempo relevante, depois das faltas praticadas.
+Ilustrativamente: "faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime" (HC n. 508.784/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019).
+In casu, não há motivação idônea para a cassação da decisão que concedeu a progressão ao semiaberto, poisa última falta grave foi praticada em 10/2/2016, reabilitada em 9/3/2017.Agravidade dos crime e a longa pena a cumprir, por sua vez, não são fatores relacionados ao histórico carcerário do paciente.
+Assim, emerge a ilegalidade do ato coator, pois:" .. ausente motivo concreto para negativação do requisito subjetivo, já que a quantidade da pena e os fatores relacionados ao crime praticado não justificam diferenciado tratamento para a progressão de regime  .. (AgRg no HC 457.405/SP, Rel. MinistroNefi Cordeiro, 6ª T., DJe 27/2/2019).
+À vista do exposto,concedo o habeas corpus,in limine,promover o paciente ao regime semiaberto.
+Publique-se e intimem-se.
