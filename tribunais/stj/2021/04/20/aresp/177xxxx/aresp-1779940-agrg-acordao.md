@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. ENFOQUE SUSCITADO NO APELO NOBRE. DEBATE. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não se manifestou sobre a questão do reconhecimento do princípio da insignificância sob o enfoque trazido no recurso especial. Apesar da oposição de embargos de declaração, a Corte a quo não apreciou o tema e, no recurso especial, não houve alegação de ofensa ao art. 619 do Código de Processo Penal. Portanto, a matéria carece de prequestionamento, nos termos da Súmula n. 211 do Superior Tribunal de Justiça.
+2. Embora o Agravante tenha demonstrado o desacerto da aplicação da Súmula n. 283 do Supremo Tribunal Federal, pela decisão agravada, a falta de prequestionamento, por si só, é suficiente para manter o não conhecimento do recurso especial.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra a decisão de minha lavra que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 392):
+"AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. ENFOQUE SUSCITADO NO APELO NOBRE. DEBATE. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do regimental, aduz o Parquet, em síntese, que a insurgência referente à (im)possibilidade da aplicação do princípio da insignificância ao delito de posse irregular de munição de uso permitido, quando praticado no contexto do tráfico de drogas, está prequestionada.
+Alega, ainda, em relação à aplicabilidade da súmula n. 283 do STF, que foram impugnados com clareza e precisão todos os fundamentos aventados pelo Tribunal a quo.
+Requer seja reconsiderada a decisão objurgada, ou caso assim não entenda, que seja conhecido e provido o agravo, pela Sexta Turma, para que seja conhecido e provido o apelo nobre.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. ENFOQUE SUSCITADO NO APELO NOBRE. DEBATE. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não se manifestou sobre a questão do reconhecimento do princípio da insignificância sob o enfoque trazido no recurso especial. Apesar da oposição de embargos de declaração, a Corte a quo não apreciou o tema e, no recurso especial, não houve alegação de ofensa ao art. 619 do Código de Processo Penal. Portanto, a matéria carece de prequestionamento, nos termos da Súmula n. 211 do Superior Tribunal de Justiça.
+2. Embora o Agravante tenha demonstrado o desacerto da aplicação da Súmula n. 283 do Supremo Tribunal Federal, pela decisão agravada, a falta de prequestionamento, por si só, é suficiente para manter o não conhecimento do recurso especial.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, observa-se que tem razão o Agravante, quando sustenta ter havido a impugnação de todos os fundamentos do acórdão recorrido, devendo ser afastada a aplicação da Súmula n. 283 do Supremo Tribunal Federal. De fato, o fundamento do acórdão recorrido referente à cooperação do Agravado, como elemento também utilizado para aferir a lesividade jurídica da conduta, foi objeto de impugnação específica no recurso especial (fl. 321), como demonstrado no presente agravo interno.
+Entretanto, a decisão agravada também não conheceu do recurso especial pela ausência de prequestionamento, nos termos da Súmula n. 211 do Superior Tribunal de Justiça, fundamento este, por si só, suficiente para manter o não conhecimento do recurso especial e que não comporta reparos.
+Com efeito, ao tratar da atipicidade da conduta prevista no art. 12, da Lei n. 10.826/2003, o Tribunal a quo consignou (fls. 268-270; sem grifos no original):
+"Não se olvida que a norma sobredita descreve crime de mera conduta e perigo abstrato, motivo pelo qual é prescindível a demonstração de concreto dano à incolumidade pública para que haja a perfeita caracterização delitiva.
+Isso porque a proibição consolidada pelo preceito primário do dispositivo em comento almeja transcender a salvaguarda da integridade física individual e efetivar maior proteção à segurança pública, a qual se presume atingida cada vez que se verifica o trânsito e guarda de materiais bélicos sem haver sido concedida permissão para tanto pela autoridade administrativa competente.
+ ..
+Todavia, o Superior Tribunal de Justiça, assim como este Sodalício, vêm admitindo que, em hipóteses excepcionais, seja reconhecida a insignificância da conduta daqueles que portam pequena quantidade de munição, desacompanhada de arma de fogo e em situação que evidencie que o agente e a conjuntura em que se desenrolou o acontecimento não apresentam risco algum à incolumidade pública.
+ ..
+Essa é a hipótese em apreço, porquanto, consoante o laudo pericial n. 9124.18.00371, além da quantidade de munições se apresentar evidentemente ínfima - dois cartuchos de calibres .28 e .32, estando o último percutido -, referido documento atestou também a ineficiência da arma de fogo apreendida para o fim ao qual se destina (fls. 69-70).
+Oportuno, registrar, outrossim, como bem pontou o ilustrado parecerista "ainda que, segundo as razões recursais, o apelado possua condenação pretérita (autos n. 0000903-50.2018.8.12.0016 na Comarca de Mundo Novo/MS), esta não impede o reconhecimento do princípio, cabendo notar que até o momento desta manifestação a condenação anterior não havia transitado em julgado" (sic, fls. 252).
+Ademais, destaca-se que, desde a ocorrência, o denunciado nunca opôs embaraços e demonstrou a colaboração para esclarecimento do fato, sem indícios de tentativa ilegal de se eximir de sua responsabilidade.
+Tendo isso em vista, a situação evidencia que o agente e a conjuntura em que se desenrolou o acontecimento não apresentam risco algum à incolumidade pública, pelo que deve, de fato, ser reconhecida a atipicidade material de sua conduta."
+Da leitura dos trechos colacionados, verifica-se que o Tribunal de origem, ao manter a absolvição do Acusado pelo delito de posse irregular de munição de uso permitido, pela atipicidade material da conduta, não se manifestou sobre a questão sob o enfoque trazido no recurso especial, qual seja, o de que "a apreensão do artefato bélico no contexto do tráfico de drogas é suficiente para demonstrar a periculosidade social da ação e a ofensividade da conduta necessária para justificar a tutela penal" (fl. 322).
+Apesar da oposição de embargos de declaração, a Corte a quo não apreciou o tema e, no recurso especial, não houve alegação de ofensa ao art. 619 do Código de Processo Penal. Portanto, a matéria carece de prequestionamento, nos termos da Súmula n. 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"RECURSO ESPECIAL. OPERAÇÃO MARGINATUS. MOEDA FALSA, PETRECHOS PARA FALSIFICAÇÃO DE MOEDA. ASSOCIAÇÃO CRIMINOSA, FALSA IDENTIDADE E CORRUPÇÃO DE MENORES. NEGATIVA DE VIGÊNCIA AO ART. 291 DO CP. ATIPICIDADE. IMPROCEDÊNCIA. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. FUNDAMENTAÇÃO CONCRETA PARA AUMENTAR A PENA. SUPOSTO BIS IN IDEM E INIDONEIDADE NA FUNDAMENTAÇÃO EMPREGADA. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. NEGATIVA DE VIGÊNCIA AO ART. 49 DO CP. SUPOSTA ILEGALIDADE NO CRITÉRIO UTILIZADO PARA FIXAR O VALOR DO DIA-MULTA. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO.
+ ..
+7. Não ocorrendo o debate do preceito federal dito violado, sob o enfoque dado pela parte em seu recurso especial, inexiste o prequestionamento necessário ao trânsito do recurso especial.
+8. Recurso especial parcialmente conhecido e, nessa parte, improvido." (REsp 1.758.958/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/09/2018, DJe 25/09/2018.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO. TRÁFICO DE DROGAS. COMPETÊNCIA DO JUÍZO. NULIDADE POR CERCEAMENTO DE DEFESA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PELO TRÁFICO PRIVILEGIADO. PREQUESTIONAMENTO. NECESSIDADE.
+ ..
+2. Inviável a análise, por este Sodalício, da alegada incompetência do Juízo, da existência de cerceamento de defesa e da diminuição da pena pelo tráfico privilegiado. Isso porque tais questões sob o enfoque apresentado pelo agravante não foram objeto de análise na instância de origem, incidindo o óbice previsto nas Súmulas n. 282 e 356, ambas do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 940.135/AC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/09/2018, DJe 12/09/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
