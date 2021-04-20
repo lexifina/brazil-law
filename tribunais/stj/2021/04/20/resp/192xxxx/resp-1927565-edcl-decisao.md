@@ -1,0 +1,58 @@
+DECISÃO
+Da leitura da minuta de agravo instrumento que deu origem ao presente recurso, infere-se JOSÉ MARCANTONIO LOEPS DA SILVA (JOSÉ) moveu ação ordinária revisional de contrato de mútuo contra FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO (FUNCORSAN), na qual o Juízo da causa rejeitou a preliminar de prescrição, arguida na contestação.
+Dessa decisão FUNCORSAN interpôs agravo de instrumento, alegando queao contrário do quanto decidido, o reconhecimento da prescrição decenal deve se dar de forma independente da circunstância de haver ou não renovações sucessivas, porque deve ser aplicado o princípio da "actio nata" à espécie, havendo a prescrição do fundo do direito alegado relativamente a parte dos pactos, pois, mesmo que se admita aplicação da regra geral contida no art. 205, CC, o prazo prescricional à revisão contratual tem como marco inicial a data de assinatura do contrato, momento em que o tomador do empréstimo tem ciência de todos os encargos então assumidos.
+O Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. PRETENSÃO REVISIONAL. CONTRATOS DE MÚTUO FIRMADOS COM ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA.PRESCRIÇÃO. APLICABILIDADE DO ARTIGO 205 DO CC/2002.
+Em se tratando de revisão de cláusulas de contrato de mútuo, a relação existente entre as partes é de cunho obrigacional (pessoal), pautada pelos dispositivos legais constantes no artigo 177 do Código Civil de 1916 e no artigo 205 do Código Civil de 2002. A possibilidade de revisão dos contratos de mútuo havidos com entidade fechada de previdência privada estende-se a situações de extinção contratual decorrentes de quitação, novação e renegociação. Com efeito, tendo em vista as novações/renegociações entabuladas entre os litigantes, o termo inicial da prescrição é o vencimento do último contrato firmado entre as partes. Dessa forma, não há falar em prescrição no caso concreto.
+Agravo de instrumento desprovido(e-STJ, fl. 52).
+Os embargos de declaraçãoopostos por FUNCORSAN foram rejeitados (e-STJ, fls. 77/82 e 85/87).
+Inconformada, FUNCORSAN interpôs recurso especial, com fundamento no art. 105, a e c, da CF, alegando, a par de dissídio jurisprudencial, violação doart. 205 do CC/02, sustentando, em suma, que o prazo prescricional de ser contado a partir da data da assinatura do contrato e não do vencimento do último pagamento.
+Apresentadas as contrarrazões, em juízo de admissibilidade, a Terceira Vice-presidência do Tribunal gaúcho admitiu o referido apelo nobre (e-STJ, fls. 121/129 e 132/138, respectivamente).
+Nesta Corte, orecurso especial não foi provido em decisão monocrática de minha lavra assim ementada:
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE MÚTUO. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA FECHADA. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO(e-STJ, fl. 153).
+Nos presentes embargos de declaração, FUNCORSANsustentou que a decisão embargada padece de erro material, pois o caso não se trata de termo inicial da prescrição para a cobrança de obrigações, mas de termo inicial da prescrição para o ajuizamento de ação revisional(e-STJ, fls. 159/167).
+Impugnação apresentada (e-STJ, fls. 192/213).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nos presentes embargos de declaração, FUNCORSAN sustentou que a decisão embargada padece de erro material, pois o caso não se trata de termo inicial da prescrição para a cobrança de obrigações estabelecidas em contrato, mas sim de termo inicial da prescrição para o ajuizamento de ação revisional.
+Deveras, assiste razão àembargante.
+De fato, a decisão embargada analisou a questão como sendo o termo inicial do prazo prescricional para a pretensão de repetição de indébito, o que não é o caso dos autos.
+Com efeito, nas razões do  recurso especial, FUNCORSANalegou violação do art. 205 do CC/02, sob o argumento de que o marco inicial do prazo prescricional seria a data da assinatura de cada um dos contratos firmados entre as partes, e não do vencimento ordinário da avença ou do último pagamento realizado. Também apontou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Quanto ao ponto, o TJRS consignou que:
+De início, convém pontuar que os instrumentos contratuais acostados pelo agravante na petição inicial dos autos de origem (arquivo denominado "Contrato 3" no Evento nº 01 do processo originário) demonstram que, de fato, os contratos pactuados entre as partes tratam-se de renegociações.
+A título de exemplo, cito os contratos entabulados entre os litigantes em 2002 e em 2003 (quando as 24 parcelas do primeiro nem sequer tinham finalizado, o que demonstra a clara renegociação havida). Ato contínuo, em setembro de 2004, houve novo pacto englobando o débito anterior.
+E, da mesma forma, os demais empréstimos foram contratados, com o valor do saldo a ser pago maior que a quantia creditada ao autor (mesmo acrescida dos encargos). Ou seja, não há como analisar a relação contratual separadamente, uma vez que se trata de constantes renegociações, ainda que tal situação não esteja expressa nos contratos entabulados entre os litigantes.
+Dessa forma, entendo que assiste razão ao agravante, pois, em se tratando de novação, o termo inicial da prescrição decenal é computado a partir do vencimento do último contrato firmado(e-STJ, fl. 55).
+Tal entendimento, no entanto, está em desacordo com a jurisprudência desta Corte que é firme no sentido de que, nas ações em que se pretende o reconhecimento de ilegalidades das cláusulas contratuais pactuadas,o prazo prescricional decenal tem início na data da assinatura do contrato.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO DE MÚTUO. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DO ART. 1.021, § 1º, DO CPC/2015 NÃO ATENDIDA. 2. PRAZO PRESCRICIONAL DECENAL. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. 3. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 4. MULTA DO ART.1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. 5. AGRAVO IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil de 2015, cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial impõe o não conhecimento do recurso.
+2. Com efeito, a jurisprudência desta Corte Superior se firmou no sentido de ser aplicável às ações revisionais de contrato bancário o prazo prescricional vintenário na vigência do CC/1916, ou o decenal, quando vigente o CC/2002.
+2.1. De fato, segundo entendimento jurisprudencial do STJ, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+3. Os julgados supostamente divergentes não guardam similitude fática com o acórdão recorrido.
+4. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não verificada a manifesta inadmissibilidade ou improcedência do pedido.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.717.411/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 17/3/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. MÚTUO BANCÁRIO.PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE.
+1. Ação revisional de contrato.
+2. O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Súmula 568/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.897.309/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 18/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.444.255/MS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 4/5/2020)
+Na hipótese dos autos, contudo, embora o entendimento do TJRS não esteja em conformidade com a jurisprudência desta Corte no tocante ao termo inicial do prazo prescricional, não há como prover o recurso especial.
+Isso porque,verifica-se que a Corte Estadual entendeuque o montante concedido em cada um dos contratos era sempre superior ao montante concedido no negócio anterior, ou seja, cada contrato, além da quantia concedida, compreendia o saldo devedor relativo ao contrato anteriormente firmado, configurando verdadeira renegociação dos empréstimos, e, por isso, no entender daquele colegiado, o prazo prescricional somente teria início a partir do vencimento do último contrato ou do último pagamento realizado (e-STJ, fl. 329).
+As razões recursais, no entanto, não impugnaram, de forma específica, o fundamento acima destacado, a incidir a Súmula nº 283 do STF.
+Outrossim, o dissídio jurisprudencial não foi demonstrado tendo em vista a ausência de similitude fática, na medida em que a questão do termo inicial do prazo prescricionalpara o caso de renegociação de empréstimos não foi analisada no acórdão indicado como paradigma.
+Além do mais, as decisões monocráticas colacionadas não se prestam à comprovação da divergência jurisprudencial.
+Nessas condições, ACOLHO os embargos de declaração opostos para, corrigindo o erro material apontado, NEGAR PROVIMENTO ao recurso especial por outro fundamento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL.CONTRATO DE MÚTUO. VIOLAÇÃO DO ART. 1.022 DO NCPC. ERRO MATERIAL.VERIFICADO.PRAZO PRESCRICIONAL. AÇÃO REVISIONAL. TERMO INICIAL. DATA DO CONTRATO.RENEGOCIAÇÃO DE EMPRÉSTIMOS. TERMO INICIAL DO PRAZO PRESCRICIONAL. ÚLTIMO CONTRATO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA Nº 283 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.EMBARGOS DE DECLARAÇÃO ACOLHIDOS. RECURSO ESPECIAL NÃO PROVIDO.
