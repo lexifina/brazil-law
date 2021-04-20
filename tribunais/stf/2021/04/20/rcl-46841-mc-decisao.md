@@ -1,0 +1,25 @@
+DECISÃO
+RECLAMAÇÃO – COMPETÊNCIA DO SUPREMO – USURPAÇÃO – LIMINAR DEFERIMENTO.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    O Estado do Amazonas afirma haver a Sexta Turma do Tribunal Superior do Trabalho, no agravo em recurso de revista nº 0000862-39.2016.5.11.0014, usurpado a competência do Supremo e inobservado o decidido na ação declaratória de constitucionalidade nº 16 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 – Tema nº 246.
+    Narra em jogo, no recurso de revista interposto, responsabilidade da Administração por créditos devidos a empregado de prestadora de serviços, considerada a terceirização de mão de obra. Ante a atribuição, ao Poder Público, de obrigação subsidiária, menciona a formalização de recurso de revista, inadmitido. Diz do desprovimento de agravo de instrumento a seguir protocolado em virtude de apontada ausência de transcendência da questão, surgindo o alegado descompasso.
+    Discorre sobre a chamada reforma trabalhista implementada por meio da Lei nº 13.467/2017, no que estabelecido o requisito da transcendência como filtro prévio de admissibilidade de recursos de revista e agravos. Ressalta que, considerada a admissão, pelo Supremo, da repercussão geral da matéria, surgiria impertinente o Tribunal Superior do Trabalho proclamar a falta de transcendência.
+    Destaca desnecessário o prévio esgotamento das instâncias ordinárias tendo em conta a irrecorribilidade da decisão reclamada.
+    Sustenta usurpada a competência deste Tribunal, uma vez assentada a falta de transcendência de matéria em relação à qual o Supremo admitiu configurada a repercussão maior no recurso extraordinário nº 760.931, de modo a impedir a interposição de extraordinário neste caso. Frisa proclamada, no processo objetivo, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Salienta fixada tese, no referido recurso extraordinário, a revelar que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica transferência automática de responsabilidade ao Poder Público contratante, em caráter solidário ou subsidiário. Evoca jurisprudência.
+     Requer, no campo precário e efêmero, a suspensão dos efeitos do ato impugnado. No mérito, busca a cassação do pronunciamento atacado.
+    2. Da leitura da decisão impugnada, proferida em 2 de outubro de 2019, depreende-se, a despeito de assentada a ausência de transcendência da matéria veiculada, em jogo discussão sobre a imposição de responsabilidade ao Poder Público observados créditos de empregado de prestadora de serviços ante falha na fiscalização do contrato de terceirização. Confiram trecho:
+    […]
+    No apelo obstaculizado, alega-se a ausência de prova efetiva de culpa da Administração quanto à fiscalização do contrato com a recorrida/reclamada, tendo em vista a interpretação que o STF deu a esse dispositivo, uma vez que o acórdão manteve a condenação subsidiária do Estado, com base nas provas produzidas consignando que a reclamante conseguiu provar a completa inação do Estado no cumprimento do dever fiscalizatório atribuído pela Lei 8.666/93.
+    Minha compreensão, em relação à transcendência econômica, seja para o empregador ou para o empregado, é a de que não deve ser estabelecido um determinado valor a partir do qual todas as causas teriam transcendência.
+    A transcendência concerne, por definição, a algum aspecto da causa que supera o espectro dos interesses individuais e reporta-se ao interesse coletivo. Mas essa coletividade não pode, por justiça, corresponder a toda sociedade brasileira como se empresários e trabalhadores pertencessem, indistintamente, ao mesmo estrato social e econômico.
+    [...]
+    Tratando-se de apelo empresarial e não de empregado, também está ausente a transcendência social.
+    Não bastasse isso, não se discute questão inédita acerca da legislação trabalhista, não havendo de se falar em transcendência jurídica.
+    O Pleno, em 24 de novembro de 2010, julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16 e proclamou a harmonia, com a Constituição Federal, do § 1º do artigo 71 da Lei nº 8.666/1993, no que excluída a atribuição, automaticamente, de responsabilidade subsidiária à tomadora dos serviços, à Administração Pública. Em 30 de março de 2017, reiterou a óptica, ao concluir, sob o ângulo da repercussão geral, a apreciação do extraordinário de nº 760.931.
+    Ao assentar a falta de transcendência do tema, o Tribunal Superior do Trabalho indeferiu a sequência do processo, de forma a ver submetida a lide, com questão constitucional, ao Supremo.
+    3. Defiro a liminar, para suspender a eficácia da decisão prolatada pelo Tribunal Superior do Trabalho, em 2 de outubro de 2019, no agravo em recurso de revista nº nº 0000862-39.2016.5.11.0014.
+    4. Citem os interessados e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 20 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
