@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. ICMS-ST. AUTO DE INFRAÇÃO. DECLARATÓRIA DE INEXISTÊNCIA DE CRÉDITO TRIBUTÁRIO. LANÇAMENTOS DE OFÍCIO PELO ÓRGÃO AUTUADOR EM DESCONFORMIDADE COM A LEGISLAÇÃO DE REGÊNCIA. VALORES REFERENTES À NOTA FISCAL CANCELADA. PRODUTOS REMETIDOS A TÍTULO DE BONIFICAÇÃO.DESCABIMENTO DE INCIDÊNCIA DO ICMS. TEMA 144 DO COLENDO STJ. QUITAÇÃO INTEGRAL DO CRÉDITO TRIBUTÁRIO.
+1. Demonstrado, pelas provas coligidas aos autos, que o Distrito Federal, ao lançar o ICMS-ST, ex offício fez incidir referido tributo sobre valores decorrentes de nota fiscal comprovadamente cancelada, tal exação deve ser proclamada indevida.
+Consoante o colendo STJ estatuiu, ao firmar o Tema 144, " 2. os descontos incondicionais nas operações mercantis não se incluem na base de cálculo do ICMS".
+3. Apurando a prova pericial que o crédito objeto do litígio foi integralmente quitado pelo contribuinte, nada há a reparar no julgamento de procedência do pedido para declarar sua inexigibilidade, do que decorre, por sua vez, a nulidade do auto de infração lavrado com fundamento no seu não pagamento.
+4. Apelação não provida.
+O recorrente, apontando divergência e ofensa aoart. 13 da LC n. 87/1996, sustenta, em resumo, que, no presente caso, não é possível aplicar a tese firmada no julgamento do REsp 1.111.156/SP, de que as bonificações e os descontos incondicionais concedidos pelo contribuinte ao consumidor final não integram a base de cálculo do ICMS, poisaqui a pretensão "é que as mercadorias recebidas pela empresa autora a título de bonificação não sejam oferecidas à tributação no momento da respectiva saída (revenda aos seus consumidores finais)".
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Vejamos, no que aqui importa, as razões de decidir consignadas no acórdão recorrido:
+Da mesma forma, extrai-se da atividade empresarial da apelada, que vende e distribui produtos de beleza, que as operações realizadas a título de bonificação (brindes e testers) não se destinam à venda aos consumidores finais, daí porquese revela descabida a incidência do ICMS ST sobre elas. (..).
+ ..
+Daí porque se conclui que a situação fática delineada nos autos amolda-se àquela descrita no precedente firmado em se de julgamento de recursos repetitivos - REsp 1111156/SP (..):
+A fundamentação expendida pelo douto magistrado sentenciante não merece qualquer reparo, daí porque se transcreve no presente julgamento, de forma a integrar, também os fundamentos expendidos para negar provimento ao apelo:
+"(..)
+Estabelecidas as premissas, é possível afirmar que o julgado do Superior Tribunal de Justiça se amolda ao caso concreto. A empresa de origem deu mercadorias em bonificação à autora, os quais não devem integrar a base de cálculo do ICMS (REsp 1.111.156/SP), e, em consequência, naõ deve haver o recolhimento do imposto sobre o valor de tais mercadorias. O fato da parte autora não ser contribuinte, mas substituta tributária da empresa de origem dos produtos, não altera a regra da não incidência do ICMS sobre o valor das mercadorias recebidas em bonificação.
+Feitas essas considerações, verifico que o recurso especial não supera o juízo de admissibilidade.
+Defende o recorrente quemercadorias recebidas do fabricante como bonificação pela empresa autora (distribuidora) devem compor a base de cálculo do ICMS/ST por ela devido na condição de substituta tributária.
+Ocorre que odispositivo delei federal apontado como violado - art. 13 da LC n. 87/1996 -, não tem comando normativo apto a respaldar aludida tese recursal, visto que disciplina a base de cálculo do ICMS em relação às operações sujeitas ao regime normal de tributação desse imposto.
+Em verdade, a base de cálculo do ICMS devido pela sistemática da substituição tributária está prevista no art. 8º da LC n. 87/1996, sendo certo que esse dispositivo, embora citado numa das ementas colacionadas, nem sequer foi prequestionado perante a Corte a quo.
+Incide, pois, o óbice de conhecimento da Súmula 284 do STF.
+Já a análisedos argumentos subsidiários de que "as operações de remessa para bonificação, brinde, presente e demonstração têm incidência normal de ICMS no Distrito Federal e sua apuração está disciplinada nos artigos 244, 245 e 260-H, do Decreto n. 18.995/95, que regulamenta o ICMS e a parte autora não comprovou que se trataria de desconto incondicional" encontra o reexame da legislação local de regência e do acervo fático-probatório, o que é inviável no âmbito do recurso especial, consoante inteligência das Súmulas 280 do STF e 7 do STJ, respectivamente.
+Por fim, observo que não foram atendidosos pressupostos específicos paraconfiguração do alegado dissenso jurisprudencial, previstos no art. 255, §§ 1º, do RISTJ.
+Isso porque o recorrente não juntoua cópia dosacórdãos indicados como paradigmas nem procedeu aocotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, limitando-se a transcreverementas, o que é insuficiente para esse mister.
+A deficiência da irresignação recursal nesse ponto também atrai a aplicação da Súmula 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
