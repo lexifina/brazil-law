@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de HEBERT FERNANDES DA CRUZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo em Execução n. 0006833-40.2020.8.26.0032.
+Extrai-se dos autos que o Juízo das Execuções concedeu livramento condicional ao paciente.
+Irresignada, a acusação interpôs agravo em execução perante o Tribunal de origem, o qual proveu parcialmente o recurso, nos termos do acórdão que restou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - Concessão de Livramento Condicional em primeiro grau - RECURSO MINISTERIAL visando a realização de complementação de exame criminológico para parecer psiquiátrico, em face das circunstâncias extraídas dos autos - Necessidade - Não bastasse a longa pena a cumprir pelo cometimento de delitos graves, inclusive homicídio duplamente qualificado e roubos circunstanciados, verifica-se possuir o agravado histórico prisional conturbado - Manutenção, contudo, do sentenciado em livramento condicional, até a realização da perícia psiquiátrica - Decisão reformada parcialmente para determinação de realização de complementação do exame criminológico - AGRAVO PROVIDO EM PARTE." (fl. 45)
+No presente writ, a defesa sustenta que os requisitos legais para o livramento condicional do paciente foram preenchidos, assim sendo, qualquer consideração que se volte a fatos pretéritos, que já ensejaram a aplicação da pena, inclusive a própria realização do exame criminológico, fere os objetivos da execução penal.
+Assegura que, quanto ao histórico prisional do paciente, as cinco faltas disciplinares indicadas pela autoridade coatora ocorreram em 2010 e 2014, há aproximadamente 7 anos.
+Pleiteia, em liminar, a suspensão dos efeitos do acórdão proferido nos autos do agravo em execução até o julgamento definitivo do presente remédio constitucional, e, no mérito, a anulação do ato da autoridade coatora e manutenção da decisão proferida em primeiro grau de jurisdição que deferiu o pedido de livramento condicional do paciente.
+Liminar indeferida às fls. 52/53.
+Informações prestadas às fls. 60/71.
+O Ministério Público Federal opinou pela denegação da ordem, conforme parecer de fls. 75/80.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O acórdão impugnado trouxe o seguinte:
+"No caso em análise, trata-se de reeducando condenado 26 anos, 06 meses e 17 dias de reclusão, cujo término de cumprimento previsto somente para 1º de novembro de 2031.
+Postulou pela concessão de livramento condicional ou, ainda, sua progressão ao regime semiaberto, apresentando cálculo de cumprimento de pena e atestado de bom comportamento carcerário.
+Foi determinada a realização de exame criminológico, o qual apresentou laudo conjunto favorável (fls. 08/13).
+O MM. Juízo a quo deferiu o pedido, concedendo ao sentenciado o livramento condicional sendo que, segundo pesquisa ao sistema SIVEC, o agravado foi libertado aos 03 de setembro de 2020.
+Pois bem.
+Ocorre que, o sentenciado cumpre longo castigo de 26 anos, 06 meses e 17 dias de reclusão, pela prática de crimes cometidos com violência à pessoa e, ainda que não se considere a longa pena a cumprir, cujo término está previsto somente para 1º de novembro de 2031; tais circunstância até poderiam ser relativizadas em prol do sentenciado, não fosse seu histórico carcerário conturbado.
+Desse modo, tem-se que circunstâncias pessoais e comportamentais tornam recomendável sua submissão à realização de avaliação psiquiátrica.
+ ..
+Importante consignar que não se trata de considerar o fato já julgado na aferição da periculosidade do sentenciado mas sim dizer que a pessoa que desconta pena por delitos graves (dentre eles, in casu, homicídio duplamente qualificado consumado e roubos circunstanciados consumados) e possui histórico carcerário negativo repita-se como é o caso do agravado, deve ser mais bem avaliada, de forma a se verificar se está apta a retornar ao convívio social.
+Destaco que o boletim informativo (fls. 15/20) registra o cometimento de 05 faltas disciplinares de natureza grave desde que ingressou no sistema carcerário (fls. 18/19).
+De rigor, pois, a cassação do decisum para que se complemente o exame criminológico do agravado, com avaliação psiquiátrica.
+Contudo, em pesquisa realizada no sistema SIVEC desta Corte, constata-se que o reeducando, egresso do sistema carcerário desde 03 de setembro do corrente ano, não mais delinquiu; deve-se considerar, ademais, a excepcional crise pandêmica.
+Diante disso, considerando que não se tem notícias no sentido de que o agravado tenha descumprido qualquer de suas obrigações, mantenho-o em livramento condicional até a realização do laudo de exame criminológico complementar por psiquiatra.
+3. Ante o exposto, DOU PARCIAL PROVIMENTO para determinar a realização do exame criminológico com avaliação psiquiátrica, permanecendo o agravado no atual status libertatis em que se encontra, aguardando assim, nova decisão do Juízo de primeiro grau."
+Como visto no trecho do acórdão acima transcrito, o Tribunal de origem apontou, além da gravidade concreta dos crimes e da longa pena a cumprir, o conturbado histórico prisional do paciente para que seja determinada a realização de exame psiquiátrico no paciente, de modo a aferir sua aptidão à progressão a regime mais brando.
+Desse modo, o TJSP não divergiu da jurisprudência dominante nesta Corte Superior no sentido de, com base em elementos da execução penal, o próprio juiz determinar a realização de exame psiquiátrico.
+Nesse sentido:
+HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REALIZAÇÃO DE EXAME CRIMINOLÓGICO E DE EXAME PSIQUIÁTRICO ANTES DA PROGRESSÃO DO APENADO AO REGIME INTERMEDIÁRIO. DETERMINAÇÃO DE NOVO EXAME CRIMINOLÓGICO. FALTA DE FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Com o advento da Lei n. 10.792/2003, embora não mais se exija, de plano, a realização de exame criminológico, o juiz da Vara de Execuções Criminais ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo. Inteligência da Súmula n. 439 do STJ.
+2. Em casos pontuais, a circunstância de o apenado ter praticado vários crimes com violência ou grave ameaça contra a pessoa e o registro de faltas disciplinares graves no curso da execução penal podem ser sopesados, conjuntamente, como indicativos de maior periculosidade, a recomendar cuidado na promoção de benefícios.
+3. Entretanto, no caso em análise, em que o acórdão estadual parece ser daqueles atos judiciais padronizados, a promoção ao regime intermediário foi deferida após avaliações social, psicológica e psiquiátrica, e o apenado já cumpriu mais de 1/3 da pena em regime fechado, por um único crime grave, não sendo suficiente a fundamentação lançada no acórdão estadual para cassar o benefício.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão de primeiro grau (HC 286.020/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/10/2014, DJe 23/10/2014).
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
