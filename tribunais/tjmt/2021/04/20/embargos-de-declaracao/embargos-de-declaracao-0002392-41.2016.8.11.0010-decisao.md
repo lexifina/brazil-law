@@ -1,0 +1,37 @@
+EMBARGOS DE DECLARAÇÃO - AUTOS No 0002392-41.2016.8.11.0000 – COMARCA DE JACIARA/MT.
+EMBARGANTE: ESPÓLIO DE NADIR CEZÁRIO BISPO
+EMBARGADO: ESTADO DE MATO GROSSO
+DECISÃO MONOCRÁTICA
+Trata-se de recurso de embargos de declaração, com pedido de efeito infringentes, opostos pelo Espólio de Nadir Cezário Bispo em face da decisão que deu parcial provimento ao recurso de apelação interposto pelo Estado de Mato Grosso apenas para reconhecer a legitimidade de José Cezário Feitosa para figurar no polo passivo da execução fiscal n. 0001640-69.2016.8.11.0010.
+O Embargante sustenta a existência de erro material em trecho da decisão em que houve referência à apelada, e não à apelante.
+Ainda, alega a ocorrência de contradição porque a decisão ora embargada estaria em dissonância com a jurisprudência do STJ acerca da impossibilidade de redirecionamento da execução nos casos de multa administrativa.
+Por fim, sustenta que a decisão é omissa porque não foram apreciadas as seguintes alegações defensivas: a) prescrição e decadência do débito tributário, nos termos do art. 156, V, e art. 174 do CTN; b) ausência de citação dos executados no prazo legal e inocorrência da interrupção da prescrição; c) nulidade da CDA; e d) inatividade da empresa comprovada por certidão do Município e CNIS da previdência.
+Assim, requer sejam acolhidos os embargos para sanar os vícios apontados, prequestionando tanto os dispositivos constitucionais e legais quanto a jurisprudência do STJ correlatos.
+Em contrarrazões, o apelado aduz a ausência de qualquer vício na decisão e requer o desprovimento do recurso.
+É o relatório.
+Decido.
+Inicialmente, no que diz com a ocorrência de erro material, tem-se que, de fato, merece acolhida a insurgência do embargante, dado que, por um lapso, no parágrafo indicado deveria ter sido feito referência à apelante, e não à apelada.
+Assim, de rigor a retificação da decisão, a fim de que o trecho apontado conste da seguinte forma:
+“No que diz com a declaração da ilegitimidade passiva de Nadir Cezario Bispo, em razão de ter falecido antes da propositura da execução fiscal, vê-se que a apelante não apresentou qualquer insurgência, de sorte que a análise da pretensão recursal se limita à verificação da legitimidade passiva de José Cezario Feitosa.”
+Quanto à alegação de ocorrência de contradição na decisão, importa consignar que, em termos de cabimento dos embargos declaratórios, a contradição é o reflexo de proposições inconciliáveis entre si no bojo da mesma decisão.
+No ponto, porém, o embargante não sustenta que a decisão seria contraditória em seus termos, mas somente que, a seu sentir, estaria ela em dissonância com a jurisprudência do STJ acerca da impossibilidade de redirecionamento da execução nos casos de multa administrativa.
+Sucede que, inexistindo premissas contraditórias na decisão, descabe cogitar de contradição entre o acórdão e o entendimento do embargante acerca da matéria, tampouco entre o acórdão e decisões emanadas do Superior Tribunal de Justiça, ressaindo evidente, em verdade, tão só o mero anseio do embargante em ver reexaminada temática já enfrentada por este Relator, em via recursal que, todavia, não se presta a esse fim.
+De outro lado, o embargante sustenta que a decisão ora embargada seria omissa porque, após haver reconhecido a legitimidade passiva de José Cezario Feitosa, não apreciou as teses defensivas de prescrição e decadência do débito tributário; de ausência de citação dos executados no prazo legal e inocorrência da interrupção da prescrição; de nulidade da CDA; e de inatividade da empresa comprovada por certidão do Município e CNIS da previdência.
+Verifica-se que, em contrarrazões ao recurso de apelação do Estado, o embargante assinalou, de forma fugaz, a decadência do crédito tributário e a ausência de citação válida dos executados.
+Assim, considerando que a omissão ocorre quando o julgador não se desincumbe de pronunciar-se sobre as provas e argumentos relevantes e pertinentes trazidos pelas partes, passa-se ao exame das alegações aventadas em contrarrazões pelo ora embargante, notadamente porque se trata de matéria de ordem pública.
+Quanto à tese de decadência do crédito tributário, rememora-se que a Certidão de Dívida Ativa revela que a infração consiste em “descumprimento de obrigação tributária acessória – registrado no CCF”, descrita como “omissão de entrega de arquivos do SINTEGRA – GIDI”, enquadrada no art. 17, III, da Lei 7.098/98, cuja penalidade tem previsão no art. 45, X, c, do mesmo diploma legal (id. 71621998, p. 04).
+Registre-se que a obrigação acessória, pela sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária (art. 113, § 3o, CTN), sujeitando-se ao lançamento de ofício na forma do art. 149, VI, do CTN.
+Nesse contexto, o prazo decadencial para constituição do crédito relativo à penalidade pelo descumprimento de obrigação acessória é de 05 (cinco) anos, a contar do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado (art. 173, I, CTN).
+No presente caso, colhe-se da CDA (id. 71621998, p. 06) que o fato gerador ocorreu no ano de 2007, meses 01 a 12, de modo que o termo inicial do prazo decadencial é 01.01.2008 e o termo final é 31.12.2013. Infere-se, ainda, que o crédito tributário foi constituído em 05.09.2012, não havendo que se falar, pois, em ocorrência da decadência do crédito tributário, uma vez que não se verifica o transcurso do prazo de 05 anos entre os termos legalmente estabelecidos.
+Anote-se, por oportuno, que, ao contrário do consignado pelo embargante, a inscrição na dívida ativa não caracteriza o lançamento definitivo, sendo mero reflexo dele, de sorte que é desimportante ao cálculo do prazo decadencial a data em que o crédito tributário em questão foi inscrito na dívida ativa.
+Ademais, quanto à ausência de citação válida dos executados e a alegada ausência de interrupção do prazo prescricional, importa registrar que, a teor do art. 174, p. ú., I, do CTN, a prescrição se interrompe pelo despacho do juiz que ordenar a citação em execução fiscal, e não a citação pessoal feita ao devedor.
+No caso, a execução fiscal foi ajuizada em 08.06.2016. e o despacho ordenando a citação dos executados ocorreu em 16.06.2016.
+Nesse contexto, considerando que a ação para a cobrança do crédito tributário prescreve em 05 anos, contados da data da sua constituição definitiva (art. 174, CTN), não se verifica o transcurso do lapso prescricional do crédito ora em exame, pois constituído em 05.09.2012.
+Demais disso, não há falar em omissão em relação às teses de nulidade da CDA e de inatividade da empresa por não haverem sido suscitadas em contrarrazões do recurso de apelação interposto pelo Estado de Mato Grosso.
+Por fim, quanto ao prequestionamento, cumpre esclarecer que o julgador não está obrigado a mencionar expressamente todos os artigos de lei e entendimentos jurisprudenciais invocados pelas partes, sendo suficiente que exponha, de forma clara e precisa, os argumentos de sua convicção, com indicação das normas legais ou jurisprudência a embasar sua decisão, mostrando-se desnecessário o prequestionamento explícito da matéria.
+Ante o exposto, acolho parcialmente os embargos tão somente para sanar erro material e omissão constantes na decisão, afastando-se, porém, as teses de decadência e de prescrição do crédito tributário, mantendo intacto o dispositivo lançado na decisão embargada.
+Publique-se.
+Intime-se.
+Cuiabá, 19 de abril de 2021.
+Alexandre Elias Filho
+Relator Convocado
