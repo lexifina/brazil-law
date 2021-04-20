@@ -1,0 +1,14 @@
+DECISÃO
+ANTONIO BEZERRA DE LIMA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, que indeferiu a Revisão Criminal n. 0000268-45.2019.8.17.0000.
+Consta dos autos que o paciente foi condenado - em decisão já transitada em julgado - à pena de 6 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 12, § 1º, I e II, da Lei n. 6.368/1976.
+A defesa aduz, em síntese, que a condenação do réu é nula, porquanto foi
+amparada em provas ilícitas, obtidas por meio de invasão de domicílio. Requer, assim, seja reconhecida a nulidade do feito.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+De plano, é imperioso salientar que a condenação do réu, após o trânsito em julgado, já foi submetida à nova avaliação pela Corte estadual, ocasião em que não se identificou nenhuma das hipóteses que poderiam autorizar a revisão do que decidido pelas instâncias ordinárias: a) sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; b) sentença condenatória fundada em depoimentos, exames ou documentos comprovadamente falsos; c) descoberta, após a sentença, de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena (art. 621 do Código de Processo Penal).
+O Tribunal de origem, por ocasião do julgamento da apelação criminal, nem sequer analisou essa matéria, até porque não foi ventilada nas razões recursais. Ao Julgar a revisão criminal, fez menção a julgados desta Corte Superior de Justiça de que, "havendo fundadas suspeitas, oriundas de denúncias anônimas averiguadas pela polícia da localidade, de que o flagranteado estaria praticando o crime de tráfico de drogas, não há que se falar em nulidade da prisão, por se tratar de delito permanente" (fl. 117).
+Portanto, uma vez que, tanto por ocasião da sentença condenatória quanto no julgamento da apelação, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstraram os motivos pelos quais a condenação do acusado seria substancialmente justa e harmônica com as provas produzidas, e porque, ao que tudo indica, havia fundadas razões acerca da prática do crime de tráfico de drogas, não há como se conhecer deste writ, em que se discute, novamente, matériaque já foi verticalmente analisada, inclusive já submetidaà revisão criminal.
+Nesse sentido,menciono: AgRg no HC n. 498.952/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/6/2019.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
