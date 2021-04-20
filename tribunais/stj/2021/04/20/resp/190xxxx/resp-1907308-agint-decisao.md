@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejadopor SERVIÇO SOCIAL DO COMÉRCIO - SESC AR/SCcontra decisão por meio da qual dei provimento ao recurso especial do contribuinte para "reconhecer a limitação da base de cálculo das contribuições destinadas às entidades terceiras ao montante que corresponde a 20 (vinte) vezes o maior salário mínimo vigente no país, bem como para declarar a possibilidade de compensação das contribuições destinadas a terceiros com parcelas vencidas posteriormente ao pagamento, relativas a tributo de mesma espécie e destinação constitucional, observando, ainda, a limitação constante do art. 170-A do CTN" (e-STJ, fl. 320).
+Em suas razões,aponta o agravante, em síntese, que"não há que se falar em limitação das contribuições devidas ao SESC em 20 (vinte) salários mínimos, razão pela qual a decisão monocrática não pode subsistir, de sorte que o presente recurso merece provimento para o fim de restabelecer a improcedência desta ação" (e-STJ, fls. 345).
+Também houveembargos de declaração opostos pela Fazenda Nacional no qualargumentou que, "em Sessão Virtual de Julgamento finalizada no último dia 15 de dezembro, afetou os Recursos Especiais n. 1.898.532/CE e 1.905.870/PR, que tratam da mesma matéria objeto deste RESP, ao rito dos recursos repetitivos, determinando a suspensão da tramitação de processos em todo território nacional" (e-STJ, fl. 323).
+É o relatório.
+Tendo em vista que acolhiparcialmente os embargos de declaração da Fazenda Nacional, com efeitos infringentes, para tornar sem efeito a decisão de e-STJ, fls. 314-320, e determinara devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, encontra-se prejudicada a análise do presente agravo interno.
+Ante o exposto, com fulcro no art. 932, III, do CPC, julgo prejudicado o agravo interno.
+Publique-se. Intimem-se.
