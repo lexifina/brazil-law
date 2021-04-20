@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por ELTON VINÍCIUS BRASIL DINIZ e E. V. B DINIZ-ME, com amparo no art. 105, II, "b", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região assim ementado (e-STJ fl. 737):
+CONSTITUCIONAL. PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL PASSÍVEL DE RECURSO, COM EFEITO SUSPENSIVO. NÃO CABIMENTO. SÚMULA 267/STF. INDEFERIMENTO DA INICIAL DO MANDADO DE SEGURANÇA. PROCESSO EXTINTO, SEM RESOLUÇÃO DO MÉRITO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267 do STF).
+2. A decisão objeto do mandamus, proferida no bojo de execução fiscal, ao reconhecer a formação de grupo econômico e determinar a inclusão dos impetrantes e de outras pessoas físicas e jurídicas no polo passivo da demanda executiva fiscal, embasou-se nas disposições do CTN (arts. 124, I e 185-A) e da Lei 8.397/1992, que, ao disciplinar a medida cautelar fiscal, prevê expressamente a possibilidade de interposição de agravo de instrumento contra o provimento judicial respectivo.
+3. O entendimento da Súmula 202/STJ (A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso) deve ser conjugado com o da Súmula 267/STF (Não cabe mandado de segurança contra ato judicial passível de recurso ou correição), conforme precedente do STJ (RMS 50.779/SP), de modo que o só fato de se tratar de terceiro prejudicado não autoriza a impetração de segurança em qualquer situação.
+4. Na hipótese dos autos, os impetrantes tiveram ciência da decisão, tanto que foram intimados do deferimento da medida de indisponibilidade de bens e também citados para integrar a relação jurídica processual na execução fiscal em trâmite em primeiro grau.
+5. Agravo interno a que se nega provimento.
+Os recorrentes alegam que ser ilegal e teratológica a decisão judicial impugnada, que, em autos de execução fiscal, acolheu pedido de Fazenda Nacional para, reconhecendo a existência de grupo econômico de fato, incluí-los no polo passivo, assim como determinou a indisponibilidade de bens.
+Argumentam que "não possuem nenhumavinculação com a cobrança judicial em comento, revelando-se a decisão de fls. 942/946medida confiscatória completamente arbitrária, descabida e teratológica" (e-STJ fl. 753). Defendem que, in casu, seria indispensável a instauração de incidente de desconsideração da personalidade jurídica.
+Contrarrazões às e-STJ fls. 789/791.
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ fls. 821/827).
+Passo a decidir.
+Objetiva a parte recorrente a reforma do acórdão que indeferiu o processamento do mandado de segurança impetrado contra decisão judicial passível de recurso, à míngua de manifesta ilegalidade ou teratologia.
+No exame da questão, verifica-se que o recurso não merece prosperar.
+O presente mandamus foi impetrado contra ato do Juízo Federal da Seção Judiciária de Mato Grosso que, nos autos da Execução Fiscal 0021947-63.20104.01.3600/MT, ao reconhecer indícios de formação de grupo econômico de fato, determinou a citação dos ora recorrentes e decretou, liminarmente, a indisponibilidade de seus bens, com base no art. 185-A do CTN.
+O Superior Tribunal de Justiça tem entendimento uniforme de que o mandado de segurança - instituto que visa à proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública - não pode ser utilizado como sucedâneo recursal, sob pena de se desnaturar a sua essência constitucional. Não obstante, em hipóteses excepcionais, quando o ato judicial for eivado de ilegalidade, teratologia ou abuso de poder, esta Corte tem abrandado referido posicionamento, situação inocorrente na presente hipótese.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. DECISÃO QUE DETERMINOU A INCLUSÃO DA IMPETRANTE NO FEITO EXECUTIVO FISCAL POR CONSIDERAR CONFIGURADA HIPÓTESE DE SUCESSÃO TRIBUTÁRIA. DEFESA VIA IMPUGNAÇÃO OU EXCEÇÃO DE PRÉ-EXECUTIVIDADE INSUBSTITUÍVEL PELO MANDADO DE SEGURANÇA. APLICAÇÃO DA SÚMULA 267/STF. AUSÊNCIA DE TERATOLOGIA. RECURSO ORDINÁRIO DESPROVIDO, CASSANDO-SE A LIMINAR CONCEDIDA NA MC 19.559/RS.
+1. O redirecionamento da execução fiscal, incluindo no pólo passivo da relação processual empresa sucessora, pode ser afastado pela impugnação prevista em lei própria ou em exceção de pré-executividade acaso não haja necessidade de dilação probatória.
+2. O Mandado de Segurança contra ato judicial somente se mostra admissível em hipóteses excepcionalíssimas em que a decisão seja visivelmente teratológica.
+3. No caso concreto, o acolhimento do pedido de redirecionamento respaldou-se em conclusões de procedimento fiscal realizado pela Receita Federal; assim, sem ampla dilação probatória, não se poderia nomear o decisum de teratológico.
+4. Recurso ordinário desprovido, cassando-se a liminar concedida na MC 19.559/RS.
+(RMS 38.721/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/12/2012, DJe 18/12/2012).
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. DECISÃO QUE DETERMINOU A INCLUSÃO DA IMPETRANTE NO FEITO EXECUTIVO FISCAL POR CONSIDERAR CONFIGURADA HIPÓTESE DE SUCESSÃO TRIBUTÁRIA. DEFESA VIA IMPUGNAÇÃO OU EXCEÇÃO DE PRÉ-EXECUTIVIDADE INSUBSTITUÍVEL PELO MANDADO DE SEGURANÇA. SÚMULA 267/STF. APLICAÇÃO.
+1. O redirecionamento da execução fiscal, incluindo no pólo passivo da relação processual empresa sucessora, pode ser afastado pela impugnação prevista na lei própria; quiçá em exceção de pré-executividade acaso não haja necessidade de dilação probatória.
+2. Os meios componentes do due process of law não podem ser substituídos pelo mandamus.
+3. O Mandado de Segurança não é sucedâneo de recurso, sendo imprópria a sua impetração contra decisão judicial passível de impugnação prevista em lei, ex vi do disposto no artigo 5º, II, da Lei 1.533/51 e da Súmula 267/STF, segundo a qual "não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Precedente da Corte Especial do STJ: MS 12.441/DF, Rel. Ministro Luiz Fux, Corte Especial, julgado em 01.02.2008, DJe 06.03.2008).
+4. O artigo 5º, II, da Lei 12.016/2009, veda a utilização do mandado de segurança contra decisão judicial da qual caiba recurso com efeito suspensivo.
+5. In casu, a decisão judicial, após pugnar pela ocorrência da sucessão da empresa executada pela impetrante, determinou sua inclusão no pólo passivo do feito executivo e conseqüente expedição de mandado de citação.
+6. Recurso ordinário desprovido.
+(RMS 23.865/PA, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 16/11/2010, DJe 01/12/2010).
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
