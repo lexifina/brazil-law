@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes -balança de precisão, embalagens, caderno de anotações- e de expressiva quantidade de dinheiro.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JHONATAN SOLER MAIA SANTOS contra a decisão de fls. 294-297, que não conheceu do habeas corpus.
+O agravante teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fl. 29), por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se no risco de reiteração delitiva, em razão da apreensão de expressiva quantidade de entorpecentes(1 pedaço de tijolo de maconha, 1 tijolo de maconhapartido ao meioe 9 tijolos de maconha, totalizando 5,620kg de maconha),de apetrechos relacionados à traficância (1 balança de precisão, 1 rolo de plástico filme, 1 celular e 2 facascom resquícios de droga)e de R$ 4.050,00 em espécie (fls. 30-31).
+O agravante reafirma a tese lançada na inicial de que não há fundamentação idônea para a manutenção da prisão cautelar, que estaria fundada na gravidade abstrata do delito e na quantidade de entorpecentes apreendida(fls. 302-303).
+Requer a reconsideração da decisão ou a submissão do recurso a julgamento para que seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes -balança de precisão, embalagens, caderno de anotações- e de expressiva quantidade de dinheiro.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada merece ser mantida.
+Registre-se que a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 16-20, destaquei):
+ ..  A prisão preventiva foi decretada em razão da prova de materialidade e dos indícios de autoria no sentido de que o Paciente estaria envolvido na prática de tráfico de entorpecentes, tendo em vista a apreensão dos entorpecentes e os relatos colhidos na fase policial.
+Consta dos autos que policiais militares estavam em patrulhamento, quando notaram que o Paciente, que estava defronte a uma residência, ao perceber a viatura policial, demonstrou nervosismo e tentou entrar no imóvel, o que motivou a abordagem.
+Em revista pessoal, foram encontrados, na cintura de Jhonatan, um pequeno pedaço de tijolo de maconha, um aparelho celular e a quantia de R$ 50,00, tendo o Paciente admitido aos policiais que estava esperando uma pessoa para entregar aquela droga, pois tinha negociado a venda pelo celular, bem como que havia mais drogas no interior da casa, a qual estaria sendo utilizada apenas para o tráfico. Com a permissão dele, os policiais entraram no imóvel e localizaram, sobre a mesa da cozinha, um tijolo de maconha partido ao meio, duas facas com resquícios de droga, uma balança de precisão, um rolo de plástico filme e diversos sacos plásticos.
+No armário da cozinha, encontraram mais 02 tijolos de maconha e, dentro da geladeira, outros 06 tijolos. Em continuidade, dirigiram-se à residência em que o Paciente reside com família e, com a permissão dele, ingressaram no imóvel e localizaram, na geladeira, um pedaço de tijolo de maconha, idêntico ao que ele trazia à cintura, bem como, no interior do guarda-roupas do quarto, a quantia de R$ 4.000,00.
+O laudo pericial apontou tratar-se de 5,62kg de maconha, quantidade que evidenciaria a possibilidade de que o Paciente se dedica ao tráfico, ou, ao menos, tem essa intenção para o futuro, lançando-se nessa prática delitiva com intuito de reiteração, representando, em liberdade, risco à ordem e à saúde públicas.  ..
+É certo também que a citada quantidade da droga atenderia imensa quantidade de usuários. Assim, ao contrário do que alega a Defesa, o réu representa, sim, em liberdade, risco à ordem e à saúde públicas.  ..
+O entendimento acima está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do agravante não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+O agravante não apresentou argumentos novos capazes de infirmar o decisum impugnado, que deve, portanto, ser mantido.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
