@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, que tem a seguinte ementa (e-STJ fls. 188/189):
+PROCESSO CIVIL - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - NULIDADE DO TÍTULO - DESCRIÇÃO DE FATO GERADOR DESNECESSIDADE - RESPONSABILIDADE DE SÓCIO - PROVA DAS OCORRÊNCIAS DO ART. 135, III DO CTN A SER PRODUZIDA PELA EXEQUENTE INFRAÇÃO AO ARTIGO 30, I B DA LEI 8.212/91 - OCORRÊNCIA - SELIC - DISSOLUÇÃO IRREGULAR
+I - A CDA que embala a execução, além de espelhar o instrumento administrativo de homologação do auto lançamento, traz em seu bojo o valor originário do débito, o período e o fundamento legal da dívida e dos consectários, elementos suficientes a oportunizar a defesa do contribuinte em conformidade com os princípios da ampla defesa e do contraditório.
+II - Não é necessário que a Certidão de Dívida Ativa traga em seu bojo o detalhamento da dívida e de seu fato gerador para sua validade; basta mencionar o número do processo administrativo em que o crédito foi apurado.
+III - O dirigente da sociedade contribuinte só responde pelas dívidas tributárias mediante prova de que resultam de excesso de poder, infração à lei, contrato social ou estatuto.
+IV - O simples inadimplemento da obrigação tributária não configura infração à lei.
+V - Constando no embasamento legal do crédito exequendo valores que decorrem de infração à norma prevista no art. 30, I "b" da Lei 8.212/91, cabe aos dirigentes da executada responderem pela dívida, pois incorrem nas disposições do artigo 135, III do Código Tributário Nacional.
+VI - Havendo norma constitucional que autorize a atualização do crédito tributário pela taxa Selic, não cabe ao Judiciário determinar o afastamento de sua aplicação.
+VII - Se o distrato foi levado a registro na Junta Comercial, a empresa foi regularmente dissolvida,
+VIII - Precedente jurisprudencial.
+IX - Apelo da contribuinte desprovido. Apelo da exequente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 208/216 ).
+Nas razões de recurso (e-STJ fls. 219/232), a FAZENDA aponta violação do art. 1.022 do CPC/2015, pois entende que o Tribunal de origem teria sido omisso"quanto à jurisprudência pacifica no E. STJ que reconhece a responsabilidade dos administradores em caso de distrato social quando a pessoa jurídica ainda apresenta débitos, com fulcro noart. 135, III, do CTN c/c arts. 9º, caput, §§3º e 5º, da LC n.123/2006 e arts. 1.033, 1.036, 1.044, 1.0102, 1.103, IV, e 1.108 do CC."(e-STJ fl. 224).
+Acrescenta que essetema, por tratar de legitimidade, consistiria em matéria de ordem pública e, nos "termos do 485, VI, e §3º, c/c art. 1.022, II, parágrafo único, II, c/c art. 489, IV do CPC/15", não haveria óbice ao seu enfrentamento(e-STJ fl. 224).
+Aduz em seu recurso que (e-STJ fls. 224/228):
+o v. acórdão deu parcial provimento ao Apelo da União, apenas, para reconhecer a responsabilidade do recorrido, ALVIRIO NATALINO MORI, pelas contribuições descontadas dos segurados e não recolhidas à Previdência social. Firmou ainda que o distrato social afasta a responsabilidade do recorrido pela integralidade.
+Ao assim proceder, o v. acórdão restou omisso quanto à jurisprudência pacifica no E. STJ que reconhece a responsabilidade dos administradores em caso de distrato social quando a pessoa jurídica ainda apresenta débitos, com fulcro nos arts. 135, III, do CTN c/c arts. 9a, caput, §§3º e 5º da LC nº 123/06, 1.033, 1.036, 1.044, 1.0102, 1.103, IV e 1.108 do CC.
+Tal tema, ademais, por se tratar de legitimidade consiste em matéria de ordem pública nos termos do art. 485, VI, e §3º c/c art. 1.022, II, parágrafo único, II c/c art. 489, IV do CPC/15.
+Na hipótese dos autos, o sr. Oficial de Justiça certificou a dissolução irregular da empresa (fls. 130) no endereço constante nos registros da JUCESP (fls. 92), sendo que os débitos indicados na CDA são anteriores ao distrato (fls. 11/2004 até 10/2008 - fls. 101/128) demonstrando a ocorrência de encerramento irregular das atividades, de molde a ensejar a inclusão do sócio administrador no polo passivo da ação executiva e a improcedência dos embargos.
+Essa responsabilidade encontra respaldo nos arts. 135, III, do CTN e 9º, caput, §§3º e 5º da LC nº 123/06, já que o distrato levado registro sem liquidação das dividas não pode ser entendido como liquidação regular da pessoa jurídica por ofensa aos arts. 1.033, 1.036, 1.044, 1.0102, 1.103, IV e 1.108 CC
+ ..
+O E. Superior Tribunal de Justiça entende que o distrato social é apenas uma etapa da extinção da sociedade empresarial, não podendo presumir que o seu arquivamento na Junta implica dissolução regular da empresa, a justificar o indeferimento do pedido de redirecionamento ou a exclusão do feito executivo fiscal aos sócios administradores.
+É justamente esse o caso dos autos, nos quais o v. acórdão omitiu-se quanto à causa pacifica no E. STJ de responsabilização do recorrido.
+Assim, aplica-se o art. 135, III do CTN, segundo o qual, os diretores, gerentes ou representantes de pessoas jurídicas de direito privado são pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+A responsabilidade passiva dos sócios-administradores e liquidantes da pessoa jurídica, somente se extingue com a liquidação da sociedade, a teor do que determina o artigo 1001 do Código Civil  ..
+As contrarrazões não foram oferecidas (e-STJ fl. 236)
+O recurso foi admitido às e-STJ fls. 237/239.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Feita essa consideração, cabe ressaltar, inicialmente, que o recurso especial tem origem em embargos à execução julgados nos seguintes termos (e-STJ fl. 54):
+Ante o exposto, DECLARO EXTINTA a execução fiscal em relação ao embargante ALVIRIO NATALINO MORI, nos termos dos artigos 267, inciso VI, e 329, do CPC. Condeno a embargada ao pagamento de verba honorária que arbitro em R$ 1.000,00 (um mil reais).
+E JULGO IMPROCEDENTES os embargos à execução movidos por MORI & MORI TRANSPORTES LTDA, extinguindo-os com fundamento no inciso I, do artigo 269, do Código de Processo Civil. Condeno a embargante a arcar com as despesas processuais e com verba honorária da embargada, a qual fixo em R$ 1.000,00.
+O Tribunal de origem deu provimento ao recurso de apelação da FAZENDA e negou provimento ao apelo da Empresa contribuinte. No ponto pertinente ao exame da controvérsia, destaco os fundamentos que deram suporte ao julgado (e-STJ fl. 187):
+ ..
+DISSOLUÇÃO RREGULAR
+Esta E. Turma proferiu julgamento no sentido de que o registro do distrato social da empresa contribuinte no órgão competente desautoriza o redirecionamento da execução fiscal em desfavor de seus dirigentes, entendendo ser forma regular de dissolução da empresa. A propósito:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. RESPONSABILIDADE DE SÓCIO. DISSOLUÇÃO IRREGULAR. INOCORRÊNCIA.
+I - Registro do distrato social perante o órgão competente que é forma regular de dissolução da empresa e não autoriza o redirecionamento da execução aos sócios. Precedentes desta E. Corte.
+II - Agravo de instrumento desprovido.
+( TRF3, AI no 579315, 2ªTurma, rel. Peixoto Junior, e-DJF3 Judicial 1 DATA:05/10/2017)
+No caso, a situação supra restou configurada, pois consta às fls. 92 dos autos que o distrato da empresa foi assentado em sua ficha cadastral na Junta Comercial do Estado de São Paulo.
+Diante do exposto, nego provimento ao recurso de apelação da contribuinte e dou provimento ao apelo da União Federal, para reconhecer a responsabilidade fiscal do dirigente, Alvirio Natalino Mori, apenas pelas contribuições arrecadadas dos empregados da executada em não repassada ao erário, nos termos do art. 30, I, "b" da Lei 8.212/91 e da fundamentação supra, invertendo o ônus da sucumbência nesta parte.
+É o voto.
+Pois bem.
+O recurso não comporta acolhimento, pois não há nenhuma violação doart. 1.022 do CPC/2015.
+De fato, não se vislumbra, na espécie, nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte Superior, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+De fato," ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.383.955/RJ, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 10/04/2018, DJe 13/04/2018).
+Em verdade, o exame das razões elencadas na peça recursal revela que o intento da FAZENDA, a pretexto de existência de omissão no acórdão, é a revisão do juízo de convicção do órgão julgador acerca da responsabilização do sócio/administrador após o distrato ter sidolevado à Junta Comercial,pretensão essa de natureza exclusivamente infringente, de inviável acolhimento na estreita via do recurso integrativo bem como no recurso especial a pretexto de violação do art. 1.022do CPC/2015.
+Por fim, reitero que,ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
