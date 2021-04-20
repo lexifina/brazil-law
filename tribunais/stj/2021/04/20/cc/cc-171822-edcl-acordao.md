@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. HIPÓTESE EM QUE A PARTE EMBARGANTE APRESENTA IRRESIGNAÇÃO DIRETA AO ACÓRDÃO EMBARGADO, SEM NO ENTANTO, APONTAR QUAISQUER DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. MATÉRIAS JÁ APRECIADAS PELO COLEGIADO NO JULGAMENTO DO AGRAVO INTERNO. INEXISTÊNCIA DE VÍCIOS A RECLAMAR INTEGRAÇÃO DO JULGADO. PRETENSÃO DE REFORMA DO JULGADO. OBJETIVO QUE REFOGE AOESPECTRO DO RECURSO INTEGRADOR. PRECEDENTES: EDCL NO AGINT NO ARESP 863.814/SE, REL. MIN. GURGEL DE FARIA, DJE 3.10.2017 E EDCL NO RESP 1.344.821/PR, REL. MIN. HERMAN BENJAMIN, DJE 25.5.2016. EMBARGOS DE DECLARAÇÃO DA INSTITUIÇÃO DE ENSINO SUPERIOR REJEITADOS.
+1. O recurso integrador não se presta, diretamente, à reforma do acórdão, esta, somente poderá ocorrer de maneira indireta, em consequência do suprimento de um vício reconhecido, hipótese ausente na espécie.
+2. Embargos de Declaração da Instituição de Ensino Superior rejeitados.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração com efeitos infringentes opostos por ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU contra acórdão prolatado pela egrégia 1a. Turma, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. O JUIZ FEDERAL ENTENDEU PELA IMPOSSIBILIDADE DE OBRIGAR A INCLUSÃO DA UNIÃO NO POLO PASSIVO.DESNECESSIDADE DE SUSCITAR CONFLITO, BASTANDO A REMESSA DOS AUTOS À JUSTIÇA ESTADUAL. SÚMULA 224/STJ. ENTENDIMENTO DESTA CORTE SUPERIOR.AGRAVO INTERNO DA ASSOCIAÇÃO A QUE SE NEGA PROVIMENTO.
+1. O Agravo Interno origina-se de Conflito Negativo de Competência suscitado pelo JUÍZO FEDERAL DA 1a. VARA DE OSASCO - SJ/SP, em face do JUÍZO DE DIREITO DA 2a. VARA CÍVEL DE CARAPICUÍBA/SP, nos autos de Ação Ordinária ajuizada contra a parte ora agravante, tendo como objeto a validação de diploma de ensino superior.
+2. Excluída da lide a UNIÃO, cabe ao Juízo Federal simplesmente devolver os autos à Justiça Estadual, e não suscitar Conflito de Competência, nos termos da Súmula 224/STJ. Afinal, o Juízo Estadual não poderá rever tal decisão para determinar, novamente, a inclusão da UNIÃO no feito, consoante as Súmulas 150 e 254/STJ; por isso, sendo definitiva a decisão, na esfera federal, quanto à exclusão da UNIÃO, não há necessidade de instauração de conflito.
+3. Tal entendimento, a propósito, já foi adotado por esta egrégia Primeira Seção, em caso análogo ao presente (envolvendo também o mesmo Juízo suscitante). Acórdão paradigma: AgInt no CC 166.407/SP, Rel. Min FRANCISCO FALCÃO, DJe 17.12.2019.
+4. Agravo Interno da Associação a que se nega provimento(fls. 468/469).
+2. Nas razões dos Aclaratórios a parte embargante aponta frontal discordância ao acórdão embargado, pleiteando a reconsideração da decisão ou a apresentação do feito para a apreciação do colegiado.
+3. Devidamente intimada, a parte embargada deixou deapresentarimpugnação (fls. 512).
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. HIPÓTESE EM QUE A PARTE EMBARGANTE APRESENTA IRRESIGNAÇÃO DIRETA AO ACÓRDÃO EMBARGADO, SEM NO ENTANTO, APONTAR QUAISQUER DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. MATÉRIAS JÁ APRECIADAS PELO COLEGIADO NO JULGAMENTO DO AGRAVO INTERNO. INEXISTÊNCIA DE VÍCIOS A RECLAMAR INTEGRAÇÃO DO JULGADO. PRETENSÃO DE REFORMA DO JULGADO. OBJETIVO QUE REFOGE AOESPECTRO DO RECURSO INTEGRADOR. PRECEDENTES: EDCL NO AGINT NO ARESP 863.814/SE, REL. MIN. GURGEL DE FARIA, DJE 3.10.2017 E EDCL NO RESP 1.344.821/PR, REL. MIN. HERMAN BENJAMIN, DJE 25.5.2016. EMBARGOS DE DECLARAÇÃO DA INSTITUIÇÃO DE ENSINO SUPERIOR REJEITADOS.
+1. O recurso integrador não se presta, diretamente, à reforma do acórdão, esta, somente poderá ocorrer de maneira indireta, em consequência do suprimento de um vício reconhecido, hipótese ausente na espécie.
+2. Embargos de Declaração da Instituição de Ensino Superior rejeitados.
+VOTO
+1. De início, apesar da densa argumentação trazida no recurso integrador em análise, verifica-se, de antemão, que a pretensão da parte embargante é, nitidamente, a reforma do acórdão embargado, providência que não é possível, nesta via recursal integradora, em especial quando se deixa de apontar quaisquer dos vícios que autorizam o manejo da pretensão declaratória, como ocorre no presente caso.
+2. Ora, como se depreende da própria argumentação dos aclaratórios, o mérito do Conflito de Competência foi apreciado pela egrégia 1a. Seção, consoante o acórdão embargado. Veja-se por relevante, que tais matérias foramtrazidas pela parte ora embargante em seu anterior Agravo Interno, e efetivamente apreciadas pelo douto Colegiado.
+3. Desta maneira, tem-se que a discordância apresentada pela parte embargante refere-se ao resultado do julgamento, entretanto, a via integradora utilizada não é apta a tal pretensão. Nesse sentido é a jurisprudência deste STJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto os vícios alegados pelo(a) embargante, na realidade, manifestam seu inconformismo com a denegação da segurança pretendida, sendo certo que eventual reforma do julgado não condiz com a natureza integrativa dos aclaratórios.
+3. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+4. Embargos de declaração rejeitados (EDcl no AgInt no AREsp. 863.814/SE, Rel. Min. GURGEL DE FARIA, DJe 3.10.2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. A argumentação ventilada nestes aclaratórios é artificiosa, pois a ementa e o voto condutor do acórdão embargado são claros, com destaque em negrito, que a base de cálculo da verba honorária fixada em favor da Fazenda Pública é o montante de 10% do valor que a parte autora, derrotada, pretendia compensar, e que será apurado em liquidação de sentença.
+4. Assim, não houve referência ao valor da condenação, expediente lançado com o nítido escopo de contornar o descabimento do Agravo Regimental para pleitear a reforma do julgado colegiado, em atitude que tecnicamente desafia os limites da fronteira que separa o exercício do direito de recorrer da utilização de manobra protelatória.
+5. Embargos de Declaração rejeitados, sem imposição de multa (art. 538, parágrafo único, do CPC), por ora (EDcl no REsp. 1.344.821/PR, Rel. Min. HERMAN BENJAMIN, DJe 25.5.2016).
+4. Ante o exposto, rejeitam-se os Embargos de Declaração da Instituição de Ensino Superior.
