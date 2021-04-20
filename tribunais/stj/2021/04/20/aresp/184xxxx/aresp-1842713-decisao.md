@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por OSCAR ORTIGARA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+PRONÚNCIA - HOMICÍDIO DUPLAMENTE QUALIFICADO - MOTIVO FÚTIL E MEIO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA - MANIFESTA IMPROCEDÊNCIA NÃO VERIFICADA - EXCLUSÃO INADMISSÍVEL.
+As circunstâncias qualificadoras do homicídio só podem ser afastadas da pronúncia quando claramente inexistentes; encontrando suporte mínimo no material probatório, devem ser levadas a exame dos Jurados.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial obstado na origem, alega violação dos arts. 121, § 2º, II e IV, do CP e 581, IV, do CPP, no que concerne à ilegal inclusão da qualificadora de motivo fútil para o homicídio, ante sua manifesta inexistência, trazendo o seguinte argumento:
+Verifica-se que a r. sentença, corroborada pelos vv. acórdãos impugnados, negaram vigência ao previsto no art. 121, §2º, II e IV, do CPB e art. 581, IV, do CPP, na medida em que consideraram devida a manutenção da qualificadora da futilidade, mesmo que as provas citadas no corpo das decisões reprochadas caminhe para a conclusão diversa, isto é, a manifesta improcedência da qualificadora em cena, visto que não houve futilidade na conduta, mas sim, ausência de motivo (fls. 592).
+É, no essencial, o relatório. Decido.
+O Tribunal de origem se manifestou nos seguintes termos:
+Há, como se vê, indicativos de que o crime aconteceu, em tese, pelo motivo declinado na denúncia, ou seja, porque o Réu, não obtendo êxito em alcançar sua esposa (Joana), decidiu por ceifar a vida de sua sogra, Natália.
+Quanto à circunstância prevista no art. 121-§2º-IV do Código Penal, colhe-se da prova oral que a Vítima teria sido surpreendida pela repentina ação do Acusado, o qual supostamente lhe desfechou seis disparos de arma de fogo enquanto ela estava sentada em uma praça, impossibilitando-a, por isso, de esboçar qualquer ato defensivo.
+Como se sabe, somente na hipótese de inexistência de elementos de convicção é que as qualificadoras do homicídio não encontram espaço na pronúncia. Amparadas, contudo, em indícios - ainda que tênues - de sua ocorrência, reservado está ao Conselho de Sentença apreciá-las (fls. 541).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
