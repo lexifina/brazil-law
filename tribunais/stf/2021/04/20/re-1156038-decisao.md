@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO – AÇÃO DE RESSARCIMENTO AO ERÁRIO PUBLICO – Reconhecimento da prescrição com base no Decreto n. 20.910/32 – Impossibilidade – Ação que, estribada em alegação de lesão ao erário público, afigura-se como imprescritível - Art. 37, § 5º, da Constituição Federal - Precedentes jurisprudenciais - Decreto de extinção revogado – Sentença anulada” (pág. 139 do documento eletrônico 5).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação do art. 37, § 5º, da mesma Carta, sob o argumento de que nem toda ação de ressarcimento ao erário é imprescritível, a exemplo da ação de ressarcimento decorrente de ilícito civil, cuja prescritibilidade fora reconhecida pelo Supremo Tribunal Federal no exame do Tema 666 da Repercussão Geral.
+    A Procuradoria-Geral da República manifestou-se pelo provimento parcial do recurso.
+    Em 30/4/2020, determinei a devolução deste processo ao Tribunal de origem para observância do que decidido no Tema 897 da Repercussão Geral. Aquela Corte, porém, recusou-se a se retratar e remeteu os autos ao Supremo Tribunal Federal.
+    A pretensão recursal merece parcial acolhida.
+    O Tribunal de origem, ao concluir que toda ação de ressarcimento ao erário é imprescritível, divergiu do entendimento firmado por esta Corte nos Temas 666, 897 e 899 da Repercussão Geral.
+    Com efeito, no julgamento do RE 669.069-RG/MG (Tema 666), da relatoria do Ministro Teori Zavascki, concluiu-se que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil.
+    Por sua vez, ao julgar o RE 852.475-RG/SP (Tema 897), redator para o acórdão o Ministro Edson Fachin, firmou-se a tese de que são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa.
+    Já, no julgamento do RE 636.886-RG/AL (Tema 899), da relatoria do Ministro Alexandre de Moraes, foi assentado que
+    “1. A regra de prescritibilidade no Direito brasileiro é exigência dos princípios da segurança jurídica e do devido processo legal, o qual, em seu sentido material, deve garantir efetiva e real proteção contra o exercício do arbítrio, com a imposição de restrições substanciais ao poder do Estado em relação à liberdade e à propriedade individuais, entre as quais a impossibilidade de permanência infinita do poder persecutório do Estado.
+    2. Analisando detalhadamente o tema da ‘prescritibilidade de ações de ressarcimento’, este SUPREMO TRIBUNAL FEDERAL concluiu que somente são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato de improbidade administrativa doloso tipificado na Lei de Improbidade Administrativa – Lei 8.429/1992 (TEMA 897). Em relação a todos os demais atos ilícitos, inclusive àqueles atentatórios à probidade da administração não dolosos e aos anteriores à edição da Lei 8.429/1992, aplica-se o TEMA 666, sendo prescritível a ação de reparação de danos à Fazenda Pública” (trecho da ementa do referido precedente – grifei).
+    Isso posto, conheço do recurso extraordinário e dou-lhe parcial provimento para que, afastada a premissa da imprescritibilidade de toda ação de ressarcimento ao erário e com observância do entendimento do Supremo Tribunal Federal acima referido, o Tribunal de origem proceda a novo exame da apelação.
+    Publique-se.
+    Brasília, 20 de abril de 2021.
+Ministro Ricardo Lewandowski
+Relator
