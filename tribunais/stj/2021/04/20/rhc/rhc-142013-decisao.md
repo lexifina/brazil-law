@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ALEX BRUNO MARTINS NUNES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.555519-6/000).
+O recorrente teve a prisão em flagrante convertida em preventiva (fls. 44-45), a pedido do Ministério Público, pela suposta prática dos delitos previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, bem como na expressiva quantidade, variedade e forma de acondicionamento dos entorpecentes apreendidos.
+Impetrado writ na origem, o Tribunal denegou a ordem, considerando inexistir ilegalidade decorrente da não realização da audiência de custódia durante o contexto pandêmico, o qual exige a adoção de medidas restritivas destinadas a conter a disseminação do vírus, a teor das previstas na Recomendação CNJ n. 62/2020.
+Destacou-se ainda a presença dos requisitos autorizadores da decretação da custódia preventiva, a fundamentação idônea despendida no édito constritivo e a gravidade concreta do delito.
+O recorrente alega estar sofrendo constrangimento ilegal à sua liberdade de locomoção, porquanto não estão presentes os requisitos da segregação cautelar, a qual carece de fundamentação idônea, além de ser ilegal a prisão em flagrante, uma vez que não se observou a necessidade de realização da audiência de custódia.
+Sustenta ostentar condições pessoais favoráveis, bem com tratar-se de pequena quantidade de entorpecentes.
+Requer, liminarmente e no mérito, a concessão da liberdade provisória.
+O pedido de liminar foi indeferido às fls. 155-156.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório. Decido.
+No que diz respeito à presença dos requisitos autorizadores da manutenção da prisão preventiva, tem-se que a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020)
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 88-99):
+Assim, tenho como inviável a revogação da constrição de Alex à presença dos requisitos autorizadores do acautelamento, elencados nos arts. 312 e 313 do Código de Processo Penal, mostrando-se de rigor a manutenção da prisão preventiva como garantia à ordem pública -o que igualmente indica desarrazoadas as medidas cautelares diversas da prisão, tais quais, comparecimento periódico em juízo, recolhimento noturno ou mesmo monitoramento eletrônico, pelo perigo que representa a liberdade da paciente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No mais, não há ilegalidade na dispensa de realização de audiência de custódia com base no disposto no art. 8º da Recomendação CNJ n. 62/2020 - regulamentada por ato normativo do Tribunal de origem -, como medida de prevenção, tendo em vista a pandemia de covid-19 (RHC n. 131.732/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/9/2020).
+Por fim, destaca-se queeventuais condições subjetivas favoráveis do recorrente, como primariedade e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do ST. Vejam-se os seguintes precedentes:AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
