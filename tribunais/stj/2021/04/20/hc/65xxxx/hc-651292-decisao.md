@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de WELLINGTON FERNANDO PEREIRA LEME DE MORAES contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Apelação n. 1500611-13.2018.8.26.0594.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 1 ano e 8 meses de reclusão em regime aberto, substituída por restritiva de direitos, pela prática do delito de tráfico de drogas (art. 33, § 4º, da Lei n. 11.343/06). O Tribunal a quo, porém, deu parcial provimento à apelação do Ministério Público para afastar a referida minorante e fixar a pena em 5 anos de reclusão em regime semiaberto, nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL. Tráfico de drogas privilegiado. Sentença condenatória. Ministério Público requer o afastamento da causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/06, alteração do regime inicial para o fechado e, consequentemente, o afastamento da substituição a pena privativa de liberdade por restritiva de direitos. Possibilidade. Materialidade e autoria induvidosas. Conjunto probatório robusto para o delito imputado ao réu na denúncia. Acusado flagrado enquanto tinha em depósito e guardava 52 (cinquenta e duas) porções de maconha e 01 (um) tablete da mesma droga, com peso total de 569,79 g. Finalidade de mercancia caracterizada. Condenação pelo delito de tráfico era mesmo de rigor. Dosimetria comporta reparos. Basilares devem retornar ao mínimo legal. Na segunda fase, mantenho a consideração da confissão, eis que o réu admitiu a prática delitiva na fase extrajudicial e tal fato foi utilizado na fundamentação da condenação. Na terceira fase, ausentes requisitos necessários para a incidência do redutor. Embora o acusado seja tecnicamente primário, não há dúvidas de que se dedicava à atividade criminosa de forma regular, ante a enorme quantidade de entorpecentes, assim, necessário reconhecer que estão ausentes os requisitos necessários para aplicar o redutor, motivo pelo qual afasta-se sua aplicação. Regime semiaberto proporcional e necessário à hipótese em comento Impossibilidade de substituição por restritiva de direitos. Recurso ministerial parcialmente provido" (fls. 19/20).
+A impetrante sustenta que a quantidade de droga apreendida com o paciente  569,79 g de maconha  não é elevada, se comparada a outros casos nos quais esta Corte e o Supremo Tribunal Federal aplicaram a minorante do § 4º; e o fato de o paciente estar desempregado não leva à conclusão de que ele se dedicava ao tráfico de drogas.
+Assim, requer, em liminar, a concessão ao paciente do direito de aguardar em liberdade o julgamento deste writ e, no mérito, o restabelecimento da sentença de primeiro grau.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 57/61).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+No caso, policiais militares, averiguando informação sobre a existência de produtos oriundos de furto em uma residência, surpreenderam o paciente tendo em depósito 52 porções e um tablete maior de maconha (569,79 g). Além do entorpecente, foram encontrados uma balança de precisão, uma faca, pedaços de plásticos próprios para a embalagem de drogas e R$ 250,25 (duzentos e cinquenta reais) em espécie guardados embaixo de um colchão. O Juízo de primeiro grau aplicou a minorante do § 4º e o Tribunal a quo afastou-a, sob os seguintes fundamentos:
+" ..
+Dessa forma, ausentes motivos hábeis a justificar a majoração, reconduzo as penas no mínimo legal, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no piso.
+Na segunda etapa, a Magistrada de piso reconheceu a atenuante da confissão, contudo, as penas não sofreram alteração, em homenagem à Sumula nº 231 do C. STJ, a qual dispõe que:
+"A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Na terceira fase, a MM. Juízo a quo entendeu por bem aplicar a causa de diminuição estabelecida no artigo 33, § 4º, da Lei 11.343/06 na fração de 2/3 (dois terços).
+Neste ponto, o Ministério Público requer o afastamento do redutor.
+E seu pleito merece prosperar.
+Com efeito, embora a quantidade de drogas encontrada com WELLINGTON foi elevada e apesar de o acusado ser tecnicamente primário, possuir bons antecedentes e de não haver notícias de que integre organização criminosa, o fato é que tamanha quantidade indica que se dedicava a atividades criminosas, tendo como "profissão" a venda de entorpecentes.
+Outrossim, o réu não comprovou ocupação lícita.
+Além disso, em poder de WELLINGTON foi apreendida uma balança de precisão, uma faca e plásticos comumente utilizados para cortar e embalar as substâncias entorpecentes.
+Tal fato indica que o ora apelado, longe de ser mero neófito no mundo criminoso, em verdade integra parte de uma cadeia de criminosos envolvidos desde a produção do entorpecente até sua venda.
+Portanto, resta evidente, nos autos, que o réu fazia do comércio espúrio seu meio habitual de auferir renda.
+Dessa forma, diante da incompatibilidade dos requisitos para a aplicação do redutor com as circunstâncias acima expostas, resta impossível sua incidência, já que a benesse, realmente, não deve ser aplicada de modo desmedido, prestigiando apenas quem efetivamente mereça a redução da pena.
+Assim, afasto a incidência do redutor.
+As penas estabilizam-se em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no mínimo" (fls. 23/24).
+O acórdão impugnado está em consonância com o entendimento desta Corte de que a quantidade das drogas apreendidas, especialmente quando atrelada a outras circunstâncias (forma de acondicionamento e variedade do entorpecente, local e modus operandi do delito, ausência de ocupação lícita do agente, etc.), indica a dedicação ao tráfico de drogas, impedindo, assim, a aplicação do § 4º.
+Ademais, é necessário o reexame de todo o conjunto fático-probatório para se chegar à conclusão de que o ora paciente faz jus à referida minorante, o que é vedado em habeas corpus.
+Confiram-se, a propósito, os seguintes julgados:
+HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. QUALIFICAÇÃO DE TESTEMUNHA MANTIDA SOB SIGILO, PERMITIDA SUA DIVULGAÇÃO APENAS AO ADVOGADO DOS ACUSADOS, JUIZ E PROMOTOR. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONDENAÇÃO BASEADA EM OUTRAS PROVAS, COLHIDAS SOB O CRIVO DO CONTRADITÓRIO. MINORANTE PREVISTA NO § 4.º DO ART. 33 DA NOVA LEI DE TÓXICOS. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA. PENA MAIOR QUE QUATRO ANOS. HABEAS CORPUS DENEGADO.
+ ..
+3. Inaplicável a causa de diminuição de pena inserta no § 4.º do art. 33 da Lei 11.343/2006 na hipótese, na medida em que, conforme consignado pela sentença condenatória, mantida pelo acórdão de apelação impugnado, o Paciente não preenche os requisitos legais, tendo em vista se dedicar à atividade criminosa. E, não é possível, na estreita via do habeas corpus, rever a conclusão exarada pela instância ordinária, por demandar incabível reexame do conjunto fático-probatório. Precedentes.
+ ..
+5. Habeas corpus denegado.
+(HC 206.142/SC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 23/4/2013).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DA PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). DEDICAÇÃO À ATIVIDADE CRIMINOSA. (98,5 G DE COCAÍNA EM PEDRA, 19,3 G DE COCAÍNA EM PÓ E 49,5 G DE MACONHA, DEVIDAMENTE ACONDICIONADAS PARA A MERCÂNCIA). CAUSA ESPECIAL DE AUMENTO (ART. 40, III, DA LEI N. 11.343/2006). PROXIMIDADE A TRÊS ESCOLAS E UM CENTRO DE RECREAÇÃO. COMPROVAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NATUREZA, E QUANTIDADE DE DROGAS. 300 "PAPELOTES" PARA REVENDA DE CRACK, MACONHA E COCAÍNA EM PÓ.
+1. Deve ser mantida a decisão monocrática em que não se conhece da impetração, substitutiva do recurso cabível, quando não há manifesto constrangimento ilegal à liberdade de locomoção.
+2. A negativa de incidência da causa especial de diminuição da pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, deu-se em razão da convicção do julgador, com base nas provas dos autos, de existir dedicação à atividade criminosa, de modo que, alcançar conclusão inversa, demandaria reexame fático-probatório, inviável na via eleita.
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC 283.816/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/10/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
