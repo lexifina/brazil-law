@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão assim ementado (fls. 704-705, e-STJ):
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONSTITUCIONAL. CONCURSO PÚBLICO. CARGO DE TÉCNICO EM ASSISTÊNCIA SOCIAL DA SECRETARIA DE DESENVOLVIMENTO SOCIAL DO DISTRITO FEDERAL. PRELIMINAR. AUTORIDADE COATORA. LEGITIMIDADE PASSIVA. PRESIDENTE DO TCDF. CONFIGURAÇÃO. ILEGITIMIDADE DA SECRETÁRIA DE DESENVOLVIMENTO SOCIAL DO DF. MERA EXECUTORA. PROVA OBJETIVA. ANULAÇÃO DE QUESTÕES. AJUSTE PROPORCIONAL DO SISTEMA DE PONTUAÇÃO. ARREDONDAMENTO PARA BAIXO. LEGALIDADE. NORMA LEGAL DE REGÊNCIA. PREVALÊNCIA. RAZOABILIDADE DA DECISÃO DA CORTE DE CONTAS. SEGURANÇA DENEGADA.
+1. A controvérsia instaurada no mandamus refere-se à decisão do c. TCDF que sugeriu à banca examinadora do concurso público para o cargo de Técnico em Assistência Social da Carreira Pública de Assistência Social do DF, na especialidade Agente Social, regido pelo Edital nº 01 - SEDESTMIDH, de 27/11/2018, o arredondamento para baixo do número de questões necessárias à aprovação na prova objetiva.
+2. Na esteira do entendimento mais recente que tem prevalecido no âmbito do Conselho Especial, reconhece-se a legitimidade da Presidente do Tribunal de Contas do Distrito Federal para figurar no polo passivo da impetração, porquanto o ato ora impugnado foi emanado da Corte de Contas, qual seja, a Decisão nº 850/2020.
+3. A Secretária de Estado e Desenvolvimento Social do Distrito Federal é parte ilegítima para compor o polo passivo da ação mandamental, pois apenas cumpriu a determinação exarada na referida decisão do TCDF, praticando ato meramente executório, conforme jurisprudência deste eg. Tribunal.
+4. A decisão proferida pelo TCDF que, levando em consideração a possibilidade de anulação de questões objetivas no certame, recomendou o ajuste proporcional do sistema de pontuação previsto inicialmente no edital, se mostra razoável e deve ser mantida, na medida em que, no estrito controle da legalidade do ato administrativo, determina a observância do critério previsto no art. 59 da Lei Distrital nº 4.949/2012, que estabelece as normas gerais para a realização de concurso público pela administração direta, autárquica e fundacional do Distrito Federal. Precedentes do Conselho Especial do TJDFT.
+5. Segurança denegada. Preliminar de ilegitimidade da Secretária de Estado e Desenvolvimento Social do Distrito Federal acolhida.
+Os Embargos de Declaração opostos pelo recorrente perante o Tribunal a quo foram rejeitados.
+A parte recorrente alega, em síntese (fl. 782, e-STJ):
+Salienta-se e importante se faz destacar que arredondamento para baixo da pontuação mínima exigida no Edital alterou significativamente a classificação do concurso, em franco prejuízo do impetrante, que desceu da posição de 468" (decorrente da aplicação do ajuste proporcional sem o arredondamento) para a posição de 680a, retirando-o, assim, da lista dos candidatos a ser convocados para o curso de formação, restrita aos 600 primeiros classificados, já incluídos nesse número os portadores de necessidades especiais.
+Não há dúvidas, que o arredondamento para baixo do número de questões violou o item 11.3 do Edital normativo do certame, uma vez que o referido item é bem claro ao dispor que será eliminado do certame o candidato que auferir nota inferior a 24 pontos na prova objetiva de conhecimentos básicos.
+Não foram apresentadas Contrarrazões.
+O Ministério Público emitiu parecer assim ementado (fl. 811, e-STJ):
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVA OBJETIVA. ANULAÇÃO DE QUESTÕES. ARREDONDAMENTO DE NOTAS. ILEGALIDADE NÃO EVIDENCIADA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+- Parecer pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.7.2020.
+Ao dirimir a controvérsia, o Tribunal de origem consignou (fl. 715, e-STJ):
+Ressalto, de início, ser vedado ao Poder Judiciário reanalisar o mérito do ato administrativo, restringindo-se o controle judicial ao exame da legalidade, de desvio ou abuso de poder.
+A decisão proferida pelo TCDF que, levando em consideração a possibilidade de anulação de questões objetivas no certame, recomendou o ajuste proporcional do sistema de pontuação previsto inicialmente no edital, se mostra razoável e deve ser mantida, na medida em que, no estrito controle da legalidade do ato administrativo, determina a observância do critério previsto no art. 59 da Lei Distrital nº 4.949/2012, que estabelece as normas gerais para a realização de concurso público pela administração direta, autárquica e fundacional do Distrito Federal.
+A solução adotada pelo TCDF objetivou, em última análise, atender ao melhor interesse público, com base na norma legal de regência, mantendo o certame e possibilitando a participação de maior número de candidatos.
+Com efeito, conforme a jurisprudência do STJ, ao Poder Judiciário, no tocante a questões relativas a concurso público, cabe tão somente apreciar a legalidade do certame, sendo-lhe vedado substituir-se à banca examinadora para apreciar os critérios utilizados para a elaboração e correção das provas, sob pena de indevida interferência no mérito do ato administrativo.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. (..) CONCURSO PÚBLICO. MINISTÉRIO PÚBLICO ESTADUAL. CORREÇÃO DE PROVA. REAVALIAÇÃO DOS CRITÉRIOS EMPREGADOS PELA BANCA EXAMINADORA. IMPOSSIBILIDADE. PRECEDENTES DO STJ E STF. AUSÊNCIA DE ILEGALIDADE OU DE INCOMPATIBILIDADE DO CONTEÚDO COBRADO COM O EDITAL. INDEFERIMENTO MOTIVADO DOS RECURSOS APRESENTADOS PELO CANDIDATO. DIREITO LÍQUIDO E CERTO NÃO CARACTERIZADO.
+I - O acórdão recorrido adotou entendimento consolidado no Supremo Tribunal Federal e nesta Corte, segundo o qual não compete ao Poder Judiciário reavaliar os critérios empregados por banca examinadora na correção de prova de concurso público, ressalvado o exame da legalidade dos procedimentos e a análise da compatibilidade entre o conteúdo cobrado e o previsto no edital.
+II - Acervo probatório que não evidencia ilegalidades no exame das respostas da parte Impetrante, muito menos incongruência dos tópicos exigidos com o conteúdo programático.
+III - Colhe-se dos autos que os recursos administrativos apresentados pelo candidato foram adequada e suficientemente motivados pelos examinadores.
+(..) (AgRg no RMS 37.683/MS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 29/10/2015).
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SERVIÇOS NOTARIAIS E DE REGISTROS PÚBLICOS. REAVALIAÇÃO DOS CRITÉRIOS UTILIZADOS NA CORREÇÃO DE PROVA DISCURSIVA.
+INCOMPETÊNCIA DO PODER JUDICIÁRIO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA BANCA EXAMINADORA.
+1. O reexame dos critérios utilizados pela Banca Examinadora na formulação de questões, correção e atribuição de notas em provas de concursos públicos é vedado, como regra, ao Poder Judiciário, que deve se limitar à análise da legalidade e da observância às regras contidas no respectivo edital. Precedentes do STJ.
+2. Recurso Ordinário não provido. (RMS 32.108/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 14/9/2010).
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. EXAME NACIONAL DE ENSINO MÉDIO - ENEM. ALEGAÇÃO DE NOTA NÃO CONDIZENTE COM O RETROSPECTO DA CANDIDATA.
+ALEGAÇÃO DE ERRO MATEMÁTICO. (..) IMPOSSIBILIDADE DE O JUDICIÁRIO ADENTRAR NO EXAME DO MÉRITO ADMINISTRATIVO QUANDO NÃO DEMONSTRADO MANIFESTO DESCUMPRIMENTO DAS NORMAS PARA REALIZAÇÃO DO EXAME.
+1. Busca-se com a presente impetração a obtenção de provimento jurisdicional que assegure revisar a correção e a pontuação obtida pela impetrante nas provas de redação e de língua portuguesa do Exame Nacional de Ensino Médio - ENEM.
+(..) 6. (..) cumpre asseverar que é vedada a impetração de mandado de segurança com o escopo único e exclusivo de questionar os critérios adotados pela autoridade coatora para correção de provas e atribuição de notas, notadamente quando se tratar de mero inconformismo do candidato, que não comprova que a atuação da autoridade desatendeu as exigências de legalidade ou desrespeitou o princípio da vinculação ao edital.
+7. Segurança denegada, nos termos do art. 6º, § 5º, da Lei nº 12.016/09.
+(MS 14.997/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 18/6/2010).
+Em reforço a esse entendimento, registra-se que o Plenário do STF, apreciando o Tema 485 da Repercussão Geral, nos termos do voto do Relator, Ministro GILMAR MENDES, conheceu do RE 632.853/CE e deu-lhe provimento (DJe de 29.6.2015) para fixar a tese seguinte:
+Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido" (DJe de 29.6.2015).
+Diante do exposto, nego provimento ao Recurso Ordinário.
+Publique-se.
+Intimem-se.
