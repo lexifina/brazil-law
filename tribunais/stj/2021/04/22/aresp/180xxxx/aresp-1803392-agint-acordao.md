@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a ausência de similitude fática, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que PAULO FABRI, KEILA FABRI, PEDRO PAULO FABRI, ANABELA FABRI PEREIRA e MARIA BETY FABRI BERBEL (PAULO e outros) promoveram ação de danos em acidente de veículos contra JOSÉ ISRAEL MASIERO e NAYDA CARIGNATO MASIERO (JOSÉ e outra), tendo havido êxito.
+Iniciado o cumprimento de sentença, foi deferida a penhora sobre 25% dos imóveis, de propriedade de JOSÉ e outra, matriculados sob os nºs 78.590 e 78.591 do 4º Cartório de Registro de Imóveis de São Paulo, bem como o de nº 98.162 do 14º Cartório de Registro de Imóveis de São Paulo.
+Dessa decisão, JOSÉ e outra interpuseram agravo de instrumento, buscando a impenhorabilidade do bem de família, porquanto se trata de imóvel residencial.
+O agravo de instrumento interposto por JOSÉ e outra não foi provido pelo Tribunal de Justiça de São Paulo, nos termos do acórdão prolatado pelo Des. LUIZ EURICO, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZATÓRIA - CUMPRIMENTO DE SENTENÇA AUSÊNCIA DE DEMONSTRAÇÃO DE QUE SE TRATA DE BEM DE FAMÍLIA - PENHORA MANTIDA
+- RECURSO NÃO PROVIDO (e-STJ, fl. 443).
+Os embargos de declaração opostos por JOSÉ e outra foram rejeitados.
+Inconformados, JOSÉ e outra manejaram recurso especial, com amparo no art. 105, III, alíneas a e c, da CF, alegando violação dos arts. 37 da Lei nº 10.741/2003, 1º da Lei nº 8.009/1990 e 1.022 do NCPC, além de divergência jurisprudencial. Sustentaram que (1) o idoso tem direito à moradia digna; (2) trata-se de bem de família, utilizado como moradia faz mais de 20anos; (3) o bem de família é impenhorável; e(4) o aresto recorrido foi omisso, porque não considerou as provas documentais que demonstraram a natureza do bem como de família.
+O apelo nobre interposto por JOSÉ e outra não foi admitido em virtude do seguinte (1) ausência de ofensa ao art. 1.022 do NCPC; (2) não demonstração de afronta de legislação federal; (3) incidência da Súmula nº 7 do STJ; e(4) ausência de similitude fática.
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, JOSÉ e outra alegaram que (1) houve impugnação específica de todos os fundamentos da decisão denegatória do apelo nobre; (2) não é caso de incidência da Súmula nº 7 do STJ, porque não se pretende o reexame de matéria fático-probatória; e(3) o paradigma EAREsp 746.775/PR, apresentado pela Presidência do STJ, que versa sobre a Súmula nº 182 do STJ, nada tem a ver com o tema debatidos nos autos.
+Houve impugnação ao recurso (e-STJ, fls. 625/641).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a ausência de similitude fática, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a ausência de similitude fática.
+Isso porque, nas razões do presente agravo interno, JOSÉ e outra limitaram-se a alegar que (1)houve impugnação específica de todos os fundamentos da decisão denegatória do apelo nobre; (2) não é caso de incidência da Súmula nº 7 do STJ, porque não se pretende o reexame de matéria fático-probatória; e(3) o paradigma EAREsp 746.775/PR, apresentado pela Presidência do STJ, que versa sobre a Súmula nº 182 do STJ, nada tem a ver com o tema debatidos nos autos.
+Na hipótese, JOSÉ e outra olvidaram-se de infirmar o óbice apontado, tendo apenas afirmado não ser caso de incidência daSúmulanº 7 do STJ, o que acarreta aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada,o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Cumpre registrar que o EAREsp 746.775/PR aplica-se ao caso, considerando tratar-se de julgado da Corte Especial do STJ, que decidiu sobre a necessidade de impugnação integral de todos os fundamentos da decisão denegatória do apelo nobre.
+Assim, porque os argumentos que JOSÉ e outra trouxeram não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno.
