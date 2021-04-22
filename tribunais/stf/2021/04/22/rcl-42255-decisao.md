@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+LIMINAR – REVOGAÇÃO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Outdoor Importação e Exportação Ltda. afirma haver o Juízo da Vara do Trabalho de Indaiatuba/SP, no processo nº 0011634-55.2016.5.15.0077, inobservado o decidido, pelo ministro Gilmar Mendes, na medida cautelar na ação declaratória de constitucionalidade nº 59.
+    Narra figurar em ação trabalhista ajuizada por José Vanderlei da Silva, cujo pedido foi declarado parcialmente procedente, estipulada, em relação aos valores devidos, correção monetária a partir da Tabela Única para Atualização e Conversão de Débitos Trabalhistas e considerado o verbete nº 381 da Súmula do Tribunal Superior do Trabalho. Interposto recurso ordinário, no qual pretendida a utilização do Índice de Preços ao Consumidor Amplo Especial – IPCA-E, a definição do fator de atualização acabou diferida para a fase de execução. Nessa etapa, foi postulada a incidência da Taxa Referencial – TR ou a suspensão do processo na origem, sem êxito, surgindo o descompasso.
+    Sustenta inobservada a liminar deferida na ação declaratória de constitucionalidade nº 59, mediante a qual determinada a paralisação da tramitação dos processos a versarem o disposto nos artigos 879, § 7º, 899, § 4º, da Consolidação das Leis do Trabalho e 39, cabeça e § 1º, da Lei nº 8.177/1991. Discorre sobre dificuldades financeiras enfrentadas.
+    Requereu, no campo precário e efêmero, a sustação dos efeitos do ato impugnado e da execução. Busca a cassação do pronunciamento.
+    Vossa Excelência, em 27 de julho de 2020, implementou a tutela de urgência, suspendendo o processo na origem ante o assentado pelo ministro Gilmar Mendes nas ações declaratórias de constitucionalidade nº 58 e 59.
+    O Juízo, em informações, relata o histórico processual. Ressalta a correção da medida acauteladora deferida na ação declaratória de nº 59, no que suspenso o curso apenas para elucidar a forma de cálculo, sem prejuízo no tocante a parcela incontroversa. Esclarece cumprida a liminar implementada por Vossa Excelência.
+    José Vanderlei da Silva, em contestação, frisa que, em virtude da natureza alimentar do crédito, as execuções devem ter regular tramitação, considerado o valor incontroverso. Requer a continuidade do processo, com a satisfação das quantias a partir de apuração levando em conta a Taxa Referencial.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Afirma adotado, pelo Juízo, óptica harmônica com a firmada no processo revelador do controle concentrado de constitucionalidade, no âmbito do qual, a par de determinada a atualização dos valores com base na Taxa Referencial, ressalvou-se, na ocasião do julgamento do mérito, o pagamento de diferenças. Postula a cassação da tutela de urgência.
+    2. O Pleno, na Sessão ocorrida em 18 de dezembro de 2020, ao apreciar as ações declaratórias de constitucionalidade nº 58 e 59, conferiu interpretação conforme à Constituição aos artigos 879, § 7º, e 899, § 4º, da Consolidação das Leis do Trabalho, na redação dada pela Lei nº 13.467/2017. Assentou a pertinência, até superveniente legislação, relativamente à recomposição de créditos e depósitos recursais na Justiça do Trabalho, dos índices de correção monetária e juros da mora estipulados para as condenações cíveis em geral, ou seja, na fase pré-judicial, o Índice de Preços ao Consumidor Amplo Especial – IPCA-E e, a partir da citação, a taxa Selic – artigo 406 do Código Civil. Ao modular a eficácia do pronunciamento, reconheceu válidos pagamentos realizados e afastou do alcance da decisão atos cobertos pela coisa julgada nos quais observados índices diferentes.
+    Constata-se a adoção de entendimento consentâneo com o firmado nos processos objetivos. Confiram trecho do ato:
+    [...]
+    Apresente cálculos observando os critérios estabelecidos no despacho, a exceção dos índices correção monetária. Observe-se, neste particular, índice fixado pela TR, observando o juízo que, no julgamento final das Ações Declaratórias de Constitucionalidade 58 e 58 da Relatoria do Exmo. Ministro Gilmar Mendes, remanescendo entendimento do cabimento de IPCA como indexador, serão refeitos cálculos com este índice e executada diferença.
+    […]
+    3. Nego seguimento à reclamação, revogando a liminar implementada.
+    4. Publiquem.
+Brasília, 22 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
