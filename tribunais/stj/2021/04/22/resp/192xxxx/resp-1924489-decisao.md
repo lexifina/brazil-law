@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Ação de obrigação de fazer (ingresso em cooperativa) - Procedência - Inconformismo da ré - Não acolhimento - Princípio das portas abertas positivado na legislação de regência (arts. 4º, I, e 29, da Lei 5.764/71) - A impossibilidade técnica prevista como requisito legal para inibir a adesão à cooperativa apenas deve ser admitida em relação à capacidade técnica do cooperado, isto é, somente quando diz com a capacitação para o exercício da profissão - Inviabilidade da restrição de acesso, por limitação de vagas - A solução adotada na sentença condiz com o teor do enunciado 10, aprovado pelo C. Grupo de Câmaras de Direito Empresarial - Sentença mantida - Recurso desprovido.
+Alega-se violação dos artigos 4º, I, e 29 da Lei 5.764/71, sob o argumento de que "a Autora, ora recorrida, o ingresso mediato no quadro de cooperados da Requerida, ora Recorrente, sem a necessidade de participar do processo seletivo, procedimento estabelecido estatutariamente e de acordo com a lei cooperativista" (e-STJ, fl. 373).
+Assim delimitada a controvérsia, passo a decidir.
+Ao ingresso em sociedade cooperativa adota-se o chamado princípio das portas abertas, segundo o qual o preenchimento dos requisitos estatutários e a possibilidade técnica de prestação dos serviços são as únicas condicionantes.
+Assim:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - DEMANDA POSTULANDO A ADMISSÃO DO INGRESSO DE NOVOS MÉDICOS NOS QUADROS DA COOPERATIVA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL.INSURGÊNCIA DA SOCIEDADE COOPERATIVA/RÉ.
+1. Violação do artigo 535 do CPC não configurada. Acórdão hostilizado que enfrentou, de modo fundamentado, todos os aspectos essenciais à resolução da lide.
+2. Incidência da Súmula 83/STJ. A jurisprudência desta Corte é no sentido de que, à luz do princípio da adesão livre e voluntária que rege o sistema cooperativista (artigo 4º, inciso I, da Lei 5.764/71), não pode ser vedado o ingresso, nos quadros da sociedade cooperativa, àqueles que preencham as condições estatutárias, revelando-se ilimitado o número de associáveis, salvo demonstrada a impossibilidade técnica de prestação de serviços. Precedentes.
+3. Agravo regimental desprovido, com aplicação de multa.
+(AgRg no AREsp 425.272/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/4/2014, DJe 15/4/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. COOPERATIVA MÉDICA.INGRESSO DE NOVO ASSOCIADO. RECUSA INDEVIDA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA N.83/STJ. AGRAVO IMPROVIDO.
+1. O entendimento desta Corte é de que "em regra, a limitação ao ingresso de novos associados condiciona-se à impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, conforme art. 4º, I, da Lei nº 5.764/71, não bastando a simples alegação de conveniência para os que já integram o quadro de cooperados" (REsp n. 661.292/MG, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 8/6/2010).
+2. O Tribunal de Justiça, ao analisar a situação fática dos autos, concluiu que: "a capacitação técnica do apelante, que comprovou graduação médica e a titulação de especialista na área médica em que busca ingresso na cooperativa (fls. 40/49), não é questionada pela apelada. Acontece que, a restrição do número de vagas (art. 11, do estatuto, fls. 118/119 e item 1, do edital a fls. 346), no processo seletivo de ingresso à cooperativa, vai de encontro ao princípio de portas abertas".
+3. Nesse contexto, a jurisprudência desta Corte destaca o princípio da "porta-aberta", consectário do princípio da livre adesão, segundo o qual não podem existir restrições arbitrárias e discriminatórias à livre entrada de novos membros nas cooperativas.
+4. Dessa forma, a conclusão alcançada pelo acórdão recorrido está alinhada à jurisprudência deste Tribunal Superior, incidindo, no ponto, a Súmula 83/STJ.
+5. Agravo interno improvido.
+(AgInt no REsp 1852780/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/5/2020, DJe 8/5/2020)
+O Tribunal local concluiu que a instituição de processo seletivo para ingresso na cooperativa do profissional revela "a intenção de, por via oblíqua, restringir o acesso de profissional devidamente habilitado a uma cooperativa de médicos" (e-STJ, fl. 365).
+À causa recaem, pois, os óbices de que tratam os verbetes n. 7 e 83 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
