@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido em demanda envolvendo apreensão de veículo por suposta infração ambiental.
+Nas razões do recurso especial, a parte requer a reforma do acórdão recorrido.
+Pois bem.
+É caso de devolver os autos para a Corte de origem a fim de que seja regularmente aplicada a sistemática do recurso especial repetitivo.
+Isso porque, na pendência de processamento do presente recurso, o Superior Tribunal de Justiça julgou os Temas 1.036 e 1.043 sob o rito dos repetitivos, firmando as seguintes teses: (i) "A apreensão do instrumento utilizado na infração ambiental, fundada na atual redação do § 4º do art. 25 da Lei 9.605/1998, independe do uso específico, exclusivo ou habitual para a empreitada infracional" (Recursos Especiais 1.814.945/CE, 1.814.944/RN e 1.816.353/RO, DJe de 24/02/2021 e de 26/3/2021) e (ii) "O proprietário do veículo apreendido em razão de infração de transporte irregular de madeira não titulariza direito público subjetivo de ser nomeado fiel depositário do bem, as providências dos arts. 105 e 106 do Decreto Federal n. 6.514/2008 competindo ao alvedrio da Administração Pública, em fundamentado juízo de oportunidade e de conveniência" (Recursos Especiais 1.805.706/CE e 1.814.947/CE, todos de minha relatoria, DJe de 26/3/2021).
+Assim, determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, observados os artigos 1.040 e 1.041 do CPC/2015.
+Fica ressalvado ao Tribunal de origem extinguir a demanda por perda superveniente de objeto, caso entenda de direito .
+Publique-se. Intimem-se.
