@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso interposto por Idimex do Brasil Indústria e Comércio de Móveis Ltda., interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 297):
+TRIBUTÁRIO. REINTEGRA. REDUÇÃO DO BENEFÍCIO. AUMENTO INDIRETO DE TRIBUTO. ANTERIORIDADE NONAGESIMAL.RESTITUIÇÃO. ATUALIZAÇÃO.
+1. As reduções dos percentuais relativos ao benefício do REINTEGRA, implementadas por Decretos, implicaram aumento indireto de tributo, exigindo a observância ao princípio da anterioridade nonagesimal.
+2. Apelação da impetrante parcialmente provida, somente para reconhecer a possibilidade de requerer a restituição do indébito através dos procedimentos administrativos próprios exigidos pela Secretaria da Receita Federal.
+Opostos embargos de declaração, foram parcialmente acolhidos para integrar ao acórdão o exame atinente à ausência de motivação e desvio de finalidade (fls. 347/354)
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 489,§1º, IV, V e VI e1.022, II, parágrafo único, I e II do CPC/15;97, I e II do CTN e2º e 50 da Lei n. 9.784/99. Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; (II) "entende a recorrente que padecem de ilegalidade as alterações promovidas pelo Decreto n. 8.415/15, inclusive com a redação conferida pelos Decretos n. 8.543/15, n. 9.148/17 e n. 9.393/18, que reduziram drasticamente os percentuais do Reintegra sem observância do disposto no artigo 97, I e II, do CTN, acima referenciado." (fl. 433); e (III) "arecorrente entende, portanto, que as alterações promovidas pelo Decreto n. 8.415/15, inclusive com a redação dada pelos Decretos n. 8.543/15, n. 9.148/17 e n. 9.393/18, que reduziram drasticamente os percentuais do Reintegra, sem qualquer justificativa plausível, são ilegais, pois deixaram de observar os princípios da moralidade, finalidade, motivação e da impessoalidade, elencados nos artigos 2º e 50, da Lei n. 9.784/99." (fl.436).
+Contrarrazões às fls. 484/487.
+Parecer ministerial às fls. 529/536.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, §1º, IV, V e VI e 1.022, II, parágrafo único, I e II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, em relação à apontada ofensa ao princípio da legalidade tributária (art. 97 do CTN), esta Corte já se manifestou no sentido de que a matéria não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Consoante entendimento assentado pelo STJ, as questões atinentes à observância do princípio da legalidade tributária, reproduzido no art. 97 do CTN, possuem natureza eminentemente constitucional, motivo pelo qual não se pode conhecer do recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.663.617/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 03/04/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SENAR. CONTROVÉRSIA SOBRE O FATO GERADOR. ART. 97 DO CTN. MATÉRIA DE NATUREZA CONSTITUCIONAL.
+1. O art. 97, inciso IV, do Código Tributário Nacional - CTN encontra respaldo no art. 150, inciso I, da Constituição Federal e sua norma possui natureza eminentemente constitucional. Nessa linha, o recurso especial, no qual se defende violação ao princípio constitucional da legalidade tributária, não pode ser conhecido.Precedentes: AgRg no AREsp 417.936/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/11/2014; AgRg no AREsp 507.664/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014; AgRg no REsp 1454339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014; AgRg no REsp 1421060/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/04/2014.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.428.741/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/2/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1.454.339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014)
+Ademais, destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 302/303):
+ ..
+Violação aos princípios da segurança jurídica, da não surpresa, da boa-fé e da confiança.
+O contribuinte já tinha conhecimento prévio de que as alíquotas do benefício poderiam variar entre 0,1% e 3% sobre a receita auferida com a exportação, nos termos do art. 22, §2º, da Lei 13.043/14, de acordo com o Poder Executivo. Não existe direito adquirido que proteja a confiança do contribuinte a determinado regime tributário, de maneira que as alíquotas do benefício poderiam ser reduzidas, dentro dos limites da lei, bastando observar-se o princípio da anterioridade nonagesimal, em respeito à segurança jurídica.
+Princípios da anterioridade geral e nonagesimal.
+O STF, no julgamento do RE 964.850, decidiu que, promovido aumento indireto de tributo mediante redução da alíquota de incentivo do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras REINTEGRA, cumpre observar o princípio da anterioridade, geral e nonagesimal, constante das alíneas b e c do inciso III do artigo 150 da Constituição Federal".
+No entanto, em julgados posteriores, as duas Turmas do STF têm vários precedentes no sentido de que deve ser respeitada a anterioridade nonagesimal (RE 1.081.041, RE 1.081.068, RE 983.821), certamente porque os créditos são devolvidos a título de PIS/COFINS. O entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal (RE 1.150.649, Rel. Min. CELSO DE MELLO, RE 970.955/SC, Rel. Min. DIAS TOFFOLI - RE 1.053.254/RS, Rel. Min. ROBERTO BARROSO - RE 1.026.463/RS, Rel. Min. ROSA WEBER - RE 1.065.092/RS, Rel. Min. CELSO DE MELLO - RE 1.131.223/RS, Rel. Min. DIAS TOFFOLI, v.g.).
+A propósito, no RE 1.150.649, o STF deu provimento a Recurso Extraordinário ajuizado pelo contribuinte, contra acórdão deste Tribunal que havia decidido que as alterações efetuadas pelos Decretos no REINTEGRA não constituem majoração ou instituição de tributos e que, por isto, não haveria ofensa ao princípio da anterioridade nonagesimal ou à segurança jurídica, determinando a devolução dos autos para que fosse observada a jurisprudência daquela Corte.
+A questão foi submetida a julgamento pela sistemática do art. 942 do CPC e a Primeira Seção deste Tribunal decidiu que se aplica aos Decretos que modificam as alíquotas do REINTEGRA o princípio da anterioridade nonagesimal:
+ ..
+Assim, para a alteração das alíquotas do REINTEGRA somente se aplica a anterioridade nonagesimal, de forma que terão validade apenas após o decurso do lapso temporal de 90 dias da data da publicação das referidas normas, nos termos do § 6º, do art. 195, da Constituição Federal:
+ ..
+Em face do exposto, deve ser mantida a sentença que determinou a observância ao princípio da anterioridade nonagesimal em relação aos Decretos ns. 8.415/2015, 8.543/2015, 9.148/2017 e 9.393/2018.
+Diante do contexto, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (princípio da anterioridade nonagesimal), matéria insuscetível de ser examinada em sede de recurso especial.
+ANTE O EXPOSTO, conheço em parte do recurso e, na parte conhecida, nego-lhe provimento.
+Publique-se
