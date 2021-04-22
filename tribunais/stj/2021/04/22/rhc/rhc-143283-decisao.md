@@ -1,0 +1,3 @@
+DECISÃO
+Diante das informações prestadas pelo Juízo de primeiro grau (fls. 188-196), nas quais noticia que houve a revogação da preventiva, então decretada de ofício - conforme a determinação da decisão que deferiu a liminar neste recurso em habeas corpus -, mas que, posteriormente, a partir de requerimento do Ministério Público de Minas Gerais, foi decretada novamente a constrição do acusado, fica sem objeto esta irresignação, visto que proferido novo título judicial, o qual deve ser objeto de impugnação própria, caso a defesa assim entenda. Diante disso, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este recurso em habeas corpus.
+Publique-se e intimem-se.
