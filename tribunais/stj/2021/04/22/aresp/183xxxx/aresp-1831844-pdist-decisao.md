@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por, CARLOS ROBERTO CUNHA CESCATTO, CLAUDIA ROSANE ZUCHELLO CESCATTO em face da decisão de fls. 1527/1528, que determinou a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça sobrestado até a publicação dos acórdãos paradigmas referentes ao Tema 1.046.
+O requerente alega que o tema do recurso desta parte versa sobre a natureza jurídica da correção monetária, sendo esta, acessória ao principal, de forma muito objetiva, sobre interpretação e aplicação da letra da lei, tão somente. Vale dizer, Excelentíssim o Ministro, muito embora o recurso da parte adversa sofra afetação quanto ao tema a ser julgado em Recurso Repetitivo, este não é o caso deste, em especial, de modo que, conforme previsão do §1º do artigo 257-A do Regimento Internodeste Tribunal Superior, somente afetarão os recursos que efetivamente abordarem a sistemática da fundamentação em multiplicidade. Neste sentido, é evidente que este Agravo em Recurso Especial, que visa levar a julgamento a matéria suscitada em Recurso Especial não se amolda aos parâmetros desta Corte para afetação e consequente suspensão até ulterior julgamento.
+Postulou o provimento, para dar sequencia ao julgamento do recurso especial.
+É o breve relatório.
+Passo a decidir.
+Na esteira da jurisprudência pacífica desta Corte, a decisão que determina a devolução dos autos ao Tribunal de origem para que lá permaneça sobrestado até a publicação do acórdão paradigma possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, o que não se verifica no caso.
+Ademais, o procedimento adotado na decisão impugnada quanto à devolução dos autos encontra respaldo no art. 256-L do Regimento Interno do Superior Tribunal de Justiça, introduzido pela Emenda Regimental 24, de 28/9/2016, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+Nesse sentido, inúmeras são as decisões dos Ministros que compõem a 2ª Seção do STJ: REsp 1887727, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 02/09/2020; EDcl no AgInt no AREsp 1628425, Rel. Ministra NANCY ANDRIGHI, DJe 01/09/2020; AREsp 1220361 Rel. Ministro RAUL ARAÚJO, DJe 01/09/2020; REsp 1886724, Rel. Ministro MARCO BUZZI, DJe 28/08/2020; REsp 1866018, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 01/07/2020; REsp 1758359, Rel. Ministra NANCY ANDRIGHI, DJe 05/06/2020; REsp 1873166, Rel. Ministro MARCO BUZZI, DJe 02/06/2020; REsp 1774433, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 29/05/2020; REsp 1868128, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 26/05/2020.
+Nesse contexto, também em observância ao princípio da economia processual e à própria finalidade do novo CPC, reitero a necessidade de retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Com efeito, eventual falta de suspensão dos recursos especiais pode ensejar o julgamento de um determinado recurso especial em sentido oposto ao definido posteriormente na apreciação de recurso representativo da controvérsia, o que enfraqueceria a sistemática de uniformidade da aplicação da lei e o respeito à jurisprudência desta Corte, que deve mantida estável, íntegra e coerente, conforme se infere do art. 926 do CPC.
+Com essas considerações, a decisão impugnada não merece reparos.
+Ante o exposto, indefiro o pedido de distinção.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à
+aplicação de multa.
+EMENTA
+RECURSO ESPECIAL. PEDIDO DE DISTINÇÃO. DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PERMANEÇA SUSPENSO O RECURSO ATÉ A PUBLICAÇÃO DOS ACÓRDÃOS PARADIGMAS. DECISÃO DESTITUÍDA DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO. DISTINÇÃO (DISTINGUISHING) ENTRE O CASO CONCRETO E OS PRECEDENTES APONTADOS COMO PARADIGMAS. INOCORRÊNCIA.
+PEDIDO INDEFERIDO.
