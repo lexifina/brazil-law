@@ -1,0 +1,41 @@
+Decisão:
+    Vistos.
+    Habeas corpus, sem pedido de liminar, impetrado em causa própria por Marcio Aurelio da Rocha, apontando como autoridade coatora o Ministro Rogerio Schietti Cruz, do Superior Tribunal de Justiça, que denegou a ordem no HC nº 608.323/SP.
+    Aduz o impetrante/paciente a existência de constrangimento ilegal, ante a exacerbação no cálculo da pena que lhe fora imposta, sustentando alegado erro quanto à dosimetria.
+    Requer a concessão da ordem para que seja redimensionada a sua pena corporal.
+    Examinados os autos, decido.
+    Transcrevo a decisão ora questionada, na parte que interessa:
+    “O Juízo de primeiro grau aplicou a fração de 1/5 de aumento de pena devido a reincidência específica dos pacientes no delito de roubo, o que foi mantido pelo Tribunal de origem. Confira-se trecho da sentença (fls. 23-24, destaquei):
+    1) Crimes de roubo circunstanciado:
+    [...]
+    Na segunda fase, não constato atenuantes. Presente a agravante da reincidência para ambos os acusados, tendo em vista as seguintes condenações: a) Réu Márcio autos n. 0085602-59.2006, cuja condenação por roubo circunstanciado transitou em julgado para o réu em 03/11/2010 (fls.757/758); b) Réu Rodrigo autos n. 71319/2007, cuja condenação por roubo circunstanciado transitou em julgado para o réu em 25/11/2010 (fls. 586 e 705). Tratando-se de reincidência específica, mais gravosa, agravo a pena em 1/5, resultando em: a) 8 anos e 19 dias- multa, para o réu Rodrigo; e b) 8 anos, 4 meses e 24 dias e 20 dias-multa, para o réu Márcio.
+    Cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer qualquer menção ao quantum de redução.
+    A doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+    Assim, tenho que a elevação da reprimenda em 1/5 não se mostra flagrantemente desproporcional, haja vista que, ao tempo do crime, os pacientes eram reincidentes específicos.
+    A propósito:
+    […]
+    Em relação ao aumento da pena na terceira fase da dosimetria, a Juíza de primeiro grau, no que foi corroborada pela Corte de origem, aplicou a fração de 3/8 para os acusados, nos seguintes termos (fls. 22-24, grifei):
+    1) Crimes de roubo circunstanciado:
+    [...]
+    Na terceira fase, estão presentes as causas de aumento decorrentes do emprego de arma e do concurso de pessoas (art. 157, §2°, I e II, do CP). Não se verificam causas de diminuição. Avaliando a fração adequada para o aumento, sopeso que houve o emprego de uma arma de fogo, de maior potencial ofensivo, e tal uso foi feito de forma ostensiva, demonstrando maior gravidade concreta. Além disso, o concurso de agentes superou o mínimo legal, pois as provas revelam a presença não só dos dois acusados, como também de outros indivíduos no cenário dos fatos, concorrendo para a prática dos crimes. Nesse contexto, majoro a pena à razão de 3/8, resultando nas seguintes penas finais, para cada um dos crimes de roubo: a) 11 anos e 26 diasmulta, para o réu Rodrigo; e b) 11 anos, 6 meses e 18 dias e 27 dias-multa, para o réu Márcio.
+    [...]
+    2) Crimes de extorsão qualificada:
+    [...]
+    Na terceira fase, inexistem causas de diminuição de pena. Como visto, está presente a causa de aumento de pena prevista no §1º do artigo 158 do Código Penal, eis que houve prática em concurso de agentes e com emprego de arma. Na avaliação da fração cabível, são aplicáveis as observações feitas acima no tocante aos crimes de roubo, envolvendo o emprego ostensivo de arma de fogo e concurso superior a dois agentes. Portanto, tal qual nos roubos, majoro a pena à razão de 3/8, para cada um dos réus, resultando em: a) 14 anos, 5 meses e 7 dias e 23 dias multa, para o réu Rodrigo; e b) 15 anos, 4 meses e 24 dias e 24 dias-multa, para o réu Márcio.
+    Pelo trecho acima transcrito, é inegável a satisfatória motivação do ato decisório com lastro em dados concretos. Isso porque a menção de que a empreitada criminosa foi praticada com emprego de arma de fogo de forma ostensiva e em superioridade numérica, pois presentes não só os dois acusados, como também outros indivíduos no cenário dos fatos, demonstra, iniludivelmente, a maior gravidade do comportamento ilícito. Justificado, portanto, de maneira idônea, o aumento da pena na referida fração.
+    Assim, não se trata de caso em que a simples gravidade das causas de aumento da pena, tomada abstratamente, é utilizada como fundamentação para a exasperação da reprimenda, em violação do enunciado da Súmula n. 443 do STJ, como apontado pela defesa, razão pela qual não verifico qualquer ilegalidade no acórdão que manteve a fração de 3/8 para a majoração das penas, na terceira fase da dosimetria, ante a presença de motivação concreta.
+    Na esteira desse entendimento, destaco que este Tribunal Superior entende como concreta a motivação baseada no número de agentes para fins de exasperação da reprimenda, em decorrência do número de causas de aumento, na terceira fase da dosimetria. Nesse sentido:
+    […]
+    À vista do exposto, denego a ordem. ”
+    Verifica-se que esta impetração volta-se contra decisão singular proferida no bojo do HC nº 608.323/SP. Portanto, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, anoto o entendimento da Corte, segundo qual “havendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base” (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08).
+    Ademais, tal discussão implica exame aprofundado dos fatos, a que não se presta o habeas corpus:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL. QUADRILHA ARMADA. ART. 288, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. SUPRESSÃO DE INSTÂNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. 1. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores. 2. Inviável o exame da tese defensiva não analisada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. 3. Na via estreita do habeas corpus, incabível o exame minucioso dos fatos e provas da causa ensejadores da fixação das penas. Precedentes. 4. Recurso ordinário em habeas corpus a que se nega provimento” (RHC 105921, Rel. Marco Aurélio, Relator(a) p/ Acórdão: Rosa Weber, Primeira Turma, DJe 28/4/2016).
+    Nessa conformidade, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 22 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
