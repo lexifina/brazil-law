@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-sede agravo regimental interposto por CLAYTON ROBERTO DE OLIVEIRAcontra decisão monocrática da lavra do Ministro Presidente HUMBERTO MARTINS queconheceu do agravo para não conhecer do recurso especial (e-STJ fls. 418/419).
+Em seu agravo regimental (e-STJ fls. 423/429), a parte recorrente alega que fora realizado o cotejo analítico entre o acórdão impugnado e a decisão paradigma.
+Manifestação do Ministério Público Federal, às e-STJ fls. 438, pela intimação do Parquet estadual.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interpostoem adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 311):
+FURTO - SUSCITADA PRELIMINAR DE NULIDADE - INOCORRÊNCIA - PEDIDO DE ABSOLVIÇÃO - NÃO ACOLHIMENTO - AUTORIA E MATERIALIDADE DEMONSTRADAS - PLEITOS SUBSIDIÁRIOS DE REDUÇÃO DAS PENAS E FIXAÇÃO DE REGIME MAIS BRANDO - INVIÁVEL - RECURSO NÃO PROVIDO
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 343/350).
+Nas razões do recurso especial (e-STJ fls. 358/376), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação doart. 65, inciso III, alínea "d", do CP e do art. 387, §2º, do CPP.Sustenta: (i) a incidência da atenuante da confissão; (ii) a fixação do regime mais brando para o cumprimento da pena; (iii) a aplicação da detração penal.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, ajurisprudência desta Corte Superior de Justiça é no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes. Inteligência da Súmula 545/STJ (Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal).
+Na hipótese em análise, o Tribunal a quo asseverouser inviável o reconhecimento da atenuante da confissão, vez que o réu negou a subtração do veículo e dos pertences (e-STJ fls. 324).
+Ora, tendo o órgão julgador concluído que o acusado negou a subtração dos bens,não há qualquer ilegalidade na não incidência daatenuante da confissão.
+Ademais, revisar tal entendimento, para concluir que o réu assumiu a prática delitiva, como requer a parte recorrente, demandaria, necessariamente, o reexame de matéria fático-probatória, o que, em sede de recurso especial, constitui medida vedada pelo óbice da Súmula 7/STJ.
+No que tange ao regime de cumprimento da pena, ajurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+No presente caso, a Corte de origem consignou quedeve ser mantido o regime semiaberto emobservância ao quantum da pena aplicada aliada aos maus antecedentes e reincidência(e-STJ fls. 324/325).
+Verifica-se que oenvolvido, além de reincidente, teve valoradacomo negativacircunstânciajudicial negativa do art. 59 do CP (maus antecedentes), tanto é que a pena-base foi fixada acima do mínimo legal, o que afasta o referido enunciado sumular, representando fundamentação idônea atépara a fixação do regime prisional fechado.
+Assim, tendo sido fixado o regime semiaberto, o acusado fora beneficiado, não merecendo qualquer alteração o acórdão recorrido.
+Ademais, na hipótese, não há qualquer ilegalidade apta a ensejar a detração do tempo de prisão cautelar para fixação do regime inicial aberto. Explico:
+É que, para o acusado, ainda que descontado o período em que permaneceu preso preventivamente, não se admite a alteração do regime prisional, uma vez que permaneceria o meio mais severo de cumprimento da reprimenda em razão da reincidência e da presença de circunstância judicial negativa, não havendo falar em ofensa ao art. 387, § 2º, do Código de Processo Penal. Até porque a reprimenda seria mantida em menos de 4 anos, como já estabelecida, não podendo se falar em modificação do regime.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 418/419, e com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula n. 568/STJ,conheçodo agravo paranegar provimentoao recurso especial.
+Intimem-se.
