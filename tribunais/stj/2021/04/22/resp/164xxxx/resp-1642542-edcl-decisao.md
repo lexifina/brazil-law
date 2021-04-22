@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por Sirlene Martins Espaki contra decisão que conheceu, em parte, do recurso especial e, nessa extensão, negou-lhe provimento.
+A embargante alega que não estão claros os fundamentos pelos quais a decisão impugnada entendeu pela não incidência de honorários advocatícios sobre os valores pagos administrativamente.
+Sustenta que a jurisprudência do STJ chancela a pretensão recursal, no sentido de que os valores pagos administrativamente devem ser incluídos na base de cálculo dos honorários advocatícios.
+Aponta que a irresignação contida no apelo especial limita-se ao debate da base de cálculo dos honorários advocatícios, inexistindo outras questões a serem apreciadas.
+Decido.
+Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais.
+O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, não estão presentes os suscitados vícios de fundamentação, uma vez que a decisão embargada limitou-se a afastar a existência de afronta ao art. 1.022 do CPC, não tendo emitido juízo de valor a respeito da alegativa de afronta aos demais dispositivos de lei que foram impugnados no recurso (arts. 26, 502, 503 do CPC; 23 e 24 da Lei n. 8.906/1994), tendo em vista o óbice da Súmula 7/STJ.
+Veja-se, a propósito, a seguinte transcrição (e-STJ, fl. 1.545):
+Não há vício de fundamentação no aresto recorrido, porquanto o Tribunal de origem manifestou-se expressamente sobre a questão relativa à compatibilidade entre o título judicial exequendo e a exclusão da verba honorária sobre os valores pagos administrativamente.
+Confira-se, no ponto, a seguinte transcrição (grifei):
+Base de cálculo dos honorários advocatícios Conforme determinado no ev3, decisão/42, a base de cálculo dos honorários advocatícios deve corresponder às diferenças de anuênios devidas até agosto/94, para os servidores que entabularam acordo administrativo, e à totalidade dos créditos apurados aos que não transacionaram. Quanto aos servidores que firmaram acordo administrativo, como não há falar em cálculo de créditos posteriores a agosto/94, resta lógico que, com relação a eles, o cálculo dos honorários (10%) deve envolver o crédito total a que fazem jus e que não se estende a período posterior a agosto/94. Tal decorre de interpretação do que foi determinado no título executivo judicial: os honorários de sucumbência correspondem à 10% sobre o total a ser pago aos substituídos do Sindicato autor (execução: ev2, anexos pet7, p. 78) - o que inclui, logicamente, juros de mora incidentes sobre o valor principal. Assim, apurada pelo Núcleo a totalidade do valor devidos à embargada Sirlene Martins Espaki (R$ 7.127,86), aplicou 10%, obtendo R$ 712,79 devido a título de honorários de sucumbência (ev21) - o que está em consonância com o título executivo judicial.
+No que se refere a irresignação da parte embargada acerca da incidência de honorários advocatícios sobre os valores pagos em razão de acordos administrativos, mantenho a sentença pelos próprios fundamentos, adotando-a como razões de decidir.
+Quanto às demais questões suscitadas no apelo, tem-se que a reforma das conclusões da Corte de origem depende do reexame do título judicial transitado em julgado, o que é vedado na presente seara, em função do óbice constante da Súmula 7/STJ.
+Inexistente qualquer omissão ou obscuridade na decisão impugnada, a pretensão aclaratória deve ser rejeitada, sendo certo que os embargos de declaração não se prestam a rediscutir a matéria decidida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
