@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1024335-88.2020
+APELANTE: CLAUDIA BARROS DA COSTA
+APELADOS: EXTRA CAMINHÕES LTDA E OUTRO(S).
+Vistos.
+Em cumprimento ao disposto no artigo 178 do CPC, colha-se o parecer da d. Procuradoria Geral de Justiça.
+Às providências.
+DES. DIRCEU DOS SANTOS
+Relator
