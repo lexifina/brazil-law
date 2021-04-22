@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por JUVENAL APOLINARIO DA SILVA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Nas razões do recurso especial, a parte agravante aponta violação aosarts. 489, § 1º, 1.022, do. CPC; 79, parágrafo único,82, 83, §§ 1º e 2º,88 da Lei 10.741/2003.
+Sustenta que o juízo e origem indeferiu indevidamente a concessão do benefício da gratuidade judiciária ao agravante, sendo tal decisão combatida com o devido Agravo de Instrumento.
+Alega que a decisão que julgou prejudicado o agravo interno por ofensa ao princípio da unicidade recursal é"teratológica e recorrente do n. Relator, como meio de manter o indeferimento de GJ, vez que não demonstrou, muito menos fundamentou, quais pressupostos econômicos ou financeiros encontrados na análise processual, como fatos impeditivos à não infirmar a decisão de piso, ou seja, deferimento à gratuidade de justiça" (fl. 141).
+Ademais, alega que houve contradição, omissão, obscuridade e ausência de fundamentação na decisão recorrida.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta conhecimento. Explico.
+No caso, a parte agravante interpôs agravo de instrumento face à decisão que lhe denegou a gratuidade judiciária. Face ao mencionado recurso, o Tribunal local prolatou acórdão assim ementado (fl. 54):
+Agravo de instrumento. Ação de obrigação de fazer com antecipação de tutela de urgência e indenização por danos morais. Decisão agravada que não conferiu ao Agravante os benefícios da assistência judiciária gratuita e intimou-o para recolher as custas e despesas processuais, no prazo de 15 dias úteis, sob pena de indeferimento e/ou cancelamento da distribuição, com a extinção do processo sem resolução do mérito. Ausência de comprovação da necessidade do benefício. Agravante que não atendeu, de forma integral, a determinação para apresentação de documentos comprobatórios da sua atual situação financeira. Aplicação do art. 8º do CPC. Decisão mantida. RECURSO DESPROVIDO.
+Face à referida decisão a parte agravante opôs embargos de declaração, os quais foram rejeitados pelo colegiado e receberam a seguinte ementa (fl. 72):
+Embargos de Declaração. Ausência das hipóteses do artigo 1.022 do Código de Processo Civil. Recurso de caráter infringente. EMBARGOS DE DECLARAÇÃO I  Relatório Trata-se CONHECIDOS E REJEITADOS.
+Face à referida decisão, a parte agravante opôs, indevidamente, agravo interno de fls. 79/89, que foi julgado prejudicado, conforme a seguinte ementa (fl. 95):
+Agravo Interno. Decisão que não conheceu dos Embargos de Declaração sob o fundamento de ofensa ao principio da unicidade recursal em razão da oposição de dois recursos em momentos distintos. Agravo de Instrumento que se encontra julgado por decisão unânime e pacificada. Recursos de Agravo interno que foram novamente opostos em duplicidade gerando os incidentes 50002 e 50003. Perda do do objeto do agravo interno. Precedentes. AGRAVO INTERNO PREJUDICADO.
+Contra a mencionada decisão, a parte agravante opôs embargos de declaração, que não foram conhecidos pelo relator (fls. 104/106).
+A seguir, a parte interpôs, novamenteagravo interno, que, por sua vez, também foi julgado prejudicado, conforme a seguinte ementa (fl. 124):
+Agravo Interno. Decisão que não conheceu dos Embargos de Declaração sob o fundamento de ofensa ao principio da unicidade recursal em razão da oposição de dois recursos em momentos distintos. Agravo de Instrumento que se encontra julgado por decisão unânime e pacificada. Recursos de Agravo interno que foram novamente opostos em duplicidade gerando os incidentes 50002 e 50003. Perda do objeto do agravo interno. Precedentes. AGRAVO INTERNO PREJUDICADO.
+Após a mencionada decisão,a parte agravante interpôs recurso especial.
+Ora, segundo, a regra prevista no art. 1.021 do CPC"Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal."
+Assim, a partir da mencionada regra processual, é possívelconcluir que o agravo interno de fls. 79/89 era manifestamente incabível face à decisão colegiada que julgou os embargos de declaração (fl. 72).
+Nesse passo, tendo em vista queainterposição de recurso incabível, por configurar erro grosseiro, não possui o condão de interromper o prazo recursal. Assim,sóresta reconhecer a intempestividade dorecurso especial aviado após o transcurso do prazo de 15 (quinze) dias úteiscontados da intimação do acórdão de fls. 71/77, que rejeitou os embargos de declaração.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
