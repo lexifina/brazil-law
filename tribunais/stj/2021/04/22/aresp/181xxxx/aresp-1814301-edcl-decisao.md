@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALCIDES JORDAO DE FREITAS e OUTRO à decisão de fls. 600/601, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Diz Vossa Excelência que "Embora regularmente intimada para efetuar o recolhimento em dobro, a parte apenas apresentou os comprovantes referentes às guias anteriormente apresentadas, sem contudo, efetuar a complementação, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil. Assim, incide na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso." Disse, por outro lado, Sua Excelência o Desembargador COIMBRA DE MOURA, 1º Vice-Presidente do egrégio Tribunal de Justiça do Paraná, no mov. 10.1: "Verifica-se que o recurso especial não foi devidamente preparado, pois não consta o código de barras nos comprovantes de pagamento anexados aos movs. 1.3 e 1.5, o que inviabiliza a conferência com a representação numérica informada nas guias de recolhimento de movs. 1.2 e 1.4."
+Ora, legislação não diz que o comprovante de pagamento precisa ter um "código de barras".
+ ..
+O Código Processual vigente, como o anterior, não prevêem a hipótese que ocorreu, nem informam qual a forma de comprovar o recolhimento de custas recursais.
+Assim, há de se entender a situação pela analogia ao § 7º, do art. 1.007 do CPC vigente (fl. 603/604)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Portanto, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. APELAÇÃO. PREPARO.COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. MEIO INIDÔNEO. DESERÇÃO.DECISÃO MANTIDA.
+1.  ..
+2. "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 636.866/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/02/2020.)
+No caso, como a parte não comprovou o recolhimento no ato da interposição do recurso, uma vez que os comprovantes estavam sem o código de barras, deveria ter cumprido integralmente o despacho do desembargador do tribunal de justiça, apresentando o comprovante referente à guia juntada e providenciando a complementação, ou seja, recolhendo as custas em dobro, nos termos do art. 1.007, § 4º do CPC. Este, inclusive, é o entendimento desta Corte Superior:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESERÇÃO DO RECURSO.APRESENTAÇÃO DE COMPROVANTE DE PAGAMENTO SEM O CÓDIGO DE BARRAS E IDENTIFICAÇÃO DA GUIA GRU. DETERMINAÇÃO DE RECOLHIMENTO DO PREPARO EM DOBRO. ART. 1.007, § 4º, NCPC. NÃO COMPROVAÇÃO. DECISÃO MANTIDA.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Na falta de comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, nos termos do art. 1.007, § 4º, do NCPC.
+3. No caso dos autos, houve apenas a apresentação do comprovante de pagamento sem a identificação do código de barras e, mesmo após a intimação, a parte deixou de realizar o recolhimento do preparo em dobro. Deserção mantida.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1391730/SP, realtor Ministro Moura Ribeiro, Terceira Turma, DJe de 19/02/2020).
+Ressalte-se que este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Assim, não tendo o recurso especial sido devida e oportunamente preparado, incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
