@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Maranhão, ementado nos seguintes termos:
+    “ADMINISTRATIVO. APELAÇÃO CÍVEL. REAJUSTE DE REMUNERAÇÃO. APLICAÇÃO DE ÍNDICES DIFERENTES A DIFERENTES CATEGORIAS. CARACTERIZAÇÃO DE REAJUSTE E NÃO REVISÃO GERAL. AFASTADA PRETENSA VIOLAÇÃO À CONSTITUIÇÃO. IMPROCEDÊNCIA. HONORÁRIOS SUCUMBENCIAIS FIXADOS POR EQUIDADE. SENTENÇA MANTIDA.
+    1. Não afronta a Constituição Federal a edição de lei estadual que fixa índices diferenciados de reajustes para diferentes categorias do funcionalismo público, considerando a previsão do artigo 37, inciso X da Carta Magna de reajuste específico da remuneração.
+    2. Não merece reforma a sentença que deixa de considerar legislação estadual como revisão de remuneração pelo fato de que algumas categorias foram efetivamente excluídas da aplicação de reajuste remuneratório, o que retira do diploma normativo a natureza de lei geral necessária para caracterizá-lo como tanto.
+    3. Não pode o Poder Judiciário usurpar a competência do Poder Executivo para aumentar vencimentos de servidores públicos sob fundamento de obediência ao postulado da isonomia, nos termos da Súmula 339 do STF.
+    4. In casu, a improcedência da ação, com inestimável proveio econômico e valor da causa irrisório (R$ 1.000.00), atrai a incidência da regra excepcional do § 8º do art. 85 do CPC/15, que permite a fixação dos honorários sucumbenciais por equidade, não merecendo reforma a sentença recorrida.
+    5. Apelos improvidos e improvidos.” (eDOC 20)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 37, X e XV, do texto constitucional.
+    Nas razões recursais, alega-se que o texto da Medida Provisória nº 116/2012, convertida na Lei nº 9.561/2012, teria concedido aumento diferenciado a servidores específicos do Poder executivo, estabelecendo recomposição por perda inflacionária. Desta forma, afirma que houve “revisão geral anual com o objetivo de reposição da variação inflacionária que corroeu o poder aquisitivo da remuneração dos servidores”. (eDOC 22, p. 17)
+    Assim, alega que o aumento de 14,13% possui caráter remuneratório geral, devido, pois, a todos os servidores públicos estaduais contemplados naquele texto constitucional, não se verificando hipótese de incidência da Súmula 339 do STF.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar
+    No caso dos autos, o acórdão recorrido manteve sentença proferida pela a 4ª Vara da Fazenda Pública da Comarca de São Luís que não permitiu o aumento de vencimento de servidores públicos com base no princípio da isonomia. É o que se verifica no seguinte trecho do acórdão recorrido (eDOC 20)
+    (…) a questão basilar do presente recurso se refere, a meu ver, sobre a natureza da Medida Provisória nº 116/2012: se trata de mero reajuste ou de verdadeira revisão dos vencimentos dos servidores públicos civis.
+    Diz a referida Lei:
+    Art. 1º. Fica reajustado o vencimento-base dos servidores públicos estaduais do Grupo Ocupacional Atividades de Apoio Administrativo e Operacional - ADO e dos cargos da categoria funcional de Suporte às Atividades Artísticas e Culturais do Grupo Ocupacional Atividades Artísticas e Culturais - AAC, de acordo com o constante do Anexo desta Medida Provisória.
+    Art. 2º. Ficam reajustados para R$ 622,00 o vencimento-base do professor portador de formação de nível médio e o vencimento do professor Indígena com formação de nível médio que esteja cursando no mínimo o 4º período de curso superior, contratados nos termos do inciso VII do art. 2º da Lei nº. 6.915, de 11 de abril de 1997.
+    (…)
+    Sobre a matéria, conforme aduzido em linhas anteriores, a Constituição Federal prevê em seu artigo 37, X, que “a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices”.
+    É preceito constitucional, portanto, que os servidores públicos têm o direito à revisão geral anual de sua remuneração, sem distinção de índices, da mesma forma que é garantido à Fazenda Pública promover o reajuste específico da remuneração de determinadas categorias, de acordo com a discricionariedade necessária ao controle do orçamento e das questões da administração pública.
+    Os requisitos constitucionais para a revisão geral anual da remuneração dos servidores públicos, desta forma, são: i) a edição de lei específica; ii) a aplicação do mesmo índice de reajuste para todas as categorias do funcionalismo, e; iii) a natureza de lei geral do diploma normativo que a prevê.
+    Na espécie, falta à Medida Provisória nº 116/2012 o requisito da generalidade, já que exclui nada menos do que 04 (quatro) categorias de servidores, que já haviam sido contemplados com reajuste por meio das leis específicas referidas no parágrafo único do artigo 1º da lei ora em discussão.
+    (…)
+    Ausente, ainda, o requisito da não distinção de índices, pois nos artigos 1º e 2º da aludida lei estadual são previstos diferentes índices para selecionadas categorias, o que demonstra o objetivo de conceder melhorias a carreiras determinadas, e não de recompor o poder aquisitivo em virtude da inflação do ano anterior (motivação da lei de revisão geral anual).
+    (…)
+    Daí, logo se vê que a diferença entre um e outro instituto se dá, sobretudo, quanto à abrangência do reajuste, sendo a revisão anual caracterizada por sua generalidade, razão pela qual deve se processar de forma ampla, em ordem a alcançar o universo integral dos servidores, incluindo-se aí os servidores do Poder Legislativo, do Judiciário e do Ministério Público.
+    Assim, a real intenção do legislador, de conceder seletivamente reajuste a determinados grupos de servidores, não pode ser alargada a bel prazer do Poder Judiciário, sob pretexto de garantir a isonomia dos servidores, por vedação expressa da Súmula 339 do STF, in verbis:
+    Súm. 339 - Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.
+    Assim, deve ser mantida a sentença de improcedência da ação.”
+    Como se vê, o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte firmada no sentido de que o Poder Judiciário não pode, ao fundamento da isonomia, aumentar vencimentos de servidores públicos.
+    Esse entendimento restou pacificado no julgamento do RE-RG 592.317, tema 315 da sistemática da repercussão geral, de minha relatoria, e consolidou-se com a edição da Súmula Vinculante 37: “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+    Nesse sentido, cito os seguintes julgados:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. EQUIPARAÇÃO SALARIAL. PRINCÍPIO DA ISONOMIA. IMPOSSIBILIDADE. SÚMULA VINCULANTE Nº 37. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia. Súmula Vinculante nº 37. 2. Agravo interno a que se nega provimento”. (RE 1287954 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 7.12.2020)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROFESSORES DA REDE PÚBLICA ESTADUAL DE GOIÁS. LEI ESTADUAL 18.418/2014. SÚMULA 339/STF. SÚMULA VINCULANTE 37. AGRAVO A QUE SE NEGA PROVIMENTO. I – O acórdão combatido pelo recurso extraordinário, ao impossibilitar o pagamento de reajuste em relação a período anterior ao marco temporal definido pela legislação, está de acordo com a jurisprudência do Supremo Tribunal Federal, sintetizada na Súmula 339/STF e na Súmula Vinculante 37. II – Agravo regimental a que se nega provimento”. (ARE 1.145.234 AgR, rel. Ricardo Lewandowski, Segunda Turma, DJe 10.12.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
