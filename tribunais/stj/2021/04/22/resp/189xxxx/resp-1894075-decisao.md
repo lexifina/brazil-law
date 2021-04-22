@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSS,com fundamento no art. 105, III, "a", da Constituição da República,contra acórdão do Tribunal Regional Federal da 4ª Região,assim ementado (e-STJ fl. 324):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE PERCENTUAL DA CONDENAÇÃO. PRESCRIÇÃO. TERMO INICIAL. NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA.
+Na execução de honorários advocatícios, quando fixados sobre o valor da condenação ilíquida, o prazo prescricional começa a fluir do trânsito em julgado da sentença de liquidação, pois somente a partir dela é que o título judicial se apresenta líquido e, por conseguinte, capaz de embasar a ação executiva correspondente.
+Os embargos de declaração foram rejeitados(e-STJ fls. 354-355).
+Orecorrente alega, preliminarmente, violação doartigo1.022do CPC/2015, ao argumento de que houve negativa de prestação jurisdicional pelo Tribunal de origem, pois o acórdão recorridonão se manifestou sobre as alegações trazidas nos embargos de declaração, tais como, a violação dos artigos 475-Bdo CPC/1973 e 604, caput e § 1º, do CPC/2015, pois, conforme afirmado na decisão agravada,a execução ocorreu por cálculos aritméticos, não houve e não dependeu de processo de liquidação do título executivo.
+No mérito,a parte recorrente aponta violaçãodos arts. 1º, 5º, 6º e 8º do Decreto 20.910/1932; 202 do Código Civil/2002; 604, caput e § 1º, do CPC/2015; e 475, §§ 1º e 2º,do Código de Processo Civil/1973, ao argumento de que ocorreu a prescrição da pretensão executória para cobrança dos honorários advocatícios.
+Contrarrazões às e-STJ fls. 384-395.
+Juízo positivo de admissibilidade àe-STJ fl. 433.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Com efeito, orecorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso e contraditório o julgamento da controvérsia.
+De fato, houve omissão quanto à análise dos arts. 475-B do CPC/1973 e 604, caput e § 1º, do CPC/2015, pois, conforme afirmado na decisão agravada, a execução ocorreu por cálculos aritméticos, não houve e não dependeu de processo de liquidação do título executivo.
+Diante da deficiência na prestação jurisdicional, impõe-se o acolhimento da alegação de violação do art. 1.022 do CPC/2015 a fim de determinar o retorno dos autos à Corte de origem para que sejam sanados os vícios apontados.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. (..) OFENSA AOS ART. 1.022, II, E 489, § 1º, DO CPC/15. OMISSÕES. (..) AUSÊNCIA DE PRONUNCIAMENTO QUANTO A ASPECTOS ENVOLVENDO MATÉRIA FÁTICO-PROBATÓRIA RELEVANTE. DEVOLUÇÃO DOS AUTOS À ORIGEM. NECESSIDADE. PRECEDENTES.
+(..)
+II - De acordo com o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+III - A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento. Considera-se omissa, ainda, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, do CPC/15.
+(..)
+VI - Extrai-se dos julgados deste Superior Tribunal sobre a matéria que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15; e iv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+VII - In casu, verifica-se a ausência de pronunciamento da Corte de origem a respeito de matéria fática relevante.
+VIII - Recurso especial provido para determinar o retorno dos autos à origem, nos termos da fundamentação.(REsp 1.670.149/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 22/3/2018)
+PROCESSUAL CIVIL (..). OMISSÃO VERIFICADA. AUSÊNCIA DE ENFRENTAMENTO DA TESE PELO TRIBUNAL LOCAL. NECESSIDADE DE NOVO JULGAMENTO DOS DECLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
+1. Assiste razão à parte recorrente no que tange às afrontas aos artigos 11, 489, §1º, 1.022, I, II, III, todos do CPC/2015 pelo Tribunal local.
+2. O acórdão atacado manteve a sentença de piso que julgou improcedente o pedido da recorrente, que, em suma, almejava o direito de utilizar "créditos tributários calculados sobre produtos químicos relacionados á higienização e desinfecção de máquinas e equipamentos do processo industrial" (fl. 199, e-STJ).
+3. A Corte mineira adotou a Instrução Normativa 01/1986, que define o "conceito do produto intermediário, para efeito do direito de crédito do ICMS" (fls. 200-202, e-STJ).
+4. Não obstante, vê-se que um dos argumentos centrais da recorrente - e ventilado já na Apelação - é o da possível inconstitucionalidade e ilegalidade da mesma Instrução Normativa aplicada pela Corte estadual, a qual teria, contra os ditames da LC 87/1996 e do art. 155, XII, "c", da Constituição Federal, mantido "a exigência quanto à necessidade de os produtos intermediários serem consumidos no processo de industrialização, ou integrarem o produto final" (fls. 131-132, e-STJ).
+5. Após alegar tal omissão, o Tribunal mineiro se limitou a dizer que "o julgado objurgado reconheceu a legalidade das leis e atos normativos que regem a espécie, aplicando-as. Considerou-se que as normas infralegais apenas completavam o sentido da norma constitucional, em nada confrontando-a" (fl. 229, e-STJ).
+6. Na verdade, observa-se que o colegiado estadual não apreciou efetivamente a tese exposta pela parte, pois somente mencionou que a Carta Magna não impediu o legislador ordinário de regulamentar o regime de compensação do ICMS de forma mais benéfica ao contribuinte.
+7. Falhou, portanto, o Tribunal mineiro, pois se omitiu em sua decisão, na medida em que não enfrentou a tese de ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 em relação à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal. Análise do dissídio jurisprudencial prejudicada.
+8. Recurso Especial provido, determinando-se o retorno dos autos à Corte de origem, para que, em novo julgamento dos Embargos de Declaração, manifeste-se expressamente quanto à possível ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 no que toca à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal.
+(REsp 1.780.149/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/3/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO (..) HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NOS TERMOS DO ART. 85, §§ 2º E 3º DO CPC/2015. (..)
+1. Esta Corte definiu que o cumprimento de sentença impugnado pelo executado enseja a fixação de honorários sucumbenciais, sendo, estes, regidos pela lei processual em vigor.
+2. Na aferição do montante a ser arbitrado a título de honorários advocatícios deverão ser considerados os requisitos previstos nos §§ 2º a 10º do art. 85 do estatuto processual civil de 2015.
+3. Cabe ao juízo das instâncias ordinárias a análise dos fatos e das circunstâncias da causa, para a efetiva fixação do montante adequado dos honorários advocatícios.
+4. Retorno dos autos ao Tribunal de origem para que este fixe os honorários advocatícios nos termos do artigo 85 do CPC/2015.
+5. Embargos de declaração acolhidos, com efeito integrativo.(EDcl nos EDcl no AgInt no REsp 1760167/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/11/2019)
+Diante do exposto, dou provimentoao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AÇÃO COLETIVA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS.NÃO OCORRÊNCIA DE LIQUIDAÇÃO DA SENTENÇA. APRESENTAÇÃO DE CÁLCULOS ARITMÉTICOS. TERMO INICIAL DA PRESCRIÇÃO.ARTIGO 1.022, I E II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PROVIDO.
