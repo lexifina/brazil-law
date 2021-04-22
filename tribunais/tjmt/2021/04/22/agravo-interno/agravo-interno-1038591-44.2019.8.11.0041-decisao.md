@@ -1,0 +1,14 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Agravo Interno no Recurso Especial na Apelação Cível no 1038591-44.2019.811.0041
+AGRAVANTE: EDSON OLIVEIRA DE MORAES
+AGRAVADA: PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+Vistos.
+Determino a redistribuição do feito para o Órgão Especial, a fim de julgar o Agravo Interno id 79353981, interposto por EDSON OLIVEIRA DE MORAES, nos termos do artigo 15, II, alínea “l”, do Regimento Interno deste Tribunal de Justiça.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
