@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deJOANDER LUIZ DA SILVA OLIVEIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL(Apelaçãon. 00006044220148120007).
+Depreende-se dos autos que o réu foi condenado a 2anos e 7meses de reclusão, no regime inicialmente semiaberto, pela prática do delito de tentativa de homicídio por haver desferido uma facada no tórax da vítima (e-STJ fl. 445).
+Interposta apelação, o Tribunal de origem deu parcialprovimento ao recurso ministerial para reduzir a fração de tentativa a 1/3, fixando a pena definitiva em 5 anos e 6 meses de reclusão, mantida no mais a sentença(e-STJ fl. 499).
+Daí o presente writ, no qual sustenta a defesa fazer o paciente jus à aplicação da fração de 2/3 relativa à tentativa, por não haver colocado em risco a vida da vítima em razão de ter sido desferido apenas um golpe contra ela (e-STJ fl. 6).
+Requer, liminarmente e no mérito, o restabelecimento da sentença de primeirograu, que aplicou a fração de redução relativa à tentativaem 2/3 (e-STJ fl. 13).
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+Quanto ao mérito da impetração, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena na sentença condenatória, ipsis litteris (e-STJ fl. 445):
+Na terceira fase de fixação da pena, em razão da tentativa, considerando o iter crimiriis percorrido pelo acusado, diante da quantidade de golpe (um), reduzo a pena do réu em 2/3 (dois terços), resultando em uma pena de 02 (DOIS) ANOS E 07 (SETE) MESES DE RECLUSÃO, a qual torno definitiva face à ausência de outras causas que a modificam.
+Já o Tribunal de origem assim se manifestou quanto à dosimetria (e-STJ fl. 498):
+Na terceira fase da dosimetria da pena, assiste razão ao apelante quanto ao pleito de diminuição do patamar de aplicação da tentativa.
+Sobre a questão, é cediço que o grau de diminuição da pena em função da tentativa deve guardar relação com o iter criminis percorrido pelo agente, graduando-se o percentual em face da maior ou menor aproximação do resultado. Ou seja, deve-se perquirir sobre o quão próximo o agente chegou da consumação do crime.
+No caso em apreço, tem-se que o apelado, agindo com a nítida intenção de tirar a vida da vítima, utilizando-se de uma faca, esfaqueou-a em local próximo a regiões vitais, precisamente do lado esquerdo do tórax.
+Ora, em que pese a lesão ter sido considerada de grau leve, deve ser reconhecido que, por óbvio, ao atingir a vítima, em região extremante importante do corpo, o apelante percorreu praticamente todo o iter criminis possível, apenas não atingindo seu intento criminoso por circunstâncias alheias à sua vontade, tendo inclusive causado uma lesão profunda, a qual suturada com aproximadamente 23 pontos.
+Delineada a situação fática, passo à análise das teses aviadas.
+Fração relativa à tentativa
+O Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva ou realística, pela qual se pune de forma menos rigorosa o crime tentado.
+Nesse palmilhar, a pena do crime tentado recebe a mesma pena do crime consumado, reduzida de 1/3 (um terço) a 2/3 (dois terços).
+Sobre tal critério, é a pertinente lição de NUCCI:
+ ..  o juiz deve levar em consideração apenas e tão somente o iter percorrido, ou seja, tanto maior será a diminuição quanto mais distante ficar o agente da consumação, bem como tanto menor será a diminuição quanto mais se aproximar o agente da consumação do delito. Não se leva em conta qualquer circunstância - objetiva ou subjetiva -, tais como crueldade no cometimento do delito ou péssimos antecedentes do agente.(NUCCI. Guilherme de Souza. Manual de Direito Penal. 6.ed. São Paulo: RT, 2009. p. 169/170)
+O compulsar dos autos revela que o crime se aproximou da consumação, porquanto, repita-se, o acusado desferiu uma facada no lado esquerdo do tórax do ofendido, região vital, exaurindo todos os atos executivos postos a sua disposição, somente não alcançando seu intento por circunstâncias alheias a sua vontade.
+Desse modo, penso suficientemente fundamentada a opção pela fração mínima de redução pela tentativa. De mais a mais, para rever a conclusão alcançada na origem, seria necessário o reexame de fatos e provas, providência incompatível com os estreitos limites do remédio constitucional.
+No mesmo sentido:
+HABEAS CORPUS. HOMICÍDIO NA FORMA TENTADA. (I) DOSIMETRIA DA PENA. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO SUFICIENTE. (II) PATAMAR DE REDUÇÃO PELA TENTATIVA. AVANÇADO ITINERÁRIO EXECUTIVO PERCORRIDO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+ ..
+5. No que concerne à fração de diminuição de pena, aplicada em razão do reconhecimento da tentativa, esclareceu o Tribunal de Justiça que o crime se aproximou da consumação, porquanto o acusado desferiu facadas no abdômen do ofendido, região vital, exaurindo todos os atos executivos postos a sua disposição, somente não alcançando seu intento por circunstâncias alheias a sua vontade - fuga da vítima do local e imediato atendimento e tratamento médico. Desse modo, diante do iter criminis percorrido, suficientemente fundamentada a opção pela fração mínima de redução. Precedentes.
+6. Habeas corpus denegado.(HC 353.551/RS, de minha relatoria, julgado em 06/06/2017, DJe 13/06/2017)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO.TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. .. QUANTUM DE DIMINUIÇÃO DA TENTATIVA DO HOMICÍDIO. PERCORRIMENTO DE TODO O ITER CRIMINIS. REALIZAÇÃO DO NECESSÁRIO À CONSUMAÇÃO. WRIT NÃO CONHECIDO.
+ ..
+7. Como regra, o Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+8. In casu, verifica-se ter sido percorrido a totalidade do iter criminis, tendo o réu realizado o suficiente para alcançar o resultado morte, por meio de diversas facadas desferidas contra a vítima. Por conseguinte, de rigor a manutenção do redutor mínimo de 1/3 (um terço), sob o título de causa de diminuição de crime tentado (CP, art. 14, II).
+9. Habeas corpus não conhecido.(HC 185.036/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Ante o exposto,denego a ordemliminarmente.
+Publique-se. Intimem-se.
