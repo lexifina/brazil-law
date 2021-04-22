@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+ACLARATÓRIOS REJEITADOS.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por MBM PREVIDENCIA COMPLEMENTAR, contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ÓBICE DA SÚMULA 284/STF. PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. CONTROVÉRSIA DIRIMIDA À LUZ DO CONTRATO E DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REEXAME. SÚMULAS NS. 5 E 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+A embargante, a par de reprisar as suas considerações de mérito, alega omissão do julgado quanto à tese de erro material referente ao art. 489 do CPC e àdecorrente inaplicabilidade da Súmula 284/STF, bem como no que tange à tese de coisa julgada, suscitando não haver incidência das Súmulas 5 e 7/STJ.
+Não houve apresentação de contrarrazões.
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+ACLARATÓRIOS REJEITADOS.
+VOTO
+Eminentes Colegas, os embargos declaratórios não merecem acolhida.
+Nos rígidos limites do art. 1.022 do CPC/2015 (art. 535 do CPC/1973), são cabíveis embargos de declaração apenas nas hipóteses de erro material, obscuridade, contradição ou omissão do julgado.
+Na hipótese, entretanto,não se configura a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, a matéria relativa à insurgência da embargante e, bem assim, a suposta omissão da análise de inaplicabilidade daSúmula284/STF, notadamente quanto ao erro material referido, e das Súmulas 5 e 7/STJ, mormente considerando a tese de coisa julgada, foi efetivamente tratada no decisum monocrático à e-STJ Fls. 539/542 e mantida em sede de agravo interno, senão vejamos (e-STJ Fls. 584/586):
+Inicialmente, muito embora a agravante refira o erro material na aplicação da Súmula 284/STF quanto ao art. 489 do CPC, tal óbice é inarredável no caso concreto, mormente porque, conforme referido à e-STJ Fl. 540, "ao contrário do que deduz em sede de agravo interno, de fato constata-se a existência de alegação de ofensa ao art. 489 do CPC nas razões do recurso especial da recorrente, consoante se depreende à e-STJ Fl. 395".
+Ato contínuo, igualmente inafastável a incidência da Súmula 284/STF quanto aos arts. 1º, 21, 22, 24, 25, 51, 52 e 63 da Lei nº 6.435/77; 3º, 18, § 2º, e 45 da Lei Complementar nº 109/2001, não podendo se inferir, como pretende a agravante, de que forma tais dispositivos legais estariam sendo vulnerados no acórdão recorrido sem a devida fundamentação a eles atinente, mormente porquanto a agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa dispositivos referidos.
+De outra parte, não obstante alegue a existência de prequestionamento da matéria, os arts. 1º, 21, 22, 24, 25, 51, 52 e 63 da Lei nº 6.435/77; 3º, 7º, 18, § 2º, 44 e 45 da Lei Complementar nº 109/2001 e, bem assim, o mérito das teses de ausência de fonte de custeio e de desequilíbrio atuarial não foram, efetivamente, objeto de prequestionamento e juízo de valor pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importou na incidência do óbice da Súmula 211/STJ.
+Não havendo pronunciamento acerca das teses suscitadas pelo viés pretendido pela agravante, assim, inviável a sua análise nesta seara recursal, de maneira que,consoante apontado no decisum à e-STJ Fl. 541, "sequer fora alegada negativa de prestação jurisdicional (art. 1.022 do CPC) nas razões do presente recurso, de sorte que a análise de eventual omissão quanto a referidos temas resta inviabilizada nesta Corte".
+Outrossim, remanesce, ainda, a aplicação da Súmula 283/STF, considerando a ausência de ataque oportuno aos fundamentos do excerto à e-STJ Fl. 541, os quais sustentam o acórdão recorrido quanto à suposta tese de ofensa à coisa julgada por inclusão, na fase executiva, de pensão vitalícia sobre a qual alegadamente não haveria pedido.
+Ainda que assim não fosse, a incidência das Súmulas 5 e 7/STJ, no ponto, é suficiente à manutenção do decisum, tendo em vista que a pretensão de reconhecimento de ofensa à coisa julgada em inobservância ao título executivo, nos moldes em que afirmada a tese da recorrente, encontrar-se-ia obstada pela necessidade de revolvimento fático dos autos.
+Nesse passo, alterar as conclusões adotadas pelo Tribunal de origem quanto à melhor interpretação do título executivo e à existência de contrato de previdência referente a pensão vitalícia, considerando as particularidades da hipótese, demandaria desta Corte, inevitavelmente, a incursão no conteúdo fático-probatório e contratual dos autos, inclusive em harmonia com o entendimento desta Corte, conforme suscitado à e-STJ Fl. 542.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal a quo, de maneira que incursão nesta seara implicaria ofensa aos referidos óbices sumulares. Impossível, portanto, desconstituir as premissas adotadas para fins de ser considerada a afronta à coisa julgada material, não havendo se falar em merarevaloração dos fatos comprovados.
+(..) (g.n.)
+As teses da embargante, assim, foram expressamente mencionadas e obstadas ante a aplicação das Súmulas 5 e 7/STJ, 283 e 284/STF, de sorte que não há se falar em qualquer omissão no acórdão recorrido.
+A pretensão da embargante, verifica-se,é descaracterizar a incidência dos óbices referidos à hipótese, o que não se coaduna com a estreita via dos embargos de declaração.
+O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. PLEITO DE REEXAME DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorrem a omissão ou a contradição alegadas e previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou perfeito e acabado o ato de adjudicação e, desta forma, atingido pela decisão de recuperação judicial a atrair a competência do juízo especializado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 866060 / SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJ 13/09/2016, DJe 16/09/2016) - g.n.
+Destarte, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Advirta-se, por fim, que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa (art. 1.026, § 2º, do CPC/2015).
+Ante o exposto, REJEITO os presentesembargos de declaração.
+É o voto.
