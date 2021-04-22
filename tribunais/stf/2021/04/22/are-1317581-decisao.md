@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (Vol. 2, fl. 136):
+    “Apelação Cível - Ação Civil Pública - Improbidade Administrativa - Nepotismo - Nomeação, pelo Prefeito Municipal, da esposa para o cargo de Secretária de Assistência Social - Sentença de improcedência - Decisão escorreita - Cargo de natureza política que não está abarcado pela Súmula Vinculante 13, do Supremo Tribunal Federal, que inclusive, já se posicionou no sentido de que tais cargos não estão submetidos a tal súmula - Parecer do próprio órgão ministerial pela manutenção da sentença”.
+    Opostos Embargos de Declaração, foram rejeitados (Vol. 3, fl. 12).
+    No apelo extremo (Vol. 3, fl. 29), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que a nomeação de esposa de Prefeito Municipal ao cargo de Secretária de Assistência Social viola o artigo 37, caput, da Constituição Federal, bem como a Súmula Vinculante 13.
+    Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao apelo, ao fundamento de que incide, no caso, a Súmula 279 do STF (Vol. 3, fl. 181).
+    No Agravo Interno, a parte recorrente refutou o óbice sumular apontado (Vol. 3, fl. 185).
+    Os autos vieram-me distribuídos por prevenção à Reclamação 31.732.
+    É o relatório. Decido.
+    O Plenário desta SUPREMA CORTE, no julgamento da Rcl 31.732 ajuizada pela parte ora recorrente, em que constei como Relator para acórdão, DJe de 3/2/2020, transitada em julgado em 14/2/2020, consignou que a nomeação de parente, cônjuge ou companheira para cargos de natureza eminentemente política não se subordina ao Enunciado Vinculante 13. Veja-se a ementa do acórdão:
+    “Ementa: CONSTITUCIONAL. NOMEAÇÃO PARA CARGOS POLÍTICOS. HIPÓTESE NÃO ALCANÇADA PELA SÚMULA VINCULANTE 13. A APROVAÇÃO DE SÚMULA VINCULANTE PRESSUPÕE A EXISTÊNCIA DE REITERADAS DECISÕES SOBRE A MATÉRIA (ART. 113-A, CF/1988). OS REPRESENTATIVOS QUE DERAM ORIGEM AO ENUNCIADO VINCULANTE 13 LIMITARAM-SE A DISCUTIR NOMEAÇÕES PARA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA, CONFORME PREVISÃO DO ART. 37, V, CF/1988. DIFERENTEMENTE, A LIVRE NOMEAÇÃO PARA O PRIMEIRO ESCALÃO DE APOIO AO CHEFE DO PODER EXECUTIVO ENCONTRA PREVISÃO NO ART. 84 DA CONSTITUIÇÃO FEDERAL, ENTENDIMENTO APLICÁVEL, POR SIMETRIA, AOS SECRETÁRIOS ESTADUAIS E MUNICIPAIS (ART. 76, CF/1988).
+    1. Nos representativos que embasaram a aprovação da Súmula Vinculante 13, a discussão centrou-se nas nomeações para cargos em comissão e funções de confiança da administração pública (art. 37, V, CF/1988), conforme demonstram os quatro precedentes: a ADC 12 (Rel. Min. AYRES BRITTO, Tribunal Pleno, julgamento em 16/2/2006, DJ de 1º/9/2006), que declarou a constitucionalidade da Resolução 7/2005 do Conselho Nacional de Justiça, vedando o nepotismo no Poder Judiciário; a ADI 1.521 (Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 19/3/2013, DJe de 13/8/2013); o MS 23.780 (Rel. Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 28/09/2005, DJ 3/3/2006); e o RE 579951 RG (Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/08/2008, DJe de 23/10/2008, resultando no julgamento do Tema 66, com tese fixada no sentido de que a vedação ao nepotismo não exige a edição de lei formal para coibir a prática, dado que essa proibição decorre diretamente dos princípios contidos no art. 37, caput, da Constituição Federal.
+    2. A grande distinção é que a construção do enunciado se refere especificamente ao art. 37, V, CF/1988, e não a cargos políticos e nomeação política. A previsão de nomeação do primeiro escalão do chefe do Executivo está no art. 84 da Constituição Federal, tal entendimento deve ser aplicado por simetria aos Secretários estaduais e municipais (art. 76, da CF/1988).
+    3. A nomeação de parente, cônjuge ou companheira para cargos de natureza eminentemente política, como no caso concreto, em que a esposa do Prefeito foi escolhida para exercer cargo de Secretária Municipal, não se subordina ao Enunciado Vinculante 13 (Rcl 30.466, de minha relatoria, 1ª Turma, Dje de 26/11/2018).
+    4. Reclamação a que se julga improcedente”.
+    No mesmo sentido, veja-se o seguinte precedente:
+    “Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. NEPOTISMO. SÚMULA VINCULANTE 13.
+    1. Reclamação em que se impugna ato de nomeação de cônjuge do Prefeito Municipal de Itaperuna/RJ para o cargo de Secretária Municipal de Assistência Social, Trabalho e Habitação.
+    2. O Supremo Tribunal Federal tem afastado a aplicação da Súmula Vinculante 13 de cargos públicos de natureza política, ressalvados os casos de inequívoca falta de razoabilidade, por manifesta ausência de qualificação técnica ou inidoneidade moral. Precedentes.
+    3. Não há nos autos prova inequívoca da ausência de razoabilidade da nomeação, de modo que esta deve ser impugnada por via que permita dilação probatória. 4. O reconhecimento de repercussão geral de determinada matéria constitucional, ainda pendente de julgamento (Tema 1000), não pode ser utilizado como parâmetro de controle na via reclamatória. 5. Agravo interno a que se nega provimento”. (Rcl 32475 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 10/3/2020).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 22 de abril de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
