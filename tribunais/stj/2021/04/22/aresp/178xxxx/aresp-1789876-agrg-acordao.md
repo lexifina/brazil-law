@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO CPC/2015. NÃO COMPROVAÇÃO DE FERIADO LOCAL NO ATO DA INTERPOSIÇÃO DO RECURSO.ART. 1003, § 6º, DO CPC/2015. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA MANTIDA.
+I - Nos termos da jurisprudência deste Superior Tribunal de Justiça, "Após a entrada em vigor da Lei n.13.105/2015, a Terceira Seção desta Corte Superior assentou entendimento no sentido de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, não se interrompendo ou suspendendo durante as férias, domingos ou feriados, em razão de disposição específica do art. 798 do Código de Processo Penal" (AgRg no AREsp n. 1.591.773/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/08/2020).
+II - Deve ser mantido o decisum monocrático vergastado, pois a Corte Especial deste Superior Tribunal de Justiça, quando do julgamento do AgInt no AREsp n.957.821/MS, realizado no dia 20/11/2017, decidiu não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, em respeito à regra contida no art. 1003, § 6º, do diploma processual.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO ROBERTO GOMEZ GUIMARAES FILHO, contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial por intempestividade (fls. 905-906).
+Consta dos autos que oagravanteforacondenado, pelo juízo de primeiro grau, como incursono art. 339, do CP, à pena de 03 (três) anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 11(onze) dias-multa(fls. 711-724).
+Interposta apelação criminal, o Tribunal Regional Federal da 3ª Região negou provimento ao apelo da defesa edeu parcial provimento ao recurso da acusação para reconhecer outras circunstâncias judiciais negativas, porém, sem alteração da pena-base e apenas redimensionou a pena de multa para 15 (quinze) dias-multa(fls. 796-802).
+Opostos embargos de declaração perante o Tribunal a quo, estes foram rejeitados (fls. 817-823).
+Nas razões do recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a parte alegou violação aos arts.33, 44 e 59, todos do Código Penal, porquanto não há fundamento idôneopara a exasperação da pena-base na primeira fase da dosimetria;bem como que o réu faz jus a substituição da pena corporal por restritivas de direito e regime inicial aberto.
+O recurso especial foi inadmitido pelo Tribunal de origem, em razão da incidência das Súmulas 7 e 83/STJ (fls. 857-864), e o agravo em recurso especial não foi conhecido pela Presidência, porintempestividade (fls. 905-906).
+Neste regimental, oagravantepretendea modificação da conclusão acerca da intempestividade do agravo em recurso especial, ao argumento de que "em decorrência da pandemia do coronavírus (COVID-19), o TRF da 3ª Região emitiu a portaria PRES/CORE Nº 2, 16/03.20201, na qual foram suspenso os prazos processuais nos feitos físicos e eletrônicos em trâmite na Justiça Federal da 3ª Região, a partir do dia 17/03/2020. Nessa senda, somente por intermédio da portaria PRES-COREnº10de03/07/20202que foram restabelecidas as atividades presenciais no âmbito da Justiça Federal da 3ª Região, a partir do dia 27/07/2020. Destarte, o recurso foi interposto em 28/07/2020, logo, é tempestivo." (fl. 911).
+Postula, ao final, a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado.
+Pelo despacho de fl. 918, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 921, o feito foi a mim atribuído.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO CPC/2015. NÃO COMPROVAÇÃO DE FERIADO LOCAL NO ATO DA INTERPOSIÇÃO DO RECURSO.ART. 1003, § 6º, DO CPC/2015. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA MANTIDA.
+I - Nos termos da jurisprudência deste Superior Tribunal de Justiça, "Após a entrada em vigor da Lei n.13.105/2015, a Terceira Seção desta Corte Superior assentou entendimento no sentido de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, não se interrompendo ou suspendendo durante as férias, domingos ou feriados, em razão de disposição específica do art. 798 do Código de Processo Penal" (AgRg no AREsp n. 1.591.773/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 25/08/2020).
+II - Deve ser mantido o decisum monocrático vergastado, pois a Corte Especial deste Superior Tribunal de Justiça, quando do julgamento do AgInt no AREsp n.957.821/MS, realizado no dia 20/11/2017, decidiu não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, em respeito à regra contida no art. 1003, § 6º, do diploma processual.
+Agravo regimental desprovido.
+VOTO
+A irresignação não merece prosperar.
+De início, cumpre ressaltar que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015, o que enseja a observância do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso dos autos, a parte recorrente foi intimada do decisum recorrido em 26/02/2020 (fl. 864), sendo o agravo em recurso especial somente interposto em 28/07/2020 (fl. 865), não sendo conhecido em razão de sua intempestividade.
+É certo que, na vigência do Código de Processo Civil de 1973, a jurisprudência deste Superior Tribunal de Justiça permitia a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, em momento posterior.
+Contudo, tal entendimento não é aplicável aos recursos interpostos na vigência do Código de Processo Civil de 2015.
+Conforme consignado no decisum monocrático agravado (fl. 905):
+"Mediante análise do recurso de PAULO ROBERTO GOMEZ GUIMARAES FILHO, a Defensoria Pública foi intimada da decisão agravada em 26/02/2020, sendo o agravo somente interposto em 28/07/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 30 (trinta) dias corridos, nos termos do art. 186 e do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior."
+Cumpre esclarecer, por oportuno, que se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+Com efeito, a eg. Corte Especial deste Superior Tribunal, quando do julgamento do AREsp 957.821/MS, realizado no dia 20/11/2017, decidiu, por maioria, não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito à regra contida no art. 1003, § 6º, do diploma processual.
+Eis o teor da ementa do julgado acima citado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando- se, em consequência, a coisa julgada.
+6. Agravo interno desprovido" (AgInt no AREsp n.957.821/MS, Corte Especial, Rel. Min. Raul Araújo, Relª. p/ Acórdão Minª. Nancy Andrighi, DJe de 19/12/2017).
+Dessa forma, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
