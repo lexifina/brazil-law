@@ -1,0 +1,17 @@
+Petição 34.852/2021-STF.
+    Trata-se de petição na qual alega-se a ocorrência de prescrição retroativa e intercorrente para as penas dos crimes capitulados no art. 35 da Lei 11.343/2006 e art. 12 da Lei 10.826/2003, com a consequente extinção da punibilidade, nos termos do art. 107, IV, do CP (documento eletrônico 23).
+    Do exame dos autos, verifico que o recorrente foi condenado aos crimes dos arts. 33 e 35 da Lei 11.343/2006 e art. 12 da Lei 10.826/2003, na seguinte conformidade: (i) art. 33 da Lei 11.343/2006: pena de 5 anos de reclusão ; (ii) art. 35 da Lei 11.343/2006: pena de 3 anos de reclusão ; e (iii) art. 12 da Lei 10.826/2003: pena de 1 ano de detenção.
+    Por sua vez, os marcos temporais de interrupção da prescrição extraídos dos autos são os seguintes: (i) recebimento da denúncia em 2.10.2012 (págs. 24-25 do documento eletrônico 5); (ii) sentença condenatória, publicada em 20.6.2016 (pág. 26 do documento eletrônico 10); e (iii) acórdão da apelação da defesa, juntado em 20.12.2019 (pág. 4 do documento eletrônico 2).
+    É o relatório necessário. Decido.
+    Do cotejo dos marcos temporais acima indicados com os termos dos arts. 109 e 110 do CP, que regulam os prazos da prescrição da pretensão punitiva e executória, não se verifica que o pedido ora em exame caracterize a prescrição solicitada, cujos prazos que regulam as penas infligidas são de 12, 8 e 4 anos, respectivamente. Verifica-se que o peticionário olvidou-se de consignar nos cálculos desses prazos o acórdão confirmatório da condenação, que também deve ser considerado como marco temporal interruptivo da prescrição, de acordo com o entendimento desta Corte. No mesmo sentido, cito os seguintes precedentes:
+    “EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL MILITAR. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO: MARCO INTERRUPTIVO DA PRESCRIÇÃO. NOVA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS DE DIVERGÊNCIA ADMITIDOS” (RE 1.181.372-AgR-EDv/SP, Rel. Min. Marco Aurélio).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA PENAL CONDENATÓRIA. MARCO INTERRUPTIVO DO PRAZO PRESCRICIONAL. PRECEDENTES. AGRAVO INTERNO DESPROVIDO” (RE 1.252.572-AgR/SC, Rel. Min. Luiz Fux).
+    “DIREITO PENAL E PROCESSUAL PENAL. QUARTO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL DA MATÉRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. POSSIBILIDADE.
+    1. A parte agravada, na petição do recurso extraordinário admitido pelo Superior Tribunal de Justiça, indicou os dispositivos constitucionais tidos por violados, bem como trouxe a preliminar fundamentada de repercussão geral da matéria em discussão.
+    2. A jurisprudência desta Corte é no sentido de que o acórdão que confirma a sentença condenatória é marco interruptivo do prazo prescricional. ´A ideia de prescrição está vinculada à inércia estatal e o que existe na confirmação da condenação é a atuação do Tribunal. Consequentemente, se o Estado não está inerte, há necessidade de se interromper a prescrição para o cumprimento do devido processo legal´ (RE 1.226.719-AgR, redator para o acórdão o Min. Alexandre de Moraes). Precedentes.
+    3. Agravo interno a que se n ega provimento” (RE 1.243.415 AgR-quarto/ES).
+    Isso posto, indefiro o pedido.
+    Publique-se.
+    Brasília, 22 de abril de 2021.
+Ministro Ricardo Lewandowski
+Relator
