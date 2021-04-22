@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por FELIPE ALEXANDRE CAMPOS SABO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por FELIPE ALEXANDRE CAMPOS SABO, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1º e 155 do CP e 397, III, do CPP, no que concerne à atipicidade do fato imputado ao recorrente pela incidência do princípio da insignificância, trazendo os seguintes argumentos:
+"O recorrente foi denunciado pelo Ministério Público como incurso nas penas dos artigos 155, caput, c/c 14, II, do Código Penal, pois, segundo exordial acusatória, teria tentado furtar uma peça de carne bovina  Friboi  avaliada em R 110,13 (cento e dez reais e treze centavos) do Supermercado Carrefour.
+ ..
+Independente da análise das diferenças socioeconômicas existentes no Estado Brasileiro, fruto de inúmeras causas, não se pode olvidar que o valor dos bens em questão é ínfimo. Evidente que o recorrente não praticou fato típico, devendo ser absolvida por atipicidade da conduta.  ..
+O acórdão recorrido contrariou, também, o disposto no próprio artigo 155 do Código Penal (  Subtrair, para si ou para outrem, coisa alheia móvel  ) e no artigo 397, III, do Código de Processo Penal, que estabelece ser hipótese de absolvição sumária quando o fato evidentemente não constituir crime. Imperiosa é a absolvição do recorrente em virtude da atipicidade da conduta, nos moldes do princípio da insignificância" (fls. 159/167).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+"Além disso, o réu exibe registros criminais (fls. 56/71 e 79/85), inclusive com condenações definitivas por crimes patrimoniais.
+Assim, não se vislumbrando, no átrio da persecução, reduzidíssimo grau de reprovabilidade no comportamento do agente, incabível, de plano, a aplicação do princípio da insignificância" (fl. 149).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
