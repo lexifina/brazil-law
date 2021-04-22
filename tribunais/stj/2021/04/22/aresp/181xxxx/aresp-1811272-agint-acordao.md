@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interposto por EXPRESSO PEGASO EIREL contra decisão unipessoal proferida pelo Ministro Presidente desta Corte que não conheceu do agravo em recurso especial que interpusera.
+Ação: de compensação por danos moral e estético, ajuizada pelaagravada, em face daagravante, devido a acidente ocorrido no interior de coletivo da agravante, decorrente de assento danificado, causando à agravada "horrível cicatriz nas nádegas". Pleiteia compensação por danos moral e estético.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a agravante ao pagamento de danosmorais no valor de R$ 30.000,00 (trinta mil reais), bem como para reparar danos materiais, referentes aos valores do período não trabalhado.
+Acórdão: negou provimento às apelaçõesinterpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONTRATO DE TRANSPORTE. RESPONSABILIDADE OBJETIVA. COMPROVAÇÃO DA CONDIÇÃO DE PASSAGEIRA. NEXO CAUSAL CONFIGURADO. DANOS MORAL, MATERIAL E ESTÉTICO. CONFIGURAÇÃO E QUANTIFICAÇÃO. TERMO INICIAL DOS JUROS DE MORA. 1) À míngua de comprovação da existência de quaisquer das causas excludentes do dever de indenizar, hábeis a romper o nexo de causalidade, deve a concessionária de serviço público de transporte coletivo responder objetivamente pelos danos que seus agentes, nesta qualidade, causarem a terceiros, na hipótese, passageira de coletivo de sua propriedade. 2) O dano sofrido pela autora é inegável, diante das consequências advindas do evento, consoante se infere dos documentos, fotos e laudo pericial carreados para os autos. 3) O valor fixado a título de indenização por dano moral deve ser mantido, já que compatível com as lesões de fratura do cóccix. 4) A incidência dos juros de mora sobre a verba indenizatória a partir da data do acidente somente é cabível na hipótese de ilícito extracontratual, o que não é a hipótese dos autos. Tratando-se de ilícito contratual, os juros de mora devem fluir a contar da citação, nos termos do artigo 405 do CC. 5) Indenização por dano material, namodalidade "lucros cessantes", que deve ser mantida nos moldes fixados pelo sentenciante de piso, diante da incapacidade total e temporária de 30 dias apurada na laudo pericial realizado por expert de confiança do juízo. 6) Dano estético não configurado, vez que não há demonstração de qualquer deformação física passível de interferir na esfera psicológica da vítima. Laudo pericial que confirma não ter restado qualquer sequela estética para a demandante. 7) Recursos aos quais se nega provimento. (e-STJ Fls. 308/309)
+Recurso especial: alega violação dos arts. 186, 187, 927 e 944 do CC, bem como dissídio jurisprudencial.
+Decisão unipessoal: proferida pelo Ministro Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que aagravantenão impugnou todos os fundamentos utilizados pelo TJ/RJ para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, aagravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pelaagravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à agravantedemonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
