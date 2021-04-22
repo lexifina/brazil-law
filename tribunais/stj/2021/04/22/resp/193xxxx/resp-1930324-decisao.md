@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO TOCANTINS, com fundamento no art. 105, III,da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, no qual expresso que
+não se conhece de parte do recurso de Apelação que é mera transcrição dos termos da contestação, pois, por ter sido esta confeccionada quando ainda nem havia sido prolatada a sentença, não satisfaz a exigência do artigo 1.010, inciso III, do Código de Processo Civil, o qual preceitua que este recurso deve trazer a indicação específica dos fundamentos de fato e de direito que servem de substrato ao pedido de reforma da sentença.
+Sustenta a parte recorrente que
+a jurisprudência deste E. Superior Tribunal de Justiça é firme no sentido de que não há falar em violação ao princípio da dialeticidade pelo só fato da parte apelante reproduzir em suas razões recursais os argumentos veiculados na petição inicial ou na constestação, desde que constatada a sua notória intenção de revisão da sentença.
+Apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão recursal merece guarida.
+Em casos como o dos autos, esta Corte entende não haver violação ao princípio da dialeticidade.
+A rejeição da alegada ofensa ao art. 514, II, do CPC/1973 (inépcia recursal por ausência de impugnação específica dos fundamentos da sentença) pela Corte local se harmoniza com a jurisprudência do STJ, no sentido de que a repetição de peças anteriores nas razões da apelação não ofende o princípio da dialeticidade quando puderem ser extraídas do recurso as razões e a intenção de reforma da sentença. Incidência do teor da Súmula 83/STJ.(AgInt no AgInt no AREsp 790.415/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,DJe 27/11/2020).
+Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, "O excessivo rigor formal conducente ao não conhecimento do recurso de apelação, no bojo do qual se encontram infirmados os fundamentos exarados na sentença, não obstante a repetição dos argumentos deduzidos na inicial ou na contestação deve ser conjurado, uma vez configurado o interesse do apelante na reforma da decisão singular" (REsp 976.287/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 08/09/2009, DJe de 08/10/2009).(AgInt no REsp 1744209/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020).
+Consoante cediço nesta Corte, a repetição dos argumentos lançados na petição inicial (ou na contestação) não representa, por si só, a ausência de requisito objetivo de admissibilidade da apelação, se possível extrair, de suas razões, os fundamentos de fato e de direito pelos quais o recorrente almeja ver reformada a sentença.(AgInt no REsp 1551747/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação, para que os autos retornem ao Tribunala quopara rejulgamento do recurso de apelação.
+Publique-se. Intimem-se.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. TRANSCRIÇÃO DOS TERMOS DA CONTESTAÇÃO NO RECURSO DE APELAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
