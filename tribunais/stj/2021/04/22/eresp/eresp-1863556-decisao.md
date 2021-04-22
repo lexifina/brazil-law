@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RESP interpostos por FAZENDA DO ESTADO DE SÃO PAULO com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o REsp n. 1.789.913/DF, proferido pela Segunda Turma, relativo à fixação de honorários advocatícios
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, constata-se que os embargos de divergência trazem discussão acerca da fixação do valor de honorários advocatícios.
+Ocorre que, nos termos da jurisprudência pacificada do Superior Tribunal de Justiça, não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios, o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto.
+Nesse sentido colaciona-se o seguinte julgado:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL NÃO CONHECIDO DIANTE DA APLICAÇÃO DA SÚMULA N. 7/STJ. AUSÊNCIA DE ANÁLISE DO MÉRITO RECURSAL. EMBARGOS DE DIVERGÊNCIA. INCABÍVEIS. SÚMULA N. 315/STJ.
+I - Na origem, trata-se de ação anulatória de débito fiscal, por suposta não incidência de ICMS, em vista de transferência de bens entre os estabelecimentos da parte autora. Na sentença, julgou-se procedente o pedido, sendo declarada a nulidade de auto de infração. No Tribunal de origem, a sentença foi reformada apenas para reduzir os honorários advocatícios para o montante de R$5.000,00 (cinco mil reais). Nesta Corte, não se conheceu do recurso especial, sendo o agravo interno improvido.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.345.680/SC, Relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe de 19/4/2017.
+III - Ademais, observa-se que os embargos de divergência trazem discussão acerca da fixação do valor de honorários advocatícios.
+IV - Não há como admitir os embargos manejados, pois, na hipótese mencionada, inexiste divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto. Nesse sentido: AgInt nos EREsp n. 1.322.257/RS, Relator Ministro Herman Benjamin, Corte Especial, julgado em 7/12/2016, DJe de 19/4/2017.
+V - Agravo interno improvido.
+(AgInt nos EREsp 1563944/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 26/05/2020, DJe 01/06/2020)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
