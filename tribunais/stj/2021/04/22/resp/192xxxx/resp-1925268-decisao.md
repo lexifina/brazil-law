@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. INSS. TEMA REPETITIVO Nº 979 DO STJ. SUSPENSÃO DA EXECUÇÃO.
+1. A questão submetida a julgamento pelo Tema 979 do STJ diz respeito à devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da administração da Previdência Social.
+2. No caso, não é possível saber se o pagamento decorreu de fraude, dolo ou má fé, conforme alegado. Na CDA, há referência ao art. 115, II, da Lei 8.213/91, e ao art. 154, II, do Decreto 3.048/99, os quais apenas autorizam que possa ser descontado do benefício o pagamento além do devido.
+3. Dessa maneira, deve ser mantida a suspensão da execução fiscal por força do Tema 979" (fl. 26e).
+Opostos Embargos de Declaração, restaram eles rejeitados (fls. 45/47e).
+No Recurso Especial, manejado com base naalíneaa do permissivo constitucional, alega-se a violação aos arts. 489, § 1º, IV e 1.022, II, do CPC/2015, sustentando que"oINSS interpôs embargos de declaração pretendendo fosse aclarado o julgado eis que o processo paradigma do TEMA 979 do STJ é distinto do caso em apreço, conforme dados e fundamentos constantes na CDA exequenda", concluindo"ter ocorrido nulidade do acórdão regional, visto que, não obstante a interposição de embargos declaratórios, o TRF4 quedou-se silente quanto a apreciação de relevante questão que merecia o adequado enfrentamento pela Corte Regional" (fl. 53e).Requer, por fim, o provimento do Recurso Especial.
+Sem contrarrazões.
+Recurso Especial admitido (fls. 62/63e).
+O recursonão merece prosperar.
+Na origem, trata-se de Agravo de Instrumento interposto contra decisãoque determinara a suspensão da execução fiscal até o julgamento do Tema Repetitivo979/STJ.
+O Tribunal a quo, negou provimento ao recurso, firme nos seguintes fundamentos:
+"A questão submetida a julgamento pelo Tema 979 do STJ diz respeito à devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da administração da Previdência Social.No caso, a agravante não juntou cópia do PA. Não é possível saber se o pagamento decorreu de fraude, dolo ou má fé, conforme alegado. Na CDA, há referência ao art. 115, II, da Lei 8.213/91, e ao art. 154, II, do Decreto 3.048/99, os quais apenas autorizam que possa ser descontado do benefício o pagamento além do devido.
+Dessa maneira, deve ser mantida a suspensão da execução fiscal por força do Tema 979" (fl. 28e).
+Desse modo, em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018;REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º, do art. 85 do CPC/2015.
+I.
