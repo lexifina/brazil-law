@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Jorge Eduardo de Oliveira Rochet, apontando-se como autoridade coatora o Desembargador Luciano Silva Barreto do Tribunal de Justiça do Rio de Janeiro (HC n. 3204/2020.00865968).
+Narram os autos que o paciente foi condenado à pena de 4 anos de reclusão, em regime aberto, e pagamento de 10 dias-multa, pela prática do delito tipificado no art. 157, caput, do Código Penal.
+Foi ajuizado habeas corpus no Tribunal estadual, cuja liminar foi indeferida pelo Desembargador Relator (fls.11/13).
+No presente mandamus, reitera o impetrante o pleito apresentado na origem, qual seja, o reconhecimento do transcurso do prazo da prescrição da pretensão executória.
+O pedido de liminar foi indeferido pela Presidência desta Corte (fls. 73/74).
+Prestadas informações (fls. 80/88),o Ministério Público Federal manifestou-se pelo não conhecimento dowritou, caso contrário, pela denegação da ordem (fls. 93/95).
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ora, oRelatordo prévio writ, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida, dizendo que,da análise sumária da exordial, não se depara, de plano, com alguma evidente ilegalidade ou abuso de poder, além da irresignação não se enquadrar como matéria a ser apreciada na via estreita do plantão judiciário, sobretudo, o de recesso, que é oportunidade de caráter excepcional; a uma, pela impossibilidade de obtenção de informações junto à autoridade impetrada; a duas, por ser razoável admitir, em princípio, que o impetrante poderia (e ainda poderá) manejar a medida durante o expediente forense regular, devendo a matéria ser apreciada com maior percuciência pelo órgão colegiado para o qual vier a ser distribuído este mandamus, após a necessária manifestação da autoridade impetrada(fl. 12).
+Dessa forma, diante da inadmissível supressão de instância, convém aguardar o trâmite regular dos habeas corpus na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+De mais a mais, como bem observou o Ministério Público Federal,já operado o trânsito em julgado do processo, incide no caso o entendimento do Superior Tribunal de Justiça, de que, "a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto ao trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único e 117, incisos V e VI, ambos do CP- AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018" (AgRg no HC n. 473.344/PB, Ministro RIBEIRO DANTAS, Quinta Turma, julg. 10/3/2020, DJe 26/3/2020).
+Por tais razões, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. SÚMULA 691/STF. INEVIDENTE CONSTRANGIMENTO ILEGAL.
+Habeas corpus não conhecido.
