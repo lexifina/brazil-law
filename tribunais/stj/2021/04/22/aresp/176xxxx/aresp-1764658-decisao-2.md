@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO BRADESCO S/A e BANCO BRADESCO FINANCIAMENTOS S.A (atual denominação de BANCO BMC S/A), contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/10/2016.
+Concluso ao gabinete em: 10/01/2021.
+Ação: Civil Pública, ajuizada por IDC - INSTITUTO DE DEFESA DO CONSUMIDOR E DO CONTRIBUINTE, em face de ITAÚ UNIBANCO S/A (atual denominação de UNIBANCO - UNIÃO DE BANCOS BRASILEIROS S/A), BV FINANCEIRA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO, HSBC BANK BRASIL S/A (atual denominação de KIRTON BANK S/A - BANCO MÚLTIPLO), BANCO BRADESCO S/A e BANCO BRADESCO FINANCIAMENTOS S.A (atual denominação de BANCO BMC S/A).
+Sentença: julgou parcialmente procedente o pedido inicial para declarar a ilegalidade da cobrança da taxa de boleto bancário, assegurando a cada consumidor que a tenha pagado, no período de até cinco anos antes da propositura da presente ação, a restituição por meio de ação própria, devidamente corrigida desde a época do desembolso até o efetivo pagamento, englobando apenas os contratos assinados nesta capital. Aqueles que eventualmente efetuaram o pagamento em data posterior à propositura da presente ação também restam por ela beneficiados, tendo em vista a liminar concedida e mantida pela instância superior. Por fim, condenou os agravantes ao pagamento das custas e dos honorários, estes fixados em R$ 2.000,00.
+Acórdão: negou provimento aos agravos internos interpostos, nos termos da seguinte ementa:
+"Agravo Regimental em Apelação Cível. Ação Civil Pública. Julgamento antecipado da lide. Cerceamento de defesa. Não configurado. Perda do objeto. Resolução Nº 3.693, de 26 de março de 2009, do Banco Central do Brasil (BACEN). Inocorrência. Ausência de esvaziamento da ação. Falta de interesse de agir. Não ocorrência. Interesses ou direitos individuais homogêneos decorrentes de origem comum. Legitimidade ativa do Instituto de Defesa do Consumidor e do Contribuinte. Requisitos do artigo 5º, inciso V, da Lei da Ação Civil Pública preenchidos. Aplicabilidade do CDC. Súmula 297 do colendo Superior Tribunal de Justiça. Ilegalidade da cobrança da Tarifa de Emissão de Carnê (TEC). Precedente do STJ: REsp 1.251.331/RS. Abusividade. Cobrança dupla em virtude da tarifa bancária interbancária. Restituição simples. Ausência de comprovação da má-fé das instituições financeiras. Prescrição. 05 (cinco) anos. Artigo 27 do Código de Defesa do Consumidor. Abrangência do decisum. Todo o Estado de Goiás. Honorários Advocatícios mantidos. Precedentes do colendo STJ e do Egrégio TJGO. Decisão monocrática mantida. Recurso conhecido, mas desprovido.
+1. A matéria debatida no feito é eminentemente de direito, incidindo o disposto no artigo 330, I, do Código de Processo Civil, não havendo que se falar em cerceamento de defesa.
+2. Urna vez que não houve o esvaziamento do objeto da ação pela superveniente publicação da Resolução nº 3.693, de 26 de março de 2009, do Banco Central do Brasil (BACEN), não há que se falar em perda do objeto.
+3. O direito perseguido pelo autor da ação civil pública é individual homogêneo, o qual pode ser defendido de forma individual ou a titulo coletivo (artigo 81, inciso III, do Código de Defesa do Consumidor).
+4. O INSTITUTO DE DEFESA DO CONSUMIDOR E DO CONTRIBUINTE (IDC) satisfaz os requisitos legais do artigo 5º, inciso V, do da Lei fedeste 7.307, de 24 de julho de 1985, sendo parte legitima para propor ação civil pública.
+5. Conforme Súmula nº 297 do comendo Superior Tribunal de Justiça, "o Código de Defesa do Consumidor é aplicável às instituições financeiras".
+6. A pactuação da Tarifa de Emissão de Carnê (TEC), bem como de outras denominações Correlatas, não é mais válida em contratos posteriores a 30 de abril de 2008, sendo válida nos anteriores, desde que não evidente a abusividade.
+7. É clara a abusividade da Tarifa de Emissão de Carnê (TEC) para os contratos anteriores a 30 de abril de 2008, em virtude dos serviços prestados pelas instituições financeiras já serem remunerados pela tarifa interbancária.
+8. Em que pese seja abusiva a cobrança da Tarifa de Emissão de Carnê (TEC) para os contratos anteriores a 30 de abril de 2008, não resta flagrante nos autos a má-fé das instituições financeiras, de tal sorte que a restituição deve se dar de forma simples e não em dobro.
+9. O prazo prescricional para restituição dos valores cobrados dos consumidores, pelas instituições financeiras, a título de Tarifa de Emissão de Carnê (TEC), é de 05 (cinco) anos.
+10. A decisão deve ter abrangência em todo o território do Estado de Goiás, pois devidamente proferida no foro da capital (artigo 16 da Lei federal n. 7.347, de 24 de julho de 1985, cumulado com o artigo 93 do Código de Defesa do Consumidor).
+11. Considerando as circunstâncias atinentes ao grau de complexidade da causa em que atuou o causídico do autor, o tempo despendido, o grau de zelo e o benefício alcançado, hei por manter a verba honorária arbitrada na sentença, no montante de R$ 2.000,00 (dois mil reais).
+12. Caso a parte recorrente, no agravo regimental, não traga argumento novo suficiente para acarretar a modificação da decisão monocrática, o desprovimento do recurso é medida que se impõe, especialmente porque proferida com espeque na jurisprudência dominante desta egrégia Corte Estadual.
+13. Para fins de prequestionamento, basta que a decisão recorrida esteja suficientemente fundamentada, sendo desnecessária a manifestação expressa sobre todos os argumentos e dispositivos legais apresentados pelas partes.
+14. Agravos regimentais conhecidos e desprovidos." (e-STJ fl. 1500/1503)
+Embargos de Declaração: opostos, por HSBC BANK BRASIL S/A (atual denominação de KIRTON BANK S/A - BANCO MÚLTIPLO), foram acolhidos para fixar o termo inicial dos juros de mora a partir da citação do devedor na fase de conhecimento da ação civil pública; opostos, por BV FINANCEIRA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO, foram rejeitados.
+Recurso especial: alegam violação dos arts. 82, IV, 94, 97, Lei 8.078/90, 219, 535, I, 543-B, § 4º, 543, § 7º, II, CPC/73, 396, 397, CC/02, 2º-A, Lei 9.494/1997, 4º, VI, IX, 9º, Lei 4.595/64, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentam que: i) a legitimidade ativa do agravado deve observar precedente da Suprema Corte; e, ii) o acórdão recorrido contrariou norma constitucional ao deixar de reconhecer que a sentença abrangeria somente os substituídos do agravado; e, iii) a cobrança da TEC era devida e autorizada pelo órgão normativo competente, não havendo que se falar em abusividade; e, iv) o acórdão recorrido viola o termo inicial dos juros moratórios, contrariando dispositivos legais.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Sady d"Assumpção Torres Filho, opina pelo desprovimento dos presentes agravos em recurso especial e agravos internos no recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/73.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 535 do CPC/1973
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelos agravantes não demonstram como o acórdão recorrido violou os arts. 82, IV, Lei 8.078/90, 4º, VI, IX, 9º, Lei 4.595/64, 219, 543, § 7º, II, CPC/73, 396, 397, CC/02, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 543-B, § 4º, CPC/73, 2º-A, Lei 9.494/1997, 94, 97, Lei 8.078/90, indicados como violados, não tendo os agravantes opostos embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que os documentos analisados às fls. 20/35 levaram a Corte local a entender pela legitimidade ativa do agravado, uma vez que preenchidos os requisitos legais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 (e-STJ fls. 1497) para R$ 5.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação Civil Pública.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Agravo conhecido. Recurso especial não conhecido.
