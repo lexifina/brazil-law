@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AGRAVO DE INSTRUMENTO. PREVENÇÃO. COMPETÊNCIA TERRITORIAL. ART. 219 DO CPC/1973. CITAÇÃO VÁLIDA. MOMENTO. CIÊNCIA DE QUE CORRE CONTRA SI UMA AÇÃO JUDICIAL. DATA DE ASSINATURA NO AVISO DE RECEBIMENTO PELO RÉU. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno manejado por COOPERATIVA MISTA AGROPECUÁRIA DO BRASIL - COOPERMIBRA contra decisão assim ementada:
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. PREVENÇÃO. DIFERENÇA DE COMPETÊNCIA TERRITORIAL. PREVENTO O JUÍZO PERANTE O QUAL PRIMEIRO SE EFETIVOU A CITAÇÃO VÁLIDA. ART. 219 DO CPC/1973. ATO CITATÓRIO. MOMENTO. ASSINATURA DO AVISO DE RECEBIMENTO PELO RÉU. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL." (e-STJ fl. 651).
+Em suas razões, a Cooperativa agravante explica que a controvérsia reside em saber qual o momento em que ocorreu a citação válida para fins de aferição da prevenção. Diz que:
+"No caso em questão, na Ação Declaratória em trâmite em Campo Mourão/PR, movida pela Coopermibra (autora), o Banco BBM foi citado em 27/03/2009, mediante comparecimento espontâneo ocorrido com a retirada dos autos em carga. Na Execução em trâmite no Rio de Janeiro/RJ, movida pelo Banco BBM (exequente), os Executados (Coopermibra e outro) assinaram o mandado de citação no dia 25/03/2009 e, antes da juntada da carta precatória aos autos da Execução, os Executados apresentaram Embargos à Execução, em 15/04/2009, considerando-se citados por comparecimento espontâneo." (e-STJ fl. 662, grifo no original).
+Aduz que o aresto reclamado considerou prevento o juízo de Campo Mourão/PR, enquanto que a decisão agravada considerou que a citação concretizou-se-primeiramente na ação de execução em trâmite no juízo do Rio de Janeiro, sendo assim, declarou-se prevento este último.
+Diz que a interpretação dada ao artigo 219 do Código de Processo Civil/1973 na decisão ora agravada foi a de que a data da assinatura do réu no mandato de citação caracterizou a citação válida, contudo aponta decisões monocráticas deste Superior Tribunal de Justiça em sentido contrário (CC n.º 104.148/MT, REsp n.º 1.139.603/RJ, AgRg no REsp n.º 1.100.838/AL e REsp n.º 1.362.534/DF), a demonstrarem que a citação válida ocorre com a juntada aos autos do ato citatório.
+Impugnação de BANCO BBM S/A às e-STJ fls. 676/686 na qual pleiteia a manutenção da decisão agravada por estar em consonância com a jurisprudência desta Corte Superior, o que não pode ser afastado com base em decisões monocráticas sem identidade fática com o contexto ora analisado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AGRAVO DE INSTRUMENTO. PREVENÇÃO. COMPETÊNCIA TERRITORIAL. ART. 219 DO CPC/1973. CITAÇÃO VÁLIDA. MOMENTO. CIÊNCIA DE QUE CORRE CONTRA SI UMA AÇÃO JUDICIAL. DATA DE ASSINATURA NO AVISO DE RECEBIMENTO PELO RÉU. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Constato, do confronto entre as razões do agravo interno e a fundamentação do julgado recorrido, que a parte agravante não traz fundamentos capazes de infirmar as conclusões tiradas no decisum objurgado.
+Dessa forma, deve ser mantido o entendimento firmado pela decisão agravada.
+Com efeito, pretende a parte agravante fazer prevalecer a tese de que a melhor interpretação a ser dada ao artigo 219 do CPC/1973 é a de que o momento de efetivação da citação válida, a conferir prevenção ao juízo, é determinado pela data de juntada aos autos do ato citatório.
+Contudo, consoante entendimento firmado pela Terceira Turma desta Corte Superior, a citação ocorre no momento em que o réu tem ciência de que está sendo demandado.
+Colho do voto proferido pela eminente Ministra Nancy Andrighi, relatora do Recurso Especial n.º 1.155.114/MT, ter sido analisada tese recursal de que, na citação realizada pelo correio, deveria ser considerada, para fins de prevenção, a data da juntada aos autos do aviso de recebimento correspondente.
+Entretanto, no julgado em cotejo, houve a conclusão de que o juízo prevento é aquele no qual o destinatário recebeu a carta citatória primeiramente.
+Trata-se de questão controversa similar à que aqui se faceia. Vejamos:
+" ..  pode-se afirmar que, obedecidos os requisitos legais estipulados para a prática do ato, a citação ocorre no momento em que o réu tem ciência de que está sendo demandado. A assinatura aposta no aviso de recebimento, quando a citação é realizada pela via postal, traduz a certeza jurídica dessa cientificação (art. 223, parágrafo único, do CPC).
+De acordo com o disposto no art. 219, caput, desse diploma legal - e no que interessa ao particular - a citação válida produz o efeito de tornar prevento o juízo que a ordenou.
+Assim, na hipótese de tramitarem, em juízos distintos, ações conexas, a competência para seu processamento e julgamento é daquele que promoveu, em primeiro lugar, a citação válida.
+Conforme se depreende da norma do art. 247 do CPC, válida é a citação feita com observância das prescrições legais, dentre as quais não se inclui - ao contrário do que defende a recorrente - a juntada aos autos do aviso de recebimento da carta correspondente.
+De fato, os requisitos que devem ser preenchidos para que o ato em questão seja considerado válido, além do respeito à modalidade adequada para cada hipótese (via postal, por mandado, por edital) e da observância das causas impeditivas de sua realização (doença grave, morte de familiar, bodas), estão previstos no art. 223 do CPC.
+É obrigatório, em regra, que a carta citatória contenha cópia da petição inicial e do despacho ordinatório do juiz, advertência de que a ausência de contestação implicará presunção de veracidade dos fatos, bem como comunicação acerca do prazo para resposta e indicação do juízo perante o qual tramita a ação. Exige-se, igualmente, que a carta seja registrada e que o recibo seja assinado pelo citando.
+Dessas considerações, conclui-se que o dispositivo legal invocado nas presentes razões recursais - art. 241, I, do CPC - não estabelece requisito de validade para o ato citatório, mas, como expressamente nele previsto, indica o marco inicial da fluência dos prazos processuais, com o que não se confunde.
+A respeito do tema, oportuna se revela a lição do professor Cândido Dinamarco, segundo o qual
+o diferimento do início dos prazos não significa que o ato de comunicação só se aperfeiçoe quando documentado nos autos. O réu considera-se citado desde que recebida a ciência transmitida e isso gera de imediato consequências em relação à prevenção do juízo  .. . Falar em dia do início de prazos não é o mesmo que falar em perfeição dos atos de comunicação processual (DINAMARCO, Cândido Rangel. A Reforma do Código de Processo. 5ª edição. São Paulo: Malheiros Editores, 2001, pp. 96/97 -  .. ).
+A interpretação conferida pela recorrente às normas dos arts. 219 e 241 do CPC, no sentido de que a juntada aos autos do aviso de recebimento constitui requisito de validade da citação, não se coaduna, portanto, com o texto legal.
+No particular, da moldura fática delineada pelas instâncias ordinárias, depreende-se que a carta citatória relativa ao processo que tramita em Porto Alegre/RS foi recebida pelo seu destinatário em momento anterior àquela concernente à ação proposta em Jaciara/MT, de modo que se afigura correta a reunião dos processos no Juízo da 1ª Vara Cível do Foro Regional do Sarandi (Comarca de Porto Alegre), conforme decidido pelo Tribunal de origem." (grifei).
+O julgado em estudo obteve a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. PREVENÇÃO. CITAÇÃO VÁLIDA. MOMENTO. DATA DO RECEBIMENTO DA CARTA.
+1. Na hipótese de tramitarem, em juízos distintos, ações conexas, a competência para seu processamento e julgamento é daquele que promoveu, em primeiro lugar, a citação válida. Regra da prevenção.
+2. Obedecidos os requisitos legais estipulados para a prática do ato, a citação ocorre no momento em que o réu tem ciência de que está sendo demandado. A assinatura aposta no aviso de recebimento, quando a citação é realizada pela via postal, traduz a certeza jurídica dessa cientificação.
+3. O art. 241, I, do CPC - que regula o marco inicial da fluência de prazos processuais - não estabelece requisito de validade para o ato citatório.
+4. Recurso especial não provido.
+(REsp 1155114/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 21/11/2012).
+No mesmo sentido: " ..  a citação válida ocorre a partir do momento em que o réu tem ciência inequívoca da ação, o que não coincide com a juntada do AR ao processo, e sim com a data do recebimento da citação, aposta no comprovante" (Decisão no REsp n.º 1.273.555/RS, Ministro HERMAN BENJAMIN, Publicação em 04/11/2011).
+De fato, havendo diferença de competência territorial para o julgamento de ações conexas, torna-se prevento o juízo perante o qual primeiro se efetivou a citação válida.
+A esse respeito, o artigo 219 do Código de Processo Civil/1973 é claro, não deixando campo à hesitação, quando dispõe, in verbis:
+Art. 219. A citação válida torna prevento o juízo, induz litispendência e faz litigiosa a coisa; e, ainda quando ordenada por juiz incompetente, constitui em mora o devedor e interrompe a prescrição. (Redação dada pela Lei nº 5.925, de 1º.10.1973)
+O caso concreto em deslinde tem origem no agravo de instrumento interposto pela Cooperativa ora recorrente contra decisão que declarou a conexão entre a Ação Declaratória originária, a Ação de Execução sob nº 63089-77.2009.8.19.0001 e os Embargos à Execução n.º 108252-80.2009.8.19.0001, determinando a reunião dos processos para julgamento em conjunto, com a remessa dos autos ao juízo da 22.ª Vara Cível do Rio de Janeiro.
+O Tribunal estadual enfrentou o tema dando provimento ao recurso para declarar "como competente a 2ª Vara Cível e da Fazenda Pública da Comarca de Campo Mourão para processamento e julgamento em conjunto da Ação Declaratória nº 0005897-96.20098.8.16.0058, da Execução de Título Extrajudicial nº 0108252-80.2009.8.19.0001 e respectivo Embargos à Execução nº 0108252-80.2009.8.19.0001" (e-STJ fl. 422), nos termos dos seguintes fundamentos:
+"Isso porque, consoante se extrai do corpo do decisum, essa 14ª Câmara Cível considerou que o ato processual que demarcou a citação válida, para efeitos da aferição da prevenção, não foi a assinatura dos Agravantes no Mandado de Citação decorrente da Carta Precatória nº 26/2009, mas, sim, o comparecimento espontâneo do Embargante.
+Afinal, como é cediço, considera-se válida a citação, iniciando o prazo para defesa, com a JUNTADA aos autos do aviso de recebimento, do mandado de citação cumprido pelo oficial de justiça ou da carta precatória devidamente cumprida (art. 241, CPC).
+E, como bem se observa do caderno processual, os Agravantes ASSINARAM a documentação referente a citação na data de 20 e 25 de março de 2009, contudo, a Carta Precatória nº 26/2009 somente foi JUNTADA aos autos da Execução em 07/04/2009.
+Ocorre que, anteriormente à referida juntada, na data de 27/03/2009 o Embargante compareceu espontaneamente aos autos.
+Com efeito, haja vista a citação do Banco Embargante na Ação Declaratória ocorreu em 27/03/2009, antes da citação dos Embargados na Execução (07/04/2009), há inequívoca prevenção do Juízo da 2ª Vara Cível da Comarca de Campo Mourão." (e-STJ fls. 447/448, grifei).
+Do excerto supra, dessume-se que o Tribunal recorrido andou em dissonância com o entendimento deste Superior Tribunal de Justiça no sentido de que a citação válida opera-se no momento em que o réu tem ciência de que corre contra ele uma ação judicial, ou seja, perfaz-se com a assinatura subscrita no aviso de recebimento.
+Nesse contexto, nada a reparar no entendimento firmado pelo decisum ora combatido. Com efeito, houve a conclusão de que o ato citatório concretizou-se primeiramente na ação de execução (em 25/3/2009), encontrando-se prevento o Juízo da 22ª Vara Cível do Rio de Janeiro - RJ.
+A pretensão recursal contida no presente agravo interno es barra, pois, no óbice da Súmula 83/STJ.
+Assim, mantenho a decisão agravada por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
