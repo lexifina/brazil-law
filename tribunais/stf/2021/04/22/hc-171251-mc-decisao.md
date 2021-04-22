@@ -1,0 +1,29 @@
+DECISÃO
+NULIDADE – RELEVÂNCIA – AUSÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Santo Estevão/BA, no processo nº 0004659-70.2016.8.05.0230, recebeu denúncia mediante a qual imputados ao paciente os crimes dos artigos 33 (tráfico de drogas) da Lei nº 11.343/2006, 16, parágrafo único, inciso II (modificação das características de arma de fogo), da Lei nº 10.826/2003 e 304 (uso de documento falso) do Código Penal. Designou audiência de instrução e julgamento para 5 de dezembro de 2016 e reagendou-a para 10 de janeiro de 2017.
+    A defesa formulou pedido de adiamento da audiência, dizendo-a remarcada para data no período de recesso forense. Articulou com a falta de urgência, afirmando tratar-se de réu solto por força de ordem deferida em habeas corpus impetrado no Tribunal de Justiça.
+    No dia do ato, o Juízo não acolheu o pedido. Salientou a iminência da remoção do réu para presídio situado em outra unidade da Federação, tendo em vista ordem de prisão em processo diverso. Destacou a inaplicabilidade, aos processos criminais, de suspensão dos prazos em razão do recesso forense. Citou o artigo 797 do Código de Processo Penal. Nomeou defensor dativo, considerado o não comparecimento do advogado constituído, apesar de intimado pessoalmente.
+    Condenou o paciente a 16 anos, 8 meses e 20 dias de reclusão, no regime fechado, e 714 dias-multa, em virtude dos crimes dos artigos 33 (tráfico de drogas) da Lei nº 11.343/2006, 16, parágrafo único, inciso II (modificação das características de arma de fogo), da Lei nº 10.826/2003, 1º (lavagem de dinheiro) da Lei nº 9.613/1998 e 304 (uso de documento falso) do Código Penal.
+    A Primeira Turma da Primeira Câmara Criminal do Tribunal de Justiça desproveu apelação.
+    Formalizado o habeas corpus nº 0000135-07.2017.8.05.0000, a Primeira Câmara Criminal indeferiu a ordem.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 498.671/BA. O Relator declarou o prejuízo da impetração, ante superveniência de sentença condenatória.
+    Os impetrantes sustentam constrangimento ilegal decorrente da realização de audiência de instrução em período de recesso forense. Sublinham o argumento de não haver urgência, uma vez que, à época, o paciente estava solto. Apontam prejuízo, ante nomeação, para o ato, de advogado dativo. Têm como inobservado o verbete nº 523 da Súmula do Supremo. Assinalam designada audiência para data anterior ao término do prazo de apresentação de defesa escrita. Realçam lastreada a condenação em prova ilícita, reportando-se à liminar implementada por Vossa Excelência no habeas corpus nº 144.907, por meio da qual determinado o desentranhamento do Laudo de Perícia Criminal nº 1016/2016, elaborado pelo Setor Técnico-Científico da Superintendência Regional de Polícia Federal no Estado da Bahia. Dizem ter o Juízo utilizado prova derivada do laudo visando fundamentar a sentença.
+    Requerem, no campo precário e efêmero, o reconhecimento da nulidade da audiência e da sentença. Buscam, alfim, a confirmação da providência, com o desentranhamento das provas consideradas ilícitas.
+    Em 18 de setembro de 2017, na impetração de nº 144.907, Vossa Excelência deferiu medida acauteladora, determinando o desentranhamento do Laudo de Perícia Criminal nº 1016/2016, elaborado pelo Setor Técnico-Científico da Superintendência Regional de Polícia Federal no Estado da Bahia. A Primeira Turma, em 1º de outubro de 2019, inadmitiu o habeas corpus, tornando insubsistente a liminar.
+    Neste Tribunal, insurgindo-se contra a audiência ocorrida no período de recesso, impetrou-se, em favor do paciente, o habeas corpus nº 163.427. Vossa Excelência, em 21 de setembro de 2020, deixou de implementar medida de urgência. A Primeira Turma, na Sessão Virtual encerrada em 23 de outubro de 2020, por unanimidade, indeferiu a ordem.
+    2. Quanto à realização da audiência, cumpre reiterar a óptica adotada no julgamento, pela Primeira Turma, do habeas corpus nº 163.427:
+    […]
+    2. Observem que o Juízo redesignou a audiência de instrução e julgamento para o dia 10 de janeiro de 2017, sob o fundamento de não ter decorrido o prazo para apresentação da resposta à acusação. Consta do termo de audiência o indeferimento do pleito de adiamento formulado pela defesa, tendo em vista a iminente transferência do paciente para outro presídio, por força de mandado de prisão emitido por Juízo de Comarca diversa.
+    Atentou-se para o requisito de urgência previsto no artigo 2º do Ato nº 06/2016 do Órgão Especial do Tribunal de Justiça do Estado da Bahia:
+    Art. 2º Nesse mesmo período, fica vedada a realização de audiências e de sessões de julgamento, inclusive as anteriormente designadas, bem como a publicação de notas de expediente, na primeira e segunda instâncias, exceto aquelas consideradas urgentes ou relativas aos processos penais envolvendo réus presos, nos processos vinculados a essa prisão.
+    Acresce não estar configurado o óbice versado no artigo 797 do Código de Processo Penal – a realização de sessão de julgamento em dia feriado.
+    […]
+    No tocante à alegação de lastrear-se a condenação em prova ilícita, a Primeira Turma, na apreciação do mérito do habeas corpus nº 144.907, tornou insubsistente a liminar. Conforme assentado no acórdão decorrente do exame da apelação, o Juízo, na sentença, deixou de valorar o Laudo de Perícia Criminal nº 1016/2016, em observância à medida acauteladora implementada no habeas corpus nº 144.907, estando a conclusão no sentido da culpa do paciente respaldada em dados de convicção autônomos.
+    3. Indefiro a liminar.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 22 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
