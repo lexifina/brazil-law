@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão proferido no HC 612.036/MG, no âmbito do Superior Tribunal de Justiça, assim ementado (eDOC 10, p. 41):
+    EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO APONTADO COMO COATOR. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO, AO QUAL SE NEGA PROVIMENTO.
+    1. Embargos declaratórios com nítidos intuitos infringentes devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+    2. Inviável a análise, diretamente por esta Corte superior, de matéria não debatida pelo Tribunal estadual no ato apontado com coator, sob pena de incorrer em indevida supressão de instâncias.
+    3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+    Narra o recorrente que: a) foi preso em 27.5.2019 pela suposta prática de homicídio; b) a decisão de pronúncia foi proferida em 1º.10.2019, mantendo, sem fundamentação suficiente, a custódia cautelar; c) o Tribunal de origem negou provimento ao recurso em sentido estrito para manter a pronúncia e a prisão preventiva, pelos mesmos fundamentos do Juízo de primeiro grau; d) não houve revisão da necessidade de manutenção da cautelar no prazo de 90 (noventa) dias; e) há excesso de prazo na formação da culpa, tendo em vista que o paciente está preso há mais de 01 (um) ano e 6 (seis) meses, sem previsão de data para o julgamento perante o Tribunal do Júri, por circunstâncias que não podem ser atribuídas à defesa; f) o acórdão que julgou o RESE até hoje não possui certidão de trânsito em julgado, sendo que o processo está parado na secretaria da 8ª Câmara Criminal há aproximadamente 6 (seis) meses, sem justificativa legal; g) não há contemporaneidade dos argumentos apresentados para a manutenção da cautelar.
+    À vista do exposto, requer a revogação da prisão preventiva, sem prejuízo da imposição de medidas cautelares diversas.
+    Em 3.12.2020, indeferi a liminar, determinei fossem solicitadas informações e, após, encaminhados os autos à PGR (eDOC 13).
+    As informações foram prestadas (eDOC’s 17 e 18) e a Subprocuradora-Geral da República manifestou-se pelo não conhecimento do recurso ordinário.
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    1.1. De início, no que diz respeito à alegada falta de fundamentação para a manutenção da prisão preventiva, verifico, na linha do que sustentado no parecer da PGR, que a matéria “não foi sequer tangenciada no âmbito do STJ.” (eDOC 20), de modo que o conhecimento originário por esta Corte configuraria supressão de instância.
+    Convém destacar que o Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESSUPOSTOS DE RECURSO NO SUPERIOR TRIBUNAL DE JUSTIÇA. OBJETO DA IMPETRAÇÃO NÃO EXAMINADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (HC 194.688 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, DJe 19.02.2021)
+    “Inviável o exame de teses defensivas não analisadas pelas Cortes anteriores, sob pena de indevida supressão de instância. Precedentes.” (HC 191.940 AgR, Relator(a): ROSA WEBER, Primeira Turma, DJe 17.02.2021)
+    “A orientação jurisprudencial deste Supremo Tribunal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma).”(HC 191.440 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, DJe 08.01.2021)
+    1.2. Por outro lado, importa observar que, de acordo com as informações prestadas, o Tribunal local negou provimento ao recurso em sentido estrito interposto pelo ora recorrente, por meio de acórdão que transitou em julgado em 26.11.2020, sendo os autos remetidos ao Juízo do Tribunal do Júri em 1º.12.2020.
+    A Juíza Presidente do III Tribunal do Júri noticiou que o processo está na fase de diligências e que “tão logo sejam apontadas pela Defesa e MP as diligências do art. 422 do CPP e, devidamente cumpridas, será designada a data para a realização da Sessão Plenária.”
+    Dessa forma, não depreendo, por ora, excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus. Embora destoe do ideal, o transcurso revela-se razoável e proporcional às intercorrências e à complexidade do processo e, ao que tudo indica, o julgamento da causa é iminente.
+    Assim, conforme as informações prestadas, a marcha processual estabelecida, até o momento, não destoa da normalidade, haja vista que, repise-se, o desfecho da ação penal já se avizinha.
+    2. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 22 de abril de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
