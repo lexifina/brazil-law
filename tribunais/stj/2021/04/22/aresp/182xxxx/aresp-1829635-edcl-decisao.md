@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EQUATORIAL ALAGOAS DISTRIBUIDORA DE ENERGIA S.A., à decisão de fls. 983/984, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A certidão de fls. e-STJ Fl.883 noticia que o acórdão recorrido foi disponibilizado em 19/03/2020 e considerar-se-ia publicado no próximo dia útil subsequente que, em princípio, seria o dia 20/03/2020, todavia não o foi.
+Ocorre que, em razão da pandemia decorrente do covid-19, os prazos processuais foram suspensos pelo E. TJAL, circunstância que foi devidamente apontada pela Recorrente e comprovada nos autos. Conforme fls. e-STJ Fl.797:
+ ..
+Além do mais, ao contrário do que foi consignado na decisão debatida, consta das fls. e-STJ Fl.815 a e-STJ Fl.819 o citado Ato Normativo Conjunto n. 04/2020 que suspendeu os prazos processuais: (fl. 995).
+ ..
+O comando foi, em verdade, repetido pelo TJAL após o CNJ ter determinado com abrangência nacional (não se tratando apenas de suspensão meramente local), por meio de sua Resolução n. 313, de 19 de março de 2020, os prazos processuais igualmente até o dia 30 de abril de 2020.
+Acrescente-se, ainda, que o primeiro dia após o término dos efeitos do citado ato normativo foi justamente o dia 01/05/2020 que é um feriado nacional (dia do trabalho) previsto pela Lei n. 662/1949 e, portanto, desnecessária a comprovação.
+ ..
+Além do mais, os dias 02/05/2020 e 03/05/2020 foram, respectivamente, sábado e domingo com cômputo excluído pelo art. 219 do CPC.
+Nesse sentido, o primeiro dia útil após a disponibilização do acórdão foi realmente o 04/05/2020 (segunda-feira), sendo o fatal, portanto, o dia 25/05/2020, levando em consideração os arts. 219 e §2º do art. 224 do CPC: (fl. 996).
+ ..
+Tanto o é que a d. Vice-Presidência do E. Tribunal de Justiça de Alagoas confirmou a tempestividade em Decisão de fls. e-STJ Fl.899/ e-STJ Fl.903 a seguir colacionada: (fl. 997).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 19/3/2020, considerando-se publicada em 20/3/2020 (fl. 792). Excluindo-se o dia 20/3/2020 (primeiro dia), o período de 21/3 a 30/4/2020 (suspensão dos prazos pelo CNJ - Resolução n. 313/2020), bem como o dia 1º/5/2020 (feriado nacional), inicia-se a contagem no dia 4/5/2020, finalizando o prazo no dia 22/5/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 22/5/2020, sendo que o recurso especial foi interposto somente em 25/5/2020, fora do prazo.
+É certo que, com a novel legislação processual, nos termos do art. 219, "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Por sua vez, nos termos do art. 216 do CPC, "Além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense".
+Conclui-se, portanto, que para fins de contagem dos prazos processuais, somente serão considerados os dias da semana (de segunda a sexta-feira), desde que não sejam feriados e desde que tenha havido expediente forense. Assim, de outra forma, se durante a semana houver algum dia que seja feriado ou que não tenha havido expediente forense, ele se torna um dia "não-útil", para fins de contagem de prazo processual, sendo excluído da respectiva contagem, se devidamente comprovado.
+Ocorrendo feriado local na capital, ou qualquer outra intercorrência que acarrete a suspensão do expediente forense, deve a parte providenciar, no ato da interposição do recurso, a comprovação por meio de documento idôneo, conforme determina o § 6º do art. 1.003 do CPC e a jurisprudência desta Corte, caso contrário, os dias serão considerados úteis para todos os efeitos.
+No caso, a resolução n.º 313/2020 do CNJ apenas suspendeu o curso dos prazos processuais no período de 19/03 a 30/04/2020, mas não a prática dos atos.
+Assim, conforme previsto no art. 212 c/c art. 216 do CPC, como os atos poderão ser realizados em qualquer dia útil, não há impedimento para a realização da publicação e/ou intimação no período da suspensão dos prazos estabelecidos pela resolução.
+No mais, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
