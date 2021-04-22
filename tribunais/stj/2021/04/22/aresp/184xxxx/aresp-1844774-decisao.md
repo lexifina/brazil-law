@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por IGOR PAZ GREGORIO FERREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar o acórdão de fls. 199/202, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia em exame, aponta a Defesa ultraje dos arts. 155, caput, e 157, ambos do CPP, ao raciocínio de que, como o maculado reconhecimento do increpado pela vítima, "dentro de uma viatura policial" (fl. 223), não evidencia a imputada prática do crime de roubo circunstanciado, mas, apenas ad argumentandum, mera "indicativa de receptação" (fl. 220), o restabelecimento do édito absolutório primevo é medida de rigor, consoante recente entendimento perfilhado pelo Pretório Excelso em casos análogos.
+Para tanto, explicita os seguintes argumentos:
+Como consta da r. sentença, o RECORRENTE sempre negou o delito. (fls. 216).
+Os policiais apenas visualizaram o RECORRENTE retirando peças do veículo. (fls. 216).
+tempo esconder as armas utilizadas no roubo. . Quero destacar que a vítima disse, categoricamente, que o RECORRENTE não é a pessoa que ela viu no dia na viatura. Questionado, disse com certeza que o RECORRENTE não é a pessoa que a roubou. (fls. 219).
+a regra do direito probatório pena, neste caso, determina a absolvição. (fls. 220).
+A hipótese não é apenas de violação ao artigo 155, do Código de Processo Penal, mas de violação às mais fundamentais noções do processo penal democrático, em especial o direito ao devido processo legal, ao contraditório e à ampla defesa. (fls. 220).
+O RECORRENTE, segundo os policiais, se encontrava desmanchando o veículo, conduta que pode ser indicativa de receptação. O único elemento que o vincula ao roubo é o reconhecimento da vítima. (fls. 220).
+Na hipótese acima, em delegacia, foi realizado um reconhecimento fotográfico. (fls. 223).
+Na hipótese dos autos, apresentou-se um sujeito de boné e moletom dentro de uma viatura, preso após mexer no veículo da vítima. Ou seja: em situação cujo induzimento era ainda mais fácil. (fls. 223).
+Diante o exposto, requer a ABSOLVIÇÃO do RECORRENTE, além do reconhecimento da ilicitude do reconhecimento extrajudicial, que a vítima narrou ter ocorrido ao olhar dentro de uma viatura policial. (fls. 223).
+É, no essencial, o relatório. Decido.
+No que concerne ao tema controvertido, o Tribunal bandeirante, ao rejeitar os embargos de declaração opostos pela Defensoria, consignou:
+Irresignado, interpôs o condenado, através da ilustrada Defensoria Pública do Estado de São Paulo, os presentes embargos de declaração, para efeito de prequestionamento, objetivando que seja sanada omissã o do v. ac órdão embargado "em relação aos artigos 155 e 157, do Código de Processo Penal e à regra do ônus da prova".
+ ..
+Requer, pois, a absolvição do embargante, "além do reconhecimento da ilicitude do reconhecimento extrajudicial, que a vítima narrou ter ocorrido ao olhar dentro de uma viatura policial".
+ ..
+O v. Acórdão embargado, "data venia", não contém ambigüidade, obscuridade, contradição ou omissão, uma vez que deu provimento ao apelo ministerial, para condenar o embargante, por entender bem provadas a autoria e materialidade do crime de roubo qualificado pelo emprego de arma, pelo qual foi ele denunciado, fundamentos esse bem explicitados no v.
+acórdão embargado.
+Depreende-se dos embargos, que o que pretende o embargante não é suprir omissão do acórdão, aliás, inexistente, mas modificar o julgamento, a fim de ser mantida a r. sentença de primeiro grau, que o absolveu, com fundamento no artigo 386, inciso VII, do CPP.
+Ocorre que a via processual eleita não se presta a essa finalidade, ante os estreitos limites da norma disciplinadora de seu cabimento, restrita à correção de "error in procedendo" e não de "error in judicando", pois a jurisprudência de nossos Tribunais tem arredado, sistematicamente, embargos declaratórios, com feição de infringentes.
+ ..
+Assim, não pode o embargante pretender, como na hipótese, rediscutir a prova ou qualquer outro tema por esta via, transformando os embargos de declaração em segunda apelação, sem qualquer amparo legal.
+Na realidade, embargos declaratórios com efeito infringente ou modificativo só podem ser acolhidos em situações excepcionais, quando a decisão tenha adotado premissa equivocada ou errônea, o que não se verifica no caso presente. (fls. 200 e 201 - g.m.)
+Em prefácio,no tocante ao ventilado vilipêndioaos arts. 155, caput, e 157, ambos do CPP, depreende-se que tal intento não merece cognição, por incidência do óbice consolidado na Súmula n. 211/STJ, uma vez que o aventado enfoque recursal alhures e a inteligência dos preceitos federais aludidos não foram alvo de apreciação e deliberação pela Corte de origem, malgrado a oposição dosembargos de declaração às fls. 184/197.
+Com efeito, silente a Defesa quanto à eventual contrariedade do acórdão guerreado ao art. 619 do CPP, não se conhece do apelo raro, nessa extensão, porquanto ausente o indispensável requisito especialdo prequestionamento.
+Sobre o tema, este Tribunal Superior reputa: "Inadmissível recurso especial quanto à questão que, "a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010 - g.m.).
+Com efeito, "Inviável, neste Sodalício, a apreciação das matérias que não foram debatidas nas instâncias de origem, ante a indispensabilidade de prequestionamento dos temas recursais e o óbice previsto no Enunciado n. 211 da Súmula deste Superior Tribunal de Justiça. "A permanência da omissão no acórdão recorrido, quando opostos embargos aclaratórios com a finalidade de sanar eventual vício no julgado, requer à defesa arguição da violação ao artigo 619 do CPP", de modo a acusar eventual negativa de prestação jurisdicional, o que não ocorreu na espécie. (AgRg no AREsp 985.373/AM, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/05/2019, DJe 06/06/2019 - g.m.).
+No mesmo flanco, "Os  ..  temas do recurso especial,  ..  não foram expressamente decididos pelo Tribunal de origem, "a despeito da oposição de embargos declaratórios". Incidência da Súmula n.º 211/STJ" (AgRg no REsp 1493636/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/09/2019, DJe 17/09/2019 - g.m.).
+Destarte, "Afasta-se a incidência do óbice da Súmula n. 211/STJ "somente quando se alegar violação ao disposto no art. 619" do Código de Processo Penal" (AgRg nos EDcl no REsp 1465485/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 18/06/2019 - g.m.).
+Mutatis mutandis: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
