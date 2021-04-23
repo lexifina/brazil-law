@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por RODRIGO BORGE REZENDE, contra decisão do Tribunal de Justiça do Estado de Mato Grosso, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"RECURSO DE AGRAVO INTERNO EM APELAÇÃO CÍVEL - DESPROVIMENTO DO APELO INTERPOSTO CONTRA SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS DA AÇÃO REVISIONAL DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - AUSÊNCIA DE ELEMENTOS RELEVANTES PARA A MODIFICAÇÃO DA DECISÃO AGRAVADA - AGRAVO INTERNO DESPROVIDO.
+Deve ser mantida a decisão agravada de desprovimento do apelo interposto contra sentença de improcedência dos pedidos da ação revisional de débito c/c indenização por danos morais, se o agravante não demonstra a impropriedade da decisão, sequer apresenta elementos relevantes que convençam da probabilidade do seu direito" (fl. 379e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 388/396e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO - OMISSÃO - VÍCIO INEXISTENTE - REAPRECIAÇÃO DA MATÉRIA - EMBARGOS REJEITADOS.
+Rejeitam-se os embargos se não configurado o alegado vício da omissão, mas o intento de reformar a decisão embargada.
+"(..) Os Embargos de Declaração constituem recurso de contornos rígidos e destinado a promover a integração do decisum omisso, obscuro ou contraditório. Não se prestam a rediscutir o mérito. 3. A controvérsia foi integralmente solucionada, com motivação suficiente e em consonância com o entendimento do STJ sobre a matéria, não se configurando omissão, contradição ou obscuridade no aresto embargado. 4. Embargos de Declaração rejeitados"(EDcl no AgRg no AREsp 708.526/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016).
+"(..) Ainda que para fins de prequestionamento, os embargos devem, necessariamente, apontar a obscuridade, contradição ou omissão presente no acórdão recorrido"(N.0 1000784-75.2017.8.11.0003, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, GUIOMAR TEODORO BORGES, Quarta Câmara de Direito Privado, Julgado em 16/12/2019, Publicado no DJE 18/12/2019)" (fl. 417e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 7º, 489, § 1º, VI, 1.022 do CPC/2015, 6º, VI, VIII e 14 do CDC, sustentando: a) a nulidade do acórdão, por omissão acerca do precedente do STJ invocado, b) que houve cerceamento de defesa, ante o indeferimento da produção de prova pericial e oral, c) ser indevida a cobrança, pois não foi demonstrada a autoria na violação do lacre do medidor de consumo.
+Por fim, requer o provimento do recurso.
+Contrarrazões, a fls. 473/483e.
+Inadmitido o Recurso Especial (fls. 492/496e), foi interposto o presente Agravo (fls. 498/520e).
+Contraminuta, a fls. 524/531e.
+A irresignação não merece prosperar.
+De início, em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"A decisão agravada foi proferida nos seguintes termos:
+"(..)
+O apelante argui cerceamento, sob o argumento que a sentença foi proferida sem o deferimento da produção de provas técnicas e a designação de audiência de instrução para oitiva de testemunhas.
+É cediço que não ocorrerá cerceamento de defesa quando a questão de mérito forunicamente de direito, ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência. Deste modo, é facultado ao Magistrado dispensar a produção de provas e julgar antecipadamente a lide quando os elementos existentes nos autos bastaram para formar o seu livre convencimento, nos termos do que estabelece o artigo 355, I do Código de Processo Civil:
+(..)
+A alegação de cerceamento de defesa não é pertinente ao caso dos autos, por entender a magistrada que cabível o julgamento antecipado da lide pela suficiência de provas.
+Ante o exposto, rejeito a preliminar.
+(..)
+Dos documentos em análise, no Termo de Ocorrência e Inspeção - TOI e no Laudo emitido pelo Instituto de Pesos e Medidas de Mato Grosso  IPEM há evidência de irregularidade no medidor da unidade consumidora do apelante, visto que concluíram pela violação de lacres e como resultado final a reprovação do medidor de energia (Inspeção Gera").
+Ademais, como registrado na sentença: "Sabe-se que com a violação dos lacres do medidor é possível o acesso ao interior do equipamento, podendo ocorrer a inversão das linhas como comprovada pelas fotos de id 5877069, não impugnadas pelo autor, ademais verifica-se pelo histórico de consumo do autor (id. 5877071) que houve uma aumento significativo na leitura do consumo dos Kwh nos meses subsequentes a análise do medidor."
+Outro fato pertinente, é que o apelante afirma que após os indícios de irregularidade no medidor, foi notificado que o aparelho estaria sendo encaminhado para avaliação técnica a ser realizada no IPEM-MT no dia 13/09/2016, em atenção ao princípio do contraditório e ampla defesa, de modo que não há como declarar a inexigibilidade do débito e, por consequencial, indevida a indenização buscada pelo autor.
+(..)
+Acerca da responsabilidade, esta é do titular da unidade de consumo por eventual fraude no medidor de energia, já que é quem se locupleta com a irregularidade. Sendo assim, deve o apelante arcar com os valores apurados em vistoria técnica, sob pena de enriquecimento ilícito"(fls. 382/385e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente, referentes ao cerceamento de defesa e à cobrança indevida,somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, paraconhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+I.
