@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MÁRIO HAGEMANN, ANDRE LUIS BERGAMASCHI eGUILHERME TAMBARUSSI BOZZO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurgem contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fls. 1.258-1.263):
+"PENAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO.TRANCAMENTO DE INQUÉRITO POLICIAL. CRIMES CONTRA O SISTEMAFINANCEIRO NACIONAL. ART. 6S DA LEI N. 7.492/86. PROCESSOADMINISTRATIVO. ÓBICE À INVESTIGAÇÃO CRIMINAL. INOCORRÊNCIA.INAPLICABILIDADE DA SÚMULA VINCULANTE N. 24/STF.
+1. A pendência de processo administrativo não obsta a investigação penal porcrime contra o Sistema Financeiro Nacional. Inaplicabilidade da SúmulaVinculante n. 24/STF, pois que o substrato tático dos autos é diverso daqueleprevisto no enunciado.
+2. Afastada a especificidade de se tratar de crime financeiro, o fato sobinvestigação pode vir a ser tipificado pelo crime comum de uso de documentofalso, previsto no artigo 304 do CP, restando prejudicada a pretensão detrancamento do inquérito formulada ao argumento de se tratar, o art. 6ºda Lein. 7.492/86, de crime próprio".
+Em suas razões recursais, a defesa argumenta que: (I) seria inviável iniciar investigação policial relativa ao delito do art. 6º da Lei 7.492/1986 antes da conclusão da apuração da CVM, na esfera administrativa; e (II) a figura delitiva teria natureza de crime próprio, aplicando-se somente aos gestores e administradores de instituições financeiras (o que não é o caso dos recorrentes).
+Com contrarrazões (e-STJ, fls. 1.299-1.305), o apelo nobre foi inadmitido na origem (e-STJ, fls. 1.308-1.310), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 1.350-1.355).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O apelo nobre, todavia, não ultrapassa a barreira do conhecimento, pois os recorrentes não indicaramespecificamente quais seriam os dispositivos de lei federal afrontados pelo acórdão recorrido. Tal circunstância configura deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF.
+Ressalte-se que o recurso especial é de fundamentação vinculada, e por isso exige a indicação ostensiva dos textos normativos federais a que negou vigência o aresto impugnado. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Para inaugurar a instância especial, é imprescindível que o apelo nobre aponte, com precisão, quais dispositivos legais teriam sido violados pela Corte de origem, o que não foi feito no presente caso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
