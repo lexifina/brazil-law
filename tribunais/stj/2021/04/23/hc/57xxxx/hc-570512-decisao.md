@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ está prejudicado, isso, porque sobreveio o julgamento do recurso de apelação(0013815-26.2016.8.14.0006). Confira-se a ementa do acórdão proferido:
+APELAÇÃO PENAL. TENTATIVA DE LATROCÍNIO. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA PROBATÓRIA E IN DÚBIO PRO REO. IMPROCEDÊNCIA. DESCLASSIFICAÇÃO DO DELITO. IMPOSSIBILIDADE. PROVAS SUFICIENTES DE AUTORIA E MATERIALIDADE DELITIVAS. REFORMA DA DOSIMETRIA. PARCIAL PROCEDÊNCIA. RECURSO PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+1 - A inexistência de laudo que indique as lesões sofridas pela vítima não desconfigura o crime de latrocínio, uma vez que a imputação deste delito, ou da sua tentativa, não depende da gravidade da lesão, mas, apenas, da intenção do agente quanto ao resultado. Precedente do STJ.
+2 - Não há que se falar em desclassificação do delito, de vez que ressaem provas suficientes e aptas a embasar a condenação do recorrente pelo delito de tentativa de latrocínio, uma vez que seu animus necandi restou evidenciado nos autos, especialmente das declarações da vítima.
+3 - Reanalisadas as circunstâncias judiciais do art. 59 do CP, em relação ao delito de tentativa de latrocínio, e tendo sido afastadas as valorações negativas dos vetores referentes à personalidade do recorrente, aos motivos e conseqüências do delito, remanescendo desfavoráveis a ele os vetores da culpabilidade, seus antecedentes e as circunstâncias do delito, resta imperioso o redimensionamento da pena referente apenas a este crime, de vez que a dosimetria referente ao delito de corrupção de menores encontra-se irretocável.
+4 - Na escolha do quantum de redução da pena, em razão da tentativa (art. 14, II, do Código Penal - CP), o Magistrado deve levar em consideração o iter criminis percorrido, ou seja, quanto mais próxima a consumação do delito, menor será a diminuição, o que foi devidamente observado no caso concreto.
+5- RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Assim, é patente que o presente writ está prejudicadohaja vista a perda superveniente de objeto, qual seja, o de excesso de prazo para o julgamento da apelação.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
