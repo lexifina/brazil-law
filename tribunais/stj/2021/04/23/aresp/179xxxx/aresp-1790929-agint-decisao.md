@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especialmanejado em razãoda inadmissão, peloTribunal de Justiça do Estado de São Paulo, de recurso especialque impugna acórdão assim ementado:
+AGRAVO DE INSTRUMENTO FASE EXECUTIVA PRESCRIÇÃO INTERCORRENTE - NÃO OCORRÊNCIA - Lapso prescricional que atinge apenas as prestações vencidas no período anterior ao quinquênio que precedeu o ajuizamento da ação de conhecimento - Ausência, ademais, de intimação pessoal da credora para dar andamento ao feito Decisão mantida - Agravo de instrumento desprovido.
+Nas razões dorecurso especial fundamentado na alínea "a" do permissivo constitucional, aponta orecorrente, ora agravante, violação aos arts.2º e 3º do Decreto Lei nº 4.597/42, c/c arts. 1º, 8º e 9º do Decreto nº 20.910/32 e 88 da lei 8.212/91, bem como art. 103 da lei 8.213/91.
+Afirma que "Não existem regras jurídicas que exijam a intimação pessoal como pressuposto para se iniciar a prescrição intercorrente, muito embora exista norma, em sentido oposto, de que ausente necessidade da prévia intimação pessoal para início da prescrição intercorrente".
+Apresentadas contrarrazões às e-STJ fls. 104/106.
+Após juízo negativo de admissibilidade do recurso especial, ascenderam os autos por força de agravo.
+A Presidência do STJ não conheceu do agravo por considerar o recurso especial intempestivo.
+Nas razões do agravo interno, o recorrente argumenta que seu agravo em recurso especial preenche o requisito da dialeticidade recursal, bem como argumenta que a tempestividade do apelo nobre pode ser aferida a partir da análise do documento juntado À e-STJ fls. 100/101. Pugnapela reconsideração da decisão agravada e a consequente apreciação de seu apelo nobre.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que assim dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Com efeito, verifica-se que os argumentos trazidosrevelam-se plausíveis, o que impõe a reconsideração da decisão da Presidênciade e-STJ fls. 133/134.
+Oagravante impugnou os fundamentos adotados na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do recurso especial, passo à sua análise.
+O Tribunal de origem, com base no exame do conjunto fático e probatório contido nos autos, concluiu pela não caracterização daprescrição intercorrente,adotando as seguintes razões de decidir:
+Iniciado o cumprimento da sentença, apresentou-se o cálculo de liquidação no valor de R$ 44.696,07 datado de 10/03/2006 (fls. 32); em 29/03/2007 ocorreu a inscrição do requisitório (fls. 34).
+O ente público efetuou o depósito nos autos, porém, não foi satisfeita integralmente a obrigação, tendo a autora apresentado cálculo sobre o saldo remanescente no valor de R$ 13.332,37 datado de 06/2008; posteriormente, o juiz singular determinou a requisição do pagamento (fls. 43); em seguida houve expedição de ofício requisitório datado de 12/01/2010 (fls. 46); por fim, o cartório certificou que o INSS não efetuou o depósito do RPV (fls. 47).
+Ora, pelo que consta dos autos, a obreira não foi intimada pessoalmente a dar andamento ao feito, o que impede o reconhecimento da alegada prescrição intercorrente.
+Nesse sentido já decidiu reiteradamente o E. Superior Tribunal de Justiça:
+(..)
+Não bastasse isso, importante observar ser o acidentário um direito composto por prestações de trato sucessivo. Há que se compreender, portanto, que as lesões se repetem ao longo do tempo.
+Assim, a interpretação que tem sido feita da lei é aquela que permite o ajuizamento da ação acidentária em qualquer tempo, considerando-se prescritas apenas as parcelas anteriores ao quinquênio que precede o ajuizamento da ação.
+O Tribunala quodestacou não só o entendimento a respeito dos efeitos de eventual prescrição após formação do título judicial e trânsito em julgado, como também, consignou compartilhar do raciocínio e jurisprudência do STJ assentada no sentido de que a contagem daprescrição intercorrentesomente teria início após intimação da parte exequente para prosseguimento do feito, o que não ocorreu.
+O recorrente, no entanto,limitou-se a defender a ocorrência da prescrição executória, não logrando impugnar, especificamente, os fundamentos que serviam de base para a afastar aprescrição intercorrente.
+Com essas considerações, resta patente que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283/STF e 284/STF, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. RAZÕES DISSOCIADAS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+2. Incide à espécie, por analogia, os enunciados das Súmulas 283 e 284/STF. Precedentes do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1671555/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ademais, da leitura do inteiro teor do aresto recorrido verifica-se que o Tribunala quodirimiu a controvérsia adotando, expressamente, osarts. 2º e 3º do Decreto Lei nº 4.597/42, c/c arts. 1º, 8º e 9º do Decreto nº 20.910/32 e 88 da lei 8.212/91, bem como art. 103 da lei 8.213/91, ausente qualquer manifestação acerca da tese recursal com enfoque nos dispositivos legaistidos por violados.
+Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada";"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão de e-STJ fls. 133/134e, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA EM FASE DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NÃO AFERIDA PELO TRIBUNAL A QUO.SÚMULA 283/STF.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
