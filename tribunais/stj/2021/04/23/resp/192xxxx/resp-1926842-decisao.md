@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por KAREN JULIETH ARCE MARTINEZ, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o MM. Juízo de primeiro grau condenou a ora recorrente como incursa nas sanções do art. 155,§§ 2º e 4º, e do art. 180, caput, nos termos do art. 69, caput, todos do Código Penal, à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, no regime inicial aberto, mais 16 dias-multa. Houve substituição por penas restritivas de direitos(fls. 233-241).
+O eg. Tribunal de origem, por unanimidade,negou provimento aorecursode apelação criminal da Defesa, para manter a sentença recorrida(fls. 304-308).
+Opostos embargos de declaração, pela combativa Defesa (fls. 320-321), estes foram rejeitados (fls. 320-321).
+Nas razões do recurso especial (fls. 334-340), interposto com fulcro na alínea a, do permissivo constitucional, a defesa alegou violação que o acórdão violou aoartigo 180, § 5º, do Código Penal. Para tanto, menciona que:
+a) "todos os requisitos, objetivos e subjetivos, previstos no artigo 155, §2º, do Código Penal, foram preenchidos. Diante disto, a Defensoria Pública requereu a aplicação deste dispositivo legal" (fl. 337);
+b) " .. o pequeno valor é entendido pela doutrina de modo objetivo, ou seja, se o bem for inferior ao salário mínimo vigente, encontra-se preenchido o requisito legal" (fl. 338).
+Ao final,"requer seja o presente recurso especial CONHECIDO e PROVIDO para o fim de reconhecer a figura do §5º do artigo 180 do Código Penal, com a consequente redução da pena privativa de liberdade ou a aplicação isolada da pena de multa" (fl. 340).
+Contrarrazões apresentadas (fls. 346-351), a eg.Corte de origem admitiu o recurso (fl. 354).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 363-365):
+"PENAL - PROCESSUAL PENAL - RECURSO ESPECIAL - FURTO QUALIFICADO E RECEPTAÇÃO - RECONHECIMENTO DA FIGURA PRIVILEGIADA DO CRIME DE RECEPTAÇÃO - BEM DE VALOR EXPRESSIVO - DESPROVIMENTO DO RECURSO ESPECIAL"
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Alega a recorrente, em síntese,violação ao artigo 180, § 5º, do Código Penal, ao argumento de que"todos os requisitos, objetivos e subjetivos, previstos no artigo 155, §2º, do Código Penal, foram preenchidos. Diante disto, a Defensoria Pública requereu a aplicação deste dispositivo legal" (fl. 337), e de que " ..  o pequeno valor é entendido pela doutrina de modo objetivo, ou seja, se o bem for inferior ao salário mínimo vigente, encontra-se preenchido o requisito legal" (fl. 338).
+Contudo, quanto aodispositivode lei federal suscitadona insurgência,cumpre destacar que a defesa inobservou o princípio da dialeticidade recursal, pois não infirmou a íntegrafundamentação lançada no acórdão recorrido.
+Com efeito, o eg. Tribunal a quo, ao negar provimento ao recurso de apelação criminal da Defesa, no que importa ao caso, assim se manifestou, in verbis:
+"Para os dois crimes patrimoniais, as básicas foram fixadas nos mínimos legais. Na segunda fase, impendendo reconhecer, conforme iterativa jurisprudência, que à acusada não aproveita sua redução aquém do piso mínimo, em razão da incidência da atenuante da menoridade relativa.
+Reconhecido o furto privilegiado, mostrou-se adequada a redução na fração de um terço (1/3), considerando-se o valor do bem subtraído. O pedido alternativo defensivo de reconhecimento de receptação privilegiada também não merece prosperar, eis que somente cabível na hipótese de receptação culposa" (fl. 308, grifei).
+Da análise do excerto acima transcrito, verifico que os fundamentos destacados no trecho do v. acórdão recorrido, os quais, per se, sustentam o decisum impugnado, não foram especificamente atacados pela insurgente, razão pela qual o recurso não pode ser conhecido, pela aplicação, por analogia, do Enunciado n. 283 da Súmula do c. Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito os precedentes desta Corte:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO SUFICIENTE DA DECISÃO RECORRIDA. SÚMULA N. 283 DO STF. ROUBO TENTADO. DESCLASSIFICAÇÃO PARA LATROCÍNIO TENTADO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Em observância ao princípio da dialeticidade recursal, é dever do recorrente impugnar todos os fundamentos que sejam, por si sós, suficientes para manter a decisão recorrida, sob pena de incidência da Súmula 283 do STF.
+ ..
+3. Agravo regimental desprovido" (AgRg no REsp 1675268/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 22/09/2017, grifei)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR DE SEQUESTRO/ARRESTO. VIOLAÇÃO AO ART. 4º, CAPUT, DA LEI Nº 9.6113/98 E AO ART. 617 DO CÓDIGO DE PROCESSO PENAL. VIOLAÇÃO DO ART. 2º DO CPP E DO ART. 91, § 1º E 2º, DO CP. VIOLAÇÃO DO ART. 125 DO CÓDIGO DE PROCESSO PENAL. NEGATIVA DE VIGÊNCIA AO ART. 136 DO CÓDIGO DE PROCESSO PENAL. CONTRARIEDADE OU NEGATIVA DE VIGÊNCIA AO ART. 282, II, CÓDIGO DE PROCESSO PENAL. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO ABRANGÊNCIA DOS FUNDAMENTOS SUFICIENTES ENCAMPADOS NO RECURSO. SÚMULA N. 283/STF. RECURSO NÃO PROVIDO.
+ ..
+II - Não foram infirmados os fundamentos do acórdão, que, por si só, sustentam o decisum impugnado, razão pela qual, o recurso não pode ser conhecido, nos termos em que aduz a Súmula 283 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo regimental a que se nega provimento" (AgRg no REsp 1669112/RS, Quinta Turma, de minha relatoria, DJe 18/12/2017, grifei)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. PREFEITA MUNICIPAL. FRAUDE À LICITAÇÃO. NULIDADE POR NÃO REALIZAÇÃO DE NOVO INTERROGATÓRIO APÓS A ALTERAÇÃO DO NOVO CPP. MOTIVAÇÃO SUFICIENTE. NÃO IMPUGNAÇÃO. SÚMULA 283/STF. PRINCÍPIO DA CONSUNÇÃO. BIS IN IDEM. SÚMULA 211/STJ. CRIMES DE FRAUDE À LICITAÇÃO E DESVIO DE VERBA PÚBLICA. SUBSUNÇÃO. INEXISTÊNCIA. ATIPICIDADE DO FATO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INVIABILIDADE. IMPROVIMENTO.
+1. Tratando-se de motivação suficiente, por si só, para manter o acórdão recorrido, não tendo o recurso a ele abrangido, incide, por analogia, a Súmula n. 283 do STF, segundo a qual É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+ ..
+6. Agravo regimental improvido" (AgRg no AREsp 621.601/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 05/04/2018, grifei)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. DISSENSO JURISPRUDENCIAL. CONTROVÉRSIA NÃO DELIMITADA. SÚMULA N. 284 DO STF.MERA TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 283 DO STF. APLICAÇÃO PELA DECISÃO AGRAVADA. RECURSO INTERNO. RAZÕES DISSOCIADAS. SÚMULA N. 182 DO STJ. ART. 19, PARÁGRAFO ÚNICO, DA LEI N. 7.492/1986. NULIDADE.INVESTIGAÇÃO QUE TERIA SIDO REALIZADA POR PARTICULARES. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A Súmula n. 283 do Supremo Tribunal Federal foi aplicada em relação à tese de nulidade por indevida quebra do sigilo bancário. O recurso interno, entretanto, sustenta que impugnou todos os fundamentos do acórdão da apelação, no tocante à alegação de que a investigação seria nula, porque teria sido conduzida por particulares. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça, nesse aspecto, por estarem as razões do agravo regimental dissociadas dos fundamentos da decisão agravada.
+ ..
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."(AgRg no REsp 1850296/PR, Sexta Tuma,Rel. Ministra Laurita Vaz, DJe 18/12/2020, grifei)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+P. e I.
+EMENTA
+RECURSO ESPECIAL. FURTO QUALIFICADO. RECEPTAÇÃO. RAZÕES DO RECURSO ESPECIAL QUE NÃO IMPUGNAM A ÍNTEGRA DA FUNDAMENTAÇÃO LANÇADA NO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
