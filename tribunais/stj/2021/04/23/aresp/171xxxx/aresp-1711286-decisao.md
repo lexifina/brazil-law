@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interpostocontra decisão que inadmitiu o recurso especial, em virtude daincidência da Súmula n. 83 do STJ (e-STJ fls. 376/378).
+O acórdão recorrido está assim ementado (e-STJ fls. 309/310):
+CIVIL. AÇÃO ORDINÁRIA. MÚTUO BANCÁRIO. PARCELA MENSAL. DESCONTO. CONTACORRENTE. LIMITAÇÃO EM 30% DO SALÁRIO DO SERVIDOR. IMPOSSIBILIDADE.AUSÊNCIA DE AMPARO LEGAL.
+1. O limite legal de 30% de desconto na remuneração do servidor para pagamento das parcelas mensaisdo empréstimo bancário restringe-se aos contratos que prevêem consignação em folha de pagamento:inteligência do artigo 45, parágrafo único, da Lei n.º 8.112/1990 c/c o artigo 116, § 2º, da LeiComplementar Distrital n.º 840/2011 e artigo 5º do Decreto Distrital n.º 8.690/16.
+2. Não há norma que disponha sobre a limitação para a contratação de outras modalidades deempréstimos bancários, mormente aqueles com descontos realizados diretamente em conta corrente,situação em que há plena liberdade para o servidor contratar.
+3. Se o autor previamente conhecia o quantum que deveria desembolsar para o adimplemento daobrigação assumida com a instituição bancária e se responsabilizou ao pagamento dos valores mediantedesconto mensal em conta corrente, deverá respeitar o contrato devidamente assinado, o qual não secontrapõe à Lei e tampouco se revela abusivo frente às normas insertas no Código de Defesa doConsumidor e na Constituição Federal.
+4. Recurso conhecido e desprovido.
+No recurso especial (e-STJ fls. 325/334), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência, violação dos arts. 8º, 487, VI, 489,§1º,VI, 833, IV, 926 e 927 do CPC/2015, 6º, I, e 51, IV, do CDC, 3º,§2º, da Resolução CMN n. 3.695/2009 e daSúmula n. 603 do STJ.
+Sustentou ofensa aoprincípío da segurança jurídica, pois o acórdão recorrido não observou a jurisprudência desta Corte Superior de limitação dos empréstimos a 30% (trinta porcento) dos rendimentos constantes na conta-corrente.
+Aduziu a ilegalidade de cláusula que autoriza a retenção integral do salário e destacou que (e-STJ fl. 331):
+O fato de ter autorizado os descontos não tem o condão de elidir a necessidade de ser vedado ao Banco de Brasília o desconto de qualquer percentual, para o pagamento das prestações contratuais na conta corrente, tal como vem ocorrendo no caso.
+Da mesma forma que o recorrente autorizou os descontos, é de ciência das partes que tal autorização pode ser revogada pela autora a qualquer momento. O banco gerencia os recursos financeiros do seu cliente conforme o contrato entabulado entre as partes, mas não pode tomar para si o direito da forma de dispor desses valores, tarefa que incumbe a seu titular, o qual poderá oferta outra forma de pagamento do débito, que não seja apenas o desconto em conta corrente.
+No agravo (e-STJ fls. 380/389), afirma a presença de todos os requisitos de admissibilidade do especial.
+O agravante peticionou às fls. 402/403 (e-STJ), pleiteando a concessão da suspensão do feito, tendo em vista que a (e-STJ fl. 402):
+(..) controvérsia repetitiva descrita no Tema 1.085, no qual se discute a "aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários" com descontos na conta corrente, justamente o caso dos autos. Além do mais, houve determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional.
+É o relatório.
+Decido.
+O recurso especial tratou de controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, conforme o Tema n. 1.085, assim delimitado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DISCUSSÃO CONSISTENTE EM DEFINIR SE, NO ÂMBITO DO CONTRATO DE MÚTUO BANCÁRIO, EM QUE HÁ EXPRESSA AUTORIZAÇÃO DO MUTUÁRIO-CORRENTISTA PARA O DESCONTO EM CONTA-CORRENTE DAS CORRELATAS PRESTAÇÕES, É APLICÁVEL OU NÃO, POR ANALOGIA, A LIMITAÇÃO DE 30% (TRINTA POR CENTO) PREVISTA NA LEI N. 10.820/2003.
+1. Delimitação da controvérsia: "Aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário".
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 1.863.973/SP, RelatorMinistro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 23/03/2021, DJe 06/04/2021)
+Assim, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao TJDFT, com a devida baixa nesta Corte, paraque, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-see intimem-se
