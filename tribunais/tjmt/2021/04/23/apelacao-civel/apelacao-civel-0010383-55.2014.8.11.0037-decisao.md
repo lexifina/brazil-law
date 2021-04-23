@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 0010383-55.2014.8.11.0037
+APELANTE: SOUZA CRUZ S/A, VIVIANE RODRIGUES DE ALMEIDA
+APELADO: VIVIANE RODRIGUES DE ALMEIDA, SOUZA CRUZ S/A
+Manifesto meu impedimento para atuar no feito e incidentes posteriores (ar. 147 do CPC - Id. 84120984).
+Redistribua-se.
+Cuiabá, 23 de abril de 2021.
+Des. Guiomar Teodoro Borges
