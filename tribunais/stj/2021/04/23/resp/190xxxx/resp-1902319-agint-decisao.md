@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PECCICACCO ADVOGADOS, contra decisão de fls. 709/710, que não conheceudo seu recurso especial sob o fundamentode que o art. 139, I, do CPC/2015, único dispositivo apontado como violado pela recorrente, não foi apreciado pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+A parte embargante aponta omissão no decisum e sustenta, em síntese, que "não há que se falar no óbice da Súmula356/STF, haja vista que o conteúdo do art. 139 - Princípio da Igualdade - foi devidamente inserido nos Embargos de Declaração Prequestionatórios (itens 10-12 e 15), passando, por isso, a integrar o v. acórdão e atendendo ao requisito do prequestionamento." (fl. 716).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Da leitura das razões do embargo, logo se vê que o embargante constrói sua argumentação no sentido de obter o rejulgamento da causa. Por outras palavras, os embargos, nitidamente, não foram manejados para sanar contradições ou suprir omissões, mas para reverter a decisão que cassou o acórdão do Tribunal de origem por error in procedendo. Todavia, para esse fim, é o agravo interno o recurso adequado.
+Tenho, por isso, que a situação amolda-se ao previsto no art. 1.024, § 3º, do diploma processual civil:
+§ 3.º O órgão julgador conhecerá dos embargos de declaração como agravo interno se entender ser este o recurso cabível, desde que determine previamente a intimação do recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1.º
+ANTE O EXPOSTO, e com fundamento no apontado art. 1.024, § 3.º, do CPC, conheço dos presentes embargos de declaração como agravo interno e, em decorrência, determino a intimação do embargante para que, no prazo legalmente fixado de 5 (cinco) dias, complemente as razões recursais, ajustando-as às exigências do art. 1.021, § 1º.
+Transcorrido o prazo legal ou apresentada a petição complementar, voltem-me imediatamente conclusos os autos.
+Publique-se.
