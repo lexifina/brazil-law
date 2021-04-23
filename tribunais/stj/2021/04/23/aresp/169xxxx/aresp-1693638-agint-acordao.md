@@ -1,0 +1,112 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. PENHORA DE BENS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. NÃO PROVIDO. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do estatuto processual civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+3. Dissídio jurisprudencial não comprovado, ante a incidência do verbete sumular n. 7 desta Corte. Precedentes.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisada caso a caso.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por LUIZ HENRIQUE ALMEIDA REIS e AMADEU DOS REIS contra decisão singular, desta relatoria, que negou provimento ao agravo em recurso especial, em razão da (i) não demonstração da excepcionalidade necessária para a concessão do efeito suspensivo; (ii) ausência de violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015; (iii) aplicação da Súmula n. 7 do Superior Tribunal de Justiça; e (iv) impossibilidade de análise do dissídio jurisprudencial, ante a aplicação do verbete sumular n. 7 desta Corte (e-STJ fls. 1.700/1.706).
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante, em síntese, não incidirem os óbices processuais apontados, bem como postulam pela " ..  nulidade de todos os atos processuais de penhora dos bens dos Recorrentes realizados no cumprimento de sentença da Ação de Origem posteriores à citação por hora certa dos ora agravantes  .. "; por " ..  indeferir o pedido de desconsideração da personalidade jurídica da Transrique Transportes, e, consequentemente, excluir os Srs. Amadeu dos Reis e Luiz Henrique Almeida Reis do polo passivo do cumprimento de sentença de origem (ou, no mínimo, o Sr. Amadeu dos Reis, que não é administrador e possuí apenas 1% das quotas da sociedade)  .. "; e pela anulação do " ..  acórdão dos embargos de declaração, para que eles sejam rejulgados e saneiem as omissões e obscuridades pendentes  .. " (e-STJ fl. 1.760).
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 1.709/1.760).
+Impugnação às fls. 1.770/1.783 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. PENHORA DE BENS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. NÃO PROVIDO. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do estatuto processual civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 do Superior Tribunal de Justiça).
+3. Dissídio jurisprudencial não comprovado, ante a incidência do verbete sumular n. 7 desta Corte. Precedentes.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisada caso a caso.
+5. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Cumpre transcrever, inicialmente, a ementa do acórdão recorrido do Tribunal de Justiça do Estado de São Paulo (e-STJ fl. 518):
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA DECORRENTE DE ACIDENTE DE TRÂNSITO - FASE DE CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO REJEITADA - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA - POSSIBILIDADE - INCLUSÃO DE SÓCIO NO POLO PASSIVO DA DEMANDA - DESNECESSIDADE DE CITAÇÃO - AUSÊNCIA DE IRREGULARIDADE - PENHORA MANTIDA - AGRAVO NÃO PROVIDO.
+No recurso especial, fundado no artigo 105, III, "a" e "c", da Constituição Federal, além de divergência jurisprudencial, a parte recorrente apontou violação aos artigos 72, II, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015; e 50 do Código Civil de 2002 (e-STJ fls. 1.425/1.462).
+Aduziram ter havido omissões e ausência de fundamentação na decisão recorrida, relativamente a questões relevantes para o deslinde da causa.
+Alegaram que o " ..  juízo de primeiro grau, não obstante a claríssima disposição do Código de Processo Civil, não nomeou curador especial para os ora Recorrentes e deu prosseguimento aos atos de penhora do seu patrimônio  .. " (e-STJ fl. 1.435).
+Afirmaram que " ..  para além do fato de a venda de bens do Sr. Luiz Henrique Almeida Reis para sua mãe ter ocorrido quatro anos antes do ajuizamento da ação indenizatória (e, portanto, não poderia nunca ter sido considerada fraudulenta), registre-se que essa venda dos bens entre o Sr. Luiz Henrique Almeida Reis e sua mãe jamais poderia ser considerada como um elemento ensejador de desconsideração da personalidade jurídica da sociedade Transrique Transportes  .. " (e-STJ fl. 1.449).
+Argumentaram que o " ..  Acórdão que negou provimento ao Agravo de Instrumento violou a lei federal consubstanciada no artigo 50 do Código Civil, ao elencar o encerramento irregular das atividades da Transrique Transporte Ltda como uma das causas de desconsideração da personalidade jurídica  .. " (e-STJ fl. 1.455).
+Postulam, ao final, a atribuição de efeito suspensivo ao recurso.
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+No presente caso, em relação à pretensão de efeito suspensivo, a parte recorrente não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido. Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL CUMULADA COM MANUTENÇÃO NA POSSE. EFEITO SUSPENSIVO A RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O PERIGO DA DEMORA E A FUMAÇA DO BOM DIREITO. AUSÊNCIA DO PERIGO DA DEMORA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+ ..
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial; para tanto, porém, é necessária a demonstração do perigo da demora e a caracterização da fumaça do bom direito.
+3. A ausência da fumaça do bom direito basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica da perigo da demora, que deve se fazer presente cumulativamente.
+4. Agravo interno não provido.
+(AgInt no TP n. 1.692/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/12/2018, DJe 5/12/2018).
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA INDEFERINDO O PEDIDO, DIANTE DA AUSÊNCIA DO NECESSÁRIO FUMUS BONI IURIS. INSURGÊNCIA DOS REQUERENTES.
+1. A atribuição de efeito suspensivo aos recursos extraordinários reveste-se de caráter excepcional, justificando-se apenas diante da presença de elementos que demonstrem a probabilidade do direito alegado e o perigo de dano ou risco ao resultado útil do processo (CPC/15, arts. 300, 995 e 1.029, § 5º, I).
+2. Na hipótese dos autos, não se evidenciou a configuração do fumus boni iuris, pois, em sede de cognição sumária, infere-se ausente a plausibilidade de êxito do agravo em recurso especial, o qual, em tese, viola o princípio da dialeticidade, bem assim do próprio apelo extremo, porquanto, perfunctoriamente, verifica-se inocorrente o necessário prequestionamento dos dispositivos apontados como malferidos.
+ ..
+4. Agravo interno de fls. 209-216, e-STJ, desprovido e agravo interno de fls. 221-239, e-STJ, não conhecido.
+(AgInt no TP n. 996/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017).
+De outra parte, quanto à alegada violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Assim, consoante entendimento consolidado desta Corte Superior, não é omissa, contraditória e obscura nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: EDcl no AgInt nos EAREsp n. 931.889/MG, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 13/8/2019, DJe 20/8/2019; EDcl no AgInt nos EREsp n. 1.330.215/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/6/2019, DJe 28/6/2019; entre inúmeros outros.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+Por oportuno, quanto às demais questões aventadas pela parte ora recorrente, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 519/520):
+ ..
+Em síntese, o feito versa sobre pedido indenizatório em razão da ocorrência acidente automobilístico que vitimou o marido e pai das autoras da demanda, ora em fase de cumprimento de sentença, na qual foi deferida a desconsideração da personalidade jurídica para que fossem atingidos os bens particulares dos sócios da empresa executada, para fins de satisfação do crédito arbitrado na sentença exequenda.
+É dispensada a citação dos sócios, nos casos de desconsideração da personalidade jurídica, pois, além de não haver qualquer previsão legal acerca de tal obrigatoriedade, a medida poderia implicar na ineficácia de futura constrição de bens.
+Ainda assim, há de se considerar que houve a regular citação por hora certa dos sócios da empresa executada, a qual atendeu a todos os requisitos legais, sendo certo que o Oficial de Justiça procurou os sócios por diversas vezes, somente efetuando a citação por hora certa quando esgotados os meios para efetivação da citação pessoal.
+E mais, inexiste violação ao devido processo legal, contraditório e a ampla defesa, ao dispensar a citação, vez que posterior intimação da penhora se revela suficiente para viabilizar o direito de defesa do sócio.
+Desse modo, não há que se falar em nulidade pelas razões trazidas pelos agravantes, ficando igualmente afastada a alegação de irregularidade quanto à ausência de designação de curador especial, haja vista ausência de prejuízo processual aos sócios, os quais estavam plenamente cientes do desenrolar da demanda.
+No mais, verificada a inexistência ou insuficiência de patrimônio da executada para honrar o débito e havendo evidências de fraude ou exercício abusivo de direito por parte de empresa devedora, de rigor a aplicação da teoria da desconsideração da personalidade jurídica da empresa, nos termos do artigo 50 do Código Civil, para que os atos executórios alcancem os bens particulares dos administradores e/ou sócios.
+Nesse sentido, restou demonstrado nos autos que a empresa executada se desfez de seu patrimônio, no caso, veículos utilizados para transporte, além do desfalque patrimonial próprio dos sócios da empresa executada, restando constatado, ainda, o encerramento irregular da empresa executada, motivos estes suficientes a fundamentar a medida.
+Por fim, não configurada qualquer ilegalidade na penhora realizada, deve ela ser mantida nos moldes definidos em primeira instância.
+ ..
+Em sede de embargos de declaração, ressaltou o Colegiado estadual que (e-STJ fls. 1.420/1.422):
+ ..  sustentam os embargantes que o V. Acórdão de fls. 517/520 incorreu em omissão no tocante aos argumentos da parte sobre a ilegalidade da decisão de deferimento da desconsideração da personalidade jurídica, porquanto, todos os pressupostos que levaram o juízo de primeira instância a deferir o pedido foram erroneamente avaliados.
+ ..
+As alegações trazidas pelos recorrentes estão desprovidas de elementos comprobatórios a afastar a conclusão adotada.
+Inicialmente, verifica-se que, a par da alegação de que os imóveis teriam sido vendidos à mãe do Embargante Luiz Henrique Almeida Reis no ano de 2002, ou seja, anteriormente à ação judicial, os documentos constantes dos autos comprovam que a escritura de compra e venda fora registrada somente em 07 de fevereiro de 2013 (fls. 174/178 e fls. 314/346).
+No tocante aos veículos, a decisão que determinou a desconsideração da empresa executada constatou que no ano em que distribuída a presente ação, a empresa era proprietária de 22 veículos de grande porte, porém, à data da decisão proferida, não tinha sequer um veículo registrado em seu nome (fls. 169/172).
+Desse modo, a simples existência de gravame sobre os veículos não implica na conclusão de que a empresa não tenha se esvaziado de seu patrimônio de forma intencional.
+Outrossim, o encerramento irregular da empresa não foi o único fator que levou o Magistrado de piso a determinar a desconsideração da personalidade jurídica da empresa, haja vista o constatado esvaziamento patrimonial, e, a ausência de iniciativa da parte em saldar a dívida executada.
+Por tais motivos, era de rigor mesmo a desconsideração da personalidade jurídica da executada, incluindo-se seus sócios no polo passivo da ação, com possibilidade de constrição de seus bens.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA PROFERIDA SOB A ÉGIDE DO CPC/73. JULGAMENTO REALIZADO NA VIGÊNCIA DO NCPC. INTIMAÇÃO DO AGRAVANTE PARA SE MANIFESTAR SOBRE A CONTRAMINUTA. PRINCÍPIO DA NÃO SURPRESA. INAPLICABILIDADE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO E CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRECLUSÃO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DA EXECUÇÃO. DECISÃO FUNDAMENTADA. EMBARGOS DO DEVEDOR. EFEITO SUSPENSIVO. GARANTIA DO JUÍZO. NECESSIDADE. RECURSO IMPROVIDO.
+ ..
+3. Não há que falar em negativa de prestação jurisdicional pelo Tribunal mineiro, uma vez que as teses referentes a desconsideração da personalidade jurídica e a suspensão da execução pelo oferecimento de bens à penhora foram analisadas de forma clara e fundamentada.
+4. Afastar o entendimento do Tribunal de Minas Gerais quanto a preclusão para se discutir a decisão de desconsideração da personalidade jurídica da empresa executada, por já ter a tese sido apreciada em outro recurso, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante a incidência da Súmula nº 7 do STJ.
+ ..
+9. Recurso especial a que se nega provimento.
+(REsp n. 1.633.757/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/11/2019, DJe 19/11/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVALIDADE DA ARREMATAÇÃO DO IMÓVEL. INCOMPETÊNCIA ABSOLUTA DO JUÍZO TRABALHISTA. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DO STJ. ENRIQUECIMENTO SEM CAUSA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. No caso, rever o entendimento do acórdão recorrido e acolher a pretensão recursal quanto ao enriquecimento sem causa, e a aplicação da desconsideração da personalidade jurídica, demandaria, necessariamente, reexame do arcabouço fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.206.149/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019).
+Por fim, a incidência da Súmula n. 7 do Superior Tribunal de Justiça impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CANCELAMENTO DE PLANO DE SAÚDE. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 83/STJ. LESÃO EXTRAPATRIMONIAL. AUSÊNCIA DE PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. CONHECIMENTO INVIABILIZADO PELA INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Esta Corte Superior entende que a lesão extrapatrimonial não decorre de simples inadimplemento contratual, sendo necessária a demonstração de ofensa a direitos da personalidade. Incidência do enunciado n. 83 da Súmula do STJ.
+2. Tendo o Tribunal de origem concluído que não houve a comprovação de prejuízo extrapatrimonial, a desconstituição do acórdão estadual demandaria o revolvimento fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+3. A incidência dos enunciados n. 7 e 83 da Súmula do STJ impede o conhecimento do recurso interposto tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.304.018/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/4/2019, DJe 23/4/2019 - sem destaques no original).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. RESCISÃO. PARCELAS PAGAS. RETENÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. PERCENTUAL. REEXAME DO CONTRATO E DOS DEMAIS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INOVAÇÃO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem reexame do contrato e dos demais elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, alterar o percentual de retenção demandaria nova análise do conjunto probatório do feito, vedado em recurso especial.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.387.976/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/5/2019, DJe 20/5/2019 - sem destaques no original).
+Portanto, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do artigo 1.021, § 4º, do Código de Processo Civil de 2015, requerida pela parte ora agravada em sua impugnação às fls. 1.770/1.783 (e-STJ), a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ARESTOS CONFRONTADOS. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+2. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe de 29/8/2016).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EREsp n. 1.401.943/DF, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/4/2019, DJe 25/4/2019).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
