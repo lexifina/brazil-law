@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor de RYNER RAFAEL PEREIRA SILVA CARDOSO contra decisão proferida no âmbito do Tribunal de Justiça do Estado de São Paulo (HC n. 2283374-95.2020.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 anos de reclusão, em regime inicial fechado, e multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006 (e-STJ fls. 8/18).
+Irresignada com o regime inicial estabelecido na sentença, a defesa impetrou habeas corpusno Tribunal a quo, sendo indeferido o pedido liminar (e-STJ fls. 6/7).
+A petição inicial do habeas corpusfoi liminarmente indeferida pela Presidência desta Corte, em virtude do óbice da Súmula 691/STF.
+A defesa interpôs agravo regimental, o qual foi distribuído à minha relatoria, oportunidade em que constatei queo Juízo sentenciante fixou o regime inicial mais gravoso apenas com base na hediondez e na gravidade abstrata do delito, razão pela qual o argumento deduzido pelo impetrante, no sentido de que seria possível a superação do óbice da Súmula 691/STF, comporta relevo, o que enseja a reconsideração da decisão agravada para que o presente feito tenha curso(e-STJ fl. 60).Por outro lado, aferi queo Supremo Tribunal Federal deferiu medida liminar para determinar que o paciente aguarde em regime semiaberto o julgamento definitivo do respectivo habeas corpus, motivo pelo qual a medida cautelar ora requeridaficou prejudicada. Nesse contexto, reconsiderei a decisão agravada para dar seguimento ao habeas corpus, mas julguei prejudicada a medida liminar requerida (e-STJ fls. 60/61).
+As informações foram prestadas às e-STJ fls. 65/67 e 72/80.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 84/90, opinou pelo não conhecimento dowrit, mas pela concessão da ordem, de ofício, paradeterminar que o Tribunal de Justiça de origem examine o mérito do mandamus lá aforado, apreciando a questão como entender de direito.
+O Supremo Tribunal Federal, em novo ofício, comunicou a prolação de decisão no julgamento do HC 195.810/SP, no sentido de confirmar a liminar deferida e determinar que o paciente seja posto em liberdade, até o trânsito em julgado da sentença condenatória, se por outro motivo não estiver preso(e-STJ fls. 92/98).
+É o relatório. Decido.
+Em razão da decisão monocrática proferida pelo Supremo Tribunal Federal no HC 195.810/SP, que deferiu o direito de o paciente aguardar em liberdade o trânsito em julgado da sua condenação, constato a perda do objeto do presente habeas corpus.
+Afinal, assegurada a liberdade do paciente, todas as ilegalidades que a defesa entenda existentes por ocasião do édito condenatório serão apreciadasno julgamento do recurso de apelação já interposto, de forma ampla e exauriente.
+Ante o exposto, com fundamento no art. 34, inciso XI, do RISTJ, julgo prejudicado o habeas corpus.
+Intimem-se.
