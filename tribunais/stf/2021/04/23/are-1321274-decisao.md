@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “TRÁFICO DE DROGAS. Apreensão de 200 porções de crack (33g) e 3 de maconha (7g). Sentença parcialmente procedente à acusação. Recurso da defesa. Autoria e materialidade remanesceram incontroversas, com relação ao acusado Douglas. Pedido de absolvição do increpado Cassiano por insuficiência de provas. Impossibilidade. Acervo probatório que revela o envolvimento daquele sentenciado com a traficância.
+    DOSIMETRIA. Redutor afastado na origem. Decisão acertada. Quantidade expressiva de peças individualizadas para disponibilização no mercado espúrio, aliada aos envolvimentos dos acusados na narcotraficância. Precedentes do E. STJ e desta E. 2ª Câmara de Dir. Criminal. Impossível a isenção das penas de multa, pois fixadas de acordo com os ditames legais. Regime fechado adequadamente imposto. Detração inaplicável.
+    Nega-se provimento ao recurso, cancelada a decretação das prisões preventivas.”
+    2. O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega que o acórdão recorrido “não declarou a inconstitucionalidade da pena de multa prevista pelo art. 33, caput da Lei 11.343/06, violando princípios da isonomia (art. 3º , I e III e 5º caput) e individualização da pena (art. 5º, XLVI)”, da CF.
+    3. O recurso é inadmissível, tendo em vista que o acórdão proferido pelo Tribunal estadual está alinhado com a jurisprudência desta Corte no sentido de que “cabe ao legislador ordinário a previsão e dosagem, qualitativa e quantitativa, da resposta penal. Em outras palavras, impende assinalar que o legislador detém ampla margem para selecionar quais condutas carregam repugnância suficiente a legitimar o tratamento penal mais gravoso” (ARE 1.305.785, Rel. Min. Edson Fachin).
+    4. Ainda nessa linha, vejam-se o ARE 992.318, Rel. Min. Ricardo Lewandowski, o RE 443.388, Relª. Minª. Ellen Gracie, o ARE 1.291.306-AgR, Rel. Min. Alexandre de Moraes, e o ARE 1.310.059-AgR, Relª. Minª. Cármen Lúcia, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. TRÁFICO DE DROGAS. MULTA. ALEGAÇÃO DE INCONSTITUCIONALIDADE. OPÇÃO LEGISLATIVA. IMPOSSIBILIDADE DE INTERFERÊNCIA DO PODER JUDICIÁRIO. PRECEDENTES. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    5. E mais: a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Nesse sentido, vejam-se o AI 797.666-AgR, Rel. Min Ayres Britto; o AI 796.208-AgR, Rel Min. Dias Toffoli; o RE 505.815-AgR, Rel. Min. Joaquim Barbosa; e o ARE 1.075.559, Rel. Min. Luiz Fux.
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
