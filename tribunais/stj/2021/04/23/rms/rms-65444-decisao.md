@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 604):
+I - MANDADO DE SEGURANÇA. VALOR ADICIONAL FISCAL. ENERGIA ELÉTRICA.
+II - IMPETRADO QUE ENTENDEU PELA NÃO APROPRIAÇÃO, PELO MUNICÍPIO DE RIBEIRÃO CLARO, DO VAF (VALOR ADICIONALFISCAL) INFORMADO PELA RIO PARANÁ PANEMA S.A, ANTE A ENERGIA ELÉTRICA GERADA NA UHE XAVANTES DO ANO BASE DE 2016, O QUAL COMPÕE A COTA-PARTE NO IPM (ÍNDICE DEPARTICIPAÇÃO DO MUNICÍPIO) PARA O EXERCÍCIO DE 2017.
+III - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. REPARTIÇÃO DA ARRECADAÇÃO DO ICMS NO MUNICÍPIO ONDE SE DÁ O EFETIVO CONSUMO DA ENERGIA. NECESSIDADE DE CÔMPUTO SOMENTE QUANTO ÀS OPERAÇÕES RELATIVAS AO CONSUMO OCORRIDO NO TERRITÓRIO DO MUNICÍPIO.
+IV - SEGURANÇA DENEGADA
+Interposto agravo interno, este foi parcialmente provido, consoante a seguinte ementa (fl. 604):
+AGRAVO INTERNO. VAF (VALOR ADICIONADO FISCAL). ICMS. FATO GERADOR. MATÉRIA NÃO PACIFICADA NOS TRIBUNAIS SUPERIORES. LIMINAR REVOGADA. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso, a parte recorrente sustenta, em síntese, que diferentemente do que está exarado na decisão recorrida, para fins de parcela de ICMS aos Municípios, o fornecimento de energia elétrica deve ser contado como valor adicionado em favor do município que abriga o estabelecimento prestador, qual seja, o local da saída da energia. Alega que o fato gerador do ICMS para fins de energia elétrica somente ocorre com a saída, no caso, na sua geração, e, por consequência, a parcela de distribuição da arrecadação do ICMS aos municípios deverá se dar com base no cálculo do Valor Adicionado em favor da municipalidade/localidade em que está instalado o estabelecimento prestador, o gerador que, no caso concreto, é o Município de Ribeirão Claro  Paraná.
+Ao final requer a reforma da decisão que denegou a segurança, de modo a conceder a segurança e declarar a ilegalidade, afastando a decisão tomada pela Coordenação de Assuntos Econômicos de não apropriar para o município o VAF  Valor Adicionado Fiscal informado pela concessionária Rio Paranapanema Energia S.A.
+Com contrarrazões.
+Manifestação do Parquet pelo conhecimento e desprovimento do recurso.
+É o relatório. Decido.
+A insurgência não merece prosperar.
+O mandado de segurança visa resguardar direito líquido e certo de lesão ouameaça de lesão, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, inexistindo espaço para dilação probatória.
+O Tribunal de origem denegou a segurança ao entendimento de que não há direito líquido e certo à participação do município impetrante na arrecadação do ICMS no momento da saída da concessionária situada em seu território, mas apenas quanto às operações relativas ao consumo ocorrido no território do município.
+O entendimento encontra ressonância na jurisprudência desta Corte Superior. Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. INCOMPETÊNCIA DO TRIBUNAL DE ORIGEM.SÚMULA 280/STF. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ICMS.REPARTIÇÃO. VAF. REGRA CONSTITUCIONAL. CRITÉRIO. ENERGIA ELÉTRICA.ELEMENTO TEMPORAL E ESPACIAL DA OBRIGAÇÃO TRIBUTÁRIA. CONSUMO.
+1. A análise quanto à incompetência do Tribunal de origem para processar e julgar o Mandado de Segurança não pode ser feita no presente apelo, tendo em vista que, conforme mencionado pelo próprio recorrente, demanda interpretação de lei local (Lei Estadual 11.242/1990, alterada pela Lei 13.661/2000, e Constituição Estadual, art. 46, VIII, "o"), o que atrai, no ponto, o óbice da Súmula 280/STF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A Primeira Seção, no julgamento dos EREsp 811.712/SP, decidiu que o critério a ser utilizado no cálculo do valor adicionado fiscal relativo à incidência de ICMS sobre energia elétrica é o do consumo, e não o do local da produção (ou mesmo o do transporte).
+4. Recurso Especial não provido. (REsp 1456108/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ICMS. REPARTIÇÃO. VAF. ENERGIA ELÉTRICA. ELEMENTO TEMPORAL E ESPACIAL DA OBRIGAÇÃO TRIBUTÁRIA. CONSUMO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO NÃO PROVIDO.
+1. Consolidou-se o entendimento nesta Corte de que pouco importa, para fins de participação nas receitas tributárias, o local em que situados a sede administrativa da usina hidrelétrica ou seus geradores, uma vez que incidindo o ICMS sobre a operação final, não se pode calcular o Valor Adicionado Fiscal - VAF por quaisquer outros critérios, senão o consumo.
+2. As provas documentais trazidas e colacionadas aos autos a fim de amparar a tese defendida pelo impetrante, no sentido de que o fato gerador do ICMS decorrente da geração de energia elétrica ocorre no lugar onde se situa o equipamento utilizado para a sua produção, não são aptas a demonstrar o direito líquido e certo do impetrante, ora recorrente, diante do entendimento jurisprudencial firmado nesta Corte.
+3. Agravo interno não provido. (AgInt no RMS 60.451/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/08/2019, DJe 27/08/2019)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. ICMS.REPARTIÇÃO. VALOR ADICIONADO FISCAL-VAF. REGRA CONSTITUCIONAL.CRITÉRIO. ENERGIA ELÉTRICA. ELEMENTO TEMPORAL E ESPACIAL DA OBRIGAÇÃO TRIBUTÁRIA. CONSUMO.
+1. O critério eleito pelo art. 158, parágrafo único, inciso I, da CF/88 para definir a quem pertence o valor adicionado fiscal relativo a uma operação ou prestação sujeita, em tese, à incidência do ICMS é, unicamente, espacial, ou seja, local onde se concretiza o fato gerador do imposto.
+2. Conforme posição doutrinária e jurisprudencial uniforme, o consumo é o elemento temporal da obrigação tributária do ICMS incidente sobre energia elétrica, sendo o aspecto espacial, por dedução lógica, o local onde consumida a energia.
+3. A produção e a distribuição de energia elétrica, portanto, não configuram, isoladamente, fato gerador do ICMS, que somente se aperfeiçoa com o consumo da energia gerada e transmitida.
+4. Como o critério de rateio do ICMS leva em conta o valor adicionado fiscal que ocorre no território de cada município e não há incidência tributária pela geração da energia ou por sua distribuição, consequentemente, não se justifica a participação do município produtor ou distribuidor na partilha do ICMS incidente sobre as operações com energia elétrica, que somente contemplará os municípios consumidores.
+5. Na espécie, pretende o Município de Igarapava/SP a totalidade do valor adicionado fiscal de ICMS gerado pela usina de mesmo nome, ao argumento de que se encontra localizada em seu território, pretensão que não encontra guarida no ordenamento jurídico, dado que o critério para rateio do ICMS não é o da produção ou circulação da energia elétrica, mas o do local onde é consumida.
+6. Recurso em mandado de segurança não provido. (RMS 31.098/MG, Rel. Ministro CESAR ASFOR ROCHA, Rel. p/ Acórdão Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/06/2012, DJe 20/03/2013)
+Ante o exposto, nego provimento ao recurso ordinário, com fundamento no art. 34, XIX do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO EM MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA. REPARTIÇÃO. VALOR ADICIONADO FISCAL (VAF). CÁLCULO. CONSUMO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO NÃO PROVIDO
