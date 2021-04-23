@@ -1,0 +1,40 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO DE APELAÇÃO CRIMINAL N. 1000605-63.2020.8.11.0092
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: ANNA CAROLINA RODRIGUES COSTA
+Vistos.
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Terceira Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, deu parcial provimento ao recurso, nos termos da seguinte ementa (Id. 54372478):
+“APELAÇÃO CRIMINAL – TRÁFICO DE DROGAS –IRRESIGNAÇÃO DEFENSIVA – 1. PRETENDIDO REDIMENSIONAMENTO DA PENA-BASE – IMPROCEDÊNCIA – REPROVABILIDADE ACIMA DO TIPO PENAL – SIGNIFICATIVA QUANTIDADE DE DROGA (9,320 KG DE MACONHA) –PROPORCIONALIDADE DA REPRIMENDA – 2. PEDIDO DE AFASTAMENTO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, III, DA LEI No 11.343/06 – TRÁFICO REALIZADO POR MEIO DE TRANSPORTE PÚBLICO – PROCEDENTE – MERO TRANSPORTE DA DROGA NESSE TIPO DE VEÍCULO – SEM O INTUITO DE DISSEMINAR A DROGA NO VEÍCULO – 3. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4o, DA LEI DE DROGAS – PROCEDENTE – 4. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS – CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL – INCABÍVEL – APELO PROVIDO EM PARTE.
+1.Na primeira fase da dosimetria da pena, o julgador deve avaliar as circunstâncias judiciais elencadas no artigo 59 do Código Penal dentro de um critério de discricionariedade, à luz do que determina o artigo 93, inciso IX, da Constituição Federal, deve motivar quando entender que a pena-base deve ficar acima do mínimo legal, mostrando-se adequada e suficiente para a reprovação e a prevenção do delito.
+2. Faz-se mister a exclusão da especial aumentativa descrita no art. 40, inciso III, da Lei n.o 11.343/2006, quando comprovado que o interesse da ré era somente utilizar o transporte público para levar a droga de um local para outro, não se enquadrando na hipótese legal de admissibilidade da majoração respectiva, que exige o intuito de disseminar ou comercializar a droga no próprio transporte público.
+3. A Lei no 11.343/06, em seu artigo 33, §4o, cuidou de abrandar a penalidade imposta ao réu primário, sem antecedentes, e que não integre organização criminosa ou se dedique ao crime, a fim de possibilitar a correção de possíveis distorções advindas da equiparação do traficante habitual daquele que acabou de iniciar no tráfico.
+4. Inviável a substituição da pena por restritiva de direitos, conforme preiteado pela defesa, tendo em vista a negativação das circunstâncias do crime, em razão da expressiva quantidade de droga apreendida, segundo dicção do artigo 44, inciso III, do Código Penal.”
+Nas razões do recurso especial (Id. 79946967), o recorrente sustenta violação ao artigo 33, § 4o, da Lei no 11.343/2006, pugnando pela reforma do acórdão proferido pelo Tribunal de Justiça de Mato Grosso, uma vez que “o recorrido não preenche os requisitos do §4o do artigo 33 da Lei 11.343/2006, que é claro ao dispor a necessidade de não dedicação a atividades criminosas para aplicação da causa de diminuição.”
+Recurso tempestivo (Id. 65089962).
+Contrarrazões (Id. 75242963).
+É o suscinto relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+O órgão fracionário desta Corte, ao dar parcial provimento ao recurso de Apelação Criminal interposto pela defesa, consignou que:
+“Desse modo, salta aos olhos que a causa especial de diminuição da pena, prevista no artigo 33, §4o, não foi reconhecida em benefício da apelante por ela ter confessado os fatos, o que se revela incoerente, porque a confissão espontânea traz ao processo um acréscimo importante de segurança, quando corroborado com os demais elementos de prova coligidos aos autos, e, portanto, não pode incidir como circunstância prejudicial ao acusado que colaborou com a justiça.
+(...)
+Portanto, no caso em comento, assim como concedido em favor dos corréus, deve ser aplicada a causa de diminuição prevista no artigo 33, §4o, da Lei de Drogas em favor da apelante.
+Insta destacar que a Lei no 11.343/06 foi editada com a intenção de agravar o tratamento dispensado aos agentes delitivos que ocupam os papéis de protagonistas na cadeia do tráfico, estabelecendo penas mais elevadas para traficantes e financiadores da atividade ilícita.
+Em contrapartida, a mesma norma, em seu artigo 33, §4o, cuidou de abrandar a penalidade imposta ao réu primário, sem antecedentes, e que não integre organização criminosa ou se dedique ao crime, a fim de possibilitar a correção de possíveis distorções advindas da equiparação do traficante habitual daquele que acabou de iniciar no tráfico.
+Para tanto, estabeleceu critérios objetivos e cumulativos a serem preenchidos pelo agente, quais sejam: a primariedade, os bons antecedentes, não se dedicar o réu a atividades criminosas, nem participar de organizações criminosas.
+Ainda, importa consignar que, o legislador, quando da elaboração da lei, estabeleceu um elástico intervalo na demarcação entre o mínimo e o máximo da diminuição - de 1/6 (um sexto) a 2/3 (dois terços)-, a fim de que o magistrado, à luz das peculiaridades da hipótese em exame, individualize a reprimenda, com vistas, sobretudo, a alcançar os objetivos da sanção, consistentes na prevenção e repressão da atividade criminosa, devendo verificar, necessariamente, a natureza da quantidade da droga comercializada, e os requisitos cumulativos previstos no tipo, concernentes ao benefício em tela.
+Desse modo, entendo que a diminuição da pena em 1/3 (um terço) é adequada, compatível com o caso em comento e está em plena sintonia com a situação dos demais condenados, que incidiram no mesmo juízo de culpabilidade da apelante, que não obstante fosse a responsável por trazer a droga em transporte público, agia em unidade de desígnio com os seus comparsas.
+Portanto, restando presentes todos os requisitos legais, é imperiosa a aplicação da causa especial de diminuição, prevista no artigo 33, §4o, da Lei 11.343/06, no patamar de 1/3 (um terço), ficando a dosimetria da pena da seguinte forma: pena-base em 6 (seis) anos de reclusão; a pena intermediária em 5 (cinco) anos de reclusão, a pena definitiva, em razão da incidência da causa de diminuição em questão na fração de 1/3 (dois terços), ficou em 3 (três) anos e 4 (quatro) meses de reclusão.” (Id. 56887471).
+Nesse contexto, ao apontar violação ao artigo 33, § 4o, da Lei no 11.343/2006, pleiteia o recorrente que seja afastada a aplicação da causa de diminuição de pena, sob o argumento de que “a quantidade da droga apreendida associada à forma de condicionamento do entorpecente e a confissão da recorrida, são aptos a afastar a aplicação do tráfico privilegiado.”
+No caso, observa-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Ante o exposto, preenchidos os requisitos específicos de admissibilidade, dou seguimento ao recurso especial com fundamento no art. 105, III, alínea “a” da Constituição Federal.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
