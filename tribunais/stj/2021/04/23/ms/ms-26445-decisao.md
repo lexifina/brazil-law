@@ -1,0 +1,37 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. PROGRAMA AUXÍLIO EMERGENCIAL. IMPETRAÇÃO CONTRA ATO ADMINISTRATIVO QUE LHE NEGOU O BENEFÍCIO. ALEGAÇÃO DE PREENCHIMENTO DE TODOS OS REQUISITOS LEGAIS. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO.ENTENDIMENTO CONSOLIDADO NO ÂMBITO DA 1A. SEÇÃO DO STJ. PRECEDENTE ESPECÍFICO: MS 26.347/DF, REL. MINISTRO MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO,JULGADO EM 09/12/2020, DJE 15/12/2020. EXTINÇÃO DA IMPETRAÇÃO SEM RESOLUÇÃO DO MÉRITO, POR ILEGITIMIDADE PASSIVA DA ÚNICA AUTORIDADE APONTADA COMO COATORA.
+1. Trata-se de Mandado de Segurança impetrado por REJANE CRISTINA PATRÍCIA DA SILVA contra ato administrativo imputado ao Ministro de Estado da Cidadania, que lhe negou o direito ao auxílio emergencial, a que alega fazer jus para fazer frente às dificuldades financeiras enfrentadas pela grande parte da população brasileira, diante da pandemia da COVID-19.
+2. Descreve a parte impetrante que, apesar de preencher todos os requisitos legais para a obtenção do auxílio emergencial, teve seu pedido administrativo indeferido.
+3. Ressalta que a motivação da negativa foi a de possuir emprego formal,o que se apresenta equivocado, conforme os documentos apresentados, porquanto está desempregada desde01/04/2020.
+4. Aponta, ainda, estarem presentes os requisitos para a concessão de medida liminar concessiva do benefício, a qual deverá ser confirmada ao final.
+5. É o relatório.
+6. Em que pese a relevância da matéria, bem como a importância do acesso acondições mínimas de existência digna,nesse período de pandemia da COVID-19,ao maior número possível de brasileiros, um dos objetivos do Programa Auxílio Emergencial, a egrégia 1a. Seção desta Corte Superior já apreciou demanda semelhante, em que sefirmou entendimento de que o MINISTRO DE ESTADO DA CIDADANIA não possui legitimidade passiva para responder diretamente, em sede de Mandado de Segurança, pelo sistema de benefícios desta importante política pública. Nesse sentido:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. AUXÍLIO EMERGENCIAL.ILEGITIMIDADE PASSIVA DA AUTORIDADE APONTADA COMO COATORA. WRIT NÃO CONHECIDO.
+1.Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha.
+2. In casu, aImpetrante juntou aos autos apenas o cupom de extrato da conta vinculada ao benefício social junto à Caixa Econômica Federal, contudo tal elemento além de não evidenciar o direito líquido e certo apontado, sequer indica ato praticado pela autoridade coatora apontada.
+3. Mandado de segurança não conhecido.
+(MS 26.347/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 09/12/2020, DJe 15/12/2020).
+7. Esclareço, ainda, que referido entendimento também vem sendo aplicado nos casos em relação aoPrograma Mais Médicos para o Brasil.Veja-se:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROJETO MAIS MÉDICOS. MINISTRO DE ESTADO DA SAÚDE. ILEGITIMIDADE.
+1. Conforme estatui a Súmula 510 do STF, praticado "o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial".
+2. Hipótese em que o ato apontado como coator, juntado pela própria parte impetrante, foi emanado da Secretaria de Atenção Primária à Saúde, sendo inconteste a ilegitimidade do Ministro de Estado da Saúde para figurar no polo passivo do mandado de segurança e, por conseguinte, a incompetência desta Corte para processar e julgar o presente writ.
+3. Agravo interno desprovido.
+(AgInt no MS 25.885/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 19/05/2020, DJe 22/05/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROGRAMA "MAIS MÉDICOS PARA O BRASIL". INTERPOSIÇÃO CONTRA SECRETÁRIA DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE (SGTES/MS). AUSÊNCIA DE COMPETÊNCIA DO STJ. ATRIBUIÇÃO DA JUSTIÇA FEDERAL DE PRIMEIRO GRAU. PRECEDENTES. MANDAMUS DENEGADO.
+1. Cuida-se de Mandado de Segurança, com pedido liminar, contra ato da Secretária de Gestão do Trabalho e da Educação na Saúde. Em suma, o writ volta-se contra o indeferimento de inscrição da impetrante no Programa "Mais Médicos".
+2. Deveras, não se aponta ato emanado de autoridade sujeita à jurisdição originária do STJ. Observa-se que a exordial traz atos (Comunicados e Portarias) que não foram editados pelo Ministro da Saúde. Verifica-se na Petição Inicial - e se pode confirmar nas Informações prestadas - que a autoridade apontada como impetrada não possui foro no Superior Tribunal de Justiça. Aqui se combate "ato da Secretária de gestão do trabalho e da educação na saúde", que não se enquadra na competência constitucional prevista no artigo 105 da Carta Magna.
+3. Não sendo o Ministro de Estado autoridade coatora, o mandamus deveria ter sido impetrado perante a Justiça Federal de 1º grau, por não ser o caso de prerrogativa de foro.
+4. Reconhece-se a incompetência do STJ para a análise da presente lide (AgRg no MS 21.180/DF, Rel. Min. Sérgio Kukina, DJe 29.10.2014; MS 18.345/DF, Rel. Min. Sérgio Kukina, DJe 21.3.2013; MS 23.919/DF, Ministro Herman Benjamin, Primeira Seção, DJe 20/11/2018; MS 22.774/SP, Min. Napoleão Nunes Maia Filho, DJe: 8/8/2016; MS 22.650/DF Min. Humberto Martins, DJe: 16/6/2016; MS 23.194/DF, Min. Gurgel de Faria. DJe15/3/2017).
+5. Mandado de Segurança denegado.
+(MS 25.194/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/11/2019, DJe 07/05/2020).
+8. Além disso, não sendo o Sr. MINISTRO DE ESTADO DA CIDADANIA parte legítima para compor o polo passivo do mandamus, nos termos do entendimento firmado pela 1a. Seção do STJacima referido, resta afastada a competência originária desta Cortepara o processo e julgamento do feito, nos termos do art. 105, I, b, da Constituição da República, que assim dispõe:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal (..)
+9. Forçoso, portanto, concluir-se pela incompetência absoluta desta Corte para processar e julgar Mandado de Segurança, cujo ato apontado como ilegal ou abusivo provém de outras pessoas que não as elencadas no permissivo constitucional ecuja omissão também não lhe possa ser atribuída.
+10. No presente caso, não se pode sequer ser determinado o encaminhamento dos autos ao primeiro grau, porquanto o writ fora impetrado apenas e tão somente contra o Ministro de Estado da Cidadania.
+11. Nesse mesmo sentido, foi a opinião do MPF, exarada no parecer assim ementado:
+MANDADO DE SEGURANÇA. AUXÍLIO EMERGENCIAL.COVID-19. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. BENEFÍCIO NEGADO. ILEGITIMIDADE DA AUTORIDADE APONTADA COMO COATORA. EXTINÇÃO DO MANDADO DE SEGURANÇA, SEM RESOLUÇÃO DE MÉRITO.1.O Ministro da Cidadania é autoridade ilegítima para figurar no polo passivo de mandado de segurança em que se busca reverter a negativa de concessão do auxílio emergencial previsto na Lei nº13.982/2020.2. Parecer pela extinção do Mandado de Segurança, sem resolução de mérito(fls. 53).
+12. Diante do exposto, declaro extinto o presente mandado de segurança sem resolução do mérito, por não se verificar a legitimidade passiva ad causam da autoridade apontada como coatora, única figura constante da petição inicial.
+13. Publique-se.
+14. Intimações necessárias
