@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 314/316) opostos por VALDOMIRO PINHEIRO DE OLIVEIRA contra decisão (fls. 295/307), de minha relatoria, que concedeuhabeas corpus, de ofício, para reduzir a pena do ora embargante ao patamar de6 meses e 7 dias de detenção, mantidos os demais termos da condenação.
+Nestes aclaratórios, a defesa aponta a ocorrência de erro material e contradição na decisão impugnada. Ressalta que, ao refazer o cálculo da pena do ora embargante, a decisão impugnada consignou que não haveria causas modificativas da pena na segunda e terceira etapas dosimétricas. Afirma, contudo, que foi reconhecida, na segunda fase da dosimetria da pena do crime de lesão corporal, a atenuante da confissão espontânea, que reduziu a sanção em 1/6.
+Ao final, requer sejam os enbargos providos para aplicar a atenuante da confissão espontânea, na fração de 1/6 sobre o resultante da primeira fase dosimétrica do crime de lesão corporal, de modo que a nova pena final do embargante para esse delito resulte em3 meses e 22 dias de detenção.
+O Ministério Público do Estado de Santa Catarina manifestou-se no sentido de que sejam conhecidos e providos estes embargos, a fim de sanar a contradição / erro material apontado, reconhecendo-se a aplicação da atenuante da confissão espontânea, na segunda fase da dosimetria da pena, relativa ao crime de lesão corporal (fls. 330/332).
+É o relatório. Decido.
+Estes aclaratórios devem ser conhecidos e providos.
+Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que concedeu a ordem de ofício, não viabiliza a oposição dos aclaratórios.
+Destaca-se, outrossim, que "o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte" (AgRg no AREsp 1.009.720/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 25/4/2017, DJe 5/5/2017).
+Resolvidas as questões com fundamentação satisfatória, caso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp 1076319/MG, Rel. Ministro LÁZARO GUIMARÃES, DJe 22/8/2018).
+No caso, ocorreu o erro material apontado pela defesa, no novo cálculo da pena do embargante pelo delito de lesão corporal.
+Assim, procede-se ao refazimento analítico da dosimetria para se corrigir a inconsistência indicada:
+Lesão Corporal (art. 129, § 9.º, do Código Penal)
+Na primeira fase, aordem foi condedida, de ofício, para reduzir a fração de exasperação da pena-base ao patamar de 1/2 sobre o mínimo legal, resultando a reprimenda em4 meses e 15 dias de detenção.
+Na segunda fase, incidiu a atenuante da confissão espontânea, na fração de 1/6, alcançando-se o patamar de3 meses e 22 dias de detenção, que resulta definitivoausentes outras causas modificativas.
+Ameaça (Art. 147, do Código Penal)
+Na primeira fase,aordem foi condedida, de ofício, para reduzir a fração de exasperação da pena-base ao patamar de 1/2 sobre o mínimo legal, resultando a reprimenda em1 mês e 15 dias de detenção.
+Na segunda fase, incide o aumento de 1/6, pela agravante doart. 61, inciso II, alínea"f", do Código Penal, alcançando a pena definitiva, na ausência de outras causas modificativas, o patamar de1 mês e 22 dias de detenção.
+Oconcurso materialentre os delitos leva a pena total do ora embargante a 5meses e 14dias de detenção.
+A existência de vetores desfavoráveis, na dosimetria das penas de ambos os crimes, legitima a manutenção do regime prisional inicial semiaberto, nos termos do art. 33, § § 2.º e 3.º, do Código Penal.
+Ante o exposto, com fundamento no art. 264, § 1.º, do Regimento Interno do Superior Tribunal de Justiça,acolhoestes embargos de declaração, para reduzir a pena deVALDOMIRO PINHEIRO DE OLIVEIRA a5 meses e 14 dias de detenção.
+Intimem-se.
