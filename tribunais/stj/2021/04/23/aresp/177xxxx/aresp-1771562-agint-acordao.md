@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Cláudio Bernardes de Oliveira e Maria de Lourdes Silva de Oliveira contra decisão desta relatoria assim ementada (e-STJ, fl. 957):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. CONDENAÇÃO AO PAGAMENTO DAS INDENIZAÇÕES REQUERIDAS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, os agravantes sustentam a inaplicabilidade dos óbices sumulares, sob a alegação de que, para o reconhecimento da vulneração à legislação federal, não há necessidade de revolvimento de matéria fático-probatória nem da analise ou interpretação de cláusulas contratuais.
+Asseveram que a principal premissa fática ficou devidamente assentada no julgado recorrido, permitindo se aferir a ocorrência da evicção em decorrência do preenchimento dos seus requisitos, a saber: aquisição de imóvel e a perda da posse e propriedade deste em virtude da escritura de compra e venda outorgada a terceiro.
+Afirmam o enriquecimento sem causa do espólio agravado, tendo em conta a celebração do negócio jurídico e a perda da posse do bem que foi dado em pagamento de outro imóvel vendido.
+Impugnação às fls. 974-985 (e-STJ), com pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De fato, conforme asseverado na decisão agravada, o Tribunal de origem concluiu pela inexistência de responsabilidade da requerida pela venda do imóvel a terceiros (e-STJ, fls. 843-845):
+E conforme se verifica pelos documentos juntados pelos próprios autores, já se comportavam como donos do imóvel, tanto que transferiram a titularidade das cobranças da taxa de associação de moradores para o nome do comprador Claúdio.
+Veja-se que o documento fornecido pela requerida na venda e o contrato realizado entre as partes, possibilitou a colocação de seu nome na titularidade das cobranças sem qualquer entrave, o que corrobora a tese da autora de que tudo estava regular com relação ao imóvel que entregou como parte de pagamento.
+No entanto, pelo que se depreende dos autos, tinham os autores a intenção de negociar o bem, tanto que o fizeram, e certamente por isso não buscaram efetivar o registro do pacto firmado, a fim de não precisarem arcar com o pagamento de todos os impostos pertinentes.
+Não restam dúvidas de que ao negociar um imóvel, aquele que repassa o bem para a responsabilidade de outra pessoa, com nada mais se preocupa, tanto que a requerida teve conhecimento da fraude que sofreu através do autor Cláudio, conforme constou do boletim de ocorrência.
+Desse modo, quem deve buscar o ressarcimento pelo dano sofrido junto àqueles que falsificaram assinatura e transferiram o bem são os autores e não a requerida.
+Ademais, como bem ponderou o juiz a quo "Paula comprovou que comprou o Lote no residencial Aldeia da Mata em junho de 2004, que apenas não estava registrado em seu nome, possivelmente porque ainda não tinha matrícula, posto que se verifica que a matrícula apenas foi feita em 22 de maio de 2012 (fls. 88/89).
+No entanto, nada impedia a outorga da escritura aos autores, posto que a requerida era a proprietária do imóvel e poderia ter vendido aos autores, inexistindo qualquer impedimento para a venda realizada.
+Ocorre que a venda do imóvel para terceiras pessoas não foi feita pela requerida, mas por pessoa que falsificou sua assinatura, conforme restou amplamente demonstrado nos autos, inclusive por processo criminal.
+Assim, não foi a requerida quem deu causa a venda posterior do bem, mas o fraudador que falsificou sua assinatura.
+Portanto, a requerida não praticou qualquer ato ilícito a justificar indenização e não foi a responsável pela alegada evicção sofrida pelos autores.
+A venda do imóvel aos autores foi válida, esses entraram na posse do bem e passaram a responder pelas dívidas desse, o que está correto.
+É possível afirmar que os próprios autores foram negligentes e não cuidaram do lote de forma adequada, posto que terceiras pessoas adquiriram o imóvel e assumiram a posse do mesmo sem qualquer oposição pelos autores, que deveriam ter questionado a validade dessa venda.
+Consta dos embargos de declaração (e-STJ, fl. 884):
+Todavia, para que não haja mais discussões que impeçam a finalização da demanda, consigno que não se verifica qualquer enriquecimento sem causa da parte embargada, que cumpriu sua parte no contrato firmado, sendo vítima do ocorrido como os autores, salientando no entanto, que os cuidados para coibir que tal situação tivesse ocorrido, deveriam ter partido dos autores que já exerciam a posse do bem desde a assinatura do contrato, e conforme já constou da fundamentação do julgado, cabe a eles buscar ressarcimento pelo dano sofrido junto àqueles que falsificaram assinatura e transferiram o bem para terceiro, e não em face da ré que em nada contribuiu para o evento.
+Nesse contexto, ao contrário do afirmado pelos agravantes, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+Não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre no presente caso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
