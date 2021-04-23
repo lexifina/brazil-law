@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    A União afirma haverem o Juízo da Segunda Vara Federal de Ponta Grossa/PR, no processo nº 5009272-73.2018.4.04.7000, e a Turma Recursal dos Juizados Especiais Cíveis da Seção Judiciária do Paraná, no processo nº 5051683-61.2018.4.04.7000, inobservado o teor do verbete vinculante nº 37 da Súmula.
+    Narra que André Wasilewski Duszczak, magistrado federal, ajuizou contra si ação visando o reconhecimento do direito à conversão, em abono pecuniário, de um terço das férias, levando em conta o disposto no artigo 220, § 3º, da Lei Complementar nº 75/1993 e a alegada simetria constitucional dos membros do Judiciário e do Ministério Público Federal. Esclarece implementada, pelo Juízo, tutela provisória. Informa não acolhido pedido de suspensão dos efeitos do pronunciamento.
+    Afirma assegurada, a membro do Judiciário, vantagem exclusiva da carreira do Ministério Público. Argumenta que o Órgão reclamado atuou como legislador positivo, incorrendo em contrariedade ao enunciado vinculante nº 37, a alcançar vencimentos e verbas de natureza indenizatória. Evoca jurisprudência.
+    Requereu, no campo precário e efêmero, a suspensão da eficácia do ato. Busca a cassação.
+    Em 26 de dezembro de 2018, o então Presidente, ministro Dias Toffoli, assentou não verificada situação a respaldar a atuação da Presidência.
+    O Juízo, em informações, relata o histórico processual.
+    André Wasilewski Duszczak, em contestação, afirma suspenso, na origem, o processo. Aponta manuseio da reclamação como sucedâneo recursal.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Menciona a pendência da ação direta de inconstitucionalidade nº 4.822, da relatoria de Vossa Excelência, e a admissão da repercussão geral nos recursos extraordinários nº 986.646 e 1.059.466, a versarem a matéria, nos quais determinada a sustação da tramitação dos processos.
+    2. No que diz respeito à articulação do Ministério Público Federal, a par de os recursos extraordinários nº 1.059.466 e 968.646 – Temas nº 966 e 976 – versarem questões distintas – pagamento, a magistrado, de licença-prêmio e diárias –, o disposto no artigo 1.035, § 5º, do Código de Processo Civil não alcança causas em curso no Supremo. Além de diverso o tema veiculado na ação direta de inconstitucionalidade nº 4.822/PE, a tramitação de processo objetivo não implica a suspensão de outros neste Tribunal.
+    O Órgão reclamado, ao levar em conta o tratamento simétrico no tocante a vantagens funcionais, valeu-se do princípio isonômico, mesmo implicitamente, para reconhecer, a partir do versado no artigo 220, § 3º, da Lei Complementar nº 75/1993 e considerado o regime jurídico dos integrantes da carreira do Ministério Público da União, o direito do interessado à conversão de um terço das férias em abono pecuniário. Surge ofensa ao enunciado vinculante nº 37, no que alterada, na via judicial e sem respaldo em lei, remuneração de servidor – gênero. Não cabe potencializar o alcance do artigo 129, § 4º, da Constituição Federal e a distinção entre agentes e servidores públicos, quanto ao campo de abrangência do verbete, para daí concluir haver base normativa a dispensar a atuação do legislador ordinário em relação à previsão de satisfação da parcela.
+    3. Julgo procedente o pedido formulado, para cassar a decisão proferida pelo Juízo da Segunda Vara Federal de Ponta Grossa/PR, no processo nº 5009272-73.2018.4.04.7000.
+    4. Publiquem.
+Brasília, 23 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
