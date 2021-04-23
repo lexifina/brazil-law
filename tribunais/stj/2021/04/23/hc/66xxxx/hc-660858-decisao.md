@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado:
+HABEAS CORPUS. JÚRI. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA. Se o processo de origem não conta com longo período de inatividade injustificada, e a prisão preventiva do paciente, decretada quando já instaurada a crise na saúde pública, não perdura por um período demasiado longo na atual conjuntura, inviável falar-se em constrangimento ilegal por excesso de prazo. O adiamento de uma audiência, por si só, não serve para caracterizar irrazoabilidade no trâmite processual, quando o feito, de resto, vem recebendo o impulsionamento devido pela apontada autoridade coatora. ORDEM DENEGADA. UNÂNIME.
+Sustenta a inexistência de provas acerca da autoria.
+Menciona que não há os requisitos da prisão preventiva, sendo admissível a substituição por cautelares diversas.
+Alega excesso de prazo da custódia cautelar.
+Requer, liminarmente, a revogação da prisão cautelar e, no mérito, a sua confirmação.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva, bem como a atipicidade da conduta. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Por sua vez, orito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+No caso, o impetrante não colacionou aos autos a íntegra da decisão que decretou a prisão preventiva.
+A ausência de peça essencial ao deslinde da controvérsia, impede o exame das alegações relacionadas aos fundamentos da prisão preventiva e conversão para cautelares diversas, razão pela qual incabível o conhecimento, nesses pontos, do presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1.  ..
+2.  ..
+REVISÃO DA DOSIMETRIA DA PENA COMINADA AO RÉU. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. O mandamus não foi instruído com cópia do acórdão proferido no julgamento do recurso de apelação, peça processual indispensável para o deslinde da controvérsia.
+2. O rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira tempestiva e inequívoca, por meio documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia. Precedentes.
+3. A documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC 582.042/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+No tocante ao excesso de prazo,não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo Relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Quanto à irresignação, o acórdão impugnado assim referiu (fls. 21/23):
+Por fim, inexiste o excesso de prazo alegado.
+Isso porque, consoante se depreende das informações prestadas pela apontada autoridade coatora, o processo vem tramitando de forma regular na origem, recebendo o impulsionamento devido, inexistindo indício de desídia na sua condução.
+Com efeito, o ora paciente e a corré foram regularmente citados após o recebimento da denúncia, sendo que aquele apresentou resposta à acusação em agosto de 2020, a seguir designando-se audiência de instrução e julgamento para o mês de novembro.
+A referida audiência, por motivo não esclarecido na documentação juntada ao presente writ , precisou ser adiada, ficando agendada a data de 17/03/2021 para o início da instrução.
+Acontece que um adiamento de audiência não basta para afirmar que o paciente sofre de constrangimento ilegal, quando todo o restante do trâmite processual se revela adequado e não há evidência alguma de desídia por parte do Juízo, ou inércia por parte do órgão acusatório.
+Afora isso, não pode ser desconsiderado que a crise da saúde pública, mundialmente instaurada no início do ano de 2020, interferiu no andamento dos processos em geral, já que conduziu o Poder Judiciário estadual a um período de inatividade, no qual apenas medidas urgentes foram analisadas e cumpridas em regime de plantão, seguido por uma retomada paulatina em que os Magistrados tiveram uma infinidade de processos para pautar, ainda com a necessidade de se adaptar a novas diretrizes, dadas em observância às recomendações sanitárias.
+Nesse contexto, a mim não soa irrazoável a data designada no processo de origem para o início da instrução do feito em tela, sendo não apenas esperado, mas de fato natural, um alargamento do prazo de todos os feitos em tramitação, como decorrência lógica da crise sanitária mundial que, inequivocamente, configura motivo de força maior.
+Em outras palavras, tendo a pandemia de covid-19 atingido toda a população mundial, que sofreu com suas consequências nos mais variados graus e aspectos, logicamente acabou atingindo também os acusados que respondem a seus processos presos preventivamente;
+logo, o simples fato de agendarem-se audiências com intervalos de tempo maiores que o usualmente visto não serve como justificativa para a alegação de excesso de prazo na formação de culpa.
+O fato é que o processo de origem, como dito, não conta com longo período de inatividade injustificada, e isso, aliado à circunstâncias de que a prisão preventiva do ora paciente, porque decretada quando já instaurada a crise na saúde pública, não perdura porum período demasiado longo na atual conjuntura, impede o reconhecimento do constrangimento ilegal invocado na inicial.
+Com relação aos prazos consignados na lei processual, deve-se atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética.
+Conforme consta dos autos, foi apresentada resposta à acusação em agosto de 2020,ficando agendada a data de 17/03/2021 para o início da instrução(fl. 21),de modo que se encontra em constante movimentação, seguindo a sua marcha regular, não se verificando desídia por parte do Estado.
+Além disso, ainda que esteja preso desde 20/4/2020, o tempo de custódia cautelar não se mostra desproporcional diante dapenaem abstrato atribuída aodelito de homicídio qualificadoimputadoao paciente.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
