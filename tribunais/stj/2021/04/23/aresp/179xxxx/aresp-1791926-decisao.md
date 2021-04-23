@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 409, e-STJ):
+AGRAVO DE INSTRUMENTO. Ação de cobrança de despesas condominiais. Fase de cumprimento da sentença. Decisão que desconstituiu a penhora existente sobre a unidade condominial. Agravo do condomínio exequente. Preliminares arguidas em contraminutas afastadas. Mérito. Obrigação decorrente de dívida das despesas condominiais é que de natureza propter rem, possuindo direito de sequela. Encargos que estão vinculados à própria unidade, independentemente de quem detenha a sua titularidade. Inteligência do artigo 1.345 do Código Civil. Decisão reformada para manter a penhora do imóvel. RECURSO PROVIDO.
+Ambos os embargos de declaração opostos foram rejeitados. No julgamento dos primeiros, aplicou-se multa pelo seu caráter protelatório, no valor de dois por cento sobre o valor da causa (fls. 432/436, e-STJ). No julgamento dos segundos embargos, a multa foi majorada, com base no art. 1.026, § 3º, do Código de Processo Civil, para dez por cento sobre o valor da causa (fls. 451/454, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 108, 109, 329, 509, § 4º, 489, § 1º, IV, 502, 505, 506, 507, 508, 513, § 5º, 779, 789, 1.022, II, parágrafo único, II, 1.025, do Código de Processo Civil de 2015; 41, 42, caput §§ 1º, 3º, 264, 475-G, 467, 472, 568, 591, 686, VI, do CPC/73 e 1.345 do Código Civil.
+Afirma, de início, que o acórdão recorrido foi omisso, não tendo apreciado todas as questões suscitadas. Destaca que o colegiado não apreciou o fundamento de que, no edital, constava a informação de que não havia dívidas condominiais pendentes.
+Pede, também, o afastamento da multa aplicada quando do julgamento dos embargos de declaração. Assinala que o recurso não possuía intuito protelatório.
+Questiona a penhora oriunda de débitos condominiais, não obstante (i) a recorrente não ter sido parte no processo de constituição do título; (ii) o fato de a recorrente ter sido excluída da lide em decisão anterior, transitada em julgado; (iii) o fato de ter havido a expressa referência, no edital, de inexistência de débitos condominiais.
+Alega, ainda, não se aplicar a norma inserta no art. 1.345 do Código Civil, pois esta "fala em "débitos do alienante" e na arrematação não há alienação, mas expropriação e desapropriação pela mão do Estado" (fl. 506, e-STJ).
+Foram apresentadas contrarrazões às fls. 1.016/1.021, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No mérito, o TJSP consignou ser devida a penhora da unidade condominial de propriedade da arrematante, tendo em vista a natureza propter rem das dívidas condominiais e considerando que a parte foi cientificada, pelo edital da hasta pública, de que seria responsável pelo adimplemento das despesas de condomínio porventura existentes (fls. 411/413, e-STJ):
+Trata-se de ação de cobrança de despesas de condomínio, ajuizada em face de Helena Salvetti Sanches, cujo pedido foi julgado procedente. Em fase de cumprimento de sentença, o imóvel foi alienado em hasta pública e arrematado pela agravada em outra ação (autos nº 582.00.1996.527103-2).
+Diante da exclusão da arrematante do polo passivo do processo, nos autos do agravo de instrumento nº 2059468-31.2018.8.26.0000, o Juízo a quo desconstituiu a penhora que recaía sobre da unidade geradora da dívida condominial.
+Pois bem.
+A obrigação decorrente de dívida das despesas condominiais é de natureza propter rem e, portanto, possui direito de sequela.
+Como consequência, os encargos estão vinculados à própria unidade, independentemente de quem detenha a sua titularidade, e sua satisfação é de rigor, visando, assim, preservar o interesse da coletividade, em consonância com o que dispõe o artigo 1.345 do Código Civil:
+"Art. 1.345. O adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multas e juros moratórios".
+Ademais, constou expressamente do edital da hasta pública em que o bem foi arrematado que "o arrematante arcará com eventuais débitos pendentes que recaiam sobre o bem, exceto os decorrentes dos débitos fiscais e tributários (art. 130, parágrafo único, do CTN)" (fls. 55, 65/68, 73), de maneira que a parte agravada tinha ciência inequívoca de que seria a responsável legal pelo adimplemento das despesas de condomínio porventura existentes, ainda que relacionadas a período anterior à sua imissão na posse.
+(..)
+Por tudo quanto antes exposto, é de rigor a reforma da r. decisão, a fim de que mantenha a penhora da unidade condominial de propriedade da arrematante.
+A parte ora agravante opôs embargos de declaração em face do acórdão, sustentando que não houve a análise do argumento de que, no edital da hasta pública, constou a informação de que não havia débitos de condomínio em aberto.
+O colegiado limitou-se, contudo, a replicar os fundamentos adotados no julgamento do agravo de instrumento, sem enfrentar efetivamente a questão relativa à (in)existência de dívidas condominiais a serem pagas. A análise desse fundamento é necessária, uma vez que, segundo jurisprudência do Superior Tribunal de Justiça, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, desde que conste do edital de praça ou haja inequívoca ciência da existência de ônus incidente sobre o imóvel.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. ILEGITIMIDADE PASSIVA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. APLICAÇÃO DO CPC/15. ARREMATAÇÃO. PROCESSAMENTO. VIGÊNCIA DO CPC/73. IRRETROATIVIDADE. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. ART. 14 DO CPC/15. RESPONSABILIDADE DO ARREMATANTE. DESPESAS CONDOMINIAIS PRETÉRITAS. CIÊNCIA INEQUÍVOCA. EXISTÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se de ação de cobrança de despesas condominiais pretéritas e vencidas, redirecionada em face da recorrente, arrematante do bem.
+2. Recurso especial interposto em: 25/01/2018; concluso ao gabinete em: 24/10/2018. Aplicação do CPC/15.
+3. O propósito recursal consiste em determinar se: a) a previsão de que as dívidas propter rem, como as despesas condominiais, se sub-rogam no valor da arrematação, disposta no art. 908, § 1º, do CPC/15, é aplicável à alienação judicial praticada sob a vigência do CPC/73; e b) se a arrematante pode ser responsabilizada por dívidas condominiais vencidas anteriormente à arrematação.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. A interposição de recurso especial não é cabível quando ocorre violação de Súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+7. Conforme o princípio de que o tempo rege o ato ("tempus regit actum"), no qual se fundamenta a teoria do isolamento dos atos processuais, a lei processual nova tem aplicação imediata aos processos em desenvolvimento.
+8. A aplicação imediata da lei processual demanda, todavia, respeito à irretroatividade, com a manutenção dos efeitos dos atos processuais já praticados e das situações jurídicas consolidadas sob a vigência da lei processual revogada.
+9. Na hipótese concreta, a arrematação ocorreu sob a vigência do CPC/73, razão pela qual a pretensão de aplicação da previsão do art.
+908, § 1º, do CPC/15 a seus efeitos acarretaria indevida retroatividade da lei processual nova.
+10. Na vigência do CPC/73, o concurso singular de credores sobre o produto da alienação forçada de bens deveria ser instaurado na hipótese de coexistência de privilégios sobre o bem, os quais deveriam ter sido adquiridos antes da penhora da qual resultou a expropriação forçada e relacionados a dívida inscrita em título executivo.
+11. Constando do edital de praça ou havendo ciência inequívoca da existência de ônus incidente sobre o imóvel, o arrematante é responsável pelo pagamento das despesas condominiais vencidas, ainda que sejam anteriores à arrematação. Precedentes.
+12. Na hipótese concreta, rever o entendimento do acórdão recorrido de que a recorrente teve efetiva ciência inequívoca da existência de débitos condominiais pendentes e anteriores à arrematação demandaria desta Corte o reexame dos fatos e provas constantes nos autos, o que encontra óbice na Súmula 7/STJ.
+13. Recurso especial parcialmente conhecido e, no ponto, desprovido.
+(REsp 1769443/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1/9/2020, DJe 9/9/2020)
+É indispensável, portanto, o retorno dos autos ao TJSP para que proceda a novo julgamento dos embargos de declaração, com a efetiva análise das teses ali expostas.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE. RETORNO DOS AUTOS À ORIGEM. FATO NOVO. EXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTOS DA DECISÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 185/STJ E ART. 932, III, DO CPC/2015. DECISÃO MANTIDA.
+1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e ofende os arts. 489, § 1º, e 1.022 do CPC/2015.
+2. Reconhecida a negativa de prestação jurisdicional, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso.
+3. Não se aprecia fato novo que deverá ser examinado pela Corte local no rejulgamento dos embargos de declaração e que pressupõe o revolvimento de material fático-probatório dos autos (Súm. n. 7/STJ).
+4. Não se conhece do agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, e 932, III, do CPC/2015).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1229933/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/5/2019, DJe 23/5/2019)
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RETORNO DOS AUTOS PARA REJULGAMENTO DOS EMBARGOS DE DECLARAÇÃO NA ORIGEM.
+1. "Deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+2. Em tal hipótese, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+3. Recurso especial provido.
+(REsp 1862385/SE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/6/2020, DJe 25/6/2020)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos à origem para que profira novo julgamento dos embargos de declaração.
+Afasto, por consequência, a multa aplicada, ficando prejudicada, por outro lado, a análise das demais teses aventadas.
+Intimem-se.
