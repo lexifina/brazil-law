@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AUXÍLIO-ACIDENTE.DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS, NÃO PREQUESTIONADOS.SÚMULA 211/STJ. LAUDO PERICIAL. MOLÉSTIA INCAPACITANTE AFASTADA. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1.Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal de origem. Aplica-se aSúmula 211 do STJ.
+2. O Tribunal de origem concluiu,à luz das provas dos autos, que "diante da manifesta ausência de sequela incapacitante decorrente de moléstia ocupacional, conforme se extrai do bojo do laudo oficial, descabe na espécie a concessão do benefício acidentário postulado". Assim, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame da situação fática e probatória dos autos dos autos,o que é obstado, no âmbito do recurso especial, em razão do óbice daSúmula 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 235):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXÍLIO-ACIDENTE.DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACORDÃO QUE AFASTA MOLÉSTIA INCAPACITANTE AMPARADA NO LAUDO PERICIAL. REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO
+O agravante suscitaa inaplicabilidade das Súmulas 7/STJ e 211do STJe assim como, o prequestionamento dos dispositivos tido por violados.
+Caso o entendimento acima seja ultrapassado, alega que "verifica-se que a incapacidade e o nexo causal restaram incontroversos no feito, não havendo que se falar em reexame de prova ou matéria fática o que é vedado pela Súmula n. 7/STJ e sim, valorar todas as provas contidas no bojo dos autos, inclusive e principalmente o laudo técnico pericial do seu assistente técnico e o laudo médico judicial oriundo de reclamação trabalhista" (fl. 244).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AUXÍLIO-ACIDENTE.DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS, NÃO PREQUESTIONADOS.SÚMULA 211/STJ. LAUDO PERICIAL. MOLÉSTIA INCAPACITANTE AFASTADA. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1.Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal de origem. Aplica-se aSúmula 211 do STJ.
+2. O Tribunal de origem concluiu,à luz das provas dos autos, que "diante da manifesta ausência de sequela incapacitante decorrente de moléstia ocupacional, conforme se extrai do bojo do laudo oficial, descabe na espécie a concessão do benefício acidentário postulado". Assim, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame da situação fática e probatória dos autos dos autos,o que é obstado, no âmbito do recurso especial, em razão do óbice daSúmula 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+O argumento de que, na hipótese, não se aplica o enunciado da Súmula 211/STJ, não merece prosperar.
+Com efeito, oprequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+In casu,observa-seque o Tribunal a quo não se pronunciou a respeito dos artigos 143, do Decreto 611/92, que regulamenta a Lei 8.213/91; art. 464, do Código de Processo Civil/2015 indicados no recurso especial, não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+No mais, quanto a inaplicabilidade da Súmula 7/STJ, melhor sorte não socorre o recorrente, isso porque, na espécie, a Corte de origem, soberana da prova dos autos,consignou expressamente que o recorrente não se desincumbiu do ônus de demonstrar os fatos constitutivo do seu direito para a concessão do benefício acidentário pertinente, in verbis (fls. 127/128):
+ ..
+De início anoto que, a despeito da pretensão do apelante, não se cogita de renovação da prova médica. Bem se vê que o laudo oficial foi elaborado de forma completa e traz fundamentação clara e suficiente para ensejar o deslinde da demanda, não se vislumbrando em seu conteúdo nenhum motivo, ou dúvida, capaz de justificar qualquer diligência ou elaboração de outra perícia.
+Ademais, o resultado desfavorável à parte evidentemente não constitui, por si só, razão suficiente a justificar a desconsideração do laudo que, a propósito, foi produzido por médico de confiança do Juízo. No mais, tenho que a improcedência do pleito é mesmo a medida a se impor
+ ..
+Com efeito, objetivou o autor na presente ação a concessão de benefício acidentário sob o argumento de que teve reduzida a sua capacidade de trabalho em decorrência de problema colunar, cuja causa de eclosão, segundo alega, está relacionada com as condições inóspitas às quais se sujeitou no desempenho de sua atividade profissional.
+Submetido à perícia médica, o laudo produzido, em atenta análise do quadro reclamado, foi categórico ao atestar que ele não ostenta nenhuma sequela decorrente de lesões na coluna a ensejar configuração de déficit funcional a ser considerado (ver páginas 21/26).
+De fato, vê-se que os achados dos exames físico e complementares apontaram resultados dentro da normalidade, não se evidenciando sinais de contraturas musculares, comprometimento radicular ou limitações de mobilidade, não havendo, portanto, qualquer restrição à capacidade laboral do autor (ver páginas 23/25).
+De outro lado, os documentos médicos juntados pelo autor(parecer discordante de seu assistente técnico e laudo produzido na Justiça do Trabalho) não vieram providos de fundamentação capaz de firmar convencimento acerca de eventual desacerto da conclusão exarada pelo laudo médico-pericial. Nesse contexto, em que pese o inconformismo do apelante, diante da manifesta ausência de sequela incapacitante decorrente de moléstia ocupacional, conforme se extrai do bojo do laudo oficial, descabe na espécie a concessão do benefício acidentário postulado.
+Nesse contexto, alterar a conclusão a que chegou a Corte de origemno sentido daausência de sequela incapacitante decorrente de moléstia ocupacional, como já assentado na decisão agravada, implica, necessariamente, emnovo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+AUXÍLIO-ACIDENTE E/OU APOSENTADORIA POR INVALIDEZ. DOENÇA DO TRABALHO. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA A. AUSÊNCIA DE ARGUMENTAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO COMPROVAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA DOS ACÓRDÃOS CONFRONTADOS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7 do STJ. No caso, a Corte de origem com base na situação fática e nas provas dos autos, concluiu pela inexistência de incapacidade seja parcial ou total, temporária ou definitiva para o trabalho, bem como de que inexiste nexo causal entre as alegas enfermidades e o ambiente laboral que as classifique como doença laboral ou acidente de trabalho. Alterar esse entendimento demanda reexame do conjunto fático-probatório dos autos, vedado em recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo nos próprios autos para não conhecer do recurso especial. (AgInt no AREsp 1.595.312/SP, de minha relatoria, DJe 20/5/2020)
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE INCAPACIDADE TOTAL. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N.
+7/STJ.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de aposentadoria por invalidez em decorrência de doença ocupacional.
+II - Havendo o Tribunal de origem, com base no conjunto fático-probatório dos autos e no laudo pericial, concluído que a segurada não apresenta incapacidade laborativa total, a inversão do julgado demandaria o reexame dos mesmos fatos e provas, o que é vedado na instância especial ante a incidência do enunciado n. 7 da Súmula do STJ. Precedentes.
+III - Agravo em recurso especial conhecido para não conhecer do recurso especial. (AREsp 1.332.029/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 11/12/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
