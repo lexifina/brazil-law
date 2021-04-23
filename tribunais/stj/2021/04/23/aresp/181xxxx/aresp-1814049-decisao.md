@@ -1,0 +1,39 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por LUIS SERGIO CHEMIN e OUTROS,em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 470, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. ENCARGOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. ATRIBUIÇÃO À PARTE EXECUTADA. SENTENÇA MANTIDA.
+1. Ainda que consumada a prescrição intercorrente, especialmentenas causas regidas pelo Código de Processo Civil de 1973, os encargos sucumbenciais devem ser imputados à parte executada, ante o princípio da causalidade.
+2. Apelação cível conhecida e não provida.
+Opostos embargos de declaração, esses foram rejeitados (fls. 595-599, e-STJ).
+Nas razões do recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação doart. 85do NCPC,sustentando, em síntese, que "há que se considerar o acolhimemento da exceção de pré-executividade, onde os recorrentes saíram vencedores, vez que o juiz de primeiro grau extinguiu a execução, sendo justa a fixação de honorários advocatícios em seu favor" (fl. 627, e-STJ).
+Devidamente apresentadas as contrarrazões (fls. 642-657, e-STJ), sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (fls. 680-689, e - STJ).
+É o breve relatório.
+Passo a decidir.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+A controvérsia do presente recurso especial situa-se em torno de se estabelecer se, nos casos de extinção do processo de execução pela prescrição intercorrente, são devidos honorários advocatícios sucumbenciais em favor dos patronos da parte executada.
+As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado, responsável pela instauração do processo em seu desfavor.
+Nesse sentido, confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/15). ART. 85 DO CPC. AÇÃO DEEXECUÇÃO. PRESCRIÇÃO INTERCORRENTE.HONORÁRIOSADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTEEXECUTADA.DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ.
+1. Ação deexecuçãode título executivo extrajudicial proposta contra o cliente do advogado que recorre em nome próprio.
+2. Controvérsia em torno da possibilidade de condenação da parte exequente ao pagamento dehonoráriosadvocatícios sucumbenciais no caso de extinção do processo deexecuçãopela prescrição intercorrente.
+3. Apesar da dicção do art. 85 do CPC, nem sempre o "vencedor" e o "vencido" são, respectivamente, os únicos sujeitos passíveis de serem credores e devedores dehonoráriosadvocatícios sucumbenciais.
+4. Há situações em que, mesmo não sucumbindo no plano do direito material, a parte vitoriosa é considerada como geradora das causas que produziram o processo e todas as despesas a ele inerentes.
+5. "O princípio da causalidade não se contrapõe ao princípio da sucumbência. Antes, é este um dos elementos norteadores daquele, pois, de ordinário, o sucumbente é considerado responsável pela instauração do processo e, assim, condenado nas despesas processuais. O princípio da sucumbência, contudo, cede lugar quando, embora vencedora, a parte deu causa à instauração da lide" (REsp 303.597/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/04/2001, REPDJ 25/06/2001, p. 174, DJ 11/06/2001).
+6. Caso concreto em que a prescrição intercorrente por ausência de localização de bens não afasta o princípio da causalidade em desfavor da parteexecutada,nem atrai a sucumbência para a parte exequente.
+(REsp 1.835.174/MS, de minha Relatoria, Terceira Turma, DJe 11/11/2019);
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. MAJORAÇÃO DEHONORÁRIOSADVOCATÍCIOS. DESCABIMENTO. DECLARAÇÃO, NA ORIGEM, DEPRESCRIÇÃO INTERCORRENTE.PRECEDENTE.
+1. Em face do princípio da causalidade, sequer se justificaria a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão deprescrição intercorrente.Isso porque quem deu causa ao ajuizamento daexecuçãofoi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa e, proposta aexecução,não indicou bens aptos ao cumprimento da obrigação. Não cabe, todavia, em recurso apenas do beneficiário doshonorários,reformar o acórdão recorrido em seu prejuízo. Precedente.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1711219/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/05/2019, DJe 20/05/2019, g.n.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA.
+1. "Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação" (REsp 1769201/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/03/2019, DJe 20/03/2019).
+2. Agravo interno a que se nega provimento.(AgInt no REsp 1793200/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/09/2019, DJe 27/09/2019) g.n.
+Portanto, o entendimento do Tribunal de origem exposto no acórdão recorrido está com conformidade com a orientação desta Corte Superior, ao destacar que, "o devedor, ao deixar de quitar o débito mesmo depois da propositura da execução, além de dar causa à demanda, não contribui para a sua efetiva solução" (fl. 502, e-STJ).
+Com efeito, a despeito de não haver sido imposta derrota ao ora recorrente no plano jurídico, uma vez que a prescrição fulmina a pretensão executória, as circunstâncias em que envolvem a causa - a dívida não quitada a tempo e modo - demonstram que o executado deu causa à existência do processo, não devendo o exequente, em que pese seja tecnicamente sucumbente, suportar os ônus sucumbenciais, em virtude da aplicação do princípio da causalidade.
+Desse modo, não há reparo a ser feito na decisão que adota entendimento em harmonia com a jurisprudência desta Corte Superior.
+Ante o exposto, CONHEÇO DO AGRAVO para, desde logo, NEGAR PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatíciosdevidos ao(s) advogado(s) da parte recorrida em 2% sobre o valor fixado na origem (fls.505, e-STJ), totalizando o percentual de 14% (quatorze por cento) do valor atualizado da causa.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. PRESCRIÇÃO INTERCORRENTE RECONHECIDA NA ORIGEM. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
