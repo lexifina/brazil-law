@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIÃO contra decisão de minha lavra (e-STJ fls. 704/705), em que determinei a devolução dos autos ao Tribunal de origem, em observância ao art. 1.040 do CPC/2015, tendo em vista o reconhecimento de repercussão geral - RE n. 636.553/RS- em relação ao prazo de cinco anos para o TCU julgar a legalidade do ato de concessão inicial de aposentadoria,a contar da chegada do processo à respectiva Corte de Contas.
+Sustenta a parte embargante que "opano de fundo de que tratam os autos é o início do prazo decadencial para que a Administração Pública anule ato administrativo referente à concessão de aposentadoria" (e-STJ fl. 715).
+Impugnação (e-STJ fls. 721/722).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+In casu, não ocorreu nenhum dos vícios supracitados.
+O acórdão atacado foi claro ao registrar que (e-STJ fl. 500):
+O autor aposentou-se em 04-8-1994 (Portaria 904 de 29-7-1994 no Diário Oficial da União - Evento 02 - ANEXOS PET5 - pág. 33).
+Em 21-7-2009, por meio do Ofício 542/2009/PROGEPE/CAPE (Evento 02 - ANEXOS PET5, pág. 72), o mesmo foi notificado pela UFPR do teor do acórdão 2238/2009 do TCU, que considerou ilegal o ato que concedeu a parcela previdenciária de opção do cargo de direção (Função Comissionada FC-5).
+Na equação, não poderia a administração, após o transcurso do lapso decadencial previsto no artigo 54, da Lei nº 9784/99, revisar o ato administrativo.
+Soma-se a isso oargumentoda parte embargante defendidono apelo nobre de que a Corte de origem ofendeu o art. 54 da Lei n. 9.784/1999,porquanto a autora teve negado pelo TCU o registro do ato de inativação, bem como "não há falar em decadência quando o ato de aposentadoria é revisto dentro dos 05 (cinco) anos da decisão do Tribunal de Contas da União" (e-STJ fl. 567).
+Dessa forma, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte Superior tem o entendimento de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Confiram-se: AgInt nos EDcl no REsp n. 1.612.117/SC, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/08/2017; AgInt no REsp n. 1.366.363/ES, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/08/2017; AgInt no AgInt no REsp n. 1.603.061/SC, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/06/2017.
+Impende consignar que somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o apelo nobre deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se, ainda, que essa medida visa evitar um decisum inócuo proferido por esta Corte e também a cisão do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Tem-se, portanto, que a matéria meritória suscitada no recurso especial é idêntica daquela cuja repercussão geral foi reconhecida nos autos do RE n. 636.553/RS, de modo que há óbice ao regular trâmite do presente feito.
+Nesse contexto, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que entendeu ser desfavorável, possuindo (aquela)caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Intimem-se. Publique-se.
