@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por Lazaro Agnaldo da Silva contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+DIREITO PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE URBANA NÃO RECONHECIDA. TRABALHO ESPECIAL. RECONHECIDO. RUÍDO. BENEFÍCIO NÃO CONCEDIDO. NÃO PREENCHIMENTODOS REQUISITOS. CONSECTÁRIOS LEGAIS.
+I - Com o advento da Emenda Constitucional nº 20/98, a aposentadoria por tempo de serviço foi convertida em aposentadoria por tempo de contribuição, tendo sido excluída do ordenamento jurídico a aposentadoria proporcional, passando a estabelecer o artigo201 da Constituição Federal o direito à aposentadoria no regime geral de previdência social, nos termos da lei, ao completar 35 (trinta e cinco) anos de contribuição, se homem e 30 (trinta) anos de contribuição, se mulher.
+II - Entretanto, o art. 3º da referida Emenda garantiu o direito adquirido à concessão da aposentadoria por tempo de serviço a todos aqueles que até a data da sua publicação, em 16 de dezembro de 1998, tivessem cumprido todos os requisitos legais, com base nos critérios da legislação então vigente.
+III - Ao segurado inscrito perante o Regime Geral de Previdência Social anteriormente à promulgação da Emenda Constitucional nº 20/98, mas que, nessa data (16 de dezembro de 1998), ainda não tivesse preenchido os requisitos necessários à sua aposentação, mesmo na forma proporcional, aplicam-se as regras de transição estabelecidas pelo art. 9º da referida normação constitucional.
+IV - Foram contempladas, portanto, três hipóteses distintas à concessão da benesse: segurados que cumpriram os requisitos necessários à concessão do benefício até a data da publicação da EC 20/98 (16/12/1998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo; e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+V - No caso dos autos, não restou comprovado o labor urbano, tendo, por outro lado, sido demonstrado o exercício de atividade em condições insalubres.
+VI - A somatória do tempo de serviço laborado pela parte autora não autoriza a concessão do benefício pleiteado, ante o preenchimento dos requisitos legais.
+VII - Condenação equitativa ao pagamento de honorários advocatícios, conforme a sucumbência recursal das partes.
+VIII - Apelo do autor parcialmente provido.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Nas razões de recurso especial manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional, sustenta o recorrente violação do artigo 55, § 3º, da Lei 8.213/1991, bem como dissidio jurisprudencial.
+Defende que "há elemento para classificar a r. Sentença Trabalhista como documento apto de prova material, pois foi obtido pela ampla defesa e o contraditório resultado do devido processo legal".
+O prazo para apresentação de contrarrazões transcorreu in albis.
+Noticiam os autos que Lazaro Agnaldo da Silvaajuizou ação em desfavor do INSS, objetivado a concessão de aposentadoria por tempo de contribuição; asentença julgou o pedido parcialmente procedente; o Tribunala quodeu parcial provimento ao apelo do INSS para deixar de reconhecer o labor urbano no período de 03/10/1984 a 09/06/1986 e para julgar improcedente o pedido de concessão da aposentadoria por tempo de contribuição, nos termos da ementa supratranscrita.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, a questão gira em torno da força probante da sentença trabalhista para efeito de concessão de benefício previdenciário.
+Quanto ao ponto, é pacífico o entendimento desta Corte no sentido de que a sentença trabalhista pode ser considerada como início de prova material para a determinação de tempo de serviço, desde que corroborada poroutros elementos de prova que evidenciem o labor exercido na função e nos períodos alegados pelo trabalhador segurado.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. ALEGAÇÕES DE VIOLAÇÃO DO 489, II E § 1º, IV E 1.021, § 3º, TODOS DO CPC/2015.INEXISTÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DO STJ.
+I - Na origem, trata-se de ação ordinária em que se pretende a concessão do benefício de pensão por morte. Na sentença, julgou-se parcialmente procedente o pedido para concessão do benefício a partir de 11.12.2009. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido.
+(..)
+IV - No mais, a jurisprudência desta Corte orientou-se no sentido de que a sentença trabalhista é documento suficiente para ser considerado início de prova material, desde que corroborada por outros elementos probatórios ou se a Previdência não fizer prova em sentido contrário. Nesse sentido: REsp 1.766.914/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2018, DJe 4/12/2018; REsp 1.590.126/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/9/2016, DJe 10/10/2016; AgRg no AREsp 269.887/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/3/2014, DJe 21/3/2014.
+V - Ocorre que o Tribunal de origem, destinatário do conjunto probatório, considerou inexistente qualquer prova material da existência do vínculo reconhecido na esfera trabalhista, e que as testemunhas não corroboraram a sua efetiva prestação, não podendo a sentença trabalhista ser considerada para fins previdenciários.
+VI - Sendo assim, para rever o entendimento firmado na instância ordinária, seria necessário o revolvimento de todo conjunto fático-probatório, o que não é possível na seara do recurso especial ante o óbice constante do enunciado n. 7 da Súmula do STJ.
+VII - Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+VIII - Agravo interno improvido.(AgInt no AREsp 1129366/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA,DJe 10/02/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESTABELECIMENTO DE APOSENTADORIA. VÍNCULO EMPREGATÍCIO. SENTENÇA TRABALHISTA COMO INÍCIO DE PROVA MATERIAL. NECESSIDADE DE SER CORROBORADA POR OUTROS MEIOS DE PROVA. INEXISTÊNCIA NO CASO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois observou a jurisprudência do STJ, segundo a qual a sentença trabalhista pode ser considerada como início de prova material para a obtenção de benefício previdenciário, ainda que o INSS não tenha integrado a respectiva lide, desde que fundada em elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador.
+2. Agravo interno não provido.
+(AgInt no REsp 1752696/RS, de minha relatoria, SEGUNDA TURMA, DJe 01/03/2019)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INÍCIO DE PROVA MATERIAL PARA OBTENÇÃO DE BENEFÍCIO PREVIDENCIÁRIO.SENTENÇA TRABALHISTA. POSSIBILIDADE. PRECEDENTES DESTA CORTE.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento pacificado nesta Corte segundo o qual a sentença trabalhista pode ser considerada como início de prova material para a obtenção de benefício previdenciário, ainda que o INSS não tenha integrado a respectiva lide, desde que fundada em elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador, como aconteceu no caso dos autos.
+(..)
+V - Agravo Interno improvido.(AgInt no REsp 1819042/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA,DJe 23/10/2019)
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. RECONHECIMENTO DE TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça admite a sentença homologatória de acordo trabalhista como início de prova material, para fins de reconhecimento de tempo de serviço, desde que fundada em elementos que atestem o exercício laboral no período alegado ou corroborada por outras provas nos autos.
+2. Agravo Regimental do INSS desprovido.(AgRg no AREsp 333.094/CE, primeira turma, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 20/3/2014)
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (e-STJ fls. 394/403):
+Pretende o autor o reconhecimento do labor urbano no período de 26/09/1984 a 09/06/1986.
+Neste ponto, destaco que o lapso de 26/09/1984 a 02/10/1984 resta incontroverso, eis que reconhecido como tempo de atividade urbana pelo INSS na via administrativa (nº 86087266-30).
+Por outro lado, no tocante ao intervalo remanescente, sorte não assiste ao demandante.
+Para sua comprovação, colacionou aos autos cópia da ação trabalhista em que houve a declaração do exercício de labor urbano no interregno ora analisado.
+Entretanto, como já exposto na presente decisão, a sentença trabalhista (nº 86087266-18/21) constitui apenas início de prova material do labor urbano, a qual deve ser corroborada pela prova oral colhida em audiência, o que não ocorreu no presente caso.
+Sendo assim, restou comprovado o labor urbano no período de ,não03/10/1984 a 09/06/1986 remanescendo apenas aquele reconhecido na via administrativa.
+Destarte, merece ser mantido o acórdão recorrido, que aplicou à espécie o melhor direito, em conformidade com o entendimento do Superior Tribunal de Justiça, incidindo o óbice da Súmula 568/STJ que dispõein verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no artigo 932, IV, do CPC/2015 c/c o artigo 255, § 4º, II, do RISTJ, bem como na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. EFICÁCIA PROBATÓRIA. SÚMULA 568/STJ. RECURSO ESPECIAL NÃO PROVIDO.
