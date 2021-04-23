@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MARIVALDO SILVA DA PAIXAO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBAproferido no julgamento do HC n. 0808194-64.2020.8.15.0000.
+Extrai-se dos autos que o paciente foi condenado à penade 15 anos de reclusão, como incurso no art. 121, § 2º, incisos II e IV, do Código Penal (homicídio qualificado). A sentença condenatória transitou em julgado.
+Alegando existência de constrangimento ilegal decorrente da inadequadavaloração negativa das circunstâncias judiciais, a defesa impetrouhabeas corpus perante o Tribunal de origem, que não conheceu da ordem por decisão monocrática dorelator.
+Ainda irresignada, a defesa interpôs agravo regimental, que foi desprovido nos termos doacórdão que restou assim ementado:
+AGRAVO INTERNO EM HABEAS CORPUS. Art. 284 do Regimento Interno do Tribunal de Justiça da Paraíba. Decisão Monocrática que não conheceu de habeas corpus. Reconsideração. Não cabimento. Desprovimento do agravo.
+- O Agravo Interno, previsto no art. 284 do Regimento Interno deste Tribunal de Justiça, pode ser interposto em face de decisão do Presidente do Tribunal, do Presidente de Turma, ou do Relator do processo, desde que tenha sido monocrática.
+- Existindo previsão legal de recurso próprio ou revisão criminal, impõe-se o não conhecimento do remédio constitucional utilizado como substitutivo recursal, devendo ser analisado o writ, que poderá ser concedido de ofício, apenas no caso de constatação de flagrante ilegalidade. Precedentes dos Tribunais Superiores.
+- Verificando-se que a insurgência defensiva, em sede de habeas corpus, não se enquadra na situação de flagrante ilegalidade, apta a gerar constrangimento ilegal, é de se manter a decisão monocrática que não conheceu do presente remédio heroico como sucedâneo recursal (fls. 18/19).
+No presentewrit,afirma a possibilidade da impetração dohabeas corpus, considerando a flagrante ilegalidade da decisão de primeiro grau. Por outro lado, reafirma que as circunstâncias judiciais foram negativamente valoradas sem a devida fundamentação e com base em elementos do próprio tipo.
+Pretende, em liminar e no mérito, o afastamento de tais circunstâncias, com a redução da pena ao mínimo legal.
+A liminar foi indeferida (fls. 26/27). Informações prestadas (fls. 33/34). Parecer do Ministério Público Federal pelo não conhecimento do writ (fl. 50).
+É o relatório.
+Decido.
+O pedido não comporta conhecimento.
+Isso porque as questão referente à dosimetria da penanão foiapreciadapelo Tribunal de Justiça do Estado da Paraíba, circunstância que obsta a análise daquestãopor esta Corte Superior, sob risco de se incorrer em indesejável supressão de instância. A propósito, confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SUPOSTA ILEGALIDADE NA FUNDAMENTAÇÃO UTILIZADA PARA AUMENTAR A PENA NA PRIMEIRA FASE. INADMISSIBILIDADE. QUESTÃO QUE NÃO FOI DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO SUBSIDIÁRIO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. ELEMENTOS CONCRETOS, QUE TRANSBORDAM AQUELES PRÓPRIOS DOS CRIMES. DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. INADMISSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO SUBSIDIÁRIO. MANIFESTA IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE. SUPOSTA ILEGALIDADE NA EXCLUSÃO DO REDUTOR ESPECIAL DA PENA. IMPROCEDÊNCIA. CONDENAÇÃO POR ASSOCIAÇÃO QUE AFASTA A POSSIBILIDADE DE INCIDÊNCIA DO REDUTOR. PRECEDENTES DESTA CORTE. SUPOSTA ILEGALIDADE NO REGIME INICIAL DE PENA. IMPROCEDÊNCIA. PENA TOTAL QUE SUPERA 8 ANOS. REGIME ADEQUADO.
+Agravo regimental improvido.
+(AgRg no HC 552.736/SP, Rel. Ministro SEBASTIÃO REIS JUNIOR, SEXTA TURMA, DJe 2/2/2021).
+DIREITO PENAL. NULIDADES. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PEDIDOS NÃO FORMULADOS EM RECURSO DE APELAÇÃO OU EMBARGOS DE DECLARAÇÃO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ATO ILEGAL OU COATOR. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - De plano, verifica-se que a matéria objeto da presente impetração não poderá ser examinada por esta eg. Corte Superior de Justiça, pois, consoante a instrução processual, não foi questionada perante o eg. Tribunal de origem, sob pena de supressão de instância.
+III - Assim, inexistindo ato que tenha atentado contra a liberdade de locomoção do paciente por ilegalidade ou abuso de poder (art. 5º, LXVIII, da Constituição da República), impõe-se o não conhecimento do mandamus. Habeas corpus não conhecido.
+(HC 569.253/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 17/06/2020).
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDA. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+1. O tema referente ao excesso de prazo na formação da culpa não foi submetido, muito menos tratado pela instância a quo, situação configuradora de supressão de instância, que impede o conhecimento do recurso nessa parte.
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis. 2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao paciente que, segundo o decreto prisional, foi flagrado com elevada quantidade de substância entorpecente (6,300 kg - seis quilos e trezentos gramas de cocaína e maconha, além de 133,5 g - cento e trinta e três gramas e cinco decigramas de pedras de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso conhecido em parte e, nessa extensão, desprovido.
+(RHC 86.944/RR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 14/12/2017).
+Ademais, a sentença transitou em julgado 3/5/2012 e somente em 2020foi impetrado ohabeas corpus,qual não pode ser conhecido, em decorrência da preclusão da matéria.
+Assim, considerando o longo decurso de tempo sem que tenha sido alegada qualquer erro na dosimetria deve ser afastada a existência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
