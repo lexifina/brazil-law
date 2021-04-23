@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBSON MANOEL DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (HC n. 0018336-72.2020.8.17.9000).
+Depreende-se dos autos que o paciente foi preso em flagrante, acusado de ter praticados as condutas previstas nos arts. 288, parágrafo único, 304 e 180 do Código Penal e no art. 16 da Lei n. 10.826/2003. A prisão foi convertida em preventiva.
+Impetrado writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 22):
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, FALSIFICAÇÃO DE DOCUMENTO E RECEPTAÇÃO. ILEGALIDADE DA PRISÃO POR DESCUMPRIMENTO DO ART. 316, PARÁGRAFO ÚNICO, DO CPP.PRAZO NÃO PEREMPTÓRIO . CONDIÇÕES PESSOAS FAVORÁVEIS QUE NÃO IMPEDEM A DECRETAÇÃO DA PRISÃO. PLURALIDADE DE CRIMES DOLOSOS. SOMATÓRIO DA PENA MÁXIMA ABSTRATAMENTE COMINADA AOS DELITOS PARA EFEITO DE ADMISSIBILIDADE DA PRISÃO PREVENTIVA COM BASE NO ART. 313, INCISO I, DO CPP.ORDEM DENEGADA.
+1. A nova redação do art. 316, parágrafo único, do Código de Processo Penal, operada pela Lei nº 13.964/2019, determina a reavaliação periódica dos fundamentos que indicaram a necessidade da custódia cautelar a cada 90 dias. Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade. No julgamento da Suspensão de Liminar (SL) 1395, o Plenário do Supremo Tribunal Federal (STF) sedimentou o entendimento de que a inobservância da reavaliação no prazo de 90 dias, previsto no art. 316, parágrafo único, do Código de Processo Penal (CPP), não implica a revogação automática da prisão preventiva. A Suprema Corte entendeu que o juízo competente deve ser instado a reavaliar a legalidade e a atualidade de seus fundamentos.
+2. As condições pessoais favoráveis não constituem empecilho à manutenção da prisão preventiva, quando presente seus requisitos, conforme já sedimento pelo Tribunal de Justiça de Pernambuco (TJPE).Súmula 86/TJPE.
+3. Se o paciente responde por dois ou mais crimes dolosos, em concurso material, impõe-se a soma das penas máximas cominadas para se verificar a hipótese de admissibilidade da prisão preventiva prevista no art. 313, inciso I, do CPP.
+4. Ordem denegada.
+Alega a defesa, na presente impetração, que há excesso de prazo, asseverando que, a despeito deo paciente estarpreso desde 18/8/2020, até os dias atuais nem sequer houve o oferecimento da denúncia.
+Requer, inclusive liminarmente, o relaxamento da prisão.
+Liminar indeferida às e-STJ fls. 299/300.
+Prestadas as informações, oMinistério Público Federal opinou pela concessão da ordem (e-STJ fls. 324/330).
+É o relatório.
+Decido.
+Pois bem. A despeito das alegações defensivas, verifico que a tese de excesso de prazo não foi examinada pelo Tribunal de origem no julgamento do habeas corpusoriginário,de modo que esta Casa está impedida de analisar o tema, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: ed. JusPodivm, 2016. p. 2.470).
+Assim, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA.INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS.ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA.ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..  (HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017)
+À vista do exposto, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
