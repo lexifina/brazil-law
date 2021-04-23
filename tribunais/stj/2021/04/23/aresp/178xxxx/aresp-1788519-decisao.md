@@ -1,0 +1,77 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial manejado por EDITORA GLOBO S.A em face da decisão do Tribunal de Justiça do Estado do Paraná que negou seguimento ao recurso especial aviado pelaalínea"a" do artigo 105, III, da Constituição Federal, contra acórdão assim ementado (Fl. 102, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO DE TUTELAANTECIPADA ANTECEDENTE - NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO AFASTADA - TUTELA DE URGÊNCIA ADREDEMENTE DEFERIDA - NOVA IRRESIGNAÇÃO - RECURSO DE COGNIÇÃO SUMÁRIA - QUADRO FÁTICO INALTERADO - REQUISITOS ENSEJADORES DA MEDIDA PLEITEADA DEMONSTRADOS - CPC, ART. 300, CAPUT - MATÉRIA JORNALÍSTICA PUBLICADA NO SÍTIO ELETRÔNICO DO JORNAL O GLOBO- DÚVIDA QUANTO À VERACIDADE DOS FATOS - PRECEDENTES - RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 181-185, e-STJ).
+Nas razões do recurso especial, a recorrente apontou violação dosartigos 489, 1.022, e 300 do Código de Processo Civil, sustentando, em síntese, que não foram preenchidos osrequisitos para o deferimento da antecipação dos efeitos da tutela.
+Defende a ocorrência de negativa de prestação jurisdicional e diz que a reportagem relatou fatos verídicos e de interesse público, agindo no exercício regular de seu direito-dever de informar.
+Devidamente apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade peloTribunal de origem, o que ensejou a interposição do presente agravo (fls. 296-306, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Primeiramente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+No tocante à alegada afronta aos arts. 489, §1º e 1022 II, do CPC/2015, sem razão a parte recorrente.
+Nos rígidos limites estabelecidos pelo art. 1.022, incisos I, II e III do Código de Processo Civil/2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade ou eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+No caso concreto, entretanto, não se configurou a existência de quaisquer das deficiências em questão, pois o aresto recorrido decidiu de forma exauriente e com fundamentação suficiente a controvérsia, expondo os motivos pelos quais entendeu presentes os requisitos para o deferimento da tutela antecipada.
+Especificamente em relação à apontada ausência de fundamentação quanto ao risco de dano, extrai-se doacórdão recorrido a seguinte fundamentação (Fl. 104, e-STJ):
+Pois bem. Consigno, antes de tudo mais, não se me parece imotivada a decisão recorrida tocantemente ao perigo de dano para a Agravada.
+Serviu-lhe de fundamento, deveras, a premissa de que "as informações veiculadas se revelam inverídicas e desassociadas da realidade fática processual, adotando,inclusive, em alguns casos, um tom acentuadamente pejorativo em relação à conduta da requerente, podendo ensejar efetiva ofensa à sua honra e à imagem da requerente, a ponto de atingir a esfera dos direitos constitucionais que lhe são garantidos.". Percebe-se daí as razões para a ordenança.
+Desse modo, a pretensão recursal, em verdade, traduz-se em meroinconformismo com a decisão posta.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado concernente à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. A controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 535 do CPC/73, pois não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2. (..)
+4. Agravo interno desprovido.
+(AgInt no AREsp 849.788/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 27/05/2019, DJe 30/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. DEFERIMENTO DO PEDIDO LIMINAR. POSSE VELHA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CABIMENTO. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022, I e II, do Código de Processo Civil de 2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp 1089677/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018).
+Assim, não há que se falar em negativa de prestação jurisdicional por ausência de fundamentação.
+Lado outro, conforme a jurisprudência do Superior Tribunal de Justiça, "em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, a análise desta Corte Superior de Justiça fica limitada à apreciação dos dispositivos relacionados aos requisitos datutela de urgência,ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal" (EDcl no AREsp n. 387.707/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/12/2014,DJe 10/12/2014).
+Esta Corte Superior entende não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, consoante dispõe a Súmula nº 735/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. PENSIONAMENTO MENSAL. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. AUSÊNCIA DE AFRONTA AOS ARTS.131, 165, 458 E 535 DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N.283 DO STF E 182 DO STJ. DEBATE DO MÉRITO. IMPOSSIBILIDADE.PRECEDENTES DO STJ. PRECLUSÃO. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+2. Inexiste afronta aos arts. 131, 165, 458 e 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. Conforme a jurisprudência do STJ, "é obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, em função do caráter precário da decisão que julgou a antecipação de tutela (Súmula 735 do STF)" (AgInt no REsp n. 1.413.057/SC, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 9/3/2017, DJe 23/3/2017), o que impede o exame da alegada ofensa ao art. 884 do CC/2002 nesta instância.
+6. Segundo a jurisprudência do STJ, as tutelas de urgência podem ser deferidas ou indeferidas a qualquer tempo, desde que o julgador se convença da verossimilhança das alegações da parte e estejam presentes os requisitos, inexistindo, desse modo, preclusão para requerer a medida, ante a superveniência de fatos novos, o que ocorreu. Precedentes.
+7 O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+8. No caso concreto, para alterar a conclusão do Tribunal de origem, revogando a tutela antecipada que concedeu pensionamento mensal aos agravados, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 741.297/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA E PROVISÓRIA DO JULGADO QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. ENUNCIADO N.735 DA SÚMULA DO STF. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. MULTA DO ART. 1.021, § 4º, DO
+CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "à luz do disposto no enunciado da Súmula 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 09/10/2018, DJe 15/10/2018).
+2.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1473761/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/09/2019, DJe 27/09/2019).
+Assim, à luz da jurisprudência consolidada nesta Corte, não assiste razão jurídica à parte recorrente, de sorte que o desprovimento do recurso é medida que se impõe.
+Ademais, não se tem aberta esta instância especial para a análise daverificação dos requisitos da tutela provisória de urgência,porque necessária a reapreciação do contexto fático-probatório dos autos,incidindo o enunciado 7/STJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA PREVISTA NO ART. 300 DO CPC/2015. COMPROVAÇÃO DOS REQUISITOS. LIVRE CONVENCIMENTO DO MAGISTRADO. PODER GERAL DE CAUTELA DO JUÍZO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DECISÃO PRECÁRIA. SÚMULA 735/STF. RECURSO NÃO PROVIDO.
+1. (..)
+2. Não cabe, em regra, recurso especial com o escopo de reexaminar decisão ou acórdão que concede ou não medida liminar ou antecipação da tutela, tendo em vista a natureza precária de tal provimento, que não enfrenta, em cognição exauriente, o mérito da demanda.
+3. A reforma do julgado demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+4. "Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar),entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. (Aglnt no AREsp980.165/BA, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 09/02/2018).
+5. Agravo interno a que se nega provimento."
+(Aglnt no AREsp1145391/RJ,Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 01/08/2018) - grifei.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPRA E VENDA IMÓVEL RURAL. TUTELA DE URGÊNCIA. ART. 300 CPC/2015. REQUISITOS. DEMONSTRAÇÃO. LIMINAR CONCEDIDA. INCIDÊNCIA SÚMULA 735/STF. REVISÃO. ENTENDIMENTO. VEDAÇÃO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO IMPROVIDO.
+1. É pacífico o entendimento desta Corte, em sintonia com o disposto na Súmula 735 do STF, de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes. Agravo regimental não provido. (AgRg no AREsp n. 581.358/RJ, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)".
+2. Para a revisão dos requisitos necessários ao deferimento da tutela de urgência, é necessário o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. A violação do art. 1.219 do Código Civil não foi objeto de debate pela Corte de origem, mesmo após a oposição dos embargos de declaração, do que resulta a falta de prequestionamento, atraindo a incidência da Súmula 211/STJ.
+4. É firme o entendimento de que "a ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do artigo 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF" (AgInt no REsp 1.680.845/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/04/2018, DJe 19/04/2018)".
+5. Agravo interno a que se nega provimento.
+(Aglnt nos EDcl no AREsp 1335857/MT,Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 22/03/2019) - grifei.
+Assim, inviável o acolhimento do recurso.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AGRAVO DE INSTRUMENTO. DIREITO DE IMAGEM. MATÉRIA JORNALÍSTICA. OFENSA À HONRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.TUTELA ANTECIPADA. REQUISITOS DO ART. 300 DO NCPC. REEXAME. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 735 DO ST E 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
