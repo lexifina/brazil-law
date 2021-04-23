@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WALLAN OLIVEIRA DIAS, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0011006-28.2020.8.26.0996).
+O paciente cumpre pena de 18 anos e 4 meses de reclusão, com vencimento previsto para 4/9/2034.
+Requerida a progressão ao regime semiaberto, o pedido foi indeferido por não ter o paciente preenchido o requisito subjetivo.
+A impetrante aponta constrangimento ilegal por ausência de fundamentos idôneos para indeferir o benefício, sustentando que a gravidade dos crimes praticados, o histórico de faltas disciplinares e a longa pena a cumprir não têm o condão de obstar a promoção.
+Requer, liminarmente e no mérito, a promoção ao regime semiaberto.
+O pedido de liminar foi indeferido (fls. 75-76).
+Prestadas as informações (fls. 81-85 e 88-101), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 103-109).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução penal indeferiu os benefícios pretendidos nestes termos (fls. 44-45):
+A pretensão é improcedente.
+A despeito do cumprimento do requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui longa pena por cumprir, conforme cálculo de liquidação de penas.
+Outrossim, o sentenciado possui histórico prisional desfavorável eis que já perpetrou falta disciplinar de natureza grave, evidenciando a ausência de senso de responsabilidade e a inadequação à terapêutica penal aplicada.
+E mais. Tratando-se de crimes cometidos com violência ou grave ameaça à pessoa, no presente caso, roubos, demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo pois as várias faltas disciplinares anotadas em seu prontuário demonstram com fatos concretos que o sentenciado ainda não desenvolveu meios próprios de auto censura.
+Se num ambiente completamente regrado e vigiado o sentenciado não conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida em regime mais brando por óbvio não irá frear os seus instintos primitivos para suportar as regras da vida sem vigilância.
+O Tribunal de origem manteve o indeferimento, adotando os seguintes fundamentos (fls. 60-63):
+Consta dos autos que o agravante cumpre a pena de 18 (dezoito) anos e 4 (quatro) meses de reclusão, pela prática de dois crimes de roubo, com causas de aumento, cujo término está previsto para 18/05/2034 (fls. 24/26).
+Alegando ter preenchido as condições legais, pleiteou a concessão de progressão de regime, o que foi indeferido pelo Juízo das Execuções Criminais, sob o argumento de que ausente o requisito subjetivo.
+Por primeiro, verifica-se que não existe qualquer vício diante da sequência dos atos praticados pelo magistrado.
+Houve pedido de progressão ao regime semiaberto, formulado através de advogada da Funap, conforme fl. 22, sendo logicamente devido o atendimento ao princípio do contraditório à manifestação do Ministério Público, e, tendo o órgão se manifestado em razão da provocação de iniciativa de representante do próprio sentenciado, não há como acoroçoar sua pretensão no sentido de reconhecer a nulidade por cerceamento de defesa, mesmo porque não houve prejuízo ao agravado.
+ ..
+Assim, rejeita-se a preliminar arguida.
+Quanto ao mérito, o agravo não merece provimento.
+Isso porque, embora o reeducando tenha satisfeito o requisito objetivo, não comprovou ostentar mérito para alcançar as benesses pretendidas.
+Ora, consoante bem anotado na r. decisão agravada, "A despeito do cumprimento do requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui longa pena por cumprir, conforme cálculo de liquidação de penas. Outrossim, o sentenciado possui histórico prisional desfavorável eis que já cometeu vários delitos da mesma natureza, evidenciando a ausência de senso de responsabilidade e a inadequação à terapêutica penal aplicada. E mais. A reiteração da conduta demonstra a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando. Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo pois os vários delitos cometidos pelo sentenciado demonstram com fatos concretos que ainda não desenvolveu meios próprios de autocensura." (sic, fl. 30).
+Cumpre ressaltar que o agravante é reincidente e cometeu dois crimes de roubo no interregno de menos de um mês, ambos com causas de aumento, o que demonstra sua personalidade desabonadora, além de não ter demonstrado a assimilação da terapêutica penal, portanto, não está pronto para ser reintegrado à coletividade.
+Nesse passo, não se pode olvidar de que todas as benesses passíveis de deferimento em sede de execução penal somente podem ser concedidas se não representarem risco à sociedade, já que a segurança da comunidade é direito que prevalece sobre o interesse individual do condenado.
+Deste modo, havendo um mínimo de dúvida acerca da aptidão do reeducando em retornar ao convívio social, ainda que forma gradual, o benefício pretendido deve ser negado.
+A conclusão é contrária à orientação do STJ, razão pela qual está constatada hipótese de constrangimento ilegal, passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que a gravidade abstrata dos crimes pelos quais o sentenciado foi condenado, a longa pena a cumprir e faltas antigas e já reabilitadas não são fundamentos idôneos para negar os benefícios da execução penal.
+Nessa linha, confira-se o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTA DISCIPLINAR ANTIGA. FUNDAMENTO INIDÔNEO. AGRAVO. NÃO PROVIMENTO.
+1. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+2. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental improvido.(AgRg no HC n. 638.571/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1/3/2021.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO INDEFERIDA. REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DOS DELITOS, LONGA PENA A CUMPRIR E FALTAS GRAVES JÁ REABILITADAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência da Corte, não são hábeis a justificar o indeferimento da progressão de regime prisional, quanto ao requisito subjetivo, fundamentos inidôneos como a quantidade da pena, os fatores relacionados ao crime praticado, bem como as faltas disciplinares antigas já reabilitadas. Precedentes.
+2. Tendo sido reabilitada a última falta grave do paciente em 9/12/2017, e constando registro de boa conduta carcerária e preenchimento do requisito objetivo, ilegal o indeferimento da progressão do regime prisional com base no não preenchimento do requisito subjetivo quando inexistente o apontamento de fundamento idôneo para impedir o benefício.
+3. Agravo regimental em habeas corpus improvido.(AgRg no HC n. 547.113/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas também não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução. A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido. (AgRg no HC n. 620.883/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+No presente caso, consta dos autos que a última falta disciplinar praticada pelo paciente ocorreu em 4/9/2017 e foi reabilitada em 15/10/2019; portanto, não pode ser considerada obstáculo à concessão do benefício pretendido.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para cassar as decisões das instâncias ordinárias e determinar que o Juízo da execução penal reaprecie o pedido de progressão de regime nos limites legais, afastando a fundamentação anterior.
+Publique-se. Intimem-se.
