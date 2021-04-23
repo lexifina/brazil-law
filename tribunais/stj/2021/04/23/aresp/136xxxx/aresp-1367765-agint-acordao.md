@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IDENTIFICAÇÃO DOS REQUISITOS. REEXAME DE MATÉRIA FÁTICA. NÃO CABIMENTO. SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Bless Perticipações Ltda. interpõe agravo interno em face da decisão de fls. 868/873, que negou provimento ao agravo em recurso especial.
+Alega que ocorreu efetiva violação do art. 1.022, inciso II, do Código de Processo Civil pela falta de consideração das razões lançadas no apelo, permanecendo sem suprimento as omissões apontadas mesmo após dois embargos de declaração, em nítida negativa de prestação jurisdicional sobre causas e fatos que contraindicam a desconsideração da personalidade jurídica da agravante.
+Sustenta que apenas a apontada confusão patrimonial e o parentesco entre os sócios não é suficiente à drástica medida que a incluiu no polo passivo da execução. Nesse ensejo, afirma que a matéria não exige o reexame de elementos fáticos, apenas a análise da legislação indicada quanto às teses jurídicas da acerca da ausência de formação de grupo econômico, concluindo o TJPR pela adoção do teor da contraminuta oferecida pela parte adversa sem maior critério.
+Acrescenta que a existência de pessoas diversas, pai e filho de nome Elizeu, mesmo que posteriormente admitida, não levou à reversão do entendimento equivocado, ainda que instada a Corte local a se pronunciar sobre a falta de identidade entre os sócios.
+Paulo Roberto Lopes apresenta impugnação às fls. 889/900, no sentido de que foi meramente reiterada a fundamentação do agravo em recurso especial, o que infringe o princípio da dialeticidade, além de que os argumentos lançados não se prestam à obtenção do resultado pretendido, relativamente à confusão patrimonial, pois a identidade de sócios não é requisito elencado no art. 50 do Código Civil. Recomenda a manutenção do decisório. Adiciona a intempestividade do especial pelo não conhecimento dos segundos embargos de declaração e propõe a imposição de multas por recurso incabível e de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONFISSÃO DE DÍVIDA. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IDENTIFICAÇÃO DOS REQUISITOS. REEXAME DE MATÉRIA FÁTICA. NÃO CABIMENTO. SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não vinga.
+De início, ratifico integralmente a decisão agravada, cujo teor transcrevo (fls. 868/873):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EXECUTADA PARA ATINGIR BENS DE SÓCIOS E RECONHECIMENTO DA FORMAÇÃO DE GRUPO ECONÔMICO. INSURGÊNCIA. EMPRESA AGRAVANTE QUE SUSTENTA A INEXISTÊNCIA DE FORMAÇÃO DE GRUPO ECONÔMICO. FARTA DOCUMENTAÇÃO COLACIONADA AOS AUTOS. INSOLVÊNCIA DOS EXECUTADOS. ABUSO DE PERSONALIDADE JURÍDICA ANTE A PROVA DE CONFUSÃO PATRIMONIAL. CONFIGURAÇÃO DE GRUPO ECONÔMICO FAMILIAR. EMPRESA QUE DEVE COMPOR O POLO PASSIVO DA EXECUÇÃO. PRECEDENTES. NULIDADES. PRÉVIA CITAÇÃO. DILIGÊNCIA DESNECESSÁRIA. AUSÊNCIA DE VIOLAÇÃO AO CONTRADITÓRIO E AMPLA DEFESA. PENHORA DE ATIVOS. TENTATIVAS INEXITOSAS DE PENHORA DE BENS DOS EXECUTADOS. VIABILIZAÇÃO DE SATISFAÇÃO DO DÉBITO. LEI 11.382/2006. LIMINAR REVOGADA. DECISÃO MANTIDA. RECURSO CONHECIDO E NO MÉRITO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO EMBARGADA. PRETENSÃO DE REDISCUSSÃO DO MÉRITO RECURSAL TRAZIDO NO AGRAVO DE INSTRUMENTO. RAZÕES RECURSAIS QUE DEVEM GUARDAR CORRELAÇÃO LÓGICA COM O PRONUNCIAMENTO JUDICIAL ATACADO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. MANIFESTA INADMISSIBILIDADE. CARÁTER PROCRASTINATÓRIO NÃO VERIFICADO. NÃO APLICAÇÃO DA MULTA DO ARTIGO 1.026, § 2º, DO CPC E DA SUSPENSÃO DO EFEITO SUSPENSIVO DOS EMBARGOS.
+RECURSO NÃO CONHECIDO.
+Nas razões do especial, aponta a parte agravante violação aos artigos 1.022, II, do CPC, bem como art. 50, do CC/02.
+Sustenta que a instância ordinária recusou-se a responder objetivamente aos questionamentos e julgar as teses postas no recurso de agravo de instrumento, pois limitou-se a transcrever trechos da sentença de piso e argumentos existentes na contraminuta ao agravo de instrumento.
+Aduz, ainda que não há nos autos demonstração da alegada formação de grupo econômico familiar, quer sejam: identidade de sócios, interdependência administrativa, identidade de endereços ou de atividades, confusão patrimonial ou qualquer outro indício a justificar a inclusão da BLESS no polo passivo da execução, valendo destacar que a mera existência de parentesco entre os sócios das duas empresas, em que se embasou o acórdão recorrido, não é suficiente a configurar tal formação.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou a existência da confusão patrimonial:
+ ..
+Observa-se que a decisão da magistrada de primeiro grau tem por fundamento, além do verificado estado de insolvabilidade, a confusão patrimonial e, consequentemente, o desvio de finalidade da sociedade empresarial ante a existência de grupo econômico familiar entre a empresa agravante inserta no polo passivo da execução e a empresa executada. Para melhor compreensão, destaco alguns trechos da decisão agravada:
+"1. Pugna a parte exequente pela desconsideração da personalidade jurídica da executada para atingir bens de suas sócias, o reconhecimento da formação de grupo econômico com as empresas Brasoil Logística e Serviços Ltda. e Bless Participações S.A., bem como o reconhecimento de fraude à execução quanto à alienação de bens imóveis e quotas.
+2. Pois bem. Da análise dos autos, verifica-se que há razões suficientes para o acolhimento parcial do pedido. Isso porque, a confusão patrimonial entre as executadas e as empresas para fins de reconhecimento de formação de grupo econômico com as empresas Brasoil Logística & Serviços Ltda. e Bless Participações S.A. é evidente.
+Primeiro. A empresa Bless Participações S.A. foi criada por Eliseu Pedro da Silva e Edna Maria Freitas Spessato, aquele é sócio das executadas e esta é esposa do sócio Luciano Spessato. Acrescente-se que, atualmente o sócio Eliseu é diretor da empresa. E mais, dois imóveis de propriedade do sócio Luciano e Edna, foram vendidos para a empresa Bless.
+Segundo. A empresa Brasoil Logística & Serviços Ltda. possui o mesmo ramo de atividades das executadas - produtos derivados do petróleo. Além disso, o sócio Luciano integrante do quadro societário das executadas, também integra o da empresa Brasoil.
+Aliado a isso, tem-se o fato de inexistir bens passíveis para saldar a execução em nome das atuais executadas.
+(..)
+Nesses termos, é de se ter em vista que a desconsideração da personalidade jurídica em relação ao sócio Elizeu Pedro da Silva Junior é medida que se impõe.
+(..)
+E digno ressaltar, todavia, que o pedido merece guarida não somente em razão do verificado do estado de insolvabilidade, mas também por força do desvio de finalidade da sociedade empresarial, uma vez que, caso não desconsiderada a personalidade jurídica na forma pretendida, valer-se-á desta à satisfação dos credores da executada.
+De tal sorte, em seu aspecto subjetivo, aplica-se ao caso a teoria da maior desconsideração, a qual pressupõe a constatação de um estado de insolvência, agregado à verificação da confusão patrimonial e, consequente, desvio de finalidade, situações estas já devidamente configuradas no presente caso, conforme os termos acima fixados.
+Ora, a personalidade jurídica não pode servir como base para burlar a execução de créditos dos credores da personalidade jurídica, quando presentes os requisitos do art. 50 do Código Civil.
+Entretanto, o pedido de desconsideração da personalidade jurídica não pode alcançar a Edna e Ana Cristina. A uma porque, em relação ao sócio Elizeu o pedido foi deferido porque integrante da empresa Tube Toys e por estarem presentes os requisitos do art. 50 do Código Civil, o que não ocorre com as sócias das outras empresas em que houve o reconhecimento do grupo econômico. A duas porque, não há qualquer fundamento válido para incluí-las no polo passivo, não se comprovou que as empresas Brasoil e Bless não possuam bens passíveis de penhora, ao contrário, o credor demonstra que essas empresas possuem bens. E tendo em vista que a desconsideração é medida excepcional, o pleito não merece guarida, ao menos nesta fase.
+ ..
+3. Diante de todo o exposto, reconheço a existência da formação de grupo econômico entre a empresa executada e as empresas Brasil Logística e Serviços Ltda. e Bless Participações S.A., bem como defiro a desconsideração da personalidade em relação ao sócio Elizeu Pedro da Silva Junior, incluam-se no polo passivo.
+4. Destarte, reconheço a fraude à execução na alienação dos imóveis matriculados sob n. 34.450 e 37.149 ambos do Registro de Imóveis da 9ª Circunscrição Imobiliária desta Capital, declarando-as ineficazes em face do ora credor.
+5. Defiro, ainda, a penhora dos imóveis em que se reconheceu a fraude à execução (matriculado sob n. 34.450 e 27.149 do 9º CRI) e dos demais imóveis indicados matriculados sob n. 29.344, 29.374 e 39.375 ambos do 1º Registro de Imóveis de Balneário Camboriú, promova-se a penhora até o valor do débito. Lavre-se termo de penhora.
+6. Oficie-se aos Registros de Imóveis competentes para registros das penhoras nas matrículas.
+7. Desse modo, promova-se o bloqueio de eventuais ativos financeiros de titular idade dos executados, via BACENJUD.
+ .. "(negritei)
+(..)
+Assim, da farta documentação colacionada aos autos é possível evidenciar a total confusão patrimonial e interdependência administrativa entre as empresas envolvidas (executada e agravante), demonstrando que, em verdade, trata-se de um grupo econômico familiar, o que denota o uso abusivo da pessoa jurídica, com o fito de lesar credores.
+Some-se a isto o fato das tentativas inexitosas de localização de ativos financeiros e de bens em nome dos devedores, conforme detalhamento de ordem judicial de bloqueio de valores pelos sistemas BacenJud (fls. 424-423/TJ) e RenaJud (fls. 429-430/TJ) bem como das Certidões Negativas dos Registros de Imóveis (fls. 432-450/TJ) evidenciando-se que os executados não possuem patrimônio capaz de suportar a obrigação contraída, a qual, quando do ajuizamento da ação executiva no ano de 2011, versava em R$ 1.404.099,53 (fls. 42-46/TJ).
+Repita-se que o que a doutrina da disregard reprime é a conduta ilícita dos sócios ou dirigentes, configurada pela utilização da sociedade para fins alheios àqueles que motivaram sua instituição ou voltados à violação da lei, ou ainda à prática de fraudes. Assim, a responsabilidade dos sócios não emana da mera precariedade patrimonial da empresa, de seu insucesso comercial ou industrial ou da dificuldade econômico-financeira, mas sim da conduta abusiva e fraudulenta.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, a confusão patrimonial, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Em conformidade, cito o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUNTADA DA CADEIA DE SUBSTABELECIMENTO. ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SÚMULA N. 283/STF. SÚMULA N. 7/STJ.
+1. Embargos declaratórios acolhidos para reconhecer a existência da cadeia de substabelecimentos que confere poderes ao subscritor do recurso especial, que passo a examinar.
+2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula n. 283/STF).
+3. Pretensão que demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+4. Embargos de declaração acolhidos. Recurso especial a que se nega provimento.
+(EDcl no AgInt no AREsp 938.949/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/08/2018, DJe 12/09/2018)
+Por fim, anoto, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa ao art. 1.022 do Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo. (destaques do original)
+Não há falar em deficiência na prestação jurisdicional, uma vez que a Corte de origem enfrentou com suficiência e clareza as questões que mereciam apreciação.
+Conforme tem decidido o STJ, não se exige que o julgador, para expressar os motivos que lhe formaram o convencimento e demonstrar o raciocínio lógico trilhado para chegar à conclusão acerca das questões de fato e de direito, analise todos os argumentos apresentados pelas partes.
+É preciso ter presente que a oposição de embargos de declaração perante o tribunal de segundo grau, juntamente com a alegação de negativa de prestação jurisdicional no recurso especial, não necessariamente levam à anulação do acórdão lavrado no julgamento de tais embargos (com a consequente devolução dos autos à origem para rejulgamento), nem tornam certa a conclusão, na Corte superior, de que a questão esteja prequestionada. O ponto central em torno da possível ocorrência de defeito na prestação jurisdicional consiste em verificar se a omissão, contradição ou obscuridade apontada nos embargos dizem respeito a questões necessárias para a solução da causa. Se o tribunal de origem apresenta fundamentação suficiente para a completa prestação jurisdicional, não está, de fato, obrigado a se manifestar sobre questões paralelas que não viriam a interferir, sequer reflexamente, no seu entendimento.
+A existência de decisão em sentido contrário ao almejado pela parte, ou mesmo omissa em relação a pontos considerados irrelevantes, não dá ensejo à declaração de nulidade.
+Ademais, o julgador não está obrigado a decidir a lide a partir das normas que a parte entende aplicáveis ao caso. Nesse sentido:
+PROCESSUAL CIVIL - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS TIDOS POR VIOLADOS - SÚMULA 211 DO STJ - TRABALHADOR PORTUÁRIO AVULSO - FÉRIAS E RESPECTIVOS ADICIONAIS - FUNDAMENTO CENTRAL DO ACÓRDÃO RECORRIDO INATACADO - SÚMULA 283/STF.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+2. Descumprido o necessário e indispensável exame dos artigos tidos por violados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. Não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 535 do Código de Processo Civil, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado. Nesse sentido: EDcl no REsp 463380, Rel. Min. José Delgado, DJ 13.6.2005.
+(..)
+Agravo regimental improvido.
+(Segunda Turma, AgRg no REsp 1.137.776/RS, Rel. Ministro HUMBERTO MARTINS, DJe de 23.10.2009)
+Cabe ressaltar que a existência de homônimos, levantada nos primeiros embargos de declaração e reiterada nos segundos, não foi reconhecida pela Corte estadual, diversamente do que alega a recorrente, pois o acórdão apenas indicou que as questões levantadas não eram suficientes para alterar a conclusão, de modo que isso não caracteriza vício capaz de conduzir à nulidade do julgado.
+Por fim, não é a multa consectário automático do não provimento do recurso.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
