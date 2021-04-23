@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO PARÁ, com fundamento no art. 105, III,da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, no qual expresso que "não há prejuízo para pretensão autoral formalizada quando muito será necessário reprogramação do período de gozo na eventual hipótese de a ordem ser concedida", e do acordão do referido tribunal, em embargos de declaração,no qual expresso que
+o Colegiado expressamente afastou a suposta prejudicialidade do writ não sendo possível na via eleita sua reapreciação. Outrossim, com relação ao aos limites do pedido deduzido esquece o embargante que o voto condutor consignou expressa atenção aos termos do requerimento administrativo formalizado pelo impetrante (ID 2367416), objeto do direito em tese, referente aos triênios 2012 a 2015 e 2015 a 2018, com o qual a administração expressamente anui (ID 2367516) e que não pode ser confundido com o período de gozo pretendido (1º de outubro/2019 a 28 de janeiro/2020) tal como alegado nas razões destes aclaratórios.
+Sustenta a parte recorrente, além de negativa de prestação jurisdicional, que houve decisãoextra petita, e que o pedido deveria ter sido julgado prejudicado.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Verifico que o Tribunal de origemdirimiu, tal como deveria, as questões que lhe foram submetidas, motivo pelo qual não há falar em negativa de prestação jurisdicional.
+De outra parte, consoanteentendimento firmado no âmbito da Corte Especial do Superior Tribunal de Justiça, o pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraída da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita (AgInt no RE nos EDcl no AgRg no AREsp 106.304/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL,DJe 09/09/2016).
+Na espécie, o provimento alcançado pela parteex adversaestá adstrito ao que pedido, não havendo que se julgar o feito prejudicado.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ENUNCIADO ADMINSITRATIVO Nº 3/STJ. PROCESSUAL CIVIL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ADSTRIÇÃO AO PEDIDO. OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
