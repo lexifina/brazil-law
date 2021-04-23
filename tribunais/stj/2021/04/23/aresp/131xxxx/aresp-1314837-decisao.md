@@ -1,0 +1,12 @@
+DECISÃO
+NAZIRA GIBRAIL KANJO NASSER agrava de decisão que inadmitiu o processamento de recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que negou provimento à apelação defensiva, na qual objetivava a defesa a devolução de dinheiro em espécie que foi apreendido.
+Em suas razões, afirma a defesa que o exame do caso prescinde da análise de provas, mas apenas da valoração delas. Assinala que a recorrente "foi alvo de injusta e equivocada contrição em seu patrimônio, suportando o injustificável confisco de seus bens à margem dos pressupostos de validade da medida excepcional de busca e apreensão, mormente porque foram apreendidos valores que em nada interessam à cognominada "Operação Patriota"" (fl. 226), da qual não é alvo das investigações.
+Apresentadas contrarrazões (fls. 257-263), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo seu não provimento (fls. 281-284).
+Decido.
+A decisão que inadmitiu o processamento do recurso especial não merece reparos. Com efeito, extrai-se do acórdão impugnado, no que interessa, as seguintes passagens (fl. 82, destaquei):
+Com efeito, a prova da propriedade de dinheiro em espécie é tarefa complexa, dada a natureza fungível do bem. Não obstante, a restituição ou desbloqueio de dinheiro no curso de inquérito ou de ação penal pode ocorrer se o requerente conseguir provar os requisitos cumulativos anteriormente mencionados.
+No caso, Nazira Gibrail não demonstrou a propriedade dos valores apreendidos, pois deixou de acostar aos autos cópia de declaração de imposto de renda, bem como de recibos das sessões de atendimento psicológicos, uma vez que afirmou ser psicóloga.
+Assim sendo, concluo que a quantia de R$ 9.300,00 (nove mil e trezentos reais) ainda interessa ao processo, notadamente porque persistem dúvidas quanto à propriedade e à ilicitude da origem do bem.
+Ora, diante do quadro fático apresentado pelo Tribunal de origem, o qual propiciou a conclusão de que não houve a demonstração da propriedade dos valores apreendidos, diversamente do que alega a defesa, torna-se inviável reverter o decisum, em razão da incidência da Súmula n. 7 do STJ, tal como destacou a decisão agravada.
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
