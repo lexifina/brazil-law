@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ZIKELI INDÚSTRIA MECÂNICA LTDA., com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 150):
+TRIBUTÁRIO. CSLL E IRPJ. RENDIMENTOS DE APLICAÇÕES FINANCEIRAS. INFLAÇÃO. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA.
+É legal a incidência do IRPJ e da CSLL sobre os rendimentos auferidos em aplicações financeiras, ainda que se trate de variações patrimoniais decorrentes da diferença de atualização monetária.
+Embargos de declaração opostos e rejeitados (fl. 186).
+O recorrente sustenta contrariedade aos arts. 43, 44 e 110 do CTN e 1º e 2º da Lei n. 7.689/1988 aduzindo argumentos de insurgência contra o entendimento do acórdão quanto à incidência de CSLL e IRPJ sobre os rendimentos auferidos em aplicações financeiras, ainda que se trate de variações patrimoniais decorrentes da diferença de atualização monetária. Sustenta que a parcela correspondente à inflação computada nos rendimentos de aplicações financeiras, representada pelo IPCA, não está incluída no aspecto material de ambos os tributos, atinente ao acréscimo patrimonial. Aponta divergência jurisprudencial.
+Contrarrazões a fls.238-245.
+Juízo positivo de admissibilidade (fl. 256).
+Parecer do Ministério Público Federal, a fls. 274-277, pelo provimento do recurso especial.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é devida a exação de IRPJ e de CSLL sobre o lucro líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária, por se tratar de disponibilidade econômica decorrente do capital capaz de acrescentar o valor nominal da moeda.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CÍVEL. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÃO FINANCEIRA. AUMENTO DO LUCRO REAL. INCIDÊNCIA DAS EXAÇÕES. LEI 8.981/1995. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A parte recorrente não indicou, em suas razões recursais, quais seriam os dispositivos de Lei Federal de interpretação controvertida nos Tribunais, providência exigida por esta Corte Superior para o conhecimento dos Recursos Especiais interpostos tanto com fundamento na alínea a quanto na alínea c do art. 105, III da CF/1988. Incide ao caso, assim, a Súmula 284/STF.
+2. O acórdão impugnado encontra apoio na jurisprudência dominante nesta Corte Superior de que é legítima a incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda. Precedentes: AgInt no REsp. 1.446.072/SP, Rel. Min. BENEDITO GONÇALVES, DJe 26.9.2018; AgInt no REsp. 1.458.810/SP, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2016; REsp. 842.831/DF, Rel. Min. LUIZ FUX, DJe 6.10.2008.
+3. Agravo Interno do Contribuinte a que se nega provimento.
+(AgInt no REsp 1.581.332/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 8/10/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. INCIDÊNCIA DE IRPJ E DA CSLL. RENDIMENTO DE APLICAÇÕES FINANCEIRAS.
+1. A parte recorrente sustenta que o art. 1.022, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Trata-se de Mandado de Segurança impetrado com escopo de afastar a exigibilidade do IRPJ e da CSLL sobre a parcela correspondente à inflação e que reflete a atualização monetária do período, computada nos rendimentos de aplicações financeiras, representada pelo índice oficial de correção monetária (IPCA), ou por outro índice inflacionário do período.
+3. O Tribunal de origem decidiu em consonância com o entendimento do STJ, no sentido da possibilidade de incidir Imposto de Renda retido na fonte e Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda.
+4. É importante registrar a inviabilidade de o STJ apreciar ofensa aos arts. 153 e 195, I, da Carta Magna, função afeta exclusivamente ao Supremo Tribunal Federal, nos termos do seu art. 102, III, "a", da CF/1988.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.899.212/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2020, DJe 13/4/2021)
+Na espécie, encontra-se o acórdão recorrido no mesmo sentido da jurisprudência do STJ.
+O dissídio jurisprudencial, por sua vez, não comporta conhecimento, em razão da deficiência da fundamentação recursal, a incidir o teor da Súmula 284/STF, uma vez que o recorrente não particulariza o dispositivo legal sobre o qual teria ocorrido interpretação divergente, bem como não procede à demonstração da existência de similitude fático-jurídica e do dissídio entre os casos confrontados, mediante o devido cotejo analítico, não se oferecendo, como bastante, a simples transcrição de ementa. Assinale-se, ainda, ser inservível para demonstração da divergência a referência a decisões monocráticas
+Ante o exposto, conheço parcialmente do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. RENDIMENTOS DE APLICAÇÕES FINANCEIRAS. ATUALIZAÇÃO MONETÁRIA. CSLL E IRPJ. INCIDÊNCIA. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
