@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DA 1A VARA DO TRABALHO DE TERESÓPOLIS - RJ e oJUÍZO DE DIREITO DA 3A VARA CÍVEL DE TERESÓPOLIS - RJ.
+Na hipótese dos autos, a parte interessada defende ter firmado contrato de trabalho temporário junto ao município. Veiculou, em síntese, a condenação do município ao pagamento de várias verbas salariais e indenizatórias, em razão da atividade realizada e não recompensada.
+O Juízo Comum Estadual entendeu que o cargo ocupado pela reclamante se sujeitaria às normas trabalhistas. O vínculo com a Administração teria, portanto, caráter contratual, regido pela CLT.
+O Juízo Trabalhista por sua vez, entende que a controvérsia, referente à contratação da reclamante por ente da Administração Pública para prestação de serviço temporário, sem concurso público, não se adstringiria às normas da CLT. O vínculo, pois, com a Administração Pública teria caráter jurídico-administrativo.
+Ouvido o Ministério Público Federal, opinou no seguinte sentido:
+CONFLITO DE COMPETÊNCIA. CONTRATO DETRABALHO POR TEMPO DETERMINADO CELEBRADOCOM MUNICÍPIO. NECESSIDADE EMERGENCIALTRANSITÓRIA. CARACTERIZAÇÃO DO VÍNCULOESPECIAL DE DIREITO ADMINISTRATIVO. PRECEDENTES. PARECER PELO CONHECIMENTODO CONFLITO PARA QUE SEJA RECONHECIDA ACOMPETÊNCIA DO JUÍZO ESTADUAL.
+É o relatório. Passo a decidir.
+Preliminarmente, o art 926 do CPC/2015 determina que
+Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+Ainda, aplica-se ao caso o art. 927, I, do CPC/2015:
+Art. 927. Os juízes e os tribunais observarão:
+I - as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+Finalmente, incide por analogia a Súmula n. 568/STJ:
+O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato temporário.
+Sobre a questão, a Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal - STF suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+Portanto, não há que se falar em competência da Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações temporárias e/ou irregulares. Ademais, as prorrogações da avença não descaracterizam o vínculo jurídico-administrativo originário.
+É este o entendimento do STF a respeito da competência da Justiça Comum para processar ações que envolvam demandas similares:
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REGIME ESPECIAL. CONTRATAÇÃO TEMPORÁRIA REGIDA POR LEGISLAÇÃO LOCAL ANTERIOR À CONSTITUIÇÃO DE 1988, EDITADA COM BASE NO ART. 106 DA CONSTITUIÇÃO DE 1967. ACÓRDÃO QUE RECONHECEU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO. RECURSO CONHECIDO E PROVIDO.
+I - Ao reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista, o acórdão recorrido divergiu de pacífica orientação jurisprudencial deste Supremo Tribunal Federal.
+II - Compete à Justiça Comum processar e julgar causas instauradas entre o Poder Público e seus servidores submetidos a regime especial disciplinado por lei local editada antes da Constituição Republicana de 1988, com fundamento no art. 106 da Constituição de 1967, na redação que lhe deu a Emenda Constitucional no 1/69, ou no art. 37, IX, da Constituição de 1988.
+III - Recurso Extraordinário conhecido e provido.
+(RE 573.202/AM, Tribunal Pleno, Rel. Min. Ricardo Lewandowski, DJ 5.12.2008)
+Sobre o tema, a orientação desta Superior Corte firmou-se no sentido de que configurada hipótese de contratação temporária para atender a necessidade de excepcional interesse público, o vínculo estabelecido entre a Administração e o servidor é jurídico-administrativo, atraindo a competência da Justiça Estadual:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. AGENTES COMUNITÁRIOS DE SAÚDE. CONTRATAÇÃO TEMPORÁRIA. VÍNCULO JURÍDICO-ADMINISTRATIVO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Configurada hipótese de contratação temporária para atender a necessidade de excepcional interesse público, nos termos do art. 37, IX, da Carta Magna, o vínculo estabelecido entre o Poder Público e o servidor é jurídico-administrativo, atraindo dessa forma a competência da Justiça Estadual para apreciação dos feitos relativos a esse vínculo. Dentre outros precedentes: AgRg no CC 127.500/PE, Rel. Ministro Humberto Martins, Primeira Seção, DJe 21/05/2013; CC 100.271/PE, Rel. Ministro Arnaldo Esteves Lima, Terceira Seção, Dje de 6/4/2009.
+2. Agravo regimental não provido.
+(AgRg no CC 121.815/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 23/04/2014, DJe 06/05/2014)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO TEMPORÁRIA. VÍNCULO JURÍDICO-ADMINISTRATIVO INAFASTÁVEL. EMENDA CONSTITUCIONAL 19. PLURALIDADE DE REGIMES JURÍDICOS. SUSPENSÃO DOS EFEITOS PELO STF. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO NÃO PROVIDO.
+1. A contratação temporária de trabalho, nos termos do art. 37, IX, da CF, tem natureza nitidamente administrativa, excluindo-se a competência da Justiça do Trabalho para a apreciação dos feitos relativos a esse vínculo.
+2. A Emenda Constitucional 19/98, que permitia a pluralidade de regimes jurídicos pela administração, foi suspensa, nesse ponto, pelo Supremo Tribunal Federal, impossibilitando a contratação de servidor público pelo regime trabalhista (ADI 2.135-MC/DF).
+3. O Supremo Tribunal Federal adotou o entendimento de que a mera prorrogação do prazo de contratação de servidor temporário não é capaz de transmudar o vínculo administrativo que este mantinha com o Estado em relação de natureza trabalhista (RE 573.202/AM, Rel. Min. RICARDO LEWANDOWISKI).
+4. Conflito de competência conhecido para declarar competente Juízo de Direito da 3ª Vara da Fazenda Pública de Natal/RN.
+5. Agravo regimental não provido.
+(AgRg no CC 117.756/RN, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 23/05/2012, DJe 06/06/2012)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA TRABALHISTA. SERVIDOR MUNICIPAL. CONTRATO TEMPORÁRIO. VÍNCULO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. O contrato de prestação de serviço temporário, nos termos do art. 37, inciso IX, da Constituição Federal, traz exceção à regra do concurso público para atender necessidade de excepcional interesse da Administração.
+2. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum. Precedentes STJ.
+3.Agravo Regimental não provido.
+(AgRg nos EDcl no CC 110.031/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/02/2011, DJe 15/03/2011)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. VERBAS TRABALHISTAS. JUSTIÇA ESTADUAL E JUSTIÇA ESPECIALIZADA. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO TEMPORÁRIA, SEM APROVAÇÃO EM CONCURSO PÚBLICO. MANUTENÇÃO DO VÍNCULO ADMINISTRATIVO. RECENTE MANIFESTAÇÃO DA CORTE SUPREMA.
+1. Cuida-se de agravo regimental contra decisão proferida em conflito negativo de competência, que entendeu ser o Juízo Estadual o competente para julgar ação ordinária proposta por ex-servidor em face do Município de Ilhéus/BA, no qual se postula o pagamento de verbas indenizatórias decorrentes de dispensa imotivada.
+2. No caso dos autos, o autor foi admitido como docente no serviço público municipal, mediante contrato temporário, em 1º.3.2007 e dispensado em maio de 2008. Reclama verbas rescisórias referentes a férias não gozadas, salário de dezembro de 2007, saldo de salários do ano de 2008, dentre outras.
+3. O Supremo Tribunal Federal, na ocasião do julgamento do RE 573.202/AM, firmou orientação no sentido de que é da justiça comum a competência para processar e julgar as ações cujo objeto é a relação jurídica estabelecida entre o poder público e seus servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público. No referido julgado, o STF deixou assente que as prorrogações do prazo de vigência do contrato temporário não alteram a natureza do vínculo jurídico-administrativo originalmente estabelecido entre as partes.
+4. A Terceira Seção desta Corte, na ocasião do julgamento do CC 100.271/PE, de relatoria do Ministro Arnaldo Esteves Lima, adotando a recente posição do Supremo Tribunal Federal, reformulou seu entendimento para fixar a competência da Justiça comum para processar e julgar demandas como a presente. Decisões monocráticas com igual entendimento: CC 110.144/MG, Rel. Ministra Maria Thereza de Assis Moura, DJe 23.2.2010; CC 110.071/MG, Rel. Ministro Castro Meira, Dje 10.2.2010 e CC 105.358/MG, Rel. Ministro Jorge Mussi, Dje 4.8.2009.
+5. Agravo regimental não provido.
+(AgRg no CC 111.175/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/11/2010, DJe 17/11/2010)
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRATO TEMPORÁRIO DE TRABALHO. NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA ESTADUAL, O SUSCITANTE.
+O Supremo Tribunal Federal, por ocasião do julgamento do RE 573.202/AM, assentou que é da Justiça Comum a competência para processar e julgar as ações cujo objeto é a relação jurídica estabelecida entre o poder público e seus servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público. No referido julgado, o STF firmou o entendimento de que as prorrogações do prazo de vigência do contrato temporário não alteram a natureza do vínculo jurídico-administrativo originalmente estabelecido entre as partes. Agravo regimental improvido.
+(AgRg no CC 113.026/SC, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 27/10/2010, DJe 16/11/2010)
+ADMINISTRATIVO. PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO TEMPORÁRIA. CONTINUIDADE DA PRESTAÇÃO DE SERVIÇOS. VÍNCULO JURÍDICO-ADMINISTRATIVO INAFASTÁVEL. CONFLITO CONHECIDO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A Suprema Corte adotou o entendimento de que a mera prorrogação do prazo de contratação de servidor temporário não tem o condão de transmudar o vínculo administrativo que este mantinha com o Estado em relação de natureza trabalhista (RE 573.202/AM, Rel. Min. Ricardo Lewandowski).
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito do Distrito de Monte Alegre - Poço Redondo/SE, o suscitado.
+(CC 106.643/SE, Rel. Ministro JORGE MUSSI, Rel. p/ Acórdão Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, julgado em 28/04/2010, DJe 02/08/2010)
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. AJUIZADA COM O OBJETIVO DE OBTER CONDENAÇÃO DE MUNICÍPIO AO PAGAMENTO DE VERBAS DECORRENTES DE CONTRATO DE TRABALHO. REGIME TEMPORÁRIO. PRORROGAÇÃO. MANUTENÇÃO DO VÍNCULO ESTATUTÁRIO.
+COMPETÊNCIA DA JUSTIÇA COMUM.
+- O STF, ao julgar a ADln n.º 3.395-DF, excluiu da expressão relação de trabalho as ações decorrentes do regime estatutário. Assim, a competência para julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho, quando envolverem servidor estatutário não celetista e ente público, será da Justiça comum, estadual ou Federal, conforme o caso.
+- A contratação temporária terá sempre caráter jurídico-administrativo, ainda que haja prorrogação do contrato de maneira irregular, pois estas mudanças não têm o condão de alterar o vínculo inicialmente estabelecido entre as partes. Precedentes do STF e do STJ.
+- Agravo provido para declarar competente o Juízo de Direito da 3ª Vara Cível de Salto - SP.
+(AgRg no CC 116.913/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 25/04/2012, DJe 03/05/2012)
+Ante o exposto, com base no art. 120, parágrafo único, do CPC, conheço do presente conflito para declarar competente para a causa o JUÍZO DE DIREITO.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO TEMPORÁRIA, SEM CONCURSO PÚBLICO. EXCEPCIONAL INTERESSE PÚBLICO. ART. 37, IX, DA CONSTITUIÇÃO FEDERAL DE 1988. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM.
