@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deGILMAR DARCY MULLERapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL(Apelaçãon. 0000118-13.2017.8.12.0020).
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 679/684, in verbis:
+Trata-se de habeas corpus impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL, em favor de GILMAR DARCY MULLER, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento da Apelação Criminal n. 0000118-13.2017.8.12.0020.
+Consta nos autos que o paciente foi condenado à pena de 29 (vinte e nove) anos e 04 (quatro) meses de reclusão, em regime fechado, pela prática do crime previsto no art. 121, §2º, incisos II, III, e IV, bem como no §4º, parte final, todos Código Penal.
+Irresignada, a defesa apelou, tendo a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, por unanimidade, dado parcial provimento ao recurso, nos termos do acórdão assim ementado (fl. 647):
+APELAÇÃO CRIMINAL DEFENSIVA - HOMICÍDIO QUALIFICADO - ART. 121, §2º, II, III e IV, §4º DO CP - NULIDADE DO JULGAMENTO - DECISÃO CONTRÁRIA Ã PROVA DOS AUTOS - REJEIÇÃO - TESE ACUSATÓRIA ACOLHIDA - MANUTENÇÃO DA QUALIFICADORA - EMPREGO DO MEIO CRUEL - REDIMENSIONAMENTO DA PENA- BASE - NECESSIDADE - CIRCUNSTÂNCIA JUDICIAL INDEVIDAMENTE VALORADA - RECURSO PARCIALMENTE PROVIDO.
+I. O simples fato de não acolhimento da tese de defesa não implica em nulidade da decisão do Conselho de Sentença, é necessário que a versão acolhida não encontre amparo em nenhum dos elementos fático-probatórios produzidos nos autos. Se existem fundamentos concretos que dão arrimo à decisão dos jurados, no sentido de que o crime de homicídio foi praticado com emprego de meio cruel, que causou à vítima sofrimento de forma ostensiva e desnecessária, deve ser mantida a qualificadora em comento.
+II. Faz-se necessário o redimensionamento da pena-base, para afastar a circunstância judicial das circunstâncias do crime.
+No presente writ, a impetrante alega constrangimento ilegal em razão da penaaplicada ao ora paciente. Sustenta que devem ser afastadas as conseqüências do conduta social na primeira fase da dosimetria da pena.
+Informações prestadas às fls. 664/672.
+É a síntese do necessário.
+O ParquetFederal opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Com relação à circunstância judicial relativa à conduta social, aprecia-se o comportamento do agente no seu ambiente familiar, de trabalho e na convivência em sociedade.
+De fato, o histórico familiar de desavenças, agressões e ameaçasé suficiente para macular essa circunstância.
+A propósito:
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. RECURSO INTERPOSTO PELO MINISTÉRIO PÚBLICO. ART. 619 DO CPP. VIOLAÇÃO NÃO IDENTIFICADA.ACÓRDÃO RECORRIDO NÃO CONTRADITÓRIO. ART. 59 DO CP. DOSIMETRIA.PENA-BASE. CONDUTA SOCIAL. TEMOR CAUSADO NOS CORRÉUS. FUNDAMENTAÇÃO IDÔNEA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo Tribunal a quo, que, fundamentadamente, refuta as teses aventadas, de modo que a insatisfação com o resultado trazido na decisão não significa prestação jurisdicional viciada pelos vetores contidos no artigo em comento.
+2. Na hipótese, não há contradição entre a concepção restritiva adotada pelo Juízo a quo acerca da conduta social do agente e a subsunção dos fatos a ela.
+3. A conduta social do réu é avaliação de natureza comportamental, pertinente ao relacionamento do agente no trabalho, na vizinhança, perante familiares ou amigos etc. Nota-se que não há uma delimitação mínima do campo de análise - pode ser pequena como o núcleo familiar ou mais ampla como a comunidade em que o indivíduo mora.
+4. O fato de o sentenciado ser temido no meio em que vive é motivação idônea a justificar o desvalor de sua conduta social.
+5. Recurso especial parcialmente provido.
+(REsp 1901105/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO.DOSIMETRIA DA PENA. PENA-BASE. AUMENTO. FUNDAMENTAÇÃO IDÔNEA.RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA.IMPOSSIBILIDADE. TEMA NÃO ALEGADO NOS DEBATES EM PLENÁRIO. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. AVANÇADO ITINERÁRIO DE EXECUÇÃO PERCORRIDO.AUSÊNCIA DE ILEGALIDADE.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, a instância de origem estabeleceu a reprimenda básica acima do mínimo legal, considerando desfavorável a circunstância judicial relativa à culpabilidade, tendo em vista que a vítima estava grávida do acusado na época dos acontecimentos. Destacou o colegiado local que o acusado, em plenário, afirmou conhecer a situação de gestante da ofendida. Tal fundamentação se mostra adequada para a exasperação da pena-base, pois anuncia o maior grau de reprovabilidade da conduta do acusado, bem como o menosprezo especial ao bem jurídico violado. Desse modo, suficientemente fundamentado o aumento da reprimenda. Precedentes.
+3. A propósito da circunstância judicial relativa à conduta social, o Magistrado sentenciante apreciou o comportamento do sentenciado no seu ambiente familiar e na convivência em sociedade, destacando que, apesar de possuir filhos, não se portava com dignidade, submetendo sua prole a situações impróprias, em ambiente agressivo e violento, além de usar drogas e álcool em excesso. Precedentes.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC 469.922/SC, de minha relatoria, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Por sua vez, as consequências do delito são os desdobramentos derivados da conduta do agente, que transcendem o resultado típico, evidenciando maior dano ou perigo de dano ao bem jurídico tutelado pela norma incriminadora.
+Logo, o temor e o medo trazido para a pequena comunidade justifica a valoração negativa dessa circunstância.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.ASSOCIAÇÃO PARA O TRÁFICO (ART. 14 DA LEI N. 6.368/1976). NULIDADE.ESCUTAS TELEFÔNICAS. IDONEIDADE DAS TRANSCRIÇÕES ATESTADAS. PERÍCIA DE IDENTIFICAÇÃO DE VOZES. DESISTÊNCIA DAS PARTES NA PRODUÇÃO DE TAL EXAME. ILEGALIDADE DAS RENOVAÇÕES SUCESSIVAS. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE SOBRESTAMENTO DO FEITO.MATÉRIA CONHECIDA COMO DE REPERCUSSÃO GERAL NO RE 265.263/PR.COMPETÊNCIA DO STF. DOSIMETRIA DA PENA. APLICAÇÃO DO PRECEITO SECUNDÁRIO DO ART. 8º DA LEI N. 8.072/1990. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. QUANTUM DESPROPORCIONAL.REDIMENSIONAMENTO. REGIME PRISIONAL. INCIDÊNCIA DA DETRAÇÃO. PENA FINAL INFERIOR À 4 ANOS. CIRCUNSTÂNCIAS DESFAVORÁVEIS. MODO SEMIABERTO. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO.ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. A individualização da pena é uma atividade vinculado a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Desse modo, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+7. Em se tratando de condenado pelo delito previsto no art. 14 da Lei n. 6.368/1976, deve-se observar as penas mínimas e máximas estabelecidas pelo art. 8º da Lei n. 8.072/1990 (3 a 6 anos de reclusão), por ser norma penal mais benéfica ao réu.
+8. Hipótese em que a Corte Estadual considerou, validamente, a culpabilidade do agente, tendo em vista a importância da sua função no grupo criminoso, bem como as circunstâncias e as consequências do delito, em razão da alta periculosidade da quadrilha, voltada a prática de outros delitos, tais como compra e venda de armas, homicídio e tortura, além do intenso temor causado na população das áreas em que atuavam, conforme restou comprovado pelas interceptações telefônicas e demais provas colhidas nos autos.
+ ..
+11. Habeas corpus não conhecido. Ordem concedida, de ofício, para diminuir a pena-base do paciente, resultando a pena definitiva em 4 anos e 6 meses de reclusão, bem como fixar o regime inicial semiaberto para o cumprimento da pena reclusiva.
+(HC 409.551/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/10/2017, DJe 11/10/2017)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
