@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 43):
+Habeas corpus Tráfico de drogas e associação para o tráfico Adequação da prisão preventiva Decisão fundamentada Presentes os requisitos autorizadores da custódia cautelar, inexiste violação à presunção de inocência Descabimento de prognose sobre a sentença Pandemia de COVID-19 Paciente que não pertence ao grupo de risco Constrangimento ilegal não evidenciado Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante, custodia convertida em preventiva, em razão da prática do delito previsto no art. 33, caput, da Lei 11.343/06.
+No presente writ, o impetrante alega, em suma, a ausência de fundamentação do decreto prisional, bem como dos requisitos previstos no art. 312 do CPP.
+Afirma que a quantidade de droga apreendida é ínfima e que o paciente não foi flagrado em situação de traficância estava dentro de sua residência que foi invadida sem mandado de busca e apreensão.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão preventiva e a expedição de alvará de soltura. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas.
+Na origem, Processo 1500344-75.2021.8.26.0581, verifica-se a juntada de defesa prévia em 14/4/2021, conforme informação processual eletrônica extraída do site do Tribunal a quo em 16/4/2021.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que converteu a prisão em preventiva restou assim fundamentada (fls. 40-41):
+Trata-se, em tese, de delito doloso de extrema gravidade cuja pena máxima supera quatro anos, restando, pois, preenchido o requisito do artigo 313, inciso I, do CPP.
+No caso em comento, a apreensão de significativa quantidade de droga em poder do indiciado, aliado à informação de que o mesmo encontra-se desempregado e já era conhecido dos meios policiais pela prática do tráfico de drogas, evidencia, ao menos, por ora, que faz da traficância se meio de vida.
+Ademais, conforme se verifica das certidões juntadas aos autos (p.21/23) o indiciado é reincidente específico, o que demonstra sua renitência na prática de crime da mesma espécie e autoriza a manutenção da custódia cautelar, revelando-se insuficientes, frente a conduta criminosa, em tese, perpetrada e à persistência delitiva, quaisquer das medidas cautelares diversa da prisão (artigos 310, II e § 2º, e 313, I e II, ambos do Código de Processo Penal) Nestes termos e presentes os requisitos legais, vislumbro a necessidade de seu imediato afastamento do convívio social como forma de assegurar a manutenção da ordem pública.
+ ..
+Nessa toada, ainda que considerada a pandemia do COVID-19 que assola o país, fato notório e que afeta toda sociedade, isso não foi o suficiente para que o indiciado se abstivesse, em tese, da prática delitiva, ainda que ciente das consequências legais.
+Assim, sob o prisma da proporcionalidade e da razoabilidade, em um juízo de ponderação, não deve ser beneficiado por tal fato em evidente prejuízo à parcela ordeira da sociedade.
+Ademais, há que se considerar que as mesmas medidas de prevenção adotadas para a sociedade em geral, também está sendo adotada e observada pelas administrações dos estabelecimentos prisionais.
+Desta feita e, considerando a gravidade em concreto do crime, as circunstâncias fáticas acima narradas e as condições pessoais do indiciado, a conversão da prisão em flagrante em prisão preventiva mostra-se de rigor.
+Ante o exposto, nos termos dos arts. 282, parágrafo 6º, 310, II e § 2º, 312 e 313, I e II , todos do CPP, CONVERTO a prisão em flagrante do autuado JOÃO VÍTOR DE SOUZA DANTAS em PRISÃO PREVENTIVA  .. .
+Como se vê, o decisum apresenta fundamentação que deve ser entendida como válida para a prisão preventiva, com esteio na apreensão de significativa quantidade de droga, e porque o indiciado é reincidente específico.
+Contudo, ao analisar as circunstâncias do caso, verifica-se a desproporcionalidade de imposição de tão gravosa cautelar como a prisão, pois a quantidade apreendida de entorpecentes não se revela expressiva, tratando-se na hipótese, de 57,64g de maconha, conforme laudo de fl. 37.
+Nesse contexto, para evitar o risco de reiteração delitiva, suficiente a aplicação de medidas cautelares diversas da prisão, para evitar a reiteração criminosa, sendo as seguintes: (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra à reiteração criminosa; tudo isso sem prejuízo de eventual fixação de outras medidas cautelares pelo Juízo de origem, desde que devidamente fundamentadas, além da decretação da prisão, com fundamento exclusivo em fatos novos.
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, desde logo reconheço a ilegalidade arguida.
+Ante o exposto, concedo liminarmente o habeas corpus para a substituição da cautelar de prisão do paciente por medidas cautelares menos gravosas acima listadas, o que não impede a fixação de outras medidas cautelares pelo Juízo de primeiro grau, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
