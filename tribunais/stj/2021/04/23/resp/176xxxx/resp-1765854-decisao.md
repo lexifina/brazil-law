@@ -1,0 +1,18 @@
+DECISÃO
+Em razão das alterações promovidas na Lei 11.101/2005, por meio da Lei 14.112/2020, bem como das petições juntadas pela Fazenda Nacional nos feitos que envolvem execução fiscal de dívida tributária (REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP), as partes e eventuais interessados foram intimados para manifestação.
+A Agência Nacional de Telecomunicações (recorrente) menciona que:
+É de conhecimento público que o Grupo Oi realizou o aditamento de seu Plano de Recuperação Judicial (PRJ), plano esse que obteve voto favorável da ANATEL e AGU, e foi homologado por decisão judicial.
+De modo que não há interesse no deslinde do presente caso, uma vez que os créditos foram novados e seguem um modelo especial de pagamento.
+Todavia, tendo em vista que os efeitos do julgamento da questão repetitiva ultrapassam o caso concreto, a Agência Reguladora persiste interessada na discussão da tese jurídica posta à apreciação do E. STJ.
+A "OI S.A. - EM RECUPERAÇÃO JUDICIAL" (recorrida) sustenta que a competência para apreciação do tema é da Segunda Seção do STJ. No mais, informa que:
+Não bastasse o já exposto, de toda forma, é evidente a perda do objeto deste recurso especial. Isso porque o Grupo Oi e a Anatel, na forma da Lei nº 13.988, de 14.4.2020, celebraram termo de transação, que prevê, após o seu integral cumprimento, a quitação do crédito objeto do processo originário a este recurso (doc. 2).
+(..)A Oi Móvel, então, ora recorrida, já requereu ao MM. Juízo de primeiro grau a suspensão convencional da execução fiscal originária (doc. 3), até a extinção dos créditos ou eventual rescisão. E a Anatel, na origem, já apresentou concordância expressa (doc. 4).
+Considerando, então, que a recorrente pretendia, neste recurso especial, a partir de uma suposta violação ao art. 6º, §7º, da Lei nº 11.101/05, discutir a competência do Juízo Recuperacional para a prática de atos constritivos contra o patrimônio das recuperandas, é evidente a perda de objeto deste recurso especial, ante a transação celebrada entre as partes.
+O Colégio Nacional de Procuradores Gerais dos Estados e do Distrito Federal (interessado) menciona que:
+Nesse contexto, em que pese a louvável iniciativa do e. Ministro Relator de propor a afetação do relevante tema e a suspensão nacional dos processos - propostas essas acolhidas pela c. Primeira Seção -, parece-nos que a atuação do Poder Legislativo, com a edição da Lei 14.112/2020, torna prejudicada a discussão judicial da matéria, porquanto resolve a controvérsia posta em exame.
+Destarte, os ESTADOS DA FEDERAÇÃO e o DISTRITO FEDERAL, aderindo às razões expostas pela PGFN, requerem a desafetação dos recursos indicados como paradigmas e o afastamento da determinação da suspensão nacional dos processos pendentes sobre o tema.
+O Estado de São Paulo aduz que:
+(..) Do quadro exposto, pede-se vênia à V. Excelência para, diante da alteração legislativa promovida pela Lei 14.112/20, que acrescentou o §7º-A ao art. 6º da Lei 11.101/05, requerer o reconhecimento da perda de objeto dos recursos especiais afetados ao Tema 987, com a perda da eficácia da decisão que determinou a suspensão nacional das execuções fiscais que envolvam a prática de atos constritivos contra empresas em recuperação judicial.
+Desse modo, considerando as manifestações supra -especialmente a perda de objeto do presente caso - torno sem efeito a afetação do presente recurso especial ao regime dos recursos repetitivos e julgo-o prejudicado.
+Publique-se. Intimem-se.
+Cientifiquem-se os demais Ministros que integram a Primeira Seção deste Tribunal, com cópia da presente decisão.
