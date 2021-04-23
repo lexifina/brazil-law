@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE GRAVATAÍ, com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 82):
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IPTU. EXECUÇÃO FISCAL. PRESCRIÇÃO. CONFIGURAÇÃO. TEMA 980, STJ.
+O termo inicial do prazo prescricional da cobrança judicial do IPTU inicia-se no dia seguinte à data estipulada para o vencimento da exação, O crédito tributário refere-se a IPTU do exercício de 2006, cujo vencimento ocorreu em 10/04/2006, marco inicial do prazo previsto no art. 174, do Código Tributário Nacional. A execução fiscal foi ajuizada em 03/07/2012, ou seja, quando já decorrido o prazo legal de cinco anos, impondo-se o reconhecimento da prescrição.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Embargos de declaração opostos e rejeitados (fl. 117).
+O recorrente, quanto ao art. 1.022 do CPC/2015, aponta omissão do acórdão sobre a aplicação do art. 173, I, do CTN, ao argumento de omissão do órgão julgador quanto à questão da notificação do lançamento do crédito tributário na constituição do crédito para demonstrar não operada a decadência e, por consequência, a prescrição.
+Alega, além de dissídio jurisprudencial, negativa de vigência ao art. 173, I, do CTN sustentando que a constituição do crédito se deu no prazo decadencial, época em que ainda não estava fluindo o prazo prescricional, o qual, considerando o teor do art. 174 do CTN, também não se consumara à época em que ajuizada a execução. Aduz aplicação incorreta do Tema 980 do STJ, porquanto não houve remessa de carnê de pagamento nem se tratou de parcelamento de débito tributário.
+Sem contrarrazões (fl. 272).
+Juízo positivo de admissibilidade a fls. 278-282.
+É o relatório. Decido.
+Cuida-se de execução fiscal de IPTU relativa ao exercício de 2006, com notificação do lançamento efetivada em 7/11/2011, e cuja ação executiva foi ajuizada em 3/7/2012. A Corte de origem, ao interpretar a tese repetitiva firmada no julgamento do REsp n. 1.658.517/PA, Tema 980, entendeu pela ocorrência da prescrição em razão de a referida notificação ter sido efetivada após 5 anos contado da data do vencimento do IPTU, em 10/4/2006 (fls. 83-86):
+Ocorre que o Superior Tribunal de Justiça, ao julgar o REsp 1.658.517, Tema 980, submetido ao regime do art. 1.036, do Código de Processo Civil fixou a tese de que o termo inicial do prazo prescricional da cobrança judicial do IPTU inicia-se no dia seguinte à data estipulada para o vencimento da exação, constando na decisão:
+ ..
+No caso, o crédito tributário sub judice refere-se a IPTU do exercício de 2006, cujo vencimento ocorreu em 10/04/2006, marco inicial do prazo previsto no art. 174, do Código Tributário Nacional.
+Por outro lado, a execução fiscal foi ajuizada em 03/07/2012, ou seja, quando já decorrido o prazo legal de cinco anos, impondo-se a manutenção da decisão agravada, com o reconhecimento da prescrição.
+Por oportuno, destaco que a notificação do lançamento não possui o alcance pretendido pelo credor, ora agravante, pois efetivada em 07/11/2011, ou seja, quando já prescrito o crédito tributário do exercício de 2006.
+De início, afasta-se apontada afronta ao art. 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou a respeito da notificação do lançamento, somente concluindo que o referido ato não importaria constituição do crédito dentro do prazo decadencial, porque já consumado o prazo prescricional.
+No mérito, contudo, a insurgência recursal prospera.
+Isso porque, no presente caso, não houve a constituição do crédito pelo envio do carnê no ano do exercício fiscal, de modo que a Fazenda tem prazo de 5 anos, a contar do primeiro dia útil do exercício seguinte para, primeiramente, constituir o crédito tributário, conforme disposto no art. 173, I, do CTN. Desse modo, em se tratando de IPTU do exercício de 2006, em 1º de janeiro de 2007 começou a fluir o prazo decadencial de 5 anos para a constituição do crédito, o qual se encerrou em 31/12/2012. A notificação do lançamento efetivada em 7/11/2011 constituiu o crédito dentro do lustro decadencial, e só a partir desse momento se iniciou o cômputo do prazo prescricional de 5 anos do art. 174 do CTN. Assim, o ajuizamento da ação em 3/7/2012 não estava acobertada pela prescrição.
+A propósito:
+DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPTU. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. LANÇAMENTO. ART. 173 DO CTN. DECADÊNCIA. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 173 do CTN, somente no primeiro dia do exercício seguinte ao ano em que o lançamento poderia ter sido realizado é que começa a transcorrer o prazo decadencial de 5 anos para a constituição do crédito tributário.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.123.386/GO, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 1º/3/2011, DJe 18/3/2011)
+Observa-se que a tese repetitiva firmada no REsp n. 1.658.517/PA fixa que o início da contagem da prescrição quinquenal do IPTU começa a fluir após o inadimplemento do tributo na data do vencimento estabelecido pela lei local - seja para pagamento à vista, seja para pagamento parcelado do imposto no ano do exercício, conforme previsão na lei local de regência - situação essa só possível de ser considerada se houve a anterior constituição do crédito tributário pelo envio do carnê de pagamento ao contribuinte (Súmula 397/STJ). Todavia, no caso dos autos, como não houve a constituição do crédito no ano de 2006 pelo envio do carnê de pagamento, mas somente no ano de 2011 com a notificação do lançamento, o ajuizamento da ação executiva em 2012 não se encontrava fulminada pela prescrição.
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento para afastar a prescrição.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. EXECUÇÃO FISCAL. ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS. NOTIFICAÇÃO DO LANÇAMENTO. CONSTITUIÇÃO DO CRÉDITO DENTRO DO LUSTRO DECADENCIAL. PRESCRIÇÃO NÃO OPERADA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
