@@ -1,0 +1,13 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No 1028966-49.2020.8.11.0041
+APELANTES: GABRIEL LUIZ DE MELO, KEYLA DA SILVA BELIDO, LIDIA GUEIRIM DA SILVA, EMANUELLY DA SILVA BELIDO, PAULO HENRIQUEDA SILVA SOBRINHO E MAMUR ESFIHAS ABERTAS EIRELI - ME
+APELADOS: OS MESMOS
+Vistos.
+Trata-se de recursos de apelação interpostos por GABRIEL LUIZ DE MELO E OUTROS e pela MAMUR ESFIHAS ABERTAS EIRELI - ME, contra sentença proferida pela MMa Juíza da Vara Quarta Vara Cível Comarca de Cuiabá-MT, Dra. Vandymara Galvão Ramos Paiva Zanolo, lançada nos autos da ação de indenização por danos morais e materiais, que julgou procedente a pretensão autoral para: “1) CONDENAR a requerida ao pagamento do valor de R$5.000,00 (cinco mil reais), a título de danos morais, acrescidos de juros de mora de 1% (um por cento) ao mês a partir do evento danoso e correção monetária pelo índice INPC a partir da data desta sentença, cujo valor deve ser dividido igualmente entre os autores; 2) CONDENAR a parte requerida, ao pagamento da indenização por danos materiais ao autor GABRIEL LUIZ DE MELO, consistente na devolução do valor de R$25,80 (vinte e cinco reais e oitenta centavos), decorrente da compra das duas bandejas de esfiha, em que um dos salgados possuía objeto estranho, aos quais devem ser acrescidos de juros de mora de 1% (um por cento) ao mês a partir e correção monetária pelo índice INPC, ambos a partir do evento danoso; 3) CONDENAR a requerida ao pagamento das custas processuais e honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor da condenação, nos termos do art. 85, §2o, do Código de Processo Civil”
+Inconformada, a empresa-apelante recorre da r. sentença onde pleiteia preambularmente a concessão da assistência judiciária (Id 83197963). Entretanto, é sabido que a jurisprudência deste Tribunal é pacífica no sentido de que a pessoa jurídica, tenha ou não finalidade lucrativa, detém o ônus de comprovar que não dispõe de meios suficientes para honrar as despesas processuais, como condição para obtenção da gratuidade judiciária, em consonância com o disposto no Enunciado n. 481, da Súmula do STJ, o que não fez a ora apelante.
+É que a Certidão Simplificada que anexou aos autos (Id 83197964), não comprova a hipossuficiência alegada e tampouco a incapacidade de pagar as despesas judiciais.
+Desse modo, INDEFIRO a gratuidade pleiteada e, por consequência, determino a recorrente o prazo de 05 (cinco) dias para o recolhimento do preparo, sob pena de deserção, conforme estabelecido no artigo 1.007 do CPC.
+Intime-se. Cumpra-se.
+Cuiabá, 23 de abril de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
