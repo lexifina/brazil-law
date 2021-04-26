@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL em face da decisão de folhas 309/312, que conheceu em parte do recurso especial para negar-lhe provimento.
+Em suas razões, a parte embargante sustenta a existência de contradição no decisium eis que "primeiramente declina-se não terem sido demonstrados, senão de maneria genérica, os vícios capitulados na norma tida por violada para, depois, sustentar-se ter ocorrido suficiente convicção na fundamentação do Tribunal a quo, inexistindo violação à norma do artigo 1.022, do CPC". (fl. 314)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+O art. 1.022, do CPC em seus incisos estabelece que os embargos de declaração constituem o meio idôneo a ensejar o esclarecimento da obscuridade, a solução da contradição ou o suprimento da omissão verificada na decisão embargada. Visam à inteireza, à harmonia lógica e à clareza do decisum, aplainando dificuldades e afastamento óbices à boa compreensão e eficaz execução do julgado.
+Nesses termos, a contradição, enquanto vício ensejador do cabimento do recurso integrativo é verificada sempre que existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+Ao se analisar a decisão embargada verifica-se a suficiente e pormenorizada solução do caso. Observa-se que para além da ausência de demonstração de violação ao artigo 1.022, inciso I, do CPC, reconheceu-se a suficiência da fundamentação contida no acórdão recorrido, a afastar a alegada violação ao disposto no artigo 1.022, inciso II. A propósito (fls. 310 e 311/312):
+Na espécie, relativamente ao art. 1.022, inciso I, do CPC, incide o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), uma vez que a parte recorrente alega, genericamente, a existência de violação do referido artigo, sem, contudo, demonstrar especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+ ..
+Quanto ao art. 1.022, inciso II, do CPC, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material.
+ ..
+Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+Assim, a alegada afronta ao art. 1.022 do CPC não merece prosperar, porque o acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014. Na mesma diretriz:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. AUSÊNCIA.
+1. A inexistência de contradição no acórdão embargado conduz à rejeição dos embargos de declaração.
+2. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1121948/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/10/2018, DJe 03/10/2018)
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
