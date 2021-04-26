@@ -1,0 +1,26 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. AÇÃO PENAL EM ANDAMENTO. AGRAVO NÃO PROVIDO. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE FATO. AGRAVO NÃO PROVIDO.
+    1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+    2. O Superior Tribunal de Justiça firmou o entendimento de que a existência de outros processos criminais, pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem afastar a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, quando permitem concluir que o agente é habitual na prática delitiva, como na hipótese.
+    3. Agravo regimental não provido.”
+    (HC 641.994/MG, Ministro Ribeiro Dantas)
+    Em suas razões, a parte impetrante pretende, em síntese, a aplicação do tráfico privilegiado (art. 33, §4º, da Lei 11.34306).
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    É o relatório. Decido.
+    Observo que, embora o Superior Tribunal de Justiça tenha utilizado, como argumento para afastar o tráfico privilegiado, o fato de que “a dedicação dos pacientes às atividades criminosas se infere das circunstâncias do cometimento do delito e da existência de ações penais em andamento por tráfico de drogas”, o que é vedado pela jurisprudência desta Suprema Corte, subsiste, segundo entendo, fundamentação suficiente na sentença condenatória para evidenciar a dedicação do paciente Jefferson Ribeiro da Silva a atividades criminosas.
+    “Ademais, a minorante prevista no art. 33, §4° da Lei de Drogas é voltada para os traficantes iniciantes, que ainda não se dedicam à traficância de maneira reiterada, ou a tem como meio de vida, o que, conforme se depreende das provas carreadas aos autos, não é o caso de JEFFERSON, vez que, apesar das alegações do réu em sentido contrário, policiais militares, o depoimento do investigador da policia civil, dão conta do envolvimento sistemático do acusado com o trafico de drogas. Consigno que a referida norma destina-se somente àquele traficante principiante e, no caso em apreço, não vejo como deferir ao autor o beneficio da redução da pena, pois restou demonstrado nos autos que o mesmo dedica-se, habitualmente, ao tráfico de drogas.”
+    No mesmo sentido, a sentença condenatória também fundamenta, quanto ao paciente Washington dos Santos Ganda, a dedicação a atividades criminosas:
+    “os Agentes de Policia Civil designados para investigar a vida pregressa do acusado confirmaram sua participação no tráfico de drogas, junto aos moradores vizinho, a sua residência, que informaram que o réu faz comércio de entorpecentes na região, e que o acusado anda em ‘más companhias’, sendo que todos seus amigos são envolvidos na mercancia de entorpecentes, tudo nos termos do Relatório Circunstanciado de Investigações às fls. 56/60”.
+    Vejamos que, para o acolhimento da tese defensiva – aplicação do tráfico privilegiado (art. 33, § 4º, da Lei 11.34306) –, seria indispensável o reexame de todo conjunto fático-probatório que levou as instâncias ordinárias a concluírem que os pacientes se dedicam a atividades criminosas, fato esse inviável na via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência pacífica desta Suprema Corte:
+    “’HABEAS CORPUS’. PENAL. TRÁFICO ILÍCITO DE DROGAS. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. IMPOSSIBILIDADE. RÉU QUE SE DEDICAVA A ATIVIDADE CRIMINOSA. ORDEM DENEGADA.
+    I – O indeferimento da causa especial de redução do § 4º do art. 33 da Lei 11.343/2006 foi devidamente fundamentado, havendo a comprovação de que o paciente já vinha colaborando para a disseminação do tráfico, utilizando-se, inclusive, de menores para a prática da traficância, e, por isso, responde a outro processo pelo mesmo delito.
+    II – Para se chegar a conclusão contrária à adotada pelas instâncias ordinárias e confirmada pelo STJ, seria necessário o reexame de fatos e provas, providência incabível em habeas corpus, por se tratar de instrumento destinado à proteção de direito demonstrável de plano, que não admite dilação probatória.
+    III – Ordem denegada.”
+    (HC 110.983/RS, Ministro Ricardo Lewandowski – com meus grifos)
+    Por fim, não havendo reparo a ser feito quanto à não aplicação do tráfico privilegiado, resta prejudicada a pretensão de fixação de regime aberto e de substituição da pena privativa de liberdade por restritivas de direito.
+    Em face do exposto, indefiro o presente habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 26 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
