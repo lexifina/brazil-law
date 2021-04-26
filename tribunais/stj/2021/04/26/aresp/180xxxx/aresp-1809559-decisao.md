@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por DIVARIENCI REIS, BENEDITA ALVIM DOS SANTOS,CÉLIA APARECIDA FANTUCI PEIXOTO, CÉLIA MARIA DE ALVARES ACHILLES, DORA MOREIRA NARESI, EDSON SILVA DOS SANTOS, ELZA PEDROLLO SILVESTRE, EUNICE SOUZA SANTOS, KAZUKO KASAMATSU ARIMA, KIOKA OSHIAI, LAURA RIBEIRO DE MENDONCA, LEILLAH ARIAS ZELLER, MARIA APARECIDA GONÇALVES FABBRIS, MARIA DE LOURDES MUNIZ, MARIA DO CARMO MACHADO GUIRRO, MARIA ERNESTINA RIBEIRO DA SILVA BARBOSA, MARIA HELENA DE SOUZA SANTOS, MARIA IGNEZ MORATO, MARIA SOLANGE RODRIGUES JACQUES EID, MARIA THEREZA MENEZES LIESENBERG, MARILZA PEREIRA, NAIR MOURA DIAN, NEIDI MARIA EUZEBIO FERREIRA, NEITH FONSECA LEITE NEVES CORREIA, NELLY THEREZA PINHEIRO MARTINS, OLGA DE BARROS BERTONAZZI, SILBEIA CELESTINO LIMA, WALDA BASTOS DUARTE, WALKIRIA GUIMARAES NERY, WASHINGTON FLAVIO PORTUGALcontra decisão que inadmitiu o recurso especial com os seguintes fundamentos:a) ausência de maltrato às normas legais enunciadas; b) incidência da Súmula 7 do STJ; c) aplicação da Súmula 280 do STF; ed) divergência jurisprudencial não demonstrada nos moldes legais e regimentais(e-STJ, fls. 403-404).
+A parte agravante sustenta: a) ter a decisão de admissibilidade adentrado indevidamente no mérito do recurso especial; b) violação do art. 3º do Decreto n. 20.910/1932; c) inaplicabilidade doóbiceprevistonas Súmulas 7 do STJ e 280 do STF; e d) "inexistência de desatendimento ao requisito previsto nos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ (e-STJ, fl. 417).".
+É o relatório.
+Atendidos os requisitos de conhecimento do presente agravo, passo a examinar o recurso especial (e-STJ, fls. 231-237).
+Trata-se de apelo nobre manejado,com amparo nas alíneas a e cdo inciso III do art. 105 da CF/1988, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (e-STJ, fl. 180):
+RECALCULO ADICIONAL POR TEMPO DE SERVIÇO/PRESCRIÇÃO
+Proventos - Constituição no momento em que o servidor passa para a inatividade - Formação de todo indiviso que não mais permite discutir forma de cálculo - Decurso de prazo superior a cinco anos - Inteligência do disposto no Decreto nº20.910/1932 - Prescrição do fundo de direito - Reconhecimento de ofício.
+RECALCULO ADICIONAL POR TEMPO DE SERVIÇO
+Adicionais anteriores ao advento da Emenda Constitucional nº19/98 devem incidir sobre os vencimentos integrais, compostos do padrão acrescido das vantagens incorporadas - Os posteriores devem incidir apenas sobre o vencimento padrão.
+Recursos oficial e voluntário providos em parte.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 208-213).
+Alegaa parte recorrenteviolação do art. 3º do Decreto n. 20.910/1932, sob a justificativade que," ..  inexistindo recusa formal da Administração ao reconhecimento do direito pleiteado, a prescrição não atinge o fundo de direito, mas apenas as parcelas vencidas em data anterior ao quinquênio em que a ação foi proposta" (e-STJ, fl. 233).
+Suscita ainda dissídio jurisprudencial, utilizando como paradigma o acórdão proferido noAgRg no REsp 806.472/RN.
+Apresentadas contrarrazões (e-STJ, fls. 305-312).
+Decido.
+Verifica-se que a questão tratada no presente recurso - definição sobre a configuração do ato de aposentadoria de servidor público como negativa expressa da pretensão de reconhecimento e cômputo, nos proventos, de direito não concedido enquanto o servidor estava em atividade, à luz do art. 1º do Decreto n. 20.910/1932 e da Súmula 85/STJ - foi afetada pela Primeira Seção (Tema 1.017).
+Importante ainda ressaltar que houve determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional.
+Dessa forma, encontrando-se a matéria pendente de julgamento em recurso repetitivo, deve o processo ser sobrestado paraseviabilizar umjuízo de conformação, disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Nesse contexto, cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão combatida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
