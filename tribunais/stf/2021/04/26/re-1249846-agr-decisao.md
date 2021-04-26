@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo regimental (eDOC 5, p. 1-6), interposto pelo Ministério Público Federal, da decisão de minha lavra que negou seguimento ao presente recurso extraordinário (RE), com fundamento no art. 21, § 1º, do RI/STF (eDOC 4, p. 1-2).
+    Inicialmente, o ora agravante interpôs recurso extraordinário contra acórdão da Quinta Turma do Superior Tribunal de Justiça (eDOC 2, p. 242-245), ementado nos seguintes termos:
+     “PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NÃO INTERRUPÇÃO DO LAPSO TEMPORAL. PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. ÚLTIMO MARCO INTERRUPTIVO. EXTINÇÃO DA PUNIBILIDADE. AGRAVO NÃO PROVIDO.
+    1. ‘Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação, ainda que majore a pena, não constitui marco interruptivo da prescrição’ (AgRg no AREsp 629.278/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016).
+    2. Transcorrido lapso superior a 4 anos desde o último marco interruptivo do prazo prescricional – publicação da sentença condenatória (9/10/2013) –, está extinta a punibilidade do agente, cuja pena privativa de liberdade foi fixada em 1 ano, 1 mês e 22 dias de reclusão, pela prática do crime previsto no art. 334, caput, do CP.
+    3. Agravo regimental não provido.” (eDOC 2, p. 242).
+    No recurso extraordinário (eDOC 2, p. 247-258), interposto com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal, o Ministério Público Federal, ora agravante, apontou ofensa aos arts. 5º, inciso II; e 37, da mesma Carta, além de ter sido indicada a repercussão geral dos temas de índole constitucional.
+    Admitiu-se o processamento deste RE (eDOC 2, p. 271-273).
+    Neguei seguimento ao recurso extraordinário (RE), com fundamento no art. 21, § 1º, do RI/STF (eDOC 4, p. 1-2).
+    Inconformado, o MPF interpôs o presente agravo regimental, com pedido de reconsideração (eDOC 5, p. 1-6), reiterando, em síntese, a argumentação deduzida no referido RE, bem como salientou a existência de precedentes desta Corte favoráveis a sua pretensão (HCs 92. 340/SC, e 138.088/RJ, dentre outros).
+    Assim, defende que “a Lei nº 11.596/2007 alterou a redação do inciso IV do art. 117 do CP, estabelecendo que o curso da prescrição interrompe-se ‘pela publicação da sentença ou acórdão condenatórios recorríveis’, abrangendo, inclusive, o acórdão confirmatório, que acaba por substituir a sentença em um segundo momento. (…) Nesse sentido, a 2ª Câmara de Coordenação e Revisão do Ministério Público Federal, expediu orientação aos membros do MPF com atuação na área criminal sob sua coordenação, em todas as instâncias, firmada na tese de que o acórdão confirmatório da condenação de primeira instância, independentemente da manutenção, majoração ou redução da pena imposta, interrompe o curso do prazo prescricional (Orientação nº 33, aprovada na 143ª Sessão de Coordenação, de 11 de dezembro de 2017)”(eDOC 5, p. 5).
+    Ao final, a parte agravante pede a reconsideração do decisum ora impugnado ou o provimento deste agravo interno para que seja conhecido e provido o presente recurso extraordinário (eDOC 5, p. 6).
+    É o relatório.
+    Decido.
+    A presente irresignação merece prosperar.
+    De imediato, frise-se que o Plenário do Supremo Tribunal Federal, em 28.4.2020, ao denegar o HC 176.473/RR, Rel. Min. Alexandre de Moraes, DJe 6.5.2020, por maioria de votos, em julgamento no qual fiquei vencido juntamente com os Ministros Celso de Mello e Ricardo Lewandowski, firmou o seguinte entendimento, inclusive com fixação de tese:
+    “HABEAS CORPUS. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA.
+    1. A prescrição é o perecimento da pretensão punitiva ou da pretensão executória pela inércia do próprio Estado; prendendo-se à noção de perda do direito de punir por sua negligência, ineficiência ou incompetência em determinado lapso de tempo.
+    2. O Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. O acórdão que confirma a sentença condenatória, justamente por revelar pleno exercício da jurisdição penal, é marco interruptivo do prazo prescricional, nos termos do art. 117, IV, do Código Penal.
+    3. Habeas Corpus indeferido, com a seguinte TESE: Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta.” (grifos nossos)
+    Ainda no mesmo sentido: HC 117.281/SP, Rel. Min. Marco Aurélio, Plenário, DJe 19.6.2020; RE 1.282.563/RN, Rel. Min. Roberto Barroso, decisão monocrática, DJe 27.8.2020; HC 179.874 AgR/PE, Primeira Turma, Rel. Min. Luiz Fux, DJe 17.6.2020; RE 1.260.100 AgR/RS, Rel. Min. Celso de Mello, Segunda Turma, DJe 24.8.2020; RE 1.263.422 AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma, DJe 8.6.2020; RE 1.241.874 AgR/SP, por mim relatado, decisão monocrática, DJe 28.9.2020; dentre outros.
+    Ante o exposto, em obediência ao quanto decidido pelo colegiado maior da Casa, ressalvado entendimento pessoal no sentido contrário, reconsidero a decisão ora agravada, com fundamento no art. 317, § 2º, do RI/STF, e dou provimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 26 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
