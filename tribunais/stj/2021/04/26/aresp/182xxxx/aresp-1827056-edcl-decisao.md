@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA ÂNGELA DUARTE PARDINI e OUTROS à decisão de fls. 1173/1174, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Primeiramente, importante destacar que os advogados subscritores foram intimados da decisão de inadmissão do Recurso Especial no dia 29.10.2019, conforme certidão que segue em anexo.
+No mais, sempre com a licença necessária, o prazo para interposição do Agravo em Recurso Especial, teve fim no dia 22.11.2019, justamente o dia em que foi efetivamente protocolado.
+Importante chamar atenção para o fato de terem ocorrido algumas suspensões de prazo naquele período, (1) 31/10/2019 - Indisponibilidade do sistema; (2) 15/11/2019 - Feriado Nacional - Proclamação da república e (3) 20/11/2019 - Feriado Nacional - Dia Nacional da Consciência Negra, e, considerando que o início da contagem de prazo se deu no dia 30/10/2019, não restam dúvidas da tempestividade do Recurso Interposto.
+Não houve feriado local, apenas suspensão do prazo por indisponibilidade do sistema e feriados nacionais (fls. 1189/1190).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que as partes embargantes foram intimadas em 30/10/2020, circunstância que será devidamente corrigida na fundamentação abaixo.
+Mediante nova análise dos autos, verifica-se à fl. 1120 que a intimação ocorreu em 29/10/2020.
+No entanto, o recurso permanece intempestivo. Isso porque, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+A aplicação do artigo citado, de acordo com a jurisprudência do STJ, também é válida para qualquer suspensão que interfira na contagem de prazo recursal, inclusive para os casos de indisponibilidade do sistema, conforme demonstram estes precedentes:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A mera alegação de indisponibilidade do sistema eletrônico do Tribunal de origem, sem a devida comprovação no ato de interposição do recurso, mediante documentação oficial, não tem o condão de afastar a inadmissibilidade deste, em razão da impossibilidade de aferição da sua tempestividade.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1340335/RS, relator Ministro Gurgel de Faria , Primeira Turma, DJe de 24/10/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. INDISPONIBILIDADE DO SISTEMA DE PETICIONAMENTO ELETRÔNICO NÃO COMPROVADA. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Hipótese em que a parte recorrente foi intimada da decisão agravada em 30.5.2018, sendo o recurso especial somente interposto em 21.6.2018.
+2. O recurso é intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+3. Conforme jurisprudência do STJ, "A jurisprudência do STJ possui entendimento segundo o qual a indisponibilidade do sistema eletrônico do Tribunal de origem também deve ser comprovado, mediante documento oficial, no ato da interposição do recurso" (AgInt no AREsp 1.317.805/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 19/12/2018).
+ ..
+6. Agravo Interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp 1417235/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 30/9/2019.)
+Importante ressaltar que a consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia.
+Ainda que assim não fosse, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntados posteriormente à interposição do recurso, às fls. 1122/1127 e 1195/1200, sem o inteiro teor do respectivo ato normativo, não têm o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material verificado na decisão de fls. 1173/1174, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
