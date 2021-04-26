@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por ADRIANO VIEIRA DOS SANTOS contra decisão monocrática proferida por Desembargadordo Tribunal de Justiça do Estado do Amazonasno HC n.4001092-25.2021.8.04.0000.
+Consta dos autos que o Recorrente foi preso em flagrante, em 16/03/2017, pela suposta prática dos crimes de tráfico ilícito de drogas e associação para o tráfico. O Juízo de origem concedeu liberdade provisória mediante o cumprimento de medidas cautelares diversas da prisão (fls. 43-45).
+Em razão do descumprimento das cautelares impostas, o Juízoa quodecretou, em 13/04/2018, a custódia preventiva(fls. 160-161).
+A Defesa impetrou habeas corpus perante o Tribunal de origem. O Desembargador Relator indeferiu liminarmente owrit(fls. 206-210).
+Nas razões deste recurso, a Defesa sustenta, em suma, a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva.
+Requer,no mérito, a revogação da custódia.
+Não foi formulado pleito liminar.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 359-360).
+É o relatório.
+Decido.
+Observo que o presentewritfoi manejado contra decisão singular de Desembargador Relator do Tribunal de origem,não tendo havido a interposição de agravo regimentalobjetivando a manifestação do Órgão Colegiado.
+Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipóteseexcepcional de flagrante ilegalidade,poisa custódia processual foi devidamente fundamentada pelo descumprimento de medidas cautelares alternativas (art. 282, § 4.º, do Código de Processo Penal), impõe-se o não conhecimento da presente ação mandamental. Cuida-se de entendimento firmado pelas duas Turmas que compõem a Terceira Seção desta Corte, como demonstram os seguintes precedentes, a título ilustrativo:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.MANDAMUSCONTRA DECISÃO MONOCRÁTICA DO TRIBUNALQUE RESTABELECEU PRISÃO PREVENTIVA. NÃO INTERPOSIÇÃO DO RECURSO AO COLEGIADO NA ORIGEM. WRITINDEFERIDO LIMINARMENTE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corteé pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instância anterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal, é incabível a impetração do habeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido."(AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+"PEDIDO DE RECONSIDERAÇÃO NOHABEAS CORPUS.QUADRILHA, PORTE ILEGAL DE ARMA DE FOGO E DE MUNIÇÃO. REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES. PETIÇÃO RECEBIDA COMO AGRAVO REGIMENTAL.WRITCONTRA DECISÃO MONOCRÁTICA DE DESEMBAGADOR. SÚMULA 691/STF. INCOMPETÊNCIA DESTE TRIBUNAL SUPERIOR. JURISDIÇÃO AINDA NÃO INAUGURADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. O entendimento consolidado por esta Corte Superior é no sentido de que o pedido de reconsideração, interposto no prazo recursal de 5 dias, deve ser recebido como agravo regimental, nos termos dos arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça.
+2.Hipótese em que o ato indicado como coator e impugnando na impetração, praticado por Desembargadora do TJRJ, deve ser submetido à análise do órgão julgador competente, por meio de agravo interno, não estando inaugurada, portanto, a jurisdição desta Corte Superior Tribunal de Justiça Superior, consoante determinado no art. 105, II,a, da CF.
+Assim, a matéria não pode ser examinada, sob pena de supressão de instância.
+3. Agravo regimental não provido."(AgRg no HC 507.396/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019; sem grifos no original.)
+Confiram-se, ainda, recentes julgados proferidos pelas Primeira e Segunda Turmas do SupremoTribunal Federal:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+ ..
+3. Agravo regimental conhecido e não provido."(HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º, "a" e "c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5.Habeas corpusimpetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.6. Agravo regimental a que se nega provimento."(HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Ademais, não se constata ilegalidade patente na decisão impetrada, que esposou fundamentação relevante acerca de possível supressão de instância:
+"Extrai-se dos autos que o paciente foi preso em flagrante no dia 16.03.2017 pela suposta prática dos crimes de tráfico ilícito de entorpecentes e associação para o tráfico, tendo obtido a concessão de liberdade provisória sem fiança com a aplicação de medidas cautelares previstas no artigo 319, incisos I, IV e IX, do Código de Processo Penal (fls.43/44).
+Posteriormente, a autoridade impetrada foi informada de que o paciente estava com o seu equipamento de monitoramento eletrônico desligado desde Maio de 2017 (fl. 151), motivo pelo qual o parquet requereu sua prisão preventiva (fl.159), a qual foi decretada em Abril de 2018 (fls. 160/161), com fundamento na garantia da ordem pública, na conveniência da instrução criminal e para assegurar a aplicação da lei penal, corroborado com o fato de que o juízo de primeira instância estava tendo frequentes dificuldades para localizar o acusado, situação que vinha causando prejuízos à instrução criminal.
+Após decurso de relativo lapso temporal desde o decreto de prisão preventiva do paciente, o impetrante busca, por meio do presente, demonstrar que as circunstâncias que outrora fundamentaram o decreto de custódia preventiva não mais subsistem, o que possibilitaria a revogação da custódia e a aplicação de medidas cautelares diversas da prisão.
+Ocorre que inexiste nos autos a comprovação de que o juízo de primeira instância tenha se manifestado sobre tais fundamentos ou mesmo que a defesa do paciente tenha, ao menos, provocado a autoridade impetrada para apreciar os aludidos argumentos.
+Conforme sabido, é inviável, por esta via e neste grau de jurisdição, o exame de matéria que não foi analisada previamente pelo juízo de primeiro grau, sob pena de restar configurada a inadequada supressão de instância."(fls. 206-207)
+Nesse contexto, competeao Impetrante ou apresentar sua insurgência perante o juízo de primeiro grau ou, caso já o tenha feito, apresentar outromandamusperante o Tribunala quo, devidamente instruído com os documentos necessários.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, NÃO CONHEÇO do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL.WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR RELATOR DO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. RECURSO ORDINÁRIO NÃO CONHECIDO.
