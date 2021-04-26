@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    PREVIDENCIÁRIO. REVISÃO DA RMI. RETROAÇÃO DA DIB PARA O MOMENTO EM QUE IMPLEMENTOU OS REQUISITOS PARA A CONCESSÃO DA APOSENTADORIA. IMPOSSIBILIDADE. NÃO COMPROVADO O AFASTAMENTO DA ATIVIDADE QUANDO DA IMPLEMENTAÇÃO DOS REQUISITOS. CÁLCULOS A PARTIR DA DER. RECURSO DA PARTE AUTORA NÃO PROVIDO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. ARTIGO 46 DA LEI Nº 9.099/95.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    No caso em questão, a parte autora alega ter implementado os requisitos para a obtenção de aposentadoria por tempo de serviço em 25/01/1995, mas continuou a exercer atividade laborativa até o mês de 04/2002. Portanto, como não houve o afastamento da atividade “em 01/1995”, como exigia a norma prevista na redação originária do artigo 29, “caput”, da Lei n.º 8.213/1991 (vigente em 25/01/1995), não há como ser atendido o pedido de retroação da data de início do benefício para esta época.(...)
+    4. Sem razão a recorrente. A sentença é irretocável.
+    5. Assim, utilizando-me do disposto no artigo 46 da Lei n. 9.099/95, combinado com o artigo 1º da Lei n. 10.259/01, entendo que a decisão recorrida deve ser mantida por seus próprios fundamentos, os quais adoto como razões de decidir, dando-os por transcritos.
+    6. Ante o exposto, nego provimento ao recurso interposto pela parte autora e mantenho a r. sentença.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Benefício mais vantajoso. Período básico. Forma do cálculo. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame.Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.216.147/ES - AgR, Plenário, Rel. Min. Dias Toffoli (Presidente), DJe de 24/9/19).
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. 3. Revisão de aposentadoria. 4. Pedido de exclusão dos piores salários de contribuição do período básico de cálculo (PBC) para fins de recálculo de renda mensal inicial de benefício (RMI). 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental desprovido. Majoração de honorários” (RE nº 1.162.416/RS - AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 18/03/19).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
