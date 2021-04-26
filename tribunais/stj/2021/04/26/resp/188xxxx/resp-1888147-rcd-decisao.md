@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de requerimento de distinção formulado por Modesto Dutra e outros entre a questão tratada nos presentes autos e a matéria afetada a julgamento no Tema 1.017 do STJ.
+Argumentam os requerentes, em síntese, que a distinção reside no fato de que, nos processos afetados para julgamento emrecurso repetitivo, os servidores inativos recebem seus benefícios previdenciários pelo chamado benefício previdenciário - pela média aritmética das maiores contribuições -, enquanto, na presente hipótese, os servidores se aposentaram com direito à integralidade e à paridade, de modo que " ..  seus proventos de aposentadoria são pagos como um "espelho" dos vencimentos que recebiam quando ainda se encontravam em atividade  .. " (e-STJ, fl. 950).
+O recorrido não concordou com a distinção apontada (e-STJ, fl. 966).
+Decido.
+Em que pese aos argumentos dos insurgentes, não se vislumbra distinção apta a afastar a subsunção do caso ao Tema 1.017/STJ.
+Na hipóteseem questão, os interessados pleiteiam o recálculo do benefício do adicional por tempo de serviço, observado o art. 129 da Constituição Estadual, bem como o apostilamento dos títulos e o consequentepagamento das diferenças devidas, conforme relatado na origem.
+Ou seja, o pedido formulado na inicial é justamente o recálculo de adicional que era pagoquando os servidores estavam na ativa,em observância à legislação local, a fim de majorar o valor dos seus proventos de aposentadoria.
+No acórdão de afetação do Tema 1.017/STJ, consignou-sea abrangência da tese a ser firmada, com expressa menção à transcendência da questão discutida nos processos afetados - relativa à Parcela Autônoma de Magistério.
+Confira-se:
+Por essa transcendência é que proponho a fixação da controvérsia de forma mais abrangente, sem especificar a pretensão concreta da servidora pública estadual ora recorrida (inclusão dos reajustes da PAM no cálculo da aposentadoria), o que proporcionará o sobrestamento de outras hipóteses contempladas pela tese ampla (se o ato de aposentadoria resulta, para fins de prescrição, em negativa de direito não concedido quando em atividade, ou se é necessário o indeferimento expresso e especificado do direito).
+O que proponho, portanto, eminentes pares, é proporcionar o debate amplo sobre a configuração ou não do ato de aposentadoria como negativa expressa da pretensão relativa a direitos do servidor que seriam devidos quando na atividade e que repercutiriam nos proventos, com o que se definirá se a prescrição da pretensão atinge o fundo de direito ou apenas as prestações vencidas antes do quinquênio que antecede o ajuizamento da ação, conforme a Súmula 85/STJ ("Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação").
+Nesse contexto, o simples fato de os recorrentes estarem sujeitos às regras da integralidade e da paridade não afasta a subsunção do caso aos efeitos do Tema 1.017/STJ, sem prejuízo de eventual delimitação ou distinção que venha a ser realizada quando do julgamento do mérito dos recursos paradigmas.
+Ante o exposto, indefiro o pedido de distinção.
+Publique-se. Intimem-se.
