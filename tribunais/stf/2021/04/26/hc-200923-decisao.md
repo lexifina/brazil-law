@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Leonardo Aparecido de Oliveira Couy, apontando como autoridade coatora a Quinta Turma, do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 657.275/SP, Relator o Ministro Reynaldo Soares da Fonseca.
+    Consta dos autos que o paciente teve a sua prisão preventiva decretada em razão da suposta prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06).
+    Sustenta a impetrante, em suma, constrangimento ilegal imposto ao paciente, ante a falta de fundamentação do ato por meio do qual imposta a segregação cautelar, tendo-o por inidôneo, pois, conforme assevera, não observou os requisitos do artigo 312 do Código de Processo Penal.
+    Afirma a presença de circunstâncias judiciais favoráveis ao paciente, notadamente a primariedade.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente, ainda que com a aplicação de medida cautelar diversa do cárcere (CPP, art. 319).
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão proferido pelo Superior Tribunal de Justiça:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA AGRAVO REGIMENTAL DESPROVIDO.
+    1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+    2. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+    3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime. Precedentes do STF e STJ.
+    4. In casu, observa-se que a segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão da apreensão da expressiva quantidade de drogas – 57,42kg de maconha, além do risco de reiteração delitiva, em virtude do agravante ter tido envolvimento com a prática de delito da mesma espécie no Paraná.
+    5. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+    6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+    7. Agravo regimental desprovido.”
+    O julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia.
+    Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Em relação à alegada insubsistência do ato mediante o qual determinada a custódia cautelar do paciente, cumpre destacar que a prisão está fundamentada no risco concreto de reiteração delitiva, já que envolvido na prática de igual delito no Estado do Paraná.
+    Esse entendimento não fere a jurisprudência do Supremo Tribunal Federal, segundo a qual “a periculosidade do agente e o risco de reiteração delitiva demonstram a necessidade de se acautelar o meio social para resguardar a ordem pública e constitui fundamento idôneo para a prisão preventiva.” (RHC nº 112.703/DF, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/12)
+    Perfilhando esse entendimento: HC nº 136.778/RO, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 7/11/16; HC nº 128.779/SP, Segunda Turma, de minha relatoria, DJe de 5/10/16.
+    Cumpre ressaltar, ademais, não haver “ilegalidade evidente ou teratologia (...) na decisão que impõe prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta.” (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17)
+    Destaco, no ponto, trecho do voto do Relator do habeas corpus deduzido perante o STJ:
+    “Note-se que a conduta imputada ao paciente está devidamente justificada, visando garantir a ordem pública, notadamente em virtude da apreensão de significativa quantidade de drogas - 57,58kg de maconha, como também evitar a reiteração delitiva, em virtude do paciente já ter tido envolvimento com a prática de delito da mesma espécie no estado do Paraná.”
+    Ainda, segundo a jurisprudência desta Corte, “a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem de prisão preventiva.” (HC nº 129.626/RS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 8/5/17).
+    No mesmo sentido: HC nº 120.292/PR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 13/5/14; HC nº 118.228/MT, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/11/13; HC nº 118.892/MG, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 12/11/13.
+    Por fim, anoto que a existência de condições subjetivas favoráveis ao paciente não obstam a segregação cautelar, desde que presentes nos autos elementos concretos a recomendar sua manutenção, como se verifica no caso. Nesse sentido: HC nº 126.051/MG, Segunda Turma, de minha relatoria, DJe de 29/5/15; HC nº 90.330/PR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 27/6/08; HC nº 93.901/RS, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 27/6/08; HC nº 92.204/PR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 19/12/07.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
