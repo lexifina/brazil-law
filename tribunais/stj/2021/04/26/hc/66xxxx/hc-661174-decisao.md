@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDERSON RODRIGO GUSTAVO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente teve seu pedido de progressão ao regime semiaberto indeferido porque ausentes os requisitos necessários.
+Inconformado, interpôs agravo de execução, que restou desprovido pela Corte a quo, em acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO - INDEFERIMENTO DO REGIME SEMIABERTO - PRESENÇA DOS REQUISITOS NECESSÁRIOS E DESNECESSIDADE DE EXAME CRIMINOLÓGICO - SEM RAZÃO A COMBATIVA DEFESA - AUSÊNCIA DE MÉRITO - O EXAME CRIMINOLÓGICO ERA NECESSÁRIO E FOI CONTRÁRIO À PROGRESSÃO - AINDA NÃO FAZ JUS A REGIME DE MENOR VIGILÂNCIA - AGRAVO DESPROVIDO. " (e-STJ, fl. 10)
+Nesta Corte, o impetrante alega que, mesmo havendo cumprido o lapso temporal necessário, o paciente está sendo privado de ser promovido ao regime intermediário até que seja feito o exame criminológico.
+Ressalta que o Juízo de primeiro grau está exigindo exames criminológicos de maneira genérica e sem qualquer individualização, para todos os presos da Vara das execuções criminais.
+Pleiteia seja determinada a dispensa da realização do exame criminológico para a progressão ao regime semiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Inicialmente, verifica-se a perda do objeto da presente ordem, tendo em vista que o exame criminológico já foi produzido, assim, já realizado o ato que se pretendia obstar com a presente ordem, é de ser reconhecida a prejudicialidade do mandamus sob análise neste ponto.
+Ademais, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada que indeferiu a progressão de regime, pois, da análise dos autos, verifica-se que o Tribunal a quo entendeu que seria o caso de indeferimento da progressão de regime, porquanto o apenado ainda não demonstrou aptidão ao convívio em sociedade.
+Colhe-se do acórdão atacado:
+"Não estão preenchidos os requisitos necessários à progressão a regime de menor vigilância.
+Destaca-se que a assistente social responsável pela avaliação e elaboração do relatório social (fls. 121) apontou que o agravante assumiu parcialmente os delitos pelos quais cumpre pena.
+A psicóloga relatou que o agravante apresenta autocrítica superficial, percebendo-se com conduta inocente, deixando se levar pela ganância. Seu remorso e reflexão são centrados nos próprios prejuízos e dos familiares. Além disso, destacou o senso de responsabilidade com sinais de imaturidade, não reconhecendo os crimes de tráfico e associação para o tráfico, e minimizando os delitos de estelionato.
+Quanto à capacidade para lidar com raiva e frustração, apontou que sinais de instabilidade, observando-se inconstância na manutenção de atividades laborais oportunizadas (fls. 122). Ora, tais fatos demonstram, sem sombra de dúvidas, que o agravante não possui mérito, por ora, para progredir ao regime semiaberto. Registra em seu Boletim Informativo mais de 18 (dezoito) anos de pena ainda por cumprir, inclusive por delito equiparado a hediondo, o que torna necessária análise mais robusta do preenchimento ou não dos requisitos. Subsiste, assim, integralmente a r. decisão, que fica mantida por seus próprios e bem lançados fundamentos, todos aqui incorporados como razão de decidir." (e-STJ, fls. 11-12)
+Assim, verifica-se que as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do laudo psicológico do exame criminológico, desfavorável à pretendida progressão do apenado.
+Embora o paciente tenha cumprido o requisito temporal para progressão do regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o relatório emitido por profissionais habilitados, não se verificando, portanto, o alegado constrangimento ilegal.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME SEMIABERTO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional.
+2. O julgador forma sua convicção pela livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal.
+3. A decisão de primeiro grau, reforçada pelo Tribunal de Justiça, não padece de ilegalidade, uma vez o Juiz justificou o não preenchimento do requisito subjetivo do art. 112 da LEP com lastro em parecer social desfavorável, que não recomendou a progressão prisional ao apenado.
+4. O debate sobre o conteúdo do laudo e sobre o acerto da avaliação demanda revolvimento de prova, o que é incompatível com o habeas corpus.
+5. Agravo regimental não provido."
+(AgRg no HC 426.201/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018, com destaque).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. DECISÃO FUNDAMENTADA. AUSÊNCIA REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO.
+- Não há como conhecer de habeas corpus impetrado em substituição a recurso próprio (HC 109956, Relator Ministro MARCO AURÉLIO, Primeira Turma, DJe 11/9/2012). Verifica-se o pedido deduzido na impetração apenas no tocante à existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+- A decisão do Juiz das Execuções, mantida e reforçada pelo Tribunal a quo, indeferiu de forma fundamentada o pedido de progressão de regime, por entender que não estava preenchido o requisito subjetivo para obtenção do benefício, tendo sido destacado o resultado do exame criminológico desfavorável diante do relatório social que não recomendava a progressão prisional do apenado, não cabendo nenhum reparado na decisão de primeiro grau.
+- É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido."
+(HC 302.373/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 28/04/2015, DJe 06/05/2015, grifou-se).
+Por fim, ressalte-se que o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
