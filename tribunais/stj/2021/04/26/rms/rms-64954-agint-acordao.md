@@ -1,0 +1,85 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO ESTADUAL. CARREIRA DE MAGISTÉRIO. REMOÇÃO. PREVISÃO GENÉRICA NA LEI ESTADUAL. AUSÊNCIA DE ESPECIFICAÇÃO DAS HIPÓTESES CABÍVEIS. SUPLEMENTAÇÃO PELA LEI 8.112/1990. ACOMPANHAMENTO DE DEPENDENTE POR MOTIVO DE SAÚDE. POSSIBILIDADE.
+1. Na origem, a ora agravada pede a remoção, para acompanhamento de tratamento de saúde de sua filha no município de Belém, situação contra a qual não há insurgência do ora agravante, que defende a impossibilidade legal de deferimento do pedido.
+2. Não há previsão expressa na legislação do Estado do Pará (Lei 5.810/1994 e Estatuto do Magistério) das hipóteses de remoção a pedido, mas apenas previsão genérica da possibilidade.
+3. Nos casos em que a legislação local que estatui o regime jurídico de servidores públicos é omissa acerca da regulamentação de determinado instituto, a jurisprudência do STJ estabelece a possibilidade de aplicação subsidiária da Lei Federal 8.112/1990. A propósito: AgInt no RMS 58.568/PR, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2020, DJe 22/10/2020).
+4. Não há, pois, na previsão de remoção a pedido, especificação das hipóteses cabíveis, de forma que se exclui o caso de acompanhamento de dependente para tratamento de sua saúde, razão por que é possível a aplicação subsidiária da Lei Federal 8.112/1990, pois não há incompatibilidade com o tema remoção no ponto aqui examinado.
+5. A jurisprudência do STJ é pacífica no sentido de que o art. 36, parágrafo único, III, "b", da Lei 8.112/1990, impõe a remoção, para fins de acompanhamento de dependente para tratamento de saúde, do servidor público federal para outra localidade, no âmbito do mesmo quadro, condicionada à comprovação da enfermidade por junta médica oficial, enquanto permanecer a necessidade de acompanhamento. A propósito: AgInt no REsp 1805591/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 03/09/2019, DJe 09/09/2019; e REsp 1307896/PE, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 16/10/2012, DJe 22/10/2012.
+6. Nas informações prestadas pela autoridade coatora (fls. 97-105, e-STJ) não é manifestada impugnação à situação de saúde da dependente da recorrente, o que não impede a Administração Pública de realizar o acompanhamento médico periódico mencionado pela jurisprudência acima colacionada.
+7. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que proveu o recurso.
+A parte agravante alega:
+A opção deliberada de normas estaduais por não descrever uma hipótese que seja mais específica no regramento federal, não fez deste melhor ou pior do que aquelas. As situações de remoção país à fora certamente apresentarão variações, mas desde que haja norma explícita tratamento do instituto em si, não se pode aceitar a que o Judiciário estenda prerrogativa da norma federal para os entes estaduais, principalmente considerando a divisão de competências legislativas descritas na Constituição.
+(..)
+É dizer, enquanto o art. 36, III, b, da Lei 8.112/1990, parece introduzir um direito subjetivo independente da avaliação de discricionariedade, as normas dos arts. 24 e 25, da Lei estadual 5.351/1986, não deixa dúvida de que a hipótese não prescinde dessa avaliação.
+(..)
+Vale dizer, é incabível ao Poder Judiciário rever os atos da Administração Pública, eis que importaria na interferência daquele Poder em atos do Poder Executivo, violando o princípio da separação dos poderes, resguardado na Constituição Federal de 1988 em seu art. 2º, que é uma das cláusulas pétreas da Carta Maior.
+É o que vem, desafortunadamente, a ocorrer, em última análise, através da decisão agravada, que partindo do equívoco de considerar suposta omissão da legislação estadual sobre o instituto, cometeu o erro seguinte, consubstanciado na providência de suprimir um dito vácuo legal, quando o regramento do direito à remoção encontra-se perfeitamente disciplinado na norma específica, mesmo que a contragosto do critério que o Judiciário entenda mais justo.
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Houve impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO ESTADUAL. CARREIRA DE MAGISTÉRIO. REMOÇÃO. PREVISÃO GENÉRICA NA LEI ESTADUAL. AUSÊNCIA DE ESPECIFICAÇÃO DAS HIPÓTESES CABÍVEIS. SUPLEMENTAÇÃO PELA LEI 8.112/1990. ACOMPANHAMENTO DE DEPENDENTE POR MOTIVO DE SAÚDE. POSSIBILIDADE.
+1. Na origem, a ora agravada pede a remoção, para acompanhamento de tratamento de saúde de sua filha no município de Belém, situação contra a qual não há insurgência do ora agravante, que defende a impossibilidade legal de deferimento do pedido.
+2. Não há previsão expressa na legislação do Estado do Pará (Lei 5.810/1994 e Estatuto do Magistério) das hipóteses de remoção a pedido, mas apenas previsão genérica da possibilidade.
+3. Nos casos em que a legislação local que estatui o regime jurídico de servidores públicos é omissa acerca da regulamentação de determinado instituto, a jurisprudência do STJ estabelece a possibilidade de aplicação subsidiária da Lei Federal 8.112/1990. A propósito: AgInt no RMS 58.568/PR, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2020, DJe 22/10/2020).
+4. Não há, pois, na previsão de remoção a pedido, especificação das hipóteses cabíveis, de forma que se exclui o caso de acompanhamento de dependente para tratamento de sua saúde, razão por que é possível a aplicação subsidiária da Lei Federal 8.112/1990, pois não há incompatibilidade com o tema remoção no ponto aqui examinado.
+5. A jurisprudência do STJ é pacífica no sentido de que o art. 36, parágrafo único, III, "b", da Lei 8.112/1990, impõe a remoção, para fins de acompanhamento de dependente para tratamento de saúde, do servidor público federal para outra localidade, no âmbito do mesmo quadro, condicionada à comprovação da enfermidade por junta médica oficial, enquanto permanecer a necessidade de acompanhamento. A propósito: AgInt no REsp 1805591/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 03/09/2019, DJe 09/09/2019; e REsp 1307896/PE, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 16/10/2012, DJe 22/10/2012.
+6. Nas informações prestadas pela autoridade coatora (fls. 97-105, e-STJ) não é manifestada impugnação à situação de saúde da dependente da recorrente, o que não impede a Administração Pública de realizar o acompanhamento médico periódico mencionado pela jurisprudência acima colacionada.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5.4.2021.
+O Agravo Interno não merece prosperar.
+A decisão agravada assentou:
+Na hipótese dos autos, não há insurgência do Estado do Pará quanto à necessidade de a ora recorrente acompanhar o tratamento de saúde de sua filha no município de Belém, razão por que passo ao exame da legalidade da pretensão.
+Como assentado pelo Tribunal de origem, não há previsão expressa na Lei Estadual 5.351/1986 disciplinando as hipóteses de remoção, notadamente para acompanhar tratamento de saúde de dependente.
+Nas hipóteses em que a legislação local que estatui o regime jurídico de servidores públicos é omissa acerca da regulamentação de determinado instituto, a jurisprudência do STJ estabelece a possibilidade de aplicação subsidiária da Lei Federal 8.112/1990:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. APOSENTADORIA. SUSPENSÃO. PROCESSO ADMINISTRATIVO DISCIPLINAR. APLICAÇÃO DA LEI N. 8.112/1990. POSSIBILIDADE. EXCESSO DE PRAZO. CULPA DA ADMINISTRAÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO.
+I - Na origem, trata-se de mandado de segurança impetrado contra a Secretária de Estado da Administração e da Previdência do Estado do Paraná, que suspendeu o trâmite administrativo dos pedidos de aposentadoria dos Auditores Fiscais do Estado do Paraná que respondiam a Processo Administrativo Disciplinar até que estes fossem concluídos. No Tribunal a quo, denegou-se a segurança. Nesta Corte, negou-se provimento ao recurso ordinário em mandado de segurança.
+II - As disposições da Lei n. 8.112/1990 são aplicáveis, no âmbito dos Estados, nas hipóteses em que existam lacunas nas leis locais que regem os servidores públicos, e não haja incompatibilidade entre as normas. A propósito:
+(AgInt no RMS n. 54.617/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/3/2018).
+III - A lacuna na Lei Complementar Estadual n. 131/2010 do Estado do Paraná acerca da possibilidade de suspender o processo de aposentadoria enquanto tramita o processo administrativo disciplinar deve ser suprida com a aplicação subsidiária da Lei n. 8.112/1990.
+IV - Trata-se de legítima integração da legislação estadual por meio da aplicação subsidiária da norma federal, consoante pacífica jurisprudência.
+V - No tocante ao alegado excesso de prazo para concluir o processo disciplinar, tem-se que se trata de processo administrativo disciplinar altamente complexo, decorrente da conhecida Operação Publicano, que deflagrou um dos maiores esquemas de corrupção no âmbito das auditorias fiscais das Fazendas Estaduais, o que, ao menos, em tese, justifica o prazo necessário para a sua conclusão, ainda que pareça ultrapassar o prazo legal.
+VI - É que, não raro, os próprios acusados buscam protelar o processo administrativo, com infindáveis manobras e requerimentos com vistas a impedir o regular processamento do PAD.
+VII - É de se presumir que a complexidade dos autos disciplinares e as múltiplas petições, recursos, requerimentos, testemunhas, e todas as providências que a vivência do foro permite concluir ocorram no âmbito de processos de tal natureza complexa, não autorizam a conclusão de que o alegado excesso de prazo tenha decorrido de culpa da Administração, o que afasta o direito líquido e certo da alegação.
+VIII - Não há nos autos elementos suficientes para se concluir fosse a demora injustificada, e eventual demonstração neste sentido necessariamente demandaria dilação probatória, o que é vedado nos estreitos limites do mandado de segurança.
+IX - Não se vislumbra nenhum prejuízo para a administração na suspensão dos processos de aposentadoria voluntária, já que os recorrentes estão afastados de suas funções.
+X - Agravo interno improvido.
+(AgInt no RMS 58.568/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+No âmbito do Estado do Pará vigora a Lei 5.810/1994, que assim dispõe sobre remoção:
+Art. 49. A remoção é a movimentação do servidor ocupante de cargo de provimento efetivo, para outro cargo de igual denominação e forma de provimento, no mesmo Poder e no mesmo órgão em que é lotado.
+Parágrafo único. A remoção, a pedido ou ex-officio, do servidor estável, poderá ser feita:
+I - de uma para outra unidade administrativa da mesma Secretaria, Autarquia, Fundação ou órgão análogo dos Poderes Legislativo e Judiciário, do Ministério Público e dos Tribunais de Contas.
+II - de um para outro setor, na mesma unidade administrativa.
+O Estatuto do Magistério do Estado do Pará prevê a possibilidade de remoção a pedido, mas não especifica as hipóteses cabíveis:
+SEÇÃO I - DA REMOÇÃO Art. 25 - Remoção é o deslocamento do servidor do Magistério de uma para outra Unidade e processar-se-á por ato do Secretário de Estado de Educação, mediante concurso de títulos, permuta, união de cônjuge, a pedido e de ofício.
+Parágrafo Único - Só em casos especiais a remoção será feita fora do período de férias.
+Art. 26 - A remoção do servidor do Magistério do Interior do Estado para a Capital somente será permitida se portador de habilitação exigida para o grau de ensino correspondente de acordo com a conveniência da administração.
+Não há, pois, na previsão de remoção a pedido, especificação das hipóteses cabíveis, de forma a excluir os casos de acompanhamento de dependente para tratamento de saúde de dependente, razão por que é possível a aplicação subsidiária da Lei Federal 8.112/1990, pois não há incompatibilidade sobre o tema remoção no ponto aqui examinado.
+A jurisprudência do STJ é pacífica no sentido de que o art. 36, parágrafo único, III, "b", da Lei 8.112/1990, impõe a remoção, para fins de acompanhamento de dependente para tratamento de saúde, do servidor público federal para outra localidade, no âmbito do mesmo quadro, condicionada à comprovação da enfermidade por junta médica oficial, enquanto permanecer a necessidade de acompanhamento. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REMOÇÃO POR MOTIVO DE SAÚDE DO CÔNJUGE. SITUAÇÃO PROVISÓRIA. NECESSIDADE DE QUE A ESPOSA DO SERVIDOR SEJA SUBMETIDA À JUNTA MÉDICA OFICIAL.
+1. O art. 36, III, b, da Lei n. 8.112/1990 estabelece a possibilidade de o servidor ser deslocado a pedido, para outra localidade, independentemente do interesse da administração, nos casos que envolva motivo de saúde do servidor, cônjuge, companheiro ou dependente que vive às suas expensas e conste do seu assentamento funcional, condicionada à comprovação por Junta Médica Oficial.
+2. Todavia, a finalidade desta modalidade de remoção é assegurar o melhor tratamento médico da doença que acomete o servidor, cônjuge, companheiro ou dependente, é lícito à administração, dessa forma, submeter o enfermo à perícia médica periódica para verificar a gravidade da moléstia e eventual recuperação.
+3. Desse modo, uma vez cessados os motivos que ensejaram o ato administrativo de remoção, é possível a determinação do retorno do servidor à lotação originária, com amparo na supremacia do interesse público.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1805591/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/09/2019, DJe 09/09/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REMOÇÃO PARA TRATAMENTO DE SAÚDE DE DEPENDENTE. ALTERAÇÃO DE DOMICÍLIO. INTERESSE DA ADMINISTRAÇÃO. COMPROVAÇÃO POR JUNTA MÉDICA OFICIAL. ARTIGO 36 DA LEI 8.112/90. REQUISITO NÃO CUMPRIDO. REVISÃO. ÓBICE NA SÚMULA N. 7/STJ. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA N. 283/STF.
+1. O caso dos autos versa sobre a legalidade do ato administrativo que negou pedido de remoção do servidor público federal, ora recorrente, para fins de acompanhamento de filho portador de asma brônquica.
+2. O artigo 36, parágrafo único, III, "b", da Lei 8.112/90, que trata da matéria, estabelece que a remoção para fins acompanhamento para tratamento de saúde possibilita a mudança do servidor público federal para outra localidade, no âmbito do mesmo quadro, condicionada à comprovação da enfermidade por junta médica oficial.
+3. A Corte de origem, corrobora a ausência de comprovação dos requisitos legais que habilita o servidor a pretendida remoção, pois inexiste laudo pericial atestando a necessidade de mudança para Capital para fins de tratamento médico do dependente do recorrente. Vale ressaltar, que a revisão de tais premissas é inviável em sede de recurso especial, por demandar o revolvimento fático dos autos, conforme o disposto na Súmula n. 7/STJ.
+4. Ausência de impugnação de tese autônoma e suficiente à manutenção do aresto hostilizado, a qual permaneceu incólume. Incidência, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal.
+5. Recurso especial a que se nega provimento.
+(REsp 1307896/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 16/10/2012, DJe 22/10/2012)
+Nas Informações prestadas pela autoridade coatora (fls. 97-105/e-STJ) não é manifestada impugnação à situação de saúde da dependente da recorrente, o que não impede a Administração Pública de realizar o acompanhamento médico periódico mencionado pela jurisprudência acima colacionada.
+Por tudo isso, dou provimento ao Recurso Ordinário para conceder a ordem pleiteada de remoção, observados os parâmetros acima delineados.
+A insurgência do agravante está centrada na alegação de que a legislação estadual não é omissa e que, por isso, não há falar em aplicação subsidiária da Lei 8.112/1990.
+No entanto, como visto acima, a previsão na legislação estadual é genérica ao ponto de prever somente a possibilidade de remoção, e não a restrição ou as hipóteses específicas de concessão.
+Ante as considerações do agravante, a situação, se causadora de prejuízo à Administração Pública, pode ser contornada com a modificação da lei estadual.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
