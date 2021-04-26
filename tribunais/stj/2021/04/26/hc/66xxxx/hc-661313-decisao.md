@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de FELIPE FIUZA LEITE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOproferido no julgamento do Habeas Corpus n. 2037354-93.2021.8.26.0000.
+Extrai-se dos autos que opaciente foi condenado àpenade 6 anos e 8 meses de reclusão, em regime fechado, pela prática do crime do art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas). Transitado em julgado a condenação, a defesa interpôs ação de revisão criminal, que foi provida para reduzir a pena para5anos de reclusão, em regime fechado, e pagamento de 500 dias-multa.
+Iniciada a execução, o juízo das execuçõesratificou o cálculo de pena, informando que a previsão de progressão aoregime semiaberto seria em 26/12/2020. Contudo, em 15/12/2020 foi instaurado um procedimento disciplinar para apuração de falta grave eante ademora na conclusão do PAD, até o momento não houve a progressão ao regime semiaberto.
+Irresignada, a defesa impetrou habeas corpus na origem, tendo o Tribunal a quo não conhecido do writ, conforme acórdão assim ementado:
+Habeas Corpus Pretensão de concessão de progressão ao regime semiaberto Via eleita inadequada Questão a ser discutida em sede de execução penal Habeas corpus não conhecido, com recomendação ao MM. Juízo das Execuções. (fl. 367).
+No presente writ, o impetrante alega que "em conta da equivocada dosimetria da pena, emerge o PACIENTE a viabilidade de promoção do presente remédio heroico, mormente com o desiderato de rever-se a aplicação da pena e, igualmente, o regime inicial de seu cumprimento" (fl. 5).
+Aduz que não há nos autos elementos concretos que indiquem que o paciente se dedicava a atividades criminosas, a primariedade e os bons antecedentes não foram reconhecidos para a fixação do exacerbado aumento da pena-base em 1/3, bem como a quantidade de drogas apreendidas não indica que integra organização criminosa, sendo possível a aplicação do redutor de pena na fração máxima de 2/3.
+Afirma que o regime mais gravoso foi fixado com base na gravidade abstrata do delito em ofensa às Súmulas ns. 718 e 719 do STF.
+Subsidiariamente, sustenta que paciente está em regime mais gravoso há 118 dias, seno que a progressão é um direito objetivo do detento.
+Requer, em liminar, asuspensão do andamento da execução penal, com a expedição do alvará de solturae, subsidiariamente, que seja deferida a progressão de regime.No mérito, requer o redimensionamento da pena, a fixação do regime aberto e, subsidiariamente, que seja efetiva sua progressão de regime.
+É o relatório.
+Decido.
+Não há como conhecer do pedido.
+Com efeito,as teses alegadas acerca da pena e do regime fixado, bem como da progressão de regime não foramsubmetidas ou analisadaspela Corte Estadual noacórdão ora impugnado, circunstância que impede a manifestação desta Corte Superior nesta oportunidade, sob pena de atuar em indevida supressão de instância.
+São precedentes nossos:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. NULIDADE. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. SENTENÇA SEM NECESSIDADE DE FUNDAMENTAÇÃO EXAURIENTE. PRECLUSÃO. VÍCIO NÃO ALEGADO NA PRIMEIRA OPORTUNIDADE. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa à ocorrência de vícios ensejadores de nulidade absoluta não foi objeto de debates na instância de origem, de modo que este Superior Tribunal está impedido de decidir, originariamente, acerca do tema, sob pena de indevida supressão de instância.
+2. A decisão de pronúncia possui natureza interlocutória mista e encerra apenas um juízo preliminar de admissibilidade da acusação pela prática de crime doloso contra a vida, sem debater questões referentes à responsabilidade penal do acusado.
+3. Além disso, a defesa, de fato, deixou de alegar a suposta nulidade nas diversas oportunidades que teve antes da impetração do habeas corpus, o que caracteriza a chamada nulidade de algibeira. Esse procedimento é incompatível com o princípio da boa-fé, que norteia o sistema processual vigente, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+3. Agravo regimental desprovido. (AgRg no RHC 131.676/CE, Rel. Ministro REYNALDO SOARRES DA FONSECA, QUINTA TURMA, DJe 21/09/2020)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E ARMA COM NUMERAÇÃO SUPRIMIDA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. HISTÓRICO INFRACIONAL DO AGENTE. REITERAÇÃO. RISCO CONCRETO. PERICULOSIDADE SOCIAL. GARANTIA DA ORDEM PÚBLICA. CUSTÓDIA JUSTIFICADA E NECESSÁRIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. DESPROPORCIONALIDADE DA CUSTÓDIA. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. RECURSO, EM PARTE, CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+4. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, da alegação de desproporcionalidade da medida extrema em relação ao resultado do processo penal, sob pena de incidir-se em indevida supressão de instância, tendo em vista que a matéria não foi analisada pelo Tribunal impetrado no aresto combatido.
+5. Recurso parcialmente conhecido e, nessa extensão, improvido. (RHC 83.530/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 23/08/2017)
+Ante todo o exposto, nos termos do art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
