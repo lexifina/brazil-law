@@ -1,0 +1,42 @@
+DECISÃO
+ADELINA DE MATTOS DIAS e outros (ADELINA e outros) ajuizaram ação ordinária contra FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL  PETROS (FUNDAÇÃO), pretendendo a revisão do cálculo dos benefícios de pensões suplementares e pagamento das diferenças devidas.
+A ação foi julgada procedente para condenar FUNDAÇÃO ao pagamento da suplementação da pensão e ao pagamento das diferenças a serem apuradas em liquidação de sentença.
+FUNDAÇÃO interpôs recurso de apelação que foi desprovido pelo TJRJ, nos termos do acórdão assim ementado:
+APELAÇÃO. PREVIDÊNCIA PRIVADA PETROS. EXAME DA SENTENÇA QUE JULGOU PROCEDENTE A PRETENSÃO AUTORAL, RELATIVA À REVISÃO DO CÁLCULO DE PENSÃO POR MORTE PARA FAZER REFLETIR O QUE ESTÁ CONTIDO NO ART. 32 DO RESPECTIVO REGULAMENTO. Afastada a preliminar arguida, relativa à falta de interesse de agir. Isto porque a entidade de previdência complementar resiste à pretensão formulada pelas autoras, razão pela qual há interesse processual, que ficou evidenciado no caso em exame. O Juízo a quo julgou procedente os pedidos dos autores, por entender que, o critério adotado pela Fundação, consistente na aplicação das formulas dos artigos 41 e 42 daquele estatuto, resulta em valor inferior ao que decorre da aplicação do artigo 32 do regulamento e causa prejuízo aos beneficiários. O Perito concluiu que a aplicação do percentual de pensão sobre a soma do benefício PETROS com o benefício INSS não está de acordo com o determinado no art. 31 do Regulamento. Diante da conclusão a que chegou o Expert, a sentença deve ser mantida. O réu não se desincumbiu do ônus de demonstrar fato modificativo do direito autoral, na forma do art. 373, II do CPC. Precedentes. RECURSO CONHECIDO E A ELE NEGADO PROVIMENTO(e-STJ, fls. 1.031/1.037).
+Inconformado, FUNDAÇÃO manejou recurso especial com fundamento no art. 105, III, a, da CF alegando violação aos arts. (1) 1º, 17, parágrafo único, 68, § 1º, todos da Lei Complementar nº 109/2001 (i) que determina o equilíbrio econômico do plano de previdência complementar e que a concessão do benefício pago por entidades fechadas observa regras próprias contidas em seus regulamentos, razão pela qual se exige prévio custeio para a sua concessão; e (ii) o regulamento aplicável é aquele vigente no momento em que o participante possui as condições de elegibilidade para recebimento do benefício; (2) 884 do CC porque afirma que tal concessão implicaria em enriquecimento ilícito; e(3) 5º, XXXVI, da CF em virtude da violação do ato jurídico perfeito(e-STJ, fls. 1.055/1.073).
+Foram apresentadas contrarrazões(e-STJ, fls. 1.126/1.131).
+O recurso especial foi admitido.
+FUNDAÇÃO manejou recurso extraordinário que não foi admitido (e-STJ, fls. 1.082/1.100 e 1.159/1.214).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Da incidência da Súmula nº282 do STF
+Nas razões de seu recurso, FUNDAÇÃO alegou aviolação aos arts. 1º, 17, parágrafo único, 68, § 1º, todos da Lei Complementar nº 109/2001 (i) que determina o equilíbrio econômico do plano de previdência complementar e que a concessão do benefício pago por entidades fechadas observa regras próprias contidas em seus regulamentos, razão pela qual se exige prévio custeio para a sua concessão; e (ii) o regulamento aplicável é aquele vigente no momento em que o participante possui as condições de elegibilidade para recebimento do benefício. Aduziu a negativa de vigência do art. 884 do CC porque afirma que tal concessão implicaria em enriquecimento ilícito.
+Verifica-se que o TJRJ não emitiu pronunciamento sobre o tema, visto que apenas tratou da existência de pagamento de forma diversa do previsto no regulamento da FUNDAÇÃOe não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial - quanto à necessidade de custeio e da vigência do regulamento no momento das condições de elegibilidade-, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CONJUGADA COM INDENIZAÇÃO POR DANOS MORAIS, MATERIAS E LUCROS CESSANTES. LEGISLAÇÃO DO CONSUMIDOR. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões insertas nos artigos 26, II, §§ 1º e 2º, I, e § 3º, e 27 do Código de Defesa do Consumidor ocasiona a falta de prequestionamento, atraindo a aplicação da Súmula nº 282/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.678.669/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TerceiraTurma, j.12/4/2021, DJe 16/4/2021)
+Incide, quanto ao ponto, o óbice da Súmula nº282 do STF, por analogia.
+(3) Da impossibilidade de análise de violação aos preceitos constitucionais
+FUNDAÇÃO alegou a violação do art. 5º, XXXVI, da CF em virtude da violação do ato jurídico perfeito.
+A jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. OFENSA AO ART. 5o, XXXVI, DA CF.IMPOSSIBILIDADE.MATÉRIA CONSTITUCIONAL. 2. VIOLAÇÃO AO ART. 6o, § 1º, DA LINDB.IMPOSSIBILIDADE. MATÉRIA DE NATUREZA CONSTITUCIONAL. 3.POSSIBILIDADE DE REVISÃO DA MULTA. PRECEDENTES. NECESSIDADE DE REDUÇÃO DO VALOR EXECUTADO. 3.1. MONTANTE DESPROPORCIONAL.CONCLUSÃO FUNDADA EM FATOS E PROVAS. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. É inviável o exame de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Consoante a jurisprudência desta Corte, é "inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" - (AgRg no REsp n. 1.402.259/RJ, Relator o Ministro Sidnei Beneti, DJe 12/6/2014).
+3. O valor da multa cominatória não é definitivo, pois poderá ser revisto em qualquer fase processual, inclusive em cumprimento de sentença, caso se revele excessivo ou insuficiente (art. 537, § 1º, do Código de Processo Civil/2015).
+3.1 Modificar o entendimento do Tribunal local, quanto ao valor das astreintes após o redimensionamento efetuado pelo Tribunal originário, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no REsp 1.790.775/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TerceiraTurma, j.16/3/2020, DJe 20/3/2020)
+Dessa forma, quanto ao ponto, o recurso não pode ser conhecido.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJOROpara 15% o valor dos honorários advocatícios anteriormente fixados em favor de ADELINA e outros, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE. NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. VIOLAÇÃO À CF. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. RECURSO ESPECIAL NÃO CONHECIDO
