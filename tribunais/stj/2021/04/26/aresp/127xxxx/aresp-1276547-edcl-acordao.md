@@ -1,0 +1,33 @@
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1.601.757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/2/2017, DJe 23/2/2017). No caso, não há vício a ser sanado.
+2. Deve-se rejeitar os embargos de declaração quando, na decisão embargada, não há omissões, obscuridades, ou contradições, correspondendo o recurso, em geral, a uma mera intenção de rediscutir a matéria decidida no acórdão impugnado.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de embargos de declaração opostos por EDER ALBUQUERQUE contra acórdão desta Quinta Turma, de minha Relatoria, sintetizado na seguinte ementa:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (ART. 12 DA LEI 10.826/2003). POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16, LEI 10.826/2003). CRIMES DE MESMA ESPÉCIE. AGRAVO NÃO PROVIDO.
+1. Prevalece em ambas as Turmas que compõem a 3ª Seção desta Corte, o entendimento de que a reincidência específica se caracteriza pela prática de dois ou mais crimes da mesma espécie, assim considerados aqueles delitos que tutelam o mesmo bem jurídico, independentemente de constarem do mesmo tipo penal.
+2. No caso em exame, a reincidência específica fica caracterizada pela condenação anterior por crime da mesma espécie, haja vista que a condenação relativa ao delito de posse irregular de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003) é da mesma natureza da infração de posse ilegal de arma de fogo de uso restrito (art. 16, Lei 10.826/2003). Isso porque ambos os tipos penais visam à proteção da incolumidade pública, estão previstos na mesma lei especial e possuem características essenciais comuns.
+3. Agravo regimental a que se nega provimento." (e-STJ, fl. 561).
+O agravante alega, em síntese, que "o entendimento do agravo regimental foi fundamentado nos seguintes julgados: AgRg no REsp 1679603/GO, HC 293.252/SP e REsp 1107286, para afirmar que a reincidência específica refere-se a prática de crimes da mesma espécie. Porém, todos esses julgados referem-se ao instituto do crime continuado previsto no artigo 71, do Código Penal, ou seja, a base legal de interpretação é distinta do instituto da pena restritiva de direitos à luz do artigo 44, §3º, do Código Penal (caso dos autos)" (e-STJ, fl. 571).
+Sustenta que, no artigo 71, do Código Penal, efetivamente é disposta a expressão "crimes de mesma espécie", ou seja, expressão distinta de "reincidência específica". Ainda, o crime continuado é um benefício ao réu e a interpretação "crimes da mesma espécie" favorece ao réu para a aplicação da continuidade delitiva, enquanto que, a utilização dessa interpretação para fins da substituição da pena de prisão por restritivas de direitos (art. 44, §3º, CP) fere expressamente o princípio da legalidade penal, uma vez que é vedada a aplicação analógica do artigo 71, do Código Penal para prejudicar o réu, se o artigo 44, §3º, do Código Penal refere-se expressamente que a reincidência específica ocorre quando da prática do mesmo crime: "Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime" (e-STJ, fls. 571-572).
+Requer, assim, sejam dados "efeitos infringentes a estes embargos declaratórios para reconhecer a diferença entre a reincidência específica do artigo 71, do Código Penal (instituto do crime continuado) e do artigo 44, §3º, do Código Penal (substituição da prisão por restritivas de direitos), e consequentemente que não há reincidência específica neste caso porque não houve prática do mesmo crime, substituindo a pena de prisão por restritivas de direitos" (e-STJ, fl. 572).
+Dada vista ao Ministério Público Federal e ao Ministério Público do Estado do Rio Grande do Sul, esses se manifestaram, respectivamente, às fls. 579-581 e 584-587 (e-STJ).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1.601.757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/2/2017, DJe 23/2/2017). No caso, não há vício a ser sanado.
+2. Deve-se rejeitar os embargos de declaração quando, na decisão embargada, não há omissões, obscuridades, ou contradições, correspondendo o recurso, em geral, a uma mera intenção de rediscutir a matéria decidida no acórdão impugnado.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Apesar das alegações da parte embargante, razão não lhe assiste.
+Consoante o art. 619 do CPP, os embargos de declaração são cabíveis nas seguintes hipóteses:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão".
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Observa-se que o acórdão embargado declinou, claramente, as razões para o desprovimento do agravo regimental. Os argumentos da parte embargante demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível na estreita via dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
