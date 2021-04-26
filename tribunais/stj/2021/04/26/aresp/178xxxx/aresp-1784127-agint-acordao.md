@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA INDENIZATÓRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CONTRATO DE SEGURO DE VIDA OU ACIDENTES PESSOAIS. RECUSA DA SEGURADORA VÁLIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos, especialmente as cláusulas contratuais, para concluir que a invalidez que acomete a recorrente não estaria abrangida pelo contrato de seguro. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 161/171) interposto contra decisão do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a agravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões às fls. 175/180 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA INDENIZATÓRIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CONTRATO DE SEGURO DE VIDA OU ACIDENTES PESSOAIS. RECUSA DA SEGURADORA VÁLIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos, especialmente as cláusulas contratuais, para concluir que a invalidez que acomete a recorrente não estaria abrangida pelo contrato de seguro. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A recorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da falta de comprovação da violação dos artigos indicados, da incidência da Súmula n. 7/STJ e da ausência de demonstração da alegada divergência jurisprudencial (e-STJ fls. 53/56).
+O acórdão recorrido está assim ementado (e-STJ fl. 4):
+Agravo retido - recurso conhecido, "ex vi" do disposto no art. 523, §1º, do CPC/73, então o vigente. Insurgência da demandada contra a decisão saneadora que carreou afastadas as prejudiciais erigidas: prescrição e ilegitimidade passiva "ad causam". Agitações idênticas a do apelo; a última, não bastasse, embaralhada com o mérito e por isso a comportar desate em sede de fundamentação - análise conjunta.
+Preliminar de mérito. Prescrição. Inconsistência. Incontroversa existência de pedido administrativo. Recusa indenizatória, nestes o marco inicial de fluência do lapso, não demonstrada. Agravo retido e apelo, no tópico, improvidos.
+Apelação cível. Contrato de seguro de vida e/ou acidentes pessoais. Ação de cobrança indenizatória por invalidez cumulada com reparatória por danos morais. Laudo pericial a informar incapacidade "laborativa". Resultado, na origem, de procedência. Insurgência da seguradora. Cobertura contratual limitada a invalidez funcional permanente "total" por doença. Recusa da seguradora, embasada em ausência de cobertura, guardada por regularidade. Exegese do artigo 757, "caput", do Código Civil. Incapacidade laborativa que não se confunde com invalidez funcional "total" por doença. Concessão de beneficio previdenciário a não alicerçar, por si, recebimento de indenização securitária. Suplicante que não se desincumbiu do ônus de demonstrar o fato constitutivo do direito - artigo 373, inciso I, do Código de Processo Civil. Sentença reformada. Agravo retido desprovido, com provimento do recurso de apelação, invertidos os ônus sucumbenciais.
+Nas razões do recurso especial (e-STJ fls. 23/40), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou ofensa aos arts. 46, 47 e 51, IV, da Lei n. 8.078/1990 e 186 e 927 do CC/2002. Sustentou, em síntese, que as cláusulas do contrato não foram redigidas de forma clara, de modo que deverão ser interpretadas de maneira mais favorável ao consumidor.
+Defendeu que "a expressão "INCAPACIDADE FUNCIONAL PERMANENTE" constante da proposta traz a ideia de incapacidade laborativa, logo deve ser interpretada de forma mais favorável ao consumidor, sendo a este concedido o seguro que acreditou ter contratado" (e-STJ fl. 34).
+Aduziu ainda a ocorrência de dano moral.
+A insurgência não merece prosperar.
+A respeito dos artigos 186 e 927 do CC/2002, observa-se a ausência de apreciação do tema pelo Tribunal de origem, tampouco sendo opostos embargos de declaração para sanar eventual omissão.
+Incidem, portanto, as Súmulas n. 282 e 356 do STF.
+Ao analisar a questão referente à cobertura securitária, o Juízo a quo assim se manifestou (e-STJ fls. 8/9):
+A autora, aposentada por invalidez (f1.76), afirma estar incapacitada para a realização de qualquer atividade laborativa, contando, por isso, direito à indenizatória prevista na apólice  invalidez permanente total por doença; formulado pedido administrativo, e segundo alega a ausência de resposta pela seguradora, a manifestar-se sobre o laudo pericial (folhas 275/280), defende não caracterizado o pressuposto essencial de cobertura, ou seja, invalidez funcional permanente "total" por doença (IPD), e isso porque preservado o exercício das relações autonômicas da segurada (fls.283/284).
+E a prova coligida robora a apontada conclusão; informa, com efeito, que, conquanto incapacitada para o exercício de atividades laborativas, preservada, ao momento do exame pericial, a existência independente.
+Trata-se, portanto, de risco despido de cobertura, prevista apenas para o caso de invalidez funcional permanente "total" por doença (fl.44), hipótese que, consoante conclusão pericial (fls.275/280), não encampa a experimentada pela autora - incapacidade "laboral".
+Não há confundir-se, importa frisar, invalidez funcional com incapacidade laborativa, cuja distinção não se afigura abusiva e vem expressamente permitida, ao lado de esclarecida, na Circular Susep nº 302/2005, seções IV e V; confira-se:
+Art. 15. Garante o pagamento de indenização em caso de invalidez laborativa permanente total, consequente de doença.
+§1º Para todos os efeitos desta norma é considerada invalidez laborativa permanente total por doença aquela para a qual não se pode esperar recuperação ou reabilitação, com os recursos terapêuticos disponíveis no momento de sua constatação, para a atividade laborativa principal do segurado. g. m.
+Art. 17. Garante o pagamento de indenização em caso de invalidez funcional permanente total, consequente de doença, que cause a perda da existência independente do segurado.
+§1º Para todos os efeitos desta norma é considerada perda da existência independente do segurado a ocorrência de quadro clínico incapacitante que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado, comprovado na forma definida nas condições gerais e/ou especiais do seguro. g. m.
+E em não havendo demonstração de invalidez funcional permanente "total" por doença, não vinga a pretensão indenizatória; invalidez existe, mas em modalidade alijada de cobertura - laborativa.
+O acórdão recorrido, levando em consideração as cláusulas da apólice de seguro e o laudo pericial, concluiu que a invalidez que acomete a recorrente não estaria abrangida pelo contrato. Dissentir dessa conclusão é inviável em recurso especial em razão das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para RECONSIDERAR a decisão da Presidência desta Corte de fls. 155/157 (e-STJ) e NEGAR PROVIMENTO ao agravo nos próprios autos.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+É como voto.
