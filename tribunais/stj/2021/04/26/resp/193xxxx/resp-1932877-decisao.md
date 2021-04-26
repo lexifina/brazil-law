@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo que deu parcial provimento ao apelo defensivo para absolver o recorrente da prática do crime do art. 311 do Código Penal, mantendo sua condenação à pena de 1 (um)ano e 2 (dois) meses de reclusão, pelo cometimento do crime do art. 180 do CP.
+A defesa aponta a violação dos art. 33 e 59 doCódigo Penal, alegando, em síntese, que o recorrente preenche os requisitos para o cumprimento da pena em regime semiaberto, tendo em conta sua primariedade,o quantum da reprimenda, 1 (um) ano e 2 (dois) meses de reclusão, e a ausência de violência na conduta.
+As contrarrazões foram apresentadas às e-STJ fls. 358/361.
+Admitido o recurso, os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo provimento do recurso às e-STJ fls. 394/397.
+É o relatório. Decido.
+O recurso merece prosperar.
+Os elementos existentes nos autos noticiam que o Tribunal de Justiça de São Paulo deu parcial provimento ao apelo defensivo para absolver o recorrente da prática do crime do art. 311 do Código Penal, mantendo sua condenação à pena de 1 (um) ano e 2 (dois) meses de reclusão, em regime fechado, pelo cometimento do crime do art. 180 do CP.
+A defesa alega que o recorrente preenche os requisitos para o cumprimento da pena em regime semiaberto, tendo em conta sua primariedade, o quantum da reprimenda, 1 (um) ano e 2 (dois)meses de reclusão, e a ausência de violência na conduta.
+De fato, esta Corte já decidiu que, para a imposição de regime prisional mais gravoso do que a pena comporta, é necessário fundamentação específica, com base em elementos concretos extraídos dos autos. Inteligência das Súmulas440/STJ e 718 e 719 do STF.
+In casu, constata-se que a pena-base foi fixada no mínimo legal (e-STJ fl. 279)elevando-se em conta o quantum da pena e a reincidência do recorrente, o regime semiaberto revela-se o adequado àespécie. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. RECEPTAÇÃO.DOSIMETRIA. PENA-BASE. MÍNIMO LEGAL. PENA INFERIOR A 4 (QUATRO) ANOS. REINCIDÊNCIA. REGIME ABERTO. FIXAÇÃO. INVIABILIDADE. SÚMULA269 DO STJ. DESRESPEITO. SÚMULA440 DO STJ E SÚMULAS718 E 719 DO STF. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em se tratando de condenado reincidente, ainda que a pena final seja inferior a 4 (quatro) anos e não haja circunstâncias judiciais desfavoráveis, é vedada a fixação do regime aberto, por imperativo legal constante do art. 33, § 2.º, alínea "c",do Código Penal, sendo o regime prisional semiaberto o mais brando legalmente admitido. Por essa razão, é desnecessária fundamentação específica para a imposição do regime intermediário, sem que isso caracterize desrespeito à Súmula 440 do Superior Tribunal de Justiça e às Súmulas718 e 719 do Supremo Tribunal Federal, cuja aplicação diz respeito a situações em que legalmente seja possível a imposição de regime mais brando, o que não é o caso dos autos.
+2. Agravo regimental desprovido.(AgRg no AREsp 1776666/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 11/3/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO E CORRUPÇÃO DE MENORES. REGIME INICIAL SEMIABERTO. REINCIDÊNCIA. MODO MAIS GRAVOSO JUSTIFICADO. DETRAÇÃO. ANÁLISE DESPICIENDA. PENA NÃO SUPERIOR A 4 ANOS. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A reincidência do réu condenado à pena não superior a 4 anos autoriza a imposição do regime inicial mais gravoso, o semiaberto, apenas sefavoráveis as circunstâncias judiciais. Inteligência da Súmula 269/STJ.
+2. Embora o tempo de prisão cautelar possa ser computado para a definição do regime inicial, não há reflexo da detração no regime prisional intermediário fixado com fundamento na reincidência do réu, uma vez já estabelecida apena final em patamar não superior a 4 anos.
+3. Agravo regimental improvido.(AgRg no AREsp 1636857/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 29/6/2020)
+Ante o exposto, com fulcro no art. 932, V, "a", do CPC, c/c art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar o regime semiaberto para o cumprimento da reprimenda corporal.
+Intimem-se.
