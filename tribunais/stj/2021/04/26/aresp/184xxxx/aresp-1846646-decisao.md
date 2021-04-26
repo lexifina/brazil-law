@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por LIQUIGAS DISTRIBUIDORA S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR PERDAS E DANOS C/C DANOS MORAIS E MATERIAIS. VAZAMENTO DE GÁS E EXPLOSÃO DE BOTIJÃO APÓS A TROCA EM COZINHA RESIDENCIAL. LAUDO PERICIAL QUE ATESTA DEFEITO NA VÁLVULA DO BOTIJÃO. PARTE RÉ QUE NÃO COMPROVOU QUALQUER EXCLUDENTE DA RESPONSABILIDADE. INDENIZAÇÃO DEVIDA. DANOS MATERIAIS. AQUISIÇÃO DE ELETRODOMÉSTICOS E MATERIAIS PARA RECONSTRUÇÃO DA COZINHA. VALORES DESCONSIDERADOS NA SENTENÇA, MAS QUE GUARDAM PERTINÊNCIA COM OS DANOS EXPERIMENTADOS. INCLUSÃO NO CÁLCULO DA INDENIZAÇÃO, COM EXCEÇÃO DE PAR DE TÊNIS E MOUSE, PRESENTES EM DUAS DAS NOTAS FISCAIS. DANOS MORAIS. ABALO PSICOLÓGICO E RISCO DE MORTE. MANUTENÇÃO DO QUANTUM INDENIZATÓRIO (R$ 20.000,00 - VINTE MIL REAIS). PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE ATENDIDOS.
+SENTENÇA REFORMADA EM PARTE.
+MAJORAÇÃO DA VERBA HONORÁRIA EM GRAU RECURSAL.
+APELAÇÃO-1 DESPROVIDA.
+APELAÇÃO-2 PARCIALMENTE PROVIDA. (fl. 534).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 927 do CC; 373, I, do CPC e 12, § 3º, do CDC, no que concerne a não comprovação pela recorrida do fato constitutivo do seu direito, de modo que o recorrente não pode ser condenado pelo pagamento dos danos materiais e morais por ela suportados, trazendo os seguintes argumentos:
+Irresigna-se a Recorrente com o v. Acórdão que entendeu pela mantença da LIQUIGÁS como responsável pelos pretensos danos causados à Recorrida.
+Verifica-se, in casu, a ofensa direta ao artigo 927 do Código Civil Brasileiro, bem como, ao inc. I do art. 373 do CPC e, ainda, art. 12, § 3º do Código de Defesa do Consumidor, dispositivos que foram prequestionados desde o Douto Juízo de origem.
+Em que pese o entendimento da Colenda 9ª Câmara Cível do Tribunal de Justiça do Paraná, a Recorrente se desincumbiu do ônus da prova quanto a existência de fato impeditivo, modificativo ou extintivo do direito do autor, consoante preceituado no artigo 373 do CPC.
+ ..
+O C. Tribunal a quo, ao manter a sentença proferida pelo Mm. Juízo Singular incorreu em estampada violação ao artigo 373 do Código de Processo Civil, considerando que julgou em dissonância com a legislação aplicável, visto que a Recorrida não comprovou o fato constitutivo de seu direito, ou seja, os alegados danos sofridos.
+Impende ressaltar que no v. acórdão ora recorrido houve o reconhecimento de que o botijão de gás se tratava de produto defeituoso, entendendo se tratar de responsabilidade objetiva da Recorrente (fornecedora do produto).
+Data máxima vênia, equivocado tal entendimento.
+A Colenda Câmara Cível atribuiu a responsabilidade à Recorrente pelo incêndio ocorrido na residência da Recorrida afirmando "ser irrevelante no presente caso, tentar determinar qual a causa do incêndio.." afronta diretamente o art. 927 do Código Civil, que prevê:
+ ..
+Assim, o Instituto de Criminalistica constatou que a válvula existente no botijão permitia o vazamento de gás, porém, não é conclusivo no que se refere à causa do incêndio.
+Conclui-se, portanto, que o botijão de gás em apreço encontrava-se em mau uso pela Recorrida, podendo a causa do incêndio ser diversa do vazamento de gás, conforme informação do Laudo do Instituto de Criminalistica.
+ ..
+Por todos esses motivos, não há como imputar à Recorrente a produção dos danos suportados pela Recorrida, pois o sinistro não decorre de defeito no botijão de gás e sim da sua incorreta utilização do produto, alheio às recomendações de segurança.
+Percebe-se, portanto, que se algum dano foi verificado, tal somente ocorreu em virtude de desídia da Recorrida em não observar os necessários cuidados para armazenamento do botijão, não o alocando em local ventilado, como exige as normas de segurança.
+ ..
+Ademais, há ofensa ao § 3º do art. 12 do Código de Defesa do Consumidor, uma vez que ausente prova de se tratar de produto defeituoso, como também, pela culpa exclusiva da Recorrida pelo mau uso do botijão de gás ao não observar as cautelas necessárias ao seu manuseio.
+Portanto, não havendo comportamento ilícito por parte da Recorrente e culpa, prejudicada fica, inclusive, a relação de causalidade por absoluta falta de causa e feito, despropositada e descabida a compensação material e moral mantida pelo E. Tribunal a quo. (fls. 574-577).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Logo, constatada a falha da válvula do botijão, resta claro que a Ré colocou um produto defeituoso no mercado, sendo irrelevante, no presente caso, tentar determinar qual a causa do incêndio, pois é de conhecimento comum que cozinhas possuem diversos equipamentos elétricos e fontes de calor passíveis de desencadear um incêndio se houver vazamento de gás no local.
+Ademais, caso quisesse imputar a responsabilidade pelo ocorrido à Autora, a Ré deveria ter produzido prova da culpa exclusiva dela, o que não fez, limitando-se a alegar que a Consumidora não teria seguido as recomendações de segurança. Ora, se não há prova de qual a causa do incêndio, a dúvida milita a favor da Consumidora, não sendo crível que ela deliberadamente tenha colocado sua própria vida em risco ao constatar um possível vazamento de gás.
+Assim a parte Ré não se desincumbiu do encargo de provar o fato impeditivo do direito da Autora (artigo 373, inciso II, do Código de Processo Civil), restando caracterizado o dano (destruição de bens da Autora e o perigo ao qual ela foi exposta) e o nexo causal (produto defeituoso colocado no mercado pela Ré), havendo responsabilidade objetiva da Fornecedora, pelo que fica obrigada a reparar os prejuízos, em conformidade com a norma do artigo 927 do Código Civil. (fls. 538-539).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
