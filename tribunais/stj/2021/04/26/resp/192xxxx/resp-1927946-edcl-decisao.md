@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo BANCO DO BRASIL, contra decisão de minha lavra, publicada em 05/04/2021, que conheceu em parte do Recurso Especial e, nessa extensão, negou-lhe provimento.
+Inconformada, sustenta a parte embargante omissão acerca da decisão no SIRDR 71/TO, por meio da qual, em 18/03/2021, "o Ministro Paulo de Tarso Sanseverino suspendeu, no âmbito nacional, a tramitação das ações individuais e coletivas em que se discute se o Banco do Brasil possui, ou não, legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques" (fl. 909e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Sem impugnação (fl. 942e).
+A irresignação não comporta acolhimento.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Com efeito, na mencionada decisão, proferida no SIRDR 71/TO, o Min. Paulo de Tarso Sanseverino determinou, acerca da controvérsia em discussão nos presentes autos, que:
+"A fim de orientar a atividade jurisdicional de suspensão de processos, estabeleço o seguinte:
+1. Deverá ser suspensa a tramitação de todos os processos individuais ou coletivos em curso no território nacional, inclusive nos juizados especiais que discutam esta questão jurídica:
+- O Banco do Brasil possui, ou não, legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa.
+- A pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil ou ao prazo quinquenal estipulado pelo artigo 1º do Decreto nº 20.910/32.
+- O termo inicial para a contagem do prazo prescricional é o dia em que o titular toma ciência dos desfalques ou a data do último depósito efetuado na conta individual vinculada ao PASEP.
+2. A ordem de suspensão, salvo decisão expressa em contrário do STJ ou do STF, vigorará até o trânsito em julgado da decisão de qualquer dos IRDRs n. 0720138-77.2020.8.07.0000/TJDFT, 0010218-16.2020.8.27.2700/TJTO, 0812604-05.2019.8.15.0000/TJPB ou 0756585-58.2020.8.18.0000/TJPI, sendo que o trânsito em julgado poderá ocorrer no STJ ou no STF a depender da interposição de recursos a essas Cortes (RISTJ, art. 271-A, § 3º).
+3. A ordem de suspensão não impede:
+a. o ajuizamento de novas ações, as quais deverão seguir a marcha processual até a fase de conclusão para a sentença, ocasião em que ficará suspensa;
+b. a apreciação de tutela de urgência, devendo as decisões concessivas da medida serem devidamente justificadas, em especial quanto ao perigo concreto ao STJ.
+4. Comunique-se, com cópia da presente decisão, aos presidentes, vice-presidentes e presidentes das comissões gestoras de precedentes dos tribunais de justiça e tribunais regionais federais, solicitando-lhes que seja dada ampla divulgação da ordem de suspensão de processos no âmbito do tribunal, primeira instância e juizados especiais" (SIRDR 71/TO, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe de 18/03/2021).
+Todavia, referida determinação não alcança os processos que tramitam perante o Superior Tribunal de Justiça, o que somente ocorre após o julgamento da Proposta de Afetação de Tese Repetitiva perante às Seções. Nesse sentido, veja-se a deliberação monocrática no REsp 1.922.393/TO, Min Regina Helena Costa, DJe de 27/04/2021.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
+Brasília, 26 de abril de 2021.
+Ministra ASSUSETE MAGALHÃES
+Relatora
