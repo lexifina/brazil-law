@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1.Verifica-se, no caso, que as instâncias ordinárias lograram fundamentar o indeferimento do benefício do livramento condicional, considerando, sobretudo, a ausência de mérito do apenado a partir do seu histórico prisional conturbado. Destacou-se,acertadamente, a situação específica da sentenciada, que possui atestado de mal comportamento carcerário, além do fato demonstrar desprezo pelos fatos relativos à vida carcerária, na medida em que não demonstrou que conseguiu desenvolver senso de responsabilidade para sua autocontenção e para frear os seus instintos primitivos para suportar as regras da vida com vigilância mais branda.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROGER SOUZADE MIRANDA contra decisão monocrática de fls. 96/99, de minha relatoria, em que indeferi liminarmente o habeas corpus.
+No presente recurso, pontua a defesa que a fundamentação da decisão denegatória do livramento condicional se revela inidônea, porquanto absolutamente alienada ao histórico carcerário atual do cativo e sem qualquer amparo legal.
+Requer a reconsideração da decisão agravada a fim de se conceder a ordem.
+É o relatório.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+De início, impende atentar que "o Regimento Interno deste Superior Tribunal de Justiça autoriza o relator a decidir o recurso quando o pedido for manifestamente prejudicado ou improcedente, como ocorre no caso concreto, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade" (AgRg no HC 535845/SP, QUINTA TURMA, relator Ministro JORGE MUSSI, DJe 23/10/2019).
+Conforme outrora consignado, esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de livramento condicionalpelo inadimplemento do requisito subjetivo.
+Nessas circunstâncias, verifica-se que as instâncias ordinárias lograram fundamentar o indeferimento do benefício, considerando, sobretudo, a ausência de mérito daapenadaa partir do seu histórico prisional conturbado. Destacou-se, acertadamente, a situação específica da sentenciada, quepossuiatestado de mal comportamento carcerário, além do fato demonstrar desprezo pelos fatos relativos à vida carcerária, na medida emque não demonstrou que conseguiudesenvolver senso de responsabilidade para sua autocontenção e para frear os seus instintos primitivos para suportar as regras da vida com vigilância mais branda.
+Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+Ilustrativamente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ E SÚMULA VINCULANTE 26/STF. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. HISTÓRICO PRISIONAL. HISTÓRICO CONTURBADO. FALTAS DISCIPLINARES. FUGA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+VI - A modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo para a progressão de regime, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do writ. Habeas corpus não conhecido.
+(HC 436.977/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 1º/6/2018).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1.Verifica-se, no caso, que as instâncias ordinárias lograram fundamentar o indeferimento do benefício do livramento condicional, considerando, sobretudo, a ausência de mérito do apenado a partir do seu histórico prisional conturbado. Destacou-se,acertadamente, a situação específica da sentenciada, que possui atestado de mal comportamento carcerário, além do fato demonstrar desprezo pelos fatos relativos à vida carcerária, na medida em que não demonstrou que conseguiu desenvolver senso de responsabilidade para sua autocontenção e para frear os seus instintos primitivos para suportar as regras da vida com vigilância mais branda.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
