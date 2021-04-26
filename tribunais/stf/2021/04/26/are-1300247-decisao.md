@@ -1,0 +1,11 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. CONTROVÉRSIA QUANTO À CONSTITUCIONALIDADE DA INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 69. RE 574.706. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO NO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL).
+    Despacho: A Presidência desta Suprema Corte determinou a devolução do feito ao Tribunal de origem para aplicação do Tema 1.098 da Repercussão Geral (Doc. 18).
+    A Vice-Presidência do Tribunal de origem entendeu que “houve equívoco na devolução dos autos”, porquanto não existiria identidade entre as matérias tratadas no presente processo e a tese firmada no julgamento do RE 1.258.842, Tema 1.098 da Repercussão Geral, motivo pelo qual o processo foi reencaminhado a esta Corte (Doc. 21, p. 7-9).
+    É o relatório.
+    In casu, a matéria versada no recurso extraordinário foi submetida por esta Suprema Corte ao regime da repercussão geral (Tema 69, RE 574.706, Rel. Min. Cármen Lúcia) e há embargos de declaração pendentes de julgamento pelo Plenário, nos quais se suscita, dentre outros pontos, a modulação dos efeitos do acórdão de mérito. É certo, também, que há várias decisões, inclusive da própria relatora do “leading case” da repercussão geral, determinando o sobrestamento de recursos extraordinários que tratam do mencionado tema até o julgamento dos referidos embargos declaratórios (RE 1.238.731, Rel. Min. Cármen Lúcia, DJe de 24/10/2019; RE 1.233.440, Rel. Min. Celso de Mello, DJe de 17/10/2019; RE 1.238.092, Rel. Min. Roberto Barroso, DJe de 28/10/2019; e RE 1.240.949, Rel. Min. Ricardo Lewandowski, DJe de 28/10/2019), razão pela qual faz-se necessário o sobrestamento deste feito até a conclusão do julgamento dos embargos de declaração opostos no RE 574.706.
+    Ex positis, com fundamento no artigo 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem.
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
