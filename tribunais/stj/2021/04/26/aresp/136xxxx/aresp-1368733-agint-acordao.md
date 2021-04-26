@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. ASSEMBLEIA DE ACIONISTAS. NULIDADE. AUSÊNCIA DE DOCUMENTOS INDISPENSÁVEIS. DOCUMENTOS COLOCADOS À DISPOSIÇÃO DA ACIONISTA. REEXAME. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegação de omissão (artigos 535 do CPC/73 e 1.022 do CPC/15).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. "Não é cabível a majoração dos honorários recursais, por ocasião do julgamento do agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recurso interposto na mesma instância" (AgInt no AREsp 1374512/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/4/2019, DJe 6/5/2019).
+4. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Ministro Felix Fischer, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, DJe 7/3/2019).
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Daniela Amaral em face de decisão que negou provimento a agravo em recurso especial.
+Alega que o acórdão estadual é omisso, porquanto não observou que os documentos postos à sua disposição para fins do exercício do direito de fiscalização dos acionistas vinham de forma sintética, não permitindo o exame de eventuais vícios nas demonstrações financeiras da agravada (e-STJ, fl. 1.275).
+Afirma que não se trata de reexame, mas de simples revaloração da prova produzida no processo (e-STJ, fl. 1.283) e que é inequívoco o prejuízo suportado pela agravante (e-STJ, fl. 1.286).
+Defende, por fim, que foi indevida a majoração dos honorários advocatícios, na medida em que "na decisão objeto de Agravo em Recurso Especial, não houve fixação de honorários de sucumbência, o que, por si só, impossibilita majoração" (e-STJ, fl. 1.287) e que "no histórico de decisões/Acórdãos, no caso em tela, também isso não ocorreu, não preenchendo o requisito necessário para ocorrer qualquer "majoração" de honorários advocatícios" (e-STJ, fl. 1.288).
+Pede o provimento do recurso.
+Impugnação da recorrida alegando que ocorreu a preclusão quanto à incidência do enunciado n. 7 da Súmula desta Casa, porquanto a questão já foi decidida nos autos do REsp 1.141.336/PR; que o acórdão estadual não contém omissões; que o reexame da causa, de qualquer modo, esbarra no reexame de provas; e que foi correta a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. ASSEMBLEIA DE ACIONISTAS. NULIDADE. AUSÊNCIA DE DOCUMENTOS INDISPENSÁVEIS. DOCUMENTOS COLOCADOS À DISPOSIÇÃO DA ACIONISTA. REEXAME. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegação de omissão (artigos 535 do CPC/73 e 1.022 do CPC/15).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. "Não é cabível a majoração dos honorários recursais, por ocasião do julgamento do agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recurso interposto na mesma instância" (AgInt no AREsp 1374512/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/4/2019, DJe 6/5/2019).
+4. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EAREsp 762.075/MT, Rel. Ministro Felix Fischer, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, DJe 7/3/2019).
+5. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+EMBARGOS INFRINGENTES - AÇÃO ORDINÁRIA ANULATÓRIA JULGADA IMPROCEDENTE SENTENÇA REFORMADA POR MAIORIA - LEI DAS SOCIEDADES ANÔNIMAS - DOCUMENTOS ELENCADOS NO ART. 133 DA MENCIONADA LEI E REQUERIDOS PELA ACIONISTA E NÃO ENVIADOS PELA EMPRESA - COMUNICAÇÃO COM ANTECEDÊNCIA DA DISPONIBILIDADE DOS MESMOS NA SEDE DA COMPANHIA - DIREITO DE FISCALIZAÇÃO PRESERVADO - PREJUÍZOS NÃO DEMONSTRADOS - EMBARGOS ACOLHIDOS.
+Embora a Embargada tenha solicitado que a empresa lhe enviasse a documentação legal à realização da Assembléia, restou cabalmente demonstrado que em nenhum momento o seu direito fiscalizado,- de acionista foi cerceado, porque os documentos estavam à sua disposição, em tempo hábil, na sede da empresa, em Arapongas - PR, cujo endereço não desconhecia, eis que lá prestava serviços na qualidade de Diretora - Técnica, bem como, possuía residência em Município vizinho (Apucarana/PR).
+RECURSO PROVIDO.
+Alego, na ocasião, violação dos artigos 535 do revogado Código de Processo Civil e 109, III, § 3º, 124, § 2º, 133 e 286 da Lei 6.406/76, sob o argumento de que o acórdão estadual é omisso e que é nula a assembleia geral ordinária realizada pela agravada porque não teria enviado à recorrente os documentos indispensáveis à análise das contas a serem prestadas.
+Não é omisso nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao mais, prevaleceu o voto minoritário no julgamento dos embargos infringentes, sob o fundamento de "que a questão, objeto da infringência, está centrada no aspecto de que a irregularidade quanto a falta da remessa dos documentos previstos no art. 133, § 2º da Lei nº 6.404/76 (Lei das Sociedades Anônimas), requerida pela acionista, não tem o condão de anular a Assembleia, já que os mesmos estavam a sua disposição na sede da empresa e, para tanto, foi cientificada com antecedência legal" (e-STJ, fl. 621), de modo "que não foi violado o direito de fiscalização reclamado pela Embargada" (e-STJ, fl. 622).
+Ora, se a parte teve devidamente disponibilizados os documentos e não diligenciou para que obtivesse uma cópia, reexaminar a questão esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Ressalte-se que a alegação de que os documentos postos à sua disposição eram demasiadamente sintéticos para o exame de eventuais vícios nas finanças da ré sequer foi suscitada nos embargos de declaração, carecendo, pois, do indispensável prequestionamento, a atrair os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal e 211 desta Casa.
+A pretendida revaloração da prova, não fosse isso, depende de equívoco na aplicação de norma pertinente ao direito probatório, não se conformando com a pretensão de se extrair novas conclusões acerca dos elementos informativos do processo.
+Para exame:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. INCAPACIDADE LABORATIVA NÃO COMPROVADA. TRATAMENTO MÉDICO-PSIQUIÁTRICO. AUSÊNCIA DE RELAÇÃO COM O ACIDENTE. CONCLUSÃO DO TRIBUNAL DE ORIGEM. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, examinando as circunstâncias da causa, concluiu que não houve comprovação de incapacidade laborativa, de modo a ensejar fixação de pensão mensal em favor da recorrente, tampouco que as despesas futuras reclamadas, relativas a tratamento indicado por médico psiquiatra, tenham relação com o acidente. Rever as premissas fáticas que ensejaram tal entendimento encontra óbice na Súmula 7/STJ.
+2. "A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/05/2017, DJe de 09/05/2017).
+3. A correção monetária das importâncias fixadas a título de danos morais e estéticos incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 720.814/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe 13/12/2019)
+Acrescente-se que não se declara nulidade de ato jurídico sem prejuízo, o que não ficou demonstrado nas instâncias ordinárias.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. AÇÃO ANULATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. ALEGAÇÃO DE NULIDADE DA ASSEMBLEIA. AUSÊNCIA DE PREJUÍZO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelas instâncias ordinárias, que emitiram pronunciamento de forma clara e fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O acolhimento de pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1131479/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/2/2018, DJe 27/2/2018)
+Diga-se, por fim, que alegação de que não houve condenação anterior em sucumbência beira à má-fé.
+A uma, porque consabido, nos termos de remansosa jurisprudência desta Casa, que a majoração da verba de sucumbência depende da modificação de instância, razão pela qual acertado o juízo negativo de admissibilidade ao não elevar os honorários; e, a duas, porque houve expressa condenação em tal verba na sentença (e-STJ, fl. 354).
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
