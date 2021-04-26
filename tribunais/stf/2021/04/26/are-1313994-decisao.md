@@ -1,0 +1,11 @@
+DECISÃO:
+    1.  Trata-se de agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Mandado de segurança. Funcionária pública estadual ativa. Cumulação de vencimentos e pensão por morte. Pretensão de que não seja aplicado o teto constitucional à somatória de referidos valores. Admissibilidade. Benefícios distintos que devem ser considerados separadamente. Aplicação isolada do teto. Vedação de enriquecimento ilícito da Administração. Exigência da igualdade constitucional. Sentença de procedência mantida, com determinação para que os efeitos da impetração observem o esgotamento das instâncias recursais constitucionais. Adequação das taxas de correção monetária e de juros de mora a serem aplicadas. RECURSO DA FESP e REMESSA NECESSÁRIA PARCIALMENTE PROVIDOS. Submissão dos efeitos da sentença ao trânsito em julgado. Correção da medida. RECURSO ADESIVO IMPROVIDO.”
+    2.  O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XI, da CF.
+    3.  O recurso deve ser provido. O Supremo Tribunal Federal (STF), nos autos do RE 602.584-RG, Rel. Min. Marco Aurélio, reconheceu a existência de repercussão geral da controvérsia, no Tema 359, ocasião em que se fixou a tese de que, “ocorrida a morte do instituidor da pensão em momento posterior ao da Emenda Constitucional nº 19/1998, o teto constitucional previsto no inciso XI do artigo 37 da Constituição Federal incide sobre o somatório de remuneração ou provento e pensão percebida por servidor.”
+    4.  No caso presente, o Tribunal de origem dissentiu do mencionado entendimento do STF, tendo em vista que, como o falecimento do instituidor da pensão ocorrera em 26.03.2013 (após a EC 19/98), o teto constitucional do art. 37, XI, da CF deveria incidir sobre a soma da remuneração da impetrante com o valor da pensão recebida.
+    5.  Diante do exposto, com base no art. 932, V, c/c art. 1.042, § 5º, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou provimento ao recurso, para denegar a segurança pleiteada.
+    Publique-se.
+          Brasília, 26 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
