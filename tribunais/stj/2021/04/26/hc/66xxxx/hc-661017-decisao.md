@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRE HENRIQUE SANTANA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 150092-75.2020.8.26.0559.
+Consta nos autos que o Paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, além do pagamento de 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33 da Lei n.11.343/2006, pois foi surpreendido enquanto transportava 1.483,35g de cocaína.
+Irresignado, o Sentenciado recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 51-60).
+Neste writ, a Parte Impetrante aduz a incidência da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n.11.343/2006,pois estariam presentes os requisitos legais.
+Alega, ainda, que é possível a fixação de regime prisional mais brando para o início do cumprimento da pena.
+Pleiteia, liminarmente e no mérito, a revisão da dosimetria da pena e o abrandamento do regime prisional.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator afaculdade de decidir liminarmente, em sede dehabeas corpuse de recurso emhabeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020, sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Juízo de origem - referendado pela Corte estadual-obstou a aplicação da minorante do tráfico privilegiado com amparo nos seguintes fundamentos (fl. 40):
+" c onsiderando as circunstâncias do caso concreto, a denúncia que deu azo à apreensão, a forma de transporte, com as drogas fracionadas em dois veículo, o que demonstra organização e intenção de não "perder" toda a mercadoria em caso de possível abordagem policial em um só dos veículos, a quantidade (quase 1,5kg) e a natureza (cocaína - que é sabidamente uma das drogas mais caras e demonstra igualmente organização e planejamento para compra/venda nessa quantidade), está evidenciada a dedicação a atividades criminosas, de modo a afastar a aplicação do disposto no §4º do art. 33 da Lei n. 11.343/2006."
+Com efeito, oentendimento adotado pelo Juízo de origem está em consonância com a jurisprudência desta Corte Superior, fixada no sentido de que a elevada quantidade de drogas apreendidas, aliada às circunstâncias fáticas do delito, como ocorre no caso em apreço,permite aferir o grau de envolvimento do Réucom a criminalidade organizada e/ou a sua dedicação às atividades delituosas e, por consequência, obstar o reconhecimento do tráfico privilegiado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE.DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos, em especial a quantidade e a diversidade de drogas apreendidas, a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como ser reconhecida, em favor do recorrente, a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+2. O Tribunal de origem, ao dar cumprimento ao que decidido pelo STJ nos autos do AREsp n. 1.664.407, não incorreu na inadmissível reformatio in pejus. Isso porque a situação do ora agravante não foi, direta ou indiretamente agravada, pois, ao realizar a nova dosimetria da pena, o Tribunal manteve não apenas o afastamento do redutor (que já havia sido negado desde o primeiro julgado), como também o mesmo quantum da reprimenda inicialmente a ele imposta (5 anos de reclusão e 500 dias-multa).
+3. Agravo regimental não provido."(AgRg no REsp 1.895.707/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020;sem grifos no original.)
+De outra parte,nos termos da jurisprudência desta Corte Superior, a elevada quantidade de drogas apreendidas autoriza a fixação de regime prisional inicial mais rigoroso do que aquele que seria decorrente da quantidade de pena imposta.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME FECHADO COM ESTEIO EM FUNDAMENTO CONCRETO. QUANTIDADE DE DROGA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Na espécie, apesar de a pena-base ter sido estabelecida nomínimo legal, o regime mais severo foi devidamente fundamentado no montante de droga apreendida - 1,435kg (um quilo, quatrocentos e trinta e cinco gramas) de cocaína e 1,860kg (um quilo, oitocentos e sessenta gramas) de haxixe. Precedentes.
+4. Agravo regimental desprovido."(AgRg no HC 622.355/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 18/02/2021, sem grifos no original).
+Ante o exposto, DENEGOa ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. MINORANTE DO § 4.º DO ART. 33 DA LEI N.11.343/2006. QUANTIDADE EXPRESSIVA DE DROGAS, ALIADA A OUTRAS CIRCUNSTÂNCIAS FÁTICAS. DEDICAÇÃO À ATIVIDADE DELITUOSA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA.ORDEM DENEGADA.
