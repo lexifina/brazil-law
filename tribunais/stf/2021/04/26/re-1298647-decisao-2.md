@@ -1,0 +1,18 @@
+D E C I S Ã O
+    Trata-se de pedido formulado pela Procuradoria-Geral da República (Petição nº 8.634/2021) para que seja realizada audiência pública sobre o Tema 1118 da sistemática da Repercussão Geral (ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246).”
+    O Ministério Público Federal argumenta, em síntese, que:
+    “Trata-se de temática que, a um só tempo, conduz à reflexão sobre os parâmetros de compliance trabalhista que necessita ter a Administração Pública em seus contratos, bem como ao debate relacionado às diligências que os juízos precisam empreender para que reste configurada ou afastada uma obrigação de responsabilização subsidiária.
+    Nesta perspectiva, reputa-se oportuno e útil que, nos termos dos arts. 21-XVII e 154-III, do RISTF, seja promovida audiência pública para debate e instrução do Tema em questão que, além de refletir preocupações sobre a efetividade do direito ao trabalho, diz com a probidade da Administração e com possíveis riscos de fraude e corrupção por meio de contratos de terceirização, com lesão ao Poder Público e aos trabalhadores.”
+    É o relatório. Decido.
+    Audiência pública é uma reunião pública, transparente e de ampla discussão em que ocorre a troca de informações entres os vários setores da sociedade e o poder público com vistas a obter informações técnicas, políticas, econômicas e jurídicas acerca da questão debatida, de modo a subsidiar a Corte com o conhecimento especializado necessário para o deslinde da causa.
+    Segundo Evanna Soares “A audiência pública é uma das formas de participação e de controle popular da Administração Pública no Estado Social e Democrático de Direito. Ela propicia ao particular a troca de informações com o administrador, bem assim o exercício da cidadania e o respeito ao princípio do devido processo legal em sentido substantivo. Seus principais traços são a oralidade e o debate efetivo sobre matéria relevante, comportando sua realização sempre que estiverem em jogo direitos coletivos.”.
+    O Regimento Interno do Supremo Tribunal Federal disciplina as audiências públicas no âmbito da Suprema Corte em seus artigos 21, XXVII, 154 e 155.
+    Ademais, nos termos do art. 1.038, II, do CPC o relator poderá “ fixar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e conhecimento na matéria, com a finalidade de instruir o procedimento; ”.
+    Vê-se que a audiência pública não tem caráter compulsório, visto que sua realização fica a critério do relator.
+    Embora o tema em análise seja de alta relevância e de grande litigiosidade no âmbito da Justiça do Trabalho, trata-se de discussão preponderantemente jurídica, sem necessidade de maiores conhecimentos extrajudiciais.
+    Além disso, foi deferido o ingresso de diversos entes e entidades como “amicus curiae”, o que permitirá trazer ao processo, através tanto de memoriais como de sustentações orais, a necessária contribuição da sociedade para o bom deslinde da causa.
+    Ante o exposto, indefiro o pedido de realização de audiência pública sobre o Tema 1118 da sistemática da Repercussão Geral (ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246).” e remeto os autos à Procuradoria-Geral da República, para parecer, na forma do art. 1.038, III, do CPC.
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
