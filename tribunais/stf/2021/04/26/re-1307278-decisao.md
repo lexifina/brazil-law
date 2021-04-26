@@ -1,0 +1,33 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto pela União, em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PORTADOR DE DOENÇA GRAVE, CONTAGIOSA OU INCURÁVEL. PARALISIA IRREPARÁVEL E INCAPACITANTE. APOSENTADORIA POR INVALIDEZ. PROVENTOS INTEGRAIS. EC Nº. 41/2003. ART. 40, §1º, I, CF/88. CÁLCULO DOS PROVENTOS. LEI Nº. 10.887/04. INAPLICABILIDADE. CONTRADIÇÃO CONSTATADA. PROVIMENTO DOS EMBARGOS. EFEITOS INFRINGENTES. PROCEDÊNCIA DO PEDIDO.“
+    A recorrente alega violação às normas contidas nos arts. 40, §1º, I, 3º e 17, e 97 da Constituição da República.
+    Esse o sucinto relatório. Decido.
+    Reputo inadmissível o recurso extraordinário.
+    A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que “a legislação pátria ampara o direito dos servidores à aposentadoria por invalidez permanente, sendo constitucionalmente assegurada a percepção de valores integrais dos proventos quando se tratar de invalidez decorrente de acidente de serviço, moléstia profissional ou doença grave, contagiosa ou incurável, conforme o art. 40, §1º, I” (ARE 1.298.658-AgR/CE, Ministro Alexandre de Morais).
+    Para além disso, passa necessariamente pelo reexame fático-probatório e pela interpretação de legislação infraconstitucional rever o pronunciamento “a quo” que reconheceu o direito da parte ora recorrida à integralidade dos proventos, afastando a aplicação da Lei nº 10.887/04.
+    A toda evidência, infirmar essas conclusões passa, necessariamente, pela reapreciação vedada pelo Enunciado 279 da Súmula/STF, como também faz caracterizar-se como indireta ou reflexa a suposta ofensa ao Texto Constitucional.
+    Em casos fronteiriços, há – entre muitos outros –, os seguintes precedentes: ARE 683.686-AgR/GO, Ministra Carmem Lúcia; RE 731.203-AgR/MG, Ministro Marco Aurélio; RE 1.287.777/RJ, Ministro Edson Fachin. Ilustra essa orientação, ainda, os seguintes julgados (com meus grifos):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ. DOENÇA GRAVE. PROVENTOS INTEGRAIS. LEGISLAÇÃO LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+    1. É firme a jurisprudência da Corte de que o servidor público faz jus à aposentadoria por invalidez com proventos integrais quando o afastamento decorrer de acidente de trabalho, moléstia profissional ou doença grave, contagiosa ou incurável, desde que prevista em lei, conforme dispõe o art. 40, § 1º, inciso I, da Constituição Federal.
+    2. Inadmissível, em recurso extraordinário, a análise da legislação local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido.”
+    (RE 896.710-AgR/MG, Ministro Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 473.703-AgR/MG, Ministra Cármen Lúcia)
+    Por outro lado, com relação ao pedido da parte autora quanto à aplicação da correção monetária nos termos do art. 5º, da Lei nº 11.960/09, melhor sorte não assiste à recorrente.
+    No âmbito da repercussão geral da questão suscitada, o Plenário do Supremo Tribunal Federal, ao apreciar o RE-870.947/SE, Ministro Luiz Fux, DJ de 9.11.2017, firmou a seguinte tese (com meus grifos):
+    “1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado.
+    2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+    3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia . São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29).”
+    (RE 870.947/SE, Ministro Luiz Fux, DJ de 20.11.2017)
+    Buscando modular aquele julgamento, os entes públicos réus opuseram embargos de declaração.
+    Na sessão de 3.10.2019, todavia, o Plenário do STF, em julgamento majoritário, rejeitou tais embargos, havendo, assim, recusado a pleiteada atribuição de efeitos prospectivos.
+    Assim, o acórdão recorrrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios recursais.
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c o § 1º do art. 21 do RISTF, não conheço do recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
