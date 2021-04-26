@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. A 5ª Turma Recursal do Rio Grande do Sul não reconheceu a imunidade tributária recíproca, a teor do artigo 150, inciso VI, alínea “a”, da Constituição Federal, em relação a arrendatário ocupante de imóvel vinculado ao Fundo de Arredamento Residencial – FAR, assentando a validade do IPTU a ser exigido.
+    Eis a síntese do pronunciamento questionado:
+    TRIBUTÁRIO. IPTU. IMUNIDADE RECÍPROCA. FAR. IMPOSSIBILIDADE. CEF. LEGITIMIDADE PASSIVA.
+     1 . Na qualidade de administradora operacional e representante judicial do Fundo de Arrendamento Residencial (FAR), a Caixa Econômica Federal é parte legítima para a demanda em que se postula a revisão do contrato de arrendamento e o reconhecimento do direito do arrendatário ou ocupante à imunidade ao IPTU. Arts. 1º e 4º da Lei 10.188/2001.
+    2. A tese firmada pelo Supremo Tribunal Federal no julgamento do Tema 884 de repercussão geral (RE 928.902/SP) beneficia somente o Fundo de Arrendamento Residencial (FAR) representado pela CEF .
+    3. Ainda que a jurisprudência do STF admita a interpretação teleológica das imunidades constitucionais (2a. T., RE 407.099/RS, Rel. Min. Carlos Velloso, j. 22.6.2004), atrela o reconhecimento desse benefício tributário ao cumprimento de finalidades públicas por parte do beneficiário.
+    4. A imunidade recíproca examinada pela Corte Suprema (art. 150, VI, “a”, da CRFB) é de caráter subjetivo (relativa aos imóveis pertencentes ao FAR, administrado e operacionalizado pela CEF - art. 1º, §1º, da Lei 10.188/2001) e atrelada ao fator finalístico da norma (afetação dos bens à função pública). 5. Nesse contexto, a imunidade reconhecida pelo STF (Tema 884) é pessoal (direcionada ao patrimônio Fundiário) e não pode beneficiar o arrendatário ocupante de imóvel vinculado ao FAR e afastar a incidência do IPTU.
+    No extraordinário a recorrente aponta violação ao artigo 150, inciso VI, alínea “a”, da Lei Maior. Articulando a propriedade do imóvel junto ao Fundo de Arrendamento Residencial — FAR, sublinha a impossibilidade de ter-se a cobrança do imposto questionado. Segundo sustenta, o arrendamento do bem não revela transferência da propriedade em favor do particular, havendo prova quanto ao domínio em favor do Fundo. Evoca o decidido pelo Supremo no recurso extraordinário nº 928.902.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado. Divergir do ato questionando quanto à propriedade do imóvel e exercício das faculdades inerentes, visando definir a pertinência do que decidido pelo Pleno no recurso extraordinário nº 928.902, relator ministro Alexandre de Moraes, demandaria o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    4. Publiquem.
+Brasília, 26 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
