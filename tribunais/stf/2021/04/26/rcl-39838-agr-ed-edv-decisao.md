@@ -1,0 +1,20 @@
+Trata-se de embargos de divergência interpostos contra acórdão da Segunda Turma que negou provimento a agravo regimental da ora embargante, cuja ementa do julgamento foi a seguinte:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL. ATO RECLAMADO ANTERIOR AOS PARADIGMAS INVOCADOS. DECISÃO AGRAVADA EM HARMONIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE QUE ORIENTA A MATÉRIA SOB EXAME. INOCORRÊNCIA DE USURPAÇÃO DA COMPETÊNCIA DO STF EM JULGAMENTO DE AGRAVO QUE INADMITIU RECURSO EXTRAORDINÁRIO EM TEMA QUE NÃO HÁ REPERCUSSÃO GERAL. INVIÁVEL RECLAMAÇÃO PARA REACENDER MATÉRIA PRECLUSA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - A decisão ora atacada não merece reforma ou qualquer correção, pois os seus fundamentos harmonizam-se estritamente com a jurisprudência desta Suprema Corte que orienta a matéria em questão.
+    II - É incabível suscitar como parâmetros da reclamação a ADPF 324/DF e o RE 958.252-RG/MG, julgados em 30/8/2018, com ata de julgamento publicada em 3/9/2018, uma vez que o ato reclamado foi proferido pelo TRT15 antes do julgamento dos paradigmas invocados. Logo, não havia ato violado, porquanto inexistia, à época, decisão desta Corte que justificasse o prosseguimento desse feito.
+    III - A reclamante teve o recurso de revista, bem como todos os recursos posteriormente interpostos, negados por ausência de preenchimento de requisitos formais de admissibilidade recursal (contidos no art. 896, § 1º-A, I; e no art. 896, § 1°, III, ambos da CLT). Tema 181 da Repercussão Geral.
+    IV É de se afirmar a plena regularidade do procedimento adotado pelo Colegiado Recursal, que aplicou o disposto no art. 1.030, I, a , do CPC, o qual determina a negativa de seguimento a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal - STF não tenha reconhecido a existência de repercussão geral. Precedentes.
+    V - A jurisprudência do STF entende que a propositura de reclamação está condicionada à possibilidade da questão impugnada poder ser revisitada no processo principal, ou seja, é inviável a utilização da via reclamatória para reacender matéria preclusa.
+    VI - Agravo regimental a que se nega provimento” (pág. 1 do documento eletrônico 23).
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, verifico que a pretensão recursal não merece conhecimento.
+    Isso porque os embargos de divergência não são cabíveis contra acórdão proferido em reclamação, ante a ausência de previsão regimental (artigos 330 e seguintes do RISTF).
+    Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECLAMAÇÃO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA CONTRA JULGAMENTO DE RECLAMAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Não são cabíveis embargos de divergência em face de acórdão proferido em sede de reclamação, ante a falta de previsão normativa. Precedentes. 2. Inadmissíveis os embargos de divergência, quando baseados em paradigma de classe processual distinta. 3. Cabe ao embargante, nos termos do art. 331 do RISTF, demonstrar o cotejo analítico entre o acórdão embargado e o paradigma invocado, para fins de uniformização da jurisprudência. 4. Agravo regimental a que se nega provimento” (RCL 24.145-AgR-EDv-ED-AgR/SC, Rel. Min. Edson Fachin, Tribunal Pleno).
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL CIVIL. INCABÍVEIS EMBARGOS DE DIVERGÊNCIA OPOSTOS CONTRA ACÓRDÃO PROFERIDO EM RECLAMAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO COM DETERMINAÇÃO DE ARQUIVAMENTO” (Rcl 32.664-AgR-ED-AgR-EDv-AgR/RJ, Rel. Min. Cármen Lúcia, Tribunal Pleno).
+    Na mesma esteira, registro, ainda: Rcl 27.015-AgR-Edv-AgR/SP, Rel. Min. Alexandre de Moraes; e Rcl 22.375-AgR-ED-EDv/SC, Rel. Min. Rosa Weber, entre outros.
+    Isso posto, não conheço dos embargos de divergência
+    Publique-se.
+    Brasília, 26 de abril de 2021.
+Ministro Ricardo Lewandowski
+Relator
