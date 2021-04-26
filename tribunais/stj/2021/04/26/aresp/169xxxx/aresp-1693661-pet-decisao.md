@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido formulado pela ora requerente, na Petição 00710641/2020,nos seguintes termos:
+"01 - O Peticionário é executado nos autos da execução fiscal n. 0007065-18.2002.4.02.5001, com tramitação perante a 3ª Vara Federal de Execução Fiscal de Vitória, Seção Judiciária do Espírito Santo em que fora proferida a r. decisão originariamente agravada pela União Federal.
+02 - Ao constituir patrono nos autos, o ora Peticionário requereu fossem as intimações vindouras realizadas em nome de Felipe Itala Rizk, advogado inscrito na OAB/ES sob o n. 12.510, sob pena de nulidade na forma do art. 272, §5º,CPC/2015. Pedimos as devidas licenças para transcrever excerto extraído da execução fiscal originária em Evento de Processo n. 234, OUT 23, Página 16:
+(..)
+03 - A própria União Federal, em sua petição de Agravo de Instrumento (fls. e- STJ 2) reconheceu que os advogados que estavam constituídos nos autos na defesa dos interesses do Sr. Manoel Francisco de Paula, requerendo as suas respectivas intimações, conforme excerto ora colacionado:
+(..)
+04 - Inclusive, a União Federal juntou a procuração outorgada aos advogados do ora Peticionário, conforme se observa de fls. e-STJ n. 65.
+05 - Não obstante o exposto, para completo infortúnio do ora Peticionário, as intimações ocorridas no âmbito do Eg. Tribunal Regional Federal da 2ª Região não contemplaram os seus patronos, conforme se verifica dos excertos das publicações extraídas do Diário Eletrônico do Eg. Tribunal Regional Federal da 2ª Região (documentos anexos), violando o art. 272, §2º, do CPC/2015.
+06 - Naturalmente, as intimações se revelam nulas de pleno direito nos termos do art. 272, §5º, do CPC/2015 3 e, por força do art. 272, §8º, do CPC/2015 4 o ora Peticionário já apresenta as suas contrarrazões de agravo de instrumento, rogando sejam reconhecidas as nulidades processuais de todos os atos ocorridos após a intimação para apresentação de contrarrazões, retornando-se os autos ao Eg. Tribunal Regional Federal da 2ª Região para que profira novo julgamento" (fls. 300/303e).
+Ao final,"serve a presente para CHAMAR O FEITO À ORDEM, a fim de que seja reconhecida a nulidade das intimações ocorridas no âmbito do Eg. Tribunal Regional Federal da 2ª Região, declarando-se a nulidade de todos os atos processuais ocorridos após a intimação para apresentação de contrarrazões ao agravo de instrumento, admitindo-se como tempestivas as presentes contrarrazões de agravo de instrumento para que seja proferido novo julgamento na origem" (fl. 303e).
+Intimada (fl. 347e), a Fazenda Nacional não se manifestou (fl. 349e).
+No entanto,o pedido encontra-se prejudicado,ante a superveniência de desistência recursal,homologada a fl. 351e, não cabendoa essa Corte analisar a questão, visto que exaurida a sua jurisdição.
+Ante o exposto, não conheço da Petição de fls. 300/303e.
