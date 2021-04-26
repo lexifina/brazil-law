@@ -1,0 +1,55 @@
+DECISÃO:
+EMENTA: Execução penal. Recurso ordinário em habeas corpus. Cálculo dos dias remidos. Ausência de teratologia, ilegalidade flagrante ou abuso de poder.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. REMIÇÃO DE PENA. ART. 126 DA LEP. RECOMENDAÇÃO N. 44 DO CNJ. APROVAÇÃO TOTAL NO ENCCEJA – ENSINO FUNDAMENTAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - Esta Corte Superior firmou orientação no sentido de que é "viável a concessão da remição por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal." (AgRg no AREsp n. 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/3/2016). Assim está autorizada a concessão da remição pelo estudo nas hipóteses previstas na Recomendação n. 44/2013 do CNJ. Precedentes.
+    III - In casu, uma vez comprovado que o paciente obteve aprovação total no ENCCEJA - Ensino Fundamental, há que se reconhecer o direito à remição correspondente.
+    IV - No entanto, os descontos antes determinados pelo d. Juízo da Execução, em relação aos dias cursados regularmente, configuram bis in idem, e devem ser mantidos.
+    Habeas corpus não conhecido. Ordem concedida, de ofício, para majorar, a 177 (cento e setenta e sete) dias, a remição concedida ao paciente, também determinando, ao d. Juízo da Execução Penal, que mantenha os descontos antes determinados, mas proceda aos novos cálculos para benefícios, com recomendação de celeridade.”
+    2. Extrai-se dos autos que o Tribunal estadual negou provimento ao recurso da defesa e manteve decisão que declarou a remição de 88 dias da pena imposta ao paciente pelo estudo, proferida nos autos de Execução Penal 0026542-92.2010.8.16.0031, da Vara de Execuções Penais da Comarca de Guarapuava.
+    3. A defesa impetrou habeas corpus no STJ. A Quinta Turma, ao analisar o HC 629.035, da Relatoria do Min. Felix Fischer, não conheceu do writ. Contudo, concedeu a ordem de ofício para “majorar, a 177 (cento e setenta e sete) dias, a remição concedida ao paciente, também determinando, ao d. Juízo da Execução Penal, que mantenha os descontos antes determinados, mas proceda aos novos cálculos para benefícios, com recomendação de celeridade”.
+    4. Neste recurso ordinário, a defesa alega que “o entendimento da e. 5ª Turma do STJ está equivocado, uma vez que prejudica o reeducando que se dedicou aos estudos no presídio, seja ele por conta própria ou para conseguir obter a aprovação junto ao ENCCEJA”. Sustenta que “não há no caso duplicidade de benefício, posto que são bonificações diferentes: uma pela concreta frequência no curso dentro da unidade prisional (art. 126, § 1º, I, da LEP), outra pela conclusão do estudo (art. 126, § 5º) e a última pela aprovação no exame de proficiência (art. 1º, IV, da Resolução 44 do CNJ), a qual, demonstra a dedicação e empenho despendidos nos estudos e comprova que houve aproveitamento e aprendizados consistentes”.
+    5. O paciente “requer seja conhecido e provido o recurso ordinário constitucional, confirmando-se a liminar requerida e concedendo-se a ordem de habeas corpus, para que não sejam descontados os dias remidos em razão do estudo realizado por conta própria no interior do presídio”.
+    6. Decido.
+    7. O recurso ordinário não deve ser provido.
+    8. Da análise dos autos, não se comprova ter havido equívoco no cálculo para a remição pretendida pela defesa, sendo aplicada ao caso a legislação pertinente. Vejam-se os seguintes trechos do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    I - Desconto dos dias do estudo anterior
+    Primeiramente, rememoro os termos da r. decisão do d. Juízo da Execução (fls. 21-22):
+    "Outrossim, tendo em conta que o apenado se encontrava regularmente inserido em sistema de ensino no interior da unidade prisional (há remições pelo estudo concedidas nos autos), defiro o pedido de remição de pena alusivo ao acréscimo de 1/3 em razão da conclusão do ensino fundamental, com a ressalva de que as remições anteriormente deferidas pelas conclusões de matérias devem ser desconsideradas, com vistas a evitar a duplicidade do benefício, conforme disposto na parte inicial do inciso IV do art. 1º da referida recomendação colacionada acima."
+    Dela, porém, não se afere qualquer flagrante ilegalidade, visto que respeita a literalidade do art. 1º, IV, da Recomendação n° 44/2013 do Conselho Nacional de Justiça, que não permite a remição, nos casos em que o apenado se encontra regularmente frequentando o curso correspondente à aprovação.
+    II - Remição pelo ENCCEJA - total de dias
+    Sobre o tema em análise, o art. 126 da Lei de Execuções Penais traz a seguinte disposição:
+    "Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+    I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+    [...]
+    § 5º O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação" (grifei).
+    O Conselho Nacional de Justiça - CNJ - editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, IV, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino médio e fundamental, verbis:
+    "RECOMENDAÇÃO Nº 44 DE 26/11/2013
+    Dispõe sobre atividades educacionais complementares para fins de remição da pena pelo estudo e estabelece critérios para a admissão pela leitura.
+    [...]
+    O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais, RESOLVE: Art. 1º Recomendar aos Tribunais que:
+    [...]
+    IV - na hipótese de o apenado não estar, circunstancialmente, vinculado a atividades regulares de ensino no interior do estabelecimento penal e realizar estudos por conta própria, ou com simples acompanhamento pedagógico, logrando, com isso, obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84), considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino [fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE], isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio" (grifei).
+    Nesse diapasão, esta eg. Corte Superior firmou orientação no sentido de que é "viável a concessão da remição por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal." (AgRg no AREsp n. 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/3/2016).
+    Assim está autorizada a concessão da remição pelo estudo nas hipóteses previstas na Recomendação n. 44/2013 do CNJ.
+    […]
+    Nesse mesmo sentido, as seguintes decisões: HC 417.980/SC, Quinta Turma , Rel. Min. Jorge Mussi, 27/11/2017, HC 416.050/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik Jorge Mussi, 17/11/2017, HC 421.560/SC, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, 30/11/2017 e HC 421.155/SC, Rel. Min. Rogério Schietti Cruz.
+    […]
+    Não há dúvida, portanto, de que o benefício da remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação do paciente em áreas de conhecimento do ENCCEJA configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ.
+    A Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/96), que define legalmente a carga horária do ensino nacional, estabelece a carga horária mínima de 3.200 horas para o ensino fundamental.
+    […]
+    Outrossim, passo à revisão do cálculo apresentado.
+    Observando a quantidade considerada na Recomendação n. 44/2013 do CNJ, já de 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino como base de cálculo para fins de cômputo das horas, tem-se que deve ser considerado, em favor do paciente, o montante de 1.600 horas.
+    Tendo em vista que o apenado não realizava estudo de maneira formal, restando aprovado em 5 (cinco) áreas de conhecimento do ENCCEJA, cujas horas ainda devem ser divididas por 12 (doze), conforme preceitua o inciso I do § 1º do art. 126 da LEP, isso totaliza 26 dias para cada matéria.
+    Seguindo o raciocínio, pacífico, nesta Quinta Turma, que “Considerando como base de cálculo 50% da carga horária definida legalmente para o ensino fundamental, ou seja, 1.600 horas, deve-se dividir esse total por doze, encontrando-se o resultado de 133 dias de remição em caso de aprovação em todos os campos de conhecimento do ENCCEJA. Serão devidos, portanto, 26 dias de remição para cada uma das cinco áreas de conhecimento” (AgRg no HC n. 559.981/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 02/03/2020).
+    No caso concreto, a aprovação total ainda requer a majoração dos dias em 1/3, restando: 177 dias.
+    Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício , para majorar, a 177 (cento e setenta e sete) dias, a remição concedida ao paciente, também determinando, ao d. Juízo da Execução Penal, que mantenha os descontos antes determinados, mas proceda aos novos cálculos para benefícios, com recomendação de celeridade.
+    […].”
+    9. Nessa linha, vejam-se o RHC 174.894-AgR, de minha relatoria; o RHC 193.101-AgR, Rel. Min. Alexandre de Moares; e o RHC RHC 181.787-AgR, Relª. Minª. Cármen Lúcia.
+    10. Diante do exposto, com base no art. 192, c/c o art. 312, do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 26 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
