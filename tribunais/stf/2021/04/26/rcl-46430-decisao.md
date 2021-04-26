@@ -1,0 +1,15 @@
+D E C I S Ã O
+    Trata-se de reclamação em que se alega desrespeito, por parte do Tribunal Superior do Trabalho – TST no processo RR 0002509- -90.2012.5.03.0092, ao quanto decidido por esta Suprema Corte no julgamento no RE 828.040/DF (Tema 932), no qual restou assentada a possibilidade de responsabilização objetiva do empregador por danos decorrentes de acidentes de trabalho.
+    Narra que interpôs recurso extraordinário que foi inadmitido com fundamento na sistemática da repercussão geral (Tema 932), nos termos do art. 1.030, I,”a” do CPC (eDOC 09 pgs. 70/74), encontrando-se com agravo interno em recurso extraordinário pendente de julgamento.
+    Sustenta que “a interposição do recurso extraordinário, sobre a tese, não retira a viabilidade da Reclamação, uma vez que a jurisprudência do Supremo Tribunal Federal se consolidou no sentido de que a recorribilidade ou a efetiva interposição de recurso extraordinário ou embargos de declaração contra o provimento jurisdicional impugnado não elide o cabimento da reclamação.”
+    A presente reclamação é manifestamente inadmissível.
+    É que a jurisprudência firme desta Excelsa Corte exige o esgotamento das instâncias ordinárias, quando, em sede reclamatória, se invoca como paradigma julgamento de recurso extraordinário em sede de repercussão geral, nos termos do art. 988, §5º, II, do CPC. Exemplificam esse entendimento os seguintes acórdãos: Rcl 21.167- -AgR/RJ, Ministra Rosa Weber; Rcl 36.278-AgR/DF, Ministro Edson Fachin; Rcl 42.027-ED-AgR/PR, Ministro Ricardo Lewandowski; Rcl 42.273-AgR/MT, Ministro Roberto Barroso; Rcl 43.537-AgR/RJ, Ministro Gilmar Mendes.
+    Destaco que esta Corte, ao interpretar o art. 988, § 5º, II, firmou orientação de que o esgotamento das instâncias ordinárias significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte (Rcl 24.686-AgR-ED/RJ, Ministro Teori Zavascki).
+    Em outras palavras: sempre que se vislumbre a possibilidade de reforma da decisão reclamada por via recursal, restará vedado o acesso ao Supremo Tribunal Federal por meio de reclamação em que se alega desrespeito a orientação firmada em repercussão geral.
+    Ressalto, ainda, que a Segunda Turma desta Corte possui entendimento pacificado no sentido de que o esgotamento da instância ordinária se comprova com o juízo negativo de admissibilidade do recurso extraordinário, pela aplicação da sistemática da repercussão geral, e o julgamento do agravo regimental interposto contra essa decisão (Rcl 33.035 ED, Relatora Min. CÁRMEN LÚCIA, Segunda Turma, DJe 25/09/2019; Rcl 36.278 AgR, Rel Min. EDSON FACHIN, DJe 6/11/2020).
+    Não vislumbro a ocorrência dessa hipótese no caso ora em apreço, uma vez que a decisão ora combatida ainda comporta reforma por via de recurso, encontrando-se os autos originários com agravo interno em recurso extraordinário pendente de julgamento.
+    Ante o exposto, não conheço desta reclamação.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 26 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
