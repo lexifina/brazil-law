@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, interposto contra acórdão proferido pelo Superior Tribunal de Justiça no HC 532.376/SP, assim ementado (eDOC 4, p. 146):
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO NA ORIGEM COMO SUCEDÂNEO DE RECURSO DE APELAÇÃO. NÃO CONHECIMENTO. RECURSO ORDINÁRIO INADMITIDO. NÃO ESGOTAMENTO DA INSTÂNCIA. HABEAS CORPUS. NÃO CONHECIMENTO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    1 - A orientação desta Corte é pacificada no sentido de que, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício, não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração.
+    2 - Agravo regimental desprovido.
+    Depreende-se dos autos que o ora recorrente foi condenado pela prática dos delitos previstos nos arts. arts. 171, § 3º e 296, § 1º, ambos do Código Penal, em continuidade delitiva e em concurso material, à pena de 19 (dezenove) anos, 3 (três) meses e 20 (vinte) dias de reclusão.
+    Dessa decisão, a defesa ajuizou recurso de apelação e habeas corpus perante o TRF da 3ª Região, que extinguiu a impetração sem julgamento de mérito, ante o descabimento de habeas corpus como sucedâneo de apelação criminal.
+    Alega o recorrente, representado pela Defensoria Pública da União, que o constrangimento ilegal decorre não só da extinção do habeas corpus originário, mas também pelo fato de que aquele Tribunal não observou a constituição da Defesa Técnica, nem a intimação do próprio recorrente acerca do decidido.
+    À vista do exposto, requer seja determinado ao TRF da 3ª Região a análise do constrangimento ilegal apontado.
+    O Ministério Público Federal opinou pelo não conhecimento do recurso, com a concessão de habeas corpus, de ofício, para que seja determinado “ao Tribunal Regional Federal da 3ª Região que aprecie o mérito do writ ali impetrado.” (eDOC 8).
+    O Tribunal Regional Federal da 3ª Região informou que, em 3.2.2020, o recurso de apelação de Germano Soares Neto foi parcialmente provido para absolvê-lo “da prática do delito previsto pelo artigo 296, §1º, III, do Código Penal, mantendo sua condenação apenas como incurso nas penas do artigo 171, caput, e artigo 171, caput, c. c. o artigo 14, II, ambos do Código Penal, c. c. o artigo 71, também do Código Penal, para fixar suas penas em 6 (seis) anos e 8 (oito) meses de reclusão, regime inicial fechado” (eDOC 14) e que, em 31.8.2020, a 5ª Turma, por unanimidade, rejeitou os embargos de declaração. Consta, ainda, das informações, que foram interpostos os recursos especial e extraordinário (eDOC 18).
+    É o relatório. Decido.
+    No caso dos autos, a ilegalidade apontada não pode ser aferida de pronto.
+    De início, observo que as ilegalidades apontadas nas razões do recurso ordinário não foram analisadas pelo Superior Tribunal de Justiça. Nesse contexto, o conhecimento originário da matéria por esta Corte configuraria supressão de instância.
+    Convém destacar que Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes” (RHC 135.560 AgR, Rel. Min. ROSA WEBER, Primeira Turma, julgado em 21.10.2016).
+    “O presente recurso mostra-se inviável, pois os acórdãos impugnados no STJ e no presente writ não enfrentaram a questão do excesso de prazo da prisão preventiva. Fazê-lo nesta via implicaria, portanto, em dupla supressão de instância, orientação que está em consonância com a jurisprudência do Supremo Tribunal Federal.” (HC 170.493 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 03.09.2019)
+    “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante o Tribunal a quo e Corte Superior. Precedentes: HC 161.764-AgR, Segunda Turma, rel. min. Ricardo Lewandowski, DJe de 28/2/2019; e RHC 158.855-AgR, Segunda Turma, rel. min. Celso de Mello, DJe de 27/11/2018” (HC 170.886 AgR, Rel. Min. LUIZ FUX Primeira Turma, DJe 23.08.2019).
+    Por outro lado, verifico que a impetração originária dirigiu-se contra a sentença condenatória, que, posteriormente, foi substancialmente reformada pelo TRF da 3ª Região por meio de acórdão já impugnado por recursos especial e extraordinário.
+    Dessa forma, não procede a pretensão de se determinar ao Tribunal de origem que aprecie o habeas corpus impetrado contra sentença já reformada em sede de apelação.
+    3. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego provimento ao recurso em habeas corpus.
+    Brasília, 27 de abril de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
