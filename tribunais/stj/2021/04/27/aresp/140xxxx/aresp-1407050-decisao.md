@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7/STJ (e-STJ fls. 711/716).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 623):
+EMENTA: APELAÇÃO - AÇÃO DE USUCAPIÃO - IMÓVEL OBJETO DE HERANÇA - CONDOMÍNIO COMPROVADO - COMPOSSE - REQUISITOS AUSENTES - MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA.
+- Em princípio, somente se admite a usucapião sobre imóvel adquirido por herança, em detrimento dos demais herdeiros, em hipóteses excepcionais, quando a usucapiente demonstrar o exercício de posse exclusiva durante o lapso temporal legalmente previsto e com animus domini.
+- A posse em área objeto de condomínio não é exercida com ânimo de dono, já que é de conhecimento do condômino a composse dos demais herdeiros.
+V.v APELAÇÃO CÍVEL - AÇÃO DE USUCAPIÃO - POSSE MANSA E PACÍFICA - ÂNIMO DE DONO - REQUISITOS DEMONSTRADOS - CONDOMÍNIO - POSSE EXCLUSIVA - CONSTATAÇÃO. Para concessão da usucapião é exigida a demonstração da posse mansa, pacífica e ininterrupta, por determinado período, com intenção de dono. Admitida a aquisição da propriedade por usucapião de imóvel em condomínio quando comprovada posse exclusiva. Colhido depoimento testemunhal que confirma o exercício da posse com a realização de plantações, cultivo de espécies, criação de gados, e em área distinta da genitora, reconhece-se a aquisição originária da propriedade.
+Nas razões do recurso especial (e-STJ fls. 644/670), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação do art. 1.238, parágrafo único, do CC/2002, visto que estariam presentes os requisitos ao reconhecimento da usucapião postulada sobre a área litigiosa, tal qual o exercício de posse pacífica, ininterrupta e com animus domini.
+Indicou desrespeito ao art. 373, II, do CPC/2015, porque, mesmo o aresto impugnado tendo declarado a composse sobre o imóvel litigioso, a parte recorrida não teria se desincumbido do ônus de provar o referido fato impeditivo, modificativo ou extintivo do seu direito.
+Alegou haver má valoração da prova dos autos, o que teria resultado no indeferimento da usucapião. Nesse contexto, requereu a valoração do conjunto fático-probatório dos autos, a fim de declarar a mencionada prescrição aquisitiva.
+Apontou violação do art. 487, III, do CPC/2015, porque "a genitora e os irmãos da autora reconheceram expressament e a procedência do pedido, por meio de petição nos autos, representados por advogados. Portanto, não há oposição ao pedido de usucapião" (e-STJ fl. 650).
+Postulou a concessão de efeito suspensivo ao recurso.
+Sem contrarrazões (e-STJ fl. 709).
+No agravo (e-STJ fls. 719/733), afirma a presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta (e-STJ fl. 737).
+Parecer do Ministério Público Federal, opinando pelo desprovimento do recurso (e-STJ fls. 764/767).
+É o relatório.
+Decido.
+O Tribunal a quo, por maioria de votos, não reconheceu a usucapião alegada pela recorrente sobre o imóvel rural litigioso porque entendeu inexistir prova dos requisitos da prescrição aquisitiva, tal como o exercício de posse com animus domini e sem oposição. Confira-se (e-STJ fls. 628/634):
+Como já visto, recai a controvérsia sobre uma propriedade rural, na Fazenda Salobo, situado no lugar denominado Curral das Pedras ou Ruibarbo no município de Vazante.
+A parte autora alega ser possuidora de boa fé, exercendo sobre o imóvel, posse mansa, pacífica, ininterrupta e com animus domini. Esclarece que o imóvel usucapiendo decorre de herança e também de aquisição de direitos, posto que por tradição, obteve parte da posse que era destinada a seus irmãos.
+Nesse passo, cumpre examinar se a autora preenche os requisitos legais para o reconhecimento da usucapião extraordinária, a saber, o lapso temporal e a posse com animus domini e sem oposição.
+E em cuidadoso exame do acervo probatório constante nos autos, tenho que, realmente, não restaram preenchidos os requisitos legais para a declaração da prescrição aquisitiva do imóvel objeto da lide.
+É cediço que o herdeiro ou o condômino que pretender usucapir contra os consortes precisa alegar e provar que cessou de fato a composse, estabelecendo-se posse exclusiva pelo tempo necessário à usucapião extraordinária, com os demais requisitos que esta requer. Na dúvida, presume-se que os atos são praticados em nome de todos, o que implica precariedade de posse, insuscetível, destarte, de ser usucapida.
+Em outras palavras, para invocar utilmente a prescrição aquisitiva, quando um dos herdeiros alega o uso exclusivo da coisa, necessário que o condômino comprove, através de atos exteriores e perseverantes, a propalada posse individual.
+No caso, a autora é herdeira de parte do imóvel, que pertencia a seu pai (já falecido), juntamente com sua mãe e seus irmãos, em copropriedade
+Cumpre registrar que sua genitora, também herdeira, ainda reside no imóvel objeto da lide, conforme a própria autora declara na inicial e as testemunhas ouvidas (fls. 325/326).
+Denota-se, portanto, que o que a requerente requer é verdadeira transferência de propriedade e não uma declaração de aquisição originária de domínio.
+Assim, o cerne da discussão, no caso, não reside na duração da posse exclusiva exercida pela demandante, ou no fato de arcar com as despesas relativas ao bem, como quer fazer crer em apelação.
+Apesar de mansa, pacífica e duradoura, a posse da autora não se reveste do necessário ânimo de dono, requisito inafastável a configurar a usucapião. Houve mera permissão ou tolerância pelo menos de alguns dos demais condôminos, coproprietários do bem.
+Em decorrência, conclui-se que não há a posse única e exclusiva do imóvel em favor da autora, que exerce posse precária sobre a área usucapienda, pois evidente o estado de composse e condomínio, que perdura até a presente data.
+Desse modo, a posse evocada não é delimitada e única, certa ou exclusiva. E subsistindo, até então, este estado de condomínio e composse, não se pode precisar qual seria a parte de um e outro.
+Em casos tais, o entendimento tem sido sempre no sentido de não se admitir possa um dos condôminos de imóvel indiviso usucapir dos demais a parte ideal que lhes caberia na sucessão, em virtude da composse decorrente do art. 1.784 do Código Civil, que estabelece expressamente que "aberta a sucessão, o domínio e a posse da herança transmitem-se, desde logo, aos herdeiros legítimos e testamentários".
+A transmissão aos herdeiros do domínio e da posse, no momento da abertura da sucessão, cria uma composse sobre os bens do espólio, que somente poderá ser extinta ao final do processo do inventário, com a partilha dos bens aos herdeiros.
+O artigo 1.791 do Código Civil deixa claro que a herança é um bem indivisível até efetuada a partilha, confira-se:
+Art. 1.791. A herança defere-se como um todo unitário, ainda que vários sejam os herdeiros.
+Parágrafo único. Até a partilha, o direito dos co-herdeiros, quanto à propriedade e posse da herança, será indivisível, e regular-se-á pelas normas relativas ao condomínio.
+(..)
+Portanto, havendo vários herdeiros, não se admite que possa um dos condôminos do imóvel usucapir dos demais a parte ideal que lhes caberia na sucessão, eis que o direito de cada um, relativo à posse e ao domínio do acervo hereditário, permanece indivisível até que se proceda à partilha.
+Apenas após a comprovação que a composse deixou de existir e que, depois disso, houve o exercício da posse exclusiva, mansa e pacífica, por um dos condôminos sobre toda a área ou sobre parte certa e limitada dela, é que se tem como possível a pretensão usucapienda.
+Vê-se, assim, que havia e ainda há, entre a autora, sua genitora e seus irmãos, uma situação de condomínio e composse sobre o imóvel objeto do pedido, o que impede a usucapião pretendida.
+Nesse esteio, declarada a composse, não há como reconhecer a pretensão da aquisição da propriedade da totalidade do imóvel por não restar configurada a exclusividade da posse exercida.
+(..)
+Depois de ouvir atentamente a sustentação oral proferida pelo ilustre advogado constituído pela apelante, pedi vista dos autos com o propósito de proceder ao reexame da matéria objeto da lide.
+Sem embargos das teses apresentadas nas razões recursais e na sustentação oral, estou a acompanhar a eminente Relatora, Desembargadora Mariângela Meyer, que em seu judicioso voto está negando provimento ao apelo.
+E assim porque, muito embora a autora exerça a posse sobre o imóvel usucapiendo desde a data de seu nascimento, é fato que ela sempre esteve no exercício dessa posse juntamente com seus pais, Senhores Lázaro e Maria Machado Caixeta.
+Aliás, a própria autora, à fl. 5 da petição inicial, é incisiva ao afirmar que a "sua mãe Maria Machado Caixeta herdou a parte de terras ora usucapienda onde reside a Requerente até os dias de hoje".
+Por isso, como bem salientado na sentença, Maria Machado Caixeta haveria de integrar o polo ativo da lide, pois com o passamento de Olímpio Machado Diniz, a posse foi imediatamente transmitida a ela, mãe da ora apelante.
+Vale ressaltar que o fato de a genetriz da autora ter manejado ação de usucapião de parte do imóvel, pois a fazenda é de grande extensão territorial e tem duas matrículas, não confere a esta o direito absoluto de postular o domínio de gleba cuja posse deriva de direito de herança transmitido à sua mãe.
+Importante ainda consignar, nesse passo, que a falta de resistência dos irmãos Pedro Olímpio Caixeta, Cleonice Maria Caixeta, Evandro Caixeta da Silva, João Machado Caixeta e Rozemiro Caixeta, não é suficiente para a procedência do pedido deduzido na petição inicial.
+Além disso, conforme bem assinalado no parecer ministerial de fls. 428/429, "a ação de usucapião não se presta à regularização de direitos sucessórios".
+Ademais, o fato de a autora já ser proprietária de parte da área usucapienda, sendo 14.36,14 hectares dentro da Matrícula nº 2004 e 11.47,42 hectares dentro da Matrícula nº 2005, não viabiliza a procedência da pretensão inicial visando o domínio da área de 270.18,14 hectares.
+Incumbe assinalar, ainda, que no pertinente às glebas adquiridas dos irmãos, as quais constam devidamente registradas no Cartório de Registro de Imóveis de Vazante, não há, em princípio, óbice para que a transferência/regularização do domínio se dê por meio de escritura pública de compra e venda, a ser posteriormente levada a registro, inclusive com o recolhimento dos impostos devidos.
+Por fim, estou a reconhecer que a prova testemunhal produzida não é suficiente para franquear a procedência dos pedidos iniciais.
+O Tribunal de origem assentou suas conclusões sobre a matéria com base nos arts. 1.238, parágrafo único, 1.784 e 1.791, caput e parágrafo único, do CC/2002.
+Por sua vez, a recorrente apontou ofensa aos arts. 1.238, parágrafo único, do CC/2002 e 373, II, e 487, III, do CPC/2015 para defender o preenchimento dos requisitos da usucapião.
+Ocorre que os dispositivos legais trazidos no especial não possuem o alcance normativo pretendido, a fim de desconstituir as conclusões do aresto impugnado, pois elas foram firmadas com base na interpretação sistemática do instituto da usucapião, dos princípios da saisine e da indivisibilidade da herança até a partilha, previstos pelos 1.784 e 1.791, caput e parágrafo único, do CC/2002, o que não foi rebatido especificamente pela parte.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017 e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 373, II, e 487, III, do CPC/2015 sob o enfoque pretendido pela recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A respeito do conteúdo normativo dos arts. 1.784 e 1.791, caput e parágrafo único, do CC/2002, dos princípios da saisine e da indivisibilidade da herança até a partilha, fundamentos suficientes para manter o acórdão recorrido, a parte não se manifestou.
+Assim, não estando impugnados fundamentos suficientes para manter o acórdão recorrido, aplicável a Súmula n. 283/STF, como óbice ao recurso.
+Além disso, dissentir das conclusões da Corte de origem, a fim de reconhecer a usucapião sobre o bem - nos moldes postulados na insurgência recursal -, exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Ademais, conforme jurisprudência consolidada desta Corte Superior, "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não que se colham novas conclusões sobre os elementos informativos do processo" (AgRg no AREsp n. 424.941/MS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2016, DJe de 7/6/2016) (AgInt no AREsp n. 1.076.850/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/8/2017, DJe 28/8/2017).
+No mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DO DIREITO DE DEFESA. PROVA PERICIAL INDEFERIDA. DIREITO CAMBIÁRIO. NOTA PROMISSÓRIA. ALEGAÇÃO DE NÃO PAGAMENTO EXTRACARTULAR. INCIDÊNCIA DA SÚMULA 7 DO STJ. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. POSSIBILIDADE. TÍTULO. NÃO CIRCULAÇÃO.
+(..)
+3. A valoração da prova em recurso especial pressupõe que tenha havido contrariedade a princípio ou norma legal pertinente ao campo probatório. Na hipótese de a questão situar-se no propósito de análise das circunstâncias fáticas que nortearam o acórdão recorrido ou na rediscussão dos depoimentos testemunhais, a questão ultrapassa a valoração da prova para assentar-se em novo exame da prova para reavaliá-la.
+4. Recurso especial conhecido em parte e desprovido.
+(REsp n. 1.367.403/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/6/2016, DJe 16/6/2016.)
+No caso, inexistiu a má valoração das provas imputada pela parte às instâncias de origem. Em verdade, sob a justificativa de valoração do conjunto fático-probatório dos autos, a recorrente pretendeu o reexame das premissas que ensejaram o indeferimento de pedido de usucapião extraordinária, o que não se admite.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Devido ao desprovimento do recurso, fica prejudicada a anál ise do pedido de efeito suspensivo à insurgência recursal.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
