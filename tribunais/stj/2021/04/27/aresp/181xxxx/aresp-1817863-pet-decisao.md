@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de petição apresentada pela REQUERENTE em face da decisão que não conheceu do agravo em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial.
+Em suas razões, sustenta a parte requerente, em síntese, que "a verba honorária fora arbitrada nas instâncias ordinárias no patamar de 20% (vinte por cento), consoante se depreende da r. sentença da instância de piso às fls. 102/106, corroborada pelo v. acórdão de fls.135/139 prolatada no Tribunal Bandeirante, sendo vedado portanto, por força do artigo 85 §11 do Código de Processo Civil, a fixação de honorários devidos ao advogado da parte vencedora, sobejar os respectivos limites estabelecidos nos §§ 2º e 3º do mesmo dispositivo legal para a fase de conhecimento" (fl. 194/195).
+É, no essencial, o relatório. Decido.
+O pedido não comporta acolhimento.
+De fato, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Assim também, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Todavia, cumpre ressaltar que os honorários recursais foram majorados em desfavor da parte Recorrente no importe de 15%, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Assim, considerando que os honorários advocatícios de sucumbência, fixados pelas instâncias ordinárias, alcançaram o teto máximo de 20% sobre o valor da causa, não há se falar em sua majoração ante a regra prevista na parte final do parágrafo 11 do art. 85 do CPC, que se reporta ao limite estabelecido no parágrafo 2º do mesmo dispositivo legal - 10% a 20% sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Assim, não há qualquer irregularidade sanável por meio do pedido ora formulado, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão combatida de erro material que autorizaria o seu deferimento.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
