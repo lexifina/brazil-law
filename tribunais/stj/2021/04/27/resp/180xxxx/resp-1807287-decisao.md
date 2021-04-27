@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por ORLANDO LUIZ DE SOUZA, com fulcro na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 189):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE COMPRA E VENDA DE IMÓVEL SENTENÇA DE PARCIAL PROCEDÊNCIA. INCONFORMISMO DAS PARTES. PRETENSA APLICAÇÃO DO CUB/SC PARA ATUALIZAÇÃO DAS PARCELAS DO FINANCIAMENTO. DESCABIMENTO. INDEXADOR MONETÁRIO APLICÁVEL APENAS NO PERÍODO DA EDIFICAÇÃO DO EMPREENDIMENTO. PRECEDENTES. MANUTENÇÃO DA SENTENÇA QUE DETERMINOU A INCIDÊNCIA DO INPC/IBGE APÓS O TÉRMINO DA OBRA E ENTREGA DO BEM. INSURGÊNCIA QUANTO À CORREÇÃO MONETÁRIA. ACOLHIMENTO. LEGALIDADE DA DISPOSIÇÃO CONTRATUAL QUE PREVÊ A PERIODICIDADE MENSAL INTELIGÊNCIA DO ART. 46 DA LEI N. 10.931/2004. PREQUESTIONAMENTO. DESNECESSIDADE. PRECEDENTES JURISPRUDENCIAÍS. SENTENÇA REFORMADA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS DE FORMA RECÍPROCA. RECURSO DO RÉU CONHECIDO E PROVIDO EM PARTE. RECURSO ADESIVO PREJUDICADO.
+Nas razões do recurso, alega o recorrente violação aos arts. 28, §§ 1º e 3º, III, da Lei 9.069/1965; e 86, parágrafo único, do CPC/2015.
+Sustenta que, nos contratos firmados após 1º de julho de 1994, a correção monetária deve ser calculada com base na periodicidade anual.
+Defende ser inviável o reajuste monetário mensal.
+Assevera a necessidade de redistribuição do ônus sucumbencial, visto que decaiu em parte mínima com o julgamento da demanda.
+Assim sendo, requer o provimento do apelo excepcional, a fim de sanar as violações apontadas.
+Contrarrazões às fls. 217-223 (e-STJ).
+Decisão de admissibilidade às fls. 225-228 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A primeira tese defendida pelo recorrente no recurso especial refere-se à impossibilidade de aplicação da correção monetária com incidênciamensal aos contratos celebrados após 1º de julho de 1994.
+Aduz serem aplicáveis ao caso em exame as normas inseridas na Lei 9.069/1965.
+O Tribunal de origem, ao analisar o tema, expôs os seguintes fundamentos (e-STJ, fls. 194-196):
+2 DA PERIODICIDADE DA CORREÇÃO MONETÁRIA
+O réu pretende a manutenção da incidência da correção monetária em periodicidade mensal, nos exatos termos do contrato de compra e venda firmado pelas partes.
+Ao introito, constata-se que a irresignação recursal merece guarida.
+O art. 46 da Lei n. 10.931/2004 (precedida da Medida Provisória n. 2.223/2001) preconiza que "Nos contratos de comercialização de imóveis, de financiamento imobiliário em geral e nos de arrendamento mercantil de imóveis, bem como nos títulos e valores mobiliários por eles originados, com prazo mínimo de trinta e seis meses, é admitida estipulação de cláusula de com periodicidade mensal, por índices de preços setoriais ou gerais ou pelo índice de remuneração básica dos depósitos de poupança.".
+Relativamente ao tema, insta trazer à baila o seguinte julgado exarado pela Corte Catarinense:
+APELAÇÕES CÍVEIS. AÇAO REVISIONAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CAPITALIZAÇÃO INDEVIDA. PREVISÃO DE JUROS REMUNERATÓRIOS MENSAIS PROGRESSIVOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. NULIDADE DAS CLÁUSULAS DE REAJUSTE MENSAL ART. 28 DA LEI 9.069/95. REPETIÇÃO, EM DOBRO, DOS VALORES PAGOS A MAIOR. RECURSO DA RÉ. VALIDADE DAS CLÁUSULAS DE REAJUSTE MENSAL. PACTO CELEBRADO APÓS A VIGÊNCIA DA MEDIDA PROVISÓRIA N. 2.223/01. INCIDÊNCIA DO ART. 46 DA LEI N. 10.931/04. REPETIÇÃO, EM DOBRO, DOS VALORES AFASTADA. REFORMA DA SENTENÇA. IMPROCEDÊNCIA DOS PEDIDOS. RECURSO DA AUTORA. PRECIPITADO JULGAMENTO ANTECIPADO DA LIDE. PROVA DOCUMENTAL ROBUSTA. NÃO INVERSÃO DO ÔNUS DA PROVA NA ORIGEM. PREJUÍZO Á DEMANDA. PLEITO RECHAÇADO. INVERSÃO NÃO AUTOMÁTICA. HIPOSSUFICIÊNCIA PARA PRODUÇÃO DE PROVAS NÃO DEMONSTRADA. CAPITALIZAÇÃO DE JUROS INDEVIDA. AFASTADA. PROGRESSÃO DE JUROS REMUNERATÓRIOS PREVISTA CONTRATUALMENTE. SÚMULAS 382 E 381, DO STJ. ÔNUS SUCUMBENCIAIS. INVERSÃO. REFORMA DA SENTENÇA. INVERSÃO. HONORÁRIOS RECURSAIS. NÃO OCORRÊNCIA. ENUNCIADO ADMINISTRATIVO N. 7, STJ. RECURSOS RECEBIDOS. PROVIMENTO DOS APELOS DA RÉ. NÃO PROVIMENTO DOS PEDIDOS DA AUTORA. (TJSC, Apelação Cível n. 0007897-58.2011.8.24.0064, de São José, rei. Des. Ricardo Fontes, Quinta Câmara de Direito Civil, j. 10-04-2018).
+O negócio jurídico foi celebrado pelas partes na data de 05-04-2005, e o aditivo em 05-12-2007, sendo convencionado o pagamento da parcela final do preço, mediante financiamento em 96 (noventa e seis) prestações mensais, com o primeiro vencimento em 05-01-2008 (fl. 25).
+Nesse aspecto, a obrigação contratual sub judice é legítima, pois a disciplina de reajuste mensal está em conformidade com o édito do art. 46 da Lei n. 10.931/2004 mencionado alhures.
+Por todo exposto, dá-se provimento ao apelo no ponto, para autorizar a incidência de correção monetária em periodicidade mensal.
+Consequentemente, insta determinar a redistribuição dos ônus sucumbenciais de forma recíproca, devendo cada parte arcar com o pagamento das custas processuais, no percentual de 50% (cinqüenta porcento); e honorários advocatícios, estes arbitrados na quantia de R$ 6.000,00 (seis mil reais) em favor de cada patrono, vedada a compensação, com fulcro no art. 85, §§ 8o e 14, c/c art. 86, caput, do CPC/2015.
+Do trecho acima transcrito, depreende-se que a Corte estadual entendeu que,diante da existência de previsão contratual, seria possívela incidência mensal da correção monetária ao contrato cuja celebração ocorreu em 05/04/2005.
+Todavia, a jurisprudência deste Tribunal Superior é iterativa no sentido de que "os contratos que tem por objeto obrigação pecuniária firmados após 1º de julho de 1994, ou seja, sob a regência do Plano Real, somente podem ser corrigidos com periodicidade anual" (AgRg no AgRg no AREsp 738.840/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2015, DJe 01/02/2016).
+Na mesma linha, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECEBIMENTO COMO AGRAVO REGIMENTAL. EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. PERIODICIDADE INFERIOR A 1 (UM) ANO. NÃO CABIMENTO.
+1. Embargos de declaração recebidos como agravo regimental.
+2. O Superior Tribunal de Justiça entende que, embora a correção monetária não seja um plus, mas mero instrumento de recomposição da desvalorização da moeda, é incabível sua observância nos contratos com periodicidade inferior a 1 (um) ano, desde a implantação do Real, por força do art. 28 da Lei nº 9.069/1995.
+3. Agravo regimental não provido.
+(EDcl no AgRg no Ag 1347640/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 10/05/2016 - sem grifo no original)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. RESÍDUO INFLACIONÁRIO. PERIODICIDADE MENSAL. IMPOSSIBILIDADE. PRECEDENTES. RAZÕES DO AGRAVO REGIMENTAL DISSOCIADAS DA
+FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. INÉPCIA.
+1. A decisão agravada afirmou claramente que a jurisprudência desta Corte admite a cobrança do resíduo inflacionário na forma anual, e não na forma mensal. Assim, como o Tribunal local decidiu que "não se pode admitir a cobrança de resíduo inflacionário mensalmente, como estabelece o artigo 28 da Lei 9.069/95, sob pena de ser considerada abusiva  a cláusula ", negou-se provimento ao recurso especial, visto que tal decisão está em conformidade com o entendimento do STJ.
+(..)
+(AgRg no REsp 1.186.761/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/6/2013, DJe 10/6/2013)
+No caso em exame, a relação jurídica originou-se de contrato de compra e venda de imóvel celebrado em 05/04/2005.
+Nesse ínterim, o Tribunal estadual, ao permitir a tarifação anual do índice de correção monetária, aplicou entendimento divergente da jurisprudência desta Corte Superior.
+Noutro ponto, no tocante à readequação da sucumbência, defende o recorrente ter ocorrido desproporcionalidade nos valores fixados, pois decaiu em parte mínima.
+A Corte local, ao avaliar a distribuição do ônus sucumbencial, expôs os seguintes fundamentos (e-STJ, fls. 195-196):
+Por todo exposto, dá-se provimento ao apelo no ponto, para autorizar a incidência de correção monetária em periodicidade mensal.
+Consequentemente, insta determinar a redistribuição dos ônus sucumbenciais de forma recíproca, devendo cada parte arcar com o pagamento das custas processuais, no percentual de 50% (cinqüenta por cento); e honorários advocatícios, estes arbitrados na quantia de R$ 6.000,00 (seis mil reais) em favor de cada patrono, vedada a compensação, com fulcro no art. 85, §§ 8ºe 14, c/c art. 86, caput, do CPC/2015.
+Entretanto, com o julgamento do presente recurso especial, constata-se que o insurgente logrou êxito na totalidade dos pedidos formulados na ação, já que reformado o acórdão impugnado quanto à periodicidade da correção monetária.
+Dessa forma, constatada a sucumbência integral da parte recorrida,nos termos do art. 86, parágrafo único, do CPC/2015, deve ser a ela atribuída a responsabilidade pelo pagamentos das despesas processuais.
+Ante o exposto, dou provimento ao recurso especial, a fim de, reformando o acórdão impugnado, determinar que a correção monetária do saldo residual do contrato de compra tenha periodicidade anual e quearesponsabilidade pelo pagamento dos honorários sucumbenciais seja repassada integralmente à recorrida.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. REVISÃO. CORREÇÃO MONETÁRIA.CONTRATO CELEBRADO APÓS 1º DE JULHO DE 1994. INCIDÊNCIA ANUAL. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. RESPONSABILIDADE INTEGRAL DA RECORRIDA.RECURSO ESPECIAL PROVIDO.
