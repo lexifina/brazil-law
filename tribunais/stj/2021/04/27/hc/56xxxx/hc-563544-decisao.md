@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS DE REZENDE AMARANTE apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 7001164-52.2019.8.26.0344).
+Narra o impetrante que o paciente teve deferido o benefício da progressão aoregime semiaberto, visto que preenchidos os requisitos de ordem objetiva e subjetiva.
+Irresignado, o Ministério Público estadual interpôs recurso de agravo em execução no Tribunal de origem buscando a regressão do paciente ao regime fechado e a sua submissão ao exame criminológico.
+Em sessão de julgamento realizada no dia 28 de novembro de 2019, a 10ª Câmara de Direito Criminal deu provimento ao agravo em execução para cassar a decisão que havia deferido a progressão de regime e para determinar a submissão do sentenciado ao exame criminológico em acórdão ementado nos seguintes termos (e-STJ fl. 16):
+AGRAVO EM EXECUÇÃO - DEFERIMENTO DE PROGRESSÃO PARA O REGIME SEMIABERTO - REQUISITO SUBJETIVO NÃO DEMONSTRADO - NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA INSTRUÇÃO DE NOVO PEDIDO DE PROGRESSÃO, NOS TERMOS DA SÚMULA 439 DO COL. STJ - RECURSO MINISTERIAL PROVIDO, COM DETERMINAÇÃO.
+No presente writ, a Defensoria Pública do Estado de São Paulo afirma que, "se o Juízo das Execuções Criminais, que mantém relação próxima e ciente dos acontecimentos da vida carcerária dos reeducandos sob sua jurisdição, entendeu satisfeitos os requisitos legais, inclusive nada obstando quanto o mérito, não há que se modificar decisão que se pautou nos estritos ditames legais, seja da Lei n. 7.210/84 ou da Lei" (e-STJ fl. 5).
+Acrescenta que "o pedido de progressão que fora deferido pelo Juízo da Vara das Execuções Criminais está devidamente instruído com o ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO do PACIENTE, restando, deste modo, comprovado os requisitos do artigo 112 da LEP, não podendo ser referida progressão negada apenas sob os argumentos de que o PACIENTE ostenta longa pena a cumprir e que os crimes por ele praticados são graves" (e-STJ fl. 11).
+Por isso, requer o deferimento da liminar a fim de sustar a submissão do paciente ao regime de pena mais gravoso.
+No mérito, postula a concessão da ordem "para que a decisão monocrática concessiva da progressão de regime seja mantida pelos seus próprios fundamentos, CASSANDO acórdão do TRIBUNAL-COATOR que proferiu decisão contrária a legislação atual e a jurisprudência superior dominante, importando ao PACIENTE manifesto constrangimento ilegal à liberdade de locomoção, obstruindo o cumprimento progressivo da pena conforme preceitua a Lei de Execução Penal" (e-STJ fl. 12).
+Opedido liminar foi indeferido (e-STJ fls. 23/26).
+Foram prestadas as informações (e-STJ fls. 33/40 e 41/46).
+O Ministério Público Federal, ao se manifestar, opinou "pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem"(e-STJ fl. 55).
+É, em síntese, o relatório.
+Depreende-se dos autos que o presentehabeas corpusimpugna o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do Agravo de Execução Penal n. 7001164-52.2019.8.26.0344 (e-STJ fls. 15/19), tendo sido distribuído a este relator em 27/2/2020(e-STJ fl. 22).
+Ocorre que a causa de pedir e o pedido desta impetraçãosão idênticos aos doHabeas Corpusn. 554.814/SP, impetrado nesta Corte e atribuído a este relator no dia 23/12/2019, que igualmente impugna o mesmo acórdão prolatado no Agravo de Execução Penaln. 7001164-52.2019.8.26.0344 pelo Tribunal de Justiça do Estado de São Paulo.
+Dessa forma, diante da constatação de que este remédio constitucionalé mera reiteração do HC n. 554.814/SP,dele não conheço.
+Publique-se. Intimem-se.
