@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por RADJALMA COSTA E OUTROS,emface de v. acórdão prolatado pela col. QuartaTurma desta eg. Corte,darelatoria do em. Ministro Maria Isabel Gallotti, assimementado (fls. 345 - 346):
+"AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+1. O Tribunal de origem, não obstante a rejeição dos embargos de declaração, dirimiu de modo fundamentado e claro a controvérsia. O acórdão recorrido não é omisso, obscuro ou contraditório, nem contém erro material.
+2. A correção monetária de débitos judiciais deve seguir os preceitos da Lei 6.899/1981 e não os índices da caderneta de poupança. Precedentes.
+3. A coisa julgada impede que os juros remuneratórios, não previstos no título exequendo, sejam objeto da execução. Precedentes.
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento."
+Opostos embargos de declaração (fls.370 - 383) estes foram rejeitados (fls. 390 - 414).
+Asseveram queo acórdão embargado proferiu entendimento no sentido de afastar"a inclusão dos juros remuneratórios legais nos cálculos de atualização integral dos saldos de poupança, a partir de 1º/2/1989 e atéa data do efetivo pagamento, sob o fundamento ofensa à coisajulgada", divergindo do entendimento emanadonoparadigma daCorte Especial nos autos do REsp 1.112.524/DF, de relatoria do em. Ministro Luiz Fux, que"sufraga a tese jurídica de que os juros remuneratórios legais, a exemplo dos juros remuneratórios dos depósitos de poupança, se inserem no conceito de matéria de ordem pública e não se sujeita ao instituto da coisa julgada, sendo, portanto, lícitaainclusão nos cálculos de liquidação".
+Aduz, ainda, que o v. acórdão embargado "assume a tese de que os juros remuneratórios dos depósitos de poupança teriam natureza contratual", cujo entendimento é dissonante com o proferido noparadigma daPrimeira Seçãonos autos do REsp 1.003.955/RS e do REsp 1.028.592/RS, ambos de relatoria daem. Ministra Eliana Calmonque"assentou, em caso similar, o entendimento de que os juros remuneratórios fixados em lei, a exemplo dos juros remuneratórios dos depósitos de poupança, devem incidir sobre diferenças a menor apuradas - no caso concreto expurgos do PlanoVerão e planos econômicos subsequentes - desde a data do evento até o efetivo pagamento, sob pena de enriquecimento sem causa da parte embargada e violação aos princípio constitucionais da isonomia e da legalidade (CF,art.5º, caput e II) e ao direito de propriedade (CF, art.5º,XXII)."
+Requer, ao final, seja conhecido e provido o presente recurso.
+É o relatório.
+Decido.
+Convém destacar tratar-se definitivamente de hipótesede indeferimento liminardos Embargos de Divergência, diante da incidênciaao caso daSúmula 168 desta Corte.
+Analisando a questio, verifica-se que o acórdão ora vergastado esta em consonância com o entendimento desta Corte Superior de Justiça no sentido de que descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa,situação que ocorreu na espécie dos autos.
+Colaciono precedentes nesse sentido:
+"DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART.543-C DO CPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). EXECUÇÃO INDIVIDUAL. INCLUSÃO DE JUROS REMUNERATÓRIOS. OMISSÃO DO TÍTULO.
+1. Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989), descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento.
+2. Recurso especial provido."(REsp 1372688/SP, Segunda Seção,Rel. Ministro Luis Felipe Salomão, julgado em 27/05/2015, DJe 25/08/2015)
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. JUROS REMUNERATÓRIOS NÃO FIXADOS EM SENTENÇA. INCLUSÃO NA FASE DE LIQUIDAÇÃO. OFENSA À COISA JULGADA. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1 - Segundo orientação fixada por este Superior Tribunal, diversamente do que sucede com os juros moratórios (Súmula nº 254/STF), ofende a coisa julgada a inclusão, em fase de liquidação, de juro remuneratório não expressamente fixado em sentença.
+Precedentes da Segunda Seção do STJ.
+2 - Agravo regimental a que se nega provimento."(AgRg no Ag 1339464/RJ, Quarta Turma, Rel. Ministra Maria Isabel Gallotti,julgado em 20/10/2011, DJe 28/10/2011)
+ADMINISTRATIVO - INCLUSÃO DE OFÍCIO DE JUROS REMUNERATÓRIOS EM CADERNETA DE POUPANÇA - INEXISTÊNCIA DE PEDIDO DA PARTE - IMPOSSIBILIDADE.
+1. Esta Corte, no julgamento de recursos especiais em que se discutia a possibilidade de inclusão de ofício de juros remuneratórios somente em fase de execução de sentença transitada em julgado, entendeu pela impossibilidade de sua concessão, em respeito à coisa julgada.
+2. Raciocínio que se aplica à presente hipótese, em que em apelação a instância de origem determinou a inclusão dos juros remuneratórios na composição da caderneta de poupança, sem que ela tivesse sido determinada pela sentença ou pleiteada na petição inicial.
+3. Os juros remuneratórios não decorrem da correção monetária, mas dependem de expressa previsão do título judicial, bem como de pedido da parte, não havendo como eles serem deferidos de ofício.
+4. Recurso especial provido.(REsp 1123036/RS, Segunda Turma, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 03/11/2009, DJe 17/11/2009)
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Por fim, determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, e ressalvada a eventual concessão da gratuidade da justiça.
+P. e I.
