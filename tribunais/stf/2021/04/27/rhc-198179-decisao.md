@@ -1,0 +1,25 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Receptação. Dosimetria da pena. Fatos e provas. Substituição da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A existência de condenação anterior geradora de reincidência, também por delito patrimonial, e a motivação de que o réu foi beneficiado anteriormente com a substituição da pena e, ainda assim, praticou novo crime, evidenciam que a medida não se mostra socialmente recomendável, nos termos do art. 44, II e III, do CP.
+    2. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 1 ano de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 180 do Código Penal. A defesa interpôs recurso de apelação, ao qual o Tribunal estadual negou provimento.
+    3. Na sequência, foi impetrado habeas corpus no STJ. O Relator do HC 625.991, Min. Rogerio Schietti Cruz, denegou a ordem liminarmente. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa afirma que “a jurisprudência dos Tribunais Superiores garante até mesmo ao réu reincidente genérico a substituição da pena, ou seja, salvo o caso de reincidência específica, é possível a concessão de tal benesse. Portanto, não há que se falar em similitude entre os crimes praticados pelo réu, visto que se tratam de crimes diferentes, quais sejam, furto e receptação”. Requer “a substituição da pena privativa de liberdade por multa ou por uma restritiva de direitos, na forma do art. 44, §2º e § 3º, do Código Penal, uma vez que o r. acórdão contraria, data vênia, a jurisprudência deste e. STF”.
+    5. Decido.
+    6. O recurso ordinário não deve ser provido.
+    7. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível em habeas corpus a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    8. Tal como consta no parecer do Ministério Público Federal, “a decisão de indeferimento da substituição da pena mantida pelo Superior Tribunal de Justiça foi devidamente fundamentada não apenas no fato de que o réu já havia praticado crime contra o patrimônio anteriormente, mas na circunstância de já haver sido beneficiado com a medida social e, ainda assim, ter voltado a delinquir, pelo que não preenchidos os requisitos cumulativos dos incisos II e III do art. 44, do CP”. Veja-se a seguinte passagem do voto condutor do acórdão proferido pelo STJ:
+    “[...]
+    A decisão impugnada foi clara ao concluir pela impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos, ante a existência de fundamentos que demonstram não ser a medida socialmente recomendável. Confira-se (fl. 368):
+    No caso, constato que a substituição não se revela recomendável ao caso concreto e a fundamentação apresentada pela instância antecedente é idônea. A condenação anterior, embora não seja por idêntico crime de receptação, diz respeito também à crime patrimonial, furto duplamente qualificado. Ademais, como bem ficou registrado no acórdão impugnado, na referida condenação, o réu foi beneficiado com a substituição da pena e, ainda assim, praticou novo crime, o que igualmente afasta a ideia de que a medida é socialmente recomendável.
+    […].”
+    9. Ainda: “Embora não se trate de reincidência específica, a substituição da reprimenda é apenas uma possibilidade colocada à disposição do magistrado sentenciante, se assim o caso recomendar, e não um direito subjetivo do condenado, tal como dispõe o § 3º do art. 44 do Código Penal” (HC 183.177-AgR, Rel. Min. Ricardo Lewandowski).
+    10. Por fim, ressalto que a “orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que as particularidades do caso concreto apuradas pelas instâncias ordinárias, que levam à conclusão de não ser a substituição da pena socialmente recomendável, constituem fundamentação idônea para o afastamento da medida, em consonância com o § 3º do art. 44 do CP. Precedentes.” (HC 176.837-AgR, de minha relatoria).
+    11. Nessas condições, não verifico situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    12. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+          Brasília, 27 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
