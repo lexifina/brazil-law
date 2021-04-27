@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTO VÁLIDO. QUANTIDADE CONSIDERÁVEL DE DROGAS.
+1. Consta do decreto prisional fundamentação idônea, ressaltando que a quantidade de droga apreendida evidencia a gravidade em concreto da conduta, tratando-se de 55g de maconha, 582g de crack e 1ml de lança-perfume (fl. 27), além de o recorrente estar mantendo sua companheira em cárcere privado.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Trata-se de agravo regimental interposto em face da decisão de fls. 193-195 que negou provimento ao recurso em habeas corpus.
+O agravante sustenta que "o E. TJSP baseou-se, para negar a soltura do jovem paciente, exclusivamente, na gravidade abstrata do delito. Não abordou, em sua decisão, nenhum dos requisitos do art. 312 do CPP, que cuida da prisão preventiva, inclusive com fundamentação ilegal e arbitrária de que, por se tratar de delito de tráfico de drogas, não se admite a concessão de liberdade provisória".
+Argumenta ainda que "a concessão da ordem em Habeas Corpus ora impetrado é medida que se impõe, a fim de que o paciente possa responder ao processo em liberdade, pois não está preso por outro motivo, e o caso em tele se adequa perfeitamente à concessão do status libertatis impondo, ainda, medidas cautelares diversas da prisão, nos termos do artigo 319 do CPP, podendo ser fixada uma ou mais medidas cautelares, inclusive monitoração eletrônica".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Consta dos autos que o agravante foi denunciado pela prática do crime tipificado no art. 33 da Lei 11.343/2006 e 148, § 1º, I, do CP.
+Ele alega, em síntese, que não estão configurados os crimes imputados e não se caracterizou situação apta a permitir prisão em flagrante, bem como que a fundamentação para decretação da prisão não é adequada, buscando a revogação da custódia.
+A decisão agravada foi assim fundamentada (fls. 193-195):
+ ..
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva, bem como a atipicidade da conduta. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Além disso, as irregularidades do flagrante apontadas encontram-se superadas, ante a conversão da prisão em flagrante em preventiva, porque esta configura novo título, conforme entendimento pacífico desta Corte Superior.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+O decreto de prisão preventiva foi assim fundamentado (fls. 64/65):
+ ..
+As circunstâncias da infração justificam a conversão da prisão em flagrante em prisão preventiva. Além da gravidade da conduta do agente relacionada ao cárcere privado de sua companheira, consta que foi encontrada grande quantidade de drogas escondida no veículo indicado pela vítima aos policiais, que estava estacionado na via pública e supostamente pertence ao autuado, de modo que a prisão cautelar se faz necessária para garantia da ordem pública, evitando-se a reiteração da prática delituosa.
+Segundo a nova sistemática processual, a prisão preventiva é subsidiária às demais medidas cautelares. Contudo, há casos cm que o fato concreto determina que seja diretamente aplicada a prisão cautelar. pois as medidas diversas da prisão são inadequadas ou insuficientes. No presente caso, a aplicação da prisão cautelar é de rigor, nos termos do art.
+310, II do Código de Processo Penal, pois presentes os requisitos estabelecidos no art. 312 do C.P.P., e insuficientes às medidas cautelares diversas da prisão.
+Cumpre destacar que a existência da pandemia do coronavírus não impede a prisão cautelar, cabendo ao CDP a análise de eventual sintoma no indiciado.
+Ante o exposto, decreto a prisão preventiva do autuado. Expeça-se o mandado de prisão preventiva.  ..
+Como já adiantado no exame da liminar, consta do decreto prisional fundamentação deve ser considerada idônea, ressaltando que a quantidade de droga apreendida evidencia a gravidade em concreto da conduta, tratando-se de 55g de maconha, 582g de crack e 1ml de lança-perfume (fl. 27), além de o recorrente estar mantendo sua companheira em cárcere privado.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+Não se verifica necessidade de reformar a decisão agravada, porque consta do decreto prisional fundamentação idônea, ressaltando que a quantidade de droga apreendida evidencia a gravidade em concreto da conduta, tratando-se de 55g de maconha, 582g de crack e 1ml de lança-perfume (fl. 27), além de o recorrente estar mantendo sua companheira em cárcere privado.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ante o exposto, voto por negar provimento ao agravo regimental.
