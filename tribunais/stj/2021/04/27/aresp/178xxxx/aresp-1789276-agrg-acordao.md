@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E RECEPTAÇÃO. SÚMULAS 83/STJ E 284/STF. AUSÊNCIA DE OBSERVÂNCIA ÀS NORMAS LEGAIS E REGIMENTAIS PARA DEMONSTRAÇÃO DA DIVERGÊNCIA PRETORIANA.FUNDAMENTOS DO JUÍZO DE ADMISSIBILIDADE NÃO ATACADOS NO ARESP.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência dasSúmulas 83/STJ e 284/STF, além de não tecer qualquer consideração quanto àausência de observância das normas legais e regimentais para a demonstração do dissenso pretoriano.
+Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO FELIX FISCHER:Trata-se de agravo regimental interposto por LEANDRO CHAGAS PEREIRA, contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 208-209).
+Informam os autos que oagravante foi condenado pela prática dosdelitos previstos no art. 180 do CP eart. 16, parágrafo único, inc. IV, da Lei n. 10.826/2003,quando o Juízo da execução criminal homologou o cálculo das penas considerando o crime previsto no estatuto do desarmamento, como sendo de natureza hedionda, ensejando a interposição de agravo pela defesa.
+O Tribunal de Justiçado Estado de São Paulo negou provimento ao agravo em execução manejado pela defesa, mantendo a decisão do Juízo primevo.
+Opostos embargos de declaração, estes foram rejeitados (fls. 125-128).
+O recurso especial foi interposto com base nas alíneas a e c do permissivo constitucional,para reconhecimento da ilegalidade de considerar a equiparação de crime hediondo da conduta de portar arma de fogo de uso permitido com a numeração suprimida, na medida em que somente o porte de arma de fogo de uso restritopode ser considerado hediondo sem, contudo, indicar qualquer dispositivo de lei federal supostamente violado.
+Contudo, sua inadmissão se fez à consideração de que:i) na incidência da Súmula 284/STF, ante a deficiência de fundamentação do recurso; ii) na ausência de observância das normas legais e regimentais para a demonstração do dissenso pretoriano;iii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não comprovada a capacidade postulatória do subscritor, porquanto somente foi juntado aos autos substabelecimento outorgado ao mesmo sem, contudo, a procuração originária.
+No agravo regimental, o agravante repisa os argumentos anteriormente apresentados no recurso especial, insistindo nas mesmas teses, notadamente porque o advogado que substabeleceu os poderes ao subscritor da presente irresignação foi nomeado na forma do art. 226 do CPP, por ocasião do interrogatório do agravante durante a ação penal.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por força de determinação da Presidência deste Tribunal (fl. 239), a defesa complementou as razões do presente inconformismo, às fls. 242-246, repisando os fundamentos quanto à necessária admissão do apelo raro.
+Instado a se manifestar, o Ministério Público Federal pugnou pelo desprovimento do agravo regimental (fls. 257-260).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E RECEPTAÇÃO. SÚMULAS 83/STJ E 284/STF. AUSÊNCIA DE OBSERVÂNCIA ÀS NORMAS LEGAIS E REGIMENTAIS PARA DEMONSTRAÇÃO DA DIVERGÊNCIA PRETORIANA.FUNDAMENTOS DO JUÍZO DE ADMISSIBILIDADE NÃO ATACADOS NO ARESP.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência dasSúmulas 83/STJ e 284/STF, além de não tecer qualquer consideração quanto àausência de observância das normas legais e regimentais para a demonstração do dissenso pretoriano.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SENHOR MINISTRO FELIX FISCHER: A irresignação não prospera, por outro fundamento, contudo.
+Com efeito, verifica-se da leitura do agravo em recurso especial interposto contra a decisão que não admitiu o apelo raro interposto, a ausência de impugnação adequada e específica aos fundamentos da decisão agravada, fundada:i) na incidência da Súmula 284/STF, ante a deficiência de fundamentação do recurso; ii) na ausência de observância das normas legais e regimentais para a demonstração do dissenso pretoriano; iii) na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Digo, nas razões de fls. 157-169, a defesa se limitou, além de repisar os fundamentos do apelo raro não admitido, a tecer as seguintes considerações, in verbis (fls. 162-163):
+"I - DA FUNDAMENTAÇÃO NECESSÁRIA
+A EGRÉGIA PRESIDÊNCIA, em que pese o brilhantismo da sentençaora combatida, decidiu pela ausência da fundamentação necessáriaquando da análise do Recurso Especial apresentado pelo oraAgravante, ao sugerir que o Agravante teria se referido, naoportunidade, de forma genérica à Lei 11.497.2017, não indicandocom clareza e precisão os dispositivos que teriam sido violados.Tal entendimento é totalmente contrário à fundamentaçãoapresentada no Recurso Especial, visto que corretamente apontada acontrariedade na aplicação do entendimento da Colenda Presidênciano enquadramento da normal penal em branco, visto que Estatuto doDesarmamento (Lei 10.826/03), em seu artigo 16, caput, pune APENASa conduta de possuir ou portar armas de fogo de uso proibido ourestrito, argumento anteriormente apresentado em fls. 98-103."
+No caso, deveria o agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, e ainda, demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Outrossim, não teceu qualquer consideração quanto ao óbice da ausência de observância aos requisitos legais e regimentais para a demonstração do dissenso pretoriano, sendo insuficiente a impugnação ao óbice da Súmula 284/STF, porquantoo agravante, em uma breve explanação, apenas limitou-se a dizer que a fundamentação apresentada no recurso especial era clara e válida, e por isso afastaria a incidência da Súmula 284/STF.
+Não basta deduzir a inaplicabilidade doóbicesumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017)
+Ademais, no que diz respeito à impugnação da aplicação do óbice da Súmula 83/STJ:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017)
+Assim, a decisão agravada deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
