@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEX DIAS DA SILVA contra acórdão proferido pelo TJPB assim ementado (e-STJ fls. 311/312):
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA ANTECIPADA. PROCEDÊNCIA DO PEDIDO. INCONFORMISMO DA PARTE PROMOVIDA. ACERVO PROBATÓRIO. COBRANÇA INDEVIDA. DEMONSTRAÇÃO. NEGATIVAÇÃO DO NOME DA PARTE AUTORA NO CADASTRO RESTRITIVO DE CRÉDITO. AUSÊNCIA DE PROVA. CONDUTA ILÍCITA PRATICADA PELA RÉ. NÃO DEMONSTRAÇÃO. DANO MORAL.NÃO CONFIGURAÇÃO. MERO ABORRECIMENTO. DEVER DE INDENIZAR.INEXISTENTE. MODIFICAÇÃO DO DECISUM. PROVIMENTO.
+- A ocorrência de dano moral está condicionada a existência de dor, constrangimento e humilhação intensos que fujam à normalidade, interferindo profundamente na atuação psicológica do ser humano, sendo certo que não é todo incômodo experimentado no cotidiano que desafia o dever de reparação.
+- Cobranças indevidas, quando não acompanhada de fato capaz de repercutir profundamente no patrimônio psíquico do consumidor, é insuficiente para caracterizar ofensa moral indenizável, porquanto configura meros aborrecimentos e transtornos do cotidiano, devendo assim ser provido o apelo e afastado o dano moral reconhecido na origem.
+Nas razões do recurso especial (e-STJ fls. 327/334), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alega ofensa aos arts. 186 e 927 do CC/2002, pois foi cobradapor uma dívida que não era sua, uma vez que não mantinha relação contratual com a parte contrária, tendo inclusive recebido notificação do SERASA. Menciona precedente.
+Juízo de admissibilidade positivo (e-STJ fls. 371/374).
+É o relatório.
+Decido.
+Sobre a ocorrência de dano indenizável, os julgadores da origem reconheceram (e-STJ fl. 314):
+Com efeito, em que pese a argumentação traçada pelo demandante, entendo que cobrança imprópria, por si só, quando não acompanhada de fato capaz de repercutir negativamente no patrimônio psíquico do consumidor, é insuficiente para configurar ofensa indenizável, caracterizando-se, portanto, mero aborrecimento cotidiano.
+Com efeito, "a mera cobrança indevida de valores não gera, por si só, ou seja, quando desacompanhada de restrição do crédito, dano moral indenizável, consoante a reiterada jurisprudência desta Corte Superior"(AgInt no AREsp 1628556/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2021, DJe 23/03/2021). Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. COBRANÇA INDEVIDA. MERO ABORRECIMENTO. DANO MORAL INEXISTENTE. REEXAME DE PROVAS. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, não há falar em dano moral in re ipsa em virtude de cobrança indevida, quando inexistente ato restritivo de crédito ou inscrição em cadastro de inadimplentes. Precedentes.
+2. Na hipótese, o Tribunal de origem reconheceu que a cobrança efetuada pela recorrida, ainda que indevida, não causou ao autor mais do que meros aborrecimentos da vida cotidiana, pois não houve inscrição indevida em cadastro de inadimplentes nem dificuldade para a celebração de outros negócios jurídicos. A modificação de tal entendimento demandaria o reexame do suporte fático-probatório dos autos, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.689.624/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SERVIÇO DE TELECOMUNICAÇÕES. 1. COBRANÇA INDEVIDA, SEM INSCRIÇÃO DO CONSUMIDOR EM CADASTRO DE INADIMPLENTES. NÃO CONFIGURAÇÃO DO DANO MORAL IN RE IPSA. 2. COMPROVAÇÃO DA OCORRÊNCIA DE DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. 4. AGRAVO INTERNO IMPROVIDO.
+1. Quando não há inscrição em cadastro de inadimplentes, a mera cobrança após a solicitação de cancelamento do serviço não gera presunção de dano moral, sendo imprescindível a comprovação de constrangimento ou abalo psicológico suficiente para ensejar indenização.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior. 3. A análise da existência do dissídio jurisprudencial suscitado é inviável, tendo em vista que os acórdãos paradigmas não guardam a necessária similitude fática com o aresto recorrido, conforme exigem os arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.153.364/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+Incidência da Súmula n. 83/STJ.
+Ademais, tendo o Tribunal de origem se baseado em elementos de prova para conlcuir pela existênciaapenasde cobrança indevida, ultrapassar esse entendimento demandaria seu reexame, inviável nesta sede,conforme a Súmula n. 7/STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
