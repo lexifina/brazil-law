@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor deJORGE LUIS DA SILVA CAMPOS contra decisão monocráticaproferida pelo Desembargador doTribunal de Justiça do Estado de São Paulo, Relator do HC n. 2083891-50.2021.8.26.0000.
+Conta dos autos que o ora o paciente foi preso em flagrante delito, no dia 29/3/2020, pela suposta prática do crime previsto no art. 33, caput, da Lei n.º 11.343/2006, sendo que aludida prisão foi convertida em preventiva.
+Irresignada com a demora para a conclusão do feito, a defesa impetrou habeas corpus, com pedido de liminar,perante a Corte estadual. O Desembargador Relator indeferiu o referido pleito liminar.
+A defesa, nesta oportunidade, reafirma estar caracterizado o constrangimento ilegal por excesso de prazo na formação da culpa.
+Afirma que o paciente está segregado há mais de 1 ano e a audiência de instrução, debates e julgamento que teve início nodia 24 de março de 2021 nãoencerrou a instrução probatória porque o juízo se esqueceu de intimar uma testemunha, havendo redesignação apenas para 14/5/2021.
+Destaca que ação não guarda complexidade que justifique a morosidade em sua tramitação.
+Diante disso, pugna, liminarmente e no mérito, pelarevogação do decreto prisional, com aplicação de medidas cautelares diversas.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a Tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Depreende-se dos autos que a ação penal originária já está com audiência para a continuidade dainstrução designada para data próxima e conta com 5 acusados.
+Vale ainda ponderar que aConstituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Assim, necessário lembrar queeventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, consideradas as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+No caso, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido. Recomendo, entretanto, ao Juízo processante, que revise a necessidade da manutenção da prisão, nos termos do que determina o art. 316 do Código de Processo Penal, com as alterações promovidas pela Lei n. 13.964/2019, e que imprima celeridade no encerramento da ação penal.
+Intimem-se.
