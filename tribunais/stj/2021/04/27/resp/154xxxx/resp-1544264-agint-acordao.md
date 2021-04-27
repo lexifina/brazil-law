@@ -1,0 +1,107 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar,especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Como explica ARRUDA ALVIM, "importa ao órgão ad quem saber exatamente os motivos pelos quais as razões da decisão recorrida não são adequadas.Isto é, não basta a manifestação da voluntariedade da insurgência, é fundamental que, aliada à voluntariedade, exista a dialeticidade da irresignação, mediante discurso argumentativo contra a decisão, alinhando as razões de fato e de direito pelas quais entende que a decisão está errada.." (Manual de direito processual civil. 18. ed. São Paulo: ThomsonReuters, 2019, p. 1208).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA à decisão de minha relatoria, assim fundamentada (fls. 1.469/1.476):
+Trata-se de recurso especial interposto pela FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4a Região, assim ementado (fl. 1.217):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. ANUÊNIOS. PRESCRIÇÃO. PRAZO. ACORDO ADMINISTRATIVO. NÃO COMPROVAÇÃO. BASE DE CÁLCULO. JUROS DE MORA. COISA JULGADA. HONORÁRIOS ADVOCATÍCIOS.
+1. O prazo de prescrição da pretensão executória contra a Fazenda Pública é de cinco anos, a contar do trânsito em julgado da sentença condenatória, em conformidade com o disposto no art. 1º do Decreto 20.910/32 e na Súmula 150 do STF.
+2. Não demonstrada a existência de acordo administrativo firmado pelos exequentes, não há falar na limitação dos cálculos em agosto de 1994.
+3. Por não integrarem o vencimento do servidor, a gratificação natalina e o adicional de férias não podem ser incluídos na base de cálculo dos anuênios.
+4. Tendo a Administração estendido o direito ao reajuste de 28,86% a todos os servidores públicos, civis e militares (MP nº 1.704/98), as diferenças de vencimento daí decorrentes, apuradas compensando-se os acréscimos concedidos pelas Leis 8.622/93 e8.627/93, devem ser incluídas na base de cálculo dos anuênios.
+5. Tendo o título exequendo, formado já na vigência da MP 2.180-35/2001,determinado a incidência de juros de 1% ao mês, tem-se por afastada a aplicação daquele diploma legal, não havendo falar na sua observância em sede de execução, sob pena de ofensa à coisa julgada.
+6. Tendo a parte embargada sucumbido em parcela mínima do pedido, cabe à embargante arcar com o pagamento dos honorários advocatícios, nos termos do art. 21, parágrafo único, do CPC.
+A esse acórdão foram opostos embargos de declaração, os quais restaram parcialmente acolhidos, sem efeitos infringentes (fls. 1.259/1.268).
+Sustenta a parte recorrente, em preliminar, violação ao art. 535, I e II, do CPC/1973, ao argumento de que a despeito da oposição de embargos declaratórios, deixou o Tribunal de origem de se manifestar acerca das seguintes questões, essenciais para o deslinde da controvérsia: "(a) a impossibilidade de se alegar a MP 2180-35/2001 no processo de conhecimento; (b) a presunção de legitimidade e de veracidade dos atos administrativos, razão pela qual as fichas financeiras e certidão acostadas seriam suficientes para comprovar os pagamentos suscitados; (c) não haver qualquer previsão da incidência do aludido índice de 28,86%sobrda quanto à prescrição; (e) violação do art. 67 da Lei 8112/90" (fl. 1.312)e anuênios recompostos, pelo que se teria violação à coisa julgada; (d) premissa equivoca
+No mérito, aponta contrariedade aos seguintes dispositivos legais:
+(i) arts. 467, 468, 471, I e II, 474 e 741, V e VI, todos do CPC/1973, uma vez que "não há qualquer previsão da incidência do aludido índice de 28,86% sobre anuênios recompostos", sendo certo, ademais, que "a inclusão de parcela indevida na execução necessariamente conduz à ocorrência de erro material" (fl. 1.314);
+(ii) arts. 26, §4º, da Lei 8.038/1990 e 1º do Decreto 20.910/1932, tendo em vista que "o título executivo que permitiu aparelhar a presente execução consiste somente em acórdãos lavrados pelo STJ, cujo trânsito em julgado ocorreu em 19/11/2001, e não em 09/08/2004", pois não deve ser levado em consideração o período em "que os autos da coletiva ficaram por cerca de dois anos e nove meses aguardando deliberação meramente ordinatória do STF pela baixa dos autos (ante a perda do objeto do RE), que em nada interferiu na decisão prolatada pelo STJ" (fl. 1.315);
+(iii) art. 1º -F da Lei 9.494/1997, cuja aplicabilidade aos processos em curso deve ser imediata, tanto no que tange à redação estabelecida pela MP 2.180-35/2001 quanto por aquela introduzida pela Lei 11.960/2009. Daí afirmar que (fls. 1.322/1.323):
+ ..  foi afastado o art. 1o-F da Lei 9494/97, em flagrante violação ao art. 97 da Constituição, oportunidade em que se busca o prequestionamento explícito da norma constitucional. Afinal, somente o plenário (ou órgão especial) teria a competência para tanto. Salienta-se que, no caso ora em debate, é imperativo o pronunciamento acerca da reserva de plenário - corolário do art. 97 da Constituição -, haja vista o diferente posicionamento do E. STF acerca da imediata aplicação da MP 2.180-35/01 para regular a taxa de juros à razão de 6% ao ano. Mesmo raciocínio deve ser feito após a entrada em vigor da Lei nº 11.960/2009,caso em deve ser aplicada a taxa de juros conforme a nova redação do art. 1º-F.
+Salienta-se que o posicionamento desta Corte não está negando vigência a uma norma, mas se está estabelecendo limites ao preceito normativo, o que viola o art. 97 da CF, conforme leitura da Súmula Vinculante nº 10 STF.
+Além disso, o acórdão incide em violação ao art. 5º, XXXVI, da CF, quando o conflito de leis no tempo é solucionado de modo incorreto, pois ocorre "controvérsia de direito intertemporal, regida por norma de sobre direito (CF, art. 5º, XXXVI)" (STF, RE-AgR 414737/SC). Ou seja, a decisão recorrida contrariou a norma constitucional que regula a incidência das leis no tempo (art. 5º, XXXVI), pilar do direito intertemporal pátrio. O fundamento do acórdão está no plano do direito intertemporal: definição, diante do conflito de leis no tempo, de qual norma rege o caso concreto.
+(iv) art. 67 da Lei 8.112/1990, na medida em que (fl. 1.320):
+Em processo análogo (Apelação Cível Nº 5004656-29.2011.404.7000/PR), assim decidiu o Eg. TRF/4:
+No que se refere à incidência do reajuste de 28,86% sobre os anuênios, cabe salientar que a base de cálculo do referido adicional é o vencimento básico do servidor. Portanto, tendo este sido reajustado (MPnº 1.704-5/98), o adicional, por sua vez, também o foi, não podendo receber novo reajuste.
+É descabida, também, a inclusão das rubricas referentes às férias e 13º salário na base de cálculo dos anuênios. Nos termos do revogado art. 67da Lei nº 8.112/90, o adicional por tempo de serviço incide exclusivamente sobre o vencimento básico do servidor.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 1.384/1.406.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão recorrido, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+A propósito, confira-se o seguinte trecho do voto condutor do acórdão recorrido, in verbis (fls. 1.211/1.215):
+ ..
+Por sua vez, quanto à taxa de juros a ser empregada, assim dispôs o acórdão proferido pela 5ª Turma do Superior Tribunal de Justiça - já na vigência da MP 2.180-35/2001 - nos autos da ação ordinária:
+ ..
+Tal decisão não foi objeto de recurso.
+Dessa forma, tendo o título exequendo, formado, repito, já na vigência da MP 2.180-35/2001, determinado a incidência de juros de 1% ao mês, tem-se por afastada a aplicação daquele diploma legal, não havendo falar na sua observância em sede de execução, sob pena de ofensa à coisa julgada.
+Deve ser negado provimento, portanto, ao agravo retido.
+Da Prescrição
+Consoante entendimento pacificado no âmbito desta Corte e do STJ, o prazo de prescrição da pretensão executória contra a Fazenda Pública é de cinco anos, a contar do trânsito em julgado da sentença condenatória, em conformidade com o disposto no art. 1º do Decreto 20.910/32 e na Súmula 150 do STF.
+ ..
+No caso em tela, o trânsito em julgado da última decisão proferida na ação de conhecimento, nos autos do RE nº 351079, ocorreu em 09/08/2004.
+Assim, tendo o feito executivo sido ajuizado em 13/07/2009, não há falar na prescrição da pretensão executória.
+Da Base de Cálculo
+Nos termos do que dispunha o revogado art. 67 da Lei 8.112/90, o adicional por tempo de serviço incide sobre o vencimento, que é a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei.
+Por sua vez, a gratificação natalina e o adicional de férias integram a remuneração do servidor, mas não o seu vencimento, razão pela qual não podem ser incluídos na base de cálculo dos anuênios.
+Neste sentido:
+ ..
+Por outro lado, tendo a Administração estendido o direito ao reajuste de 28,86% a todos os servidores públicos, civis e militares (MP nº 1.704/98), as diferenças de vencimento daí decorrentes, apuradas compensando-se os acréscimos concedidos pelas Leis 8.622/93 e 8.627/93, devem ser incluídas na base de cálculo dos anuênios.
+No mesmo sentido, os seguintes precedentes desta Turma:
+ ..
+Provido, nesta parte, o apelo dos embargados.
+ ..
+Destarte, não procede a tese de ofensa ao art. 535, I e II, do CPC/1973.
+Melhor sorte não socorre a parte recorrente no que tange à tese de prescrição da pretensão executória.
+Conquanto seja incontroverso que o acórdão exequendo (fls. 112/117), prolatado nos autos do REsp 279.825/PR, por este Superior Tribunal, tenha transitado em julgado em 19/11/2001 (fl. 126), tal fato efetivamente não importou no encerramento do processo de conhecimento.
+De fato, consoante certidão de fl. 126, após o esgotamento da prestação jurisdicional por esta Corte, foram os autos remetidos ao Supremo Tribunal Federal para que fosse apreciado o RE 351.079-7/PR, interposto concomitantemente com o apelo nobre e também admitido pelo Tribunal de origem.
+Assim, o processo de conhecimento somente teve fim em 9/8/2004 (fl. 131), com o trânsito em julgado do decisum proferido pela Suprema Corte que, na forma do art. 543, § 1º, parte final, do CPC/1973, declarou prejudicado o referido recurso extraordinário.
+Sobre o tema, confira-se lição doutrinária de Fredie DIDIER JR. e Leonardo Carneiro da CUNHA que, a despeito de examinar as regras contidas no CPC/2015, aplicam-se integralmente ao caso em análise:
+14.2. Momento da interposição simultânea
+ ..
+Diante disso, conclui-se que: a) o prazo para a interposição de recurso extraordinário e de recurso especial é comum; b) a interposição de um, no meio do prazo, não gera preclusão consumativa do direito de interpor o outro porque não há exigência legal de interposição simultânea; c) há casos, com visto, em que devem ser interpostos tanto o recurso especial como o recurso extraordinário, mas a interposição de cada um obedece ao prazo comum de quinze dias, não havendo necessidade de interposição simultânea, ou seja, no mesmo momento, devendo-se o "simultâneo" ser entendido, no particular, como "no mesmo prazo" de quinze dias.
+14.3. Substitutividade compartilhada
+Também é importante observar que, para a eficácia do recurso, "não basta a sua interposição contra ambos os fundamentos, nem basta a sua admissão quanto a ambos os fundamentos: o recurso somente terá utilizada com o seu provimento em relação a ambos os fundamentos.
+Ora, se, por exemplo, o recurso especial não for provido, de nada adiantará o recurso extraordinário, cujo eventual provimento será inútil, já que a decisão se manteria incólume tendo em vista o fundamento legal suficiente que foi preservado. Nesse caso, após o julgamento do especial, o recurso extraordinário encaminhado ao STF não deve ser admitido - daí a importância do trecho final do § 1º do art. 1.031, que expressamente se refere à possibilidade de o recurso extraordinário ter perdido o objeto após a decisão sobre o recurso especial.
+Assim, provido o recurso especial, que fora julgado primeiramente, não se pode ainda, considerar reformado o acórdão recorrido - note que apenas um dos seus fundamentos terá sido afastado. Somente com o provimento do recurso extraordinário é que se poderá considerar reformado o acórdão recorrido - aí, ambos os fundamentos suficientes que o sustentavam foram derrubados. Provido o primeiro recurso, a consequência deve ser a remessa ao outro tribunal superior; para que se examine o segundo recurso.
+Enfim, somente o provimento de ambos os recursos é que tem a aptidão de reformar o acórdão recorrido.
+Assim, o efeito substitutivo d julgamento do recurso pressupõe, no caso, provimento dos dois recursos: a) se um recurso não for provido, e o outro não, não há substitutividade; b) se um recurso não for conhecido, o outro também não o será, em razão de sua inutilidade - o que impõe a interposição de recurso contra a decisão de não conhecimento do primeiro, sob pena de ambos não serem conhecidos; c) se um recurso não for provido, o outro nem será conhecido, porque inútil, e, portanto, também não haverá substitutividade.
+Está-se diante de um caso de substitutividade compartilhada. Em todos esses casos, a eventual ação rescisória há de ser proposta perante o tribunal de origem, pois, não havendo substitutividade, a decisão que produz coisa julgada é a recorrida  .. .
+("Curso de Direito Processual Civil: Meios de impugnação às Decisões Judiciais e Processo nos Tribunais". Vol. 3. 16ª ed., rev. atual. e ampl. Salvador: JusPodivm, 2019, pp. 412-414)
+A propósito, o seguinte julgado, mutatis mutandis:
+ ..
+Sendo assim, também não prospera a tese de ofensa aos arts. 26, §4º, da Lei 8.038/1990 e 1º do Decreto 20.910/1932.
+Quanto ao mérito, sendo incontroverso que este Superior Tribunal deu provimento ao REsp 279.825/PR a fim de reconhecer em favor dos servidores substituídos pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS EM SAÚDE, TRABALHO, PREVIDÊNCIA E AÇÃO SOCIAL DO PARANÁ o direito a contagem do tempo de serviço público anterior à edição da Lei 8.112/1990, para fins de percepção de anuênio, tem-se que a base de cálculo para os cálculos dos valores pecuniários respectivos deverá ser contabilizada levando-se em consideração as parcelas efetivamente devidas aos servidores, o que leva à necessidade de incidência do índice de 28,86% como mera decorrência lógica daquele julgado, sem que isso importe, por si só, em ofensa à coisa julgada. Nesse sentido, mutatis mutandis:
+ ..
+Desse modo, considerando-se que o Tribunal de origem não se afastou da orientação firmada por esta Corte, também não há se falar em contrariedade aos arts. 67 da Lei 8.112/1990, 467, 468, 471, I e II, 474 e 741, V e VI, todos do CPC/1973.
+A seu turno, do trecho acima colacionado observa-se que o Tribunal a quo firmou a compreensão no sentido de que não seria possível modificar o índice de juros moratórios incidentes sobre os créditos executados, mediante a aplicação do art. 1º-F da Lei 9.494/1997, como pretendido pela parte recorrente, uma vez que o acórdão exequendo expressamente fixo-os em 1% ao mês, estando tal questão, portanto, acobertada pelo manto da coisa julgada.
+Sucede que, nesse ponto, a FUNASA limitou-se a tecer considerações genéricas acerca da aplicabilidade imediata da MP 2.180-35/2001 e da Lei 11.960/2009, sem, contudo, impugnar especificamente o fundamento do acórdão recorrido, o que atrai a incidência da Súmula 283/STF, por analogia.
+Por fim, não se presta o recurso especial ao exame de suposta contrariedade a dispositivos constitucionais, por se tratar de matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Insiste a parte agravante na tese de prescrição da pretensão executória sob o argumento de que "o título executivo que permitiu aparelhar a execução consistesomente em acórdãos lavrados pelo STJ, cujo trânsito em julgado ocorreu em19/11/2001, e não 09/08/2004" (fl. 1.482).
+De outro lado, afirma que "nos termos da coisa julgada, não há previsão da incidência da vantagem sobre o percentual de 28,86%.(violação ao artigo 467 e seguintes do antigo CPC)" e, ainda, que "não há qualquer previsão da incidência do aludido índice de 28,86% sobre anuênios recompostos" (fl. 1.483).
+A seu turno, reitera a tese de violação ao art. 1º-F da Lei 9.494/1997 c/c os arts. 467 e 468 do CPC/1973 e 5º, XXXVI, da Constituição da República, haja vista que "a Corte Especial do Eg. STJ, no julgamento do EREsp1.207.197/RS, alinhou sua jurisprudência ao entendimento pacificado do SupremoTribunal, no sentido de que as normas que disciplinam os juros moratórios possuem natureza processual devendo incidir de imediato nos processos em andamento" (fl. 1.484).
+Por fim, requer a reconsideração ou a reforma da decisão agravada.
+Impugnação às fls. 1.489/1.508.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar,especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Como explica ARRUDA ALVIM, "importa ao órgão ad quem saber exatamente os motivos pelos quais as razões da decisão recorrida não são adequadas.Isto é, não basta a manifestação da voluntariedade da insurgência, é fundamental que, aliada à voluntariedade, exista a dialeticidade da irresignação, mediante discurso argumentativo contra a decisão, alinhando as razões de fato e de direito pelas quais entende que a decisão está errada.." (Manual de direito processual civil. 18. ed. São Paulo: ThomsonReuters, 2019, p. 1208).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro SÉRGIO KUKINA, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, REPDJe 4/10/2018).
+No caso concreto, verifica-se que a parte agravante não impugnou a decisão agravada na parte em que esta afastou a preliminar de afronta ao art. 535, I e II, do CPC/1973.
+Acrescente-se, outrossim, que a FUNASA limitou-se reprisar genericamente a tese de ofensa ao art. 1º-F da Lei 9.494/1997 c/c os arts. 467 e 468 do CPC/1973, sem, contudo, também impugnar o fundamento adotado na decisão agravada - incidência da Súmula 283/STF, por analogia.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
