@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de LEONARDO SABINO GUEDES, contra acórdão do Tribunal de Justiça do Distrito Federal e Territóriosassim ementado (fl. 71):
+PROCESSO PENAL. RECEPTAÇÃO. RECURSO EM SENTIDO ESTRITO. LIBERDADE PROVISÓRIA DEFERIDA. DESNECESSIDADE DE PRISÃO. SUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES. MONITORAMENTO ELETRÔNICO.
+1. A prisão preventiva é medida excepcional que exige a análise das circunstâncias do caso concreto para a sua decretação.
+2. Não havendo motivo concreto autorizador da prisão preventiva, deve o recorrido ficar em liberdade provisória, com a imposição de medidas cautelares diversas da prisão.
+3. O monitoramento eletrônico é justificável quando necessária a restrição da liberdade do réu sem a decretação de prisão celular.
+4. Recurso conhecido e parcialmente provido.
+A defesa alega que em audiência de custódia, a prisão em flagrante do paciente foi convertida em medidas cautelares diversas da prisão. No entanto, oMinistério Público do Distrito Federal apresentou recurso em sentido estrito ao Tribunal de origem. Dessa forma,o acórdão manteve todas as medidas cautelares inicialmente impostas, acrescidas do monitoramento eletrônico, em razãode reincidênciado paciente, visando a garantia da ordem pública.
+Aduz ser desnecessária a medida cautelar de monitoramento eletrônico, uma vez que o paciente vem cumprindo todas as demais medidasimpostas. Pondera que omonitoramento eletrônico à qual esta submetido o paciente se afigura desproporcionalà fase do processo.
+Salienta que o paciente não oferece risco à ordem pública, possui residência fixa e ocupação lícita, sendo suficientes as medias pretéritas ao julgado.
+Requer a concessão da ordem pararevogar a medida cautelar de monitoração eletrônica, em favor do paciente, ainda que mantidas as demais medidas impostas.
+O pedido de liminar foi indeferido às fls. 136-137.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 176-177).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A aplicação de medidas cautelares diversas da prisão pelo Tribunal de origem,está de acordo com a jurisprudência do STJ de que, diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a aplicação das medidas cautelares alternativas quando se mostrarem suficientes para garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal (AgRg no HC n. 623.414/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/12/2020).
+Ademais, a aplicação de medidas cautelares alternativas previstas regularmente no estatuto processual penal está dentro da competênciade valoração jurisdicional do Estado-Juiz. Assim, motivada de forma concreta e demonstrada a necessidade da aplicação, não há razão para seu afastamento, o que somente poderia ser avaliado pelo STJ caso o recorrente comprovasse, de plano, constrangimento ilegal decorrente da ilegalidade ou da desproporção manifesta da medida, o que não ocorreu nos autos.
+Por fim, não há desproporcionalidade na decretação da medidade monitoramento eletrônico elencada no art. 319,IX, do CPP, porquanto adequadamente sopesadas quanto à incidência cumulativa com as demais medidas no caso em concreto, entendimento que se alinha à jurisprudência desta Corte no sentido de conferir aplicação à proporcionalidade em seu duplo aspecto de proteção contra o excesso e de proibição de ineficiência da proteção penal (HC 431.734/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/08/2018, DJe 13/08/2018).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
