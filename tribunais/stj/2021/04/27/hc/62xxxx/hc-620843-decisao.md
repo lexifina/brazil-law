@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL RIANELLI RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro proferido no Recurso em Sentido Estrito n. 0208692-35.2019.8.19.0001.
+Consta dos autos que o Paciente foi denunciado como incurso no crime de furto (art. 155, caput, do Código Penal), pois teria subtraído para si uma carteira, contendo em seu interior documentos e a quantia de R$ 70,00 (setenta reais), em espécie, de propriedade da Vítima.
+O Magistrado de primeiro grau rejeitou a denúncia com base no art. 395, inciso II, do Código de Processo Penal, por entender que não há pressupostos processuais mínimos para o recebimento da peça acusatória, aplicando o princípio da insignificância.
+Inconformado, o Ministério Público interpôs recurso em sentido estrito, que foi provido para determinar o recebimento integral da denúncia, em acórdão assim ementado (fl. 22):
+"RECURSO EM SENTIDO ESTRITO. FURTO SIMPLES. Recorrido denunciado pela prática da conduta descrita no artigo 155 do CP. Rejeição da denúncia em alegação de suposta ausência de justa causa, prestigiando o Princípio da Insignificância.
+Exordial ofertada nos termos do artigo 41 do Código de Processo Penal. Indícios de autoria e prova da materialidade. Denúncia que descreve suficientemente a conduta do agente, permitindo o exercício da ampla defesa. Princípio da Insignificância ou Bagatela que é construção jurisprudencial, não havendo para ele previsão legal no ordenamento jurídico pátrio.
+Existência de lastro probatório mínimo para a deflagração da ação penal. Fase processual em que vigora o princípio in dubio pro societate. Reforma a decisão que rejeitou a denúncia em relação ao recorrido, determinando-se o prosseguimento regular do processo em seus termos originais. RECURSO PROVIDO."
+O Impetrante, após discorrer sobre a aplicação do princípio da bagatela em confusa inicial, em suma (fl. 13):
+"Requer liminar para suspender o seguimento da ação penal contra o paciente, requisitando-se as informações do artigo 662 do CPP e, no mérito, a concessão da ordem para reconhecer a atipicidade material pelo princípio da bagatela e, com fincas nele, rejeitar a denúncia por falta de justa causa para deflagração da ação penal."
+O pedido liminar foi deferido às fls. 33-35.
+Foram prestadas informações às fls. 50-53, 58-59 R 60-62.
+O Ministério Público Federal manifestou-se às fls. 63-65, opinando pela denegação da ordem, ressaltando que a conduta do Paciente, que responde a processo pelos crimes de receptação e posse de drogas para consumo pessoal, "é altamente reprovável e oferece risco às regras de boa convivência na sociedade, o que impede a aplicação do princípio da insignificância."
+É o relatório.
+Decido.
+A aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e identificar a necessidade, ou não, da utilização do direito penal como resposta estatal.
+Não se descura que, diante do caráter fragmentário do direito penal moderno, segundo o qual se devem tutelar apenas os bens jurídicos de maior relevo, somente justificam a efetiva movimentação da máquina estatal os casos que implicam lesões de significativa gravidade.
+De fato, a aplicabilidade do princípio da insignificância é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do Agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+A denúncia narrou o fato criminoso nos seguintes termos (fl. 8; sem grifos no original):
+"No dia 30 de maio de 2019, por volta das 18h4Omin, na esquina da Avenida Presidente Vargas com a Avenida Rio Branco, no Centro, nesta cidade, o denunciado s consciente e voluntariamente, subtraiu, para si, uma carteira, contendo em seu interior documentos e a quantia de R$ 70,00, em espécie, de propriedade de ANTONIO JORGE PINTO BEGUITO.
+O denunciado, no dia dos fatos, puxou o bem da vítima e empreendeu fuga."
+Ao aplicar o princípio da insignificância e rejeitar a denúncia, o Juízo singular ressaltou o seguinte (fl.16, sem grifos no original):
+"Da análise dos elementos do feito, constato que deve ser aplicado ao caso o princípio da insignificância, também conhecido como princípio da bagatela.
+Nesse ponto, substancial registrar que a aplicação do referido princípio importa na atipicidade da conduta e, para tanto, deve observar quatro requisitos, conforme posição do Supremo Tribunal Federal (STF, AgR no RHC 145.4471SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 1º/9/2017, DJe 28/9/2017): (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada, valendo ressaltar que tal entendimento é seguido pelo Eg. STJ.
+No caso em exame, verifica-se o total cabimento da aplicação do princípio da insignificância.
+Isso porque, o valor dos bens subtraídos é ínfimo, uma carteira contendo R$ 70,00, ou seja, não alcança nem 10% do valor do salário mínimo vigente."
+O Tribunal de origem deu provimento ao recurso em sentido estrito interposto pelo Ministério Público e recebeu a inicial acusatória, valendo-se da fundamentação a seguir transcrita (fl. 24):
+"No caso, existem fortes indícios de autoria e a prova da materialidade, constituindo crime, em tese, a conduta imputada ao acusado, sendo narradas as circunstâncias dos fatos, permitindo ao mesmo o exercício da ampla defesa.
+Observa-se que as circunstâncias que cercam os fatos são suficientes para demonstrar sua tipicidade, havendo, pois, justa causa para que seja deflagrada a ação penal.
+O Princípio da Insignificância é construção jurisprudencial, a qual não encontra pálio na legislação pátria.
+Ademais, vigora nesta fase processual o princípio in dubio pro societate  razão pela qual é descabida a rejeição da denúncia."
+No caso, considerada a circunstância de o Acusado ser primário, pois apenas consta de sua certidão de antecedentes anteriores prisões em flagrante pelos delitos de receptação e porte de drogas para uso próprio que não resultaram em sanção penal, bem assim a natureza e o valor do bem - avaliado em R$ 70,00 (setenta reais), o que representa menos de 10% do salário mínimo vigente à época dos fatos (R$ 998,00) - concluo que o grau de reprovabilidade da conduta é mínimo, pois não houve dano social relevante.
+Nesse sentido:
+"HABEAS CORPUS. FURTO PRIVILEGIADO. PRINCÍPIO DA INSIGNIFICÂNCIA. BEM FURTADO AVALIADO EM R$ 80,00. PACIENTE TECNICAMENTE PRIMÁRIO. SUBSIDIARIEDADE DO DIREITO PENAL. INEXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA. HABEAS CORPUS CONCEDIDO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. Nenhum interesse social existe na intervenção estatal na hipótese de furto de res furtiva avaliada em R$ 80,00, o que equivale ao montante aproximado de 8% do salário mínimo vigente no ano de 2018 (R$ 954,00), representando irrisória lesão ao bem jurídico tutelado, autorizando a incidência do princípio da insignificância, mormente por ser o paciente tecnicamente primário.
+3. Habeas corpus concedido para absolver o paciente RAFAEL CORREA DA SILVA, por atipicidade material da conduta e aplicação do princípio da insignificância na ação penal n. 0001286-18.2018.8.26.0540, oriunda da 4ª Vara Criminal da Comarca de Santo André/SP." (HC 578.487/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020.)
+Portanto, com a devida vênia do parecer ministerial, ao contrário do que afirma o acórdão, há de se considerar a ínfima lesão ao bem jurídico tutelado, pois não houve dano social relevante. No caso concreto, o reduzidíssimo valor do bem subtraído, o qual foi restituído à Vítima, autoriza a conclusão de que o grau de reprovabilidade da conduta é mínimo e sequer houve dano de maior significado.
+Ante o exposto, CONCEDO A ORDEM de habeas corpus para aplicar ao caso o princípio da insignificância e, por consequência, restabelecer a decisão de primeiro grau que rejeitou a denúncia.
+Comunique-se ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. POSSIBILIDADE. SITUAÇÃO EXCEPCIONAL. ÍNFIMO VALOR DA RES FURTIVA. REDUZIDÍSSIMO GRAU DE REPROVABILIDADE DA CONDUTA. AUSÊNCIA DE DANO. ORDEM CONCEDIDA.
