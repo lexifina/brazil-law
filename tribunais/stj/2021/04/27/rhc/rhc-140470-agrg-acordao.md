@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSO PENAL. AGRAVO DO ÓRGÃO ACUSATÓRIO. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva teve como fundamento a apreensão de 3g (três gramas) de maconha e 4g (quatro gramas) de crack, bem como o fato de o agente estar em execução de pena.
+3. Mostra-se desproporcional a cautela máxima no caso em tela, em razão da quantidade não exacerbada de drogas apreendidas, justificando-se tão somente a imposição de cautelares diversas da prisão em razão da reiteração delitiva do agente.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS contra decisão monocrática de minha lavra em que concedi o habeas corpus (e-STJ fls. 293/296).
+Em suas razões, alega o agravante que 4g (quatro gramas) de crack seriam altamente nocivos, motivação suficiente para se manter a prisão preventiva (e-STJ fl. 304).
+Busca, assim, seja reconsiderada a decisão agravada ou submetido o presente recurso ao órgão colegiado (e-STJ fl. 307).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não há como acolher a insurgência.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 45/46):
+Examinando a hipótese destes autos, constato que com o flagrado foram encontradas 76 bombinhas de maconha e 07 trouxinhas de cocaína. O autuado alegou perante a autoridade policial que estes psicotrópicos não lhes pertenciam. Nesta toada, preconiza o art. 28. §2º, da Lei nº 11.343/06 que:
+ ..
+Malgrado todo acusado tenha direito de ser considerado inocente até o trânsito em julgado da sentença penal condenatória, a segregação cautelar se impõe quando, como no presente caso, haja claro sinal de que o réu tenha praticado a infração e fundado receio de que, em liberdade, possa pôr em risco valores sociais, mormente quando já possui um processo execução criminal da 16ª vara de Criminal da Capital / Execuções Penais (autos nº 0008385-73.2018.8.02.0001).
+Não obstante, ao examinar o trecho acima transcrito, entendo que a fundamentação apresentada, embora demonstre o periculum libertatis, é insuficiente para a imposição da prisão cautelar ao recorrente.
+Como é cediço, a custódia cautelar é providência extrema, que, como tal, somente deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual Penal, segundo o qual "a prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".
+Nos dizeres de Aury Lopes Jr., "a medida alternativa somente deverá ser utilizada quando cabível a prisão preventiva, mas, em razão da proporcionalidade, houver outra restrição menos onerosa que sirva para tutelar aquela situação. .. As medidas cautelares diversas da prisão devem priorizar o caráter substitutivo, ou seja, como alternativas à prisão cautelar, reservando a prisão preventiva como último instrumento a ser utilizado" (Lopes Jr., Aury. Direito Processual Penal. 10. ed. São Paulo: Saraiva, 2013. p. 86).
+Consoante se extrai dos autos, a despeito de apresentar condenação pretérita, o agente foi flagrado com quantidade não exacerbada de drogas, a saber, 3g (três gramas) de maconha e 4g (quatro gramas) de crack (e-STJ fls. 188/193).
+Assim, entendo ser suficiente a imposição de medidas alternativas à prisão, com base no art. 319 do Código de Processo Penal, a fim de garantir a ordem pública, a instrução criminal e a aplicação da lei penal.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR MEDIDA CAUTELAR ALTERNATIVA. POSSIBILIDADE. OBSERVÂNCIA DO PRINCÍPIO DA PROPORCIONALIDADE. RECURSO PROVIDO.
+ ..
+4. Em que pese a concreta fundamentação da custódia para garantia da ordem pública, na miríade de providências cautelares previstas nos arts. 319, 320 e 321, todos do CPP, a decretação da prisão preventiva será, como densificação do princípio da proibição de excesso, a medida extrema a ser adotada, somente para aquelas situações em que as alternativas legais à prisão não se mostrarem aptas e suficientes a proteger o bem ameaçado pela irrestrita e plena liberdade do indiciado ou acusado.
+5. Sob a influência do princípio da proporcionalidade e considerando que os recorrentes são primários, possuem ocupação lícita e residência fixa, foram surpreendidos dentro de veículo (condutor e passageiros) com 68,2 g de cocaína, sem investigações policiais prévias ou maiores sinais de que se dedicavam ao tráfico de drogas de forma profissional ou de que integrassem organização criminosa, é adequada a imposição de medidas cautelares diversas da prisão, para a mesma proteção da ordem pública (art. 319, I, II e V, do CPP).
+6. Recurso ordinário provido para substituir a prisão preventiva dos recorrentes pelas medidas previstas no art. 319, I, II e V, sem prejuízo de outras medidas que o prudente arbítrio do juiz natural da causa indicar cabíveis e adequadas. (RHC 83.174/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/05/2017, DJe 23/06/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. ELEMENTARES DO TIPO PENAL. PACIENTE PRIMÁRIO, PORTADOR DE BONS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. REVOGAÇÃO DO DECRETO PRISIONAL. MEDIDAS CAUTELARES. NECESSIDADE E ADEQUAÇÃO. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. No caso, a decisão singular não apontou dados concretos, à luz do art. 312 do Código de Processo Penal, a respaldar a restrição da liberdade do paciente; somente faz referência às elementares do tipo penal e à gravidade abstrata do delito.
+4. Condições subjetivas favoráveis, conquanto não sejam garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando não for demonstrada a real indispensabilidade da medida constritiva, máxime diante das peculiaridades do caso concreto, em que o acusado foi flagrado na posse de 21,29g de cocaína e crack, sendo adequada e proporcional a imposição de medidas cautelares diversas da prisão. Precedentes.
+5. Habeas corpus não conhecido. Ordem concedida de ofício, para revogar o decreto prisional do paciente, salvo se por outro motivo estiver preso, substituindo a segregação preventiva por medidas cautelares diversas, à critério do juízo processante, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada. (HC 380.308/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/03/2017, DJe 05/04/2017)
+Essas considerações analisadas em conjunto levam-me a crer, como dito, ser desproporcional a imposição da prisão preventiva, revelando-se mais adequada a imposição de medidas cautelares alternativas, em observância à regra de progressividade das restrições pessoais, disposta no art. 282, §§ 4º e 6º, do Código de Processo Penal, ao determinar, expressa e cumulativamente, que apenas em último caso será decretada a custódia preventiva e ainda quando não for cabível sua substituição por outra cautelar menos gravosa.
+À vista do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
