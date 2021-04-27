@@ -1,0 +1,34 @@
+AGRAVO DE INSTRUMENTO No 1006439-95.2021.8.11.0000
+AGRAVANTE:- HOSPITAL E MATERNIDADE 13 DE MAIO VILA ROMANA S/A
+AGRAVADO:- WILDER REVERTE DA COSTA
+Agravo de Instrumento n. 1006439-95.2021.8.11.0000 de decisão da 2a Vara Cível da Comarca de Sorriso que, em Ação de Obrigação de Fazer, deferiu a tutela de urgência para determinar que a requerida libere imediatamente total acesso do autor ao sistema interno, com o objetivo de exercer livremente sua profissão, podendo emitir laudos médicos, solicitar procedimentos, prescrições etc., sob pena de multa no valor de R$ 10.000,00.
+O agravante alega que o agravado é credenciado como profissional médico para atender dentro das suas instalações, todavia, não faz parte do corpo clínico para trabalhar dentro da UTI, ou seja, atua apenas como médico assistente dos pacientes que o contratam de forma particular.
+Diz que na Unidade de Terapia Intensiva há uma Coordenadora e Responsável Técnica, um médico plantonista da UTI, corpo médico (médicos plantonistas responsáveis pela admissão, evolução, prescrição dos pacientes admitidos nos plantões do Hospital – avaliam pacientes internados e realizam atendimento de intercorrências dos pacientes já internados), e uma equipe multidisciplinar completa com técnicos em enfermagem, enfermeiros, fisioterapeuta, nutricionista e farmacêutica), os quais atendem dentro da UTI em tempo integral em escalas de plantões diários, 24 (vinte e quatro) horas por dia.
+Afirma que para todos os profissionais que atuam como médico assistente dentro da UTI, para exercerem sua profissão dentro dos estabelecimentos Hospitalares, devem respeitar os protocolos médicos e às normas internas dos nosocômios (art. 18, do Regimento Interno da UTI do Hospital e Parecer n. 18/2020 do CRM/MT).
+Aduz que ele (agravado) jamais foi impedido de exercer sua profissão, pois conforme o comunicado n. 008/2021 emitido pela Diretoria Técnica, Diretoria Clínica e Diretoria Executiva, todos os médicos assistentes foram informados que estavam suspensos apenas os acessos à prescrição de pacientes internados na UTI, a partir de 21-3-2021.
+Ressalta que cabe ao agravado como médico assistente dos seus pacientes, realizar as avaliações (quantas entender necessárias) e evoluções, com sugestão ao plano terapêutico dos pacientes, mas sempre com anuência/conhecimento do médico plantonista da UTI, sendo vedado a realização de procedimentos dentro da UTI sem a anuência prévia do médico plantonista, bem como a realização de alteração de condutas sem que seja realizado conferência pelo médico plantonista.
+Pontua que, ao contrário do que ele afirma, quem efetivamente mantém a atenção e os cuidados médicos intensivos com relação a qualquer intercorrência que possa ocorrer com os seus pacientes particulares, se tornando responsáveis integrais pelos pacientes, é o médico plantonista da UTI em conjunto com a coordenadora/responsável técnica da UTI e demais membros do corpo médico e da equipe multidisciplinar, que efetivamente passam todo o restante do dia assistindo os pacientes internados e acompanhados pelo agravado.
+Anota que o agravado tem reiteradas práticas incompatíveis com a atividade médica, pois “tumultua o ambiente hospitalar”, “coloca em risco a vida de pacientes” devido a falta de comunicação com os colegas plantonistas e a coordenação de UTI e especificamente a “infringência às normas da categoria médica”.
+Pede o efeito suspensivo.
+É o relatório.
+O agravante se insurge contra o decisum que deferiu a tutela de urgência determinando a liberação de acesso do agravado ao sistema interno, com o exercício livre da profissão, podendo emitir laudos médicos, solicitar procedimentos, prescrições etc, proferido nos seguintes termos:
+(...)
+Analisando os autos, entendo que a tutela deve ser deferida, tendo em vista que o autor é médico de confiança dos pacientes (id 51586043) e, por esta razão, tem autonomia para prescrever a modalidade de tratamento mais adequada aos seus pacientes, bem como ter acesso livre ao sistema interno do hospital justamente para que tudo fique registrado.
+O perigo na demora é evidente, uma vez que, a restrição do acesso ao sistema poderá colocar em risco a vida dos pacientes que o contratou como médico de confiança. Ademais, o direito à vida tem matriz constitucional, nos termos dos artigos 5o e 6o, da CRFB/88. (Id 83735982 - Pág. 3)
+A situação em análise é bem delicada visto que, de um lado está o Hospital e, de outro, o médico que não faz parte do quadro de profissionais que compõem a Unidade de Terapia Intensiva, porém é responsável pelos pacientes que, por liberalidade deles ou dos familiares o escolheram para o tratamento, e que já tem amplo conhecimento do histórico e condições de saúde de cada um.
+É evidente que, ao escolher esse ou aquele profissional, o paciente espera que ele atue diretamente até o completo restabelecimento, o que é um direito dele (paciente).
+Todavia, é preciso analisar com cautela essa situação já que o agravante não faz parte do quadro de médicos responsáveis pelos atendimentos naquela Unidade de Terapia Intensiva.
+O art. 25.o do Código de Ética Médica e a Resolução n.o 1.231/1986 do Conselho Federal de Medicina estabelecem que a todo médico é assegurado o direito de internar e assistir seus paciente em hospital público ou privado, ainda que não faça parte de seu Corpo Clínico, ficando sujeitos, nessa situação, o médico e o paciente, às normas administrativas e técnicas do hospital.
+Como se vê, embora o agravado esteja credenciado para atender seus pacientes dentro das instalações do hospital, no entanto deve seguir as normas ali impostas.
+E o art. 18 do Regimento Interno da UTI do agravante, estabelece o seguinte:
+Art. 18 médicos assistentes de pacientes internados na UTI
+- O médico assistente poderá realizar avaliações quantas acharem necessárias ao paciente, assim como evoluções contendo sugestões ao plano terapêutico, mas sempre deverá conter a anuência do médico plantonista para realização de alterações do plano inicial.
+- Fica vedado ao médico assistente a realização de procedimentos na UTI sem anuência prévia do médico plantonista. (Id 83735985 - Pág. 5)
+Assim, em análise sumária, o agravado que, repita-se, não faz parte do corpo médico daquele local, pode acompanhar e assistir seus pacientes ali internados, todavia, abstendo-se de prescrever medicação ou procedimentos, devendo atuar nos estritos termos do art. 18 do RI/UTI-H13
+De qualquer forma a matéria será aprofundada no mérito após a oitiva do agravado.
+Importante registrar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Posto isso, defiro o efeito suspensivo.
+Intime-se a parte adversa para oferecer resposta em 15 dias.
+Cuiabá, 27 de abril de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
