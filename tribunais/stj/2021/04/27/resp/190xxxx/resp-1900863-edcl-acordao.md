@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÃO. INEXISTENTE. MATÉRIA LEVANTADA NAS RAZÕES RECURSAIS QUENÃO FOI SOLVIDA PELA CORTE ORIGINÁRIA.AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL -STF. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. SÚMULA N. 284/STF. QUESTÃO DE ORDEM PÚBLICA. NECESSÁRIO O PREQUESTIONAMENTO PARA ABERTURA DA VIA ESPECIAL. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Não há omissão no julgado.A questão levantada nos presentes aclaratórios - excesso de prazo para a conclusão do inquérito policial - embora tenha sido arguida nas razões do recurso especial, não foi apreciada pela Corte de origem. Assim, em razão da ausência de prequestionamento, são aplicáveis os óbices previstos nas Súmulas ns. 282 e 356 do STF. Ademais, apresente indagaçãonão encontra amparo de análise por esta Corte em razão da ausência de indicação do dispositivo de lei violado, por incidência da Súmula n. 284/STF.
+2. Oprequestionamento das matérias de ordem pública é requisito necessário para a abertura da via especial. Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/5/2014).
+3.Embargos declaratórios rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSE HELDER MAXIMO DE CARVALHOem desfavor de acórdão desta Quinta Turma que desproveu o agravo regimental da parte.
+O embargante sustenta omissão no julgado, pois há excesso de prazo na conclusão de inquérito policial, que é matéria de ordem pública, podendo ser arguida em qualquer tempo.
+Alega constrangimento ilegal, uma vez que o certame licitatório ao qual o embargante é investigado ocorreu no ano de 2009 e até a presente data não foi sequer ofertada a denúncia por parte do parquet.
+Pleiteia o acolhimento destes embargos de declaração para ver sanada a omissão, a fim de que se reconheça o excesso de prazo na conclusão do procedimento investigatório criminal e o seu consequente trancamento.
+É o sucinto relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÃO. INEXISTENTE. MATÉRIA LEVANTADA NAS RAZÕES RECURSAIS QUENÃO FOI SOLVIDA PELA CORTE ORIGINÁRIA.AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL -STF. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. SÚMULA N. 284/STF. QUESTÃO DE ORDEM PÚBLICA. NECESSÁRIO O PREQUESTIONAMENTO PARA ABERTURA DA VIA ESPECIAL. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Não há omissão no julgado.A questão levantada nos presentes aclaratórios - excesso de prazo para a conclusão do inquérito policial - embora tenha sido arguida nas razões do recurso especial, não foi apreciada pela Corte de origem. Assim, em razão da ausência de prequestionamento, são aplicáveis os óbices previstos nas Súmulas ns. 282 e 356 do STF. Ademais, apresente indagaçãonão encontra amparo de análise por esta Corte em razão da ausência de indicação do dispositivo de lei violado, por incidência da Súmula n. 284/STF.
+2. Oprequestionamento das matérias de ordem pública é requisito necessário para a abertura da via especial. Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/5/2014).
+3.Embargos declaratórios rejeitados.
+VOTO
+Os embargos não merecem acolhida.
+Não há omissão no julgado.
+A questão levantada nos presentes aclaratórios - excesso de prazo para a conclusão do inquérito policial- embora tenha sido arguida nas razões do recurso especial, não foi apreciada pela Corte de origem.Assim,em razão da ausência de prequestionamento,são aplicáveis os óbices previstos nas Súmulas ns. 282 e 356 do STF.
+Ademais, a presente indagação não encontra amparo de análise por esta Corte em razão da ausência de indicação do dispositivo de lei violado, por incidência da Súmula n. 284/STF.
+Necessário esclarecer, ainda,que oprequestionamento das matérias de ordem pública é requisito necessário para a abertura da via especial.Ainda, segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/5/2014).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO CONCRETA. AUSÊNCIA.MÉRITO. APELO NOBRE. ANÁLISE. INVIABILIDADE. SÚMULA N. 182 DO STJ.AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. O agravo regimental não buscou afastar, concretamente, os fundamentos da decisão agravada, com o desenvolvimento de razões no intuito de demonstrar o prequestionamento da matéria e a impugnação a todos os fundamentos do acórdão da apelação. Trouxe apenas a alegação genérica de que não seriam tais óbices aplicáveis no caso de dosimetria das penas, porque se cuidaria de matéria de ordem pública, apreciável de ofício.
+3. Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade." (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014.) 4. Não ultrapassado o juízo de admissibilidade do agravo regimental e do recurso especial, inviável a análise das questões de mérito suscitadas no apelo nobre.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp 1699185/PE, Rel. Ministra LAURITA VAZ, SEXTA TURMA,DJe 25/3/2021).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REMIÇÃO DE PENA. JORNADA DE TRABALHO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. MATÉRIAS DE ORDEM PÚBLICA. HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem.
+2. O prequestionamento das matérias de ordem pública é requisito necessário para a abertura da instância especial.
+3. Nos termos do art. 654, § 2º, do Código de Processo Penal, os tribunais podem deferir ordem de habeas corpus de ofício, quando reconhecerem hipótese de flagrante ilegalidade. O writ, porém, não é meio para a defesa obter pronunciamento judicial a respeito de matéria de mérito de recurso que não ultrapassa os requisitos de admissibilidade.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1835554/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 12/3/2021).
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
+É como voto.
