@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se derecurso especial apresentado por Ecoesfera Empreendimentos Sustentáveis Ltda., com base no art. 105, III, a, da Constituição Federal.
+Compulsando os autos, verifica-se que os recorridos Igor Carlos de Faria e Camilla Elizabeth Marques Suaveajuizaram ação de indenização por danos morais e materiais (e-STJ, fls. 1-30), tendo o Juízo de primeiro julgado parcialmente procedentes os pedidos (e-STJ, fls. 2.050-2.058).
+Interposta apelação por Ecoesfera Empreendimentos Sustentáveis Ltda., o Tribunal estadual decidiu, por unanimidade, dar-lhe parcial provimento, nos seguintes termos (e-STJ, fls. 2.281-2.282):
+ILEGITIMIDADE PASSIVA. Álbum probatório que aponta pela participação da corré-apelante na relação jurídica negocial (compromisso de compra e venda de bem imóvel) que embasa os pedidos formulados na exordial. Regime de responsabilidade civil solidária previsto no diploma consumerista (arts. 7º, parágrafo único; 12, caput; 14, caput, e 25, § 1º, da Lei n. 8.078/90). Preliminar rejeitada. COMPROMISSO DE COMPRA E VENDA. Propriedade imóvel. Data prevista para entrega da unidade. Detalhe relevante do negócio jurídico. Disponibilidade tardia do bem (aproximadamente 15 meses). Ilicitude objetiva. Inadimplemento relativo caracterizado. Cláusula de tolerância. Ausência de ilicitude (Súmula 164 do TJ-SP e Tema 01 do IRDR n. 0023203-35.2016.8.26.0000). Expedição do "habite-se" que não afasta a mora contratual da promitente-vendedora (Súmula 160 do TJ-SP). Sentença mantida. DANOS MATERIAIS. Lucros cessantes. Quantia mensal durante o período de atraso arbitrada em 0,5% do valor atualizado do imóvel compromissado. Admissibilidade e adequação. Súmula 162 do TJ-SP e Tema 05 do IRDR n. 0023203-35.2016.8.26.0000. Sentença mantida. MULTA CONTRATUAL. Tese de aplicabilidade da multa moratória em prol dos consumidores. Simetria, a princípio, viável. Impossibilidade de cumulação com a indenização por lucros cessantes, sob pena de descabido bis in idem. Orientação do C. STJ firmada nos REsps ns. 1.635.428/SC e 1.498.484/DF, julgados sob o rito do art. 1.036 do CPC. Sentença reformada. JUROS. Afastamento dos juros remuneratórios e moratórios durante o período de atraso na entrega do imóvel compromissado (Súmula 163 do TJ-SP e Tema 08 do IRDR n. 0023203-35.2016.8.26.0000). Sentença mantida. DANOS MORAIS. A sonegação da propriedade no prazo estabelecido no negócio jurídico não enseja, em regra, sofrimento de ordem moral. Inexistência de quebra da esperança com a aspiração da morada. Depreciação da dignidade humana não verificada. Admissibilidade excepcional. Indenização indevida. Sentença reformada. Recurso parcialmente provido.
+Nas razões do recurso especial (e-STJ, fls. 2.339-2.351), alega a recorrente a existência de violação aos arts. 17, 18, 70, 337, IX, 373, 374 e 485, VI, do CPC/2015; 6º, VIII,7º, 18 e 25do CDC;393,caput, e parágrafo único, 394, 402, 403, 884 e885 do CC/2002.
+Sustenta suailegitimidadepara figurar no polo passivo da demanda e ser responsabilizada pelo pagamento dos valores impostos pela decisão judicial.
+Afirma a ilegalidade da condenação ao pagamento de indenização pelos lucros cessantes decorrentes do atraso na entrega do imóvel.
+Defende haver desproporcionalidade noquantumarbitrado na condenação.
+Assevera que a data do "habite-se" é o termo final de cumprimento das obrigações assumidas pela incorporadora, considerando-se que "a entrega das chaves depende exclusivamente da quitação do saldo do preço do imóvel", providência que depende apenas do comprador.
+Sendo assim, requer o provimento do presente recurso especial.
+Contrarrazões às fls. 2.357-2.366 (e-STJ).
+Decisão de admissibilidade às fls. 2.372-2.375(e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à ilegitimidade passiva da recorrente, o Tribunal local expôs os seguintes fundamentos (e-STJ, fl. 2.283):
+1. Da ilegitimidade passiva
+De plano, não vinga a preliminar de ilegitimidade passiva ad causam da corré-apelante notadamente porque esta participara da relação jurídica versada nestes autos como interveniente anuente, tal e qual restara evidenciado pelo documento a fls. 43/74.
+Incide, outrossim, o regime de responsabilidade civil solidária estabelecido pelo CDC (arts. 7º, parágrafo único; 12, caput; 14, caput, e 25, § 1º, da Lei n. 8.078/90).
+Tal circunstância, considerado o microssistema protetivo estabelecido pelo diploma consumerista, torna cristalina a legitimidade passiva da corré Tecnisa para figurar no polo passivo da presente relação jurídica processual, pois inseparável a cadeia negocial a qual se vinculara.
+Do excerto acima citado, constata-se que a Corte estadual entendeu que, tendo a recorrente participado da relação jurídica como interveniente anuente, ficou demonstrada a solidariedade entre todos o envolvidos no negócio jurídico.
+Diante dessa conclusão, mostra-se inviável a alteração dos fundamentos adotados pela instância originária, pois, para tanto, seria preciso que o Superior Tribunal de Justiça revisitasse todo o arcabouço fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Em relação à condenação ao pagamento de indenização pelos lucros cessantes, o Tribunal de origem assim se manifestou (e-STJ, fl. 1.027):
+2. Da mora contratual das rés
+Depreende-se dos autos que os autores celebraram com as rés compromisso de compra e venda do bem imóvel descrito na exordial, com previsão de entrega das chaves para novembro de 2011.
+No entanto, o imóvel somente foi entregue em 10/08/2013, isto é, aproximadamente quinze meses depois de expirado o prazo de tolerância de 180 (cento e oitenta) dias estabelecido na avença.
+Fixadas essas premissas, marque-se que o prazo de tolerância de 180 dias não é ilegal, vez que incrustado na prática do mercado específico.
+ ..
+Restara caracterizada, portanto, a entrega tardia da unidade autônoma compromissada.
+Nesta senda, a entrega tardia da propriedade imóvel em 10/08/2013 (aproximadamente 15 meses após o prazo de determinado) configura ilicitude objetiva.
+Ademais, a mora das rés não cessara a partir da data de expedição do "habite-se".
+A prestação das promitentes-vendedoras, seu dever contratual basal, só se conclui, pois, com a entrega de fato das chaves da unidade autônoma (entrega das chaves).
+Somente nesse instante os promitentescompradores realmente tiveram efetiva disponibilidade da propriedade objeto do negócio jurídico celebrado.
+ ..
+Lívida, portanto, a mora debitoris das rés, de modo que é de rigor a sua responsabilidade civil pelos prejuízos que dela decorrem (art. 389 do CC).
+3. Dos danos materiais
+Configurada a mora das fornecedoras, impõe-se a sua condenação no pagamento de indenização pelos danos materiais experimentados pelos consumidores em razão da inviabilidade de ocupação oportuna do bem imóvel prometido.
+Tal reparo vigora desde o fim do prazo de tolerância de 180 dias (28/05/2012), termo final para entrega da unidade autônoma prometida.
+Juridicamente correto o pleito de indenização por lucros cessantes, vez que se cuida de lesão pela indisponibilidade da propriedade contratada.
+A não fruição da propriedade imóvel é o suporte fático pertinente aos lucros cessantes.
+Essa verba indenizatória flui naturalmente da simples negativa de disponibilidade da propriedade objeto do negócio jurídico.
+ ..
+Na espécie, caracterizado o dever de honrar as perdas e danos experimentados, lícito que as rés respondam pelos lucros cessantes, os quais, considerando o valor do imóvel compromissado (R$ 277.875,00 - fls. 43), foram bem fixados pela r. sentença em quantia mensal correspondente a 0,5% do valor atualizado do bem, no período compreendido entre 29/05/2012 até 10/08/2013, incidindo juros moratórios a partir da citação (art. 240, caput, do CPC e art. 405 do CC).
+Da supramencionada passagem, depreende-se que o Tribunala quo, em virtude do atraso na entrega do imóvel, considerou ser devida indenização pelos lucros cessantes, diante dos prejuízos sofridos pelos recorridos.
+A jurisprudência consolidada do Superior Tribunal de Justiça entende que o atraso na entrega de imóvel configura ilícito, com prejuízo presumido para o adquirente, o qual deve ser indenizado a título de lucros cessantes.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC.INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. LUCROS CESSANTES PRESUMIDOS. DANO MORAL. SITUAÇÕES FÁTICAS ESPECÍFICAS QUE ULTRAPASSAM MERO DISSABOR. ATRASO DE SEIS ANOS. CONFIGURAÇÃO. VALOR.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. APLICAÇÃO DE MULTA. ART. 1.021, §4º DO CPC/15.
+1. Cuida-se, na origem, de ação de indenização por dano material e compensação por dano moral.
+2. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado  quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial.
+6. Alterar o decidido no acórdão impugnado, a fim de verificar a legitimidade passiva da agravante pelas circunstâncias da assunção do empreendimento tratado nos autos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+7. "Descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promitente comprador e desnecessária sua comprovação" (AgInt nos EDcl no REsp 1.866.351/SP, 3ª Turma, DJe de 22/10/2020). Precedentes.
+8. O STJ possui pacífica orientação de que se a situação exposta ultrapassar o mero dissabor, com peculiaridades analisadas pelo Tribunal de origem como na hipótese em que o atraso na entrega do imóvel adquirido foi de seis anos, é possível a condenação em compensar danos morais. Precedentes.
+9. Não verificada nítida ofensa aos princípios da razoabilidade e da proporcionalidade na fixação da compensação por dano moral, como na espécie, não é possível afastar a incidência da Súmula 7 do STJ.
+10. A análise da divergência jurisprudencial atinente a danos morais mostra-se incabível, porquanto, não obstante as semelhanças externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos.
+11. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+12. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+13. Não caracterizada a manifesta inadmissibilidade ou improcedência do agravo interno, é descabida a aplicação da multa prevista no art. 1.021, § 4º, do CPC/15.
+14. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1859642/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL.CLÁUSULA DE TOLERÂNCIA. ABUSIVIDADE. SÚMULAS 5 E 7 DO STJ. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. DANO MATERIAL PRESUMIDO.PRECEDENTES. DANO MORAL. OCORRÊNCIA. SÚMULA 7 DO STJ. COBRANÇA DAS DESPESAS DE CONDOMÍNIO ANTERIORES À IMISSÃO NA POSSE.IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da abusividade da cláusula de tolerância estabelecida no contrato, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n.
+5 e 7 do STJ.
+2. "Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador" (EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018).
+3. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+4. A efetiva posse do imóvel, com a entrega das chaves, define o momento a partir do qual surge para o condômino a obrigação de efetuar o pagamento das despesas condominiais. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1848775/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021)
+Relativamente ao termo final do pagamento de lucros cessantes, a jurisprudência desta Corte Superior orienta que o termo final da indenização por lucros cessantes é "a data da efetiva disponibilização das chaves por ser este o momento a partir do qual os adquirentes passam a exercer os poderes inerentes ao domínio, dentre os quais o de fruir do imóvel" (REsp 1.796.760/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 2/4/2019, DJe de 5/4/2019).
+Nessa linha:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CPC/2015. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DA OBRA. LONGO PRAZO. AQUISIÇÃO PARA FIM DE MORADIA. OCORRÊNCIA DE DANO MORAL.LUCROS CESSANTES. PRESUNÇÃO. PRECEDENTE ESPECÍFICO. TERMO "AD QUEM".DATA DA DISPONIBILIZAÇÃO DAS CHAVES AO ADQUIRENTE. JULGADOS DESTA CORTE SUPERIOR. TAXA CONDOMINIAL. COBRANÇA ANTERIOR À ENTREGA DAS CHAVES. DESCABIMENTO. CASO CONCRETO. QUITAÇÃO INTEGRAL DO PREÇO PELO CONSUMIDOR. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Controvérsia acerca das consequências do atraso de um ano e seis meses na entrega de um imóvel adquirido para fim de moradia sob o regime da incorporação imobiliária, tendo o consumidor quitado o preço, segundo a moldura fática delineada no acórdão recorrido.
+2. Ocorrência de dano moral em virtude do longo período de atraso (um ano e seis meses) na entrega de imóvel adquirido para fim de moradia do próprio adquirente. Julgados desta Corte Superior.
+Questão afetada ao Tema 996/STJ, sem determinação de sobrestamento de processos.
+3. Presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves. Precedente específico e julgados desta Corte Superior.
+4. Descabimento da cobrança, pela construtora, de taxa condominial referente ao período anterior à disponibilização das chaves ao adquirente. Julgados desta Corte Superior.
+5. Caráter protelatório do presente agravo interno tendo em vista alegação dissociada da realidade dos autos no que tange à quitação do saldo devedor pelo aquirente, sendo cabível a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+6. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA.
+(AgInt no REsp 1792742/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/08/2019, DJe 30/08/2019)
+Logo, constata-se que o posicionamento do Tribunal estadual encontra-se em sintonia com a jurisprudência do STJ.
+Em relação à suposta desproporcionalidade doquantumarbitrado na condenação, é preciso esclarecer que a revisão, por meio do julgamento do recurso especial, do quantitativo arbitrado pela instância originária para a reparação de dano materialtambém esbarra no óbice imposto pelo enunciado da Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso especial deECOESFERA EMPREENDIMENTOS SUSTENTÁVEIS LTDA.para, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. ILEGITIMIDADE PASSIVA. SOLIDARIEDADE RECONHECIDA. REVISÃO. SÚMULA. 7/STJ. LUCROS CESSANTES. POSSIBILIDADE.DESPROPORCIONALIDADE DOQUANTUMARBITRADO NAINDENIZAÇÃO. VERIFICAÇÃO. SÚMULA 7/STJ.RECURSO ESPECIAL DEECOESFERA EMPREENDIMENTOS SUSTENTÁVEIS LTDA.CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
