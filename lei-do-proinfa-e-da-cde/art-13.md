@@ -15,7 +15,7 @@ XI - prover recursos para as despesas de que trata o art. 4º-A da Lei no 12.111
 XII - prover recursos para pagamento de valores relativos à administração e movimentação da CDE, da CCC e da Reserva Global de Reversão (RGR) pela Câmara de Comercialização de Energia Elétrica (CCEE), incluídos os custos administrativos e financeiros e os encargos tributários;
 XIII - prover recursos para compensar o impacto tarifário da reduzida densidade de carga do mercado de cooperativas de eletrificação rural, concessionárias ou permissionárias, em relação à principal concessionária de distribuição supridora, na forma definida pela Aneel.
 XIII-A - prover recursos, exclusivamente por meio de encargo tarifário, e permitir a amortização de operações financeiras vinculadas a medidas de enfrentamento dos impactos no setor elétrico decorrentes do estado de calamidade pública, reconhecida na forma prevista no art. 65 da Lei Complementar nº 101, de 4 de maio de 2000;
-XIV - prover recursos para o custeio da isenção de que trata o art. 1º da Medida Provisória nº 1.010, de 25 de novembro de 2020.
+XIV - prover recursos para o custeio das isenções e do desconto de que tratam as disposições da lei resultante da conversão da Medida Provisória nº 1.010, de 25 de novembro de 2020.
 § 1º Os recursos da CDE serão provenientes:
 I - das quotas anuais pagas por todos os agentes que comercializem energia com consumidor final, mediante encargo tarifário incluído nas tarifas de uso dos sistemas de transmissão ou de distribuição ou cobrado diretamente dos consumidores pela CCEE, conforme regulamento da Aneel;
 II - dos pagamentos anuais realizados a título de uso de bem público;
@@ -26,7 +26,7 @@ V - das quotas anuais pagas por concessionárias de geração de energia elétri
 § 1º-B. Os pagamentos de que tratam os incisos IX e X do caput são limitados à disponibilidade de recursos de que trata o § 1º-A, destinados a esse fim.
 § 1º-C. O ativo constituído de acordo com o inciso IX do caput é limitado à disponibilidade de recursos de que trata o § 1º-B, destinados a esse fim, vedados o repasse às quotas anuais e a utilização dos recursos de que trata o § 1º.
 § 1º-F. Aos recursos de que trata o § 1º deste artigo serão, excepcionalmente, acrescidos os recursos de que trata o art. 5º-B da Lei nº 9.991, de 24 de julho de 2000, conforme regulamento e sob a fiscalização da Aneel.
-§ 1º-G Fica a União autorizada a destinar recursos para a CDE, limitados a R$ 80.000.000,00 (oitenta milhões de reais), para o custeio da isenção de que trata o inciso XIV do caput.
+§ 1º-G. Fica a União autorizada a destinar recursos para a CDE, limitados a R$ 80.000.000,00 (oitenta milhões de reais), para o custeio de que trata o inciso XIV do caput deste artigo.
 § 2º O montante a ser arrecadado em quotas anuais da CDE calculadas pela Aneel corresponderá à diferença entre as necessidades de recursos e a arrecadação proporcionada pelas demais fontes de que trata o § 1º.
 § 2º-A. O poder concedente deverá apresentar, conforme regulamento, até 31 de dezembro de 2017, plano de redução estrutural das despesas da CDE, devendo conter, no mínimo:
 I - proposta de rito orçamentário anual;
