@@ -1,0 +1,12 @@
+D E C I S Ã O
+    Trata-se de pedido de atribuição de efeito suspensivo a Recurso Extraordinário interposto pela parte ora requerente em face de acórdão emanado do Tribunal de Justiça do Estado de Minas Gerais no Processo nº 0200780- 21.2020.8.13.0000 .
+    Bem analisados os presentes autos, entendo inadmissível o pleito ora formulado.
+    Com efeito, o recurso extraordinário a que se pretende conferir eficácia suspensiva não foi conhecido pelo Primeiro Vice-Presidente da Corte de Justiça local, estando pendente de julgamento o recurso de agravo contra referida decisão monocrática, consoante admite a própria parte requerente em suas razões iniciais. Essa circunstância atrai a norma inscrita no art. 1.029, § 5º, III, do CPC, segundo a qual compete ao presidente ou vice-presidente do tribunal recorrido analisar o pedido de concessão de efeito suspensivo a recurso extraordinário formulado no “período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso”.
+    É assente na jurisprudência deste Tribunal que a jurisdição cautelar do Supremo Tribunal Federal tem início, apenas, com o provimento judicial que admite o recurso extraordinário a que se pretende atribuir eficácia suspensiva. Colho, por expressivo desse entendimento, o seguinte julgado:
+    “Cumpre ter presente, desde logo, que a concessão de medida cautelar, pelo Supremo Tribunal Federal, quando requerida na perspectiva de recurso extraordinário interposto pela parte interessada, supõe, para legitimar-se, a conjugação necessária dos seguintes requisitos: (a) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal (existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem ou resultante do provimento do recurso de agravo); (b) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição; (c) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica; e (d) que se demonstre, objetivamente, a ocorrência de situação configuradora do “periculum in mora” (RTJ 174/437-438, Rel. Min. CELSO DE MELLO, v.g.).”
+    (AC 3.415/BA, Relator Ministro Celso de Mello)
+    Por todo o exposto, não conheço deste pedido.
+    Intime-se. Publique-se.
+    Brasília, 27 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
