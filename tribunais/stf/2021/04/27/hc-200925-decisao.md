@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Bruno Rodrigues Alves, em favor de Carlos Eduardo Silva Cebim, contra decisão proferida pelo Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça (STJ), que denegou a ordem do HC n 639.378 – SP.
+    Consta dos autos que o paciente cumpre pena de 20 anos, em regime semiaberto, pelo delito de latrocínio.
+    A defesa impetrou habeas corpus no TJSP postulando, em suma, a concessão de prisão domiciliar, pois o apenado possui duas filhas menores de 12 anos que dependem exclusivamente de seus cuidados.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS EXECUÇÃO PENAL – Insurgência contra decisão que indeferiu o pleito de concessão da prisão domiciliar - Matéria adstrita à competência do Juízo da Execução - Remédio heroico não faz as vezes de Agravo em Execução, recurso adequado ao caso - Via imprópria para análise do mérito Decisão, ademais, que se revela fundamentada Paciente que, condenado pela prática do crime de latrocínio, em regime inicial fechado, cumpre pena definitiva, atualmente no regime semiaberto Pandemia do COVID-19 - Recomendação 62/2020 do CNJ que possui, como o próprio nome diz, caráter de recomendação Ausência de notícia de que estaria sob risco iminente Requerimento genérico - Decisão proferida no HC 165.704/DF, pelo C. STF, que se restringe às prisões provisórias e, ademais, não se aplica aos crimes cometidos com violência ou grave ameaça contra a pessoa - Constrangimento ilegal não verificado - Ordem denegada”. (eDOC 2, p. 38)
+    Daí a impetração de novo writ no STJ, que denegou a ordem por entender legítima a manutenção do apenado no cárcere.
+    Nesta Corte o impetrante reitera os pedidos pretéritos e enfatiza a concessão de prisão domiciliar, pois sua esposa (mãe de duas filhas e responsável pelo cuidado das crianças) faleceu em janeiro de 2020, de modo que as filhas encontra-se desamparadas.
+    Postula liminarmente e no mérito a imediata concessão de prisão domiciliar.
+    É o relatório.
+    Passo a decidir.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não ocorre no caso em questão.
+    Isso porque a prisão do acusado está lastreada na gravidade concreta do delito, haja vista cumprir pena por crime gravíssimo, notadamente, latrocínio.
+    Ademais, o fato do réu possuir filhos, por si só, não autoriza a imediata concessão de prisão domiciliar, principalmente, ante a notícia nos autos de que as crianças estão sob os cuidados de outros familiares, de modo que, por hora, as menores não encontram-se desamparadas.
+    Cito, a propósito, trechos da decisão proferida pelo STJ:
+    “No caso, não há reparo a ser efetuado nas decisões de origem, tendo em vista que se trata de paciente condenado à alta pena de 20 anos de reclusão, pela prática de crime grave e cometido mediante violência, a saber, latrocínio, tendo o Juízo de primeiro grau consignado que "os filhos do sentenciado vêm recebendo os devidos e necessários cuidados dispensados pelos familiares, não se revelando imprescindível, somente neste momento, a sua libertação para esse fim, que cometeu, não se pode deslembrar, grave crime" (eDOC 3)
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 27 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
