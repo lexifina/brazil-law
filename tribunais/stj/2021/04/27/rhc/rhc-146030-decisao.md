@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinárioemhabeas corpus, com pedido liminar, interposto por ERICLES DA SILVA BERNARDO contra acórdão denegatório proferido pelo Tribunal de Justiça do Estado de Alagoas noHabeas Corpusn.0805518-09.2020.8.02.0000.
+Consta nos autos que oPaciente foi presoem flagrante no dia 05/03/2018como incursonoart. 33 da Lei n.11.343/2006, ocasião em que foram apreendidos "188g (cento e oitenta e oito) gramas de maconha" (fl. 9). A prisão foi inicialmente relaxada, em razão do excesso de prazo na comunicação judicial do flagrante (fls. 25-29). Todavia, em 19/02/2020, ao receber a inicial acusatória, o Juízo de origem atendeu a requerimento do Ministério Público estadual e decretou a prisão preventiva do Paciente (fls. 41-46).
+Irresignada, a Defesa impetrouhabeas corpusno Tribunal de origem, cuja ordem foi denegada (fls. 85-92).
+Nas razões recursais, a Defesa sustenta, em síntese, que não háfundamentação para a prisão preventivae que é possível a aplicação de medidas cautelares diversas da prisão.
+Pleiteia, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição por outras medidas cautelares menos gravosas.
+É o relatório.
+Decido.
+De início, deve-se destacar que "conforme dispõe o art. 34, XVIII e XX, do RISTJ,é possível o julgamento dohabeas corpusliminarmente pelo relator, em casos de ausência de divergência sobre a matéria no órgão colegiado" (AgRg no HC 622.930/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/12/2020; sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Juízo de origem - referendado pelo Tribunal estadual - concluiu pelanecessidade da prisão cautelardevido à gravidade concreta da conduta, demonstrada especialmente pelo volume de entorpecentes apreendidos com o Paciente e pelos indícios de exercícioda traficância em ligação com afacção criminosa Primeiro Comando Capital - PCC.
+A esse respeito, extrai-sedo decreto prisional:
+"Além disso, vê-se de fIs. 80/95, que no aparelho telefônico apreendido em posse de ERICLES, descrito à f I. 80, após a perícia, foram encontradas diversas conversas do acusado com pessoas ligadas à associação criminosa denominada "PCC", a qual supostamente seria comandada na cidade de Pilar por Carlos Alberto da Silva Júnior, vulgo "JÚNIOR CAPOEIRA"ou "JÚNIOR PCC", onde nas conversas obtidas pela perícia restou constatado que sua identidade fora camuflada através da alcunha "Matuto".
+Cabe ressaltar, ainda que Carlos Alberto da SiIva Júnior, além de ser o suposto líder do trafico de drogas na cidade de Pilar, é considerado de alta periculosidade, o qual responde processos distintos de tráfico de drogas e como mandante de diversos homicídios.
+Em análise dos fundamentos para a decretação da prisão preventiva previstos no art. 312 do CPP, verifico que, a segregação cautelar decorre da necessidade de garantir a ordem pública, em razão da possibilidade concreta de reiteração delitiva, bem como para assegurar a aplicação da Lei Penal, evitando que os acusados se evadam do distrito da culpa.
+Diante dos fatos acima narrados, encontra-se demonstrada a gravidade do crime, até porque, vê-se que se os acusado continuarem em liberdade, colocarão em risco a ordem pública, assim como a instrução criminal, devendo, portanto, a liberdade dos réus serem sacrificadas em face do interesse maior da comunidade." (fl. 43, sem grifos no original)
+Desse modo, não se observa nenhuma ilegalidade flagrante no decreto prisional, pois "as circunstâncias fáticas do crime, como a grande quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade"(AgRg no HC 588.600/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/08/2020).
+Sobre o tema, confira-se:
+" ..
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência ao fato de a paciente ser membro de organização criminosa especializada na prática de tráfico de drogas denominada Primeiro Comando da Capital (PCC), exercendo função importante em nível local, por ser companheira do líder da Disciplina, auxiliando-o no controle dos membros femininos da facção, inclusive adolescentes, delegando a guarda de substâncias entorpecentes. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas.
+ .. " (HC 622.067/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 16/03/2021)
+Ademais, foi destacadoo risco concreto de reiteração delitiva, pois "o paciente responde a outra ação penal (autos nº 000167-78.2019.8.02.0047/17a Vara Criminal da Capital), pela suposta prática do crime de organização criminosa" (fl. 90).
+De fato, a jurisprudênciadesta Corte Superior admite que "inquéritos ou ações penais em curso evidenciam o maior envolvimento do agente com a prática delituosa, podendo ser utilizados para justificar a manutenção da segregação cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva" (AgRg no HC 621.909/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 12/03/2021).
+No mesmo sentido:
+" ..
+2. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+ .. "(RHC 138.774/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2021, DJe 26/03/2021, sem grifos no original).
+Ademais, "dado o fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal)"(AgRg no HC 621.618/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,DJe 30/03/2021).
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUBSTITUIÇÃO NÃO RECOMENDADA. RECURSO ORDINÁRIO DESPROVIDO.
