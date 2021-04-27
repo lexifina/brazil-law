@@ -1,0 +1,39 @@
+DECISÃO
+Trata-s e de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 706):
+LITIGÂNCIA DE MÁ-FÉ. Oposição de embargos de declaração sem veicular omissão, contradição, obscuridade ou erro material Caracterizado procedimento temerário, resistência injustificada e interposição de recurso manifestamente protelatório Inteligência do disposto nos incisos IV, V e VII do art. 80 Condenação dos agravantes no pagamento de multa e indenização Aplicação do disposto no art. 81 e no § 2º do art. 1.026 do Cód. de Proc. Civil.
+CUMPRIMENTO DE SENTENÇA Ação de cobrança de diferenças de correção monetária em caderneta de poupança Realização de cálculos pela contadoria judicial baseados em documentos apresentados após a impugnação ao cumprimento do julgado Inadmissibilidade Compatibilidade com o decidido no REsp 1297877/GO Decisões mantidas Agravo regimental improvido.
+Na origem, o requerente interpôs agravo de instrumento contra decisão que, em autos de ação de cobrança de diferenças de correção monetária de caderneta de poupança em fase de cumprimento de sentença, homologou o cálculo e rejeitou a impugnação, com o fundamento de que se pretenderia apenas rediscutir matéria decidida na fase de conhecimento.
+O relator, em decisão monocrática, deu parcial provimento ao recurso, determinando a elaboração de novos cálculos, de modo a contemplar apenas eventual diferença entre o índice devido, mencionado no título judicial, e aquele efetivamente aplicado.
+Refeitos os cálculos, foi interposto novo agravo de instrumento, dessa vez pela parte requerida (exequente), contra a decisão que rejeitou os cálculos por ela apresentados, bem como suas m anifestações em relação aos documentos acostados pelo requerente.
+Referido recurso foi provido por decisão unipessoal do relator (e-STJ fls. 677/679), o qual determinou a realização de "novos cálculos, considerando-se apenas os documentos juntados até a r. decisão que encerrou a fase de liquidação (r. decisão copiada a fls. 346) e o disposto no título executivo judicial (pagamento das diferenças de correção monetária relativa a abril de 1990 das cadernetas de poupança indicadas, exatamente como constou do AI 0227399-06.2012.8.26.0000), limitando-se qualquer discussão acerca de eventual excesso de execução aos valores acrescidos posteriormente" (e-STJ fl. 678).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 745/746), também por decisão monocrática.
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional (e-STJ fls. 748/768), o requerente alega preliminarmente a nulidade do julgamento pela "absoluta ausência de exame das questões oportunamente suscitadas" (e-STJ fl. 753) (violação dos arts. 489, § 1º, III e IV, 1.022, caput, I e II, e parágrafo único, II, do CPC/2015).
+Além disso, sustenta ter o acórdão impugnado decidido novamente questão acobertada pela preclusão, pois teria desconsiderado decisão anterior que determinou "a elaboração de novo cálculo considerando apenas as eventuais diferenças de rendimento, sem restrição quanto aos documentos apresentados na fase de impugnação" (e-STJ fl. 760), bem como "a circunstância de que os cálculos que mandou refazer haviam sido elaborados em estrita consonância com a decisão monocrática proferida pelo próprio relator e que transitou em julgado" (e-STJ fl. 764) (violação do art. 507 do CPC/2015).
+Afirma, por fim, a necessidade de afastamento da multa imposta por pretensa litigância de má-fé (violação dos arts. 80, 81 e 1.026, § 2º, do CPC/2015).
+A insurgência foi inadmitida na origem, por falta de exaurimento da instância ordinária (e-STJ fls. 808/810), o que ensejou a interposição de agravo nos próprios autos (AREsp n. 1.164.732/SP), provido para determinar sua conversão em recurso especial (e-STJ fl. 852).
+É o relatório.
+Decido.
+Merece acolhida a pretensão do recorrente, no que diz respeito à alegada violação do art. 1.022 do CPC/2015.
+O recorrente opôs embargos declaratórios, buscando sanar vício de fundamentação sobre os seguintes temas:
+(a) liquidação de sentença (e-STJ fl. 756):
+O recorrente argumentou que, aqui, não houve liquidação de sentença, como tal concebida pelo Código de Processo Civil anterior, sob cuja regência se deram os fatos processuais, isto é, não houve liquidação por arbitramento, nem tampouco liquidação por artigos.
+Na verdade, os autores sequer pleitearam a liquidação da sentença, mesmo porque, segundo eles, a apuração dependia de simples cálculos aritméticos. Exatamente por essa razão, pediram diretamente a intimação do agravado para pagar a quantia apontada, na forma do artigo 475-J do Código de Processo Civil.
+Tanto assim que, quando o recorrente questionou os cálculos elaborados pelos recorridos, o Egrégio Tribunal decidiu que os cálculos dos autores deveriam levar em conta apenas os documentos trazidos antes da sentença.
+(b) preclusão (e-STJ fl. 756):
+De igual forma, a decisão monocrática e depois o acórdão recorrido não fizeram qualquer exame do argumento de que a questão estava preclusa. Isso porque o cálculo homologado pelo magistrado de primeiro grau, objeto deste recurso, havia sido elaborado nos precisos e exatos termos da decisão que o mesmo Relator havia proferido em anterior agravo de instrumento interposto pelo ora recorrente, tudo como se verá melhor adiante.
+Apesar dos relevantes pontos apresentados pela parte nos embargos, o Tribunal a quo, entendendo não haver nenhum vício no acórdão, rejeitou os declaratórios.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos aclaratórios em relação a ponto essencial ao deslinde da causa, impõe-se a anulação do acórdão recorrido, para que o recurso seja novamente apreciado. Nesse sentido, a título de exemplificação, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NATUREZA DO CONTRATO FIRMADO ENTRE A RECORRENTE E A CORRÉ. EXPLICITAÇÃO. NECESSIDADE. ART. 535, II, DO CPC. VIOLAÇÃO CONFIGURADA.
+1. Há ofensa ao art. 535, II, do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+(..)
+3. Recurso especial provido.
+(REsp n. 1.130.311/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/8/2011, DJe 15/8/2011.)
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+(..)
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante disso, tem-se por violado o art. 1.022 do CPC/2015, impondo-se a anulação do acórdão que julgou os declaratórios e a devolução dos autos ao TJSP, para que nova decisão seja proferida, de modo a sanar o vício apontado.
+Ante do exposto, DOU PROVIMENTO ao recurso especial, para anular o acórdão proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem para exame das questões apontadas.
+Publique-se e intimem-se.
+EMENTA
