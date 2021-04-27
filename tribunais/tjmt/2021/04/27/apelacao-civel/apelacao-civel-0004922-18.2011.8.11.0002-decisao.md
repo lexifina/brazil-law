@@ -1,0 +1,33 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) 0004922-18.2011.8.11.0002 - COMARCA DE VÁRZEA GRANDE
+APELANTE: NOBRE SEGURADORA DO BRASIL S.A.
+APELADO: WILLIAN PEREIRA DOS SANTOS
+DECISÃO MONOCRÁTICA
+DESA. NILZA MARIA PÔSSAS DE CARVALHO (RELATORA)
+Trata-se de recurso de apelação cível interposto por NOBRE SEGURADORA DO BRASIL S.A, contra a sentença proferida pelo Juízo da 2a Vara Cível da Comarca de Várzea Grande/MT, nos autos de Ação de Indenização por Danos Materiais e Morais n. 0004922-18.2011.8.11.0002, proposta por WILLIAN PEREIRA DOS SANTOS, que julgou procedentes os pedidos da exordial para condenar TRANSPORT LOTAÇÃO LTDA. ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais), por danos materiais no valor de R$ 632,22 (seiscentos e trinta e dois reais e vinte e dois centavos) e R$ 2.041,60 (dois mil, quarenta e um reais e sessenta centavos a título de lucros cessantes, condenou a empresa segurada ao pagamento das verbas de sucumbência, cujos honorários foram fixados em 20% (vinte por cento) sobre o valor da condenação, bem como julgou procedente a denunciação à lide para condenar solidariamente a apelante, nos limites previstos na apólice do seguro.
+A apelante sustenta, em síntese, que houve culpa exclusiva da vítima, uma vez que não teria tido cautela ao transitar dentro do veículo coletivo, fator que exclui a responsabilidade civil, hábil à condenação.
+Reforça que diante disso, a empresa segurada não teria obrigação de reparar qualquer dano. Subsidiariamente, requer a redução da condenação por danos morais.
+Ao final, requer o provimento do recurso, para que os pedidos da inicial sejam julgados improcedentes.
+Em análise preambular, foi determinada a manifestação sobre eventual ofensa ao princípio da dialeticidade recursal.
+Intimado, o apelante confirmou que os fatos impugnados se referem à lide estranha ao processo, mas que poderiam ser aproveitados os fundamentos sobre ausência de responsabilidade, entre outros.
+É o relatório.
+Decide-se.
+Aplica-se à hipótese o teor contido no art. 932, III do Código de Processo Civil, o qual permite ao relator não conhecer do recurso manifestamente inadmissível, improcedente, prejudicado, ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nesse contexto, analisando as argumentações apresentadas no recurso, verifica-se que estas são dissociadas dos fundamentos lançados na sentença e do processo, isso porque, a apelante alega que há ausência de responsabilidade por culpa exclusiva da vítima que não teve cautela ao transitar dentro do veículo coletivo. Ocorre que o acidente se tratou de abalroamento do coletivo contra uma motocicleta.
+Dessa forma, pelo consignado na sentença expressamente, percebe-se que o apelante traz manifestação totalmente diversa ao ali decidido, não impugnando especificamente os fundamentos da decisão.
+Sobre o assunto, FREDIE DIDIER JR. e LEONARDO CARNEIRO DA CUNHA, esclarecem que:
+“[...] deve o recorrente, por exemplo, sob pena de inadmissibilidade de seu recurso: a) apresentar as suas razões, impugnando especificamente as razões da decisão recorrida [...]” (Curso de Direito Processual Civil, vol. 3, 11. Ed., Salvador: Juspodivm, p. 67/69).
+No mesmo sentido, DANIEL AMORIM ASSUMPÇÃO NEVES elucida que tal ausência de impugnação aos fundamentos da decisão configura a violação ao princípio da dialeticidade, veja-se:
+“[...] exige do recorrente a exposição de seus fundamentos recursais, indicando precisamente qual a injustiça ou ilegalidade da decisão impugnada. [...] considerando-se a regra do ‘tantum devolutum quantum appelatum’ [...] a atuação jurisdicional do Tribunal estará vinculada à pretensão do recorrente, exposta em sua fundamentação e em seu pedido, o que demonstra claramente a importância do princípio da dialeticidade.” (Manual de Direito Processual Civil, 5. Ed., São Paulo: Método, 2013, p. 604/605)
+Assim, constatada que as razões da apelação se encontram dissociadas com os fundamentos da sentença, visto que calcado em fatos diversos, imperioso o não conhecimento do recurso. Apesar de a apelante alegar que se pode “aproveitar” as razões do recurso, vê-se que os debates são conexos aos fatos, por isso não se pode realizar uma “modulação” do recurso para o conhecimento da matéria.
+A propósito:
+CUMPRIMENTO DE SENTENÇA – EXTINÇÃO - RAZÕES DO APELO – AUSÊNCIA DE RELAÇÃO COM OS FUNDAMENTOS DA SENTENÇA – VIOLAÇÃO DO PRINCÍPIO DA DIALETICIDADE – ART. 1.010, II, CPC – RECURSO NÃO CONHECIDO. Quando as razões esposadas no apelo não guardam qualquer relação com os fundamentos da sentença, há violação do princípio da dialeticidade, disposto no art. 1.010, II, do CPC, impondo o não conhecimento do recurso. (TJMT, Ap 178174/2016, DES. CARLOS ALBERTO ALVES DA ROCHA, QUINTA CÂMARA CÍVEL, Julgado em 15/03/2017, Publicado no DJE 21/03/2017)
+“PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO No 03/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTIGO 544, § 4o, I, 2a PARTE, DO CPC/1973. SÚMULA No 182/STJ. (...)
+3. A impugnação deve ser específica e suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento. 4. Nesse sentido: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada" (STJ, AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016). 5. De igual modo: ‘À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia’ (...). 6. Agravo interno não provido.” (STJ, AgInt no AREsp 999.389/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/12/2016, DJe 15/12/2016) (Destaca-se.)
+Dessa forma, diante da ausência de impugnação específica aos fundamentos da decisão, e, por inobservância ao princípio da dialeticidade, o recurso não comporta conhecimento.
+Ante o exposto, NÃO CONHEÇO O RECURSO, com fulcro no art. 932, III parte final, do CPC.
+Publique-se.
+Intimem-se.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
