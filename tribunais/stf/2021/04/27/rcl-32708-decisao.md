@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    A União afirma haver a Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Pará, no processo nº 0028165-07.2015.4.01.3900, desrespeitado o teor do verbete vinculante nº 37 da Súmula.
+    Narra que Caio Castagine Marinho, magistrado federal, ajuizou contra si ação visando o pagamento de ajuda de custo decorrente da posse no referido cargo público, levando em conta a alegada simetria constitucional entre membros do Judiciário e do Ministério Público. Esclarece a procedência do pedido, entendimento mantido em sede de recurso inominado, ante o princípio da isonomia, surgindo daí o arguido desrespeito. Menciona a apresentação de incidente de uniformização para a Turma Nacional, o qual teve a sequência obstada.
+    Sustenta violado o paradigma porquanto assegurada a integrante do Judiciário a percepção de ajuda de custo em virtude do regime atinente a membros do Ministério Público. Diz que a partir de suposta isonomia remuneratória entre as carreiras, o Órgão reclamado atuou como legislador positivo, incorrendo em contrariedade ao verbete vinculante nº 37, o qual, segundo aduz, engloba não apenas vencimentos, mas também verbas de caráter indenizatório. Evoca jurisprudência. Salienta alcançar enunciado, a título de servidores, quaisquer agentes públicos, cabendo observar somente as vinculações remuneratórias explicitamente previstas na Constituição Federal. Realça a óptica do Supremo no sentido da inexistência de paridade.
+    Requereu, no campo precário e efêmero, a suspensão da tramitação na origem. Busca a cassação do ato atacado.
+    Vossa Excelência, em 14 de dezembro de 2018, deferiu a medida acauteladora.
+    O Tribunal informou o histórico processual e os fundamentos do pronunciamento impugnado.
+    Caio Castagne Marinho, em contestação, afirma ausente desrespeito ao verbete, uma vez versar a controvérsia na origem sobre ajuda de custos e não aumento de vencimentos.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Sustenta que a vantagem foi concedida a partir do previsto em resolução do Conselho Nacional de Justiça.
+    2. O Órgão reclamado, ao levar em conta o tratamento simétrico no tocante a vantagens funcionais, valeu-se do princípio isonômico, mesmo implicitamente, para reconhecer o direito da interessada ao pagamento de ajuda de custo em razão da posse no cargo, considerado o regime jurídico dos integrantes da carreira do Ministério Público da União. Incorreu em ofensa ao enunciado vinculante nº 37, no que alterada, na via judicial e sem respaldo em lei, a remuneração de servidor gênero. Não cabe potencializar o alcance do artigo 129, § 4º, da Constituição Federal e a distinção entre agentes e servidores públicos, quanto ao campo de abrangência do mencionado verbete, para daí concluir-se haver base normativa a dispensar a atuação do legislador ordinário relativamente à previsão de satisfação da parcela.
+    3. Julgo procedente o pedido formulado, para cassar o acórdão formalizado pela Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Pará, no processo nº 0028165-07.2015.4.01.3900.
+    4. Publiquem.
+Brasília, 27 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
