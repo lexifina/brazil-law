@@ -1,0 +1,27 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Roubo majorado. Regime inicial. Substituição da pena. Prisão decorrente de sentença penal condenatória irrecorrível. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 643.550, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 anos 5 meses de reclusão, em regime inicial fechado, pelo crime previsto no art. 157, § 2º, I e II, do Código Penal, assegurado o direito de recorrer em liberdade.
+    3. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) negou provimento à apelação da defesa, determinando a expedição de mandado de prisão contra o condenado “oportunamente”. Após, foram opostos embargos declaratórios, rejeitados.
+    4. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. O Relator do HC 643.550, Ministro Felix Fischer, não conheceu do writ.
+    5. Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a imposição de regime inicial mais gravoso, assim como para a decretação da prisão do paciente, destacando que, “à luz do princípio da proporcionalidade, do necessário enfrentamento da emergência atual de saúde pública (COVID-19), das novas alternativas fornecidas pela lei n. 12.403/2011 e das alterações do Código de Processo Penal determinadas pela instituída lei AntiCrime n. 13.964/2019, há razoabilidade na opção em optar por determinar, uma ou mais providências indicadas no art. 319, do Código de Processo Penal”.
+    6. Prossegue a narrativa para sustentar a possibilidade da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    7. A defesa requer a concessão da ordem a fim de fixar o regime inicial semiaberto e revogar prisão do paciente. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    8. Decido.
+    9. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    10. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    11.  Não é o caso de concessão da ordem de ofício.
+    12. Reconheço que a “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, no caso, o regime fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente em razão da existência de circunstância judicial desfavorável.
+    13. A alegação de ausência de fundamentação idônea para a decretação da prisão do paciente não foi sequer analisada pelo STJ. Fato que impede o imediato exame da matéria, sob pena de supressão de instância.
+    14. Ainda que assim não fosse, observo que o TJ/SP, no julgamento dos embargos declaratórios opostos pela defesa, assentou que “não compreendeu o embargante que a expedição do mandado de prisão ocorrerá ‘oportunamente’ (fl. 576), vale dizer depois de verificado o trânsito em julgado do Acórdão”.
+    15. Sendo assim, o caso atrai o entendimento do STF no sentido de que a “prisão decorrente de sentença criminal transitada em julgado encontra arrimo na jurisprudência consolidada deste Supremo Tribunal Federal. O ajuizamento da ação revisional não impede a execução da pena definitiva” (HC 120.492, Relª. Minª. Rosa Weber).
+    16. Por fim, pontuo quevo STF já decidiu que não é possível a substituição da pena fixada em patamar superior a 4 anos de reclusão, nos termos do art. 44, I, do Código Penal (HCs 118.602 e 119.811, Rel. Min. Teori Zavascki; HC 121.543, Rel. Min. Luiz Fux; HC 118.717, Rel. Min. Ricardo Lewandowski).
+    17. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 27 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
