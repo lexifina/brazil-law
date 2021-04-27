@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por BOA VISTA SERVIÇOS S.A. contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 338/344).
+O acórdão recorrido está assim ementado (e-STJ fl. 194):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA POR DANOS MORAIS - INCLUSÃO IRREGULAR DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO - AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO - PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA - REsp n.º 1061134/RS - DANO MORAL PURO - QUANTUM INDENIZATÓRIO MANTIDO - RECURSO CONHECIDO E DESPROVIDO - SENTENÇA MANTIDA.
+O Superior Tribunal de Justiça, no julgamento do Recurso Repetitivo REsp n.º 1061134/RS, pacificou o entendimento de que os órgãos mantenedores de cadastro possuem legitimidade passiva nas demandas que buscam reparação de danos decorrentes da ausência de prévia comunicação ao consumidor da inscrição do seu nome nos referidos cadastros.
+É desnecessária a prova do prejuízo moral causado na hipótese de inscrição irregular do nome do consumidor em cadastro de restrição de crédito, por serem presumidos os efeitos nocivos de tal ato perante o meio social e comercial em que vive a vítima, assim, restam provados com a simples demonstração do próprio fato da inscrição, o que foi feito nos autos.
+Deve ser mantida a quantia arbitrada a título de danos morais, que constitui-se em justa compensação ao lesado e adequado desestímulo ao lesante.
+Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 229/232).
+Nas razões do recurso especial (e-STJ fls. 235/270), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou ofensa aos arts. 489 e 1.022 do CPC/2015, pois omisso o acórdão ao analisar as provas existentes nos autos relacionadas à existência de comunicação de inclusão do nome do devedor em cadastro de inadimplentes.
+Considerou violado o art. 43, § 2º, do CDC, estando a decisão em desacordo com as Súmulas n. 359 e 385 do STJ, alegandoque foi cumprido o dever de enviar ao consumidor devedor a notificação informando sobre a iminência do apontamento. Assim, deve ser afastada a condenação em indenização. Mencionou precedentes. Indicou dissídio em relação ao fato da parte devedora ter outros apontamentos anteriores em seu nome.
+No agravo (e-STJ fls. 346/352), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 355/363).
+É o relatório.
+Decido.
+A respeito da inclusão do nome do devedor em cadastro de inadimplentes e a prévia comunicação, os julgadores da origem esclareceram (e-STJ fls. 197/198):
+No caso dos autos, como bem verificou o magistrado de primeiro grau, a parte autora teve seu nome inserido no sistema de proteção ao crédito em 4 (quatro) ocasiões, todos no ano de 2015, em razão de supostos débitos com a Loja Avenida, Loja Renner, Banco Ibi S/A Banco Múltiplo e Omini S/A Cred Financ Investimentos, como extrato de f. 22.
+A apelante comprovou nos autos a remessa de prévia notificação ao devedor, no que tange aos débitos com a Lojas Renner (f. 100) e Omini S/A Cred Financ Investimentos (f. 101), no entanto, deixou de comprovar as notificações prévias relativas à inserção do nome do autor em relação aos débitos da Loja Avenida e do Banco Ibi S/A Banco Múltiplo.
+Vale ressaltar também que a inscrições da lojas Lojas Renner, Omini S/A Cred Financ Investimentos e Banco Ibi S/A Banco Múltiplo foram efetivadas na mesma data, qual seja, 02.04.2015 e a última inscrição contestada foi efetivada em 09.04.2015 (Lojas Avenida), assim, não há que se falar em aplicação da súmula 385, do STJ, uma vez que não se trata de inserção pré-existente, mas sim concomitante.
+É desnecessária a prova do prejuízo moral causado na hipótese de inscrição irregular do nome do consumidor em cadastro de restrição de crédito, por serem presumidos os efeitos nocivos de tal ato perante o meio social e comercial em que vive a vítima, assim, restam provados com a simples demonstração do próprio fato da inscrição, o que foi feito nos autos.
+Tendo a Turma julgadora assim decidido, pela inexistência de comunicação de todas as inclusões em cadastro de inadimplentes e a ocorrência de inscrições concomitantes, não havendo anteriores, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ, fundamento cabível para as alíneas "a" e "c" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
