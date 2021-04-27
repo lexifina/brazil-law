@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Juízo Federal da 9.ª Vara de Execuções Fiscais da Seção Judiciária de São Paulo (suscitante) e o Juízo Federal da 2.ª Vara de Criciúma - SJ/SC (suscitado), em execução fiscal ajuizada pelo Conselho Regional dos Representantes Comerciais no Estado de Santa Catarina (CORE/SC) em face de Diego de Oliveira.
+O feito executivo foi distribuído, inicialmente, ao Juízo Federal da 2.ª Vara de Criciúma, que declinou da competência, ao argumento de que o processamento da execução fiscal deve se dar no local em que domiciliado o devedor, razão pela qual determinou a remessa dos autos para a Seção Judiciária do Estado de São Paulo (fls. 17/18).
+Foi então que o Juízo Federal da 9.ª Vara de Execuções Fiscais da Seção Judiciária de São Paulo se deu por incompetente, firme em que "Da propositura da ação exsurgiu a "perpetuatio jurisdiciones" não podendo a Ilustre Magistrada declinar da competência de ofício ou mesmo a pedido da exequente, consoante o disposto no artigo 43 do Código de Processo Civil e nos termos do enunciado da Súmula 58 do STJ", além do que "a competência territorial é relativa, só podendo ser arguida por meio de exceção, e não declinada de ofício" (fl. 7).
+Essa a origem do presente conflito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Como bem anotou o Juízo suscitante, a competência para julgamento da execução fiscal, pelo domicílio da parte executada, é de natureza relativa e, portanto, não pode ser declinada de ofício, nos termos da Súmula 33 deste Superior Tribunal, assim redigida: "A incompetência relativa não pode ser declarada de ofício".
+COM ESSAS BREVES CONSIDERAÇÕES, conheço do conflito e declaro competente o Juízo Federal da 2.ª Vara de Criciúma - SJ/SC (suscitado).
+Decisões no mesmo sentido: CC 150.815/SP, Rel. Ministro Og Fernandes, DJe 23/2/2017; CC 150.821/SP, Relª. Ministra Regina Helena Costa, DJe 14/2/2017; CC 150.225/SP, Rel. Ministro Gurgel de Faria, DJe 3/2/2017; CC 143.199/SP, Rel. Ministro Benedito Gonçalves, DJe 7/11/2016.
+Publique-se.
