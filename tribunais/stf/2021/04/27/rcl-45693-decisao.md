@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    José Lino Esteves dos Santos afirma haver o Presidente da Turma Recursal de Jurisdição Exclusiva de Belo Horizonte/MG, Betim e Contagem, no processo nº 9052231-77.2016.813.0024, inobservado o decidido no recurso extraordinário com agravo nº 1.254.835 e, sob a sistemática da repercussão geral, no de nº 648.629 – Tema nº 549.
+    Diz ter ajuizado, na condição de servidor público, ação contra o Estado de Minas Gerais, sendo acolhido o pedido. Interposto recurso inominado, foi declarado intempestivo. Desprovidos embargos declaratórios, sobreveio recurso extraordinário, cuja sequência foi indeferida. Agravo acabou remetido ao Supremo, tendo o então Presidente, ministro Dias Toffoli, determinado a baixa, no que adequado agravo interno. Com a devolução do processo, realça que, em vez de determinar a certificação do trânsito em julgado, o Presidente da Turma Recursal assentou a pertinência de o Colegiado de origem reanalisar, em juízo de retratação, o recurso inominado, surgindo o descompasso.
+    Sustenta que a autoridade reclamada contrariou o decidido no recurso extraordinário com agravo nº 1.254.835, porquanto, uma vez reconhecida, pelo Presidente, a inadequação de agravo direcionado ao Supremo, sendo cabível o interno, o processo não poderia ter sido enviado ao Órgão fracionário para, em recurso inominado, efetuar juízo de retratação. Tem como desrespeitada a óptica adotada no Tema nº 549 do repertório da repercussão geral, a revelar a desnecessidade de intimação pessoal de ocupantes do cargo de Procurador federal no âmbito dos Juizados Especiais Federais.
+    Requer a cassação do ato impugnado.
+    2. Relativamente à inobservância do assentado no recurso extraordinário com agravo nº 648.629, a análise da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil revela estar o cabimento da reclamação, objetivando ver reconhecida erronia quanto ao regime da repercussão maior, condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando examinado agravo interposto em face de inadmissão de recurso extraordinário. O requisito não foi atendido, sendo direcionada a irresignação contra ato do Presidente da Turma Recursal que implicou o envio do processo ao Órgão fracionário, para eventual juízo de retratação.
+    No tocante ao pronunciamento formalizado no recurso extraordinário com agravo nº 1.254.835, o Presidente à época, ministro Dias Toffoli, limitou-se a consignar a inadequação da remessa do agravo ao Tribunal, considerada a negativa de sequência ao recurso extraordinário ante enfoque adotado em precedente submetido ao regime da repercussão geral.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 27 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
