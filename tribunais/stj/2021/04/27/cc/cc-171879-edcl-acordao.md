@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA.
+1. De acordo com a norma do artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material, nenhuma delas presentes na espécie.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pela ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU contra acórdão de minha relatoria, assim ementado (fls. 271/272):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ORDINÁRIA. VALIDAÇÃO DE DIPLOMA DE CURSO SUPERIOR. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. INCIDÊNCIA DAS SÚMULAS 150, 224 E 254/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Na forma da jurisprudência desta Corte, "o art. 109 da CF/88 elenca a competência da Justiça Federal em rol taxativo que, em seu inciso I, menciona as causas a serem julgadas pelo juízo federal em razão da pessoa, competindo a este decidir sobre a existência de interesse jurídico que justifique, no processo, a presença da União, suas autarquias ou empresas públicas (Súmula 150/STJ)" (AgInt no CC 157.365/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 21/2/2020).
+2. Caso concreto em que, tendo o Juízo Federal decidido pela ausência de interesse da União em figurar no polo passivo da demanda, afastando assim a hipótese do art. 109 da Constituição da República, a competência é da Justiça comum. Nesse sentido: AgInt no CC 171.887/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 3/9/2020.
+3. "No âmbito do conflito de competência, não se discute o mérito da ação, tampouco qual seria o rol de responsabilidades atribuído a cada ente federativo em relação ao Sistema Único de Saúde. Cumpre apenas a análise do juízo competente para o exame do litígio, nos termos em que apresentados o pedido e a causa de pedir" (AgInt no CC 166.964/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 19/11/2019).
+4. Agravo interno não provido.
+Sustenta a parte embargante a existência de contradição no julgado.
+Nesse sentido, argumenta que (fl. 288):
+Em apertada síntese, o pedido da parte autora é a declaração de validade do registro do diploma de graduação. O simples fato de a instituição de ensino superior ser mantida ou administrada por pessoas físicas ou jurídicas de direito privado basta à sua caracterização como instituição de ensino privada, e, por conseguinte, sujeitas ao Sistema Federal de Ensino conforme a Lei 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional).
+Portanto, não houve manifestação isolada da Recorrente, mas sim cumprimento de determinação expressa do Ministério da Educação para que fossem cancelados os registros dos diplomas expedidos pela FALC em desconformidade com os atos de credenciamento.
+E ainda (fl. 291):
+Em suma, presente lida versa sobre (i) validade deregistro de diploma de ensino superior; (ii) oferta de ensino superior à distância sem o devido credenciamento pelo MEC; (iii) registro de diploma de graduação.
+Desse modo, resta claro que não se trata de demanda onde é discutida a relação de consumo entre a instituição prestadora do serviço educacional e a parte contratante, mas sim sobre a validade do registro do diploma, que foi cancelado em razão do processo de supervisão instaurado pelo Ministério da Educação, decorrente da oferta irregular por parte das Instituições Prestadoras, inclusive, fora da sede sem do devido credenciamento por parte do MEC.
+À luz desses argumentos, defende que (fl. 307):
+Não há que se falar em ausência de interesse da União, pois não se fala de responsabilidade direta de ente público federal, mas irregular conduta no EXERCÍCIO DIRETO DA ATIVIDADE DELEGADA PELA UNIÃO. Tanto é verdade que o próprio MEC editou portarias DETERMINANDO que a Embargante regularizasse a situações, dentre as quais sustenta a Embargada que está inserida (Portaria 910/18). Ora, se o diploma da autora está inserido no art. 4º da referida portaria (Art. 4º A Universidade Iguaçu (Cod. 330) deverá corrigir eventuais inconsistências constatadas pela SERES/MEC nos 65.173 registros de diplomas cancelados, no prazo de 90 (noventa) dias a contar do recebimento de notificação da SERES/MEC), parece evidente o interesse da União, não decorrente de responsabilidade direta própria, de suas fundações ou autarquias, mas no interesse de ver cumprida sua determinação.
+No mais, tece considerações acerca do próprio mérito da controvérsia.
+Por fim, requer o acolhimento dos embargos de declaração para que seja declarada a competência da Justiça Federal.
+Impugnação às fls. 373/378.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA.
+1. De acordo com a norma do artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material, nenhuma delas presentes na espécie.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Na forma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material, nenhuma delas presentes na espécie.
+De fato, no acórdão embargado restou consignado, de forma clara, precisa e congruente, que, tendo o Juízo Federal decidido pela ausência de interesse da UNIÃO em figurar no polo passivo da demanda, afastando assim a hipótese do art. 109 da Constituição da República, a competência é da Justiça comum.
+Entendeu-se ainda que, para o deslinde da questão concernente à competência para processar e julgar a subjacente ação ordinária, seria despiciendo adentrar o exame do mérito da controvérsia.
+Confira-se o voto condutor do acórdão embargado (fls. 276/278):
+O presente agravo interno não merece prosperar.
+Com efeito, "o art. 109 da CF/88 elenca a competência da Justiça Federal em rol taxativo que, em seu inciso I, menciona as causas a serem julgadas pelo juízo federal em razão da pessoa, competindo a este decidir sobre a existência de interesse jurídico que justifique, no processo, a presença da União, suas autarquias ou empresas públicas (Súmula 150/STJ)" (AgInt no CC 157.365/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 21/2/2020).
+Nesse diapasão, uma vez que o Juízo Federal decidiu pela ausência de interesse da UNIÃO em figurar no polo passivo da demanda, afastando assim a hipótese do art. 109 da Constituição da República, a competência é da Justiça comum.
+A propósito, cito os seguintes julgados:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. INSTITUIÇÃO DE ENSINO. EXPEDIÇÃO DE DIPLOMA DE CURSO SUPERIOR. COMPETÊNCIA. JUÍZO ESTADUAL. SÚMULA N. 150/STJ. INAPLICABILIDADE.
+I - Na origem, trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Osasco - SJ/SP e o Juízo de Direito da 1ª Vara Cível de Carapicuíba/SP, nos autos da ação ajuizada contra a Associação de Ensino Superior de Nova Iguaçu e o Centro de Ensino Aldeia de Carapicuíba Ltda. - Cealca, com o objetivo de obter a declaração de validade de diploma de conclusão de curso superior, além de indenização por danos morais. Nesta Corte, conheçeu-se do conflito para declarar competente o Juízo de Direito da 1ª Vara Cível de Carapicuíba/SP.
+II - Analisando os autos, constata-se que a ausência de expedição de diploma da parte autora da ação originária, a priori, não decorre da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que afasta o interesse jurídico da União no feito, a ensejar a competência da Justiça Federal.
+III - Desse modo, a competência é firmada em favor do juízo comum, conforme depreende-se da leitura dos seguintes precedentes: (AgRg nos EDcl no CC n. 128.718/PR, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 9/5/2018, DJe 16/5/2018, REsp n. 1.616.300/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 23/8/2016, DJe 13/9/2016 e REsp n. 1.295.790/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/11/2012, DJe 12/11/2012).
+IV - Cumpre invocar os termos da Súmula n. 150 desta Corte: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas", incidente à hipótese.
+V - Agravo interno improvido.
+(AgInt no CC 171.887/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 3/9/2020)
+Impende ressaltar, por fim, que, "no âmbito do conflito de competência, não se discute o mérito da ação, tampouco qual seria o rol de responsabilidades atribuído a cada ente federativo em relação ao Sistema Único de Saúde. Cumpre apenas a análise do juízo competente para o exame do litígio, nos termos em que apresentados o pedido e a causa de pedir" (AgInt no CC 166.964/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 19/11/2019).
+Por oportuno, cito ainda o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA FINS DE DECLARAÇÃO DE VALIDADE DE DIPLOMA, BEM ASSIM PARA O SEU DEFINITIVO REGISTRO. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. IMPOSSIBILIDADE DE REEXAME DA REFERIDA DECISÃO PELO JUÍZO ESTADUAL. INCIDÊNCIA SÚMULAS 150, 224 E 254/STJ. PRECEDENTES DO STJ.
+1. Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 1ª Vara Cível de Birigui - SP em face do Juízo Federal da 1ª Vara de Araçatuba - SJ/SP em demanda ajuizada por particular contra a Associação de Ensino Superior de Nova Iguaçu e a União Educação e Cultural Piaget - UNIPIAGET, objetivando seja declarada a validade de seu diploma, bem assim seja determinado o seu registro definitivo - além do pagamento de reparação civil.
+2. No caso concreto, o juízo suscitado, de modo fundamentado, afastou o interesse jurídico dos entes do art. 109, I, da Constituição Federal, invocando explicitamente as Súmulas 150, 224 e 254 do STJ. Todavia, tal conclusão foi equivocadamente questionada pelo Juizado Estadual, de modo que incide ao caso o contido nas Súmulas 150/STJ ("Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas"), 224/STJ ("Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito de competência"); 254/STJ ("A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual").
+3. Ademais, " o  juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (CC 121.013/SP, Rel. Min.
+Teori Albino Zavascki, Primeira Seção, DJe de 3/4/2012).
+4. Agravo interno não provido.
+(AgInt no CC 171.557/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 19/6/2020)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
+Destarte, verifica-se que a irresignação da parte ora embargante se limita ao seu mero inconformismo com o resultado do julgamento, porquanto desfavorável à sua pretensão.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+É como voto.
