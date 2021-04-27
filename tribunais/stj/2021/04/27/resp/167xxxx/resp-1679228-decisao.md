@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 537):
+APELAÇÃO CÍVEL - EMBARGOS DO DEVEDOR - EXECUÇÃO CONTRA PESSOA JURÍDICA - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - PRESCRIÇÃO AFASTADA - REDIRECIONAMENTO DA EXECUÇÃO - SÓCIO MINORITÁRIO QUE NÃO EXERCE PODERES DE GERÊNCIA -LIMITAÇÃO - LITIGÂNCIA DE MÁ-FÉ - CONDICIONANTES. 1. Somente depois de decretada a desconsideração da personalidade jurídica da empresa executada é que a execução deverá ser redirecionada contra seu sócio, não havendo necessidade de sua participação antes disto. 2. Ajuizada a ação executiva antes de prescrito o título aliada à citação válida do executado, deve ser afastada a alegação de prescrição. 3. Os bens do sócio minoritário que não exerce a gerência da sociedade de responsabilidade limitada não podem ser atingidos em razão da desconsideração da personalidade jurídica. 4. Não configuradas as hipóteses previstas no art. 17 do CPC, deve ser decotada a multa por litigância de má-fé.
+Os embargos de declaração foram rejeitados (e-STJ fls. 537/545).
+Nas razões recursais (e-STJ fls. 578/595), fundamentadas no art. 105, III, "a" e "c", da CF, a recorrente aponta dissídio jurisprudencial e ofensa aos arts. 50 do CC/2002 e 485, V, do CPC/2015. Alega, em síntese, que o acórdão que exclui, em embargos à execução, o patrimônio de um dos sócios ofende a coisa julgada, tendo em vista o trânsito em julgado de decisão anterior que desconsiderou a personalidade jurídica em relação aos dois sócios da empresa.
+Foram apresentadas contrarrazões (e-STJ fls. 709/719).
+É o relatório.
+Decido.
+A matéria discutida no recurso especial, ofensa à coisa julgada pela exclusão do sócio, não foi objeto de apreciação da Corte de origem, nos termos em que proposta pela recorrente.
+A Corte de origem limitou-se a excluir o sócio pelo fundamento de que, por não participar da administração, não poderia cometer atos fraudulentos que ensejariam a desconsideração, nada tratando sobre violação ou contrariedade à decisão anterior sobre o mesmo assunto.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado , tal como invocado pela parte, na decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ.
+Ressalte-se que a recorrente não apontou violação ao art. 1.022 do CPC/2015, a fim de suprir eventual omissão, exigência da jurisprudência do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBA R GOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO ANTERIOR E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+1.1. Na hipótese, não fora alegada violação ao artigo 1.022 do CPC/15 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema 2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre inexistência de ato ilícito e de dano moral indenizável, bem como acerca da não comprovação do alegado dano material. Incidência das Súmulas 5 e 7/STJ.
+3. A oposição de segundos declaratórios, pretendendo a rediscussão do julgado, e reiterando os vícios alegados nos primeiros, devidamente afastados, caracteriza o manifesto intuito protelatório, sendo correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015. Precedentes.
+4. Agravo interno de fls. 1130-1141 e-STJ desprovido. (AgInt nos EDcl nos EDcl no AgInt no AREsp 1093321/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020)
+Por fim, o recurso também não pode ser conhecido pela alínea "c", pois ausente o cotejo, nos termos do art. 255/STJ, uma vez que o acórdão da origem sequer discute a tese apresentada nos paradigmas.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
