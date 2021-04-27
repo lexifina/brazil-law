@@ -1,0 +1,2 @@
+Isenta os consumidores dos Municípios do Estado do Amapá abrangidos pelo estado de calamidade pública do pagamento de fatura de energia elétrica, nos termos em que especifica; altera a Lei nº 10.438, de 26 de abril de 2002, a Lei nº 10.848, de 15 de março de 2004, e a Lei nº 12.111, de 9 de dezembro de 2009; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
