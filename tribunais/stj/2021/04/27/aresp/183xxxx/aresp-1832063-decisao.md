@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO MANDADO DE SEGURANÇA ICMS RETIFICAÇÃO DE GIA ADMISSIBILIDADE SENTENÇA DE CONCESSÃO DA SEGURANÇA DESPROVIMENTO DOS RECURSOS PARA MANTER A R SENTENÇA RECORRIDA TAMBÉM POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS NOS TERMOS DO ARTIGO 252 DO REGIMENTO INTERNO DESTA CORTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 194 do CTN; 6º, § 1º, 11, I, "a", e 12, I, da Lei Complementar n. 87/96, no que concerne à competência da autoridade fiscal para investigar o comportamento do contribuinte e ao correto indeferimento do lançamento de créditos em GIA-ST, já que, quando da saída das mercadorias, não estava em vigor o regime especial concedido à empresa Via Varejo, trazendo o(s) seguinte(s) argumento(s):
+Cumpre ressaltar que o regime especial concedido não pode ser ampliado pelo contribuinte, essa questão que se põe no presente recurso. Isso porque quando da saída das mercadorias não estava em vigor o regime especial concedido à empresa Via Varejo. Observe-se:
+ ..
+Assim, quando a impetrante deu a saída das mercadorias, o regime especial ainda não estava em vigor.
+ ..
+Destarte, é da competência legal e constitucional da autoridade fiscal investigar o comportamento do contribuinte, pois, como se disse, a sua função básica e fundamental é a aplicação da lei tributária.
+ ..
+Portanto, as regras fixadas devem ser interpretadas em sua literalidade, não comportando alargamento, ou seja, no momento da saída das mercadorias não estava em vigor o regime especial atribuído à empresa Via Varejo, conforme se observa do documento de fls. 44. Desta forma não há qualquer respaldo legal para que o impetrante lance o imposto como crédito na GIA-ST, eis que quando efetuou a saída das mercadorias ainda atuava como substituto tributário. Vejamos as disposições da LC 87/96.
+ ..
+Pergunta-se: pode a impetrante "criar" norma própria referente à vigência do regime especial  Em outros dizeres, pode o particular alargar o conteúdo do Regime Especial
+O procedimento da impetrante está despido de amparo legal, portanto correto o indeferimento do lançamento de créditos em GIA-ST, já que, repita-se, quando da saída das mercadorias não estava em vigor o regime especial concedido à empresa Via Varejo (fls. 1044/1049).
+É, no essencial, o relatório. Decido.
+Na espécie, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local (Decreto estadual n. 57.608/11), ainda que se alegue violação de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; e AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ademais, incide o óbice da Súmula n. 211 do STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; e AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
