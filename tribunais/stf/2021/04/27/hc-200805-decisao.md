@@ -1,0 +1,22 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública em favor de Jeferson Goulart do Nascimento contra acórdão do Superior Tribunal de Justiça no HC 640.140/SC, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. COVID-19. RECOMENDAÇÃO N. 62/2020 DO CNJ. EXCEPCIONALIDADE NÃO CONSTATADA. DECISÃO MANTIDA. RECURSO DESPROVIDO”. (eDOC 3, p. 136)
+    A impetrante narra que o paciente foi condenado pela prática do crime do art. 121, § 2º, I e IV, do Código Penal à pena de 14 anos de reclusão, em regime inicialmente fechado.
+    Alega, em síntese, que o paciente sofre de tumor cerebral, causador de convulsões, que debilita grandemente sua saúde e o coloca no grupo de risco da Covid-19. (eDOC 1)
+    Pleiteia a concessão da ordem de habeas corpus para determinar a prisão domiciliar do paciente.
+    É o relatório.
+    Decido.
+    Trata-se de habeas corpus, substitutivo de recurso ordinário, veiculando pedido de cumprimento de pena em regime domiciliar, diante do delicado estado de saúde do paciente e da pandemia de Covid-19.
+    Assim decidiu o Tribunal de Justiça de Santa Catarina, no julgamento do primeiro habeas corpus:
+    “Dessa forma, adentrando ao exame do caso concreto, até o momento as unidades prisionais deste Estado têm cumprido os protocolos de profilaxia e higienização.
+    Aliás, apesar do réu ser acometido de quadro delicado de convulsões, tal fato por si só não é suficiente para o deferimento de prisão domiciliar, tendo em vista que, por via de regra, os ergástulos despendem de medicação e tratamento para a respectiva doença. Caso contrário, deveria a impetrante ter colacionado documentação pertinente, atestando a inviabilidade de tratamento no recinto prisional em que se encontra o paciente, porém, assim não procedeu.
+    Ainda, pelo que consta, foi autorizado pelo Juízo da Execução, eventual consulta à profissional, providência a ser adotada pela família do acusado e comunicada à autoridade judicial.
+    Válido consignar que o apenado também se encontra segregado provisoriamente, pois responde a outros processos, dentre eles pela suposta prática dos crimes de homicídio e tráfico de drogas. Desse modo, considerando a gravidade concreta das condutas, em tese, perpetradas, bem como a periculosidade do paciente, não se mostra recomendável a concessão da prisão domiciliar (evento 714 - autos n. 0700718-96.2013.8.24.0020)”. (eDOC 3, p. 139)
+    No julgamento da Medida Cautelar no Habeas Corpus 188.820, de caráter coletivo, a 2ª Turma desta Corte consolidou sua orientação jurisprudencial quanto aos parâmetros especiais de encarceramento motivados pela pandemia da Covid-19. Nele, a Turma aderiu, por unanimidade, ao voto do rel. Min. Edson Fachin, que julgou válido excluir do seu âmbito de benefício os presos por crimes praticados com violência ou grave ameaça à pessoa. Confira-se:
+    “REFERENDO DE MEDIDA CAUTELAR EM HABEAS CORPUS COLETIVO. PANDEMIA MUNDIAL. COVID-19. GRUPO DE RISCO. SUPERLOTAÇÃO CARCERÁRIA. CRIMES COMETIDOS SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. RECOMENDAÇÕES DE ORGANISMOS INTERNACIONAIS. RESOLUÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. EXPERIÊNCIA INTERNACIONAL. SISTEMA PRISIONAL BRASILEIRO. ESTADO DE COISA INCONSTITUCIONAL. APDF 347 - MC. PLAUSIBILIDADE JURÍDICA DO PEDIDO. PERICULUM IN MORA. ANÁLISE INDIVIDUAL DAS SITUAÇÕES CONCRETAS PELO JUÍZO COMPETENTE. CONCESSÃO EM PARTE DA MEDIDA CAUTELAR. (...) 11. O risco à segurança pública, por sua vez, é reduzido quando se contempla com as medidas alternativas ao cárcere somente àqueles detidos por crimes cometidos sem violência ou grave ameça à pessoa. Juízo de proporcionalidade. Exclusão dos crimes listados no art. 5º-A da Recomendação do CNJ n.º 62/2020 (incluído pela Recomendação n.º 78/2020). Dispositivos constitucionais e normas convencionais assumidas pelo Brasil. (...)”. (HC 188.820 MC-Ref, rel. Edson Fachin, Segunda Turma, DJe 24.3.2021)
+    Como visto, o paciente cumpre pena por crime hediondo (homicídio qualificado), tendo prisão preventiva decretada também em outros processos, inclusive em que responde por homicídio. Não se enquadra, pois, nos requisitos jurisprudenciais para receber a prisão humanitária. Tampouco o beneficia a regra do art. 318, II, CPP, diante da ausência da indispensável prova, atestada pela instância ordinária.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
