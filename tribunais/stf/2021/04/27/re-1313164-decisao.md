@@ -1,0 +1,31 @@
+D E C I S Ã O
+    Reputo inadmissível o presente recurso extraordinário.
+    A a recorrente, a pretexto de cumprir a exigência do art. 1.035, §§ 1º e 2º, do CPC, c/c o art. 102, § 3º, da Constituição Federal, não se desvencilhou de apresentar fundamentação suficientemente apta a demonstrar a repercussão geral das questões constitucionais examinadas no caso.
+    Transcrevo as razões com as quais a parte pretendeu satisfazer tal requisito:
+    “4) DA REPERCUSSÃO GERAL
+    O art. 102, § 3º, da CF/88 exige a demonstração da repercussão geral no recurso extraordinário. Ademais, disciplina o art. 1.035, do Código de Processo Civil:
+    “Art. 1.035. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+    § 1º Para efeito de repercussão geral, será considerada a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+    § 2º O recorrente deverá demonstrar a existência de repercussão geral para apreciação exclusiva pelo Supremo Tribunal Federal.
+    § 3º Haverá repercussão geral sempre que o recurso impugnar acórdão que:
+    I - contrarie súmula ou jurisprudência dominante do Supremo Tribunal Federal;
+    III - tenha reconhecido a inconstitucionalidade de tratado ou de lei federal, nos termos do art. 97 da Constituição Federal.” (g.n)
+    Há repercussão geral, portanto, quando o julgamento do recurso deixar de afetar apenas as partes do processo, para atingir uma gama de pessoas fora dele, despertando interesse público.
+    Deste modo, o presente feito atende ao disposto no art. 1.035, § 1º, do Código de Processo Civil, uma vez que a repercussão geral da questão constitucional nele versada está evidenciada pela relevância, do ponto de vista econômico, político, social e jurídico, justamente porque a cobrança inconstitucional de custas de precatório impactará em todas as causas acidentárias na Exma. Justiça Paranaense.
+    Ademais, este recurso atende ao requisito da repercussão geral presumida do art. 1.035, § 3º, I, do Código de Processo, pois, o v. acórdão recorrido viola a jurisprudência dominante deste C. STF na Representação 1.777/RJ e ADI’s 948, 1.772-MC e 2.551-MCQO.
+    Logo, requer seja conhecido e provido este recurso.”
+    No âmbito desta Suprema Corte, há entendimento de que a demonstração da repercussão geral “(...) não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo” (ARE 786.878-AgR/RS, Ministro Alexandre de Moraes).
+    Em casos fronteiriços, há – entre muitos outros –, os seguintes precedentes: ARE 1.121.676-AgR/SP, Ministro Ricardo Lewandowski; ARE 1.165.032/RS, Ministro Roberto Barroso; ARE 1.284.516/SP, Ministro Edson Fachin; ARE 1.284.971/SP, Ministra Cármen Lúcia; ARE 1.288.654/MG, Ministra Rosa Weber; RE 975.354-AgR/SP, Segunda Turma, Ministro Celso de Mello, cuja ementa transcrevo abaixo:
+    “RECURSO EXTRAORDINÁRIO – AGRAVO INTERNO – APELO EXTREMO DEDUZIDO NA VIGÊNCIA DO CPC/73 – EXIGÊNCIA DE DEMONSTRAÇÃO FORMAL E FUNDAMENTADA, EM CAPÍTULO AUTÔNOMO, NO RECURSO EXTRAORDINÁRIO, DA REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS – INOCORRÊNCIA – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA, POR TRATAR-SE, NA ORIGEM, DE PROCESSO DE CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE – AGRAVO INTERNO IMPROVIDO.
+    – A repercussão geral, nos termos em que instituída pela Constituição, constitui pré-requisito de admissibilidade do recurso extraordinário, cuja cognição, pelo Supremo Tribunal Federal, depende, para além da constatação dos pressupostos recursais que lhe são inerentes, do reconhecimento da existência de controvérsia constitucional impregnada de alta e relevante transcendência política, econômica, social ou jurídica, que ultrapasse, por efeito de sua própria natureza, os interesses meramente subjetivos em discussão na causa.
+    – Incumbe, desse modo, à parte recorrente, a obrigação de proceder à prévia demonstração, formal e fundamentada, no recurso extraordinário interposto, da repercussão geral das questões constitucionais discutidas, sob pena de incognoscibilidade do apelo extremo. Precedente.
+    – Assiste, ao Presidente do Tribunal recorrido, competência para examinar, em sede de controle prévio de admissibilidade do recurso extraordinário, a demonstração formal e fundamentada, em capítulo autônomo, da repercussão geral, só não lhe competindo o poder – que cabe, exclusivamente, ao Supremo Tribunal Federal (CPC/73, art. 543-A, § 2º, vigente à época da interposição do apelo extremo) – de decidir sobre a efetiva existência, ou não, em cada caso, da repercussão geral suscitada. Doutrina. Precedentes.
+    – Não incide o que prescreve o art. 85, § 11, do CPC/15 quando se tratar, na origem, de processo de controle concentrado de constitucionalidade, ante a inadmissibilidade de condenação em verba honorária.”
+    Honorários advocatícios recursais
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior como na espécie dos autos, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp-1.341.886/SP, DJ de 30.5.2019; EDcl no REsp-1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp-1.167.338/DF, DJ de 26.3.2019.
+    Diante do exposto, com fundamento no inciso VIII do art. 932 do CPC c/c o § 1º do art. 21 do RISTF, não conheço do recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
