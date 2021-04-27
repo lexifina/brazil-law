@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Tocantins, assim ementado:
+PENAL E PROCESSUAL PENAL AGRAVO EM EXECUÇÃO PENAL APENADO DO REGIME SEMIABERTO QUE CUMPRE PENA EM PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. DESLOCAMENTOS EM RAZÃO DE TRABALHO EXTERNO. TRABALHO AUTÔNOMO DE SERRALHEIRO. AUSÊNCIA DE ITINERÁRIOS PREVIAMENTE DEFINIDOS. DIFICULDADE DE FISCALIZAÇÃO. COMETIMENTO ANTERIOR DE FALTA GRAVE. REQUISITO SUBJETIVO PARCIALMENTE CUMPRIDO. PRECEDENTES TJTO E OUTROS TRIBUNAIS PÁTRIOS. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Na hipótese, o Reeducando foi condenado a uma pena de 19 (dezenove) anos e 3 (três) meses de reclusão, cumprida atualmente em regime semiaberto - em prisão domiciliar por ausência de estabelecimento penal adequado -, sendo lhe autorizado o trabalho externo de serralheiro, que deverá ser realizado em sua própria residência.
+2. Conquanto o trabalho externo seja de suma importância para a ressocialização do Reeducando, contribuindo para sua recuperação mediante o exercício de atividade lícita e funcional, o deslocamento em decorrência da atividade laborai mostra-se incompatível com o cumprimento da reprimenda, haja vista possíveis diversidades de rotas, o que dificultaria o monitoramento e fiscalização.
+3. Ainda que a fiscalização seja ônus do Estado, a dificuldade de monitoramento, acompanhada de outros elementos contraindicativos como o cometimento anterior de falta grave pelo Apenado, assumem magnitude bastante para impossibilitar os deslocamentos pretendidos. Precedentes deste Tribunal.
+4. Agravo conhecido e não provido. (e-STJ fl. 17)
+A defesa aponta ofensa aos arts. 35, § 2º, do Código Penal e 37 da Lei de Execução Penal alegando, em síntese, que é inidôneo o fundamento utilizado pelo acórdão recorrido para proibir o deslocamento necessário ao desempenho das atividades profissionais do reeducando.
+As contrarrazões foram apresentadas às e-STJ fls. 29/32.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 63/65.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Tocantins negou provimento ao agravo em execução penal interposto pela defesa e manteve a decisão que negou ao reeducando seu pedido de autorização para deslocamento em trabalho externo em razão da regressão de regime prisional por violação do perímetro de inclusão.
+A defesa alega a inidoneidade do fundamento utilizado pelo acórdão recorrido para proibir o deslocamento necessário ao desempenho das atividades profissionais do reeducando. Sobre o tema o acórdão recorrido assim consignou:
+Conquanto considere o trabalho externo de suma importância para a ressocialização do Agravante, contribuindo para sua recuperação mediante o exercício de atividade lícita e funcional, o deslocamento em decorrência da atividade laborai ora posto em julgamento mostra-se incompatível com o cumprimento da reprimenda, haja vista possíveis diversidades de rotas, o que dificultará o monitoramento.
+Pedidos como o que se pleiteia devem ser apreciados com cautela, mesmo porque, em alguns casos, podem acarretar a desnaturação da sanção penal, concedendo elevação no grau de liberdade a apenado que ainda não está preparado.
+É o que ocorre no caso dos autos, uma vez que o reeducando teve seu regime regredido anteriormente em razão de violação do perímetro estabelecido para sua circulação, cuja justificativa apresentada estava relacionada com a necessidade de deslocamento em razão de seu labor como serralheiro.
+Ademais, ainda que a fiscalização seja ônus do Estado, tal dificuldade, quando acompanhada de outros elementos contraindicativos como o suso assinalado, assumem magnitude bastante a impossibilitá-la, parecendo-me idônea para fins de obstar os deslocamentos pretendidos. Neste sentir, embora o Estado seja o responsável por exercer a fiscalização da maneira mais diligente possível, nos limites de um exame pautado na razoabilidade, não pode a massa carcerária abusar desse ônus.
+ ..
+Nesta linha de intelecção, o deferimento de deslocamento livre do Agravante pela cidade de Gurupi-TO, além de impossibilitar a pronta fiscalização do Estado, se incompatibiliza com a situação específica narrada no processo, onde o Reeducando não cumpre integralmente os requisitos subjetivos necessários à postulação. (e-STJ fls. 14/15)
+Veja-se que o acórdão estadual está em perfeita harmonia com a jurisprudência desta Corte que assim já decidiu:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRABALHO EXTERNO. IMPOSSIBILIDADE TOTAL DE FISCALIZAÇÃO. INDEFERIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A total impossibilidade de inspecionar o serviço externo pleiteado por apenado do regime semiaberto domiciliar impede a autorização do benefício.
+2. Embora se reconheça o valor do labor na ressocialização e na recuperação da dignidade do apenado, sem indicação do local do trabalho e de algum tipo de controle de horário e de frequência das atividades de vendedor autônomo, de mercadoria própria, não há falar em deferimento do trabalho externo. O pedido é incompatível com a fiscalização do cumprimento da pena exigida pela Lei de Execuções Penais.
+3. Agravo regimental não provido. (AgRg no HC 490.890/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 17/06/2020)
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC c/c o art. 255, § 4º, inciso II, do RISTJ nego provimento ao recurso especial.
+Intimem-se.
