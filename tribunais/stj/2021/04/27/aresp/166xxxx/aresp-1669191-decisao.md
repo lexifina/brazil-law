@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por L. S. O. (MENOR) contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 601/602).
+O acórdão recorrido está assim ementado (e-STJ fl. 548):
+SEGURO. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. PRETENDIDA COBERTURA A EXAME DE SAÚDE RECLAMADO PELA PARTE AUTORA. COBERTURA NEGADA PELA REQUERIDA. EXISTÊNCIA DE CLÁUSULA EXPRESSA DE EXCLUSÃO NÃO COMPROVADA.JURISPRUDÊNCIA, ADEMAIS, QUE VEM SE ORIENTANDO FIRMEMENTE NO SENTIDO DO RECONHECIMENTO DO CARÁTER ABUSIVO DAS CLÁUSULAS DE EXCLUSÃO. PRECEDENTES DO STJ E SÚMULA 102 DO TJSP, QUE REPUTA ABUSIVA A NEGATIVA FUNDADA NA NATUREZA SUPOSTAMENTE EXPERIMENTAL DO TRATAMENTO OU, BEM, NA AUSÊNCIA DE SUA PREVISÃO NO ROL DA ANS. RECUSA INDEVIDA EVIDENCIADA. CONDENAÇÃO DA REQUERIDA A PRESTAR INTEGRAL COBERTURA AO PROCEDIMENTO QUE DEVE SER MANTIDA. PEDIDO DE COMPENSAÇÃO PELOS DANOS MORAIS ALEGADOS. INADMISSIBILIDADE. INEXISTÊNCIA DE DANO MORAL ADVINDO DE MERO DESCUMPRIMENTO CONTRATUAL. AUSÊNCIA DE FERIMENTO A DIREITOS DA PERSONALIDADE. PREJUÍZO À SUBJETIVIDADE DOS REQUERENTES NÃO DEMONSTRADO. SENTENÇA REFORMADA NO PONTO. RECURSO DOS AUTORES DESPROVIDO E APELO DA RÉ PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 558/567), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou ofensa aos arts. 186 e 927 do CPC/2015, considerando que a negativa de prestação de serviço médico foi indevida, configurando dano moral.
+Indicou dissídio no sentido de que impossível a redução do valor da multa quando ela atinge o valor total discutido na lide por descaso do próprio devedor.
+No agravo (e-STJ fls. 609/626), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 636/643).
+É o relatório.
+Decido.
+Sobre os danos morais, os julgadores da origem assim esclareceram (e-STJ fls. 552/553):
+Deveras, era mesmo de rigor a improcedência da pretensão autoral. Isso porque, é firme na jurisprudência o entendimento de que o inadimplemento contratual seja advindo da indevida negativa de cobertura, seja decorrente de eventual cancelamento arbitrário do contrato não dá azo à indenização por danos morais, mas apenas pelos eventuais prejuízos materiais, desde que devidamente comprovados.
+(..)
+Como venho sempre salientando em hipóteses análogas, reconhecer-se, de maneira ampla, a possibilidade direta de indenização por danos morais a partir de qualquer suscetibilidade cotidiana é criar verdadeira fonte de enriquecimento sem causa. Para o descumprimento contratual existe a reparação do dano material emergente e, bem, dos eventuais lucros cessantes. Basta que se os provem os interessados.
+Extrair, por outro lado, os danos morais de quaisquer descumprimentos contratuais é forma de se furtar a essa prova, de maior dificuldade, reconheça-se. O dano moral não é sucedâneo do dano material, e nem deve ser assim interpretado. Ademais, é preciso que o dano seja provado e jamais presumido, como no caso dos autos. Daí que andou bem o magistrado singular ao concluiu pela improcedência da pretensão compensatória.
+Destarte, é o caso de acolhimento parcial do apelo da ré e desprovimento do reclamo da parte autora para reformar a sentença, afastando a condenação da requerida à compensação dos danos morais.
+Com efeito, "de acordo com a jurisprudência desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.705.242/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020.)
+Tendo o Tribunal de origem constatado a inexistência de dor e de sofrimento do paciente, culminando com o afastamento da indenização por danos morais, tudo com base nos elementos de prova dos autos, decidir diversamente demandaria seu reexame, inviável em recurso especial, conforme a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
