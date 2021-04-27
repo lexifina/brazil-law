@@ -1,0 +1,9 @@
+DECISÃO
+MAICKON ALVES DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal a quo. O condenado por roubo majorado busca a compensação entre a confissão espontânea e a reincidência e, consequentemente, a redução de sua pena.
+Decido.
+Em 9/2/2020, o pacientesubtraiu para si, mediante grave ameaça, um aparelho de telefone celular. O Tribunalreconheceu aconfissão parcial do acusado e a sua multirreincidência, mas decidiu: "ocorre apenas a compensação parcial entre agravante e atenuante, de modo que, compensada a confissão com uma das condenações, aquela restante ainda se mostra apta a justificar a majoração da pena em 1/6" (fl. 44).
+No julgamento do Recurso Especial Representativo de Controvérsian. 1.341.370/MT, em 10/4/2013, a Terceira Seção firmou o entendimento de que, observadas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". Apenas o destaque depeculiaridade da agravante justifica sua prevalência. Essaé tese consolidada noTema Repetitivo n. 585.
+No caso em exame, não há falar em ilegalidade do acórdão estadual, pois "tratando-se de réu multirreincidente deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal"(HC 640.105/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/03/2021).
+Aplico ao caso a compreensão de que: "Não há ilegalidade na ausência de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea quando o réu é multirreincidente, como no caso, em que o agravante possuía, quando da sentença, três condenações anteriores transitadas em julgado"(AgRg no HC 462.544/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T.,DJe 30/3/2021).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
