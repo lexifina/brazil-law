@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por com fundamento no art. 105, II, "b", da CFcontra acórdão do TJMTassim ementado (e-STJ fls. 277/296):
+ADMINISTRATIVO - SERVIDOR PÚBLICO - INCORPORAÇÃO DE VERBAS - IMPOSSIBILIDADE - PROVENTOS - REGÊNCIA - LEI DA ÉPOCA DA APOSENTAÇÃO - EMENDA CONSTITUCIONAL N.º 20/98. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO - ORDEM DENEGADA.
+Nos termos do art. 3º, § 2º da EC nº 20/98, os proventos de aposentadoria regulam-se pela lei vigente ao tempo que o servidor reuniu os requisitos necessário para sua efetivação.
+Tendo o servidor somente preenchido os requisitos necessários à sua aposentadoria após o advento da Emenda Constitucional nº 20/98, é-lhe vedado, no cálculo de seus proventos, a incorporação de valores pelo exercício de função ou de cargo comissionado.
+Defende a parte recorrente, em resumo, que: a) a Corte Regional não respeitou a norma do art. 3º da EC nº 47/2005, dispositivo constitucional autônomo; b) preenchidos os requisitos estabelecidos pelas regras de transição previstos na referida Emenda Constitucional, deveria se aposentar com proventos integrais, inclusive com a incorporação das vantagens conquistadas ao longo da carreira, conforme o disposto nos art. 140, "b" da Constituição Estadual e no art. 220 da LC Estadual nº 04/90.
+Sem contrarrazões.
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 339/345)
+Passo a analisar a controvérsia.
+Entendo que o recurso não merece guarida, pois a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice da Súmula 283/STF e 284/STF.
+O Tribunal a quo centrou sua decisão, em resumo, no fundamento de que, embora o impetrante fizesse jus a se aposentar segundo as regras de transição da EC n. 47/05, não teria direto à incorporação das vantagens no art. 220 da LC Estadual nº 04/90.
+Assim entendeu porque essa última norma mencionada teria sido revogada desde 1998 (com a EC n. 20), de sorte que, naquela época, a insurgente ainda não teria completado o tempo necessário para a incorporar os valores desejados referentes ao desempenho de funções comissionadas, nos termos dos arts. 140, "b" da Constituição Estadual e 220 da LC Estadual nº 04/90.
+Em outras palavras, o Tribunal local tratou a questão com a devida distinção de situações, sem que uma excluísse a outra: por um lado, garantiu à impetrante os direitos de paridade e integralidade em relação à aposentadoria, e, por outro, entendeu que a insurgente não teria preenchido, na época correta, o tempo necessário para incorporar aos seus vencimentos (e, futuramente, os proventos de inatividade) as vantagens que outrora recebeu (funções comissionadas).
+A parte recorrente limitou-se a insistir que teria sido beneficiada pelo art. 3º da EC n. 47/05, norma esta que nunca foi ignorada pelo juízo originário, mas apenas não era aplicável para a questão específica da incorporação.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1519064/CE, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019)
+A propósito: AgInt no RMS 58.200/BA, de minha Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
