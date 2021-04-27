@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS. 12 DA LEI N. 10.826/03, ARTS. 129 E 147 DO CP. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO Nº 691 DA SÚMULA DO STF. NÃO CABIMENTO. FUNDAMENTOS DA CUSTÓDIA. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. Apesar de o autuado não ostentar antecedentes criminais, foi encontrado na posse de arma de fogo com numeração suprimida, ameaçou e lesionou a vítima com a mesma, denotando periculosidade social e risco à sua integridade física.
+4. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão da Presidência desta Corte que, com base na Súmula n. 691/STF, indeferiu liminarmente habeas corpus em favor de REINALDO DAVI SILVESTRE BAGGIS, preso em flagrante em 03/04/2021, por suposta infração aos arts. 12 da Lei 10.826/03, arts. 129 e 147, ambos do Código Penal.
+Nas razões do regimental, pretendendo, mais uma vez, a superação da Súm. n. 691/STF, sustenta a defesa, em suma, violação do artigo 313, §2º, 315, §2º, incisos I, II, III do CPP, do artigo 282, §2º , bem como o princípio da homogeneidade e proporcionalidade, diante da desnecessidade da medida mais gravosa no presente caso. (e-STJ, fl. 137)
+Afirma que, no caso, a prisão cautelar foi usada como antecipação da pena, e que, por sua generalidade e abstração, não satisfaz a necessidade de motivação das decisões.
+Faz referência, ainda, a pandemia do novo coronavírus e à Recomendação n. 62 do CNJ, ressaltando que o agravante é primário, portador de bons antecedentes e que não colocará em risco o andamento processual.
+Afirma, por fim, que A medida constritiva foi mantida sem qualquer motivação concreta e sem a provocação do Ministério Público caracterizando constrangimento ilegal. (e-STJ, fl. 142)
+Pugna pela reconsideração da decisão ou seja o feito submetido à apreciação do órgão colegiado, provendo o recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Sem razão o agravante.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos, devendo-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, veja o que disse o Magistrado ao decretar a preventiva do paciente (e-STJ, fls. 74/75):
+2 - É caso de converter a prisão em flagrante em prisão preventiva, na forma do art. 310, inc. II, do CPP, em sua atual redação.
+Com efeito, existem nos autos prova da materialidade do delito, punido com reclusão (pena máxima superior a 4 anos, considerando ainda o concurso de crimes), e indícios suficientes da autoria, conforme exsurge dos elementos colhidos no auto de prisão em flagrante, notadamente os depoimentos dos agentes encarregados da diligência e da vítima.
+A conduta atribuída ao autuado é daquelas que traz grave ameaça à paz social. Presentes, neste instante, circunstâncias justificadoras da manutenção de sua custódia, para garantia da ordem pública e para assegurar a aplicação da lei penal.
+Ainda, conforme observado pelo Ministério Público, apesar de o autuado não ostentar antecedentes criminais, foi encontrado na posse de arma de fogo com numeração suprimida, ameaçou e lesionou a vítima com a mesma, denotando periculosidade social e risco à integridade física da vítima.
+Por essas razões não há como ser deferida a liberdade, neste momento, pois necessário resguardar a ordem pública, já que a sociedade se vê constantemente atormentada pela prática de fatos como o presente, ensejadores de crimes, de desestabilização familiar, intranqüilidade e de violência, em termos gerais, bem como por presente o risco de se frustrar a aplicação da lei penal, já que não há garantias de que, uma vez concedida a liberdade, não se frustrará o regular andamento do feito, subtraindo-se à ação da justiça criminal. Importante, ainda, a custódia, para impedir eventuais recidivas, prováveis cm razão da aparente inserção em ambiente pernicioso, bem como para resguardar a integridade física da vítima.
+O delito em questão é insuscetível de fiança; não há possibilidade de aplicação de outras medidas cautelares, pois não há aparato de fiscalização adequado.
+Ademais, prematura incursão aprofundada no mérito, inclusive quanto a eventual privilégio, cuja aplicação somente será viável após regular instrução, a possibilitar melhor compreensão dos fatos, e aferição concreta das situações pessoais.
+Ressalte-se que a pandemia causada pelo "Coronavírus" não é suficiente para deferir a soltura do autuado. Observe-se que a Recomendação nº 62/2020, do Conselho Nacional da Justiça, recomenda a análise de cada caso especificamente. Aqui nos autos, o autuado não está inserido em nenhuma hipótese. Nem se argumente, portanto, que a pandemia do COV1D 19 possa ensejar soltura.
+Nesse caso de excepcionalidade, o deferimento do pedido dependeria de alguns pressupostos, os quais não se revelam sequer cogitados na espécie, a saber: (i) comprovação inequívoca de que o acusado se enquadra no grupo de vulneráveis do COVID 19; (ii) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra provisoriamente detido; e (iii) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco que o ambiente em que a sociedade está inserida.
+A questão em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Por certo, todos os argumentos suscitados pela defesa serão tratados naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. SÚMULA N. 691 DO STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. VIOLAÇÃO DOS ARTS. 306, 310 E 316 DO CPP. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade. Incidência da Súmula n. 691 do STF.
+2. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+3. Agravo regimental desprovido. (AgRg no HC 628.402/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se evidencia a existência de situação absolutamente teratológica e desprovida de qualquer razoabilidade que autorize a mitigação do mencionado óbice processual. Com efeito, consoante a decisão decretatória da prisão preventiva, o Agravante e outros denunciados, acusados da suposta prática do delito de roubo, "possuem condenações já transitadas em julgado, sendo multireincidentes", além de ter sido destacada a gravidade concreta do delito pela decisão atacada nesta ação mandamental. Tais circunstâncias justificam a manutenção da custódia para garantia da ordem pública.
+3. Diante do risco concreto de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram, no caso, suficientes para evitar a prática de novas infrações penais.
+4. Quanto ao suposto risco de contaminação em razão da pandemia do novo coronavírus, também não se evidencia a existência de patente ilegalidade na espécie. A Relatora do feito na origem, ao indeferir a liminar, deixou assente que "não há nos autos comprovação de que o paciente pertença ao grupo de risco de contágio pelo COVID-19".
+5. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido. (AgRg no HC 618.186/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/11/2020, DJe 19/11/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
