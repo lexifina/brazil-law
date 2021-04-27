@@ -1,0 +1,34 @@
+DECISÃO
+Na origem, Renata dos Santos Fukuda ajuizou ação de obrigação de fazer c/c indenização por danos morais e tutela de urgência contra Amil Assistência Médica Internacional S.A., objetivando, liminarmente, o restabelecimento do plano de saúde com a condenação da requerida ao pagamento de indenização por danos morais, tendo em vista a rescisão unilateral do contrato sem que fosse notificada. O Juízo de primeiro grau julgou procedentes os pedidos tornando definitiva a liminar deferida (e-STJ, fls. 150-155).
+Interposto recurso de apelação pela parte requerida, a Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo decidiu, por unanimidade, dar parcial provimento ao apelo, em aresto assim ementado (e-STJ, fl. 209):
+ILEGITIMIDADE PASSIVA - Desacolhimento - Operadora que atua em conjunto com a administradora no oferecimento do plano de saúde - Existência de cadeia de fornecedores - Responsabilidade solidária - Preliminar rejeitada.
+PLANO DE SAÚDE - Obrigação de fazer c.c. consignação em pagamento e indenização por danos morais - Cancelamento unilateral do contrato - Procedência do pedido - Inconformismo da ré - Acolhimento parcial - Abusividade do cancelamento do contrato sem a indispensável notificação da beneficiária - Necessidade de Reativação - Dano moral não configurado - Contrato que foi restabelecido na mesma data da intimação da concessão da medida liminar - Mero aborrecimento - Sucumbência recíproca - Sentença parcialmente reformada para a julgar improcedente o pedido de indenização por danos morais.
+Preliminar rejeitada e recurso provido em parte.
+Opostos embargos de declaração por ambas as partes, foram rejeitados (e-STJ, fls. 256-258 e 269-271).
+Nas razões do recurso especial, Amil Assistência Médica Internacional S.A., com fundamento naalíneaado permissivo constitucional, alegouviolação aoart. 13, parágrafo único, II, da Lei n. 9.656/1998, sustentando, em síntese, que o cancelamento do plano de saúde se deu de forma correta, uma vez que a beneficiária estava com seu débito vencido e sem pagar, sendo assim, agiu no exercício regulardo seu direito, tendo em vista que encaminhou várias notificações ao endereço da agravada.
+Contrarrazões apresentadas às fls. 276-280 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de vulneração aos dispositivos tidos por violados, bem como pela incidência da Súmula 7 do STJ.
+Brevemente relatado, decido.
+No caso, verifica-se que o Tribunal de origem manteve a sentença de primeiro grau, a qual consignou que a operadora de plano de saúde não foi capaz de demonstrar o inadimplemento da parte autora para então proceder à rescisão unilateral do contrato, com base nos seguintes fundamentos (e-STJ, fls. 210-212 - sem grifo no original):
+(..)
+E quem deu causa foi a ré, o que impõe a ratificação da maioria dos fundamentos da sentença, nos termos do art. 252 do RITJSP:
+Sem mais, passo, desde logo, ao exame do mérito.
+(..)
+É fato incontroverso que o contrato foi unilateralmente cancelado pela ré poucos dias após o vencimento da mensalidade de outubro de 2017, sob o argumento de que não fora registrado o pagamento.
+Embora seja plenamente lícita a rescisão unilateral dos planos de saúde, desde que observados os requisitos do art. 13, parágrafo único, II, da Lei 9.656/98, e da determinação contratual no caso, as cláusulas 17 e 18 do contrato firmado entre as partes, na lide em exame, verifica-se que tais quesitos não foram cumpridos.
+Prevê a Lei 9.656/98 a possibilidade de rescisão unilateral do contrato em casos de "não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o quinquagésimo dia de inadimplência".
+Já o contrato firmado entre as partes estabelece que a inadimplência por período superior a 30 (trinta dias) após o vencimento original do boleto bancário, conforme previsto no quadro da página 4/14, acarretará a exclusão automática do titular e de seu(s) dependente(s) do plano (fl. 110).
+Afirma a requerida que houve a notificação acerca do inadimplemento, conforme documento juntado às fls. 97/98. Ocorre que tal notificação é datada de 16 de novembro de 2017, isto é, momento posterior ao da propositura da ação e, consequentemente, da rescisão.
+A notificação, portanto, ainda que realizada, não obedeceu ao prazo fixado pela legislação de regência, e pelo contrato.
+Não se pode olvidar que a disposição legal prevê que a inadimplência não pode ser de período superior a 60 (sessenta) dias, consecutivos ou não, nos últimos 12 (doze) meses de contrato.
+Apesar de a requerida pontuar esta questão, não logrou comprovar tal inadimplemento. Pelo contrário, o documento de fl. 51 demonstra o adimplemento da autora quanto a todas as mensalidades do ano de 2017 até o mêsde setembro.
+Não tendo sido comprovada regular notificação prévia e tampouco o inadimplemento por período superior a 60 (sessenta) dias, o decreto de procedência da ação é medida de rigor:
+(..)
+Por todo o exposto, julgo procedentes os pedidos deduzidos nestes autos por Renata Dos Santos Fukuda contra Amil Assistência Médica Internacional S/A,, e o faço com fulcro no art. 487, I, do CPC, para, tornando definitiva a liminar deferida às fls. 52/54, restabelecer a relação contratual da autora e seus dependentes, e condenar a ré ao pagamento de R$8.000,00 (oito mil reais) à requerente, a título de indenização por danos morais, valor esse a ser monetariamente corrigido a partir desta sentença (súmula 362 do STJ) até o efetivo pagamento, acrescido ainda de juros moratórios de 1% ao mês, devidos estes a contar da citação.
+Diante da sucumbência da parte ré, condeno-a ao pagamento das custas, despesas processuais e honorários advocatícios arbitrados com base no artigo 85, §2º, do diploma processual civil em 10% (dez por cento) do valor da causa" (v. fls. 150/155).
+Nesse contexto, reverter a conclusão do Colegiado originário, para acolher a pretensão recursal e assim justificar o cancelamento unilateral do contrato, demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas do contrato, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer dorecurso especial de Amil Assistência Médica Internacional S.A.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 100,00 (cem reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. 1. PLANO DE SAÚDE. CANCELAMENTO INDEVIDO. INADIMPLEMENTO DA AUTORANÃO COMPROVADO. REEXAME. SÚMULA 7/STJ. 2. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.
