@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por Patrik Donizete de Souzacontra a decisão proferida pelo Tribunal de Justiça de Minas Gerais, que inadmitiu o recurso especial por ele apresentado, com fundamento no art. 105, III,a, da Constituição Federal, contra o acórdão prolatado na Apelação Criminal n.1.0647.15.0000154/001 que, por maioria,deu parcial provimento ao recurso para reduzir as penas.
+Opostos embargos de declaração (fls. 1.086/1.088), esses foram rejeitados (fls. 1.099/1.101).
+Foram opostos também embargos infringentes (fls. 1.105/1.115), esses foram julgados prejudicados (fls. 1.129/1.132).
+Nas razões do recurso especial (fls. 1.136/1.141), a defesa aponta como violado o art. 33da Lei n. 11.343/2006. Argumenta queas informações constantes do acórdão servem como fundamento, tão somente, para a condenação do recorrente Patrick pela prática do delito de associação ao tráfico (fl. 1.140). Noentender da defesa, acondenação do réu Patrick pela prática do delito de tráfico teve como fundamento exclusivo a presunção de que este estaria envolvido com a atividade ilícita supostamente praticada pelo corréu Osvaldo (fl. 1.141).
+Apresentadas contrarrazões (fls. 1.154/1.156), o recurso especial foi inadmitido pela Corte de origem por incidência da Súmula 7/STJ (fls. 1.158/1.162). Contra tal decisão foi interposto o agravo em análise (fls. 1.167/1.74), com contraminuta ofertada às fls. 1.176/1.178.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 1.190/1.193).
+É o relatório.
+A insurreição não merece amparo, uma vez que a pretensão deduzida exige indevido revolvimento fático, o que encontra óbice no teor da Súmula 7/STJ.
+Com efeito, ao rechaçar a tese absolutória em relação ao delito de tráfico de drogas por parte do ora agravante, o Tribunala quoexpressamente assentou queo Relatório Circunstanciado de Investigação de fls. 81/310 revela, de fato, inúmeras provas de que os réus, em associação, se dedicavam à prática do tráfico de drogas (fl. 1.030).
+Especificamente em relação ao ora agravante, afirmou que também háprovas suficientes nos autos (fl. 1.032), destacando que ele é cunhado do apelante Osvaldo, reside em companhia do casal e, atuando, supostamente, como moto taxista, auxiliava o apelante a realizar a entrega de drogas, conforme consta das interceptações de diálogos transcritos às fls. 177 e 181, nos quais ele combina de levar ao cliente "um de dez" e "dois de trinta", o que afasta a alegação da defesa de que não foi provado nenhum ato de traficância de sua parte (idem).
+E segue a Corte estadual justificando a comprovação da autoria por parte do réu Patrick nos seguintes termos (fl. 1.032 - grifo nosso):
+ ..
+Do Relatório Circunstanciado de Investigação (fls.81/310) constam, ainda, vários diálogos nos quais o apelante Osvaldo solicita o comparecimento de Patrick na "Boate do Alcides", o que corrobora a narrativa da denúncia de que o mesmo auxiliava na distribuição de drogas a partir daquele local.
+Melhor sorte não socorre à defesa de Patrick no que busca a sua absolvição ao argumento de que o mesmo não foi preso em posse de droga, porquanto as circunstâncias acima narradas, e devidamente provadas, mostram que, na realidade, o apelante Patrick aproveitava de seu trabalho licito para tentar ludibriar sua atuação no tráfico de drogas comandado por Osvaldo, seu cunhado, não podendo, portanto, ser desvinculado da droga apreendida em poder deste.
+Assim, estou convencido de que os acusados estavam ajustados para a guarda dos entorpecentes com vistas à prática do tráfico ilícito de drogas. Ademais, a fala dos policiais deve prevalecer sobre a negativa dos réus, porquanto desarrazoado supor que agentes de segurança pública maculassem a corporação com vistas apenas a fazerem com que pessoas inocentes perdessem a sua liberdade. Como tenho afirmado, parcialidade não se presume, prova-se.
+ ..
+Nesse contexto, a reversão da conclusão alcançada pelas instâncias ordinárias só seria possível mediante nova apreciação dos fatos ocorridos no caso, o que é vedado em sede de recurso especial. Nesse sentido, confira-se: AgRg no AREsp n. 593.941/ES, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/8/2015.
+Ante o exposto, com fundamento no art. 253, II,a, do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. APREENSÃO DE 21,24 G DE COCAÍNA. PRETENSÃO ABSOLUTÓRIA. ALEGAÇÃO DE FRAGILIDADE PROBATÓRIA. PLEITO QUE EXIGE REVOLVIMENTO FÁTICO. INVIABILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer de recurso especial.
