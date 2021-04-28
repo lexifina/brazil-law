@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ASSUA INCORPORADORA LTDA e ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 20/08/2020.
+Concluso ao gabinete em: 30/12/2020.
+Ação:obrigação de fazer cumulada com ressarcimento por danos materiais e morais e declaratória de nulidade de cláusulas contratuais abusivas com pedido subsidiário de rescisão contratual, ajuizada por JOSÉ EDUARDO CARDOSO DE FARIA MONTEIRO, em face das recorrentes, em razão de atraso na entrega de imóvel objeto de compromisso de compra e venda.
+Sentença:julgou parcialmente procedentes os pedidos, para condenar as recorrentes, solidariamente, a concluir e entregar a unidade imobiliária no prazo de 120 dias; e ao pagamento de 0,5% do valor do contrato por mês de atraso, acrescidos de juros moratórios de 1% desde a citação.
+Acórdão: negou provimento à apelação interposta pelas recorrentes, nos termos da seguinte ementa:
+COMPROMISSO DE VENDA E COMPRA. Unidade autônoma comercial futura. Atraso na entrega da obra. Indenização devida por privação de uso do bem. Admissibilidade. Aplicação do percentual de 0,5% sobre o valor do imóvel. Súmula 162 do TJSP, Tese 05 do IRDR nº 0023203-35.2016.8.26.0000 e Tema 996 de casos repetitivos do STJ. Termo inicial dos juros de mora na data da citação. Art. 405 do Código Civil. Arbitramento de honorários sobre o valor do pedido rejeitado de danos morais.Admissibilidade. Importância equivalente ao proveito econômico das rés. Art. 85, §2º, do CPC. Sentença mantida. Recurso improvido.
+Recurso especial: alegam contrariedade à lei federal, bem como dissídio jurisprudencial. Sustentam que: i) a empresa Assuã Administração de Bens e Serviços LTDA não integra o negócio jurídico em debate e, assim, não pode integrar o polo passivo da demanda; ii) o ressarcimento referente aos lucros cessantes somente ocorre sobre valores cuja percepção seja devidamente comprovada, prova que incumbia exclusivamente ao recorrido; iii) o valor mensal deve ser apurado em liquidação por arbitramento e definido o locativo mensal para apartamento equivalente; iv) os juros de mora devem ser computados desde o trânsito em julgado.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à ilegitimidade passiva da empresa Assuã Administração de Bens e Serviços LTDA, as recorrentes não alegam violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da Súmula 568/STJ
+Quanto à condenação por lucros cessantes e ao termo inicial dos juros moratórios, o TJ/SP aplicou corretamente a jurisprudênciado STJ no sentido de que: i) o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador; ii)a citação é o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual (EREsp 1.341.138/SP, 2ª Seção, DJe de 22/5/2018).
+Logo, nesse ponto, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+- Do valor da indenização por lucros cessantes
+O acórdão recorrido, ao decidir que o montante devido a título de lucros cessantes deve ser calculado com base no percentual de 0,5% ao mês, incidente sobre o valor do contrato, divergiu da jurisprudência do STJ quanto ao tema, firmada no sentido de que, reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos e devem corresponder à média do aluguel que o comprador deixaria de pagar (AgInt no REsp 1.723.050/RJ, 4ª Turma, DJe de 26/9/2018; e AgInt no REsp 1.651.964/RJ, 3ª Turma, DJe de 27/3/2018).
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III, IV, "a", e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para determinar que o critério de apuração da indenização por lucros cessantes seja a média do aluguel que o comprador deixaria de pagar.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM RESSARCIMENTO POR DANOS MATERIAIS E MORAIS E DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS ABUSIVAS COM PEDIDO SUBSIDIÁRIO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FIXAÇÃO EM ALUGUÉIS. PROVIMENTO PARCIAL DO RECURSO.
+1.Ação de obrigação de fazer cumulada com ressarcimento por danos materiais e morais e declaratória de nulidade de cláusulas contratuais abusivas com pedido subsidiário de rescisão contratual em razão de atraso na entrega de imóvel objeto de compromisso de compra e venda.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3.O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente.
+4.A citação é o termo inicial para a incidência dos juros de mora, no caso de responsabilidade contratual. Precedente.
+5.Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos e devem corresponder à média do aluguel que o comprador deixaria de pagar. Precedentes.
+6. Recurso especial parcialmente conhecido e parcialmente provido.
