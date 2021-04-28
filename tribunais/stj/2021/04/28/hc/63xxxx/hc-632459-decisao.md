@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpus, sem pedido liminar, impetradoem favor de LARISSA DE CASTRO FERREIRA SANTANA e de ALEX DOS SANTOS SANTANA DE CASTRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n.0049542-33.2012.8.26.0562.
+Consta nos autos que os Pacientes foram denunciados como incursos no art. 171,caput, c.c. os arts. 29 e 71, todos do Código Penal. Ascondutas criminosas teriam sido realizadas"no decorrer dos meses de Fevereiro a Julho de 2011"(fl. 37).A denúncia foi recebida em 10/03/2014 (fl. 39). Posteriormente, os acusados foram absolvidos em primeiro grau de jurisdição (fls. 43-45).
+Inconformado, o Ministério Público e o Assistente de acusação interpuseram recurso de apelação. Em 15/08/2018, foi provido o recurso ministerial e parcialmente provido o recurso da assistência de acusação para "condenar os réus  ..  por incursos no art. 171, caput. cc. o art. 71. todos do Código Penal, impondo-lhes as penas 02 (dois) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime aberto, além de 21 (vinte e um) dias-multa, no piso legal, substituídas as corporais por restritivas de direitos consistentes em prestação de serviços à comunidade  ..  e prestação pecuniária"(fl. 61). Opostos embargos de declaração, foram rejeitados pela Corte local (fls. 70-72).
+Em decisão, de minha lavra, proferida no AREsp n.1.501.324/SP, foi conhecido o recurso especial defensivoe negado provimento. A ação penal transitou em julgado em 11/05/2020.
+Nestewrit, a Parte Impetrante alega, em síntese, aprescrição da pretensão punitiva.
+Requer o reconhecimento da prescrição com a extinção da punibilidade.
+A Parte Impetrante não formulou pedido liminar.
+As informações foram prestadas (fls. 34-127 e 137-158).
+O Ministério Público Federal opinou pela denegação da ordem dehabeas corpus(fls. 163-167).
+É o relatório.Decido.
+Da acurada leitura dos autos, observa-se que a matéria não foi tratada no acórdão prolatado pela Corte de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. NEGATIVA DO RECURSO EM LIBERDADE. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INIDÔNEA. REGIME. SUPRESSÃO DE INSTÂNCIA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.  ..
+4. A matéria relativa ao regime inicial de cumprimento de pena não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça.
+5. Recurso parcialmente conhecido e, nessa extensão, provido em parte para assegurar aos recorrentes Mateus e Anderson o direito de responder à ação penal em liberdade até que se esgote a prestação jurisdicional pelas instâncias ordinárias, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida alternativa, nos termos do art. 319 do CPP." (RHC 101.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/02/2019, DJe 11/03/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME. INDEVIDA SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Com efeito, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver estabilidade e permanência do vínculo criminoso, sendo inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+2. O capítulo acerca da fixação de regime não foi devolvido para o Tribunal a quo, nem por ele foi apreciado, tendo tão somente havido a apreciação do pleito de absolvição do réu. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de in stância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.
+3. Agravo desprovido." (AgRg no HC 480.194/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018; sem grifos no original.)
+Por oportuno, na hipótese, o pedido de reconhecimento da prescrição pode ser realizado por simples petição ao Juízo das Execuções Criminais (inciso II do art. 66 da Lei de Execuções Criminais). E, eventual irresignação com a decisão do Juízo de piso, poderá ser impugnada por meio dehabeas corpusa ser impetrado na Corte local.
+Nesse sentido:
+" ..
+4. Havendo execução penal em curso, uma das fases do processo penal, o pedido de prescrição deve ser apresentado por intermédio dela, não podendo ser substituído pelo ajuizamento de revisão criminal, instituto que tem natureza jurídica de ação autônoma de impugnação, não de mera etapa processual.
+5. Agravo interno provido para conhecer do agravo em recurso especial, mas conhecendo apenas parcialmente o próprio recurso especial, negando-lhe provimento."(AgRg no AREsp 1.291.623/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/11/2020, DJe 23/11/2020; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA.TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE APRECIAÇÃO DO WRIT. HABEAS CORPUS NÃO CONHECIDO.
