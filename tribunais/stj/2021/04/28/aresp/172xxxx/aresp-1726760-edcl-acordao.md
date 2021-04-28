@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por DOMICIANO GOMES FILHO e MARLENE MARIA LIMA contra acórdão que negou provimento ao agravo interno no agravo em recurso especial que interpuseram, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE CONSTITUIÇÃO DE PASSAGEM FORÇADA CUMULADA COM ANTECIPAÇÃO DOS EFEITOS DA TUTELA DE URGÊNCIA ANTECEDENTE PARA A PASSAGEM DE CABOS E TUBULAÇÕES. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de constituição de passagem forçada cumulada com antecipação dos efeitos da tutela de urgência antecedente para a passagem de cabos e tubulações.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno no agravo em recurso especial não provido.
+Em suas razões, apontam os embargantes suposta omissão e erro material no acórdão embargado. Sustentam que: i) o Tribunal de origem, exatamente por não decidir acerca do art. 303, §1º, I, do CPC/15, negou vigência aos arts. 1.285 do CC/02 e 303, §1º, I, do CPC/15, que foram devidamente prequestionados para fins recursais; ii) no julgamento do agravo interno, não foi abordada uma importante e decisiva questão, qual seja, de que o terreno dos fundos seria inservível por restrições ambientais, bem como o pedido explícito de passagem forçada até agora não foi julgada nos autos; iii) o juízo de 1º grau não se ateve ao art. 303, §1º, I, do CPC/15, e "fulminou" o processo com a improcedência da ação, sem que os embargantes pudessem aditar a petição inicial com a complementação de sua argumentação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado foi claro quanto a manter a ausência de prequestionamento e a incidência da Súmula 7/STJ, conforme se depreende dos seguintes trechos:
+O art. 303, §1º, I, do CPC/15, não foi objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que os agravantes ao menos deveriam ter alegado a violação do art. 1.022 do CPC/15 se entendessem que o referido dispositivo legal deveria ter sido enfrentado pelo Tribunal de origem.
+De acordo com o art. 1.025 do CPC/15, consideram-se incluídos no acórdão de inadmissão ou rejeição os elementos que o embargante suscitou, para fins de prequestionamento, apenas no caso de o tribunal superior considerar existente erro, omissão, contradição ou obscuridade, o que não ocorreu neste processo.
+(..)
+Por fim, permanece a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto àinexistência de hipótese para concessão de passagem forçada demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Pois bem. Do manejo dos autos, o conjunto probatório demonstra que, não obstante o imóvel dos apelantes seja encravado, o terreno confrontante voltado para a Rua Luis Delfino, na cidade de Joinville, também é de propriedade destes, como bem esclarecido pelo perito: "Por outro lado, como acima descrito, o imóvel que faz frente para a Rua Luiz Delfino, também é de propriedade do autor, de modo que o mesmo possui duas áreas: a de matrícula n. 56.935 e a de n. 57.841 que, embora com matrículas distintas, são contíguas ou limítrofes, sendo a última com frente para a Rua Luiz Delfino, o que, em princípio, permitiria a passagem das tubulações das concessionárias" (p. 221).
+Nesse contexto, considerando a peculiar situação dos autos, em que o imóvel situado à margem do logradouro público (e limítrofe ao encravado) igualmente pertence aos apelantes, a hipótese de se compelir os apelados a suportar a passagem forçada pretendida seria viável tão somente se comprovada a impossibilidade de ser realizada pelo imóvel dos recorrentes, por acesso intransitável/dificultoso, como visto.
+Todavia, não se confirma a situação de dificuldade/intransitabilidade no caso específico, ainda que se tenha observado que o bem (limítrofe) dos recorrentes possui restrições ambientais, e que a instalação dos cabeamentos/tubulações tornar-se-á mais onerosa se perpassada pelo terreno dos apelantes (R$ 9.344,21, e pelo terreno dos apelados somaria o valor de R$ 5.617,27).
+Isso porque a prova pericial demonstrou de forma clara a possibilidade da instalação dos cabos/tubulações sobre o bem dos recorrentes, bem como que as restrições municipais impostas pela municipalidade (faixa não edificável de 15 metros) não configurariam óbice à constituição da passagem naquele local.
+Nesse sentido, extrai-se dos quesitos respondidos pelo expert (p. 216- 247):
+Do Juízo
+Da imprescindibilidade da passagem da tubulação pelo caminho particular que dá acesso à Rua Presidente Campos Sales até o terreno tecnicamente encravado;
+RESPOSTA: Não é imprescindível que seja através do acesso à Rua Presidente Campos Sales. Ver resposta ao quesito (2) seguinte.
+Da possibilidade dos tubos passarem pelo imóvel de frente com a Rua Luiz Delfino:
+Sim, é possível, desde que cumpridas as determinações legais expostas no Ofício n. 262/18 - anexo 12 - da Secretaria do Meio Ambiente (SAMA) do município de Joinville, assim como a Certidão n. 1451/2018 - anexo 11, que estabelece:
+"RESULTADO DA ANÁLISE DO IMÓVEL DIANTE DA PORTARIA N. 127/2017", "Faixa de 15 metros até o limite da APP poderá ser ocupado conforme parâmetros e medidas compensatórias da Portaria 127/2017", conforme Anexo 11 deste Laudo.
+Dita faixa de 15 metros, na situação mais crítica (isto é, junto à testada), não atinge a medida pela Rua Luiz Delfino descrita conforma Registro de matrícula n. 57.841, que possui 16,00 metros. Ou seja, ainda há sobra de 1,00 (um) metro, além dos 15,00 metros máximos de ocupação permitidos, de onde se conclui da possibilidade de passagem das tubulações referidas por esta mesma faixa (de 1,00m).
+(..)
+Dos autores 10. É possível ligar as tubulações de utilidades das concessionárias de água, esgoto, energia, telefonia ao imóvel construído no terreno considerado "encravado" (3), senão pelo "caminho" que faz frente para a rua Campos Sales:
+RESPOSTA: Não somente pela Rua Presidente Campos Sales mas também pela Rua Luiz Delfino.
+(..)
+Dos réus
+4. É possível a passagem da tubulação objeto da inicial pelo imóvel dos próprios autores, matrícula n. 57841 (frente para Rua Luiz Delfino e fundos para o imóvel dos autores)
+RESPOSTA: Sim, é possível (ver Ofício 262/2018 da Secretaria Municipal do Meio Ambiente no anexo 12 e resposta ao quesito n. 2 do Juízo).
+Ademais, cabe consignar a conclusão do laudo pericial: "De qualquer forma, não há restrições quanto à passagem das tubulações das concessionárias serem feitas, tanto pelo terreno do réu quanto o de propriedade do autor, que faz frente para a Rua Luiz Delfino, de acordo com consulta à Secretaria do Meio Ambiente da Prefeitura" (p. 246).
+Afora isso, vislumbra-se que o perito confirmou que "as utilidades, atualmente (água, luz e telefone) ao imóvel do autor, objeto da presente perícia, são feitas através da Rua Luiz Delfino" (p. 221-222), motivo a mais para afastar a obrigatoriedade de passagem pelo terreno dos apelados, uma vez que já existe outra instalação de cabeamentos na área dos apelantes.
+Além disso, urge salientar que descabe a alegação dos insurgentes quanto à existência de faixa de 30 (trinta) metros não edificáveis, para fundamentar a impossibilidade de constituição da passagem sobre seu imóvel, já que há nos autos um laudo emitido pela Secretaria Municipal de Agricultura e Meio Ambiente de Joinville exigindo apenas 15 (quinze) metros de área sem edificação, nos mesmos moldes do laudo pericial (p. 279). Assim, os apelantes teriam à sua disposição a sobra de 1,00 metro para a referida instalação (já que a testada do imóvel compreende 16 metros), além da possibilidade de utilizar a já existente.
+Não bastasse, o laudo pericial dá conta de que a opção de passagem de tubulação pelo imóvel dos apelados geraria prejuízos e poderia inviabilizar o acesso aos veículos no seu imóvel (p. 242).
+Desse modo, considerando-se o cenário fático acima descrito, não há como se impor aos recorridos que suportem a restrição ao uso pleno do seu imóvel, já que não se pode admitir, sob pena de afronta à boa -fé objetiva - que deve reger as relações sociais e, consequentemente jurídicas -, que a passagem onere ou diminua os poderes de proprietários do prédio serviente, sobretudo se existe outra de igual qualidade e acesso.
+Por derradeiro, insta salientar que não devem ser analisados os argumentos recursais no sentido da impossibilidade de passagem de veículos e pessoas sobre o imóvel dos apelantes, uma vez que não se trata do objeto da presente demanda que, reitera-se, diz respeito apenas à passagem de cabeamentos e tubulações. É dizer, se os recorridos não mais estão permitindo o acesso dos recorrentes ao seu imóvel (pessoas e veículos), conforme defendem no apelo, tal questão deve ser discutida em vias próprias.
+Na verdade, revela-se inequívoca a pretensão dos embargantes de se valeremdos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Portanto, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
