@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Siqueng Construções e Empreendimentos Ltda. e outro contra acórdão da 3ª Turma do TRF da 5ª Região assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA.
+1. Agravo de Instrumento manejado pela Empresa e o seu Sócio contra decisão que não reconheceu aprescrição intercorrente, pleiteada nos autos de Execução Fiscal.
+2. Sobre a prescrição intercorrente, o STJ, em sede de Recurso Repetitivo, no julgamento do REsp 1.340.553/RS (Temas 566 a 571), consignou que "A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente".
+3. Hipótese em que a citação válida ocorreu em 27/08/2008, o que teve o condão de interromper o prazo prescricional, nos termos previstos no art. 219, do CPC/1973, vigente na época.
+4. Após diligências infrutíferas no sentido de encontrar o devedor, a Fazenda Nacional pleiteou oredirecionamento da Execução Fiscal contra o sócio, pedido que demorou mais de cinco anos para ser apreciado, o que atrai a aplicação da Súmula nº 106, do STJ, segundo a qual "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência.". 5. Correta a decisão agravada que rechaçou a prescrição intercorrente. Agravo de Instrumento improvido.
+Os recorrentes aduzem ofensa ao art. 40 da Lei n. 6.830/1980.
+O apelo nobre foi admitido na origem.
+É o relatório.
+Acerca da controvérsia, concluiu o acórdão recorrido:
+Após diligências infrutíferas no sentido de encontrar o devedor, a Fazenda pleiteou o redirecionamento da Execução contra o sócio, pedido que demorou mais de cinco anos para ser apreciado, o que atrai a aplicação da súmula nº 106, do STJ, segundo a qual "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+O contexto fático acima referido aponta negligência na prática de ato processual a cargo do Poder Judiciário, por impulso oficial, e não da parte exequente. Em casos tais, de aplicação da Súmula 106/STJ, mostra-se inviável o apelo nobre ante o enunciado sumular 7 desta Corte.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. INTERRUPÇÃO DA PRESCRIÇÃO PELA CITAÇÃO OU DESPACHO QUE A ORDENA. RETROAÇÃO À DATA DA PROPOSITURA DA AÇÃO.PRECEDENTE ADOTADO EM SEDE DE RECURSO ESPECIAL REPETITIVO, NA FORMA DO ART. 543-C, DO CPC. ALTERAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO QUE AFASTOU A RESPONSABILIDADE DA EXEQUENTE PELA DEMORA A CITAÇÃO.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Esta Corte já se manifestou, inclusive em sede de recurso especial repetitivo, na foram do art. 543-C, do CPC, (REsp nº 1.120.295/SP, Rel. Min. Luiz Fux, DJe 21.05.2010), no sentido de que na cobrança judicial do crédito tributário, a interrupção do lustro prescricional operada pela citação válida (redação original do CTN) ou pelo despacho que a ordena (redação do CTN dada pela LC 118/2005) retroage à data da propositura da ação (art. 219, § 1o. do CPC, c/c art. 174, parág. único, I do CTN). Nesse sentido: AgRg no REsp.1.293.997/SE, Rel. Min. Humberto Martins, DJe 26.03.2012, AgRg no AREsp 34.035/SP, Rel. Min. Herman Benjamin, DJe 23.02.2012, REsp.1.284.219/RS, Rel. Min. Mauro Campbell Marques, DJe 01.12.2011.
+2. Nos casos em que a demora na citação é imputada ao exequente, descabe a retroatividade da interrupção da prescrição à data da propositura da ação fiscal.
+3. No caso concreto, o Tribunal de origem se manifestou expressamente no sentido de que "embora tenha havido o transcurso de cinco anos entre a data da citação e a data da constituição do crédito tributário em 10-11-1999, a demora na citação não se deu por culpa do exequente, mas, sim, pela morosidade da máquina judiciária" (fls. 273 e-STJ). Dessa forma, não é possível, em sede de recurso especial, alterar a conclusão do acórdão recorrido que entendeu pela inexistência de responsabilidade da exequente em relação à demora na citação, eis que a demora seria em razão de circunstâncias alheias à vontade da exequente. É que o acolhimento da recorrente no ponto, tal qual ocorreu nos casos em que se aplica a Súmula nº 106 do STJ, demanda revolvimento de matéria fático-probatória, o que é vedado em sede de recurso especial pelo óbice da Súmula nº 7 desta Corte,in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno não provido.
+(AgInt no AREsp 1.368.916/RJ, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/3/2019, DJe 15/3/2019).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. DEMORA NO PROCESSAMENTO DO FEITO.PRESCRIÇÃO. REVISÃO. SÚMULA 7/STJ. REPRESENTATIVO DA CONTROVÉRSIA.
+1. Não há como se conhecer de recurso especial em que se busca ser revista a conclusão do aresto recorrido que entendeu aplicável o enunciado 106 da Súmula desta Corte. Inteligência da Súmula 7 e orientação firmada no REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.432.553/RJ, de minha relatoria, SEGUNDA TURMA, julgado em 1º/4/2014, DJe 28/4/2014).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
