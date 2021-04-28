@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região,assim ementado (fl. 116):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL POR ATO DE IMPROBIDADE ADMINISTRATIVA. SISTEMA BACENJUD. REPETIÇÃO DE PENHORA ELETRÔNICA. INDEFERIMENTO. JUSTIFICATIVA E INFORMAÇÕES NOVAS. INEXISTÊNCIA. AUSÊNCIA DE PREJUÍZO AO AGRAVADO PELA NÃO APRESENTAÇÃO DE CONTRAMINUTA.
+1. A ausência de contraminuta não traz qualquer prejuízo ao ora agravado, na medida em que a decisão prolatada nos presentes autos não lhe é desfavorável. Na ação originária, a ele foi expedida carta precatória para, no prazo legal, oferecer manifestação escrita, razão pela qual foi lhe assegurado o direito ao contraditório e à ampla defesa.
+2. A medida constritiva que se pretende renovar foi outrora determinada, restando infrutífera, de modo que a ausência de informações sobre o surgimento de valores penhoráveis do ora agravado, impõe o indeferimento do pleito de nova tentativa de bloqueio via sistema BANCEJUD.
+3. "O Superior Tribunal de Justiça não admite o excesso no deferimento de requerimentos de penhora eletrônica ou de providências semelhantes sem a devida justificativa" (TRF1. Numeração Única: AGA 0074181-84.2012.4.01.0000/AC; Oitava Turma, Rel. Des. Federal Novély Vilanova, e-DJF1 de 20/06/2014, p. 279).
+4. Agravo de instrumento não provido.
+O recorrente alega dissídio jurisprudencial e violação doartigo 655-A do CPC/2015, ao argumento de possibilidade de reiteração do pedido de penhora por meio do sistema Bacen Jud, ressaltando que a lei não limitou a sua utilização a uma única vez, por se tratar de instrumento destinado a promover a satisfação da pretensão creditória.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 164-166.
+Parecer do Ministério Público Federal, às fls. 178-181, pelo provimento do recurso especial.
+É o relatório. Passo a decidir.
+A pretensão não merece prosperar.
+Isso porque esta Corte firmou entendimento no sentido de que é cabível a renovação de pedido de penhora via sistema Bacen-jud, desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação da situação econômica do devedorverificável em cada caso concreto.
+A propósito, vide com grifos nossos:
+PROCESSUAL CIVIL.PENHORAON-LINE. RENOVAÇÃO DOPEDIDO.RAZOABILIDADE.INEXISTÊNCIA.AUSÊNCIA DA DEMONSTRAÇÃO DA MODIFICAÇÃO DASITUAÇÃO ECONÔMICADO EXECUTADO. INDEFERIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Trata-se de Agravo Interno interposto contra decisão monocrática que não conheceu do Recurso Especial.
+2. O Superior Tribunal de Justiça possui entendimento pacífico de que a realização de nova consulta ao sistema do Bacenjud para busca de ativo financeiro, quando infrutífera pesquisa anterior, é possível, se razoável areiteraçãoda medida, como por exemplo, alteração nasituação econômicado executado ou decurso do tempo suficiente.
+3. Na hipótese, contudo, o acórdão recorrido consignou: "Extrai-se dos autos que o COREN/RN move ação de execução fiscal contra Johanara Cipriano do Nascimento, na qual o últimopedidode consulta ao sistema BACENJUD foi realizado em 25/09/2017. Em razão do lapso temporal transcorrido, superior a um ano, o exequente, ora agravante, acredita que asituaçãofinanceira do devedor possa ter sido alterada, o que justifica opedidode nova consulta. Conquanto a utilização dapenhoravia BACENJUD atenda com presteza à finalidade de satisfação do crédito do on-line exequente, por representar um meio célere e eficaz depenhora,propiciando que a constrição recaia sobre dinheiro - o primeiro na ordem de preferência dos bens a serem penhorados - entende-se que tal medida não pode ser realizada por diversas e sucessivas vezes. O entendimento deste Órgão Julgador é o de que só é possível requestar nova solicitação do sistema BACENJUD se o exequente lograr êxito em demonstrar ao menos indícios de modificaçãoeconômicado executado.
+O mero decurso do tempo não é suficiente para justificar nova tentativa depenhoraon-line. A ausência da demonstração da modificação dasituação econômicado executado faz presumir que a nova tentativa de constrição não terá sucesso. Ademais, não pode ser determinada consulta sobre eventual saldo hipotético em contas do ad eternum devedor. Precedente: (..) Assim, diante dainexistênciade fato novo que indique a modificação dasituação econômicado executado, não há como deferir opedidode nova tentativapenhoravia BACENJUD on-line" (fls. 49-50, e-STJ).
+4. O Tribunal a quo, com base nos elementos de convicção dos autos, entendeu que a renovação da medida não traria utilidade prática, porquanto não ficou comprovada a mudança nasituaçãopatrimonial da parte executada.
+5. Rever o entendimento consignado pelo acórdão recorrido requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame deprovanão enseja Recurso Especial." 6. Agravo Interno não provido.
+(AgInt no REsp 1.909.060/RN, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5/4/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORAON LINE. SISTEMA BACENJUD.PEDIDODEREITERAÇÃO.POSSIBILIDADE, DESDE QUE OBSERVADO O PRINCÍPIO DA RAZOABILIDADE.AUSÊNCIA, NO CASO, DE MOTIVAÇÃO IDÔNEA DA EXEQUENTE. PROVIDÊNCIA INDEFERIDA. ALTERAÇÃO DO JULGADO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1.Inexistea alegada violação dos arts. 458 e 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. É entendimento das Turmas que compõe a Primeira Seção desta Corte Superior de que é cabível a renovação depedidodepenhoraeletrônica desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação dasituação econômicada parte executada. Precedentes: AgInt no REsp. 1.479.999/PR, Rel. Min. GURGEL DE FARIA, DJe 28.6.2018; REsp. 1.653.002/MG, Rel. Min. HERMAN BENJAMIN, DJe 24.4.2017.
+3. No caso dos autos, o segundopedidofoi indeferido pelo Magistrado de piso, cuja decisão foi mantida pelo Tribunal Regional, mormente porquanto, da análise das circunstâncias fáticas da causa, constatou-se que não houve alteração dasituação econômicado executado. Com efeito, verifica-se que a reversão da conclusão alcançada na instância ordinária não se revela possível em sede de Recurso Especial, dada a necessidade do revolvimento de fatos e provas, circunstância obstada pela Súmula 7/STJ. Precedentes: AgInt no REsp. 1.600.344/RS, Rel. Min. SÉRGIO KUKINA, DJe 19.10.2016; AgRg no REsp. 1.406.895/PE, Rel. Min. OG FERNANDES, DJe 18.12.2013.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp 1.024.444/BA, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma,DJe 10/5/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO.PEDIDODEPENHORAONLINE. RENOVAÇÃO.DEMONSTRAÇÃO DE MODIFICAÇÃO DASITUAÇÃOFINANCEIRA E/OU PATRIMONIAL DA PARTE EXECUTADA. AUSÊNCIA. SÚMULA 83 DO STJ.
+As Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já se manifestaram no sentido de que é cabível renovação depedidodepenhoraeletrônica desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação nasituaçãoda parte executada.
+(..)
+Agravo interno desprovido, com aplicação de multa.
+(AgInt no REsp 1.634.247/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/4/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.
+BACENJUD. RENOVAÇÃO DOPEDIDODE BLOQUEIO JUDICIAL. IMPOSSIBILIDADE.INEXISTÊNCIADE FATO NOVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, que consignou não ser possível areiteraçãodopedidode bloqueio dos ativos financeiros, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no AREsp 607.869/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/02/2017)
+Na espécie, o Tribunal deorigem, após ampla análise do conjunto fático-probatório dos autos, firmou a compreensão pelo indeferimento do pleito de nova tentativa de bloqueio via Bacen Jud,em razão da inexistência de prova ou indício de modificação da situação econômica do executado.
+Vejamos (e-STJ fl. 114):
+Não vislumbro na hipótese a necessidade de reforma da decisão agravada, uma vez que suficientemente fundamentada pelo juízo a quo no arcabouço jurídico pátrio.
+A decisão agravada foi lavrada nos seguintes termos:
+"Para repetição de penhora eletrônica anteriormente realizada é necessário demonstrar a "ocorrência de qualquer fato novo que indique a eficácia da constrição novamente requerida" (AGA 0002839-42.2014.4.01.0000/MG, Rel. DESEMBARGADOR FEDERAL REYNALDO FONSECA, Rel. Conv. JUIZ FEDERAL RONALDO CASTRO DESTÊRRO E SILVA, SÉTIMA TURMA, e-DJF1 p. 2254 de 09/05/2014).
+No caso vertente, inexiste prova ou indício de modificação da situação econômica do executado.
+Portanto, indefiro a renovação de penhora eletrônica, por meio do Sistema BACENJUD (fls. 221/223).
+Assim, indique bens do executado passíveis de penhora (art. 475-J, § 3º, do CPC), no prazo de 20 (vinte) dias" (fl. 17).
+No caso vertente, entendo que a renovação da providência cautelar requerida agora pelo agravante já foi outrora acatada, restando infrutífera naquela ocasião, de modo que a ausência de informações sobre o surgimento de valores penhoráveis do ora agravado, impõe o indeferimento do pleito de nova tentativa de bloqueio via sistema BANCEJUD.
+A medida constritiva que se pretende renovar foi outrora determinada. Não havia fundos suficientes na conta bancária. Inexistindo provas ou indícios de alteração na situação econômica da parte ora agravada. Logo, correta a decisão vergastada. (grifos nossos)
+Assim tem-se que a revisão da conclusão a que chegou a Corte aquosobre a questão demanda o reexame do conjunto fático-probatório dos autos, o que é inviável, em sede de recurso especial, em virtudedo óbice contido na Súmula n. 7/STJ.
+A divergência jurisprudencial suscitada não atende ao requisito da identidade fático-jurídica entre os acórdãos confrontados, uma vez que as peculiaridades do caso vertente não se encontram espelhadas nos paradigmas, os quais, a toda evidência, lastrearam-se em fatos, provas e circunstâncias distintas das constantes dos autos sob análise.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SISTEMA BACENJUD. REPETIÇÃO DE PENHORA ELETRÔNICA. JUSTIFICATIVA E INFORMAÇÕES NOVAS. INEXISTÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTRADOS.RECURSO ESPECIAL NÃO CONHECIDO.
