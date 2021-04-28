@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração da FAZENDA NACIONAL contra decisão em que, com base no art. 255, § 4º, III, do RISTJ, CONHECI do recurso especial da PETROBRAS S.A. e DEI-LHE PROVIMENTO, a fim de lhe reconhecer o direito de proceder à liquidação da sentença (e-STJ fls. 252/254).
+A parte embargante alega, em essência (e-STJ fl. 257):
+ ..  como fora dado provimento ao recurso para que houvesse liquidação da sentença com base em súmula deste Tribunal, restou obscuridade e omissão a ser sanada quanto ao alcance da decisão. Nesse sentido, é necessário esclarecer-se se ao optar pela liquidação em juízo, a parte necessariamente irá receber seu crédito mediante precatório, ou se o alcance da decisão significa que a parte pode liquidar o crédito em juízo e, após tal providência, pedir a compensação administrativa, sem se sujeitar ao regime de precatório.
+Impugnação às e-STJ fls. 276/284.
+Passo a decidir.
+No caso, não se verificam os vícios apontados, pois a decisão embargada está clara no sentido de que, de acordo com a Súmula 461 do STJ, o contribuinte pode optar para receber seu indébito via precatório ou mediante compensação. Outrossim, esclareceu que, no caso, a parte pretende liquidar o julgado, o quesomente pode ocorrer segundo as normas processuais pertinentes, para fins de expedição de precatório.Todavia, esse direito foi negado pelo acórdão recorrido, que julgou cabível tão somente a compensação tributária. Daí o provimento do recurso especial.
+Na decisão agravada, não há nenhuma tutela jurisdicional no sentido de assegurarà contribuinte recorrente o direito de proceder à liquidação para, posteriormente, procederà compensação, a qual, registre-se,deve ser realizada na esfera administrativa, sob a supervisão e fiscalização da autoridade tributária.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. ICMS. COMPENSAÇÃO DOS VALORES INDEVIDAMENTE RECOLHIDOS. POSSIBILIDADE DE DECLARAÇÃO DO DIREITO À COMPENSAÇÃO TRIBUTÁRIA EM SEDE DE MANDANDO DE SEGURANÇA (SÚMULA 213 DO STJ). PEDIDO DE SUSPENSÃO DO PROCESSO PREJUDICADO. AGRAVO REGIMENTAL DA FAZENDA PÚBLICA AO QUAL SE NEGA PROVIMENTO.
+1. Quando a Súmula 213/STJ afirma que o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária, não retira do writ a sua natureza mandamental. O órgão julgador declara o direito à compensação, determina o regime jurídico aplicável e concede ordem para que a autoridade tributária não exija o tributo considerado indevido, nem obstaculize o encontro de contas nos termos fixados judicialmente.
+2. É preciso ressaltar que ao Judiciário caberá apenas a declaração do direito à compensação, sendo certo que o ajuste de contas, em se tratando de ICMS, será feito administrativamente e sujeito a conferência e posterior homologação pela autoridade competente.
+3. A alegação, referente ao pedido de suspensão do processo até o julgamento da questão prejudicial de ilegitimidade passiva da suposta autoridade coatora, no REsp. 1.352.425/MG, ficou prejudicada, tendo em vista que foi negado seguimento ao Recurso Especial da Fazenda Pública, em 26.5.2015.
+4. Agravo Regimental da Fazenda Pública desprovido.
+(AgRg no RMS 39.625/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018).
+PROCESSUAL CIVIL. TRIBUTÁRIO. OBTENÇÃO DO DIREITO DE COMPENSAÇÃO DE TRIBUTO PAGO A MAIOR AUSÊNCIA DE CERTEZA E LIQUIDEZ DOS CRÉDITOS PERSEGUIDOS. AÇÃO JUDICIAL CUJA PRETENSÃO É APENAS O RECONHECIMENTO DO DIREITO DE COMPENSAÇÃO.
+ ..
+V - Do acima exposto, infere-se que o provimento judicial, obtido no Primeiro Grau e chancelado pelo Tribunal a quo, foi o de obtenção do direito de compensação de tributo pago a maior, sem a averiguação de certeza e liquidez dos créditos perseguidos, o que dispensa a aplicação do art. 166 do CTN, que deverá ser observando no âmbito administrativo.
+VI - Tal decisão está de acordo com o julgamento proferido no REsp repetitivo n. 1.715.256/SP, 1.715.294/SP e 1.365.095/SP, em que ficou delimitado o alcance do Tema n. 118/STJ.
+VII - No referido julgado, ficou assentado ser cabível a ação judicial cuja pretensão é apenas o reconhecimento do direito de compensação, sem abranger os elementos ínsitos a ela, ou sem apurar o efetivo quantum dos recolhimentos, providência essa que será delimitada no âmbito administrativo. Nesse sentido: REsp n.
+1.365.095/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 13/2/2019, DJe 11/3/2019; REsp n. 1.800.314/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2019, DJe 29/5/2019; AgInt no REsp n. 1.518.470/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 19/9/2019, DJe 25/9/2019.
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.863.835/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/09/2020, DJe 21/09/2020).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
