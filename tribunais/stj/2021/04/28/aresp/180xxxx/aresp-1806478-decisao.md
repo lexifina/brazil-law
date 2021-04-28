@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por ECOPLAN ENGENHARIA LTDAem face de decisão proferida pelo Tribunal Regional Federal da 4ª Região, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+PROCESSUAL CIVIL. ARTIGO 1.015 DO CPC. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE NÃO-CARACTERIZADA.
+Ainda que o Superior Tribunal de Justiça tenha reconhecido que o artigo 1.015 do CPC de 2015 configure taxatividade mitigada, o presente caso não se insere dentre aquelas hipóteses excepcionais que autorizam a extensão do seu alcance.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta violação aos arts. 4, 6, 54, 56, 489, § 1º, III, IV eVI, 1.015 e1.022, II, do CPC, bem como divergência jurisprudencial.
+Em síntese, aduz que o v. acórdão deixou de se pronunciar sobre questões suscitadas nos aclaratórios, que o Tribunal de origem negligenciou a posição já firmada pelo STJ quanto à mitigação da taxatividade do rol do art. 1.015 do CPC, tendo violado os princípios processuais da celeridade e da cooperação ao chancelar decisão que determinou a tramitação conjunta de dois feitos sem que haja base legal para tanto.
+A inadmissão do recurso especial se fez à consideração de que incide na espécie os óbices sumulares 83 e 7 do STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece acolhida.
+Inicialmente, quanto à violação do artigo 1.022, do CPC/2015, cumpre asseverar que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamentos suficientes para decidir a controvérsia. (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Infere-se dos autos que a Corte de origem decidiu a controvérsia de modo integral e suficiente ao expressamente consignar que que não se vislumbrava qualquer prejuízo no procedimento adotado pelo Juiz de Primeiro Grau, ao determinar a instrução conjunta de processos que tramitam conjuntamente.A propósito, os seguintes trechodo acórdão recorrido (fl. 173e-STJ):
+(..)
+De qualquer forma, acresça-se que não se vislumbra qualquer prejuízo no procedimento adotado pelo Juiz de Primeiro Grau, ao determinar a instrução conjunta de processos que tramitam conjuntamente. Embora alegue que os pedidos sejam distintos, estando os feitos vinculados eletronicamente, nada impede - muito pelo contrário -, que sejam consideradas as pretensões deduzidas em ambas as ações. Não se encontra presente, desta forma, excepcionalidade a justificar o conhecimento do recurso do agravo de instrumento.
+Registra-se que o Tribunal a quo, cumprindo com a devida prestação jurisdicional, concluiu no julgamento dos embargos de declaração que a matéria em debate foi analisadapara o deslinde da controvérsia e que a recorrente pretendia, na verdade, a reforma da decisão proferida, e não sanar qualquer vício de contradição, omissão ou erro material.
+Percebe-se desde logo que não há falar em violação ao arts. 489 e 1.022 do CPCporquanto houve efetivamente o enfrentamento da controvérsia posta nos autos e necessária à solução da lide, de modo que não há que se falar em ausência de prestação jurisdicional.
+No tocante à suposta ofensa ao artigo 1.015 do CPC, nota-se pela leitura dos autos que a Corte de origem decidiu a controvérsia de modo integral e suficiente ao expressamente consignar que não se encontra presente, excepcionalidade a justificar o conhecimento do recurso do agravo de instrumento.
+Nesse contexto, para se admitir entendimento contrário ao que restou decidido pelo Tribunal de origem com o consequente acolhimento da pretensão recursal quanto àurgência do pedido no sentido de que as pretensões deduzidas em ambas ações são distintasnão permitindo a tramitação conjunta dos processos, não é possível sem o revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, providência vedada no âmbito do recurso especial, nos termos da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE NULIDADE DE TESTAMENTO.ROL DO ART. 1.015 DO CÓDIGO DE PROCESSO CIVIL DE 2015.URGÊNCIANÃO VERIFICADA.REEXAME.SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que o rol do art. 1.015 do CPC/2015 é detaxatividade mitigada,por isso admite a interposição deagravo de instrumentoquando verificada aurgênciadecorrente da inutilidade do julgamento da questão no recurso de apelação.
+3. Na hipótese, o tribunal estadual expressamente concluiu pela ausência deurgência,não sendo possível a esta Corte rever tal entendimento em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1781314/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 14/8/2019, sem destaques no original).
+Quanto à suposta ofensa ao arts. 4, 6, 54 e 56 do CPC,cumpre asseverar que amatériaconstante nos seus comandos normativos não comporta exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento dostemas.
+Observa-se que não houve apreciação pelo Tribunal de origem sobre os dispositivos supostamente violados, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DIREITO DE FAMÍLIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 5º, 19 e 22 DO ECA. TRIBUNAL LOCAL QUE ENTENDEU COMO NÃO CONFIGURADO O ALEGADO ABANDONO AFETIVO GERADOR DE DANO MORAL, A PARTIR DAS PROVAS E FATOS COLIGIDOS AOS AUTOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não ocorrendo o debate dos preceitos legais ditos violados pelo acórdão, e não opostos embargos de declaração pelo recorrente, têm incidência as Súmulas 282 e 356 do STF.
+2. Nos termos da Súmula 7 desta Corte, não é possível, na via especial, a revisão de acórdão que para decidir a lide, apoiou-se nas provas e fatos circunstanciados nos autos.
+3. Agravo regimental improvido.
+(AgRg no AREsp 811.059/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/05/2016, DJe 27/05/2016)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. APONTADA OFENSA AOS ARTS. 4º E 5º DA LINDB, 126 E 127 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O exame da controvérsia acerca do pagamento do adicional de insalubridade foi realizado com amparo na legislação local (Lei Municipal 1.863/2009 e Decreto Municipal 44/2009), sendo sua análise vedada na via Especial, consoante Súmula 280/STF, aplicável por analogia.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido. (AgInt no AREsp 932.880/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TAXATIVIDADE MITIGADA. EXCEPCIONALIDADE NÃO-CARACTERIZADA. REVISÃO.SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 4, 6, 54 E56 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
