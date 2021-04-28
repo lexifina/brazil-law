@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo naalínea "a"do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fls. 87-88):
+AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. SIMPLES AFIRMAÇÃO DE QUE NÃO POSSUI CONDIÇÕES DE PAGAR AS CUSTAS DO PROCESSO SEM PREJUÍZO PRÓPRIO E DA FAMÍLIA. ÔNUS DA PARTE CONTRÁRIA COMPROVAR A AUSÊNCIA DE MISERABILIDADE.
+1 - A Lei n. 1.060/50, que regulamenta a assistência judiciária, embora anterior à Constituição Federal em vigor, estipula que a parte gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio e de sua família.
+2 - A Constituição Federal (art. 5º, LXXIV) e a Lei nº 1.060/50 (art.5º) conferem ao juiz, em havendo fundadas razões, o poder de exigir do pretendente à assistência judiciária a prova da insuficiência de recursos.
+3 - A declaração de insuficiência de recursos, firmada pelo interessado, é, em princípio, bastante para a concessão da assistência judiciária, mas não deve ser aceita, quando das circunstâncias do caso concreto, se verificarem indícios de que possui condições para arcar com as despesas processuais. Somente é possível a concessão do benefício da assistência judiciária à pessoa física que demonstre a impossibilidade de arcar com as despesas do processo, sem prejudicar a própria manutenção.
+4 - In casu, a necessidade ou a pobreza é a jurídica. Isto porque, sob o ponto de vista do direito, o conceito de necessitado não está vinculado a determinado limite de valor de renda mensal percebida pelo beneficiário da assistência judiciária gratuita e, sim, à impossibilidade de pagamento das despesas processuais sem prejuízo do próprio sustento ou da família.
+5 - É ônus da parte contrária comprovar que a alegada miserabilidade jurídica do agravante não condiz com a verdade.
+6 - Agravo legal não provido.
+Os embargos de declaração (e-STJ, fls. 91-95) tiveram provimento negado, nos termos da decisão de e-STJ, fls. 100-108.
+O insurgentealega que foi violado o art. 2º da Lei n. 1.060/1950.
+Defende, em síntese, a ausência de requisitos para concessão da assistência judiciária gratuita.
+Sustenta que foi demonstrado que o autor possui rendimentos capazes de arcar com as custas processuais.
+Contrarrazões apresentadas (e-STJ, fls. 123-132).
+Admitido o recurso especial na origem (e-STJ, fl. 135), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origemtratou da assistência judiciária gratuita sob a seguinte fundamentação (e-STJ, fls. 84-85):
+In casu, a necessidade ou a pobreza é a jurídica. Isto porque, sob o ponto de vista do direito, o conceito de necessitado não está vinculado a determinado limite de valor de renda mensal percebida pelo beneficiário da assistência judiciária gratuita e, sim, à impossibilidade do pagamento das despesas processuais sem prejuízo do próprio sustento ou da família.
+Ademais, é ônus da parte contrária comprovar que a alegada miserabilidade jurídica do agravante não condiz com a verdade.
+Dessa forma, depreende-se que, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via eleita,por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+No ponto:
+PROCESSUAL. CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. TRABALHADOR RURAL. GRATUIDADE DE JUSTIÇA. REQUISITOS COMPROVADOS. SÚMULA 7/STJ.
+1. Constato que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015 uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. É firme a orientação do STJ de que a declaração de hipossuficiência prevista no caput no art. 4º da Lei 1.060/1950 detém presunção relativa de veracidade, podendo a autoridade judiciária indeferir a benesse quando convencida da capacidade econômica do postulante, além de competir à parte adversa o ônus de impugnar a referida declaração, comprovando que o postulante possui condições de arcar com as custas e despesas processuais sem prejuízo ao sustento próprio e de sua família.
+3. Ressalta-se ainda que o STJ também vem rejeitando a adoção do critério de enquadramento na faixa de isenção de Imposto de Renda como critério para o deferimento do benefício da assistência judiciária gratuita.
+4. Hipótese em que a Corte de origem deferiu o pedido de concessão dos benefícios da assistência judiciária gratuita com base na análise da condição econômica da parte beneficiária. Desse modo, desconstituir a conclusão alcançada pelas instâncias ordinárias a respeito dos requisitos para o seu deferimento, tal como colocada a questão nas razões recursais, demandaria necessariamente, novo exame do acervo fático-probatório constante nos autos, providência vedada Recurso Especial. Incidência, à espécie, da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.726.972/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/4/2018, DJe 21/11/2018).
+AGRAVO REGIMENTAL. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 7/STJ.
+1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A Corte de origem concluiu que "o pedido de gratuidade foi revestido de todos os requisitos legais" e que o fato de os recorridos serem credores do Estado neste processo "não configura causa superveniente que altere a situação de miserabilidade dos agravados"."Dessa forma, a alteração das conclusões adotadas pela Corte de origem a respeito dos requisitos para o deferimento da assistência judiciária gratuita, tal como colocada a questão nas razões recursais, demandaria necessariamente, novo exame do acervo fático-probatório constante nos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 672.816/PA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/5/2015, DJe 1º/6/2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, para o montante de 20% (vinte por cento) sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
