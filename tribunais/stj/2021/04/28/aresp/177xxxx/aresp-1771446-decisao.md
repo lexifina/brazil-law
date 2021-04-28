@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Manauscontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Manaus, assim ementado (fl. 232):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. PENDÊNCIA DO PAGAMENTO. NECESSIDADE DE ATESTADO DE RECEBIMENTO. ITEM VI, INCISO II DO CONTRATO. EXIGÊNCIA SUPRIDA. ATESTADO DE CAPACIDADE TÉCNICA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A exigência contratual foi suprida pelo atestado de capacidade técnica de fls. 36, o qual além de apontar a aptidão da apelada para o serviço, confirmou a prestação do serviço no período de 02.01.2012 a 30.04.2016, apontando ainda, o tipo de veículo que serviu a Administração.
+2. Na esteira do que definiu o Supremo Tribunal Federal, aos débitos da Fazenda Pública de natureza não tributária devem ser utilizado como parâmetro de correção monetária o índice de Preços ao Consumidor Amplo Especial - IPCA -E, e em relação à taxa de juros é a prevista no art. 1-F da Lei nº 9494/97, 0,5% a. m. E 6,0% a. A.
+3. Recurso conhecido e não provido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aosarts. 373, I e II, 489, § 1º, I e III, 1.022 do CPC; 405 do CC.
+Sustenta que o acórdão violou a legislação processual, pois não há nos autos documento que comprove o fato constitutivo do direito da parte autora da demanda quanto aos anos de 2013, 2014 e 2016.Alega que "o acórdão foi omisso na análise do ponto indicado pelo Município de Manaus quanto a falta de prova do fato constitutivo do direito do autor, pois não basta apresentar os contratos, sendo necessário apresentar os demais documentos indicativos da suposta dívida." (fl. 257).
+Alega omissão, também, em relação ao argumento de que os juros devem incidir a partir da citação nas hipóteses de responsabilidade contratual.
+Por fim, defende que os juros moratórios devem fluir a partir da citação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC, pois a parte agravante alega em seu recurso especial que"o acórdão foi omisso, pois não considerou que no presente caso os juros devem incidir a partir da citação, conforme determina o artigo acima indicado, pois para as hipóteses de responsabilidade contratual, entendimento pacífico dos tribunais pátrios é de que os juros moratórios fluem a partir da citação." (fl. 262).
+Entretanto, o Tribunal de origem quedou silente sobre talargumento, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral. Nesse vértice, vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão" (AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/9/2018, DJe 9/10/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIA DE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART. 150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+ ..
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 5/12/2017).
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, conheço do agravo e dou parcial provimento ao recurso especial por afronta ao art. 1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento daquestão omitida.
+Publique-se.
