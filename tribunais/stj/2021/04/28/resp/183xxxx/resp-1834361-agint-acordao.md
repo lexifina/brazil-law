@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos dadecisão combatida, o que, na hipótese dos autos, não foi atendido.
+2.A parte agravante limitou-se a se insurgircontra a aplicação do óbice da Súmula 7/STJ, sem contudo apresentar irresignação quanto ao fundamento da ausência de prequestionamento (Súmulas 282 e 356 do STF), nem quanto à incidência da Súmula 284 do STF. Saliente-se que a demonstração doprequestionamento da matéria impugnada é exigida tanto em relação aos recursos fundamentados na alínea "a" quanto aos manejados com fulcro na alegativa de divergência jurisprudencial.
+3. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado porVIVIANI CRISTINA SILVAcontra decisão de e-STJ, fls. 519-524.
+A parte agravante sustenta que não se aplica o óbice da Súmula 7/STJ, na medida em que demonstrou a existência de dissídio jurisprudencial, por meio da indicação de arestos paradigmas que retratam situação fática semelhante a que foi examinada pela Corte de origem.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos dadecisão combatida, o que, na hipótese dos autos, não foi atendido.
+2.A parte agravante limitou-se a se insurgircontra a aplicação do óbice da Súmula 7/STJ, sem contudo apresentar irresignação quanto ao fundamento da ausência de prequestionamento (Súmulas 282 e 356 do STF), nem quanto à incidência da Súmula 284 do STF. Saliente-se que a demonstração doprequestionamento da matéria impugnada é exigida tanto em relação aos recursos fundamentados na alínea "a" quanto aos manejados com fulcro na alegativa de divergência jurisprudencial.
+3. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPCque deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+A decisão agravada foi exarada nos seguintes termos (e-STJ, fls. 520-523):
+Primeiramente, o dispositivo tido por contrariado foi trazido para apreciação somente em recurso especial, desse modo, a matéria nele contida não foi objeto de análise pelo Tribunal de origem. Sendo assim, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, conforme o que preceituam asSúmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+Súmula 282, STF. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356, STF. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+ ..
+Insta salientar que não foi demonstrada, com clareza, a afronta ao artigo mencionado pela recorrente, porquanto o dispositivo não possui liame com a tese recursal, haja vista tratar-se de educação escolar pública, isto é, pré-escola, ensino fundamental e médio, o que, portanto, atrai a Súmula 284/STF.
+ ..
+Vale mencionar, ainda, que o Tribunal de origem utilizou-se da seguinte fundamentação (e-STJ, 366-367):
+Atenta à legislação de regência, a parte ré, ao instituir o concurso vestibular realizado pela ora autora, fez constar do item nº 6.4 do edital a exigência de apresentação do certificado de conclusão de Ensino Médio, como condicionante à realização da matrícula dos candidatos eventualmente aprovados (evento nº 36, p. 07). Outrossim, do contrato de prestação de serviços educacionais firmado entre os litigantes deste feito, extrai-se, por exemplo, da cláusula XIII, que a não apresentação de documentos necessários ou a constatação de fraude à documentação necessária à matrícula seriam fatos comprometedores da manutenção da vaga do aluno (evento nº 35, p. 08). Por fim e mais relevante, dessume-se dos autos que, em 07/07/2011, a requerente assinou um termo de compromisso, por meio do qual se obrigava a apresentar, no prazo previsto, não só a certificação da regular conclusão do Ensino Médio, mas também seu histórico escolar (evento nº 07). Não suficiente, do aludido instrumento, ainda se lê advertência expressa e destacada, quanto à imprescindibilidade de que o encerramento do Ensino Médio pelo aluno deveria anteceder seu ingresso no Ensino Superior, sob pena de cancelamento da matrícula e sem direito a repetição de prestações vertidas.  ..  Em suma, não demonstrado pela recorrente que recebera de preposto da sociedade ré informação contraditória, no sentido da possibilidade de superação da incongruência em sua formação acadêmica, forçoso reconhecer a inexistência de inexecução contratual, prestação defeituosa de serviço ou vulneração ao princípio da boa-fé objetiva por parte da apelada. Igualmente, não diviso a prática de qualquer ato ilícito pela recorrida (arts. 186 e 927, CC/2002), o que afasta sua responsabilização civil.
+Ocorre que a Corte de origem baseou-se em fatos e provas constantes dos autos para chegar à conclusão de que a ora recorrente não demonstrou que recebera da instituição uma informação favorável relacionada à dependência. Sendo assim, rever o entendimento dado no acórdão implica o imprescindível reexame de provas dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+Da leitura do presente agravo interno, observa-se que ainsurgentenão infirmou essas justificativas.
+Aagravante limitou-se a se insurgircontra a aplicação do óbice da Súmula 7/STJ, sem contudo apresentar irresignação quanto aofundamentoda ausência de prequestionamento (Súmulas 282 e 356 do STF), nem quanto à incidência da Súmula 284 do STF.
+Saliente-se que a demonstração do prequestionamento da matéria impugnada é exigida tanto em relação aos recursos fundamentados na alínea "a" quanto aos manejados com fulcro na alegativa de divergência jurisprudencial.
+Desse modo, ao não impugnar esse ponto da decisão agravada, fica prejudicado também o apelo fundamentado no dissídio pretoriano.
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos da
+decisão combatida, o que, na hipótese dos autos, não foi atendido.
+Incide na espécie o óbice da Súmula 182/STJ: "É inviável o agravo do art.545 do CPC que deixa de atacar especificamente os fundamentos da decisãoagravada."
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada não conheceu do Agravo em Recurso Especial, em razão de sua intempestividade, ressaltando que a comprovação da existência de feriado local deve se dar no momento da interposição do recurso, por documento idôneo (cópia da lei, ato normativo ou certidão exarada por servidor habilitado), não servindo para tanto a juntada de calendário do Tribunal de origem, nos termos da jurisprudência do STJ.
+III. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EAREsp 608.466/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 30/04/2018; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016; AgInt no AREsp 860.148/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AgRg no AREsp 731.339/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 06/05/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 13/05/2016. IV. Agravo interno não conhecido. (AgInt na PET no AREsp 1602964/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/11/2020, DJe 30/11/2020.)
+PROCESSO CIVIL. PREVIDENCIÁRIO. EXECUÇÃO. NEGADO PROVIMENTO A RECURSO ESPECIAL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. ADMISSIBIILIDADE.
+I. Em virtude da aplicação do princípio da dialeticidade previsto, para os agravos internos, no §1º do art. 1.021 do Código de Processo civil, não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida.
+II. No agravo interno, a parte agravante não impugnou todos os fundamentos da decisão que pretende reformar, determinando a aplicação do enunciado n. 182 da súmula do STJ.
+III. Agravo interno não conhecido. (AgInt no AREsp 877.856/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/11/2016, DJe 23/11/2016.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
