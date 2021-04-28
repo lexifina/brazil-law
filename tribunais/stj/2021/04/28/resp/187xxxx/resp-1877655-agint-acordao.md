@@ -1,0 +1,32 @@
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. INSALUBRIDADE/PERICULOSIDADE. LAUDO. EFEITOS RETROATIVOS. IMPOSSIBILIDADE.
+1. Consoante o entendimento desta Corte, o pagamento de insalubridade/periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres a que estão submetidos os servidores, razão pela qual não se admite seu pagamento ao período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual. Precedentes.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por EDÊNIO DE ANDRADE CATUNDA contra decisão, de e-STJ fls. 374/377, em que conheci parcialmente do recurso especial e, nessa extensão, dei-lhe provimento, para afastar a condenação ao pagamento de adicional de insalubridade correspondente ao período anterior ao laudo pericial produzido.
+A parte agravante alega, em síntese, que "o objetivo de estabelecer o laudo pericial como elemento condicionante à concessão do aditivo remuneratório consiste, sobretudo, no respeito à segurança jurídica, uma vez que se busca garantir que o ente pagador apenas arque com o adimplemento do montante na hipótese de restar devidamente comprovada a insalubridade evitando-se, assim, pagamentos retroativos sem a efetiva prova do direito, em obediência à legislação de regência" (e-STJ fls. 381/382).
+Destaca que, na hipótese dos autos, findou incontroverso que o servidor pleiteou ao órgão competente, em processo administrativo, a percepção da referida vantagem, desde 2005, permanecendo a Administração inerte por nove anos.
+Assim, "evidenciado o distinguish das circunstâncias subjetivas, percebe-se que ao realizar o juízo acerca do contexto sub judice, o eminente relator, com a devida vênia, deixou de analisar pressuposto fático incontroverso nos autos que o diferencia do precedente invocado, cuja existência e consequente apreciação não podem ser desconsideradas, sendo de rigor o provimento deste recurso" (e-STJ fl. 385).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. INSALUBRIDADE/PERICULOSIDADE. LAUDO. EFEITOS RETROATIVOS. IMPOSSIBILIDADE.
+1. Consoante o entendimento desta Corte, o pagamento de insalubridade/periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres a que estão submetidos os servidores, razão pela qual não se admite seu pagamento ao período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Não obstante os argumentos expendidos, a decisão agravada não merece reforma.
+Com efeito, consoante anteriormente explicitado, esta Corte entende que o pagamento de insalubridade/periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres a que estão submetidos os servidores, razão pela qual não se admite seu pagamento ao período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual. Nesse sentido:
+PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ADICIONAL DE INSALUBRIDADE. RECONHECIMENTO PELA ADMINISTRAÇÃO. RETROAÇÃO DOS EFEITOS DO LAUDO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. INCIDENTE PROVIDO.
+1. Cinge-se a controvérsia do incidente sobre a possibilidade ou não de estender o pagamento do adicional de insalubridade e periculosidade ao servidor em período anterior à formalização do laudo pericial.
+2. O artigo 6º do Decreto n. 97.458/1989, que regulamenta a concessão dos adicionais de insalubridades, estabelece textualmente que " a  execução do pagamento somente será processada à vista de portaria de localização ou de exercício do servidor e de portaria de concessão do adicional, bem assim de laudo pericial, cabendo à autoridade pagadora conferir a exatidão esses documentos antes de autorizar o pagamento."
+3. A questão aqui trazida não é nova. Isso porque, em situação que se assemelha ao caso dos autos, o Superior Tribunal de Justiça tem reiteradamente decidido no sentido de que "o pagamento de insalubridade está condicionado ao laudo que prova efetivamente as condições insalubres a que estão submetidos os Servidores. Assim, não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual" (REsp 1.400.637/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24.11.2015). No mesmo sentido: REsp 1.652.391/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17.5.2017; REsp 1.648.791/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24.4.2017; REsp 1.606.212/ES, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20.9.2016; EDcl no AgRg no REsp 1.2844.38/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 31.8.2016.
+4. O acórdão recorrido destoa do atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+5. Pedido julgado procedente, a fim de determinar o termo inicial do adicional de insalubridade à data do laudo pericial. (PUIL 413/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 11/04/2018, Dje 18/04/2018).
+In casu, o aresto hostilizado diverge da orientação aludida, razão pela qual não poderá remanescer.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
