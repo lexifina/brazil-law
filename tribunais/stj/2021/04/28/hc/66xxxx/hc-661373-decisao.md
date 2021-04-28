@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDUARDO AUGUSTO VARGAS DE SOUZAno qual se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado do Paraná relator do HC n. 0019108-62.2021.8.16.0000.
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada, em 5/2/2021, pela suposta prática do delito de homicídio qualificado por recurso que dificultou a defesa da vítima, em concurso de pessoas (e-STJ fls. 25/27). O mandado de prisão foi cumprido em 8/2/2021.
+Irresignada com o indeferimento do pedido de revogação da custódia cautelar (e-STJ fls. 34/35), a defesa impetrou prévio writ na origem, o qual teve a medida liminar indeferida (e-STJ fls. 28/29).
+Daí o presente habeas corpus, em que se postula a superação da Súmula n. 691/STF ante a flagrante ilegalidade a que está sendo submetido o paciente. Aduz-se ausência de fundamentação idônea do decreto prisional e, ainda,que a autoridade coatora não analisou as alegações postas pela defesa, de maneira integral.
+Afirma a defesaque,"se o próprio titular da pretensão acusatória que provocou o pedido da prisão preventiva, posteriormente, manifesta-se pela sua revogação, a prisão acaba se tornando de mantida de ofício, absolutamente destoante da intenção legislativa, de buscar a efetivação do sistema penal acusatório"(e-STJ fl. 12).
+Acrescenta que"o paciente teve a prisão preventiva decretada com base na garantia da ordem pública e na conveniência da instrução criminal (periculum libertatis), sustentando-se a presença do fumus comissi delicti, embasado unicamente na versão repassada pela testemunha sigilosa, que descreveu circunstâncias do modus operandi, os envolvidos e a motivação"(e-STJ fl. 13).
+Requero deferimento do pedido liminar para determinar a suspensão dos efeitos da decisão que decretou a prisão preventiva do paciente, expedindo-se o competente alvará de soltura. No mérito, postula a revogação da custódia, ainda que com a aplicação das medidas cautelares previstas no art. 319, do Código de Processo Penal.
+É, em síntese, o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.
+(AgRg no HC 345.456/SP, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar de forma mais detida a argumentação constante da impetração.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+A propósito, constou da decisão ora combatida a referência à gravidade concreta da conduta, evidenciada pelo modus operandiempregado na prática delitiva, na qual a vítima foi alvejada pelas costas quando fechava o portão de sua casa, bem como destacou a periculosidade do paciente,que, apesar de primário, completou 18 anos há pouco tempo, mas já foi internado pela prática de atos infracionais durante a adolescência. Extrai-se ainda do decreto prisional que o acusado e seu comparsa teriam procurado a companheira da vítima para matá-la. Tais circunstâncias, nesse caso, legitimam a imposição da segregação cautelar(e-STJ fls. 25/27).
+Há, portanto, referência à gravidade concreta da conduta e aos maus antecedentes do paciente, o que, neste juízo perfunctório, indicam a necessidade da segregação cautelar como forma de garantir a ordem pública, para assegurar a instrução criminal e cessar a atividade delitiva.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
