@@ -1,0 +1,10 @@
+DECISÃO
+Perdeu o objeto o presente recurso. Isso porque, em 1º/2/2021,na AçãoPenaln.0001575-38.2020.8.22.0007, da 2ªVara Criminal da comarca deCacoal/RO, foi proferida sentença condenando a recorrente a10 anosde reclusão, em regime inicial fechado, e pagamento de 1.400 dias-multa, porincursa nos arts. 33 e 35 da Lei n. 11.343/2006. O Juízosentenciantemanteve a custódia provisória, negando àacusada o direito de recorrer emliberdade.
+Segundo reiterada jurisprudência desta Corte Superior de Justiça,asuperveniência de sentença penal condenatória, por constituir novotítulojudicial a embasar a constrição cautelar do acusado, tornaprejudicadooexame de writ que questiona decreto de prisãopreventivaanterior (HCn.365.344/SP, Ministro Antonio Saldanha Palheiro,Sexta Turma,DJe28/8/2017).
+De qualquer maneira, as decisões constantes destes autos não revelam nenhuma ilegalidade aparente, uma vez que a custódia da recorrente se amparou em fator real de cautelaridade, qual seja, a apreensão deuma grande quantidade de maconha (mais de 9kg) e outra considerável quantidade de cocaína (mais de 1kg) - fl. 87.
+Outrossim, quanto ao pleito de prisão domiciliar, conforme bem ponderouoSubprocurador-Geral da República Moacir Mendes Sousa, o Juízo de primeiro grauao indeferir o pedido de substituição da prisão preventiva por domiciliar enfatizou que "a simples alegação de que a requerente é mãe de duas crianças (06 e 09 anos), por si só, não constituí elemento hábil à concessão da liberdade provisória, visto que, em seu próprio depoimento, informou que os infantes estão sob os cuidados de seus avós, logo, não restou evidenciado imprescindibilidade de sua presença nos cuidados como alegado.", e-STJ Fl. 335, de sorte, não restar demonstrada a necessidade dos cuidados maternos à criança (fl. 434).
+Pelo exposto, julgo prejudicado o recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. REQUISITOS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
