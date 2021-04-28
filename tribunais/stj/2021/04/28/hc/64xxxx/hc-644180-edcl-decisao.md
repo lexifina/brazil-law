@@ -1,0 +1,13 @@
+DECISÃO
+RODRIGO FILGUEIRA QUEIROZ opõe embargos de declaração ao decisum de fls. 21-24, de minha relatoria, em que indeferi liminarmente o habeas corpus, uma vez que não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência deste Superior Tribunal para o exame da matéria.
+A defesa aduz, em síntese, que houve erro material na decisão embargada, "ao aplicar dispositivo que se refere a julgamento de recurso ordinário em habeas corpus (Art. 105, II, "a", da CF), enquanto o presente caso trata do julgamento originário de habeas corpus contra decisão de desembargador de Tribunal de Justiça Estadual (Art. 105, I, "c" c/c "a", da CF)" (fl. 26).
+Afirma, ainda, que o decisum embargado também foi omisso, porquanto deixou de aplicar o disposto no art. 105, I, "c" c/c "a", da CF.
+Embora devidamente intimado, o Ministério Público do Estado de São Paulo não se manifestou acerca do recurso.
+O Ministério Público Federal, por sua vez, manifestou-se pela rejeição dos embargos.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamentodo caso.
+No caso, a decisão embargada salientou a impossibilidade de conhecimento da impetração, com fundamento no art.105, II, "a", da CF, porque não houve julgamento em última instância pela Corte de origem, a ensejar a inauguração da competência deste Superior Tribunal. Isso porque, neste habeas corpus, a defesa apontou como ato coator decisão singular proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, contra a qual caberia, ainda, agravo regimental, que, no entanto, não foi interposto.
+Ademais, embora o embargante invoque o dispostono art. 105, I, "c", da CF para fundamentar a sua compreensão de que deveria ser conhecido o habeas corpus, certo é que a hipótese dos autos não configura competência originária do STJ,na medida em que referido permissivo constitucional exige que estejam configuradas as hipóteses nele descritas (coator ou paciente sujeito à sua jurisdição).
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
