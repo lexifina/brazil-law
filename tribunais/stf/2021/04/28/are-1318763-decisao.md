@@ -1,0 +1,29 @@
+D E C I S Ã O
+    Trata-se de agravo em recurso extraordinário, interposto com fundamento em permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO. CONCURSO PÚBLICO. QUADRO-GERAL DO ESTADO DO TOCANTINS. CANDIDATOS APROVADOS DENTRO DO CADASTRO DE RESERVA. NOMEAÇÕES TORNADAS SEM EFEITO EM DECORRÊNCIA DA PERDA DO PRAZO LEGAL PARA POSSE. EXISTÊNCIA DE VAGAS. PRETERIÇÃO COMPROVADA. DIREITO SUBJETIVO À NOMEAÇÃO. REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO IMPROVIDOS.“
+    O recorrente alega violação às normas contidas nos arts. 2º, e 37, II, da Constituição Federal, sustentando, em síntese que “(...) aos aprovados em cadastro de reserva apenas resta a expectativa de direito, devendo-se respeitar a discricionariedade da Administração Pública sobre a oportunidade e conveniência de realizar mais nomeações”.
+    É o sucinto relatório. Decido.
+    De início, importante pontuar que, a jurisprudência do Supremo Tribunal Federal é pacífica “(...) no sentido de que o candidato aprovado inicialmente fora do número de vagas previsto no edital, mas que, em virtude da desistência ou impedimento de candidatos melhor classificados, venha a integrar o quantitativo de vagas do certame, possui direito subjetivo à nomeação”  (ARE 1.197.269-AgR/PB, Ministro Alexandre de Morais).
+    Para além disso, o acórdão recorrido baseou-se em reexame de fatos e provas e nas cláusulas do edital do concurso (Edital nº 001/Quadro-Geral/2012, de 04/05/2011) para formar seu convencimento, consubstanciado no direito subjetivo à nomeação dos recorridos no cargo de Assistente Administrativo. Tal circunstância atrai a aplicação, na espécie, dos Enunciados 279 e 454 das Súmulas/STF.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Na data de 13/05/2013, através do Ato nº 1026-NM, publicado no Diário Oficial nº 38/73, a administração nomeou mais 4 (quatro) candidatos aprovados, completando 21 (vinte e uma) nomeações para o cargo de Assistente Administrativo, com lotação na cidade de Dianópolis/TO.
+    Ocorre, todavia, que os candidatos Aracy Taciana de Jesus Mota (8ª colocação), Herika Sepulvida Minghini da Silva (13ª colocação), e Jader Rodrigues Amorim (20ª colocação), embora nomeados, perderam o prazo para posse, decaindo o direito de exercício, conforme comprova as Portarias nsº 210-TSE, de 26/02/2014; 211-TSE, de 26/02/2014; e 213-TSE, de 26/02/2014, todas publicadas no Diário Oficial nº 4079, de 28/02/2014.
+    Desta forma, diante da existência de 3 (três) vagas em aberto, deveria a administração pública ter convocado os 3 (três) próximos candidatos da lista de reserva, consequentemente os figurantes da 22ª, 23ª e 24ª colocação, quais sejam, os apelados.”
+    Em casos fronteiriços, há os seguintes precedentes: ARE 711.925-AgR-AgR/PB, Ministro Luiz Fux; ARE 1.077.941-AgR/GO, Ministro Edson Fachin; ARE 1.144.925-AgR/PI, Ministro Edson Fachin. Ilustra, essa orientação, ainda, os seguintes julgados:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DAS VAGAS. DESISTÊNCIA DE CANDIDATO MELHOR APROVADO. DIREITO SUBJETIVO À NOMEAÇÃO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+    1. O acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que o direito à nomeação se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de classificados em colocação superior. Precedente.
+    2. Inaplicável candidatos classificados em colocação superior o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+    (ARE 1.058.317-AgR/MG, Ministro Roberto Barroso – com meus grifos).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 26.06.2018. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. DISCUSSÃO SOBRE A EXISTÊNCIA, OU NÃO, DE DIREITO LÍQUIDO E CERTO DE CANDIDATA À NOMEAÇÃO. APROVAÇÃO FORA DO NÚMERO DE VAGAS. PRETERIÇÃO DURANTE O PRAZO DE VALIDADE DO CERTAME. OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 279 DO STF.
+    1. Eventual divergência ao entendimento adotado pelo Juízo a quo, quanto à ocorrência de preterição de candidata habilitada em concurso público ainda vigente, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC.”
+    (ARE 1.117.945-AgR/SC, Ministro Edson Fachin – com meus grifos)
+    Honorários advocatícios recursais
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c o §1º do art. 21 do RISTF, não conheço do agravo em recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de abril de 2021.
+Ministro NUNES MARQUES
+Relator
