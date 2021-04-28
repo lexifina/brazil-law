@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Mário Flávio Ferreira Lopes, apontando como autoridade coatora o Ministro João Otávio de Noronha, Presidente do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 594.412/RJ.
+    Narram os autos que o paciente foi condenado à pena total de 9 (nove) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e associação para o tráfico (Lei nº 11.343/06, arts. 33 e 35, c/c o art. 40, IV, na forma do art. 69 do Código Penal).
+    Sustentou o impetrante, em síntese, a falta de fundamentação idônea na sentença condenatória para negar ao paciente o direito de recorrer em liberdade.
+    Sublinhou as condições subjetivas favoráveis do paciente, a saber, primariedade e bons antecedentes.
+    Em 29/3/21, neguei seguimento ao habeas corpus, ante a incidência do óbice da Súmula 691/STF, insurgindo-se a defesa mediante a interposição de agravo regimental.
+    Incluído o feito em pauta, foi protocolada petição (Protocolo STF nº 43797/2021) na qual se requer, em síntese, sejam solicitadas informações à autoridade apontada como coatora, considerado alegado excesso de prazo para julgamento do writ dirigido à Corte Superior, bem como seja retirado o feito da pauta virtual para que seja possibilitada sustentação oral pela defesa.
+    O impetrante diz, ainda, ser o caso de superação do enunciado da Súmula 691 desta Corte.
+    Examinados os autos, decido.
+    A defesa do ora agravante formulou requerimento no sentido de que seja viabilizada a realização de sustentação oral no julgamento do agravo regimental.
+    Não obstante a possibilidade de se realizar sustentação oral nas sessões em ambiente virtual (Emenda Regimental nº 53), o que afasta a necessidade de transferência do julgamento para o ambiente telepresencial (videoconferência), o fato é que a Corte já se pronunciou quanto ao não cabimento de “sustentação oral, em sede de ‘agravo regimental’, considerada a existência de expressa vedação regimental que a impede (RISTF, art. 131, § 2º), fundada em norma cuja constitucionalidade foi expressamente reconhecida pelo Supremo Tribunal Federal (Pet 2.820-AgR, Rel. Min. Celso de Mello)” (HC nº 135.175/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 1º/6/17).
+    Perfilhando esse entendimento:
+    “’HABEAS CORPUS’ – SUSTENTAÇÃO ORAL EM SEDE DE ‘AGRAVO REGIMENTAL’ – INADMISSIBILIDADE – CONSTITUCIONALIDADE DA VEDAÇÃO REGIMENTAL (RISTF, ART. 131, § 2º) – SUPOSTA FUNDAMENTAÇÃO DO ATO DECISÓRIO QUE DETERMINOU A INTERCEPTAÇÃO TELEFÔNICA EXCLUSIVAMENTE EM DELAÇÃO ANÔNIMA – INOCORRÊNCIA – PERSECUÇÃO PENAL E DELAÇÃO ANÔNIMA – VIABILIDADE, DESDE QUE A INSTAURAÇÃO FORMAL DO PROCEDIMENTO INVESTIGATÓRIO E A PRODUÇÃO PROBATÓRIA TENHAM SIDO PRECEDIDAS DE AVERIGUAÇÃO SUMÁRIA, “COM PRUDÊNCIA E DISCRIÇÃO”, DESTINADA A APURAR A VEROSSIMILHANÇA DOS FATOS DELATADOS E DA RESPECTIVA AUTORIA – APURAÇÃO PRELIMINAR EFETIVADA PELA AUTORIDADE COMPETENTE – DOUTRINA – PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL – ALEGAÇÃO DE PERDA DA CADEIA DE CUSTÓDIA REFERENTE À PROVA PENAL – MATÉRIA NÃO EXAMINADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA – IMPETRAÇÃO COM APOIO EM FUNDAMENTOS NÃO APRECIADOS PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE, NESSE PONTO, DO “WRIT” CONSTITUCIONAL – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO INDEFERIMENTO DO PEDIDO – RECURSO DE AGRAVO IMPROVIDO” (HC nº 135.969/MA-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 1º/2/17 – grifos nossos);
+    “PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. VEDAÇÃO. ART. 131, § 2º, DO RISTF. CRIME DE USO DE DOCUMENTO FALSO. PRISÃO PREVENTIVA. PRESSUPOSTOS E FUNDAMENTOS. PRESENÇA DE ELEMENTOS INDICIÁRIOS DA SUPOSTA PRÁTICA DELITIVA. PRISÃO DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E NA CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL” (RHC nº 136.168/RN-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 6/12/16).
+    Por fim, registro que se revela totalmente inapropriado a conversão do julgamento em diligências, para ouvir a autoridade coatora no tocante ao aventado excesso de prazo para julgamento do writ impetrado no STJ, pois tal matéria sequer foi objeto da inicial desta impetração.
+    Trata-se, pois, de inovação recursal inadmissível em sede de agravo regimental. Confira-se:
+    “Agravo regimental no habeas corpus. 2. Pedido recursal dissociado do pedido constante da petição inicial. Inovação. Impossibilidade. 3. Agravo improvido.” (HC nº 146.818-AgR/ES, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 17/6/20)
+    Nessa conformidade, indefiro os pedidos formulados.
+    Publique-se
+    Brasília, 28 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
