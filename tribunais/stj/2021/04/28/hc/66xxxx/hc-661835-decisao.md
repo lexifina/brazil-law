@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOSE NEVES DE JESUS JUNIORcontra decisão de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIAque indeferiu pedido liminar no Habeas Corpusn. 8004333-09.2021.8.05.0000.
+Extrai-se dos autos que o paciente foi preso em 19/02/2021, pela suposta prática do delito previsto no artigo 157, §3º, II c/c art. 14, II ambos do Código Penal (latrocínio tentado),sobrevindo sentença que o condenou à pena de 16 anos, 1 mês e 10 dias de reclusão, em regime fechado, além de multa, não sendodeferido direito de apelar em liberdade. A sentença transitou em julgado e a defesa ajuizou revisão criminal.
+Paralelamente, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida em decisão acostada às fls. 106/109.
+No presente writ, o impetrante alega necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, porquanto entende evidente a existência de constrangimento ilegal decorrente da nulidade absoluta da sentença condenatória. Afirma que houve violação ao contraditório, à ampla defesa e ao devido processo legal, além de deficiência de defesa técnica. Consequentemente, afirma, a prisão decorrente da sentença é ilegal.Aponta inexistência de provas da prática da conduta pela qual foi o paciente condenado.
+Requer, assim, em liminar e no mérito, o reconhecimento da nulidade absoluta do processo ou ao menos da sentença, com a devolução de prazo para recurso, bem como a imediata revogação da prisão do paciente. Alternativamente, pugna pela desclassificação da conduta para aquela prevista no 157 § 2º, II do CP, com a readequação da pena e do regime prisional
+É o relatório.
+Decido.
+A presente impetração repete os mesmos argumentos e traz pedido idêntico ao formulado no HC 649.754/BA, já julgado nesta Corte Superior, além de atacar o mesmo acórdão, proferido no julgamento do Habeas Corpus n. 8004333-09.2021.8.05.0000.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO. I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma. II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos. Agravo regimental desprovido. (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
