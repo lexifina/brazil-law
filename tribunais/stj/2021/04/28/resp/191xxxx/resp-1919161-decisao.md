@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fls 405/406):
+PROCESSUAL CIVIL. CONSTITUCIONAL E TRIBUTÁRIO. APELAÇÃO.
+MANDADO DE SEGURANÇA. ADEQUAÇÃO DA VIA ELEITA. PROVA DE DIREITO LÍQUIDO E CERTO. ENTIDADE BENEFICENTE. COMPROVAÇÃO DOS REQUISITOS LEGAIS. IMUNIDADE TRIBUTÁRIA. INEXIGIBILIDADE DO IRPJ. RECURSO PROVIDO.
+- O Supremo Tribunal Federal firmou entendimento, no julgamento do Recurso Extraordinário nº 566.622, na sistemática da repercussão geral, no sentido de que "ante a Constituição Federal, que a todos indistintamente submete, a regência de imunidade faz-se mediante lei complementar" (RE 566622, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 23/02/2017, PROCESSO ELETRÔNICO DJe-186 DIVULG 22-08-2017 PUBLIC 23-08-2017).
+Dessa forma, à vista de que o Código Tributário Nacional foi recepcionado pela Carta Magna com status de lei complementar, a entidade beneficente de assistência social deve preencher os requisitos previstos nos artigos 9º e 14 do Código Tributário Nacional. No caso dos autos, a apelante demonstrou ser entidade beneficente de assistência social, conforme estatuto social e certificado de entidade beneficente de assistência social, o qual teve validade renovada até 26/04/2010. Apresentou também declaração do Departamento de Certificação de Entidades Beneficentes de Assistência Social em Saúde - DCEBAS. No que toda aos requisitos do artigo 14 do Código Tributário Nacional, juntou cópia do livro diário de 1990 e do balanço patrimonial de dezembro de 2000, relativos à época dos fatos, os quais trazem informações relativas à escrituração de suas receitas e despesas, à exatidão dos seus objetivos institucionais, à aplicação em território nacional de seus recursos, bem como demonstra a ausência de distribuição a qualquer título de parcela de seu patrimônio ou de suas rendas. Assim, preenchidos os requisitos da lei complementar, de rigor o reconhecimento de sua imunidade tributária.
+-Apelação provida.
+Embargos de declaração opostos e rejeitados, nos termos da seguinte ementa (fl. 467):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO CONFIGURAÇÃO. EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+ACLARATÓRIOS REJEITADOS.
+- As afirmações de que a ação rescisória não pode ser substituída por mandado de segurança e que não foi observada a coisa julgada (CF, art. 5º, inc. XXXVI) não devem prosperar. De acordo com o documento juntado no Id 3070267, mencionado pela embargante, a questão da imunidade tributária foi afastada no julgamento do Agravo de Instrumento nº 0016229-54.2016.4.03.0000, à vista da ausência de provas, ao fundamento de que a exceção de pré-executividade não tem dilação probatória. Assim, a rejeição da referida defesa nos termos postos não impede a propositura de demanda autônoma para discussão da imunidade. Pretende a embargante a reforma do julgado a fim de manter a exigibilidade do IRPJ inscrito em dívida ativa nº 80.2.11.051914-81. Entretanto, o efeito modificativo almejado é descabido nesta sede recursal.
+- Aclaratórios rejeitados.
+A recorrente alega violação dos arts. 1.022 e 489, § 1º, do CPC/2015 sustentando o cabimento dos embargos em situações de matéria de ordem pública como a coisa julgada. Ressalta o art. 1.025 do CPC/2015.
+Aponta afronta aos arts. 485, I, § 3º e 966 do CPC/2015; e 6º, § 3º, da LINDB alegando coisa julgada e que a matéria importa revolvimento de matéria fática, devendo ser restabelecida a exigibilidade da inscrição em dívida ativa.
+Contrarrazões a fls. 517-547.
+Inadmitido o recurso especial na origem, deu-se provimento ao AREsp tão somente para determinar sua conversão em REsp, sem prejuízo de posterior análise de sua admissibilidade (fl. 679).
+É o relatório. Decido.
+De início, afasta-se a alegada violação dos arts. 1.022 e 489 do CPC/2015 porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+No caso dos autos, a Corte de origem assim pontuou sobre a questão (fl. 463):
+As afirmações de que a ação rescisória não pode ser substituída por mandado de segurança e que não foi observada a coisa julgada (CF, art. 5º, inc. XXXVI) não devem prosperar. De acordo com o documento juntado no Id 3070267, mencionado pela embargante, a questão da imunidade tributária foi afastada no julgamento do Agravo de Instrumento nº 0016229-54.2016.4.03.0000, à vista da ausência de provas, ao fundamento de que a exceção de pré-executividade não tem dilação probatória. Assim, a rejeição da referida defesa nos termos postos não impede a propositura de demanda autônoma para discussão da imunidade. Pretende a embargante a reforma do julgado a fim de manter a exigibilidade do IRPJ inscrito em dívida ativa nº 80.2.11.051914-81.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, tendo a tutela jurisdicional sido prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, o fundamento do acórdão de que a rejeição da exceção de pré-executividade deu-se por ausência de provas, o que não impede a propositura de demanda autônoma para discussão da imunidade, não foi especificamente impugnada pela recorrente nas razões recursais, de modo que, à míngua do devido enfrentamento, mantém-se incólume o entendimento expendido. Aplicação da Súmula 283/STF.
+Tratando-se os autos de mandado de segurança, verifica-se que a recorrente não demonstra a pertinência da alegação de violação do art. 966 do CPC/2015 nas presentes razões recursais, o que configura fundamentação recursal deficiente, além de se tratar de questão sobre a qual não ocorreu prequestionamento. Incidência das Súmulas 284/STF e 211/STJ.
+No pertinente ao art. 6º da LINDB, inviável a abertura da via especial, a fim de alegar violação de norma de cunho eminentemente constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL.  ..  DISPOSTIVO CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA.  ..
+1. Não cabe ao STJ, conforme a jurisprudência pacificada desta Corte, manifestar-se acerca de supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro (LINDB) foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+ ..
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp 1.750.179/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/3/2021, DJe 10/3/2021)
+ADMINISTRATIVO. PROCESSO CIVIL.  ..
+ ..
+4. O Superior Tribunal de Justiça firmou o entendimento de que a matéria contida no art. 6º da LINDB possui cunho eminentemente constitucional, pois consiste em mera reprodução do art. 5º, XXXVI, da Constituição Federal, o que inviabiliza o conhecimento do apelo nobre nesse ponto, sob pena de usurpação de competência do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1391284/MT, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 2/2/2021, DJe 9/2/2021)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE VÍCIOS. FUNDAMENTO CONTIDO NO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
