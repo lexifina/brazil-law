@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante a MASSA FALIDA DE SOJA DO BRASIL LTDA E OUTROS e suscitados o JUÍZO DA VARA DE FALÊNCIAS, RECUPERAÇÕES, INSOLV. E CARTAS PRECATÓRIAS CÍVEIS DE CAMPO GRANDE - MS e o JUÍZO DA 5ª VARA DO TRABALHO DE CAMPO GRANDE - MS.
+Ação em trâmite perante o juízo cível: falência das suscitantes.
+Ação em trâmite perante o juízo trabalhista: reclamatória, em fase de execução, ajuizada por DAMIANA PESSOA SURUBI GREGORIO.
+Conflito de competência: alega, em síntese, que o juízo onde se processa a ação falimentar é o único competente para dispor sobre o acervo patrimonial das devedoras. Afirma que seus bens e os de seus sócios não podem ser constritos em execuções individuais, sob pena de ofensa ao par conditio creditorum. Requer o deferimento de medida liminar, a fim de desfazer a expropriação do imóvel levada a efeito na Justiça do Trabalho.
+RELATADO O PROCESSO, DECIDO.
+O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial, quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência. Nesse sentido: CC 79170/SP, Primeira Seção, DJe 19/09/2008; e CC 106.768/RJ, Segunda Seção, DJe 02/10/2009.
+Todavia, na espécie, não se depreende que a decisão do juízo trabalhista tenha invadido a esfera de competência do juízo da falência, uma vez que o bem imóvel levado à praça, conforme se verifica à fl. 202 (e-STJ), não integra o acervo patrimonial de nenhuma das sociedades falidas, mas sim de um dos sócios (UBILAR IVAN MACHADO DE OLIVEIRA).
+Nesse contexto, afigura-se perfeitamente aplicável à espécie o entendimento consagrado nesta Corte Superior no sentido de que não configura conflito de competência a constrição de bens dos sócios da empresa em recuperação judicial ou falência. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZO FALIMENTAR E JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. EXECUÇÃO DE CRÉDITO TRABALHISTA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELO JUÍZO LABORAL. INCLUSÃO DE BEM DE SÓCIO NA EXECUÇÃO. CONFLITO NÃO CONHECIDO.
+1. Se a execução trabalhista, movida em face da empresa que teve a falência decretada, foi redirecionada para atingir bens dos sócios, não há conflito de competência entre a Justiça especializada e o Juízo falimentar, portanto não justifica o envio dos autos ao Juízo universal, pois o patrimônio da empresa falida continuará livre de constrição. Precedentes.
+2. Ademais, considerando que os recursos a serem utilizados para satisfação do crédito trabalhista não desfalcarão o patrimônio da massa falida, não há falar em burla à ordem de pagamento dos credores na falência. (AgRg no CC 109256/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/04/2010, DJe 23/04/2010).
+3. Qualquer questionamento a respeito de atos (penhora, leilão, arrematação) e decisões provenientes da Justiça laboral deve ser feito perante essa Justiça especializada, por meio das ações e/ou recursos cabíveis.
+4. Agravo regimental improvido.
+(AgRg no CC 129.780/RJ, SEGUNDA SEÇÃO, DJe 14/10/2013)
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
