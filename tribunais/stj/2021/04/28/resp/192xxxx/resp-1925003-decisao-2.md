@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por GILBERTO DE ARAÚJO MARQUES, com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 187):
+ACIDENTÁRIA  Operador de máquinas  Lesões nos ombros e na coluna  Nexo causal e redução parcial e permanente da capacidade laborativa reconhecidos somente em relação às lesões nos ombros  Auxílio-acidente devido a partir da juntada do laudo pericial, nos termos da Lei no 8.213191, com a redação dada pela Lei no 9.528197  Valores em atraso que deverão ser atualizados e acrescidos de juros de mora nos termos do art. 50 da Lei no 11.960109, estes contados a partir do termo inicial do benefício  Apelo autárquico e recurso oficial providos em parte.
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 7º, XXVII e 195, § 5º, da Constituição Federal, 420 do CPC e 86, § 1º, da Lei 8.213/91, sustentando a vitaliciedade do auxílio acidente, afastando-se os termos da Lei 9.528/97.
+Aduz que "como se verifica as fls. 109/124 que o Sr. Perito concluiu base em todas as provas constantes dos autos, pela existência incapacidade parcial e permanente para o trabalho, sendo que, a eclosão da moléstia se deu anterior a vigência da Lei nº 9528/97" (fl.158).
+Alega que "a Lei 9528/97, não retirou a vitaliciedade do auxilio acidente, pois, benefício decorrente de auxilio acidente, com a aposentadoria, possuem fatos geradores e fontes de custeio diversas" (fl. 202)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Esclareça-se, de início, ser inviável a análise, em recurso especial, da irresignação fundada na violação aosarts. 7º, XXVII e 195, § 5º da CF. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal. Assim, é inviável o conhecimento do recurso especial fundado na violação ao dispositivo constitucional.
+De outro lado, a matéria referente a vitaliciedade do auxílio acidente,não foiapreciada pela instância judicante de origem, tampouco foram opostosembargos declaratórios para suprir eventual omissão quanto a esteparticular. Portanto, ante a falta do necessário prequestionamento, incideo óbice da Súmula 282/STF.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Em tempo, proceda-se a reautuação do feito a fim de que conste também como Recorrente,GILBERTO DE ARAÚJO MARQUES,nos termos da decisão de fls. 278/279, que admitiu o recurso especial do ora recorrente.
+Publique-se.
