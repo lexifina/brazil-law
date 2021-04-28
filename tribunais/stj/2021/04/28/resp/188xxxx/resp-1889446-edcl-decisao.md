@@ -1,0 +1,18 @@
+DECISÃO
+Embargos de declaração no recurso especialopostos por GEFFERSON MODESTO à decisão por mim proferida (fls. 650-660), na qual reconsiderei a decisão anterior para reconhecer a incidência da atenuante da confissão e redimensionar a pena.
+No presente recursoa defesa sustenta omissão, ao argumento de que adecisão não se manifestou sobre a substituição da pena privativa de liberdade por restritivas de direitos, operada no acórdão e concedida no HC 527.147/PR.
+Alegaque "questão da substituição da pena privativa de liberdade por restritivas de Direitos já foi objeto de Habeas Corpus, com a concessão do writ Constitucional (com trânsito em julgado) Autos HC 527147/PR (Decisão Monocrática concedendo a ordem, Acórdão no Agravo Regimental e certidão de transito em julgado em anexo);" (fl. 667).
+Requer o acolhimento dos embargos para que conste expressamente o direito do Embargante à substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, nos termos do art. 1.022, III, do Código de Processo Civil - CPC.
+No caso em tela, não há vícios a serem sanados. Com o reconhecimento da confissão, apena do recorrente foi reduzida ao patamar de 3 (três) anos, 5 (cinco) meses e 28 (vinte e oito) dias de reclusãoe751 dias-multa, tendo sidomantidos os demais termos do acórdão da apelação. A propósito, confira-se o dispositivo do referido acórdão:
+"5.9. Dar parcial provimento à apelação de Gefferson Modesto para absolvê-lo quanto aos crimes previstos nos artigos 33 (fato 4) da Lei nº 11.343, de 2006, com fundamento no artigo 386, inciso II, do Código de Processo Penal, e 35 da Lei nº 11.343, de 2006, com fundamento no artigo 386, inciso VII, do Código de Processo Penal; em relação aos crimes de tráfico de drogas narrados nos fatos 1 e 2 da denúncia, desclassificar a conduta para o tipo do artigo 37 da Lei nº 11.343, de 2006, redimensionando a pena privativa de liberdade aplicada, fixada definitivamente em 4 anos, 2 meses e 22 dias de reclusão, a ser cumprida em regime inicial semiaberto, substituída por duas penas restritivas de direitos, de prestação de serviços à comunidade e de prestação pecuniária no valor de R$ 15.000,00, e a pena de multa em 916 dias-multa, no valor unitário de 1/15 do salário mínimo vigente na data do fato" (fl. 100 - grifei).
+Portanto, em verdade, oembargante pretende a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa. A respeito:
+AGRAVO REGIMENTAL RECEBIDO COMO EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Agravo Regimental recebido como embargos de declaração em homenagem ao princípio da fungibilidade recursal.
+2. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+3. Embargos declaratórios rejeitados.
+(AgRg no AgRg no AREsp 1.608.004/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/08/2020).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
