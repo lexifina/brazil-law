@@ -1,0 +1,37 @@
+DECISÃO
+JEFFERSON APARECIDO PRAXEDES DA LUZ alega sofrer constrangimento ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2153818-40.2020.8.26.0000.
+Postula arevogação da prisão preventiva, sob a tese deexcesso de prazo para o encerramento do feito, pois está preso preventivamente - pela suposta prática dos crimes de homicídio e associação para o tráfico de drogas - desde 6/9/2019, sem previsão de data para julgamento em Plenário.
+Ao denegar a ordem, a Corte estadual ressaltou que "o feito já se encontra com sentença de pronúncia prolatada e prisão mantida" (fl. 12).
+O Juízo singular prestou os seguintes esclarecimentos (fls. 84-87, grifei):
+Trata-se de ação penal instaurada para apuração de eventual prática do crime de homicídio qualificado (previsto no artigo 121, § 2º, incisos IV e V, do Código Penal), tendo como vítima Ildemar Ferreira dos Santos; e do delito de associação para o tráfico (artigo 35, da Lei nº11.343/2006), que supostamente teriam sido praticados pelo paciente.
+ ..
+A denúncia, oferecida em 06 de setembro de 2019 (fls. 169/171), foidevidamente recebida em 10 de setembro de 2019. Na mesma oportunidade, decretou-se a prisão preventiva do paciente, que já se encontrava preso temporariamente (fls. 173/177).
+Pessoalmente citado em 23 de setembro de 2019 (fl. 242/244), o paciente apresentou resposta à acusação em 20 de setembro de 2019 (fls. 212/216).
+Em audiência de instrução, debates e julgamento, realizada em 17 de dezembro 2019, foram ouvidas cinco testemunhas de acusação, cinco testemunhas de defesa e, ao final, foi o paciente foi interrogado (fls. 335/339).
+Em sentença prolatada em audiência, o paciente foi pronunciado como incurso no artigo 121, § 2º, incisos IV e V, do Código Penal e no artigo 35, da Lei nº11.343/2006, tendo sido negado o direito de recorrer em liberdade (fls. 356/367).
+ ..
+A sentença de pronúncia transitou em julgado em 09 de janeiro de 2020 para o Parquet, e em 27 de janeiro de 2020 para a Defesa (fl. 430).
+Após, as partes manifestaram-se nos termos do artigo 422, do Código de Processo Penal (fls. 435/436 e fls. 442/443). Em 06 de março de 2020, os pleitos foram apreciados, oportunidade em que este Juízo mais uma vez negou o pedido de concessão de liberdade provisória ao paciente (fls. 468/470).
+ ..
+Houve novo pleito pela revogação da prisão preventiva ou substituição por prisão domiciliar, em razão da pandemia de coronavírus (fls. 483/484) e, em 30 de março de 2020, este Juízo indeferiu os pedidos formulados pelo paciente (fls. 494/496).
+ ..
+A Defesa pretendeu uma vez mais a revogação da custódia do paciente, nesta oportunidade sob alegação de excesso de prazo (fls. 549/554), o que foi negado por decisão do Juízo datada de 08 de junho de 2020 (fls. 578/580).
+ ..
+Atendendo o previsto no artigo 316, parágrafo único, do Código deProcesso Penal, foi novamente analisada a necessidade de manutenção da prisão preventiva do paciente em 08 de setembro de 2020 (fls. 618/619) e em 09 de dezembro de 2020 (fl. 643), tendo sido mantida a custódia cautelar em ambas ocasiões.
+A Defesa requereu o relaxamento da prisão preventiva do paciente (fl. 645), que contou com manifestação desfavorável do Parquet (fls. 649/653). Em 21 de janeiro de 2021, este Juízo indeferiu o pleito defensivo (fls. 657/658).
+ ..
+No que tange os pedidos de diligência postulados no 422, do Código de Processo Penal, aguarda-se a realização de perícia grafotécnica nos cadernos/folhas de caderno/página avulsa de agenda apreendidos com o paciente. Este Juízo determinou a expedição de ofício ao Núcleo de Documentoscopia do IC solicitando informações sobre o procedimento de colheita de material gráfico do paciente preso cautelarmente (fl. 615). Em 10 de novembro de 2020, sobreveio resposta do IC, o qual informou que as colheitas de material gráfico devem ser realizadas por agente penitenciário da CDP em que o réu se encontra custodiado (fls. 640/641). Assim, em 12 de novembro de 2020 este Juízo determinou a expedição de ofício ao CDP no qual ele se encontra, determinando a colheita do mencionado material (fl. 642).
+Em 21 de janeiro de 2021, este Juízo determinou a cobrança deinformações acerca do cumprimento do ofício expedido ao CDP (fls. 657/658). Em 24 demarço de 2021, foi juntado aos autos o material gráfico colhido do acusado (fls. 669/679). Namesma data, este Juízo determinou expedição de ofício ao IC para que fosse realizada a perícia pretendida (fl. 680). Em 08 de abril de 2021, sobreveio ofício do IC, informando que omaterial deve ser disponibilizado em sua via física e encaminhado juntamente com os documentos apreendidos com o acusado (fls. 685/686). Na mesma data, foi determinado por este Juízo expedição de ofício à 3ªDelegacia DISCCPAT/DEIC para que realizassem a retirada do material colhido no CDP e entregasse ao IC juntamente com os demais documentos mencionados no ofício de fl. 681 (fl. 687).
+Posteriormente, sobreveio a notícia de que o material apreendido jáhavia sido entregue ao IC (fl. 689), razão pela qual, em 14 de abril de 2021, foi determinada a expedição de ofício ao CDP para que remeta o material colhido ao IC para realização da perícia (fl. 695). Em 16 de abril de 2021, o material foi encaminhado pelo CDP ao IC (fl.698).
+No presente momento, aguarda-se o cumprimento desta diligência postulada na fase do art. 422, Código de Processo Penal, para designação de Sessão de Julgamento em Plenário.
+Os prazos processuais previstos na legislação pátria devem ser computadosde maneira global e o reconhecimento do excesso deve-se pautar semprepelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII,da CF), considerando cada caso e suas particularidades.
+A respeito do tema, a jurisprudência do STJ é firme em asseverar que: "Oprazo para a conclusão da instrução criminal não tem as características defatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinarcom o juízo de razoabilidade para definir o excesso de prazo, não seponderando a mera soma aritmética dos prazos para os atos processuais.(Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro FelixFischer, 5ª T., DJe 17/9/2015).
+Na hipótese, não constato desídia estatal na condução do feito, uma vezque o Juízo singular relatou haver adotado todas as providências cabíveis, em curto espaço de tempo, para buscar o cumprimento da diligência deferida no prazo do art. 422 do CPP. Ademais, cerca de 1 ano e 7 meses depois da prisão preventiva do réu, já foi concluída a primeira etapa do procedimento do Júri e, tão logo concluída a perícia faltante, será designada data para julgamento pelo Conselho de Sentença.
+Com base nessas premissas, não se identifica delonga injustificada natramitação processual. Nesse sentido:
+ ..
+3. Para a aferição do excesso de prazo, devem ser sopesados não só o tempoda prisão provisória, mas, também, as peculiaridades da causa, suacomplexidade, bem como quaisquer fatores que possam influir na tramitaçãoda ação penal.
+4. No caso em exame, apesar de haver uma relativa demora para oencerramento da ação penal, o julgamento do paciente está em vias de serrealizado. O cancelamento de outras sessões anteriormente designadas sedeu em razão das medidas preventivas à pandemia da Covid-19.
+5. Ordem denegada. Prejudicada a análise do pedido de reconsideração dadecisão liminar às fls. 177/181.
+(HC n. 604.980/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe26/10/2020, grifei)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
