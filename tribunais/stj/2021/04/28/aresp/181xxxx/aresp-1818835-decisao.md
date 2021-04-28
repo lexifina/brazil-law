@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto porBANCO INDUSVAL S.A.contra decisão que inadmitiu recurso especial (e-STJ, fls. 284-286)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 219):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCIDENTE DE FALSIDADE ACOLHIDO COM A EXCLUSÃO DA LITISCONSORTE E EXTINÇÃO DO PROCESSO EM RELAÇÃO A ELA. DECISÃO INTERLOCUTÓRIA QUE DESAFIAVA AGRAVO DE INSTRUMENTO. Ao verificar a falsidade e extinguir o processo em relação à coexecutada, o magistrado a quo resolveu questão incidente, de modo que sua decisão, apesar do conteúdo de sentença, não foi terminativa. A interposição de apelação e de recurso adesivo contra decisão interlocutória com previsão expressa de agravo no art. 1.015, inc. VII do CPC, para caso de exclusão de litisconsorte, configura erro grosseiro (ausência de dúvida objetiva) que impede aplicação do princípio da fungibilidade.
+Apelação e recurso adesivo não conhecidos.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 246):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. Não existe o defeito apontado no v. Acórdão. A decisão pela inadequação dos recursos de apelação e adesivo foi tomada com apoio no entendimento majoritário da 12" Câmara e aval da jurisprudência do STJ. Acolhida uma das teses lançadas em total confronto, por questão de lógica desnecessária justificativa formal para o não acolhimento da que foi preterida, uma vez declinadas as razões para a prestação jurisdicional de natureza recursal. Pelo principio da causalidade a extinção da execução de forma incidental após a citação válida impõe a condenação em honorários advocaticios. Embargos de declaração rejeitados.
+Nas razões do recurso especial, o recorrente, com base na alínea a do permissivo constitucional, alegou violação aos arts. 85, 154, 244, 250, 1.009,§ 1º, e 1.022 do CPC/2015.
+Defendeu a existência de omissão no acórdão recorrido, afirmando que o Tribunal de origem deixou de se manifestar sobre a possibilidade de interposição da apelação para impugnar decisão prolatada em incidente de falsidade e a inviabilidade de condenação ao pagamento de honorários advocatícios.
+Sustentou inexistir erro grosseiro com a interposição de agravo de instrumento para rebater decisão proferida em julgamento de incidente de falsidade.
+Afirmou que, nesse tipo de demanda, não é possível a fixação de honorários advocatícios.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem negou seguimento à insurgência (e-STJ, fls.284-286).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 289-296).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, oagravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+No apelo excepcional, defendeu orecorrentea existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.730.535/ES, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/10/2018, DJe 19/10/2018).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o acórdão recorrido foiclaro e preciso ao apreciar todos os temas acima elencados.
+Logo, constata-se inexistir violação ao art. 1.022 do CPC/2015.
+Em relação à análise da afronta aos arts.85, 154, 244, 250, 1.009, § 1º, do CPC/2015, do exame das razões recursais, constata-se deficiência na argumentação.
+É necessário frisar que o recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração pela parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+In casu, analisando as razões do apelo especial interposto pelo recorrente, verifica-se que os argumentos apresentados não foram suficientes para demonstrar o descumprimento da legislação federal apontada,situação que impossibilita a compreensão da controvérsia, sendo aplicável, por analogia, o enunciado descrito na Súmula 284/STF.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EXECUÇÃO. INCIDENTE DE FALSIDADE. IMPUGNAÇÃO. APELAÇÃO. ERRO GROSSEIRO. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AOS ARTS.85, 154, 244, 250 E1.009, § 1º, DOCPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
