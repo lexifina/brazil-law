@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por JUKEFI TRANSPORTES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE EXIGIR CONTAS PLEITO DE RETENÇÃO DA CNH E PASSAPORTE E DE PROVENTOS SALARIAIS NÃO CABIMENTO AS MEDIDAS ALMEJADAS PELA PARTE EXEQUENTE QUE ALÉM DE DESPROPORCIONAIS E SEM AFINIDADE COM A OBRIGAÇÃO DE PAGAMENTO IMPLICAM DE FORMA OBLÍQUA EM AFRONTA A DIREITOS E GARANTIAS CONSTITUCIONAIS POR ISSO MERECEM SER INDEFERIDAS NEGADO PROVIMENTO AO RECURSO UNÂNIME
+Alega a recorrente violação dos arts. 833 e 1.026 do CC, para se determinar a penhora dos pró-labores do segundo recorrido junto à primeira recorrida, bem como dos lucros que o segundo recorrido obtenha por distribuição da primeira recorrida, trazendo os seguintes argumentos:
+3.6. Certo é, portanto, que as verbas que se pretende penhorar não se encontram elencadas no rol do artigo 833 do Código de Processo Civil, que por isso acabou violado.
+3.7. Não bastasse, a medida é expressamente autorizada pelo Código Civil, que em seu artigo 1.026 dispõe:
+Art. 1.026. O credor particular de sócio pode, na insuficiência de outros bens do devedor, fazer recair a execução sobre o que a este couber nos lucros da sociedade, ou na parte que lhe tocar em liquidação. (grifo nosso).
+3.8. Neste cenário, resta claro que ao indeferir a pretensão de penhora de eventuais lucros a serem divididos em favor do segundo Recorrido, assim como se deu pró-labore, o acórdão guerreado ofende ao disposto no artigo 833 do Código de processo Civil e no artigo 1.026 do Código Civil.
+3.9. Destarte, merece reforma a Decisão recorrida, deferindo-se a penhora pretendida.
+3.10. Não há de se olvidar que para assegurar-se o cumprimento da ordem de penhora necessária se faz a nomeação de administrador provisório para a sociedade empresária, cujos honorários devem ser suportados pelos próprios Recorridos, mediante retenção de seus pró-labores e lucros a distribuir. (fls. 78/79).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
