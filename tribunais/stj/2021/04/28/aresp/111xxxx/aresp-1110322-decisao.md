@@ -1,0 +1,20 @@
+DECISÃO
+CÍCERO DOUGLAS OLIVEIRA SILVAe MÁRCIO DOS SANTOSagravam de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto contra acórdão doTribunal de Justiça do Estado de Sergipe(Apelação n. 201600305500).
+Nas razões do especial, asseriramnão haver "constatação de qualquer ato comissivo ou omissivo que leve à conclusão de que ..  tenham responsabilidade pela ação que culminou com o falecimento da vítima, estando plenamente provado que o responsável pelo evento  ..  determinou o rompimento dos cabos de telefonia" (fls. 990-991).
+Apontaramviolação do art. 59 do CP, ao argumento de que "dever-se-ia aplicar como pena base a pena mínima cominada para o tipo do art. 163 (detenção de 01 mês), do Código Penal, e não aquela que foi mantida pelo Tribunal ad quem" (fl. 994). Ainda, defenderamhaver bis in idem na incidência da causa de aumento doart. 121, § 4º, do CPe, portanto, malferimento deste artigo,pois a imprudência de um e a imperícia de outro, invocadas para aplicação da adjetivadora, já constituem o tipo penal culposo.
+Requereram sua absolvição na forma do art. 386 do CPP. Subsidiariamente, pleitearam aplicação de 1 mês de detenção como pena-base para o crime do art. 163 do CP eafastamento da majorante do § 4º do art. 121 do CP.
+O recursofoi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, por aplicação doóbicedaSúmulan.7 do STJ.
+Os agravantes, por sua vez, ponderam que "o reexame de provas é absolutamente desnecessário para que se conheça das questões ventiladas no apelo extremo" (fl. 1.022).
+O Ministério Público Federal manifestou-se"no sentido de que se declare extinta a punibilidade pela prescrição da pretensão punitiva, nos termos do art. 107, IV, do Código Penal, julgando-se prejudicado o recurso" (fls. 1.046-1.047).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão atacada, motivos pelos quais comporta conhecimento.
+Assim, antes de analisar a admissibilidade do recurso especial, convém examinar a preliminar levantada pelo Parquet federal, pois prejudicial em relação aos pleitos do especial. E, nessa extensão,verifico a ocorrência de causa extintiva da punibilidade, consistente naprescrição da pretensão punitiva estatalrelacionada aos crimes imputados aos agentes.
+Pela análise dos autos, verifica-se que os insurgentesforamcondenados a 1 ano e 4 meses de detençãopelo crime previsto no art. 121, §§ 3º e 4º, do CPe a 6 meses de detenção por incursão no art. 163, parágrafo único, do mesmo diploma penal.
+O Ministério Público não recorreu.
+Uma vez firmada a reprimenda no Juízo de primeira instância, com trânsito em julgado para a acusação, a prescrição passa a regular-se pela pena imposta. Na hipótese, aplica-se, em relação ao crime culposo contra a vida, a regra do art. 109, V, do CPe, quanto ao crime de dano, a prevista no art. 109, IV, do CP.
+Assim, como assinalado pelo Ministério Público Federal, a se considerar que a denúncia foi recebida em 24/2/2010 (fl. 148) e a sentença condenatória foi prolatada em 6/11/2014 (fl. 724), constato que,entre essas datas,transcorreram mais de 4 anos.
+Logo, verifico aocorrência de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva estatalrelacionada aos crimes imputados aos recorrentes, o que prejudica a apreciação do mérito do recurso especial.
+À vista do exposto, por ser matéria de ordem pública, que pode ser reconhecida em qualquer fase processual,reconheço a ocorrência da prescrição da pretensão punitiva na Ação Penaln. 201051000059edeclaro, por consequência,extintas as punibilidades dos crimes dos arts. 121, §§ 3º e 4º, e 163, ambos do CP,atribuídos a Cícero Douglas Oliveira Silva e a Márciodos Santos.
+Dessa forma,nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça,julgo prejudicado o recurso especial.
+Oficie-se ao Tribunal de Origem, bem como ao Juízo de Primeiro grau, comunicando-lhes o teor desta decisão.
+Publique-se e intimem-se.
