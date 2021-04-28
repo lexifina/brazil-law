@@ -1,0 +1,20 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ELZA MARIA NOGUEIRA CAMPOS DAMIANI (ELZA) promoveu cumprimento de sentença decorrente de ação de indenizaçãocontra LUCILENE GOMES RNOLFI BRAGHIROLLI (LUCILENE).No curso da ação, o d. Juízo de primeira instância determinou a penhora no rosto dos autos no processo que tramita perante a 10ªVara Cível da comarca de Londrina-Paraná, autos nº 0002506-27.2016.8.16.0014, demanda em que LUCILENE litigacontra Companhia de Seguros Aliança do Brasil, pelo seguro de vida de seu falecido marido, que a deixou como beneficiária, limitando-se o bloqueio/arresto/penhora ao valor da dívida, suficiente para a quitação integral da divida.incluindo atualização, custas ehonorários.(e-STJ, fl. 26).
+Houve oposição de embargos de declaração por LUCILENE e foram acolhidos parcialmente para que apenhora fossereduzida para o excedente à 40 salários mínimos, sendo o resto transferido a ELZA(e-STJ, fl. 27).
+Opostos novos embargos declaratórios sob a alegação de que não foram analisados todos os argumentos dos embargos anteriores, em especial a análise dos arts.1.997 e 794 do Código Civil. Entretanto, os embargos não foram acolhidos e adecisão anterior mantida (e-STJ, fl. 28).
+Contra essa decisão interlocutória, LUCILENE interpôs agravo de instrumento sustentando, em síntese, queo seguro de vida tem a finalidade de propiciar rendimento a executada, que foi deixada como beneficiária da importância contratada à seguradora, sendo, portanto, impenhorável. Aduziu, ainda,que ocrédito da recorridaexecutado é fruto de indenização devida pelo falecido marido, ou seja, a dívida é do espólio e dessa formanão sepode penhorar os valores oriundos do referido seguro, que pertencem à recorrente e nãointegraa herança (e-STJ, fls.4/16).
+O Tribunal estadualnegou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - DIREITO PROCESSUAL CIVIL - AÇÃO DE INDENIZAÇÃO POR ATO ILÍCITO EM FASE DE CUMPRIMENTO DE SENTENÇA - PENHORA NO ROSTO AUTOS COBRANÇA SEGURO DE VIDA - MITIGAÇÃO ARTIGO 833, INCISO VI, DO CÓDIGO DE PROCESSO CIVIL - ENTENDIMENTO SUPERIOR TRIBUNAL DE JUSTIÇA - PROTEÇÃO DA INDENIZAÇÃO LIMITADA À 40 SALÁRIOS MÍNIMOS - EQUILÍBRIO ENTRE O INTERESSE DO BENEFICIÁRIO E DO CREDOR - CUMPRIMENTO DE SENTENÇA QUE DURA MAIS DE10 ANOS - DECISÃO MANTIDA - RECURSO CONHECIDO E NÃOPROVIDO(e-STJ, fl.107).
+Os embargos de declaração opostos por LUCILENE foram rejeitados (e-STJ, fls.132/136).
+Inconformada, LUCILENE manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, a par de dissídio pretoriano,a violação dos arts. 794, 1659, 1792 e 1997 do Código Civil, sustentando, que o seguro de vida tem a finalidade de propiciar rendimento a executada, sendo, portanto, impenhorável. Aduziu, ainda, queo espólio é o devedor, não é o beneficiário do seguro de vida e que tal verba éincomunicável com a herança (e-STJ, fls. 200/214).
+Contrarrazões do recurso especial apresentadas (e-STJ, fls.251/255).
+Em juízo de admissibilidade, o Tribunal paranaense inadmitiu o apelo nobre sob ofundamentodeincidência daSúmulanº282 do STJ, por analogia (e-STJ, fls. 269/270).
+Dessa decisão, foi interposto o presente agravo em recurso especial refutando o juízo de prelibação(e-STJ, fls.287/296).
+Contraminuta apresentada(e-STJ, fls.311/315).
+O Ministro Presidente desta Corte, nos termos do art. 76 c/c o art. 932, parágrafo único do NCPC, intimou a recorrente para regularizar a representação processual o que foi devidamente cumprido (e-STJ, fls. 337e 339/340).
+É o relatório.
+Considerando que o agravo merece conhecimento e tendo em vista as razões contidas no recurso especial subjacente, CONVERTO o agravo em recurso
+especial para melhor análise dascontrovérsias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS DE COBRANÇA DE SEGURO DE VIDA. AGRAVO CONHECIDO PARA EXAME DAMATÉRIA. CONVERSÃO EM RECURSO ESPECIAL.
