@@ -1,0 +1,16 @@
+DECISÃO
+ANDERSON LOURENÇO AMBROZIO alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrantebusca a retificação do cálculo de liquidação das penas dopaciente, para fins de progressão de regime, ante a retroatividade e a interpretação mais favorável daLei nº 13.964/2019, a qual revogou o art. 2º, § 2º da Lei de Crimes Hediondos, poisele não é reincidentena prática de crime hediondo e, atualmente, tem de cumprir 40%de sua pena para alcançar o benefício do art. 112 da LEP.
+Decido.
+No habeas corpus, o ônus da provacabe ao impetrante, que tem o dever processual de instruir adequadamente a ação constitucional com documentos que permitam a averiguação de pretensa ilegalidade ao direito de locomoção do paciente.Embora o writ seja instituto jurídico marcado pela informalidade, sua petição inicial deverá explicar, minimamente, em que ponto o ato apontado como coatorcontémjulgamento em confronto com a lei ou com a prova inequívoca dos autos. O descumprimento dessa obrigação jurídica inviabiliza o exame da postulação.
+O Tribunal a quo assinalou que o reeducando é reincidente específicona prática de crime hediondo ou equiparado. Confira-se:
+Anderson Lourenço Ambrózio cumpre pena privativa de liberdade total de 14 (quatorze) anos e 02 (dois) dias de reclusão, em regime inicial fechado, pela prática de crimes de tráfico de drogas (equiparados a hediondo; datados de 28.07.2017 e 12.12.2018),com término previsto para 14.12.2032 cf. cálculo de pena às fls. 22/24 dos autos originais. Há, ainda, reincidência delito previsto no artigo 33, caput; c. c. 40 III, da Lei 11.343/2006 reconhecida por esta C. 15ª Câmara Criminal (cf. Acórdão de fls. 563/572 processo nº 1503921-11.2018.8.26.0664). Portanto, é reincidente específico em crime equiparado a hediondo e, assim, obrigatório o cumprimento da fração de 3/5 (três quintos) da pena ou 60% (sessenta por cento), nos termos da Lei nº 13.964/2019 que alterou a redação do artigo 112 da LEP para que seja alcançado o requisito de ordem objetiva necessário à progressão de regime.
+O impetrante não refutou o fundamento do acórdão recorrido; não alegou/demonstrou que a reincidência do sentenciado é genérica. Essa condição, a seu turno, não exsurge dacertidão de antecedentes de fls. 25/33, pois o documento não menciona condenação por tráfico de drogas com incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Ante o vício assinalado, não há outro destino para o habeas corpus exceto o seu não conhecimento, ante a ausência de comprovaçãode pretensa ilegalidade.
+Não é possível a concessão de habeas corpus de ofício, pois o Tribunal de Justiçaobservou oart. 2º, § 2º, da Lei 8072/1990 e oart. 112, da LEP, com a nova redação incluída pela Lei nº 13.964/2019, que prevêem:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V -40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado,se for primário;
+VII -60% (sessenta por cento) da pena, se o apenado for reincidentena prática de crime hediondo ou equiparado;
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
