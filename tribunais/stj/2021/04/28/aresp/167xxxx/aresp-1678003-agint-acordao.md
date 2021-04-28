@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. REQUISITOS DA REIVINDICATÓRIA. PROPRIEDADE E INDIVIDUALIZAÇÃO DO IMÓVEL. COMPROVAÇÃO. POSSE INJUSTA RECHAÇADAPELA CORTE DE ORIGEM. IMPROCEDENCIA DA DEMANDA. EMBARGOS DE DECLRAÇÃO PROTELATÓRIOS OPOSTOS NA CORTE ESTADUAL. MÁ-FÉ CONFIGURADA. REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 07/STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. DECISÃO QUE SEGUE MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por DÉBORA DE SOUZA MENDES,contra decisão assim ementada (e-STJ Fls. 612/619):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. REQUISITOS DA REIVINDICATÓRIA. PROPRIEDADE E INDIVIDUALIZAÇÃO DO IMÓVEL. COMPROVAÇÃO. POSSE INJUSTA RECHAÇADAPELA CORTE DE ORIGEM. IMPROCEDENCIA DA DEMANDA. EMBARGOS DE DECLRAÇÃO PROTELATÓRIOS OPOSTOS NA CORTE ESTADUAL. MÁ-FÉ CONFIGURADA. .REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante reprisa, essencialmente, ateseexaradano apelo nobre no sentido de que a parte agravada não exerce posse justa, pois, não haveria entre as partes celebração de promessa de compra e venda.
+Aduz, ainda, violação ao artigo 1.026, § 2º do Código Civil, pois, "em nenhum momento os Embargos Declaratórios opostos pela Agravante tinham caráter protelatórios" (e-STJ Fl. 641).
+Por fim, sustenta não incidir o óbice da Súmula nº 7/STJ à pretensão recursal.
+Pede o provimento do recurso.
+É relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. REQUISITOS DA REIVINDICATÓRIA. PROPRIEDADE E INDIVIDUALIZAÇÃO DO IMÓVEL. COMPROVAÇÃO. POSSE INJUSTA RECHAÇADAPELA CORTE DE ORIGEM. IMPROCEDENCIA DA DEMANDA. EMBARGOS DE DECLRAÇÃO PROTELATÓRIOS OPOSTOS NA CORTE ESTADUAL. MÁ-FÉ CONFIGURADA. REVISÃO DESTES ENTENDIMENTOS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 07/STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. DECISÃO QUE SEGUE MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Passo, de todo modo, ao exame do presente agravo interno.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+Com efeito, no que concerne à suposta violação aos artigos 1.227, 1.228, e, 1.245do Código Civil, a Corte Estadual, erigiu seu entendimento totalmente calcado nas provas dos autos, valendo-se delas para concluir que"a apelante não provou a terceira condição da ação reivindicatória, qual seja, que o apelado se encontra injustamente na posse do imóvel", senão vejamos (e-STJ fls. 462/466, gn):
+"De início, embora a apelante tenha nominado a presente ação como "ação ordinária", o fato é que se trata de ação reivindicatória, pois o pedido inicial é fundamentado no direito de propriedade da mesma sobre o mencionado imóvel, conforme Certidão do Cartório do 2º Ofício de Registro de Imóveis de Montes Claros (fl.1011 1).
+A ação reivindicatória possui fundamento no direito de sequela, disciplinado pelo art. 1.228 do Código Civil, sendo aquela proposta pelo proprietário destituído de posse, em face do não proprietário que a detém de forma injusta.
+(..)
+Como se vê, nas hipóteses em que o detentor do domínio estiver impossibilitado de usar e gozar do bem, devido à conduta de terceiro, que o detém injustamente, será cabível a propositura da ação reivindicatória, visando a sua retomada.
+Para a procedência da ação reivindicatória, tem-se exigido a demonstração dos seguintes requisitos: a) que o autor tenha a titularidade do domínio sobre o bem reivindicando; b) que a coisa esteja devidamente individualizada; e c) que esteja injustamente em poder do réu.
+É bem verdade que a apelante provou a titularidade do domínio e a individualização do imóvel ocupado pelo apelado, conforme registro de fl. 10/11.A respeito da terceira condição da ação reivindicatória - retenção injusta do imóvel por terceiro não proprietário - deve-se destacar que posse justa é aquela cuja aquisição não repugna ao direito.
+(..)
+O fato é que a apelante não provou a terceira condição da ação reivindicatória, qual seja, que o apelado se encontra injustamente na posse do imóvel.
+A própria apelante relata na inicial que desde a entrega do imóvel permitiu que o apelado ali residisse, haja vista que ainda morava na casa dos seus pais.
+Embora afirme que o apelado contribuía no pagamento das prestações do financiamento e nas despesas condominiais, o certo é que está provado que o apelado é quem arcou integralmente com todas as despesas relativas ao imóvel, inclusive o financiamento. Não há dúvidas que o "INSTRUMENTO PARTICULAR DE COMPRISSO DE COMPRA E VENDA" (fI. 15128) foi assinado pela apelante em 1411212009 (fl. 28), mas em contrapartida o recibo do valor pago a título de sinal e princípio de pagamento (cláusula 4, fl. 15-v) foi expedido em nome do apelado (fl. 150).
+O apelado também anexou diversos comprovantes de transferência bancária para a conta corrente da apelante (fI. 1871204). O e-mai enviado pela apelante ao apelado, datado de 0911012013 (fl. 2121213), comprova que embora a apelante fosse responsável pela quitação das parcelas do financiamento (fl. 71186), pois assinou o contrato de financiamento do imóvel junto à Caixa Econômica Federal (fl. 9/59), os referidos valores eram ressarcidos pelo apelado mediante transferência bancária para sua conta corrente, vejamos (fI. 2 12/213):
+"Oi Marcos, bem escrevo-lhe para te informar que eu não consegui negociar as parcelas em atraso na Caixa Federal, devido a greve. Informo-lhe também que estou ainda resolvendo coisas do mestrado e por isso não consegui ainda ir a Receita, buscar a declaração que você me pediu. Bem estou indo viajar na sexta e provavelmente só poderei resolver essas pendências quando retornar, após o feriado e recesso. Te peço por gentileza que você deposite o dinheiro dos móveis, conforme ficou acordado entre nós, pois estou precisando. A respeito dos valores: $240,00 (120, da diferença de cada prestação 2 que não foram debitadas) $178,47 (referente a prestação de Taxa de obras em atraso)  - $320 (da prestação desse mês) Fui ao centro 3 vezes com o objetivo de apenas resolver isso (para isso gastei 13,80 com lotação) Totalizando 752,27 Você me passou $600,00. Então para melhor prestação de contas te farei e-mail, doravante, até que tudo esteja normalizado quanto a isso. Sugiro que no mês que vem você me passe os $320 (da prestação) mais esse diferença de 152,47 que ficou faltando. Para que eu possa regularizar tudo o quanto antes. Totaliza = $472,47 E a 2 parcela que você deverá me pagar referente aos móveis = $50000 (Tudo até o dia 10, se possível) Aguardo uma resposta a esse e-mail.
+Obrigada!
+Débora Mendes.
+Portanto, o e-mail subscrito pela própria apelante deixa claro que o apelado era responsável pelo pagamento integral das prestações do imóvel, inclusive pelas multas e diferenças relativas às prestações anteriores.
+O fato de o apelado transferir também o valor referente aos móveis do casamento demonstra que eram dívidas distintas. Mas é certo que as parcelas do financiamento do imóvel eram repassadas integralmente à apelante.
+Além disso, as diversas mensagens eletrônicas trocadas entre as partes confirmam que a própria apelante considerava o imóvel como sendo do apelado (fI. 1531174), embora registrado em seu nome, veja-se:
+(..)
+Também restou provado que o apelado quitou o valor relativo ao sinal (fl. 150), bem como ressarciu a apelante quanto aos valores das parcelas do financiamento junto à Caixa.
+O apelado também é responsável pelo pagamento das taxas codominiais, que já se encontram em dia, conforme declaração do condomínio (fl. 186).
+Assim, está provado que a posse do apelado é justa, uma vez que a própria apelante autorizou que o mesmo residisse no imóvel desde a entrega das chaves.
+Por outro lado, o apelante vem pagando as parcelas do financiamento do imóvel, conforme comprovantes de transferência bancária (fl. 1871204), mensagens eletrônicas (fl. 1531174)e e-mail(fl. 212/213).
+Consequentemente, considerando que a apelante não provou a posse injusta do apelado, um dos requisitos da ação reivindicatória, impõe-se a improcedência do pedido inicial".
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir as afirmações contidas no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Neste sentido:
+RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. TERRENOS CONTÍGUOS. POSSE INJUSTA NÃO-COMPROVADA. TERRENO INEXISTENTE NO PLANO FÁTICO. INÉRCIA DO TITULAR DO DOMÍNIO EM OCUPÁ-LO. DIREITO DE PROPRIEDADE. ARTIGO 524 DO CÓDIGO CIVIL DE 1916.
+1. A ação reivindicatória pressupõe a existência de domínio do autor e posse injusta do réu. Portanto, demonstrando o réu que detém o domínio da área que ocupa, afastando, por conseguinte, a hipótese de posse injusta, a ação deve ser julgada improcedente.
+2. Se autor e réu detêm o domínio de uma área cujo espaço físico não comporta os terrenos conforme descrito em seus respectivos títulos, o direito de um não pode se sobrepor ao do outro. Assim, mantém-se na posse aquele que a exerce regularmente em detrimento daquele que, por longos anos, desinteressou-se pela ocupação da área em questão.
+3. A preferência do titular do título mais antigo deve ser analisada em relação à cadeia dominial.
+4. Recurso especial não-conhecido.
+(REsp 1028246/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 28/09/2010, DJe 07/10/2010)
+CIVIL E PROCESSUAL. AÇÃO REIVINDICATÓRIA. PEDIDO INDENIZATÓRIO ALTERNATIVO ACOLHIDO. ACÓRDÃO ESTADUAL. RECURSO ESPECIAL. TEMPESTIVIDADE. CPC, 538. ALEGAÇÃO DE NULIDADE PROCESSUAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211-STJ. POSSE DO IMÓVEL PELOS RÉUS RECONHECIDA. IMPLANTAÇÃO DE LOTEAMENTO SOBRE OUTRO, MAIS ANTIGO. DESAPARECIMENTO FÍSICO DO LOTE. NOVO FRACIONAMENTO. PEDIDO INDENIZATÓRIO DEFERIDO. MATÉRIA DE FATO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7-STJ.
+I. A oposição de embargos declaratórios interrompe o prazo do recurso especial, que volta a fluir, por inteiro, após prolatado o acórdão que decide os aclaratórios.
+II. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" - Súmula n. 211-STJ.
+III. "A pretensão de simples reexame de prova não enseja recurso especial" - Súmula n. 7-STJ. IV. Recurso especial não conhecido.
+(REsp 93.352/ES, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 07/06/2005, DJ 22/08/2005 p. 275)
+No mais, relativamente à litigância de má-fé, extrai-se dos autos que essa foi devidamente comprovada em razão da conduta da ora recorrente que alterou a verdade dos fatos e atrasou injustificadamente a entrega da prestação judiciária, in verbis (e-STJ, fls.495/496, gn):
+"Por outro lado, não pode ser objeto do presente recurso a análise das mesmas questões que foram devidamente apreciadas na v. decisão embargada, mostrando-se inadmissível confundir-se irresignação quanto ao entendimento adotado, com omissão, contradição ou obscuridade.
+Ainda que os presentes embargos visem ao prequestionamento para eventual interposição de recursos nas instâncias superiores, devem submeter-se aos requisitos do art. 1.022 do CPC/2015. Não se consubstanciando quaisquer dos vícios apontados, incabível o seu acolhimento.
+Os presentes embargos revelam-se manifestamente protelatórios, devendo ser aplicada a multa prevista no artigo 1.026,§2º, do Código de Processo Civil/2015. Veja-se:(..)
+Ante o exposto, não havendo qualquer omissão, obscuridade ou contradição no acórdão, rejeito os embargos de declaração e condeno a embargante ao pagamento de multa 1% sobreo valor da causa, em favor do embargado, nos termos do art. 1.026, §2º, do CPC/2015"
+Com efeito, como registrado na decisão recorrida, e, diante do quanto decidido sobre o tema pela Corte de origem, "a análise do art. 1.026, § 2º, do CPC/2015, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, procedimento inviável em Recurso Especial, ante o disposto na Súmula 7/STJ" (AgInt no AgInt no AREsp 1504440/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA N. 284 DO STF. USO INDEVIDO DO NOME E DADOS PROFISSIONAIS DA AUTORA. OBJETIVO DE LUCRO. CONVÊNIO COM O SUS. LEGITIMIDADE PASSIVA. QUANTUM INDENIZATÓRIO. LITIGÂNCIA DE MÁ-FE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O agravante formulou alegações genéricas sobre a ausência de prestação jurisdicional, sem demonstrar, de forma específica, em que consistiram os vícios perpetrados pelo Tribunal de origem. Assim, é inafastável a incidênciada Súmula n. 284 do STF.
+2. O TJPB entendeu que o recorrente deve ser responsabilizado pela indenização pleiteada, por ter incluído o nome da recorrida no cadastro Datasus, causando-lhe danos morais e materiais. Não há como rever a conclusão do acórdão sobre a legitimidade passiva do insurgente, a ocorrência de danos (materiais e morais), o valor do ressarcimento e a aplicação da pena por litigância de má-fé, porque demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n.7 do STJ.
+4. Ao alegar que os prejuízos materiais (lucros cessantes) devem ser afastados, o recorrente deixou de mencionar o dispositivo violado que trata do referido instituto (art. 402 do CC/2002). Dessa forma, correta a aplicação da Súmula n. 284 do STF.5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1504053/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+Assim, inarredável a aplicação do óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta dalitigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Cumpre asseverar que, referido óbice, qual seja, o Enunciado nº 7/STJ, aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Diante de tais considerações, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
