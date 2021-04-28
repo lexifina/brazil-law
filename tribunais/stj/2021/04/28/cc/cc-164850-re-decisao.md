@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por VIPLAN VIAÇÃO PLANALTO LIMITADA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 292):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. JUÍZO DA RECUPERAÇÃO JUDICIAL. JUÍZO DA EXECUÇÃO TRABALHISTA. CONCESSÃO DE ALVARÁ PARA LIBERAÇÃO DE DEPÓSITOS JUDICIAIS. LEVANTAMENTO EFETUADO PELO CREDOR TRABALHISTA. PERDA DO OBJETO. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O conflito ficou prejudicado diante do levantamento de valores pelo credor trabalhista.
+2. Na hipótese dos autos o Juízo Trabalhista informou que não foi interposto recurso contra a decisão que indeferiu o pedido da parte executada de suspensão do cumprimento do alvará de liberação do valor do depósito recursal.
+3. O conflito de competência não pode ser utilizado como sucedâneo recursal, bem como não se presta a resolver questões que devem ser dirimidas nas instâncias ordinárias.
+4. Agravo interno não provido.
+Opostos embargos de declaração, não foram conhecidos (e-STJ fls. 325-329)
+Sustenta o recorrente a existência de repercussão geral e a violação aos arts. 5º, inciso XXVI, 109, inciso I, 113 e 114 da Constituição Federal.
+Afirma que o eventual levantamento do depósito judicial existente perante a Justiça do Trabalho não enseja a perda de objeto do conflito de competência instaurado entre a Justiça laboral e o juízo da recuperação judicial.
+Aduz que determinada a expropriação debens da recorrida por juízo absolutamente incompetente, nos termos do Tema 90/STF, a nulidade do ato processual em questão pode e deve ser declarada a qualquer tempo e grau de jurisdição.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas as contrarrazões (e-STJ fl. 366).
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão da prejudicialidade do conflito de competência, ante o levantamentode valores depositados perante a Justiça do Trabalho, para o adimplemento de crédito trabalhista. O acórdão encontra-seassim fundamentado (e-STJ fls. 296-299):
+De acordo com o art. 66, I, do NCPC, haverá conflito positivo de competência quando dois ou mais juízes se declararem competentes para julgar a mesma causa. Para tanto, não há necessidade de que ambos os juízes afirmem expressamente a sua competência para a causa, basta a prática de atos que indiquem implicitamente que se dão por competentes.
+ ..
+O presente conflito foi apresentado sob o fundamento de que o juízo trabalhista não possui competência para prosseguir com atos de expropriação contra o patrimônio da empresa recuperanda.
+Contudo, nos autos da execução trabalhista o depósito recursal já foi levantado pelo reclamado aos 2/4/2019:
+Honrado em cumprimentá-lo, e em atenção ao r. Despacho proferido por Vossa Excelência na data de 03/04/2019, nos autos do Conflito de Competência em epígrafe, venho, com o devido respeito e acatamento, informar que, nos Autos do Processo de Execução nº 0001138-40.2010.5.10.0101, entre aspartes Alisson Moreira da Costa Silva e VIPLAN Viação Planalto Limitada, não houve a interposição de recurso, nem o ajuizamento perante o egrégio Tribunal Regional do Trabalho da 10ª Região de qualquer outra medida contra a decisão proferida por este Juízo da 1ª Vara do Trabalho de Taguatinga-DF, que indeferiu o pedido da parte executada de suspensão do cumprimento do alvará de liberação do valor do depósito recursal.
+Registro, por oportuno, que não existindo qualquer decisão de instância superior determinando o sobrestamento da ordem, o alvará de liberação do depósito recursal em favor do Exequente já foi cumprido pela Caixa Econômica Federal, Agência 3309, na data de 02/04/2019. (e-STJ, fls. 161/162)
+Desse modo ocorreu a perda do objeto do conflito de competência diante do esgotamento dos valores arrecadados no juízo laboral, o que impede o conhecimento do conflito.
+Ademais não é possível transformar o conflito de competência em ampla modalidade recursal e dessa forma devolver ao STJ a possibilidade de reexaminar a legalidade de atos do processo que não guardam nenhuma relação com a competência e que devem ser atacados por vias próprias.
+Consoante as informações do Juízo Trabalhista, não houve a interposição de recurso, nem o ajuizamento perante o egrégio Tribunal Regional do Trabalho da 10ª Região de qualquer outra medida contra a decisão proferida por este Juízo da 1ª Vara do Trabalho de Taguatinga-DF, que indeferiu o pedido da parte executada de suspensão do cumprimento do alvará de liberação do valor do depósito recursal (e-STJ, fls. 161/162).
+O posicionamento adotado nesta Corte Superior é de que o conflito de competência não se presta como sucedâneo recursal nem se constitui em meio hábil para atacar decisões de instâncias inferiores (AgRg no CC nº 126.947, Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 14/4/2014).
+Em suma, diante do esvaziamento do objeto do incidente, com a liberação integral dos valores no juízo trabalhista, não era mesmo possível conhecer do conflito.
+Desse modo, a análise da matéria ventilada depende do exame do art. 66, inciso I, do Código de Processo Civil,razão pela qual eventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRESSUPOSTO DE ADMISSIBILIDADE DE CONFLITO POSITIVO DE COMPETÊNCIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI 851.777 AgR. Primeira Turma. Rel. Min. CÁRMEN LÚCIA. Julgamento 25/11/2011. DJe 222 Divulg 22-11-2011. Public 23-11-2011)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. ART. 5º, LIII, DA CF. CONFLITO DE COMPETÊNCIA. REAPRECIAÇÃO DE NORMA INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de legislação infraconstitucional aplicável ao caso. Óbice da Súmula 279/STF. II - Agravo regimental a que se nega provimento.(ARE 1.015.504 AgR. Segunda Turma. Rel. Min. RICARDO LEWANDOWSKI. Julgamento 21/08/2017. PROCESSO ELETRÔNICO. DJe 193 Divulg 29-08.2017. Public 30-08.2017)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. CONFLITO POSITIVO DE COMPETÊNCIA. PREJUDICIALIDADE SUPERVENIENTE.MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
