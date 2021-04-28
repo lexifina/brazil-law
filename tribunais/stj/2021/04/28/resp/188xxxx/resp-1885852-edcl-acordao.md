@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE COBRANÇA. RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. PRETENSÃO AO RECEBIMENTO DA ALUDIDA VERBA NO QUINQUÊNIO ANTERIOR À IMPETRAÇÃO DO WRIT. NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DA SENTENÇA. PRECEDENTES.ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração oposto por Anita Peres e outros contra acórdão, assim ementado (fls. 576-588):
+PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL.AÇÃO DE COBRANÇA. RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. PRETENSÃO AO RECEBIMENTO DA ALUDIDA VERBA NO QUINQUÊNIO ANTERIOR À IMPETRAÇÃO DO WRIT.NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DA SENTENÇA. PRECEDENTES.
+1. Caso em que os servidores do Estado de São Paulo ajuizaram ação de cobrança, sustentando que o adicional temporal sexta-parte e o quinquênio devem ser calculados não apenas sobre o vencimento-base, mas sobre os vencimentos integrais.
+2. A sentença não conheceuda ação, porque "a causa aqui deduzida é mera perspectiva de confirmação do mandado de segurança, o que não pode simplesmente ser cumprido porque lhe carece coisa julgada".
+3. O acórdão recorrido reformou a sentença ao fundamento de que "o fato de não ter ocorrido o trânsito em julgado no mandado de segurança coletivo não constitui óbice à demanda pelo período anterior ao seu ajuizamento, ficando, pois, afastada a objeção considerada pela sentença".
+3. Dessa forma, o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte Superior no sentido de que, no caso dos autos, deve-se aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo (nº 0600594-25.2008.8.26.0053) para o ajuizamento da ação de cobrança visando a percepção de parcelas pretéritas. Precedentes.
+4. Agravo interno da Fazenda do Estado de São Paulo providopara conhecer do agravo em recurso especial, provendo o seu recurso especial no sentido de restabelecer a sentença de fls. 259-266, pedindo as mais respeitosas vênias ao Relator, Ministro Napoleão Nunes Maia Filho. Prejudicado o recurso especial dos servidores.
+Os embargantes argumentam que o recurso especial fazendário não deveria sequer ser conhecido, por não ter impugnado "especificamente os fundamentos do acórdão do TJ de São Paulo", atraindo, assim,o ter das Súmulas 283 e 284 do STF.
+Asseveram que o acórdão embargado, ao restabelecer a sentença do Juízo de primeiro grau,teria deixado de observar o óbice da Súmula 7/STJ, porque "profere verdadeira revisão de ofício dos autos em sede de recurso especial"(fl. 598, e-STJ).
+Consignam que a orientação firmada no acórdão embargado,no sentido de se aguardar o trânsito em julgado de mandado de segurança para a propositura da ação de cobrança,"fere o direito constitucional de ação, estatuído no artigo 5º, XXV, da CF" (fl. 599).
+Deduzem que "inexiste legislação que imponha a necessidade de aguardar o trânsito em julgado de mandado de segurança coletivo para a propositura de ação de cobrança, processualmente autônoma, para a condenação dos valores vencidosanteriormente à impetração do writ" (fl. 599).
+Requerem, ao final, o acolhimento dos embargos de declaração, a fim de que sejam esclarecidas "as obscuridades suscitadas" (fl. 600, e-STJ).
+Sem contrarrazões (certidão de fl. 613).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE COBRANÇA. RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. PRETENSÃO AO RECEBIMENTO DA ALUDIDA VERBA NO QUINQUÊNIO ANTERIOR À IMPETRAÇÃO DO WRIT. NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DA SENTENÇA. PRECEDENTES.ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Cinge-se a controvérsia dos autos acerca da necessidade de se aguardar o trânsito em julgado da sentença em mandado de segurança coletivo para o ajuizamento da ação de cobrança, visando orecebimento de parcelas pretéritas.
+Fui designado Relator para acórdão, vencido o Ministro Napoleão Nunes Maia Filho, no sentido de dar provimento ao agravo interno da Fazenda do Estado de São Paulo, provendo o seu recurso especial.No mesmo sentido do acórdão embargado, destaco julgado recente da Primeira Turma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. TRÂNSITO EM JULGADO DA SENTENÇA.JUÍZO DE ADMISSIBILIDADE REALIZADO DE FORMA IMPLÍCITA.
+2. "O STJ possui jurisprudência consolidada de que é necessário aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo para o ajuizamento da ação de cobrança pretendendo o recebimento de parcelas pretéritas" (AgInt no REsp 1.748.782/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º.3.2019). No mesmo sentido: AgInt nos EDcl no REsp 1.747.537/SP, Rel. Ministra Assusete Magalhãoes, Segunda Turma, DJe 6.3.2019; REsp 1.747.518/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21.2.2019; REsp 1.764.345/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28.11.2018.
+3. Agravo Interno não provido.
+(AgInt no REsp 1.892.108/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 15/12/2020)
+Quanto àpreliminarsuscitadasegundo o qual o recurso especial fazendário não deveria sequer ser conhecido, por não ter impugnado "especificamente os fundamentos do acórdão do TJ de São Paulo",consigne-se que o juízo de admissibilidade pode ser realizado pelo Relator de forma implícita, ou seja, sem a necessidade de exposição de motivos, cuja análise de mérito recursal deduz-se que os requisitos intrínsecos e extrínsecos foram devidamente observados. A propósito:
+EMBARGOS DE DIVERGÊNCIA. APLICABILIDADE DE REGRA TÉCNICA RELATIVA A ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCABIMENTO DOS EMBARGOS.JUÍZO DE ADMISSIBILIDADE IMPLÍCITO. APRECIAÇÃO DO MÉRITO DO RECURSO ESPECIAL. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+3. Esta Corte Superior pode realizar o juízo de admissibilidade de forma implícita, sem necessidade de exposição de motivos, onde o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito.
+6. Embargos de divergência não conhecidos.
+(EREsp 1.119.820/PI, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 19/12/2014, grifei)
+No mesmo sentido:AgInt no REsp 1.865.084/MG, Rel. Ministro Raul Araújo, Quarta Turma, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, Relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014;AgInt no REsp 1.892.108/SP, Rel. Ministro Herman Benjamin, Segunda Turma,DJe 15/12/2020.
+Acerca da argumentação de quea orientação firmada no acórdão embargado, no sentido de se aguardar o trânsito em julgado de mandado de segurança para a propositura da ação de cobrança, "fere o direito constitucional de ação, estatuído no artigo 5º, XXV, da CF" (fl. 599),constata-se a nítida intenção dosembargantes de novo julgamento da questão sob outro enfoque, situação que, diante da inexistência das hipóteses do artigo 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Consoante jurisprudência desta Corte Superior, o mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER VÍCIO NO ARESTO EMBARGADO. MERA IRRESIGNAÇÃO COM O TEOR DO ACÓRDÃO EMBARGADO. DESCABIMENTO. RECURSO MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+5. A pretensão da ora embargante ao apontar omissões inexistentes é, tão somente, manifestar dissenso e pedir o rejulgamento de questão já decidida, o que não é cabível em embargos de declaração. A jurisprudência desta Corte Superior é pacífica no sentido de que a discordância com o julgamento não se configura motivo para a interposição de embargos declaratórios. Precedentes do STJ.
+7. Embargos de declaração rejeitados, com a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+(EDcl nos EREsp 1.523.744/RS, Rel. Ministro Og Fernandes, Corte Especial, DJe 28/10/2020)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
