@@ -1,0 +1,27 @@
+DECISÃO
+Da leitura da minuta de agravo que deu origem ao presente recurso, pode-se aferir que NATALIA EVELYN VIANNA DE MELO COSTA (NATALIA) ajuizou ação de obrigação de fazer contra UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANIERO LTDA. (OPERADORA).
+No curso da ação, o Juízo de primeiro grau deferiu a tutela antecipada em favor do autora, para determinar que a OPERADORA autorize e cubra o fornecimento do medicamento Olaparibe.
+Essa interlocutória foi desafiada por agravo no qual a OPERADORA sustentou que está ausente a obrigação legal e contratual para a cobertura do procedimento, pois o mesmo não consta incluído no rol de procedimentos da ANS.
+O Tribunal de origem deu parcial provimento ao agravo, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. RELAÇÃO DE CONSUMO. FORNECIMENTO DE MEDICAMENTO OFF LABEL. RECUSA. ABUSIVIDADE.
+MANUTENÇÃO DA TUTELA DE URGÊNCIA. 1. Ação proposta por usuária de plano de saúde, com vistas ao fornecimento de medicamento opióide, para tratamento experimental de câncer refratário à quimioterapia. 2. Tutela de urgência deferida. 3. Abusividade da recusa. Cobertura de tratamento da enfermidade. Exclusão contrária às exigências de boa-fé e equidade, a serem observadas.
+Relação de consumo. Artigo 51, IV, do CDC. 4. Lei nº 9.656/98, que determina, no artigo 35 - C, a cobertura obrigatória nos casos de emergência, existente, in casu, pelo risco de vida. 5. Multa horária de R$ 2.000,00 (dois mil reais). Ausência de razoabilidade. 6. Alteração da periodicidade, para que esse valor incida por dia de descumprimento, limitado ao teto de R$ 200.000,00 (duzentos mil reais). 7. Provimento parcial do recurso (e-STJ, fl. 46).
+Os embargos de declaração opostos pela OPERADORA foram rejeitados (e-STJ, fls. 86/89).
+Irresignada, a OPERADORA interpôs recurso especial com fundamento no art. 105, III,a e c, da CF, alegando, além do dissídio jurisprudencial, ofensa aos arts. 5º, XXXVI e 196 da Constituição Federal, 1.022 do NCPC, 10, I e VI, § 4º, da Leinº 9656/98; 4º, III, da Lei nº 9961/00; Resolução nº 428 da ANS; 54, § 4º, do CDC; 188, 421, 422, 478, 480, 485, 756, 757 e 760 do CC/02. Sustentou em síntese que (1) houve omissão no acórdão recorrido; (2)não estaria legal e contratualmente obrigado a custear o tratamento pleiteado, sobretudo ante a taxatividade do rol de procedimentos da ANS; (3)configura evidente onerosidade excessiva a pretensão para que a Recorrente arque com os custos de procedimentos expressamente excluídos da previsão contratual; e (4) ausente a probabilidade de direito do Recorrido em obrigar a Unimed-Rio a proceder a cobertura de medicamento off label.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 735 do STF.
+Nas razões do presente agravo em recurso especial, OPERADORA afirmou que o óbice sumular é inaplicável ao caso.
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na linha da jurisprudência desta eg. Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incidência, por analogia, da Súmula nº 735 do STF, verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça. 3. Agravo regimental não provido.
+(AgRg no AREsp 573.120/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 3/2/2015, DJe de 9/2/2015).
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A LIMINAR. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
