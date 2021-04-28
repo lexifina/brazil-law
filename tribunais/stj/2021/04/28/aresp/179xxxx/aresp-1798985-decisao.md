@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da SC EMPREENDIMENTOS E PARTICIPAÇÕES S.A. interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. DIREITO DO CONSUMIDOR. DECISÃO SANEADORA QUE DECLAROU A INVERSÃO DO ÔNUS DA PROVA OPE LEGIS. ENTENDIMENTO PACÍFICO DO EG. STJ E DESTA CORTE ESTADUAL.
+MANUTENÇÃO DA DECISÃO. Agravo de instrumento interposto da decisão saneadora que inverteu o ônus da prova em favor do Agravado. A demanda versão sobre ação de responsabilidade civil em que o Autor, ora agravado, pretende a condenação da Agravante na reparação de danos decorrentes de atropelamento sofrido em uma das suas vias férreas. Hipótese que se enquadra no art. 14, § 3º do CDC, de responsabilidade objetiva, e que segundo entendimento firmado pelo E.
+STJ opera a inversão do ônus da prova ope legis, não sendo discricionária a sua aplicação. Manutenção da decisão. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados. No recurso especial, a recorrente aponta violação aos seguintes dispositivos: (a) art. 1.022, II, do CPC, alegando que o acórdão recorrido deixou de explicitar as razões pelas quais entendeu estar caracterizada a relação de consumo nahipótese, bem como opreenchimento dos requisitos necessários para a inversão do ônus da prova; (b) arts. 373 do CPC e 6º, VIII, do CDC, aduzindo que, não obstante estarem ausentes a verossimilhança das alegações e a hipossuficiência dos recorridos, houve a inversão do ônus da prova.
+Foram apresentadas contrarrazões.
+Sobreveio juízo negativo de admissibilidade à consideração de que: a) quanto à alegada violação ao art. 1.022 do CPC, oacórdão abordou as questões apresentada pela parte de forma suficiente a formar e demonstrar seu convencimento, elucidando as suas razões de decidir de forma clara e transparente, de modo que não há violação ao dispositivo indicado; b)a análise da presença dos requisitos necessários à inversão do ônus probatório pressupõe o reexame do conjunto fático-probatório subjacente, de modo que não cabe recurso especial ante o veto do Enunciado nº 7 da Súmula do STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação merece acolhida em relação à preliminar de ofensa ao art. 1.022 do CPC.
+Acerca da suposta negativa de prestação jurisdicional, arecorrente afirma que o Tribunal de origem foi omisso em relação as razões pelas quaisentendeu estar caracterizada a relação de consumo na hipótese, bem como acercaexplicitação detalhada do preenchimento dosrequisitos necessários para a inversão do ônus da prova.
+Verifica-se que essas questões não foram avaliadas pelo Tribunal a quo, mesmo que em embargos de declaração. A Cortede origemse manifestarde forma genérica.
+Nesse sentido, é de se reconhecer a deficiência na prestação jurisdicional e a consequente violação ao art. 1.022 do CPC.
+É cedido que os embargos de declaração são a via adequada para levar a conhecimento do Tribunal as questões tidas por omissas, obscuras ou contraditórias, sobretudo quando a manifestação sobre tais questões for relevante para o deslinde da controvérsia, tal qual ocorreu no caso dos autos.
+A jurisprudência deste Superior Tribunal de Justiça está no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estreita do especial, por falta de prévio questionamento.
+Caracterizado o vício de omissão, error in procedendo, forçoso reconhecer a ofensa ao comando normativo inserto no artigo 1.022 do CPC, e, por conseguinte, a necessidade de anulação do aresto para que outro seja proferido, em novo julgamento na origem.
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial para determinar o retorno dos autos à origem para novo julgamento dos aclaratórios, sanando os vícios apontados, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
