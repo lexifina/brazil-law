@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. TEMA NÃO APRECIADO PELAS INSTÂNCIAS DE ORIGEM. APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA.
+1. O tema referente à ilicitude das provas não foi debatido pelas instâncias ordinárias, pois pendente de julgamento o recurso de apelação interposto pela defesa assinalando a nulidade. Assim, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+2. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por KAORI ARIKAWA contra decisão monocrática, de minha lavra, que indeferiu liminarmente o habeas corpus (e-STJ fls. 44/46).
+Foi o recorrente condenado, pelos crimes de tráfico de drogas e associação para o tráfico, à pena de 8 anos de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 1.200 dias-multa.
+Buscando a anulação da sentença, tendo em vista a ilicitude da prova obtida por meio de violação de domicílio, impetrou a defesa habeas corpus no Tribunal de Justiça do Estado de São Paulo.
+Entretanto, o colegiado local denegou a ordem.
+No Superior Tribunal de Justiça, reiterou a defesa a ilicitude da prova obtida em desacordo com as normas constitucionais. Diante disso, pediu fossem as referidas provas desentranhadas dos autos, com o consequente trancamento da ação penal.
+Nesta oportunidade, sublinha a defesa não existir impedimento de apreciação na via eleita dos temas apresentados no recurso de apelação ainda pendente de julgamento pela instância de origem. Destaca a maior celeridade inerente ao rito do remédio constitucional e a possibilidade de concessão de habeas corpus de ofício.
+Diante disso, pede a reconsideração da decisão monocrática combatida ou, caso assim não se entenda, a remessa do presente recurso à Sexta Turma desta Casa e a concessão da ordem nos termos formulados na inicial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Na espécie, conforme esclareci na decisão monocrática combatida, o colegiado local não apreciou a tese de ilicitude das provas, tendo em vista ter sido o mesmo tema apresentado pela defesa nas razões do recurso de apelação, ainda pendente de julgamento.
+Nessa alheta, concluí pela impossibilidade de manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Pareceu-me adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016, p. 2.470).
+No mesmo caminhar, colacionei este precedente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO. CUSTÓDIA PREVENTIVA MANTIDA NA SENTENÇA. GARANTIA DA ORDEM PÚBLICA. REAVALIAÇÃO DA PRISÃO CAUTELAR A CADA 90 DIAS. OBSERVÂNCIA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. No caso, a custódia cautelar foi mantida tendo como fundamento a garantia da ordem pública, haja vista a periculosidade do agente evidenciada na gravidade concreta da conduta delitiva, pois o recorrente, armazenava em sua residência, expressiva e variada quantidade de entorpecentes (cocaína e maconha - essa última mais de três quilos), arma de fogo e quantia significativa em dinheiro, sem comprovação de origem lícita (R$ 1.910,00).
+3. Não merece acolhimento a tese de ilegalidade da prisão pela inobservância do disposto no art. 316, parágrafo único, do CPP. Conforme se verifica, a necessidade da custódia cautelar foi reavaliada bem antes do prazo legal previsto de 90 dias: a prisão preventiva foi decretada em 10/6/2020 e mantida quando da prolação da sentença condenatória em 4/8/2020. Em 29/10/2020, seus fundamentos foram revisados pelo Tribunal de origem, no julgamento do writ originário.
+4. O Tribunal Paranaense entendeu que o habeas corpus seria via inadequada para reavaliação da sentença condenatória, por demandar o exame do conjunto fático-probatório dos autos, o que deveria ser feito em recurso próprio - de apelação - já interposto e pendente de julgamento. Logo, é inviável a análise diretamente do tema por esta Corte Superior de Justiça, sobretudo quando será apreciado adequadamente pela Corte de origem, no julgamento do apelo defensivo, sob o aspecto da extensão e da profundidade do efeito devolutivo do referido recurso.
+5. Agravo regimental não provido. (AgRg no RHC 138.911/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, grifei.)
+Ante o exposto, ratifico os termos da decisão de e-STJ fls. 44/46 e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
