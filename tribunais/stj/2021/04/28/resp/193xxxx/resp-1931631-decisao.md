@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO MARANHÃOcontra acórdão prolatado, por unanimidade, pela 6ª Câmara do Tribunal de Justiça do Estado do Maranhãono julgamento de agravo de instrumento, assim ementado (fls. 70e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. SINTUEMA. 21,7%. IMPUGNAÇÃOJULGADA IMPROCEDENTE. ALEGAÇÃO DE PRESCRIÇÃO. INOCORRÊNCIA. RECURSO DESPROVIDO. I - A prescrição deve ser afastada, pois após a formação do título executivo na ação coletiva, com trânsito em julgado em 25.01.2012, o prazo prescricional restou suspenso por mais de um ano (03.07.2013 a 15.08.2014) em face de liminar na ação rescisória nº 5.526/2013. II - Assim, não restou prescrito o direito da parte, pois o cumprimento de sentença foi ajuizado em 27.05.2017, dentro do prazo de 5 anos. III - Agravo desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 124/137e).
+Com amparo no art. 105, III, a, da Constituição da República,aponta-se ofensa ao art. 1º do Decreto n. 20.910/32, alegando-se, em síntese, que em apelação a parte exequente apontou que não se consumou a prescrição, argumentando que uma ação rescisória ajuizada pelo Estado teria suspendido o prazo prescricional. Analisando o pedido de antecipação de tutela formulado na ação rescisória, foi deferida liminar determinando a suspensão do Acórdão n. 106.405/2011 até o julgamento do mérito da ação rescisória. Porém, erroneamente o tribunal de origem entendeu que, desde a decisão liminar até o julgamento definitivo da ação rescisória,o prazo prescricional para execução do título teria ficado suspenso.
+Comcontrarrazões (fls. 156/170e), o recurso foi inadmitido (fl. 173/180e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fls. 218e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante impugne acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada à Corte é o caminho apropriado para impedir a preclusão da matéria.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, afastou a ocorrência da prescrição, nos seguintes termos (fls. 69/80e):
+Neste momento processual não visualizo a ocorrência da prescrição executória. Digo isto em face da ação rescisória nº 5.526/2013, na qual o Excelentíssimo Desembargador Relator Jaime Ferreira de Araújo determinou "a suspensão da execução do Acórdão nº 106.405/2011, até o julgamento do mérito da presente ação rescisória".
+Tal acórdão é o objeto da presente execução que, por força da referida decisão, restou impossibilitado de ser executado de 03.07.2013, quando deferida a liminar, a 15.08.2014, data do julgamento da rescisória.
+Portanto, nesse período (1 ano e 12 dias) não teria corrido o prazo prescricional de 5 anos, motivo pelo qual, a princípio, não estaria prescrita a pretensão em 25.01.2017, contado do trânsito em julgado do acórdão (25.01.2012), conforme narrado pelo Agravante.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. pretensão de reexame de prova. SÚMULA Nº 07 DO STJ. DEMONSTRAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE. ASPECTO SUBJETIVO.
+A teor do enunciado da Súmula nº 7 do Superior Tribunal de Justiça, se a reforma do julgado depende do reexame da prova, o recurso especial não pode prosperar.
+Impossibilidade de exame com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 291.128/ES, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 28/04/2015, DJe 13/05/2015)
+PROCESSUAL CIVIL. EXECUÇÃO. MULTA AMBIENTAL. CONTAGEM DE PRAZO PRESCRICIONAL. REDEFINIÇÃO DOS MARCOS TEMPORAIS. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. SUSPENSÃO DA EXECUÇÃO. MATÉRIA NÃO COMBATIDA NO RECURSO ESPECIAL. SÚMULA 283/STF.
+1. Hipótese em que o Tribunal a quo assentou que houve a suspensão da execução e reformou a sentença que declarou a prescrição antes de decorrido o prazo quinquenal.
+2. A pretensão de revisão dos marcos temporais considerados pelo acórdão recorrido implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+3. A falta de combate sobre o fundamento principal que negou a pretensão da recorrida atrai a aplicação do óbice de admissibilidade do Recurso Especial previsto na Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+4. Agravo Regimental não provido.
+(AgRg no AREsp 330.060/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/02/2014, DJe 19/03/2014)
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
