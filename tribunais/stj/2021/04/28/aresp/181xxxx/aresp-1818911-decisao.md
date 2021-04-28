@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ADA BASILE DE SÁ PEIXOTO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas"a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/09/2020.
+Concluso ao gabinete em: 26/04/2021.
+Ação: de obrigação de fazer cumulada com compensação por dano moral, ajuizada pela agravante, em face de CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL, em razão de cancelamento do plano de saúde sem prévia notificação do beneficiário.
+Sentença: julgou procedente o pedido e condenou a agravada a compensar o dano moral no montante de R$ 20.000,00.
+Acórdão: deu parcial provimento à apelação interposta pela agravada, para reduzir o valor da compensação por dano moral para R$ 5.000,00, nos termos da seguinte ementa:
+EMENTA. Apelação. Plano de saúde. Ação de obrigação de fazer c. c. indenização por danos morais. Sentença de procedência. Inconformismo das rés. Parcial cabimento. Operadora de plano de saúde é parte legítima para figurar no polo passivo. Responsabilidade solidária das empresas que participam da cadeia de negócios e dela obtém alguma vantagem econômica. Legitimidade passiva reconhecida. Rescisão unilateral do contrato coletivo de seguro saúde. Alegação de inadimplemento. Não comprovada a prévia notificação exigida pela Lei 9.656/98. Súmula 94 do E. TJSP. Inexistência de motivo para a rescisão unilateral. Ofensa aos princípios da boa fé objetiva e função social do contrato. Dano moral configurado. Valor reduzido de R$20.000,00 para R$5.000,00. Sentença reformada nesse ponto. Recursos parcialmente providos.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1.022 do CPC, 188, 927 e 944 do CC,bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a irrisoriedade do valor arbitrado para compensar o dano moral sofrido.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do julgamento: CPC/15.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Na hipótese, o TJ/SP considerou exorbitante o valor fixado a título de compensação de dano moral, reduzindo-o para manter "sua função ressarcitória, sem, entretanto, causar enriquecimento ou empobrecimento indevidos" (e-STJ, fls. 419)
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas e contraditóriassob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+Ademais, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016).
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do valor da indenização
+Na hipótese, foram fixados R$ 5.000,00 (cincomil reais) para compensar o dano moral em razão da abusividade do cancelamento do plano de saúde, porquanto feriu o art. 13, parágrafo único, II, da Lei 9.656/98. Quanto ao valor arbitrado a título de danos morais, a jurisprudência do STJ é pacífica no sentido de que a sua modificação somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: AgInt no AREsp 1446020/PE, 3ª Turma, DJe 31/05/2019;AgInt no AREsp 1155903/SE , 4ª Turma,DJe 14/06/2018.Dessa forma, incide o óbice da Súmula 7 do STJ quanto ao ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem em desfavor da parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DEPOR DANO MORAL. PLANO DE SAÚDE. CANCELAMENTO. AUSÊNCIA DE NOTIFICAÇÃOPRÉVIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Açãoobrigação de fazer cumulada com compensação por dano moral, em razão decancelamento do plano de saúde sem prévia notificação do beneficiário.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3.A modificação do valor da indenização por danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
