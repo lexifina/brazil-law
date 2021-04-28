@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício deValdecir Tiago dos Santos, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar nos autos do Habeas Corpus n. 2078772-11.2021.8.26.0000.
+Alega-se, na impetração, em síntese, que, em razão da pandemia de Covid-19 e considerando o estado de saúde do paciente (portador de HIV), com risco real de contaminação e possível agravamento a partir de eventual contágio, deve ser concedida a prisão domiciliar a ele.
+Informações prestadas às fls. 369/370.
+Às fls. 373/376, a defesa reitera opedido de concessão da medida liminar.
+É o relatório.
+Aplicável à espécie o mesmo entendimento consolidado na Súmula 691 do Supremo Tribunal Federal, observado também por esta Corte Superior, segundo o qual não cabehabeas corpuscontra indeferimento de pedido liminar em outrowrit, salvo no caso de flagrante ilegalidade. A propósito, confira-se o precedente deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PLEITO LIMINAR FORMULADO EM SEDE DE REVISÃO CRIMINAL. ENUNCIADO SUMULAR N. 691 DO STF. EXCEPCIONALIDADE NÃO CARACTERIZADA. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTA CORTE. PRETENSÃO DE AGUARDAR O JULGAMENTO DO PEDIDO REVISIONAL EM LIBERDADE. IMPOSSIBILIDADE. INEXISTÊNCIA DE EFEITO SUSPENSIVO. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO. 1. Segundo a orientação pacificada neste Superior Tribunal, é incabível habeas corpus contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de incidir-se em indevida supressão de instância (Enunciado n. 691 da Súmula do STF). 2. Encontrando-se a decisão da autoridade impetrada suficientemente motivada, não há como se afastar o óbice ao conhecimento do remédio constitucional, imposto pelo enunciado n. 691 da Súmula do STF. 3. Ainda que superada a incompetência desta Corte Superior para a apreciação da matéria, não seria possível acolher a pretensão do agravante, tendo em vista que a revisão criminal, por não ter efeito suspensivo, não revela-se hábil para autorizar a interrupção da execução da pena. 4. Agravo regimental improvido. (AgRg no HC n. 285.647/CE, Ministro Jorge Mussi, Quinta Turma, DJe 25/8/2014)
+Cumpre verificar a existência de excepcionalidade que justifiquea concessão da ordem.
+Das informações prestadas, contudo, ficou demonstrado que o paciente regrediu de regime em razão do descumprimento das condições impostas pelo Juízo de origem e que a reabilitação da falta grave apenas será atingida em 9/10/2021 (fl. 370).O Magistrado informou, ainda(fl. 370):
+ ..
+Quanto ao pedido de concessão da prisão domiciliar, anoto que foi foi indeferido em 22/04/2020 (doc. 03 - fls. 289 e 296/298). Na mesma data, considerando a consulta agendada para 15/03/2021, este juízorequisitou relatório médico atualizado, enviado em 20/04/2021 (doc. 04- fl. 340) e com vista pendente ao Ministério Público.
+5. Por fim, anoto, que a unidade prisional (Centro de Progressão Penitenciária de Campinas) é acompanhada pelo Poder Judiciário, sendo de rigor destacar que não evidencia situação de surto de COVID-19, embora esteja em situação de superlotação. Ademais, presta, dentro de suas condições, assistência médica aos presos, adotando, ainda, medidas sanitárias para a contenção do COVID-19.
+ ..
+Nesse contexto e ausente manifesto constrangimento ilegal,necessáriose faz aguardar o julgamento do habeas corpus originário.
+Ante o exposto,indefiro liminarmenteohabeas corpus,com a recomendação de que o Tribunal de origem examine, com a maior brevidade possível, o writ lá impetrado.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. PRISÃO DOMICILIAR. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU O PEDIDO LIMINAR NO MANDAMUS ORIGINÁRIO. NÃO DEMONSTRAÇÃO DE QUE O PACIENTE SE ENQUADRA NAS HIPÓTESES PREVISTAS NA RECOMENDAÇÃO N. 62 DO CONSELHO NACIONAL DE JUSTIÇA. PRECEDENTE. TERATOLOGIA OU ILEGALIDADE MANIFESTA. AUSÊNCIA. ENUNCIADO N. 691 DA SÚMULA DO STF. APLICABILIDADE.
+Writindeferido liminarmente com recomendação.
