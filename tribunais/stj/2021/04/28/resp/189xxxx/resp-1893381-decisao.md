@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMERCIAL XAVIER LTDA. e JOHAM ALVES XAVIERcom fundamento na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 733):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. IMÓVEL. EMENTA REAVALIAÇÃO DO BEM POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. ALEGAÇÕES GENÉRICAS. NÃO ACOLHIMENTO. AGRAVP DE INSTRUMENTO IMPROVIDO.
+1. Agravo de instrumento interposto contra decisão que, nos autos da execução fiscal originária, rejeitou a impugnação apresentada pela executada/agravante, mantendo a avaliação do imóvel penhorado realizada pelo Oficial de Justiça.
+2. Alega a parte agravante: 1) em março de 2007, quando da penhora, o imóvel foi avaliado em R$ 110.000,00 (cento e dez mil reais), no entanto, em setembro de 2018, foi reavaliado por R$ 120.000,00, havendo o acréscimo de apenas R$ 10.000,00; 2) sites de imobiliárias evidenciam que o bem possui valor de mercado superior àquele encontrado pelo oficial de justiça, sendo forçoso concluir que este cometeu equívocos em seu laudo; 3) deve-se, portanto, promover a reavaliação da coisa constrita.
+3. Excetuadas as hipóteses previstas no art. 871 do CPC, a avaliação dos bens penhorados, via de regra, será realizada por oficial de justiça, conforme arts. 870 e 872 do CPC. No âmbito da Justiça Federal, o oficial de justiça tem como atribuição, dentre outras, exatamente a avaliação de bens móveis e imóveis (art. 154, V, do CPC), sendo certo que os seus atos gozam de fé de ofício, somente podendo ser elidido por prova em contrário.
+4. No caso dos autos, a parte executada/agravante não apresentou um laudo pericial do bem de raiz ou mesmo qualquer outro documento idôneo capaz de demonstrar que a avaliação judicial da coisa está aquém de seu valor de mercado. As imagens que colacionou em seus embargos de declaração (opostos contra a decisão que rejeitou a impugnação ao valor do imóvel), extraídas de sites de imobiliárias, não se prestam para comprovar que o oficial de justiça cometeu equívocos em sua avaliação, porquanto se referem a outros bens da mesma região que, certamente, não possuem as mesmas características e peculiaridade daquele ora penhorado.
+5. Desse modo, a insurgência da parte devedora, fundada em alegações genéricas de que o laudo oficial lhe causa grande prejuízo, uma vez que alega haver uma suposta discrepância entre o valor atribuído ao bem constrito e o valor de mercado dos imóveis localizados na mesma área, não se enquadra nas previsões legais que autorizam nova avaliação.
+6. Agravo de instrumento improvido.
+No recurso especial (e-STJ fls. 739/750), os recorrentes apontam "a contrariedade aos arts. 170 e seguintes da CRFB, bem como as regras de menor onerosidade contida nos arts. 805, parágrafo único, 829, § 2º, 847, caput, 861, § 5º, todos do Novo CPC, que tratam da teoria da imprevisão, da necessidade de fundamentação das decisões judiciais, bem como do procedimento de consignação em pagamento" (e-STJ fl. 742).
+Em síntese, alegam (e-STJ fls. 746/749):
+A impugnação da reavaliação se dera visto que após um lapso temporal de mais de 11 (onze) anos da primeira avaliação, ainda que se tratando de imóvel localizado no Alecrim, bairro notadamente comercial da cidade de Natal/RN, o valor da reavaliação trouxera um acréscimo de apenas R$ 10.000,00 (dez mil reais) ao da avaliação originária.
+ ..
+Ora, ficara flagrante que, devida vênia, a Oficiala reavaliadora não se atentara a flutuação de valores no ramo imobiliário, principalmente quando se trata de um bairro com viés notadamente comercial e, portanto, muitíssimo valorizado, tal qual o bairro do Alecrim
+ ..
+Diante disso, conforme trazido nos Embargos de Declaração, houve a notoriedade da subavaliação realizada perante o imóvel penhorado nos autos, e da necessidade de reavaliação por perito com conhecimento técnico específico em avaliação de imóveis.
+ ..
+Reitere-se, ainda, que o Código de Processo Civil, em seu art. 873, contém o permissivo para nova avaliação em caso de dúvida fundada sobre o valor que fora atribuído aquela realizada anteriormente visto sua inexatidão ou discrepância, por exemplo.
+Em razão disso, tem-se que a decisão do Juízo a quo, quanto do julgamento da Impugnação à Reavaliação do bem penhorado, é notadamente capaz de suscitar, em mínimo, dúvida ao órgão judicante, tal qual previsão legal do art. 873, do Código de Processo Civil.
+Além, o laudo de avaliação guerreado transfigura-se em prova pericial, que para tanto, deve seguir os parâmetros pré-estabelecidos pelo Código de Processo Civil, em especial os o da Seção X, Da Prova Pericial.
+ ..
+O que se pretende pela alegação, é o deslinde justo, menos gravoso e fiel à legislação, de modo a evitar inclusive o enriquecimento sem causa, acaso a propriedade dada em garantia seja levada a expropriação por valor ínfimo.
+Isso se faz necessário, uma vez que o imóvel em questão possui suas particularidades, está localizada em uma área valorizada da cidade, carece de uma análise local, de comparações com outros imóveis em condições semelhantes, não deve-se conceber que no lapso dos últimos anos haja ínfima valorização. Situação que mostra poder ser ainda mais prejudicial, onerando demasiadamente o devedor, com a continuação dos atos expropriatórios. Dessa forma, há o claro risco de expropriação de um bem por preço vil, por valor muito aquém de seu real valor de mercado.
+Diante do exposto, resta plenamente demonstrado o cabimento da via recursal eleita, para que seja determinada nova reavaliação do bem penhorado, haja vista que há flagrante dúvida.
+As contrarrazões foram oferecidas às e-STJ fl. 770/773.
+Decisão que admitiu o recurso especial consta às e-STJ fl. 776.
+Passo a decidir.
+O Plenário do STJ decidiu que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado n. 3 do Plenário do STJ).
+Feito esse esclarecimento, destaco que o presente recurso tem origem em agravo de instrumento (e-STJ fls. 145/154), interposto contra a decisão que rejeitou a impugnação ao valor do imóvel penhorado.
+O Tribunal de origem negou provimento ao recurso. Destaco os fundamentos que deram suporte ao julgado recorrido (e-STJ fls. 731/732):
+Agravo de instrumento interposto contra decisão que, nos autos da execução fiscal originária, rejeitou a impugnação apresentada pela executada/agravante, mantendo a avaliação do imóvel penhorado realizada pelo Oficial de Justiça.
+Alega a parte agravante, em resumo, o seguinte: 1) em março de 2007, quando da penhora, o imóvel foi avaliado em R$ 110.000,00 (cento e dez mil reais), no entanto, em setembro de 2018, foi reavaliado por R$ 120.000,00, havendo o acréscimo de apenas R$ 10.000,00; 2) sites de imobiliárias evidenciam que o bem possui valor de mercado superior àquele encontrado pelo oficial de justiça, sendo forçoso concluir que este cometeu equívocos em seu laudo; 3) deve-se, portanto, promover a reavaliação da coisa constrita.
+Excetuadas as hipóteses previstas no art. 871 do CPC, a avaliação dos bens penhorados, via de regra,será realizada por oficial de justiça, conforme arts. 870 e 872 do CPC . No âmbito da Justiça Federal,o oficial de justiça tem como atribuição, dentre outras, exatamente a avaliação de bens móveis e imóveis (art. 154, V, do CPC ), sendo certo que os seus atos gozam de fé de ofício, somente podendo ser elidido por prova em contrário.
+No caso dos autos, a parte executada/agravante não apresentou um laudo pericial do bem de raiz ou mesmo qualquer outro documento idôneo capaz de demonstrar que a avaliação judicial da coisa está aquém de seu valor de mercado. As imagens que colacionou em seus embargos de declaração (opostos contra a decisão que rejeitou a impugnação ao valor do imóvel), extraídas de sites de imobiliárias, não se prestam para comprovar que o oficial de justiça cometeu equívocos em sua avaliação, porquanto se referem a outros bens da mesma região que, certamente, não possuem as mesmas características e peculiaridade daquele ora penhorado.
+Desse modo, a insurgência da parte devedora, fundada em alegações genéricas de que o laudo oficial lhe causa grande prejuízo, uma vez que alega haver uma suposta discrepância entre o valor atribuído ao bem constrito e o valor de mercado dos imóveis localizados na mesma área, não se enquadra nas previsões legais que autorizam nova avaliação.
+Assim, nego provimento ao agravo de instrumento.
+É como voto.
+Pois bem.
+O recurso não merece acolhimento.
+De início, é preciso ter presente que não cabe ao Superior Tribunal de Justiça analisar suposta violação de artigos e princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, ainda que para fins de prequestionamento, o que inviabiliza o exame do recurso no ponto em que se alega desrespeito ao art. 170da Constituição Federal.
+Sobre a questão, ilustrativamente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF  ..
+ ..
+III - O recurso especial possui fundamentação vinculada, não constituindo instrumento processual destinado a examinar possível ofensa à norma Constitucional.  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Além disso, os arts. 805, parágrafo único, 829,§ 2º, 847, e 861,§ 5º, todos do CPC/2015, dispositivos legais que os recorrentes apontam como violados em seu recurso especial, não foram objeto de prequestionamento pelo acórdão recorrido, o que atrai o óbice das Súmulas 282 do STF e 211 do STJ.
+Frise-se, por oportuno, que não houve oposição de embargos de declaração, a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO  ..
+ ..
+4. O Tribunal de origem não se manifestou sobre a prescrição (art. 1º do Decreto 20.910/32), tampouco essa alegação constou dos embargos declaratórios opostos para suprir eventual omissão (cf fls. 3587/3601). Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+ ..
+(AgRg no REsp 1.038.925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 1º/03/2016, DJe 08/03/2016).
+Ainda que fosse possível a superação de tal óbice processual, vale ter presente quea petição recursal, ainda que faça menção adiversos dispositivos legais (arts.805, parágrafo único, 829, § 2º, 847, 861, § 5º, todos do CPC/2015), deixa de explicitar de que forma o acórdão recorrido teria transgredido cada um deles, o que faz incidir, por analogia, a Súmula 284 do Supremo Tribunal Federal ("Inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia").
+Como se sabe,em razão do desdobramento do princípio da dialeticidade, impõe-se à parte recorrente o ônus de explicitar os motivos pelos quais entende que o julgado recorrido teria contrariado a legislação federal (incluindo aí a especificação do dispositivo legal violado),  pois  não  cabe  ao  julgador  ir  em  busca  do  fundamento  que  sustente  a  pretensão  da  parte nem suprir as eventuais lacunas existentes no recurso.
+Por isso que "a mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal, a atrair a incidência da Súmula 284/STF" (STJ, AgRg no AREsp 722.008/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015).
+Assim, o recurso não merece ser conhecido.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial teve origem em agravo de instrumento.
+Publique-se. Intimem-se.
