@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco do Brasil S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, nos termos da ementa assim redigida (e-STJ, fl. 730):
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. DIRIETO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. COMPETÊNCIA TERRITORIAL. CONSUMIDOR. AUTOR. SEDE DA PESSOA JURÍDICA. RECURSO CONHECIDO E PROVIDO. DECISÃO CASSADA.
+1. Conforme entendimento sedimentado do Superior Tribunal de Justiça, a definição da competência territorial em matérias afetas às relações de consumo deve ser aferida a partir do interesse do consumidor.
+2. Não configura escolha aleatória o ajuizamento da ação no foro de domicílio da sede da pessoa jurídica, nos termos do artigo 53, III, "a" do Código de Processo Civil, devendo ser, portanto, observada a escolha do consumidor.
+3. Recurso conhecido e provido. Decisão cassada.
+Em suas razões de recurso especial (e-STJ, fls. 797-822), o recorrente alega violação dos arts. 373, I, e 927, IV,do CPC/2015; 5º da Lei Complementar n.8/1970; 3º, 4º e 12 do Decreto-Lei n. 9.978/2019, que revogou o Decreto-Lei n. 4.751/2003; 4ª-A da Lei n. 9.365/1996; e 2º e 3º do Código de Defesa do Consumidor, defendendo, entre outras questões, sua ilegitimidade para responder por eventuais irregularidades na gestão do Programa de Formação do Patrimônio do Servidor Público (PASEP), uma vez se tratarde mero arrecadador e depositário desse fundo governamental, sendo de responsabilidade da União.
+Foram apresentadas contrarrazões(e-STJ, fls. 831-845).
+A Corte de origem admitiu o apelo extremo (e-STJ, fls. 870-871).
+Brevemente relatado, decido.
+Dispõe o art. 9º do RISTJ que a natureza da relação jurídica em litígio determina a competência entre as Seções desta Corte, e, no caso, está-se diante de competência da Primeira Seção, disciplinada no inciso IX do § 1º do referido dispositivo legal.
+Isso porque a matéria da lide trata sobre a responsabilidade do Banco do Brasil por suposta má gestão em conta individual do fundo relativo ao PASEP, que é uma espécie tributária, qual seja, contribuição social para o financiamento da seguridade social.
+Acerca da temática, confira-se o seguinte julgado prolatado pela Segunda Turma do STJ, que compõe a Primeira Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PIS/PASEP. BANCO DO BRASIL.ILEGITIMIDADE. PRECEDENTES.
+1. Cuida-se de Agravo Interno contra decisum que deu provimento ao Recurso Especial.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. Na origem, trata-se de Recurso Especial interposto contra acórdão do Tribunal de origem que considerou o Banco do Brasil como parte legítima na ação de responsabilidade civil, pela má administração no fundo Pasep.
+4. A Súmula 77 do Superior Tribunal de Justiça (STJ) consagrou entendimento de que "a Caixa Econômica Federal é parte ilegítima para configurar no pólo passivo das ações relativas às contribuições para o fundo PIS/PASEP". Esse raciocínio, por analogia, é extensivo ao Banco do Brasil, pois, se a Caixa tinha a administração do PIS e o recorrente a administração do Pasep, com a unificação do Fundo perderam tais estabelecimentos financeiros a administração deles, como acabou reconhecido, não obstante apenas relativamente à Caixa, pela referida Súmula. Nesse sentido: EDcl no AgInt no AREsp 751.969/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/10/2019; REsp 747.628/MG, Rel. Ministro Castro Meira, Segunda Turma, DJ 3/10/2005, p. 225; REsp 333.871/SP, Rel. Ministro Franciulli Netto, Segunda Turma, DJ 1º/7/2002, p. 309.
+5. O entendimento do decisum agravado não merece reparo visto refletir o posicionamento dominante no âmbito do STJ de que "o Banco do Brasil não tem legitimidade para figurar no polo passivo das ações relativas às contribuições para o PIS/PASEP", vide: REsp 1.865.623/DF, Ministra Regina Helena Costa, DJe 13/8/2020; REsp 1.877.552/DF, Ministra Regina Helena Costa, DJe 13/8/2020; REsp 1.873.629/DF, Ministra Regina Helena Costa, DJe 18/8/2020; REsp 1.883.705/DF, Ministra Regina Helena Costa, DJe 26/8/2020; REsp 1.885.931/DF, Ministra Regina Helena Costa, DJe 27/8/2020, e REsp 1.886.159/SE, Ministra Regina Helena Costa, DJe 26/8/2020.
+6. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+7. Agravo Interno não provido.
+(AgInt no REsp n. 1.903.352/DF, RelatorMinistro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/3/2021, DJe 16/3/2021).
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos Ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. RESPONSABILIDADE POR SUPOSTA MÁ GESTÃO EM CONTA DO PIS/PASEP. CONTROVÉRSIA ACERCA DA LEGITIMIDADE PASSIVA AD CAUSAM DO BANCO DO BRASIL S.A. MATÉRIA DE COMPETÊNCIA DA PRIMEIRA SEÇÃO (ART.9º, § 1º, IX, DO RISTJ). REDISTRIBUIÇÃO DOS AUTOS DETERMINADA.
