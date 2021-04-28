@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ, fl. 470):
+DIREITO PREVIDENCIÁRIO. PEDIDO DE RENÚNCIA DE APOSENTADORIA E RESTITUIÇÃO DOS VALORES RECEBIDOS PARA CONCESSÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES (85/95 PONTOS). ARTIGO 29-C DA LEI 8.213/91.
+1. No caso, o pedido é mutatis mutandis análogo ao reconhecido como "direito ao melhor benefício", tese designada como de "concessão do benefício mais vantajoso", matéria também julgada pelo Supremo Tribunal Federal sob o rito da repercussão geral, desta feita no RE 630.501/RS (Tema 334), que estabeleceu, entre outras premissas, que "cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais (Relatora: Min. ELLEN GRACIE, Relator p/ Acórdão: Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 21/02/2013). De fato, não se requer a consideração de período contributivo posterior (tese rejeitada pelo STF no tema 503 de repercussão geral); requer, sim, a parte autora, apenas a que seja revista a aposentadoria que recebe, com a incidência das novas regras de cálculo da renda mensal inicial, qual seja, a aplicação do critério "85 pontos" e não incidência do fator previdenciário (art. 29-C da Lei 8.213/91 introduzido pela MP 676/2015), para o que, inclusive, se disponibiliza a devolver os valores já recebidos.
+2. Nada obsta que o segurado da Previdência Social peça a revisão da aposentadoria concedida, mediante devolução voluntária dos valores já pagos, para a concessão de nova aposentação, em conformidade com a legislação vigente (regra dos 85 pontos), que lhe é mais vantajosa.
+Os embargos de declaração (e-STJ, fls. 476/486) foram rejeitados, nos termos da decisão de e-STJ, fls. 495/496.
+O recorrente alega violação dos arts. 29, I, e 29-C da Lei n. 8.213/1991.
+Defende a manutenção do fator previdenciário para a aposentadoria integral pela fórmula 85/95, que é progressiva, instituída pela Medida Provisória n. 676/2015, convertida na Lei n. 13.183/2015.
+Sustenta que os efeitos da nova lei são para o futuro e não deve retroagir a data da DER, respeitando o princípio do tempus regit actum.
+Argumenta não ser possível a revogação do ato concessório, ainda que como dever de devolução dos valores recebidos.
+Admitido o recurso especial na origem (e-STJ, fl. 524), subiram os autos a esta Corte de Justiça.
+Contrarrazões apresentadas (e-STJ, fls. 520/521).
+É o relatório.
+O Tribunal de origem tratou do direito ao benefício mais vantajoso sob a seguinte fundamentação (e-STJ, fls. 467/468):
+Ocorre que o caso dos autos não se subsume na controvérsia da desaposentação decidida sob o rito dos recursos repetitivos, porque a parte autora não permaneceu em atividade após sua aposentadoria, não pretendendo, portanto, nova prestação, no contexto do artigo 18, § 2º, da Lei de Benefícios, cuja constitucionalidade foi confirmada pelo STF no tema 503.
+De fato, não requer a consideração de período contributivo posterior; requer, sim, apenas que seja revista a aposentadoria que recebe, com a incidência das novas regras de cálculo da renda mensal inicial, qual seja, a aplicação do critério "85pontos" e não incidência do fator previdenciário (art. 29-C da Lei 8.213/91 introduzido pela MP 676/2015), para o que, inclusive, se disponibiliza a devolver os valores já recebidos.
+Nessas condições, por estar em conformidade com o entendimento desta relatoria, impõe-se a confirmação da sentença.
+De fato, o pedido é mutatis mutandis análogo ao reconhecido como "direito ao melhor benefício", tese designada como de "concessão do benefício mais vantajoso", matéria também julgada pelo Supremo Tribunal Federal sob o rito da repercussão geral, desta feita no RE 630.501/RS (Tema 334), que estabeleceu, entre outras premissas, que" cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais (Relatora: Min. ELLEN GRACIE, Relator p/ Acórdão: Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 21/02/2013).
+De fato, se é possível, segundo o entendimento do STF, a retroação da DIB, considerando a mesma base fática, para concessão de benefício mais vantajoso, forçoso concluir ser possível também, por lógica, o pedido de revisão/concessão de aposentadoria segundo as regras vigentes, para que a renda seja mais favorável ao segurado. Aliás, com maior razão no caso dos autos, em que a parte autora oferece até mesmo a devolução dos valores já pagos pela autarquia.
+Nesse contexto, verifica-se que a assertiva do acórdão combatido não foi devidamente impugnada pelo recorrente, nas razões do especial, o que, por si só, mantém incólume o acórdão combatido.
+A não impugnação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. RESTITUIÇÃO DE VALORES. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à devolução de valores recebidos a maior no pagamento de pensão por morte.
+2. A Corte regional consignou não ser devida a devolução, baseando-se nas peculiaridades da demanda.
+3. No caso concreto, verifica-se que a parte se furtou ao dever de impugnar a compreensão do Tribunal a quo. Sendo assim, como o fundamento não foi atacado pela parte recorrente, sendo apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o impedimento da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial.".
+5. Recurso Especial não conhecido.
+(REsp 1.658.339/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/4/2017, DJe 11/5/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITOS RURAIS ORIGINÁRIOS DE OPERAÇÕES FINANCEIRAS CEDIDOS À UNIÃO. MEDIDA PROVISÓRIA N. 2.196-3/2001. DÍVIDA ATIVA DA UNIÃO. SÚMULA N. 83/STJ. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMLA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. FALTA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+(..)
+VI - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1.629.094/RS, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
