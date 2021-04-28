@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão que negou seguimento aorecurso especial interpostopelaFAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, no qual julgada controvérsia relativa ao pagamento de verbas trabalhistas em decorrência de serviços prestados ao Serviço Auxiliar Voluntário (SAV) da Polícia Militar do Estado de São Paulo.
+O especial é por negativa de vigência à Lei nº 10.029/2000. Argumenta-se que o artigo 6º, parágrafo 2º, dessa Lei, julgado válido por outro Tribunal, dispõe que "a prestação voluntária dos serviços não gera vínculo empregatício, nem obrigação de natureza trabalhista, previdenciária ou afim".
+O especial também era pela correção dos consectários legais da condenação, porém, a Corte a quo já adequou o acórdão ao decidido no RE nº 870.947/SE.
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso especial, pela fundamentação empregada no aresto objurgado, é incabível para o desiderato nele contido.
+O Tribunal a quo julgou inválida a Lei nº 10.029/2000 e a Lei estadual nº 11.064/2002 por meio de Ação Direta de Inconstitucionalidade.
+Não cabe a esta Corte Superior, em recurso de natureza especial, discutir a validade de lei local (cf. Súmula nº 280/STF, bem como o seguinte precedente: AgInt no AREsp 1664075/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/10/2020), tampouco a higidez de lei local e de lei federal quando em confronto com a Constituição Federal (cf. EDcl no AgRg no Ag 342.160/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, DJ 29/08/2005, p. 443).
+Também sobre a matéria:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LEI 8.742/93. ARTIGOS 203 E 204 DA CONSTITUIÇÃO FEDERAL. MATÉRIA CONSTITUCIONAL.
+1. Negada a validade de lei federal pelo acórdão regional, não se conhece da insurgência especial que pretende, em verdade, conferir-lhe eficácia, tendo-a por constitucional.
+2. A apreciação de violação de dispositivo constitucional é estranha ao âmbito de cabimento do recurso especial, impondo-se a prolação do juízo negativo de admissibilidade (Constituição da República, artigos 102, inciso III, alínea "b" e 105, inciso III).
+3. Agravo regimental improvido.
+(AgRg no REsp 317.224/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 04/10/2001, DJ 04/02/2002, p. 598).
+Além disso, sabe-se que o recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial). É como julgado em casos análogos: REsp 1913141, Rel. Min. OG FERNANDES, DJe 08/02/2021; REsp 1913861, Rel. Min. ASSUSETE MAGALHÃES, DJe 19/02/2021.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL E ADMINISTRATIVO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. SERVIDOR PÚBLICO. PAGAMENTO DE VERBAS TRABALHISTAS EM DECORRÊNCIA DE SERVIÇOS PRESTADOS AO SERVIÇO AUXILIAR VOLUNTÁRIO (SAV) DA POLÍCIA MILITAR DO ESTADO DE SÃO PAULO. DECLARAÇÃO DIRETA DE INCONSTITUCIONALIDADE DA LEI Nº 10.029/2000 E DA LEI ESTADUAL Nº 11.064/2002. MATÉRIA ESTRANHA À INSURGÊNCIA CABÍVEL PELA VIA DO RECURSO ESPECIAL. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
