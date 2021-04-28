@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 58):
+ACIDENTÁRIA - PROCEDÊNCIA DO FEITO - APELAÇÃO INTERPOSTA PELO INSS - RAZÕES RECURSAIS COM CAUSAS DE PEDIR DIVERSAS DAQUELA DEDUZIDA NA INICIAL - NÃO CONHECIMENTO.
+"Não comporta conhecimento a apelação cujas razões vêm embasadas em causas de pedir diversas daquela deduzida na inicial".
+ACIDENTÁRIA - PERDA AUDITIVA - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Atestada pela prova médica a redução da capacidade profissional em razão da perda auditiva de origem ocupacional que acomete o autor, de rigor a concessão do auxílio-acidente com início a partir da data da juntada (liberação) do laudo médico-pericial nos autos.
+Os valores em atraso serão apurados na forma da Lei 8.213/91 com atualização pelo IGP-DI e acrescidos de juros de mora (estes à base mensal conforme Lei 11.960/09). A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+ACIDENTÁRIA - VERBA HONORÁRIA - ARBITRAMENTO NOS MOLDES DA SÚMULA 111 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+"À luz da Súmula 111 do Superior Tribunal de Justiça, fixa-se a verba honorária, imposta ao INSS, em 15% sobre o montante devido até a data do julgado monocrático".
+Apelação do INSS não conhecida; sentença reformada em parte por força do reexame necessário e do provimento parcial do recurso do autor.
+Embargos de Declaração rejeitados.
+Em suas razões, o recorrente sustenta ofensa ao art. 41-A da Lei n. 8.213/1991, com a redação dada pela Lei n. 11.430/2006; art. 5º, da Lei n. 11.960/2009 e art. 1º-F da Lei n. 9494/1997, porquanto o índice de correção monetária a ser aplicado a partir de 2006 para pagamento de débitos previdenciários deve ser o INPC e a TR a partir de 2009, excluindo-se a aplicação do IGP-DI e do IPCA-E.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 299-300.
+É o relatório. Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feito essa consideração, no que respeita à questão dos juros e correção monetária, o Supremo Tribunal Federal, no julgamento do RE 870.947/SE, Rel. Min. Luiz Fux, Tribunal Pleno, Dje de 20/11/2017), em sede de repercussão geral, decidiu que o art. 1º-F da Lei n. 9.494/1997 (redação dada pela Lei n. 11.960/2009) é constitucional quanto aos juros moratórios incidentes sobre condenações oriundas de relação jurídica não-tributária, devendo ser observados os critérios fixados pela legislação infraconstitucional, notadamente os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Cabe ainda anotarque o Plenário do STF concluiu o julgamento do RE n. 870.947/SE, submetido ao rito da repercussão geral (Tema 810/STF), quando, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida no referido leading case, conferindo eficácia prospectiva à declaração de inconstitucionalidade do índice previsto no artigo 1º-F da Lei 9.494/1997, consoante acórdão publicado no DJe de 18/10/2019. Dessa forma, prevaleceu o seguinte entendimento:
+"I - O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; II - O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina".
+Por sua vez, aPrimeira Seção desta Corte, no julgamento do REsp 1.495.144/RS, representativo da controvérsia, que assentou as seguintes diretrizes quanto à aplicabilidade do art. 1º-F da Lei n. 9.494/1997, com redação dada pela Lei n. 11.960/2009, em relação às condenações impostas à Fazenda Pública:
+ ..
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A CONDENAÇÃO JUDICIAL DE NATUREZA ADMINISTRATIVA EM GERAL (RESPONSABILIDADE CIVIL DO ESTADO).
+TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+ ..
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91.
+Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art.1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+ ..
+(REsp 1.495.144/RS, Rel. Ministro Mauro Campbell Marques, Primeira seção, DJe 20/03/2018, grifos nossos)
+Nesse mesmo sentido, confira-se o seguinte julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELA LEI 11.960/2009 ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. DECISÃO DO STF NOS EMBARGOS DE DECLARAÇÃO NO RE 870.947/SE. MODULAÇÃO REJEITADA. QUESTÕES DECIDIDAS PELA TESE FIRMADA NO TEMA 905/STJ.
+ ..
+6. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar parcialmente a irresignação.
+7. Na hipótese, por se tratar de condenação judicial de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o artigo 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+8. No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+9. Recurso Especial parcialmente conhecido, apenas em relação à preliminar de violação do art. 535 do CPC/1973, e, nessa parte, parcialmente provido.
+(REsp 1.900.726/SP, Rel. Ministro Herman benjamin, segunda turma, julgado em 24/11/2020, DJe 18/12/2020)
+Ocorre que, no caso dos autos, a Corte de origem adotou o seguinte entendimento ao decidir a controvérsia (fls. 64-65):
+ ..
+Para melhor direcionar a futura execução cumpre-me consignar que os valores em atraso serão corrigidos monetariamente pelo IGP-DI (não se cogita de aplicação da Taxa Referencial (TR) na hipótese por força do julgado do Supremo Tribunal Federal que, em sede da ADI 4.357, expressamente declarou inconstitucional a adoção do índice oficial de remuneração básica da caderneta de poupança como fator de correção dos débitos a serem adimplidos pela Fazenda Pública) e acrescidos de juros de mora contados a partir do marco inicial do benefício, mês a mês de modo decrescente, à basemensal conforme, neste aspecto (porque não alterado em sede da aludida ADI), a disciplina da Lei 11.960/09.
+ ..
+Ressalto, também, que o IPCA-E será o indexador a ser aplicado, a partir do termo final considerado no cálculo de liquidação que vier a ser aprovado na execução, para efeito de atualização do precatório, conforme entendimento jurisprudencial a respeito.
+Dessa forma, a instância ordinária decidiu a controvérsia contrariamente ao entendimento desta Corte, segundo a qualas condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991, assim como, no período posterior à vigência da Lei 11.960/2009.
+Ante o exposto, dou parcial provimento ao recurso especial, para determinar a incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei n. 11.430/2006, assim como no período posterior à vigência da Lei 11.960/2009.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO DE NATUREZA PREVIDENCIÁRIA. APLICABILIDADE DO CPC/2015. AUXÍLIO-ACIDENTE. PRESTAÇÕES. CORREÇÃO MONETÁRIA. INPC. ADEQUAÇÃO RESP N. 1.495.146/MG (TEMA 905), JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. RECURSO PARCIALMENTE PROVIDO.
