@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Silvia Maria Machado da Silva e outra, contra decisão que indeferiu o pedido de tutela de urgência formulado nos autos da Ação Rescisória n. 0801263-23.2021.4.05.0000 movida em desfavor da União, em trâmite no Tribunal Regional Federal da 5ª Região.
+Alegam as agravantes que, considerando o teor das Leis 3.765/1960 e 4.242/1963, e na condição de filhas do ex-combatente Ronaldsa Machado Dias, falecido em 08/02/1983, e de Zélia Oliveira Machado, falecida em 09/02/2007, fazem jus à imediata implantação do benefício de pensão de ex-combatente, pois encontram-se incapacitadas e sem condições de prover os próprios meios de subsistência, além de não receberem qualquer importância dos cofres públicos.
+Afirmam que são pessoas idosas, maiores de 70 (setenta) anos, que receberam ao longo de todo o processo originário a pensão deixada ante o falecimento do seu pai e mãe, de modo que a falta ou a inexistência de recurso pode colocar em risco a manutenção de suas vidas.
+Defendem que a probabilidade do direito e o perigo do dano são latentes, pois a causa de pedir é de cunho alimentar e o direito da parte agravante encontra-se mais do que subsidiado na legislação, princípio e jurisprudência pátria.
+Requerem, ao final, a reforma a decisão agravada e deferimento da tutela de urgência requerida com a finalidade de determinar que a parte adversa proceda com a imediata reimplantação do benefício de pensão de ex-combatente em favor das agravantes, em razão do falecimento do seu instituidor.
+É o relatório. Decido.
+Como relatado, objetivam as agravantes que esta Corte proceda a reforma da decisão monocrática proferida pelo Tribunal Regional Federal da 5ª Região nos autos da Ação Rescisória n. 0801263-23.2021.4.05.0000 e, assim, defira o pedido de tutela de urgência para determinar que a União proceda a imediata implantação do benefício de pensão de ex-combatente.
+Na presente hipótese, contudo, observa-se que sequer foi instaurada a via recursal que dá ensejo à competência desta Corte Superior, porquanto não exaurida a instância ordinária e, por conseguinte, ainda não interposto o necessário recurso especial.
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do agravo.
+Publique-se. Intimem-se.
