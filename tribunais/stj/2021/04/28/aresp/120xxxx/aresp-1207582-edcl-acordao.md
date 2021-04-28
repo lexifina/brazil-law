@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Prejudicada a petição n. 01057050/2020.
+4.Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão, assim ementado (e-STJ, fl. 505):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO. SERVIDOR PÚBLICO. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. PRESCRIÇÃO DO DIREITO DE REQUERER A ANULAÇÃO DO ATO ADMINISTRATIVO. OCORRÊNCIA. ARTIGO 1º DO DECRETO 20.910/1932. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+O embargante sustenta, em síntese, que o acórdão ora embargado incorreu em omissão por negativa de prestação jurisdicional, eis que deixou de examinar uma alegação deduzida pelo Embargante que tem o condão de, ao menos em tese, modificar a conclusão de acerca da incidência do prazo prescricional quinquenal à espécie." (e- STJ, fl. 516).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Prejudicada a petição n. 01057050/2020.
+4.Embargos de declaração rejeitados.
+VOTO
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, ao assentar que "na hipótese dos autos, mesmo que se tratasse de ato administrativo nulo, não seria possível afastar o reconhecimento da prescrição do fundo de direito se decorridos mais de 5 anos entre o ato administrativo que se busca anular e a propositura da ação em se pretende a reintegração de Policial Militar." (e-STJ, fl. 510)
+Ademais, é cediço que a ausência de advogado constituído ou defensor dativo não acarreta a nulidade do processo administrativo, desde que seja dada ao investigado a oportunidade do pleno exercício do contraditório e da ampla defesa - hipótese dos autos -, conforme entendimento jurisprudencial consagrado por esta Corte:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. SUSPENSÃO POR SESSENTA DIAS. INEXISTÊNCIA DE VÍCIOS CAPAZES DE MACULAR A LEGALIDADE DO PROCEDIMENTO DISCIPLINAR.SEGURANÇA DENEGADA.
+1. Em seara administrativo-disciplinar, apenas por ocasião do indiciamento é necessária a descrição detalhada dos fatos atribuídos à conduta do investigado e das possíveis infrações disciplinares por ele praticadas, de modo a permitir-lhe o amplo exercício do direito de defesa.
+2. Hipótese na qual o impetrante teve plena ciência das acusações que lhe foram dirigidas, bem como dos fatos que resultaram na instauração do processo administrativo disciplinar, de modo a possibilitar o exercício do contraditório e da ampla defesa.
+3. O excesso de prazo para conclusão do processo administrativo disciplinar não é causa de nulidade, quando não demonstrado nenhum prejuízo à defesa do servidor.
+4. A ausência de advogado constituído ou de defensor dativo com habilitação não importa em nulidade de processo administrativo disciplinar, desde que seja dada ao acusado a oportunidade do pleno Superior Tribunal de Justiça 17 OZ exercício do contraditório e da ampla defesa. Aplicação da Súmula Vinculante n. 5 do STF.
+5. Desde que devidamente fundamentado, o indeferimento de novas provas consideradas impertinentes ou de nenhum interesse para o esclarecimento dos fatos, a juízo da comissão processante, não macula a integridade do processo administrativo disciplinar.
+6. A despeito de preverem os arts. 129 e 130 da Lei 8.112/90 a possibilidade de que a pena de advertência seja aplicada na hipótese de prática da conduta prevista no art. 116, III, daquele diploma legal, fica a critério do Administrador a possibilidade de, diante das particularidades do caso concreto, aplicar penalidade mais grave.
+Precedentes.
+7. Não se mostra possível ao Poder Judiciário adentrar o mérito administrativo no intuito de reformar a decisão que, dentro de juízo de discricionariedade, optou por aplicar pena mais grave ao impetrante, de maneira absolutamente fundamentada.
+8. Segurança denegada. (MS 13.463/DF, Rel. Min. Rogério Schietti Cruz, Terceira Seção, DJe 13/4/2015).
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE DA POLÍCIA FEDERAL. DEMISSÃO.PROCESSO ADMINISTRATIVO DISCIPLINAR. ANULAÇÃO.COMISSÃO PERMANENTE DISCIPLINAR. RESPEITO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DO JUIZ NATURAL. COMISSÃO DESIGNADA PELO SUPERINTENDENTE REGIONAL DO DEPARTAMENTO DE POLÍCIA FEDERAL.
+POSSIBILIDADE. LEGALIDADE. INDEFERIMENTO MOTIVADO DE DILIGÊNCIAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO PREJUÍZO.PAS DE NULLITÉ SANS GRIEF. IMPROBIDADE ADMINISTRATIVA. PENALIDADE DE DEMISSÃO.DESNECESSIDADE DE AÇÃO JUDICIAL. INDEPENDÊNCIA DAS ESFERAS ADMINISTRATIVA, PENAL E CIVIL.
+1. Decorrendo a pena administrativa da prova do cometimento da infração perpetrada pelo servidor e constando do relatório da comissão processante os motivos (fatos, provas e fundamentos) que justificaram a penalidade, não há falar em nulidade do processo administrativo.
+2. O processo administrativo não foi conduzido por comissão disciplinar temporária ou ad hoc, mas sim pela Primeira Comissão Permanente de Disciplina, constituída pela Portaria n. 169/2007, de 11/5/2007 (fl. 139), anteriormente ao recebimento da cópia dos autos da ação penal, na data de 28/5/2007 (fl. 141), que resultou na Superior Tribunal de Justiça 17 OZ instauração do Parecer n. 119/2007, da Comissão de Disciplina do Departamento de Polícia Federal, propondo a formalização de processo administrativo disciplinar para apuração das infrações disciplinares perpetradas (fl. 577).
+3. Segundo a compreensão firmada nesta Corte Superior, o Superintendente Regional de Polícia Federal tem competência para designar os membros e comissão permanente de disciplina, bem como determinar a abertura de procedimento administrativo, no âmbito da respectiva Superintendência (MS n. 14.401/DF, Ministro Felix Fischer, DJe 23/3/2010).
+4. No tocante às irregularidades indicadas como nulidades, carece a impetração de prova do direito líquido e certo alegado, inexistindo elementos pré-constituídos dos prejuízos causados à defesa, devendo ser aplicado in casu o princípio do pas de nullité sans grief.
+5. A despeito da declaração da revelia, em virtude da não apresentação da defesa prévia, motivo pelo qual foi constituído defensor ad hoc, consta dos autos ter sido o acusado notificado previamente de todos os atos, não existindo cerceamento de defesa, nem mesmo pela ausência de notificação para constituir advogado de sua preferência, após a renúncia do anterior.
+6. Quanto à necessidade de advogado no curso do processo administrativo, adoto o entendimento do Pretório Excelso no sentido de que a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição (Súmula Vinculante 5/STF).
+7. No tocante à alegação de cerceamento de defesa pelo indeferimento de diversos pedidos (diligências), o impetrante não conseguiu demonstrar nenhum prejuízo evidente capaz de resultar na nulidade do ato demissório, ou mesmo do processo administrativo, verificando- se, na verdade, tratar-se de medidas procrastinatórias do investigado, as quais foram motivada e fundamentadamente negadas pela comissão processante do processo administrativo.
+8. É assente no Superior Tribunal de Justiça o entendimento de que a infração disciplinar que configura ato de improbidade acarreta demissão, independentemente de ação judicial prévia, consequência direta da independência das esferas administrativa, civil e penal.
+9. A decisão da autoridade julgadora, fundada no lastro probatório constante dos autos do processo administrativo disciplinar, mostra-se em consonância com os princípios legais e constitucionais, inexistindo qualquer nulidade.
+10. Segurança denegada. (MS 14.968/DF, Rel. Min. Sebastião Reis Júnior, Terceira Seção,DJe 25/3/2014).
+Aliás, a questão foi definitivamente solucionada pela Suprema Corte, por meio da edição da Súmula Vinculante 5: "A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição."Portanto, não há que se falar em nulidade do procedimento administrativo por falta de defensor dativo.
+A matéria objeto da controvérsia, como visto, encontra-se devidamente fundamentada e motivada, de modo que a pretensão doembarganteevidencia mero inconformismo, na medida em que, sob a pecha de omissão objetivao reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente ao acórdão, hipótese, porém, a que não se destina o recurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Por fim, é de conhecimento geral que os embargos de declaraçãonão se prestam para prequestionar dispositivos constitucionais, tampouco para sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+Prejudicada a petição n. 01057050/2020 de fls. 536-539.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
