@@ -1,0 +1,24 @@
+DECISÃO:
+EMENTA: DIREITO PROCESSUAL PENAL. RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA A PRECEDENTE NÃO VINCULANTE. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+1. A reclamação dirigida ao Supremo Tribunal Federal só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). No segundo caso, exige-se que o pronunciamento tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte, ou então que tenha efeito vinculante (art. 988, II a IV, e § 5º, II).
+2. A alegação de ofensa ao direito objetivo ou a precedente e súmula sem eficácia vinculante não dá ensejo à propositura de reclamação.
+3. Ademais, não é cabível o uso da reclamação como meio de sucedâneo recursal.
+4. Reclamação a que se nega seguimento. Liminar prejudicada.
+    1. Trata-se de reclamação, com pedido de liminar, ajuizada por Emersom Brasil da Silva, fundamentada nos arts.102, I, l, e 103-A, da CF, em face de decisão proferida nos autos Habeas Corpus nº 0090747-93.2020.8.19.0000, em trâmite na 4ª Câmara Criminal do TJRJ, que teria violado a autoridade do princípio constitucional do non bis in idem.
+    2. O autor alega que está sendo processado em duas comarcas distintas (Bangu/RJ e Capital/RJ) pelo mesmo fato típico, qual seja, o delito de associação ao tráfico de drogas, disposto no art. 35 da Lei nº 11.343/06. Requer, liminarmente, o trancamento da ação penal que tramita na 1ª Vara da Regional Bangu/RJ, sob o Processo de nº 0038618-57.2015.8.19.0204.
+    3. É o relatório. Decido.
+    4. Dispenso as informações, bem como o parecer ministerial, diante do caráter reiterado da matéria (art. 52, parágrafo único, do RI/STF).
+    5.  A reclamação dirigida a esta Corte só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). No segundo caso, exige-se que o pronunciamento tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte, ou então que tenha efeito vinculante (art. 988, II a IV, e §5º, II).
+    6. O autor alega que o ato reclamado viola o princípio jurídico non bis in idem, pelo qual é entendido a vedação da dupla punição pelo mesmo fato. Para fundamentar sua pretensão, relaciona precedentes de tribunais de primeira e segunda instâncias, bem como o Informativo 650 do Supremo Tribunal Federal. Contudo, tais precedentes consubstanciam processos de índole subjetiva, dos quais a reclamante não fez parte, além de serem desprovidos de eficácia erga omnes ou efeitos vinculantes, o que afasta o cabimento da reclamação.
+    7. A alegação de ofensa a precedente sem força vinculante ou ao direito objetivo, tal qual ocorreu no presente caso (princípio do non bis in idem), não dá ensejo à propositura de reclamação, conforme já decidiu o Supremo Tribunal Federal nas Rcl 4.381 AgR, Rel. Min. Celso de Mello, e Rcl 5.391 AgR, Rel. Min. Dias Toffoli. Veja-se, a propósito, a Rcl 23.051 AgR, sob a minha relatoria:
+    “Ementa: AGRAVO REGIMENTAL EM RECLAMAÇÃO. DESCABIMENTO DA VIA. ALEGAÇÃO DE OFENSA A DIREITO OBJETIVO E A PRECEDENTE SEM FORÇA VINCULANTE. PRECLUSÃO DA DISCUSSÃO SOBRE A QUESTÃO IMPUGNADA NAS INSTÂNCIAS INFERIORES.
+    1. A reclamação dirigida a esta Corte só é cabível quando sustenta usurpação de sua competência, ofensa à autoridade de suas decisões ou contrariedade a Súmula Vinculante (CRFB/1988, arts, 102, I, l, e 103-A, § 3º). No segundo e no terceiro casos, exige-se que o pronunciamento tenha efeito vinculante ou, ao menos, que tenha sido proferido em processo subjetivo no qual o reclamante figurou como parte.
+    2. A alegação de ofensa ao direito objetivo ou a enunciado de Súmula sem força vinculante não dá ensejo à propositura de reclamação.
+    3. Não cabe reclamação para o exame da tese de fundo quando o que se pretende, na verdade, é viabilizar um recurso não interposto.
+    4. Agravo regimental desprovido.”
+    8.  Ressalto, por fim, que a inadmissão da reclamação não implica, necessariamente, a afirmação de acerto do ato reclamado, mas apenas que a reclamação não se presta à análise de suposta desconformidade de ato com o direito objetivo. Caso entenda pertinente, o reclamante deve utilizar meio processual próprio para fazer valer os seus argumentos. Nas palavras do Ministro Luiz Fux, “a reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade se revela estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.637-AgR, Rel. Min. Luiz Fux).
+    9.  Diante do exposto, com fundamento no art. 21, §1º, do RI/STF, nego seguimento à reclamação , ficando prejudicada a análise do pedido cautelar.
+    Publique-se.
+          Brasília, 28 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
