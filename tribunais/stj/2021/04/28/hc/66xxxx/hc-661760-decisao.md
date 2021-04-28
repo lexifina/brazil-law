@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de IGOR AUGUSTO VIEIRA CAMACHO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0037748-72.2007.8.26.0050.
+Consta dos autos que o Paciente foi condenado às penas de 8 (oito) anos de reclusão, em regime inicial fechado, e 1.200 (mil e duzentos) dias-multa, como incurso nos arts. 33,caput, e 35,caput, ambos da Lei n. 11.343/2006, em razão da apreensão de5 comprimidos deecstasye 20g de cocaína, além de R$ 2.000,00, "fruto da mercancia de entorpecentes" (fl. 14).
+A Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+Nestewrit, a parte Impetrante alega que não houve fundamentação idônea para a fixação do regime fechado para início de cumprimento da pena.
+Requer, liminarmente e no mérito, a fixação do regime inicial semiaberto.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade dedecidir liminarmente, em sede dehabeas corpuse de recurso emhabeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores"(AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020; sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+Como se sabe, o Plenário do Supremo Tribunal Federal, ao julgar o HC n. 111.840/ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento da pena nestes crimes, o disposto no art. 33, c.c. o art. 59, ambos do Código Penal e as Súmulas n. 440/STJ e 718 e 719/STF.
+Impende salientar, ainda, que a questão acerca do regime prisional ora discutida tem sido apreciada repetidas vezes pelo Superior Tribunal de Justiça, o que culminou na edição da Súmula n. 440, segundo a qual, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, têm sido os reiterados julgados do Supremo Tribunal Federal, cuja jurisprudência está espelhada nos Verbetes Sumulares n. 718 e 719, respectivamente,in verbis:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Ademais, o art. 33, § 2.º, alíneab, do Código Penal dispõe que "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la emregime semi-aberto".
+No caso, observa-se que o Tribunala quomanteve o regime prisional fechado com as seguintes considerações (fl. 35):
+" ..
+Por fim, mantém-se a imposição do regime inicial fechado.
+Isso porque, além da natureza hedionda do delito de tráfico (nos termos do art. 2º, § 1º, da Lei 8.072/90, com redação dada pela Lei nº 11.464/2007), a gravidade concreta da conduta, em que os réus mantinham estruturado esquema voltado à comercialização de entorpecentes, tendo sido apreendida variada quantidade de drogas (duas porções de cocaína pesando 20g e dois comprimidos de ecstasy), prontamente embaladas para o fornecimento de pessoas fragilizadas pela dependência química, fundamenta a fixação do regime mais severo, nos termos do art. 33, § 3º, do Código Penal."
+No entanto, o Paciente é primário, a pena-base foi fixada no patamar mínimo legal, sendo-lhe favorável a análise das circunstâncias judiciais previstas no art. 59 do Código Penal, e a reprimenda definitiva foi estabelecida em 8(oito) anos de reclusão.
+Ressalte-se que, embora o Tribunal de origem tenha feito referência à variedade dos entorpecentes encontrados em poder do Paciente, a quantidade de tais drogas (5 comprimidos de ecstasy e 20g de cocaína)não demonstra, por si só, reprovabilidade suficiente para justificar a fixação de regime mais gravoso do que o legalmente previsto.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REGIME PRISIONAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. DESPROPORCIONALIDADE NA FIXAÇÃO DO REGIME MAIS GRAVOSO.AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do agente, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n.11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n.11.343/2006).
+2. Na hipótese, não obstante a menção do Tribunal de origem quanto à natureza deletéria de dois dos entorpecentes apreendidos para justificar o regime mais gravoso, deve ser mantida a decisão agravada que concedeu o regime inicial semiaberto, notadamente em função do quantum de pena fixado, da primariedade, dos bons antecedentes e da pequena quantidade de entorpecentes apreendida em poder do agravado, revelando-se desproporcional a fixação do regime fechado para o início de cumprimento da sanção corporal.
+3. Agravo regimental desprovido."(AgRg no HC 311.262/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021.)
+Por esses fundamentos, entendo cabível o regime segundo oquantumda pena aplicada-o semiaberto-, pois a fundamentação lançada pelas instâncias ordinárias para fixar o regime inicial mais gravoso não extrapola o tipo penal dos crimes de tráfico e associação para o tráfico ilícito de drogas.
+Ante o exposto, CONCEDO a ordem dehabeas corpus, para fixar o regime semiaberto para o início do cumprimento da pena.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO INIDÔNEA PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO. CABÍVEL, NO CASO, O REGIME SEMIABERTO. ORDEM DEHABEAS CORPUSCONCEDIDA.
