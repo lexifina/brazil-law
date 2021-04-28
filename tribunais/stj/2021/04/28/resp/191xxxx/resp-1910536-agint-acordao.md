@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.COISA JULGADA. AFASTAMENTO PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, o qual afastou a alegada ofensa à coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+IV- Os Agravantesnãoapresentam, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI- Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que,com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, não conheceu do Recurso Especial, firmada na ausência de cotejo analítico entre os arestos confrontados e na incidência da Súmula n. 7 desta Corte.
+Sustentam os Agravantes, em síntese, não incidir o óbice da Súmula n. 7/STJ, pois trata-se de aferir o integral cumprimento da lei, na espécie.
+Asseveram não concordar com a "suposta ausência de cotejo analítico entre as decisões lançadas em casos semelhantes, isto é para se modificar o direito de natureza geral, sem a ocorrência da coisa julgada" (fl. 389e).
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 397e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.COISA JULGADA. AFASTAMENTO PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - In casu, rever o entendimento do Tribunal de origem, o qual afastou a alegada ofensa à coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+IV- Os Agravantesnãoapresentam, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI- Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razãoaos Agravantes.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, afastou a alegada ofensa à coisa julgada, nos seguintes termos (fls. 264e):
+Respeitado entendimento contrário, não há se falar em efeitos da coisa julgada para assegurar a extensão do reajuste aos cargos não ocupados em fevereiro de 1995.
+(..)
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC. INOCORRÊNCIA. VERIFICAÇÃO DOS LIMITES DA COISA JULGADA. EXAME DO TÍTULO JUDICIAL E DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULAS Nº 7 DO STJ E Nº 280 DO STF.
+A prestação jurisdicional foi completa, não havendo omissão a sanar.
+O tribunal a quo entendeu que o deferimento da execução com base na Lei Estadual nº 3.509/2010 não extrapola o limite da coisa julgada que garantiu o Soldo Integral de 3º Sargento, 10% de gratificação de habilitação Policial Militar e 25% referente ao auxílio invalidez, tudo com base na Lei Estadual nº 2.986/2005.
+É entendimento desta Corte que a verificação da alegação acerca da ocorrência de ofensa ao instituto da coisa julgada, tal como posta na irresignação, demanda revolvimento do acervo fático e probatório dos autos e exame de lei local, inviável no âmbito do recurso especial, ante os óbices contidos nas Súmulas nº 7 do STJ e nº 280 do STF. Precedentes.
+Agravo regimental desprovido.
+(AgRg no REsp 1438995/AM, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 12/02/2015, DJe 26/02/2015)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA POR IDADE RURAL. CONFIGURAÇÃO DA COISA JULGADA MATERIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme entendimento deste Superior Tribunal de Justiça, "o reexame de ofensa à coisa julgada importa em reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg no AREsp 646.393/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 11/03/2015).
+(..)
+III. Agravo Regimental improvido.
+(AgRg no REsp 1369424/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/08/2015, DJe 04/09/2015)
+Por fim, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta.
+4. Agravo Regimental do IRGA desprovido.
+(AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. DECADÊNCIA. SÚMULA 211/STJ. DEVOLUÇÃO DE VALORES E PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. CONDIÇÃO DE DEPENDENTE. FILHO MAIOR INVÁLIDO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. O conhecimento de recurso especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial.
+5. Agravo regimental não provido.
+(AgRg no REsp 1.420.639/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016 - destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. PRIMEIRO GRAU DE JURISDIÇÃO. DENEGAÇÃO. INTERPOSIÇÃO DE APELAÇÃO. DESPROVIMENTO. IMPUGNAÇÃO POR VIA DE RECURSO ORDINÁRIO. DESCABIMENTO MANIFESTO. HIPÓTESE INADEQUADA. RECORRIBILIDADE. RECURSO ESPECIAL. NÃO CONHECIMENTO. IMPOSSIBILIDADE. DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido originariamente por Tribunal de Justiça ou por Tribunal Regional Federal desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República.
+2. No entanto, quando impetrada a ação de mandado de segurança em primeiro grau de jurisdição e instada a competência do Tribunal local apenas por via de apelação, o acórdão respectivo desafia recurso especial, conforme o disposto no art. 105, inciso III, da Constituição da República.
+3. Dessa forma, a interposição do recurso ordinário no lugar do recurso especial constitui erro grosseiro e descaracteriza a dúvida objetiva. Precedentes.
+4. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+5. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+6. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, em razão do reconhecimento do caráter de manifesta improcedência, a interposição de qualquer outro recurso ficando condicionada ao depósito prévio do valor da multa.
+(AgInt no RMS 51.042/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017 - destaque meu).
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de aplicar multa.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
