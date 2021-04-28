@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CRISTIANE BERNARDO DE PAULA FREITAS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de conhecimento em fase de cumprimento de sentença, ajuizada pela recorrente, em face do recorrido, na qual se insurge a recorrente contra o acórdão que reconheceu a impenhorabilidade absoluta do salário do recorrido para o pagamento doquantum debeatur.
+Decisão interlocutória: deferiu o pedido de penhora sobre percentual dos rendimentos do recorrido.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo recorrido, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - NULIDADE DADECISÃO AGRAVADA AFASTADA - PENHORA SOBRE 10% DO SALÁRIO DODEVEDOR - INADMISSIBILIDADE - IMPENHORABILIDADE ABSOLUTA - RECURSO CONHECIDO E PROVIDO. I - Por determinação do art. 523, §3º, do CPC, "Não efetuado tempestivamente o pagamento voluntário, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação", razão pela qual não se vislumbra a alegada nulidade da decisão agravada. II - A impenhorabilidade do salário tem caráter absoluto, conforme disposição legal - artigo 833, inciso IV, do CPC - sendo, inclusive, inadmissível sua penhora parcial. A única exceção a essa norma legal, conforme entendimento jurisprudencial majoritário, é a dívida de caráter alimentar, situação distinta da presente. (e-STJ Fl. 87)
+Recurso especial: alega violação do art. 833, IV, do CPC/15, bem como dissídio jurisprudencial. Sustenta ser possível a penhora de percentual do salário do recorrido para pagamento do valor executado.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da possibilidade de penhora de percentual do salário para pagamento de dívida
+O TJ/MS, ao decidir que a impenhorabilidade do salário tem caráter absoluto, sendo, inclusive, inadmissível sua penhora parcial, contrariou o entendimento do STJ no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018). Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer os efeitos da decisão agravada, proferida pela 14ª Vara Cívelda Comarca de Campo Grande/MS.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DA REMUNERAÇÃO DO DEVEDOR. INTERPRETAÇÃO DADA AO ART. 833, IV, DO CPC/15. POSSIBILIDADE DE PENHORA DA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+3. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+4. Recurso especial conhecido e provido.
