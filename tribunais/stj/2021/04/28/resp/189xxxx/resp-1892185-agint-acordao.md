@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO MEDICAMENTOSO.RECUSA DE COBERTURA. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. NATUREZA EXEMPLIFICATIVA. RECUSA DE COBERTURA INDEVIDA.
+1. A natureza do rol da ANS é meramente exemplificativa, reputando, no particular, abusiva a recusa de cobertura de procedimento cirúrgico prescrito para o tratamento de doença coberta pelo plano de saúde.
+2. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por NOTREDAME INTERMÉDICA SAÚDE S.A., contra decisão que negou provimento a seu recurso especial.
+Ação: de obrigação de fazer c/c compensação por danos morais ajuizada por LAIZA JOCELINO RODRIGUES SANTOS em face da recorrente visando o fornecimento do fármaco OMALIZUMABE para tratamento de urticária crônica expontânea.
+Sentença:julgou parcialmente procedente a demanda para condenar a recorrente no fornecimento do medicamento.
+Acórdão: negou provimento à apelação da recorrente, nos termos da seguinte ementa:
+Apelação cível. Plano de saúde. Ação de obrigação de fazer cumulada com pedido de indenização por dano moral. Fornecimento de medicamento (Omalizumabe), prescrito à autora, portadora de urticária crônica espontânea. Sentença de parcial procedência. Inconformismo de ambas as partes.
+Código de Defesa do Consumidor. Aplicabilidade. Artigos 2º e 3º da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 608 do Colendo Superior Tribunal de Justiça.
+Compete ao médico especialista que assiste ao paciente avaliar e prescrever o tratamento, e não à operadora de plano de saúde, que não pode interferir na indicação feita pelo profissional da área médica. Abusividade de recusa de tratamento de patologia coberta pelo plano. Incidência da Súmula nº 102 deste Egrégio Tribunal de Justiça. Precedentes. Fornecimento do medicamento devido. Fornecedor que deve assumir o risco do negócio que está fornecendo. Caveat venditor.
+Dano moral. Descabimento. Fatos deduzidos nos autos que não caracterizam dor emocional profunda, situação vexatória ou mesmo prejuízo a atributos da personalidade da requerente. Indenização indevida.
+Sentença mantida. Recursos desprovidos.
+Recurso Especial:alega violação dos arts. 421 e 422 do CC e 10 da Lei 9.656/98, bem como dissídio jurisprudencial. Sustenta que o medicamento para uso domiciliar está fora da cobertura contratual e do rol editado pela ANS, que tem natureza taxativa, conforme entendimento jurisprudencial, de modo que legítima a recusa de cobertura.
+Decisão unipessoal: negou provimento ao recurso especial em virtude da consonância entre o acórdão recorrido e a jurisprudência do STJ.
+Agravo interno: o agravante alega que a decisão agravada não seguiu a orientação mais recente do STJ a respeito da taxatividade do Rol da ANS, não limitada ao precedente da 4ª Turma REsp 1.733.013/PR.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO MEDICAMENTOSO.RECUSA DE COBERTURA. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. NATUREZA EXEMPLIFICATIVA. RECUSA DE COBERTURA INDEVIDA.
+1. A natureza do rol da ANS é meramente exemplificativa, reputando, no particular, abusiva a recusa de cobertura de procedimento cirúrgico prescrito para o tratamento de doença coberta pelo plano de saúde.
+2. Agravo interno desprovido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, a Corte de origem manteve a determinação de cobertura de tratamento medicamentoso não previsto expressamente no Rol de cobertura obrigatória editado pela ANS, entendendo que sua natureza era meramente exemplificativa e a recusa de cobertura de procedimento com expressa indicação médica é abusiva.
+Até o julgamento do REsp 1.733.013/PR pela Quarta Turma (julgado em 10/12/2019, DJe de 20/02/2020), havia, no âmbito da Segunda Seção, o entendimento consolidado sobre a natureza meramente exemplificativa desse rol, fundado nas regras e princípios do CDC, em especial no da interpretação mais favorável ao consumidor e no da boa-fé objetiva.
+Firmou-se, então, a tese de que "é abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda, não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato" (AgInt no REsp 1.849.149/SP, Terceira Turma, julgado em 30/03/2020, DJe de 01/04/2020; AgInt no AREsp 1.573.008/SP, Terceira Turma, julgado em 10/02/2020, DJe de 12/02/2020; AgInt no AREsp 1.490.311/SP, Quarta Turma, julgado em 17/09/2019, DJe de 03/10/2019; AgInt no REsp 1.712.056/SP, Quarta Turma, julgado em 13/12/2018, DJe de 18/12/2018).
+Sucede, entretanto, que, ao julgar o REsp 1.733.013/PR, a Quarta Turma promoveu mudança do seu entendimento para decidir que o rol de procedimentos e eventos em saúde da ANS tem natureza taxativa.
+Por outro lado, a competência legal atribuída à ANS pelas Leis 9.656/98 e 9.961/2000 pelos os atos normativos por ela exarados, além de compatíveis com as referidas Leis, devem ter conformidade com a CF/1988 e as normas insertas no CDC, inclusive os seus princípios, não lhe cabendo inovar a ordem jurídica
+Impende ressaltar, por oportuno, que, embora a Lei 9.656/1998 seja a lei especial que regula os planos privados de assistência à saúde, há expressa menção em seu art. 35-G de aplicação do CDC aos contratos celebrados entre usuários e operadoras
+Essa orientação se justifica ainda mais diante da natureza de adesão do contrato de plano de saúde e se confirma, no âmbito jurisdicional, com a edição da súmula 608 pelo STJ: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão".
+Por isso, o poder atribuído à ANS de normatizar a Lei 9.656/1998 deve ser exercido dentro dos limites estabelecidos pelo legislador e em conformidade com os dispositivos constitucionais e consumeristas, ressalvando-se, apenas, os atos relativos aos contratos celebrados com as entidades de autogestão, os quais não se submetem ao CDC.
+Logo, não cabe a ANS estabelecer outras hipóteses de exceção da cobertura obrigatória pelo plano-referência, além daquelas expressamente previstas nos incisos do art. 10 da Lei 9.656/1998, assim como não lhe cabe reduzir a amplitude da cobertura, excluindo procedimentos ou eventos necessários ao tratamento das doenças listadas na CID, ressalvadas, nos termos da lei, as limitações impostas pela segmentação contratada.
+É forçoso concluir, portanto, no sentido da manutenção da orientação da Terceira Turma, há muito firmada nesta Corte no sentido de que a natureza do referido rol é meramente exemplificativa e, por isso, reputa abusiva a recusa de custeio do tratamento de doença coberta pelo contrato. Citam-se, por oportuno: AgInt no AREsp 1683820/SP, 3ª Turma, DJe 10/03/2021; AgInt no REsp 1882735/SP, 3ª Turma, DJe 12/02/2021; AgInt nos EDcl no AgInt no AREsp 1691550/SP, 3ª Turma, DJe 08/02/2021; e AgInt no REsp 1890825/SP, 3ª Turma, DJe 18/12/2020.
+Por sinal, na sessão de 03/02/2021, esse entendimento foi reafirmado, à unanimidade, pela Terceira Turma no julgado citado na decisão agravada (REsp 1846108/SP, 3ª Turma, DJe 05/02/2021).
+Por fim, nem mesmo na Quarta Turma, o entendimento divergente é unânime, haja vista julgados recentes daquele órgão fracionário no sentido de que o plano de saúde pode estabelecer as doenças a que dará cobertura, mas não o melhor tratamento indicado. Nesse sentido: AgInt no REsp 1888232/SP, 4ª Turma, DJe 18/12/2020; AgInt nos EDcl no AREsp 1629946/ES, 4ª Turma, DJe 01/10/2020; e AgInt no AREsp 1661348/MT, 4ª Turma, DJe 15/09/2020.
+Por todo o exposto, não merece reforma a decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
