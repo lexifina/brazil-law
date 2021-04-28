@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi (Presidente).
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO A DISPOSITIVOS LEGAIS NÃO DEMONSTRADA. INCIDÊNCIA DA SÚMULA 284/STF. POSSE INJUSTA RECONHECIDA NA ORIGEM. PEDIDO DE REFORMA. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL.
+1. Avia estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+2. Aalteração das premissas do acórdão, que fundamentaram a procedência do pedido de imissão na posse, reconhecendo a posse injusta da parte agravante, dependede incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no óbice da Súmula 7/STJ.
+3. De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; (c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso. Requisitos preenchidos no caso sob análise,a justificar o acerto da majoração.
+4. Agravo interno não provido.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por VILSON AMPESE, contra decisão que negou provimento ao agravo em recurso especial por ele interposto, sob os seguintes fundamentos: a) incidência da Súmula 284/STF, uma vez que a parte recorrente limita-se a arguir violação dos arts. 1.200 e 1.228 do CC sem indicar, clara e objetivamente, de que forma tal dispositivo teria sido violado e; b) a alteração das premissas do acórdão, que reconheceu a posse injusta do agravante e fundamentou a procedência do pedido de imissão na posse, dependeria de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no veto da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante sustenta a inaplicabilidade daSúmula 284/STF pois demonstrou adequadamente a violação aosarts. 1.200 e 1.228 do CC.
+Afirma que o caso sob análise não atraí a incidência daSúmula 7/STJ, pois os documentos e depoimentos carreados aos autos comprovam que a sua posse era justa.
+Sustenta ainda ser incabível a majoração de honorários em grau recursal, uma vez que os requisitos necessários não foram preenchidos.
+Requer a reconsideração ou a reforma pela Turma Julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO A DISPOSITIVOS LEGAIS NÃO DEMONSTRADA. INCIDÊNCIA DA SÚMULA 284/STF. POSSE INJUSTA RECONHECIDA NA ORIGEM. PEDIDO DE REFORMA. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL.
+1. Avia estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+2. Aalteração das premissas do acórdão, que fundamentaram a procedência do pedido de imissão na posse, reconhecendo a posse injusta da parte agravante, dependede incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no óbice da Súmula 7/STJ.
+3. De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; (c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso. Requisitos preenchidos no caso sob análise,a justificar o acerto da majoração.
+4. Agravo interno não provido.
+VOTO
+2. A irresignação não merece prosperar.
+Com efeito, reitero que no caso sob análisea parte recorrente limita-se a arguir violação dos arts. 1.200 e 1.228 do CC sem indicar, clara e objetivamente, de que forma tal dispositivo teria sido violado.
+Com efeito, colaciona-se a redação dos dispositivos supracitados:
+Art. 1.200. É justa a posse que não for violenta, clandestina ou precária.
+Art. 1.228. O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha.
+Todavia, da atenta leitura das razões recursais não se depreende a forma como o acórdão vergastado teria violado os referidos dispositivos.
+Nessa senda, a via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+Ora, écerto que a parte agravante defende que sua posse é justa, mas tal argumentação não representa violação aos dispositivos supracitados.
+Além disso,não foi essa a conclusão do Tribunal de origem, que a assentou que o agravante possui posse injusta.Confira-se novamente o trecho pertinente:
+No caso dos autos, encontram-se preenchidos os pressupostos o para a retomada do bem, pois o demandado está na posse do imóvel de forma o injusta, na medida em que adquiriu um terreno e uma casa objeto de litígio, por o contrato particular, e de quem não detinha a regular propriedade.
+(..)
+De sua vez, não se pode deixar de considerar as peculiaridades do caso em questão, pois a simulação precedente foi realizada pelo então casal de o. proprietários do bem para beneficiar apenas dois de seus filhos, como forma de compensá-los pelos cuidados dispensados aos pais, fato este inclusive corriqueiramente praticado em regiões interioranas.
+A propósito, convém registrar que, apesar de o alegado vício do consentimento não ser objeto da presente demanda, esse "costume" se mostra *e pernicioso ao sistema jurídico não só por revelar a perfídia das partes em relação aos seus reais interesses, com consequências jurídicas severas pela nulidade absoluta dos atos praticados, mas também porque subverte princípios universais que preconizam os deveres mútuos de cuidado, assistência, amor e respeito entre pais e filhos, de forma espontânea e graciosa, traduzindo-se a doação privilegiada de bens ao filho cuidador dos pais idosos (compensação financeira) como indesejável mercantilização de deveres antes morais do que legais.
+Desta feita, tendo o espólio recorrente logrado êxito em demonstrar sua condição de legítimo proprietário do bem, falecendo a posse do apelado de justo titulo que a justifique, o insurgente faz jus ao exercício do direito de usar, gozar e fruir livremente do imóvel em relação ao qual é titular do domínio, motivo o a, pelo qual deve ser reformada a sentença para julgar procedente o pedido inicial e imitir o autor na posse de parte do imóvel ocupado pelo réu, matriculado sob o n. 1200 no Cartório de Registro de Imóveis de Concórdia. (fls. 325-326).
+Logo, a alteração destas premissas do acórdão, que fundamentaram a procedência do pedido de imissão na posse, reconhecendoa posse injusta da parte agravante,dependeria de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no óbice da Súmula 7 desta Corte.
+No mesmo sentido colaciona-se os arestos desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. 1. POSSE INJUSTA. REQUISITOS. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. INDENIZAÇÃO. REQUERIMENTO NA CONTESTAÇÃO. IMPOSSIBILIDADE. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+1. As instâncias ordinárias, após profunda análise do conjunto fático probatório, concluíram ser injusta a posse da ora insurgente sobre o imóvel porquanto exercida sem amparo em título de domínio ou qualquer outro que justifique a ocupação do bem. Assim, para rever as conclusões do acórdão recorrido seria imprescindível o reexame de provas, o que atrai a Súmula n. 7/STJ.
+2. A jurisprudência desta Corte é no sentido de que, nas ações possessórias, pode o réu deduzir, na contestação, pedido indenizatório, desde que correlato à matéria, dado o caráter dúplice dessas demandas, o que não se verifica na presente hipótese.
+3. Agravo interno desprovido. (AgInt no AREsp 1314158/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020)  g.n.
+--
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. VENDEDORA QUE ATRASOU INJUSTIFICADAMENTE OS PROCEDIMENTOS NECESSÁRIOS À LIBERAÇÃO DO FINANCIAMENTO, POSTERGANDO A IMISSÃO NA POSSE DO BEM. DANOS MORAIS CONFIGURADOS. SÚMULA 7 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão de que restou comprovado nos autos a demora da ré em providenciar a documentação pedida pela Instituição Financeira para instruir o procedimento de financiamento, o que deu ensejo a procrastinação da imissão na posse do imóvel pela parte autora, bem como a ocorrência de danos morais no presente caso, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. Agravo interno não provido. (AgInt no AREsp 1555679/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/03/2020, DJe 10/03/2020)  g.n.
+--
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - REINTEGRAÇÃO DE POSSE - CÔNJUGE SOBREVIVENTE - DIREITO REAL DE HABITAÇÃO - CONFIGURAÇÃO - POSSE JUSTA - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - IMPOSSIBILIDADE - SÚMULA 7/STJ - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A convicção a que chegou o Acórdão recorrido quanto à legitimidade da posse da ré sobre o imóvel discutido nos autos decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+2.- O recurso não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 303.828/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/05/2013, DJe 18/06/2013) g.n.
+--
+3.No que se refere aos honorários recursais, sustenta serem incabíveis,uma vez que os requisitos necessários não foram preenchidos.
+De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; (c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+No caso dos autos, o acórdão recorrido foi publicado em 14/12/2017 (fl. 330), portanto, já na vigência do atual Código de Processo Civil. O agravo em recurso especial foi desprovido, e, além disso, constata-se a condenação em honorários advocatícios desde a origem.
+Diante disso, foi acertadaa majoração da verba honorária realizada anteriormente, nos termos do art. 85, § 11, do CPC de 2015 e do entendimento desta Corte Superior.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
