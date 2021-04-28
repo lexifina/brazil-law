@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO PARQUE RIACHO 17, com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, cuja ementa assim se resume:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. NÃO CONHECIMENTO. APELAÇÃO. ARGUMENTOS DISSOCIADOS DA SENTENÇA. PRINCÍPIO DA CONGRUÊNCIA OU DA DIALETICIDADE NÃO OBSERVADO. PRESCRIÇÃO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. FORNECIMENTO DE ÁGUA E ESGOTO. PRESUNÇÃO DE LEGITIMIDADE DO ATO ADMINISTRATIVO DE COBRANÇA. MITIGAÇÃO. OBRIGAÇÃO DO CONSUMIDOR. CUMPRIMENTO. TARIFA MÍNIMA. MULTIPLICAÇÃO PELA QUANTIDADE DE UNIDADES CONSUMIDORAS. IMPOSSIBILIDADE. PRECEDENTE DO C. STJ. DISTINGUISHING. COBRANÇA POR TARIFAÇÃO DE CONSUMO. PREJUDICIALIDADE AO CONSUMIDOR. DESCABIMENTO.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do especial, aponta violação aos seguintes dispositivos: a) arts. 489, §1º, incisos II e III, e 1.022, do CPC, sustentando que a turma julgadoranão sanou os vícios apontados em embargos de declaração, ficando caracterizada a deficiência na prestação jurisdicional; b) arts. 926 e 927, do CPC, asseverando que o acórdão não observou o dever de uniformização jurisprudencial, tendo em vista ter realizado distinguishing indevidamente, ao afastar a orientação do STJ firmada em recurso especial repetitivo (Tema 414), além de divergir de outros julgados proferidos pelo próprio TJDFT; c) artigo 30 da Lei 11.445/2007, argumentando inobservância das diretrizes para a política federal de saneamento básico, previstas no referido dispositivo legal.
+Admitido o recurso na origem,os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão não merece acolhida.
+No tocante à alegada negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Cumpre asseverar que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamentos suficientes para decidir a controvérsia. (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Outrossim, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não há que se falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto à questão de fundo, melhor sorte não socorre ao recorrente.
+No mérito, em suma, discute-se a aplicação combinada entre o entendimento desta Corte Superior sobre a aplicação da tabela progressiva (Súmula 407) e a orientação firmada no Recurso Especial Repetitivo nº 1.166.561/RJ acerca da ilicitude a cobrança de tarifa de água no valor do consumo mínimo multiplicado pelo número de economias existentes no imóvel, quando houver único hidrômetro no local.
+Tais entendimentos decorrem da interpretação desta Corte acerca dos institutos da "taxa mínima" e "progressividade" previstos nos arts. 29 e 30 da Lei nº 11.445/2007.
+Com efeito, resta incontroversa a possibilidade de cobrança da tarifa de água fixada de acordo com as categorias de usuários e as faixas de consumo, a progressividade, nos termos da Súmula 407 do Superior Tribunal de Justiça.
+Ademais, em sede de repetitivo, esta Corte firmou entendimento de não ser lícita a cobrança de tarifa de água no valor do consumo mínimo multiplicado pelo número de economias existentes no imóvel, quando houver único hidrômetro no local, conforme a ementa que transcrevo abaixo:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. FORNECIMENTO DE ÁGUA.TARIFA MÍNIMA MULTIPLICADA PELO NÚMERO DE UNIDADES AUTÔNOMAS (ECONOMIAS).EXISTÊNCIA DE ÚNICO HIDRÔMETRO NO CONDOMÍNIO.
+1. A cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido.
+2. O Superior Tribunal de Justiça firmou já entendimento de não ser lícita a cobrança de tarifa de água no valor do consumo mínimo multiplicado pelo número de economias existentes no imóvel, quando houver único hidrômetro no local.
+3. Recurso especial improvido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil.
+(REsp 1166561/RJ, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, julgado em 25/08/2010, DJe 05/10/2010)
+Assim, o precedente instaurado é no sentido de que a cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido e não pela multiplicação do consumo mínimo pelo número de economias.
+Dessa forma, nos casos de condomínios, a aplicação do precedente exposto acima impõe a seguinte conclusão: caso exista apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido.
+Portanto, verifico que o acórdão recorrido está em sintoniacom orientação desta Corte, porquanto não há previsão legal da incidência do encargo na forma híbrida pleiteada pelo recorrente, de modo a proceder a divisão da tarifa de água para cada condômino com base no consumo real averiguado no único hidrômetro existente, e, ao mesmo tempo, enquadrá-la na tabela progressiva.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO3/STJ. SERVIÇO DE FORNECIMENTO DE ÁGUA. CONDOMÍNIOS. CONSUMO. CÁLCULO.CONSUMO REAL AFERIDO.
+1. Decorre o recurso especial de demanda objetivando recálculo do consumo dos condomínios, aplicando-se a tabela progressiva com base no consumo total de água registrado no hidrômetro, dividindo-se tal consumo pelo número de condôminos apenas e tão somente para o fim de enquadramento na faixa de consumo prevista na referida tabela.
+2. O TJ/PR manteve a sentença de improcedência do pedido pelo fundamento de que não há previsão legal da incidência do encargo na forma híbrida pleiteada, de modo a proceder a divisão da tarifa de água por cada condômino com base no consumo real averiguado no único hidrômetro existente, e, ao mesmo tempo, enquadrá-los nos patamares iniciais da tabela progressiva.
+3. O acórdão recorrido não merece reparos, pois, conforme decidido pela Primeira Seção no julgamento do REsp 1166561/RJ, Rel. Ministro Hamilton Carvalhido, DJe 05/10/2010, "A cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido".
+4. Agravo interno não provido.
+(AgInt no REsp 1745659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDATURMA, julgado em 05/09/2019, DJe 16/09/2019)
+Ademais, o Tribunal de origem decidiu a controvérsia após análise da Resolução nº 14/2011 da ADASA, sendo inviável sua reapreciação pelo STJ para atendimento à pretensão recursal, uma vezque tal ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da Constituição Federal.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial, nos termos da fundamentação.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil.
+Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. VIOLAÇÃO AO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. ÚNICO HIDRÔMETRO NO LOCAL.CÁLCULO. COBRANÇA. MULTIPLICAÇÃO POR ECONOMIAS. CONSUMO REAL AFERIDO. RESOLUÇÃO ADASA. INVIABILIDADE DE ANÁLISE. RECURSO ESPECIAL NÃO PROVIDO.
