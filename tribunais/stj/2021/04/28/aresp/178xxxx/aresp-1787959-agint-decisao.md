@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto pelaTERRACOM CONSTRUÇÕES LTDA. contra decisão da Presidência do STJqueconheceudo agravo paranão conhecerdorecurso especial, em face do teor da Súmula 284 do STF(e-STJ fls. 641/643).
+Sustenta a parte recorrente, em suma, que o referido óbice sumular não se aplica ao caso, reiterando, no mais, o mérito do especial acerca do cerceamento de defesa pelo indeferimento da produção da prova pericial(e-STJ fls. 646/655).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Agravado apresentouimpugnação (e-STJ fls. 659/663)
+Passo a decidir.
+Tem razão o agravante, no tocante ao emprego da Súmula 284 do STF.
+É que o aresto recorrido considerou impertinente a prova pericial contábil, "porque não comprovada sequer a prestação dos serviços, nos exatos termos contratados", como assinalado na decisão agravada (e-STJ fl. 642).
+Examinando detidamente o apelo nobre, observo que a parte sustentou que"o serviço foi prestado e executado (..), ao reverso do que foi assentado pelo venerando acórdão recorrido", e que a confissão do Município em relação ao cumprimento do contrato "impunha ao menos a produção da prova pericial, em complemento aos documentos que foram apresentados nos autos, para atestar todos os serviços cumpridos, e respectivos valores."(e-STJ fls. 526/527).
+Essas razões, no meu entender, rebatem o fundamento adotado pela Corte de origem, não sendo o caso de razões dissociadas a justificar aincidência da Súmula 284do STF.
+Nesse passo, é de se reconhecer a insubsistência da decisão de e-STJ fls. 641/643.
+A superação desseóbice, contudo, não autoriza o processamento do apelo nobre.
+É que a Corte local se convenceu da imprestabilidade da prova pericial requerida, pelas seguintes conclusões (e-STJ fls. 506/507):
+No caso, o objeto da presente demanda se refere a créditos líquidos retratados nas notas fiscais não pagas, oriundas de Contrato Administrativo de Prestação de Serviços.
+As notas fiscais vistas às fls. 65/75, desacompanhadas dorespectivo comprovante de entrega dos serviços, com assinatura do contratante, não podem, por si só, servir de prova escrita da efetiva prestação dos serviços, ou seja, não há certeza do efetivo cumprimento das cláusulas do contrato celebrado entre as partes, quanto ao sistema de medições mensais, conferência, fiscalização e aprovação das correspondentes medições pela Municipalidade, para aparelhar a ação de cobrança.
+Ademais, como bem destacado pelo Juízo a quo "a produção de prova pericial contábil, é impertinente ao desfecho dos autos, porque não comprovada sequer a prestação dos serviços, nos exatos termos contratados, não havendo, por isso, que se falar em obrigação de pagamento de contraprestção, sendo irrelevante a discussão acerca dos índices de atualização de preços ou do valor do débito ou sobre a correição dos cálculos elaborados com a petição inicial".
+Salienta-se que, os documentos que eram preexistentes e acessíveis só foram juntados aos autos com as razões do recurso de apelação, ou seja, após o encerramento da instrução, não cabendo, por isso, conhecer da prova, diante da preclusão consumativa. (grifos acrescidos).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termosda Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. CONVERSÃO DE VENCIMENTO EM URV. ESTADO DO RIO GRANDE DO SUL. TEMA 3/STJ. RECURSO ESPECIAL FUNDAMENTADO NA ALÍNEA "B" DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. PROVA PERICIAL. CERCEAMENTO DE DEFESA. REEXAME DE FATOS.SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com o Tema 3/STJ: A imposição ao Estado do Rio Grande do Sul da conversão das retribuições aos servidores pela URV (Lei 8.880/94), apesar dos reajustes voluntários já concedidos à categoria pelo Governo Gaúcho a pretexto dessa mesma conversão, somente seria cabível se evidenciado algum prejuízo vencimental decorrente daquela antecipação voluntária.
+2. O recurso especial, com fundamento no art. 105, inciso III, alínea b, da Constituição, exige do recorrente a demonstração de ter o acórdão impugnado julgado válido ato de governo local contestado em face de lei federal, hipótese não ocorrente, todavia, no presente caso. Atraída a incidência da Súmula nº 284/STF.
+3. O Tribunal de origem entendeu pela desnecessidade de produção de provas, assim, a análise da alegação de cerceamento de defesa esbarra no reexame de fatos e provas, vedada em recurso especial, em razão da súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.659.849/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/11/2020, DJe 19/11/2020).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PARTO. ERRO MÉDICO. SEQUELAS NEUROLÓGICAS EM RECÉM-NASCIDO. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Segundo a Jurisprudência do STJ, havendo elementos de prova suficientes nos autos, mostra-se possível o julgamento antecipado da lide, sendo certo que o juiz, como destinatário das provas, pode indeferir aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado. Precedentes.
+2. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não houve o alegado cerceamento de defesa diante do indeferimento do pedido de prova pericial, pois a causa já se encontrava madura para julgamento em virtude "de conjunto probatório robusto" (fl. 1366). Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+3 Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.406.364/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+Ademais, a peça recursal passou ao largo dooutrofundamentodo acórdão recorrido, a saber, a ocorrência depreclusão consumativa pela juntada de documentos preexistentes e acessíveisapenas nas razões do recurso de apelação(e-STJ fl. 507).
+A subsistência de fundamento suficiente para manter o aresto impugnado atrai a incidência da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles".(REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls.641/643,MANTENDO-A, no entanto, por fundamentação diversa.
+Publique-se. Intimem-se.
