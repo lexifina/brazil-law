@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTOcontra decisão da Presidência do STJ, queconheceudo agravo paranão conhecerdorecurso especial, em face do teor da Súmula 284 do STF(e-STJ fls. 1.637/1.639).
+Sustenta a parte recorrente, em suma, que o referido óbice sumular não se aplica ao caso (e-STJ fls. 1.645/1.651).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, o(s) agravado(s) não apresentou impugnação.
+Parecer do MPF pelo conhecimento do agravo e provimento do recurso especial (e-STJ fls. 1.665/1.670).
+Passo a decidir.
+Tem razão o agravante, no tocante ao emprego da Súmula 284 do STF.
+É que, examinando detidamente o apelo nobre do MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO (e-STJ fls. 1.580/1.584), pude verificar que o fundamento adotado pela Corte de origem, acerca da "ausência de comprovação da capacidade econômico-financeira da licitante nos moldes do art. 31 da Lei n. 8.666/93" (e-STJ fl. 1.570), foidevidamente impugnado no recurso especial, não sendo o caso de razões dissociadas a justificar aincidência da Súmula 284do STF.
+Nesse passo, é de se reconhecer a insubsistência da decisão de e-STJ fls. 1.637/1.639
+A superação de tal óbice, contudo, não autoriza o processamento do apelo nobre.
+É que a Corte local se convenceu de que a empresa/licitante detinha capacidade econômico-financeira para ser considerada habilitada no certame, pelas seguintes conclusões (e-STJ fl. 1.571):
+No tocante à alegação de que a vencedora da licitação não apresentou a documentação pertinente e tampouco detinha capacidade econômico -financeira para ser considerada habilitada, há. razões para crer que a própria passagem do tempo se incumbiu de demonstrar o desacerto desse argumento.
+Isso porque, aqui, o contrato de concessão foi celebrado em 17/07/2006 (fls. 234/236), ou seja, há aproximadamente 09 (nove) anos e 08 (oito) meses, sendo muito pouco provável que uma concessionária resistiria tanto tempo no mercado de serviços de transporte se não apresentasse capacidade econômico -financeira para isso, conclusão esta ratificada pelo laudo pericial de fls. 652/684, senão, vejamos:
+"d) O lapso temporal comprovou, no mesmo sentido do entendimento da comissão julgadora do certame promovido pelo Requerido Município de Vargem Alta, que a Requerida Licitante possuía, na época da licitação, capacidade econômico-financeira para prestar serviço público de.transporte coletivo ao Município de Vargem Alta, sem macular o princípio da Continuidade sob o prisma dá Contabilidade - a empresa continua operando - e dos Serviços Públicos - os serviços continuam sendo prestados." (Fl. 684).
+Embora o Recorrente postule a desconsideração do trabalho do perito, não verifico nenhuma razão para isso, seja porque se trata de trabalho calçado em exaustiva fundamentação, seja porque se mostra mais recente que os demais trabalhos apontados no petitório recursal.
+Na peça recursal, o recorrente alega que "a demonstração da capacidade financeira da licitante é condição de validade do certame e em razão de sua própria natureza jamais poderia ser afastada ou postergada para a fase posterior de execução do contrato ao argumento de que o serviço está sendo prestado, mormente quando se constata que tais são realizados de forma precária com frota de veículos obsoleta pondo em risco os usuários do transporte municipal." (e-STJ fl. 1.584).
+Da leitura do excerto acima do acórdão recorrido,verifica-se que o Tribunal de origem decidiu a questãocom base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, notadamente a prova pericial ali mencionada, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ademais, a peça recursal passou ao largo dos outros fundamentos do acórdão recorrido, a seguir transcritos(e-STJ fls. 1.571.1572):
+Mas não é só! Malgrado se alegue que o instrumento convocatório não previu, de forma objetiva, como a sociedade empresária comprovaria sua boa situação econômico -financeira, tal assertiva é refutada pela análise do item 6.3 do Edital n.
+002/2006 (fls. 86/93), o qual enuncia como a idoneidade nesse aspecto poderia ser demonstrada, senão, vejamos:
+(..).
+Logo, embora as exigências no campo da idoneidade financeira sejam bastante simplificadas, decerto elas existiram.
+(..).
+A despeito da existência de um item no edital que conferia 15 (quinze) pontos para empresas com sede ou filiais no município de Vargem Alta, penso que a duvidosa legalidade dessa benesse - sobretudo à luz do art. 3º, § 1º,.inc. I, da Lei n. 8.666/93 - não possui a aptidão de invalidar o edital, quer porque a Transpark Transportes foi a única licitante, quer porque, à luz do principio da conservação dos atos jurídicos - também denominado de princípio do aproveitamento -, eventual irregularidade de uma disposição despida de caráter substancial não parece ser suficiente para fulminar a validade do ato administrativo como um todo, como ora pretende o Recorrente.
+A subsistência de fundamento suficiente para manter o aresto impugnado atrai a incidência da Súmula 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".(REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls.1.637/1.639,MANTENDO-A, no entanto, por fundamentação diversa.
+Publique-se. Intimem-se.
