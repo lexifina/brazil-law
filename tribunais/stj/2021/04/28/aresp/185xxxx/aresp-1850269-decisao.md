@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por SO A RIGOR BARRA ALUGUEL DE ROUPAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Agravo de Instrumento. Não concessão do benefício da gratuidade de justiça. Súmulas 481, do E.STJ e 121, desta Corte. Documentos anexados aos autos comprovam que a Agravante pertence a Grupo Econômico, cuja situação financeira se mantém hígida. Recurso que se nega provimento.
+Quanto à controvérsia, no que concerne à gratuidade de justiça, traz os seguintes argumentos:
+Excelências, inicialmente, se destaca que o negócio da recorrente é de aluguel de roupas finas, para festas de 15 anos e casamento. Negócio este que teve profunda queda de demanda ao longo dos últimos anos.
+ ..
+Ora, não seria justo que, em decorrência dessa circunstancia, qual a recorrente não deu causa (pandemia), que seja lesada em seu direito de ampla defesa, pois o acesso à Justiça não pode ser inviabilizado pela imposição de custas elevadas aos que não podem arcar com as mesmas, sem prejuízo dos seus compromissos e obrigações inerentes à manutenção de suas atividades empresariais.
+ ..
+Assim, a agravante suplica, seja com base nos argumentos pré-existentes, seja com base na situação de força maior, provocada pela pandemia, pela concessão do referido benefício, da gratuidade de justiça pois, de certo, não tem condições para arcar com o elevado valor necessário a garantir o acesso à justiça, o exercício do contraditório, nos autos dos embargos à execução qual este recurso foi interposto.
+Das 6 lojas que faziam parte do Grupo Só a Rigor, hoje somente uma se encontra funcionando e, ainda, a duras penas.
+A concessão do benefício é imprescindível para que a agravante possa ter garantido o acesso à justiça e exercer, com plenitude, o contraditório e ampla defesa (fls. 98/101).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Cuida-se de Agravo de Instrumento objetivando reformar a decisão que indeferiu o benefício da gratuidade de justiça.
+ ..
+No caso, em exame, dos documentos adunados aos autos, em especial, do acordo homologado por sentença proferida em ação trabalhista de fls. 06/09, que a Agravante pertence ao Grupo Econômico "Só a Rigor", tanto que no feito foi determinado que as demais empresas responderão solidariamente pelo débito (fls. 07).
+Desta feita, em que pese, a condição financeira da antiga filial da Barra da Tijuca não ser das melhores, o fato é que a situação econômica do Grupo se mantém hígida.
+Ante o exposto, nego provimento ao recurso. (fls. 30/31)
+Assim, esbarra no óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nessa linha, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Vejam-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
