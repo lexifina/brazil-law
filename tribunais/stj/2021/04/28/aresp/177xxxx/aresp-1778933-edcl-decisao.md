@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALISON MIRANDA DE FREITAS à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 526, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ERRO MATERIAL NO CÁLCULO DA COMPLEMENTAÇÃO DE APOSENTADORIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO VERIFICADA. PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS NÃO EFETUADO. SÚMULA 211. PREQUESTIONAMENTO FICTO. REQUISITOS NÃO PREENCHIDOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 535-539, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Impugnação às fls. 542-552 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenastêm cabimento quando efetivamente existir omissão, contradição,obscuridade ou erro material no julgado embargado, situação que não seobserva na espécie.
+A decisão embargada decidiu a controvérsia com base emfundamentação sólida, sem omissões ou contradições. Na verdade, odecisum embargado esclareceu a controvérsia, apontando fundamentação consistente, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte.
+Ademais, o órgão julgador não está obrigado a responder aquestionamentos das partes, mas tão só a declinar as razões de seuconvencimento motivado, como de fato ocorre nos autos.
+Dito isso, cabe rememorar que o ora embargante, em desfavor do acórdãoproferido pelo TJDFT, interpôs recurso especial (fls. 366-380, e-STJ),o qual não foi admitido (fls. 421-423, e-STJ), ensejando o manejo doagravo em recurso especial (fls. 426-439, e-STJ), do qual se conheceupara negar provimento ao recurso especial.
+Nas razões do recurso especial, o recorrente alegou:
+(i)negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia;
+(ii) prescrição da pretensão da parte adversa de alterar o valor de sua complementação de aposentadoria, após mais de 10 (dez) anos de sua implementação, haja vista que o prazo prescricional aplicável ao presente feito é de 4 (quatro) anos; e
+(iii) serem indevidas a revisão e a redução da base de cálculo de sua complementação de aposentadoria do cargo de Coordenador Jurídico para assistente administrativo, pois a entidade de previdência privada assumiu "contratualmente a obrigação de calcular o benefício saldado com base na função exercida pelo participante na data do saldamento" (fl. 374, e-STJ).
+Na decisão embargada, reconheceu-se:
+a) ausência de violação ao art. 1.022do CPC/2015, porquanto as questões trazidas pelo recorrente foramanalisadas e a decisão encontra-se fundamentada;
+b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões do Tribunal de origem; e
+c) falta de prequestionamento dos artigos de lei tidos por violados, atraindo a incidência da Súmula 211/STJ, bem como por não estarem preenchidos os requisitos para possibilitar o prequestionamento ficto dos aludidos normativos.
+Desse modo, ainda que a solução tenha sido contrária à pretensão do orainsurgente, não se pode negar ter havido efetivo enfrentamento eresposta aos pontos controvertidos.
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO.DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. TRIBUNAL ESTADUAL QUE NÃO RECONHECEU OS REQUISITOS PARA A DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. PRETENSÃO RECURSAL QUE É OBSTADA PELA SÚMULA Nº 7 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. ERRO MATERIAL E OMISSÃO. NÃO CONFIGURADOS. PRESUNÇÃO RELATIVA DA VERACIDADE DOS FATOS NÃO CONTESTADOS. PRECEDENTES. MULTA DO ART. 1.021, § 4º, DO NCPC. AFASTADA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. A revelia enseja a presunção relativa da veracidade dos fatos narrados pelo autor da ação, podendo ser infirmada pelas provas dos autos, motivo pelo qual não determina a imediata procedência do pedido. Precedentes.
+4. Embargos de declaração parcialmente acolhidos (EDcl no AgInt nos EDcl no AREsp 1.562.715/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.CLÁUSULA LIMITATIVA DA INDENIZAÇÃO AO GRAU DE INVALIDEZ.DESCONHECIMENTO PELO CONSUMIDOR. REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO NÃO PROVIDO.
+1. A Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte agravante, o que está longe de significar violação ao art. 1.022 do CPC/2015.
+2. Na hipótese dos autos, o Tribunal de origem concluiu que o consumidor não teve ciência inequívoca das cláusulas restritivas de direito, fazendo jus ao valor integral da indenização. Alterar tal conclusão é inviável em recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+4. Agravo interno não provido (AgInt no AREsp 1.609.128/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/02/2021, DJe 02/03/2021).
+Evidente, portanto, a impossibilidade de acolhimento dos presentesaclaratórios, pois devidamente motivada e fundamentada a decisão, além denão ter sido demonstrada a ocorrência de nenhuma das hipóteses do art.1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃOREJEITADOS.
