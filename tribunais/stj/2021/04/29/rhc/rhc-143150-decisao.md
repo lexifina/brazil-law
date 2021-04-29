@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso em habeas corpus, com pedido liminar, interposto em favor de BRUNO PADUAN MILITÃO DOS SANTOS - preso preventivamente pela suposta prática do crime previsto no artigo 33 da Lei n. 11.343/2006 - contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2261310-91.2020.8.26.0000,).
+Segundo consta dos autos, o recorrente foi preso em flagrante em 19/4/2020, na posse de 841g (oitocentos e quarenta e um gramas) e 1 (uma) porção de haxixe, pesando 1,44g (um grama e quarenta e quatro decigramas).
+Homologado o flagrante, foi decretada a prisão preventiva (e-STJ fls. 66/69).
+A defesa impetrou habeas corpus com pedido liminar na Corte estadual. O Tribunal, contudo, conheceu parcialmente da ordem e, nesta parte, denegou o writ. Eis a ementa (e-STJ fl. 20):
+HABEAS CORPUS - ARTIGO 33, DA LEI Nº 11.343/06 REVOGAÇÃO DA PRISÃO PREVENTIVA/RECOMENDAÇÃO Nº 62/2020 DO CNJ/AUSÊNCIA DE INDÍCIOS DE AUTORIA - CONHECIMENTO - IMPOSSIBILIDADE - PEDIDOS ANALISADOS EM OUTRA IMPETRAÇÃO.
+EXCESSO DE PRAZO - INOCORRÊNCIA - PRINCÍPIO DA RAZOABILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA.
+Na presente oportunidade, a defesa reitera, em síntese, a inidoneidade da fundamentação utilizada pelo Magistrado de primeira instância em sua decisão, asseverando não haver motivos legais para a prisão (art. 312 do CPP).
+Alega, ainda, o excesso de prazo na formação da culpa, afirmando que orecorrente encontra-se preso preventivamente desde 19/4/2020, há 245 dias e até a data da audiência de instrução e julgamento marcada para 11/3/2021, serão 328 dias de segregação cautelar.
+Por fim, alega que diante da pandemia causada pelo COVID-19, encontra-se exposto aos riscos de contágio no estabelecimento prisional.
+Diante disso, pugna, liminarmente e no mérito, pela revogação do decreto preventivo.
+A liminar foi indeferida (e-STJfls. 258/261), as informações prestadas (e-STJ fls. 266/276), e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não provimento do recurso (e-STJ fls. 278/279).
+É o relatório. Decido.
+Busca-se no presente recurso a revogação da prisão preventiva do paciente.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revele a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+Destaco os seguintes precedentes do Supremo Tribunal Federal e desta Corte que traduzem bem essa compreensão: STF, AgRg no HC n. 128.615, Relator Ministro CELSO DE MELLO, Segunda Turma, julgado em 18/8/2015, publicado em 30/9/2015;STF, HC n. 126.815, Relator Ministro MARCO AURÉLIO, Relator p/ acórdão Ministro EDSON FACHIN, Primeira Turma, julgado em 4/8/2015, publicado em 28/8/2015; STJ, HC n. 321.201/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015; e STJ, HC n. 296.543/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/10/2014, DJe 13/10/2014.
+Preliminarmente, verifica-se que a alegada ausência de fundamentos para o decreto preventivo, não foi analisada pelo Tribunal impetrado, uma vez que já foram discutidos por ocasião do julgamento de outro habeas corpus, naquela Corte estadual.
+Assim, fica impedido o exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância" (HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/4/2017, DJe 20/4/2017).
+Ao decidir sobre o excesso de prazo, assim se manifestou a Corte de origem (e- STJ fl. 213):
+ ..
+Quanto ao alegado excesso de prazo para a formação da culpa, não há que se falar em violação ao princípio da razoabilidade, já que preso desde o dia 19 de abril de 2020 as informações ora juntadas indicam que o feito tramita regularmente e se aguarda a realização de audiência de instrução designada para o dia 11 de março de 2021.
+Portanto, não se demonstrou que esteja havendo negligência ou descaso na condução do feito pelo Magistrado "a quo" e o tempo decorrido está, por ora, dentro do critério da razoabilidade.
+Já a custódia cautelar do paciente foi revista e mantida em 20 de outubro de 2020, por não existir alteração do quadro fático que ensejou a conversão da prisão em flagrante em preventiva.
+Ao prestar informações o Juízo processante assim esclareceu (e-STJ fls. 267/268 - grifei):
+ ..
+Os Autos foram instaurados mediante auto de prisão em flagrante, pela suposta prática, em tese, dos crimes previstos no artigo 33, caput, da Lei nº. 11.343/2006, ocorrido em 18 de abril de 2020.
+Em 19/04/2020, a defesa requereu a Liberdade Provisória do paciente, e o Ministério Público, por sua vez, requereu a conversão da prisão em flagrante em preventiva. Na mesma data, o pedido da defesa e do Ministério Público foram analisados e a prisão em flagrante foi convertida em preventiva, pelo MM. Juiz de Direito da Vara Criminal da Comarca deCaraguatatuba-SP.
+A denúncia foi oferecida em 18/05/2020, sendo recebida em 19/05/2020.
+O paciente apresentou Defesa Preliminar, em 23 de setembro de 2020.
+Em 03 de junho de 2020, o réu foi citado da denúncia.
+Em 20 de outubro de 2020, foi confirmado o recebimento da denúncia e designado audiência de instrução, debates e julgamento para o dia 11/03/2021, às 14:00 horas.
+Realizada a audiência, foi devidamente encerrada a instrução, oportunidade em que o Ministério Público pugnou pela procedência da ação nos exatos termos da denúncia, e a defesa requereu prazo para oferecimento dos memoriais finais .
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Necessário, porém, considerar que, cumprido tal requisito, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Observa-se que a ação se desenvolve de forma regular, sem desídia ou inércia do magistrado singular, e conforme informações prestadas pelo juízo singular, já houve a realização da audiência de instrução e julgamento, encontrando-se encerrada a instrução, oportunidade em que o Ministério Público pugnou pela procedência da ação nos exatos termos da denúncia, e a defesa requereu prazo para oferecimento dos memoriais finais (e-STJ fl. 268).
+Para a caracterização do excesso de prazo, a demora excessiva deve estar vinculada à desídia do Poder Público, em decorrência, por exemplo, de eventual procedimento omissivo do magistrado ou da acusação, o que não se verifica na espécie.
+Assim, considerados os dados do processo, com sua excepcional complexidade e o tempo de prisão provisória, não vislumbro ofensa aos princípios constitucionais da proporcionalidade e da razoável duração do processo (art. 5º, LXXVIII, da Constituição Federal), o que afasta o acolhimento da tese defensiva de excesso de prazo.
+Assim, considerados os dados do processo,e o tempo de prisão provisória, não vislumbro ofensa aos princípios constitucionais da proporcionalidade e da razoável duração do processo (art. 5º, LXXVIII, da Constituição Federal), o que afasta o acolhimento da tese defensiva de excesso de prazo.
+Ante o exposto, conheço parcialmente do recurso em habeas corpus, e nessa extensão, nego-lhe provimento.
+Intimem-se.
