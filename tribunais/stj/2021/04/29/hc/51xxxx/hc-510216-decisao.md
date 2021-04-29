@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GILDÁVIO RODRIGUES SOUSA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi denunciado pela prática da conduta descrita no art. 157, § 2º, II e V, do Código Penal, tendo sido, em primeiro grau de jurisdição, absolvido, nos termos do disposto no art. 386, VII, do Código de Processo Penal (e-STJ fls. 33/40).
+Irresignado, o Ministério Público estadual interpôs recurso de apelação, ao qual o Tribunal de origem deu provimento para condenar o ora paciente à pena privativa de liberdade de 6 anos e 5 meses de reclusão e à pena pecuniária de 15 dias-multa, como incurso no crime previsto no art. 157, § 2º, II e V, c/c o art. 61, II, h, ambos do Código Penal (e-STJ fls. 70/83).
+A presente impetração funda-se na alegação de nulidade processual consistente na ausência de defesa técnica a partir do momento em que oferecidas as contrarrazões ao recurso de apelação interposto pelo Ministério Público do Estado de São Paulo.
+Nesse sentido, afirma que (e-STJ fl. 11):
+Tudo isso Excelentíssimos Ministros, para explicar, que apesar de TODAS estas informações demonstradas acima, no momento de apresentar suas Contrarrazões de Apelação, o advogado à época, as fez em ínfimas 6 UNHAS. Tornando, portanto, o PACIENTE totalmente INDEFESO.
+Excelência, no momento mais crucial de seu processo-crime, o PACIENTE tornou-se indefeso, restando assim a NULIDADE do ato, pois NÃO HOUVE DEFESA TÉCNICA.
+Diante disso, pleiteia a defesa, em tema liminar, que "seja suspensa a execução da pena até o julgamento do mérito do presente habeas corpus, determinando-se a Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 4a RAJ - Campinas/DEECRIM UR4, do Estado de São Paulo, a expedição de alvará de soltura" (e-STJ fl. 19).
+Liminar indeferida às e-STJ fls.97/98; pedido de reconsideração indeferido às e-STJ fls. 671/674.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit(e-STJ fl. 812):
+EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. RACIONALIZAÇÃO NO USO DO MANDAMUS. PRECEDENTES DO STJ E STF. NULIDADE. DEFICIÊNCIA DE DEFESA TÉCNICA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. NÃO VERIFICADO, DE PLANO,CERCEAMENTO DE DEFESA. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Decido.
+De início,quanto à alegadanulidade processual decorrenteda ausência de defesa técnica a partir do momento em que oferecidas as contrarrazões ao recurso de apelação interposto pelo Ministério Público do Estado de São Paulo, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+Importante consignar, outrossim, que o fato de ascontrarrazões no recurso deapelação serem apresentadas em peça constituída porpoucas laudas não torna, necessariamente, deficiente a atuação da defesa, sendo imperiosa a cristalinademonstração de prejuízo.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. DEFICIÊNCIA DE DEFESA. NULIDADE RELATIVA. SÚMULA N. 523 DO SUPREMO TRIBUNAL FEDERAL. PREJUÍZO NÃO DEMONSTRADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É firme o entendimento jurisprudencial de que apenas a ausência de defesa, ou situação equivalente, com prejuízo demonstrado, é apta a macular a prestação jurisdicional, na forma do que preconiza o enunciado n. 523 da Súmula do Supremo Tribunal Federal: "No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu."
+2. Na hipótese vertente, o recurso de apelação defensivo, interposto pela alínea "c" do inciso III do art. 593 do CPP, não foi conhecido pela Corte de origem em razão da ofensa ao princípio da dialeticidade. No entanto, infere-se do capítulo da sentença referente à dosimetria que, mesmo se o recurso defensivo fosse conhecido, no particular, pela Corte de origem, ainda assim não haveria que se falar em prejuízo, visto que a fundamentação da sentença, no tocante à fixação da pena-base, deu-se de forma idônea, razão pela qual a defesa do ora agravante não foi malograda a ponto de autorizar a nulificação do feito.
+3. "Não se pode qualificar como defeituoso o trabalho realizado pelos advogados contratados pelo recorrente, pois atuaram de acordo com a autonomia que lhes foi conferida por ocasião da habilitação ao exercício da advocacia, nos termos do artigo 7º, inciso I, da Lei 8.906/1994. Diante de um insucesso, para o crítico sempre haverá algo a mais que o causídico poderia ter feito ou alegado, circunstância que não redunda, por si só, na caracterização da deficiência de defesa, a qual, conforme salientado, depende da demonstração do prejuízo para o acusado, não verificado na hipótese" (RHC n. 69.035/ES, rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 7/11/2017, DJe 14/11/2017).
+4. Agravo regimental desprovido.
+(AgInt no HC 332.341/SC, de minha relatoria, SEXTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+De se notar, ainda, que, consoante informações prestadas pela instância ordinária (e-STJ fls. 647/648), a defesa, após o acórdão de apelação, aindaopôs embargos de declaração, bem como interpôs recursos especial e extraordinário, deixando ainda mais enfraquecida a apontada deficiência de defesa técnica.
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fl. 814):
+11. No caso sob exame, verifica-se que o tribunal de origem não analisou a questão referente à deficiência de defesa técnica, não se podendo verificar, de plano, cerceamento de defesa, pois "o reclamo foi recebido e processado com apresentação das contrarrazões"e a defesa opôs embargos de declaração e interpôs recursos especial e extraordinário, bem como agravos aos recursos inadmitidos (cf. informações de fls. 647/648).
+Ante todo o exposto, não conheço da presente impetração.
+Publique-se. Intimem-se.
