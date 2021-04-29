@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO.AUSÊNCIA. ART. 544, § 4º, INCISO I, DO CPC/1973 (ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015).
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RIBEIRÃO GOLF EMPREENDIMENTOS IMOBILIÁRIOS SPE-LTDA. contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em virtude da ausência de impugnação dosfundamentos da decisão que inadmitiu orecurso especial (fls. 270/271 e-STJ).
+Nas presentes razões, aagravante sustenta que "não se pode deixar que a jurisprudência defensiva barre esse tipo de recurso, pois, as partes processuais serão prejudicadas e ficarão descrentes da Justiça" (fl. 281 e-STJ).
+Ao final, requera reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+Impugnação às fls. 285/291 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO.AUSÊNCIA. ART. 544, § 4º, INCISO I, DO CPC/1973 (ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015).
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+3. Agravo interno não provido.
+VOTO
+O acórdãoimpugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, oart. 544, § 4º, inciso I, do Código de Processo Civil de 1973 facultava ao relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada".
+Referida regra encontra correspondência no art. 932, III, do Código de Processo Civil de 2015.
+No caso, correta a decisão atacada que não conheceu do agravo porque o recurso de fls. 130/140 (e-STJ) não impugnou ofundamentoreferenteàdeficiência de cotejo analítico.
+De fato, a impugnação da decisão de admissibilidade do recurso deve ser clara e suficiente para demonstrar o equívoco na sua negativa.
+Esse é, inclusive, o entendimento pacífico do Superior Tribunal de Justiça, formulado no sentido de ser dever do agravante atacar especificamente os fundamentos da decisão combatida, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica ou a reiteração das razões do recurso anterior.
+A propósito, o julgamento do EAREsp nº 746.775/PR, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, em 19/9/2018.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 544, § 4º, I, 2ª PARTE, DO CPC/1973, ART. 253, PARÁGRAFO ÚNICO, INC. I, DO RISTJ E ART. 932, III, DO CPC/2015. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente todos os fundamentos da decisão de inadmissibilidade. Inteligência do art. 544, § 4º, I, do CPC/1973, do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+2. Agravo interno não provido"
+(AgInt no AREsp 856.456/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/5/2016, DJe 16/5/2016).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
