@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por F. AGNES SOLUCOES LTDA e OUTROS em face da decisão que não conheceu do agravo em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial.
+Em suas razões, sustenta a parte embargante que
+.. Excelência, os honorários sucumbenciais devem ser arbitrados considerando o princípio da razoabilidade e proporcionalidade, para evitar o injustificado enriquecimento do advogado da parte adversa em detrimento do patrimônio do vencido.
+O que se observa no presente caso, é que o julgador, data máxima venia, não se ateve aos parâmetros utilizados pelas instâncias inferiores para definição do valor da sucumbência. Logo, majorar os R$ 5.000,00 (cinco mil reais) em 15%, implica no enriquecimento sem causa do patrono da embargada, mormente, quando já tem direito à 20% nos autos da execução.
+Em face todo exposto, considerando que as decisões da execução e dos embargos à execução arbitraram os honorários sucumbenciais em valores que ultrapassam 20%, a embargante requer o acolhimento dos presentes embargos a fim de sanar a decisão para afastar a majoração dos honorários em quaisquer percentuais.(fls.781/2)
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Os honorários recursais foram majorados em desfavor da parte agravante no importe de 15% sobre o montante já arbitrado na sentença de embargos à execução, que é uma ação autônoma,
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. CÉDULA DE CRÉDITO BANCÁRIO. ENCARGOS FINANCEIROS. CDI. POSSIBILIDADE. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. ART. 85, § 11 DO CPC. DESCABIMENTO. EXCESSO. LIMITE ESTABELECIDO NO CÓDIGO DE PROCESSO CIVIL.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial amparado no dissídio jurisprudencial, quando não demonstrada a semelhança entre as hipóteses confrontadas.
+3. A conclusão das instâncias ordinárias, de que não foi verificada abusividade nos encargos pactuados com base na variação do certificado de depósito interbancário (CDI), fixado pela CETIP, foi obtida pela análise do conteúdo fático e contratual dos autos, cuja revisão encontra óbice nas Súmulas 5 e 7 do STJ.
+4. A Corte Especial, no julgamento do recurso especial sob o rito dos repetitivos (REsp 1520710/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 18/12/2018, REPDJe 02/04/2019, DJe 27/02/2019), firmou a tese de que "os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973".
+5. A entrada em vigor do atual Código de Processo Civil não alterou a referida limitação máxima da verba honorária de sucumbência, conforme se pode depreender da interpretação sistemática das normas pertinentes à matéria.
+6. Inviável, in casu, a elevação da verba de sucumbência a título dos chamados honorários recursais se ultrapassam o limite máximo estabelecido pelo Código de Processo Civil.
+7. Agravo interno parcialmente provido para afastar os honorários recursais.
+(AgInt no AREsp 1248069/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2021, DJe 16/04/2021)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
