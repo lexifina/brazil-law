@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por NEILSON FRANCISCO DE LIMA CARVALHO, com base naalínea"a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado doTocantinsassim ementado (e-STJ fl. 304):
+EMENTA : APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AGENTE COMUNITÁRIO DE SAÚDE. INCENTIVO ADICIONAL INSTITUÍDO PELA PORTARIA Nº 1.350/GM DE 24/07/2002, DO MINISTÉRIO DA SAÚDE.REPASSE DO GOVERNO FEDERAL. DIREITO NÃO CONFIGURADO. DESTINAÇÃO AO MUNICÍPIO. APELO IMPROVIDO.
+1. A Portaria nº 648/2006 MS/GM revisou as normas consagradas pela Portaria nº 1.350/GM de 24/07/2002, do Ministério da Saúde, estabelecendo 02 (dois) tipos de incentivo financeiro, vinculados ao programa de Agentes Comunitários de Saúde, a serem repassados da União ao Município, quais seja, o Incentivo Financeiro de Custeio e o Incentivo Financeiro Adicional.
+2. Decidiu o TST que o incentivo financeiro adicional previsto na Portaria 1.350/2002, do Ministério da Saúde, deve ser utilizado na promoção e incremento de atividades relacionadas à área de saúde do Município, não se constituindo como verba remuneratória aos agentes comunitários de saúde.
+3. A Constituição Federal, em seus artigos 37, inciso X e 61, II, alínea a, descrevem a necessidade de lei específica para a instituição de remuneração dos servidores públicos, não havendo que se falar na aplicação da norma contida nas Portarias que ora se analisa.
+4. Esta Corte de Justiça já se pronunciou no sentido de que referido adicional é verba destinada aos municípios para o fortalecimento das políticas afetas à atuação dos Agentes Comunitários de Saúde e Agentes de Combate a Endemias, não havendo a vinculação a eventual adicional aos profissionais.
+5. Recurso conhecido e improvido.
+Rejeitados os aclaratórios (e-STJ fls. 326/345).
+Nas suas razões, a parte recorrente aponta violação do art.9º-C, § 4º, da Lei n. 11.350/2006, sustentando fazer jusao recebimento da parcela remuneratória discutida tambémno último trimestre de cada exercício.
+Contrarrazões às e-STJ fls. 367/373.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 379/381.
+Passo a decidir.
+A pretensão recursal não comporta acolhida.
+Com efeito, observa-se que o Tribunal a quo decidiu a questão mediante fundamentação constitucional (" ..  a Constituição Federal, em seuart. 37, inciso X e 61, II, alínea "a", descreve a necessidade de lei específica para a instituição de remuneração dos servidores públicos, não havendo que se falar na aplicação da norma contida nas Portarias que ora se analisa" (e-STJ fl. 276)) e infraconstitucional ("o Incentivo Financeiro Adicional é vinculado ao Programa de Saúde da Família e ao Programa de Agentes Comunitários de Saúde, conforme art. 1º da conforme Portaria do Ministério da Saúde n.1.350/GM de 24/07/2002, que o instituiu, determinando o repasse em parcela única, com base no número de agentes comunitários de saúde, a ser utilizado exclusivamente no financiamento das atividades dos agentes comunitários de saúde"-e-STJ fl. 276), suficiente e autônoma à preservação do decisum.
+Todavia, a parte recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial interposto, sendo este manifestamente inadmissível, nos termos da Súmula 126 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
