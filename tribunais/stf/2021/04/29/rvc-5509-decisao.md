@@ -1,0 +1,18 @@
+Revisão criminal. Incompetência do STF. CF/88, art. 102, I, “j”. CPP, art. 624. RISTF, art. 263. Nega seguimento.
+    Vistos etc.
+    Trata-se de revisão criminal, com pedido liminar, aforada por Alan Soares Machado, na qual pleiteia “revisão do julgado da Apelação Criminal n. 0031412-03.2017.8.26.0050, proferida pelo Tribunal de Justiça do Estado de São Paulo”, sob o argumento de contrariedade a texto expresso da lei penal e à evidência dos autos.
+    Aduz ter interposto, contra a condenação de segunda instância, “os competentes Recursos Especial (REsp 1857103/SP) e Extraordinário (RE 1267852), admitidos parcialmente em 02 de dezembro de 2019. O REsp restou não conhecido; no caso do RE, prejudicado em parte, lhe foi negado seguimento em relação às demais impugnações.”. Concomitantemente, narra impetração do “HC 176112, de relatoria do Ministro Gilmar Mendes, que concedeu a ordem para declarar a ilegalidade da execução provisória da pena, e assim revogar a prisão tal como decretada, em 17 de junho de 2020.”.
+    Pede, em sede liminar, a suspensão de sua execução penal e, no mérito, a rescisão do acórdão do Tribunal local ou a revisão da dosimetria da pena imposta.
+    É o relatório. Decido.
+    Na dicção da alínea “j” do inciso I do artigo 102 da Constituição Federal, o Supremo Tribunal Federal é originariamente competente para processar e julgar a revisão criminal de seus próprios julgados. O artigo 624 do Código de Processo Penal estabelece, em linha semelhante, que as revisões criminais serão processadas e julgadas pelo Supremo Tribunal Federal “quanto às condenações por ele proferidas”. Finalmente, a regra do artigo 263 do RISTF prescreve “será admitida a revisão, pelo Tribunal, dos processos criminais findos, em que a condenação tiver sido por ele proferida ou mantida no julgamento de ação penal originária ou recurso criminal ordinário”.
+    A jurisprudência da Corte não diverge quando à sua incompetência para processar e julgar pedidos de revisão criminal fora das hipóteses expressamente contempladas no texto constitucional:
+    AGRAVO INTERNO NA REVISÃO CRIMINAL. ACÓRDÃO DE TURMA. JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM AGRAVO. CABIMENTO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. NECESSIDADE DE CONDENAÇÃO CRIMINAL ORIGINÁRIA DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGAVADA. AGRAVO INTERNO NÃO PROVIDO. I - Cabe este Supremo Tribunal Federal processar e julgar, originariamente, a revisão criminal de seus julgados em processos cuja condenação for por ele proferida ou mantida no julgamento de ação penal originária ou recurso criminal ordinário. II - É dever da parte agravante impugnar especificamente os fundamentos da decisão agravada. Precedentes. III - Agravo não provido.
+    (RvC 5.460-AgR/SP, Rel. Min. Ricardo Lewandowski, Plenário, DJe 30.5.2017).
+    No caso concreto, postula-se a rescisão de acórdão proferido pela 8ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que condenou o requerente às penas privativa de liberdade e de multa, pelo cometimento do crime de tráfico de drogas.
+    Inexistente, portanto, título condenatório penal emanado desta Suprema Corte em ação penal originária ou em recurso criminal ordinário, a instaurar a competência originária do Tribunal para o processamento e julgamento da revisão criminal.
+    Em hipóteses tais, cabe ao Relator atuar monocraticamente, negando seguimento à revisão criminal, sem que isso implique transgressão ao princípio da colegialidade (RvC 5448, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 08.4.2016).
+    Ante o exposto, forte no artigo 21, § 1º, do RISTF, nego seguimento à presente revisão criminal.
+    Intimem-se.
+    Brasília, 29 de abril de 2021.
+Ministra Rosa Weber
+Relatora
