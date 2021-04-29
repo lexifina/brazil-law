@@ -1,0 +1,34 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c"do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+Recurso em Sentido Estrito. Crimescontra a honra praticados pela INTERNET.Análise sobre a competência para apreciara matéria. Aplicação da regra do art. 70 doCódigo de Processo Penal. Teoria doresultado. Lugar onde a vítima eterceiros tomaram conhecimento dosfatos, em tese, ofensivos, ainda que ascorrespondências eletrônicas tenhamsido enviadas de local diverso. recursoprovido.
+Aplica-se a regra do art. 70 doCódigo de Processo Penal (lugar daconsumação) nos crimes contra a honra,cometidos pela Internet (via
+correspondência eletrônica e redessociais), tendo em vista que oconteúdo, em tese, ofensivo, pode serpublicado de qualquer lugar, contudocausa ofensa à honra da vitima nacomunidade em que ela vive. (e-STJ fl. 188)
+A defesaaponta a violação dos arts. 69, I e II, 70 e 72, todos do Código de Processo Penal, alegando, em síntese, que diante do desconhecimento do local da infração, a competência deve ser fixada pelo local do domicílio ou residência do réu.
+Contrarrazões às e-STJ fls. 259/262.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 315/322.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam queo TJPR deu provimento ao recurso em sentido estrito interposto por Augusto Fonseca da Costa e reconheceu como competente para o processamento e julgamento do feito o Juízoda Comarca de Cascavel/PR.
+A defesaalegaque diante do desconhecimento do local da infração, a competência deve ser fixada pelo local do domicílio ou residência do réu. Sobre o tema o TJPR assim se pronunciou:
+A pretensão expendida no presente recursocinge-se à cassação da decisão a quo, a fim de que o julgamento doprocesso crimenº 0014216-52.2018.8.16.0021 se de perante a 2a VaraCriminal da Comarca de Cascavel, tendo em vista que foi nestaComarca que o recorrente foi vítima dos crimes descritos na queixa-crime, quando tomou conhecimento do conteúdo das mensagenseletrônicas, replicadas via rede social Facebook, assistindo-lhe razão.
+ ..
+E, nos crimes cometidos via Internet, ajurisprudência já se manifestou no sentido de que o local consumativoé onde são recebidas as mensagens eletrônicas.
+ ..
+Não se ignora, também, que, em setratando de crime contra a honra cometido pela Internet, tementendido parcela expressiva da jurisprudência pátria que o local dainfração penal é aquele em que o acusado concluiu a ação delituosa,ou seja, postou as mensagens supostamente ofensivas.
+Não obstante, como bem apontado peladecisão objeto do presente recurso, no caso em exame não se revelapossível aferir qual foi o local da infração, não havendo nos autosinformações precisas acerca do lugar em que se encontrava orequerido quando enviou os indigitados e-mails.
+ ..
+Outrossim, cabe ressaltar que taisinformações, em tese caluniosas e difamatórias, foram reproduzidascentenas de vezes via Internet, por meio da rede social Facebook,resultando na instauração de processos crime em face dos respectivosacusados.
+De conseguinte, quando os amigos edemais pessoas (terceiros) e também o próprio recorrente (vítima)visualizaram a publicação, os crimes se consumaram, no caso, nolocal de domicílio do ofendido.
+ ..
+Com base em tais considerações, é de se darprovimento ao recurso, para o fim de cassar a decisão de primeiro graue reconhecer o Juízo da Comarca de Cascavel/PR como competentepara o processamento e julgamento do processo crime nº 0014216-52.2018.8.16.0021. (e-STJ fls. 192/196)
+Observa-se que o entendimento do Tribunal de origem está em confronto com a jurisprudência desta Corte que assim já decidiu:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME CONTRA A HONRA PRATICADO POR MEIO DA INTERNET. NATUREZA FORMAL. CONSUMAÇÃO NO LOCAL DA PUBLICAÇÃO DO CONTEÚDO OFENSIVO. TODAVIA QUANDO ESSE LUGAR É DESCONHECIDO, INCIDÊNCIA DA REGRA SUBSIDIÁRIA DO ART. 72 DO CÓDIGO DE PROCESSO PENAL -CPP. COMPETÊNCIA DO LOCAL DE DOMICÍLIO OU RESIDÊNCIA DA QUERELADA. EXCEÇÃO DE INCOMPETÊNCIA OPOSTA NO PRAZO DA DEFESA. OBSERVÂNCIA DO ART. 108 DO CPP. PRECLUSÃO CONSUMATIVA NÃO CONFIGURADA. ORDEM CONCEDIDA DE OFÍCIO. ACÓRDÃO IMPUGNADO CASSADO.
+RESTABELECIDA A DECISÃO DE PRIMEIRO GRAU QUE DEU PROVIMENTO À EXCEÇÃO DE INCOMPETÊNCIA.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal -STF e do próprio Superior Tribunal de Justiça -STJ. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+2. "Crimes contra a honra praticados pela internet são formais, consumando-se no momento da disponibilização do conteúdo ofensivo no espaço virtual, por força da imediata potencialidade de visualização por terceiros" (CC 173.458/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, DJe 27/11/2020).
+3. Na hipótese dos autos é incontroverso que não se identificou o local de onde partiram as supostas ofensas. Tal indefinição é apontada desde a inicial acusatória e também mencionada nas decisões prolatadas na instância ordinária. Destarte, torna-se impossível a aplicação da regra descrita no art. 70 do CPP, a qual determina a fixação da competência no local da consumação. Diante disso, deve incidir na espécie a regra subsidiária descrita no art. 72 do CPP que fixa a competência do juízo do local da residência ou domicílio do réu.
+ ..
+7. Está configurada flagrante ilegalidade no acórdão impugnado que apontou extemporaneidade por preclusão consumativa inexistente na espécie, bem como fixou competência do juízo do local da residência da querelante, no caso de crime contra a honra praticado pela internet, em total desconformidade com a jurisprudência desta Corte Superior e com as regras insculpidas no art. 70 e seguintes do CPP.
+8. Ordem concedida de ofício tão somente para cassar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento do recurso em sentido estrito e restabelecer integralmente a decisão do Juízo da 3ª Vara Criminal de Comarca de Florianópolis que julgou procedente a exceção de incompetência oposta pela paciente determinando a remessa dos autos à Comarca de Chapecó/SC.(HC 591.218/SC, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 12/02/2021)
+Ante o exposto, com amparo no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo e dou provimento ao recurso especial para restabelecer a decisão do Juízo da 2ªVara Criminal de Cascavel que julgou procedentea exceção de incompetência, determinando a remessa dos autos à Comarca de Rio Claro/SP.
+Intimem-se.
