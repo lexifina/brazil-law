@@ -1,0 +1,36 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR TEMPO DE CONTRIBUIÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/73. INOCORRÊNCIA.COMPROVAÇÃO DA QUALIDADE DE SEGURADO ESPECIAL. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA AUTARQUIA FEDERAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento naalínea ado inciso III do art. 105 da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCLÁRIO. TEMPO DE SERVIÇO RURAL. REGIME DE ECONOMIA FAMILIAR. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CONCESSÃO.
+1. Comprovado o labor rural em regime de economia familiar, mediante a produção de início de prova material, corroborada por prova testemunhal idônea, o segurado faz jus ao cômputo do respectivo tempode serviço.
+2. Tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempojudicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do beneficio (fls. 218/229).
+2. Os embargos de declaração opostos foram rejeitados (fls. 238/244).
+3. Nasrazões do seurecurso especial (fls. 246/257), a parte agravante sustenta violação dosarts. 2º, 128, 460, 512,515 e 535 todos do CPC/1973 e do art. 55, § 3º, da Lei 8.213/1991. Argumentapara tanto: (a) a negativa de prestação jurisdicional; (b) a inexistência de prova material contemporânea aos fatos,suficiente para a comprovação do labor rural supostamente exercido pela parte agravada e (c) a ocorrência de reformatio in pejus, em virtude da alteração dos consectários da condenação pelo Tribunal de origem, não obstante a ausência de provocação pela parte autora em seu recurso de apelação.
+4. Devidamente intimada (fls. 258),a parte agravada deixou de apresentar as contrarrazões (fls. 258).
+5. O recurso especial foi sobrestado até o julgamento do RE870.947/SE, da relatoria do Ministro LUIZ FUX, que reconheceu arepercussão geral da matéria referente à validade da correçãomonetária e dos juros moratórios incidentes sobre as condenaçõesimpostas à Fazenda Pública, conforme previstono art. 1º-F da Lei9.494/1997, com a redação dada pela Lei 11.960/2009 (Tema 810/STF).
+6. Com a posterior manifestação do Supremo Tribunal Federal,determinou-se o retorno dos autos ao órgão julgador, que alterou parcialmente o julgado, nos termos da seguinte ementa:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. CONSECTÁRIOS LEGAIS. TEMA STF 810. TEMA STJ 905.
+1. O Supremo Tribunal Federal, ao julgar o RE nº 870.947/SE, em sede de repercussão geral (Tema 810) reconheceu a inconstitucionalidade do art. 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que determina a utilização da TR (taxa referencial) como índice de correção monetária para as condenações não-tributárias impostas à Fazenda Pública.
+2. A 1ª Seção do Superior Tribunal de Justiça, ao julgar o REsp nº 1.492.221/PR, sob a sistemática dos recursos especiais repetitivos (Tema 905) definiu os índices de correção monetária a serem aplicados de acordo com a natureza da condenação.
+3. Os juros de mora, a partir de 30/06/2009, incidem segundo os índices oficiais de remuneração básica aplicados à caderneta de poupança, conforme art. 5º da Lei 11.960/09, que deu nova redação ao art. 1º-F da Lei nº9.494/97, cuja constitucionalidade foi reconhecida pelo STF.
+4. Encontrando-se os juros moratórios fixados no voto condutor do acórdão em desconformidade com o entendimento firmado pelas cortes superiores, impõe-se, em juízo de retratação, a adequação do julgado (fls. 350/355).
+7. Intimada do acórdão, a parte agravanteratificou o recurso especialem relação à tese daausência de prova material do labor rural no período de carência exigido.
+8. Sobreveio o juízo negativo de admissibilidade (fls. 365/367), fundado no óbice da Súmula 7/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+9. É o relatório.
+10. A irresignação não merece prosperar.
+11. Nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+12. Inexiste a alegada violação do art. 535 do CPC/73, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+13. Com relação à alegada ausência de comprovação da condição de segurado especial da parte agravada, para fins de percepção do benefício de aposentadoria rural por tempo de contribuição, o Tribunal de origem assim se manifestou sobre o tema:
+EXAME DO TEMPO RURAL NO CASO CONCRETO:
+A título de prova documental do exercício da atividade rural, aparte autora, nascida em 14/10/1955, em Três Passos - RS, junta aos autos:
+- certidão de óbito de seu genitor, ocorrido em 17/04/1974, da qual consta a qualificação como agricultor (fl. 19)
+- certidão de casamento do autor, ocorrido em 26/07/1980, da qual consta a qualificaçãocomo agricultor (fl.20);
+- certidão de nascimento dos filhos, ocorridos em 1981, 1984 e 1986, da qual consta a qualificação do autor como agricultor (fls. 21-23).
+Tais documentos constituem início de prova material do alegado labor rural.
+A prova testemunhal produzida, por sua vez, é robusta e uníssona no sentido de confirmar o exercício da atividade rural no período indicado.
+Concluindo o tópico, julgo comprovado o exercício da atividade rural no períodode 14/10/1967 a 31/12/1986, merecendo confirmação a sentença no ponto (fls. 220/221).
+14. Com efeito, a Corte regional reconheceu que a parte agravada apresentouprovas suficientes para comprovar o labor rural no períodode 14/10/1967 a 31/12/1986, na condição de segurado especial, razão pela qual confirmou a sentença que lhe concedera a aposentadoria por tempo de contribuição.
+15. Dessa forma, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+16. Por fim, no que toca à insurgência em relação aos consectários da condenação, o recurso resta prejudicado, ante a adequação do julgado aos Temas 810/STF e 905/STJ.
+17. Ante o exposto, conheço do agravo para não conhecer do recurso especial da autarquia federal.
+18. Publique-se. Intimações necessárias.
