@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de PAULO FELIPE DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelaçãon. 1500679-09.2019.8.26.0535).
+Opacientefoi condenado às penas de 3anos, 1 mês e 10 dias de reclusão em regime semiaberto e de 14dias-multa, pelaprática dodelitodescritonoart. 155, §§ 1º e 4º, II,do Código Penal.
+A Defensoria Pública alega constrangimento ilegal decorrente do aumento de pena na terceira fase da dosimetria, referente ao repouso noturno, pois somente se aplica ao furto simples, não ao furto qualificado. Também afirma que a majorante somente é admitida se o lugar estiverhabitado e se houverpessoa repousando.
+Afirmaaindahaver ilegalidade no que diz respeitoà possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, que deve ser aceita, porquantose trata de reprimenda inferior a 4 anos, sem circunstâncias judiciais desfavoráveis, de crime não cometido com violência ou grave ameaça a pessoae dereincidência que não se operou em virtude da prática do mesmo crime, sendo a substituição recomendável.
+Requer, liminarmente, possa o paciente aguardar em liberdade o julgamento do writ. No mérito, seja reduzida a pena e permitida a substituição da pena privativa de liberdade por restritivas de direitos.
+A liminar foi indeferida (fls. 100-101).
+Asinformações foram prestadas (fls. 108-114).
+O Ministério Público Federal opinoupela denegação da ordem(fls. 116-121).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimentode que não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificadaflagrante ilegalidade no ato judicial impugnado.
+No presente caso, eis o que dispôs o Tribunal de origem a respeito das questõessuscitadas (fls. 94-96):
+Nem se alegue que, por se tratar de estabelecimento comercial, sem a presença de pessoas no local, afastada estaria a possibilidade de incidência da causa de aumento de pena em questão.
+Sobre o tema, aliás, já decidiu o Colendo Superior Tribunal de Justiça:
+ ..
+De outra parte, também inviável o afastamento da causa de aumento de pena referente o repouso noturno, em face citada incompatibilidade de sua aplicação às qualificadoras do furto.
+Ora, sobre esse tema, observa-se que, na esteira da linha de raciocínio desenvolvida pelo Colendo Superior Tribunal de Justiça, ao decidir pela possibilidade de aplicação da figura do furto privilegiado ao furto qualificado, a referida Corte entendeu que também se mostra compatível à aplicação da causa de aumento do repouso noturno às hipóteses do artigo 155, § 4º, do Código Penal.
+ ..
+E, de fato, não é merecedor da substituição da privativa da liberdade por restritiva de direitos, uma vez que se trata de réu reincidente em crime doloso (roubo tentado), circunstância que, de fato, não recomenda a pleiteada substituição da privativa de liberdade por restritiva de direitos, medida que não seria socialmente recomendável.
+Não há falar em ilegalidade quanto à conclusão adotada, pois aorientação do Superior Tribunal de Justiça é a de que a causa de aumento prevista no art. 155, § 1º, do CP, relacionada à prática do crime durante o repouso noturno, é aplicável ao furto privilegiado.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA.REPOUSO NOTURNO. COMPATIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior é pacífica no sentido de admitir que a causa de aumento prevista no § 1º do art. 155 do Código Penal - CP (prática do crime de furto no período noturno) pode incidir tanto no crime de furto simples (caput) como na sua forma qualificada (§ 4º).
+2. Agravo regimental desprovido.(AgRg no HC n. 577.123/SC, relatorMinistro JoelIlanPaciornik, QuintaTurma, DJe de 15/6/2020.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO.MAJORANTE DO REPOUSO NOTURNO. COMPATIBILIDADE. PRECEDENTES DO STJ.FATO INCONTROVERSO. VALORAÇÃO JURÍDICA. POSSIBILIDADE. GRAVO IMPROVIDO.
+1. A causa de aumento prevista no § 1º do art. 155 do Código Penal, que se refere a prática do crime durante o repouso noturno, é aplicável ao furto qualificado.
+2. Tratando-se de valoração jurídica de fato incontroverso, não há falar em incidência da Súmula 7/STJ, a obstar o processamento do recurso especial.
+3. Agravo regimental improvido.(AgRg no REsp n. 1.731.115/SC, relatorMinistroNefiCordeiro, SextaTurma, DJe de 24/9/2018.)
+Também há o entendimento de que referida causa de aumento pode configurar-se mesmo quando o crime é cometido em estabelecimento comercial ou em residência desabitada, mostrando-se indiferente o fato de a vítima estarou nãoali repousando.
+Nesse sentido:
+HABEAS CORPUS. FURTO PELO ROMPIMENTO DE OBSTÁCULO E ESCALDA, PRATICADO DURANTE O REPOUSO NOTURNO. PENA-BASE. QUALIFICADORA SOBEJANTE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO DELITO. INVASÃO DA RESIDÊNCIA DA VÍTIMA. GRAVIDADE CONCRETA DA AÇÃO CRIMINOSA.EXASPERAÇÃO DA PENA. FRAÇÃO PROPORCIONAL. REPOUSO NOTURNO.INCIDÊNCIA DA CAUSA DE AUMENTO DE PENA AINDA QUE A VÍTIMA NÃO ESTEJA REPOUSANDO. PRECEDENTES. REGIME PRISIONAL INICIAL FECHADO.CIRCUNSTÂNCIA JUDICIAL NEGATIVA, REINCIDÊNCIA E PENA SUPERIOR A 4 ANOS DE RECLUSÃO. AFASTAMENTO DO ENUNCIADO N. 269 DA SÚMULA DESTA CORTE. WRIT NÃO CONHECIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - A jurisprudência desta Corte é firme no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas pode ser utilizada para qualificar o delito e a outra para exasperar a pena-base, como circunstância judicial negativa.
+II - É idônea a valoração negativa das circunstâncias do delito, tendo em vista a gravidade concreta da conduta de quem invade a residência da vítima.
+III - Ademais, não há que se falar em violação ao princípio da proporcionalidade, porquanto a fração aplicada (1/3), pela existência de duas circunstâncias judiciais negativas, está em consonância com os parâmetros usualmente previstos na jurisprudência desta Corte.
+IV - A jurisprudência desta Corte é firme no sentido de que a causa especial de aumento de pena do furto cometido durante o repouso noturno pode se configurar mesmo quando o crime é cometido em estabelecimento comercial ou residência desabitada, sendo indiferente o fato de a vítima estar, ou não, efetivamente repousando (HC 191.300/MG, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 12/6/2012, DJe 26/6/2012), devendo ser mantida, portanto, no caso.
+V - Quanto ao regime prisional inicial, não é o caso de se aplicar o enunciado 269 da Súmula desta Corte Superior, quer porque a pena é superior a quatro anos, quer pela existência de circunstância judicial desfavorável e da reincidência do paciente.
+VI - Agravo regimental a que se nega provimento.(AgRg no HC n. 609.143/SP, relatorMinistro Reynaldo Soares da Fonseca, QuintaTurma, DJe de 4/2/2021.)
+No que diz respeito à possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, § 3º, do Código Penal, mesmo que o condenado seja reincidente, pode o juiz aplicar a substituição, desde que, considerada a condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+Por sua vez, ajurisprudência doSuperior Tribunal de Justiça firmou-se no sentido de que, não sendo caso de reincidência específica, mas de condenação anterior porprática de crime grave e cometido com grave ameaça a pessoa, não é socialmente recomendável a substituição da pena privativa de liberdade por restritiva de direitos. No presente caso, o anterior crime praticado foi o de roubo, em cuja natureza há violência ou grave ameaça a pessoa.
+Confiram-se julgados a respeito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO SIMPLES. SENTENÇA. PRETENSÃO DE SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ACUSADO REINCIDENTE. CONDENAÇÃO ANTERIOR PELA PRÁTICA DE CRIME GRAVE. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL (ART. 44, § 3º, DO CP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal à liberdade de locomoção.
+2. O art. 44, § 3º, do Código Penal, é claro afirmar que se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+3. Considerando que o réu não é reincidente específico, mas ostenta condenação anterior pela prática de crime grave e cometido com grave ameaça à pessoa (roubo), não se mostra socialmente recomendável a substituição da pena privativa de liberdade.
+4. Agravo regimental improvido. (AgRg no HC n. 618.438/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/10/2020.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. PLEITO DE SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA. CONDENAÇÃO ANTERIOR PELO CRIME DE ROUBO. NÃO PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. MANIFESTA ILEGALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O § 3º do art. 44 do Código Penal ressalva que "se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime."
+3. No caso, a Corte local ressaltou que a reincidência do paciente, embora não sendo específica, configurou-se pela prática anterior de crime de roubo. Ademais, destacou que o crime de receptação foi praticado enquanto o paciente cumpria pena no regime aberto. Por tais razões, considerou que o paciente não preenche os requisitos objetivos e subjetivos previstos no art. 44 do Código Penal.
+4. Mostra-se insuficiente a substituição da pena privativa de liberdade por restritiva de direitos quando há reincidência e a medida não se mostra recomendável (art. 44, II e § 3º, do CP), tal como ocorre na espécie, em que a condenação anterior do réu, considerada para efeitos de reincidência, refere-se a delito cometido com violência ou grave ameaça (roubo).
+5. Writ não conhecido. (HC n. 599.547/DF, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 21/9/2020.)
+Desse modo, não se verificailegalidade apta a justificar a concessão da ordemde ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
