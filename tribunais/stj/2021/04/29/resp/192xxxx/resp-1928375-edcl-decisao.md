@@ -1,0 +1,31 @@
+DECISÃO
+Cuidam-se de embargos de declaração no recurso especial, opostos por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, contra decisão que não conheceu do recurso especial que interpusera, e que foi assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de revisão contratual.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido, com majoração de honorários. (e-STJ Fl. 380)
+No presente recurso, aponta a embargante possível equívoco da decisão embargada, notadamente em relação à aplicação da Súmula 283/STF à espécie, bem como em relação à ausência de demonstração do dissídio jurisprudencial.
+É o breve relatório.
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+No ponto em que questionado pela embargante, consta expressamente da decisão embargada que:
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/RS de que "os contratos em análise resultam de diversas renegociações, novações sucessivasde uma mesma dívida, de forma que o marco inicial para o computo de tal prescrição também se renovou (tal que se denota, por exemplo, do fato de que os valores concedidos são superiores aos creditados). Sobre o tema, a súmula n. 286 do Superior Tribunal de Justiça afirma que "a renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores". Assim sendo, tem-se que a pretensão revisional do autor não se encontra fulminada, porquanto não configurada prescrição" (e-STJ Fl. 284), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 ou 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ. (e-STJ Fls. 381/382)
+No presente recurso, a parte embargante colaciona trecho de seurecurso especial, no qual supostamente demonstra a impugnação do fundamento que atraiu o óbice da Súmula 283/STF à hipótese dos autos. Confira-se:
+"(..)
+7. Ocorre que a circunstância de que o prazo ao ingresso da pretensão declaratória ser decenal, porque fundada em direito pessoal não afasta a possibilidade de que seja reconhecida prescrição aos cinco contratos mais antigos, objeto de revisão, ante a mera aplicação do princípio da actio nata, com a necessária observância aos predicados de segurança jurídica e pacificação social, inerentes à adequada aplicação do instituto da prescrição.
+8. Além do referido, a eventual aplicação, por analogia, do verbete nº 286/STJ, é insuficiente a afastar a pertinência desta pretensão recursal, porque mesmo que seja viável a discussão sobre a legalidade de todos os pactos firmados entre as partes, tal circunstância não afasta a necessidade de que seja verificada a prescrição incidente, ou não,sobre cada uma das avenças, especialmente porque há de se diferenciar os possíveis efeitos declaratórios da revisão judicial da totalidade dos contratos dos eventuais efeitos repetitórios/restituitórios (sobre os quais obviamente incide a prescrição). Com efeito, o tomador do empréstimo tem a faculdade de discutir judicialmente o teor das cláusulas contratuais desde a assinatura do contrato, momento em que teve ciência inequívoca dos encargos que assumidos, o que remanesce inalterado ainda que tenha havido sucessivas contratações/novações realizadas entre as partes.
+9. Assim, ao não aplicar corretamente o termo inicial à contagem do prazo decenal estabelecido no art. 205, CC, no caso concreto, relativamente aos contratos que foram firmados em momento anterior ao decênio que antecede ao ajuizamento da ação, o quanto decidido merece revisão, pois frontalmente violado o art. 205, CC, na medida em que mal aplicado à espécie.(..)"-grifamos (e-STJ Fls. 384/385)
+(..)
+Consoante se depreende do texto acima destacado pela embargante, verifica-se que, de fato, o fundamento utilizado peloTJ/RS de que "os contratos em análise resultam de diversas renegociações, novações sucessivas de uma mesma dívida, de forma que o marco inicial para o computo de tal prescrição também se renovou", não foi impugnado pela embargante, não havendo qualquer omissão ou contradição a ser sanada no julgado embargado.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
