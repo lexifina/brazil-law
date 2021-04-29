@@ -1,0 +1,32 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Fazenda Rio Grande contra decisão que negou provimento ao agravo com base na seguinte fundamentação: a alteração das conclusões adotadas pela Corte de origem, de modo a se endossar o argumento recursal de que a Empresa recorrida possuiria unidade econômica com poderes decisórios em Município de Fazenda do Rio Grande, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Sustenta a agravante, em resumo, que "o fato gerador do ISS ocorre no estabelecimento prestador, para serviços cuja prestação demanda a existência de base física imóvel. E o agente financeiro Banco Safra S.A., embora não esteja sediado nesta municipalidade possui posto de atendimento neste Município de Fazenda Rio Grande, que realiza as devidas operações bancárias" (fl. 380) e que "O Banco recorrido, por sua vez, não trouxe aos autos nenhuma prova de que a decisão de concessão do leasing foi tomada em local diverso deste município de Fazenda Rio Grande/PR" (fl. 381).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada, houve apresentação de impugnação (fls. 398/404).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem.
+Conforme constou do relatório, a decisão agravada negou provimento ao agravo com base na Súmula 7/STJ, tendo em vista que a alteração das conclusões adotadas pela Corte de origem, de modo a se endossar o argumento recursal de que a Empresa recorrida possuiria unidade econômica com poderes decisórios em Município de Fazenda do Rio Grande, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos.
+Nas razões de agravo interno, entretanto, a parte agravante cingiu-se a reiterar as questões de mérito do recurso especial, deixando de refutar a incidência do apontado obstáculo da Súmula 7/STJ.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
