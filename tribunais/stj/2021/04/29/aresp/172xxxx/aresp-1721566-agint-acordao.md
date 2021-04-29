@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR TEMPORÁRIO. REINTEGRAÇÃO. COISA JULGADA MATERIAL RECONHECIDA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+1. O Tribunal de origem não se manifestou sobre a alegação de que nas ações previdenciárias pode ser relativizada a coisa julgada, tendo em vista a existência de nova situação fática, superveniente, que diferencia a causa de pedir das ações, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Rogério Moreira Roque contra decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 7 e 211/STJ.
+Inconformada, a agravante defende a inaplicabilidade dos referidos óbices. Defende que "a questão suscitada em sede de Recurso Especial foi prequestinada e discutida pelo TRF4 de forma explicita, o que demonstra a viabilidade de conhecimento do recurso." (fl. 169), bem como que "Não é caso de discussão de matéria de fato e, sim, de contrariedade a dispositivos legais, qual seja, art. 485, V, do CPC, isso porque tratando-se de ação de cunho previdenciário/militar que envolve relação de trato sucessivo e discute- se alteração de sua situação clinica deve-se afastar a coisa julgada." (fl. 170).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR TEMPORÁRIO. REINTEGRAÇÃO. COISA JULGADA MATERIAL RECONHECIDA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+1. O Tribunal de origem não se manifestou sobre a alegação de que nas ações previdenciárias pode ser relativizada a coisa julgada, tendo em vista a existência de nova situação fática, superveniente, que diferencia a causa de pedir das ações, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado na decisão da Presidência desta Corte, o Tribunal de origem não se manifestou sobre a alegação de que nas ações previdenciárias pode ser relativizada a coisa julgada, tendo em vista a existência de nova situação fática, superveniente, que diferencia a causa de pedir das ações, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o Tribunal de origem entendeu pela existência de coisa julgada material no caso, com base na seguinte fundamentação (fls. 87/91):
+O instituto da coisa julgada (material) caracteriza-se, fundamentalmente, por ser uma garantia constitucional (artigo 5º, XXXVII, Constituição da República) que tem como efeito principal a chamada imutabilidadee a indiscutibilidade do teor da parte dispositiva da sentença, operando-se entre as partes litigantes e tendo uma eficácia preclusiva e negativa, sendo inerente para a aplicação do princípio da segurança jurídica e respeito ao devido processo legal.
+Conforme prevê o disposto no art. 301, §3º, CPC/1973, "há coisa julgada quando se repete ação que já foi decidida por sentença, de que não caiba recurso".
+Verifica-se a identidade de ações, na forma do § 2º do mesmo dispositivo, quando se "tem as mesmas partes, a mesma causa de pedir e o mesmo pedido".
+A coisa julgada material acaba por obstar o reexame de ação - repito, na tríplice identidade de partes, causa de pedir e pedido - já julgada por sentença de mérito transitada em julgado.
+No caso, a sentença de 1º grau reconheceu a ocorrência de hipótese de coisa julgada material.
+Na primeira das ações propostas (5004944-54.2014.404.7102), pretendeu a parte autora obter sua reintegração para tratamento médico, com vencimentos, em virte da apontada incapacidade decorrente de acidente em serviço ocorrido em 1990, que ocasionou lesão no ligamento colateral do joelho direito. Em sede de apelação, foi assegurada a permanência do militar na condição de encostado para submeter-se a tratamento médico.
+No pleito atual, o autor visa a sua reintegração para dins de tratamento médico com recebimento de remuneração, apontando a existência de incapacidade decorrente da mesma moléstia - lesão no joelho direito - que teria sido contraída durante o serviço militar pelo mesmo acidente relatado.
+Todavia, ao apreciar o pleito, o juízo a quo assim decidiu a presente ação, in verbis:
+(..)
+Tenho por manter por seus próprios fundamentos a sentença que acolheu a prefacial de coisa julgada material em relação ao reconhecimento do direito à reintegração para tratamento/reforma do autor, matéria já decidida na ação 5004944-54.2014.404.7102, por identificar, em relação ao tema, tríplice identidade em relação às partes, causa de pedir e pedido.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, confiram-se:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. ALEGAÇÃO DE VIOLAÇÃO DOS LIMITES OBJETIVOS DA COISA JULGADA. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O Tribunal a quo consignou (fl. 1.588, e-STJ): "Na linha do voto majoritário, entendo, todavia, que a questão do valor da renda mensal não foi objeto de nenhuma das demandas que deram origem à execução, visto que, em ambas, discutiu-se unicamente a titularidade do direito à pensão por morte. Sendo assim, ao se aplicar os tetos, em sede de reexame necessário, para limitar o valor do valor a ser restituído à embargada incorreu-se em julgamento extra ou ultra petita, que, como é sabido, não transita em julgado".
+2. Já nas razões do Recurso Especial, a tese é sobre os limites objetivos da coisa julgada; sustenta-se, em suma, que o acórdão da fase de conhecimento fez coisa julgada material e não decidiu extra petita, pois estava em discussão o valor da pensão. 3. Dessume-se que a tese defendida no Recurso Especial foi rechaçada pelo Tribunal de origem mediante análise do conjunto fático-probatório dos autos.
+Aplica-se, portanto, o óbice da Súmula 7/STJ. 4. O não conhecimento do Recurso Especial do INSS torna prejudicado o recurso adesivo do particular, nos termos do art. 997, § 2º, III, do CPC/2015.
+5. Recurso Especial do INSS não conhecido.
+(REsp 1726968/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/04/2018, DJe 21/11/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO. DIREITO À NOMEAÇÃO. ALEGADA PRETERIÇÃO POR CONTRATAÇÃO DE TEMPORÁRIOS. TESE DE INOCORRÊNCIA DE COISA JULGADA MATERIAL. ANÁLISE QUE DEMANDA APRECIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação de Obrigação de fazer proposta pela parte recorrente, na qual pleiteia a nomeação para o cargo de Médico/Radiologista do HUCAM.
+2. Na hipótese dos autos, assentou a Corte de origem que inexiste qualquer diferença de causa de pedir com ação anteriormente ajuizada, apta a autorizar a propositura de nova ação e, estando presente a tríplice identidade, a hipótese é de extinção do feito sem exame de mérito, dada a verificação da coisa julgada.
+3. Nesse contexto, rever o entendimento firmado pela instância ordinária para concluir que a análise do pedido formulado pela parte recorrente não vai de encontro a existência de coisa julgada, aferida com base na aplicação da teoria da identidade da relação jurídica, demandaria, necessariamente, o exame do conjunto fático-probatório existente nos autos, prática vedada pela Súmula 7/STJ. Precedentes: AgInt no AREsp. 828.816/SP, Rel. Min. REGINA HELENA COSTA, DJe 21.9.2016 e AgInt no REsp. 1.597.095/RN, Rel. Min. DIVA MALERBI, DJe 30.8.2016.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 1182942/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/05/2018, DJe 21/05/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO EM CARGO PÚBLICO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Constatado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação dos arts. 165, 458 e 535 do CPC/1973.
+2. O Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, reconheceu a coisa julgada entre a presente ação e o mandado de segurança (0025880-43.2010.8.19.0000).
+Reformar tal entendimento demanda, necessariamente, o reexame dos fatos da causa, o que é inviável, na estreita via do recurso especial, a teor do óbice contido na Súmula 7/STJ. Precedente: (AgRg no AREsp 702.892/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29/03/2016).
+3. Agravo interno não provido.
+(AgInt no AREsp 788.804/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/04/2018, DJe 16/04/2018)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
