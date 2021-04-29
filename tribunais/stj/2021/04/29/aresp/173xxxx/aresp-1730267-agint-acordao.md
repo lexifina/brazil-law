@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COMPENSAÇÃO DE CRÉDITOS/DÉBITOS. SUPOSTA AFRONTA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 509, I, § 4º DO CPC/2015. COMANDO NORMATIVO INAPTO PARA AMPARAR A PRETENSÃO RECURSAL. SÚMULA 284/STF. REQUISITOS DA COMPENSAÇÃO. PRESCRIÇÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2.Estando as razões do recurso genéricas e inaptas de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O recurso especial não é, em razão da Súmula 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+4. Agravo interno não provido.
+RELATÓRIO
+CARREFOUR COMÉRCIO E INDÚSTRIA LTDA interpôs agravo interno contra decisão monocrática cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. CUMPRIMENTO DE SENTENÇA. COMPENSAÇÃO DE CRÉDITOS/DÉBITOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 509, I, § 4º DO CPC/2015. COMANDO NORMATIVO INAPTO PARA AMPARAR A PRETENSÃO. SÚMULA 284/STF. REQUISITOS DA COMPENSAÇÃO. PRESCRIÇÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Insiste oagravante na suposta afronta ao artigo 1.022 do CPC/2015 pela negativa de prestação jurisdicional porquanto questões/matérias que foram devolvidas não restaram apreciadas pelo Tribunal de origem.
+Afirma que não há que se falar em insuficiência de fundamentação adotada pelo agravante porquanto o dispositivo legal indicado, qual seja, artigo 509, §4º, I, do CPC,veda, expressamente, rediscussão da lide ou alteração do que restou decidido em sentença com trânsito em julgado, incorrendo o Tribunal de origem emum relevante erro de procedimentoao validar a compensação requerida pela recorrida.
+Aduz a não incidência da Súmula 7/STJ porquanto os fatos suscitados peloagravante são incontroversos e independem de revolvimento de matéria fática, pois a discussão está centrada somente em matéria de direito.
+Pugna pela reconsideração da decisão ou o julgamento do feito pelo Colegiado.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COMPENSAÇÃO DE CRÉDITOS/DÉBITOS. SUPOSTA AFRONTA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 509, I, § 4º DO CPC/2015. COMANDO NORMATIVO INAPTO PARA AMPARAR A PRETENSÃO RECURSAL. SÚMULA 284/STF. REQUISITOS DA COMPENSAÇÃO. PRESCRIÇÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2.Estando as razões do recurso genéricas e inaptas de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O recurso especial não é, em razão da Súmula 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+4. Agravo interno não provido.
+VOTO
+São improcedentes as razões deduzidas.
+Oagravante sustenta a suposta afronta ao artigo 1.022 do CPC/2015 pela negativa de prestação jurisdicional porquanto questões/matérias que foram devolvidas não restaram apreciadas pelo Tribunal de origem.
+Cumpre asseverar que, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Outrossim, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Ademais, da leitura do acórdão recorrido, percebe-se desde logo que não há falar em violação ao art. 1.022 do CPC/2015 porque não obstante rejeitada a pretensão da parte, houve efetivamente o devido enfrentamento da tese elencada por si, havendo no feito meramente o julgamento contrário ao postulado pela ora recorrente e não propriamente ausência de prestação jurisdicional.
+Cito em apoio o AgRg no REsp 1.262.411/PB (Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/09/2013, DJe 01/10/2013), o AgRg no AREsp 357.187/RJ (Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 10/09/2013, DJe 02/10/2013), os EDcl nos EDcl no AgRg no AREsp 318.640/DF (Rel. Ministro Humberto Martins, Segunda Turma, julgado em 03/09/2013, DJe 17/09/2013) e o AgRg no REsp 1.089.753/RS (Rel. Ministro Og Fernandes, Sexta Turma, julgado em 06/08/2013, DJe 02/09/2013).
+Lado outro, o agravante afirma que não há que se falar em insuficiência de fundamentação adotada pelo agravante porquanto o dispositivo legal indicado, qual seja, artigo 509, §4º, I, do CPC, veda, expressamente, rediscussão da lide ou alteração do que restou decidido em sentença com trânsito em julgado, incorrendo o Tribunal de origem em um relevante erro de procedimento ao validar a compensação requerida pela recorrida.
+Conforme asseverado na decisão agravada, oagravante não apresentou fundamentação suficiente para demonstrar a alegada violação ao referido dispositivo legal, um vez que seu comando normativo e a argumentação recursal não infirmaram a fundamentação do acórdão recorrido no sentido de que a compensação de dívidas recíprocas pode se dar em sede de cumprimento de sentença, sendo forma anômala de extinção do pagamento, não configurando desvirtuamento do édito condenatório ou de qualquer dilação sobre título diverso, de modo que, outra saída não havia, naquela circunstância, senão reconhecer a deficiência na fundamentação, aplicando por analogia o teor da Súmula 284/STF.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FALECIMENTO DO TITULAR DO CONTRATO. MANUTENÇÃO DO PLANO DE SAÚDE EM FAVOR DO DEPENDENTE QUE ASSUME A TOTALIDADE DO PAGAMENTO.INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. VIOLAÇÃO DO ART. 13 DA LEI Nº 9.656/98. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. RATIO DECIDENDI NÃO INFIRMADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO DAS SÚMULAS NºS 283 E 284, AMBAS DO STF.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência dominante do STJ orienta que, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+3. A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF, e a dissociação das razões recursais daquilo que ficou decidido pelo eg. Tribunal de origem obstaculiza a análise do objeto recursal, a teor da Súmula nº 284 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1846347/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 13/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. NULIDADE DE CITAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283/STF. CITAÇÃO ENVIADA PARA ENDEREÇO ONDE FUNCIONAVA O ESTABELECIMENTO DA AGRAVANTE. VALIDADE DO ATO CITATÓRIO. REEXAME. SÚMULA 7/STJ.DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DECISÃO DE ADMISSIBILIDADE NÃO VINCULA O STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. Infirmar o entendimento alcançado pelo acórdão recorrido, a fim de se concluir pela ausência de citação, esbarraria no enunciado n.7 da Súmula desta Corte.
+3. O Superior Tribunal de Justiça não se vincula aos fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem.
+4. Agravo interno desprovido.
+(AgInt no REsp 1772220/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/04/2019, DJe 10/04/2019)
+Por fim, aduz a não incidência da Súmula 7/STJ porquanto os fatos suscitados pelo agravante são incontroversos e independem de revolvimento de matéria fática, pois a discussão está centrada somente em matéria de direito. Para tanto, a pretensão recursal residiu nas teses de quenão estão presentes os requisitos para a compensação pretendida, e que os débitos apresentados pela recorrida já se encontram prescritos.
+Pois bem. Observa-se que o exame probatório empreendido pela Corte a quo resultou na compreensão de que estão presentes os requisitos legais para a compensação e que os débitos não estavam prescritos.
+A propósito, os seguintes trechos do acórdão recorrido (e-STJ fls. 89/92), verbis:
+(..)
+Ora, ao escandir dos autos a compleição do caso concreto, vestem-se os créditos do figurino normativo.
+A uma, porque não há falar em iliquidez da dívida titularizada pela recorrida. Afinal, os valores devidos a título de tarifa de esgoto vêm mensalmente estampados nas faturas.
+(..)
+A par disso, os créditos contrapostos, expressos em pecúnia, são plenamente fungíveis e apresentam até a mesma natureza de preço público.
+A toda evidência, a lei, que apenas visava a economizar esforços nas situações em que pessoas se devem mutuamente, não avança ao rigor de exigir a mesma raiz causal das dívidas, apenas a possibilidade de se anularem sem maior investigação sobre sua efetiva intercambiariedade.
+Por fim, cuida-se da suposta prescrição do direito nas mãos da agravada.
+E tampouco neste aspecto vinga a tese recursal.
+(..)
+A três e de qualquer modo, porque não há inércia do agravado que justificasse o arrebatamento de seu direito.
+Pelo menos desde 15/04/2008, a parte se interessou em perseguir seu direito à percepção dos débitos pela prestação do serviço de água (vide petição de fls. 895/900, no indexador 975 do caderno processual de origem).
+Em todo caso, parece mesmo excessivo punir a parte com a decretação de caducidade quando pendia ação judicial que discutia justamente o valor devido pelas faturas dos serviços de água e esgoto.
+Em outros termos, há de se proteger a legítima expectativa de que toda a relação negocial estava sub judice; ou, pelo menos, demonstrar que, desde aquela remota petição há dez anos, já se indicara, em afronta aos postulados processuais, a necessidade de ajuizar ação de cobrança autônoma.
+Essa conclusão decorreu da análise das provas e fatos dos autos, motivo pelo qual a reversão do entendimento resta inviável a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA. LIVRE CONVENCIMENTO DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ART. 32 DA PORTARIA N. 26/06 DO PROCON-SP. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. DISSENSO JURISPRUDENCIAL. ANÁLISE FÁTICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Superior Tribunal de Justiça tem entendimento no sentido de que há cerceamento de defesa quando o tribunal julga improcedente o pedido por ausência de provas cuja produção foi indeferida no curso do processo, o que não ocorreu no caso dos autos.
+III - A jurisprudência desta Corte é assente no sentido de que o juiz é o destinatário da prova e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, a teor do princípio do livre convencimento motivado, bem como que a revisão das conclusões do tribunal de origem nesse sentido implicariam em reexame de fatos e provas.
+IV - In casu, rever o entendimento do Tribunal de origem, para reconhecer o cerceamento de defesa e afastar a base de cálculo estipulada para a multa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. V - A pena aplicada encontra respaldo também na Portaria Normativa PROCON n. 26/06, que define os critérios e quantificação da sanção, especificando o conceito de infração grave, vantagem auferida e poderio econômico do infrator.
+VI - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Desse modo, impõe-se o não conhecimento do recurso especial quanto à alegação de ofensa ao art. 32 da Portaria n. 26/06 do PROCON-SP.
+VII - O recurso especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VIII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IX - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X - Agravo Interno improvido.
+(AgInt no REsp 1681225/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/02/2018, DJe 20/02/2018)
+Com essas considerações, a decisão agravada merece ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
