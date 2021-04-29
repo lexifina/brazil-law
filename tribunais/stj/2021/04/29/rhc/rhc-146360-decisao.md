@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpusinterposto por DANIEL BASTOS SCHMIDT PERANSONI contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Habeas Corpusn. 0012008-67.2021.8.21.7000).
+Os autos dão conta de que o recorrente foi condenado, por infração ao art. 33,§ 4º, da Lei n. 11.343/2006, à pena de 5 (cinco) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 500 (quinhentos) dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade (e-STJ fls. 13/53), isso, porque, "no caso em tela, restou demonstrado que os réus DANIEL e GUILHERME, em desacordo com determinação legal e regulamentar, transportava e entregaram a terceiro (Matheus), 8 tijolos de maconha  7,313kg - sete quilos e trezentos e trezegramas e 46 buchas de cocaína  554g - quinhentos e cinquenta e quatrogramas , tendo dessa forma, ambos os réus praticado o primeiro fato descrita na denúncia"(e-STJ fl. 37).
+Irresignada, a defesa impetrou habeas corpusno Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 490):
+HABEAS CORPUS. APELO EM LIBERDADE. RÉU PRESO PROVISORIAMENTE. IMPOSSIBILIDADE.
+Se o paciente está preso provisoriamente ao tempo da sentença condenatória, não é criticável a decisão do Julgador de lhe negar o direito de apelar em liberdade. A manutenção da custódia cautelar decorre da situação em que se encontra o condenado: detido preventivamente. Se, quando a condenação era uma hipótese, havia motivos para mantê-lo detido preventivamente, com mais razão agora, quando ela se torna real (a condenação).
+É a hipótese em julgamento, inclusive referendada pelo entendimento do Superior Tribunal de Justiça a respeito.
+Habeas corpus denegado, por maioria.
+Nas razões do presente recurso, a defesaafirma, em suma, que "a manutenção da segregação cautelar do recorrente é absolutamente desnecessária e teratológica, especialmente em razão da ausência de motivação idônea na decisão que indeferiu a liberdade de Daniel quando da prolação da sentença condenatória"(e-STJ fl. 536).
+Por isso, requer, inclusive liminarmente, a revogação da custódia cautelar ou a concessão de liberdade provisória, ainda que mediante a imposição de medidas cautelares diversas (e-STJ fls. 504/562).
+É, em síntese, o relatório.
+Depreende-se dos autos que o presente recurso ordinário emhabeas corpusimpugna o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul nos autos doHabeas Corpusn. 0012008-67.2021.8.21.7000(e-STJ fls. 490/495), tendo sido distribuído a este relator em 26/4/2021(e-STJ fl. 599).
+Ocorre que a causa de pedir e o pedido deste recursosão idênticos aos doHabeas Corpusn. 656.859/RS, impetrado nesta Corte e atribuído a este relator no dia 5/4/2021, que igualmente impugna o mesmo acórdão prolatado noHabeas Corpusn. 0012008-67.2021.8.21.7000pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Ante o exposto, diante da constatação de que o presente recurso ordinário émera reiteração doHC 656.859/RS,dele não conheço.
+Publique-se. Intimem-se.
