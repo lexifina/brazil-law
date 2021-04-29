@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus impetrado em face de acórdão assim ementado (fl. 113):
+HABEAS CORPUS - TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - ARGUIÇÃO DE NULIDADE NO FEITO ORIGINÁRIO - VIA IMPRÓPRIA - AUSÊNCIA DE AMEAÇA CONCRETA AO DIREITO DE LOCOMOÇÃO - NÃO CONHECER DA IMPETRAÇÃO. - A estreita via do Habeas Corpus não se mostra como meio adequado para se alegar eventuais nulidades processuais ocorridas nos autos decognição, sobretudo por não se vislumbrar a ocorrência de situação que configure ameaça concreta e imediata ao direito de liberdade de locomoção do paciente.
+Consta dos autos que o paciente responde pela prática dos crimes tipificados nos arts. 33 e 35 da Lei n. 11.343/2006.
+O impetrante argumenta, em suma, ilegalidade da decisão que manteve o recebimento da denúncia, após a apresentação da defesa preliminar, sem que houvesse análise de tese de nulidade de interceptações telefônicas, postergando para a sentença.
+Requer que seja anulada a decisão que ratificou o recebimento da denúncia.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+O mandamus impetrado na origem não foi conhecido nos seguintes termos (fls. 115/117):
+ ..  Primeiramente, convém salientar que a situação prisional do paciente já foi objeto de apreciação por esta Colenda Sétima Câmara Criminal, na seara do Habeas Corpus n.º 1.0000.21.001.987-3/000, ocasião em que a turma decidiu pelo parcial conhecimento da impetração e, na parte conhecida, pela denegação da ordem.
+É entendimento dessa Câmara e de resto de todo Tribunal de Justiça Mineiro, que o Habeas Corpus que seja mera reiteração de pedido anterior, já julgado, não deve ser apreciado.
+ ..
+Ademais, em que pesem as ponderações trazidas pela impetração, data venia, verifico ser o caso de não conhecimento do writ, uma vez que a pretensão almejada não pode ser acolhida por não encontrar supedâneo legal.
+O Habeas Corpus é instituto jurídico de magnitude constitucional, que se presta à defesa da liberdade de ir e vir. Não há de servir à panaceia universal de substituto recursal.
+O Supremo Tribunal Federal aos 21 de agosto de 2012, por voto da culta Ministra Rosa Weber, no julgamento do Habeas Corpus n. 104.045/RJ, enfatizou a necessidade de se reafirmar o espeque constitucional da ação autônoma de impugnação que é o Habeas Corpus, delimitando sua abrangência aos casos onde estritamente se verifica a ilegalidade ou o abuso de poder contra a liberdade individual:
+ ..
+A restrição do cabimento do HC às hipóteses previstas na Constituição Federal e no Código de Processo Penal recomenda o uso das vias recursais ordinárias, restando o manejo do writ para suas finalidades originais. Entendimento que, em boa razão, resulta, hodiernamente assentado no STF, que vem amoldar o alcance do Habeas Corpus ao seu anterior norte, visando restabelecer a destinação do instituto constitucional tão caro ao Estado Democrático de Direito.
+ ..
+Destarte, no presente caso, não vislumbro a ocorrência de nenhuma situação que configure ameaça concreta ao direito de liberdade de locomoção da paciente, razão pela qual não é possível o conhecimento do presente writ, eis que ausentes os seus pressupostos de admissibilidade.
+Opinião diversa não chegou a d. Procuradoria-Geral de Justiça, em parecer acostado no anexo n.º 27. ..
+Depreende-se do acórdão que não houve análise datesede ilegalidade dadecisão que ratificou o recebimento da denúncia, porque inexistiumanifestação quanto a nulidades alegadas na resposta à acusação, consignando o Tribunal a quonão ser a via eleita adequada para o debate dessas questões. Assim, não é possível a apreciação da tese defensiva, sob pena de supressão de instância.
+No entanto, não pode ser impedido o célere acesso pela via do habeas corpus para o enfrentamento de temas de direito, como se tem na espécie onde foram apontadas ilegalidades processuais por cerceamento de defesa.
+Desse modo, como se vê do acórdão impugnado, a Corte de origem não examinou matéria essencial do mandamus, configurando-se constrangimento ilegal por negativa da prestação jurisdicional, conforme jurisprudência deste Tribunal:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO, REITERAÇÃO DELITIVA E MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. TESES DE NULIDADE E EXCESSO DE LINGUAGEM. SUPRESSÃO DE INSTÂNCIA. INDEVIDA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. As teses referentes à ilicitude da prova e ao excesso de linguagem não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte local, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+5. Compulsando os autos, contudo, é imperioso consignar que a defesa, de fato, formulou tais pedidos na impetração originária, e que o Tribunal de Justiça não conheceu da impetração, deixando de apreciar o pleito formulado no writ, ao fundamento de que "não admitem a utilização do habeas corpus como sucedâneo do meio processual adequado, exceto quando flagrante a ilegalidade apontada  .. ".
+6. "A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio" (HC n. 398.690/SC, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 3/8/2017, DJe de 10/8/2017).
+7. Recurso parcialmente conhecido, e, nessa extensão, desprovido. Ordem concedida de ofício para determinar ao Tribunal de Justiça do Estado do Piauí que aprecie o mérito (referentes aos capítulos decisórios remanescentes) do habeas corpus originário como entender de direito. (RHC 107.237/PI, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/10/2019, DJe 28/10/2019).
+Ante o exposto, defiro liminarmente o habeas corpuspara determinar que o Tribunal estadual faça o exame do writ lá impetrado, como entender de direito.
+Comunique-se.
+Publique-se.
+Intimem-se.
