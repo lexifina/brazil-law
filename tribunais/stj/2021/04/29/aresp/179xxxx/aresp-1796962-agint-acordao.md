@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+ADMINISTRATIVO. ENSINO SUPERIOR. COBRANÇA DE MENSALIDADES. INADIMPLEMENTO. CARACTERIZAÇÃO DO CONTRATO E DA PRESTAÇÃO DO SERVIÇO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem trata-se de ação de cobrança de mensalidades relativas a curso de especialização. Na sentença julgou-se procedente o pedido. No Tribunala quoa sentença foi mantida.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "No caso dos autos, inobstante a ausência de um contrato, não restam dúvidas de que o requerido efetivamente frequentou o Curso de Especialização em Direito Processual Civil, conforme demonstrado por meio da ficha do aluno e dos controles de frequência (fls. 42/58), bem como das listas de presença que foram assinadas pelo próprio requerido nas datas das aulas (fls. 80/656). Ademais, o requerido efetuou a matrícula no curso e pagou a correspondente taxa, conforme se extrai dos documentos de fls. 9/12 e 41.Portanto, está devidamente comprovada a relação jurídica entabulada entre as partes, ainda que inexistente o contrato de prestação de serviços".
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem trata-se de ação de cobrança de mensalidades relativas a curso de especialização. Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi mantida, conforme a seguinte ementa do acórdão:
+AÇÃO DE COBRANÇA Universidade de São Paulo Curso de especialização Cobrança de mensalidades não adimplidas Cabimento Relação jurídica entre as partes devidamente demonstrada, inobstante a ausência de contrato formal Inteligência do art. 183 do Código Civil - C. Órgão Especial que reconheceu a constitucionalidade dos dispositivos que permitem a cobrança das mensalidades por universidades públicas Arguição de inconstitucionalidade nº 0043385-42.2016.8.26.0000 Neste mesmo sentido, decidiu o STF no Tema 535 (RE nº 597.854/GO) - "A garantia constitucional da gratuidade de ensino não obsta a cobrança, por universidades públicas, de mensalidade em curso de especialização" - Sentença mantida - Recurso improvido.
+No recurso especial, a parte apresenta os seguintes argumentos:
+Resta evidente do exposto que a recorrida não livrou do ônus que lhe atribuem os arts. 371, I e 429, II do CPC, de modo que a apelação do ora recorrente haveria de ser provida, reformando-se a decisão de primeiro grau. Diante do exposto, a parte recorrente PEDE a Vossa Excelência, que se digne admitir este especial e oportunamente conhecer e acolher os pedidos nele formulados, para reformar o v. acórdão recorrido, a fim de decretar a improcedência dos pedidos da recorrida lançados na inicial e reconhecidos na sentença de piso
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+Com o devido respeito, não se tratou de querer modificar as premissas fáticas firmadas nas instâncias ordinárias, em ofensa ao que reza a Súmula n.7 deste C.STJ.
+O recurso tratou de ônus da prova e eficácia probatória.
+Ora, a revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. ENSINO SUPERIOR. COBRANÇA DE MENSALIDADES. INADIMPLEMENTO. CARACTERIZAÇÃO DO CONTRATO E DA PRESTAÇÃO DO SERVIÇO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem trata-se de ação de cobrança de mensalidades relativas a curso de especialização. Na sentença julgou-se procedente o pedido. No Tribunala quoa sentença foi mantida.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "No caso dos autos, inobstante a ausência de um contrato, não restam dúvidas de que o requerido efetivamente frequentou o Curso de Especialização em Direito Processual Civil, conforme demonstrado por meio da ficha do aluno e dos controles de frequência (fls. 42/58), bem como das listas de presença que foram assinadas pelo próprio requerido nas datas das aulas (fls. 80/656). Ademais, o requerido efetuou a matrícula no curso e pagou a correspondente taxa, conforme se extrai dos documentos de fls. 9/12 e 41.Portanto, está devidamente comprovada a relação jurídica entabulada entre as partes, ainda que inexistente o contrato de prestação de serviços".
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+No caso dos autos, inobstante a ausência de um contrato, não restam dúvidas de que o requerido efetivamente frequentou o Curso de Especialização em Direito Processual Civil, conforme demonstrado por meio da ficha do aluno e dos controles de frequência (fls. 42/58), bem como das listas de presença que foram assinadas pelo próprio requerido nasdatas das aulas (fls. 80/656). Ademais, o requerido efetuou a matrícula no curso e pagou a correspondente taxa, conforme se extrai dos documentos de fls. 9/12 e 41.Portanto, está devidamente comprovada a relação jurídica entabulada entre as partes, ainda que inexistente o contrato de prestação de serviços.
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
