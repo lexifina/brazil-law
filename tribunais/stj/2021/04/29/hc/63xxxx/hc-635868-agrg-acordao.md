@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INOVAÇÃO RECURSAL. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ. RECURSO NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. As matérias colacionadas no recurso, além de representar indevida inovação recursal, não foram objeto de análise pelo Tribunal de origem, motivo pelo qual não é passível de conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+3. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEONARDO DA SILVA FREIRIA contra a decisão de fls. 1181-1184, que não conheceu o habeas corpus.
+O agravante teve a prisão temporária convertida em preventiva a pedido do Ministério Público (fls. 182-186) e foi denunciado por suposta prática dos delitos descritos nos arts. 33, caput, e 35 c/c o art. 40, VI, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na suposta participação do agravante em organização criminosa. Impetrados quatro writs originários, a ordem foi denegada em todos.
+No habeas corpus, a defesa sustentou que o decreto prisional não foi devidamente fundamentado; violação ao princípio da proporcionalidade e da presunção de inocência; excesso de prazo na formação da culpa; direito à prisão domiciliar, afirmando ter uma filha menor de 12 anos; e risco em razão da covid-19.
+Neste recurso, alega ilicitude das interceptações telefônicas,ausência de materialidade e autoria, quanto aos crimes previstos nos arts. 33, 35 e 40 da Lei n. 11.343/2006, o art. 1º, § 1º e §2º, I, da Lei n. 9.613/1998, bem como ausência de animus associativo em relação ao crime previsto no art. 35 da Lei de Drogas. Aponta que deve ser absolvido.
+Requer o provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INOVAÇÃO RECURSAL. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ. RECURSO NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. As matérias colacionadas no recurso, além de representar indevida inovação recursal, não foram objeto de análise pelo Tribunal de origem, motivo pelo qual não é passível de conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+3. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+4. Agravo regimental não conhecido.
+VOTO
+O recurso não merece conhecimento.
+Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgRg no RHC n. 126.338/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020).
+A decisão agravada não conheceu do habeas corpus, adotando os seguintes fundamentos (fls. 1.182-1.183):
+Quanto aos requisitos da prisão preventiva, consoante consulta ao sistema do STJ, observa- se que a matéria é objeto do HC n. 631.185/MG - que possui as mesmas partes, causa de pedir e pedido. Nesse ponto, não se pode processar o presente writ por consubstanciar mera reiteração de pedido anteriormente impetrado.
+No que tange à alegação de ofensa ao princípio da proporcionalidade, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Segundo a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 56-57, destaquei):
+Depreende-se dos autos que o paciente foi preso, em 31.08.2020, em virtude de decreto de prisão temporária, posteriormente convertida em preventiva, por ter, desde meados do ano de 2018, supostamente violado o disposto nos arts. 33 e 35, c/c art. 40, VI, todos da Lei 11.343/06, portanto, há 106 dias.
+A respeito dos prazos previstos para a realização dos atos processuais em matéria penal, devem os mesmos ser contados globalmente. Assim, a demora em uma das fases do processo poderá ser compensada em outra.
+E como sabido, o prazo para encerramento da instrução, nos delitos de tráfico, é de 180 dias, não tendo, portanto, transcorrido o lapso temporal que caracterizaria o constrangimento ilegal e, por conseguinte, ensejaria o relaxamento da prisão do paciente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, verifica-se, em consulta ao site do Tribunal de origem, que foi encerrada a instrução criminal e, em 12/3/2021, foi iniciada a fase de alegações finais.
+Dessa forma, conforme orientação já consolidada pelo STJ com a edição da Súmula n. 52, encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Quanto ao pedido de prisão domiciliar por ser o paciente pai de uma criança menor de 12 anos, registre-se que, não obstante o disposto no art. 318, VI, do CPP e a decisão do Supremo Tribunal Federal no HC coletivo n. 165.704/DF, a prisão domiciliar de pai de criança de até 12 anos incompletos não é automática, depende da comprovação de ser ele o único responsável por ela. Além disso, as mesmas condições previstas no julgamento do HC n. 143.641/SP devem ser observadas, especialmente no que se refere à vedação da substituição da prisão preventiva pela domiciliar em casos de crimes praticados mediante violência ou grave ameaça ou contra os próprios filhos ou dependentes. Nesse sentido: RHC n. 132.628/RJ, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 26/10/2020; e HC n. 555.130/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9/3/2020.
+Apesar de o paciente ter comprovado a paternidade e a guarda da criança menor de 12 anos, não demonstrou ser o único responsável por ela, "visto que a menor está sob os cuidados da mãe" (fl. 86), razão pela qual é inviável o acolhimento do pedido de substituição da custódia cautelar por prisão domiciliar.
+No que diz respeito ao risco por conta da covid-19 e à aplicação da Recomendação n. 62/2020 do CNJ, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, o writ não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+O agravante, contudo, limitou-se a sustentar a ilicitude das interceptações telefônicas,a ausência de materialidade e autoria, quanto aos crimes previstos nos arts. 33, 35 e 40 da Lei n. 11.343/2006, o art. 1º, § 1º e § 2º, I, da Lei n. 9.613/1998, bem como a ausência de animus associativo em relação ao crime previsto no art. 35 da Lei de Drogas. Requereuaindaa sua absolvição.
+Dessa forma, além das matérias não terem sido apontadas no habeas corpus inicialmente, ocorrendo indevida inovação recursal, não foram enfrentadas pela instância de origem, o que impede o STJ de apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, a ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
