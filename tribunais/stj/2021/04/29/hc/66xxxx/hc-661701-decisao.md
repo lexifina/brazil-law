@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim relatado (fls. 82-84):
+O doutor PAULO VITOR NEGRÃO REIS- Advogado, impetra habeas corpus, em benefício de HUGO CÉSAR FELIX TRINDADE, com pedido de liminar, amparada no art. 5º, LXVIII, da Constituição Federal, e os art. 647 e seguintes, do Código de Processo Penal,afirmando que ele estaria sofrendo constrangimento ilegal decorrente de a todo Juízo de Direito da 1ª Vara da Comarca de Birigui que, nos autos de Processo Crime nº 1500477-48.2019.8.26.0077, instaurado pela suposta prática de crime de peculato, revogou sua prisão temporária decretada, mediante imposição de medidas cautelares diversas da prisão, sendo uma delas, a suspensão das suas habilitações de piloto junto a ANAC, o que tem lhe causado sérios prejuízos, eis que o impede de trabalhar.
+Esclarece que ".. o paciente tem seu único labor de sustento familiar a profissão de piloto de aeronaves, tanto que suas habilitações são as mais altas da categoria de aviador, por mérito e muita dificuldade ao longo de mais de 10 anos galgou passo a passo até chegar nesse patamar .."(sic).
+Ressalta que".. diante da flagrante ilegalidade na manutenção da medida cautelar de suspensão de habilitação de pilotar aeronaves que é o labor de sustento do paciente, não pairam dúvidas para que, num gesto de estrita justiça, seja concedido liminarmente o direito à retirada de tal medida ..".
+Em suma, o Impetrante pleiteia, em liminar e no mérito, a concessão da ordem em favor do Paciente, para seja revogada a determinação de medida cautelar constante na suspensão da habilitação de piloto junto a Agência Nacional de Aviação Civil ANAC; bem como as restrições que impossibilitem seu desempenho (fls. 01/14).
+A liminar foi indeferida (fls. 45/47).
+A autoridade apontada como coatora prestou Informações (fls. 49/51), com apresentação de documentos (fls. 52/98).
+A d. Procuradoria Geral de Justiça ofertou Parecer pela denegação da ordem (fls. 102/105).
+Decorrido o prazo para as partes se manifestarem acerca de eventual oposição ao julgamento virtual, nos termos do art. 1º, da Resolução nº 549/2011, com redação estabelecida pela Resolução nº 772/2017, ambas do Colendo Órgão Especial deste Egrégio Tribunal de Justiça do Estado de São Paulo, não houve oposição a esta forma de julgamento.
+Consigno, outrossim, que foi impetrado em favor do Corréu JOILSON CORRÊA FAUSTINO o HC nº 2233952-54.2020.8.26.0000, julgado prejudicado o exame de mérito, devido ao pedido de desistência aos14.10.2020.
+Importante ressaltar que, em Sessão de Julgamento de 15.12.2020,esta Colenda TERCEIRA CÂMARA DE DIREITO CRIMINAL julgou os seguintes Habeas corpus, todos relacionados à Operação Raio-X: nº 2260505-41.2020.8.26.0000 (Voto nº 13205), nº 2243355-47.2020.8.26.0000 (Voto nº 13336), nº 2243670-75.2020.8.26.0000 (Voto nº 13212), nº 2255762-85.2020.8.26.0000 (Voto nº 13328), nº 2249386-83.2020.8.26.0000 (Voto nº 13229) ,nº 2256779-59.2020.8.26.0000 (Voto nº 13329) e, nº 2247601-86.2020.8.26.0000 (Voto nº 13216), todos da relatoria do eminente Desembargador GILBERTO FERREIRADA CRUZ, auxiliando a esta relatoria, além de diversos outros, sendo em todos denegada a ordem.
+É o relatório.
+O paciente foi denunciado, no bojo da Operação Raio-X, pelo crime de peculato. Foram decretadas medidas cautelares diversas da prisão, entre elas a suspensão de sua habilitação de piloto junto à ANAC.
+Daí o presente writ, em que o impetrante argumenta que a medida compromete o sustento familiar. Destaca que a retomada da atividade laboral seria extremamente fiscalizada pela ANAC  .. , demonstrando-se ausente o justo receio de sua utilização nesta profissão a prática de infrações penais (fl. 9), além de não atrapalhar as investigações e o andamento do processo.
+Requer, liminarmente e no mérito, seja revogada a cautelar de suspensão da habilitação de piloto junto à ANAC, bem como as restrições cautelares que impossibilitem seu desempenho.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não colacionou aos autos a decisão que decretou as medidas cautelares, sendo insuficiente trazer apenas a decisão que indeferiu a reconsideração do pedido, bem como o acórdão da Corte local.
+Dessa forma, a ausência de peça essencial ao deslinde da controvérsiaimpede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.
+(PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido.
+(AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
