@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOÃO VITOR PEREIRA TELLINI contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido nos autos do HC n. 2058067-89.2021.8.26.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 12/03/2021, pela suposta prática do crime previsto no art. 157, § 2.º, inciso II e § 2.º-A, inciso I, do Código Penal, pois, na companhia de outro indivíduo e com o emprego de arma de fogo, teria subtraído uma motocicleta Honda/CG 160 Titan. A prisão em flagrante foi convertida em preventiva.
+Contra o decreto prisional, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 22-29).
+Neste writ, a Defesa argumenta que não se encontram presentes os requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal e que o decreto prisional e o acórdão impugnado carecem de fundamentação idônea.
+Alega a ausência de indícios suficientes de autoria.
+Afirma que o Paciente é primário, possui residência fixa e trabalho lícito.
+Assevera que seria adequada a aplicação de medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a imediata soltura do Paciente, com ou sem imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforme com súmula ou com a jurisprudência consolidada dos Tribunais Superiores ou a contraria" (AgRg no RHC 139.509/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021; sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O decreto prisional está assim fundamentado (fls. 75-76; grifos diversos do original):
+"1- Compulsando os autos, verifico que o flagrante encontra-se formalmente em ordem, de modo que não há que se falar em relaxamento da prisão em flagrante delito.
+2- Por outro lado, imperiosa a conversão da prisão em flagrante em prisão preventiva, uma vez que, além de prova da materialidade e indícios suficientes de autoria, há indícios de perigo gerado pelo estado de liberdade do autuado, pois, apesar de ele ser primário, a acusação que pesa contra si é grave, porque, de acordo com as provas colhidas no auto de prisão em flagrante, o crime foi cometido mediante grave ameaça, consistente no emprego de arma de fogo contra a vítima.
+Ademais, trata-se de crime doloso punido com pena privativa de liberdade máxima superior a quatro anos, não se verificam as excludentes da ilicitude previstas nos inciso I, II e III do caput do artigo 23 do Código Penal e ainda estão presentes os requisitos que autorizam a custódia cautelar, previstos no artigo 312 do Código de Processo Penal.
+Com efeito, as infrações penais dessa natureza vêm sendo cada vez mais frequentes nessa região e têm gerado clamor público, de modo que é necessária a sua custódia para garantia da ordem pública. Além disso, a vítima relatou que o autuado durante a ação criminosa instigou o comparsa a atirar contra ela, o que denota a sua acentuada periculosidade.
+A custódia cautelar também se demonstra necessária por conveniência da instrução criminal, porque o delito foi cometido mediante grave ameaça, de modo que a vítima terá o seu ânimo influenciado se o agente estiver solto por ocasião da colheita das provas. Não bastasse isso, a prisão provisória será imprescindível para assegurar a aplicação da lei penal, uma vez que não há comprovação de domicílio e atividade lícita no distrito da culpa.
+As medidas cautelares, por outro lado, não são suficientes para coibir a reiteração criminosa.
+Diante do exposto, com fundamento nos artigos 310, 312 e 313, inciso I, do Código de Processo Penal, converto a prisão em flagrante de JOÃO VÍTOR PEREIRA TELLINI em prisão preventiva."
+O Tribunal de origem, por sua vez, assinalou que a "custódia cautelar foi devidamente fundamentada pelo MM Juiz, que entendeu presentes a prova da materialidade e indícios da autoria, não ocorrendo qualquer irregularidade formal" (fl. 26).
+Inicialmente, quanto à tese relativa à suposta existência de dúvidas quanto à comprovação da autoria, cuida-se de alegação cuja análise demandaria, necessariamente, exame acurado do conjunto fático-probatório do processo criminal, incabível na via estreita do habeas corpus, como demonstra o seguinte precedente:
+"HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA COM VISTAS À PRÁTICA DE ROUBOS EM CONDOMÍNIOS. FALTA DE INDÍCIOS DE AUTORIA. VIA IMPRÓPRIA. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. FILHO DE 6 ANOS. ARTS. 318-A E 318-B DO CPP. HC COLETIVO N. 143.641/SP DO STF. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. EXCEPCIONALIDADE. PONDERAÇÃO DE INTERESSES. ORDEM PARCIALMENTE CONHECIDA E CONCEDIDA.
+1. A análise da alegada falta de indícios de autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do writ.
+ ..
+7. Ordem parcialmente conhecida e, na extensão, concedida, para substituir a prisão preventiva da paciente pela domiciliar, sem prejuízo de outras medidas, previstas no art. 319 do CPP, que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas." (HC 592.832/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020; sem grifos no original.)
+De outra parte, a decretação da prisão preventiva do Paciente não se mostra desarrazoada ou ilegal, pois o Juízo singular ressaltou a gravidade concreta da conduta, evidenciada pelo modus operandi empregado: roubo de uma motocicleta, praticado em concurso de agentes, com o emprego de arma de fogo, tendo sido mencionada a acentuada periculosidade do Acusado, que teria, durante a ação criminosa, instigado o comparsa a atirar contra a Vítima, o que justifica a segregação cautelar como garantia da ordem pública.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. CRIME PRATICADO MEDIANTE EMPREGO DE VIOLÊNCIA REAL E EM CONCURSO DE PESSOAS. FUNDAMENTAÇÃO SUFICIENTE. ART. 312 DO CPP. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto do crime, dado o modus operandi da conduta delitiva, uma vez que o paciente e os corréus teriam abordado a vítima, que caminhava desacompanhada, e, mediante emprego de violência real, consistente em socos, subtraído bens a ela pertencentes.
+3. Agravo regimental não provido." (AgRg no HC 580.936/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/09/2020, DJe 09/09/2020; sem grifos no original.)
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO PREVENTIVA. ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. MEDIDA CAUTELAR DIVERSA DA PRISÃO. INAPLICABILIDADE. COVID-19. GRUPO DE RISCO. AUSÊNCIA DE COMPROVAÇÃO DE SITUAÇÃO DE VULNERABILIDADE E DE PROTEÇÃO ADEQUADA NO ESTABELECIMENTO PENAL. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. A prisão preventiva está suficientemente fundamentada na necessidade de garantir a ordem pública, diante da gravidade concreta da conduta delituosa, já que se trata de roubo praticado em concurso de agentes, com o emprego de arma de fogo e restrição da liberdade da vítima.
+ ..
+7. Writ não conhecido." (HC 611.671/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. SIMULACRO. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. COAÇÃO ILEGAL NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+ ..
+3. "A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública, em razão da periculosidade do recorrente, evidenciada pelo modus operandi, uma vez que o acusado teria praticado o roubo em plena via pública, em concurso com outros agentes, com a utilização de simulacro de arma de fogo" (RHC 118.483/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/11/2019, DJe 05/12/2019).
+ ..
+7. Agravo regimental desprovido." (AgRg no HC 532.575/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019; sem grifos no original.)
+Convém assinalar, ainda, que a existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+Adem ais, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta do delito demonstra serem insuficientes para acautelar a ordem pública (HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020).
+Ante o exposto, CONHEÇO PARCIALMENTE do habeas corpus e, nessa parte, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. AUSÊNCIA DE ELEMENTOS DE AUTORIA E MATERIALIDADE. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
