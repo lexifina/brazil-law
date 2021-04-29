@@ -1,0 +1,63 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso recurso especial interposto por BANCO DO BRASIL S. A.contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO - Os juros da mora são devidos a partir da citação do Banco nos autos da ação civil pública - Incidência do artigo 405 do Código Civil Brasileiro - Recurso improvido" .
+Encaminhados os autos pela Presidência do Tribunal de origem para a reapreciação da matéria referente à liquidação da sentença coletiva, em juízo de retratação, foi proferido acórdão com a seguinte ementa:
+"AGRAVO DE INSTRUMENTO - MULTA PREVISTA NO ARTIGO 475-J DO CÓDIGO DE PROCESSO CIVIL DE 1973 - Existência do V. Acórdão proferido nos autos do Recurso Especial, representativo da controvérsia nº 1.247.150/PR - O julgado de fls. 166/184 não divergiu da orientação do Superior Tribunal de Justiça - Decisão que não aplicou a supracitada sanção - Necessidade da prévia liquidação - Matéria não afetada para os fins do artigo 1.036 do Novo Estatuto Adjetivo Civil - Irrelevância do entendimento desta Câmara sobre a liquidez da r. sentença condenatória - Análise da controvérsia referente à Ação Civil Pública movida pela Apadeco contra o Banestado - Demanda coletiva diversa da objeto da presente execução - Posicionamento emanado pela r. decisão de fls. 166/184 mantido - Recurso conhecido em parte, e, na parte conhecida, improvido".
+Nas razões do recurso especial, a parte alega, em síntese, que:
+(a) deve ser reconhecida a ilegitimidade ativa, pois o autor não demonstrou a sua filiação à associação autora da ação civil pública;
+(b) é necessária a prévia liquidação da sentença proferida nos autos da ação civil pública, por apresentar condenação genérica;
+(c) os juros de mora não são devidos, mas, caso mantidos, devem ser contabilizados a partir da citação do devedor durante a fase de liquidação de sentença, e não de sua citação na ação civil pública;
+(d) a correção monetária é devida apenas após o ajuizamento da ação, mas, "se entendido como cabível a atualização desde a época da remuneração, o índice aplicado deve obedecer aos índices da Tabela Não Expurgada da Corregedeoria Geral de Justiça do Tribunal de Justiça de Minas Gerais" (e-STJ fl. 291);
+(e) ocorreu a prescrição da pretensão autoral, não podendo ser considerado interrompido o prazo prescricional pelo ajuizamento da medida cautelar de protesto pelo MPDFT, cuja legitimação para a propositura de execução de ação coletiva é apenas subsidiária;
+(f) não podem ser cobrados honorários advocatícios de sucumbência da instituição financeira, em virtude da ausência de condenação nesse sentido; e
+(g) deve ser reconhecido o excesso de execução, pois os cálculos apresentados pela contraparte não possuem qualquer respaldo.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido no que tange às seguintes matérias:ilegitimidade ativa;inaplicabilidade dos juros moratórios; termo inicial e índices de correção monetária; prescrição da pretensão autoral; honorários advocatícios de sucumbência; e excesso de execução.
+Com efeito, não houve o necessário prequestionamento dessas teses, poisnão foram objeto de análise pelo Tribunal de origem nos acórdão de fls. 227-230 e 267-272(e-STJ), em face dos quaissequer foram opostos embargos de declaração.
+Portanto, diante da ausência de prequestionamento, revela-se inviável o seu conhecimento, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal, aplicáveis por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. ESQUECIMENTO DE CORPO ESTRANHO NA CAVIDADE ABDOMINAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DANO MORAL. VALOR. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas . 282 e 356 do STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1509917/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019, grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. IMPENHORABILIDADE DE IMÓVEL BEM DE FAMÍLIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1683495/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019, grifou-se)
+Quanto à alegação de imprescindibilidade da liquidação do título executivo, assiste razão à parte recorrente.
+Com efeito, recentemente, a Segunda Seçãoreafirmou a orientação jurisprudencial deste Superior Tribunal de Justiça no sentido de que o cumprimento individual da sentença coletiva genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela liquidação do título executivo, fase na qual serão demonstradas a titularidade e o valor do crédito, assegurando-se a oportunidade de ampla defesa e contraditório pleno à parte executada.
+Sobre o tema, confiram-se os seguintes julgados:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência providos.
+(EREsp 1590294/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 10/02/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO (CUMPRIMENTO DE SENTENÇA) INDIVIDUAL. CONDENAÇÃO GENÉRICA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. REEXAME DE MATÉRIA FÁTICA. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA.
+1. O cumprimento de sentença coletiva demanda fase prévia de liquidação. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem omissões, obscuridades, contradições ou erros materiais. Rejeita-se a alegação de ofensa ao artigo 1.022 do Código de Processo Civil/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1529322/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL -AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM -DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Em sendo a sentença proferida em sede de ação coletiva, a qual condenou o banco ao pagamento de expurgos inflacionários sobre caderneta de poupança, desprovida da liquidez necessária ao cumprimento do comando sentencial, forçoso se mostra a apuração da titularidade do crédito e do quantum debeatur mediante a liquidação de sentença, individualizando-se a parcela devida à exequente.
+2. Agravo interno desprovido.
+(AgInt no REsp 1867614/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Nesse contexto, merece reparos o acórdão recorrido nesse ponto, pois o Tribunal de origem dispensou a liquidação prévia para a apuração do valor devido por entender que estadependia apenas de meros cálculos aritméticos, divergindo, portanto, do entendimento acima citado.
+Por outro lado, quanto ao termo inicial dos juros de mora, o entendimento exposto pelo Tribunal de origem não destoa da orientação deste Superior Tribunal de Justiça, cuja Corte Especial, no julgamento dos Recursos Especiais representativos de controvérsia n. 1.361.800/SP e n. 1.370.899/SP, submetidos ao rito do art. 543-C do CPC/1973, assentou a tese de que os juros moratórios incidem a partir da citação do devedor na fase de conhecimento da ação civil pública, e não na fase de cumprimento individual de sentença.
+Transcrevo, por oportuna, a ementa desse julgado:
+AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO - JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA - VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+1.- Admite-se, no sistema de julgamento de Recursos Repetitivos (CPC, art. 543-C, e Resolução STJ 08/98), a definição de tese uniforme, para casos idênticos, da mesma natureza, estabelecendo as mesmas consequências jurídicas, como ocorre relativamente à data de início da fluência de juros moratórios incidentes sobre indenização por perdas em Cadernetas de Poupança, em decorrência de Planos Econômicos.
+2.- A sentença de procedência da Ação Civil Pública de natureza condenatória, condenando o estabelecimento bancário depositário de Cadernetas de Poupança a indenizar perdas decorrentes de Planos Econômicos, estabelece os limites da obrigação, cujo cumprimento, relativamente a cada um dos titulares individuais das contas bancárias, visa tão-somente a adequar a condenação a idênticas situações jurídicas específicas, não interferindo, portando, na data de início da incidência de juros moratórios, que correm a partir da data da citação para a Ação Civil Pública.
+3.- Dispositivos legais que visam à facilitação da defesa de direitos individuais homogêneos, propiciada pelos instrumentos de tutela coletiva, inclusive assegurando a execução individual de condenação em Ação Coletiva, não podem ser interpretados em prejuízo da realização material desses direitos e, ainda, em detrimento da própria finalidade da Ação Coletiva, que é prescindir do ajuizamento individual, e contra a confiança na efetividade da Ação Civil Pública, O que levaria ao incentivo à opção pelo ajuizamento individual e pela judicialização multitudinária, que é de rigor evitar.
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia (CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006), declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido.
+(REsp 1.361.800/SP, CORTE ESPECIAL, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro SIDNEI BENETI, DJe 14/10/2014, grifei)
+Ante o exposto, com base no art. 932, incisos III, IV e V, do CPC/2015 c/c a Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe parcial provimento, a fim de determinar que seja realizada a prévia liquidação da sentença proferida em ação civil pública.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DE TESES DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 282 E 356 DO STF. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. ACÓRDÃO RECORRIDO EM CONFRONTOCOM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR QUANTO A ESSE TÓPICO. TERMO INICIAL DE INCIDÊNCIA DOS JUROS DE MORA. DATA DA CITAÇÃO DO DEVEDOR NA AÇÃO CIVIL PÚBLICA, E NÃO NO CUMPRIMENTO INDIVIDUAL DE SENTENÇA. TESE FIRMADA NO RESP 1.361.800/SP, SOB O RITO DO ART. 543-C DO CPC/1973.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
