@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO EMENTA DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. RPV CANCELADA. EXPEDIÇÃO DE NOVO REQUISITÓRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF.
+I - Na origem, trata-se de agravo de instrumento que discute sobre aocorrência de prescrição da pretensão executória, bem como apossibilidade de expedição de nova requisição de pagamento. No Tribunal a quo, a decisão objeto do agravo de instrumento foi mantida.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de agravo de instrumento que discute sobre aocorrência de prescrição da pretensão executória, bem como apossibilidade de expedição de nova requisição de pagamento. No Tribunala quo,a decisão objeto do agravo de instrumento foi mantida, nos seguintes termos ementados:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO EMENTA DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. RPV CANCELADA.EXPEDIÇÃO DE NOVO REQUISITÓRIO. POSSIBILIDADE. LEI Nº 13.463/2017. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. O cerne da controvérsia diz respeito à ocorrência de prescrição da pretensão executória, bem como à possibilidade de expedição de nova requisição de pagamento.
+2. Esta Corte Regional, seguindo a jurisprudência do STJ, já decidiu que, havendo a expedição do RPV/precatório, deve ser afastada a tese da "prescrição intercorrente da pretensão executória, haja vista que esta fase processual já se exauriu com a requisição dos valores exequendos, por meio da expedição dos precatórios/RPVs" (AG/PE nº 0815840-11.2018.4.05.0000, Rel. Des. Fed. Leonardo Carvalho, Segunda Turma, Julgamento: 26/03/2019).
+3. Ademais, "a Lei 13.463/2017, em seu art. 3º, estabelece a possibilidade de expedição de novo requisitório, caso tenha havido o seu cancelamento, não havendo menção ao lapso temporal em que deveria ocorrer o requerimento do credor para ver expedido novamente o valor" (AG/PE nº 0814506-39.2018.4.05.0000, Rel. Des. Fed.Leonardo Coutinho, Segunda Turma, Julgamento:29/01/2019).
+4. A teor do dispositivo legal acima citado, forçoso reconhecer que, realizado o depósito pelo executado, esse valor passa para esfera patrimonial do beneficiário e, por conseguinte, de seus sucessores, podendo, inclusive, ser expedido novo requisitório, revelando-se descabida qualquer alegação concernente à prescrição.
+5. Agravo de instrumento improvido.
+No recurso especial, a parte recorrente alega violação do art. 2º da Lei n.13.462/17, no que concerne à possibilidade de que os valores depositados a título de precatórios e RPV há mais de 2 anos em uma instituição financeira oficial, sem levantamento pelos credores, sejam repassados à Conta Única do Tesouro Nacional, sem que haja ofensa à Constituição Federal e à coisa julgada, pois estão garantidas a conservação da ordem cronológica e a remuneração correspondente ao período em que o precatório esteve cancelado.
+Aduz ainda violação dos arts. 3º do Decreto n. 4.597/42 e 1º ao 9º do Decreto n. 20.910/32, sob o fundamento de que não podehaver a reexpedição de precatório e RPV cancelados nos termos da Lei n.13.462/2017, quando decorridos mais de cinco anos entre a data de intimação da parte para o levantamento do depósito judicial e o aludido pleito de reexpedição.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários a decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO EMENTA DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. RPV CANCELADA. EXPEDIÇÃO DE NOVO REQUISITÓRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF.
+I - Na origem, trata-se de agravo de instrumento que discute sobre aocorrência de prescrição da pretensão executória, bem como apossibilidade de expedição de nova requisição de pagamento. No Tribunal a quo, a decisão objeto do agravo de instrumento foi mantida.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
