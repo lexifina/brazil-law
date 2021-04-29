@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de pedido formulado por GLEISSON VALADARES GONÇALVES de sustação da decisão proferida pelo Magistrado da 2. Vara Criminal da Comarca de Tatuí/SP proferida em 05/04/2021.
+Sem razão, por intermédio da decisão de fls. 100-106, concedi parcialmente a ordem de habeas corpuspara redimensionar as penas do ora Requerente para 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial aberto, e 250 (duzentos e cinquenta) dias-multa, determinando, ainda, a substituição da pena corporal por sanções restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais, cujo início de cumprimento condiciona-se ao eventual trânsito em julgado da condenação.
+Em seguida, o Juízo da ação penal, em atenção à ordem concedida, substituiu "a pena privativa por duas restritivas de direitos, quais sejam, prestação pecuniária, no importe de 10 salários-mínimos, em favor de entidade a ser designada pelo Juízo das Execuções, e limitação de final de semana" (fl. 112). Na oportunidade, determinou a expedição da guia de recolhimento definitiva, encaminhando o feito à Vara das Execuções Criminais do domicílio do ora Requerente.
+Como se vê, ao tempo do cumprimento da ordem emanada pelo Superior Tribunal de Justiça, a guia de execução definitiva ainda não havia sido expedida e, portanto, não havia óbice para que o Juízo em que foi processada a ação penal fixasseas restritivas de direitos, não havendo desrespeito à decisão de fls. 100-106.
+Ante o exposto, INDEFIRO o pedido formulado às fls. 110-111.
+Publique-se. Intimem-se.
