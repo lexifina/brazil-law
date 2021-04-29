@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por INDUMÓVEL INDÚSTRIA DE MÓVEIS LTDA. E RANDA INDÚSTRIA E COMÉRCIO DE PORTAS E COMPENSADOS LTDA., com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 592):
+EXECUÇÃO DE SENTENÇA. DIVERGÊNCIA ENTRE AS PARTES DO PROCESSO. CONTADORIA JUDICIAL. ÓRGÃO IMPARCIAL.
+A teor da jurisprudência desta Corte, havendo divergência entre as partes e inexistindo equívoco flagrante, o cálculo apresentado pela contadoria judicial, devidamente fundamentado e explicitado, dá correta aplicação ao título executivo judicial.
+Embargos de declaração rejeitados.
+Em suas razões, a recorrente alega, primeiramente, violação dos arts. 1022 do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente no que diz respeito ao "fato de existirem duas espécies de acessórios a serem consideradas quando o assunto é empréstimo compulsório de energia elétrica. Uma delas, correspondente aos juros remuneratórios sobre a diferença da correção monetária incidente sobre o principal. Outra, à diferença apurada nos juros pagos ou creditados na fatura de energia elétrica, anualmente.
+As recorrentes demonstraram de todas as formas que para a primeira espécie de acessório - juros remuneratórios sobre a diferença da correção monetária incidente sobre o principal -, o título executivo determinou como marco inicial da prescrição a data em que a Assembleia Geral Extraordinária homologou a conversão dos créditos em ações da companhia. Já para a segunda - diferença apurada nos juros pagos ou creditados na fatura deenergia elétrica, anualmente -, o prazo prescricional teve início no momento em que a Eletrobrás realizou o pagamento da respectiva parcela, mediante compensação dos valores nas contas de energia elétrica." (fl. 629).
+Quanto ao mérito, aponta, além de divergência jurisprudencial, violação dos arts. 502, 503, 505, 507 e 508, sustentando, em síntese, que o " acórdão recorrido, ao adotar como correto o cálculo apresentado pela Contadoria Judicial, reconheceu a prescrição dos juros vencidos antes de janeiro de 1998. Contudo, ao assim dispor, equivocou-se o Tribunal a quo quanto às duas espécies de juros remuneratórios existentes quando o assunto é empréstimo compulsório de energia elétrica" (fl. 632).
+Contrarrazões às fls. 981-986.
+Juízo positivo de admissibilidade às fls. 989.
+É o relatório. Passo a decidir.
+Verifica-se que a recorrente pretende a anulação do acórdão proferido pela Corte de origem, em sede de embargos de declaração, sob o argumento de negativa de prestação jurisdicional, porquanto remanesce omisso o julgamento da controvérsia, quanto à prescrição aplicável ao caso, considerando que existem duas espécies de acessórios a serem consideradas quando o assunto é empréstimo compulsório de energia elétrica.
+Os embargos de declaração foram rejeitados de forma genérica, conforme o seguinte excerto do voto condutor (fl. 612/613):
+Os embargos de declaração são cabíveis contra decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão ou corrigir erro material no julgado, conforme prescrito no art. 1.022 do CPC/2015.
+O aresto não apresenta os vícios da omissão, contradição ou obscuridade.
+As embargantes pretendem, em verdade, a rediscussão dos fundamentos do julgado, o que é inviável em sede de embargos de declaração.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e apresenta-se imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO
