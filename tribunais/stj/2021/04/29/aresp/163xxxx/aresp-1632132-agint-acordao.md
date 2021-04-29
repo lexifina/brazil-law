@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. FRAGILIDADE DO CONJUNTO PROBATÓRIO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a fragilidade do conjunto probatório,em virtude da ausência de início de provamaterial a demonstrar o exercício de atividade rural, em regime de economia familiar.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo interno interposto por MARIA APARECIDA CUSTÓDIOcontra decisão defls. 350/352,que negou provimento aoagravo em recurso especial, diante da incidência da Súmula 7/STJ.
+A parte agravante, em suas razões, alega inicialmente a inaplicabilidade do referido óbice sumular, tendo em vista que "fundamentou devidamente a negativa do recebimento de recurso, que não teria como objetivo o reexame da prova, mas sim a correta aplicação de lei federal e aplicação da decisão representativa de controvérsia em relação à contemporaneidade de prova material" (fl. 356).
+Aduz que "apresentou prova material idônea da atividade rural e fundamentou o de maneira clara que houve afronta a lei federal e decisão desse próprio Tribunal em relação à contemporaneidade da prova no período controvertido" (fl. 357).
+Impugnação não apresentada (fl. 362).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. FRAGILIDADE DO CONJUNTO PROBATÓRIO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a fragilidade do conjunto probatório,em virtude da ausência de início de provamaterial a demonstrar o exercício de atividade rural, em regime de economia familiar.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A irresignação não merece acolhida.
+O labor campesino deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+De acordo com a jurisprudência do STJ, são aceitos, como início de prova material da qualidade de rurícola, em regime de economia familiar, os documentos em nome de outros membros da família, inclusive cônjuge ou genitor, que o qualificam como lavrador, desde que acompanhados de robusta prova testemunhal (AgRg no AREsp 188.059/MG, Rel. Ministro Herman Benjamin, DJe 11/9/2012).
+Entretanto, com relação às provas existentes nos autos, colhe-se do acórdão recorrido o seguinte excerto(fls. 240/241):
+Consta dos autos o seguinte documento:
+a) CTPS da autora com vínculos rurais nos períodos de 1994 a 2003 e de 2005 a 2010 (evento 1, OUT7, OUT8).
+A prova material carreada aos autos é insuficiente para a demonstração da sua condição de rurícola, não configurando, sequer, início de prova material. A propósito do tema, o Colendo Superior Tribunal de Justiça editou o enunciado nº 149 da sua Súmula, que consolidou o entendimento no sentido de não ser admissível prova exclusivamente testemunhal para comprovação de tempo de serviço com fins previdenciários.
+Nesse contexto, a falta de precisão e consistência dos depoimentos e/ou a escassez de provas materiais impedem o reconhecimento do direito ao benefício de aposentadoria rural por idade, porquanto não preenchidos os requisitos contidos no artigo 143 da Lei nº 8.213/91.
+Todavia, em casos como o da presente demanda, de impossibilidade da concessão do benefício de aposentadoria rural por idade em face da ausência de conteúdo probatório eficaz, notadamente pela insuficiência da prova material acostada com a inicial, o Colendo Superior Tribunal de Justiça firmou entendimento no julgamento do RESp nº1.352.721/SP, cuja ementa foi lavrada nos seguintes termos:
+ ..
+Cumpre ressaltar que a CTPS juntada aos autos não serve para demonstrar a atividade rural da autora em regime de economia familiar, uma vez que tal documento diz respeito apenas aos vínculos empregatícios da mesma.
+Nota-se que, na espécie, o Tribunal a quo, com base no conjunto de fatos e provas do feito, concluiu pela impossibilidade do reconhecimento do tempo de serviço rural em virtude daausência de início de prova material a demonstrar o exercício de atividade rural, em regime de economia familiar, na medida em que o único documento mencionadono acórdão recorrido (CTPS)diz respeito apenas aos vínculos empregatícios.
+Assim, não se verifica, de plano, a suscitada violação à lei federal, de forma que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais,éinadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. No caso, aduz o recorrente, em suma, que "apresentou prova material idônea da atividade rural e fundamentou o de maneira clara que houve afronta a lei federal e decisão desse próprio Tribunal em relação à contemporaneidade da prova no período controvertido". Contudo, o Tribunal a quo solucionou a controvérsia asseverando que "a CTPS juntada aos autos não serve para demonstrar a atividade rural da autora em regime de economia familiar, uma vez que tal documento diz respeito apenas aos vínculos empregatícios da mesma". Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rela. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/04/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
