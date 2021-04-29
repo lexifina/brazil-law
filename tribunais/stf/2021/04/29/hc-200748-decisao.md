@@ -1,0 +1,16 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas corpus. Crime de roubo. Prescrição da pretensão punitiva. Jurisprudência do STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, no qual se aponta como autoridade coatora o Relator do AREsp 677.455, Ministro Antonio Saldanha Palheiro, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, à pena de 5 anos de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 157, caput, do Código Penal.
+    3. Irresignada, a defesa interpôs apelação, tendo o Tribunal de Justiça do Estado do Ceará negado provimento ao recurso. Foi, então, interposto recurso especial, inadmitido na origem. Na sequência, sobreveio agravo em recurso especial (AREsp 677.455), não conhecido monocraticamente pelo Relator, Ministro Ribeiro Dantas. Contra essa decisão, a defesa opôs embargos de declaração, os quais foram rejeitados pelo Ministro Relator. Em seguida, a defesa interpôs agravo regimental, não conhecido.
+    4. Neste habeas corpus, a parte impetrante aponta, em síntese, “a ocorrência da Prescrição Penal, tendo em vista o decurso temporal entre a sentença de primeiro grau e a decisão de processamento do REsp 677.455”. Sustenta a impossibilidade de aplicação da Lei 11.569/2007, que deu nova redação ao inciso IV do art. 117, incluindo o acórdão condenatório como novo marco interruptivo da prescrição penal, visto que a sentença foi prolatada e publicada em 28 de novembro de 2003.
+    5. A defesa requer a concessão da ordem a fim de que seja reconhecida a prescrição penal e determinado o arquivamento dos autos da ação penal.
+    6. Decido.
+    7. A orientação do Supremo Tribunal Federal (STF) é no sentido de que, “[n]os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta” (HC 176.473, Rel. Min. Alexandre de Moraes, Tribunal Pleno).
+    8. No caso de que se trata, não verifico contrariedade ao entendimento firmado por esta Corte. Tal como assentou a autoridade, impetrada, “o acórdão que manteve a condenação do ora embargante, publicado em 25/10/2012 (e-STJ, fl. 271), constitui marco interruptivo para a prescrição. Assim, considerando que, no caso, o prazo prescricional é de 12 (doze) anos, a teor do art. 109, III, do CP – a pena privativa de liberdade foi fixada em 5 (cinco) anos de reclusão – não transcorreu lapso temporal entre os marco interruptivos (o recebimento da denúncia se deu aos 24/06/2002 – fl. 51, e-STJ –, e a sentença condenatória foi publicada em 28/11/2003 – fl. 146, e-STJ)”.
+    9. Ademais, lembro que a Primeira Turma do Supremo Tribunal Federal já decidiu que, “[q]uer após a Lei nº 11.596/2007, quer antes dela, o acórdão de mérito alusivo à apelação surge como fator interruptivo da prescrição.” (HC 110.232, Rel. Min. Marco Aurélio).
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 29 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
