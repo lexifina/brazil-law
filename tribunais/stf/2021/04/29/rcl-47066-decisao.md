@@ -1,0 +1,12 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Eimcal – Empresa Industrial de Mineração Calcária Ltda. e outros em face de decisão do Juízo da 2ª Vara do Trabalho de Sete Lagoas/MG (Autos nº 0010480-10.2020.5.03.0040), em que se alega afronta à ordem de suspensão nacional imediata dos feitos (art. 1.035, § 5º, do CPC) determinada no paradigma do Tema 1.406 da repercussão geral (“Validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente” - ARE 1.121.633, Rel. Min. Gilmar Mendes). Pleiteia-se a cassação da decisão reclamada, com a imediata suspensão do andamento do processo de origem até a decisão definitiva do paradigma.
+    2.  É o relatório. Decido.
+    3. Em 28.06.2019, no ARE 1.121.633-RG, paradigma do Tema 1.046 da repercussão geral, foi determinada a suspensão de todos os processos pendentes que cuidam da “validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente”, nos termos do § 5º do art. 1.035 do Código de Processo Civil.
+    4. No caso em exame, a decisão reclamada assentou que o pedido de sobrestamento, fundado no Tema 1.046, “será aferido após o encerramento da fase probatória e antes do proferimento da sentença final”, sob o fundamento de que nenhum “prejuízo às rés trará a produção de prova relativa às matérias referidas [validade do turno ininterrupto de revezamento e horas in itinere], desde que o processo seja suspenso antes de proferida a sentença”. Assinalou, ainda, que há nos autos matérias não adstritas ao referido tema de repercussão geral, com possibilidade de julgamento parcial de mérito.
+    5. Verifica-se, assim, haver o órgão reclamado apenas diferido a apreciação do pedido de suspensão para momento posterior à fase probatória, tendo em conta que a ação também envolve questões não abrangidas pelo tema da repercussão geral. Nesse cenário, não há ofensa à decisão do Ministro Gilmar Mendes no ARE 1.121.633. No mesmo sentido, cito a Rcl 37.250, Rel. Min. Marco Aurélio.
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicada a análise do pedido liminar. Sem honorários, porquanto não citada a parte interessada.
+    7. Em caso de interposição de recurso, deve a parte comprovar o recolhimento das custas processuais, sob pena de não conhecimento do apelo.
+    Publique-se.
+          Brasília, 29 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
