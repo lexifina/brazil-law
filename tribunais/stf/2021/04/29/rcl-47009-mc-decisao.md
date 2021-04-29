@@ -1,0 +1,26 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta por Corina Maria Dossi e outros, em face de decisão proferida pelo magistrado do Juizado Especial da Fazenda Pública da Comarca de Araçatuba/SP nos autos n. 1000006-59.2021.8.26.0032,
+    Consta dos autos que as reclamantes propuseram ação ordinária em face da São Paulo Previdência – SSPREV alegando que as alterações nas alíquotas de contribuição previdenciária promovidas pela Lei Complementar Estadual n. 1.354/2020 são inconstitucionais. O magistrado de primeiro grau realizou distinção do caso concreto em relação ao tema 933 da sistemática da repercussão geral e julgou improcedente o pedido (eDOC 2, p. 95-106).
+    Na petição inicial desta reclamação, as autoras sustentam, em síntese, que a autoridade reclamada desrespeitou o entendimento desta Corte assentado no ARE-RG 875.958 (tema 933), de relatoria do Min. Roberto Barroso, DJe 24.2.2017, em que houve determinação de suspensão nacional de todos os feitos em trâmite cuja temática se refere a balizas constitucionais para a majoração de alíquota de contribuição previdenciária de regime próprio de previdência social.
+    Requer, assim, a concessão de medida liminar para suspender os efeitos da decisão reclamada.
+    No mérito, requer seja julgada totalmente procedente a presente reclamação, para cassar a decisão proferida no processo n. 1000006-59.2021.8.26.0032, que não observou a ordem de suspensão nacional do feito proferida pelo STF e julgou improcedente o pedido das partes.
+    É o relatório. Decido.
+    Inicialmente, consigno que a reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    No presente caso, sustenta-se, em síntese, que o ato reclamado afronta a decisão proferida pelo Supremo Tribunal Federal no ARE-RG 875.958 (tema 933), de relatoria do Min. Roberto Barroso, DJe , ao deixar de determinar o sobrestamento do processo
+    No que tange à concessão de liminar em sede de reclamação, observo que a medida urgente dá-se em caráter excepcional, em razão da configuração do fumus boni iuris, que é o fundamento relevante do direito, e do periculum in mora, que se traduz no perigo da demora para o resultado útil do processo.
+    No caso dos autos, entendo haver a verossimilhança das alegações da parte reclamante, a justificar a concessão de medida liminar para suspender os efeitos da decisão reclamada.
+    O magistrado da origem consignou o seguinte:
+    Inicialmente, não é caso de suspensão do processo, posto que a matéria aqui discutida, legalidade da “ampliação da base de cálculo” da contribuição do servidor aposentado fundamentada em déficit atuarial no âmbito do Estado de São Paulo, é assunto novo inaugurado a partir da Emenda Constitucional nº 103/2019, não guardando identidade com a matéria objeto do TEMA 933, que está em análise há alguns anos pelo Supremo Tribunal Federal e se resume à análise dos parâmetros constitucionais a serem observados por leis que busquem aumentar as alíquotas da contribuição previdenciária dos servidores. (eDOC 2, p. 97, grifo nosso)
+    Entretanto, pela petição inicial do processo originário desta reclamação, verifica-se que a pretensão das autoras é a suspensão dos descontos das contribuições previdenciárias decorrentes das alterações de alíquotas de contribuição previdenciária instituídas pela Lei Complementar Estadual n. 1.354/2020 e a restituição de valores cobrados indevidamente.
+    Embora na decisão reclamada se tenha afirmado que a questão posta nos autos não se amoldaria ao tema 933, em uma primeira análise, parece-me que a controvérsia na origem é a mesma tratada no paradigma de repercussão geral, uma vez que cuida da análise de lei estadual pela qual foram majoradas as alíquotas da contribuição previdenciária dos servidores públicos do Estado de São Paulo.
+    Assim, em análise preliminar, parece-me que o Juízo reclamado afrontou a decisão desta Corte que determinou a suspensão nacional dos feitos que tratam sobre as balizas constitucionais para a majoração de alíquota de contribuição previdenciária de regime próprio de previdência social.
+    Ante o exposto, defiro o pedido de liminar, para determinar a suspensão da decisão proferida pelo Juízo do Juizado Especial da Fazenda Pública da Comarca de Araçatuba/SP nos autos n. 1000006-59.2021.8.26.0032 até o julgamento de mérito da presente reclamação.
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+    Cite-se o beneficiário (art. 989, III, NCPC).
+    Intime-se, se necessário, o reclamante, para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+    Após, abra-se vista dos autos à Procuradoria-Geral da República, pelo prazo de 5 dias (art. 991, CPC).
+    Comunique-se.
+    Publique-se.
+    Brasília, 29 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
