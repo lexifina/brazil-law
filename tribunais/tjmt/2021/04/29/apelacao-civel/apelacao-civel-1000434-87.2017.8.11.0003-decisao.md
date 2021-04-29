@@ -1,0 +1,70 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1000434-87.2017.8.11.0003
+RECORRENTE: BANCO DO BRASIL S/A
+RECORRIDO: J WANDERLEY GARCIA DUARTE & ADVOGADOS ASSOCIADOS S/C LTDA - ME
+Vistos, etc.
+Trata-se de Recurso Especial (ID 77735981) interposto por BANCO DO BRASIL S/A, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (ID 74328473):
+“APELAÇÕES CÍVEIS – ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS – CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS – PREVISÃO DE REMUNERAÇÃO EXCLUSIVA PELA VERBA SUCUMBENCIAL – RESCISÃO UNILATERAL IMOTIVADA PELO BANCO CONTRATANTE – LOCUPLETAMENTO ILÍCITO DOS SERVIÇOS PRESTADOS – IMPOSSIBILIDADE DE DESEMPENHO DO ADVOGADO PARA GARANTIR OS HONORÁRIOS – ARBITRAMENTO QUE DEVE OBEDECER AOS PARÂMETROS DO ART. 85, §2o DO CPC/2015 E ART. 22, §2o, DO ESTATUTO DA OAB – VALOR MANTIDO –– RECURSOS DESPROVIDOS.
+A preliminar de carência de ação não deve prevalecer, isso porque, por mais que haja estipulação em contrato de que os honorários seriam percebidos tão somente na sucumbência, com o rompimento do contrato e o não percebimento dos honorários pela via extrajudicial, inviabilizou-se o recebimento da remuneração, justificando o ajuizamento da ação e o interesse processual.
+“O Estatuto da Advocacia assegura o direito do advogado ao recebimento dos honorários da sucumbência. Rompido pelo cliente o contrato de prestação de serviços, impedindo o advogado de levar até o fim a causa sob seu patrocínio, não encerrado, portanto, o processo, cabível o pleito de arbitramento de honorários na proporção dos serviços prestados até então.” (REsp 782.873/ES, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 06/04/2006, DJ 12/06/2006, p. 482).
+Ante a rescisão unilateral do contrato e pela remansosa jurisprudência sobre o tema, o direito ao percebimento dos honorários deve ser compatível com o trabalho e o valor econômico da questão, não podendo ser inferiores aos estabelecidos na tabela organizada pelo Conselho Seccional da OAB (art. 22, §2o, do Estatuto da OAB), como se verifica no valor previsto no contrato rescindido e estabelecido na sentença, de maneira que é direito do apelante que o valor seja arbitrado pelo Judiciário de maneira que se valorizem os serviços prestados nos feitos. “Em ação de arbitramento de honorários advocatícios, incidem sobre o valor condenatório juros de mora e correção monetária a partir da citação e do arbitramento, respectivamente” (Ap 111453/2016, DES. JOÃO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 06/06/2017, Publicado no DJE 09/06/2017).
+(TJMT, ApCiv n. 1000434-87.2017.8.11.0003, Primeira Câmara de Direito Privado, Relatora Desa. Nilza Maria Possas de Carvalho, julgado em 26.01.2021)
+O presente recurso foi interposto contra o aresto que, em sede de Apelações, aviadas por J WANDERLEY GARCIA DUARTE & ADVOGADOS ASSOCIADOS S/C LTDA - ME e BANCO DO BRASIL S/A, manteve a sentença proferida pelo juízo da 4a Vara Cível da Comarca de Rondonópolis, o qual, nos autos de Ação de Arbitramento de Honorários Advocatícios, julgou parcialmente procedente a ação, para condenar a instituição financeira ao pagamento de honorários advocatícios arbitrados em R$600.000,00 (seiscentos mil reais), ao escritório ora recorrido, corrigidos com juros de mora desde a citação e correção monetária desde a sentença.
+A Câmara Julgadora entendeu que ante a rescisão unilateral do contrato antes de findados os processos no quais o recorrido prestava serviços advocatícios, inviabilizou o percebimento da verba honorária pela via prevista no contrato, qual seja, pela sucumbência.
+Argumentou ainda que o risco assumido pelo advogado não pode abranger a hipótese do contratante, por ato unilateral, rescindir o contrato, inviabilizando que o patrono, com esforços próprios, obtenha êxito no feito, momento em que o contratante assume o ônus de remunerá-lo pelo trabalho que desempenhou até o momento da rescisão contratual. (ID 69181466).
+A parte recorrente alega violação aos artigos 112, 113, 421, 422, 473 do Código Civil; art. 85, §2o, incisos I a V e § 8o, do Código de Processo Civil; artigos 22, 23 e 38 da Lei 8.906/1994, fulcrada nas seguintes teses:
+(a) É cabível a denúncia ou resilição unilateral do contrato, segundo o artigo 473 do Código Civil, tal como ocorreu no tocante a minuta de prestação de serviços advocatícios discutida nos autos (fls. ID 77735981, fl.06);
+(b) Em respeito ao princípio da liberdade de contratar, posto no art. 421 do Código Civil, e aos princípios de probidade e boa-fé, insculpidos no art. 422, do mesmo Codex, a apuração dos valores devidos pela prestação de serviços advocatícios deve respeitar o comando ajustado entre as partes. Desta forma, a estipulação de que a remuneração dos serviços pelos honorários decorrentes da sucumbência não pode ser vista como iníqua, pois não infringe a boa-fé objetiva que deve nortear as relações contratuais (ID 77735981, fl.07);
+(c) O recorrido de livre e espontânea vontade contratou
+com o recorrente que sua remuneração seria os honorários de sucumbência (...). Trata-se, pois, de contrato de risco(...). A lei 8.906/94 não faz qualquer objeção a esta forma de pactuação, havendo que se respeitar o Código de Ética e Disciplina da OAB, em seu artigo 38, que determina que a cláusula quota litis só pode ser estipulada em pecúnia e que o proveito financeiro do profissional nunca poderá ser superior ao de seu cliente. (ID 77735981, pg.08)
+(d) Caso não seja a decisão reformada para reconhecer a validade do contrato de honorários firmado e consequente exclusão da condenação, que seja então o v. acordão reformado para MINORAR o valor arbitrado a título de honorários advocatícios, tendo presente a desproporcionalidade entre o valor arbitrado e os serviços advocatícios efetivamente prestados, em manifesta ofensa aos princípios da razoabilidade e equidade (art.85§8o do CPC). (ID 77735981 pg.10/11)
+Desta forma, requer o provimento do Recurso Especial para que seja afastada a condenação imposta, em respeito ao contrato celebrado ou, alternativamente, que sejam os honorários reduzidos a valores proporcionais ao serviço realizado.
+Recurso tempestivo (ID 74241999) e preparado (ID 76467990).
+Contrarrazões (ID 79661495).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos – Inaplicabilidade de suspensão do julgamento por aplicação do Tema 1.046/STJ – Distinção.
+Inicialmente, saliente-se que o Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, decidiu submeter à Corte Especial a apreciação do REsp n. 1.644.077/PR, em que discutida a possibilidade de fixação de horários advocatícios por equidade, nos termos do art. 85, § 8o, do CPC/2015, causa ainda pendente de julgamento.
+No entanto, o referido paradigma não exaure a questão posta no presente Recurso Especial.
+Isso porque, a controvérsia trazida nas razões recursais não pretende discutir os critérios de fixação dos honorários advocatícios, se em percentual ou equitativo. O que se visa é corrigir a alegada desproporcionalidade entre o valor arbitrado pelas instâncias de origem e os serviços advocatícios efetivamente prestados, em manifesta violação aos princípios da razoabilidade e proporcionalidade.
+Em outras palavras, o recorrente não alega ofensa ao critério da equidade, trazido no artigo 85§8o do CPC.
+Dessa forma, não é o caso de suspender o julgamento deste feito, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Cláusulas contratuais (Súmulas 5 e 7 do STJ)
+Conforme o artigo 105, III, da CF, a competência do Superior Tribunal de Justiça restringe-se à aplicação e à uniformização da interpretação das leis federais e, consequentemente, não é possível o exame de matéria fático-probatória, o que inclui a interpretação de cláusulas contratuais, conforme prelecionam as Súmulas 5 e 7 do STJ.
+Nesse sentido:
+“AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADIMPLEMENTO CONTRATUAL. INDENIZAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento”. (AgInt no AREsp 927.217/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2018, DJe 14/12/2018). (g.n.)
+No caso, quanto à suposta violação aos artigos112, 113, 421, 422, 473 do Código Civil e artigos 22, 23 e 38 da Lei 8.906/1994, ressalta-se que para verificar se o contrato de honorários advocatícios deve ser cumprido da forma disposta pela recorrente, afastando a condenação imposta pelas instâncias de origem, é necessário o exame dos fatos e nova interpretação das cláusulas contratuais dentro do contexto no qual inserido as partes, atraindo a aplicação do óbice sumular mencionado.
+Para elucidar:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. QUANTUM FIXADO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise dos fundamentos apresentados pelo recorrente quanto à adequação do quantum fixado a título de honorários em decorrência da rescisão prematura pelo celebrante do contrato de prestação de serviços advocatícios demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. A incidência das referidas súmulas impede o exame do dissídio jurisprudencial, por faltar identidade entre os paradigmas apresentados e os fundamentos do acórdão. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1534014/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/12/2019, DJe 13/12/2019)
+Do mesmo modo, quanto a suposta violação aos artigos art. 85, §2o, incisos I a V e § 8o, do Código de Processo Civil; na qual se pretende, alternativamente, a redução do valor condenatório fixado, é importante ressaltar a conclusão a que chegou o órgão recorrido, para confirmar o valor de R$ 6000.000,00 (seiscentos mil reais) a título de arbitramento de honorários a favor do recorrido envolveu a análise de todo o conjunto fático dos autos, em especial o tempo, a qualidade, e a espécie de serviço desenvolvido ao longo de anos.
+Desta forma, em se tratando de valor proporcional à espécie de demandas e o tempo de labor, eventual análise para infirmar as conclusões a que chegou à corte de origem implicaria em revolvimento do acervo fático dos autos, o que é obstado pela Súmula 07/STJ.
+Nesta linha:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO.PEDIDO DE ARBITRAMENTO DE HONORÁRIOS. TABELA DA OAB. NÃO VINCULAÇÃO.SÚMULA 83/STJ. VALOR OFERTADO. RAZOABILIDADE. REVISÃO.IMPOSSIBILIDADE. SÚMULA No 7/STJ. IMPROVIMENTO.
+1. Aplicável a Súmula 83/STJ quando o acórdão recorrido concorda com a jurisprudência desta Corte, o que ocorre no presente caso no que tange à conclusão de que a tabela da OAB não possui força vinculativa para o julgador, servindo de mero indicativo.
+2. O entendimento do Tribunal estadual de que a remuneração concedida remunera adequadamente o trabalho feito pelo Advogado não é susceptível de reexame na via do recurso especial (Súmula no 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 275.658/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/08/2016, DJe 17/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1.REVISÃO DA VERBA HONORÁRIA. TESE RECURSAL QUE DEMANDA O REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO INTERNO DESPROVIDO. 1. Quanto aos honorários sucumbenciais, a orientação jurisprudencial desta Corte é no sentido de que, ressalvadas as exceções previstas na legislação, na vigência do Código de Processo Civil de 2015, o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2o do referido dispositivo legal. Na espécie, o colegiado estadual manteve os honorários advocatícios fixados pelo magistrado de primeiro grau no mínimo legal de 10% sobre o proveito econômico. 2.
+Outrossim, "não compete ao STJ, em sede de recurso especial, promover a revisão de honorários de sucumbência fixados em patamar razoável, não sendo irrisórios nem exorbitantes, ante a incidência da Súmula 7 do STJ" (AgInt no AREsp 1.034.778/SP, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5a Região, Quarta Turma, julgado em 24/04/2018, DJe 30/04/2018).
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.527.594/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
