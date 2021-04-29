@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Mateus Prestes dos Santos, apontando como autoridade coatora o Ministro Rogério Schietti Cruz, do Superior Tribunal de Justiça, que denegou o HC nº 643.645/PR.
+    Consta dos autos que foi julgada improcedente revisão criminal ajuizada pelo paciente, mantendo-se a condenação que lhe fora imposta de 5 (cinco) de reclusão, em regime semiaberto, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06.
+    Sustentam os impetrantes, em suma, que a paciente faria jus à incidência da causa especial de redução de pena, prevista no § 4º do art. 33 da Lei nº 11.343/06, visto que preencheria os pressupostos necessários para tanto.
+    Afirmam, ainda, que carece de fundamentação a decisão quanto à fixação do regime inicial de cumprimento da pena.
+    Requer o deferimento da liminar para suspender a condenação do paciente até o julgamento final do writ.
+    No mérito, pleiteia o reconhecimento da minorante do § 4º do art. 33 da Lei 11.343/06, com a alteração do regime inicial para o aberto.
+    Examinados os autos, decido.
+    Transcrevo a decisão ora questionada:
+    “MATEUS PRESTES DOS SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de origem, que julgou improcedente a revisão criminal, que manteve a pena em 5 anos de reclusão, em regime semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (Revisão Criminal n. 0070844-56.2020.8.16.0000).
+    Busca-se, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+    A liminar foi indeferida e dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem.
+    Decido.
+    Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+    § 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+    Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+    A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+    Na espécie, constato que a Corte estadual manteve a não incidência da minorante, sob os seguintes fundamentos (fl. 48, destaquei):
+    Assim, a pena somente pode ser modificada via ação revisional quando houver um erro grosseiro, o que não ocorreu na situação em exame, o que inviabiliza o acolhimento da tese defensiva e a desconstituição da coisa julgada, notadamente porque a causa de diminuição não foi considerada em razão de existirem denúncias de que o acusado já vinha realizando o tráfico de drogas no Bar de sua propriedade, o qual afirmou para a equipe policial que fazia a venda de drogas há aproximadamente 02 meses.
+    Portanto, a negativa de aplicação da redução de pena se deu diante do entendimento de que o recorrente se dedicava à atividade criminosa, e entender de forma diferente é alterar a coisa julgada, revolvendo prova já analisada, sem que tenha sido consignado qualquer elemento novo capaz de autorizar nova apreciação.
+    Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+    Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+    Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+    À vista do exposto, denego a ordem.”
+    Como visto, a impetração volta-se contra decisão singular. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ainda que assim não fosse, à questão da ausência de fundamentação quanto à fixação do regime inicial de cumprimento da pena, verifica-se da decisão em questão, que o Relator no Superior Tribunal de Justiça não analisou essa tese. Logo, sua apreciação pela Corte configuraria, na linha de precedentes, inadmissível supressão de instância.
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Consoante tranquila jurisprudência da Corte, o uso de habeas corpus como sucedâneo de revisão criminal é cabível apenas nas hipóteses excepcionais de manifesta ilegalidade ou teratologia (v.g. RHC nº 174.771-AgR, 2ªT, Rel. Min. Ricardo Lewandowski, DJe de 17/10/19), o que não ocorre na espécie, sendo certo que o writ não é a via adequada para reexaminar fatos e provas para se chegar à conclusão diversa das instâncias ordinárias no tocante à negativa da aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas. (v.g. HC nº 124.479/MG, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 11/12/14)
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 29 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
