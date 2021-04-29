@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Movelpar Indústria, Comércio e Importação Ltda. e Tábua Forte Comércio de Insumos, Máquinas e Ferramentas Ltda. afirmam haver o Tribunal Regional Federal da 4ª Região, no processo nº 5011220-13.2019.4.04.7107/RS, inobservado o decidido, sob a sistemática da repercussão geral, no recurso extraordinário com agravo nº 1.260.750 – Tema nº 1.100.
+    Narram impetrado mandado de segurança visando a exclusão de valores descontados da remuneração dos empregados a título de vale-transporte, auxílio-refeição/alimentação e auxílio-saúde/farmácia/odontológico da base de cálculo da contribuição previdenciária patronal, dos encargos de terceiros destinados ao chamado sistema “S” e das contribuições ao seguro de acidentes do trabalho incidentes sobre a folha de salários – SAT. Ressaltam o indeferimento da ordem e o desprovimento de apelação. Interposto recurso extraordinário, teve a sequência impedida considerado o Tema nº 1.100 do repertório da repercussão maior. Não houve êxito em agravo.
+    Articulam com erronia na observância do regime da repercussão geral, uma vez debatida, no Tema nº 1.100, definição individualizada da natureza jurídica de verbas recebidas por empregado para fins de incidência de contribuição previdenciária a cargo do empregador. Frisam em jogo valores descontados da remuneração dos trabalhadores, tendo em conta o alcance do conceito de folha de salários.
+    Requer, no campo precário e efêmero, a suspensão da decisão reclamada. Pretende, no mérito, a cassação.
+    2. Ao desprover a apelação, o Tribunal Regional Federal assentou a impertinência da pretensão veiculada por entender que os descontos a título de vale-alimentação e auxílio-saúde constituem despesas suportadas pelo empregado, ficando afastada a natureza indenizatória. Confiram a ementa confeccionada:
+    TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PATRONAL. SAT/RAT. TERCEIROS. TEMA 20. RE 565.160. DESCONTOS DO VALE-ALIMENTAÇÃO, AUXÍLIOS SAÚDE, ODONTOLÓGICO E FARMÁCIA E E DO VALE-TRANSPORTE. Como os descontos do vale-transporte e do vale-alimentação não tem natureza jurídica de indenização, mas, sim, de despesa suportada pela empregado, não podem ser abatidos da base de cálculo das contribuições previdenciárias.
+    (Apelação cível nº 5011220-13.2019.4.04.7107, Primeira Turma do Tribunal Regional Federal da 4ª Região, relator Juiz Francisco Donizete Gomes)
+    Não está verificada erronia quanto à observância da repercussão maior. O chamado Plenário Virtual, ao apreciar o recurso extraordinário com agravo nº 1.260.750 – Tema nº 1.100 –, declarou a ausência de repercussão geral da matéria, ante envolvimento de questão legal, quanto ao debate concernente à análise da natureza jurídica de rubricas pagas a empregados, para fins de incidência de contribuição previdenciária patronal. Eis a tese firmada:
+    “É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à definição individualizada da natureza jurídica de verbas percebidas pelo empregado, bem como de sua respectiva habitualidade, para fins de incidência da contribuição previdenciária a cargo do empregador conforme o art. 22, I, da Lei nº 8.212/1991.“
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 29 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
