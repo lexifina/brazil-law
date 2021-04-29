@@ -1,0 +1,33 @@
+APELANTE: ESTADO DE MATO GROSSO
+APELADO: SONY MOBILE COMUNICATION DO BRASIL LTDA
+Vistos, etc.
+Trata-se recurso de apelação cível interposto pelo ESTADO DE MATO GROSSO contra a sentença proferida pelo Juízo da Vara Especializada de Execução Fiscal da Comarca de Cuiabá/MT, que, nos autos dos Embargos à Execução Fiscal n. 1000691-32.2016.8.11.0041, interpostos por SONY MOBILE COMUNICATION DO BRASIL LTDA, julgou parcialmente os embargos, tão somente para reduzir o valor da multa que originou a CDA n. 20154832.
+Em suas razões recursais, o apelante alega, em síntese, a impossibilidade de redução da penalidade pecuniária pelo Judiciário, por força do princípio da separação dos poderes. Ainda, sustenta que a multa imposta pelo PROCON/MT não pode ser reduzida, quando restar comprovado que este agiu no seu dever legal de fiscalização das normas consumeristas.
+Aduz que não cabe ao Judiciário mensurar se é justa ou injusta a multa aplicada, haja vista tratar-se de mérito, cuja competência é exclusiva da Administração Pública.
+Pautado nesses argumentos, requer o provimento do recurso com o fito de reformar a sentença combatida, para que seja mantida a penalidade pecuniária em seu valor original.
+O apelado deixou de apresentar as contrarrazões.
+Instada a se manifestar, a Procuradoria-Geral de Justiça, em parecer da lavra do Procurador de Justiça José B. Gonçalves, manifesta-se pelo desprovimento do apelo.
+É o relatório.
+Decido.
+Conforme relatado, cuida-se de recurso de apelação cível interposto pelo ESTADO DE MATO GROSSO contra a sentença proferida pelo Juízo da Vara Especializada de Execução Fiscal da Comarca de Cuiabá/MT, que, nos autos dos Embargos à Execução Fiscal n. 1000691-32.2016.8.11.0041, interpostos por SONY MOBILE COMUNICATION DO BRASIL LTDA, julgou parcialmente os embargos, tão somente para reduzir o valor da multa que originou a CDA n. 20154832.
+Ao julgar parcialmente procedentes os embargos à execução fiscal para reduzir a multa, o Juízo a quo fundamentou sua decisão nos seguintes termos:
+“(...) Insta salientar que a aplicação da penalidade de multa encontra-se expressamente prevista no artigo 56, I, do Código de Defesa do Consumidor, devendo o seu aplicador se ater às graduações máxima e mínima estabelecidas no parágrafo único do artigo 57, do mesmo regramento especial. Destarte, sempre que conduta praticada no mercado de consumo atingir diretamente o interesse de consumidores é legítima a atuação do PROCON para aplicar as sanções administrativas previstas em lei, no regular exercício do poder de polícia que lhe foi conferido no âmbito do Sistema Nacional de Defesa do Consumidor.
+(...)
+In casu, evidente desproporcionalidade entre a pecúnia aplicada e a suposta irregularidade cometida, neste peculiar aspecto.
+A multa corresponde à conduta infrativa tipificada nos autos de infração, foi imposta no valor final de R$ 18.000,00 (dezoito mil reais), quantum que a meu ver, deixou de atender os aspectos consideráveis a graduação da multa de que trata a legislação pertinente à espécie, tendo em vista que a própria lei estabelece balizas a serem observadas pelo órgão fiscalizador na graduação da multa, que deve refletir caráter pedagógico, isto é, possuir a natureza de desestimular a reiteração da prática da infração, devendo ser reduzida quando for fixada de maneira exagerada e desproporcional.
+No caso em tela verifica-se que não há aparente razoabilidade e proporcionalidade entre a penalidade imposta pelo PROCON e o art. 57, da Lei 8.078/1990 e a decisão final proferida administrativamente que fixou a multa no valor de R$ 18.000,00 (dezoito mil reais). Nesse contexto, o fundado receio de dano irreparável ou de difícil reparação ao Embargante está evidente caso se mantenha inalterado o quantum sancionário alhures fixados, o que a meu ver se mostra excessivo se comparado à vantagem auferida e que não pode ser mensurada, devendo ser reduzida ao valor de R$ 10.000,00 (dez mil reais)” (id. 79700575).
+Na hipótese, verifica-se que a multa na quantia de R$ 18.000,00 (dezoito mil) foi aplicada em detrimento da empresa apelada, ante a Reclamação confeccionada por uma consumidora em 20.02.2009, que adquiriu um aparelho celular da marca Sony Ericson, tendo o objeto apresentado vícios de qualidade. O aparelho foi levado até a assistência técnica autorizada, onde permaneceu por mais de 30 (trinta) dias, motivo pelo qual a consumidora requereu a devolução do valor total pago, corrigido monetariamente.
+Embora a consumidora não tenha sido atendida de pronto pela empresa recorrida, após o decurso do prazo, a empresa lhe disponibilizou o valor de R$906,00 (novecentos e seis reais), conforme se verifica da Decisão Administrativa e da cópia da Relação de Pagamentos constate dos autos.
+Pois bem.
+A multa, como é cediço, deve guardar relação com a gravidade do fato lesivo e com as consequências dele oriundas, em observância ao princípio da razoabilidade.
+Como bem afirmado pela Procuradoria-Geral de Justiça em seu parecer, “em se tratando de pena, a razoabilidade é questão sujeita ao Judiciário sim, seja no Direito Penal, seja no Civil e no Administrativo”.
+Desse modo, examinando o caderno processual, percebe-se que o valor fixado afronta aos princípios da razoabilidade e da proporcionalidade na dosagem da penalidade, uma vez que o Órgão de Fiscalização não fundamentou e justificou a aplicação da sanção pecuniária no patamar em que estabelecido.
+Nesse sentido é o entendimento deste Sodalício:
+“RECURSO DE APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO FISCAL – MULTA ADMINISTRATIVA APLICADA PELO PROCON MUNICIPAL – VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE – REDUÇÃO – SENTENÇA MANTIDA – ISENÇÃO DO PAGAMENTO DE DESPESAS E CUSTAS VERIFICADA – RECURSO PARCIALMENTE PROVIDO. 1. Configurada a violação ao princípio da proporcionalidade, correta a sentença que procede à redução da sanção aplicada pelo Procon em razão de negativação indevida de consumidor. 2. O Município não está obrigado ao pagamento de custas processuais, despesas ou emolumentos, conforme o estabelecido na Consolidação das Normas Gerais da Corregedoria-Geral da Justiça do Estado de Mato Grosso, bem como fundado nos preceitos do artigo 3o da Lei Estadual n.o 7.603/2001. (N.U 1003856-36.2018.8.11.0003, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA APARECIDA RIBEIRO, Segunda Câmara de Direito Público e Coletivo, Julgado em 17/12/2019, Publicado no DJE 30/01/2020).”
+Assim, não merece reparos a sentença que reduziu a multa para o patamar de R$ 10.000,00 (dez mil reais).
+Ante o exposto, com fulcro na súmula 568 do STJ, nego provimento ao presente recurso, devendo ser mantido incólume o ato sentencial.
+Intimem-se.
+Cumpra-se.
+Cuiabá, 29 de abril de 2021.
+Alexandre Elias Filho
+Relator Convocado
