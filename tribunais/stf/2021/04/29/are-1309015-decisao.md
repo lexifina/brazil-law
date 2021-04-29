@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECLAMAÇÃO TRABALHISTA CONVERTIDA EM AÇÃO ORDINÁRIA. PEDIDO DE PAGAMENTO DE VERBAS TRABALHISTAS. FGTS. SERVIDORA PÚBLICA INVESTIDA NO CARGO ANTES DA CONSTITUIÇÃO FEDERAL/1988. PERMANÊNCIA POR LIVRE CONVENIÊNCIA DA ADMINISTRAÇÃO PÚBLICA. INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO PELA LEI COMPLEMENTAR Nº 001/1997 (PUBLICADA NO DOU DE 14/01/1998). DIREITO ÀS VERBAS TRABALHISTAS ATÉ O INGRESSO NO CITADO REGIME. OCORRÊNCIA DA PRESCRIÇÃO BIENAL. AUSÊNCIA DE DIREITO ÀS VERBAS TRABALHISTAS APÓS O REGIME JURÍDICO ÚNICO, POSTO QUE NÃO AS CONTEMPLA. PRECEDENTES DESTA CORTE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXIX; 37, II, da CF e ao art. 19 do ADCT.
+    O recurso deve ser parcialmente provido. No caso, é incontroverso que o ingresso da recorrente no serviço público se deu sem a prévia aprovação em concurso público, sob o regime celetista, antes da Constituição Federal de 1988. Nesses casos, a jurisprudência desta Corte se orienta no sentido de que é incabível a transmudação do regime celetista para o estatutário sem a prévia realização de concurso público.
+    Nada obstante, a recorrente teve seu emprego convertido em cargo público e gozou de estabilidade estatutária desde então. Desse modo, não há que se falar em depósito, pelo Município de Japi, dos valores não depositados a título de FGTS desde a transmudação, visto que o FGTS foi justamente criado para proteger o trabalhador demitido sem justa causa, após a extinção da estabilidade decenal no setor privado.
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário para invalidar a transmudação do regime celetista para o estatutário e determinar que o Município de Japi passe a depositar o FGTS a partir da publicação desta decisão.
+    Publique-se.
+          Brasília, 29 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
