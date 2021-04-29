@@ -1,0 +1,41 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico e associação para o tráfico de drogas. Prisão preventiva. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 658.520, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que a paciente foi denunciada e presa preventivamente pela suposta prática dos crimes previstos nos arts. 33 e 35 ambos da Lei 11.343/06.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo (TJ/SP). Indeferida a liminar, houve a impetração de HC no STJ. O Relator do HC 658.520, Ministro Reynaldo Soares da Fonseca, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a decretação da custódia preventiva, destacando que a paciente possui dois filhos, com 4 e 8 anos de idade, que dependem de seus cuidados.
+    5. A defesa requer a concessão da ordem a fim de revogar a prisão processual da acionante. Subsidiariamente, pleiteia a substituição da prisão preventiva pela prisão domiciliar.
+    6. Decido.
+    7.  Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    8. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    9.  Não é o caso de concessão da ordem de ofício.
+    10. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva, notadamente se se considerar que, tal como assentou o STJ, “[c]onsta dos autos que foi deferida parcialmente liminar em habeas corpus para substituir a prisão preventiva da paciente por domiciliar […]. Entretanto, no relatório da decisão que indeferiu a liminar ora combatida, o Desembargador Relator descreve que ‘a paciente não foi colocada em liberdade, pois a Juíza entendeu que havia outro mandado de prisão em desfavor da paciente, em outros autos" (grifos acrescentados). Transcrevo, nesse sentido, as seguintes passagens do ato impugnado:
+    “[...]
+    No caso, a despeito da relevância das alegações defensivas, revela-se inviável a superação do referido enunciado sumular, tendo em vista a deficiência de instrução do pedido.
+    Consta dos autos que foi deferida parcialmente liminar em habeas corpus para substituir a prisão preventiva da paciente por domiciliar, conforme se depreende das eSTJ fls. 69/71:
+    Trata-se de Habeas Corpus impetrado em benefício de (...), alegando constrangimento ilegal por parte do MM. Juízo de Direito apontado como autoridade coatora que converteu a prisão em flagrante da paciente em prisão preventiva. Aduz, ainda, a grave situação de pandemia devido ao novo coronavírus e questões de mérito.
+    A paciente está sendo investigada pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+    Defiro, em parte, o pedido liminar de Habeas-Corpus.
+    Primeiramente, é importante ressaltar a quantidade expressiva de drogas apreendidas (21,2 gramas de maconha, 68.3 gramas de crack, 4,2 gramas de cocaína e 4.250 mililitros de lança-perfume), a diversidade e a forma que estavam acondicionadas: bem como os registros contábeis de tráfico, mapas de possíveis locais de armazenamento de drogas, petrechos e insumos destinados ao tráfico apreendidos - fls. 09/10 e 13/17 dos autos de origem, de modo que não se mostra socialmente recomendável a concessão de liberdade provisória ou a aplicação de medidas cautelares alternativas.
+    Ademais, o habeas corpus é ação constitucional gratuita, razão pela qual o pleito de gratuidade também não comporta acolhimento.
+    Por outro lado, tendo em vista a recente alteração do Código de Processo Penal trazida pela Lei 13.769,2018, a qual acrescentou os arts. 318-A e 318-B a este diploma legal, assegurando a prisão domiciliar para gestantes e/ou mulheres que possuam filhos menores de 12 anos de idade em casos de crimes cometidos sem violência ou grave ameaça ou que não sejam cometidos contra o próprio filho ou dependente, a paciente faz jus à benesse por preencher os requisitos legais.
+    No presente caso, a paciente é mãe dos menores (...), ambos com menos de 12 anos de idade (fls. 38 39). Por tais razões, cumprindo a novel legislação, defiro parcialmente o pedido liminar de Habeas Corpus, para determinar a substituição da prisão preventiva por prisão domiciliar, conforme requerido.
+    Também determino a extração de cópias das peças do writ a serem encaminhadas ao Juízo da Vara da Infância e Juventude competente para verificação de eventual situação de risco dos menores. Considerando que o feito está instruído e as informações estão disponíveis no sistema eletrônico, a fim de evitar a sobrecarga do MM. Juízo de origem, deixo de solicitar as informações.
+    À Douta Procuradoria-Geral de Justiça.
+    Não obstante, a decisão não foi cumprida pela magistrada processante.
+    A defesa alega que ‘a DD. Juíza (...), mesmo com provas contundentes (...) não concedeu o relaxamento da prisão temporária aduzindo que a Prisão Preventiva que fora revogada pelo HC-2053307- 97.2021.8.26.0000 e a prisão temporária são mandados distintos’ (e-STJ fls. 21).
+    Entretanto, no relatório da decisão que indeferiu a liminar ora combatida, o Desembargador Relator descreve que ‘a paciente não foi colocada em liberdade, pois a Juíza entendeu que havia outro mandado de prisão em desfavor da paciente, em outros autos’ (e-STJ fl. 32).
+    Portanto, há controvérsia a respeito do decreto que fundamenta a prisão da paciente, e que ensejou o não cumprimento da decisão que deferiu a prisão domiciliar.
+    Ocorre que a defesa não trouxe aos autos a decisão da magistrada que recusou o cumprimento da decisão, impossibilitando definir seus termos. Configuram situações diversas a não autorização da prisão domiciliar devido à existência de mandados de prisão expedidos em outros autos, e a recusa baseada no indevido entendimento de que, revogada a prisão preventiva, subsistiria a prisão temporária anteriormente decretada.
+    Portanto, não é possível, a partir dos elementos contidos nos autos, definir se há constrangimento ilegal a ser sanado.
+    É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+    [...]”.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 29 de abril de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
