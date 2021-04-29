@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de CARLOS RODOLFO DOS SANTOS OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (fl. 104):
+"Habeas Corpus" - Apropriação indébita - Decretação da Prisão Preventiva - Descabimento da concessão de liberdade provisória - Decisão do Juízo de Primeiro Grau fundamentada no caso concreto -Necessidade de acautelamento da ordem pública demonstrada - Paciente que ostenta três condenações definitivas pela prática de crimes patrimoniais - Presentes os requisitos necessários para a segregação cautelar, sua manutenção é de rigor - Inexistência de constrangimento ilegal - Ordem denegada.
+A defesa alega que o paciente está sofrendo constrangimento ilegal, em decorrência da ausência de fundamentação da decisão que decretou a preventiva e pelo fato da prisão caracterizar verdadeira antecipação de pena.
+Requer a liberdade provisória do paciente com aplicação das medidas cautelares previstas no art. 319do CPP.
+O pedido de liminar foi indeferido às fls. 111-112.
+O Ministério Público Federal manifestou-se pelo não conhecimento do write, caso dele se conheça,pela denegação da ordem(fls. 137-141).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 106-108):
+A custódia cautelar foi devidamente fundamentada pelo Juízo, que entendeu presentes a prova da materialidade e indícios da autoria, de sorte que não há qualquer irregularidade formal.
+E apesar de o crime supostamente praticado pelo paciente não ter sido cometido com violência ou grave ameaça à pessoa, observo que ele possui condenação definitiva pela prática de crimes patrimoniais - roubo qualificado, estelionato e furto -, parecendo haver fundamento concreto, portanto, para a manutenção de sua custódia.
+Desta forma, diversamente do alegado pelos impetrantes, a decisão que decretou a prisão preventiva se baseou nas características do caso concreto, que impõem a necessidade da segregação cautelar como forma de garantia da ordem pública, para conveniência da instrução processual e para assegurar a aplicação da lei penal.
+ ..
+Destarte, é de rigor que o Magistrado analise a viabilidade da concessão da liberdade provisória ao paciente, ou ainda a substituição da sua prisão preventiva por outras medidas cautelares, não existindo qualquer ilegalidade na decisão que considera tais providências insuficientes à manutenção da ordem pública.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+No que se refere à alegação de antecipação da pena, o Superior Tribunal de Justiça entende que "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP)" (AgRg no RHC n. 126.010/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/12/2020).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
