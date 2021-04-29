@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto por Instituto Federal do Paraná contra decisão que não conheceu de recurso especial derivado de agravo de instrumento, no qual discute o deferimento de antecipação de tutela.
+Por ofício recebido em 15 de abril de 2021, o Tribunal Regional Federal da 4ª Região informa a superveniência de sentença no processo n. 50185932820194047000, a qual tem o seguinte dispositivo (www.trf4.jus.br):
+Diante do exposto, julgo parcialmente procedentes os pedidos formulados pela autora. A autora não tem direito à rescisão judicial do contrato e, por conseguinte, não tem direito à imediata devolução da garantia, ao pagamento dos valores referentes à quarta medição e também ao pagamento dos custos de mobilização. A garantia só será devolvida após compensação com eventual multa, algo a ser apurado no decorrer do processo administrativo. No entanto, condeno a ré a pagar as diferenças relativas à taxa de compensação financeira calculada sobre os valores pagos em atraso e relativos às 1ª e 2ª medições, nos termos da fundamentação. Condeno a ré ao pagamento de honorários advocatícios, que fixo nos percentuais mínimos previstos no artigo 85, §§ 3º e 5º, do CPC, a incidirem sobre o valor da condenação em benefício da parte autora. Por outro lado, uma vez que não se sabe qual o proveito econômico obtido pela ré, condeno a autora, por equidade, ao pagamento de honorários advocatícios de idêntico valor.
+Nesse contexto, observa-se a perda superveniente do interesse recursal.
+Ante o exposto, reconsidero a decisão agravada e julgo prejudicado o recurso especial e o agravo interno.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO DERIVADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA. PRETENSÃO RECURSAL PREJUDICADA. DECISÃO AGRAVADA RECONSIDERADA. RECURSOS PREJUDICADOS.
