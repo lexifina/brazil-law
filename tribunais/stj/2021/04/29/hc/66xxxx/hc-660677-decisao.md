@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que indeferiu pedido liminar no writ de origem.
+Consta dos autos que a paciente foi presa em flagrante pela prática do crime tipificado no art. 33 da Lei 11.343/2006.
+Oimpetrante argumenta, em suma, que aPaciente se enquadra no grupo de pessoas abrangidas pela referida decisão, uma vez que a Paciente é genitora e responsável de duas crianças menores de 6 (seis) anos, de nomes Yasmin Roldão (1ano e 1 mês) e Gabriel Roldão Duarte (4 anos) (fl. 4).
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que a prisão preventiva da paciente seja substituída por domiciliar.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+Consta da decisão do Tribunal de origem que indeferiu a liminar (fls. 181-182):
+Após exame sumário da documentação juntada à petição inicial, não se verifica, à evidência, nulidade ou constrangimento ilegal hábeis ao atendimento imediato do pleito. Na hipótese, a paciente foi preso preventivamente pela prática, em tese, do crime de tráfico de drogas, cuja pena máxima é superior a 4 (quatro) anos, de modo que a prisão preventiva é admissível, nos termos do artigo 313, I, do CPP. Quanto aos requisitos do art. 312 do CPP, constata-se que a decisão judicial está devidamente arrazoada, apontando prova da materialidade e indícios de autoria do delito ("fumus comissi delicti"), além de, ao menos formalmente, estar fundamentada quanto ao "periculum libertatis". Isso porque se fez referência ao risco de a paciente, solto, voltar a delinquir. E, de acordo com o entendimento jurisprudencial, tal fundamento é idôneo para, ao menos por ora, manter a segregação.
+Ainda, o descabimento da fixação de medidas cautelares diversas da prisão foi fundamentado. Naquilo que diz com a prisão domiciliar, o pleito foi indeferido porque o tráfico era praticado na residência, no localem que as filhas são criadas. Ademais, a tutela de urgência pretendida é satisfativa, equiparando-se ao mérito da impetração. Dessa forma, é consentâneo reservar o exame das matérias suscitadas pelo impetrante ao colegiado.3. À vista do exposto, indefere-se a liminar.
+Como se vê, o Tribunal de origem destacou, em exame liminar, que "o pleito foi indeferido porque o tráfico era praticado na residência, no local em que as filhas são criadas", não havendo que falar, assim, em manifesta ilegalidade apta a ensejar o deferimento da medida de urgência, melhor cabendo seu exame no julgamento de mérito pelo colegiado da Corte a quo.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
