@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus impetrado por Pedro Machado de Almeira Castro e outros, em favor de Leandro Ricardo Cordasso, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do HC 652.141/SP.
+    Colho da decisão impugnada:
+    “Cuida-se de habeas corpus substitutivo de recurso, com pedido de liminar, impetrado em benefício de LEANDRO RICARDO CORDASSO contra decisão de desembargador do Tribunal de Justiça do Estado de São Paulo, proferida no HC n. 2039990-32.2021.8.26.0000, que indeferiu o pleito sumário.
+    Extrai-se dos autos que o paciente foi condenado à pena de 7 (sete) anos e 6 (seis) meses de reclusão, no regime inicial fechado, e ao pagamento de 750 (setecentos e cinquenta) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/06 (tráfico de drogas), mantida em sede de apelação. Após determinação do Excelentíssimo Ministro Gilmar Mendes, do Supremo Tribunal Federal, nos autos do Recurso Ordinário em habeas corpus n. 194.450/SP, foi prolatada nova sentença condenatória, aplicando a fração mínima do redutor do artigo 33, § 4º, da Lei 11.343/2006.
+    Irresignada, a defesa impetrou habeas corpus originário, cuja liminar foi indeferida conforme decisão acostada às fls. 58/59.
+    No presente writ, alega que o paciente encontra-se preso preventivamente há mais tempo do que o necessário para para a progressão de regime. Afirma que por tratar-se de tráfico privilegiado, não possui natureza de crime hediondo, o prazo para progredir é de 1/6, o que já foi cumprido pelo paciente.
+    Busca a superação da Súmula n. 691/STF, diante da teratologia da decisão. Pondera que a prisão cautelar do paciente "está sendo manejada não só como execução antecipada de pena, mas em regime muito mais grave que aquele determinado pela Lei de Execuções Penais (art. 112) e pelo Código Penal" (fl. 9).
+    Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva do paciente. Subsidiariamente, a substituição da custódia preventiva por medidas cautelares diversas da prisão (art. 319 do CPP). (eDOC 2, p. 276)
+    No STJ, o habeas corpus foi indeferido liminarmente em 17.3.2021. No dia seguinte, o impetrante protocolou o presente habeas corpus. No dia 22.3.2021, interpôs agravo regimental no STJ, improvido em 13.4.2021, mesma data em que o impetrante peticionou para requer prioridade na apreciação do pedido. (eDOC 5)
+    Nesta Corte, a defesa insiste nos pedidos formulados naquele Tribunal.
+    Os autos me vieram registrados por prevenção, em virtude da apreciação do RHC 194.450/SP.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o pedido inicial impugna decisão monocrática proferida por Ministro do STJ, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É bem certo que a Turma, no STJ, julgou o agravo regimental após a presente impetração, de modo a substituir o ato coator originário pelo acórdão por ela proferido. Todavia, o acórdão apenas manteve a decisão monocrática, sem se imiscuir no mérito, porquanto o HC impugnava decisão de desembargador que indeferiu a medida liminar.
+    O caso, assim, permanece no campo da supressão de instância, inobstante haja o STJ tecido considerações perfunctórias no julgamento do agravo.
+    De todo modo, analiso o pedido, como sempre tenho feito.
+    O impetrante diz que, após a decisão por mim proferida, “a juíza de primeira instância aplicou o redutor em seu patamar mínimo, deixando, ainda, de considerar o tempo de pena cumprido quando do estabelecimento do regime prisional e não revogando a prisão preventiva (e-STJ, fls. 43- 44). A defesa opôs embargos de declaração (e-STJ, fls. 45-54), não providos (e-STJ, fl. 56).”
+    Alega que “o paciente está preso há mais de 1 (um) ano e 7 (sete) meses e, caso estivesse em execução definitiva de pena, teria progredido ao regime semiaberto há 7 (sete) meses e progrediria ao regime aberto daqui a 3 (três) meses (e-STJ, fls. 67-68), a defesa impetrou habeas corpus no TJSP com pedido liminar – negado (e-STJ, fls. 58-59) – e pediu reconsideração (e-STJ, fls. 63-66) com a juntada dos cálculos da guia de execução provisória (e-STJ, fls. 67-68) – elaborada pela Vara de Execuções Penais de São Paulo após a impetração do writ na Justiça bandeirante – não concedida (e-STJ, fl. 70).”
+    Em 18.2.2021, registrei:
+    “Apenas em hipóteses excepcionais esta Corte tem deferido ordem de habeas corpus pelo excesso de prazo de prisão cautelar, quando a mora processual: a) seja decorrência exclusiva de diligências suscitadas pela atuação da acusação (cf.: HC 85.400/PE, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 11.3.2005; e HC 89.196/BA, rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 16.2.2007); b) resulte da inércia do próprio aparato judicial em atendimento ao princípio da razoável duração do processo, nos termos do art. 5º, LXXVIII (cf.: HC 85.237/DF, Pleno, unânime, rel. Min. Celso de Mello, DJ 29.4.2005; HC 85.068/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 3.6.2005;); ou c) seja incompatível com o princípio da razoabilidade (cf.: HC 84.931/CE, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ 16.12.2005), ou, ainda, quando o excesso de prazo seja gritante (cf.: HC 81.149/RJ, rel. Min. Ilmar Galvão, 1ª Turma, unânime, DJ 5.4.2002; RHC 83.177/PI, rel. Min. Nelson Jobim, 2ª Turma, unânime, DJ 19.3.2004).
+    Essas hipóteses são a decorrência do firme entendimento deste Supremo Tribunal Federal no sentido de que o excesso de prazo apenas se caracteriza a partir da deficiente atuação das instituições jurídicas, que torna evidente o desprezo estatal pela liberdade (HC 85.237-DF, rel. Min. Celso de Mello, Tribunal Pleno, DJ 29.4.2005).
+    No caso concreto, além de o período de custódia cautelar (pouco mais de 1 ano e 6 meses) ser muito inferior à pena fixada, o trâmite processual tem se desenvolvido expeditamente, restando, unicamente, as instâncias extraordinárias a ser cumpridas.
+    Não há, pois, excesso de prazo na custódia cautelar do paciente, o que leva à improcedência do pedido de liberdade provisória”.
+    Dois meses depois, volta a esta Corte para questionar a prisão preventiva, sob o argumento de que, se definitiva fosse a execução, já estaria no regime semiaberto.
+    É sabido que, para a progressão, não basta a satisfação do requisito temporal; é necessário que o apenado cumpra os requisitos subjetivos, controvérsia a ser debatida no Juízo de primeiro grau.
+    Ademais, não verifico, no momento, ilegalidade no decreto prisional a autorizar a concessão da ordem.
+    Frise-se que o HC 2039990-32.2021.8.26.0000, em trâmite no TJ/SP, está pautado para julgamento na presente data (29.4.2021), quando se terá novo pronunciamento acerca da propriedade da prisão.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 29 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
