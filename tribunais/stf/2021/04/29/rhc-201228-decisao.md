@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus interposto por Eduardo Felipe Farias dos Santos, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 623348/SC, Relator o Ministro Joel Ilan Paciornik.
+    Consta dos autos que o recorrente foi condenado às penas de 3 anos e 4 meses de reclusão, no regime aberto, além do pagamento de 333 dias-multa, pelo prática do crime previsto no art. 33, § 4º, da Lei 11.343/2006 (tráfico de drogas).
+    Sustenta a defesa do recorrente que o acordo de não persecução penal, previsto no art. 28-A do CPP, é norma despenalizadora, motivo por que deveria retroagir ao presente caso, por ser mais benéfica.
+    A defesa pretende, subsidiariamente, a aplicação da causa especial de diminuição versada no art. 33, § 4º, da Lei antidrogas, na fração máxima de 2/3 (dois terços), mormente porque foi apreendida quantidade não expressiva de droga (9,1 g de cocaína, 5,8 g de crack e 43,6 g de maconha).
+    Requer o provimento do recurso para conceder,
+    de plano, o pedido liminar - caracterizado no fumus boni iuris e no periculum in mora, a fim de obstar o acórdão proferido pela C. 5ª Turma do eg. Superior Tribunal de Justiça e, no mérito, nos termos acima explicitados, requer-se a baixa dos autos para que o Ministério Público oferte o acordo previsto no art. 28-A do CPP. Subsidiariamente, requer seja fixado em favor do ora recorrente, a fração máxima de 2/3 da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+    É o relatório.
+    Decido.
+    Transcrevo a ementa do acórdão recorrido:
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CÓDIGO DE PROCESSO PENAL – CPP. IRRETROATIVIDADE DA LEI PROCESSUAL PENAL MAIS BENÉFICA. PRECLUSÃO DA FASE INSTRUTÓRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. REDUÇÃO NA FRAÇÃO 1/3. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DAS DROGAS APRENDIDAS. ART. 42 DA LEI DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Descabida a aplicação retroativa do instituto mais benéfico previsto no art. 28-A do CP (acordo de não persecução penal) inserido pela Lei n. 13.964/2019 quando a persecução penal já ocorreu, estando o feito sentenciado, inclusive com condenação confirmada por acórdão proferido pelo Tribunal de Justiça no caso em tela. Precedentes.
+    2. O acórdão recorrido está em consonância com o entendimento desta Corte, firme no sentido de que na escolha do quantum de redução da pena, o juiz deve levar em consideração a quantidade e a natureza da substância apreendida, a teor do art. 42 da Lei Antidrogas. No caso, não há ilegalidade na fixação da fração de 1/3 em razão da quantidade das drogas apreendidas. 3. Agravo regimental desprovido” (doc. 4, e-STJ fl 639).
+    O julgado proferido pelo Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia que justifique o provimento do recurso. Pelo contrário, encontra-se suficientemente motivado, restando justificado o convencimento formado, além de se apresentar harmônico com a jurisprudência deste Supremo Tribunal. In verbis:
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). RETROATIVIDADE ATÉ O RECEBIMENTO DA DENÚNCIA .
+    1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+    2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+    3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+    4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+    5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: ‘o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia’.” (HC nº 191.464-AgR/SC, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 26/11/20 – grifos nossos)
+    O julgado paradigma em questão se ajusta integralmente à hipótese do caso concreto, na medida em que, ao tempo da entrada em vigor da Lei nº 13.964/19, havia sentença penal condenatória e sua confirmação em sede recursal.
+    A Corte de origem manteve afastado o redutor do tráfico privilegiado com base nos seguintes fundamentos:
+    “No caso, não há ilegalidade na fixação da fração de 1/3 em razão da quantidade das drogas apreendidas, qual seja, 9,1g de cocaína em pó, divididos em 32 (trinta e dois) pacotinhos de plástico branco; 5,8g de 'crack', acondicionados em 30 (trinta) pacotinhos de papel laminado; 43,6g de maconha, fracionados em 17 (dezessete) pacotes de plástico, conforme o Termo de Exibição e Apreensão e Laudo de Constatação n. 828/15 (fl. 529)” (doc 4, e-STJ fl. 642).
+    De acordo com o entendimento da Corte, é inviável a utilização do habeas corpus para revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão.
+    Nesse sentido vão os seguintes precedentes: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+    Ademais, segundo a pacífica jurisprudência do Supremo Tribunal Federal, a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta, apta a justificar a não aplicação do redutor de pena previsto no art. 33, § 4º, da Lei nº 11.343/06 em seu grau máximo (RHC nº 132.860/SP, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 30/5/16).
+    Ante o exposto, nos termos do art. 192, caput, c/c o art. 312, caput, ambos do Regimento Interno, nego provimento ao recurso ordinário.
+    Publique-se.
+    Brasília, 29 de abril de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
