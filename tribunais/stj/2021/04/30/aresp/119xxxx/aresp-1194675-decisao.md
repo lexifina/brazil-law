@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por Edson Roberto Magalhães Bernardes em face de decisão que não admitiu recurso especial visando à reforma de acórdão assim ementado (fl. 1.316):
+Compromisso de compra e venda de imóvel. Sentença que reconheceu a ilegalidade do contrato no que concerne a aplicação da Tabela Price.
+Agravo retido. Preliminar de ilegitimidade de parte do Banco. Cessão dos direitos creditícios da alienante do bem. Pagamentos efetuados diretamente ao banco credor. Vínculo contratual estabelecido. Decisão que afastou a preliminar de ilegitimidade passiva mantida.
+Compromisso de compra e venda. Inexistência de ilegalidade. CDC que não proíbe a prática. Cláusulas sem abusividade. Artigos 46 e 51 do CDC.
+Legalidade da "Tabela Price". Anatocismo. Inocorrência. Precedentes. Sentença reformada para julgar improcedente a ação. Recursos das rés providos.
+AGRAVO RETIDO NÃO PROVIDO. APELAÇÕES PROVIDAS.
+Opostos embargos de declaração, foram rejeitados às fls. 1.331/1.339.
+No especial, com fulcro na Constituição Federal, art. 105, inciso III, alíneas "a" e "c", alega a violação dos arts. 369 a 371, 464, § 1º, inciso I, 465, 927, inciso III, § 4º, 928, inciso I, e 1.022, incisos I e II, do Código de Processo Civil de 1973; e 4º, inciso III, 6º, inciso V, 39, inciso V, e 51, inciso IV, do Código de Defesa do Consumidor, além de divergência jurisprudencial com julgados desta Corte, a pretexto de negativa de prestação jurisdicional no julgamento dos embargos de declaração, obrigatoriedade de adoção do laudo pericial que apontou capitalização dos juros com o emprego da Tabela Price em contrato de compra e venda de imóvel com garantia de alienação fiduciária, celebrado no âmbito do Sistema Financeiro Imobiliário, cláusula que pretende excluir.
+Banco Luso Brasileiro S.A. apresentou contrarrazões às fls. 1.366/1.391.
+A admissibilidade negativa apontou a ausência de demonstração da infringência das normas legais, propósito de reexame de cláusulas contratuais e de matéria de fato, além da falta de similitude dos acórdãos indicados paradigmas.
+Assim delimitada a controvérsia, passo a decidir.
+De início, convém consignar que o acórdão estadual foi publicado antes da entrada em vigor da Lei 13.105, de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Da análise da petição de fls. 1.398/1.416, observa-se que o agravante não rebate, como seria de rigor, todos os fundamentos da decisão agravada, limitando-se a repisar a matéria de mérito do apelo, relativo à suposta negativa de vigência dos dispositivos legais, apenas laconicamente fazendo referência que o julgamento do especial "não requer análise ou enfrentamento de provas, haja vista tratar-se de questão exclusivamente de direito" (fl. 1.407).
+Nenhuma alusão direcionada à Súmula 5/STJ, que impede o reexame de cláusulas contratuais, e à ausência de similaridade com julgados que tratam da Tabela Price em contratos vinculados ao SFH - Sistema Financeiro da Habitação, que não aplica a Lei 9.514/1997, como no caso dos autos.
+Dessa forma, as razões do recurso deixaram de impugnar a incidência do óbice sumular, a par de a divergência estar amparada na mera transcrição de ementas, incidindo na hipótese, por analogia, o princípio cristalizado no enunciado 182 da súmula do Superior Tribunal de Justiça, cujo teor é o seguinte:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, entre outros:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. ARGUMENTAÇÃO DESPROVIDA DE CONTEÚDO JURÍDICO. MERA REJEIÇÃO DO DECISUM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. DECISÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ.
+1. O agravante deve atacar, especificamente, os fundamentos lançados na decisão agravada, refutando todos os óbices por ela levantados, sob pena de vê-la mantida. (Súmula 182/STJ).
+2. "De acordo com o princípio da dialeticidade, as razões recursais devem impugnar, com transparência e objetividade, os fundamentos suficientes para manter íntegro o decisum recorrido. Deficiente a fundamentação, incidem as Súmulas 182/STJ e 284/STF" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26.11.2008).
+(..)
+4. Agravo interno a que se nega provimento.
+(Terceira Turma, AgRg no Ag 1.125.537/RS, Rel. Ministro PAULO FURTADO  Desembargador convocado do TJ/BA , DJe 10.6.2010)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. NOMEAÇÃO À PENHORA INEFICAZ. AGRAVO REGIMENTAL QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ANALOGIA.
+I - Em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados. É necessária a impugnação específica dos fundamentos da decisão recorrida. Na hipótese, a agravante deixou de infirmar os fundamentos da decisão agravada, atraindo a aplicação, por analogia, da Súmula nº 182 do STJ.
+(..)
+IV - Agravo regimental não conhecido.
+(Primeira Turma, AgRg no REsp 859.903/RS, Rel. Ministro FRANCISCO FALCÃO, DJU de 16.10.2006)
+Cabe consignar, que é impossível o exame de qualquer fundamento do recurso sem que todos tenham sido impugnados.
+O enunciado 182 da Súmula do STJ refere-se a impugnação precisa de todas as razões da decisão impugnada, pois, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos no art. 544, § 4º, inciso I, do CPC de 1973 (correspondente ao artigo 932, inciso III, do Código de Processo Civil de 2015). Para ilustração:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+(..)
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo em recurso especial por ter sido apresentado em desacordo com os requisitos do art. 544, § 4º, I, do CPC/73. Incidência da Súmula nº 182 do STJ e violação do art. 1021, § 1º, do NCPC.
+3. Agravo interno não conhecido.
+(Terceira Turma, AgInt no AREsp 878.403/RS, Rel. Ministro MOURA RIBEIRO, DJe de 23.6.2016)
+Em precedente da Corte Especial, firmado por ocasião do julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, do qual foi relator para acórdão o Ministro Luís Felipe Salomão, foi ratificado esse entendimento.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em contestar no momento oportuno, pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial. Confiram abaixo a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(Corte Especial, EAREsp 746.775/PR, Rel. p/ acórdão Ministro LUÍS FELIPE SALOMÃO, DJe de 30.11.2018)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
