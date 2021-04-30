@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostos porJOSE ERIVALDO DE SOUSA, contra decisão de fls. 440-444, que conheceu do recurso especial e negou-lhe provimento, nos termos da Súmula 83/STJ.
+Em suas razões, a parte embargante apontaomissão quanto à exorbitância do valor arbitrado a título de danos morais, que correspondiam a R$ 20.000 (vinte mil reais). Asseverou que as mercadorias contrafeitas apreendidas não superavam o valor de R$ 3.000,00 (três mil reais), quantia que entende seria suficiente para compensar eventuais danos morais.
+Devidamente intimado, aembargadaapresentou impugnação, pugnando pelo reconhecimento do intuito meramente procrastinatório destes embargos.
+É o relatório.Decido.
+Com efeito, verifica-se que a questão do quantum indenizatório não foi objeto da decisão monocrática ora embargada, assim passo a apreciá-la, a fim de suprir a omissão apontada.
+Acerca do valor arbitrado a título de indenização, verifica-se que o recurso especial apresentou a seguinte argumentação:
+"Ponto finalizando, importante ressaltar que não há nos autos, qualquer prova em favor da promovente que justifique a condenação dos recorrentes por alegados danos morais na astronômica cifra de R$20.000,00 (vinte mil reais) por alegada falsificação de 31 peças de vestuário, falsificação esta, diga-se de passagem, com autoria ainda desconhecida e/ou incerta.
+Apenas por apego ao debate, ainda que se aponte uma suposta responsabilidade dos recorrentes, o que não espera, foge a qualquer razoabilidade e lógica a condenação em danos morais no valor fixado no acórdão, sob pena de caracterizar enriquecimento ilícito, mormente quando a discussão do presente feito é restrita a uma alegada falsificação de apenas 31 peças de vestuário que certamente em sua totalidade não ultrapassam o valor de R$3.000,00 (três mil reais)!"
+(e-STJ fls. 400-401)
+Por sua vez, o acórdão recorrido assim se manifestou acerca do valor de indenização:
+"No que concerne à fixação do valor indenizatório para fins de reparação pelos danos morais sofridos pela apelante/autora, por se tratar de violação a direito extrapatrimonial, sua quantificação é tarefa árdua, pois a natureza jurídica da reparação passa a ser satisfatória, no sentido de dar uma compensação à vítima e lhe dar alívio em face das ofensas sofridas, embora não se pretenda mensurar o valor financeiro dos bens jurídicos atingidos.
+Para tanto, devem ser observados alguns parâmetros fixados pela jurisprudência, quais sejam: a extensão do dano ou gravidade da violação, a repercussão na esfera pessoal das vítimas, a função preventiva da indenização e, por fim, o grau de culpa e a capacidade financeira dos ofensores.
+Por outro lado, é imprescindível levar-se em consideração a vedação ao enriquecimento sem causa, a fim de se evitar a famigerada indústria do dano moral, devendo o julgador pautar-se pelos princípios da razoabilidade e da proporcionalidade.
+Assim, atento ao caso concreto e aos princípios supracitados, entendoc omo adequado o valor de R$ 20.000,00 (vinte mil reais) para fins de compensação moral, como já o fiz no processo acima indicado(Processo nº 0520726-10.2011.8.06.0001)."
+(e-STJ fl. 370)
+Com efeito, como bem pontuou o acórdão recorrido, os danos morais não se confundem com os danos materiais, de modo que sua quantificação não se vincula ao valor financeiro dos bens atingidos.
+Por outro lado, cabe registrar que, segundo entendimento doSuperior Tribunal de Justiça, somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade (AgRg no REsp 971.113/SP; AgRg no REsp 675.950/SC; AgRg no Ag 1.065.600/MG; AgInt no AREsp 1.495.856/ES) - o que, na espécie, não ficou demonstrado.
+No caso, o valor da indenização, arbitrado em R$ 20.000,00 (vinte mil reais), não é exorbitante nem desproporcional aos danos sofridos em razão da contrafação de produtos vinculados à marca titularizada pela agravada.
+Com esses fundamentos, acolho os embargos de declaração acolhidos, sem, contudo, emprestar-lheefeitos infringentes, naforma da fundamentação acima.
+Publique-se.
