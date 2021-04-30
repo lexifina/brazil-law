@@ -1,0 +1,30 @@
+Trata-se de mandado de segurança com pedido de liminar impetrado por Manuela Rios de Sousa Martins contra ato do Conselho Nacional de Justiça – CNJ consubstanciado na liminar deferida pelo Conselheiro Henrique de Almeida Ávila no Pedido de Providências 10413-04.2020, por meio da qual foi determinada a suspensão do Ato de Outorga de Delegação 1/2020, referente ao Concurso Público para Outorga de Delegação de Serviços Notariais e Registrais do Estado da Paraíba, inaugurado pelo Edital 001/2013.
+    A impetrante alega ter sido
+    “[...] aprovada na 3ª colocação no Concurso Público para Outorga de Delegações Extrajudiciais do Estado da Paraíba. Inclusive, nos termos do Ato de Outorga de Delegação de Serviços Notariais e Registrais do Estado da Paraíba nº 01/2020, foi outorgada à impetrante o 9º Tabelionato de Notas do Município de João Pessoa (Comarca de João Pessoa).
+    Restando nomeada e já titular do cartório indicado acima, os próximos atos do concurso seriam a investidura (posse) da impetrante no referido Tabelionato e o início do exercício como Tabeliã.
+    A impetrante estava na iminência de exercer a função de Delegatária de Serviço Público quando ato de Conselheiro do CNJ suspendeu o ato de outorga.
+    Destarte, o ato coator, ao suspender os efeitos do Ato de Outorga nº 01/2020, maculou severamente interesse jurídico da impetrante, a qual teve seu direito subjetivo, alcançado após aprovação em concurso público, violado sem qualquer base constitucional ou legal” (págs. 3-4 da inicial).
+    Sustenta que
+    “[...] o ato coator não possui qualquer substrato jurídico, uma vez que: a) viola a independência das instâncias administrativa e judicial; b) macula toda uma construção jurisprudencial do STF ao priorizar a prestação da delegação por interinos em detrimento de concursados; c) contraria jurisprudência do próprio CNJ” (pág. 6 da inicial).
+    Nesse contexto, ante a presença os requisitos necessários, pleiteia
+    “[o] deferimento da medida liminar, com base no art. 7º, III, da Lei nº 12.016/09, com suspensão imediata dos efeitos do ato coator e o consequente estabelecimento da Outorga de Delegação de Serviços Notariais e Registrais do Estado da Paraíba nº 01/2020 expedido pelo Tribunal de Justiça da Paraíba – TJ/PB” (pág. 14 da inicial).
+    Ao final, requer o deferimento definitivo da segurança.
+    A União requereu seu ingresso no feito (documento eletrônico 19). As informações foram prestadas (documento eletrônico 21 e seguintes).
+    A Procuradoria-Geral da República – PGR manifesta-se pela extinção deste mandado de segurança sem resolução do mérito (documento eletrônico 30). Eis a síntese da peça:
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO DE PROVAS E TÍTULOS. OUTORGA DE DELEGAÇÕES DE NOTAS DE REGISTRO. DECISÃO LIMINAR. SUSPENSÃO. CONCURSO. NÃO RATIFICAÇÃO. PLENÁRIO DO CONSELHO NACIONAL DE JUSTIÇA. EXTINÇÃO DO ATO IMPUGNADO. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. PREJUDICIALIDADE DO MANDAMUS. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO.
+    1. Há de se reconhecer a prejudicialidade do mandamus que busca impedir a suspensão do concurso de serventia extrajudicial, decorrente de decisão liminar, quando esta não for ratificada pelo Plenário do CNJ.
+    - Parecer pela extinção do mandado de segurança, sem resolução do mérito”.
+    É o relatório. Decido.
+    Segundo consta das informações prestadas e do parecer da PGR, a liminar deferida pelo Conselheiro Henrique de Almeida Ávila no Pedido de Providências 10413-04.2020, apontada neste writ como ato coator, não foi ratificada pelo Plenário do CNJ. O acórdão encontra-se assim sintetizado:
+    “RATIFICAÇÃO DE MEDIDA LIMINAR. PEDIDO DE PROVIDÊNCIAS. CONCURSO PÚBLICO DE PROVAS E TÍTULOS PARA OUTORGA DE DELEGAÇÕES DE NOTAS REGISTRO DO ESTADO DA PARAÍBA. ATO DE OUTORGA DE DELEGAÇÃO N. 01/2020. LIMINAR NÃO RATIFICA.
+    1. Medida cautelar anteriormente concedida pelo e. Relator para determinar a suspensão dos efeitos do Ato de Outorga de Delegação n. 01/2020 pelo prazo 90 (noventa) dias, de modo que nesse interregno o Tribunal imprima esforços no sentido apreciar todas as impugnações judiciais apresentadas pelos candidatos relativas ao concurso público para Outorga de Delegação de Serviços Notariais e Registrais do Estado da Paraíba, inaugurado pelo Edital n. 001/2013.
+    2. A Constituição Federal de 1988 determinou, no § 3º do art. 236, que ‘o ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.’
+    Mesmo com a imposição constitucional, o primeiro concurso do Estado da Paraíba foi deflagrado apenas no ano de 2013. Como se não bastasse, o certame não foi, após mais de sete anos, concluído pelo Tribunal.
+    3. Apesar da existência de ações judiciais, não há, ainda que precária, qualquer decisão no âmbito jurisdicional determinando a suspensão do certame, de modo que este Conselho não pode, por via reflexa, conceder tais efeitos, uma vez que os atos administrativos contêm presunção de legitimidade e veracidade, permitindo sua imediata execução.
+    4. Este Conselho deve resguardar os princípios constitucionais da Administração Pública, dentre eles a supremacia do interesse público e do concurso público para corrigir situações teratológicas em que uma Unidade da Federação, após aproximadamente trinta três anos da promulgação da CF/88, sequer finalizou seu primeiro concurso para Serviços Notariais e Registrais.
+    5. Liminar não ratificada” (pág. 63 do documento eletrônico 27).
+    Como se pode notar, o objeto desta impetração não mais subsiste, porquanto foi substituído pela decisão do Colegiado do CNJ, mediante a qual foram restabelecidos os efeitos do Ato de Outorga de Delegação 1/2020.
+    Isso posto, ante a ausência de interesse processual da impetrante, julgo extinta a ação, sem resolução de mérito (art. 485, VI, do CPC/2015). Prejudicado, pois, o pedido de admissão no feito, formulado pela União. Publique-se.
+    Brasília, 30 de abril de 2021.
+Ministro Ricardo Lewandowski
+Relator
