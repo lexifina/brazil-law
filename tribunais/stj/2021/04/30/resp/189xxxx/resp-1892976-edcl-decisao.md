@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA ECONÔMICA FEDERAL contra decisão monocrática desta Relatoria (e-STJ fl. 705/709) que deu provimento ao recurso especial de PAULO ZANINI para reconhecer a possibilidade de responsabilização da seguradora recorrida SUL AMERICA COMPANHIA NACIONAL DE SEGUROS pelos vícios decorrentes da construção do imóvel do autor, determinando o retorno dos autos à Corte de origem para que proceda a um novo julgamento da causa, nos termos da fundamentação.
+Em suas razões, alega a embargante que a decisão embargada foi omissa acerca do entendimento firmado pelo STF no RE 827.996/PR, a respeito do interesse da CAIXA nos feitos relativos ao SH, julgado em 26/06/2020, amplamente noticiado, de efeitos vinculantes decorrentes de Repercussão Geral, publicado no Dje de 21/08/2020.
+Assim, defende que deve ser reconhecida a incompetência absoluta da justiça estadual para julgamento do feito, o que pode ser alegado em qualquer tempo e grau de jurisdição, devendo, inclusive, ser declarada de ofício, conforme artigo 64, §1º do CPC.
+Intimados, SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS e o embargado PAULO ZANINI apresentaram impugnação (e-STJ fl. 1213/1254 e 1252/1255)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, alega a embargante, em síntese, que a decisão embargada foi omissa sobre a incompetência absoluta da justiça estadual para julgamento do feito, conforme entendimento firmado pelo STF no RE 827.996/PR, o que poderia ser apreciado de ofício e a qualquer tempo.
+Ocorre que a questão relativa à incompetência da justiça estadual para julgamento do feito não foi analisada pelo acórdão recorrido, tampouco houve interposição de recurso especial pela CAIXA ECONÔMICA FEDERAL ou discussão sobre o tema no recurso especial oposto por PAULO ZANINI.
+Assim, o levantamento da questão, neste momento processual, mostra-se incabível, frisando-se que esta Corte Superior orienta-se no sentido de que a matéria de ordem pública também deve ser prequestionada para fins de admissão do recurso especial. Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - PREVIDÊNCIA PRIVADA - COMPLEMENTAÇÃO DE APOSENTADORIA - DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE PROVIMENTO JUDICIAL POSTERIORMENTE REVOGADO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15.
+1.1. Na hipótese, verifica-se omissão no acórdão embargado quanto ao pleito de não incidência de juros moratórios sobre valores a serem devolvidos em virtude da revogação da decisão que antecipou os efeitos da tutela.
+1.2 É incabível a incidência de juros moratórios sobre valores a serem devolvidos em virtude de revogação de decisão que antecipou os efeitos da tutela por não haver, no caso, fato ou omissão imputável ao autor da ação de revisão de benefício.
+2. É inviável a análise de tese alegada apenas em embargos de declaração, por se caracterizar inovação recursal. Ademais, consoante a remansosa jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão não dispensa o prequestionamento. Precedentes.
+2. Embargos de declaração acolhidos parcialmente para sanar a omissão apontada.
+(EDcl no AgInt nos EDcl no REsp 1664475/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÕES DE OCORRÊNCIA DE DECADÊNCIA. INOVAÇÃO RECURSAL. FRAUDE À EXECUÇÃO. DISTRATO. SIMULAÇÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Somente em sede de agravo interno alegou-se o instituto da decadência, tema que nem sequer foi aventado nas razões de recurso especial ou do agravo interposto, o que caracteriza inovação recursal.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, necessitam observar o requisito do prequestionamento na via do recurso especial. Precedentes.
+3. No caso, o Tribunal a quo, com base no conjunto fático-probatório, concluiu que a prova dos autos revela que o distrato firmado ocorreu de forma simulada. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice das Súmulas 5 e 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1393425/DF, de minha Relatoria, QUARTA TURMA, julgado em 19/11/2019, DJe 13/12/2019)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
