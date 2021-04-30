@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO ABSOLUTÓRIO. RAZÕES RECURSAIS GENÉRICAS. ENUNCIADO N. 284 DO STF. INVERSÃO DO DECIDIDO PELO TRIBUNAL LOCAL. ENUNCIADO N. 7 DO STJ. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada. No caso, o Agravante não impugnou especificamente o fundamento da decisão agravada, sem demonstrar o desacerto do decidido monocraticamente, com elementos de fato e razões de direito, na medida da decisão ora impugnada e, assim, impõe-se o não conhecimento do recurso.
+2. Nos termos da jurisprudência desta Corte, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018)" (AgRg no AREsp 618.056/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOÃO AMÂNCIO SANTOS NETO contra decisão de minha lavra, que conheceu do anterior agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 717; sem grifos no original):
+"AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO ABSOLUTÓRIO. RAZÕES RECURSAIS GENÉRICAS. ENUNCIADO N. 284 DO STF. INVERSÃO DO DECIDIDO PELO TRIBUNAL LOCAL. ENUNCIADO N.º 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões deste recurso, em suma, o Agravante "reitera as questões levantadas em recurso especial" (fl. 729).
+Pugna, assim, pela reconsideração da decisão agravada ou pela submissão do feito ao Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO ABSOLUTÓRIO. RAZÕES RECURSAIS GENÉRICAS. ENUNCIADO N. 284 DO STF. INVERSÃO DO DECIDIDO PELO TRIBUNAL LOCAL. ENUNCIADO N. 7 DO STJ. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada. No caso, o Agravante não impugnou especificamente o fundamento da decisão agravada, sem demonstrar o desacerto do decidido monocraticamente, com elementos de fato e razões de direito, na medida da decisão ora impugnada e, assim, impõe-se o não conhecimento do recurso.
+2. Nos termos da jurisprudência desta Corte, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018)" (AgRg no AREsp 618.056/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O princípio da dialeticidade impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada. Tal princípio, mais uma vez, é reforçado no direito positivo com o § 1.º do art. 1.021 do Código de Processo Civil, pelo qual, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Para Araken de Assis, "entende-se por impugnação específica a explicitação dos elementos de fato e as razões de direito que permitam ao órgão ad quem individuar com precisão o error in judicando ou o error in procedendo objeto do recurso" (ASSIS, Araken de. Manual dos Recursos. 6.ª ed. rev. atual. e amp. até 29 set. 2013. São Paulo, Revista dos Tribunais, 2014, p. 111).
+Na decisão agravada, ao conhecer do anterior agravo para não conhecer do recurso especial, assim consignei (fls. 718-719; sem grifos no original):
+"O recurso especial é de fundamentação vinculada, em que as razões recursais precisam demonstrar o motivo de sua interposição, que tem como pressuposto a violação à Lei federal.
+No caso, o Recorrente alega suposta violação ao art. 387, inciso VI, do CPP, mas não particulariza de que forma o dispositivo estaria violado, apresentando razões insuficientes à compreensão da controvérsia.
+Ocorre que, nos termos da jurisprudência desta Corte, "" n ão se conhece do recurso especial por deficiência na sua fundamentação, estando as razões do recurso genéricas e dissociadas do que decidido no acórdão recorrido (Súmula 284/STF)" (AgInt no AREsp 1.191.752/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/04/2018, DJe 24/04/2018).
+Incide, portanto, o óbice do enunciado n.º 284 da Súmula do STF, aplicada por analogia ao recurso especial, do seguinte teor: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+
+Verifica-se que a instância antecedente, após examinar o delineamento fático e probatório coligido aos autos no carrear da instrução criminal, inclusive com base no interrogatório do Corréu, concluiu pela existência da materialidade e autoria delitiva do roubo circunstanciado.
+Logo, a desconstituição do julgado, por suposta ofensa ao art. 22 do CP, no intuito absolutório, sob a alegação de coação moral irresistível, não encontra guarida na via eleita, visto que seria necessário a esta Corte o revolvimento do contexto fático-probatório, providência incabível, conforme inteligência do enunciado n.º 7 da Súmula do STJ."
+Convém registrar que a impugnação especial submete-se ao duplo juízo de admissibilidade. O primeiro (provisório), perante os Tribunais Regionais Federais e os Tribunais de Justiça; e o segundo, perante este Superior Tribunal de Justiça. Desse modo, uma vez que se trata de juízo provisório, admitido ou inadmitido o recurso perante o Tribunal a quo, tal decisão não vincula o juízo a ser feito nesta Corte.
+Outrossim, o mérito do agravo em recurso especial é adstrito ao juízo de admissibilidade da impugnação especial, isto é, em caso de conhecimento, devolve-se à apreciação desta Corte o segundo exame de admissibilidade. No caso, apesar do conhecimento do anterior agravo, como se vê nos fragmentos acima colacionados, o recurso especial foi inadmitido.
+Neste recurso, o Agravante nem sequer se reportou aos fundamentos da decisão agravada (Enunciados n. 284 da Súmula do STF e n. 7 da Súmula do STJ), sem demonstrar o desacerto do decidido monocraticamente, com elementos de fato e razões de direito, na medida da decisão ora impugnada.
+Com efeito, nos termos da jurisprudência do Superior Tribunal de Justiça:
+" ..  em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018)" (AgRg no AREsp 618.056/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental (Petição n. 326.462/2021).
+É o voto.
