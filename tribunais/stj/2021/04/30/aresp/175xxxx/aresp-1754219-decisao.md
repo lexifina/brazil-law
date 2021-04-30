@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ISAURA LIMA DOS SANTOS em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. MEDIDA INEFICAZ PARA A SATISFAÇÃO DO CRÉDITO.
+I. O art. 139, IV, do Código de Processo Civil consagra a possibilidade do magistrado adotar, de ofício ou a requerimento, medidas executivas atípicas. Todavia, na aplicação da referida norma, o julgador deve se ater ao grau de proporcionalidade e efetividade que a medida guarda com a superação do obstáculo existente para o adimplemento da obrigação.
+II. In casu, a suspensão da Carteira Nacional de Habilitação dos devedores tem caráter eminentemente punitivo, visando, somente, a mitigação de seus direitos constitucionais, sem o condão de garantir a satisfação do crédito. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO." (fl. 702)
+Os embargos de declaração foram rejeitados (fls. 727-737).
+Nas razões do recurso especial, a parte ora agravante alega divergência jurisprudencial a interpretação dos arts. 139, IV e 789, ambos do Código de Processo Civil de 2015, sustentando, em síntese, que "Enquanto o acórdão recorrido entende que a suspensão de CNH, do devedor, lastreada no art. 139, IV, do CPC/15, é impossível, pois desrespeitaria o Princípio da Patrimonialidade da Execução, presente no art. 789, do CPC/15, este E. STJ já decidiu que tal medida é permitida, não havendo antinomia com o art. 789, do CPC/15, ou seja, não ferindo o Princípio da Patrimonialidade da Execução." (fl. 760)
+Apresentadas contrarrazões ao apelo nobre (fls. 830-834).
+É o relatório.
+O Tribunal de origem indeferiu o pedido da parte exequente de suspensão da CNH dos executados, anotando que a adoção dessas medidas na espécie é desproporcional ante as circunstâncias do feito, in verbis:
+"Ora, conquanto a execução deva ser feita no interesse do exequente, não é com a restrição da carteira de habilitação do agravante que o crédito posto na execução será satisfeito.
+Cumpre salientar que a norma prevista no artigo 139, inciso IV, do Código de Processo Civil, deve ser interpretada em consonância com o disposto no artigo 789 do mesmo diploma legal, que consagra o princípio da responsabilidade patrimonial do devedor, permitindo-se a utilização dos meios executivos atípicos somente quando recaírem sobre os bens do executado, não se admitindo, portanto, a restrição de seus direitos fundamentais como forma de compeli-lo a quitar o débito.
+Com efeito, na aplicação da referida norma, o julgador deve se ater ao grau de proporcionalidade e efetividade que a medida guarda com a superação do obstáculo existente para o adimplemento da obrigação, sendo que, no caso vertente, a suspensão da carteira de motorista dos agravantes tem caráter eminentemente punitivo, visando, somente, a mitigação de seus direitos constitucionais, sem o condão de garantir a satisfação do crédito.
+(..)
+Mister que se repise que a insuficiência de bens para satisfazer o crédito exequendo e dar efetividade ao procedimento de cumprimento de sentença, não podem servir de subsídio para punir de modo deliberado os executados por não conseguirem honrar com seus compromissos, mitigando-lhe direitos fundamentais amparados pela norma constitucional.
+Ademais, ainda que a suspensão da Carteira Nacional de Habilitação, na visão proficiente do Superior Tribunal de Justiça, não viole o direito de ir e vir do agravante, possui nítido caráter punitivo e é sobretudo ineficaz para satisfazer o crédito exequendo.
+Destarte, não restam dúvidas de que tal medida, além de ser incompatível com os pórticos constitucionais da proporcionalidade e da razoabilidade, não visa nada senão subjugar a figura dos executados por não conseguirem honrar com seus compromissos, em flagrante violação ao vetor da dignidade da pessoa humana." (fls. 697-700)
+Nesse contexto, entende-se que deve ser ratificado o acórdão que vedou a decretação da referida medida executiva (retenção da CNH), pois de fato é desproporcional ante as circunstâncias da causa.
+Em igual sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AUTOS DE AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. APREENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO DO DEVEDOR. MEDIDA EXECUTIVA ATÍPICA. RAZOABILIDADE. AUSÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. As medidas de satisfação do crédito perseguido em cumprimento de sentença não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes.
+2. Na hipótese, o Tribunal de origem consignou que a apreensão da Carteira Nacional de Habilitação (CNH) do recorrido ofende os princípios da proporcionalidade e da razoabilidade pois ausente motivo concreto para a aplicação de medida coercitiva atípica. A conclusão do acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, atraindo o óbice da Súmula 83/STJ. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1867794/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+Incidente, portanto, o óbice da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
