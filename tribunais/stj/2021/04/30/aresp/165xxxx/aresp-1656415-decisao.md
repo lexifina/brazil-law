@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83 do STJ (e-STJ fls. 621/625).
+O acórdão recorrido está assim ementado (e-STJ fl. 435):
+Apelação cível. Direito do consumidor. Ação de obrigação de fazer. Recusa do plano de saúde em autorizar as terapias indicadas ao tratamento do autor. Alegação de ausência de previsão contratual. Sentença de procedência. Paciente diagnosticado com encefalopatia crônica não progressiva e epilepsia. Indicação de fisioterapia motora, fonoaudiologia; terapia ocupacional, hidroterapia; equoterapia e psicoterapia. Recusa da ré em custear os tratamentos, sob o argumento de que não constam no rol de procedimentos da ANS que não prospera. Aplicação do Enunciado nº 340 da súmula do TJRJ. Jurisprudência do STJ e desta Corte. Relatório médico que atesta a necessidade do tratamento. Prevalência da indicação médica específica. Negado provimento ao recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 459/463).
+No especial (e-STJ fls. 465/476), fundamentado no art. 105, III, "a", da CF, a recorrente alega ofensa aos arts. 51, IV, e 10, § 4º, da Lei n. 9.656/1998. Sustenta que (e-STJ fls. 468/471):
+ ..  indiscutível é a possibilidade e a legalidade das limitações e restrições existentes nos contratos privados de assistência à saúde, a fim de que se mantenha o equilíbrio econômico -financeiro destes contratos.
+ .. Quanto ao Código de Defesa do Consumidor, para que a cláusula contratual seja nula é imprescindível que ela estabeleça obrigações consideradas abusivas, colocando o consumidor em desvantagem exagerada.
+ .. Na espécie, é importante esclarecer que a ré, ora recorrente, em momento algum se eximiu de cumprir os direitos assegurados no contrato firmado pelo autor, ora recorrido.
+Assim, o v. aresto deixa de apreciar a presente controvérsia sob o enfoque de que a negativa de cobertura em questão se encontra em total conformidade com a Lei 9.656/98, como amplamente sustentado nas razões de apelação.
+ .. Conforme se depreende do referido artigo, o número de sessões de terapia ocupacional, fonoaudiologia, psicologia está adstrito ao disposto nos AnexosI e II da Resolução Normativa nº 428.
+Bem é de se ver, pois, que a cláusula do contrato que prevê a cobertura de custos de número limitado de sessões por ano está redigida em total conformidade com a Lei dos Planos de Saúde e com a Resolução da ANS, de tal sorte que não há falar em sua abusividade.
+Acrescenta que (e-STJ fl. 475):
+ ..  caso seja garantida a cobertura ora pleiteada, sem limite de sessões, deve-se adotar o entendimento disposto no julgamento do REsp 1642255/MS que aplicou o regime de coparticipação, a fim de preservar o equilíbrio contratual, não sendo possível concedê-las indiscriminadamente.
+No agravo (e-STJ fls. 633/640), afirma a presença de todos os requisitos de admissibilidade do especial.
+A parte agravada não apresentou contraminuta (e-STJ fl. 649).
+Parecer do MPF pelo não provimento do recurso (e-STJ fls. 672/676).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fls. 439/440):
+Nos laudos médicos de fls. 47/51 (index-47), é ressaltada a necessidade das terapias de reabilitação com acompanhamento de técnico de enfermagem treinado e transporte com ambulância, diante do quadroclínico que o autor apresenta, pois se alimenta por gastrostomia, não deambula e tem baixa visão.
+Assim, embora haja clara indicaçãomédica quanto à necessidade dos tratamentos prescritos, em especial o método Therasuit que compreende equoterapia, hidroterapia e psicoterapia, a operadora de saúde negou autorização dos tratamentos, sob o fundamento de que os métodos indicados não estão previstos no rol de procedimentos da Agência Nacional de Saúde-ANS, e, portanto, não possuem cobertura contratual.
+ .. Pelas circunstâncias do quadro clínico do paciente, o tratamento prescrito pelo médico se mostra indispensável para a manutenção de sua saúde. Desse modo, considerando o vínculo entre as partes e a prescrição médica, indicando a adoção de tratamento específico, é nula de pleno direito qualquer cláusula limitativa.
+Com efeito, "esta Corte já se posicionou no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo beneficiário, (..) consideradas necessárias ao pleno restabelecimento da saúde do segurado" (AgInt no AREsp n. 1.699.300/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020). Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. PLEITO ALTERNATIVO DE COPARTICIPAÇÃO. INVIABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte entende ser abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide, ao caso, a Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.575.837/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PARALISIA CEREBRAL. TERAPIA MULTIDISCIPLINAR. DOENÇA COBERTA PELO PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO ABUSIVA. CLÁUSULA CONTRATUAL QUE PREVÊ LIMITE DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+4. "O Superior Tribunal de Justiça já decidiu que, embora a seguradora, com alguma liberdade, possa limitar a cobertura do plano de saúde, a definição do tratamento a ser prestado cabe ao profissional médico, de modo que, se a doença está acobertada pelo contrato, a operadora do plano de saúde não pode negar o procedimento terapêutico adequado. Precedentes" (AgInt no REsp 1.828.289/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe de 02/04/2020)
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.603.974/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Desse modo, devendo o tratamento ser coberto pelo plano de saúde, também não poderia a operadora limitar seu tempo, estando a decisão recorrida em conformidade com o entendimento desta Corte sobre o tema.
+Incidência da Súmula n. 83 do STJ.
+Quanto à coparticipação,constitui indevida inovação recursal em sede especial, o que a jurisprudência desta Corte Superior não admite, até porque implica ausência de prequestionamento. Sobre tal aspecto:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA. 1. Consoante se observa dos embargos declaratórios opostos em face do acórdão estadual ora recorrido, a agravante não ventilou a tese, agora defendida, de novidade da prova. A matéria, portanto, não foi objeto de apreciação pela instância ordinária, quando do exame do recurso integrativo, carecendo do devido prequestionamento e constituindo em indevida inovação recursal. 2. Incide, na hipótese, o enunciado da Súmula 7 do STJ, porquanto a Corte Estadual, mediante o exame de provas e contratos, reconheceu a vinculação da agravante como integrante da associação de moradores. 3. É incabível a majoração dos honorários em grau recursal, a teor do art. 85, §§ 11, do CPC, quando a instância especial fora inaugurada em momento anterior à vigência da nova norma. Precedentes. 4. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp n. 366.050/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
