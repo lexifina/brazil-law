@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por API SPE 89 - PLANEJAMENTO E DESENVOLVIMENTO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 25/11/2020.
+Concluso ao gabinete em: 07/04/2021.
+Ação: anulação de cláusula contratual cumulada com indenização pelo dano material e compensação pelo dano moral, ajuizada por JÉSSICA PADOVANI DE ARAÚJO e JOÃO GUILHERME GONÇALVES DE ARAÚJO, em face de API SPE 89 - PLANEJAMENTO E DESENVOLVIMENTO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a recorrente a reembolsar os valores pagos a maior, decorrentes da correção do saldo devedor do contrato pelo INCC a partir da data prevista para a entrega das chaves do imóvel (31/07/2015), o qual deve ser substituído pelos índices da Tabela Prática do TJSP, apurando-se a diferença em regular liquidação de sentença, bem como para reembolsar os locativos desembolsados, do dia 01/08/2015 a 03/06/2016, desde que comprovados documentalmente nos autos, e, ainda, para pagar a quantia de R$ 10.000,00, para cada recorrido, a título de compensação pelos danos morais. Assim, decaindo os recorridos em parcela ínfima de sua pretensão inicial, por força da sucumbência, condenou a recorrente ao pagamento das custas e dos honorários advocatícios, que foram fixados em 15% sobre o valor atualizado da condenação.
+Acórdão: negou provimento à Apelação interposta pela recorrente, nos termos da seguinte ementa:
+"Ação de indenização. Atraso de obra. Alegação de que a demora decorreu em virtude das oscilações do mercado, a falta de mão-de-obra e de materiais, chuvas, intempéries, inadimplência e exigência de autoridades. Não afasta a responsabilidade da requerida, por configurar fortuito interno inerente à atividade da construtora. Súmula 161 do TJSP. Responsabilidade reconhecida.
+Atraso de obra. Correção monetária pelo INCC apenas enquanto o imóvel estivesse em período normal de construção. Afastamento do INCC no período de atraso mantido.
+Dano material. Configurado o atraso na entrega do imóvel para além do prazo de tolerância previsto em contrato, o autor tem o direito à indenização por dano material. Súmula 162 TJSP. Admissibilidade da condenação do ressarcimento dos alugueres pelos autores. Indenização por dano material mantida.
+Dano moral. Manutenção da condenação da requerida ao pagamento de indenização pelo dano moral aos autores pelo atraso na entrega da obra em quase um ano deve ser mantida, eis que a mora da construtora ensejou a efetiva frustração na expectativa dos compradores. Valor da indenização de R$ 10.000,00 não comporta redução. Dano moral mantido.
+Recurso improvido." (e-STJ fl. 278)
+Recurso especial: alega violação dos arts. 186, 421, 422, 927, CC/02, bem como dissídio jurisprudencial. Sustenta que: i) o contrato entabulado entre as partes é categórico ao fixar o INCC, como índice de correção monetária, até a conclusão da obra, o que, como cediço, é aferível pela expedição do habite-se; e, ii) não há que se falar em compensação pelos danos morais, notadamente porque o mero inadimplemento contratual não gera abalo apto de ressarcimento; e, iii) ao contrário do exarado no acórdão recorrido, não está presente o dever de indenizar pelos danos materiais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à indenização pelos danos materiais, a recorrente não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "com a nova realidade iniciada e o término do prazo de conclusão da obra não se justificaria a continuidade da aplicação do INCC, pois a construtora não mais suportou as variações dos valores no mercado da construção civil por força de contrato, mas pelo efetivo atraso na entrega da obra, o qual foi abusivo, devendo ser a responsabilidade atribuída à empresa", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a aplicação do índice INCC ao caso em análise, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe de 15/10/2018.
+- Do dano moral
+Para a configuração do dano moral no caso de atraso na entrega de imóvel, o STJ tem entendido que, muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias do caso concreto podem configurar a lesão extrapatrimonial.
+No caso, o TJ/SP, ao fundamentar que "A condenação da requerida ao pagamento de indenização por dano moral aos autores pelo atraso na entrega da obra em quase um ano deve ser mantida, eis que a mora da construtora ensejou a efetiva frustração na expectativa dos compradores" (e-STJ 282), não demonstrou consequências fáticas que ultrapassassem o mero aborrecimento, divergindo do entendimento desta Corte.
+Nesse sentido: AgInt no AREsp 1.689.543/SP, 4ª Turma, DJe de 26/03/2021; AgInt no AREsp 1.736.900/MT, 4ª Turma, DJe de 03/03/2021; AgInt nos EDcl no REsp 1.881.131/SP, 3ª Turma, DJe 04/03/2021; AgInt no AREsp 1.506.584 / RJ, 3ª Turma, DJe 14/08/2020.
+Logo, o acórdão recorrido merece reforma quanto ao ponto.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para afastar a compensação pelos danos morais.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE CLÁUSULA CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de anulação de cláusula contratual cumulada com indenização por dano material e compensação por dano moral.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais. Precedentes.
+7. Recurso especial conhecido em parte e, nessa extensão, provido.
