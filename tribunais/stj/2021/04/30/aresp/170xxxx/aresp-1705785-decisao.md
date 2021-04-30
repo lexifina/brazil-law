@@ -1,0 +1,24 @@
+DECISÃO
+TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL.ITBI.IMÓVEL ADQUIRIDO EM COPROPRIEDADE.DESMEMBRAMENTO DA MATRÍCULA.EXTINÇÃO DE CONDOMÍNIO.PERMUTA.NÃO CONFIGURAÇÃO.DIVISÃO DA PROPRIEDADE SEM ACRÉSCIMO PATRIMONIAL.TRIBUTO INDEVIDO. O TRIBUNAL DE ORIGEM, APÓS A ANÁLISE DOS ELEMENTOS DE PROVA CONSTANTES DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE FATO GERADOR, NOS MOLDES DA LEI MUNICIPAL 5.492/1988, A JUSTIFICAR A INCIDÊNCIA DE ITBI. A REVERSÃO DO JULGADO IMPLICARIA SUPERAR OS ÓBICES DAS SÚMULAS 7/STJE 280/STF, O QUE É DEFESO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE BELO HORIZONTE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial do MUNICÍPIO DE BELO HORIZONTE, interposto com fulcro no art. 105, III, alíneac,da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE DÉBITO FISCAL - MUNICÍPIO DE BELO HORIZONTE - ITBI - IMÓVEL ADQUIRIDO EM COPROPRIEDADE - DESMEMBRAMENTO DA MATRÍCULA - EXTINÇÃO DO CONDOMÍNIO - PERMUTA - NÃO CONFIGURAÇÃO - DIVISÃO DA PROPRIEDADE SEM ACRÉSCIMO PATRIMONIAL - TRIBUTO INDEVIDO - RECURSO DESPROVIDO.
+- O tributo de competência dos municípios, incidente sobre a transmissão da propriedade imobiliária, denominado ITBI, cuja instituição foi autorizada pela Constituição da República, em seu art. 156, II, regulada pela Lei 5.172/66 (CTN), possui como fato gerador, inequivocamente, a transmissão "inter vivos" da propriedade sobre bem imóvel.
+- Não obstante o desmembramento da matrícula originária em duas, atribuídas a cada uma das lojas, prepondera o fato (incontroverso) de que ambos os autores adquiriram, em copropriedade, e na proporção de 50% (cinquenta por cento) para cada.
+- Se, com a extinção do condomínio, os proprietários continuaram com a mesma proporção que lhes tocava antes, inexistindo acréscimo patrimonial, não há que se falar em permuta.
+- Recurso ao qual se nega provimento (fls. 435).
+2. Os Embargos de Declaração opostos foram rejeitados (fls.484/492).
+3. Nas razões do Recurso Especial, a parte ora agravanteaponta contrariedade aosarts. 533, I, 1.245 e 1.320do CC/2002, sob a alegação de que, na espécie,éplenamente cabível a cobrança do ITBI, pois trata-se de permuta entre os proprietários, sendo cada um dos permutantes responsável pelo pagamento das despesas pela troca (fls. 500). Defende que aoperação (permuta) é, portanto, tributada pelo ITBI, não cabendo falar em cobrança indevida pela Municipalidade.
+4. Sem contrarrazões, o recurso foi inadmitido na origem (fls. 514/515).
+5. É o relatório.
+6. Na espécie, observa-se que, muito embora as razões recursais estejam calcadas na suposta afronta de dispositivos da legislação infraconstitucional, (arts. 533, 1.245 e 1.320, do CC/2002), ao afastar a incidência do ITBI àespécie, além dos elementos de prova carreados aos autos, baseou-se a fundamentação do julgado na interpretação de legislaçãolocal, notadamente, as disposições da Lei Municipal 5.492/1988), tendo o Tribunal de origem alcançado o seguinte desfecho:
+Conclui-se, destarte, pela ausência de fato gerador, nos moldes da Lei Municipal 5.492/88, a justificar a incidência de ITBI, motivo pelo qual é procedente o pleito exordial, neste aspecto (fls. 444).
+7. Dessa forma, a inversão do julgado da forma pretendida esbarra no óbicedas Súmulas 7/STJ e 280/STF.
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC INEXISTENTE. ITBI. LANÇAMENTO. VALIDADE DA CDA. INCIDÊNCIA DA SÚMULA 7/STJ. DIREITO À ISENÇÃO DO ITBI. INCIDÊNCIA DA SÚMULA 280/STF.
+1. Não há a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou os temas abordados no recurso de apelação.
+2. É pacífica a jurisprudência deste tribunal no sentido de que a aferição da certeza e liquidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, conduz necessariamente ao reexame do conjunto fático-probatório do autos, medida inexequível na via da instância especial.
+3. Inafastável a incidência da Súmula 280/STF ao caso dos autos, porquanto, embora a recorrente alegue ter ocorrido violação de matéria infraconstitucional, segundo se observa dos fundamentos que serviram de base para a Corte de origem apreciar a controvérsia acerca da incidência do ITBI e consequente validade da CDA, o tema foi dirimido no âmbito local (Lei Municipal n. 5.492/88), de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+Agravo regimental improvido.
+(AgRg no AREsp 347.347/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/09/2013, DJe 18/09/2013).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Município de Belo Horizonte.
+9. Publique-se.
+10. Intimações necessárias.
