@@ -1,0 +1,36 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.CONTRIBUIÇÕES PREVIDENCIÁRIAS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA.BASE DE CÁLCULO DAINDENIZAÇÃO. PERÍODO ANTERIOR À EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1996. JUROS E MULTA INCABÍVEIS. SÚMULA 83/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA AUTARQUIA FEDERAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL,com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. INDENIZAÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. MEDIDA PROVISÓRIA Nº1523/1996. LEGITIMIDADE PASSIVA DO INSS. Para a indenização de contribuições previdenciárias referentes a competências anteriores à Medida Provisória nº 1.523/1996, não devem ser computados juros de mora e multa. Precedentes do Superior Tribunal de Justiça e do Tribunal Regional Federal da 4ª Região (fls. 205/209).
+2. Os embargos de declaração opostos foram rejeitados (fls. 243/246).
+3. Nasrazões do seurecurso especial (fls. 256/275), a parte agravante sustenta violação do art. 1.022, inciso II, do CPC/2015, doart. 45, § 4º, da Lei 8.212/1991, com a redação dada pela MP 1.523/1996, e dos arts. 2º e 6º da LINDB, argumentando, para tanto, que: (a) houve negativa de prestação jurisdicional; (b) todas as obrigaçõesanteriores àMP 1.523/96devem sujeitar-se à incidência de juros moratórios e multa, contabilizadosdesde a edição da aludida Medida Provisória;(c) os atos normativos que entram em vigor têm efeito imediato e geral, passando a abranger as relações jurídicas em manutenção, respeitando-se o ato jurídico perfeito, o direito adquirido e a coisa julgada material (fls. 272); e (d) não há direito adquirido a regime jurídico
+4. Devidamente intimada (fls. 283),a parte agravada apresentou as contrarrazões (fls. 285/288).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 291/294),fundadono óbice da Súmula 7/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. A Procuradoria-Geral da República, por meio do Subprocurador-Geral da República NICOLAO DINO, manifestou-se pelo provimento do agravo, para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento (fls. 337/342).
+7. É o relatório.
+8. A irresignação não merece prosperar.
+9. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+10. Ainda, inexiste a alegada violação do art. 1.022, II, do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+11. No que toca à questão de fundo, oacórdão recorrido está alinhado à orientação jurisprudencial desta Corte, segundo a qual a incidência de juros e multa nas contribuições pagas em atraso, estabelecida no art. 45, § 4o.,da Lei 8.213/1991, só é aplicável aos meses de competência posteriores à edição da MP 1.523/1996, que alterou o texto do dispositivo legal.
+12. Confirmando tal orientação, os seguintes julgados:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO.CONTRIBUINTE INDIVIDUAL. PERÍODOS ANTERIORES À LEI N. 9.032/1995.CONTRIBUIÇÃO. LEGISLAÇÃO APLICÁVEL. FATO GERADOR.
+1. Os arts. 45 e 46 da Lei de Custeio da Previdência Social foram declarados inconstitucionais pela Corte Suprema, porém com efeitos ex nunc, ressalvando as demandas propostas até 11/06/2008, tal como ocorrido no caso concreto.
+2. O cálculo dos valores devidos a título de contribuição previdenciária deve levar em consideração a legislação vigente à época da atividade laborativa, ou seja, do fato gerador, e não do requerimento administrativo.
+3. Uma vez que o período referente às contribuições se deu entre os anos de 1969 e 1974, não há falar na aplicação do § 2º do art. 45 da Lei n. 8.212/1991, cuja redação foi introduzida pela Lei n.9.032/1995.
+4. Agravo interno desprovido.
+(AgInt no AREsp 681.131/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. CONTAGEM RECÍPROCA DE TEMPO DE CONTRIBUIÇÃO. JUROS E MULTA. PERÍODO ANTERIOR À MP N.1.523/1996. NÃO INCIDÊNCIA. PROCESSUAL CIVIL. FAZENDA NACIONAL.LEGITIMIDADE PASSIVA. OFENSA AO ART. 535 DO CPC/73 NÃO CONFIGURADA.
+I - Na origem, trata-se de ação que objetiva o reconhecimento da inexigibilidade de juros de mora e de multa no cálculo de indenização necessária à expedição de certidão de tempo de serviço, para contagem recíproca de tempo de contribuição da segurada, nos períodos compreendidos entre 1º/2/1976 a 22/8/1982 e 25/7/1984 a 20/1/1986.
+ ..
+IV - As contribuições previdenciárias não pagas em época própria, para fins de contagem recíproca de tempo de serviço, somente sofrerão acréscimos de juros e multa quando o período a ser indenizado for posterior à Medida Provisória n. 1.523/1996, convertida na Lei n. 9.528/1997. A hipótese dos autos, contudo, refere-se aos períodos compreendidos entre 1º.2.1976 a 22.8.1982 e 25.7.1984 a 20.1.1986. Precedentes: REsp n. 1.681.403/RS, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 9/10/2017; REsp n.1.564.562/RS, Rel. Min. Og Fernandes, DJe 29/9/2017.
+V - Recurso especial da Fazenda Nacional improvido. Recurso Especial do Instituto Nacional do Seguro Social parcialmente conhecido e nesta parte improvido.
+(REsp 1.607.075/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 02/04/2019, DJe 05/04/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. CONTRIBUIÇÕES PREVIDENCIÁRIAS EM ATRASO. CONTAGEM RECÍPROCA. INDENIZAÇÃO. BASE DE CÁLCULO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. JUROS E MULTA. PERÍODO ANTERIOR À MP 1.523/1996. NÃO INCIDÊNCIA DOS ACRÉSCIMOS LEGAIS.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a exigência de juros e multa somente tem lugar quando o período a ser indenizado é posterior à edição da Medida Provisória 1.523/1996.
+3. Recurso Especial conhecido em parte, e nessa parte, não provido.
+(REsp 1.681.403/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 09/10/2017).
+13. No caso dos autos,as contribuições em atraso referem-sea competências anteriores a 1996 (período de 1/1975 a 12/1979, conforme fls. 208 do acórdão), não havendo, assim, que se falarem incidência de juros e multa.
+14. Incide à espécie, portanto, o óbice da Súmula 83/STJ.
+15. Ante o exposto, conheço do agravo para não conhecer do recurso especial da autarquia federal.
+16. Publique-se. Intimações necessárias.
