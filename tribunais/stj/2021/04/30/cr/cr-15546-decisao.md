@@ -1,0 +1,2 @@
+DECISÃO
+Tendo em vista constar nos autos a certidão de cumprimento da intimação de Kília Rodrigues de Carvalho com hora marcada, tendo o seu genitor José Dagmar de Carvalho Negreirosassinado o mandadoe, portanto, ter sido consumado o pedido de diligência,devolvam-se os autos à Justiça rogante, por intermédioda autoridade central competente (art. 216 -X do Regimento Interno do STJ), independente do trânsito em julgado.
