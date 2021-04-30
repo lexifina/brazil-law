@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por CESAR AUGUSTO PIRES VIANA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - DECISÃO INTERLOCUTÓRIA QUE DEFERE O PEDIDO DE DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA
+INOCORRÊNCIA DE LITISCONSÓCIO PASSIVO NECESSÁRIO
+EXECUÇÃO - INCLUSÃO DAS AGRAVANTES NO POLO PASSIVO DA DEMANDA POR FAZER PARTE DO GRUPO ECONÔMICO DA EMPRESA EXECUTADA - PROVA ROBUSTA - RECONHECIDA A CONFUSÃO PATRIMONIAL, É POSSÍVEL DESCONSIDERAR A PERSONALIDADE JURÍDICA, DE FORMA INVERSA, DE EMPRESAS PARA RESPONDEREM POR DÍVIDAS DE OUTRA - NEGADO PROVIMENTO AO RECURSO
+Quanto à controvérsia, alega violação dos arts. 355, I, 369 do CPC; e art. 5º, XXXV e LV da CF/88, relativo ao cerceamento do direito de defesa da parte ante o julgamento antecipado da lide, trazendo o seguinte argumento:
+Por força da abrupta e prematura extinção do feito sem que se procedesse à devida instrução probatória, impôs-se ao recorrente evidente cerceamento de defesa, configurado na vedação que lhe foi imposta no tocante à instrução probatória a que tem direito (CF, artigo 5º, inciso LV), dado que, pese as arguições de defesa conterem óbvia conotação fática a exigir a devida demonstração mediante provas, o juízo ordinário obstou a prova das alegações tecidas pelo recorrente (mesmo tendo este pleiteado produção de provas).
+Além de significar notório cerceamento de defesa, a vedação que o juízo monocrático impôs ao recorrente quanto ao seu fundamental direito de provar o alegado acarretou, também, lesão ao constitucional princípio do contraditório (CF, artigo 5º, inciso LV) e negativa de acesso à justiça (CF, artigo 5º, inciso XXXV).
+ ..
+E, na hipótese sub examine, como se sustenta neste recurso, havia a clara necessidade de produção de outras provas, e tal foi requerido pelo recorrente no presente feito.
+Ao julgar antecipadamente o feito mesmo diante da necessidade de produção de outras provas, deu-se violação frontal ao art. 355, I, do NCPC (fls. 914/916).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Por certo: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Em consonância: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
