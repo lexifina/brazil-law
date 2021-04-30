@@ -1,0 +1,51 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Distribuidora Orla Ltda., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo assim ementado (e-STJ, fls. 363-364):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE INTERESSE PROCESSUAL. ICMS. SUBSTITUIÇÃO. FATO GERADOR PRESUMIDO. NÃO MATERIALIZAÇÃO. RESTITUIÇÃO. PEDIDO RECONHECIDO NA ESFERA ADMINISTRATIVA. IPI. INCLUSÃO NA BASE DE CÁLCULO DO ICMS. POSSIBILIDADE. RESTITUIÇÃO. OPERAÇÃO REALIZADA EM VALOR MENOR DO QUE O PRESUMIDO. IMPOSSIBILIDADE. PRECEDENTES DO STF. RECURSO DESPROVIDO.
+1. O agravante carece de interesse processual quanto ao seu pedido de restituição dos valores de ICMS recolhidos antecipadamente e cujo fato gerador presumido não se materializou, uma vez que o ora agravado não apresenta qualquer resistência a tal pedido.
+2. É que tanto a Lei Estadual n.º 5.298/96, vigente à data do ajuizamento da ação, quanto a atual Lei Estadual n.º 7000/2001, regulamentando a garantia constitucional da imediata e preferencial devolução da quantia paga (art. 150, § 7º), outorga ao contribuinte a prerrogativa de "creditar a sua escrita fiscal, do valor objeto do pedido, devidamente atualizado segundo os mesmos critérios aplicáveis ao imposto" (arts. 19, § 1º e 32, § 1º, respectivamente), caso não haja deliberação no prazo de noventa dias.
+3. Não há vedação constitucional à inclusão do IPI cobrado na operação anterior na base de cálculo do ICMS, quando a operação tributável for realizada entre contribuinte e não contribuinte deste imposto.
+4. Na sistemática de recolhimento de ICMS denominada "substituição tributária progressiva ou para frente", só há direito à restituição contemplada no art. 150, § 7º, da Constituição da República, quando o fato gerador presumido não venha a ocorrer, falecendo, tanto ao contribuinte quanto à Fazenda Pública, o direito de pleitear eventual restituição ou cobrança complementar, quando a operação subsequente à cobrança do imposto, sob a modalidade de substituição tributária, se realizar com valor superior ou inferior ao estabelecido com base no supracitado art. 8º da LC 87/96. Precedentes do STF.
+5. Recurso conhecido, porém desprovido.
+Os embargos de declaração opostos pela contribuinte foram rejeitados.
+Em suas razões, a interessada levanta prefacial de ofensa ao art. 535, II, do CPC/1973, aduzindo omissão no que tange à "suposta falta de interesse em relação ao ICMS relativo às operações objeto da quebra, bem quanto à ilegalidade da inclusão do frete na base de cálculo presumido do ICMS e à ilegalidade da fixação da margem de lucro pela legislação capixaba" (e-STJ, fl. 429).
+No mérito, acusa violação dos arts. 3º do CPC/1973; e 8º, § 4º, da LC 87/1996.
+Sustenta, em síntese, não haver falar em falta de interesse de agir quanto à inclusão da base de cálculo presumida do valor das mercadorias perdidas em razão da quebra de vasilhames, pois, ao contrário do que consignado no acórdão recorrido, a Fazenda estadual teria oposto resistência ao reconhecimento do direito da contribuinte.
+Assevera que, "somente após a edição da Lei Estadual 7.295/02 é que se tornou viável a aplicação do regime de substituição tributária progressiva no Estado do Espírito Santo" (e-STJ, fl. 441).
+Contrarrazões recursais apresentadas às e-STJ, fls. 481-492.
+Inadmitido o recurso especial na origem, subiram os autos a esta Corte por força do provimento dado em agravo.
+O Ministério Público Federal, por meio do parecer de e-STJ, fls. 612-615, opinou pelo não conhecimento do recurso.
+É o relatório.
+Inicialmente, não há se falar em contrariedade ao art. 535 do CPC/1973, quando o Tribunal de origem, como se verifica no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Desse modo, não prospera a pretensão de nulidade do aresto por omissão.
+No mérito propriamente, observa-se que o apelo extremo não enseja conhecimento, pois a pretensão da contribuinte contraria as premissas fáticas em que foi assentado o julgado combatido, o que atrai o enunciado da Súmula 7/STJ.
+Isso porque o Tribunal de origem concluiu, por sua leitura e análise, não ter havido resistência por parte da Fazenda estadual ao pedido de restituição dos valores de ICMS recolhidos antecipadamente e cujo fato gerador não se materializou.
+Assim sendo, qualquer tentativa de desconstituir tais premissas de fato firmadas na origem e sindicar a existência ou não de resistência ao pedido da contribuinte demandaria a análise das provas dos autos, providência obstada pela Súmula 7/STJ.
+No ponto:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MATERIAL E MORAL CONFIGURADOS. REDUÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas demandaria reexame do conjunto fático-probatório dos autos, o que esbarra nas Súmula 7 do STJ.
+2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 557.686/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe 16/9/2014) - (grifos acrescidos).
+Por fim, quanto à substituição tributária, o tema foi decidido pelo Tribunal de origem com fundamentação eminentemente constitucional, sendo defeso o exame por este Tribunal, sob pena de usurpação da competência da Suprema Corte.
+Nesse contexto, eventual contrariedade, caso existente, ocorreria no plano constitucional, sendo inviável a rediscussão da matéria pelo Superior Tribunal de Justiça no recurso especial.
+Consoante reiterada jurisprudência, "não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem tampouco uniformizar a interpretação de matéria constitucional, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal" (AgInt no REsp 1.765.436/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21/5/2019).
+A corroborar com tal posicionamento, em hipóteses assemelhadas:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI N. 12.546/11. BASE DE CÁLCULO. RECEITA BRUTA DA EMPRESA. PRETENSÃO DE EXCLUSÃO DO ICMS, ISS, PIS E COFINS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI. CONCEITO CONSTITUCIONAL DE RECEITA E FATURAMENTO. VIA INADEQUADA. IMPOSSIBILIDADE DE APRECIAÇÃO.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Na espécie, o Tribunal de origem apreciou a controvérsia acerca da base de cálculo da contribuição previdenciária instituída pela Lei n. 12.546/2011 sob enfoque constitucional, à luz do princípio da presunção de constitucionalidade de que gozam as leis, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+3. Segundo a jurisprudência majoritária desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+(AgRg no REsp 1.505.664/SC, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 3/3/2015, DJe 9/3/2015).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. COFINS. BASE DE CÁLCULO. INCONSTITUCIONALIDADE DO § 1º DO ART. 3º DA LEI 9.718/98 DECLARADA PELO STF. INOVAÇÃO RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. ACÓRDÃO QUE DECIDIU A MATÉRIA SOB FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE VEDADA, EM SEDE DE RECURSO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Descabe a esta Corte emitir juízo de valor, em Agravo Regimental, sobre teses que não foram objeto do Recurso Especial, por se tratar de inovação recursal, vedada, em razão da preclusão consumativa.
+Inovação do feito que não se admite. Precedentes.
+II. Trata-se de Execução Fiscal que visa cobrar débitos da COFINS, com base no § 1º do art. 3º da Lei 9.718/98, que foi declarado inconstitucional, pelo STF, por considerar que o ordenamento jurídico brasileiro não contempla a figura da constitucionalidade superveniente. O acórdão de origem manteve a extinção do processo de execução, haja vista a inconstitucionalidade dos fundamentos jurídicos do título executivo.
+III. Inviável o Recurso Especial, interposto contra acórdão que decidiu a controvérsia sob enfoque exclusivamente constitucional.
+Precedentes do STJ.
+IV. "A discussão relativa à validade da alteração da base de cálculo do PIS e da Cofins pela Lei 9.718/1998, notadamente no que tange à definição dos conceitos de receita bruta e faturamento, foi dirimida pelo Tribunal a quo com base na interpretação do art. 195, I, da CF. Nesse contexto, é inviável reformar o acórdão recorrido no STJ, sob pena de usurpar a competência do Supremo Tribunal Federal, visto que a questão de fundo do presente feito foi tratada na origem à luz de fundamentos constitucionais, o que torna inviável sua alteração em Recurso Especial" (STJ, AgRg no Ag 1.407.946/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/9/2011).
+V. Agravo Regimental não provido.
+(AgRg no AREsp 346.760/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/5/2014, DJe 14/5/2014).
+Friso existir nos autos agravo em recurso extraordinário, pelo qual a Corte Suprema poderá analisar eventual violação de cunho constitucional.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, e na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
