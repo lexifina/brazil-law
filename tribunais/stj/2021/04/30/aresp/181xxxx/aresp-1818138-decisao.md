@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de MAYANNA DE FATIMA LINS BRANDAO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça da Paraíba, assim ementado:
+"AÇÃO DE RESCISÃO CONTRATUAL. AQUISIÇÃO DE AUTOMÓVEL. ALEGAÇÃO DE VÍCIO OCULTO. IMPOSSIBILIDADE DE REALIZAR A PERÍCIA TÉCNICA. VEÍCULO QUE NÃO ESTAVA MAIS NA POSSE DA AUTORA. IMPROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO. RAZÕES QUE ALUDEM A DESNECESSIDADE DE REALIZAÇÃO DO EXAME TÉCNICO. PROVA PERICIAL IMPRESCINDÍVEL PARA COMPROVAR AS ALEGAÇÕES AUTORAIS. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+- As alegações da Apelante, desprovida de uma prova técnica cabal, a fim de corroborá-las, levam a improcedência do pedido, assim como decidiu o Juízo a quo, motivo pelo qual a Sentença deve ser mantida"
+(e-STJ fl. 417)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, aparte agravante alegou violação dos arts.5º, 6º, 7º,10, 341, 1.022do Código de ProcessoCivil. A par da alegada nulidade da prestação jurisdicional entregue, a agravante sustentouque não lhe foiassegurado o direito de colaborar coma localização do veículo,além de afirmara existência de provas suficientes para o julgamento de mérito. Acrescentou que caberiaàs agravadaso ônus da realização de perícia, porquanto a inversão do ônus da prova teria sido deferida.
+Decisão que inadmitiu o recurso especial às fls. 530/534.
+Contraminuta apresentadaàs fls. 596/608.
+É o relatório. Decido.
+O Tribunal local, avaliando as peculiaridades fáticas dos autos, concluiu pela inexistência de provado direito constitutivo da autora, além de assentar a impossibilidade de desfazimento do negócio quando já não é mais proprietária do bem. É o que se extrai do seguinte trecho:
+Em que pesem os argumentos da Apelante alegando a ausência de intimação para apresentar o objeto litigioso desta Ação, não podemos nos olvidar que o Perito nomeado pelo Juízo possui fé de ofício, no exercício no encargo, logo, sua certificação, no sentido de que diligenciou a procura do automóvel e foi informado de que ele não mais pertencia ao Apelante, possui presunção de veracidade suficiente a suprir a prévia intimação, na medida em que o próprio Judiciário foi em busca do bem.
+Ademais, não posso deixar de anotar que a Apelante, no ponto, age de maneira contraditória, na medida em que, neste ponto do Apelo, defende a nulidade da Sentença pela ausência de intimação para apresentar o veículo, e em outro ponto, da petição recursal, sustenta ser inócua a realização do mesmo exame pericial.
+Vê-se, de maneira flagrante, que a Recorrente age comvenire contra factum proprium, ou seja,de maneira contraditória, devendo ambas as teses serem rechaçada, pela evidente colisão que há entre elas, em evidente afronta ao artigo 5.º do CPC, que obriga as partes agirem com boa fé em todas as fases processuais.
+ ..
+In casu,mesmo em se tratando de uma típica relação de consumo, há provas que são substanciais para a comprovação das alegações da Autora/Consumidora, na medida e que o vício que alega existente só pode ser comprovado após minuciosa perícia técnica.
+Logo, se o vício de fabricação existia, de fato, a Consumidora deveria ter diligenciado, de maneira tempestiva ao tempo dos defeitos técnicos, a fim de resguardar o seu, eventual, direito, com a realização de uma vistoria técnica que atestasse a existência do problema, bem como sua extensão.
+Assim, as alegações da Apelante, desprovida de uma prova técnica cabal, a fim de corroborá-las, levam a improcedência do pedido, assim como decidiu o Juízo a quo, motivo pelo qual aSentença deve ser mantida.
+Outrossim, insta consignar, para fins de obiter dictum, que uma vez a Apelante não sendo mais a proprietária do bem litigioso, não há como pleitear a rescisão contratual, na medida em que o veículo não poderá ser devolvido as Apeladas, caso o feito fosse julgado procedente."
+(e-STJ fls. 419/421)
+Dos fundamentos acima transcritos, fica evidente que o acórdão recorrido decidiu a lide em sua totalidade, indicando fundamentossuficientes, claros e coerentes como razão de decidir. Desse modo, não se pode cogitar de violação do art. 1.022 do CPC na hipótese dos autos.
+A rigor, é de se consignarque, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Afastada a nulidade por omissão, é de se ressaltarque os arts.6º, 7º, 10e 341 do CPC não foram objeto de apreciação pelo acórdão recorrido. Falta ao recurso especial, portanto, o imprescindível prequestionamento, o que atrai a incidência da Súmula 211/STJ.
+De outro lado, verifica-se que a recorrente não impugnou o fundamento do Tribunal local quanto à ausência de sua participação. Isso porque, como se denota da fundamentação acima trasncrita, acórdão a quo firmou-se na atuação processual contraditória. Destarte, à vista daausência de impugnação específica, incide a Súmula 283/STF.
+Por fim, acerca da imprescindibilidade da prova e da distribuição de seu ônus, a alteração da conclusão demanda o reexame de fatos e provas, o que não se compatibiliza com essa estreita via recursal (Súmula 7/STJ).
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
