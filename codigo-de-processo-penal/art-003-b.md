@@ -22,5 +22,5 @@ XV - assegurar prontamente, quando se fizer necessário, o direito outorgado ao 
 XVI - deferir pedido de admissão de assistente técnico para acompanhar a produção da perícia;
 XVII - decidir sobre a homologação de acordo de não persecução penal ou os de colaboração premiada, quando formalizados durante a investigação;
 XVIII - outras matérias inerentes às atribuições definidas no caput deste artigo.
-§ 1º (VETADO).
+§ 1º O preso em flagrante ou por força de mandado de prisão provisória será encaminhado à presença do juiz de garantias no prazo de 24 (vinte e quatro) horas, momento em que se realizará audiência com a presença do Ministério Público e da Defensoria Pública ou de advogado constituído, vedado o emprego de videoconferência.
 § 2º Se o investigado estiver preso, o juiz das garantias poderá, mediante representação da autoridade policial e ouvido o Ministério Público, prorrogar, uma única vez, a duração do inquérito por até 15 (quinze) dias, após o que, se ainda assim a investigação não for concluída, a prisão será imediatamente relaxada.
