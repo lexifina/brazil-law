@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interpostocontra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁSassim ementado:
+Agravo de Instrumento. Ação de execução fiscal. Honorários advocatícios iniciais. Aplicabilidade do artigo 85, §3 2doCódigo de Processo Civil/2015. I. A Lei Federal nº 6.830/80 não dispõe acerca dos honorários advocatícios no executivofiscal, ao passo que deve aplicar-se, subsidiariamente, o regramento previsto no Código de Processo Civil/2015 (artigo1º da Lei Federal nº6.830/80). II. O Código de Processo Civil/2015, no que diz respeito à execução por quantia certa, disciplina, no artigo 827, caput, que "ao despachar a inicial, o juiz fixará, de plano, o honorários advocatícios de dez por cento, a serem pagos pelo executado". I. Todavia, o artigo 827 do Código de Processo Civil/2015 não se aplica nas causas em que a FazendaPública for parte, uma vez que existemforma especial para esta situação, nos termos do artigo 85, § 39, do Código de Processo Civil/2015. IV. Logo, age com acerto o magistrado primevo ao receber a petição inicial e determinar a citação da parte executada/agravada, fixando honorários não com base no artigo 827, caput, do Código de Processo Civi1/2015, mas com fulcro no artigo 85, §3º, do Código de Processo Civil/2015. Agravo de Instrumento conhecido e desprovido. Decisão mantida.
+No recurso especial, fundamentado nas alíneas"a" e "c"do permissivo constitucional, o recorrente sustenta violação ao art. 827 do CPC/2015.
+Aduz que os honorários iniciais devem ser fixados conforme o determinado pelo dispositivo legal anteriormente mencionado, uma vez que é regra específica para os processos de execução.
+Decisão de reautuação às fls. 273/274.
+É o relatório. Decido.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cinge-se a controvérsia, na origem, de agravo de instrumento interposto contra decisão do juízo de 1º grau que fixou a verba honorária segundo o estabelecido no art. 85, §3º, do CPC/2015.
+Argumenta o recorrente que o art. 827 do CPC/2015 é regra específica dos processo de execução, devendo ser aplicada ao caso concreto, ou seja, no percentual de 10% (dez por cento) sobre o valor cobrado.
+Sobre o tema, esta Corte Superior possui orientação jurisprudencial segundo a qual no despacho inicial da execução de título extrajudicial, serão fixados honorários advocatícios de dez por cento, a teor do disposto no art. 827 do CPC/2015.
+Nesse sentido, cita-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS NO DESPACHO INICIAL. OBRIGATORIEDADE DE OBSERVÂNCIA DO PERCENTUAL DE 10% PREVISTO PELO ART. 827, CAPUT, DO CPC/2015.
+1. A Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+2. Em observância ao art. 827, caput, do CPC/2015, no despacho inicial da execução de título extrajudicial, serão fixados honorários advocatícios de dez por cento, a serem pagos pelo executado. Precedente da Quarta Turma do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1811222/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe 25/03/2020)
+Na mesma linha de entendimento:REsp n. 1.854.334/GO, relator Ministro Herman Benjamin, Dje. 22.4.2020; REsp n. 1.908.832/GO, relatora Ministra Regina Helena Costa, Dje. 11.12.2020.
+Com efeito, o Tribunal de origem se posicionou da seguinte forma:
+Feita esta consideração, no mérito, tem-se que a Lei Federal nº 6.830, de 22de setembro de 1980 (Lei de Execução Fiscal), não dispõe acerca dos honorários advocatícios no feito executivo fiscal, ao passo que deve ser aplicado, subsidiariamente, o regramento previsto no Código de Processo Civil/2015. Neste sentido, inclusive, disciplina o artigo 1º da Lei Federal nº 6.830/80:
+(..)
+O Código de Processo Civil/2015, no que diz respeito à execução por quantia certa, disciplina, no artigo 827, caput, que "ao despachar a inicial, o juiz fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado". Com efeito, existe uma regra específica para fixação da verba honorária nas ações executivas por quantia certa.
+(..)
+Todavia, o artigo 827 do Código de Processo Civil/2015 não se aplica nas causas em que a Fazenda Pública for parte, uma vez que existe norma especial para eta situação, nos termos do artigo 85, §3º, do Código de Processo Civil/2015:
+(..)
+Como se vê, com o advento do Código de Processo Civil/2015, surgiu um regime jurídico próprio de honorários advocatícios de sucumbência para as demanda sem que a Fazenda Pública é parte, de forma que, em toda e qualquer ação que tenha a Fazenda Pública como parte, incluindo aí, por óbvio, a ação de execução fiscal, os honorários advocatícios devem ser fixados com base no artigo 85, § 3º, do Código de Processo Civil/2015. Destarte, age com acerto o magistrado primevo ao receber a petição inicial e determinar a citação da parte executada/agravada, fixando honorários não com base no artigo 827, caput, do Código de Processo Civil/2015, mas com fulcro no artigo 85, §3", do Código de Processo Civil/2015.
+(..)
+Logo, a decisão objurgada deve ser mantida, por estes e seus próprios fundamentos. Por ser relevante, saliento que defendi, em outras oportunidades, o posicionamento de que o artigo 827, caput, do Código de Processo Civil/2015 era aplicável nas ações de execução fiscal, mas esse entendimento, contudo, não se alinha à hodierna compreensão doutrinária e jurisprudencial acerca da matéria.
+Portanto, observa-se que o Tribunal de origem adotou entendimento contrário ao desta Corte de Justiça, razão pela qual merece reforma quanto ao ponto, devendo os autos retornarem à Corte "a quo" para que se prossiga com o julgamento do feito considerando a fundamentação supra.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, douprovimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS NO DESPACHO INICIAL. OBRIGATORIEDADE DE OBSERVÂNCIA DO PERCENTUAL DE 10% PREVISTO PELO ART. 827, CAPUT, DO CPC/2015. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
