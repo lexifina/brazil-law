@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Apelação Cível. Direito das Sucessões.
+Substituição vulgar e substituição fideicomissária. Na substituição fideicomissária a deixa se faz para dois destinatários: um que haverá os bens imediatamente à abertura da sucessão, que é o fiduciário; e outro que os receberá desde que implementado o prazo ou a condição fixada pelo fideicomitente. Interpretação do testamento que se faz em observância à vetusta parêmia in testamentis plenius voluntates testamentuinterpretantur. Casal sem filhos e sem ascendentes vivos.
+Hipótese em que o varão quis garantir-se de que seus bens seriam havidos pela esposa, mas dela transmitidos aos seus colaterais (os irmãos do de cujus), afastando com isso a ordem regular da sucessão que beneficiaria os colaterais da herdeira instituída. A exclusão do herdeiro é circunstância excepcional que só se opera mediante a comprovação da ocorrência das graves faltas previstas no art. 1.814 do Código Civil.
+Direito de acrescer que se reconhece e que beneficia os remanescentes dos coherdeiros instituídos ou co-legatários. Se a hipótese é de reconhecimento do direito de acrescer, como é o caso presente, em que a disposição se fez em conjunto, beneficiando os irmãos do de cujus, sem estabelecimento da cotaparte deixada para cada um, ao coherdeiro remanescente acresce o quinhão dos demais. O patrimônio desfalcado do fideicomissário deve ser recomposto, se os sucessores da fiduciária não preservaram os bens objeto do fideicomisso. Provimento do recurso.
+Foram opostos embargos de declaração, rejeitados pelo acórdão assim ementado:
+Embargos de declaração. Alegação de vicio na parte dispositiva do acórdão e de inconformismo com o teor do julgado.
+Acórdão de teor claro e abrangente que se mostra claro e nítido sobre todos os pontos relevantes para o deslinde da causa. Está não é a sede própria para veiculação de inconformismo com o teor do que foi decidido e nem há espaço para que a parte promova debate com o julgador. Provimento parcial dos primeiros e segundos embargos apenas para corrigir erro material na parte dispositiva do acórdão. Demais recursos que se rejeitam.
+Nas razões de recurso especial, os agravantes alegam violação dos artigos 1022 do Código de Processo Civil de 2015. Sustentam que o acórdão recorrido é omisso. Afirmam a ilegitimidade passiva de herdeiros e legatários para a causa e que o fideicomisso não ficou caracterizado. Além disso, os bens teriam sido adquiridos por usucapião pela alegada fiduciária.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, conforme se vê da transcrição abaixo.
+Afasto, pois, a alegada violação do artigo 1022 do CPC.
+Outrossim, admitir a alegação de que não houve fideicomisso impõe a interpretação da cláusula do testamento, a partir da qual o Tribunal de origem entendeu caracterizada a deixa testamentária pelo fideicomitente. A propósito, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 2164):
+A controvérsia aqui instaurada está centrada no alcance, interpretação, validade e cumprimento de cláusula inserta em testamento público em que José Augusto de Carvalho dispõe de seus bens.
+O testamento está às fls. 65/69 e na cláusula em comento (letra "h") o testador declara que é seu desejo que "os bens herdados de si testador por sua mulher, passem, por morte desta para os herdeiros colaterais dele testador, mas desde que continuem os mesmos tratando-a com estima e dedicação com que a têm tratado até agora, reservado a ela assim, o direito de excluir, em suas disposições de última vontade aqueles que não merecerem o legado, a seu juízo exclusivo".
+(..)
+Sobre a prevalência das disposições testamentárias, consigna-se que na interpretação do testamento prevalece a exegese subjetiva voltada para o alcance da intenção do testador.
+A vetusta regra é de observância obrigatória in testamentis plenius voluntates testamentum interpretantur, ou seja, há de prevalecer em toda sua plenitude a vontade do disponente.
+E qual seria, na hipótese, a vontade do testador
+Ele era casado, sem filhos e sem ascendentes vivos.
+Seus bens seriam havidos por sua mulher e na falta desta por seus irmãos, parentes pela linha colateral.
+A parte disponível de seus bens, que era ampla, porque não tinha ele herdeiros necessários, seria naturalmente havida - ante a ordem de vocação hereditária - por sua mulher.
+Com o falecimento desta, todavia, os bens não se voltariam para os colaterais do testador, segundos na ordem sucessória, mas para os colaterais de sua esposa, ou seja, seriam transmitidos aos seus cunhados.
+Ao estabelecer que com o falecimento de sua esposa, mediante a instituição do fideicomisso, os bens seriam havidos "pelos seus irmãos" o testador expressa a vontade, perfeitamente compreensível, de que primeiro havia de ser aquinhoada a sua esposa, pessoa mais próxima e, presumivelmente, mais merecedora.
+Afastada esta pelo óbito, quis o testador que seu vultoso patrimônio retornasse àqueles seus irmãos que, pela relação de consaguinidade, ocupavam o segundo lugar na ordem de vocação hereditária e, bem assim, na ordem do merecimento.
+Tudo considerado, não é difícil apreender a "voluntas testatoris".
+O testador, titular de vultoso patrimônio, ao ditar o testamento antecipa a possibilidade de que seus irmãos, seus únicos parentes consanguíneos, sobrevivam à esposa, cuidando de assegurar que, com a morte desta, seus bens tivessem destino diverso daquele determinado pelas regras ordinárias da sucessão.
+Considera-se, ainda, que, na exegese de qualquer cláusula, impõe-se evitar que seja ela reduzida à inocuidade.
+(..)
+Para que os bens deixados pelo finado viessem a tornar, pela morte de sua esposa, aos irmãos desta, ora réus, não se fazia necessária a enunciação de qualquer disposição testamentária.
+O que o de cujus pretendeu foi exatamente afastar a esta possibilidade, estabelecendo a chamada substituição fideicomissária, com a qual cumulou a esposa, legando-lhe a herança, para que ela a usufruísse com a inteireza e amplitude que o fideicomisso permite, impondo, todavia, a transmissão desses bens a seus irmãos de sangue, subordinada tal transmissão ao falecimento da fiduciária.
+Foi disposição compreensível que se amolda ao manifesto desvelo do testador para com a esposa e o sentimento de fraternidade, também expresso na mesma cláusula testamentária, que nutria pelos irmãos.
+Aplicam-se ao caso as Súmulas 5 e 7/STJ.
+E, postos esses fatos, tem-se que não se pode falar em usucapião, já que a fiduciária, como tal, tinha a propriedade resolúvel dos bens. Além disso, a legitimidade dos herdeiros da fiduciária é evidente, também a partir dos fatos narrados no acórdão recorrido, pois a procedência do pedido do agravado interfere em seu patrimônio e, aliás, versa sobre bens que lhes foram transferidos.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
