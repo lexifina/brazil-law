@@ -1,0 +1,24 @@
+DECISÃO
+A presente petição é dependente do AREsp 1.047.799 ao qual neguei provimento pelos seguintes fundamentos:
+Em vista das razões do agravo interno, em que foi demonstrada a tempestividade do recurso especial, reconsidero a decisão que negou seguimento ao recurso (fls. 1.017/1.018), proferida pela Presidência do STJ, e passo à sua análise.
+Trata-se de agravo em recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 865):
+Apelação - Extinção do processo sem exame de mérito em razão da existência de cláusula compromissória no contrato apontado como inadimplido e em que se funda a pretensão indenizatória - Réu revel - Impossibilidade de reconhecimento dessa causa impeditiva da formação e desenvolvimento regular do processo de ofício - Art. 267, VII e art. 301, § 4º do CPC - Nulidade da sentença - Impossibilidade de aplicação do art. 513, § 2º do CPC porque a demonstração do prejuízo alegado depende de instrução - Recurso provido para cassar a sentença e determinar a instrução do feito.
+Os embargos de declaração opostos foram rejeitados sob a seguinte ementa (fls. 884):
+Recurso - Embargos de declaração - Omissão inexistente - Benefício da gratuidade de justiça que não foi concedido na sentença recorrida nem na decisão embargada - Caráter infringente - Pretensão distanciada da finalidade de complementar, integrar ou esclarecer o teor do próprio julgado embargado - Embargos rejeitados.
+A agravante sustenta, nas razões de recurso especial, ofensa à Lei n.1.060/50 e aos artigos 8º e 20 da Lei de Arbitragem, alegando que os elementos dos autos permitem inferir que o agravado possui condições de arcar com as despesas processuais, requerendo a cassacão do benefício concedido, e que o contrato questionado nos autos possui cláusula arbitral cheia, o que afasta a competência do Poder Judiciário para conhecer das discussões dele decorrentes.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Assim delimitada a controvérsia, passo a decidir.
+Depreende-se dos autos que o agravado ajuizou ação objetivando o reconhecimento do descumprimento por parte da agravante no contrato de parceria comercial que celebraram.
+A sentença julgou extinto o processo, sem resolução de mérito, sob o entendimento de que "os contratos são celebrados para cumprimento, sendo que, no caso, as partes optaram pela escolha de árbitros para solução dos eventuais conflitos contratuais, o que exclui completa e absolutamente a jurisdição estatal" (fl.
+250).
+O acórdão recorrido, por sua vez, cassou a sentença sob o entendimento de que, ante a revelia da ré, "a exclusão da jurisdição comum em razão da existência de compromisso arbitral é matéria que não pode ser conhecida de ofício, nos precisos termos da ressalva constante do § 4º do art. 301 do Código de Processo Civil" (fl. 866), e determinou o retorno dos autos para prosseguimento do feito com a realização de sua instrução.
+Anoto, primeiramente, que o fundamento do acórdão recorrido acerca da revogação do benefício concedido ao agravado, isto é, que deve ser formulado nos termos da Lei n. 1.060/50, não foi atacado no recurso especial. A recorrente se limita apenas a insistir na existência de indícios de que o agravado reúne condições para arcar com os custos do processo.
+A mesma falha ocorre em relação à competência para julgamento da causa, uma vez que o fundamento do acórdão recorrido, impossibilidade de reconhecimento de ofício pelo magistrado, também não foi impugnado nas razões do recurso especial.
+Desse modo, não impugnada a fundamentação do acórdão recorrido, suficiente, por si só, para sua manutenção, incidente o óbice do enunciado n. 283 da Súmula do STF.
+Interposto agravo interno, também a ele foi negado provimento, estando o acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARCERIA COMERCIAL. COMPROMISSO ARBITRAL. INCOMPETÊNCIA.IMPUGNAÇÃO À CONCESSÃO DO BENEFÍCIO DA GRATUIDADE JUDICIÁRIA. LEI N. 1.060/50. FUNDAMENTOS NÃO IMPUGNADOS. APLICAÇÃO DA SÚMULA N. 283 DO STF.
+1. É inadmissível o recurso especial que não impugna especificamente os fundamentos do acórdão recorrido, suficientes, por si sós, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283 do STF).
+2. Agravo interno a que se nega provimento.
+O julgamento do recurso acarreta a perda de objeto da cautelar dele dependente, sendo de se ressaltar que a decisão transitou em julgado em 8.10.2018.
+Em face do exposto, julgo prejudicada a presente petição, bem como oagravo interno de fls. 344/373, com fundamento no art. 34, XI, do Regimento Interno do STJ.
+Intimem-se.
