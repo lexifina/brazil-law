@@ -1,0 +1,28 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ARGUIÇÃO DE OMISSÃO. PROPORCIONALIDADE DA FRAÇÃO DE AUMENTO DA PENA-BASE ATESTADA NO ACÓRDÃO EMBARGADO. RECURSO REJEITADO.
+1. Tendo havido expressa manifestação no acórdão embargado acerca da validade da pena aplicada pela origem ante a existência de fundamentação concreta para justificar a fração de aumento da pena-base, inexiste omissão a ser sanada, não se prestando os embargos de declaração à rediscussão da causa.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Trata-se de embargos de declaração opostos contra acórdão de agravo regimental que restou improvido.
+Sustenta o embargante que houve omissão no tocante ao quantum de exasperação da pena. Esclareceu que jamais contestou-se ao longo desta Ação Mandamental sobre o aumento da pena base em si, pelas razões adotadas pelo julgador monocrático, mas sim a desproporcionalidade da exasperação, no momento do seu aumento.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+O acórdão embargado, na parte que tratou da proporcionalidade da pena, assim foi fundamentado (fl. 238/239):
+Como se vê, a pena-base dos delitos imputados ao recorrente foi exasperada considerando-se circunstâncias da prática delitiva, tendo em vista a maior reprovabilidade da conduta praticada por policial civil.
+Em regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Ressalte-se que, nos termos da jurisprudência desta Corte Superior, a exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgInt no HC 352.885/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/05/2016, DJe 09/06/2016), só podendo ser alterado o quantum de aumento na pena-base quando flagrantemente desproporcional.
+Ao que se tem, não se verifica a manifesta ilegalidade, pois foi apresentada fundamentação concreta para justificar a exasperação da pena-base, tendo em vista a maior reprovabilidade da conduta praticada por policial civil. A esse respeito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSSIBILIDADE. OFENSA AO ART. 386, VII, DO CPP. SÚMULA 7/STJ. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. INEXISTÊNCIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. VALORAÇÃO NEGATIVA DOS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE. REINCIDÊNCIA. BIS IN IDEM NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. No que tange à questão amparada no art. 41 do Código Penal, de acordo com a jurisprudência desta Corte, "após a prolação de sentença condenatória, em que é realizado um juízo de cognição mais amplo, perde força a discussão acerca de eventual inépcia da denúncia" (REsp 1.166.299/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 3/9/2013).
+2. A absolvição do acusado baseada na insuficiência de provas, demandaria necessariamente o reexame do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. O exercício do cargo de Policial Militar do Estado de Rondônia, por ocasião da prática do crime, constitui fundamento idôneo para a exasperação da pena-base do acusado, por evidenciar uma maior reprovabilidade da conduta. Precedentes.
+4. O entendimento desta Corte é pacífico no sentido de que a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que aquelas que foram utilizadas na primeira fase sejam distintas daquelas valoradas na segunda etapa.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 1609564/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020.)
+Assim, em que pese às alegações defensivas, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+Como se observa, constou do acórdão recorrido efetivo exame acerca da proporcionalidade da pena aplicada, tendo sido atestado que a jurisprudência da Corte exige emprego de fundamentação concreta pelo magistrado sentenciante para valoração gravosa da pena-base e seu patamar de aumento, inexistindo um critério matemático que imponha a obrigatoriedade de uma fração fixa de aumento, e que na espécie inexistia ilegalidade flagrante.
+Assim, verifica-se que a pretensão do embargante restringe-se exclusivamente à rediscussão da causa, finalidade inadequada para a via escolhida.
+Ante o exposto, voto por rejeitar os embargos de declaração.
