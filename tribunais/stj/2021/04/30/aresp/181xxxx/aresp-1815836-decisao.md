@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de ROMILDO PEREIRA BATISTA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"HABILITAÇÃO DE CRÉDITO Pedido rejeitado pela inventariante Sentença de extinção, sem julgamento do mérito Insurgência da parte autora Inviabilidade Habilitação indeferida Remessa às vias ordinárias, a teor do disposto no art. 643 do CPC Pedido de reserva de bens Impossibilidade Obrigação não comprovada Sentença parcialmente reformada, para rejeitar o pedido RECURSO DESPROVIDO." (e-STJ fl.97)
+Embargos de declaração rejeitados (e-STJ fl. 172/178)
+Nas razões do recurso especial, o agravante alega violação do parágrafo único do art. 643 do CPC, e divergência jurisprudencial, sustentando, em síntese, que: 1) os documentos juntados aos autos na inicial são suficientes para justificar a reserva de bens pelo inventariante, uma vez que, mesmo sem a assinatura do de cujus, comprovam a compra e entrega dos materiais de construção na obra, tendo sido assinados pelos funcionários que lá trabalhavam e 2) em procedimento de jurisdição voluntária de habilitação de crédito, não há lugar para a condenação em honorários de sucumbência.
+É o relatório. Decido.
+O recorrente alega, em síntese, que os documentos juntados aos autos na inicial são suficientes para justificar a reserva de bens pleiteada, uma vez que, mesmo sem a assinatura do de cujus, comprovam a compra e entrega dos materiais de construção na obra, tendo sido assinados pelos funcionários que lá trabalhavam.
+Sobre o tema, a Corte de origem consignou:
+"No caso sub judice, tem-se que a inventariante impugnou veementemente os documentos apresentados com a inicial, alegando que estes não apresentam qualquer assinatura do de cujus, ou ainda, de eventual recebedor autorizado, não permitindo sequer identificar a possível relação de consumo alegada.
+(..)
+Ademais, correto o afastamento do pedido de reserva de bens suficientes para o pagamento do suposto débito.
+Neste ponto, embora não se exija que a dívida cobrada do espólio seja líquida (cf. STJ, REsp n. 98.486, 4ª Turma, Rel. Min. Aldir Passarinho Jr., j. 16/08/05), ao menos deve ser suficientemente demonstrada a obrigação do espólio em quitar o débito, o que não se verifica no caso em comento.
+Ora, os documentos apresentados com a petição inicial (fls. 14/38), impugnados pela inventariante, não são suficientes para respaldar o crédito alegado pelo autor, posto que sem qualquer assinatura do de cujus, sendo necessária ampla discussão em ação de conhecimento." (e-STJ fl. 99/100)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INVENTÁRIO. PEDIDO DE RESERVA DE BENS. AUSÊNCIA DE PROVA LITERAL DA DÍVIDA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. No caso, o Tribunal de origem consignou que não caberia a reserva de bens sem prova literal da dívida. Assim, a análise da pretensão demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 784.061/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 22/02/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/1973. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. SIMILITUDE FÁTICA. AUSÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que demandem o revolvimento do contexto fático-probatório dos autos, em razão da incidência da Súmula n. 7 do STJ.
+2. No caso concreto, o exame da pretensão recursal no sentido de verificar a alegada inexistência de prova documental suficiente para confirmar a existência da obrigação demandaria nova análise do conjunto probatório dos autos, o que é vedado em recurso especial.
+3. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 721.617/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2016, DJe 20/05/2016)
+Quanto à alegação de que em procedimento de jurisdição voluntária de habilitação de crédito não há lugar para a condenação em honorários de sucumbência, tem-se que tal tema não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão quanto ao ponto. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% do valor do crédito perseguido.
+Publique-se.
