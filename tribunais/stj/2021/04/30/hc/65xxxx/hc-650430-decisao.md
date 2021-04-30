@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MURILO HENRIQUE CANDIDO DE JESUS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao apelo defensivo e manteve a condenação do paciente como incurso no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais o pagamento de 680 dias-multa.
+O impetrante alega ser indevida a aferição do envolvimento anterior do paciente no tráfico de drogas para aferição da má conduta social, porque não caracteriza reincidência.
+Afirma que, diante da ausência de reincidência do paciente, deve ser reduzia a pena-base e fixado o regime semiaberto.
+O pedido de liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Na sentença, consta:
+"Na primeira fase, a má conduta social do acusado se extrai das certidões de fls. 195/196, pois já condenado definitivamente por fatos análogos, os quais, entretanto, não tem o condão de acarretar a reincidência. Diante de tais aspectos, fixo a pena-base acima do mínimo em 1/6 (um sexto), em 5 anos e 10 meses de reclusão e 583 dias-multa. Na segunda fase, não há circunstâncias agravantes ou atenuantes a serem consideradas. Na terceira fase, presente a causa de aumento do artigo 40, III, da Lei de Drogas, majora-se a pena em 1/6 (um sexto), resultando em 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa. Não é caso de aplicação da causa de diminuição a que se refere o art. 33, §4º, da Lei nº 11.343/2006, ante as circunstâncias que ensejaram a majoração da pena-base, pois o réu comprovadamente se dedicava a condutas criminosas há tempo juridicamente relevante. Assim, fixa-se a pena definitiva em 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa (grifo nosso).
+Em informações a esta Corte, o Juiz sentenciante esclareceu que foi utilizada a condenação definitiva no Processo n. 0001796-71.2016.8.26.0129 - 2ª Vara local, pelo delito de tráfico de drogas para majorar a pena-base em 10 meses. Pontuou que "Esta Corte Superior firmou-se no sentido de que a condenação por crime anterior, com trânsito em julgado posterior à prática delitiva em apuração, justifica a valoração negativa da circunstância judicial dos antecedentes, conduta social ou personalidade do agente, lastreando a exasperação da pena-base" (STJ, Aglnt no AREsp 721.347/DF, 6ª Turma).
+Como se verifica, a decisão impugnada trouxe motivação suficiente para elevar a pena-base e está em consonância com a jurisprudência desta Corte, segundo a qual a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado (HC 349.015/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016).
+Logo, correta a pena aplicada.
+Do mesmo modo, não merece acolhimento o pedido de abrandamento do regime prisional.
+Embora a sanção final tenha sido fixada em patamar superior a 8 anos, a aferição de circunstância judicial desfavorável (antecedentes) recomenda a imposição do regime fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+Confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. MAUS ANTECEDENTES. REGIME FECHADO JUSTIFICADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DE CUMPRIMENTO DO REQUISITO OBJETIVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  3. Embora o réu haja sido definitivamente condenado a reprimenda inferior a 8 anos de reclusão, certo é que possui maus antecedentes (tanto que a sua pena-base ficou estabelecida acima do mínimo legal), circunstância concreta e idônea que justifica a imposição de regime prisional mais gravoso do que o cabível em razão da sanção imposta, ex vi do disposto no art. 33, § 3º, do CP.
+ ..  5. Agravo regimental não provido."
+(AgRg no HC 612.834/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/10/2020, DJe 21/10/2020)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. SÚMULA 7/STJ. ART. 33, §4º, DA LEI Nº 11.343/06. INAPLICABILIDADE. MAUS ANTECEDENTES. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  5. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, o regime inicial fechado (previsto como o imediatamente mais grave) é o adequado para prevenção e reprovação do delito, tendo em vista os maus antecedentes do acusado, consoante as diretrizes do art. 33, § 2º, alíneas "a" e "b", do CP.
+6. Mantida a condenação em patamar superior a 4 (quatro) anos, inviável a substituição da pena privativa de liberdade por restritiva de direitos.
+7. Agravo regimental não provido."
+(AgRg no AgRg no AREsp 1713569/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
