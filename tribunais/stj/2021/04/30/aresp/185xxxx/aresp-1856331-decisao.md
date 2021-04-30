@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por LELIA SIMONE PESSOA DE SOUZA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" ,da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. DESCABIMENTO. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE GARANTIA DO JUÍZO.
+Nos ditames do §1º do art. 919 do CPC/15, só será concedido excepcionalmente o efeito suspensivo aos embargos à execução quando verificados os requisitos para a concessão da tutela provisória, e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.
+Não sendo esse o caso dos autos, imperiosa a manutenção da decisão que acolheu os embargos à execução sem a concessão do efeito suspensivo.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+UNÂNIME.
+Alega a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 300, §§ 2º e 3º, 805 e 919, § 1º, todos do CPC, no que concerne aos requisitos para a concessão de efeito suspensivo, trazendo o(s) seguinte(s) argumento(s):
+Nitidamente, após análise dos fatos narrados, não restam dúvidas de que o prosseguimento da execução poderá causar graves prejuízo à recorrente. Presente então o fumus boni iuris, qual se mantém hodierno, mesmo com a alteração legislativa, para a concessão da tutela de urgência antecipada. Não bastasse o grave risco de dano que o prosseguimento da execução, concomitantemente aos embargos, exigir da recorrente que preste caução ou depósito ou tenha bens penhoráveis é exigir-lhe onerosa diligência.
+ .. .
+A verificação do periculum in mora e do fumus boni iuris se mostram necessárias, ainda mais porque o processo executivo, com a possibilidade de constrição patrimonial, já se mostra deveras prejudicial ao contribuinte. Assim, o periculum in mora já se evidencia pela prejudicialidade do processo executivo e a possibilidade de lesão. Para o juiz conceder uma medida cautelar, não poderá exigir uma prova total e acabada acerca do perigo, mas justificação, demonstração de plausibilidade da ocorrência do risco, uma vez que, pelas características peculiares da tutela cautelar, a análise objetiva feita pelo juiz da causa terá que ser rápida e sumária, sempre anterior à precipitação dos fatos, isto é, a perda, o grave dano que o interesse possa sofrer, deve ser ulterior ao nascimento deste direito.
+ .. .
+Portanto, no presente caso se mostram preenchidos todos os requisitos legais para a reforma da decisão a quo e consequente atribuição de efeito suspensivo aos embargos à execução opostos pela ora recorrente. (fls. 99/102).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, tem-se que a suspensão da execução só poderá ocorrer quando configurada hipótese excepcional na qual venham implementados os requisitos legalmente exigidos, o que não é o caso dos autos.
+Na espécie, o juízo não foi garantido, tampouco se verifica o alegado perigo de dano grave ou de difícil reparação, requisito necessário para a concessão de efeito suspensivo aos embargos, não havendo sequer informação de ato expropriatório a ser praticado nos autos da execução.
+Nesta senda, ante a ausência de garantia à execução embargada, bem como não comprovado o perigo de dano grave ou de difícil reparação, resta inviável a reforma da decisão de modo a conceder o efeito suspensivo aos embargos em favor do agravante (fl. 47).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
