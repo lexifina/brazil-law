@@ -1,0 +1,42 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão proferido no âmbito do Superior Tribunal de Justiça (HC 584.120/MG), assim ementado (eDOC 3, p. 48):
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO. APLICAÇÃO DA RECOMENDAÇÃO N. 62 DO CNJ. SUPRESSÃO DE INSTÂNCIA. PROBLEMAS DE SAÚDE E RISCO DE CONTAMINAÇÃO PELO CORONAVÍRUS NÃO COMPROVADOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+    1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+    2. Acerca dos fundamentos da prisão preventiva, é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido, como decidiu o Tribunal impetrado.
+    3. Acerca dos problemas de saúde e dos riscos de contaminação pelo vírus covid-19, o acórdão pontuou não ter sido formulado o pedido previamente junto ao juízo de primeiro grau, por estar mais próximo e ter melhores condições de examinar a situação particular do paciente. A despeito dessa omissão, a Corte estadual concluiu não haver a mínima comprovação de que o paciente não venha recebendo tratamento ou mesmo que corre risco de contaminação no presídio em que se encontra. Precedentes.
+    4. Agravo regimental não provido.
+    Depreende-se dos autos que: a) o recorrente foi pronunciado, em 6.11.2019, pela prática do delito previsto no art. 121, § 2º, I e IV, do CP; b) o fato em questão ocorreu em 28.12.2018, o recorrente teve sua prisão temporária decretada e posteriormente convertida em preventiva, em 28.5.2019; c) o constrangimento ilegal decorre da não apreciação do pedido de revogação da preventiva pelo Magistrado de primeiro grau, da ausência de contemporaneidade da prisão, do descumprimento da regra prevista no art. 316, parágrafo único, do CPP, bem como por ser o recorrente portador de asma brônquica, devidamente comprovada nos autos; d) ao contrário do que firmado pelo Tribunal de origem, esta impetração não é mera reiteração da anterior, ajuizada 9 (nove) meses antes; e) “o Recorrente é réu primário, trabalhou durante anos com carteira assinada, nunca ofereceu qualquer tipo de ameaça às testemunhas do processo, tampouco cogitou fuga quando se encontrava solto”.
+    À vista do exposto, pugna pela revogação da prisão preventiva.
+    Em 18.9.2020, indeferi a liminar (eDOC 6).
+    As informações foram prestadas (eDOC’s 8, 22, 28, 30, 38 e 42).
+    A Subprocuradora-Geral da República manifestou-se pelo desprovimento do recurso (eDOC 17).
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    1.1. Observo, de início, que o decreto de prisão preventiva calcou-se de forma satisfatória na garantia da ordem pública e na conveniência da instrução processual, especialmente quanto à periculosidade dos réus, conforme se extrai do seguinte excerto (eDOC 1, p. 35-36):
+    “[…]
+    A Delegada de Polícia ressaltou em seu relatório com o pedido de temporária que a prisão cautelar dos investigados era essencial para a persecução penal, uma vez que as testemunhas do processo se sentem ameaçadas face a periculosidade dos réus que são muito temidos na comunidade em que ocorreu o crime.
+    Consta do relatório investigativo que testemunhas do feito estariam temerosas em falar o que sabem sobre o crime em comento.
+    […]
+    De modo que, os depoimentos tomados na DEPOL demonstram a periculosidade dos acusados, posto serem pessoas ligadas à criminalidade na região dos fatos e que agem de forma violenta, ameaçando testemunhas presenciais e testemunhas, impondo a “lei do silêncio” em toda a comunidade local, sendo necessária a prisão pela garantia da ordem pública e conveniência da instrução criminal.
+    Além do exposto, tais fatos, aliados a análise dos autos e sendo RAFAEL CRISTIANO; VALTERCI e JEAN reincidentes, infere-se que a prisão preventiva dos réus, se faz necessária para a garantia da ordem pública e conveniência da instrução processual, pois, há nos autos elementos capazes de demonstrar serem eles pessoas de personalidade agressiva e violenta, envolvidas com a criminalidade naquela comunidade, capazes de coagir e ameaçar as testemunhas do processo.
+    Ante o exposto, acolho o requerido pelo Representante do Ministério Público e, com respaldo no art. 312 do CPP, decreto as prisões preventivas dos acusados RAPHAEL BERNARDO GOMES AGUIAR; RAFAEL CRISTIANO GOMES; VALTERCI TADEU CAMPOS COSTA; ANDERSON BRUNO TAMEIRÃO PÁDUA e JEAN BERNARDO GOMES AGUIAR SILVA, devidamente qualificados nos autos.”
+    O Superior Tribunal de Justiça destacou que o crime atribuído ao recorrente foi praticado com extrema violência, na companhia de quatro outras pessoas e, segundo a denúncia, por motivo torpe e mediante recurso que impossibilitou a defesa da vítima, pega de surpresa por vários agressores (eDOC 4, p. 120).
+    Por outro lado, depreende-se das informações prestadas o seguinte (eDOC 42):
+    “O paciente Raphael restou pronunciado como incurso nas sanções do art. 121, §2º, incisos I e IV, do Código Penal, pelo Juízo Sumariante em 06/11/2019.
+    A Defesa apresentou Recurso em Sentido Estrito, em face da decisão de pronúncia, apresentando desistência do mesmo em 10 de dezembro de 2020.
+    Os autos foram recebidos por este Juízo em 11 de janeiro de 2021, tendo na mesma data, este Juiz, proferido despacho nos termos do art. 422 do Código de Processo Penal.
+    A defesa requereu a revisão da prisão preventiva do paciente em 28/01/2021, tendo este Juízo negado o pedido e mantido a prisão em 04/02/2021 (fls. 951/952).
+    Em 27/01/2021, os autos foram relatados, nos termos do art. 423 do CPP, tendo sido designado a sessão de julgamento do acusado para a data de 12 de abril de 2021.
+    Ocorre, que as atividades forenses foram suspensas do período de 12 de março a 19 de abril do corrente ano, devido a Pandemia pelo Corona Vírus, motivo, pelo qual, não houve sessão de julgamento do paciente.
+    Destarte, com o retorno das atividades, a Sessão de Julgamento do paciente foi redesignada para o dia 25 de maio do corrente ano.”
+    Consta, ainda, das informações que, em 4.2.2021, o Magistrado de primeiro grau indeferiu pedido de revogação da prisão preventiva do ora paciente, ao concluir pela manutenção dos motivos ensejadores da custódia cautelar (eDOC 42, p. 15).
+    Esse o quadro, observo que o decreto de prisão preventiva está suficientemente fundamentado, porquanto descreve as circunstâncias que permearam a suposta materialização típica e aponta o risco de ameaça às testemunhas, evidenciando, a um só tempo, a gravidade concreta da conduta e a periculosidade dos agentes.
+    Registro que as premissas decisórias, quais sejam, a violência empregada na empreitada delitiva, o temor da comunidade local e o risco de ameaça às testemunhas, não se submetem a juízo revisório a ser empreendido por esta Corte na estreita via do habeas corpus, que, como sabido, não se compatibiliza com o reexame de fatos e provas.
+    Na mesma linha, o “habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos” (HC 188.527, Rel. Min. LUIZ FUX, Primeira Turma, DJe 23.09.2020). No mesmo sentido: HC 197.157, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 1º.3.2021; HC 194.293, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 17.2.2021; HC 193.984, Rel. Min. Roberto Barroso, Primeira Turma, DJe 17.2.2021; HC 193.670, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10.12.2020.
+    1.2. De outra parte, as informações prestadas noticiam que o julgamento do ora recorrente já se avizinha, uma vez que foi marcado para o dia 25.5.2021.
+    Dessa forma, não depreendo, por ora, excesso de prazo que beire à teratologia, passível de concessão por meio da estreita via do habeas corpus. Embora destoe do ideal, o transcurso revela-se razoável e proporcional às intercorrências e à complexidade do processo e, ao que tudo indica, o julgamento da causa é iminente.
+    2. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 30 de abril de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
