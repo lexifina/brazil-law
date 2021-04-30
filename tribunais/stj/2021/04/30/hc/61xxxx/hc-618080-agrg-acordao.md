@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEI N. 13.964/2019. PACOTE ANTICRIME. ALTERAÇÃODO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Após as alterações do art. 112 da LEPpromovidas pelaLei n. 13.964/2019, criou-se uma lacuna jurídica sobre a progressão de regime aos apenados reincidentes, condenadospor crimes hediondo (ououtro a ele equiparado) e comum.
+2.Na Sexta Turma prevaleceu a compreensão de que, nas disposições sobre a execução das sanções criminais,o julgador dever recorrer à analogia in bonam partem para a integração normativa,observados, ainda, oprincípio da legalidade e a retroatividade da lei penal mais benéfica.
+3.Como na atual redação do art. 112, VII, da LEP, existe uma clara restrição, porquanto a palavra"reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", a exigência de 60% do cumprimento da pena refere-seao reincidente na prática dessa natureza de delito e não é possível corrigir o erro do legislador e interpretar a normaem prejuízo do sentenciado.
+4. Por isso, após a revogação do art. 2º, § 2º, da Lei 8.072/1990,em situação de reincidência genérica, os ilícitos têm de ser considerados isoladamente, cada qual de acordo com sua natureza, com a possibilidade de aplicação retroativa do art. 112, V, da LEP ao hediondo ou equiparado.
+5. Agravo regimental não provido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 1.096-1.098, em que concedi a ordem de habeas corpus para determinar a retificação dos cálculos de penas.
+Para o recorrente, é de rigor a reforma do julgado, pois, também depois das alterações do art. 112 da LEP, promovidas pelaLei n. 13.964/2019,a progressão de regime, no caso de condenadopor crimes hediondos ou outros a eles equiparados, dar-se-á após o cumprimento de 3/5 da pena, se reincidente, independenteda natureza do delito antecedente. Opercentual de 40% não pode ser aplicado ao paciente, pois, por expressa previsão legal, destina-se apenas aosentenciado primário.
+O Parquet explica que a interpretação dada ao inciso VII do art. 112 da LEP destoa dos propósitos da Lei Anticrime e da compreensão da Quinta Turma, sobre o mesmo tema.
+Requer a reforma do julgado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEI N. 13.964/2019. PACOTE ANTICRIME. ALTERAÇÃODO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Após as alterações do art. 112 da LEPpromovidas pelaLei n. 13.964/2019, criou-se uma lacuna jurídica sobre a progressão de regime aos apenados reincidentes, condenadospor crimes hediondo (ououtro a ele equiparado) e comum.
+2.Na Sexta Turma prevaleceu a compreensão de que, nas disposições sobre a execução das sanções criminais,o julgador dever recorrer à analogia in bonam partem para a integração normativa,observados, ainda, oprincípio da legalidade e a retroatividade da lei penal mais benéfica.
+3.Como na atual redação do art. 112, VII, da LEP, existe uma clara restrição, porquanto a palavra"reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", a exigência de 60% do cumprimento da pena refere-seao reincidente na prática dessa natureza de delito e não é possível corrigir o erro do legislador e interpretar a normaem prejuízo do sentenciado.
+4. Por isso, após a revogação do art. 2º, § 2º, da Lei 8.072/1990,em situação de reincidência genérica, os ilícitos têm de ser considerados isoladamente, cada qual de acordo com sua natureza, com a possibilidade de aplicação retroativa do art. 112, V, da LEP ao hediondo ou equiparado.
+5. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O art. 112, da LEP, com a nova redação incluída pelaLei nº 13.964/2019, prevê (grifei):
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V -40%(quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado,se for primário;
+VII -60%(sessenta por cento) da pena, se o apenado forreincidentena prática de crime hediondo ou equiparado;
+Antes da alteração legislativa, exigia-se o resgate de 3/5 da sanção caso o delito fosse hediondo e o sentenciado, reincidente genérico.A discussão, neste habeas corpus,é sobre o percentual exigido, atualmente,quandonão se trata de reincidência específica.
+Não olvido o entendimento divergente da Quinta Turma, o que sinaliza que ainda existirá um estágio de amadurecimento da controvérsiano âmbito da Terceira Seção, mas a questão foi enfrentada pela Sexta Turma e ainda não existe manifestação do Supremo Tribunal sobre o tema.
+Nareunião do colegiado, em6/10/2020, por unanimidade, ficou delimitado que a alteração legislativa trazida pela Lei 13.964/2019 revogou o art. 2º, § 2º, da Lei 8.072/1990 e, atualmente, como não é possível interpretação desfavorável ao réu, não é possível desconsideraramudança na redação doart. 112 da LEP e o princípio dofavor rei.
+A Lei n. 13.964/2019, de fato, teve o intuito de impor mais rigor na aplicação da lei penal. Entretanto, talvez por erro, a atual redação do art. 112 da LEP criou verdadeira lacuna sobre a progressão de regime em hipótese de condenado por crime hediondo (ou a ele equiparado) e comum. A integração tem de ser feita pelo aplicador do direito, em benefício do apenado (analogia in bonam partem).
+O princípio da legalidade, fundamento central do direito penal brasileiro e instrumento de controle da atuação do Estado não somente quando estabelece normas incriminadoras, mas também quando dispõesobre a execução das sanções penais, impede a analogia que prejudique o criminoso.
+Por isso, na hipótese de reincidência genérica, os ilícitos devem ser considerados isoladamente, cada qual de acordo com sua natureza, com a aplicação retroativado art. 112, V, da LEPao hediondo ou equiparado, vedada apenas a conjugação de leis penais (lex tertia).
+Esse entendimento foi firmado pela Sexta Turma no julgamento doHC n. 607.190/SP,da relatoriado MinistroNefi Cordeiro.Idêntica compreensão foi objetodoHC n. 581.315/PR, do MinistroSebastião Reis Júnior.
+Confira-se:
+ ..
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+(HC n. 605.783/SP, Rel. MinistroNefi Cordeiro, 6ª T., DJe 19/10/2020).
+Na atual redação do art. 112, VII, da LEP, a palavra "reincidente" está acompanhada da expressão "na prática de crime hediondo ou equiparado", o que denota uma clara restrição. A exigência de 60% do cumprimento da pena refere-se ao reincidente na prática dessa natureza de delito, e não é possível corrigir o erro do legislador em prejuízo do sentenciado. A observância ao princípio da legalidade impõe a concessão da ordem.
+Art. 66.Compete ao Juiz da execução (destaquei):
+I- aplicar aos casos julgados lei posterior que de qualquer modo favorecer o condenado;
+Incide, na situação doreincidente genérico,oart. 112, V, da LEP, lei posterior mais benéfica, que retroage parabeneficiá-lo (art. 66, I, da LEP), com a exigência, para a progressão de regime no que tange ao crime hediondo ou equiparado, do resgate de40%da pena(e não de 3/5).
+À vista do exposto,nego provimento ao agravo regimental.
