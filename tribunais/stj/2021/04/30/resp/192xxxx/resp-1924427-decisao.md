@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ALAN JOSÉ SALLES ZOCCOLI, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO SOLIDÁRIA. EXCESSO DE EXECUÇÃO. INOCORRÊNCIA. RECURSO PROTELATÓRIO. LITIGÂNCIA DE MÁ-FÉ. IMPOSIÇÃO DE MULTA.
+1. A exequente individualizou as verbas pretendidas e não fez incidir juros moratórios, não sendo hipótese de execução solidária ou de excesso de execução.
+2. Diante da natureza manifestamente protelatória do recurso, resta caracterizada a litigância de má-fé, pelo que se impõe a respectiva multa, nos termos dos arts. 80 e 81 do CPC" (fl. 132e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 152/156e), os quais restaram rejeitados (fls. 175/178e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 295 do Código Civil; 7º, 9º, 77, 80, 831 e 1.015, todos do CPC, sustentando que inexiste solidariedade no pagamento de honorários de sucumbência; que há excesso de execução, "diante de prova inconteste de que o exequente, à margem do título judicial e da uníssona jurisprudência do Superior Tribunal de Justiça, aplica juros moratórios totalmente indevidos sobre a base de cálculo tentando inflar sobremaneira o valor devido" (fl. 198e); que não restou configurada a litigância de má-fé, eis que apenas exerceu seu direito ao duplo grau de jurisdição e não houve prejuízo à parte contrária (fls. 192/202e).
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 212/213e).
+A irresignação não merece prosperar.
+Na origem, trata-se de decisão que julgou improcedente a impugnação, em ação de cumprimento de sentença, apresentada pelos executados quanto à alegação de excesso de execução.
+O executado ora recorrente interpôs agravo de instrumento, restando mantida a decisão, pelo Tribunal local.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 295 do Código Civil, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo ").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ademais, ainda que não fosse o caso de se aplicar o referido óbice, o Tribunal de origem, no ponto, consignou que "verifico que na inicial do cumprimento de sentença (originário, ev. 1 - INIC1) o total pretendido pela exequente (R$ 64 6.739,36) foi dividido entre 8 (oito) executados, cujo valor individual foi dimensionado em R$ 80.842,42 para cada um dos executados. Assim, quanto ao argumento de execução solidária e sem a individualização da verbas pretendida, não assiste razão ao agravante" (fl. 135e).
+Portanto, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, o que encontra óbice, nos termos da Súmula 7/STJ.
+Quanto à alegação de excesso de execução, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "em relação ao excesso de execução, igualmente verifico que no cálculo que acompanha a petição inicial (originário, ev. 1 - CALC3) consta apenas correção monetária da verba honorária sucumbencial e das custas, não havendo qualquer incidência de juros moratórios" (fl. 135e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Por fim, cumpre ressaltar que é pacífico nesta Corte o entendimento segundo o qual "a modificação do entendimento firmado pelo Tribunal de origem, quanto à existência de litigância de má-fé, demandaria incursão no acervo fático-probatório dos autos, defesa em sede de recurso especial, nos termos do verbete sumular 7/STJ" (STJ, AgRg no AREsp 331.545/SE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 25/09/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
