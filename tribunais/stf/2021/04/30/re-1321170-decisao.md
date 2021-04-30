@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou improcedente pedido de revisão do cálculo do débito sujeito a precatório. No extraordinário, o recorrente aponta violados os artigos 100, parágrafos 5º e 12, da Constituição Federal e 78 do Ato das Disposições Constitucionais Transitórias. Afirma a não incidência de juros entre a expedição do precatório e o final do exercício financeiro seguinte. Articula com a inviabilidade de cumulação de juros moratórios e remuneratórios.
+    2. Colho os seguintes trechos da decisão recorrida:
+    AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. EXECUÇÃO. PRECATÓRIO. LEI 11.960/2009. JUROS COMPENSATÓRIOS E MORATÓRIOS EM CONTINUAÇÃO. Interposição contra decisão que, em ação de desapropriação em fase de execução, determinou a remessa dos autos para o contador judicial a fim de refazimento dos cálculos, considerando-se que devem ser excluídos os juros moratórios e compensatórios no período de vigência da Lei nº 11.960/09, em obediência ao art. 100, § 12, da CF/88, com a redação dada pela EC 62/09. Inconformismo do expropriado. Cabimento. Decisão agravada que contraria Acórdão transitado em julgado, desta C. Décima Terceira Câmara de Direito Público. Inaplicável o artigo 78 da ADCT, tendo em vista o que ficou decidido nas ADIs 2356 e 2362. Súmula Vinculante nº 17 que não tem efeito retroativo. Acórdão que determinou, ainda, a incidência d lei Federal nº 11.960/09 após a sua entrada no ordenamento jurídico. Os critérios para pagamento do precatório foram acobertados pela coisa julgada. Ofensa ao princípio da imutabilidade das decisões e da coisa julgada. Decisão reformada. Recurso provido.
+    [...]
+    Conforme referido Acórdão, para os cálculos judiciais foi afastada a aplicação do art. 78 do ADCT em razão do quanto decidido nas ADI's 2356 e 2362.
+    Com relação aos juros de mora, a Ação Direta de Inconstitucionalidade nº 2362 reconheceu que a moratória do art. 78 do ADCT, enquanto mantida a medida cautelar, não poderia produzir efeitos, ou seja, tornou inábil a EC 30/2000 para conceber ou inibir os juros do período.
+    No tocante à Súmula Vinculante 17, reconheceu sua ineficácia retroativa além de evidente violação ao direito adquirido, ato jurídico perfeito e a coisa julgada.
+    Mostra-se indevida a exclusão dos juros moratórios e compensatórios em referência ao período pelo qual o crédito dos agravantes foi submetido à moratória constitucional do art. 78 do ADCT.
+    Como já salientado, no caso em exame, há coisa julgada, que não pode ser alterada por lei posterior, sob pena de violação do art. 5º, XXXVI, da Constituição Federal.
+    Os critérios para pagamento do precatório foram acobertados pela coisa julgada antes mesmo do advento das alterações legislativas que o agravado pretende ver aplicadas no caso destes autos.
+    Deve-se observar a estabilidade das relações jurídicas, não se podendo aceitar a revisão de decisões judiciais anteriores pela superveniência de sucessivas modificações legislativas ou jurisprudenciais, sob pena de perpetuação da lide.
+    A pretensão do agravado de excluir os juros moratórios fixados em sentença transitada em julgado implicaria ofensa ao princípio da imutabilidade das decisões e da coisa julgada.
+    O Supremo concluiu pela não incidência de juros no pagamento de precatórios no período entre a expedição do precatório e o final do exercício financeiro seguinte e no período de parcelamento do precatório, de acordo com o artigo 78 do Ato das Disposições Transitórias da Carta Federal, acrescido pela Emenda Constitucional nº 30/2000. A situação concreta, no entanto, distancia-se da retratada no precedente, ante circunstância ressaltada no acordão recorrido: o fato de a decisão, quanto à atualização e à acumulação, estar coberta pela preclusão maior, a coisa julgada.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 30 de abril de 2021.
+Ministro MARCO AURÉLIO
+Relator
