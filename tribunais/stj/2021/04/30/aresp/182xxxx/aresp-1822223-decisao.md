@@ -1,0 +1,15 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VIVIANE DOS SANTOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PLANO DE SAÚDE - Internação em clínica não credenciada - Transtornos psiquiátricos devido à utilização de múltiplas drogas - Solicitação de reembolso - Alegação pela ré de que não houve negativa do tratamento solicitado - Ausência de provas da negativa do plano, bem como que não havia clínica credenciada fornecedora do serviço - Ônus da prova que cabia a autora - Autora que foi internada em clínica particular antes da resposta do plano acerca da solicitação - Ação improcedente - Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts. 35-C da Lei n. 9.656/1998 e 6º, inciso VIII e 51, incisos IV e XV, do CDC.
+Alega, em síntese, que seria necessária a inversão do ônus da prova, "uma vez que a ora recorrente é a parte mais fraca da relação contratual, além de serem verossímeis as alegações trazidas na exordial".
+Ressalta que "a internação da recorrente foi realizada em caráter de urgência, não tendo nenhuma outra clínica credenciada à recorrida que pudesse prestar o mesmo tipo de tratamento que a citada clínica, ou ao menos nos mesmos moldes desta".
+Defende ser "obrigatória a cobertura, ou seja, não apenas parcial, mas sim de forma integral, dos tratamentos realizados em situações de urgência/emergência".
+É o relatório.DECIDO.
+2. Em relação ao artigo 51, incisos IV e XV, do CDC, a alegação genérica de violação à lei federal, sem indicar em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+3. No mais, as matérias referentes aos artigos 35-C da Lei n. 9.656/1998 e 6º, inciso VIII, do CDCnão foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
