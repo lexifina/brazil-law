@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por WASHINGTON LUIZ SOARES PASSOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS ILEGITIMIDADE PASSIVA DO BANCO DO BRASIL - AD CAUSAM LEGITIMIDADE DA UNIÃO - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega interpretação divergente dos arts. 186 e 927 do CC e 14 do CDC, no que concerne à necessidade de inscrição anterior para configurar o dano moral, trazendo o(s) seguinte(s) argumento(s):
+Como pode ser extraído do trecho do acórdão da Apelação proferida pelo Tribunal de Justiça do Estado do Mato Grosso do Sul a existência de anotações anteriores ou posteriores ao cadastro indevido, quando não coexistentes, não servem para afastar o dano moral. (fls. 206).
+No entanto, o relator do Acórdão Recorrido entendeu que a simples inadimplência da Recorrente (parcelas em atraso), ainda que sem existência de inscrição em rol de inadimples, é suficiente para rechaçar o direito a compensação moral, contrariando entendimento de outros Tribunais, dando aos art. 186 e 927 do Código Civil e art. 14 do CDC interpretação divergente, (fls. 206).
+É, no essencial, o relatório. Decido.
+O acórdão recorrido assim decidiu:
+A matéria devolvida à apreciação se restringe à configuração dos danos morais e à majoração dos honorários advocatícios.
+No que concerne à ilicitude da conduta reconhecida na sentença, não houve recurso da parte demandada, razão pela qual, em relação a essa questão, operou-se a preclusão máxima, descabendo qualquer discussão a esse respeito.
+A prova dos autos demonstra que a parte autora firmou termo de adesão do cartão "Verde Card" e assinou termo de confissão de dívida. Entretanto, os dados apresentados diferem daqueles constantes na confissão de dívida firmada pela autora.
+Contudo, no que tange à indenização por danos morais, tenho que não restou comprovado o abalo moral, uma vez que a autora estava inadimplente com o pagamento de outra divida com a demandada. (fls. 142).
+Assim, no que concerne à controvérsia debatida nos autos, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o paradigma indicado, que não decidiu a questão com base nas mesmas circunstâncias acima delineadas.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.) Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
