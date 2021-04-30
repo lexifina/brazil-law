@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por SUELY COTA FERREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGOCIAÇÃO DE EMPRÉSTIMO. SEGURO. VENDA CASADA. DIRECIONAMENTO DE PARTE DO VALOR NEGOCIADO PARA O PROGRAMA DE CAPITALIZAÇÃO DENOMINADO OUROCAP, SEM ANUÊNCIA DA PARTE AUTORA. SENTENÇA QUE CONDENOU O RÉU À DEVOLUÇÃO DA DIFERENÇA DOS VALORES PAGOS PELA AUTORA A TÍTULO DE SEGURO; A CREDITAR A QUANTIA RETIRADA E APLICADA NO OUROCAP E A PAGAR O VALOR DE R$ 5.000,00 A TÍTULO DE DANOS MORAIS. RECURSO DO RÉU. FALHA NA PRESTAÇÃO DE SERVIÇO CONFIGURADA. ARGUMENTOS GENÉRICOS QUE NÃO IMPUGNAM OS FUNDAMENTOS DA SENTENÇA NA PARTE REFERENTE À DEVOLUÇÃO DA DIFERENÇA DO VALOR PAGO PELO SEGURO. SENTENÇA MANTIDA NESTA PARTE. HIPÓTESE QUE NÃO CARACTERIZA DANO MORAL. MERO ABORRECIMENTO. INTELIGÊNCIA DA SÚMULA 75 DO TJERJ. SUCUMBÊNCIA RECÍPROCA. CUSTAS E HONORÁRIOS ALTERADOS. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO PARA AFASTAR A CONDENAÇÃO POR DANOS MORAIS.
+Quanto à controvérsia, alega violação do art. 6º, VI, do CDC, no que concerne à configuração do dano moral, trazendo os seguintes argumentos:
+O ponto controvertido e que enseja este Recurso Especial está na ofensa ao artigo 6º, inciso VI, do Código de Defesa do Consumidor.
+Foge à lógica que o evento danoso seja reconhecido mas exclua a indenização por dano moral.. o que contraria o aludido dispositivo legal.
+Não se pode admitir que seja mero constrangimento não indenizável o que ocorreu.
+ ..
+Em verdade, as empresas e entes públicos acabam não temendo errar por não ter que muito pagar por seus erros.. Assim, os descontroles aumentam, bem como os danos ao consumidor e ao contribuinte..
+Além disso, o V. acórdão excluiu o valor da indenização por danos morais sem adequada fundamentação.
+Há que se atentar para importante e aplicável à espécie concreta a regra contida no art. 5º da LICC, o qual orienta o julgador a observar os fins sociais a que a lei se dirige.
+Assim, não pode ter cabimento a r. decisão colegiada recorrida, o que nos leva a concluir que NÃO houve correta análise ou qualitativa avaliação do que há nos autos, o que dá lugar à possibilidade de revisão do julgado, com revisão/revaloração das provas, como admite a jurisprudência do E. Superior Tribunal de Justiça. (fls. 311/313).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O dano moral deve ser compreendido como dor, vexame, sofrimento ou humilhação que fogem à normalidade e interferem na esfera psíquica do indivíduo, causando-lhe desequilíbrio efetivo em seu bem-estar.
+Somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do indivíduo ensejam à indenização por danos morais. No caso concreto, não se verifica nenhum abalo à sua dignidade ou mácula ao nome da apelante, capaz de gerar prejuízo de ordem moral.
+Ademais, certo é que não se deve deferir a indenização por dano moral por qualquer aborrecimento. Caso contrário, além do enriquecimento indevido, estaria se colaborando com a banalização do dano moral, especialmente com a chamada "indústria do dano moral", tão combatida por nosso Tribunal (fl. 268).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
