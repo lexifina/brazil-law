@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED DE TATUÍ - COOPERATIVA DE TRABALHO MÉDICO, fundamentado naalínea"a" do permissivo constitucional.
+Recurso especial interposto em: 18/11/2020.
+Concluso ao gabinete em: 19/04/2021.
+Ação: declaratória de nulidade de cláusula contratual ajuizada por NADIR POLES em face da recorrente, visando a extirpação do reajuste de42% em contrato de plano de saúde coletivo.
+Sentença: julgou improcedente a demanda.
+Acórdão: deu provimento à apelação do recorrido, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. Plano de Saúde. Ação declaratória c. c. pedido de nulidade de cláusula contratual. R. Sentença de improcedência. Insurgência em relação a reajuste por sinistralidade aplicado no contrato na ordem de 42%. Quantidade de beneficiários no contrato que diminui anualmente. Aumento que, se mantido, inviabilizará a manutenção do contrato, colocando o consumidor em grande desvantagem. Modelo contratual que apenas beneficia a ré, servindo como meio de expulsão indireta dos beneficiários idosos. Substituição do reajuste aplicado, por equidade, por aquele autorizado pela ANS para o período, visando manter o equilíbrio econômico financeiro do contrato, sem onerar demasiadamente o consumidor. Observância do princípio da boa-fé e função social do contrato, que norteiam os contratos consumeristas. R. sentença reformada. Recurso provido.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados
+Recurso especial: alega violação dos arts. 1022, 489, 466 e 373, I, do CPC, 16, XI, e 35-E, §2º,da Lei 9.656/98. Além de negativa de prestação jurisdicional, sustenta que a perícia foi realizada com respeito às normas técnicas e evidenciou o desequilíbrio no contrato, de modo que cabível a incidência do reajuste por sinistralidade previsto no contrato. Aduz que a aplicação do reajuste não demanda a prévia aprovação da ANS por se tratar de contrato de plano de saúde coletivo.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC/15 residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca da validade do laudo pericial produzido em relação tanto ao aumento da sinistralidade, quanto do percentual de reajuste que seria compatível para reduzir o desequilíbrio no contrato, uma vez que limitou-se a fundamentar que os cálculos efetuados na perícia seguiam a previsão contratual.
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parte agravante.
+E no caso, a jurisprudência do STJ, quanto aos contratos de plano de saúde firmados na modalidade coletiva, entende legítima a aplicação de reajuste por sinistralidade, desde que devidamente previsto em contrato, e que os índices editados pela ANS somente são aplicáveis aos contratos firmados na modalidade individual ou familiar. Nesse sentido:AgInt no REsp 1852390/SP, 3ª Turma, DJe 28/09/2020;AgInt no AREsp 1465860/DF, 4ª Turma, DJe 20/08/2019; eAgInt no AREsp 1269614/SP, 3ª Turma, DJe 29/06/2018.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Recurso especial conhecido provido.
