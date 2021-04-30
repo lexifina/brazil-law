@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" da Constituição Federal, interposto por REAL GRANDEZA FUNDAÇÃO DE PREVIDÊNCIA E ASSISTÊNCIA SOCIALcontra v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO EXTRAJUDICIAL - PRETENSÃO DE PENHORA DE 10% SOBRE PROVENTOS DE APOSENTADORIA - DEVEDOR COM IDADE SUPERIOR A SETENTA E CINCO ANOS - COMPROMETIMENTO DA SOBREVIVÊNCIA DO EXECUTADO - VALOR DA PENHORA CONSIDERADO ÍNFIMO EM COMPARAÇÃO AO DÉBITO EXEQUENDO - RECURSO CONHECIDO E DESPROVIDO.
+A regra geral da impenhorabilidade de salários, vencimentos, proventos etc., somente pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+Não se torna possível a penhora de 10% sobre os proventos de aposentadoria, uma vez que o valor, a ser descontado mensalmente, é irrisório, diante do montante cobrado, além de restar evidenciado que haverá comprometimento à subsistência do devedor, pessoa com idade superior a setenta e cinco anos." (e-STJ, FL. 44)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 708/711).
+Nas razões do recurso especial, o agravante alega violação aos artigos 421 do CC; 1º, 9º, § 1º, 31, § 1º, da LC 109/00; 2º, §2º, 6º, § 2º, 5º, da Lei nº 10.820/03, alterada pela Lei 10.953/04; 489 e 1.022 do CPC/15.Sustenta, em síntese, a) negativa de prestação jurisdicional; b) ser possívela penhora de 10% dos rendimentos doagravadouma vez que pequena constrição da remuneração desta não comprometeria sua subsistência, além de dar efetividade à função social do contrato.
+Contrarrazões apresentadas às fls. 637/641, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-MS analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação.
+Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA. (..)
+2.Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido
+analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos. (..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel.Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. CONTRATO DE EMPREITADA E FORNECIMENTO DE MATERIAL. MÁ EXECUÇÃO DA OBRA. DANO MATERIAL. VIOLAÇÃO AO ART. 1.022 DO NOVO CPC. NÃO OCORRÊNCIA. CONCLUSÃO ACERCA DA CULPA CONCORRENTE. SÚMULAS 5 E 7 DO STJ.
+1.Não há falar em violação ao art. 1.022 do Novo Código de Processo Civil (art. 535 do Código de Processo Civil de 1973), pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais. Além disso, não significa omissão quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+(..) 4. Agravo interno não provido."
+(AgInt no AREsp 1083279/RJ, Rel.Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, julgado em 26/09/2017, DJe 02/10/2017 - grifou-se)
+O Tribunal de origem, consignou que o agravadonão possui renda suficiente para, sem prejudicar sua subsistência, adimplir com a obrigação através do deferimento da penhora de seus proventos.
+É o que se extrai do seguinte trecho do acórdão recorrido:
+"Não sendo encontrados bens passíveis de penhora (BACENJUD, INFOJUD E RENAJUD), requereu a exequente, tendo em vista que o exequente percebe complementação de aposentadoria, seja deferida a penhora mensal no percentual de 10% dos rendimentos do devedor, aduzindo que este percebe proventos mensais de R$ 1.999,26 (mil, novecentos e noventa e nove reais e vinte e seis centavos) que, após descontos de R$ 644,58 (seiscentos e quarenta e quatro reais e cinquenta e oito centavos), reduzem para um valor líquido de R$ 1.354,68. (mil, trezentos e cinquenta e quatro reais e sessenta e oito centavos). (..)De fato, dispõe o art. 833, inciso IV, do Código de Processo Civil, que são impenhoráveis os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal.
+Contudo, em situações envolvendo o tema, esta 4ª Câmara Cível, em consonância com precedentes do Superior Tribunal de Justiça, vem decidindo pela admissão da penhora de verba salarial, desde que não haja comprometimento para a subsistência do devedor. (..)
+"Entretanto, em que pese a relativização da regra de impenhorabilidade da verbas salariais, verifica-se, no presente caso, o perigo de dano inverso, eis que a determinação do desconto de 10% do subsídio do agravado, comprometeria sua sobrevivência, tendo em vista que, através dos comprovantes de pagamento da aposentadoria complementar do agravado, observa-se que ele percebe líquido o valor de pouco mais de trezentos reais (f. 133/134, autos principais).
+Ora, se considerarmos que o agravante percebe o valor líquido de pouco mais de trezentos reais, descontando-se o percentual de 10% (dez por cento), lhe restará um valor ínfimo para sua sobrevivência, considerando, ainda, que a exequente não anexou qualquer comprovante de sua aposentadoria junto ao INSS; o que, convenhamos, vai de encontro às hipóteses que excetuam a impenhorabilidade prevista no art. 833 do Código de Processo Civil, e aos entendimentos já pacificados pela jurisprudência, ainda mais se considerarmos que o agravante é pessoa idosa de mais de 75 (setenta e cinco) anos de idade.Por sua vez, há que se considerar o valor do débito exequendo, que supera a cifra de R$ 45.000,00 (quarenta e cinco mil reais), sendo lógica a conclusão de que a penhora de 10% da aposentadoria do agravado terá, além da consequência de atingir a dignidade do devedor e de sua família, a não satisfação do débito durante muito tempo." (e-STJ, fls. 46/49)
+Atualmente têm prevalecido nesta Corte Superior que regra da impenhorabilidade pode ser relativizada quando a hipótese concreta dos autos permitir que se bloqueie parte da verba remuneratória do devedor inadimplente, ocasião em que deve ser preservado montante suficiente a assegurar a subsistência digna do executado e sua família.
+Nesse sentido destaca-se precedentes da Corte Especial do STJ:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE.POSSIBILIDADE.
+1. Ação de despejo por falta de pagamento cumulada com cobrança, ajuizada
+em desfavor de fiadores de contrato de locação.
+2. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+3. Na espécie, imperioso mostra-se o retorno dos autos à origem para que a
+questão seja decidida à luz da jurisprudência constante deste voto,
+devendo ser analisada a possibilidade de, no caso concreto, ser fixado
+percentual de desconto sobre o salário dos recorridos.
+4. Agravo interno não provido.
+(AgInt nos EREsp 1701828/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/06/2020, DJe 18/06/2020, g.n)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO
+IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente
+em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais.
+Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar
+guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018, g.n)
+No mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE ALUGUEL. FIADOR. REGÊNCIA DO CPC/73. VERBA REMUNERATÓRIA.IMPENHORABILIDADE. FLEXIBILIZAÇÃO. POSSIBILIDADE EXCEPCIONAL.PROVENTOS DE APOSENTADORIA. SÚMULA Nº 83/STJ. REVISÃO DO ASSENTANDO PELA CORTE DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. À luz exclusivamente do CPC/73, esta Corte admite a relativização excepcional da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/1973 para alcançar parte da remuneração do devedor com o fito de satisfação do crédito não alimentar, desde que garantida a subsistência digna do executado e de sua família, conforme análise do caso concreto. Precedentes. - EREsp 1582475/MG, Rel. Ministro Benedito Gonçalves, Corte Especial.
+2. No caso concreto, o Tribunal local expressamente reconheceu que a constrição de 20% dos proventos de aposentadoria não comprometeria a manutenção digna do devedor e de sua família, razão pela qual deve prevalecer o entendimento perfilhado na decisão embargada. Súmula nº 83/STJ.
+3. A conclusão a que chegou o Tribunal de origem, no sentido de que a penhora não comprometeria a sobrevivência do devedor nem de sua família e de que não foram comprovados os problemas de saúde alegados, decorreu da análise da prova dos autos e seu reexame encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1602944/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+Na espécie, o TJ/MSconsignou que o agravadonão possui renda suficiente para, sem prejudicar sua subsistência, adimplir com a obrigação através do deferimento dapenhorade seus proventos.
+Nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça.Dessa forma, incide, in casu, o óbice processual sedimentado no verbete da Súmula 83 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
