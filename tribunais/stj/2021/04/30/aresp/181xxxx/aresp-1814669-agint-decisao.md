@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por RUTE DE MOURA PACHECO contra decisão monocrática proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação aos fundamentos da decisão então agravada consistentes na aplicação das Súmulas 7 e 83 do STJ (e-STJ, fls. 328-330).
+Em suas razões recursais (e-STJ, fls. 333-340), a parte agravante alega a impugnação específica dos aludidos óbices sumulares que motivaram adecisão agravada.
+Impugnação apresentada às fls. 343-353 e 358-363 (e-STJ).
+É o relatório. Decido.
+A questão de direito objeto do recurso especial - definir se o atraso na baixa de gravame de alienação fiduciária no registro de veículo automotor por parte de instituição financeira configura dano moral in re ipsa - foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps 1.881.453/RS e 1.881.456/RS delimitado o Tema 1.078 nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO DE INDENIZAÇÃO. ALIENAÇÃO FIDUCIÁRIA. DEMORA NA BAIXA DE GRAVAME DO VEÍCULO. DANO MORAL IN RE IPSA.
+1. Delimitação da controvérsia: "Definir se o atraso na baixa de gravame de alienação fiduciária no registro de veículo automotor por parte de instituição financeira caracteriza dano moral in re ipsa"
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp 1881453/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, em juízo de reconsideração, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
