@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 644/647, e-STJ, por meio da qual dei provimento ao recurso especial interposto por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIARIOS S.A para afastar a sua condenação ao pagamento de compensação por danos morais.
+A parte embargante sustentou a ocorrência de contradição. Afirmou que foi desconsiderado, no caso dos autos, que o atraso na entrega do imóvel foi superior a treze meses e que o solo onde o imóvel foi edificado estava contaminado.
+A parte embargada não apresentou contrarrazões, conforme certidão de fl. 660, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Não há contradição a ser sanada. Com efeito, diferentemente do que alega a parte recorrente, a compensação por danos morais foi arbitrada, pelo Tribunal de Justiça do Rio de Janeiro, exclusivamente em razão do atraso na entrega do imóvel. Nesse sentido, como ressaltado, a jurisprudência do STJ orienta que o mero descumprimento do prazo contratual para entrega do imóvel, quando desacompanhada da demonstração de maiores consequências à moral, dignidade ou personalidade do adquirente, como ocorrido na espécie, não configura danos morais compensáveis.
+Verifico que a parte embargante pretende, na verdade, sob o pretexto de existência de contradição, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha, eventualmente, a prequestionar os pontos levantados pela parte.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
