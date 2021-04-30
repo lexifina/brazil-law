@@ -1,0 +1,17 @@
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES DE EDUCAÇÃO BÁSICA DA REDE PÚBLICA ESTADUAL. LEI FEDERAL Nº 11.738/2008. PISO SALARIAL E CONSEQUENTES REAJUSTES. CONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 2º, 37, caput, X e XIII, 61, § 1º, II, “a”, 169, § 1º, I e II, e 206, VIII, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Inicialmente, ante o julgamento da ADI 4.848/DF, levanto o sobrestamento do presente feito.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que “é constitucional a norma federal que prevê a forma de atualização do piso nacional do magistério da educação básica” (ADI 4.848, Rel. Min. Roberto Barroso, DJe 13.3.2021), razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados.
+    Nesse sentido foi o julgamento do Tema nº 1.134 da sistemática da repercussão geral, no qual o Plenário desta Suprema Corte fixou a Tese de que “Assentada a constitucionalidade do piso salarial profissional nacional para os profissionais do magistério público da educação básica e sua forma de atualização, é infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa aos reajustes de vencimento dos servidores do Grupo de Atividades de Educação Básica, com fundamento na Lei 21.710/2015 do Estado de Minas Gerais”. O acórdão está assim ementado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORES DE EDUCAÇÃO BÁSICA DA REDE PÚBLICA ESTADUAL. LEI FEDERAL 11.738/2008. APLICABILIDADE DO PISO SALARIAL E CONSEQUENTES REAJUSTES. CONSTITUCIONALIDADE. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE 4.167 E 4.848. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. LEI 21.710/2017 DO ESTADO DE MINAS GERAIS. VALIDADE DAS ALTERAÇÕES REALIZADAS POR EMENDA PARLAMENTAR. CONCEITO DE PERIODICIDADE DO REAJUSTE. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AUSÊNCIA DE REPERCUSSÃO GERAL” (RE 1309924 RG, Relator(a): Ministro Presidente, Tribunal Pleno, julgado em 01.4.2021, PROCESSO ELETRÔNICO DJe-069 DIVULG 12.4.2021 PUBLIC 13.4.2021).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2021.
+Ministra Rosa Weber
+Relatora
