@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c" da Constituição Federal, interposto por MARLY GUIMARÃES GRILO contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"CIVIL. CONSUMIDOR. CONTRATO. SEGURO SAÚDE. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE INFORMAÇÃO À AUTORA SOBRE A PRORROGAÇÃO DA VIGÊNCIA DO CONTRATO. RECONHECIMENTO DE DÉBITO DA MENSALIDADE DE FEVEREIRO. ABUSIVIDADE NA COBRANÇA RELATIVA AO MÊS DE MARÇO. AVISO DE INSERÇÃO DO NOME DA AUTORA NOS CADASTROS RESTRITIVOS DE CRÉDITO. DANO MORAL NÃO CONFIGURADO. SUCUMBÊNCIA RECÍPROCA. DECAIMENTO DE PARTE DO PEDIDO.
+De acordo com o princípio da transparência, o prestador de serviço deve transmitir ao consumidor todas as informações indispensáveis à contratação ou utilização do serviço, no entanto não há demonstração nos autos de que a autora fora informada da liminar concedida pela Justiça de São Paulo na qual determinava que a ré mantivesse seus serviços aos contratados até 30/06/2009.
+Diante do contexto fático-probatório, depreende-se que a autora, ao migrar para o novo plano, em 19/02/2009 (arquivo 26), obedeceu às determinações previstas em documento sindical acostado pela autora às fls. 73 (arquivo 50), assim tenho que apenas o pagamento referente à mensalidade de fevereiro é devido.Verificada a abusividade na cobrança da mensalidade correspondente ao mês de março, cabe a devolução do que foi pago indevidamente em dobro, conforme preceitua o art. 42, do CDC. Assim, faz necessário o reconhecimento da inexistência da dívida referente ao mês de março, bem como a exclusão do nome da autora dos cadastros restritivos de crédito, se houver, sob pena de multa de R$ 50,00 por dia a contar da intimação da obrigação de fazer (art. 461- A do CPC).
+Considerando o inadimplemento da autora em relação à mensalidade de fevereiro e o mero aviso de inserção do nome da autora no Serasa (arquivo 35) entendo que não restou comprovado qualquer ato ilícito por parte da ré, que pudesse justificar sua responsabilidade e consequente reparação por dano moral.
+Honorários advocatícios corretamente arbitrados.
+Parcial provimento do recurso da autora para reconhecer o indébito do mês de março e daí seja declarada a inexistência de dívida, bem como seja retirado o nome da autora dos registros do cadastro de devedores, se houver, pena de multa de R$ 50,00 por dia a contar da intimação da obrigação de fazer (Art. 461- A CPC).
+Parcial provimento da ré para reconhecer o débito do mês de fevereiro e excluir a condenação por dano moral.
+Sucumbência recíproca caracterizada." (e-STJ, fls. 515/516)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 498/503).
+Nas razões do recurso especial, o agravante alega violação aos artigos 186, 187, 927 e 944 do CC; arts. 6º, I, III, IV, V, VI e VIII, 12, 14, 39, 47 e 51 do Código de Defesa do Consumidor, art. 20 do CPC, bem como divergência jurisprudencial. Sustenta, em síntese, a) "restou cabalmente provado nos autos, que a Recorrente sofreu constrangimentos, prejuízos, aborrecimentos, transtornos, enfim todas as atitudes indesejadas por qualquer ser humano, atitudes essas ressarcíveis na forma da legislação civil, e com valores dignos com seus prejuízos, merecendo a reforma do decisum a título da indenização moral ora questionado" (e-STJ, fl. 530);e b)seja reconhecida a sucumbência exclusiva da Recorrida.
+Contrarrazões apresentadas às fls. 637/641, e-STJ.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+A Corte de origem, após acurada análise do conteúdo fático-probatório dos autos,no que tange à indenização por dano moral,consignou, na oportunidade, o seguinte:
+"Nesse diapasão, considerando o inadimplemento da autora em relação à mensalidade de fevereiro e o mero aviso de inserção do nome da autora no Serasa (arquivo 35) entendo que não restou comprovado qualquer ato ilícito por parte da ré, que pudesse justificar sua responsabilidade e consequente reparação por dano moral.
+Isto porque não há uma intromissão mais profunda no psiquismo do ser humano que tem sua esfera afetiva ou volitiva ou intelectual atingida, vendo reduzida, ainda que por fases transitórias, sua capacidade de gozo individual, familiar, social ou recreativa.
+Experimentou mero dissabor, que não pode ser alçado ao patamar do dano moral, pois não é agressão que exacerba a naturalidade dos fatos da vida, causando fundadas aflições ou angústias.No caso em exame, do fato não advieram consequências mais gravosas para a segunda apelante (autora), como seria se seu nome tivesse sido inserido nos cadastros de proteção ao crédito ou que a cobrança tivesse sido feita de forma vexatória, revelando-se correto o afastamento da pretensão reparatória por danos morais." (e-STJ, fls. 421/422)
+Nesse contexto, concluir de forma diametralmente oposta, como pretende orecorrente em suas razões recursais, no sentido de que cabe indenização por danos morais, no caso em voga, demandaria o revolvimento de suportefático-probatório dos autos, o que é inviável em sede de recurso especial,a teor do que dispõe a Súmula 7 deste Pretório.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. BLOQUEIO DE CARTÃO DE CRÉDITO.ANOTAÇÕES PREEXISTENTES. DEVER DE INDENIZAR. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA N. 385/STJ EM RELAÇÃO AO CREDOR. PRECEDENTES. HUMILHAÇÃO E VEXAME NÃO VERIFICADOS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática. Princípios da economia processual e da fungibilidade.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula n. 385/STJ).
+3. A Súmula n. 385/STJ também é aplicada às ações voltadas contra o suposto credor que efetivou inscrição irregular.
+4. Afastar as conclusões do Tribunal de origem acerca da inexistência de provas que demonstrem que a parte sofreu humilhação decorrente do bloqueio do cartão de crédito enseja a incursão no acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n.
+7/STJ.
+5. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+6. Embargos de declaração recebidos como agravo regimental, ao qual se
+nega provimento.
+(EDcl no AREsp 709.162/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/03/2016, DJe 28/03/2016, g.n)
+No que tange aos honorários sucumbenciais, o Tribunal de origem manifestou-se nos seguintes termos:
+"A importância relativa aos honorários advocatícios não comporta a majoração almejada pela segunda apelante (autora), visto que foi arbitrada adequadamente levando em consideração o trabalho desenvolvido pelo advogado e a complexidade da causa.Por fim, ao reconhecer o débito do mês de fevereiro e ao afastar da sentença a condenação por dano moral, a autora decaiu de parte do pedido formulado na inicial, devendo incidir a sucumbência recíproca" (e-STJ, fls. 423/424)
+Ocorre que a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO BANCÁRIO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA.
+AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFEITO DE SERVIÇO. PRESCRIÇÃO QUINQUENAL. CDC. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. REVISÃO. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. FALHA DE SERVIÇO. FRAUDE BANCÁRIA. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. EXCLUSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. ÔNUS DE SUCUMBÊNCIA. MANUTENÇÃO. REEXAME FÁTICO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+12. Ajurisprudência desta Corte é firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+13. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada.
+14. Agravo interno não provido."
+(AgInt no AREsp 1.173.934/SP, Rel.Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO DAS DESPESAS PROCESSUAIS. ART. 86 DO CPC/2015. QUANTITATIVO. SÚMULA 7. AGRAVO INTERNO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. "As despesas processuais e os honorários de advogado deverão ser rateados entre as partes, na medida de sua parte na derrota, isto é, de forma proporcional ao seu decaimento. Precedentes" (AgRg no REsp 1.354.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe de 30/06/2015).
+3.A apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum demandam a incursão no suporte fático-probatório dos autos, esbarrando no óbice da Súmula 7 deste Sodalício.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido."
+(AgInt no AREsp 1.046.116/SP, Rel.Ministro LÁZARO GUIMARÃES- DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 1º/03/2018, DJe 09/03/2018, g.n.)
+Por fim, orecurso também não merece prosperar pela alínea "c" do permissivo constitucional. É impossível conhecer da alegada divergência jurisprudencial, tendo em vista que a incidência da Súmula 7/STJ na questão controversa apresentada também é, consequentemente, óbice para a análise do apontado dissídio.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA E VIOLAÇÃO AO ART. 357 DO CPC. NÃO OCORRÊNCIA. SÚMULA 7/STJ.DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. SÚMULA 7/STJ.
+1. O indeferimento parcial do pleito em decorrência da ausência de provas não significa falha no saneamento do feito, nem mesmo violação ao art. 357 do CPC.
+2. Os agravantes não comprovaram a ocorrência de negativação indevida a ensejar necessidade de reparação patrimonial por meio de indenização por dano moral.
+3. Não é possível rever a decisão da Corte de origem que afastou a ocorrência de cerceamento de defesa, em virtude do óbice previsto na Súmula º 7 do STJ 4. O recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+5. Aplicada a Súmula 7/STJ quanto à alínea "a" do permissivo constitucional, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+6. Agravo interno não provido.
+(AgInt no AREsp 1368264/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/05/2019, DJe 16/05/2019, g.n)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
