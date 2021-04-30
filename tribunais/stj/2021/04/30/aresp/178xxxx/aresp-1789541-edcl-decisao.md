@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 469):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO APOSENTADO. CONTRATOS DE FINANCIAMENTO. DESCONTO CONSIGNADO E EM CONTA CORRENTE. HIPÓTESES DISTINTAS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EMPRÉSTIMO CONSIGNADO.LIMITAÇÃO DO DESCONTO EM FOLHA DE PAGAMENTO DO SERVIDOR. PATAMAR DE 30% DA REMUNERAÇÃO. PRECEDENTES.ACÓRDÃO A QUO ASSENTADO EM FATOS E PROVAS. REEXAME.IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A embargante, aduzindo a ocorrência de omissão, sustenta que "apesar do recurso interposto apontar que resta pacífico nos autos que a embargante não foi corretamente orientada acerca dos riscos do contrato, bem como deve ser preservado o mínimo existencial, visto que os empréstimos retiram sua renda integralmente, o decisum resta silente nesse aspecto, apontando apenas que o v. Acórdão atacado está de acordo com a jurisprudência do Superior Tribunal de Justiça, sem esclarecer qual o ponto de convergência entre o v. Acórdão e a jurisprudência do STJ, bem como não esclarece os fundamentos que permitem a instituição bancária reter a integralidade da renda da autora" (fl. 476).
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada resolveu a controvérsia ao assentar que segundo a jurisprudência desta Corte"a limitação dos descontos aplicados à remuneração não pode ser estendida às constrições efetuadas em conta-corrente, que, pela natureza do contrato firmado com a instituição financeira, não podem sofrer restrição quanto aos lançamentos de créditos e débitos nela inseridos" e que a revisão do entendimento externado pela instância ordinária, na forma pretendida pela recorrente, demandaria o revolvimento do acervo fático e probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Vê-se, portanto, que a matéria objeto da controvérsia encontra-sedevidamente fundamentada e motivada, de modo que a pretensão da embarganteevidencia mero inconformismo, na medida em que, sob a pecha deomissão, objetiva o reexame dos seus argumentos, com o intuito clarode atribuir efeito infringente ao decisum, hipótese a que não se destina orecurso integrativo.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de ProcessoCivil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
