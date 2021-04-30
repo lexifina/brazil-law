@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAIO EMPREENDIMENTOS E CONSTRUÇÕES S/A e outra em face de decisão desta relatoria, que negou provimento ao recurso especial.
+Nas razões dos embargos, as recorrentes apontam, em síntese, (a) " a  referida decisão, contudo, deixa de observar a exaustiva demonstração aduzida pelas Embargantes, em sede recursal, acerca da menção expressa do prazo final para entrega do imóvel: o prazo estipulado no contrato de financiamento, que trazia previsão certa e determinada quanto à entrega das obras" (fl. 497) e (b) " a  r. decisão deixou de analisar a simples constatação de que toda indenização fundada apenas e tão somente na simples ocorrência de atraso, que prescinde a existência de situação vexatória e humilhante, tal como decidiu o E. TJRJ, pressupõe a ocorrência do dano moral presumido" (fl. 499).
+Resposta às fls. 508/513.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Primeiro, há de se destacar que de fato as recorrentes não apontaram a data final da promessa de compra e venda, elemento imprescindível para esta Corte atestar se a tese supostamente omitida pelo Tribunal de origem era ou não relevante à solução da controvérsia. A mera remissão à prorrogação efetuada no ajuste, por meio de instrumentos contratuais posteriores, exigiria que esta relatoria reexaminasse os documentos dos autos na procura dessa pactuação, o que implicaria não só a integração da deficiência do recurso pelo Judiciário, mas também importaria em clara ofensa ao óbice das Súmulas n. 5 e 7/STJ.
+Quanto ao mais, o Tribunal de origem condenou as recorrentes ao pagamento de indenização por danos morais, com base na seguinte fundamentação:
+"Há dano moral a ser compensado, em razão da frustração da legítima expectativa do adquirente, em receber o imóvel no período estipulado no contrato. Mais de um ano de atraso para efetiva entrega de imóvel extrapola as consequências naturais da inexecução das obrigações.
+No arbitramento da compensação por danos morais, deve o Magistrado se orientar pelo bom senso, para que não se converta em fonte de lucro ou de enriquecimento, tampouco fique aquém do necessário para compensar a vítima da dor, do sofrimento, da tristeza, do vexame ou da humilhação suportados. Na hipótese, entendo que a quantia de R$15.000,00, é necessária e suficiente para compensar o abalo moral sofrido." (fl. 346)
+Embora o acórdão tenha adotado fundamentação concisa a respeito dos danos experimentados pelo autor da ação, o juízo sentenciante foi mais concludente com relação ao ponto, nestes termos:
+"Em seguida, debruço-me sobre a questão referente aos danos morais decorrentes do evento.
+Tenta a ré, em sua peça de oposição, minimizar o sofrimento da autora, alegando ser o mesmo mero aborrecimento cotidiano, sem o condão de caracterizar o dano moral pretendido.
+Data venia do entendimento esposado na contestação, impossível o acolhimento de tal tese, senão vejamos.
+O autor é pessoa de recursos limitados, tendo investido o dinheiro fruto de seu trabalho no sonho do imóvel próprio. Confiou, para tanto, os demandantes, na ré, como a empresa que viabilizaria a concretude de seus desejos.
+Contudo, a demandada, apesar do recebimento de todos os valores que lhe eram devidos, de forma pontual, atrasou a entrega do imóvel em mais de um ano, deixando de entregar o imóvel objeto do contrato às demandantes no prazo pactuado.
+Evidente o dano moral na hipótese em comento, vez que a frustração, dor e sofrimento dos autores, consumidores adimplentes, em verem retardado o aperfeiçoamento do contrato é daqueles que se caracterizam como in res ipsa, ou seja, independem de desdobramentos causais de maior gravidade.
+Importante destacar que o período de atraso da ré (mais de um ano) agrava o sofrimento mencionado, aumentando o valor da indenização a ser concedida." (fls. 221/222)
+Como se vê, entre as circunstâncias concretas que ensejaram condenação por danos morais, destacam-se (i) a situação econômica do autor, (ii) o pagamento integral do valor do imóvel de modo pontual e (iii) o atraso na entrega do bem em mais de 1 (um) ano.
+Diante disso, mantém-se a condenação à reparação dos danos morais, pois devidamente fundamentada em aspectos concretos do caso.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
