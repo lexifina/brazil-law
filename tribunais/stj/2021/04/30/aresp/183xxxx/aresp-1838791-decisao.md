@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recursoespecialinterposto por ITAU UNIBANCO S.A., com fundamentono art. 105, III, a, da Constituição Federal, contra acórdão proferidopelo Tribunal deJustiça do Estado da Paraíba,assim ementado (fl. 145):
+"AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DIFERENÇAS MONETÁRIAS NA CADERNETA DE POUPANÇA EM FACE DE EXPURGOS INFLACIONÁRIOS. DECISÃO DE PRIMEIRO GRAU PELO PROSSEGUIMENTO DA EXECUÇÃO. IRRESIGNAÇÃO. REMESSA DOS AUTOS À CONTADORIA JUDICIAL. DESNECESSIDADE. APRESENTAÇÃO DE PLANILHA PELA AUTORA: CÁLCULOS REALIZADOS POR PROFISSIONAL DE CONTABILIDADE. VALORES COMPROVADOS NOS AUTOS. FALTA DE IMPUGNAÇÃO ESPECÍFICADO BANCO. DETERMINAÇÃO PARA QUE O BANCO APRESENTASSE EXTRATOS DA CONTA OU PLANILHA COM VALORES QUE ENTENDESSE LEGAIS. INÉRCIA DO BANCO. MANUTENÇÃO DA DECISÃO.DESPROVIMENTO DO AGRAVO.- Em sede de cumprimento de sentença, quando o suposto excesso alegado não passa de mera suposição, visto que o recorrente sequer teve o cuidado de trazer aos autos planilha discriminando os valores que entende devidos, bem como impugnação específica sobre os cálculos apresentados pela agravada. Assim, não impugnados oportuna e adequadamente os cálculos da agravada, deve ser mantida a decisão recorrida e a pretensão de decote rejeitada, à míngua de prova do excesso."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 350-362.
+Nas razões do recurso especial, a recorrente alega violação ao art. 1.022 do Código de Processo Civil de 2015, sustentando, em síntese, que "manifesta a omissão do Tribunal que há de ser corrigida por Colenda Corte Superior, com o acolhimento da nulidade da decisão guerreada e consequente remessa dos autos ao Tribunal local para, com fulcro no art. 1022, II, do CPC, sanar a omissão em liça, em especial quanto à necessidade de que a liquidação da sentença seja submetida ao procedimento comum". (fl. 372)
+É o relatório. Decido.
+O recurso em apreço não merece prosperar.
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunalaquo analisou os pontos essenciais ao deslinde da controvérsia,dando-lhesrobusta e devida fundamentação, concluindo que "o caso sob apreciação não pode ser considerado liquidação zero, uma vez que a autora utilizou-se de provas presentes nos autos (ID nº 1286323  págs. 3/6) a fim de realizar os cálculos que embasaram a execução da sentença e que foram assinados por profissional da área de contabilidade. Tais cálculos não foram rebatidos pelo banco recorrente, em nenhum momento do trâmite processual. Neste sentido, a alegação de valores excessivos levantados pelo banco agravante não restaram demonstrados, pois não há nos autos quaisquer documentos ou planilhas que contradigam à documentação juntada pela autora, ora recorrida", motivo pelo qual deve ser rejeitada aalegadaviolação aoart. 1.022 do CPC/2015.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido dequeo magistrado não está obrigado a responder a todos osargumentosapresentados pelos litigantes, desde que aprecie a lide em suainteireza,com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA-DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIADADEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgadordeforma suficientemente ampla, fundamentada e sem omissões, portanto,deveser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 20/05/2019, DJe 22/05/2019)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL.AÇÃODECLARATÓRIA DE NULIDADE DE TÍTULO DE CRÉDITO CUMULADA COMINDENIZAÇÃO PORDANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSOCIVIL DE 2015.NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROTESTO INDEVIDO.REEXAME FÁTICODOS AUTOS. SÚMULA N. 7/STJ. APLICAÇÃO DA SÚMULA N. 385/STJ.FUNDAMENTO DOACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. O acórdão recorrido analisou todas as questões necessárias aodeslindeda controvérsia, não se configurando omissão, contradição ounegativa deprestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1324793/MT, Rel. Ministra MARIA ISABEL GALLOTTI,QUARTA TURMA, julgado em 14/05/2019, DJe 20/05/2019)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 15% para 16% sobre o valor da condenação.
+Publique-se.
