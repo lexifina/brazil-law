@@ -1,0 +1,21 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FABIANO DE MORAES KIEFFER contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL AÇÃO REVISIONAL DE CONTRATO ALIENAÇÃO FIDUCIÁRIA ADOÇÃO DOS PARADIGMAS DO STJ EM CONSONÂNCIA COM O DISPOSTO NO ART 1039 DO CPC PRELIMINAR ACOLHIDA CAPITALIZAÇÃO DE JUROS RECURSO EXTRAORDINÁRIO Nº 592377 REPERCUSSÃO GERAL SÚMULA 539 DO STJ É PERMITIDA A CAPITALIZAÇÃO DOS JUROS EM PRAZO INFERIOR AO ANUAL SEMPRE QUE PREVISTA NO CONTRATO CONFIGURAÇÃO DA MORA PARADIGMA RECURSO ESPECIAL Nº 1061530RS NÃO VERIFICADA A ABUSIVIDADE DOS ENCARGOS CONTRATUAIS PREVISTOS PARA O PERÍODO DA NORMALIDADE CONTRATUAL RESTA CONFIGURADA A MORA COMPENSAÇÃO E REPETIÇÃO DO INDÉBITO NO CASO DOS AUTOS NÃO VERIFICADA A COBRANÇA DE ENCARGOS ABUSIVOS NÃO HÁ FALAR EM COMPENSAÇÃO OU REPETIÇÃO DO INDÉBITO NEGARAM PROVIMENTO AO RECURSO
+Nas razões do recurso especial, aponta a parte recorrente dissídio jurisprudencial. Insurge-se, em suma, contra a capitalização diária dos juros.
+Decido.
+2. A eg. Segunda Seção, ao julgar o REsp 973.827/RS nos moldes da Lei dos Recursos Repetitivos, decidiu ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da MP 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Vale conferir as seguintes súmulas:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.
+(Súmula 539, SEGUNDA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015)
+No caso, quanto à capitalização diária dos juros, importa destacar as seguintes ponderações do acórdão recorrido (fl. 122):
+Desse modo, resta mantida a capitalização diária de juros frente a sua legalidade e à previsão expressa no contrato, conforme se depreende da leitura do contrato na cláusula M da fl. 19. (grifos nossos)
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. CARACTERIZAÇÃO DA MORA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1638011/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
