@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ALINE MORAES DOS SANTOS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL DE CONTRATO.CÓDIGO DE DEFESA DO CONSUMIDOR. APLICÁVEL ÀS OPERAÇÕES DE CONCESSÃO DE CRÉDITO E FINANCIAMENTO. SÚMULA N. 297 DO STJ.CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA N. 2.170-36/2001 (ART. 5º), PRESENTE INCLUSIVE O RE N. 592.377/RS, COM REPERCUSSÃO GERAL RECONHECIDA. "A CAPITALIZAÇÃO DOS JUROS EM PERIODICIDADE INFERIOR À ANUAL DEVE VIR PACTUADA DE FORMA EXPRESSA E CLARA. A PREVISÃO NO CONTRATO BANCÁRIO DE TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL É SUFICIENTE PARA PERMITIR A COBRANÇA DA TAXA EFETIVA ANUAL CONTRATADA." - RESP N. 973.827/RS.DA TARIFA DE CADASTRO. CONFORME ENTENDIMENTO DO E.SUPERIOR TRIBUNAL DE JUSTIÇA (RESP N. 1.251.331/RS), "PERMANECE VÁLIDA A TARIFA DE CADASTRO EXPRESSAMENTE TIPIFICADA EM ATO NORMATIVO PADRONIZADOR DA AUTORIDADE MONETÁRIA, A QUAL SOMENTE PODE SER COBRADA NO INÍCIO DO RELACIONAMENTO ENTRE O CONSUMIDOR E A INSTITUIÇÃO FINANCEIRA", RESSALVADA EVENTUAL ABUSIVIDADE NO CASO CONCRETO.
+COMPENSAÇÃO E/OU REPETIÇÃO SIMPLES. CABÍVEL CASO VERIFICADA A COBRANÇA DE VALORES INDEVIDOS.DESCARACTERIZAÇÃO DA MORA E TUTELA PROVISÓRIA.
+DEPENDE DO RECONHECIMENTO DE ABUSIVIDADE EM ENCARGO(S)PREVISTO(S) PARA O PERÍODO DA NORMALIDADE CONTRATUAL (JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO DE JUROS).
+DO PREQUESTIONAMENTO. DESNECESSÁRIA A INDICAÇÃO EXPRESSA DE TODOS OS FUNDAMENTOS LEGAIS EVENTUALMENTE INCIDENTES NO CASO, SENDO SUFICIENTE PREQUESTIONAMENTO IMPLÍCITO.
+APELO IMPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente dissídio jurisprudencial. Insurge-se, em suma, contra a capitalização diária dos juros.
+Decido.
+2. A eg. Segunda Seção, ao julgar o REsp 973.827/RS nos moldes da Lei dos Recursos Repetitivos, decidiu ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da MP 1.963-17/2000, em vigor como MP nº 2.170-01, desde que expressamente pactuada. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Vale conferir as seguintes súmulas:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.
+(Súmula 539, SEGUNDA SEÇÃO, julgado em 10/06/2015, DJe 15/06/2015)
+No caso, o Tribunal de origem concluiu que há previsão expressa da capitalização de juros.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. CARACTERIZAÇÃO DA MORA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1638011/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
