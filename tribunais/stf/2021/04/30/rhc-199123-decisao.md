@@ -1,0 +1,32 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado por Paulo Evangelos Loukantopoulos, em favor de Edson Genuino da Silva, contra decisão proferida pelo Joel Ilan Paciornik do Superior Tribunal de Justiça (STJ), que não conheceu do HC 613.932 – SP.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/06, à pena de 6 anos de reclusão em regime inicial fechado.
+    Sobreveio apelação criminal, que manteve a condenação por seus próprios fundamentos.
+    Daí a impetração de habeas corpus no STJ, o qual não foi conhecido por ser substitutivo de recurso próprio.
+    Nesta Corte a impetrante reitera os pedidos pretéritos e enfatiza o abrandamento do regime de cumprimento de pena, haja vista a pena ter sido menor que 8 anos.
+    É o relatório.
+    Passo a decidir.
+    No caso, destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental. No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, a , da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    Na hipótese dos autos, vislumbro constrangimento ilegal manifesto a ensejar a superação do entendimento acima exposto.
+    Explico.
+    Na espécie, o paciente foi condenado pela prática do delito de tráfico de entorpecentes (art. 33, caput, da Lei n. 11.343/2006). O juízo de primeiro grau considerou o réu primário, bem como favoráveis as circunstâncias judiciais descritas no art. 59, apenas majorou a pena-base em razão da quantidade da droga apreendida:
+    “O acusado não ostenta antecedentes criminais. Todavia, tendo em vista a natureza e a expressiva quantidade das substâncias apreendidas em seu poder aproximadamente dois quilos de maconha e mais de meio quilo de cocaína, esse último estupefaciente de alto poder viciante e vulnerante - fixo a pena base majorada em 1/5, totalizando 06 anos de reclusão e 600 dias-multa.
+    Não há agravantes ou atenuantes a se considerar.
+    Não há causas de aumento de pena.
+    Deixo de reconhecer a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/06 haja vista que o autuado se dedicava ao tráfico de drogas, circunstância que se extrai da expressiva quantidade e variedade de drogas apreendidas no interior de sua residência, o que não se verificaria caso fosse um principiante na criminalidade.
+    Em relação a ambos os acusados, fixo o dia-multa em seu valor unitário mínimo legal, por não haver, nos autos, provas reveladoras de maior capacidade econômica por parte dos réus.
+    Fixo o regime inicial fechado para o cumprimento de pena privativa de liberdade diante da prática de crime equiparado a hediondo e em função da gravidade concreta do delito, haja vista a expressiva quantidade e natureza das drogas apreendidas, cabendo consignar, ainda, que o acusado José Vanderlei é reincidente e portador de maus antecedentes”. (eDOC 1, p. 31 - grifamos)
+    Deste modo, não obstante a reprimenda final estalecida autorizar a fixação do regime inicial semiaberto, o Tribunal de origem manteve o regime inicial fechado, considerando a participação da ré em organização criminosa.
+    Sobre o tema, o art. o art. 33, § 2º, b, do Código Penal estabelece que o condenado não reincidente, cuja pena seja superior a 4 anos e não exceda 8 anos, poderá, desde o início, cumpri-la em regime semiaberto, todavia, nada impede que o juízo de origem fixe regime mais gravoso, desde que haja motivação idônea, tomando sempre por base as diretrizes do art. 59 do mesmo diploma legal.
+    No presente caso, mesmo o paciente sendo primário e não ostentando antecedentes criminais, o juiz de origem fixou o regime mais gravoso, utilizando-se de argumentos genéricos e, ainda, se valeu da reincidência do corréu para justificá-lo.
+    Nesse sentido:
+    “Habeas corpus . 2. Roubo majorado pelo emprego de arma (art. 157, § 2º, inciso I, do CP). Condenação. Regime inicial fechado. 3. Pedido de fixação de regime semiaberto. Possibilidade: primariedade da paciente, circunstâncias judiciais favoráveis e fundamentação inadequada (gravidade in abstrato do delito). 4. A jurisprudência do STF consolidou entendimento segundo o qual a hediondez ou a gravidade abstrata do delito não obriga, por si só, o regime prisional mais gravoso, pois o juízo, em atenção aos princípios constitucionais da individualização da pena e da obrigatoriedade de fundamentação das decisões judiciais, deve motivar o regime imposto observando a singularidade do caso concreto. 5. Paciente em fase avançada de recuperação social. 6. Pedido de fixação da pena-base no mínimo legal. Supressão de instância: matéria não apreciada pelo STJ. 7. Decisão monocrática do STJ. Ausência de interposição de agravo regimental. Writ não conhecido. 8. Ordem parcialmente concedida de ofício para fixar o regime semiaberto para o início do cumprimento da pena”. (HC 133.709/SP, de minha relatoria, Segunda Turma, DJe 1.8.2016)
+    Assim, considerando a primariedade do agente, a valoração negativa baseada somente na quantidade da droga apreendida e a fundamentação inidônea das instâncias antecedentes, verifico a necessidade reparação de ilegalidade manifesta na individualização da pena.
+    Ante o exposto, com fundamento no art. 192, caput, do RISTF, dou provimento ao recurso ordinário para determinar a fixação do regime semiaberto para inicio do cumprimento da pena imposta a Edson Genuino da Silva, nos autos da Ação Penal n. 1503959-70.2018.8.26.0228.
+    Publique-se.
+    Brasília, 30 de abril de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
