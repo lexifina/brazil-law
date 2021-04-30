@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por JOVANI OLINTO MILANI - EM RECUPERAÇÃO JUDICIAL, ANA LUCIA M MILANI - EM RECUPERAÇÃO JUDICIAL e MILANI AGROPECUARIA LTDA - EM RECUPERAÇÃO JUDICIAL, apontando como suscitados o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CUIABÁ - MT e o JUÍZO DE DIREITO DA 27ª VARA CÍVEL DE SÃO PAULO - SP.
+Os suscitantes alegam que a recuperação judicial foi processada em 19/02/2021 (e-STJ fl. 65), suspendendo-se todas as ações e execuções contrárias.
+Argumentamque o Juízo de Direito de São Paulo, nos autos n.1011747-86.2021.8.26.0100 determinou (e-STJ fl. 6):
+(..)o sequestro cautelar de 6.990.000 kg (seis milhões, novecentos e noventa mil quilos) equivalentes à 116.500 (cento e dezesseis mil e quinhentas) sacas de 60 kg (sessenta) quilos cada desoja a granel, ainda em pé no campo, produzidas nas Fazendas Indiana, Ouro Verde,Rampaneli, Duas Meninas e São Francisco(Doc. 04),localizadas nos Municípiode Nova Lacerda, Pontes e Lacerda e Comodoro, todas do Estado de Mato Grosso, em razão dosContratos de Compra e Venda de Soja nº. 3390400820, 3390400842, 3390900847, 339000879, 3390400895, 3390400897, 3390400899, 3390400924 e 3390400961, firmadosentre o SuscitanteJovanie a Cargill S.A.
+Asseveram que o único juízo competente para decidir sobre a constrição do patrimônio dos suscitantes seria o Juízo da recuperação judicial e que o crédito oriundo dos contratos de compra e venda de soja, "são sujeitos aos efeitos da recuperação judicial  ..  uma vez que as obrigações deles decorrentes surgiram em data que antecede a distribuição do pleito recuperacional" (e-STJ fl. 12).
+Defendem que o sequestro violaria a paridade entre os credores da recuperação, inviabilizando o plano.
+Liminarmente, postulam a suspensão dos efeitos da decisão que determinou o sequestro e a liberação de "eventual quantidade de soja apreendida" (e-STJ fl. 17). No mérito, pedema fixação da competência doJuízo da recuperação para decidir sobre os atos que atentem contra seus patrimônios.
+A tutela de urgência foi deferida (e-STJ fls. 87/90).
+Informações prestadas (e-STJ fls. 149/152).
+A interessada CARGILL AGRICOLA S.A. interpôs agravo interno informando que no Juízo Cível obteve o sequestro cautelar da soja, sendo posteriormente deferida a recuperação judicial dos suscitantes, ocasião em que a constriçãofoi suspensa expressamente pelo Juízo da recuperação. Entretanto, ressalta que essa decisão foi revogada, autorizando-se "a realização das diligências determinadas pelo r. Juízo da 27ª Vara Cível do Foro Central da Comarca de São Paulo" (e-STJ fl. 158). Ao final, requereu a reconsideração ou a reforma da decisão para que seja declarada a competência do Juízo da Execução (27ª Vara Cível da Comarca de São Paulo - SP).
+Os suscitantes impugnaram o agravo interno, suscitando, preliminarmente, a perda superveniente do interesse recursal, pois a agravante teria concordado expressamente com a competência do Juízo da Recuperação Judicial. No mérito, em síntese, requererama manutenção da liminar.
+É o relatório.
+Decido.
+Para que se configure conflito positivo de competência, é necessário que haja manifestação de duas autoridades judiciárias, de diferentes esferas, declarando sua competência para processamento e julgamento da lide, nos termos do art. 66 do CPC/2015:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Parágrafo único. O juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo.
+Em princípio, caracteriza-se conflito de competência nos casos em que o juízo diverso da recuperação pratiqueatos efetivos de constrição ou disposição do patrimônio da sociedade recuperanda. Nessa linha:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL.PRORROGAÇÃO STAY PERIOD. PROLAÇÃO DE SENTENÇA PELO JUÍZO TRABALHISTA. AUSÊNCIA DE ATOS DE CONSTRIÇÃO VOLTADOS AO PATRIMÔNIO DA SUSCITANTE. EXTINÇÃO DO PROCESSO E HABILITAÇÃO DO CRÉDITO PERANTE O JUÍZO DA RECUPERAÇÃO. INEXISTÊNCIA DE DECISÕES EXARADAS POR JUÍZOS DIVERSOS ENVOLVENDO O PATRIMÔNIO DE EMPRESA EM RECUPERAÇÃO JUDICIAL.ATUAÇÃO DO JUÍZO LABORAL NO ÂMBITO DE SUA REGULAR COMPETÊNCIA. ART.6º, § 2º, DA LEI 11.101/2005.
+1. Não se vislumbra a ocorrência do conflito positivo de competência em razão da ausência de simultaneidade de decisões exaradas por Juízos diversos envolvendo o patrimônio de empresa em recuperação judicial.
+2. No caso, evidencia-se que o Juízo laboral, ao proferir sentença e determinar a expedição de certidão de habilitação do crédito perante o Juízo cível da recuperação - sem realizar a prática de qualquer ato expropriatório voltado ao patrimônio da empresa em recuperação judicial até esta oportunidade - atuou no âmbito de sua regular competência, nos termos do artigo 6º, § 2º, da Lei 11.101/2005, não se imiscuindo em questões relacionadas à deliberação exclusiva do Juízo da recuperação.
+3. Agravo interno não provido.
+(AgInt no CC 163.108/CE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA.RECUPERAÇÃO JUDICIAL. CAUTELAR FISCAL. PRINCÍPIO DA ADSTRIÇÃO.VIOLAÇÃO. NÃO OCORRÊNCIA. ATOS DE CONSTRIÇÃO. SUBMISSÃO. JUÍZO DA RECUPERAÇÃO. INVASÃO. COMPETÊNCIA. NÃO DEMONSTRAÇÃO.
+1. A caracterização do conflito de competência depende da existência de decisões atuais exaradas por Juízos diferentes dispondo de forma diversa acerca do patrimônio da empresa em recuperação, o que não ficou demonstrado no presente caso.
+2. O Superior Tribunal de Justiça entende que não configura violação do princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial. Precedentes.
+3. A jurisprudência da Segunda Seção desta Corte está sedimentada no sentido de que apesar de as execuções fiscais não ficarem suspensas, cabe ao Juízo da recuperação analisar a pretensão constritiva direcionada contra o patrimônio da recuperanda, o que ocorreu no presente caso.
+4. Na hipótese dos autos, não ficou demonstrada a existência de decisão do Juízo fiscal que interferiu na competência do Juízo da recuperação, atuando cada um dos juízos suscitados nos limites de sua competência.
+5. Agravo interno não provido.
+(AgInt no AgInt no CC 169.871/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/09/2020, DJe 01/10/2020 - grifei.)
+O Juízo da recuperação, ao prestar informações, mencionou ter revogado "as ordens de suspensão do cumprimento dos mandados de arresto oriundas do processo n. 1005006-30.2021.8.11.0041", em trâmite pela 6ª Vara Cível da Comarca de Cuiabá - MT, bem como das ações de n. 1010427-98.2021.8.26.0100 e 1011747-86.2021.8.26.0100, que tramitam pela 21ª e 27ª Varas Cíveis do Foro Central de São Paulo/SP(e-STJ fl. 151).
+Em consulta ao sistema de processos eletrônicos do TJMT, verifica-se que nos Autos n.1002041-79.2021.8.11.0041o Juiz da Recuperação Judicial concluiu que o crédito da interessada CARGILL AGRÍCOLA S.A. teria"natureza extraconcursal"e que "os credores podem prosseguir com as ações individuais para exigir o cumprimento da obrigação assumida pelos devedores".
+Além disso, concluiu:
+REVOGO AS ORDENS DE SUSPENSÃO DO CUMPRIMENTO DOS MANDADOS DE ARRESTO oriundas do processo nº. 1005006-30.2021.8.11.0041, em trâmite pela 6ª Vara Cível da Comarca de Cuiabá-MT, bem como das ações de nº 1010427-98.2021.8.26.0100 e 1011747-86.2021.8.26.0100, que tramitam pela 21ª e 27ª Varas Cíveis do Foro Central de São Paulo/SP.
+Portanto, a partir da revogação e da exclusão do crédito objeto do contrato discutido nos autos n. 1011747-86.2021.8.26.0100 (e-STJ fl. 17) da recuperação judicial, não subsistem decisõesdispondo de forma diversa sobre o patrimônio dos recuperandos, inexistindo conflito positivo de competência a ser dirimido nesta Corte Superior.
+Ante o exposto,JULGO PREJUDICADO o conflito de competência, tornando sem efeito a liminar concedida.
+Prejudicado o agravo interno (e-STJ fls. 154/170).
+Publique-se e intimem-se.
