@@ -1,0 +1,18 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Tuany Ferreira das Dores - presa preventivamente pela suposta prática do crime de estelionato (Processo n.0079.20.012.472-9, em curso na Vara de Inquéritos da comarca de Contagem/MG) -, sob alegação de constrangimento ilegal na prisão preventiva, ante a: 1) ausência de audiência de custódia após o cumprimento do mandado de prisão; 2) inidoneidade dos fundamentos lançados e ausência de contemporaneidade; 3) possibilidade de substituição da prisão preventiva por cautelares diversas, inclusive prisão domiciliar (art. 318-Ado CPP); e4) ofensa ao princípio da proporcionalidade, requer-se, em liminar e no mérito, seja determinada a substituição da prisão preventiva por prisão domiciliar.
+É o relatório.
+O presentewrit foi impetrado contra decisão que indeferiu pedido liminar em habeascorpus impetrado no Tribunal a quo (HC n. 1.0000.21.066884-4/000), circunstância que atrai a incidênciado enunciado da Súmula 691/STF, observado também por esta Corte, segundo oqual não cabe habeas corpus contra indeferimento de pedido liminar emoutro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, seevidenciada dos autos a configuração de flagrante ilegalidade ou abuso depoder, circunstância não verificada no caso, notadamente porque o decreto, em princípio, ostenta fundamentação idônea, calcada nassupostas ameaças perpetradas pela paciente contra investigada/delatora, circunstância apta, ao menos em um juízo perfunctório, a justificar a prisão preventiva para garantia da aplicação penal e conveniência da instrução criminal (fl. 34):
+ ..
+Também há risco para a conclusão das investigações, uma vez que a terceira investigada relatou à autoridade policial a prática reiterada de ameaças pelas representadas, com o fim de interferir no trabalho da autoridade policial.
+Portanto, também há necessidade da prisão para garantia da aplicação da lei penal e por conveniência da instrução criminal.
+ ..
+Quanto aos demais tópicos suscitados na impetração, não há como sequer analisar as procedência das teses deduzidas, pois nenhum dos temas foi debatido na decisão que decretou a prisão preventiva (fls. 32/41), tampouco na decisão que indeferiu o pedido de liminar nohabeas corpusoriginário (fls. 349/350).
+Especificamente no que se refere à possibilidade de substituição da prisão por domiciliar à luz do art. 318, V, do CPP, destaco que o fato de a paciente ostentar a condição de mãe de filhos menores de 12 anos, por si só, não autoriza, de forma automática, a substituição da prisão preventiva por prisão domiciliar, pois é possível o indeferimento excepcional da benesse.
+Logo, não há dúvida de que a questão deve ser analisada, inicialmente, pelo Juízo processante.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Considerando a relevância da alegação deduzida na presente impetração, encaminhe-se a cópia da inicial (fls. 3/28)aoJuízo da Vara de Inquéritos da comarca de Contagem/MGa fim de que avalie a possibilidade de substituição da prisão preventiva por domiciliar, ainda que cumuladacom outras cautelares, nos termos dos arts. 318-A e 318-B, ambos do CPP.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA.WRITIMPETRADO CONTRA INDEFERIMENTO DE LIMINAR EMHABEAS CORPUS. SÚMULA 691/STF. INCIDÊNCIA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE NOS FUNDAMENTOS LANÇADOS NO DECRETO DE PRISÃO. AUSÊNCIA DE CONTEMPORANEIDADE, DESPROPORCIONALIDADE E POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR DOMILICIAR. AUSÊNCIA DE PRÉVIODEBATE DOS TEMAS NO JUÍZO PROCESSANTE. REMESSA DE CÓPIA DA INICIAL AO JUÍZO DE PRIMEIRO GRAUA FIM DE QUE AVALIE A POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR DOMICILIAR.
+Writindeferido liminarmente.
