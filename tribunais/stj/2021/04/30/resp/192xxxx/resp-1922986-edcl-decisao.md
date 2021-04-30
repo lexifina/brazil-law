@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MOISES SOARES BARBOSA E OUTROS, em face da decisão monocrática de fls. 470/473 (e-STJ), que negou provimento ao recurso especial interposto por ASSOCIAÇÃO RELIGIOSA EDUCATIVACULTURAL E BENEFICENTE NETIVOT HATORA.
+Em suas razões, osembargantes apontam omissão sobre a majoração dos honorários advocatícios sucumbenciais.
+A embargada apresentou impugnação (e-STJ, fl. 487).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+Na hipótese, não se verifica omissão sobre a majoração dos honorários advocatícios sucumbenciais.
+Com efeito, no que tange aos honorários recursais, nos termos do § 11 do artigo 85 do CPC de 2015, esta Corte tem manifestado entendimento de que a majoração dos honorários advocatícios se dará quando simultaneamente se apresentarem as seguintes situações: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado; e c) condenação em honorários advocatícios desde o Tribunal de origem no feito em que interposto o recurso. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO PARA RESTABELECER A SENTENÇA. NÃO PROVIMENTO.
+1. Esta Corte Superior tem manifestado o entendimento de que a "majoração dos honorários advocatícios, nos termos do § 11 do artigo 85 do CPC/2015,se dará quando se apresentarem simultaneamente as seguintes situações: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) condenação em honorários advocatícios desde o tribunal de origem no feito em que interposto o recurso. Precedentes"(AgInt no AREsp 1283540/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018).
+2. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp 1745960/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS RECURSAIS. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso." (AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 19/10/2017).
+2. Não houve, no acórdão embargado, a devida majoração dos honorários recursais, nos termos do art. 85, § 11, do CPC de 2015.
+3. Embargos de declaração acolhidos para, sanando a omissão, elevar a verba honorária." (EDcl no AgInt no AREsp 1.174.690/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 21/08/2018, g.n.)
+No caso ora em exame, o eg. Tribunal de origem reformou a sentença para julgar procedente a ação de despejo. Todavia, entendeu "inviável o arbitramento de honorários em favor doadvogadoda parte autora, considerando que não houve em primeira instância o arbitramento de verba honorária de sucumbência em desfavor da ré" (e-STJ, fl. 336). Contra o v. acórdão recorrido, os autores, ora embargantes, não interpuseram recurso.
+Inviável, então, a majoração dos honorários advocatícios sucumbenciais nesta instância, com fundamento no art. 85, § 11, do CPC/15, uma vez que não houve arbitramento de tais honorários na origem.
+Ante o exposto, rejeito os embargos de declaração de fls. 479/482.
+Publique-se.
