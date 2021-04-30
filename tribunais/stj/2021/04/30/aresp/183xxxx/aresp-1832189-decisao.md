@@ -1,0 +1,20 @@
+DECISÃO
+LUIS EDUARDO DE SOUSA TEIXEIRA ajuizou ação de nulidade e cancelamento de hipoteca c/c registro de escritura contra BANCO SANTANDER (BRASIL) S.A (SANTANDER) objetivando a declaração de nulidade e cancelamento de gravame sobre imóvel objeto de contrato de financiamento já liquidado, bem como o registro da escritura pública correspondente.
+Em primeira instância, o pedido foi julgado parcialmente procedente(e-STJ, fls. 174/179).
+O relator, em decisão monocrática, negou seguimento ao recurso de apelação interposto por SANTANDER (e-STJ, fls. 226/228).
+O Tribunal de Justiça de Minas Gerais negouprovimento ao agravo interno interposto por SANTANDER, em acórdão assim ementado:
+AGRAVO INTERNO EM APELAÇÃO. PRINCÍPIO DA DIALETICIDADE - INOBSERVÂNCIA - O recurso que não contém os fundamentos que embasam o inconformismo contra o decisum não se mostra em consonância com a legislação processual, que exige razões recursais discursivas, em observância ao princípio da dialeticidade(e-STJ, fl. 251).
+Inconformado, SANTANDER interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal apontando violação dos arts. 3º, 6º,140 e 932, III do NCPC, ao sustentar, em síntese, que não houve a intimação para sanar a irregularidade do recurso de apelação, ensejando, por si só, a nulidade do acórdão recorrido.
+Afirmouque merece destaque o princípioda primazia do julgamento de mérito, onde deve o julgador superar os vícios, estimulando, viabilizando e permitindo sua correção ou sanação de vícios, bem como o aproveitamento dos atos processuais, com a colaboração mútua das partes.
+Em juízo de admissibilidade, a vice-presidência do TJMG inadmitiu o apelo nobre com fundamento na Súmula nº 284, do STF. Dessa decisão, foi interposto o presente agravo em recurso especial.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A turma julgadora, após análise dos autos, concluiu que o recurso de apelação interpostopelo SANTANDERapresentava razões genéricas e não tratavam dos fundamentos da sentença e que, apesar de afirmação em contrário,teve aoportunidade de ser manifestar acerca da ausência de dialeticidade, todavia nada fez.
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Ademais, verifica-se que SANTANDER não impugnou o fundamento da decisão que inadmitiu seu apelo nobre, qual seja, a incidência daSúmula nº 284, do STF, pois limitou-se a afirmar:"Não há que se falar em aplicação da sumula 284 do STF, uma vez que a Agravante demonstrou com eficácia a controvérsia." (e-STJ, fl.321)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE C/C REGISTRO DE HIPOTECA. PARCIAL PROCEDÊNCIA. RECURSO DE APELAÇÃO. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. SÚMULA Nº 7, DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
