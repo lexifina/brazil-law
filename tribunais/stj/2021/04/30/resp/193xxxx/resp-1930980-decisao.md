@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por TEXTIL DALUTEX LTDA. e OUTROS, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Execução de Título Extrajudicial. Leilão. Decisão que afastou a alegação de suposta incapacidade técnica do leiloeiro. Irresignação da parte executada. Descabimento. Não há que se falar em nulidade sem prejuízo, conforme a máxima pas de nullité sans grief, observado que o leiloeiro já possui tempo de serviço. Pedido de suspensão do feito em face da pandemia de COVID-19.Impertinência. Situação que se estabeleceu bem antes do início da pandemia. Decisão mantida. Recurso não provido"(e-STJ, fl. 719)
+Em suas razões recursais, os recorrentes apontam violação aoart. 880, §3º do Código de Processo Civil de 2015, sustentando, em síntese que houve irregularidade processual em razão de o leiloeiro não cumprir o requisito legal de três anos de exercício profissional para realizar o leilão do bem penhorado, conforme reiterado em resolução do CNJ, tratando-se de nulidade absoluta que não se subordina à preclusão e independe de prejuízo.
+Foram apresentada contrarrazões às fls. 841/844.
+É o relatório. Passo a decidir.
+No tocante a suposta violação ao art. 880, §3º do CPC/15, tem-se que a Corte de origem afirmou que, apesar da irregularidade processual, houve preclusão em razão de a mesma não ter sido alegada após a nomeação do leiloeiro, bem como que o leilãofoi realizado sem ocorrência de qualquer vício, in verbis:
+"Isso porque, conforme destacado na r. decisão agravada, a suposta incapacidade técnica deveria ter sido alegada logo após a nomeação do leiloeiro, o que, todavia, não ocorreu.
+Ademais, ainda que existente o artigo de lei, não se há falar em nulidade sem prejuízo conforme máxima da pas de nullité sans grief porquanto o leilão devidamente foi realizado, sem a ocorrência de qualquer vício, observado, ainda, que, conforme noticiado pelo próprio agravante, o leiloeiro já possui tempo de serviço."(e-STJ, fls. 721/ 722)
+Inicialmente,o fundamento de que não se reconhece nulidade sem prejuízo conforme o princípio "pas de nullité sans grief" não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ademais, tem-se que a decisão ora recorrida está em consonância com o entendimento jurisprudencial desta Corte Superior, no sentido de que cabe à parte prejudicada alegar a nulidade absoluta de que tenha conhecimento na primeira oportunidade que tiver de se manifestar nos autos sob pena de preclusão e que o reconhecimento de nulidade de atos processuais exige a demonstração de prejuízo, o que não ocorreu no presente caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL.NULIDADE. NÃO COMPROVAÇÃO DE PREJUÍZO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief). Precedentes.
+2. Cabe à parte, na primeira oportunidade que tiver nos autos, alegar a nulidade absoluta, sob pena de preclusão.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no AgRg no AREsp 4.236/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/02/2014, DJe 02/04/2014)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. DESOBEDIÊNCIA AO DISPOSTO NOS ARTS. 76, § 2º, E 932, PARÁGRAFO ÚNICO, AMBOS DO NCPC. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA. PRECLUSÃO. ARGUIÇÃO DA NULIDADE SOMENTE APÓS RESULTADO DESFAVORÁVEL NO PROCESSO. CONFIGURAÇÃO DE NULIDADE DE ALGIBEIRA.VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ PROCESSUAL. NULIDADE ABSOLUTA NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme o disposto nos arts. 76, § 2º, I, e 932, parágrafo único, ambos do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+3. O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, consoante a aplicação da Súmula nº 115 desta Corte.
+4. Esta Corte de Justiça, em diversas oportunidades, tem exarado a compreensão de que a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável e quando óbvia a ciência do referido vício muito anteriormente à arguição, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça inclusive nas hipóteses de nulidade absoluta (REsp 1.714.163/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 24/9/2019, DJe 26/9/2019).
+5. Agravo interno não provido.
+(AgInt no AREsp 1561078/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. EDITAL DE LEILÃO. NECESSIDADE DE MENCIONAR RECURSO PENDENTE. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. EXISTÊNCIA DE DECISÃO DEFINITIVA ANTERIOR. PRECLUSÃO CONSUMATIVA. ALEGAÇÃO DE OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do agravo em recurso especial devido à ausência de impugnação específica dos óbices contidos na decisão de admissibilidade. Reconsideração.
+2. Não violação do art. 489 do CPC/2015 quando o eg. Tribunal estadual analisa todos os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Precedentes.
+3. Há preclusão consumativa quando a matéria foi apreciada em momento anterior e, após, a parte a invoca novamente em outro recurso.
+4. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)" (AgInt no AREsp 1.495.225/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/12/2019, DJe de 19/12/2019).
+5. In casu, o eg. Tribunal estadual destacou que a ausência de menção a recurso pendente no edital de leilão não causou prejuízo ao executado, pois o agravo de instrumento foi desprovido. O ato processual deve ser mantido, em homenagem ao princípio da instrumentalidade das formas, mormente pela ausência de prejuízo.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1567430/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+Incidência, portanto, da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
