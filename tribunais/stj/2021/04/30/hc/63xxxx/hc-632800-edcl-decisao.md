@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIVALDO SILVA BRITO contra decisão que não conheceu do habeas corpus (e-STJ, fls. 2097-2102).
+Apontao embargante a existência de omissõesno julgado diante da falta de apreciação dos temas suscitados no habeas corpus, assim relatados: i) "impossibilidade jurídica de a organização criminosa prestar-se à prática de ilícitos da mesma espécie, ainda que várias vezes praticado, porque, em tal caso, haverá a continuação delitiva e, assim, não estará presente a locução normativa "mediante a prática de infrações penais" (no plural, sim)" (e-STJ, fl. 2107); ii) "impossibilidade jurídica, por igual, de a denúncia, em casos tais, fazer a imputação tão-somente do crime parasitário(na linguagem própria dos juristas lusitanos), sem a imputação do crime-fim" (e-STJ, fl. 2107); iii) "questão jurídica obstativa da prisão preventiva" (e-STJ, fl. 2108) e acerca da nulidade da instauração do inquérito policial,uma vez que o crime de estelionato passou a exigira representação das vítimas desde a vigência da Lei Anticrime; iv) quanto à "construção aleivosa e fictícia" (e-STJ, fl. 2108)para a decretação da prisão preventiva; v) acesso aos procedimentos cautelares; vi) excesso de prazo da prisão.
+Requer o acolhimento dos embargos.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+A teor do artigo 619 do Código de Processo Penal, são cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, podendo ainda ser admitidos para a correção de eventual erro material.
+Em confusa petição, o embargante aponta diversas omissões no julgado, sem atentar para o fato de que, não obstante tenha seinsurgidocontra acórdão que sequer conheceu do pedido formulado no habeas corpus -por se tratar de reiteração de writ anterior -, este Relator, considerando a cautelaridade do pedido,analisou o mérito da pretensão, examinandoo teor do decreto preventivo e do acórdão que havia denegado a ordem de habeas corpus anterior,rebatendotodas as argumentações do embargante que, em também confusa e extensa petição, com 60 laudas, teceu as mais diversas argumentações tendentes a demonstrar o que denominou "patologia do decreto cautelar", que externava "abuso e teratologia na manutenção dessa custódia".
+Verifica-se que o embargante busca, com a oposição destes embargos declaratórios, tão somente um novo reexame da causa já devidamente apreciada.
+Diante do exposto,rejeitoos embargos.
+Publique-se. Intime-se.
