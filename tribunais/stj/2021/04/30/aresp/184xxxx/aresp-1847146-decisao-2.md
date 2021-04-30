@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto por AUTOMEC COEMRCIAL DE VEÍCULOS LTDAcontra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPRA E VENDA DE VEÍCULO - TRANSFERÊNCIA DA TITULARIDADE - ÓNUS DO COMPRADOR - PESSOA JURÍDICA QUE ATUA NO COMÉRCIO DE VEÍCULOS USADOS -PORTARIA Nº 1.606/2005 DO DETRAN VIGENTE À É POCA DA NEGOCIA ÇÃ O - REVENDEDORA N Ã O DESONERADA DA OBRIGA ÇÃ O PREVISTA NO ART. 134 DO C Ó DIGO DE TR Â NSITO BRASILEIRO - PAGAMENTO DE IPVA E DEMAIS TAXAS - RESPONSABILIDADE SOLIDÁRIA AUSÊNCIA VENDA DO ALIENANTE - DE COMUNICA ÇÃ O DA - PREVISÃO EM LEI ESTADUAL - PRECEDENTES DO E. SUPERIOR TRIBUNAL DE JUSTIÇA - DANOS MORAIS DEVIDOS - MAJORAÇÃO DO QUANTUM FIXADO EM PRIMEIRO GRAU - POSSIBILIDADE - HIPÓTESE DE SUCUMBÊNCIA RECÍPROCA -RECURSO DA RÉ PARCIALMENTE PROVIDO, DESACOLHIDO O APELO DO AUTOR".
+"Na falta de comunicação ao órgão de trânsito da transferência de veículo automotor pelo alienante, será solidária a sua responsabilidade tributária pelo pagamento do IPVA, desde que haja previsão em lei estadual" (e-STJ, fls. 604/605)
+Nas razões do recurso especial, o agravante alega violação aos arts. 474do Código Civil de 2002,
+123, inciso I, §1º e 134 do Código de Trânsito Nacional, 121, inciso II e 128 do Código Tributário Nacional, 949, parágrafo único do Código de Processo Civil de 2015 e 944 e 945 do Código Civil de 2002, sustentando, entre outros temas, culpa exclusiva do ora agravado que resultou na anulação do negócio jurídico, devendo ser reconhecidaa ausência de responsabilidade natransferência do veículo e pagamento de IPVA, DPVAT, taxas e tributosincidentes sobre o mesmo
+É o relatório. Passo a decidir.
+A questão tratada nos presentes autos refere-se a responsabilidade tributária em decorrência de proprietário de veículo com relação ataxas e tributos.
+Nos termos do art. 9º, caput, do RISTJ, a competência das Seções e das respectivas turmas do Superior Tribunal de Justiça é fixada em função da natureza da relação jurídica litigiosa.
+Assim, tratando-se de discussão que versa sobre tributos de modo geral, verifica-se que a competência para apreciar o recurso é de uma das turmas integrantes da Primeira Seção desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA DE TRÂNSITO. AUSÊNCIA DE COMUNICAÇÃO DE VENDA. RESPONSABILIDADE DO ANTIGO PROPRIETÁRIO. PRECEDENTES.
+1. Esta Corte Superior firmou entendimento de que, nos termos do art. 134 do CTN, "o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de trinta dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação". A exceção relacionada na jurisprudência refere-se ao IPVA (Súmula 585/STJ), sob pena do entendimento diverso incidir na Súmula Vinculante 10/STF (AgInt no PUIL 1.556/SP, Rel. Min. Sérgio Kukina, Primeira Seção, julgado em 10/6/2020, DJe 17/6/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1410369/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/02/2021, DJe 03/03/2021)
+Desse modo, determino a redistribuição do feito a um dos Ministros das Turmas que compõem a aludida Seção (art. 9º, § 1º, IX, do RISTJ).
+Publique-se.
