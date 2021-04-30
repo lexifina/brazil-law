@@ -1,0 +1,13 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.SERVIDOR PÚBLICO. INCOMPETÊNCIA ABSOLUTA.MATÉRIA APONTADA NO APELO NOBRE QUE NÃO FOI DECIDIDA PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO EM RECURSO ESPECIAL DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por IVAN DA SILVA OLIVEIRA, com fundamento naalíneaa do art. 105, III,da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado deSão Paulo,assim ementado:
+SERVIDOR MUNICIPAL - Recálculo de quinquênio e terço constitucional - Inadmissibilidade - Legislação municipal que dispõe como base de cálculo do quinquênio o vencimento padrão - Inteligência do artigo 70 da Lei Complementar Municipal nº 41/1991 - Terço Constitucional sobre férias - Ausência de demonstração de equívoco no cálculo realizado - Legalidade da base de cálculo utilizada - Inteligência do artigo 118 da Lei Complementar Municipal nº 41/1991 - Apelação da Municipalidade e remessa necessária providas - Recurso adesivo prejudicado.
+2. Opostos Embargos de Declaração, foram rejeitados (fls. 281/286).
+3. Nas razões de seu Apelo Nobre inadmitido, a parte recorrente aponta ofensa aos arts.64, § 1o., do CPC/2015 c/c o art. 2o., caput, e § 4o., da Lei12.153/2009,ao argumento de que a presenteação deve tramitar perante o Juizado Especial da Fazenda Pública, uma vez que o valor atribuído à causa é inferior a 60 (sessenta) salários mínimos.
+4. É o relatório.
+5. Cuida-se, na origem, de Ação de cobrança de diferenças remuneratórias proposta por servidor público em face do Município de Limeira.
+6. A leitura do acórdão combatido revela que a tese relativa aos dispositivos federais apontados pela parte recorrente, sobretudo, acerca da incompetência absoluta,não foi objeto de apreciação perante a Corte local, a despeito da oposição dos Aclaratórios.
+7. Na linha do entendimento desta Corte Superior, para que se tenha por prequestionada determinada matéria é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, ainda que se trate de matéria de ordem pública.
+8. Desse modo,caberia à parte recorrente, nas razões do Apelo Nobre, indicar ofensa ao art.1.022do CPC/2015,alegando a existência de possível omissão, providência da qual não se desincumbiu. Assim, ante a ausência de prequestionamento, incide aSúmula 211desta Corte.
+9. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do Servidor.
+10. Publique-se. Intimações necessárias.
