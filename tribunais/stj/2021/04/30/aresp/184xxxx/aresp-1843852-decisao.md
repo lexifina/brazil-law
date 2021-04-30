@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDREIA CRISTINA MARINHO CARDOSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+AGRAVO DE INSTRUMENTO EXECUÇÃO CONVERTIDA EM MONITÓRIA CUMPRIMENTO DE SENTENÇA CHEQUES DECISÃO QUE INDEFERIU A PENHORA DE 50% DO CÔNJUGE DO EXECUTADO INSURGÊNCIA IMPOSSIBILIDADE AUSÊNCIA DE PROVA DO PROVEITO FAMILIAR DA DÍVIDA INTELIGÊNCIA DOS ARTIGOS 1664 E 1666 DO CÓDIGO CIVIL CÔNJUGE QUE NÃO INTEGRA A LIDE AUSÊNCIA DE VÍNCULO OBRIGACIONAL IMPOSSIBILIDADE DE PENHORA DA FORMA PRETENDIDA DECISÃO MANTIDA RECURSO NÃO PROVIDO
+Alega a recorrente afronta ao art. 373, caput, II, do CPC, defendendo por dissídio jurisprudencial, que o Tribunal Estadual deveria ter conferido ao devedor ou à sua esposa o ônus probatório quanto a comprovação de que a dívida não foi contraída em proveito familiar, trazendo os seguintes argumentos:
+O quadro analítico acima demonstra que o Tribunal de Justiça do Estado de São Paulo decidiu que caberia à Recorrente demonstrar que a dívida foi contraída pelo Recorrido em benefício do caso.
+Ao contrário, o aresto paradigma entendeu que a esposa do devedor era quem deveria comprovar que a dívida não foi contraída em benefício do casal, ou seja, caberia ao cônjuge do devedor o ônus probatório. Insta salientar que o art. 373, caput, II, do CPC, prevê que o ônus da prova incumbe ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+No contexto do caso em tela, a palavra "réu" pode ser entendida como quem figura no polo passivo da pretensão, isto é, o devedor. (fls. 30).
+Consequentemente, com a devida vênia, o Tribunal de origem ofendeu o referido dispositivo legal, porquanto deveria ter conferido ao devedor ou sua esposa o ônus probatório de que a dívida não fora contraída em proveito familiar. (fls. 30).
+É, no essencial, o relatório. Decido.
+Na espécie, verifica-se que o dispositivo legal sobre o qual teria havido o dissídio jurisprudencial não foi examinado pela Corte de origem.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AREsp 1.639.095/RJ, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 19/5/2020.)
+Sobre o tema, confiram-se os seguintes precedentes: AgInt no REsp 1.862.546/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp 1.486.884/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 19/2/2020; e EDcl no REsp 1.274.569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
