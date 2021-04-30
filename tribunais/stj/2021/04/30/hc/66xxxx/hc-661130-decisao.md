@@ -1,0 +1,6 @@
+DECISÃO
+JOSÉ LUIS RIVERA DÍAZ e JUAN CARLOS RIVERA DÍAZ alegam sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, nos autos das Apelações n. 0004653-26.2018.4.01.3500 e 0012195-95.2018.4.01.3500.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia legível da decisão que autorizou a busca e apreensão, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
