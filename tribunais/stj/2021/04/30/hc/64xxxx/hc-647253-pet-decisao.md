@@ -1,0 +1,16 @@
+DECISÃO
+Por meio da Petição 337/2021, juntada às 185-189 (e-STJ), WILLIANS DE SOUSArequer sua admissão no presentewritna qualidade de amicus curiae,ao argumento de que é corréu na ação penal originária, possuindo "legítimo interesse sobre o resultado do presente procedimento, querendo contribuir para seu desfecho favorável" (e-STJ, fl. 185).
+É o breve relatório.
+Decido.
+Esta Corte Superior de Justiça possui entendimento pacífico "quanto à impossibilidade de intervenção de terceiros nohabeas corpus, seja na condição de amicus curiaeou como assistente de acusação, por se tratar de ação constitucional que objetiva garantir a liberdade de locomoção dos pacientes"(HC 411.123/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/03/2018, DJe 22/06/2018).
+Nesse sentido, confira-se, ainda:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO.HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PACIENTE ADVOGADO.DIREITO AO RECOLHIMENTO EM SALA DO ESTADO-MAIOR. PRISÃO PREVENTIVA EM CELA INDIVIDUAL, SEPARADA DE OUTROS PRESOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AMICUS CURIAE. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O art. 7º, inciso V, da Lei nº 8.906/1994, que teve sua constitucionalidade confirmada em julgamento realizado pela Suprema Corte, assegura aos advogados presos provisoriamente o recolhimento em sala de Estado Maior ou, na sua falta, em prisão domiciliar (Precedentes).
+2. A alteração havida no Código de Processo Penal pelas Leis nº 10.258/2001 e 12.403/2011 (arts. 295 e 318), no tocante à prisão especial e à prisão domiciliar respectivamente, não alteram a prerrogativa de índole profissional, qualificável como direito público subjetivo do advogado regularmente inscrito na OAB, quanto à prisão provisória em Sala de Estado Maior.
+3. Nos termos da jurisprudência das Turmas integrantes da Terceira Seção desta Corte "a ausência, simplesmente, de sala do Estado Maior não autoriza seja deferida prisão domiciliar ao paciente, advogado, preso preventivamente, dado que encontra-se segregado em cela separada do convívio prisional, em condições dignas de higiene e salubridade, inclusive com banheiro privativo" (HC n. 270.161/GO, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 25/8/2014).
+4. Pelas informações prestadas, o recorrente está em cela especial, sem registro de eventual inobservância das condições mínimas de salubridade e dignidade humanas, separado dos outros presos e sem o rigor e a insalubridade do cárcere comum, não havendo falar em constrangimento ilegal, porquanto não subsiste mais prisão em cela comum.
+5. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+6. A jurisprudência do Superior Tribunal de Justiça é no sentido de não se admitir qualquer tipo de intervenção de terceiros no habeas corpus, meio processual que não possui partes e nem litigantes, mas tem como única função o resguardo do direito de ir e vir das pessoas.
+7. Recurso de habeas corpus não provido. (RHC 86.758/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/09/2017, DJe 06/10/2017, grifou-se.)
+Ante o exposto, indefiro o pedido de habilitação.
+Intimem-se.
