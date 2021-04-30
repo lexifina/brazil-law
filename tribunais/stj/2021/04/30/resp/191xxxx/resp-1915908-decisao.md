@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO POR DANOS MORAIS - CONTAMINAÇÃO AMBIENTAL POR DESCARTE DE REJEITOS DE MINERAÇÃO E DE BENEFICIAMENTO INDUSTRIAL - DECISÃO SINGULAR QUE DETERMINOU A SUSPENSÃO DO ANDAMENTO DA AÇÃO INDIVIDUAL EM RAZÃO DO TRÂMITE DE AÇÕES CIVIS PÚBLICAS NA JUSTIÇA FEDERAL COM CAUSA DE PEDIR IDÊNTICA - EXISTÊNCIA DE AÇÃO COLETIVA ATINENTE À MACRO-LIDE QUE POSSIBILITA A SUSPENSÃO DA AÇÃO INDIVIDUAL DESDE SEU INÍCIO - PRECEDENTES DO STJ E DESTA CORTE - DECISÃO QUE DEVE SER MANTIDA - CITAÇÃO QUE NÃO SE FAZ INDISPENSÁVEL PARA A INTERRUPÇÃO DO PRAZO PRESCRICIONAL - INEXISTÊNCIA DE MOTIVOS PARA LIMITAR EM UM ANO O PRAZO PARA A SUSPENSÃO DA AÇÃO INDIVIDUAL EM DECORRÊNCIA DOS REFLEXOS QUE PODEM SER PRODUZIDOS PELO JULGAMENTO DA DEMANDA COLETIVA - AGRAVO DESPROVIDO
+.
+Nas razões do especial, a parte recorrente aponta existência de dissídio jurisprudencial, além de violação dos artigos 214, 219, 265, 535, 538 do Código de Processo Civil de 1973; 81 e 104 do Código de Defesa do Consumidor; e, 2º da Lei n. 7.347/85 (Lei da Ação Civil Pública).
+Alega negativa de prestação jurisdicional e necessidade de afastamento da multa por ausência de intuito protelatório dos embargos.
+Defende que a existência de uma ação coletiva não enseja o sobrestamento das ações individuais a ela relacionadas em razão da "inegável distinção do objeto de tutela nas ações individuais e nas ações coletivas" (e-STJ, fl. 1.404).
+Os embargos de declaração foram rejeitados com imposição de multa (fls. 1.377-1.390, e-STJ).
+Recurso admitido na origem (fls. 1.600-1.602, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Inicialmente, não observo violação ao art. 535 do CPC anterior (art. 1.022 do diploma atual), haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Conforme tem decidido o STJ, não se exige que o julgador, para expressar os motivos que lhe formaram o convencimento e demonstrar o raciocínio lógico trilhado para chegar à conclusão acerca das questões de fato e de direito, analise todos os argumentos apresentados pelas partes.
+É preciso ter presente que a oposição de embargos de declaração perante o tribunal de segundo grau, juntamente com a alegação de negativa de prestação jurisdicional no recurso especial, não necessariamente levam à anulação do acórdão lavrado no julgamento de tais embargos (com a consequente devolução dos autos à origem para rejulgamento), nem tornam certa a conclusão, na Corte superior, de que a questão esteja prequestionada. O ponto central em torno da possível ocorrência de defeito na prestação jurisdicional consiste em verificar se a omissão, contradição ou obscuridade apontada nos embargos dizem respeito a questões necessárias para a solução da causa. Se o tribunal de origem apresenta fundamentação suficiente para a completa prestação jurisdicional, não está, de fato, obrigado a se manifestar sobre questões paralelas que não viriam a interferir, sequer reflexamente, no seu entendimento. A existência de decisão em sentido contrário ao almejado pela parte, ou mesmo omissa em relação a pontos considerados irrelevantes, não dá ensejo à declaração de nulidade.
+Ademais, o julgador não está obrigado a decidir a lide a partir das normas que a parte entende aplicáveis ao caso. Nesse sentido:
+PROCESSUAL CIVIL - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS TIDOS POR VIOLADOS - SÚMULA 211 DO STJ - TRABALHADOR PORTUÁRIO AVULSO - FÉRIAS E RESPECTIVOS ADICIONAIS - FUNDAMENTO CENTRAL DO ACÓRDÃO RECORRIDO INATACADO - SÚMULA 283/STF.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+2. Descumprido o necessário e indispensável exame dos artigos tidos por violados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. Não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 535 do Código de Processo Civil, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado. Nesse sentido: EDcl no REsp 463380, Rel. Min. José Delgado, DJ 13.6.2005.
+(..)
+4.Agravo regimental improvido.
+(AgRg no REsp 1.137.776/RS, Segunda Turma, Rel. Min. HUMBERTO MARTINS, DJe de 23.10.2009)
+No que concerne à suspensão das ações individuais até o julgamento das ações coletivas em trâmite, a Corte estadual procedeu de acordo com a jurisprudência do STJ, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE REPARAÇÃO POR DANO MORAL DECORRENTE DE DANO AMBIENTAL.SOBRESTAMENTO DO FEITO. MATÉRIA SUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. REGRAMENTO DIRIGIDO AOS TRIBUNAIS DE SEGUNDA INSTÂNCIA. ART. 543-C DO CPC/73. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO, FALTA DE FUNDAMENTAÇÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTES. AÇÃO CIVIL PÚBLICA. CAUSA DE PEDIR QUE COINCIDE COM A DA AÇÃO INDIVIDUAL. DECISÃO QUE SUSPENDEU A AÇÃO INDIVIDUAL ATÉ O JULGAMENTO DA AÇÃO COLETIVA DE DANO AMBIENTAL. POSSIBILIDADE.PREJUDICIALIDADE EXTERNA CONFIGURADA. PRECEDENTES.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A afetação de determinado recurso ao rito dos recursos repetitivos, nos termos do art. 543-C, do CPC, não implica a suspensão ou sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas apenas as em trâmite nos tribunais de origem
+3. Inexiste violação do art. 535 do CPC/73 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, e desnecessário rebater uma a uma as razões suscitadas pelas partes.
+4. As instâncias ordinárias consignaram que as causas de pedir entre a ação coletiva e a individual são idênticas, sendo que nas ações civis públicas também está sendo pleiteada a reparação dos danos morais sofridos pelas pessoas expostas à contaminação.
+5. Reconhecendo se tratar de macro-lide geradora de processos multitudinários, forçosa a suspensão das ações individuais até o julgamento das Ações Civis públicas nºs 5004891- 93.2011.404.7000 e 2001.70.00.019188-2, encontrando-se, assim, o acórdão recorrido em harmonia com o entendimento consolidado no STJ em recurso repetitivo.
+Precedente da Segunda Seção.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se a decisão proferida, por não haver motivos para a sua alteração.
+7. Agravo regimental não provido.
+(AgRg no REsp 1541065/PR, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe de 14.11.2016 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL PROCESSUAL CIVIL E CIVIL. ART. 535, II, DO CPC. INEXISTÊNCIA DE VÍCIOS. AÇÃO DE REPARAÇÃO DE DANOS MORAIS.CONTAMINAÇÃO AMBIENTAL. AMTÉRIA SUBMETIDA AO RITO DO ART. 543-C DO CPC. SOBRESTAMENTO DE RECURSO DA COMPETÊNCIA DO STJ. DESNECESSIDADE. MACROLIDE. AÇÕES INDIVIDUAIS MULTITUDINÁRIAS. POSSIBILIDADE DE SUSPENSÃO ATÉ O JULGAMENTO DA AÇÃO COLETIVA. ORIENTAÇÃO DA SEGUNDA SEÇÃO FIRMADA NO JULGAMENTO DO RESP 1.110.049/RS.
+1. A omissão a que se refere o inciso II do artigo 535 do CPC é aquela que recai sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes. No caso, o Tribunal de origem manifestou-se sobre a questão apontada omissa, apenas não vindo a decidir no sentido pretendido pelo recorrente, o que não configura vício de omissão.
+2. "A afetação de determinado recurso ao rito dos repetitivos, nos termos do art.
+543-C do CPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (AgRg na Rcl 27.689/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/11/2015, Dje de 16/11/2015).
+3. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.110.049/RS, firmou o entendimento quantoà possibilidade de suspensão dos processos individuais multitudinários para que se aguarde o julgamento da macrolide proveniente de ação coletiva.
+4. Agravo interno não provido.
+(AgRg no REsp 681836/PR, Rei. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 9.9.2016 - sem destaque no original)
+Incide, portanto, no ponto, a Súmula 83/STJ.
+Por fim, não identifico o caráter protelatório dos embargos de declaração ou o abuso na sua oposição, o que impõe o afastamento da multa processual, nos termos do enunciado 98 da Súmula do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO.EMBARGOS DE DECLARAÇÃO INTERPOSTOS NA ORIGEM PARA FINS DE PREQUESTIONAMENTO. SÚMULA 98/STJ. AFASTAMENTO DAS MULTAS APLICADAS.
+1. Não identificado o caráter protelatório dos embargos de declaração ou o abuso da recorrente pela sua oposição, impõe-se o afastamento da multa processual, nos termos do enunciado 98 da Súmula do STJ.
+2. O parágrafo único do art. 538 do CPC exige o prévio recolhimento da multa imposta apenas na hipótese de reiteração de embargos protelatórios.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 891.741/SP, desta relatoria, QUARTA TURMA, julgado em 17.3.2015, DJe 23.3.2015).
+Em face do exposto, dou parcial provimento ao recurso especial apenas para afastar a multa descrita no artigo 538 do CPC/73 (art. 1026, § 2º do CPC/2015).
+Intimem-se.
