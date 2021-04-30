@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SPE RESIDENCIAL PARQUE DOS IPÊS I EMPREENDIMENTOS IMOBILIÁRIOS LTDA., fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 14/12/2020.
+Concluso ao gabinete em: 12/04/2021.
+Ação: rescisão contratual cumulada com devolução de quantias pagas, ajuizada por EDNEU MARANHO e HELENA APARECIDA LA RETONDO MARANHO, em face de SPE RESIDENCIAL PARQUE DOS IPÊS I EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou improcedente a demanda, revogando a liminar concedida, além de condenar os recorridos ao pagamento das custas e dos honorários, estes fixados em 10% do valor atualizado da causa.
+Acórdão: deu provimento à Apelação dos recorridos, nos termos da seguinte ementa:
+"Compra e venda de imóvel - Resilição de contrato cumulada com restituição de valores - Autores que pleiteiam a desistência do negócio - Contrato de compra e venda com pacto adjeto de alienação fiduciária - Possibilidade de resilição do contrato, considerando que a alienação fiduciária não foi registrada na matrícula imobiliária - Registro imobiliário que constitui requisito para a constituição da propriedade fiduciária, nos termos do art. 23 da Lei nº 9.514/97 - A falta do registro faz prevalecer apenas o vínculo obrigacional entre as partes, não constituindo a garantia estabelecida na referida Lei - Natureza jurídica do negócio entabulado entre as partes caracterizado como mero compromisso de compra e venda - Precedentes do c. STJ - Restituição de valores pagos, com retenção de percentual em favor da vendedora - Autores apelantes que pretendem a restituição integral dos valores pagos - Descabimento - Considerando a iniciativa dos compradores pelo desfazimento do negócio, razoável a restituição parcial, com direito de retenção em favor da vendedora, no equivalente a 20%, conforme precedentes jurisprudenciais - Impossibilidade de retenção das arras, considerando a natureza confirmatória do valor correspondente - Correção monetária desde cada desembolso e juros de mora a partir do trânsito em julgado - Sentença reformada, com inversão do ônus da sucumbência - Recurso parcialmente provido." (e-STJ fl. 205)
+Embargos de Declaração: opostos, pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 26, 27, Lei 9.514/97, bem como dissídio jurisprudencial. Sustenta que: i) deve prevalecer a norma específica de regência da alienação fiduciária de bem imóvel e não a aplicação irrestrita da lei consumerista, o que impede a devolução da quantia paga, mesmo com retenção; e, ii) o interesse de rescindir o contrato equivale à mora e a rescisão do contrato só é possível com a consolidação da propriedade em nome da recorrente, de modo que os recorridos serão restituídos por meio do valor que sobejar a venda do imóvel no leilão.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou os arts. 26, 27, Lei 9.514/97, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "no caso dos autos, nenhum dos instrumentos celebrados entre as partes foi levado a registro na matrícula do imóvel objeto de discussão, de modo que inaplicáveis as disposições da referida Lei", bem como que "considerando que as providências para a constituição em mora são tomadas pelo Oficial de Registro de Imóveis, conforme art. 26, § 1º dessa Lei, evidente que não estando a alienação fiduciária devidamente registrada na matrícula, o cumprimento da providência dentro do que a Lei estabelece fica inviabilizado", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, decisão unipessoal não é adequada para comprovação da divergência jurisprudencial.
+A recorrente, ainda, utilizou acórdãos da lavra do próprio TJ/SP, os quais, todavia, não se prestam à comprovação da divergência, nos termos da Súmula 13/STJ.
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a ausência de registro na matrícula do imóvel objeto de discussão, o qual afasta a aplicação da Lei 9.514/97, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da condenação (e-STJ fls. 212) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO DA DIVERGÊNCIA. DECISÃO UNIPESSOAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Decisão unipessoal não é adequada para comprovação da divergência jurisprudencial.
+6. A divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Recurso especial não conhecido.
