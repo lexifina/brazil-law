@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de petição avulsa interposta por ROBSON DA SILVA MARQUES em que comunica que seu instrumento de procuração nos autos foi cassadocom a juntada de nova procuração em que o recorrente constitui novo procurador nos autos de origem, de modo que reputa necessária nova publicação da decisão que denegou o agravo em recurso especiala fim de evitar perecimento de direito ou nulidade.
+Decido.
+Tem-se que a decisão de fls. 624/628 foi publicada em 05 de abril de 2021 em nome dos patronos da parte agravante e subscritores do recurso especial e agravo em recurso especial, conforme procuração e substabelecimento constantes nos autos deste recurso (e-STJ, fl. 101), inexistindo informação prévia de revogação do mandato.
+Desse modo, tem-se que a publicação indicando os patronos, dotados com poderes de representação, ocorreu de forma correta e sem vícios de nulidade, sendo ônus da parte agravante informar imediatamente eventual alteração em sua representação nesta instância superior, o que não ocorreu. Nesse sentido, "cabe às partes, recorrente e recorrida, serem diligentes na defesa de seus interesses, mantendo atualizada sua representação processual, apresentando instrumento de mandato no local em que se encontram os autos, de modo a possibilitar que as intimações sejam efetuadas corretamente"(AgInt no AgInt no REsp 884.257/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/03/2017, DJe 23/03/2017).
+Ademais, tem-se que a procuração juntada à fl. 635 e que confere poderes ao procurador RAFAEL NOGUEIRA MAZZEO não mencionaa revogação dos poderes conferidos às fls. 101/102.
+Dessa forma, indefiro o pedido por nova publicação.
+Publique-se.
