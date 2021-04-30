@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interno interposto por BANCO BRADESCO S/A contra a decisão da Presidência desta Corte (fls. 1.911-1.913) que não conheceu do agravo em recurso especial, por considerar que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada.
+Nas razões do agravo interno, o recorrente alega que impugnou de forma específica os fundamentos da decisão recorrida. Afima que "os fundamentos citados na ora decisão agravada dizem respeito à inadmissibilidade do recurso especial interposto pelo agravado. A decisão do tribunal de origem inadmitiu tanto o recurso especial do agravante como do agravado num único ato."
+Pede a reforma da decisão agravada.
+Decido.
+2. Observa-se que os fundamentos da decisão proferida pelo Tribunal de origem foram devidamente impugnados no agravo em recurso especial, de modo que a decisão de fls. 1.911-1.913 merece ser reconsiderada.
+3. Uma das controvérsias devolvidas ao conhecimento desta Corte Superior mediante o presente recurso foi afetada ao rito dos arts. 1.036 a 1.041 do CPC/2015, conforme julgados da relatoria do Senhor Ministro Raul Araújo, proferidos no REsp 1.438.263/SP, no REsp 1.361.872/SP e no Resp 1.362.022/SP, em 28/5/2019, para uniformizar o entendimento sobre:
+"Legitimidade do não associado para a execução da sentença proferida em ação civil pública manejada por associação na condição de substituta processual".
+Em sua decisão, o relator, Ministro Raul Araújo, determinou a suspensão dos recursos que versem a mesma controvérsia, esclarecendo que:
+1) a suspensão abrange todos os Recursos Especiais e Agravos em Recursos Especiais em trâmite nos Tribunais de Segunda Instância ou no Superior Tribunal de Justiça, nos quais a questão acima destacada, seja na fase de liquidação ou de cumprimento de sentença, tenha surgido e ainda não tenha recebido solução definitiva, com o trânsito em julgado;
+2) não há óbice ao recebimento de novos pedidos de liquidação ou de cumprimento de sentença, os quais ficarão abrangidos pelo disposto no item anterior, ou para eventuais homologações de acordo;
+3) a suspensão não abrange os específicos casos das execuções das sentenças proferidas na ação civil pública que a Apadeco moveu contra o Banestado (ACP nº 38.765/1998/PR) e naquela que o IDEC moveu contra o Banco do Brasil (ACP nº 16798-9/1998/DF), levando-se em consideração o julgamento dos Recursos Especiais nº 1.243.887/PR e nº 1.391.198/RS, julgados sob o rito dos recursos especiais repetitivos, e a eficácia preclusiva decorrente da coisa julgada.
+4. Dessa forma, a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015 é medida que se impõe, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ. Destarte, a devolução dos autos à origem é medida que se impõe.
+5. Ante o exposto, reconsidero a decisão de fls. 1.911-1.913, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Intimem-se. Cumpra-se.
