@@ -1,0 +1,5 @@
+Resolução Nº 4.904 O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO CMN Nº 4.904, DE 29 DE ABRIL DE 2021
+Altera a Seção 4-A do Capítulo 2 (Condições Básicas), a Seção 6 do Capítulo 7 (Encargos Financeiros e Limites de Crédito), as Seções 1 e 9 do Capítulo 10 (Programa Nacional de Fortalecimento da Agricultura Familiar - Pronaf) e a Seção 1 do Capítulo 11 (Programas com Recursos do BNDES) do Manual de Crédito Rural (MCR) de que tratam as Resoluções CMN ns. 4.883, de 23 de dezembro de 2020, 4.899, de 25 de março de 2021, e 4.889, de 26 de fevereiro de 2021.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 29 de abril de 2021, de acordo com os arts. 4º, inciso VI, da Lei nº 4.595, de 1964, 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, 1º da Lei nº 10.177, de 12 de janeiro de 2001, e com o § 3º do art. 3º da Lei nº 11.326, de 24 de julho de 2006,
+R E S O L V E U :
