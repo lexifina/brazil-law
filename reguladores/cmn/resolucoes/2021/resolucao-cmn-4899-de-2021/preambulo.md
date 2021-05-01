@@ -1,0 +1,5 @@
+RESOLUÇÃO Nº O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO CMN Nº 4.899, DE 25 DE MARÇO DE 2021
+Consolida as disposições relativas aos encargos financeiros e aos limites de crédito no Capítulo 7 (Encargos Financeiros e Limites de Crédito) do Manual de Crédito Rural (MCR), em conformidade com o disposto no art. 5º do Decreto nº 10.139, de 28 de novembro de 2019.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 25 de março de 2021, tendo em vista as disposições do art. 4º, inciso VI, da Lei nº 4.595, de 1964, dos arts. 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, do parágrafo único do art. 4º do Decreto nº 94.874, de 15 de setembro de 1987, do art. 6º da Lei nº 10.186, de 12 de fevereiro de 2001, dos §§ 3º e 4º do art. 3º da Lei nº 11.326, de 24 de julho de 2006, e do art. 5º do Decreto nº 10.139, de 28 de novembro de 2019,
+R E S O L V E U :
