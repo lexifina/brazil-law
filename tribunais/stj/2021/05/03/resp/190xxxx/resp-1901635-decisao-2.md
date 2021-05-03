@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por Agillitas Soluções de Pagamentos Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 513):
+APELAÇÃO CÍVEL COMPROMISSO DE COMPRA E VENDA Ação de rescisão contratual Culpa exclusiva das vendedoras Atraso na entrega do bem Restituição integral que decorre do inadimplemento exclusivo das vendedoras (Súmula 543 do C. STJ) - Comissão de corretagem e Taxa SATI Pretensão ao seu reembolso não prescrita Prazo trienal, conforme entendimento firmado pelo C. STJ em sede de julgamento de recursos repetitivos Prazo prescricional que inicia-se apenas a partir da mora da requerida Recurso do autor provido e não provido o da ré.
+Os embargos de declaração foram rejeitados(e-STJ, fls. 996-999).
+Em suas razões de recurso especial (e-STJ, fls. 768-798), a recorrente alega violação dos arts. 17, 338 e 339 do Código de Processo Civil de 2015;14, § 3º, I e II, do CDC; e 725 do Código Civil de 2002; bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que não é parte legítima para figurar no polo passivo da demanda, pois não participou da relação de compra e venda do imóvel, tendo cumprido todas as obrigações pelas quais havia se incumbido, não sendo responsável pelas consequências de rescisão do contrato, devendo ser afastada a condenação de devolução da comissão de corretagem.
+Assevera que a parte que inadimpliu com o contrato é quem deve responder pelo cumprimento das obrigações devidas à outra parte.
+Requer, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 1.022-1.024).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, no julgamento dos embargos de declaração, ao analisar a alegada ilegitimidade passiva e a excludente de responsabilidade, dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 763-764):
+4. Consigno, inicialmente, que não há que falar no pretendido reconhecimento da ilegitimidade passiva da embargante, isto porque, a embargante não se desincumbiu de ônus de comprovar que não fez parte da cadeia de fornecedores da relação contratual outrora estabelecida, respondendo solidariamente com a LIL pela devolução do valor pago a título de comissão de corretagem, sendo possibilitado o posterior ajuizamento de ação de regresso, se o caso.
+5. Decerto que no v. acórdão embargado, a responsabilidade da embargante foi restringida à solidariedade no que diz respeito à devolução do valor pago a título de comissão de corretagem, ressalvado o direito de regresso, posto que, perante o consumidor, a embargante fez parte da relação contratual rescindida.
+Diante dessa conclusão, mostra-se inviável, por meio do julgamento dorecurso especial, que o Superior Tribunal de Justiça altere oposicionamento adotado pela instância ordinária, a fim de verificar a ilegitimidade passiva suscitada, pois, para tanto, seria necessário orevolvimento dos fatos e das provas acostadas aos autos, o qual é vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA RECONHECIDA. RÉ INTEGRANTE DA CADEIA DE CONSUMO. REFORMA DO ENTENDIMENTO. SÚMULAS NSº 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inviável rever as conclusões adotadas pelo Tribunal estadual, que reconheceu a responsabilidade de todos os integrantes que se beneficiem da cadeia de fornecimento de serviços e entendeu ser a agravante parte legítima para figurar no polo passivo da ação, imputando-lhe o dever solidário de indenizar, sob pena de ofensa aos enunciados das Súmulas nºs 5 e 7 do STJ. Precedentes.
+3. Estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.863.576/SP. Relator Ministro Moura Ribeiro, Terceira Turma, DJe 18/12/2020).
+Ademais, a respeito do reconhecimento da responsabilidade, a orientação desta Corte de Justiça é no sentido de que "os integrantes da cadeia de consumo, em ação indenizatória consumerista, também são responsáveis pelo danos gerados ao consumidor, não cabendo a alegação de que o dano foi gerado por culpa exclusiva de um dos seus integrantes" (AgRg no AREsp 207.708/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 24/9/2013, DJe de 3/10/2013).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CULPA DO VENDEDOR. CORRETORA IMOBILIÁRIA. RESPONSABILIDADE SOLIDÁRIA. CADEIA DE CONSUMO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. "Os integrantes da cadeia de consumo, em ação indenizatória consumerista, também são responsáveis pelo danos gerados ao consumidor, não cabendo a alegação de que o dano foi gerado por culpa exclusiva de um dos seus integrantes" (AgRg no AREsp 207.708/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/09/2013, DJe de 03/10/2013).
+2. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 282 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1325013/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021)
+Assim, por estar o acórdão estadual em consonância com a jurisprudência desta Corte de Justiça, de rigor a sua manutenção nesse ponto.
+Ante o exposto, nego provimento ao recurso especial de Agillitas Soluções de Pagamentos Ltda.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CULPA DO VENDEDOR. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIARECONHECIDA. REVISÃO. SÚMULA. N. 7 DO STJ. CADEIA DE CONSUMO. RECURSO ESPECIAL DE AGILLITAS SOLUÇÕES DE PAGAMENTOS LTDA. IMPROVIDO.
