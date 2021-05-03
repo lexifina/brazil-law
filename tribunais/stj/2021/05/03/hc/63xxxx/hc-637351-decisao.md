@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Denys da Silva Queiroz, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Pernambuco.
+Consta dos autos (Processo n. 58103-27.2015.8.17.0001)que o paciente foi condenadopelo Juízo da 18ª Vara Criminal da Capital/PE, como incurso no art. 33 da Lei n. 11.343/2006, à pena de 5 anos e 6 meses de reclusão, em face da apreensão de 19 pedras de crack(fls. 9/15).
+Em sede de apelação, a defesa alegou ser devido o reexame da dosimetria e aplicada a causa de diminuição da pena. A Segunda Câmara Criminal do Tribunal de Justiça de Pernambuco negou provimento ao recurso (fls. 19/38). Esta, a ementa do julgado (fls. 19/20):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (ART. 33 DA LEI Nº 11.343/2006). MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTOS DOS POLICIAIS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÀNCIAS JUDICIAIS DO ART. 59 DO CP. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/2006. INAPLICÁVEL. APELO IMPROVIDO. DECISÃO UNÂNIME.
+1. Tráfico de entorpecentes. Autoria e materialidade comprovadas pelo conjunto probatório acostado aos autos.
+2. Embora tenha o acusado negado a propriedade da droga apreendida em seu poder, bem como o exercício da traficância, as circunstâncias do fato evidenciam seu envolvimento com o tráfico de entorpecentes.
+3. É importante destacar que os depoimentos dos agentes penitenciários, prestados em juízo, sob a garantia do contraditório, merecem credibilidade pois foram uniformes e coerentes, assim revestem-se de inquestionável eficácia probatória, não sendo possível a sua desqualificação.
+4. A pena-base pode ser fixada acimado mínimo legal, desde que dentro dos limites da razoabilidade e proporcionalidade, e estejam presentes outras circunstâncias que justifiquem.
+5. As circunstâncias judiciais do acusado foram analisadas,constatando-se que, de fato, há circunstâncias que são desfavoráveis ao réu e suficientes para justificar a imposição da pena-base acima do patamar mínimo previsto para o delito em comento. 6. Impossibilidade de aplicação da minorante do § 4º do art. 33 da Lei de Drogas tendo em vista a demonstração que o réu se dedicava a atividade criminosa.
+7. À unanimidade, negou-se provimento do apelo.
+No presente writ, a defesa requer o redimensionamento da pena-base para o mínimo legal e afirma ser devido o reconhecimento do tráfico privilegiado. Por fim, pede também o abrandamento do regime de cumprimento da pena (fls. 1/6).
+Decisão deste Relatorindeferindo a liminar (fls. 43/44).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 157/161).
+É o relatório.
+Na sentença, o Magistrado considerou como negativas as vetoriais da culpabilidade, por ser a conduta do paciente de altíssimo grau de reprovação social, em face da apreensão de 19 pedras de crack. Também os antecedentes, em razão de condenação transitada em julgado - Processo n. 80028-50.2013.8.17.001 -, pois, apesar de o trânsito em julgado ter sido posterior a este processo em análise, os fatos lá ocorridos são anteriores, de modo que configuram os maus antecedentes, mas não a reincidência. Quanto às demais circunstâncias judiciais, personalidade, conduta social, motivo, circunstâncias e consequências do crime, todas foram consideradas neutras.
+A pena-base foi fixada em 5 anos e 6 meses de reclusão, e o Magistrado fundamentou com base nos antecedentes e quantidade de drogas,19 pedras de crack. Entendo que há ilegalidade quanto à valoração negativa da culpabilidade com a quantidade de drogas.Se a pena for elevada pela apreensão das drogas, o dispositivo de lei se torna letra morta, por nunca ser aplicado em seu piso mínimo. Nesses termos, deve ser afastada a vetorial relativa à quantidade de drogas. Assim, deverá ser considerado aqui apenas o aumento pelos maus antecedentes. Para manter a proporção fixada na sentença, deverá a pena-base ser então redimensionada para 5 anos e 3 meses de reclusão, e 540 dias-multa.
+Na segunda fase, a pena se mantém inalterada, por ausência de agravantes ou atenuantes. Por fim, na terceira fase, correto o entendimento da instância ordinária de não aplicação da causa de diminuição da pena, pois reconhecidos os maus antecedentes, de modo que não se trata de um evento único na vida do paciente.
+Já quanto ao regime de cumprimento da pena, entendo ser devido o abrandamento para o semiaberto, pois o paciente não é reincidente, e o quantum fixado permite o regime semiaberto.
+Ante o exposto, concedo parcialmente a ordema fim de redimensionar a pena do paciente para5 anos e 3 meses de reclusão, em regime semiaberto,e 540 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 19 PEDRAS DE CRACK. DOSIMETRIA. REDIMENSIONAMENTO DA PENA-BASE, COM O AFASTAMENTO DA QUANTIDADE DE DROGA. ABRANDAMENTO PARA O REGIME SEMIABERTO. POSSIBILIDADE.
+Ordem parcialmente concedida nos termos do dispositivo.
