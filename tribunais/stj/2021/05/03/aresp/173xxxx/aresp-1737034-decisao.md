@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por ELIANE DE OLIVEIRA CORDEIRO contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 213/216).
+O acórdão recorrido está assim ementado (e-STJ fl. 177):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE RESTITUIÇÃO DE VALORES PAGOS - RESCISÃO CONTRATUAL - NECESSIDADE DE RESTITUIR OS VALORES PAGOS - POSSIBILIDADE - DANO MORAL E MATERIAL - INDEVIDOS - AUSÊNCIA DE PROVA ESPECÍFICA ACERCA DO DANO - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Não há comprovação de que a apelante teve despesas ou sequer se restou privada da prática de qualquer ato da vida civil em decorrência dos protestos, razão pela qual, o suposto prejuízo material e moral pelo inadimplemento gerou aborrecimentos inerentes ao tipo de negócio jurídico firmado (contrato de gaveta) e não foi capaz de causar situações de efetivo constrangimento ou abalo moral indenizável.
+Ainda que se considere o fato de que a rescisão contratual se deu por culpa exclusiva da apelada, o valor devidamente pago por esta, qual seja, a entrada no montante de R$ 5.000,00, não pode ser retido pela apelante, já que o imóvel foi devolvido à imobiliária e o negócio desfeito, motivo pelo qual deve ser restituída no tocante a tal valor, para não caracterizar o enriquecimento ilícito da recorrente.
+Nas razões do recurso especial (e-STJ fls. 189/196), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 113, 186, 187, 422 e 927 do CC/2002, pois, no momento da celebração do contrato com a assunção dos respectivos encargos, a recorrente passou a ter a legítima expectativa de que a recorrida efetuaria o pagamento do financiamento, conforme a boa-fé. A recorrida estava ciente dos encargos que assumiu e das consequências advindas do seu descumprimento, que seriam suportadas exclusivamente pela recorrente, titular do financiamento, sendo certo que o fato de haver um contrato de gaveta não retira a responsabilidade das partes. Assim, ocorrendo o protesto de um título em nome da recorrente, houve dano moral, que deve ser indenizado.
+No agravo (e-STJ fls. 221/225), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 239/245).
+É o relatório.
+Decido.
+Em relação ao requerimento de indenização, os julgadores assim consideraram (e-STJ fls. 181/182):
+Quanto o pedido reconvencional às f. 60-66, requerendo a condenação da ora apelada ao pagamento de indenização por danos morais por ter sido a apelante indevidamente protestada, em razão do inadimplemento contratual ocasionado pela própria recorrida, além de cobrar pelos danos materiais com o levantamento do protesto no cartório, tenho que este não merece prosperar.
+Explico.
+Com efeito, emerge que a apelante não apresentou nos autos qualquer prova cabal acerca da despesa para exclusão dos protestos em seu nome, sendo seu este ônus, notadamente por se tratar de fato que alega.
+Vale ressaltar que os documentos trazidos nos autos não demonstram que a recorrente efetuou o pagamento de R$ 250,00, para regularizar sua situação junto ao Cartório de Protestos.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o descumprimento contratual não é gerador de dano moral, a menos que a vítima demonstre que a situação por ela vivenciada, no caso concreto, lhe gerou aborrecimento caracterizador do dano indenizável (AgInt no REsp 1639071/RO, Rel. Ministro Luis Felipe Salomao, Quarta Turma, Julgado em 20/08/2019. DJe 26/08/2019), motivo pelo qual faz-se necessária a análise minuciosa dos autos.
+Neste caso, não há comprovação de que a apelante teve despesas ou sequer se restou privada da prática de qualquer ato da vida civil em decorrência dos protestos, razão pela qual, o suposto prejuízo material e moral pelo inadimplemento da apelante gerou aborrecimentos inerentes ao tipo de negócio jurídico firmado e que não foi capaz de causar situações de efetivo constrangimento ou abalo moral indenizável.
+Igualmente, quanto aos prejuízos na esfera material, estes não foram comprovados.
+Assim, inegável que a falta de provas e cumprimento dos requisitos legais e cuidado na contratação são suficientes à manutenção da sentença.
+Referidos fundamentos, relacionados à necessidade de demonstração de tentativa de regularizar sua situação junto ao Cartório e de que a situação teria gerado aborrecimento capaz de incidir em indenização, não foram impugnados. Assim, remanescendo sem combate fundamento suficiente à manutenção das conclusões do acórdão recorrido, incide o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
