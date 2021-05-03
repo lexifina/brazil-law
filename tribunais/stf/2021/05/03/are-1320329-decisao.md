@@ -1,0 +1,46 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "EMENTA: APELAÇÃO CRIMINAL - CRIMES DA LEI 8.666/03 E DO DECRETO-LEI, 201167 PRELIMINARES - (1ª) NULIDADE DO FEITO AO ARGUMENTO DE QUE O MINISTÉRIO PÚBLICO É INCOMPETENTE PARA PRESIDIR A INVESTIGAÇÃO CRIMINAL E AUSÊNCIA DE CONTROLE EXTERNO DO PODER JUDICIÁRIO- IMPROCEDÊNCIA - (2ª) VIOLAÇÃO AO FORO DE PRERROGATIVA DE FUNÇÃO - NÃO OCORRÊNCIA - DENÚNCIA FORMULADA COM BASE EM PEÇAS COLHIDAS EM INQUÉRITO CIVIL PÚBLICO - VIOLAÇÃO AO PRINCÍPIO DO PROMOTOR NATURAL - INOCORRÊNCIA - NULIDADE POR SUSPEIÇÃO OU IMPEDIMENTO DA PROMOTORA DE JUSTIÇA, QUE NÃO PODERIA ATUAR NA PRESENTE AÇÃO PENAL - AUSÊNCIA DE SUSPEIÇÃO OU IMPEDIMENTO - NULIDADE PELA VIOLAÇÃO DA ORDEM DE INQUIRIÇÃO DE TESTEMUNHAS E DE REALIZAÇÃO DO INTERROGATÓRIO - AUSÊNCIA DE PREJUÍZO - NULIDADE DO FEITO AO ARGUMENTO DE QUE A DEFESA NÃO PARTICIPOU DOS INTERROGATÓRIOS DOS CORRÉUS - INOCORRÊNCIA DE CERCEAMENTO DE DEFESA - NULIDADE EM RAZÃO DO INDEFERIMENTO DE PERÍCIA CONTÁBIL E DE DILIGÊNCIA REQUERIDA NA FASE DO ARTIGO 402 DO CPP - PRESCINDIBILIDADE DA PROVA - NULIDADE DA CONDENAÇÃO POR ESTAR BASEADA SOMENTE EM ELEMENTOS COLHIDOS NO INQUÉRITO CONDUZIDO PELO MINISTÉRIO PÚBLICO - INOCORRÊNCIA - SENTENÇA LASTREADA EM ELEMENTOS DE COGNIÇÃO COLHIDOS SOB O CONTRADITÓRIO - MÉRITO - ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DO DELITO DO INC. I DO ART. 1° DO DECRETO-LEI PARA O DELITO DO INC. V DO MESMO ART. - IMPOSSIBILIDADE - MATERIALIDADE E PROVAS APONTANDO NO SENTIDO DA EXISTÊNCIA DAS CONDUTAS IMPUTADAS PELO MINISTÉRIO PÚBLICO - APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO - IMPOSSIBILIDADE - REDUÇÃO DAS PENAS - NECESSIDADE - PRISÃO PREVENTIVA DESNECESSIDADE E DESPROPORCIONALIDADE DA MEDIDA."
+    Opostos os embargos de declaração, foram acolhidos em parte.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III; 5º, XXXIX; e 29, X, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "1 - Preliminar de nulidade do feito ao argumento de que o Ministério Público é incompetente para presidir investigação criminal e ausência de controle externo do Poder Judiciário.
+    Sustenta a defesa que o Ministério Público não tem autonomia para promover investigações criminais. Data vênia, sua tese não tem guarida.
+    Em recente decisão, o plenário do Supremo Tribunal Federal assentou o entendimento de que o poder de investigação criminal é inerente ao Ministério Público (RExt 593.727).
+    Essa decisão foi afetada de repercussão geral, o que encerra a discussão acerca da possibilidade ou não de essas diligências serem presididas pelo Parquet.
+    No julgamento, os ministros acataram sugestão do ministro Celso de Mello e fixaram a seguinte tese em repercussão geral:
+    (...)
+    Assim, firme no entendimento do Supremo Tribunal Federal, não há nenhum óbice para o Ministério Público presidir a investigação criminal.
+    Além do mais, a exordial acusatória baseou-se em elementos indiciários colhidos em ação civil pública, da qual nunca se questionou a possibilidade de o Ministério Público presidir as investigações.
+    Ora, acontece que, se nesse tipo de procedimento (cível) é descortinado algum fato que possa ser tipificado como ilícito, evidentemente o Parquet não poderia quedar-se inerte.
+    E, a partir daí, e só a partir daí, quando a investigação cível der lugar à investigação criminal, é que terá lugar o controle externo do Judiciário. Contudo, ainda assim, esse controle é um controle mais de forma do que de conteúdo. Isso porque o processo criminal prima pelo afastamento do modelo inquisitivo, de modo que o Judiciário deve se distanciar dele o quanto possível.
+    Assim, seja porque a investigação no caso dos autos ocorreu em decorrência de inquérito civil público, seja porque as medidas investigativas que pressupõem a mitigação de direitos, como as de busca e apreensão e as de interceptações telefônicas, que estão submetidas ao controle do Judiciário durante a investigação criminal promovida pela polícia ou pelo Ministério Público (que não aconteceu!), não ocorreram à revelia do juízo a quo, afasto a preliminar arguida.
+    2 - Preliminar de nulidade por violação ao foro de prerrogativa de função.
+    Data vênia, não procede a alegação.
+    O apelante foi prefeito de Pirapora até o final de 2011, quando o Ministério Público, pelo Parquet local, não investigava crimes, mas, tão somente, diligenciava em ação civil pública para apurar a ocorrência de ilícitos civis.
+    Ora, a prerrogativa de foro por função alcança apenas investigação criminal contra o prefeito, e não investigações cíveis, pelo que é na Promotoria de Justiça que deve correr o procedimento investigatório, como de fato se deu.
+    Acontece que com o decorrer das investigações o Órgão anteviu indícios da existência não só de ilícitos civis, mas também de ilícitos criminais.
+    Assim, a partir de junho de 2012, quando o apelante não era mais o alcaide da cidade, a promotoria local deu início também às investigações criminais, que culminaram na ação e condenação que neste momento justificam o apelo que aqui está sendo julgado. Por isso, não houve violação de prerrogativa de foro de função. Afasto, pois, a preliminar.
+    (...)
+    Regularmente processado, o denunciado foi condenado nas iras do artigo 89, caput, da Lei 8.666/93 (penas de quatro anos de detenção e de cinquenta dias multa) e do artigo 1°, inciso I, do Decreto-Lei 201/67 (pena de 6 seis anos de reclusão), na forma do artigo 69 do Código Penal.
+    Pois bem, o apelante pretende ser absolvido dos delitos pelos quais foi condenado, ou que o crime da Lei de Licitações seja absorvido pelo crime do inc. I do art. 1º do Dec.-Lei 201/67 e que as penas sejam reduzidas.
+    Quanto à absolvição do delito do art. 89, caput, da Lei 8.666/03.
+    1) Ausência de dano ao erário: aduz a defesa que não ocorreu nenhum dos dois crimes por absoluta ausência de dano ao erário.
+    A despeito da discussão acerca da natureza dos delitos (formal ou material), fato é que, data vênia, o dano existiu e somou mais de meio milhão de reais.
+    Os documentos constantes dos autos apontam que a Terki Shows, por ter agenciado os contratos com os artistas referidos, recebeu R$575.800,00.
+    E, conforme já disse nas teses preliminares, não importa que a origem primeira desses valores tenha sido doações privadas depositadas por particulares numa conta aberta pelo município especificamente para esse fim.
+    Isso porque, uma fez feita a doação, ou seja, uma vez que a pessoa privada deposita o numerário na conta do município, esse valor passa a integrar o erário e sua disposição, para qualquer fim, fica então submetida ao regramento próprio atinente à gestão da coisa pública, mormente à Lei 8.666/93.
+    Assim, quanto o apelante autorizou o repasse dos valores à Terki Shows, fora de hipótese legal, e para custear despesas duvidosas e indevidas, causou, evidentemente, prejuízo ao erário.
+    (...)"
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
