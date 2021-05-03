@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de pleito de reconhecimento da prescrição da pretensão punitiva estatal, na modalidade retroativa,deduzido por RUY GOMES DE MATTOS JUNIOR.
+O Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Exmo. Ministro Alexandre de Moraes, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+In casu,transitado em julgado o decreto condenatório, deve ser reconhecidaa prescrição da pretensão retroativa, já que a pena foi consolidada em 2 anos de reclusão, devendo ser desconsiderado o quantum de aumento pela continuidade delitiva, tendo transcorrido o lapso temporaldemais de 4 anos (art. 109, V, do CP) entre a sentença condenatória, publicada em23/12/2010, e o acórdão que a confirmou, proferido em 9/11/2016.
+Ante o exposto, reconheço a prescrição da pretensãoretroativa, conforme a dicção dos arts. 107, IV, 109, V, c/c art. 110, §1º, do mesmo diploma legal, e decreto a extinção da punibilidade nos autos da Ação Penal n.001.2006.030478-3.
+Publique-se. Intimem-se.
