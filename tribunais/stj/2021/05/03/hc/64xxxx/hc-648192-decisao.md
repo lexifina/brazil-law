@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de ROBERTH MARCONDES SOUSA, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (fl. 231):
+Habeas Corpus. Porte de arma de uso permitido e receptação. Pretendida a revogação da prisão preventiva do paciente. Impossibilidade. Presentes os requisitos autorizadores da prisão cautelar. Paciente que é reincidente. Indicação de reiteração delitiva. Decisão bem fundamentada. Segregação cautelar que é necessária para resguardo da ordem pública e para se evitar reiteração delitiva. Ausência de configuração de constrangimento ilegal. Excesso de prazo no oferecimento da denúncia superado. Ato já praticado. Ordem denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, em razão do excesso de prazo para a apresentação da denúncia pelo Ministério Público eda fundamentação inidônea do decreto de prisão preventiva.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+O pedido de liminar foi indeferido às fls. 168-169.
+O Ministério Público Federal manifestou-sepelo não conhecimento do habeas corpus e,caso dele se conheça, pela denegação da ordem (fls. 238-246).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo (fls. 232-235):
+Referida prisão foi convolada em preventiva na forma autorizada pelo art. 310, II, do CPP, já que o juízo considerou presentes os requisitos do art. 312 do CPP e insuficiente, à garantia da ordem pública, a imposição de medidas cautelares menos drásticas do art. 319 do CPP.
+ ..
+Diferentemente do que aduz o impetrante, os requisitos previstos nos artigos 312 e 313 do CPP estão devidamente colocados, pois, ainda que se entenda que o crime de porte ilegal de arma de fogo de uso restrito absorva o crime de receptação, aplicando-se os princípios da consunção e da especialidade, trata-se de paciente reincidente (fls. 50/51 dos autos principais), circunstância que reforça a necessidade de manutenção da prisão preventiva como forma de resguardo da ordem pública e para se evitar a reiteração delitiva, tendo em vista que o paciente já demonstrou que sua liberdade representa um risco à sociedade .
+ ..
+Por igual sorte, a imposição de medidas cautelares diversas da prisão não se mostra suficiente, ao menos por ora, para o caso aqui concretamente analisado. Soa paradoxal acreditar que o paciente, reincidente, pudesse se comprometer a responder a todos os chamamentos judiciais e a permanecer em seu endereço, indispensáveis deveres para quem pretende o benefício da liberdade provisória.
+Pelo contrário. É bem capaz que, pelo tratamento benevolente se veja estimulado a prosseguir na senda criminosa, agora tomando mais cuidado apenas para não ser pego.
+Dessa forma, a decisão proferida pelo juízo de primeiro grau encontra respaldo nos artigos 312 e 313 do Código de Processo Penal, não semostrando flagrantemente ilegal a ponto de justificar a concessão da ordem.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Com relação ao excesso de prazo para apresentação da denúncia, não merece prosperar os argumentos da defesa. Emconsulta aos documentos acostados nos autos (fls. 216-220), verifico que a denúncia foi ofertada pelo Ministério Público, motivo pelo qual a alegação perdeu o objeto.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
