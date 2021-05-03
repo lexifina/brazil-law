@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto porRICARDO PASQUALI,contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. REINTEGRAÇÃO DE POSSE. FAIXA DE SEGURANÇA
+OPERACIONAL. USINA HIDROELÉTRICA "FOZ DO AREIA". OCUPAÇÃO IRREGULAR. BEM DEUTILIDADE PÚBLICA. PROVA DO DOMÍNIO E DA POSSE. ESBULHO. ART. 561/CPC/15. POSSEPRECÁRIA. MERA DETENÇÃO. LAURO PERICIAL. CONSTRUÇÕES IRREGULARES.DEMOLIÇÃO. DANO AMBIENTAL. AREA DE PRESERVAÇÃO PERMANENTE. RISCOS ASEGURANÇA. DEMOLIÇÃO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO (1) DAAUTORA, PROVIMENTO. RECUROS (2) E REC. ADESIVO, NEGATIVA DE PROVIMENTO.HONORÁRIOS. MAJORAÇÃO. ART. 85, § ll/CPC/15.
+1. Ante os termos do Decreto Federal nº 84.163/1979, declarando de utilidade pública para finsde desapropriação as áreas de terras destinadas à implantação do reservatório da Usina Hidroelétrica"Foz do Areia", onde a concessionária de energia (Copei) já fora imitida na posse através de escriturapública de desapropriação amigável, é dispensável outras provas da propriedade/posse pelo entepúblico.
+2. Tendo a parte requerida ciência de estar ocupando área situada em faixa de segurança de usinahidroelétrica após a desapropriação do imóvel, resta caracterizada posse precária, senão meradetenção, ante a ausência de boa-fé, ensejando a determinação de sua desocupação parareintegração da concessionária autora sobre o imóvel.
+3. Não há como afastar o dever de demolição de todas as acessões físicas construídas, ainda queem parte sobre a faixa da área de segurança da usina, quando não é possível a adequação dasconstruções para mantê-las integralmente fora da cota, como comprovado por laudo pericial, a pardo risco de risco de inundação da área de segurança do reservatório, ã que estão sujeitos ospossuidores.
+4. Apelação Cível (1), da autora à que se dá provimento, e apelação cível (2) e recurso adesivo, dorequerido e terceiro interessado, respectivamente, à que se nega provimento, majorando-se oshonorários de sucumbência (art. 85, § 11/CPC/15). (fl. 836)
+Os embargos declaratórios restaram desacolhidos.
+Nas razões do recurso especial, o agravante alega violação aos arts. 8º, 477, § 1º e 507 do NCPC,sustentando, em síntese, a preclusão do direito do agravado em impugnar o laudo pericial, bem como a impossibilidade de demolição da "casa sede", visto ser a únicamoradia do agravante.
+É o relatório.
+Decido.
+Verifica-se inexistir prequestionamentos dos dispositivos legais supramencionados.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de R$ 2.000,00 (dois mil reais) para R$ 2.200,00 (dois mil e duzentos reais).
+Publique-se
