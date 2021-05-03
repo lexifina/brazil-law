@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Talison Bruno da Silva contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC nº 619147/MG, Relator o Ministro Sebastião Reis Júnior.
+    Consta dos autos que foi o recorrente foi condenado à pena de 15 anos, 1 mês e 12 dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas e associação para o tráfico de drogas.
+    Alega defesa do recorrente, em suma, o constrangimento ilegal em razão da manutenção da prisão preventiva, porquanto os requisitos da custódia preventiva não se fazem presentes.
+    Requer, liminarmente, o provimento do recurso para que, concedida a ordem de habeas corpus, seja revogada a sua custódia preventiva.
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão recorrido:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ÓBICE AO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE INTERROMPER OU DIMINUIR A ATUAÇÃO DA ASSOCIAÇÃO. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+    1. Considera-se fundamentada a vedação ao direito de recorrer em liberdade quando demonstrado que o paciente integra organização criminosa voltada ao tráfico de drogas, exercendo posição de destaque, pois era responsável pela distribuição do entorpecente nos pontos de venda e, ainda, pelo recolhimento do lucro obtido com o comércio espúrio.
+    2. Segundo entendimento da Suprema Corte, a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa (RHC n. 122.182, Ministro Luiz Fux, Primeira Turma, julgado em 19/8/2014). 3. Ordem denegada” (doc. 2, e-STJ fl. 380).
+    Pelo que há no julgado proferido pelo STJ, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+    No tocante aos fundamentos da custódia preventiva do recorrente, o Superior Tribunal de Justiça decidiu que
+    “Na espécie, contudo, na sentença condenatória, ao manter a prisão do paciente e demais corréus, o Magistrado enfatizou que estavam presentes os requisitos que deram ensejo à prisão preventiva e, ainda, que os réus integravam uma perigosa e estruturada organização criminosa voltada para o tráfico de drogas, que movimentava grande quantidade de entorpecente e de dinheiro (fl. 233).
+    Consta, também, que o ora paciente era o responsável pelo abastecimento dos pontos de drogas e, ainda pelo recolhimento do lucro obtido com o comércio de entorpecentes (fls. 197/198).
+    O Tribunal de Justiça, ao denegar a ordem do writ originário, concordou com os fundamentos apresentados pelo Juiz singular.
+    Por sua vez, o acórdão da apelação criminal, juntado pela defesa, traz expressamente que Talison utilizava veículos de propriedade de César (lider da organização), inclusive no transporte de drogas até as "bocas" (fl. 311).
+    Assim, está clarividente que o paciente integrava grande organização criminosa, estruturada, com posições bem definidas e que movimentava grande quantidade de droga. E, segundo o entendimento da Suprema Corte, a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa (RHC n. 122.182, Ministro Luiz Fux, Primeira Turma, julgado em 19/8/2014). E, mais: HC n. 95.024/SP, Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009)
+    (…)
+    Com razão o Ministério Público Federal, quando, em seu parecer, destacou que o acusado foi condenado à pena de 15 anos, 1 mês e 12 dias de reclusão, pela prática dos crimes de tráfico de entorpecentes e associação para o tráfico, restando evidenciada a gravidade da conduta delitiva, pois integra organização criminosa, que movimenta grande quantidade de entorpecentes e de dinheiro, dominando o tráfico em dois bairros da cidade de Campos Gerais, que também pratica outros crimes como explosão de agências bancárias e furto de veículos, o que demonstra sua alta periculosidade, oferecendo grande risco à sociedade, caso permaneça solto, justificando, portanto, a manutenção da prisão preventiva, como garantia da ordem pública e para assegurar a paz social, e fazer cessar as atividades ilícitas de organização criminosa (fl. 294 - grifo nosso)” (grifei).
+    Consoante entendimento da Corte, “não há ilegalidade evidente ou teratologia (...) na decisão que impõe prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta” (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17).
+    No mesmo sentido: HC nº 134.352/MG, Primeira Turma, Relator para acórdão o Ministro Alexandre de Moraes, DJe de 24/10/17; HC nº 142.792/SP-AgR, Segunda Turma, de minha relatoria, DJe de 30/6/17; HC nº 140.904/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 9/5/17; HC nº 135.418/PA, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 27/9/16; e HC nº130.709/CE, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/6/16, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 3 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
