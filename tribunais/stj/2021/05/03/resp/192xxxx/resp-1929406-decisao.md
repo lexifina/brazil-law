@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão assim ementado:
+EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE NOTIFICAÇÃO DO LANÇAMENTO. NULIDADE DO CRÉDITO TRIBUTÁRIO.
+1. A higidez do título executivo é pressuposto processual, matéria de ordem pública, que pode ser apreciada de ofício, nos moldes do art. 485, § 3º, do CPC.
+2. A validade do crédito que resulta da aplicação da norma tributária ao caso concreto depende da regular notificação do sujeito passivo, assegurando-se o devido processo legal.
+3. A nulidade formal do crédito tributário autoriza novo lançamento, observado o disposto no art. 173, II, do CTN.
+A parte recorrente alega haver divergência jurisprudencial e violação dos arts. 3º e 6º, § 1º, da Lei 6.830/1980. Afirma que o juiz não pode determinar de ofício a juntada de documentação não prevista em lei para o ajuizamento da ação de execução fiscal.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16/4/2021.
+O acórdão recorrido consignou:
+No caso dos autos, a notificação enviada (Evento 53 NOT2) efetivamente contém prazo para impugnação da dívida. No entanto, ao detalhar o vencimento das anuidades relativamente aos anos de 2014 a 2017, fez incluir rubricas referentes a juros e multa, o que evidencia que tal documento não foi constitutivo do crédito tributário, uma vez que abrange valores referentes à fase posterior à constituição do tributo, quando já se pode considerar em mora o devedor.
+Evidenciada, assim, a ausência de comprovação da remessa de notificação simplificada regular, concedendo prazo para o exercício do direito à impugnação, forçoso o reconhecimento da ineficácia do lançamento, que não pode ser suprida mediante a publicação de um edital genérico que contém o nome de centenas de devedores, como no caso dos autos.
+Por outro lado, a exequente informa que os boletos de anuidade são enviados anualmente aos contribuintes por cartas simples, porém não junta aos autos prova desse envio. Por isso, não há desobediência a decisões proferidas em julgamento sob o rito dos recursos repetitivos REsp nº 1.114.780/SC e REsp 1.111.124/PR, uma vez que não há prova do envio da guia de cobrança (carnê), que firmaria a presunção de notificação a ser ilidida pelo contribuinte.
+A jurisprudência desta Corte entende que a não comprovação da regular notificação do lançamento ao contribuinte pelo Conselho Profissional Exequente enseja a nulidade do lançamento do crédito tributário, invalidando o título executivo e, por consequência, extinguindo a execução fiscal: AC 5003416-43.2018.4.04.7102, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 12/08/2020; AC 5013137-92.2018.4.04.7110, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 12/08/2020; AG 5063232-53.2017.4.04.0000, PRIMEIRA TURMA, Relator ALEXANDRE GONÇALVES LIPPEL, juntado aos autos em 19/08/2020; AC 5001788- 24.2020.4.04.7110, SEGUNDA TURMA, Relatora MARIA DE FÁTIMA FREITAS LABARR RE, juntado aos autos em 04/08/2020; AC 5005155- 27.2018.4.04.7110, PRIMEIRA TURMA, Relator FRANCISCO DONIZETE GOMES, juntado aos autos em 24/07/2020.
+Como a obrigação tributária permanece intacta, caberá novo lançamento, observado o disposto no art. 173, II, do CTN. (fls. 219-220, e-STJ).
+Conforme se depreende do trecho acima transcrito, o Tribunal de origem anulou o título executivo com base na constatação de que a parte devedora não foi intimada do lançamento tributário, isto é, não teve oportunidade de tomar ciência da constituição do crédito, nem de impugná-lo.
+A argumentação do Conselho Profissional, no entanto, apontou para a impossibilidade de o juiz requerer documentação não especificada no art. 6º da Lei 6.830/1980. Sucede que o fundamento da decisão colegiada hostilizada consistiu na verificação de nulidades anteriores à própria elaboração da CDA, de modo que caberia ao Conselho Profissional discutir e indicar como supostamente violada a legislação referente ao lançamento tributário.
+Sendo assim, as razões recursais estão divorciadas do fundamento do acórdão hostilizado. Aplicação, por analogia, da Súmula 284/STF.
+Relativamente ao dissídio jurisprudencial, seria caso de reconhecer que não foi demonstrada a similitude fática e jurídica, pois os precedentes versam sobre a suficiência da remessa do boleto da anuidade, para fins de comprovação do lançamento. Tal juízo não foi feito no acórdão da Corte regional, pois esta adotou premissa justamente oposta, isto é, de que não foi comprovada a remessa do boleto contendo as anuidades, mas a de simples carta comunicando pendência em relação às anuidades, que já estavam acrescidas de juros de mora e correção monetária (ou seja, a situação seria distinta porque o Conselho estaria procedendo à cobrança do débito sem tê-lo lançado previamente).
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
