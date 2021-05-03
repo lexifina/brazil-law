@@ -1,0 +1,9 @@
+DECISÃO
+CONFLITO NEGATIVO DE COMPETÊNCIA. DIREITO À SAÚDE. O JUIZ FEDERAL ENTENDEU PELA IMPOSSIBILIDADE DE OBRIGAR A INCLUSÃO DA UNIÃO NO POLO PASSIVO, TENDO EM VISTA A SOLIDARIEDADE DOS ENTES FEDERADOS. DESNECESSIDADE DE SUSCITAR CONFLITO, BASTANDO A REMESSA DOS AUTOS À JUSTIÇA ESTADUAL. SÚMULA 224/STJ. CONFLITO NEGATIVO DE COMPETÊNCIA NÃO CONHECIDO.
+1. Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 3a. VARA DE CAXIAS DO SUL - SJ/RS, suscitante, e o JUÍZO DE DIREITO DA 2a. VARA CÍVEL ESPECIALIZADA EM FAZENDA PÚBLICA DE CAXIAS DO SUL/RS, suscitado, no âmbito de ação em que se postula o fornecimento de fármacos registrados na ANVISA.
+2. A controvérsia está relacionada à competência para julgamento da Ação Ordinária, ajuizada inicialmente em face apenas do Estado e do Município, ou seja, sem a inclusão da União.
+3. Neste cenário, não cabe ao Juiz Estadual determinar à parte autora que proceda à emenda da inicial para requerer a citação da União para figurar no polo passivo, vez que, não se tratando de litisconsórcio passivo necessário, incumbe à parte autora escolher, na exordial, contra qual(is) ente(s) federativo(s) pretende litigar.
+4. Assim, como in casu a parte autora não requereu, de início, a inclusão da União no polo passivo do feito de origem, recebidos os autos na Justiça Federal, cabe ao Juiz Federal, simplesmente, devolver os autos à Justiça Estadual, e não suscitar Conflito de Competência, nos termos da Súmula 224/STJ. Afinal, o Juízo Estadual não poderá rever tal decisão para determinar a inclusão da União no feito, consoante as Súmulas 150 e 254/STJ; por isso, sendo definitiva a decisão, na esfera federal, quanto à exclusão do Ente Federal, não há necessidade de instauração de conflito.
+5. Ante o exposto, deixo de conhecer do presente Conflito de Competência.
+6. Publique-se.
+7 . Intimações necessárias.
