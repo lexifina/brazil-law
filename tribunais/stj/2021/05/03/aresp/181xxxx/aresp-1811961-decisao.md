@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ADMINISTRADORA DE CONSÓRCIOS SICREDI LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA.DECISÃO AGRAVADA QUEINDEFERIU A APLICAÇÃO DE MEDIDAS COERCITIVAS CONTRA OAGRAVADO. PEDIDO DE SUSPENSÃO DE CNH E CARTÃO DE CRÉDITO OULIMITAÇÃO AO VALOR DE UM SALÁRIO MÍNIMO. ART. 139, IV, DO CPC.DISPOSITIVO QUE DEVE SER APLICADO COM CAUTELA, AMPARADO PELOSPRINCÍPIOS DA LEGALIDADE, RAZOABILIDADE E PROPORCIONALIDADE.INEXISTÊNCIA DE EVIDÊNCIA DE OCULTAMENTO DE PATRIMÔNIO DODEVEDOR. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1.Apesar da aparente insuficiência de bens para satisfação do crédito, não há indícios concretos de ocultação de patrimônio do agravado, a justificar o pedido de suspensão de cartões de crédito e da carteira de habilitação.
+2.Não havendo demonstração nos autos de que o agravado esteja ocultando o seu patrimônio ou levando vida incompatível com as dívidas que possui, em suma, não se demonstrou que se trate de devedor contumaz.
+3.Mesmo que as medidas solicitadas fossem deferidas, não garantiriam, efetivamente, o adimplemento da dívida, mas devido às peculiaridades dos autos, muito provavelmente, constituiriam medidas que feririam a dignidade da pessoa humana, a razoabilidade e a proporcionalidade. Eventualmente, maiores dificuldades para conseguir preservar ou angariar algum patrimônio que venha a garantir num futuro próximo o pagamento do débito" (fl. 81, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 137, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 1.022 e 139, IV, do Código de Processo Civil de 2015, pois não se deferiu o pedido de adoção da medida executiva atípica de suspensão da CNH do recorrido, bem como o bloqueio de cartões de crédito em nome do devedor.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, registra-se a impossibilidade de conhecimento da insurgência quanto à indicada afronta ao art. 1.022 do CPC/2015, pois o recurso especial que indica tal violação mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF.
+Ademais, o tribunal estadual, ao analisar a controvérsia, expressamente consignou:
+"(..)
+Contudo, apesar da aparente insuficiência de bens para satisfação do crédito, não há indícios concretos de ocultação de patrimônio do agravado, a justificar o pedido de suspensão de cartões de crédito e da carteira de habilitação. Tanto é verdade que consta da devolução do mandado de arrolamento de bens cumprido pelo Oficial de Justiça (mov. 153.1) no endereço do agravante, que a residência se encontrava guarnecida apenas de moveis e utensílios indispensáveis à sobrevivência, alegando que "encontrei no interior do imóvel, apenas móveis e utensílios essenciais e de uso cotidiano como TV, geladeira, fogão, mesas, cadeiras, estante, armário, estofados, camas, guarda -roupas, utensílios domésticos e objetos de uso pessoal, bens que não ultrapassam um padrão médio de vida. Não localizei adornos suntuosos, obras de arte, eletrônicos, cristais, objetos supérfluos ou de valor elevado".
+Assim, não há demonstração nos autos de que o agravado esteja ocultando o seu patrimônio ou levando vida incompatível com as dívidas que possui, em suma, não se demonstrou que se trate de devedor contumaz.
+Por outro lado, mesmo que as medidas solicitadas fossem deferidas, não garantiriam, efetivamente, o adimplemento da dívida, mas devido às peculiaridades dos autos, muito provavelmente, constituiriam medidas que feririam a dignidade da pessoa humana, a razoabilidade e a proporcionalidade. Eventualmente, maiores dificuldades para conseguir preservar ou angariar algum patrimônio que venha a garantir num futuro próximo o pagamento do débito" (fls. 84-85, e-STJ).
+Acrescentou, ainda, no aresto dos embargos declaratórios que,
+"(..) segundo o disposto no artigo 139, IV do CPC, o juiz pode, em tese, valer-se de medidas indutivas coercitivas atípicas, com o intuito de forçar o executado ao pagamento da dívida. Contudo, destacou-se que estas medidas não podem ser aplicadas indistintamente pelo julgador, devendo haver cautela, em atenção aos princípios da razoabilidade e da proporcionalidade, sob pena de infringir direitos fundamentais do devedor" (fl. 139, e-STJ).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a aplicação do enunciado nº 7 da Súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
