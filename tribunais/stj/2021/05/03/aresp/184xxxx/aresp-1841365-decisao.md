@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição Federal) contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (fl. 620, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO CUMULADA COM PEDIDO TUTELA ANTECIPADA (LIMINAR).
+APLICAÇÃO DE MULTA PELO PROCON. RECONHECIMENTO, EM PRIMEIRO GRAU, DE PRESCRIÇÃO INTERCORRENTE.
+IRRESIGNAÇÃO DO ESTADO DO PARANÁ. NÃO ACOLHIMENTO.
+PARALISAÇÃO DO PROCESSO ADMINISTRATIVO POR CERCA DE DOZE ANOS. INAPLICABILIDADE DA LEI FEDERAL Nº 9.783/99 NOS ÂMBITOS ESTADUAIS E MUNICIPAIS. POR IGUAL, IMPOSSIBILIDADE DE APLICAÇÃO DO INSTITUTO DA PRESCRIÇÃO INTERCORRENTE PREVISTA NO DECRETO Nº 20.910/32. AFRONTA À RAZOÁVEL DURAÇÃO DO PROCESSO. DIREITO FUNDAMENTAL CONSTITUCIONUAL. DECLARAÇÃO DE NULIDADE DO PROCESSO ADMINISTRATIVO ACERTADA.
+1. Em razão da impossibilidade de adoção da Lei nº 9.873/1999 e do Decreto nº 20.910/32 para fins de verificação da chamada "prescrição intercorrente", a C.
+5ª Câmara Cível desta e. Tribunal passou a analisar o trâmite dos procedimentos administrativos perante o Procon sob a ótica constitucional da duração razoável . do processo 2. A paralisação do processo administrativo por aproximadamente doze anos decorreu de mera inércia do PROCON Estadual, que não deu qualquer andamento ao feito nem realizou diligências para apurar os fatos narrados na reclamação formulada pelo consumidor, razão pela qual deve ser mantida a r.sentença que reconheceu a nulidade do processo administrativo.
+RECURSO NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados (fls. 112-117, e-STJ).
+Sustenta a parte agravante, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC/2015, sob o argumento de que os vícios apontados nos Embargos de Declaração não foram supridos; e, no mérito, dos arts. 927 e 928 do CPC/2015 e dos arts. 1º e 4º do Decreto 20.910/1932. Aduz, em síntese, não haver previsão legal para reconhecer a prescrição intercorrente de processo administrativo.
+Apresentadas contrarrazões, sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 204-205, e-STJ), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 242-253, e-STJ.
+É o relatório.
+Decido
+Os autos ingressaram neste Gabinete em 9/4/2021.
+Constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+Verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, só muito excepcionalmente admitida.
+Cuida-se, na origem, de ação proposta pela parte ora agravada contra o Estado do Paraná, a fim de obter a anulação de multa aplicada pelo PROCON no âmbito de processo administrativo contra ela instaurado.
+A controvérsia reside na possibilidade de decretação de prescrição intercorrente no bojo de ação administrativa punitiva.
+A irresignação do agravante merece prosperar, dada a ausência de previsão legal da prescrição intercorrente e a divergência entre o acórdão recorrido e o entendimento consolidado por esta Corte.
+A jurisprudência do Superior Tribunal de Justiça se posiciona pelo afastamento da incidência do Decreto 20.910/1932 em hipóteses como esta. Isso porque o dispositivo trata somente da prescrição quinquenal do fundo de direito, e não da prescrição intercorrente, a qual, embora prevista na Lei 9.873/1999, é inaplicável aos processos administrativos punitivos instituídos por Estados ou Municípios. Neste sentido:
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA ADMINISTRATIVA. PROCON. LEI 9.873/1999. INAPLICABILIDADE ÀS AÇÕES ADMINISTRATIVAS PUNITIVAS DESENVOLVIDAS POR ESTADOS E MUNICÍPIOS. PRESCRIÇÃO. APLICAÇÃO DO DECRETO 20.910/1932. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREVISÃO LEGAL.
+1. O Superior Tribunal de Justiça entende que, em casos de ação anulatória de ato administrativo ajuizada em desfavor da Coordenadoria Estadual de Proteção de Defesa do Consumidor, em decorrência do exercício do poder de polícia do Procon, é inaplicável a Lei 9.873/1999, sujeitando-se a ação ao prazo prescricional quinquenal previsto no art. 1o. do Decreto 20.910/1932.
+2. O art. 1º. do Decreto 20.910/1932 apenas regula a prescrição quinquenal, não havendo previsão acerca de prescrição intercorrente, apenas prevista na Lei 9.873/1999, que, conforme entendimento do Superior Tribunal de Justiça, não se aplica às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal. (..).
+4. Agravo interno a que se nega provimento. (AgInt no REsp. 1.609.487/PR, Rel. Min. OG FERNANDES, DJe 23/2/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA ADMINISTRATIVA. PROCEDIMENTO ADMINISTRATIVO ESTADUAL. LEI N. 9.873/99. INAPLICABILIDADE. PRESCRIÇÃO INTERCORRENTE. DECRETO N. 20.910/32. AUSÊNCIA DE PREVISÃO LEGAL.
+1. "Verifico que o acórdão recorrido está em confronto com orientaçãodesta Corte, segundo a qual o art. 1º do Decreto 20.910/32 regula somente a prescrição quinquenal do fundo de direito, não havendo previsão acerca de prescrição intercorrente do processo administrativo, regulada apenas na Lei n. 9.873/99, que, conforme já sedimentado no STJ, não é aplicável às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal" (AgInt no REsp 1.770.878/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/2/2019). 2. Agravo interno não provido. (AgInt no REsp 1.738.483/PR, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, Julgamento em 28/05/2019, DJe 03/06/2019)
+Ante o exposto, conheço Agravo para conhecer do Recurso Especial e dar-lhe parcial provimento, de modo que os autos retornem ao Tribunal de origem para que a prescrição intercorrente seja afastada e os pontos suscitados na respectiva Apelação sejam analisados.
+Publique-se.
+Intimem-se.
