@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação proposta por NUTRIPLANT INDÚSTRIA E COMÉRCIO S/A contra acórdão do Tribunal de Justiça do Estado de São Paulo que, nos autos do Agravo Interno Cível n. 1004109-06.2018.8.26.0068/50003, manteve decisão que negou seguimento a recurso especial, por meio de acórdão assim ementado:
+AGRAVO INTERNO Decisão que determina o sobrestamento do recurso extraordinário que versa matéria submetida ao rito dos recursos repetitivos Hipótese que se amolda ao Tema n. 863 do STF.
+Agravo não provido.
+Opostos embargos de declaração, no qual se apontouomissão naanálise do argumento trazido no agravo, de que teria havidoaplicação equivocada do REsp 1.148.444/MG, julgado sob o rito dos recursos especiais repetitivos, esses foram rejeitados.
+A reclamante alega que a Corte de origem deixou de aplicar o entendimento consubstanciado no REsp 1.148.444/MG,segundo o qual o adquirente de boa-fé poderia valer-se do creditamento de ICMS na hipótese em que houvesse posterior declaração de inidoneidade da nota fiscal emitida pela empresa vendedora, situação demonstrada nos autos.
+Afirma que o referido precedente obrigatório corroboraria com o direito pretendido, devendo o acórdão combatido ser cassado para garantir a autoridade do decisum vinculante.
+Passo a decidir.
+O processamento da presente reclamação deve ser, desde logo, indeferido.
+Isso porque, com a ressalva do meu ponto de vista em sentido contrário, já manifestado por ocasião do julgamento da Rcl 37.081/SP, a Corte Especial do STJ, na sessão de 05/02/2020, ao apreciar a Rcl 36.476/SP, rel. Ministra Nancy Andrighi, DJe 06/03/2020, decidiu que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo à realidade do processo.
+Entendeu a Corte, em síntese, que o art. 988, IV, do CPC/2015, ainda no período da vacatio legis, foi alterado pela Lei n. 13.256/2016, sendo excluída a previsão de cabimento de reclamação para garantir a observância de precedente oriundo de "casos repetitivos", passando a constar, apenas, o precedente advindo do julgamento de IRDR, que é espécie daqueles.
+Destacou que, sob um aspecto topológico, não há coerência e lógica em afirmar que o parágrafo 5º, II, do referido dispositivo, com a redação dada pela nova Lei, veicularia nova hipótese de cabimento de reclamação, já que as hipóteses de cabimento foram expressamente elencadas nos incisos do caput.
+Afirmou, ainda, que a investigação do contexto jurídico-político em que foi editada a Lei n. 13.256/2016 enseja a compreensão de que a norma efetivamente visou ao não cabimento de reclamações dirigidas ao STF e ao STJ para o controle da aplicação de acórdãos proferidos sob a sistemática de questões repetitivas, sendo certo que admitir o contrário atenta contra a finalidade da instituição da sistemática em comento, que surgiu como mecanismo de racionalização da prestação jurisdicional das Cortes Superiores.
+Registrou que na sistemática dos recursos repetitivos a aplicação no caso concreto não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno previsto no art. 1.030, § 2º, do CPC/2015.
+Assim, em razão do posicionamento adotado pela Corte Especial do STJ, mostra-se incabível a presente reclamação.
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, INDEFIRO LIMINARMENTE a presente reclamação, porquanto incabível.
+Publique-se. Intimem-se.
