@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar,impetrado em benefício de Leonardo Soares dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n. 2029556-81.2021.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática dacondutadescritanoart. 33da Lei n. 11.343/2006, bem como teve a sua prisão posteriormente convertida em preventiva em 28/1/2021(fls. 35/41).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem em 11/3/2021(fls. 20/25).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata dos delitos, de forma genérica.
+Aduz-seque não existem indícios eprovassuficientes de que o paciente tenha cometido os crimes a ele imputado.
+Ressaltam-se os predicados favoráveis do paciente, como primariedade, residência fixa e trabalho lícito.
+Invoca-se o princípio constitucional da presunção de inocência.
+Argumenta-seque o paciente seria o responsável pelo filho menor de 5 anos.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar em 15/3/2021e solicitadas as informações, essas foram prestadas às fls. 82/84 e 86/110.
+O Ministério Público Federal, em seu parecer, opinou pelonão conhecimento dowrite, se conhecido, pela denegação da ordem(fls. 113/117).
+Após consulta realizada no portal oficial do Tribunal local, nota-se que não houve prolação de sentença.
+Éo relatório.
+Aqui, busca-se a revogação da prisão preventiva imposta ao paciente, ao argumento da ausência de fundamentação para tanto.
+Inicialmente, cabe ressaltar que, na via dohabeas corpus, não há como se discutir a negativa de autoria ea ausência de provas, pois demandariam o reexame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria, o que,in casu, aconteceu.
+Ademais, aalegação no sentido de que o filho menor de 5 anos dependeria dos cuidados do paciente nem mesmo foi analisada no acórdão impugnado, sendo vedada a pretendida supressão de instância.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Na espécie, o Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou a sua decisão no que interessa (fls. 36/39- grifo nosso):
+ ..
+No caso em apreço, a prova da materialidade e os indícios suficientes autoria do crime de TRÁFICO DE DROGAS(artigo 33 da Lei nº 11.343/2006)encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, em especial as declarações colhidas, o auto de apreensão (fl. 18/19) e o laudo de constatação da droga (fls. 60/62). Trata-se, na hipótese, da apreensão de 20 porções de cocaína(983,7g), além de 2 aparelhos celulares, 1 veículo e R$120,00 (cento e vinte reais).
+ ..
+A quantidade de droga apreendida, a forma de acondicionamento, prontas para comercialização, a apreensão de dinheiro e as circunstâncias da abordagem, motivada pela atitude suspeita dos indiciados, sendo que Leonardo fechou o vidro do veículo e Anderson demonstrou nervosismo ao avistarem a presença policial, tendo eles efetuado fuga do local ao descerem do veículo, sendo perseguidos e detidos, um deles lesionando-se durante a fuga, bem como os antecedentes dos indiciados, indicam a finalidade de mercancia.
+ ..
+Note-se que a quantidade de droga apreendida não pode servir, por ora, para afastar a capitulação legal inicialmente dada aos fatos, pois é suficiente para a mercancia.
+A gravidade em concreto do delito infere-se pela quantidade e natureza de droga apreendida - 20 porções de cocaína (983,7 g)-, aliada à apreensão de dinheiro - R$120,00 -, do qual os indiciados não comprovaram origem lícita, e aos antecedentes do indiciado Anderson, que é reincidente específico, bem como de Leonardo, que obteve ANPP por tráfico de drogas em 2020, que indicam inserção delitiva no mundo do tráfico de drogas e dedicação a atividades criminosas, configurando risco concreto de reiteração delitiva, a justificar a manutenção da prisão, para garantir a ordem pública, para assegurar a credibilidade da justiça e evitar que novas infrações sejam praticadas, garantindo a efetividade e eficácia do processo. Já não bastasse a delicada circunstância sanitária, incabível impor à população, com a soltura dos agentes, o enfrentamento à insegurança pública, mormente considerando a periculosidade apresentada aos moradores da região a presença de traficantes no local.
+ ..
+O Tribunal estadual, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao paciente, ressaltando que (fls. 22/23- grifo nosso):
+ ..
+Afinal, o Magistrado enfatizou a gravidade concretada conduta, na medida em que o paciente foi preso em flagrante, porque estaria transportando e trazendo consigo 20 porções de cocaína (983,7g), depois que policiais militares abordaram o veículo Fiat/Uno, placas GBR-0117 ocupado por ele e o corréu Anderson Feitosa Chaves.
+Além disso, a decisão impugnada apontou que o paciente já foi preso por tráfico de drogas, e firmou acordo de não persecução penal (voltando, então a se envolver com o tráfico - fls. 74 e 95/101, dos autos principais), circunstâncias que, certamente, recomendam a constriçãopara a garantia da ordem pública e da instrução criminal.
+Ora, o comércio ilícito de drogas é conduta que, sem dúvida alguma, compromete a ordem pública, pois atinge um número elevado de pessoas e fomenta a prática de outros delitos mais graves, razão pela qual já se vislumbra a presença dos requisitos da custódia cautelar.
+ ..
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além daquantidade de cocaína apreendida,o fato de o paciente já ter sido beneficiado por um acordo de não persecução penal, em razão do envolvimento com o crime de mesma natureza.Tudo a revelar a periculosidadein concretodoagente e justificar a manutenção da medida extrema.
+Não foi outra a opinião do Ministério Público Federal em seu parecer (fls. 113/117).
+Como visto, o paciente tem se dedicadoà prática criminosa. Tal circunstância denota a imperiosidade da prisão preventiva, não havendo ilegalidade a ser suprida.
+Com efeito, o Superior Tribunal de Justiça já decidiu quenão há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu(RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019),possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva(HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Além disso, segundo o entendimento assentado nesta Corte Superior, há precedentes de ambas as Turmas que compõem a Terceira Seção dispondo que o risco real de reiteração delitiva, que pode ser extraído inclusive de inquéritos, ações penais em curso e de atos infracionais anteriormente praticados, demonstra a necessidade de se acautelar o meio social para que seja resguardada a ordem pública, nos termos do art. 312 do Código de Processo Penal.
+A teor da jurisprudência desta Corte, a garantia da ordem pública, para fazer cessar a reiteração criminosa, é fundamento suficiente para a decretação e manutenção da prisão preventiva (RHC n. 55.992/SP, Ministro Jorge Mussi, Quinta Turma, DJe 16/4/2015). Confiram-se ainda: RHC n. 108.692/MG, de minha relatoria, Sexta Turma, DJe 24/5/2019; HC n. 481.404/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe10/5/2019; e RHC n. 107.989/PR, Ministro Jorge Mussi, Quinta Turma, DJe 7/5/2019.
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante oexposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NEGATIVA DE INDÍCIOS DE AUTORIA E AUSÊNCIA DE PROVAS. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. RISCO DE REITERAÇÃO DELITIVA.INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA.AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Ordem denegada.
