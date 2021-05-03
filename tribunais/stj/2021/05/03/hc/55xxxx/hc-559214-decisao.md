@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de YGOR REIS NEGREIROS, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0011368-60.2017.8.26.0050).
+O paciente foi denunciado por suposta prática de roubo majorado. Na sentença, foi condenado por receptação. O Tribunal de Justiça decretou a nulidade da sentença.
+A impetrante alega constrangimento ilegal, pois, em sede de apelação, foi reconhecido que era o caso de mutatio libelli, não restando outra solução ao Tribunal de Justiça de São Paulo que não a absolvição.
+Requer, liminarmente, a suspensão do processo na origem. No mérito, requer a absolvição do paciente.
+O pedido de liminar foi indeferido (fls. 69-70).
+Foram prestadas as informações (fls. 72-79 e 83-88).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 90-91).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Tribunal a quo, assim decidiu (fls. 65-69):
+Acolhe-se a arguição de nulidade, por ofensa ao princípio da correlação.
+Com efeito, conforme se infere pela análise dos autos, o recorrente foi denunciado pela prática de roubo majorado, mas condenado por receptação (art. 180,caput, do Código Penal).
+Ocorre que, in casu, seria necessário o aditamento da inicial acusatória pelo representante do Parquet em primeira instância, uma vez que houve modificação da descrição dos fatos descritos na referida peça.
+Portanto, era de rigor a adoção do procedimento previsto no art. 384 do Código de Processo Penal, conhecido doutrinariamente por mutatio libelli, sob pena de ferir de morte o princípio da correlação. Neste sentido leciona Norberto Avena:
+"(..) A conduta física de subtrair constante no art.155 do CP é absolutamente diversa da conduta de adquirir, receber, ocultar e de qualquer outra constante do tipo do art. 180, do CP. Destarte, tal ordem de desclassificação importaria em considerar, por parte do magistrado na sentença, como fundamento da condenação, uma conduta diferente daquela descrita. Em síntese, ao defender-se de um furto não se defendeu o réu de um crime de receptação. E a recíproca também seria verdadeira, fosse o caso (..)" ("Processo Penal Esquematizado", Editora Método, 1ª edição, 2009, pág.936)", bem discorre a ilustrada Procuradoria Geral de Justiça, em judicioso parecer, que se adota e que dispensa outras considerações (fls. 246 a 247).
+Isto posto, na esteira do parecer da Procuradoria Geral de Justiça, acolhe-se a preliminar arguida, para decretar a nulidade da r. sentença recorrida.
+Não se constata ilegalidade quanto à conclusão adotada pelo Tribunal de origem. Com efeito, não houve aplicação da mutatio libelli pelo Tribunal a quo, mas sim decretação de nulidade da sentença de modo a se observar o regramento do art. 384 do Código de Processo Penal .
+A propósito, confiram-se os seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. DENÚNCIA POR FURTO SIMPLES. CONDENAÇÃO POR RECEPTAÇÃO SIMPLES. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. DESCUMPRIMENTO DOS PROCEDIMENTOS PREVISTOS NO ART. 384 DO CPP. ALTERAÇÃO DA CAPITULAÇÃO JURÍDICA COM BASE EM PROVA SURGIDA NO CURSO DA INSTRUÇÃO CRIMINAL. OCORRÊNCIA DE MUTATIO LIBELLI. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. O princípio da correlação (congruência) entre a denúncia e a sentença condenatória representa, no sistema processual penal, uma das mais importantes garantias ao acusado, visto que impõe limites para a prolação do édito condenatório ao dispor que deve haver precisa correspondência entre o fato imputado ao réu e a sua responsabilidade penal.
+2. Necessário o aditamento da peça acusatória, nos termos do art. 384 do CPP, quando surgir, no curso do processo, novo delineamento fático não contido na inicial (HC 186.904/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/12/2014, DJe de 11/12/2014) 3. Na hipótese, em nenhuma passagem da denúncia que imputou ao paciente a prática do crime de furto, foi descrito o elemento subjetivo do crime de receptação, consistente na ciência, pelo autor do delito, de que é produto de crime a coisa que se adquire.
+Nesse contexto, é nula a sentença que, com base em prova colhida durante a instrução criminal, condena o réu por fatos não descritos pela acusação, em descumprimento com o procedimento previsto no art. 384 do CPP (mutatio libelli).
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para declarar a nulidade da sentença penal condenatória proferida nos autos n. 0001029-27.2017.8.26.0540, com a possibilidade de aditamento da denúncia, de forma a garantir ao paciente que se defenda de todos os fatos a ele imputados, a serem devidamente apreciados pelo Juízo de primeiro grau. (HC 620.962/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+ ..
+USO DE DOCUMENTO FALSO. SENTENÇA CONDENATÓRIA NA QUAL É RECONHECIDA A PRÁTICA DE FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. MUTATIO LIBELLI. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Não havendo, na peça de acusação, a descrição de qualquer conduta do paciente que se enquadre nas circunstâncias elementares do tipo descrito no artigo 297 do Código Penal, afasta-se a hipótese de emendatio libelli.
+2. A partir do momento em que o magistrado sentenciante reconhece que, das provas dos autos, restou comprovada a prática da conduta tipificada no artigo 297 do Código Penal, seria necessário que adotasse o rito previsto no artigo 384 do Código de Processo Penal, sob pena de cerceamento de defesa, o que, na espécie, não aconteceu,
+3. Ante a constatação da nulidade do édito repressivo, resta prejudicado o exame da alegada inidoneidade da folha de antecedentes do paciente para atestar a sua reincidência.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para cassar a sentença condenatória proferida em desfavor do paciente, a fim de que outra seja prolatada nos limites da descrição contida na denúncia, ou proceda ao trâmite do artigo 384 do Código de Processo Penal. (HC 388.727/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 5/4/2017.)
+Do mesmo modo, assim dispôs o Ministério Público Federal (fl. 91):
+5. Toda a argumentação da impetrante, com a devida vênia, revela-se falaciosa, pois assentada em premissa equivocada. Em que pese tratar-se de recurso de apelação exclusivo da defesa do réu, verifica-se dos autos que a Corte estadual não operou a aventada mutatio libelli. Apenas identificou na sentença penal o erro procedimental do juízo criminal que, ao reconhecer elementar não descrita na peça acusatória, deixou de adotar a disciplina inscrita no art. 384, do CPP,1optando por condenar o ora paciente pela prática de infração penal não narrada na denúncia (fls. 8/11), sem determinar ao Parquet a realização de aditamento da acusação, em apreço aos princípios do contraditório e da ampla defesa.
+6. Daí porque não haveria que se falar sequer em reformatio in pejus , decorrente de inobservância por parte do TJSP do princípio da correlação entre denúncia e sentença penal nem em ofensa ao verbete sumular nº 453/STF.
+Dessa forma, inexiste flagrante ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
