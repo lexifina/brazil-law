@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fls. 128-132, e-STJ):
+TRIBUTÁRIO. INEXIGIBILIDADE DE IPI SOBRE RAÇÕES PARA CÃES E GATOS EM EMBALAGENS SUPERIORES A 10 QUILOS. DECRETO-LEI 406/68. DECRETO 89.241/83.
+Não incide IPI sobre rações para cães e gatos, acondicionados e comercializados em embalagens superiores a dez quilos.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aduz, em preliminar,violação dos arts. 489, § 1º, 1.022, II, parágrafo único, II, do CPC/2015, por omissão no acórdão, e, no mérito, dos arts.11, I, da Lei 7.798/1989; 13 e15 da Lei 9.493/1997; 6º e7º da Lei 10.451/2002,alegando, em suma, que"há amparo para a exigência do IPI independentemente do peso da embalagem, pois nãohouve qualquer restrição na lei superveniente sobre o referido assunto" (fls. 166-178, e-STJ).
+Recurso Especial admitido (fls. 201-202, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.4.2021.
+A irresignação não merece acolhida.
+Constata-se, inicialmente, que não se configura a alegada ofensa aos arts. 489, § 1º, e 1.022, II, parágrafo único, II, do CPC/2015, uma vez que o Tribunal a quo julgou integralmente a lide e fundamentamente rejeitou a tese recursal da Fazenda, aplicando a jurisprudência pacífica do STJ.
+Recorde-se que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: AgInt no REsp 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14.8.2018; AgInt no REsp 1.707.213/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe 14.6.2018; AREsp 389.964/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 7.2.2018; AgInt no AREsp 258.579/PE, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 6.10.2017.
+No tocante ao mérito, a pretensão também não merece prosperar. A parte recorrente afirma que os alimentos fabricados pela recorrida estão, independentemente do peso acondicionado na embalagem, dentro do campo de aplicação do IPI.
+O Superior Tribunal de Justiça, porém, possui entendimento firmado de que não incide IPI sobre alimentos preparados para cães e gatos, acondicionados e comercializados em embalagens superiores a dez quilos. Incide, portanto, a Súmula 83/STJ.
+Vejam-se os precedentes, com grifos acrescidos:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IPI. ALIMENTOS PARA CÃES E GATOS. EMBALAGENS COM CAPACIDADE SUPERIOR A DEZ QUILOS. NÃO-INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Não incide o IPI sobre alimentos preparados para cães e gatos, acondicionados e comercializados em embalagens superiores a 10kg (dez quilos). Precedentes.
+(..)V - Agravo Interno improvido. (AgInt no REsp 1.412.875/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 15.8.2018)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. RAÇÕES PARA CÃES E GATOS. EMBALAGENS SUPERIORES A DEZ QUILOS. NÃO INCIDÊNCIA.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido da não incidência do IPI sobre os alimentos preparados para cães e gatos, acondicionados e comercializados em embalagens superiores a dez quilos.
+2. Precedentes: AgRg no REsps 1.320.332/SP, Rel. Ministro Olindo Menezes - Desembargador convocado, DJe 2/2/2016; AgRg no AREsp n. 180.751/SP, Relator Ministro Napoleão Nunes Maia Filho, DJe 25/6/2015; AgRg no REsp n. 1.273.138/SP, Relator Ministro Og Fernandes, DJe 3/12/2014 e REsp n. 1.370.585/RJ, Relator Ministro Mauro Campbell Marques, DJe 16/8/2013.
+3. Agravo regimental não provido. (AgInt no REsp 1.555.942/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 4.6.2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. CLASSIFICAÇÃO DOS PRODUTOS NA TIPI E INCIDÊNCIA DO ART. 166, CTN. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO A AMBOS OS TEMAS. SÚMULA N. 282/STF. ART. 2º, DO DECRETO-LEI N. 400/68. NÃO INCIDÊNCIA DO IPI SOBRE ALIMENTOS PREPARADOS PARA ANIMAIS E OUTRAS PREPARAÇÕES UTILIZADAS NA ALIMENTAÇÃO DE ANIMAIS ACONDICIONADOS EM UNIDADES SUPERIORES A DEZ QUILOS.
+1. A discussão a respeito da correta classificação, se na série 2309, grupo 90 ("outros"), subdivisão 0200  "Preparações destinadas a fornecer ao animal a totalidade dos elementos nutritivos necessários para uma alimentação diária racional e equilibrada (alimentos compostos completos) " ou se no grupo 10 ("Alimentos para cães e gatos, acondicionados para venda a retalho"), para fins de verificação da alíquota de IPI aplicável (se zero ou 10%), não foi travada na Corte de Origem. Incidência da Súmula n. 282/STF.
+2. A alegada violação ao art. 166, do CTN, não foi prequestionada na origem. Incidência da Súmula n. 282/STF.
+3. Não incide o IPI sobre alimentos preparados para animais e outras preparações utilizadas na alimentação de animais (estimulantes, etc.) acondicionados em embalagens com capacidade superior a 10 kg (dez quilos), uma vez que a exigência nos termos da TIPI, aprovada pelo Decreto n. 4.542, de 26 de dezembro de 2002, está em dissonância com o art. 2º, do Decreto-Lei n. 400, de 30 de dezembro de 1968. Precedentes do STJ: REsp 953.519/SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 02.12.2008; AgRg no REsp 1136948 / RS, Primeira Turma, Rel. Min. Luiz Fux, julgado em 04.03.2010. Precedente do STF: RE 160.392/SP, Rel. Ministro Ilmar Galvão, Primeira Turma, julgado em 31.10.1997, DJ 13.02.1998. Precedente do extinto TFR: REO n. 108568/SP, Quinta Turma, Rel. Min Geraldo Sobral, Rel. p/acórdão Min. Torreão Braz, julgado em 18.06.1987.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.370.585/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 16.8.2013)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RI/STJ e da Súmula 568/STJ, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
