@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão do c. Tribunal de Justiça doEstadode Minas Gerais, interposto pela INDIANA SEGUROS S/A,que nãoadmitiuseurecurso especial, sob o fundamento deincidência doVerbete 83/STJ.
+É o relatório.
+Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz doEnunciado 3 do Plenário do STJ: "Aos recursos interpostoscomfundamentono CPC/2015 (relativos a decisões publicadas a partir de 18 demarço de2016) serão exigidos os requisitos de admissibilidade recursalna forma do novo CPC."
+Além disso, observa-se que o agravo previsto no art. 1.042 do CPC/15 tempor objetivo o processamento do recurso especial inadmitido pelaCortedeorigem. Assim, é imperioso que, nas razões recursais, oagravante demonstre expressamente o desacerto da decisão agravada. Na hipótese, a agravante não rebateu, como lhe competia,osfundamentos da decisão que inadmitiu o apelo especial. Com efeito,limitou-se a combater os enunciados 5 e7/STJ, que sequer foram óbices para inadmissibilidade do apelo especial por parte da Corte estadual, além de repisar as razões expostas no recurso especial. Olvidou-se,entretanto, deatacar, especificadamente, ofundamento de incidência da súmula 83/STJ.
+Com efeito, o princípio da dialeticidade, que regeosrecursosprocessuais, impõe ao recorrente, como requisito para aprópria admissibilidade do recurso, o dever de demonstrar por que razãoadecisãorecorrida não deve ser mantida, demonstrando o seu desacerto,seja do ponto de vista procedimental (error in procedendo), seja do pontodevistado próprio julgamento (error in judicando), porquanto nãoatende ao princípioem tela o recurso que se limita a tão só afirmar atesejurídicainteressante à sua pretensão, sem confrontar, de formajuridicamente balizada, os fundamentos adotados na decisão quebuscareformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permiteaoRelatornão conhecer de recurso que não impugna especificamente todosos fundamentos da decisão recorrida.
+Por fim, não conheço do agravo de fls. 785-797, tanto em razãodapreclusão consumativa, pois já interposto o mesmo recursoanteriormente, seja em razão da protocolização ter ocorrido diretamente neste STJ, e não perante o Presidente do Tribunal a quo.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço dos agravos em recurso especial.
+Publique-se.
