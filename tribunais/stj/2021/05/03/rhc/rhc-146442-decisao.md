@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 50):
+"HABEAS CORPUS" - DESENTRANHAMENTO DE PROVA SUPOSTAMENTE ILÍCITA - IMPOSSIBILIDADE DE ANÁLISE - INSTRUÇÃO DO WRIT - ÔNUS DO IMPETRANTE - NÃO CONHECIMENTO. É ônus do impetrante instruir os autos do "Habeas Corpus" com todos os documentos capazes de comprovar a ocorrência do constrangimento ilegal alegado na inicial, haja vista que a via estreita da referida ação não comporta dilação probatória. Não tendo sido o feito instruído com documentos hábeis à análise do pedido, o não conhecimento da ação constitucional é medida que se impõe.
+O recorrente foi preso em flagrante em 2/10/2020, convertido em preventiva, pela prática do delito tipificado no art. 33, caput, da Lei 11.343/2006.
+Neste recurso, argumenta, em suma,que a autoridade policial não seguiu o trâmite da quebra de dados cadastrais do telefone celular, como determinouo juízo de 1º grau nasua decisão, mas, sim, procedeu a quebra desigilo das comunicações, tendo acesso não só aos dados do aparelho, como também a todo o conteúdo íntimo que havia nele, caracterizando-se, assim, a ilicitude das provas obtidas.
+Requer, liminarmente e no mérito, o imediato desentranhamento das provas auferidas ilicitamente, com a consequente nulidade do procedimento.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+O mandamus impetrado na origem não foi conhecido nos seguintes termos (fls. 52-53):
+ ..  Em análise aos autos, não obstante as razões lançadas na inicial, importante pontuar que os impetrantes não conseguiram demonstrar convincentemente qualquer tipo de constrangimento ilegal que o paciente estaria sofrendo, mormente por não trazer aos autos documentos capazes de comprová-lo.
+Em linha de princípio, sabe-se que a petição inicial do "Habeas Corpus" deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo magistrado, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, uma vez que a via estreita do Habeas Corpus, de cognição e instrução sumária, não comporta dilação probatória.
+Registra-se que, no que tange à temática tratada na inicial, o impetrante instruiu o presente remédio constitucional apenas com cópia da decisão que deferiu o pedido de "quebra de dados" do celular do paciente.
+Não há nos autos qualquer elemento que indique que houve acesso aos dados indicados pelos impetrantes e que foram incluídas no processo referidas informações, bem como não há cópia da petição em que requerida a quebra e parecer emitido pelo Ministério Público, documentos indispensáveis para que se analisasse se a diligência extrapolou ou não os limites da autorização judicial.
+Não cabe ao Judiciário em sede de Habeas Corpus diligenciar para obter documentos indispensáveis para o convencimento do Magistrado. ..
+Opostos embargos de declaração, foram rejeitados nomesmosentido. Confira-se (fls. 69-70):
+ ..  Restou suficientemente esclarecido o entendimento da Turma Julgadora quanto ao fato de que os impetrantes não conseguiram demonstrar de forma convincente qualquer tipo de constrangimento ilegal que o paciente estaria sofrendo, mormente por não trazer aos autos documentos capazes de comprová-lo.
+Entendeu esta 4ª Câmara Criminal que a cópia da petição que requereu a diligência investigativa, bem como do parecer do Ministério Público, eram documentos indispensáveis para que fosse analisada a alegação de que a polícia civil excedeu os limites da autorização judicial concedida.
+Até porque a interpretação quanto à ocorrência de excesso deve levar em consideração o contexto como um todo, e não apenas a decisão isolada que deferiu a diligência. ..
+Como se vê, o Tribunal local não examinou a pretensão do paciente, ora recorrente, poisos impetrantes não conseguiram demonstrar de forma convincente qualquer tipo de constrangimento ilegal que o paciente estaria sofrendo, mormente por não trazer aos autos documentos capazes de comprová-lo, acrescendo que tais documentos eramindispensáveis para que fosse analisada a alegação de que a polícia civil excedeu os limites da autorização judicial concedida.
+Logo, fica esta Corte impossibilitada de analisar os argumentos trazidos no presente recursosob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
