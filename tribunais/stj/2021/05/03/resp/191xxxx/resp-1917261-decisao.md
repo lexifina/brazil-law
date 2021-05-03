@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por OMNI S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal,contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CONTRATO BANCÁRIO - Cédula de crédito bancário - Cerceamento de produção de provas inocorrente - Aplicabilidade do CDC - Autorização para a cobrança da taxa de juros efetiva anual contratada, consoante orientação do Recurso Especial Repetitivo nº 973.827-RS e Súmula nº 541 do STJ - Constitucionalidade do art. 5º da MP 2.170/01, conforme julgamento do RExt nº 592.377-RS - Ausência de prova de expressa pactuação de juros capitalizados em periodicidade inferior a 12 meses em data posterior às MP nºs. 1.963-17/2000 e 2.170-36/2001 e Lei nº 10.931/2004 para o período de inadimplência - Repetição de indébito ordenada na forma simples - Incidência da Súmula nº 322 do C. STJ - Admissibilidade de compensação entre créditos e débitos admitida - Sucumbência recíproca (art. 86, caput, do CPC) - Recurso provido em parte" (e-STJ fl. 150).
+O Tribunal de origem, em juízo de retratação, manteve o acórdão anteriormente proferido (e-STJ fls. 182/189).
+A recorrente indica aviolação dos arts. 421 do Código Civil, 4º e 9º da Lei nº 4.595/1994 e 1º do Decreto nº 22.626/1933.
+Defende a legalidade da cobrança de capitalização mensal dos juros e dos juros remuneratórios conforme pactuados.
+Sem contrarrazões, o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Com efeito, tendo o acórdão recorrido decidido manter a taxa de juros remuneratórios pactuada, é nítida a falta de interesse recursal da parte insurgenteno ponto.
+No tocanteà capitalização dos juros, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se sua cobrança em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos doze vezes maior do que a mensal, consoante se colhe da ementa do referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS.DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n.1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido" (Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+Na hipótese dos autos, o acórdão recorrido afirma terem sido pactuadas as taxas de 3,54% (três vírgula cinquenta e quatro por cento) ao mês e 51,80% (cinquenta e um vírgula oitenta por cento) ao ano (e-STJ fl. 156), considerando-se contratado o encargo nos termos da jurisprudência citada.
+Ante o exposto, conheço parcialmente do recurso especial para, nessa extensão,dar-lhe provimento a fim de declarar a legalidade da capitalização mensal dos juros, no caso concreto.
+Custas e honorários advocatícios nos termos da sentença de fls. 110/113 (e-STJ).
+Publique-se.
+Intimem-se.
