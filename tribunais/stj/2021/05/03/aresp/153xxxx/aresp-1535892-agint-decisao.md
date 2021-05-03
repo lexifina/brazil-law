@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno interposto por MAURACY ANDRADE DE FREITAS contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial (e-STJ fls. 163-164), por intempestividade.
+Inconformado, o agravante interpõe o presente recurso (e-STJ fls. 167-170), postulando a reforma da decisão agravada, sob a alegação de que comprovou através de documento hábil, a inexistência de expediente forense no Tribunal de Justiça do Estado de Goiás.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação da recorrente, faz-se imperiosa a reconsideração da decisão de fls. 163-164 e-STJ e passa-se ao exame do agravo em recurso especial interposto por MAURACY ANDRADE DE FREITAS contra a decisão que negou seguimento ao recurso especial.
+Ultrapassados os requisitos de admissibilidade do agravo, verifica-se que o recurso especial (fls. 102-115 e-STJ), fundamentado na alínea "a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE INSOLVÊNCIA CIVIL. RECURSO SECUNDUM EVENTUM LITIS. INDISPONIBILIDADE DE BENS DO SÍNDICO. ASSEGURAR EVENTUAL DÉBITO. CABIMENTO. 1. O agravo de instrumento é recurso secundum eventum litis, de modo que sua análise se cinge ao acerto ou desacerto do ato judicial agravado. 2. Demonstrada a existência de indícios suficientes da prática de atos fraudulentos pelo funcionário do síndico, revela-se lídima a decretação de indisponibilidade de seus bens, afim de assegurar eventual débito quando da prestação de contas. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO"(e-STJ fl. 92).
+Nas razões do recurso especial, o recorrente alega que o acórdão violou o artigo 553 do Código de Processo Civil de 2015, ao decretar a indisponibilidade dos bens do recorrente, além de determinar várias ações em relação à sua pessoa e estender a ele as mesmas providências já tomadas em relação ao confesso executor de uma fraude.
+A pretensão recursal não merece acolhida.
+O Tribunal de origem manteve a decisão que determinou a indisponibilidade dos bens do recorrente com base nos seguintes fundamentos:
+"O cerne da controvérsia em foco cinge-se em verificar a presença dos requisitos legais exigidos à concessão da tutela almejada pelo ente ministerial no primeiro grau de jurisdição, no tocante à indisponibilidade de bens do agravante.
+(..) Pois bem, a indisponibilidade de bens prevista no artigo 553, parágrafo único, do CPC, aplicável à espécie, permite o sequestro de bens e tem por finalidade resguardar a devida prestação de contas, de forma a assegurar a recomposição de eventual prejuízo.
+(..) Assim, ao contrário das alegativas do recorrente, tenho que a medida estabelecida pelo Julgador de Origem encontra respaldo no ordenamento jurídico, não se vislumbrado a alegada ilegalidade do ato judicial em referência.
+Na verdade, ele utiliza-se do rigor da forma para afastá-la, já que, pela letra da lei, haveria de se dar a prestação de contas em processo apenso. No entanto, em considerando que o mesmo Julgador de Origem poderá, na via processual secundária, promover os e sequestro de bens do administrador judicial, não vejo razão para afastar referida ordem, uma vez flagrante a responsabilidade do agravante na condução de referido encargo, como pontuou o parquet, senão vejamos (..).
+Ademais, veja-se que o agravante teve a oportunidade de se manifestar nos autos, e, ainda, que não se vê qualquer medida expropriatória em seu desfavor, de forma que prudente manter a ordem fustigada com efeito de se aguardar a devida prestação de contas, prestigiando-se, por assim dizer, os princípios da instrumentalidade das formas, economia e celeridade processuais" (e-STJ fls. 85-89).
+Com efeito, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, reconsidero a decisão agravada (fls. 163-164 e-STJ), conhecendo do agravo para não conhecer do recurso especial.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
