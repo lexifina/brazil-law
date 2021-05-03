@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de expediente avulso referente à petição que repousa às e-STJ fls. 474/476, protocolizada na origem, em que o MUNICÍPIO DE ALAGOA GRANDE/PBrequera nulidade da certidão de trânsito em julgado da decisão de minha lavra, proferida às e-STJ fl. 388/391, em quenão conheci do recurso especial.
+Sustentaque os nomes dos advogados substabelecidos à e-STJ fl.369 não constaramna publicação do referido decisum,o que acarreta a nulidade do atos processuais praticados após o provimento judicial.
+Requer, assim, a nulidade de todas as intimações, desde a publicação da decisão monocrática.
+Impugnação.
+Passo a decidir.
+Conforme andamento processual, a decisão proferida que não conheceu do recurso especial interposto pelo ora requerentetransitou em julgadoem 19/03/2020. Da publicação do referido decisório constaram como advogados dos autores os Drs. JOHN JOHNSON GONÇALVES DANTAS DE ABRANTES, ROMERO SÁ SARMENTO DANTAS DE ABRANTES, BRUNO LOPES DE ARAÚJOE OUTROS.
+O Superior Tribunal de Justiça firmou entendimento de que havendo diversosadvogados constituídos, é válida a intimação feita em nome de qualquer deles, salvo se houver pedido expresso para que a publicação seja efetivada exclusivamente em nome de determinado causídico.
+A propósito, veja-se:
+PROCESSUAL CIVIL. OMISSÃO INEXISTENTE. INTIMAÇÃO. ADVOGADO SUBSTABELECIDO. POSSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE PUBLICAÇÃO EM NOME DE DETERMINADO PROCURADOR. NULIDADE INEXISTENTE.
+1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Segundo a jurisprudência do STJ, estando a parte representada por mais de um advogado, e não havendo pedido expresso de que a intimação seja realizada exclusivamente no nome de determinado procurador, é válida a intimação efetivada em nome de qualquer um deles, não havendo nulidade a declarar, em decorrência de os demais causídicos serem substituídos pelo termo "E OUTROS". Súmula 83/STJ.
+3. "É valida a intimação publicada em nome do advogado a quem foram substabelecidos poderes com reserva de iguais, ao qual, além do mais, foi acrescido o vocábulo "e outros", fato que viabiliza a identificação do que foi publicado." (AgRg no REsp 41.852/SP, Rel. Ministro WILLIAM PATTERSON, CORTE ESPECIAL, julgado em 23/05/1995, DJ 19/06/1995, p. 18590).
+Agravo regimental improvido. (AgRg no REsp 1459889/PE,RelatorMinistro HUMBERTO MARTINS,Órgão JulgadorT2 - SEGUNDA TURMA,DJe 28/08/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NA PETIÇÃO NO RECURSO ESPECIAL. EXPEDIENTE AVULSO NO RECURSO ESPECIAL. ALEGAÇÃO DE NULIDADE DA INTIMAÇÃO DA DECISÃO UNIPESSOAL DO RELATOR, QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. EXISTÊNCIA DE REQUERIMENTO ANTERIOR QUE PLEITEIA A PUBLICAÇÃO EM NOME DE TODOS OS ADVOGADOS. AUSÊNCIA DE PEDIDO DE INTIMAÇÃO EXCLUSIVA. HIPÓTESE QUE NÃO ENSEJA NULIDADE.
+PRECEDENTES DO STJ: (..) ARGUMENTAÇÃO QUE DEFENDE A INFRINGÊNCIA DO ART. 272, § 5o. DO CÓDIGO FUX. RECURSO QUE TRAMITOU SOB A ÉGIDE DO CPC/1973, TAMBÉM APLICÁVEL ÀÉPOCA DO REQUERIMENTO DE PUBLICAÇÃO EM NOME DE TODOS OS CAUSÍDICOS. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Tendo havido toda a tramitação recursal sob a égide do CPC/1973, inclusive o requerimento de intimação de todos os advogados, não se pode aplicar retroativamente, o disposto no art. 272, § 5o. do Código Fux.
+2. A jurisprudência deste STJ, na vigência do Código Buzaid, firmou dois posicionamentos a respeito: (a) quando a parte requerer a intimação de todos os Advogados da procuração, é válida a intimação realizada em nome de apenas um deles, e; (b) quando houve pedido de intimação exclusiva, o que não houve no presente caso, a intimação é nula se não constar, ao menos, o nome daquele causídico indicado como exclusivo.
+3. No presente caso, não houve pedido de intimação exclusiva, mas sim de todos os Advogados, sendo válida, portanto, a intimação realizada em nome de qualquer um dos constantes nos mandatos e/ou substabelecimentos, nos termos do entendimento jurisprudencial consolidado no âmbito deste STJ.
+4. Agravo Interno da Empresa a que se nega provimento. (AgInt na PET no REsp 1499824/RN,RelatorMinistro NAPOLEÃO NUNES MAIA FILHO,Órgão JulgadorT1 - PRIMEIRA TURMA,DJe 07/11/2019)
+Na presente hipótese, não há nos autos pedido expresso de que a intimação seja realizada exclusivamente em nome de determinado procurador, mas sim de todos os advogados (vide e-STJ fl. 368), sendo válida, portanto, a intimação ora impugnada.
+Diante do exposto, INDEFIRO o pedidode e-STJ fls. 474/476.
+Intimem-se. Publique-se.
