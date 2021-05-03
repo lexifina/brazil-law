@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deFELIPE BUENO GUTERRESe de JOSÉLUIZ BORGES GUTERRES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5081741-69.2020.8.21.7000).
+Ospacientes foram presos preventivamente, diante de representação da autoridade policial (fls. 33-45), por suposta prática dos delitos de organização criminosa e tráfico de drogas.
+O decreto prisional fundou-se na suposta participaçãodos pacientesem organização criminosa. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que ospacientes estãosendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar, fundada na gravidade abstrata do delito.
+Sustenta queos pacientes preenchem os requisitos previstos no art. 318, III, do CPP, suficientes para a substituição da prisão preventiva por custódia domiciliar.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor dos pacientes ou a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 73-74.
+As informações foram prestadas às fls. 78-165.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowritou por sua denegação, caso dele se conheça(fls. 172-175).
+A defesa requereu, às fls. 177-181, a desistência do habeas corpus em relação ao pacienteJOSÉ LUIZ BORGES GUTERRES, porter sido revogada sua preventiva.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 154-159):
+ ..  Quanto ao mais, colhe-se que os pacientes tiveram decretada a prisão preventiva em virtude de representação formulada pela autoridade policial, apontando seu envolvimento em organização criminosa ("Os Tauras") voltada para o comércio de entorpecentes na região de Pelotas, Piratini, Herval e Santa Vitória do Palmar, fato apurado mediante interceptação telefônicae análise do conteúdo de aparelho celular apreendido com o corréu LUIZ CÉSAR.
+Segundo consta, a organização criminosa seria comandada por indivíduo recolhido aosistema prisional (o corréu LUIZ CÉSAR), exercendo o paciente FELIPE papel de destaque na organização, como gerente do tráfico de drogas na região de Piratini, recebendo ordens e prestando contas diretamente àquele.
+Por sua vez, o paciente JOSÉ LUIZ (genitor de FELIPE) seria encarregado por um dos pontos de venda no município.  ..
+Conforme relatório do i. Delegado de Polícia fora possível identificar um esquema organizado de distribuição, armazenamento e venda de entorpecentes na região, interligados e comandados pela facção "OS TAURAS", sendo identificado diversos indivíduos que atuam no tráfico de drogas no município de Piratini, todos comandados por Luiz Cersar. Um dos principais responsáveis pelo tráfico de drogas em Piratini é o Felipe Bueno Guterres, citado como GERENTE do tráfico no município.  ..
+Ainda, observa-se que (a) FELIPE registra outro inquérito policial em curso pela prática dos crime de organização criminosa e tráfico de drogas; (b) JOSÉ LUIZ registra outro inquérito policial em curso pela prática dos crimes de tráfico de drogas, associação para o tráfico e corrupção de menores.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, osuposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Também a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+No que diz respeito à substituição por prisão domiciliar,a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto,homologo o pedido de desistência em relação ao paciente JOSÉ LUIZ BORGES GUTERRESe, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus em relação ao pacienteFELIPE BUENO GUTERRES.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
