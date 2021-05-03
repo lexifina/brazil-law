@@ -1,0 +1,28 @@
+DECISÃO
+RICARDO DOS SANTOSalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeirono HC n. 0044072-09.2019.8.19.0000.
+Postula arevogação da prisão preventiva, decretada pela suposta prática dos crimes de homicídio qualificado e coação no curso do processo, por considerar inidônea a motivação dodecisumque estabeleceu a cautela extrema. Ressalta que o corréu Cecilio Ricardo dos Santos foi beneficiado com a concessão de liberdade provisória.
+Extrai-se dos autos que a prisão temporária do paciente- decretada em 14/9/2018- foi convolada em custódia preventiva em 26/3/2019, sob a seguinte motivação (fls. 20-21, grifei):
+Enfrentando o pleito de prisão preventiva formulado, observo que se trata de denúncia oferecida pelo Ministério Público em face de Ricardo dos Santos, por suposto cometimento do delito previsto no artigo 121, § 2º, incisos II e IV, em concurso material de crimes, na forma do artigo 69 do CP com o crime do artigo 344, também do Código Penal, bem como em face de Cecilio Ricardo dos Santos, por suposto cometimento do delito previsto no artigo 344 do Código Penal.
+ ..
+Assiste razão ao membro do Ministério Público quando ressalta a necessidade da segregação cautelar dos denunciados para garantia da ordem pública diante da gravidade concreta do delito, tendo em vista o modo de execução, considerando que o delito fora praticado por motivo fútil e à emboscada, com meios que impossibilitou a defesa da vítima, vez que supostamente o denunciado Ricardo teria se ocultado na área de mata do sítio de propriedade de Cedric e efetuado disparo a curta distância com uma espingarda em direção à região temporal esquerda da vítima, ocasionando o imediato óbito de Cedric Alexandre.
+Ressalte-se que os crimes imputados aos denunciados guardam conexão entre si na medida em que os crimes coação no curso do processo imputados a ambos os denunciados foram praticados para garantir a suposta impunidade do crime de homicídio imputado ao denunciado Ricardo.
+Não obstante, conforme se extrai do conjunto probatório coligido nos autos do inquérito policial, há indícios de que os denunciados tenham influência na comunidade em que os crimes foram cometidos, exercendo rígido controle sobre os movimentos das testemunhas residentes no local, bem como, de todas as ações das autoridades policiais para tentar responsabilizá-los pelos supostos crimes cometidos.
+Destaca-se ainda que, além da coação supostamente perpetrada por ambos os denunciados no curso das investigações policiais, o denunciado Ricardo dos Santos encontra-se foragido desde que teve a sua prisão temporária decretada nos presentes autos, restando evidente, pois a sua nítida intenção de furtar-se à aplicação da lei penal.
+Diante desse quadro, mostra-se imperativa a custódia cautelar como meio de se preservar a ordem pública e evitar que os denunciados voltem a delinquir.
+Todavia, tenho que a prisão preventiva também se afigura conveniente à instrução criminal, posto que as testemunhas dos delitos se mostram temerosas, circunstância que decerto dificultará a obtenção de elementos probatórios em juízo, ante o receio de represálias pelos supostos autores das condutas, acaso estejam em liberdade.
+Dessa forma, torna-se patente que a custódia preventiva é absolutamente necessária para a garantia da ordem pública e para conveniência da instrução criminal, além da preservação das incolumidades física e moral das testemunhas, não vislumbrando, por enquanto, a possibilidade de adoção de outra medida cautelar que não a prisão, posto que se mostra necessária e adequada à hipótese presente.
+Ao denegar a ordem, o Tribunal de origem ressaltou que "o paciente encontra-se foragido desde a decretação de sua prisão temporária, restando nítida sua intenção de furtar-se à aplicação da lei penal" (fl. 38, destaquei).
+Na hipótese, sãoidôneos os fundamentos exarados peloJuízo deprimeiro grau, por evidenciarem a gravidade da conduta em tese perpetrada (após se esconder na propriedade da vítima, efetuou disparo de espingarda contra o ofendido, que ocasionou sua morte) eo risco à aplicação da lei penal, vistoque, desde a decretação de sua prisão temporária - ocorrida há cerca de 2 anos e 7 meses- o acusado está foragido.Nesse sentido, confiram-se precedentes desta Corte Superior:
+ ..
+2. A decretação da custódia cautelar encontra-se suficientemente fundamentada diante das circunstâncias do caso queretratam que o Pacienteencontra-se foragido, a indicar a necessidade dasegregação provisóriapara a conveniência da instrução processual e agarantia da aplicação dalei penal.
+ ..
+7. Ordem de habeas corpus parcialmente conhecida e, nessa extensão,denegada.
+(HC n. 525.101/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 12/11/2020,destaquei)
+ ..
+3. Hipótese em que a custódia provisória está suficientemente motivadanagarantia da ordem pública, tendo em vista a periculosidade doagravante,que se evidencia na gravidade concreta da conduta delitiva.Segundoconsta, o agravante teria desferido golpes de faca na vítima emrazãodesta ter-lhe pedido alguns cigarros.
+ ..
+7. Agravo regimental não provido.
+(AgRg no HC n. 582.576/PR, Rel. Ministro Ribeiro Dantas, 5ª T.,DJe3/9/2020, destaquei)
+Ressalto, por oportuno, que a prática do crime de homicídio foi imputada somente ao ora paciente, e não há notícia de que o corréu Cecilio Ricardo dos Santos estivesse foragido no momento em que foi beneficiado com a concessão de liberdade provisória, motivo pelo qual não se identifica similitude fática entre a situação do coacusado e do ora postulante.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
