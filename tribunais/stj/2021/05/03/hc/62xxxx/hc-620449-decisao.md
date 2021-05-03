@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de ANSELMO JOSÉ DA SILVA, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro(Processo n.0056178-66.2020.8.19.0000).
+A defesa alega excesso de prazo na formação da culpa. Acrescenta que o paciente encontra-se preso desde 10/10/2016. Destaca que "a prisão do paciente é claramente ilegal por excesso de prazo, já que, sequer a fase do art. 422 do CPP foi iniciada, em uma decisão de pronúncia transitada em julgado em 25.10.2018 (há quase dois anos), de modo que a ordem merece ser concedida para que se reestabeleça a liberdade do paciente" (fl. 7).
+Aduz ausência dos requisitos mantenedores da segregação cautelar.Pontua que, desde o advento da Lei Federal n. 13.964/2019, não houve qualquer manifestação do Juízo de origem acerca da necessidade de manutenção do paciente no cárcere.
+Sustenta que os fatos descritos na denúncia supostamente ocorreram em 3/10/2010. Afirma que adecisão que decretou a prisão do paciente foi proferidaem 26/9/2016, o que evidencia ausência de contemporaneidade.
+Requer o relaxamento da prisãopara que se conceda a liberdade provisória ao paciente, com ou sem a imposição de medida cautelar diversa da segregação corporal, expedindo-se o alvará de soltura.
+O pedido de liminar foi indeferido às fls. 93-94.
+O Ministério Público Federal manifestou-se pela ausência de ilegalidade a permitir a concessão da ordem de ofício, com recomendação para que o Tribunal de Justiça do Rio de Janeiro aprecie a existência de eventual constrangimento ilegal perpetrado em desfavor do paciente, como entender de direito(fls. 113-116).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Por oportuno, destaca-se que o impetrante deixou de colacionar aos autos o acórdão proferido no julgamento do recurso em sentido estrito realizado na origem, o que inviabiliza o amplo conhecimento das teses apresentadas no remédio constitucional.
+Nas informações apresentadas pelo Tribunal de origem, sobreveio tão somente a ementa do acórdão (fls. 98-107), tendo sido esclarecido que o feito teve seu regular prosseguimento, não subsistindo a alegação de excesso de prazo.
+Por fim, nada foi dito a respeito dos fundamentos da prisão preventiva, o que também impede o conhecimento da matéria por esta Corte superior, sob pena de caracterizar indevida supressão de instância(RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Assim, a deficiência da instrução dowrit, combinada com a falta de elementos suficientes que demonstrem o prequestionamento da matéria pela instância ordinária,impede a análise do constrangimento ilegal alegado pelo impetrante em suas razões.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
