@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por FATIMA DE MATTOS ESTEVAM contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, da Constituição Federal.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base no(s) seguinte(s) fundamento(s): ausência de afronta a dispositivo legal e ausência de similitude fática (e-STJ fls. 381/383).
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente aausência de similitude fática.
+De fato, no ponto, a parte agravante asseveroua demonstração do cotejo analítico do dissídio jurisprudencial (e-STJ fls. 397/398), fundamento sequer mencionado na decisão agravada, em patente afronta ao princípio da dialeticidade.
+Sobre a hipótese:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Pela leitura das razões recursais, constata-se que, quando da interposição do Agravo em Recurso Especial, a parte agravante não rebateu suficientemente, como lhe competia, todos os fundamentos da decisão agravada, deixando de impugnar especificamente a incidência da Súmula 7/STJ, ausência de similitude fática e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. Nos termos do Enunciado 6/STJ, a ausência de impugnação de fundamento da decisão agravada, por sua gravidade, não é vício passível de desconsideração na forma do § 3o. do art. 1.029 do Código Fux (EDcl no AgInt no AREsp. 1.051.998/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 11.9.2017).
+4. Ainda que assim não fosse, o acórdão recorrido está em harmonia com a orientação fixada pelo Supremo Tribunal Federal reconhecendo a constitucionalidade da exigência de limite máximo de idade para ingresso no Serviço Público, desde que seja justificável em virtude das atribuições inerentes ao cargo, bem como que haja previsão legal e no edital do certame.
+5. Agravo Interno do Particular desprovido.
+(AgInt no AREsp 1614355/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10%sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
