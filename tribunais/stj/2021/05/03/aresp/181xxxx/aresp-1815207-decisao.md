@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdãos assim ementados:
+EXECUÇÃO FISCAL. ISS. EXERCÍCIOS DE 2007 E 2009. DEMANDA PROPOSTA EM 2010. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. RECURSO VENTILADO PELO MUNICIPIO, SUSTENTANDO, EM SÍNTESE, A NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL E INOBSERVÂNCIA AOS ARTIGOS 25 E 40 DA LEI DE EXECUÇÃO FISCAL. PARALISAÇÃO DO PROCESSO POR LONGA DATA. INAPLICABILIDADE DO ENUNCIADO DE SÚMULA 106 DO STJ AO CASO CONCRETO. PARALISAÇÃO QUE NÃO SE DEU POR CULPA EXCLUSIVA DA MÁQUINA JUDICIÁRIA. PRECEDENTES DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA R. SENTENÇA. - Em que pese a interrupção da prescrição pelo despacho que ordenou a citação, o feito permaneceu paralisado, quedando-se inerte o Município até a data em que prolatada a r. sentença. - Não se mostra adequado imaginar que a Fazenda possa permanecer inerte por quase sete anos e contra ela não ser declarada a prescrição. - Saliente-se que o Fisco tem pleno conhecimento das ações por ele ajuizadas e, dentro de suas prerrogativas legais, deve tomar todas as cautelas para que as demandas tenham seu curso normal e não haja prejuízo ao erário, cabendo ressaltar que esta função não é o Poder Judiciário, posto que este, ao contrário, deve tratar a todos com isonomia, não concedendo privilégios à Fazenda, em detrimento do contribuinte. - As prerrogativas processuais que a Fazenda possui não devem ser encaradas como uma possibilidade de eternização das demandas, seja contra pessoas físicas, seja contra pessoas jurídicas. RECURSO A QUE SE NEGA PROVIMENTO.
+EXECUÇÃO FISCAL. ISS. EXERCÍCIOS DE 2007 E 2009. DEMANDA PROPOSTA EM 2010. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. MANUTENÇÃO DA R. SENTENÇA PELO COLEGIADO, HAJA VISTA QUE O FEITO PERMANECEU PARALISADO POR MAIS DE SETE ANOS SEM QUE HOUVESSE QUALQUER MANIFESTAÇÃO DA FAZENDA. AUSÊNCIA DE LOCALIZAÇÃO DO DEVEDOR OU DE BENS PENHORÁVEIS. RECURSO ESPECIAL INTERPOSTO PELO MUNICÍPIO. DECISÃO DA 3º VICE-PRESIDÊNCIA DETERMINANDO O RETORNO DOS AUTOS À EGRÉGIA CÂMARA. DEIXO DE EXERCER O JUÍZO DE RETRATAÇÃO. QUESTÃO QUE NÃO SE AMOLDA AO RESP 1350.553/RS (TEMAS 566 A 571 do STJ).
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega haver violação dos arts. 25 e 40 da Lei 6.830/1980 e dos arts. 10, 921, III, e 947do CPC/2015.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.4.2021.
+O acórdão recorrido consignou:
+Trata-se de execução fiscal proposta pelo Município do Rio de Janeiro objetivando a cobrança de ISS referentes aos exercícios de 2007 a 2009, julgando o d. Magistrado extinto o processo, pela ocorrência da prescrição.
+Impende ressaltar, inicialmente, que a execução fora ajuizada no ano de 2010, quando ainda não havia decorrido o lapso prescricional no que tange aos créditos tributários.
+Outrossim, o fato gerador da obrigação tributária, no caso, é posterior a edição da Lei Complementar 118/05, quando o despacho que ordena a citação seria capaz de interromper a prescrição.
+Com efeito, após o despacho que ordenou a citação o feito permaneceu paralisado, quedando-se inerte o Município até a data em que prolatada a r. sentença, no ano de 2017.
+Destarte, tem-se que decorrido o prazo prescricional, não sendo adequado imaginar que o Fisco possa permanecer inerte por tantos anos sem que reconhecida a prescrição.
+As prerrogativas processuais que a Fazenda possui não devem ser encaradas como uma possibilidade de eternização das demandas, seja contra pessoas físicas, seja contra pessoas jurídicas.
+Mesmo porque, consoante o disposto no artigo 5º, LXXVII da CF, mister estabelecer-se um limite temporal para o exercício do direito de ação ou mesmo para impulsionar a demanda. Tal instituto é conhecido como princípio da duração razoável do processo.
+Tal conduta, a toda evidência, visa preservar a segurança jurídica, a fim de que as demandas não se perpetuem, ad infinito.
+Saliente-se que o Fisco tem pleno conhecimento das ações por ele ajuizadas e, dentro de suas prerrogativas legais, deve tomar todas as cautelas para que as demandas tenham seu curso normal e não haja prejuízo ao erário, cabendo ressaltar que esta função não é o Poder Judiciário, posto que este, ao contrário, deve tratar a todos com isonomia, não concedendo privilégios à Fazenda, em detrimento do contribuinte, não havendo que se falar em ofensa aos artigos 25 e 40 da Lei nº 6.830/80, tampouco ao devido processo legal (artigo 10 do CPC), mormente no que diz com as demandas ajuizadas anteriormente ao novo CPC.
+(..)
+Ressalte-se que é possível a decretação, de ofício, da prescrição intercorrente, como ocorrido, posto que o § 4º, do art. 40, da Lei 6.830/80 dispõe sobre a prévia manifestação da Fazenda Pública somente para a hipótese em que os autos da execução fiscal forem arquivados e quando não localizado o devedor ou bens penhoráveis, o que não ocorreu no presente feito.
+(..)
+Destarte, o entendimento consolidado no Resp nº 1.340.553/RS, de Relatoria do Ministro Mauro Campbell Marques, julgado sob o regime de Recursos Repetitivos, não se aplica ao caso dos autos (distinguishing), eis que guarda relação às hipóteses em que o juiz suspende o curso da execução fiscal, enquanto não for localizado o devedor ou encontrados bens passíveis de penhora, com posterior arquivamento do feito:
+(..)
+Por derradeiro, não há que se falar em aplicação do artigo 1036 do CPC, tampouco, frise-se, em violação aos artigos 26 e 40 da LEF eis que, no sentir desta Relatora, o presente caso não se amolda aos temas 566 e 571, relacionadas no Resp nº 1.340.553/RS, ao revés do que sustenta o Município, observando-se que sequer houve a suspensão do feito antes de proferida a r. sentença, tampouco tentativa de localização da parte ou decisão de arquivamento.
+Assim, deixo de exercer o juízo de retratação. (fls. 112-117, e-STJ)
+A análise da ocorrência ou não da prescrição intercorrente, bem como da inércia ou não da municipalidade demanda revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em Recurso Especial, por óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
