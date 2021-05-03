@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por GEISON DOS SANTOS ANJOS contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 788/791).
+O acórdão recorrido está assim ementado (e-STJ fl. 701):
+COMPRA E VENDA Madeira de eucalipto Processo julgado extinto, sem exame de mérito, em relação à pretensão de rescisão do contrato e à reconvenção, improcedentes as pretensões declaratória de inexigibilidade de cheques, de indenização do dano moral e os embargos do devedor à execução apensados Não recolhimento da taxa de mandato Mera irregularidade, sem influência na validade da representação processual Ausência da demonstração nos autos de que os réus, portadores dos cheques, ao tempo em que os receberam, tinham ciência de que haviam sido sacados apenas como garantia do negócio firmado entre a autora, sacadora, e o credor originário, beneficiário, bem assim do posterior desfazimento da avença, do que se conclui que a pretensão declaratória de inexigibilidade de tais cheques não pode ser acolhida e, consequentemente, as pretensões de rescisão contratual e de indenização do dano moral Reconvenção julgada extinta, pelo que devem os réus reconvintes arcar com os encargos sucumbenciais correspondentes Apelação parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 722/724).
+Nas razões do recurso especial (e-STJ fls. 727/754), fundamentado no art. 105, III, "a", da CF, a parte recorrente sustentou ofensa aos arts. 489 e 1.022 do CPC/1973, pois omisso o acórdão em relação à necessidade de recolhimento de taxas legais, possibilidade de oposição de exceções pessoais e inviabilidade do pagamento em dobro.
+Alegou ter a parte contrária deixado de recolher as taxas legais ao juntar os instrumentos de mandato, de modo a desautorizar o profissional de direito a atuar em nome da parte, nos termos do art. 76, § 1º, II, do CPC/2015.
+Asseverou ser possível a oposição de exceções pessoais, pois, nos termos do art. 25 da Lei n. 7.357/1985, os cheques ficaram circunscritos à compra e venda de madeira, da qual todos os recorridos estão envolvidos.
+Defendeu ser aplicável a penalidade do pagamento em dobro, nos termos do art. 940 do CC/2002, uma vez que houve o pagamento de todos os valorescobrados indevidamente.
+No agravo (e-STJ fls. 794/823), afirma a presença de todos os requisitos de admissibilidade do especial.
+Informou que desistiu do agravo em relação a PAULO CELSO MESQUITA.
+Houve contraminuta (e-STJ fls. 846/867).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Além do mais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+Em relação à necessidade de recolhimento de taxa pela juntada de mandato, o dispositivo legal indicado como violado não determina tal providência. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Em tal circunstância, aplica-se a Súmula n. 284 do STF.
+Sobre a cientificação de todas as partes acerca do distrato, os julgadores da origem destacaram (e-STJ fl. 706):
+Não comprovada a ciência de todos os apelados sobre o distrato, também não prospera a pretensão da apelante de que o acordo extrajudicial entabulado com JOSÉ LUIZ, pelo qual houve o desfazimento do negócio (fls. 62/64), irradie seus efeitos a PAULO CELSO e LUCIA HELENA.
+Tendo a Turma julgadora assim decididocom base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Acerca da restituição devalor em dobro, porque quitadas as dívidas, o acórdão esclareceu (e-STJ fl. 706):
+Quanto ao pedido de indenização a que se refere o disposto no artigo 940, do Código Civil, também sem razão a apelante. Isto porque, ainda que se admita seja formulado em sede de contestação, não há comprovação nos autos de que os apelados CELSO ROBERTO e JOSÉ LUIZ tenham demandado por dívida já paga (averbe-se que, na reconvenção, os reconvintes afirmam que o débito lá postulado era diverso daquele que originou o saque dos cheques) ou pedido mais do que o devido, especialmente porque a reconvenção foi julgada extinta, sem resolução de mérito, lembrando também que referida indenização exige a comprovação da má-fé do credor, aqui não demonstrada.
+Nesse tópico também aplicável a Súmula n. 7 do STJ, pois rever o posicionamento do Tribunal de origem, baseado nas provas existentes nos autos, é inviável nesta sede.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
