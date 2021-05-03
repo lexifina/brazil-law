@@ -1,0 +1,23 @@
+DECISÃO
+MARCELO DE OLIVEIRAalega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento ao Agravo em Execução n. 0000509-08.2021.8.26.0482, a fim de manter o indeferimento do pedido de livramento condicional.
+Nas razões deste writ, a defesa alega que a gravidade do delito já foi sopesada na fase de conhecimento no momento da dosimetria da pena e não pode ser novamente considerada para vedar benefícios da execução penal.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pela denegação da ordem.
+Decido.
+Quanto ao livramento condicional, urge consignar que "o histórico carcerário conturbado do reeducando pode ser utilizado para evidenciar o não preenchimento do requisito previsto no art 83, III, do CP" (HC n. 380.048/SP, Rel. MinistroRogerio Schietti, 6ª T., DJe 22/3/2017).
+Na hipótese, a Corte de origem preservou o indeferimento do livramento condicional nos termos seguintes:
+Aqui, para que não se diga que a avaliação se cinge à condição prévia de ingresso no regime semiaberto, destaco o histórico do agravante.
+Encontra-se em cumprimento de pena de seis anos e vinte e cincodias de reclusão, atualmente no regime fechado, pelo cometimento dos crimes de tráfico de entorpecentes e ameaça. O início do cumprimento de pena se deu em 11 de março de 2019 e o término está previsto para 4 de abril de 2025, contudo o agravante registra histórico criminal, pois é reincidente pelo delito praticado mediante ameaça (quero quer, com todo o respeito, que se tratada de lapso da defesa classificar o delito de ameaça como contravenção penal, pois se trata de crime, previsto no art. 147 do Código Penal). Ao longo de sua estadia carcerária, praticou uma falta de natureza média.
+ ..
+No caso específico do agravante, é patente que a sua conduta carcerária não está à altura do benefício que almeja; é dizer: não é satisfatória (art. 83, inciso III, do Código Penal) e não se constatam "condições pessoais que façam presumir que o liberado não voltará a delinquir" (art. 83, parágrafo único, do Código Penal). (fls. 18-19, destaquei)
+Consoante se observa do excerto adrede colacionado, as instâncias ordinárias negaram o pedido de concessão dobenefíciopor reputarausente o requisito subjetivo.
+Destaco que, conquanto a falta grave não seja considerada marco interruptivo para o deferimento do benefício,o paciente - reincidente - possui histórico de mau comportamento durante o cumprimento da pena, incluindo o cometimento recente de infração disciplinar de natureza média.Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Por essas razões, não constato nenhuma ilegalidade na decisão mantida pela Corte de origem, uma vez que o livramento condicional foi indeferidocom base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Nesse sentido:
+ ..  a jurisprudência desta Corte autoriza o indeferimento do benefício quando o magistrado verificar, a despeito de o reeducando possuir atestado de bom comportamento carcerário, a necessidade de melhor aferir o grau de ajustamento do apenado ao convívio social, já quea presença de faltas disciplinares cometidas no curso da execução autorizam a conclusão acerca do comportamento conturbado do sentenciado.
+ ..
+(AgRg no HC n. 484.841/RJ, Rel. MinistroJorge Mussi, 5ª T., DJe 16/9/2019).
+Deveras, "para a concessão do livramento condicionalo magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional. Precedentes desta Corte" (AgRg no HC n. 506.776/MS, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 10/9/2019).
+Assim, "apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional - Súmula 441/STJ -,as faltas disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo" (AgRg no REsp n. 1.720.759/MS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 12/6/2018).
+Ademais, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar a concessão do benefício prisional, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado nowrit.
+À vista do exposto, denego a ordem do habeas corpus.
+Publique-se e intimem-se.
