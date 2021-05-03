@@ -1,0 +1,10 @@
+DECISÃO
+SIDINEI FERRARI DE OLIVEIRA alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso no HC n.014125-75.2020.8.11.0000.
+Verifico, com base nas informações registradas no sistema informatizado desta Corte Superior, que oAREsp n. 1.598.703/MT, interposto pela defesa contra a inadmissão do recurso especial apresentado na ação penal objeto destewrit, não foi conhecido em razão do óbice da Súmula n. 182 do STJ. Interposto agravo regimental, ele não foi conhecido, igualmente m virtude da incidência da Súmula n. 182 do STJ,em acórdãoque transitou em julgado em7/8/2020. Posteriormente, os autos foram encaminhados ao Supremo Tribunal Federal.
+Em consulta à página eletrônica do STF, o gabinete verificou que oARE n. 1.285.226/MT, também interposto na ação penal objeto desta impetração e que se voltou contra a inadmissão do recurso extraordinário, teve seu seguimento negado pela Presidência daquela Corte. O Supremo Tribunal Federal, ainda, não conheceu do agravo regimental interposto e negou provimento aos embargos declaratórios opostos. Em24/2/2021, foi certificado o trânsito em julgadoe a baixa definitiva dos autos ao Tribunal estadual.
+Desse modo, observo aimutabilidade da condenação sofrida pelo paciente, circunstância que demonstra aprejudicialidade do pedido aqui formulado- em resumo, a revogação da prisão preventiva.
+À vista do exposto,julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+Todavia, em pesquisa aos sistemas informatizados do STF e do STJ, constatou-se que o acórdão proferido noagravo em recurso especial transitou em julgado em e o exarado no agravo em recurso extraordinário transitou em julgado em 24/2/2021. Assim, uma vez que não há mais que se falar em custódia cautelar, mas de prisão-pena, evidencia-se a prejudicialidade deste mandamus.
+À vista do exposto, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
