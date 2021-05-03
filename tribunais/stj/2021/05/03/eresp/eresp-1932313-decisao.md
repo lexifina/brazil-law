@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por BÁRBARA DOMINGUES STEIN AMATUCCI MARQUES, com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação cível. Plano de saúde. Obrigação de fazer cumulada com pedido de indenização por dano moral. Custeio de cirurgia para tratamento de tumor cerebral e materiais relacionados ao ato cirúrgico. Sentença de procedência. Inconformismo da ré. Relatório médico. Prescrição de tratamento experimental ou não previsto no rol de procedimentos da Agência Nacional de Saúde Suplementar. Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS. Súmula nº 102 deste Egrégio Tribunal de Justiça do Estado de São Paulo. Código de Defesa do Consumidor. Aplicabilidade. Artigos 2º e 3º da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 608 do Colendo Superior Tribunal de Justiça. Negativa de cobertura de materiais inerentes a ato cirúrgico. Planos posteriores à Lei nº 9.656/1998. Impossibilidade. Artigo10, VII, desta norma. Contratos anteriores. Impossibilidade, de igual sorte. Abusividade da negativa. Artigo 6º, IV, 2ª parte, da Lei nº 8.078/1990. Materiais necessários ao melhor desempenho do procedimento cirúrgico coberto. Dano moral. Descabimento. Fatos deduzidos nos autos que não caracterizam dor emocional profunda, situação vexatória ou mesmo prejuízo a atributos da personalidade da requerente. Indenização indevida. Recurso parcialmente provido para afastar da condenação a indenização por dano moral" (fls. 458-459, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489 do Código de Processo Civil de 2015 e 186 e 927 do Código Civil. Sustenta, em síntese, ser cabível a condenação da recorrida em danos morais.
+Apresentadas contrarrazões às fls. 485-492(e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do
+Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação doart. 489 do CPC/2015.
+Ademais, no tocante à indenização por danos morais, esta Corte tem entendimento firme no sentido de que, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às situações correntes de inadimplemento contratual.
+Contudo, no caso em apreço, o tribunal estadual expressamente consignou que
+"(..)a requerente não logrou demonstrar qualquer prejuízo sofrido, tal como agravamento de sua condição clínica ou abalo psicológico, no lapso temporal entre a indicação da cirurgia e o cumprimento da tutela provisória.
+Vale observar que a perícia realizada concluiu que "11.03. Apericianda foi operada por força de medida limitar e apresentou evolução favorável, sem sequelas neurológicas."(fls. 343)" (fls. 466, 467, e-STJ).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE.TRATAMENTO PRESCRITO PELO MÉDICO. DOENÇA ABRANGIDA PELO CONTRATO.LIMITAÇÕES DOS TRATAMENTOS. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. JURISPRUDÊNCIA PACÍFICA DA TERCEIRA TURMA. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. RATIFICAÇÃO DA JURISPRUDÊNCIA DESTA TURMA. DANOS MORAIS. REEXAME. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Com efeito, a jurisprudência desta Terceira Turma já sedimentou entendimento no sentido de que "não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde". Ademais, o "fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor" (AgRg no AREsp n. 708.082/DF, Relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. Existência de precedente da Quarta Turma no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+3. Ratificação do entendimento firmado pela Terceira Turma quanto ao caráter exemplificativo do referido rol de procedimentos.
+Precedente.
+4. A alteração da conclusão adotada pela Corte de origem acerca da inexistência de dano moral demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7 deste Tribunal Superior.
+5. Agravo interno improvido"
+(AgInt no REsp 1.912.467/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/3/2021, DJe 6/4/2021).
+Ante o exposto, negoprovimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, ficando cada parte responsável pelo pagamento do patrono da outra (fl. 469, e-STJ).
+Dessa forma, fixo os honorários recursais em 1% (um por cento) sobre o valor da causa, a ser pago pelo recorrente ao advogado do recorrido, mantendo-se, no mais, a verba honorária na forma determinada na origem, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
