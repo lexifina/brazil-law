@@ -1,0 +1,13 @@
+DECISÃO
+LUCAS EDUARDO MARTINS LEAL alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou o HC n. 5080455-56.2020.8.21.7000.
+Consta dos autos que o recorrente foi preso em flagrante e, posteriormente, teve a custódia convertida em preventiva pela suposta prática do crime previsto no art. 33, caput, da Lei de Drogas.
+A defesa pleiteia, por meio deste recurso, seja revogada a custódia preventiva do recorrente, com base, essencialmente, em dois fundamentos: a) impossibilidade de conversão, ex officio, da prisão em flagrante em custódia preventiva; b) ausência de quaisquer dos fundamentos previstos no art. 312 do CPP.
+A liminar foi por mim deferida, nos termos da decisão de fls. 84-85, "a fim de revogar a decisão que decretou a prisão preventiva, sem prejuízo que outra seja proferida, desde que devidamente motivada e precedida de requerimento do Ministério Público ou de representação da autoridade policial" (fl. 85).
+Depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+Em informações prestadas a esta Corte Superior de Justiça, o Juízo de primeiro grau noticiou que, " t endo sido revogada a decretação da prisão preventiva por esta Corte, após representação do agente ministerial, foi decretada novamente a prisão preventiva do réu em 02 de março de 2021" (fl. 90).
+Dessa forma, eventual discussão acerca da nulidade da decisão que converteu a prisão em flagrante do recorrenteem preventiva (por alegada ofensa ao sistema acusatório) fica superada, haja vista a superveniência de novo título a embasar a custódia cautelar do réu.
+Vale dizer, uma vez que a prisão do recorrente decorre, atualmente, dessa nova decisão que, depois de requerimento do Ministério Público, decretou novamente a custódia preventiva, fica esvaída a análise da apontada impossibilidade de o Juiz, sem requerimento do Ministério Público ou representação da autoridade policial, converter em preventiva a custódia em flagrante.
+Em caso semelhante, esta Corte Superior tem reiteradamente decidido que "a discussão acerca de nulidade da prisão em flagrante fica superada com a conversão do flagrante em prisão preventiva, haja vista a formação de novo título a embasar a custódia cautelar" (HC n. 425.414/RS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/3/2018).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, cassando, por conseguinte, a liminar anteriormente deferida.
+Publique-se e intimem-se.
