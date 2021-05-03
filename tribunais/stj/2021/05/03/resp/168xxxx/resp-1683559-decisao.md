@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS, o qual recebeu a seguinte ementa (e-STJ fl. 489):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO. MORTE DO EXECUTADO. CASO DE SUSPENSÃO DO FEITO E NÃO EXTINÇÃO. INTELIGENCIA DO ART. 265, I DO CPC/73.
+Os embargos de declaração foram rejeitados (e-STJ fls. 494/500).
+No recurso especial (e-STJ fls. 508/526), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega violação dos arts. 489, § 1º, e 1.022 do CPC/2015, pois o acórdão recorrido não tratou de questões essenciais para a solução da lide.
+Aduz, além de dissídio jurisprudencial, violação dos arts. 47, parágrafo único, 265, I, 267, III, §§ 1º e 2º, e 568, II, do CPC/1973, pois suspensos dos autos e determinada a regularização do polo passivo, mantendo-se a parte inerte, sem realizar o cumprimento da ordem, o processo deve ser extinto.
+Destaca que (e-STJ fl. 519):
+A todo sentir, da interpretação teleológica, conjugada e sistêmica dos dispositivos legais acima transcritos, forçoso concluir que em casos que tais, de suspensão do processo pelo falecimento da parte integrante do pólo passivo, o v. acórdão recorrido discrepa da jurisprudência desse Colendo STJ, a qual orienta-se no sentido de considerar que:(I)"se a parte quedar-se inerte, após a concessão de prazo para a regularização de sua representação processual, o processo é extinto sem julgamento do mérito" (AgRg no Ag 769.197/SP, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 05/08/2008, DJe de 18/08/2008), bem como que(II)"A falta de colaboração processual da parte autora e sua desídia podem caracterizar abandono de causa, gerando risco de extinção do processo sem julgamento do mérito contra o réu falecido"(RCD no REsp 605438 / DF PEDIDO DERECONSIDERAÇÃO NO RECURSO ESPECIAL 2003/0204021-7, Relator Ministro PAULO DE TARSO SANSEVERINO (1144), Órgão Julgador T3- TERCEIRA TURMA, Data do Julgamento 21/05/2013, Data da Publicação/Fonte DJe 24/05/2013, Revista Eletrônica STJ).
+É o relatório.
+Decido.
+Procede a irresignação referente à ofensa ao art. 1.022 do CPC/2015.
+Nos embargos de declaração, a recorrente sustentou omissão quanto ao disposto nos arts. 47, parágrafo único, 265, I, 267, III, §§ 1º e 2º, e 568, II, do CPC/1973, pois, ocorrendo a suspensão para a regularização do polo passivo, a inércia da parte em cumprir a ordem ocasionaria a extinção do feito.
+No entanto, a Corte local se limitou a decidir ser devida a suspensão .
+Em tais condições, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre a questão, sanando assim o vício apontado. Nesse sentido é firme a jurisprudência desta Corte, como se depreende, por exemplo, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ.
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja suprida a omissão apontada.
+Publique-se e intimem-se.
+EMENTA
