@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Conflito Negativo de Competência suscitado por Cleuza Ferreira da Costa, em que se dizem incompetentes o Juízo do Juizado Especial da Fazenda Pública do Foro Distrital do Norte da Ilha de Florianópolis e o Juízo Federal da 3ª Vara Federal de Florianópolis.
+A suscitante afirma que propôs no Juizado Especial da Fazenda Pública ação visando compelir o Estado de Santa Catarina e o Município de Florianópolis a fornecer medicamento, mas o processo foi remetido à Justiça Federal, sob o fundamento de que a União deveria integrar obrigatoriamente o feito.
+O Juízo Federal, por sua vez, entendeu que a inclusão da União é faculdade da parte, razão pela qual devolveu o processo ao Juizado Especial da Fazenda Pública.
+Liminar deferida, designandoo Juízo do Juizado Especial da Fazenda Pública do Foro Distrital do Norte da Ilha de Florianópolis para apreciar o pedido de tutela de urgência formulado pela suscitante e demais medidas urgentes, nos termos do art. 955do CPC (fls. 176-177, e-STJ).
+Informações doJuízo do Juizado Especial da Fazenda Pública do Foro Distrital do Norte da Ilha de Florianópolis às fls. 190-193, em que esclarece que vem adotando o entendimento do STF firmado no Tema 500.
+Parecer do Ministério Público Federal pelo não conhecimento do Conflito de Competência ou peladesignação doJuízo do Juizado Especial da Fazenda Pública do Foro Distrital do Norte da Ilha de Florianópolis como órgão jurisdicional competente (fls. 197-204, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20/04/2021.
+Na forma da jurisprudência do STJ, "a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, é fixada, em regra, em razão da pessoa (competência ratione personae), levando-se em conta não a natureza da lide, mas, sim, a identidade das partes na relação processual" (STJ, CC 105.196/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 22/02/2010).
+Ademais, deacordo com a jurisprudência deste egrégio Superior Tribunal de Justiça, "não é lícito ao Magistrado impor à parte que litigue contra um Ente específico, sob pena de subverter a própria noção de solidariedade". Isso ainda que, em entendimento fixado pelo Supremo Tribunal Federal, em Repercussão Geral, seja admitida a responsabilidade solidária dos Entes Federativos no que diz respeito ao direito à saúde (RE 855.178/PE, Rel. Min. Luiz Fux, DJe 16.3.2015, Tema 793).
+Como bem consignou oParquet,"considerando que a autora escolheu litigar contra o Estado de Santa Catarina, a respeito de medicamento com registro na Anvisa, não compete ao julgador incluir ente político diverso no feito" (fl. 203, e-STJ).Deve, então, ser declarada a competência do Juízo Estadual para o processamento e o julgamento da demanda, nos termos das Súmulas 150, 224 e 254 do STJ.
+Registre-se que atese firmada no julgamento dos Embargos de Declaração no RE 855.178/SE não se aplica nesta hipótese, porquanto a União só deve ser necessariamente incluída no polo passivo das ações que pleiteiam medicamentos que não têm registro na ANVISA,que não é o caso destes autos. Veja-se:
+CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. DESENVOLVIMENTO DO PROCEDENTE. POSSIBILIDADE. RESPONSABILIDADE DE SOLIDÁRIA NAS DEMANDAS PRESTACIONAIS NA ÁREA DA SAÚDE. DESPROVIMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. É da jurisprudência do Supremo Tribunal Federal que o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.
+2. A fim de otimizar a compensação entre os entes federados, compete à autoridade judicial, diante dos critérios constitucionais de descentralização e hierarquização, direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+3. As ações que demandem fornecimento de medicamentos sem registro na ANVISA deverão necessariamente ser propostas em face da União. Precedente específico: RE 657.718, Rel. Min. Alexandre de Moraes.4. Embargos de declaração desprovidos.
+(RE 855.178, Rel Min. Luiz Fux, Tribunal Pleno, DJe 16.4.2020).
+Ante o exposto, conheço do Conflito e declaro competente o Juízo do Juizado Especial da Fazenda Pública do Foro Distrital do Norte da Ilha de Florianópolis.
+Publique-se.
+Intimem-se.
