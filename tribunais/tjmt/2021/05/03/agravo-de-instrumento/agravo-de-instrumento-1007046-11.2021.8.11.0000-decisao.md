@@ -1,0 +1,24 @@
+AGRAVO DE INSTRUMENTO No 1007046-11.2021.8.11.0000
+AGRAVANTE:- R. S. E. S. representado por sua mãe ELINEIA MORAES DA SILVA
+AGRAVADA:- UNIMED FORTALEZA SOCIEDADE COOPERATIVA MEDICA LTDA
+Agravo de Instrumento n. 1007046-11.2021.8.11.0000 de decisão da 3a Vara Cível da Comarca de Sinop que, em Ação Ordinária, indeferiu parcialmente a tutela de urgência para determinar que a requerida empreenda esforços no sentido de custear o tratamento vindicado, na forma prescrita pelo médico – excluídos a realização de fisioterapia pelo método ‘pediasuit’, bem como o fornecimento de próteses, órteses e seus acessórios não ligados a ato cirúrgico –, no prazo de 05 (cinco) dias, sob pena de aplicação de multa diária para a obrigação de fazer estabelecida.
+O agravante alega que é portador de Paralisia Cerebral Quadriparética, com déficit cognitivo sequelar e características clínicas de Transtorno do Espectro Autista.
+Aduz que seu quadro clínico é gravíssimo, pois, não senta, tem deformidades nos pés, dificuldade na fala, não anda nem se alimenta sozinho e usa fraldas.
+Afirma que para a sua reabilitação foram prescritos, (1) Fisioterapia Neuromotora Intensiva pelo Método PediaSuit; (2) Terapia Ocupacional com integração sensorial pelo método DENVER; (3) Fonoaudiologia com método DENVER; (4) Psicologia com método DENVER; (5) Neuropsicopedagogia com método DENVER; (6) Fisitoerapia Aquática neuropediátrica; (7) Equoterapia; (8) Cadeira de rodas adaptada; (9) Andador adaptado; (10) Treinador de Marcha adaptado; (11) Órteses suropodálicas tipo AFO adaptadas; sendo que a realização das terapias deve ser integrada (conjunta), com a equipe especializada, até a plena recuperação ou determinação de alta.
+Argumenta que compete aos profissionais da saúde responsáveis pelo paciente prescrever as terapias adequadas a cada caso, e tais tratamentos devem ser custeados, sob pena se vulnerar o objetivo contratual que é a garantia da saúde, conforme entendimento sedimentado pelo STJ.
+Sustenta que a eficácia científica e segurança do método PEDIASUIT é respaldada pela Agência Nacional de Vigilância Sanitária (Registro n. 81265770001).
+Diz que, quanto aos materiais terapêuticos negados pelo juízo a quo, são imprescindíveis para a sua reabilitação global, prevenindo, minimizando, estabilizando, e podendo até reverter deformidades. E mais, os equipamentos terapêuticos previnem e evitam uma possível necessidade de realização de ato cirúrgico, logo, se a lei determina como obrigatório as prótese e órteses ligadas ao ato cirúrgico, evidente que tal interpretação deve ser extensivas às próteses e órteses que evitem a necessidade do ato cirúrgico.
+Defende a urgência no tratamento e pede, no final, a antecipação da tutela recursal.
+É o relatório.
+O agravante se insurge contra o decisum que deferiu em parte a tutela de urgência para determinar que a requerida empreenda esforços no sentido de custear o tratamento vindicado, na forma prescrita pelo médico – excluídos a realização de fisioterapia pelo método ‘pediasuit’, bem como o fornecimento de próteses, órteses e seus acessórios não ligados a ato cirúrgico –, no prazo de 05 (cinco) dias, sob pena de aplicação de multa diária para a obrigação de fazer estabelecida.
+Não obstante as razões recursais, é necessária a oitiva da agravada para, juntamente com toda a documentação, haja uma criteriosa análise da matéria.
+Isso porque à terapia Pediasuit, é similar à Therasuit, ambas não padronizadas pelo SUS. Sobre esta última, a Nota Técnica n. 9.666, elaborada pelo NAT-JUS NACIONAL em 07/08/2020, dispõe que não foram constatados benefícios na sua utilização em caso de paralisia cerebral e nem que seja superior a outros métodos ou técnicas de fisioterapia neurofuncional. Desse modo, no AgInt no AREsp 1497534/SP, da relatoria do Min. Luis Felipe Salomão, julgado em 06/10/2020, foi reconhecida a inviabilidade do seu custeio pelo plano de saúde.
+Todavia, conforme entendimento exposto em outros Recursos (Ap. 1025814-95.2017.8.11.0041), embora sem evidência científica sedimentada de sua superioridade sobre a fisioterapia convencional, cada situação deve ser examinada individualmente. Em regra, quando comprovada que a terapia convencional não surtiu o efeito esperado, é preciso tentar outros métodos para auxiliar no tratamento do paciente, informação esta que não consta dos autos.
+Assim, a matéria será aprofundada no mérito, inclusive quanto ao fornecimento de próteses, órteses e seus acessórios não ligados a ato cirúrgico.
+Importante registrar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta e o parecer ministerial, será imediatamente incluído em pauta para julgamento.
+Pelo exposto indefiro, por ora, a antecipação da tutela recursal.
+Intime-se a parte adversa para trazer resposta em 15 dias.
+Após, vista à douta Procuradoria-Geral de Justiça.
+Cuiabá, 3 de maio de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
