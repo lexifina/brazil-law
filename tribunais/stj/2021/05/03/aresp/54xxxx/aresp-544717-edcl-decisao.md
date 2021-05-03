@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração nos quais a parte recorrente alega, em resumo, que o julgado padece de omissão, por não ter se manifestado quanto ao pedido de majoração de honorários. Afirma que não foi observado, na decisão recorrida, que a sentença arbitrou os honorários em quantia irrisória (R$ 1.000,00 - mil reais).
+Sem impugnação da embargada (e-STJ fl. 511).
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, após dar provimento ao recurso dos servidores, determinei a inversão do ônus da sucumbência, sem tratar especificamente do pedido de majoração dos honorários deduzidos no apelo especial (e-STJ fl. 364).
+Passo a sanar a omissão alegada.
+Com efeito, esta Corte possui entendimento, sedimentado no julgamento do REsp 1.155.125/MG - realizado sob a sistemática dos recursos repetitivos -, de que, vencida a Fazenda Pública, a verba honorária pode ser fixada em percentual, mas não está adstrita aos limites de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+Note-se, ainda, que, em regra, na instância especial, não é viável a revisão do juízo de equidade que foi realizado pelo magistrado para fixar o valor da verba honorária nos termos do art. 20, § 4º, do CPC/1973, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, todavia, esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios quando arbitrados de forma irrisória ou exorbitante, pois, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.
+Na hipótese dos autos, ainda que de baixa complexidade a causa, a quantia fixada em R$ 1.000,00 (mil reais) se afigura irrisória.
+Seguindo os parâmetros acima mencionados (REsp 1.155.125/MG), adoto o valor atribuído à causa (R$ 30.000,00) como base de cálculo, fixando os honorários em 15% em relação a esta.
+Ante o exposto, ACOLHO os embargos de declaração, para suprir a omissão acima mencionada, EMPRESTANDO EFEITOS INFRINGENTES ao recurso, de modo a fixar os honorários em favor dos recorrentes em 15% (quinze por cento) sobre o valor da causa.
+Publique-se. Intimem-se.
