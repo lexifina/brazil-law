@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BOA VISTA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. e OUTRA, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. Atraso de sete meses na entrega do bem. Sentença de parcial procedência. Irresignação tanto da Construtora requerida quanto da autora.
+COMISSÃO DE CORRETAGEM. REsp 1.599.511/SP e 1.551.951/SP. Contrato estabelecendo o valor total do imóvel, destacando o montante relativo à comissão de corretagem. Restituição indevida. Sentença mantida neste particular.
+RESPONSABILIDADE. Entraves administrativos junto à Municipalidade. Fato inserido no risco da atividade das empreiteiras. Súmula 161 do TJSP. Culpa das requeridas reconhecida corretamente no julgado.
+PRAZO DE TOLERÂNCIA. IRDR 4, Tema 1, do TJSP. Validade da cláusula contratual prevendo o prazo não superior a 180 dias. Recurso da autora improvido neste particular.
+LUCROS CESSANTES. IRDR 4, Tema 5, do TJSP. Fixação na sentença no importe de R$ 600,00 por mês de atraso. Necessidade de adequação, em razão do valor do bem (R$ 84.534,80). Redução para 0,5% do valor do imóvel atualizado, nos termos da jurisprudência do TJSP. Recurso das empreiteiras provido em parte neste tópico.
+MULTA CONTRATUAL. Previsão contratual apenas para o caso de inadimplência da compradora. Inviabilidade da inversão por analogia no presente caso, ante a existência de pedido de lucros cessantes, mais adequados para atingir o fim pretendido (reparação pelo atraso na entrega do bem). Eventual cumulação de condenações ensejaria "bis in idem". "Ratio decidendi"dos Temas 970 e 971 do STJ, "Ratio decidendi"dos Temas 970 e 971 do STJ, com destaque ao consignado na parte final do acórdão proferido no Recurso Especial Repetitivo 1.614.721/DF. Sentença ratificada neste aspecto.
+DANOS MORAIS. Atraso na entrega do imóvel, ensejando frustração na expectativa da consumidora. Indenização mantida no importe de R$ 5.000,00. Valor não impugnado pela requerente no respectivo recurso. Manutenção.
+SALDO DEVEDOR. JUROS DE OBRA. IRDR 4, Tema 6, do TJSP. Incidência da cobrança sobre as parcelas do contrato apenas seria legítima durante o período de construção previsto em contrato, computado o prazo de tolerância. Valores não seriam cobrados da compradora se as construtoras tivessem cumprido as previsões contratuais acerca do prazo para a entrega do imóvel. Reembolso devido. Sentença reformada neste tópico.
+SALDO DEVEDOR. CORREÇÃO MONETÁRIA. IRDR 4, Tema 8, do TJSP. Impossibilidade de congelamento. Viável a substituição do INCC. Aplicação do IGP-M durante o período de atraso na efetiva entrega do bem. SUCUMBÊNCIA. Construtoras vencidas na maior parte dos pedidos iniciais. Princípio da causalidade. Honorários advocatícios fixados em 15% do valor atualizado da condenação.
+RECURSOS PARCIALMENTE PROVIDOS" (fls. 638/639 e-STJ).
+Os embargos de declaração opostos foram acolhidos com efeito integrativo:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO. COMPRA E VENDA DE IMÓVEL. Embora tenha constado na ementa do V. Acórdão embargado o tópico acerca da responsabilidade da empreiteira, não houve fundamentação no corpo do Acórdão. Omissão deve ser sanada nesta sede. Responsabilidade da empreiteira evidenciada. Ausência de caso fortuito ou força maior. Entraves administrativos integram o risco da atividade. Entendimento pacificado na Súmula161do TJSP. Jurisprudência desta Corte. Inconformismo provido com efeito meramente integrativo, não modificando a decisão final proferida pela Turma Julgadora no julgamento da apelação. EMBARGOS ACOLHIDOS,COM EFEITO INTEGRATIVO" (fl. 686 e-STJ).
+Nas razões do especial, as recorrentes apontam, além de divergência jurisprudencial, violação dos artigos 186, 393, 396, 927, 944 e 945do Código Civil e 14, § 3º, II, do Código de Defesa do Consumidor.
+Sustentam a necessidade de se reconhecer que a falta de mão de obra e de materiais de construção se tratade fortuito externo e força maior.
+Afirmam que a condenação por danos morais deve ser afastada, porquanto o mero inadimplemento não enseja dano moral.
+Contrarrazões às fls. 694/697 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso merece prosperar em parte.
+Arevisão do julgado para concluir pela ocorrência de caso fortuito e força maior a fim de excluir a indenizaçãoencontra os óbices das Súmulas nºs 5 e 7/STJdevido à impossibilidade de reinterpretação de cláusulas contratuais e do revolvimento do acervo fático-probatório constante dos autos.
+No tocante ao pedido de exclusão da indenização por danos morais, o entendimento jurisprudencial sedimentado desta Corte é deque, em hipóteses como a presente, o simples descumprimento contratual não enseja reparação de danos morais, os quais deveriam ser efetivamente demonstrados para se cogitar ser caso de indenização.
+Confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. NÃO CONFIGURAÇÃO. SIMPLES INADIMPLEMENTO CONTRATUAL. AGRAVO NÃO PROVIDO.
+1. A demora na entrega do imóvel, em regra, constitui mero inadimplemento contratual o que, por si só, não gera o dever de indenizar. Danos morais afastados.
+2. Agravo interno a que se nega provimento"(AgInt no REsp 1.776.051/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/3/2019, DJe 8/4/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE DEMONSTRAÇÃO DA OCORRÊNCIA DE DANO MORAL. MERO INADIMPLEMENTO CONTRATUAL. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR DECISÃO AGRAVADA E, EM NOVO EXAME DO FEITO, CONHECER DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A decisão agravada deve ser reconsiderada, pois o apelo nobre, no tocante aos arts. 186 e 927 do Código Civil, não encontra óbice na Súmula 7 do STJ, passando-se a novo exame.
+2. Consoante a remansosa jurisprudência desta Corte Superior, "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial" (AgInt no REsp 1.719.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/05/2018, DJe de 28/05/2018).
+3. Na hipótese, o Tribunal Estadual concluiu pela caracterização dos danos morais baseando-se apenas no mero inadimplemento contratual resultante do atraso na entrega da obra, sem especificar as circunstâncias que ensejariam a demonstração da lesão extrapatrimonial. Nesse contexto, deve ser reformado o v. acórdão estadual para se alinhar à jurisprudência desta Corte, e, por consequência, afastar a condenação da ora agravante em indenização a título de danos morais.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame do feito, conhecer do agravo para dar provimento ao recurso especial"(AgInt no AREsp 1.067.294/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/3/2019, DJe 29/3/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA. DANO MORAL. DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Nos termos da jurisprudência do STJ, o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral.
+Precedentes.
+2. Agravo interno a que se nega provimento"(AgInt no AREsp 1.046.178/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/12/2018, DJe 18/12/2018).
+Ante o exposto, dou parcial provimento ao recurso especial apenas para afastar a condenação em danos morais, mantendo-sea sucumbência fixada naorigem.
+Publique-se.
+Intimem-se.
