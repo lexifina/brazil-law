@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Carlos Edison Gavioli- preso, porque, em tese, praticou,com mais 4 comparsas, crime de roubo de carga (mediante sequestro) ereceptação em associação criminosa, nos termos dos arts. 157,§ 2º, II,e§ 2º-B, 148, todos do Código Penal, ao perpetrarroubo de carga(caminhão), praticado em concurso de agentes, com nítida divisão detarefas,e com grave ameaça exercida com emprego de arma de fogo, mantendoem cárcere o motorista do caminhão (fls. 14/16)-, em que se aponta como autoridade coatora o Desembargador Relator da Décima QuartaCâmara Criminal do Tribunal de Justiça de São Paulo, que indeferiu a liminar do writ (Habeas Corpus n. 2080031-41.2021.8.26.0000).
+Alega o impetrante, em síntese, constrangimento ilegal relativoà realização de audiência de interrogatório, em exíguos 2 dias após a apresentação de aditamento impróprio pelo MP, sem que a defesa tenha sido previamente intimada sobre esse aditamento e sem que tenha sido concedido o prazo legal de 5 dias para manifestação sobre questões aditadas, para além do interrogatório não ter sido realizado como último ato da instrução (fl. 3).
+Postula, ao final, a concessão liminar da ordem para que, superada a Súmula 691/STF, sejaanulada a audiência de interrogatório realizada no dia 7/4/2021 (fls. 12/13).
+É o relatório.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida.E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator, sobre a prisão do paciente, ressaltouque não se fazem presentes razões que determinem o sobrestamento do feito(fl. 16).
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado da Súmula 691/STF, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. ORGANIZAÇÃO VOLTADA PARA O ROUBO E DISTRIBUIÇÃO DE CARGA.SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
