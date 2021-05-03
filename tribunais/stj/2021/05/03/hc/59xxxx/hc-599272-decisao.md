@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JOSÉ AUGUSTO DOS SANTOS JÚNIOR contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL.ALEGAÇÃO DE OMISSÃO E AUSÊNCIA DE MANIFESTAÇÃO SOBRE ARGUMENTOS LANÇADOS PELA DEFESA. VÍCIOS NÃO CONFIGURADOS.ARGUIÇÕES DA DEFESA POSTERIORES ÀS RAZÕES DO APELO.MANIFESTAÇÃOFUNDAMENTADA DO ACÓRDÃO RECORRIDO E DA DECISÃO MONOCRÁTICA SOBRE TODOS OS PONTOS RELEVANTES SUSCITADOS NOS AUTOS.PRECEDENTE DO STJ.MANUTENÇÃO DA DECISÃO GUERREADA POR SEUS PRÓPRIOS FUNDAMENTOS.IMPOSSIBILIDADE DE REEXAME DA CAUSA.EMBARGOS CONHECIDOS E IMPROVIDOS."(fls. 25-26).
+O impetrante alega, em síntese, que o Tribunal a quo, ao desclassificar a conduta do paciente e reduzir a pena (do art. 16, caput, para o delito previsto no art. 14 da Lei 10.826/03), deveria ter remetido aos autos à origem para aplicação do art. 28-A do Código de Processo Penal - CPP.
+Requer, em liminar, a suspensão do processo e, no mérito, a determinação para aplicação do referido dispositivo.
+Indeferido o pedido liminar (fls. 44-45). Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus(fls. 60-62).
+É o relatório. Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Otema referente aoartigo 28-A do CPPnão foi submetido a debate na instância ordinária, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. COMANDAR ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. NEGADO O DIREITO DE RECORRER EM LIBERDADE NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. UM DOS LÍDERES DE ORGANIZAÇÃO CRIMINOSA ARMADA VOLTADA À PRÁTICA DE VÁRIOS DELITOS, EM ESPECIAL O TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA E DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. NECESSIDADE DE INTERROMPER A ATUAÇÃO DE INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+ ..
+6. Inadmissível a análise do alegado excesso prazal, tendo em vista que a referida irresignação não foi submetida ao exame do Tribunal a quo, por ocasião do julgamento do writ originário, não podendo este Tribunal Superior de Justiça enfrentar o tema, sob pena de incidir em indevida supressão de instância.
+7. Habeas corpus não conhecido.
+(HC 543.504/SC, por mim relatado, QUINTA TURMA, DJe 31/8/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente impetração.
+Publique-se. Intimem-se.
