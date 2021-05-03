@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei no qual o requerente se insurge contra acórdão da Quarta Turma Recursal do Estado do Paranáque julgou improcedente seurecurso inominado, mantendo a sentença pelos seus próprios fundamentos.
+A decisão judicial impugnada concluiu que houve incorporação direta, com a construção em terreno próprio, inexistindo prestação de serviço, sendo devido, portanto, a repetição do indébito em relação ao ISS pago pelo contribuinte.
+O requerente aduz que "o cerne da discussão é o fato de que a ora recorrida não comprovou que efetuou "autoconstrução", ou que não recorreu a mão de obra de terceira pessoa para levantar seu empreendimento". Cita dissídio envolvendo o art. 6ºda LC 116/2003, com precedentes da Primeira Turma da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 08 de abril de 2021.
+Não é possível conhecer do pedido.
+Segundo consolidada jurisprudência do STJ, o incidente de Uniformização de Interpretação da Lei Federal é cabível para discutir a exegese de normas de direito material:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CORREÇÃO MONETÁRIA. FGTS. QUESTÃO DE DIREITO PROCESSUAL. INCABÍVEL O INCIDENTE.
+I - Na origem, trata-se de ação de cobrança ajuizada por servidor público estadual temporário objetivando a declaração de nulidade do contrato de trabalho sob a justificativa do acordo ter extrapolado seu prazo máximo de vigência, bem como reconhecer o direito ao recebimento do FGTS durante o período trabalhado.
+II - Na sentença, julgaram-se procedentes os pedidos. Na Turma Recursal dos Juizados Especiais do Estado do Paraná, deu-se parcial provimento ao recurso da Fazenda Pública, determinando: i) que a correção monetária seja feita na forma do Tema n. 905/STJ, a partir da data do julgamento, ii) a incidência dos juros de mora a partir da citação, na forma do Tema n. 905/STJ e iii) no restante, manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei n. 9.099/1995. Nesta Corte, não se conheceu do pedido de uniformização de interpretação de lei.
+III - Da leitura do art. 18 da Lei n. 12.153/2009, conclui-se que o mecanismo de uniformização de jurisprudência dirigido a STJ é utilizado quando for verificada divergência entre decisões proferidas por turmas recursais sobre questões de direito material, em duas hipóteses: i) quando as turmas de diferentes Estados derem à Lei Federal interpretações divergentes, e ii) quando a decisão proferida estiver em contrariedade com súmula do STJ.
+IV - Em resumo, a controvérsia refere-se à aplicação ou não da TR como índice de correção de FGTS.
+V - Esta Corte Superior, no julgamento do REsp n. 1.205.946/SP, sujeito ao rito dos recursos repetitivos, firmou entendimento no sentido de que a norma que disciplina critérios de correção monetária e de juros de mora, em condenações impostas à Fazenda Pública, possui natureza eminentemente processual, acerca da qual não cabe pedido de uniformização de interpretação de lei. A propósito: (AgInt no PUIL n. 565/RS, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 19/6/2018).
+VI - Agravo interno improvido.
+(AgInt no PUIL 1.204/PR, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 29/09/2020, DJe 02/10/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE COTEJO ANALÍTICO. PEDIDO NÃO CONHECIDO.
+1. Nos termos do art. 14, § 4º, da 10.259/2001, o cabimento do incidente perante o STJ se dará nas hipóteses de decisão colegiada que examina questão de direito material, a qual esteja em confronto com súmula ou jurisprudência dominante do STJ. Para tanto, faz-se necessária a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+2. Na espécie, a requerente não procedeu ao cotejo analítico entre os acórdãos confrontados. Também não fez prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, requisitos indispensáveis para o processamento e conhecimento do referido incidente de uniformização.
+3. Agravo interno não provido.
+(AgInt no PUIL 760/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 31/03/2020, DJe 02/04/2020)
+O Tribunal de origem ao decidir a controvérsia assim consignou (fls. 192, e-STJ):
+Em que pese seja possível a substituição tributária, hipótese do art. 31, da Lei Municipal n. 16/1978, compete ao município comprovar a existência de negócio jurídico entre o suposto tomador e prestador do serviço.
+Nos autos, o município não apresentou qualquer comprovação ou ainda indício de que houve a prestação de serviço por terceiro e não por mão-de-obra própria. A obra foi realizada mediante alvará emitido pela municipalidade e, apesar do poder de polícia, não foi feita qualquer fiscalização in loco que pudesse confirmar o alegado pela municipalidade.
+Conclui-seque, no caso em análise, não se discute interpretação de normas de direito material, mas sim a comprovação ou não de que a recorrida efetuou autoconstrução. Entretanto, para dirimir essa questão seria necessário examinar o acervo fático probatório, o que foge da hipótese de cabimento do presente incidente. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. AUSÊNCIA DE COTEJO ANALÍTICO NOS TERMOS REGIMENTAIS E LEGAIS. REEXAME DE PROVAS.IMPOSSIBILIDADE. SÚMULA 42 DA TURMA NACIONAL DE UNIFORMIZAÇÃO.
+(..)
+3. Como bem ressaltado pela Turma recursal, ao inadmitir o Pedido de Uniformização da parte autora, eventual alteração do julgado representaria reexame do conjunto fático-probatório, o que é vedado no âmbito do Incidente de Uniformização, nos termos da Súmula 42 da Turma Nacional de Uniformização ("Não se conhece de incidente de uniformização que implique reexame de matéria de fato."), bem como da Súmula 7 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial.") e da Súmula 279 do Supremo Tribunal Federal ("Para simples reexame de prova não cabe recurso extraordinário."), aplicáveis por analogia às Turmas de Uniformização. Para ilustrar: AgInt no PUIL 929/MA, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 6/5/2019; AgInt no PUIL 546/AC, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 1º/4/2019.
+4. Pedido de Uniformização de Interpretação de Lei não conhecido.
+(PUIL 1.395/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 11/12/2019, DJe 26/02/2020)
+Ainda que superado esse óbice, verifica-se que não está claro se o acórdão apontado como paradigma trata do mesmo caso fático ao presente, qual seja: construção em terreno próprio, não se prestando, portanto, para servir de paradigma.
+Pelo exposto, não conheço do recurso.
+Publique-se.
+Intimem-se.
