@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por PORTUBRAS COMERCIAL DE ALIMENTOS LTDA e OUTROS, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"AGRAVO INTERNO - EMBARGOS À EXECUÇÃO FISCAL - PRESCRIÇÃO: INOCORRÊNCIA.
+1. Trata-se de execução fiscal para a cobrança de créditos tributários constituídos na data de entrega das declarações, entre 17 de março de 1994 e 27 de janeiro de 1995.
+2. O despacho de citação, marco interruptivo da prescrição, foi proferido em 15 de junho de 1998. Nos termos do recurso repetitivo acima citado, tal interrupção retroage à data da propositura da ação.
+3. A execução fiscal foi protocolada em 30 de março de 1998.
+4. Não houve prescrição 5. Agravo interno improvido" (fl. 201e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 994, III, e 1.021 do CPC/2015, e 174, I, do CTN,sustentando o seguinte:
+"Primeiramente, impende consignar a esta Augusta Corte, a incessante utilização pelo TRF 3 Região do art. 994, inciso III do artigo 1.021 do NCPC mesmo rios casos em que não há entendimento pacífico ou sumulado pelas cortes piores. Destaca-se que com a oposição do Agravo Legal não foi superada a contrariedade pela decisão colegiada proferida naquela corte.
+A questão não foi superada uma vez que, destaca-se o quanto delimitado pela regra legal processual do 1.021 do NCPC:
+(..)
+Ora, o Agravo (regimental ou interno como é denominado) objetiva que o recurso interposto em 1º instância seja colocado em julgamento e não que seja confirmado ou não o julgado monocrático do relator. Ora, se assim o fosse haveria como ainda ocorre, insistentes e idênticas manifestações em peças autônomas, tornado cansativa a análise jurídica do processo propriamente dito. Em suma, nas razões do Agravo interposto contra a decisão monocrática do relator, objetiva-se tão somente a demonstração de que seu entendimento não é dominante, e comprovada essa ausência de dominância é que será posto em julgamento para que se confirmem ou não o entendimento monocrático do relator, Diante dessa sistemática, data vênia, o enfrentamento da fundamentação é matéria secundária no Agravo, cuja finalidade é tão somente de demonstrar que o entendimento do relator não é dominante. Assim deve ser julgado pelo colegiado se há ou não entendimento dominante, e assim colocar em julgamento o recurso interposto da decisão de 1ª instância, que assim confirmará ou não o posicionamento do Relator, para formação da decisão colegiada.
+Enfim, a finalidade do Agravo sacado em face da decisão monocrática do relator demonstrou notadamente que a decisão não esta rechaçada pelos requisitos processuais dos artigos invocados, e ainda constou sim no referido Agravo que entre a constituição do crédito e a citação o prazo prescricional foi consumado pela desídia da Agravada. Portanto, a necessidade de provimento ao Agravo interposto para que procedente fosse apreciado o recurso em decisão colegiada.
+Demonstrado, também nesse sentido a patente violação aos artigos 994, inciso III do artigo 1.021 do NCPC, havendo violação a lei processual federal a ser reformada por esta Corte. Assim acolhendo as razões de inconformismo deve adecisão colegiada proferida pelo Tribunal Regional Federal ser reformada, anulando-a e determinando o provimento ao Agravo Regimental/Interno, colocando em julgamento as razões recursais de apelo da decisão monocrática que acolheu a prescrição, enfrentando as questões fáticas então expostas.
+Não obstante isso, quando a prescrição, esta pode ser arguidaem qualquer instância e foro, o caso envolve a aplicação do artigo 174, 1 do CTN antes do advento da Lei Complementar 118/2005, pois:
+(i) O crédito constituído em 17/03/1994, mas a ação foi ajuizada somente em 30/03/1998 (isso não é demora do Judiciário seguramente);
+(ii) a citação somente ocorreu após 9 (nove) anos da constituição do crédito tributário, não por mecanismos do judiciário, e sim pelos sucessivos pedidos de sobrestamento do feito pela Agravada.
+Veja-se que da constituição do crédito e o ajuizamento da ação como constou em sentença e decisão do Tribunal o ajuizamento somente ocorreu após 4 (quatro) anos da constituição. A própria ementa do acórdão que se recorre demonstra o alegado:
+(..)
+Não obstante isso, ÍnclitosMinistros, o relator ao destacar que houve morosidade do judiciário aplicou a sumula 106 do STJ, porém o prazo prescricional estava perto de ser consumado, tanto é que a citação ocorreu somente após 9 anos do ajuizamento da ação. Veja-se a questão da constituição e o ajuizamento é fato incontroverso não dependendo de reanalise tática nesta ocasião.
+De mais a mais, se ainda sim 4 anos não seja considerando prescrição, os iterados pedidos de sobrestamento foram fulminantes para a prescrição. O acórdão inclusive deveria reconhecer os iterados pedidos de sobrestamento sem efetivo andamento da ação.
+É evidente e presumível, pelo regular andamento de todo e qualquer processo que a prescrição exauriu-se pela desídia da Recorrida, não prevalecendo com isso o entendimento do relator e do voto após a interposição do Agravo Regimental.
+Destaca-se, contrariando o argumento deste e referendando a tese trazida na exceção de pré-executividade e na sentença rnonocrática, julgados proferidos nesta instância superior.
+(..)
+Por essa sistemática é, jurídica e perfeitamente afastável, o entendimento exarado no voto do Relator.
+Ora, é evidente que, com base na sumula invocada sob a égide do regramento contido no artigo 174, 1 do CTN antes do advento da lei Complementar 118/2005, primeiro é necessário que o ajuizamento ocorra dentro do prazo legal e, segundo, se a exequente no caso a Recorrida, não indica ou pede sucessivos pedidos de sobrestamentos do feito a prescriçãose consuma, pois não foi ato do judiciário preponderante que ensejou na prescrição. Portanto, o entendimento no caso deste Recorrente esta a violar a norma do artigo 174, 1 do CTN vigente a época dos fatos" (fls. 210/217e).
+Por fim, "a teor das exposições ventiladas no presente Recurso Especial. Primeiramente pela violação do artigo 994, inciso III do artigo 1.021 do NCPC, que sendo acolhida seja declarada nula a decisão do Tribunal Regional Federal. Por seu turno, quanto ao mérito do caso seja reconhecida aconsumação da prescrição, conforme já declarado em sentença monocrática de primeira instância, nos moldes do artigo 174, 1 do CTN, vigente antes do advento da Lei Complementar 118/2005" (fls. 217/218e).
+Contrarrazões, a fls. 223/227e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 258/259e).
+A irresignação não merece conhecimento.
+De início, observa-se que os arts. 994, III, e 1.021 do CPC/2015, apontados como violados, são insuficientes para sustentara tese recursal, razão pela qual tem aplicação, por analogia, a Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCLUSÕES DO TRIBUNAL DE ORIGEM ACERCA DA MATÉRIA FÁTICO-PROBATÓRIA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. DISPOSITIVO APONTADO VIOLADO DO QUAL NÃO SE EXTRAI A TESE SUSTENTADA. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO ANALÓGICA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Quanto à contrariedade ao artigo 21 do CPC/1973, é impossível a rediscussão da distribuição dos ônus sucumbenciais com o objetivo de redimensionar os honorários advocatícios arbitrados na origem. Incidência da Súmula 7 do STJ. Precedentes.
+2. Dos dispositivos tidos como violados não se extrai a tese recursal, o que faz incidir a Súmula 284 do Supremo Tribunal Federal (fundamentação deficiente).
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.039.960/MG, Rel. Ministro LÁZARO GUIMARÃES - Desembargador Federal convocado do TRF da 5ª Região), QUARTA TURMA, DJe de 14/05/2018).
+No mais, em relação ao art. 174, I, do CTN,tem-se que o Tribunal decidiu consoante os seguintes fundamentos:
+"Trata-se de execução fiscal para a cobrança de créditos tributários constituídos entre 17 de março de 1994 e 27 de janeiro de 1995 (data da entrega das declarações - fls. 125/135).
+O despacho de citação, marco interruptivo da prescrição, foi proferido em t5 de junho de 1998 (fis. 12). Nos termos do recurso repetitivo acima citado, tal interrupção retroage à data da propositura da ação.
+A execução fiscal foi protocolada em 30 de março de 1998 (fls. 02).
+Não houve prescrição" (fl. 173e).
+Ao que se tem,a parte deixou de atacar os fundamentos adotados pela Corte regional para decidir a controvérsia, apresentando fundamentos outros, não relacionados ao decidido, com razões recursais dissociadas da fundamentação do acórdão objurgado. Nesse contexto, têm incidência, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF.
+1. (..).
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento" (STJ, RCD no AREsp 456.659/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 03/11/2015).
+De qualquer modo,"averificação da responsabilidade pela demora para a realização da citação do devedor, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ" (STJ, AgInt no AREsp 903.537/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 15/12/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
