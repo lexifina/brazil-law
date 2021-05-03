@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por TKK ENGENHARIA LTDA. - EM RECUPERAÇÃO JUDICIAL E TKR LOCAÇÃO DE EQUIPAMENTOS LTDA. - EM RECUPERAÇÃO JUDICIAL contra a decisão da Presidência do Superior Tribunal de Justiça (e-STJ fls. 370/372) que não conheceu do agravo em recurso especial, por falta de impugnação dos fundamentos da decisão agravada.
+Inconformadas, asagravantes interpõem o presente recurso (e-STJ fls. 378/383), postulando a reforma da decisão agravada, sob a alegação de que impugnaramtodos os fundamentos da decisão de admissibilidade do recurso especial, assinalando principalmente a desnecessidade de reexame de matéria fática.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação dasrecorrente, faz-se imperiosa a reconsideração da decisão de fls. 370/372 e-STJ e passa-se ao exame do agravo em recurso especial interposto porTKK ENGENHARIA LTDA. - EM RECUPERAÇÃO JUDICIAL e TKR LOCAÇÃO DE EQUIPAMENTOS LTDA. - EM RECUPERAÇÃO JUDICIAL,contra a decisão que negou seguimento ao recurso especial.
+Ultrapassados os requisitos de admissibilidade do agravo, verifica-se que o recurso especial (fls. 308/315e-STJ), fundamentado naalínea"a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"IMPUGNAÇÃO DE CRÉDITO (RECUPERAÇÃO JUDICIAL) - Cálculo do crédito - Decisão judicial que deferiu o pedido para alterar o valor do crédito do autor para R$ 99.216,72, como crédito quirografário - Alegação de que não é possível considerar o parecer contábil elaborado apenas com base em informações, visto que não foram apresentados os documentos que comprovam a origem do crédito - Descabimento - Hipótese na qual, todos os documentos necessários à comprovação do crédito foram juntados aos autos (requerimento de empresário, notas fiscais, e lançamentos nos livros fiscais) -Ademais, conforme se depreende dos cálculos do contador judicial, com lastro no inc. II do art. 9º supramencionado, o montante foi corretamente atualizado até a data do pedido da recuperação judicial - Não há comprovação do pagamento parcial de R$ 20.000,00, e, tampouco, manifestação a esse respeito - Decisão mantida -Agravo de instrumento não provido.
+Dispositivo: Negam provimento ao recurso"(e-STJ fl. 297).
+Nas razões do recurso especial, asrecorrentes alegam que o acórdão violou os artigos371, 373, I e 492 do Código de Processo Civil de 2015e 9º, III da Lei 11.101/2005, ao deferiro pedido do recorrido e ainda condenaras recuperandas aopagamento de valor superior ao pedido pelo credor.
+Aduzem que o recorrido deixou de juntar provas para demonstrar a necessidade de modificação do crédito já listado.
+A pretensão recursal não merece acolhida.
+Verifica-se queas conclusões do Tribunal de origem acerca da questão posta em análise decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"Em síntese, a divergência dirige-se ao correto valor a ser habilitado/alterado.
+Nenhuma razão cabe às recorrentes.
+Conforme depreende-se das peças juntadas, o agravado havia juntado à inicial tão somente as notas fiscais n. 86 e 88, com total de serviços R$ 56.750,00 (fl. 27) e R$ 19.600,00 (fl. 28), respectivamente.
+Instado a trazer cópia do contrato social, os aceites de tais notas, e também o comprovante de que recebeu pagamento parcial de R$ 20.000,00 (fl. 48), o credor afirmou ter realizado os devidos lançamentos nos livros fiscais (fl. 98-99).
+O agravado apresentou requerimento de empresário em abril de 2018 (fl. 89). Ao contrário do que querem fazer crer as agravantes, conforme indicado pelo perito contador, os lançamentos dos livros fiscais foram juntados (fl. 220), ou seja, presentes todos os documentos necessários para comprovação do crédito foram sim juntados aos autos
+(..)E conforme consta dos cálculos do contador judicial (fl. 243-244), com lastro no inc. II do art. 9º supramencionado, o montante foi corretamente atualizado até a data do pedido da recuperação judicial.
+O que se poderia questionar é o montante de R$ 20.000,00 que o agravado apontou que teria lhe sido pago parcialmente (fl. 22), mas as recorrentes nada alegam a este respeito na minuta recursal, preferindo questionar a ausência de comprovação da origem do débito (fl. 1-14). Em primeira instância, ao ser intimada a comprovar eventual pagamento parcial (fl. 150), as agravantes nada disseram a esse respeito (fl. 153-156).
+Portanto, nenhuma prova há acerca de eventual pagamento parcial, ficando tal apontamento no campo das ilações, sendo queem contrapartida, restou demonstrado a prestação de serviços referente às notas fiscais discutidas"(e-STJ fls. 301/302).
+Com efeito, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, reconsidero a decisão agravada (fls. 370/372e-STJ), conhecendo do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
