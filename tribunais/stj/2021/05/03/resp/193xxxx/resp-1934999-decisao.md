@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município do Rio de Janeiro contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, no qual discute a ocorrência da prescrição intercorrente e a observância de tese firmada em recurso repetitivo.
+Contrarrazões apresentadas por Oreste Paulo De Oliveira Filho E Alvaro Paiva Gama (fls. 93/95).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 164/170):
+O caso dos presentes autos é de prescrição intercorrente, onde sequer foi realizada citação válida, não envolvendo as hipóteses retratadas no art. 40 da LEF.
+ ..
+Como cediço, incumbe à parte promover a citação da parte, não havendo como considerar que, no caso em tela, a prescrição se deveu por motivos inerentes ao mecanismo da justiça, mas sim pela inércia da Fazenda em peticionar nos autos para dar andamento ao feito, haja vista ser o interessado na satisfação de seu crédito e em assegurar a execução, na certeza de seu dever de colaboração, em homenagem aos princípios da celeridade processual e da segurança jurídica (..)"
+Pois bem.
+O conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois não há como se revisar a conclusão do acórdão recorrido sem reexame fático-probatório.
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. PRESCRIÇÃO. OCORRÊNCIA. AFASTAMENTO DA SÚMULA 106/STJ PELA CORTE ESTADUAL. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O acórdão recorrido consignou: "Assim, como bem ressaltado no Acórdão (índice - 52), embora o feito reconheça a prescrição intercorrente, não se vislumbra a hipótese contida no art. 40 e parágrafos da lei de execução, que exige a prévia oitiva da fazenda pública, e que somente se aplica às hipóteses de prescrição intercorrente nele indicadas, quais sejam: a prescrição intercorrente contra a fazenda pública na execução fiscal arquivada com base no § 2º do citado artigo, quando não localizado o devedor ou não encontrados bens penhoráveis. Na hipótese dos autos, o executado foi devidamente citado, tendo sido inclusive ocorrido a penhora do imóvel, ficando o feito paralisado por inércia do exequente, não havendo que se falar nas hipóteses de suspensão da execução prevista no art. 40 da Lei de execuções. Assim, a matéria retratada nos autos é diversa das questões apreciadas no REsp nº 1.340.553/RS, submetido ao regime dos recursos repetitivos, não havendo que se falar em sobrestamento do feito. Destarte, salvo melhor juízo, a decisão não é contrária às teses firmadas nos Temas nº 566, 570 e 571 do STJ. Pelo exposto, voto pela manutenção do Acórdão em sede de Juízo de retratação, por não se apresentar contrário à tese discutida no recurso repetitivo." (fls. 147-148, e-STJ, grifo acrescido).
+2. Afastar o entendimento a que chegou a Corte estadual de que no caso dos autos ocorreu a prescrição do crédito tributário, implica revolver o acervo fático-probatório dos autos, o que se mostra inviável em Recurso Especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 3. O argumento da municipalidade de que a morosidade na prática dos atos processuais decorreu de mecanismos inerentes ao Poder Judiciário tem sua análise obstada nesta via recursal porque a verificação de responsabilidade pela demora na prática dos atos processuais, se do exequente ou ao Poder Judiciário, exige a incursão no conjunto fático-probatório.
+4. Rever o entendimento do acórdão recorrido para considerar incidente à hipótese dos autos a Súmula 106/STJ, por ele afastada após análise das peculiaridades do caso, demanda o reexame da matéria de fato, o que é inviável em Recurso Especial, tendo em vista o disposto na citada Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1730192/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/03/2021, DJe 05/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PRESCRIÇÃO INTERCORRENTE. DESÍDIA DO EXEQUENTE. SÚMULA 106/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+2. A revisão do acórdão recorrido, considerando-se, para tanto, se houve ou não desídia da Procuradoria do Município em impulsionar o processo, encontra óbice na Súmula 7/STJ.
+4. O STJ já firmou, sob a sistemática dos recursos repetitivos (REsp 1.102.431/RJ, Rel. Min. Luiz Fux, Primeira Seção, DJe de 1º/2/2010), que, registrada pelo Tribunal de origem a responsabilidade da parte na demora da citação, ou mesmo a (não) responsabilidade da Justiça quanto a esse mister, o exame da aplicabilidade da Súmula 106/STJ não é mais possível, diante do óbice da Súmula 7/STJ.
+5. Esta Corte orienta-se no sentido de que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais" (AREsp 1.050.334/PR, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/4/2017). Na hipótese dos autos, não foram fixados honorários advocatícios pelas instâncias ordinárias, o que afasta a condenação em honorários recursais.
+6. Agravo interno provido parcialmente, para afastar a condenação em honorários recursais.
+(AgInt nos EDcl no REsp 1851460/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 18/11/2020)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
