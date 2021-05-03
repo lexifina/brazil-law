@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Silvana Meireles Nogueira Maia, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 192):
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRELIMINARES. VIOLAÇÃO AO PRINCÍPIO DA COOPERAÇÃO. JULGAMENTO. OCORRÊNCIA. SENTENÇA REJEITADA. CITRA PETITA INTEGRALIZADA. MÉRITO. CÉDULA DE CRÉDITO BANCÁRIO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE.COMISSÃO DE PERMANÊNCIA. CUMULAÇÃO. COM OUTROS ENCARGOS. IMPOSSIBILIDADE. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO VALOR DEVIDO. MATÉRIA NÃO CONHECIDA NO JUÍZO ORIGINÁRIO. INTELIGÊNCIA DO ART. 917. §§ 3º E 4º, II, DO CPC. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA INTEGRALIZADA.
+1. Não caracteriza violação ao princípio da cooperação quando o juiz deixa de determinar a emenda à inicial para apresentar planilha que demonstre o excesso de execução, pois não cabe ao julgador fazer prova para a parte que não se desincumbiu de seu ônus processual.
+2. Observa-se, no caso dos autos, que a sentença não analisou o pedido de declaração de nulidade de cláusula abusiva, sendo necessário o reconhecimento do vício de julgamento . Aplicação do citra petita art. 1.013, §3º, III do CPC. Sentença integralizada.
+3. Na situação de contratação de mútuo para obtenção de capital de giro da sociedade empresária, a jurisprudência do STJ afasta a incidência do Código de Defesa do Consumidor, porque não está presente afigura do consumidor como destinatário final econômico do produto ou serviço, como definida no artigo 2º do Código de Defesa do Consumidor.
+4. A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual. Inteligência da Súmula 472 STJ.
+4.1. Havendo cobrança cumulada de comissão de permanência com outros encargos, necessária a revisão da cláusula contratual para adequá-la ao entendimento sumulado. Precedentes.
+5. Recurso conhecido e parcialmente provido. Preliminar de ofensa ao princípio da cooperação afastada.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 213-220).
+Nas razões do recurso especial (e-STJ, fls. 223-231), a recorrente apontou divergência jurisprudencial e violação dos arts. 7º, 11 e 489, § 1º, IV, do Código de Processo Civil de 2015; e 5, LV, e 93, X, da Constituição Federal.
+Sustentou que o Tribunal estadual não fundamentou sua decisão ao não rebater todos os argumentos capazes de infirmar a conclusão adotada. Alegou a existência de cercamento de defesa porquanto era necessário a produção de prova pericial para apuração do valor a ser efetivamente cobrado.
+Contrarrazões às fls. 241-244 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta apresentada às fls. 263-267 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, deve-se ressaltar que o recurso especial não é a via própria para o debate de suposta violação de dispositivos constitucionais, porquanto a análise da matéria não é de competência desta Corte Superior, mas do Supremo Tribunal Federal, por expressa determinação da Carta Magna.
+Asseverou a insurgente a falta de fundamentação do acórdão recorrido por ter o Colegiado local deixado de analisar questão imprescindível para o deslinde da controvérsia, contudo, não especificou qual seria o argumento que não foi apreciado.
+Caracterizada a deficiência da fundamentação desenvolvida na petição recursal, impossibilitando a exata compreensão da controvérsia, é de rigor a aplicação, por analogia, da Súmula 284 do STF.
+Ao ensejo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. RECURSO PROVIDO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. FUNDO VGBL. DISPOSITIVOS LEGAIS. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. VIOLAÇÃO AO ART. 489 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284 DO STF. INDICAÇÃO DE BENEFICIÁRIO DO PLANO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. RECURSO DESPROVIDO.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+1.1. Ademais, o recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão recorrido, de modo a permitir o cotejo entre os fundamentos da decisão recorrida e as razões expendidas no recurso. A deficiência na fundamentação do recurso especial obsta seu conhecimento (Súmula n. 284/STF).
+1.2. Além disso, para dissentir das conclusões do acórdão recorrido quanto à inexistência indicação de beneficiário do plano, seria necessário interpretar as cláusulas contratuais e reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt nos EDcl no AREsp 1592292/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020 - sem grifos no original)
+Cumpre observar, por outro lado, que a tese de cerceamento de defesa não foi objeto de deliberação pelo Tribunal a quo, tampouco foi levantada tal questão nos embargos de declaração opostos a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. 2. VIOLAÇÃO AO ART. 489 DO CPC/2015. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. 3. CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA OU TESE. SÚMULAS 282 E 356 DO STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
