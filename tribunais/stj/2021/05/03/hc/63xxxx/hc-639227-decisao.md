@@ -1,0 +1,21 @@
+DECISÃO
+GABRIEL HENRIQUE SIGISMUNDO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n.2264239-97.2020.8.26.0000.
+A defesa pretendida, em síntese, seja revogada a custódia preventiva do paciente - decretada pela suposta prática do crime de tráfico de drogas -, sob o argumento de que, " d a simples leitura da decisão ora guerreada, podemos observar facilmente que inexiste qualquer tipo de análise quanto as particularidade do caso em concreto (primariedade, bons antecedentes, ocupação lícita, residência fixa etc), pois apenas e tão somente fundamentou" (fls. 4-5).
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Em consulta processual realizada na página eletrônica do TJSP, verifico que ainda não sobreveio a prolação de sentença nos autos do processo objeto deste writ (Processo n. 1500777-94.2020.8.26.0070).
+Decido.
+A segregação preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, noto que o Juízo singular mencionou elementos concretos e idôneos para ensejar a decretação da custódia preventiva do paciente, ocasião em que salientou: "o investigado Gabriel, segundo atesta a F.A. e certidões juntadas a fls. 45/48, também possui atos infracionais pela prática do delito de tráfico de drogas e encontrava-se usufruindo dos benefícios da liberdade provisória, nos autos do processo nº 1502058-56.2018.8.26.0070, que responde pela prática do mesmo delito" (fl. 100).
+Na mesma linha argumentativa, ressaltou a Corte estadual que, "conforme consignado pela decisão impetrada, GABRIEL se encontrava em gozo de liberdade provisória, concedida nos autos do processo n º 1502058-56.2018.8.26.0070, no bojo do qual responde pela prática do mesmo delito aqui em questão.Sendo assim, a custódia se revela necessária, também, para se evitar a reiteração criminosa" (fl. 137).
+Tais circunstâncias evidenciam a real possibilidade de que, solto, o paciente volte a delinquir, a ensejar, por conseguinte, a necessidade de manutenção da sua custódia preventiva para a garantia da ordem pública, também para o fim de evitar a reiteração criminosa.
+Nesse sentido, menciono:
+ ..
+3. É idônea a motivação invocada para embasar a ordem de prisão, ao evidenciar o risco de reiteração delitiva, diante da presença de elementos demonstrativos da prática habitual do comércio ilícito de entorpecentes pela paciente e pela corré - além de diversas notícias recebidas pela autoridade policial a respeito da atividade realizada naquela residência, elas já foram indiciadas anteriormente pelo cometimento de delitos de mesma natureza -, com o envolvimento de adolescente na atividade espúria.
+ ..  5. Ordem denegada.
+(HC n. 510.012/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/9/2019).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da prisão preventiva do acusado.
+Em razão das indicadas circunstâncias, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). Nesse sentido: AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer , 5ª T., DJe 13/4/2018.
+Por fim, ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça acerca da necessidade de manutenção da prisão preventiva em casos como o dos autos, não há óbice a que se decida este habeas corpus de forma monocrática, haja vista ser expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o Relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
