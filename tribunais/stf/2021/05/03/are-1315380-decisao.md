@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (eDOC 13, p. 3):
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO – RESTRUTURAÇÃO DA CARREIRA DE AUXILIAR JUDICIÁRIO AO SISTEMA REMUNERATÓRIO DOS APROVADOS EM CONCURSO PARA CARGO DE NÍVEL SUPERIO” – PLANO DE CARREIRAS INACABADO, DIREITO À PROGRESSÃO FUNCIONAL, ISONOMIA DE VENCIMENTOS, PRINCÍPIO DA ISONOMIA, MORA LEGISLATIVA E INEXISTÊNCIA DE TRANSPOSIÇÃO DE CARGOS – PEDIDO DE DECLARAÇÃO DE MORA LEGISLATIVA – CARGOS DE AUXILIAR JUDICIÁRIO - CONHECIMENTO DE “NÍVEL ELEMENTAR” OU “NÍVEL MÉDIO” – ATIVIDADES DE BAIXA COMPLEXIDADE – EXTINÇÃO POR VACÂNCIA - ISONOMIA REMUNERATÓRIA - REQUISITOS PARA INVESTIDURA E DESEMPENHOS DE FUNÇÕES DIVERSOS – TRANSPOSIÇÃO DE CARGOS – IMPOSSIBILIDADE - PRINCÍPIO CONSTITUCIONAL DO CONCURSO PÚBLICO - REQUISITOS PARA A PROGRESSÃO DA CARREIRA – MATÉRIA REGULAMENTADA PELO SDCR – AUSÊNCIA DE DEVER CONSTITUCIONAL DE LEGISLAR - “OMISSÃO LEGISLATIVA” NÃO CONFUNDIDA COM “OPÇÃO NORMATIVA” – PRINCÍPIO DA IGUALDADE – SÚMULA VINCULANTE 43 DO C. STF – JULGADO DO TJMT – MORA LEGISLATIVA NÃO VISUALIZADA – IMPROCEDÊNCIA.
+    No recurso extraordinário interposto pelo Sindicato Dos Servidores Do Poder Judiciário Do Estado De Mato Grosso (eDOC 15), com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput e I, 7º, XXX e 39, todos da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, “que resta clara a inefetividade do plano de carreiras apresentado na Lei n. 8.814/08 que deixou de padronizar e unificar a escolaridade de ingresso na carreira como sendo de nível superior ao grupo de Profissionais Auxiliares Judiciários, e, consequentemente aplicando - se a igualdade no plano de carreiras, deturbando a ideia de carreira única aos cargos assemelhados” (eDOC 15, p, 11).
+    A Vice-Presidência do TJ/MT inadmitiu o recurso por incidência do óbice previsto na Súmula 280 do STF (eDOC 21).
+    Inconformado, o recorrente interpôs agravo.
+    É o relatório. Decido.
+    Consabido que a admissibilidade dos recursos extraordinários é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal  ad quem  permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que,  in casu   , o agravo nem sequer tem preenchidos os pressupostos processuais.
+    De plano, constata-se que a negativa de seguimento do apelo extremo baseou-se na vedação da Súmula 280 do STF (eDOC 21). Entretanto, o agravante nada alegou a respeito de tal fundamento, limitando-se a reafirmar a necessidade de reforma da decisão recorrida.
+    O recurso, portanto, não ataca os fundamentos da decisão que inadmitiu o recurso extraordinário. Assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, não conheço do agravo , nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 03 de maio de 2021.
+    Ministro Edson Fachin
+    Relator
