@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por MARIA HELENA RODRIGUES PACHECO, contra decisão que inadmitiu orecurso especial sob os seguintes fundamentos.
+a) Com relação à suposta violação ao artigo 535, do CPC/73, concluiu o Colegiado que a pretensão do então embargante revela seu inconformismo com o resultado do julgamento, não se prestando os embargos declaratórios à rediscussão da causa, (e-STJ fl. 1.039),
+(b) Quanto à alegação de que o recurso da parte adversa não poderia ter sido conhecido, por ofensa ao requisito da dilaeticidade, assentou o órgão julgador que "as razões recursais do apelo interposto pela instituição financeira estavam suficientemente aptas a impugnar os fundamentos da sentença, cumprindo os requisitos do artigo 514, do CPC" (fl. 105). Desse modo, rever tal conclusão demandaria o revolvimento dos fatos e provas constantes dos autos, providência vedada pela Súmula 7, do Superior Tribunal de Justiça,(e-STJ fls. 1.039/1.040),
+(c) A mesma súmula  7/STJ  se aplica no tocante à alegação de ofensa aos artigos 915 e 918, do CPC/1973, pois segundo o Colegiado "as contas apresentadas pela autora (mov. 73.2, os. 247/402) se limitaram à apresentação de planilhas sem respaldo em um documento sequer da movimentação financeira havida na conta corrente" (fl. 21),(e-STJ fl.1.040),
+(d) o artigo 2028/CC carece do indispensável prequestionamento, visto que não foi objeto de debate pelo Colegiado. Por consequência, "a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ" (AgRg no AREsp 630.211/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/03/2015, DJe 30/03/2015),(e-STJ fl. 1.040).
+Em suas razões, a agravante alegaque "a decisão do 1ª Vice-Presidente do Tribunal de Justiça "a quo" encontra-se equivocada, vez que, ao contrário do que deduziu, não houve dissociação do recurso face ao que foi decidido, vez que todos os requisitos obrigatórios para a interposição do presente Recurso Especial, foram devidamente cumpridos, pois aventado, discutido e apreciado todas as insurgências engendradas na peça recursal" (e-STJ fl. 1048).
+Reitera que "ocorreu negativa da prestação jurisdicional, posto que os argumentos trazidos a baila para prequestionamento não foram sanados"(e-STJ fl. 1.050).
+Destaca que a "impugnação não foi genérica, posto que apontou ausência dos documentos justificativos previsto em lei, situação que torna indiscutível a rejeição da prestação de contas" (e-STJ fl. 1.051).
+Argumenta, por fim, ter ocorrido "afronta artigos 183, 914, 915, 917, 918, 919, do CPC e art. 6º, da Lei 8078/1990, posto que julgou boas contas impassíveis de admissibilidade, agindo com rigor exacerbado em relação a impugnação do auto/Recorrente, porém, não aplicando o rigor previsto em lei a prestação de contas ofertada pelo Requerido" (e-STJ fls. 1.051/1.052).
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento em virtude de expressa previsão legal (CPC/1973, art. 544, § 4º, I, e CPC/2015, art. 932, III) e da aplicação, por analogia, da Súmula n. 182/STJ.
+No caso, não foi impugnado ofundamento concernente à aplicação da Súmula n. 7/STJ.
+Aplica-se, por analogia, a Súmula n. 182 desta Corte.
+Diante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
