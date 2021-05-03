@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em face de acórdão assim relatado:
+É agravo de execução penal tirado por Marco Aurélio Amores Pereira, em face de r. decisão do d. juízo do Departamento Estadual de Execução DEECRIM UR03 - Bauru, que indeferiu pedido de remição de pena, por aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA).
+Pondera a defesa que o agravante preencheu os requisitos pertinentes, fazendo jus à remição, a teor da Recomendação nº 44 do CNJ, a disciplinar o tema (fls. 01/06).
+O recurso foi regularmente processado, mantida a r. decisão agravada.
+Parecer da Ilustrada Procuradoria Geral de Justiça pelo provimento do agravo (fls. 40/43).
+É o relatório.
+O paciente, em cumprimento de pena privativa de liberdade, teve negada pelo Tribunal de Justiça de São Paulo a remição de pena decorrente da aprovação no Exame Nacional para Certificação de Competência de Jovens e Adultos (ENCCEJA).
+Sustenta a defesa que a decisão do Tribunal de origemafigurou-se ilegal, na medida em que descumpriu o disposto na Lei de Execuções Penais e na Resolução44/2013 do Conselho Nacional de Justiça.
+Requer, liminarmente, a sustação dos efeitos da decisão objeto dowrite, no mérito, a cassação do julgadoe a concessão de remição decorrente da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos.
+A liminar foi indeferida.
+Foram prestadas informações.
+O Ministério Público Federal opina pelo não conhecimento do writ.
+O acórdão recorrido restou assim fundamentado (fls. 42/45):
+Realmente, o documento juntado aos autos comprova que o agravante conta com o certificado de aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos ENCCEJ (fls. 09/10).
+E não há dúvidas de que o estudo, ainda que por conta própria, é meio de reinserção social do sentenciado, servindo de instrumento decrescimento intelectual e combate da ociosidade no ambiente prisional.
+Todavia, ainda assim, o pleito não pode ser acolhido,eis que a instrução autodidata não pode ser equiparada à atividade de ensino de que trata o art. 126, §§ 1º, I, e 2º, da LEP, descabendo ao intérprete criar o que a norma legal não o fez.
+Ademais, não há nos autos qualquer documento a comprovar que tenha ele desenvolvido atividade de estudo no ambiente prisional, daí ser descabida a incidência do §5º do art. 126 da LEP, incluído pela Lei 12.433/2011.O que se busca é contagem ficta de tempo de frequência escolar, sem amparo legal.
+Em recente julgado, a Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pelaaprovação no ENCCEJA, devem serconsideradas 1.600 horas para os anos finais do ensino fundamental e 1.200horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça(HC 602.425/SC, ainda pendente de publicação, Rel. p/ acórdão Ministro REYNALDO SOARES DA FONSECA).
+A esse respeito, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO EM TODOS OS 5 CAMPOS DE CONHECIMENTO DOENCCEJA- ENSINO FUNDAMENTAL. BASE DE CÁLCULO A SER CONSIDERADA CONFORME LEI N. 9.394/1996 E RECOMENDAÇÃO N. 44/2013 DO CNJ. JURISPRUDÊNCIA FIRMADA PELA QUINTA TURMA DESTA CORTE SUPERIOR.INTERPRETAÇÃO DAS NORMAS - EXECUÇÃO DA PENA - MARCO TEÓRICO: CF/88, ART. 3º. PRECEDENTES DO STF. RECURSO NÃO PROVIDO.
+1. A decisão agravada deixou clara e bem firmada a posição da jurisprudência da Quinta Turma desta Corte de que a base de cálculo a ser considerada para o cômputo da remição de pena por aprovação noENCCEJA- nível fundamental, por estudo por conta própria, é de 50%, ou seja, 1.600 horas, conforme Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça. No caso concreto, como o sentenciado foi aprovado em todas as cinco áreas de conhecimento, faz jus ao cálculo nos moldes do art. 1º, IV, da referida Recomendação, o que lhe garante os 177 (cento e setenta e sete) dias de remição postulados (26 por cada disciplina x 4).  .. " (AgRg no HC 596.514/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020, sem grifos no original).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E ADULTOS (ENCCEJA/NÍVEL MÉDIO). ART. 126 DA LEP.RECOMENDAÇÃO N. 44/2013 DO CNJ. BASE DE CÁLCULO. ART. 24, I, DA LEI 9.394/1996. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, também por estudo, parte do tempo de execução da pena.
+2. Esta Corte Superior de Justiça firmou entendimento e tem admitido a possibilidade de abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da LEP.
+3. A Recomendação n. 44/2013 do CNJ indica aos Tribunais a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão do ensino fundamental - Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - ou médio - Exame Nacional do Ensino Médio (ENEM), incentivando os apenados aos estudos, bem como à sua readaptação ao convívio social.
+4. O art. 24, I, da Lei 9.394/1996, pode ser utilizado como critério de interpretação da norma aberta oriunda do art. 1º, IV, da Recomendação n. 44/2013 do CNJ, o que não afronta o art. 4º, II e III, da Resolução n. 03/2010, do CNE.
+5. Considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio, ou seja, 1.200 horas, deve-se dividir esse total por doze, encontrando-se o resultado de 100 dias de remição em caso de aprovação em todos os campos de conhecimento doENCCEJA.
+6. Agravo Regimental não provido." (AgRg no HC 643.709/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, sem grifos no original).
+No caso, o Paciente foi aprovado em todas as áreas de conhecimento do ENCCEJA/Ensino Médio, razão pela qual faz jus à remição com o acréscimo de 1/3.
+Ante o exposto, concedo a ordem para deferir ao paciente a remição com acréscimo de 1/3de pena pela aprovação em todas as áreas do Exame Nacional para Certificação de Competências de Jovens Adultos - ENCCEJA/Ensino Médio.
+Publique-se.
+Intimem-se.
