@@ -1,0 +1,38 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. AUSÊNCIA DE ELEMENTOS CONCRETOS A JUSTIFICAR A HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. A Corte de origem mencionou apenas a quantidade e a diversidade da droga para afastar a aplicação do benefício do art. 33, § 4º, da Lei n. 11.343/2006, não sendo demonstrados elementos concretos para se concluir que a acusada se dedicava a atividade criminosa ou participava de organização criminosa. Assim, necessário o reconhecimento da incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas, uma vez que não houve fundamentação concreta para seu afastamento.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL (e-STJ fls. 935/941) contra decisão monocrática de e-STJ fls. 929/932, que conheceu do agravo para dar provimento ao recurso especial da envolvida, para aplicar o redutor previsto no art. 33, § 4º, da Lei n.º 11.343/2006, no patamar de 2/3 (dois terços), redimensionando a pena para 2 (dois) anos, 7 (sete) meses e 3 (três) dias de reclusão, a ser cumprida em regime aberto, e pagamento de 259 (duzentos e cinquenta e nove) dias-multa, substituída a pena privativa de liberdade por duas restritivas de direito, a serem fixadas pelo juízo da execução, mantidos os demais termos da condenação.
+A parte agravante alega o afastamento do benefício do art. 33, § 4º, da Lei n.º 11.343/2006, uma vez que há circunstâncias concretas passíveis de comprovar sua dedicação ao tráfico e inserção na cadeia criminosa. Sustenta que a envolvida empreendia a conduta com habitualidade, prosseguindo nas atividades ilícitas do marido, que se encontrava preso pela prática de tráfico de drogas.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. AUSÊNCIA DE ELEMENTOS CONCRETOS A JUSTIFICAR A HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. A Corte de origem mencionou apenas a quantidade e a diversidade da droga para afastar a aplicação do benefício do art. 33, § 4º, da Lei n. 11.343/2006, não sendo demonstrados elementos concretos para se concluir que a acusada se dedicava a atividade criminosa ou participava de organização criminosa. Assim, necessário o reconhecimento da incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas, uma vez que não houve fundamentação concreta para seu afastamento.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Sabe-se que o legislador, ao editar a Lei n.º 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n.º 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+O Tribunal a quo, ao apreciar o caso, manteve o afastamento da referida causa de diminuição, pelos seguintes termos (e-STJ fls. 836):
+Na terceira fase, ao contrário do alegado pela defesa, incabível a aplicação do benefício do tráfico privilegiado, previsto no §4º do art. 33, da Lei n.º 11.343/2006, tendo em vista que, em que pese a ré ser primária e ainda restar, neste momento, absolvida da prática do delito de associação ao tráfico, verifica-se que a expressiva quantidade de droga apreendida, demonstra que sua dedicação a atividades criminosas.
+De início, no ponto, verifica-se que a pretensão recursal não demanda o reexame de provas, mas tão somente a revaloração jurídica dos fatos já expressamente delineados no acórdão objurgado, não incidindo, portanto, o óbice da Súmula 7/STJ.
+Observa-se, pela leitura do trecho acima, que os fundamentos utilizados não foram suficientes para afastar a causa de diminuição.
+A Corte de origem mencionou apenas a quantidade e a diversidade da droga (4,07kg de maconha e 33g de crack) para afastar a aplicação do benefício do art. 33, § 4º, da Lei n.º 11.343/2006, não sendo demonstrados elementos concretos para se concluir que a acusada se dedicava a atividade criminosa ou participava de organização criminosa.
+Em situações semelhantes e também com réus sem antecedentes criminais, o próprio Supremo Tribunal Federal, em sede de habeas corpus impetrado contra decisões desta Corte, tem reconhecido a hipótese de tráfico privilegiado (art. 33, § 4º, da Lei n.º 11.343/2006). A título exemplificativo: a) HC n.º 156.985-SP, Relator Ministro GILMAR MENDES, DJe de 1º/6/2018 - quantidade de entorpecente: 2.968g de cocaína - origem : STJ, REsp n.º 1.672.673/SP, DE MINHA RELATORIA ; b) HC n.º 153.027-SP, Relator Ministro EDSON FACHIN, DJe de 1º/3/2018 - quantidade de entorpecente: 1.773g de cocaína - origem: STJ; ARESp n.º 1.183.164-SP, da relatoria do Ministro JOEL ILAN PACIORNIK; e c) HC n.º 156.671-SP, Relator Ministro RICARDO LEWANDOWSKI, Dje de 25/6/2018 - quantidade de entorpecentes: 250g de cocaína - origem : STJ, RESp n. 1.647.740-SP, da relatoria do Ministro JOEL ILAN PACIORNIK.
+Assim, necessário o reconhecimento da incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas, uma vez que não houve fundamentação concreta para seu afastamento.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
