@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Rio Grande do Sul, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, desafiando acórdão daquela unidade federativa.
+Depreende-se dos autos que o Magistrado singular indeferiu ao reeducando o benefício de livramento condicional.
+Contra essa decisão insurgiu-se a defesa.
+O colegiado local, por maioria de votos, deu provimento ao recurso para conceder ao recorrido o livramento condicional.
+Daí o presente recurso especial, no qual sustenta o Ministério Público estadual a ofensa aoart. 112 da Lei de Execução Penal, bem como ao art. 83, inciso III, do Código Penal. Sublinha que a apresentação de atestado de bom comportamento carcerário não basta ao preenchimento do requisito subjetivo necessário ao benefício. Diante disso, pede seja cassado o acórdão estadual e obstado o livramento condicional.
+As contrarrazões foram apresentadas às e-STJ fls. 123/128.
+Ouvido, o Ministério Público Federal manifestou-se pelo provimento do presente inconformismo (e-STJ fls. 148/160).
+É o relatório.
+Decido.
+Pretende o recorrente, em síntese, o restabelecimento da decisão que indeferiu o livramento condicional, ao argumento de que não estariam preenchidos os seus requisitos.
+O colegiado local deferiu o benefício ao sentenciado, destacando (e-STJ fls. 72/77):
+Para a concessão do livramento condicional, com a alteração do art. 112, § 2º, da Lei de Execuções Penais, com redação dada pela Lei nº 10 792, basta o implemento do lapso temporal (art. 83 do CP) e declaração acerca de satisfatório comportamento carcerário.
+Nos termos do § 2º do art. 112 da Lei de Execução Penal, com redação determinada pela Lei 10.792/2003, a condição de bom comportamento carcerário comprovado pelo diretor do estabelecimento prisional se dá também na concessão do livramento condicional, respeitados apenas os prazos previstos nas normas respectivas ao tema.
+A manifestação sobre comportamento carcerário de fl. 31, assinada pela presidente da Comissão Disciplinar do Presídio Estadual de Erechim dá conta de que o apenado apresenta conduta plenamente satisfatória.
+Relativamente à avaliação psicossocial, anexada às fls. 32/37, ressalte-se que os traços psicológicos do apenado não podem inibir a concessão de benefícios. Não havendo acompanhamento psicológico do apenado e não sendo as condições psíquicas exigidas por lei como requisito para a progressão, a pretensão recursal merece provimento.
+Assim sendo, implementados os requisitos objetivo e subjetivo ao apenado, voto no sentido de dar provimento ao agravo para conceder a Marcelo de Oliveira Peres o beneficio do livramento condicional.
+Conforme o teor do art. 112 da Lei de Execução Penal, cuja regra se aplica para fins de livramento condicional por força de seu § 2º, para que o reeducando faça jus a tal benefício, é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, este é aferido por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+No entanto, não é vedado ao magistrado o indeferimento do benefício quando, a despeito do reeducando apresentar atestado de bom comportamento carcerário, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+Nesse sentido, vejam-se:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO DE NATUREZA SUBJETIVA (COMPORTAMENTO SATISFATÓRIO DURANTE A EXECUÇÃO DA PENA). FALTA GRAVE. DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que, malgrado não interrompa o prazo para fins de livramento condicional (Súmula/STJ n. 441), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena, nos termos do disposto no art. 83, III, do Código Penal (Precedentes).
+3. A teor da jurisprudência consolidada desta Corte, se as instâncias ordinárias concluíram não restar preenchido o requisito subjetivo necessário para a concessão do livramento condicional, tal assertiva não pode ser desconstituída na via estreita do writ, pois maiores incursões sobre o tema demandariam revolvimento do conjunto fático-comprobatório dos autos.
+4. Habeas corpus não conhecido. (HC 331.020/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/03/2016, DJe 21/03/2016)
+No caso, o Tribunal de origem reformou o decisum de origem que havia indeferido o livramento condicional ao reeducando, por entender presente o requisito subjetivo necessário à concessão da benesse.
+De fato, a jurisprudência desta Casa firmou-se no sentido de quea longa pena a cumprir não configura fundamento idôneo para negar benefícios em execução penal. Desse modo, entendo que não apresentou o Magistrado singularelementos concretos bastantes a obstara concessão da benesse.
+Assim, presente o requisito objetivo e existindo nos autos atestado de bom comportamento carcerário, não observo a violação da legislação infraconstitucional federal apontada na inicial do recurso especial, parecendo-me correta a conclusão alcançada pelo Tribunal de Justiça.
+No mesmo caminhar:
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. FALTA DE FUNDAMENTAÇÃO CONCRETA DO ACÓRDÃO IMPUGNADO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do habeas corpus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Conforme o art. 112 da Lei de Execução Penal, cuja regra se aplica para fins de livramento condicional por força de seu § 2º, para que o reeducando faça jus a tal benefício é necessário o preenchimento de requisitos objetivo e subjetivo.
+3. Não obstante o entendimento pacífico desta Corte no sentido de que a longa pena a cumprir não configura fundamento idôneo para negar benefícios em execução penal, note-se que, no caso, a autoridade coatora apontou fato do histórico carcerário do paciente, com ênfase na gravidade do crime cometido e na possibilidade, efêmera, de recidiva que provoca risco à segurança da sociedade, olvidando, contudo, de apontar elementos concretos que obstem a concessão da benesse, o que caracteriza inequívoco constrangimento ilegal passível de corrigenda na presente via.
+4. Ordem não conhecida. Concessão de habeas corpus de ofício para restabelecer a decisão de primeiro grau que deferiu ao paciente o livramento condicional.(HC 337.416/SP, de minha relatoria, SEXTA TURMA, julgado em 06/12/2016, DJe 15/12/2016, grifei.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
