@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO.RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. DECISÃO QUE DEU PROVIMENTO AO ARESP DA PARTE CONTRÁRIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. CONTROLE DE TESE FIRMADA EM RECURSO REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL DO STJ. RCL Nº 36.476/SP.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2."A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1/9/2020, DJe 9/9/2020).
+3. O STJ, por meio de sua Corte Especial, por ocasião do julgamento da Reclamação nº 36.476/SP, consagrou entendimento acerca da impossibilidade do manejo da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo.
+4. Agravo interno a que se nega provimento, com imposição de multa.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual não conheci da reclamação, conexa ao AREsp nº 1.120.296/RJ, indeferindo-a liminarmente.
+Nas confusas razões do agravo, a reclamante teceu considerações a respeito:
+da "teoria dos poderes implícitos" (fl. 39 e-STJ);
+de violações ao "o artigo 6º do Decreto nº 4.657/1942 e o inciso LV do artigo 5º da Carta Magna, além de, dada vênia, afrontar frontal entendimento consolidado por essa Excelsa Corte Suprema, guardiã da ordem constitucional (Constituição, art. 102, caput), que há muito interpretou o alcance da garantia da defesa plena, nela incluído o direito assegurado à parte de ver seus argumentos considerados, consoante voto paradigma do Min. Gilmar Mendes no Mandado de Segurança nº 24.268-MG". (fl. 39 e-STJ);
+de "indubitável possibilidade de consumação de um dano de impossível reparação, para não dizer irreparável, o que sepulta, dada licença, o anunciado entendimento fustigado, gize-se lastreado ainda no disposto no artigo 3º, 7º, 10, 14, § 1º do artigo 489, artigo 926 e artigo 927 da Lei nº 13.103/2015, sem prejuízo dos demais permissivos e legislações aplicáveis à espécie; os §§ 1º e 2º do artigo 6º da Lei nº 4657/42; e, incisos XXXV, XXXVI e LV do artigo 5º, inciso IX do artigo 93, § 4º do artigo 201 e § 2º do artigo 202, todos da Carta Magna, visando prestigiar o Princípio da Confiança e o da Segurança Jurídica" (fl. 40 e-STJ) e;
+de "entendimento restrito dado ao V. Acórdão que julgou a ADPF 101/DF, data maxima venia, e s.m.j., parece dissentir do verdadeiro alcance, face ao seguinte teor"Decisões judiciais com trânsito em julgado, cujo conteúdo já tenha sido executado e exaurido o seu objeto não são desfeitas", isso porque, tal colocação se encerra com dois pontos(:), o que determina conceito abrangente, respaldado em sequência no voto, com a seguinte colocação, também abrangente: ".. porque somente podem ser objeto da Arguição de Preceito Fundamental atos ou decisões normativas, administrativas ou judiciais impugnáveis judicialmente.". Corroborando com o entendimento do Reclamante, diz o MINISTRO EROS GRAU, em determinado momento do seu voto, na citada ADPF, verbis: "Não se interpreta o direito em tiras; não se interpreta textos normativos isoladamente, mas sim o direito, no seu todo --marcado, na dicção de Ascarelli, pelas suas premissas implícitas."." (fl. 40 e-STJ).
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. DECISÃO QUE DEU PROVIMENTO AO ARESP DA PARTE CONTRÁRIA. SUCEDÂNEO DE RECURSO. IMPOSSIBILIDADE. CONTROLE DE TESE FIRMADA EM RECURSO REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL DO STJ. RCL Nº 36.476/SP.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1/9/2020, DJe 9/9/2020).
+3. O STJ, por meio de sua Corte Especial, por ocasião do julgamento da Reclamação nº 36.476/SP, consagrou entendimento acerca da impossibilidade do manejo da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo.
+4. Agravo interno a que se nega provimento, com imposição de multa.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da análise das razões despendidas no agravo interno, saliento que o recorrente não impugnou especificamente nenhum dos fundamentos pela decisão agravada, limitando-se a trazer argumentos não relacionamentos com o mérito da reclamação ou da decisão proferida no AREsp nº 1.120.296/RJ.
+Com efeito, nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, o que verifico nos presentes autos em relação a todos os argumentos utilizados na fundamentação da decisão ora recorrida.
+Assim sendo, imperioso concluir que o presente agravo interno esbarra no óbice previsto pela Súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (atual artigo 1.021 do novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. Diante do princípio da dialeticidade, expressamente disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, aplica-se à nova sistemática processual, por analogia, o conteúdo do enunciado 182 da Súmula do Superior Tribunal de Justiça ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Agravo interno não conhecido.
+(AgRg no AREsp 809.889/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/9/2016, DJe 5/10/2016)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 182 DO STJ. INCIDÊNCIA.
+1. Quando a parte recorrente não traz, na minuta do agravo regimental, impugnação integral e específica aos fundamentos da decisão recorrida, há de ser aplicada a Súmula nº 182 do Superior Tribunal de Justiça ao caso.
+(..)
+3. Agravo regimental não provido.
+(AgRg na MC 24.495/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 2/2/2016)
+Ainda que assim não o fosse e como salientado, no presente caso, a reclamação não foi manejada para preservar a competência desta Corte nem para garantir a autoridade de suas decisões, mas, simplesmente, com o propósito de reformar decisão que deu provimento ao recurso especial interposto pela parte contrária, julgando improcedentes os pedidos contidos na inicial, o que deveria ser feito mediante a interposição do competente agravo interno.
+Nesse contexto, reitero que a reforma da presente decisão deve ser pleiteada mediante o recurso próprio, não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, inciso I, alínea "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, mostrando-se totalmente incompatível com os objetivos tutelados pelo instituto processual-constitucional da Reclamação, tornando inviável o seu seguimento, já que utilizada com claro propósito de reforma de provimento judicial.
+O artigo 988 do Código de Processo Civil de 2015 previu a possibilidade de ajuizamento da reclamação, nos seguintes termos:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Nesse sentido é a jurisprudência deste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. PROCESSUAL CIVIL. CPC/2015. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STJ PARA APRECIAÇÃO DE AGRAVO INTERPOSTO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL, COM FUNDAMENTO EM TESE JULGADA EM RECURSO ESPECIAL REPETITIVO (ART.1.030, INCISO I, "B" DO CPC/2015). UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. ERRO GROSSEIRO NA INTERPOSIÇÃO DO AGRAVO FUNDADO NO ART. 1.042 DO CPC. PRECEDENTES. DESCABIMENTO DA RECLAMAÇÃO VISANDO AO CONTROLE DA APLICAÇÃO DE ENTENDIMENTOS FIRMADOS PELO STJ EM JULGAMENTO DE RECURSOS REPETITIVOS. PRECEDENTE ESPECÍFICO DA CORTE ESPECIAL NA RCL 36.476/SP. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EDcl na Rcl 40.311/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CONTROLE DA APLICAÇÃO, NO CASO CONCRETO, DE TESE REPETITIVA FIRMADA PELO STJ. DESCABIMENTO. REDISCUSSÃO DA SUCUMBÊNCIA DECRETADA PELO TRIBUNAL DE ORIGEM. INADMISSIBILIDADE.
+1.Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+2. Não se admite o manejo da reclamação como sucedâneo recursal, com vistas a rediscutir o teor da decisão judicial que foi desfavorável ao reclamante, in casu, em relação à sua condenação ao pagamento de honorários advocatícios de sucumbência.
+3. Agravo interno não provido.(AgInt na Rcl 40.581/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 20/10/2020, DJe 26/10/2020)
+AGRAVO INTERNO NA RECLAMAÇÃO. IMPUGNAÇÃO DE DECISÃO ADMINISTRATIVA.
+MATRÍCULA EM INSTITUIÇÃO DE ENSINO. SUPOSTA INADIMPLÊNCIA. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. A reclamação constitucional constitui demanda de fundamentação vinculada, ou seja, cabível tão somente nas situações estritamente previstas no art. 988 do CPC.
+2. Inexistindo comando positivo deste Sodalício sobre a matéria decidida no julgamento reclamado, há de ser indeferida a petição inicial, por falta de interesse de agir.
+3. A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso.
+4. Agravo interno não provido.
+(AgInt na Rcl 40.171/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1/9/2020, DJe 9/9/2020)
+Outrossim, como recentemente pacificado pela Corte Especial deste Superior Tribunal de Justiça, por ocasião do julgamento da Reclamação n. 36.476/SP, não se admite o ajuizamento de reclamação com o objetivo de controlar a aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+O referido julgado ficou assim ementado:
+RECLAMAÇÃO. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM NEGOU SEGUIMENTO, COM FUNDAMENTO NA CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP 1.301.989/RS - TEMA 658). INTERPOSIÇÃO DE AGRAVO INTERNO NO TRIBUNAL LOCAL. DESPROVIMENTO. RECLAMAÇÃO QUE SUSTENTA A INDEVIDA APLICAÇÃO DA TESE, POR SE TRATAR DE HIPÓTESE FÁTICA DISTINTA. DESCABIMENTO. PETIÇÃO INICIAL. INDEFERIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Cuida-se de reclamação ajuizada contra acórdão do TJ/SP que, em sede de agravo interno, manteve a decisão que negou seguimento ao recurso especial interposto pelos reclamantes, em razão da conformidade do acórdão recorrido com o entendimento firmado pelo STJ no REsp 1.301.989/RS, julgado sob o regime dos recursos especiais repetitivos (Tema 658).
+2. Em sua redação original, o art. 988, IV, do CPC/2015 previa o cabimento de reclamação para garantir a observância de precedente proferido em julgamento de "casos repetitivos", os quais, conforme o disposto no art. 928 do Código, abrangem o incidente de resolução de demandas repetitivas (IRDR) e os recursos especial e extraordinário repetitivos.
+3. Todavia, ainda no período de vacatio legis do CPC/15, o art. 988, IV, foi modificado pela Lei 13.256/2016: a anterior previsão de reclamação para garantir a observância de precedente oriundo de "casos repetitivos" foi excluída, passando a constar, nas hipóteses de cabimento, apenas o precedente oriundo de IRDR, que é espécie daquele.
+4. Houve, portanto, a supressão do cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos, em que pese a mesma Lei 13.256/2016, paradoxalmente, tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias - à hipótese que acabara de excluir.
+5. Sob um aspecto topológico, à luz do disposto no art. 11 da LC 95/98, não há coerência e lógica em se afirmar que o parágrafo 5º, II, do art. 988 do CPC, com a redação dada pela Lei 13.256/2016, veicularia uma nova hipótese de cabimento da reclamação. Estas hipóteses foram elencadas pelos incisos do caput, sendo que, por outro lado, o parágrafo se inicia, ele próprio, anunciando que trataria de situações de inadmissibilidade da reclamação.
+6. De outro turno, a investigação do contexto jurídico-político em que editada a Lei 13.256/2016 revela que, dentre outras questões, a norma efetivamente visou ao fim da reclamação dirigida ao STJ e ao STF para o controle da aplicação dos acórdãos sobre questões repetitivas, tratando-se de opção de política judiciária para desafogar os trabalhos nas Cortes de superposição.
+7. Outrossim, a admissão da reclamação na hipótese em comento atenta contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ, perante o fenômeno social da massificação dos litígios.
+8. Nesse regime, o STJ se desincumbe de seu múnus constitucional definindo, por uma vez, mediante julgamento por amostragem, a interpretação da Lei federal que deve ser obrigatoriamente observada pelas instâncias ordinárias. Uma vez uniformizado o direito, é dos juízes e Tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+9. Em tal sistemática, a aplicação em concreto do precedente não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno de que trata o art. 1.030, § 2º, do CPC/15.
+10. Petição inicial da reclamação indeferida, com a extinção do processo sem resolução do mérito.
+(Rcl 36.476/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020)
+Em face do exposto, nego provimento ao agravo interno. Considerando o caráter manifestamente improcedente do recurso, condeno o agravante ao pagamento de multa em favor da parte recorrida, no montante correspondente a 2% do valor atualizado da causa, nos termos do art. 1.021, § 4º, do Código de Processo Civil de 2015.
+É o voto.
