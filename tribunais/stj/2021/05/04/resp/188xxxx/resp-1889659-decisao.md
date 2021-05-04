@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA ESTER CARLOS DA SILVA JACYNTHO, com fundamento no art. 105, III, alíneaa, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Na instância de origem, autora/segurada interpôs agravo de instrumento contra decisão que, em fase de cumprimento de sentença proferida em ação previdenciária, homologou cálculos da contadoria judicial.
+A Corte regional deu parcial provimento ao agravo, sem tratar da distribuição do ônus no tocante aos honorários advocatícios.
+Ao rejeitar os embargos de declaração opostos pela agravante, a Corte assim se manifestou (fls. 488-489):
+Não é o caso de fixação de verba honorária, pois, jurisprudência e doutrina, vêm entendendo ser imprescindível para a condenação ao pagamento de honorários advocatícios, em sede de agravo deinstrumento, que o Juízo a quo, ao proferir a decisão interlocutória agravada, tenha condenado a parte vencida ao pagamento de honorários sucumbenciais, o que não ocorreu no caso dos autos.
+Acresce relevar, ainda, que o v. acórdão deu parcial provimento ao agravo de instrumento interposto pela ora embargante e, neste passo, o artigo 86 do CPC prevê que se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
+Nas razões do recurso especial, a seguradaalegaa violação dos arts. 489, § 1º, IV e V, e §§ 2º e 3º, e 85, §§ 1º, 7º, 11 e 14,do CPC/2015. Sustenta que o acórdão citou jurisprudência sem demonstrá-la, violando o dever de fundamentação; que, ao negar a condenação do INSS ao pagamento de honorários, ignorou o princípio da causalidade que deveria prevalecer diante da resistência oferecida pela autarquia ao cumprimento da obrigação de pagar; e que é vedada pelo novo CPC a compensação de honorários.
+Sem contrarrazões.
+É o relatório. Decido.
+Afasto a alegação de ofensa ao art. 489, do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+Reitere-se o seguinte excertodo acórdão recorrido:
+Não é o caso de fixação de verba honorária, pois, jurisprudência e doutrina, vêm entendendo ser imprescindível para a condenação ao pagamento de honorários advocatícios, em sede de agravo de instrumento, que o Juízo a quo, ao proferir a decisão interlocutória agravada, tenha condenado a parte vencida ao pagamento de honorários sucumbenciais, o que não ocorreu no caso dos autos.
+A tal fundamento não se opôs a parte ora recorrente, atraindo a aplicação da Súmula 283 do STF, segundo a qual
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
