@@ -1,0 +1,32 @@
+DECISÃO
+1.Cuida-se de recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação declaratória de inexigibilidade de títulos de crédito c.c. sustação de protestos - Duplicatas Mercantis - Invalidade do pagamento feito mediante depósito em conta bancária de empregado de credora - Indícios de ocorrência de fraude - Pagamento realizado em dissonância com a boa-fé objetiva e os usos e costumes comerciais - Ação improcedente. Recurso não provido. (fl. 291)
+Opostos embargos de declaração, foram desprovidos (fl. 330).
+Nas razões do especial, aponta violação aos arts. 309 e 310 do CC; argumentando que o pagamento efetuado a credor putativo extingue a obrigação, independentemente da reversão do benefício ao real credor.
+Anota divergência jurisprudencial a respeito do tema.
+O recurso especial foi inadmitido na origem (fls. 405-407); contra o que se insurgiu o recorrente na via do agravo, tendo sido operada finalmente a conversão do agravo no presente recurso especial (fls. 461-463).
+É o relatório.
+DECIDO.
+2. No caso, verifica-se que o eg. Tribunal de origem pressupõe a ausência de boa-fé no pagamento efetuado ao credor putativo, uma vez que teria sido realizado em oposição aos costumes comerciais,contrariando as instruções constantes das notas fiscais que acompanhavam osboletos bancários correspondentes,in verbis:
+A autora diz que, por mais de três anos em que manteve relações comerciais com a ré, sempre foram feitos os pagamentos das notas fiscais emitidas através do funcionário da vendedora Sr. Doacir Braga. A ré, por sua vez, sustenta que não recebeu tal valor, nem autorizou quaisquer descontos ou pagamentos por intermédio ou diretamente ao Sr. Doacir Braga. Afirma que as notas fiscais deveriam ser pagas mediante boletos bancários que as acompanharam. Informa que o Sr. Doacir foi seu empregado até 17.02.09, quando foi demitido por justa causa. Referida pessoa, em conjunto com outro empregado da empresa ré, responsável pelo sistema de contas a pagar e a receber, conforme apurado em inquérito policial, procediam, ao que parecem ainúmeras prorrogaçõese baixas de títulos do sistema bancário informatizado, "criando toda uma situação formal com notas fiscais e outros documentos, para se apoderarem de valores que deveriam ser destinados a empresa vítima" (fls. 107).
+Em audiência de instrução e julgamento oram ouvidas duas testemunhas (fls. 165/166) arroladas pela autora, que corroboraram a versão dos fatos apresentadas na inicial.
+Certo é que, em princípio, vale o pagamento feito ao representante do credor, assim considerado o preposto de empresa, bem como o pagamento feito de boa -fé ao credor putativo, conforme estabelecem os artigos 308 e 309 do Código Civil.
+Entretanto, no caso dos autos, tem aplicação a regra do artigo 310 do Código Civil, segundo o qual "não vale o pagamento cientemente feito ao credor incapaz de quitar, se o devedor não provar que em beneficio dele efetivamente reverteu". A incapacidade prevista nesse dispositivo legal deve ser interpretada em sentido genérico "significando falta de autorização, ou mesmo incapacidade absoluta ou relativa daquele que recebeu (arts. 3º e 4º do CC)" ("Manual de Direito Civil", Flávio Tartuce, Ed. Método, 2013, página 350).
+Veja-se que a autora efetuou o pagamento da dívida objeto da lide diretamente na conta bancária do Sr. Doacir Braga em valor inferior ao estampado nas notas fiscais (fls. 20). Em oportunidades anteriores emitiu cheques ao mesmo Sr. Doacir e a outras pessoas (fls. 31/83). Jamais recebeu quitação formal em nome da pessoa jurídica credora. Tais pagamentos foram realizados, inclusive, contrariando as instruções constantes das próprias notas fiscais que eram acompanhadas dos respectivos boletos bancários.
+Nesse contexto, não há como considerar válido o pagamento, eis que realizado em dissonância com a boa-fé objetiva e os usos e costumes comerciais. g.n.  (fls. 295-296)
+Desse modo,o acolhimento do inconformismo, no sentido de o pagamento efetuado de boa-fé a credor putativo independeria da prova de reversão do benefício ao credor real, demandaria a revisão doacervo fático-probatório dos autos, situação vedada pelo enunciado7da Súmula doSTJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. ART. 535 DO CPC. NÃO OCORRÊNCIA. COMPRA E VENDA. COBRANÇA. PAGAMENTO DEBOA-FÉACREDOR PUTATIVO.INVERSÃO DO JULGADO. IMPOSSIBILIDADE.SÚMULANº 7/STJ.
+ ..
+2. O provimento do especial, para afastar a conclusão de que o pagamento feito deboa-féacredor putativoé válido, requer nova incursão fático-probatória, o que é inviável em recurso especial, por força daSúmulanº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 673.220/MS, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/8/2015, DJe 17/8/2015)  g.n
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. TEORIA DA APARÊNCIA. CREDOR PUTATIVO. PAGAMENTO DE BOA FÉ. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 07/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp n. 796.070/RS, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/5/2016, DJe 10/5/2016)
+3. Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CREDOR PUTATIVO. ART. 309 DO CC.AUSÊNCIA DE BOA-FÉ NO PAGAMENTO. CONTRARIEDADE AO COSTUME COMERCIAL. REVISÃO DO TEMA. REEXAME DE FATOS E PROVAS. ENUNCIADO 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO, HONORÁRIOS MAJORADOS.
+1. No caso, as instâncias ordinárias pressupõema ausência de boa-fé no pagamento efetuado ao credor putativo, já querealizado em oposição aos costumes comerciais, contrariando as instruções constantes das notas fiscais que acompanhavam os boletos de pagamento. Desse modo, oacolhimento da pretensão recursal, a fim de reconhecer a boa-fé do devedor, demandariaa revisão do acervo fático-probatório dos autos, situação vedada pelo enunciado 7 da Súmula do STJ.
+2. Recurso especial não conhecido, comhonorários majorados em 2% sobre o valor atualizado da causa, tendo em vista o acréscimo de trabalho desenvolvido pelo recorrido,a teordo art. 85, § 11, do CPC/2015.
