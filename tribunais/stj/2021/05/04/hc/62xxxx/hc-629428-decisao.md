@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deULISSES XAVIER DOS REISapontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpusn. 2225595-85.2020.8.26.0000).
+Depreende-se dos autos que o paciente, que se encontraem cumprimento de pena, pleiteoua concessão do livramento condicional,o que foi indeferidopelo Juízo daexecuçãopor ausência de requisito objetivo(e-STJ fl. 21).
+Impetrado prévio writ, o Tribunal de origem não conheceu da ordem nos termos do acórdão assim ementado (e-STJ fl. 15):
+Habeas-Corpus - Execuções Criminais - Pedido de livramento condicional sob a alegações de cumprimento de requisito objetivo, de progressão de regime e de prisão domiciliar, sob alegação de risco à saúde em razão da pandemia do COVID-19 - O presente writ não é meio idôneo para análise do pedido de progressão de regime ou livramento condicional, nem tampouco para acelerar decisões relativas à execução de penas, uma vez que, necessário exame aprofundado dos requisitos objetivos e subjetivos - Prisão domiciliar - Supressão de instância - Inadmissibilidade - Ordem não conhecida.
+Daí o presente writ, no qual a defesa alega que o paciente faz jus ao livramento condicional, por haver preenchido os requisitos objetivoe subjetivopara tanto, somado ao risco àsua saúde em razão da pandemia.
+Requer, liminarmente e no mérito, a concessão de livramento condicional.
+O pedido liminar foi indeferido (e-STJ fls. 45/46).
+Foram prestadas as informações.
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento dohabeas corpusou pela denegação da ordem(e-STJ fls. 75/76).
+É, em síntese, o relatório.
+Aquestão posta a deslinde refere-seao preenchimento do requisito objetivo paraconcessão de livramento condicional.
+Nos termos do art. 112 da Lei de Execução Penal, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (atestado de bom comportamento carcerário) para a concessão dos benefícios da progressão de regime prisional e/oudo livramento condicional (§ 2º).
+No caso dos autos, o Juízo da 1ª Vara das Execuções Criminais e Anexo do Júri da Comarca de Araçatuba/SP indeferiu o pedido de concessão de livramento condicional, consignando, para tanto, que (e-STJ fl. 21):
+Verifica-se que o sentenciado ainda não cumpriu o lapso de 2/3 dos crimes hediondos exigidos para fins de livramento condicional, que será atingido somente em 09/10/2020 (pág. 23 do apenso 1010717-60.2020), portanto, considerando os princípios da celeridade e economia processual, bem como o princípio da eficiência do serviço público, julgo antecipadamente o pedido de livramento condicional e o faço para indeferir, ante a ausência do requisito objetivo, nos termos do art. 717 do Código de Processo Penal(grifei).
+O Tribunal de origem, por sua vez, não conheceu dohabeas corpuslá impetrado com a seguinte fundamentação (e-STJ fls. 17/19):
+Cuida-se de habeas-corpus no qual a impetrante alega que o paciente está a sofrer constrangimento ilegal por parte da digna Autoridade apontada como coatora, em virtude da não concessão do livramento condicional, progressão de regime e prisão domiciliar, em que pese o paciente já tenha cumprido os requisitos necessários para tanto.
+Conforme informações prestadas pelo MM. Juízo a quo, o paciente cumpre pena em regime fechado na unidade prisional de Mirandópolis II referente a 02 execuções que possui por crimes de roubo majorado (e extorsão mediante sequestro, com término de cumprimento de pena previsto para 08/12/2037.
+Informa que pende de apreciação pedido formulado pelo sentenciando de progressão ao regime semiaberto, aguardando-se a vinda de exame criminológico, requisitado em 24/08/2020, com a finalidade de promover análise detalhada do requisito subjetivo, considerados a natureza dos delitos praticados com violência e grave ameaça à pessoa, o longo tempo de pena a cumprir, além da prática de faltas disciplinares de natureza grave.
+Consta também, que o pedido de livramento condicional foi indeferido em 11/09/2020, porquanto não cumprida, sequer, a fração correspondente ao crime hediondo, o que somente se verificou em 09/10/2020, observando que o lapso para fins do benefíciose cumprirá em 09/06/2023, conforme cópia do cálculo de penas e folha de antecedentes criminais anexos.
+Por fim, informa o MM. Juiz das Execuções, que não houve a notícia, mediante peticionamento eletrônico, de pedido de concessão de prisão domiciliar.
+A presente ordem não deve ser conhecida.
+Esclarece-se que, conforme reiteradamente decidido, o habeas-corpus não é meio idôneo para análise de progressão de regime, tampouco para apreciar decisões relativas à execução de penas, uma vez que necessário exame aprofundado dos requisitos objetivos e subjetivos, incabíveis nos estreitos limites do remédio heroico.
+É de ser observado, que a matéria aqui tratada é de competência originária da Vara de Execuções Criminais e a via eleita não se constitui como meio idôneo para análise do conjunto probatório, inviável nos estreitos limites do remédio constitucional.
+No que se refere à Pandemia provocada pelo coronavírus, em que pese às alegações lançadas pela combativa impetrante, não se vislumbra a ocorrência do propalado constrangimento ilegal que possa estar sofrendo o paciente, uma vez que não implica em concessão automática de progressão antecipada, ou ainda, de prisão domiciliar.
+Dessa forma, impossível que a questão seja debatida direta e originariamente neste Tribunal, sob pena de indevida supressão de Instância.
+De rigor que a questão atinente à prisão domiciliar contida na impetração seja submetida, a princípio, ao competente Juízo das Execuções, com eventual recurso para esta Corte.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, visto que as instâncias ordinárias indeferiram o pedido de concessão de livramento condicional em razão da ausência do requisito objetivo, que, consoante se verifica das informações prestadas pelo Juízo de primeiro grau, só ocorrerá em 9/6/2023.
+A propósito, eis o teor das informações (e-STJ fl. 52):
+O sentenciado cumpre pena no regime fechado com vencimento previsto para 08/12/2037.
+Foi requerido digitalmente no Processo 1010717-60.2020.8.26.0032 o livramento condicional do sentenciado. Com isso, foi atualizado o cálculo o qual deu conta que o apenado somente alcançará o lapso de 2/3 do crime hediondo  1/3 do crime comum em 09/06/2023, motivo pelo qual indeferi o pedido pela ausência do preenchimento do requisito objetivo.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
