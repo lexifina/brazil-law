@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBRADESCO SAUDE S/A,contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/09/2020.
+Concluso ao gabinete em: 17/03/2021.
+Ação:de obrigação de fazer ajuizada por MATHEUS SEGURA e OUTROS em face da agravante, visando o pagamento de despesa de internação médica de emergência de seu filho menor, cuja cobertura foi negada pelo plano de saúde.
+Sentença:julgou procedente a demanda para condenar a agravante no pagamento das despesas de internação e tratamento do beneficiário menor, bem como da compensação por danos morais no valor de R$ 10.000,00 para cada autor.
+Acórdão:negou provimento à apelação do agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE Cominatória c/c indenizatória Sentença de procedência, para condenar a operadora de plano de saúde ré a arcar com os custos de internação da coautora SOPHIE no Hospital Professor Edmundo Vasconcellos, entre 04.09.2012 e 13.09.2012; e a indenizar, por danos morais, tanto a coautora SOPHIE, como os pais dela, os coautores MATHEUS SEGURA e ÂNGELA CRISTINA ZEM SEGURA, em R$10.000,00 cada - Internação de emergência Inoponibilidade de prazo de carência. Situação de emergência Inteligência dos arts. 12, V, c e 35-C, II, ambos da Lei nº 9.656/98 Aplicação à espécie, ainda, da Súmula nº 103 deste TJSP - Resolução CONSU nº 13/98 que não pode contrariar o texto da lei que visa regulamentar Dano moral. Ocorrência Quantum indenizatório bem arbitrado - Decisum mantido Apelo não provido, com observação.
+Recurso especial: alega violação dos arts. 205 e 206, §1º, II, "b", do CC,bem como dissídio jurisprudencial. Sustenta que o prazo prescricional aplicável é o ânuo, por se tratar de discussão a respeito de contrato de seguro. Defende, subsidiariamente, a aplicação do prazo trienal.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da prescrição. Súmula 568/STJ
+Esta Corte Superior de Justiça firmou entendimento no sentido de que nas pretensões que tenham como fundamento a responsabilidade contratual incide o prazo prescricional decenal, nos termos do art. 205 do CC/2002, pela ausência de previsão de outro lustro específico, de modo que todas as pretensões com fundamento em contratos de plano de saúde ou de seguro saúde deverão observar o prazo prescricional de 10 (dez) anos. Confira-se a ementa do julgado:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL.PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL.INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO.IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, §3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos. 6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos"(EREsp 1280825/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 02/08/2018).
+Desse modo, a Corte de origem, ao afastar a ocorrência da prescrição, uma vez que não decorrido o prazo decenal, alinhou-se à jurisprudência deste STJ, de modo que não merece reparos o acórdão recorrido, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇOdo recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da condenação (e-STJ fls. 299) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. INTERNAÇÃO DE URGÊNCIA. PRESCRIÇÃO. PRAZO DECENAL. SÚMULA 568/STJ.
+1.Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional. Precedentes.
+2. Agravo conhecido. Recurso especial conhecido e desprovido.
