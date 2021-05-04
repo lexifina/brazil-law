@@ -1,0 +1,34 @@
+DECISÃO
+JONATAS MOTTA DOS SANTOS alega sofrer constrangimento ilegal em decorrência de decisum proferido por Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0110948-04.2020.8.21.7000).
+Nesta Corte, a defesa sustenta o prazo excessivo de prisão cautelar do investigado, que remonta ao dia 1º/4/2020 (fl. 5), pela suposta prática do crime de roubo majorado, sem nem ao menos instaurada a ação penal. Alega, ainda, o não cumprimento do disposto no art. 316, parágrafo único, do Código de Processo Penal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a substituição da clausura por medidas alternativas.
+Deferi o pleito urgente, para substituir a custódia preventiva do paciente por outras providências cautelares, até o julgamento definitivo do writ - sem prejuízo da fixação de outras medidas pelo Juízo natural da causa (fls. 334-337).
+Prestadas as informações (fls. 355-356; 386-387), manifestou-se o Ministério Público Federal pelo não cabimento do mandamus, com cassação da liminar (fls. 392-395).
+Em pesquisa ao sítio eletrônico do Tribunal a quo, nesta data, verificou o gabinete que "o Portal TJRS está temporariamente indisponível para manutenção", conforme disposto na página inicial (destaquei).
+Decido.
+Segundo a impetrante, "o paciente teve sua prisão preventiva decretada no dia 25 de março de 2020, em razão da suspeita de seu envolvimento com o delito previsto no artigo 157, § 1º, incisos II e V e § 2º-A, inciso I, do Código Penal" (fl. 4, grifei).
+Em virtude do prosseguimento da segregação provisória "por mais de 07 (sete) meses,  ..  sem oferecimento de denúncia", e diante do não cumprimento, pelo Juízo singular, da "previsão legal incluída ao artigo 316 parágrafo único, do Código de Processo Penal, pela Lei n. 13.964/19, que prevê a revisão da prisão preventiva a cada 90 dias", sem, "ao menos, possuir uma justificativa plausível" para a demora, sustenta a defesa que o acusado está sujeito à "coação ilegal e indevida", pois "evidente  a  violação ao princípio da razoabilidade  na  duração do processo" (todos à fl. 8, destaquei).
+Assevera, ainda, que a "prisão preventiva foi decretada para garantia da ordem pública e conveniência da instrução criminal", no entanto, nem sequer se "ultrapassou a fase inquisitorial" (ambos à fl. 11, grifei).
+À ocasião do deferimento do pedido liminar, verificou o gabinete, em consulta ao sítio eletrônico da Corte estadual, que, de fato, não havia, até então, registro sobre a propositura da inicial acusatória na página eletrônica respectiva.
+Nada obstante, as informações prestadas pelo Magistrado da Comarca de Três de Maio - RS (fls. 342-343) noticiaram a superveniente oferta da denúncia, com a imputação ao acusado da prática do delito previsto no "artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, em quatro oportunidades, na forma do art. 70, caput, c/c artigo 29, caput, e artigo 61, I, todos do Código Penal" (fl. 349). Do mesmo modo, também se relatou o recebimento da exordial acusatória, em 16/11/2020 (fls. 352-353).
+Depreende-se, pois, que somente foi formalizada a acusação mais de 7 meses depois do início do cárcere cautelar do autuado - circunstância que, aos ditames da orientação deste Tribunal Superior, configura constrangimento ilegal.
+A esse propósito:
+HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO PROCESSUAL. FALTA DE RAZOABILIDADE. MANIFESTO CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA.
+ ..
+2. Evidenciada a demora irrazoável e injustificada para o início do processo, pois o paciente, segregado em 12/7/2019, aguarda a definição do Juízo competente, bem como a formação da opinio delicti, visto que não houve oferecimento da denúncia.
+3. Habeas corpus concedido, para, confirmada a liminar, relaxar a prisão cautelar do paciente.
+(HC n. 537.062/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/2/2020, destaquei.)
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. OCORRÊNCIA.  ..  ORDEM CONCEDIDA.
+ ..  o paciente está preso preventivamente, há mais de um ano, sem conclusão do inquérito policial e eventual oferecimento da denúncia.
+IV - Assim, embora a segregação cautelar do paciente se mostre adequadamente motivada pelo e. Desembargador do eg. Tribunal de Justiça, que, com base em elementos concretos extraídos dos autos da investigação criminal, demonstrou a necessidade de assegurar a ordem pública, forçoso reconhecer que a medida revela-se  sic  excessiva na espécie, tendo em vista o tempo que já perdura sua constrição cautelar sem a existência de ação penal em seu desfavor.
+Ordem concedida para relaxar a prisão preventiva do paciente, salvo se por outro motivo estiver preso, mediante a imposição de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, a critério do d. juízo competente, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada.
+(HC n. 518.278/MA, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), 5ª T., DJe 21/10/2019, grifei.)
+ ..  3. Na hipótese em comento, a segregação provisória que resvalou 9 meses, sem que sequer houvesse acusação formal, afigura-se como ensejadora de coação ilegal, malferindo os princípios constitucionais da razoável duração do processo e da proporcionalidade (art. 5º, LXXVIII, da Constituição da República).
+4. O oferecimento da denúncia após 9 meses de segregação cautelar - posteriormente ao ajuizamento da presente impetração e à prolação da decisão deferitória da liminar, frise-se - não exclui o injustificado andamento do feito, que não se revela compatível com as particularidades da causa, havendo de se tributar aos órgãos estatais a indevida letargia processual.
+5. Ordem concedida para, confirmando a liminar, relaxar a prisão preventiva do paciente.
+(HC n. 405.243/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 9/4/2018, destaquei.)
+Sem embargo, a reincidência do réu (fls. 20; 57; 66) indica a necessidade de algum acautelamento da ordem pública.
+À vista do exposto, ratifico a liminar e concedo a ordem, para, reconhecidaa dilação de tempo irrazoável e injustificada para o oferecimento da denúncia e o início do processo judicial,substituir a prisão preventiva do paciente pelas seguintes providências cautelares, com fulcro no art. 319, IV, V e IX, do CPP: a) proibição de se ausentar da comarca sem prévia autorização judicial; b) recolhimento domiciliar no período noturno, cujos horários serão estabelecidos pelo Magistrado; e c) monitoramento eletrônico (caso disponíveis os meios próprios, no Estado de origem) - sem prejuízode nova decretação da cautela mais severa, na hipótese de descumprimento das medidasalternativas ou se efetivamente demonstrada a superveniência de fatos que indiquem a sua necessidade.
+Comunique-se.
+Publique-se e intimem-se.
+Dê-se vista ao Ministério Público Federal.
