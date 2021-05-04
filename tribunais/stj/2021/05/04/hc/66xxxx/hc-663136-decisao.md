@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de MARCO AURELIO DE SOUZA FERREIRA JUNIOR apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpusn. 2046964-85.2021.8.26.0000).
+Os autos dão conta de que o paciente foi preso preventivamente pela suposta prática do crime previsto no art. 157, § 2º, II, e § 2ª-A, I, do Código Penal, isso porque, segundo narra a denúncia (e-STJ fl. 15):
+ .. em 09 de julho de 2020, às 08h00, na Rua Orlando Singoreli, n.º 33, Jardim Adelaide, nesta cidade de Hortolândia, MARCO AURELIO DE SOUZA FERREIRA JUNIOR, qualificado a fls.11, agindo em concurso de agentes com outro indivíduo não identificado, caraterizado pela unidade de desígnios e atuação conjunta visando resultado comum, subtraíram, em proveito de ambos, mediante o emprego de grave ameaça exercida com o emprego de uma arma de fogo, o veículo Chevrolet/Classic LS, de cor cinza, placas FLX 7981/Sumaré-SP (cf. auto de exibição/apreensão/entrega de fls. 08), pertencente à vítima Webson Santos Soares.
+Irresignada, a defesa impetrouhabeas corpusno Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 19):
+HABEAS CORPUS - Roubo majorado - Revogação da prisão preventiva - Descabimento - Decisão fundamentada - Presença dos requisitos autorizadores da custódia cautelar - Não demonstrada condição peculiar do Paciente que o torne mais vulnerável à epidemia de COVID-19 - Constrangimento ilegal não evidenciado - Ordem denegada.
+No presentewrit, o impetrante afirma que o reconhecimento feito pela vítima "é nulo de pleno direito, tendo em vista que foi um reconhecimento convidado a pedra e possivelmente induzido pelos policiais para proceder um Nulo reconhecimento policial onde não fora colocado outras pessoas ao lado do réu na Delegacia de Polícia e sim sozinho afrontando assim o art. 226 do CPP"(e-STJ fl. 4).
+Alega que "a Defesa já comprovou documentalmente o álibi invocado pelo inocente réu Marco Aurélio, trabalhador (inclusive estava trabalhando na Cidade de Aguaí/SP no dia e hora do fato), (lembrando-se que a própria lei da física estabelece que um corpo não ocupa dois lugares ao mesmo tempo), logo não foi o réu o autor do delito em tela"(e-STJ fl. 7).
+Assevera que "o art. 313 do Código de Processo Penal, define que para a sua utilização é necessário que a conduta imputada refira-se a crime com pena superior a 04 (quatro) anos, o que no caso em análise não é compatível, pois o tipo imputado (art. 12, Lei 10.826/2003) tem pena máxima de 03 (três) anos", e que "a liberdade provisória é a regra, devendo ser a prisão preventiva, em qualquer uma de suas formas, uma exceção dentro da sistemática processual penal brasileira"(e-STJ fl. 8).
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva e/ou a concessão de liberdade provisória, ainda que mediante a aplicação de medidas cautelares diversas (e-STJ fls. 3/10).
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante não juntou aos autos cópia dodecretoprisional, peça essencial para se verificar a existência de qualquer constrangimento ilegal decorrente a decretação da prisão preventiva.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido(AgRg no RHC 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei).
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido (RCD no RHC 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei).
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
