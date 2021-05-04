@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto porJOSE MAXIMO DE SOUSA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. REMESSA OFICIAL. APOSENTADORIA ESPECIAL - TEMPO DE SERVIÇO RURAL. NATUREZA ESPECIAL DE ATIVIDADES. EFEITOS FINANCEIROS. CORREÇÃO MONETÁRIA. JUROS DE MORA. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+I. Sentença cujo valor não ultrapassa o determinado no art. 496, parágrafo 3º., do CPC/2015.
+II. Documentos expedidos por órgãos públicos, nos quais consta a qualificação do autor como lavrador, podem ser utilizados como inicio de prova material, como exige a Lei 8.213/91 (art.55, § 3º), para comprovar a sua condição de rurícola, desde que confirmada por prova testemunhal.
+III. Viável o reconhecimento do tempo de serviço rural de 08.03.1969 a 01.07.1984, mas somente a partir da citação, tendo em vista que a prova oral foi produzida nestes autos.
+IV. O reconhecimento do tempo especial depende da comprovação do trabalho exercido em condições especiais que, de alguma forma, prejudique a saúde e a integridade físicado autor.
+V. Viável o reconhecimento das condições especiais das atividades exercidas de 06.03.1997 a 30.11.2012, mas somente a partir da juntada do PPRA (27.03.2015), comprovando que o profissional responsável pelo documento é legalmente habilitado.
+VI. A viabilidade da conversão de tempo de serviço comum para especial perdurou até a edição da Lei nº 9.032/95.
+VII. A correção monetária será aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente, de acordo com o Manual deOrientação de Procedimentos para os Cálculos da Justiça Federal, observados os termos do julgamento final proferido na Repercussão Geral no RE 870.947, em 20.09.2017.
+VIII. Os juros moratórios serão calculados de forma global para as parcelas vencidas antes da citação, e incidirão a partir dos respectivos vencimentos para as parcelas vencidas após a citação. E serão de 0,5% (meio por cento) ao mês, na forma dos arts. 1.062 do antigo CC e 219 do CPC/1973, até a vigência do CC/2002, a partir de quando serão de 1% (um por cento) ao mês, na forma dos arts. 406 do CC/2002 e 161, § 10, do CTN. A partir de julho de 2.009, os juros moratórias serão de 0,5% (meio por cento) ao mês, observado o disposto no art. 1º-F da Lei n. 9.494/97, alterado pelo art. 50 da Lei n. 11.960/2009, pela MP n. 567, de 13.05.2012, convertida na Lei n.12.703, de 07.08.2012, e legislação superveniente.
+IX. Remessa oficial não conhecida. Apelações parcialmente providas.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 49, incisos I e II, 54 e 57, § 2º, da Lei n. 8.213/91, sustentando, em síntese, que o termo inicial do benefício deve ser fixado na data do requerimento administrativo. Indica divergência jurisprudencial com a Petição n. 9.582/RS, julgado pelo Superior Tribunal de Justiça.
+É o relatório. Decido.
+O Tribunal de origem consignou que efeitos financeiros decorrentes da concessão do benefício devem retroagir à data da juntada do PPRA (27.03.2015)(fl. 349).
+Contudo, a Primeira Seção do STJ, no julgamento da Pet 9.582/RS, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+Confira-se, por pertinente, a ementa do referido julgado:
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015)
+Assim, estando o acórdão recorrido em confrontocom a jurisprudência desta Corte, o provimento do recurso é medida que se impõe.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar o termo inicial do benefício na data do requerimento administrativo.
+Publique-se. Intimem-se.
