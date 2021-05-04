@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. NOTÍCIA VEICULADA NA INTERNET. EXERCÍCIO DO DIREITO DE OPINIÃO E DE CRÍTICA JORNALÍSTICA. LIBERDADE DE EXPRESSÃO E INFORMAÇÃO. GARANTIA CONSTITUCIONAL. FATOS AMPLAMENTE DIVULGADOS EM TODAS AS MÍDIAS, QUE VERSAM SOBRE ILÍCITOS COMETIDOS POR CONHECIDO BANQUEIRO,INVESTIGADO NA OPERAÇÃO "SATIAGRAHA". AUSÊNCIA DO DEVER DE INDENIZAR. SENTENÇA MANTIDA. Reportagem jornalística que não extrapola o caráter informativo quanto a fatos de interesse público que justificam ampla divulgação, pautada pela objetividade e "animus narrandi", sem distorção da realidade, não dá margem ao reconhecimento de ofensa à honra. A livre expressão do pensamento encontra na Carta Magna o ditame principal em seu art. 5º, IV, IX e art. 220. Logo, se a manifestação não ultrapassa a barreira da crítica e não agride a veracidade dos fatos, então não se pode reconhecer contrariedade à lei. Resultados favoráveis ao autor, em outras demandas de indenização por danos morais, não vincula a turma julgadora em novo processo. Acertada a sentença que julgou o pedido improcedente. Desprovimento do recurso.
+Alegou-se, no especial, violação dos artigos186, 927 e 953 do Código Civil sob o argumento de que seriam devidos danos morais em razão das ofensas proferidas pelo recorrido em relação ao recorrente expostas em veículo de comunicação de massa.
+Assim delimitada a controvérsia, passo a decidir.
+Em que pesem as alegações do recorrente, o Tribunal local concluiu que as ações do recorrido não ultrapassaram o legítimo exercício de opinião e informação.
+Leia-se excerto do voto:
+"As observações críticas, por mais acérrimas que sejam, se estão dentro dos limites da realidade fática, não podem ser consideradas contrárias à lei, principalmente porque, no caso, têm elas notório interesse público. Na hipótese, restou claro que as reportagens veiculadas pela internet no blog "Conversa Afiada"de autoria do Apelado (doc. 10 a 13 - peças eletrônicas nºs 108, 115 e 118) não extrapolaram os limites do dever de informar, tendo em vista que as matérias refletiam os fatos que, por sua extrema relevância no contexto do País naquele momento, eram de conhecimento da população e reiteradas em diversos meios de comunicação, sendo de cunho jornalístico críticonão obstante a utilização de uma linguagem bem peculiar" (e-STJ, fl. 500).
+Desse modo,o reexame da questão esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL DECORRENTE DE MATÉRIA JORNALÍSTICA. NÃO CABIMENTO.NECESSIDADE DE REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA.IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para infirmar as conclusões a que chegou o acórdão recorrido, qual seja, o não cabimento de danos morais, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, ante a aplicação da Súmula n.
+7/STJ, que impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1709347/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
