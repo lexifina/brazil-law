@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinárioem habeas corpus, com pedido liminar, interposto por DIRAN DE SÁ MOREIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no Habeas Corpus n.1.0000.19.157532-3/000.
+Consta dos autos que o Recorrente, na cidade de Paraopeba/MG, "foi preso em flagrante, no dia 27 de abril de 2019, pela prática de delito que gerou a ação penal de nº 0474.19.001469-3, tendo respondido o processo preso. Sustenta que no dia 10 de setembro foi proferida a sentença penal, conferindo ao paciente o direito de recorrer em liberdade, sendo expedido o alvará de soltura no dia 11 de setembro de 2019" (fl. 139). Todavia, em virtude de pretenso impedimento na Comarca de Teixeira de Freitas/BA, o Recorrente permaneceu preso.
+Inconformada com a segregação, a Defensoria Pública impetrou habeas corpus perante a Corte de origem, cuja ordem foi denegada. (fl. 138, sic):
+"HABEAS CORPUS - FURTO QUALIFICADO - EXPEDIÇÃO DO ALVARÁ DE SOLTURA - EXISTÊNCIA DE IMPEDIMENTO - PACIENTE QUE NÃO FOI COLOCADO EM LIBERDADE - AUSÊNCIA DE ILEGALIDADE PERPETRADA PELA AUTORIDADE APONTADA COATORA - ORDEM DENEGADA. Inexistindo qualquer violência ilegítima ao direito de ir e vir perpetrada pela autoridade apontada coatora, não há que se falar em constrangimento ilegal sofrido pelo acusado passível de ser sanado pela estreita via do Habeas Corpus."
+Nas razões recursais, a Defesa alega, em síntese, "conforme certidão expedida pela Secretaria da 2.ª Vara da Comarca de Teixeira de Freitas/BA, não consta mandado de prisão em desfavor do paciente naquele juízo. Cabe ressaltar que, embora da certidão conste o nome Iran Cardoso de Sá, trata-se mesmo ao recorrente DIRAN, que lá se utilizou daquele nome por ocasião de sua prisão relativa ao processo em trâmite na Bahia, fato este devidamente esclarecido na FAC, no item "outras identificações"" (fl. 162).
+Sustenta que " c onforme extratos de e-mails em anexo, a Defensoria Pública da Execução Criminal em Sete Lagoas encaminhou diversos expedientes à diretoria do presídio local, buscando-se o cumprimento do alvará para a soltura do paciente. Contudo, a direção informou não ser possível o cumprimento do alvará em razão da existência do impedimento, informando ser responsabilidade do juízo de Paraopeba a retirada do impedimento. Em contato telefônico com o juízo da Comarca de Paraopeba, o qual informou não ser responsável pela demanda, visto ser impedimento de outra comarca" (fl. 162).
+Requer (fl. 167):
+"Em face do exposto, requer a V. Exa., recebido e processado o presente recurso, seja, provido para que seja concedida a ordem, liminarmente. Preliminarmente, pugno seja declarada a nulidade do acórdão, por violação ao modelo acusatório, visto que inexiste pedido de legitimado para a manutenção da prisão do segregado. No mérito, seja expedido alvará para alcançar o impedimento retro e colocado o recorrente em liberdade."
+O pedido liminar foi indeferidonos termos da decisão de fls. 174-176.
+As informações solicitadas foram prestadas às fls. 182-187 e 211-218.
+O Ministério Público manifestou-se às fls. 220-225, opinando pelo provimento do recurso.
+É o breve relatório.Decido.
+Segundo informações obtidas às fls. 227-309, nos Autos n. 0014693-24.2019.8.13.0474 (TJMG n.0474.19.001.469-3),o Juízo de Direito da Comarca de Paraopeba/MG expediu novo alvará de soltura em 31/07/2020, sendo o Recorrente efetivamente desligado do sistema prisional em 1º/08/2020, às 14h18(fls.305/306).
+Verifica-se, portanto, a perda de objeto da presente insurgência, que pretendia a efetiva soltura do Recorrente.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGOPREJUDICADO o recurso.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA MANDADO DEPRISÃO. SUPERVENIÊNCIA DE ALVARÁ DE SOLTURA. PERDA DE OBJETO. RECURSOPREJUDICADO.
