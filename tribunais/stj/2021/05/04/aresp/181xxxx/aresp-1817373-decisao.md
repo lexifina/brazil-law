@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO MARCELO ARAUJO DE SOUZAcontra a decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 317/322, in verbis:
+1. Trata-se de agravo em recurso especial interposto por BRUNO MARCELO ARAÚJO DE SOUZA contra decisão proferida pelo Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que inadmitiu o processamento do recurso especial interposto em face deacórdão proferido por sua 9ª Câmara Criminal que, à unanimidade, negou provimento ao apelo defensivo, mantida a sentença que condenou o ora agravante à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado, mais o pagamento de 13 dias-multa, pela prática da conduta prevista no artigo 157, § 2º, I e II, do Código Penal.
+2. Em sede de recurso especial manejado com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, a defesa aponta violação ao art. 33, § 2º, "b" e art. 59, ambos do Código Penal. Requer seja dado provimento ao recurso para se fixar o regime inicial semiaberto para o início do cumprimento da pena privativa de liberdade.
+3. Contudo, a decisão recorrida negou trânsito ao recurso especial em razão da incidência dos óbices previstos nas Súmulas nº 283 do STF.
+4. Adveio o presente agravo em recurso especial, em cujas razões o agravante rebate a incidência do referido óbice.
+5. Ofertada a contraminuta às fls. 297/302, os autos subiram a este C. Superior Tribunal de Justiça e, digitalizados, vieram com vista ao Ministério Público Federal.
+Ao final, o Parquet opinou pelo conhecimento do agravo para que fosse dado provimento ao recurso especial.
+É o relatório.
+Decido.
+Assiste razão ao agravante.
+É que,segundo a orientação firmada neste tribunal superior, é incabível a fixação de regime prisional mais gravoso do que aquele previsto no art. 33, § 2º, do Código Penal apenas com base na gravidade em abstrato do delito. A fixação de regime prisional diverso do legalmente previsto exige fundamentação idônea, baseada em elementos concretos dos autos.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. REDUÇÃO DA PENA PELA SEMI-IMPUTABILIDADE. PENA INFERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INSUFICIENTE. ILEGALIDADE. ORDEM CONCEDIDA.
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2. O Tribunal de origem apenas menciona a gravidade abstrata do crime de roubo majorado, sem citar nenhum dado concreto que evidencie a maior reprovabilidade da conduta. Assim, os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+3. A ausência de peculiaridades específicas do homicídio nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+4. Habeas corpus concedido, para fixar o regime inicial aberto de cumprimento de pena.
+(HC 376.122/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017, grifei.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO SIMPLES. CONDENAÇÃO. REGIME INICIAL. IMPOSIÇÃO DO FECHADO. FUNDAMENTAÇÃO. AUSÊNCIA. PENA-BASE FIXADA NO MÍNIMO LEGAL, ACUSADO PRIMÁRIO E REPRIMENDA DEFINITIVA INFERIOR A 4 ANOS. REGIME INICIAL ABERTO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO IMPUGNADA.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática, em que se concede ordem de habeas corpus para fixar o regime inicial aberto de cumprimento da pena, quando evidenciado que, além de o regime inicial mais rigoroso do que a pena imposta autoriza se encontrar fundamentado, apenas, na gravidade abstrata do crime, a pena definitiva não excede 4 anos, o acusado é primário e a pena-base foi fixada no mínimo legal.
+2. Agravo regimental improvido.
+(AgInt no HC 379.312/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/03/2017, DJe 22/03/2017, grifei.)
+No caso dos autos, o Tribunal de origem manteve o regime fechado fixado na origem sobre os seguintes fundamentos (e-STJ fl. 240):
+Tratando de condenação por roubo majorado, o regime inicial fechado se mostra o mais adequado para que a reprimenda atenda aos princípios da necessidade e suficiência. Neste sentido, anota-se os seguintes precedentes desta Corte Estadual:
+ ..
+Com efeito, na espécie, a atenuação do regime em nada contribuirá para a consecução de nenhum dos três objetivos da pena, quais sejam, a pacificação social, a prevenção da criminalidade e a recuperação do criminoso.
+Reforça-se ainda, que somente a segregação em regime fechado é adequada, "in casu", para que a pena imposta atinja sua finalidade especial negativa, ou seja, impedir que o indivíduo/penitente retorne à prática criminosa, considerando o delito praticado e as circunstâncias nas quais fora cometido.
+ ..
+De se ressaltar, na análise do regime adequado para início de cumprimento de pena, a teor do artigo 33, §3º, do Código Penal, a gravidade concreta do crime praticado. Roubo cometido, em comparsaria, mediante violência real e grave ameaça exercida com o emprego de arma, não demonstrando, os apelantes, intimidação ou receio com a potencial presença de policiais na região, indiferentes, inclusive, a eventuais trágicos desdobramentos da conduta, além, evidentemente, da premeditação, tendo tudo sido minuciosamente planejado, são circunstâncias de obrigatória valoração quando da determinação de regime para início de cumprimento da pena e que demonstraram, na espécie a necessidade de imprimir maior rigor na repressão do delito. De rigor, assim, o não reconhecimento/acolhimento do pedido de abrandamento do regime inicial imposto.
+Verifica-se, portanto, queo regime inicial fechado foi fixado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito de roubo circunstanciado, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte, que assim dispõem:
+Enunciado 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Enunciado 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Enunciado 440/STJ: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Dessa forma, uma vez que a pena-base foi fixada no mínimo legal, as circunstâncias judiciais foram consideradas todas favoráveis e a pena final foi estabelecida em quantum inferior a 8 anos, o regime inicial para o cumprimento da reprimenda deve ser o semiaberto.
+À vista do exposto, conheço do agravo para dar parcial provimento ao recurso especiala fim de fixar o regime semiaberto para o início do cumprimento da reprimenda.
+Publique-se. Intimem-se.
