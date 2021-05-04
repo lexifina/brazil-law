@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fundação Nacional de Saúde FUNASA, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 142):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO REGIMENTAL/AGRAVO DE INSTRUMENTO. PENHORA "ON LINE". VALOR IRRISÓRIO. DESBLOQUEIO.
+1. "Não se levará a efeito a penhora, quando evidente que o produto da execução dos bens encontrados será totalmente absorvido pelo pagamento das custas da execução" (CPC, art. 659, § 2º).
+2. Considerado insignificante o valor da penhora em relação à dívida exequenda, descabe manter a indisponibilidade dos ativos financeiros dos executados.
+3. Agravo regimental da exequente/FUNASA desprovido.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 655-A do CPC e 1º, 9º, III, e 11, I, da Lei6.830/80. Sustenta, em resumo, que deve ser mantido o bloqueio do numerário efetuado via BACENJUD, independentemente de o valor ser considerado irrisório.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se queamatéria pertinente aos arts. 655-A do CPC e 1º, 9º, III, e 11, I, da Lei 6.830/80 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por sua vez, orecurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, pois a parte recorrente não juntou cópia do paradigma mencionado, nem citou o repositório oficial, autorizado ou credenciado em que fora publicado (ressalte-se que o Diário de Justiça em que não é publicado o inteiro teor do acórdão não satisfaz a exigência). Ademais, não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa. Em outras palavras, o recurso não se amolda às exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheçodo recurso especial.
+Publique-se.
