@@ -1,0 +1,63 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por ESPÓLIO DE DIRCEU FRANCISO DE SOUZA, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição da República, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTE A PRETENSÃO INICIAL, PARA AFASTAR A CAPITALIZAÇÃO MENSAL E ANUAL DE JUROS, EM QUALQUER PERIODICIDADE, APLICAR A TAXA MÉDIA DE MERCADO PARA A COBRANÇA DE JUROS REMUNERATÓRIOS, DIANTE DA AUSÊNCIA DE PROVA DE EXPRESSA CONTRATAÇÃO, MEDIANTE CRITÉRIOS DISTINTOS, A DEPENDER DA ÉPOCA APURADA (ENTRE 01/91 A 06/94, E 07/97 A 11/98, JUROS REMUNERÀTÓRIOS À MÉDIA DE MERCADO, NOS MESES EM QUE A TAXA COBRADA EXCEDER ÀQUELA EM 50%; E NOS MESES DE 04/96, 02/97, E A PARTIR DE 12/98, JUROSREMUNERATÓRIOSCOM BASE NA MÉDIA DE MERCADO); AINDA, AFASTAMENTO DAS TARIFAS BANCÁRIAS SOB O CÓDIGO 97 (DE JAN/91 A NOV/98 E DEMAIS QUE VIEREM A SER APURADAS EM LIQUIDAÇÃO DE SENTENÇA, MEDIANTE A COMPLEMENTAÇÃO DO LAUDO PERICIAL, - SUJEITAS À REPETIÇÃO SIMPLES; AFASTAMENTO DE TARIFAS CORRESPONDENTES AO CÓDIGO 62 (SISTEMA "NHOC") IDENTIFICADAS NO LAUDO PERICIAL, MEDIANTE REPETIÇÃO, EM DOBRO, ACRESCIDO DE JUROS DE MORA E CORREÇÃO MONETÁRIA; SUCUMBÊNCIA RECÍPROCA.
+RECURSO DO AUTOR.
+AMPLIAÇÃO DA REPETIÇÃO DE INDÉBITO PARA O PERÍODO SUJEITO À COMPLEMENTAÇÃO, EM FASE DE LIQUIDAÇÃO DE SENTENÇA.
+IMPOSSIBILIDADE, NA ESPÉCIE.
+NECESSIDADE DE COMPLEMENTAÇÃO DO LAUDO PERICIAL, PARA QUE OS LANÇAMENTOS EFETIVAMENTE INDEVIDOS SEJAM OBJETO DE RESTITUIÇÃO PELO BANCO, PENA DE ENRIQUECIMENTO SEM CAUSA.
+LIMITAÇÃO DA TAXA DE JUROS À MÉDIA DE MERCADO, PARA TODO O PERÍODO EM ANÁLISE. INDICAÇÃO, NO LAUDO PERICIAL, DE QUE A TAXA DE JUROS REMUNERATÓRIOS, EM DETERMINADOS PERÍODOS, NÃO REVELA ABUSIVIDADEPASSÍVEL DE ADEQUAÇÃO À MÉDIA DE MERCADO. DECISÃO ACERTADA.
+IMPUTAÇÃO DO PAGAMENTO. PLEITO PELO AFASTAMENTO DA REGRA DO ARTIGO 354 DO CÓDIGO CIVIL.
+IMPOSSIBILIDADE, NO- CASO. NORMA COGENTE, DE OBSERVÂNCIA OBRIGATÓRIA. REGRA DE INCIDÊNCIA DOS JUROS QUE NÃO CONFLITA COM A DECISÃO ACERTADA DE AFASTAR A CAPITALIZAÇÃO DE JUROS, POR AUSÊNCIA DE PROVA DA CONTRATAÇÃO.
+HONORÁRIOS ADVOCATÍCIOS.
+AUSÊNCIA DE FIXAÇÃO. NECESSIDADE DE SE ESTABELECER UM PERCENTUAL, DENTRO DA NORMATIVA PREVISTA NO ARTIGO 20, § 32 DO CÓDIGO DE PROCESSO CIVIL.
+SUCUMBÊNCIA RECÍPROCA. CORRETA ATRIBUIÇÃO PROPORCIONAL DA RESPONSABILIDADE DE CADA PARTE, PELAS CUSTAS E DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, CONSIDERANDO A PROCEDÊNCIA PARCIAL DA DEMANDA REVISIONAL, RESSALVADA A CONDIÇÃO DO AUTOR DE BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+RECURSO DE BANCO ITAÚ UNIBANCO S/A.
+AGRAVO RETIDO.
+PRESCRIÇÃO TRIENAL. AFASTAMMENTO CORRETO. DIREITO PESSOAL.
+VIOLAÇÃO QUE SE SUJEITA AO PRAZO PRESCRICIONAL VINTENÁRIO.
+INVERSÃO DO ÔNUS DA PROVA.
+RELAÇÃO DE CONSUMO CARACTERIZADA. CONCLUSÃO PELA H.IPOSSUFICIÊNCIA DA PARTE AUTORA, NA HIPÓTESE. APLICAÇÃO DO ARTIGO 6º, VIII DA LEI 8078/90.
+AGRAVO CONHECIDO E NÃO PROVIDO.
+INÉPCIA DA INICIAL, VIOLAÇÃO À BOA-FÉ OBJETIVA E À TEORIA DA SUPRESSIO.PRELIMINARES QUE NÃO SE SUSTENTAM. MATÉRIAS DEVIDAMENTE ENFRENTADAS. INICIAL QUE COMPREENDE O PERÍODO DO PLEITO DE REVISÃO E FUNDAMENTA OS LANÇAMENTOS E OCORRÊNCIAS QUE CONSIDERA INDEVIDOS. AUSÊNCIA DE OFENSA AO POSTULADO DA BOA -FÉ OBJETIVA. INVIABILIDADE DE SE ALEGAR SUPRESSÃO DO DIREITO PLEITEADO.
+CAPITALIZAÇÃO ANUAL DE JUROS.
+NECESSIDADE DE EXPRESSA PACTUAÇÃO, PARA QUE SE TENHA POR VÁLIDA TAL FORMA DEINCIDÊNCIA DE JUROS.
+ALEGAÇÃO DE AUSÊNCIA DE ABUSIVIDADE DOS JUROS REMUNERATÓRIOS PRATICADOS.TAXAS PRATICADAS SEM A CORRESPONDENTE PROVA DE PRÉVIA PACTUAÇÃO. ADEQUAÇÃO. MÉDIA DEMERCADO. DELIMITAÇÃO E MANUTENÇÃO DAS TAXAS DE JUROS REMUNERATÓRIOS, EM DETERMINADOS PERÍODOS NOS QUAIS, A DESPEITO DA AUSÊNCIA DE PROVA DA CONTRATAÇÃO, NÃO HOUVE ABUSIVIDADE SUJEITA À ADEQUAÇÃO.
+LANÇAMENTOS EM DUPLICIDADE (SISTEMA NHOC). COMPROVADA IRREGULARIDADE, PASSÍVEL, INCLUSIVE, DE REPETIÇÃO EM DOBRO.
+PRECEDENTES.
+CORREÇÃO MONETÁRIA E JUROS DE MORA. SUBSTITUIÇÃO PELA TAXA SELIC, APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002.
+POSSIBILIDADE. PRECEDENTES.
+SUCUMBÊNCIA RECÍPROCA MANTIDA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO" (fls. 1075/1099 e-STJ).
+___ .
+Interpostos embargos de declaração, foram acolhidos (fls. 1122/1131 e-STJ) para sanar omissão e obscuridade em relação à natureza dos lançamentos efetuados pelo Banestado em conta corrente sob os códigos 63, 68, 80 e 88, sem efeitos modificativos.
+Nas razões do recurso especial (fls. 1134/1158e-STJ), orecorrente alega violação ao art. 491, 492 e 1.022, I e II, do Código de Processo Civil de 2015, aoart. 6º, VIII,do Código de Defesa do Consumidor eaos arts. 113, 170 e 354 do Código Civil de 2002, além de dissídio jurisprudencial.
+Sustenta que oacórdão recorrido limitou-se a afirmar que os débitos efetuados pelo banco sob os códigos 63, 68, 80 e 88 se deram em proveito do correntista, sem, no entanto, esclarecer as razões para assim concluir, o que o torna obscuro e também omisso, ao não examinar a alegação de inexistência ou indicação de prova que respalde essa conclusão.
+Alega que foi omisso ao não aferir se, no âmbito dos juros lançados em conta corrente, estão presentes os requisitos necessários à aplicação da norma referente à imputação ao pagamento.
+Assevera que foi omisso ao não se pronunciar sobre ter proferido julgamento condicional, aopermitir a conclusão da prova pericial em sede de liquidação de sentença para a declaração de novos indébitos não aferidos na fase de conhecimento, onde o ônus da prova competia aos réus. Aduz que, mesmo instado em sede de embargos de declaração, o acórdão foi omisso quanto à vedação legal de assim se decidir.
+Pontua que houve ilegal proferimento de condenação condicional porquanto, apesar de reconhecer que mesmo ante a inversão do ônus da prova o banco réu não apresentou extratos bancários referentes a todo o período ainda assim, remeteuà liquidação de sentença a possibilidade de deliberação acerca de lançamentos outros que não se mostrem adequados ou mesmo autorizados pelo ora recorrente.
+Afirma que a conduta do recorrido em impedir a realização de prova pericial plena, somado ao deferimento da inversão do ônus da prova não pode redundar em detrimento do recorrente, pelo que se impõe seja reconhecida a ilegalidade dos valores impugnados que foram lançados na sua conta corrente pelo banco réuno período não periciado.
+Salienta que, apesar de reconhecer que não constam dos autos contratos demonstrando as taxas de juros remuneratórios supostamente pactuadas, o acórdão recorrido limitou a taxa de juros ao valor médio de mercado somente nos períodos em que a taxa efetivamente cobrada foi superior a 50% da taxa média, o que viola a legislação federal e conflita com entendimento firmado em sede de recurso especial repetitivo - REsp n. 1.112.879/PR. Sustenta que os juros remuneratórios devem ser cobrados de acordo com a taxa médiadurante todo o período da contratualidade, ante a não demonstração de pactuação de outras taxas.
+Defende, ainda, que deve ser reformado o acórdão para que, no recálculo dos juros, sem capitalização, os créditos em conta corrente com saldo negativo sejam imputados primeiramente ao capital e, só então, ao juros que, para isso, deverão ser computados linearmente.
+Não foram apresentadas contrarrazões (fls. 1178 e-STJ).
+O recurso especial foi admitido (fls. 1179/1180 e-STJ).
+DECIDO.
+2. A recorrente, em sede de embargos de declaração, alegou obscuridade e omissão do acórdão recorrido quanto à análise da ocorrência de julgamento condicional, ao seremeterà liquidação de sentença a possibilidade de deliberação acerca de lançamentos outros que não se mostrem adequados ou mesmo autorizados pelo ora recorrente, mormente se considerado que o Banco ora recorrido impediua realização de prova pericial plena ao não apresentar os extratos de conta corrente, apesar de ter sido invertido o ônus da prova.
+Essa análise ganha relevo diante do posicionamento firmado nesta Corte Superior no sentido deser vedadaa prolação de decisão de caráter condicionalpois "o requisito da certeza afere-se pelo objeto sobre o qual dispõe o ato decisório; por isso, sendo líquido o pedido, é vedado ao juiz proferir decisão ilíquida (art. 459, parágrafo único do CPC. Decorrência dessa regra é a que impede o juiz de proferir decisão condicional; isto é, ao proferir a sua decisão o juiz deve evitar que o seu ato seja fonte de dúvidas. Assim, se a parte pediu a condenação do réu em R$ 500.000,00 (quinhentos mil reais), não pode o juiz condená-la a pagar "o que ficar apurado posteriormente", nem sujeitar a condenação a qualquer comprovação" (REsp 900.459/SP, Primeira Turma, julgado em 11/03/2008, DJe 07/04/2008).
+Exsurge a compreensão de que o Tribunal de origem, apesar de instado por meio de aclaratórios, rejeitou-os, sem enfrentamento dos temas neles suscitados, os quais são relevantes à solução da controvérsia, notadamente a alegação de ocorrência de julgamento condicional e de ausência de manifestação sobre a não indicação de quais os elementos de prova levaram à conclusão de que os lançamentos efetuados pelo banco sob os códigos 63, 68, 80 e 88 se deram em proveito do correntista.
+O conhecimento do recurso especial, como é cediço, exige a manifestação da Corte de Justiça acerca das questões de direito e de fato ventiladas nas razões do recurso. A recusa em pronunciar um juízo de valor a respeito da questão federal relevante para a solução da controvérsiaimpede o acesso da parte interessada à instância especial.
+Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional, caracterizando o vício da omissão, o que impõe o reconhecimento de ofensa ao art. 1.022 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada as omissões apontadas.
+A propósito, os seguintes precedentes:
+"RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido." (AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 21/6/2012, DJe 28/6/2012).
+_______ .
+Portanto, é medida de rigor o retorno dos autos à instância ordinária para que sane o referido vício.
+3. Ante o exposto, dou provimento ao recurso especial a fim de anular o acórdão dos embargos de declaração. Determino o retorno dos autos ao Tribunal de origem para que profira novo julgamento, pronunciando-se, como entender de direito, sobre as omissões apontadas, notadamente sobre as alegaçõesde ocorrência de julgamento condicional e de ausência de manifestação sobre a não indicação de quais os elementos de prova levaram à conclusão de que os lançamentos efetuados pelo banco sob os códigos 63, 68, 80 e 88 se deram em proveito do correntista.
+Com o provimento do recurso por violação ao art. 1.022do CPC/2015, fica prejudicada a análise dos demais pontos suscitados no recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. BANCÁRIO. REVISIONAL. ABERTURA DE CRÉDITO EM CONTA-CORRENTE. ALEGAÇÃO DE LANÇAMENTOS SEM COMPROVAÇÃO DA ORIGEM E AUTORIZAÇÃO DE COBRANÇA. OMISSÃO SOBRE QUAIS ELEMENTOS DE PROVA PERMITEM CONCLUIR QUE FORAM EFETUADOS A FAVOR DO CORRENTISTA. ALEGAÇÃO DE PROFERIMENTO DE JULGAMENTO CONDICIONAL. OCORRÊNCIA DE OMISSÃO. VIOLAÇÃO DO ART. 1.022DO CPC/2015. PRESTAÇÃO JURISDICIONAL DEFICIENTE.
+1. Interpostos embargos de declaração pelos ora recorrentes, aduzindo omissão sobre asalegaçõesde ocorrência de julgamento condicional e denão indicação de quais os elementos de prova levaram à conclusão de que os lançamentos efetuados pelo banco sob os códigos 63, 68, 80 e 88 se deram em proveito do correntista, o Tribunal não se manifestou sobre esses pontos consoante se observa do aresto que julgou os aclaratórios.
+2. Havendo deficiência na prestação jurisdicional realizada no Tribunal de origem, é de se acolher a preliminar de violação do art. 1.022do CPC/2015para determinar o retorno dos autos para que sejam sanadas as omissões apontadas.
+3. Recurso especial provido.
