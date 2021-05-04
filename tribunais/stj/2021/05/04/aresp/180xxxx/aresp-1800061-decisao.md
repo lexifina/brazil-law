@@ -1,0 +1,21 @@
+DECISÃO
+1. Cuida-se de agravo interposto por TELEFÔNICA BRASIL S.A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PRESTAÇÃO DE SERVIÇOS TELEFONIA CUMPRIMENTO DE SENTENÇA OBEDIÊNCIA À COISA JULGADA DISCUSSÃO ACERCA DA FORMA DE CÁLCULO DE INDENIZAÇÃO MATÉRIA APRECIADA POR ESTAC CÂMARA EM RECURSO DE APELAÇÃO IMPOSSIBILIDADE DE MODIFICAÇÃO RECURSO DESPROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 489, I e II, 1.022, caput, I e II, todos do CPC e art. 7, 8 e 170 da Lei n. 6.404/1976.
+Argumenta que a decisão objurgada incorreu em afronta a requisito essencial da sentença, qual seja, a fundamentação sobre as questões de fato que, justamente, apresentam o discrimen do caso concreto.
+Aduz queo decisumestabeleceu condenação hipotética e deixou absolutamente de resolver a lide específica que lhe foi submetida. Tanto é que a questão inicialmente posta às cegas na exordial permaneceu irresoluta na decisão recorrida, sem que se esclarecesse se a recorrida contratou, quando contratou ou como contratou, ou sequer se identificasse concretamente a diferença acionária alegada.
+Sustenta que não é possível que se admita que as decisões judiciais apresentem simplesmente uma coesão interna, sem que reste demonstrada a conexão do raciocínio jurídico aos fatos da causa.
+Afirma que a Corte de origemincorreu em omissão ao julgar o caso em tela, pois ignorou e foi omisso quanto à circunstância de o presente caso envolver contrato firmado sob o sistema de Planta Comunitária de Telefonia, e não de participação financeira regular, limitando-se a afirmar que o entendimento para uma e outra situação seria o mesmo. Todas as peculiaridades deste tipo de contratação PCT acabaram não sendo devidamente apreciadas pelo Tribunal a quo.
+Contrarrazões ao recurso especial às fls. 141-149 .
+É o relatório.
+DECIDO.
+2. A irresignação nãoprospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. No que tange a ofensa ao art. 489, I e II, a alegação também não prospera, pois o Tribunal de forma clara, afirmou que o cálculo judicial obedeceu ao determinado no acórdão que julgou apelação anterior que decidiu acerca de integralização de ações, não havendo, falar, portanto, em falta de fundamentação a ferir o disposto no dispositivo supracitado.
+5.No mais, oacórdão recorrido está assentado na preclusão damatériatrazidapelo recorrente, uma vez que esta foi objeto de apelação e até mesmo de recurso especial ao qual foi negado provimento, bem como não conhecido o agravo em recurso especial subsequente,fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar tal premissa, como seria de rigor.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: a preclusão acerca da forma de cálculo de indenização, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
