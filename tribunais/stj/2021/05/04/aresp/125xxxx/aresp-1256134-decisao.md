@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COSTRUTORA SAVENGO LTDA, contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelações. Ação de anulação de distrato cumulada coin os pedidos de rescisão de negócio e indenização por danos moral e material. Solidariedade entre as rés. Existência.
+Identidade dos sócios e afinidade de atividades que conduzem ao reconhecimento de tal estado, com nítida formação de grupo econômico. Distrato. Negócio jurídico que envolveu o desfazimento da anterior avença, com a fixação de novas obrigações e direitos. Ausência da alegação de vício de consentimento. Cláusulas de irretratabilidade e irrevogabilidade que apenas impedem a denúncia unilateral. Interpretação inadequada, ademais, de cláusula de quitação. Inadimplemento que não autoriza a invalidação do distrato, mas, tão somente, a sua execução. Sentença reformada. Recurso da ré Emprimo improvido, provido o da ré Savegnago.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos art.85,§2º do CPC.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 1423 .
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+No presente caso, a parte ora recorrente alega violação aoartigo 85,§2º do CPC sem, contudo, apresentar argumentação jurídica clara e precisa de modo a demonstrar como teria ocorrido a referida vulneração.
+Com efeito, o especial é um recurso de fundamentação vinculada, no qual o efeito translativo se opera tão-somente nos termos do que foi impugnado. Há de se ter sob mira que é imprescindível, no recurso especial fundado na alínea "a" do permissivo constitucional, o desenvolvimento de argumentação lógico-jurídica competente à demonstração da maneira em que o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
