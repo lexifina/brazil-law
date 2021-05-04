@@ -1,0 +1,18 @@
+DECISÃO
+GLAUBER ROCHA DE ALENCASTRO, condenado por estelionato, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem impetrada naquela Corte, na qual pretendia o trancamento do processo penal.
+Neste writ, a defesa reitera o pedido formulado na origem, sob o argumento de ausência de representação como condição de procedibilidade para a propositura da ação penal, nos termos da Lei n. 13.964/2019, que pretende ver aplicado retroativamente.
+Indeferida a liminar (fls. 45-47), foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem (fls. 58-63).
+Decido.
+A orientação desta Corte de Justiça é firme em assinalar a excepcionalidade do trancamento da demanda criminal, medida admitida somente se restarem provados, de forma clara e precisa, sem a necessidade de exame valorativo do conjunto fático ou probatório, a ausência dos pressupostos para deflagração do processo, o que não ocorreu no caso. Com efeito, extrai-se do acórdão proferido pelo Tribunal de origem, as seguintes passagens (fls. 17-19, destaquei):
+Assim, se me afigura que a exigência de representação da vítima far-se-ia necessária para iniciar a persecução penal e, no caso, a ação penal em desfavor do Paciente já se encontra em curso, inclusive, consoante consulta ao sistema informatizado deste Tribunal de Justiça, com sentença condenatória prolatada.
+ ..
+Ademais, como mencionado, já ocorreu a prolação de sentença pela Autoridade apontada como coatora em 26.11.2020, inclusive sendo rechaçada a questão trazida neste mandamus como preliminar de mérito, sendo certo que eventual recurso de apelação interposto poderá trazer a este Tribunal a análise da quaestio novamente.
+Como se observa, na espécie, foi proferida sentença condenatória, o que torna inviável a aplicação retroativa da necessidade de representação para fatos praticados anteriormente a edição da novel legislação. Deveras, especificamente no que tange ao novo comando normativo (art. 171, § 5º), acrescido ao Código Penal pela Lei n. 13.964/2019, decidiu recentemente esta Corte, em caso similar, por meio da Terceira Seção, no julgamento do HC n. 610.201/SP, de relatoria do Ministro Ribeiro Dantas, publicado no DJe 8/4/2021, o seguinte (grifei):
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO. LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE. WRIT INDEFERIDO.
+1. A retroatividade da norma que previu a ação penal pública condicionada, como regra, no crime de estelionato, é desaconselhada por, ao menos, duas ordens de motivos.
+2. A primeira é de caráter processual e constitucional, pois o papel dos Tribunais Superiores, na estrutura do Judiciário brasileiro é o de estabelecer diretrizes aos demais Órgãos jurisdicionais. Nesse sentido, verifica-se que o STF, por ambas as turmas, já se manifestou no sentido da irretroatividade da lei que instituiu a condição de procedibilidade no delito previsto no art. 171 do CP.
+3. Em relação ao aspecto material, tem-se que a irretroatividade do art. 171, §5º, do CP, decorre da própria mens legis, pois, mesmo podendo, o legislador previu apenas a condição de procedibilidade, nada dispondo sobre a condição de prosseguibilidade. Ademais, necessário ainda registrar a importância de se resguardar a segurança jurídica e o ato jurídico perfeito (art. 25 do CPP), quando já oferecida a denúncia.
+ ..
+6. Habeas corpus indeferido.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
