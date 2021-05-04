@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por Bruno Fialho Braga, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 556):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS. EMBARGOS À EXECUÇÃO FISCAL. CUMULAÇÃO. IMPOSSIBILIDADE. Tendo sido fixados honorários advocatícios nos embargos à execução fiscal, não cabe nova fixação de verba honorária na execução, sob pena de condenação em duplicidade. Precedentes desta Corte.
+A parte recorrente aponta violação aos arts. 85, § 2º do CPC/2015. Sustenta, em resumo, ser possível a cumulação de condenação em honorários sucumbenciais tanto na execução quanto nos respectivos embargos.
+A Vice-Presidência do Tribunal Regional remeteu os autos à Turma julgadora para realização de juízo de conformidade considerando o julgamento do mérito do REsp nº1.520.710/SC, Tema 587/STJ.
+A decisão foi mantida pelo órgão fracionário nos seguintes termos (fl. 612):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE RETRATAÇÃO. TEMA 587 DO STJ. JULGADO MANTIDO.
+1. Proferido julgamento colegiado, só cabe retratação caso o entendimento tenha claramente violado orientação do Tribunal Superior, daí porque deve haver perfeita correlação entre a hipótese julgada pela turma e aquela objeto do recurso repetitivo.
+2. O caso dos autos não se amolda ao tema 587 do STJ, porque se trata de execução fiscal ajuizada pela Fazenda Pública, e não de execução contra a Fazenda Pública.
+3. Julgado mantido.
+Àsfls. 633/634, a Vice-presidência do Tribunal de origem admitiu o recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Dito isso, verifica-se que o juízo sentenciante extinguiu o feito executivo pela nulidade dos títulosdeixando de condenar a exequente em honorários de sucumbência ao fundamento de que "o arbitramento da verba sucumbencial já foi analisado nos autos dos embargos à execução, abrangendo os valores da CDA em execução nestes autos." (fl. 489).
+O Tribunal de origem manteve a conclusão do juízo de primeira instância nos seguintes termos (fls. 559/560):
+A controvérsia diz respeito à fixação de honorários advocatícios nas execuções fiscais quando extinto o feito em virtude de decisão proferida nos autos de embargos à execução fiscal, nos quais já houve a condenação da União ao pagamento de verba honorária.
+O entendimento desta Turma é no sentido de que, tendo sido fixados honorários advocatícios nos embargos à execução fiscal, não cabe nova fixação de verba honorária na execução, conforme se extrai dos recentes precedentes:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMBARGOS. EXTINÇÃO PARCIAL DO CRÉDITO TRIBUTÁRIO. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. Fixados os honorários advocatícios nos embargos à execução fiscal, a redução ou até mesmo extinção do débito é mera consequência da sentença, de maneira que não cabem novos honorários na execução fiscal. (TRF4, AG 5029437-56.2017.4.04.0000,PRIMEIRA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 27/04/2018)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AÇÃO ORDINÁRIA. EXTINÇÃO DO CRÉDITOTRIBUTÁRIO. EXTINÇÃO DA EXECUÇÃO FISCAL. MERA DECORRÊNCIA. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. Sendo a extinção da execução fiscal consequência direta do que foi decidido em ação anulatória ou embargos à execução fiscal, a jurisprudência desse Tribunal tem entendido que não há falar em nova condenação da exequente ao pagamento dos honorários advocatícios nos autos executivos, uma vez que estes já foram fixados na outra ação. (TRF4, AC 5059463-87.2011.4.04.7100,PRIMEIRA TURMA, Relator AMAURY CHAVES DE ATHAYDE, juntado aos autos em 01/06/2017)
+Assim, entendo que não assiste razão à parte apelante, sendo incabível a fixação de honorários advocatícios nas execuções, sob pena de duplicidade de condenação, uma vez que já houve fixação de verba honorária nos embargos à execução fiscal.
+Pela transcrição, verifica-se que o Tribunal de origem decidiu em desacordo coma orientação jurisprudencial desta Corte Superiorno sentido de que a verba de sucumbência devida nas ações fiscais é independente daquela arbitrada em ações conexas, como embargos do devedor ou ações anulatórias.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL.HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO COM A CONDENAÇÃO EM AÇÃO ANULATÓRIA. POSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A condenação em honorários na ação de embargos à execução independe da existência de outra condenação no próprio juízo executivo ou na ação anulatória. Precedentes.
+III - O Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ. IV - A Agravante não apresentou argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1616301/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/08/2018, DJe 22/08/2018)
+ANTE O EXPOSTO, dou provimentoao recurso especial para reconhecer o cabimento de honorários na execução fiscal extinta em decorrência de nulidade dos títulos executivos, determinando o retorno dos autos ao Tribunal a quo para que promova a fixação dos honorários.
+Publique-se.
