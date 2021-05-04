@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especialmanejado pelo Município de Baixo Guandu, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo,assim ementado (fl. 41):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. CUSTAS PROCESSUAIS. MANTIDAS. PRINCÍPIO DA CAUSALIDADE. RECURSO CONHECIDO E IMPROVIDO.
+I - inafastável a aplicação do princípio da causalidade, pois o débito fora exigido através do ajuizamento da ação com lastro na certidão de dívida ativa.
+II - A desistência da ação não afasta a responsabilidade da Fazenda Municipal pelo ajuizamento indevido da execução e de sua extinção decorrem as custas processuais. Sentença mantida.
+IV - Recurso conhecido e improvido.
+Os embargos declaratórios opostos foram acolhidos, nestes termos (fl. 77/83):
+APELAÇÃO CÍVEL. EXECUÇÃO:" FISCAL." EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. CUSTAS PROCESSUAIS. ISENÇÃO.. AFASTADA. OMISSÃO SANADA RECURSO CONHECIDO E PROVIDO.
+I - Não inserido o ente municipal no rol de isentos previstos na Lei Estadual nº 9.974/2013, não pode a Lei Federal nº 6.830/80, fazê-lo por pagamento de taxa estadual (custas processuais), pois a Lei Federal não pode, sob pena de inconstitucionalidade, renunciar a receitas provenientes de tributos estaduais e municipais, por previsão contida no artigo 151, III, da CF.
+II - A isenção tributária somente se dá por meio de expressa previsão legal, cuja interpretação deve ser restrita e literal, nos exatos termos do art. Ill, II e 176, ambos do CTN.
+III - Apesar de sanada a omissão, impõe-se a manutenção da condenação do Município em custas processuais, por aplicação da regra contida no artigo 151 da Constituição da República e daquelas contidas nos artigos 111 e 176 do CTN.
+A parte recorrente aponta violação aos arts. 26 a 39 da LEF. Sustenta, em resumo, que"o ordenamento jurídico concede isenção de custas à fazenda pública, como se vê extinta a execução fiscal não pode a fazenda pública ser onerada com as custas processuais não suportadas pela parte contrária" (fl. 91).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão comporta guarida.
+Com efeito, o entendimento firmado nesta Corte Superior é no sentido de que a Fazenda Pública está, nas execuções fiscais, exonerada do recolhimento das despesas relativas às custas estatais judiciárias.
+A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL AJUIZADA NA JUSTIÇA ESTADUAL. COMPETÊNCIA DELEGADA. CUSTAS PROCESSUAIS. FAZENDA NACIONAL. ISENÇÃO. ABANDONO DA CAUSA. JUSTIÇA GRATUITA. SÚMULA 7 DO STJ.
+1. A Primeira Seção do Superior Tribunal de Justiça, ao julgar o REsp 1.107.543/SP, Rel. Min. Luiz Fux, DJe 26/4/2010, sob o rito dos recursos repetitivos, firmou a compreensão segundo a qual, em atenção à norma prevista no art. 39 da Lei n. 6.830/1980, a Fazenda Pública da União, dos Estados, do Distrito Federal e dos Municípios é isenta do recolhimento de custas efetivamente estatais, cuja natureza jurídica é de taxa judiciária, nas ações de execução fiscal, ainda que o feito tenha trâmite perante a Justiça estadual, a exemplo do que ocorre na hipótese vertente.
+2. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar a ocorrência de abandono da causa, como sustentado neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 3. Aplica-se também o enunciado de Súmula 7 do STJ no que tange ao benefício da assistência judiciária, já que o Tribunal local constatou que não se tratava de empresa deficitária a ponto de conceder tal benefício. Alterar tal premissa demandaria, necessariamente, o reexame do acervo probatório.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.000.602/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/05/2020, DJe 22/05/2020)
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FAZENDA NACIONAL. CUSTAS EFETIVAMENTE ESTATAIS. ISENÇÃO.RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP 1.107.543/SP, REL. MIN.LUIZ FUX, DJE 26.4.2010. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS, PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NACIONAL.
+1. A teor do art. 535 do CPC/73, os Embargos de Declaração constituem modalidade recursal destinada a suprir eventual omissão, obscuridade e/ou contradição que se faça presente na decisão contra a qual se insurge, de maneira que seu cabimento revela finalidade estritamente voltada para o aperfeiçoamento da prestação jurisdicional, que se quer seja cumprida com a efetiva cooperação das partes.
+2. Por outro lado, sem olvidar a circunstância de estarem jungidos à fundamentação vinculada, é possível a concessão de efeitos infringentes aos Aclaratórios no caso em que, conforme seja a deficiência a ser corrigida, seu suprimento acarrete, inevitavelmente, a modificação do julgado recorrido, conforme admitem a doutrina e a jurisprudência atuais.
+3. Diga-se, ainda, que, excepcionalmente, os Embargos de Declaração podem servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior.
+4. No caso vertente, esta egrégia Corte Superior, no REsp.
+1.107.543/SP, julgado na forma do art. 543-C do CPC/73 (Representativo do Controvérsia), da relatoria do eminente Ministro LUIZ FUX, firmou o entendimento, segundo o qual a Fazenda Pública Federal é isenta do pagamento das custas processuais e emolumentos, mesmo quando a execução fiscal tenha sido proposta perante a Justiça Estadual, devendo ressarcir, entretanto, as despesas que tiverem sido antecipadas pelo contribuinte, caso seja vencida.
+5. Embargos de Declaração da FAZENDA NACIONAL acolhidos, com efeitos modificativos, para dar provimento ao Recurso Especial, de modo a declarar o direito da recorrente à isenção das custas processuais.
+(EDcl no AgRg no REsp 1.276.844/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 06/02/2017)
+Na hipótese dos autos, verifica-se que o acórdão recorrido está em dissonância com o entendimento acima exposto, razão pela qual comporta reparos.
+ANTE O EXPOSTO, dou provimento ao recurso especial para reconhecer o direito àisenção das custas estatais à Fazenda Pública,com base na fundamentação.
+Publique-se.
