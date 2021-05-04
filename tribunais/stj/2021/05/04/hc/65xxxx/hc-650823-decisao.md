@@ -1,0 +1,30 @@
+DECISÃO
+ROGÉRIO JORGE DE SOUZA alega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 1503745-62.2017.8.26.0536.
+Nesta impetração, a defesa pretende a redução da pena. Para tanto, aduz que a reprimenda foi recrudescida acima do mínimo legal, na terceira fase, com base apenas no número de majorantes, em afronta à Súmula 443 do STJ.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Decido.
+Extrai-se dos autos que o réu foi condenado a 6 anos e 5 meses de reclusão e 15 dias-multa, em regime inicial semiaberto, pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal.
+O Tribunal estadual negou provimento aos apelos da defesa e do Parquet e conservou, portanto, os fundamentos da sentença condenatória.
+I. Terceira fase da dosimetria - critério matemático para aumento da pena
+Observa-se nos autos que o Tribunal de origem manteve a fração de 3/8 imposta pela primeira instância ao dosar a pena na terceira etapa (fls. 71-72, grifei):
+Passo, destarte, ao exame das penas, as quais não merecem reparo.
+Básica fixada no mínimo legal, foram majoradas de 1/6 na segunda fase do delito, em razão do disposto no art. 61, II, "h", do CP, eis que praticados os fatos contra vítimas maiores de 60 anos (fls. 07/08).
+Na terceira fase foram as penas majoradas em 3/8, fração que se mostra proporcional à incidência de duas causas de aumento (emprego de arma de fogo e concurso de agentes), restando fixadas em 06 anos e 05 meses de reclusão, e pagamento de 15 dias-multa.
+Entendo que há, de fato, o apontado constrangimento ilegal, pois a instância antecedente compreendeu devida a exasperação da reprimenda acima do mínimo legal apenas em razão do número de causas de aumento, e não indicou nenhuma circunstância concreta que evidenciasse maior reprovação da conduta. Desse modo, há de ser aplicada a fração de 1/3 para o acréscimo da pena na terceira fase da dosimetria, em atendimento ao enunciado da Súmula n. 443 do STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Ilustrativamente, colaciono os seguintes julgados:
+ ..
+III - In casu, a pena foi exasperada, na terceira fase, na fração de 3/8 (três oitavos) em virtude da incidência de duas causas de aumento de pena, levando-se em conta apenas o número de majorantes contidas nos incisos I e II do § 2º do art. 157 do Código Penal.
+Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula n. 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Precedentes).
+Habeas corpus não conhecido. Ordem concedida de ofício para estabelecer a fração de 1/3 (um terço) em razão das majorantes e reduzir a reprimenda do paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão, e 13 (treze) dias-multa, mantido os demais termos da condenação.
+(HC n. 538.193/SP, Rel. Ministro Leopoldo de Arruda Raposo (DESEMBARGADOR CONVOCADO DO TJ/PE), 5ª T., DJe 19/11/2019)
+ ..
+2. A matéria se encontra sumulada no âmbito deste Superior Tribunal, nos termos do Enunciado 443, segundo o qual o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Tal circunstância autoriza a apreciação do tema em decisão unipessoal, quando evidenciada a suficiente instrução do writ. 3. Verificada a insuficiência de motivação a respeito do mérito do tema, não há falar em reconsideração da decisão atacada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 482.474/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 11/3/2019)
+Destaco, por oportuno, que o Ministério Público do Estado de São Paulo interpôs recurso especial - REsp n. 1.912.995/SP - contra o acórdão proferido na apelação, ao qual dei provimento a fim de reconhecer a incidência do concurso formal de crimes, razão pela qual redimensionei a pena para 7 anos, 5 meses e 25 dias de reclusão, mais 16 dias-multa. Houve o trânsito em julgado em 8/3/2021. Eis o trecho relativo à dosagem da pena:
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base foi fixada no mínimo legal, 4 anos de reclusão, mais 10 dias-multa. Na segunda etapa, a pena foi elevada em 1/6 pela idade das vítimas, o que totaliza 4 anos e 8 meses de reclusão, mais 11 dias-multa. Na terceira fase, a pena foi elevada em 3/8, pelas majorantes do roubo, o que perfaz 6 anos e 5 meses de reclusão, mais 14 dias-multa. Por fim, aplico o aumento de 1/6, em razão do concurso formal, considerando a prática de dois roubos, o que torna a pena definitivamente estabelecida em 7 anos, 5 meses e 25 dias de reclusão, mais 16 dias-multa.
+Desse modo, tendo por base a dosagem da pena efetuada no referido recurso especial, redimensiono a reprimenda do paciente.
+A pena-base foi fixada no mínimo legal, 4 anos de reclusão, mais 10 dias-multa. Na segunda etapa, a sanção foi elevada em 1/6 pela idade das vítimas, o que totaliza 4 anos e 8 meses de reclusão, mais 11 dias-multa. Na terceira fase, elevo a pena em 1/3, o que perfaz 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa. Devido ao reconhecimento do concurso formal, a sanção foi acrescida em 1/6, o que torna a sanção definitiva em 7 anos, 3 meses e 3 dias de recl usão, além de 16 dias-multa.
+II. Dispositivo
+À vista do exposto, concedo a ordem para reduzir a pena do paciente para 7 anos, 3 meses e 3 dias de reclusão, além de 16 dias-multa.
+Publique-se e intimem-se.
