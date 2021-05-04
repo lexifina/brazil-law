@@ -1,0 +1,17 @@
+DECISÃO
+DOUGLAS  VENÍCIUS  DE  OLIVEIRA  interpõe  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo.
+A  defesa  aponta  violação  do  art.  33,  §  2º,  "b",  do  Código  Penal.  Argumenta  que  foi  fixado  regime  prisional  mais  rigoroso  a  partir  de  fundamentos  inidôneos,  em  divergência,  portanto,  aos  enunciados  das  Súmulas  n.  718  e  719  do  STF  e  440  do  STJ.
+Requer  o  provimento  do  recurso,  a  fim  de  que  seja  estabelecido  o  regime  semiaberto.
+Apresentadas  as  contrarrazões  e  admitido  o  especial,  o  Ministério  Público  Federal  manifestou-se  pelo  seu  não  provimento.
+Decido.
+Primeiramente,  observo  que  o  recurso  especial  suplanta  o  juízo  de  prelibação,  haja  vista  a  ocorrência  do  necessário  prequestionamento,  além  de  estarem  presentes  os  demais  pressupostos  de  admissibilidade,  razões  pelas  quais  avanço  na  análise  de  mérito  da  controvérsia.
+I.  Contextualização
+Extrai-se  dos  autos  que  o  réu  foi  condenado  a  6  anos,  2  meses  e  20  dias  de  reclusão  e  26  dias-multa,  em  regime  fechado,  pela  prática  do  delito  tipificado  no  art.  157,  §  2º,  II,  do  Código  Penal.
+O  Tribunal  estadual  negou  provimento  ao  apelo  defensivo  e  manteve  os  fundamentos  da  sentença  condenatória.
+II.  Regime  prisional
+Quanto  à  almejada  modificação  do  regime  para  o  semiaberto,  cumpre  enfatizar  que  esta  Corte  tem  decidido  que  o  modo  inicial  de  cumprimento  da  pena  não  está  vinculado,  de  forma  absoluta,  ao  quantum  de  reprimenda  imposto.
+  O  art.  33,  §  3º,  do  Código  Penal  dispõe  que  "a  determinação  do  regime  inicial  de  cumprimento  de  pena  far-se-á  com  observância  dos  critérios  previstos  no  art.  59  deste  Código".  Portanto,  as  mesmas  circunstâncias  judiciais  aferidas  pelo  magistrado  para  fixação  da  pena-base  na  primeira  fase  da  dosimetria  deverão  ser  sopesadas  na  imposição  do  regime  inicial  de  cumprimento  de  pena,  ou  ainda,  deve  o  juízo  apresentar  elementos  concretos  dos  autos  a  exigirem  a  imposição  de  um  regime  mais  rigoroso  que  o  previsto  para  a  quantidade  de  pena  aplicada.  Nesse  sentido:  HC  596.157/AC,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  02/02/2021,  DJe  08/02/2021;  AgRg  no  AREsp  1608617/SP,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  16/06/2020,  DJe  23/06/2020  e  AgRg  no  RHC  107.602/SP,  Rel.  Ministro  FELIX  FISCHER,  QUINTA  TURMA,  julgado  em  04/06/2019,  DJe  11/06/2019.
+Desse  modo,  ao  se  considerar  a  quantidade  de  pena  imposta  ao  réu  -  6  anos,  2  meses  e  20  dias  de  reclusão  -  o  fato  de  todas  as  circunstâncias  judiciais  terem  sido  valoradas  positivamente  e  também  a  primariedade  do  acusado,  sem  que  tenham  sido  trazidos  elementos  concretos  dos  autos  a  exigirem  a  imposição  de  um  regime  mais  rigoroso,  impõe-se  a  fixação  do  regime  inicial  semiaberto.
+III.  Dispositivo
+À  vista  do  exposto,  com  fundamento  no  art.  932,  VIII,  do  CPC,  c/c  o  art.  34,  XVIII,  "c",  parte  final,  do  RISTJ,  dou  provimento  ao  recurso  especial  para  fixar  o  regime  inicial  semiaberto  e  mantenho,  no  mais,  o  acórdão.
+Publique-se  e  intimem-se.
