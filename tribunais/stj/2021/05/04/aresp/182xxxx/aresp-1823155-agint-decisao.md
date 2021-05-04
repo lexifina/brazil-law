@@ -1,0 +1,66 @@
+DECISÃO
+ARCOL CONSTRUÇÕES METÁLICAS EIRELI (ARCOL) e ADRIANO ROMERO COTTA (ADRIANO) ajuizaram ação declaratória de inexistência de débito contra BANCO LOSANGO S.A. - BANCO MÚLTIPLO, alegando que o nome de ADRIANO foi inserido indevidamente em cadastro de inadimplentes, o que lhes ensejou prejuízos.
+A sentença julgou improcedente o pedido formulado por ARCOL, condenando-se o referido autor ao pagamento de 30% das custas processuais e honorários advocatícios, estes fixados em R$ 1.000,00 (mil reais). A sentença julgou procedente em parte o pedido formulado por ADRIANO, declarando a inexistência do débito e determinando a exclusão de seu nome do cadastro de proteção ao crédito, bem como condenando BANCO ao pagamento de indenização por danos morais no valor de R$ 4.000,00 (quatro mil reais). Ainda, condenou-se BANCO ao pagamento de 50% das custas processuais e dos honorários advocatícios no montante de 20% sobre o valor atualizado da condenação. Condenou-se ADRIANO ao pagamento do restante das custas, bem como de honorários sucumbenciais no montante de 10% (e-STJ, fls. 193/197).
+Interposta apelação por ADRIANO, o Tribunal Mineiro deu-lhe parcial provimento, nos termos do acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - PESSOA JURÍDICA - PERSONALIDADE JURÍDICA PRÓPRIA - SÓCIO - LUCROS CESSANTES - PROBABILIDADE OBJETIVA - POSSIBILIDADE DE RECONHECIMENTO - DANO MORAL - INDENIZAÇÃO - VALOR - FIXAÇÃO - PARÃMETROS. 1. A pessoa jurídica não se confunde com as pessoas dos sócios, tendo personalidade jurídica própria e existência distinta dos seus membros. 2. Diante de uma probabilidade objetiva, decorrente dos dados existentes nos autos, pode ser reconhecida a existência de lucro cessante, a ser indenizado. 3. O valor da indenização por dano moral deve ser fixado examinando-se as peculiaridades de cada caso e, em especial, a gravidade da lesão, a intensidade da culpa do agente, a condição socioeconômica das partes e a participação de cada um nos fatos que originaram o dano a ser ressarcido, de tal forma que assegure ao ofendido satisfação adequada ao seu sofrimento, sem o seu enriquecimento imotivado, e cause no agente impacto suficiente para evitar novo e igual atentado. (e-STJ, fl. 269).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 343/348).
+Inconformado, BANCO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando violação dos arts. 402 do CC/02 e dissídio jurisprudencial e divergência jurisprudencial, aduzindo, em síntese, que (1) é imprescindível a comprovação efetiva dos eventuais lucros cessantes; (2) o valor da indenização por danos morais revela-se exorbitante; e (3) o processo deve permanecer suspenso, haja vista afetação do Tema nº 937 do STJ quanto aos parâmetros para fixação dos danos morais em caso de inscrição em cadastro de inadimplentes.
+Foram oferecidas contrarrazões (e-STJ, fls. 410/433).
+O apelo nobre não foi admitido ante a (1) incidência da Súmula nº 7 do STJ; e (2) inexistência de cotejo analítico entre os julgados (e-STJ, fls. 435/439).
+Nas razões do agravo em recurso especial, BANCO defendeu que não se exige reexame de fatos e demonstrou o dissídio jurisprudencial (e-STJ, fls. 442/448).
+Foram apresentadas contrarrazões (e-STJ, fls. 451/467).
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação à incidência da Súmula nº 7 do STJ (e-STJ, fls. 476/478).
+Nas razões do presente agravo interno, BANCO defendeu que impugnou os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 481/485).
+Foi apresentada impugnação (e-STJ, fls. 493/507).
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 476/478 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 442/448.
+Do agravo em recurso especial
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da incidência da Súmula nº 7 do STJ
+BANCO afirmou a violação dos arts. 402 do CC/02, sustentando que é imprescindível a comprovação efetiva dos eventuais lucros cessantes.
+Sobre o tema o TJ/MG consignou que a pessoa jurídica sofreu prejuízos materiais decorrentes da negativação do nome do sócio, confira-se:
+No mesmo sentido, das declarações prestadas pela testemunha Angélica, tem-se que a empresa Jera Aço - Comércio e Representações Ltda. também recusou o parcelamento para a compra de matéria prima à empresa Metalúrgica Prevato & Moreira Ltda., em razão de restrições no nome de seu sócio, ora apelante.
+Estas informações são confirmadas pelo documento acostado às f. 56, de autoria da Jero Aço, nos seguintes termos: "Em virtude de restrições apresentadas no SERASA em nome de Adriano Moreira do Nascimento CPF 9830 18886-87, só podemos acatar o seu pedido na condição de pagamento antecipado". Assim, não restam dúvidas de que, em razão da negativação de do nome de Adriano Moreira do Nascimento, a empresa Metalúrgica Prevato & Moreira Ltda. sofreu prejuízos de ordem material, sendo forçada a distratar o contrato firmado com Gilmar Ferreira de Aquino, devendo ser indenizada pelos lucros que deixou de auferir.
+Portanto, deve a ré Losango Promoções e Vendas Ltda. ser condenada a indenizar a empresa pelos danos materiais sofridos, no valor de R$ 101.500,00 (cento e um mil e quinhentos reais), correspondentes ao lucro que teria caso tivesse cumprido o contrato (e-STJ, fl. 274).
+Assim, rever as conclusões quanto à comprovação dos lucros cessantes demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESFAZIMENTO CONTRATUAL. COMPRA E VENDA DE VEÍCULO (TRATOR). EXISTÊNCIA DE GRAVAME EM NOME DE TERCEIRO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC QUE NÃO SE VERIFICA. LUCROS CESSANTES. PROVA DE PREJUÍZO RECONHECIDA NA ORIGEM. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANO MORAL. OCORRÊNCIA. REEXAME DO CONTEXTO FÁTICO PROBATÓRIO.APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO.REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se verifica omissão de julgamento na hipótese dos autos, porque os temas suscitados foram efetivamente examinados pelo TJSP.
+3. Rever as conclusões do acórdão impugnado, referentes a comprovação dos lucros cessantes e o valor devido a esse título, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do STJ.
+4. A alteração das conclusões do acórdão recorrido acerca da caracterização do dano moral exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula nº 7 do STJ.
+5. A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.412.588/SP, de minha relatoria, Terceira Turma, j. em 10/08/2020, DJe 14/08/2020)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(2) Da Súmula nº 284 do STF, por analogia
+BANCO sustentou a existência de dissídio jurisprudencial sobre o tema do valor dos danos morais.
+A jurisprudência desta Corte é pacífica quanto a necessidade de indicação do artigo de lei sobre o qual haveria divergência jurisprudencial quando o recurso especial também é interposto com base do dissídio interpretativo.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+1.1. No ponto, rever o entendimento lançado no v. acórdão recorrido, considerando as circunstâncias do caso concreto, para concluir que não houve mora da ora agravante, demandaria revolvimento de matéria fático-probatória, bem como análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+2. Nos termos da jurisprudência deste Tribunal Superior, o atraso na entrega do imóvel enseja pagamento de lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo experimentado pelo promitente comprador. Incidência da Súmula 83/STJ.
+3. Relativamente ao dissídio jurisprudencial quanto à cumulação de lucros cessantes e a cláusula penal, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+3.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos das Súmulas 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.877.253/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 15/12/2020, DJe 01/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. REVISÃO DO BENEFÍCIO. INEXISTÊNCIA DE VÍNCULO COM A ENTIDADE PREVIDENCIÁRIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+2. Segundo a jurisprudência deste Tribunal de Uniformização, a alegação de dissídio jurisprudencial deve estar pautada também na citação de dispositivo da legislação federal a que se tenha conferido interpretação diversa pelo aresto impugnado, sob pena de configurar-se deficiência na fundamentação.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.709.794/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 07/12/2020, DJe 11/12/2020)
+Assim, em virtude da não indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente, incide, à hipótese, a Súmula nº 284 do STF, por analogia.
+(3) Do requerimento de suspensão
+BANCO alegou que o processo deveria permanecer suspenso, ante a afetação do Tema nº 937 do STJ acerca dos parâmetros para fixação dos danos morais.
+Contudo, em consulta ao sítio eletrônico desta Corte, observa-se que o Tema mencionado teve sua afetação cancelada em 2017, antes da interposição do presente recurso especial.
+Assim, não merece prosperar o pleito de sobrestamento.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor do BANCO em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. RECONSIDERAÇÃO. LUCROS CESSANTES. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. DANOS MORAIS. VALOR. SÚMULA Nº 284 DO STF. SUSPENSÃO. AFETAÇÃO CANCELADA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
