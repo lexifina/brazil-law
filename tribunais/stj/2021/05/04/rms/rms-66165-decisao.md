@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por NILTON ROBERTO BARBOSA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se haver irregularidade no recolhimento do preparo e na representação do recurso em mandado de segurança, razão pela qual a parte foi intimada, com fundamento no art. 1.007, § 7º, e no art. 76 c/c o art. 932, parágrafo único, do Código de Processo Civil, para sanar os referidos vícios (fls. 238/239).
+A parte, embora regularmente intimada para regularizar o preparo e a representação processual, apenas regularizou este último vício (fls. 243), permanecendo, porém, o vício quanto ao preparo uma vez que o número constante no código de barras do comprovante de pagamento encontra-se incompleto, impossibilitando a verificação da regularidade do recolhimento (fls. 245).
+O Superior Tribunal de Justiça consolidou o entendimento no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção.
+Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo". (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016.)
+Registre-se, ainda, que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgRg no RMS 63518/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/08/2018.)
+Dessa forma, no recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
