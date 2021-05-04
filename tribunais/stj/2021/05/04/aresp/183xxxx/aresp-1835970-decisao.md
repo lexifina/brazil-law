@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão ao recurso especial interposto por MARTA DE OLIVEIRA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado: (fl. 426):
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PRETENDIDA CUMULAÇÃO DOS CARGOS DE AGENTE UNIVERSITÁRIO - FUNÇÃO TÉCNICO ADMINISTRATIVO E DE PROFESSOR. IMPOSSIBILIDADE. NATUREZA TÉCNICA DO CARGO CUMULADO NÃO DEMONSTRADA.
+A demanda tem origem em ação declaratória, com pedido liminar, ajuizada pela parte recorrente contra o Estado do Paraná e PARANAPREVIDÊNCIA, com o objetivo de ter reconhecida a legalidade do acúmulo de cargos (agente universitário com o de professor).
+Valor dado à causa: R$ 65.153,40 (sessenta e cinco mil, cento e cinquenta e três reais, e quarenta centavos), em junho de 2019.
+Nas razões do recurso especial, alega, além de cerceamento de defesa, ofensa ao artigo 54, §§ 1 º e 2º, da Lei n. 9.784/1999, sustentando, em suma, que:
+Ao contrário do que fundamentado no acórdão recorrido, não se trata de questão de direito, pois os eméritos desembargadores logo adiante entenderam pela ausência de documentos de prova para comprovar e fundamentar o direito da recorrente. (fl. 601)
+Desta forma, restou cabalmente demonstrado a violação expressa do devido processo legal, eis que, impossibilitou à recorrente a produção de provas imprescindíveis para resolução da lide. (fl. 602)
+O prazo de decadência deve ser computado a padir da data em que o autor recebe o primeiro pagamento como professora. Já transcorridos cinco anos desde a mencionada data, decaiu o direito da administração de invalidar o ato administrativo que concluiu pela legalidade do acúmulo de cargos pela requerente. (fl. 603)
+Contrarrazões pelo não conhecimento, ou, caso conhecido, pela improcedência do recurso especial.
+A decisão de inadmissibilidade do recurso especial fundou-se na inexistência de prova da tempestividade do recurso.
+O agravo apresenta argumentos que visam infirmar o fundamento da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sobre a alegada impossibilidade de produção de provas, a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a delimitação da violação da matéria insculpida nos regramentos indicados, mas, também, a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Quanto à afirmativa de violação do 54, §§ 1 º e 2º, da Lei n. 9.784/1999, o Tribunal a quo, ao analisar a questão, o fez com fundamento em matéria exclusivamente constitucional, ou seja, com base na norma contida no artigo 37, XVI, da Constituição Federal. Por sua vez, a parte recorrente deixou de interpor recurso extraordinário, tornando preclusa a questão constitucional, razão pela qual se tem inviabilizado o apelo nobre. Incide na hipótese, o constante da súmula 126/STJ.
+Ainda que assim não fosse, o acórdão recorrido registrou sobre o ponto fulcral da questão:
+O que se verifica dos autos, é que as atribuições do cargo ocupado pela autora, relacionadas na de mov. 68, não requerem Declaração da Pró-Reitoria de Recursos Humanos conhecimento científico específico de uma área do saber, como determina a legislação constitucional; cuidam, em verdade, de atividades meramente burocráticas, que não exigem formação técnica ou superior específica para a sua execução. (fl. 432)
+Dessa forma, para rever tal posição, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
