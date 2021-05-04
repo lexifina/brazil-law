@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão do respectivo Tribunal de Justiça, que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal.
+O acórdão atacado pelo recurso especial restou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - PROGRESSÃO PARA O REGIME PRISIONAL ABERTO - INDEFERIMENTO EM RAZÃO DE FALTA GRAVE PRATICADA ANTERIORMENTE E AUSÊNCIA DE TRABALHO - INADMISSIBILIDADE - INDISCIPLINA PUNIDA ANTERIORMENTE - TRANSCURSO DE CONSIDERÁVEL LAPSO TEMPORAL - EXIGÊNCIA DO ARTIGO 114, I, DA LEP - INTERPRETAÇÃO FLEXIBILIZADA COM FUNDAMENTO NO PRINCÍPIO DA RAZOABILIDADE - RECURSO PROVIDO - PROGRESSÃO DE REGIME DEFERIDA.
+- Se a falta grave praticada foi devidamente apurada e punida, não pode se constituir em óbice à progressão de regime prisional, requerida posteriormente, após o preenchimento dos requisitos legais, pena de indevido bis in idem, máxime considerando o transcurso de razoável lapso temporal.
+- Conquanto o artigo 114, I, da Lei de Execuções Penais exija do condenado, para a progressão ao regime prisional aberto, a comprovação de trabalho ou possiblidade imediata de fazê-lo, a regra deve ser interpretada com temperamentos e relativizada em função da crise econômica que assola o país, que conta com milhões de desempregados." (e-STJ, fl. 348)
+Opostos aclaratórios, foram rejeitados (e-STJ, fls. 388-391).
+Nas razões do apelo excepcional (e-STJ, fls. 409-427), o Parquet sustentava violação dos artigos 112, § 1º e 117, ambos da Lei de Execução Penal, e doartigo 619 do Código de Processo Penal.Alegava, em suma, a ilegalidade do acórdão recorrido ao dar provimento ao agravo em execução da defesa, a fim de deferir a progressão de regime ao apenado. Isso porque, asseverava o Ministério Público que a existência de falta grave cometida há 1 ano pode sim constituirfundamentoidôneo para a negativa do benefício executório, conforme decisão do magistrado de primeiro grau.
+Pretende, neste recurso, o conhecimento e provimento do recurso especial paraque seja cassada a benesseconcedida ao recorrido.
+Apresentadas as contrarrazões (e-STJ, fls. 433-439), o recurso foi inadmitido em face da incidência das Súmulas 7 e 83 ambas STJ (e-STJ, fls. 450-452). Daí este agravo (e-STJ, fls. 467-486), cuja contraminuta encontra-se às e-STJ, fls. 503-507.
+O Ministério Público Federal opinou pelo conhecimento do agravo e pelo provimento do recurso especial (e-STJ, fls. 532-535).
+É o relatório.
+Decido.
+Inicialmente, verifique-se que o Ministério Público de Minas Geraisinterpôs agravo tempestivo e combativo de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Ao indeferirpedido de deferimento de progressão de regime em favor do apenado, asseverou o Juízo das Execuções:
+"Trata-se de incidente de execução penal instaurado para apurar possível deferimento da progressão de regime em favor do sentenciado.
+Instado a se manifestar, o Ministério Público pugnou pelo indeferimento da progressão ao aberto.
+É o relatório do necessário. Decido.
+Segundo dispõem os art. 112 e 114 da LEP, a progressão ao regime aberto deverá ser concedida quando o sentenciado cumprir 1/6 (um sexto) da pena no regime anterior e ostentar boa conduta carcerária.
+Dispõe o art. 114, II, que somente será inserido no aberto o sentenciado que "apresentar, pelos seus antecedentes ou pelo resultado dos exames a que foi submetido, fundados indícios de que irá ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime." O requisito objetivo foi satisfeito em 07/01/2020, consoante se extrai da leitura do atestado de pena.
+Todavia, o mesmo não pode ser concluído em relação ao requisito subjetivo.
+Conforme se observa do relatório da CTC, o sentenciado não estuda e não trabalha atualmente, sendo tais atividades a ele sugeridas para fins de "amadurecimento e crescimento pessoal ( )". sic Ademais, nota-se do atestado carcerário a prática de diversas faltas graves ao longo da execução de pena, o que indubitavelmente denota o insatisfatório comportamento carcerário do sentenciado.
+Pode-se dizer, assim, que o apenado ainda não se encontra no estágio ideal para ser inserido no aberto, sobretudo porque ainda se encontra em processo de ressocialização e maturação, os quais poderão ser obtidos por meio do trabalho e estudo paulatinos.
+Ante o exposto, INDEFIRO, nesta ocasião, a progressão ao regime aberto." (e-STJ, fl. 274)
+A seu turno, o Tribunal de Justiça deu provimento ao agravo em execução defensivo, entendendo como inidôneos os fundamentos apresentados na decisão, nesses termos:
+"Vejo com razão o agravante. A meu sentir os motivos invocados para indeferir a progressão de seu regime prisional não se mostram idôneos para tanto.
+Consoante se verifica dos autos, as faltas disciplinares imputadas ao agravante foram praticadas no ano de 2018, portanto há mais de 01 ano.
+Depois das práticas mencionadas não se tem notícia de qualquer ato de indisciplina praticado pelo agravante, que apresentou, desde então, comportamento disciplinar satisfatório.
+Por outro lado, conforme se verifica do documento de ordem nº 57, as faltas disciplinares praticadas pelo agravante foram devidamente apuradas e punidas, não podendo constituir óbice ao deferimento da progressão de seu regime prisional, requerida posteriormente, após o preenchimento dos requisitos legais, pena de indevido bis in idem.
+ ..
+A circunstância de não apresentar o agravante comprovação de emprego também não constitui empecilho à concessão da pretendida progressão.
+Conquanto o artigo 114, I, da Lei de Execuções Penais exija do condenado, para a progressão ao regime aberto, a comprovação de trabalho ou possiblidade imediata de fazê-lo, a regra deve ser interpretada com temperamentos e relativizada em função da crise econômica que assola o país, que conta com milhões de desempregados.
+ ..
+Além disso, a situação de emergência de saúde pública trazida pelo COVID-19 recomenda menor rigor na interpretação das regras da progressão prisional, com vistas a reduzir a população carcerária e,consequente, diminuir o risco de propagação do vírus no âmbito penitenciário.
+Assim, considerando preencher o réu o requisito objetivo temporal, conforme reconhecida na própria decisão agravada, e não havendo óbices de natureza subjetiva, tem ele direito à progressão ao regime prisional aberto.
+Ao impulso de tais razões, dou provimento ao recurso, para conceder ao réu a progressão prisional, transferindo-o do regime semiaberto para o aberto." (e-STJ, fls. 349-353, grifou-se)
+Sobre a ausência de comprovação de emprego e de estudo, não merece retoque o acórdão recorrido, pois não são fundamentos suficientes para a negativa da progressão de regime.
+Contudo, em relação à prática de faltas graves no curso da execução, com razão o agravante, pois malfere o requisito subjetivo do reeducando.
+Com efeito, não se desconhece a atual jurisprudência desta Corte Superior no sentido de que faltas muito antigas não servem para impedir a progressão de regime e olivramento condicional. São aquelas faltas cometidas há umlongo período longínquo. Exemplifico:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. REQUISITO SUBJETIVO. GRAVIDADE DOS DELITOS E CONSIDERAÇÃO DE FALTAS GRAVES COMETIDAS HÁ MAIS DE 10 ANOS.FUNDAMENTO INVÁLIDO. BOM COMPORTAMENTO. EXAME CRIMINOLÓGICO FAVORÁVEL. WRIT CONCEDIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Sabe-se que a jurisprudência desta Corte Superior considera que a existência de falta grave constitui óbice para a progressão de regime por ausência de requisito subjetivo.
+2. A instância a quo não logrou fundamentar o não preenchimento do requisito subjetivo para a progressão ao regime semiaberto, haja vista que, havendo atestado de bom comportamento e exame criminológico favorável, os fatores relacionados aos crimes praticados e que já são objeto da execução penal em curso não justificam diferenciado tratamento para a progressão de regime, ressaltando-se que as faltas graves mencionadas são antigas, visto que foram cometidas há mais de 10 anos, não constituindo fundamento idôneo para afastar o requisito subjetivo.
+3. Agravo regimental improvido."
+(AgRg no HC 504.294/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/09/2019, DJe 12/09/2019, grifou-se)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas tambémnão podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução.A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido."
+(AgRg no HC 620.883/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/12/2020, DJe 18/12/2020, grifou-se)
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. EXAME CRIMINOLÓGICO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE MUITO ANTIGA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - "É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução.
+Precedentes do STJ" (HC n. 519.301/SP, Terceira Seção, Rel. Min.
+Nefi Cordeiro, DJe de 13/12/2019).
+III - No caso concreto, o exame criminológico foi determinado apenas com base na longa pena a cumprir e na gravidade abstrata dos crimes cometidos. A indicação de uma falta grave muito antiga, de 2012, foi apenas nas informações aqui prestadas (fl. 67).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as r. decisões a quo e determinar, ao d. Juízo da Execução Penal, que reavalie o pedido de livramento condicional do ora paciente, como entender de direito, observados termos deste acórdão.
+Recomenda-se celeridade."
+(HC 613.428/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/10/2020, DJe 12/11/2020, grifou-se)
+No caso em exame, a decisão de indeferimento, datada de 15/1/2020, fez referência ao histórico de faltas graves do apenado, todas as quatro praticadas entre março/2018 e outubro/2018 (e-STJ, fls, 257-258). Assim, considerando ointervalo aproximado de trezemeses entre a última falta grave do reeducando e a negativa do benefício, não há como vislumbrar ilegalidade na conclusão do Juízo das Execução, que concluiu pela ausência do preenchimento do requisito subjetivo.
+Encontra-se, em verdade, dissonante o acórdão recorrido da jurisprudência deste STJ ao considerar o prazo exíguo de 1 ano como parâmetro para a desconsideração da falta grave no momento da avaliação do requisito subjetivo da progressão de regime.Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. NÃO PREENCHIDO. HISTÓRICO PRISIONAL. PRÁTICA DE FALTA GRAVE RECENTE. BENEFÍCIO INDEFERIDO.DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. Nos termos da jurisprudência sedimentada nesta Corte Superior, a prática recente de falta grave pelo apenado no curso da execução penal (em 9/1/2018) - posse de aparelho celular - constitui motivo idôneo para indeferir o livramento condicional, por ausência do preenchimento do requisito subjetivo previsto no art. 83, III, do Código Penal. Precedentes. 2
+Embora a prática de falta disciplinar grave não interrompa a contagem do prazo para fins de livramento condicional (Súmula n. 441), impede a concessão da benesse por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exige o art. 83, III, do Código Penal.
+3. O citado dispositivo legal não determina um período específico de aferição do requisito subjetivo, de modo que o bom comportamento carcerário deve ser analisado em todo o tempo de execução da pena.
+4. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+5. Agravo regimental desprovido."
+(AgRg no HC 529.885/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/10/2019, DJe 23/10/2019, grifou-se)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de restabelecer a decisão do Juízo das Execuções, negando ao recorrido a progressão de regime, sem prejuízo de nova avaliação por parte do magistrado, com base em dados mais atualizados do histórico do apenado.
+Publique-se. Intimem-se.
