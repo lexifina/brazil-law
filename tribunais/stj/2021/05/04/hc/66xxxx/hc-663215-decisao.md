@@ -1,0 +1,17 @@
+DECISÃO
+JOSE APARECIDO FRANCISCO RIBEIRO NETO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0016182-15.2004.8.12.0001, em que foi mantida a decisão que indeferiu o pleito de progressão ao regime semiaberto.
+A defesa assere que "o recorrente já cumpriu o requisito objetivo e apresenta bom comportamento carcerário, conclui-se que já deveria ter sido transferido para o regime semiaberto, ou seja, o requisito subjetivo também fora preenchido" (fl. 6), razão pela qual requer a progressão ao regime semiaberto de cumprimento de pena.
+Decido.
+De plano, verifico que não há como se dar prosseguimento ao mandamus em questão, pelas razões abaixo expostas.
+O Juízo singular, ao negar o pleito defensivo, asseverou que, "de acordo com o laudo do exame criminológico realizado, o sentenciado "possui um perfil impulsivo, agressivo, emocionalmente desequilibrado, insensível e imaturo (..) motivo pelo qual concluí que ele ainda é acometido pelo transtorno de personalidade emocionalmente instável, tipo borderline", tendo o perito judicial concluído que NÃO ESTÁ APTO A CUMPRIR PENA EM REGIME MAIS BRANDO" (fl. 30, destaquei).
+Com efeito, segundo entendimento consolidado neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade de dilação probatória.
+No entanto, para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pelas instâncias ordinárias, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ. Confira-se:
+ ..
+I - A concessão do benefício da progressão de regime pressupõe tenha o reeducando preenchido os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+II - Tendo sido o apenado punido pela prática de faltas disciplinares no curso da execução, legítima a conclusão das instâncias ordinárias de que ele não perfaz o requisito subjetivo necessário à obtenção da progressão de regime (Precedentes).
+III - Ademais, esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, a dilação probatória necessária para o exame amplo e profundado da conduta carcerária do apenado, a fim de se vislumbrar possível inversão do que restou decidido pelo eg. Tribunal a quo (Precedentes).
+Agravo regimental desprovido (AgInt no HC n. 339.977/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 10/5/2016, destaquei).
+No caso concreto, o Tribunal a quo registrou que a conclusão do exame criminológico desfavorece o sentenciado, porquanto revelou que apresenta perfil impulsivo, agressivo, emocionalmente desequilibrado, bem como transtorno de personalidade, de modo a indicar que o apenado não preenche o requisito de ordem subjetiva.
+Assim, para se infirmar a interpretação apresentada pela instância ordinária, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
