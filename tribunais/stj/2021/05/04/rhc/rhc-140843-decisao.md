@@ -1,0 +1,19 @@
+DECISÃO
+ANDRÉ DE SOUZA alega sofrer coação ilegal, em decorrência da manutenção da prisão cautelar, em acórdão proferido pelo Tribunal de Justiça do Estadodo Rio Grande do Sul no HC n.0095462-76.2020.8.21.7000.
+A defesa pretende a concessão da liberdade provisóriaao paciente - custodiado pelos crimes de tráfico de drogas e de desobediência -, sob o argumento de falta de preenchimento dos requisitos da custódia cautelar, especialmente diante da pequena quantidade de droga encontrada com o insurgente e da ausência de violência ou grave ameaça na prática do crime.
+Todavia, em que pese o recorrente ser investigado pelo suposto cometimento de delito desprovido de violência ou grave ameaça e ser pequena a quantidade de droga encontrada com ele - 3,72 g de crack, distribuídas em 52 pedras-o Juízo de Direito, ao manter a prisão preventiva do paciente, destacou que ele ostenta "condenações que ensejam o título de maus antecedentes  .. . Além disso, verifica-se que o réu é reincidente, possuindo condenações transitadas em julgado pretéritas ao fato narrado na denúncia, sem o transcurso do prazo de 05 anos" (fl. 180, grifei).
+A Corte estadual, por sua vez, assinalou que o investigado registra condenação definitiva por tráfico de drogas e provisória por furto qualificado, além de responder a processos por tráfico de entorpecentes e associação para o tráfico. Concluiu ser necessária a manutenção da custódiapara evitar a reiteração delitiva e resguardar a ordem pública.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão processual, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal eindicoumotivação suficiente e concreta para decretar a prisão preventiva, ao salientaro histórico criminal do acusado.
+O STJ, em casos similares, entende que o reconhecimento da reincidência e a existência demaus antecedentes ou até mesmo deações penais em curso justificam a imposição de segregação cautelar com o fim de evitar a reiteração delitiva.Confira-se:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA.REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PENA EM PERSPECTIVA. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+3. No caso, a decisão que impôs a prisão preventiva destacou que o recorrente possuir vários inquéritos policiais por crimes graves, quais sejam, roubo qualificado e roubo simples, evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+ ..
+5. Recurso ordinário desprovido.
+(RHC n. 138.774/CE, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 26/3/2021)
+Em razão da apontada periculosidade do recorrente, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
