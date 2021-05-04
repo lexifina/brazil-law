@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelaCaixa Econômica Federal,desafiando decisão do Tribunal Regional Federal da 5ª Região, que não admitiu o recurso especial pelos seguintes fundamentos: (I) ausência de prequestionamento, o que atrai a vedaçãoda Súmula 211/STJ; (II)incidência do óbice da Súmula 126/STJ; e (II) não foi realizado o cotejo analítico dos julgados para comprovação dadivergência jurisprudencial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar especificamente todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico e mediante argumentação suficiente, o fundamento de inadmissibilidade do recurso especial, segundo o qual o recorrente"não demonstrou, de forma analítica, eventual dissenso jurisprudencial quanto à matéria discutida nos autos nem mencionou as circunstâncias que identifiquem ou assemelhem os casos confrontados, tal como disposto no art. 1029, § 1º, do CPC, de sorte que não restou configurada a hipótese do art. 105, III, "c" da CF/88"(fl. 1.194).
+Incide, desse modo, a Súmula 182/STJ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SCe oEAREsp 831.326/SP--Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
