@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão cuja ementa é a seguinte:
+Mandado de segurança Município de Bauru Concurso público para o cargo de motorista Edital do certame que estabelecia a exigência de inexistência de pontuação no prontuário (CNH) na data da posse Ausência de demonstração de violação a direito líquido e certo Segurança denegada Recurso desprovido.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 261, I, da Lei 9.503/1997; 4º e 5º do Decreto-Lei 4.657/1942 e 8º do CPC/2015. Aduz:
+Outrossim, a decisão judicial será pautada sempre nos termos do art. 8 º do CPC e nos termos do art. 4º e 5º do Decreto-Lei 4.657/1942 "Lei de Introdução às Normas do Direito Brasileiro", ou seja, no caso de omissão da lei vigente deve-se aplicar por analogia, costumes e princípios gerais do direito, bem como na aplicação da Lei o Juiz atenderá a finalidade social na busca do bem comum.
+(..)
+Assim, ao tentar assumir a posse no cargo público foi impedido em razão de não cumprir a regra estabelecida no Edital no capitulo III 1. "f", ou seja, não possuir pontuação na Carteira de Habilitação fls. 16.
+Destarte, pela regra do Código Brasileiro de Trânsito, os pontos expiram em 12 meses.
+(..)
+Destarte, o Recorrente prova que não tem pontuação nos últimos 12 meses, prazo este que expira toda e qualquer punição/infração, conforme regra do art. 261, inciso I do CTB.
+Contrarrazões apresentadas às fls. 358-361, e-STJ.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 382-387, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.04.2021.
+Não se pode conhecer da irresignação contra a ofensa aos arts. 4º e 5º do Decreto-Lei 4.657/1942 e 8º do CPC/2015, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+Com efeito, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como ofendido não foi apreciado pela Corte a quo.
+Ressalte-se que não houve sequer interposição de Embargos de Declaração, o que seria indispensável para análise de uma possível omissão no julgado.
+Assim, perquirir, nesta via estreita, a ofensa da referida norma, sem que se tenha explicitado a tese jurídica no juízo a quo é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚMULA 282/STF. (..)
+1. No que tange à violação do artigo 25, inciso V, alínea a, da Lei 8.625/93, não houve apreciação pelo Tribunal de origem sobre a incidência do dispositivo de referência, o que impossibilita o julgamento do recurso nesses aspectos, por ausência de prequestionamento, nos termos da Súmula 282/STF.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AgRg no REsp 920.879/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/03/2013).
+PROCESSUAL CIVIL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. (..) PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. (..)
+(..)
+2. Observa-se que o Tribunal a quo não emitiu carga decisória sobre os arts. 8º, 16, III, "b" e 17, II e IX, da Lei nº 8.080/90. Ausente o prequestionamento, inviável a discussão em recurso especial, a teor do disposto nas Súmulas 282/STF e 211/STJ.
+(..)(AgRg no AREsp 37.232/BA, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 28/03/2012).
+No mérito, o Tribunal de origem lançou os seguintes fundamentos:
+Na espécie, entendo ausente violação a direito líquido e certo do impetrante.
+O edital do certame previa em seu Capítulo III como requisito para investidura no cargo de motorista, dentre outros (fls. 16):
+(..)
+O impetrante foi convocado para posse em 01.03.2019 (fls. 32) e apresentou a certidão de pontos da CNH (fls. 35), com indicação de que possuía 7 pontos em seu prontuário, decorrentes da infração prevista no artigo 277, §3º 1 do Código de Trânsito Brasileiro, datada de 16.01.2015 (fls. 148). Foi apresentada ainda certidão de prontuário de 28.03.2019 (fls. 36/37), com informação de que não havia restrição na habilitação do condutor.
+Foi cumprida a determinação de juntada integral do expediente administrativo (fls. 49/81) e, após, o d. Magistrado determinou fosse oficiada a Autarquia de Trânsito, que esclareceu não haver recurso pendente no Conselho Estadual de Trânsito em relação ao auto de infração n.º 3B780793-9, ante o indeferimento do último recurso interposto em 08.01.2019 (fls. 87).
+(..)
+Não houve impugnação ao edital no momento oportuno e embora possa parecer excessivamente rigorosa a previsão de que o candidato nomeado não possa registrar pontuação em seu prontuário, tal se mostra compreensível diante do cargo pretendido - agente em manutenção, conservação e transporte - motorista.
+O apelante reconhece que consta do edital que "o candidato ao assumir a vaga, não pode ter pontos na habilitação" (fls. 303). Porém, sustenta que não possui pontos nos últimos 12 meses, regra distinta daquela prevista no edital. Acrescenta que "tem pontos referentes ao ano de 2015, mas que discute em sede administrativa", o que também não convence (fls. 303).
+Além do impetrante inegavelmente não preencher este requisito, há um agravante: ao final do processo administrativo 1303-1/2015 que está em curso desde 2015 possivelmente será aplicada penalidade de suspensão do direito de dirigir por doze meses (tendo em vista que, ao que tudo indica, o último recurso possível contra o auto de infração foi indeferido em janeiro de 2019). Ainda que o impetrante alegue que quando for "intimado para entregar sua habilitação irá ingressar com ação judicial com pedido de tutela de urgência" (fls. 310), é certo que se a Administração quis evitar a contratação de um servidor que tenha um auto de infração registrado (e que poderia até mesmo ser em razão de infração administrativa de natureza leve e que em nada se relaciona com a direção de veículo), com maior razão aquele que ficará impedido de dirigir por tão prolongado período.
+Interessante notar que o impetrante sequer nega que cometeu a infração, mas se apega ao fato de que foi lavrada em 2015 e que no último período de doze meses não cometeu qualquer infração.
+Entretanto, o edital não faz tal distinção. O certo é que, tendo em vista os inúmeros recursos interpostos (contra o auto de infração e contra o procedimento de suspensão do direito de dirigir), aquela infração continua no seu prontuário e a penalidade de suspensão do direito de dirigir sequer foi iniciada.
+O fato de o impetrante ter conseguido renovar sua CNH em 2018 decorre da pendência de recursos, o que não pode obstar a renovação do documento. Também deve ser a razão para constar que em 28.03.2019 não havia restrição na sua habilitação (fls. 36), já que na mesma data consta a pontuação relativa à autuação na certidão de fls. 35.
+Com relação ao argumento de que o recurso indeferido em 08.01.2019 não consta do prontuário do impetrante (conforme alegado a fls. 306), deve-se ao fato de que tal recurso foi interposto contra o auto de infração e as informações do prontuário são relacionadas à CNH. Portanto, não há que se falar em "vício no prontuário".
+O impetrante alega que houve um pedido de revisão do procedimento administrativo nº 13031/2015, deferido pelo CETRAN (fls. 47), mas não apresenta qualquer prova. Aliás, o documento de fls. 151 indica exatamente o oposto, isto é, que o CETRAN não admite pedido de revisão. Sem prova em outro sentido, ao que parece houve erro material no lançamento de informação a fls. 37: onde constou "pedido de revisão deferido pelo Cetran", deveria ser "pedido de revisão indeferido pelo Cetran".
+Porém, ainda que se admita que o pedido de revisão foi deferido, talvez com o julgamento definitivo do auto de infração e então, reabertura de prazo para defesa relacionada ao processo de suspensão do direito de dirigir (e anotação de que não há restrição em sua CNH em julho de 2019 fls. 207), a pontuação continua no prontuário do condutor e isso é suficiente para impossibilitar sua posse. Finalmente, se houve ou há inadequada anotação, o impetrante haveria de ajuizar ação contra quem de direito, mais ainda sabendo que estava se submetendo a um concurso com tal restrição.
+Engana-se o impetrante ao afirmar que os pontos "após 12 meses não podem ser mais computados para suspensão da habilitação" (fls. 05).
+Considerando a via eleita, era de rigor que o impetrante demonstrasse de forma inequívoca o direito alegado, o que não ocorre na espécie.
+Da análise dos documentos acostados aos autos não se evidencia a prática de ato ilegal pela autoridade apontada como coatora.
+Destarte, deve ser mantida a r. sentença.
+Sob esse aspecto, a análise da pretensão veiculada no Recurso Especial demanda exame de cláusulas contratuais e do contexto fático-probatório dos autos, inalcançáveis pelo STJ, ante o óbice erigido pelas Súmulas 5 e 7 desta Corte. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROFESSOR DA EDUCAÇÃO BÁSICA. EXIGÊNCIA EDITALÍCIA. SUFICIÊNCIA DA FORMAÇÃO EDUCACIONAL DA IMPETRANTE PARA O EXERCÍCIO DO MISTER. REEXAME DE MATÉRIA FÁTICA E CLÁUSULAS EDITALÍCIAS. SÚMULAS 7 E 5 DO STJ. PRINCÍPIO DA LEGALIDADE. SÚMULA 126/STJ. APLICAÇÃO.
+1. A desconstituição das premissas lançadas pela instância ordinária, acerca da suficiência da formação educacional da impetrante para o exercício do mister, na forma pretendida, demandaria o reexame de matéria de fato, bem como de cláusulas do edital, procedimentos que, em sede especial, encontram óbice nas Súmulas 7 e 5 do STJ, bem anotada pelo decisório agravado.
+2. Ademais, o Tribunal de origem, ao decidir a questão relativa ao direito de nomeação e posse da candidata impetrante, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+3. Agravo interno não provido.
+(AgInt no AREsp 1684667/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO PARA O PREENCHIMENTO DO CARGO DE MÉDICO NEONATOLOGISTA COM LOTAÇÃO NO HOSPITAL UNIVERSITÁRIO. ALEGADA VIOLAÇÃO DOS ARTS. 3o. E 41 DA LEI 8.666/1993. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. DOCUMENTAÇÃO APRESENTADA PELA CANDIDATA DE ACORDO COM AS EXIGÊNCIAS DO EDITAL. ALTERAÇÃO DO JULGADO QUE DEMANDA A ANÁLISE DO CONJUNTO FÁTICO PROBATÓRIO E DAS CLÁUSULAS EDITALÍCIAS DO CERTAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DA EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Ação Ordinária ajuizada pela ora recorrida em face da Universidade Federal de Alagoas - UFAL e da Empresa Brasileira de Serviços Hospitalares, objetivando compelir as rés a receberem o título de Especialista em Pediatria como documento suficiente à admissão no cargo para o qual logrou êxito no concurso público, no caso, Médico Neonatologista.
+2. Os dispositivos federais alvos de afronta não guardam pertinência com a matéria versada no presente feito, atraindo o óbice da Súmula 284/STF. Precedentes: REsp. 1.526.666/CE, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2016; AgRg no AREsp. 327.109/PA, Rel. Min. SÉRGIO KUKINA, DJe 19.5.2016.
+3. No mais, o acolhimento da tese recursal de que a candidata não teria apresentado documentação compatível com as exigências constantes do edital do certame reclama a apreciação dos elementos fáticos probatórios dos autos, bem como das cláusulas do edital do concurso, o que é inviável, ante ao óbice das Súmulas 5 e 7/STJ. Precedentes: AgInt no AREsp. 1.017.005/BA, Rel. Min. SÉRGIO KUKINA, DJe 7.3.2017; AgInt no AREsp. 792.160/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 15.12.2016.
+4. Agravo Interno da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH a que se nega provimento.
+(AgInt no AREsp 1414332/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
