@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTRELA INDUSTRIA E COMERCIO DE SUBPRODUTOS BOVINOS - EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE COBRANÇA EXCEÇÃO DE PRÉEXECUTIVIDADE MATÉRIA DE ORDEM PÚBLICA NÃO CONSTADA DILAÇÃO PROBATÓRIA IMPOSSIBILIDADE DECISÃO MANTIDA A UTILIZAÇÃO DA EXCEÇÃO DE PRÉEXECUTIVIDADE SOMENTE É PERMITIDA NOS CASOS EM QUE A OBJEÇÃO SEJA PASSÍVEL DE ANALISE DE OFÍCIO PELO MAGISTRADO ALUSIVA AOS PRESSUPOSTOS PROCESSUAIS CONDIÇÕES DA AÇÃO E VÍCIOS OBJETIVOS DO TÍTULO BEM COMO SOBRE A CERTEZA LIQUIDEZ E EXIGIBILIDADE ESSE VÍCIOS DEVEM SER FLAGRANTES DE MODO QUE INDEPENDA DE CONTRADITÓRIO OU DE DILAÇÃO PROBATÓRIA HIPÓTESE NÃO VERIFICADA NESTA SENDA RECURSAL RECURSO CONHECIDO E DESPROVIDO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 337 do CPC, no que concerne à inocorrência de preclusão, trazendo os seguintes argumentos:
+A presente questão versa sobre a decisão proferida no Agravo de Instrumento, cuja finalidade é reformar a decisão que não acolheu a exceção de pré-executividade protocolada.
+ ..
+ratando-se de matéria de ordem pública, devem ser analisadas de ofício pelo Juiz, não ficando sujeita à preclusão, por expressa redação do Art. 337 do CPC:
+ ..
+Desta forma, tratando-se de matéria prevista no Art. 337, deve ser admitida análise neste grau de jurisdição, conforme leciona a doutrina:
+ ..
+Portanto, requer seja acolhida a exceção de pré-executividade, pelos fundamentos que passa a dispor.
+ ..
+De acordo com a planilha juntada na exordial, a taxa de juros moratórios utilizada foi superior a 1% ao mês, e ainda se encontram na forma composta. Entretanto, ao verificar o cálculo apresentado, foi verificado que foi aplicada a capitalização mensal, e que a taxa de 12% ao ano não foi devidamente aplicada, uma vez que, multiplicando os dias em atraso pela taxa de juros diária informada no documento juntado, temos um resultado a menor dos juros aplicados.
+Ademais, "É vedada a capitalização de juros, ainda que expressamente convencionadas", numa referência ao Decreto 22.626 de 07.04.33 - art. 4º e Súmula 121 do STF.
+ ..
+Ademais, a imediata incidência e aplicação impõem-se face ao nítido objetivo de estancar os elencados níveis inflacionários. Entender de modo diverso importa em solapar pela base eventuais esforços, no sentido de conter a inflação. Ao Judiciário não pode servir de óbice à aplicação imediata do contido na Constituição Federal, o fato de o legislador ordinário, que nada pode acrescer à norma, demorar mais na regulamentação pela legislação ordinária. A cobrança de juros sobre juros, caracterizadora da prática de anatocismo, é vedada mesmo em se tratando de instituições financeiras.
+O § 3º do artigo 192 da Constituição Federal é de eficácia plena, por isso que contém, em seu enunciado, todos os elementos necessários à sua aplicação, sendo, pois, auto executável, e incidência imediata. Inequívoco é o enriquecimento ilícito da Exequente. Nobre julgador, insta esclarecer que o Executado, de forma alguma, pretendem usufruir ou obter vantagens em decorrência da matéria ora trazida à Vossa apreciação, porém o descalabro e ilegais exigências impostas pela Exequente devem ser considerados em favor dos Executados. O "animus" do pagamento sempre existiu. Inexiste, isto sim, boa - fé da Exequente que pretende impor normas, lançando valores e taxas inapropriadas para o presente feito, tornando inexequível seu pagamento.
+Ademais, em que pese a alegação do Exmo. Juizo a quo de que seria necessário dilação probatória contábil, tal fato não é verdade. É nítida a utilização de juros acima dos patamares legais (fls. 49/52).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
