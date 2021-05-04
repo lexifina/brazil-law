@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Fls. 474/484e - Trata-se de pedido de reconsideração da decisão de fls. 468/471e, mediante a qual declinei da competência paraa apreciação do presente recurso e determinei a devolução dos autos à Secretaria Judiciária, para reclassificação e redistribuição do feito a uma das Turmas que compõem a Segunda Seção, nos termos do art. 9º, caput e § 2º, I, II e XIV, do Regimento Interno desta Corte, registrando, ainda,possível conexão do presente feito com o Agravo em Recurso Especial n. 1.659.824/RJ, redistribuído, em 08.09.2020, à 4ª Turma desta Corte sob relatoria do Excelentíssimo Ministro Antonio Carlos Ferreira.
+Sustenta o Requerente, em síntese, que na ação originária, proposta em face de GAFISA S/A, objetiva, apenas, o reconhecimento de obrigação de fazer decorrente de ajuste verbal que teria composto o contrato de promessa de compra e venda, bem como não haveria relação direta da causa de pedir ou do pedido, com entrega de chaves.
+Pondera, que, nos termos do art. 71, § 4º, do Regimento Interno desta Corte, a prevenção só poderia ser alegada anteriormente ao início do julgamento e, no caso presente, haveria certificação quanto ao seu início, porquanto o Agravo Interno interposto nos presentes autosteria sido incluído na sessão virtual da 1ª Turma de 22 a 28.09.2020.
+Assevera que a incompetência relativa, à luz do disposto no art. 64 do Código de Processo civil de 2015 não poderia ser declarada de ofício.
+Por fim, requer a reconsideração do mencionadodecuisum(fls. 474/484e).
+Feito breve relatório, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sublinhe-se, de pronto, que o ato processual mediante o qual se determina a redistribuição interna dos autos é considerado pela jurisprudência como despacho e, portanto, irrecorrível.
+Com efeito, embora o Agravo Interno de fls. 323/338e tenha sido encaminhado para julgamento na sessão virtual da 1ª Turma desta Corte, realizada em 22 a 28.09.2020, o feito foi retirado de pauta (certidão de fl. 457e) e, posteriormente, ao analisá-lo conjuntamente com o Agravo em Recurso Especial n. 1.659.824/RJ, a mimencaminhado para verificação de prevenção (fl. 297e, daqueles autos), foi determinada sua redistribuição, nos termos do art. 9º, caput, e § 2º, I, II e XIV, do RISTJ, porquanto o presente feito versa sobre relação litigiosa regida por normas do Direito Privado (fls. 468/471e).
+Nessa linha, a jurisprudência desta Corte firmou-se no sentido de considerar irrecorrível o despacho que determina a redistribuição dos autos, consoante julgados, cujas ementas transcrevo:
+AGRAVO REGIMENTAL. DESPACHO QUE DETERMINA REDISTRIBUIÇÃO OU ATRIBUIÇÃO DOS AUTOS.IRRECORRIBILIDADE.
+É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes.
+Precedentes.
+Agravo regimental não conhecido.
+(AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 17/04/2013, DJe 25/04/2013).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESPACHO QUE DETERMINA A REDISTRIBUIÇÃO DO FEITO A UM DOS MINISTROS INTEGRANTES DA SEGUNDA SEÇÃO. AUSÊNCIA DE SUCUMBÊNCIA. IRRECORRIBILIDADE DO DESPACHO MERAMENTE ORDINATÓRIO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há qualquer sucumbência, material ou processual, que enseje a interposição do presente Agravo, sendo próprio da natureza do despacho, ademais, sua irrecorribilidade, uma vez meramente ordinatório, tratando- se, no caso, de determinação de redistribuição do feito a um dos Ministros integrantes da Segunda Seção. Precedentes: AgRg na Rcl 9.858/CE, Rel.Min. FELIX FISCHER, DJe 25.04.2013, e AgRg no REsp. 1.101.260/SP, Rel. Min. BENEDITO GONÇALVES, DJe 02.05.2011.
+2. Agravo Regimental não conhecido.
+(AgRg no REsp 1.370.823/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/05/2013, DJe 29/10/2013).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. COMPETÊNCIA INTERNA. DETERMINAÇÃO DA REDISTRIBUIÇÃO DOS AUTOS A TURMA DE OUTRA SEÇÃO DO STJ. ATO MERAMENTE ORDINATÓRIO. IRRECORRIBILIDADE.
+1. Despacho que determina a redistribuição dos autos, por ser ato meramente ordinatório, é irrecorrível.
+2. AGRAVO INTERNO NÃO CONHECIDO.
+(AgInt no AREsp 672.055/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/10/2016, DJe 10/11/2016).
+Posto isso, mantenho a decisão de fls. 468/471e,pelos próprios fundamentos.
+Publique-se eintimem-se.
