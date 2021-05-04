@@ -1,0 +1,39 @@
+SEGUNDA CÂMARA CÍVEL DE DIREITO PÚBLICO E COLETIVO
+Agravo de Instrumento no 1006380-10.2021.8.11.0000
+Agravante: Socil Sociedade de Comércio Imobiliário Ltda
+Agravado: Município de Rondonópolis
+Vistos.
+Trata-se de agravo de instrumento com pedido de efeito suspensivo interposto por Socil Sociedade de Comércio Imobiliário Ltda, por intermédio da Defensora Pública do Estado de Mato Grosso, em face da decisão proferida pelo juízo da Segunda Vara Especializada de Fazenda Pública da Comarca de Rondonópolis/MT, que, nos autos de execução fiscal n. 100714-61.2017.8.11.0003 movido em face do Estado de Mato Grosso, rejeitou o pedido de reconhecimento da nulidade da citação editalícia.
+Em apertada síntese, sustenta que foi realizada a citação editalícia “sem qualquer tentativa de localização da executada por meio dos sistemas disponíveis ao poder judiciário e sem qualquer expedição de ofícios às concessionárias de serviço público no intuito de tentar obter o atual paradeiro da executada” (id. 83642455, p. 02).
+Pontua que o Código de Processo Civil, em seu art. 256, § 3o, é expresso quanto à necessidade de realização de diligências prévias antes de se autorizar a adoção da citação ficta e que, sob sua ótica, “é nitidamente desnecessária a citação editalícia que, no caso, apenas visou cercear a ampla defesa da executada, que poderia constituir patrono de sua livre escolha para atuar em sua defesa, bem como deduzir outras matérias que não são de conhecimento desta curadoria especial” (id. 83642455, p. 06).
+Assinala que o edital de citação não indicou as datas e os números das inscrições nos Registros da Dívida Ativa, deixando de observar os requisitos previstos no art. 8o, inciso IV, da Lei n. 6.830/1980, o que dificulta a exata identificação do débito e sua origem, a comprometer, em última análise, o contraditório e a ampla defesa, ensejando nulidade insanável no ato citatório.
+Nessa esteira, defende a nulidade da citação, que trata de questão de ordem pública, passível de ser conhecida de ofício pelo julgador, sendo descabido cogitar a ausência de prejuízo, que é presumível na hipótese, porquanto as formalidades inobservadas referem-se à própria essência do ato.
+Ressalta que a decisão censurada é apta a causar à parte lesão grave e de difícil reparação, na medida em que se determinou o prosseguimento do feito mesmo diante de ato citatório nulo, podendo a qualquer momento o executado ter o seu patrimônio atingido, a tornar impositiva a concessão do efeito suspensivo ao presente agravo.
+Pautado nesses argumentos, requer seja concedido efeito suspensivo ao presente recurso, para o fim de sobrestar o trâmite do processo executivo até o julgamento deste agravo.
+No mérito, pretende o conhecimento e provimento do recurso para reformar a decisão combatida e declarar a nulidade do ato citatório realizado no processo executivo, com a intimação da exequente para esgotar as diligências necessárias à efetiva localização da devedora.
+É o que merece registro. Decide-se.
+Inicialmente, para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal em sede de agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos arts. 300, 932, inciso II, 995, parágrafo único, e 1.019, I, CPC:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; (...)”.
+“Art. 932. Incumbe ao relator: (...)
+II - apreciar o pedido de tutela provisória nos recursos e nos processos de competência originária do tribunal;”.
+(...)
+“Art. 995. (...)
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”. (grifou-se)
+No caso, quanto à determinação da citação editalícia, não se verifica, a princípio, relevante fundamentação no que diz com a alegada desnecessidade da medida, tampouco risco de lesão grave e de difícil reparação, senão estrita observância ao quanto dispõe a Lei de Execução Fiscal e a Súmula 414 do Superior Tribunal de Justiça.
+Dos autos da ação de base, consta que o Município de Rondonópolis ingressou com execução fiscal em desfavor de Socil Sociedade de Comércio Imobiliário Ltda, almejando o recebimento de crédito tributário inscrito nas Certidões de Dívida Ativa (CDAs) enumeradas na peça inicial, que perfazem o valor total de R$ 123.289,05 (trinta e seis mil, onze reais e cinquenta e nove centavos), referente à falta de pagamento de IPTU dos anos de 2013, 2014 e 2015.
+Durante a tramitação dos autos, o magistrado de primeira instância determinou a citação da parte devedora via correio e, uma vez infrutífera a diligência, requereu a Fazenda Pública a suspensão dos autos sucessivas vezes, para a realização de procedimentos administrativos, tais como pesquisa de endereço ou busca de bens penhoráveis do devedor.
+Na sequência, a Fazenda Pública requereu a citação via edital, que foi deferida (id. 83642456, p. 421) e realizada, vindo a ser certificado o transcurso do prazo legal sem que houvesse qualquer manifestação da executada.
+Nesse compasso, tendo sido nomeada curadora especial da parte executada, a Defensoria Pública apresentou exceção de pré-executividade, reclamando a decretação da nulidade da citação editalícia (id. 83642456, pp. 553-562), o que veio a ser rejeitado pelo magistrado de origem, que manteve a regularidade da citação.
+Contra referida decisão, interpôs a Defensoria Pública o presente agravo de instrumento, pretendendo a nulidade do ato processual em questão, apresentando os argumentos já abordados no relatório.
+Em que pese os argumentos ventilados no agravo, relativamente à incompletude do edital de citação lançado, mais precisamente pela falta, unicamente, da data de inscrição no Registro da Dívida Ativa, nota-se que o magistrado singular somente determinou a citação por edital após as tentativas frustradas do ato pelo correio, o que, a princípio, impõe a necessidade de uma melhor avaliação acerca da pretensão recursal.
+No caso, diferente do assinalado pela parte recorrente, houve exaurimento das modalidades disponíveis para a realização do ato processual de comunicação do devedor, na medida em que frustrada a citação por carta, circunstância que autoriza a citação por edital, do que nem se cogite em falar, à primeira vista, em violação da Súmula n. 414 do STJ, segundo a qual “a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades”.
+Como observado, para além da simples falta da data do Registro da Dívida Ativa na citação por edital, por si só, não macular o ato citatório, por se tratarem de autos digitais, a parte executada, ao tomar conhecimento do feito, pode consultá-lo, mediante acesso ao sistema PJE, em que se faz presente a própria CDA, com a descrição da data e o número da inscrição do débito no Registro da Dívida Ativa.
+Assim, nesta fase de cognição sumária, tão somete recebo e determino o processamento do presente agravo, sem deferir, contudo, a pretensão recursal antecipada.
+Intime-se a parte agravada, para, querendo, apresentar contrarrazões no prazo legal.
+À Procuradoria-Geral de Justiça para emissão de parecer sobre a temática controvertida.
+Cumpra-se.
+Cuiabá, 03 de maio de 2021.
+Alexandre Elias Filho
+Relator Convocado
