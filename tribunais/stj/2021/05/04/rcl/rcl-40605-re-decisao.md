@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FFE CONSTRUCOES, INCORPORACOES E PARTICIPACOES LTDA e CONSTRUTORA ALAVANCA LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 1.929):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. DIVERGÊNCIA ENTRE ACÓRDÃO DE TURMA RECURSAL E PRECEDENTE DO STJ. COMPETÊNCIA. CORTE LOCAL. RESOLUÇÃO STJ N. 3/2016.
+1. A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação a processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22, de 16/03/2016.
+2. Conforme prevê a Resolução STJ n. 3/2016, a partir de 7 de abril de 2016, é da competência das Câmaras Reunidas ou da Seção Especializada dos Tribunais de Justiça a apreciação de reclamação destinada a dirimir divergência entre acórdão prolatado por Turma Recursal e a jurisprudência do STJ.
+3. Agravo interno não provido.
+Os aclaratórios opostos foram rejeitados (e-STJ fls. 1.988-1.993).
+Sustentam as recorrentes a existência derepercussão geral da matéria debatida, consubstanciada na ocorrência de violação do art. 93, inciso IX, da Constituição Federal.
+Afirmam a existência de "silêncio absoluto em relação às teses defensivas que são plenamente capazes de alterar a conclusão do julgado" (e-STJ fl. 2.004).
+Ponderam que "o acórdão guerreado não está minimamente fundamentado nos pontos invocados pelas recorrentes, tornando-o nulo de pleno direito" e destacam que a "decisão é padronizada e genérica, não se amoldando às circunstâncias do caso concreto" (e-STJ fl. 2.010).
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas (e-STJfl. 2.052).
+É o relatório.
+De plano, observa-se que a insurgência não comporta seguimento.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura dojulgadoquestionado, constata-se que foram declinadas as razões pelas quais o agravo interno das ora recorrentes não foi provido, não havendo que se falar em ausênciaou deficiência na motivação do aresto combatido, valendo destacar os seguintes excertos, in verbis (e-STJ fls. 1.931-1.933):
+A presente reclamação foi ajuizada pelas ora agravantes com fundamento no art. 988, I e IV, do CPC/2015, sob o argumento de que a Turma Recursal deixou de aplicar o Tema 938 dos recursos especiais repetitivos.
+Ocorre que, consoante salientado na decisão agravada, a Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação a processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22, de 16/03/2016.
+Outrossim, na apreciação de questão de ordem suscitada no julgamento do AgRg na Rcl 18.506/SP, a Corte Especial do STJ aprovou a Resolução STJ n. 3/2016, a qual prevê que, a partir de 7 de abril de 2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para aapreciação das Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça.
+Assim, considerando que a presente reclamação foi protocolada em 14/08/2020, quando já em vigor a mencionada Resolução n. 3/2016, não mais subsiste a competência desta Corte para a sua apreciação.
+(..)
+Saliente-se, finalmente, que, conforme o entendimento deste Sodalício, "o insucesso de reclamação anterior pelo Tribunal estadual não rende ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal, sendo defesa a pretensão de, por via reflexa, ver analisada por esta Corte Superior a reclamação contra uma decisão de mérito proferida por Juízo do Juizados Especial Cível" (AgInt nos EDcl na Rcl 39.657/SP, 2ª Seção, DJe 22/06/2020).
+Assim, em conclusão, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7. Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
