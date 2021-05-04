@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especialmanejado pela Fundo Nacional de Desenvolvimento da Educação, com base no art. 105, III,a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 48):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. LEGITIMIDADE PASSIVA DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE.
+No caso dos autos, o exame da ação de origem permite verificar que o título executivo judicial contempla tanto a União quanto o FNDE como executados, razão pela qual deve referido Fundo permanecer no polo passivo do cumprimento de sentença.
+Os embargos declaratórios opostos, foram rejeitados (fls. 73/76).
+A parte recorrente aponta violação aos arts. 1.022, II, do CPC/15e 502, 503 e 505 do CPC.Sustenta que a despeito dos aclaratórios, o Tribunal de origem quedou-se silente sobre a "restituição limitada a 50% (pro rata), já que o título não fixou o percentual de cada ente público. Nesse sentido, sob o viés normativo, olvidou de apreciar a incidência do disposto nos arts. 502, 503 e 505 do CPC (coisa julgada e restituição pro rata)" (fl. 87) e (II) "se a sentença exequenda não definiu o quantum da responsabilidade atribuída a cada um dos litisconsortes passivos (FNDE e União), deveria o acórdão recorrido ter-se limitado à distribuição pro rata da responsabilidade pela devolução do indébito, e não atribuir, ao FNDE, o encargo pela restituição de 99% do montante recolhido a título de salário-educação" (fl. 88).
+Contrarrazões apresentadas às fls. 94/95, postulando o desacolhimento do apelo raro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida peloart. 1.022, II, do CPC/2015, pois a parte recorrente, com o objetivo de ver sanada a omissão, opôs embargos declaratórios, nesse sentido(fls. 64/65):
+A imposição da devolução de 99% das contribuições cobradas, ofende os dispositivos legais que versam sobre a coisa julgada, especificamente os artigos 502, 503, caput, e 505, caput, do CPC, que dispõem o seguinte:
+ ..
+Ora, se a sentença exequenda não definiu o quantum da responsabilidade atribuída a cada um dos litisconsortes passivos (FNDE e União), deveria o acórdão recorrido ter-se limitado à distribuição pro rata da responsabilidade pela devolução do indébito, e não atribuir ao FNDE o encargo pela restituição de 99% do montante recolhido a título de salário-educação.
+Contudo, o Tribunal de origem quedou silente sobre a tese ventilada quanto à aplicação dos arts. 502, 503 e 505 do CPC, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022, II, do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação ao art. 1.022, II, do CPC/2015, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial (REsp 1.185.288/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJe 17/5/2010).
+ANTE O EXPOSTO,dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022, II, do CPC/2015, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
