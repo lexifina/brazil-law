@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por Thomaz Moreira Lara,com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 133):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CERTIDÃO DE DÍVIDA ATIVA. VALIDADE. PREENCHIMENTO DOS REQUISITOS DOS ARTIGOS 202 DO CTN E 2º, §52, DA LEF. IDENTIFICAÇÃO DO SUJEITO PASSIVO DA OBRIGAÇÃO TRIBUTÁRIA, ORIGEM E NATUREZA DO CRÉDITO. AUSÊNCIA DE NUUDADE.
+A Imposição de requisitos que deverão constar da Certidão de Dívida Ativa, segundo o artigo 202 do CTN e o artigo 2º, §52, da LEF, visa a facilitar o direito de defesa do devedor, de sorte que eventual inexatidão ou falha constante do título executivo, quando não privar ou dificultar a defesa do executado, não dá ensejo - o que seria mero formalismo - à declaração de nulidade, à luz do princípio da instrumentalidade dos atos processuais. Hipótese em que das CDAs constou a discriminação do principal, correção monetária e multa, com indicação dos dispositivos legais em que fundados e apontamento dos números dos autos de lançamento respectivos.
+IPVA. DESNECESSIDADE DE NOTIFICAÇÃO PESSOAL OU INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO. PRECEDENTESJURISPRUDENCIAIS. O IPVA é tributo de
+lançamento direto, cuja constituição definitiva ocorre na data de vencimento em cada exercício financeiro, sendo desnecessária a instauração de processo administrativo, bastando a remessa do documento de cobrança da exação ao endereço do contribuinte, com o que, não havendo pagamento, autorizada estará a inscrição em dívida ativa.
+MULTA E EXCESSO DE EXECUÇÃO.
+Não é confiscatória a multa fixada em ocorrespondente à metade do valor principal dotributo.RECURSO DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls.191/198.
+A parte recorrente aponta, além da divergência jurisprudencial, violação aos arts. 2º, §5º, III, da LEF e 203 do CTN. Sustenta, em resumo, que "se constata a nulidade da CDA ante a ausência da indicação específica do exercício cobrado do IPVA, bem como na falta de especificação do veículo cuja propriedade gerou a dividida, não permitindo a exata compreensão da origem da dívida exequenda, devendo ser a execução fiscal ser extinta" (fl. 218).
+Contrarrazões apresentadas às fls. 242/245, postulando o não conhecimentodo apelo raro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação no aresto impugnado (fls. 137/139):
+Saliento, outrossim, que a imposição de requisitos que deverão constar da Certidão de Dívida Ativa, segundo o artigo 202 do CTN e o artigo 2º, §5º, da LEF, visa a facilitar o direito de defesa do devedor, de sorte que eventual inexatidão ou falha constante do títuloexecutivo, quando não privar ou dificultar a defesa do executado, não dá ensejo - o que seria mero formalismo - à declaração de nulidade, à luz do princípio da instrumentalidade dos atos processuais. E, no caso, como antes mencionado, inexiste nulidade nas CDA"s em execução.
+ ..
+Reporto-me, no particular, ao que adiantei no provimento inicial, a que me referi linhas antes: "(..) no que se refere à nulidade dos títulos, pela análise das CDA"s (fls. 40/41@), em tese, vê-se que houve a indicação precisa do dispositivo legai que embasou o crédito e a fixação da muita e atualização monetária (Leis nºs 8.115/85, 6.537/73 e 8.913/89), bem como consta a data do auto de lançamento e da inscrição, portanto, por ora, não constato verossimilhança nas alegações do agravante a amparar juízo de suspensividade da execução. (..)".
+Destaco que nas CDAs há perfeita discriminação do que seria o principal, da correção monetária e da multa, correspondente a 50% do valor do débito, com indicações das disposições legais aplicáveis.Obviamente, ainda, a multa há de incidir sobre o valor do principal atualizado, até porque a correção monetária, como sabido, nem configura acréscimo da dívida, senão que simples fator de sua identidade no tempo.
+O mais, diria apenas com operações aritméticas, de sorte que dúvida alguma poderia ter o exequente, a partir do que constou das CDAs, quanto ao modo como calculados os tributos.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origemacerca do cumprimento dos requisitos legais pela CDA, tal como colocada aquestão nas razões recursais, demandaria, necessariamente, novo exame doacervo fático-probatório constante dos autos, providência vedada emrecurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EXECUÇÃOFISCAL. VALIDADE DA CDA. PRESENÇA DOS REQUISITOS LEGAIS ATESTADA PELOTRIBUNAL DE ORIGEM. MODIFICAÇÃO DO JULGADO QUE REQUER O REEXAME DE PROVAS.PARCELA INDEVIDA. MERO CÁLCULO ARITMÉTICO. EXIGIBILIDADE PARCIAL DO VALORINSCRITO NA DÍVIDA ATIVA. AUSÊNCIA DE NULIDADE DO TÍTULO. AGRAVO INTERNODA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1.  ..
+2. É entendimento pacífico nesta egrégia Corte Superior de que oenfrentamento de questão relacionada à verificação do preenchimento dos
+requisitos legais da Certidão de Dívida Ativa-CDA implica,necessariamente, o revolvimento do acervo fático-probatório dos autos, oque encontra óbice na Súmula 7/STJ.
+3. A jurisprudência desta Corte entende pela possibilidade de alteração daCDA, desde que haja simples operação aritmética para expurgar a parcelaindevida, como no presente caso, em que houve apenas a adequação nocálculo dos juros de mora (substituição para a Selic).
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AREsp 1.254.709/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA TURMA, julgado em 31/8/2020, DJe 4/9/2020)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
