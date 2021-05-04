@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Whirlpool S.A. em face de decisão que deu provimento ao recurso especial interposto pela União, para denegar a segurança, tendo em vista que o acórdão recorrido não está em consonância com o entendimento do Superior Tribunal de Justiça ao excluir da base de cálculo da contribuição do Fundo de Garantia do Tempo de Serviço(FGTS) os valores concernentes à assistência médica paga aos funcionários da ora embargante.
+A embargante, em suas razões, sustenta que o caráter não salarial daassistência médica paga aos funcionários leva à conclusão de que a referida verba não deve compor a base de cálculo do FGTS. Aduz, ainda, que a decisão embargada, ao incluir a assistência médica na base de cálculo da contribuição, omitiu-se "em relação ao conteúdo do art. 195, I, "a" da CF/88, o qual aponta que as contribuições previdenciárias podem incidir sobre a remuneração advinda do trabalho." (fl. 264).
+Pugna, pois, pelo acolhimento dos embargos de declaração, a fim de sanar a omissão apontada.
+A parte embargadaapresentou impugnou (fls. 267/270), na qual solicita a rejeição dos aclaratórios.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada que, nos termos da jurisprudência do Superior Tribunal de Justiça, assim como a disposição contida noart. 15, § 6º, da Lei 8.036/90, estão excluídas doconceito de remuneração, para fins de incidência do FGTS, somente as parcelas previstas no § 9º do art. 28 da Lei n. 8.212/91.
+Ressaltou-se, ainda, que,somente a partir da vigência da Lei n. 13.467/2017, a parcela relativa ao plano de saúde deixou de integrar a base de cálculo do FGTS.Assim, tendo em vista que a parcela impugnada por meio do mandamus diz respeito ao ano de 1995, deve ser reformado o acórdão recorrido, que excluiu a referida verba da base de cálculo do FGTS.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
