@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de agravo interposto por CLUB ATHLETICO PARANAENSE, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 206):
+APELAÇÕES CÍVEIS. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. CONTROLE PELO JUDICIÁRIO. POSSIBILIDADE. NÃO CONSTATAÇÃO, ENTRETANTO, DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO FRENTE ÀS CIRCUNSTÃNCAIS ENVOLVIDAS. IMPROCEDÊNCIA DOS PEDIDOS EXORDIAIS. SUCUMBÊNCIA. VERBAS DEVIDAMENTE FIXADAS. RECURSOS CONHECIDOS E DESPROVIDOS.
+Opostos embargos de declaração pelo recorrido (fls. 223-233), foram rejeitados (fls. 299-306).
+Nas razões do recurso especial (fls. 335-349), aponta a parte recorrente ofensa ao disposto no art. 20, §§ 3º e 4º, do Código de Processo Civil de 1973.
+Em apertada síntese, requer a majoração dos honorários advocatícios de sucumbência, aduzindo que"o acórdão recorrido arbitrou honorários de sucumbência desproporcionais ao valor da causa, representando apenas 7,31% deste."
+Contrarrazões ao recurso especial às fls. 371-378.
+É o relatório.
+DECIDO.
+2. No que se refere aos honorários advocatícios de sucumbência, a Corte de origem consignou (fls. 219-220):
+O valor dos honorários advocatícios, fixado em R$ 3.000,00 (três mil reais), observou as circunstâncias da causa, sobremodoo tempo de serviço exigido aos patronos, a complexidade da causa, e a desnecessidade de produção de provas de alta complexidade técnica.
+Somente em hipóteses excepcionais, de valor manifestamente exagerado ou ínfimo, é que esta Corte revisa a fixação da verba honorária. No caso, a discussão acerca do quantum da verba honorária encontra-se no contexto fático-probatório dos autos, o que obsta o revolvimento do valor arbitrado nas instâncias ordinárias pelo Superior Tribunal de Justiça, consoante entendimento da Súmula 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE AFRONTA AOS ARTS. 165 E 458 DO CPC. FALTA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284/STF. CERCEAMENTO DE DEFESA. CONDUTA ILÍCITA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR RAZOÁVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A alegação genérica de ofensa a lei federal, sem que haja especificação do dispositivo legal supostamente violado, atrai a incidência da Súmula n. 284/STF.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem examinou as peculiaridades fáticas do caso e concluiu pela inexistência tanto de cerceamento de defesa quanto de conduta ilícita a ensejar a reparação civil requerida. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC) revela-se, em princípio, inviável no âmbito do recurso especial, em virtude da vedação erigida pela Súmula n. 7/STJ.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 184.310/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/03/2014, DJe 31/03/2014). - Grifamos
+_____________
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. TABELA DA OAB. NATUREZA ORIENTADORA, E NÃO VINCULATIVA. ANÁLISE EQUITATIVA DO JUIZ. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Conflito aparente de normas em que figura de um lado o princípio do livre convencimento motivado do juiz e de outro, dispositivo da Lei 8.906/94, que vincula o valor da atividade contratada à tabela editada pela seccional da OAB, devendo prevalecer, naturalmente, o princípio que rege a sistemática processual brasileira, também prestigiado na norma que está a merecer modulação."  REsp
+799.230/RS, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 10/11/2009, DJe de 1º/12/2009
+2. O reexame dos critérios fáticos, sopesados de forma equitativa e levados em consideração pelas instâncias ordinárias para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial (enunciado sumular n. 7 do STJ), salvo em situações em que o valor arbitrado, a considerar as peculiaridades do caso, encerre flagrante irrisoriedade ou exorbitância, o que não se evidencia no caso concreto.
+3. Agravo regimental não provido. (AgRg no REsp 1098034/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/11/2013, DJe 26/11/2013). - Grifamos
+_____________
+PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS EM FASE DE CUMPRIMENTO DE SENTENÇA. FIXAÇÃO COM BASE NO ART. 20, §4º, DO CPC. REVISÃO. ÓBICE DA SÚMULA N.º 07 DO STJ. INAPLICABILIDADE APENAS QUANDO O VALOR É CONSIDERADO IRRISÓRIO OU EXCESSIVO.
+1. A condenação em honorários se deu em fase de cumprimento de sentença, razão pela qual é inaplicável o limite de 10% (dez por cento) estabelecido no art. 20, §3º, do CPC, incidindo o art. 20, §4º do mesmo diploma legal. Precedente: REsp. n. 1.028.855 / SC, Corte Especial, Rel. Min. Nancy Andrighi, 27.11.2008.
+2. Salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. In casu, além de os honorários não terem sido fixados em patamar exorbitante ou irrisório, não foram abstraídos pela Corte de Origem os aspectos fáticos necessários para uma nova apreciação da verba honorária. Desse modo, não cabe a revisão em sede de recurso especial.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1379752/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/11/2013, DJe 12/11/2013). - Grifamos
+_____________
+Ressalte-se, ainda, que na verba honorária arbitrada com base na regra da equidade do antigo CPC, o julgador não está adstrito a nenhum critério, como os limites inscritos no art. 20, § 3º, do CPC/1973, podendo valer-se de percentuais tanto sobre o montante da causa quanto sobre o da condenação, bem como fixar os honorários em valor determinado.
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
