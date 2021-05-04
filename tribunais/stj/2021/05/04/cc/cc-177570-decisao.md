@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o Juiz Federal da 1ª Vara de Campo Mourão e a Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná, nos autos da Ação Ordinária ajuizada por Elvira Francisca Rafael de Oliveira em face do Estado do Paraná em busca do fornecimento dos medicamentos VELIJA 30 MG, QUETRUS 25 MG e ETNA.
+Em Apelação, a Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná determinou a remessa dos autos à Justiça Federal, declarando sua incompetência.
+O Juízo Federal, por sua vez, decidiu (fl. 210, e-STJ):
+(..) reconheço a ilegitimidade passiva da União e determino a sua exclusão do polo passivo do feito.
+3. Em regra, excluído o ente federal da lide, cabe ao Juiz Federal apenas devolver o processo à Justiça Estadual, nos termos do §3º do art. 45 do CPC e das Súmulas 150 e 224 do STJ.
+O Ministério Público Federal, levando em consideração existir jurisprudência dominante, no âmbito do STJ, opinou pela competência da Justiça Estadual.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de abril de 2021.
+Conheço do Conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, a teor do que preceitua o art. 105, I, "d", da Constituição da República.
+Inicialmente, convém registrar que o Supremo Tribunal Federal, no julgamento do RE 855.178/SE, apreciado sob o Regime de Repercussão Geral e vinculado ao Tema 793/STF, firmou a tese de que "o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, sendo responsabilidade solidária dos entes federados, podendo figurar no polo passivo qualquer um deles em conjunto ou isoladamente."
+Assim, tratando-se, in casu, de responsabilidade solidária dos entes federados, concluiu o Juízo Federal pela inexistência de litisconsórcio passivo necessário da União - em relação à qual a ação não fora inicialmente ajuizada - e pela sua ilegitimidade passiva, excluindo a União do feito, pelo que se declarou incompetente, determinando a remessa dos autos à Juízo Estadual.
+Nos termos do art. 109, I, da Constituição Federal, compete aos juízes federais processar e julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Sobre o tema a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que "a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, é fixada, em regra, em razão da pessoa (competência ratione personae), levando-se em conta não a natureza da lide, mas, sim, a identidade das partes na relação processual" (STJ, CC 105.196/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 22/02/2010).
+No caso em exame, como o Juízo Federal, em decisão não recorrida, reconheceu, expressamente, a inexistência de litisconsórcio passivo necessário da União, no caso, concluindo pela sua ilegitimidade passiva e determinando o retorno dos autos à Justiça Estadual, caso é de ser declarada a competência do Juízo Estadual para o processo e o julgamento da demanda, nos termos das Súmulas 150, 224 e 254 do STJ, que assim prescrevem:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas pública (Súmula 150/STJ);
+Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito (Súmula 224/STJ); e
+A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual(Súmula 254/STJ).
+Recentemente, o STJ, instado a decidir sobre o assunto, assim tem se manifestado:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. SÚMULA 7/STJ AFASTADA. OBRIGAÇÃO SOLIDÁRIA. LEGITIMIDADE DO ESTADO-MEMBRO. ORIENTAÇÃO RATIFICADA PELO STF. TEMA 793/STF. RECURSO NÃO PROVIDO.
+1. No caso, não houve controvérsia nos autos sobre o fato de o recorrente efetivamente necessitar do uso da medicação que lhe foi prescrita. A recusa apresentada pelo ente público em fornecê-la fundamentou-se nos critérios de repartição das responsabilidades administrativas entre os entes federativos que integram o SUS. Em tal contexto, a discussão travada no apelo especial possui natureza eminentemente de direito, devendo-se afastar o óbice da Súmula 7/STJ.
+2. É pacífico na jurisprudência o entendimento segundo o qual a União, os Estados, o Distrito Federal e os Municípios possuem responsabilidade solidária nas demandas prestacionais na área de saúde, o que autoriza que sejam demandados isolada ou conjuntamente pela parte interessada.
+3. A ressalva contida na tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando estabelece a necessidade de se identificar o ente responsável a partir dos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde. Entender de maneira diversa seria afastar o caráter solidário da obrigação, o qual foi ratificado no precedente qualificado exarado pela Suprema Corte.
+4. Agravo interno a que se nega provimento (STJ, AgInt no REsp 1.043.168/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/03/2020).
+Ante o exposto, conheço do Conflito para declarar competente a Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná, ora suscitada.
+Publique-se.
+Intimem-se.
