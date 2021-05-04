@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONSÓRCIO CAMARGO CORRÊA  MENDES JÚNIOR, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/07/2019.
+Concluso ao gabinete em: 28/04/2021.
+Ação: ação de restituição ajuizada por CONSÓRCIO CAMARGO CORRÊA - MENDES JÚNIOR, em face de MASSA FALIDA DE SINGULARE PRÉ-MOLDADOS EM CONCRETO LTDA, na qual se requereu a restituição de peças pré-moldadas, sapata e vergalhões de ação entregues antes da decretação da falência da agravada.
+Sentença: julgou improcedente o pedido de restituição formulado pela requerente.
+Acórdão: negou provimento à apelação, nos termos da seguinte ementa
+FALÊNCIA - PEDIDO DE RESTITUIÇÃO - Impossibilidade Jurídica do pedido - Materiais fornecidos pela apelante para cumprimento de contrato de fabricação de produto encomendado à empresa ora falida - Alegação de pagamento em 11/3/2016 que se deu após o decreto de falência (24 de fevereiro de 2016) à contratada, empresa do mesmo grupo econômico que teve estendido contra ela os efeitos falimentares Impossibilidade de identificar a propriedade dos materiais (aço) encontrados pela autora em sua diligência no estabelecimento da apelada Singulare - Bens que devem ser mantidos arrecadados em poder da massa falida para satisfação da universalidade de credores - Impossibilidade jurídica de restituição dos produtos finalizados (paredes e sapatas) - Inadimplemento de contrato bilateral pela empresa ora falida - Diverso o procedimento adequado para constituir título de crédito ou pretensão ao cumprimento pela massa falida (LREF, arts. 117-119) - Tradição simbólica inocorrente (nota fiscal em 9 de março de 2016 pela Camargo C ampos) - Pagamento em 11/3/2016 que se deu após o decreto de falência (24 de fevereiro de 2016) à contratada, empresa do mesmo grupo econômico que teve estendido contra ela os efeitos falimentares - Necessidade de arrecadação do valor caucionado se os bens não puderem retornar à massa falida - Recurso não provido, com observação.
+PROCESSO CIVIL Art. 10 do CPC15 Inaplicabilidade da vedação, tendo a parte contribuído exaustivamente ao convencimento dos integrantes da Turma Julgadora, após debates e de conhecimento dos fundamentos do voto do Relator Designado que ora integram o presente acórdão Recurso não provido, com observação.
+Dispositivo: negaram provimento ao recurso e extinguiram o processo sem resolução de mérito por impossibilidade jurídica do pedido, com observação.
+Embargos de Declaração: foram parcialmente acolhidos os embargos apenas para correção do erro material na tira de julgamento e rejeitaram-se os demais fundamentos suscitados.
+Recurso especial: a parte recorrente sustentou dissídio jurisprudencial e violação aos arts. 10, 141, 489, §1º, IV, 1.013, § 1º e 1.022, II, do CPC/15, sob os seguintes argumentos:
+a) arts. 489, §1º, IV e 1.022 do CPC/15, a parte recorrente aponta que o acórdão recorrido foi omisso, pois i) não houve indicação das provas que levaram à conclusão da existência de outros bens em estoque passíveis de serem confundidos com os que estavam sendo reclamados pelo Recorrente; ii) que o contrato entabulado entre as partes é de empreitada e não de compra e venda.
+b) art. 10 do CPC/15, a recorrente afirma que não tivera oportunidade de se manifestar acerca da tese da impossibilidade jurídica do pedido, porque estranha à controvérsia.
+c) arts. 141, 1.013, § 1º do CPC/15, aduzindo que o Tribunal a quo julgou a lide para além dos limites traçados pelas partes, o que acarreta a nulidade do julgado.
+d) dissídio jurisprudencial quanto à aplicação do art. 10 do CPC/15.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+1. Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Ademais, no particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente às fls. 244/255 (e-STJ) acerca da impossibilidade da concessão do pedido de restituição, indicando justamente a ausência de acervo probatório para se concluir que o material encontrado na sede da empresa agravada era o mesmo que o pedido de restituição se referia, tendo se pronunciado nestes termos (e-STJ, fl. 251):
+Não há como saber se os bens retirados são produtos já beneficiados pela falida e não entregues, descumprindo o contrato entre as partes ou se são partes idênticas àquelas constantes das notas de fornecimento enviado por terceiros para a finalização contratada à falida.
+Em suma, apesar da extensa especificação contida no pedido inicial e no contrato firmado entre as partes, não cuidou a autora de apresentar a dimensão das sapatas, das paredes e as medidas do aço relativamente ao material retirado das instalações ocupadas pela massa falida.
+(..)
+Não havendo como identificar a propriedade dos materiais (aço) encontrados pela autora em sua diligência no estabelecimento da Singulare, resta concluir que os bens devem ser mantidos arrecadados em poder da massa falida para satisfação da universalidade de credores, não sendo possível beneficiar a autora em detrimento de tantos outros fornecedores e contratantes que mantiveram relações contratuais durante o exercício da atividade da hoje falida.
+Da mesma forma, a natureza do contrato foi levada em consideração para se concluir que, em face do inadimplemento pela agravada, o meio processual adequado para perseguir o recebimento dos débitosera os previstos nos arts. 117-119 da LREF, e não o pedido de restituição como utilizado pela ora recorrente (e-STJ, fl. 252).
+Assim, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos art. 489 e 1.022 do CPC.
+2. Da ausência de prequestionamento
+No tocante à apontada violação aos arts. 141 e 1.013, § 1º do CPC/15, cabe esclarecer que o acórdão recorrido não decidiu acerca dos referidos dispositivos legais, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+3. Da fundamentação deficiente e da existência de fundamento não impugnado
+Os argumentos invocados pelos agravantes não demonstram como o acórdão recorrido teria violado o art. 10 do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Ademais, o acórdão recorrido foi expresso em considerar que "Tendo a parte contribuído exaustivamente para o convencimento da Turma Julgadora após inteirar-se das razões que ora integram este acórdão, inaplicável a vedação contida no art. 10 do CPC/15" (e-STJ, fls. 255).
+Cabe salientar sobre o tema, ainda, que o acórdão recorrido, ao entender que o meio juridicamente adequado para a persecução do inadimplemento contratual não era o presente pedido de restituição, mas sim as ações previstas nos arts. 117-119 da LREF, utilizou-se de fundamento que restou inatacado pela parte agravante nas razões do recurso especial. Aplica-se, na hipótese, a Súmula 283/STF.
+4. Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "Não há como saber se os bens retirados são produtos já beneficiados pela falida e não entregues, descumprindo o contrato entre as partes ou se são partes idênticas àquelas constantes das notas de fornecimento enviado por terceiros para a finalização contratada à falida", bem como de que "Por não ter sido entregue, a coisa arrecada nunca esteve sob o domínio do autor (ação real reivindicatório), nem se concedeu em momento nenhum direito ao autor à sua reivindicação ao reivindicante por relação de obrigação (ação pessoal restitutória)", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALÊNCIA. PEDIDO DE RESTITUIÇÃO.
+OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283 DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de restituição em razão da decretação de falência.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211/STJ).
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema (Súmula 284/STF).
+5. Os argumentos do agravante não são suficientes para impugnar osfundamentos do acórdão impugnado (Súmula 283/STF).
+6. O reexame de fatos e provas em recurso especial é inadmissível (Súmula 7/STJ).
+7. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
