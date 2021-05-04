@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “AÇÃO DE COBRANÇA – CPTM x CLARO S/A - CONTRAPRESTAÇÕES DECORRENTES DE TERMOS DE PERMISSÃO DE USO FIRMADOS PARA IMPLANTAÇÃO/MANUTENÇÃO DE REDES DE CABOS DE TELECOMUNICAÇÕES - IMPOSSIBILIDADE - INTELIGÊNCIA DO ART. 12, DA LEI Nº 13.116/2015 - MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO INICIAL DA CPTM E PROCEDÊNCIA DA RECONVENÇÃO - RECURSO DA CPTM DESPROVIDO”.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXII e XXXVI; e 18 da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “Tal artigo veda a contraprestação em razão do direito de passagem em vias públicas, em faixas de domínio e em outros bens públicos de uso comum do povo, ainda que esses bens ou instalações sejam explorados por meio de concessão ou outra forma de delegação, excetuadas aquelas contraprestações cujos contratos decorram de licitações anteriores à data de promulgação da norma, o que não é o caso dos autos.
+    (...)
+    Ressalte-se que embora a Lei nº 8.987/951 permita à autora/reconvinda a cobrança pela exploração de bens de seu domínio, é certo que tal previsão não se aplica à ré/reconvinte, ante a natureza dos serviços que presta.
+    Nesse sentido o entendimento do E. STF, nos autos do RE 581.947/RO (Tema 261), supracitado (‘É inconstitucional a cobrança de taxa, espécie tributária, pelo uso de espaços públicos dos municípios por concessionárias prestadoras do serviço público de fornecimento de energia elétrica’).
+    Contudo, não há que se falar em ato jurídico perfeito nos contratos de permissão de uso, posto que firmados em afronta à legislação federal, como acima exposto”.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 4 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
