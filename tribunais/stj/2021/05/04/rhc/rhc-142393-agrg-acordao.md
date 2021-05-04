@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. INDEFERIMENTO DO PEDIDO DE RECORRER EM LIBERDADE APÓS CONDENAÇÃO EM PRIMEIRO GRAU. PACIENTE PRESO DURANTE A INSTRUÇÃO. PREVENTIVA MANTIDA. REVOGAÇÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. ANÁLISE DE PLEITO CONSTANTE DE RECURSO ANTERIOR. REITERAÇÃO. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantidas as circunstâncias que justificaram a decretação da prisão preventiva de paciente que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória que não lhe concede o direito de recorrer em liberdade.
+2.O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+3. Nos termos do art. 210 do RISTJ, o recurso em habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ.
+4. Os pedidos não formulados na petição derecurso em habeas corpus e, portanto, não apreciados na decisão que o julgou não são passíveis de conhecimento em agravo regimental, em razão da indevida inovação recursal.
+5. Agravo regimental desprovido.
+RELATÓRIO
+BRENO AMERICO ANIZIO SOUZA interpõe agravo regimental contra a decisão de fls. 412-413, que negou provimento ao recurso emhabeas corpus interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2245284-18.2020.8.26.0000).
+Em primeiro grau, o agravante foi condenado às penas de 5 anos de reclusão em regime fechado e de 500 dias-multa, pela prática do crime descrito no art. 33,caput, da Lei n.11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade. Impetrado writ originário, a ordem foi denegada.
+A decisão ora agravada negou provimento ao recurso em habeas corpusdiante dainadmissível reiteração quanto aos requisitos para a decretação da custódia cautelar, porquantoa matéria seria também objeto do RHC n. 134.744/SP. Destacou-seaindao fato de não haver ilegalidade nasentença condenatória, que não concederaao preso o direito de recorrer em liberdade. Por fim, verificou-se que o ora agravante fora condenado a cumprir a pena em regime fechado, não havendo, então, incompatibilidade entre o regime fixado e a manutenção da custódia cautelar.
+Nas razões do presente recurso, o agravante sustenta não haver reiteração de matéria já debatida por se tratar de direitos violados, de normas diversas, devendo ser deferida a pretensão de recorrer em liberdade.
+Alegaaindaquedeve ser reformado o acórdão recorrido, bem como a sentença,redimensionando-se o regime inicial de cumprimento da pena para o semiaberto, mediante as condições a serem estipuladas pelo Juízo das execuções penais, em atendimento ao disposto nas Súmulas n. 718 e 719 do STF e 440 do STJ.
+Requer o conhecimento e provimento dopresente agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. INDEFERIMENTO DO PEDIDO DE RECORRER EM LIBERDADE APÓS CONDENAÇÃO EM PRIMEIRO GRAU. PACIENTE PRESO DURANTE A INSTRUÇÃO. PREVENTIVA MANTIDA. REVOGAÇÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. ANÁLISE DE PLEITO CONSTANTE DE RECURSO ANTERIOR. REITERAÇÃO. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantidas as circunstâncias que justificaram a decretação da prisão preventiva de paciente que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória que não lhe concede o direito de recorrer em liberdade.
+2.O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+3. Nos termos do art. 210 do RISTJ, o recurso em habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ.
+4. Os pedidos não formulados na petição derecurso em habeas corpus e, portanto, não apreciados na decisão que o julgou não são passíveis de conhecimento em agravo regimental, em razão da indevida inovação recursal.
+5. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+Aprisão preventiva é cabível por meio de decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Asentença, ao condenar o agravanteà pena de5 anosde reclusão em regime inicial fechado, considerou presentes os requisitos para manutenção de segregação cautelar, tendo o Tribunal de origem ratificado esse entendimentoao denegar owritoriginário, pois entendeuque não haveria sentido em soltar o acusado, que esteve preso durante toda a instrução penal
+Assim, mantidas as circunstâncias que justificaram a decretação da prisão preventiva do agravante, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Quanto à análise dos requisitos para a decretação da custódia cautelar, a questão não foi enfrentada pela instância de origem, que não analisou a matéria, poisjá teria sido objeto de debate em writ anteriormente lá impetrado (HC n. 2085975-58.2020.8.26.0000).
+Portanto, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Verifica-se que a matéria aqui suscitada - análise dos requisitos para a decretação da custódia cautelar - é também objeto do RHC n. 134.744/SP,que foiinterposto contra oHC n. 2085975-58.2020.8.26.0000.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento pacífico do Superior Tribunal de Justiça. Veja-se o seguinte precedente:
+REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. REITERAÇÃO DE PEDIDO. NULIDADE DO PAD. OITIVA DE TESTEMUNHAS SEM A PRESENÇA DA DEFESA TÉCNICA. RECONHECIMENTO EM HC ANTERIOR. IMPOSSIBILIDADE DE REEXAME. AGRAVO DESPROVIDO. I - Inviável o reexame da alegada nulidade do PAD que reconheceu a prática de falta grave pelo paciente, no curso da execução penal, quando a matéria foi apreciada em habeas corpus anteriormente julgado, no qual foi decretada a nulidade do procedimento administrativo em razão da oitiva de testemunhas sem que estivesse presente a Defesa técnica. II - Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ. Agravo regimental desprovido. (AgRg no HC n. 444.220/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 23/5/2018.)
+Registre-se ainda que os pedidos não formulados na petição derecurso emhabeas corpuse, portanto, não apreciados na decisão agravada não são passíveis de conhecimento em razão da indevida inovação recursal (AgRg no RHC n. 116.871/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/10/2019).
+Assim, não se conhece damatériarelativa ao redimensionamento do regime inicial.Essaquestão foi suscitadaapenasnas razões do agravo regimental.
+Ressalte-seque o recorrente foi condenado, em primeira instância, a cumprir a pena em regime fechado;portanto, não háfalar em incompatibilidade entre o regime fixado na sentença e a manutenção da custódia cautelar.
+Por fim, em consulta ao site do Tribunal de origem, verifica-se que a apelação da defesa foi desprovida, o que reforça os fundamentos utilizados pelasentençapara a manutenção da custódia cautelar.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
