@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Embargos de declaração opostos por André de Lima ao acórdão da Sexta Turma, assim ementado (fl. 5.043):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. OPERAÇÃO VIENA. ASSOCIAÇÃO PARA O TRÁFICO. CONTRARIEDADE AOS ARTS. 1º, 2º, I, II e III, 4º e 5º, TODOS DA LEI N. 9.296/1996. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 283/STF. CONTRARIEDADE AO ART. 35 DA LEI N. 11.343/2006. INADMISSIBILIDADE. SÚMULA 7/STJ. CONTRARIEDADE AO ART. 5º, XII, DA CF. DESCABIMENTO. CONTRARIEDADE AO ART. 386, VII, DO CPP. INADMISSIBILIDADE. SÚMULA 7/STJ. CONTRARIEDADE AOS ARTS. 33, 44 E 59, TODOS DO CP. MANIFESTA IMPROCEDÊNCIA. ACÓRDÃO ATACADO QUE OSTENTA FUNDAMENTAÇÃO CONCRETA E IDÔNEA PRA NEGATIVAR A CULPABILIDADE E AS CIRCUNSTÂNCIAS DO CRIME. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA APTA A JUSTIFICAR O AGRAVAMENTO DO REGIME INICIAL DE PENA E O INDEFERIMENTO DA PENA SUBSTITUTIVA. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+Nas razões, a defesa do embargante aduziu que o aresto embargado padece de omissões e contradições, assim sintetizadas (fls. 5.056/5.059 - grifo nosso):
+ ..
+a) Omissões e contradições quanto a contrariedade aos artigos 1º, 2º, I, II e III, 4º e 5º, todas da Lei n. 9.296/1996;
+A defesa do Embargante arguiu com ênfase, a ocorrência de violação aos dispositivos legais da Lei 9,296/1996, a acarretar a nulidade das provas produzidas, sendo que, ao analisar essa matéria, o acórdão embargado entendeu que "a insurgência é inadmissível, ante a ausência de impugnação dos fundamentos do acórdão atacado. Colhe-se das razões do recurso especial que a defesa reiterou a tese de ilegalidade nas decisões que autorizaram a interceptação telefônicas e as sucessivas prorrogações, sem impugnar, no entanto, a fundamentação lançada pela Corte de origem para rechaçar a referida tese, circunstância que obsta o conhecimento do recurso especial nesse tópico, ante a inobservância do princípio da dialeticidade recursal (Súmula 283/STF).
+Nesse sentido, convém destacar que os fundamentos do acórdão foram devidamente impugnados, sendo contraditório o acórdão, conforme segue:
+"No caso em análise, todos os elementos de provas obtidos e acostados no procedimento decorrem das medidas de interceptações telefônicas impugnadas, evidenciando-se que as informações obtidas como ato inaugural do procedimento são suficientes e aptas para contaminar todo o processo (..)
+No mais, para a admissão da interceptação das comunicações telefônicas, exige-se indícios razoáveis de autoria e participação em infração penal, deixando clara a presença do fumus boni iuris como primeiro pressuposto da medida, cumulada ainda com o periculum in mora, que se encontram dispostas na Lei 9.296/96, que determina que quando não houver indícios razoáveis da autoria ou participação em infração penal; a prova puder ser feita por outros meios disponíveis; ou ainda, o fato investigado constituir infração penal punida, no máximo, com pena de detenção, não poderá ser admitida a medida, o contrário do que ocorreu no presente procedimento.
+A medida investigativa não poderia ser deferida como ato inaugural da investigação criminal, impondo-se limite à atuação estatal nas investigações de práticas delitivas. Na lei resta claro que a interceptação telefônica somente poderá ser efetivada para apuração de fato pretérito, e não futuro, ou seja, não poderá ser concedida medida cautelar de interceptação para se investigar se uma pessoa vai ou não cometer um delito, o fato tem que ter sido praticado e estar sendo objeto de investigação criminal em inquérito policial ou peças de informação. Em síntese, não existe interceptação de "prospecção", sendo a interceptação pós-delitual (..)
+É certo que para ser configurado indícios de autoria, é necessário que venha acompanhada de dados consistentes e de outros indícios já existentes, que possibilitem o juiz valorar a racionalidade da sua decisão em razão da proporcionalidade. A existência de uma investigação policial com dados concretos ou inquérito instaurado resulta como pressupostos indispensáveis da interceptação telefônica, fato que não ocorreu no caso dos autos.
+No caso evidente a contrariedade a Lei Federal, pois a excepcionalidade da medida não foi justificada, pois existiam outros meios de investigação a ser realizado para apuração do crime, devendo a medida cautelar de interceptação telefônica ser um meio de prova subsidiário (..)"
+Deste modo, o v. acórdão não considerou (omissão) que foi amplamente questionado o ato inaugural utilizado para inauguração da investigação que culminou na Ação Penal e consequente condenação em segundo grau, ao ponto que restou demonstrada consoante disposição dos artigos 1º, 2º, 3º, 4º e 5º da Lei 9296/96, restando caracterizado de forma cristalina que o vício inicial contaminou todos os elementos informativos oriundos da atividade persecutória do Estado, devendo o recurso especial ser conhecido.
+b) Omissões e contradições quanto a absolvição do delito previsto no artigo 35 da Lei 1134/2006 - óbice na Súmula 7/STJ.
+Relevante questão desenvolvida no recurso especial, eminentemente de direito, atine-se a compreensão de que não se tratou de buscar reavaliação das provas, mas tão somente, na ausência de descrição no ato decisório dos elementos do tipo penal descrito na denúncia.
+No caso em análise, a instância ordinária ressaltou apenas a configuração do delito de associação para o tráfico de drogas, deixando de descrever os fatos que demonstrassem o dolo e a existência objetiva e vínculo estável e permanente entre os agentes.
+Deste modo, conclui-se que a Corte Estadual, não se valeu do melhor direito para condenar o Embargante, sendo o v. acordão contraditório e omisso nesse sentido, pois não implica reavaliar fatos e provas, mas apenas reconhecer que, no caso, na denúncia e nos demais atos decisórios não estão descritos os elementos do tipo do art. 35 da Lei de drogas, constituindo ônus estatal demonstrar de forma inequívoca a configuração de delitos.
+Portanto, não se buscou o reexame dos elementos de convicção, providência vedada na via especial, não havendo, com o devido respeito, que se invocar a óbice da Súmula 7/STJ, merecendo o recurso especial ser admitido.
+c) Omissões e contradições quanto a dosimetria da pena - fixação do regime inicial.
+Ao apreciar a fixação da pena base decorrente da condenação pelo crime de associação para o tráfico, o acórdão entendeu que o recurso especial é admissível, mas, no mérito, a insurgência não merece acolhimento. Vejamos:
+"No que se refere ao item 4, o recurso especial é admissível, mas, no mérito, a insurgência não merece acolhida. Ao fixar a pena-base, decorrente da condenação pelo crime de associação para o tráfico, a Corte de origem valorou negativamente a culpabilidade e as circunstâncias do crime (..)
+No que se refere à culpabilidade, não diviso ilegalidade na fundamentação lançada, pois a reiteração referenciada no aresto combatido, ou seja, o fato do crime ter sido perpetrado por um longo lapso temporal - entre fevereiro de 2016 e abril de 2017 (fl. 4.223) - indica uma gravidade superior àquela típica do crime de associação para o tráfico, justificando a negativação do referido vetor.
+Destaco, ainda nesse tópico, que a alusão ao fato de que a associação visava o tráfico em várias cidades da região também transcende os elementos típicos do crime de associação, justificando o agravamento da pena na primeira fase.
+No que se refere às circunstâncias do crime, também diviso elementos aptos a justificar a negativação do referido vetor, notadamente o fato de que a associação envolveu apenados, ou seja, pessoas submetidas a um processo de ressocialização, circunstância apta a justificar o agravamento da pena, ante a reprovabilidade superior da conduta.
+Com relação ao regime inicial de pena fixado (semiaberto) e a vedação da pena substitutiva, também não diviso ilegalidade no acórdão exarado no julgamento dos aclaratórios, pois a existência de circunstâncias judiciais negativas sopesadas na primeira fase (culpabilidade e circunstâncias do crime) justificam o agravamento do regime inicial e o indeferimento da substituição da pena corporal por restritivas de direitos.
+De fato, o acórdão impugnado é contraditório e omisso, ao ponto que, não há fundamentação idônea que justifique a majoração da pena, eis que não foram avaliados, para a fixação da pena base, quaisquer elementos objetivos concernentes ao embargante, mediante fatos devidamente extraídos durante a instrução processual.
+Assim, mera citação da prática delitiva, não é apta a justificar a exasperação da pena, seja pretexto de reprovabilidade do delito e circunstâncias do crime, haja vista que, os argumentos empregados no acatado acórdão são inválidos e infundados.
+Por outro lado, não houve referência (omissão), ao fato do Embargante ser primário, possuidor de bons antecedentes, circunstâncias favoráveis preponderantes, sugerindo a fixação da pena-base em seu mínimo legal, sendo certo que, a discricionariedade do magistrado deve ser vinculada juridicamente e ser devidamente fundamentada, em consonância aos princípios da proporcionalidade e razoabilidade.
+Quando ao regime inicial de pena fixado (semiaberto) e a vedação da substituição da pena privativa de liberdade, não sendo as circunstâncias judiciais negativas sopesadas na primeira fase, motivos idôneos a fim de justificar o regime inicial e o indeferimento da substituição da pena corporal.
+No caso, a reprimenda corporal foi aplicada em 04 anos, sendo perfeitamente possível a fixação do regime menos gravoso, qual seja, o regime aberto, com a devida substituição da pena.
+Por fim cumpre destacar que, todos os fundamentos expostos no REsp e no AgRg foram devidamente impugnados tecnicamente, sendo necessário o acolhimento dos presentes embargos declaratórios.
+ ..
+Pugnou, assim, pelo saneamento dos vícios apontados, inclusive com a atribuição de efeitos infringentes ao julgado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios são manifestamente improcedentes.
+A contradição que dá ensejo à oposição de embargos de declaração é interna ao julgado, ou seja, entre as premissas e as conclusões da própria decisão, sendo absolutamente descabido suscitar o vício com base em algum parâmetro externo ao julgado embargado.
+Nesse sentido, confiram-se:
+ .. .
+2. De acordo com a jurisprudência desta Corte, a contradição remediável por embargos de declaração é a interna ao julgado embargado, devida à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa entre o julgado impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.460.489/SP, Ministro Moura Ribeiro, Terceira Turma, DJe 19/2/2020)
+ ..
+2. A contradição impugnável por meio dos embargos de declaração é aquela interna ao julgado, que demonstra incoerência entre as premissas e a conclusão da decisão, e não a discordância de entendimento entre a Turma julgadora e a parte acerca dos dispositivos legais aplicáveis. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.541.402/RS, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 20/2/2020)
+ ..
+3. A contradição que macula a decisão judicial é a interna, na qual ocorre um descompasso lógico entre a fundamentação e a conclusão adotada, circunstância não evidenciada no decisum embargado.
+ ..
+(EDcl no AgRg no AREsp n. 1.524.332/RN, Ministra Laurita Vaz, Sexta Turma, DJe 3/2/2020)
+No caso, não há contradição no aresto embargado; ao contrário, as premissas e conclusões guardam perfeita coerência entre si (fls. 5.044/5.052).
+Também não há falar em omissão.
+Ora, o acórdão lançou fundamentação suficiente para obstar o recurso especial calcado na tese de contrariedade aosarts. 1º, 2º, I, II e III, 4º e 5º, todos da Lei n.9.296/1996, e quanto ao pleito absolutório do crime de associação para o tráfico (contrariedade ao art. 35 da Lei n. 11.343/2006),respectivamente, com fundamento nas Súmulas 283/STF e 7/STJ (fls. 5.047/5.048).
+No que se refere à suposta ilegalidade na dosimetria da pena, no regime de inicial e na vedação da pena substitutiva, também há fundamentação clara e suficiente no aresto para negar provimento ao recurso defensivo (fls. 5.050/5.052).
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso.Eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral . Em face do exposto, rejeito os embargos de declaração.  ..
+Aliás, o que se verifica das razões dos embargos é a tentativa do embargantede, por via oblíqua, rediscutir as conclusõesdo acórdão embargado, providência descabida na via eleita.
+A propósito:
+ ..
+1. Os Embargos de Declaração, segundo o disposto no art. 619 do CPP, se prestam a afastar a existência, no julgado, de ambiguidade, omissão, contradição e obscuridade, sendo-lhe impróprio o manejo para o fim de se rediscutir a matéria decidida.
+ ..
+(EDcl no HC n. 335.663/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/3/2016)
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir oembargantede que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, inclusive a determinação de baixa imediata dos autos com certificação do trânsito em julgado.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018)
+Ante o exposto, rejeito os embargos de declaração.
