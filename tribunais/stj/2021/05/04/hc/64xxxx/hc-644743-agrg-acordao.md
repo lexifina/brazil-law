@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ.TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS.REINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendoviolação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII,aeb, do RISTJ).
+2.A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3.A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4. As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+5.Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIANO FADEL BAPTISTAcontra a decisão de fls. 202-204, que não conheceu do habeas corpusimpetrado em seu favor, no qual fora apontado como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2278504-07.2020.8.26.0000).
+O agravante teve a prisão temporária convertida em preventiva (fls. 61-66) a pedido do Ministério Público e foi denunciado pela suposta prática dos delitos previstos nos arts. 33, caput, 35 e 40, V, da Lei n. 11.343/2006 (fls. 50-60).
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, porquanto, segundo as diligências realizadas pela autoridade policial, há fortes indícios deintensa distribuição de drogas trazidas de outros Estados da Federação pelo agravante.
+Destacou-se ainda a insuficiência das medidas cautelares alternativas (art. 319 do CPP) para o caso, uma vez constatado o risco de reiteração delitiva, tendo em vista que o agravante é reincidente específico.
+Impetrado writ na origem, a ordem foi denegada.
+No presente habeas corpus, foi mantida a prisão preventiva, poisforaexposta, de forma fundamentada e concreta, sua necessidade, considerando-se areincidência específica do ora agravante e ressaltando-seque suas eventuais condições subjetivas favoráveis não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação.
+Nas razões do presente recurso, oagravante alega que a decisão monocrática viola o princípio do colegiado.Aduzaindaque não há, nadecisão da autoridade coatora,elemento palpável que possa amparar a alegação de gravidade concretado delito em comento. Destaca a ínfima quantidade de drogas apreendida.
+Por fim, argumentaque a mera constatação da reincidência específica não serve para a imposição da segregação cautelar.
+Requer o conhecimento e provimento do presente recurso a fim de que seja reformada adecisão eowrit sejadevidamente processado, sendo, ao final, concedida a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ.TRÁFICO ILÍCITO DE ENTORPECENTES.PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS.REINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendoviolação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII,aeb, do RISTJ).
+2.A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3.A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4. As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+5.Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+Inicialmente, deve-se ressaltar que orelator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo falar em violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII,aeb, do RISTJ). Nesse sentido:AgRg no HC n. 607.055/SP, relator Ministro FelixFischer, Quinta Turma, DJe de 16/12/2020.
+Ademais, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 64):
+No caso em tela, estão presentes os requisitos da prisão preventiva: Trata-se, em tese, de delito doloso, e há provas da materialidade e indícios da autoria.
+Pelas diligências efetuadas pela polícia civil, verifica-se que os acusados comandavam, nesta comarca, intensa distribuição de drogas entre eles para posterior comércio. Ademais, como apontado nas investigações, os denunciados buscavam drogas em outro Estado, combinando a melhor rota e mantendo contato durante todo o trajeto.
+Além disso os investigados Juliano Fadel Baptista, Kaue Bonifácio Nicácio, Wagner César Vaceli Júnior e Wesley Ysnaite Barbosa dos Santos Lima ostentam condenações anteriores, o que indica risco de reiteração de conduta criminosa, sobretudo relacionadas ao tráfico de drogas, razão pela qual faz-se necessário resguardar a ordem publica, preenchido assim o requisito do art. 313, do Código de Processo Penal.
+ ..
+Destarte, considerando a gravidade em concreto do crime, as circunstâncias do fato, as condições pessoais dos averiguados, a liberdade provisória e as medidas cautelares diversas da prisão (previstas no art. 319 do CPP) são absolutamente inadequadas e insuficientes para o caso concreto, uma vez que, conforme narrado nos autos, apontam para as condutas de guardar, fornecer, vender, ter em depósito drogas para entregá-las ao consumo de terceiros, de modo permanente.
+Sobre a matéria, o Tribunal de origem assim se manifestou (fls. 41-43):
+Ainda que a quantidade de droga apreendida com o paciente seja pequena  01 (uma) porção de "maconha", com peso total líquido de 8,44g (oito gramas e quarenta e quatro centigramas) , existem fortes indícios de que ele pratica o comércio espúrio e se associou aos demais denunciados para a prática da mercancia ilícita como meio de vida, ao menos alternativo, até porque se trata de agente reincidente específico.
+Dessa forma, sem adentrar no mérito da constitucionalidade da nova redação conferida pela Lei nº 13.964/2019 ("Pacote Anticrime") ao artigo 310, § 2º, do Código Penal, mas com amparo no artigo 313, inciso II, do referido diploma legal, fato é que a reiteração de condutas criminosas demonstra a dificuldade do paciente em aceitar a ordem legal estabelecida, não hesitando em reiterar a prática delitiva.
+ ..
+A custódia cautelar está devidamente fundamentada na gravidade concreta dos delitos (mormente aquele equiparado a hediondo tráfico de drogas), pois a soltura do paciente colocará em risco a ordem pública e a conveniência da instrução criminal, sendo certo que não se pode assegurar que ele não irá se evadir caso seja colocado em liberdade, tornando imperiosa a sua prisão também para assegurar a futura aplicação da lei penal.
+ ..
+Em suma, cabe reconhecer que remanesce o mesmo panorama que ensejou a decretação da custódia cautelar do paciente, sendo prudente que à ampla e serena instrução criminal se relegue a tarefa de aclarar a verdade real dos fatos, revelando-se inviável a aplicação das medidas cautelares previstas no artigo 319 do Código de Processo Penal, inadequadas ao caso em comento.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Registre-se ainda quea reincidência específica evidencia maior envolvimento do agravante com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim,eventuais condições subjetivas favoráveis do agravante, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação.Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
