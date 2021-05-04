@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO TOKOcontra decisão proferida pelo eg. Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que oMM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, e do art. 14, caput, da Lei n,. 10.826/2003,nos termos do art. 69, caput, do Código Penal, à pena total de 8 (oito) anos e 5 (cinco) meses de reclusão, no regime inicial fechado, mais 651 dias-multa (fls. 196-199).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 398-406).
+Opostos embargos de declaração, pelo ora agravante (fls. 654-663), foram eles rejeitados, à unanimidade de votos (fls. 676-678).
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação aoart. 33, § 4º, da Lei n. 11.343/2006, aos arts. 33, 44 e 59, todos do Código Penal, e ao art. 381 do Código de Processo Penal(fls. 412-437). Para tanto, mencionaque:
+a) " .. nos autos não há provas que autorizem o afastamento do redutor legal, havendo infração ao citado dispositivo de lei federal, o que não podemos concordar" (fl. 423);
+b) " .. verifica-se a milhares de sentenciados em situações idênticas são beneficiados com a causa de diminuição de pena do artigo 33, §4 2 da Lei 11.343/06 OU ao menos a aplicação inicial do REGIME SEMIABERTO, sendo injusto o presente julgamento, bem como contrário posicionamento dos Tribunais Superiores e ainda julgamento in pejus das condições pessoais do recorrente sem provas e sem pedido da acusação, dessa forma é imprescindível a propositura do presente Recurso Especial" (fl. 424).
+Apresentadas as contrarrazões (fls. 704-739), oespecial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) aplicação da Súmula n. 284/STF; b) não comprovação do alegado dissídio jurisprudencial; e c)incidência daSúmulan.7/STJ(fls. 746-748).
+Daí o presente agravo, no qual oagravante,em apertada síntese, repisaos argumentos expendidos no apelo nobre (fls. 751-757).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 796-799).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o especial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) aplicação da Súmula n. 284/STF; b) não comprovação do alegado dissídio jurisprudencial; e c) incidência da Súmula n. 7/STJ (fls. 746-748).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, oagravantedeixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativoà incidência daSúmula n. 7/STJ.
+Quantoà incidência da Súmula n. 7/STJ, limitou-se a mencionar que "Não há requerimento de reexame de matérias fáticas, mas sim, de análise do caso concreto para que se evite julgamento contrário e com julgamento prejudicial as condições pessoais do recorrente" (fl. 755).
+De fato,das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveriaoagravanteindicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático- probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+De igual modo, em relação à não comprovação do alegado dissídio jurisprudencial, limitou-se o recorrente a alegar, resumidamente, que " .. anexou decisões comprovando a divergência de entendimentos, ou seja, não há motivos para rejeitar seguimento ao RESP por ausência de comprovação da divergência (art.1.029, § 1º, do CPC e do art. 255, § 1º, do RIST.1), pois mencionado e comprovado!!" (fl. 755).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONCURSO MATERIAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
