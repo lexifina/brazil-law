@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de agravo interposto por BRASSUL CONSTRUCOES CIVIS LTDA, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 720-721):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.AQUISIÇÃO DE IMÓVEL NOVO. PROGRAMA "MINHA CASA MINHA VIDA". APLICAÇÃO DAS REGRAS CONTIDAS NO CÓDIGO DE DEFESA DO CONSUMIDOR. INFILTRAÇÕES RECORRENTES. ALEGAÇÃO DE FATO DE TERCEIRO. VIZINHO DO APARTAMENTO SUPERIOR QUE LAVA O CHÃO E PAREDES DO BANHEIRO. MANUAL DE USO, OPERAÇÃO E MANUTENÇÃO DA EDIFICAÇÃO QUE NÃO INFORMA, DE MODO CLARO E PRECISO, ACERCA DA AUSÊNCIA DE IMPERMEABILIZAÇÃO. AO CONTRÁRIO, INDICA A COZINHA E O BANHEIRO COMO "ÁREAS MOLHADAS". DEVER DE INFORMAÇÃO VIOLADO. TROCA DO PISO DE CERÂMICA POR LAMINADO. MATERIAL QUE APRESENTOU DEFEITOS.COBRANÇA DE VALORES RELATIVOS À DIFERENÇA. NÃO COMPROVAÇÃO DE QUE HAVIA MATERIAL DISPONÍVEL, ASSIM COMO DOS PREÇOS DOS PRODUTOS. REPAROS REALIZADOS PELA CONSTRUTORA, PARA A TROCA DO PISO.PEDIDO DE DESOCUPAÇÃO DO IMÓVEL, COM CESSÃO DE OUTRO, ATÉ O FINAL DA OBRA. TERMO DE RESPONSABILIDADE SOBRE OS BENS MÓVEIS QUE GUARNECEM O APARTAMENTO. AVARIAS. APURAÇÃO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. APLICAÇÃO DOS ARTIGOS 6º, INCISO VIII E 12 DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVER DE INDENIZAR. DANOS MORAIS.CIRCUNSTÂNCIAS QUE ULTRAPASSAM O MERO DISSABOR.ABALO CARACTERIZADO. MODERAMENTE QUANTUM FIXADO. JUROS DE MORA A CONTAR DA CITAÇÃO.CORREÇÃO MONETÁRIA DESDE A DATA DO EFETIVO PREJUÍZO. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. RECURSO PROVIDO.
+Opostos embargos de declaração pelo recorrente (fls. 743-768), foram rejeitados (fls. 796-803).
+Nas razões do recurso especial (fls. 812-846), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nos arts. 85, § 2º,141 e 492, do Código de Processo Civil.
+Em apertada síntese, sustenta que "deve ser reconhecida a nulidade do V.Acórdão que condenou a Recorrente em obrigação de fazer bem como multa diária pelo não cumprimento, tendo em vista ser ausente o pedido do Recorrido quanto a esse quesito, estando a referida decisão da 17º Vara Cível do Tribunal de Justiça do Paraná extra petita."
+Além disso, alega que os honorários advocatícios de sucumbência devem ser arbitrados com base no valor da condenação ou do proveito econômico obtido pela parte, e não sobre o valor da causa atualizado.
+Contrarrazões ao recurso especial às fls. 889-910.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda, a Corte de origem afastou a alegação de decisão extra petita, com a seguinte fundamentação (fls.798-801):
+Isso em razão de que, apesar de inexistir pedido expresso no recurso de apelação acerca da restituição ou inexigibilidade dos valores pagos, não se olvide os termos do artigo 1.013 do Código de Processo Civil, que estabelece que a apelação devolverá ao tribunal o conhecimento da matéria impugnada.
+Apesar de sucinto o recurso de apelação, está claro, da breve leitura das razões recursais e do pedido, que o apelante buscou a integral reforma da sentença, englobando-se, nisso, toda a matéria discutida em primeira instância, e que foi submetida ao contraditório e à ampla defesa, inclusive o de restituição ou inexigibilidade de valores pagos.
+Como cediço, nosso ordenamento jurídico preceitua, por meio da norma contida nos artigos 141 e 492 doCódigo de Processo Civil, que o provimento jurisdicional deve guardar relação com o pedido inicial, sob pena de incorrer em um dos vícios da sentença (julgamento extra, ultra ou citra petita).
+Referidos dispositivos contemplam o principio da adstrição ou da congruência, pelo qual o pedido deve ser decidido nos limites do que foi requerido, sendo defeso ao julgador reconhecer mais, menos ou diversamente do que se pleiteia.
+Acerca da matéria escreveram Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero na obra "Curso de Processo Civil" (v. 2  tutela dos direitos mediante procedimento comum, 5 a ed. RT, 2019, p. 465-466) que "o juiz está proibido de proferir sentença de natureza diversa da pedida. A natureza da sentença é reflexo do pedido (.)".
+Ao contrário do que sustentado pelo embargante, a fim de se analisar se a sentença é ultra ou extra petita não se pode simplesmente se reportar ao que consta na parte "dos pedidos" da petição inicial ou na petição recursal.
+O Superior Tribunal de Justiça há tempos consolidou o entendimento de que os limites do pedido devem ser interpretados lógica e sistematicamente.
+ ..
+Por isso passou-se ao exame do pedido contido na petição recursal como um todo, e não de forma isolada, não havendo que se falar em decisão extra petita, tampouco em violação ao principio da dialeticidade recursal.
+Mesmo porque não se vislumbra qualquer ofensa ao principio da ampla defesa, considerando que as razões do recurso contêm suficiente fundamentação à veiculação da irresignação, que foi efetivamente contra-arrazoada pelo apelado, ora embargante.
+De acordo com a jurisprudência do STJ, não há ofensa ao princípio da congruência ou da adstrição quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, ainda que não expressamente formulados pela parte autora. Em outras palavras, não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos aos apresentados pela parte.
+Nesse sentido, confiram-se:
+PROCESSO CIVIL. AMBIENTAL. POLUIÇÃO DO RIO SERGIPE/SE. DERRAMAMENTO DE DEJETOS QUÍMICOS. MORTANDADE DE TONELADAS DE ANIMAIS MARINHOS. DANO MORAL COLETIVO. ALEGATIVA DE LITISPENDÊNCIA. SÚMULA 7/STJ. OBSERVÂNCIA DO PRINCÍPIO DA CONGRUÊNCIA. CARACTERIZAÇÃO DO DANO. ALEGATIVA DE CASO FORTUITO AFASTADA. REVISÃO. REEXAME DE ELEMENTOS PROBATÓRIOS. IMPOSSIBILIDADE. REDUÇÃO DO VALOR DA INDENIZAÇÃO. DESCABIMENTO. SUCUMBÊNCIA MÍNIMA. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+ ..
+3. De acordo com a jurisprudência do STJ, não há ofensa ao princípio da congruência ou da adstrição quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, ainda que não expressamente formulados pela parte autora. Assim, não há se falar em provimento extra petita, pois a pretensão foi deferida nos moldes em que requerida judicialmente, haja vista que, dentre os critérios utilizados pela parte autora para deduzir o pleito reparatório, encontram-se o descaso do agente agressor, a prática reincidente e o caráter inibitório da penalidade.
+ ..
+8. Recurso especial conhecido em parte e, nesse extensão, não provido.
+(REsp 1355574/SE, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016)
+__________
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. VIOLAÇÃO DOS ARTS. 128 E 460 DO CPC. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+ ..
+3. Na verdade, no presente caso, a questão não foi decidida conforme objetivava o recorrente, uma vez que foi aplicado entendimento diverso ao pretendido, de modo que a irresignação traduz-se em inconformação com a tese adotada.
+4. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos aos apresentados pela parte.
+5. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp 873.743/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016)
+__________
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECLAMO. INSURGÊNCIA DO PLANO DE SAÚDE.
+1. Consoante a jurisprudência recente deste Sodalício, "não ocorre ofensa aos artigos 128 e 460 do CPC/73 quando o julgamento ocorre nos limites do que foi pedido na inicial. Outrossim, não há que se falar em julgamento extra petita, conforme jurisprudência desta Corte, nos casos em que o magistrado interpreta de maneira mais ampla o pedido formulado na inicial" (AgRg no REsp 1322447/RJ, Rel.Min. Castro Meira, Segunda Turma, DJe de 25/03/2013).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no REsp 1539794/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/08/2016, DJe 16/08/2016)
+__________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. DA MIHI FACTUM DABO TIBI IUS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7/STJ. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA DOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Não há falar em julgamento extra petita, na hipótese em que a Corte estadual decide a lide observando os fatos narrados e o pedido feito na petição inicial, dando a sua consequência lógica. O julgador não fica adstrito às regras jurídicas indicadas pelas partes, podendo atribuir à matéria fática apresentada o enquadramento jurídico que entender mais adequado.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 164.507/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/08/2016, DJe 16/08/2016)
+3.De outra parte, observa-se que a matéria referente à base de cálculo dos honorários advocatícios de sucumbêncianão foi objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência na espécie da Súmula 211/STJ. Há ressaltar que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
