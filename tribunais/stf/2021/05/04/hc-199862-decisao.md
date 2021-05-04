@@ -1,0 +1,18 @@
+Decisão: Trata-se de habeas corpus submetido a esta Presidência pelo Ministro Roberto Barroso, para análise de redistribuição, tendo em vista que a Defesa apontou prevenção ao Ministro Marco Aurélio.
+    Solicitadas informações quanto aos critérios empregados para considerar a prevenção apontada nos autos, a Coordenadoria de Processamento Inicial informou o seguinte:
+    “Trata-se de Habeas Corpus impetrado em favor de Aduilson Gois Oliveira contra ato do Relator do HC nº 546.770 do Superior Tribunal de Justiça. Processo vinculado à “ Operação Valquíria/SE”, distribuído em 30/03/2021 ao Sr. Ministro Roberto Barroso por prevenção ao HC nº 142.935. O impetrante, por meio da petição/STF nº 35171/2021, alega em síntese que, o HC 142.935 não foi conhecido e transitou em julgado não tendo gerado prevenção ao passo que o Sr. “Ministro Marco Aurélio de Mello, denegou a ordem no HC 181639, e por este motivo é ele prevento para apreciar o presente processo”.
+    A pesquisa aos sistemas informatizados desta Corte retorna os seguintes processos, relacionados à “Operação Valquíria/SE”:
+    1) HC nº 142.935: Paciente Ademir Gois Oliveira. Distribuído por sorteio em 18/04/2017 ao Sr. Ministro Roberto Barroso, negado seguimento em 24/04/2017, com trânsito em julgado em 09/05/2017.
+    2) HC nº 157.613: Paciente Ademir Gois Oliveira. Distribuído por sorteio (art. 69, §2º RISTF) em 01/06/2018 ao Sr. Ministro Alexandre de Moraes, negado seguimento em 07/06/2018, com trânsito em julgado em 19/06/2018.
+    3) HC nº 167.463: Paciente Ademir Gois Oliveira. Distribuído por sorteio (art. 69, § 2º RISTF) em 30/01/2019 ao Sr. Ministro Marco Aurélio, liminar deferida pelo Relator em 07/02/2019, denegada a Ordem e cassada a liminar, pela 1ª Turma do STF, em 27/08/2019 com substituição de relatoria (art. 38, II, RISTF) à Sra. Ministra Rosa Weber. Embargos de declaração rejeitados em 29/11/2019, Agravo regimental não conhecido em 18/12/2019 e trânsito em julgado em 11/02/2020.
+    Na cadeia de prevenção que se iniciou com o HC nº 167.463 foram distribuídos ao Sr. Ministro Marco Aurélio outros cinco (05) habeas corpus, a saber, HC nº 168.733, HC nº 169.450, HC nº 170.258 (todos já transitados em julgado), HC nº 171.365 (declinada a competência ao Superior Tribunal de Justiça por impugnar acórdão do TJSE) e o HC nº 181.639, impetrado em favor de Aduilson Gois Oliveira, distribuído em 19/02/2020, liminar indeferida em 30/04/2020, ordem denegada em 16/06/2020 com trânsito em julgado em 11/08/2020.
+    Consta, por fim, o HC nº 196.886 também impetrado em favor de Aduilson Gois Oliveira, distribuído em 14/01/2021 ao Sr. Ministro Roberto Barroso, por prevenção ao HC nº 142.935, homologada a desistência em 15/01/2021 com trânsito em julgado em 09/02/2021.
+    Ao distribuir o presente HC nº 199.862 em 30/03/2021, verificada a multiplicidade de impetrações, esta Coordenadoria observando, salvo melhor juízo, o artigo 77-D do RISTF, o artigo 6º parágrafo único da Resolução 706/STF de 15 de outubro de 2020 e a anterioridade na distribuição, apontou a prevenção do feito para o HC nº 142.935.”
+    É o relatório. Decido.
+    Diante das informações prestadas pela Secretaria, no sentido de que, diante da multiplicidade de impetrações, observou-se “o artigo 77-D do RISTF, o artigo 6º parágrafo único da Resolução 706/STF de 15 de outubro de 2020 e a anterioridade na distribuição”, mantenho a distribuição do presente writ ao Ministro Roberto Barroso.
+    Restituam-se os autos ao gabinete do eminente Relator.
+    Publique-se.
+    Brasília, 4 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
