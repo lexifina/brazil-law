@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por SEBASTIAO FERREIRA DA SILVAcontra decisão da minha lavra (fls. 20.463-20.482), pela qual não conheci do agravo em recurso especial, consoante a seguinte ementa:
+"PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ESTELIONATO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO"
+Nas razões deste recurso (fls. 20.511-20.532), a defesa sustenta a ocorrência de omissão ao argumento de que "A decisão guerreada não desdobrou a reclamada supressão a prerrogativa de foro pela função de Vereador, assim como, a nova capitulação empregada (art. 288-A e art. 62, I, ambos do Código Penal c/c art. 8º da Lei 8.072/90) pelo Juízo de piso sob a justificativa de "Lei Nova Mais benéfica", entre outras violações, sob a justificativa de que a defesa técnica "deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada", o que, com a devida vênia e respeito, não merece prosperar, haja vista que o Agravante detalhou de maneira exaustiva, todas as questões jurídicas íntimas ao caso em tela." (fl. 20.512).Assim, repisa os argumentos do apelo nobre.
+Por fim, pugna pelo acolhimento dos embargos, para que sejam saneadas as supostas imperfeições apontadas neste inconformismo.
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+In casu, destaca-se, que embora opostos embargos declaratórios, evidencia-se o caráter infringente da pretensão recursal, pois o pleito é de reconsideração, aspecto próprio do agravo, previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Assim, verifica-se que a decisão embargada não padece de qualquer omissão, porquanto examinou fundamentadamente o agravo recurso especial trazido à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses do insurgente.
+Desse modo, em que pese a alegação do embargante de que a decisão embargada conteria omissão, o que pretende a parte, porém, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos aclaratórios.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. UNIFICAÇÃO DAS PENAS. DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS. APLICAÇÃO DA ORIENTAÇÃO FIRMADA NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.557.461/SC E DO HABEAS CORPUS Nº 381.248/MG. PRETENSÃO DE REDISCUTIR A MATÉRIA E DE PREQUESTIONAR DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pela Constituição Federal ao Supremo Tribunal Federal.
+3. Embargos rejeitados." (EDcl no AgRg no HC 413.617/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 11/10/2018, grifei).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SUSPENSÃO DA PRETENSÃO PUNITIVA ESTATAL. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DA CAUSA. IMPOSSIBILIDADE.
+I - São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - In casu, a conta de omissão, o que pretende o embargante é a rediscussão da matéria, já devidamente analisada, situação que não se coaduna com a estreita via dos aclaratórios.
+Embargos de declaração rejeitados e pedido de execução provisória das penas restritivas de direito indeferido." (EDcl no AgRg no AREsp 962.729/RS, Quinta Turma, minha relatoria, DJe 03/09/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste o equívoco apontado pela parte, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Embargos de declaração rejeitados" (EDcl no AgRg nos EDv nos EAREsp 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe 09/11/2018).
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 288 DO CP C. C ART. 8º DA LEI N. 8.072/90. OPERAÇÃO CAPA PRETA.OMISSÃO. NÃO OCORRÊNCIA. REEXAME DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
