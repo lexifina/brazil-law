@@ -1,0 +1,22 @@
+DECISÃO
+WANEZA MASSARI alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, nos autos do HC n. 0801866-46.2021.8.20.0000.
+Informam os autos que o Juízo de Direito recebeu a peça acusatória oferecida em desfavor da paciente - denunciada como incursa no art. 1º da Lei 8.137/1990, c/c o art. 71 do CP -, motivo pelo qual a defesa impetrou o writ originário.
+Neste recurso, alega o impetrante, em suma
+d.1) A recorrente não fazia parte do quadro societária da empresa ISMAR AQUICULTURA LTDA. até 18 de fevereiro de 2009, razão pela qual não possuía o domínio dos fatos ocorridos até aquele ano;
+d.2) A falsificação das assinaturas dos documentos dispostos nos autos é patente, razão pela qual não demanda instrução probatória para a verificação da iniquidade dos documentos acostados à exordial;
+d.3) O reconhecimento de nulidade quanto ao imputado no ano de 2007, tendo em vista que o fisco iniciou Procedimento Administrativo após os 05 (cinco) anos decadenciais para a constituição do tributo, razão pela qual não pôde se constituir o crédito tributário, violando - se, portanto, o conteúdo da Súmula Vinculante 21 quanto a constituição definitiva do tributo;
+d.4) Tendo em vista que não houve a constituição definitiva válida do tributo, o referido procedimento administrativo também não serve para suspender o prazo prescricional, estando as condutas perpetradas no ano de 2007 abrangidas pela prescrição, nos termos do artigo 109, inciso III do Código Penal.
+Pede, liminarmente, "a imediata suspensão do curso da AÇÃO PENAL, perante o Juízo da 3ª Vara Criminal de Mossoró/RN, nos Autos do Processo n. 0100296-73.2020.8.20.0106  ..  até o julgamento do mérito do presente recurso". No mérito, pleiteia o trancamento do processo.
+Decido.
+Observo do acórdão impugnado que a única mateia analisada pela Corte local foi a tese de prescrição, evidenciando-se, assim, a impossibilidade de conhecimento dos temas - a alegação de não fazer parte da sociedade, a falsificação das assinaturas, o descumprimento do prazo decadencial de 5 anos para a constituição do tributo -, sob pena de vedada supressão de instância.
+Sobre a prescrição, o Tribunal de origem cingiu-se a afirmar o seguinte:
+15. In casu busca-se obstar a tramitação de lide onde apurada a ocorrência do delito previsto no art. 1º da Lei n. 8.137/90, c/c art. 71 do CP, assentado na prescrição da pretensão punitiva.
+16. Ora, não há como reconhecer o decurso de tal lapso temporal, mormente por restar consignado na denúncia a preclusão do Processo Administrativo Fiscal em 10/04/2013, evento inclusive certificado junto ao ID 8673404 (pág. 14) e repisado pela autoridade coatora em suas informações, delimitador do inicio da contagem prescricional na seara tributária.
+17. Acerca da matéria, também tem entendido o E. STJ:  ..
+18. Ressalto, por fim, inexistir qualquer violação ao disposto na SV 24, pois o entendimento cristalizado em seu verbete se refere a casos em que não esgotada a esfera administrativa e, portanto, quando não há constituição definitiva do crédito tributário e sua inscrição na dívida ativa do Estado.
+19. À vista do exposto, em consonância com a 15ª Procuradoria de Justiça, denego a ordem. (fls. 619-620)
+No que tange à tese de prescrição da pretensão punitiva, observo que a paciente foi denunciada pelo Ministério Público em 23/1/2020:
+ ..  por supostamente ter durante os meses de janeiro, março, abril, junho, julho e agosto de 2007; janeiro, fevereiro, março, maio, junho, julho, agosto e outubro de 2008; abril, agosto, setembro, outubro, novembro de 2010 e janeiro de 2011, bem como maio, outubro, novembro e dezembro de 2007 e maio e novembro de 2011, na condição de proprietária e gestora da empresa ISMAR AQUICULTURA LTDA, CNPJ nº 04.396.969/0001-84, suprimido pagamento do Imposto sobre Circulação de Mercadorias  ICMS, no valor de R$ 338.619,55 (trezentos e trinta e oito mil, seiscentos e dezenove reais e cinquenta e cinco centavos), mediante o não recolhimento do ICMS devido, fraudando assim a fiscalização tributária. (fl. 604)
+O Procedimento Administrativo Tributário "transitou em julgado em 10 de abril de 2013" e a denúncia foi recebida em 3/3/2020, sendo forçoso constatar que, nos termos do art. 109, III, do Código Penal, não transcorreu o prazo de 12 anos entre os respectivos marcos interruptivos.
+À vista do exposto, conheço parcialmente do habeas corpus e, no mais, denego a ordem in limine.
+Publique-se. Intimem-se.
