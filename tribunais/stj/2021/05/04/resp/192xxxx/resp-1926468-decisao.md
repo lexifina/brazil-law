@@ -1,0 +1,96 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S/A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 570):
+APELAÇÃO. SEGURO DE VIDA EM GRUPO. PEDIDO DE INDENIZAÇÃO SECURITÁRIA. Pedido que não possui o caráter personalíssimo. Necessidade de sucessão processual dos herdeiros. Apuração em perícia indireta, devido ao falecimento do segurado, de que o autor possui doença que leva à invalidez funcional permanente total. Comprovação do quadro clínico incapacitante que inviabiliza de forma irreversível o pleno exercício das relações autonômicas do segurado. Quadro clínico que se insere nas hipóteses de riscos assumidos pela seguradora. Indenização que é devida. Sentença mantida. Recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos 757 e 760, ambos do Código Civil, sustentando ser indevida a indenização securitária, pois não restou caracterizada a Invalidez Funcional Total e Permanente por doença - IFPD. Aduz que a cobertura contratada pela autora se refere à invalidez funcional por doença, e não à invalidez por doença funcional, sendo que o capital correspondente à garantia de invalidez funcional permanente e total por doença somente é devido nas hipóteses em que o segurado comprove efetivamente a perda de sua existência independente, sem qualquer relação com a atividade laborativa. Alega que, no caso, a perícia médica não concluiu pela perda da existência independente do segurado, deixando de estar caracterizada condição para recebimento da importância segurada, e assim estaria excluído do risco assumido pela cobertura da apólice, o que configuraria violação dos dispositivos legais acima apontados, os quais estabelecem que o Recorrente somente é responsável pelos riscos por assumidos predeterminados na apólice ou bilhete de seguro.
+Argumenta ainda que houve perda de objeto da ação por tratar-se de direito personalíssimo, que não poderia ser transmitido aos herdeiros, e houve malferimento ao artigo 139 do Código de Processo Civil, pois foram considerados unicamente os argumentos da parte autora no tocante ao laudo pericial realizados de forma indireta, o qual não comprova que o autor perdeu a autonomia para realizar as atividades cotidianas.
+Contrarrazões ao recurso especial às fls. 675-690; 692-696.
+Crivo positivo de admissibilidade na origem (fls. 697-699).
+É o relatório.
+DECIDO.
+2. A conclusão do Tribunal de Justiça do Estado de São Paulo fora no sentido de reconhecer que não houve perda de objeto e que quadro clínico do autor era incapacitante o qual inviabilizava de forma irreversível o pleno exercício das relações autonômicas do segurado, quadro clínico esse que se inseria nas hipóteses de riscos assumidos pela seguradora.
+Neste sentido, confira-se excerto do acórdão recorrido (fl. 571-580):
+Inicialmente, afasto a preliminar de perda do objeto da demanda em razão do falecimento do autor, sustentando-se tratar de direito personalíssimo.
+Isso porque, o direito contratualmente estabelecido para pagamento de indenização em caso de morte, invalidez permanente total ou parcial por acidente, e invalidez funcional permanente total por doença, não se trata de um direito inerente à personalidade do contratante, não podendo, portanto, ser classificado como direito personalíssimo.
+ ..
+Ainda que assim não fosse, e se tratasse, como entende a apelante, de direito personalíssimo, sendo o pedido de reparação pecuniária por uma suposta ofensa, ainda assim, não haveria perda do objeto, já que a reparação transmite-se aos herdeiros. (..)
+ ..
+Logo, não se tratando de direito personalíssimo, bem como não desaparecendo o direito com a morte do autor no decorrer da demanda; de rigor reconhecer que, de fato, era caso de sucessão processual, nos termos do artigo 110 do Código de Processo Civil.
+ ..
+No mérito, o apelo também não é de ser acolhido.
+Consta da petição inicial que o autor era segurado em seguro de vida contratado por sua empregadora junto à apelante e que faria jus ao recebimento da indenização securitária, uma vez que se encontrava incapacitado para o desempenho de suas atividades. O autor alegou que, em razão de moléstia, possui invalidez de forma total e permanente e que, ao requerer o pagamento do capital segurado, este foi negado.
+Pediu, assim, a condenação da ré ao pagamento da indenização securitária no valor de R$137.055,51 (cento e trinta e sete mil, e cinquenta e cinco reais e cinquenta e um centavos)
+O pedido foi julgado procedente e, em que pese as razões recursais, a respeitável sentença recorrida deve ser mantida.
+O contrato de seguro de vida em grupo de que o apelado é titular prevê cobertura para morte acidental, assistência funeral, invalidez permanente total ou parcial por acidente, e invalidez funcional permanente total por doença (fls. 25/26 e 83/134).
+Conforme constou nos autos, as condições gerais do seguro obedecem às diretrizes da Circular nº 302/2005 da SUSEP, que determina, em seu artigo 17, que Garante o pagamento de indenização em caso de invalidez funcional permanente total, consequente de doença, que cause a perda da existência independente do segurado e, no §1º, que É considerada perda da existência independente do segurado a ocorrência de quadro clínico incapacitante que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado, conforme consta nas cláusulas 1 e 4 (fls. 113 e 115).
+E, no caso em tela, não foi possível a realização de perícia direta no segurado, diante de seu falecimento no decorrer da demanda, sendo realizada perícia indireta, a qual afirmou:
+3 - Caso o periciando estava incapacitado, essa incapacidade era temporária ou permanente
+A incapacidade era permanente.
+4 - Caso o periciando estava incapacitado, a incapacidade é total ou parcial
+A incapacidade era total. (fl. 434).
+8 - Quais era a necessidades do autor
+A resposta deste quesito encontra-se prejudicada porque o exame pericial foi feito de forma indireta, ou seja, o periciado não pode ser avaliado para que os itens solicitados possam ser respondidos. Qualquer tentativa de resposta será uma suposição e não o dado observado, analisado e investigado.
+9 - Explicitar adequadamente os limites da incapacidade, acaso existente, levando em consideração as peculiaridades do caso.
+A resposta deste quesito encontra-se prejudicada porque o exame pericial foi feito de forma indireta, ou seja, o periciado não pode ser avaliado para que os itens solicitados possam ser respondidos. Qualquer tentativa de resposta será uma suposição e não o dado observado, analisado e investigado. (fls. 434/435).
+VII- CONCLUSÃO
+Por todo o exposto, conclui-se que o periciado era portador de doença classificada no CID-10 como I50 (Insuficiência Cardíaca), I49.9 (Arritmias cardíacas não especificadas) e B57.2 (Doença de Chagas - crônica - com comprometimento cardíaco), que provocavam incapacidade total e permanente. Podendo ser classificada como doença cardíaca grave em 19 de setembro de 2012. (fl. 436).
+Sobre a tabela de invalidez por doença funcional
+A referida tabela faz questionamentos que não podem ser plenamente averiguados tendo em vista que não é possível o exame clínico do periciado apenas a análise dos documentos médicos apresentados. Por exemplo, a referida tabela questiona se "O SEGURADO APRESENTA-SE HÍGIDO; CAPAZ DE LIVRE MOVIMENTAÇÃO; NÃO APRESENTA EVIDÊNCIA DE DISFUNÇÃO E/OU INSUFICIÊNCIA DE ÓRGÃOS, APARELHOS OU SISTEMAS, POSSUINDO VISÃO EM GRAU QUE LHE PERMITA DESEMPENHAR SUAS TAREFAS NORMAIS", tal informação não pode ser obtida uma vez que não é possível realizar o exame clínico do periciado. De tal modo que me parece que a referida tabela é inapta para avaliar a funcionalidade em casos de exame pericial indireto. (fl. 454)
+Por todo o exposto, reitero que o periciado era portador de doença classificada no CID-10 como I50 (Insuficiência Cardíaca), I49.9 (Arritmias cardíacas não especificadas) e B57.2 (Doença de Chagas - crônica - com comprometimento cardíaco), com boa evolução até o dia 19 de setembro de 2012, quando apresentou piora significativa da fração de ejeção, fato esse que perdurou até o óbito em abril de 2016. Os baixos valores de ejeção até o óbito, permitem a classificação da doença como grave segundo a Sociedade Brasileira de Cardiologia e permitem afirmar que a incapacidade era permanente e total, tendo em vista a forma grave da doença. (fl. 455)  grifou-se
+Assim, restou demonstrado que o autor de cujus era acometido por doença que o incapacitava total e permanentemente para o trabalho, bem como que seu quadro clínico incapacitante inviabilizava de forma irreversível o pleno exercício das relações autonômicas.
+É certo haver prova das doenças que acometiam o segurado, as quais lhe causavam dispneia aos esforços habituais (classe funcional III IV NYHA) (fl. 27). E, não é necessário acrescer muito para reconhecer que tal doença cardíaca grave, na qual, conforme o laudo (fls. 431/432), havia fração de ejeção 25% em repouso, impossibilitava o exercício das relações autonômicas do falecido.
+Neste cenário, os documentos acostados à petição inicial, somados ao laudo pericial indicam que o apelado tem mesmo direito ao recebimento da indenização securitária pleiteada, pois configurada hipótese de cobertura prevista no contrato de seguro (invalidez funcional permanente total), devendo ser mantida a respeitável sentença.
+Por fim, nos termos do artigo 85, §11, do Código de Processo Civil, majoram-se os honorários advocatícios fixados para 17% do valor da condenação atualizado, em observância ao trabalho adicional realizado em grau de recurso e aos critérios previstos no § 2º do mesmo dispositivo.
+Ante o exposto, nega-se provimento ao recurso.
+3. Inicialmente, registra-se que a aferição do enquadramento da lesão ocupacional sofrida pelo segurado no conceito de acidente pessoal prescrito na apólice é competência das instâncias ordinárias, pois se limita aos termos de cláusula contratual e à prova produzida, incidindo, na espécie, os enunciados 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. COBERTURA PARA INVALIDEZ PERMANENTE TOTAL POR ACIDENTE. INCAPACIDADE LABORATIVA. ACIDENTE DE TRABALHO EQUIPARADO A ACIDENTE PESSOAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O Tribunal de origem, com base nos elementos fáticos constantes dos autos, considerou tratar-se de acidente de trabalho, por ter sido o agravado acometido de polipose nasal recidivante com hiposmia, em decorrência de inalar substâncias químicas irritantes relacionadas com o labor, sendo sua invalidez total e permanente, pois encontra-se impossibilitado de exercer sua atividade laboral.
+2. A discussão referente à extensão da cobertura, se a invalidez por acidente pessoal definida na apólice alcança a enfermidade laboral, bem como a análise de eventual cláusula excludente da cobertura por acidente em razão de doença profissional, demandariam inevitável interpretação de cláusula contratual. 3. "A análise da subsunção ou não da invalidez permanente por doença (apresentada pela segurada) ao risco expressamente acobertado no contrato de seguro reclama a incursão no conteúdo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é vedado ao STJ no âmbito do julgamento de recurso especial, em razão das Súmulas 5 e 7" (AgRg no AREsp 223.011/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 03/03/2015, DJe de 10/03/2015).
+4. Esta Corte, em casos semelhantes, já decidiu que se incluem no conceito de acidente laboral os chamados microtraumas, assim entendidos os males que ocorrem no exercício do trabalho a serviço da empresa, provocando lesão da qual resulta incapacidade laborativa.
+5. Uma vez demonstrado nos autos que o agravado comprovou a invalidez permanente, em decorrência de inalar substâncias químicas irritantes no exercício do trabalho a serviço da empresa, o que provocou sua incapacidade laborativa, mostra-se devida a indenização securitária por invalidez permanente total por acidente.
+6. Agravo interno não provido.
+(AgInt no AREsp 1043920/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+--
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA E ACIDENTES PESSOAIS. LESÃO POR ESFORÇO REPETITIVO (LER). MICROTRAUMAS. COBERTURA. ABRANGÊNCIA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+1. Encontra óbice nas súmulas 5 e 7/STJ a investigação acerca de cobertura securitária, com o propósito verificar se os microtraumas laborais específicos - no caso, lesão por esforço repetitivo (LER) foi ou não objeto de expressa exclusão da cobertura securitária.
+2. Agravo interno não provido.
+(AgInt no REsp 1667857/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 07/11/2017)
+--
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE SAÚDE E/OU ACIDENTES PESSOAIS. APÓLICE EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. ARGUIÇÃO DE QUE A DOENÇA DO TRABALHO É EQUIPARADA AO ACIDENTE DE TRABALHO PARA EFEITOS DE INDENIZAÇÃO SECURITÁRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem, de que a incapacidade laboral parcial se deu por doença ocupacional não coberta pela apólice, esbarra no óbice das Súmulas 5 e 7/STJ .
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1007809/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/03/2017, DJe 21/03/2017)
+--
+AGRAVO REGIMENTAL. DIREITO CIVIL. SEGURO DE VIDA E ACIDENTES PESSOAIS. LESÃO POR ESFORÇO REPETITIVO (LER). MICROTRAUMAS. COBERTURA. ABRANGÊNCIA. INCIDÊNCIA DA SÚMULA 5/STJ.
+1. Encontra óbice na Súmula 5/STJ a investigação acerca de cobertura securitária, com o propósito de enquadrar microtraumas laborais específicos - no caso, lesão por esforço repetitivo (LER) - no conceito de acidentes pessoais. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1229764/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2015, DJe 13/08/2015)
+Desse modo, para suplantar a cognição estadual que julgou procedente a cobrança de indenização securitária fundada, para aferir se a configuração da invalidez permanente apontada pelo perito se subsume às regras estipuladas nas cláusulas contratuais, revelar-se-ia imprescindível a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o óbice das Súmulas 5 e 7/STJ
+4. Outrossim, não se pode conhecer do recurso pela alínea c, uma vez que aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+Nesse sentido:
+ADMINISTRATIVO. LIMITAÇÃO AO EXERCÍCIO DO DIREITO DE PROPRIEDADE. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. DEVIDA PRESTAÇÃO JURISDICIONAL. ART. 524 DO CÓDIGO CIVIL DE 1916. DIREITO DE INDENIZAÇÃO DE ÁREA DECLARADA DE PRESERVAÇÃO PERMANENTE. IMPOSSIBILIDADE DE REEXAME DA DECISÃO A QUO POR ESTA CORTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. (..)
+2. (..)
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Agravo regimental improvido. (AgRg no AREsp 16879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe 27/04/2012)
+5. Melhor sorte não socorre à recorrente no tocante ao pleito de que a indenização securitária por invalidez é direito personalíssimo, razão pela qual os herdeiros do segurado falecido não detêm legitimidade para ajuizar ação de cobrança em face da seguradora.
+No entendimento desta Corte a indenização securitária por invalidez, enquanto direito patrimonial, pode ser pleiteada pelos herdeiros do segurado falecido. Confira-se:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SEGURO POR INVALIDEZ PERMANENTE DECORRENTE DE DOENÇA (IPD). LEGITIMIDADE ATIVA DO ESPÓLIO DO SEGURADO. PREVALÊNCIA DA NAUREZA PATRIMONIAL DA INDENIZAÇÃO POSTULADA.
+1 - Ação de cobrança movida pela sucessão de segurado falecido formulando pedido de pagamento de indenização securitária decorrente de sua invalidez permanente ocorrida meses antes de sua morte.
+2 - Natureza eminentemente patrimonial do pedido de indenização formulado.
+3 - Legitimidade ativa do espólio para sua cobrança.
+4 - Doutrina e jurisprudência acerca do tema.
+5 - RECURSO ESPECIAL PROVIDO.
+(REsp 1335407/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/05/2014, DJe 23/05/2014)
+Dessarte, não merece reforma o acórdão recorrido para afastar o direito de sucessão da indenização aos herdeiros.
+6. Ante o exposto, nego provimento ao recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. APÓLICE DE SEGURO DE VIDA EM GRUPO. DOENÇA LABORAL. ACIDENTE DE TRABALHO. INVALIDEZ TOTAL E PERMANENTE. CONCEITO. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. INDENIZAÇÃO SECURITÁRIA. DIREITO PATRIMONIAL. CARÁTER PERSONALÍSSIMO. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+1. Na hipótese, rever as conclusões do acórdão recorrido, no sentido de suplantar a cognição estadual, que julgou procedente a cobrança de indenização securitária fundada para aferir se a configuração da invalidez permanente apontada pelo perito se subsume às regras estipuladas nas cláusulas contratuais, revelar-se-ia imprescindível a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+2. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Precedentes.
+3. De acordo com o entendimento desta Corte a indenização securitária por invalidez ocorrida antes de sua morte, pode ser pleiteada pelos herdeiros do segurado falecido, por tratar-se de direito eminentemente patrimonial do pedido de indenização formulado. Precedente.
+4. Recurso especial não provido.
