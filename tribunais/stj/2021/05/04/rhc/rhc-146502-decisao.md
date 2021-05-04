@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso emhabeas corpussem pedido de liminar interposto por MARCIO GAMA DOS SANTOScontra acórdão do Tribunal de Justiça do Estado da Bahia (HC n. 8022465-51.2020.8.05.0000).
+Orecorrente teve a prisão em flagrante -ocorrida em 8/8/2020-convertida em preventiva a pedido do Ministério Público (fls. 30-31),por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na apreensão de expressiva quantidade deentorpecentes - 12 porções de cocaína e 1,820kg de maconha -, além de uma balança de precisão e certa quantia em dinheiro (R$ 37,00). Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega ausência de fundamentação idônea no decreto preventivo.
+Requer a expedição de alvará de soltura.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 145-146).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 70-76):
+Da análise desta Ação Autônoma de Impugnação, infere-se que não assiste razão ao Impetrante, uma vez que o decreto prisional, embora seja sucinto, encontra-se devidamente fundamentado, sendo meio idôneo à decretação da prisão preventiva do Paciente, porquanto presentes os requisitos e 01 (um) dos fundamentos autorizadores do art. 312 do Código de Processo Penal Brasileiro, qual seja, a GARANTIA DA ORDEM PÚBLICA.
+ ..
+Ato contínuo, ao se deslocar até o local indicado, o denunciadoao perceber a presença da polícia dispensou uma mochila preta, (contendo 12 (doze) trouxinhas com pó branco, aparentando ser cocaína, uma quantidade de erva seca, aparentando ser maconha, uma balança de precisão da marca SF-400, cor branca e a quantia de R$ 37,00 (trinta e sete reais) e empreendeu fuga, pulando vários muros de casas próximas, mas fora alcançado pelos prepostos da polícia.
+Diante da abordagem MÁRCIO confessou a propriedade das trouxinhas contendo pó branco e a balança de precisão, todavia negou a propriedade da mochila, alegando que pertenceria a uma pessoa conhecida por DJAN.
+Inquiridos em sede policial optou pelo direito constitucional de permanecer em silêncio.
+Imperioso destacar que o denunciado responde a outra ação penal(0501518-41.2016.8.05.0244-tráfico de drogas), conforme consulta ao Portal E-saj.
+A autoria e a materialidade restam demonstradas através dos depoimentos dos policiais, auto de exibição e apreensão de fl. 07,laudo de constatação provisório de fl. 19."
+ ..
+Apenas para argumentar, o Paciente ostenta, até a presente data, a outras 02 (duas)ações penais (Autuadas sob nº. s 0501518-41.2016.8.05.0244 e 0700013-55.2021.8.05.0244- tráfico de drogas e associação para o tráfico -, nesta última ação com mais 43 (quarenta e três) acusados, com possível integração à Facção BONDE DO MALUCO ou TUDOTRÊS, conforme consulta ao Portal E-saj de 1º Grau.
+No presente caso, a apreensão de apetrechos ligados à traficância e de quantidade e variedadede entorpecentes e ofato de estarem tramitando duas ações penais em desfavor do paciente, com possível envolvimento em organização criminosa,foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+Por fim, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
