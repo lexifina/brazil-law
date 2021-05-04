@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ALEXANDRE SOUZA DOS SANTOS - preso cautelarmente pela suposta prática do crime de tráfico de drogas - contra decisão monocrática que não conheceu do presente habeas corpus (e-STJ fls. 706/706), o qual recebo como pedido de reconsideração.
+Segundo consta dos autos, a Defensoria Pública Estadual impetrou habeas corpus na Corte estadual, o qual não foi admitido por decisão monocrática (e-STJ fls. 28/29). Insatisfeita, recorreu da decisãoe o órgão fracionário, por maioria de votos, negou provimento ao recurso, em acórdão assim ementado (e-STJ fl.18):
+AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. REJEITADO. Não se conheceu do habeas corpus, pois, como destacado na decisão monocrática, ele foi irregularmente impetrado. Inclusive, ressalta-se que, na irregularidade apontada, é possível que nem a decisão atacada foi juntada pela impetrante. Agravo regimental rejeitado, por maioria.
+Nas razões do habeas corpus, a Defensoria Pública alegounão haver motivos para a prisão preventiva do paciente, ressaltando que a quantidade de droga apreendida não é relevante para justificar a restrição da liberdade. Argumentou, ainda, que a condição de reincidente, por si só, não pode ser motivação idônea, lembrando que o suposto delito foi praticado sem violência ou grave ameaça.Por último, destacoua superlotação dos estabelecimentos prisionais, que só tem promovido o fortalecimento das facções criminosas, e que a atuação dosgrandes traficantes deveria ser investigada, a fim de conter a criminalidade.
+O habeas corpus foi indeferido liminarmente por configurar indevida supressão de instância (e-STJ fls. 706/708)
+Nas razões do recurso de agravo, a Defensoria Pública alega que não postulou a revogação da prisão, e sim a concessão da ordem para determinar que o Tribunal analise o mérito do writ originário, nos termos do voto vencido.
+Diante disso, pede a reconsideraçãoda decisão agravada para conceder a ordem nos termos postulados na inicial.
+É o relatório, decido.
+O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. FELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+Entendo que assiste razão à Defensoria Pública.
+Eis as razões expostas no voto condutor do acórdão(e-STJ fl. 19/21):
+2. Rejeito o agravo regimental.
+A decisão monocrática, que não conheceu o habeas corpus impetrado em favor do segundo agravante está correta.
+O Código de Processo Civil estabeleceu em seus artigos 926 e seguintes a situação para aplicação de decisões monocráticas. E estes artigos são aplicáveis aos procedimentos penais por força do artigo 3º do Código de Processo Penal.
+Tanto que o é que Capítulo IV do Regimento Interno deste Tribunal, que disciplina a Seção Criminal, prevê em seu artigo 20-C: "Às Turmas de Julgamento compete: I -uniformizar a jurisprudência criminal, (grifei) observados os artigos 926 e 927, bem como o artigo 978 do Código de Processo Civil, e na forma deste Regimento; II.."
+Início a fundamentação pelo artigo 926 que prescreve: "Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+Em seguida vem o artigo 927 que orienta no sentido que: "Os juízes e os tribunais observarão: I.. V -a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
+A ausência de inciso a respeito no artigo mencionado, não retira do Colegiado a possibilidade de aplicar a Resolução de Demandas Repetitivas.
+No caso em tela, a impetração admite que a autoridade judicial aja dentro da lei, das regras do processo penal, e, portanto, não cometeu nenhuma ilegalidade que poderia ser modificada pelo habeas corpus.
+Quando da decisão, afirmei:
+"A impetração é irregular e não merece conhecimento. Isto porque, há incapacidade física deste Relator de conhecer a decisão que decretou a prisão preventiva do paciente.
+Aimpetrante juntou inúmeros documentos do processo criminal e não especificou onde estaria a decisão citada. Aliás, situação na qual se pode presumir que nem a referida decisão foi juntada pelo impetrante em seu pedido de habeas corpus.
+Diferentemente dos Ministros do Supremo Tribunal Federal e Superior Tribunal de Justiça, que contam com dezenas de assessores, eu só tenho três e que estão assoberbados de trabalho diante da quantidade excessiva de recursos que são diariamente distribuídos a este julgador.
+Portanto, este Relator, até porque não lhe cabe a diligência, não tem como, e nem a obrigação de, ficar "garimpando" entre os inúmeros documentos digitalizados, onde está o ato judicial que decretou a prisão. Afinal, cabe, exclusivamente, a quem impetra o writ, destacar asituação, anotando-se ao lado do documento pertinente que se trata da prisão preventiva.
+Entendo que se aplica ao caso o que prevê o artigo 156 do Código de Processo Penal, estabelecendo: "a prova da alegação incumbirá a quem a fizer.." E, ainda, a hipótese se assemelha, e muito, com aquela na qual a impetração vem desacompanhada da decisão a respeito da prisão provisória.
+Assim, nos termos supra, monocraticamente, não conheço do habeas corpus."
+3. Assim, nos termos supra, rejeito o agravo regimenta.
+Não se desconhece as limitações de logística e de pessoal para examinar em tempo razoável as demandas judiciaisque chegamaos gabinetes dos Magistrado no Brasil. Todavia, essa justificativa não podeprevalecer diante da garantia constitucional da prestação jurisdicional (CF, Art. 5º, XXXV), sobretudo no caso em exame, em que se alega violação ao sagrado direito de liberdade do paciente.
+No caso, o Relator teria presumido que a decisão que decretou a prisão não teria sido juntada aos autos. E ainda disse que "não lhe cabe a diligência, não tem como, e nem a obrigação de, ficar "garimpando" entre os inúmeros documentos digitalizados, onde está o ato judicial que decretou a prisão". Todavia, o voto divergente apontou com precisão a localização da mencionada peça processual (e-STJ fl. 21):
+Compulsada a documentação juntada ao habeas, a decisão que decretou a prisão encontra-se nas páginas 113/115, o que autoriza a apreciação, pelo colegiado, da regularidade da custódia do paciente.
+Por isso, voto pelo provimento do Agravo, para que o habeas seja submetido a julgamento pela Câmara.
+Cumpre recordar queo habeas corpus exige "(..)prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/8/2015, DJe 31/8/2015).
+No caso, essa exigência foiregularmente cumprida.
+Ante o exposto, não conheço do presente habeas corpus. Contudo, reconsidero a decisão anterior e concedo a ordem de ofício para determinar o exame do habeas corpus n.70084833086 (Nº CNJ: 0121667-45.2020.8.21.7000), impetrado pela Defensoria Pública em favor deALEXANDRE SOUZA DOS SANTOS.
+Intimem-se.
