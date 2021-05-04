@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ANITTA DUTRA NOGUEIRA eGABRIEL MALTA NOGUEIRA contra decisão de inadmissibilidade do recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+DECLARAÇÃO DE INEXISTÊNCIA DE CRÉDITOTRIBUTÁRIO. LANÇAMENTO NO IMPOSTO DE RENDA. DOAÇÃO. RETIFICADORA. ALEGAÇÃO DE EQUÍVOCO. EMPRÉSTIMO. ITCMD. AUSÊNCIA DE COMPROVAÇÃO. §1º ART. 147 CTN. SENTENÇA MANTIDA.
+1. A Administração Pública procede à prática de atos administrativos condicionados à observância de princípios constitucionais e legais, ou seja, ela só é obrigada a agir de acordo com o que preceitua a lei ou a Constituição.
+2. A retificação de declaração por iniciativa dos próprios declarantes visando excluir tributo só pode ser admitida mediante a comprovação, do erro em que se funde a declaração a ser retificada e desde que ocorra antes de ser o declarante notificado do lançamento.
+3. Pelo acervo probatório colacionado aos autos não se visualiza qualquer prova de que não tenha ocorrido o fato gerador, pois não basta a mera apresentação de declaração retificadora da declaração anual de Imposto de Renda de Pessoa Física para descaracterizar a ocorrência da doação, anteriormente informada na declaração anual.
+4. A declaração dada pelo próprio contribuinte na ocasião do ajuste anual do Imposto de Renda é prova suficiente acerca da doação feita, que assim independe da celebração de instrumento formal do negócio entabulado e que serviu à tributação do ITCD distrital.
+5. Recurso conhecido e desprovido.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, as partes indicaram ofensa ao art. 147, § 1º, do CTN. Sustentaram, em resumo, que, em decorrência de erro no preenchimento na declaração de imposto de renda, ao indicar erroneamente empréstimo como doação, apresentou declaração retificadora antes da notificação do lançamento, razão pela qual não teria sido concretizado o fato gerador do ITCMD.
+A Presidência do TJDFT inadmitiu o apelo excepcional com amparo na Súmula 7 do STJ.
+Irresignados, os particulares interpõem o presente agravo, insurgindo-se contra o obstáculo imposto ao trâmite do recurso especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Dito isso, vale destacar que cuidam os autos de embargos à execução fiscal em que se objetiva a extinção do feitoem razão da não ocorrência do fato gerador do ITCMD, pois, por equívoco, teria sido indicado o recebimento de valores a título de doação na declaração anual do imposto de renda, o que teria sido objeto de retificação, na forma do art. 147, § 1º, do CTN,para constar que o montante teria sido transferidopor meio de empréstimo, antes da notificação do lançamento.
+O Juízo de primeiro grau rejeitou os embargos, tendo em vista a ausência de demonstração de que teria havido erro na declaração.
+Interposta apelação, essa foi desprovida pela Corte distrital, ao fundamento de que o mencionado dispositivo admite a retificação da declaração por iniciativa do declarante, porém esse deve comprovar o erro, o que não se teriaverificado no caso.
+Do que se observa,o Tribunal de origem decidiu que os recorrentes não lograram demonstrar o equívoco na declaração do imposto de renda para que se pudesse validar a retificação dessa, na forma do art. 147, § 1º, do CTN, e afastar a incidência do ITCMD sobre os valores indicadosinicialmentecomo recebidos por meio de doação, mas que, segundo alegam, seriam decorrentes de celebração de empréstimo entre particulares.
+Nessa perspectiva, mostra-se essencial a incursão no substrato fático-probatório dos autos para se chegar a conclusão diversa, hipótese inviável nesta instância superior, ante o óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
