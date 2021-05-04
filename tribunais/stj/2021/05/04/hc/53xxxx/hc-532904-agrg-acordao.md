@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOIS HOMICÍDIOS QUALIFICADOS CONSUMADOS. ALEGAÇÃO DO MINISTÉRIO PÚBLICO QUANTO À GRAVIDADE DO DELITO. PEDIDO DE EXASPERAÇÃO EM 1/2, PELA CONTINUIDADE DELITIVA. DECISÃO MANTIDA.
+1. As razões trazidas pelo Ministério Público já dizem respeito à gravidade do próprio crime em si, e, por isso, foram incluídas as qualificadoras, relacionadas ao recurso que dificultou a defesa da vítima também. A pena já foi aumentada de modo que, para a continuidade, deve ser aplicada a mesma fração utilizada nasentença.
+2. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental em habeas corpus interposto pelo Ministério Público Federal contra a decisão de minha Relatoria, que concedeu a ordem para redimensionar a pena do paciente. Esta, a ementa da decisão (fl. 145):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DOIS HOMICÍDIOS QUALIFICADOS CONSUMADOS. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE NA PRIMEIRA FASE PELA UTILIZAÇÃO DE QUALIFICADORA PARA AUMENTAR A PENA-BASE. POSSIBILIDADE. CONTINUIDADE DELITIVA. EXASPERAÇÃO EM 1/2, COMO DETERMINADO NA SENTENÇA. REDIMENSIONAMENTO DA PENA DO PACIENTE. REGIME FECHADO.
+Ordem concedida nos termos do dispositivo.
+Alega o agravante que não se mostra excessiva a elevação da pena na fração de 1/2, pela continuidade delitiva, em razão da gravidade concreta do delito. Aduz que a pena-base foi elevada na fração de 1/6 e que houve fundamentação do Tribunal para aumentar a fração pela continuidade, por considerar que o crime foi cometido contra a companheira, acompanhada de uma amiga, com recurso que dificultou a sua defesa.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOIS HOMICÍDIOS QUALIFICADOS CONSUMADOS. ALEGAÇÃO DO MINISTÉRIO PÚBLICO QUANTO À GRAVIDADE DO DELITO. PEDIDO DE EXASPERAÇÃO EM 1/2, PELA CONTINUIDADE DELITIVA. DECISÃO MANTIDA.
+1. As razões trazidas pelo Ministério Público já dizem respeito à gravidade do próprio crime em si, e, por isso, foram incluídas as qualificadoras, relacionadas ao recurso que dificultou a defesa da vítima também. A pena já foi aumentada de modo que, para a continuidade, deve ser aplicada a mesma fração utilizada na sentença.
+2. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Razão não assiste ao agravante. A Nona Câmara Criminal do Tribunal de Justiça de São Paulo deu parcial provimento ao recurso da acusação para elevar a pena do paciente para 28 anos de reclusão. Esta, a ementa do julgado (fl. 38):
+Apelação. Júri. Dois homicídios duplamente qualificados, em continuidade. Inconformismo Ministerial em busca do aumento da pena-base, afastamento da continuidade delitiva ou incremento da fração de aumento. Penas Básicas corretamente fixadas e que não comportam alteração. Continuidade delitiva caracterizada que, porém, em razão dos motivos e circunstâncias do crime, recomenda aumento da pena ao dobro. Recurso parcialmente provido para aumentar a pena para 28 (vinte e oito) anos de reclusão. Com correção.
+O Conselho de Sentença acolheu as duas qualificadoras, relativas ao motivo fútil e ao recurso que dificultou a defesa das vítimas. Para o homicídio qualificado, a pena mínima é de 12 anos de reclusão. No caso, o Magistrado considerou uma das qualificadoras para qualificar o delito e a outra para elevação da pena-base.
+Na primeira fase, para cada um dos delitos, a pena foi fixada em 14 anos de reclusão, portanto, 2 anos acima do mínimo, em face de uma das qualificadoras. Na segunda fase, foi feita a compensação da atenuante de confissão com a agravante de o crime ter sido cometido contra a mulher. Já em relação à continuidade delitiva, a Corte local agiu com excesso em determinar que o aumento da pena fosse fixado no dobro. As razões trazidas pelo Ministério Público já dizem respeito à gravidade do próprio crime em si, e, por isso, foram incluídas as qualificadoras, relacionadas ao recurso que dificultou a defesa da vítima também. A pena já foi aumentada de modo que, para a continuidade, deve ser aplicada a mesma fração utilizada na sentença, e a pena total alcança agora o patamar de 21 anos de reclusão.
+Ante o exposto, nego provimento ao agravo regimental.
