@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 1ª Vara Federal de Sorocaba/SP, suscitado, e o Juízo da 9ª Vara Federal Cível da Seção Judiciária do Distrito Federal, suscitante, em ação de mandado de segurança, com pedido de liminar, impetrado por Gilzete Cavalcante dos Santos contra ato supostamente ilegal do Presidente da Câmara de Julgamento do Conselho de Recursos da Previdência Social que, de posse do pedido de recurso da impetrante, devidamente instruído, desde 16/07/2020, protocolado em 04/11/2019, referente ao Benefício n. 1908366580 (Requerimento n. 1446376855), não procedeu ao julgamento do requerimento administrativo formulado.
+Distribuído o feito ao Juízo da 1ª Vara Federal de Sorocaba/SP, este declinou da competência para uma das Subseções Judiciárias da Justiça Federal em Brasília, considerando que a competência para o processamento e julgamento de mandado de segurança se estabelece em razão da localidade onde lotada a autoridade coatora (fls. 18-19).
+O Juízo da 9ª Vara Federal Cível da Seção Judiciária do Distrito Federal, recebendo os autos, suscitou o presente conflito, sob o entendimento de que "o fato de a demanda encerrar ação mandamental não impede o impetrante de escolher o foro em que deseja manejá-la, observadas as opções que lhe outorga o texto constitucional, dentre as quais se encontra o foro do seu domicílio" (fls. 24-27).
+É o relatório. Decido.
+Consoante se verifica, a controvérsia dos autos refere-se à discussão acerca da competência para processar e julgar mandamus em que o particular pretende compelir a autoridade impetrada que proceda ao julgamento de seu recurso administrativo de revisão de benefício previdenciário.
+A respeito da questão, a jurisprudência desta Corte, em harmonia com a interpretação mais acurada do art. 109, §2º, da Constituição Federal, feita pelo Supremo Tribunal Federal, "entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+A esse respeito, os seguintes julgados:
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO FEDERAL DA 14ª VARA CÍVEL DO DISTRITO FEDERAL - SJ/DF, o Suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE AMERICANA - SJ/SP, o Suscitado, nos autos de mandado de segurança impetrado por Adivaldo Ferreira dos Santos em desfavor do Instituto Nacional do Seguro Social e do Diretor do Conselho de Recursos da Previdência Social.
+O JUÍZO FEDERAL DA 1ª VARA DE AMERICANA - SJ/SP considerando que a competência para o processamento e julgamento de mandado de segurança se estabelece pela sede funcional da autoridade coatora, declinou da competência e determinou a remessa dos autos a uma das Varas Federais da Seção Judiciária do Distrito Federal (e-STJ fls. 10/12).
+O JUÍZO FEDERAL DA 14ª VARA CÍVEL DO DISTRITO FEDERAL - SJ/DF, por sua vez, suscitou o presente conflito, ao argumento de que "afigura-se contrassenso deixar de reconhecer à parte impetrante a possibilidade de ajuizar o writ no foro do seu domicílio, notadamente à luz do § 2º do art. 109 da Constituição da República, norma ampliativa do acesso à justiça que, dentre outras opções, expressamente prevê que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor"" (e-STJ fls. 4/6).
+O Ministério Público Federal opinou "seja declarada a competência do Juízo Federal da 1ª Vara de Americana - SJ/SP, o suscitado" (e-STJ fls. 23/26).
+É o relatório.
+Passo a decidir.
+ ..
+Conheço do conflito, porquanto instaurado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça reconhece a possibilidade de o mandado de segurança ser impetrado no foro do domicílio do impetrante, quando referente a ato de autoridade integrante da Administração Pública federal, ressalvada a hipótese de competência originária dos Tribunais.
+Noutro passo, a jurisprudência do Superior Tribunal de Justiça, visando à garantia do acesso à justiça, entende que o disposto no art. 109, § 2º, da Constituição Federal, aplica-se, inclusive, às ações mandamentais.
+No mesmo sentido, confiram-se os seguintes precedentes:
+ ..
+Dessa forma, a competência para a análise do writ é do Juízo Suscitado, de acordo com o disposto no art. 109, § 2º, da Constituição Federal.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 1ª VARA DE AMERICANA - SJ/SP, o Suscitado (CC 178422/DF, Relator Ministro MAURO CAMPBELL MARQUES, Julgamento em 13/04/2021, Dje 15/04/2021).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA.ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Optando o autor por impetrar o mandamus no seu domicílio, e não naqueles outros previstos no § 2º do art. 109 da Constituição Federal, não compete ao magistrado limitar a aplicação do próprio texto constitucional, por ser legítima a escolha da parte autora, ainda que a sede funcional da autoridade coatora seja no Distrito Federal, impondo-se reconhecer a competência do juízo suscitado.
+3. Conflito de Competência conhecido para declarar competente o Juízo Federal da 2ª Vara de Barueri - SJ/SP, ora suscitado.
+(CC 169.239/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 10/06/2020, DJe 05/08/2020)
+Nesse contexto, a competência para o julgamento da causa é do juízo federal localizado no domicílio daimpetrante do mandado de segurança.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo da 1ª Vara Federal de Sorocaba/SP, suscitado.
+Publique-se. Intimem-se.
