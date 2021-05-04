@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravomanejado pelo Município de São Bernardo do Campo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 339):
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Seguro garantia - Decisão que determina o acréscimo de 30% sobre o valor objeto da apólice, nos termos do art. 835 e 848. do CPC - Descabimento - Seguro garantia eqüivale a depósito em dinheiro - LEF, arts. 9o, § 3o e 15, inc. I - Prevalência da LEF sobre a norma processual comum - Decisão reformada - Recurso provido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 835, §2º, e 848, parágrafo único, do CPC. Sustenta que "a penhora pode ser substituída por fiança bancária ou seguro garantia judicial, desde que o valor não seja inferior ao do débito constante da inicial, e que este seja acrescido de trinta por cento" (fl. 367).
+Contrarrazões apresentadas às fls. 376/391.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência deste Superior Tribunal de Justiçaé firmeno sentido de que "a exigência mais gravosa para o executado relativa ao acréscimo de 30%, na hipótese de substituição da penhora por fiança bancária ou seguro garantia judicial, não se aplica, em princípio, ao caso da penhora inicial, dada a ausência de previsão legal"(AgInt no REsp 1.316.037/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/9/2016, DJe 22/9/2016).
+A propósito:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CARTA DE FIANÇA ACRESCIDA DE 30%. SUBSTITUIÇÃO DE PENHORA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DE 1% SOBRE O VALOR DA CONDENAÇÃO.
+ ..
+3. O Tribunal capixaba consignou: "Conforme relatoriado, trata-se de recurso de agravo de instrumento em que o agravante PETRÓLEO BRASILEIRO S/A PETROBRAS pretende ver modificada a r. decisão a quo (fls. 76/76V) que, nos autos da ação de execução fiscal 0049675-23.2012.8.08,0030 em face do MUNICÍPIO DE LINHARES/ES acolheu o petitório do ora agravante no sentido de substituir a penhora on line por fiança bancária, a qual acresceu ao débito mais 30% (trinta por cento)". (grifo nosso).
+4. É importante enfatizar que o STJ possui entendimento de que norma do art. 656, § 2º, do CPC, apesar de seu caráter subsidiário, possui aplicação nos processos de Execução Fiscal.
+5. Conforme exposto no acórdão impugnado, houve substituição da penhora on line por fiança bancária, com o valor atualizado acrescido de 30%, com fulcro no art. 656, § 2º, do CPC; portanto, a decisão está em conformidade com a legislação processual vigente. Diferente do alegado pela recorrente, apenas nas hipóteses de garantia originária da dívida fiscal não é razoável exigir acréscimo de 30%. Precedentes: REsp 1.556.461/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/2/2016); AgRg na MC 24.947/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9/11/2015 e AgRg na MC 24.961/RJ, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Segunda Turma, DJe 9/12/2015).
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.564.097/ES, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 17/03/2016, DJe 24/05/2016 - grifos nossos).
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PROCESSUAL CIVIL. PEDIDO LIMINAR PARA ATRIBUIR EFEITO SUSPENSIVO A RECURSO ESPECIAL JÁ INTERPOSTO, MAS COM JUÍZO PRÉVIO DE ADMISSIBILIDADE PENDENTE NO TRIBUNAL DE ORIGEM. EXCEPCIONALIDADE VERIFICADA. ART. 656, § 2º, DO CPC QUE SE REFERE AO CAPUT DESSE DISPOSITIVO. EXIGÊNCIA GRAVOSA AO EXECUTADO QUE, PREVISTA EM RELAÇÃO À SUBSTITUIÇÃO DA PENHORA, NÃO PODE SER ESTENDIDA PARA O CASO DE PENHORA INICIAL. CONSTATAÇÃO DOS REQUISITOS AUTORIZADORES DA MEDIDA CAUTELAR LIMINAR. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Há casos cuja excepcionalidade justifica a admissão, nesta Corte de destino, de Medida Cautelar tendente a conferir efeito suspensivo a Recurso Especial cujo exame prévio de admissibilidade se encontra pendente. A interdição desse caminho constrangiria a parte a um injustificável vácuo de jurisdição, dado o não conhecimento de Medida Cautelar de semelhante propósito pela instância de origem, que se afirmou incompetente para o exame da ação.
+2. O art. 656, § 2º, do CPC está vinculado ao caput desse dispositivo, que trata da hipótese de substituição da penhora, e não do seu oferecimento inicial. Portanto, a exigência ali prevista é de que a fiança bancária ou o seguro garantia judicial oferecido em substituição à penhora original seja reforçado em 30% (trinta por cento), e não que o oferecimento inicial desses instrumentos à penhora seja onerado.
+3. Essa exigência mais gravosa para o executado, inserida no ordenamento jurídico quanto às hipóteses de substituição da penhora por fiança bancária ou seguro garantia judicial, não se aplica, em princípio, ao caso da penhora inicial, dada a ausência de previsão legal, haja vista a atenção que deve render o intérprete à topologia da norma, critério relevante para a interpretação sistemática do ordenamento jurídico, como se sabe, a teor dos arts. 10, II, e 11, III, b e c, da LC 95/98.
+4. Agravo Regimental a que se nega provimento.
+(AgRg na MC 23.527/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/8/2015, DJe 26/8/2015 - grifos nossos).
+Ilustrativamente, nesse mesmo sentido, destaco as seguintes decisões monocráticas envolvendo idêntica controvérsia: REsp 1.689.673/RJ, Ministra Regina Helena Costa, DJe 1º/9/2017; Resp 1.676.517/RJ, Ministro Francisco Falcão, DJe 7/8/2017; REsp 1.667.364/RJ, Ministro Mauro Campbell Marques, DJe 27/6/2017.
+No caso, o Tribunal de origem consignou que (fl. 356):
+Trata-se de execução fiscal no valor de R$ 184.685,76,
+em que a garantia ofertada cobre integralmente o valor da dívida tributária,
+atualizado monetariamente pelo IPCA-15, com juros de mora à razão de 1%
+ao mês e acrescido de 20% a título de honorários advocatícios.
+ ..
+Assim, prevalece o artigo 9º, inciso II, da Lei nº 6.830/80, alterado pela Lei nº 13.043/14, que possibilita ao executado oferecer contrato de seguro em valor correspondente ao montante do débito, com os acréscimos legais, a título de garantia do Juízo, ficando descartada a aplicação dos artigos do art. 835 e 848, do CPC, até porque, cuida-se de garantia originária e não de substituição.
+Assim, o acórdão recorrido está em consonância com a jurisprudência desta Corte sobre o tema, não comportando reparos.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
