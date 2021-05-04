@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deANTONIO LUIS AMORIM BARBOSA, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁSno julgamento do Recurso em Sentido Estrito n. 382099-94.2015.0100.
+Extrai-se dos autos que o paciente foi preso preventivamente em 17/8/2016 por ter supostamente praticado o delito tipificado no art. 121, § 2º, incisos II e III, do Código Penal (homicídio qualificado). Referida custódia foi mantida por ocasião da sentença de pronúncia.
+Irresignada, a defesa interpôs recurso em sentido estrito perante o Tribunal de origem, o qual negou provimento ao reclamo nos termos do acórdão que restou assim ementado:
+RECURSO EM SENTIDO ESTRITO. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. DECISÃO DE PRONÚNCIA. NULIDADE. DEFEITO DO INQUÉRITO POLICIAL. NECESSIDADE DE PROVA PERICIAL. FORMULAÇÃO NAS ALEGAÇÕES FINAIS. INADEQUAÇÃO.PROVA DA MATERIALIDADE E DA AUTORIA DELITIVAS. PRONUNCIAMENTO INTERMEDIÁRIO MANTIDO.
+I - O defeito do procedimento inquisitivo não contamina a ação penal, não lhe gerando nulidade, sendo que, se indicado o fazimento de prova pericial, para suprir a deficiência de elemento deconvicção daquela fase, deve ser objeto de requerimento na etapa de julgamento pelo Júri, ocorrendo a inadequação da formulação nas alegações finais, encarrada a instrução processual, nos termos do art. 422, do Código de Processo Penal.
+II - Não prospera a despronúncia, pelo crime de homicídio duplamente qualificado, art. 121, § 2º, inciso II e III, do Código Penal Brasileiro, estando a decisão provisional alicerçada na prova oral colhida durante a instrução processual, revelando a materialidade do fato e os indícios estruturados da atuação criminal do processado, atendidas as exigências do art. 413, caput, do Código de Processo Penal.
+RECURSO DESPROVIDO(fls. 21/22).
+No presentemandamus,alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de quatro anos sem que o paciente tenha sido submetido a julgamento pelo Tribunal do Júri.
+Assevera que mesmo após dois anos do julgamento do recurso em sentido estrito os autos não foram devolvidos à origem para prosseguimento do feito, razão pela qual não há que se falar em aplicação do Enunciado n. 21 da Súmula do Superior Tribunal de Justiça.
+Por fim, aponta inobservância do art. 316, parágrafo único, do Código de Processo Penal, tendo em vista que a necessidade de manutenção da medida extrema não foi revista pelo Juízo processante.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura.
+É o relatório.
+Decido.
+Inicialmente, as alegações de excesso de prazo para a formação da culpa e ausência de revisão da custódia cautelar no prazo fixado pelo art. 316, parágrafo único, do CPP,não foram objeto de análise no acórdão impugnado, o que obsta o exame por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, é o seguinte precedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. GRAVIDADE CONCRETA. PERICULOSIDADE DO AGENTE. RISCO DE REITERAÇÃO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONTEMPORANEIDADE. SUPRESSÃO. PRIMARIEDADE. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO. (..).
+3. Extrai-se da decisão que converteu a prisão em flagrante em preventiva que foram consideradas relevantes as circunstâncias concretas do caso para justificar a necessidade da imposição da medida, para se resguardar a ordem pública, notadamente diante da gravidade concreta da conduta imputada - o paciente integra organização criminosa denominada PCC, havendo indícios do envolvimento do paciente com diversos delitos praticados pela facção, extraídos de ampla investigação pautada em interceptação telefônica. Ainda, há risco concreto de reiteração delitiva, tendo em vista que o paciente já cumpriu pena por delito idêntico.
+4. A prática de atos infracionais anteriores serve para justificar a decretação ou manutenção da prisão preventiva como garantia da ordem pública, considerando que indicam que a personalidade do agente é voltada à criminalidade, havendo fundado receio de reiteração. (STJ. Quinta Turma. RHC 47.671-MS, Rel. Min. GURGEL DE FARIA, julgado em 18/12/2014 (Info 554). STJ. Terceira Seção. RHC 63.855-MG, Rel. para acórdão Min. ROGERIO SCHIETTI CRUZ, julgado em 11/5/2016.)
+5.A tese de ausência de contemporaneidade não foi apreciada pelo tribunal revisor. Destarte, seu exame nesta instância implicaria indevida supressão de instância.
+6. Presentes os requisitos autorizadores da segregação preventiva, eventuais condições pessoais favoráveis não são suficientes para afastá-la.
+7. Demonstrados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do CPP, não se vislumbra constrangimento ilegal a ser reparado de ofício por este Superior Tribunal de Justiça. 8. Habeas corpus não conhecido.
+(HC 525.787/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/9/2019).
+Por fim, quanto à demora para devolução dos autos para o Juízo de primeiro grau, extrai-se do andamento do recurso em sentido estrito que o acórdão foi publicado em 18/3/2021 e, embora ainda não tenha retornado à origem, não há que se falar em excesso de prazo para a providência.
+Ante o exposto, conheço parcialmente do habeas corpuse, nessa extensão, denego a ordem. Remende-se ao Tribunal de origem que imprima celeridade na devolução dos autos ao Juízo de primeiro grau para realização do Júri.
+Publique-se.
+Intimem-se
