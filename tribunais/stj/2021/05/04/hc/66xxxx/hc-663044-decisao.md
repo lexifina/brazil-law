@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus em recurso ordinário, impetrado em favor deALAN PESSOA DE QUEIROZ LUGMAYER SANTOS VARCHAVSKY, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Norte.
+Depreende-se dos autos prisão preventiva e denúncia em desfavor do paciente pela suposta prática do crime do art. 288-A do CP.
+A defesa impetrouhabeas corpusperante o eg. Tribunala quo, visando a liberdade do recorrente. O pedido foi denegado em v. acórdão assim ementado:
+"CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS COM PEDIDO LIMINAR. CRIME DE MILÍCIA PRIVADA (CORPUSART. 288-A DO CÓDIGO PENAL). PRETENSA REVOGAÇÃO DO. DECRETO PREVENTIVOALEGADA AUSÊNCIA DEFUNDAMENTO. IMPOSSIBILIDADE. ENCARCERAMENTOCAUTELARFUNDADO NA GARANTIA DA ORDEM PÚBLICA ECONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PERICULOSIDADESOCIAL DO PACIENTE EVIDENCIADA PELA GRAVIDADECONCRETA DO DELITO. PACIENTE QUE INTEGRAORGANIZAÇÃO CRIMINOSA RESPONSÁVEL POR INVADIRTERRENOS E PROPRIEDADES ALHEIAS MEDIANTE VIOLÊNCIAOU GRAVE AMEAÇA. AUSENTE SENTENÇA NO CURSO DA AÇÃOPENAL. AFASTADA A TESE DE INCOMPATIBILIDADE ENTRE ASEGREGAÇÃO CAUTELAR E O REGIME DE CUMPRIMENTO DA PENA. INEFICÁCIA DE QUAISQUER DAS MEDIDAS CAUTELARESPREVISTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL PARAPREVENÇÃO DE DELITOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA. CONSONÂNCIA COM O PARECER DO 1º PROCURADOR DEJUSTIÇA, EM SUBSTITUIÇÃO LEGAL A 2ª PROCURADORIA DEJUSTIÇA." (fl. 36).
+Daí o presente writ, no qual o impetrante repisa os argumentos lançados nowritoriginário, reafirmando a existência de constrangimento ilegal consubstanciado na inidoneidade do decreto prisional por ausência de fundamentação idônea.
+Sustenta, ainda, para reforçar seu pleito que "no v. Acórdão ao se construir toda uma narrativa tratando de organização criminosa, quando a tipo penal imputado ao Paciente alberga o delito de "milícia privada". Percebe-se, desta maneira, que os argumentos lançados no v. Acórdão para denegar o Habeas Corpus baseiam-se em erro na aferição do tipo penal e, assim, todo o fundamento e conclusão fluem em caminho diverso afigurando clara ilegalidade e sobejo constrangimento por não comportar o discurso denegatório moldura que se amolde ao real cenário fático-jurídico" (fl. 6).
+Requer, ao final, a concessão da ordem para a revogação da prisão preventiva, e, subsidiariamente, a substituição por medidas cautelares diversas previstas no art. 319 do CPP.
+É o breve relatório.
+Decido.
+:Requer o impetrante, em síntese, a revogação da prisão preventiva ante a ausência de fundamentação do decreto prisional, ou, subsidiariamente, a aplicação de medida cautelar diversa da prisão.
+No entanto, a alegação do impetrante é insuscetível de conhecimento, pois verifica-se que o presente mandamus consubstancia mera reiteração de pedido, uma vez que o tema ora ventilado já foi objeto de análise por esta eg. Corte Superior, por ocasião do julgamento do RHC n.142.682/RN, em 14/4/2021.
+Sob tal contexto, torna-se inviável o conhecimento do habeas corpus no qual se reitera o pleito já analisado em outro processo. Ilustrativamente
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CAUSA DE AUMENTO PREVISTA NO ART. 12, I, DA LEI N. 8.137/90. MERA REITERAÇÃO DE PEDIDO CONTIDO EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE.
+RECURSO JÁ JULGADO. INSTRUÇÃO DEFICIENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É inadmissível a análise de impetração cujo objeto é idêntico ao contido em Agravo em Recurso Especial, que, inclusive, já foi julgado, tendo em vista a impossibilidade de reiteração de pedidos nesta Corte Superior.
+2. Considerando a celeridade do rito do habeas corpus, toda a prova do direito alegado deve estar pré-constituída e disponível no momento e nos autos da impetração, sob pena de não conhecimento do mandamus.
+Agravo regimental desprovido" (AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 06/06/2017).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
