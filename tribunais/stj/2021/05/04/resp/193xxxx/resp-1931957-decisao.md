@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo Estado do Paraná, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA EXARADA PELO RELATOR QUE DEIXOU DE CONHECER DO AGRAVO DE INSTRUMENTO INTERPOSTO - DECISÃO AGRAVADA SEM CUNHO DECISÓRIO - MANUTENÇÃO DA DECISÃO AGRAVADA - AGRAVO INTERNO CONHECIDO E DESPROVIDO" (fls. e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 203, § 2º, e 1.001 do CPC/2015, sustentando, em síntese, que"há de ser declarada a natureza decisória do provimento jurisdicional de primeiro grau, com a consequente determinação de processamento do agravo de instrumento interposto pelo Estado do Paraná - e reformando-se, pois, o acórdãoa quo"(fls. 831e).
+Por fim, requer "o conhecimento e o provimento do presente recurso especial, para que este E.Superior Tribunal de Justiça, em respeito aos arts. 203, §2.º, e 1.001, CPC, reforme o acórdão a quo e determine o processamento do agravo de instrumento público, assacado contra decisão interlocutória proferidaem execução" (fl. 831e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 839/840e).
+A irresignação não merece conhecimento.
+No acórdão do Tribunal de origem restou assim consignado:
+"De fato, conforme consignado na decisão monocrática, verifica-se que não há conteúdo decisório no ato impugnado, pois o Juízo Singular não deferiu ou indeferiu o pedido de bloqueio via Bacenjud formulado pelo agravante, não sendo, portanto, passível de agravo de instrumento.
+Denota-se que o ato objeto do agravo de instrumento trata-se de despacho de mero expediente, pois não houve o indeferimento do pedido formulado pela autora por parte do Juízo Singular, mas sim o Juízo postergou sua análise para momento posterior, por entender ser o caso de suspensão temporária das ordens de bloqueio via Bacenjud.
+A propósito, o artigo 1.001 do Código de Processo Civil de 2015, disciplina sobre o não cabimento de recurso para atacar mero despacho,in verbis: "Dos despachos não cabe recurso".
+Dessa forma, considerando que o despacho objeto do agravo de instrumento não se reveste de cunho decisório, não há razão para alteração da decisão monocrática que deixou de conhecer do recurso por ausência de pressuposto processual de cabimento" (fl. 819e).
+Com efeito, nos termos do art. 1.001 do CPC/2015, não é cabível recurso contra despacho, mormente quando desprovido de conteúdo decisório.
+No caso, conforme restou consignado no acórdão, "o Juízo Singular não deferiu ou indeferiu o pedido de bloqueio via Bacenjud formulado pelo agravante, não sendo, portanto, passível de agravo de instrumento" (fl. 819).
+Nesse contexto, o exame da irresignação do recorrentedemandaria o reexame de matéria fática, o que é vedado em Recurso Especial, nos termos da Súmula 7/STJ. Nesse sentido: STJ, AgRg no AREsp 348.230/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 25/10/2013; STJ, AgRg no REsp 1.346.226/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 28/06/2013.
+No mesmo sentido, em caso análogo, confira-se a seguinte decisão monocrática: STJ,REsp 1.929.362/PR, Rel. Ministro SÉRGIO KUKINA, DJe de13/04/2021.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
