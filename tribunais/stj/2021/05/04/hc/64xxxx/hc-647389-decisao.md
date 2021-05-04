@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO MOISES MARCELINO LEITE no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2003025-55.2021.8.26.0000.
+Consta dos autos que o paciente, na companhia de outro indivíduo, foi preso em flagrante, em 11/1/2021, pela suposta prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (tráfico de entorpecentes e associação para o tráfico), por estar transportando, no assoalho do veículo que conduzia, 3 tijolos de maconha pesando cerca de 4kg (quatro quilogramas). A prisão em flagrante foi convertida em preventiva (e-STJ fls. 27/28).
+Inconformada com o indeferimento do pedido de revogação da custódia cautelar (e-STJ fls. 29/31), a defesa impetrou writ na Corte a quo alegando a ausência de fundamentação concreta do decreto prisional e dos requisitos autorizadores da custódia cautelar. Salientou, ainda, ser cabível a substituição da prisão provisória por medidas cautelares alternativas. Contudo, em sessão de julgamento realizada no dia 16 de fevereiro de 2021, a 10ª Câmara de Direito Criminal, por votação unânime, denegou a ordem (e-STJ fls. 35/37).
+Na presente impetração, a defesa reafirma as alegações originárias e requer a revogação da custódia preventiva ou a sua substituição por medidas cautelares previstas no art. 319 do Código de Processo Penal, uma vez que se trata de réu primário e que tem profissão e endereço fixo.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento da ordem.
+É o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem, em12/3/2021, o ora paciente foi condenado, como incurso no art. 33, caput,da Lei n. 11.343/2006, à pena de 5anos de reclusão em regime fechado, tendo-lhe sido negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
