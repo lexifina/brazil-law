@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PREPARO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO CUMPRIMENTO. AGENDAMENTO BANCÁRIO. DESERÇÃO.
+1.O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade, houve a intimação da parte recorrente para sanar o vício, não sendo comprovado o referido recolhimento, de modo que não há como afastar a incidência da Súmula 187 desta Corte.
+4. Segundo a jurisprudência desta Corte, "a juntada de comprovante de agendamento não é meio apto a comprovar que o preparo foi devidamente recolhido (Súmula 187 do Superior Tribunal de Justiça), não sendo possível sua juntada posterior, em decorrência da preclusão consumativa" (AgInt nos EDcl no AREsp 1.424.727/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma,DJe 17/03/2020).
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por EUDO BARBOSA ROCHA e OUTROS contra decisão da Presidência desta Corte de Justiça, que indeferiu liminarmente os embargos de divergência, em face da incidência da Súmula 187 do STJ (e-STJ fls. 841/842).
+Sustenta a parte agravante, em suma, a inaplicabilidade do referido óbice sumular, visto que efetivou o recolhimento em dobro do preparo, conforme determinado pela Presidência desta Corte, apesar da comprovação ter sido realizada minutos depois da juntada do agendamento.
+Afirma, ainda, que, "realmente, houve um equívoco no preenchimento de uma das guias (fl. 831), com a indicação do número do processo paradigma e não o atinente aos presentes autos", não lhe sendo oportunizado, contudo, o prazo do art. 1.007, § 7º, do CPC/2015 para sanar o vício, que difere daquele previsto no § 4º do mesmo diploma legal.
+Decorrido o prazo sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PREPARO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO CUMPRIMENTO. AGENDAMENTO BANCÁRIO. DESERÇÃO.
+1.O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade, houve a intimação da parte recorrente para sanar o vício, não sendo comprovado o referido recolhimento, de modo que não há como afastar a incidência da Súmula 187 desta Corte.
+4. Segundo a jurisprudência desta Corte, "a juntada de comprovante de agendamento não é meio apto a comprovar que o preparo foi devidamente recolhido (Súmula 187 do Superior Tribunal de Justiça), não sendo possível sua juntada posterior, em decorrência da preclusão consumativa" (AgInt nos EDcl no AREsp 1.424.727/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma,DJe 17/03/2020).
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, registro que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, tenho que o inconformismo não merece prosperar.
+Cumpre notar que a falta de comprovação do recolhimento das custas processuais, no ato da interposição do recurso, não gera a imediata deserção deste, que só ocorrerá depois de conferida a oportunidade ao interessado para providenciar o preparo em dobro do recurso, consoante o art. 1.007, § 4º, do novo estatuto processual.
+In casu, a Presidência desta Corte de Justiça, após constatar que os embargos de divergência não foram instruídos com a guia de custas e o respectivo comprovante de pagamento, determinou intimação da parte recorrente para realizar o recolhimento em dobro do preparo, no prazo de cinco dias, sob pena de indeferimento liminar do recurso (e-STJ fl. 825).
+Contudo, os recorrentes, além de indicarem erroneamente o número do processo na guia de recolhimento juntada à e-STJ fl. 831, juntaram apenas o comprovante de agendamento de pagamento (e-STJ fl. 828), o que, segundo a jurisprudência desta Corte Superior, não é documento apto a provar a quitação das custas processuais e, por conseguinte, afastar a deserção.
+Note-se que a petição de fls. 833/836 não pode ser aceita para o fim de regularização, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fls. 827/832.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. ATENDIMENTO NO PRAZO. COMPROVANTE DE AGENDAMENTO BANCÁRIO. INADMISSIBILIDADE. DESERÇÃO. SÚMULA N. 187 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO PROVIDO. NÃO PROVIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado.
+2. Consoante reiterada jurisprudência desta Corte, não se conhece do recurso interposto sem a comprovação do preparo, nos termos do artigo 1.007, caput, do Código de Processo Civil de 2015 (correspondente ao artigo 511, caput, do estatuto processual civil de 1973).
+3. A juntada de comprovante de agendamento não é meio apto a comprovar que o preparo foi devidamente recolhido (Súmula n. 187 do Superior Tribunal de Justiça), não sendo possível sua juntada posterior, em decorrência da preclusão consumativa.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.424.727/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020).
+PROCESSUAL CIVIL. PREPARO NÃO DEMONSTRADO. INTIMAÇÃO. OPORTUNIDADE PARA SANEAMENTO. ART. 1.007, § 2º, DO CPC/2015. COMPROVAÇÃO MEDIANTE APRESENTAÇÃO DE AGENDAMENTO DO PAGAMENTO. DESERÇÃO. PRECEDENTES.
+1. Cuida-se de inconformismo com decisão da Presidência do STJ que considerou a deserção do Recurso Especial quando, após a concessão do prazo previsto no § 2º do art. 1.077 do CPC/2015, o ora agravante comprovou o recolhimento do preparo recursal mediante apresentação de comprovante de agendamento do pagamento.
+2. Na hipótese de insuficiência do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento, sob pena de deserção (art. 1.007, caput e § 2º, do CPC/2015). Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo à determinação legal de, após intimado, efetuar o recolhimento devidamente, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso (AgInt nos EDcl no AREsp 1.100.520/MG, Rel.
+Min. Luís Felipe Salomão, Quarta Turma, DJe 11.9.2018).
+3. É deserto o Recurso Especial quando o recorrente não comprova, por documento hábil, a realização do preparo no prazo concedido para saneamento do vício identificado, nos termos do disposto no art. 1.007, § 7º, do CPC/2015, não cabendo nova oportunidade para sua regularização, por operada a preclusão consumativa. Precedentes: AgInt no AREsp 1.1473.48/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe 17/5/2018; AgInt nos EDcl no REsp 1.627.333/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 27/8/2018; AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães (Desembargador Federal convocado do TRF/5ª Região), Quarta Turma, DJe de 21/11/2017; AgInt no AREsp 1.143.168/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 16/3/2018; AgInt no AREsp 1.121.532/CE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 13/12/2017; AgInt nos EDcl no AREsp 1.210.012/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 5.11.2018.
+4. Todavia, o Superior Tribunal de Justiça consolidou o entendimento de que apenas a juntada do comprovante de agendamento caracteriza deserção.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.477.953/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/11/2019, DJe 19/11/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO NÃO DEMONSTRADO. EXISTÊNCIA DE VÍCIO. ART. 1.007, § 7º, DO CPC/2015. INTIMAÇÃO. SANEAMENTO. COMPROVAÇÃO POSTERIOR DE REGULAR RECOLHIMENTO. PRECLUSÃO CONSUMATIVA. DESERÇÃO.
+1. É deserto o recurso especial, quando o recorrente não comprova, por documento hábil, a realização do preparo no prazo concedido para saneamento do vício identificado, nos termos do disposto no art. 1.007, § 7º, do CPC/2015, não cabendo nova oportunidade para sua regularização, por operada a preclusão consumativa. Precedentes: AgInt no AREsp 1.1473.48/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe 17/5/2018; AgInt nos EDcl no REsp 1.627.333/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 27/8/2018; AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães (Desembargador Federal convocado do TRF/5ª Região), Quarta Turma, DJe de 21/11/2017; AgInt no AREsp 1.143.168/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 16/3/2018; AgInt no AREsp 1.121.532/CE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 13/12/2017.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.210.012/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/10/2018, DJe 05/11/2018).
+Incide, pois, na hipótese o óbice estampado na Súmula 187 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
