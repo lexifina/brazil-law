@@ -1,0 +1,16 @@
+Habeas corpus. Roubo. Alegada demora no julgamento de writ impetrado junto ao Superior Tribunal de Justiça. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Gustavo Roberto de Camargo em favor de Anderson Sampaio da Silva contra conduta omissiva da Ministra Laurita Vaz, do Superior Tribunal de Justiça, nos autos do HC 636.583/SP.
+    O Paciente foi condenado à pena de 04 (quatro) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime de roubo simples (art. 157, caput, do Código Penal) (evento 4).
+    No presente writ, a Impetrante alega, em síntese, demora injustificada da Corte Superior para julgamento do HC 636.583/SP, concluso para julgamento desde 03.02.2021. Sustenta, em síntese, falta de fundamentação idônea quanto à fixação do regime inicial fechado para cumprimento da pena. Defende a imposição de regime prisional mais brando. Requer, em medida liminar, a fixação do regime inicial semiaberto até o trânsito em julgado do HC 636.583/SP.
+    É o relatório.
+    Decido.
+    Em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que o HC 636.583/SP foi distribuído à Ministra Laurita Vaz em 22.12.2020. O Ministro Humberto Martins, Presidente do Superior Tribunal de Justiça, proferiu despacho solicitando informações ao Tribunal de origem em 29.12.2020. Os autos foram conclusos para julgamento, com o parecer ministerial, em 03.02.2021.
+    Ora, distribuído o aludido habeas corpus há aproximadamente 4 (quatro) meses, reputo não caracterizado excesso de prazo a justificar a pronta intervenção desta Suprema Corte. Nessas circunstâncias, ‘a quantidade de demandas em trâmite no órgão judicial, a complexidade e a natureza das causas postas em juízo são fatores que não podem ser ignorados nesse exame de regularidade do desenvolvimento do processo. Em suma, não há inércia ou excesso de prazo atribuíveis ao Poder Judiciário a justificar a intervenção desta CORTE na ordem de trabalhos do Superior Tribunal de Justiça. Por fim, qualquer juízo desta CORTE, enquanto não apreciadas pelo STJ as irresignações postas na presente impetração, implicaria supressão de instância e contrariedade à repartição constitucional de competências, o que não é admitido pela jurisprudência do STF’ (HC 196.351-AgR/RS, 1ª Turma, Rel. Min. Alexandre de Moraes, DJe 05.3.2021) e não se identifica, a princípio, uma tramitação heterodoxa do feito imputável apenas ao aparelho judiciário, tampouco configurada ‘situação anômala que compromete a efetividade do processo’ ou ‘desprezo estatal pela liberdade do cidadão’ (HC 142.177/RS, Rel. Min. Celso de Mello).
+    Ademais, ‘está sedimentado, em ambas as Turmas da Suprema Corte, que a demora no julgamento do writ impetrado ao Superior Tribunal de Justiça, por si só, não pode ser interpretada como negativa de prestação jurisdicional’ (HC 132.610-AgR/MS, Rel. Min. Dias Toffoli).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Encaminhe-se cópia desta decisão à Ministra Relatora do HC 636.583/SP, no Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 04 de maio de 2021.
+Ministra Rosa Weber
+Relatora
