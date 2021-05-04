@@ -1,0 +1,29 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por LUIZ FELIPE SAMPAIO BRISELLI em face de decisão da minha lavra, assim sintetizada:
+RECURSO ESPECIAL. PROCESSO CIVIL. ASTREINTES. TUTELA DE URGÊNCIA. FIXAÇÃO NÃO OBRIGATÓRIA. JUÍZO DISCRICIONÁRIO DO JULGADOR. SÚMULA 7/STJ.
+1. "De acordo com a jurisprudência do STJ, a fixação da pena de multa para garantir o cumprimento da decisão judicial é ato discricionário do julgador, que deve observar os critérios de razoabilidade e proporcionalidade, bem como atender às finalidades preventiva e repressiva da pena, podendo majorá-la, reduzi-la, ou mesmo supri-la". (REsp 1811098/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/06/2019, DJe 01/08/2019).
+2. Inviabilidade de alterar a conclusão do tribunal de origem de ser desnecessária a fixação da multa no momento processual então analisado, pois demanda incursão na seara fático-probatória, atividade não realizável nesta vista especial. Incidência da súmula 7/STJ.
+3. Recurso especial não provido.
+A parte embargante alega existir omissões relativas a falta de intimação sobreo julgamento do recurso especial em sessão, de modo que fora violado o princípio da ampla publicidade.
+Defende que a decisão somente poderia ser monocrática se existissetese sumular sedimentada relativa ao mérito recursal, consoante o § 4º do art. 255 do Regimento Interno do STJ.
+É o relatório.
+Decido.
+2.O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. Sobre as hipóteses de cabimento acima mencionadas, Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado, ao discorrer sobre os vícios que legitimam o ingresso dos embargos de declaração, assim informa:
+Os incisos do art. 1.022 do Novo CPC consagram quatro espécies de vícios passíveis de correção por meio dos embargos de declaração: obscuridade e contradição (art. 1.022, I, do Novo CPC), omissão (art. 1.022, II, do Novo CPC) e erro material (art. 1.022, III, do Novo CPC).
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.711)
+Logo a seguir, o citado processualista passa a discorrer sobre cada um desses vícios e afirma, primeiramente, quanto à omissão:
+A omissão refere-se à ausência de apreciação de ponto ou questão relevante sobre a qual o órgão jurisdicional deveria ter se manifestado, inclusive as matérias que deva conhecer de ofício (art. 1.022, lI, do Novo CPC). Ao órgão jurisdicional é exigida a apreciação tanto dos pedidos como dos fundamentos de ambas as partes a respeito desses pedidos. Sempre que se mostre necessário, devem ser enfrentados os pedidos e os fundamentos jurídicos do pedido e da defesa, sendo que essa necessidade será verificada no caso concreto, em especial na hipótese de cumulação de pedidos, de causas de pedir e de fundamentos de defesa.
+Na cumulação de pedidos o acolhimento ou a rejeição de um deles pode tornar os demais prejudicados, não havendo nenhum sentido exigir do juiz o enfrentamento e solução de tais pedidos em sua decisão: (a) na cumulação sucessiva prejudicial, rejeitado o pedido anterior, o pedido posterior perde o objeto; (b) na cumulação subsidiária o acolhimento do pedido anterior torna o pedido posterior prejudicado; (c) na cumulação alternativa o acolhimento de qualquer um dos pedidos torna os demais prejudicados.
+Nessas circunstâncias, é incorreto apontar omissão na decisão do juiz que deixa de enfrentar pedidos prejudicados.
+Fenômeno semelhante ocorre no tocante à cumulação de causas de pedir e de matérias de defesa. Nesse caso é possível estabelecer uma regra: quando a omissão disser respeito à matéria alegada pela parte vencedora na demanda, não haverá necessidade de seu enfrentamento, faltando interesse de agir na interposição de embargos de declaração.
+O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar.
+4. No caso, a parte alega existirem situações de nulidade do julgamento por meio de decisão monocrática, porque não precedida de intimação e porque não existiria hipótese autorizadora de julgamento monocrático.
+Entretanto, como a própria parte já sabe, ocorreu julgamento pelo próprio relator do processo, sem ser submetido a sessão, de modo que desnecessária intimação anterior a própria publicação da decisão singular.
+4.1 De outro lado, o julgamento singular deu-se porque existem precedentes aplicáveis ao caso, bem como óbice sumular ao conhecimento do recurso especial, justamente algumas das hipóteses dos incisos I e II do § 4º do art. 255 do RISTJ.
+5.Portanto, o que a parte almeja nada mais é do que o rejulgamento da lide.
+6. Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. OMISSÕES. INEXISTENTES. INTERESSE DE REJULGAMENTO DA LIDE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
