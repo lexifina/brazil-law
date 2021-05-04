@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional, com pedido liminar, interposto por ANDRE HENRIQUE DOS SANTOScontra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas no julgamento do HC n.0807139-41.2020.8.02.0000.
+Consta dos autos que foi decretada a prisão preventiva do Recorrente em 07/11/2019 (fls. 196-200). Posteriormente, foi denunciado, em 22/01/2020, pela "conduta delitiva prevista no art. 121, § 2º, incisos I, III e IV, c/c art. 29, ambos do CP(por duas vezes)"(fl. 202). O pedido de revogação da prisão cautelar foi indeferido (fls. 216-218).
+Inconformada, a Defesa impetrou habeas corpus, cuja ordem foi denegada pela Corte local (fls. 241-252).
+Neste recurso, o Recorrente alega, em síntese: a)a ausência de requisitos e de fundamentos idôneospara a decretação da prisão preventiva; eb) a suficiência de cautelares alternativas.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores." (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020, sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Magistrado de piso, ao decretar a prisão preventiva do Recorrente, consignou que o crime teria sido praticado, "em conjunto com demais indivíduos", e motivado pelo fato de que "as vítimas estavam roubando motocicletas na região, o que lhe desagradava". Outrossim, foi informado que "o investigado é integrante de facção criminosa, conforme relata o inquérito policial" (fl. 200).
+Como se percebe, o Juízo de piso, com base em elementos extraídos dos autos, entendeu que há indícios suficientes de que o Recorrente integra facção criminosa.Saliente-se que"a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades" (AgRg no HC 577.598/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+Mais do que isso, vê-se que foi evidenciado o modus operandi do delito, revelador da perniciosidade social da ação. Com efeito, conforme ressaltado pela instância a quo, o Recorrente praticou dois homicídios qualificados, em conjunto com outros indivíduos, supostamentecom o objetivo de "fazer justiça com as próprias mãos".Tais circunstâncias denotam a especial gravidade da conduta, a justificar a segregação cautelar para garantia da ordem pública.
+Nesse sentido, cito o seguinte julgado desta Corte Superior de Justiça:
+"PROCESSO PENAL. HABEAS CORPUS. PRÁTICA DE DOIS HOMICÍDIOS, UM CONSUMADO E OUTRO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA.PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade concreta dos fatos delituosos, consistente no assassinato de um jovem a tiros, bem como na tentativa de ceifar a vida de outro adolescente, com o mesmo modus operandi, por vingança, já que o paciente suspeitava que eles pudessem ser os autores de um furto ocorrido em sua residência dias antes, circunstância que, na dicção do juízo de primeiro grau, "está a sugerir, primo oculi, a irascibilidade do segregado que, ao que tudo indica, resolveu fazer justiça com as próprias mãos".
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada.(HC 427.158/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018).
+Ademais,demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n. 12.403/2011.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário constitucional.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINARIO CONSTITUCIONAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. INTEGRANTE DE FACÇÃO CRIMINOSA. ESPECIAL GRAVIDADE DA CONDUTA. ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
