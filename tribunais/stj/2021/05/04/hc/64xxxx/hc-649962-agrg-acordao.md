@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. RECEPTAÇÃO. NULIDADE. DOSIMETRIA. REGIME PRISIONAL. RECONSIDERAÇÃO DA DECISÃO QUE INDEFERIU PEDIDO LIMINAR. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+1. Segundo o entendimento consolidado no Superior Tribunal de Justiça, não cabe agravo regimental contra decisão que, fundamentadamente, defere ou indefere pedido de liminar formulado em habeas corpus.
+2. Por se tratar de medida que não encontra previsão legal, o pleito liminar em habeas corpus deve ser deferido apenas em hipóteses excepcionalíssimas, ou seja, de flagrante afronta ou ameaça ao direito de locomoção do indivíduo e, outrossim, que não dependam de análise aprofundada das razões que embasaram a pretensão, requisitos que não foram identificados na espécie, pois os pedidos de nulidade da decisão que recebeu o aditamento à denúncia, desclassificação do crime de porte de arma e redimensionamentos da pena e do regime prisional são claramente satisfativos.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental , nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Trata-se de agravo regimental interposto em face de decisão que indeferiu pedido liminar.
+Consta dos autos que o agravante foi condenado às penas de 5 anos de reclusão, em regime fechado, e 22 dias-multa, por ofensa aos arts. 16, parágrafo único, IV, da Lei 10.826/2003 e 180, caput, na forma do art. 69, ambos do Código Penal.
+Argumenta, em suma, que o deferimento da liminar tinha por objeto o sobrestamento do AREsp. 1.765.867/RJ, conexo ao presente mandamus, afirmando que o aditamento à denúncia, operado pelo juízo singular e convalidado pela autoridade coatora, foi manifestamente contra legem, o que pode ser verificado de plano, acrescendo, ainda, que o aumento da pena na primeira fase da dosimetria não teve fundamentação idônea.
+Alega, outrossim, que da leitura dos anexos que instruem a impetração, é possível aferir que se encontra solto há quase quatro anos, não existindo risco à futura aplicação da lei penal, pois se tivesse o intuito de se manter foragido, não ajuizaria a presente ação.
+Requer, ao final, o provimento deste agravo, reconsiderando-se o indeferimento liminar.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Como relatado, consta dos autos que o agravante foi condenado às penas de 5 anos de reclusão, em regime fechado, e 22 dias-multa, por ofensa aos arts. 16, parágrafo único, IV, da Lei 10.826/2003 e 180, caput, na forma do art. 69, ambos do Código Penal.
+Argumenta, em suma, que o deferimento da liminar tinha por objeto o sobrestamento do AREsp. 1.765.867/RJ, conexo ao presente mandamus, afirmando que o aditamento à denúncia, operado pelo juízo singular e convalidado pela autoridade coatora, foi manifestamente contra legem, o que pode ser verificado de plano, acrescendo, ainda, que o aumento da pena na primeira fase da dosimetria não teve fundamentação idônea.
+Alega, outrossim, que da leitura dos anexos que instruem a impetração, é possível aferir que se encontra solto há quase quatro anos, não existindo risco à futura aplicação da lei penal, pois se tivesse o intuito de se manter foragido, não ajuizaria a presente ação, requerendo, ao final, a reconsideração da decisão indeferitória da liminar.
+No entanto, a jurisprudência desta Corte não admite agravo regimental de decisão que, de forma fundamentada, indefere ou concede liminar em habeas corpus. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR. EXCEPCIONALIDADE NÃO CONFIGURADA. RECURSO INCABÍVEL. NÃO CONHECIMENTO.
+1. É assente na jurisprudência deste Tribunal Superior o entendimento de que não é cabível a interposição de agravo regimental contra decisão de Relator que, fundamentadamente, indefere pleito liminar.
+2. O impetrante se insurge contra acórdão do Tribunal de origem proferido no julgamento de apelação mostrando-se incabível o manejo do habeas corpus originário, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio.
+2. Não é possível a concessão da tutela de urgência, pois a fundamentação que dá suporte à postulação liminar é idêntica à que dá amparo ao pleito final, isto é, confunde-se com o mérito do mandamus, o qual exige exame mais detalhado das razões declinadas e da documentação que o acompanha, análise que se dará devida e oportunamente quando do seu julgamento definitivo. Precedentes.
+3. Agravo regimental não conhecido. (AgRg no HC 570.601/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020).
+PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. CARÁTER INFRINGENTE. IMPUGNAÇÃO EM FACE DE INDEFERIMENTO DE LIMINAR. DECISÃO FUNDAMENTADA. NÃO CABIMENTO. RECURSO NÃO CONHECIDO.
+1. Não obstante os argumentos trazidos pelo recorrente, permanece o fundamento da decisão impugnada no sentido de que o pleito formulado em sede liminar confunde-se com o mérito da impetração.
+2. A jurisprudência desta Corte é pacífica quanto a não caber agravo regimental contra decisão do relator que, em habeas corpus, defere ou indefere medida liminar de forma motivada.
+3. A simples interposição de recurso especial, sem a concessão de efeito suspensivo, não obsta a execução provisória da pena privativa de liberdade. Precedentes.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega conhecimento. (EDcl no HC 467.383/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/02/2019, DJe 22/02/2019).
+Por se tratar de medida que não encontra previsão legal, o pleito liminar em habeas corpus deve ser deferido apenas em hipóteses excepcionalíssimas, ou seja, de flagrante afronta ou ameaça ao direito de locomoção do indivíduo e, outrossim, que não dependam de análise aprofundada das razões que embasaram a pretensão, requisitos que não foram identificados na espécie, pois os pedidos de nulidade da decisão que recebeu o aditamento à denúncia, desclassificação do crime de porte de arma e redimensionamentos da pena e do regime prisional são claramente satisfativos.
+Ante o exposto, voto por não conhecer do agravo regimental.
