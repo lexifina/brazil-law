@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO DO RECURSO ESPECIAL. EXAME. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, § 4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS. AGRAVO INTERNO IMPROVIDO.
+I -Na origem, trata-se de ação objetivando a consignação de pagamento de bem imóvel. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. Esta Corte não conheceu do recurso especial, sendo a decisão mantida no julgamento de agravo interno.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 211/STJ.
+III - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+IV - Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentidoé a jurisprudência do Superior Tribunal de Justiça,vejamos:AgInt nos EAREsp n. 1.326.145/DF, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 2/3/2021, DJe 8/3/2021 eAgint nos EREsp n. 1.500.624/MG, relator Ministro Francisco Falcão, Primeira Seção, DJe de 1º/4/2019.
+V - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a consignação de pagamento de bem imóvel. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. Esta Corte não conheceu do recurso especial, sendo a decisão mantida no julgamento de agravo interno, conforme a seguinte ementa de acórdão:
+CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CONSIGNAÇÃO EM PAGAMENTO. BEM IMÓVEL FINANCIADO PELA COHAB. CONTRATO DE GAVETA. TESE EM TORNO DO DISPOSTO NOS ARTS. 20 DA LEI Nº 10.150/2000 E 334 E 422 DO CC/02 NÃO DISCUTIDA FORMAÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DO INDISPENSÁVEL PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. NÃO SUSCITADA A VIOLAÇÃO DO ART. 535 DO CPC/73 (ART. 1.022 DO NCPC). NECESSIDADE. PRECEDENTES. INOCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As matérias contidas na Lei nº 10.150/2000 e nos arts. 334 e 422 do CC/02, não foram enfrentadas pelo Tribunal bandeirante, nem mesmo após a oposição dos embargos de declaração. Incidência da Súmula nº 211 do STJ, em razão da ausência do indispensável prequestionamento.
+3.Caberia às recorrentes, nas razões do seu especial, alegar a violação do art. 535 do CPC/73 (art. 1.022 do NCPC) a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre o tema, o que não ocorreu. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+Foram opostos embargos de divergênciapor Kátia Tonini Reginatto e outro com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados: a) REsp n. 1.667.151/RJ, proferido pela Segunda Turma, relativo ao cabimento de prequestionamento implícito.
+Requereu, desse modo, o provimento dos embargos de divergência.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+Há semelhança entre os acórdãos embargado e paradigma, bem como a divergência total das consequências em ambos os acórdãos.
+Portanto, requerem as Embargantes o provimento do recurso em epígrafe para que prevaleça a tese do acórdão paradigma (Resp. nº. 1667151) para que seja aceito o prequestionamento implícito ocorrido no Tribunal a quo, permitindo, assim, o conhecimento do Recurso Especial interposto.
+ ..
+Conforme o acórdão paradigma referido, é permitido o prequestionamento implícito, o que ocorreu no caso sub judice.
+Assim sendo, as matérias veiculadas no Recurso Especial foram objeto de apreciação pelo Tribunal a quo no momento oportuno, razão pela qual requer o conhecimento do Recurso Especial e o seu provimento.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO DO RECURSO ESPECIAL. EXAME. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, § 4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS. AGRAVO INTERNO IMPROVIDO.
+I -Na origem, trata-se de ação objetivando a consignação de pagamento de bem imóvel. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. Esta Corte não conheceu do recurso especial, sendo a decisão mantida no julgamento de agravo interno.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 211/STJ.
+III - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+IV - Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentidoé a jurisprudência do Superior Tribunal de Justiça,vejamos:AgInt nos EAREsp n. 1.326.145/DF, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 2/3/2021, DJe 8/3/2021 eAgint nos EREsp n. 1.500.624/MG, relator Ministro Francisco Falcão, Primeira Seção, DJe de 1º/4/2019.
+V - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 211/STJ.
+Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentido, é a jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, §4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS.
+1. Ação de obrigação de fazer cumulada com reparação de danos materiais e compensação de danos morais.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. O não atendimento dos requisitos insertos nos art. 1043, §4º, do CPC e 266, §4º, do CPC quando da oposição dos embargos de divergência, importa na sua rejeição.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.326.145/DF, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 2/3/2021, DJe 8/3/2021.)
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 315 DO STJ. SÚMULA 182 DO STJ. MATÉRIA SEDIMENTADA PELA CORTE ESPECIAL NOS EARESP 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC.
+1. Apenas na petição de embargos de divergência, protocolada em 11/9/2019, se insurgiu a parte ora agravante contra a certidão de trânsito em julgado de fl. 1.279. Extemporaneamente portanto, haja vista que este recurso foi interposto cerca de 5 meses após a ocorrência da preclusão, uma vez que o acórdão embargado foi publicado em 28/5/2019.
+2. Ademais, os embargos de divergência não são cabíveis para análise de regras técnicas de admissibilidade do recurso especial, como sói ser a incidência da Súmula 182 do STJ, haja vista que o escopo deste recurso é a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo, ainda que se trate de matéria de ordem pública.
+3. O tema relativo à necessidade de impugnação específica de todos os fundamentos da decisão recorrida (Súmula 182 do STJ)  foi sedimentado pela Corte Especial por ocasião do julgamento, em 19/9/2018, dos EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, publicados em 30/11/2018.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl nos EAREsp n. 1.371.189/CE, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/2/2021, DJe 1º/3/2021.)
+PROCESSUAL CIVIL. ATO DE IMPROBIDADE. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE PEDIDO LIMINAR. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA.
+I - Trata-se, na origem, de recurso de agravo de instrumento com pedido de efeito suspensivo, interposto por CONSPURI CONSTRUTORA XAPURI LTDA e BIOCOLLECTA SOLUÇÕES AMBIENTAIS LTDA em face da decisão monocrática do Juízo da 1ª Vara Cível da Comarca de Itaúna/MG exarada nos autos de n. 0093111-40.2012.8.13.0338, ajuizados pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS. Referida decisão deferiu parcialmente o pedido liminar de indisponibilidade de bens dos réus, além da quebra de sigilo bancário e fiscal e do afastamento provisório do Chefe do Poder Executivo Municipal. No Tribunal de Justiça do Estado de Minas Gerais deu-se provimento ao agravo de instrumento, para afastar a indisponibilidade de bens.
+II - Extrai-se do artigo 1.043, inciso I, do Código de Processo Civil de 2015 que "é embargável o acórdão de órgão fracionário que: em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito".  ..
+(Agint nos EREsp n. 1500624/MG. relator Ministro Francsico Falcão, Primeira Seção, DJe de 1º/4/2019.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp n. 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp n. 1.226.477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
