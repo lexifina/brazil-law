@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 860):
+PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. RECURSO DO RÉU. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. ACOLHIMENTO DE TESE DA ACUSAÇÃO. DOSIMETRIA. QUANTUM DE AUMENTO DA PENA-BASE. REDUÇÃO DA FRAÇÃO DA TENTATIVA. INVIABILIDADE. ERRO MATERIAL NA FIXAÇÃO DA PENA. CORREÇÃO. DADO PARCIAL PROVIMENTO AO RECURSO.
+1 . Evidencia-se decisão manifestamente contrária à prova dos autos a ensejar novo julgamento, somente quando a decisão proferida pelo Conselho de Sentença for absolutamente desprovida de suporte fático, o que não ficou caracterizado nos presentes autos.
+2. O e. STJ tem adotado na determinação da pena-base o acréscimo de 1/6 (um sexto) da pena mínima cominada em abstrato no tipo penal, para cada circunstância judicial desfavorável. Para um aumento superior, tem sido necessária fundamentação específica que justifique a necessidade da elevação superior ao patamar determinado.
+3. A redução da pena pela tentativa, que é uma causa de diminuição de pena, portanto, situação diferente da dosimetria na fase da pena-base, deve observar o estágio do já percorrido pelo agente. iter criminis Correta a redução da pena na fração mediana, se o acusado já se encontrava em fase avançada da execução do crime.
+4. Verificado erro material na fixação da pena do réu, amparado pelo amplo efeito devolutivo do recurso de apelação, é medida que se impõe a correção, caso seja mais benéfico ao réu, como no caso dos autos.
+5. Dado parcial provimento ao recurso.
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júria uma pena de 8 anos e 10 meses de reclusão, no regime inicial fechado, pela prática do delito previsto no artigo 121, §2º, incisos I, III e VI, c/c artigo 14, inciso II, em relação a uma vítima, edo artigo 129, §9º,em relação a outra,do Código Penal.
+O Tribunal de origem deu parcial provimento ao apelo criminal, para reduzir a pena para 8 anos de reclusão pelo crime de tentativa de homicídio e em 3 meses e 15 dias de detenção, pelo crime de lesão corporal, além de afastar a soma das penas, pois, ainda que se trate de concurso material de crimes, entendeu inviável a somatória, porque para um crime é prevista pena de reclusão e para o outro detenção, além de alterar o regime prisional para o semiaberto.
+A impetrante sustenta que deve ser reconhecida, na dosimetria da pena,a confissão espontânea realizada em autodefesa pelo paciente, no interrogatório em plenário do Tribunal do Júri.
+Nesse ponto, o Tribunal de origem assim dispôs (fls. 872):
+ ..
+Na segunda fase, insurge-se a Defesa, no tocante a não consideração da atenuante da confissão espontânea na dosimetria da pena, argumentando que o réu confessou parcialmente os fatos por ele praticados.
+Tenho que razão não assiste à Defesa.
+Do interrogatório do réu depreende-se que em nenhum momento ele confessou os fatos. Ao contrário, afirmou que desferiu somente um tapa no rosto da vítima, contudo esclarece que apenas se defendeu das injustas agressões iniciadas pela vítima.
+Acrescento, não ser, tal argumentação minimamente factível, uma vez que os laudos de exame de corpo de delito de ambas as vítimas (Clemilsa e Karla) descrevem a existência de inúmeras lesões, cuja origem apelante não soube explicar.
+Assim, não há que se falar em confissão espontânea, nem mesmo parcial, eis que o réu negou a prática dos crimes pelos quais foi condenado.
+Dessa forma, na segunda fase, inexistentes circunstâncias agravantes e atenuantes a pena resta inerte.
+ ..
+O Juiz Presidente do Tribunal do Júri, por sua vez, assim dispôs (fls. 497-498):
+ ..
+RENNE OLIVEIRA GUIMARÃES, qualificado nos autos do processo, foi incursionado pelo Ministério Público do Distrito Federal e dos Territórios nas penas do art. 121, § 2º, I, 111 e VI, c/c art. 14, II, todos do CP (vitima Clemilsa) e do art. 129, § 9º, do CP (vitima Karla).
+Em juizo de admissibilidade, foi o réu pronunciado na forma acima.
+Em Plenário, a autoridade do Ministério Público da União sustentou integralmente a pronúncia.
+A Defesa, por sua vez, articulou as teses de desclassificação, insuficiência probatória, necessidade de absolvição e ausência de qualificadoras.
+Submetido o réu a Julgamento nesta data, o Júri, em sua soberania constitucional, votando os quesitos, reconheceu a responsabilidade do réu nos exatos termos da decisão de pronúncia.
+Dessa feita, tendo em vista a decisão soberana do Júri que, julgando procedente o pedido formulado na denúncia, CONDENOU o réu na forma do art. 121, § 2º, I, III e VI, c/c art. 14, II, todos do CP (vitima Clemilsa) e do art. 129, § 9º, do CP (vitima Karla), passo a dosar a pena a ser-lhe aplicada, em estrita observância ao disposto no art. 68 desse diploma legal.
+ ..
+Nessas condições, fixo a pena-base, para o crime de homicídio, em 16 anos e 6 meses de reclusão. Para o crime de lesão fixo a pena em 7 meses de reclusão.
+Na segunda fase, não concorreu nem agravante nem atenuante.
+Na terceira fase, concorreu a causa especial de diminuição de pena da tentativa para o crime de homicídio. Acerca do tema, pondero que a tentativa não foi branca, mas cruenta, já que a vítima restou lesionada. Apesar disso, conforme o laudo pericial, não houve perigo de morte. Assim, diminuo-lhe a respectiva pena, passando a dosá-la em 8 anos e 3 meses de reclusão.
+Em sendo aplicável ao caso a regra do art. 69 do CP, visto que o condenado praticou dois crimes distintos, resultantes de desígnios autônomos, chego ao patamar final total de 8 anos e 10 meses de reclusão.
+O regime inicial do cumprimento da pena ora imposta ao condenado será o fechado, de acordo com o art. 33 do CP.
+Como se vê, o Tribunal de origem afastou o argumento de aplicação da atenuante da confissão espontânea, porque, "Do interrogatório do réu depreende-se que em nenhum momento ele confessou os fatos. Ao contrário, afirmou que desferiu somente um tapa no rosto da vítima, contudo esclarece que apenas se defendeu das injustas agressões iniciadas pela vítima".
+Pelo que consta no acórdão impugnado, ao contrário daquilo que defende a impetrante, não se verifica nem a confissão qualificada, pois, como entende esta Corte Superior e a doutrina penalista, em geral, essa seria aquele tipo de confissão dos fatos imputados em que o agente agrega teses defensivas discriminantes ou exculpantes, o que não ocorreu no presente caso.
+De qualquer forma, não é possível esta Corte Superior considerar aparcial confissão qualificada porque, pelo que consta dos autos, essa tese nem foi defendida na sessão plenária do Tribunal do Júri, e o impetrante não comprovou que essa matéria foi debatida perante o Conselho de Sentença. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO. APLICAÇÃO IMEDIATA DA LEI N. 11.689/2008. RÉU INTIMADO PESSOALMENTE DA DECISÃO DE PRONÚNCIA. INTIMAÇÃO DA SESSÃO DO TRIBUNAL DO JÚRI POR MEIO DE EDITAL. CIÊNCIA INEQUÍVOCA SOBRE A DATA DA REALIZAÇÃO DO JULGAMENTO PELO CONSELHO DE SENTENÇA. AUSÊNCIA DE NULIDADE. CONFISSÃO ESPONTÂNEA. INEXISTÊNCIA DE INFORMAÇÃO DE QUE A REFERIDA ATENUANTE FOI DEVIDAMENTE DEBATIDA EM PLENÁRIO, CONFORME PRECONIZA O ART. 492, I, DO CÓDIGO DE PROCESSO PENAL. INSTRUÇÃO ADEQUADO DO HABEAS CORPUS. ÔNUS DO IMPETRANTE. PRESCRIÇÃO E LIBERDADE DO PACIENTE.MATÉRIAS NÃO DISCUTIDAS NA INSTÂNCIA A QUO. SUPRESSÃO DE INSTÂNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - Atenuante da confissão espontânea. Não há como alterar o acórdão impugnado, ainda que a jurisprudência desta Corte Superior tenha assentado que a confissão qualificada - aquela na qual o agente agrega teses defensivas discriminantes ou exculpantes - enseja a aplicação da atenuante prevista na alínea "d" do inciso III do artigo 65 do CP. Isso porque não há no aresto impugnado, muito menos na ata da sessão de julgamento do Tribunal do Júri (fls.48-49), informação de que a referida atenuante foi devidamente debatida em Plenário, conforme preconiza o art. 492, I, do CPP. Precedentes.
+VI - Registre-se que, "o Superior Tribunal de Justiça tem compreensão firmada no sentido de que cabe ao impetrante a correta instrução do habeas corpus, mediante a colação, quando da impetração, das peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal" (AgRg no HC n.333.299/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 13/10/2015).
+VII - No que concerne à ocorrência de prescrição e à necessidade de manter o paciente solto, observa-se que as referidas teses não foram enfrentadas pela eg. Corte de origem. Desse modo, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido. (AgRg no HC 562.733/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020).
+A jurisprudência desta Corte Superioré no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes, conforme verbete sumularn. 545/STJ - Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+Contudo, no presente caso, o acusado não faz jus à diminuição de pena decorrente da atenuante, uma vez que não houve a confissão pela prática do crime de homicídio qualificado.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
