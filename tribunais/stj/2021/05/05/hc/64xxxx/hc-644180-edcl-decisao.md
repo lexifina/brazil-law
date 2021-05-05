@@ -1,0 +1,9 @@
+DECISÃO
+RODRIGO FILGUEIRA QUEIROZ opõe embargos de declaração ao decisum de fls. 56-58, de minha relatoria, em que rejeitei anteriores embargos de declaração e, assim, mantive o indeferimento liminar do habeas corpus, uma vez que não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência deste Superior Tribunal para o exame da matéria.
+A defesa reitera a sua compreensão de que o decisum de fls.21-24 foi omisso,porquanto, ao indeferir liminarmente o habeas corpus, deixou de aplicar o disposto no art. 105, I, "c" c/c "a", da CF
+Decido.
+Assim como já consignado no decisum embargado, observo que os embargos declaratórios ora analisados também não comportam acolhimento. Com efeito, a decisão ora recorridafoi firme ao demonstrar a ausência de vícios no julgado anterior. Confira-se (fl. 57):
+No caso, a decisão embargada salientou a impossibilidade de conhecimento da impetração, com fundamento no art. 105, II, "a", da CF, porque não houve julgamento em última instância pela Corte de origem, a ensejar a inauguração da competência deste Superior Tribunal. Isso porque, neste habeas corpus, a defesa apontou como ato coator decisão singular proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, contra a qual caberia, ainda, agravo regimental, que, no entanto, não foi interposto.
+Ademais, embora o embargante invoque o disposto no art. 105, I, "c", da CF para fundamentar a sua compreensão de que deveria ser conhecido o habeas corpus, certo é que a hipótese dos autos não configura competência originária do STJ, na medida em que referido permissivo constitucional exige que estejam configuradas as hipóteses nele descritas (coator ou paciente sujeito à sua jurisdição).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
