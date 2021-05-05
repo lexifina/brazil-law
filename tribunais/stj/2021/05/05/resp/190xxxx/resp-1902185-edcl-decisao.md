@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Marcelo Rodrigues Maiae Outros contra decisão que negou provimento ao recurso especial, sob os fundamentos de ausência de negativa de prestação jurisdicional e incidência do disposto na Súmula 7/STJ.
+Alega a parte embargante que "sem analisar individualmente o fundamento legal alusivo a violação ao art. 1.022 do Código de Processo Civil, art. 16-A da Lei nº 10.887/2004 e, divergência jurisprudencial ao entendimento exarado pelo Superior Tribunal de Justiça em sede de recurso repetitivo, arrimou-se Vossa Excelência em fundamento transcendente - qual seja; para se atestar a suposta incongruência entre a pretensão executória e o título executivo prolatado por esse c. STJ nos autos do REsp n. 1.585.383/DF, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial.Mas tal matéria recursal não fora abordada pelos Embargantes, em absoluto! Portanto, Excelência, é como se os exequentes não fossem ouvidos!Compreende-se daí, com todas as legítimas vênias, a grande probabilidade de ter havido a desconsideração do apelo especial dos Exequentes, ou mesmo umapossível "troca"no momento da análise dos recursos (repisa-se, por ambas as partes interpostos), uma vez que os fundamentos apontados para a inadmissibilidade não condizem com a matéria aventada no Recurso Especial dos Exequentes." (fls. 474/475)
+Não houve impugnação às razões do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+De fato, verifica-se a existência de erro material na decisão atacada, eis que não foram analisadas as razões apresentadas no recurso especial defls. 301/310, consubstanciando-se, portanto, em equívoco o decisum de fls. 467/470.
+ANTE O EXPOSTO, acolho os embargos declaratórios e torno sem efeito a decisão de fls. 467/470.
+Retornem-me os autospara nova análise dos recursos especiais acostados às fls. 289/298 e 301/310.
+Publique-se.
