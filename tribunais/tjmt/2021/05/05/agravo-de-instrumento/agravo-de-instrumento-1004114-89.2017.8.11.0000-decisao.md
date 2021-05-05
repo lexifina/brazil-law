@@ -1,0 +1,40 @@
+Número do Processo: 1004114-89.2017.8.11.0000
+Agravante: LADISLAU FERREIRA DOS SANTOS – ME
+Agravado: MUNICÍPIO DE CUIABÁ
+DECISÃO MONOCRÁTICA
+Vistos etc.,
+Trata-se de recurso de agravo de instrumento interposto por LADISLAU FERREIRA DOS SANTOS, em face de decisão interlocutória proferida pelo MM Juiz da 5a Vara Especializada da Fazenda Pública da Comarca de Cuiabá, MM. Dr. Roberto Teixeira Seror, que nos autos do Mandado de Segurança n. 1008699-61.2017.8.11.0041, indeferiu o pedido de liminar que almejava determinação à autoridade indigitada coatora, para que esta se abstivesse de exigir a certidão de débitos gerais da Prefeitura Municipal e o consequente pagamento de multas e tributos descritos no extrato de débitos do contribuinte, fornecido pela autoridade impetrada como condição para licença/renovação da permissão para exploração do serviço de transporte de passageiros em veículos (táxis) de propriedade do ora agravante.
+Em sede de agravo, a parte autora argumenta que há muitos anos é permissionário do serviço de táxi e nunca foi impedido de renovar seus alvarás e nem exigida a certidão negativa de débitos junto ao órgão municipal, destacando que conforme os extratos anexos, a maioria das dívidas referem-se a multas do ano de 2000 a 2007, sendo a mais recente de 2011, as quais o estão impedindo de ter sua permissão renovada.
+Afirma que lhe está sendo exigido o pagamento de multas administrativas, tributos e taxas de exercícios anteriores, pertinentes aos anos de 2000 a 2011, como condição da renovação pretendida, o que entende caracterizar abuso de autoridade.
+Alega que não obtém o alvará/2017 porque o Secretário de Mobilidade Urbana resolveu exigir a certidão negativa de débitos, como meio de obrigar o agravante a pagar dívidas que entende estar prescritas.
+Argumenta que a decisão do juízo de primeiro grau que indeferiu a liminar foi um tanto genérica e carece de fundamentação, pois o juízo a quo nem mesmo adentrou no assunto especificado.
+Expõe seu inconformismo com a decisão verberada, discorrendo que “indeferir a medida liminar, é o mesmo que autorizar a forma abusiva da Administração Pública coagir o Administrado a quitar dívidas prescritas impedindo de exercer sua profissão ao arrepio da lei, e contrariando inclusive, súmulas 70, 323, 547 do STF, bem como conduzir seus atos de maneira que bem entender, sem atender o Princípio de Legalidade e demais princípios constitucionais que norteiam o ordenamento jurídico”.
+Ao final, requer, liminarmente, a concessão do efeito ativo ao presente recurso, determinando que a Administração Pública Municipal expeça o Alvará de 2017 para o agravante.
+Apresentada contrarrazões pelo agravado em id. 872439.
+A Procuradoria-Geral de Justiça manifestou pelo não conhecimento do recurso, em razão da perda superveniente do seu objeto id. 41088495.
+É o relatório.
+Pois bem, em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que não deve ser conhecido o Agravo de Instrumento, uma vez que houve perda superveniente do objeto recursal.
+Conforme consulta processual realizada no sistema PJE, percebe-se que os autos originais foram sentenciados em 03/04/2020, com a seguinte parte dispositiva, in verbis:
+“[...]ISTO POSTO, consoante a fundamentação exposta, CONCEDO A SEGURANÇA pleiteada para declarar a abusividade e ilegalidade da exigência do pagamento das multas, tributos e qualquer débito junto ao Impetrado como condição para a renovação das permissões para exploração do serviço de transporte de passageiros em veículo automóveis de aluguel (táxi), e, via de consequência, JULGO EXTINTO O PROCESSO, COM RESOLUÇÃO DO MÉRITO, nos termos do art. 487, I do CPC/2015.
+Isento de custas e honorários advocatícios, nos termos da Súmula no 512 do STF e no 105 do STJ, bem como na esteira do art. 10, XXII da Constituição Estadual.
+Intimem-se
+Com fundamento no art. 14, §1o, da Lei no 12.016/2009, determino que, após o decurso do prazo do recurso voluntário, sejam os autos encaminhados à Superior Instância, em vista do reexame necessário da sentença.
+Cumpra-se.”
+Com efeito, em razão da sentença proferida pelo Magistrado a quo, torna-se juridicamente impossível a apreciação do mérito recursal ante o desfazimento do elemento material da ação (interesse de agir) no curso da demanda, e se caracteriza pela desnecessidade superveniente do provimento jurisdicional solicitado.
+Sobre o tema, preleciona o eminente processualista Nelson Nery Junior, in Comentários ao Código de Processo Civil, 2015, p.1.851:
+“Recurso prejudicado. É aquele que perdeu seu objeto. Ocorrendo a perda do objeto, há falta superveniente de interesse recursal, impondo-se o não conhecimento do recurso por ausência de requisito de admissibilidade. Assim, ao relator cabe julgar inadmissível o recurso por falta de interesse, ou seja, julgá-lo prejudicado”.
+Nesse sentido, eis os julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. PERDA DE OBJETO DE AGRAVO DE INSTRUMENTO. PREJUDICIALIDADE VERIFICADA EM RAZÃO DE SENTENÇA DE MÉRITO SUPERVENIENTE. INTEMPESTIVIDADE DO RECURSO ESPECIAL. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. 1. Na hipótese em exame, prevalece o entendimento do STJ de que, uma vez prolatada a sentença de mérito na ação principal, opera-se a perda do objeto do Agravo de Instrumento contra deferimento ou indeferimento de liminar. 2. Quanto à alegação de intempestividade, o Tribunal de origem, em decisão de admissibilidade (fl. 234/STJ), atestou a tempestividade do Recurso Especial interposto, reconhecendo a existência do feriado local. Por tal razão, não há que falar em ausência de documento idôneo que comprove a tempestividade. 3. Relativamente à divergência jurisprudencial, a discrepância entre julgados deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. 4. Agravo Regimental não provido. (STJ - AgRg no REsp: 1442460 PE 2014/0058365-9, Relator: Ministro HERMAN BENJAMIN, Data de Julgamento: 20/05/2014, T2 - SEGUNDA TURMA, Data de Publicação: DJe 20/06/2014)11:52
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO PROFERIDA EM LIMINAR EM MANDADO DE SEGURANÇA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA DE OBJETO. 1. A Corte Especial, em decisão recente, ao julgar o EAREsp 488.188/SP, de relatoria do Ministro Luis Felipe Salomão, publicada no DJe de 19/11/2015, passou a adotar o entendimento de que a prolação de sentença de mérito tem como consequência lógico- jurídica a perda de objeto do recurso especial interposto contra decisão em antecipação de tutela, tenha sido ela deferida ou indeferida. 2. No caso dos autos, houve prolação de sentença de mérito em mandado de segurança, o que, por si só, torna prejudicado o recurso especial interposto contra decisão que deferiu a liminar no mandamus. 3. Agravo regimental a que se nega provimento. (STJ - AgRg no AREsp: 311214 CE 2013/0067829-9, Relator: Ministro SÉRGIO KUKINA, Data de Julgamento: 18/02/2016, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 24/02/2016)
+Assim, se foi proferida sentença na ação principal após a interposição do presente recurso de Agravo de Instrumento, resta evidenciada a perda superveniente do objeto.
+Logo, deve ser negado seguimento ao recurso como permite o art. 932, III, do Código de Processo Civil, como se vê:
+Art. 932. Incumbe ao relator:
+(...)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Ante o exposto, reconheço a perda superveniente do interesse recursal, e, por conseguinte, não conheço do recurso por estar prejudicado, nos termos do artigo 932, inciso III, do Código de Processo Civil.
+Com o trânsito em julgado, arquive-se com as baixas e comunicações necessárias.
+Intime-se.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Yale Sabo Mendes
+Juiz de Direito – Convocado
