@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. VALORES RELACIONADOS AO PASEP. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam da entidade bancária para ação relacionada ao PASEP.
+4. O STJ tem o entendimento de que "a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo BANCO DO BRASIL S.A. que desafia decisão de minha lavra, proferida às e-STJ fls. 325/328, que não conheceu do recurso especial, com base nos seguintes fundamentos: (I) incidência da Súmula 7 do STJ e (II) divergência jurisprudencial prejudicada.
+No presente agravo interno, a parte agravante sustenta que não incide o óbice da Súmula 7 do STJ e reitera os argumentos anteriormente expendidos.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 358/366, com pedido de aplicação de multa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. VALORES RELACIONADOS AO PASEP. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam da entidade bancária para ação relacionada ao PASEP.
+4. O STJ tem o entendimento de que "a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+5. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, observa-se que a decisão recorrida não merece reparos.
+Consoante anteriormente explanado, in casu, a instância anterior reformou a sentença para reconhecer a legitimidade passiva do Banco do Brasil, nos termos da seguinte motivação:
+Compulsando os autos, verifico que a apelante objetiva a correção dos valores em sua conta individual do PIS/PASEP, fundada na má-gestão da instituição financeira, não se insurgindo contra as diretrizes estabelecidas pelo Conselho Diretivo.
+A legitimidade do Banco do Brasil para figurar em ações dessa natureza foi objeto de apreciação por este Colegiado, nos autos da Apelação Cível nº 0729823-76.2018.8.07.0001, de relatoria da eminente Desembargadora Gislene Pinheiro, cuja ementa peço vênia para transcrever, na fração de interesse:
+APELAÇÃO CÍVEL. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE INTERESSE. PASEP. CONTA VINCULADA. SALDO A MENOR. BANCO DO BRASIL. LEGITIMIDADE PASSIVA. PRESCRIÇÃO. PRAZO QUINQUENAL. ÔNUS DA PROVA. FATOS CONSTITUTIVOS DO DIREITO. DEMONSTRAÇÃO. FATOS OBSTATIVOS. AUSÊNCIA.
+1. Compulsando os autos, não se vislumbra qualquer decisão que tenha deferido a gratuidade de justiça em favor da parte recorrida, razão pela qual entendo não haver interesse recursal no tocante a este ponto, de modo que a irresignação deduzida em apelação neste sentido não merece ser conhecida.
+2. Não são objeto de questionamento, por parte do autor, circunstâncias relacionadas a índices de cálculo ou ajustes contábeis ou financeiros, elementos estes cuja fixação compete ao Conselho Diretor do programa, e, caso tivessem sido deduzidos como causa de pedir, poderiam, em tese, legitimar a União a integrar o polo passivo da lide. Os limites objetivos da presente demanda compreendem, apenas e tão somente, a alegada má-administração pelo Banco do Brasil S/A do saldo havido na conta vinculada à parte autora, o que o torna parte legítima para compor o feito. (Acórdão 1192005, 07298237620188070001, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 31/7/2019, publicado no DJE: 13/8/2019. Pág.: Sem Página Cadastrada.)
+ ..
+Ao exposto, CONHEÇO do recurso e, no mérito, DOU-LHE PROVIMENTO para, reconhecendo a legitimidade passiva ad causam da instituição bancária apelada, cassar a sentença e determinar o retorno à instância embrionária, para que seja dado regular prosseguimento ao feito, nos termos supracitados, considerando a prematuridade da matéria para julgamento nesta sede. (e-STJ fls. 240/244).
+Consoante destaquei no voto condutor do acórdão hostilizado, a parte autora, ora embargada, não se insurge contra as diretrizes do Conselho Diretivo do PIS/PASEP, tampouco se mostra controvertido o fato de o Banco do Brasil S/A ser subserviente às determinações emanadas pelo órgão colegiado supra (ID 15703539, p. 2).
+Em verdade, a matéria em debate se concentra em eventuais falhas na própria gestão/ administração dos valores depositados na conta individual da autora, ao alvedrio das determinações do Conselho Diretivo, o que, como prenunciado no decisório objurgado, reclama produção técnica e, assim, propulsiona o retorno dos autos à instância embrionária, ante prematuridade da demanda para apreciação nesta sede.
+No mais, considero desinfluente a argumentação evocada no recurso, senão prejudicial à própria embargante, tendo em vista que reforça a legitimidade passiva da instituição bancária, pois, se comprovada qualquer desconformidade dos valores em lume por má-administração do Banco do Brasil - consoante tese autoral -, remanescerá a violação aos comandos normativos suscitados nos embargos, por eventual inobservância das determinações fixadas pelo Conselho Diretivo (art. 5º da LC 08/70, arts. 3º, 4º e 12 do Decreto 9.978/2019, bem assim o art. 4º-A da Lei nº 9.365/1996). (e-STJ fls. 264/265)
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias, no sentido da legitimidade passiva da recorrente, demandaria induvidosamente o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ILEGITIMIDADE PASSIVA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. CONTRARIEDADE A PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. A decisão agravada encontra-se em consonância com a jurisprudência desta Corte no sentido de reconhecer a preclusão consumativa quando a matéria for deduzida e apreciada em julgamento anterior de exceção de pré-executividade.
+2. Análise da controvérsia referente à alegada ilegitimidade passiva do Agravante para figurar no feito, demanda, necessariamente, o reexame de matéria fática-probatória constante dos autos, o que é inviável em sede de Recurso Especial.
+3. Não cabe ao STJ, em sede de Recurso Especial, conhecer da alegada ofensa de princípios constitucionais (REsp. 1.240.170/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.4.2011).
+4. Agravo Interno do Particular desprovido. (AgInt no REsp 1.619.924/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 28/06/2017).
+Ademais, resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 16/09/2014, DJe 24/09/2014).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
