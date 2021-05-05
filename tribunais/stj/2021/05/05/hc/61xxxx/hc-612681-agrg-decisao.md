@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que denegou a ordem de habeas corpus que buscava o trancamento da ação penal originária.
+Nas razões do regimental foi sustentado que a tese da retroatividade da lei penal benéfica ainda pendia de discussão perante a Terceira Seção do STJ, em razão do HC610201/SP. Ainda, apontou a inaplicabilidade dos precedentes constantes da decisão agravada em relação à irretroatividade da norma. Asseverou que o princípio da instrumentalidade da forma restou violado pois não teria havido representação formal da vítima. No mais, foram reiteradas as demais teses da impetração.
+Contudo, o impetrante informou às fls. 380-381 que foi proferida sentença pelo Juizda 2ª Vara Criminal da Comarca de Sertãozinho em que absolveu o paciente. Então, o presente agravo regimental perdeu o objeto.
+Ademais, é jurídico e processualmente incabível o pedido do impetrante de substituição do polo ativo do presente writ, a fim de ser analisada a situação do corréu, primeiro porque já existe decisão de mérito no presente processo, e, segundo porque, o habeas corpus, assim como toda e qualquer ação processual, tem requisitos de admissibilidade e procedibilidade, ainda que seja um instrumento constitucional e potestativo, isto é, não se trata de nenhum instrumento desprovido de qualquer técnica jurídica que serve para se argumentar qualquer descontentamento em que, ao longo do seu curso procedimental, admite-se a inclusão ou exclusão de pacientes, impetrantes e autoridadecoatora.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se.
+Intimem-se.
