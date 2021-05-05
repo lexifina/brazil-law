@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ISABEL CRISTINA BENTO DE ALVARENGA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo nos autos da Apelação n.º 1502605-46.2019.8.26.0625.
+Consta dos autos que a paciente foi definitivamente condenada à pena de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial fechado, além do pagamento de 840 (oitocentos e quarenta) dias-multa, pela prática do crime previsto no art. 35 da Lei n.º 11.343/2006.
+Em 12/2/2021, foi determinada a expedição do mandado de prisão e da guia de recolhimento definitiva, ante o trânsito em julgado da condenação (e-STJ, fls. 63/65).
+Nestewrit, a defesa alega que, nos autos do HC n.º 632.132/SP, de minha relatoria foi concedidaa ordem, de ofício, para substituir o encarceramento da ora paciente em estabelecimento prisional pela prisão domiciliar.
+Argumenta que "a paciente vinha cumprindo de forma fidedigna a prisão domiciliar reconhecida e determinada por Vossa Excelência, contudo novamente teve sua liberdade obstruída por processo que já vinha respondendo antes da concessão dowritn.º 632132" (e-STJ, fl. 7).
+Assevera que os "motivos que ensejaram a concessão da prisão domiciliar da paciente PERMANECEM INALTERADOS, ou seja, exalando a mesma essência, qual seja, a presença de filho menor de 12 anos de idade, mais especificamente sua prole encontra-se com 10 meses de vida" (e-STJ, fl. 8).
+Destaca que "NÃO HOUVE COMETIMENTO DE NOVO CRIME APÓS CONCESSÃO DA BENESSE DOMICILIAR, mas sim ocorreu deslinde em processo que já tramitava, e era de conhecimento de Vossa Excelência à luz das informações prestadas noHabeas CorpusConcessivo" (e-STJ, fl. 9).
+Requer, nessa diapasão, inclusive liminarmente, "que seja concedido e restabelecido àpaciente a benesse da PRISÃO DOMICILIAR, lastreado nos termos da decisão proferida noHabeas Corpus n.º632132-SP" (e-STJ, fl. 15).
+Inicialmente distribuídoà eminente Ministra LAURITA VAZ, o feito foi redistribuído, por prevenção, vindo-me conclusos nesta data (e-STJ, fl. 91).
+Liminar indeferida (e-STJ, fls. 92/93).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus (e-STJ, fls. 104/107).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC n.º 313.318/RS, Quinta Turma, Rel. Min. FELIX FISCHER, julgamento em 7/5/2015, DJe de 21/5/2015; HCn.º 321.436/SP, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJede 27/5/2015.
+No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+In casu, no julgamento daapelação interposta,a Corte de origem consignou, no que tange ao regime de cumprimento da pena (e-STJ, fl. 61):
+Fica mantido o regime inicial fechado para o cumprimento da pena, vez que os réus são reincidentes. Além disso, os réus integram organização criminosa ligada ao PCC de forma estável, permanente e com movimentação de grande quantidade de drogas. Não custa acrescentar que a ré Isabel ainda está respondendo pelo delito de tráfico de drogas ocorrido uma semana antes dos fatos aqui relatados.
+Conforme ressaltou, com propriedade e lucidez, o Parquet federal, houve supressão de instância na hipótese vertente, não podendo ser conhecido o writ:
+ ..  o apontado cabimento da conversão da segregação em prisão domiciliar não chegou a ser enfrentado pelo Tribunal a quo, por ocasião do julgamento da apelação, razão pela qual esta Colenda Corte não pode conhecer do presente writ nesta parte, sob pena de indevida supressão de instância.
+ ..  (e-STJ, fl. 106)
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n.º 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n.º 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n.º 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n.º 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n.º 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n.º 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Diante do exposto, não conheço do presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
