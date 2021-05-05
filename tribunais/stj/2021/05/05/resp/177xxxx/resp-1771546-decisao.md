@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO.LITISPENDÊNCIA COM AÇÃO COLETIVAREFUTADA PELA CORTE DE ORIGEM, A PARTIR DAS PREMISSAS FÁTICAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.AÇÃO COLETIVA E AÇÃO INDIVIDUAL. LITISPENDÊNCIA. INEXISTÊNCIA.RECURSO ESPECIAL DO MUNICÍPIOA QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE VÁRZEA GRANDE, com base naalíneac do art. 105, III, da Constituição Federal, objetivando a reforma do acórdão do Tribunal deJustiça de Mato Grosso, assim ementado:
+PROCESSUAL CIVIL - RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS - SINDICATO DOS TRABALHADORES DO ENSINO PÚBLICO- SINTEP - SUBSTITUIÇÃO PROCESSUAL DE FILIADOS DETERMINADOS - LITISPENDÊNCIA - NÃO EVIDENCIADA -ENTENDIMENTO PACIFICADO NO ÂMBITO DESTA CORTE - PROVIMENTO - SENTENÇA CASSADA.
+Não há falar em litispendência nas ações declaratórias propostas pelo Sindicato, como substituto processual de filiados determinados, já que a sentença, prolatada em outro feito, não produzirá efeitos aos que não integram aquela relação jurídico-processual.
+2. Nas razões do seu Apelo Especial, o Município recorrenteaponta divergência jurisprudencial quanto à interpretação dos arts. 267, V, e 301, §§ 1oa 3o, do CPC/1973.Defende que há litispendência entre o presente feito e a ação coletiva existente no Juízo da 1aVara Especializada da Fazenda Pública da Comarca deVárzeaGrande (Código 330892).Argumenta, para tanto, que:
+"No caso em tela, não se trata de ação individual plúrima, mas de diversas ações coletivas, interpostas com a mesma pretensão, o mesmo fundamento, em defesa do mesmo grupo de beneficiários, cujo pedido deve ser julgado de forma idêntica para todos os substituídos, com aproveitamento do decisum para a classe de professores, pois o benefício alcançado por um grupo atingirá a todos para evitar cisão de remuneração de uma única carreira.
+Na ação plúrima "há um litisconsórcio ativo facultativo, e a cada trabalhador equivale o seu interesse próprio e o pedido poderá ser julgado procedente para um e improcedente para outro.
+Por sua vez, na ação coletiva, os representados são indeterminados, porém determinável, como exemplo a aplicação do piso salarial estabelecido na Lei Federal nº11.738/2008 para os professores como postulado; no qual o Sindicato dos professores entra com ação coletiva buscando o reajuste para a categoria, essa decisão é obrigatoriamente igual para toda a classe de professores, logo o pedido no caso é indivisível.
+Na Ação Declaratória c/c Danos Materiais (Código 329636). também, promovida pelo Sindicato dos Trabalhadores do Ensino Público -SINTEPcontra o Município deVárzeaGrande, que tramita perante a V Vara Especializada da Fazenda Pública da Comarca deVárzeaGrande-MT. possuem idênticas causa de pedir, próxima e remota, e os pedidos." (fls. 237-238)
+3. Com as contrarrazões, o recurso foi admitido (fls. 297/300).
+4. É o relatório.
+5. O recurso não merece prosperar.
+6. Na espécie, a Corte de origem afastou a litispendência reconhecida pelo Juízo de Primeiro Grau, com base nos seguintes fundamentos:
+"Entrementes, revi meu entendimento, em razão de que o novelCódigo de Processo Civil trouxe a padronização das decisões judiciais, mediante a necessidade de observância da jurisprudência dos Tribunais de instância extraordinária, além das decisões dos Tribunais inferiores, de instância ordinária, tudo em homenagem ao princípio da segurança jurídica.
+Registro que não se está a desprezar o princípio do livre convencimento motivado que é a garantia de julgamentos independentes e justos, mas adispersão da jurisprudência produz intranquilidade social e descrédito ao Poder Judiciário. Por isso, a necessidade de estabilizar e uniformizar a jurisprudência.
+Desse modo, não há falar em litispendência, uma vez que o direito tutelado na presente ação, embora ajuizada por entidade sindical, não alcança todos os demais profissionais que se encontram na mesma situação dos aqui substituídos, já que, por se tratar de ação individual, a sentença produzirá efeitos apenas aos que integram a relação processual.
+(..)
+Nessa quadra, não há falar em litispendência, porque não há como estender aos substituídos em outras demandas, e que buscam o reconhecimento do mesmo direito, os efeitos da sentença proferida na Ação Declaratória distribuída sob o código nº329636.
+Assim sendo, a fim de prestigiar a jurisprudência deste Tribunal, o provimento do Recurso para cassar a sentença é medida impositiva.
+Ante o exposto, PROVEJO o Apelo e, de consequência, casso asentença atacada, determinando o retorno dos autos à Comarca de origem para regularprocessamento.
+É como voto. (fls.207/209).
+7. Assim, a inversão de tal premissa,no sentido de que a hipótese em análise trata de Ação Individual, e não de Ação Coletiva, demandaria o necessário revolvimento do conjunto fático dos autos, o que esbarra no óbice contido na Súmula 7/STJ.
+8. Ademais,verifica-se que o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte no sentido dainexistência de litispendência entre a ação individual e ação coletiva.A propósito:
+PROCESSUAL CIVIL. AÇÃO COLETIVA E AÇÃO INDIVIDUAL. LITISPENDÊNCIA.INEXISTÊNCIA.
+1. De acordo com o regime instituído pelo Código de Defesa do Consumidor para julgamento das ações coletivas lato sensu, a demanda coletiva para defesa de interesses de uma categoria convive de forma harmônica com ação individual para defesa desses mesmos interesses de forma particularizada.
+2. Recurso Especial não provido.( REsp 1.711.051/MG, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA,DJe 25/05/2018)
+9. Confiram-seas seguintes decisões monocráticas proferidas em processos idênticos: REsp. 1.777.871/MT, Rel. Min.BENEDITO GONÇALVES, Data da Publicação 09/09/2020; REsp. 1.725.559/MT, Rel. Min. FRANCISCO FALCÃO, Data da Publicação 10/03/2020;REsp. 1.773.092/MT, Rel. Min. HERMAN BENJAMIN, Data da Publicação14/12/2018 eREsp. 1.774.067/MT, Rel. Min. MAURO CAMPBELL MARQUES, publicado em 31/10/2018.
+10. Verifica-se, assim, que o acórdão recorrido está em conformidade com a jurisprudência deste Sodalício, o que atrai a incidência da Súmula 83/STJ.
+11. Diante do exposto, nega-se provimentoao Recurso Especial do Município.
+12. Publique-se. Intimações necessárias.
