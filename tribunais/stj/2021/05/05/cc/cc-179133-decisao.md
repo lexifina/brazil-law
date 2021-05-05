@@ -1,0 +1,12 @@
+DECISÃO
+Não há muito sobre o que considerar sobre o conflito negativo de competência instaurado quanto ao processamento e ao julgamento de ação mandamental fundada em preterição derivada de concurso público ante a necessidade de serviço público.
+O certame foi aberto pela Fundação de Saúde Pública de Novo Hamburgo, o que motivou o suscitado a declinar da competência, considerando a premissa de que "acompetência para processar e julgar demandas que versem sobre relação de trabalho, ainda que na fase pré-contratual advindo da expectativa de direito em decorrência de concurso público é da Justiça do Trabalho."
+Ambos os órgãos judicantessuscitantes prestaram informações, em e-STJ fls. 246 e 255/257.
+É o relatório, no primordial.
+O conflito observa o teor do Enunciado Administrativo n. 4/STJ: "Nos feitos de competência civil originária e recursal do STJ, os atos processuais que vierem a ser praticados por julgadores, partes, Ministério Público, procuradores, serventuários e auxiliares da Justiça a partir de 18 de março de 2016, deverão observar os novos procedimentos trazidos pelo CPC/2015, sem prejuízo do disposto em legislação processual especial."
+Digo que não há muito sobre o que considerar sobre o tema porque esse tipo de controvérsia foi derradeiramente dirimidapelo Supremo Tribunal Federal, com o julgamento do Tema 992, registrado com a repercussão geral doRE 960.429/RN, rel. Ministro Gilmar Mendes, cujo acórdão ainda pende de publicação, mas definida a tese na assentada de 05.03.2020, nos seguintes termos:"Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal."
+No caso concreto, a justiça comum é a do Estado do Rio Grande do Sul, em detrimento da especializada federal, a laboral.
+Assim sendo,conheço do conflito para declarar competente osuscitado, Juízo de Direito da 4.ª Vara Cível de Novo Hamburgo, do Poder Judiciário do Estado do Rio Grande do Sul.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO 4/STJ. DEMANDA SOBRE PRETERIÇÃO EM CONCURSO PÚBLICO. FASE PRÉ-CONTRATUAL. PESSOA JURÍDICA DE DIREITO PÚBLICO. REGIME CELETISTA. TEMA 992/STF. RE 960.429/RN. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O SUSCITADO, JUÍZO DE DIREITO DA 4.ª VARA CÍVEL DE NOVO HAMBURGO/RS.
