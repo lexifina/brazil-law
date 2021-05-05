@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim relatado (fls. 414-415):
+A advogada Alessandra Andréia Cório impetra este habeas corpus, com pedido liminar, em favor de ANDRÉ LUIZ DOS SANTOS BARBOZA, em virtude de sentença recorrível que o condenou às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, por infração ao art. 33, caput, da Lei nº 11.343/06, sendo-lhe vedado o apelo em liberdade.
+Pleiteia a impetrante, liminarmente, a concessão do direito do paciente recorrer solto sob a alegação de falta de fundamentação no r. decisum que vetou essa possibilidade e o preenchimento dos requisitos legais, acrescentando, ainda, ter sido a condenação baseada em provas ilícitas, apontando ofensa à inviolabilidade de domicílio. Requer, de tal modo, a expedição do competente alvará de soltura, com medidas cautelares diversas do cárcere.
+A liminar restou indeferida por esta Relatoria (fls. 383/384) e as informações prestadas pela autoridade apontada como coatora foram juntadas aos autos (fls. 387/391).
+Nesta instância, a douta Procuradoria Geral de Justiça opinou pela denegação da ordem (fls. 394/399).
+É O RELATÓRIO.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 583 dias-multa, pelo delito de tráfico de drogas.
+A defesa alega constrangimento ilegal por ausência de fundamentação da decisão que indeferiu o direito de recorrer em liberdade. Acrescenta que a condenação embasou-se em provas ilícitas, obtidas mediante invasão de domicílio.
+Requer a expedição do competente alvará de soltura, com medidas cautelares diversas da prisão.
+A liminar foi indeferida e as informações, prestadas.
+Instado a se manifestar, o Ministério Público Federal deixou de fazê-lo (fls. 430 e 450).
+Na origem, a apelação criminal n. 1500106-57.2020.8.26.0592 ainda não foi julgada, consoante informações obtidas na página do TJSP em 2/5/2021.
+Sobre a alegada invasão de domicílio, o Tribunal de origem apontou (fl. 415):
+Registre-se, inicialmente, quanto à alegação de ofensa ao princípio da inviolabilidade de domicílio, trata-se de mera reiteração.
+O paciente e a causa de pedir são idênticos ao do habeas corpus nº 2102700-25.2020.8.26.000, que recebeu o voto nº 14.666 desta relatoria, julgado virtualmente em 18.08.2020, sendo a ordem denegada, por votação unânime, abordando em seu todo o tema aqui suscitado.
+ ..
+Tratando-se, portanto, de mera reiteração de pedido, sob idêntico embasamento, impossível é o seu conhecimento.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não colacionou aos autos o acórdão que avaliou a nulidade probatória. Assim, a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ, impetrado por profissional legalmente habilitado. Neste sentido: PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020) ; AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020.
+Ademais, extrai-se da denúncia que houve autorização do paciente à entrada dos policiais em seu domicílio (fl. 149) o que é suficiente para afastar, ao menos em cognição sumária típica de habeas corpus, a aventada nulidade.
+Quanto ao direito de recorrer em liberdade, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A sentença condenatória assim dispôs (fl. 314):
+Diante da manutenção das circunstâncias, determino seja mantida a prisão preventiva do acusado.
+O decreto preventivo, por sua vez (fl. 78):
+De mais a mais, a prisão preventiva é necessária para garantia da ordem pública, para conveniência da instrução processual e para assegurar a aplicação da lei penal. Havia aproximadamente 77,29 gramas de maconha fracionada em uma porção única e em mais 20 invólucros plásticos, e a simples negativa de conhecimento de parcela da droga informada por Adre, como dito, no contexto, não prevalece.
+O risco à ordem pública é presente. Consigne-se que o tráfico de drogas é delito equiparado ao hediondo e cujo tratamento exige maior rigor. A Lei 11.343/06, em seu art. 44, estabelece a vedação da concessão de liberdade provisória aos acusados de praticarem o delito de tráfico. Dessa forma, por expressa vedação legal, o benefício não poderia ser concedido, mormente quando presentes, como no caso, os requisitos da prisão cautelar. Ademais, o crime de tráfico de drogas é grave e vem causando temor à população obreira, em razão de estar relacionado ao aumento da violência e criminalidade, estando muitas vezes ligado ao crime organizado. Além disso, é fonte de desestabilização das relações familiares e sociais, gerando, ainda, grande problema de ordem de saúde pública em razão do crescente número de dependentes químicos e viciados. Repise-se: as circunstâncias que cercaram a localização e apreensão do entorpecente em poder do autuado flagrado com drogas fracionadas, aliadas ao local, existência de pessoa conhecida como sendo usuária de drogas e a forma de acondicionamento dos entorpecentes apreendidos evidenciam, num primeiro exame, o seu envolvimento com a criminalidade, sendo de rigor a manutenção da custódia cautelar para garantia da ordem pública e social.
+Relevante considerar, ainda, que o averiguado não comprovou, documentalmente, ter ocupação lícita e residência fixa no distrito da culpa, tornando-se temerária sua imediata soltura, pois haveria risco de obstrução do andamento de eventual processo, caso não localizados para ser pessoalmente citados, em vista do teor do disposto no art. 366, do Código de Processo Penal.
+Verifica-se que a prisão preventiva foi decretada pela quantidade apreendida de entorpecentes e sua forma de acondicionamento.
+No entanto, ao analisar as circunstâncias do caso, os riscos apontados não exigem tão gravosa cautelar como a prisão, pois a quantidade de droga apreendida não se mostra expressiva, tratando-se de aproximadamente 125g de maconha (fl. 77).
+Assim, para evitar o risco de reiteração delitiva, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; proibição de ter contato pessoal com agentes envolvidos em atividades criminosas, como garantia à instrução e proteção contra à reiteração criminosa.
+Ante o exposto, concedo o habeas corpus para determinar a substituição da cautelar de prisão do paciente pelas medidas cautelares acima elencadas, até o trânsito em julgado da sentença condenatória.
+Comunique-se.
+Publique-se.
+Intimem-se.
