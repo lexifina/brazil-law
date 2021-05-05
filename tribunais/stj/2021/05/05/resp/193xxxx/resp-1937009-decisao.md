@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por PST ENERGIAS RENOVAVEIS E PARTICIPACOES S/A contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 1033):
+APELAÇÃO. PRODUÇÃO ANTECIPADA DE PROVA. EXIBIÇÃO DE DOCUMENTOS. PRELIMINARES. Alegação de irrecorribilidade decisão. Rejeição. Razões recursais de conteúdo processual. Cabimento da apelação. Nulidade da sentença. Alegação de decisão extra petita. Decisão que observou os limites objetivos da demanda. Falta de pedido de condenação ao pagamento de multa pelo autor não impede sua fixação de ofício, se útil ao cumprimento da obrigação. Art. 139, IV, e 400, parágrafo único, do CPC. Alegação de que a sentença é condicional. Inocorrência. A locução "se houver" não retira a certeza da decisão. Direito da autora à produção antecipada da prova consistente na exibição de documentos previstos contratualmente. Falta de interesse de agir. Pendência do processo de execução. Alegação rejeitada. Direito à exibição dos documentos até o cumprimento da obrigação assumida pela ré. A possibilidade de exibição do documento pelo administrador judicial não impede a parte contratante de realizá-la. Alegada inexistência dos documentos a serem exibidos. Ausência de provas em contrário. Condenação mantida. Honorários advocatícios sucumbenciais recursais. Majoração em razão do resultado do julgamento. Sentença mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1081-1085).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 141, 400 e 586 do CPC; e 884 do CC. Afirma que a decisão é ultra petita e que não é possível a imposição de multa cominatória em obrigação de fazer, além de ser exorbitante o valor fixado. Aduz violado o art. 382, § 2º, do CPC, pois, após indevida valoração da prova, o acórdão concluiu pela existência do documento a ser exibido. Aduz violados, ainda, os arts. 17 do CPC; e 22, I, "b", da Lei nº 11.101/2005, pois o documento pode ser solicitado ao administrador da recuperação judicial da recorrente; o crédito encontra-se devidamente habilitado e já houve propositura de demanda executiva pelo recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 1090-1117).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 1118-1119), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
