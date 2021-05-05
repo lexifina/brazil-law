@@ -1,0 +1,16 @@
+DECISÃO
+RONALDO AURINO DA SILVA e outros alegam sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2059967-10.2021.8.26.0000).
+Requerem, liminarmente e no mérito, a expedição de alvará de soltura, pois: a) trata-se de imputação de furto qualificado, sem notícia de violência ou grave ameaça contra pessoae b) as denunciadas possuem filhos menores e c) os registros criminais anteriores são insuficientes para evidenciar o periculum libertatis.
+Decido.
+A prisão preventiva foi decretada, em 25/2/2021, pelos seguintes fundamentos (fl. 27):
+Na hipótese em apreço, a prova da materialidade e os indícios suficientes de autoria dos crimes de furto qualificado tentado e associação criminosa (artigo155, §4º, IV c/c artigo 14 e artigo 288 do Código Penal) encontram-se evidenciados pelos elementos de prova já constantes das cópias do Auto de Prisão em Flagrante,
+ ..
+Verifico que os autuados são reincidentes (fls. 59/139)  ..
+Além disso, mesmo que o crime de furto qualificado não seja cometido com violência ou grave ameaça, é evidente a gravidade da prática delitiva haja vista que os autuados estavam em cinco, foram encontrados dezenas de produtos de higiene pessoal e cosméticos subtraídos de dois estabelecimentos.
+NÃO há, ainda, indicação precisa de endereços residenciais fixos que garanta a vinculação ao distrito da culpa, denotando que a cautela é necessária para a conveniência da instrução criminal e de eventual aplicação da lei penal, nem de atividade laboral lícita remunerada, de modo que as atividades ilícitas porventura sejam fonte ao menos alternativa de renda (modelo de vida), pelo que a recolocação em liberdade neste momento (de maneira precoce) geraria presumível retorno às vias delitivas, meio de sustento.
+Feitas tais considerações, tenho que a segregação cautelar é de rigor, destacando-se que a conduta  ..  é de acentuada reprovabilidade, eis que praticavam crimes juntos em época de quarentena  ..
+A inicial do writ não está instruída com cópias: a)da denúncia, b) da folha de antecedentes dos réus e c) das decisões que indeferirama aplicação do art. 318, V, do CPP em relação às denunciadas. Sem esses documentos, não é possível compreender as condutas a eles imputadasea motivação judicial utilizada paraindeferir a prisão domiciliar. À falta de certidão de antecedentes, não é possível modificar o prognóstico do Juiz sobre o periculum libertatis ou averiguar a suficiência/adequação de medidas diversas da prisão preventiva.
+O ônus dainstrução do habeas corpus é todo do impetrante e o seu descumprimentoinviabiliza oprocessamento do writ.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar documentos suficientes para a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, indefiro liminarmente o processamento destehabeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se e intimem-se.
