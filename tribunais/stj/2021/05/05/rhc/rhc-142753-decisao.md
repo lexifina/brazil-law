@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS. PENAL. PROCESSO PENAL. HOMICÍDIO, LESÃO CORPORAL (POR DUAS VEZES) E CONDUÇÃO DE VEÍCULO SOB EFEITO DE ÁLCOOL. REQUISITOS DA PRISÃO PREVENTIVA. DECISUM DEVIDAMENTE FUNDAMENTADO. GARANTIA DA APLICAÇÃO DA LEI PENAL. PACIENTE QUE PERMANECE EM LUGAR INCERTO DESDE O INÍCIO DO PROCESSO. INADEQUAÇÃO DA SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1  O fato de o réu de se encontrar em lugar incerto e não sabido desde o início do processo, sendo citado por edital e constituído advogado apenas após a suspensão do processo e a decretação da prisão preventiva, configura fundamento suficiente para a segregação cautelar para garantia da aplicação da lei penal, especialmente quando a defesa não comprova que o paciente teria se mudado por medo de represália, tanto que até o presente momento se encontra foragido.
+2  Bem demonstrado o risco efetivo à aplicação da lei penal, os requisitos que autorizaram o decreto cautelar previstos no art. 312 do CPP encontram-se presentes, sendo inadequadas e insuficientes as medidas cautelares diversas elencadas no art. 319 do CPP.
+3  Ordem conhecida e, no mérito, denegada. Decisão unânime.
+Consta dos autos que o recorrente foi preso preventivamente em virtude da prática dos delitos previstos nos arts. 121, caput, c/c art. 70, art. 129 (duas vezes), do Código Penal, e art. 306 do Código de Trânsito Brasileiro.
+Daí o presente recurso, em que alegaausência de fundamentação para a prisão preventiva, ante a ausência dosrequisitos do art. 312 do CPP.
+Nesse sentido requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem a aplicação de cautelares diversas do cárcere.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não provimento do recurso.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado(fls. 20-21):
+(..)
+No caso, a prisão preventiva é necessária para assegurar futura aplicação da lei penal.
+Verifica-se que a prisão do denunciado José Edenilson da Silva, ao menos nesse momento processual, é necessária para assegurar a aplicação da lei penal, considerando que o acusado, desde o início da ação penal em tela, não compareceu aos atos processuais em que foi chamado.
+Nota-se, assim, que há indícios de que o réu está se furtando de eventual aplicação da lei penal, fugindo do chamamento da Justiça, fato que por si só já fundamenta a necessidade da segregação.
+Nesse sentido, Andrey Borges de Mendonça assevera sobre a prisão preventiva para assegurar a aplicação da lei penal:
+(..)
+À parte tudo isso, com a vigência da Lei n.º 12.403/2011, que trouxe à legislação processual penal um leque de medidas cautelares alternativas à prisão preventiva, impõe ressaltarmos não ser cabível a substituição do decreto de prisão por qualquer outra medida, consoante determina a nova redação do art. 282, § 6º do CPP.
+É que, de acordo com Andrey Borges de Mendonça, "foram previstas medidas alternativas à prisão, que poderão ser aplicadas quando forem suficientes para neutralizar o periculum in mora, ou seja, o risco à ordem pública, à conveniência da instrução criminal e o risco de fuga". No caso em questão, todavia, não há medida cautelar que afaste o risco à aplicação da lei penal, tendo em vista que o acusado está em local incerto e não sabido até o momento.
+Em face do exposto, DECRETO A PRISÃO PREVENTIVA DO ACUSADO JOSÉ EDENILSON DA SILVA, nos termos dos artigos 312 (para assegurar a futura aplicação da lei penal) e 313 do Código de Processo Penal, determinando seja expedido o competente mandado de prisão, remetendo-o de imediato à autoridade competente para efetivo cumprimento, e comunicando o CNJ na forma do art. 289-A do CPP.
+Como se vê,constata-se a indicação de fundamento idôneo para a decretação da prisão preventiva tendo em vistaafuga do recorrente do distrito da culpa.
+É pacífico o entendimento desta Corte Superior, que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal. Confira-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013.
+Em igual sentido a jurisprudência do Supremo Tribunal Federal, v.g.: HC n. 120794/MG - 1ª T. - Rel. Min. Luiz Fux - DJe 8/5/2014; HC n. 115045/SP - 1ª T. - Min. Rosa Weber - DJe 23/4/2013; HC n. 111691/SP - 2ª T. - unânime Rel. Min. Gilmar Mendes - DJe 20/11/2012; HC n. 112738/SP - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 21/11/2012.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ressalte-se, por fim, que, consoante consta do acórdão impugnado, a defesa não comprovou que o paciente teria se mudado por medo de represália, tanto que até o presente momento se encontra foragido (fl. 75).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
