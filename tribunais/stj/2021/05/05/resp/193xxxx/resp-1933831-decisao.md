@@ -1,0 +1,30 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, com fulcro no art. 105, III, "a", da CF, em face de acórdão proferido pelo Tribunal local no Agravo em Execução n. 0002295-38.2020.8.26.0154.
+O recorrente alega que a porcentagem de 60% de cumprimento de pena, prevista no inciso VII do art. 112 da LEP, deve ser observada por todos os condenados reincidentes, independentemente da natureza do delito cometido anteriormente, de modo que não há distinção entre condenação anterior por crime comum ou por crime hediondo ou equiparado.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 111-115).
+Decido.
+A Corte de origem se pronunciou nos seguintes termos sobre o tema (fls. 53-55):
+Outrossim, consigne-se que, frente à inquestionável lacuna advinda da ausência da melhor técnica na elaboração da nova redação do art. 112 da Lei de Execução Penal, não há como ser mantido o entendimento, adotado pela Magistrada de primeiro grau e expressamente previsto no antigo § 2º do art. 2º da Lei dos Crimes Hediondos, revogado pela Lei nº 13.964/19, segundo o qual, ao condenado por crime hediondo que seja reincidente, lastreada esta condição em prévia condenação definitiva por delito de qualquer natureza, ou seja, comum ou hediondo, exige-se o cumprimento de 3/5 (três quintos) ou 60% (sessenta por cento) da pena, para que contemple o requisito objetivo adstrito à progressão de regime prisional.
+ ..
+Ao omitir a situação do apenado reincidente por crime comum e condenado por delito hediondo, o legislador criou evidente lacuna, que, em consonância com a previsão legal contida no parágrafo único do art. 2º do Código Penal, deve ser interpretada em favor do agravante, o qual, consequentemente, passa a ser considerado primário, enquadrando-se no inciso V do art. 112 da Lei de Execução Penal.
+ ..
+Desta forma, DOU PROVIMENTO ao agravo em execução penal, para determinar a retificação do cálculo de penas, passando este a exigir, para a satisfação do requisito objetivo referente à progressão de regime prisional, o cumprimento de 40% (quarenta por cento) da reprimenda adstrita ao delito de natureza hedionda.
+O entendimento do Tribunal a quo está de acordo com a atual jurisprudência desta Corte.
+A esse respeito, é imperioso ressaltar que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais, para a avaliação do lapso de progressão de regime, fatores além da hediondez - quais sejam, ocorrência ou não do resultado morte e primariedade, reincidência genérica ou, ainda, reincidência específica do apenado.
+Na hipótese, o apenado foi condenado por crime hediondo e por crime comum, de modo que se trata de reincidente genérico. Todavia, os patamares definidos pela legislação atual não contemplam tal hipótese, ou seja, há uma lacuna legal. Nos termos do art. 112, V, VI, "a", e VII, da Lei de Execução Penal:
+ ..
+ a  pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for: a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado.
+Dessa forma, tendo em vista que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima, diferentemente dos autos, além do fato de o patamar de 60% fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Urge consignar:
+ o  ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual (HC n. 583.837/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/8/2020).
+Assim, dadas as ponderações acima, concluo que a hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, porquanto o percentual por ela estabelecido - qual seja, de 40% das reprimendas impostas - é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos, sejam específicos.
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal" (HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+Na oportunidade, o Ministro relator salientou que:
+ ..  n o caso dos autos, o paciente, que não é primário, não se enquadra nos exatos termos do inciso V, tampouco seu caso se amolda ao inciso VII, uma vez que não é reincidente na prática de crime hediondo ou equiparado. Desse modo, forçoso reconhecer que, diante das duas situações, em obediência ao princípio do favor rei, ao paciente se deve aplicar a norma penal mais benéfica, no caso a incidência do percentual de 40% previsto no inciso V do art. 112 da Lei 7.210/1984 para fins de progressão de regime.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
