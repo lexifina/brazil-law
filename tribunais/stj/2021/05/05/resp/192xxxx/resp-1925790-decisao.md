@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (fl. 110):
+APELAÇÃO - AÇÃO DE REPETIÇÃO DE INDÉBITO - ITBI - O valor venal base de cálculo do IPTU ou o da transação, o que for maior, pode servir como base de cálculo do ITBI - IRDR cadastrado sob o n.º2243516-62.2017.8.26.0000 - Tema 19 do TJSP - Adoção do valor do negócio - Sentença modificada para adequação ao Tema - Apelo da municipalidade parcialmente provido.
+Embargos de declaração rejeitados (fl. 140).
+A parte recorrente aponta violação do art. 38 do CTN. Sustenta, em síntese, que o valor venal do imóvel para fins de ITBI não é vinculado com a tabela do IPTU.
+Com contrarrazões (fls. 146/156).
+Juízo positivo de admissibilidade do recurso (fls. 157/158).
+É o relatório. Passo a decidir.
+A insurgência não merece prosperar.
+Quanto ao mérito, o Tribunal de origem manifestou-se nos seguintes termos (fls. 111/116):
+A sentença deve ser reformada em parte.
+Com efeito, observa-se que a referida Lei municipal nº 1.408/89, alterou o §2º, como se observa abaixo:
+Art. 8º A base de cálculo do imposto é o valor constante no Instrumento que transmite os bens ou direitos.
+§ 1º O valor venal da propriedade, base de cálculo, será atualizada trimestralmente, tomando-se como base os valores constantes do lançamento de 1º de janeiro de cada exercício. (Redação dada pela Lei nº 1821/1993);
+§ 2º Em hipótese alguma a base de cálculo poderáser inferior ao valor venal do imóvel. (Redação acrescida pela Lei nº 1821/1993- revogado)
+§ 2º Em hipótese alguma a base de cálculo poderá ser inferior ao dobro do valor venal do imóvel. (Redação dada pela Lei nº 3598/2016-g. n.)
+O julgamento monocrático teve por base, fato consistente em recolhimento do ITBI a maior, cujo pedido de restituição foi provido com escora nos seguintes argumentos contidos em sentença:
+" (..) O imposto ITBI foi instituído pela Lei Municipal nº 1.408/1989, de acordo com a competência tributária constitucional conferida aos Municípios(artigo 156, inciso II, da Constituição Federal). Posteriormente, a Lei nº 3.598/2016 promoveu alterações na referida lei, passando a prever que,"em hipótese alguma a base de cálculo poderá ser inferior ao dobro do valor venal do imóvel" (artigo 8º,§2º). No entanto, o artigo 38 do Código Tributário Nacional estabelece como base de cálculo do ITBI o "valor venal dos bens ou direitos transmitidos", facultando ao Município somente a flexibilização das suas alíquotas. Assim, a lei municipal não poderia instituir base de cálculo dissonante com o previsto no Código Tributário Nacional, extrapolando o previsto em normas gerais em matéria tributária, em ofensa ao princípio da legalidade (..)"
+Porém, o tema não encontra similitude com o julgamento da Arguição de Inconstitucionalidade nº0056693-19.2014.8.26.0000 pelo Órgão Especial deste Tribunal de Justiça que reconheceu a inconstitucionalidade dos artigos 7º-A, 7º-B e 12, da Lei nº 11.154/91 do Município de São Paulo, acrescidos pela Lei Municipal n. 14.256/2006, conforme ementa transcrita, dispensando eventual incidente de inconstitucionalidade:
+ ..
+Destaque-se que aqui - não se cuida da divulgação de um valor nominal de referência, mas de um parâmetro que literalmente estaria em oposição ao art. 38 do CTN, o qual elege, como base de cálculo, o valor venal dos bens transmitidos e não o seu dobro.
+Outrossim, recentemente, em 31/07/2019, foi publicado o acórdão de mérito - ainda sem trânsito em julgado - do IRDR cadastrado sob o n.º 2243516-62.2017.8.26.0000 - Tema 19 do TJSP:
+"INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS ITBI BASE DE CÁLCULO Deve ser calculado sobre o valor do negócio jurídico realizado ou sobre o valor venal do imóvel para fins de IPTU, aquele que for maior, afastando o "valor de referencia" Ilegalidade da apuração do valor venal previsto em desacordo com o CTN ; Ofensa ao princípio da legalidade tributária, artigo 150, inciso I da CF Precedentes IRDR provido para fixar a tese jurídica da BASE DE CÁLCULO DO ITBI, DEVENDO CORRESPONDER AO VALOR VENAL DO IMÓVEL OU AO VALOR DA TRANSAÇÃO, PREVALECENDO O QUE FOR MAIOR". g. n.
+Assim, ao prever simplesmente que o valor da base de cálculo do citado tributo será "o dobro", a Lei local desatendeu ao CTN e por isso não pode prevalecer, nesse ponto, mas sim, a disposição do seu"caput" prevendo a adoção do valor do negócio, que deve ser adotado, neste caso, para sobre ele incidir a alíquota do tributo, assim reduzindo-se a pretensão da autora, a ser apurada em liquidação.
+Da leitura do excerto acima transcrito, infere-se que o acórdão recorrido encontra-se assentado em fundamentos constitucionais - princípio da legalidade - e na legislação local (Lei Municipal de São Paulo n. 11.154/91, com a redação dada pela lei 14.256/06), de modo que a sua desconstituição encontra óbice no art. 102, III, da CF/88, que trata da competência exclusiva do STF, e na Súmula 280/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF.
+1. O acórdão recorrido encontra-se assentado em fundamento constitucional - princípio da legalidade - e na legislação local (Leis 11.154/1991, 14.256/2006 e Decreto 46.228/2005, do Município de São Paulo), de modo que a sua desconstituição encontra óbice no art. 102, III, da CF/88, que trata da competência exclusiva do STF e na Súmula 280/STF, que veda o exame dalegislação local em sede de recurso especial.
+2.Agravo interno não provido (AgInt no REsp 1.551.942/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 5/10/2016, grifo nosso).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS (ITBI). ATUALIZAÇÃO DOS VALORES VENAIS DOS IMÓVEIS. LEI MUNICIPAL 14.256/2006 E DECRETO MUNICIPAL 46.228/2005. AFASTAMENTO DE SUAS REGRAS, PELO TRIBUNAL DE ORIGEM. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. O Tribunal de origem, por entender que eram ilegais os parâmetros estabelecidos no Decreto Municipal 46.228/2005 e na Lei 14.256/2006, para a fixação da base de cálculo do ITBI, determinou a adoção do critério previsto na Lei Municipal 11.154/91.
+II. Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, REsp 1.219.229/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/02/2014; AgRg no AREsp 475.774/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 1º/07/2015.
+III. Agravo Regimental improvido (AgRg no AREsp 793.070/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/3/2016).
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. A DESPEITO DA ALEGAÇÃO DE AFRONTA A NORMAS FEDERAIS (ARTS. 38 E 148 DO CTN) NAS RAZÕES RECURSAIS, A CONTROVÉRSIA FOI DECIDIDA PELA CORTE ESTADUAL À LUZ DA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (DECRETO MUNICIPAL 46.228/2005; LEI MUNICIPAL 11.154/91; ALTERAÇÕES LEGISLATIVAS MUNICIPAIS). CONTUDO, É VEDADA A APRECIAÇÃO DE LITÍGIO DECIDIDO COM BASE EM DIREITO LOCAL, NA VIA DO RECURSO ESPECIAL. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É inviável a reforma do julgado atacado em Recurso Especial quando sua fundamentação está baseada na interpretação de legislação local. Incidência da Súmula 280/STF.
+2. Agravo Regimental do MUNICÍPIO DE SÃO PAULO a que se nega provimento (AgRg no AREsp 718.754/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 4/9/2015).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE E SEGURANÇA JURÍDICA. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
