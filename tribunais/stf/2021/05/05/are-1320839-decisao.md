@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à improcedência do pedido de anulação de glosa de repasses de verba pública para atividade conveniada. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal. Articulando com a existência de precedentes, na Corte de origem, sobre matéria idêntica, sustenta violar o princípio da segurança jurídica e da fundamentações das decisões judiciais a adoção de interpretação diversa.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Colho do acórdão recorrido o seguinte trecho:
+    Inicialmente, cumpre destacar que o convênio administrativo firmado entre a apelante e o Distrito Federal alinha-se com as normas contidas na Lei nº 8.666/93, que possui previsão expressa determinando sua aplicação também aos convênios realizados pela administração pública, apesar de não dispor de natureza contratual. Nesse sentido, dispõe o art. 116 da citada norma: “Aplicam-se as disposições desta Lei, no que couber, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por órgãos e entidades da Administração”.
+    Estabelecida essa premissa, no pacto firmado entre as partes (ID: 7883767), constata-se ser vedado a realização de despesas que estejam fora das ações propostas existentes no plano de Trabalho/Aplicação.
+    Ademais, dentre outras obrigações, constam: a) de executar o objeto do convenio na forma estabelecida no plano de trabalho/aplicação e demais normas disciplinadoras no âmbito da concedente; m) complementar com recursos próprios as despesas decorrentes da execução do convênio, quando estas excederem aos recursos repassados pela concedente; v) restituir ao concedente ou à Fazenda Distrital, conforme o caso, eventual saldo de recursos, inclusive os rendimentos decorrentes de sua aplicação financeira, na data da conclusão o seu objeto ou da sua extinção;
+    [...]
+    Desse modo, apesar da relevância do trabalho social realizado pela apelante, não se mostra possível acolher a pretensão da autora/apelante, uma vez apurado o descumprimento pelo executor do convênio das normas para utilização dos recursos financeiros aportados pela concedente, em flagrante descumprimento dos termos pactuados.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço e desprovejo o agravo.
+    4.Publiquem.
+Brasília, 5 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
