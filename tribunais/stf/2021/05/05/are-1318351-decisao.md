@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “Apelação Cível. Mandado de Segurança Preventivo. Instrução Normativa SMF/RJ nº 22/2014. Objetiva o impetrante lhe seja assegurado direito líquido e certo de não se sujeitar, quando da prestação de serviço de locação de mão de obra temporária, no exercício de 2014, à Instrução Normativa SMF n° 22/2014, face à necessidade de observância do princípio da anterioridade previsto no art. 150, III, “b”, da CF. Sentença denegando a segurança e julgando extinto o processo. Recurso de Apelação. R E F O R M A, pois houve a majoração da carga tributária, já que a nova regra modificou a base de cálculo para maior, incluindo-se nesta valores que antes podiam ser deduzidos, devendo ser respeitado o princípio da anterioridade tributária (art. 150, III, “b” da Constituição Federal). Parecer do Ministério Público nessa direção. PROVIMENTO DO RECURSO. “
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta a parte recorrente contrariedade ao art. 150, III, b, da Constituição Federal.
+    Alega que não haveria ilegalidade na instrução normativa questionada, tampouco desrespeito ao princípio da anterioridade. Diz não ter havido “alteração na base de cálculo nem majoração de tributo pelo Município do Rio de Janeiro”, mas apenas readequação da interpretação dada à lei tributária, em razão da orientação pacificada pelo Superior Tribunal de Justiça.
+    Decido.
+    Irresignação não merece prosperar.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão recursal, seria necessário reanalisar a causa à luz da legislação infraconstitucional (Instrução Normativa SMF n° 22/2014 e Instrução Normativa SMF nº 11/1996), o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 da Corte.
+    Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. ISS. Nota fiscal. Instrução normativa. Alegada inexistência de inovação do ordenamento jurídico. Necessidade de reexame da legislação local. Súmulas nºs 280 e 636/STF. 1. Para ultrapassar o entendimento do Tribunal de origem, no sentido de que Instrução Normativa nº 19/2011 SF/SUREM desbordou dos limites das leis e do decreto de regência, seria necessário o reexame da causa à luz da legislação local aplicável à espécie, o que não é admitido em sede de recurso extraordinário. Incidência das Súmulas nºs 280 e 636 da Corte. 2. Agravo regimental não provido” (ARE nº 923.604/SP-AgR, Segunda Turma, de minha relatoria, DJe 17/12/15 – grifo nosso).
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Base de cálculo. Majoração do tributo. Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife e lei Municipal. Reexame de legislação infraconstitucional. Ofensa constitucional indireta. 1. Para superar o entendimento do Tribunal de origem e acolher a pretensão recursal, especialmente para saber se existiu ou não alteração da base de cálculo do IPTU e aumento do tributo, seria necessário o reexame da legislação local aplicável à espécie (lei municipal e Instrução Normativa nº 001/2011 da Secretaria de Finanças do Município do Recife), o que é inviável em sede de recurso extraordinário. Eventual afronta ao texto constitucional seria indireta ou reflexa. 2. Agravo regimental não provido” (ARE nº 803.062/PE-AgR, Primeira Turma, de minha relatoria, DJe de 17/9/14 – grifo nosso).
+    Corroborando a compreensão, cito o seguinte precedente, em que se analisou idêntica controvérsia: RE nº 1.182.226/RJ, Relator o Ministro Roberto Barroso, DJe de 2/5/19.
+    Diante do exposto, nos termos do art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração de honorários, ante a ausência de fixação nas instâncias de origem, a teor da Súmula 512/STF.
+    Publique-se.
+    Brasília, 05 de maio de 2021.
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
