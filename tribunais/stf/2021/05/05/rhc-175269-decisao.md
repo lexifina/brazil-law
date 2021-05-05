@@ -1,0 +1,26 @@
+Recurso ordinário em habeas corpus. Furto tentado. Crime impossível. Sistema de vigilância. Não configuração. Ato coator parametrizado com a jurisprudência desta Corte. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Andressa Del Rio, representada neste ato pela Defensoria Pública do Estado do Rio Grande do Sul, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra do Ministro Rogerio Schietti Cruz, que negou provimento ao agravo regimental no HC 456.991/RS (evento 3, fls. 33/38) .
+    A Recorrente foi denunciada pela prática do crime de tentativa de furto, tipificado no art. 155, caput, c/c. art. 14, II, do Código Penal. O Juízo da 11ª Vara Criminal do Foro Central de Porto Alegre absolveu sumariamente a recorrente, forte no art. 17 do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso ministerial, para afastar a absolvição sumária e determinar o retorno dos autos ao Juízo de origem para o regular prosseguimento do feito (evento 2, fls. 7/28).
+    Posteriormente, a Recorrente foi condenada à pena de 04 (quatro) meses de reclusão, em regime aberto, substituída por prestação de serviços à comunidade; e à pena de 10 dias-multa, pela prática do crime de furto, na forma tentada (art. 155, caput, c/c art. 14, II, do CP) (evento 8).
+    Extraio do acórdão recorrido:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS, FURTO. MONITORAMENTO, CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+    1. É possível a consumação do delito de furto, ainda que haja vigilância por meios eletrônicos no local dos fatos. Vale dizer, a existência de sistema de segurança não torna, por si só, o crime impossível.
+    2. Agravo regimental não provido”.
+    No presente recurso ordinário, a Defesa alega, em síntese, a ocorrência de crime impossível. Requer, em sede liminar, o sobrestamento da ação penal de origem. No mérito, pugna pela restauração dos efeitos da decisão de absolvição sumária exarada pelo magistrado de primeiro grau (evento 3, fls. 45-9).
+    Em 13.4.2020, indeferi o pedido de liminar.
+    Informações prestadas pelo magistrado de primeiro grau (evento 7).
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo não provimento do recurso (evento 10).
+    É o relatório.
+    Decido.
+    Na espécie, a Corte Estadual, ao cassar a sentença absolutória, consignou que ’[o] caso não se enquadra no conceito de crime impossível previsto no art. 17 do CP, pois, ainda que haja monitoramento eletrônico, este, por si só, não impede a consumação do delito, questão, inclusive, que já foi sumulada pelo Colendo STJ’.
+    De acordo com o Superior Tribunal de Justiça ‘embora os sistemas eletrônicos de vigilância e de segurança tenham por objetivo a evitação de furtos, sua eficiência apenas minimiza as perdas dos comerciantes, visto que não impedem, de modo absoluto, a ocorrência de subtrações no interior de estabelecimentos comerciais’.
+    Na mesma esteira, tal como preconizado no parecer ministerial, ‘[é] cediço que os equipamentos e meios de segurança atualmente utilizados para vigilância e proteção contra roubos e furtos causam empecilhos e dificultam a consumação do crime, alcançando, muitas vezes, a eficiência pretendida pelo estabelecimento. Todavia, também é certo que não se revestem da condição de plenamente impeditivos à consumação do resultado almejado pelo agente, de forma a garantir que a infração jamais ocorrerá, pressuposto indispensável à aplicação do disposto no art. 17 do Código Penal (‘Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime’)’. Assinalou que ‘neste caso o sistema de vigilância não foi suficiente para impedir a infração, tanto que o crime somente não se consumou porque a paciente foi abordada por um dos funcionários do estabelecimento no momento em que saia da loja, sem pagar pelas mercadorias (escondidas em sua mochila)’.
+    Desse modo, as decisões anteriores não divergem do entendimento deste Supremo Tribunal Federal, porquanto, ‘a existência de sistema de vigilância em estabelecimento comercial não constitui óbice para a tipificação do crime de furto’. (HC 111.278/MG, Red. p/ acórdão Min. Roberto Barroso, Primeira Turma, DJe 01.6.2018). E ainda, ‘a existência de equipamentos de segurança apenas dificulta a ocorrência do crime, mas não o impede totalmente, a ponto de torná-lo impossível’. (HC 104.341, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 08.11.2010). Nesse sentido, cito: HC 117.083, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.3.2014; HC 97.129/RS, Rel. Min. Eros Grau, 2ª Turma, DJe 04.6.2010 ; HC 95.613/RS, Rel. Min. Eros Grau, 2ª Turma, DJe 14.8.2009).
+    Inexistente, pois, manifesta ilegalidade ou teratologia hábil à concessão da ordem pleiteada.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 05 de maio de 2021.
+Ministra Rosa Weber
+Relatora
