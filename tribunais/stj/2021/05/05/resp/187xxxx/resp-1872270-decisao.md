@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 155):
+TRIBUTÁRIO. REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL.
+Desde que observados os princípios constitucionais da anterioridadenonagesimal e da irretroatividade, inexiste qualquer óbice à revogação doregime de desoneração da folha e na retomada da sistemática de apuração anterior, durante o próprio ano calendário (Lei 13.670/2018).
+Nas razões do recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação do art. 9º, §13, da Lei 12.546/2011. Para tanto, alega, em síntese, que (i) " a vigência do benefício da desoneração da folha, é irretratável para todo o ano calendário, conforme redação prevista na lei, e assim, deverá ser respeitada, sob pena de afronta a preceitos cogentes em matéria de direito tributário" (fl. 195) e (ii) "ao optar pelo recolhimento da contribuição previdenciária patronal sobre seu faturamento, a Impetrante realiza um ato jurídico que a vinculará durante todo o decurso do ano-calendário, tendo em vista que a opção por tal forma de recolhimento é irretratável no decorrer do ano, conforme determina o artigo 9º, § 13, da Lei nº 12.546/11 (fl. 196).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 228.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial, uma vez que a demanda foi julgada à luz dos dispositivos e princípios constitucionais tributários da CF/88, bem como na aplicação da regra da anterioridade nonagesimal.
+Adiante, o Tribunal de origem dirimiu a controvérsia com fundamento eminentemente constitucional, conforme se observa no seguinte excerto do voto condutor(fl. 701):
+Da manutenção do regime de desoneração - Lei nº13.670/2018
+A Lei nº 12.546/2011 possibilitou a algumas atividades econômicasa substituição da tributação sobre a folha de salários mediante a instituição denova contribuição sobre a receita bruta das empresas, nos seguintes termos:
+ ..
+Já a Lei nº 13.670/2018, com efeitos a partir de 01/09/2018, alterou dispositivos da Lei nº 12.546/2011, excluindo da opção pela contribuição substitutiva algumas atividades econômicas, dentre as quais a da empresa impetrante, que deverá retomar o pagamento das contribuições previstas nos nos incisos I e III do art. 22 da Lei no 8.212, de 24 de julho de 1991. A Lei nº12.546/2011 passou a ter a seguinte redação:
+ ..
+Alega a impetrante que possui direito adquirido a manter-se no recolhimento da contribuição contributiva até o final do ano de 2018, uma vez que sua opção seria irretratável para todo o ano calendário, nos termos do art.9º, § 13, da Lei nº 12/546/2011.
+Todavia, é de ver-se que a irretratabilidade se opera caso mantido o mesmo contexto fático e jurídico. Havendo, por outro lado, alteração legislativa que não mais admite determinada forma de tributação escolhida pelo contribuinte, deixa a irretratabilidade de surtir os efeitos pretendidos.
+ ..
+Havendo referir, ainda, que a norma da irretratabilidade dirige-se ao contribuinte e não ao legislador. Ademais, as regras constitucionais da anterioridade nonagesimal (art. 195, §6º, da CF) e da irretroatividade (artigo 5º, XXXVI da CF) para exigência da contribuição social foram observadas pela alteração legislativa ,conforme se vê do art. 11 da Lei nº 13.670/2018:
+ ..
+Outrossim, não há qualquer dispositivo na norma revogada (Lei12.546/11) a salvaguardar o alegado direito do contribuinte a permanecer no regime de desoneração da folha durante todo o ano-calendário, até porque pacificado o entendimento de que não existe direito adquirido a regime tributário.
+ ..
+Considerando, assim, que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) foi criada com a finalidade de ser um benefício tributário(desoneração da folha), não há qualquer óbice à sua revogação e na retomada da sistemática de apuração anterior, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte.
+Portanto, impossível ao Superior Tribunal de Justiça promover uma incursão em temática que é da alçada da competência do STF.
+Nessa linha de entendimento, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REGIME DE DESONERAÇÃO DA FOLHA. LEI N. 13.670/2018. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. É entendimento assente no STJ que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF. Precedentes.
+3. Hipótese em que o Tribunal de origem decidiu a controvérsia com base em fundamento predominantemente constitucional de que não existe direito adquirido a regime jurídico instituído por lei e de que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) foi criada com a finalidade de ser um benefício tributário (desoneração da folha), não havendo nenhum óbice à sua revogação, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1843994/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 22/09/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA 211/STJ. MANDADO DE SEGURANÇA. REGIME DE DESONERAÇÃO DA FOLHA. LEI 13.670/2018. ANO CALENDÁRIO. IRRETRATABILIDADE.
+ANTERIORIDADE NONAGESIMAL. CONTROVÉRSIA DIRIMIDA À LUZ DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Observo que o Tribunal Regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Verifica-se que a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do Supremo Tribunal Federal.
+3. A atual jurisprudência do STJ tem entendido que não é possível o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios do direito adquirido, do ato jurídico perfeito e da coisa julgada, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes: REsp 1.333.475/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 26.6.2013; AgRg no AREsp 224.095/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 24.5.2013.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ficou evidenciado na espécie.
+5. Agravo Interno não provido.
+(AgInt no REsp 1844754/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/09/2020, DJe 18/12/2020)
+Por fim, no que concerne à divergência jurisprudencial decorrente dos dispositivos de lei federal apontados como violados, é pacífico o entendimento desta Corte Superior no sentido de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial. Nesse sentido: AgInt no REsp 1.878.337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020; AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.REGIME DE DESONERAÇÃO DA FOLHA. LEI Nº13.670/2018.FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. DISSÍDIO PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO
