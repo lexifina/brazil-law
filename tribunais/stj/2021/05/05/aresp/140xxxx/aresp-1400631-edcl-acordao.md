@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos por José Paulo Zangarini e outroscontra acórdão, assim ementado (fls. 372-374):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. PRETENSÃO AO RECEBIMENTO DA ALUDIDA VERBA NO QUINQUÊNIO ANTERIOR À IMPETRAÇÃO DO WRIT. NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DA SENTENÇA. PRECEDENTES.
+1. Caso em que os servidores do Estado de São Paulo ajuizaram ação de cobrança, sustentando que o adicional temporal sexta-parte e o quinquênio devem ser calculados não apenas sobre o vencimento-base, mas sobre os vencimentos integrais.
+2. O acórdão recorrido manteve a sentença, entendo que é imprescindível que a sentença concessiva da segurança tenha transitado em julgado, o que não ocorreu no caso em tela.
+3. Dessa forma, o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte Superior no sentido de que, no caso dos autos, deve-se aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo (nº 0600594-25.2008.8.26.0053) para o ajuizamento da ação de cobrança visando a percepção de parcelas pretéritas.
+4. Agravo interno da Fazenda do Estado de São Paulo (FESP) e da São Paulo Previdência (SPPREV) provido, a fim de conhecer do agravo em recurso especial, negando provimento ao recurso especial dos servidores, pedindo as mais respeitosas vênias ao Relator, Ministro Napoleão Nunes Maia Filho.
+Os embargantes no presente feito sustentam "a presente ação de cobrança foi erroneamente tratada como execução provisória de sentença, tirada de uma ação mandamental sem trânsito em julgado", e que "o resultado final não é compatível com o micro sistema das ações coletivas no Direito Brasileiro, pois, para se chegar nesta conclusão desacertada seria preciso admitir que o writ prospecta efeitos econômicos pretéritos, o que é inaceitável"; que o "resultado deste desvio de leitura é imensuravelmente prejudicial e não se limita aos embargantes, vai muito além, atinge todo sistema processual-constitucional, pois ao entalhar a extinção da ação sem resolução do mérito, o acórdão ofendeu, clara e diretamente, o art. 5º, inc. XXXV, da CF" (fl. 377); que exigir o trânsito em jugado "do writ coletivo para que se exerça livremente o direito de ação é intolerável no âmbito constitucional" (fl. 378).
+Informa que "a ação de cobrança só foi ajuizada após o TJSP ter mantido a sentença concessiva da ordem em 1ª instância e quando já existia a manifestação do STF quanto a inexistência de repercussão geral do Tema 702 1 / RE 764.332/SP, ou seja, o bom direito era e ainda é perceptível" (fl. 383).
+Requer, ao final, o acolhimento dos embargos de declaração, a fim de que "fique prequestionado o artigo 5º, XXXV, da Constituição Federal, por expressa violação ao direito de ação" (fl. 386).
+Impugnação às fls. 393-397.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício a ensejar esclarecimento ou a integração do que decidido no julgado.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, fui designado Relator para acórdão nos presentes, onde se deu provimento ao agravo internoda Fazenda do Estado de São Paulo (FESP) e da São Paulo Previdência (SPPREV), a fim de conhecer do agravo em recurso especial, negando provimento ao recurso especial dos servidores. Isso porqueo acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte Superior no sentido de que, no caso dos autos, deve-se aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo (nº 0600594-25.2008.8.26.0053) para o ajuizamento da ação de cobrança visando a percepção de parcelas pretéritas.
+Dessa forma, acerca da argumentação de que "a ação de cobrança só foi ajuizada após o TJSP ter mantido a sentença concessiva da ordem em 1ª instância e quando já existia a manifestação do STF quanto a inexistência de repercussão geral do Tema 702 1 / RE 764.332/SP, ou seja, o bom direito era e ainda é perceptível" (fl. 383), constata-se que osembargantes procuram, por via reflexa, a mera rediscussão da causa, o que não se mostra possível em sede de embargos de declaração. A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER VÍCIO NO ARESTO EMBARGADO. MERA IRRESIGNAÇÃO COM O TEOR DO ACÓRDÃO EMBARGADO. DESCABIMENTO. RECURSO MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+5. A pretensão da ora embargante ao apontar omissões inexistentes é, tão somente, manifestar dissenso e pedir o rejulgamento de questão já decidida, o que não é cabível em embargos de declaração. A jurisprudência desta Corte Superior é pacífica no sentido de que a discordância com o julgamento não se configura motivo para a interposição de embargos declaratórios. Precedentes do STJ.
+6. O recurso é meramente protelatório, porquanto o intuito de parte é procrastinar o feito, devendo ser aplicada a multa de 2% sobre o valor atualizado da causa, prevista no art. 1.026, § 2º, do CPC/2015.
+7. Embargos de declaração rejeitados, com a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+(EDcl nos EREsp 1.523.744/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 28/10/2020)
+Por fim, não há qualquer esclarecimento ou complemento ao que já decidido pelo acórdão embargado. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.DANOS MORAIS. SUPOSTA VIOLAÇÃO AO ARTIGO 1.022, INCISO II, DO CPC DE 2015. NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO AOS ARTIGOS 11 E 489, § 1º, INCISOS II, III E IV, DO CPC DE 2015. REVISÃO DO QUANTUM INDENIZATÓRIO DO DANO MORAL. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 21/6/2016).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.667.689/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 22/9/2020)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
