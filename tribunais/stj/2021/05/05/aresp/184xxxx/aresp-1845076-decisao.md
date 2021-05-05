@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo ESTADO DE RONDÔNIAem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, que negou admissibilidade a recurso contra acórdão assim ementado:
+Apelação. Ação de indenização. Fuga de detentos. Agente penitenciário. Constrangimento. Dano material. Moral. Devidos. Juros e correção monetária. Incidência. A pessoa jurídica de direito público tem o dever de indenizar quando comprovado os constrangimentos sofridos pelo servidor ocorreram em razão da ausência de segurança do local e falha grave no projeto do presídio. Os juros devem incidir a partir da data do evento danoso, e a correção monetária a partir do arbitramento da indenização. Recurso parcialmente provido.
+Os embargos de declaração não foram providos.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, alegou-se contrariedade às disposições dos artigos 186, 187, 927, 944 e 945 do Código Civil e 333, I e 1.022, II, do Código de Processo Civil.
+Sustentou a culpa concorrente da vítima (agente penitenciário) a fim de pleitear adiminuiçãodoquantumindenizatório. Asseverou que "os agentes penitenciários possuem a incumbência de realizar rondas periódicas bem como, fiscalizar a conduta da população carcerária. Contudo, de acordo com os fatos apurados no decorrer do processo é irrefutável que o promovente da ação deixou de cumprir com as atribuições inerentes a profissão, ocasionando então na fatalidade descrita na inicial.  ..  É evidente que o fato adveio em virtude do descuido do agente público, pois optou por descansar ciente da redução de efetivo no plantão." (e-STJ fl. 182).
+Acrescentou que " ..  as provas juntadas, bem como os depoimentos prestados não comprovam a omissão do Estado, mas sim do autor da ação. Ora, a fuga dos detentos e o suposto constrangimento ocorreram, não em razão das condições inadequadas da carceragem, mas sim por desídia do recorrido"(e-STJ fl. 183).
+Defendeu, ainda, a ausência de provas do dano moral.
+Não foram apresentadas contrarrazões.
+A decisão agravada inadmitiu o recurso especial em razão da incidência da Súmula 284/STF.
+Nas suas razões de agravo, a parte impugna os fundamentos apresentados para a inadmissão do recurso especial.
+Não foi ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Sobre os pontos combatidos pelorecorrente, o colegiado de origem assim manifestou-se (e-STJ fls. 127/134):
+Inicialmente convém registrar ser incontroverso a situação ocorrida nolocal de trabalho do autor, ora apelado, no Presídio de Ariquemes, qual seja, a fuga de detentos que resultou na rendição dos agentes penitenciários. Inicialmente, cabe analisar o tipo de responsabilidade do apelante. Pois bem. O apelante é ente federativo, Estado de Rondônia, o qual responde objetivamente pelos danos causados a terceiros. Esta assertiva decorre do disposto no § 6º do art. 37 da Constituição Federal:  ..
+Entretanto, se o prejuízo advém de uma omissão do Poder Público pelo não-funcionamento do serviço, ou por seu funcionamento tardio, deficiente ou insuficiente, defende a doutrina que se aplica a teoria da responsabilidade subjetiva.
+ ..
+No caso sob análise, colhe-se das provas que as lesões sofridas pelo requerente decorreram de falhas do sistema prisional, em especial, da carceragem não manter condições adequadas, resultando na ausência se segurança no local.
+ ..
+No decorrer da instrução, foi juntado ainda, laudo de constatação às fls. 29/33, o qual foi realizado para atender a solicitação do plantão da delegacia de polícia civil, realizado às 04 horas do mesmo dia (19/02/2014), mais precisamente no local onde havia buraco na parede da cela de onde os detentos empreenderam fuga para os alojamentos dos agentes penitenciários:
+ ..
+O constrangimento não decorreu da atuação dos agentes públicos em trabalho no presídio. Embora previsível que o agente penitenciário exercesse atividade com periculosidade, todavia, a fuga não ocorreu dentro de condições normais do trabalho, pois o Estado não demonstrou manter o ambiente de trabalho (presídio) dentro das condições mínimas de segurança. A Corte Superior tem entendido ser cabível direito à reparação cível nos casos de restar demonstrado o ato omissivo por parte da Administração Pública:
+ ..
+O presídio, que deveria ser modelo de ressocialização para os infratores da lei conhecido por todos pelo excesso de contingente dos detentos em contrapartida com o número pequeno e reduzido dos agentes penitenciários, bem como ficou comprovado que o ente público não manteve o ambiente de trabalho(presídio) dentro das condições mínimas de segurança. Evidenciando-se assim, a negligência configurada pelo próprio estado.
+Assim, fica demonstrada a obrigação do ente público em indenizar o apelado pelo abalo sofrido.  ..
+Assim, as provas juntadas, bem como os depoimentos prestados comprovam a omissão estatal, pois a fuga dos detentos e o constrangimento sofrido pelo apelado ocorreram em razão das condições inadequadas da carceragem. O exame pericial confirmou a constatação da falha grave no projeto do presídio, resultando na ausência de segurança do local, demonstrando o dever em indenizar. Passo a análise dos valores arbitrados.
+ ..
+No caso dos autos, o valor fixado na sentença de primeiro grau deR$15.000,00 não merece reparos, pois restou comprovado que o apelado, em razão dos constrangimentos sofridos, foi removido da carceragem e está tralhando emoutro local.
+Com relação à alegada ofensa ao art. 1.022 doCPC, nota-se que o acórdão recorrido contém manifestação clara e precisa sobre os motivos que justificaram o reconhecimento da omissão e a culpa do Estado, a prova do dano moral sofrido pelo ora recorrido e a ausência de culpa concorrente.
+Assimsendo, verifica-se não ter ocorrido ofensa ao citado dispositivo legal, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+Vale relembrar que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Nesse mesmo sentido: AgInt no REsp 1691249/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 11/03/2021; AgInt nos EDcl no REsp 1806067/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; REsp 1761119/SP, Rel. Ministro Sérgio Kukina, Corte Especial, DJe 14/08/2019.
+No que se refere à violação dos demais artigos (186, 187, 927, 944 e 945 do Código Civil e 333, I, do Código de Processo Civil), percebe-se da transcrição do acórdão que a conclusão tomada pelo colegiado estadual sobre a omissão do Estado, o dano moral sofrido pelo agente penitenciário e a ausência de culpa concorrente, decorreu da avaliação e ponderação sobre os elementos probatórios dos autos, notadamente o laudo pericial e o depoimento de testemunha.
+Portanto, para se acolher as teses recursais a fim de afastar a responsabilidade civil do Estado, reconhecer a culpa concorrente ou a inexistência de dano moral seria necessário a essa Corte Superior avançar no acervo cognitivo dos autos no intuito de se perquirir suposto equívoco da instância ordinária em sua análise da prova, situação inviável em sede de recurso especial tendo em vista o óbice da Súmula 7/STJ.
+Nesse sentido, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. MORTE DE FAMILIAR. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PLEITO DE EXTENSÃO DA INDENIZAÇÃO A TIOS, PRIMOS E AVÓ DE CRIAÇÃO. ACÓRDÃO AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL.AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA NA HIPÓTESE.
+1. Em relação à alegada ofensa ao art. 944 do CC, em regra, não é cabível na via especial a revisão do montante indenizatório fixado pela instância de origem, bem como o reconhecimento de culpa concorrente da parte adversa, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+ ..
+(AgInt no AREsp 1533913/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL.AGENTE ESTATAL DA RFFSA. DANO MORAL RECONHECIDO.  ..
+CULPA CONCORRENTE E REDUÇÃO DO VALOR DA INDENIZAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+4. Quanto à ofensa aos arts. 186, 884, 944 do Código Civil/2002, em que se busca, nesta instância superior, a fixação de culpa concorrente e a redução pela metade do valor arbitrado aos danos morais, esbarra a parte agravante no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." 5. Agravo conhecido para conhecer parcialmente do Recurso Especial, com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+(AREsp 1615229/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 17/09/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. REBELIÃO EM PRESÍDIO. DANO MORAL. AGENTE PENITENCIÁRIO. OMISSÃO DO ACÓRDÃO. INEXISTÊNCIA. CULPA CONCORRENTE. PROVAS DO DANO MORAL. OMISSÃO DO ESTADO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
