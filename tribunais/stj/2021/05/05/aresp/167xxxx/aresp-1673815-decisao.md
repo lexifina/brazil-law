@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por MARIA DE FATIMA ROSSATI DE OLIVEIRA contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+É o breve relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido em virtude da ausência de impugnação aos fundamentos da decisão agravada.
+Com efeito, o recurso especial foi inadmitido, no que tange aos arts. 23 da Lei 8.245/1991; 569 e 570 do CC, diante da ausência de demonstração de sua vulneração, na medida em que a parte teria se limitado a fazer referência aos dispositivos, sem a necessária argumentação, além da incidência da Súmula 7/STJ, por entender que as razões recursais se prenderam a uma perspectiva de reexame dos elementos fáticos e probatórios; e, ainda, que não houve demonstração da divergência jurisprudencial na forma exigida pelo artigo 1.029, § 1º, do CPC, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Com efeito, nas razões do agravo em recurso especial, caberia à parte demonstrar o desacerto da decisão que inadmitiu seu recurso especial.
+Caberia a agravante indicar em que momento do seu recurso especial teria demonstrado, a partir da fundamentação do acórdão, como ele teria violado os arts. 23 da Lei 8.245/1991; 569 e 570 do CC; demonstrar que sua tese jurídica não esbarraria no óbice da Súmula 7/STJ; e, também, que houve observância dos requisitos exigidospelo artigo 1.029, § 1º, do CPC, apontando os trechos que foramtranscritos, sugestivos do dissídio, com as circunstâncias identificadoras entre os casos confrontados.
+Nas razões do agravo em recurso especial, entretanto, verifica-se que a parte agravante não demonstrou a inadequação dos fundamentos utilizados pelo Tribunal de origem para inadmitir o recurso especial, deixando de impugnar de forma específica a incidência do óbice referido.
+Limitou-se a recorrente, nesse passo, a reprisar o processado e as razões pelas quais entende violados os dispositivos. Com relação ao fundamento da decisão monocrática atacada, de que para analisar a pretendida violação aos dispositivos indicados seria necessária a análise do conjunto fático probatório dos autos, a parte sustenta, de forma genérica, que não se aplica a Súmula 7/STJ. Relacionados, minimamente, com a decisão agravada, nas razoes de recurso constou que (e-STJ fls. 279-280):
+De início, convém destacar que o recurso especial interposto não visa o reexame de matéria fática, apenas a violação do artigo 23 da Lei de Locações (Lei nº. 8.245/91) e também ao Código Civil, não havendo então que se falar em aplicação da Súmula 7 do STJ.
+Logo, quando alguma decisão contrariar dispositivo de Lei Federal, tratado ou negar-lhes vigência, plenamente cabível o recurso especial, consubstanciado nas alíneas "a" e "c" do artigo 105, inciso III da Constituição Federal, como devidamente realizado.
+Assim, mediante a expressão violação aos artigos 23 da Lei nº. 8.245/91 e artigos 569 e 570 do Código Civil vigente nesta presente demanda, como será devidamente exposto.
+Com efeito, sobre a aplicação do artigo 105, inciso III, alínea "a", passa-se a expor.
+Sobre essa alínea, debate-se a expressa afronta aos artigos 23 da Lei Federal nº. 8.245/91 e artigos 569 e 570 do Código Civil vigente.
+Com efeito, a presente demanda se baseia em relação de locação, consubstanciada na dita Lei nº. 8245/91, que deve ser respeitada e seguida, tanto pelo Locador como pelo Locatário.
+Como se vê, a recorrente absteve-se de impugnar, de forma específica e suficiente, a incidência da Súmula 284/STF, em virtude da não demonstração da alegada violação ao dispositivo apontado, e da Súmula 7/STJ, fundamentos suficientes à manutenção do decisum.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), in verbis:
+"Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC/2015. RECURSO ESPECIAL. RECURSO REPETITIVO. INADMISSIBILIDADE.ART. 1.030, I, "B", DO CPC/2015. AGRAVO. INTERPOSIÇÃO. ERRO GROSSEIRO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC/2015).
+3. Constitui erro grosseiro a interposição do agravo em recurso especial quando o recurso é inadmitido com base no art. 1.030, I, "b", do Código de Processo Civil de 2015 (art. 543-C, § 7º, I, do Código de Processo Civil de 1973).
+4. Agravo interno não provido.
+(AgInt no AREsp 1681425/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2020, DJe 28/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015.INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência do óbice das Súmulas 5/STJ e 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade dos referidos óbices ou que a tese defensiva não demanda reexame de provas ou nova interpretação de cláusulas contratuais. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1687931/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/08/2020, DJe 09/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1613891/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO CONHECIDO, COM CORREÇÃO DE ERRO MATERIAL.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 7 do STJ e 284 do STF).
+3. Uma vez constatado o erro material na decisão atacada, é de rigor sua correção, mesmo que de ofício.
+4. Agravo interno não conhecido, com correção do erro material, de ofício.
+(AgInt no AREsp 1230088/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/06/2019, DJe 12/06/2019)
+Inviável, pois, a pretensão da agravante.
+Por fim, impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada a verba honorária em 10% do valor da causa (e-STJ fl. 224), a majoração dos honorários para 12% é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum está sujeito às normas do CPC/2015, inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, com base no art. 932, III, do CPC/2015, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO.
