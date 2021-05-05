@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por PRESTDENT PRESTACAO DE SERVICOS ODONTOLOGICOS EIRELIemface de decisão monocrática assim ementada (e-STJ fl. 238):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA. SUCESSÃO EMPRESARIAL RECONHECIDA PELA CORTE ESTADUAL. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA RECURSAL E AUSENCIA DE PREQUESTIONAMENTO. SUMULAS 284/STF E 211/STJ. ALTERAR O JULGADO. REEXAME DO CONJUNTO FATICO E INTERPETRAÇÃO DE CLAUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões de embargos, o embargante sustenta omissão na decisão que não se atentou para o item 4.1 do recuso especial, no qual foi detalhada a maneira como foram violados os dispositivos da legislação federal. Afirma que foi omissa, pois, diferente do que constou da decisão embargada, o acórdão manifestou-se expressamente a respeito da legislação violada. Afirma, ainda, que a decisão monocrática foi genérica eis que desconsiderou o item 4.2 do recurso especial no qual o dissídio jurisprudencial restou pormenorizadamente comprovado.
+Como se vê, as razões formuladas nos embargos declaratórios não indicam nenhum dos vícios previstos no art. 1.022 do CPC, mas se voltam contra as conclusões havidas na decisão embargada.
+Ante o exposto, como as razões dos embargos de declaração revelam intuito manifestamente infringente, conheço do recurso como agravo interno, determinando as seguintes providências:
+1) A intimação "do recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º", aplicando o § 3.º do art. 1.024 do Código de Processo Civil; e
+2) Após, diante do ajustamento das razões lançadas no agravo interno, determino vista à parte agravada para se manifestar sobre o recurso no prazo de 15 (quinze) dias, nos termos do § 2.º do art. 1.021, do Código de Processo Civil.
+Intimem-se.
