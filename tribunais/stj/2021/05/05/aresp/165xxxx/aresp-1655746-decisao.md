@@ -1,0 +1,66 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por BONAFE PARTICIPACAO E ADMINISTRACAO LTDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 43):
+Locação de imóvel - Ação renovatória Preliminar de alegação de decadência bem afastada - Ação distribuída antes do prazo legal - Agravo não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 55-58).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 240, §§1º e 2º, 489, §1º, e 1.022, II, do CPC, e o artigo 51, §5º, da Lei nº 8.6245/1991. Afirma omissão, porque o acórdão não enfrentou o argumento de que a emenda da inicial após o decurso do prazo do art. 51, §5º, da Lei nº 8.6245/1991 CPC não afasta a decadência e que a ocorrência de aditamento da inicial fora do prazo decadencial para inclusão do verdadeiro réu afasta a retroatividade prevista no artigo 240 do CPC. Assevera violados os arts. 240 do CC e o 51, §5º, da Lei nº 8.6245/1991, diante da ocorrência de decadência para propor pedido renovatório.
+Foram apresentadas contrarrazões (e-STJ fls. 82-102).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 103-105), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, quanto à apontada violação aos arts. 489, § 1º, IV, do CPC, entendo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (e-STJ fls. 46-48):
+Dispõe o artigo 51, § 5º, da Lei nº 8.245/91, que, "Do direito à renovação decai aquele que não propuser a ação no interregno de um ano, no máximo, até seis meses, no mínimo, anteriores à data da finalização do prazo do contrato em vigor".
+Neste caso, contando-se, de modo retroativo, seis meses do dia 31.12.16 (fl. 44 da renovatória), chegar-se-á ao dia 30.6.16. Como o ajuizamento ocorreu em 11.5.16 (fl. 1 da renovatória), ainda não se tinha operado a decadência, quando da propositura da ação.
+A retificação do polo passivo, ocorrido após aquele prazo de seis meses, também não determinou a decadência.
+Em 1.10.15, foi assinado pelas partes "Aditivo Contratual de Transferência da Locação de Imóvel Comercial", ficando acertado e pactuado que os locadores, Edison Bonafé e Nilce Franco Martins Bonafé, seriam substituídos pela locadora sucessora Bonafé Participação e Administração Ltda., que, "a partir da assinatura deste aditivo passa a ser oficialmente a Locadora do imóvel objeto deste aditivo contratual, permanecendo inalterada as demais cláusulas" (fls. 325/326 da renovatória).
+Então, a ação foi inicialmente ajuizada equivocadamente contra Edison Bonafé e Nilce Franco Martins Bonafé, que alegaram ser partes ilegítimas para figurar no polo passivo, diante do aditamento antes mencionado, indicando que a locadora é a Bonafé Participação e Administração Ltda. (fl. 309 da renovatória).
+Dispõe o art. 339, caput, do Código de Processo Civil, "Quando alegar sua ilegitimidade, incumbe ao réu indicar o sujeito passivo da relação jurídica discutida sempre que tiver conhecimento, sob pena de arcar com as despesas processuais e de indenizar o autor pelos prejuízos decorrentes da falta de indicação", e "O autor, ao aceitar a indicação, procederá, no prazo de 15 (quinze) dias, à alteração da petição inicial para a substituição do réu, observando-se, ainda, o parágrafo único do art. 338" (§1º), ou, "No prazo de 15 (quinze) dias, o autor pode optar por alterar a petição inicial para incluir, como litisconsorte passivo, o sujeito indicado pelo réu (§2º).
+Em réplica, a autora requereu a emenda da inicial para inclusão da agravante no polo passivo da relação processual nos termos do art. 339, § 2º, do CPC (fl. 439 da renovatória), o que foi acolhido em parte, nos seguintes termos: "Vistos. Determino a substituição do polo passivo da ação, para que dele conste a empresa Bonafé Participação e Administração Ltda, nos termos do artigo 388 do CPC e à vista do doc. de fls. 325/326, em lugar dos ora requeridos. Observo, outrossim, desde logo, que tal substituição não implica em decadência do direito, conforme asseverado às fls. 497 a 499, pois a demanda foi tempestivamente proposta, ainda que em face de pessoas que não detêm legitimidade para figurar no polo passivo da ação e dada a expressa possibilidade legal para tal substituição, nos termos da norma supra referida. Arcará o requerente, assim, com as custas e despesas processuais despendidas pelos requeridos e com honorários de advogado, arbitrados em 3% sobre o valor atualizado atribuído à causa (artigo 388, parágrafo único, do CPC). E já tendo sido trazido aos autos contrato social da empresa que assumirá o polo passivo da ação (fls. 452 a 465), intime-se o requerente a providenciar a citação de seus sócios. Intime-se. ". (grifei) (fl. 50 6 da renovatória).
+Assim, o fato de a substituição ter se dado depois do prazo decadencial não releva, porque o que determina a ocorrência ou não da decadência é a distribuição da ação. Os incidentes posteriores do processo, inclusive a necessidade de retificação do polo passivo, cuja substituição é permitida pela lei processual, não alteram aquele termo, porque a ação já havia sido proposta.
+Em suma, como a ação foi ajuizada dentro do prazo decadencial previsto pelo § 5º do art. 51 da Lei nº 8.245/91, correta a decisão que afastou a alegação de decadência.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, do CPC.
+Por outro lado, quanto ao art. 51, §5º, da Lei nº 8.6245/1991, o entendimento do Tribunal de origem não destoa da orientação desta Corte Superior que já decidiu no sentido de que basta ao locatário, para esquivar-se da decadência, ajuizar ação no prazo legal, pouco importando a data da citação do réu.
+A propósito:
+PROCESSUAL CIVIL. TEMA NÃO VENTILADO NA INSTÂNCIA A QUO. INADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. AÇÃO RENOVATÓRIA. PRAZO DE DECADÊNCIA. CONTAGEM. MOMENTO EM QUE SE CONSIDERA INTENTADA A AÇÃO. ART. 51, § 5º, DA LEI 8.245/91. ALÍNEA "C". AUSÊNCIA DO COTEJO ANALÍTICO. INEXISTÊNCIA DE SIMILITUDE FÁTICA. ART. 255/RISTJ. RECURSO DESPROVIDO.
+I - Não há que se falar em prequestionamento quando a matéria objeto da discussão na instância a quo tratou de tema diverso do constante no recurso especial. Para tanto, seria necessário a oposição dos embargos de declaração, os quais restaram rejeitados. A esse respeito já se posicionou esta Corte nos termos da Súmula 211/STJ.
+II - Este eg. Superior Tribunal de Justiça possui entendimento no sentido de que se considera proposta a ação renovatória, nos termos do art. 51, § 5º, da Lei do Inquilinato combinado com o art. 263, do CPC, com o ingresso em juízo do pedido bastando, portanto, protocolizar no foro competente, para afastar a decadência.
+III - A admissão do Especial com base na alínea "c" impõe o confronto analítico entre os acórdãos paradigma e hostilizado, a fim de evidenciar a similitude fática e jurídica posta em debate, conforme disposto no art. 255 e parágrafos do RISTJ.
+IV - Agravo interno desprovido.
+(AgRg no REsp 866.672/MG, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 19/06/2007, DJ 06/08/2007, p. 670)
+AÇÃO RENOVATÓRIA DE LOCAÇÃO. PRAZO DE DECADÊNCIA. CONTAGEM. MOMENTO EM QUE SE CONSIDERA INTENTADA A AÇÃO. ART. 51, § 5º, DA LEI 8.245/91.
+"Quando o prazo é estabelecido em mês, conta-se do dia do início até o dia correspondente do mês seguinte, dando-se o mesmo quando a contagem é regressiva".
+Considera-se proposta a ação renovatória, nos termos do art. 51, § 5º, da Lei do Inquilinato combinado com o art. 263, do CPC, com o ingresso, em juízo, do pedido, bastando, portanto, protocolar no foro competente, para afastar a decadência.
+Recurso não conhecido.
+(REsp 299.683/SP, Rel. Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, julgado em 21/06/2001, DJ 03/09/2001, p. 245)
+PROCESSO CIVIL - RECURSO ESPECIAL - LOCAÇÃO COMERCIAL - RENOVATÓRIA - AGRAVO DE INSTRUMENTO - DECADÊNCIA - ART. 51, PARÁG. 5º DA LEI Nº 8.245/91 - CITAÇÃO - SÚMULA 106/STJ.
+1 - Descabe a extinção da ação renovatória de locação, por decadência, se proposta no prazo fixado pelo art. 51, parág. 5º da Lei nº 8.245/91. Assim, basta ao locatário, para esquivar-se da decadência, ajuizar ação no prazo legal, pouco importando a data da citação do réu.
+2 - A demora na citação, por razões de ordem do aparelho judiciário, não pode acarretar ônus ao autor que dela não contribuiu. Aplicação da Súmula 106 desta Corte.
+3 - Decadência inexistente.
+4 - Precedente (Resp nº 72.311/SP).
+5 - A teor do art. 255 e parág. único do RISTJ, não basta a simples transcrição de ementas para apreciação da divergência jurisprudencial (art. 105, III, alínea "c" da CF), devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, bem como juntadas cópias integrais de tais julgados.
+6 - Recurso parcialmente conhecido e, neste aspecto, desprovido.
+(REsp 122.408/SP, Rel. Ministro JORGE SCARTEZZINI, QUINTA TURMA, julgado em 21/09/1999, DJ 06/12/1999, p. 107)
+RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE LOCAÇÃO. DECADÊNCIA. INOCORRÊNCIA. CONSIDERA-SE PROPOSTA A AÇÃO RENOVATÓRIA, NOS TERMOS DO ART. 51, § 5º, DA LEI 8.245/91 COMBINADO COM O ART. 263, DO CPC, COM O INGRESSO, EM JUÍZO, DO PEDIDO, BASTANDO, PORTANTO, PROTOCOLAR NO FORO COMPETENTE, PARA AFASTAR A DECADÊNCIA. AQUI NÃO SE COGITA DE PROVIDÊNCIAS DE QUE TRATA O ART. 219, CPC.
+Recurso conhecido e provido.
+(REsp 187.842/GO, Rel. Ministro JOSÉ ARNALDO DA FONSECA, QUINTA TURMA, julgado em 14/09/1999, DJ 04/10/1999, p. 86)
+Observa-se, ainda, que o art. 240, §§1º e 2º, do CPC, dispõe que:
+Art. 240. A citação válida, ainda quando ordenada por juízo incompetente, induz litispendência, torna litigiosa a coisa e constitui em mora o devedor, ressalvado o disposto nos arts. 397 e 398 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) .
+§ 1º A interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação.
+§ 2º Incumbe ao autor adotar, no prazo de 10 (dez) dias, as providências necessárias para viabilizar a citação, sob pena de não se aplicar o disposto no § 1º.
+Como se vê, referido dispositivo, apontado como violado, não tem comando normativo suficiente para amparar a tese recursal de que "a emenda da inicial após o decurso do prazo decadencial não tem o condão de afastar sua consumação", situação que atrai a incidência do óbice da Súmula n. 284/STF, que dispõe que: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, ainda que assim não fosse, quanto à apontada violação aos arts. 240, §§1º e 2º, do CPC, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Por outro lado, o acórdão, no ponto, dirimiu a controvérsia à luz dos arts. 338 e 339 do CPC, conforme se depreende do trecho do acórdão recorrido antes transcrito e a insurgência recursal não impugna referido fundamento, situação que atrai a incidência da Súmula 283/STF.
+Destarte, inviável a pretensão da recorrente.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015.
+Ante o exposto, conheço do agravo para, desde logo, conhecer em parte do recurso especial e negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO RENOVATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECADÊNCIA AFASTADA. JULGADO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ. DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
