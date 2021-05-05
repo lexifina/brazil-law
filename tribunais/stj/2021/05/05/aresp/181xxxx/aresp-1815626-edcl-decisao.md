@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LÍDIA PEREIRA BAPTISTA à decisão de fls. 413/414, que não conheceu do recurso.
+Sustenta a parte embargante que:
+4 - Permissa venia, não houve estorno do depósito, o recolhimento das custas foi vertido para os cofres públicos no montante total de R$ 599,90, portanto, não há vício no recolhimento que possa ensejar a deserção do recurso;
+5 - Na petição de folhas 405/406, a embargante, com o escopo de dirimir qualquer dúvida enumerou, minuciosamente, os dados pertinentes ao recolhimento, os quais podem ser cotejados, pelo Setor Técnico de Recolhimento de Custas (fl. 417).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que a petição de recurso especial foi protocolada, na origem, com a respectiva guia de recolhimento do preparo ilegível, impossibilitando a verificação da regularidade do preparo.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a parte juntou comprovante de pagamento ilegível (fl. 408) referente ao recolhimento em dobro do preparo.
+Veja-se que não basta que constem os dados do recolhimento na petição de regularização do preparo. O comprovante de pagamento oficial tem que estar legível para que seja possível a comparação dos dados com aqueles lançados na GRU apresentada, incluindo o número do código de barras, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo". (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a oposição do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
