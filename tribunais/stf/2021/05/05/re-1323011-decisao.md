@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de dois recursos extraordinários interpostos por CAL CEM INDUSTRIA DE MINERIOS LTDA com base no art. 102, inciso III, da Constituição Federal interpostos contra os acórdãos proferidos pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO e pelo SUPERIOR TRIBUNAL DE JUSTIÇA.
+    Decido.
+    Quanto à insurgência veiculada no apelo extremo interposto contra o acórdão proferido pelo SUPERIOR TRIBUNAL DE JUSTIÇA, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática do Relator do recurso no Tribunal de origem.
+    Consoante entendimento da Súmula nº 281 do STF, é necessário que a parte interponha todos os recursos ordinários perante o tribunal de origem antes de buscar a instância extraordinária.
+    Nesse sentido, os seguintes precedentes: ARE nº 788.525/PR-AgR, Rel. Min. Ricardo Lewandowski, DJe de 19/2/14; ARE nº 731.916/SP-AgR, Rel. Min. Joaquim Barbosa (Presidente), DJe 11/11/13; ARE nº 730.431/RJ-ED, Rel. Min. Cármen Lúcia, DJe de 7/2/14.
+    Dessa forma, cabia à parte suscitar, por meio da interposição do agravo interno, a manifestação do colegiado antes de interpor o recurso extraordinário.
+    Já quanto à insurgência de CAL CEM INDUSTRIA DE MINERIOS LTDA contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 398365 segundo a sistemática da repercussão geral (Tema nº 844, respectivamente) decidiu o seguinte: há repercussão geral com reafirmação de Jurisprudência - Acórdão de mérito publicado.
+    O Código de Processo Civil assim disciplina os procedimentos aplicáveis aos recursos extraordinários que suscitem matéria(s) analisada(s) pelo STF no rito da repercussão geral:
+    Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016)(Vigência)
+    I – negar seguimento: (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral; (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos; (Incluída pela Lei nº 13.256, de 2016)(Vigência)
+    II – encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    III – sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional; (Incluído pela Lei nº 13.256, de 2016) (Vigência) (grifo nosso).
+    Ex positis, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Quanto ao mais, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
