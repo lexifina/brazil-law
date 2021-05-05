@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JACKSON SILVA MARQUES apontando como autoridade coatorao Tribunal de Justiça do Estado de Minas Gerais.
+Infere-se dos autos que opaciente foi condenado à pena privativa de liberdade de 29 (vinte e nove) anos de reclusão, no regime inicial fechado, pela prática dos crimes previstos nos arts. 158, § 1º, c/c o art. 71, c/c o art. 158, §§ 1º e 3º, c/c o art. 157, § 2º II, c/c os arts. 69, e 288 do CP, sendo-lhe negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação que foi parcialmente provido para absolver o paciente do crime previsto no art. 288 do Código Penal e aplicar a continuidade delitiva, redimensionandoa pena do paciente para 9 anos e 4 meses de reclusão, em regime inicial fechado, além de multa.
+A condenação transitou em julgado e foi expedida guia de execução definitiva.
+Nas razões do presente mandamus, a defesa aponta excesso de prazo na prisão do paciente. Destaca que o réu está preso desde 2016 e ainda não obteve a progressão de regime.
+Sustenta que "o pedido de progressão de regime encontra-se em poder do MP desde o dia 27/05/2019, ou seja, por mais de 15 (quinze dias), tempo demasiadamente prologando, ocasionando a perda do direito a progressão de regime" (e-STJ fl. 5).
+Diante disso, requer a concessão da ordem para determinar que o Juízo da Vara de Execuções Penais de Frutal/MG, analise o pedido de progressão de regime do paciente.
+Indeferida a liminar (e-STJ fls. 198/200) e prestadas as informações (e-STJ fls. 216/262 e 263/305), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus (e-STJ fls. 307/308).
+É o relatório. Decido.
+Insurge-se no presente writ, contra a demora na apreciação de pedido de progressão de regime.
+Ocorre que a questão da alegada não foi analisada pelo Tribunal a quo, o que impede o exame da questão por esta Corte, sob pena de indevida supressão de instância. Embora a defesa tenha instruído o feito com a cópia de três acórdãos proferidos pela Corte de origem, em nenhum deles o tema foi abordado.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Ministro ALEXANDRE DE MORAES, Primeira Turma, julgado em 6/12/2019, DJe 18/12/2019).
+Aliás, o Juízo da Execução, ao prestar informações, esclareceu (e-STJ, fl. 264 - destaquei):
+O paciente encontra-se em cumprimento de pena privativa de liberdade, em regime fechado, de 38 anos e 04 meses de reclusão, em razão de condenações impostas nos autos de nº 0111874-86.2016.8.13.0035 e 0589504- 92.2016.8.13.0702, conforme atestado de penas em anexo.
+Conforme se observa de referida documentação, alcançará o requisito objetivo para progressão ao regime semiaberto aos 20/07/2022, e para o livramento condicional aos 08/12/2028, inexistindo, portanto, qualquer benefício prisional pendente de apreciação.
+Ante o exposto, não conheço do mandamus.
+Intimem-se.
