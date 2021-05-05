@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Eric de Lira Damascena contra ato coator proferido pela Décima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução n.0000943-07.2021.8.26.0996, negou provimento à insurgência defensiva, mantendo a falta grave homologada na origem.
+A impetrante alega, em síntese, que as sanções disciplinares devem ser aplicadas apenas quando outra solução não seja possível, nos termos do princípio da proporcionalidade, tendo a conduta sido insignificante, ofensiva.
+Menciona que a punição foi aplicada coletivamente, sem individualização das condutas.
+Sustenta que não houve perda dos dias remidos.
+Pede, em caráter liminar e no mérito, o afastamento da falta grave (fls. 3/20).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre aimpetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Juízo de piso homologou a falta grave e determinou a perda de 1/3 de dias remidos, conforme seguinte excerto (fls. 241/242 - grifo nosso):
+No mérito, conforme oitivas realizadas nos autos do procedimento administrativo, restou clara a prática da falta pelo reeducando, comprovando-se materialidade e autoria, visto que os depoimentos dos servidores evidenciam que o sentenciado participou de movimento de subversão à ordem e a disciplina, incitando os demais sentenciados à aderirem seu movimento subversivo, causando tumulto e desordem, agindo com indisciplina em relação às regras recebidas quando de sua inclusão no sistema penitenciário.
+Imprescindível, também, ressaltar que as declarações dos funcionários da unidade merecem credibilidade, não havendo indicação de motivos para que incriminassem falsamente o faltante.
+No caso dos autos, não há que se cogitar, pois, a hipótese da desclassificação do grave ato de indisciplina praticado como falta disciplinar de natureza média.
+Portanto, restou comprovado que, com sua postura, o reeducando praticou a conduta descrita no artigo 50, VI da Lei de Execução Penal.
+O empreendimento de falta disciplinar de natureza grave determina, ainda, a incidência do artigo 127 da L. E. P., sobretudo porque a decisão concessiva de remição não produz coisa julgada material nem ofende o direito adquirido.
+Em vista disso, nos termos do artigo 127 da Lei de Execução Penal, impõe-se a perda dos dias remidos ou a remir anteriores à referida infração; já que, na dicção do referido artigo, recentemente alterado pela Lei nº 12.433/11, observa-se que este menciona somente a perda do tempo remido, o que pressupõe decisão judicial.
+Porém, é evidente que a perda do direito também atinge os dias a remir anteriores à falta grave; tanto assim que a segunda parte do artigo 127 da LEP prevê que o novo período de cômputo começa "a partir da data da infração disciplinar".
+ ..
+No que se refere à quantidade de dias remidos e a remir a serem declaradosperdidos, levando-se em conta a gravidade da conduta do reeducando e as circunstâncias fáticas em que a falta foi praticada, a perda de 1/3 dos dias é medida que se impõe no caso concreto para a repressão e prevenção de novas infrações disciplinares.
+O Tribunal local manteve a homologação da falta grave aos seguintes fundamentos (fls. 264/265 - grifo nosso):
+No caso em tela, autoria e materialidade restaram bem delineadas, tendo sido devidamente apuradas em procedimento administrativo, no qual foram assegurados o contraditório e a ampla defesa.
+O sentenciado, quando ouvido, negou ter participado de qualquer tumulto ou desrespeitado os funcionários ou quaisquer ordens recebidas.
+Ocorre que os fatos acima narrados foram confirmados pelos depoimentos dos agentes penitenciários ouvidos durante o procedimento administrativo.
+Não há razões para duvidar das palavras dos funcionários, pois inexistem sequer indíciosde que tivessem qualquer motivo para tentar prejudicar o agravante.
+Não se trata, ademais, de autoria coletiva, pois os envolvidos foram devidamente identificados pelos agentes penitenciários.
+Impossíveis, portanto, a absolvição ou a desclassificação. A conduta do sentenciado se subsume perfeitamente ao disposto nos artigos50, VI, c. c. 39, II e V, ambos da Lei de Execução Penal. Assim, o reconhecimento da falta grave era mesmo medida de rigor.
+Anoto, por fim, ser inviável o restabelecimento ou perdimento de menor fração dos dias remidos. Tal perda, no índice estabelecido, se justifica ante a gravidade da conduta, a denotar desrespeito às normas da execução, o que bem indica que o agravante não está assimilando a terapêutica penal.
+Em relação à alegação de insignificância da conduta, sob prisma do princípio da proporcionalidade, necessário frisar que a instância local não debateu a questão sob esse enfoque específico, mas apenas no sentido de desclassificar a conduta, o que enseja indevida supressão de instância a inaugurar o debate neste Tribunal Superior.
+Ademais, ainda que assim não fosse, aferir a insignificância da conduta exigiria incursão em provas, medida essa incabível na via do habeas corpus (AgInt no HC n. 374.195/SP, Ministro NefiCordeiro, Sexta Turma,DJe 17/4/2017).
+Quanto à necessidade de individualização da conduta, nos termos da jurisprudência desta Corte Superior, é preciso diferenciar a autoria coletiva da sanção coletiva. Embora não se admita a primeira, a segunda é passível de punição, mediante processo administrativo que indique devidamente a autoria.
+Nesse sentido:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE.ATIPICIDADE MATERIAL DA CONDUTA E DESCLASSIFICAÇÃO PARA FALTA MÉDIA.VIA INADEQUADA. INEXISTÊNCIA DE SANÇÃO COLETIVA. CONDUTA INDIVIDUALIZADA. PERDA DE UM TERÇO DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que o"habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+2. No caso,não houve sanção coletiva. Com efeito, o Juízo de origem - referendado pelo Tribunal - individualizou a conduta, pois afirmou que o Paciente participou de movimento de subversão da ordem "gritando e batendo nas portas da cela". Ademais,"não se pode confundir "sanção coletiva" com "autoria coletiva". A primeira de fato é vedada pelo ordenamento jurídico. A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos (AgRg no HC 444.930/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28 /6/2018)" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020, sem grifos no original).
+3.De acordo com o entendimento desta Corte, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127, o que se verifica na hipótese.
+4. Agravo regimental desprovido
+(AgRg no HC n. 557.539/SP, Ministra LauritaVaz, SextaTurma, DJe 2/6/2020)
+No presente caso, as instâncias locais mencionaram depoimentos dos funcionários da unidade penitenciária que individualizaram a conduta do paciente, não sendo possível reverter tal conclusão sem a devida análise de provas.
+Por fim, em relação à perda dos dias remidos,de fato, nos termos da nova redação do art. 127 da Lei de Execução Penal, em caso de cometimento de infração disciplinar, o Juízo da execução poderá determinar a perda de até 1/3 dos dias remidos, de forma motivada, observando os vetores do art. 57 do mesmo diploma legal.
+A propósito: HC n. 479.931/RS, Ministra Laurita Vaz, Sexta Turma, DJe 11/6/2019; e HC n. 493.065/RS, Ministro Felix Fischer, Quinta Turma, DJe 22/4/2019.
+Como visto, não há falar em falta de fundamentação no caso em exame,porquanto o Juízo de primeiro grau justificou expressamente a perda dos dias remidos na fração máxima de 1/3, ante a gravidade da conduta perpetrada pelo apenado, qual seja, osentenciado participou de movimento de subversão à ordem e a disciplina, incitando os demais sentenciados à aderirem seu movimento subversivo (fl. 241).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE. INSIGNIFICÂNCIA DA CONDUTA. PROPORCIONALIDADE. FALTA DE DISCUSSÃO NA ORIGEM. INCURSÃO NO ACERVO PROBATÓRIO. ALEGAÇÃO DE SANÇÃO COLETIVA. NÃO OCORRÊNCIA. FALTA GRAVE DE AUTORIA COLETIVA. POSSIBILIDADE. PRECEDENTE.PERDA DE 1/3 DOS DIAS REMIDOS. FUNDAMENTAÇÃO INIDÔNEA. AUSÊNCIA DE FUNDAMENTAÇÃO NA ORIGEM. GRAVIDADE EM ABSTRATO DA FALTA DISCIPLINAR. CONSTRANGIMENTO ILEGAL CONFIGURADO. PATAMAR MÁXIMO SEM FUNDAMENTAÇÃO ADEQUADA.
+Writ indeferido liminarmente.
