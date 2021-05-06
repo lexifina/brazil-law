@@ -1,0 +1,24 @@
+DECISÃO
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA.ARTIGOS TIDOS POR VIOLADOS NÃO PREQUESTIONADOS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF.  AGRAVO  EM  RECURSO  ESPECIAL  DA EMPRESA CONTRIBUINTE A  QUE  SE  NEGA  PROVIMENTO.
+1.  Trata-se  de  Agravo  interposto  por  EXPORTADORA BRASILEIRA DE CAFÉ S.A. BRASCAFÉ  contra  decisão  que  inadmitiu  Recurso  Especial,  fundamentado  no  art.  105,  III,  a  ,  da  Constituição  da  República,  objetivando  a  reforma  do  acórdão  assim  ementado:
+AGRAVO DE INSTRUMENTO - Cumprimento provisório de sentença - Pagamento de diferenças inflacionárias decorrentes dos Planos Collor I e II, incidentes em depósitos judiciais - Decisão agravada reformada em parte - Inconformismo que deveria ter sido alegado oportunamente, com a interposição do recurso pertinente, e não o foi - Execução que se dá nos termos do disposto no título exequendo - Preclusão temporal - Reforma da decisão apenas para possibilitar o levantamento, pela agravante, da quantia incontroversa - Precedentes deste Tribunal - Decisão agravada reformada em parte Recurso parcialmente provido  (fl.  41).
+2.  Nas  razões  do  Recurso  Especial  (fls.  54/65),  a  parte  recorrente  sustenta  ter  havido  violação  do  art.  494, I,do CPC/2015,ao deixar de reconhecer que o equívoco na indicação dos depósitos arrolados no dispositivo da sentença exequenda configura mero erro material, cuja correção pode ser feita a qualquer momento pelo magistrado, sem que implique em ofensa ao instituto da preclusão (fl. 63) e ao art.85, § 2o., tendo em vista que o acórdão recorrido assinalou que a verba honorária de 10% fixada na sentença exequenda incide "sobre o valor da causa", e não sobre o valor da condenação(fl. 63).
+3.  Apresentadas  as  contrarrazões  (fls.  99/108),  o  recurso  foi  inadmitido  na  origem  (fl.  109),  o  que  ensejou  a  interposição  de  Agravo  (fls.  112/125).
+4.  É  o  relatório.
+5. O recurso não merece prosperar.
+6. Verifica-se da leitura do acórdão recorrido que os artigos apontados como violados pelas razões recursais não foram apreciados pelo Tribunal de origem, tampouco foram opostos Embargos de Declaração pela parte interessada com o objetivo de sanar eventual omissão. Falta, portanto, prequestionamento, requisito exigidopara o acesso às instâncias excepcionais, até mesmo para questões de ordem pública. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+7. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+8. Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como ofendido não foi examinado pela Corte a quo. Sobre o tema, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. USUCAPIÃO. EXISTÊNCIA DE OUTROS BENS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. TEORIA DA ASSERÇÃO. REVISÃO DOS REQUISITOS. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas 282 e 356 do STF.
+2. O entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, hipótese inexistente no caso.
+3. O recurso especial é inviável, por aplicação do enunciado n. 7 da Súmula do STJ, quando as alegações em que se funda a pretensão recursal colidem com os pressupostos fáticos assentados no acórdão recorrido. Precedentes.
+4. Agravo interno a que se nega provimento
+(AgInt no REsp 1.637.347/RO, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe 22.6.2017).
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE INSTRUMENTO - AUSÊNCIA DE APRECIAÇÃO DO MÉRITO DO RECURSO ESPECIAL - DESCABIMENTO - MATÉRIA DE ORDEM PÚBLICA - PREQUESTIONAMENTO.
+(..)
+2. A Corte Especial do STJ tem entendimento firmado de que o requisito do prequestionamento é exigido, inclusive, para matérias de ordem pública.
+3. Agravo regimental não provido.
+(AgRg nos EAg 1.330.346/RJ, Rel. Min.ELIANA CALMON, DJe 20.2.2013).
+9.  Diante  do  exposto,  nega-se  provimento  ao  Agravo  em  Recurso  Especial  da empresa contribuinte.
+10.  Publique-se.  Intimações  necessárias.
