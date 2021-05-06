@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a"do permissivo constitucional, contra acórdão assim ementado(e-STJ, fls. 72-73):
+Acidente do Trabalho Agravo de Instrumento Conta de liquidação das parcelas em atraso -Percentual dos Juros de mora - Art. 1º-F da Lei n. 9.494/97, com redação determinada pela Lei n. 11.960/2009 Incidência imediata, a partir de sua entra em vigor - Admissibilidade.
+A partir de junho de 2009, passou a vigorar a Lei nº 11.960/09, a qual, em seu artigo 5º, deu nova redação ao artigo 1º-F, da Lei nº 9.494/97, fixando os juros moratórios nos mesmos percentuais aplicados à caderneta de poupança. Referida regra deve ser aplicada no tocante aos pagamentos de verbas previdenciárias, posto que foram nela abrangidas todas as condenações impostas à Fazenda Pública, em ações de qualquer natureza.
+Aplicação dos índices oficiais de remuneração da caderneta de poupança, para fins de atualização monetária, como previsto na Lei nº 11.960/09. - Impossibilidade - Inconstitucionalidade declarada, porarrastamento, na ADI nº 4357, julgada pelo C. STF. Dou parcial provimento ao recurso.
+O INSS aduz,em síntese, ofensa aoart. 27da Lei n. 9.868/1999 ao argumento de que, ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em julgado ou de outro momento que venha a ser fixado.
+Assim, requer o provimento do recurso, "para que seja determinada a aplicação da Lei nº 11.960 aos índices de correção monetária, como vinha fazendo o E Tribunal de origem, até a modulação dos efeitos da decisão de inconstitucionalidade no C. STF"(e-STJ, fl. 92).
+Decido.
+O art.27 da Lei n. 9.868/1999não possuicomando normativo suficiente para amparar, por si só,atesede substituição do índice utilizado paracorreção monetária do débito.Logo há deficiência na fundamentação do apelo extremo, de modo que incide na espécie, por analogia, o óbice contido na Súmula 284 do Supremo Tribunal Federal segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA. CONDOMÍNIO. TARIFA DE ÁGUA. COBRANÇA PELO CONSUMO REAL. CABIMENTO. PRAZO PRESCRICIONAL DECENAL. APLICAÇÃO. TESES FIRMADAS EM RECURSOS REPETITIVOS. MULTA. APLICAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, em face do óbice contido na Súmula 284 do STF.
+ ..
+5. Agravo interno desprovido com aplicação de multa.
+(AgInt no REsp 1.856.080/RJ, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 16/10/2020).
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
