@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. JUÍZO DE RETRATAÇÃO. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA CONTRIBUINTE.
+1. Trata-se de Agravo Interno interposto pela GERDAU S.A., em adversidade à decisão monocrática da relatoria do eminente Ministro NAPOLEÃO NUNES MAIA FILHO,que negou seguimento ao seu Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE IRRISORIEDADE DA VERBA FIXADA (R$ 8.000,00). INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DA EMPRESAA QUE SE NEGA SEGUIMENTO(fls. 1.144).
+2. Em suas razões recursais (fls. 1.148/1.158), a parte recorrente afirma, em síntese, que a verba honorária deve ser fixada conformeo diploma processual civil vigente no momento da prolação da sentença.
+3. Pugna, desse modo, areconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora.
+4.Intimada, a Fazenda Nacional não apresentou impugnação no prazo legal, conforme certidão de fl. 1.181.
+5.É o relatório.
+6. Assiste razão à recorrente.
+7. Esta Corte Superior de Justiça  pacificou  o  entendimento  de  que  o  marco  temporal  para  a  aplicação  do  regramento  jurídico  acerca  dos  ônus  sucumbenciais  previsto  no  Código  de  Processo  Civil  de  2015  é  a  data  da  prolação  da  sentença  ou,  nos  casos  dos  feitos  de  competência  originária  dos  Tribunais,  do  ato  jurisdicional  correspondente  à  sentença.
+8.  Na  espécie,  a  sentença,  posteriormente  reformada  no  Tribunal  Regional  Federal,  foi  proferida  em 2.5.2016, ou seja,  sob  a  égide  do  Código  de  Processo  Civil  de  2015. Desse modo, o regime aplicável para fixação da verba honorária é aquele previsto no art. 85 do CPC, que teve sua vigência iniciada em 18.3.2016,e não o art. 20 do CPC/1973.
+9.  Confirmando  tal  orientação,  os  seguintes  julgados:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS.  MARCO  TEMPORAL  PARA  A  INCIDÊNCIA  DO  CPC/2015.  PROLAÇÃO  DA  SENTENÇA.
+1.  A  jurisprudência  do  STJ  se  firmou  no  sentido  de  que  a  regra  processual  aplicável,  no  que  tange  à  condenação  em  honorários  advocatícios  sucumbenciais,  é  aquela  vigente  na  data  da  prolatação  da  sentença.  Tal  entendimento  deve  ser  adotado  até  o  trânsito  em  julgado,  ainda  que  a  sentença  tenha  sido  reformada.
+2.  Na  hipótese,  a  sentença  de  primeiro  grau  foi  publicada  quando  ainda  vigente  o  CPC/1973.  Assim,  correto  o  entendimento  do  Tribunal  de  origem  que,  ao  reformar  a  sentença,  aplicou  o  regramento  disposto  no  art.  20,  §§  3º  e  4º,  do  CPC/73  para  fixar  os  honorários  advocatícios  em  favor  da  ora  agravante.
+3.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  no  REsp  1.789.749/CE,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  julgado  em  18/08/2020,  DJe  27/08/2020)
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DE  ADIMPLEMENTO  CONTRATUAL.  SUBSCRIÇÃO  DE  AÇÕES.  HONORÁRIOS  ADVOCATÍCIOS.  PERCENTUAIS  PREVISTOS  NO  CPC/73.  INOVAÇÃO  RECURSAL.  INVIABILIDADE.  VIOLAÇÃO  DO  ART.  1.022  DO  NCPC.  OMISSÃO.  INEXISTÊNCIA.  FIXAÇÃO  DA  VERBA  HONORÁRIA.  LEI  APLICÁVEL.  MARCO  TEMPORAL.  PROLAÇÃO  DA  SENTENÇA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  A  questão  da  necessidade  de  adequação  aos  percentuais  de  10%  a  20%  sobre  o  valor  da  condenação  ainda  sob  a  égide  do  CPC/73  não  foi  suscitada  no  recurso  especial,  inviabilizando  que  seja  levantada  em  agravo  interno,  por  configurar  inovação  recursal.
+3.  Inexistentes  os  vícios  elencados  no  art.  1.022  do  NCPC,  é  forçoso  reconhecer  que  a  pretensão  recursal  ostenta  caráter  nitidamente  infringente,  visando  rediscutir  matéria  que  já  havia  sido  analisada  pelo  acórdão  vergastado,  o  que  não  é  admitido.
+4.  A  prolação  da  sentença  é  o  marco  temporal  para  aferição  das  regras  processuais  aplicáveis  quanto  aos  honorários  de  sucumbência,  ainda  que  seja  posteriormente  reformada.  Precedentes.
+5.  Agravo  interno  não  provido.
+(AgInt  nos  EDcl  no  REsp  1.860.192/RS,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  15/06/2020,  DJe  18/06/2020)
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  INDENIZAÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  MARCO  TEMPORAL  PARA  A  INCIDÊNCIA  DO  CPC/2015.  PROLAÇÃO  DA  SENTENÇA.  VALOR.  RAZOABILIDADE.
+1.  A  sentença  (ou  o  ato  jurisdicional  equivalente,  na  competência  originária  dos  tribunais),  como  ato  processual  que  qualifica  o  nascedouro  do  direito  à  percepção  dos  honorários  advocatícios,  deve  ser  considerada  o  marco  temporal  para  a  aplicação  das  regras  fixadas  pelo  CPC/2015.  Precedentes.
+2.  No  caso  concreto,  quanto  aos  honorários  advocatícios  sucumbenciais,  incidem  as  regras  do  diploma  processual  anterior,  tendo  em  vista  que  a  sentença  foi  prolatada  na  vigência  do  CPC/1973,  ainda  que  tenha  sido  reformada  na  via  especial  na  égide  do  CPC/2015.
+3.  Ademais,  deve  ser  mantido  o  valor  dos  honorários  advocatícios  fixados  dentro  da  razoabilidade,  por  meio  de  apreciação  equitativa,  considerando  as  peculiaridades  do  caso  concreto.
+4.  Agravo  interno  de  fls.  702-749  a  que  se  nega  provimento.
+(AgInt  no  REsp  1.343.379/SC,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  25/06/2019,  DJe  27/06/2019).
+10. Pelas considerações expostas, conheço doAgravo Interno da contribuinte e dou-lhe provimento, para, reconsiderando a decisão de fls. 1.144/1.146, dar provimento ao seu Recurso Especial e determinar o retorno dos autos ao Tribunal de origem, o qual deverá fixar os honorários advocatícios de acordo com o disposto no art. 85 do CPC/2015.
+11.Publique-se. Intimações necessárias.
