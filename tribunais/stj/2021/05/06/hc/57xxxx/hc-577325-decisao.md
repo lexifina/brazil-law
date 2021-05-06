@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIANO FERNANDES DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais nos autos do HC n.1.0000.19.155625-7/000.
+NarraoImpetranteque o Paciente foi condenado pela suposta prática dos crimes previstos nos arts. 158, caput, do Código Penal, e 24-A da Lei n.11.343/2006, sendo-lhe imposta uma pena de 6 (seis) anos de reclusão e 3 (três) meses de detenção, além do pagamento de 32 (trinta e dois) dias-multa, em regime fechado, sendo, ainda, absolvido da imputação dos delitos de lesão corporal, cárcere privado e roubo, bem como teve sua punibilidade extinta pela decadência quanto ao crime de dano simples.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para modificar o regime de cumprimento da pena de detenção para o semiaberto e deferir a gratuidade da Justiça (fls. 31-37).
+Na execução da sanção, a Defesa requereu "a atualização do atestado de pena, pois o paciente já havia sido beneficiado com progressão de regime para o semiaberto e com a alteração do regime inicial do acórdão o paciente já faz jus ao agraciamento com o regime aberto, já que cumpriu mais de 1/6 de pena sobre a reprimenda aplicada" (fl. 8), o que foi indeferido pela Juíza da Vara de Execuções Penais.
+Impetradohabeas corpus perante o Tribunal de origem, o writnão foi conhecido. A Defesa impetrou habeas corpus neste Superior Tribunal de Justiça, no qual concedi a ordem, de ofício, para determinar aoTribunal estadualque examinassea existência de eventual flagrante constrangimento ilegal sofrido pelo Paciente, especialmente com relação à possibilidade ou não de retificação do atestado de pena.
+Ao reexaminar o pleito Defensivo, o Tribunal de Justiça do Estado de Minas Gerais denegou a ordem, em acórdão assim ementado (fl. 19):
+"EMENTA: HABEAS CORPUS - RETIFICAÇÃO ATESTADO DE PENA - DESCABIMENTO - PACIENTE COMPROVADAMENTE REINCIDENTE - PROGRESSÃO PARA O REGIME ABERTO - AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO. 1. Verificado que o paciente já cumpriu pena por condenação anterior em crime (e não apenas por contravenção penal), cuja extinção da punibilidade se deu menos de 05 anos antes do cometimento do novo crime pelo qual ele presentemente se encontra em cumprimento de pena, não há que se falar em retificação do atestado de pena, uma vez que demonstrada efetivamente a sua reincidência. 2. Considerando a reincidência do apenado, verifica-se que ele ainda não atingiu o requisito objetivo exigido para ser beneficiado com a progressão para o regime aberto."
+Nesta impetração, a Defesa alega constrangimento ilegal imposto ao Paciente, pelo "cumprimento de pena em regime mais gravoso por tempo superior ao estabelecido no Acórdão proferido pelo próprio tribunal" (fl. 9).
+Sustenta que "a condenação do processo criminal 0363.14.004077-7 é por contravenção penal, na modalidade de prisão simples e foi cometida antes do crime da condenação do processo 0704.18.007117-4 do qual foi estabelecido o regime inicial semiaberto conforme acórdão proferido por este tribunal, por essa razão não se vislumbra a reincidência por ausência de expressa previsão legal para tal modalidade" (fl. 11).
+Requer, liminarmente e no mérito, a concessão da ordem para deferir ao Paciente a progressão de regime ao aberto, com expedição do alvará de soltura.
+O pedido liminar foi indeferido (fls. 64-66).
+As informações foram prestadas às fls. 72-93.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 97-98).
+É o relatório.Decido.
+Em consulta feita no sítio eletrônico do Tribunal a quo, verifico que o Juiz da Vara de Execuções Penais da Comarca de João Pinheiro/MG, em 13/08/2020, concedeu a progressão do Paciente para o regime aberto, impondo-lhe as condições para o cumprimento da benesse, com a expedição do alvará de soltura em seu favor.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO DE REGIME. CONCESSÃO SUPERVENIENTE DE REGIME ABERTO E DE ALVARÁ DE SOLTURA. PEDIDO DE HABEAS CORPUSPREJUDICADO.
