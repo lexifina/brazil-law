@@ -1,0 +1,90 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ARBITRAL. IMPUGNAÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO REBATIDOS. SÚMULA N. 283/STF. LIQUIDEZ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. APLICABILIDADE DA SÚMULA N. 83/STJ. ALÍNEA "A". DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela liquidez da sentença arbitral. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. "Ao contrário do defendido pelo ora agravante, é possível a aplicação da Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ" (AgInt no REsp n. 1.788.335/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021).
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.795/1.800) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos.
+No recurso, a parte agravante alega ser inaplicável a Súmula n. 283 do STF, pois debateu expressamente a necessidade da suspensão do cumprimento de sentença, por diversos motivos, entre eles, atos processuais que ocorreram nestes autos durante a tramitação do processo, como a falta de aceitação de um imóvel para penhora, de forma que a execução ficou mais gravosa para a agravante. Além disso, não houve a homologação do laudo pericial de avaliação dos imóveis. Defende que o Tribunal Arbitral jamais teria competência para determinar a suspensão de um processo judicial.
+Sustenta ser inaplicável a Súmula n. 7 do STJ, estando demonstrada a necessidade de suspensão do cumprimento de sentença.
+Assevera não ser o caso de incidência da Súmula n. 83 do STJ, pois o recurso não foi interposto com base na divergência jurisprudencial.
+Ao final, pede a reconsideração da decisão agravada ou a apreciação deste recurso pelo Colegiado.
+Houve contrarrazões (e-STJ fls. 1.817/1.824).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.044.516 - SP (2017/0011879-2)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+SIDARA PARTICIPAÇÕES LTDA
+ADVOGADOS
+:
+FLÁVIO LUCAS DE MENEZES SILVA - SP091792
+CAROLINE RAMPASO DE SOUZA E OUTRO(S) - SP350065
+AGRAVADO
+:
+CAPITAL INVEST BRASIL NEGÓCIOS E INVESTIMENTOS
+ADVOGADOS
+:
+HEITOR VITOR MENDONÇA FRALINO SICA - SP182193
+MARIA PATRICIA FERREIRA PIMENTEL E OUTRO(S) - SP225796
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ARBITRAL. IMPUGNAÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO REBATIDOS. SÚMULA N. 283/STF. LIQUIDEZ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. APLICABILIDADE DA SÚMULA N. 83/STJ. ALÍNEA "A". DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela liquidez da sentença arbitral. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. "Ao contrário do defendido pelo ora agravante, é possível a aplicação da Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ" (AgInt no REsp n. 1.788.335/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021).
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A parte agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.789/1.792):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por SIDARA PARTICIPAÇÕES LTDA. contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 1.748/1.749).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.671):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA ARBITRAL Impugnação ao cumprimento de sentença Não acolhimento das razões apresentadas Nada impede que o Juízo "a quo" acolha os fundamentos da sentença da ação anulatória do título arbitral, ainda que não transitada em julgado, como razões para a formação de seu próprio convencimento Impossibilidade de se aferir, por ora, excesso de penhora, porquanto não findas as impugnações ao laudo; de todo modo, considerando os elementos já existentes nos autos, não há fundamento relevante para obstar a continuidade da execução Discordância com relação a valor que representa 0,38% do montante da execução que também não impede a continuidade Reforços de penhora bem decretados Possibilidade de rejeição de bem cuja parte é apenas promissária compradora se há outros bens com maior facilidade de alienação, nos termos da ordem de preferência do art. 655 do CPC Anotação da existência desta demanda que não traz prejuízos à agravante, por se tratar de informação pública Negado provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.698/1.702).
+Nas razões do recurso especial (e-STJ fls. 1.704/1.720), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 591, 620 e 655, XI, do CPC/1973 e 108 e 391 do CC/2002, pois a execução deve se dar de forma menos gravosa ao devedor, devendo o credor aceitar o bem dado em pagamento, dotado de escritura pública.
+Asseverou que, nos termos do art. 586 do CPC/1973, enquanto perdurar discussão acerca dos valores constantes do laudo de avaliação dos imóveis penhorados não há como se obter o valor líquido e certo da execução, sendo inviável a persecução de bens do recorrente com base em valores incertos e que, a depender do rumo que tome a discussão sobre o laudo de avaliação, poderão sofrer substanciais alterações. Entendeu ser inviável utilizar fundamentos de ação anulatória que sequer transitou em julgado, conforme art. 467 do CPC/1973.
+Afirmou ser a decisão do presente processo dependente da solução a ser dada na ação anulatória, razão pela qual deve haver suspensão dos autos do cumprimento de sentença, nos termos do art. 265, IV, "a", do CPC/1973.
+No agravo (e-STJ fls. 1.753/1.765), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 1.767/1.777).
+É o relatório.
+Decido.
+Sobre o bem oferecido e penhora, os julgadores da origem assim decidiram (e-STJ fl. 1.682/1.684):
+Unindo as mencionadas alterações provocadas pelas reformas processuais, observa-se que a ordem de preferência prevista no artigo 655 do Código de Processo Civil passou a ser endereçada ao exequente. É resguardado, entretanto, o direito do executado de impugnar a escolha realizada e requerer a substituição do bem constrito, nos termos do artigo 656, I, do mesmo diploma legal, observando-se, ainda, que persiste a ele a faculdade de indicar bens.
+Deste modo, não mais subsiste o anterior direito do executado de impor que a penhora se dê sobre o bem por ele escolhido, mas apenas uma faculdade, sendo plenamente possível a manutenção da constrição requerida pelo exequente e deferida pelo Juízo da causa, desde que respeitadas as normas processuais, porquanto é dele a iniciativa quanto à indicação do bem.
+(..)
+In casu, diferentemente do que aduz a agravante, o fato de só existirem direitos possessórios sobre o imóvel oferecido é sim um impedimento legítimo, pois são notórios os riscos que envolvem a aquisição de um imóvel que provém de um negócio jurídico ainda não findo. Não se afirma que os direitos possessórios não são penhoráveis, mas apenas que, considerando a ordem de preferência e a possibilidade de serem atendidos os interesses do credor, é possível continuar a persecução por bens cuja execução é mais fácil.
+Com efeito, estando comprovada a existência de um impedimento legítimo em relação ao bem oferecido à penhora, possível afastar a ordem de preferência. Nesse sentido:
+RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 282/STF. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE DIREITO LITIGIOSO NO ROSTO DOS AUTOS. ATO DE AVERBAÇÃO. PROCEDIMENTO DE ARBITRAGEM. POSSIBILIDADE. CONFIDENCIALIDADE. PRESERVAÇÃO. ORDEM DE PREFERÊNCIA DA PENHORA. EXCESSIVA ONEROSIDADE NÃO DEMONSTRADA. JULGAMENTO: CPC/15.
+(..)
+11. A ordem preferencial da penhora, prevista no art. 655 do CPC/73, somente poderá ser imposta ao credor em circunstâncias excepcionalíssimas, em que sua observância acarrete ofensa à dignidade da pessoa humana ou ao paradigma da boa-fé objetiva.
+12. Hipótese em que se verifica que o devedor não demonstrou, concretamente, que a penhora no rosto dos autos do crédito que eventualmente venha a lhe caber no procedimento de arbitragem se mostra excessivamente gravosa, tampouco que a medida se mostra ofensiva à sua dignidade ou ao paradigma da boa-fé objetiva, de modo a caracterizar ofensa aos arts. 620 e 655 do CPC/73.
+13. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp n. 1.678.224/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/05/2019, DJe 09/05/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO DE ATIVOS FINANCEIRO POR SEGURO GARANTIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ORDEM LEGAL DE PREFERÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Instituição financeira de grande porte apta a garantir o juízo em pecúnia, inviável a substituição de penhora em dinheiro por seguro garantia.Expressa discordância do credor, não deve ser admitida a substituição da penhora em dinheiro por seguro garantia. Matéria que demanda análise do substrato fático dos autos, providência inviável nesta sede. Incidência da Súmula 7/STJ.
+2. Nos termos da jurisprudência desta Corte "a ordem legal de preferência estabelecida no art. 655 do CPC está voltada à satisfação do credor e foi no seu interesse erigida. Em regra, revela-se inviável invocar, para a sua inversão, o quanto disposto no art. 620 do CPC." (AgRg no REsp 1285961/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/06/2014, DJe 24/06/2014).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.004.742/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 31/03/2017.)
+Incidência da Súmula n. 83 do STJ.
+Acerca da liquidez da demanda, os julgadores destacaram que "a sentença arbitral foi líquida" (e-STJ fl. 1.684). Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Sobre a viabilidade serem utilizados, nessa demanda, os fundamentos de ação anulatória não transitada em julgado, a parte indica como violado o art. 467 do CPC/1973, que dispõe que "denomina-se coisa julgada material a eficácia, que torna imutável e indiscutível a sentença, não mais sujeita a recurso ordinário ou extraordinário". Como se observa, referido artigo apenas define o que é coisa julgada, não impedindo a utilização de fundamentos de outra demanda ainda em andamento.
+A respeito da suspensão do cumprimento de sentença, o acórdão assim fixou (e-STJ fl. 1.684):
+Não há cabimento no novo pedido de suspensão da execução em razão de mais um problema apontado pela agravante relativo ao procedimento arbitral, desta vez, concernente ao modo de cálculos da cláusula penal.
+Em primeiro lugar, porque a sentença arbitral foi líquida, o que já revela alguma impossibilidade de rediscussão dos valores, tema que será abordado pelo Tribunal Arbitral. Em segundo lugar, porquanto, diante de tudo quanto já exposto no que concerne ao respeito do laudo arbitral como pressuposto, não há que se considerar qualquer simples impugnação da agravante a ele para fins de suspensão da execução, salvo se assim o próprio Tribunal Arbitrar determinar.
+Referido fundamento, a respeito da necessidade do Tribunal Arbitral determinar a suspensão da execução, não foi impugnado. Assim, remanescendo sem combate fundamento suficiente à manutenção das conclusões do acórdão recorrido, incide o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Inafastável a Súmula n. 283 do STF, pois, para fundamentar a desnecessidade de suspensão da execução, o Tribunal de origem se apoiou em dois fundamentos. Primeiro, a sentença arbitral foi considerada líquida, impossibilitando a rediscussão de valores. E segundo, a necessidade de o Tribunal Arbitral determinar a suspensão da execução não foi impugnada pela parte interessada. E referido fundamento é suficiente para manter a decisão recorrida.
+Registre-se que a impugnação apenas nas razões do presente agravo não é suficiente para afastar a deficiência verificada.
+Acerca da liquidez da sentença arbitral, observa-se que foi considerada líquida. Referido entendimento foi tomado com base nos elementos de prova dos autos, cuja análise é inviável em sede de recurso especial, conforme prevê a Súmula n. 7 do STJ.
+Por fim, "ao contrário do defendido pelo ora agravante, é possível a aplicação da Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ" (AgInt no REsp n. 1.788.335/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021).
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
