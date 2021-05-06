@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. IMPOSSIBILIDADE DE CUMPRIMENTO DA SENTENÇA. CONVERSÃO DE OFÍCIO EM PERDAS E DANOS. POSSIBILIDADE. PEDIDO DE APLICAÇÃO DO ART. 52 DA LEI N. 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211/STJ.
+AGRAVO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por SOCIEDADE INCORPORADORA RESIDENCIAL REAL GARDEN S.A. - EM RECUPERACAO JUDICIAL , contra decisão assim ementada (e-STJ, fl. 573):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO E DIREITO CIVIL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. IMPOSSIBILIDADE DE CUMPRIMENTO DA SENTENÇA. CONVERSÃO DE OFÍCIO EM PERDAS E DANOS. POSSIBILIDADE. PEDIDO DE APLICAÇÃO DO ART. 52 DA LEI N. 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+Nas razões do presente recurso, a parte agravante repisa as razões do apelo nobre e sustenta, em síntese, que "verifica-se que, a despeito de não citados explicitamente, os dispositivo de lei foram devidamente prequestionados, na medida em que sua matéria foi tratada na sentença e no acórdão" (e-STJ fl. 587).
+Sustenta, ainda, que "nos Embargos Declaratórios, demonstrou-se a omissão do Colegiado em se manifestar sobre a necessidade de pedido expresso do Exequente (no caso, dos Agravados) para que a obrigação de fazer seja convertida em perdas e danos. O v. acórdão foi omisso quanto a tal apontamento e os aclaratórios permaneceram ignorados pela Corte Local quando da análise do recurso interposto" (e-STJ, fl. 588).
+Por fim, aduz que "a conclusão do acórdão recorrido não se amolda ao entendimento desta Corte, uma vez que os ora Agravados não requereram, e tampouco foi demonstrada a impossibilidade do cumprimento da obrigação" (e-STJ, fl. 590).
+Impugnação às fls. 598/601.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. IMPOSSIBILIDADE DE CUMPRIMENTO DA SENTENÇA. CONVERSÃO DE OFÍCIO EM PERDAS E DANOS. POSSIBILIDADE. PEDIDO DE APLICAÇÃO DO ART. 52 DA LEI N. 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211/STJ.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autos é possível observar que, no que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em meroinconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+No que concerne ao mérito, o Tribunal de origem entendeu que "determinar o retorno dos autos, para que se determine o cumprimento da obrigação de fazer, nos moldes da decisão transitada em julgado, prolongaria a celeuma que se instalou entre as partes e seria inócuo para o alcance dos objetivos dos exequentes" - fl. 467, assim, por ter se tornado a obrigação impossível de ser cumprida o julgador a converteu em perdas e danos.
+Assim, o acórdão recorrido esta em consonância com a jurisprudência desta Corte, a qual entende que "a conversão da obrigação de fazer em indenização não configura julgamento extra petita. A propósito: AgInt nos EDv nos EREsp 1.364.503/PE, Rel. Ministro Francisco Falcão, Corte Especial, DJe 18/6/2018; AgRg no REsp 1.471.450/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 8/3/2016; AgRg no REsp 992.028/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 14/2/2011. Assim, pode ser aplicada a conversão da obrigação de fazer em perdas em danos, solução essa encontrada nos arts. 497, 499 e 536 do CPC/2015, independentemente de haver o titular do direito subjetivo requerido expressamente (Art. 499. A obrigação somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção de tutela pelo resultado prático equivalente)" (AgInt no REsp 1779534/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/05/2019, DJe 19/06/2019).
+Por fim, quanto a alegação de violação ao art. 52, II, da Lei n. 11.101/2005, verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
