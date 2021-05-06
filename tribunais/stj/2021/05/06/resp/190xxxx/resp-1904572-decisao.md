@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Leonel Alves de Magalhães dos Santos e outros, com amparonas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fls. 505/506):
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ARTIGOS 203, V, DA CONSTITUIÇÃO FEDERAL E LEI N.º 8.742/93. CONSECTÁRIOS. TERMO INICIAL. TERMO FINAL. JUROS DEMORA. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+1. Considerando que os recursos apresentados versam apenas sobre consectários da condenação, deixo de apreciar o mérito relativo à concessão do benefício, passando a analisar a matéria objeto dos recursos interpostos.
+2. O benefício é devido a partir da data da citação do lNSS, já que somente nessa data a autarquia tomou conhecimento do litígio e, portanto, somente em 05/10/2004 (fi. 152), o Instituto foi constituído em mora, nos termos do artigo 240 do Código de Processo Civil, sendo que deve ser mantido até 27/01/2006, dia imediatamente anterior à data do matrimônio da parte autora, eis que conforme consta no CNIS juntado às fis. 301/301vº, o marido auferia nesta época, de R$ 407,15 (quatrocentos e sete reais e quinze centavos) a R$ 477,33 (quatrocentos e setenta e sete reais e trinta e três centavos), renda superior ao salário mínimo vigente à época, que era de R$ 350,00 (trezentos e cinquenta reais),salário incompatível com a situação de hipossuficiência econômica prevista em lei.
+3. Conforme auto de constatação, à época da visita, em 20/05/2010, o cônjuge da parte autora encontrava-se desempregado, o que se confirmou através do extrato CNIS acostado à fl. 301/301v. Dessa forma, o benefício deve ser restabelecido em 20/05/2010 e cessado na data do óbito, em 04/04/20 1 1(fl.206).
+4. A correção monetária e os juros de mora serão aplicados de acordo com o vigente Manual de Cálculos da Justiça Federal, atualmente a Resolução nº 267/2013, observado o julgamento final do RE 870.947/SE em Repercussão Geral, em razão da suspensão do seu decisum deferida nos embargos de declaração opostos pelos entes federativos estaduais e INSS, conforme r. decisão do Ministro Luiz Fux, em 24/09/2018.
+5. Honorários advocatícios a cargo do INSS, fixados nos termos doartigo 85, § 3º e 4º, II, do Código de Processo Civil, observada a Súmula 111 do STJ.
+6. Apelação do INSS e da parte autora parcialmente providos.
+Os recorrentes alegam, além de divergência jurisprudencial, que foram violados os arts. 42, caput, e 43, caput, § 1º, 57, § 2º, e 60, § 1º, da Lei n. 8.213/1991.
+Defendem o direito ao benefício desde a data do requerimento administrativo e não da citação da autarquia.
+Admitido o recurso especial na origem (e-STJ, fl. 580), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Nota-se que a compreensão firmada neste Superior Tribunal sobre o termo inicial do benefício assistencial é de que deve ser a contar da data do requerimento administrativo ou, na ausência deste, da citação válida.
+Nesse sentido:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO.
+1. "(..) o termo inicial do benefício assistencial de prestação continuada, previsto no art. 20 da Lei n. 8.742/93, é a data do requerimento administrativo, e, na ausência deste, da data da citação" (REsp 1.746.544/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+2. Recurso Especial provido.
+(REsp 1.845.476/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/12/2019, DJe 25/5/2020).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. INCAPACIDADE. TERMO INICIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte pacificou o entendimento no sentido de que, "(..) na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido" (AgInt no REsp 1.617.493/SE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/04/2017, DJe 04/05/2017).
+2. In casu, colhe-se dos autos que o Tribunal a quo entendeu que, embora a doença tenha se iniciado anteriormente à data do requerimento administrativo, o laudo pericial comprovou que o início da incapacidade ocorrera somente em 25/04/2015, sendo certo que tal conclusão não pode ser alterada na via do especial, por força do óbice estampado na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.790.912/PR, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019).
+No caso, o Tribunal de origem definiu o termo inicial do benefício a contar da data da citação da autarquia sob a seguinte fundamentação (e-STJ, fls. 503/504):
+O benefício é devido a partir da data da citação do INSS, já que somente nessa data a autarquia tomou conhecimento do litígio e, portanto, somente em 05/10/2004 (fl. 152), o Instituto foi constituído em mora, nos termos do artigo 240 do Código de Processo Civil, sendo que deve ser mantido até 27/01/2006, dia imediatamente anterior à data do matrimônio da parte autora, eis que conforme consta no CNIS juntado às fls. 301/301vº, o marido auferia nesta época, de R$ 407,1 5 (quatrocentos e sete reais e quinze centavos) a R$ 477,33 (quatrocentos e setenta e sete reais e trinta e três centavos), renda superior ao salário mínimo vigente à época, que era de R$ 350,00 (trezentos e cinquenta reais), salário incompatível com a situação de hipossuficiência econômica prevista em lei.
+Dessa forma, depreende-se do excerto transcrito que, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+No ponto:
+PREVIDENCIÁRIO. TERMO A QUO DO BENEFÍCIO. AUTORA QUE NÃO COMPROVA O REQUERIMENTO ADMINISTRATIVO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Sustentou a agravante em seu recurso especial que houve divergência jurisprudencial entre o acórdão e o entendimento do STJ, no que tange à fixação do termo inicial do benefício concedido.
+2. O acórdão afirmou que a autora não comprovou que postulou por meio administrativo, conforme trecho do acórdão que ora se transcreve: "A data do início do benefício (DIB) deve ser mantida em 22.08.07", porquanto fixado a "partir da data da citação e a parte autora não trouxe prova material de requerimento postulado através da via administrativa junto ao INSS".
+3. Embora na ocasião a autora tenha corretamente oposto embargos de declaração, sob o argumento de omissão do acórdão no que concerne ao fato de o requerimento administrativo encontrar-se à fl. 28, o Tribunal não sanou referido vício. Cabia à autora alegar violação do art. 535 do CPC, mas não o fez. Assim, ante o óbice da Súmula 7/STJ, descabe ao STJ adentrar no universo fático-comprobatório para descobrir se a autora requereu administrativamente o benefício.
+Agravo regimental improvido. Prejudicado o agravo regimental do INSS.
+(AgRg nos EDcl no REsp 1.360.610/MS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/4/2013, DJe 17/6/2013).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. FIXAÇÃO DO TERMO INICIAL DO BENEFÍCIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem fixou as datas de início dos benefícios de auxílio-doença e aposentadoria por invalidez concedidos à agravante com base nos marcos em que comprovado o preenchimento dos requisitos legais para tanto. Rever o entendimento consignado, portanto, requer revolvimento do conjunto fático-probatório dos autos, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1.662.267/SP, Rel. Min.BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 5/4/2018, DJe 17/4/2018).
+Por fim, relativamente ao apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do Enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
