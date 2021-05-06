@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por VIA FÉRTIL PRODUTOS AGROPECUÁRIOS LTDA, com o fito de suspender a decisão que, nos Autos do Pedido de Tutela Cautelar em Caráter Antecedente no 1000394-60.2021.8.11.0005, manejado em face de ALEX KRANSCZAK, BRUNO KRANSCZAK, ANILDO GARCIA KRANSCZAK e MARIA OLIVEDE RODRIGUES GARCIA KRANSCZAK, deferiu parcialmente o pedido de tutela cautelar, tendo autorizado o arresto de apenas metade do produto agrícola devido, mais precisamente 2.167 (duas mil, cento e sessenta e sete) sacas de soja de 60Kg cada, referente CPR n° 005/CPN/2021.
+Para tanto, aduz a agravante que o Juízo de origem incorreu em equívoco, visto que, deferiu o arresto apenas da safra 2020/2021, indeferindo o pedido do arresto da safra 2019/2020, sob o argumento que estava vencida há mais de 1 (um) ano.
+Narra que, na data de 05 de novembro de 2019, os Agravados, na condição de devedores e coobrigados solidários, se comprometeram ao cumprimento das Cédulas de Produto Rural (CPRs) nso 037/CNP/2020 e 005/CNP/2021, com vencimento para 28 de fevereiro de 2020 e 28 de fevereiro de 2021, respectivamente, somando a quantia total de 5.634 (cinco mil, seiscentos e trinta e quatro) sacas de soja de 60 kg cada.
+Assevera que, todos os requisitos da tutela judicial requestada foram devidamente verificados, não havendo qualquer embaraço legal para o deferimento do arresto, concernente ao produto agrícola devido.
+Pugna pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+A respeito da tutela judicial discutida, infere-se do artigo 301 do Código de Processo Civil que o juiz poderá servir-se de medidas cautelares que busquem assegurar o direito pleiteado pela parte, mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação fiduciária de bem ou qualquer outra medida idônea equivalente.
+Para a concessão da tutela cautelar, a parte deverá comprovar o preenchimento dos requisitos do artigo 300 do CPC, quais sejam o grau de probabilidade do direito invocado e o perigo de dano ou risco ao resultado útil do processo.
+A propósito:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Nesse contexto, milita em favor da agravante, não só a aparência do bom direito, mas também, o perigo de dano irreparável e de difícil reparação, requisitos que justificam a concessão da liminar recursal pretendida.
+No caso em tela, a probabilidade do direito está consubstanciada na inadimplência dos agravados, relativa à CPR no 037/CNP/2020, referente à safra 2019/2020, com vencimento para 28 de fevereiro de 2020, com penhora cedular em primeiro grau, conforme se infere da leitura do referido título, no id no 49812972.
+Na mesma esteira, mostra-se o requisito do perigo de dano, em razão do prejuízo suportado pela empresa agravante, com a inadimplência dos agravados, quanto ao fornecimento de vultuosa quantia de produto agrícola que não foram entregues no prazo convencionado.
+Ante o exposto, CONCEDO A LIMINAR para reformar a decisão de base e determinar que a cautelar de arresto parcialmente deferida, na origem, também contemple a quantidade de produtos agrícolas da CPR no 037/CNP/2020, com vencimento no dia 28.02.2020.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
