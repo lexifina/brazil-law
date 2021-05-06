@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deMAURO SERGIO PASTREZem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2293808-46.2020.8.26.0000).
+O paciente teve a prisão temporária convertida em preventiva diante de representação da autoridade policial (fls. 118-124), por suposta prática dos delitos de tráfico de drogas e de associação para o tráfico.
+O decreto prisional fundou-se na apreensão de entorpecentes - 442,24g em um tablete de maconha -, nos depoimentos dos usuários de drogas, no envolvimento com a mercancia de drogas em grande escala, bem como na necessidade de garantia da conveniência da instrução criminal.
+O Tribunal de origem manteve a custódia cautelar, tendo em vista a inexistência de flagrante constrangimento ilegal.
+A defesa alega que o paciente não foi preso em flagrante nem foram apreendidas drogas em seu poder.
+Aduz que a prisão preventiva carece de fundamentação concreta e que os requisitos autorizadores da segregação cautelar estão ausentes.
+Sustenta que a tipificação do art. 33 da Lei n. 11.343/2006 é equivocada e prematura, umavez que possui semelhança com a tipificação descrita no art. 28 da Lei n. 11.343/2006.
+Ressalta que o paciente é primário e exerce atividade lítica, sendo a prisão cautelar desproporcional diante de eventual condenação.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 149-150.
+As informações foram prestadas às fls. 154-157e 158-254.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 258-265).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Em consulta ao sistema do STJ, observa-sequea fundamentação da prisão preventiva já foianalisadapor esta Corte, inclusive com trânsito em julgado da decisão no HC n. 616.865/SP - que possui as mesmas partes, causa de pedir e pedido. Transcrevo trecho da referida decisão:
+ ..  Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício de flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 114):
+As teses aqui expostas não têm o condão de ensejar a imediata libertação de MAURO. Por primeiro, o remédio heroico não é o ambiente processual adequado para se avaliar os elementos de convicção que pesam contra o paciente, o que significaria uma verdadeira antecipação do próprio mérito das acusações. Mas, de qualquer modo, o indispensável exame das peças que instruem o procedimento pré-processual já é suficiente para indicar, sem hesitações, a presença da justa causa para a ação penal e, em consequência, para também afirmar os pressupostos da prisão preventiva. Ora, há conversas interceptadas entre o paciente e pelo menos mais um componente da associação criminosa. Além disso, em data recente o paciente teria sido surpreendido por policiais militares na posse de alentada quantidade de maconha (442,24 gramas) que estaria sendo trazida de outra cidade, e da qual se desfez a tempo de não ser levado preso em flagrante.
+No presente caso, a quantidade de entorpecentes apreendida (442,4g de maconha) foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva. Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020;e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Não visualizo, assim, ilegalidade ou abuso de poder que justifique a concessão da ordem de ofício.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.  ..
+Neste ponto, não se pode processar o presente writ por consubstanciar mera reiteração de pedido anteriormente decidido pelo STJ.
+Quanto à alegação de o paciente não ter sido apreendido com drogas em seu poder,à proporcionalidade da custódia em relação a eventual condenaçãoe ao pedido de desclassificação da conduta para a doart. 28 da Lei n. 11.343/2006,taisquestõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, o writ tambémnão merece conhecimento.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
