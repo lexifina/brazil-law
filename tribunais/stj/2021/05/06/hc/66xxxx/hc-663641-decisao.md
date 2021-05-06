@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VILSON JOSÉ DE LIMAcontra decisão de Desembargador do Tribunal de Justiça do Estado do Paraná, Relator do HC n. 0024935-54.2021.8.16.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar do paciente pela suposta prática dodelitotipificadonoart. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, o impetrante alega, em suma, ausência de motivação válida para a prisão cautelar. Afirma que o réu possui residência fixa e ocupação lícita, o que lhe garante a substituição da custódia preventiva por outras medidas alternativas.
+Requer, em liminar e no mérito, a colocação do paciente em liberdade.
+É o relatório.
+Decido.
+Nos termos da Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018; AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+"Os impetrantes buscam a concessão liminar da ordem de e, para isso, sustentam que não habeas corpus estão preenchidos os requisitos para a prisão preventiva e que o decreto prisional não foi suficientemente fundamentado. Todavia, salienta-se que a concessão da liminar pretendida dependeria de haver elementos muito convincentes, e indiscutíveis, para demonstrar que está cabalmente configurado algum constrangimento ilegal, o que não ocorre no presente caso.
+Como a competência para o julgamento do é do órgão colegiado (no caso, a Câmara), a Habeas Corpus tomada de decisões isoladas pelo relator é possível somente em situações excepcionais, sob pena de subtração da competência.
+As alegações que amparam a impetração não revelam, por si sós, a existência de coação ilegal, a justificar providência liminar, antes do exame do presente mandamus pela Câmara.
+Ademais, verifica-se que para decretar a prisão preventiva o MM. Juiz, a quo além de ressaltar a existência de prova da materialidade do delito e de indícios suficientes de autoria dos fatos pelo paciente, expôs (mov. 24.1 dos autos nº 0004869-19.2021.8.16.0173):
+"a prisão preventiva se mostra necessária para garantia da ordem pública em razão da elevada quantidade de entorpecente apreendida, a demonstrar a gravidade em concreto do delito e seu cometimento reiterado por possível organização criminosa, o que se extrai do modus operandi descrito pelos policiais responsáveis pela prisão.
+3.3.1 Com efeito, foram apreendidos expressivos 30 quilos de skank, quantidade muito superior ao que usualmente se encontra, a mostrar que se trata de delito de especial gravidade e relevo. Ademais, trata-se de substância entorpecente exótica, não encontrada comumente, o que também denota a peculiar situação aqui tratada, a evidenciar um possível envolvimento mais profundo do flagranteado com a criminalidade organizada.
+(..)
+3.3.4 Ademais, as testemunhas ouvidas relataram que o flagranteado disse que vinha da região de Aral Moreira/MS, local que faz fronteira com o Paraguai, especificamente com a região de maior produção de maconha no país vizinho, o que também mostra vínculo com as organizações produtivas e distribuidoras desse tipo de droga.
+3.3.5 Essa estruturada maneira de cometimento de delito grave, portanto, também é fundamento idôneo a justificar a decretação da segregação cautelar, consoante escólio jurisprudência".
+Como se pode perceber, a r. decisão foi devidamente fundamentada na necessidade da prisão para a garantia da ordem pública em razão do (transporte interestadual de grande quantidade de modus operandi substância entorpecente escondida dentro do pneu do caminhão) e de indicativos de prática do delito deforma habitual e organizada.
+E, ao contrário do que alegam os impetrantes, o paciente foi preso em flagrante enquanto realizava o transporte de grande quantidade de substância entorpecente.
+Isso demonstra, em um primeiro momento, a existência de elementos indicativos da maior gravidade da conduta e revela-se suficiente para autorizar a prisão cautelar.
+E, porque a prisão é necessária para a garantia da ordem pública, não há que se falar em fixação medidas cautelares alternativas, uma vez que não se mostram eficazes. Outrossim, a prisão preventiva é medida devidamente autorizada por lei e, por isso, não há que se falarem afronta ao princípio da presunção de inocência, mormente porque se trata de medida de natureza cautelar, e não decorrente da formação da culpa, e porque no caso em exame não se constata nenhuma ilegalidade na decisão que a fundamentou.
+Por fim, ressalta-se que as alegações de que o paciente possui residência fixa e trabalho lícito não são suficientes, por si sós, a garantir a liberdade provisória.
+Nesse sentido:
+"HABEAS CORPUS CRIME. TRÁFICO DE ENTORPECENTES. INDÍCIOS FORTES DE AUTORIA EMATERIALIDADE. ANALISE APROFUNDADA DE AUTORIA QUE NÃO CABE EM EXAME DEHABEAS CORPUS. PRESENÇA DE CONDIÇÕES FAVORÁVEIS QUE POR SI SÓ NÃO ENSEJAM ALIBERDADE PROVISÓRIA. HABEAS CORPUS CONHECIDO E DENEGADO."(TJPR, 4ª CCr, HC 0018140-37.2018.8.16.0000, Rel. Juiz Antônio Carlos Ribeiro Martins, DJPR 12/06/2018).
+Assim, não se reconhece, neste momento, a existência do alegado constrangimento ilegal.
+Indefiro, pois, a liminar pretendida.
+Da leitura atenta da decisão impugnada, observa-se que a custódia cautelar está motivada na garantia da ordem pública.Assim, por ora, não se verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do STJ.
+Publique-se. Intime-se.
