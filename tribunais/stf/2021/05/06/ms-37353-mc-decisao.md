@@ -1,0 +1,39 @@
+D E C I S Ã O
+    Cuida-se de mandado de segurança, com pedido de liminar, impetrado por Hilma Izabel Campos Meda, contra ato atribuído ao Presidente do Tribunal de Contas da União – TCU, consubstanciado em acórdão que (a) negou registro a ato inicial de concessão de pensão militar, decorrente de reversão, por entender que referido benefício não pode ser percebido concomitantemente ao recebimento de proventos de aposentadoria oriundos de cargos acumuláveis; (b) determinou a suspensão do seu pagamento e (c) impôs à impetrante a opção pelos proventos de aposentadoria ou proventos relativos à pensão militar.
+    Contra referido acórdão, a parte impetrante apresentou pedido de reexame, ao qual foi negado provimento (Evento 39).
+    Narra a impetrante que o órgão coator reputou ilegal o recebimento de pensão militar por considerá-lo incompatível com a percepção conjunta de dois proventos de aposentadoria decorrentes de cargos de magistério, com base no art. 29 da Lei 3.765/60.
+    Sustenta que a Corte de Contas deixou de observar que ambos os proventos decorrem do mesmo cargo (professor classe I), sendo um relativo à aposentadoria com proventos proporcionais e outro com proventos integrais.
+    Aduz que, ainda que se considerassem como decorrentes de cargos distintos, a Constituição Federal autoriza a percepção de dois proventos de aposentadoria, se decorrentes de cargos acumuláveis, como são os cargos de professor.
+    Pondera que a proibição contida no art. 29 da Lei Lei 3.765/60, que veda a cumulação de uma pensão militar com proventos de aposentadoria, deve ser lida à luz dos preceitos constitucionais que permitem a percepção conjunta de benefícios de aposentadoria decorrentes de cargos acumuláveis.
+    Requer, desse modo, a tutela de urgência, a fim de assegurar à impetrante a continuidade do recebimento da pensão militar, sem ter de renunciar aos proventos de aposentadoria.
+    Postula, ao final, a confirmação da medida liminar e a concessão da segurança.
+    É o relatório. Decido.
+    Reputo cabível a concessão da liminar.
+    O acórdão impugnado funda-se, tão somente, na norma contida no art. 29 da Lei 3.765/60, que possui a seguinte redação, dada pela Medida Provisória nº 2.215-10, de 31/08/2001 :
+    Art.29. É permitida a acumulação:
+    I- de uma pensão militar com proventos de disponibilidade, reforma, vencimentos ou aposentadoria;
+    II- de uma pensão militar com a de outro regime, observado o disposto no art. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federalart. 37, inciso XI, da Constituição Federal.”
+    Considerou a Corte de Contas que referido preceptivo autoriza a acumulação de pensão militar com apenas um provento de aposentadoria, ainda que se esteja diante de hipótese de percepção conjunta de benefícios de aposentadoria decorrentes de cargos acumuláveis na forma do art. 37, XVI, da Constituição da República.
+    A esse respeito, assim consignou o voto condutor do acórdão ora combatido:
+    “Aqui, não se discute eventual inconstitucionalidade da acumulação dos cargos de professor, tampouco compatibilidade de horários ou regra de transição de emenda constitucional. O óbice suscitado é de ordem estritamente legal. Trata-se, apenas, de observância da regra fixada pelo legislador ordinário para definir os destinatários de peculiar benefício previdenciário”
+    Contudo, não vejo como extrair do citado dispositivo, ao menos nesse juízo preliminar, a extensão pretendida pelo TCU, sobretudo tendo em consideração o histórico de alterações redacionais do texto normativo em questão.
+    Deveras, antes da alteração promovida pela Medida Provisória nº 2.215-10, o art. 29 da Lei 3.765/60 possuía a seguinte redação original:
+    “Art. 29. É permitida a acumulação:
+    a) de duas pensões militares;
+    b) de uma pensão militar com proventos de disponibilidade, reforma, vencimentos, aposentadoria ou pensão proveniente de um único cargo civil”
+    Note-se que o dispositivo em questão oferecia amparo, ao menos no plano textual, à compreensão manifestada pelo TCU no acórdão questionado, no sentido de não ser possível a acumulação de pensão militar com proventos provenientes de dois cargos civis, ainda que acumuláveis na forma da Constituição.
+    Penso, entretanto, que a alteração redacional trazida pela multicitada Medida Provisória não pode ser desprezada. Tenho para mim, nesse juízo precário de cognição, que a alteração no texto legal, com a supressão da locução “proveniente de um único cargo civil”, teve por intuito justamente explicitar que o óbice legal não se aplica às situações constitucionalmente permitidas de acumulação de cargos estatutários.
+    De toda sorte, ainda que assim não fosse, é evidente que preceitos legais devem ser sempre interpretados à luz das disposições constitucionais. Ainda que vigorasse a redação antiga, ou ainda que se entenda que a nova redação não se aplica ao caso vertente (por ter o óbito do instituidor da pensão ocorrido antes da alteração legislativa), não me parece intuitivo supor que uma situação amparada no Texto Maior pudesse encontrar óbices para sua plena fruição em norma de hierarquia inferior.
+    Anoto, ainda, que a controvérsia ora em discussão já foi objeto de exame pela Segunda Turma desta Corte no julgamento do RE 1.264.122/RJ -AgR, que recebeu a seguinte ementa:
+    “EMENTA : AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROFESSORA MUNICIPAL. ACUMULAÇÃO DE DUAS APOSENTADORIAS COM PENSÃO MILITAR. CARGOS ACUMULÁVEIS. INGRESSO NO CARGO PÚBLICO ANTES DA EC 20/98. POSSIBILIDADE. INAPLICABILIDADE DO TEMA 921 DA REPERCUSSÃO GERAL. ARE 848.993-RG. QUESTÃO AFASTADA NO JUÍZO DE RETRATAÇÃO. MATÉRIA DIVERSA. OFENSA REFLEXA E REEXAME DE FATOS E PROVAS. SÚMULA 279. AGRAVO REGIMENTAL NÃO PROVIDO. PRECEDENTES.
+    1. O Tribunal de origem não divergiu do entendimento firmado pelo Supremo Tribunal Federal no sentido da possibilidade de acumulação de remunerações de cargos constitucionalmente acumuláveis ou de proventos com pensão por morte de militar. Inaplicável, ao caso, o Tema 921 da repercussão geral, por se tratar de questão diversa.
+    2. A discussão posta no recurso extraordinário sobre o critério da razoabilidade e da moralidade quanto à matéria disciplinada na Lei Federal 3.765/1960, referente ao percebimento máximo de rendas advindas dos cofres públicos, no caso, demandaria a análise da legislação infraconstitucional aplicável à espécie, além do reexame de fatos e provas (Súmula 279 do STF).
+    3. Agravo regimental a que se nega provimento.”
+    Em face do exposto, defiro o pedido de liminar para suspender os efeitos da decisão proferida no TC nº 176/2019 no ponto em que determinara à Subdiretoria de Inativos e Pensionistas do Comando da Aeronáutica que procedesse à imediata interrupção do pagamento do benefício em análise, assegurando à impetrante a continuidade de recebimento de seus proventos de pensão militar.
+    Oficie-se à Subdiretoria de Inativos e Pensionistas do Comando da Aeronáutica, para dar-lhe ciência desta decisão.
+    Dê-se ciência à Advocacia-Geral da União, para os termos do art. 7º, inc. II, da Lei nº 12.016/09.
+    Após, colha-se a manifestação do Ministério Público Federal (art. 12 da Lei nº 12.016/09).
+    Publique-se. Intime-se
+    Brasília, 06 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
