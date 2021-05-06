@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Cia Hering, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do TRF da 4ª Regiãoassim ementado (e-STJ, fl. 1.768):
+MANDADO DE SEGURANÇA. PAGAMENTO DE CRÉDITOS. DIREITO NEGADO POR DECISÃO ADMINISTRATIVA. AUSÊNCIA DE ILEGALIDADE DO ATO COATOR.
+É de ser denegado mandado de segurança impetrado contra ato do Delegado da Receita Federal que deixa de efetuar o pagamento de valores, fundado em decisão do Conselho de Contribuintes que negou o direito de crédito ao contribuinte, não cabendo à autoridade impetrada, fazer interpretações do alcance dos votos proferidos pelos conselheiros ou reconhecer a invalidade do resultado do acórdão proclamado.
+Os embargos de declaração opostos contra a aludida decisão foram improvidos.
+A recorrente alega a existência de contrariedade aos arts. 489, II e III, § 1º, I, III, IV e V, e 927, § 1º, do CPC/2015, ao argumento de que houve omissãoacerca do equívoco na contagem dos votos proferidos no Processo Administrativo.
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+Memoriais apresentados às e-STJ, fls. 1.963-1.978 e 1.981-1.991.
+É o relatório.
+Não merece prosperar a tese de violação aos arts. 489, II e III, § 1º, I, III, IV e V, e927, § 1º, do CPC/2015, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do aresto impugnando (e-STJ, fls. 1.773-1.774):
+Ficando o Delegado da Receita Federal vinculado ao que efetivamente consta do acórdão, não há nenhuma ilegalidade no ato impugnado, que indeferiu o pedido de pagamento de crédito, ao fundamento de que a discussão já foi objeto de decisão administrativa definitiva, em que houve decisão favorável à União (evento 1 - OUT24). De fato, não cabia ao Delegado da Receita Federal, responsável por executar a decisão do Conselho de Contribuintes, fazer interpretações sobre o alcance dos votos proferidos pelos conselheiros. É que, ao contrário do que alega a impetrante, a conclusão sobre equívoco no dispositivo não decorre de simples inexatidão material no dispositivo, verificável de plano, mas depende de se verificar qual a natureza dos pedidos de compensação (se principais ou alternativos) e qual o conteúdo do voto da Conselheira Silvia de Brito Oliveira (se teria rejeitado os supostos pedidos alternativos de compensação e, com isso, teria implicitamente acolhido pedido principal de pagamento do crédito em espécie).
+De fato, tais questões, por consistirem erro de julgamento ou erro de fato, somente poderiam ser examinadas mediante os recursos cabíveis. No caso, a impetrante interpôs embargos de declaração, mas eles foram fundamentadamente rejeitados, concluindo a decisão o seguinte (evento 1 - PROCADM33):
+(..)
+Ora, não cabia à autoridade impetrada reajustar o conteúdo da decisão ou considerar inválida a proclamação do resultado do acórdão, de modo que é infundada a pretensão da parte impetrante.
+Tudo leva a crer que ela tenha buscado essa alternativa (impetração de mandado de segurança para obrigar o Delegado da Receita Federal ao pagamento de créditos em seu favor, alegando inexatidão material) porque isso levaria à obtenção de resultado favorável, independentemente de análise judicial sobre o direito ao crédito e independentemente do resultado desfavorável no processo administrativo.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhum vício passível de exame em embargos de declaração.
+No aspecto:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. ART. 48, "CAPUT", E § 3o DA LEI 8.213/91. ATIVIDADE RURAL E URBANA COMPROVADAS. INÍCIO DE PROVA MATERIAL CORROBORADA POR PROVA TESTEMUNHAL. CONCOMITANTE EXERCÍCIO DE ATIVIDADE URBANA OU RURAL COM O IMPLEMENTO DO REQUISITO ETÁRIO. INEXIGIBILIDADE. REQUISITOS PREENCHIDOS. BENEFÍCIO DEVIDO.
+1. Não se configura a ofensa ao art. 1022 do atual Código de Processo Civil, haja vista que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Com efeito, o acórdão recorrido foi claro ao decidir que é factível a aposentadoria por idade híbrida, possibilitando a contagem cumulativa do tempo de labor urbano e rural, para fins de aposentadoria por idade.
+2. Extrai-se do acórdão vergastado que o entendimento do Tribunal de origem está em consonância com a orientação do STJ de que o tempo de serviço rural anterior ao advento da Lei 8.213/91 pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições.
+3. Outrossim, depreende-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar se foram preenchidos os requisitos para a concessão da aposentadoria por idade híbrida, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido, com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(REsp 1.789.828/MS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23/4/2019).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
