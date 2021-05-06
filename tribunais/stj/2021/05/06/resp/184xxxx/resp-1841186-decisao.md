@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ,com fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 1.291/1.294, in verbis:
+Trata-se de recurso especial (e-STJ fls. 1227/1248) interposto pelo Ministério Público do Estado do Paraná, buscando desconstituir acórdão proferido pelo Egrégio Tribunal de Justiça daquele Estado.
+Consta nos autos que o ora Recorrido foi condenado à pena de 19 anos e 03 meses de reclusão, em regime inicial fechado, por ter cometido o crime previsto no art. 121 § 2º, IV, do Código Penal (e-STJ fls. 996/997).
+Contra essa decisão, a Defesa recorreu, tendo a 1ª Câmara Criminal do TJ/PR, por unanimidade, dado parcial provimento ao apelo defensivo, para reduzir a pena do ora Recorrido para 16 anos, 07 meses e 15 dias de reclusão, em regime inicial fechado (e-STJ fl. 1125).
+Irresignado o Ministério Público Estadual opôs dois embargos declaratórios, tendo a 1ª Câmara Criminal do TJ/PR rejeitado ambos os recursos.
+Contra essas decisões, o ora Recorrente interpôs recurso especial com fulcro no art. 105, inc. III, alínea "a", da CF/88, alegando ter havido, no acórdão vergastado, violação ao art. 59, do Código Penal.
+O Órgão Ministerial sustenta que:
+"Em suma, evidente que a fundamentação utilizada pelo juiz sentenciante não é só correta como recomendável pela Corte Superior, de modo que deve ser estabelecida a exasperação da pena na culpabilidade pelo número excessivo de disparos efetuados pelo réu.
+ ..  a Corte Superior também possui entendimento de que o grau de parentesco leva à maior reprovabilidade da conduta, tendo efeitos jurídicos na culpabilidade do art. 59, CP
+ ..
+Em razão do exposto, a conduta perpetrada pelo agente também deve ser desvalorada pela relação familiar que possuía com a vítima, sendo a pena redimensionada da forma que foi estabelecida na sentença de primeiro grau" (e-STJ fls. 1244/1247).
+Ao final, pugna para que seja reformado "(..) o acórdão reprochado do Tribunal de Justiça do Estado do Paraná, mantendo como desfavorável ao réu o vetor da culpabilidade, pelo excessivo número de disparos efetuados e pelo grau de parentesco que compartilhava com a vítima, tal como procedeu o primeiro grau, pois restou violado o art. 59, do CP" (e-STJ fl. 1248).
+O apelo especial foi admitido (e-STJ fls. 1270/1273), tendo o Recorrido apresentado contrarrazões (e-STJ fls. 1256/1267).
+Eis o relatório. OPINO.
+O ParquetFederal opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, "a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 1661671/PB, relatorMinistro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+Praticada a infração penal, surge para o Estado o direito de aplicar a sanção penal abstratamente cominada, modo de retribuir o mal causado pelo acusado e meio supostamente eficiente de evitar a reincidência. Nesse tear, demanda-se a estrita observância do devido processo legal, que se encerra com a sentença, ato judicial que aplica ao acusado a reprimenda individualizada de acordo com a gravidade do delito e com as condições pessoais do sentenciado.
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+Sendo assim, "a valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp n. 1672105/MS, relatorMinistro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 1º/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Acerca das consequências, ficou registrado o trauma psicológico sofrido pelas vítimas - especialmente a que estava grávida de seis meses à época da ação criminal, que declarou que o bebê, após o crime, não manteve a taxa de crescimento e o peso esperado, nascendo abaixo do peso normal.
+2. As instâncias antecedentes apresentaram motivação idônea para a exasperação da pena-base do paciente, baseada em elementos concretos dos autos - os prejuízos materiais e extrapatrimoniais suportados pelas vítimas.
+3. Agravo regimental não provido.
+(AgRg no HC 490.633/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019)
+De acordo com a orientação desta Casa, a circunstância judicial da culpabilidade pode ser compreendida comomaior ou menor censurabilidade do comportamento do agente,maior ou menor reprovabilidade da conduta praticada. Sendo assim, na análise dessa circunstância deve-se "aferir o maior ou menor índice de reprovabilidade do agente pelo fato criminoso praticado, não só em razão de suas condições pessoais, como também em vista da situação de fato em que ocorreu a indigitada prática delituosa, sempre levando em conta a conduta que era exigível do agente, na situação em que o fato ocorreu" (DELMANTO, Celso. Código Penal Comentado. 8. ed. São Paulo: Saraiva, 2010. p. 273).
+Assim, "o fato do réu ter desferido vários disparos, os quais acertaram a vítima na cabeça, pescoço e ombros e região pubiana" (e-STJ fl. 1123),evidenciam maior reprovabilidade da conduta.
+Nesse sentido:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E HOMICÍDIO CULPOSO.PENA-BASE. VÍCIO DE FUNDAMENTAÇÃO. AFASTAMENTO DA CULPABILIDADE E DAS CONSEQUÊNCIAS NEGATIVAS DO CRIME. CONFISSÃO QUALIFICADA.INCIDÊNCIA DO ART. 65, III, "D", DO CP. CAUSA DE AUMENTO DO ART.121, § 4º, DO CP. CARACTERIZAÇÃO. DIMINUIÇÃO MÁXIMA PELA TENTATIVA.ITER CRIMINIS. ORDEM PARCIALMENTE CONCEDIDA PARA CORRIGIR ILEGALIDADES NA DOSIMETRIA.
+1. Por ocasião da análise das circunstâncias judiciais estabelecidas no art. 59 do Código Penal, o órgão jurisdicional tem o dever de motivar, com lastro em elementos concretos dos autos, eventual elevação da pena-base.
+2. O registro de elemento secundário mais grave da conduta, a denotar modus operandi incomum do homicídio culposo e do homicídio qualificado tentado (elevado número de tiros), justifica a análise negativa das circunstâncias dos crimes.
+ ..
+9. Ordem parcialmente concedida para afastar a consideração negativa das circunstâncias judiciais do art. 59 do CP relacionadas às consequências dos crimes e à culpabilidade, reconhecer a confissão espontânea e diminuir a pena do crime de homicídio qualificado no grau máximo, em razão da tentativa.
+(HC 391.990/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/10/2018, DJe 07/11/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS TENTADO E CONSUMADO. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. QUALIFICADORA SOBRESSALENTE UTILIZADA PARA AUMENTAR A PENA-BASE. LEGALIDADE.
+1. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. No caso, o acórdão recorrido se firmou em fundamentos suficientes e idôneos para exasperar a pena-base, valorando negativamente os antecedentes, a culpabilidade e as consequências do delito. Com efeito, a Corte estadual explicitou a maior reprovabilidade na conduta do agravante, uma vez que foram efetuados diversos disparos contra as três vítimas. Quanto ao demérito dos antecedentes não se insurge a defesa.
+3. Pertinente às consequências, a jurisprudência desta Casa firmou-se no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas pode ser utilizada para qualificar o delito e a outra para exasperar a pena-base.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1142178/ES, de minha relatoria, SEXTA TURMA, julgado em 13/03/2018, DJe 26/03/2018)
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
