@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDITORA GRÁFICOS BURTI LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO RECUPERAÇÃO JUDICIAL HABILITAÇÃO DE CRÉDITO TRABALHISTA INSURGÊNCIA DA RECUPERANDA REJEIÇÃO ADEQUAÇÃO DOS CÁLCULOS HOMOLOGADOS AO ART 9 II DA LEI FEDERAL N 111012005 RECUPERANDA QUE NADA COMPROVOU EM SENTIDO CONTRÁRIO DECISÃO MANTIDA RECURSO NÃO PROVIDOAGRAVO DE INSTRUMENTO RECUPERAÇÃO JUDICIAL HABILITAÇÃO DE CRÉDITO TRABALHISTA INSURGÊNCIA DA RECUPERANDA REJEIÇÃO ADEQUAÇÃO DOS CÁLCULOS HOMOLOGADOS AO ART 9 II DA LEI FEDERAL N 111012005 RECUPERANDA QUE NADA COMPROVOU EM SENTIDO CONTRÁRIO DECISÃO MANTIDA RECURSO NÃO PROVIDO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 9º, II da Lei 11.101/05, no que concerne à necessidade de realização de novos cálculos, trazendo os seguintes argumentos:
+Conforme verificado, os. V. ac órdãos recorridos entenderam pela manutenção do valor do crédito encontrado pelo Administrador Judicial em Recorrida.
+favor da Entretanto, cumpre informar que ao negar provimento ao recurso da Recorrente, o E. TJSP negou vigência artigo 9 2 , II da Lei 11.101/05, conforme será demonstrado.
+O artigo violado dispõe o seguinte:
+Art. 9 A habilitação de crédito realizada pelo credor nos termos do art. 70, § 1º, desta Lei deverá conter:
+II - o valor do crédito, atualizado até a data da decretação da falência ou do pedido de recuperação judicial, sua origem e classificação;
+Acontece que o E. TJSP entendeu por manter a decisão de primeiro grau que determinou a inclusão da quantia de R$ 93.050,77 (noventa e três mil e cinquenta reais e setenta e sete centavos) no rol dos credores trabalhistas em favor da recorrida.
+Entretanto, conforme demonstrado, na Certidão de Crédito Trabalhista o valor tudo como principal do crédito da Recorrida em 01/08/2015 - data posterior ao ajuizamento da recuperação judicial - era de R$ 98.202,21 (noventa e oito mil, duzentos e dois reais e vinte e um centavos):
+ ..
+Acontece que, ao realizar os cálculos, o Administrador Judicial utilizou como valor a ser corrigido a quantia de R$ 101.991,02 (cento e um mil, novecentos e noventa e um reais e dois centavos), que não possui qualquer relação com o crédito da Recorrida:
+ ..
+Ou seja, ao invés de ter sido utilizada a quantia de R$ 98.202,21 (noventa e oito mil, duzentos e dois reais e vinte e um centavos), conforme consta na Certidão de Crédito Trabalhista, o Administrador Judicial utilizou valor desconexo com o que consta na documentação apresentada pela Recorrida.
+Veja que, a manutenção das r. decisões, além de favorecerem unicamente a Recorrida, tendo em vista que está sendo incluído valores que não lhe são devidos, contrariam o disposto no artigo 9º, II da Lei 11.101/05 já que utilizou valor diverso no constante na na Certidão de Crédito Trabalhista para a atualização.
+Portanto, pelo exposto, temos que os v. ac órdãos recorridos não merecem prosperar, vez que contrariam a lei cogente, motivo pelo qual requer a Recorrente o provimento do presente Recurso determinar que sejam realizados novos cálculos, utilizando- se a quantia de R$ 98.202,21 (noventa e oito mil, duzentos e dois reais e vinte e um centavos) como termo inicial para a atualização do crédito (fls. 173/175).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+II) Isso porque os cálculos periciais de fls. 48/49 originais, em que se embasou a r. decisão recorrida e que apuraram um crédito em favor do agravado no valor de R$ 93.050,77, foram elaborados pelo perito José Vanderlei Masson dos Santos, à evidência, com a realização de adequação do valor de R$ 101.991,02 (correspondente ao valor líquido de R$ 98.202,21, apurado em 21/11/2014, atualizado até 01/08/2015 conforme sentença copiada às fls. 24/25 originais e certidão da Justiça Trabalhista de fls.
+26/27 originais) aos termos do art. 9º, II, da lei Federal n.º 11.101/2005, ou seja, até a data do pedido de recuperação judicial, ocorrido em 17/09/2014.
+No mesmo sentido, foi a manifestação do Administrador Judicial (pp. 133/136):
+"(..) o expert apurou o valor do crédito com base nas informações extraídas da sentença que homologou os cálculos de liquidação.
+(..) Tem-se, assim, que o perito deflacionou o valor homologado perante a Justiça do Trabalho até a data do ajuizamento da recuperação judicial, ocorrido em 17/09/2014, conforme determina o artigo 9º, II, da Lei 11.101/05.
+Portanto, o recurso interposto pela agravante não comporta provimento, já que os cálculos elaborados pelo perito contador estão corretos e de acordo com a Lei vigente" (p. 135) III) Ademais, nenhum parecer técnico divergente foi apresentado pela recuperanda de forma a justificar a reelaboração dos cálculos, sendo certo que a recuperanda sequer indicou o valor do crédito que entende por devido.
+IV) Portanto, não havendo elementos que infirmem os fundamentos da r. decisão recorrida, a manutenção desta é a medida que se impõe (fls. 160/161, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
