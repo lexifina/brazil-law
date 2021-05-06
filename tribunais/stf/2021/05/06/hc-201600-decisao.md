@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Leonardo Soares dos Santos, apontando como autoridade coatora o Superior Tribunal de Justiça, que denegou a ordem no HC nº 651707/SP, Relator o Ministro Sebastião Reis Júnior.
+    Consta dos autos que o paciente teve a sua prisão em flagrante convertida em preventiva em razão da suposta prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06).
+    Sustentam os impetrantes, em suma, constrangimento ilegal imposto ao paciente, ante a falta de fundamentação do ato por meio do qual imposta a segregação cautelar, tendo-o por inidôneo, pois, conforme assevera, não observou os requisitos do artigo 312 do Código de Processo Penal.
+    Aduzem não haver indícios suficientes de autoria.
+    Afirmam a presença de circunstâncias judiciais favoráveis ao paciente, notadamente primariedade, residência fixa e atividade lícita.
+    Ressaltam que o paciente é responsável por criança menor de 5 anos.
+    Requerem, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente, ainda que com a aplicação de medida cautelar diversa do cárcere (CPP, art. 319).
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão proferido pelo Superior Tribunal de Justiça:
+    “HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NEGATIVA DE INDÍCIOS DE AUTORIA E AUSÊNCIA DE PROVAS. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. RISCO DE REITERAÇÃO DELITIVA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. Ordem denegada” (doc. 23).
+    O julgado proferido pelo Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia.
+    Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Em relação à alegada insubsistência do ato mediante o qual determinada a custódia cautelar do paciente, cumpre destacar que a prisão está fundamentada no risco concreto de reiteração delitiva, já que “o paciente já foi preso por tráfico de drogas, e firmou acordo de não persecução penal (voltando, então a se envolver com o tráfico – fls. 74 e 95/101, dos autos principais), circunstâncias que, certamente, recomendam a constrição para a garantia da ordem pública e da instrução criminal”, conforme consignou o Juízo de primeira instância.
+    Esse entendimento não fere a jurisprudência do Supremo Tribunal Federal, segundo a qual “a periculosidade do agente e o risco de reiteração delitiva demonstram a necessidade de se acautelar o meio social para resguardar a ordem pública e constitui fundamento idôneo para a prisão preventiva.” (RHC nº 112.703/DF, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/9/12)
+    Perfilhando esse entendimento: HC nº 136.778/RO, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 7/11/16; HC nº 128.779/SP, Segunda Turma, de minha relatoria, DJe de 5/10/16.
+    Cumpre ressaltar, ademais, não haver “ilegalidade evidente ou teratologia (...) na decisão que impõe prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta” (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17).
+    No tocante à tese de inexistência de elementos que indiquem a participação do paciente nos eventos narrados, destaco que
+    “a via do habeas corpus, não se permite a verificação da veracidade dos fatos descritos na denúncia por demandar análise do conjunto fático-probatório, em evidente substituição ao processo de conhecimento” (RHC nº 102.816/MG, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 27/4/10).
+    Perfilham esse entendimento: HC nº 197.086-AgR/SP, Primeira Turma, Relator o Ministro Roberto Barroso , DJe de 9/4/21; HC nº 157.258-AgR/RJ, Segunda Turma, Relator o Ministro Ricardo Lewandowski , DJe de 4/10/18; HC nº 131.878/SP, Segunda Turma, de minha relatoria , DJe de 7/3/16; RHC nº 125.240/PE, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 12/5/16; HC nº 101.265/SP, Segunda Turma, Relator para acórdão o Ministro Joaquim Barbosa , DJe de 6/8/12.
+    O aresto recorrido, como visto, não tratou do fato de que o paciente é responsável por criança menor de 5 anos. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 121.512-AgR/SP, Primeira Turma, DJe de 4/6/14, e HC nº 113.172/SP, Primeira Turma, DJe de 17/4/13, ambos de minha relatoria; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+    Por fim, anoto que a existência de condições subjetivas favoráveis ao paciente não obstam a segregação cautelar, desde que presentes nos autos elementos concretos a recomendar sua manutenção, como se verifica no caso. Nesse sentido: HC nº 126.051/MG, Segunda Turma, de minha relatoria, DJe de 29/5/15; HC nº 90.330/PR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 27/6/08; HC nº 93.901/RS, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 27/6/08; HC nº 92.204/PR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 19/12/07.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 6 de maio de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
