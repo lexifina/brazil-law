@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos contra decisão que negou provimento ao agravo em recurso especial em razão da aplicação daSúmulan. 211 do STJ.
+Oembargantealegacontradição na decisão embargada quanto àcondenação em honorários, objetivando esclarecer a parte da decisão que majorou honorários em 20% do valor arbitrado.
+Sustentaque "os embargados perderam a ação principal, motivo pelo qual não foram arbitrados honorários advocatícios de sucumbência, ou seja, não existe condenação em honorários a ser majorada em seu favor" (e-STJ fl. 354)
+Os embargados não apresentaram impugnação (e-STJ fls. 364/367).
+É o relatório.
+Decido.
+Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material.
+Sustentao embarganteque houve erro materialno acórdão recorrido quanto àmajoração dos honorários advocatícios recursais, visto que, na sentença foi decidido da seguinte forma (e-STJ fl. 210):
+Em razão da sucumbência recíproca, as partes ratearão igualmente as custas e despesas processuais, fixando-se honorários advocatícios ao autor no importe de 10% (dez por cento) sobre o valor atualizado da condenação e RS3.000,00 (três mil reais) ao requerido, na forma do artigo 85, parágrafos 2º, 6º, 8º e 14 do novo Código de Processo Civil, porquanto vedada a compensação.
+O Tribunal de origem, por sua vez, deu provimento ao recurso de Living Batatais Empreendimentos Imobiliários Ltda e fixou honoráriosadvocatícios, arbitradosem R$ 5.000,00 (cinco mil reais), considerando os critérios do art. 85, § 8º e 2º do CPC/2015.
+Constatadoo erro material, devem ser acolhidos os embargos de declaração.
+Com efeito, deve ser afastada a majoração fundada no art. 85, § 11, do CPC/15. A Corte Especial, interpretando o artigo 85, § 11, do CPC/15, firmou o seguinte entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.
+ ..
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+ ..
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+ ..
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019 - grifei.)
+No caso, ao dar provimento ao recurso da demandada, o Tribunal local empreendeu nova distribuição da sucumbência. Essa circunstância impede a majoração dos honorários sucumbenciais, nos termos do art. 85, § 11,do CPC/2015,haja vista a sucumbência recíproca das partes (e-STJ fls. 206/211). No mesmo sentido:
+MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC DE 2015. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA DE ÓBICE. PROVIMENTO DE RECURSO DE APELAÇÃO COM READEQUAÇÃO DA SUCUMBÊNCIA. CIRCUNSTÂNCIA QUE IMPEDE A MAJORAÇÃO DE HONORÁRIOS EM SEDE RECURSAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+2. A sucumbência recíproca, por si só, não afasta a condenação em honorários advocatícios de sucumbência, tampouco impede a sua majoração em sede recursal com base no art. 85, § 11, do Código de Processo Civil de 2015.
+3. Isso porque, em relação aos honorários de sucumbência, o caput do art. 85 do CPC de 2015 dispõe que " a  sentença condenará o vencido a pagar honorários ao advogado do vencedor".
+4. A relação jurídica se estabelece entre a parte litigante e o causídico do ex adverso, diferentemente do que ocorre nos honorários advocatícios convencionais - ou contratuais -, em que a relação jurídica se estabelece entre a parte e o patrono que constitui.
+5. Acaso se adote o entendimento de que, havendo sucumbência recíproca, cada parte se responsabiliza pela remuneração do seu respectivo patrono também no que tange aos honorários de sucumbência, o deferimento de gratuidade de justiça ensejaria conflito de interesses entre o advogado e a parte beneficiária por ele representada, criando situação paradoxal de um causídico defender um benefício ao seu cliente que, de forma reflexa, o prejudicaria.
+6. Ademais, nas hipóteses tais como a presente, em que a sucumbência recíproca não é igualitária, a prevalência do entendimento de que cada uma das partes arcará com os honorários sucumbenciais do próprio causídico que constituiu poderia dar ensejo à situação de o advogado da parte que sucumbiu mais no processo receber uma parcela maior dos honorários de sucumbência, ou de a parte litigante que menos sucumbiu na demanda pagar uma parcela maior dos honorários de sucumbência.
+7. Em que pese não existir óbice à majoração de honorários em sede recursal quando está caracterizada a sucumbência recíproca, a jurisprudência desta Corte Superior preconiza a necessidade da presença concomitante dos seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no processo em que interposto o recurso.
+8. Na espécie, o Tribunal de origem, ao dar provimento ao apelo da parte ora agravante, empreendeu nova distribuição da sucumbência entre os litigantes. Essa circunstância impede a majoração dos honorários sucumbenciais, com base no § 11 do art. 85 do CPC.
+9. Agravo interno não provido.
+(AgInt no AREsp 1495369/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/9/2020, DJe 16/10/2020.)
+Desse modo, é impositiva a reforma parcial da decisão de fls. 348/351 (e-STJ), para excluir a majoração da verba sucumbencial, mantida no mais a inadmissão do agravo em recurso especial.
+Do exposto, ACOLHOos embargos de declaração para sanar o erro material e excluir da parte dispositiva a majoração de honorários advocatícios fundamentada no art. 85, §11, do CPC/2015.
+Publique-se. Intimem-se.
