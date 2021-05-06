@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pelo Município de São Paulo, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 569):
+AGRAVO LEGAL. IMUNIDADE RECÍPROCA. CORREIOS. ISS. SERVIÇOS POSTAIS. ADPF Nº 46. AUSÊNCIA DE ELEMENTOS CAPAZES DE INVALIDAR A DECISÃO RECORRIDA.
+1. A parte inconformada com a decisão proferida com base no art. 557 do Código de Processo Civil pode interpor o agravo de que trata o § 1º.
+2. Na hipótese dos autos, ficou mais do que claro que a imunidade recíproca abrange o ISS retido na fonte pelas tomadoras dos serviços postais prestados pela ECT, compreendidos aqueles que não podem ser prestados por terceiros, por integrar o privilégio dos Correios, conforme orientação do STF, fixada no julgamento da ADPF nº 46.
+3. Não há no recurso argumentação capaz de influir na decisão proferida, uma vez que a agravante apenas reitera aqueles já expostos.
+4. De rigor a manutenção do decisum uma vez que a agravante apenas pretende rediscutir o mérito da demanda.
+5. Agravo legal desprovido.
+A parte recorrente aponta violação ao art. 26 da lista de serviços anexa à LC 116/2003. Sustenta, em resumo, que incide ISS sobre os serviços prestados pela recorrida de "entrega de encomendas, franchising" (fl. 581), sendo certo que "o reconhecimento da imunidade recíproca também para estes serviços configuraria, sem dúvida alguma, violação não apenas do artigo 150, letra "a", § 3º, mas também dos princípios da livre concorrência e da isonomia  ..  Também haveria ofensa ao artigo 173, § 2º, da Constituição da República, segundo o qual "as empresas públicas e as sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado" (fl. 581).
+Ao recurso extraordinário, também interposto pelo ora recorrente, foi negado seguimento, ao entendimento de que o acórdão recorrido se encontra em harmonia com posicionamento firmado pelo STF em repercussão geral (RE 601.392).
+Interposto agravo interno pelo Município (fls. 646/657), foi negado provimento ao recurso pelo Órgão Especial do Tribunal de origem, nos termos do acórdão de fls. 667/672.
+Contra esse decisum não houve interposição de recurso (cf fls. 680).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Quanto à questão de fundo, o Supremo Tribunal Federal decidiu, sob o regime de repercussão geral, que "Os serviços prestados pela Empresa Brasileira de Correios e Telégrafos - ECT, inclusive aqueles em que a empresa não age em regime de monopólio, estão abrangidos pela imunidade tributária recíproca (CF, art. 150, VI,a e §§ 2º e 3º)" (RE 601.392, Tema 235/STF).
+Colhe-se dos autos que a Vice-Presidência do Tribunal Regional Federal da 3ª Região negou seguimento ao recurso extraordinário da parte ora recorrente, com esteio no art. 1.030, I, b, do CPC/2015, tendo em vista que o acórdão recorrido encontra-se em conformidade com o posicionamento firmado na referida repercussão geral pelo STF (cf fls. 641/642).
+Consoante dicção do art. 1.039 do CPC/2015: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, sendo a matéria trazida no presente apelo coincidente com aquela discutida no recurso extraordinário do particular, a saber, incidência ou não de ISS sobre serviço prestado pela ECT, prejudicada restou a apreciação do recurso especial em análise.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
