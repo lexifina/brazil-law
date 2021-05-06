@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo apresentado por VISION MED ASSISTÊNCIA MEDICA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Apelação Cível. Ação declaratória de rescisão contratual com pedido de tutela de urgência. Plano de saúde.
+Alegação de doença preexistente. Má-fé do segurado não comprovada.
+1. A relação estabelecida entre as partes é de consumo, e, portanto, regidas pelas normas do código de defesa do consumidor, pois a ré é destinatária final dos serviços prestados pela autora, fornecedora de serviços.
+2. Com efeito, quando da contratação do plano de saúde, o consumidor possui o dever de prestar todas as informações quanto a sua saúde de forma clara e transparente, para evitar o desequilíbrio contratual, inclusive, com auxílio médico, para tanto.
+3. Contudo, a experiência comum tem demonstrado que os seguros/planos de saúde, como medida de contenção de gastos, têm optado por não realizar tal etapa contratual de maneira adequada, inobstante a teoria do risco do empreendimento.
+4. Atento a isso, o STJ editou o enunciado sumular de número 609, in verbis: "a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado". Precedentes deste Tribunal de Justiça.
+5. Desprovimento do recurso.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação da RN 162/ANS; arts. 1º e 4º da RN CONSU 8/1998/ANS e art. 422 do CC, no que concerne à cobertura de tratamento médico, diante de existência de doença pré-existente, trazendo os seguintes argumentos:
+16. Assim, o V. Acórdão feriu de morte o previsto na Resolução Normativa nº 162 editada pela ANS, além dos arts. 1º e 4º da RN CONSU nº 8/1998 da ANS e ainda art 422 do Codigo Civil, estando a matéria aqui ventilada, inteiramente prequestionada.
+ ..
+18. Conforme já exposto, a Recorrida, ao aderir ao plano, assinou a ficha proposta, e preencheu a declaração de saúde, tendo respondido negativamente a todas as perguntas relativas ao seu estado de saúde.
+19. Os documentos acostados com a inicial comprovam claramente esta omissão.
+ ..
+21. Da mesma forma, insta salientar a RN 162/2007 (doc. 05), que estabelece a obrigatoriedade da Carta de Orientação ao Beneficiário;
+dispõe sobre Doenças ou Lesões Preexistentes (DLP); Cobertura Parcial Temporária (CPT); Declaração de Saúde e sobre o processo administrativo para comprovação do conhecimento prévio de DLP pelo beneficiário de plano privado de assistência à saúde no âmbito da Agência Nacional de Saúde Suplementar.
+ ..
+22. Ademais, pela simples leitura das Condições Gerais do contrato percebe-se que em nenhum momento a parte autora ficou tolhida de qualquer informação.
+ ..
+29. Por outro lado, o cliente de má-fé beneficia-se de sua própria torpeza ao adquirir cobertura para procedimentos que o cliente de boa-fé não possui, já que este cumpre CPT (Cobertura Parcial Temporária), ou, então, arca com os custos do denominado Agravo Contratual por dois anos, quando declara na celebração do contrato alguma doença pré- existente.
+30. Não se verifica, portanto, qualquer ilegalidade ou abusividade por parte da conduta da apelante, uma vez que requer, com embasamento contratual e legal, o cancelamento do contrato, objeto da lide.
+ ..
+53. Nesse ponto, as condições estabelecidas no contrato se deram de forma clara e legível, como determina o Código de Defesa do Consumidor, de modo que seu cumprimento deve se dar nos limites e obrigações contratuais assumidos pelas partes. Trata-se da aplicação do princípio pacta sunt servanda, pelo qual o contrato faz lei entre as partes, devendo ser observado quando a própria lei é omissa sobre o tema. (fls. 485-492)
+É, no essencial, o relatório. Decido.
+Em relação ao recurso especial, quanto à RN 162/ANS e arts. 1º e 4º da RN CONSU 8/1998/ANS, na espécie, não é cabível o recurso especial quando se busca analisar isoladamente violação de norma diversa de tratado ou lei federal, desacompanhada da ofensa direta a dispositivo de lei federal.
+Nesse sentido: "Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de lei federal(art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada), como medidas provisórias e decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente - sem vinculação direta ou indireta a dispositivos legais federais -, tais como resoluções, circulares, portarias, instruções normativas, atosdeclaratórios daSRF,provimentos das autarquias, regimentos internos de Tribunais, enunciado de súmula (cf. Súmula 518/STJ) ou notas técnicas". (AgInt no REsp 1.817.715/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.565.020/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; AgInt no REsp 1.832.794/RO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/11/2019; AgInt no AREsp 1.425.911/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15/10/2019.
+Além disso, quanto ao mais, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se nos autos que o cerne da controvérsia é a existência ou não de nulidade no contrato de plano de saúde coletivo empresarial firmado entre o autor e o 1º réu, tendo como beneficiário o 2º réu.
+Destarte, restou incontroverso nos autos que antes da celebração do referido contrato, o 2º réu apresentava quadro clínico de obesidade, associado a hipertensão, vide fls.105/109.
+Todavia, os réus sustentam, de forma verossímil, o não preenchimento da proposta e declaração de saúde, atribuindo-o ao preposto do autor.
+Em reforço argumentativo afirmam que a contratação, em verdade, tratou- se de uma portabilidade para a beneficiária: FERNANDA ROBERT CAMPOS DA SILVA, e que não teriam como enganar o corretor no que tange a visível obesidade da mesma.
+Como bem ressaltou o Juízo a quo, quando da contratação do plano de saúde, o consumidor possui o dever de prestar todas as informações quanto a sua saúde de forma clara e transparente, para evitar o desequilíbrio contratual, inclusive, com auxílio médico, para tanto. Contudo, a experiência comum tem demonstrado que os seguros/planos de saúde, como medida de contenção de gastos, têm optado por não realizar tal etapa contratual de maneira adequada, inobstante o risco do empreendimento.
+ ..
+Diante disso, não merece prosperar o argumento da preexistência de obesidade mórbida, e nem da má-fé por parte da apelada, restando hígida a responsabilidade da seguradora em oferecer cobertura contratual na hipótese. (fls. 471-472)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
