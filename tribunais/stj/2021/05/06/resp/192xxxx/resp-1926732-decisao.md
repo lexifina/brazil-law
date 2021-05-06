@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REMESSA OFICIAL NÃOCONHECIDA. RECONHECIMENTO DE ATIVIDADE COMUM E ESPECIAL. TRABALHADORES NAAGROPECUÁRIA. RUÍDO. MOTORISTA. PREENCHIMENTO DOS REQUISITOS PARA AAPOSENTAÇÃO. TERMO INICIAL. VERBA HONORÁRIA. MAJORAÇÃO. SUCUMBÊNCIARECURSAL.
+- Consoante o artigo 496, § 3º, inciso I, do Código de Processo Civil/2015, não será aplicável o duplo grau de jurisdição quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 1.000 (mil) salários-mínimos.
+- Embora a sentença seja ilíquida, resta evidente que a condenação ou o proveito econômico obtido na causa não ultrapassa o limite legal previsto.- Com o advento da Emenda Constitucional nº 20/98, a aposentadoria por tempo de serviço foi convertida em aposentadoria por tempo de contribuição, tendo sido excluída do ordenamento jurídico a aposentadoria proporcional, passando a estabelecer o artigo 201 da Constituição Federal o direito à aposentadoria no regime geral de previdência social, nos termos da lei, ao completar 35 (trinta e cinco)anos de contribuição, se homem e 30 (trinta) anos de contribuição, se mulher.
+- Entretanto, o art. 3º da referida Emenda garantiu o direito adquirido à concessão da aposentadoria por tempo de serviço a todos aqueles que até a data da sua publicação, em 16 de dezembro de 1998, tivessem cumprido todos os requisitos legais, com base nos critérios da legislação então vigente.
+- Ao segurado inscrito perante o Regime Geral de Previdência Social anteriormente à promulgação da Emenda Constitucional nº 20/98, mas que, nessa data (16 de dezembro de 1998), ainda não tivesse preenchido os requisitos necessários à sua aposentação, mesmo na forma proporcional, aplicam-se as regras de transição estabelecidas pelo art. 9º da referida normação constitucional.- Foram contempladas, portanto, três hipóteses distintas à concessão da benesse: segurados que cumpriram os requisitos necessários à concessão do benefício até a data da publicação da EC 20/98(16/12/1998); segurados que, embora filiados, não preencheram os requisitos até o mesmo prazo; e, por fim, segurados filiados após a vigência daquelas novas disposições legais.
+- No caso dos autos, restou efetivamente comprovado o labor comum e exercido em condições especiais.
+- A somatória do tempo de serviço laborado pela parte autora autoriza a concessão do benefício pleiteado, ante o preenchimento dos requisitos legais, a contar da data do requerimento administrativo.
+- Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do §4º, c. c. §11, do artigo 85, do CPC/2015.
+- Apelação da Autarquia Federal improvida.
+Em suas razões de recurso especial, sustenta o INSS, em síntese, que o Tribunal a quo violou os artigos 489 e 1.022 do CPC, uma vez que foi omisso acerca da impossibilidade do enquadramento como especial por categoria profissional do período em que a parte autora trabalhou na lavoura de cana de açúcar, por ser uma atividade exclusiva de agricultura. Acrescenta que houve ofensa aos artigos 57, caput e parágrafo 3º da Lei 8.213/1991, tendo em vista que não é possível enquadrar a atividade desenvolvida pela parte recorrida no código 2.2.1 do anexo ao Decreto nº 53.831/64, uma vez que tal dispositivo é aplicável apenas à atividade agropecuária, não englobando atividade laborada apenas em agricultura, como é o caso do corte de cana.
+Contrarrazões ao recurso especial às fls. 3898/405.
+recorrido.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin, julgado em 21/6/2018, DJe 22/11/2018)
+O recurso especial tem por tese central o reconhecimento da atividade especial na condição de empregado de empresa de Agropecuária.
+Acerca da matéria, a jurisprudência consolidada do STJ é no sentido de que se deve considerar como nocivos os serviços e atividades profissionais desempenhados na agropecuária, conforme preceitua o Anexo do Decreto n. 53.831/1964, no seu item 2.2.1.
+A propósito, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA. ATIVIDADE RURAL. REGIME DE ECONOMIA FAMILIAR. ATIVIDADE ESPECIAL. RECONHECIMENTO. IMPOSSIBILIDADE.
+1. O Decreto n.º 53.831/64, em seu item 2.2.1, define como insalubre apenas os serviços e atividades profissionais desenvolvidos na agropecuária, não se enquadrando como tal o labor desempenhado na lavoura em regime de economia familiar.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 8.138/RS, Sexta Turma, Relator Ministro Og Fernandes, julgado em 20/10/2011, DJe 9/11/2011)
+No caso dos autos, o Tribunal de origem, com base na análise do conjunto probatório, entendeu que há nos autos a comprovação de que a segurado trabalhava na função de trabalhador rural em estabelecimento agropecuário, conforme se observa do seguinte trecho do acórdão:
+- 01/02/1986 a 31/08/1986 - Atividade de ajudante de serviços gerais em estabelecimento agropecuário "(..) realiza serviços de pulverização do canavial(..)", portanto, atividade ligada ao cultivo de cana-de-açúcar - CTPS e PPP (ID n.136892212)O Decreto n. 53.831/64, no item 2.2.1 elenca a atividade dos trabalhadores na agropecuária como insalubre.
+Nesse contexto, os argumentos utilizados para fundamentar a pretensão trazida no recurso especial somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, o que é vedado ante o óbice da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. COMPROVAÇÃO DA INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. IMPRESCINDIBILIDADE (SÚMULA 126/STJ). TRABALHO RURAL EM REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL CORROBORADO PELA TESTEMUNHAL. ENQUADRAMENTO COMO ATIVIDADE ESPECIAL. INVIABILIDADE (SÚMULA 83/STJ). REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE (SÚMULA 7/STJ).
+1. É imprescindível a comprovação da interposição do recurso extraordinário quando o acórdão recorrido assentar suas razões em fundamentos constitucionais e infraconstitucionais, cada um deles suficiente, por si só, para mantê-lo (Súmula 126/STJ).
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, é prescindível que o início de prova material se refira a todo o período que se quer comprovar, desde que devidamente amparado por robusta prova testemunhal que lhe estenda a eficácia.
+3. O Decreto nº 53.831/64, no seu item 2.2.1, considera como insalubre somente os serviços e atividades profissionais desempenhados na agropecuária, não se enquadrando como tal a atividade laboral exercida apenas na lavoura (REsp n. 291.404/SP, Ministro Hamilton Carvalhido, Sexta Turma, DJ 2/8/2004).
+4. A análise das questões referentes à insalubridade do lavor rural, bem como ao tempo de serviço especial, depende do reexame de matéria fático-probatória, o que é vedado, em âmbito especial, pela Súmula 7/STJ.
+5. Agravo regimental improvido.
+(AgRg no REsp 1.084.268/SP, Sexta Turma, Relator Ministro Sebastião Reis
+Júnior, DJe 13/3/2013)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento. Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento (aproximadamente um ano) e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL. ATIVIDADE EM ESTABELECIMENTO AGROPECUÁRIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
