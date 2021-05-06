@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de negativa de prestação jurisdicionale (e-STJ fls. 659/661).
+O acórdão recorrido está assim ementado (e-STJ fls. 563/564):
+RECURSOS DE APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL E MATERIAL - - PRELIMINARES CERCEAMENTO DE DEFESA E ILEGITIMIDADE PELA FALTA DE INTERESSE RECURSAL - REJEITADAS - - DEFEITO NO PRODUTO E NA PRESTAÇÃO MÉRITO DOS SERVIÇOS CONTRATADOS - CONSTATAÇÃO EM PERÍCIA JUDICIAL - CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS APÓSSANEAMENTO DO FEITO - IMPOSSIBILIDADE - DANO MORAL CONFIGURADO - MANTIDO - TERMO INICIAL DOS JUROS E CORREÇÃO MONETÁRIA - QUANTUM RECURSOS DESPROVIDOS.
+Não há cerceamento de defesa quando ausente o assistente técnico na perícia, embora as partes tenham sido devidamente intimadas da sua designação.
+O interesse de agir em grau de recurso está intimamente associado à utilidade prática da prestação jurisdicional que se pretende obter com a movimentação da máquina jurisdicional, situação evidenciada, na hipótese, tendo em vista a possibilidade de melhora na realidade fática da parte na discussão sobre a conversão da obrigação de fazer em perdas e danos.
+Após o saneamento do processo, afigura-se escorreita a sentença que não converte a obrigação de fazer em perdas e danos, ante expressa vedação constante do art. 329, inciso II, do CPC/15.
+Constatada a falha na prestação de serviços pela empresa requerida, decorrente de vícios na execução dos serviços contratados e defeitos apresentados nos produtos, diante da ausência de cuidados básicos no transporte, armazenamento e instalação dos produtos, constatados por meio de prova pericial determinada pelo Juízo, nasce ao consumidor o direito de ser indenizado pelos danos suportados, devendo, portanto, a sentença ser mantida, inclusive quanto ao seu valor, pois fixado de forma prudente e razoável.
+O termo inicial da correção monetária e valores oriundos da indenização por dano material se dá a partir do efetivo prejuízo (Súmula 43 do STJ) e os juros a partir da citação, conforme art. 240 do CPC e 405 do CC; e quanto ao dano moral, a correção monetária flui a partir do arbitramento (Súmula 362 do STJ) e juros a contar do evento danoso (Súmula 54 do STJ).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 610/623).
+No especial (e-STJ fls. 625/644), interposto com fundamento no art. 105, III, "a", da CF, orecorrente alegou ofensa ao art. 1.022, I, do CPC/2015,por negativa de prestação jurisdicional, destacando que (e-STJ fls. 634/635):
+Vale dizer: o Tribunal de Justiça a quo admitiu o fato de que o Patryck de Araújo Ayala pleiteou de devolução do valor pago, pelos produtos e serviços defeituosos, NA PEÇA INAUGURAL. Paradoxalmente, entretanto, desproveu o Recurso de Apelação do recorrente, com fincas em norma jurídica reservada à disciplina do PEDIDO QUE NÃO FOI ELABORADO, NA PETIÇÃO INICIAL, qual seja, o artigo 329, inciso II, do Código de Processo Civil, COMO SE O PLEITO RETRO CITADO SE TRATASSE DE PEDIDO NOVO, FORMULADO e/OU ADITADO APÓS A CITAÇÃO DA FORNECEDORA.
+(..)
+Desta feita, resta evidente que o acórdão guerreado incorreu em seríssima contradição, de vez que a incidência do artigo 329, inciso II, do Código de Processo Civil, ao caso vertente, se revela incompatível com o fato de que o consumidor requereu a condenação da Varella Indústria e Comérciode Vidros Ltda. à devolução da quantia despendida, com os produtos e serviços viciados, NA PEÇA VESTIBULAR.
+E assim é, porque o fato de que o pedido de condenação da recorrida à devolução da importância paga fora deduzido, NA EXORDIAL, significa que ele foi elaborado em juízo ANTES DA CITAÇÃO E DA CONTESTAÇÃO DA FORNECEDORA; bem como PREVIAMENTE AO SANEAMENTO DO FEITO E A ESTABILIZAÇÃO DA DEMANDA -o que, por si só, têm o condão de afastar a incidência do artigo 329, inciso II, in casu, haja vista que O PLEITO VEICULADO NA PEÇA INAUGURAL NÃO É PEDIDO NOVO, FORMULADO E/OU ADITADO, APÓS DA CITAÇÃO DA VARELLA INDÚSTRIA E COMÉRCIO DE VIDROS LTDA.
+Aponta, ainda, ofensa aos arts.18, § 1º,I e II, e 20,I e II, doCDC, asseverando que (e-STJ fl. 640):
+(..) a conversão da obrigação de fazer em perdas e danos constitui uma faculdade do credor; ou, um direito que exsurge quando a tutela específica da obrigação se torna inútil ou impossível. Tanto é assim que o Superior Tribunal de Justiça já decidiu que não é extra petita a decisão que converte a obrigação de fazer em perdas e danos, "ainda que não haja pedido explícito nesse sentido".
+No agravo (e-STJ fls. 663/672), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 679/683).
+É o relatório.
+Decido.
+De início, não há falar em contrariedade ao art. 1.022, I, do CPC/2015.
+No caso, o Tribunal de origem, ao decidir a controvérsia, consignou que (e-STJ fl. 572):
+Dessa forma, embora o autor tenha postulado na peça inaugural uma obrigação alternativa (conversão de perdas e danos), esta só poderia ser concretizada mediante consentimento do réu, e anterior ao saneamento do processo, como forma de se prestigiar o princípio da estabilização subjetiva da lide.
+Aliás, esta questão foi muito bem dirimida pela douta sentenciante quando da rejeição dos aclaratórios opostos pelo autor/recorrente visando sanar a apontada omissão, cujo trecho segue:
+"Apenas por amor ao debate, ressalto que é impossível a alteração do pedido após - Id 6768004. saneado o processo, vez que a demanda encontra-se estabilizada  .. "
+A parte recorrente sustentou, em declaratórios, a seguinte tese (e-STJ fl. 594):
+Ora, o fato de que o pedido alternativo (conversão da obrigação de fazer em perdas e danos) foi elaborado, na petição inicial, significa que ele foi formulado antes do saneamento do processo.
+Logo, antes da estabilização da demanda, igualmente.
+E, desta feita, que não houve inovação ou violação do princípio da estabilização da lide, no caso concreto, eis que, quando a demanda foi estabilizada, o pedido alternativo aludido dá constituía objeto do litígio, justamente, por haver sido deduzido, na petição inicial.
+O TJMT, por sua vez, se manifestou no seguinte sentido (e-STJ fl. 614):
+O embargante diz que o v. acórdão é contraditório, haja vista que a conversão da obrigação de fazer em perdas e danos foi requerida na petição inicial, porém a decisão recorrida concluiu que não é possível acolher o pedido alternativo, na ausência de consentimento da embargada e após o saneamento do processo.
+No entanto, não prospera o inconformismo, porquanto, o decisum apreciou com clareza as questões essenciais ao julgamento da lide, sobretudo quando ressaltou a regra prevista no art. 329, inciso II do CPC, que prevê que o pedido alternativo pode ser aditado até o saneamento do processo, ainda que requerido na petição inicial.
+Assim, conforme consignado no acórdão "embora o autor tenha postulado na peça inaugural uma obrigação alternativa (conversão de perdas e danos), esta só poderia ser concretizada mediante consentimento do réu, e anterior ao saneamento do processo, como forma de se prestigiar o princípio da estabilização subjetiva da lide".
+Portanto, o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, concluindo que o pedido de conversão em perdas e danos deveria ser aditado antes do saneamento do processo, o que não configura contradição interna, ou seja, ou seja, entre as proposições do próprio julgado.
+A propósito:
+AGRAVO INTERNO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 735/STF.
+1. Descabe cogitar de contradição interna no acórdão recorrido, pois esta somente se verifica entre as proposições e conclusões do próprio julgado. A irresignação da parte a respeito do que ficou decidido não implica, por si só, contradição de que trata o artigo 1.022 do CPC.
+2. "Não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF).
+3. Agravo interno não provido.
+(AgInt no AREsp 1577176/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO INTERNA NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE NULIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+2. O fato de a procuração que acompanhou a exordial, certamente por mero equívoco, não ter feito constar expressamente que a primeira promovente também estaria constituindo mandatário para postular em nome de sua filha menor, fazendo-o somente em seu próprio nome, não compromete a regularidade do feito, mormente considerando que a petição inicial trouxe ambas como autoras e que cabia à primeira delas outorgar mandato em nome da segunda.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1401591/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 24/04/2019.)
+Assim, ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Ademais, quanto à obrigação de fazer imposta e sua conversão em perdas e danos, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 571/572):
+Em contrapartida, o apelante requer a conversão da Patryck de Araújo Ayala obrigação de fazer em perdas e danos, com fulcro no art. 18, §1º c/c art. 20 do CDC, haja vista comprovado na perícia técnica que a empresa demandada não possui qualificação técnica para substituir os produtos e serviços adquiridos, de modo que requer a devolução de R$ 36.083,51 (trinta e seis mil, oitenta e três reais e cinquenta e um centavos), acrescidos de juros e correção monetária.
+Por sua vez, a empresa-apelada, em suas contrarrazões, arguiu que o pedido alternativo na inicial do autor traz em seu bojo a expressão "se ainda assim", ou seja, se após a determinação de cumprimento da obrigação de fazer houver resistência, diante disso, defende que não é possível a inovação do pedido após a citação.
+Com razão o apelado, pois segundo o art. 329, inciso II do CPC, o pedido somente poderá ser aditado até o saneamento do processo, senão vejamos:
+"Art. 329. O autor poderá:
+II - até o saneamento do processo, aditar ou alterar o pedido e a causa de pedir, com consentimento do réu, assegurado o contraditório mediante a possibilidade de manifestação deste no prazo mínimo de 15 (quinze) dias, facultado o requerimento de prova suplementar".
+Verifica-se que a parte recorrente não impugnou o fundamento do acórdão recorrido referente à impossibilidade de alteração do pedido, formulado inicialmente de forma a condicionar eventual conversão em perdas e danos à resistência da agravada em cumprir ordem judicial de adimplemento da obrigação de fazer pleiteada. Incidente, portanto, a Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
