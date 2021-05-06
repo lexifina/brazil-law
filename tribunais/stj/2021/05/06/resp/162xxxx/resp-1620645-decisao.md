@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão do TJPR assim ementado (e-STJ fls. 252/253):
+APELAÇÕ ES CÍVEIS - REVISIONAL DE CLÁUSULAS CONTRATUAIS - SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE, DETERMINANDO A ILEGALIDADE DA COBRANÇA DAS TARIFAS E DEVOLUÇÃO SIMPLES DOS VALORES COBRADOS INDEVIDAMENTE JULGAMENTO CONFORME ATUAL POSICIONAMENTO DO STJ - CÉDULA DE CRÉDITO BANCÁRIO - CAPITALIZAÇÃO MENSAL DOS JUROS - POSSIBILIDADE - CONTRATAÇÃO EXPRESSA - TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL - CONTRATO POSTERIOR A 30/04/2008 - IMPOSSIBILIDADE DE COBRANÇA DA TARIFA DE ABERTURA DE CRÉDITO (TAC) E TARIFA DE EMISSÃO DE CARNÊ (TEC) - COMISSÃO DE PERMANÊNCIA EXTIRPAÇÃO DA CUMULAÇÃO COM DEMAIS ENCARGOS - POSSIBILIDADE DA COBRANÇA DO IOF - DETERMINAÇÃO DA DEVOLUÇÃO DOS ENCARGOS PAGOS INDEVIDAMENTE DE FORMA DOBRADA - REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL E MAJORAÇÃO OS HONORÁRIOS ADVOCATÍCIOS RECURSO INTERPOSTO PELA B V FINANCEIRA S/A - RÉ CONHECIDO E PARCIALMENTE PROVIDO (em relação à legalidade da cobrança do IOF).
+RECURSO INTERPOSTO PELO AUTOR (SR. CRISTIANO DE LIMA MATOS) CONHECIDO E PARCIALMENTE DESPROVIDO (em relação à devolução SIMPLES dos encargos pagos indevidamente), POR MAIORIA.
+Nas razões recursais (e-STJ fls. 275/301), a recorrente aponta dissídio interpretativo e violação dos arts. 112, 122, 175, 313, 315, 374 e 478 do CC/2002 e 9º da Lei n. 4.595/1964, sustentando a validade da comissão de permanência, das tarifas de cadastro, de registro de contrato e de serviços e terceiros.
+A Corte estadual deixou de realizar juízo de retratação apenas quanto à comissão de permanência, razão pela qual o recurso foi admitido somente no que se refere a esse tema, nos termos do art. 1.030, V, "c", do CPC/2015 (e-STJ fls. 521/522).
+Não foram apresentadas contrarrazões (e-STJ fl. 355).
+É o relatório.
+Decido.
+No julgamento dos Recursos Especiais n. 1.058.114/RS e 1.063.343/RS, selecionados como representativos da controvérsia (CPC/1973, art. 543-C), a Segunda Seção desta Corte Superior consolidou as seguintes orientações sobre a cobrança de comissão de permanência em contratos bancários:
+(..) 2. Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida.
+3. A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+4. Constatada abusividade dos encargos pactuados na cláusula de comissão de permanência, deverá o juiz decotá-los, preservando, tanto quanto possível, a vontade das partes manifestada na celebração do contrato, em homenagem ao princípio da conservação dos negócios jurídicos consagrado nos arts. 139 e 140 do Código Civil alemão e reproduzido no art. 170 do Código Civil brasileiro. (..)"
+(Relator para Acórdão Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgados em 12/8/2009, DJe 16/11/2010.)
+Assim, havendo previsão contratual, é válida a cobrança da comissão de permanência no período de inadimplemento, desde que não cumulada com correção monetária, nem com outros encargos remuneratórios ou moratórios.
+Afora isso, o valor exigido a esse título não pode ultrapassar a soma da taxa de juros remuneratórios pactuada para a vigência do contrato, dos juros de mora e da multa contratual, nos termos das Súmulas n. 30, 294, 296 e 472 do STJ.
+Estando o acórdão recorrido em consonância com o posicionamento firmado em precedentes uniformizadores desta Corte, impõe-se, uma vez mais, a aplicação da Súmula n. 83/STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
