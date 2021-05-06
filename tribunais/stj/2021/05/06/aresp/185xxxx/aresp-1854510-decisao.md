@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO BRADESCO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C ANULAÇÃO DE CONTRATO E CONDENAÇÃO EM DANOS MORAIS E REPETIÇÃO DE INDÉBITO. COBRANÇA INDEVIDA DE SEGURO NÃO CONTRATADO. RESTITUIÇÃO EM DOBRO DOS VALORES COBRADOS INDEVIDAMENTE, NOS TERMOS DO ART. 42, § ÚNICO, DO CDC. DANO MORAL. OCORRÊNCIA. RECURSO NÃO PROVIDO, SENTENÇA MANTIDA. (fl. 238).
+Complementando a sua fundamentação, trago a ementa do acórdão proferido em sede de embargos de declaração:
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. OMISSÃO NÃO EVIDENCIADA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. IMPERTINÊNCIA. (fl. 292).
+Quanto à controvérsia apresentada, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 141 e 492 do CPC, bem como aponta dissídio jurisprudencial, no que concerne à ocorrência de julgamento ultra petita, tendo em vista que o Tribunal a quo manteve a condenação em danos morais em valor diverso do pugnado na petição inicial pelo autor, ora recorrido, trazendo os seguintes argumentos:
+O Tribunal de Justiça do Tocantins concluiu pela manutenção da sentença, que julgou a demanda procedente com condenação ao banco na devolução em dobro do valor pago a título de contrato de seguro e indenização por danos morais no importe de R$ 10.000,00 (dez mil reais). .. .
+ ..
+Naquela oportunidade, a corte estadual concluiu que o pedido autoral apenas sugere o valor para indenização por danos morais, não sendo valor certo e determinado, conforme se extrai do seguinte trecho do acórdão recorrido: .. .
+ ..
+No entanto, o autor em seu pleito inicial requereu o pagamento de danos morais no valor de R$ 5.000,00, montante inferior ao arbitrado pelo Tribunal de Justiça de Tocantins: .. .
+ ..
+O pedido formulado na petição inicial de valor certo e determinado de compensação por danos morais de acordo com a expectativa da própria parte que suportou os prejuízos extrapatrimoniais não autoriza que o juiz vá além da pretensão concretamente exposta para arbitrar quantia superior.
+Ademais, o código processual exige que a parte ao ingressar com ação, exponha dentre outros o pedido e suas especificidades, continua exigindo, que o pedido deve certo e determinado.
+Conclui-se, ainda, a partir do art. 141 do Código de Processo Civil de 2015, que a decisão da lide deve ser realizada pelo Juízo nos limites em que foi proposta. Ademais, nos moldes do art. 492 do CPC, tem-se que é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado. Ocorrendo uma dessas situações, a decisão deve ser adequada pelo Tribunal, para reduzi-la aos limites ao pedido inicial do autor, que é o melhor detentor do conhecimento e verdade dos fatos.
+ ..
+No Superior Tribunal de Justiça, o tema tem encontrado desfecho diverso do consignado no acórdão do Tribunal de Justiça da Tocantins, senão vejamos.
+No Recurso Especial nº 1.313.643/SP (2012/0024402-0), a Terceira Turma deu provimento ao recurso especial para limitar o julgamento ultra petita.
+ ..
+O STJ aplicou os limites da lide para balizar o valor dos danos morais ao valor sugerido pelo autor.  ..  (fls. 325-328).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  não há na inicial valor limitador, já que a mesma mencionou o montante de R$ 5.000,00 para os danos morais a título de sugestão, e não como pedido certo e determinado, haja vista que no item seguinte da petição inicial, o embargado deixa a critério do Magistrado a fixação da quantia que entender pertinente.
+ ..
+Desse modo, claramente se verifica que a quantia informada na inicial o fora tão somente a título de sugestão, estimativa, não se tratando de pedido certo e determinado, razão pela qual a fixação dos danos morais em R$ 10.000,00 não se revela nula, por não representar julgamento ultra petita. (fls. 311-312).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "De início, é cediço que, para modificar o entendimento firmado no acórdão recorrido, quanto à existência de julgamento extra, citra ou ultra petita, seria necessário exceder as razões colacionadas naquele acórdão, o que demanda incursão no contexto fático-probatório dos autos, vedada em recurso especial, conforme Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial"." (AgInt no AREsp 1.429.026/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe 1º/7/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
