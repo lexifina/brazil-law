@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo internointerposto pelo Instituto de Previdência do Estado de Santa Catarina - IPREVdesafiando decisão que negou seguimento ao recurso especial, pelas seguintes razões: (I) não restou configurada ofensa aos arts. 489 e 1.022 do CPC; e (II) em relação aos arts. 40 e 51 da Lei n. 8.935/94, o inconformismo esbarra na Súmula 283/STF, visto que não foi impugnado fundamento basilar do acórdão recorrido.
+Irresignada, a parte insurgente sustentaque os arts. 489 e 1.022 do CPC foram violados, "porque o acórdão recorrido omitiu-se em analisar questão decisiva ao deslinde da contenda: a destituição da autora do cargo de auxiliar da justiça em 18.02.1998, quando não havia reunido requisitos para se aposentar" (fl. 600). Em acréscimo, argumenta que "não se pode invocar a súmula 283 do STF para dizer que o recurso deixou de impugnar a questão da coisa julgada, uma vez que ela foi devidamente abordada pelo recorrente em suas razões" (fl. 602).Requer, desse modo, o provimento do agravo interno.
+Impugnação do agravado às fls. 607/612.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria,REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, não se refutou o alicerce segundo o qual, em relação aos arts. 40 e 51 da Lei n. 8.935/94, o inconformismo esbarra na Súmula 283/STF, visto que não foi impugnado fundamento basilar do acórdão recorrido.
+A propósito, insta salientar que o trecho do apelo nobre transcrito no agravo interno foi retirado do capítulo em que se alegou violação aos arts. 489 e 1.022 do CPC. Portanto, o que se defendeu nas razões do recurso especial foi a suposta omissão do Tribunala quoacerca do argumento que visa a afastar a coisa julgada. Por oportuno, ganha relevo o seguinte excerto do recurso especial (fl. 529):
+Logicamente, se não mais detém a condição de serventuário, encerrou-se o fundamento da coisa julgada; não subsiste o suporte fático-jurídico para manutenção do vínculo, assegurada naquele título judicial. O Tribunal Local ignorou olimpicamente a questão, mesmo após provocado novamente via embargos declaratórios.
+Vale dizer, alegar omissão não é o mesmo que impugnar especificamente fundamento basilar do acórdão recorrido. A corroborar, não foramapontados como violados, nas razões do apelo nobre,os arts. 502 e seguintes do CPC.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
