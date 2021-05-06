@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo de Direito da 1ªVara Criminal da comarca de Dourados/MS, o suscitante, e oJuízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária(DIPO 3) da comarca de São Paulo/SP, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fl. 296):
+ ..
+2.3. Infere-se dos autos que a empresa-vítima, a qual está localizada em Arcos/MG, foi informada via e-mail pelo cliente Brasfond Fundações Especiais S/A, empresa com sede em São Paulo/SP, de que alguém estaria enviando novos boletos para substituir os enviados pela CRH Sudeste Industria de Cimento S/A. No entanto, conforme notícia-crime de fls. 5-7, a empresa - vítima informou que os fatos consistem em um golpe, haja vista que: a) a conta de e-mail utilizada para enviar os supostos "novos boletos" possuía o final " gyandex.com ", sendo que os e-mails enviados pela empresa-vítima possuem a extensão " gbr.crh.com "; b) seu departamento financeiro desconhece a pessoa de Heloísa R. Moura, suposta funcionária que enviara e-mail com novo boleto" e c)já sofrera golpe de modus operandi similar.Este inquérito foi relatado pela autoridade policial.
+ ..
+No parecer, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado (fls. 296/299):
+ ..
+2.4. No caso, verifica-se dos autos que o último ato de execução do crime em tela ocorreu na cidade de São Paulo/SP por meio do envio do e-mail e boleto fraudulentos à Brasfond Fundações Especiais S/A, cuja sede é na referida cidade.
+2.5. Além disso, como bem destacou o MP/MS, o cliente da empresa vitima, a Brasfond Fundações Especiais S/A, não realizou o pagamento do boleto fraudulento. Desconfiado, informou a empresa vítima sobre o possível golpe, encaminhando-lhe o e-mail, o boleto e a nota fiscal falsos, solicitando que lhe fosse enviado o boleto correto a ser pago.
+2.6. Por outro lado, diligência efetuada junto à agência bancária localizada em Dourados-MS, onde estaria mantida a conta de destino do valor fraudulento representado no boleto bancário, não identificou qualquer cliente e/ou possível titular da conta.
+2.7. O STJ, em casos semelhantes, firmou entendimento no sentido de que:
+"CONFLITO DE COMPETÊNCIA. ESTELIONATO TENTADO.FALSIFICAÇÃO DE CHEQUE. NÃO COMPENSAÇÃO POR AUSÊNCIA DE PROVISÃO DE FUNDOS. TENTATIVA.COMPETÊNCIA DO LOCAL DO ÚLTIMO ATO DE EXECUÇÃO.CONFLITO DE COMPETÊNCIA CONHECIDO. DECLARADA A COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. "A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução" (art. 70 do CPP). 2. No caso, o delito não se consumou, pois o cheque não foi compensado por insuficiência de fundos, sendo que o último ato de execução, a apresentação da cártulaadulterada em agência bancária distinta de onde a vítima possui conta corrente, foi realizado na cidade de Presidente Prudente.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Presidente Prudente - SP, o suscitado." (CC 155485/BA, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 17/04/2018).
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1.JUÍZO DE DIREITO DO MS X JUÍZO DE DIREITO DE GO. GOLPE DO SEGURO. ESTELIONATO TENTADO. COMPETÊNCIA DO LOCAL EM QUE PRATICADO O ÚLTIMO ATO DE EXECUÇÃO.ART. 70, CAPUT, DO CPP. 2. CONFLITO DE COMPETÊNCIA CONHECIDO PARA RECONHECER A COMPETÊNCIA DO JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE CAMPO GRANDE/MS, O SUSCITANTE.
+1. Trata-se de crime de estelionato na forma tentada. Acaso o delito tivesse se consumado, a competência seria definida pelo lugar onde ocorrido o resultado - recebimento da vantagem indevida. No entanto, tratando-se de crime tentado, a competência é firmada pelo lugar em que tiver ocorrido o último ato de execução, conforme disciplina art. 70, caput, Código de Processo Penal. Pelo contexto fático apresentado, verifica-se que o primeiro ato de execução se deu no Estado do Goiás, com o aluguel do carro, e o último ocorreu no Estado do Mato Grosso do Sul, local em que foi descoberto o intuito criminoso, não tendo o "golpe do seguro" se consumado por circunstâncias alheias à vontade dos agentes.
+2. Conflito conhecido para reconhecer a competência do Juízo de Direito da 4ª Vara Criminal de Campo Grande/MS, o suscitante." (CC 121775/MS, Rel. Ministro WALTER DE ALMEIDA GUILHERME (DESEMBARGADOR CONVOCADO DO TJ/SP), TERCEIRA SEÇÃO, DJe 30/10/2014).
+3. Em face do exposto, o MPF opina pelo conhecimento do conflito para declarar competente o JUÍZO DE DIREITO DO DEPARTAMENTO DE INQUÉRITOS POLICIAIS E POLÍCIA JUDICIÁRIA DE SÃO PAULO DIPO 3.
+É o relatório.
+Com razão o parecerista.
+Em se tratando de crime de tentativa de estelionato, a competência para processar o inquérito é do Juízo em que verificado o último ato de execução:
+CONFLITO DE COMPETÊNCIA. ESTELIONATO TENTADO. FALSIFICAÇÃO DE CHEQUE. NÃO COMPENSAÇÃO POR AUSÊNCIA DE PROVISÃO DE FUNDOS.TENTATIVA. COMPETÊNCIA DO LOCAL DO ÚLTIMO ATO DE EXECUÇÃO. CONFLITO DE COMPETÊNCIA CONHECIDO. DECLARADA A COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. "A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução" (art. 70 do CPP). 2. No caso, o delito não se consumou, pois o cheque não foi compensado por insuficiência de fundos, sendo que o último ato de execução, a apresentação da cártula adulterada em agência bancária distinta de onde a vítima possui conta corrente, foi realizado na cidade de Presidente Prudente.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Presidente Prudente - SP, o suscitado.
+(CC n. 155.485/BA, Ministro Ribeiro Dantas, Terceira Seção, DJe 17/4/2018)
+No caso, os elementos colhidos, até então, apontam no sentido de que o último ato de execução foi perpetrado em São Paulo/SP, circunstância que atrai a competência do Juízo suscitado para processar o inquérito.
+Anteo exposto, acolhendo o parecer,conheçodo conflito paradeclarara competência doJuízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária (DIPO 3) da comarca de São Paulo/SP, o suscitado.
+Dê-seciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL.TENTATIVA DE ESTELIONATO. COMPETÊNCIA DO JUÍZO DO LOCAL DO ÚLTIMO ATO DE EXECUÇÃO. PRECEDENTES DESTA CORTE.
+Conflito conhecido para declarar a competência doJuízo de Direito do Departamento de Inquéritos Policiais e Polícia Judiciária(DIPO 3) da comarca de São Paulo/SP, o suscitado.
