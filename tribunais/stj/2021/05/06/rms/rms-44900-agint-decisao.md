@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Departamento de Estradas de Rodagem - DER contra decisão que negou provimento a recurso em mandado de segurança (e-STJ, fls. 500-502).
+A parte agravante aduz, em suma, ter a decisão se embasado em premissa equivocada para aplicar indevidamente o direito incidente, afastando-se do decidido pelo Supremo Tribunal Federal nas ADIs 1.098 e 2.924.
+Requer, assim, a reconsideração da decisão agravada,a fim de que seja dado provimento ao recurso em mandado de segurança.
+Decido.
+Assiste razão ao agravante.
+É vedado ao Tribunal de origem, na administração das contas especiais depagamento de precatórios previstas no art. 97, § 4º, do ADCT, alterar oconteúdo de decisão jurisdicional proferida nos autos da execução.
+A modificação dessa decisão, por seu turno, deve ser buscada por meio dosrecursos cabíveis e no Juízo competente, não sendo admissível que aPresidência do Tribunal, no exercício de atividade meramenteadministrativa, desconsidere o título judicial regularmente formado nosautos da execução e edite um ato administrativo com efeitos rescisórios.
+Na linha do que decidiu o STF nos autos da ADI 2.924/SP, a jurisprudência desta Corte Superior entende que não cabe ao Presidente do Tribunal de origemdeterminaro aditamento de precatório em razão de pagamento insuficiente, exceto nos casos deerro material e inexatidão aritmética contidos no precatório original.
+Apropósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADITAMENTO DE PRECATÓRIO. ALEGAÇÃO DE PAGAMENTO INSUFICIENTE. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. PRECEDENTES DO STJ.AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 08/11/2017, que julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança, impetrado contra ato imputado ao Juiz Conciliador da Central de Conciliação de Precatórios do TJMG (CEPREC) - por delegação do Presidente da Corte Estadual de Minas Gerais -, consistente na rejeição da impugnação, apresentada pelos impetrantes, referente à forma de incidência de juros, no Precatório 163, do qual são credores. A segurança foi denegada, ensejando a interposição de Recurso Ordinário ao STJ.
+III. No caso, o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual não cabe ao Presidente do Tribunal (ou à autoridade delegada) determinar o aditamento de precatório, em razão de pagamento insuficiente, exceto nos casos de erro material e inexatidão aritmética, contidos no precatório original. Isso porque cabe ao juízo da execução o julgamento de questões incidentes surgidas durante o cumprimento do precatório, tendo o Presidente do Tribunal atribuições de índole meramente administrativa. Nesse sentido: STJ, AgInt no RMS 51.930/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/03/2017; AgRg no RMS 45.794/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/09/2014.
+IV. Agravo Interno improvido.
+(AgInt no RMS 49.070/MG, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/4/2018, DJe 27/4/2018).
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO. VALOR RESIDUAL. NECESSIDADE DE EXPEDIÇÃO DE NOVO PRECATÓRIO PARA PAGAMENTO. PRECEDENTES DO STJ.
+1. O Superior Tribunal de Justiça, seguindo orientação do Supremo Tribunal Federal, firmou entendimento no sentido de que a dispensa de novo precatório somente ocorrerá quando se tratar de crédito resultante de erro material ou de inexatidão aritmética dos cálculos do precatório, ou, ainda, na hipótese de substituição do índice aplicado (por força de lei). Por tal razão, o pagamento de eventuais diferenças deve se submeter a novo requisitório, incluído em nova posição na ordem cronológica (AgRg no RMS 45.794/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/8/2014, DJe 01/9/2014).
+2. Recurso Ordinário provido.
+(RMS 51.343/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/9/2016, DJe 29/9/2016).
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO. REGIME ESPECIAL. EC. 62/09. PRECATÓRIO COMPLEMENTAR. MATÉRIA DECIDIDA PELO JUÍZO DA EXECUÇÃO. MODIFICAÇÃO POR ATO DA PRESIDÊNCIA DO TRIBUNAL. ADITAMENTO. FUNÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE.
+1. Discute-se na lide o ato praticado pelo Coordenador da Diretoria de Execução de Precatórios - DEPRE - por delegação do Presidente da Corte Estadual Paulista - que determinou o aditamento de precatório submetido ao regime especial disposto no art. 97 do ADCT, a despeito de o juízo da execução ter concluído pela expedição de novo requisitório complementar, em virtude da insuficiência dos valores aportados para a satisfação da dívida.
+2. Não pode o Tribunal de origem, na administração das contas especiais de pagamento de precatórios previstas no art. 97, § 4º, do ADCT, modificar o conteúdo de decisão jurisdicional proferida nos autos da execução.
+3. A atividade exercida pela Presidência do Tribunal de origem no processamento dos precatórios possui natureza meramente administrativa e não opera efeitos rescisórios sobre o julgado proferido durante a execução.
+4. Não se cogita de hierarquia entre a Presidência do Tribunal quando atua no gerenciamento dos precatórios e o juízo da execução no regular exercício da atividade jurisdicional.
+5. Recurso ordinário em mandado de segurança a que se dá provimento.
+(RMS 48.389/SP, de minha relatoria, SEGUNDA TURMA, julgado em 18/8/2015, DJe 28/8/2015).
+No caso, o valor a ser complementado não decorre da aferição de erro material, inexatidão aritmética ou substituição normativa do índice de correção aplicável, mas do julgamento de embargos à execução pelo Juízo da 1ª Vara de São Joaquim da Barra, noqual se reconheceu a existência de saldo remanescente no importe deR$ 86.509,53 (oitenta e seis mil, quinhentos e nove reais e cinquenta e três centavos), haja vista adiferença entre o valor arbitrado no acórdão e o valor ofertado pelo expropriante, o que demanda a expedição de novo requisitório.
+Ante o exposto, reconsidero a decisão agravada para dar provimento ao recurso em mandado de segurança e anular o ato do Desembargador de Execução dos Precatórios do Tribunal de Justiça de São Paulo, que determinou o aditamento do precatório.
+Publique-se. Intimem-se.
