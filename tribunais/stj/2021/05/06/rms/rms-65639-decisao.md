@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com base no art. 105, II, "b", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 533):
+AGRAVO INTERNO - MANDADO DE SEGURANÇA -LOCAÇÃO DE IMÓVEIS  DESPEJO POR FALTA DEPAGAMENTO COM INCIDENTE DE SUSPEIÇÃO CÍVEL -IMPETRAÇÃO EM FACE DE DECISÃO PROFERIDA EMMANDADO DE SEGURANÇA  DECISÃO QUE DEVE SEROBJETO DE RECURSO PRÓPRIO, POIS O "WRIT" NÃOSERVE DE SUCEDÂNEO DO RECURSO ADEQUADO  SÚMULA 267 DO SUPREMO TRIBUNAL FEDERAL -PRECEDENTES - INICIAL INDEFERIDA  CARÊNCIARECONHECIDA  MONOCRÁTICA MANTIDA  RECURSONÃO PROVIDO. Considerando-se que a parte impetrante nãotem interesse processual, visto que a decisão atacada não serevela absurda ou teratológica, como é de se exigir para ocabimento do mandado de segurança, além de ensejar a decisãomonocrática proferida nos autos do Mandado de Segurança n.2178618-35.2020.8.26.0000 a interposição do recurso de agravointerno, de rigor o indeferimento da inicial ante oreconhecimento da carência, sendo de rigor a manutenção dadecisão de não conhecimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 555/558).
+O recorrente sustenta, em suas razões, que o mandado de segurança, no caso, é cabível, pois a decisão do Relator de outro mandamusimpetrado pelo ora recorrente, que inadmitiu o writ, é nula porque deveria ser remetida ao órgão especial do TJSP, além de suspeição do relator(e-STJ fls. 561/568).
+Requer assim o provimento do reclamo, a fim de que se conceda a segurança pretendida.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (e-STJ fls. 580/584).
+É o relatório.
+Decido.
+O recurso ordinário não merece provimento, pois, nos termos da jurisprudência desta Corte Superior, não cabe mandado de segurança como sucedâneo recursal contra decisão passível de recurso (Súmula n. 267/STF).
+A propósito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO JUDICIAL. EXCEPCIONALIDADE. DECISÃO INTERLOCUTÓRIA. TERATOLOGIA NÃO DEMONSTRADA. SÚMULA 267/STF.
+ ..
+6. Na presente demanda, ainda que contra o ato judicial tido como coator não caiba o recurso de Agravo de Instrumento (art. 1.015 do CPC/2015), nos exatos termos do art. 1.009, § 1º, as questões decididas na fase de conhecimento que não comportarem o referido recurso não são cobertas pela preclusão e devem ser suscitadas em preliminar de Apelação, ou nas contrarrazões, incidindo, portanto, o teor da Súmula 267/STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+7. Ademais, como ressaltado, a jurisprudência do STJ é assente no sentido de que o Mandado de Segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso com efeito suspensivo (RMS 49.410/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 19/4/2016, DJe 28/4/2016), o que não está evidenciado no caso concreto. Nesse sentido: RMS 54.969/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2017, DJe 23/10/2017; AgInt no RMS 46.669/MG, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/9/2017, DJe 10/10/2017; AgRg nos EDcl nos EDcl no RMS 38.064/BA, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 26/5/2015, DJe 10/6/2015.
+ ..
+10. Recurso Ordinário não provido.
+(RMS 61.763/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019.)
+A parte ora recorrente pretende, com o mandado de segurança, impugnar decisão monocrática proferida em anterior mandamusimpetrado pela mesma parte ora requerente.
+Entretanto, contra o indeferimento monocrático de seuanteriorwrit é cabível agravo interno também na origem.
+Nesse contexto, constata-se que a decisão impugnada pelo mandado de segurança era passível de recurso, sendo inadmissível o writ, nos termos da Súmula n. 267/STJ.
+Registre-se, ademais, que é possível atribuir efeito suspensivo ao agravo interno, por meio da tutela de urgência recursal, o que afasta eventual alegação de que seria cabível a impetração do mandamus contra decisão judicial impugnável apenas por recurso desprovido de eficácia suspensiva. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO JUDICIAL PASSÍVEL DE RECURSO. SÚMULA 267, DO STF. INEXISTÊNCIA DE SITUAÇÃO TERATOLÓGICA.
+1. "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição", nos termos da súmula nº 267, do STF. De acordo com o art. 5º, inciso II, da Lei 12.016/09, a qual disciplina o mandado de segurança, não caberá mandado de segurança de decisão judicial passível de recurso com efeito suspensivo. Analisando o artigo mencionado em conjunto com o art. 558, do CPC/73, que disserta sobre a possibilidade de atribuir-se efeito suspensivo ao agravo interno em casos de lesão grave ou de difícil reparação, depreende-se de forma inconteste a impossibilidade de manejar o mandado de segurança como sucedâneo de recurso. Isso porque vige no nosso ordenamento jurídico pátrio o princípio da unirrecorribilidade, que sustenta a existência de apenas um recurso adequado e necessário para atacar cada tipo de decisão. Ressalto que a possibilidade de fungibilidade ocorre tão somente em hipóteses complexas capazes de justificar o erro diante de dúvida jurisprudencial e doutrinária de qual seria o recurso correto, o que não verifico no presente caso.
+2. Agravo interno a que se nega provimento.
+(AgRg no RMS 36.631/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2018, DJe 20/3/2018.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se e intimem-se.
