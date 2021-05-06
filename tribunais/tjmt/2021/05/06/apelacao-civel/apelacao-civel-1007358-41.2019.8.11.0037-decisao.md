@@ -1,0 +1,19 @@
+Vistos etc.
+Apelação Cível interposta por CGMP CENTRO DE GESTAO DE MEIOS DE PAGAMENTO LTDA contra a sentença (ID 60502113), proferida pelo Juiz de Direito da 2a Vara Cível da Comarca de Primavera do Leste/MT, na Ação Declaratória de Inexistência de Débito c/c Repetição de Indébito no 1007358-41.2019.8.11.0037, ajuizada em seu desfavor por G.I. TRANSPORTES LTDA - ME, que, entendendo que a demandada não impugnou especificamente os relatórios do serviço de monitoramento por GPS gerado pela empresa autora, JULGOU PARCIALMENTE PROCEDENTE a ação para declarar inexistência do débito originado pelas cobranças indevidas no valor de R$75.076,70 (setenta e cinco mil setenta e seis reais e setenta centavos), bem como condenar a parte requerida à restituição simples do referido valor, acrescido de correção monetária pelo INPC e juros moratórios legais (CC, art. 406) a contar da data do efetivo pagamento indevido (CC, art. 397).
+Em face da sucumbência recíproca, condenou a parte requerida ao pagamento das custas processuais e dos honorários advocatícios, na proporção de 70% para a parte requerida e 30% para a parte autora. Fixou a verba honorária em 15% sobre o valor da condenação, nos moldes do artigo 85 do CPC, especialmente em razão do julgamento antecipado do mérito, fato que abreviou o labor profissional.
+Em seu apelo (ID 60502116), a requerida, ora apelante, requer a reforma da sentença a fim de que seja julgada improcedente e alega excludente de responsabilidade, pois logrou êxito em juntar documentos que demonstraram a fruição da parte autora dos serviços da parte ré, ao passo que aos documentos referentes ao sistema de monitoramento por GPS, juntados pela autora, são imprestáveis para comprovar um suposto dano porquanto unilaterais.
+Defende que não é a responsável pela cobrança das tarifas, uma vez que é apenas a gestora do meio de pagamento, ou seja, repassa ao seu cliente apenas as passagens que a Concessionária local encaminha a ela.
+Contrarrazões da parte apelada (ID 60502122).
+O recurso de apelação foi desprovido (ID 77718461), sobrevindo embargos de declaração (ID 78924979), bem ainda contrarrazões aos embargos (ID 80464498), ainda pendentes de análise.
+Aportou no ID 83386951 informação de que os litigantes se compuseram, com pedido expresso de homologação do acordo e desistência recursal.
+Breve relato.
+Inicialmente, cumpre esclarecer que os fatos debatidos nesta seara recursal, têm natureza patrimonial disponível. Tal fato possibilita que as partes se componham da melhor maneira possível, sendo que, em análise às obrigações assumidas, não se vislumbra disposição que se contraponha ao ordenamento jurídico.
+Aliás, os valores, prazos e condições estabelecidos se mostram razoáveis se considerado o conteúdo econômico da relação negocial existente entre os litigantes e o longo tempo que o processo está tramitando, estando o acordo, ademais, regularmente assinado por prepostos com poder de transigir e respectivos advogados.
+Com esses fundamentos, amparado nos termos do art. 487, III, “b” do CPC, HOMOLOGO o acordo formalizado no ID 83386951 pelas partes a fim de que opere seus jurídicos e legais efeitos, declarando extinto, com resolução do mérito, o Processo no 1007358-41.2019.8.11.0037, em trâmite perante a Segunda Vara Cível da Comarca de Primavera do Leste/MT.
+Ás custas processuais devem ser pagas pelas partes e honorários advocatícios fixados na forma tabulada no acordo.
+Após o trânsito em julgado, caberá ao juízo singular dirimir eventuais divergências quanto ao cumprimento do acordo.
+Derradeiramente, tendo em vista que o acordo esgota por completo as questões debatidas nesta seara recursal, julgo prejudicado o Recurso de Embargos de Declaração (ID 78924979).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes adequados.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho
+= r e l a t o r =
