@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido deduzido por CONSTRURBAN LOGÍSTICA AMBIENTAL LTDA, para concessão de efeito suspensivo a recurso especial interposto contra acórdão do TJ/SP.
+Ação: de execução de título extrajudicial ajuizada por TERRA PRETA REFORMADORA COMÉRCIO DE PNEUS E COMPONENTES LTDA em desfavor da recorrente.
+No curso do processo houve a constrição de R$ 20.039,34 via BacenJud.
+Decisão: rejeitou o pedido de liberação do valor com fundamento no fato de que a penhora antecedeu o pedido de concessão de recuperação judicial.
+Acórdão: negou provimento à apelação interposta pela requerente, conforme a seguinte ementa:
+PENHORA. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. Postulação de levantamento de bloqueio judicial, em razão do deferimento da recuperação judicial da executada e da inserção do crédito da exequente na lista geral de credores. Descabimento. Hipótese em que o deferimento do pedido de processamento da recuperação judicial gera efeitos ex nunc, não alcançando penhora (bloqueio de recursos financeiros) formalizada em momento precedente. Constrição de saldo existente em conta corrente da executada. Penhora preservada. Decisão que rejeitou a impugnação mantida. Recurso improvido. Dispositivo: negaram provimento ao recurso.
+Recurso especial: aponta violação ao art. 49 da Lei 11.101/05, além de dissídio jurisprudencial. Argumenta, em síntese, que o crédito é concursal, porquanto anterior ao pedido de recuperação judicial. Salienta que os atos de constrição devem ser exclusivamente realizados pelo juízo universal, de modo que não é possível o prosseguimento da execução individual.
+Admissibilidade: o Tribunal local admitiu o recurso especial.
+Pedido de concessão de efeito suspensivo: afirma que o periculum in mora está configurado, porquanto a autorização de levantamento do capital bloqueado por juízo diverso do universal causará prejuízo ao bom andamento da recuperação judicial.
+É o relatório. Decide-se.
+A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos elaborados pela requerente demonstram a plausibilidade de reforma do aresto impugnado, pelas razões que se passa a expor.
+Esta Corte tem orientação consolidada no sentido de que todos os créditos anteriores ao pedido de recuperação judicial, à exceção dos excluídos pela lei, a ela se sujeitam (Tema 1.051).
+No caso, ao que se vê, o crédito em discussão está sujeito aos efeitos da recuperação judicial. Logo, deverá ser habilitado no quadro geral de credores da empresa, nos termos do art. 6º, § 1º, combinado com o art. 49 da Lei n. 11.101/2005 (REsp 1873081, Terceira Turma, DJe 04/03/2021; REsp 1727771/RS, Terceira Turma, DJe 18/05/2018).
+Anote-se que o fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal (CC 100.922/SP, DJe 26/06/2009; CC 111.614/DF, DJe 19/06/2013; AgInt no CC 152.153/MG, DJe 15/12/2017). A competência para deliberar acerca da destinação do patrimônio da empresa suscitante é do Juízo Universal, em observância ao princípio da preservação da empresa.
+Nesse contexto, está preenchido o requisito da probabilidade do direito invocado.
+O periculum in mora, por sua vez, também está configurado, à medida em que o Tribunal local determinou o prosseguimento da execução individual.
+Forte nessas razões, DEFIRO o pedido de concessão de efeito suspensivo ao recurso especial.
