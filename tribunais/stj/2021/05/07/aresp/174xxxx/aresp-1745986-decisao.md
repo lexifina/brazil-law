@@ -1,0 +1,40 @@
+DECISÃO
+LINO MARQUES DE ALMEIDA (LINO) propôs ação de indenização por danos morais e materiais contra JOSE ANTONIO TEIXEIRA MARCONDES (JOSE) alegando que comprou o apartamento nº 601, situado à Rua Aires Saldanha, nº 104, Copacabana, e que os vendedores lhe apresentaram certidão de ônus reais, emitida pelo 5º Ofício de Registro de Imóveis, cujo JOSE é titular, nela constando "fração ideal de 52/1200 do terreno e 1/10 da garagem". Tendo efetuado as obras necessárias foi informado pelo síndico que seu imóvel não possuía vaga de garagem, embora constasse da certidão e do registro cartorário. Afirma que, em reunião no cartório do 5º RGI, o JOSE reconheceu o erro da certidão e do registro do imóvel. Requereu indenização por lucros cessantes.
+Em primeira instância, o pedido foi julgado procedente parcialmente para condenar JOSÉ ao pagamento de indenização referente à diferença de valor entre o apartamento adquirido e outro com o mesmo tamanho e localização, mas com direito de vaga na garagem na escritura; a restituição das despesas com a aquisição do imóvel; restituição das despesas de cotas condominiais e IPTU referente a 2014 (parte) e 2015, bem como as despesas que se vencerem; ao pagamento de indenização à título de lucros cessantes; indenização a título de dano moral; e, ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 534/541).
+As partes interpuseram apelaçãoque foram parcialmente providas pelo Tribunal Carioca nos termos do acórdãoassim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. ERRO NO REGISTRO DO IMÓVEL ADQUIRIDO PELO AUTOR. CERTIDÃO IMOBILIÁRIA NA QUAL CONSTAVA VAGA DE GARAGEM INEXISTENTE, CAUSANDO PREJUÍZOS AO COMPRADOR. FALHA NA PRESTAÇÃO DO SERVIÇO.
+1. Preliminares rejeitadas. Competência do Juízo da Vara Cível. Questão de natureza litigiosa, na qual se pretende indenização em decorrência de falha na prestação do serviço prestado pelo Notário do Registro Imobiliário, afastando a competência da Vara de Registros Públicos.
+2. Denunciação da lide à seguradora que não merece prosperar. Este Tribunal de Justiça já firmou entendimento de que o ingresso de terceiro em demanda envolvendo a responsabilidade objetiva implicaria na reunião de relações jurídicas com diferentes tipos de responsabilidade civil, em prejuízo ao andamento do processo. Precedentes.
+3. O Superior Tribunal de Justiça já firmou entendimento no sentido de não ser obrigatória a denunciação da lide prevista no artigo 70, III, do CPC, sendo ademais, impertinente quando apenas deseja transferir toda responsabilidade para o denunciado. Ademais, eventual direito de regresso não estará comprometido, pois poderá ser exercido em ação autônoma. Agravo retido desprovido por maioria.
+4. Descabimento do chamamento ao processo dos antigos proprietários do imóvel.
+5. Responsabilidade objetiva da parte ré que decorre da natureza essencialmente pública do serviço notarial e registral (artigo 37, §6º, da CRFB).
+6. Apelantes que não provaram a existência de excludentes do nexo de causalidade (artigo 373 do CPC), havendo suficiente demonstração nos autos do liame causal entre a conduta do agente público e o prejuízo sofrido pelos Autores.
+7. Redução das verbas indenizatórias. Lucros cessantes que não foram comprovados.
+8. Dano moral in re ipsa, cujo valor deve ser reduzido, em consonância com os princípios da razoabilidade e proporcionalidade.
+9. Juros de mora a contar do evento danoso. Súmulas 54 do Superior Tribunal de Justiça.
+10. Honorários advocatícios corretamente fixados.
+11. No que concerne à verba destinada ao custeio das despesas com os assistentes técnicos, a lei processual determina que cada parte arcará com tais custas (artigo 95 do CPC), porém devem ser ressarcidos no final da demanda ao vencedor, de acordo com princípio da sucumbência. É consectário lógico da própria dinâmica processual que o vencido tem a obrigação de arcar com o ônus sucumbencial, já que deu causa à propositura da demanda.
+12. Provimento parcial de ambos os recursos (e-STJ, fls. 670/672).
+Os embargos de declaração opostos LINO foram rejeitados (e-STJ, fls. 748/754).
+Irresignado, LINO interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 141,341, 374, II,489, § 1º, III e IV, 492, caput, 932, III, 1.010, III e IV, e1.022do NCPC , sob os seguintes argumentos: (1)ausência de fundamentação e negativa de prestação jurisdicional pois o TJRJ teria incorrido em omissões relativas à inadmissibilidade da apelação, ao julgamentoextra petita e ao fundamento para a fixação da sucumbência recíproca poisreduziuo valor dos danos morais sem pedido de JOSÉ; (2) julgamento extra petita quanto aos pedidos de indenização dos danos emergentes e lucros cessantes; (3) o pedido de restituição das despesas com ITBI, escritura e IPTU são incontroversos porque não impugnados pelo réu; e (4) necessidade demajoração da indenização por danos morais (e-STJ, fls. 766/783).
+O apelo nobre não foi admitido em virtude da(1)ausência de ofensaaos arts. 489 e 1.022 do NCPC e(2) incidência da Súmula nº7 do STJ (e-STJ, fls. 867/871).
+Nas razões do presente agravo em recurso especial, LINO sustentou (1) a existência de violação aos art. 489 e 1.022 do NCPC; e, (2) que não seriao caso de reexame de matéria fático probatória (e-STJ, fls. 882/891).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+CONHEÇO do agravo de LINO e passo ao julgamento do recurso especial interposto às e-STJ, fls. 766/783.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu em omissões relativas à inadmissibilidade da apelação,ao julgamento extra petita e ao fundamento para a fixação da sucumbência recíproca pois reduziu o valor dos danos morais sem pedido de JOSÉ.
+É condição sine qua non ao conhecimento do especial que as questões de direito ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+Assim, recusando-se o TJRJ a se manifestar sobre as questões federais terminou por negar prestação jurisdicional aoRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial determinando o retorno dos autos ao TJRJpara que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÕES.AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
