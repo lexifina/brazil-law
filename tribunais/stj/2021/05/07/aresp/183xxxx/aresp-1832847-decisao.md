@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por ALTAIR FREGNANIcontra a decisão que inadmitiu o recurso especial.
+A denegação deu-se pelos seguintes fundamentos:
+"ALTAIR FREGNANI interpôs tempestivo recurso especial, com fundamento no artigo 105, inciso III, alíneas "a"e "c", da Constituição Federal, contra acórdão proferido pela Décima Oitava Câmara Cível deste Tribunal de Justiça.
+O Recorrente alega ocorrer, além do dissídio jurisprudencial, violação dos artigos 6 º , 39 e 51, do Código de Defesa do Consumidor. Sustenta, em síntese: a) a ilegalidade da cobrança da tarifa de cadastro, pois não teria sido observada a onerosidade excessiva; b) ilegalidade da cobrança da tarifa de Avaliação do Bem e de Registro de Contrato, uma vez que não se considerou a onerosidade excessiva, bem como a comprovação dos serviços prestados; c) ilegalidade de cobrança da tarifa referente a "Seguros", na medida em que se trata de venda casada; d) a abusividade da taxa de juros remuneratórios; e) incidência de encargos abusivos na base de cálculo do I0F; e f) abusividade da cobrança de encargos moratórios com comissão de permanência, cobrados no período de normalidade contratual, devendo ocorrer a descaracterização da mora.
+Nesse contexto, verifica-se que no que diz respeito à tarifa de Avaliação do Bem, a Câmara Julgadora aplicou o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo n º 1.578.553/SP (Tema 958/STJ), sob relatoria do MIN. PAULO DE TARSO SANSEVERINO, em que restou definido a "validade da tarifa de avaliação do bem dado em garantia,  .. , ressalvadas a abusividade da cobrança por serviço não efetivamente prestado; e a possibilidade de controle da onerosidade excessiva, em cada caso concreto".
+Por outro lado, quanto a tarifa de cadastro e cobrança do I0F, foi aplicada a tese firmada pelo Superior Tribunal de Justiça nos Recursos Especiais Repetitivos n. 1.255.573/RS e 1.251.331/RS (Temas 618 a 621):
+(..)
+No que concerne à tarifa de Seguro, a Apelação Cível foi julgada em conformidade com o que restou estabelecido no Recurso Especial Repetitivo n. 1.639.320/SP (Tema 972):
+(..)
+Já no que diz respeito à taxa de juros remuneratórios e descaracterização da mora, a conclusão assentada pelo Órgão Julgador encontra-se em consonância com a tese fixada no Recurso Especial Repetitivo n º 1.061.530/RS. Confira-se:
+(..)
+Assim, quanto aos tópicos recursais analisados acima, aplica-se o artigo 1.030, inciso I, alínea "b"do Código de Processo Civil.
+Ademais, a modificação do entendimento assentado pelo Colegiado quanto à onerosidade excessiva, efetiva prestação dos serviços, venda casada, e outros detalhes contratuais das alegações, demandaria o revolvimento fático-probatório dos autos, inclusive mediante análise de cláusulas do contrato.
+Destarte, incidem os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça, uma vez que "o recurso especial não comporta a interpretação de cláusulas contratuais ou o exame de questões cuja solução exija o revolvimento de elementos fático-probatórios dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ"(REsp 1343313/SC, Rel. MIN. LUIS FELIPE SALOMÃO, QUARTA TURMA, Julgado em 01/06/2017, DJe 01/08/2017).
+Ainda, quanto à tarifa de Registro de Contrato, denota-se que a matéria não foi objeto de debate pelo Órgão Julgador, de modo que a tese recursal carece do indispensável requisito do prequestionamento.
+Dessa forma, aplica-se as Súmulas 282 e 356 do Supremo Tribunal Federal, pois é consabido que "a simples irresignação recursal, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF"(AgInt no AREsp 1464204/SC, Rel. MIN. ANTONIO CARLOS FERREIRA, QUARTA TURMA, Julgado em 30/09/2019, DJe 03/10/2019).
+Ressalta-se que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+Diante do exposto, com fulcro no artigo 1.030, inciso I, alínea "b", do Código de Processo Civil, nego seguimento ao recurso especial interposto por ALTAIR FREGNANI, no que se refere às tarifas de cadastro, de avaliação do bem, de seguros, quanto aos juros remuneratórios e descaracterização da mora, inadmito-o em relação às demais alegações" (fls. 1.089/1.091e-STJ).
+A parte interpôs agravo interno (fls. 1.103/1.156 e-STJ) em virtude da aplicação do art. 1.030 do CPC/2015, que foi julgado às fls. 1.196/1.195 e-STJ.
+Às fls. 1.207/1.217 e-STJinterpôs agravo em recurso especial, sustentando que não se aplicam as Súmulas nºs 5 e 7/STJ ao presente caso.
+Pleiteia que o recurso especial seja apreciado.
+Contraminuta às fls. 1.563/1.578e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Inicialmente, observa-se que a decisão de inadmissibilidade do recurso especial foi disponibilizada no DJe em 27/8/2020(fl. 1.095e-STJ), ocasião em que já se encontrava em vigor o Código de Processo Civil de 2015, que prevê, expressamente, em seu art. 1.030, I, "b", § 2º, que o recurso admissível em tal hipótese é o de agravo interno:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal
+Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+II -encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos
+§ 2º Da decisãoproferida com fundamento nos incisoI e III caberá agravo interno, nos termos do art. 1.021".
+A propósito, a Terceira Turma deste Superior Tribunal, quando do julgamento do AREsp nº 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/8/2016, firmou o entendimento de que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constitui erro grosseiro.
+Eis a ementa:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. (..)
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015".
+Assim, como a parte interpos o agravo interno, não há falar em análise dos tópicos que já foram julgados.
+Quanto ao mais, observa-se dos autos que a parte não infirmou o fundamentoreferenteà incidência da Súmula nº 282/STF, o que atrai, quanto ao ponto, a aplicação do disposto no art. 932, III, do Código de Processo Civil de 2015, que faculta ao relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+"PROCESSUAL CIVIL (CPC/2015). AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM COM BASE NO ARTIGO 1.030, I, B, DO CPC/2015. DEMAIS FUNDAMENTOS. MERO REFORÇO ARGUMENTATIVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO IMPROVIDO" (AgInt no AREsp 1303823/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/3/2019, DJe 21/3/2019).
+Ante o exposto, não conheço do agravo em recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois milreais) - fl. 750e-STJ, os quais devem ser majorados para R$ 3.000,00 (três mil reais)em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, ressalvada a justiça gratuita.
+Publique-se.
+Intimem-se.
