@@ -23,9 +23,9 @@ XIV - a criação ou majoração de vinculação de receitas públicas de qualqu
 XV - a propositura de ação judicial para discutir a dívida ou o contrato citados nos incisos I e II do art. 9º;
 XVI - a vinculação de receitas de impostos em áreas diversas das previstas na Constituição Federal.
 §1 O Regime de Recuperação Fiscal impõe as restrições de que trata o caput deste artigo a todos os Poderes, aos órgãos, às entidades e aos fundos do Estado.
-§ 2º As vedações previstas neste artigo, desde que expressamente previsto no Plano, poderão ser, a partir do quarto exercício de vigência do Regime:
+§ 2º As vedações previstas neste artigo poderão ser:
 I - objeto de compensação; ou
-II - excepcionalmente ressalvadas.
+II - afastadas, desde que previsto expressamente no Plano de Recuperação Fiscal em vigor.
 § 3º A compensação prevista no inciso I do § 2º deste artigo, previamente aprovada pelo Conselho de Supervisão do Regime de Recuperação Fiscal, se dará por ações:
 I - com impactos financeiros iguais ou superiores ao da vedação descumprida; e
 II - adotadas no mesmo Poder ou no Tribunal de Contas, no Ministério Público e na Defensoria Pública.
