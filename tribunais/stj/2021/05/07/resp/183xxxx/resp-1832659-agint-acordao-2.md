@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE DE MERCADO (CTVA). INCORPORAÇÃO. CEF E FUNCEF. PEDIDOS. CUMULAÇÃO INDEVIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Causa de pedir e pedido que não se limitamexclusivamente a questões previdenciárias, dependendo da discussão preliminar de matéria atinente à relação de trabalho.
+3. Compete à Justiça do Trabalho, dentro dos seus limites, a apreciação e o julgamento da controvérsia, nada impedindo o ajuizamento, se for o caso, de ação própria futura perante a Justiça Comum exclusivamente contra a entidade de previdência privada. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+CAIXA ECONÔMICA FEDERALinterpõe agravo interno contra a decisão (fls. 1.580/1.583e-STJ) que reconheceu a incompetência da Justiça Federal para a apreciação da presente ação e determinou a remessa dos autos à Justiça do Trabalho a fim deprosseguirno julgamento do feito, dentro dos limites desua competência.
+Em suas razões, a agravante sustenta a impossibilidade do reconhecimento de ofício da incompetência da Justiça Comum na espécie.
+Defende a inaplicabilidade da Súmula nº 170/STF e a observância do Tema 190 da Repercussão Geral do Supremo Tribunal Federal(fls. 1.586/1.601 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE DE MERCADO (CTVA). INCORPORAÇÃO. CEF E FUNCEF. PEDIDOS. CUMULAÇÃO INDEVIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Causa de pedir e pedido que não se limitamexclusivamente a questões previdenciárias, dependendo da discussão preliminar de matéria atinente à relação de trabalho.
+3. Compete à Justiça do Trabalho, dentro dos seus limites, a apreciação e o julgamento da controvérsia, nada impedindo o ajuizamento, se for o caso, de ação própria futura perante a Justiça Comum exclusivamente contra a entidade de previdência privada. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicadonavigência do Código de Processo Civil de 2015 (EnunciadosAdministrativosnºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Conforme consignado na decisão atacada, a presente demanda não se limita àmatéria previdenciária, pois, para que a Justiça Federal examine a viabilidade de reajuste do benefício de aposentadoria da parte recorrente, necessário definirse a parcela denominada Complemento Temporário Variável de Ajuste de Mercado - CTVAtem ou não natureza salarial.
+Constatando-se ter havido indevida cumulação de pedidos, determinou-sea remessa dos autos àJustiça do Trabalho para apreciação dos pedidos afetos à sua competência, nada impedindo o ajuizamento, se foro caso, de ação própria futura perante a Justiça Comum exclusivamente contra a entidade de previdência privada visando àdiscussão dos eventuais impactos da decisão trabalhista na complementação de aposentadoria.
+Tal entendimento é o que melhor se coaduna com o firmado pelo Supremo Tribunal Federal no julgamento do RE nº 586.453/SE, o qual, aliás, nãotratou da referida cumulação de pedidos trabalhistas com previdenciários, como se deu na presente hipótese.
+A propósito:
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO REVISIONAL DE BENEFÍCIO COMPLEMENTAR PREVIDENCIÁRIO. CUMULAÇÃO INDEVIDA DE PRETENSÕES DISTINTAS CONTRA A CAIXA ECONÔMICA FEDERAL E A FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF. APLICAÇÃO, COM AS ADAPTAÇÕES AO CASO CONCRETO, DA SÚMULA 170/STJ. PRECEDENTES DA SEGUNDA SEÇÃO.
+1. A ação originalmente proposta possui causa de pedir e pedidos que repercutem no contrato de trabalho firmado pela autora, com a pretensão de ser reconhecida a omissão da CEF na inclusão da CTVA na base de cálculo das contribuições efetuadas à FUNCEF, o que atrai a competência da Justiça Especializada.
+2. Contudo, o feito também contempla requerimento de integralização da reserva matemática, com a inclusão da CTVA, e consequente repercussão no benefício pago a entidade previdenciária - matérias que atraem a competência da Justiça Comum, se acaso for reconhecido o pleito trabalhista de que a CEF deixou de repassar a verba relativa à referida parcela.
+3. Houve, portanto, cumulação indevida de pretensões distintas em face da CEF e da FUNCEF, hipótese que difere dos julgados prolatados pelo Supremo Tribunal Federal no RE 586.453-SE e 583.050-RS.
+4. Portanto, aplica-se, com as adaptações atinentes ao caso concreto, o enunciado da Súmula 170 desta Corte: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio". Precedentes da Segunda Seção: EDcl no CC 139.590/DF, Rel. Min. Raul Araújo, DJe 6.5.2016; AgInt no CC 144.476/RJ, Rel. Min. João Otávio de Noronha, DJe 22.8.2016; CC 135.882/SC, Rel. Min. Raul Araújo, DJe 3.8.2016; AgRg no CC 144.129/SP, Rel. Min. Moura Ribeiro, DJe 1º.7.2016.
+5. Isso porque, não obstante a demanda tenha sido ajuizada perante a Justiça Federal, as pretensões trabalhistas deduzidas contra a CEF devem ser primeiramente analisadas na Justiça Especializada, visto que seu exame é prejudicial ao daquele contido nos pedidos previdenciários voltados à FUNCEF, ressalvada a possibilidade do posterior ajuizamento de nova ação, perante a Justiça Comum, contra a entidade de previdência privada, após o deslinde da demanda trabalhista.
+6. Agravo interno não provido"(AgInt no CC 152.217/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 29/11/2017).
+"AGRAVOS INTERNOS. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA PROPOSTA CONTRA A CEF E A FUNCEF. CTVA. PEDIDO QUE NÃO SE RESTRINGE À ANÁLISE DAS REGRAS DA PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AGRAVO INTERNO DESPROVIDO.
+1. A ação originária cumula, indevidamente, o pedido antecedente de condenação da ex-empregadora (CEF) em aportar contribuições previdenciárias sobre determinada parcela salarial (CTVA) com o pedido consequente de reajuste de proventos de aposentadoria complementar a cargo de entidade de previdência privada (FUNCEF).
+2. Considerando que a matéria em discussão no pedido antecedente é afeta à relação de emprego estabelecida com a CEF, ainda que haja reflexos no valor dos benefícios de responsabilidade da entidade de previdência privada, cabe ao Juízo do Trabalho dele conhecer inicialmente, decidindo-o nos limites da sua jurisdição, com a posterior remessa dos autos, se cabível, para o Juízo Comum competente para conhecer do pedido consequente dirigido à entidade de previdência privada.
+3. Aplica-se à hipótese, com as adaptações pertinentes, o enunciado da Súmula nº 170 desta Corte, segundo a qual "compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição (a quem compete inclusive o controle das condições da ação), sem prejuízo de nova causa, com pedido remanescente, no juízo próprio".
+4. Agravos internos aos quais se nega provimento"(AgInt no CC 154.828/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 14/3/2018, DJe 19/3/2018).
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO PROPOSTA CONTRA A CEF E A FUNCEF. PEDIDO QUE NÃO SE RESTRINGE À ANÁLISE DAS REGRAS DA PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA, INICIALMENTE, DA JUSTIÇA DO TRABALHO. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. RECURSO DESPROVIDO.
+1. A causa de pedir da contenda tem origem na exclusão da parcela denominada CTVA do salário de contribuição do autor, fato que terá repercussão financeira em sua aposentadoria futura, mas, cuja solução não se restringe à interpretação das regras da previdência complementar.
+2. Considerando que a matéria em discussão é afeta à relação de emprego estabelecida com a CEF, ainda que haja reflexos no valor dos benefícios de responsabilidade da entidade de previdência privada, a FUNCEF, aplica-se ao caso, com as devidas adaptações, o comando da Súmula 170/STJ: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio". Precedentes da Segunda Seção.
+3. Não é admitida a utilização do agravo interno para prequestionar matéria constitucional com vistas à eventual interposição de recurso extraordinário.
+4. Agravo interno a que se nega provimento"(AgInt no CC 157.737/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 19/3/2019, DJe 21/3/2019).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
