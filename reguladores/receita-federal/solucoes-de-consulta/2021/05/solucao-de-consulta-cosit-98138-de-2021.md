@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 98138, de 27 de abril de 2021
+Assunto: Classificação de Mercadorias
+Código NCM: 8471.30.19
+Mercadoria: Máquina automática para processamento de dados, concebida para ser ajustada à cabeça e operada sem o uso das mãos, com movimentos de olhos, gestos de cabeça e comando de voz, capaz de processar dados, executar programas e ser conectada à Internet por uma rede sem fio, permitindo ao usuário, por exemplo, realizar chamadas de vídeo, navegar em documentos, transmitir e receber dados, arquivos, fotos e vídeos. O equipamento tem, entre outras, as seguintes características: dimensões 50 x 140 x 25 mm, peso 380 g, teclado virtual padrão, bateria recarregável com duração de 9 a 10 horas, tela LCD com área de aproximadamente 0,30 cm2 e resolução WVGA 854 x 480 pixels, braço de elevação com ajuste em seis direções para todos os tamanhos de cabeça, compatível com o olho direito ou esquerdo, câmera frontal, processador 2.0 GHz 8-core, memória de 16 GB de armazenamento interno, 2 GB de RAM, slot para MicroSD (suporte para cartões com, no máximo, 256 GB), sistema operacional Android 8.1.0 (AOSP) e interface WearHF¿ do tipo "mãos livres", conectividade Bluetooth e Wi-Fi, GPS, acompanhado dos acessórios: carregador de parede para a bateria, cabo USB tipo C, adaptador de USB tipo C para USB micro, cinta suspensa, acolchoamento traseiro para cabeça e bateria removível, que seguem o mesmo regime de classificação.
+Dispositivos Legais: RGI-1 (Notas 3 da Seção XVI e 5A do Capítulo 84), RGI-6 e RGC-1 da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+SC Cosit 98.138-2021
+[arquivo anexo: SC Cosit nº 98.138-2021.pdf]
+NEY CÂMARA DE CASTRO
+Presidente da 1ª Turma do Ceclam
