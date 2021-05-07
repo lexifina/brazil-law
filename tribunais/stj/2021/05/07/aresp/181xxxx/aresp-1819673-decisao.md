@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por TRANSBRASILIANA - CONCESSIONÁRIA DE RODOVIA S.A.desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo que, inadmitiu o apelo raro, aos seguintes fundamentos: (I) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão; (II) não ficou evidenciado o suposto maltrato às normas legais enunciadas;(II)rever a posição da Turma Julgadora importaria emreexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, conforme a Súmula 7/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 7/STJ, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Assim, incide a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Por fim, registre-se que essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), na qual se reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
