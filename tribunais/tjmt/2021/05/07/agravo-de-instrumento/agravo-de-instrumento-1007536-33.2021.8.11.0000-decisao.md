@@ -1,0 +1,32 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1007536-33.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por UNIMED NORTE MATO GROSSO - COOPERATIVA DE TRABALHO MÉDICO, em virtude da decisão proferida pelo Juiz da 3.a Vara Cível da Comarca de Alta Floresta que, nos autos da Ação de Obrigação de Fazer c/c Indenização por Danos Morais n.o 1002309-41.2021.8.11.0007, proposta por GABRIELA BARBOSA GOUVEA, por si e representando o infante F.G., deferiu a tutela de urgência pleiteada pelo Autor/Agravado, determinando que a Seguradora/Agravante autorize/custeie o tratamento médico descrito na exordial, sob pena de multa diária.
+Inconformada, a Seguradora Agravante almeja a reforma do decisum, ao argumento de que não foram observados os requisitos autorizadores para a concessão da medida liminar deferida pelo Juízo a quo.
+Assevera que estará sujeita a experimentar grave prejuízo financeiro de difícil reparação, pois obriga a Recorrente a custeio/tratamento em contrariedade à legislação especial aplicável.
+Segue argumentando que o contrato de prestação de serviços de saúde celebrado com o Agravado não confere à usuária cobertura ampla e irrestrita, estando a segurado/Agravado vinculada aos procedimentos considerados de cobertura obrigatória.
+Por fim, alega a Recorrente que somente é responsável por autorizar/custar os procedimentos médicos que estejam albergados pelas coberturas dispostas no contrato de plano de saúde contratado, o que não é o caso dos autos.
+Com esses argumentos, pugna pelo deferimento do efeito suspensivo para sobestar o decisum invectivado. No mérito, requesta o provimento do recurso.
+É o relatório. Decido.
+Recebo o Agravo de Instrumento, pois o recurso desafia decisão interlocutória que versa sobre tutela provisória, o que é autorizado pelo inciso I, do artigo 1.015, do Código de Processo Civil, está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, §5.o do CPC.
+É cediço que o artigo 1.019 inciso I, do Código de Processo Civil, dispõe acerca da possibilidade de o Relator deferir efeito suspensivo ao Recurso, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se dá imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Importante salientar que neste momento processual cabe tão somente verificar se os requisitos necessários para concessão do efeito pleiteado estão evidenciados ou não, uma vez que a Recorrente busca a imediata suspensão da tutela concedida ao Recorrido.
+Ressai dos autos que o Agravado é beneficiário do plano de saúde sob o registro da ANS n.o 420.436099-1, celebrada a inclusão em 01o/04/2020 com a Cooperativa Agravante (ID. 85832496).
+Após consulta com o Neuropediatra Dr. Wanclis Pinheiro Poussan, realizada em 23/10/2019, o Recorrido F.G. foi diagnosticado com atraso global no desenvolvimento por sequela de prematuridade, apresentou epasticidade, predominando epasticidade voluntária (ID. 53263246).
+Em 10/02/2021, após nova consulta médica, desta vez com o Dr. Bruno Vilela. Gomes (CRM-MT 6510), foi indicado ao Agravado a realização do tratamento intensivo “TREINI – REEDUCAÇÃO E REABILITAÇÃO NEUROLÓGICA, 5 VEZES NA SEMANA, DE 2 A HORAS DE ATENDIMENTO DIÁRIOS”, como se vê do ID. 53263255 – autos originários.
+Todavia, o requerimento foi indeferido pela Recorrente sob o fundamento de que o procedimento não possui cobertura pelo rol de procedimentos e eventos da Agência Nacional da Saúde/ANS; não se encontra listado no Anexo I da Resolução Normativa 428.2017 (ID. 53263258 – ação principal).
+Diante da negativa, ajuizou Ação de Obrigação de Fazer com o intuito de obter o procedimento/tratamento com o custeio da Cooperativa Recorrente.
+O juiz a quo deferiu a medida liminar e determinou à Agravante a autorização/custeio do procedimento médico descrito na exordial, sob pena de astreintes em caso de descumprimento.
+Inconformada, a Recorrente pugna pela reforma do decisum, aduzindo a ausência de obrigação legal ou contratual de custear o procedimento médico pleiteado pelo Agravado.
+Pois bem. Da análise acurada dos autos, pelo menos nesta fase preambular, tenho que razão não assiste a Agravante, posto que, pelo que se observa do Relatório Médico acostado ao ID. 53263255, o tratamento indicado é imprescindível para que o Recorrido posse desenvolver totó seu potencial dentro de sua condição clínica.
+Sobre o tema em exame, o Superior Tribunal de Justiça firmou entendimento no sentido de que é possível à operadora de plano de saúde estabelecer as doenças que terão cobertura contratual, mas não o tipo de tratamento prescrito ao usuário, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para realização do ato proposto pelo médico. A título ilustrativo, cito o AgInt. no AREsp. n.o 969.764/CE, de Relatoria do Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5.a Região), julgado em 15/03/2018 e publicado em 23/03/2018.
+De igual modo, é cristalino o risco imposto ao Agravado com a negativa de realização do exame, uma vez que é imprescindível que se dê continuidade ao tratamento que lhe fora prescrito. descobrir a origem do quadro patológico do paciente para que seja realizado o tratamento adequado, caso contrário, os sintomas poderão piorar.
+Oportuno ressaltar, que a saúde é um bem jurídico valioso e a não atribuição do direito à saúde caracteriza-se como um inaceitável desrespeito ao direito à vida e à dignidade da pessoa humana.
+Neste compasso, ante a presença dos requisitos necessários para concessão da tutela de urgência pleiteada pelo Agravado na Instância singela, escorreita a decisão atacada que determinou à Requerida, ora Agravante, que custeie todas as despesas necessárias à realização do exame indicado pelo médico do Recorrido.
+Por tais considerações, ausentes os requisitos necessários para a concessão da medida in limine, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se o Agravado para, querendo, apresentar resposta no prazo legal.
+Colha-se a opinião ministerial.
+Cuiabá, 06 de maio de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
