@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpusajuizado em nome deDaniel Batista da SilvaRochacontra o acórdão proferido pelo Tribunal de Justiça da Bahiano HC n. 8000834-17.2021.8.05.0000, que manteve a prisão preventiva decretadanos Autos n. 0300370-20.2020.8.05.0088, da 1ª Vara Criminal da comarca de Guanambi/BA.
+Em suma, alega-se a ocorrência de nulidade por não ter ocorrido audiênciade custódia na origem; a ausência de reanálise do decreto preventivo (art. 316, parágrafo único, do CPP); o excesso de prazo na formação da culpa;a falta dos requisitos legais para a manutenção da custódia; e aplicabilidade das disposições da Recomendação n. 62/2020 do Conselho Nacional de Justiça ao caso.
+Busca-se a concessão de medida liminar a fim de revogar ou relaxar a prisão preventiva do paciente.
+Pretensão de urgênciaindeferida (fls. 75/76).
+Informações prestadas pelo Juízo de primeiro grau (fls. 82/83).
+Parecer do Ministério Público opinando pelo não conhecimento dohabeas corpus(fls. 86/102).
+Às fls. 110/118, a defesa reitera as alegações iniciais e postula a concessão da ordem.
+É o relatório.
+Ressalte-se, inicialmente, que questões relativas à nulidade da prisão pela não realização daaudiência de custódia ficam superadas pela conversão do flagrante emprisão preventiva. Precedentes.(AgRg no HC n. 650.721/TO,Ministro Ribeiro Dantas, Quinta Turma,DJe 9/4/2021).
+No que diz respeito ao alegado excesso de prazo,aplicável ao caso a Súmula 52/STJ,porquanto, segundo noticiado à fl. 82, a instrução processual encontra-se encerrada, os autos da ação penal aguardam a apresentação de alegações finais pelo Ministério Público.
+Relativamente aos fundamentos da prisão cautelar, não enxergo constrangimento ilegal a ser reparado nestes autos.
+Na espécie, o Juízo de origem, ao decretar a preventiva,considerou a existência de indícios de que o paciente integraperigosa quadrilha de traficantes armados que é responsável por centenas de crimes em Guanambi e região, incluindo diversos homicídios qualificados(fl. 68).
+E, ainda, consta dos autos que o acusado foi flagrado na posse de substâncias de diversas naturezas, como "maconha", dividida em quatorze tabletes grandes, três tabletes maiores, oito trouxinhas, totalizando 12,1 kg, uma porção de "cocaína" e cento e vinte comprimidos de "LSD", além da posse de três armas de fogo, sendo uma com numeração suprimida, juntamente com munições de variados calibres (fl. 47), além de petrechos para embalamento das drogas.
+Vê-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além dos indícios de que o réu pertença a facção criminosa, a quantidade da droga apreendida, e a presença de armas no local(RHC n. 136.800/CE, da minha relatoria, Sexta Turma, DJe 13/4/2021).
+Concordo, pois, com a opinião do Subprocurador-Geral da República Roberto dos Santos Ferreira de que há fundamentação idônea a justificar a manutenção da prisão preventiva do paciente(fl. 93).
+Dessa forma, indicados fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública(AgRg no RHC n. 139.090/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2021).
+Além disso, esta Corte Superior de Justiça tem entendido que aalteração promovida pela Lei n. 13.964/2019 ao art. 316 do CódigoPenal estabeleceu que o magistrado revisará, a cada 90 dias, anecessidade da manutenção da prisão, mediante decisão fundamentada,sob pena de tornar a prisão ilegal. Não se trata, entretanto, determo peremptório, isto é, eventual atraso na execução deste ato nãoimplica automático reconhecimento da ilegalidade da prisão, tampoucoa imediata colocação do custodiado cautelar em liberdade (AgRg nosEDcl no HC n. 605.590/MT, Ministro Reynaldo Soares da Fonseca,Quinta Turma, DJe 15/10/2020).
+Por fim, no que tange à Recomendação n. 62 do Conselho Nacional de Justiça, não consta dos autos efetiva comprovação de que o acusado seja vulnerável ao contágio pela Covid-19, integrando o chamado grupo de risco, tampouco que a unidade prisional em que recolhido não possua condições de atendimento médico adequado.
+Ante o exposto, conheço em parte da impetração e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. APLICABILIDADE DA SÚMULA 52/STJ. NULIDADE. AUSÊNCIA DA AUDIÊNCIA DE CUSTÓDIA. VÍCIO SUPERADO PELA DECRETAÇÃO DA PREVENTIVA. FUNDAMENTOS. INDICAÇÃO DE ELEMENTOS CONCRETOS. EXPRESSIVA QUANTIDADE DE SUBSTÂNCIAS TÓXICAS. MOTIVAÇÃO IDÔNEA. REVISÃO NONAGESIMAL DA PRISÃO. PRAZO NÃO PEREMPTÓRIO. RECOMENDAÇÃO N. 62/CNJ. MAIOR VULNERABILIDADE. FALTA DE COMPROVAÇÃO. AUSÊNCIA DEMANIFESTA ILEGALIDADE.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
