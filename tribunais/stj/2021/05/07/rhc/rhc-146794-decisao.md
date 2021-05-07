@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto porThiago Santana da Silva contra o acórdão proferido pelo Tribunal de Justiça do Pará no HC n. 0802879-48.2021.8.14.0000, que manteve incólume a segregação cautelar.
+Narram os autos que o recorrente teve a seu desfavor, juntamente com seus comparsas, decreto de prisão temporária, posteriormente convertida em prisão preventiva, pela prática dos crimes dos arts. 121, § 2º, I (motivo torpe), IV (recurso que dificulte ou terne impossível a defesa do ofendido), e V (assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime); 211; 288, parágrafo único; 299; 304 e 347, c/c o art. 69, todos do Código Penal.
+Denunciadona Ação Penal n. 0803083-88.2020.8.14.0045, no âmbito da Vara Criminal de Redenção/PA, a inicial acusatória imputou ao recorrente o delito do art. 121, § 2º, I (mediante paga ou promessa de recompensa), IV (recurso que dificulte ou torne impossível a defesa do ofendido)e V (para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime); 211; 288, parágrafo único; 299; 304 e 347, c/c o art. 69, todos do Código Penal (fl. 293 - grifo nosso).
+A defesa insiste, no presente recurso ordinário, na alegação de constrangimento ilegal na segregação cautelar do recorrente, uma vez que se encontra em situação fático-processual idêntica de corréu beneficiado com medidas cautelares alternativas, motivo pelo qual deve lhe ser estendida a mesma medida.
+É o relatório.
+O recurso é manifestamente descabido.
+Com efeito, a alegação referente à extensão dos efeitos da medida cautelar alternativa deferida ao corréu, em benefício do recorrente, não foi decidida no acórdão ora impugnado, uma vez que o Tribunal de Justiça paraense afirmou categoricamente que se tratava de reedição de fundamentos já analisados no pedido antecedente (fl. 456), motivo pelo qual não conheceu da impetração.
+Dessa forma, a ausência de pronunciamento pelo Tribunal de Justiça obsta o conhecimento da quaestio iuris por esta Corte Superior, sob pena de configurar a indevida e vedada supressão de instância.
+Ademais, importante destacar que a defesa lançou mão anteriormente de outros habeas corpus e outros recursos ordinários visando discutir a segregação cautelar, o que também caracteriza a ausência de interesse recursal do presente recurso ordinário, ante a falta de utilidade na reiteração de pedidos.
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA FUNDADA NA GARANTIA DA ORDEM PÚBLICA. DEFESA BUSCA A EXTENSÃO DOS EFEITOS DE DECISÃO QUE DEFERIU A CORRÉU MEDIDAS CAUTELARES ALTERNATIVAS. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE JUSTIÇA. REEDIÇÃO DE WRIT ANTERIORMENTE DENEGADO. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA PELO SUPERIOR TRIBUNAL DE JUSTIÇA, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Recurso não conhecido.
