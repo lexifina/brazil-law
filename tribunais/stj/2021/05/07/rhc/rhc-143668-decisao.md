@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpuscom pedido liminar interposto porMARINA TEIXEIRA ONEZIO apontando-secomo autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Habeas Corpus Criminal n.1.0000.20.076659-0/000).
+Depreende-se dos autos que o Juízo de primeirograu converteu a prisão em flagrante da paciente em preventiva a teor dos arts. 312 e 313 do Código de Processo Penal pela suposta prática dodelitodoart. 33 da Lei de Tóxicos (tráfico de drogas), com fundamento na garantia da ordem pública (e-STJ fls. 168/170).
+Impetrado prévio writ na origem, a ordem foi denegadaa teor da ementa de e-STJ fl. 252:
+HABEAS CORPUS -TRÁFICO DE DROGAS - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - PRESENÇA DOS PRESSUPOSTOS ELENCADOS NOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL - VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - INOCORRÊNCIA - CONDIÇÕES PESSOAIS FAVORÁVEIS -INSUFICIÊNCIA PARA OBSTAR A CONSTRIÇÃO CAUTELAR -APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES -INADEQUABILIDADE.
+1. Inexiste constrangimento ilegal na decisão judicial que decreta o acautelamento preventivo e naquela que o mantém, se lastreadas em elementos concretos dos autos e nos requisitos do artigo 312 do Código de Processo Penal, porquanto sua decretação se afigura necessária ao resguardo da ordem pública, tendo em vista, sobretudo, a gravidade concreta do evento delituoso atribuído à paciente, aliada a sua suposta reiteração delitiva.
+2. O crime de tráfico de drogas, por cuja suposta autoria a paciente foi presa, encontra em seu preceito secundário pena máxima privativa de liberdade superior a quatro anos, atendendo ao comando normativo contido no inciso I do artigo 313 do Código de Processo Penal.
+3. O princípio constitucional da presunção de inocência (ou não culpabilidade) não é incompatível com a prisão preventiva, desde que a necessidade desta esteja devidamente fundamentada nos requisitos autorizadores da medida.
+4. A presença de condições pessoais favoráveis, por si só, não é suficiente para inibir a custódia cautelar, uma vez demonstrada a necessidade de sua manutenção.
+5. Presentes seus pressupostos e aferida a necessidade da prisão preventiva, inviável a fixação de medidas cautelares diversas, inclusive por não haver demonstração do preenchimento dos requisitos previstos nas recomendações - tanto do CNJ, como deste TJMG - destinadas à contenção sanitária da propagação epidêmica do novo coronavírus (COVID-19)
+Alega a defesa, no presente recurso, que "resta esclarecer que a decisão ora combatida, considerou a gravidade em abstrato da conduta imputada à Recorrente e, esta, por si só, não constitui fundamento à segregação provisória, visto que não constitui razão de cautela, sobretudo, pela gravidade já ter sido objeto da apreciação do legislador quando da tipificação da conduta no tipo pena" (e-STJ fl. 277).
+Afirma que "verifica-se que o d. Juízo primevo, deixou de motivar de forma clara e concreta a necessidade da manutenção do cárcere da Recorrente, tendo em vista que em sua decisão, este, apenas fez referência a dispositivos legais referentes à prisão provisória, como fundamento para converter a prisão em flagrante da Recorrente em preventiva" (e-STJ fl. 275).
+Aduz que "exige-se, ainda, que a decisão constritiva esteja pautada em motivação certa, sendo vedados argumentos genéricos ou a mera reprodução textual dos requisitos do artigo 312 e 313 do Código de Processo Penal" (e-STJ fl. 278).
+Requer, liminarmente e no mérito, a imediata libertação da recorrente, expedindo-se alvará de soltura; alternativamente, pede a conversão da prisão preventivaem domiciliar.
+É, em síntese, o relatório.
+Decido.
+Conforme apontado pelo Ministério Público Federal, em seu parecer, "em 5 de outubro de 2020, foi prolatada sentença penal que condenou a recorrente à pena de 5 anos de reclusão, em regime inicial semiaberto, pela prática do crime descrito no artigo 33 da Lei nº 11.343/06. Foi-lhe negado o direito de apelar em liberdade" (e-STJ fl. 437).
+E, na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foisubstituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido.
+(AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016)
+À vista do exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
