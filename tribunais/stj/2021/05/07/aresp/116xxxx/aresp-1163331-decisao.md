@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL EXTINTA EM VIRTUDE DO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AGRAVO CONHECIDO PARANEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pela BREFON - INDÚSTRIA E COMÉRCIO DE PAPÉIS LTDA., com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4a. Região,assim ementado:
+EXECUÇÃO FISCAL. AUSÊNCIA DE INTERESSE RECURSAL.PRESCRIÇÃO INTERCORRENTE RECONHECIDA DE OFÍCIO.HONORÁRIOS. DESCABIMENTO.
+1. Não se conhece da apelação na parte em que o pedido formulado no recurso não contrasta com a sentença, por falta de interesse recursal.
+2. Descabe a condenação da exequente ao pagamento de honorários advocatícios quando a extinção da execução fiscal não decorreu de defesa arguida pelo procurador da parte executada, mas do reconhecimento de ofício da prescrição pelo juiz(fls. 345).
+2. Em suas razões recursais (fls. 351/374), a parte recorrente aponta ofensaao art. 85 do CPC/2015, bem como à jurisprudência desta Corte, que entende cabível a condenação da Fazenda Pública em honorários advocatícios, nos casos de extinção da execução fiscal após a apresentação de exceção de pré-executividade pelo contribuinte. Requer, assim, a fixação da verba honorária em 20% sobre o valor da execução.
+3.Devidamente intimada (fls. 379),a parte agravada apresentou as contrarrazões (fls. 384/386).
+4.Sobreveio o juízo de admissibilidade negativo(fls. 389/390),fundado na incidência do Enunciado 7 da Súmula desta Corte,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. Em seguida, oprocesso foi encaminhado à origem, nos termos dos arts. 1.040 e 1.041 do CPC/2015, com a determinação de juízo de conformidade ao disposto no Recurso Representativo 1.340.553/RS (fls. 443/444).
+6. O Tribunal local, por sua vez, devolveu os autos ao STJ, por entender que a matéria debatida no presente recursonão diz respeito às teses fixadas no referido paradigma (fls. 461).
+7.É o relatório.
+8. A irresignação não merece prosperar.
+9.Discute-se nos autos a possibilidade de condenação da Fazenda Pública ao pagamento de honorários advocatícios de sucumbência no caso de extinção do processo de execução em virtude do reconhecimento da prescrição intercorrente.
+10. Na hipótese, o TRF da 4a. Região entendeu pelo não cabimento da verba honorária, sob os seguintes fundamentos:
+É bem verdade que a parte executada teve de contratar advogado para se defender na execução, o qual atuou no feito, inclusive oferecendo embargos à execução fiscal.
+Contudo, no caso em apreço, a prescrição intercorrente que ocasionou a extinção do processo executivo foi reconhecida de ofício pelo magistrado. Desse modo, não ocorrendo a extinção do feito por defesa arguida pelo procurador da parte executada, descabe a condenação da exequente ao pagamento de honorários advocatícios(fls. 343).
+11. O entendimento adotado no acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente.Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTECORRENTE. VERBA HONORÁRIA DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. MAJORAÇÃO DO MONTANTE.DESCABIMENTO.
+1. Na execução fiscal, pela regra da causalidade, não é cabível a condenação da Fazenda exequente em verba honorária de sucumbência, na hipótese em que há o reconhecimento da ocorrência da prescrição intercorrente, sem resistência.
+2. No contexto em que a exequente nem deveria ter sido condenada ao pagamento de verba honorária, inviável se mostra a majoração do quantum arbitrado, porquanto representaria flagrante ofensa ao princípio da razoabilidade, atualmente também previsto no art. 8º do CPC  (REsp 1.768.530/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 02/06/2020, DJe 29/06/2020).
+3. No caso dos autos, porque nem sequer deveriam ter sido fixados os honorários de sucumbência, não há como se alterar o acórdão recorrido, no que se refere aos critérios a serem observados.
+4. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no REsp 1.849.431/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 17/03/2021)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. IRPF. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+I - Na origem, trata-se de exceção de pré-executividade, ajuizada nos autos da execução fiscal de dívida referente ao IRPF proposta pela União, objetivando o reconhecimento da prescrição intercorrente. Na sentença, julgou-se procedente o pedido extinguindo a execução fiscal e fixando os honorários advocatícios no mínimo previsto no § 3º do art. 85 do CPC/2015. No Tribunal a quo, a sentença foi parcialmente reformada para afastar a condenação no pagamento de honorários advocatícios. Nesta Corte, negou-se provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça, firme no sentido de que, pelo princípio da causalidade, é incabível a condenação em honorários nos casos de extinção da execução pela prescrição intercorrente em decorrência da ausência de localização de bens do executado.Nesse sentido: (AgInt no AREsp n.1.532.496/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/2/2020, DJe 27/2/2020 e REsp n. 1.768.530/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe 29/6/2020).
+III - Agravo interno improvido.
+(AgInt no REsp 1.892.578/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/03/2021, DJe 06/04/2021).
+12. Pelas considerações expostas, conhece-se do Agravo para negar provimento ao Recurso Especial.
+13.Publique-se. Intimações necessárias.
