@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+ITAÚ SEGUROS S.A. (ITAÚ) opôs embargos à execução contra ACIR POSSAS (ACIR), sob a alegação de que não houve aviso de sinistro, sendo que só tomou conhecimento do sinistro quando instado a se manifestar no procedimento administrativo instaurado na Susep, bem como ter ocorrido a prescrição.
+Em primeira instância, o pedido foi julgado procedente para reconhecer a prescrição com extinção do processo executivo (e-STJ, fls. 736/741).
+A apelação interposta por ACIR não foi provida pelo Tribunal de Justiça do Paraná, nos termos do v. acórdão assim ementado:
+Apelação cível. Embargos à execução de título extrajudicial. Seguro de vida e acidentes pessoais. Prazo prescricional ânuo. Art. 206, §1º, II, do Código Civil. Suspensão do prazo prescricional. Inocorrência. Ausência de comprovação do aviso de sinistro à seguradora. Súmula 229 do STJ. Prescrição operada. Sentença mantida. Honorários recursais. Art. 85, §11, do Código de Processo Civil. Recurso desprovido.
+1. Dispõe o artigo 206, §1º, II, do Código Civil, que prescreve em 1 (um) ano a pretensão do segurado em face da seguradora.
+2. Súmula 229 do STJ: "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão. "
+3. Considerando que o apelante não logrou êxito em comprovar o aviso de sinistro à seguradora, não restou caracterizada a suspensão do prazo prescricional. Decorrido, portanto, mais de um ano entre o conhecimento inequívoco da invalidez (26/04/2003) e o ajuizamento da ação executiva (16/11/2004), operada a prescrição da pretensão do embargado.
+4. Diante do desprovimento do apelo, é de ser majorada a verba honorária fixada em primeiro grau, nos termos do artigo 85, § 11 do Código de Processo Civil (e-STJ, fls. 873/874).
+Inconformado, ACIR interpôs recurso especial, com base no art. 105, III, a e c, da CF, alegando violação do art. 206, § 1º, II, b, do CC/2002 e Súmula nº 229 do STJ, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude (1) da incidência da Súmula nº 7 do STJ; e (2) da não comprovação da divergência jurisprudencial.
+Nas razões do presente agravo interno, ACIR alegou (1) que demonstrou o cotejo analítico; e(2) não incidir a Súmula nº 7 do STJ, por não haver necessidade do reexame de provas.
+Houve impugnação ao recurso (e-STJ, fls. 1.099/1.104).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, a decisão agravada consignou que o dissídio interpretativo viabilizador do recurso especial não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Neste contexto, importante destacar que a viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe que, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal, o que não ocorreu na espécie.
+De outra parte, quanto a alegada violação do art. 206, § 1º, II, b, do CC/2002, no que concerne à ocorrência de suspensão do prazo prescricional, uma vez que ficoudemonstrado o aviso de sinistro à seguradora, o v. acórdão concluiuque o apelante não logrou êxito em comprovar o aviso de sinistro à seguradora, não restou caracterizada a suspensão do prazo prescricional. Decorrido, portanto, mais de um ano entre o conhecimento inequívoco da invalidez  ..  e o ajuizamento da ação executiva  ..  operada a prescrição da pretensão do embargado, consoante se vê dos seguintes trechos:
+No caso em tela, observa-se que o termo inicial do prazo prescricional se deu com o conhecimento inequívoco da incapacidade do apelante, ocorrido em 26/04/2003, quando da concessão do benefício de aposentadoria por invalidez pelo INSS (mov. 1.1 - fl. 44).
+Nos termos da Súmula 229: "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão.".
+Aduz o apelante que entregou todos os documentos necessários para o aviso do sinistro à funcionária do Unibanco, Sra. Michele Dal Cortivo de Oliveira e que não teria lhe sido entregue nenhum comprovante de negativa. Alega que tanto a prova testemunhal produzida nos autos - oitiva da Sra. Ieda Cardoso- como o documento anexado no mov. 1.25- fl. 210, comprovam o fato constitutivo do seu direito e demonstram que a data do aviso do sinistro ocorreu em 18/11/2003, não havendo que se falar em decurso do prazo prescricional.
+Não obstante, da análise do conjunto probatório, tem-se que o apelante não logrou êxito em comprovar o efetivo aviso de sinistro à seguradora apelada.
+Note-se que o documento assinado na data de 18/11/2003 pela ex-funcionária do Unibanco, Sra. Michele Dal Cortivo de Oliveira, trata-se de simples solicitação de extrato bancário de conta corrente, não podendo se inferir que exista qualquer relação com o pedido de pagamento de indenização securitária ao apelante (mov. 1.25, fl. 210).
+Ainda, muito embora tenha declarado a testemunha Ieda Cardoso (mov. 47 - autos nº 0018086-77.2015.8.16.0129) que auxiliou o apelante com a documentação e que o mesmo teria entregue todos os documentos à funcionária acima mencionada, nota-se que não há qualquer comprovante de recebimento da documentação pela seguradora ou resposta desta, havendo fundadas suspeitas da não entrega da documentação pela funcionária da instituição financeira à seguradora. Demais disso, a testemunha não soube precisar a data de entrega dos documentos, fato indispensável ao cômputo do prazo prescricional.
+Dessa forma, consoante acertadamente consignado pela MM. Juíza a quo: (..) embora haja indicação de que os documentos relativos ao seguro foram entregues, a testemunha não conseguiu demonstrar a data precisa em que tais documentos teriam sido entregues, fato imprescindível à apuração da ocorrência de prescrição. Note-se, portanto, que não há fato suspensivo do prazo prescricional.
+Portanto, considerando que o apelante não logrou êxito em comprovar o aviso de sinistro à seguradora, não restou caracterizada a suspensão do prazo prescricional. Decorrido, portanto, mais de um ano entre o conhecimento inequívoco da invalidez (26/04/2003) e o ajuizamento da ação executiva (16/11/2004), operada a prescrição da pretensão do embargado (e-STJ, fls. 879/881).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TERMO INICIAL DA PRESCRIÇÃO INALTERADO PELO VENCIMENTO ANTECIPADO DAS OBRIGAÇÕES. CONCLUSÃO DO TRIBUNAL DE ORIGEM EMBASADA EM FATOS E PROVAS. NOVO ACORDO FEITO ENTRE AS PARTES. SÚMULA 7/STJ. CONCLUSÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há como alterar a conclusão exarada pelo Tribunal de origem acerca do termo inicial da prescrição sem que se proceda à reanálise do instrumento particular de composição amigável, configurando reexame dos fatos e das provas do feito, o que é vedado pelo óbice da Súmula 7/STJ.
+2. O entendimento da segunda instância em harmonia com a jurisprudência desta Corte Superior atrai a aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.179.695/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 29/3/2021, DJe 6/4/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE MÚTUO HIPOTECÁRIO. PRESCRIÇÃO VINTENÁRIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Nas hipóteses em que a contagem do prazo prescricional teve início na vigência do Código Civil de 1916, deve ser observada a regra de transição prevista no artigo 2.028 do Código Civil de 2002, estatuindo que os prazos prescricionais por ele reduzidos serão os da lei anterior se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.
+2. Ademais, para acolher a tese da ocorrência da prescrição, seria necessário proceder ao reexame do acervo fático-probatório dos autos, o que é vedado pelo Enunciado n.º 7/STJ.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp 1.725.028/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 18/5/2020, DJe 21/5/2020)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
