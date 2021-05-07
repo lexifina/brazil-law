@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA APARECIDA BERTOLINO PASTREcontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"APELAÇÃO -AÇÃODECLARATÓRIADEINEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO - CONTRATO DE CARTÃO DE CREDITO COM RESERVA DEMARGEM CONSIGNAVEL(RMC) - VALIDADEDACONTRATAÇAO. A Apelante não se insurgiu contra a prova dacontratação, limitando-se a alegar a abusividade e ilegalidade daconduta do Apelado, sem observar o quanto previsto no art. 430,do Código de Processo Civil. Como é cediço, a contratação dereserva de margem consignável por meio de cartão de crédito épermitida, tratando-se de hipótese prevista no art. 6, da Lei n10.820/2003, alterado pela Lei n. 13.172/2015. Não há qualquerilícitono caso, pois a margem consignável é uma garantia para oagente financeiro do recebimento de seu crédito, nãose tratandode venda casada. Além disso, a Apelante não comprovou que foiinduzida a erro ou que houve falha na prestação do serviço, ônusque lhe incumbia, não obstante a incidência das normasconsumeristas, em especial, pela utilização do valor que lhe foidisponibilizado. Em suma, a relação jurídicaestá comprovada e aReserva de Margem Consignável contratada não é ilegal (fls.53/99; 100/103; e, 147/150). Razão pela qual, inexiste ilícitoa serindenizado ou quantia a ser restituída, de modo que outra soluçãonão resta a não ser a manutenção da improcedência da ação.SENTENÇA MANTIDA - RECURSO IMPROVIDO" (fl. 200 e-STJ).
+No recurso especial foi alegada violação dos seguintes dispositivos legais com as respectivas teses:
+i) artigos 6º, incisos, III, IV, V e VI, e39, incisos, I, III, IV,V eVI, do Código de Defesa do Consumidor sob o argumento de que não foram dadas ao consumidor informações claras e precisas sobre a modalidade de empréstimo que lhe foi concedidoe que o seucondicionamento à aquisição de cartão de crédito configura venda casada, o que não pode ser admitido;
+ii)artigo51, inciso IV, do Código de Defesa do Consumidor ao fundamento que o contrato em questão coloca o consumidor em desvantagem exagerada, pois estabelece uma dívida impagável.
+Após a juntada das contrarrazões (fls. 217/222 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Sobre a suposta falta de clareza nas informações, o Tribunal de origem observou que "a Apelante não comprovou que foi induzida a erro ou que houve falha na prestação do serviço, ônus que lhe incumbia, não obstante a incidência das normas consumeristas, em especial, pela utilização do valor que lhe foi disponibilizado" (fl. 202 e-STJ - grifou-se).
+Tal fundamento não foi devidamente impugnado, atraindo a incidência das Súmulas nºs 283 e 284/STF para obstar o conhecimento do recurso nesse aspecto.
+Do acórdão recorrido, colhe-se, ainda, o fundamento segundo o qual
+"a contratação de reserva de margem consignável por meio de cartão de crédito é permitida, tratando-se de hipótese prevista no art. 6º, da Lei nº 10.820/2003, alterada pela Lei nº 13.172/2015.
+Não há qualquer ilícito no caso, pois a margem consignável é uma garantia para o agente financeiro do recebimento de seu crédito, não se tratando de venda casada" (fl. 202 e-STJ).
+Observa-se que, mais uma vez, os enunciados sumulares nºs 283 e 284/STF obstam o conhecimento do recurso no que diz respeito à alegação de venda casada, pois o fundamento adotado pelo Tribunal de origem para descartá-lanão foi objetivamente impugnado nas razões recursais.
+Por fim, verifica-se que aresto impugnado não se manifestou a respeito dasuposta pactuação de dívida impagável, que colocaria o consumidor em desvantagem exagerada, carecendo o recurso, nesse aspecto, do devido prequestionamento. Incide, pois, o óbice da Súmula nº 282/STF.
+Ademais, a constatação da alegada desvantagem do consumidor dependeria da interpretação de cláusulas contratuais e do revolvimento do contexto fático-probatório dos autos, procedimentos vedados na via do recurso especial por força das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor atualizado da causa, não cabendo a majoração estabelecida no artigo85, §11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
