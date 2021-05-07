@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO DE OLIVEIRA MATTAR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2294129-81.2020.8.26.0000).
+Em primeiro grau, o paciente foi condenado às penas de 5 anos, 8 meses e 2 dias de reclusão em regime fechado e de 566 dias-multa, pela prática do delito previstos no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem não conheceu do recurso de apelação da defesa diante de sua intempestividade.
+A defesa alega que o paciente é vítima de constrangimento ilegal pela ofensa aos princípios da ampla defesa e do duplo grau de jurisdição.
+Sustenta que o fundamento de que a sentença foiproferida em audiência não é válido, pois não foi lida integralmente, bem como que não houve intimação sobre o desejo de recorrer ou de renunciar.
+Alega ainda que a sentença não foi publicada no Diário da Justiça eletrônicoe que o defensor constituído e o paciente não foram intimados do termo da sentença, mesmo diante da possibilidade de intimação pessoal e de intimação pela imprensa oficial (DJe).
+Requer, liminarmente e no mérito, o reconhecimento da tempestividade do recurso de apelação e a determinação de sua subida ao Tribunal de origem com as razões inclusas.
+O pedido de liminar foi indeferido (fls. 156-157).
+As informações foram prestadas (fls. 161-164 e 167-178).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 184-187).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem não conheceu do recurso de apelação da defesa diante de sua intempestividade, nestes termos(fl. 31):
+Conforme consta dos autos, o paciente foi condenado aos 19 de agosto de 2020,à pena de 05 (cinco) anos, 08(oito) meses e 02 (dois) dias de reclusão, sem prejuízo do pagamento de 566 (quinhentos e sessenta e seis) dias-multa em regime inicialmente fechado, em razão da prática do crime previsto no artigo 33,caput, da Lei 11.343/2006.
+A sentença condenatória foi prolatada em audiência de instrução, debates e julgamento (fls.686/693). Na ocasião, o réu foi assistido por seu defensor, Dr. GUILHERME ANDRÉ DECASTRO FRANCISCO OAB 390592/SP, o qual, juntamente com ele, foi cientificado da sentença, da qual expressamente constou "Publicada em audiência. Saem os presentes intimados. P. I. C." ENCERRADOS OS TRABALHOS, e nada mais havendo, foi lavrado e assinado o presente termo digitalmente pelo MM. Juiz, dispensando-se a assinatura dos demais envolvidos, por se tratar de processo digital - Sistema SAJ, coma concordância das partes, nos termos do art. 25, caput, da Resolução nº 185/13 do E. Conselho Nacional de Justiça" (fls.693).
+Vê-se que o prazo se iniciou no primeiro dia útil subsequente a prolação da sentença, ou seja, em 20/08/2020 e o prazo final ocorreu em 24/08/2020. Porém, a Defesa interpôs recurso de apelação somente em 26/08/2020.
+O recurso foi recebido pelo Magistrado e posteriormente, aos 18/09/2020, foi retificada a decisão de recebimento do recurso, declarando-o intempestivo, deixando de recebê-lo e determinando a certificação do trânsito em julgado para as partes (fls.781).
+ ..
+De fato, tanto o réu, quanto o seu douto defensor, tiveram ciência de todo o teor da sentença, por ocasião de sua prolação em audiência. Tanto assim, que constou expressamente do termo, que saíram intimados do ato.
+Por este mesmo fundamento, despicienda a apresentação ao réu de "termo de recurso". Este poderia ser interposto, pelo réu ou pelo seu defensor, até mesmo oralmente, fazendo-se constar tal interesse em recorrer na ata de audiência. Portanto, em hipótese como a dos autos, é manifestamente desnecessária e descabida a apresentação ao acusado do chamado "termo de recurso", pois seu advogado estava presente e a manifestação do desejo de recorrer, tanto por ele, como por este, poderia ter sido externada prontamente, perante o Juízo, na audiência em que se encontravam. Obviamente não se tratava de hipótese de disponibilização de termo de recurso, o que se tem feito em caso de intimação remota do réu, quando este não se encontra presente no momento da prolação da sentença e, no mais das vezes, é intimado em momento diverso daquele em que se dá a intimação de seu advogado. Aqui, como visto, a situação é bem outra. Tudo se deu(notadamente a prolação da sentença e a intimação do acusado e seu defensor) regularmente, na mesma sessão.
+A intimação do réu e de seu procurador em audiênciana qual foi proferida a sentença penal condenatóriaé suficiente para dar início ao prazo para interposição de eventuais recursos, sendo dispensável a intimação pessoal ou por meio doDiário daJustiça.
+Nesse sentido, os seguintes precedentes:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA. INTIMAÇÃO EM AUDIÊNCIA. RÉU E ADVOGADO PRESENTES. AUSÊNCIA DE INTIMAÇÃO POR IMPRENSA OFICIAL.NULIDADE. AUSÊNCIA. RECURSO IMPROVIDO. 1
+. "Não há falar em violação do dever de intimação pessoal da sentença condenatória, quando, presentes o réu e seu advogado em audiência de instrução, debates e julgamento, de onde saíram devidamente intimados do decisum" (HC n. 319.071/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, Dje 23/4/2015).
+2. In casu, o réu e seu advogado foram intimados da sentença condenatória na própria audiência de instrução e julgamento, iniciando-se, pois, no dia seguinte o prazo para interposição do recurso cabível conforme disposição do artigo 798, § 5º, b, do Código de Processo Penal, inexistindo, assim, o apontado constrangimento ilegal.
+3. "A inércia dos interessados não pode ser confundida, sob qualquer hipótese, com constrangimento ilegal provocado pelo Juízo, haja vista a dispensabilidade de apresentação dos termos de apelação ou renúncia do recurso" (HC 445.299/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018).
+4. Recurso ordinário em habeas corpus a que se nega provimento.(RHC n. 101.037/MG, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma,DJe de 3/10/2018.)
+PROCESSO PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA. (1) IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. IMPROPRIEDADE DA VIA ELEITA. (2) AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. (3) WRIT NÃO CONHECIDO.
+1. Tratando-se de habeas corpus substitutivo de recurso ordinário, inviável o seu conhecimento.
+2. Não há falar em violação do dever de intimação pessoal da sentença condenatória, quando, presentes o réu e seu advogado em audiência de instrução, debates e julgamento, de onde saíram devidamente intimados do decisum.
+3. Habeas corpus não conhecido.(HC n. 319.071/SP, relatoraMinistra Maria Thereza de Assis Moura, Sexta Turma, DJe de 23/4/2015.)
+Ademais, "não havendo na legislação pátria qualquer determinação de que a intimação do acusado seja acompanhada de um termo de recurso, tampouco que lhe seja indagado se deseja recorrer, não há que se falar em cerceamento do seu direito de defesa" (AgRg no AgInt no AREsp n. 1.410.691/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/9/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
