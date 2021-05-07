@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CAIO AUGUSTO MEGDA SILVAapontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no HC n.2011372-77.2021.8.26.0000.
+Depreende-se dos autos que o paciente foi preso em flagrante, no dia 24/11/2020, custódia essa convertida em preventiva, pela prática, em tese, do crime de tráfico de drogas (art. 33,caput, da Lei n. 11.343/2006), tendo em vista a apreensão de 231g (duzentos e trinta e um gramas) de maconha- e-STJ fl. 18.
+O Tribunal de origem denegou a ordemnos termos da ementa de e-STJ fls. 17:
+"Habeas corpus" -Tráfico de drogas - Prisão em flagrante convertida em preventiva - Pretendida a concessão de liberdade provisória - Não acolhimento - Decisão fundamentada - Apreensão de 9 tabletes de maconha, com peso bruto aproximado de 231 gramas - Paciente que ostenta maus antecedentes e responde a outros processos, inclusive pela mesma prática delitiva - Necessária a manutenção da segregação preventiva no caso em tela - Precedentes do C. STJ - Ordem denegada.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Pontuaque não é significativa a quantidade de entorpecenteapreendido.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+Liminar deferida.
+Informações prestadas.
+O Ministério Público Federal opinou pela concessão parcial da ordem.
+É, em síntese, o relatório.
+Conforme consignei na decisão anterior,visualizo manifesta ilegalidade no ato ora impugnado.
+Confiram-se os fundamentos da decisão que converteu a prisão em flagrante em preventiva (e-STJ fls. 30/31):
+Os policiais civis L. F. D. A. e J. E. do N.narraram que, há algum tempo, recebem informações de que o investigado Caio promove o tráfico de drogas em um comércio que ele mantém na Rua 32, avenidas 41 e 43, sendo uma loja de roupas. Desse modo, dirigiram-se às imediações, efetuaram o monitoramento de pessoas na loja e deliberaram por adentrar ao local. Aduziram terem encontrado Caio a manusear um telefone celular, ocasião em que o avisaram sobre a diligência, tendo o autuado prontamente confessado a prática do tráfico de drogas. Asseveraram que Caio disse que na geladeira havia duas porções de drogas e, no alçapão, havia mais sete porções, totalizando 230 gramas de maconha.
+Acrescentaram que por Caio fora dito que ele viaja até Ribeirão Preto para buscar roupas e maconha, tanto para uso como para venda, e que tudo vem porcionado, sendo vendido cada pedaço de 25 gramas por R$ 100,00. Dentro de uma pochete utilizada pelo autuado havia a quantia de R$ 934,00 em dinheiro, e também houve a apreensão do aparelho celular.
+Os fatos denotam a apreensão de significativa quantidade de drogas, elevado numerário em dinheiro, circunstâncias que indicam comercialização de entorpecentes.
+Com efeito, a custódia é recomendável para a garantia da ordem pública.
+Em análise da folha de antecedentes e certidão de distribuição defeitos, verifica-se que o autuado ostenta registros criminais, dentre os quais, processo n.1500026-38.2019.8.26.0557, em trâmite perante a 1ª Vara Criminal, denunciado por tráfico de drogas e associação para o tráfico.
+Além disso, a imputação delitiva é de crime gravíssimo, o qual está a permear e desestruturar a sociedade atual, além de constituir uma mola propulsora de vários outros delitos, não só contra o patrimônio, mas também contra a vida humana.
+Ademais, a custódia cautelar também se faz necessária para evitar quesolto, continue a reiterar na prática do tráfico de entorpecentes, ante o inegável apelo que esse comércio tem, pelo dinheiro fácil e rápido que proporciona.
+A custódia é recomendável, ainda, para assegurar a aplicação da lei penal, pois a soltura do autuado nessa fase processual poderia obstar ou, pelo menos dificultar a instrução criminal. Assim, as medidas cautelares diversas da prisão, no caso em tela, revelam-se inadequadas e insuficientes. (Grifei)
+Como se pode observar,o decreto prisional não se mostra desprovido de motivação - já que invoca a reiteração delitiva do paciente. No entanto,no caso, entendo que é suficientepara os fins acautelatórios pretendidosa imposição de medidas outras que não a prisão, sobretudo porque não se trata da apreensão de elevada quantidade de entorpecente, mas sim de231g (duzentos e trinta e um gramas) de maconha - e-STJ fl. 18.
+Como é cediço, a custódia cautelar é providência extrema que, como tal, somente deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual Penal, segundo o qual "aprisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".
+Assim, ante a plausibilidade da pretensão deduzida nesta insurgência, mostra-se imperiosa a concessão da ordem, ainda que em menor extensão.
+Ante o exposto e acolhendo o parecer ministerial, concedo a ordem parcialmentepara, confirmando a liminar, substituir a prisão preventiva por medidas cautelares alternativas, a serem fixadas pelo Juízo de primeiro grau.
+Publique-se. Intimem-se.
