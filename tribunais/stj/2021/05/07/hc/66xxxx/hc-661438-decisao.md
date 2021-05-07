@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de VITOR OLIVEIRA DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2054537-77.2021.826.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 13/2/2021 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em prisão preventiva (fls. 73/78).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS - Tráfico de entorpecentes. Revogação da prisão preventiva - Pedido sustentado na alegação de que não estariam presentes os requisitos da custódia cautelar - Crise de covid-19 que não se constitui argumento suficiente à revogação da prisão - Constrangimento ilegal não verificado- Requisitos da constrição cautelar que se encontram presentes no caso em análise, sendo necessária a manutenção da prisão do paciente - Crime com pena máxima superior a 04 anos - Inteligência do artigo 313, I, do CPP - Necessidade de garantia da ordem pública- Prisão mantida. Impossibilidade de aplicação de quaisquer das medidas cautelares diversas do cárcere (artigo 319 do mesmo diploma legal) - Decisão de primeira instância bem fundamentada que não se mostrou ilegal ou teratológica. ORDEMDENEGADA" (fl. 34).
+No presente mandamus, em que pese atacar acórdão do Tribunal estadual, o impetrante alega necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, porquanto ausentes os requisitos autorizadores do art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estariasuficientemente justificada e pautada exclusivamente na gravidade abstrata do delito.
+Ressalta as circunstâncias pessoais favoráveis do paciente, a pequena quantidade de droga apreendida - 18,7g de cocaína -, e o fato de ser apenas usuário de entorpecentes, razão pela qual se mostra suficiente, no caso concreto, a aplicação de medidas cautelares alternativas.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura, se for o caso, com aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 250/253. Informações prestadas às fls. 262/291 e 292/302. O Ministério Público Federal opinou pelo não conhecimento dowritem parecer acostado às fls. 257/261.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, de acordo com as informações encaminhadas pelo Juízo de origem (fls. 276/289), verifica-se que, na Ação Penal n. 1500248-90.2021.8.26.0571, de que aqui se cuida, em 26/4/2021, sobreveio sentença que condenou o paciente às penas de 5 anos, 1 mês e 8 dias de reclusão, em regime inicial fechado, e ao pagamento de 520 dias-multa, bem como de 6 meses de detenção, em regime inicial semiabertopela prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006, e no art. 163, parágrafo único, inciso III, do Código Penal, tendo sido concedido o direito de recorrer em liberdade, medianteaplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal, expedindo-se alvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
