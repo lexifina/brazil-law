@@ -1,0 +1,55 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO. EMBARGOS REJEITADOS.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP.
+2. "A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no AREsp 275606/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018).
+3. Existindo fundamentação no sentido de que negada a substituição das penas, fundamentadamente, porquanto o agente perpetrou o delito durante o cumprimento de pena restritiva de direitos, não se prestam os embargos de declaração para a rediscussão do aresto recorrido quando revelado mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração , nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+Trata-se de embargos de declaração, com efeitos infringentes, interpostos contra acórdão que negou provimento ao agravo regimental.
+Sustenta o embargante que, não obstante a reincidência do embargante, "o E. Tribunal Regional Federal lhe fixou regime inicial semiaberto, o que só é possível se as mencionadas circunstâncias judiciais forem favoráveis, tal como dispõe a Súmula 265 do Superior Tribunal de Justiça. É contraditório, pois, reconhecer o cabimento do regime semiaberto, mesmo em caso de reincidência, e, em seguida, não substituir a pena de prisão por restritiva de direitos, sob o simples argumento de desprezo à justiça, o que aliás constitui circunstancia judicial não sopesada no acórdão"(fl. 818).
+Requer o acolhimento dos embargos, com efeitos infringentes, para prover o agravo em recurso especial.
+Intimado, o Ministério Público não apresentou impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):
+O acórdão embargado encontra-se assim fundamentado (fls. 802-804):
+Como relatado, alega o agravante que no Recurso de Agravo consta um tópico próprio apenas com a impugnação do fundamento relacionado à Súmula n.
+83 do STJ (fl. 759), bem como que o fundamento relacionado com a Súmula n. 83 foi expressa e indiscutivelmente impugnado no Agravo contra a decisão de inadmissibilidade do Especial. A simples leitura do Agravo, acima transcrito, permite essa constatação (fl. 761).
+Considerando as razões da agravante, e impugnação dos fundamentos da decisão de inadmissão do recurso especial, reconsidero a decisão agravada para conhecer do agravo em recurso especial.
+Consta dos autos que o recorrente foi condenado a 1 ano, 10 meses e 5 dias de reclusão, em regime inicial semiaberto, além do pagamento de 26 dias-multa, e o Tribunal de origem indeferiu o pedido de substituição da pena privativa por restritvas, nos termos do art. 44 do Código Penal.
+No recurso especial, fundamentado no art. 105, III, "a" e "c", da CF, a defesa alega violação ao art. 44, § 3º, do CP, além de dissídio jurisprudencial, aduzindo fazer jus o recorrente à substituição de sua pena, por não ser reincidente específico e possuir condições pessoais favoráveis.
+O acórdão recorrido está assim fundamentado (fls. 566-567):
+ .. .Ocorre que, mesmo em caso de reincidência, o § 3 o , do art. 44, do Código Penal, autoriza a aplicação da substituição, desde que ".. a medida seja recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime." Assim, embora o inc. 11, do art. 44, do Código Penal, estabeleça como pressuposto para a concessão do beneficio a não reincidência do condenado em crime doloso, tal restrição deve ser interpretada, considerando o disposto no o § 3 o , do dispositivo em comento.
+Nesse sentido, confira-se o seguinte precedente do Superior Tribunal de Justiça:
+ ..  No caso, o réu já foi condenado, anteriormente, por crime contra a ordem tributária (fls. 242), não configurando, assim, a reincidência específica.
+Todavia, nestes autos, foi condenado por falsidade ideológica cometida em processo criminal, posto que inseriu declaração falsa nas folhas de freqüência que entregou à Central de Penas Alternativas, com o fim de alterar a verdade sobre fato juridicamente relevante, qual seja, o período efetivo de cumprimento da pena restritiva de direitos, consistente em prestação de serviços à comunidade ou a entidades públicas, imposta em razão da prática do crime contra a ordem tributária mencionado acima.
+Nota-se, portanto, que acusado agiu com desprezo à Justiça, ao tentar burlar o cumprimento da pena restritiva de direitos substitutiva, não sendo socialmente recomendável que seja concedida nova substituição da pena, nos termos do § 3 o , art. 44 do CP.
+Diante do exposto, em cumprimento ao quanto determinado pelo E. Superior Tribunal de Justiça, fundamento a não substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do § 3º, do art. 44 do Código Penal." .. .
+Como se vê, foi negada a substituição das penas fundamentadamente, porquanto o agente perpetrou o presente delito durante o cumprimento de pena restritiva de direitos em regime aberto que lhe foi anteriormente imposta, posto que inseriu declaração falsa nas folhas de freqüência que entregou à Central de Penas Alternativas, com o fim de alterar a verdade sobre fato juridicamente relevante, qual seja, o período efetivo de cumprimento da pena restritiva de direitos, o que, segundo a Corte de origem, somado à reincidência não específica do paciente, tornaria a medida socialmente não recomendável, nos termos do art. 44, III, do CP. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUIÇÃO DAS PENAS. INDEFERIMENTO. RÉU REINCIDENTE. MEDIDA CONSIDERADA NÃO SOCIALMENTE RECOMENDÁVEL. FUNDAMENTO CONCRETO. REVISÃO. VIA IMPRÓPRIA. REGIME SEMIABERTO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS FAVORÁVEIS.
+FIXAÇÃO CORRETA. APLICAÇÃO DA SÚMULA 269/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, possível o indeferimento do benefício da substituição das penas ao réu reincidente não específico com base em fundamento concreto no sentido de não ser a medida socialmente recomendável, nos termos do art. 44, III, do CP, sendo imprópria a via do writ à revisão do entendimento.
+2. Tratando-se de réu reincidente, favoráveis as circunstâncias judicias, aplicável o regime semiaberto. Inteligência da Súmula 269/STJ.
+3. Agravo regimental improvido. (AgRg no HC 620.326/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/11/2020, DJe 27/11/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO SIMPLES. SENTENÇA. PRETENSÃO DE SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS.
+ACUSADO REINCIDENTE. CONDENAÇÃO ANTERIOR PELA PRÁTICA DE CRIME GRAVE. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL (ART. 44, § 3º, DO CP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal à liberdade de locomoção.
+2. O art. 44, § 3º, do Código Penal, é claro afirmar que se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+3. Considerando que o réu não é reincidente específico, mas ostenta condenação anterior pela prática de crime grave e cometido com grave ameaça à pessoa (roubo), não se mostra socialmente recomendável a substituição da pena privativa de liberdade.
+4. Agravo regimental improvido. (AgRg no HC 618.438/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 23/10/2020.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. CONDENAÇÃO. SUBSTITUIÇÃO DA PENA POR MEDIDAS RESTRITIVAS DE DIREITOS. RÉU REINCIDENTE. MEDIDA NÃO RECOMENDADA. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não há ilegalidade a ser reconhecida se o magistrado a quo negou a substituição da pena por medidas restritivas de direitos ao fundamento de que o paciente é reincidente. E, a despeito do contido no art. 44, § 3º, do Código Penal, a medida não é socialmente recomendável, diante da anterior condenação pelo crime de tráfico de entorpecentes, em que a pena restou substituída, não tendo a providência se mostrado eficaz a ponto de evitar a reiteração delitiva.
+2. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 desta Corte).
+3. Agravo regimental a que se nega provimento. (AgRg no HC 412.871/MG, Rel.
+Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/09/2017, DJe 04/10/2017.)
+Estando a decisão recorrida em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+Ante o exposto, voto por dar provimento ao agravo regimental para conhecer e negar provimento ao agravo em recurso especial.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+Ademais, "A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no AREsp 275606/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018).
+No caso, não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento de que negada a substituição das penas fundamentadamente, porquanto o agente perpetrou o delito durante o cumprimento de pena restritiva de direitos.
+Observa-se, portanto, que se pretende apenas a rediscussão da matéria, visando alterar a conclusão que resultou desfavorável, o que é incabível na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
