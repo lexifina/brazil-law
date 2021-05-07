@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de LETICIA LAINE DOS SANTOS OLIVEIRA (ou LETICIA LAIANE DOS SANTOS OLIVEIRA), contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ACREassim ementado (fl. 48):
+Habeas Corpus. Integrar organização criminosa. Prisão preventiva. Descumprimento de medidas cautelares. Existência dos pressupostos e requisitos. Decisão fundamentada. Constrangimento ilegal. Inexistência.
+- Verificando-se comprovada a materialidade do crime, havendo indícios suficientes da sua autoria e presentes ainda os motivos autorizadores da decretação da prisão preventiva, não há que se falar em constrangimento ilegal e ausência de fundamentação na Decisão que decretou a prisão preventiva, impondo-se a denegação da Ordem.
+- O descumprimento de medida cautelar imposta em substituição à prisão preventiva anteriormente decretada, autoriza o seu restabelecimento, não configurando isso constrangimento ilegal.
+- Habeas Corpus denegado.
+A paciente teve a prisão preventiva decretada por terdescumprido as medidas cautelares diversas anteriormente impostas.
+A defesa nega que asregras do monitoramento eletrônico tenham sido violadas. Explica que a paciente reside em localnãoacobertado pelo sinal do monitoramento eletrônicoe, por esse motivo, precisa, todos os dias,ligar e informar aUnidade de Monitoramento de Presos sobre seu paradeiro. Assim,não é possível reconhecer, com precisão, a veracidade dasinformaçõesacercados dias e horários em que a tornozeleira eletrônica descarregou ou em que a paciente saiu da área de cobertura.
+Sustenta ainda que a localidade em que a paciente reside tem constantes quedas de energia, que chegam a durar dois ou três dias.
+Aduz ser desproporcional a medida, pois a paciente não se envolveu em nova contravenção. No mais, frisa que ela temdois filhos, com idade de 3 anos e de 7 meses.
+Requer a revogação da prisão preventivacom a expedição de alvará de soltura em favor da pacienteou a substituição da prisão por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 59-60.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (fls. 91-100).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que diz respeito às alegações dedesproporcionalidadeda medida e de a paciente ser mãe de filhos menores de 12 anos, tais questõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciá-las, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, nessespontos, o recurso não merece conhecimento.
+No mais, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Juízo de primeira instância (fl. 17):
+Inicialmente, verifica-se que a requerente, foi beneficiada com a prisão domiciliar, violou as regras do Sistema de Monitoramento, porém, vem descumprindo, de forma reiteradas, as condições estabelecidas, conforme informado nos expedientes às págs. 1620 e 1640/1641.
+Sendo assim, entendo que a acusada descumpriu as condições que lhe foram impostas no termo de compromisso, o que revela a necessidade de revogar a prisão domiciliar anteriormente concedida, para garantia da ordem pública.
+Registre-se que o monitoramento eletrônico é uma das cautelares mais limitantes, sendo que uma vez descumpria, não existe outra cautelar mais gravosa a ser aplicada, ensejando, tão somente a prisão.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, demonstrado, de forma concreta, o incontroverso descumprimento de medida cautelar alternativa, é evidente a intenção do acusado de furtar-se à aplicação da lei penal, o que justifica a decretação da preventiva (HC n. 612.101/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/11/2020).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
