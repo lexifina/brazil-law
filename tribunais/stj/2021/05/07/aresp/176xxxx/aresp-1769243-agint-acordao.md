@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 284do STF).
+3.Agravo interno não provido.
+RELATÓRIO
+ADEMIR FAGUNDES DOS REIS e TEREZINHA DA LUZ SOARES DE LIMA ajuizaram ação de indenização por danos morais e materiais contra JOHAN JAMES VIEIRA GERBER (JOHAN) e IVO ROBERTO DOBNER (IVO) alegando que estes, policiais militares, sob o pretexto de estarem atuando em ação policial contra quadrilha especializada em furto a caixas eletrônicos, efetuaram diversos disparos de armas de fogo contra o veículo em que seguia, como carona, sua filha de 15 anos de idade, que faleceu após ser atingida nas costas pelos disparos.
+Em primeira instância, os pedidos foramjulgados parcialmente procedentes para condenarJOHAN e IVO, solidariamente, ao pagamento de a) indenização por danos materiais no valor de R$ 1.360,00 (mil, trezentos e sessenta reais); b) indenização por danos morais no valor de R$ 40.000,00 (quarenta mil reais); e c) das custas e despesas processuais, além dos honorários advocatícios fixados em 15% sobre o valor da condenação(e-STJ, fls. 610/618).
+A apelação interposta porJOHAN e IVO não foi provida peloTribunal de Justiça de Santa Catarina, nos termos do acórdãoassim ementado:
+INDENIZATÓRIA. DANOS MATERIAIS E MORAIS.DEMANDA PROPOSTA SOMENTE EM FACE DOS AGENTES PÚBLICOS. INAPLICABILIDADE, NO CASO, DO TEMA N. 940 DO STF, FIXADO EM SEDE DE REPERCUSSÃO GERAL. AÇÃO AJUIZADA HÁ MAIS DE DEZESSEIS ANOS. DENUNCIAÇÃO DO ESTADO À LIDE.DESCABIMENTO. AUSÊNCIA DOS REQUISITOS LEGAIS.PRECEDENTES DO STJ. INSTITUTO, ADEMAIS, QUE NÃO SE PRESTA À RETIFICAÇÃO DO POLO PASSIVO.RESPONSABILIDADE SUBJETIVA DO SERVIDOR.ABORDAGEM POLICIAL QUE CULMINOU NA MORTE DA FILHA DOS AUTORES, ENTÃO COM 15 ANOS. DEFESA AMPARADA NA CULPA EXCLUSIVA DAS VÍTIMAS POR SUPOSTA TENTATIVA DE FUGA. TESE DERRUÍDA PELO CONJUNTO PROBATÓRIO, COMPOSTO DE DEPOIMENTOS DOS PRÓPRIOS POLICIAIS MILITARES E DE RECONSTITUIÇÃO DOS FATOS. EXCESSO EVIDENCIADO (ART. 187 DO CC). EXCLUDENTE DE RESPONSABILIDADE, CONSUBSTANCIADA NO EXERCÍCIO REGULAR DO DIREITO NÃO DEMONSTRADA (ART. 188, I, DO CC). DEVER DE INDENIZAR CONFIGURADO. HONORÁRIOS RECURSAIS. FIXAÇÃO, A TEOR DO ARTIGO 85, §11, DO CPC. RECURSO CONHECIDO E DESPROVIDO(e-STJ, fl. 671).
+Os embargos de declaração opostos por JOHANforam rejeitados (e-STJ, fls. 773/778).
+Inconformado, JOHAN interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, apontando a violação dos arts. 70, III, 71 do CPC/73 e37,§ 6º, da Constituição Federal, ao defenderque (1) não foi observado o Tema nº 940 do STF, nos termos do art. 927, III, do NCPC; e (2) demonstrouo dissídio jurisprudencial.
+O apelo nobre não foi admitido em virtude da a)incidência daSúmulanº284do STF; b) impossibilidade de análise de dispositivos constitucionais emrecurso especial, sob pena de usurpação da competência do STF; c)ausência de omissão do aresto recorrido quanto a prescrição, bem como em relação a denunciação da lide; e d)incidência da Súmula nº 284do STF quanto ao dissídio(e-STJ, fls. 904/910).
+Seguiu-se o agravo em recurso especial interposto por JOHAN que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foi atacadoespecificamente ofundamentoda decisão agravadaquanto aincidência da Súmula nº 284do STF(e-STJ, fls. 932/934).
+Nas razões do presente agravo interno,JOHAN sustentou que impugnou todos os fundamentos (e-STJ, fls. 937/947).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 284do STF).
+3.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos osfundamentos da decisão que negou seguimento ao apelo nobre, pois JOHAN, na ocasião,não refutou, de forma arrazoada, a incidência da Súmula nº 284 do STF.
+E isso não fez porque se limitoua repisar as razões do especial, alegando quea decisão violou o art. 927, III, do NCPC, pois ignorou precedente vinculante do STJ, qual seja, o Tema nº 940.
+Assim, repita-se, não houve a demonstração do adequado enfrentamento dofundamentoda decisão agravada no que tange àincidência da Súmula nº 284do STF.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a aplicação da Súmula nº 284 do STF, incumbe à parte refutar sua incidência de modo analítico, demonstrando que apontou devidamente os artigos que entendeu violados, declinando as respectivas razões e demonstrando em que recai a divergência, quando for o caso, o que não ocorreu na espécie.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente oóbiceanteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA.JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020)
+Assim, como JOHAN não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, já que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
