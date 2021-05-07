@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS.DOSIMETRIA. PENA-BASE. MAJORAÇÃO. MAUS ANTECEDENTES. PERÍODO DEPURADOR DE 5 ANOS (ART. 64, I, DO CÓDIGO PENAL - CP). IRRELEVÂNCIA. PERSONALIDADE. SUPRESSÃO DE INSTÂNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Condenações anteriores alcançadas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, podem ser consideradas como maus antecedentes. Precedentes.
+2. Acircunstância judicial da personalidade não foi examinada pela Corte estadual, o que impede esse Tribunal de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por DAVID JUNIOR DA SILVA contra a decisão que não conheceu do presente habeas corpus.
+O agravante reitera a tese de quebusca"sanar ilegalidade na fundamentação apresentada para majorar a pena-base (maus antecedentes muito antigo e personalidade com lastro em condenação pretérita), pois, com a devida vênia, as circunstâncias tidas como desabonadoras não estão em sintonia com o atual entendimento desta Corte de Justiça" (fl. 288).
+Requer, pois, a reconsideração do decisum ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS.DOSIMETRIA. PENA-BASE. MAJORAÇÃO. MAUS ANTECEDENTES. PERÍODO DEPURADOR DE 5 ANOS (ART. 64, I, DO CÓDIGO PENAL - CP). IRRELEVÂNCIA. PERSONALIDADE. SUPRESSÃO DE INSTÂNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Condenações anteriores alcançadas pelo período depurador de 5 anos, previsto no art. 64, I, do Código Penal, podem ser consideradas como maus antecedentes. Precedentes.
+2. Acircunstância judicial da personalidade não foi examinada pela Corte estadual, o que impede esse Tribunal de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Consta dos autos que o Juízo de primeiro grau condenou o agravante a 7 anos de reclusão, inicialmente no regime fechado, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Interposta apelação, pela defesa, o Tribunal a quo negou provimento ao recurso, com estes fundamentos:
+"Na primeira fase, com fundamento nas circunstâncias do art.59 do Código Penal, em se considerando os maus antecedentes (fl. 104), a pena-base foi corretamente fixada em 1/5 acima do mínimo legal, ou seja, 6 anos de reclusão e 600 dias-multa.
+Já se decidiu que "antecedentes são todos os fatos ou episódios da vida anteacta do réu, próximos ou remotos, que possam interessar, de qualquer modo, à avaliação subjetiva do crime. Tanto os maus e os péssimos, como os bons e os ótimos. Em primeiro lugar, deve-se ter em conta os antecedentes judiciais, nunca se restringindo simplesmente à existência ou inexistência de precedentes policiais e judiciais, mas levando-se em conta, também, o comportamento social do réu, sua vida familiar, sua inclinação ao trabalho e sua conduta contemporânea e subsequente à ação criminosa, para então qualificá-los de bons ou maus" (RJDTACRIM 7/191 e JSTF 201/363).
+E também, que: "O prolator da sentença não está compelido a referir-se a cada um dos itens de que cuida o artigo 59 do Código Penal. Entende-se observado o preceito com a simples menção dos antecedentes criminais dos envolvidos. O quadro comum autoriza a alusão única sem que se possa arguir na hipótese, a ausência de individualização da pena.."(JSTF 178/324).
+Na segunda fase, presente a agravante da reincidência (fl.103), a reprimenda foi majorada em mais 1/6, restando definitiva em 7 anos de reclusão e 700 dias-multa, no valor unitário mínimo, ante a ausência de causas de aumento ou diminuição, na terceira fase da dosimetria.
+A reincidência justifica o regime inicial fechado, nos termos do art. 33, par. 3º, do Código Penal e obsta a aplicação do redutor previsto no par. 4º, do art. 33, da Lei de Drogas.
+Ante o exposto, nega-se provimento ao recurso."(fls. 239/240)
+Para efeito de reincidência, não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 anos, computado o período de prova da suspensão ou do livramento condicional, casonão ocorrer revogação.
+Tais condenações, no entanto, podem configurar maus antecedentes, segundo a jurisprudência pacífica desta Corte.
+A propósito, confiram-se julgados de ambas a Turmas que examinam matéria penal:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS EXTRAÍDAS DO CELULAR. INOCORRÊNCIA. ACESSO PERMITIDO PELO RÉU AOS POLICIAIS. APARELHO APREENDIDO E REGULARMENTE PERICIADO MEDIANTE AUTORIZAÇÃO JUDICIAL. PENA-BASE. MAUS ANTECEDENTES. CONDENAÇÃO ALCANÇADA PELO TEMPO DEPURADOR. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N.11.343/2006. RÉU PORTADOR DE MAUS ANTECEDENTES. BIS IN IDEM. INOCORRÊNCIA.REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. "Ambas as Turmas da Terceira Seção deste Tribunal Superior entendem ilícita a prova obtida diretamente dos dados constantes de aparelho celular, decorrentes de mensagens de textos SMS, conversas por meio de programa ou aplicativos (WhatsApp), mensagens enviadas ou recebidas por meio de correio eletrônico, decorrentes de flagrante, sem prévia autorização judicial (AgRg no HC 499.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/6/2019, DJe 14/6/2019).
+2 Hipótese em que não há que se falar em ilicitude das provas obtidas pelo acesso ao celular, pois, além de o paciente ter mostrado espontaneamente às mensagens deáudio aos policiais, o aparelho foi apreendido e regularmente periciado mediante autorização judicial.
+3. A jurisprudência desta Corte é reiterada no sentido de que, para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade.
+4. No caso, a pena-base foi exasperada em 10 meses de reclusão com fundamento nos maus antecedentes do paciente, diante do registro de condenações definitivas anteriores, extintas há mais de 5 anos do cometimento do delito em apreço, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+5. A teor do disposto no § 4º do art. 33 da Lei n.11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+6. Sendo o paciente portador de maus antecedentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na primeira e na terceira fase da dosimetria não enseja bis in idem. Precedentes.
+7. Embora a pena tenha sido fixada em patamar superior a 4 e não excedente a 8 anos, a aferição de circunstância judicial desfavorável (maus antecedentes) recomenda a imposição do regime fechado, nos exatos termos do art. 33, §§ 2º e 3º, do Código Penal.
+8. Agravo regimental não provido.
+(AgRg no HC 560.442/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 29/3/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO QUALIFICADO PELO CONCURSO DE AGENTES E USO DE ARMA DE FOGO. DOSIMETRIA. PRIMEIRA E SEGUNDA FASES. DECOTE DOS MAUS ANTECEDENTES E DA REINCIDÊNCIA POR CONDENAÇÕES JÁ ALCANÇADAS PELO PERÍODO DEPURADOR QUINQUENAL. IRRELEVÂNCIA PARA CONFIGURAR OS MAUS ANTECEDENTES.PRECEDENTES. AUSÊNCIA DE COMPROVAÇÃO PARA A REINCIDÊNCIA. NECESSIDADE DE PROVA PRÉ- CONSTITUÍDA NA VIA PROCESSUAL ELEITA.PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Consoante a pacífica jurisprudência desta Corte Superior, embora as condenações anteriores transitadas em julgado e já alcançadas pelo período depurador quinquenal não possam ser utilizadas a título de reincidência, nada impede sejam apreciadas,na primeira fase da calibragem da pena, para negativar os antecedentes criminais. Precedentes.
+- Em relação ao decote da agravante da reincidência, a pretensão não encontra lastro na prova documental acostada aos autos, que não identifica a data da extinção da pena anteriormente imposta (Processo n.00018960-56.2012.8.26.0269), seja pelo efetivo cumprimento ou por qualquer outra causa constante do rol do art. 107 do Código Penal.
+- O rito do habeas corpus pressupõe prova pré- constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC 651.245/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 29/3/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO. FUNDAMENTAÇÃO IDÔNEA.CONFISSÃO ESPONTÂNEA. RECONHECIMENTO.IMPOSSIBILIDADE. DEPOIMENTO NÃO UTILIZADO PARA CORROBORAR A CONDENAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Casa, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. No caso, a pena-base foi aplicada acima do mínimo, diante da quantidade e diversidade das substâncias entorpecentes apreendidas - "216 invólucros plásticos contendo cocaína, com massa líquida de 174,7g (cento e setenta e quatro gramas e sete decigramas), 90 "eppendorfs" contendo "crack", com massa líquida de 18 gramas, 19 invólucros plásticos de maconha, com massa líquida de 9,6g (nove gramas e seis decigramas)" - e-STJ fl. 31, bem como por ser o ora paciente possuidor de maus antecedentes.
+3. Ademais, a respeito dos maus antecedentes, prevalece nesta Casa a orientação de que condenações anteriores transitadas em julgado há mais de 5 (cinco) anos, apesar de não espelharem a reincidência, pois alcançadas pelo período depurador previsto no art. 64, inciso I, do Código Penal, podem ser utilizadas para caracterizar os maus antecedentes do réu.
+4. Esta Corte é firme na compreensão de que, se a confissão espontânea não foi reconhecida pelas instâncias ordinárias, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático- probatório produzido ao longo da marcha processual,providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e sumariedade na cognição. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC 626.768/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 10/3/2021).
+A circunstância judicial da personalidade, por sua vez, não foi examinada pela Corte estadual, o que impede esse Tribunal de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - A insurgência acerca da exasperação da sanção na primeira fase da dosimetria da pena não foi objeto de apreciação pela Corte local, na medida em que sequer foi arguida originariamente. Assim, considerando que o Tribunal de origem não se pronunciou sobre os temas aventados na respectiva impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 511.078/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 21/10/2019).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
