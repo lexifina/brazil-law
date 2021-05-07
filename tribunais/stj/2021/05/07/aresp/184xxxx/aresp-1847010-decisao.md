@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por FAGNER ARAUJO DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo de primeiro grau condenou o ora recorrente como incurso no delito previsto no artigo 180, caput, do Código Penal, às penas de 1 (um) ano e2 (dois) meses de reclusão, em regime inicialsemiaberto, e 11 (onze) dias-multa (e-STJ fls. 220/224).
+Irresignada, a defesa interpôs recurso de apelação (e-STJ fls. 239/245), tendo o Tribunal de origem negado provimento ao apelo, nos termos do acórdão cuja ementa é a seguinte (e-STJ fl. 273):
+RECEPTAÇÃO - Apelo do réu - Pretendida absolvição - Impossibilidade- Acusado surpreendido em poder de motocicleta produto de crime de adulteração de sinal identificador - Circunstâncias fáticas a demonstrar que tinha plena ciência quanto à origem ilícita do bem - Condenação de rigor- Pleito de desclassificação para a forma culposa rechaçado -Pedido de substituição da pena privativa de liberdade por restritivas de direitos rejeitado- Reincidência do apelante que obsta a pretendida benesse (art. 44, inciso II, do CP) - Regime semiaberto mantido.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 283/288), alega a parte recorrente violação do artigo 44, § 3º, do Código Penal.
+Sustenta, em síntese, a possibilidade desubstituição da pena privativa de liberdade por restritivas de direitos, na hipótese dos autos, sob oargumentode que a medida é adequada, porquanto areincidência ostentada pelorecorrente não é específica (condenação definitiva anterior pela prática do delito de tráfico de drogas).
+Pondera quea outra condenação definitiva a que se refere a certidão de e-STJ fls. 215/216, atinente àprática do delito de receptação, transitou em julgado somente em 5/8/2016, isto é, em data posterior à dos fatos objeto da presente ação penal (e-STJ fls. 285/286).
+Apresentadas contrarrazões (e-STJ fls. 293/296), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 299/300), dando ensejo à interposição do agravo ora apreciado (e-STJ fls. 305/312).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não provimento do recurso (e-STJ fls. 336/338).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo, então, à análise do recurso especial.
+No que concerne à pretensão de substituição da pena privativa de liberdade por restritivas de direitos, fundada nas alegações de quea reincidência do recorrente não é específica (condenação definitiva anterior pela prática do delito de tráfico de drogas) e de que a outra condenação definitiva ostentada pelo réu,relativa ao delito de receptação, transitou em julgado após a prática do delito objeto dos presentes autos,verifico que a referida tese não foi debatida pelo Tribunal de origem (e-STJ fls. 272/275), tampouco foi objeto de embargos de declaração, não podendo, portanto, ser analisada por esta Corte Superior, sob pena de frustrar a exigência constitucional do prequestionamento.
+Ao ensejo, confira-se o teor do enunciado 282 da Súmula do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, o enunciado 356 da Súmula do STF.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
