@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMERICAN AIRLINES INC, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 30/06/2020.
+Concluso ao gabinete em: 05/05/2021.
+Ação: de indenização e compensação - respectivamente - por danos materiais e morais, ajuizada por ROSEMARI ELIZABETH BLONKOWSKI GASPARINO e OUTROS, em face da agravante, em razão terem realizado a compra de passagens aéreas de Curitiba/PR até Orlando/EUA, sendo Curitiba-Miami, partindo dia 28/04/2014, às 21h15nnin. Narram que o voo de partida inicial em Curitiba/PR atrasou 27 horas, em razão de um problema ocorrido no avião, o que acarretou a perda dias de passeio já pagos.
+Argumentam que os funcionários da demandada não prestaram as informações e auxílio devidos, bem como trataram mal os passageiros, incluindo os autores. Por derradeiro, aduzem que ficaram horas esperando nas filas imensas do aeroporto, o que causou danos de cunho material (alimentação, transporte, hospedagem) e moral.
+Sentença: em relação aos agravados ROSEMARI ELIZABETH BLONKOWSKI GASPARINO, C V G e AIRES GASPARINO, julgou extinto o processo com resolução do mérito, nos termos do art. 487, II, do CPC/15, em virtude do reconhecimento da consumação do prazo prescricional bienal; em relação ao agravado V G T, julgou parcialmente procedentes os pedidos, para condenar a agravante ao pagamento de indenização por danos materiais, no importe de R$ 523,25 e de compensação por danos morais, no valor de R$ 4.000,00.
+Acórdão: deu parcial provimento à apelação interposta pelos agravados/autores, para condenar a agravante/ré a pagar a cada um deles o valor individual de R$ 4.000,00, a título de compensação por danos morais.
+Nesse sentir, é a ementa do julgado:
+Apelação cível. Responsabilidade civil. Ação indenizatória.
+- Contrato de transporte aéreo. Pretensão de indenização por dano moral. Não sujeição às Convenções de Varsóvia e Montreal. Aplicação do prazo prescricional quinquenal do Código de Defesa do Consumidor.
+- Atraso de 24 horas para chegada ao destino. Responsabilidade objetiva da transportadora. Alegação de necessidade de manutenção na aeronave. Fortuito interno. Dever de indenizar.
+- Dano moral. Descumprimento contratual. Situação que ultrapassa o mero aborrecimento.
+- Valor da indenização. Arbitramento com razoabilidade e proporcionalidade. Atenção ao caso concreto. Valor fixado em R$ 4.000,00 para cada um dos autores.
+- Correção monetária pela média do INPC e do IGP-DI. Juros de mora que devem incidir a partir da citação.
+- Sucumbência em maior grau da requerida.
+- Recurso conhecido e parcialmente provido. (e-STJ, fl. 415)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 1º e 175, § 2º, ambos da Lei 7.585/86; 27 da Convenção de Varsóvia; 35 da Convenção de Montreal, bem como a existência de dissídio jurisprudencial. Sustenta que as disposições constantes das referidas convenções se sobrepõem à legislação consumerista, razão pela qual deve ser aplicado o prazo prescricional de dois anos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1º e 175, § 2º, ambos da Lei 7.585/86; 27 da Convenção de Varsóvia; 35 da Convenção de Montreal, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Além disso, não obstante a declaração do Tribunal de origem de prequestionamento da matéria em razão do teor do art. 1.025 do CPC/15, cabe ressaltar que o dispositivo citado dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. Entretanto, na situação posta em análise, esta Corte não entende pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+Ressalta-se que eventual alegação de ser de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+Por derradeiro, cabe ressaltar que a agravante sequer alegou ofensa ao art. 1.022 do CPC/15 (negativa de prestação jurisdicional).
+- Da Súmula 568/STJ
+A Corte de origem, ao entender pela incidência do CDC, em relação à responsabilidade civil das companhias aéreas pela má prestação de serviços, no sentido de ser observado o prazo prescricional quinquenal previsto na legislação consumerista, adotou entendimento em consonância com a jurisprudência do STJ, no sentido de que a responsabilidade civil das companhias aéreas em decorrência da má prestação de serviços, após a entrada em vigor da Lei 8.078/90, não é mais regulada pela Convenção de Varsóvia e suas posteriores modificações (Convenção de Haia e Convenção de Montreal), ou pelo Código Brasileiro de Aeronáutica, subordinando-se, portanto, ao Código Consumerista. Nesse sentido: AgRg no AREsp 607.388/RJ (3ª Turma, DJe 23/06/2016), AgRg nos EDcl no AREsp 418.875/RJ (3ª Turma, DJe 23/05/2016), AgRg no AREsp 582.541/RS (4ª Turma, DJe 24/11/2014) e AgRg no AREsp 661.046/RJ (4ª Turma, DJe 24/09/2015).
+A título de reforço argumentativo, necessário salientar que o próprio acórdão recorrido dispôs que, nos termos do RE 636.661/RJ, o STF entendeu que a norma internacional - em relação aos contratos de transporte aéreo internacional - não se aplica à compensação por danos morais (e-STJ, fl. 417), como é a hipótese vertente.
+Logo, nos termos da Súmula 568/STJ, quanto ao ponto mencionado, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER PARCILAMENTE do recurso especial e, nessa extensão, NEGAR PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado das partes agravadas em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12 % do valor da condenação (e-STJ, fl. 422) para 15 %, a ser arcado exclusivamente pela parte agravante, devendo essa pagar 70 % do montante citado, em razão da sucumbência recíproca reconhecida pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A responsabilidade civil das companhias aéreas em decorrência da má prestação de serviços, após a entrada em vigor da Lei 8.078/90, não é mais regulada pela Convenção de Varsóvia e suas posteriores modificações (Convenção de Haia e Convenção de Montreal), ou pelo Código Brasileiro de Aeronáutica, subordinando-se, portanto, ao Código Consumerista. Súmula 568/STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários.
