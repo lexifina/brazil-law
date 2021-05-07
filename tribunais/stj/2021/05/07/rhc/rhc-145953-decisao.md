@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por MARCIO JULIANO DINIZcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULassim ementado (fl. 94):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA.
+A gravidade dos fatos cuja prática é imputada ao paciente (em virtude de desentendimento relacionado à ex-namorada, o paciente se dirigiu à residência da vítima e contra ela efetuou disparos de arma de fogo, atingindo-a nas costas) revela a índole violenta do agente e a presença de concreto risco à ordem pública, a ensejarem a prisão cautelar e obstarem a adoção das cautelas alternativas que trata o art. 319 do Código de Processo Penal.
+Paciente que, ademais, está a responder a ação penal outra pela prática do delito de coação no curso do processo, circunstância que evidencia o periculum libertatis e, por conseguinte a necessidade da segregação cautelar.
+ORDEM DENEGADA.
+O recorrente teve sua prisão preventiva decretada pela suposta prática do delito descrito no art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal.
+Alega que o decreto prisional carece de fundamentação idônea, além de não estarem preenchidos os requisitos autorizadores da segregação cautelar, poisassevera não ter agido de forma que demonstrasse que solto colocaria em risco a ordem pública, ainstrução criminal ou a aplicação da lei penal. Sustenta quea gravidade dos fatos não pode prevalecer sobre o princípio da presunção de inocência.
+Frisa ter se apresentado espontaneamente à autoridade policial.
+Ressalta ser réu primário, com família constituída, residência fixa e trabalho lícito, bem como argumenta que a medida é desproporcional em face de eventual condenação.
+Afirma que as medidas cautelares diversas da prisão são o suficientes para alcançar o objetivo almejado.
+Requera revogação da prisão preventiva, com a expedição dealvará de soltura em seu favor, ou o reconhecimento do direito de responder em liberdade.
+O pedido de liminar foi indeferido às fls. 135-136.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 164-170).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 89-93):
+Por outro turno, a decisão atacada traz adequada fundamentação para a decretação da prisão preventiva, fazendo alusão às circunstâncias que envolveram a prática do crime e trazendo argumentos plausíveis para a decretação da segregação cautelar, como forma de garantia da ordem pública, verbis:
+ ..
+O fato descrito demonstra, a princípio, que o acusado possui sentimento de indiferença às consequências de seus atos frente à esfera judicial, pois atentou, em tese, contra a vida de outra pessoa, em frente a residência dela, em plena luz do dia (14h), o que denota periculosidade elevada e menosprezo pelo valor da vida humana, demonstrando a necessidade da pronta intervenção estatal.
+Ademais, ressalto que Márcio, apesar de não ter condenações criminais, tem passagens policiais e, permanecer em liberdade, certamente alimentaria o odioso sentimento de impunidade, além de gerar factível insegurança social e vir em confronto da própria imagem do Poder Judiciário, que, por certo, seria taxado de aprovador de comportamento da espécie.
+Não se pode olvidar que das passagens policiais que ostenta, uma delas indica a prática de coação no curso do processo, o que denota a necessidade da segregação a para conveniência da instrução criminal, evitando interferências na colheita da prova.
+Outrossim, consta dos autos investigativos que, após o fato, o acusado não teria sido encontrado pelos policiais em sua casa, tendo o familiar dele demonstrado desconhecer o seu paradeiro (não parecendo, assim, ausência eventual), estando a demonstrar que pode ter evadido do distrito da culpa para se furtar da aplicação da lei penal.
+ ..
+Mais, a gravidade do fato cuja prática é imputada ao paciente (em virtude de desentendimento relacionado à ex-namorada, o paciente se dirigiu à residência da vítima e contra ela efetuou disparos de arma de fogo, atingindo-a nas costas) revela a índole violenta do agente e a presença de concreto risco à ordem pública, a ensejarem a prisão cautelar e demonstrando, consequentemente, a insuficiência das demais medidas cautelares de que trata o art. 319 do Código de Processo Penal.
+ ..
+Mais, merece registro que o paciente está a responder a processo outro pela prática do delito de coação no curso do processo, circunstância que evidencia o periculum liberatis do paciente e afirma a necessidade da segregação cautelar.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, a desproporcionalidade da medida cautelar extrema em relação a eventual condenação somente poderá ser aferida após a prolação da sentença condenatória, não podendo ser objeto de pedido liminar em habeas corpus ou em recurso que antecede o juízo de valor do órgão competente. Nesse sentido, o RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016.
+Ante o exposto, com base no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
