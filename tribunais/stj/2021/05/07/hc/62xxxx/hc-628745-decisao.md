@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de ADRIANO ANTÔNIO DE PAULA, contra acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais, no julgamento do Agravo em Execução n. 1.0301.15.003862-0/002.
+O paciente cumpria pena em regime semiaberto e cumpria prisão domiciliar quando teria cometido novo delito, o que resultou na suspensão do benefício e na regressão cautelar ao regime fechado.
+A defesa interpôs agravo em execução, sustentando que a falta disciplinar foi reconhecida sem prévia oitiva do apenado em audiência de justificação. O recurso, contudo, foi improvido pelo Tribunal de origem, em acórdão assim ementado:
+EMENTA: AGRAVO EM EXECUÇÃO PENAL -IRRESIGNAÇÃO DEFENSIVA -REGRESSÃO CAUTELAR ANTES DA AUDIÊNCIA DE JUSTIFICAÇÃO -PRÁTICA EM TESE DE NOVO DELITO -POSSIBILIDADE -RECURSO DESPROVIDO. 1. Cabível é a regressão cautelar do regime de cumprimento de pena do agravante diante da prisão em flagrante pela prática em tese de outro delito antes da audiência de justificação. 2. Recurso desprovido.
+Nesta impetração, a defesa insiste na nulidade da decisão que decretou a regressão cautelar de regime, motivo pelo qual postula, liminarmente, a suspensão dos efeitos da decisão proferida pelo juízo das execuções penais e, no mérito, que essa seja revogada, determinando o retorno do paciente à prisão domiciliar.
+Liminar indeferida nos termos da decisão de e-STJ fls. 575-576.
+Informações prestadas pelo Juízo apontado como coator (e-STJ fls. 580-589, e-STJ fls. 590-599e e-STJ fls. 605-628).
+O Ministério Público, em sede de parecer, manifestou-se pela denegação da ordem, conforme fundamentação trazida às e-STJ fls. 630-636.
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, RelatorMinistroFELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, RelatoraMinistraMARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+Adecisão exarada pelaCorte de origem encontra-se em harmonia com a jurisprudência deste Tribunal Superior.
+Veja-se excerto dodecisumprolatado (e-STJ, fls. 568-569).
+ ..
+Verifica-se dos autos que o apenado desrespeitou as condições da execução, eis que, cumprindo pena em regime aberto, foi preso em flagrante pela prática em tese de novo delito, cabendo a regressão cautelar do seu regime de pronto e, posteriormente, a designação de audiência de justificação. Este também é o entendimento do Superior Tribunal de Justiça:
+"Este Superior Tribunal já firmou entendimento no sentido deque, cometida falta grave pelo condenado, é perfeitamente cabível a regressão cautelar do regime prisional, sem a oitiva prévia do condenado, que somente é exigida na regressão definitiva. Precedentes do STJ. 2. Ordem denegada."  STJ. Habeas-Corpus141702/RJ. Ministra Relatora Maria Thereza de Assis Moura. Publicado em 17/08/2011 .
+De fato, a jurisprudência deste Superior Tribunal de Justiça encontra-se alinhada ao entendimento do relator daCorte de origem no sentido de que,cometida falta grave pelo condenado, é perfeitamente cabível a regressão cautelar do regime prisional, sem a oitiva prévia do apenado, que somente é exigida na regressão definitiva.
+Nesse sentido ( sem grifos no original):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES DO MONITORAMENTO ELETRÔNICO. SUPOSTA FALTA GRAVE A SER APURADA.REGRESSÃO CAUTELARDEREGIMEPRISIONAL. POSSIBILIDADE. INFRAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça encontra-se alinhada "no sentido de que o submetido a monitoramento eletrônico deve observar as condições e limites estabelecidos para o seu deslocamento, sob pena de cometer falta grave". (HC 527.452/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 12/11/2019, DJe 20/11/2019)
+2. Na espécie, constatado, em tese, a prática de falta grave, o Juízo das execuções suspenderá cautelarmente o benefício, ficando a apuração dos fatos e a oitiva do apenado para um momento posterior, inexistindo, portanto, o apontado constrangimento ilegal.
+3. Esta Corte Superior possui entendimento pacífico no sentido de que, cometida falta grave pelo condenado, é perfeitamente cabível aregressão cautelardoregimeprisional, sem a oitiva prévia do apenado, que somente é exigida naregressãodefinitiva. Precedentes. (AgRg no HC 355.838/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/09/2016, DJe 11/10/2016)
+4. Agravo regimental improvido.
+(AgRg no RHC 129.736/RS, Rel. MinistroREYNALDOSOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. MONITORAMENTO ELETRÔNICO. DESCUMPRIMENTO.REGRESSÃO CAUTELARDEREGIMEDO CUMPRIMENTO DE PENA. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. Tratando-se deregressão cautelar,não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória naregressãodefinitiva aoregimemais severo, sob pena de contrariar a finalidade da medida (precedentes).
+3. É possível, após o cumprimento do mandado de prisão e com a retomada do cumprimento da pena, seja designadaaudiênciadejustificação,ocasião na qual o apenado poderájustificar-se, exercendo, assim, o pleno exercício do seu direito de defesa.
+4. Ademais, o exame dos motivos pelos quais o agravante teria descumprido as regras da monitoração eletrônica demanda revolvimento fático-probatório, inviável na estreita via do habeas corpus (precedentes).
+5. Agravo regimental desprovido.
+(AgRg no HC 449.364/PR, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/12/2018, DJe 1º/2/2019)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO CAUTELARDEREGIME.OITIVA PRÉVIA DO CONDENADO. PRESCINDIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. No caso dos autos, o recorrente foi condenado a 3 anos de reclusão, emregimeinicial aberto, pela prática do crime de receptação qualificada, sendo substituída a pena privativa de liberdade por restritiva de direitos. Contudo, enquanto cumpria a pena noregimeaberto, foi preso preventivamenteem decorrência do cometimento de outra infração penal dolosa, ocasião em que o magistrado singular o regrediu cautelarmente para oregimeintermediário.
+2. Esta Corte Superior de Justiça tem reiteradamente decidido ser prescindível a oitiva prévia do condenado, por ocasião daregressão cautelarderegime,decorrente de infração disciplinar de natureza grave.
+3. Recurso em habeas corpus improvido.
+(RHC 45.990/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 10/6/2014, DJe 1º/7/2014)
+Ante o exposto,nego seguimentoaohabeas corpus.
+Intimem-se.
