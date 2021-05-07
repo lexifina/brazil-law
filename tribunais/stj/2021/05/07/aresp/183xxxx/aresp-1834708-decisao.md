@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por CANGURU PLÁSTICOS LTDA. - EM RECUPERAÇÃO JUDICIAL, contra decisão em que não foi admitido recurso especial embasado no art. 105, III, a, da Constituição Federal, manejado visando à reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. INCIDÊNCIA DE CONTRIBUIÇÃO. VERBAS INDENIZATÓRIAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. A defesa veiculável em sede de exceção de pré-executividade, mormente para por fim à execução, deve ser aferível de plano, sem quaisquer questionamentos.
+2. Hipótese em que a matéria deduzida reclama observância plena do contraditório e demanda produção de outras provas para ser dirimida, não podendo a matéria ser decidida por esse meio excepcional de defesa..
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, indicou, além de negativa de prestação jurisdicional, a ofensa aos arts. 783 e 803, I, ambos do CPC/2015. Alegou que o Tribunal de origem deveria considerado o cabimento da exceção de pré-executividade, diante da discussão estritamente jurídica, relativamente à inconstitucionalidade/ilegalidade da exigência de contribuições previdenciárias sobre verbas pagas aos empregados.
+Após a decisão em que não foi admitido o recurso especial com fundamento no Enunciado Sumular n. 7/STJ, foi interposto o presente agravo, tendo a parte recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+No caso, não há que se falar em negativa de prestação jurisdicional, tendo o Tribunal de origem entendido que:
+No caso, trata-se de exceção de pré-executividade apresentada alegando a ilegalidade da incidência da contribuição social denominada quota-patronal sobre verbas indenizatórias.
+Ocorre que, do exame das CDAs não se tem como verificar a efetiva incidência da contribuição sobre rubricas alegadas como indenizatórias pela agravante.
+Portanto, a arguição deduzida pela devedora não pode ser ventilada na via estreita da exceção de pré-executividade. Além de não ser matéria passível de conhecimento de ofício, reclama observância plena do contraditório e demanda produção de outras provas para ser dirimida. Trata-se, portanto, de cognição que extrapola os limites e é incompatível com esta defesa de caráter excepcional.
+ ..  (fl. 62).
+Consoante a jurisprudência pacífica do Superior Tribunal de Justiça, tem-se que o julgador não está obrigado a rebater, um a um, todos os argumentos ou apreciar todos dispositivos de lei invocados pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia; devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso. Nesse sentido: AgInt no AREsp 1575315/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020; REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018; AgInt no REsp n. 1.757.501/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n. 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 14/8/2018.
+No mérito, o recurso especial não comporta seguimento.
+O Tribunal de origem solucionou a causa mediante fundamento fático suficiente, entendendo que não era o caso de cabimento de oposição de exceção de pré-executividade, diante da necessidade de dilação probatória, em especial considerando que, "do exame das CDAs não se tem como verificar a efetiva incidência da contribuição sobre rubricas alegadas como indenizatórias pela agravante." (fl. 62).
+Assim, não cabe o conhecimento da pretensão recursal que objetiva, em verdade, a revisão do juízo de fato exarado pela instância ordinária. Incidência do Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
