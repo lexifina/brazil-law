@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por TRANS LICHMANN TRANSPORTES E LOGÍSTICA LTDA., contra decisão em que não foi admitido recurso especial embasado no art. 105, III, a, da Constituição Federal, manejado visando à reforma do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. Exceção de pré-executividade. Ausência de elementos aptos a desconstituir as CDAs objeto da execução fiscal. CDAs desprovidas de qualquer vício que infirme sua certeza e exigibilidade. Desnecessidadede processo administrativo. Tributo sujeito a lançamento por homologação, em que a incumbência do Fisco se restringe em homologar os cálculos do contribuinte e verificar o recolhimento do tributo. Multa de 20%, ademais, que não se reveste de caráter confiscatório. Decisão mantida. Recurso conhecido e não provido..
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, indicou a ofensa aos arts. 202, 145 e 149, V, todos CTN, 803 do CPC/2015, bem como 2º, §5º e §6º, da Lei n. 6.830/1980. Alegou que o Tribunal de origem deveria ter decretado a nulidade da CDA, em razão da falta de certeza e liquidez e do não preenchimento dos requisitos legais, ante a ausência de indicação de procedimento administrativo e origem e também pela ausência de notificação válida do contribuinte.
+Após a decisão em que não foi admitido o recurso especial com fundamento no Enunciado Sumular n. 7/STJ, foi interposto o presente agravo, tendo a parte recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+O Tribunal de origem solucionou a causa mediante fundamento fático suficiente, entendendo que: "todas as CDAs encartadas nos autos (fls. 18/57) preenchem os requisitos previstos no art. 202, CTN, e no art. 2º, §5º e §6º, da Lei nº 6.830/80, possibilitando ao contribuinte o pleno conhecimento a respeito do crédito exigido." (fl. 183)
+Apontou o Tribunal de origem, ademais, que:
+ ..  os títulos declinam a qualificação do devedor, a natureza dos débitos, a capitulação legal, sem falar que o quantum declarado pelo contribuinte foi calculado com a incidência dos encargos e multas descritos detalhadamente, tudo com a devida referência aos diplomas legais pertinentes, do que se inviabiliza a tese de nulidade das CDAs.
+Ali resta claramente indicado, ademais, se tratar de infrações tributárias por declaração de ICMS da qual não se seguiu o pagamento, o que também torna desnecessário o prévio processo administrativo.
+Vale ressaltar, nesse sentido, que o ICMS é tributo sujeito a lançamento por homologação, modalidade na qual incumbe ao próprio contribuinte declarar o tributo (art. 150, caput e §4º, CTN 3 c/c art. 35 da Lei Estadual nº 6.374/94 4). Deste modo, ao contribuinte cabe a verificação da ocorrência de fato imponível, a apuração do montante devido e o pagamento no prazo estipulado, enquanto a atuação do Fisco se restringe à verificação da exatidão do débito apurado e da ocorrência de pagamento.
+O tema, aliás, já se encontra positivado na Súmula nº 436/STJ:
+"Súmula 436 STJ: A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco."
+Evidente, nestes termos, que de fato era desnecessário o prévio procedimento administrativo, como, aliás, já pacificado na jurisprudência deste Eg. Tribunal de Justiça.
+ ..
+Assim, válidas as CDAs e inexistente qualquer argumento de ordem processual capaz de obstar o ajuizamento da execução fiscal, também há de se reconhecer, consequentemente, a validade do processo executório movido pela Fazenda Estadual.
+ ..  (fls. 182-185).
+Por sua vez, a parte recorrente aduziu que, nos autos "foi devidamente demonstrado que os vícios arguidos prescindem de prova técnica para serem reconhecidos, não havendo que se falar em rediscussão da matéria fática, mas sim o correto enquadramento jurídico da Certidão de Dívida Ativa embasadora da execução fiscal, pois o não reconhecimento de sua nulidade absoluta viola os diversos dispositivos federais aqui indicados. Ainda, os vícios arguidos no recurso especial prescindem de produção de prova técnica, podendo ser notados por uma mera análise superficial da Certidão acostada, já que se trata de matéria puramente de direito." (fl 253).
+Ocorre que para conhecer desses vícios de nulidade da CDA seria necessária a revisão do juízo de fato exarado pela instância ordinária. Incidência do Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
