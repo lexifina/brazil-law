@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deERICK RAMON FERREIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(Apelaçãon. 022815-53.2018.8.19.0001, relator Desembargador Flávio Marcelo de Azevedo Horta Fernandes).
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial de e-STJ fls. 110/115, in verbis:
+Trata-se de habeas corpus substitutivo, sem pedido de liminar, impetrado em favor de ERICK RAMON FERREIRA e de DOMINGOS DA COSTA REIS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n.º 0227815-53.2018.8.19.0001).
+Consta dos autos que os ora pacientes foram condenados, em primeiro grau de jurisdição, como incursos nos crimes previstos no art. 157, § 2º, inc. II, do Código Penal, às penas de 6 (seis) anos de reclusão, em regime semiaberto, e 16 (dezesseis) dias-multa, isso porque, " n o dia 24 de setembro de 2018, por volta das lh20min, na Avenida Marechal Floriano Peixoto, Nova Iguaçu, (..), em perfeita comunhão de ações e desígnios entre si e com mais um outro elemento não identificado, subtraíram, para si ou para outrem, mediante grave ameaça exercida pelo emprego de palavras de ordem e pela própria superioridade numérica, além da exibição de facas, uma mochila contendo os pertences pessoais da vítima Leonardo Braga do Nascimento." (e-STJ fl. 63).
+Em sede de apelação, os Desembargadores que compõem a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro decidiram, por unanimidade, por conhecer do apelo defensivo e negar-lhe provimento e prover o recurso ministerial para alterar o regime inicial para o fechado, mantidos, no mais, os termos da sentença (e-STJ fls. 87/94). O acórdão recebeu a seguinte ementa:
+ ..
+Daí impetrada a presente ordem de habeas corpus, com pedido de liminar, em que a defesa busca, inicialmente, o afastamento da circunstância judicial e a redução da pena-base ao seu mínimo legal. Ao final, requer a concessão da ordem para que seja fixado oregime inicial semiaberto, em atenção a súmula n.º 719/STF.
+Os autos foram encaminhados ao MPF para manifestação. É o relatório.
+O Parquet opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, "a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 1.661.671/PB, relator MinistroREYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+Sendo assim, "a valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp n. 1.672.105/MS, relator MinistroJOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 1º/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Acerca das consequências, ficou registrado o trauma psicológico sofrido pelas vítimas - especialmente a que estava grávida de seis meses à época da ação criminal, que declarou que o bebê, após o crime, não manteve a taxa de crescimento e o peso esperado, nascendo abaixo do peso normal.
+2. As instâncias antecedentes apresentaram motivação idônea para a exasperação da pena-base do paciente, baseada em elementos concretos dos autos - os prejuízos materiais e extrapatrimoniais suportados pelas vítimas.
+3. Agravo regimental não provido.
+(AgRg no HC 490.633/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019)
+Verifica-se que, na hipótese, a fixação da pena-base acima do mínimo legal baseou-se em elementoconcreto, qual seja, a utilização de arma branca.
+A propósito:
+HABEAS CORPUS. ROUBO. FACA. AFASTADA CAUSA DE AUMENTO PELO USO DE ARMA IMPRÓPRIA. NOVATIO LEGIS. CIRCUNSTÂNCIA DESLOCADA PARA A PRIMEIRA FASE DE DOSIMETRIA. POSSIBILIDADE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. Tendo o Tribunal de origem, no julgamento do recurso de apelação, afastado a aplicação da majorante do uso de arma branca na terceira fase de dosimetria, em razão da novatio legis, é possível a valoração dessa circunstância na primeira etapa para a exasperação da pena-base, desde que não haja o agravamento da pena aplicada ao acusado na sentença condenatória.
+2. Habeas corpus denegado.
+(HC 487.845/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 03/06/2019)
+Ademais, de acordo os §§ 2º e 3º do art. 33 do Código Penal, tendo em vista a pena estabelecida, as circunstâncias judiciais desfavoráveis e a primariedade do réu, o regime inicial para cumprimento de pena é o fechado.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO CIRCUNSTANCIADO E CORRUPÇÃO DE MENORES.DOSIMETRIA. MODUS OPERANDI TRUCULENTO. EXASPERAÇÃO DA PENA-BASE JUSTIFICADA. REGIME INICIAL FECHADO. MOTIVAÇÃO ADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a motivação dedicada à majoração da pena-base está amparada em circunstâncias concretas que transbordam os elementos ínsitos ao tipo penal: a truculência do modus operandi, especialmente, o desferimento de tapa no rosto da vítima. Nessa linha: AgRg no AREsp n. 1.479.262/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 10/02/2020; HC n. 289.788/TO, Sexta Turma, Rel. Min.Ericson Maranho (Desembargador convocado do TJ/SP), DJe 07/12/2015;e HC n. 212.666/SP, Quinta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 25/09/2013.
+III - No mais, a jurisprudência do STJ é iterativa no sentido de que, ainda que o condenado seja primário e o quantum de pena aplicada seja superior a 04 (quatro) anos e não exceda a 08 (oito) anos, justifica-se o regime inicial fechado, quando presente circunstâncias judiciais desfavoráveis. Confira-se: HC n.403.823/SP, Quinta Turma, de minha relatoria, DJe de 11/10/2017; e AgRg no AREsp n. 972.884/MT, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 23/10/2017.
+Agravo regimental desprovido.
+(AgRg no HC 604.159/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/09/2020, DJe 22/09/2020)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
