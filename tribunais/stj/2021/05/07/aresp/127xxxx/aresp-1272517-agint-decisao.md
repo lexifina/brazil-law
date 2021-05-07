@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 1.051/1.057) interposto contra decisão desta relatoria que conheceu do agravo e negou provimento ao recurso especial (e-STJ fls. 1.018/1.024).
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.046/1.048).
+É o relatório.
+Decido.
+Antes da análise do agravo interno, verifico a necessidade de suspensão do processo por prejudicialidade externa,questão a ser dirimida de ofício, por se tratar de matéria de ordem pública. Nesse sentido:
+AGRAVO REGIMENTAL. DECISÃO SINGULAR DO RELATOR. CPC, ART. 557.NULIDADE. JULGAMENTO PELO COLEGIADO. INEXISTÊNCIA. RECURSO ESPECIAL.CÉDULA DE CRÉDITO RURAL. AÇÃO REVISIONAL E EMBARGOS À EXECUÇÃO TRAMITANDO EM JUÍZOS DIVERSOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.ART. 535 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. RECONHECIMENTO DE PREJUDICIALIDADE EXTERNA. PARALISAÇÃO DA EXECUÇÃO. EMBARGOS DO DEVEDOR. PENHORA. GARANTIA DO JUÍZO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO ATACADOS. ENUNCIADO 182 DA SÚMULA DO STJ.
+ ..
+3. Tramitando em juízos separados a ação revisional e os embargos à execução, nos quais realizada a penhora, possível a paralisação destes em favor da solução daquela, ainda que rejeitados por sentença e recebida a apelação com efeito meramente devolutivo, porque a prejudicialidade externa, por ser questão de ordem pública, pode ser reconhecida de ofício pelo julgador.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1356487/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Segundo informa o agravante, o resultado do presente recurso pode ser alterado pelo novojulgamento dos embargos de declaraçãono Tribunal de origem,nos autos do processo nº 2008.01.1.126011-4, pelos seguintes fundamentos:
+em primeiro lugar, registre-se que o Agravo Interno no REsp 1.531.740/DF, interposto pelo ora recorrido, foi desprovido pela Quarta Turma do STJ na sessão de julgamento de 4/5/2020 e transitou em julgado em 13/5/2020 haja vista a desistência do prazo recursal pelo ora recorrido. Em segundo lugar, mesmo que a omissão fosse sanada pelo Tribunal local e mantida a mesma conclusão, isso se dará mediante novo acórdão, que poderá ensejar novos recursos e, assim, novas decisões colegiadas. Com efeito, todas as decisões posteriores ao novo acórdão serão novas decisões, daí a perda de objeto do presente recurso, a ser declarada pelo Superior Tribunal de Justiça" (e-STJ fls. 1.053/1.054). Informa que a "liquidação de sentença foi diretamente afetada pelo resultado do julgamento do REsp 1.531.740/DF, ocasião em que Vossa Excelência anulou o acórdão proferido em embargos de declaração em agravo de instrumento julgado anteriormente- proferido na mesma liquidação de sentença - que fixava os parâmetros de cálculo para liquidação (processo nº 2008.01.1.126011-4, da 5ª Vara Cível de Brasília)(e-STJ fl. 1.055).
+De fato, por se tratar da mesma liquidação de sentença, é necessário suspender o andamento dos autos para aguardar o resultado do julgamento dos embargos de declaração noprocesso nº 2008.01.1.126011-4, tendo em vista se tratar de hipótese de prejudicialidade externa, prevista no art.313, V, "a", do CPC/2015.
+Pelo exposto, DETERMINO, de ofício, a SUSPENSÃO dos autos, que devem retornar conclusos após julgamento dos embargos de declaração n. 0005340-70.2011.8.07.0000 pelo TJDFT, noprocesso nº 2008.01.1.126011-4, conforme determinado no REsp n. 1.531.740/DF.
+Publique-se e intimem-se.
