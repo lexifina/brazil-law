@@ -1,0 +1,14 @@
+RECURSO DE AGRAVO DE INSTRUMENTO – AUTOS N.o 1007000.2021.8.11.0000 – COMARCA DE RONDONÓPOLIS/MT.
+Agravante: Rosimary Negro
+Agravados: Banco Votorantim S/A, Detran/SP e Rodrigo (proprietário do estacionamento MR Veículos)
+Vistos.
+Trata-se de recurso de agravo de instrumento interposto por Rosimary Negro, contra a decisão proferida pelo Juízo da 1a Vara Especializada da Fazenda Pública de Rondonópolis/MT, que, nos autos da “ação de obrigação de fazer para reversão/inexistência de alienação de veículo (em nome de terceira pessoa, mesmo o veículo ainda estando em nome da autora) c/c baixa de gravame c/c indenização por danos morais e pedido de tutela de urgência antecedente” no 1005382-33.2021.811.0003, proposta em face do Banco Votorantim S/A, Detran/SP e Rodrigo (proprietário do estacionamento MR Veículos), indeferiu a tutela de urgência pleiteada, consubstanciada no pedido de expedição de ofício ao Detran/SP para que proceda com a baixa do gravame de no 51787715/SP registrado no veículo da autora, bem como para que a instituição financeira realize a imediata reversão da alienação fiduciária com relação ao mencionado veículo.
+A agravante relata, em breve síntese, que é proprietária do veículo modelo I/MMC PAJERO HPE 3.2 D, de cor prata, ano e modelo 2012/2012, placa: ITB – 7667 e que, ao tentar transferir a propriedade do bem, constatou a existência de um gravame de alienação fiduciária (no 51787715/SP) realizada por terceira pessoa, desconhecida da autora, em evidente fraude.
+Ocorre que, numa detida análise da controvérsia, verifico que, embora um dos agravados seja entidade autárquica pertencente a outro Estado da Federação, tal circunstância não se mostra suficiente para determinar a competência desta Câmara de Direito Público para processar e julgar o presente recurso.
+Isso porque os artigos 21, inciso II, alínea “a” e 21-A, inciso II, alínea “a”, do Regimento Interno deste Sodalício, dispõem que a distribuição da competência recursal entre as Câmaras de Direito Público e Privado varia conforme a identificação da natureza do interesse jurídico envolvido, ou seja, se público ou privado.
+No caso dos autos, foi demandada ação pela consumidora, a qual contesta gravame existente em veículo de sua propriedade oriundo de alienação fiduciária (no 51787715/SP) realizada por terceira pessoa junto à instituição financeira requerida, de sorte que a competência para julgar o recurso interposto é da Câmara Cível de Direto Privado, haja vista que a relação jurídica é de consumo, cuja natureza é privada.
+Ante o exposto, com amparo nos artigos 21, inciso II, alínea “a”, e 80, § 1o, ambos do Regimento Interno deste Tribunal, determino a remessa dos autos ao DEJAUX para distribuição do feito à 1a a uma das Câmaras Cíveis de Direito Privado.
+Cumpra-se com urgência.
+Cuiabá, 07 de maio de 2021.
+Alexandre Elias Filho
+Relator Convocado
