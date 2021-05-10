@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se, na origem, de pretensão relacionada à ação de inventário, processada na forma de arrolamento sumário, em que discute-se a obrigatoriedade da comprovação prévia de quitação de todos os tributos incidentes sobre o espólio, de modo que a expedição e entrega dos formais de partilha e/ou alvarás de levantamento ficaria condicionada à regularidade fiscal relativa ao Imposto de Transmissão Causa Mortis (ITCMD) e a outros tributos eventualmente devidos pelo espólio à Fazenda Pública.
+Consoante dispõe o Regimento Interno desta Corte Superior, a competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa (artigo 9º, caput, do RISTJ).
+Cristalizada tal situação processual e fática, deve ser deslocada, quanto ao presente agravo em recurso especial, a competência de seu processamento e julgamento para as Turmas integrantes da Colenda Primeira Seção do STJ.
+Veja-se, por exemplo, as decisões monocráticas prolatadas no âmbito daquela Seção sobre o tema: REsp 1833654/DF, Rel. Ministro GURGEL DE FARIA, DJe 04/05/2020; REsp 1755794/DF, Rela. Ministra ASSUSETE MAGALHÃES, DJe 01/10/2018; AREsp 1222849/DF, Rela. Ministra ASSUSETE MAGALHÃES, DJe 09/08/2018; REsp 1749925/SP, Rela. Ministra REGINA HELENA COSTA, DJe 06/08/2018.
+E, ainda, decisões em que foi determinada a redistribuição de autos originalmente vindos a uma das Turmas desta Segunda Seção: AREsp 1596987/DF, Rel. Ministro RAUL ARAÚJO, DJe 02/04/2020; REsp 1751322/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 10/08/2018; AREsp 1306200/DF, Rela. Ministra NANCY ADNRIGHI, DJe 29/06/2018.
+Ante o exposto, determino a remessa dos autos à Coordenadoria de Autuação de Processos Recursais para que proceda sua redistribuição a uma das Turmas que integram a Primeira Seção, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+Publique-se.
+Intimem-se.
