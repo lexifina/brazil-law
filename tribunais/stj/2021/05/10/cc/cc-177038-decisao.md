@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA CÍVEL DE DOISVIZINHOS/PR, suscitante, e o JUÍZO FEDERAL DA 1A VARA DE FRANCISCO BELTRÃO, suscitado, nos autos de liquidação/execução individual de sentença proferida no âmbito da ação civil pública nº 94.008514-1, que tramitou perante o JuízoFederal do Distrito Federal.
+A demandafoi originariamente proposta na Justiça Federal que declinou de sua competência sob o fundamento que a execução individual da sentençacoletiva é dirigida apenas em desfavor do BANCO DO BRASIL, instituição que não possui foro na Justiça Federal (fls. 14/20).
+A seu turno, o r. Juízo Estadual suscitou o presente conflito afirmando que, na origem, a ação civil pública foi movida pelo Ministério Público Federal em desfavor da União, Banco Central e Banco do Brasil e, em que pese o cumprimento provisório da sentença coletiva constar apenas esta última instituição financeira no polo passivo da demanda, o feito deveria ser executado na Justiça Federal a teor doart. 516, II, do NCPC. (fls. 26/28).
+Informações do Juízo Federal às fls. 41/48.
+O Ministério Público Federal opinou pela competência do r. juízo suscitante.(fls. 49/53).
+É o relatório.
+Decisão.
+De início,conheço do conflito, com fundamento no art. 105, I, alínea "d", da Constituição Federal, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos.
+1. A jurisprudência deste STJé pacífica no sentido de que ausentes na lide quaisquer dos entes indicados, não é competente a Justiça Federal para o julgamento da demanda.
+A seu turno, a competência prevista no artigo 516 do CPC/15, referente ao Juízo competente para o processamento do cumprimento de sentença, decorre de critério funcional, definido pelas normas de organização judiciária, que, de igual modo, possui natureza absoluta.
+Com efeito,acerca da tema ora em liça, esta Corte sedimentou o entendimento de que a competência funcional cede lugar em face da competência ratione personae prevista no art. 109, I, da CF/88. Confira-se os seguintes julgados: CC 73.614/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 27/06/2007, DJ 13/08/2007;CC 129.766/SP, Relatora Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 11/6/2014, DJe 20/6/2014.
+Nesta linha de intelecção, não figurando na lide quaisquer dos entes previstos no artigo 109, I, da CF, considerando que o autor optou pela propositura da execução em face exclusivamente do Banco do Brasil, que possui natureza jurídica de sociedade de economia mista, é de se declarar a competência da Justiça Estadual para o julgamento de cumprimento de sentença coletiva que tramitou perante a Justiça Federal. No mesmo, é a redação da Súmula 508/STF:"Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A."
+No mesmo sentido, veja-se:CC 162.733, Rel. Ministro Ricardo Villas Bôas Cueva,DJe 13/12/2018; CC 157.889/MS, Rel.Ministro Moura Ribeiro,DJe 15/6/2018 e CC 156.349/MS, Rel. Ministra Nancy Andrighi, DJe 26/3/2018.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do conflito e, por conseguinte,declaro competente JUÍZO DE DIREITO DA VARA CÍVEL DE DOISVIZINHOS/PR, suscitante.
+Publique-se. Intimem-se. Oficiem-se.
