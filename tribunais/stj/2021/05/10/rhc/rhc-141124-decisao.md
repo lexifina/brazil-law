@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus,interposto por LAYDISSON DA SILVA PATRICIO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos delitos tipificados no art. 33, caput, da Lei 11.343/06 e art. 12 da Lei 10.826/03.
+Nesta Corte, o recorrente sustenta a ilegalidade da prisão, ante a não realização da audiência de custódia.
+Ressalta que a audiência de custódia é direito público e subjetivo do flagranteado e não poderia ter sido dispensada.
+Pleiteia, assim, o relaxamento da prisão provisória.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O Tribunal de origem, quanto a não realização da audiência de custódia, se manifestou nos seguintes termos:
+"Dando início à análise do writ, quanto à alegação de ilegalidade consistente não realização de audiência de custódia, não constato a ocorrência de qualquer constrangimento.
+Sabe-se que a audiência de custódia, prevista no Pacto de São José da Costa Rica, encontra-se revestida de legalidade e figura como medida salutar para a proteção dos direitos humanos, visando garantire dar eficiência a direitos referentes à liberdade e integridade física dos presos. Não obstante, tenho que, apesar do caráter supralegal do pacto internacional supracitado, a aplicação de seus dispositivos deve ser observada caso a caso, de modo a não desprezar as normas processuais vigentes no país.
+A Constituição Federal e o Código de Processo Penal, atentos tanto à excepcionalidade da segregação cautelar quanto ao próprio princípio da dignidade humana, preveem mecanismos de controle da legalidade da prisão. Acerca, cumpre destacar, por exemplo, o fato de que a prisão de qualquer cidadão é imediatamente comunicada ao juiz competente, ao Ministério Público e à Defensoria, se o detento não tiver condições de contratar advogado, não havendo comprovação nos autos de que tais formas de fiscalizar e garantir a legalidade da constrição do paciente não tenham sido observadas in casu.
+É preciso frisar, de igual modo, o momento excepcional de restrição sanitária vivido pelo mundo atualmente em razão da pandemia de coronavirus. Vale lembrar que, relativamente ao § 4º do art. 310 do Código de Processo Penal, com redação dada pela Lei nº 13.964/2019, conhecida por "Pacote Anticrime", cediço que sua eficácia foi suspensa em 22/01/2020 em decisão liminar proferida pelo Ministro Luiz Fux, do Supremo Tribunal Federal, em sede da ADI 6305, especialmente por ignorar as dificuldades práticas de diversas comarcas do país em dar efetividade à regra.  .. " (e-STJ, fls. 286-287)
+De fato, não há se falar em ilegalidade da prisão,sobretudo tendo em vistaque a conversão do flagrante em prisão preventiva torna superadaa alegação de nulidaderelativamente à falta de audiência de custódia, dada a existência de novo título a justificar a constrição cautelar.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE ENTORPECENTES. AUDIÊNCIA DE CUSTÓDIA. NÃO REALIZAÇÃO. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. MATÉRIA SUPERADA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. PERICULOSIDADE SOCIAL (APREENSÃO DE GRANDE QUANTIDADE DE DROGA). GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Mostra-se superada a alegação de nulidade pela não realização da audiência de custódia em hipótese na qual sobreveio decreto da prisão preventiva. Isso porque a posterior conversão do flagrante em prisão preventiva constitui novo título a justificar a privação da liberdade, restando superada a alegação de nulidade decorrente da ausência de apresentação do preso ao Juízo de origem (HC n. 363.278/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 18/8/2016, DJe 29/8/2016)"(HC 517.526/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2019, DJe 22/08/2019).
+Ademais, há de se ressaltar que na hipótese dos autos a não realização da audiência de custódia não decorreu de desídia por parte do Juízo processante, mas sim de observação da Recomendação n. 62/2020 do CNJ, a qual dispõe acerca da dispensa da audiência de custódia como uma das medidas de prevenção de contágio por covid-19.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
