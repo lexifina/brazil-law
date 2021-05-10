@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDRE LUIS CORTES FERREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação de despejo. Locação verbal. Demandado que admitiu ter pagado aluguéis ao autor e que deixou de fazê-lo em certo momento. Realidade da locação com isso confessada. Alegação de que se cuidava de imóvel cedido pela Prefeitura à mãe do réu não comprovada. Irrelevância do fato de o autor não deter título de propriedade. Capacidade para dar em locação que não advém do domínio ou de direito aquisitivo ao imóvel, mas da mera posse. Ação procedente. Pedido de condenação em aluguéis descabido, já que só formulado na apelação. Recurso parcialmente provido.
+Quanto à controvérsia, alega violação do art. 373, I, do CPC, relativo ao ônus probatório, trazendo o seguinte argumento:
+Tendo em vista que em momento algum o recorrido fez prova de que possui qualquer direito sobre o imóvel, o que seria seu dever, segundo o estabelecido pelo art. 373, inciso I do CPC.
+ ..
+Tendo em vista que no v. acórdão recorrido, foi decidido não ser necessário ser o proprietário do imóvel para ser o seu locador, sendo que em momento algum nos presentes autos, o recorrido trouxe aos autos, elementos que demonstrem que algum dia teve a posse do bem, ônus esse que seria do autor da ação.
+Logo, fica clara a afronta ao art. 373, inciso I do CPC, motivo esse que justifica o provimento do presente recurso. (fls. 163/165).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O demandado alegou, é verdade, que o imóvel não era de propriedade do autor, mas da Prefeitura, que o cedera à mãe do réu para que lá vivesse com os filhos.
+Ocorre que o réu não deu nem mínima prova da suposta cessão, prova que evidentemente havia de ser documental porque só por escrito bem público pode ser cedido a particular.
+Logo, restava apenas a particularidade de o autor não ser proprietário do imóvel.
+Ora, aquela circunstância era aqui de todo irrelevante, já que como é elementar a capacidade para dar em locação não advém do domínio ou de direito aquisitivo ao imóvel, mas da mera posse.
+ ..
+Pois o autor provou por meio de documento que era detentor da posse do referido bem, a ele cedida pela Prefeitura local conforme informava o processo administrativo que indicou (fls.79).
+Por isso, a notícia de que faltava ao autor o título de propriedade não lhe retirava o direito de propor a ação de despejo e de retomar o imóvel ante a confessada falta de pagamento dos aluguéis.
+Note-se que o demandado não comprovou a realização de benfeitorias no imóvel, a tanto não bastando mera apresentação de notas fiscais de compra de materiais de construção.
+Realmente, mostrava-se de rigor a revelação de que o réu realizou acréscimos ou melhorias especificamente no imóvel locado, mas instado a informar sobre o interesse na dilação probatória ele ficou silente conforme certificou o cartório(fls.113).
+Caso era, pois, de se julgar procedente a ação, o que agora ocorre, ficando assinalado o prazo de 15 dias para voluntária desocupação, pena de despejo forçado.
+Na petição inicial o autor não formulou pedido de cobrança e, por isso, à vista do princípio da estabilização da lide deixa-se de conhecer do pleito nesse sentido só agora apresentado (fls. 157-158, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto, o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Destarte, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+A propósito: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
