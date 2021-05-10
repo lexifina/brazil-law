@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DAVID RODRIGUES KLUGE (e-STJ, fls. 1505-1512) contra decisão monocrática, de minha Relatoria, queconheceu do agravo para negar provimento aorecurso especial (e-STJ, fls. 1500-1502).
+O embargante sustenta que haveria omissão no julgado, ao argumento de que, "na decisão embargada, não foi decidido sobre o requerimento de condenação do Estado do Paraná em honorários advocatícios pela atuação deste advogado" (e-STJ, fl. 1507).
+Aduz, ainda, a existência de erro material, uma vez que, segundo alega, "não houve fuga nem perseguição, conforme exposto na decisão embargada" (e-STJ, fl. 1508), na medida em que o embargante teria sido preso durante a prática do crime, concluindo que não teria havido a inversão dos bens da vítima, o que afastaria a consumação do delito de roubo.
+Requer que seja suprida a omissão apontada, assim como o alegado erro material.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Inicialmente, cumpre ressaltar que os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+No caso dos autos, à toda evidência, não se vislumbra nenhuma omissão na decisão embargada, tampouco erro material.
+No que diz respeito à alegada omissão quanto ao pedido de fixação dos honorários advocatícios de defensor dativo em decorrência da interposição do recurso especial e do respectivo agravo,cumpre registrar que se trata de responsabilidade do Estado, devendo ser formulado na origem, nos termos do art. 22, § 1º, da Lei n. 8.906/1994(cf. AgRg nos EDcl no REsp n. 1.709.168/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 29/06/2018).
+Quanto ao alegado erro material, verifica-se que o embargante pretende, na verdade,a rediscussão de matéria já julgada, reiterando as razões do recurso especial quanto à suposta ausência de inversão da posse do bem, pleiteando a desclassificação do roubo consumado para a sua forma tentada.
+A esse respeito, conforme constante da decisão embargada, "o entendimento perfilhado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, uma vez que não há que se falar em desclassificação da conduta para a modalidade tentada, pois, nos termos do decidido pela Terceira Seção deste Superior Tribunal no julgamento do Recurso Especial n. 1.499.050/RJ, submetido ao rito dos recursos repetitivos, "consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada". Mais recentemente, em 14/9/2016, a Terceira Sessão aprovou a Súmula 582, com a mesma redação" (e-STJ, fl. 1502).
+Com efeito,"airresignação do embargante se resume ao seu mero inconformismo com o resultado do julgamento, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição, ambiguidade ou obscuridade do julgado, e não a reapreciar a causa." (EDcl no AgRg no AREsp 1561976/PA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
