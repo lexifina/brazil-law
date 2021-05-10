@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por GOL LINHAS AÉREAS S.A. e OUTRO, envolvendo o Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação/falência do GRUPO VARIG, arrematado em parte pelas suscitantes, e o Juízo da 3ª Vara do Trabalho de Guarulhos/SP, onde tramita Reclamação Trabalhista movida por Laerth de Almeida Fonseca (Processo nº 0160800-28.1998.5.02.0313)
+Em síntese, sustentam as suscitantes que o Juízo Laboral, nos autos da referida reclamação trabalhista, está lhes atribuindo responsabilidade por obrigações do GRUPO VARIG, embora exista decisão do Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro declarando não ter havido sucessão empresarial na hipótese.
+Alegando que já foram determinados atos constritivos nos autos da demanda trabalhista, com iminência da liberação dos valores arrecadados, requerem que o presente incidente seja decidido de plano, definindo-se, desde logo, o juízo competente para emanar as ordens executórias.
+No mérito, as insurgentes pugnam pelo conhecimento do presente incidente, para que seja reconhecida, nos termos da jurisprudência deste Tribunal Superior, a competência do Juízo Universal, bem como para que sejam anuladas todas as decisões proferidas pelo juízo reputado incompetente.
+Às fls. 186/187, este signatário indeferiu o pedido liminar.
+Interposto agravo interno (fls. 220/225), esses aguardam julgamento.
+Prestadas as informações (fls. 206/211 e 212/217), o MPF ofertou parecer pelo não conhecimento do conflito de competência. (fls. 226/228)
+É o relatório.
+Decisão.
+O presente conflito não merece conhecimento.
+1. Nos termos do art. 66do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+Na hipótese,a despeito da orientação jurisprudencial no sentido de que o Juízo Universal é o competente para a execução dos créditos apurados nas ações individuais propostas em face da Varig S/A e das suscitantes (arrematantes da "Unidade Produtiva Varig" - UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei nº 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+A propósito, vale trazer à lume os seguintes julgados, cujo teor revelam identidade com a espécie ora em apreço: AgRg no CC 112.638/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/08/2011, DJe 19/08/2011, AgInt no CC 121.276/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 08/02/2017; AgRg no CC 95385/RJ, Rel. Min. João Otávio de Noronha, Segunda Seção, julgado em 10/08/2011, DJe 19/08/2011; AgRg no CC 106743/RJ, Rel. Min. João Otávio de Noronha, Segunda Seção, julgado em 10/08/2011, DJe 19/08/2011; CC 61.272/RJ, Rel. Min. Ari Pargendler, Segunda Seção, julgado em 25/04/2007, DJ 25/06/2007,p. 213.
+Contudo, na hipótese dos autos, consoante decisão proferida pelo r. juízo laboral, juntado às fls. 169/170, não há demonstração direta, objetiva e concreta, de determinações constritivas direcionadas ao patrimônio das referidas empresas, sendo, pois, inviável o conhecimento do conflito positivo de competência ora em análise.
+2. Do exposto, com fundamento no art. 66 do NCPC c/c Súmula 568/STJ, não conheçodo presente conflito
+Fica, pois, prejudicado o exame do agravo internode fls. 220/225.
+Publique-se. Intimem-se.
