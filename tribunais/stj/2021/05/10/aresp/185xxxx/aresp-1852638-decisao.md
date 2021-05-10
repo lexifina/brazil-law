@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE OLIMPIO GARCIA SANTANA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE REVISÃO CONTRATUAL.
+1. Os negócios jurídicos bancários estão sujeitos às normas inscritas no CDC (Súmula n. 297 do STJ), com consequente relativização do ato jurídico perfeito e do princípio pacta sunt servanda.
+2. Os juros remuneratórios foram pactuados em índice pouco superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação, não se caracterizando sua abusividade4 (STJ, REsp nº. 1.061.530/RS, Temas 24 a 27).
+3. Mostra-se lícita a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada em contrato celebrado após a vigência da Medida Provisória nº. 2.170-36/2001, mostrando-se suficiente a indicação de juros anuais superiores ao duodécuplo do seu índice mensal (STJ, REsp nº. 973.827/RS, Temas 246 e 247;Súmula nº. 541).
+4. Carece o consumidor de interesse para pleitear o afastamento das tarifas de abertura de crédito e de emissão de carnê e boleto, visto que o contrato não as prevê nem houve prova da sua efetiva exigência.
+5. Mostra-se lícita a cobrança da tarifa de cadastro nos contratos bancários celebrados após abril de 2008, limitado seu montante - em caso de abusividade - à média de mercado divulgada pelo Banco Central do Brasil para a data da contratação (STJ, REsp nº. 1.251.331/RS. Temas 618 a 620).
+6. Diante da manutenção das cláusulas pactuadas, não há falar em compensação de valores ou em repetição de indébito.
+7. Em face da regularidade dos encargos remuneratórios pactuados para o período de normalidade contratual, rejeita-se o pedido de descaracterização da mora debendi(REsp nº. 1.061.530/RS, Temas 28 e 29 do STJ).
+8. Ato contínuo, não há óbice à inscrição do nome do consumidor nos cadastros de restrição ao crédito. Em idêntico sentido, vai indeferido o pedido de sua manutenção na posse do bem financiado.
+9. Majorada a verba honorária devida ao procurador da instituição financeira, na forma do artigo 85, § 11, do CPC/2015, suspensa sua exigibilidade em virtude do benefício da gratuidade de justiça concedido na instância de origem. APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega violação do art. 51, IV e §1º, III, do CDC, no que concerne à existência de dissídio jurisprudencial quanto à aplicação da taxa média de juros aos contratos bancários nos quais se pratiquem juros remuneratórios em valor superior àquela.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o acórdão recorrido assim decidiu:
+No caso sob comento, os juros remuneratórios foram pactuados em 23,58% ao ano, conforme o contrato juntado na instância de origem (Evento1, CONTR11), índice pouco superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação (19,73% ao ano em janeiro de 2020), não se podendo falar em sua abusividade.
+ ..
+Assim, verificando-se que os juros anuais (23,58%) superam o duodécuplo da sua taxa mensal (1,78%), conforme descrito no contrato celebrado entre os litigantes (Evento1,CONTR11), não há abusividade a ser declarada.
+Assim, no que concerne à controvérsia debatida nos autos, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que inexistente a necessária similitude fática entre o acórdão recorrido e o paradigma indicado, que não decidiu a questão com base nas mesmas circunstâncias acima delineadas.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
