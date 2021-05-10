@@ -1,0 +1,3 @@
+DECISÃO
+Considerando que foi concedida aordem, de ofício, paraafastar a anotação criminal de porte de droga para consumo, utilizada como reincidênciana segunda fase da dosimetria,redimensionando a pena e o regime prisional do paciente, para 5 anos de reclusão, em regime semiaberto, mais pagamento de 500 dias-multa, sendoa decisão disponibilizadano Diário da Justiça Eletrônico/STJ, em 03/05/2021 (fls. 523/529), e consideradapublicado em 04 de maio de 2021, nos termos do artigo 4º, § 3º, da Lei 11.419/2006, conforme certidão de publicação juntada à fl. 532, consideroprejudicadaos termos constantes da petição de fls. 517-522.
+P. e I.
