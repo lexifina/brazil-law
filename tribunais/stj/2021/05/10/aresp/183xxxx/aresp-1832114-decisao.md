@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALSCO TOALHEIRO BRASIL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. RECURSO ADESIVO. APONTAMENTO DESABONADOR. RELAÇÃO JURÍDICA DESCONHECIDA. ALEGADA PRESTAÇÃO DE SERVIÇOS QUE NÃO RESTOU DEMONSTRADA. NEGATIVAÇÃO INDEVIDA. DANO MORAL. PESSOA JURÍDICA. SUA OCORRÊNCIA. VERBA ARBITRADA NO IMPORTE DE R$ 5.000,00 (CINCO MIL REAIS) QUE SE MAJORA AO IMPORTE DE R$ 8.000,00 (OITO MIL REAIS). SENTENÇA QUE SE REFORMA PARCIALMENTE. (fl. 187)
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega a violação dos arts. 373, I, do CPC; 186 e 927 do CC, no que concerne à não configuração de dano moral indenizável, pois a recorrente não praticou nenhum ato ilícito, trazendo os seguintes argumentos:
+Ao contrário do que sustenta nos autos, a empresa recorrida, indubitavelmente, não se encontrava em situação de total adimplência.
+Como se verifica nos documentos que o recorrente acostou à sua peça de defesa, a Nota Fiscal nº 13260 questionada pela recorrida foi emitida em razão da prestação de serviços de lavanderia efetivamente concluídos.
+O documento denominado "Recibo Provisório de Serviços" discrimina exatamente a composição do valor de R$ 250,00 (duzentos e cinquenta reais) consignado na fatura, ou seja, neste montante é cobrado o importe relativo à lavagem de 2 (dois) Aventais de Raspa, acrescido de um complemento de cobrança por outros serviços c da Taxa de Custo Ambiental.
+Logo, a inserção do nome da recorrida em cadastro de maus pagadores, constatada a existência de débito perante o recorrente, configura, sem sombra de dúvidas, exercício regular de direito, não havendo qualquer ato ilícito praticado.
+Certo é que, nessa seara cível, a recorrida não foi capaz de demonstrar qualquer ilicitude advinda da conduta do recorrente, ônus que lhe incumbia, de acordo com art. 373, inc. I, do CPC.
+ ..
+Desta maneira, resta constatada a ausência de um mínimo suporte comprobatório dos fatos constitutivos do alegado direito da empresa recorrida.
+Não há, portanto, como se vislumbrar a prática de ato ilícito comprovado no caso em tela por parte do recorrente e que justifique uma reparação moral.
+Entendimento contrário, como restou consignado no v. aresto recorrido, implica em clara ofensa aos arts. 186 e 927 do Código Civil e 373, inc. I, do CPC. (fls. 196/197)
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 944 do CC, no que concerne à redução do valor exagerado fixado a título de indenização por dano moral, trazendo os seguintes argumentos:
+Os supostos prejuízos sofridos pela recorrida, narrados na peça exordial, absolutamente, não comportam a exagerada indenização de R$ 8.000,00 (oito mil reais).
+Ao prever a indenização por danos morais, não pretendeu o legislador que a parte supostamente ofendida acabasse por enriquecer-se pelo fato ocorrido.
+Em verdade, a quantificação do dano deve ser feita de forma ponderada, comedida, a fim de se evitar o enriquecimento sem causa.
+Logo, nas situações onde o quantum indenizatório se mostra excessivamente exagerado, como ocorreu in casu, faz-se necessária a sua redução, como forma de se aproximar das finalidades da lei.
+E, conforme a pacífica jurisprudência deste E. STJ, tal redução pode ser efetivada em sede de recurso especial, não havendo o que se falar em reexame da matéria fática, restando, assim, completamente afastada a incidência da Súmula nº 7 desta C. Corte.
+ ..
+Logo, ainda que instâncias inferiores tenham concluído pela responsabilidade do recorrente, não há como subsistir a indenização fixada pelo E. TJ/RJ, impondo-se, pois, a sua redução, sob pena de afronta ao art. 944 do Código Civil. (fls. 197/199)
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Cuida-se de ação indenizatória em razão de alegado ilícito cometido pela prestadora de serviços ao negativar seu nome em órgão de restrição ao crédito por débito não reconhecido.
+Argumenta a parte ré que agiu tão somente no exercício regular de seu direito diante da inadimplência de seu cliente. E, para respaldar sua conduta, apresentou a Nota Fiscal Eletrônica (e-fls. 76) e o Recibo Provisório de Serviços (e-fls. 77)
+ ..
+Ocorre que a parte autora nega que houvesse relação jurídica com a requerida, pelo que tais documentos, carentes de qualquer indicação de recebimento ou solicitação, não são aptos a demonstrar a existência da contratação.
+A alegação de que se trata de empresa que atua em serviços de armazenagem vem somente ratificar a informação de que não houve regularidade na operação tratada nos autos.
+Desta forma, patenteada a ilicitude da conduta da prestadora de serviços, resta examinar se, do apontamento desabornador em desfavor da autora, ressai prejuízo de ordem imaterial.
+Sabe-se que o dano de natureza extrapatrimonial para pessoas jurídicas guarda enfoque diferenciado, qual seja, a mácula em sua imagem perante a sociedade, ou seja, eventual abalo a sua credibilidade no mercado.
+In casu, é a própria existência da restrição cadastral que basta a evidenciar que, em razão dos fatos, houve algum abalo à vida negocial da empresa que teve seu nome desmotivadamente inserido em rol de maus pagadores, de modo a representar embaraço e mácula ao bom nome empresarial. (fls. 189/191)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Como cediço, ao monetizar o descrédito empresarial, o julgador deve levar em consideração vários critérios, em um mister sistemático que passa pela aferição do que vem consignando a jurisprudência e do sopesamento das peculiaridades do caso concreto. Aliás, esse paradigma é encampado no Colendo Superior Tribunal de Justiça, conhecido por método bifásico.
+ ..
+Diante disso, o importe conferido pelo Juízo primevo de R$ 5.000,00 (cinco mil reais) parece módico, sendo mais adequado majorar a verba para aquele constante do pedido, qual seja, R$ 8.000,00 (oito mil reais), e que não se eleva considerando o limite da inicial, porquanto esta Eg. Corte já sinaliza adotar patamar mais elevado. (fls. 191/192)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
