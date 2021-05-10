@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de agravo internono agravo em recurso especial interposto por ITAU UNIBANCO S.A,contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial por esteinterposto, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no qual se discute, a definição a respeito da aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário.
+A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1085), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041, ambos do CPC/2015.
+Forte nessas razões, TORNO SEM EFEITO a decisão da Presidência do STJ de fls. 565/569 (e-STJ) e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a devida baixa nesta Corte, para que lá permaneçam suspensos, observando-se o disposto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
