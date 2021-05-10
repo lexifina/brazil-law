@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 39):
+EMENTA: APELAÇÃO - TRÁFICO DE DROGAS - PRIVILÉGIO (ART. 33, §4º, DA LEI DE TÓXICOS) - INAPLICABILIDADE.
+- A incidência da Causa Especial de Diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06 postula a satisfação de todos os requisitos previstos em lei.
+O paciente foi condenado pela prática do delito previsto no art. 33, caput da Lei 11.343/06, àpenade 5anos de reclusão, em regime inicial fechado, mais o pagamento de 500 dias-multa.
+Busca a defesa a aplicação da minorante do tráfico no patamar de 2/3 e a alteração do regime inicial de cumprimento da pena.
+Requer, liminarmente e no mérito, o redimensionamento da pena com a posterior soltura do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Quanto à minorante do tráfico, o acórdão impugnado assim referiu (fls. 42/45):
+O art. 33, §4º, da Lei nº 11.343/06 prevê que os delitos definidos no caput e no §1º do referido artigo poderão ter suas penas reduzidas de um sexto a dois terços, desde que o Réu preencha,cumulativamente, os seguintes requisitos: primariedade, bons antecedentes e que não se dedique a atividades criminosas nem integre organizações criminosas.
+Vale consignar que a expressão "dedicação à atividade criminosa" presta -se a diferenciar a situação do traficante eventual daquele que, embora sem registros criminais anteriores, vem fazendo do ilícito o seu verdadeiro meio de vida.
+A esse respeito, o STJ tem decidido que a expressiva quantidade e a natureza do entorpecente apreendido são circunstâncias hábeis a impedir a aplicação da causa de diminuição de pena referente ao tráfico privilegiado, pelo não preenchimento do requisito legal relativo a não dedicação às atividades criminosas.
+Nesse sentido, trago à colação o seguinte julgado:
+ ..
+Na espécie, não obstante o Apelante seja Primário e sem antecedentes criminais (CAC - fl. 108), o conjunto probatório (oral e documental) revela que Gleison se dedica à prática de atividade criminosa.
+Depreende-se, que Policiais Militares receberam "denúncia" anônima, noticiando que integrante da gangue CTA - Comando Terrorista da Alkimin matinha em depósito grande quantidade de drogas no Beco Pai Joaquim.
+Assim, os Militares foram ao local, quando sentiram forte odor de maconha exalando de determinado imóvel, de propriedade de Márcia do Carmo Silva, que informou tê-lo locado a terceira pessoa. Em seguida, os Militares se posicionaram em local estratégico e conseguiram ver, em cima do sofá da residência, mala contendo substância entorpecente análoga à maconha.
+Extrai-se que Márcia, que possuía as chaves do portão, destrancou as portas, oportunidade em que os Policiais apreenderam as substâncias entorpecentes e localizaram, ainda, documentos pessoais do Réu na mesma mala em que as drogas estavam acondicionadas.
+No momento em que os Militares saíam da residência, Gleison de Souza Andrade se aproximou e foi imediatamente reconhecido, tendo confessado o narcotráfico, afirmando receber R$600,00 (seiscentos reais) por semana para manter em depósito a droga.
+O Laudo de Constatação Preliminar de Drogas atestou a apreensão de 592 porções de maconha, pesando 5.736,90g (fl.84).
+A elevada quantidade de drogas apreendida, já fracionada, somada às declarações do Réu de que mantinha o entorpecente em depósito pelo valor de R$ 600,00 (seiscentos reais) semanais, demonstra a dedicação a atividades criminosas.
+Destarte, ante o não preenchimento dos requisitos legais, incabível a aplicação da Causa Especial de Diminuição de Pena.
+Como se vê, as instâncias ordinárias afastaram a incidência da minorante com apoio na elevada quantidade de droga apreendida (cerca de 5.736,90g de maconha), sem indicar outros elementos concretos dos autos aptos a afastar os requisitos autorizadores da benesse legal.
+Nos termos da orientação jurisprudencial da Sexta Turma desta Corte, a aplicação do mencionado benefício não fica condicionada ao disposto no art. 42, da Lei de Drogas.
+Trata-se de direito subjetivo do réu, de forma que, atendidos os requisitos legais, cabível a aplicação da referida causa redutora de pena, devendo os parâmetros previstos no art. 42 da Lei 11.343/06 serem utilizados não como óbice à sua concessão, mas como vetoriais norteadoras da fixação do quantum de redução a ser aplicado no caso. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. PREENCHIMENTO DOS REQUISITOS LEGAIS EXPRESSAMENTE RECONHECIDO PELO TRIBUNAL A QUO. AUSÊNCIA DE INDICATIVOS DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. POSSIBILIDADE. REVOLVIMENTO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante prevista no art. 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa.
+2. Hipótese em que o Tribunal de origem reconheceu expressamente o preenchimento dos requisitos legais do art. 33, § 4º da Lei n. 11.343/2006 pelo réu, asseverando não existirem nos autos nenhuma circunstância que evidenciasse dedicação à atividade criminosa.
+3. A alteração da conclusão dada pela Instância ordinária - de que não existem elementos concretos indicativos de que faziam os recorrente de organização criminosa ou se dedicariam ao tráfico -, implicaria reexame do material cognitivo produzido nos autos, insuscetível de ser realizado em recurso especial, nos termos da Súmula 7/STJ .
+4. A aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 constitui direito subjetivo do réu, de sorte que, atendidos os requisitos legais, mister a aplicação da referida causa redutora de pena, devendo os parâmetros previstos no art. 42 da Lei n. 11.343/2006 ser utilizados não como óbice à sua concessão, mas como vetoriais norteadoras da fixação do quantum de redução a ser aplicado no caso. Precedentes.
+5. Agravo regimental improvido (AgRg no AREsp 1663688/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. NÃO APLICAÇÃO DO PRIVILÉGIO PREVISTO NO ART. 33, § 4º, DA LEI DE DROGAS. NEGATIVA FUNDADA EXCLUSIVAMENTE NA QUANTIDADE DA DROGA APREENDIDA (20 G DE MACONHA E 20 G DE COCAÍNA). IMPOSSIBILIDADE. SENTENÇA CONDENATÓRIA RESTABELECIDA.
+1. No caso, a incidência da minorante (art. 33, § 4º, da Lei n. 11.343/2006) foi afastada pelo Tribunal a quo, somente com base na quantidade da droga apreendida - 20 g de cocaína e 20 g de maconha.
+2. A aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 constitui direito subjetivo do réu, de sorte que, atendidos os requisitos legais, mister a aplicação da referida causa redutora de pena, devendo os parâmetros previstos no art. 42 da Lei n. 11.343/2006 ser utilizados não como óbice à sua concessão, mas como vetoriais norteadoras da fixação do quantum de redução a ser aplicado no caso. (AgRg no REsp n. 1.838.014/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/2/2020).
+3. Agravo regimental improvido (AgRg no HC 553.997/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+Reconhecida, nesta sede, a minorante do art. 33, § 4º, da lei de drogas,fixo-a na fração mínima de 1/6, em razão da elevada quantidade de droga apreendida, tornando a sanção definitiva em 4 anos e 2 meses de reclusão, mais o pagamento de 416 dias-multa.
+Considerando a expressiva quantidade de droga, fica mantido o regime fechado, por revelar fundamento concreto ao agravamento do regime inicial, nos termos do art. 33, § 3º, do CP, ainda que fixada a pena-base no mínimo legal. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME FECHADO COM ESTEIO EM FUNDAMENTO CONCRETO. QUANTIDADE DE DROGA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para fixação do regime inicial de cumprimento da pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+2. Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço.
+3. Na espécie, apesar de a pena-base ter sido estabelecida no mínimo legal, o regime mais severo foi devidamente fundamentado no montante de droga apreendida - 1,435kg (um quilo, quatrocentos e trinta e cinco gramas) de cocaína e 1,860kg (um quilo, oitocentos e sessenta gramas) de haxixe. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC 622.355/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 18/02/2021)
+Ante o exposto, concedo parcialmente ohabeas corpuspara, reconhecido o tráfico privilegiado,reduzir a pena para 4 anos e 2 meses de reclusão, mais o pagamento de 416 dias-multa, mantido o regime fechado.
+Publique-se.
+Intimem-se.
