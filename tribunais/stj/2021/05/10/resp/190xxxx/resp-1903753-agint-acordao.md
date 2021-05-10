@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS DE MORA. INCIDÊNCIA. DATA DA NOTIFICAÇÃO DA AUTORIDADE COATORA NO MANDAMUS. TERMO INICIAL.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Conforme entendimento desta Corte Superior, "o termo inicial dos juros de mora da ação de cobrança, lastreada no direito reconhecido na via mandamental, deve ser fixado na data da notificação da autoridade coatora no writ, pois é o momento em que, nos termos do art. 219 do CPC/1973, ocorre a interrupção do prazo prescricional e a constituição em mora do devedor" (REsp 1.692.635, rel. Ministro Napoleão Nunes Maia Filho, Dje de 11/04/2018).
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO e pela SÃO PAULO PREVIDÊNCIA - SPPREV contra decisão de e-STJ fls. 576/580, que: (a) deu provimento ao apelo nobre manejado por Edison Gomes da Silva e outros para fixar como termo inicial dos juros de mora a data da notificação da autoridade apontada como coatora no mandado de segurança coletivo; e, (b) não conhecer do agravo em recurso especial interposto pela FESP e pela SPPREV, tendo em vista a incidência da Súmula 182 do STJ.
+A parte agravante, ressaltando que não se insurgirá em relação às demais teses suscitadas, sustenta, em síntese, que "é inequívoca a prescrição da pretensão formulada na ação de cobrança em exame, em relação aos valores pretéritos à impetração" (e-STJ fl. 584).
+Sem impugnação (e-STJ fls. 591/610).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS DE MORA. INCIDÊNCIA. DATA DA NOTIFICAÇÃO DA AUTORIDADE COATORA NO MANDAMUS. TERMO INICIAL.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Conforme entendimento desta Corte Superior, "o termo inicial dos juros de mora da ação de cobrança, lastreada no direito reconhecido na via mandamental, deve ser fixado na data da notificação da autoridade coatora no writ, pois é o momento em que, nos termos do art. 219 do CPC/1973, ocorre a interrupção do prazo prescricional e a constituição em mora do devedor" (REsp 1.692.635, rel. Ministro Napoleão Nunes Maia Filho, Dje de 11/04/2018).
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos dos requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+Feito o registro, tem-se que a insurgência não merece prosperar.
+Inicialmente, tem-se, conforme constou do relatório, que resta consignado na insurgência sob análise que "no que tange às demais teses suscitadas no bojo do recurso especial, não mais se insurgem os entes públicos ora agravantes" (e-SJT fl. 585).
+Pois bem. O Tribunal origem decidiu em relação à incidência dos juros de mora (e-STJ fl. 361):
+ ..
+Destarte, julga-se procedente a demanda, apenas em relação ao Estado, na parte não atingida pelo impedimento de litispendência ou coisa julgada, pelo cálculo dos quinquênios e da sexta parte sobre todas as verbas não eventuais que compõem a remuneração e proventos de aposentadoria em caráter regular, sendo as correspondentes diferenças, dos cinco anos anteriores ao ajuizamento do mandado de segurança coletivo, com correção monetária a partir de cada pagamento a menor e juros de mora a contar da citação neste processo, sendo extinto o processo, por ilegitimidade passiva, em relação a São Paulo Previdência, e fixados honorários advocatícios, a cargo de todos os autores, em dois mil reais. (Grifos acrescidos)
+Ocorre que é firme o entendimento desta Corte de que "o termo inicial dos juros de mora da ação de cobrança, lastreada no direito reconhecido na via mandamental, deve ser fixado na data da notificação da autoridade coatora no writ, pois é o momento em que, nos termos do art. 219 do CPC/1973, ocorre a interrupção do prazo prescricional e a constituição em mora do devedor" (REsp 1.692.635, rel. Ministro Napoleão Nunes Maia Filho, Dje de 11/04/2018). Na mesma esteira:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA COLETIVO. FILIAÇÃO À ASSOCIAÇÃO À ÉPOCA DA IMPETRAÇÃO. DESNECESSIDADE DE COMPROVAÇÃO. AÇÃO DE COBRANÇA DAS PARCELAS ANTERIORES À IMPETRAÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO COM A IMPETRAÇÃO DO MANDAMUS. EFEITOS PRETÉRITOS. CONTAGEM INICIADA DO TRÂNSITO EM JULGADO DA DECISÃO DA ORDEM. TERMO INICIAL DOS JUROS DE MORA. NOTIFICAÇÃO DA AUTORIDADE COATORA.
+1. Na hipótese dos autos, discute-se a existência de legitimidade ativa do filiado para execução de título extrajudicial, em Mandado de Segurança Coletivo, no caso de o ingresso na associação ocorrer após a impetração do mandamus. O Superior Tribunal de Justiça entende que tal comprovação não é imprescindível, tampouco a expressa autorização dos filiados e a apresentação de lista com seus nomes. Desse modo, a petição inicial em questão não é inepta, visto que dispensa o rol de cada um dos nomes dos filiados, já que os efeitos da sentença aproveitam a todos.
+2. Ademais, a despeito de tese defendida pela Fazenda do Estado de São Paulo, a impetração do Mandado de Segurança Coletivo interrompe o prazo prescricional, o qual apenas volta a transcorrer a partir do trânsito em julgado da decisão nele expressa.
+3. No que concerne ao início da fluência dos juros de mora, ainda em Mandado de Segurança Coletivo, os particulares recorrentes alegam que o termo inicial deve ser fixado a partir da notificação da autoridade coatora, e não no momento da citação, como dispõe o acórdão questionado. O Superior Tribunal de Justiça possui ampla jurisprudência no sentido de que o termo inicial de juros de mora é a contar da notificação da autoridade. Neste sentido, extrai-se do acórdão recorrido que o entendimento do Tribunal de origem está em desacordo com decisões desta Corte e também com a legislação federal.
+4. Agravo Interno não provido. (AgInt no REsp 1.844.710/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 21/08/2020) (Grifos acrescidos)
+Cito, ainda, as seguintes decisões monocráticas proferidas em feitos semelhantes: REsp 1.817.220/SP, rel. Ministra REGINA HELENA COSTA, DJe de 28/06/2019, e REsp 1.817.834/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 06/08/2019.
+Desse modo, observo que o acórdão proferido pelo Tribunal de origem encontra-se em dissonância com a jurisprudência desta Corte Superior, fato que determina o não acolhimento da insurgência dos entes públicos.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
