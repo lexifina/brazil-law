@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo ESTADO DO MARANHÃO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 501):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. LIMINAR EM AÇÃO RESCISÓRIA. SUSPENSÃO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. DECISÃO MONOCRÁTICA. ART. 932 DO CPC. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+I. Entendo equivocada a decisão que reconheceu a prescrição da pretensão executória baseada tão somente na regra de que o simples ajuizamento de ação rescisória não suspende a execução da sentença, uma vez que a decisão liminar proferida pelo Desembargador Jaime Ferreira de Araújo determinou "a suspensão da execução do Acórdão nº 106.405/2011, até o julgamento do mérito da presente ação rescisória".
+II. Não havendo nenhum fato novo trazido no Agravo Interno, mantenho a decisão pelos seus próprios fundamentos, deixando de exercer o juízo de retratação.
+III. Agravo Interno não provido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 539/555).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 1º, do Decreto nº 20.910/32, 197 a 204 do CCB. Defende que a decisão liminar proferida na ação rescisória suspendeu tão somente o andamento dos processos que buscavam dar cumprimento ao comando exequendo impugnado naquela ação. Não há qualquer menção à suspensão do prazo prescricional propriamente dito. Como é sabido, o prazo prescricional, uma vez iniciado, só se suspende ou interrompe nas taxativas hipóteses legais. Nesse sentido, o Código Civil não prevê qualquer hipótese de interrupção ou suspensão da prescrição em razão da pendência do julgamento de ação rescisória (fls. 558/559). Requer, ainda, seja agregado efeito suspensivo à insurgência.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+De início, em que pese o pedido de efeito suspensivo formulado na peça do recurso especial, não há como ser apreciado, tendo em vista que os requerentes sequer discorreram acerca dos requisitos autorizadores para a concessão da medida, quais sejam o fumus boni iuris e o periculum in mora.
+Quanto ao mais, tem-se que o Tribunal de origem afastou o decreto prescricional perseguido, sob a seguinte fundamentação (fls. 502/504 ):
+Verifico que a decisão liminar proferida pelo Desembargador Jaime Ferreira de Araújo na Ação Rescisória nº 5.526/2013, determinou "a suspensão da execução do Acórdão nº 106.405/2011, até o julgamento do mérito da presente ação rescisória".
+Referido acórdão é objeto da execução nº 0804068-77.2018.8.10.0000, a qual, por força da liminar concedida, ficou impossibilitada de ser ajuizada no período de 03 de julho de 2013 (data do deferimento da liminar) a 15 de agosto de 2014 (data de julgamento do mérito da rescisória), permanecendo suspenso o prazo prescricional de 05 (cinco) anos para o ajuizamento da demanda.
+É o que se depreende do art. 489 do CPC/1973, legislação vigente à época da suspensão da prescrição, quanto do art. 969 do CPC/2015, in verbis:
+Art. 489 do CPC/1973. O ajuizamento da ação rescisória não impede o cumprimento da sentença ou acórdão rescindendo, ressalvado a concessão, caso imprescindíveis e sob os pressupostos previstos em lei, de medida de natureza cautelar ou antecipatória de tutela.
+Art. 969 do CPC/2015. A propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória.
+Em vista disso, entendo equivocada a decisão que reconheceu a prescrição da pretensão executória baseada tão somente na regra de que o simples ajuizamento de ação rescisória não suspende a execução da sentença, uma vez que, repito, a decisão liminar proferida pelo Desembargador Jaime Ferreira de Araújo determinou "a suspensão da execução do Acórdão nº 106.405/2011, até o julgamento do mérito da presente ação rescisória".
+(..)
+Portanto, o deferimento de liminar no bojo da ação rescisória tem idoneidade suficiente para suspender a execução do título rescindendo, bem como o respectivo prazo prescricional.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, acerca do comando judicial contido na decisão liminar proferida nos autos da ação rescisória, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
