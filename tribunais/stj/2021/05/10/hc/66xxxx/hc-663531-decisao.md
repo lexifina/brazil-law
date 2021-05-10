@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que indeferiu a liminar nowritde origem.
+Consta dos autos que o paciente foi condenado pela prática do crime de roubo majorado, às penas de 5 anos e 4 meses de reclusão, em regime fechado, e 13 dias-multa.
+No presente writ, o impetrante requer, liminarmente e no mérito, a alteração do regime prisional, considerando a falta de fundamentação ou mesmo o período de prisão cautelar a detrair.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal,não se admite a utilização dehabeas corpuscontra decisão que indeferiu a liminar emwritimpetrado no Tribunala quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fl. 11):
+1. Trata-se de Habeas Corpus impetrado pelo Advogado Wagner Linares júnior, com pedido de liminar, em prol de João Manoel de Sobral, contra ato do MM. Juiz de Direito da 1a Vara Criminal da Comarca de Santa Rita do Passa Quatro, sob a alegação de constrangimento ilegal. Diz que o paciente foi condenado às penas de 05 anos e 04 meses de reclusão, em regime inicial fechado, e de 13 dias-multa. Diz que o regime prisional fechado foi fixado, sem fundamentação idônea, em afronta ã Súmula 719 do Supremo Tribunal Federal. Aduz, ainda, que o paciente comprova o efetivo cumprimento de 02 anos, 01 mês e 20 dias do total da pena aplicada, fazendo jus ao regime aberto e ao benefício do livramento condicional. Por isso, requer a concessão da liminar para a imediata soltura do paciente.
+2. É sabido que, para o pronto exame da legitimidade das alegações contidas na impetração e o alcançamento da eficácia almejada, mister se faz a presença dos requisitos necessários à outorga da cautela - concessível somente em casos excepcionais os quais não se vislumbram nesta etapa cognitiva sumaríssima, não aflorando dos autos, de resto, ilegal idade manifesta. Indefiro , pois, a prestação jurisdicional buscada em caráter liminar.
+No caso, a pretensão de liminar é questão passível de indeferimento da medida de urgência emhabeas corpus, por demandar, inclusive, análise do próprio mérito da impetração na origem, haja vista a natureza satisfativa do pedido. Portanto, não se verifica, de plano, constrangimento ilegal.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
