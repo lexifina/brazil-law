@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, interposto por PAULO HENRIQUE DE MELO DELFINOcontra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática dodelito tipificado noart. 33 da Lei n. 11.343/2006.
+Nesta Corte, a defesa sustenta ausência de proporcionalidade na prisão cautelar.
+Destaca que a medida cautelar imposta se mostra mais gravosa do que eventual pena a ser aplicada, eis que mesmo em eventual condenação o recorrente jamais cumpriria pena me regime fechado ou semiaberto.
+Pleiteia a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O juiz sentenciante decretou a prisão preventiva nos seguintes termos:
+" ..  Contudo, em que pese os argumentos da defesa no sentido da ausência do "fumus comissi delicti", eis que a informação de que a substancia apreendida na cela seria do custodiado, tão somente por declaração dos agentes (termos de declaração de fls. 19/20 e 22/23), tem-se que os agentes são funcionários públicos cujos atos se caracterizam por serem atos administrativos que gozam de presunção relativa de veracidade e legitimidade.
+Nesse sentido, neste juízo sumário não há como afastar tal presunção.
+No que tange ao" periculum libertatis", verifico que se encontra presente, visto que o argumento da defesa no sentido da aplicação do artigo §4º do artigo 33 da Lei de Drogas se relaciona com a dosimetria da pena, igualmente, não sendo viável a sua analise nesta audiência de custódia.
+Por outro lado, o auto de apreensão de fls. 25/26 certifica a apreensão de quantidade significativa de droga (cocaína), conforme Laudos periciais de exame de entorpecente/psicotrópico de fls.12/13 e 15/17.
+Ante o exposto, DECRETO A PRISÃO PREVENTIVA DO CUSTODIADO, com fulcro nos artigos 312 c/c 313, I, ambos do CPP" (e-STJ, fl, 107, grifo nosso).
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendida relevante quantidade de entorpecente com o paciente - 190g de cocaína -, no interior de unidade prisional(e-STJ, fl. 116).
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ademais, o argumento de desproporcionalidade da custódia cautelar à provável futura pena do recorrente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
