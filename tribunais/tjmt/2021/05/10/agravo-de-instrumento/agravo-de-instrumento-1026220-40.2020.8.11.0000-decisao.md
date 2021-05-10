@@ -1,0 +1,25 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO AGRAVO DE INSTRUMENTO No 1026220-40.2020.8.11.0000
+RECORRENTE(S): LOUIS DREYFUS COMPANY BRASIL S.A.
+RECORRIDO(S): MATEUS EDUARDO GONCALVES VIANA E OUTROS
+Vistos.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por LOUIS DREYFUS COMPANY BRASIL S.A., com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça de Mato Grosso que, por unanimidade, deu parcial provimento ao recurso, nos termos da seguinte ementa (Id. 80103974):
+“AGRAVO DE INSTRUMENTO – RECUPERAÇÃO JUDICIAL – INDICAÇÃO INCORRETA DO NOME DO ADVOGADO DA AGRAVADA – DESCUMPRIMENTO DO ART. 1.016, IV, DO CPC, E INOVAÇÃO RECURSAL – PRELIMINARES REJEITADAS – DECISÃO DO STJ NA TUTELA PROVISÓRIA N. 2799 – RESTITUIÇÃO AOS RECUPERANDOS - PRODUTO ARRESTADO OU O MONTANTE EQUIVALENTE - OPÇÃO DA CREDORA PELO DEPÓSITO DO VALOR EM JUÍZO – CÁLCULO – OBSERVÂNCIA À COTAÇÃO NA DATA DO PAGAMENTO E NÃO NA DO ARRESTO – RECURSO PARCIALMENTE PROVIDO.
+Dentre os requisitos para interposição de Agravo de Instrumento está o dever de indicação do nome e endereço completo dos advogados que atuam no processo (art. 1.016, IV, do CPC). Contudo, o não cumprimento desse dispositivo consiste em vício formal, sem força para, por si só, levar ao não conhecimento do Recurso, ainda mais se a parte agravada ofereceu contraminuta e, portanto, não sofreu prejuízo algum.
+O argumento do agravante, quanto à aplicação do art. 629 do CC, apresentado apenas no segundo grau não implica no não conhecimento integral do Recurso sob o fundamento de inovação, especialmente quando a discussão principal é sobre a ordem emanada do STJ na TP n 2799.
+Se em Tutela Provisória o STJ deferiu pedido liminar para que a agravada disponibilizasse os bens arrestados ou restituísse aos recuperandos o valor correspondente, e ela optou por esta última alternativa, a cotação a ser considerada é a do dia do pagamento e não a do arresto.
+Não podem ser ignorados os depósitos dos valores já realizados em juízo consoante o preço dos produtos praticados no mercado naquelas datas. E a apuração de eventual saldo remanescente também deverá observar a cotação do dia do pagamento.”
+Nas razões do recurso especial (Id.), a recorrente sustenta violação aos artigos 302 e 1.016, IV, do ambos Código de Processo Civil, aos artigos 884, 1.424 e 1.439, §1o, todos do Código Civil, bem como ao artigo 9o, II, da Lei no 11.101/2005, ao argumento de que: a) na interposição do agravo de instrumento, os recorridos não indicaram corretamente o nome e endereço dos advogados da recorrente; b) o valor dos bens arrestados é obtido pela cotação de mercado de grãos à época dos sequestros e na data em que foi apresentado o seguro garantia judicial; c) a decisão representa enriquecimento sem causa; d) não haverá como proceder com a retificação do seu crédito com base nos novos valores que terão que ser desembolsados; e) já depositou nos autos da recuperação judicial a quantia adicional de R$ 13.852.631,42, que somada aos valores já depositados resulta em R$ 30.839.531,04, muito acima do preço pré-fixado nos contratos firmados entre as partes.
+Aduz a existência de dissídio jurisprudencial apto a possibilitar a admissão positiva do recurso.
+Expõe como requisito à concessão de efeito suspensivo que “todo o debate aqui travado funda-se em uma decisão liminar, proferida por esse E. STJ no âmbito de uma tutela provisória de natureza, obviamente, precária. Caso tal decisão se reverta no julgamento de mérito, pelo colegiado, o levantamento do valor pelos Recorridos será irreparável e incerto”.
+Recurso tempestivo e preparo recolhido, conforme certidões de Ids. 82292474 e 82491995.
+Na espécie, o direito comprometido foi amplamente enfrentado por órgão Colegiado deste Egrégio Tribunal de Justiça, situação jurídica que força reconhecer que em face da amplitude e da excepcionalidade do pedido de suspensão do v. acórdão, necessário se faz analisar a pretensão após as contrarrazões.
+Aliás, para a excepcional concessão do efeito suspensivo, em atenção ao que dispõe o artigo 995, parágrafo único, do Código de Processo Civil, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, não se vislumbrando prejuízo o aguardo do contraditório.
+Isto posto, intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal.
+Após, a apresentação das contrarrazões ou o decurso do prazo, tornem os autos conclusos para análise do pedido de efeito suspensivo e da pretensão de admissibilidade.
+Publique-se. Intime-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
