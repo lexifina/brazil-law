@@ -1,0 +1,18 @@
+DECISÃO
+NILSON SILVINO DE MENEZESalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulona Apelação n. 0095466-85.2011.8.26.0050.
+Neste habeas corpus, a defesa pretende reduzir a reprimenda. Para tanto, sustenta a ilegalidade na exasperação da pena-base, bem como na aplicação dafração de aumento relativo às majorantes do roubo e a possibilidade de reconhecimento de crime único.
+Não houve pedido liminar.
+Prestadas as informações, veio o parecer do Ministério Público Federal, que opinou pela concessão parcial da ordem(fls. 74-78).
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas nocaputdo art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+A pena-base do paciente foi exasperada pela análise negativa dos antecedentes e das consequências do crime. O Juiz de primeiro grau apontou a existência de "condenação anterior pela prática de estelionato", bem como salientou que as vítimas "vivenciaram a ação armada no interior de seu asilo" (fl. 23, grifei).
+No caso, as consequências do delito foram negativamente valoras, haja vista que o delito foi praticado no interior da residência das vítimas, o que, a meu ver, são fundamentos idôneos para negativar a referida vetorial.
+Sobre o tema, esta Corte Superior entende que "acircunstância de o delito ter ocorrido no interior da residência das vítimas imprime maior reprovabilidade à conduta e exige um maior rigor penal, ante a maior ousadia dos meliantes. Precedentes"(HC n. 400.119/RJ, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 1º/8/2017).
+Em relação ao bis in idem apontado pela defesa, verifico que o TJSP, em que pese haver confirmado osmaus antecedentes e a reincidência do réu, não abordou o tema pelo enfoque pretendido pela defesa, o que impede a análise da matéria, sob pena de indevida supressão de instância.
+Ainda que assim não fosse, consoante o parecer doMinistério Público Federal, "não há bis in idem no agravamento da pena do paciente em razão dos seus antecedentes tendo em vista que diferentes foram as condenações anteriores que ensejaram a exasperação da pena-base e a incidência da fração de 1/6, na segunda fase da dosimetria -estelionato, em trâmite na 29ª Vara Criminal, utilizada para desvalorar os antecedentes e roubo triplamente majorado, em trâmite na 30ª Vara Criminal para a reincidência" (fl. 76, destaquei).
+Assim, não verifico a ilegalidade apontada pela defesa, pois devidamente fundamentado o aumento da pena-base do paciente.
+Em relação às teses de ilegalidade na terceira fase da dosimetria e de reconhecimento de crime único, verifico a anterior impetração do HC n. 575.761/SP,cuja ordem foi denegada, em 22/6/2020, eque impedeo conhecimento deste ponto da impetração, por se tratar de mera reiteração de pedidos.
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
