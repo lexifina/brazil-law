@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por Anibal Braga Jorge Júnior e Maria de Lourdes Morandi Murad Braga, com fulcro na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins assim ementado (e-STJ, fl. 898):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO RURAL. IRREGULARIDADES NÃO DEMONSTRADAS. ÔNUS DA PARTE AUTORA. ADVERSIDADES CLIMÁTICAS. TEORIA DA IMPREVISIBILIDADE. NÃO INCIDÊNCIA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.-
+A PROVA PERICIAL PRODUZIDA BEM CONCLUIU QUE OS CÁLCULOS DO BASA ESTÃO DE ACORDO COM OS FIRMADOS EM CONTRATO, ALÉM DO QUE NÃO SE VERIFICA A PRODUÇÃO DE QUALQUER PROVA ACERCA DAS INTEMPÉRIES MENCIONADAS PELOS AUTORES, RESPONSÁVEIS PELO INADIMPLEMENTO, ÔNUS ESTE QUE LHES COMPETIA, POR SE TRATAR DE FATO CONSTITUTIVO DO DIREITO ALEGADO (CPC, ART. 373, I).
+- ADVERSIDADES CLIMÁTICAS NÃO PODEM SER CONSIDERADAS COMO FATOS EXTRAORDINÁRIOS OU IMPREVISÍVEIS A AMPARAR A REVISÃO CONTRATUAL, UMA VEZ QUE CONHECIDAS DE TODOS OS QUE ATUAM NA ÁREA DA PRODUÇÃO RURAL, INSERINDO-SE NA CADEIA NORMAL DE DESDOBRAMENTOS DA ATIVIDADE AGRÍCOLA, DE MODO QUE O RISCO DA PERDA DA SAFRA É INERENTE AO PRÓPRIO NEGÓCIO AGRÁRIO.- AUSÊNCIA DO ELEMENTO CARACTERIZADOR DE ONEROSIDADE EXCESSIVA A UMA DAS PARTES EM CONTRAPOSIÇÃO AO BENEFÍCIO EXAGERADO DO CONTRAENTE ADVERSO IMPEDE A APLICAÇÃO DA REGRA DO "REBUS SIC STANTIBUS".- RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos, foram rejeitados (e-STJ, fl. 944).
+Em suas razões, alegam os recorrentes violação aos arts. 489, IV, e 1.022 do CPC/2015.
+Sustentam, em síntese, negativa de prestação jurisdicional por ausência de manifestação do Tribunal de origem quanto às questões relevantes ao deslinde da causa, a saber:
+i) a conexão entre a presente causa e a execução n. 0025084-83.2017.827.0000;
+ii) o valor probante da Lei n. 13.340/2016;
+iii) o disposto no art. 12 da Lei n. 13.340/2016, que exclui a condenação ao pagamento de honorários advocatícios; e
+iv) o incidente de resolução de demandas repetitivas suscitado na ação conexa.
+Aduziram que a conexão deixou de ser "arguida em primeiro grau de jurisdição porque a execução sequer atingira a fase de intimação de penhora" e que, por se tratar de matéria de ordem pública, pode ser conhecida de ofício pelo julgador (e-STJ, fl. 963)
+Sucessivamente, pleitearam o afastamento da condenação ao pagamento de honorários advocatícios, com fulcro nos arts. 282, §§ 1º e 2º, 1.025 e 1.034 do CPC/2015.
+Contrarrazões apresentadas às fls. 1.023-1.025 (e-STJ).
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+Na hipótese dos autos, o Tribunal de origem, ao julgar os embargos de declaração opostos pelos recorrentes, manifestou-se apenas quanto ao incidente de resolução de demandas repetitivas, é o que se extrai do trecho do voto abaixo transcrito (e-STJ, fls. 936-937):
+Dessa forma, percebe-se que o acórdão não se encontra eivado de qualquer vício que possibilite a oposição dos embargos de declaração, qual seja, a contradição, omissão ou obscuridade.
+Este Tribunal, quando do julgamento do supracitado recurso de apelação cível deliberou no sentido de negar-lhe provimento, por unanimidadede votos, mantendo incólume a sentença vergastada, cujo acórdão restou assim ementado, verbis:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO REVISIONAL CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO RURAL. IRREGULARIDADES NÃO DEMONSTRADAS. ÔNUS DA PARTE AUTORA. ADVERSIDADES CLIMÁTICAS. TEORIA DA IMPREVISIBILIDADE. NÃO INCIDÊNCIA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+- A PROVA PERICIAL PRODUZIDA BEM CONCLUIU QUE OS CÁLCULOS DO BASA ESTÃO DE ACORDO COM OS FIRMADOS EM CONTRATO, ALÉM DO QUE NÃO SE VERIFICA A PRODUÇÃO DE QUALQUER PROVA ACERCA DAS INTEMPÉRIES MENCIONADAS PELOS AUTORES, RESPONSÁVEIS PELO INADIMPLEMENTO,ÔNUS ESTE QUE LHES COMPETIA, POR SE TRATAR DE FATO CONSTITUTIVO DO DIREITO ALEGADO (CPC, ART. 373, I).
+- ADVERSIDADES CLIMÁTICAS NÃO PODEM SER CONSIDERADAS COMO FATOS EXTRAORDINÁRIOS OU IMPREVISÍVEIS A AMPARAR A REVISÃO CONTRATUAL, UMA VEZ QUE CONHECIDAS DE TODOS OS QUE ATUAM NA ÁREA DA PRODUÇÃO RURAL, INSERINDO-SE NA CADEIA NORMAL DE DESDOBRAMENTOS DA ATIVIDADE AGRÍCOLA, DE MODO QUE O RISCO DA PERDA DA SAFRA É INERENTE AO PRÓPRIO NEGÓCIO AGRÁRIO.- AUSÊNCIA DO ELEMENTO CARACTERIZADOR DE ONEROSIDADE EXCESSIVA A UMA DAS PARTES EM CONTRAPOSIÇÃO AO BENEFÍCIO EXAGERADO DO CONTRAENTE ADVERSO IMPEDE A APLICAÇÃO DA REGRA DO "REBUS SIC STANTIBUS".
+- RECURSO CONHECIDO E IMPROVIDO."
+Vê-se que o objeto do recurso no tocante a análise da questão meritória restou claro no voto o posicionamento da Turma Julgadora, não se indicando a ocorrência de qualquer das situações previstas no art. 1.022 do Novo Código de Processo Civil.
+Verifica-se, portanto, que as alegações dos embargantes abrigam apenas irresignação contra a tese e os fundamentos constantes do voto e do acórdão aludido, ou seja, contra o mérito da decisão propriamente dito. Disso decorre o caráter infringente que pretendem atribuir ao presente recurso, buscando, por via oblíqua, o reexame da causa para alterar o julgado, cujo resultado lhe foi desfavorável, o que é de todo inviável no caso em espécie.
+( )
+Importante frisar que o julgador não está obrigado a abordar todos os fundamentos aduzidos pelas partes, notadamente quando sequer foram apreciadas pelo julgador de primeiro grau. O magistrado possui liberdade de formar sua convicção, baseando-se em fundamentos próprios, não se obrigando a ficar adstrito aos argumentos esposados por elas e tampouco a dizer do não acatamento deste ou daquele embasamento.
+(..)
+Frise-se que este Julgador, em decisão monocrática, negou seguimento ao IRDR nº 0003893-25.2020.827.2700, decisão esta que foi recentemente confirmada pelo Tribunal Pleno, em sede de recurso de Agravo Interno.
+Dentro desse contexto, evidencia-se que os argumentos expostos pelos embargante demonstram nítido interesse de reexame de questão enfrentada e superada no aresto, o que, vale repetir, não se adéqua ao rito dos embargos de declaração, sob pena de implicar em novo julgamento da causa.
+Desse modo, verifico que o Tribunal a quo incorreu em omissão quanto às seguintes questões: i) a apontada conexão entre a presente causa e a execução n. 0025084-83.2017.827.0000; ii) o valor probante da Lei n. 13.340/2016; e iii) o disposto no art. 12 da Lei n. 13.340/2016, que exclui a condenação ao pagamento de honorários advocatícios.
+Assim, tendo em vista que tal questão foi oportunamente suscitada pela parte recorrente e é essencial ao deslinde da controvérsia, o Tribunal local deveria ter examinado as alegações que lhe foram submetidas.
+A recusa resultou em indevida omissão sobre aos relevantes pontos, razão pela qual a rejeição dos embargos de declaração importou em inequívoca violação do art. 1.022 do CPC/2015. Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das questões fático-jurídicas suscitadas.
+Ilustrativamente:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à parte recorrente, no que tange à violação do art.
+1.022 do CPC/2015.
+2. Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as teses jurídicas de existência de coisa julgada garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+3. Porém, instada a se manifestar, verifica-se que não houve análise, pela Corte local, das questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria importante para o deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial provido para determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca das teses jurídicas de existência de coisa julgada, garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+(REsp 1891151/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2021, DJe 12/04/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE.CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. ESPECIFICIDADES. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alterar a conclusão do julgado.
+2. Constatada a existência de omissões não sanadas no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do artigo 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3 . Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp 1637994/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021)
+Diante do exposto, conheço do recurso especial para dar-lhe provimento, a fim de determinar o retorno dos autos ao Tribunal de origem para que profira novo julgamento dos embargos de declaração, suprindo as apontadas omissões, como entender de direito.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME PELO TRIBUNAL DE ORIGEM. DEVOLUÇÃO DOS AUTOS. 2. RECURSO ESPECIAL CONHECIDO E PROVIDO.
