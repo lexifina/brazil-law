@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EMANUEL RIBEIRO RODRIGUEScontra decisão de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, Relator do HC n. 030046-35.2021.8.19.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar do paciente pela suposta prática dodelitotipificadonoart. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, a impetrante alega, em suma, ilegalidade na prisão em flagrante porque teria decorrido de busca domiciliarsem autorização judicial ou justa causa.
+Requer, assim, a declaração de invalidade da decisão que decretou sua prisão cautelar.
+É o relatório.
+Decido.
+Nos termos da Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC 438.735/MA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/3/2018, DJe 27/3/2018; AgRg no HC 435.454/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/3/2018, DJe 12/4/2018).
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+" ..  Inicialmente, REJEITA-SE LIMINARMENTE, PORQUE MANIFESTAMENTE IMPROCEDENTE, a parcela da Impetraçãorespeitante à pretensão de declaração de ilicitude da prova colhida, emdecorrência da pretensa ocorrência de violação de domicilio, segundo parâmetros colhidos em paradigma edifícado pela Corte Cidadã, porque, para tanto, imprescindível se apresentaria compulsória imersão meritória, calcada em valoração confrontativa de aspectos probatórios que ainda deverão ser objeto de produção específica e o que se inadmite em sede de remédio heroico, a constituir tese monoliticamente rejeitada por este Colegiado, em pacificado posicionamento estabelecido a respeito."
+Da leitura atenta da decisão impugnada, observa-se que a tese de violação domiciliar não foi objeto de exame na decisão impugnado. Logo,é inviável o enfrentamento do tema diretamente por esta Corte, sob pena de indevida supressão de um grau de jurisdição(AgRg no HC 627.196/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/04/2021, DJe 30/04/2021;AgRg no HC 462.544/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do STJ.
+Publique-se. Intime-se.
