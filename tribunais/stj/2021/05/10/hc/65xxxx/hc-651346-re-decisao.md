@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto peloMINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 129).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984 COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI N. 13.964/2019. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS. APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Antes da vigência da Lei n. 13.964/2019, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. Com o advento do mencionado regramento, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo. Assim, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal.
+3. No caso, a situação do Apenado - condenado pela prática de crime hediondo/equiparado, mas com anterior condenação criminal definitiva por crime comum - não encontra previsão específica na nova lei, razão pela qual, diante da lacuna legislativa, deverá o julgador integrar o ordenamento, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, aplicando o percentual previsto para o Réu primário. Desse modo, o Reeducando alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, conforme o art. 112, inciso V, da Lei n. 7.210/1984.
+4. Agravo regimental desprovido.
+Sustenta o recorrente a existência de repercussão geral da matéria e aponta a violação do art. 5º, caput e inciso XLVI, da ConstituiçãoFederal.
+Alega que a Lei n. 13.964/2019, que instituiu o chamado "Pacote Anticrime" e alterou o art. 112 da Lei de Execução Penal, teria orientado no sentido de disposições mais rígidas para a progressão de regime ao condenado reincidente em comparação com aquelas destinadas ao apenado primário.
+Argumenta que, "a despeito de alguma falta de apuro de técnica legislativa, extrai-se do processo legislativo, da circunstância de ser a reincidência condição pessoal e dos princípios da isonomia e da individualização da pena, a compreensão de que a reincidência, pouco importando seja ela específica em crime hediondo ou em crime comum, implica resposta penal mais severa" (e-STJ fl. 151).
+Pondera que seria inadmissível permitir os mesmos percentuais de redução para a concessão da progressão de regime aos condenados primários e aos reincidentes.
+Requer a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às e-STJ fls. 169/177.
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia está direcionadaà questão da alteração dos patamares de progressão de regime de cumprimento da pena pela Lei n. 13.964/2019, e oarestorecorrido está assim fundamentado (e-STJ fls. 133/137):
+"Em que pese os argumentos suscitados no agravo regimental, entendo que a decisão impugnada não merece reparos.
+Com efeito, o sistema progressivo de regime prisional passou a ter critérios diferenciados com o advento da Lei n. 13.964/2019, sobretudo no que concerne ao requisito objetivo. Antes da vigência do mencionado regramento, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos/equiparados, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º,estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+Contudo, com a entrada em vigor da Lei n. 13.964/2019, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal, cujo teor é o seguinte:
+ ..
+No caso, a situação do Apenado - condenado pela prática de crime hediondo/equiparado, mas com anterior condenação criminal definitiva por crime comum (dois roubos majorados perpetrados antes da alteração da legislação dos crimes hediondos feita pela Lei n. 13.964/2019) - não encontra previsão específica na nova lei, razão pela qual, diante da lacuna legislativa, deverá o julgador integrar o ordenamento, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, aplicando o percentual previsto para o Réu primário.
+Assim, ao contrário do que entenderam as instâncias ordinárias, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Paciente, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não é o caso.
+Com efeito, na hipótese em exame, o Paciente alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, segundo o disposto no art. 112, inciso V, da Lei n. 7.210/1984. Esse entendimento já foi pacificado em ambas as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, confiram-se:
+ ..
+Desse modo, como o Agravante não acrescentou qualquer argumento capaz deinfirmar as razões consideradas no decisum impugnado quanto à questão suscitada, a decisão recorrida deve ser mantida pelos seus próprios fundamentos.
+Ressalte-se, por fim que é desnecessária a incursão no debate de dispositivos constitucionais, pois a controvérsia presente nos autos limita-se à adequada interpretação dos dispositivos infraconstitucionais aplicáveis à espécie.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental."
+Desse modo, constata-se que a análise da matéria ventilada depende do exame doart. 112 da Lei de ExecuçõesPenaise da Lei n. 13.964/2019, razão pela qualeventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Em caso semelhante, assim tem decidido o Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROGRESSÃO DE
+REGIME. REQUISITOS. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA TAXATIVIDADE. SÚMULA 282. OFENSA REFLEXA. DESPROVIMENTO.
+1. É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão constitucional suscitada. Súmula 282/STF.
+2. A matéria pertinente aos requisitos da progressão de regime pressupõem a incursão na legislação ordinária de regência, preconizada no art. 112 da Lei de Execução Penal e no art. 33, § 4º, do Código Penal, o que, por configurar suposta ofensa indireta à Constituição Federal, refoge à destinação constitucional do recurso extraordinário.
+3. Agravo regimental desprovido.
+(ARE 1271576 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 16/11/2020, PROCESSO ELETRÔNICO DJe-277 DIVULG 20-11-2020 PUBLIC 23-11-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ALTERAÇÃO DOS PATAMARES PREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL.LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
