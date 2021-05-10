@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. RECONHECIMENTO. MATÉRIA PACÍFICA. PRETENSÃO RECURSAL DEPENDENTE DO REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Na vigência da redação original do inciso I do art. 174 do CTN, somente a citação válida fazia retroagir o efeito interruptivo provocado pelo ajuizamento da execução fiscal. Mas, com a alteração dessa regra pela Lei Complementar n. 118/2005, é o despacho do juiz, determinando a citação, o fato interruptivo do prazo prescricional, ainda que ação executiva tenha sido ajuizada em momento anterior. Precedentes.
+2. Conforme tese firmada pela Primeira Seção no REsp 1.111.124/PR e nos termos do enunciado da Súmula 106 do STJ, proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência.
+3. No caso dos autos, o recurso não pode ser conhecido, à luz das Súmulas 7 e 83 do STJ, pois, além não estar sendo contrariada a orientação jurisprudencial deste Tribunal Superior, não há como superar a conclusão do acórdão recorrido sem reexame fático-probatório.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ESTADO DE SÃO PAULO contra decisão que não conheceu de recurso especial em que discute o reconhecimento da prescrição da pretensão executória em razão de a citação não ter sido realizada no prazo de 5 anos da data de ajuizamento do feito.
+A parte agravante sustenta, em síntese (fls. 391/394):
+Não houve inércia no ínterim compreendido entre a determinação de citação por via postal e a citação por edital. Pelo contrário, o Tribunal "a quo" registra expressamente que foram realizadas "diversas diligências para a localização dos sócios".
+Se a demora da citação não decorreu de inércia imputável à parte exequente, a única conclusão possível é a aplicação da mencionada Súmula 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da argüição de prescrição ou decadência.".
+Nesse sentido, não seria o caso de não conhecimento do recurso especial, mas do seu provimento com fundamento na orientação jurisprudencial destacada na própria decisão embargada, ora agravada
+Sem impugnação pela parte agravada (fl. 400).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. RECONHECIMENTO. MATÉRIA PACÍFICA. PRETENSÃO RECURSAL DEPENDENTE DO REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Na vigência da redação original do inciso I do art. 174 do CTN, somente a citação válida fazia retroagir o efeito interruptivo provocado pelo ajuizamento da execução fiscal. Mas, com a alteração dessa regra pela Lei Complementar n. 118/2005, é o despacho do juiz, determinando a citação, o fato interruptivo do prazo prescricional, ainda que ação executiva tenha sido ajuizada em momento anterior. Precedentes.
+2. Conforme tese firmada pela Primeira Seção no REsp 1.111.124/PR e nos termos do enunciado da Súmula 106 do STJ, proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência.
+3. No caso dos autos, o recurso não pode ser conhecido, à luz das Súmulas 7 e 83 do STJ, pois, além não estar sendo contrariada a orientação jurisprudencial deste Tribunal Superior, não há como superar a conclusão do acórdão recorrido sem reexame fático-probatório.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a conclusão da decisão agravada deve ser mantida.
+Como consta da decisão agravada, na vigência da redação original do inciso I do art. 174 do CTN, somente a citação válida fazia retroagir o efeito interruptivo provocado pelo ajuizamento da execução fiscal (v.g.: REsp 1.120.295/SP, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 21/05/2010). Mas, com a alteração dessa regra pela Lei Complementar n. 118/2005, é o despacho do juiz, determinando a citação, o fato interruptivo do prazo prescricional, ainda que ação executiva tenha sido ajuizada em momento anterior (v.g.: (REsp 999.901/RS, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10/06/2009).
+Todavia, "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário" (REsp 1.102.431/RJ, repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 01/02/2010).
+A propósito, há pacífica jurisprudência, sedimentada na Súmula 106 do STJ, segundo o qual, proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência. Entendimento esse reafirmado por ocasião do julgamento do REsp 1.111.124/PR, repetitivo, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009).
+No caso dos autos, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido:
+O débito fora inscrito em dívida ativa em 03/03/2005 e a execução proposta em 30/03/2005 (f. 27/29). A citação via postal foi determinada em 05/05/2005, com a expedição da respectiva carta em 27/06/2005 (f. 32), que foi juntada aos autos, sem cumprimento, 15/07/2005 (f. 34/36), por não serem localizados os representantes da executada. Após diversas diligências para a localização dos sócios, foi o agravante citado por edital apenas em 27/03/2015 (f. 195), de forma que deve se considerar se houve ou não interrupção do prazo prescricional no curso do processo. Passados mais de cinco anos entre a data de constituição dos débitos (20.03.2004) e a da citação pessoal do devedor (que até hoje não ocorreu), e sujeita a presente relação processual às disposições do artigo174, parágrafo único, I, do Código Tributário Nacional, na redação anterior à LC nº 118/2005, forçoso o reconhecimento da prescrição.
+Pois bem.
+Como se observa, o recurso não pode ser conhecido, nos termos enunciados pelas Súmulas 7 e 83 do STJ, pois, além não estar sendo contrariada a orientação jurisprudencial deste Tribunal Superior, não há como superar a conclusão do acórdão recorrido sem reexame fático-probatório.
+Ante o exposto, nego provimento agravo interno.
+É como voto.
