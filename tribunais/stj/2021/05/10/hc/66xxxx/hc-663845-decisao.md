@@ -1,0 +1,46 @@
+DECISÃO
+DINA ADELMA BATISTA LEITE, presa provisoriamente desde 2/3/2021, por suspeita de tráfico de drogas, em contexto de apreensão de 60,2g de cocaína, 23,4g de crack e 109,3g de maconha,alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal a quo.
+O impetrante assinala que o inquérito policial está "sem qualquer movimentação concreta desde a publicação da decisão que decretou a prisão preventiva" e não há "notícia de ação penal" em desfavor da indiciada (fl. 6).
+Explica que a investigada é responsável "plenamente pela guarda" de seus netos, nascidos em 2009 e 2019. Ademais, tem 48 anos e "apresenta tormentosa alergia e infecções pretéritas nos pulmões", sendo "necessário o uso contínuo de medicamentos" (fl. 7).
+Para a defesa, não há fundamentação concreta do periculum libertatis. Ademais,a "quantidade não expressiva de entorpecentes" evidencia a suficiência de medidas cautelares do art. 319 do CPP ao caso concreto (fl. 7), principalmente quando considerado que a paciente é primária, possui domicílio do distrito da culpa, apresenta problemas de saúde e detém a guarda de netos menores.
+O advogado suscita a ilicitude das provas colhidas, pois o ingresso de agentes policiais em residência"somente se funda na fala de suposto usuário de entorpecentes" (fl. 9) o que, a seu ver, não autorizava a suspeita de crime permanente no local.
+Requer a expedição de alvará de soltura e a decretação de nulidade das provas.
+Deferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem, a fim de que seja revogada a prisão preventiva.
+Decido.
+De acordo com o aresto recorrido, a "paciente foi presa em flagrante no dia 02 de março de 2021, em razão da suposta prática do crime tipificado no artigo 33 da Lei nº 11.343/06 - tráfico ilícito de entorpecentes. No momento da prisão, foram encontrados na residência da acusada 23,5 gramas de crack, 60 gramas de cocaína, 108 gramas de maconha e R$ 3.047,00 (três mil e quarenta e sete reais) em espécie, além de balança de precisão, celulares e embalagens para revenda dos entorpecentes" (fl. 30).
+Em 8/3/20201, ao decretar a prisão preventiva da suspeita- Inquérito Policial nº 0000913-32.2021.8.27.2713, evento 21 - o Juiz assinalou:
+Como se observa do auto de prisão em flagrante, a equipe policial chegou até a residência da investigada por meio de informação de usuário de drogas de que o local era uma "boca de fumo". A entrada na casa para interromper flagrante delito não demanda ordem judicial, e pode ser feita durante o dia ou à noite. Trata-se de causa especial de exclusão da ilicitude com relação aos delitos de violação de domicílio e abuso de autoridade, por imposição da própria Constituição Federal (artigo 5º, XI da CF)
+ ..
+ ..
+o auto de prisão em flagrante veio instruído com depoimentos de testemunhas, havendo fortes indícios de autoria, no sentido de que a investigada tenha praticado o delito de tráfico de entorpecentes. Ademais a quantidade de droga apreendida em poder da investigada, aliada aos materiais usados para a precisão e embalagem de entorpecentes e valores apreendidos indicam possível situação de tráfico de entorpecentes.
+Senão vejamos:
+- 23,5 gramas de crack;
+- 60 gramas de cocaína;
+- 108 gramas de maconha;
+- 2 balanças de precisão;
+- saquinhos plásticos;
+- R$ 3.047,50 reais;
+- máquina de cartão de crédito.
+Presente, portanto, o fumus comissi delicti.
+Da mesma forma, também se faz presente o periculum in libertatis como forma de garantia da ordem pública haja vista que o status libertatis da investigada poderá oferecer risco à paz social, tendo em vista que o tráfico de drogas é crime que fomenta a pratica de inúmeros outros delitos, tais como crimes contra o patrimônio, contra a vida, associação criminosa e etc. Verifica-se a necessidade de assegurar-se a conveniência da instrução criminal e a aplicação da lei penal, em razão da gravidade do delito, o clamor social e o risco de nova prática delitiva.
+Ademais, em que pese a gravidade do crime não ser base, por si só, para a custódia cautelar, no presente caso ela vem acompanhada de outros elementos autorizadores, tais como citados acima.
+Isto posto, forçoso reconhecer que a medida extrema relacionada a prisão cautelar da flagrada é necessária para o deslinde das investigações, a garantia da ordem pública, conveniência da instrução criminal e fins assegurar a aplicação da lei penal. Com relação à necessidade da decretação da prisão preventiva para a garantia da ordem pública e fins assegurar conveniência da instrução criminal e ainda a aplicação da lei penal, assim tem decidido o Tribunal de Justiça do Tocantins:
+ ..
+Ressalte-se, por fim, que não cabe a aplicação das medidas cautelares diversas da prisão especificadas no art. 319, do CPP, tendo em vista que nenhuma delas mostra-se adequada à gravidade dos crimes, portanto, não se encontram preenchidas as condições do art. 282, do mesmo Código.
+Quando aos problemas de saúde alegados pela defesa da investigada cumpre anotar que o tratamento indicado na peça defensiva é medicamentoso, o qual pode, muito bem, ser ministrado de dentro do estabelecimento prisional, não sendo a enfermidade, tal como apresentada, empecilho para a manutenção da prisão.
+Logo, presentes os requisitos especificados no artigo 312, do Código de Processo Penal, e demonstrada a circunstância do art. 313, inciso I, do mesmo diploma legal, bem como a inadequação das medidas cautelares diversas da prisão, a decretação da prisão preventiva do representado é medida que se impõe, fins garantia da ordem pública, conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+Face ao exposto, considerando a presença dos requisitos legais, reconheço ser caso de decretação de prisão preventiva e, em atenção ao disposto no Código de Processo Penal, forte na manifestação do Ministério Público, converto a prisão em flagrante em PRISÃO PREVENTIVA  ..
+Para o Tribunal, "a decisão proferida pelo Juízo da 2ª Vara Criminal da Comarca deAraguaína/TO está devidamente fundamentada"; "O crime de tráfico de entorpecentes é a mola propulsora dos demais delitos, e vem crescendo assustadoramente nos últimos tempos, exigindo do Poder Judiciário uma posição mais enérgica em relação ao impedimento da perpetuidade deste delito, que desgraça milhares de famílias, pois estimula o vício e degrada os usuários de forma cada vez mais brutal" (fl. 34).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juiz natural da causaindicou argumentosgenéricos para justificar o periculum libertatis. Não destacou agravidade concreta do crime, em razão de seu modus operandi, ou outro comportamento da suspeita (maus antecedentes, reincidência, ações penais em curso etc.) que sinalizem suapericulosidade e, portanto, o risco de reiteração delitiva. A gravidade abstrata do crime de tráfico de drogasnão têm o condão de, isoladamente,justificar a prisão preventiva.
+Com efeito:
+ ..
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Embora relevante a quantidade apreendida de entorpecentes, isto não é utilizado como fundamento para a prisão, que se vê indevidamente justificada em genérica apreciação da gravidade abstrata do crime, não atendendo à exigência constitucional de motivação das decisões judiciais, prevista no art. 93, IX, da Constituição Federal.
+3. Recurso provido para revogar a prisão preventiva  ..
+(RHC 139.744/PA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021).
+Deve ser observada a previsão do art. 315, § 2º, do CPP, de que "não se considera fundamentada qualquer decisão" que "invocar motivos que se prestariam a justificar qualquer outra decisão", como in casu.
+Não existe inquérito finalizado, apesar da disposição do art. 10 do CPP, masinfere-se dos autos, a princípio, que usuário de drogas teria indicado a residência da suspeita como ponto de venda de substância ilícita. Assim, não há prova inequívoca dainvasão domiciliar sem fundadas razões que amparassem a crença de que o tráfico de drogas estava ocorrente no local. A tese de nulidade demanda incursão probatória, inviável na via estreita do habeas corpus.
+Ficam prejudicadas as demais teses defensivas.
+À vista do exposto, concedo o habeas corpus para, ratificada a liminar, revogar a prisão preventiva da paciente,sem prejuízo de que, instaurada a ação penal,seja decretada nova custódia, com base em fundamentação concreta e atual, ou de que sejam impostas algumas das medidas cautelares constantes do art. 319 do Código de Processo Penal, caso demonstrada a sua necessidade.
+Publique-se e intimem-se.
