@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fls. 56-57):
+EMENTA Recurso em sentido estrito. Imputação do delito previsto no artigo 16, parágrafo único, inciso IV, da Lei n.º 10.826/03, com incidência da circunstância agravante prevista no artigo 61, inciso II, alínea "j", do Código Penal. Revogação da prisão preventiva. Inconformismo do Ministério público. Pedido de restabelecimento da prisão cautelar. Pretensão plausível. Presentes a prova da existência do delito e indícios suficientes de autoria. Necessidade da custódia cautelar demonstrada. Risco efetivo à ordem pública. Recorrido condenado no Juízo da 2ª Vara Criminal Regional de Madureira, em 14/02/2020, nos autos do processo n.º 0168160-87.2017.8.19.0001, por crime da mesma espécie, o que revela a sua inclinação à reiteração criminosa. Gravidade concreta da conduta. Recorrido que trazia consigo arma de fogo com numeração suprimida e 40 (quarenta) munições. Argumentação defensiva de que a arma de fogo é necessária para a segurança do negócio do acusado, tido como microempresário do ramo de bebidas, que somente reforça a convicção acerca da necessidade da medida, já que deixa a entrever que se trata de conduta permanente. Prisão cautelar que não ofende o princípio da presunção de inocência. Verbete n.º 09 das Súmulas do STJ. Recurso ao qual se dá provimento, determinando-se a imediata expedição de mandado de prisão.
+Consta dos autos que, após interposição de recurso em sentido estrito, a Corte estadual restabeleceu a prisão preventiva do paciente, por infração ao art. 16, parágrafo único, IV da Lei 10.826/03.
+Daí o presente writ, em que a defesa alega, em síntese, ausência do periculum libertatis, condições pessoais favoráveis e enquadramento em grupo de risco de contágio da Covid-19.
+Busca a revogação da custódia e fixação de cautelares diversas, inclusive liminarmente.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que a ordem é mera reiteração do habeas corpus 639.797/RJ, que transitou em julgado em 18/2/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
