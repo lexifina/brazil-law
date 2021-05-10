@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus coletivo, com pedido liminar, apontando como autoridade coatora a 4ª e 6ª Câmaras de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (Agravos em Execução 0010459-15.2020.8.26.0502; 0005738- 60.2020.8.26.0521; 0006270-34.2020.8.26.0521; 0005420-77.2020.8.26.0521 e 0003479- 92.2020.8.26.0521), em acórdãos assim ementados:
+PacienteJOÃO PAULO LEOPOLDINO (fl. 27):
+AGRAVO EM EXECUÇÃO - INDEFERIMENTO DE RETIFICAÇÃO DO CÁLCULO DE PENAS - PRETENDE INTERPRETAÇÃO FAVORÁVEL - IMPOSSIBILIDADE - A NOVA REDAÇÃO DO ARTIGO 112, INCISO VII, DA LEI DE EXECUÇÃO PENAL, ALTERADA PELA LEI Nº 13.964/2019, NÃO MENCIONA "REINCIDÊNCIA ESPECÍFICA", BASTA A REINCIDÊNCIA - DECISÃO ESCORREITA, ESCORADA EM PRECEDENTES DESTA CORTE E DO SUPERIOR TRIBUNAL DE JUSTIÇA, COLENDA 5ª TURMA - AGRAVO DESPROVIDO.
+Paciente: JOSEILTON GOMES DA SILVA (fl. 67):
+AGRAVO EM EXECUÇÃO Cálculo de penas Sentenciado reincidente que cometeu apenas um delito hediondo ou equiparado Aplicação do art. 112, inciso VII, da Lei de Execução Penal, com a redação dada pela Lei nº 13.964/2019 Dispositivo que não faz distinção entre reincidência comum ou específica Inciso V do mesmo artigo que exige a primariedade Lógica adequada à orientação jurisprudencial e ao contexto da criação do Pacote Anticrime Precedentes Recurso desprovido.
+Paciente:LEONARDO LUCAS CABRAL (fl. 117):
+AGRAVO EM EXECUÇÃO PENAL CÁLCULO Pleito de retificação, alegando-se "novatio legis in mellius" com o advento da Lei nº 13.964/19, que teria alterado a redação do art. 112 da LEP no que toca à fração estabelecida para fins de progressão de regime em caso de reincidência na prática de crime hediondo Impertinência Ausência de distinção entre recidiva comum ou específica no texto legal "Ratio legis" do Pacote Anticrime que não pode ser olvidada Primariedade expressamente exigida para a aplicação do coeficiente de 40% aos condenados por crimes hediondos Recurso desprovido.
+Paciente:LUIS ALBERTO ALVES CAMARGO (fl. 158):
+AGRAVO EM EXECUÇÃO. Recurso defensivo. Pretendida retificação do cálculo de pena para constar 40% (2/5) como lapso temporal para progressão de regime. Impossibilidade.Agravante reincidente. Inteligência da LEP, art. 127, VII.Inexigibilidade de reincidência específica.IMPROVIMENTO.
+Paciente:RENATO FERREIRA LOPES (fl. 197):
+AGRAVO DE EXECUÇÃO PENAL Progressão de regime Réu reincidente Lapso temporal de 3/5 ou 60% - Aplicação Hipótese Artigo 112, inciso VII, da LEP Redação dada pela Lei º 13.964/2019 (pacote anticrime) que não faz distinção entre reincidência comum ou específica. AGRAVO DESPROVIDO.
+Neste writ, alega a impetrante que A presente ordem de habeas corpus se apresenta a partir de pedido que contempla hipótese de litisconsórcio de pacientes, tendo em vista configuração de direitos individuais homogêneos dos sentenciados acima mencionados, ou seja, mesma causa de pedir (aplicação de novatio legis in mellius da Lei nº 13.964/2020 no tocante à fração de progressão de regime aos reincidentes não específicos como hediondos), mesmo pedido (retificação de cálculos), de modo que entende ser cabível também o julgamento deste writ (fl. 4).
+Sustenta ser perfeitamente cabível a utilização de habeas corpus coletivo in casu.
+Aduz que os pacientes foram condenados por crime comum e hediondo, o que os desnuda da condição de reincidentes específicos em crime hediondos (fl. 17).
+Requer, liminarmente e no mérito, a reforma das decisões impugnadas, para aplicar a lei penal mais benéfica, retificando-se o cálculo de penas para constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional, nos termos da nova redação do artigo 112, inciso V, da Lei de Execução Penal (fl. 24).
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+Consta dos autos que os pacientes se insurgiram, perante a Cortea quo, contra decisões proferidas pelos respectivosjuízos da execução, as quais entenderam que, na homologação do cálculo da pena, deve prevalecer opercentual de 60% para fins de progressão de regime, nos termos da Lei 13.964/19. Os agravos em execução, no entanto, foram improvidos.
+Daí o presente habeas corpus coletivo, no qual, segundo já adiantado, sustentam a existência de direito individual homogêneo de ver aplicado o percentual de 40% para fins de progressão de regime, nos termos do art. 112, inciso V, da Lei de Execução Penal, uma vez que não são reincidentes em crime hediondo.
+De início, ressalto que"Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo)" (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Tal entendimento era fundamentado na Lei de Crimes Hediondos, em especial no revogado § 2º do art. 2º da Lei n. 8.072/1990: "A progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei nº 7.210, de 11 de julho de 1984 "(Lei de Execução Penal).
+Ocorre que, com o advento da Lei n. 13.964/2019 (Pacote Anticrime), os requisitos objetivos para a progressão de regime foram levemente alterados, conforme a nova redação do art. 112 da Lei de Execução Penal, no que interessa:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (Redação dada pela Lei nº 13.964, de 2019)
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; (Incluído pela Lei nº 13.964, de 2019)
+VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; (Incluído pela Lei nº 13.964, de 2019)
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou (Incluído pela Lei nº 13.964, de 2019)
+c) condenado pela prática do crime de constituição de milícia privada; (Incluído pela Lei nº 13.964, de 2019)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado; (Incluído pela Lei nº 13.964, de 2019)
+Constata-se, assim, que o § 2º do art. 2º da Lei n. 8.072/1990 não diferenciava a reincidência específica da genérica para o cumprimento de 3/5 da pena para fins de progressão de regime, ao contrário da nova redação do inciso VII do art. 112 da LEP.
+Nessa linha de entendimento, a situação prevista no inciso VII do art. 112 da LEP refere-se aos casos de reincidência de crimes hediondos em geral, deixando o Pacote Anticrime de tratar sobre a situação característica dos pacientes,condenados por crime comum e por crime hediondo, não sendo, portanto, reincidentes específicos em crime hediondos.
+Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial aos pacientes o percentual de 60% que trata sobre a reincidência em crime hediondo ou equiparado.
+Ao contrário, merece na hipótese o uso da analogia in bonam partem para fixar o percentual de 40% previsto no inciso V do art. 112, relativo ao primário e ao condenado por crime hediondo ou equiparado.
+Há, portanto, constrangimento ilegal passível do deferimento do pedido.
+Ante o exposto, concedo o habeas corpus coletivoparadeterminar que oJuízo da Execução retifique o cálculo da pena dos pacientes, aplicando-se opercentual de 40% para progressão de regime, para todos os pacientes que não são reincidentes específicos em crime hediondo, e, salvo se cometida faltagrave.
+Comunique-se.
+Publique-se.
+Intimem-se.
