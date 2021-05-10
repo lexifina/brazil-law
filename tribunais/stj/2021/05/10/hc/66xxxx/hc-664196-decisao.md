@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de FERNANDO SERGIO CORNACHINI (ou FERNANDO SERGIO CORNACHIN) contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução n.0014257-81.2020.8.26.0502.
+Narra a Impetranteque "no dia 25.02.2020, durante o procedimento de rotina de retirada do lixo, o servidor Rômulo foi agredido pelos sentenciados Maicon, Samuel e Ivair com colheres afiadas e, durante o entrevero, outros agentes de segurança chegaram em apoio para evitar que os demais apenados deixassem a cela" (fl. 144).
+Concluído oprocedimento disciplinar instaurado para apurar os fatos, o Juízo da Vara das Execuções Criminais, reconhecendo a prática de falta disciplinar de natureza grave, determinou a regressão do Paciente ao regime fechado, a perda de 1/6 (um sexto) dos dias remidos anteriores à falta praticada, bem como o reinício do prazo para fins de progressão de regime (fls.117-118).
+Inconformado, o Apenadointerpôsagravo em execução perante o Tribunal de origem, que negouprovimento ao recurso. O acórdão foi assim ementado(fl. 142):
+"AGRAVO EM EXECUÇÃO PENAL - FALTA GRAVE - Nulidade por falta de fundamentação da decisão -Decisão de primeiro grau suficientemente fundamentada - Pleito de absolvição ou desclassificação - Descabimento - Fatos devidamente comprovados e que constituem subversão da ordem e da disciplina - Perda de parcela dos dias remidos bem fundamentada - Decisão incensurável -Recurso desprovido."
+Nestewrit, a Impetrante alega que " t odos os presos da cela, sobretudo o paciente, foram penalizados dos forma coletiva" e que " e m nenhum momento sua suposta conduta foi individualizada"(fl. 7).
+Sustenta que "os éditos condenatórios não valoraram em que medida o paciente contribuiu para a conduta de terceiros"(fl. 7).
+Afirma que " é necessário que o julgador demonstre os motivos de fato e de direito que o levaram a homologar a aplicação da falta grave, o que, com todo o respeito, não se verifica no presente caso" (fl. 10).
+Requer, em liminar e no mérito, "a concessão da ordem definitiva de habeas corpus, para que seja determinada a absolvição do paciente em relação a conduta a ele atribuída por faltosa" (fl. 14).
+É o relatório.Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020, sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Tribunal estadual manteve o reconhecimento da falta grave nos seguintes termos (fls. 143-146, sem grifos no original):
+"Em primeiro lugar, diferente do que sustenta a combativa Defensoria Pública, a decisão ora combatida, embora de forma sucinta, foi suficientemente fundamentada, podendo ser extraídos de seu bojo os elementos dos autos que levaram à formação da convicção do magistrado; não há que se confundir, com efeito, concisão ou poder de síntese com ausência de fundamentação.
+ ..
+Segundo a comunicação de evento, no dia 25.02.2020, durante o procedimento de rotina de retirada do lixo, o servidor Rômulo foi agredido pelos sentenciados Maicon, Samuel e Ivair com colheres afiadas e, durante o entrevero, outros agentes de segurança chegaram em apoio para evitar que os demais apenados deixassem a cela (fls. 13/14).
+Em suas declarações, o recorrente negou qualquer envolvimento nos fatos. Disse que estava dormindo e acordou com um grande tumulto. Apenas soube que alguns sentenciados agrediram um servidor durante a recolha do lixo (fls. 64).
+Lado outro, o agente/vítima Rômulo confirmou as agressões sofridas, bem assim que todos os integrantes daquele habitáculo, dentre os quais o ora agravante, tentaram se evadir da cela, aproveitando-se do tumulto gerado, mas acabaram impedidos (fls. 106/107).
+No mesmo sentido o depoimento do também servidor Harmistron (fls. 108).
+E, aqui, impende destacar que não há nada nos autos que aponte a intenção de os referidos servidores prejudicarem o agravante.
+Ao revés, por serem agentes públicos cujas funções se ligam umbilicalmente à segurança pública, ao seu depoimento deve ser conferido relevante valorprobatório.
+ ..
+O reconhecimento da falta, portanto, era mesmo medida de rigor, uma vez que identificado o réu e individualizada, sim, sua conduta.
+Além disso, evidente que tal conduta supera, em muito, a mera atuação inconveniente, constituindo inarredável subversão da ordem e disciplina, arredando qualquer possibilidade de absolvição ou desclassificação."
+Cumpre registrar queo "habeas corpusnão é meio adequadopara afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta graveimputada ao ora agravante e, consequentemente,desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas"(AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020;sem grifos no original).
+Outrossim, não houve, no caso, sanção coletiva. Com efeito, o Juízo de primeiro grau- referendado pelo Tribunal de origem -individualizou a conduta, pois afirmou que o Paciente"em conjunto com outros reeducandos, agrediram fisicamente o agente penitenciário Rômulo Whatillas Ribeiro de Oliveira, causando tumulto e subversão à ordem no interior da unidade prisional" (fl. 117).
+Ademais, "não se pode confundir "sanção coletiva" com "autoria coletiva".A primeira de fato é vedada pelo ordenamento jurídico. A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos(AgRg no HC 444.930/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/6/2018)"(AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020;sem grifos no original).
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ATIPICIDADE MATERIAL DA CONDUTA. VIA INADEQUADA. INEXISTÊNCIA DE SANÇÃO COLETIVA. CONDUTA INDIVIDUALIZADA. FUNDAMENTAÇÃO CONCRETA. ORDEM DENEGADA.
