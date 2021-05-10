@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. Esta Corte possui o entendimento de que a exceção de pré-executividade é decorrência de construção da doutrina e da jurisprudência, uma vez que não há dispositivo legal prevendo tal modalidade de defesa, que tem, entretanto, como pressuposto de admissibilidade "prova inequívoca dos fatos alegados", não admitindo qualquer dilação probatória. Tal entendimento foi, inclusive, pacificada, no enunciado de Súmula 393/STJ, in verbis: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. Na hipótese, a revisão da conclusão a que chegou o Tribunal de origem - de não se tratar de situação excepcional a permitir o acolhimento da exceção de pré- executividade e da necessidade de instrução probatória - demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto em face de decisão assim ementada (e-STJ fl. 381):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a agravante repete sua argumentação no sentido da possibilidade de se alegar em exceção de pré-executividade a exclusão do ICMS da base de calculo do PIS e COFINS conforme decidido no RE nº 574.706.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. Esta Corte possui o entendimento de que a exceção de pré-executividade é decorrência de construção da doutrina e da jurisprudência, uma vez que não há dispositivo legal prevendo tal modalidade de defesa, que tem, entretanto, como pressuposto de admissibilidade "prova inequívoca dos fatos alegados", não admitindo qualquer dilação probatória. Tal entendimento foi, inclusive, pacificada, no enunciado de Súmula 393/STJ, in verbis: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. Na hipótese, a revisão da conclusão a que chegou o Tribunal de origem - de não se tratar de situação excepcional a permitir o acolhimento da exceção de pré- executividade e da necessidade de instrução probatória - demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De inicio, o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se manifestou a respeito dos artigos 489, 1º e 927, III, do CPC/2015, o que denota a falta de pronunciamento ou prequestionamento sobre as controvérsias suscitadas.
+Observa-se que tampouco os embargos de declaração opostos na origem tiveram o propósito de prequestionar tais dispositivos legais.
+Desse modo, é o caso de não conhecimento do recurso especial com fundamento na Súmula 282/STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Além do que, ainda que ultrapassado o óbice acima, esta Corte possui o entendimento de que a exceção de pré-executividade é decorrência de construção da doutrina e da jurisprudência, uma vez que não há dispositivo legal prevendo tal modalidade de defesa, que tem, entretanto, como pressuposto de admissibilidade "prova inequívoca dos fatos alegados", não admitindo qualquer dilação probatória. Tal entendimento foi, inclusive, pacificada, no enunciado de Súmula 393/STJ, in verbis: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Assim, a Corte a quo a entendeu que, no caso concreto, ante a necessidade de dilação probatória, seria inviável o cabimento da exceção de pré-executividade (e-STJ fl. 257).
+De tal maneira, tem-se que a revisão da conclusão a que chegou o Tribunal de origem - de não se tratar de situação excepcional a permitir o acolhimento da exceção de pré- executividade e da necessidade de instrução probatória - demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Neste sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC.ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.NECESSIDADE DE DILAÇÃO PROBATÓRIA. REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA.INVIABILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO PRETORIANO NÃO COMPROVADO NA FORMA LEGAL E REGIMENTAL.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A alteração da conclusão adotada pelo Tribunal de origem, no sentido da impossibilidade de utilização da exceção de pré-executividade diante da necessidade de dilação probatória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula 7/STJ.
+3. Inviável o conhecimento do recurso especial pela alínea c do permissivo constitucional quando não demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1077590/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/08/2015, DJe 19/08/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.ALEGADA DUPLICIDADE DE COBRANÇA DO CRÉDITO TRIBUTÁRIO.ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE ELEMENTOS SUFICIENTES PARA VERIFICAR A DUPLICIDADE DE COBRANÇA, EM SEDE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE.IMPOSSIBILIDADE DE REEXAME DOS FATOS E PROVAS, EM SEDE DE RECURSO ESPECIAL. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da Súmula 7 do STJ, "a pretensão de simples reexame de prova não enseja recurso especial".
+II. No caso dos autos, tendo o Tribunal de origem, quando da apreciação do Agravo Regimental, e, com lastro nos elementos probatórios dos autos, expressamente consignado que, ante a ausência da cópia integral do processo administrativo, não seria possível aferir, de plano, em sede de exceção de pré-executividade, a ocorrência de duplicidade de cobrança do crédito tributário cobrado na presente Execução Fiscal e na de número 2006.61.82.057120-1, devendo a questão ser devidamente apreciada em Embargos à Execução, somente com o revolvimento dos fatos e provas seria possível averiguar a procedência das alegações do contribuinte, no sentido de que seria patente a duplicidade da cobrança.
+III. Correta, portanto, a decisão agravada, que obstou o processamento do Recurso Especial, com base na Súmula 7 do STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 501.546/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
