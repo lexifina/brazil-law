@@ -1,0 +1,24 @@
+DECISÃO
+Neste habeas corpus, a Defensoria Pública impugna o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no Recurso em Sentido Estrito n. 5004520-48.2020.8.24.0041 e requer a imediata concessão de ordem liberatória a Marlon de Oliveira Neckel dos Santos.
+Alega, em síntese, que o acórdão é manifestamente ilegal, tendo em vista decretou a prisão preventiva do Paciente pela suposta prática de tráfico de drogas (crime sem violência e grave ameaça contra à pessoa) sem fundamentação idônea - fl. 11 (Ação Penal n. 5003470-84.2020.8.24.0041, em curso na Vara Criminal da comarca de Mafra/SC).
+Pretensão de urgência indeferida às fls. 832/833.
+Informações prestadas pelo Juízo de primeiro grau (fls. 837/838).
+Ouvido, o Ministério Público Federal opinou pela denegação da ordem, conforme esta ementa (fl. 844 - grifo nosso):
+Habeas Corpus. Tráfico de drogas. Prisão preventiva. Legalidade. Paciente que, não obstante a pequena quantidade de droga com ele apreendida (98g de cocaína), empreende fuga após ter sido beneficiado com a liberdade provisória em audiência de custódia, não sendo encontrado no endereço fornecido ao Poder Judiciário e estando até a presente data em local incerto e não sabido. Prisão preventiva decretada após a constatação da condição de foragido, não havendo que se falar em fuga para evitar injusto encarceramento. Concretos indícios da intenção de furtar-se à aplicação da lei penal. Custódia cautelar justificada.Precedentes do STJ.
+Parecer pela denegação.
+É o relatório.
+Segundo o acórdão, posto em liberdade após prisão em flagrante, o recorrido discriminou endereço com o qual não guardou a devida vinculação, mesmo que por pouco tempo após àquela detenção. Ele se ausentou desse local sem indicar a quem quer que seja, autoridade pública ou familiar, o local onde poderia ser encontrado. O agente, em suma, não teve a devida seriedade com o feito penal pelo qual certamente sabia que deveria responder (fl. 610).
+Outrossim, a Corte estadual indicou que o acusado prejudicou o regular andamento do processo, pois se encontra suspenso desde 4.9.2020, nos termos do art. 366 do Código de Processo Penal (Evento 89), e aguarda o comparecimento do réu nos autos ou a constituição de defensor para que seja apresentada resposta à acusação.  ..  Os corréus, que tiveram os autos cindidos, já foram inclusive condenados em primeiro grau, nos termos da denúncia (fl. 610).
+Com efeito, conforme bem ponderou oSubprocurador-Geral da República Luciano Mariz Maia, apesar de não ser grande a quantidade de substância tóxica apreendida,o paciente foi colocado em liberdade e, logo após, não foi encontrado no endereço que forneceu ao juízo e, segundo as informações, "ainda não restou localizado" (fl. 837), tendo sido determinada a suspensão do processo (artigo 366 do CPP)- fl. 845.
+Portanto, o acusado tem plena consciência da instauração da persecução criminal e,pouquíssimo tempo depois de ter declinado o endereço na Delegacia de Polícia,mudou-se sem deixar informações acerca de seu paradeiro.
+Vê-se que a prisão preventiva tem fundamento legal, uma vez que o acusado, após ter sido beneficiadocom a concessão da liberdade provisória, deixou de atualizar seu endereço, bem como de comparecer ao juízo, estando em local incerto e não sabido, o que ensejou a decretaçãoda prisão preventiva.
+Ademais não há notícias do cumprimento do mandado deprisão, em razão de o acusado ainda não ter sido encontrado, estando osautos suspensos, na forma do art. 366do Código de Processo Penal (fl. 837), o que também evidencia sua intenção de não se submeter à aplicação da lei penal.
+Nesse sentido, o HC n. 492.805/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe8/4/2019.
+Outrossim, apesar das considerações do Magistrado quando do indeferimentodo pedido de prisão preventiva do acusado formulado pelo Ministério Público (fl. 14), ao receber a denúncia oferecida em desfavor do paciente fez constar que há justa causa para a deflagração da ação penal, uma vez que os elementos constantes no caderno investigativo constituem indícios suficientes de materialidade e autoria da infração penal(fl. 386).
+De qualquer forma,a via eleita nãose presta à análise daautoria diante danecessidade de aprofundadoexamedo conjunto probatório.
+Por fim, destaca-se que, consoante orientaçãojurisprudencial desta Corte Superior de Justiça, eventuais condiçõespessoais favoráveis não têm o condão de, por si sós, garantir a revogaçãoda prisão preventiva. Há nos autos elementos hábeis a recomendar acustódia cautelar do paciente, não se mostrando suficientes,para o caso em análise, as medidas previstas no art. 319 do Código deProcesso Penal.
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DECRETADA EM RECURSO EM SENTIDO ESTRITO. RÉU FORAGIDO APÓS A CONCESSÃO DE LIBERDADE PROVISÓRIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SERSANADO. PARECER ACOLHIDO.
+Ordem denegada.
