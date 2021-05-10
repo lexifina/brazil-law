@@ -1,0 +1,51 @@
+DECISÃO
+JULIANA PIRES DE ARAUJO (JULIANA) propôs ação de indenização por danos morais e materiaiscontraVIAÇÃO MIRACATIBA LTDA (VIAÇÃO), objetivando a reparação por danos morais e materiais em acidente de trânsito, ocorrido aos 26/11/2014, envolvendo ônibus de propriedade da requerida, do qual era passageira, eda qual resultou as lesões descritas na inicial.
+Em primeira instância, o pedido foi julgado procedente em parte, para condenar aré ao pagamento da quantia de R$ 30.000,00 (trinta mil reais), a título de danos morais,com correção monetária pela tabela prática do TJ/SP a partir da data da publicação da sentença (súmula 362/STJ) e juros de mora de 1% ao mês desde a data do acidente (art. 398 do CC e súmula 54/STJ). Fixou, ainda, a sucumbência recíproca das partes (e-STJ, fls. 148/154).
+Interposta apelação pelavencida, o Tribunal a quo negou-lhes provimento, em acórdão ementado nos seguintes termos:
+APELAÇÃO. CONTRATO DE TRANSPORTE RODOVIÁRIO DE PESSOAS. Lesão à integridade física de passageira causada por acidente de veículo ocorrido no curso do contrato de transporte. Legitimidade de parte reconhecida. Empresa de ônibus que presta serviços de transportes na região e ostenta a denominação "Miracatiba". Declaração do condutor, e preposto da ré, de que o ônibus pertence à frota da ré "Miracatiba".
+Pertinência subjetiva reconhecida. Responsabilidade objetiva do transportador, nos termos do artigo 734 do CC, artigo 37, § 6º, da Constituição Federal e artigos 2º e 3º do CDC. Possibilidade de elisão apenas nas hipóteses de caso fortuito, força maior ou culpa exclusiva da vítima. Colisão de caminhão na traseira do coletivo, quando parado no acostamento. Culpa de terceiro. Hipótese que não exclui a responsabilidade da empresa de transporte, salvo o direito de regresso. Danos morais que decorrem da lesão grave à integridade física. Indenização arbitrada em R$ 30.000,00 (trinta mil reais). Valor adequado, compatível e proporcional no caso concreto. Manutenção. Ação julgada parcialmente procedente. Sentença confirmada. Recurso desprovido (e-STJ, fl. 182).
+Inconformada, a VIAÇÃOapresentou recurso especial, com base no art. 105, III, a e c, da CF, alegando violação dos arts. 17,18 e 485, IV, do NCPC, ao sustentar a sua ilegitimidadepassiva. Apontou, ainda, dissídio jurisprudencial(e-STJ, fls. 195/202)
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, ante a inexistência de vulneração aos dispositivos legais apontados como malferidos, pela incidência da Súmula n. 7 do STJ e porque não comprovado o dissídio jurisprudencial (e-STJ, fls. 207/211).
+No agravo em recurso especial, a VIAÇÃO afirmou que seu recurso merecia trânsito, porque preenchidos os requisitos necessários a admissibilidade, que comprovado o dissídio jurisprudencial, e, ainda, não pretender o reexame de matéria fática (e-STJ, fls. 214/220).
+Foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+Presentes os requisitos legais, conheço do agravo e passo ao exame do recurso especial, quenão comportaprovimento.
+De plano, vale pontuar que o presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada ilegitimidade passiva.
+Inicialmente cumpre observar que o contrato de transporte de pessoas se encontra regulado pelos artigos 734 e seguintes do Código Civil, incumbindo à transportadora, além de levar os passageiros do local do embarque até o destino, de garantir a segurança e a incolumidade física dos transportados.
+E, no caso de ocorrer acidente durante a execução do contrato de transporte, responde a transportadora de forma objetiva pelos danos causados, com amparo nos artigos 734 e 735 do Código Civil:
+Art. 734. O transportador responde pelos danos causados às pessoas transportadas e suas bagagens, salvo motivo de força maior, sendo nula qualquer cláusula excludente da responsabilidade.
+Parágrafo único: É lícito ao transportador exigir a declaração do valor da bagagem a fim de fixar o limite da indenização.
+Art. 735. responsabilidade contratual do transportador por acidente com o passageiro não é elidida por culpa de terceiro, contra o qual tem ação regressiva.
+No seu recurso especial, a VIAÇÃO alegou asua legitimidade passiva, afirmando que o veículo envolvido na colisão pertence a outra empresa, conforme comprovam os documentos acostados aos autos.
+Com relação ao tema, a Corte de origem destacou o seguinte:
+A ação versa pedido de indenização formulado por passageira que, no interior de coletivo, sofreu lesões físicas de natureza grave, em acidente ocorrido no dia 28 de novembro de 2014, às 15:50 horas, no acostamento da BR-116, KM 335. Consta que o condutor do ônibus parou o veículo em ponto de embarque e desembarque de passageiros, e foi surpreendido com a colisão na parte traseira do veículo,causada pelo caminhão Iveco/Tector de placas AXJ-7995, cujo condutor, Anderson de Mello, alegou ter derrapado na pista.
+A preliminar de ilegitimidade de parte passiva foi corretamente rejeitada, pois, malgrado o registro de propriedade do coletivo em nome de outra empresa (Auto Ônibus Soamin), o certo é que o próprio condutor (Antonio Pires de Lima), preposto da ré/apelante, declarou, no boletim de ocorrência, que conduzia o ônibus da empresa "Miracatiba" (fls. 126):
+"Chegando ao palco dos acontecimentos tomou conhecimento dos relatos do motorista Antonio Pires de Lima (CNH: 02548780901), categoria: AE, válida até: 21.01.2018), que conduzia o ônibus VW/Induscar Apache, placas: CVN-0456-Itapecerica da Serra - SP, da empresa "Miracatiba"..".
+ ..
+No caso dos autos, há prova do acidente envolvendo o ônibus em que a autora era passageira, sendo patente que a ré não cumpiriu o seu dever contratual de efetuar o transporte seguro até o destino, de modo que é devida a reparação dos danos pedida na inicial e deferida na sentença, ressalvado o regresso.
+No ponto, conforme a sentença, o laudo de fls. 74 demonstra que autora sofreu lesões corporais de natureza grave, resultando em incapacidade para as ocupações habituais por mais de trinta dias. (e-STJ, fls. 184 /189).
+Observa-se, das razões acima, que a VIAÇÃO não cumpriu o seu dever de transportar a recorrida em segurança, exsurgindo, daí o deverda VIAÇÃO indenizar JULIANA pelosos danos sofridos.
+Desse modo, rever o entendimento acima,a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Nesse sentido, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.ACIDENTEDE TRÂNSITO. RESPONSABILIDADE CIVIL. TRANSPORTADORA.REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. DANO MORAL. QUANTUM FIXADO.VALOR RAZOÁVEL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das premissas fáticas adotadas pelo Tribunal a quo, no tocante à responsabilidade civil da agravante peloacidentedescrito na inicial, tal como requerida, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos.
+ .. .
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.719.878/MG, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 28.9.2020, DJe 20/10/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RESPONSABILIDADE CIVIL.ACIDENTEDE TRÂNSITO. NEXO DE CAUSALIDADE.COMPROVAÇÃO. DANOS MORAIS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. VALOR DA INDENIZAÇÃO. PRINCÍPIO DA PROPORCIONALIDADE E DA RAZOABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as conclusões do tribunal de origem acerca da responsabilidade peloacidentee do dano causado à vítima demandaria o reexame fático-probatório, procedimento inadmissível devido ao disposto na Súmula nº 7/STJ.
+3. No caso concreto, a quantia fixada pelo tribunal de origem a título indenizatório não se mostra exagerada ou desproporcional aos danos sofridos pelo recorrido, tendo sido arbitrada dentro dos critérios de razoabilidade e proporcionalidade.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.414.151/MS, Rel. Ministro RICARDO VILLAS BOAS CUEVA, Terceira Turma, j. 10/8/2020, DJe 18.8.2020).
+Do dissídio jurisprudencial
+Quanto ao dissídio interpretativo invocado, o recorrente limitou-se a transcrever trechos das ementas dos julgados apontados como paradigmas, sem, contudo, realizar o cotejo analítico e demonstrar a similitude fática no escopo de comprovar o dissídio jurisprudencial, não suprindo, dessa forma, o disposto no art. 255, § 2º, do Regimento Interno do STJ.
+E ainda que assim não fosse, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Precedentes: AgInt no AREsp n. 1.188.742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/4/2018, DJe 30/4/2018; e, AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+Nessas condições, CONHEÇO do agravo para, desde logo, NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% sobre o valor dos honorários advocatícios anteriormente fixados em desfavor do CONSÓRCIO INTERVIAS, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por derradeiro, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. TRANSPORTE DE PESSOAS. ACIDENTE DE TRÂNSITO. PASSAGEIRA DE COLETIVO. ARTS. 17 E 18 DO NCPC. ILEGITIMIDADE PASSIVA DA VIAÇÃO AFASTADA COM BASE NAS PROVAS DOS AUTOS. REFORMA, SUMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
