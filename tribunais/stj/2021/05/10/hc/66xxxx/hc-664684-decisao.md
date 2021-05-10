@@ -1,0 +1,7 @@
+DECISÃO
+PAULO VITOR DA SILVA SANTOS, acusado por tráfico e associação para o tráfico de drogas, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, que denegou a ordemimpetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado nesta oportunidade pela defesa, sob o argumento de falta de fundamentação da decisão constritiva e de excesso de prazo.
+A despeito das alegações feitas neste habeas corpus, observa-se, em relação à ausência de fundamentação da preventiva, que o pedido veio desacompanhado de documento essencial que possibilitasse o exame da controvérsia (a cópia da decisão primeva que decretou apreventiva), malgrado hajam sido juntadas as decisões posteriores que mantiveram a prisão.
+A possibilidade de se impetrar habeas corpus, perante esta Corte, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+Por fim, no que tange ao excesso de prazo, observo que tal questão não foi examinada pelo Tribunal de origem, circunstância que impede análise do tema por esta Corte, sob pena de supressão de instância, conforme firme entendimento jurisprudencial.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
