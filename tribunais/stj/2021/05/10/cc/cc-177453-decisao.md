@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o e. Juízo Federal da 3ª Vara de Santa Maria/RS, suscitante, e o r. Juízo de Direito da Vara Cível de São Sepé-RS, suscitado.
+Ação: cumprimento de sentençamovido por AGNIS LORENTZ HOMRICHI E OUTROS contra o BANCO DO BRASIL S.A.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que mesmo no caso da liquidação ter sido manejada apenas em face do Banco do Brasil S.A., remanesce a competência da Justiça Federal, na condição de executora dos seus próprios julgados (fls. 107/111).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, ao fundamento de que "(..)tornou-se firmado o entendimento, no âmbito do Superior Tribunal de Justiça, no sentido que a competência para o cumprimento de sentença originária da ação civil pública nº 94.0008514-1 ocorre ratione personae, em face da competência funcional regrada no artigo 109, I, da Constituição Federal, com atribuição de competência à Justiça Estadual quando o cumprimento é dirigido ao Banco do Brasil, apenas." (fls. 412/418)
+Parecer do Ministério Público Federal: pelo conhecimento do conflito, declarando-se a competência da Justiça Estadual, suscitado. (fls. 435/440).
+É o relatório.
+Decisão.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve Tribunal e juízo a ele não vinculado, nos termos do que dispõe o artigo 105, inciso I, alínea "d" da Constituição Federal.
+2. O conflito de competência em análise foi suscitado no âmbito do cumprimento de sentençamanejado exclusivamente contra o BANCO DO BRASIL S.A., com o objetivo de executar o quanto decidido em ação civil pública.
+Não obstante o teor do art. 516, II, do CPC, que dispõe ser da competência do juízo que decidiu a causa em primeiro grau de jurisdição o cumprimento de seus julgados, a jurisprudência desta Corte tem se posicionado no sentido de que compete à Justiça Federal a palavra final acerca do interesse na causa, de modo a atrair sua competência, nos termos da Súmula n.º 150/STJ (Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas Autarquias ou Empresas Públicas).
+Com efeito, observando-se que o cumprimento de sentença em questão foi manejado exclusivamente contra o BANCO DO BRASIL S.A., sociedade de economia mista, que não se encontra na área de competência da Justiça Federal, conforme o artigo 109, inciso I, da Constituição Federal, ressai a competência, necessariamente, da Justiça Estadual.
+Nesse sentido, veja-se: CC 158.151/GO, Rel. Ministro MOURA RIBEIRO, DJe 05/02/2019; CC 159.253/MS, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 10/09/2018; CC 159.097/MS, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 06/09/2018.
+3. Com o julgamento do REsp n.º 1.243.887/PR, sob o rito dos recursos repetitivos, ficou assentado nesta Corte o entendimento no sentido da competência do domicílio do exequente, para processar e julgar o cumprimento de sentença individual, decorrente de ação coletiva. (ut. REsp 1243887/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL julgado em 19/10/2011, DJe 12/12/2011)
+Ressai, portanto, a competência do Juízo de Direito da Vara Cível de São Sepé-RS, suscitado.
+4. Do exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ, conheço do conflito para declarar a competência do r. JUÍZO DE DIREITO DA VARA CÍVEL DE SÃO SEPÉ/RS, o suscitado.
+Publique-se. Intimem-se. Oficiem-se.
