@@ -1,0 +1,104 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REPRESENTAÇÃO COMERCIAL. RESTITUIÇÃO DE VALORES. AUSÊNCIA DE REGISTRO DO REPRESENTANTE NO ÓRGÃO COMPETENTE. APLICAÇÃO DA LEI 4.886/65 AFASTADA. NECESSIDADE DE VERIFICAÇÃO DA VALIDADE DA CLÁUSULA DEL CREDERE À LUZ DO CÓDIGO CIVIL DE 2002. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. "A ausência do registro do representante comercial no Conselho Regional afasta a incidência do microssistema de que trata a Lei nº 4.886/65  .. " (REsp 1.698.761/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/02/2021, DJe de 17/02/2021, g.n.)
+2. No caso, afastada a incidência do microssistema da Lei 4.886/65, a validade da cláusula del credere deve ser analisada à luz do Código Civil de 2002.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, com a determinação de retorno dos autos ao Tribunal de origem, a fim de que reexamine a causa à luz do entendimento do Superior Tribunal de Justiça.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno, interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, contra decisão de fls. 1162/1170, que conheceu do agravo para negar provimento ao recurso especial sob os fundamentos de: (a) inexistência de violação ao art. 1.022 do CPC/2015; (b) incidência da Súmula 284/STF, pois indicado dispositivo que não guarda pertinência temática com a matéria discutida nas razões do recurso especial no que tange à alegação de insubordinação hierárquica; (c) incidência das Súmulas 5 e 7 do STJ, pois, para alterar as premissas acerca da natureza jurídica do contrato firmado entre as partes, seria necessária a análise e interpretação de cláusulas contratuais e o reexame do contexto fático-probatório dos autos; (d) incidência da Súmula 7 do STJ, porque, para se alterar o entendimento sobre a existência de representação comercial, seria necessário o reexame do contexto fático-probatório dos autos; e (e) incidência das Súmulas 5 e 7 do STJ também na análise da questão da incidência ilegal da cláusula del credere.
+Nas razões do agravo interno, a agravante: 1) reitera a existência de violação do art. 1.022 do CPC/2015; 2) sustenta a inaplicabilidade da Súmula 284/STF, pois o acórdão recorrido incorreu em grave insubordinação hierárquica; 3) defende a inaplicabilidade das Súmulas 5 e 7 do STJ ante a desnecessidade de análise do conjunto probatório.
+Ao final, requer a reconsideração da decisão agravada para que seja anulado o acórdão proferido em sede de embargos de declaração, ou que seja dado provimento ao recurso especial.
+Devidamente intimada, a parte agravada não apresentou impugnação do agravo interno (vide certidões de fls. 1219/1220).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REPRESENTAÇÃO COMERCIAL. RESTITUIÇÃO DE VALORES. AUSÊNCIA DE REGISTRO DO REPRESENTANTE NO ÓRGÃO COMPETENTE. APLICAÇÃO DA LEI 4.886/65 AFASTADA. NECESSIDADE DE VERIFICAÇÃO DA VALIDADE DA CLÁUSULA DEL CREDERE À LUZ DO CÓDIGO CIVIL DE 2002. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. "A ausência do registro do representante comercial no Conselho Regional afasta a incidência do microssistema de que trata a Lei nº 4.886/65  .. " (REsp 1.698.761/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/02/2021, DJe de 17/02/2021, g.n.)
+2. No caso, afastada a incidência do microssistema da Lei 4.886/65, a validade da cláusula del credere deve ser analisada à luz do Código Civil de 2002.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, com a determinação de retorno dos autos ao Tribunal de origem, a fim de que reexamine a causa à luz do entendimento do Superior Tribunal de Justiça.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.543.568 - MS (2019/0207018-5)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+OI S.A. - EM RECUPERACAO JUDICIAL
+ADVOGADOS
+:
+ANA TEREZA BASILIO - RJ074802
+MARILENA FREITAS SILVESTRE - MS005565
+BRUNO DI MARINO - RJ093384
+FÁBIO COTECCHIA - RJ104005
+AGRAVADO
+:
+VILSON GOMES DO PRADO - ME
+AGRAVADO
+:
+DISK UNICA - COMERCIO SERVICOS E REPRESENTACOES COMERCIAIS LTDA - ME
+ADVOGADOS
+:
+SERIBERTO HENRIQUE DE ALMEIDA - MS013000
+TULIO JEFERSON FERREIRA ANZILIERO - MS015991
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+De fato, conforme apontado na decisão agravada, não se verifica a alegada violação ao art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca da questão tida como omissão pela parte agravante, e abordando os temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Também não há como se afastar o óbice da Súmula 284 do STF. Nas razões do recurso especial, a parte ora agravante alega insubordinação hierárquica e renitência injustificada do Tribunal Estadual, uma vez que não teria cumprido a decisão do STJ que anulou o acórdão e determinou novo julgamento dos embargos de declaração a fim de sanar as omissões verificadas. Contudo, apontou violação ao art. 988, II, do CPC/2015, que diz respeito ao cabimento de reclamação, o que não é o caso dos autos. Assim, de fato, o dispositivo se apresenta dissociado das razões de pedir, evidenciando verdadeira deficiência da fundamentação. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA 7/STJ. DISPOSITIVO LEGAL IMPERTINENTE. SÚMULA N. 284/STF.
+AGRAVO NÃO PROVIDO.
+1. É inviável o recurso especial no qual são apontados dispositivos infraconstitucionais dissociados das razões de pedir, a teor da Súmula 284/STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de compensação por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp 1595752/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020, g.n.)
+No mérito, cinge-se a controvérsia em determinar se, no caso, é possível reconhecer o exercício da atividade de representante comercial, ainda que o agravado não possua registro no conselho profissional, a fim de se manter a aplicabilidade do microssistema da Lei 4.886/65 à relação contratual.
+A sentença reconheceu a ilegitimidade ativa de DISK ÚNICA - COMÉRCIO SERVIÇOS E REPRESENTAÇÕES COMERCIAIS LTDA - ME e julgou improcedentes os pedidos formulados na inicial por VILSON GOMES DO PRADO - ME, consignando que, no caso em análise, o contrato entabulado entre as partes não era de representação comercial, mas de prestação de serviços, pois não havia registro do representante comercial no conselho profissional, condição legal para o exercício da representação. Leia-se, a propósito, o seguinte trecho da r. sentença:
+"Primeiramente insta esclarecer que não se trata de representação comercial, mas de prestação de serviços a relação estabelecida entre as partes, o que se observa nos contratos e aditivos entre elas celebrados.
+As atividades dos representantes comerciais autônomos são reguladas pela Lei 4.886, de 9 de dezembro de 1965, e a requerente remanescente não demonstrou que a relação com a requerida se enquadra nos requisitos legais, em especial nos previstos no artigo 2º que dispõe que "é obrigatório o registro dos que exerçam a representação comercial autônoma nos Conselhos Regionais criados pelo artigo 6º desta Lei" e o artigo 5º que diz que "somente será devida remuneração, como mediador de negócios comerciais, a representante comercial devidamente registrado", quando tal ônus lhe cabia.
+Por não se tratar de representação comercial, não se aplica a regra do artigo 43 da referida lei que diz que "é vedada no contrato de representação comercial a inclusão de cláusulas del credere." (fls. 903/904, g.n.)
+Ao julgar a apelação, o Tribunal a quo, ao analisar o contrato entabulado entre as partes, concluiu que o contrato firmado entre a agravante VILSON GOMES DO PRADO - ME, independentemente da inexistência de registro no Conselho dos Representantes Comerciais, se trata de contrato de representação comercial, e não de prestação de serviços, considerando nula, por essa razão, a cláusula contratual que autorizou a representada a descontar das comissões devidas os valores decorrentes da inadimplência dos clientes (cláusula del credere). É o que se extrai do seguinte trecho do v. acórdão recorrido:
+"Sabidamente, a Lei nº 4.886/1965 regula as atividades dos representantes comerciais autônomos.
+No art. 1º de mencionada lei estabelece que "exerce a representação comercial autônoma a pessoa jurídica ou a pessoa física, sem relação de emprego, que desempenha, em caráter não eventual por conta de uma ou mais pessoas, a mediação para a realização de negócios mercantis, agenciando propostas ou pedidos, para, transmiti-los aos representados, praticando ou não atos relacionados com a execução dos negócios." Seguindo, no art. 2º daquela mesma lei, determina que "é obrigatório o registro dos que exerçam a representação comercial autônoma nos Conselhos Regionais criados pelo art. 6º desta Lei." e complementa no art. 5º, que "somente será devida remuneração, como mediador de negócios comerciais, a representante comercial devidamente registrado."
+O Código Civil trata da representação comercial nos artigos 710 a 721, dispondo, naquele artigo, que "pelo contrato de agência, uma pessoa assume, em caráter não eventual e sem vínculos de dependência, a obrigação de promover, à conta de outra, mediante retribuição, a realização de certos negócios, em zona determinada, caracterizando-se a distribuição quando o agente tiver à sua disposição a coisa a ser negociada.", sem contudo excluir a aplicação subsidiária das regras concernentes ao mandato e à comissão e as constantes de lei especial (art. 721).
+Por outro lado, no que se refere à prestação de serviços, o art. 594 do Código Civil prescreve que "toda espécie de serviço ou trabalho lícito, material ou imaterial, pode ser contratada mediante retribuição."
+Ainda, sobre a prestação de serviços, no Código Civil comentado, coordenado pelo Ministro Cezar Peluso, Nelson Rosenvald ensina que "a prestação de serviços compreende uma ampla gama de atividades lícitas realizadas por aquele que pratica um serviço especializado e eventual, abrangendo o exercício remunerado de um oficio (v.G., bombeiro, carpinteiro); de um profissional liberal (v.g., advogado, médico);e de empresas especializadas (v.g., detetização, vigilância), que terceirizam serviços. Em síntese, obrigações de fazer, alcançando condutas fisicas (materiais) ou intelectuais(imateriais)."
+Analisando a minuta de contrato, nominado pela apelada de "prestação de serviços de agente autorizado - mercado consumidor" e aditivos do contrato (f.124-140), verifica-se que que a natureza do negócio entabulado é a concessão de venda dos produtos da Brasil Telecom SA, com exclusividade e prazo determinado, de forma padronizada, com a submissão de metas a serem cumpridas e mediante "remuneração" (leia-se comissão), o que, a meu ver, caracteriza espécie de representação comercial e não a prestação de serviços, como quer fazer crer a apelada, até porque não há prestação de serviço especializado e eventual naquele contrato.
+Consoante inciso I do art. 333 do Código de Processo Civil, incumbe ao apelante comprovar o fato constitutivo de seu direito e à apelada, por sua vez, compete demonstrar circunstância modificativa, impeditiva ou extintiva do direito do apelante (inciso II).
+Compulsando os autos, conforme relatado pelo apelante na inicial, o"(..) por motivos alheios ao trabalho desenvolvido pelas requerentes e, por culpa da empresa ré, mesmo concretizadas as vendas e no decurso do contrato entre consumidor final e a operadora Brasil Telecom, eram cancelados estes contratos e por sua vez estornados os valores referentes à comissão auferida pelas autoras." (f. 04).
+De outro lado, a apelada limitou-se a alegar na contestação que "não cabe, então, até como prius lógico, cogitar-se, aqui, de indenização, qualquer que fosse, sem que, antes, se procedesse à anulação de clausula contratual." (f.
+732), bem como que "(..) não há nos autos prova acerca dos supostos cancelados de contratos feitos pelos clientes em virtude de ato praticado pela BrT.", ora apelada (f. 733).
+Entretanto, tratando-se de representação comercial, a teor do que dispõe o art. 43 da Lei n.º 4.886/65 é nula de pleno direito a cláusula contratual que autoriza que a representada desconte das comissões devidas à representante os valores decorrente da inadimplência dos clientes (cláusula del credere).
+Confira-se artigo 43 da Lei n.º 4.886/65 abaixo:
+"Art. 43. É vedada no contrato de representação comercial a inclusão de cláusulas del credere".
+(..)
+Assim, sendo vedada no contrato de representação comercial a inclusão de cláusulas del credere, impõe-se a nulidade da cláusula mencionada e o provimento do recurso, para que a Brasil Telecom SA seja condenada a restituir ao apelante os valores referentes às comissões estornadas, previstas na cláusula 2.3 do contrato (f.126), mormente porque não se enquadra no § 1º do art. 33 da Lei n.º4.886/65; e de forma simples, porquanto além de não incidir o Código de Proteção e de Defesa do Consumidor, a justificar a aplicação do parágrafo único do art. 42 do CDC (restituição em dobro), não restou comprava má-fé da apelada" (fls. 957/961, g.n.)
+Com efeito, nos termos da jurisprudência desta Corte, a ausência de registro no Conselho Regional de Representantes Comerciais não impede o recebimento dos valores pelos serviços efetivamente prestados, pois violaria a garantia constitucional do livre exercício de qualquer trabalho, ofício ou profissão. Contudo, nesses casos, não se aplica regime jurídico específico da Lei 4.886/65, mas o regime geral do Código Civil. Nesse sentido, colhem-se os seguintes julgados:
+"RECURSO ESPECIAL. CIVIL. COMERCIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. NATUREZA. REPRESENTAÇÃO COMERCIAL. MODIFICAÇÃO. SÚMULAS NºS 5 E 7/STJ. REGISTRO. AUSÊNCIA. MICROSSISTEMA DA LEI Nº 4.886/1965. NÃO INCIDÊNCIA. SERVIÇOS PRESTADOS. PAGAMENTO. CÓDIGO CIVIL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em falha na prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.
+3. A interpretação de cláusulas contratuais e o reexame de fatos e provas são providências inadmissíveis diante dos óbices das Súmulas nº 5 e 7/STJ.
+4. A ausência do registro do representante comercial no Conselho Regional afasta a incidência do microssistema de que trata a Lei nº nº 4.886/65, inclusive a indenização de que cuida o artigo 27, "j", do referido diploma legal. Precedente.
+5. Os serviços prestados e ainda não pagos devem ser adimplidos na forma do Código Civil.
+6. Recurso conhecido parcialmente e, nessa parte, parcialmente provido."
+(REsp 1698761/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/02/2021, DJe 17/02/2021, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REPRESENTAÇÃO COMERCIAL. AUSÊNCIA DE REGISTRO NO ÓRGÃO COMPETENTE. INCIDÊNCIA DA LEI 4.886/65 AFASTADA. CONTRAPRESTAÇÃO GARANTIDA PELO CÓDIGO CIVIL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1."Aplicação aos prestadores de serviços de representação, não registrados no respectivo Conselho Regional, das disposições do Código Civil, que, apesar de prever a remuneração pelos serviços prestados, não contempla a indenização prevista no artigo 27 da Lei 4.886/65" (REsp 1.678.551/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/11/2018, DJe de 27/11/2018).
+2. Estando a decisão recorrida em consonância com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no REsp 1874728/MG, de minha relatoria, QUARTA TURMA, julgado em 14/09/2020, DJe 01/10/2020, g.n.)
+"RECURSO ESPECIAL. DIREITO EMPRESARIAL. REPRESENTAÇÃO COMERCIAL. INAPLICABILIDADE DO REGIME JURÍDICO PREVISTO NA LEI 4.886/65 A NÃO INSCRITOS NO RESPECTIVO CONSELHO REGIONAL. ATIVIDADE QUE NÃO EXIGE QUALIFICAÇÃO TÉCNICA ESPECÍFICA. A AUSÊNCIA DE REGISTRO NÃO AUTORIZA A RECUSA AO PAGAMENTO POR SERVIÇOS EFETIVAMENTE PRESTADOS. RELAÇÃO REGIDA PELO CÓDIGO CIVIL.
+1. Controvérsia em torno da exigibilidade da indenização prevista no artigo 27 da Lei 4.886/65, destinada aos representantes comerciais, a quem não tenha registro no respectivo Conselho Regional de Representantes Comerciais.
+2. Pacífico o entendimento do STJ de que o artigo 5º da Lei 4.886/65 não foi recepcionado pela Constituição Federal de 1988, pois, por se tratar de profissão que não exige qualificação técnica específica, o condicionamento ao recebimento de qualquer valor por serviços efetivamente prestados violaria à garantia de "livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer".
+3. Reconhecimento do direito ao recebimento do valor correspondente aos serviços efetivamente prestados.
+4. Inaplicabilidade, porém, do regime jurídico previsto na Lei 4.886/65, cujo pressuposto de incidência é o registro no respectivo conselho regional, requisito estabelecido pelo microssistema normativo para que se possa atribuir a qualidade de representante comercial a determinada pessoa, passando a estar submetida a regime jurídico específico.
+5. A exigência de registro destina-se a assegurar a boa prestação dos serviços, com o controle do Conselho Regional, de modo que a aceitação irrestrita da aplicação do regime jurídico previsto na Lei 4.886/65 estimularia a atuação sem registro.
+6. Aplicação aos prestadores de serviços de representação, não registrados no respectivo Conselho Regional, das disposições do Código Civil, que, apesar de prever a remuneração pelos serviços prestados, não contempla a indenização prevista no artigo 27 da Lei 4.886/65.
+7. Recurso especial provido.
+(REsp 1.678.551/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/11/2018, DJe de 27/11/2018, g.n.)
+Nesse contexto, afastada a incidência do microssistema da Lei 4.886/65, a validade da cláusula del credere, no presente caso, deve ser analisada à luz do Código Civil de 2002, que assim dispõe:
+Art. 698. Se do contrato de comissão constar a cláusula del credere, responderá o comissário solidariamente com as pessoas com que houver tratado em nome do comitente, caso em que, salvo estipulação em contrário, o comissário tem direito a remuneração mais elevada, para compensar o ônus assumido.
+No caso, todavia, o adequado deslinde da demanda depende da interpretação de cláusula contratual e da análise do acervo fático-probatório dos autos, o que é vedado nesta instância a teor do que dispõem as Súmulas 5 e 7 deste Pretório, razão pela qual deve ser determinando o retorno dos autos ao Tribunal de origem, a fim de que examine o caso concreto em conformidade com a jurisprudência acima citada.
+Ante o exposto, dá-se provimento ao agravo interno para conhecer do agravo e dar parcial provimento ao recurso especial, e determinar o retorno dos autos ao Tribunal de origem, a fim de que decida a causa à luz do entendimento do Superior Tribunal de Justiça acerca da matéria.
+É como voto.
