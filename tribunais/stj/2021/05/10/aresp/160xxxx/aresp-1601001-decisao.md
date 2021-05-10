@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARIA REGINA DE SOUZA FELLET, com fundamento na alíneas "a" e "c" do permissivo constitucional, no qual se insurge em face de acórdão proferido pelo TJ/MG, assim ementado (e-STJ, fls. 262-270):
+"EXCEÇÃO DE SUSPEIÇÃO CRIMINAL. PARCIALIDADE DOMAGISTRADO A QUO. INOCORRÊNCIA. COMUNICAÇÃO AOS JURADOSDE CIRCUNSTÂNCIAS DO PROCESSO. CONDUTA DEVIDAMENTEJUSTIFICADA. NOMEAÇÃO DE DEFENSOR PÚBLICO E DATIVO PARAREPRESENTAR A ASSISTENTE DE ACUSAÇÃO. ADEQUAÇÃO. ACESSOÀ JUSTIÇA. CONDUÇÃO INADEQUADA DA SESSÃO DE JULGAMENTO.NULIDADE RECONHECIDA EM APELAÇÃO. TESE SUPERADA.COMPROMETIMENTO DO JULGADOR NAO DEMONSTRADO.HIPÓTESES NÃO PREVISTAS NO ARTIGO 254 DO CPP. EXCEÇÃOREJEITADA.
+- Não há que se falar em parcialidade do magistrado a quo emdecorrência de expressões constantes no relatório apresentado ao júri,uma vez que a elaboração deste decorre de previsão legal, com oobjetivo de elucidar as circunstâncias do processo.
+- A nomeação de defensor público e de advogado dativo pararepresentar a assistente de acusação não enseja o reconhecimento daparcialidade do magistrado, sendo conduta adequada à situação dosautos e que se justifica para garantir o acesso à justiça.
+- O reconhecimento da nulidade da sessão de julgamento realizadaafasta as alegações referentes à conduta do magistrado no referido atoprocessual, se tratando de tese já analisada em outro recurso e que restasuperada.
+- Deve-se rejeitar Exceção de Suspeição Criminal oposta contra Juiz deDireito quando o caso não se enquadrar nas hipóteses insertas no art.254 do CPP".
+Os embargos de declaração então opostos foram rejeitados (e-STJ, fls. 353-358).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 254, 423, II, 497, III e IV, e 564, I, do CPP; 5º, LIII, LIV e LV da CF/1988; e 36, III, da LOMAN. Aduz para tantoque o magistrado presidente do júri seria suspeito, por incorrer em excesso de linguagem no seu relatório einfluenciar os jurados a decidirem contra a ré, além de cometer a infração funcional de se manifestar na mídia sobre os fatos apurados no processo.
+Com contrarrazões (e-STJ, fls. 459-472), o apelo nobre foi inadmitido na origem (e-STJ, fls. 495-500), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 635-638).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Quanto ao mérito, todavia, o apelo nobre não comporta conhecimento. Sobre a alegada suspeição do magistrado, a Corte de origem constatou que nenhuma de suas manifestações processuais buscou induzir os jurados a um veredito condenatório, tendo se limitado a relatar-lhes os fatos do processo(e-STJ, fls. 265-269). Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO ATIVA E PASSIVA.AUSÊNCIA DE OBRIGAÇÃO DE CONVERSÃO DOS ARQUIVOS EM FORMATO ESCOLHIDO PELA DEFESA. NULIDADE DA INTERCEPTAÇÃO TELEFÔNICA. INEXISTENTE.DILIGÊNCIAS PRELIMINARES QUE AVERIGUARAM AS INFORMAÇÕES PRESTADAS DE FORMA ANÔNIMA. POSSIBILIDADE. SUSPEIÇÃO DA MAGISTRADA. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ . AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Ademais, "(..) conforme entendimento do STJ, é inviável afirmar a suspeição de julgador, por meio de recurso especial ou de habeas corpus, perante essa Corte, por ser matéria que demanda reexame fático-probatório"(AgRg no AREsp 1647217/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+5. Agravo regimental desprovido".
+(AgRg no REsp 1861383/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/09/2020, DJe 21/09/2020)
+Outrossim, aalegada ocorrência de infração funcional referido no art. 36, III, da LOMANnão se encontra prequestionada. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local.
+Neste sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp 1902294/SP, de minha relatoria, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
