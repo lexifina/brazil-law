@@ -1,0 +1,70 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. PRESTAÇÃO DE SERVIÇO PÚBLICO. REGIME DE CONCORRÊNCIA. DISTRIBUIÇÃO DE LUCROS. INSUBMISSÃO AO REGIME DE PRECATÓRIOS.
+1. A DERSA Desenvolvimento Rodoviário S.A., com natureza de pessoa jurídica de direito privado, não se sujeita ao regime de precatórios para o pagamento das suas dívidas.
+2. Agravo conhecido para negar provimento ao recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, conheceu do agravo para negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+DERSA Desenvolvimento Rodoviário S.A. agrava da decisão denegatória de seguimento ao recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de Instrumento Expropriatória em cumprimento de sentença Prosseguimento em face da Dersa Desenvolvimento Rodoviário S/A - Empresa pública executada que não se caracteriza exclusivamente como prestadora de serviços públicos, ante a existência de outras atividades em seu Estatuto Social a indicar a exploração de atividade econômica em nível concorrencial - Sociedades de economia mista e empresas públicas que desenvolvem atividade econômica em regime concorrencial não gozam do regime de precatórios Precedentes do E. STF e deste E. Tribunal - Decisão de origem reformada recurso provido.
+A controvérsia reside em saber se a agravante, sociedade empresária de natureza privada, presta serviço público em regime não concorrencial e, como tal, submete-se ou não ao regime de precatórios para o pagamento de suas obrigações.
+Na hipótese a DERSA é devedora de indenização arbitrada em ação de desapropriação e quer pagar mediante a expedição de precatórios, mas o Tribunal "a quo" entendeu que o serviço prestado por si é feito em regime concorrencial com os demais agentes do mercado.
+A DERSA alega ter havido a violação aos arts. 534, 789, 832 e 833, inciso I, do CPC/2015, na medida da ocorrência de fato superveniente relacionado à mudança da sua personalidade jurídica de sociedade de economia mista para empresa estatal, defendendo ainda que sob essa natureza ou sob aquela outra o fato é que prestou sempre serviço público essencial não concorrencial, esse motivo o bastante para que suas dívidas sujeitem-se ao regime de precatórios.
+Nesse sentido, defende quea sua finalidade precípua é a prestação de serviços públicos considerados essenciais para a comunidade, relacionados ao transporte delegados pelo Estado de São Paulo, e prestados nas travessias litorâneas estaduais, em caráter de exclusividade.
+Assim, não haveria dúvida de que a DERSA tem por escopo a prestação de serviços público em regime não concorrencial, haja vista ser a única empresa pública que realiza astravessias litorâneas no Estado de São Paulo, sem visar obtenção de lucros e acúmulo de riqueza.
+A inadmissibilidade fundamenta-se no caráter constitucional da controvérsia e na Súmula 07/STJ, ambos os motivos devidamente refutados na minuta do agravo (e-STJ fls. 258/260 e 285/299, respectivamente).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. PRESTAÇÃO DE SERVIÇO PÚBLICO. REGIME DE CONCORRÊNCIA. DISTRIBUIÇÃO DE LUCROS. INSUBMISSÃO AO REGIME DE PRECATÓRIOS.
+1. A DERSA Desenvolvimento Rodoviário S.A., com natureza de pessoa jurídica de direito privado, não se sujeita ao regime de precatórios para o pagamento das suas dívidas.
+2. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O feito observa o teor do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Conheço do agravo porquanto refutado de modo suficiente o juízo de admissibilidade feito na origem.
+A questão principal é saber o que faz a recorrente e se o serviço prestado por si, tendo caráter público, é prestado sob regime não concorrencial e issolegitima a que suas dívidas submetam-se ao sistema constitucional de precatórios.
+Segundo consta, a DERSA é uma sociedade empresária estatal que de fato atua como concessionária de rodovias submetidas à jurisdição administrativa do Estado de São Paulo; essa, no entanto, pode até constituir a sua atividade principal, mas não é a única.
+Seu estatuto prevê, por exemplo, que pode atuar na construção e na exploração de centros rodoviários de cargas e fretes, de terminais rodoviários de cargas e de terminais intermodais de cargas, bem como na exploração, na operação e na administração de sistemas de distribuição e transferência intermodal de cargas, absolutamente nada disso constituindo atividade essencial do estado, antes cumprindo à iniciativa privada o seu desenvolvimento:
+ARTIGO 2º - Constitui objeto da empresa:
+I. atuar como concessionária de rodovias submetidas à sua jurisdição administrativa, mediante decreto do Poder Executivo;
+II. atuar como intermediária do Poder Executivo em concessões, contratações administrativas e convênios que possuam objeto de natureza viária ou rodoviária, prestando apoio operacional e consultivo, podendo para tanto:
+a) construir, pavimentar, operar, ampliar, manter, introduzir melhoramentos, planejar serviços e obras, executar projetos, prestar consultoria, gerenciamento e apoio técnico para operação, construção e manutenção de sistemas e obras de infraestrutura de transporte;
+b) construir e explorar industrialmente, direta ou indiretamente, Centros Rodoviários de Cargas e Fretes, Terminais Rodoviários de Cargas e Terminais Intermodais de Cargas, inclusive planejar, projetar, coordenar e controlar a exploração de equipamentos e instalações destinadas à transferência, transporte e comercialização de carga rodoviária e multimodal;
+c) explorar, operar e administrar sistemas de distribuição e transferência intermodal de cargas, estabelecendo diretrizes, especificações e normas de comodidade dos usuários;
+d) baixar instruções e demais atos de caráter normativo, em assuntos de sua alçada;
+e) comercializar suas marcas, patentes, produtos patenteados, nome e insígnia;
+f) firmar convênios ou contratos com a União, os Estados e Municípios, assim como suas entidades descentralizadas e quaisquer entidades privadas, para prestação de Serviços na área de transportes;
+III. exercer atividades úteis ou necessárias ao cumprimento de suas finalidades;
+IV. caberá ainda à Dersa explorar industrialmente, nos termos do Decreto nº 29.884, de 4 de maio de 1989, com a redação que lhe foi dada pelo Decreto nº 30.481, de 26 de setembro de 1989, como empresa de navegação, os terminais intermodais rodo hidroviários, marítimos ou fluviais, com exceção do Porto de São Sebastião, cabendo-lhe:
+a) cuidar da operação, administração e conservação desses terminais;
+b) planejar atividades, serviços e obras, e executar projetos relacionados com tal objeto;
+c) estabelecer diretrizes, especificações e normas necessárias para o bom desempenho dos encargos decorrentes;
+d) baixar regulamentos supletivos, inclusive quanto aos projetos e especificações técnicas de obras, de segurança e de comodidade dos usuários.
+Independentemente disso, a atividade de exploração de rodovias e de auferição de lucro com o rendimento das tarifas de pedágio já é indício por si só que a sua constituição não é exclusividade do Poder Público, isto é, trata-se de uma atividade que poderia facilmente ser delegada a um terceiro particular qualquer, mas no Estado de São Paulo a exploração e manutenção de rodoviasé todavia entregue a um ente integrante da própria Administração Pública indireta.
+Há ainda mencionar que a atividade da DERSA visa o lucro, tanto assim que o seu estatuto disciplina a sua distribuição, e aqui se transcreve:
+ARTIGO 43 - O exercício social coincidirá com o ano civil, findo o qual a Diretoria fará elaborar as demonstrações financeiras previstas em Lei.
+ARTIGO 44 - As ações ordinárias terão direito ao dividendo mínimo obrigatório correspondente a 25% (vinte e cinco por cento) do lucro líquido do exercício, após as deduções determinadas ou admitidas em lei.
+Parágrafo primeiro - O dividendo poderá ser pago pela empresa sob a forma de juros sobre o capital próprio.
+Parágrafo segundo - A empresa poderá levantar balanços intermediários ou intercalares, para efeito de distribuição de dividendos ou pagamento de juros sobre o capital próprio.
+Assim, o que há de primordial é que ao menos em princípio as atividades desenvolvidas pela DERSA não são tipicamente estatais.
+Cabe referir, por outro lado, que os precedentes do Supremo Tribunal Federal verdadeiramente orientam no sentido preconizado pelo recorrente, mas a questão da sua inaplicabilidade ao caso concretoreside na falta decomprovação de que sua atividade não se inseriria nos moldes anteriormente referidos por mim, os quais afastam a cogência dos precedentes aludidos e, portanto, o sistema de precatórios.
+Em sentido semelhante, mas relativo a outras concessionárias: AREsp 1.340.801/SP (Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2019, DJe 13/12/2019), REsp 1.742.915/SC (Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 06/09/2018, DJe 27/11/2018), REsp 1.736.823/SP (Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/08/2018, DJe 20/08/2018) e AREsp 1.230.018/GO (Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/04/2018, DJe 16/04/2018).
+Igualmente ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DESAPROPRIAÇÃO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. PESSOA JURÍDICA DE DIREITO PRIVADO. JUROS MORATÓRIOS. TERMO INICIAL. INAPLICABILIDADE DO ART. 15-B DO DECRETO-LEI N. 3.365/1941.
+1. A falta de indicação do dispositivo legal contrariado compromete a fundamentação do recurso, tornando-a deficiente. Inteligência da Súmula 284/STF.
+2. A regra do art. 15-B do Decreto-Lei n. 3.365/1941, pertinente aos juros de mora devidos em decorrência do atraso no efetivo pagamento da indenização, não é aplicável à pessoa jurídica de direito privado. Isso porque essas entidades não se sujeitam ao regime de precatório disciplinado no art. 100 da Constituição Federal. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp 1714102/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/04/2018)
+Esclareço, por fim, que a matéria especificamente concernente à DERSA incumbiu-me uma atenção mais detida, porque a procedência eventual das razões recursais resultaria em modificação de nossa jurisprudência usual, ao menos no concernente a essa empresa estatal.
+Em vista disso, acompanhei com interesse o desfecho daRcl 31.124/SP, rel. Ministro Gilmar Mendes, em que Sua Excelência houve inicialmente de inclinar-se, em decisão de tutela provisória, pela tese defendida pela aqui recorrente, daí a suspensão de semelhante acórdão prolatado pelo mesmo Tribunal "a quo".
+A reclamação, contudo, teve um desfecho anômalo, ante o teor da Súmula 734/STF, daí não se ter, em princípio, julgamento da Corte Suprema a respeito da causa, especificamente tratando da DERSA.
+Por outro lado, acerca da jurisprudência do Supremo Tribunal Federal é importante destacar ainda que o julgamento daADPF 387/PI, rel. Ministro Gilmar Mendes, parte de um caso específico sobre ente público aparentemente bastante diferente da DERSA para assentar a tese segundo a qual "éaplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial."
+Com efeito, na ação constitucional o Supremo Tribunal Federal analisou o caso da Empresa de Gestão de Recursos do Estado do Piauí S.A., que constitui sociedade de economia mista voltada à capacitação e à redistribuição de servidores para órgãos e entidades da Administração Pública estadual, ou seja, a sua finalidade prioritária é"gerenciar recursos humanos da Administração Pública estadual, na medida em que seu objeto social é capacitar, aperfeiçoar, absorver, redistribuir e ceder pessoal para órgãos e entidades da Administração Pública do Piauí."
+Assim, completa o Em. Ministro Gilmar Mendes (fls. 17/18 do acórdão da ADPF 378/PI), "nãoresta configurada atividade econômica exercida em regime de concorrência capaz de excluir a empresa do regime constitucional dos precatórios."
+Por outro lado, aqui faz-se importante mencionar outro trecho importante do voto de Sua Excelência que a meu sentir vai de encontroà tese recursal da DERSA, justamente com referência à possibilidade estatutária de distribuição de lucros não atrair a razão de decidir da ADPF 387/PI:
+Não estão sujeitas ao regime de precatório entidades jurídicas que atuam em mercado sujeito à concorrência, permitem a acumulação ou a distribuição de lucros. Essas estão submetidas ao regime de execução comum das empresas controladas pelo setor privado, matéria já decidida por este Tribunal em sede de repercussão geral (RE-RG 599.628, Rel. Min. Ayres Britto, DJe. 25.5.2011) - Destaques não são do original
+Tudo corrobora, pois, o acerto do julgamento da origem.
+Assim,conheço do agravo para negar provimento ao recurso especial.
+Sem honorários recursais, à míngua de semelhante estipulação na origem.
+É o voto.
