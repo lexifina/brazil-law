@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ISADORA FERREIRA DE ALMEIDA apontando como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+Depreende-se dos autos que a paciente responde à ação penal pela prática de delitos inscrito no art. 121, § 2º, incisos I, IV e V, do Código Penal (e-STJ fl. 32).
+Segundo a acusação, a paciente teria contratado outros agentes para ceifarem a vida de seu ex-companheiro em razão de débitos financeiros (e-STJ fl. 29).
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 20/26).
+Na presente impetração, alega a defesa que a denúncia é inepta por não descrever as circunstâncias em que teria ocorrido o ajuste entre a paciente e os homicidas em tese contratados por ela (e-STJ fl. 6).
+Aduz a presença de condições pessoais favoráveis da paciente e que ela é mãe de criança de 3 anos de idade (e-STJ fl. 16).
+Requer, liminarmente, que seja suspenso o trâmite da ação penal e que a paciente aguarde o julgamento do mérito do presente writ em liberdade e, no mérito, requer o reconhecimento da inépcia formal da denúncia (e-STJ fl. 16).
+Liminar indeferida às e-STJ fls. 84/85.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem, às e-STJ fls. 107/112.
+É, em síntese, o relatório.
+Busca a defesa a liberdade da paciente, ao argumento de que é mãe de uma criança menor de idade e que a denúncia contra ela oferecida é inepta.
+No que toca ao pedido de liberdade, esta Corte não pode conhecer do habeas corpus.
+Com efeito, o Tribunal a quo, no acórdão de e-STJ fls. 20/26, limitou-se à análise da aventada inépcia da denúncia, não se manifestando acerca do pleito libertário.
+Desse modo, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que: "revela- se inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2470)
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ .. 10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..
+(HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados.
+(EDcl no HC 230.583/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014)
+De outra banda, quanto ao pleito para trancamento da ação penal, ao argumento de que não há justa causa para a persecução, sem razão a defesa.
+A justa causa é prevista de forma expressa no Código de Processo Penal e constitui condição da ação punitiva, consubstanciada no lastro probatório mínimo, indicativo da autoria e da materialidade, o que foi demonstrado no processo.
+A profundidade cognitiva para o reconhecimento ou não da justa causa na persecução penal deve se dar de forma não exauriente, superficial, mediante fundada suspeita de materialidade do crime e de sua autoria.
+Com efeito, o trancamento da ação penal somente é permitido, em habeas corpus, quando evidenciada a atipicidade da conduta, causa excludente de punibilidade ou a ausência de lastro probatório mínimo.
+Trata-se, desse modo, de medida excepcional, uma vez que impede o regular andamento da ação penal proposta. Não compete ao Poder Judiciário paralisar o exercício regular da atividade policial, tampouco subtrair do Ministério Público, titular da ação pública, a opinio delicti.
+A análise da pretensão da defesa, a toda evidência, reclama o exame aprofundado dos dados coletados na ação penal originária, intento que não se ajusta aos estreitos limites do habeas corpus, conforme enfatiza reiterada jurisprudência desta Corte:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, HOMICÍDIO QUALIFICADO TENTADO E ROUBO CIRCUNSTANCIADO. TRANCAMENTO. ALEGAÇÃO DE NULIDADE EM RAZÃO DE OBTENÇÃO DE PROVA ILEGAL. PROVAS EXTRAÍDAS DE APARELHOS CELULARES DENTRO DO ESTABELECIMENTO PRISIONAL. PRINCÍPIO DA INTIMIDADE. EXCEPCIONALIDADE DA ADMINISTRAÇÃO PENITENCIÁRIA EM RAZÃO DA SEGURANÇA PÚBLICA, DISCIPLINA PRISIONAL E PRESERVAÇÃO DA ORDEM JURÍDICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. O trancamento de ação penal por meio da via eleita é providência reservada para casos excepcionais, nos quais é possível, de plano e sem necessidade de exame aprofundado do conjunto fático-probatório, verificar a ausência de justa causa, consubstanciada na inexistência de elementos indiciários demonstrativos da autoria e da materialidade do delito, na atipicidade da conduta e na presença de alguma causa excludente da punibilidade ou, ainda, no caso de inépcia da denúncia.
+2. No presente caso, consta dos autos a informação de que o aparelho celular, do qual se obtiveram as provas que embasaram a decisão que decretou a prisão cautelar dos recorrentes, foi apreendido dentro do estabelecimento prisional.
+ ..
+4. Recurso em habeas corpus improvido. (RHC 106.667/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 02/03/2020)
+HABEAS CORPUS. PROCESSUAL PENAL. FURTO MEDIANTE FRAUDE, RECEPTAÇÃO, CORRUPÇÃO ATIVA. TESES DE DESCLASSIFICAÇÃO DO DELITO E DE CRIME CONTINUADO. SUPRESSÃO DE INSTÂNCIA. TESE DE NEGATIVA DE AUTORIA E MATERIALIDADE. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PLEITO DE TRANCAMENTO DO PROCESSO-CRIME. AUSÊNCIA DE JUSTA CAUSA NÃO EVIDENCIADA DE PLANO. INÉPCIA DA DENÚNCIA NÃO VERIFICADA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NA HIPÓTESE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ALEGADA DESPROPORCIONALIDADE DA MEDIDA. IMPOSSIBILIDADE DE ANÁLISE. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+2. Reconhecer a ausência, ou não, de elementos de autoria e materialidade acarretaria, inevitavelmente, na hipótese, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+3. O trancamento da ação penal pela via do habeas corpus é medida de exceção, que só é admissível quando emerge dos autos, de forma inequívoca, a ausência de autoria e materialidade, a atipicidade da conduta ou a incidência de causa extintiva da punibilidade.
+4. A denúncia descreve as condutas delituosas do Acusado, relatando, em linhas gerais, os elementos indispensáveis para a demonstração da existência dos crimes em tese praticados, bem assim os indícios suficientes para a deflagração da persecução penal, de modo a permitir o amplo exercício do direito de defesa.
+5. Não se pode impedir o Estado, antecipadamente, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos - o que constitui hipótese de extrema excepcionalidade, não evidenciada na espécie. É prematuro, pois, determinar desde já o trancamento do processo-crime, sendo certo que, no curso da instrução processual, poderá a Defesa demonstrar a veracidade das alegações.
+ ..
+11. Ordem de habeas corpus parcialmente conhecida e, nessa extensão, denegada. (HC 510.678/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+O Tribunal de origem deixou bem registrado que, "todavia, analisando atentamente a exordial acusatória apresentada pelo Parquet (fls. 17/23), observo que esta foi elaborada de forma não só a descrever o fato delituoso com detalhes, como também dispõe de capítulo específico para individualização de cada uma das condutas imputadas aos respectivos supostos autores dos delitos" (e-STJ fl. 153).
+A denúncia oferecida pelo Parquet estadual (e-STJ fls. 28/34) descreve de forma clara a conduta, em tese, perpetrada pela paciente, dando-lhe total condição de exercício das garantias constitucionais do contraditório e da ampla defesa, porque foi lastreada em prova da materialidade e em indícios suficientes de autoria do delito.
+Embora não se admita a instauração de processos temerários e levianos ou despidos de qualquer substrato probatório, nesta fase processual deve ser privilegiado o princípio do in dubio pro societate (AgRg no RHC n. 73.161/MA, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 3/12/2019, DJe 13/12/2019). Assim, como não foi demonstrada a manifesta carência de justa causa para o exercício da ação penal, não há nenhuma ilegalidade ou teratologia a ser reparada na presente irresignação.
+Tal o contexto, conheço parcialmente do presente habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se. Intimem-se.
