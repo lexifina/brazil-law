@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por MARCO PROJETOS E CONSTRUÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL envolvendo, como suscitados, o Juízo de Direito da Vara de Direito Empresarial, Recuperação de Empresas e Falências de Porto Alegre/RS, onde se processa a recuperação judicial da suscitante, e o r. Juízo da 3ª Vara do Trabalho de Sete Lagoas/MG, onde tramitaReclamação Trabalhistamovida por MARCOS VINICIUS SILVERIO.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 36/38, o e. Presidente deferiu em parte o pedido liminar.
+As informações foram prestadas às fl. 58/60.
+É o relatório.
+Decisão.
+De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+1. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Em regra, uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005).
+Nessa linha, confiram-se: CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016;AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016; (RCD no CC 131.894/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/02/2014, DJe 31/03/2014.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo daVara de Direito Empresarial, Recuperação de Empresas e Falências de Porto Alegre/RS, onde se processa a recuperação judicial da suscitante.
+Publique-se. Intimem-se. Após, arquivem-se.
