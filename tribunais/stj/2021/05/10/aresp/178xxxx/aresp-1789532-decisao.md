@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por Silverio dos Santos Tarrataca Neto Raphael contra a decisão proferida pelo Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele manifestado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0000055-78.2018.8.26.0079 (fls. 300/310).
+Nas razões do especial, apontou a defesa contrariedade aos arts. 33, § 2º, b, e 171, § 5º, do Código Penal, sustentando, em suma, a retroatividade da representação da vítima no crime de estelionato, ante a promulgação da Lei n. 13.964/2019 (fls. 318/320), e a alteração do regime inicial de cumprimento de pena para o semiaberto, tendo em vista a redução da reprimenda imposta ao recorrente para 5 anos de reclusão (fls. 320/321).
+Apresentadas contrarrazões (fls. 328/343), o Tribunal local inadmitiu o recurso, por incidência da Súmula 283/STF (fls. 346/347).
+Contra essa decisão a defesa interpõe agravo (fls. 351/357). Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para negar seguimento ao recurso especial (fl. 378):
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CRIMINAL. ESTELIONATO MAJORADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAJORAÇÃO DA PENA-BASE. IMPOSIÇÃO DE REGIME PRISIONAL FECHADO. CABIMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ
+- Parecer é pelo conhecimento do agravo para negar seguimento ao recurso especial
+É o relatório.
+Deve o agravo ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Todavia, com razão o nobre parecerista: a irresignação não merece acolhimento.
+Em relação ao art. 171, § 5º, do Código Penal, consta do acórdão recorrido que, no caso em tela, houve manifestação de vontade da vítima no sentido de ver instaurada a ação penal, já que, conforme se depreende do boletim de ocorrência, ela compareceu ao Distrito Policial e solicitou a apuração dos fatos (fl. 302).
+Decidiu com acerto o Tribunal de origem.
+De fato, não há falar em ausência de condição de procedibilidade para a ação penal, pois, no caso em tela, a representação já consta dos autos, extraída do comparecimento da vítima e do seu depoimento em sede policial, circunstância apta a indicar a inequívoca manifestação de vontade de ver apurado o fato delituoso, sendo desnecessária representação formal.
+Seguindo esse entendimento: HC n. 610.201/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 8/4/2021; AgRg no AREsp n. 1.781.548/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/2/2021; AgRg no HC n. 435.751/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/9/2018; e AgRg no AREsp n. 1.350.443/MG, de minha relatoria, Sexta Turma, DJe 13/11/2018.
+Além disso, a Terceira Seção deste Superior Tribunal firmou a orientação de que a exigência de representação da vítima como pré-requisito para a ação penal por estelionato - introduzida pelo Pacote Anticrime (Lei n. 13.964/2019) - não pode ser aplicada retroativamente para beneficiar o réu nos processos que já estavam em curso.
+Eis a ementa do acórdão exarado no referido julgamento:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO. LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE. WRIT INDEFERIDO.
+1. A retroatividade da norma que previu a ação penal pública condicionada, como regra, no crime de estelionato, é desaconselhada por, ao menos, duas ordens de motivos.
+2. A primeira é de caráter processual e constitucional, pois o papel dos Tribunais Superiores, na estrutura do Judiciário brasileiro é o de estabelecer diretrizes aos demais Órgãos jurisdicionais. Nesse sentido, verifica-se que o STF, por ambas as turmas, já se manifestou no sentido da irretroatividade da lei que instituiu a condição de procedibilidade no delito previsto no art. 171 do CP.
+3. Em relação ao aspecto material, tem-se que a irretroatividade do art. 171, § 5º, do CP, decorre da própria mens legis, pois, mesmo podendo, o legislador previu apenas a condição de procedibilidade, nada dispondo sobre a condição de prosseguibilidade. Ademais, necessário ainda registrar a importância de se resguardar a segurança jurídica e o ato jurídico perfeito (art. 25 do CPP), quando já oferecida a denúncia.
+4. Não bastassem esses fundamentos, necessário registrar, ainda, prevalecer, tanto neste STJ quanto no STF, o entendimento "a representação, nos crimes de ação penal pública condicionada, não exige maiores formalidades, sendo suficiente a demonstração inequívoca de que a vítima tem interesse na persecução penal. Dessa forma, não há necessidade da existência nos autos de peça processual com esse título, sendo suficiente que a vítima ou seu representante legal leve o fato ao conhecimentos das autoridades." (AgRg no HC 435.751/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+6. Habeas corpus indeferido.
+(HC n. 610.201/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 8/4/2021)
+Extrai-se dos autos que a denúncia foi recebida em 2/5/2018, com sentença proferida em 30/10/2019.
+Logo, a tese deduzida no recurso especial destoa da orientação sedimentada nesta Corte.
+Outrossim, não prospera a pretensão de alteração do regime prisional.
+Não obstante o montante final da pena aplicada, verifica-se que o regime fechado foi estabelecido, no caso, com fundamento no art. 33, § 3º, do Código Penal, considerando a aferição desfavorável de circunstâncias judiciais pelo Tribunal na primeira fase da dosimetria (fl. 310), o que justifica o agravamento do regime prisional, consoante preceituam os arts. 33, §§ 2º e 3º, e 59 do Código Penal.
+Nessa linha: AgRg no HC n. 600.322/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2020; HC n. 490.747/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/4/2019; e AgRg no AREsp n. 1.127.758/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/8/2018, além de outros.
+Dessa forma, está o acórdão recorrido em harmonia com a jurisprudência desta Corte Superior, inexistindo ilegalidade a ser reparada, quanto ao ponto.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MAJORADO. ART. 171, § 4º, DO CP.ALEGAÇÃO DE VIOLAÇÃO DO ART. 171, § 5º, DO CP. RETROATIVIDADE. INVIABILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO. COMPARECIMENTO DA VÍTIMA E DEPOIMENTO EM SEDE POLICIAL. DESNECESSIDADE DE REPRESENTAÇÃO FORMAL. PRECEDENTES DESTA CORTE E DO STF. IMPOSIÇÃO DE REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
