@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO CONFIGURADO. LEI DE AÇÃO CIVIL PÚBLICA. HONORÁRIOS. REQUERIDO. NÃO CABIMENTO. PRINCÍPIO DA SIMETRIA. JURISPRUDÊNCIA DO STJ.
+1. Hipótese em que o recorrente opôs embargos de declaração na origem visando o pronunciamento a respeito da matéria ora sob exame e apontou a respectiva violação ao art. 1.022 do CPC/2015, tendo o Tribunal de origem, a despeito de não mencionar expressamente os dispositivos tidos por violados, examinado a matéria, o que configura, por derradeiro, o prequestionamento ficto (ex vi, art. 1.025 do CPC/2015).
+2. Na forma da jurisprudência desta Corte Superior de Justiça, inclusive pela Primeira Seção, a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública, em homenagem ao princípio da simetria. Precedentes: AgInt no REsp 1.762.012/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe 8/9/2020; AgInt no REsp 1.829.391/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/10/2020, DJe 9/10/2020.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que assim dispõe (e-STJ, fls. 443/445):
+De início, constata-se inexistir ofensa ao comando normativo inserto no art. 1.022 do CPC/2015, na medida em que o acórdão proferido na origem manifestou-se sobre todos os aspectos fático-jurídicos relevantes e inerentes à controvérsia instaurada, inclusive as teses argumentativas deduzidas pelas partes, consoante se extrai, notadamente, do acórdão proferido em embargos de declaração.
+Desnecessário, portanto, qualquer complemento à fundamentação assentada pela Corte regional, diante da ausência de máculas na prestação jurisdicional, razão pela qual não se cogita em violação do art. 1.022 do CPC/2015.Quanto à questão de mérito, entretanto, a irresignação merece prosperar.
+Dos autos, constata-se que o entendimento assentado pelo Tribunal de origem destoa da jurisprudência hodierna do STJ, inclusive pela Primeira Seção deste Tribunal, firmada no sentido de que a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública, em homenagem ao princípio da simetria.
+ ..
+Em suas razões, o agravante sustenta a matéria não estaria prequestionada, haja vista que o Tribunal de origem teria fundamentado a condenação nos honorários com base no CPC/2015, em nenhum momento citando a Lei de Ação Civil Pública.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO CONFIGURADO. LEI DE AÇÃO CIVIL PÚBLICA. HONORÁRIOS. REQUERIDO. NÃO CABIMENTO. PRINCÍPIO DA SIMETRIA. JURISPRUDÊNCIA DO STJ.
+1. Hipótese em que o recorrente opôs embargos de declaração na origem visando o pronunciamento a respeito da matéria ora sob exame e apontou a respectiva violação ao art. 1.022 do CPC/2015, tendo o Tribunal de origem, a despeito de não mencionar expressamente os dispositivos tidos por violados, examinado a matéria, o que configura, por derradeiro, o prequestionamento ficto (ex vi, art. 1.025 do CPC/2015).
+2. Na forma da jurisprudência desta Corte Superior de Justiça, inclusive pela Primeira Seção, a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública, em homenagem ao princípio da simetria. Precedentes: AgInt no REsp 1.762.012/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe 8/9/2020; AgInt no REsp 1.829.391/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/10/2020, DJe 9/10/2020.
+3. Agravo interno não provido.
+VOTO
+Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Consoante se depreende das razões desenvolvidas pelo Tribunal de origem, notadamente no acórdão proferido nos embargos de declaração, verifica-se que há pronunciamento expresso sobre o tema de honorários e ação civil pública.
+Frise-se, ainda, que a parte opôs os aclaratórios na origem visando debater justamente os dispositivos ora tidos por violados, quais sejam, os arts. 17 e 18 da Lei n. 7.347/1985.
+Assim sendo, e na forma da jurisprudência hodierna desta Corte Superior de Justiça, é forçoso que se conclua pela ocorrência do novel prequestionamento ficto insculpido no art. 1.025 do CPC/2015. A propósito: (AgInt no REsp 1.840.495/RS, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 29/6/2020, DJe 1º/7/2020).
+Quanto à questão de mérito, o entendimento assentado pelo Tribunal de origem destoa da jurisprudência hodierna do STJ, inclusive pela Primeira Seção deste Tribunal, firmada no sentido de que a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública, em homenagem ao princípio da simetria. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO FUX. LICENÇA-PRÊMIO NÃO USUFRUÍDA, MAS JÁ CONTADA EM DOBRO PARA COMPLETAR O TEMPO NECESSÁRIO PARA A OUTORGA DO ABONO DE PERMANÊNCIA. IMPOSSIBILIDADE DE CONVERSÃO EM PECÚNIA. ISENÇÃO DO ÔNUS DE SUCUMBÊNCIA PREVISTA NA LEI DE AÇÃO CIVIL PÚBLICA. PRECEDENTES. AGRAVO INTERNO DA ASDNER A QUE SE NEGA PROVIMENTO, CONFORME PARECER DO MINISTÉRIO PÚBLICO.
+1. Esta Corte, ao julgar o Recurso Especial n. 1.254.456/PE, submetido ao rito dos recursos repetitivos, firmou entendimento segundo o qual a contagem da prescrição quinquenal relativa à conversão em pecúnia de licença-prêmio não gozada e nem utilizada como lapso temporal para a aposentadoria, tem como termo inicial a data em que ocorreu a aposentadoria do servidor público.
+2. Não se pode admitir que os períodos de licença-prêmio não usufruídos sejam utilizados de forma duplicada, isto é, para completar o tempo necessário para perceber o abono permanência e, novamente, para obter conversão em pecúnia da licença-prêmio não gozada.
+3. A jurisprudência da Primeira Seção deste Superior Tribunal é firme no sentido de que, em favor da simetria, a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em Ação Civil Pública. Assim, a impossibilidade de condenação do Ministério Público ou da União em honorários advocatícios - salvo comprovada má-fé - impede serem beneficiados quando vencedores na Ação Civil Pública. Precedentes: AgInt no REsp. 1.531.504/CE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.9.2016; REsp. 1.329.607/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 2.9.2014; AgRg no AREsp. 21.466/RJ, Rel. Min. BENEDITO GONÇALVES, DJe 22.8.2013; REsp. 1.346.571/PR, Rel. Min. ELIANA CALMON, DJe 17.9.2013.7
+4. Agravo Interno da ASDNER a que se nega provimento.
+(AgInt no REsp 1.829.391/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 9/10/2020.)
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS SUCUMBENCIAIS. DESCABIMENTO. PRINCÍPIO DA SIMETRIA. OBSERVÂNCIA.
+1.Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A Corte Especial reiterou o entendimento dos órgãos fracionários do Superior Tribunal de Justiça, no sentido de que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n. 7.347/1985 (EAREsp 962.250/SP, Rel. Ministro OG FERNANDES, Corte Especial, julgado em 15/08/2018, DJe 21/08/2018).
+3. Agravo interno desprovido.
+(AgInt no REsp 1.762.012/RJ, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/8/2020, DJe 8/9/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
