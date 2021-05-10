@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado(fls. 155-156):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. CRIME PERMANENTE. PRESCINDIBILIDADE DE MANDADO DE BUSCA E APREENSÃO. CONVERSÃO DO FLAGRANTE EM PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS ENSEJADORES DA CUSTÓDIA CAUTELAR. GARANTIA DA ORDEM PÚBLICA. DECISÃO CONSTRITIVA DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM ADMITIDA E DENEGADA.
+1. Não há que se falar em ilegalidade da prisão em flagrante, pois o crime de tráfico de drogas consiste em delito permanente, tornando-se prescindível a prévia expedição de mandado de busca e apreensão para que os policiais adentrem ao local no qual ocorre a prática delituosa, como na espécie.
+2. Mantém-se a prisão preventiva do paciente, com fundamento na garantia da ordem pública, pela suposta prática do delito de tráfico de drogas, pois demonstrada a gravidade concreta do crime, evidenciada, sobretudo, pela quantidade de droga apreendida.
+3. Inviável a substituição do encarceramento por medida cautelar diversa da prisão quando imprescindível a custódia preventiva para o resguardo da ordem pública.
+4. Condições pessoais favoráveis, por si só, não autorizam a revogação da prisão preventiva quando presentes os seus requisitos.
+5. Ordem admitida e denegada.
+Consta dos autos que opaciente teve decretada a prisão em flagrante,posteriormente convertida em preventiva, pela prática do delito previsto no art.33, caput, da Lei 11.343/06.
+Alega a defesa que o paciente sofre constrangimento ilegal ante a ilegalidade da prisão,preenchendotodos os requisitos para a revogação da prisão preventiva.
+Destaca que houve indevida violação de domicílio e que a prisão decorreu de denúncia anônima desacompanhada de diligências preliminares. Assim, consideranulaa apreensão da droga após a invasão desautorizada do domicílio réu, fundada em uma DENÚNCIA ANÔNIMA.
+Requer, liminarmente e no mérito, seja relaxada a prisão do paciente ou, subsidiariamente, seja revogada a prisão com a imposição de monitoramentoeletrônico.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento. Em caso contrário,pela denegação da ordem.
+No tocante à alegada violação de domicílio, a Corte de origem assim decidiu (fl. 159):
+Vale ressaltar que, ao contrário do que alega a Defesa, não há qualquer ilegalidade na prisão em flagrante do paciente, pois é sabido que o crime de tráfico de drogas consiste em delito permanente, tornando-se prescindível a prévia expedição de mandado de busca e apreensão para que os policiais adentrem ao local no qual ocorre a prática delituosa, como na espécie.
+ ..
+Logo, não há que se falar em ilegalidade na prisão em flagrante do acusado  ..
+Com efeito, consoante destacado pelo Ministério Público Federal às fls. 203-204, a prisão em flagrante não encerra ilegalidade, pois foi precedida de diligências:
+13. A prisão em flagrante não decorreu unicamente de delação anônima, mas também - e principalmente - das diligências policiais supervenientes, conforme se pode observar da decisão de primeiro grau de fls. 66/67:
+"Consta do Auto de Prisão em Flagrante nº 154/2021 - 23ª DP (ID nº 85381689) que policiais militares, em patrulhamento de rotina, foram abordados por popular no Setor Habitacional Sol Nascente, o qual relatou acerca do tráfico de drogas realizado pelo indivíduo de alcunha "Guaxanim" e indicou o endereço no qual tal pessoa guardava cavalos e o entorpecente, razão pela qual a guarnição se deslocou para o endereço indicado. No local, encontraram uma bicicleta jogada na mata e ao seu lado 2 (duas) facas com consideráveis resquícios de maconha. Relataram que estavam no lote quando o paciente chegou e, ao vê-los, começou a voltar pelo caminho que tinha acabado de vir, motivo pelo qual foi abordado. Durante a abordagem, o paciente disse ser o proprietário da bicicleta e possuidor do lote, no qual guardava seus cavalos.
+Na sequência, os milicianos entraram no terreno e localizaram, em um pequeno "barraco", 2 (dois) tabletes de maconha. Indagado, o paciente negou ser proprietário das facas e da droga. Na delegacia, os policias militares foraminformados sobre a existência de denúncia anônima envolvendo o paciente como suposto traficante de droga no referido local."
+ ..
+16. Nesse cenário, não há cogitar invalidade da ação policial, mas sim invasão domiciliar autorizada por situação de flagrante delito.
+17. A Constituição Federal, ao alçar à garantia fundamental a inviolabilidade do domicílio, sem consentimento do morador, excepciona-a no caso de flagrante delito, dentre outras hipóteses, a teor do art. 5º, inciso XI, da CF/88.
+De se afastar, portanto, a alegação de violação de domicílio.
+Nomais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+No tocante à prisão preventiva, adecisão que a decretou, transcrita às fls. 66, foi assim fundamentada:
+ ..
+Conforme disposto no art. 312 do CPP, "a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado".
+Ao autuado foi imputada a prática, em tese, do crime previsto no art. 33 da Lei nº 11.343/2006. A existência do crime está comprovada no auto de prisão em flagrante e existem indícios suficientes de autoria, pois as drogas foram encontradas residência do custodiado.
+No lote ocupado por Wanderson, foram encontrados quase 2kg de maconha. Além disso, a testemunha o reconheceu como traficante local.
+As medidas previstas no art. 319 do CPP revelam-se insuficientes para conter as investidas criminosas pelo autuado, mesmo porque já responde a outros processos. Portanto, a segregação se mostra necessária para garantia da ordem pública, a fim de evitar a provável reiteração criminosa.
+Ante o exposto, presentes todos os requisitos ensejadores da custódia cautelar, converto em preventiva a prisão em flagrante de WANDERSON COUTINHO SILVA, nascido aos 21/04/1984, filho de GERALDO LOURENÇO DA SILVA e ELIZA DE FARIA COUTINHO SILVA, com fundamento nos arts. 282, § 6º, 310, inciso II, 312 e 313, todos do CPP. CONFIRO À PRESENTE DECISÃO FORÇA DE MANDADO DE PRISÃO e de intimação. (..)
+Como se vê, consta da decisão de prisão fundamento que se consideraválido, evidenciado na quantidade apreendida de entorpecentes na residência do paciente - aproximadamente 2 quilos de maconha -, além de reconhecimento por parte de testemunhas de que ele atuava como traficante local.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
