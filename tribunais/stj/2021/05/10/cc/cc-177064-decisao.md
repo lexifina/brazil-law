@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado por EMPREZA GESTÃO DE PESSOAS E SERVICOS LTDA., em recuperação judicial, em que aponta como suscitados o JUÍZO DE DIREITO DA 25ª VARA CÍVEL DE GOIÂNIA (GO) e o JUÍZO DA 39ª VARA DO TRABALHO DE SALVADOR (BA).
+Narrou, em resumo, que em 18/9/2019, foi deferido o processamento de seu plano de recuperação judicial pelo Juízo de Direito da 25ª Vara Cível de Goiânia (GO) nos autos da Recuperação Judicial n. 5354818.26.2018.8.09.0051.
+Alegou que a despeito do deferimento de sua recuperação judicial, o Juízo da 39ª Vara do Trabalho de Salvador (BA) determinou o prosseguimento da execução na Reclamação Trabalhista n. 0000699-78.2018.5.05.0039 proposta por Davisson de Alcântara Tosta e Luciana Teles da Silva.
+Defendeu a competência do Juízo da recuperação judicial para deliberar sobre seu patrimônio e autorizar o pagamento de créditos inegavelmente concursais.
+Requereuliminarmente que sejam "imediatamente suspensos os efeitos da r. decisão proferida pelo d. Juízo suscitado da 39ª Vara do Trabalho de Salvador - BA, nos autos da reclamação trabalhista nº 0000699-78.2018.5.05.0039 promovida por Davisson De Alcantara Tosta E Luciana Teles Da Silva, desfeito o mandado de bloqueio e avaliação dos bens da suscitante, bem como todas as determinações de bloqueios nas contas ou, subsidiariamente, seja transferido para conta vinculada ao MM. Juízo da 25ª Vara Cível da Comarca de Goiânia/GO" (fl. 36)
+Às fls. 154/157, o pedido liminar foi parcialmente deferido.
+Prestadas informações (fls. 161/166), o MPF ofertou parecer pelo não conhecimento do conflito de competência. (fls. 173/175)
+É o relatório.
+Decisão.
+O presente conflito de competência não merece conhecimento.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+O caso dos autos, todavia, não se amolda às hipóteses previstas no referido dispositivo legal, pois, consoante informações prestadas pelo r. juízo da 39ª Vara do Trabalho de Salvador/BA, no sentido de que "(..)este Juízo revoga a determinação de atos executórios em face da EMPREZA GESTÃO DE PESSOAS E SERVIÇO LTDA - EM RECUPERAÇÃO JUDICIAL em respeito e acatamento à decisão proferida no Conflito de Competência objeto dessas informações, bem assim porque seria adotado exatamente o mesmo entendimento, acaso este Juízo tivesse tido tempo hábil para apreciar e decidir acerca da única manifestação da empresa acerca do tema, ocorrida no último dia 14/01/2021, desde 11/03/2019 (quando noticiou a recuperação).Por derradeiro, determino que nos autos principais o valor bloqueado seja transferido à disposição da 25ª Vara Cível de Goiânia - GO, mediante conta judicial ao processo nº 5354818-26.2018.8.09.0051, designado liminarmente como competente a decidir sobre o destino dos ativos financeiros." (fls. 161/166)
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ não conheço do presente conflito de competência.
+Fica, pois, revogada a liminar de fls. 154/157.
+Publique-se. Intimem-se.
