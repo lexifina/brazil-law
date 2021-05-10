@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de LUIS HENRIQUE SANTOS ARAUJO, contra acórdão doTribunal deJustiça doEstado deSanta Catarina (HC n.5006118-29.2021.8.24.0000).
+Opaciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 32-36)por suposta prática do delito descrito nos arts. 33 e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, tendo em vista a gravidade concreta do delito;na periculosidade do agente, por haver indícios de que integre organização criminosa;e norisco de reiteração delitiva.
+Impetrado writoriginário, a ordem foi denegada. O Tribunal de origem manteve a prisão preventiva com base nos mesmos fundamentos.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos ensejadores da segregaçãocautelar.
+Ressalta que o paciente possui residência fixa, ocupação lícita, bons antecedentes e é primário.
+Requer a concessão da ordem a fim de que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor paciente, ainda quecom a imposição de medidas cautelares alternativas.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 52-53.
+As informações foram prestadas às fls. 58-89 e 90-94.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 98-104).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 34-35):
+Não obstante a pequena quantidade de drogas apreendida em posse de um dos autuados, extrai-se das informações preliminares que Luis Henrique, em tese, é integrante da organização criminosa denominada PGC e comanda um esquema de venda de drogas em associação com seu padrasto Andreson Jesus, utilizando duas distribuidoras de bebidas como pontos de venda de entorpecentes.
+Andreson Jesus, em tese, mantém dois pontos de venda de drogas que administra com o enteado Luis Henrique.
+Ora, tratando-se de pessoas apontadas como supostos integrantes da facção criminosa denominada "PGC", maior facção delituosa do Estado de Santa Catarina, que vem assolando a nossa sociedade e as forças de segurança pública de longa data, é certo que seus estados de liberdade geram perigo concreto à ordem pública.
+ ..
+Por conseguinte, as medidas cautelares listadas no artigo 319 do CPP mostram-se totalmente inócuas para tutelar, de forma efetiva, referido valor jurídico, que, na espécie, merece preponderar sobre a liberdade do autuado, forte no princípio da vedação da proteção deficiente.
+A propósito, assim se manifestou o Tribunal a quo (fl. 45):
+2.3. Como mencionado na decisão, de acordo com os relatos policiais, já havia informações pretéritas quanto à traficância exercida na localidade em que o paciente e os demais denunciados residem e em seus comércios, demonstrando que em tese, todos realizavam a mercancia ilícita de forma reiterada e já conhecida por usuários e moradores da região, além de estarem sendo investigados pela suposta prática do grave crime de homicídio tentado, cuja motivação ainda não restou suficientemente esclarecida pela autoridade policial, não se afastando a hipótese de vinculação ao tráfico e organização criminosa. Ainda, os policiais ainda mencionaram informações acerca de um suposto envolvimento do paciente com o Primeiro Grupo da Capital.
+Tais fatos são, sim, indicativos de risco concreto de reiteração criminosa e da necessidade de garantir a ordem pública e a aplicação da lei penal, razão pela qual se entende preenchidos os requisitos elencados no art. 312 do CPP.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, no caso em exame, como se vê dos trechos acima transcritos, as circunstâncias da prisão em flagrante revelam a periculosidade do agente, tendo em vista seu provável envolvimento com organização criminosa (PGC), o que, mais uma vez, enseja a manutenção da segregação cautelar como forma de conter a reiteração delitiva (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Ainda, conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Por fim, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
