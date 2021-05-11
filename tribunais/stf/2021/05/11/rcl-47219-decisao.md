@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional proposta em favor de Leandro Ricardo Cordasso, em face do o Juízo da 32ª Vara Criminal de São Paulo, que, nos autos da ação penal n. 1517959-41.2019.8.26.0228, em razão de acordão proferido no RHC n. 194.450/SP, teria incidido em bis in idem, violando o Tema de Repercussão Geral n. 712 e os Enunciados 716 e 719 da Súmula do Supremo Tribunal Federal.
+    Na petição inicial, sustenta violação ao Tema 712/STF que veda a utilização da quantidade da droga como fundamento para exasperar a pena em duas fases da dosimetria; violação à Súmula 719/STF que veda imposição de regime mais gravoso amparado em fundamentação inidônea, baseado na gravidade abstrata do delito; e violação à Súmula 716/STF que prevê possibilidade de progressão de regime durante a prisão cautelar.
+    Afirma que foi condenado pela prática do crime do art. 33, caput, da Lei 11.343/2006, à pena de 7 anos e 6 meses de reclusão, em regime inicial fechado, por transportar 10,97 kg de cocaína.
+    Argumenta que a pena-base teria sido fixada em patamar excessivamente alto (acréscimo de 2 anos e 6 meses ao mínimo legal de 5 anos) com base unicamente na quantidade de droga, repudiando também a ausência de fundamentação circunstanciada, que o reclamante faria jus à causa de diminuição de pena do § 4º do art. 33, pois a grande quantidade de droga não impediria a concessão do benefício – acrescem ainda que a utilização desta mesma circunstância para agravar a pena e para negar o tráfico privilegiado consistiria vedado bis in idem e que a imposição do regime fechado decorreria unicamente do caráter hediondo do delito.
+    Acrescenta que “o RHC nº 194.450/SP perante esse STF, oportunidade em que o Min. Gilmar Mendes deu parcial provimento ao recurso a fim de determinar que o Juízo de origem aplicasse a minorante do tráfico privilegiado e readequasse o regime prisional, bem como avaliasse a possibilidade de substituir a pena privativa de liberdade por restritiva de direitos (anexo 4) 24. Remetidos os autos ao Juízo de primeiro grau, a magistrada da 32ª Vara Criminal de São Paulo, ao prolatar nova sentença, incorreu novamente em ilegalidade, desrespeitando a jurisprudência consolidada desse e. Supremo Tribunal Federal e a decisão de Sua Exc.ª. Min. Gilmar Mendes.” (eDOC 1, p. 7).
+    Requer, portanto, seja readequada a dosimetria da pena, abrandado o regime prisional e concedida a progressão de regime ao reclamante ou, ainda, o livramento condicional. (eDOC 1).
+    Por entender que o processo já possui condições de julgamento, dispenso a vista à Procuradoria-Geral da República, nos termos do artigo 52, parágrafo único, do RISTF.
+    É o relatório.
+    Decido.
+    Inicialmente, registre-se que a reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º). Confira-se:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…)”.
+    No caso, verifico que as alegações da parte já foram inteiramente decididas nas duas decisões proferidas no RHC n. 194450.
+    Na primeira decisão, dei parcial provimento ao recurso e concedi a ordem de habeas corpus para que o Juízo de origem aplicasse o redutor do artigo 33, § 4º, da Lei 11.343/2006, na fração que recomendarem as circunstâncias do fato, ajustando, ainda, o regime prisional e analisando possível substituição da pena privativa de liberdade por restritivas de direito, nos autos da Ação Penal 1517959-41.2019.8.26.0228.
+    Não satisfeito, o reclamante apresentou petição, noticiando suposto descumprimento, pela instância de origem, de decisão concessiva da ordem de habeas corpus. Esta petição contém o mesmo pedido desta reclamação. Reitero, portanto, termos do decisium:
+    “Não assiste razão ao recorrente.
+    A decisão de eDOC 10 determinou a consideração, na fixação da pena pelo delito por que condenado o recorrente, da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006 – o que foi cumprido. O ajuste do regime prisional e a possível substituição da pena privativa seriam consequências da nova dosimetria levada a efeito, não determinações independentes.
+    Como a nova pena – ainda que considerada a detração do tempo de prisão preventiva, invocada pelo paciente – não veio aquém do marco legal de quatro anos, relevante para a determinação do regime e essencial para a substituição por tipo diverso de reprimenda, não se tornou necessário ao juízo de origem abordar tais temas em sua decisão. Não se verifica, pois, descumprimento da ordem.
+    Quanto à progressão de regime durante a prisão preventiva, é de se ver que o decurso do tempo não é o único requisito para sua concessão. Tal pedido, que não integra a controvérsia deste recurso em habeas corpus, deve ser conhecido pelo juízo de origem.”
+    Ante o exposto, nego seguimento à reclamação.
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
