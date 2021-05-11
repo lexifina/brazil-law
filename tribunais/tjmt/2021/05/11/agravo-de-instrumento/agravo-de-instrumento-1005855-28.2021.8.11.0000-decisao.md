@@ -1,0 +1,30 @@
+.
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1005855-28.2021.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto por VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA. em virtude da decisão proferida pelo Juiz da 1.a Vara Cível da Comarca de Barra do Garças que, nos autos a Ação de Indenização por Danos Materiais e Morais n.o 1001484-09.2021.8.11.0004, deferiu parcialmente o pedido liminar vindicado por MAURO LUIZ ZAMPIERI, nos seguintes termos:
+“Diante do exposto, consubstanciado na fundamentação supra DEFIRO PARCIALMENTE a Tutela de Urgência, ora pleiteada e DETERMINO à Requerida VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA, que forneça à parte Autora, MAURO LUIZ ZAMPIERI, um veículo reserva com as mesmas características e especificações relativas à segurança e conforto do originalmente adquirido, com taxa e impostos quitados ou, preferencialmente, arque com os custos integrais da locação do veículo, com as mesmas características que já se encontra em poder do Autor, no prazo máximo de 05 (CINCO) dias, a fim de que possa ser utilizado pelo Requerente e sua família sem sobressaltos e com a tranquilidade e segurança que se espera de um veículo novo com tais especificidades, até o julgamento final do pleito. FIXO, desde já, multa no valor de R$ 1.000,00 (mil reais) por dia de descumprimento desta decisão, com fulcro no art. 139, IV, do CPC/2015. (ID 82640468)
+Inconformada, a Recorrente almeja a reforma da decisão, ao argumento de que “o juízo a quo atendeu ao pleito do Agravado embasando a decisão em documentos dos autos que não condizem com a realidade”. (Sic)
+Nas razões recursais, sustenta que em 18/01/2021 o Agravado procurou a concessionária Saga Goiânia em virtude de falha na ignição do veículo descrito na inicial.
+Segue aduzindo que em 10/02/2021, após análises e troca de algumas peças, o carro foi devolvido ao Agravado. Contudo, na mesma data o veículo apresentou a mesma anomalia, o que o levou o Recorrido a retornar à concessionaria e entregá-lo para novos reparos.
+Afirma que durante o período de ajustes, forneceu ao Agravado carro reserva, contudo, este “procedeu com a locação de veículo automotor às suas expensas, visto que o fornecido pela concessionária não atendia as suas necessidades.”
+Salienta que, inobstante o Agravado alegar o contrário, assinou em 27/01/2021 prorrogação de prazo para reparo do veículo até o dia 27/02/2021.
+Na sequencia, defende que em 10/03/2021 notificou o Recorrido acerca da finalização do reparo, ressaltando que “após correções necessárias encontra-se em condições normais de utilização desde 26/02/2021, por gentileza, providenciar a retirada”, entretanto o autor, ora Recorrido se recursou a retirá-lo. (ID 82640466)
+Assim, argumenta que o fato de o veículo estar reparado alicerça a tese de ausência de risco de dano, bem como demonstra a desnecessidade de arcar com as custas de veículo reserva alugado.
+Por fim, aduz que o valor das astreintes fixadas na decisão é desproporcional e enseja enriquecimento ilícito da parte Recorrida.
+Com esses argumentos, pugna pela concessão do efeito suspensivo. No mérito, requer o provimento do recurso, a fim de que o decisum seja revogado.
+É o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, inciso I, do Código de Processo Civil, bem como foi instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do mesmo códex.
+É cediço que o artigo 1.019 inciso I, do CPC, dispõe acerca da possibilidade de o Relator conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Nesse contexto, é vedado nos estreitos limites deste Instrumental, o exame de questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os pressupostos para o deferimento da medida, quais sejam, a probabilidade do direito invocado e o perigo de dano (art. 300 do CPC).
+Ao aduzir sobre a necessidade do efeito suspensivo, incumbe à parte demonstrar de forma explícita os requisitos, bem como comprovar tais alegações com documentos.
+Da análise do conteúdo do instrumental, em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, entendo pela demonstração dos pressupostos autorizadores da medida liminar.
+Com efeito, é possível depreender das provas carreadas aos autos, especialmente do ID 82640466-Pág.11, que o veículo objeto da lide está “pronto” e disponível para retirada na concessionária desde 26/02/2021.
+Não bastasse, nota-se que o Agravado assinou “AUTORIZAÇÃO PARA REPARO VEÍCULO AUTOMOTOR”, anuindo com a prorrogação do prazo dos reparos para a data de 27/02/2021. (ID 82640466-Pág.07)
+Nesse cenário, ao menos neste olhar inicial, dessume-se que as razões da Recorrente são verossímeis, pois neste momento não subsiste privação à utilização do veículo pela parte autora, ora Agravada, que mesmo notificada acerca da finalização da manutenção, optou por não retirá-lo e permanecer com o carro reserva alugado. Tal renúncia robustece a ausência de grave prejuízo em não ter o bem móvel em sua posse direta.
+De igual modo, o perigo da demora é notório, vez que caso a decisão seja mantida a empresa Agravante deverá arcar “os custos integrais da locação do veículo, com as mesmas características que já se encontra em poder do Autor”, o que se mostra, neste olhar perfunctório, desarrazoado.
+Dessa forma, presentes os requisitos necessários para concessão da liminar recursal, defiro o pedido de efeito suspensivo para suspender os efeitos da tutela concedida pelo magistrado “a quo”.
+Comunique-se ao Juiz da causa.
+Intime-se a parte Agravada para, querendo, apresentar contrarrazões no prazo legal.
+Cuiabá, 11 de maio de 2021.-
+Des.a Marilsen Andrade Addário
+Relatora em substituição legal
