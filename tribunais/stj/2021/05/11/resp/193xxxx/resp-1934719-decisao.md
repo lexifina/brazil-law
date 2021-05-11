@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINST DE PREV ASSIST SOC SERV PUBL DO MUNIC PETROPOLIS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ fl. 266):
+Apelação - Ação objetivando a condenação dos réus a procederem a revisão dos proventos de aposentadoria do autor, a fim de ser incluído na base de cálculo o percentual correspondente ao adicional de insalubridade - Sentença de improcedência.
+É cediço que a verba relacionada ao adicional de insalubridade, dada sua natureza transitória e pro labore faciendo, não deve integrar o benefício previdenciário.
+No entanto, restou comprovada a incidência do desconto da referida verba durante todo o período laboral do demandante, para o instituto de previdência municipal, razão pela qual, visando afastar o enriquecimento sem causa do apelado, cabível a revisão dos proventos de aposentadoria do autor, para que haja a inclusão na base de cálculo do percentual referente ao adicional de insalubridade, nos termos do artigo 40, parágrafo 3º da Constituição Federal. Reforma da Sentença - Provimento da Apelação.
+Nas suas razões, a parte recorrente aponta,além de divergência jurisprudencial, violação doart. 1º,X, da Lei n.9.717/1998, sustentando a impossibilidade deincorporaçãodoadicional de insalubridadeaosproventos de aposentadoria.
+Contrarrazões às e-STJ fls. 350/361.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 363/367.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito,entendeuo aresto recorrido que " .. a verba relacionada ao adicional de insalubridade dada sua natureza transitória e pro labore faciendonão deve integrar o benefício previdenciário",rematandoque, "todavia, na hipótese em análise, restou comprovada a incidência do desconto da referida verba, durante todo o período laboral do demandante, para o instituto de previdência municipal, razão pela qual, visando afastar o enriquecimento sem causa do apelado, cabível a revisão dos proventos de aposentadoria do autor, para que haja a inclusão na base de cálculo do percentual referente ao adicional de insalubridade, nos termos do art.40, parágrafo 3º, da Constituição Federal"(e-STJ fl. 268).
+As razões do recurso especial, contudo, deixaram de impugnar a aludida fundamentação adotada pela Corte regional, tornando inviável o conhecimento do apelo nobre, nos termos daSúmula284 do STF.
+Ademais,verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
