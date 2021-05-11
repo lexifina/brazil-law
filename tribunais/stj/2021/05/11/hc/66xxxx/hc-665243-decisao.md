@@ -1,0 +1,11 @@
+DECISÃO
+FABIO LUIS SERRAO DA SILVAalega sofrer constrangimento ilegal diante de decisãoproferidapor Desembargador doTribunal de Justiça do Estado de São Paulo,queindeferiu a liminar no HC n. 2096587-21.2021.8.26.0000.
+Requer, liminarmente e no mérito, a expedição de contramandado de prisão, ao argumento de que o período de constrição preventiva já lhe garante direito ao indulto natalino.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"),não compete a este Superior Tribunal conhecer de habeas corpus impetradocontra decisão denegatória de liminar, por desembargador, antes de préviopronunciamento do órgão colegiado de segundo grau, salvo se evidenciada,sem necessidade de exame mais vertical, a manifesta violação ilegal dodireito à liberdade do paciente, o que, na espécie, não verifico.
+Ao indeferir a liminar, o Desembargador relator consignou que a defesa não comprovou haver suscitado manifestação do Juízo singular sobre o tema. Confira-se (fl. 62,grifei):
+Verifica-se que não há notícias de que a questão tenha sido analisada pelo Juízo de primeiro grau. A análise originária por este Tribunal de questões não enfrentadas no primeiro grau, importaria em inadmissível supressão de instância e ofensa ao princípio do duplo grau de jurisdição.
+Demais disso, o habeas corpus, dado seu rito especial e sumaríssimo, não constitui o meio adequado para se requerer benefícios prisionais, pois, é sabido, demandam o preenchimento de requisitos de ordem objetiva e subjetiva, cuja constatação não tem como ser realizada nesta estreita via. Dessa forma, inexiste coação ilegal a ser sanada de plano.
+Pela leitura do excerto transcrito, nota-se que a matéria que lastreia o pedido liminar nem sequer foi tratada no exame do pedido de urgência, diante da aparente supressão de instância.
+Logo, uma vez que não está evidenciada, de pronto, ilegalidade manifestaou mácula no decisum monocrático, não se justifica a intervenção imediatae prematura desta Corte Superior de Justiça. Ressalto, todavia, que aanálise feita nesta oportunidade não preclui o exame mais acurado damatéria, em eventual impetração que venha a ser aforada, já a partir dadecisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
