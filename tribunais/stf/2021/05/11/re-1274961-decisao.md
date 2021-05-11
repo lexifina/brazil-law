@@ -1,0 +1,24 @@
+D E C I S Ã O
+    Reputo correto o acórdão recorrido.
+    Trata-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. JULGAMENTO SIMULTÂNEO. AGRAVO INTERNO PREJUDICADO EM RAZÃO DO JULGAMENTO DO MÉRITO DO AGRAVO DE INSTRUMENTO. EXECUÇÃO. PRECATÓRIO. INDENIZAÇÃO POR INVALIDEZ. NATUREZA ALIMENTAR. ARTIGO 100, § 1º, DA CONSTITUIÇÃO FEDERAL. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+    1. Tendo em vista que o acórdão que julga o agravo de instrumento tem uma cognição mais ampla do que o simples exame do pedido de concessão de efeito suspensivo, julga-se prejudicado o agravo interno, mormente porque o agravo de instrumento encontra-se apto a julgamento. Agravo interno prejudicado.
+    2. Entende-se por débitos de natureza alimentar aqueles decorrentes de salários, vencimentos, proventos, pensões e suas complementações, benefícios previdenciários e indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado.
+    3. Analisando o artigo 100, § 1º, da Constituição Federal, verifica-se que há previsão expressa de que as indenizações por morte ou invalidez fundadas em responsabilidade civil serão consideradas como créditos preferenciais, ante a natureza alimentar. Na espécie, verifica-se que a Constituição Federal não fez qualquer distinção quanto à indenização por dano moral, dando possibilidade de preferência no pagamento do precatório.
+    4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.”
+    O Distrito Federal alega em suas razões recursais que “a Constituição Cidadã atribui às indenizações decorrentes de morte ou por invalidez, fundadas em responsabilidade civil a natureza de crédito alimentar. Isso não significa, entretanto, que a indenização por danos morais esteja incluída em tal conceituação”.
+    A d. Procuradoria Geral da República ofereceu parecer em que opinou pelo não conhecimento do recurso extraordinário.
+    É o relatório. Decido.
+    A discussão travada nesses autos é saber se a indenização decorrente de dano moral fundada em responsabilidade civil pode ser paga com preferência nos termos do artigo 100, § 1º, da Constituição Federal.
+    Pontuo, a respeito da controvérsia versada no presente recurso, que, quantos aos créditos de natureza alimentar, a Constituição Federal estabelece apenas uma única condicionante para que tais créditos componham a lista de prioridade para a expedição dos precatórios: é a decorrência do dano e não o seu tipo, se material ou moral, que define a prioridade do crédito em discussão.
+    É que, segundo o parágrafo primeiro do art. 100, o débito de natureza alimentar decorrente de dano por morte ou por invalidez deve, necessariamente, ser aquele proveniente de ação de responsabilidade civil transitada em julgado.
+    Logo, é nítida a vontade do poder constituinte em priorizar os credores ao recebimento de indenização resultante de responsabilidade civil por parte do estado para recomposição do dano, seja ele material ou moral, sem distinção alguma.
+    Ademais, relevante a argumentação apresentada pelo Subprocurador-Geral da República Paulo Gustavo Gonet Branco, confirmando a ausência de qualquer diferenciação acerca do dano moral e material por parte do Poder Constituinte originário: “A norma da Constituição da República particulariza os créditos que enumera, referidos a situações elementares de resguardo da dignidade da pessoa. O próprio constituinte cuida de explicitar que participam dessa índole os créditos decorrentes de responsabilidade civil ligada à invalidez da vítima, sem distinguir, até por falta de razão que o impusesse, a natureza moral ou material do dano. A decisão do Tribunal de Justiça, assim, convém ao disposto no diploma constitucional“ (com meus grifos).
+    Honorários advocatícios recursais
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior como na espécie dos autos a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp-1.341.886/SP, DJ de 30.5.2019; EDcl no REsp-1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp-1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c §1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
