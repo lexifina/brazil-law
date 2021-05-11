@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar em habeas corpus impetrado em benefício de RENATO APARECIDO DOS SANTOS, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, POSTO QUE HÁ CONTRADIÇÃO NAS VERSÕES OFERTADAS PELAS TESTEMUNHAS. SEGUNDO ARGUMENTO DE QUE ELE POSSUI OS REQUISITOS NECESSÁRIOS PARA A RECEPÇÃO DA LIBERDADE PROVISÓRIA. TERCEIRO DE QUE NÃO TINHA CIÊNCIA DOPROCESSO. QUARTO DE QUE FOI VIOLADO O PRINCÍPIODAAMPLADEFESA,VEZQUEASTESTEMUNHAS FORAM OUVIDAS SEM A SUAPRESENÇA. QUINTODEQUEA DENÚNCIA É INEPTA. IMPETRAÇÃO QUE APONTA A PRÁTICA DOCRIME PREVISTO NO ART. 157, § 3º,IN FINE, DO CP. NATUREZA GRAVE DO DELITO QUE, POR SI SÓ, DÁ CONTA DA CONVENIÊNCIA DAMANTENÇA DO SUPLICANTE NO CÁRCERE. INTELIGÊNCIA DO ART. 324, IV, DO CPP. CASOEMQUEEVENTUAISIRREGULARIDADES,AINDAQUEEXISTENTESNOINQUÉRITO,NÃOSEPRESTAM PARA CONTAMINAR A AÇÃOPENAL, VEZ QUE ESSE SE CONSTITUI EMPEÇAINFORMATIVA,DENATUREZAADMINISTRATIVA E DISPENSÁVEL. EXORDIAL ACUSATÓRIA QUE, DEMAIS, NÃOÉ INEPTA.PARTE DA ARGUMENTAÇÃO QUE ENSEJAABORDAGEMMERITÓRIAE QUE,PORTANTO, REFOGE AO ESTREITO CAMPODE ATUAÇÃO DOWRIT. Ordem conhecida apenas em parte, e, nessa parte, denegada" (fls. 45-46).
+Postula o impetrante em síntese, a revogação da prisão preventiva decretada em desfavor do paciente em razão do excesso de prazo para formação da culpa e, ainda, tendo em vista a pandemia da Covid-19 e da Recomendação n. 62/2020.
+É o relatório.
+Decido.
+Verifica-se no v. acórdão impugnado que a questão aqui tratada não foi analisada pelo eg. Tribunal de origem.Desta forma, se o eg. Tribunal a quo não se manifestou acerca da quaestio ventilada na presente impetração, fica impedida esta Corte de proceder à sua análise, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a Terceira Seção desta eg. Corte de Justiça, in verbis:
+"PROCESSUAL PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. SUSPENSÃO CONDICIONAL DO PROCESSO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS DENAGADO.
+ ..
+5. A tese relativa à suspensão condicional do processo ainda não foi objeto de julgamento pelo Tribunal de origem, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância.
+6. Habeas corpus denegado." (HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 16/08/2017, grifei)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. AMEAÇA. FALTA DE JUSTA CAUSA. AUSÊNCIA DE AUDIÊNCIA DE CONCILIAÇÃO. NULIDADE PROCESSUAL. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA. REINCIDÊNCIA. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As alegações de falta de justa causa para a ação penal relativas ao porte ilegal de arma de fogo de uso permitido e de nulidade processual, por não haver sido realizada audiência de conciliação para composição civil entre o réu e as vítimas, não foram analisadas pelo Tribunal estadual, de forma que seu exame diretamente por esta Corte Superior importaria em indevida supressão de instância.
+ .. 5. Agravo regimental não provido." (AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 24/05/2017, grifei).
+Ante o exposto, com fulcro no art. 34, XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. I.
