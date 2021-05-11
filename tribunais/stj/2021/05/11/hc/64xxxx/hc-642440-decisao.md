@@ -1,0 +1,10 @@
+DECISÃO
+THIAGO BENINE, condenado por furto tentado, alega ser vítima de constrangimento ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à apelação defensiva, a fim de reduzir a pena imposta, sem, contudo, reconhecer a aplicação do princípio da insignificância.
+Neste writ, afirma o impetrante, em síntese, a atipicidade da conduta, por incidência da insignificância, visto que na prática do delito não houve violência e coisa furtada foi avaliada em R$ 13,50. Assinala que " a  reincidência não impede o reconhecimento do crime de bagatela ou a aplicação do princípio da insignificância material" (fl. 10).
+Indeferida a liminar (fls. 292-293), foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem (fl. 298).
+Decido.
+Não descuro do baixíssimo valor dos produtos que foram furtados, os quais até foram recuperados em razão da atuação policial. Tal circunstância, embora relevante para aferição da tipicidade material, não pode ser levada em consideração de modo isolado, sobretudo na hipótese dos autos.
+Deveras, no caso, destacou o acórdão impugnado que o paciente ostenta maus antecedentes e é reincidente específico (fl. 259). Digno de nota, ainda, que a extensa folha de antecedentes criminais, juntada às fls. 93-110, noticiam a prática de inúmeros crimes patrimoniais ocorridos desde 2008, alguns deles graves, como o cometimento de roubo circunstanciado (já condenado). Trata-se, portanto, de situação que denota a reiteração por anos na prática delitiva, o que afasta a pretendida incidência do princípio da insignificância.
+De fato, a Terceira Seção deste Superior Tribunal, por ocasião do julgamento dos EAREsp n. 221.999/RS (DJe 10/12/2015), de relatoria do Ministro Reynaldo Soares da Fonseca, firmou o entendimento de que "a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável".
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
