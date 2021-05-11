@@ -1,0 +1,69 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. NÃO PROVIDO.
+1. Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial. Precedente.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por LAURA MOECKEL AMARAL contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), porquanto a parte agravante absteve-se de impugnar alguns dos fundamentos da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fls. 190/191):
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ e divergência não comprovada.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ e divergência não comprovada.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+ ..
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ ..
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante que (e-STJ fls. 196/197):
+ ..
+Ocorre que a Agravante impugnou todos os pontos contidos na r. decisão do E.TJ/SP, o que apenas pela extensão do agravo de recurso especial (8 laudas) já é possível vislumbrar. A Agravante apresentou recurso dialético, concreto e pormenorizado, como exige este E. STJ, e por esta razão deve ser conhecido o agravo em recurso especial e provido para dar seguimento ao Recurso Especial, que vale dizer versa sobre matéria que significa atenção a posicionamento desta Corte.
+A divergência jurisprudencial foi comprovada no Recurso Especial, e reiterada no agravo em recurso especial - AgInt no REsp 1812292/RO, Quarta Turma, julgado em 18/05/2020, DJe 21/05/2020, ocorrendo devidamente o cotejo necessário com destaque de votos dos julgados do acórdão do TJ/SP recorrido, e voto de Ministro deste E. STJ.
+No agravo em recurso especial a Agravante destacou que "sendo certo que a estrutura do Recurso Especial segue estritamente os termos da Lei, ao contrário do que assevera a r. decisão ora agravada", ou seja, nesta frase contida no agravo em recurso especial é possível perceber que a Agravante atacou sim especificamente a decisão recorrida no ponto atinente a ausência de correta atenção a maneira com que a divergência jurisprudencial deve ser alegada.
+Atinente a não submissão do caso à sumula 7, a Agravante durante o agravo em recurso especial demonstrou que tudo que almeja é a correta interpretação do art. 50 do CC , nos termos que esta Corte tem feito, e por ser pedido exclusivamente voltada a interpretação de lei federal, obviamente que não há de se falar em súmula 7 no caso.
+ ..  o cerne do Recurso Especial é interpretação de lei (art. 50, CC), sendo absolutamente prescindível analisar provas e fatos, rechaçou de maneira expressa (ainda que não literal) a alegada incidência súmula 7. A Agravante atacou o ponto da r. decisão do TJ/SP de que há incidência da súmula 7 quando pormenorizou que tudo que se almeja deste E. STJ é que seja dada a correta interpretação ao art. 50, CC, e, portanto deve ser conhecido o agravo em recurso especial.
+ ..
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 195/197).
+Impugnação às fls. 201/203 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. NÃO PROVIDO.
+1. Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial. Precedente.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Verifica-se que a parte agravante, efetivamente, não combateu os fundamentos da decisão de admissibilidade relativos à (i) incidência da Súmula n. 7 do Superior Tribunal de Justiça; e (ii) impossibilidade de análise do dissídio jurisprudencial apontado, haja vista que não foram observadas as exigências dos artigos 1.029, § 1º, do Código de Processo Civil de 2015 (correspondente ao artigo 541, parágrafo único, do estatuto processual civil de 1973) e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do estatuto processual civil de 1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do recurso especial.
+Confira-se a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Cumpre destacar que o argumento no sentido de que combateu todos os fundamentos da decisão recorrida apresenta-se como indevida inovação recursal, porquanto não contemplado nas razões do agravo em recurso especial, caracterizando-se como impugnação tardia da decisão de inadmissão, na origem, do recurso especial, sendo vedada sua análise, sob pena de restar ofendido o fenômeno da preclusão consumativa.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA DIALETICIDADE. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRECLUSÃO CONSUMATIVA.
+1. A ausência de impugnação específica, na petição de agravo, da integralidade dos fundamentos da decisão que não admite o recurso especial, impossibilita o conhecimento do recurso.
+2. A impugnação tardia, em sede de agravo interno, de fundamentos apontados pela decisão de inadmissibilidade do recurso especial proferida pelo Tribunal estadual, não é capaz de desconstituir os fundamentos da decisão agravada, em razão da preclusão consumativa.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.230.522/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/10/2018, DJe 29/10/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Razões do agravo em recurso especial que não impugnaram especificamente os fundamentos da decisão proferida em juízo prévio de admissibilidade, violando o princípio da dialeticidade, o que autorizou o não conhecimento do reclamo, nos termos do art. 932, inc. III, do CPC/15.
+1.1. A impugnação tardia do fundamento da decisão que inadmitiu o recurso especial caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa. Precedentes.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/15 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.443.363/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/6/2019, DJe 6/6/2019).
+Assim, não há reparos na decisão da Presidência desta Corte.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
