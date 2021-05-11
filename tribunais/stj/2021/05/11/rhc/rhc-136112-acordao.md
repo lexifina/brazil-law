@@ -1,0 +1,46 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA DE PRONÚNCIA. PANDEMIA DE COVID-19. DELITO GRAVÍSSIMO. FORAGIDO POR LONGO PERÍODO. RECOMENDAÇÃO N. 62 DO CNJ. NÃO APLICAÇÃO AO CASO. INTEGRANTE DO GRUPO DE RISCO. NÃO COMPROVAÇÃO. RECURSO IMPROVIDO.
+1. A recomendação contida na Resolução n. 62 do CNJ não implica automática substituição da prisão cautelar pela domiciliar. O requerente deve demonstrar: a) sua inequívoca adequação ao denominado grupo de vulneráveis da covid-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, o que não ocorre na espécie (RHC n. 128.304/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021).
+2. No caso, o recorrente, custodiado preventivamente desde o dia 26/11/2018, foi pronunciado como incurso nas sanções do art. 121, § 2º, I e IV, do Código Penal (homicídio qualificado), em 30/4/2019, por ter, em tese, mandado matar a vítima, em decorrência de reclamação trabalhista ajuizada contra a sua empresa (e-STJ fl. 3 do Apenso 1), circunstância que, por si só, afasta a possibilidade de aplicação dos dizeres da Recomendação n. 62/2020 do Conselho Nacional de Justiça. Não bastasse isso, o agente ficou foragido por três anos, além de não ter demostrado atual situação de saúde e impossibilidade de tratamento na unidade prisional.
+3. A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que " a  crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, publicado em 23/3/2020).
+4. Recurso ordinário desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por CARLOS HENRIQUE DEL VECCHIO ARTACHO contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná (HC n. 0024014-32.2020.8.16.0000).
+Depreende-se dos autos que o recorrente, custodiado preventivamente desde o dia 26/11/2018, foi pronunciado como incurso nas sanções do art. 121, § 2º, I e IV, do Código Penal (homicídio qualificado).
+Impetrado habeas corpus na origem pleiteando a concessão de prisão domiciliar, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 246):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO, EM COAUTORIA. PRISÃO PREVENTIVA. PRONÚNCIA. PRETENSÃO DE COLOCAÇÃO DO PACIENTE EM PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA DO CORONAVÍRUS (COVID-19). ALEGAÇÃO DE FIGURAR NO GRUPO DE RISCO POR SER PORTADOR DE DOENÇA RESPIRATÓRIA (ASMA CRÔNICA). PERIGO DE CONTÁGIO PELA COVID-19 INERENTE A TODA POPULAÇÃO, CARCERÁRIA OU NÃO, QUE NÃO PODE SERVIR DE FUNDAMENTO PARA LIBERAR RÉUS ACUSADOS DE CRIMES GRAVES. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.
+No presente recurso, sustenta a defesa que o recorrente faz parte do grupo de risco da Covid-19, uma vez que é obeso e sofre de asma crônica.
+Alega que "não faz qualquer sentido manter preso provisoriamente uma pessoa, sem qualquer condenação criminal, sobretudo diante do fato público, notório e incontroverso que as sessões do tribunal do júri, mesmo as de réus presos, estão canceladas indefinidamente, sem qualquer previsão de retomada neste ano de 2020" (e-STJ fls. 269/270).
+Requer, desse modo, inclusive liminarmente, a substituição da custódia preventiva pela prisão domiciliar, até mesmo com a imposição de medidas cautelares alternativas.
+O pedido liminar foi indeferido (e-STJ fls. 300/301).
+Prestadas as informações, o Ministério Público manifestou-se pelo desprovimento do recurso (e-STJ fls. 326/330).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Consoante relatado, insurge-se o recorrente contra a manutenção da prisão preventiva ao argumento de que integra o grupo de risco da pandemia decorrente da covid-19 e de que não se sabe até quando as sessões de julgamento do Tribunal do Júri permanecerão suspensas, razão por que requer a concessão de prisão domiciliar.
+Acerca do tema, o Tribunal de origem consignou o que segue (e-STJ fls. 247/248):
+Não me parece o caso de conceder ao paciente medidas alternativas à prisão processual  ou prisão domiciliar -, diante da pandemia do coronavírus (Covid-19).
+Com o devido respeito às opiniões contrárias, não vislumbro o mais mínimo constrangimento  muito menos ilegal  na permanência do paciente no estabelecimento prisional onde se encontra (Casa de Custódia de Londrina).
+Ora, estamos diante de uma pandemia. Todos nós corremos o mesmo perigo de contágio.
+Para alguns, em face da idade avançada, debilidade preexistente ou doenças associadas, o risco é maior.
+Para todos, o protocolo de tratamento será o mesmo.
+Por isso, colocar em liberdade réus processados ou condenados pela prática de crimes gravíssimos, significa aumentar a insegurança social.
+Caso sobrevenha contaminação  repito, risco a que todos nós estamos sujeitos, dentro ou fora dos estabelecimentos prisionais  caberá ao Poder Público proporcionar aos custodiados o necessário tratamento.
+Desse modo, o fato de o réu possuir qualquer comorbidade, ou doença associada, circunstância que o colocaria em grupo de risco, com maior possibilidade de contágio pela covid-19, não se altera, esteja o preso onde estiver.
+Mas, torno a frisar, o vírus que nos aprisiona em nossos lares não poderá servir de fundamento para libertar condenados, bandidos de alta periculosidade.
+Tenho para mim que superpopulação carcerária ou más condições de presídios não se resolvem abrindo as portas das prisões. Isso só aumenta a insegurança e não soluciona absolutamente nada.
+A meu aviso, quem pretende diminuir a criminalidade, expedindo alvarás de soltura de ingênuo ou não quer assumir os pesados encargos que a judicatura criminal nos faz  ou se impõe.
+Por isso, não entendo plausíveis as justificativas trazidas pelo Impetrante, visando à prisão domiciliar do paciente. A Imprensa tem noticiado, com merecido alarde, a fuga desses presos, que obtiveram a liberdade, concedida por uma Justiça de olhos vendados e alheia à crua realidade que nos circunda.
+De consequência, não há que se falar em ilegalidade na manutenção da prisão preventiva do paciente.
+A recomendação contida na Resolução n. 62 do CNJ não implica automática substituição da prisão cautelar pela domiciliar. O requerente deve demonstrar: a) sua inequívoca adequação ao denominado grupo de vulneráveis da covid-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, o que não ocorre na espécie (RHC n. 128.304/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021).
+No caso dos autos, o recorrente, custodiado preventivamente desde o dia 26/11/2018, foi pronunciado como incurso nas sanções do art. 121, § 2º, I e IV, do Código Penal (homicídio qualificado), em 30/4/2019, por ter, em tese, mandado matar a vítima, em decorrência de reclamação trabalhista ajuizada contra a sua empresa (e-STJ fl. 3 do Apenso 1), circunstância que, por si só, afasta a possibilidade de aplicação dos dizeres da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Não bastasse isso, o agente ficou foragido por três anos (conforme decisão do HC n. 536.235/PR), além de não ter demostrado atual situação de saúde e impossibilidade de tratamento na unidade prisional.
+A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que " a  crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, publicado em 23/3/2020).
+Desse modo, não é caso de conceder a prisão domiciliar.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
