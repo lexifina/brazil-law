@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de dois recursos extraordinários com agravo interpostos por ERICK VINICIUS LEVINO DOS SANTOS e por ESTADO DO RIO DE JANEIRO contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+    Os apelos extremos foram interpostos com fundamento na alínea "a" do permissivo constitucional.
+    No recurso extraordinário de ERICK VINICIUS LEVINO DOS SANTOS sustenta-se violação do(s) art.(s) 1º, inciso III; 5º, incisos XXXV, LIV e LV; 196 e 197 da Constituição Federal.
+    No recurso extraordinário de ESTADO DO RIO DE JANEIRO alega-se violação aos artigos 1º, inciso III; 5º, incisos XXXV, LIV e LV; 196 e 197 todos da Constituição Federal.
+    Opostos os embargos de declaração por ERICK VINICIUS LEVINO DOS SANTOS e por ESTADO DO RIO DE JANEIRO, foram rejeitados.
+    Decido.
+    Quanto à insurgência de ERICK VINICIUS LEVINO DOS SANTOS, colhe-se da sentença, mantida por seus próprios fundamentos pelo acórdão atacado, a seguinte fundamentação:
+    Trata-se de ação de procedimento especial, com fulcro na Lei no 12.153/2009, objetivando a parte autora o fornecimento de medicamento/insumo de uso contínuo, a saber, Divalproato de Sódio 125 mg (Depakote Sprinkle), Risperidona gotas e fraldas descartáveis XXG, em razão de ser portadora de Encefalopatia Crônica da infância e doença de Tay-Sachs.
+    (...)
+    O laudo acostado ao autos comprova a patologia da parte autora.
+    (...)
+    Por fim, pretende a parte autora, ainda, o fornecimento de medicamentos, insumos e tratamentos, os quais não foram devidamente discriminados tanto na inicial, como na tramitação do presente feito. Nesse ponto, é importante salientar que se trata de pedido genérico, incerto e futuro, e que não pode ser acolhido por gerar instabilidade nas relações jurídicas porventura existentes entre as partes. O que pretende a parte autora, na verdade, é o recebimento de um título judicial genérico a ser utilizado indiscriminadamente e ad eternum.
+    Isto posto, considerando o mais que dos autos consta, JULGO PROCEDENTE EM PARTE o pedido, formulado na petição inicial, para tornar definitiva a decisão que concedeu o pedido de tutela antecipada às fls. 29, condenando os réus, solidariamente, ao fornecimento dos medicamentos/insumo discriminados na inicial.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+    1. (...)
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+    Quanto à insurgência de ESTADO DO RIO DE JANEIRO, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 566471 segundo a sistemática da repercussão geral (Tema nº 6), decidiu que: há repercussão geral - Mérito julgado.
+    O Código de Processo Civil assim disciplina os procedimentos aplicáveis aos recursos extraordinários que suscitem matéria(s) analisada(s) pelo STF no rito da repercussão geral:
+    Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá: (Redação dada pela Lei nº 13.256, de 2016)(Vigência)
+    I – negar seguimento: (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral; (Incluída pela Lei nº 13.256, de 2016) (Vigência)
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos; (Incluída pela Lei nº 13.256, de 2016)(Vigência)
+    II – encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+    III – sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional; (Incluído pela Lei nº 13.256, de 2016) (Vigência) (grifo nosso).
+    Ex positis, quanto ao(s) recurso(s) interposto por ESTADO DO RIO DE JANEIRO, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) e nego seguimento ao recurso interposto por ERICK VINICIUS LEVINO DOS SANTOS (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
