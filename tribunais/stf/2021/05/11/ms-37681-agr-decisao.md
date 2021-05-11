@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de mandado de segurança com pedido de medida cautelar, impetrado na primeira instância da Justiça Federal de Minas Gerais, cuja competência para deslinde foi declinada pelo e. Tribunal Regional da Primeira Região, eis que questiona determinação contida no Acórdão 2.780/2016, do Plenário do Tribunal de Contas da União, que determinou a revisão de benefícios previdenciários de pensão por morte titularizados por filhas de servidores públicos civis, instituídos com base no art. 5º, II, parágrafo único, da Lei n.º 3.373/1958.
+    Em decisão monocrática proferida em 19.02.2021, concedi parcialmente a segurança, nos seguintes termos:
+    “Com essas considerações, diante da violação aos princípios da legalidade e da segurança jurídica, concedo parcialmente a segurança, com fulcro no art. 1º, da Lei 12.016/2009, para anular, em parte, o Acórdão 2.780/2016 do TCU, também com amparo no art. 1º, da Lei 12.016/2009, mantendo-se igualmente a possibilidade de revisão em relação às pensões cujas titulares ocupem cargo público de caráter permanente ou recebam outros benefícios decorrentes da alteração do estado civil, como a pensão prevista no art. 217, inciso I, alíneas a, b e c, da Lei 8.112/90, ou a pensão prevista no art. 74 c/c art. 16, I, ambos da Lei 8.213/91, ou seja, pensões por morte de cônjuges.
+    Determino, ainda, o pagamento dos valores relativos à pensão por morte desde a cessação indevida.”
+    Sobreveio agravo regimental (eDOC 15), interposto pela União, requerendo reconsideração da decisão monocrática no ponto em que determinou o pagamento dos valores relativos à pensão por morte desde a cessação indevida, pois, conforme documentos que carreou aos autos (eDOCs 16 a 21), o benefício não foi cessado indevidamente.
+    Diante do exposto, tendo em vista que a União não deixou de pagar o benefício de pensão por morte à impetrante em nenhum período, reconsidero a decisão agravada quanto a este ponto e mantenho a concessão parcial da segurança, pelos fundamentos já esposados na decisão monocrática. Julgo, por conseguinte, prejudicado o agravo regimental interposto pela União.
+    Publique-se. Intimem-se.
+    Brasília, 11 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
