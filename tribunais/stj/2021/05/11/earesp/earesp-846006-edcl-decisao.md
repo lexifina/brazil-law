@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELENICE DA SILVA MORAES eEUNICE DA SILVA MORAES contra decisão de minha lavra (fls. 1185-1188) que indeferiu liminarmente os embargos de divergência, consoante a seguinte ementa:
+"EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE REJEITOU A ALEGAÇÃO DE OMISSÃO. DISSÍDIO INEXISTENTE. MERO CASUÍSMO. REITERADAS DECISÕES DA CORTE ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS."
+Alegam as Embargantes "equívoco e omissão", porque "descabidos os argumentos suscitados à denegação do pleito" (fl. 1358). Insistem na existência de divergência a ser composta. Reiteram a alegada possibilidade de conhecimento da divergênciarelacionada à violação dos arts. 489 e 1.022 do Código de Processo Civil. Pedem o acolhimento dos embargos de declaração, com efeitos infringentes.
+É o relatório.
+Decido.
+Não há omissão nenhuma, tampouco equívoco da decisão ora embargada.
+As Embargantes, depois de se valerem de recurso manifestamente descabido para a pretensão deduzida, maneja embargos de declaração com o nítido propósito de rediscutir a questão que já foi examinada e decidida, o que, como é sabido e consabido, não se coaduna com a via recursal integrativa. Não há como confundir omissão com julgamento contrário ao interesse da parte.
+Ora, no caso em apreço,oacórdão embargado sequer conheceu da matéria em razão da ausência de adequada delimitação da controvérsia, notadamente acerca da suposta omissão.
+Ficou consignado de forma clara na decisão embargada que "não há como prosperar a pretensão de arguição de suposto dissídio, uma vez que, a despeito de os paradigmas eventualmente chegarem a conclusões diversas acerca da existência de omissão, contradição, obscuridade ou ambiguidade, tal análise depende sempre das peculiaridades do caso concreto." Foi listada, de forma exemplificativa, a farta e uníssona jurisprudência desta Corte, no sentido da inadmissibilidade dos embargos de divergência para discutir se o acórdão embargado acertou ou não na aferição de suposta omissão alegada.
+"A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito  .. " (EDcl no AgInt nos EDcl nos EAREsp 1.202.915/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 13/08/2019, DJe 28/08/2019).
+Cumpre observar que o manejo de embargos de declaração para apontar omissão notoriamente inexistente denota claro desvirtuamento do recurso integrativo, retardando de forma indevida o encerramento da prestação jurisdicional.
+A mera reiteração da insurgência, repetindo os mesmos argumentos, os quaisjá foramoportuna e devidamente examinados e rejeitados, denota manifesto intuito protelatório, ensejando a aplicação de multa do art. 1.026, § 2.º, do CPC/2015.
+Nesse contexto, tem decidido esta Corte:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO CONFIGURADA. REFORMA DO JULGADO. IMPOSSIBILIDADE. CARÁTER MANIFESTAMENTE PROTELATÓRIO. MULTA. ART. 1.026, § 2º, DO CPC/15.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A ocorrência de um dos vícios previstos no art. 1.022 do CPC/2015 é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de matéria constitucional não possibilita a sua oposição.
+3. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa." (EDcl no AgInt nos EAREsp 931.889/MG, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 13/08/2019, DJe 20/08/2019.)
+Ante o exposto, REJEITO os embargos de declaração e CONDENO asEmbargantes a pagar ao Embargado multa de 2% (dois por cento) do valor atualizado da causa, nos termos do art. 1.026, § 2.º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOSEMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE REJEITOU A ALEGAÇÃO DE OMISSÃO. DISSÍDIO INEXISTENTE. MERO CASUÍSMO. REITERADAS DECISÕES DA CORTE ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS.ALEGADA OMISSÃO. VÍCIO INEXISTENTE. MANIFESTO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
