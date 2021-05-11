@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APREENSÃO DE VALORES. INEXISTÊNCIA DE COMPROVAÇÃO DA ORIGEM LÍCITA. FUNDAMENTAÇÃO. OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A restituição de valores apreendidos durante a persecução penal somente se efetivará com a comprovação da sua origem lícita, o que não ocorreu na espécie. Precedentes.
+2. O simples fato de não haver sido enfrentado todas as teses suscitadas pela defesa não significa, de per si, a ausência de fundamentação de uma decisão. Nos termos da jurisprudência deste Superior Tribunal, o julgador não é obrigado a manifestar-se sobre todas as alegações expostas no recurso, desde que devidamente indicados os motivos que justificaram suas razões de decidir.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+NAZIRA GIBRAIL KANJO NASSER interpõe agravo regimental contra a decisão de fls. 286-287, que negou provimento ao agravo em recurso especial.
+Em suas razões, sustenta a ausência de fundamentação da decisão agravada. Assinala que o recurso especial "tem por principal fundamento a recusa de enfrentamento pelo Tribunal a quo de questões relevantes apresentadas em sede razões de apelação, e que não foram devidamente apreciadas, não obstante a ampla devolutividade inerente aos recursos de apelação criminal e a oposição de Embargos de Declaração" (fl. 297).
+Aduz, diante disso, que a pretensão esboçada no recurso não enseja o reexame de provas, mas na violação dos arts. 118 e 619 do CPP ante a recusa injustificada de enfrentamento de relevantes teses da insurgente e na falha "em apontar qual elemento de prova fundamenta a alegada dúvida quanto à licitude dos valores apreendidos e sua propriedade" (fl. 335).
+Requer, diante disso, que haja retratação da decisão impugnada ou, caso assim não entenda, que o agravo regimental seja submetido ao colegiado e que lhe seja dado provimento.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APREENSÃO DE VALORES. INEXISTÊNCIA DE COMPROVAÇÃO DA ORIGEM LÍCITA. FUNDAMENTAÇÃO. OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A restituição de valores apreendidos durante a persecução penal somente se efetivará com a comprovação da sua origem lícita, o que não ocorreu na espécie. Precedentes.
+2. O simples fato de não haver sido enfrentado todas as teses suscitadas pela defesa não significa, de per si, a ausência de fundamentação de uma decisão. Nos termos da jurisprudência deste Superior Tribunal, o julgador não é obrigado a manifestar-se sobre todas as alegações expostas no recurso, desde que devidamente indicados os motivos que justificaram suas razões de decidir.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (286-287, destaques no original):
+NAZIRA GIBRAIL KANJO NASSER agrava de decisão que inadmitiu o processamento de recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que negou provimento à apelação defensiva, na qual objetivava a defesa a devolução de dinheiro em espécie que foi apreendido.
+Em suas razões, afirma a defesa que o exame do caso prescinde da análise de provas, mas apenas da valoração delas. Assinala que a recorrente "foi alvo de injusta e equivocada contrição em seu patrimônio, suportando o injustificável confisco de seus bens à margem dos pressupostos de validade da medida excepcional de busca e apreensão, mormente porque foram apreendidos valores que em nada interessam à cognominada "Operação Patriota"" (fl. 226), da qual não é alvo das investigações.
+Apresentadas contrarrazões (fls. 257-263), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo seu não provimento (fls. 281-284).
+Decido.
+A decisão que inadmitiu o processamento do recurso especial não merece reparos. Com efeito, extrai-se do acórdão impugnado, no que interessa, as seguintes passagens (fl. 82, destaquei):
+Com efeito, a prova da propriedade de dinheiro em espécie é tarefa complexa, dada a natureza fungível do bem. Não obstante, a restituição ou desbloqueio de dinheiro no curso de inquérito ou de ação penal pode ocorrer se o requerente conseguir provar os requisitos cumulativos anteriormente mencionados.
+No caso, Nazira Gibrail não demonstrou a propriedade dos valores apreendidos, pois deixou de acostar aos autos cópia de declaração de imposto de renda, bem como de recibos das sessões de atendimento psicológicos, uma vez que afirmou ser psicóloga.
+Assim sendo, concluo que a quantia de R$ 9.300,00 (nove mil e trezentos reais) ainda interessa ao processo, notadamente porque persistem dúvidas quanto à propriedade e à ilicitude da origem do bem.
+Ora, diante do quadro fático apresentado pelo Tribunal de origem, o qual propiciou a conclusão de que não houve a demonstração da propriedade dos valores apreendidos, diversamente do que alega a defesa, torna-se inviável reverter o decisum, em razão da incidência da Súmula n. 7 do STJ, tal como destacou a decisão agravada.
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Como se observa, o acórdão concluiu que não houve a demonstração da propriedade lícita dos valores apreendidos, por mais que a defesa insista que caberia ao MP comprovar que o dinheiro era de origem ilícita. Segundo a orientação desta Corte, "a restituição de bens apreendidos durante a ação penal somente se efetivará após a comprovação da sua origem lícita" (AgRg no AREsp n. 1.081.863/SP, Rel. Ministro Jorge Mussi, DJe 30/5/2018). Não há como contradizer, portanto, o acórdão proferido na origem sem o reexame de provas (incidência da Súmula n. 7 do STJ).
+Além disso, o simples fato de não haver sido enfrentado todas as teses suscitadas pela defesa não significa, de per si, a ausência de fundamentação de uma decisão. De fato, o julgador não é obrigado a se pronunciar sobre todas as teses expostas no recurso, desde que sejam indicados os motivos que justificaram suas razões de decidir, situação que se verifica no caso.
+Deveras, nos termos da jurisprudência deste Superior Tribunal, "o julgador não é obrigado a manifestar-se sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir" (AgRg no REsp n. 1.815.441/MG, Rel. Ministro Leopoldo de Arruda Raposo - Desembargador convocado do TJ/PE, DJe 28/10/2019).
+À vista do exposto, nego provimento ao agravo regimental.
