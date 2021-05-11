@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MarcílioAlvesFeitosa, em que se aponta como autoridade coatora o Tribunal de Justiça do Ceará (HC n. 0631885-77.2019.8.06.0000).
+No presente writ, o impetrante pretende dar efeito suspensivo à tramitação do Processo n. 0054613-71.2013.4.06.0001, referente aos autos da ação penal em que o paciente foi denunciado pela prática de homicídio qualificado, na forma do art. 121, § 2º, I e VI, do Código Penal.
+Sustenta que a defesa técnica atuou mal em razão da apresentação de razões finais de forma extemporânea, ou seja, antes da razões finais da acusação. Entende que isso significa cerceamento do direito de defesa e desrespeito ao princípio do devido processo legal.
+Requer, liminarmente, a suspensão do feito principal a fim de que seja obstada a realização da audiência do Tribunal do Júri, marcada para o início de março do corrente ano, e a concessão da ordem para que nova instrução processual seja realizada.
+A liminar foi indeferida às fls. 164/165.
+Prestadas as informações (fls. 169/171 e 181/182), o Ministério Público Federal opinou pelo não conhecimento domandamus(fls. 190/199).
+É o relatório.
+Afigura-se inviável acolher-se a pretensão deduzida.
+Quanto ao tema posto em debate, o Tribunal local expôs que (fls. 58/64 - grifo nosso):
+ ..
+No caso em apreço, o impetrante sustenta, em síntese, que a autoridade judicial impetrada violou os princípios da ampla defesa, do contraditório e do devido processo legal, haja vista a apresentação de defesa genérica pelo antigo causídico do paciente; a realização de audiência de instrução sem a presença do denunciado, o qual foi interrogado por meio de videoconferência; a apresentação de alegações finais extemporâneas, protocolada antes das alegações finais do Ministério Público, a qual além de genérica, não refutou as qualificadoras imputadas.
+Inicialmente, no que tange a apresentação de defesa supostamente genérica pelo antigo patrono do paciente, insta salientar que é necessário que o impetrante aponte explicitamente qual a deficiência e qual o prejuízo causado, não sendo suficiente, portanto, apenas alegar que trata-se de defesa genérica.
+Nos termos da Súmula 523 do STF: "No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu."
+Vê-se, portanto, a necessidade da efetiva demonstração do prejuízo causado pela suposta defesa deficiente, o que não ocorreu no caso dos autos.
+ ..
+Seguindo adiante, quanto ao interrogatório do réu em sede de audiência de instrução ter sido realizado por meio de videoconferência, referida medida encontra respaldo no art. 185, § 2º, inciso II, do Código de Processo Penal. Ressalta-se que trata-se de medida excepcional, devendo ser adotada apenas em casos de justificada necessidade e nas hipóteses enumeradas no dispositivo supramencionado.
+Insta ressalta que, no caso dos autos, o paciente encontra-se recolhido no Presídio Federal de Catanduvas/PR, desse modo o interrogatório por meio de videoconferência em sede de audiência de instrução figurou como medida necessária para viabilizar a participação do réu no ato processual, sendo-lhe resguardada todas as suas garantias individuais no processo.
+Novamente, o impetrante não aponta qual o prejuízo que a realização do interrogatório por meio de videoconferência trouxe ao processo. Dessa forma, não há que se falar em nulidade.
+No que tange a nulidade suscitada face a extemporaneidade da apresentação de alegações finais pela defesa, é de se ressaltar que as partes foram intimadas em audiência para apresentação de memoriais, conforme juntado nos autos na fl. 231. Logo, vê-se que a defesa antecipou-se na apresentação de suas alegações.
+Nos termos do artigo 565 do Código de Processo Penal, "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+Ao comentar o referido dispositivo legal, Guilherme de Souza Nucci asseveraque "do mesmo modo que é exigido interesse para a prática de vários atos processuais, inclusive para o início da ação penal, exige-se tenha a parte prejudicada pela nulidade interesse no seu reconhecimento", motivo pelo qual "não pode ser ela geradora do defeito, plantado unicamente para servir objetivos escusos" (Código de Processo Penal Comentado.14ª ed. Rio de Janeiro: Forense, 2015, p. 1129).
+O mencionado autor prossegue, consignando a correção da previsão legal, "uma vez que dar causa à nulidade, pretendendo seu reconhecimento, ou pedir que o juiz considere nulo determinado ato, quando não há interesse algum, seria a utilização de mecanismos legais para conturbar o processo e não para garantir o devido processo legal" (Op. cit., p. 1129).
+No caso dos autos, vê-se que a defesa antecipou a apresentação de suas alegações finais, causando ela própria o embaraço processual o qual se insurge, não sendo possível, dessa forma, verificar nenhum nulidade processual de plano.
+ ..
+Por fim, vale lembrar que o reconhecimento de nulidade de ato processual, segundo o princípio pas de nullité sans grief, adotado por nosso sistema processual penal, exige a demonstração do efetivo prejuízo sofrido pela parte.
+Nos termos do artigo 563 do Código de Processo Penal, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Assim, deve existir o prejuízo para que a nulidade seja decretada, seja ela relativa ou absoluta.
+ ..
+No caso, porém, a escorreita comprovação do prejuízo não foi nem de longe realizado pelo impetrante, não se mostrando razoável, por isso, promover a anulação do processo e o consequente retorno à instrução criminal, nem a anulação da sentença da sentença de pronúncia e a reabertura do prazo para apresentação de alegações finais.
+Ante todo o exposto, por não vislumbrar qualquer situação de cerceamento do direito de defesa do paciente, conheço do presente habeas corpus, eis que presentes os seus pressupostos de admissibilidade, mas para denegar a ordem pleiteada.
+ ..
+No mesmo sentido, oportuna a manifestação daSubprocuradora-Geral da República Mônica Nicida Garcia, para quem a alegação de deficiência da defesa deve vir acompanhada de prova de inércia ou desídia do defensor, causadora de prejuízo concreto à defesa do réu - o que não ocorreu no caso dos autos(fl. 194).
+In casu,em momento algum, o impetrante informa qual o prejuízo suportado pelo paciente, razão pela qual o caso reclama a aplicação do princípio do pas de nullité sans grief, tal como expressamente dispõe o art.563do CPP, segundo o qual nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa.
+Ainda que assim não fosse,é entendimento consolidado nestaCorte de Justiçaque,tanto nos casos de nulidade relativa quanto nos casos de nulidade absoluta, somente se reconhece vício que enseje a anulação de ato processual a partir da efetiva demonstração de prejuízo, à luz do art. 563 do Código de Processo Penal (pas de nullité sans grief), o que não ocorreu na hipótese (HC n. 396.791/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/10/2018 - grifo nosso). E mais: AgRg no REsp n. 1.472.414/MG, Ministro Felix Fisher, Quinta Turma, DJe 24/8/2018.
+Nessesentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. NULIDADE POSTERIOR À PRONÚNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE PREJUÍZO.REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE.REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7/STJ.
+1. De início, anota-se que "esta Corte Superior, em inúmeros julgados, já reconheceu que a mera leitura da pronúncia, ou de outros documentos em plenário, não implica, obrigatoriamente, a nulidade do julgamento, notadamente porque os jurados possuem amplo acesso aos autos. Assim, somente fica configurada a ofensa ao art.478, I, do Código de Processo Penal, se as referências forem feitas como argumento de autoridade que beneficie ou prejudique o réu" (HC n. 149.007/MT, relator Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 5/5/2015, DJe 21/5/2015).
+2. A jurisprudência desta Corte Superior é firmada no sentido de que "todas as nulidades, sejam elas relativas ou absolutas, demandam a demonstração do efetivo prejuízo para que possam ser declaradas" (AgRg no AREsp n. 713.197/MG, rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2016, DJe 28/4/2016), o que não se verificou no presente caso.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1304341/RS, Ministro Antonio SaldanhaPalheiro, SextaTurma, DJe 10/9/2019 - grifo nosso)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO.INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO.HOMICÍDIO. SENTENÇA DE PRONÚNCIA. NULIDADE. NÃO OCORRÊNCIA. PREJUÍZO. INEXISTÊNCIA. ALEGAÇÕES FINAIS.PRESCINDIBILIDADE. INÉRCIA DA DEFESA, DEVIDAMENTE INTIMADA PARA REALIZAÇÃO DO ATO. ARTIGO 565 DO CPP.HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. No processo penal é imprescindível, quando se trata de nulidade de ato processual, a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, consagrado pelo legislador no artigo 563 do CPP, verbis: "Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+3. As alegações finais são prescindíveis no procedimento bifásico do Tribunal do Júri, por encerrar mero juízo provisório acerca da materialidade e autoria delitivas, demonstrando, assim ausência de prejuízo por sua inexistência quando a defesa, devidamente intimada, deixa transcorrer in albis o prazo para a realização do ato processual, como no caso dos autos.Precedentes
+4. A inércia da defesa na apresentação das alegações finais do procedimento do Tribunal do Júri, quando devidamente intimada para tanto, não implica nulidade pela disposição do artigo 565 do CPP, no sentido de que "nenhuma das partes poderá arguir nulidade a que haja dado causa, ou para que tenha concorrido".
+4. Habeas corpus não conhecido.
+(HC n. 366.706/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2016 - grifo nosso)
+Ante o exposto, à vista do parecer e dos precedentes, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS.HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA.DEFICIÊNCIA NA DEFESA TÉCNICA. ALEGAÇÃO GENÉRICA DE NULIDADES. AUSÊNCIA DE COMPROVAÇÃO DE EFETIVO PREJUÍZO. PRINCÍPIOPAS DE NULLITÉ SANS GRIEF.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO.
+Ordem denegada.
