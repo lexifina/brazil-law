@@ -1,0 +1,25 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto pelo Estado de Mato Grosso do Sul, em face de acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. RECURSO DO RÉU. OPERADOR JUDICIÁRIO. TRANSFORMAÇÃO DO CARGO EM ANALISTA JUDICIÁRIO PELA LEI ESTADUAL 4.536/2013. DESVIO DE FUNÇÃO CONFIGURADO DESDE A ORIGEM. EFEITOS RETROATIVOS. PAGAMENTO DAS DIFERENÇAS REMUNERATÓRIAS E REFLEXOS DEVIDOS – OBSERVÂNCIA DA PROGRESSÃO FUNCIONAL.”
+    Devolvidos os autos à 2º Câmara Cível, pela Vice-Presidência do Tribunal de Justiça do Estado do Mato Grosso do Sul, para reapreciação da matéria nos termos do art. 1.040, II, do CPC, foi refutado o juízo de retratação em acórdão assim ementado:
+    “RECURSO ESPECIAL E EXTRAORDINÁRIO EM APELAÇÃO CÍVEL – ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL – DIVERGÊNCIA ENTRE OBJETO DOS RECURSOS ESPECIAL E EXTRAORDINÁRIO INTERPOSTOS PELA PARTE E AS TESES FIRMADAS PELOS TRIBUNAIS SUPERIORES – ACÓRDÃO DO TRIBUNAL DE JUSTIÇA PROFERIDOCOM BASE EM ENTENDIMENTO DO  SUPERIOR TRIBUNAL DE JUSTIÇA À ÉPOCA.
+    01. Não cabe juízo de retratação (art. 1.040, II, do CPC) quando o objeto dos recursos especial e extraordinário interpostos pela parte diverge do entendimento firmado nos precedentes dos tribunais superiores
+    03. Acórdão proferido por este Tribunal de Justiça em consonância com precedente do Superior Tribunal de Justiça à época. Em observância à segurança jurídica, observa-se a regra da eficácia prospectiva da alteração de entendimento jurisprudencial.”
+    Desse modo, foi determinada a subida dos autos a este Supremo Tribunal Federal.
+    O recorrente, em suas razões, aponta violação à norma contida no art. 102, caput e § 2º, da Constituição Federal, requerendo o provimento do recurso extraordinário para que “(…) a correção monetária a ser empregada nesta lide seja a Taxa Referencial (TR) mais juros aplicados à caderneta de poupança de todo o período condenatório deste processo até o momento da inscrição do crédito do(s) recorrido(s) no sistema de precatório do Tribunal Local 'a quo'.”
+    Esse o sucinto relatório. Decido.
+    Reputo inadmissível o recurso extraordinário.
+    De início, no âmbito da repercussão geral da questão suscitada, o Plenário do Supremo Tribunal Federal, ao apreciar o RE 870.947/SE, Ministro Luiz Fux, DJ de 9.11.2017, firmou a seguinte tese (com meus grifos):
+    “1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado.
+    2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+    3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. E STARTZ, R. Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29).”
+    Buscando modular aquele julgamento, os entes públicos réus opuseram embargos de declaração.
+    Na sessão de 03.10.2019, todavia, o Plenário do STF, em julgamento majoritário, rejeitou tais embargos, havendo, assim, recusado a pleiteada atribuição de efeitos prospectivos.
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios recursais.
+    Ao amparo do § 11 do art. 85 do CPC, majoro em 1% (um por cento), a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c o § 1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
