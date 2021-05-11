@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA. DANOS MORAIS NÃO CONFIGURADOS. SÚMULA 568/STJ.
+1.A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto porHELOISA HELENA VALLADARES RIBEIROcontra decisão que conheceu do agravo para dar provimento ao recurso especial de UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO.
+Ação:de obrigação de fazer c/c compensação por danos morais ajuizada por HELOÍSA HELENA VALLADARES RIBEIRO em face da agravante, em razão da recusa de cobertura de exame indicado no tratamento médico para tratamento de dores ortopédicas.
+Sentença:julgou procedente a demanda para condenar a agravante a cobrir os custos do exame e no pagamento de compensação por danos morais no valor de R$ 8.000,00.
+Acórdão:negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - CONTRATO DE PLANO DE SAÚDE - CONTRATO ANTERIOR À LEI Nº 9.656/98 - NECESSIDADE DE OPORTUNIZAR A ADEQUAÇÃO - DE RESSONÂNCIA MAGNÉTICA - NECESSIDADE COMPROVADA - NEGATIVA DE COBERTURA -IMPOSSIBILIDADE -DANOS MORAIS - CONFIGURAÇÃO. Não tendo o plano de saúde réu se desincumbido do ônus de comprovar que ofereceu ao autor a oportunidade de adequar o seu contrato ao plano de referência, previsto no art. 10 da Lei nº 9.656/98, não se justifica a negativa de cobertura contratual sob o argumento de inaplicabilidade das disposições daquele diploma legal aos planos não regulamentados. A recusa de exames por parte dos planos de saúde, quando estes forem indispensáveis para o sucesso da cirurgia ou tratamento do paciente, mesmo quando se tratar de contratos anteriores à Lei n. 9.656/98, é totalmente descabida, sendo, portanto, passível de ressarcimento, ensejando sua condenação por danos materiais e morais. A indenização por dano moral deve ser arbitrada segundo o prudente arbítrio do julgador, sempre com moderação, observando-se as peculiaridades do caso concreto e os princípios da proporcionalidade e da razoabilidade, de modo que o quantum arbitrado se preste a atender ao caráter punitivo da medida e de recomposição dos prejuízos, sem importar, contudo, enriquecimento sem causa da vítima.
+Recurso Especial:alega violação dos arts. 186, 927 e 944 do CC e 51, §1º, II e 54, do CDC. Sustenta a inocorrência de ato ilícito a justificar a condenação em danos morais, uma vez que a negativa de cobertura partiu de legítima interpretação de cláusulas contratuais. Insurge-se contra o valor fixado para a compensação por danos morais.
+Decisão unipessoal: conheceu do agravo para conhecer e dar provimento ao recurso especial da agravada, excluindo a condenação por danos morais, ante a falta de demonstração do agravamento do abalo psicológico do beneficiário do plano de saúde, nos termos da jurisprudência do STJ.
+Embargos de declaração:opostos pela agravante, foram rejeitados.
+Agravo interno: o agravante alega que a ofensa à dignidade da agravante ultrapassou o mero aborrecimento, uma vez que tratava-se de restrição ao próprio direito à saúde. Aduz que não há entendimento dominante ou sumulado no STJ no sentido da decisão agravada e que há julgados no sentido de que a recusa indevida de cobertura gera o dever de compensar os danos morais sofridos. Reitera a alegação dos embargos de declaração de que a matéria relativa aos danos morais não foi prequestionada, não cabendo o conhecimento do recurso da parte agravada, nos termos do art. 932, III, do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA. DANOS MORAIS NÃO CONFIGURADOS. SÚMULA 568/STJ.
+1.A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, no tocante aos danos morais, é este o teor da sentença:
+"Em razão da negativa de tratamento de forma abusiva e de todos os aborrecimentos e constrangimentos sofridos pela requerente, deve a parte ré ser condenada a reparar os danos de ordem moral por ela sofridos, até porque os desconfortos/abalos e transtornos de ordem pessoal ultrapassaram a esfera do mero aborrecimento.
+Devidos os danos morais, que devem ser fixados diante dos critérios da proporcionalidade e razoabilidade, considerando as circunstâncias fáticas, de forma a se evitar o enriquecimento ilícito" (fl. 340, e-STJ)
+O acórdão, por sua vez, assim delineou a questão:
+"A propósito da configuração do dano moral, decorrente da recusa dos planos de saúde em cobrir determinados procedimentos com base em interpretação de cláusulas contratuais, cumpre observar que sempre foi uma questão bastante controvertida na jurisprudência pátria.
+O colendo Superior Tribunal de Justiça, contudo, firmou entendimento no sentido de que a negativa de cobertura, nessas hipóteses, enseja dano moral, consoante se infere dos seguintes arestos"(fls. 439/440, e-STJ).
+Ao que se tem, não há, na fundamentação da sentença ou do acórdão, a demonstração de que a recusa de cobertura de exame médico solicitado agravou o estado psicológico ou emocional do paciente, apontando circunstâncias específicas do caso concreto que afastasse a conclusão de que osdanos morais seriam devidos pela recusa indevida de cobertura, tão somente.
+E a jurisprudência do STJ é firme no sentido de que a mera e simples recusa indevida de cobertura de tratamento ou medicamento prescrito, não gera, por si só, os danos morais. Nesse sentido, orientação recente das duas turmas de direito privado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE AUTORIZAÇÃO DE PROCEDIMENTO PARA TRATAMENTO DE CÂNCER.IMPOSSIBILIDADE DE ANÁLISE DE OFENSA À CONSTITUIÇÃO FEDERAL.DEFICIÊNCIA RECURSAL. RECUSA INDEVIDA. DANOS MORAIS. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.AGRAVO INTERNO NÃO PROVIDO.
+1. "A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente.Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ" (AgInt no AREsp 1.563.886/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe de 1º/04/2020).
+2. O Tribunal de origem consignou que a negativa injustificada de cobertura para o tratamento de câncer agravou o estado de sofrimento do autor, o que lhe causou danos morais. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Na hipótese, o valor da indenização por danos morais arbitrado em R$ 5.000,00 (cinco mil reais) não é exorbitante nem desproporcional aos danos sofridos pelo recorrido, de modo que não se viabiliza a excepcional intervenção desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1708536/SP, 4ª Turma, DJe 23/02/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO MÉDICO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DANOS MORAIS. PEDIDO DE REDUÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE.
+1. Ação de obrigação de fazer c/c indenização por danos morais, fundada na indevida negativa de cobertura do tratamento prescrito.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso. Dano moral mantido em R$20.000,00.
+4. Agravo interno nos embargos de declaração no recurso especial não provido.
+(AgInt nos EDcl no REsp 1842234/RS, 3ª Turma, DJe 18/12/2020)
+Assim, não merece reforma a decisão agravada.
+Ademais, não há falar em não cumprimento do requisito do prequestionamento, se a Corte de origem decidiu integralmente a questão controvertida.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
