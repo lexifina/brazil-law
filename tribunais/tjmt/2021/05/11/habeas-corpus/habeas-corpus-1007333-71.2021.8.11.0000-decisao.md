@@ -1,0 +1,39 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1007333-71.2021.8.11.0000 - CLASSE CNJ - 307 COMARCA DE CUIABÁ
+IMPETRANTE(S): DR. MAYKEL QUINTEIRO DUARTE AMORIM
+PACIENTE(S): EDUARDO ORTT BARBOSA
+DECISÃO INTERLOCUTÓRIA
+Vistos,
+Habeas Corpus impetrado em favor de EDUARDO ORTT BARBOSA contra ato comissivo do 7a Vara Criminal da Comarca de Cuiabá [Especializada Contra o Crime Organizado Crimes Contra a Ordem Tributária e Econômica Crimes Contra a Administração Pública Crimes de Lavagem de Dinheiro], nos autos de ação penal (Código 345669), que o condenou por roubo majorado pelo emprego de arma e concurso de pessoas e associação criminosa a 9 (nove) anos e 4 (quatro) meses de reclusão e multa 20 (vinte) dias-multa, em regime inicial fechado - art. 157, § 2o, I e II, e art. 288, ambos do CP - e aplicou monitoramento eletrônico mediante uso de tornozeleira (www.tjmt.jus.br).
+O impetrante sustenta que: 1) o uso da tornozeleira eletrônica inviabiliza o exercício do trabalho do paciente “na mercearia de sua genitora”, pois ele “precisa circular nos grandes atacados da região metropolitana de Cuiabá para fazer reposição de mercadoria e ainda atender clientes externo como entrega de mercadorias do gênero alimentício e água mineral”; 2) não houve reavaliação da necessidade das medidas cautelares no prazo de 90 (noventa) dias.
+Requer a concessão da ordem liminarmente para que seja “retirada a monitoração eletrônica (tornozeleira) do paciente” (ID 85437484), com documentos (ID 85437486/ID 85437487).
+Relatos.
+Em 19.7.2018, o Juízo singular reconheceu a responsabilidade penal da paciente, dosou as penas e decretou a prisão preventiva nestes termos:
+“[...] Nego o direito de apelarem em liberdade aos acusados LEANDRO BORGES SOARES, EDUARDO ORTT BARBOSA, TAMIRES FERNANDA DE ARRUDA, pois considero que a necessidade da prisão cautelar se justifica para garantia da ordem pública diante da reiteração criminosa dos acusados que após os fatos ainda continuam no mundo do crime. Após consulta ao sistema Apolo do TJMT verifiquei que: [...]
+- EDUARDO ORTT BARBOSA, posterior aos fatos foi processado e condenado, com sentença transitada em julgado, por crime de roubo majorado por emprego de arma de fogo e concurso de agentes (Guia de Execução Penal no. 12064-74.2016.811.0042). [...]
+Ante o exposto, expeça-se mandado de prisão cautelar em relação aos acusados LEANDRO BORGES SOARES, EDUARDO ORTT BARBOSA, TAMIRES FERNANDA DE ARRUDA, para garantia da ordem pública, diante da reiteração criminosa, nos termos do art. 312 do CPP. [...]
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido da AÇÃO PENAL PÚBLICA com o fim de CONDENAR: [...] - EDUARDO ORTT BARBOSA, alcunha “Edu”: FATO 1, no art. 288, Parágrafo Único, do Código Penal; FATO 21, no art. 157, § 2o, incisos I e II c/c e 29, ambos do Código Penal; FATO 25, no art. 157, § 2o, incisos I e II c/c e 29, ambos do Código Penal; c/c art. 71, Parágrafo Único (três vezes) e 69 (concurso material, referente ao 1o fato), ambos do Código Penal; condenando à pena de 09 (nove) anos e 04 (quatro) meses de reclusão e multa 20 (vinte) dias-multa, fixando o valor do dia-multa em um trigésimo do salário mínimo, regime inicial de cumprimento de pena FECHADO [...].” (Marcos Faleiros da Silva, juiz de Direito - Sistema Primus - Código 345669)
+Em 2.10.2018, esta e. Primeira Câmara Criminal, no julgamento do HC NU 1010344-16.2018.811.0000, sob esta relatoria, desconstituiu a prisão preventiva, “sem prejuízo ao Juízo singular, impor medidas cautelares alternativas, justificadamente”, mediante a seguinte EMENTA:
+“HABEAS CORPUS - FORMAÇÃO DE QUADRILHA ARMADA, ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS E ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE PESSOAS - PRISÃO PREVENTIVA - INEXISTÊNCIA DE PRESSUPOSTOS DA CUSTÓDIA CAUTELAR - PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA - SEGREGAÇÃO CAUTELAR DECRETADA NA SENTENÇA - FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA - REITERAÇÃO DELITIVA - CONDENAÇÃO POR FATO ANTERIOR AOS DELITOS OBJETO DESTA AÇÃO PENAL - PROGRESSÃO PARA O REGIME ABERTO - PACIENTE PERMANECEU SOLTO DURANTE TODA A INSTRUÇÃO DA AÇÃO PENAL [SETE ANOS] - INEXISTÊNCIA DE REGISTRO DE COMETIMENTO DE NOVOS DELITOS LIÇÃO DOUTRINÁRIA - ORIENTAÇÃO DO STJ - JULGADO DO TJMT - ORDEM CONCEDIDA PARA DESCONSTITUIR A PRISÃO PREVENTIVA.
+Se o paciente possui condenação por fato anterior aos delitos objeto desta ação penal, cujo processo executivo progrediu para regime o aberto, permaneceu solto durante toda a instrução [sete anos], compareceu aos atos processuais e inexiste registro de cometimento de novos delitos, a reiteração delitiva indicada não justifica a constrição cautelar.
+“Se o réu respondeu ao processo solto, tem direito de recorrer nessa condição, podendo a custódia cautelar ser decretada tão somente se houver a superveniência de fatos novos que demonstrem a sua necessidade.” (TJMT, HC no 119111/2016)” (https://pje2.tjmt.jus.br)
+Em 21.9.2018, o juiz da causa assim decidiu:
+“[...] Em cumprimento à decisão proferida no Habeas Corpus no 1010344-16.2018.8.11.0000, que substituiu a prisão preventiva do acusado EDUARDO ORTT BARBOSA, por medidas cautelares a serem fixadas por este juízo, aplico as seguintes medidas:
+a) Comparecimento mensal em juízo, para informar e justificar atividades;
+b) Proibição de manter contato com os demais acusados e com as testemunhas arroladas pelo Ministério Público, por qualquer meio físico, eletrônico (telefone, e-mail etc.) ou por meio de interposta pessoa;
+c) Proibição de se ausentar do Estado de Mato Grosso sem autorização do juízo;
+d) Recolhimento domiciliar no período noturno (entre 20h e 06h) e nos finais de semana e feriados de forma integral;
+e) Monitoração eletrônica, que visa assegurar o cumprimento das demais condições impostas [...].” (Sistema Primus - Código 345669)
+O paciente e os corréus Tamires Fernanda de Arruda, Edison Campos Francisco, José Augusto de Figueiredo Ferreira e Leandro Borges Soares interpuseram apelações criminais [NU 0006102-75.2013.811.0032].
+Os autos encontram-se em carga do Ministério Público Estadual para apresentação das contrarrazões aos recursos do paciente e do corréu José Augusto de Figueiredo Ferreira, cujas razões foram ofertadas neste e. Tribunal (https://pje2.tjmt.jus.br).
+Pois bem.
+A medida cautelar [tornozeleira eletrônica] foi imposta pelo Juízo singular, após concessão de liberdade ao paciente e. Primeira Câmara Criminal, no julgamento do HC NU 1010344-16.2018.811.0000.
+O paciente está monitorado por tornozeleira eletrônica desde 21.9.2018, ou seja, há mais de 2 (dois) anos.
+Nesse quadro, afigura-se pertinente reservar a aferição de eventual constrangimento ilegal ao colegiado, após a audição do juiz da causa e intervenção do órgão do Ministério Público, na função de custos legis, sobretudo porque “o pedido confunde-se com o próprio mérito da impetração, a análise mais aprofundada da matéria ocorrerá por ocasião do julgamento definitivo” (STJ, HC no 664503 - Relator: Min. João Otávio de Noronha - 10.5.2021).
+Em seu turno, inexiste obrigação legal de revisar, de ofício, a necessidade de manutenção das medidas cautelares impostas após sentença condenatória (STJ, AgRg no HC 620.208/MG, Relator: Min. Antônio Saldanha Palheiro - 30.3.2021), cujo dever “cessa com a formação de um juízo de certeza da culpabilidade do réu, declarado na sentença, e ingresso do processo na fase recursal”, sendo que eventuais inconformismos “deverão ser arguidos pela defesa nos autos do recurso ou por outra via processual adequada prevista no ordenamento jurídico” (STJ, gRg no HC no 604.761/SC - Relator Min. Reynaldo Soares da Fonseca - 15.10.2020).
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Outrossim, COMUNIQUE-SE ao Juízo singular sobre esta impetração, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 11 de maio de 2021.
+Des. MARCOS MACHADO
