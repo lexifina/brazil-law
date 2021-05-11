@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Ricardo de Oliveira, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o Juízo da 1ª Vara Criminal da comarca de Chapecó/SC condenou o paciente como incurso no art. 33,caput, c/c o art. 40, VI, ambos da Lei n.11.343/2006, à pena de 7anos, 11 meses e 8 dias de reclusão, em regime fechado, e pagamento de 793dias-multa (fls. 11/25).
+Interposta apelação pela defesa, o Tribunala quonegou provimento ao recurso (fls.80/100).
+Daí a presente impetração, na qual se alega constrangimento ilegal pelo recrudescimento da pena-base, dada a baixa quantidade de droga apreendida, bem como pelo não reconhecimento da atenuante da confissão espontânea.
+Requer-se, assim,a concessão da ordem para o redimensionamento da pena.
+Prestadas as informações (fls. 115/153), o Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 158/164).
+É o relatório.
+Para melhor compreensão da controvérsia, confiram-se os fundamentos da sentençaao fixar a pena (fls. 22/23 - grifo nosso):
+Passo, doravante, à dosimetria da pena.
+No que tange às circunstâncias judiciais do artigo 59 do Código Penal e atento aos fatores preponderantes gizados no artigo 42 da Lei n. 11.343/06, verifico que a culpabilidade do réu, como grau de reprovabilidade de sua conduta, é normal à espécie. O réu registra antecedentes criminais, mas por caracterizar reincidência, será sopesado na segunda fase (evento 3). Sua conduta social não foi apurada. Não há elementos nestes autos para se aferir sua personalidade. Dos motivos dos crimes não se tem notícia. As circunstâncias do crime indicam a necessidade de majoração da pena-base, pois o acusado traficava crack e cocaína, substâncias que são altamente destrutivas e muito facilmente induz dependência. Vale destacar que a natureza da substância deve ser sopesada com preponderância (art. 42, da Lei n.11.343/06), daí porque a pena para delitos que envolvem cocaína, heroína e crack deve ser mais rigorosa que aquela aplicada para outros estupefacientes menos agressivos. As consequências do crime são inerentes ao tipo. Não há falar em comportamento da vítima, por inexistir sujeito passivo imediato.
+Considerando as circunstâncias supra-analisadas, fixo a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase, aplicável a agravante da reincidência, diante da certidão de antecedentes criminais (evento 3 - Certidão 3), que retrata condenação com trânsito em julgado anterior e pena não extinta há mais de cinco anos. Desta forma, aplica-se aumento de 1/6, elevando-se a sanção para 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão.
+Desta feita, sendo o réu reincidente, eleva-se na segunda fase para 680 (seiscentos e oitenta) dias-multa.
+Não há atenuantes.
+Anoto que o acusado não confessou a autoria do delito, apenas disse que no dia dos fatos trabalhava como "olheiro" para o menor Everton, como forma de adquirir o estupefaciente para manter o seu vício, o que, conforme alhures exposto, não procede. Desta maneira, não merece a aplicação da atenuante da confissão espontânea, pois não teve o intuito de admitir a prática do ilícito, apenas utilizou-se de tal argumentação para procurar eximir-se da conduta comprovadamente praticada.
+Com efeito, tal atenuante tem lugar quando o denunciado, em demonstração de boa-fé, admite a prática da conduta espontaneamente e contribui para a elucidação do fato.
+Como teve o objetivo único de forçar a atenuante, pois a negativa em nada obstaria o reconhecimento do envolvimento do réu, não há possibilidade de aplicação, pois não foi "espontânea", conforme exige o artigo 65, inciso III, alínea "d", do Código Penal.
+ ..
+Com efeito, sob todos os ângulos que se vislumbra a quaestio, não há falar in concreto de aplicação da sobredita atenuante.
+Na terceira fase, presente a causa especial de aumento prevista no artigo 40, inciso VI, da Lei n. 11.343/2006, pois caracterizado o envolvimento do adolescente Everton Leandro Soares dos Santos, que na época contava com 16 anos de idade (data de nascimento 27/11/2003 - evento 1 - fl. 19 - autos do inquérito), motivo por que majoro a pena em 1/6 (um sexto), equivalente a 1 (um) ano, 1 (um) mês e 18 (dezoito) dias de reclusão e 113 (cento e treze) dias-multa.
+Registro não ser aplicável a redução de pena prevista no § 4.º do artigo 33 da Lei n. 11.343/06, pois o réu é reincidente, conforme certidão 3 do evento 3.
+ ..
+Assim, torno definitiva a reprimenda em 7 (sete) anos, 11 (onze) meses e 08 (oito) dias de reclusão e 793 (setecentos e noventa e três) dias-multa. A cada dia-multa fixo o valor de 1/30 (um trigésimo) do salário mínimo, já que não apurado que o réu seja pessoa financeiramente abastada.
+Do expostoverifica-se que assiste razão à impetrante.
+De fato, segundo o entendimento desta Corte,a teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as circunstâncias estabelecidas no art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado (AgRg no HC n. 565.930/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/6/2020).
+Na hipótese, contudo, foi apreendida com o paciente a quantidade de 15,2 g de crack, 24,7 g de cocaína e 2,1 g de maconha(fl. 11). Assim, não obstante a lesividade do crack/cocaínae a variedade das drogas, considero que a referida quantidade de substância ilícita não se mostra exorbitante a ponto de justificar o recrudescimento da pena-base.
+Com efeito, a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo (AgRg no AREsp n. 984.996/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/5/2018).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35, CAPUT, DA LEI N. 11.343/2006. ABSOLVIÇÃO MANTIDA. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DA ESTABILIDADE E DA PERMANÊNCIA DA ASSOCIAÇÃO CRIMINOSA. REVALORAÇÃO DOS FATOS. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE E VARIEDADE DE ENTORPECENTES QUE NÃO JUSTIFICAM O AUMENTO DA PENA-BASE. AFASTAMENTO DA MINORANTE DO TRÁFICO. PEDIDO PREJUDICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. De acordo com a jurisprudência desta Casa, para a subsunção do comportamento do acusado ao tipo previsto no art. 35 da Lei n. 11.343/2006, é imperiosa a demonstração da estabilidade e da permanência da associação criminosa.
+2. Na espécie, não foram apontados elementos concretos que revelassem vínculo estável, habitual e permanente dos acusados para a prática do comércio de estupefacientes.
+3. Absolvição que não exigiu o reexame de provas, mas apenas a revaloração das premissas fáticas tomadas pelo colegiado estadual.
+4. No caso em apreço, 178g (cento e setenta e oito gramas) de maconha e 7g (sete gramas) de cocaína não justificam o aumento da pena-base.
+5. Pedido de afastamento da minorante da pena prejudicado ante a manutenção da absolvição do delito de associação para o tráfico.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 410.707/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2020)
+Melhor sorte não assisteao paciente, quanto ao pleito de aplicação da atenuante da confissão espontânea.
+A esse respeito, dispõe o enunciado da Súmula 545/STJ: Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+Na hipótese, da atenta leitura da sentença condenatóriaverifica-se que o Magistrado sentenciante, ao concluirpela autoriadelitiva, em nenhum momento fez referênciaà confissão do acusado, ora paciente, utilizando-se apenas de outros meios de prova, tais como as circunstâncias em que ocorreu o flagrante e o depoimento das testemunhas.
+Ao contrário do alegado, na verdade, afirma-se que,em que pese a negativa de autoria esposada pelo réu, sua versão é confrontada pelas firmes declarações dos milicianos, que verbalizaram que no momento da abordagem o acusado Ricardo tentou fugir e dispensou uma caixa de fósforos que, posteriormente apanhada, perceberam que continha em seu interior cinquenta pedras de crack (fl. 17)e, ainda que, emborao acusado tenha negado a prática do delito sugerindo que os milicianos tenham o incriminado gratuitamente, esta não merece prosperar, pois suas alegações são isoladas no contexto probatório (fl. 18 - grifo nosso).
+Assim, atento ao enunciado sumular acima transcrito, não há, no ponto, flagrante ilegalidade a ser sanada.
+Fixadas essas premissas e obedecidas as demais diretrizes das instâncias ordinárias, a pena-base imposta ao paciente deve ser estabelecida no mínimo legal de 5 anos de reclusão e 500 dias-multa.Na segunda fase, reconhecida a reincidência do réu, a pena deve ser recrudescida em 1/6, totalizando 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa.Por fim, presente a causa de aumento de pena prevista no art. 40, VI, da Lei n. 11.343/2006, a pena deve ser elevada em 1/6, tornando-se definitiva em 6 anos, 9 meses e 20 dias de reclusão, e pagamento de 680 dias-multa.
+Não obstante a alteração do quantum da pena, o regime inicial fechado deve ser mantidodevido à reincidência do réu.
+Ante o exposto, concedo parcialmente a ordem para fixar a pena do paciente em 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, e pagamento de 680 dias-multa, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. REDUÇÃO. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA O AGRAVAMENTO DA PENA-BASE. INERENTE AO PRÓPRIO TIPO PENAL (15,2 G DE CRACK, 24,7 G DE COCAÍNA E 2,1 G DE MACONHA). ATENUANTE DA CONFISSÃO ESPONTÂNEA. NÃO INCIDÊNCIA. CONDENAÇÕES BASEADAS EM OUTROS ELEMENTOS DE PROVA. SÚMULA 545/STJ.
+Ordem parcialmente concedida nos termos do dispositivo.
