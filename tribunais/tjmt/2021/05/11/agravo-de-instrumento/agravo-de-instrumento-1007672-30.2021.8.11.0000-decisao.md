@@ -1,0 +1,44 @@
+PJe - Processo Judicial Eletrônico
+Tribunal de Justiça de Mato Grosso
+Segunda Câmara de Direito Público e Coletivo
+Agravo de Instrumento no 1007672-30.2021.8.11.0000
+Agravante: ESTADO DE MATO GROSSO
+Agravado: MINISTERIO PUBLICO
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto pelo ESTADO DE MATO GROSSO, contra a r. decisão proferida pelo Juízo da Vara Especializada da Fazenda Pública da Comarca de Sinop/MT, nos autos da Ação Civil Pública no 1015239-04.2020.8.11.0015, movida pelo MINISTERIO PUBLICO, que deferiu a tutela de urgência, determinando ao Agravante a obrigação de disponibilizar aos usuários da rede pública de saúde de Sinop/MT, a realização de estudo urodinamico, notadamente àqueles que sem encontram em fila de espera para a realização do exame pelo Sistema Único de Saúde, solicitados pela Central de Regulação do Município.
+Irresignado com a decisão proferida, sustenta o Agravante que, os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+Assevera que, a responsabilidade solidária dos entes da Federação não impede que o Juízo, ao deferir medida liminar, direcione inicialmente o seu cumprimento a um determinado ente, conforme as regras administrativas de repartição de competências, sem prejuízo do redirecionamento em caso de descumprimento.
+Argumenta que, o Município se habilitou como gestor pleno, passando a receber recursos federais e estaduais para atender procedimentos de média complexidade, de modo que o ente municipal possui autonomia para contratar os serviços postulados no caso específico.
+Com base nestes fundamentos, pugna pela concessão do efeito suspensivo.
+É o relatório.
+Decido.
+Extrai-se dos autos que, o Ministério Público Estadual moveu Ação Civil Pública em desfavor do Estado de Mato Grosso, ao fundamento de que, no ano de 2015, instaurou inquérito civil, para apurar a omissão do poder público na realização de exame urodinamico aos usuários da rede pública de saúde de Sinop/MT.
+Narra na exordial que, o Estado, responsável pelos procedimentos de média complexidade, não fornece o exame à população local, ao fundamento de que o tratamento pode ser realizado nos municípios da Alta Floresta, Cáceres, Cuiabá e Primavera do Leste.
+Afirma que, o Município, por meio de consórcio intermunicipal, promove o custeio para pacientes em casos de urgência, constando, no momento da propositura da demanda, setenta e um exames regulados no sistema, que aguardavam a liberação para realização.
+Por tais razoes, o Parquet moveu a demanda originária, postulando pela concessão da tutela de urgência, consistente na obrigação de fornecer o estudo urodinamico aos usuários da rede pública de saúde de Sinop, notadamente aqueles que estão em fila de espera; medida esta deferida pelo Juízo de 1o Grau, decisão contra a qual se insurge o Recorrente.
+Pois bem.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo ao agravo de instrumento não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+O artigo 196 da Constituição Federal, preconiza a saúde como direito de todos e dever do Estado, lato sensu.
+O Supremo Tribunal Federal, em sede de recurso com repercussão geral reconhecida, consolidou entendimento no sentido de que, constitui obrigação solidária dos entes federativos, fornecer de forma gratuita, o tratamento de saúde às pessoas hipossuficientes.
+Consignou o Pretório Excelso, no que tange ao dever de prestar assistência à saúde da população, o polo passivo da demanda pode ser composto por qualquer um dos entes federativos, de forma isolada ou conjunta. Tal entendimento se aplica ao caso dos autos.
+A propósito:
+“O Tribunal, por maioria, fixou a seguinte tese de repercussão geral (Tema 793): Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente. (RE 855178/SE, Tribunal Pleno, Rel. Min. Luiz Fux, DJ 23/05/2019).
+No mesmo sentido, o entendimento exarado pelo Superior Tribunal de Justiça e por esta Egrégia Corte de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SAÚDE. PRESTAÇÃO DE MEDICAMENTOS. LEGITIMIDADE PASSIVA. SOLIDARIEDADE ENTRE OS MEMBROS FEDERATIVOS.
+1. É solidária a responsabilidade da União, dos Estados-membros e dos Municípios em ação que objetiva a garantia do acesso a tratamento de saúde, razão pela qual o polo passivo da demanda pode ser ocupado por qualquer um deles, isolada ou conjuntamente.
+2. Matéria pacificada pelo STF no julgamento do RE 855.178- RG/SE, Rel. Min. Luiz Fux, DJe 16/3/2015, sob o rito da repercussão geral.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1010069/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/10/2019, DJe 11/10/2019)
+CONSTITUCIONAL E ADMINISTRATIVO – APELAÇÃO – PRELIMINAR DE ILEGITIMIDADE PASSIVA – REJEITADA – DIREITO À SAÚDE – SOLIDARIEDADE ENTRE OS ENTES PÚBLICOS NA PRESTAÇÃO DOS SERVIÇOS DE SAÚDE – PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DE TRIBUNAIS PÁTRIOS – TEMA N. 793 DO SUPREMO TRIBUNAL FEDERAL – RECURSO DESPROVIDO.
+No julgamento do Recurso Extraordinário n. 855.178/SE, de relatoria do Ministro Luiz Fux, restou-se decidido que a obrigação dos Entes da Federação em promover os atos indispensáveis à concretização do direito à saúde é solidária, podendo qualquer deles, União, Estados, Distrito Federal ou Municípios figurar no polo passivo.
+(...) Em face do julgamento, foram opostos Embargos de Declaração pela União, tendo o Plenário reafirmado a jurisprudência dominante da Corte de que os entes da Federação, isolada ou conjuntamente, têm obrigação solidária no dever de efetivar o direito à saúde em favor dos necessitados, restando consignado, ainda, que compete à autoridade judicial, diante dos critérios constitucionais de descentralização e hierarquização, direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+O Superior Tribunal de Justiça, analisando e interpretando o definido pelo Supremo Tribunal Federal, vem asseverando que a tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando estabelece a necessidade de se identificar o ente responsável a partir dos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis a quem suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde, e reafirmando que o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses Entes tem legitimidade ad causam para figurar no polo passivo de lide.” (N.U 1008141-07.2020.8.11.0002, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, HELENA MARIA BEZERRA RAMOS, Primeira Câmara de Direito Público e Coletivo, Julgado em 30/11/2020, Publicado no DJE 07/12/2020)
+Feitas estas considerações, em consonância à jurisprudência pacificada pela Suprema Corte, pelo Tribunal da Cidadania, e por esta Egrégia Corte de Justiça, não há falar em responsabilidade tão somente do Município, no que tange à disponibilização do exame postulado nos autos; ressalvado eventual direito de regresso entre os entes federativos, na fase processual oportuna.
+Posto isso, demonstrados os pressupostos necessários à concessão da tutela de urgência e ausente fundamento apto à sua modificação, de rigor a manutenção da decisão agravada.
+Ante o exposto, indefiro o pedido de concessão do efeito suspensivo.
+Comunique-se o juízo de primeiro grau.
+Intime-se para apresentar contrarrazões.
+Após, colha-se o parecer da Procuradoria Geral de Justiça.
+Des. Mario Roberto Kono de Oliveira
+Relator
