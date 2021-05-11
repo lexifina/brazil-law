@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3):
+    “AGRAVO DE INSTRUMENTO EXECUÇÃO CONTRA A FAZENDA PÚBLICA - Honorários advocatícios - Crédito autônomo em relação ao crédito das partes - Litisconsórcio ativo simples facultativo - Autonomia dos direitos de cada litisconsorte - Possibilidade de expedição de quantos RPV's quantos forem os litisconsortes desde que cada RPV não exceda o limite legal - Portaria nº 9.095/14 do TJ-SP Precedentes - Decisão agravada reformada - Recurso provido.”
+    No recurso extraordinário, interposto com base no permissivo constitucional do art. 102, III, a, aponta-se ofensa ao art. 100, §8º, da Constituição da República. Nas razões recursais, sustenta-se, em síntese, que (eDOC 6, p. 9):
+     “Como a verba honorária é autônoma, e justamente porque se reconhece essa autonomia, pelo valor executado, deveria ser expedido PRECATÓRIO para a sua satisfação, conforme já decidiu o Plenário do E. STF naquela recentíssima decisão.
+    Só é possível a expedição de Requisição de Pequeno Valor para satisfação do crédito dos litisconsortes, hipótese em que cada autor é considerado litigante distinto nas relações com a parte adversa, sendo os créditos, nessa ocasião, pessoais e singulares.”
+    É o relatório. Decido.
+    Assiste razão à parte recorrente.
+    Com efeito, ressalvado meu entendimento pessoal, divergente dos termos da decisão proferida pelo Tribunal a quo, o Plenário deste Tribunal, em 7 de fevereiro de 2019, julgou os Embargos de Divergência nos REs 919269, 919793 e 930251, bem como no ARE 797499, oportunidade na qual, por maioria, fixou a orientação de que a execução dos honorários advocatícios, quando oriundos de condenações em demandas plúrimas, há de ser realizada de maneira una e indivisível.
+    Tal tese converge com outras decisões já proferidas pela Segunda Turma deste Tribunal, consoante se verifica do exame das seguintes ementas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FRACIONADA DE HONORÁRIOS ADVOCATÍCIOS EM AÇÃO COLETIVA: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 949383-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 03.08.2016)
+    “Agravo regimental no recurso extraordinário. Constitucional e Processual. Ação promovida em litisconsórcio facultativo. Honorários advocatícios. Execução proporcional à fração de cada litisconsorte. Artigo 100, § 8º, da CF. Violação. Ocorrência. Precedentes. 1. Nas causas em que a Fazenda Pública for condenada ao pagamento da verba honorária de forma global, é vedado o fracionamento de crédito único, consistente no valor total dos honorários advocatícios devidos, proporcionalmente à fração de cada litisconsorte, sob pena de afronta ao art. 100, § 8º, da Constituição Federal. 2. Agravo regimental ao qual se dá provimento.” (RE 1038035-AgR, de minha relatoria, Rel. p/ Acórdão: Min. Dias Toffoli, Segunda Turma, DJe 08.03.2018)
+    Ante o exposto, nos termos do art. 932, V, b, do CPC, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e determinar que outro seja proferido, considerando a impossibilidade de de fracionamento na expedição de requisitório destinado ao pagamento dos honorários advocatícios.
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
