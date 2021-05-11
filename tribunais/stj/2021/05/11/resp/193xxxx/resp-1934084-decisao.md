@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARINALDO FRANCISCO MACIELcontra acórdão prolatado, por unanimidade, pela 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulono julgamento de apelação, assim ementado (fls. 296/302e):
+APELAÇÃO. ADMINISTRATIVO. TRÂNSITO. Multas de trânsito. 1. PRELIMINAR.
+Alegação de ilegitimidade do Município de São Paulo em aplicar multa por ausência de indicação do condutor. Rejeição.2. MÉRITO. Proprietária pessoa jurídica. Não identificação do condutor infrator. Aplicação da multa prevista no art. 257, § 8º, do Código de Trânsito Brasileiro. Pretensão à anulação por ausência de dupla notificação. Descabimento. Multa aplicada em razão de descumprimento de obrigação acessória. Súmula n. 312 do C. Superior Tribunal de Justiça inaplicável à espécie. Tese fixada no IRDR n. 2187472-23.2017.8.26.0000 pela C. Turma Especial de Direito Público. Sentença de improcedência mantida. Recurso não provido.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 257, § 8º, 280, 281 e 282 do Código de Trânsito Brasileiro, alegando-se, em síntese, que"seja dado TOTAL PROVIMENTO ao Recurso Especial, reformando-se a objurgada decisão para o fim de anular todos os autos de infrações por não indicação do condutor, vez que não preenchido o pressuposto administrativo da dupla notificação (fato incontroverso pela confissão da Recorrida), considerando, consequentemente, indevidas as multas desta espécie lançadas contra o veículo da Recorrente, e, declarar a incompetência da municipalidade na aplicação da multa" (fl. 339e).
+Comcontrarrazões (fls. 364/377e), o recurso foi inadmitido (fls. 378/379e), tendo sido interposto Agravo, posteriormente convertido em recurso especial (fl. 406e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual aobrigatoriedade da dupla notificação prevista nos arts. 280, 281 e 282 do Código de Trânsito Brasileiro aplica-se no procedimento de imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CÓDIGO DE TRÂNSITO BRASILEIRO.MULTA POR AUSÊNCIA DE INDICAÇÃO DO RESPONSÁVEL PELA CONDUÇÃO DE VEÍCULO DE PROPRIEDADE DE PESSOA JURÍDICA. NECESSIDADE DE DUPLA NOTIFICAÇÃO (AUTUAÇÃO DA INFRAÇÃO E POSTERIOR IMPOSIÇÃO DE MULTA).
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Destarte, fixada a tese jurídica no sentido da desnecessidade da lavratura de nova autuação e consequente notificação na sanção pela não indicação de condutor quando o veículo é registrado em nome de pessoa jurídica, de rigor a manutenção da r. sentença de primeiro grau." 2. Nos termos da jurisprudência do STJ, a norma dos arts. 280, 281 e 282 do CTB se aplica à imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito.
+3. Consoante a Súmula 312/STJ, no processo administrativo, para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração.
+4. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+5. Recurso Especial provido.
+(REsp 1879009/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MULTA POR AUSÊNCIA DE INDICAÇÃO DO RESPONSÁVEL PELA CONDUÇÃO DE VEÍCULO DE PROPRIEDADE DE PESSOA JURÍDICA. NECESSIDADE DE DUPLA NOTIFICAÇÃO. HONORÁRIOS. REDIMENSIONAMENTO. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A obrigatoriedade da dupla notificação prevista nos arts. 280, 281 e 282 do Código de Trânsito Brasileiro aplica-se no procedimento de imposição de multa por ausência de identificação do responsável pela condução do veículo por ocasião do cometimento de infração de trânsito.
+III - Honorários advocatícios de sucumbência. Redimensionamento.
+IV - Recurso Especial provido.
+(REsp 1736145/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 20/08/2018).
+Prejudicada a discussão sobre incompetência.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para reconhecer a nulidade das multas aplicadas pelaausência de dupla notificação.
+Invertida a sucumbência.
+Publique-se e intimem-se.
