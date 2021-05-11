@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto, com amparo no art. 105, inciso III, alínea"a", da Constituição Federal, contra acórdão assim ementado (fls. 409-410):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. CESSÃO DE DIREITOS. COMPRA E VENDA DE IMÓVEL RESIDENCIAL. LEGITIMIDADE PASSIVA INCONTESTE. TEORIA DA ASSERÇÃO. ATRASO NA AVERBAÇÃO DO HABITE-SE QUE ACARRETOU DEMORA NA OBTENÇÃO DE FINANCIAMENTO. CORREÇÃO MONETÁRIA QUE DEVERÁ INCIDIR NO SALDO DEVEDOR. PRESERVAÇÃO DO PODER AQUISITIVO DA MOEDA. (PRECEDENTES). POSSIBILIDADE DE CUMULAÇÃO DE DANO MATERIAL COM CLÁUSULA PENAL MORATÓRIA. NATUREZA DISTINTA DOS INSTITUTOS. DANO MATERIAL DEVIDAMENTE COMPROVADO.
+1. Legitimidade passiva inconteste. Empresas que fazem parte de um mesmo conglomerado, atuando em conjunto na exploração do mercado imobiliário. Observância à teoria da asserção;
+2. A liberação dos valores relativos a financiamento imobiliário ocorre somente após a averbação do habite-se junto ao Registro Geral de Imóveis. Demora na averbação do habite-se que implicou retardo na obtenção de financiamento pela parte autora e o consequente atraso na entrega das chaves;
+3. A cominação contratual de uma multa para o caso de mora não interfere na responsabilidade civil decorrente do retardo no cumprimento da obrigação que já deflui naturalmente do próprio sistema. (REsp n. 1.355.554/RJ);
+4. "A correção monetária nada acrescenta ao valor da moeda, servindo apenas para recompor o seu poder aquisitivo, corroído pelos efeitos da inflação, constituindo fator de reajuste intrínsecoàs dívidas de valor." (STJ. REsp 1454139 / RJ. Recurso Especial. 2014/0044528-1. Relatora Ministra Nancy Andrighi -Terceira Turma. Julg. 03/06/2014. Correção monetária do saldo devedor que se impõe na forma ventilada neste acórdão.
+5. A obrigação de indenizar é corolário natural daquele que pratica ato lesivo ao interesse ou direito de outrem. Se a cláusula penal compensatória funciona como prefixaçãodas perdas e danos, o mesmo não ocorre com a cláusula penal moratória, que não compensa nem substitui o inadimplemento, apenas pune a mora (Resp n. 1.355.554/RJ, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 4/2/2013).
+6. Prova coligida aos autos que apontam a demora na averbação do habite-se ocasionando o atraso na obtenção de financiamento e na entrega das chaves. Fato que determinou a evidencia de dano material a título de alugueres pelo período de atraso. A incidir multa de natureza moratória prevista contratualmente.
+7. Provimento parcial do recurso.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, as recorrentes apontam violação dos arts. 394, 397 e 416, parágrafo único, do Código Civil; e do art. 6º da Lei de Introdução às Normas do Direito Brasileiro.
+Sustentam, em síntese, a impossibilidade decumulação de multa moratória com indenização por lucros cessantes, em caso de atraso na entrega de imóvel, pois tal medida constituiriadupla penalidadepelo mesmo fato,considerando-seque ambas as sanções têm natureza compensatória.
+Defendem a legalidade do índice de correção monetária previsto no contrato, o qual não poderia ser substituídopelo índice oficial divulgado pelo TJ-RJ, tal como determinado no acórdão recorrido, sob pena de violação de ato jurídico perfeito.
+Alegam ser cabível a incidência de encargos moratórios sobre o saldo devedor,em razão da demora na obtenção de financiamento imobiliário pela recorrida, a evidenciar sua condição de inadimplência.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A propósito, destaco que a Súmula nº 568 desta Corte Superior dispõe que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ounegar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, anoto que o acórdão recorrido não discorreu sobre o conteúdo normativo dos arts. 394 e397do Código Civil - relacionado ao índice de correção monetária aplicável à hipótese-, bem comodo art. 6º da LINDB - referente à pretensão de incidência de encargos moratórios sobre o saldo devedor. Revela-se inviável, portanto, a análise da apontada violação da legislação federal, ante a ausência de prequestionamento. Assim, não obstante a oposição de embargos de declaração na origem, incide à espécie o verbete da Súmula 211 do STJ.
+Exemplificativamente, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU A PENHORA DE IMÓVEL DO EXECUTADO. IMPENHORABILIDADE DO BEM DE FAMÍLIA. EXTINÇÃO PROCESSUAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, não obstante a oposição de embargos declaratórios, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do STJ.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.675.087/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021.)
+Além disso, as recorrentes sequer alegaramofensa ao art. 1.022 do Código de Processo Civil, o que impede esta Corte Superior de verificar a existência de eventual omissão do acórdão recorrido quanto à matéria em debate.
+A propósito, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS REQUERENTES.
+ ..
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não fora alegada violação ao artigo 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência da Súmula 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.274.511/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2019, DJe 1º/04/2019.)
+Por outro lado, no que se refere à cumulação de multa moratória com lucros cessantes, a Segunda Seção do Superior Tribunal de Justiça, em julgamento realizado sob a sistemática dos recursos especiais repetitivos, consolidou orientação no sentido de que: "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes" (Tema 970).
+Confira-se a ementa do pertinente acórdão paradigma:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido.
+(REsp 1.498.484/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/5/2019, DJe 25/6/2019.)
+No mesmo sentido, os seguintes precedentes desta Corte Superior:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. OMISSÕES OU CONTRADIÇÕES. INEXISTÊNCIA. ATRASO NA ENTREGA DO BEM. PRAZO DE TOLERÂNCIA. INEXISTÊNCIA DE ABUSIVIDADE. SÚMULA 83/STJ. LUCROS CESSANTES. APLICAÇÃO FUNDADA EM MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA DA MULTA CONTRATUAL FIXADA PARA O PROMITENTE COMPRADOR EM DESFAVOR DA CONSTRUTORA. CABIMENTO. JURISPRUDÊNCIA DO STJ. POSSIBILIDADE DE ESCOLHA, PELO RECORRENTE, ENTRE LUCROS CESSANTES OU CLÁUSULA PENAL. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. O entendimento da Segunda Seção do STJ, firmado na sistemática dos recursos repetitivos, é no sentido de que "a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes" (REsp 1.635.428/SC, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe 25/6/2019). Portanto, é necessário facultar ao recorrente a possibilidade de escolha entre as duas modalidades (lucros cessantes ou cláusula penal).
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.871.054/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/9/2020, DJe 7/10/2020.)
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. PERCENTUAL DE RETENÇÃO. ÍNDICE DE CORREÇÃO. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. RETENÇÃO DE 10% DOS VALORES PAGOS. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. REDUÇÃO DO PERCENTUAL DE RETENÇÃO. FUNDAMENTO DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. LUCROS CESSANTES. CABIMENTO. CLÁUSULA PENAL MORATÓRIA. REVERSÃO. BASE PARA A INDENIZAÇÃO. POSSIBILIDADE. CUMULAÇÃO DE LUCROS CESSANTES E CLÁUSULA PENAL. IMPOSSIBILIDADE. TEMA 970/STJ. INDENIZAÇÃO POR DANOS MORAIS. NÃO CABIMENTO. NÃO PROVIMENTO. MULTA IMPOSTA NOS EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. NÃO VERIFICAÇÃO. AFASTAMENTO. SÚMULA 98/STJ. PARCIAL PROVIMENTO.
+ ..
+4. Nos termos da jurisprudência desta Corte, "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes" (Tema/STJ n. 970).
+ ..
+7. Agravo interno parcialmente provido.
+(AgInt no AgInt no AREsp n. 1.252.902/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/9/2020, DJe 1º/10/2020.)
+Como se vê, aconclusão adotadapelo Tribunal de origem, no que se refere à possibilidade de cumulação de multa moratória com lucros cessantes, estáem evidente divergência com a jurisprudência desta Corte Superior, o que impõe a reforma do acórdão recorrido quanto aoponto.
+Em face do exposto, dou parcial provimento ao recurso especial para afastar a condenação ao pagamento de multa moratória, que foi imposta às recorrentes.
+Caracterizada a sucumbência mínima daautora, arcarão as empresas rés, integralmente, com as despesas processuais e os honorários advocatícios, os quais mantenho em 10% (dez por cento) sobre o valor da condenação.
+Intimem-se.
