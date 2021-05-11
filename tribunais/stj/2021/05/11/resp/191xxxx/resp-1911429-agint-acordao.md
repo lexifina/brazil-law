@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino (Presidente), Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE.INTERPRETAÇÃO RAZOÁVEL DA CLÁUSULA CONTRATUAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO BENEFICIÁRIO. DANO MORAL NÃO CONFIGURADO.
+1. Açãocominatória cumulada com compensação por dano moral,em razão de negativa de cobertura pela operadora do plano de saúde deprocedimento médico (Estimulação Magnética Transcraniana) prescrito para o tratamento da doença do beneficiário.
+2. Segundo a orientação do STJ, é possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pela operadora do plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual e não há o agravamento da situação do paciente.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por BEATRIZ BONINI FRARE, contra decisão que conheceudorecurso especial e negou-lhe provimento.
+Ação: cominatória cumulada com compensação por dano moral, ajuizada pela recorrente, em face de UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS E OUTRA, em razão de negativa de cobertura pela operadora do plano de saúde de procedimento médico (Estimulação Magnética Transcraniana)prescrito para o tratamento de sua doença.
+Sentença: julgou parcialmente procedente o pedido para condenar as recorridas no fornecimento e custeio do tratamento indicado. Negou o pedido de compensação por dano moral.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+Apelação cível. Plano de saúde. Ação de obrigação de fazer (custeio de tratamento de estimulação magnética transcraniana) cumulada com pedido de indenização por danos morais. Inconformismo da corre Unimed Campinas e da autora.
+Ilegitimidade passiva da Unimed Campinas. Descabimento. Contrato de abrangência nacional. Sistema de cooperativa que é formado por unidades autônomas integrantes de um sistema único. Ademais, o tratamento foi prescrito em caráter de urgência, sendo demonstrado que a Unimed contratada não dispõe de prestador habilitado. Inteligência da Súmula nº 99 desta E. Corte.
+Dano moral. Descabimento. Discussão sobre obrigação contratual. Fatos deduzidos nos autos que não caracterizam dor emocional profunda, situação vexatória ou mesmo prejuízo a atributos da personalidade do requerente. Para a ocorrência do dano extrapatrimonial é necessária a conduta e o nexo de causalidade que a ligue ao resultado. Caso concreto em que a requerente não logrou demonstrar o agravamento da sua condição clínica ou abalo psicológico no período em que persistiu a negativa. Indenização indevida.
+Recurso especial: alega violação dos arts. 186 e927 do CC, bem como dissídio jurisprudencial. Sustenta que a negativa de cobertura do procedimento médico prescrito configurou ilícito passível de compensação por danos morais. Afirma que "os danos morais, em hipótese como a destes autos, comprovadosin re ipsa, devem ser indenizados, na forma inicialmente pleiteada" (e-STJ, fls. 303).
+Decisão unipessoal: conheceu do recurso especial e negou-lhe provimento em razão da consonância entre o acórdão recorrido e a jurisprudência desta Corte.
+Agravo interno: nas razões do presente recursoalega que o dano moral na hipótese constitui-se "in re ipsa" e que o descumprimento contratual não se respaldava em aparente legalidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE.INTERPRETAÇÃO RAZOÁVEL DA CLÁUSULA CONTRATUAL. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO BENEFICIÁRIO. DANO MORAL NÃO CONFIGURADO.
+1. Açãocominatória cumulada com compensação por dano moral,em razão de negativa de cobertura pela operadora do plano de saúde deprocedimento médico (Estimulação Magnética Transcraniana) prescrito para o tratamento da doença do beneficiário.
+2. Segundo a orientação do STJ, é possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pela operadora do plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual e não há o agravamento da situação do paciente.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por BEATRIZ BONINI FRARE, contra decisão que conheceu do recurso especial e negou-lhe provimento,em razão da consonância entre o acórdão recorrido e a jurisprudência desta Corte.
+- Do dano moral
+As instâncias ordinárias foram uníssonas em afastar a condenação das agravadas em compensação de danos morais.Extrai-se da Sentença do Juiz de 1º Grau de Jurisdição o seguinte excerto:
+"No caso, não se discute que a negativa de cobertura pode ter causado certos dissabores à parte autora, contudo, a necessidade em si de se socorrer do Judiciário para resolver o impasse contratual não gera dano moral. Eventuais constrangimentos e ansiedades experimentados quando da negativa, não caracterizou a dor moral grave que justifique a indenização pretendida." (e-STJ, 216)
+A Corte de origem, ao julgar o recurso de apelação interposto pela agravante, concluiu o seguinte (e-STJ fls. 289/290):
+"No cenário delineado nos autos, é evidente que a requerente sofreu experiência desagradável por conta da negativa do tratamento, além do indiscutível incômodo de ter que lidar com a séria doença que a acometeu. Em que pese ser compreensível o aborrecimento sofrido pela requerente, não me parece razoável considerar que a operadora do plano de saúde tenha atuado de forma a ocasionar o dano moral.
+Como dito, em que pese o dissabor sofrido pela requerente, não se pode afirmar que o descumprimento do contrato pela ré mostrou-se suficiente para caracterizar o seu abalo psíquico, sua aflição espiritual, humilhação, de modo que seria equivocado afirmar a existência do dano moral."
+Com efeito, consoante asseverado na decisão agravada, anegativa de cobertura do procedimento médico foi justificada pela interpretação - equivocada, mas razoável - do art. 10, § 4º, e 35-Fda Lei 9.656/1998.
+Nesse contexto, verifica-se que, na espécie, a atuação da operadora está revestida de aparente legalidade - porquanto só em juízo, a partir da interpretação daquele ato normativo da agência reguladora à luz do CDCe da Lei 9.656/1998, foi vedada a possibilidade de negativa de cobertura do tratamento prescrito -, a possibilitar o afastamento da ocorrência do ato ilícito caracterizador do dano moral.
+Em situações como essa, a orientação adotada pela jurisprudência desta Corte é a de ser "possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual" (AgRg no AREsp 846.940/SC, Terceira Turma, DJe 01/08/2016), pois "dúvida razoável na interpretação do contrato  ..  não configura conduta ilícita capaz de ensejar indenização" (AgInt no AREsp 983.652/SP, Terceira Turma, DJe 02/02/2017). No mesmo sentido: AgInt no REsp 1.853.579/PR, Quarta Turma, julgado em 10/08/2020, DJe de 14/08/2020; AgInt no AREsp 1.555.263/SP, Quarta Turma, julgado em 08/06/2020, DJe de 25/06/2020.
+Ademais, consoante jurisprudência desta Corte,a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente, o que, conforme narrado pelas instâncias ordinárias, não ocorreu na hipótese. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Logo,o acórdão recorrido, neste ponto, está em harmonia com a jurisprudência desta Corte, mantendo incólume a incidência da Súmula 568 do STJ.
+Ressalte-se, ainda, que parte agravante não demonstrou que os julgados que fundamentaram a incidência da Súmula 568 do STJ não se aplicariam à hipótese.
+Ademais, frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao referido óbice da Súmula 7 do STJ.
+Dessa forma, adespeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
