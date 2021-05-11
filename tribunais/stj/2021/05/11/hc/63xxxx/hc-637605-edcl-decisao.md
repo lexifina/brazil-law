@@ -1,0 +1,12 @@
+Alega o embargante que, apesar de ter sido redimensionada a sua pena, a decisão não analisou a questão apontada sobre o não reconhecimento da confissão extrajudicial, qualificada. Sustenta que tal confissão foi utilizada pelo Magistrado para decidir pela condenação.
+É o relatório.
+Não há omissão alguma na decisão, de modo que deve ser mantida por seus próprios fundamentos. Quando interposta a apelação, a defesa de Reginaldo Miranda Quadros nada mencionou acerca de reconhecimento de confissão qualificada, mas, sim, apontou ser devida a suaabsolvição; tampouco relatousobre o reconhecimento da causa de diminuição da pena, a ser aplicada na terceira fase. Assim, a matéria não foi debatida na sentença ou no acórdão hostilizado.
+Diante disso,este Relator procedeu ao redimensionamento da pena-base, considerando aquantidade de drogas (art. 42da Lei n. 11.343/2006) mais de 2 toneladas de maconha, a primariedade, ausência de antecedentes. Verifica-se que o Magistrado, inicialmente, havia elevado a pena-base em 7 anos de reclusão, fixada em 12 anos, ao considerar trêsvetoriais, culpabilidade, consequências e quantidade de drogas. Comoduas delas foram afastadas pela Câmara Criminal, razoável a fixação da pena feita neste habeas corpus, para 7 anos e 4 meses de reclusão, e 1.072 dias-multa. Como colocado na sentença e no acórdão, na segunda fase, ausentes circunstâncias agravantes ou atenuantes.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. MAIS DE 2 TONELADAS DE MACONHA. DOSIMETRIA REDIMENSIONADA NA DECISÃO. ALEGAÇÃO DE OMISSÃO QUANTO À QUALIFICADA CONFISSÃO EXTRAJUDICIAL. PEDIDO DE RECONHECIMENTO. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA ORDINÁRIA.
+Embargos de declaração rejeitados.
+DECISÃO
+Trata-se de embargos de declaração opostos por Reginaldo Miranda Quadrosàdecisão de minha relatoria, que concedeu a ordempara redimensionar a pena do paciente. Esta, a ementa da decisão (fl. 350):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. MAIS DE 2 TONELADAS DE MACONHA. DOSIMETRIA. PEDIDO DE REDIMENSIONAMENTO DA PENA-BASE PARA O CRIME DE TRÁFICO DE DROGAS. JULGAMENTO DA APELAÇÃO QUE AFASTOU A CULPABILIDADE E AS CONSEQUÊNCIAS. POSSIBILIDADE DE REDIMENSIONAMENTO DA PENA. REGIME FECHADO. Ordem concedida nos termos do dispositivo.
