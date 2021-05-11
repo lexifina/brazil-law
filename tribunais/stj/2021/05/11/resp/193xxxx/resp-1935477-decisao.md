@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em:10/03/2021.
+Concluso ao gabinete em: 03/05/2021.
+Ação: cominatória cumulada com compensação por dano moral, ajuizada por DALVA FRANÇA PURKOT E OUTRO, em face da recorrente, em razão de negativa de custeio de procedimento médico prescrito ("PET dedicado oncológico, TC para Pet dedicado oncológico")para tratamento de sua doença ("adenocarcinoma pouco diferenciado").
+Sentença: julgou parcialmente procedente o pedido paraofim de condenar a ré a proceder à cobertura do procedimento médico prescrito. Negou o pedido de compensação por dano moral.
+Acórdão: negou provimento à apelação interposta pela recorrente e deu parcialprovimento à apelação interposta pela recorrida, para condenar a recorrente a compensar o dano moral no valor de R$ 10.000,00, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DEFAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. AUTORA IDOSA (72 ANOS) DIAGNOSTICADA COM CÂNCER(ADENOCARCINOMA POUCO DIFERENCIADO - NEOPLASIA EMTRONCO CELÍACO). NECESSIDADE DO EXAME "PET DEDICADOONCOLÓGICO, TC PARA PET DEDICADO ONCOLÓGICO". NEGATIVADE COBERTURA BASEADA EM NÃO ENQUADRAMENTO NASDIRETRIZES DE UTILIZAÇÃO DO ROL DE PROCEDIMENTOS DA ANS. SENTENÇA QUE CONDENOU A RÉ A FORNECER O EXAME. QUESTÃOSUPERADA EM RAZÃO DA NÃO INTERPOSIÇÃO DE RECURSO PELAREQUERIDA. INSURGÊNCIA DA PARTE AUTORA QUANTO A NÃOCONDENAÇÃO DA RÉ AO PAGAMENTO DE INDENIZAÇÃO PORDANOS MORAIS. ACOLHIMENTO. NEGATIVA ABUSIVA. GRAVIDADEDA DOENÇA. DANOS MORAIS CONFIGURADOS, NA HIPÓTESE. PARTICULARIDADES DO CASO CONCRETO. NECESSIDADE DEARBITRAMENTO. CORREÇÃO MONETÁRIA. TERMO . DATA DOA QUOARBITRAMENTO. SÚMULA 362 DO STJ. JUROS DE MORA. TERMOINICIAL. RELAÇÃO CONTRATUAL. DATA DA CITAÇÃO. ARTIGO 405DO CÓDIGO CIVIL. ÔNUS DE SUCUMBÊNCIA ATRIBUÍDOINTEGRALMENTE À REQUERIDA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Recurso especial: alega violação dos arts. 10, § 4º, da Lei 9.656/98; e 186, 188e 927 do CC. Aduz a legalidade da conduta da operadora do plano de saúde ao recusar o procedimento médico prescrito por não fazer parte da cobertura obrigatória prevista pela ANS. Assevera a ausência de ato ilícito ou dano ao recorrido.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do julgamento: CPC/15.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte recorrente não demonstram como o acórdão recorrido violou o art.10, § 4º, da Lei 9.656/98,o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Com efeito, a parte recorrente não apelou da sentença do Juiz de 1º Grau de Jurisdição, estando as razões do apelo especial, quanto ao referido artigo, dissociadas das razões do acórdão recorrido.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, quandoagravar a situação de aflição psicológica e de angústia no espírito do beneficiário (AgInt noAREsp1.106.509/RJ, 3ª Turma,DJede 09/10/2017; AgInt noREsp1.647.519/CE, 4ª Turma,Djede 13/10/2017; eREsp1721705/SP, 3ª Turma,DJede 06/09/2018).
+No particular, o TJ/PR consignou que se tratava de paciente idosa, acometida por doença grave (câncer), com risco de ter a doença agravada pela demora, ressaltando aurgência para a realização do exame, restando configurando o dano moral na hipótese.
+Ademais, frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao referido óbice da Súmula 7 do STJ.
+Dessa forma, diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+  Nos  termos  do  art.  85,  §  11,  do  CPC/15,  considerando  o  trabalho  adicional  imposto  ao  advogado  da  parte  agravada  em  virtude  da  interposição  deste  recurso,  majoro  os  honorários  fixados  anteriormente  em  15%  sobre  o  valor  da  condenação  (e-STJ  fls.  779)  para  17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.  RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL.  CONTRATO DE PLANO DE SAÚDE. AMPLITUDE DE COBERTURA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PROCEDIMENTO PRESCRITO PARA TRATAMENTO DE CÂNCER. RECUSA INDEVIDA DE COBERTURA. AGRAVAMENTO DA SITUAÇÃO DE ANGÚSTIA. DANO MORAL CONFIGURADO. JULGAMENTO: CPC/15.
+1. Ação cominatória cumulada comcompensação por dano moral, em virtude da recusa da operadora de plano de saúde em custear procedimento médico não inserido no rol da ANS.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Hipótese em que se reputa abusiva a recusa da operadora do plano de saúde de cobertura do procedimento médico prescrito para o tratamento da doença que acometeu o beneficiário, recusa essa que, por causar o agravamento da situação de angústia e a piora do seu estado de saúde, configura dano moral.
+4. Recurso especial parcialmente conhecido e, nesta extensão, desprovido.
