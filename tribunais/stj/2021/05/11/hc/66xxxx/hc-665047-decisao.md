@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de Jociel Gomes, em que se aponta como autoridade coatora o Desembargador Relator da Segunda Câmara Especializada Criminal do Tribunal de Justiça do Piauí (HC n. 0753671-84.2021.8.18.0000), que, ao indeferir o pedido liminar, manteve a prisão preventiva decretada pelo Juiz de Direito da Vara Única da comarca de União/PI.
+O referido decisum foi assim ementado (fl. 25):
+HABEAS CORPUS. TRÁFICO DE DROGA E ASSOCIAÇÃO. AUSÊNCIA DE PROVA EMPRESTADA. PRISÃO PREVENTIVA NECESSÁRIA À GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO CRIMINOSA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. LIMINAR DENEGADA
+Daí o presente mandamus, em que a defesa sustenta, de início, a nulidade do inquérito, por ter sido baseado somente em depoimento constante no processo nº 0800421-13.2021.8.18.0076, onde os depoimentos acostados, sem contraditório do paciente, serviram de suporte ao pedido de prisão preventiva formulado pela Delegacia (fl. 4).
+Aduz que o paciente não era investigado no Processo n. 0800421-13.2021.8.18.0076; que não foi ofertado o contraditório e a ampladefesa em nenhum momento do inquérito acerca dos fatos, e que, para requerer a preventiva do paciente o Delegado apenas acostou aos autos, depoimentos que, sem qualquer contraditório e ampla defesa, acusando o Réu de ser traficante, não tendo sido apreciada a situação individual do Réu, que possui residência fixa, possui filhos menores, e não possui a periculosidade ou participa de qualquer organização criminosa ou pratica o crime quem tentam lhe imputar (fls. 5/11).
+Salienta que, na condição de pai e único responsável pela manutenção da família, tendo filhos menores e que precisam de seu amparo, deve ser aplicado o art. 318, III e V, do Código de Processo Penal, assim como o 318-A do mesmo diploma legal, com o fim de se determinar a prisão domiciliar do paciente (fls. 11/15).
+Defende, ainda, o descabimento da manutenção da prisão, ante a ausência dos requisitos do art. 312 do Código de Processo Penal (fls. 18/19).
+Requer, inclusive liminarmente, a revogação da prisão do paciente, assegurando-lhe o direito de aguardar em liberdade o julgamento definitivo deste writ, ou, subsidiariamente, a substituição da prisão preventiva por domiciliar, em razão do paciente possuir filhos menores de idade, e/ou substituição por qualquer umas das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, bem como seja determinada a nulidade das provas emprestadas, contidas no Processo n. 0800421-13.2021.8.18.0076 e acostadas ao Processo n. 0800929-56.2021.8.18.0076 que determinou a prisão do paciente (fls. 20/21).
+É o relatório.
+Os autos estão deficientemente instruídos.
+Não há cópia integral da decisão que decretou a prisão preventiva do acusado, documento indispensável para a apreciação da alegada falta de fundamentação do ato e, consequentemente, para o exame da plausibilidade do pedido.
+Ora, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração.
+Ilustrando esse entendimento: AgRg no HC n. 583.705/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/6/2020; AgRg no HC n. 552.139/AC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/5/2020, AgRg nos EDcl no HC n. 354.327/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/5/2020; e AgRg no RHC n. 100.336/RS, Ministra Laurita Vaz, Sexta Turma, DJe 16/9/2019.
+Pelo exposto, não conheço deste writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRÁTICA, EM TESE, DOS DELITOS DE TRÁFICO E DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INSTRUÇÃO DEFICIENTE. FALTA DE CÓPIA DE PEÇA ESSENCIAL.
+Writ não conhecido.
