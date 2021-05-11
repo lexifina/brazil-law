@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E MAJORADO PELO EMPREGO DE ARMA DE FOGO (ART. 157, § 2º, II, C/C § 2º-A, I, DO CÓDIGO PENAL). PRELIMINAR. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO POR INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CÓDIGO DE PROCESSO PENAL. NÃO CABIMENTO. PROCEDIMENTO CONSIDERADO COMO MERA RECOMENDAÇÃO. ELEMENTOS PROBATÓRIOS QUE CORROBORAM O RECONHECIMENTO. PRECEDENTES DESTA CORTE. PREFACIAL AFASTADA. MÉRITO. MATERIALIDADE E AUTORIA DEMONSTRADAS. DOSIMETRIA. CAUSAS DE AUMENTO. SÚMULA 443/STJ.
+1. In casu, as instâncias ordinárias, com apoio nos elementos probatórios dos autos, em especial o depoimento das vítimas e a prova testemunhal, concluíram que restaram devidamente comprovadas tanto a materialidade quanto a autoria delitiva da conduta imputada.
+2. Considerando a incidência das majorantes do concurso de agentes e uso de arma de fogo, a fração de 2/3 para majorar a pena não evidencia violação da Súmula 443/STJ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Tiago Marengo Machado contra a decisão, de minha lavra, que indeferiu liminarmente a ordem de habeas corpus em seu favor. Este é o resumo do decisum ora agravado (fl. 654):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E MAJORADO PELO EMPREGO DE ARMA DE FOGO (ART. 157, § 2º, II, C/C § 2º-A, I, DO CÓDIGO PENAL). PRELIMINAR. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO POR INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CÓDIGO DE PROCESSO PENAL. NÃO CABIMENTO. PROCEDIMENTO CONSIDERADO COMO MERA RECOMENDAÇÃO. ELEMENTOS PROBATÓRIOS QUE CORROBORAM O RECONHECIMENTO. PRECEDENTES DESTA CORTE. PREFACIAL AFASTADA. MÉRITO. MATERIALIDADE E AUTORIA DEMONSTRADAS. DOSIMETRIA. CAUSAS DE AUMENTO. SÚMULA 443/STJ. Writ indeferido liminarmente.
+Neste recurso, o agravante repisa os argumentos lançados originalmente, destacando que a condenação do agravante se baseia nos depoimentos das vítimas e reconhecimento pessoal, na fase inquisitorial (fl. 662); bem como violação ao enunciado da Súmula 443/STJ, uma vez que a fundamentação apresentada para justificar as causas de aumento é inidônea.
+Pugna, assim, pela reconsideração da decisão, para reconhecer a nulidade do procedimento de reconhecimento pessoal, e, consequentemente, ser o agravante absolvido por negativa de autoria dos fatos imputados; ou, subsidiariamente, adequação da fração de aumento na terceira fase da dosimetria (fl. 666).
+É o relatório
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E MAJORADO PELO EMPREGO DE ARMA DE FOGO (ART. 157, § 2º, II, C/C § 2º-A, I, DO CÓDIGO PENAL). PRELIMINAR. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO POR INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CÓDIGO DE PROCESSO PENAL. NÃO CABIMENTO. PROCEDIMENTO CONSIDERADO COMO MERA RECOMENDAÇÃO. ELEMENTOS PROBATÓRIOS QUE CORROBORAM O RECONHECIMENTO. PRECEDENTES DESTA CORTE. PREFACIAL AFASTADA. MÉRITO. MATERIALIDADE E AUTORIA DEMONSTRADAS. DOSIMETRIA. CAUSAS DE AUMENTO. SÚMULA 443/STJ.
+1. In casu, as instâncias ordinárias, com apoio nos elementos probatórios dos autos, em especial o depoimento das vítimas e a prova testemunhal, concluíram que restaram devidamente comprovadas tanto a materialidade quanto a autoria delitiva da conduta imputada.
+2. Considerando a incidência das majorantes do concurso de agentes e uso de arma de fogo, a fração de 2/3 para majorar a pena não evidencia violação da Súmula 443/STJ.
+3. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos apresentados pela agravante, a decisão ora impugnada deve ser mantida integralmente.
+Isso, porque, ao que se tem dos autos, as instâncias ordinárias, com apoio nos elementos probatórios dos autos, em especial o depoimento das vítimas e a prova testemunhal, concluíram que restaram devidamente comprovadas tanto a materialidade quanto a autoria delitiva da conduta imputada.
+De mais a mais, o de srespeito às balizas do art. 226 do Código de Processo Penal, concernentes ao reconhecimento pessoal, acarretam o enfraquecimento da força probante da providência, mas não a sua invalidação (HC 196.797/SP, Sexta Turma, Ministra Maria Thereza de Assis Moura, DJe 24/3/2014) (AgRg no AREsp 1.449.984/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 10/2/2020).
+No que se refere à terceira fase da dosimetria, considerando a incidência das majorantes do concurso de agentes e uso de arma de fogo, a fração de 2/3 para majorar a pena não evidencia violação da Súmula 443/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
