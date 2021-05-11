@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCONI MEDEIROS MARQUES DE OLIVEIRA, com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado (e-STJ fl. 46):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA DISTRITAL. RESPONSABILIDADE SUBSIDIÁRIA. HONORÁRIOS SUCUMBENCIAIS. FASE DE CONHECIMENTO. PRÉVIA LIQUIDAÇÃO.
+1. Embora devidos os honorários sucumbenciais da fase de conhecimento, estes dependem da liquidação da ação coletiva no Juízo primitivo para serem exigidos pela parte exequente.
+2. O reconhecimento da necessidade de fixar os honorários da fase de conhecimento quando da liquidação do título nos autos da ação coletiva não gera direito a honorários para os executados, uma vez que apenas organiza a forma como deverá ocorrer o pagamento ao credor.
+3. A responsabilidade subsidiária fixada na ação coletiva não gera em favor da fazenda distrital direito a honorários sucumbenciais, diante da inexistência de acolhimento parcial da impugnação.
+4.Deu-se parcial provimento ao agravo.
+Embargos de declaração rejeitados (e-STJ fls. 61/67).
+Em suas razões, a parte recorrente alega, preliminarmente, afronta ao art.1.022, II. do CPC/2015, tendo em vista a omissão do acórdão recorrido, uma vez que deixou de analisar o "disposto nos arts. 23 e 24, § 1º, da Lei n. 8.906/94, acerca da possibilidade do advogado poder executar seus honorários onde melhor lhe convier e não necessariamente nos autos do processo originário" (e-STJ fl. 73).
+No mérito, aponta violação dos seguintes arts.
+a) 23 e 24, § 1º, da Lei n. 8.906/1994, sustentando que "a não estipulação dos percentuais dos honorários em foco acabou por privar o advogado do direito subjetivo a tal verba" (e-STJ fl. 74); e
+b) 85, §§ 3º e4º, II, do CPC/2015, aduzindo que "é peremptório no sentido de impor ao juiz a obrigação de definir os percentuais dos honorários sucumbenciais, após a liquidação do julgado  .. . Logo, se o recorrente pleiteia para que seja mantida a fixação de verba que a ele foi deferida na fase de conhecimento juntamente com a execução individual por ele também patrocinada, negar-lhe tal direito significa uma afronta à determinação contida no referido artigo, relativa à fixação dos honorários após a liquidação"(e-STJ fls. 73/74).
+Contrarrazões às e-STJ fls. 84/89.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 93/94.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa anotação, verifico que a pretensão recursal nãomerece prosperar.
+Em relação à alegada ofensa ao art. 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Min.HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017)
+No caso, discutiu-se, na origem, acerca da possibilidade de executar, no cumprimento individual de sentença, os honorários da fase de conhecimento de ação coletiva, na qual se determinou a fixação dos percentuais definidos no § 3ºdo art. 85do CPC, quando liquidada a condenação.
+A esse respeito, o Tribunal de origem assentou que (e-STJ fls. 50/51):
+Deve ser reformada a decisão agravada que fixou os honorários da fase de conhecimento, conforme se vê no seguinte trecho:
+ ..
+Isso porque, embora devidos os honorários da fase de conhecimento, estes dependem da liquidação da ação coletiva no Juízo primitivo para serem exigidos pela parte exequente.
+Tal entendimento conta expressamente do Acórdão exequendo (975313):
+"(..) De ofício, retifico a fixação de honorários de sucumbência, e condeno os requeridos a pagá-los nos percentuais definidos no §3º, do art. 85, do CPC, a serem fixados quando liquidada a condenação, como dispõe o §4º, II, do mesmo dispositivo. (..)"
+Acrescento que a jurisprudência deste E. TJDFT aponta no mesmo sentido:
+"(..) Os honorários de sucumbência da fase de conhecimento da ação coletiva cuja fixação foi diferida para a fase de liquidação do julgado, na forma do art. 85, § 4º, II, do CPC, não podem ser fixados no cumprimento individual da sentença coletiva e antes da devida liquidação. (..)" (Acórdão 1227012,07204439520198070000, Relator: CARMELITA BRASIL, 2ª Turma Cível, data de julgamento: 29/1/2020, publicado no DJE: 7/2/2020. Pág.: Sem Página Cadastrada.)
+"(..) 3. A fixação de honorários adstritos à fase de conhecimento deve ser equalizada, pelo que se apresenta a matéria posta, nos autos da ação coletiva, de modo, inclusive, a se evitar bis in idem, ainda que o procurador agravante tenha atuado naqueles e nestes autos. Não prospera a tese recursal que pretende ordenar percentual carente de apropriada e precisa delimitação ou liquidação no feito originário (ação coletiva), a título de honorários sucumbenciais. (..)" (Acórdão 1227652, 07170653420198070000, Relator: FÁBIO EDUARDO MARQUES, 7ª Turma Cível, data de julgamento: 29/1/2020, publicado no DJE: 14/2/2020. Pág.: Sem Página Cadastrada.). (Grifos acrescidos).
+No mérito, tampouco assiste razão à parte insurgente.
+Com efeito,constata-se claramente que orecorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, limitando-se a sustentar o direito do advogado de executar os honorários da fase de conhecimento da ação coletiva na fase de execução individual, bem comoo dever do juiz de definir os percentuais dos honorários sucumbenciais, após a liquidação do julgado.
+Porém, não se manifestou acerca da necessidade de liquidação da ação coletiva no Juízo primitivo para que sejam devidos os honorários da fase de conhecimento, conforme destacado no acórdão exequendo, nem sobre a tese de bis in idem, levantada pelo acórdão ora recorrido, circunstância que atrai a aplicação daSúmula283 do STF.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
