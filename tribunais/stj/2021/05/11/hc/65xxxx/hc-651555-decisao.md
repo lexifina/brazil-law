@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBSON RAMOS DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0015737-92.2014.8.26.0506).
+Consta dos autos ter sido o paciente condenado à pena de 5anos e 10meses de reclusão, em regime fechado, e ao pagamento de 79 dias-multapela prática do crime previsto no art. 157 do Código Penal.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao apelo nos termos da ementa de e-STJ fl. 75:
+ROUBO - Artigo 157, do CP. Autoria e materialidade comprovadas. Condenação mantida.PENAS E REGIME PRISIONAL - Corretamente impostos, não comportando modificação.Recurso desprovido.
+No presente writ, sustenta a defesa inexistir motivação idônea para a fixação da pena-base acima do mínimo legal.
+Afirma que "a mera conduta de entrar no estabelecimento comercial e se passar por cliente não extrapola o ordinariamente utilizado para a aproximação necessária ao ofendido.Assim, não restou caracterizado o meio insidioso da dissimulação para o cometimento do crime de roubo, devendo ser reformada a decisão a fim de afastar essa agravante" (e-STJ fl. 6).
+Pontua que a agravante da reincidência tem que ser inteiramente compensada com a atenuante da confissão espontânea.
+Aduz haver constrangimento ilegal na fixação do regime fechado, invocando os enunciados718 e 719 da Súmula do Supremo Tribunal Federal. No ponto, defende, ainda, que a reincidência, por si só, não pode justificar a imposição do regime mais gravoso.
+Busca, liminarmente, a suspensão dos efeitos da condenação.
+No mérito, requer"afixação da pena-base no mínimo legal, o afastamento da agravante da dissimulação, a compensação plena da atenuante da confissão e da agravante da reincidência e a fixação do regime inicial semiaberto para cumprimento de pena, em razão da ausência de fundamentação para a fixação do regime fechado" (e-STJ fl. 13).
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Inicialmente, a defesa pleiteia a fixação da pena-baseno mínimo legal.
+No ponto, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No ponto, a defesa alega que "a pena acima do mínimo legal foi fundamentada apenas sob o aspecto das circunstâncias do fato serem desfavoráveis" (e-STJ fl. 5), mas que "considerando a personalidade do agente, observa-se que este não agiu com violência, de forma a não ser considerado pessoa perigosa, assim como, confessou espontaneamente o delito.Do mesmo modo, sob o prisma das circunstâncias do delito, é preciso destacar que a res delictiva possui pequeno valor, avaliada em cerca de R$ 80,00"(e-STJ fl. 5).
+Todavia, o Tribunal a quo consignou que,"na primeira fase, em razão dos maus antecedentes, a pena-base foi majorada e fixada em 05 anos de reclusão"(e-STJ fl. 80) e que "oréu efetivamente ostenta maus antecedentes conforme expressamente apontado na sentença, eis que possui uma condenação considerada apta a gerar reincidência e seis condenações que foram utilizadas para caracterizar maus antecedentes"(e-STJ fl. 81).
+Como se vê, a elevação da pena básica deu-se não em virtude das circunstâncias do delito, mas sim dos antecedentes do réu, e esse fundamento é idôneo a tal desiderato, de modo que o aumento deve ser mantido.
+Quanto ao pleito de afastamento da agravante da dissimulação, também não assiste razão à defesa.
+Com efeito, acerca da matéria, assentou a Corte de origem (e-STJ fls. 81/82, grifei):
+Quanto ao reconhecimento da agravante prevista no artigo 61, II, "c", do Código Penal (dissimulação), não se mostrou divorciada do quanto apurado nos autos. A dissimulação na intenção do roubo, dificultando a defesa do ofendido, foi atestada pelo relato da vítima e confirmada pelas imagens da câmera de segurança do estabelecimento vítima (fls. 07/09).
+Com efeito, o réu apresentou-se e agiu como cliente, ocultando sua intenção ilícita, para surpreender a vítima e pegá-ladesprevenida.
+Assim,o Tribunal originário entendeu estarem devidamente comprovada a dissimulação para o cometimento do delito, ea mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+Ainda, a defesa se volta contra a não compensação integralpela Corte de origemda atenuante da confissão e a agravante da reincidência.
+No ponto, embora a jurisprudência seja favorável à tese defensiva, remanesce a agravante da dissimulação, cuja incidência, no caso, resultou no aumento de 1/6na segunda fase da dosimetria,quantumque é considerado mínimo.
+Assim, mesmo com a compensação integral entre a atenuante da confissão e a agravante da reincidência, não há o que se modificar no procedimento adotado pelas instâncias ordinárias.
+Por fim,a existência decircunstâncias judiciais desfavoráveis, no caso, os antecedentese a reincidência, autorizam a manutenção do paciente no regime mais gravoso, não obstante o quantum total de pena de 5 anos e 10 meses de reclusão.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO QUALIFICADO TENTADO. DOSIMETRIA. PLEITO DE REDUÇÃO NA FRAÇÃO MÁXIMA PELA TENTATIVA. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME SEMIABERTO. DESCABIMENTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS (MAUS ANTECEDENTES). E REINCIDÊNCIA. REGIME FECHADO. ADEQUADO. SÚMULA 269/STJ. INAPLICABILIDADE. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena caso se trate de flagrante ilegalidade e não seja necessária uma análise aprofundada do conjunto probatório. Vale dizer, " ..  o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJU de 11/4/2005).
+III - Considerada a estreita proximidade de consumação do delito, a escolha do patamar de diminuição está em consonância com a jurisprudência desta Corte que "adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (HC n.298.249/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/4/2018).
+IV - Alterar a fração correspondente à tentativa demandaria o reexame do iter criminis percorrido pelo agente, procedimento vedado na via do habeas corpus. Nesse sentido: HC n. 426.444/RS, Quinta Turma, de minha relatoria, DJe de 7/3/2018.
+V - Sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+VI - A incidência da Súmula n. 269/STJ pressupõe que todas as circunstâncias judiciais sejam favoráveis, o que não ocorre na espécie.
+Habeas corpus não conhecido. (HC 571.800/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
