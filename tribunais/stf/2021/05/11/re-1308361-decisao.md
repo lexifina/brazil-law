@@ -1,0 +1,25 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto pelo Estado do Rio de Janeiro, em face de acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+    “SERVIDORA PÚBLICA – PRETENSÃO DE PAGAMENTO DO ABONO DE PERMANÊNCIA. NÃO ACOLHIMENTO DAS PRELIMINARES DE PRESCRIÇÃO. PROCEDENCIA DO PEDIDO. RECURSO INOMINADO ALEGANDO A PRESCRIÇÃO. DESPROVIMENTO DO RECURSO.”
+    Devolvidos os autos à Câmara Julgadora, pela Terceira-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, para reapreciação da matéria nos termos do art. 1.040, II, do CPC, foi refutado o juízo de retratação em acórdão assim ementado:
+    “RECURSO INOMINADO. PAGAMENTO DE DIFERENÇAS DO ABONO DE PERMANÊNCIA. SERVIDORA PÚBLICA. AUTOS RECEBIDOS DA TERCEIRA VICE-PRESIDÊNCIA PARA EVENTUAL EXERCÍCIO DO JUÍZO DE RETRATAÇÃO À LUZ DO TEMA 810 DO E. STF. MANUTENÇÃO DA DECISÃO COLEGIADA POR NÃO TER RESTADO CARACTERIZADA VIOLAÇÃO À TESE FIXADA RELATIVA AO REFERIDO TEMA.”
+    Desse modo, foi determinada a subida dos autos a este Supremo Tribunal Federal.
+    O recorrente, em suas razões, aponta violação à norma contida no art. 102, § 2°, da Constituição Federal, alegando em síntese que “(…) deve ser utilizada, como critério para a correção monetária, o art. 5º Lei nº 11.960/09, que prevê o uso da Taxa Referencial – TR como índice de correção monetária. Caso não se entenda desta forma, deve ser considerado o índice da lei federal até 20/11/2017 (data do julgamento do RE 870.947)”.
+    Ao final requer o provimento do recurso extraordinário “(…) a fim de que seja reformada o v. acórdão por ter o mesmo violado entendimento definido no recente julgamento do RE 870.947, em sede de repercussão geral”.
+    Esse o sucinto relatório. Decido.
+    Reputo inadmissível o recurso extraordinário.
+    De início, no âmbito da repercussão geral da questão suscitada, o Plenário do Supremo Tribunal Federal, ao apreciar o RE 870.947/SE, Ministro Luiz Fux, DJ de 9.11.2017, firmou a seguinte tese (com meus grifos):
+    “1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado.
+    2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+    3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro,  LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. E STARTZ, R. Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29).”
+    Buscando modular aquele julgamento, os entes públicos réus opuseram embargos de declaração.
+    Na sessão de 03.10.2019, todavia, o Plenário do STF, em julgamento majoritário, rejeitou tais embargos, havendo, assim, recusado a pleiteada atribuição de efeitos prospectivos.
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios recursais.
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c o § 1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
