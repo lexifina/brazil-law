@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação indenizatória.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno manejado por ACS SUMARÉ EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRAcontra decisão unipessoal que conheceu parcialmente do recurso especial que interpuseram e, nessa extensão, negou-lhe provimento.
+Ação: indenizatória ajuizada por JULIANA OLIVEIRA em desfavor das agravantes, em razão de atraso na entrega de unidade imobiliária.
+Sentença: julgou a ação parcialmente procedente para que o saldo devedor seja corrigido pelo INPC a partir da data prevista para a entrega das chaves (novembro de 2015) até a efetiva entrega (novembro de 2017). Condenou as rés ao pagamento de lucros cessantes entre os meses de novembro de 2015, inclusive, até a entrega das chaves ao autor, em novembro de 2017, devidamente corrigidos e acrescidos de juros de 1% (um por cento) ao mês, bem como pagar o valor de R$ 20.000,00 (vinte mil reais) a título de danos morais, atualizados a contar da sentença e acrescidos de juros de 1% (um por cento) ao mês a contar da citação.
+Acórdão: deu parcial provimento ao apelo das demandadas para condena-las ao pagamento de lucros cessantes no percentual de 0,5%, ao mês, do valor atualizado do contrato, de novembro de 2015 até a efetiva entrega das chaves, bem como determinar que o saldo devedor seja corrigido pelo índice de correção do IGP-M desde o término do prazo de conclusão das obras, novembro de 2015 até novembro de 2017 (data da entrega das chaves) e reduzir a condenação ao pagamento de indenização por danos morais para R$ 15.000,00 (quinze mil reais) a contar do arbitramento, com juros de mora de 1% (um por cento) ao mês da citação. Eis a ementa:
+APELAÇÃO - Ação de Indenização por Danos Materiais e Morais Contrato de Compromisso de Venda e Compra de Unidade Autônoma Outros Pactos - Alegações de não entrega da unidade do prazo previsto, danos materiais, morais e lucros cessantes, ilegalidade da cobrança de correção monetária - Sentença de parcial procedência Inconformismo das rés - Alegação de que não houve atraso, sendo indevido o pagamento de lucros cessantes, danos morais e modificação do índice de correção do contrato - Ausência de mão de obra qualificada ou entraves com a Municipalidade que não caracteriza caso fortuito ou força maior Incontroversa a culpa das rés pelo atraso na entrega do imóvel - Lucros cessantes devidos no percentual de 0,5%, ao mês, do contrato atualizado do atraso até a data da efetiva entrega das chaves, bemcomo para permitir a incidência da correção monetária no período de atraso na conclusão das obras, com a substituição do INCC pelo IGPM no aludido interregno - Danos morais caracterizados - Valor fixado que se mostra excessivo Redução da indenização para R$ 15.000,00 - Recurso parcialmente provido.
+Recurso especial: fundamentado na alínea "a" do permissivo constitucional. As recorrentesapontaram violação dos arts. 186, 393, 403 e 927 do CC; e 51 do CDC; Sustentaram que o atraso na entrega do imóvel ocorreu em razão de circunstâncias imprevisíveis, estando, portanto, diante de casos de força maior, o que excluiria sua responsabilidade, assim como a previsão contratual que respaldaria o atraso na entrega do imóvel. Aduziram que "o índice utilizado para correção monetária até o término da construção da obra é o INCC, pois este se mostra como o mais adequado para corrigir parcelas de financiamento imobiliário". Asseveraramque "não há o que se falar em dano moral, in casu, por situação econômica, porque ainda que houvesse realmente um abalo psíquico, vale frisar que o nexo de causalidade e o fato deve ser comprovado", pleiteando o afastamento da condenação ou redução do valor.
+Decisão agravada: conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. OCORRÊNCIA. LONGO ATRASO. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação indenizatória.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedentes. Ante o entendimento do tema nesta Corte, aplica-se, no particular, a Súmula 568/STJ.
+5. Cabimento de compensação por danos morais em razão do atraso superior a dois anos na entrega de imóvel. Precedentes.
+6. A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes.
+7. Recurso especial parcialmente conhecido e não provido.
+Agravo interno: nas razões do presente recurso, as agravantes apontam "explícitacontrariedade aos artigos 186, 393, 403, 422 e 927 do Código Civil". Asseveram que"não há prova mínima do alegado dano moral sofrido pela parte Apelante e que o atraso na entrega da obra configura mero aborrecimento, devendo o pedido ser julgado improcedente".Reiteram as razões do apelo especial.
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação indenizatória.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+1. A decisão agravada conheceu parcialmente do recurso especial e, nesta extensão, negou-lhe provimento, adotando a seguinte fundamentação: i) incidência da Súmula 284/STF (índice de correção aplicável à espécie); ii)Súmulas 5/STJ e 7/STJ (teses de ocorrênciade caso fortuito e da força maior); iii) Súmula 568/STJ (lucros cessantes, à restituição das parcelas pagas, e à configuração do dano moral na espécie); e iv) Súmula 7/STJ (revisão do valor fixado para compensar o dano moral).
+2. No entanto, da análise do presente recurso, verifica-se que a parte agravante deixou de impugnar todos os fundamentos da decisão agravada acima mencionados, limitando-se a reiterar as razões do recurso especial.
+3.Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto no art. 253, parágrafo único, I, do RISTJ.
+4. Forte nessas razões, NÃO CONHEÇO do presente agravo.
+5. Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no art. 1.021,§ 4º, do CPC/15.
