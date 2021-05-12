@@ -1,0 +1,13 @@
+DECISÃO
+Intimada por meio da decisão de fls. 481-482 para se manifestar sobreo pedido do INSS de extinção da execução, considerando a apontadalitispendência, a Associação exequente apresentou a Petição n.00799527/2020(fls. 485-490).
+Areferida Associação concorda que"os pensionistas dos exequentes executaram o título proveniente do MS 6.864/DF em outras execuções, sendo devida, portanto, a exclusão dos exequentes ora litispendentes, evitando-se, assim, o pagamento em duplicidade".
+Contudo, aduz que não pode prevalecer o pleito da autarquia federal defixação de honorários sucumbenciais no percentual de 10% (dez por cento)sobre o valor do crédito, porquanto, em seu entender, mostra-se aplicável oarbitramento por equidade, nos moldes do CPC/1973 ou, alternativamente, doart. 85, § 8º, do CPC/2015.
+É o relatório. Decido.
+A orientação desta Corte Superior é no sentido de que a lei aplicávelpara a fixação da verba honorária é aquela vigente na data em que proferido odecisum que o impõe.
+No caso concreto, sendo a presente decisão proferida sob a vigênciado CPC/2015, incidem as disposições desse novo diploma processual civil.
+Nesse sentido, confira-se: "(..) A sentença (ou o ato jurisdicionalequivalente, na competência originária dos tribunais), como ato processual quequalifica o nascedouro do direito à percepção dos honorários advocatícios,deve ser considerada o marco temporal para a aplicação das regras fixadas peloCPC/2015. Precedentes." (AgInt no REsp 1343379/SC, Rel. Ministro LUISFELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe27/06/2019).
+De outra parte, razão assiste à Associação exequente quanto àinexistência de proveito econômico na espécie com a extinção do feito notocante a todos os substituídos.
+Considerando o caso específico de sindicatos e associações, quepossuem grande quantidade de filiados, entendo que as duplicidadesconstatadas não caracterizam má-fé. Deve ser levado em conta o princípio dajustiça no caso concreto e a baixa complexidade em se verificar a duplicidadede execuções. Assim, cabível a fixação da verba honorária por equidade nostermos do art. 85, § 8º, do CPC/2015.
+Ante o exposto, considerando a duplicidade de execuções,julgoextinto o processo sem resolução de mérito, nos termos do art. 485, V, doCPC.
+Em razão do avanço do processo e do trabalho nele desenvolvido, com fundamento no art. 85, § 8º, do CPC, arbitro, a título de honorários sucumbenciais, o valor de R$ 500,00 (quinhentos reais) em desfavor de cadasubstituído, em isonomia com outras homologações de desistência emexecuções oriundas do mesmo writ.
+Publique-se. Intimem-se.
