@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, impugnando acórdão assim ementado:
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. ALEGADA INCAPACIDADE TOTAL E DEFINITIVA DECORRENTE DO DESENVOLVIMENTO DE ATIVIDADE LABORATIVA.SENTENÇA DE IMPROCEDÊNCIA.
+AGRAVO RETIDO
+INEXISTÊNCIA DE PEDIDO DE ANÁLISE DO RECURSO NESTA INSTÂNCIA, CONFORME § 1º DO ARTIGO 523 DO CPC/1973. NÃO CONHECIMENTO.
+INSURGÊNCIA DA AUTORA.
+AUSÊNCIA DE DIALETICIDADESUSTENTADA EM CONTRARRAZÕES. INOCORRÊNCIA. PREENCHIMENTO DOS PRESSUPOSTOS DO ARTIGO 1.010 DO CPC.
+PLEITO DE INDENIZAÇÃO FUNDADO NA EXISTÊNCIA DE DOENÇA OCUPACIONAL. DOENÇA INCAPACITANTE (SINISTRO) QUE SURGIU ANTERIORMENTE À VIGÊNCIA DO CONTRATO DE SEGURO CELEBRADO COM A RÉ.DESNECESSIDADE DE COMPLEMENTAÇÃO DA PERÍCIA PARA DEFINIR A DATA DA INVALIDEZ. ILEGITIMIDADE PASSIVA AD CAUSAM DA SEGURADORA. PARTE DISPOSITIVA DO COMANDO SENTENCIAL ALTERADA DE OFÍCIO. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. ART. 485, VI, CPC/2015.
+"A seguradora responsável pelo pagamento da indenização não é aquela cuja apólice esteja vigente quando da constatação da incapacidade, mas da ciência acerca da patologia incapacitante. Isso porque o fato gerador da cobertura securitária não é a incapacidade em si mesmo considerada, mas a incapacidade decorre de acontecimento especifico e previsto em contrato" (AC n. 0301130-30.2015.8.24.0018, rel. Des. Jorge Luis Costa Beber, Primeira Câmara de Direito Civil, j.05/4/2018).
+HONORÁRIOS RECURSAIS. MAJORAÇÃO (ART. 85, § 11 DO CPC/2015).
+RECURSODE APELAÇÃO CONHECIDO EDESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados.
+A agravante, além de dissídio jurisprudencial, alega violação doart. 489,§ 1º, do Código de Processo Civil, assim como divergência jurisprudencial. Afirma que houve a ausência de fundamentação no julgado recorrido. Sustenta que é devidoo pagamento da indenização securitária, no presente caso. Aponta que "A decisão proferida pelo col. Tribunal de origem, portanto, conflita com a desta Corte e não é a mais acertada. Com efeito, estando comprovado nos autos que os exames demonstram início de patologia em 2006, quando vigente o seguro com a Bradesco Vida e Previdência S/A, permanência da doença em 2009 (quando vigente ainda o seguro com a Mapfre), é incontestável que a doença se verificou durante a vigência do contrato de seguro com a Bradesco e se manteve no contrato com a Mapfre" (fl.390).
+Aponta que "O dissídio é, portanto, notório, estando devidamente comprovado, já que o entendimento do STJ é no sentido de reconhecer a responsabilidade da seguradora pelo evento ocorrido na vigência do contrato, sendo irrelevante a posterior rescisão ou término do prazo contratual ou data de concessão de aposentadoria por invalidez" (fl. 390).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa ao art. 489 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+Com efeito, anoto que o acórdão recorrido baseou-se na interpretação de fatos e provas para concluir que era indevida a cobertura securitária, deixando registrados os seguintes termos (e-STJ fls. 338-339):
+Assim, para resolver a questão, não se faz necessário aquilatar a data do inicio da incapacidade em si, mas sim, a ocorrência do sinistro coberto (doença incapacitante) durante a vigência da apólice. Por tal motivo, não há falar em nulidade da sentença para possibilitar a complementação da perícia para verificar quando se deu a constatação da invalidez, pois a data em que a doença teve inicio  o que interessa para o deslinde da causa  foi devidamente definida pelo perito.
+No caso, a estipulante Cooperativa Central Aurora Alimentos, empregadora da autora e do seu cônjuge Adir Via!, manteve com a seguradora ré contrato de seguro de vida em grupo, vigente de 1/8/2011 a 30/4/2013 (p. 85- 92).
+(..).
+Não obstante, a própria autora afirma com veemência em seu recurso que "a doença se iniciou em 2010" (p. 281).
+Logo, demonstrado que o sinistro ocorreu em 2010, anteriormente a vigência de ambos os contratos de seguro firmados com a seguradora ré, manifesta a sua ilegitimidade para figurar no polo passivo da demanda e, consequentemente,descabida qualquer pretensão indenizatória em seu desfavor.
+Assim, rever a conclusão a que chegou o acórdão recorrido demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos vedados em sede de recurso especial a teor das Súmulas 5 e 7 do STJ.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA. 1.INVALIDEZ TOTAL PERMANENTE POR DOENÇA. PERÍCIA TÉCNICA E CONCESSÃO DO BENEFÍCIO DE APOSENTADORIA POR INVALIDEZ PELO INSS. INDENIZAÇÃO DEVIDA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO IMPROVIDO.
+1. Para prevalecer a conclusão em sentido contrário ao decidido pelo Tribunal estadual, necessária se faz a revisão do contrato e do acervo fático dos autos, o que se encontra inviabilizado, nesta instância superior, pelas Súmulas n. 5 e 7/STJ.
+2. A necessidade do reexame da matéria fática impede o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Agravo interno improvido.
+(AgInt no AREsp 1163309/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) -DEMANDA POSTULANDO O PAGAMENTO DE INDENIZAÇÃO PREVISTA EM CONTRATO DE SEGURO DE VIDA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL.
+INSURGÊNCIA DO SEGURADO.
+1. Violação ao art. 535 do Código de Processo Civil/73 não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia.
+2. A revisão da conclusão a que chegou o Tribunal de origem, de que a cobertura contratada se restringe à invalidez total por doença, a que o segurado não faz jus, em razão do resultado do laudo pericial, asseverando que o recorrente não possui invalidez permanente total por doença e não está inapto para o trabalho em definitivo, reclama a incursão no conteúdo fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que é vedado ao STJ, no âmbito do julgamento de recurso especial, ante os óbices insertos nas Súmulas 5 ("A simples interpretação de clausula contratual não enseja recurso especial.") e 7 ("A pretensão de simples reexame de prova não enseja recurso especial.").
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 390.756/RS. Relator Ministro Marco Buzzi, Qaurta Turma, DJe 13/10/2016.)
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO DE VIDA EM GRUPO. RESTRIÇÃO DE COBERTURA. PLEITO PARA QUE REAVALIE A PUBLICIDADE DAS CLÁUSULAS RESTRITIVAS. IMPOSSIBILIDADE POR MEIO DO ESPECIAL.
+INCIDÊNCIA DAS SÚMULAS Nº 5 E 7 DO STJ. PRECEDENTES.
+1. As instâncias ordinárias desproveram a pretendida indenização securitária porque, nas condições gerais do contrato entabulado, havia expressa previsão sobre a cobertura para invalidez permanente somente quando advindas de acidente, enquanto sua debilidade parcial decorreu de doença. Entendimento diverso, quanto ao conhecimento prévio daquela restrição pela segurada, por meio do especial demandaria o revolvimento do acervo probatório e das cláusulas contratuais.
+2. A ex-segurada não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado. Incidência das Súmulas nº 5 e 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 542.277/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/12/2014, DJe 17/12/2014.)
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do Regimento Interno do STJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
