@@ -1,0 +1,32 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quarta Turma do Superior Tribunal de Justiça (fls. 1.026/1.036, e-STJ), o qual negou provimento ao agravo interno interposto, mantendo-se a rejeição dos embargos de declaração (fls. 964/969, e-STJ) e o não provimento do agravo em recurso especial (fls. 941/949, e-STJ).
+O acórdão embargado ficou assim ementado (fl. 1.029, e-STJ):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. USUCAPIÃO NÃO CONFIGURADA. POSSE PRECÁRIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. VIOLAÇÃO AOS LIMITES OBJETIVOS DA LIDE. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. "Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, não há violação aos limites objetivos da causa - julgamento extra petita - quando o Tribunal, adstrito às circunstâncias fáticas e aos pedidos das partes, procede à subsunção normativa dos fatos, ainda que adotando fundamentos jurídicos diversos dos esposados pelas partes. Aplicação dos princípios mihi factum dabo tibi ius e jura novit curia, segundo os quais, dados os fatos da causa, cabe ao juiz dizer o direito" (AgInt no AREsp 1455925/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/6/2019, DJe 28/6/2019).
+5. Agravo interno a que se nega provimento
+A parte embargante, em suas razões, argumentou, de início, que houve uma mera repetição dos fundamentos da decisão agravada para negar provimento ao agravo interno, o que não seria admitido pelo Código de Processo Civil.
+Afirmou que o colegiado foi omisso quanto à análise da alegada violação ao art. 371 do Código de Processo Civil. Narrou que a matéria foi suscitada em capítulo autônomo, como preliminar e que, dessa forma, o STJ não poderia ter decidido a questão como se ela fosse de mérito.
+Alegou, ainda, que o acórdão deixou de analisar a violação aos arts. 7º e 10 do CPC/15 e a tese de ocorrência de omissão pelo Tribunal de origem.
+A parte embargada, regularmente intimada, apresentou contrarrazões de fls. 1.055/1.062, e-STJ. Pediu a rejeição dos embargos e a aplicação de multa pelo caráter manifestamente protelatório do recurso.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): De início, ressalto que, conforme jurisprudência do Superior Tribunal de Justiça, "o art. 1.021, § 3º, do NCPC deve ser interpretado em conjunto com o 489, § 1º, IV, do mesmo diploma. Assim, mesmo quando verificada a repetição, no agravo interno, dos fundamentos da decisão monocrática agravada, não será possível cogitar de nulidade de julgamento se, apesar dessa circunstância, todas as questões relevantes para o deslinde da controvérsia houverem sido adequada e suficientemente enfrentadas" (AgInt nos EDcl no AREsp 1511146/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020).
+Anoto, em seguida, que as todas as questões suscitadas pela parte ora embargante - (i) alegação de exame discricionário das provas (violação ao art. 371, CPC); (ii) alegação de alteração da causa de pedir da contestação/decisão surpresa e (iii) omissão por parte do Tribunal de origem - foram devidamente analisadas, mais de uma vez - no agravo em recurso especial, nos embargos de declaração e no agravo interno - de forma clara e fundamentada.
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de omissão, no terceiro recurso subsequente à decisão do agravo em recurso especial, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha, eventualmente, a prequestionar os pontos levantados pela parte.
+Registro, também, estar evidenciado, a meu sentir, o caráter protelatório do recurso. A parte embargante insiste, com intuito de tumultuar e protelar o feito, em três recursos consecutivos, nas infundadas teses aqui rebatidas.
+Em face do exposto, ausentes as omissões indicadas, rejeito os embargos de declaração e, considerando o caráter manifestamente protelatório do recurso, condeno a embargante ao pagamento de multa em favor da parte embargada, no montante correspondente a 2% (dois por cento) do valor atualizado da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil de 2015.
+É o voto.
