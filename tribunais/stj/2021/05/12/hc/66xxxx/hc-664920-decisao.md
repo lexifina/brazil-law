@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NAILTON SILVA DA COSTAcontra acórdão do Tribunal de Justiça do Estado de Rondônia proferido no HC n.0802280-87.2021.8.22.0000.
+OPacientefoi denunciadopela suposta prática do delito previsto no art.155, §§ 1.º e 4.º, inciso II, na forma do artigo 14, inciso II, ambos do Código Penal.
+Extrai-se da denúncia que o Paciente "subtraiu para si, durante o repouso noturno, mediante escalada, coisas alheias móveis, consistente em 01 (um) galão de 05 (cinco) litros, contendo detergente lava-louças, da marca Brilho e Luz, e 01 (um) galão de 05 (cinco) litros, contendo limpador perfumado, da marca Brilho e Luz, somente não consumado seu intento por circunstâncias alheias a sua vontade  .. " (fls. 8-9).A denúncia foi recebida (fls. 8-10).
+Impetrado préviowritna origem, a Corte local denegou a ordem (fls. 14-17).
+Nestemandamus, a Impetrante sustenta a atipicidade material da conduta, defendendoaaplicação do princípio da insignificância ao caso.
+Alega, em suma,que a res furtivafoi avaliadaem R$ 18,00 (dezoito reais),que "o réu é primário e não possui maus antecedentes" (fl. 4)e que, "por se tratarde furto tentado, não há que se falar em prejuízo à vítima" (fl. 4).
+Requer, liminarmente e no mérito, seja reconhecida a atipicidade da conduta, determinando-se o trancamento da ação penal, ou, subsidiariamente, a suspensão da ação penal até o julgamento definitivo dowrit.
+É o relatório.
+Decido.
+A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas.
+No caso,o Paciente foi denunciado pela suposta prática do crime de tentativa de furto qualificado, durante o repouso noturno e mediante escalada, circunstâncias que demonstram a maior reprovabilidade da conduta e afastam, prima facie, a aplicação do princípio da insignificância ao caso.
+A propósito: "Inviabiliza-se o reconhecimento do princípio da bagatela, porquanto o crime de furto foi praticado mediante escalada e no período noturno, circunstâncias concretas desabonadoras que demonstram maior reprovabilidade da conduta nos termos da jurisprudência deste Tribunal Superior. Precedentes" (AgRg no AREsp 1.422.348/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020; sem grifos no original).
+Outrossim, anote-se que" o fato de o delito não haver se consumado, não havendo prejuízo efetivo ao patrimônio da vítima, não é suficiente para se reconhecer a atipicidade material da conduta, pois este entendimento equivaleria a declarar atípico qualquer furto tentado, em ofensa ao art. 14, inciso II, do Código Penal" (AgRg no HC 602.219/PE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021; sem grifos no original).
+Ademais, nãofoi juntada aos autos a folha de antecedentes criminais do Acusado, tornando inviável, neste juízo perfunctório, a análise da alegação de que o Paciente é primário e não ostenta maus antecedentes.
+Cabe destacar, por fim, que, ao que consta dos autos até o presente momento, o Paciente responde ao processo em liberdade, limitando-se o objeto da liminar a requerer o trancamento da ação penal ou a suspensão do feito até julgamento do writ.
+Assim, o presente caso não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, INDEFIRO o pedido liminar.
+Requisitem-se informações pormenorizadas ao Juízo de primeira instância eao Tribunal de origem sobre o alegado nesta impetração, notadamente para que: a) prestem esclarecimentosacerca do andamento processual e da atual situação prisional do Paciente;eb)juntem aos autosa folha de antecedentes criminaisdo Réu e a SENHA deacesso aos processos que tramitam na primeira e segunda instâncias, caso apágina eletrônica requeira a sua utilização.
+Após, remetam-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
