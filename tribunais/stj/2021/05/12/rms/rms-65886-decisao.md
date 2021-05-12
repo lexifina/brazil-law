@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por João Pedro Zanferari e outroscontra acórdão da Seção Cível de Direito Públicodo Tribunal de Justiça do Estado da Bahia, às fls. 148/159, assim ementado:
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAIS MILITARES DO ESTADO DA PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA ACOLHIDA. CONCESSÃO DE RTI - GRATIFICAÇÃO PELO EXERCÍCIO FUNCIONAL EM REGIME DE TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA. NORMA DE EFICÁCIA LIMITADA. DEPENDE DE REGULAMENTAÇÃO. SEGURANÇA DENEGADA.(fl. 150).
+Nas razões recursais, fls. 173/190, os recorrentes sustentam, em síntese, haver direito líquido e certo à Gratificação pelo Exercício Funcional em Regime de Tempo Integral e Dedicação Exclusiva- RTI, instituída pelo Estatuto dos Policiais Militares do Estado da Bahia,Lei Estadual n. 7.990 de 27 de dezembro de 2001.
+Alegam que,"embora as normas de eficácia limitada dependam de regulamentação pelo Poder Público para produzir seus efeitos, as partes não podem permanecer num lapso temporal ad eternum sem usufruir do seu direito simplesmente pela morosidade da Administração Pública em regulamentar a norma" (fl. 183).
+Aduzem, ainda, que "a demanda em epígrafe é peculiar, uma vez que os Impetrantes pleiteiamos seus direitos em razão da morosidade do Poder Executivo em regulamentar a norma pelo irrazoável período de mais de 10 (dez) anos, obstando os policiais um direito garantido no seu próprio estatuto" (fl. 189).
+Requerem, por fim, o provimento do presente recurso.
+O Estado da Bahia apresentou contrarrazões às fls. 192/202, pelas quais defende a manutenção do acórdão recorrido por sua própria fundamentação.
+O Ministério Público Federal, pelaSubprocuradora-Geral da República Denise Vinci Tulio, manifestou-se pelo nãoprovimento do recurso, nos termos do parecer às fls. 210/213, assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO MILITAR. GRATIFICAÇÃO PELO EXERCÍCIO FUNCIONAL EM REGIME DE TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA (RTI). PREVISÃO LEGAL. LEI ESTADUAL Nº 7.990/2001. NORMA DE EFICÁCIA LIMITADA. REGULAMENTAÇÃO INEXISTENTE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1 - Os recorrentes pretendem receber gratificação pelo exercício funcional em regime de tempo integral e dedicação exclusiva (RTI), prevista no artigo110-A, da Lei Estadual nº 7.990/2001, que é norma de eficácia limitada, conforme § 1º do referido artigo.
+2 - Tratando-se de norma de eficácia limitada, dependente de regulamentação do Poder Executivo local, não há que se falar em direito líquido e certo a ser amparado.
+3 - Pelo não provimento do recurso ordinário.(fl. 210)
+Recurso tempestivo. Representação regular (fls. 25/27).
+Gratuidade de justiçadeferida pela Corte de origem (fl. 40)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A concessão da segurança - e, por extensão, o provimento do respectivo recurso ordinário - pressupõe a existência de direito líquido e certo da parte autora a ser protegido de ilegalidade ou abuso de poder, conforme dispõe o art. 1º da Lei n. 12.016/2009:
+Art. 1º Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+A ilegalidade reside na recusa de se aplicar a lei aos casos em que esta deva incidir, ou na sua equivocada aplicação em hipóteses nas quais ela não tenha incidência. O abuso de poder, por sua vez, consiste na ação ou omissão da autoridade que, ao arrepio dos limites de sua competência ou das formas legalmente previstas, conduza-se de modo contrário ao ordenamento jurídico.
+À luz dessas premissas, andou bem a Corte de origem.
+Na hipótese, o Tribunal de Justiça do Estado da Bahia denegou a segurança por entender que "os pedidos veiculados neste Mandado de Segurança não podem ser atendidos, na medida em que se tenta em verdade suprir uma lacuna legislativa, não sendo este Remédio Constitucional o hábil para tanto, mas sim o Mandado de Injunção, cujo rito encontra-se estabelecido na Lei 13.300/2016" (fl. 157).
+Em que pese o exposto nas razões recursais, éimpróprio o manejo do mandado de segurança com o objetivo de suprir lacuna de norma de eficácia limitada, dependente de regulamentação do Poder Executivo local. Nesse sentido, já se manifestou este Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CABIMENTO. NORMA DE EFICÁCIA PLENA. PRETENSÃO. ALEGAÇÃO. VIA ELEITA. ADEQUAÇÃO.
+1. O mandado de segurança é via adequada para discutir se o direito líquido e certo almejado pelo impetrante decorre diretamente de lei de eficácia plena ou de eficácia limitada, a depender de regulamentação pelo Poder Executivo.
+2. Hipótese em que, diversamente do assentado pelo acórdão recorrido, que indeferiu a exordial por entender que o seu objeto seria próprio de mandado de injunção, a causa de pedir e o pedido deduzidos no writ não evidenciam que a impetrante pretenda obter provimento judicial tendente a obrigar o Poder Executivo a regulamentar a lei instituidora da remissão, para fins de gozar do direito nela previsto, mas sim de declarar que a imediata fruição desse direito está amparada pela lei municipal instituidora do benefício fiscal, porquanto alegadamente de eficácia plena, dispensando regulamentação.
+3. Acórdão recorrido cassado, para reconhecer a aptidão da exordial do mandado de segurança, determinado o retorno dos autos à Corte de origem, para que processe e julgue o mandamus como entender de direito.
+4. Agravo interno não provido.
+(AgInt no RMS 53.659/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 03/10/2017)
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.SERVIDOR DA ADMINISTRAÇÃO DIRETA DO DISTRITO FEDERAL. GRATIFICAÇÃO DE TITULAÇÃO. LEI 3.824/2006. NORMA DE EFICÁCIA LIMITADA. DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA.
+1. A jurisprudência desta Corte é firme no sentido de que "a Lei n.3.824/2006, por ser norma de eficácia limitada, dependia de regulamentação do Poder Executivo para sua aplicação, inexistindo direito líquido e certo aqui deduzido. Precedente: RMS n. 37.250-DF, Rel. Min. Napoleão Nunes Maia Filho, DJe 27.11.2013; RMS n.38.820-DF, Rel. Min. Benedito Gonçalves, DJe 10.2.2014" (RMS 35.549/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 03/06/2014, DJe 28/08/2014)
+2. Agravo interno a que se nega provimento.
+(AgInt no RMS 44.950/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe 03/02/2017)
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROMOÇÃO.SERVIDOR PÚBLICO. GRATIFICAÇÃO DE TITULAÇÃO. ART. 37 DA LEI N.3.824/06 DO DISTRITO FEDERAL. NORMA DE EFICÁCIA LIMITADA.PRECEDENTE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. A percepção da Gratificação de Titulação necessitaria de "regulamento próprio, a ser editado, no prazo de até sessenta dias após a publicação desta Lei, pela Secretaria de Estado de Gestão Administrativa, no âmbito do Poder Executivo; e, no âmbito do Poder Legislativo, por ato próprio da Câmara Legislativa do Distrito Federal e do Tribunal de Contas do Distrito Federal, respectivamente, no que concerne aos seus servidores ou empregados públicos" (art. 38, § 3º, da Lei Distrital n. 3.824/06).
+2. Tratava-se, pois, de norma de eficácia limitada, dependendo de outra norma para sua aplicação. Não havendo, contudo, tal norma, direito líquido e certo também não há. Precedente: RMS 35.549/DF, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 28/08/2014.
+3. Agravo regimental não provido.
+(AgRg no RMS 46.142/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/06/2015)
+Por tudo isso, não se vislumbra erro no acórdão recorrido que justifique sua reforma. Deve, portanto, ser integralmente mantido.
+Na verdade, é o apelo recursal que se apresenta em confronto com a jurisprudência desta Corte, impondo-se-lhe, também, por isso, o não provimento.
+ANTE O EXPOSTO,em harmonia com o parecer ministerial ecom fundamento nos arts. 932, VIII, do CPC e 34, XVIII, "b", do RISTJ, bem como na Súmula 568/STJ, nego provimento ao presente recurso ordinário.
+Publique-se.
