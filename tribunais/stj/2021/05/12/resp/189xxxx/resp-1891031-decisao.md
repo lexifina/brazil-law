@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LUIS ANTONIO DOMENEGHINI contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Apelação, assim ementado (fl. 1.268e):
+DIREITO ADMINISTRATIVO. SOCIEDADE ANÔNIMA. PETROBRÁS. DANO MATERIAL. ESTATUTO. CLÁUSULA COMPROMISSÁRIA ESTATUTÁRIA. LETIGITIMIDADE DAS PARTES.
+Não há como reconhecer falha na legitimidade das partes no presente feito, porquanto verificado que figuram no processo as mesmas partes que compõem a alegada relação de direito material apresentada na vestibular.
+Se no estatuto da empresa há previsão da solução de conflitos pela arbitragem, ou seja, se há cláusula compromissória, não poderá o sócio abster- se de aderi-la, uma vez que, o acesso às regras expostas no estatuto, é público, sob pena de inviabilizar a condução das relações internas da sociedade anônima.
+O investidor não é obrigado a fazer parte da companhia. Se optar pelo ingresso, presume-se que avaliou e acatou voluntariamente as disposições estatutárias. Até porque, o registro do estatuto social na junta comercial, ou sua inscrição na bolsa de valores ou no mercado de balcão, ratifica a presunção de pleno conhecimento pelos acionistas. A exigência de aceitação expressa não encontra respaldo nem na Lei das Sociedades Anônimas, nem na Lei da Arbitragem.
+Inexiste violação ao princípio constitucional da inafastabilidade do controle judicial. O princípio contido no artigo 5º, inciso XXXV, da CF deve ser entendido como regra de coibição de abuso de direito, de ato arbitrário ou ilegal e somente nestes casos deve ser acionado.
+Mantida a sentença extintiva, ainda que por fundamento diverso.
+Opostos embargos de declaração, foram rejeitados (fls. 1.314/1.326e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 1.022, I e II, do Código de Processo Civil de 2015 - "(..) houve omissão em não ser aplicada no julgamento da apelação, da regra inserida no §1º do artigo 58 dos Estatutos Sociais da PETROBRAS, bem como contradição em com base na mesma previsão estatutária, reconhecer sua eficácia frente à PETROBRAS, e não face à UNIÃO" (fl. 1.337e); eArts. 485, VII, do Código de Processo Civil de 2015, 4º, §§1º e 5º, da Lei n. 9.307/1996, e 109, §3º, da Lei n. 6.404/1976 - não se aplica ao caso a regra segundo a qual a controvérsia deve ser resolvida mediante arbitragem.
+Com contrarrazões (fls. 1.357/1.366e e 1.379/1.389), o recurso foi inadmitido (fls. 1.408/1.413e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.486e).
+Feito breve relato, decido.
+No caso, a presente ação foi proposta por acionista minoritário buscando "(..) a reparação dos prejuízos que sofreu pela perda de valor das ações da PETROBRAS, em razão da administração da empresa pautada no dolo, que favorecia agentes políticos, dirigentes da PETROBRAS, partidos políticos da base de sustentação do governo, bem como empreiteiros e fornecedores, como é público e notório, inclusive pela prisão e delação premiada dos envolvidos, fatos estes incontestes pelos Recorridos.
+A ação foi proposta contra a UNIÃO, por na condição de acionista controladora, haver nomeado os diretores que locupletaram-se às custas da corrupção em contratação de obras e compras de equipamentos.
+Também, foi proposta contra a PETROBRÁS em razão da sua responsabilidade frente a atos de seus prepostos, bem como pela incúria de seus órgãos fiscalizadores, como Conselho de Administração; Conselho Fiscal e Auditores Independentes, em identificar e estancar a corrupção que tomou conta da empresa e passou a influenciar em sua gestão." (fls. 1.335/1.336e)
+Dessa forma, a relação jurídica litigiosa é regida pelas normas do Direito Privado, estando inserida dentre aquelas de competência da 2ª Seção desta Corte, nos termos do art. 9º, caput, §2º, II, VIII, e XIV, do Regimento Interno desta Corte.
+Ademais, segundo o entendimento da Corte Especial, "Na definição da competência das Seções deste Superior Tribunal de Justiça, prevalece a natureza da relação jurídica litigiosa. Pouco importa o instrumento processual utilizado ou a espécie da lei que fundamentou a decisão recorrida ou que foi invocada no recurso  .. " (in CC n. 29.481/SP, Corte Especial, Relator Ministro Cesar Asfor Rocha, DJ de 28/05/2001).
+Nesse sentido:
+CONFLITO INTERNO DE COMPETÊNCIA - AGRAVO REGIMENTAL - RELAÇÃO JURÍDICA LITIGIOSA OBRIGAÇÃO DE DIREITO PRIVADO - COMPETÊNCIA DA SEGUNDA SEÇÃO DO STJ.
+1. A competência interna no STJ é firmada em razão da natureza da relação jurídica litigiosa (res in iudicium deducta).
+2. Recurso especial em que se discute responsabilidade civil de pessoa jurídica de Direito Privado. Competência da Segunda Seção desta Corte, nos termos do art. 9º, § 2º, II, do RISTJ.
+3. Agravo regimental não provido.
+(AgRg no CC n. 109.258/ES, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 01/02/2013, DJe 28/02/2013).
+Além disso, as Turmas que compõem a 2ª Seção julgam ações propostas por acionista minoritário com objetivo de condenar a controladora a indenizar a empresa controlada por supostos prejuízos que lhe teria causado como acionista controlador.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO. AÇÕES DA PETROBRAS. DESVALORIZAÇÃO. ACIONISTA MINORITÁRIA. AÇÃO INDIVIDUAL. PREJUÍZOS INDIRETOS. ILEGITIMIDADE ATIVA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. O Superior Tribunal de Justiça consolidou entendimento no sentido da ilegitimidade ativa do sócio minoritário para a propositura da ação individual por prejuízos causados ao patrimônio da empresa, pois não se pode considerar como prejuízo individual do acionista aquele que o atinge apenas indiretamente, por mero reflexo dos danos supostamente causados à sociedade como um todo.
+4. Agravo interno não provido.
+(AgInt no REsp 1.787.426/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020 - destaque meu)
+RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA (CPC, ART. 130). NÃO OCORRÊNCIA. SOCIEDADE ANÔNIMA. AÇÃO DE RESPONSABILIDADE CIVIL CONTRA ADMINISTRADOR (LEI 6.404/76, ART. 159) OU ACIONISTAS CONTROLADORES (APLICAÇÃO ANALÓGICA): AÇÃO SOCIAL UT UNIVERSI E AÇÃO SOCIAL UT SINGULI (LEI 6.404/76, ART. 159, § 4º). DANOS CAUSADOS DIRETAMENTE À SOCIEDADE. AÇÃO INDIVIDUAL (LEI 6.404/76, ART. 159, § 7º). ILEGITIMIDADE ATIVA DE ACIONISTA. RECURSO PROVIDO.
+1. O art. 130 do CPC trata de faculdade atribuída ao juiz da causa de poder determinar as provas necessárias à instrução do processo. O julgamento antecipado da lide, no entanto, por entender o magistrado encontrar-se maduro o processo, não configura cerceamento de defesa.
+2. Não viola os arts. 459 e 460 do CPC a decisão que condena o réu ao pagamento de valor determinado, não obstante constar do pedido inicial a apuração do valor da condenação na execução da sentença.
+3. Aplica-se, por analogia, a norma do art. 159 da Lei n. 6.404/76 (Lei das Sociedades Anônimas) à ação de responsabilidade civil contra os acionistas controladores da companhia por danos decorrentes de abuso de poder.
+4. Sendo os danos causados diretamente à companhia, são cabíveis as ações sociais ut universi e ut singuli, esta obedecidos os requisitos exigidos pelos §§ 3º e 4º do mencionado dispositivo legal da Lei das S/A.
+5. Por sua vez, a ação individual, prevista no § 7º do art. 159 da Lei 6.404/76, tem como finalidade reparar o dano experimentado não pela companhia, mas pelo próprio acionista ou terceiro prejudicado, isto é, o dano direto causado ao titular de ações societárias ou a terceiro por ato do administrador ou dos controladores. Não depende a ação individual de deliberação da assembleia geral para ser proposta.
+6. É parte ilegítima para ajuizar a ação individual o acionista que sofre prejuízos apenas indiretos por atos praticados pelo administrador ou pelos acionistas controladores da sociedade anônima.
+7. Recurso especial provido.
+(REsp 1.214.497/RJ, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/09/2014, DJe 06/11/2014)
+Posto isso, DECLINO A COMPETÊNCIA para a apreciação do presente recurso e DETERMINO a devolução dos autos à Secretaria Judiciária, para a redistribuição do feito a uma das Turmas que compõem a Segunda Seção, nos termos do art. 9º, caput, e § 2º, II, VIII e XIV, do Regimento Interno desta Corte.
+Publique-se e intimem-se.
