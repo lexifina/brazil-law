@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de Rondônia, assim ementado:
+Agravo em execução penal. Nova condenação por crime perpetrado no curso da execução dapena. Intimação prévia, audiência de justificação e Processo administrativo. Desnecessidade. Nulidadepor ausência do contraditório e ampla defesa. Afastada. Recurso não provido.
+1. O reconhecimento de falta grave é consectário legal da prática de crime no curso da pena, oque independe, para o seu reconhecimento, de intimação prévia, audiência de justificação e processoadministrativo disciplinar.
+2. Ampla defesa e contraditório observados no feito criminal que resultou na condenaçãodefinitiva do agravante pelo novo delito, não havendo que se falar em prejuízo para defesa.
+3. Agravo não provido. (e-STJ fl. 83)
+A defesa aponta aviolação doart. 118, § 2º, da Lei de Execuções Penais. Sustenta que"Ante a juntada de nova guia de execução,o juízo a quo reconheceu o cometimento da falta disciplinar de natureza grave, regredindo oregime do agravante, sem, contudo, abrir vista a Defesa, bem como, designar audiência dejustificação" (e-STJ fl. 95). Aduz que "(..) é forçosa a conclusão de que o juízo a quo aodispensar vista a Defesa para se manifestar quanto a juntada de nova guia de condenaçãoviolou frontalmente o princípio constitucional do devido processo legal e por consequência gerou cerceamento de defesa e,portanto, nulidade absoluta" (e-STJ fl. 100)
+Admitido o apelo raro na origem, os autos vieram a esta Corte.
+Manifestação doMinistério Público Federal pelo não provimentodo recurso às e-STJ fls. 124/126.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de Rondônia negou provimento ao agravo em execução penal interposto pela defesa e mantevea decisão do Juízo da Vara de Execuções de Penas e MedidasAlternativas da Comarca de Porto Velho, que reconheceu em seu desfavor prática de falta grave, eaplicou-lhe a regressão ao regime semiaberto, ante a superveniência de nova condenação por crimeperpetrado no curso da execução.
+A defesa alega a nulidade da decisão em razão da necessidade de audiência de justificação para a regressão do regime. Sobre o tema o TJRO assim se pronunciou:
+O agravante alega que houve cerceamento de defesa, visto que impedido de se manifestar acercada falta disciplinar, em virtude de sua nova condenação. Sem razão, no entanto.
+Extrai-se dos autos que o agravante cumpria pena em regime aberto e foi condenadodefinitivamente pela prática de crime cometido no curso da execução da pena, conforme processo crimen. 0001060-10.2019.8.22.0501, e segundo guia de recolhimento definitiva nos autos (ID n. 8577265 -Pág. 2).
+O agravante foi condenado definitivamente à pena privativa de liberdade de 01 (um) ano e 01(um) mês e 10 (dez) dias de reclusão  10 (dez) dias-multa, em regime inicial semiaberto, pelo crimeprevisto no art. 155, §§ 1ºe 4º, inciso IV, do Código Penal, na forma do artigo 14, inciso II, do mesmoCódigo.
+A par disso, o Juízo de 1ºgrau diante da condenação de novo crime durante a execução da penareconheceu a falta disciplinar de natureza, regrediu o regime e declarou a perda de 1/3 dos dias remidos(ID n. 8577264), consignando:
+ ..
+Nota-se que, de fato, não houve a intimação da defesa para se manifestar acerca da faltadisciplinar, contudo, a decisão refere-se a cometimento de novo crime, com guia definitiva juntada aosautos, o que não caracteriza cerceamento de defesa.
+Diante da situação apresentada, em superveniência de nova condenação transitado em julgado, aconversão da pena alternativa executada se faz necessário, tendo em vista a incompatibilidade decumprimento simultâneo de ambas.
+Ademais, refere-se de uma consequência legal e lógica de uma nova execução penal decorrentede uma nova condenação, fato esse que não se confunde com falta disciplinar, a qual, em tese, dependeriade Procedimento Administrativo Disciplinar ou de Audiência de Justificação para seu reconhecimento.
+Registra-se, inclusive, a prescindibilidade de procedimento administrativo, pois, como se trata dedecisão decorrente da prática de novo crime, com transitado em julgado, o apenado exerceu, naquelejulgamento, a plenitude do contraditório e da ampla defesa.
+ ..
+Assim, não há que se falar em nulidade da decisão, uma vez que a falta de intimação prévia, audiência de justificação eprocesso administrativo disciplinar não trouxe qualquer prejuízo ao sentenciado, que foi preso, processado efoi proferida sentençacondenatória pelo cometimento de crime doloso. (e-STJ fls. 81/83)
+O caso em tela versa sobre aconversão da pena restritiva em razão da incompatibilidade de seu cumprimento simultâneo com outra privativa de liberdade decorrente de nova condenação transitada em julgado.
+Esta Corte Superior já decidiu pela desnecessidade de audiência de justificação nessas hipóteses. Confira-se:
+CRIMINAL. HC. EXECUÇÃO. PROGRESSÃO DE REGIME. PRÁTICA DE CRIME DOLOSO. REGRESSÃO DE REGIME PRISIONAL. POSSIBILIDADE. NOVA CONDENAÇÃO. DESNECESSIDADE DE OITIVA PRÉVIA DO RÉU. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+I. Hipótese na qual o paciente encontrava-se cumprindo pena no regime semi-aberto, e, com a prática de novo crime doloso, foi determinada a regressão para o regime fechado.
+II. A prática de fato definido como crime doloso ou de falta grave, a teor do art. 118, inciso I, da Lei de Execuções Penais, enseja a regressão de regime prisional. Precedentes.
+III. Evidenciada a prolação de sentença condenatória referente ao novo delito, descarta-se a necessidade de oitiva do réu antes da regressão de regime prisional, pois descabida eventual justificação do cometimento do fato delituoso ou demonstração de sua inocorrência.
+IV. Ordem denegada.(HC 42.415/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 18/08/2005, DJ 19/09/2005, p. 357)
+Ademais, oentendimento firmado nesta Corte é de que, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ALTERAÇÃO DO REGIME PRISIONAL. POSSIBILIDADE. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DAS PENAS RESTRITIVAS DE DIREITO E PRIVATIVAS DE LIBERDADE. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM PRIVATIVAS DE LIBERDADE. POSSIBILIDADE. VIOLAÇÃOS AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL POR CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal" (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+2. "Sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas" (AgRg no REsp 1753313/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 3/10/2018).
+2.1 No caso dos autos, ao unificar as penas impostas ao sentenciado, o Juízo da Execução fixou o regime fechado, o que impossibilita a execução simultânea das sanções restritivas de direitos, razão pela qual deve ser mantida a decisão que converteu em privativa de liberdade as penas restritivas de direitos, conforme jurisprudência desta Corte.
+3. Os arts. 9º, caput, e 10º, ambos do Código de Processo Civil  CPC não foram objeto de análise pelo Tribunal de origem, carecendo o recurso, no ponto, do adequado e indispensável prequestionamento.
+4. Agravo regimental desprovido.(AgRg no REsp 1887183/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 27/11/2020)
+Incidência do Enunciado n. 568 da Súmula do STJ.
+Ante o exposto, com fundamento no art. 932, IV, do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Intimem-se.
