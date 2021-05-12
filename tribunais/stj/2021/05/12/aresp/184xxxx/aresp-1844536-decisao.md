@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINERACAO MONEGO LTDA. contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. EMBARGOS Á EXECUÇÃO FISCAL. ENCARGO LEGAL.
+A Corte Especial deste Tribunal reconheceu a constitucionalidade do encargo legal de 20% previsto no DL nº 1.025/69 (fl. 902).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 489, § 1º, IV e V, e 1.022, I e II, do CPC, no que concerne à ausência de prestação jurisdicional, trazendo os seguintes argumentos:
+Conforme constou na apelação veiculada ao Tribunal Regional Federal da 4ª Região, o objeto do recurso contém (i) a ilegalidade/inconstitucionalidade do encargo instituído pelo decreto lei 1.025/69, (ii) inadequação da matéria tributada com a base legal posta na Constituição Federal.
+Contudo, não é necessário empregar esforços homéricos para vislumbrar que o acórdão proferido pelo TRF4 apenas versou sobre a adequação do decreto 1.025/69 ao sistema jurídico pátrio, silenciando quanto aos demais argumentos utilizados para infirmar a execução fiscal embargada
+Ou seja, a pesar da longa extensão dos fundamentos postos para a rejeição do apelo, não há uma linha sobre a inadequação da base de cálculo do IPRJ e da CSLL em confronto com a base de cálculo constitucionalmente posta.
+ ..
+Dessa forma, inobstante a fundamentação quanto ao encargo instituído pelo decreto 1.025/69, o acórdão carece de legalidade uma vez que não se manifesta sobre questões fundamentais postas no recurso de apelação (fls. 940/951).
+É, no essencial, o relatório. Decido.
+Na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração têm fundamentação vinculada, destinando-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material. Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+Não conheço, porém, do ponto que trata da indevida inclusão do ICMS na base de cálculo dos tributos, porque não tratado pela sentença.
+Com efeito, na inicial dos embargos, a ora apelante sustentou não ter havido a notificação da executada da lavratura do auto de infração, cerceando o seu direito de defesa, motivo pelo qual requereu a declaração de nulidade das CDAs. Subsidiariamente, requereu a declaração da inconstitucionalidade da cobrança do encargo legal de 20% previsto no DL nº 1.025/69.
+Como se verifica, em momento algum a embargante insurgiu-se com a inclusão do ICMS.
+Assim, conheço em parte do apelo (fls. 876/877).
+Assim, a alegada afronta dos arts. 489 e 1.022 do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque não ocorreram omissões ou obscuridade no acórdão recorrido, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020; AgInt no AREsp n. 1.674.179/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/8/2020; AgInt no REsp n. 1.698.339/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgRg no AREsp n. 1.631.705/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; e AgRg no REsp n. 1.867.692/SP, relator Ministro Jorge Mussi, DJe de 18/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
