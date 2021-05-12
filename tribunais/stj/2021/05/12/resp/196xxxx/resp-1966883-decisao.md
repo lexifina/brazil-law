@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELIZANGELA CRISTINA TELCH e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CITAÇÃO POR EDITAL. ESGOTAMENTO DAS BUSCAS PARA LOCALIZAÇÃO DO EXECUTADO. DEMONSTRAÇÃO. CITAÇÃO VÁLIDA. DECISÃO MANTIDA.
+1. A citação por edital é medida excepcional e somente pode ser autorizada se esgotados os meios possíveis de localização e citação pessoal da parte ré.
+2. Demonstrado, no caso concreto, que foram esgotados os meios disponíveis para localização da parte, sem êxito, justifica-se a citação por edital.
+3. Agravo de instrumento conhecido e não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 256, §3º, do CPC, no que concerne à necessidade se efetuar diligências perante as demais concessionárias de serviço público, antes de se determinar a citação editalícia, trazendo os seguintes argumentos:
+Vê-se, na espécie,que a citação por edital do recorrente não preencheu os requisitos dispostos na legislação processual. Não se evidencia a hipótese prevista no art. 256, §3º, do CPC, eis que não se empreendeu o máximo esforço em diligenciar acerca do endereço da recorrente, o que conduz, necessariamente, à nulidade de citação.
+Segundo o Tribunal local, não há necessidade de diligências perante as demais concessionárias de serviço público (Oi, Tim, Claro, Vivo, Net,etc), pois entendeu que as pesquisas realizadas seriam suficientes para propiciar o acesso à citação ficta.
+ ..
+Sendo assim, somente há que se falar em citação por edital quando não se souber o paradeiro do citando, fato que ocorre apenas após realizadas todas as diligências necessárias. (fls. 83-86).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na espécie, como visto, o exequente, desde o ano de 2013, postulou a pesquisa de endereços das executadas nos sistemas Bacenjud, Infojud, Renajud, Infoseg, SIEL, Copel e DOI, além de efetuar diversas buscas extrajudiciais, e todas elas retornaram com endereços nos quais não se obteve êxito na citação.
+Portanto, não há dúvidas de que houve inúmeras tentativas de citação, mediante pesquisa de endereços nos meios disponíveis à instituição financeira exequente, pelo que resultaram esgotados, satisfatoriamente, os métodos de localização das executadas.
+Ora, não seria razoável exigir do banco que postulasse, novamente, a busca por outros mecanismos, quando efetivadas diligências em instituições nas quais corriqueiramente se obtém a informação postulada.
+Além do mais, não se justifica o reconhecimento de nulidade da citação unicamente pela ausência de expedição de ofício às empresas de telefonia, conforme alegam as agravantes,pois, repita-se, o banco exequente tenta citá-las desde 2013 e já provou por outras medidas que não foi possível a localização.
+Desse modo, a situação em apreço amolda-se à previsão do artigo 256, II, do Código de Processo Civil de 2015, que autoriza a citação por edital quando é ignorado, incerto ou inacessível o local em que se encontra o citando. (fl. 63)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confira-se ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. VALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).2. No caso concreto, o Tribunal de origem concluiu que foram observados todos os requisitos para a validade da citação por edital. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.3. Agravo interno a que se nega provimento.(AgInt no AREsp 1039734/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/08/2017, DJe 14/08/2017)
+No mesmo sentido, colaciona-se os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
