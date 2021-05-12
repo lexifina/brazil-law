@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo Federal da 6ª Vara de Recife - SJ/PEe, suscitado, o Juízo Federal da 1ª Vara de Blumenau - SJ/SC, nos autos de mandado de segurança impetrado por Joel da Cunha Vieira contra ato praticado por Auditor-Fiscal da Delegacia da Receita Federal em Recife/PE.
+O Juízo Federal da 1ª Vara de Blumenau declinou da competência ao fundamento de que a autoridade apontada como coatora encontra-se sediada em Recife/PE.
+Por sua vez, o Juízo Federal da6ª Vara de Recife instaurou este incidente e sustenta que a ação mandamental é garantia constitucional e deve ser ajuizada no foro de domicílio do autor.
+O Ministério Público Federal opina pela competência do Juízo suscitado.
+É o relatório.
+Esta Corte Superior, alinhando-se à jurisprudência do Excelso Pretório, firmou posicionamento de que, inclusive em relação aos mandados de segurança, prevalece a regra constitucional de que as ações intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor (§ 2º do art. 109 da Constituição Federal).
+Desse modo, uma vez que a parte autora optou pela propositura da ação mandamental no Juízo do local de seu domicílio (Seção Judiciária de Santa Catarina), este é o competente para o julgamento da causa.
+No ponto:
+CONFLITO DE COMPETÊNCIA. ADMINISTRATIVO. MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DE AUTARQUIA FEDERAL. EXAME NACIONAL DO ENSINO MÉDIO (ENEM). INSCRIÇÃO. ANTINOMIA ENTRE A COMPETÊNCIA DEFINIDA EM RAZÃO DA SEDE FUNCIONAL DA AUTORIDADE APONTADA COMO COATORA E A OPÇÃO PREVISTA PELO CONSTITUINTE EM RELAÇÃO AO FORO DO DOMICÍLIO DO AUTOR. ART. 109, § 2º, DA CF. PREVALÊNCIA DESTE ÚLTIMO. PRECEDENTES DO STJ EM DECISÕES MONOCRÁTICAS. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL DO DOMICÍLIO DA PARTE IMPETRANTE.
+I - Conflito de competência conhecido para declarar competente o juízo federal do domicílio da parte impetrante.
+II - A competência para conhecer do mandado de segurança é absoluta e, de forma geral, define-se de acordo com a categoria da autoridade coatora e pela sua sede funcional.
+III - Todavia, considerando a jurisprudência do Supremo Tribunal Federal no sentido de que, nas causas aforadas contra a União, pode-se eleger a seção judiciária do domicílio do autor (RE 627.709/DF), esta Corte de Justiça, em uma evolução de seu entendimento jurisprudencial, vem se manifestando sobre a matéria no mesmo sentido. Precedentes em decisões monocráticas: CC 137.408/DF, Rel. Min. Benedito Gonçalves, DJE 13.3.2015; CC 145.758/DF, Rel. Min. Mauro Campbell Marques, DJE 30.3.2016; CC 137.249/DF, Rel. Min. Sérgio Kukina, DJE 17.3.2016; CC 143.836/DF, Rel. Min. Humberto Martins, DJE 9.12.2015; e CC n. 150.371/DF, Rel. Min. Napoleão Nunes Maia Filho, DJe 7/2/2017.
+IV - Agravo interno improvido.
+(AgInt no CC 150.269/AL, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/6/2017, DJe 22/6/2017).
+Veja-se que opróprio impetrante esclarece que o "pedido que justifica o presente mandamus,qual seja o requerimento de isenção de IPI para a compra de veículo zero quilômetro, foi feito perante a Receita Federal de Rio do Sul/SC, que, por sua vez, redistribuiu internamente à autoridade coatora em Recife/PE, não tendo o Impetrante qualquer interferência ou poder de escolha". E conclui: "não seria razoável, convenhamos, depois de já lhe ter sido talhado o Direito pela autoridade coatora de isentar-lhe o IPI diante do caderno legal vigente, agora obrigá-lo a propor demanda Judicial noEstado do Pernambuco, o que vai absolutamente de encontro ao disposto na Carta Magna Brasileira, no sentido de dificultar o acesso ao Judiciário à sociedade de um modo geral".
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Blumenau - SJ/SC, o suscitado.
+Publique-se. Intimem-se.
