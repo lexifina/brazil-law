@@ -1,0 +1,32 @@
+DECISÃO
+MODELAR LTDA. INTERIORES - EPP (MODELAR), representada por GEISLA CONCEIÇÃO FELIZARDO, ajuizou ação de restituição de débito indevido em conta corrente com pedido de tutela de urgência inaudita altera parte cumulada com reparação por danos morais contra BANCO DO BRASIL S.A. (BANCO),visando a restituição imediata do valor debitado na conta da autora de R$ 27.639,56 (vinte e sete mil seiscentos e trinta e nove reais e cinquenta e seis centavos), bem como a condenação do réu a indenização por dano moral.
+Em primeira instância, os pedidos foram rejeitados e declarado extinto o processo, com resolução de mérito, na forma do art. 487, I, do NCPC.
+MODELAR apelou da sentença. O aresto encontra-se assim sintetizado:
+CIVIL E PROCESSUAL CIVIL. CERCEAMENTO À LIVRE PRODUÇÃO DE PROVAS. INOCORRÊNCIA. CÉDULA DE CRÉDITO BANCÁRIO. AMORTIZAÇÃO DOS VALORES MEDIANTE LANÇAMENTOS NA CONTA CORRENTE DO DEVEDOR. CLÁUSULA CONTRATUAL AUTORIZADORA. POSSIBILIDADE. PRELIMINAR REJEITADA E RECURSO DESPROVIDO.
+1. O Juiz deve ser alçado à condição de principal árbitro na questão de produção de provas, mesmo porque é, por óbvio, o verdadeiro destinatário delas, podendo indeferir as que repute inócuas ou protelatórias; desnecessária a produção de prova pericial contábil para análise da legalidade de cláusulas de contrato bancário, cuja controvérsia gira em torno de matéria essencialmente de direito.
+2. Não se vislumbra qualquer ilegalidade na avença que estabelece a conta garantida e autoriza o credor a promover os abatimentos e amortizações, à medida que são realizados créditos na conta bancária do devedor (e-STJ, fl. 405).
+Os embargos de declaração opostos pela MODELAR foram rejeitados (e-STJ, fls. 444/450).
+Inconformada, MODELAR interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 6º, I a X, 46, 51, IV, do CDC e a Súmula 565 do STJ, sustentou que demonstrados os encargos abusivos, que evidenciam vantagem exacerbada para a instituição financeira, ferindo o princípio da igualdade e do equilíbrio contratual, deve ser declarada nula a cobrança de Tarifa de Abertura de Crédito (TAC).
+O apelo nobre não foi admitido, sob o fundamento de incidência da Súmula nº 284 do STF.
+Nas razões do presente agravo em recurso especial, MODELAR afirmou, em suma, que a Súmula nº 284 do STF é inaplicável ao caso.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Inicialmente, quanto a violação a Súmula nº 565 do STJ, cabe ressaltar que o recurso especial não constitui via adequada para análise de eventual contrariedade a enunciado sumular, por não estar compreendido na expressão "lei federal", constante do art. 105, III, a, da CF, conforme previsto na Súmula nº 518 desta Corte: Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Da alegada violação dos arts. arts. 6º, I a X, 46, 51, IV, do CDC.
+MODELAR sustentou que demonstrados os encargos abusivos, que evidenciam vantagem exacerbada para a instituição financeira, ferindo o princípio da igualdade e do equilíbrio contratual, deve ser declarada nula a cobrança de Tarifa de Abertura de Crédito (TAC).
+O Tribunal assim se manifestou sobre a questão:
+Observa-se dos autos, especificamente dos documentos de ordem nº. 44, 45 e 46, que as partes firmaram Cédulas de Crédito Bancário, instrumentos que previram a possibilidade de, ocorrendo a inadimplência, a amortização dos empréstimos ocorrer através delançamentos contábeis a débito na conta corrente mantida pela autora perante a instituição financeira ré; a propósito, colaciono a referida cláusula contratual autorizadora:
+"Para o pagamento do total da dívida, inclusive os juros moratórios e compensatórios, encargos financeiros, despesas, multa convencional e demais acessórios decorrentes da celebração do presente instrumento, na forma e vencimentos especificados nos itens 2.1 a 2.10, autorizo (amos) o BANCO DO BRASIL S/A., em caráter irrevogável e irretratável, a proceder aos pertinentes e necessários lançamentos contábeis a débito da conta corrente especificada, obrigando-me (nos) a manter, nas épocas próprias, disponibilidade financeira suficiente a acolhida de tais lançamentos, independentemente de aviso ou notificação." (grifei e destaquei) (e-STJ, fls. 409/410).
+Da leitura dos trechos acima destacados, verifica-se que havia cláusula contratual entre as partes que autorizava os descontos de valores na conta-corrente da MODELAR, sem prévio aviso, em caso de inadimplência.
+Verifica-se, todavia, que a recorrente não impugnou os fundamentos de fato e de direito utilizados pela Corte de origem a justificar a decisão.
+Com efeito, no apelo nobre, a recorrente apresentou argumentação genérica sobre a cobrança de Tarifa de Abertura de Crédito (TAC), sem atacar, de forma específica os pressupostos sobre os quais se erigiu a decisão.
+Ante as razões dissociadas daquilo que ficou consignado no acórdão recorrido, no ponto, aplica-se também o teor das Súmulas nº 283 e 284 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados contra MODELAR nos termos do art. 85, § 11, do CPC/2015.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO DE DÉBITO INDEVIDO EM CONTA CORRENTE. FUNDAMENTOS SUFICIENTES INATACADOS. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULAS NºS 283 E 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
