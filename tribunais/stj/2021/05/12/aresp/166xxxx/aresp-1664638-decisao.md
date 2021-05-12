@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo de interposto por CAMILA CAVALCANTI TEIXEIRAde decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Regiãoassim ementado (fl. 389):
+ADMINISTRATIVO. CONCURSO PÚBLICO. ANALISTA DE CONTROLE EXTERNO. VAGASPARA PNE. CRITÉRIOS DE CONVOCAÇÃO. SENTENÇA MANTIDA.
+I. A Constituição prevê que "a lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão" (art. 37, VIII) e a Lei8.112/90, art. 5º, § 2º, dispõe que "às pessoas portadoras de deficiência é assegurado o direito de se inscrever em concurso público para provimento de cargo cujas atribuições sejam compatíveis com a deficiência de que são portadoras; para tais pessoas serão reservadas até 20% (vinte porcento) das vagas oferecidas no concurso".
+II. Para dar concretude a essas normas, foi decidido que o percentual acima referido seria aplicado ao total de vagas de um cargo, independentemente da localidade ou especialidade.
+III- No caso em análise, o percentual de 5% estipulado no Edital foi aplicado sobre o total de vagas, ou seja, 129 vagas oferecidas, perfazendo um total de 7 vagas ,enfatizando, independentemente da especialidade escolhidas pelos candidatos PNE"s.
+IV - A Administração ao convocar para a segunda etapa do certame os candidatos PNE"s, fez-se valendo do fato destes terem sido aprovados dentre as vagas destinadas aos candidatos PNE"s (sete) e terem optado pela especialidade Relações Internacionais.
+V - O Edital, no item 5.9.1.,1 permitia a inscrição para mais de um cargo, devendo o candidato aprovado optar, no momento de inscrição para o curso de formação, por um deles.
+VI. Recurso de apelação ao qual se nega provimento. Sentença mantida.
+Contra esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 416/426).
+Sustenta a parte agravante, no recurso inadmitido, além de dissídio jurisprudencial, violação aos arts. 3º, IV, 5º, 7º, XXX e XXXI, e 39 da Constituição da República, 2º, III, d, da Lei 7.853/1989, 5º, § 2º, da Lei 8.112/1990 e, ainda, ao Decreto 3.928/1999, uma vez que: (a) tendo sido aprovada e classificada em 2º lugar para o cargo de Analista de Controle Externo - Apoio Técnico e Administração - Relações Internacionais/Distrito Federal, para o qual foram disponibilizadas 2 (duas) vagas e, posteriormente, criada uma terceira vagapara o mesmo cargo, faria ela jus à ser convocada para o programa de formação; (b) diante dessa nova situação, em que o número de vagas foi aumentado de duas para três, "razoável seria destinar duas delas a candidatos não portadores de deficiência, e uma a candidato portador de deficiência" (fl. 437); (c) houve desrespeito ao princípio da proporcionalidade.
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando, no mais, seus argumentos.
+Contraminutas às fls. 519/524 e 525/529.
+Em decisão unipessoal proferida em 2/3/2020 o em. Ministro Presidente do STJ não conheceu do agravo em recurso especial (fls. 538/539), a qual foi posteriormente tornada sem efeito (fl. 573).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+De início, não se presta o apelo nobre ao exame de suposta ofensa a dispositivos constitucionais, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Por sua vez, a alegação genérica de ofensa aoDecreto 3.928/1999, sem a particularização do dispositivo supostamente contrariado, importa em deficiência de fundamentação recursal, o que atrai a incidência da Súmula 284/STF, por analogia.
+Impende acrescentar, outrossim, que ajurisprudência desta Corte de Justiça tem entendimento de quenão é possível, pela via do recurso especial, a análise de eventualofensa a decreto regulamentar, uma vez que tal ato administrativonão se insere no conceito de legislação federal. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. INCORPORAÇÃO DE QUINTOS.
+SERVIDORES PÚBLICOS. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SÚMULA 518 DO STJ.
+ ..
+2. É firme a orientação, baseada na Súmula 518/STJ, de que não é possível, pela via do Recurso Especial, a análise de eventual ofensa a súmula, decreto regulamentar, resoluções, portarias ou instruções normativas, por não estarem tais atos administrativos compreendidos no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+ ..
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.822.029/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019)
+Quanto ao demais dispositivos tidos por violados, dispõem eles o seguinte:
+Lei 7.853/1989
+Art. 2º Ao Poder Público e seus órgãos cabe assegurar às pessoas portadoras de deficiência o pleno exercício de seus direitos básicos, inclusive dos direitos à educação, à saúde, ao trabalho, ao lazer, à previdência social, ao amparo à infância e à maternidade, e de outros que, decorrentes da Constituição e das leis, propiciem seu bem-estar pessoal, social e econômico.
+Parágrafo único. Para o fim estabelecido no caput deste artigo, os órgãos e entidades da administração direta e indireta devem dispensar, no âmbito de sua competência e finalidade, aos assuntos objetos esta Lei, tratamento prioritário e adequado, tendente a viabilizar, sem prejuízo de outras, as seguintes medidas:
+ ..
+III - na área da formação profissional e do trabalho:
+ ..
+d) a adoção de legislação específica que discipline a reserva de mercado de trabalho, em favor das pessoas portadoras de deficiência, nas entidades da Administração Pública e do setor privado, e que regulamente a organização de oficinas e congêneres integradas ao mercado de trabalho, e a situação, nelas, das pessoas portadoras de deficiência;
+Lei 8.112/1990
+Art. 5º. São requisitos básicos para investidura em cargo público:
+ ..
+§ 2º.Às pessoas portadoras de deficiência é assegurado o direito de se inscrever em concurso público para provimento de cargo cujas atribuições sejam compatíveis com a deficiência de que são portadoras; para tais pessoas serão reservadas até 20% (vinte por cento) das vagas oferecidas no concurso.
+De ser ver que o art. 2º, III, d, da Lei 7.853/1989 não possui comando normativo capaz de sustentar a tese suscitada pela parte recorrente, haja vista que nada disciplina quanto aos critérios de aplicação da reserva de vagas destinada aos PNE"s. Assim, nesse ponto, também incide o óbice da Súmula 284/STF, por analogia.
+Por sua vez, ao interpretar o art. 5º, § 2º, da Lei 8.112/1990, o Tribunal de origem firmou a compreensão no sentido de que o percentual reservado aos PNE"s dever "ser aplicado ao total de vagas de um cargo, independentemente da localidade ou especialidade" (fl. 386). A partir dessa premissa, conclui pela ausência de ilegalidade apontada pela parte autora, ora recorrente, uma vez que (fl. 387):
+8. Assim, no caso em análise, o percentual de 5% estipulado no Edital foi aplicado sobre o total de vagas, ou seja, 129 vagas oferecidas, perfazendo um total de 7 vagas, enfatizando, independentemente da especialidade escolhidas pelos candidatos PNE"s.
+9. Deste modo, os primeiros sete candidatos aprovados pela lista de PNE"s deveriam obrigatoriamente serem convocados para tomar posse, independente da especialidade a qual optaram. Explicando, mesmo que entre os sete candidatos houvessem mais candidatos optantes por uma especialidade que vagas para esta especialidade, deveriam estes serem chamados, devendo tomar posse em especialidade diversa da optada no momento da inscrição.
+10. De maneira objetiva esclareceu a juíza a qua:
+Desse modo, a distribuição dos cargos para deficientes físicos gera duas situações, que o portador de necessidade especial nem sempre será nomeado para o cargo que escolheu no ato da inscrição; outra, que a alocação da vaga e do cargo se dará de acordo com o juízo de conveniência e oportunidade da autoridade coatora.
+(..)
+Uma vez que o edital fixou o percentual de 5% do total de vagas destinadas para cada cargo, independentemente da área/especialidade da vaga, restou prejudicada a nomeação para o cargo a partir de critérios objetivos, com pretende a impetrante.
+11. A Administração ao convocar para a segunda etapa do certame os candidatos PNE"s, Ricardo Broegaard Jonas e Paula Hebling Dutra, o fez-se valendo do fato destes terem sido aprovados, respectivamente, em primeiro e segundo lugar na lista dos candidatos que se declararam PNE"s e concorriam ao cargo de Analista de Controle Externo (fl. 75). Portanto, não havendo nenhum tipo de ilegalidade no ato.
+11.  Rectius: 12  Quanto ao fato do candidato Ricardo Broegaard Jonas ter se inscrito e concorrido a dois cargos, o edital de maneira expressa permite:
+5.9.1.1 Será permitido ao candidato se inscrever para cada uma das áreas(Controle Externo e Apoio Técnico e Administrativo) do cargo de Analista de Controle Externo neste concurso público desde que não haja coincidência nos turnos de aplicação das provas, conforme subitem 6.4 56.5, devendo, para isso, realizar as inscrições para cada área / especialidade / orientação / localidade de vaga / cidade de provas, bem como pagar as respectivas taxas de inscrição.
+12.  Rectius: 13 Desta maneira, o candidato Ricardo Broegaard Jonas ao ser convocado para a inscrição no curso de formação teve que optar por um dos cargos para o qual foi aprovado,AnalistadeControleExterno-Área:ControleExterno-Orientação:AuditoriaGovernamental/Distrito Federal e Área/Especialidade Apoio Técnico e Administrativo com Orientação em Relações Internacionais, optando pelo último.
+(Grifos nossos)
+A decisão da Corte local não destoa do entendimento consolidado no STF no julgamento da ADC 41/DF, relator Ministro ROBERTO BARROSO, que estabeleceu as balizas interpretativas da Lei n. 12.990/2014 e assentou que o percentual atua sobre o total de vagas. Nesse mesmo sentido:
+ADMINISTRATIVO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. SISTEMA DE RESERVA DE VAGAS PARA CANDIDATOS NEGROS E PARDOS. APLICAÇÃO DO PERCENTUAL SOBRE O TOTAL DE VAGAS. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+ ..
+6. Não obstante, mesmo que superado o óbice acima, o Tribunal a quo não destoa do entendimento consolidado no STF no julgamento da ADC 41/DF, rel. Min. Roberto Barroso, que estabeleceu as balizas interpretativas da Lei 12.990/2014 e assentou, que o percentual atua sobre o total de vagas, sem fracionamento decorrente de supostas "especialidades".
+7. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 1.396.520/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 13/9/2019.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. SISTEMA DE RESERVA DE VAGAS PARA CANDIDATOS NEGROS E PARDOS. APLICAÇÃO DO PERCENTUAL SOBRE O TOTAL DE VAGAS. PRESCINDIBILIDADE DE TITULAÇÃO ESPECÍFICA. VIOLAÇÃO A NORMATIVOS FEDERAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RAZÕES GENÉRICAS. SÚMULA 284/STF. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. DESCARACTERIZAÇÃO. FUNDAMENTAÇÃO INATACADA. SÚMULA 283/STF. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ. SISTEMA DE RESERVA DE VAGAS PARA CANDIDATOS NEGROS E PARDOS. PERCENTUAL INCIDENTE SOBRE O TOTAL DE VAGAS OFERECIDAS. CONTROLE DE FRAUDE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE DE FRACIONAMENTO DE ACORDO COM ESPECIALIDADES DO CARGO. BURLA.
+ ..
+5. O índice percentual aplicável no sistema de reserva de vagas para negros e pardos em concursos públicos observa a totalidade das vagas oferecidas, vedado o fracionamento dessas vagas de acordo com a especialização exigida, por representar burlar à política de ação afirmativa. Inteligência da ADI 41/DF, rel. Ministro Roberto Barroso.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp 1.425.161/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 22/3/2019.)
+Conquanto referidos precedentes cuidassem da reserva de vagas destinadas aos autodeclarados pretos/pardos, aplicam-se eles integralmente ao caso concreto, haja vista que o aforisma ubi eadem legis ratio ibi eadem dispositio (onde há a mesma razão de ser, deve prevalecer a mesma razão de decidir).
+Calha ressaltar que, especificamente no que concerne à questão da possibilidade de os candidatos concorrerem a dois cargos, foi ela decidida à luz das regras do edital do certame, cuja revisão é inviável em recurso especial, ante o óbice da Súmula 5/STJ.
+Por fim, orecurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ; isso porquea parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, conheço do agravo para conhecer parcialmentedo recurso especial, negando-lhe provimento.
