@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por VALDILENE COSTA DA SILVA GONCALVES, contra decisão do Tribunal de Justiça do Estado de Goiás, que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fls. 270/271):
+APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANO MORAL. CONTRATO DE CARTÃO DE CRÉDITO. COMPROVADO NOS AUTOS O USO DO CARTÃO PARA SAQUES E COMPRAS. SITUAÇÃO DIVERSA DO EMPRÉSTIMO CONSIGNADO PURO OU DE CRÉDITO PESSOAL. VALIDADE DO PACTO. A SÚMULA 63 DO TJGO NÃO ABRANGE A HIPÓTESE DOS AUTOS. HONORÁRIOS RECURSAIS.
+1. Restando comprovado nos autos que o contrato entabulado entre as partes litigantes não se trata de empréstimo consignado puro, mas sim de cartão de crédito, em que ele é usado para saques e compras diversas, podendo a parte optar pelo pagamento do valor integral ou do mínimo constante da fatura, não há se falar em abusividade ou ilegalidade na contratação, não merecendo acolhida os pedidos de repetição de indébito e danos morais, pois inocorrentes.
+2. Ahipótese dos autos não se amolda àquela abrangida pela súmula 63 deste Tribunal de Justiça, razão pela qual inaplicável este precedente ao caso concreto ora analisado.
+3. Uma vez improcedentes os pedidos iniciais, a autora deve arcar com a integralidade dos ônus sucumbenciais. Desprovido o recurso da parte autora, os honorários advocatícios devem ser majorados, nos termos do artigo 85, § 11, do Código de Processo Civil, com a ressalva de ser a sucumbente beneficiária da justiça gratuita.
+APELAÇÕES CÍVEIS CONHECIDAS. PRIMEIRO APELO PROVIDO E O SEGUNDO, DESPROVIDO.
+Nas razões do recurso especial apartealegaofensa aos seguintes dispositivos legais: 6º, inciso VIII, 39, incisos I, e, IV, e, 52 do Código de Defesa do Consumidor, além de divergência jurisprudencial.
+Sustenta, em síntese, que "A modalidade de empréstimo via cartão de crédito com reserva de margem consignável (RCM), é visivelmente nula, pois viola os direitos do consumidor, especialmente aqueles relacionados à informação e à transparência das relações de consumo" (e-STJ Fl. 284).
+Pedeo provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+Com efeito, relativamente à suposta violação aos artigos tidos por violados, a Corte Estadual, soberana na análise das peculiaridades do caso concreto, asseverou que (e-STJ Fls. 391/392, gn):
+"Além disso, verifica-se que constam do contrato juntado aos autos informações expressas quanto à autorização para descontos do valor mínimo da fatura mensal do cartão de crédito na remuneração da autora (evento 10, arquivo 2).
+Assim, resta evidente a ciência da consumidora a respeito da modalidade contratada, pois, além de ter utilizado o cartão para compras a crédito, recebeu as faturas mensais referentes às respectivas operações realizadas, sem que houvesse qualquer impugnação, não havendo se falar em abusividades ou nulidades a ponto de descaracterizar o contrato entabulado entre as partes litigantes para empréstimo consignado puro". ".
+Assim, elidir as conclusões do aresto impugnado no sentido de que ainstituição financeira demonstrou a autorização para desconto em folha de pagamento do valor mínimo da fatura e a efetiva utilização do cartão de crédito pela autora,demandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+À propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO COM DESCONTO EM FOLHA. ILICITUDE NÃO CONSTATADA. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO A FIM DE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A decisão que não conheceu do agravo, em razão de intempestividade do recurso especial, mostra-se equivocada por ter desconsiderado a data de publicação do v. acórdão proferido nos embargos de declaração. Reconsideração.
+2. No caso, o Tribunal de origem afastou a índole abusiva do contrato de cartão de crédito com reserva de margem consignada e declarou a legitimidade das cobranças promovidas, por concluir que a prova documental apresentada pela instituição financeira demonstrou a autorização para desconto em folha de pagamento do valor mínimo da fatura e a efetiva utilização do cartão de crédito pela autora.
+3. Para derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de se atribuir a nulidade do contrato firmado, por estar evidenciada contratação onerosa ao consumidor, seria necessário o revolvimento das provas constantes dos autos, bem como a interpretação das previsões contratuais, providências vedadas em sede de recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7 do STJ.
+4. Agravo interno provido para conhecer do agravo a fim de negar provimento ao recurso especial.
+(AgInt no AREsp 1512052/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/10/2019, DJe 08/11/2019)
+Cumpre asseverar que, referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 12% sobre o valor atualizado da causa (e-STJ fls. 276), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 14% sobre o valor atualizado da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANO MORAL.CARTÃO DE CRÉDITO CONSIGNADO COM DESCONTO EM FOLHA. ILICITUDE NÃO CONSTATADA. COMPROVADO NOS AUTOS O USO DO CARTÃO PARA SAQUES E COMPRAS.REVISÃO DESTEENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL.
