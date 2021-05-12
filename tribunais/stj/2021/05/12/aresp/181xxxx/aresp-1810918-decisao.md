@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE PROCEDIMENTO COMUM - COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS PACTUADOS SOBRE PROVEITO ECONÔMICO - NEGÓCIO JURÍDICO ANULÁVEL - VÍCIO DE CONSENTIMENTO. - É improcedente a ação de cobrança de honorários advocatícios ancorada em cláusula contratual maculada por vício resultante de erro e dolo, que estipula os honorários advocatícios em percentual a ser calculado sobre o proveito econômico, quando o advogado contratado impossibilita que o contratante, pessoa humilde e - sexagenária, possa se cientificar do alcance ou a extensão da obrigação pactuada.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a parte recorrente aponta negativa de vigência aos artigos 489 e 1.022 do Código de Processo Civil/2015, 110, 113, 140, 177 e 884 do Código Civil, e, 299 e 335 do CPC/73, asseverando a necessidade de anulação do acórdão por omissão e falta de fundamentação, ou alternativamente, sua reforma para que a recorrida seja condenada a pagar os honorários advocatícios.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+No que se refere à apontada violação aos arts. 489 e 1.022do CPC/2015, não observo omissão, contradição ou obscuridade no acórdão, senão julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos tanto do acórdão recorrido, quanto do que julgou os embargos de declaração, encontram-se objetivamente fixados nas razões do acórdão recorrido às fls. 420-421, e-STJ.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento.Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/8/2016.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+As provas dos autos revelam que a apelada tinha plena convicção de que os honorários devidos aos apelantes eram aqueles pagos mensalmente, não tendo intenção de contratar os honorários de 20% a incidir sobre eventual proveito econômico que viesse auferir. A testemunha Isabeila Assumpção Arantes afirmou que estavapresente na ocasião em que a apelada assinou o contrato de prestação de serviço em debate; que não foi "especificado o que eram os documentos", sendo dito apenas que "eram documentos referentes ao processo da requerida"; que "o Dr. Roberto não explicou para que se tratavam os documentos"; que "nessa reunião não foi mencionada a questão de honorários ou contrato de honorários"; que a requerida não  teve  tempo de ler os documentos, que ele indicou os locais para assinar, recolheu os documentos" (f.2971297v).
+As testemunhas Wilma Vieira Batista e Marta Helena Martins MeIo (ff. 2981299) sabiam que os honorários contratuais seriam aqueles pagos mensalmente.
+A apelada comprovou fato impeditivo do direito dos apelantes (CPC, art. 373, II), pois que impossibilitaram que ela (contratante), pessoa humilde e ao tempo da contratação sexagenária, tivesse o verdadeiro alcance ou extensão da obrigação pactuada, logo, deve ser anulado o § 20 da cláusula 4a desse contrato por vício resultante de erro e dolo.
+ ..
+No caso dos autos, a declaração de vontade exarada pela apelada foi motivada por uma percepção equivocada da realidade,provocada dolosamente pelos apelantes, e atingindo sua manifestação volitiva, o que vicia o negócio jurídico a ponto de nulificá-lo.
+Assim, não são devidos os honorários pleiteados pelos apelantes, sendo de rigor a manutenção da sentença.
+Como se vê, o Tribunal de origem solucionou a controvérsia à luz do conjunto fático-probatório dos autos, concluindo ser de rigor a manutenção da sentença, diante do inequívoco descabimento dos honorários advocatícios conforme contratado, de sorte que, para modificar tais premissas, conforme as pretensões e teses desenvolvidas no recurso especial, seria necessário reinterpretar cláusulas contratuais, bem comoreexaminar fatos e provas, o que é vedado em sede de recurso especial, em razão do óbice erigido pelas Súmulas 5 e 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
