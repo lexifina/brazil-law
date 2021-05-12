@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Maceió, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 43):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM AÇÃO DE EXECUÇÃO FISCAL DA DÍVIDA ATIVA. PRELIMINAR AFASTADA. PRESCRIÇÃO CONFIGURADA. ARTIGO 174 DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+1. A teor do artigo 174 do CTN: "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva". A constituição definitiva ocorre: a) com o lançamento ou no 31º dia após este, ou, b) com a decisão administrativa da qual não cabe mais recurso;
+2. Observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), transcorrido o prazo legal de 05 anos.
+3. Confirmada a prescrição, resta prejudicada a apreciação das outras matérias trazidas para debate;
+4. Precedentes do Superior Tribunal de Justiça;
+5. Recurso conhecido e não provido. Unanimidade.
+A parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 174, parágrafo único, I, do CTN; 219, §1º, do CPC/73. Sustenta, em resumo, que: (I) "ajuizada a ação dentro do prazo de 05 (cinco) anos estabelecido no art. 174 do CTN, o juízo de piso não proferiu o despacho de admissibilidade da inicial e ordenatório da citação, tendo deixado transcorrer vários anos para extinguir a execução fiscal pela prescrição, não podendo o Município ser penalizado pela demora na prolação desse pronunciamento jurisdicional" (fl. 58); (II) "se a ação de cobrança foi proposta dentro do prazo prescricional, restou interrompido o curso desse prazo extintivo do direito de crédito, entendimento sufragado pelo Superior Tribunal de Justiça, inclusive em recurso especial repetitivo nº 1.120.295/SP" (fls. 58/59) .
+A Vice-Presidência do Tribunal local encaminhou os autos à Turma julgadora para realização de juízo de conformidade considerando o julgamento demérito do REsp1.102.431/RJ -Tema 179/STJ.
+A decisão foi mantida pelo órgão fracionário nos seguintes termos (fl. 110):
+APRECIAÇÃO DE JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC. PONDERAÇÃO ACERCA DO TEMA 179/STJ. DESNECESSIDADE DE RETRATAÇÃO. A INÉRCIA NO TOCANTE AO IMPULSO PROCESSUAL DEVE SER VERIFICADA PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA N. 106/STJ, SOMENTE NA HIPÓTESE DE CONSTATAÇÃO DE FALHA DO PODER JUDICIÁRIO. EXECUTIVO FISCAL COM CARACTERIZAÇÃO DE INÉRCIA DO CREDOR/EXEQUENTE QUANTO AO IMPULSO PROCESSUAL. REALIZAÇÃO DE JUÍZO DE CONFORMIDADE, EM QUE SE CONCLUI PELA MANUTENÇÃO DO ACÓRDÃO. À UNANIMIDADE.
+Às fls. 126/127, a Vice-presidência do Tribunal de origem admitiu o recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No que se refere àquestão daimpossibilidade de decretação de prescrição nos casos de demora na citação, por motivos inerentes ao mecanismo da justiça, a Corte local analisou a questão posta no recurso especial de fls. 55/74 à luz do entendimento consolidado no julgamento do REsp nº1.102.431/RJ, Tema 179/STJ, concluindo pela adequação do acórdão recorrido a esse precedente.
+É o que se verifica da decisão de conformidade (fls. 115/116 - g.n.):
+Por conseguinte, voto no sentido de não ser realizada a retratação, uma vez não observada divergência em relação a tese firmada pelo Superior Tribunal de Justiça ao julgar o Tema nº 179, devolvendo-se os autos à Vice-Presidência desta Corte, para o regular processamento do Recurso Especial.
+Nesse contexto, resta prejudicada a apreciação do recurso especial, pois, no caso dos autos, o Tribunal de origem manteve o acórdão recorrido por estar em conformidade com a tese adotada no precedente indicado, o que afasta o disposto no art. 1.041 do CPC/2015, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.".
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
