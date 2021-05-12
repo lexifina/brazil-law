@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo naalínea ado permissivo constitucional, contra acórdão do TRF da 1ª Região assim ementado (e-STJ, fl. 506):
+TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. IMPORTAÇÃO DE AERONAVE. COFINS-IMPORTAÇÃO. ADICIONAL DE 1%. LEI N. 12.016/09.
+1. O art. 8º, § 12, da Lei n. 10.865/04, disciplina a alíquota zero da Cofins para importação de aeronaves. Por sua vez, o § 21, cria adicional de 1% para a Cofins-importação.
+2. O §12 da Lei 10.865/04 é norma especial enquanto o §21 é norma geral, aplicável a outras hipóteses que não as contempladas pelo citado §12.
+3. Não prevalece a exigência do adicional de 1% da COFINS no caso de importação de aeronaves.
+4. Apelação e remessa necessária improvidas.
+Os embargos de declaração opostos foram improvidos.
+Em suas razões, a Fazenda alega ofensa aos arts. 1.022 do CPC; 21 da MP 540/2011; 21 da Lei n. 12.546/2011; 43 da MP 563/2012; 53 da Lei n. 12.715/2012; 12 da Lei n. 12.844/2013; 8º, § 12, VI e VII, da Lei n. 10.865/2004; 8º, I, b, e, II, b, da Lei n. 10.865/2004; e 8º, § 21, da Lei n. 10.865/2004.
+Sustenta, em suma, que (e-STJ, fl. 553):
+É perfeitamente conciliável a norma do § 12 do art. 8º da Lei 10.865/2004 (alíquota zero para os setores ali enumerados, em contraposição aos 9,65% ou 7,6% exigíveis dos demais setores) com o disposto no § 21 do mesmo art. 8º na redação dada pela Lei n.º 12.844/2013 (adicional de 1% da COFINS-Importação).
+Não há, no caso, qualquer incompatibilidade ou margem para aplicação do princípio da conciliação de normas ou para interpretação que não seja a literal, já que o legislador, ao criar o adicional, fez constar expressamente que o um ponto percentual deverá ser aplicado aos bens classificados relacionados no Anexo 1 da Lei nº 12.546, de 14 de dezembro de 2011, sendo que nesse rol consta a NCM 8802, na qual estão classificadas as aeronaves cuja a recorrida pretende importar.
+É o que estabelece o art. 8º, § 21, com a redação alterada pelo art. 12 da Lei nº 12.844/2013, segundo o qual o adicional de 1% deverá ser somado às alíquotas previstas no art. 8º, como previu o legislador (0  1 = 1) - e não uma hipotética criação de adicional de 1% à alíquota da COFINS-Importação.
+Nessa segunda hipótese, não adotada pelo legislador, até seria compreensível a tese da recorrida, já que 1% a incidir em uma alíquota-zero seria também zero (O x 0,001 = O). Não é, contudo, o caso dos autos, em que o legislador foi claro ao estabelecer que as alíquotas da COFINS-Importação tratadas no art. 8º ficam acrescidas de um ponto percentual.
+Vale dizer, se o contribuinte está sujeito à alíquota de 9,65% (art. 8º, I) ou 7,6% (art. 8º, II), deverá pagar agora respectivamente 10,65% e 8,6% em razão do adicional de 1%. Por outro lado, se o contribuinte é beneficiário da alíquota zero estabelecida no § 12 do mesmo artigo, deverá o mesmo pagar apenas 1%, equivalente ao adicional de 1% acrescido Lei n.º 12.844/2013.
+Foram apresentadas contrarrazões às e-STJ, fls. 565-612.
+Admitido o recurso especial na origem (e-STJ, fs. 624-625), subiram os autos a esta Corte.
+Foram apresentados memoriais às e-STJ, fls. 653-656e 658-691.
+É o relatório.
+Consta dos autos que a requerente alega, no presente especial, afronta ao art. 1.022, II, do CPC.
+No entanto, a análise do apelo extremo, nessa parte, denota que a recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão impugnado, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação o não permitir a exata compreensão da controvérsia.".
+Quanto ao mais, esta Corte de Justiça já se posicionou no sentido de que é devida a Cofins-Importação, na alíquota de 1% (um por cento), sobre a importação de aeronave classificada na posição 88.02 da NCM bem como de partes e peças vinculadas, não havendo incompatibilidade entre a instituição do referido adicional e a existência de norma anterior que previa alíquota zero.
+Nesse sentido:
+PIS/COFINS-IMPORTAÇÃO. LEI N. 10.865/2004. IMPORTAÇÃO DE AERONAVE. MAJORAÇÃO DE ALÍQUOTA. LEGALIDADE. CLÁUSULA DE TRATAMENTO NACIONAL. GATT. INAPLICABILIDADE.
+I - É devida a COFINS-importação sobre a importação de aeronave classificada na Posição n. 88.02 da NCM, à alíquota de 1%, conforme previsão no § 21 do art. 8º da Lei n. 10.865, de 2004.
+II - As aeronaves classificadas na posição NCM n. 88.02 foram incluídas no § 12 do art. 8º da Lei n. 10.865, de 30/4/2004 (que reduziu para alíquota zero a importação de diversos produtos), em julho de 2004, pela Lei n. 10.925, enquanto que os demais componentes e insumos das aeronaves correspondentes foram incluídos na política de alíquota zero apenas a partir da Lei n. 11.727 de 2008. Em julho de 2013, com a conversão da MP n. 610 pela Lei n. 12.844/2013, os incisos VI e VII, do § 21, da Lei n. 10.865/2004 foram alterados, acrescentando-se um ponto percentual nas alíquotas da Cofins-Importação na importação dos bens classificados na Tabela TIPI, relacionados no Anexo I da Lei n. 12.546/2011.
+III - A edição da Lei n. 12.844/2013 não trouxe para o ordenamento jurídico conflito normativo, ao contrário, harmonizou-se com o restante da Lei n. 10.865/2004, disciplinando as normas que tratam de "importação dos bens classificados na TIPI, aprovada pelo Decreto no 7.660, de 23 de dezembro de 2011, relacionados no Anexo I da Lei n. 12.546, de 14 de dezembro de 2011", entre as quais se inclui a regra do § 12, VI e VII.
+IV - A Segunda Turma desta Corte, no julgamento do REsp n. 1.437.172/RS, Rel. p/Ac o Min. Herman Benjamin, concluiu, por maioria, que a cláusula de "Obrigação de Tratamento Nacional" não se aplica ao PIS/COFINS-Importação, sendo desnecessária a análise da existência efetiva de tratamento desvantajoso ao produto originário do exterior decorrente da majoração em 1% da alíquota da COFINS-Importação, visto que, ainda que se confirme tal desvantagem, não há que se falar em violação da referida cláusula, haja vista sua inaplicabilidade em relação às referidas contribuições. Precedentes: REsp n. 1.660.652/RS, Rel. Min. Francisco Falcão, DJe 31/10/2017 e AgInt no REsp n. 1.729.513/RS, Rel. Ministro Og Fernandes, DJe 13/8/2018.
+V - Agravo conhecido para dar provimento ao recurso especial.
+(AREsp 1.252.267/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 1º/9/2020, DJe 4/9/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015. APLICAÇÃO DA SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO. TRIBUTÁRIO. COFINS-IMPORTAÇÃO. IMPORTAÇÃO DE AERONAVE, PARTES E PEÇAS. MAJORAÇÃO DE ALÍQUOTA. LEGALIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+2. É devida a COFINS-importação sobre a importação de aeronave classificada na posição 88.02 da NCM, à alíquota de 1%, conforme previsão no § 21 do art. 8º da Lei n. 10.865, de 2004. Precedente específico: REsp 1.660.652/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 31/10/2017.
+3. Agravo interno conhecido em parte e improvido.
+(AgInt no REsp 1.729.513/RS, de minha relatoria, SEGUNDA TURMA, julgado em 7/8/2018, DJe 13/8/2018).
+Corroborando com esse entendimento, vale conferir recentes decisões: REsp 1.890.985/DF, Rel. Min. Benedito Gonçalves, DJe 18/2/2021; AgInt no REsp 1.893.060/MG, Rel. Min. Herman Benjamin, DJe 23/2/2021; REsp 1.897.148/MG, Rel. Min. Assusete Magalhães, DJe 25/11/2020.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para reformar o acórdão recorrido e denegar a segurança.
+Publique-se. Intimem-se.
