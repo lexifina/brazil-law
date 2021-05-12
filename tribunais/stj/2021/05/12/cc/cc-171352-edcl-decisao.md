@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porCOLD JET INTERNATIONAL LLCcontra decisão unipessoal que conheceu do conflito para declarar acompetência daSEGUNDA TURMA DO TRIBUNAL REGIONAL FEDERAL DA 4ªREGIÃO para o processo e julgamento da ação ordinária n. 0014750-93.2017.8.16.0194.
+Em suas razões recursais, a parte embargante alega a existência de omissão no decisum embargado, quanto ao fato de que "a fabricante da máquina copiada pela embargada, por ser uma empresa internacional, nem mesmo possui registro de sua marca junto ao INPI" e, por isso, não há"qualquer interesse institucional daquela autarquia capaz de atrair a competência da Justiça Federal para o julgamento do feito" (e-STJ, fl. 1.003; ambas as citações).
+Defende, assim, que deve ser aplicada a primeira parte da tese firmada no julgamento do REsp 1.527.232/SP (Tema 950), com o reconhecimento da competência da justiça estadual.
+Acentua, por fim, que "o bem maior que se busca proteger é a livre e justa concorrência, o respeito ao contrato assinado entre as partes e à lei" (e-STJ, fl. 1.003).
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado, o que não se verifica no presente caso.
+Com efeito, adecisão embargada, de forma clara, consignouquehouve expressa formulação, na petição inicial da ação ordinária que subjaz ao presente incidente, de abstenção de uso de marca registrada, de modo que a questão deve ser decidida pelo Juízo federal competente, com a participação do Instituto Nacional de Propriedade Industrial - INPI.
+Assim, aplicável ao caso a segunda parte da tese pacificadano julgamento do recurso especial n. 1.527.232-SP, julgado mediante a sistemática dos recursos repetitivos, pela Segunda Seção desta Corte Superior. Eis a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. CONCORRÊNCIA DESLEAL.COMPETÊNCIA DA JUSTIÇA ESTADUAL. TRADE DRESS. CONJUNTO-IMAGEM.ELEMENTOS DISTINTIVOS. PROTEÇÃO LEGAL CONFERIDA PELA TEORIA DA CONCORRÊNCIA DESLEAL. REGISTRO DE MARCA. TEMA DE PROPRIEDADE INDUSTRIAL, DE ATRIBUIÇÃO ADMINISTRATIVA DE AUTARQUIA FEDERAL.DETERMINAÇÃO DE ABSTENÇÃO, POR PARTE DO PRÓPRIO TITULAR, DO USO DE SUA MARCA REGISTRADA. CONSECTÁRIO LÓGICO DA INFIRMAÇÃO DA HIGIDEZ DO ATO ADMINISTRATIVO. COMPETÊNCIA PRIVATIVA DA JUSTIÇA FEDERAL.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973), é a seguinte: As questões acerca do trade dress (conjunto-imagem) dos produtos, concorrência desleal e outras demandas afins, por não envolver registro no INPI e cuidando de ação judicial entre particulares, é inequivocamente de competência da justiça estadual, já que não afeta interesse institucional da autarquia federal. No entanto, compete à Justiça Federal, em ação de nulidade de registro de marca, com a participação do INPI, impor ao titular a abstenção do uso, inclusive no tocante à tutela provisória.
+2. No caso concreto, dá-se parcial provimento ao recurso interposto por SS Industrial S.A. e SS Comércio de Cosméticos e Produtos de Higiene Pessoal Ltda.,remetendo à Quarta Turma do STJ, para prosseguir-se no julgamento do recurso manejado por Indústria e Comércio de Cosméticos Natura Ltda. e Natura Cosméticos S.A.
+(REsp n. 1.527.232/SP, Rel. Min. Luis Felipe Salomão, Segunda Seção, DJe 5/2/2018)
+Dissociadoo pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaraçãorejeitados.
