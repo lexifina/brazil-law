@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ FELIPE CARDOSO HENRIQUE GERALDO à decisão de fls. 84/86, a qual não conheceu do habeas corpus.
+A defesa afirma que "a questão sobre a existência, ou não, do requisito objetivo para o livramento condicional foi levada ao conhecimento deste Colendo Tribunal, não tendo sido considerado quando do julgamento da demanda"(fl. 90).
+Assevera que o Tribunal a quoreconheceu o preenchimento do requisito objetivo, tendo se dedicado, principalmente, à análise do mérito do apenado.
+Assim, sob a alegação de omissão no julgado, o embargante requer o acolhimento dos presentes embargos para que seja reanalisado o pedido da defesa.
+É o relatório.
+Decido.
+Razão assiste ao embargante.
+A Corte estadual reconheceu o preenchimento do requisito objetivo para fins de livramento condicional:
+"Como bem salientou o Juízo "a quo" em que pese a atual boa conduta carcerária e o preenchimento do requisito objetivo, o sentenciado não ostenta mérito para obter benesse tão ampla"(fl. 55).
+Entretanto, ratificando a decisão de primeiro grau, manteve o indeferimento do benefíciocom fundamento na necessidade de o apenado passar, primeiramente, pelo regime intermediário. Conforme verifica-se dos seguintes trechos:
+Decisão:
+" ..
+Além disso, embora a concessão do livramento condicional não esteja condicionada à prévia promoção do sentenciado para o regime semiaberto, não há como negar que em algumas hipóteses isso seja recomendável, sendo justamente isso que ocorreno presente caso. Diante desse quadro, o princípio da gradação, além dos já conhecidos princípios da proporcionalidade e da razoabilidade, desaconselham a concessão do livramento condicional.
+Evidente, diante disso, que se faz necessário um período prévio de permanência no regime intermediário, com manutenção de bom comportamento, a fim de se verificar a ressocialização do sentenciado e a adequada absorção da terapêutica penal, com aquisição de consciência sobre a conduta criminosa, assimilação da disciplina, da hierarquia e de valores socialmente adequados, além de um maior desenvolvimento de mecanismos inibitórios de condutas antissociais.
+Some-se a isso, ainda, o fato de que o parágrafo único do art. 83 do Código Penal é claro no sentido de que a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir, constatação esta que inexiste nos autos, mas que poderá ser aferida com o retorno das saídas temporárias que serão concedidas para o sentenciado quando ele for promovido para o regime semiaberto.
+Ante o exposto, INDEFIRO o pedido de livramento condicional formulado pelo sentenciado, por ausência do requisito objetivo" (fls. 42/43).
+Acórdão:
+" ..
+Desses elementos emerge a inarredável necessidade de prévia progressão para obtenção do benefício do livramento condicional, eis que na dicção do "caput" do artigo 112, da Lei de Execução Penal: "A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão".
+A progressividade pressupõe a existência de gradações, de fases que se sucedem, não sendo permitido suprimir qualquer delas. Ela é necessária para que o condenado possa ser paulatinamente reinserido no corpo social, de forma a vivenciar sua liberdade gradativamente, o que também possibilita aferir a assimilação da terapêutica e as modificações no comportamento do cativo, que deve dar mostras de adaptação no regime intermediário para então ser agraciado com a progressão ao regime mais brando.
+Note-se que o artigo 112 é claro ao estabelecer que a passagem para regime menos rigoroso pressupõe o cumprimento de parte da pena no mais rigoroso que imediatamente o antecede" (fls. 56/57).
+Quanto ao tema, nos termos do art. 83 do Código Penal, o apenado deverá cumprir os requisitos de natureza objetiva e subjetiva para a obtenção do benefício do livramento condicional.
+Dessa forma, resta evidenciada a inidoneidade da fundamentação utilizada para indeferir a benesse no que se refere ao requisito subjetivo, pois ausente de fundamentação legal e contrária ao entendimento desta Quinta Turma, que é no sentido de que "não há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal" (HC 411.951/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 26/09/2017).
+No mesmo sentido, colaciono os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. LIVRAMENTO CONDICIONAL. REQUISITOS SUBJETIVOS. GRAVIDADE DO DELITO. LONGA PENA A CUMPRIR. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. NECESSIDADE DE PASSAGEM POR REGIME INTERMEDIÁRIO. REQUISITO NÃO PREVISTO EM LEI. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. A jurisprudência deste Superior Tribunal de Justiça tem se manifestado no sentido de que a gravidade do delito, as faltas graves antigas, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento do benefício do livramento condicional.
+4. O Superior Tribunal de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias e determinar que o Juiz da execução aprecie o pleito do benefício do livramento condicional, nos estritos termos da lei.
+(HC 384.838/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 07/04/2017).
+EXECUÇÃO PENAL. HABEAS CORPUS. (1) IMPETRAÇÃO SUBSTITUTIVA. IMPROPRIEDADE DA VIA ELEITA. (2) COMUTAÇÃO DE PENAS. DECRETO Nº 7.873/2012. TRIBUNAL DE ORIGEM. INDEFERIMENTO. FALTA GRAVE (NOVO DELITO) PRATICADA FORA DO PRAZO LEGAL. BENEFÍCIO CONDICIONADO À COMPROVAÇÃO DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AUSÊNCIA DE PREVISÃO NO DECRETO PRESIDENCIAL. CONSTRANGIMENTO ILEGAL. EXISTÊNCIA. (3) LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL. IMPOSSIBILIDADE. (4) LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. CUMPRIMENTO EM REGIME INTERMEDIÁRIO. DESNECESSIDADE. (5) WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. O indeferimento do pedido de livramento condicional, arrimado na necessidade do paciente ser submetido a regime intermediário de cumprimento de pena antes de sua concessão, configura constrangimento ilegal, tendo em vista que esta exigência não se encontra prevista na legislação que rege aquele instituto. Precedentes.
+5. Habeas Corpus não conhecido. Ordem concedida, de ofício, a fim de determinar que o Juízo das Execuções reexamine os pedidos de livramento condicional e de comutação de penas, com fundamento no Decreto n.º 7.873/2012, afastando os óbices anteriormente apontados (execução n.º 791.920).
+(HC 296.206/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 04/11/2014).
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. BENEFÍCIO INDEFERIDO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS E NA LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS CONCEDIDO.
+1. É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ.
+2. Habeas corpus concedido para restabelecer a decisão de 1º grau que concedeu ao paciente a progressão para o regime semiaberto.
+(HC 519.301/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 27/11/2019, DJe 13/12/2019).
+Ante o exposto, acolho os presentes embargos de declaração econcedo a ordem habeas corpus, de ofício, para determinar que o Juízo da Execução reaprecie o pedido delivramento condicional sem considerara exigência de progressão prévia para o deferimento do benefício.
+Publique-se.
+Intimações necessárias.
