@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - PRODUÇÃO ANTECIPADA DE PROVAS - LAUDO PERICIAL HOMOLOGADO - QUESITOS RESPONDIDOS SATISFATORIAMENTE - DESNECESSIDADE DE NOVA PERÍCIA E DE OITIVA DO PERITO OFICIAL - SENTENÇA SEM CONTEÚDO DECISÓRIO - AUSÊNCIA DE RESISTÊNCIA DA PARTE REQUERIDA - INEXISTÊNCIA DE SUCUMBÊNCIA. Desnecessária a realização de nova perícia ou de oitiva do perito oficial uma vez respondidos os quesitos satisfatoriamente. Considerando que a decisão proferida em sede de produção antecipada de provas não implica sucumbência, posto que não há questão de mérito a ser apreciada, bem como não houve resistência ao pedido inicial, incabível a condenação ao pagamento de ônus sucumbenciais.
+A parte agravante sustenta que o acórdão estadual é omisso; deve ser cassada a multa imposta em sede de embargos declaratórios; a prova pericial contém vícios que ensejam sua anulação, e ensejam sua repetição com a observância das normas processuais.
+Quanto à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Nos moldes da jurisprudência desta Corte, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido.
+(AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+Em um ponto, porém, assiste razão à parte agravante.
+É que este STJ sumulou a orientação no sentido de que "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório" (Súmula 98).
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial, afastando a multa imposta em sede de embargos declaratórios.
+Intimem-se.
