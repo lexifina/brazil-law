@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, ajuizado em nome de Mateus Henrique de Souza,apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2301768-53.2020.8.26.0000), que manteve a custódia cautelar do paciente.
+Colhe-se dos autos que opaciente teve a prisão em flagrante convertida em preventiva, em razão da suposta prática dodelitoprevistonoart. 33 da Lei n. 11.343/2006(fls. 142/144).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem em 3/2/2021 (fls. 234/238).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressaltam-se as condições pessoais favoráveis do paciente.
+Invoca-se o princípio constitucional da presunção de inocência.
+Defende-se que há desproporcionalidade da medida em caso de eventual condenação.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar em 30/3/2021e solicitadas as informações, essas foram prestadas às fls. 254/257.
+O Ministério Público Federal, em seu parecer, opinoupelonão conhecimento dowrit(fls. 262/267).
+Éo relatório.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Quanto aos fundamentos da custódia cautelar, o Juízo de origem, ao decretar a preventiva, assim fundamentou a sua decisão no que interessa (fls. 142/143- grifo nosso):
+ ..
+A despeito da primariedade do autuado, afora a apreensão da substância entorpecente em expressiva quantia (21 tijolos de maconha somando 11.876 gramas de maconha, além de 8 porções somando 540 gramas de maconha, cf. auto de exibição e apreensão de págs. 11/13 e exame de constatação provisória de págs. 26/28), o autuado foi abordado portando aparelho celular de boa marca (Iphone), além de R$ 950,00 em espécie, a não possibilitar, ictu oculi, a dedução de tratar-se o autuado de pessoa alheia à dedicação às atividades ilícitas ou àparticipação em organização criminosa; por isso, prematura a conjectura de que fará jus ao parágrafo 4º, do artigo 33, da Lei de Tóxicos.
+Esse somatório de circunstâncias revelam comportamento nocivo do agente, lesando profundamente a saúde pública, a provocar temeridade social e o fomento de outras condutas criminosas, colocando em flagrante risco a tranquilidade social, além de demonstrarem que medidas cautelares outras, que não a prisão preventiva, são insuficientes e inadequadas para a garantia da ordem pública. Em suma, tem-se caracterizada a necessidade da prisão cautelar para manutenção da ordem pública e superados os requisitos próprios para concessão da liberdade provisória, daí porque inviável deferi-la.
+ ..
+O Tribunal estadual, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao paciente, ressaltando que (fl. 237 - grifo nosso):
+ ..
+Trata-se de delito grave, hediondo por equiparação, que indiscutivelmente compromete a paz pública, de sorte que, por aqui, a custódia cautelar não se reveste das características próprias do constrangimento ilegal, como, aliás, bem fundamentado na decisão de primeiro grau digitalizada a fls.126/128, principalmente se considerado, como já apontado no despacho liminar, que, apesar de primário (cf. certidão de fl. 67), foi apreendida em poder do paciente elevadíssima quantidade de droga (12,350 Kg de maconha, divididos em "tijolos" e porções menores, de acordo com a denúncia); quadro este que demonstra a gravidade concreta do delito e denota a finalidade mercantil do entorpecente apreendido.
+Ora, cuidando-se de acusação de tráfico de entorpecentes, delito grave, como já dito, ao contrário do alegado pela impetrante, faz-se necessária a custódia cautelar em função de determinados objetivos, que se relacionam à garantia da ordem pública, à conveniência da instrução criminal e para assegurar a aplicação da lei penal, nos exatos termos do artigo 312 do Código de Processo Penal.
+ ..
+Não foi outra a opinião doSubprocurador-Geral da República Moacir Mendes Sousa em seu parecer (fls. 262/267).
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordináriasfizeram referências às circunstâncias fáticas justificadoras, destacando, além da quantidade doentorpecenteapreendido (12.350kg de maconha),o fato de o paciente ter sido preso com apetrechos utilizados no tráfico de entorpecentes.Tudo a revelar a periculosidadein concretodoagente e justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Nesse sentido:legal é a prisão preventiva decretada com base em elementos concretos do caso, consistente na maior gravidade da conduta criminosa em razão da expressiva quantidade de entorpecente apreendido - 10 kg de maconha. Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública(AgRg no HC n. 568.055/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/6/2020).
+E, ao contrário do sustentado pela impetrante, não há como concluir que, na sentença, o paciente será beneficiado com a redutora do § 4ºdo art. 33da Lei de Drogas,será fixado regime inicial diverso do fechado ou terásubstituída a pena privativa de liberdade por restritiva de direitos. Tais temas serão apreciados em momento processual oportunoe não impedem a imposição da constrição cautelar.
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. QUANTIDADE DE DROGAS. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
