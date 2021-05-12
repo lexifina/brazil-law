@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus no qual se busca a absolvição dos pacientes em relação ao delito do art. 35 da Lei de Drogas, com a consequente aplicação do redutor de pena previsto no § 4º do art. 33 da referida Lei, o abrandamento do regime e a substituição da pena por restritiva de direitos.
+Acontece que os temas foram anteriormente submetidos à apreciação desta Corte no HC n. 645.036/RJ, impetrado contra acórdão proferido pelo Tribunal a quo na Apelação n. 0035557-74.2018.8.19.0014, ora impugnado.
+Cuida-se, portanto, de indevida reiteração de pedido.
+Confira-se, a propósito, a fundamentação apresentada por este Tribunal:
+"No caso, o Tribunal a quo manteve a condenação dos pacientes pela prática do crime de associação para o tráfico de drogas, sob os seguintes fundamentos:
+" ..
+A materialidade dos delitos está devidamente comprovada pelo auto de prisão em flagrante e de apreensão de adolescente (doc. 06), registro de ocorrência (doc. 11), laudo de exame de entorpecente (doc.
+21), auto de apreensão (doc. 23), bem como pelos laudos de exame do material para endolação de droga e dos celulares apreendidos (docs.
+210 e 220).
+A autoria dos crimes ficou também comprovada por toda prova oral acusatória produzida à luz do contraditório e pelos demais elementos de convicção.
+Os depoimentos da Audiência de Instrução e Julgamento foram colhidos através do meio audiovisual. Colaciono abaixo a transcrição feita na sentença de doc. 293:
+ ..
+O apelante Leonardo Moraes Almeida manifestou seu desejo em permanecer em silêncio.
+Apesar de os apelantes não terem confirmado seu envolvimento no tráfico de drogas, os depoimentos, tanto extrajudiciais quanto judiciais, dos policiais são uníssonos em afirmar que eles estavam associados ao menor e a outros integrantes da facção criminosa Terceiro Comando Puro para a prática do crime de tráfico de drogas.
+Narraram os agentes da lei que estavam em patrulhamento no local, que já conhecido como de tráfico de drogas, de domínio da facção TCP, quando avistaram uma casa, a qual já sabiam ser utilizada como base para a mercancia ilícita e onde haviam feito apreensões de material entorpecente. Ao entrarem no imóvel, encontraram os apelantes e o menor. Em revista pessoal, apreenderam dinheiro, celulares e com um dos apelantes, dois pinos de cocaína. Em busca pela casa, localizaram mais drogas embaladas nas mesmas condições das encontradas com um dos réus, cerca de 800 pinos e "sacolés" vazios, bem como uma balança de precisão.
+Necessário se faz destacar que este Tribunal sumulou entendimento no sentido de que os depoimentos dos policiais são merecedores de plena credibilidade, não podendo suas declarações desautorizarem a condenação - Súmula 70 do TJRJ. Com efeito, motivo não há para que os militares atribuam, injustamente, aos apelantes o cometimento de condutas tão perniciosas, ainda mais que não foi comprovado nos autos a relação de animosidade entre eles.
+ ..
+Ademais, os depoimentos dos militares merecem elevada consideração e credibilidade por terem como objetivo assegurar a sociedade e elidir a criminalidade e não atribuir aos indivíduos, gratuita e injustamente, o cometimento de tais condutas.
+Além disso, no caso em tela, não há dúvidas de que todo o material entorpecente se destinava ao tráfico ilícito.
+As circunstâncias da prisão, ocorrida em local já conhecido como base para o tráfico de drogas, de domínio da facção TCP, os depoimentos dos policiais, a apreensão de 721 pinos, 133 "sacolés" vazios e prontos para embalar entorpecente, de balança de precisão e de material entorpecente devidamente acondicionado, não deixam dúvidas sobre a veracidade dos fatos narrados na denúncia, tratando-se de quadro probatório firme e seguro para produzir a condenação, não procedendo o pedido de absolvição por insuficiência de provas.
+ ..
+Vale ressaltar que é irrelevante para a configuração do delito de tráfico que os apelantes não tenham sido surpreendidos comercializando a droga, pois a conduta que lhe é imputada é de ter em depósito, guardar e trazer consigo, para fins de tráfico, drogas sem autorização ou em desacordo com determinação legal ou regulamentar, não sendo exigido, na hipótese, o dolo específico, vale dizer, a consumação do ilícito de tráfico de drogas não exige qualquer resultado, como a venda ou a efetiva entrega da coisa, bastando a simples posse da droga.
+Também ficou demonstrado que os apelantes estavam associados ao adolescente e a outros elementos para praticar o tráfico ilícito, exercendo cada um uma função específica.
+Pune-se, na espécie, aquele que, reiteradamente ou não, se associa para o fim de cometer o crime em referência, situação que bem se amolda à hipótese presente.
+No caso dos autos, a apreensão de cocaína, de grande quantidade de material para endolação de droga, balança de precisão, em imóvel que já era conhecido pela guarnição como utilizada pelo tráfico de entorpecente, onde, inclusive, já haviam realizado apreensões de ilícitos, bem como a dinâmica descrita pelos policiais de que encontraram todos juntos na casa, sendo que os apelantes foram vistos juntamente com traficantes da região, demonstram claramente o vínculo reiterado e permanente.
+Ademais, tendo em vista se tratar de local dominado pela organização Terceiro Comando Puro, assim como confirmado pelos militares em seus depoimentos, não teria como uma pessoa vender entorpecente sem participar da referida facção criminosa.
+ ..
+Como bem ressaltou o juízo sentenciante, "noutros termos, é sabido que os grupos criminosos que atuam no tráfico de entorpecentes no estado do Rio de Janeiro, estruturam de forma organi7ada e exercem permanentemente o comércio ilícito de drogas, impedindo a atuação de traficantes autônomos em seus territórios. Logo, pode-se afirmar, com certeza, que se os réus estavam dentro de uma casa conhecida pela guarnição e com material para fabricação de drogas naquela região é porque integram a organização criminosa." Portanto, restou comprovada a autoria dos crimes de tráfico de drogas e de associação para o tráfico pelos depoimentos dos policiais que diligenciaram na prisão, bem como pelas circunstâncias e local da apreensão, já conhecido como de domínio de facção criminosa nacionalmente conhecida" (fls. 20/26).
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA INVIÁVEL EM SEDE DE HABEAS CORPUS. PEDIDO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DOS CRIMES QUE INDICAM O TRÁFICO HABITUAL. FUNDAMENTAÇÃO IDÔNEA. PEDIDOS SUBSIDIÁRIOS PREJUDICADOS. AGRAVO NÃO PROVIDO.
+- Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei n. 11.343/2006. Na espécie, tendo a Corte local, com arrimo no conjunto probatório produzido nos autos, constatado que os agravantes praticaram o delito de associação para o tráfico, é inviável desconstituir tal premissa em sede de habeas corpus, diante da necessidade de revolvimento fático-probatório, vedado na estreita via do mandamus, de cognição sumária. Precedentes.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC 420.808/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/03/2018).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.  ..  ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO QUANTO AO DELITO DO ARTIGO 35 DA LEI 11.343/2006. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS NO ACÓRDÃO IMPUGNADO. COAÇÃO ILEGAL NÃO CARACTERIZADA.
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina. Precedentes.
+2. Tendo as instâncias de origem reconhecido, com arrimo no conjunto probatório produzido nos autos, que o paciente integraria organização criminosa estável e permanente, está caracterizado o delito de associação para o tráfico, afastando-se a coação ilegal suscitada na impetração.
+3. Para se entender de modo diverso e desconstituir o édito repressivo, como pretendido no writ, seria necessário o exame aprofundado do conjunto probatório produzido nos autos, providência que é inadmissível na via estreita do habeas corpus.
+ ..
+REGIME INICIAL FECHADO DETERMINADO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS. ELEMENTOS PRÓPRIOS DO TIPO PENAL VIOLADO. DESCABIMENTO. ENUNCIADOS 718 E 719 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DA ORDEM DE OFÍCIO.  ..
+2. Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime semiaberto para o cumprimento inicial da pena imposta ao paciente.
+(HC 392.153/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 07/06/2017)."
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
