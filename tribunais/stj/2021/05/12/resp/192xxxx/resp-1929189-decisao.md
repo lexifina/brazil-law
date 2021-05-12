@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANESPREV FUNDO BANESPA DE SEGURIDADE SOCIAL, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 01/12/2020.
+Concluso ao gabinete em: 13/04/2021.
+Ação: de cobrança ajuizada por GILBERTO VIEIRA em desfavor do BANESPREV - FUNDO BANESPA DE SEGURIDADE SOCIAL, pleiteando a complementação de previdência privada com o restabelecimento, após a aposentadoria,de verba que lhe fora deferida quando em atividade.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação do autor. A ementa restou assim redigida:
+Previdência privada. Ação de cobrança. Participação nos lucros e resultados (PLR). Competência. Justiça Estadual. Demanda que trata de matéria afeta à complementação de previdência privada, sem discussão de questões trabalhistas. Entendimento consolidado pelo STF, em julgamento proferido em sede de repercussão geral. Regulamento do Pessoal do Banespa de 1975 que previa a distribuição semestral de gratificações a seus empregados e aposentados (art. 56). Equiparação entre a antiga gratificação semestral e a atual participação nos lucros e resultados (PLR). Verba incorporada ao patrimônio jurídico do autor, ex-funcionário aposentado do Banespa. Direito à PLR estendido aos aposentados. Precedentes. Recurso parcialmente provido.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 112 e 114 do Código Civil, bem como dissídio jurisprudencial. Defende que "não há qualquer previsão legal ou convencional que determine o pagamento da participação nos lucros e resultados em substituição à gratificação semestral, sendo certo que o Regulamento de Pessoal não contempla ou autoriza aludida pretensão". Argumenta que "por meio do julgamento do REsp n.º 1.425.326/RS, afetado pelo rito dos recursos repetitivos (artigo 543-C do CPC/1973 correspondente ao artigo 1.036 do CPC vigente), este C. STJ definiu, acerca de questão central a este processo, que é impossível o pagamento de gratificação semestral e/ou PLR aos ex-funcionários já aposentados".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento:aplicação do CPC/2015.
+-Da jurisprudência do STJ
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n.º 1.425.326/RS (Rel. Min. LUIS FELIPE SALOMÃO, DJe de 01/08/2014), processado sob o rito do art. 543-C do CPC/73, consolidou tese segundo a qual não são extensíveis os abonos e vantagens de qualquer natureza aos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada, independentemente das disposições estatutárias e regulamentares, sobretudo a partir da vigência da norma proibitiva inserta no artigo 3º da Lei Complementar 108/2001, sobressaindo, outrossim, a impossibilidade da determinação de pagamento de valores sem respaldo no plano de custeio.
+O referido julgado restou assim ementado:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+Desse modo, encontrando-se o entendimento do Tribunal de origem dissonante da jurisprudência desta Corte Superior, imperativa a reforma do acórdão recorrido.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restabelecer a sentença de e-STJ fls. 502/504.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+ROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. EXTENSÃO DE ABONO E/OU VANTAGENS DE QUALQUER NATUREZA À COMPLEMENTAÇÃO DE APOSENTADORIA. INVIABILIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança.
+2. Não é possível a incorporação de abonos e vantagens concedidos aos funcionários em atividade, aos proventos de complementação de aposentadoria em manutenção pagos por entidade de previdência privada (REsp 1.425.326/RS).
+3. Recurso especial conhecido e provido.
