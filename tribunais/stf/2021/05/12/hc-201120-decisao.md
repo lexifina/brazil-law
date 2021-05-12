@@ -1,0 +1,26 @@
+DECISÃO:
+EMENTA: Execução penal. Habeas corpus. Roubo. Prorrogação de medida de segurança. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Felix Fischer, assim ementado:
+    “EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. SENTENCIADO SUBMETIDO À MEDIDA DE SEGURANÇA DE TRATAMENTO AMBULATORIAL. PERICULOSIDADE NÃO AFASTADA MEDIANTE LAUDO. SÚMULA N. 527 DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+    II - O art. 97, § 1º, do Código Penal estabelece que a medida de segurança de internação ou de tratamento ambulatorial deve se dar por tempo indeterminado, até que se verifique a efetiva cessação da periculosidade do indivíduo, sendo o prazo mínimo de 1 (um) a 3 (três) anos.
+    III - Trata-se de previsão legal que deve ser interpretada em conformidade com a redação da Súmula n. 527 deste Superior Tribunal de Justiça, verbis: ‘O tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado’.
+    IV - Na hipótese, verifica-se que o eg. Tribunal a quo, porque não afastada a periculosidade do paciente mediante laudo, manteve o tratamento ambulatorial em decisão fundamentada e pelo prazo legal.
+    Habeas corpus não conhecido. ”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 4 anos de reclusão, em regime aberto, pela prática do crime previsto no art. 157, caput, do Código Penal, sendo a reprimenda substituída por medida de segurança de internação, estipulando-se o prazo de 1 ano, nos termos do art. 26, parágrafo único, c/c o art. 98 do Código Penal.
+    3. Em seguida, o Juízo da Execução prorrogou a medida de segurança por mais 1 ano, consistente na obrigação de submeter-se a tratamento ambulatorial. Contra essa decisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC (649.659) no STJ, não conhecido, por unanimidade, pela Quinta Turma da Corte Superior.
+    4. Neste habeas corpus, a parte impetrante alega que o paciente já cumpriu mais do que a pena concretamente cominada em sentença, considerando tanto o tempo dispendido em prisão preventiva, internação e tratamento ambulatorial. Requer, assim, o reconhecimento do vencimento da medida de segurança e decretação da extinção da punibilidade do agente.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. O art. 97, § 1º, do Código Penal enuncia que a internação será por tempo indeterminado, perdurando enquanto não cessar a periculosidade do agente. Ademais, o entendimento do STF é no sentido de que “o prazo máximo de duração da medida de segurança é o previsto no art. 75 do CP, ou seja, trinta anos” (HC 98360, Relator Min. Ricardo Lewandowski).
+    8. Nessas condições, não verifico ilegalidade flagrante ou abuso de poder que justifique o acolhimento da pretensão defensiva, tampouco contrariedade ao entendimento desta Corte. Tal como assentou o STJ, no caso, “a prorrogação da medida de segurança comprovou-se necessária, sobretudo, em razão da dependência de álcool, comprovada por laudo pericial, presente nos autos”. No ponto, transcrevo as seguintes passagens da decisão impugnada:
+    “[...] o laudo pericial atestou que a periculosidade do paciente subsiste (fls. 353-354): ‘Considerando o estado psicopatológico atual do sentenciado Adauto Candido, concluímos que o mesmo, ainda é portador de periculosidade, em decorrência de alterações psíquicas e comportamentais por Síndrome de Dependência ao Álcool’.
+    Como dito, o art. 97, § 1º, do Código Penal estabelece que a medida de segurança de internação ou de tratamento ambulatorial deve se dar por tempo indeterminado, até que se verifique a efetiva cessação da periculosidade do indivíduo, sendo o prazo mínimo de 1 (um) a 3 (três) anos.
+    Trata-se de previsão legal que deve ser interpretada em conformidade com a redação da Súmula n. 527 deste Superior Tribunal de Justiça, verbis: ‘O tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado’.
+    In casu, tem-se que o lapso do limite máximo de 10 (dez) anos da pena abstratamente cominada ao delito praticado pelo paciente, previsto no art. 157, caput, do Código Penal, não restou desrespeitado.
+    Na hipótese, ora, verifica-se que o eg. Tribunal a quo manteve o tratamento ambulatorial mediante decisão fundamentada e pelo prazo legal.”
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 12 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
