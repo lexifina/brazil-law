@@ -1,0 +1,36 @@
+Trata-se de agravos contra decisão por meio da qual foi negado seguimento aos recursos extraordinários interpostos em face de acórdão assim ementado:
+    “EMBARGOS INFRINGENTES - TORTURA - FUNCIONÁRIO PÚBLICO - ATRIBUTO NÃO CONTIDO NA ELEMENTAR DO TIPO PENAL - CAUSA DE AUMENTO DISPOSTA NO ART. 1°, § 4°, I, DA LEI N° 9.455/97 - BIS IN IDEM - INOCORRÊNCIA.
+    - A qualidade de agente público não é elementar do crime de tortura. Com efeito, a incidência da majorante prevista no art.1°, §4°, I, da Lei n° 9.455/97 não implica bis in idem.
+    V.V. EMBARGOS INFRINGENTES - TORTURA SEGUIDA DE MORTE - POSSIBILIDADE DE DECOTE DA MAJORANTE - CRIME PRÓPRIO - BIS IN IDEM - EMBARGOS ACOLHIDOS. Imperioso se mostra o decote da majorante prevista no parágrafo 4°, I, do art. 1° da Lei n° 9.455/97 (crime cometido por agente público), sob pena de se incorrer em bis in idem, uma vez que o tipo penal imputado aos acusados, pelo qual restaram condenados, já exige para a sua configuração que a vitima esteja submetida à guarda, poder ou autoridade do agente” (pág. 340 do documento eletrônico 3).
+    Os embargos de declaração em seguida opostos por Evandiu Gonçalves Vilela foram rejeitados (págs. 387-391 do documento eletrônico 3).
+    No RE interposto por Luiz Carlos Pereira, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação dos arts. 1º, III; e 5°, XXXIX e XLVII, e, da mesma Carta (págs. 373-385 do documento eletrônico 3).
+    Já no RE interposto por Evandiu Gonçalves Vilela, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 5°, LV e XLVI, da mesma Carta (págs. 431-450 do documento eletrônico 3).
+    As pretensões recursais não merecem acolhida.
+    O recurso interposto por Luiz Carlos Pereira teve negado o seguimento sob o fundamento de ofensa reflexa ao texto constitucional.
+    Já o recurso interposto por Evandiu Gonçalves Vilela teve negado o seguimento sob os seguintes fundamentos: (i) impossibilidade do reexame do conjunto fático-probatório constante dos autos (Súmula 279/STF); e (ii) necessidade de reapreciação de legislação infraconstitucional.
+    Contudo, os agravantes, nas razões de seus agravos, não impugnaram os fundamentos da decisão agravada, o que atrai a aplicação da Súmula 287/STF.
+    De fato, incumbe aos agravantes o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Razões do agravo que não atacam todos os fundamentos da decisão agravada. Inadmissibilidade. Súmula nº 287 desta Corte.
+    1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte.
+    2. Agravo regimental não provido” (ARE 639.283-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma – grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL.
+    1. Ausência de impugnação dos fundamentos da decisão de inadmissibilidade do recurso extraordinário. Súmula n. 287 do Supremo Tribunal Federal.
+    2. Ausência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário.
+    3. Não ocorrência da prescrição. Novo marco interruptivo decorrente de acórdão de segunda instância que majora a pena, com repercussão no cálculo prescricional. Precedentes.
+    4. Agravo regimental ao qual se nega provimento” (ARE 760.280-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No que diz respeito ao recurso interposto por Evandiu Gonçalves Vilela, verifica-se que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao Texto Magno.
+    Esse entendimento foi consolidado no julgamento do ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, observo que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 9.455/1997), bem como no conjunto fático-probatório constante dos autos.
+    Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo, além de incidir, na espécie, a Súmula 279/STF, o que também inviabiliza o extraordinário. Por oportuno, transcrevo as ementas dos julgados abaixo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ROUBO MAJORADO. ARTIGO 157, § 2º, I E II, DO CÓDIGO PENAL. ALEGADA OFENSA AO ARTIGO 5º, XII, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LVI, DA CONSTITUIÇÃO FEDERAL. ILICITUDE DA PROVA. INTERCEPTAÇÃO TELEFÔNICA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL DESPROVIDO” (ARE 1.053.028-AgR/RJ, Rel. Min. Luiz Fux).
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ofensa reflexa à Constituição. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido.
+    1. O exame de legislação infraconstitucional é inadmissível em recurso extraordinário, por configurar ofensa reflexa à Constituição.
+    2. A conclusão em sentido diverso do manifesto no acórdão recorrido demandaria, na espécie, o reexame aprofundado do cotejo fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF.
+    3. Agravo regimental ao qual se nega provimento” (ARE 749.446-AgR/DF, Rel. Min. Dias Toffoli).
+    “Agravo regimental em agravo de instrumento. 2. A ausência de notificação, considerado o disposto no art. 514 do CPP, trata de nulidade relativa e deve ser arguida oportunamente. 3. Alegação de nulidade da interceptação telefônica. Análise de fatos e provas em recurso extraordinário. Impossibilidade. Súmula 279. 4. Análise da inidoneidade da dosimetria da pena. Matéria infraconstitucional. 5. Ausência de argumentos suficientes para infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento” (AI 842.198 AgR/RS, Rel. Min. Gilmar Mendes).
+    Isso posto, nego seguimento aos recursos (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 12 de maio de 2021.
+Ministro Ricardo Lewandowski
+Relator
