@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO DO MUNICÍPIO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao recurso especial interposto pelo MUNICÍPIO DE SÃO PAULOcontra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente o fundamento da decisão agravada quanto à aplicação da Súmula 7/STJ, limitando-se a alegar que a decisão judicial violou a decisão proferida pelo STJ no Resp. 1.111.124/PR, julgado nos termos do art. 543-C do antigo CPC (Tema repetitivo 116).
+3. O recurso especial foi inadmitido por: i) ausência de fundamentação suficiente para infirmar as conclusões do acórdão recorrido e ii) incidência da Súmula 7/STJ.
+4. Com efeito, o agravo em recurso especial tem por escopo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO DE DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL FUNDADA NO ART. 1.030, I, B, DO CPC/2015. AGRAVO DO ARTIGO 1042 DO CPC/2015. NÃO CABIMENTO. MATÉRIA PACIFICADA PELA CORTE ESPECIAL (QO NO AG 1.154.599/SP). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS APLICADOS À INADMISSÃO DO APELO NOBRE NA ORIGEM.
+1. A Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que  não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC. Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo. Precedentes.
+2. No caso, observa-se que a decisão que negou seguimento ao apelo especial foi fundamentada no entendimento firmado no Recurso Especial Repetitivo n. 1.001.779/DF (Tema 239), representativo de
+controvérsia. Assim, incabível o questionamento apresentado nesta oportunidade.
+3. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+4. Agravo interno não provido(AgInt no AREsp 1.704.833/RS, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 15.4.2021 -sem destaques no original).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento (AgInt no AREsp 1112333/SP, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 28.3.2019).
+5. Diante dessas considerações, não conheço do agravo em recurso especial do Município.
+6. Publique-se. Intimações necessárias.
