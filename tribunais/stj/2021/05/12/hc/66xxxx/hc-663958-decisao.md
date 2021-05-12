@@ -1,0 +1,19 @@
+DECISÃO
+CASSIO MUSSAWER MONTENEGRO, de próprio punho, impetra habeas corpus em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Inquérito Policial n. 1517922-29.2020.8.26.0050).
+O impetrante/paciente alega que (fl. 3):
+O objeto deste WRIT Sr Relator é o trancamento imediato do inquérito policial instaurado por requisição do Ministério Público junto à 11ª Vara Criminal do Foro Central de São Paulo, ou mesmo, a critério de V. Exa. ordenar o devido processo legal exatamente por esta autoridade tão dedicada à ordem pública, sem qualquer interesse financeiro, senão a dedicação a lei objetiva.
+Como Vossa Excelência poderá observar no documento anexado o Tribunal de Justiça do Estado de São Paulo recusou na instancia originária o protocolo do referido writ, manifestando apenas da sua incabível possibilidade por via de papel, em plena pandemia e na vigência da Lei 11419/05 que dispôs sobre o processamento eletrônico ao revés da utilização em papel, que definitivamente, pelo acumulo de poeira, bolor, fungos etc, depois da pandemia será certamente e definitivamente abolido.
+EM SENDO ASSIM SR MINISTRO, TENDO EM VISTA A RECUSADESTA INSTANCIA, REQUEIRO V. EXA. A IMPETRAÇÃO DOPRESENTE WRIT PARA AS FINALIDADES DA LEGALIDADE,DETERMINANDO SE FOR O CASO A RENOVAÇÃO DO PROCESSOPENAL.
+A matéria de fundo não foi apreciada pela Corte de origem. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância. Confira-se precedente sobre a questão:
+HABEAS CORPUS. ESTELIONATO TENTADO, RESISTÊNCIA E LESÃO CORPORAL CONTRA AUTORIDADE. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+ ..
+4. A matéria relativa à detração não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que evidencia a ausência de causa julgada a justificar a inauguração, neste ponto, da competência do Superior Tribunal de Justiça.
+5. Ordem denegada. (HC n. 452.649/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 20/2/2019.)
+Ademais, ao contrário do que quer fazer crer o peticionário, o Tribunal de origem não recusou o recebimento do writ lá impetrado, mas esclareceu que, apesar de o envio por e-mailnão ser admitido, o habeas corpus poderia ser protocolado presencialmente, enviado pelos Correios ouainda por peticionamento eletrônico com auxílio da Defensoria Pública. Confira (fl. 92, destaquei):
+Em se tratando de habeas-corpus de competência da Seção de Direito Criminal, cumpre-nos informar que, em atenção ao disposto no artigo 19 da Resolução nº 551/2011, os pedidos de habeas-corpus sem assistência de advogado poderão ser apresentados em meio físico, devidamente assinados e protocolizados nas unidades de protocolo de Segunda Instância, preferencialmente no setor de protocolo Glória, não admitido o envio por e-mail. Porém, o pedido poderá ser enviado pelos correios (SEDEX) ao setor de protocolo Glória (endereço abaixo):
+1. PALÁCIO DA JUSTIÇA - Praça da Sé, s/ nº, Térreo, Sala 108, Sé, São Paulo/SP, CEP 1018-010 (habeas-corpus cível);
+2. GLÓRIA - Rua da Glória, nº 459 - 1º andar, Liberdade, São Paulo/SP, CEP 01510-001 (habeas-corpus criminal).
+Informamos, ainda, que, durante o retorno gradual das atividades do TJSP, o atendimento presencial nos setores de protocolo de Segunda Instância é de segunda à sexta, das 13 às 19 horas. No entanto, em virtude da FASE VERMELHA no estado, foi instituído o Sistema de Trabalho Remoto em todo Tribunal de Justiça prorrogado até 18/04/2021, conforme o Provimento CSM nº2.605/2021 (DJE 31/03/2021 p. 2), ou seja, não há atendimento presencial. Portanto, eventual urgência no pedido, sugiremos buscar auxílio junto à Defensoria Pública para o peticionamento eletrônico do habeas-corpus.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
