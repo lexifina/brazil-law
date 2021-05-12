@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ITAU UNIBANCO S.A.contra decisão do Tribunal de Justiça do Paraná que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. REVISÃO DE CONTRATO DE ABERTURA DECRÉDITO EM CONTA CORRENTE. JUROS REMUNERATÓRIOS. AUSÊNCIA DE PACTUAÇÃO E INCIDÊNCIA DE JUROS FLUTUANTES. PRETENSÃO DE APLICAÇÃO DA TAXA LEGAL OU MEDIA DE MERCADO. ABUSIVIDADE CAPAZ DE COLOCAR O CONSUMIDOR EM DESVANTAGEM EXAGERADA NÃO COMPROVADA. TAXAS PRATICADAS MANTIDAS NO ACÓRDÃO. SÚMULA 530 DO STJ. INAPLICABILIDADE AO CASO. ENTENDIMENTO EM CONSONÂNCIA AO RECURSO ESPECIAL REPETITIVO N. 1.112.879/PR. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.Constatado que o entendimento adotado no julgamento de recurso de apelação está em consonância com a orientação firmada pelo Superior Tribunal de Justiça, em recurso repetitivo, não cabe exercício de juízo de retratação. Juízo de retratação não exercido.
+Nas razões do recurso especial a parte alega, em síntese, que teria sido violado o artigo 202, inciso I, do Código Civil, pois "a ação que tem o condão de interromper o prazo prescricional é aquela que tem como objetivo discutir ou declarar direito sobre o objeto da relação (no caso, o contrato)", o que não teria ocorrido na espécie, em recorrido ajuizara ação de prestação, a qual teria "finalidade específica". Argumenta que "a ação de prestação de contas possui rito específico, em que o magistrado, em primeira fase, julga o direito da requerente em ver as contas prestadas, enquanto na segunda fase, mediante a apresentação das contas e eventual impugnação da parte requerente, se inicia a "fase de conhecimento"e julgamento das contas", tendoesta Corte Superior pacificado o entendimento de que seria "incompatível o pedido revisional em ação de prestação de contas, sendo certo que, por tal motivo, não se pode dizer que havia discussão sobre o débito, tendo em vista ser incabível segunda fase de prestação de contas discutindo pedidos revisionais".
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+As razões veiculadas pela agravante mostram-se relevantes, exigindo, assim, uma análise mais profunda.
+Ante o exposto, acolho o agravo para, em juízo de retratação, determinar a sua reautuação como recurso especial a fim de permitir um melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento do recurso especial.
+Intimem-se.
