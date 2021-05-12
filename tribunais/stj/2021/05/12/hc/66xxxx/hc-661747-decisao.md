@@ -1,0 +1,19 @@
+DECISÃO
+ANTUNYN ALEX ALVES  alega  sofrer  coação  ilegal  em  seu  direito  de  locomoção,  em  decorrência  de  acórdão do Tribunal a quo. Busca o restabelecimento da progressão de regime concedida pelo Juiz da VEC, pois considera atendidos os requisitos legais do benefício.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Em 18/12/2020, foi deferido ao apenado a progressão ao regime semiaberto. O acórdão recorrido cassou o benefício, pelos seguintesfundamentos (fls. 87/91):
+O agravado foi condenado pela prática de diversos crimes, que resultaram na pena total de 28 (vinte e oito) anos, 07 (sete) meses e 28 (vinte e oito) dias e está comTCP previsto para 24.06.2034 (fls. 14). Anteriormente, já foi beneficiado com o regime aberto (albergue domiciliar), em 10.04.2014, e acabou preso em flagrante delito, em 04.03.2015, durante a fruição do benefício, por tráfico de drogas (crime equiparado a hediondo).
+Traiu, pois, a confiança que lhe fora depositada pelo Juízo da Execução. Voltou a delinquir.
+ ..
+Não bastasse isso, em seu Boletim Informativo registra duas faltas disciplinares de natureza grave, consistentes em desobediência e incitação ao tumulto. É certo que ocorreram há longa data (2015 fls. 18), mas revelam rebeldia e indisciplina.
+Ora, no caso em apreço, como se viu, somam-se condenações por crimes graves (furto qualificado, roubo majorado, tráfico e tentativa de latrocínio), com longa pena a cumprir (TCP previsto para 24.06.2034), além de indisciplina durante a expiação da pena, o que resulta na exigência de cautela redobrada na análise de benefício, em especial na presença do mérito do sentenciado, o que não se fez.
+A progressão de regime perfaz-se com a transferência gradativa para regime menos rigoroso quando implementados os requisitos do art. 112 da LEP.
+A "análise do requisito subjetivo pressupõe a verificação do mérito do condenado, que não está adstrito ao "bom comportamento carcerário", como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador" (RHC 121851, Rel. Ministro Luiz Fux, Primeira Turma, DJe 16/6/2014).
+Para justificar a falta de capacidade do apenado de ser promovido a regime menos rigoroso, o Juiz tem, então, de indicar dados mais ou menos recentesocorridos durante a própria execução penal.
+Assim: "fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução" (AgRg no HC 567.402/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 8/6/2020).
+Comportamento muito antigos não podem impedir, permanentemente, a promoção do apenado, pois o sistema pátrio veda a sanções de caráter perpétuo. A reabilitação do preso é possível e deve ser entendida como o aperfeiçoamento da disciplina carcerária por decurso de tempo relevante depois de sua última falta disciplinar.
+Nesse cenário, é de rigor a concessão da ordem.
+A natureza, a gravidade dos crimes e a longevidade das penas não são suficientes para impedir a progressão prisional. Os atos de indisciplina são longínquos, pois remontam ao ano de 2015 e, desde então,o reeducando desenvolveu comportamento satisfatório por tempo relevante.
+Por analogia à lei federal, utilizo o mesmo prazo da reabilitação penal (art. 94 do CP)comovetor para aplicar o direito ao esquecimento ao caso concreto. Decorridos mais de 2 anos desde a reabilitação administrativa do último ato de indisciplina (fl. 26), não subsistem seus efeitos negativos para fins de exame do requisito subjetivo do art. 112 da LEP.
+À vista do exposto, concedo o habeas corpuspara restabelecer a decisão do Juiz da VEC.
