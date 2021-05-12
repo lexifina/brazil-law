@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO GLAUCO FERREIRA PEREIRA contra decisão monocrática do Desembargadordo Tribunal de Justiça do Piauí proferido no HC n.º 0750068-03.2021.8.18.0000, que recebeu a seguinte ementa:
+"HABEAS CORPUS  ESTELIONATO  INCOMPETÊNCIA DO JUIZO A QUO  NÃO CONHECIMENTO DA ORDEM.
+1. Analisando os autos, observo que o pleito do impetrante necessita de extensa análise probatória, o que é inviável em Habeas Corpus, por se tratar de remédio constitucional que demanda prova pré-constituída.
+2. Ordem não conhecida." (e-STJ, fl. 158)
+Em razões, alega que o crime de estelionato se consuma com o recebimento de vantagem indevida pelo sujeito ativo e que o local da consumação determina a competência para o processamento e julgamento, nos termos do ar.t 70 do Código de Processo Penal.
+Argumenta que, na hipótese, as vítimas residem em diversos estados, enquanto os acusados residem na comarca de Maracanaú-CE, cidade sede das agências bancárias onde foram sacados os valores transferidos às contas bancárias destinatárias das vantagensindevidas. Afirma, ainda,que nenhum ato foi praticado na comarca de Teresina-PI.
+Alega que o Juízo da 6.ª Vara Criminal de Teresina não acolheu a exceção de incompetência com fundamento na conexão processual entre as Ações Penaisn.º 0001760-76.2020.8.18.0140 e n.º 0004378-91.2020.8.18.0140. Afirma, no entanto, que não há relação de causa e efeito na conduta atribuída ao recorrente e qualquer outra imputada àqueles denunciados na primeira ação penal, argumentando que a mera semelhança na execução do golpe foi suficiente para determinar a conexão processual e atrair a competência da 6.ª Vara Criminal de Teresina-PI.
+Aduz que a competência deve ser do Juízo do local onde ocorreu o maior número de infrações e que, ainda que se considere a existência de conexão, o Juízo competente é o da comarca de Maranacaú-CE.
+Requer, in limine, a suspensão do processo até o julgamento do mérito do presente recurso, concedendo ao recorrente do direito de aguardar em liberdade, mediante a aplicação das medidas no art. 319 do Código de Processo Penal, caso entenda necessário.
+Ao final, pugna pelo reconhecimento da incompetência da 6.ª Vara Criminal da Comarca de Teresina-PI.
+O pedido liminar foi indeferido (e-STJ, fl. 366).
+Prestadas as informações (e-STJ, fls. 376-378 e 379-381), o Ministério Público opinou pelo não provimento do recurso (e-STJ, fls. 385-391).
+Em petição avulsa, o recorrente pretende a extensão dos efeitos de decisão proferida pelo Juízo da 6.ª Vara Criminal de Teresina-PI, que relaxou a prisão dos corréus nos autos da Ação Penal n.º 0001760-76.2020.8.18.0140. Diante da negativa do pedido, informa que impetrou habeas corpus(HC n.º 0751802-86.2021.8.18.0000) perante o TJ-PI, cuja ordem foi denegada.
+É o relatório.
+Decido.
+O presente writ foi manejado contra decisão singular do Desembargador Relator do Tribunal de origem, sem informação de que tenha havido interposição de agravo regimental para manifestação do Órgão Colegiado daquela Corte.
+Assim, ausente o exaurimento da instância ordinária, não se conhece do pedido sob pena de indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PROCESSUAL PENAL. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR. FALTA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+AGRAVO DESPROVIDO.
+1. "Não se mostra cabível a impetração do writ contra decisão monocrática que indefere liminarmente o mandamus de origem, em razão de ser necessária a interposição de recurso para submissão do respectivo decisum ao colegiado competente, de modo a exaurir a instância antecedente, nos temos do art. 105, II, a, da Constituição Federal" (AgRg no HC 509.051/RJ, Rel. Ministro NEFI CORDEIRO,SEXTA TURMA, julgado em 06/06/2019, DJe 13/06/2019).
+2. Agravo regimental desprovido."
+(AgRg no HC 551.871/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/02/2020, DJe 02/03/2020).
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS.DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO.INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração.
+Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese.
+O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espécie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido."
+(AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019)
+Relativamente ao pedido de extensão dos efeitos da decisão que relaxou a prisão dos corréus, ainda não merece prosperar o recurso.
+Preconiza o art.580do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".Registre-se, ainda, que "a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende." (AgRg no HC 474.343/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/04/2019, DJe 22/04/2019.
+In casu, consoante se verifica dos autos,o pedido de extensão formulado perante o magistrado singular foi indeferido (e-STJ, fls. 421-423), não constando nos autos a cópia de eventual acórdão proferido no citado HC n.º0751802-86.2021.8.18.0000.
+Atente-se que" c onstitui ônus do impetrante a correta instrução do habeas corpus, mediante prova pré-constituída, cabendo-lhe colacionar, quando da impetração, as peças necessárias ao deslinde da controvérsia, de sorte a demonstrar o alegado constrangimento ilegal. Precedentes do STF e do STJ" (AgRg no HC 278.141/SP, Relatora Ministra ASSUSETE MAGALHÃES, Sexta Turma, julgado em 22/10/2013, DJe 25/11/2013).
+Ante o exposto, não conheço do recurso.
+Publique-se. Intime-se.
