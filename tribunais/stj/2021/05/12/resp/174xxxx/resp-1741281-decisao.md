@@ -1,0 +1,43 @@
+DECISÃO
+PROCESSO  CIVIL  E  TRIBUTÁRIO.  EXECUÇÕES  FISCAIS  REUNIDAS  POR  CONEXÃO.  JULGAMENTO  SIMULTÂNEO.  APELAÇÃO  INTERPOSTA  NOS  AUTOS  PRINCIPAIS.  RAZÕES  ESTENDIDAS  AOS  PROCESSOS  EM  APENSO.  POSSIBILIDADE.  RECURSO  ESPECIAL  PROVIDO.
+1.  Trata-se  de  recurso  especial  interposto  pela  TRANSPORTES  RODOVIÁRIOS  STELLA  LTDA,  com  fundamento  no  art.  105,  inciso  III,  alíneas  a  e  c,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRF  da  4a,  Região,  assim  ementado:
+TRIBUTÁRIO.  EXECUÇÃO  FISCAL.  REMESSA  NECESSÁRIA.  PRESCRIÇÃO  INTERCORRENTE.  EXTINÇÃO.
+1.  A  sentença  está  sujeita  à  remessa  necessária,  porquanto  o  valor  da  dívida  ativa  executada  excede  o  limite  de  1.000  (mil)  salários-mínimos.
+2.  Nos  termos  do  artigo  40,  §  4º,  da  Lei  nº  6.830/80,  a  prescrição  intercorrente  ocorre  quando  -  proposta  a  execução  fiscal  e  decorrido  o  prazo  de  suspensão  -  o  feito  permanecer  paralisado  por  mais  de  cinco  anos  por  culpa  da  exequente,  podendo,  ainda,  ser  decretada  de  ofício  pelo  juiz,  desde  que  previamente  ouvida  a  Fazenda  Pública.
+3.  Hipótese  em  que  caracterizada  a  prescrição  intercorrente,  tendo  em  vista  que  por  mais  de  05  anos  não  houve  nenhuma  diligência  útil  no  sentido  de  localizar  bens  capazes  de  satisfazer  a  dívida  (fls.  117).
+2.  Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  134/140).
+3.  Nas  razões  do  seu  recurso  especial  (fls.  156/168),  a  parte  recorrente  aponta,  além  de  negativa  de  prestação  jurisdicional,  violação  dos  arts.  55,  85  e  1.009,  todos  do  CPC/2015,  bem  como  aos  arts.  28  da  LEF  e  809  do  Decreto-Lei  1.608/1939.  Sustenta,  no  que  importa,  que  no  caso  de  execuções  fiscais  reunidas  por  conexão  é  cabível  a  interposição  de  uma  única  apelação,  sendo  desnecessário  apresentar  recurso  em  cada  feito,  de  sorte  que  o  Tribunal  de  origem  deveria  ter  se  manifestado  sobre  o  pedido  de  arbitramento  de  honorários  advocatícios.
+4.  Devidamente  intimada  (fls.  226) , a  parte  recorrida  apresentou  as  contrarrazões  (fls.  229/230).  O  recurso  especial  foi  admitido  na  origem  (fls.  233/234).
+5.  É  o  relatório.
+6.  Assiste  razão  à  recorrente.
+7.  Na  espécie,  o  TRF  da  4a.  Região  rejeitou  os  Embargos  de  Declaração  da  parte  ora  recorrente,  sob  os  seguintes  fundamentos:
+Recurso  de  apelação
+Os  presentes  embargos  de  declaração  se  referem  ao  julgamento  da  remessa  necessária  da  sentença  proferida  nos  autos  da  Execução  Fiscal  nº  5000752-  40.2017.4.04.7016.  Não  foi  interposto  recurso  de  apelação.
+Transcreve-se  trecho  do  voto  do  relator,  em  que  a  questão  suscitada  foi  devidamente  analisada:
+Ausência  de  recurso  de  apelação
+As  partes  não  interpuseram  recurso  contra  a  sentença.
+Os  presentes  autos  (Execução  Fiscal  nº  5000752-40.2017.4.04.7016;  processo  físico:  2006.70.16.002540-4)  tramitam  em  apenso  aos  autos  da  Execução  Fiscal  nº  50007515520174047016.  Ressalta-se,  contudo,  que  as  razões  de  apelação  apresentadas  pela  parte  executada  nos  autos  principais  não  podem  ser  estendidas  aos  processos  em  apenso  e  às  suas  respectivas  sentenças.  Ademais,  verifica-se  que  a  parte  executada,  em  alguns  dos  processos  apensados  à  Execução  Fiscal  nº  50007515520174047016,  interpôs  recurso  de  apelação,  deixando,  a  seu  critério,  de  adotar  tal  medida  em  outros.
+8.  Com  efeito,  o  entendimento  acima  diverge  da  orientação  deste  Tribunal  Superior  segundo  a  qual  nos  casos  de  conexão  de  ações,  com  julgamento  simultâneo,  proferida  sentença  única,  pode  a  parte  interpor  apenas  um  recurso  abrangendo  todas  as  ações,  pois,  o  que  se  ataca  é  a  decisão  que  é  una  (REsp  230.732/MT,  Rel.  Ministro  CASTRO  FILHO,  Terceira  Turma,  DJ  1.8.2005).
+9.  Em  igual  sentido:
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA.  CONTRATO  DE  REPRESENTAÇÃO  COMERCIAL.  AJUIZAMENTO  DE  OUTRA  AÇÃO  DE  COBRANÇA  ENVOLVENDO  O  MESMO  CONTRATO.  JULGAMENTO  SIMULTÂNEO.  RECONHECIMENTO  DE  LITISPENDÊNCIA.  INTERPOSIÇÃO  DE  UM  ÚNICO  RECURSO  DE  APELAÇÃO.  POSSIBILIDADE.
+1.  Ação  de  cobrança  por  meio  da  qual  se  objetiva  a  condenação  ao  pagamento  de  comissões  devidas  em  virtude  de  contrato  de  representação  comercial  firmado  entre  as  partes.
+2.  Ação  ajuizada  em  09/08/2005.  Recurso  especial  concluso  ao  gabinete  em  27/06/2019.  Julgamento:  CPC/2015.
+3.  O  propósito  recursal  é  definir  se  há  necessidade  de  interposição  de  dois  recursos  de  apelação  contra  a  sentença  que  julgou  conjuntamente  as  duas  ações  de  cobrança  ajuizadas  pela  recorrente,  ainda  que  tenha  reconhecido  a  litispendência  com  relação  a  uma  delas  e,  consequentemente,  julgado  extinto  o  referido  feito.
+4.  Nas  hipóteses  de  conexão  de  ações,  com  julgamento  simultâneo,  proferida  sentença  única,  pode  a  parte  interpor  apenas  um  recurso  abrangendo  todas  as  ações,  pois  o  que  se  ataca  é  a  decisão  que  é  una.  Precedentes.
+5.  Ainda  que  o  instituto  da  litispendência  não  esteja  elencado  no  art.  105  do  CPC/73,  que  orienta  a  reunião  de  processos  nas  hipóteses  de  conexão  e  continência,  o  seu  proceder  também  se  justifica  pelos  mesmos  motivos,  quais  sejam,  a  harmonização  dos  julgados  e  a  economia  processual.
+6.  O  julgamento  simultâneo  dos  feitos,  acaso  realizado,  e  ainda  que  tenha  havido  a  extinção  de  um  deles  em  razão  da  litispendência,  também  admitirá  a  interposição  de  um  único  recurso  -  como  o  fez  a  parte  recorrente  na  específica  hipótese  versada  nos  presentes  autos.
+7.  Recurso  especial  conhecido  e  provido.
+(REsp  1.821.634/PB,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  02/02/2021,  DJe  05/02/2021)
+PROCESSUAL  CIVIL.  CONEXÃO.  JULGAMENTO  SIMULTÂNEO.  INTERPOSIÇÃO  DE  ACLARATÓRIO  CONTRA  CAPÍTULO  DA  SENTENÇA  PELO  ESTADO  RECORRENTE.  INTERPOSIÇÃO  DE  APELAÇÃO  PELO  RECORRIDO  CONTRA  CAPÍTULO  REFERENTE  À  CAUSA  DIVERSA.  RATIFICAÇÃO  DA  APELAÇÃO.  DESNECESSIDADE.  CAUSAS  QUE  SEGUEM  REGIME  PROCESSUAL  PRÓPRIO.
+1.  Não  há  violação  ao  princípio  da  unicidade,  singularidade  ou  unirrecorribilidade  recursal  -  que  diz  respeito  à  interposição  de  mais  de  um  recurso  para  uma  única  decisão,  quando  interposto  um  único  recurso  contra  decisão  que  decidiu  dos  feitos  distintos.
+2.  Nos  casos  de  conexão  de  ações,  com  julgamento  simultâneo,  se  proferida  sentença  única,  pode  a  parte  interpor  apenas  um  recurso  abrangendo  todas  as  ações:  o  que  se  ataca  é  a  decisão  que  é  una.  Precedentes.
+3.  Embora,  em  muito  desses  casos,  a  realidade  processual  favoreça  a  interposição  de  um  só  recurso  -  mormente  para  se  afastar  a  possibilidade  de  indesejáveis  contradições  inconciliáveis,  as  causas  seguem  o  regime  processual  próprio.  Precedentes.
+4.  Na  espécie,  a  interposição  de  um  recurso  contra  o  que  foi  decidido  em  relação  a  uma  das  causas  não  influi  no  regime  processual  do  recurso  interposto  contra  o  que  foi  decidido  em  relação  a  outra  causa  decidida  conjuntamente.
+5.  Agravo  regimental  não  provido.
+(AgRg  no  REsp  1.454.018/AL,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  04/08/2015,  DJe  12/08/2015)
+  Processual  Civil  .  Execuções  Fiscais  Reunidas.  Único  Agravo  Instrumental.  Decisões  de  Único  Teor.  Reunião  de  Feitos.  Possibilidade  de  Recurso  Unitário.  CPC,  Artigo  105.  Lei  6.830/80  (art.  28).
+1.  Invocados  os  princípios  gerais  que  regem  a  conexão  das  causas,  descortinadas  relações  processuais  e  questões  surgidas  propiciando  decisão  interlocutória  de  único  teor,  distribuída  em  cada  uma  das  execuções,  a  realidade  processual  favorece  a  interposição  de  um  só  agravo  (recurso  unitário).
+2.  Recurso  provido.
+(REsp  278.533/SE,  Rel.  Ministro  MILTON  LUIZ  PEREIRA,  PRIMEIRA  TURMA,  julgado  em  06/08/2002,  DJ  30/09/2002,  p.  167).
+10.  Pelas  considerações  expostas,  dá-se  provimento  ao  Recurso  Especial  para  determinar  o  retorno  dos  autos  ao  Tribunal  de  origem  para  que,  em  novo  julgamento,  examine  a  questão  referente  ao  cabimento  dos  honorários  advocatícios.
+11.  Publique-se.  Intimações  necessárias.
