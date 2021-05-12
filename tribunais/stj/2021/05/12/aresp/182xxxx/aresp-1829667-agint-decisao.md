@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno manejado por Centrais Elétricas de Rondônia S.A Ceron contra decisão da Presidência do STJ que não conheceu do recurso em razão de sua intempestividade.
+Em suas razões, a parte agravante sustenta, em síntese, que, "nos termos do ATO CONJUNTO N. 014/2020 - PR/CGJ do Tribunal de Justiça de Rondônia (DOC 2), instituído em razão do Decreto Estadual nº 25.113/2020 (DOC 3), os prazos dos processos físicos e eletrônicos que tramitam na Comarca de Porto Velho e no Tribunal de Justiça ficaram suspensos entre os dias 08/06/2020 a 14/06/2020, e em consonância com a Portaria n. 438/2020-PR do TJ/RO, que instituiu o dia 12/06/2020 como ponto facultativo no Judiciário da capital e confirmou a suspensão dos prazos entre os dias 08/06/2020 a 14/06/2020 (DOC 4)." (fl.606).
+Acrescenta que "não há dúvidas quanto à tempestividade do Agravo interposto, na medida em que esta foi certificada por funcionário do Tribunal a quo, às fls. 496 destes autos, certidão esta que tem fé pública, nos termos do artigo 405 do CPC, verbis: Artigo 405. O documento público faz prova não só da sua formação, mas também dos fatos que o escrivão, o chefe de secretaria, o tabelião ou o servidor declarar que ocorreram em sua presença" (fl. 608).
+Por fim, aduz que "a comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, inclusive em sede de agravo regimental" (fl. 610).
+Impugnação às fls. 649/659.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o presente agravo interno não merece ser conhecido.
+Com efeito, a insurgência (Petição nº 00342352/2021 - fls. 599/635) foi protocolizada após a interposição do agravo interno de fls. 552/598 (Petição nº 00342314/2021), de modo que ocorreu a preclusão consumativa com a apresentação do primeiro recurso.
+Note-se que "é assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade" (AgInt no MS 24.022/DF, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 8/8/2018, DJe 20/8/2018).
+Assim, diante do princípio da unirrecorribilidade das decisões, fica obstado o conhecimento dessa insurgência, aviada contra o decisum de fls. 548/549.
+ANTE O EXPOSTO, não conheço da petição de fls. 599/635 (Petição nº 00342352/2021).
+Publique-se.
