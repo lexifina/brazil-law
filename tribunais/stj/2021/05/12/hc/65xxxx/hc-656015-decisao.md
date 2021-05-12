@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar,impetrado em nome deVinicius Araújo de Moraes, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2039991-17.2021.8.26.0000).
+Colhe-se dos autos que opaciente teve a prisão em flagrante convertida em preventiva, em razão da suposta prática dos delitos previstos nos arts. 33 e 35da Lei n. 11.343/2006(fls. 115/120).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem em 24/3/2021 (fls. 17/23).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressaltam-se as condições pessoais favoráveis do paciente.
+Invoca-se o princípio constitucional da presunção de inocência.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar em 5/4/2021e solicitadas as informações, essas foram prestadas às fls. 250/253.
+O Ministério Público Federal, em seu parecer, opinoupeladenegação da ordem(fls. 255/257).
+Éo relatório.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Quanto aos fundamentos da custódia cautelar, o Juízo de origem, ao decretar a preventiva, assim fundamentou a sua decisão no que interessa (fls. 117/119- grifo nosso):
+ ..
+Consta dos autos que policiais civis, em investigação de campo sobre tráfico de drogas, verificaram que o imóvel localizado na Rua Violeta dos Alpes, nº 197 era usado para a prática ilícita, fizeram campana velada e observaram um indivíduo chegar a bordo de um veículo GM/Prisma placas FLN-7394, parar e abrir o portão da garagem residência e dois indivíduos se aproximarem para liberar a entrada. Após cerca de 30 minutos, visualizaram o portão novamente se abrindo, duas pessoas saírem do local para averiguar a movimentação na via e autorizarem a saída do veículo. Procederam à abordagem e o condutor Ronaldo assumiu que transportava maconha em compartimento oculto no porta-malas, onde foram encontrados 05 tijolos da substância, e alegou desconhecer o destino da droga. Indagados, os autuados Luciano e Vinicius franquearam a entrada no imóvel, assumiram a existência de embalagens e grande quantidade de entorpecentes, confirmando que o local era usado para recebimento, fracionamento e distribuição das drogas. Em vistoria, encontraram 50 mil microtubos vazios, 67 tijolos de maconha e 4320 ml de lança-perfume. Ainda, Luciano afirmou que mora no imóvel, que Vinicius é seu funcionário e que Ronaldo efetuava transporte das substâncias.
+Trata-se, na hipótese, da apreensão de elevada quantidade de drogas extremamente lesivas, o que, aliada às circunstâncias da prisão em flagrante, após a equipe policial notar atitude suspeita, além da forma de acondicionamento da droga e da confissão informal, evidencia o comércio espúrio.
+ ..
+Em que pese a primariedade, o autuado Vinicius estava no interior do imóvel usado para armazenamento de grande quantidade de entorpecentes destinados à distribuição, Ronaldo admitiu que transportava drogas no veículo e todos confessaram informalmente a prática ilícita, o que evidencia o envolvimento com a traficância.
+ ..
+NÃO há, ainda, indicação precisa de endereço residencial fixoque garanta a vinculação ao distrito da culpa, denotando que a cautela é necessária para aconveniência da instrução criminal e de eventual aplicação da lei penal, nem de atividade laboralremunerada, de modo que as atividades ilícitas porventura sejam fonte ao menos alternativa derenda (modelo de vida), pelo que a recolocação em liberdade neste momento (de maneiraprecoce) geraria presumível retorno às vias delitivas, meio de sustento.
+ ..
+O Tribunal estadual, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao paciente (fls. 17/23).
+Não foi outra a opinião daSubprocuradora-Geral da República Julieta E. Fajardo Cavalcante Albuquerque em seu parecer (fls. 255/257).
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordináriasfizeram referências às circunstâncias fáticas justificadoras, destacando, principalmente, a quantidade dos entorpecentes apreendidos (mais de 39kg de maconha e 4.320 ml de lança-perfume), bem como a forma de acondicionamento e apetrechos utilizados no tráfico de drogas.Tudo a revelar a periculosidadein concretodoagente e justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Nesse sentido:legal é a prisão preventiva decretada com base em elementos concretos do caso, consistente na maior gravidade da conduta criminosa em razão da expressiva quantidade de entorpecente apreendido - 10 kg de maconha. Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública(AgRg no HC n. 568.055/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/6/2020).
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. QUANTIDADE DE DROGAS. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
