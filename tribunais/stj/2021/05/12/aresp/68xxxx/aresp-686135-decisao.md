@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO - SFH - SACRE - PEDIDO DE REVISÃO CONTRATUAL.
+- É correta a decisão que julga improcedente o pedido de revisão do contrato de financiamento imobiliário celebrado no âmbito do SFH, quando o pleito está fundado em teses já rejeitadas pelos Tribunais. As questões levantadas contra os critérios da CEF (aplicação do CDC, SACRE, TR, juros, amortização, seguro habitacional, inconstitucionalidade Decreto-Lei nº 70/66) são improcedentes, conforme vários precedentes sobre a matéria.
+- Sentença mantida. Recurso desprovido.
+Nas razões de recurso especial, a parte ora agravante alega violação dos artigos 4º do Decreto 22.626/1933; 2º; 3º; 6º, III, V e VIII, e 51, IV e § 1º, da Lei nº 8.078/1990; 9º, § 2º, do Decreto-Lei nº 2.164/1984; 18 da Lei nº 8.177/1991; 1º, 5º e 15-B da Lei nº 4.380/1964; 1º, § 1º, do Decreto-Lei nº 19/1966; 11 da Lei nº 8.692/1993; e 535 do Código de Processo Civil de 1973.
+Não merece reforma a decisão agravada.
+De início, verifico que o ora agravante limitou-se a citar genericamente violação a artigos de lei, sem demonstrar em que extensão e como se deu a violação, o que impede a compreensão da controvérsia, por deficiência na fundamentação. Incidência da Súmula 284/STF.
+Ainda que pudesse ser superado tal óbice, melhor sorte não lhe socorreria.
+Com efeito, assinalo que o Tribunal de origem se manifestou de forma suficiente e motivada sobre os temas postos em julgamento, não havendo que se falar, portanto, em ofensa ao artigo 535 do Código de Processo Civil de 1973
+Depois, anoto que apenas com o reexame do conjunto fático-probatório dos autos, o que é vedado pelas Súmulas 5 e 7/STJ, seria possível infirmar a conclusão do Tribunal de origem, nos pontos em que consignou que: i) "O contrato celebrado entre as partes prevê que as prestações mensais seriam calculadas com base no Sistema de Amortização Crescente (SACRE), tendo expressamente afastado a possibilidade de utilização do Plano de Equivalência Salarial" (fl. 420/e-STJ); ii) "a despeito dos argumentos formulados quanto à incidência de dispositivos do Código de Defesa do Consumidor à espécie, a verdade é que a cláusula contratual questionada não se mostra abusiva, e, portanto, a qualquer luz, não merece reparos" (fl. 420/e-STJ); e iii) "descabe conhecer das alegações acerca da ilegalidade da adoção da Tabela Price e da prática de anatocismo, porquanto não suscitadas na exordial, constituindo, deste modo, inovação em grau recursal" (fls. 423-424/e-STJ).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
