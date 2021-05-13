@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado:
+HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO QUALIFICADA.1) REVOGAÇÃO DA CUSTÓDIA CAUTELAR. REITERAÇÃO. NÃO CONHECIMENTO. 1. Pleito tendente à revogação da prisão preventiva. Reiteração das alegações expendidas na impetração de nº 2000086-39.2020.8.26.0000 (ordem denegada, V.U., julg. em 20.02.2020), nº 2057778-93.2020.8.26.0000 (ordem denegada, V. U., julg.em14.05.2020), 2139677-16.2020.8.26.0000 (ordem denegada, na extensão em que conhecida, V. U., julg. em 03.09.2020) e 2180720-30.2020.8.26.0000 (ordem denegada, na extensão em que conhecida, V. U., julg. em 12.11.2020). Segregação cautelar então reputada imprescindível e que preenchia os requisitos legais. Inexistência de novos fatos ou argumentos deduzidos pelo impetrante, aptos a justificara reanálise do caso. Decisões subsequentes devidamente fundamentadas a respeito da necessidade de manutenção da custódia cautelar, ausente, ainda, alteração fática relevante. Não conhecimento.
+2) FATO NOVO. V. DECISÃO PROFERIDA NO HC Nº 621.551/SP STJ, COM ANULAÇÃO DA AÇÃO PENAL A PARTIR DA DECISÃO DENEGATÓRIA DA ABSOLVIÇÃO SUMÁRIA. EXCESSO DE PRAZO. NÃO RECONHECIMENTO.
+2. Autoridade apontada como coatora que cumpriu com presteza a determinação em questão.Inexistência de prejuízo à instauração do incidente de dependência toxicológica, que já fora determinada em 22.10.2020. Designação de nova audiência, para repetição dos atos instrutórios, que ocorreu na mesma ocasião da apreciação da resposta à Acusação.
+3. Ato designado para futuro que se pode reputar adequado, tendo-se em conta o cenário de excepcionalidade atualmente verificado. Intervalo de tempo compatível com aquele verificado quando da designação da primeira audiência. Ato que depende não apenas da disponibilidade de pauta do Juízo, mas também do estabelecimento prisional em que o réu se encontra recluso, além da expedição das intimações e demais comunicações.
+4. Ausência de desídia ou descaso, de forma injustificada, do Juízo, que, aliás, apreciou os pedidos incidentais com presteza.
+5. Impetração conhecida parcialmente e, na parte conhecida, denegada a ordem.
+O recorrente foi preso em flagrante em 24/12/2019, convertido em preventiva,sendo denunciado pela prática do delito tipificado no art. 157, § 2º, V, do Código Penal.
+Argumenta, em suma, excesso de prazo para o encerramento da instrução criminal, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente recurso é mera reiteração do habeas corpus 647.263/SP, autuado em 24/2/2021.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
