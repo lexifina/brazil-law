@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.1.VÍCIOS DO ART. 1.022 DO CPC/2015 NÃO CONSTATADOS.2.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração somente são cabíveis quando houver, na decisão judicial, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022 do CPC/2015, situações não verificadas na hipótese.
+2.Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Juliana Gracindo Muniz da Silva ao acórdão da Terceira Turma proferido nos termos da seguinte ementa (e-STJ, fl. 570):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1.HABILITAÇÃO DE CRÉDITO TRABALHISTA EXTRACONCURSAL. IMPOSSIBILIDADE. PRECEDENTES. 2. AGRAVO INTERNO IMPROVIDO.
+1. Tratando-se de crédito trabalhista constituído depois de ter o devedor ingressado com o pedido de recuperação judicial, está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+2. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 578-588), a embargante aponta contradição no acórdão embargado, sob a alegação de ser possível a inclusão do crédito trabalhista preexistente ao pedido de recuperação judicial. Cita julgados do Superior Tribunal de Justiça no mesmo sentido.
+Pleiteia o acolhimento dos embargos de declaração com efeito modificativo.
+Impugnação às fls. 591-613 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL.1.VÍCIOS DO ART. 1.022 DO CPC/2015 NÃO CONSTATADOS.2.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração somente são cabíveis quando houver, na decisão judicial, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022 do CPC/2015, situações não verificadas na hipótese.
+2.Embargos de declaração rejeitados.
+VOTO
+Asrazões do recurso revelam tão somente o intuito de reapreciação da causa, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015. A excepcional atribuição de efeito modificativo ao julgado, por meio do acolhimento dos embargos de declaração, depende da configuração de alguma das hipóteses previstas no referido dispositivo legal.
+O acórdão embargado manteve a decisão monocrática de fls. 570-574 (e-STJ), proferida por esta relatoria,que negou a inclusão do crédito trabalhista na recuperação judicial.
+Na origem, consta dos autos que o Tribunal de Justiça negou provimento ao agravo de instrumento interposto por Construlev Indústria e Comércio de Plásticos Ltda. - em recuperação judicial - e outras para manter a decisão agravada que indeferiu a habilitação do crédito trabalhista.
+Segundo o atual entendimento da Terceira Turma desta Corte, para o fim de sujeição aos efeitos da recuperação judicial nos termos do art. 49, caput, da Lei n. 11.101/2005, a constituição de um crédito (ainda que inexigível e ilíquido) pressupõe a existência de vínculo jurídico entre as partes, não dependendo de provimento judicial que o declare - e muito menos do transcurso de seu trânsito em julgado.
+A propósito, confira-se a ementa do precedente desta relatoria, que firmou a referida tese, ao tratar da subordinação à recuperação judicial de crédito trabalhista oriundo de trabalho desempenhado anteriormente ao pedido de recuperação:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. DISCUSSÃO QUANTO AO MOMENTO DA CONSTITUIÇÃO DO CRÉDITO TRABALHISTA. RECLAMAÇÃO TRABALHISTA QUE PERSEGUE CRÉDITO ORIUNDO DE TRABALHO REALIZADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. SUBMISSÃO AOS SEUS EFEITOS, INDEPENDENTE DE SENTENÇA POSTERIOR QUE SIMPLESMENTE O DECLARE. RECURSO ESPECIAL PROVIDO.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos (art. 49, caput, da Lei n. 11.1.01/2005).
+1.1 A noção de crédito envolve basicamente a troca de uma prestação atual por uma prestação futura. A partir de um vínculo jurídico existente entre as partes, um dos sujeitos, baseado na confiança depositada no outro (sob o aspecto subjetivo, decorrente dos predicados morais deste e/ou sob o enfoque objetivo, decorrente de sua capacidade econômico-financeira de adimplir com sua obrigação), cumpre com a sua prestação (a atual), com o que passa a assumir a condição de credor, conferindo a outra parte (o devedor) um prazo para a efetivação da contraprestação. Nesses termos, o crédito se encontra constituído, independente do transcurso de prazo que o devedor tem para cumprir com a sua contraprestação, ou seja, ainda, que inexigível.
+2. A consolidação do crédito (ainda que inexigível e ilíquido) não depende de provimento judicial que o declare _ e muito menos do transcurso de seu trânsito em julgado, para efeito de sua sujeição aos efeitos da recuperação judicial.
+2.1 O crédito trabalhista anterior ao pedido de recuperação judicial pode ser incluído, de forma extrajudicial, inclusive, consoante o disposto no art. 7º, da Lei 11.101/05. É possível, assim, ao próprio administrador judicial, quando da confecção do plano, relacionar os créditos trabalhistas pendentes, a despeito de o trabalhador sequer ter promovido a respectiva reclamação. E, com esteio no art. 6º, §§ 1º, 2º e 3º, da Lei n. 11.101/2005, a ação trabalhista _ que verse, naturalmente, sobre crédito anterior ao pedido da recuperação judicial deve prosseguir até a sua apuração, em vindoura sentença e liquidação, a permitir, posteriormente, a inclusão no quadro de credores. Antes disso, é possível ao magistrado da Justiça laboral providenciar a reserva da importância que estimar devida, tudo a demonstrar que não é a sentença que constitui o aludido crédito, a qual tem a função de simplesmente declará-lo.
+3. O tratamento privilegiado ofertado pela lei de regência aos créditos posteriores ao pedido de recuperação judicial tem por propósito, a um só tempo, viabilizar a continuidade do desenvolvimento da atividade empresarial da empresa em recuperação, o que pressupõe, naturalmente, a realização de novos negócios jurídicos (que não seriam perfectibilizados, caso tivessem que ser submetidos ao concurso de credores), bem como beneficiar os credores que contribuem ativamente para o soerguimento da empresa em crise, prestando-lhes serviços (mesmo após o pedido de recuperação). Logo, o crédito trabalhista, oriundo de prestação de serviço efetivada em momento anterior ao pedido de recuperação judicial, aos seus efeitos se submete, inarredavelmente.
+4. Recurso especial provido.
+(REsp n. 1.634.046/RS, Relatora Ministra Nancy Andrighi, Relator p/ Acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2017, DJe 18/5/2017 - sem grifo no original).
+Na mesma linha de cognição:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO TRABALHISTA. CONSTITUIÇÃO. ATIVIDADE LABORAL PRESTADA ANTES DO PEDIDO RECUPERACIONAL. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA. INSCRIÇÃO NO QUADRO GERAL DE CREDORES.
+1. Habilitação de crédito apresentada em 27/1/2015. Recurso especial interposto em 18/5/2016 e concluso ao Gabinete em 22/2/2018.
+2. O propósito recursal é definir se o crédito reconhecido por sentença trabalhista proferida após o pedido de recuperação judicial do devedor deve sujeitar-se ao plano de soerguimento.
+3. Prevalece na Terceira Turma o entendimento de que, para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito trabalhista não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Ressalva da posição da Relatora.
+4. Na hipótese, tratando-se de crédito derivado de atividade laboral prestada em momento anterior àquele em que requerida a recuperação judicial, deve proceder-se à sua inscrição no quadro geral de credores. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.721.993/RS, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 14/5/2019, DJe 16/5/2019 - sem grifo no original)
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEVEDOR EM RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CONSTITUIÇÃO DO CRÉDITO. EVENTO DANOSO OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS SEUS EFEITOS. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA.
+1. Ação ajuizada em 20/5/2013. Recurso especial interposto em 27/9/2017 e concluso ao Gabinete em 8/3/2018.
+2. O propósito recursal é definir se o crédito de titularidade das recorridas, decorrente de sentença condenatória transitada em julgado após o pedido de recuperação judicial do devedor, deve sujeitar-se ao plano de soerguimento.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente.
+5. Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora.
+6. Recurso especial provido.
+(REsp n. 1.727.771/RS, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2018, DJe 18/5/2018 - sem grifo no original).
+No caso dos autos, a questão acerca da definição se o crédito objeto de acordo homologado na Justiça trabalhista sujeita-se ao Juízo universal da recuperação judicial foi dirimida nos seguintes termos(e-STJ, fls. 450-451, sem grifo no original):
+I) Anota-se que o pedido de recuperação judicial foi formulado pelas ora agravantes em 22/01/2014 e o plano foi homologado em 07/07/2015 (fls. 2.029/2.031dos originais).
+A presente habilitação refere-se a crédito decorrente de acordo firmado em reclamação trabalhista ajuizada após o pedido de recuperação (fls. 08/09 dos originais, fls. 27/28 do agravo).
+O vínculo empregatício com a agravada perdurou entre 02/06/2008 (fls. 25 do agravo) a 10/01/2017 (fls. 31 do agravo).
+II) Em que pese o inconformismo das recuperandas contra a r. decisão que indeferiu o pedido de habilitação do crédito, o presente agravo não comporta provimento.
+Isso porque, nos termos do art. 49,caput, da Lei nº 11.101/05,"estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que não é o caso do crédito da agravada Juliana Gracindo Muniz da Silva.
+Embora a relação trabalhista com as recuperandas tenha iniciado antes do pedido de recuperação, anota-se que o acordo em questão diz respeito a verbas trabalhistas decorrentes da rescisão do contrato de trabalho e outras verbas devidas a partir de 2015 (conforme se observa às fls. 30/37 do agravo), de modo que os fatos geradores do crédito perseguido são posteriores ao pedido de recuperação.
+Logo, esses valores possuem natureza extraconcursal, devendo ser perseguidos pelas vias próprias, conforme previsto especificamente na cláusula 8.5 do próprio plano de recuperação (fls. 1.248/1.338 e 1.661/1.672 dos originais) aprovado pelos credores a ele submetidos:
+"8.5. CREDORES NÃO SUJEITOS. Este Plano não contempla proposta específica para os Créditos não sujeitos aos efeitos da recuperação judicial, por força do artigo 49 da LRF. Os mesmos serão negociados individualmente de acordo com a particularidade de cada crédito, porém no fluxo de caixa projetado, conforme anexo I, já estão provisionadas verbas para os pagamentos destes créditos." (fls. 1.271 dos originais).
+Anota-se, também, que tal cláusula 8.5 não foi alterada no aditivo ao plano de recuperação juntado às fls. 1.661/1.672 dos originais.
+Do que se extrai desse excerto, o Tribunal de Justiça deSão Paulo deixa expresso que o crédito trabalhista, cuja habilitação é pretendida, diz respeito a fatos da relação de trabalho ocorridos em 2015, 2016 e 2017, ou seja, depois de requerida a recuperação judicial.
+Como visto, não há omissão ou contradição na decisão ora hostilizada. Há, na verdade, inconformismo da parte embargantecom a conclusão a que chegou esta Terceira Turma no sentido do desprovimento do agravo interno.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
