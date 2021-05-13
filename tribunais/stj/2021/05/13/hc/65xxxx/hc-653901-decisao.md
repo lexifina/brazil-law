@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo impetrado em benefício de GUILHERME RODRIGO BUSKE,contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo em Execução Penal n. 5088177-44.2020.8.21.7000/RS).
+Infere-se dos autos que o paciente cumpria pena no regime semiaberto quando sobreveio nova condenação em medidas restritivas de direitos. OJuízo das Execuções Criminais, diante da impossibilidade de cumprimento simultâneo,unificou as reprimendas impostas, convertendo a última sanção emprivativa de liberdade.
+Irresignada, a defesa interpôs agravo no Tribunal de origem, que negou provimento ao recurso, asseverando que no dia"08.01.2021, o apenado teve o regime carcerário regredido para o fechado, em virtude do reconhecimento da prática de faltas graves, o que reforça o acerto da decisão monocrática, porque o regime fechado é, indiscutivelmente, ainda mais flagrantemente incompatível com a restritiva da prestação de serviços à comunidade"(fl. 19).
+Ojulgamento ficou assim resumido:
+"AGRAVO EM EXECUÇÃO PENAL. RESTRITIVA DE DIREITOS. PRESO DO REGIME SEMIABERTO. INCOMPATIBILIDADE. CONVERSÃO.POSSIBILIDADE. Somente é possível a manutenção das penas restritivas de direitos, a serem cumpridas concomitantemente com pena privativa de liberdade, quando for compatível o cumprimento simultâneo, o que não acontece com os condenados do regime semiaberto e fechado. Hipótese na qual o agravante se encontrava cumprindo pena no regime semiaberto, cujas únicas possibilidades de saída do ergástulo são o serviço externo e as saídas temporárias, quando sobreveio condenação à pena restritiva de direitos (prestação de serviços à comunidade e prestação pecuniária). Incompatibilidade evidenciada. Art. 44, § 5º do CP. Inviabilidade de suspensão da PSC para cumprimento posterior, determinando, o art. 111 da LEP, a soma das penas. Decisão de conversão mantida.
+AGRAVO IMPROVIDO." (fl. 12)
+Daí o presente writ, no qual a Defensoria Pública alega que "a soma ou unificação que resulte no regime semiaberto constitui circunstância incapaz de, por si só, determinar a reversão automática e obrigatória das penas substitutivas, porquanto inexiste a aludida incompatibilidade de cumprimento" (fl. 9).
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela denegação da ordem, em parecer que recebeu a seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL.
+PACIENTE QUE CUMPRE PENA EM REGIME SEMIABERTO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO COM IMPOSIÇÃO DE PENAS RESTRITIVAS DE DIREITOS. INCOMPATIBILIDADE DE CUMPRIMENTO SIMULTÂNEO COM A PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE, ADEMAIS, DE SUSPENSÃO DAS RESTRITIVAS DE DIREITOS PARA CUMPRIMENTO FUTURO PELO APENADO. DETERMINAÇÃO DE RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PENA CORPORAL E UNIFICAÇÃO DAS REPRIMENDAS.PRECEDENTES. ART. 111 DA LEI DE EXECUÇÃO PENAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+PARECER PELA DENEGAÇÃO DA ORDEM."(fl. 256)
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porquea jurisprudência desta Corte firmou-se no sentido de que a superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP).Nesse sentido, são os seguintes julgados:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UNIFICAÇÃO DE PENAS. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME ABERTO, CONVERTIDA EM RESTRITIVAS DE DIREITOS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO À PENA PRIVATIVA DE LIBERDADE, EM REGIME SEMIABERTO.IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE.
+1. O entendimento firmado nesta Corte é de que, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas.
+2. No caso, o sentenciado cumpria pena privativa de liberdade em regime aberto, convertidas em restritivas de direitos, quando fora condenado novamente ao cumprimento de pena no regime semiaberto.Assim, verificada a incompatibilidade no simultâneo cumprimento das reprimendas.
+3. Divergência entre o Tribunal de origem e o Juízo da instância primeira quanto a fatos relativos à execução da pena. Reexame de provas, inviável em sede de habeas corpus.
+4 . Agravo regimental não provido.
+(AgRg no HC 617.201/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 16/11/2020).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM TUTELA PROVISÓRIA EM RECURSO ESPECIAL. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO ATIVO AO RECURSO ESPECIAL. INVIABILIDADE. PENAS PRIVATIVAS DE LIBERDADE SUBSTITUÍDAS POR RESTRITIVAS DE DIREITOS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO À PENA PRIVATIVA DE LIBERDADE. RECONVERSÃO. POSSIBILIDADE.PRECEDENTES. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos em que aduzem os arts. 294, 300 e 1.029, § 5º, II, do Código de Processo Civil, a concessão da tutela provisória de urgência, dirigida ao relator do recurso exige a presença da probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+II - Na hipótese, deve ser mantido o decisum reprochado, pois encontra-se em conformidade com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que " ..  na hipótese de unificação prevista no art. 111 da LEP, é permitida a reconversão de pena restritiva de direitos se o Juiz verificar a incompatibilidade do seu cumprimento simultâneo com pena privativa de liberdade posterior" (AgRg no HC n. 424.866/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 12/03/2018). Precedentes.
+Agravo Regimental desprovido.
+(AgRg no TP 3.018/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 20/10/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
