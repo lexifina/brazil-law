@@ -1,0 +1,30 @@
+DECISÃO
+IRISMAR DO NASCIMENTO SOUSAinterpõe recurso especial, com fulcro no art. 105, III, "a", da CF, em face de acórdão proferido peloTribunal de Justiça do Estado do Tocantins na Apelação n. 0025837-69.2019.8.27.0000.
+A defesa sustenta que a exasperação da reprimenda na primeira fase da dosimetrianão está motivada de maneira idôneae busca "reduzir o quantum da pena aplicada, com o afastamento da carga negativa imposta à circunstancia judicial relativa à "circunstancias do crime", com a correção da pena-base para o mínimo legal" (fl. 417).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 454-455).
+Decido.
+Consta nos autos que o réu foi condenado a 1 ano e 3 meses de detenção, em regime aberto, mais 20 dias-multa, pela prática do crime previsto no art. 12 da Lei n. 10.826/2003.
+O Juízo de primeiro grau estabeleceu a pena-base nos seguintes termos (fl. 301, grifei):
+Inicialmente, para fixação da pena-base, levando em consideração as circunstâncias judiciais do art. 59 do Código Penal, deixo de valorar a culpabilidade, já que não representa uma maior reprovabilidade do tipo penal. O réu não registra antecedentes criminais, porém, diante do fato de responder a outro processo em Uruaçu-GO, com mandado de prisão, considero neutra a ele.Não foram coletados dados a respeito da conduta social do réu suficientes, desta forma, considero neutra. Não há elementos para valoração da personalidade do réu, não se encontrando nos autos relatório expedido por profissional da área. O motivo do crime não deve ser valorado. Considero neutra. A circunstância em que ocorreu também merece valoração, tendo em vista que o delito ocorreu em horário diurno, por volta das 12h, em envolvia três armas de fogo. Não houve consequência do crime praticado. Não há vítimas diretas nesse tipo de delito, de forma que considero neutra a circunstância do comportamento da vítima.
+Levo em consideração para o cômputo da pena, a incidência de 02 anos entre a pena mínima e a máxima para o tipo penal; o número de oito circunstâncias judiciais a serem valoradas; e a base para o cômputo a partir da pena mínima. Desse cálculo, para cada circunstância desfavorável, a pena é elevada em 03 meses.
+No caso em concreto, há uma circunstância desfavorável ao réu. Por conseguinte, fixo a seguinte pena-base: em 01 ano e 03 meses de detenção.
+A esse respeito, a Corte estadual consignou (fl. 393, destaquei):
+Da análise da sentença vergastada, verifica-se que foi valorada em desfavor do Apelante a circunstância judicial atinente as circunstâncias do crime.
+Quanto à mencionada circunstância judicial (circunstâncias do crime), entendo corretamente valorada e fundamentada. No seu exame considerou o Magistrado a quo a forma e a natureza da ação delitiva, os tipos e meios utilizados, objeto, tempo, lugar, forma de execução, dentre outros, apontando a gravidade concreta do delito.
+Guilherme de Souza Nucci elucida:  ..  são os elementos acidentais não participantes da estrutura do tipo, embora envolvendo o delito.  ..  um crime pode ser praticado, por exemplo, em local ermo, com premeditação, para dificultar a sua descoberta e a apuração do culpado, constituindo circunstância gravosa.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da CF, e nos arts. 59 do CP e 387 do CPP.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado, para a prevenção e a reprovação do delito.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, deve guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do CP.
+Na hipótese, não constato ilegalidade na elevação da sanção básica em razão das circunstâncias do crime. Em que pese não ser idônea a fundamentação de que o delito ocorreu em horário diurno para exasperar a pena-base, verifico ser plausível o aumentoda reprimenda em relação àquantidadede armas apreendidas  uma espingarda tipo carabina calibre 22,uma espingarda calibre 28 euma carabina de pressão(fl. 298).
+A jurisprudência desta Corte Superior entende que "a quantidade de armas ou de munição apreendida no contexto do crime de porte ou posse ilegal de arma ou munição pode servir como fundamento para a exasperação da pena-base" (AgRg no HC n. 507.006/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 3/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEL COM BASE NA QUANTIDADE DE ARMAS APREENDIDAS. TRÁFICO DE DROGAS. CONFISSÃO ESPONTÂNEA NÃO UTILIZADA PARA FUNDAMENTAR A CONDENAÇÃO.IMPOSSIBILIDADE DE RECONHECIMENTO. PRECEDENTES. INEXISTÊNCIA DE NOVOS ARGUMENTOS CAPAZ DE ALTERAR O ENTENDIMENTO ANTERIORMENTE FIRMADO. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.
+decisão vergastada pelos próprios fundamentos.
+II - In casu, as circunstâncias do crime não se inferem ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes desta natureza, visto que o réu foi apreendido com mais de uma arma de fogo, ou seja, 1 (uma) pistola e 2 (dois) revólveres.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 490.430/PE, Rel. Ministro Felix Fischer, 5ª T., DJe 13/5/2019)
+Desse modo, avetorialdesfavoráveljustificao incremento na pena-base, pois extrapolaa gravidade abstrata do crime em comento.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
