@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da não impugnação dos fundamentos da decisão de inadmissibilidade (deficiência de fundamentação - incidência da Súmula nº 284 do STF).
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+RELATÓRIO
+LEONARDO AUGUSTO DA FONSECA E THIAGO GOUVEIA QUEIROZ (LEONARDO E THIAGO) propuseram ação de obrigação de fazer cumulada com tutela de urgência e pedido de consignação em pagamento contra JOAQUIM HENRIQUE AMORIM, NADIA PEREIRA AMORIM E SILVIA PEREIRA ALVES AMORIM (JOAQUIM e outros).
+O d. Juízo julgou os pedidos parcialmente procedentes para condenar JOAQUIM e outros a firmarem o Instrumento Particular de Alteração e Consolidação de Contrato Social mediante a comprovação do depósito complementar dos valores devidos no total de R$ 81.307,86 (oitenta e um mil, trezentos e sete reais e oitenta e seis centavos), bem como determinar a manutenção dos valores em conta judicial até o adimplemento das obrigações atinentes à empresa, sob a responsabilidade dos réus (e-STJ, fls. 296/317).
+O Tribunal de Justiça de Goiás conheceu parcialmente do apelo de LEONARDO E THIAGO e, na parte conhecida, lhe deu parcial provimento e negou provimento tanto ao recurso de apelação quanto ao recurso adesivo de JOAQUIM e outros nos termos do acórdão assim ementado:
+DUPLA APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE OBRIGAÇÃO DEFAZER C/C CONSIGNATÓRIA. SUCESSÃO EMPRESARIAL. FUNDO DE COMÉRCIO. NOVASDÍVIDAS. ABATIMENTO. INTEMPESTIVIDADE DO SEGUNDO APELO. RECURSO ADESIVO. UNIRRECORRIBILIDADE RECURSAL. NÃO CONHECIMENTO. PAGAMENTO DE CORRETOR. OBRIGAÇÃO NÃO COMPROVADA. ÔNUS DA PROVA. DESCUMPRIMENTO PARCIAL DO NEGÓCIO JURÍDICO. MULTA CONTRATUAL. NÃO INCIDÊNCIA. ADIMPLEMENTO SUBSTANCIAL. HONORÁRIOS DE SUCUMBÊNCIA. ORDEM LEGAL. INOVAÇÃO RECURSAL.
+1) Deixando o recorrente de observar o prazo recursal fixado para o apelo, impõe-se o seu não conhecimento, diante da flagrante intempestividade.
+2) Não merece conhecimento o recurso adesivo interposto após a apresentação intempestiva de recurso de apelação, pelo mesmo recorrente, configurando indevida manobra processual e violação ao princípio da unirrecorribilidade.
+3) Não se desincumbindo o recorrente do ônus de provar os fatos alegados, não merece acolhida a pretensão de modificação do ato sentencial.
+4) Se o negócio jurídico celebrado não se mostrou comprometido substancialmente pelo descumprimento de cláusula contratual, merece preservada a tratativa, ante o adimplemento substancial das obrigações pactuadas.
+5) Quando o proveito econômico não for inestimável ou irrisório ou, ainda, quando o valor da causa não for muito baixo, os honorários sucumbenciais deverão ser fixados com base nos limites de 10% a 20% (dez a vinte por cento), em atendimento à regra inserta no artigo 85, §§ 2º e 3º, inciso I, do Código de Processo Civil, e não mediante apreciação equitativa, vez que ausentes os requisitos constantes do § 8º do dispositivo legal supracitado.
+6) Não se admite trazer aos autosargumentos e razões não discutidas em momento anterior, razão pela qual não merece conhecimento a parte do recurso em que houve inovação recursal.
+PRIMEIRO APELO CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.SEGUNDO APELO E RECURSO ADESIVO NÃO CONHECIDOS (e-STJ, fl. 542).
+Os embargos de declaração opostos por LEONARDO E THIAGO e JOAQUIM e outros foram rejeitados (e-STJ, fls. 625/631 e 861/871).
+Irresignados, JOAQUIM e outros interpuseram recurso especial, com amparo no art. 105, III, alíneas a e c, da CF, alegando, além de dissídio jurisprudencial, a violação dos arts. 3º, 7º, 8º, 85, §§ 2º e 8º, 489, 490, 997, 1.010, 1.014, 1.022 e 1.024 do NCPC (e-STJ, fls. 469/479).
+O apelo nobre não foi admitido pelo TJGO em virtude da (a) ausência de indicação do ponto omisso, contraditório ou obscuro; e (b) incidência das Súmulas nºs 284 do STF e 7 do STJ (e-STJ, fls. 1.056/1.058).
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, devido à ausência de impugnação da incidência da Súmula nº 284 do STF (e-STJ, fls. 1.087/1.089).
+Ainda inconformados, JOAQUIM e outrosmanejaramagravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 284 do STF).
+3. Agravo interno não provido (e-STJ, fl. 1.123 - com destaque no original).
+Nas razões dos presentes embargos de declaração, JOAQUIM e outros alegaram omissão e contradição da decisão colegiada ora embargada, pois "tratou de demonstrar, inclusive com precedentes jurisprudenciais desse excelso Sodalício, a existência de interpretação diverte a dispositivo de lei federal, sendo clara a limitação das teses arguidas no recurso especial" (e-STJ, fl. 1.149).
+Houve impugnação ao recurso (e-STJ, fls. 1.155/1.162).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da não impugnação dos fundamentos da decisão de inadmissibilidade (deficiência de fundamentação - incidência da Súmula nº 284 do STF).
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o agravo em recurso especial não impugnou o fundamento da decisão de inadmissibilidade (deficiência de fundamentação - incidência da Súmula nº 284 do STF).
+Ficou explicitado que,na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 284 do STF, impõe-se à parte particularizar os pontos em que, de fato, teria havido a afronta praticada pelo acórdão hostilizado, apresentando argumentos claros e concatenados, capazes de esclarecer os fundamentos ou motivos pelos quais pretende a reforma do acórdão impugnado, de forma a permitir a compreensão da exata medida da controvérsia, o que não se observa no caso concreto.
+Ressaltou-seque não houve a demonstração do adequado enfrentamento do fundamento da decisão agravada no que tange ao óbice da deficiência de fundamentação - incidência da Súmula nº 284 do STF.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificado o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno JOAQUIM e outros ao pagamento da multa de 2% sobre o valor atualizado da causaem favor de LEONARDO E THIAGO, nos termos do art. 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbenciais, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
