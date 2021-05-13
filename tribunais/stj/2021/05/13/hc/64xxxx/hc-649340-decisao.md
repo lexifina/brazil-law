@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de RAFAEL CEZAR DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo em Execução Penal n. 0009667-24.2020.8.26.0482.
+Extrai-se dos autos que o Juízo da execução indeferiu o pedido de progressão para o regime semiaberto formulado em favor do apenado, em razão do não preenchimento do requisito objetivo (fls. 28/29 ).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"Agravo em Execução Penal da Defesa. Progressão de regime. Requisito objetivo não demonstrado. Prática de falta grave que interrompeu o lapso temporal necessário à progressão de regime. Súmula 534 do STJ. Indeferimento bem justificado no cálculo acostado aos autos. Decisão mantida. Agravo em execução desprovido" (fl. 85).
+No presente writ, a defesa sustenta a existência de constrangimento ilegal decorrente da manutenção da decisão de primeiro grau, argumentando que "lastrar a negativa de um benefício apenas com urna peça de informação administrativa, sem que houvesse nos autos prova da homologação da falta grave, fere os princípios do devido processo legal, do contraditório, da ampla defesa e da dignidade pessoa humana." (fl. 10).
+Requer, em liminar e no mérito, que seja reconhecida a ilegalidade praticada, e determinado o prosseguimento do pedido de progressão ao regime semiaberto formulado em favor do apenado.
+A liminar foi indeferida (fls. 90/91 ) e prestadas as informações (fls. 95/116 e fls. 117/135)
+Em sua manifestação, opinou o Ministério Público Federal pelo não conhecimento do writ, em parecer assim ementado:
+"PENAL e PROCESSUAL PENAL.
+Habeas corpus substitutivo de REsp. Não cabimento. Execução penal. Progressão de regime. Não preenchimento do requisito objetivo. Alegação de não comprovação da homologação da falta grave. Força probante de atestado carcerário. Reexame de provas inviável na via do writ. Tema não enfrentado pela Corte a quo. Supressão de instância.
+Ausência de constrangimento ilegal. Não admissão do writ, descabida a concessão de uma ordem ex officio" (fl. 139).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, a progressão para o regime semiaberto, pedido que foi indeferido pelo Juízo da execução pelo não cumprimento do requisito objetivo.
+No caso dos autos, o Tribunal e o Juízo da execução indeferiram a benesse, sob os seguintes fundamentos:
+Decisão do Juízo singular:
+ ..
+"A pretensão é improcedente.
+O sentenciado não preenche o requisito objetivo, visto que ainda não cumpriu parcela superior a 2/5 (dois quintos) da pena do crime hediondo, além de 1/6 (um sexto) do restante das penas no atual regime, após a última falta grave (fls. 06), conforme cálculo elaborado às fls. 15/16, o que obsta a concessão do benefício.
+Ante o exposto, INDEFIRO o pedido de progressão ao regime semiaberto formulado pelo sentenciado, em razão da ausência do requisito objetivo" (fls. 28/29).
+Acórdão:
+ ..
+O recurso não comporta provimento.
+O requisito objetivo para a progressão de regime não foi demonstrado pelos cálculos acostados aos autos, a contar da prática da última falta grave, ocorrida em 29 de agosto de 2018, que interrompeu o lapso temporal para a obtenção de benefícios.
+Portanto, de acordo com o cálculo atualizado, somente em 01 de junho de 2022 o agravante atingirá o período aquisitivo para a obtenção do benefício pleiteado, conforme o cálculo acostado a fls. 31/32.
+Na hipótese dos autos, aplica-se o teor da Súmula 534 do Superior Tribunal de Justiça, segundo a qual: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração" (fl. 86).
+Verifica-se que o Tribunal a quo manteve o indeferimento da progressão pela ausência de preenchimento do requisito objetivo, tendo sido levado em consideração que o cometimento de falta disciplinar de natureza grave, nos termos do enunciado de n. 534 da Súmula deste STJ, interrompe a contagem do prazo para a progressão de regime, reiniciando-se a contagem a partir do cometimento da indisciplina.
+De fato, a conclusão das instâncias originárias está em sintonia com a orientação jurisprudencial deste Sodalício, no sentido de que embora "a falta grave não seja considerada como marco interruptivo quanto à análise dos benefícios do indulto, da comutação de penas e do livramento condicional, consoante o enunciado da Súmula n. 441 do STJ, constitui termo a quo para a aferição do requisito objetivo referente à progressão de regime, nos termos do Enunciado Sumular n. 534 do STJ" (AgRg no HC 552.895/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/02/2020, DJe 26/02/2020).
+Nesse sentido, confiram-se os seguintes julgados desta Corte:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVO CRIME. UNIFICAÇÃO DE PENAS. DATA-BASE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, Relator o Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, de relatoria da Ministra Maria Thereza de Assis Moura, com Relator para o acórdão o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+III - A jurisprudência sedimentada neste Superior Tribunal de Justiça é no sentido de que a prática de falta grave ou crime no curso da execução penal, somente pode ensejar a alteração da data-base para a progressão de regime, não surtindo qualquer efeito no que tange ao requisito objetivo para o livramento condicional, comutação e indulto, nos termos dos enunciados n. 441, 534 e 535 deste STJ.
+IV - "Quanto à progressão de regime prisional, considera-se data-base o dia da última prisão, desde que não tenha o sentenciado cometido falta de natureza grave, após o encarceramento, que justifique a interrupção do prazo, nos termos do enunciado n. 534 da Súmula/STJ ("A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração")" (AgRg no HC n. 441.553/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/04/2019).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para, confirmando a liminar, cassar as decisões na origem e determinar que se observe, como data-base para a progressão de regime, o dia da última prisão ou falta grave cometida.
+(HC 501.928/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 20/05/2019).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. INTERRUPÇÃO DO PRAZO PARA PROGRESSÃO DE REGIME. SÚMULAS/STJ 441, 534 E 535. DATA-BASE. ÚLTIMA FALTA GRAVE. OFENSA A PRINCÍPIOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prática de falta grave pelo sentenciado, no curso da execução da pena, altera a data-base para a concessão de novos benefícios, exceto para fins de livramento condicional, indulto e comutação da pena. Entendimento consolidado nas Súmulas 441, 535 e 534 deste Superior Tribunal e no Recurso Especial repetitivo nº 1.364.192/RS.
+2. Dessa forma, a data-base para a contagem da aferição do requisito objetivo será a data do cometimento da última falta grave.
+3. "A análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna. Inviável, assim, o exame de ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência reservada à Corte Suprema" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.260.159/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 01/08/2018).
+Na hipótese, não foi demonstrado o cumprimento do requisito objetivo para a progressão ao regime intermediário, considerando a prática da última falta grave, ocorrida em 29 de agosto de 2018, que interrompeu o lapso temporal para a contagem do benefício em questão, de modo que, conforme consignado pelo acórdão impugnado, o reeducando somente atingirá o período termporal necessário para progredir no dia 1º/06/2022 (fl. 86).
+Assim, mostrou-se evidenciada a idoneidade da fundamentação utilizada na origem, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ressalto que, no que tange à alegação de que o benefício foi negado com base no boletim informativo, verifica-se que o tema não foi debatido na Corte de origem, o que afasta o conhecimento do mandamus quanto ao ponto, sob pena de atuar em indevida supressão de instância.
+Por fim, cabe lembrar que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao cumprimento do requisito objetivo necessário para a progressão de regime demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
