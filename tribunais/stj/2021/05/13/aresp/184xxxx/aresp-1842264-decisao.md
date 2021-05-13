@@ -1,0 +1,40 @@
+DECISÃO
+TERMINAL GARAGEM MENEZES CÔRTES S. A. (TERMINAL) ajuizou ação de cobrança de débitos contra MCB EMPREENDIMENTOS PARTICIPAÇÕES E SERVIÇOS LTDA(MCB).
+No curso da ação, o d. Juízo de primeira instânciadeferiuo pedido.
+Iniciada a fase de cumprimento de sentença, foi determinada a desconsideração da personalidade jurídica de MCB.
+JACIR CORREA LEMOS (JACIR), sócio de MCB, opôs exceção de pré- executividade que foi rejeitada, pelo Juízo de primeira instância, uma vez que não se verificou irregularidade na decisão que autorizou a medida (e-STJ, fls.1/21).
+Contra essa decisão interlocutória, JACIR interpôs agravo de instrumento sustentando quefoi indevidamente incluído no polo passivo da demanda, e por se tratar de matéria de ordem pública que pode ser conhecida a qualquer momento.
+O Tribunal estadualnegouprovimento ao agravo de instrumento nos termos do acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO - INCLUSÃO DO AGRAVANTE NO POLO PASSIVO - MATÉRIAS SUSCITADAS QUE JÁ FORAM ATINGIDAS PELA PRECLUSÃO - QUESTÃO JÁ DECIDIDA EM AGRAVO DE INSTRUMENTO ANTERIOR (PROCESSO Nº. 0037963-47.2017.8.19.0000) JÁ JULGADO POR ESTE COLEGIADO - DECISÃO AGRAVADA QUE SE LIMITA A DAR CUMPRIMENTO AO QUE RESTOU DECIDIDO -LITIGÂNCIA DE MÁ-FÉ - REJEIÇÃO - AUSÊNCIA DE QUALQUER DAS HIPÓTESES DO ARTIGO 80 DO CÓDIGO DE PROCESSO CIVIL. - Recurso conhecido e desprovido(e-STJ, fls. 145/151).
+Os embargos de declaração oposto por JACIR foram rejeitados(e-STJ, fls. 208/211).
+Inconformado, JACIR manejou recurso especial com fundamento no art. 105, III,aec, da CF, alegando que(1)não pode ser incluído o polo passivo da demanda, visto que,a inclusão de JACIR(sócio minoritário da empresa Ré, possuindo 5% (cinco por cento) do Capital Social) no polopassivo do feito de origem deu-se em 07/10/09, ou seja, após o julgado, em 31/03/2008; e(2)é incabíveluma decisão interlocutória modificando julgado superior transitado em julgado, no que tange às partes no polo passivo; além de apresentar dissídio jurisprudencialquanto àmatéria(e-STJ, fls. 220/263).
+O apelo nobre não foi admitido em virtude deincidência da Súmula nº 284 do STF, por analogia(e-STJ, fls. 220/263).
+Nas razões do presente agravo em recurso especial,JACIR sustentou, em síntese, que foram indicados os dispositivos legais infra constitucionais infringidos. No mais, repisou as razões do especial (e-STJ, fls. 387/417).
+Foramapresentadascontrarrazões (e-STJ, fls. 331/342).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar em parte.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da Súmula nº284 do STF, por analogia
+JACIR interpôs suas razões de recurso especial, sem, contudo, indicar com precisão os artigos tidos por violados.
+A jurisprudência desta Corte segue no sentido de que aausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, tanto pelasalíneasaouc,uma vez quenão basta a mera menção a dispositivos legais,a narrativa acerca da legislação federal e mera apresentação do dissídio pretoriano.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº284 do STF, por analogia:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTENTO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO INTEGRAL E EM DOBRO DAS PARCELAS PAGAS E INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. ILEGITIMIDADE PASSIVA. ALEGADO DISSÍDIO JURISPRUDENCIAL. FALTA DE APONTAMENTO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. SÚMULA Nº 284 DO STF. PRECEDENTES. 1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Não há falar em dissenso interpretativo tendo em vista que não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, de onde se evidencia a deficiência na fundamentação do recurso a atrair o óbice da Súmula nº 284 do STF. 3. Não sendo a linha argumentativa apresentada pela parte capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, deve ela ser mantida por seus próprios fundamentos. 4. Agravo interno não provido (AgInt no REsp 1.815.373/SP, de minha relatoria, Terceira Turma, j. 30/9/2019, DJe 3/10/2019)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. SÚMULA N. 7 DO STJ. 2. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI. SÚMULA N. 284 DO STF. 3. AGRAVO INTERNO IMPROVIDO.
+1. No tocante ao valor fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o quantum estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, de modo que a sua revisão encontra óbice na Súmula 7 do STJ.
+2. A falta de indicação do dispositivo de lei considerado violado caracteriza a ausência de fundamentação, circunstância que atrai o enunciado da Súmula 284/STF.
+3. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1.324.052/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.24/8/2020, DJe 1/9/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir que inexistiu conduta da ré capaz de acarretar dano moral indenizável. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.474.075/SC, Rel. Ministro ANTONIO CARLOS FERREIRA,Quarta Turma, j. 21/9/2020, DJe 24/9/2020)
+Assim, quanto a esse ponto, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo paraNÃO CONHEÇOdo recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA.NÃO INDICAÇÃO DE DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA Nº 284, DO STF, POR ANALOGIA.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
