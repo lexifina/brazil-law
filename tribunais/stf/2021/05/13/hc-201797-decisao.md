@@ -1,0 +1,39 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rosimeire da Silva Meira e outros, em favor de Diego Andrei Folster, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 642.988 – SC.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no art. 33, caput, da Lei 11.343/2006, à pena de 6 anos, 4 meses e 20 dias de reclusão, a ser cumprida inicialmente em regime fechado, além de 583 dias-multa. Na ocasião, foi mantida a prisão preventiva.
+    Irresignada a defesa impetrou habeas corpus no TJSC postulando, em suma, a revogação da constrição cautelar.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. NEGATIVA DE RECORRER EM LIBERDADE. PACIENTE QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ALTERAÇÃO FÁTICA QUE JUSTIFIQUE A REVOGAÇÃO DO CÁRCERE. GRAVIDADE CONCRETA DO DELITO EVIDENCIADA PELO MODUS OPERANDI (QUANTIDADE EXPRESSIVA DE ENTORPECENTES APREENDIDOS). POSSIBILIDADE DE EMBASAMENTO EM DECISÕES ANTERIORES PARA SE INDEFERIR O PLEITO REVOGATÓRIO. PRECEDENTES. MANUTENÇÃO DO CÁRCERE CAUTELAR QUE SE IMPÕE. IMPOSSIBILIDADE DE APLICAÇÃO DAS MEDIDAS ALTERNATIVAS À PRISÃO, AO MENOS POR ORA. PREDICADOS FAVORÁVEIS. IRRELEVÂNCIA, UMA VEZ QUE RECONHECIDA A NECESSIDADE DE MEDIDA ESTREMA. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA”. (eDOC 3, p. 49)
+    Daí a impetração de novo writ no STJ, que não foi conhecido por ser substitutivo de recurso próprio.
+    Impugnou-se a decisão por meio de agravo regimental o qual foi desprovido sob os seguintes fundamentos:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO DESPROVIDO.
+    1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+    2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+    3. Agravo regimental desprovido”. (eDOC 4)
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido de que a paciente sofre constrangimento ilegal em razão da carência de fundamentação concreta do decreto cautelar, reputando ausentes os requisitos autorizadores da medida, previstos no artigo 312 do CPP.
+    Requer, liminarmente e no mérito, a imediata soltura do acusado.
+    É o relatório.
+    Decido.
+    De modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional para análise de excepcional situação jurídica de constrição da liberdade exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Por oportuno, transcrevo trechos do acórdão proferido pelo TJSC:
+    “In casu, verifico que o paciente permaneceu segregado durante toda a instrução processual, fato este que corrobora a manutenção da segregação provisória.
+    Aliás, o magistrado a quo, na decisão que decretou a prisão preventiva do paciente (evento 12 - autos n. 5011576-63.2020.8.24.0064) - cujos fundamentos fez remissão na sentença -, ressaltou a quantidade de entorpecentes apreendidos (450 comprimidos de ecstasy) e o histórico criminal do paciente. Neste particular, necessário relembrar que " não é carente de motivação o comando judicial que, ao negar a acusado o direito de recorrer em liberdade, faz remissão aos fundamentos expostos na decisão que decretou a prisão preventiva". (TJSC, Habeas Corpus (Criminal) n. 4025894-03.2019.8.24.0000, de Concórdia, rel. Des. Sérgio Rizelo, Segunda Câmara Criminal, j. 10-09-2019).
+    (…)
+    Por ora, basta dizer que a custódia cautelar está devidamente justificada para garantia da ordem pública, considerando as circunstâncias do caso concreto, em razão da gravidade concreta do delito - modus operandi - e periculosidade do paciente. Ou seja, todas decisões restaram devidamente motivadas.
+    Válido reforçar que, "segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito é fundamento idôneo para justificar o encarceramento cautelar, tendo como fim o resguardo da ordem pública". (RHC 104.799/PA, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 21-02-2019, DJe 01-03- 2019)”. (eDOC 3, p.54)
+    Assim, da leitura dos trechos acima transcritos, verifico que o decreto prisional encontra-se devidamente fundamentado em elementos concretos, não apenas na gravidade abstrata do delito.
+    As circunstâncias da prisão em apreço, mencionadas na decisão acima transcrita acusado – réu, em concurso de agente, estaria transportando 450g de exctasy - autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública.
+    A segregação justifica-se, sobretudo, diante da possibilidade de reiteração delitiva, haja vista a notícia de condenações pretéritas pelos delitos de tráfico de drogas e porte ilegal de arma de fogo.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; AgR no HC 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Nesse sentido:
+    “Agravo regimental em habeas corpus. 2. Penal e Processo Penal. 3. Homicídio qualificado (art. 121, § 2º, incisos I e IV, c/c o 29, caput, do CP). 4. Prisão preventiva. Necessidade de garantia da ordem pública. 5. Gravidade demonstrada pelo modus operandi. Periculosidade concreta do acusado. Fundamentação idônea que recomenda a medida constritiva. Precedentes. 6. Agravo regimental a que se nega provimento”. (HC-AgR 191.209, de minha relatoria, 2ª Turma, DJe 11.2.2021)
+    “HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIOS QUALIFICADOS TENTADOS. PRISÃO PREVENTIVA. PRESSUPOSTOS E FUNDAMENTOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. 1. A decisão que determinou a segregação cautelar apresenta fundamentação jurídica idônea, ante a gravidade concreta das condutas imputadas ao paciente, reveladora de sua periculosidade social. 2. Habeas Corpus indeferido”. (HC 163.764, Rel. Min. Marco Aurélio, 1ª Turma, DJe 27.11.2019)
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do paciente com a jurisprudência do STF.
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 13 de maio de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
