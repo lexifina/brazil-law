@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIALRECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.IMÓVEL UTILIZADO PARA FINS COMERCIAIS. IMPENHORABILIDADE NÃO RECONHECIDA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. VIOLAÇÃO DO ART. 1.022DO NCPC. OMISSÃO. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que CAIXA ECONÔMICA FEDERAL (CEF)ajuizou execução de título extrajudicialcontraANA MARIA TERRA LUDWIG e ANTÔNIO EDUARDO LUDWIG (ANA e ANTÔNIO).
+No curso da ação, o d. Juízo de primeira instância indeferiuo pedido de reconhecimento da impenhorabilidade do imóvel de matrícula 121.222.
+Contra essa decisão interlocutória, ANTÔNIO e ANA interpuseramagravo de instrumento, desprovido pelo Tribunal Regional Federal da 4ª Região, em acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE IMÓVEL. BEM DE FAMÍLIA. NÃO CONFIGURAÇÃO.
+1. De acordo com o disposto na Lei 8.009/90, o imóvel utilizado para residência do executado e de sua família não é passível de constrição, desde que seja o único de sua propriedade.
+2. No caso dos autos contudo, os agravantes/executados não comprovaram que o imóvel penhorado é o único a integrar seu patrimônio, tampouco que é efetivamente utilizado para a sua moradia. Ademais, a locação de parte do imóvel em questão, retira do referido a possibilidade de utilização para moradia, protegida pela Lei nº 8.009/90.
+3. Inaplicável o enunciado constante na Súmula nº 486 do Superior Tribunal de Justiça, que admite a tese de impenhorabilidade do único bem de família de natureza residencial, objeto de locação, desde que o valor dos alugueres seja revertido para a subsistência ou moradia da família, pois não houve comprovação da reversão dos aluguéis.
+4. Portanto, o referido imóvel não se amolda às hipóteses garantidoras de impenhorabilidade.(e-STJ, fl. 81)
+Os embargos de declaração opostos por ANA e ANTÔNIO foram rejeitados (e-STJ, fls. 117/118).
+Inconformados, ANA e ANTÔNIOmanejaramrecurso especial com fundamento no art. 105, III,aec, da CF, alegando dissídio jurisprudencial ea violação dos arts. 1º e 5º da Lei nº 8.009/90 e da Súmula nº 486 do STJ ao sustentar que teriamdemonstrado que o imóvel penhorado é residência familiar e que, portanto, incumbiria àCEF demonstrar o contrário. Requereram, portanto, o reconhecimento da impenhorabilidade do bem(e-STJ, fls. 133/146).
+OTJRS não admitiu o recurso especial com fulcro na incidência das Súmulas nºs 7 e 518do STJ (e-STJ, fls. 175/178).
+Nas razões do seu agravo em recurso especial, ANA e ANTÔNIO defenderam o afastamento dos mencionados óbices à admissão do apelo nobre (e-STJ, fls. 193/206).
+Conheceu-se do agravo, mas não se conheceu o apelo nobre em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.ALEGADA VIOLAÇÃO A SÚMULA. APLICAÇÃO DA SÚMULA Nº518 DO STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283 DO STF.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO(e-STJ, fl. 243).
+Nas razões dos seus embargos de declaração, ANA e ANTÔNIO afirmarama existência de violação do art. 1.022do NCPC(1)em virtude da ausência de indicação da violação da Súmula nº 486 do STJ e que tal fundamento foi usado apenas pelo TRF da 4ªRegião;e(2)que não incide a Súmula nº7 do STJ porque não tentam revolver os fatos, mas apenas comprovar a violação dos arts. 1º e 5ºda Lei nº8.009/90(e-STJ, fls. 250/258).
+Foi apresentada impugnação (e-STJ, fls. 261/265).
+Os embargos de declaração foram rejeitados em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE IMÓVEL. NATUREZA COMERCIAL. VIOLAÇÃO DO ART. 1.022, DO NCPC. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS(e-STJ, fl. 270).
+Nas razões do seu agravo interno,ANA e ANTÔNIO alegaram(1)que não houve a indicação de violação do art. 105, III, da CFpela alíneac, sendo incabível a inadmissão do recurso sob esse fundamento;(2)que a Súmula nº486 do STJ não foi indicada como violada, mas apenas como argumento para subsidiar aofensa aos arts. 1ºe 5ºda Lei nº8.009/90; e,(3)no mérito, que a exigência de prova negativa equivale àprova diabólica e que houve a apresentação de certidões negativas de propriedade de imóvel comprovando que se trata do único imóvel dos recorrentes (e-STJ, fls. 280/295).
+A Terceira Turma do STJ negou provimento ao agravo interno em acórdão, de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.IMÓVEL UTILIZADO PARA FINS COMERCIAIS. IMPENHORABILIDADE NÃO RECONHECIDA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula nº283 do STF:É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido (e-STJ, fls. 311/312).
+Nas razões destes aclaratórios,ANA e ANTÔNIO afirmaram a violação do art. 1.022do NCPC em virtude da omissão quanto a impossibilidade da dívida agrícola se inserir nas hipóteses excludentes da impenhorabilidade. Alegaram que a decretação da penhorabilidade ofende o princípio do contraditório porque há decisão anterior decretando a impenhorabilidade do imóvel(e-STJ, fls. 333/341).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIALRECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.IMÓVEL UTILIZADO PARA FINS COMERCIAIS. IMPENHORABILIDADE NÃO RECONHECIDA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. VIOLAÇÃO DO ART. 1.022DO NCPC. OMISSÃO. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser provido.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões destes aclaratórios, ANA e ANTÔNIO afirmaram a violação do art. 1.022do NCPC em virtude da omissão quanto a impossibilidade da dívida agrícola se inserir nas hipóteses excludentes da impenhorabilidade. Alegaram que a decretação da penhorabilidade ofende o princípio do contraditório porque há decisão anterior decretando a impenhorabilidade do imóvel.
+Contudo, sem razão.
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que o TJRScertificou que não era possível verificar a impenhorabilidade do imóvel porque (i) as certidões juntadas no evento nº28 não comprovaram que o imóvel era o único a integrar o patrimônio do casal etampouco que era utilizado para moradia; e(ii) a locação do andar térreo para escritório retira do imóvel a natureza residencial,in verbis:
+No caso dos autos, entendo que não há reparos a fazer na decisão agravada, considerando que os executados não comprovaram, com as certidões juntadas no evento nº 28, que o imóvel penhorado é o único a integrar o patrimônio do casal e tampouco que é efetivamente utilizado para a sua moradia.
+Ademais, eventual locação do andar térreo para escritório de advocacia, alegada pelos agravantes, retira do imóvel a utilização para moradia, a qual vem protegida pela Lei nº 8.009/90, em atendimento ao princípio da dignidade humana  .. (e-STJ, fl. 86)
+Ademais, constou ainda queo fundamento -da utilização do imóvel para fins comerciais e a não incidência da impenhorabilidade-não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1.AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. LITIGÂNCIA DE MÁ-FÉ.INEXISTÊNCIA. 4. FIXAÇÃO DE HONORÁRIOS RECURSAIS. INCABÍVEL. 5.AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1.073.647/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TerceiraTurma, j.15/3/2021, DJe 17/3/2021)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
