@@ -1,0 +1,26 @@
+DECISÃO
+MARCELO WILLIAN FERREIRA PAESagrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+ROUBOS MAJORADOS - Configuração. Materialidade e autoriacomprovadas. Confissões judiciais dos réus Fabrício e Sivalcorroboradas pela declaração da vítima e pelos depoimentos dospoliciais militares, tudo em harmonia com o conjunto probatório.
+Negativa de Marcelo isolada - Crimes patrimoniais praticados emconcurso de agentes e com restrição da liberdade das vítimas  Patrimônios atingidos de titularidades distintas. Concurso formal  Condenações mantidas.
+PENAS E REGIME PRISIONAL - Bases nos mínimos -Compensação da confissão espontânea de Fabrício e de Sival coma agravante do artigo 61, II, "h  do CP (vítima idosa). Exasperaçãopara Marcelo em 1/6 em razão da incidência da referida agravante.Menoridade relativa de Fabrício inócua (Súmula nº 231 do STJ) -Duas causas de aumento. Exasperação em 3/8. Proporcionalidade- Concurso formal. Dois patrimônios atingidos. Aumento nocoeficiente de 1/6 - Regime inicial fechado - Inviável asubstituição da pena privativa de liberdade por restritivas dedireitos (CP, artigo 44, I) - Apelo de Fabrício desprovido; recursoministerial provido para condenar Marcelo nos termos da denúnciae fixar o regime inicial fechado para todos os sentenciados. (e-STJ fl. 700)
+A defesa aponta a violação do art. 386, VII, doCódigo de Processo Penal alegando que a inexistência de provas seguras para a condenação do recorrente. Alternativamente pede o reconhecimentoda participação de menor importância ouda forma tentada do delito.
+Contrarrazões às e-STJ fls. 792/801.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 7892/896.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo deu provimento ao apelo ministerial para condenar o ora recorrente àpena de 7 anos, 5 meses e 5 dias de reclusão, pelo cometimentodo crime do art. 157, § 2º, II e V, por duas vezes, c/c 61, II, "h", do Código Penal.
+Neste recurso, a defesa alega a inexistência de provas seguras para a condenação do recorrente. Alternativamente pede o reconhecimento da participação de menor importância, da fora tentada do delito.
+Ocorre que"cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação. (Súmula 7/STJ)" (ut, AgRg no REsp 1716998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 16/05/2018).
+Tambéma pretensão da defesa em ver reconhecida a tese de participação de menor importância ou a forma tentada do delito, não pode ser analisada na via do recurso especial por não prescindir do revolvimento do acervo fático-probatório reunido nos autos. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO NA FORMA TENTADA. REVISÃO CRIMINAL. DESCABIMENTO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. EXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO DESPROVIDO.
+1. O parágrafo único do art. 622 do Código de Processo Penal - CPP veda a revisão criminal quando a mesma for mera reiteração de outro pedido e não haja novas provas.
+Na hipótese, não houve a juntada de outras provas diferentes da apelação e sequer foi realizado nova argumentação ou dada nova versão dos fatos, tendo sido apenas renovadas as mesmas alegações do apelo, o que não se admite pela legislação de regência.
+2. A modificação da conclusão do Tribunal de origem para que seja reconhecida a participação de menor importância demandaria o exame aprofundado de provas, o que não pode ser feito no âmbito do mandamus.
+3. Agravo Regimental desprovido. (AgRg no HC 492.161/MS, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 20/02/2020)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO.DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.DESCLASSIFICAÇÃO DO DELITO PARA A FORMA TENTADA. REEXAME DE PROVAS.SÚMULA 7/STJ. INCIDÊNCIA.
+1. A interposição do recurso especial pela alínea c do permissivo constitucional exige, nos moldes dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ, que a divergência jurisprudencial seja demonstrada mediante a descrição das circunstâncias que identificam ou que assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles e o devido cotejo analítico entre o arresto recorrido e o paradigma. A simples transcrição de ementas não serve à comprovação de divergência jurisprudencial.
+2. O Tribunal de origem, soberano na análise do conjunto fático-probatório carreado aos autos, concluiu que o crime se deu em sua forma consumada. Assim, para afastar tal conclusão, necessário se faria o reexame de provas, o que é vedado na via especial, ut Súmula 7/STJ.
+ ..
+2. Agravo regimental a que se nega provimento.(AgRg no REsp 1845796/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 18/05/2020)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
