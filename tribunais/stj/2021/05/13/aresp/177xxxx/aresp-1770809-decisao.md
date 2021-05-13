@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO SILVA RAMOScontra decisão que não admitiu recurso especial interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio da Janeiro, cuja ementa se segue:
+"APELAÇÃO. RÉU DENUNCIADO PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 1º, II, DA LEI Nº 8.137/90 (ONZE VEZES), N/F DO 71 DO CP.DELITO DE FRAUDE À FISCALIZAÇÃO TRIBU - TÁRIA. RECURSO DEFENSIVO, PUGNANDO PE - LA NULIDADE DA DECISÃO QUE RECEBEU A DENÚNCIA, BEM COMO SUSTENTA A INÉPCIA DA PEÇA EXORDIAL E AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REQUER, AIN - DA, A ABSOLVIÇÃO SUMÁRIA, SOB O FUNDA - MENTO DE ATIPICIDADE DA CONDUTA. NÃO CONHECIMENTO DO RECURSO.
+Segundo se verifica da peça acusatória, o denunci - ado, na qualidade de administrador da sociedade empresária Rodoviário Ramos Ltda, outorgou pode - res ao codenunciado e, no período compreendido entre o mês de fevereiro de 2009 a janeiro de 2010, os réus fraudaram a fiscalização tributária, inserindo elementos inexatos, relativamente, a operações tri - butáveis em livros exigidos pela lei fiscal, creditan - do-se, indevidamente, o ICMS incidente sobre tais operações.
+Inicialmente, cumpre esclarecer que os mesmos argumentos formulados no presente recurso de apelação já foram suscitados no habeas corpus nº 0003867-06.2017.8.19.0000.
+No referido writ, todas as teses defensivas restaram, amplamente, analisadas e julgadas por esta egrégia Oitava Câmara Criminal, na data de 29 de março de 2017, ocasião em que a ordem foi denegada, por unanimidade.
+Acrescente-se, ainda, que, no citado habeas corpus, a defesa interpôs recurso ordinário, o qual foi desprovido pelo STJ, em decisão publicada no dia 23 de maio de 2018.
+Ademais, a interposição de apelação em face da decisão do Juízo de primeiro grau, que recebeu a denúncia, bem como da que ratificou o recebimento da exordial, não encontra amparo nas hipóteses delineadas no artigo 593 do CPP e, portanto, o presente recurso não merece ser conhecido.
+NÃO CONHECIMENTO DO RECURSO" (e-STJ, fls. 615-616).
+O recurso não foi admitido com base no Enunciado Sumular n. 83/STJ tendo em vista que "com relação ao argumento de violação ao artigo 41 do Código de Processo Penal, a jurisprudência do Superior Tribunal de Justiça pacificou-se segundo o entendimento de que é incabível a alegação de inépcia da denúncia em caso de superveniência de condenação criminal, já havendo, in casu, condenação confirmada em segundo grau de jurisdição" (e-STJ, fl. 722).
+Contraminuta às fls. 787-788 (e-STJ).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ, fls. 817-826).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Verifica-se, desde logo, que o agravante não logrou atacar o único fundamento da decisão agravada, que afirmou "com relação ao argumento de violação ao artigo 41 do Código de Processo Penal, a jurisprudência do Superior Tribunal de Justiça pacificou-se segundo o entendimento de que é incabível a alegação de inépcia da denúncia em caso de superveniência de condenação criminal, já havendo, in casu, condenação confirmada em segundo grau de jurisdição" (e-STJ, fl. 722), atraindo a incidência do teor da Súmula 83/STJ.
+O agravante, porém, deixou de impugnar o apontado óbice, limitando-se a alegar que "a decisão, ora debatida, só tratou da inépcia da denúncia.Nada dizendo, em seus fundamentos, acerca de todas as outras teses levantadas pela defesa. Não estamos tratando de fundamentação deficiente, mas ausência de fundamentação" (e-STJ, fl. 771). No mais,repisaos argumentos apresentados nas razões de seu recurso especial, contrariando a diretriz jurisprudencial desta Corte segundo a qual "os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia" (AgRg no AREsp 542.855/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/06/2015, DJe 29/06/2015).
+Desse modo, não há como conhecer do presente agravo, por forca da dicção da Súmula n. 182/STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS DO AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO E USO DE DOCUMENTO PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. INVIABILIDADE DE SANAR A FALHA NO REGIMENTAL. PRECEDENTES. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular 182 desta Corte Superior.
+2. Diante da decisão que inadmitiu o recurso especial, a defesa não rebateu todos os fundamentos do Tribunal local, especialmente a incidência dos enunciados 83/STJ, 282 e 356/STF e 211/STJ.
+3. A impugnação dos fundamentos da decisão de admissibilidade somente em sede de agravo regimental não supre a deficiência recursal, em razão do fenômeno da preclusão consumativa. Precedentes.  ..
+6. Agravo regimental improvido".
+(AgRg nos EDcl no AREsp 733.326/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2016, DJe 23/02/2016, grifou-se).
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA 284/STF. DECISÃO MONOCRÁTICA. CONFIRMAÇÃO POR ÓRGÃO COLEGIADO.  ..
+I - A interposição de recurso especial com fulcro na alínea a do permissivo constitucional exige que o recorrente exponha com clareza a ofensa à legislação. In casu, o agravante deixou de indicar os dispositivos de lei que teriam sido violados pelo v. acórdão recorrido, razão pela qual deve ser aplicada a Súmula 284 do STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no Ag 1127133/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/06/2009, DJe 17/08/2009, grifou-se).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO. - É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte. Agravo regimental desprovido. (AgRg no AREsp 355.266/RJ, Rel. Ministra MARILZA MAYNARD (Desembargadora Convocada do TJ/SE), Sexta Turma, DJe 30/10/2013). AGRAVO REGIMENTAL. HABEAS CORPUS. AÇÃO PENAL ORIGINÁRIA. JULGAMENTO. NULIDADE. INTIMAÇÃO DO ACUSADO E DO CAUSÍDICO. MATÉRIA JÁ APRECIADA. REITERAÇÃO. PRETENSÃO DE SIMPLES REFORMA. DECISÃO UNIPESSOAL MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. SUSTENTAÇÃO ORAL DO AGRAVO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 desta Corte).
+ ..  3. Agravo regimental desprovido".
+(AgRg no HC 281.954/AC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 5/12/2013, grifou-se).
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c art. 253, parágrafo único, I, do RISTJ, não conheço do agravo.
+Publique-se. Intimem-se.
