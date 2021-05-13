@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MAIKON JOSE DO CARMO LIMAcontra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente foi condenado como incurso nos arts. 33 e 35, ambos da Lei n. 11.343/2006, à pena total de 10 anos e 8 meses de reclusão, em regime inicial fechado, sendo negado o apelo em liberdade.
+Neste writ, o impetrante sustenta, em síntese, haver excesso de prazo no julgamento da apelação. Destaca que o apelo defensivo foi remetido ao Tribunal de origem em 13/2/2020 e desde então aguarda-se seu julgamento.
+Ressalta que o paciente é primário, tem residência fixa e sempre trabalhou de forma lícita, como alinhador de pneus.
+Pleiteia a revogação da prisão preventiva imposta ao paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pela concessão da ordem,para determinar ao Tribunal a quo que julgue o recurso de apelação do paciente.
+É o relatório.
+Decido.
+A irresignação não merece provimento.
+De início,convém destacar que a lei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrência de constrangimento ilegal imposto ao réu.
+Portanto, vejamos:
+Em consulta ao site eletrônico do Tribunal de Justiça do Estado de São Paulo,observa-se que o feito foi remetido à Corte estadualem 13/2/2020, sendo distribuído ao relator em 28/2/2020.
+Em 2/3/2020, o processo foi encaminhado ao parquet para emissão de parecer, retornando em 13/3/2020.
+Após elaboração de relatório e voto, os autos foram disponibilizados ao revisor, em 26/4/2021.
+Atualmente, referidos autos se encontram incluídos na pauta de julgamento do dia 19/5/2021.
+Conforme se infere, o feito segue trâmite razoável em relação à sua complexidade, eis que se trata de processo com dois apelantes e apuração de mais de um tipo penal. Ademais, verifica-se que o recurso já tem previsão de julgamento próximo, estando incluído na pauta do dia 19/5/2021.
+Por fim, ressalta-se que, consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória. In casu, o paciente foi condenado à pena de 10 anos e 8 meses de reclusão.
+Sobre o tema, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. RECEPTAÇÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RÉU CONDENADO À PENA DE 27 ANOS DE RECLUSÃO, EM REGIME FECHADO. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo. Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. O paciente foi condenado à pena de 27 anos de reclusão pela prática dos crimes de roubo majorado e receptação, sendo-lhe negado o direito de recorrer em liberdade. Desse modo, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena. Destarte, diante das circunstâncias peculiares do caso em tela, tem-se que a persecução penal tramita dentro do princípio da razoabilidade, sem registro de qualquer evento relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão.
+3. Embora tenha transcorrido prazo aproximado de 1 ano para o julgamento da apelação interposta, houve contínua movimentação do feito - a apelação ajuizada pelo causídico de Matheus foi recebida pelo Juiz a quo aos 27 de junho de 2018. O Ministério Público apresentou as contrarrazões aos 31 de julho seguinte. Ademais, aos 26 de setembro e 26 de novembro subsequentes, o patrono reiterou as razões recursais e requereu o imediato processamento do feito. A defesa do corréu Almir opôs embargos de declaração e, posteriormente, ajuizou apelação da aludida r. sentença, tendo o Magistrado recebido o recurso aos 16 de janeiro transato, determinando que fossem apresentadas as razões recursais e, após, as contrarrazões pelo Parquet.
+4. Agravo regimental improvido."
+(AgRg no HC 506.431/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019).
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. NEGATIVA DE RECORRER EM LIBERDADE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RECOMENDAÇÃO PARA CELERIDADE NO JULGAMENTO.
+1. A alegação de ilegalidade da negativa do direito de recorrer em liberdade da sentença penal condenatória não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. Esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória. (Precedentes)
+4. Na presente hipótese, o paciente foi condenado a uma pena total de 10 anos, 10 meses e 20 dias pela prática dos delitos de tráfico de drogas interestadual em associação criminosa que foi flagrada transportando 3,217kg (três quilogramas, duzentos e dezessete gramas) de cocaína. Está dentro dos limites da razoabilidade, portanto, o prazo de 24 meses desde o aviamento do recurso de apelação até a presente data, mormente se considerado serem 7 corréus com patronos distintos e o feito já se encontrar concluso para o relator.
+5. Ordem denegada, com recomendação."
+(HC 499.713/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 18/06/2019).
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
