@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 458):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO NA ESPÉCIE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÓCIO CUJO NOME CONSTA DA CDA. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO (RESP 1.110.925/SP - TEMA 108/STJ). RECURSO ESPECIAL PROVIDO.
+A parte embargante alega que a decisão embargada apresenta erro material, tendo em vista quematéria discutida nos autos refere-se aoredirecionamento da execução fiscal com base na ocorrência de dissolução irregular da empresa, nos termos da súmula 435/STJ, sem qualquer discussão a respeito da responsabilidade tributária do sócio-gerente.
+Com impugnação (fls. 477/482).
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada concluiu pela impossibilidade de utilização da exceção de pré-executividade para discutir a questão da legitimidade do sócio que figura como responsável na CDA. A parte, de sua feita, nos presentes embargos, alega que há erro material no julgado,tendo em vista que matéria discutida nos autos refere-se ao redirecionamento da execução fiscal com base na ocorrência de dissolução irregular da empresa, nos termos da súmula 435/STJ, sem qualquer discussão a respeito da responsabilidade tributária do sócio-gerente.Todavia, razão não lhe assiste.
+Na hipótese não se verifica a ocorrência de erro material. Com efeito, a decisão embargada analisou o recurso especial da parte e julgou-o de forma completa, coerente e fundamentada, ao concluir pela impossibilidade de utilização da exceção de pré-executividade no presente caso. Registre-se que o julgamento do acórdão recorrido, ao apreciar a questão da legitimidade passiva do sócio, também abarcou ofato do nome da ora embargante constar da CDA, conforme se extrai do seguinte trecho (fls. 182/183):
+De início, imprescindível delimitar o conteúdo recursal trazido pelo embargante, qual seja: possível omissão ao não apreciar a preliminar de não cabimento da exceção de pré-executividade pela questão demandardilação probatória; omissão e obscuridade quanto a não aceitação da alteração do contrato pela Fiscalização; obscuridade por não ter atentado ao fato do agravante reconhecer como paralisadas as atividades empresariais: omisso e obscuro por não ter ocorrido efetiva alteração do contrato social; omissão pelo acórdão não apreciar o fato do nome do agravante constar na CDA; e, contradição em relação ao Recurso Especial nº 1104900, julgado sob o regime de recurso repetitivo.
+Deste modo, tudo considerado, não há falar em qualquer dos vícios autorizadores apontados.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
