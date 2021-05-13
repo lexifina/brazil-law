@@ -1,0 +1,31 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1007651-54.2021.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: VALTER LUIZ MOURA DA SILVA;
+AGRAVADO: DEPARTAMENTO DE TRÂNSITO DO ESTADO DE MATO GROSSO.
+Vistos etc.
+Agravo de instrumento, com pedido de antecipação de tutela da pretensão recursal, interposto por Valter Luiz Moura da Silva contra a decisão que, em mandado de segurança impetrado contra ato do Diretor de Habilitação do Departamento de Trânsito do Estado de Mato Grosso, indeferiu a liminar.
+Assegura que o ato impugnado, além de violar o direito ao contraditório e à ampla defesa, bem como de não apresentar motivação suficiente, “está afetando a funcionalidade da empresa impetrante, pois a cidade de Campo Verde é pequena, e a notícia das retiradas dos nomes dos alunos do DETRAN, bem como o impedimento dos mesmos finalizarem seus processos de habilitação está circulando pela cidade, e quanto mais o tempo passa a atividade comercial da impetrante sofre prejuízos”.
+Assevera que, quanto à veracidade das informações inseridas no sistema do Departamento de Trânsito do Estado de Mato Grosso – DETRAN/MT, “o depoimento pessoal dos alunos e produção de provas documentais demonstrariam não haver irregularidades”.
+Requer a antecipação de tutela da pretensão recursal para que seja determinada “a suspensão dos itens 2.1 e 2.2 do despacho de no 038/2021 inerente aos processos de investigação preliminar de no 039/2020/CFISC/DETRAN/MT, até o deslinde final do processo administrativo que deverá ser instaurado, bem como até julgamento de mérito da ação ordinária proposta no juízo singular”.
+É o relatório.
+Eis, no essencial, o teor da decisão:
+[...] No caso vertente, a impetrante afirma que a ilegalidade reside no fato de que a autoridade coatora proferiu um despacho em sede de investigação preliminar no qual determina a exclusão de dados do sistema, desrespeitando normas pertinentes ao ato administrativo adequado.
+Com efeito, os documentos que acompanham a inicial demonstram a boa aparência do direito do impetrante, visto que a Portaria no 341/2015/GP/DETRAN/MT prevê que a apuração de irregularidades se dá por meio de processo se dá por meio de ato administrativo.
+No entanto, o alegado prejuízo, caso não ocorra a concessão de imediato da segurança, não restou configurado nos autos, uma vez que as determinações exaradas no despacho de no 038/2021 pela autoridade coatora pode ser ratificada em sede de processo administrativo o que tornará a decisão desse Juízo no presente caso inócua.
+Atente-se que a liminar neste caso, teria o efeito de verdadeira decisão definitiva, não possuindo o condão de resguardar qualquer situação hoje presente.
+Ademais, poderá, em sendo acolhida a segurança, ser alcançado o pleito inicial, não havendo possibilidade de se tornar ineficaz a medida no momento da análise final dos autos.
+Ausente este requisito, impossível a concessão da liminar.
+[...]
+Portanto, repita-se, a possibilidade de ineficácia do mandado de segurança, caso venha a ser deferido, inexiste no caso vertente, motivo pelo qual indefiro a liminar pretendida. [...]. (Processo Judicial Eletrônico no 1008514-81.2021.8.11.0041, Primeira Instância, Id. 53071729, fls. 2).
+No caso, para se afirmar que não houve as irregularidades apontadas pela fiscalização, a questão demandaria dilação probatória, conforme admitido pelo próprio agravante: “o depoimento pessoal dos alunos e produção de provas documentais demonstrariam não haver irregularidades” (petição inicial, Primeira Instância, Id. 51074364, fls. 8), o que não é compatível com o mandado de segurança.
+De fato, o mandado de segurança tem como único escopo proteger direito líquido e certo, consoante está no artigo 5o, LXIX, da Constituição da República Federativa do Brasil, com exigência de prova pré-constituída, não passível de impugnação ou de controvérsia, ou, nas palavras de Castro Nunes: “direito provado de plano, documentalmente, sem necessidade de provas complementares, nem maior debate elucidativo dos fatos;” (Do mandado de segurança e de outros meios de defesa contra atos do poder público. 8. ed. atual. por José de Aguiar Dias. Rio de Janeiro: Forense, 1980, p. 65).
+Por se tratar de mandado de segurança, há a necessidade de existência de prova pré-constituída, visto que “o pressuposto do mandado de segurança, portanto, é a ausência de dúvida quanto à situação de fato, que deve ser provada documentalmente. Qualquer incerteza sobre os fatos decreta o descabimento da reparação da lesão através do mandado, devendo a parte pleitear seus direitos através de ação que comporte a dilação probatória. Daí dizer-se que o mandado de segurança é um processo sumário documental, isto é, um processo rápido, concentrado, fundado em prova documental. No caso de não ser possível a apreciação do pedido por haver dúvida quanto à matéria de fato, por outro lado, pode o interessado propor a demanda adequada, não ocorrendo contra ele o fenômeno da coisa julgada” (GRECO FILHO, Vicente. Direito Processual Civil Brasileiro. 13a ed., São Paulo: Saraiva, 1999, vol. 3, p. 308).
+[...] – Refoge, aos estreitos limites da ação mandamental, o exame de fatos despojados da necessária liquidez, não se revelando possível a instauração, no âmbito do processo de mandado de segurança, de fase incidental de dilação probatória. Precedentes.
+– A noção de direito líquido e certo se ajusta, em seu específico sentido jurídico-processual, ao conceito de situação decorrente de fato incontestável e inequívoco, suscetível de imediata demonstração mediante prova literal pré-constituída. Precedentes. (STF, Tribunal Pleno, MS 23190/RJ AgR, relator Ministro Celso de Mello, publicado no Diário da Justiça Eletrônico em 9 de fevereiro de 2015).
+Dessa forma, presente a necessidade de dilação probatória, não é admissível o deferimento de liminar em mandado de segurança, pelo que, recebo e determino o processamento do recurso, sem deferir, em antecipação de tutela, a pretensão recursal.
+Intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 13 de maio de 2021.
+Des. Luiz Carlos da Costa
+Relator
