@@ -1,0 +1,27 @@
+Decisão: A 2ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná negou provimento aos recursos de apelação interpostos pelo recorrente e recorrido, mediante acórdão (eDOC 71, p. 113-129), assim ementado:
+    “APELAÇÕES CRIME. DELITO DE ADVOCACIA ADMINISTRATIVA. ARTIGO 321 DO CÓDIGO PENAL. CONDENAÇÃO. PRELIMINAR DE INÉPCIA DA DENÚNCIA AFASTADA. REQUISITOS DO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL DEVIDAMENTE ATENDIDOS. ALEGADO VÍCIO DAS DECISÕES DE DEFERIMENTO DA QUEBRA DE SIGILO TELEFÔNICO. INOCORRÊNCIA. MATÉRIA EXAUSTIVAMENTE DEBATIDA NESTA CORTE E RECHAÇADA NO SUPERIOR TRIBUNAL DE JUSTIÇA. LEGALIDADE DAS INTERCEPTAÇÕES. AUTORIA E MATERIALIDADE ROBUSTAMENTE DEMONSTRADAS NOS AUTOS. DOLO EVIDENCIADO. VEREADOR QUE PATROCINA INTERESSE PRIVADO DE USUÁRIA DO SUS EM REALIZAR PRIORITARIAMENTE EXAME DE RESSONÂNCIA MAGNÉTICA ENCEFÁLICA JUNTO A DIRETORA DO CISGAP – CONSÓRCIO INTERMUNICIPAL DE SAÚDE GUARAPUAVA. INCONTESTE ALTERAÇÃO DA ORDEM DA FILA DE ESPERA REALIZADA PELA DIRETORA. CONDUTA QUE CARACTERIZA O TIPO DESCRITO NO CAPUT DO ARTIGO. LEGITIMIDADE DO INTERESSE EM REALIZAR COM BREVIDADE EXAME MÉDICO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSOS CONHECIDOS E NÃO PROVIDOS, COM FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS AO DEFENSOR DATIVO.” (eDOC 71, p. 113; grifos originais)
+    Rejeitaram-se os embargos de declaração opostos (eDOC 71, p. 180-192).
+    Daí o recurso extraordinário (eDOC 72, p. 19-31), fundado no art. 102, III, “a”, da Constituição Federal, no qual se alegou ofensa ao art. 5º, inciso LV, da mesma Carta, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    O recorrente também interpôs recurso especial (eDOC 71, p. 211-223).
+    O 1º Vice-Presidente do TJ/PR não inadmitiu o REsp (eDOC 71, p. 236-237). Quanto ao RE, proferiu decisão (eDOC 72, p. 44-45), de cujo dispositivo transcrevo:
+    “(...)
+    Diante do exposto, inadmito o recurso extraordinário interposto por CELSO LARA DA COSTA, ressaltando que o tema envolvendo o artigo 5º, inciso LV, da Constituição Federal, se deu com base no artigo 1.030, inciso I, alínea ‘a’, do novo Código de Processo Civil.” (eDOC 72, p. 45; grifos originais)
+    Referida decisão foi mantida no acórdão objeto do eDOC 72, p. 89-93.
+    Houve, então, a interposição do presente ARE (eDOC 72, p. 103-113) e do AREsp (eDOC 71, p. 248-257).
+    O Relator, no STJ, não conheceu do AREsp 1.774.024/PR (eDOC 72, p. 241-246). Após o julgamento de recursos interpostos pelo ora recorrente, certificou-se, no âmbito daquela Corte, o trânsito em julgado aos 12.4.2021 (certidão; eDOC 72, p. 296).
+    Registro que o presente ARE foi a mim distribuído por prevenção ao HC 144.980/PR (certidão; eDOC 73, p. 1).
+    É o relatório.
+    Decido.
+    Preliminarmente, no que concerne à negativa de seguimento do RE, em relação ao Tema 660 da sistemática da repercussão geral da questão constitucional, a decisão deve ser mantida, porque incidente, no caso, o art. 1.030, inciso I, alínea “a”, do CPC, conforme bem decidiu a Vice-Presidência do TJ/PR (eDOC 72, p. 44-45).
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no RE em exame, o óbice da Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros. Mais recentemente: ARE 1.294.005 AgR/CE, por mim relatado, Segunda Turma, DJe 7.12.2020 e ARE 1.290.646 AgR/MG, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 7.12.2020.
+    No mais, a presente irresignação recursal não merece prosperar, porquanto a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do recurso em apreço.
+    Ante o exposto, nego seguimento ao presente ARE, com fundamento no art. 21, § 1º, do RI/STF.
+    Publique-se.
+    Brasília, 13 de maio de 2021.
+Ministro Gilmar Mendes
+Relator
+  Documento assinado digitalmente
