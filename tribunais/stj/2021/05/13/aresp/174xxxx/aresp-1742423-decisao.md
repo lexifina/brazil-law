@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão daincidência das Súmulas 7 e 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 1967):
+APELAÇÃO. PRETENSÃO DE OBRIGAÇÃO DE FAZER. Concurso público para provimento de cargos administrativos da Petrobrás.
+Candidatos aprovados para cadastro de reserva. Inexistência de direito subjetivo à nomeação e posse. Improcedência do pedido.
+Autores que deixam de comprovar os fatos constitutivos do direito reclamado. Alegação de que a demandada teria efetuado contratações de funcionários terceirizados para exercer as funções estabelecidas no certame, que não restou inequivocamente demonstrada. Instrução probatória que não dá sustentação ao afirmado. Inobservância ao disposto no art. 373, I, do NCPC. Acerto da sentença. Precedentes. RECURSO NÃO PROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 1.022, I e II, do CPC/2015, em razão dosseguintes vícios: (a) omissão diante da ausência de manifestação acerca da prova oral produzida, bem como ante o silêncio em analisar a existência de terceirização que justifica o pleito autoral e não empregar na solução da demanda os princípios da boa-fé, moralidade e da segurança das relações jurídicas; (b) contradição, pois, embora o acórdão recorrido tenha concluído que não houve determinaçãopara que aagravada exibissedocumentos, o juiz do primeiro grau de jurisdição determinou que a ré se pronunciasse quanto às demais provas requeridas pelos autores, ora agravantes.
+Quanto àquestãode fundo, sustenta ofensa aosartigos 370, 373, I, 396 e 400 do CPC/2015,2º, caput, eIV, da Lei n.9.784/1999 e dissídio jurisprudencial, sob os seguintes argumentos: (a) cerceamento de defesa, pois o acórdão recorridonãoexaminou a prova testemunhal produzida; (b) "A despeito da clara determinação de manifestação sobre os "documentos requeridos", a estatal descumpriu a ordem judicial sem qualquer justificativa plausível" (fl. 1999); (c) desobediência aos princípios da boa-fé, moralidade e da segurança das relações jurídicas.
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1.022, I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Evidencia-se que o artigo 2º, caput, e IV, da Lei n. 9.784/1999 (e a tese a ele vinculada) não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+No que diz respeito aosarts. 370, 373, I, 396 e 400 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que "a extensa documentação acostada aos autos não conduz à conclusão pretendida pelos recorrentes, não tendo sido possível, no curso da instrução processual, se verificar qualquer pela ilegalidade por parte da recorrida" (fl. 1969).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. CONCURSO PÚBLICO.VIOLAÇÃO DO ART. 1.022, I E II, DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
