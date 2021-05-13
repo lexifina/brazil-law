@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDIMAR DE OLIVEIRA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 17/12/2020.
+Concluso ao Gabinete em: 03/05/2021.
+Ação: revisional de contrato ajuizada pelo recorrente em face deOMNI S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO.
+Sentença: julgou parcialmente procedente o pedido para determinar a redução dos juros moratórios à taxa média de mercado e adevolução da cobrança de seguro.
+Acórdão:manteve decisão unipessoal do Relator que deu provimento à apelação interposta pelarecorrida para manter os juros pactuados e a cobrança do seguro prestamista.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: sustenta violação doart.1.021, § 4º, do CPC/15, bem como dissídio jurisprudencial. Alega, em síntese: i) os juros moratórios foram fixados acima da média do mercado; ii) ilegalidade da contratação de seguro de proteção financeira; iii) indevida aplicação da multa do art. 1.021, § 4º, do CPC/15, pois não se tratou de recurso manifestamente inadmissível, tampouco houve fundamentação quanto à aplicação da multa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+No recurso especial arrimado na alínea "a" do permissivo constitucional, o recorrente deve apontar quais os artigos de lei foram violados, sendo insuficiente mencionar ofensa genérica, tal como ocorre na presente hipótese, em que o recorrentese limitaa afirmar serem indevidos os juros moratórios e o seguro de proteção, sem, contudo, indicar quais dispositivos teriam sido violados pelo acórdão impugnado, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da multa prevista no§ 4º do art. 1.021 do CPC/2015
+É pacífico oentendimento do STJ no sentido de que "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Segunda Seção, DJe de 29/8/2016).
+Note-se que o acórdão recorrido limita-se a aplicar a multa sem apresentar qualquer fundamentação ao enquadramento da multa.Logo, o acórdão recorrido merece reforma em razão da aplicação da Súmula 568/STJ à hipótese dos autos.
+- Da divergência jurisprudencial
+Quanto à insurgência recursal veiculada pela alínea "c" do permissivo constitucional, verifica-se que o recorrente se limitoua colacionar ementas de julgados que entendeu divergentes, sem demonstrar, de maneira analítica, a similitude fática entre os arestos, a reclamar unidade de julgamento. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC/15 e 255, § 1º, do RISTJ.No mesmo sentido: AgInt no AREsp 1.514.463/MG, 3ª Turma, DJe 11/12/2019; AgInt no AREsp 1.522.046/RS, 4ª Turma, DJe 26/11/2019.
+Ademais, constata-se, da leitura das razões do recurso especial, que, quanto à alegada divergência jurisprudencial, o recorrente não indicou qualquer dispositivo infraconstitucional ao qual se teria dado interpretação divergente, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial, na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Isso porque o entendimento do Superior Tribunal de Justiça preconiza que o apelo excepcional sustentado na dissidência pretoriana depende do apontamento do artigo de lei violado, sob pena de incidência da mencionada súmula, como ocorreu na hipótese. No mesmo sentido: AgRg no AREsp 637.381/SP, 4ª Turma, DJe de 02/03/2016 e EDcl no AREsp 806.419/SP, 3ª Turma, DJe de 22/02/2016.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para afastar a aplicação da multa prevista no art. 1.021, § 4º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. ALEGAÇÃO GENÉRICA DE OFENSA DE OFENSA À LEI. SÚMULA 284/STF. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contrato.
+2.A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada,pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Segunda Seção, DJe de 29/8/2016).
+4.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Recurso especial parcialmente conhecido e, nessa parte, provido.
