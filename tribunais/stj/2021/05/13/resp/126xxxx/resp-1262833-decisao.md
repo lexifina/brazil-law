@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Queiroz Comércioe Participações S.A., com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do TRF da 5ª Região assim ementado (e-STJ, fls. 215-216):
+CONSTITUCIONAL E TRIBUTÁRIO. AGTR. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. CSLL. MANDADO DE SEGURANÇA EM QUE SE DECLAROU A INCONSTITUCIONALIDADE DA LEI 7.689/88. ALCANCE DA COISA JULGADA. COBRANÇA DO TRIBUTO EM EXERCÍCIOS FINANCEIROS POSTERIORES. NOVA LEGISLAÇÃO DE REGÊNCIA QUE LEGITIMA A COBRANÇA. RELAÇÃO DE TRATO SUCESSIVO. POSSIBILIDADE. AGTR IMPROVIDO.
+1. A decisão agravada indeferiu o pedido de tutela antecipada, por entender que os efeitos da coisa julgada, que declarou a inconstitucionalidade da cobrança da CSLL em relação à ora agravante, perderam a eficácia em relação à exigibilidade da CSLL; exercício de 1994, porque, com o advento da LC 70/91, foi alterado o suporte legal sobre o qual se estabeleceu o juízo de certeza anteriormente firmado, deixando a sentença, a partir de então, de ter força de lei entre as partes (fls. 71/73).
+2. O colendo STJ já firmou o seu posicionamento em relação ao alcance da coisa julgada, em mandado de segurança impetrado contra a cobrança da CSLL, em relação a exercícios financeiros posteriores à impetração, admitindo a cobrança do tributo (REsp599.764/GO, Rel. Min. LUIZ FUX, DJU 01.07.04).
+3. A coisa julgada oriunda do MS 89.0092546-6, que reconheceu a inconstitucionalidade da Lei 7.689/88, excluindo a agravante da incidência da referida legislação de regência da CSLL, não pode ser óbice a que a citada contribuição seja exigida da agravante com base nos diplomas legais posteriores, que legitimaram a cobrança de tal exação.
+4. Ademais, tendo sido a inconstitucionalidade da norma declarada em sede de controle difuso de constitucionalidade, tal declaração não integra o dispositivo da sentença, dado que, do contrário, estar-se-ia admitindo que o mandado de segurança que transitou em julgado fora impetrado contra lei em tese o que, é sabido, não é aceito em nosso ordenamento jurídico, não integrando a coisa julgada referida a mencionada declaração incidental de inconstitucionalidade da Lei 7.689/88.
+5. Por ser tratar de relação de trato sucessivo, alterando-se o substrato da cobrança da CSLL não há impedimento a que o tributo seja exigido do contribuinte nos exercícios posteriores.
+6. Precedente desta Corte Regional: AGTR 32.369/CE, Rel. Des. Federal CÉSAR CARVALHO, DJU 25.02.05, p. 697.
+7. AGTR improvido.
+Os embargos de declaração opostos pela contribuinte foram rejeitados.
+Em suas razões, a insurgente acusa violação dos art. 467 e 471, I, do CPC/1973.
+Refere, em síntese, que a coisa julgada operada em mandado de segurança garantiu-lhe o direito ao não recolhimento da CSLL, independentemente de lei posterior que venha a regular a exação.
+Contrarrazões recursais apresentadas às e-STJ, fls. 380-386.
+Admitido o recurso especial na origem (e-STJ, fls. 399-401), subiram os autos a esta Corte.
+É o relatório.
+A questão jurídica referente ao limites temporais da coisa julgada em matéria tributáriateve repercussão geral reconhecida pelo Supremo Tribunal Federal:
+Tema 881 - Limites da coisa julgada em matéria tributária, notadamente diante de julgamento, em controle concentrado pelo Supremo Tribunal Federal, que declara a constitucionalidade de tributo anteriormente considerado inconstitucional, na via do controle incidental, por decisão transitada em julgado.
+Tema 885 -Efeitos das decisões do Supremo Tribunal Federal em controle difuso de constitucionalidade sobre a coisa julgada formada nas relações tributárias de trato continuado.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e este Tribunal Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Cumpre esclarecer que, somente depois de realizada tal providência, a qual representa o exaurimento da instância ordinária, o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
