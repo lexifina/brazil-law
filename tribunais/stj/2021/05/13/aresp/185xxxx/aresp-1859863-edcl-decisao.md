@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SBS CORRETORA DE CEREAIS LTDA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+Data vênia máxima, pedimos licença para discordar do posicionamento adotado na decisão embargada, pois parte da premissa de que não houve impugnação
+dos fundamentos da decisão que inadmitiu o recurso especial, incidindo na Súmula 284/STF, contudo, não analisou de forma perfunctória as razões trazidas em sede de agravo em recurso especial, tendo em vista a análise equivocada, rogando para que seja eliminado o vício da decisão com o provimento do agravo e admissão do recurso especial.
+A OMISSÃO ocorre face ao equivocado JUÍZO DE VALOR acerca das provas e do Direito aplicado ao caso.(fls.900/1)
+ ..
+Não conheceu, assim, do agravo em recurso especial, por suposta ausência de impugnação específica do dispositivo objeto da divergência, porém, conforme consta das razões trazidas no agravo em recurso especial, houve a impugnação de forma efetiva, concreta e pormenorizada.
+Data vênia máxima, pedimos licença para discordar do posicionamento adotado, tendo em vista que o recurso especial preenche todos os pressupostos específicos de admissibilidade, devendo não apenas ser conhecido, como também provido, nos termos e para os fins nele insertos, uma vez que restou demonstrada a inequívoca afronta aos seguintes aos dispositivos legais:(fl.903)
+.. a CONTRADIÇÃO reside no momento em que considera ausência de prequestionamento, todavia, conforme consta nos autos a matéria fora devidamente prequestionada no v. aresto recorrido, de modo que o Poder Judiciário não pode criar restrições que dificultem o acesso à justiça que não sejam de ordem processual.
+Desse modo, resta comprovado o equívoco na decisão embargada, pois conforme fartamente demonstrado houve sim a impugnação de todos os fundamentos contidos na decisão que negou seguimento ao recurso especial. Não se aplicando, portando as Súmulas indicadas na decisão embargada.
+Em verdade, o ora Embargante fundamentou de forma clara todos os pontos impugnados no Recurso Especial, pontos esses que permaneceram omissos em decisão monocrática, não enfrentando especificamente a matéria impugnada.(fl.904)
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF, Súmula 5/STJ e Súmula 7/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+O momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
