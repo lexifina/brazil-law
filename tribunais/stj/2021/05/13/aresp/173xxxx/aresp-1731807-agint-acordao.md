@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação da Súmula nº 7do STJ, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+SEBASTIÃO LÁZARO DA LUZ (SEBASTIÃO) promoveu ação de cobrança contra CAIXA SEGURADORA S.A. e CAIXA ECONÔMICA FEDERAL (CAIXA e outra), objetivando que estas fossem condenadas a conceder um desconto no percentual de 67,09% do valor total do seu financiamento habitacional, por força do seguro por invalidez permanente.
+Em primeira instância, o pedido foi julgado procedente para condenar CAIXA e outra ao pagamento da indenização contratada, conforme a apólice do seguro imobiliário, na proporção que lhe cabe na composição da renda do mútuo imobiliário no percentual de 67,09%, a partir da data da incapacidade narrada na declaração do sinistro e no laudo pericial oficial. Na ocasião, a CAIXA e outra foram condenadas ao pagamento dos honorários advocatícios fixados em 10% sobre o valor da condenação.
+As apelações interpostas por CAIXA e outra não foram providas pelo Tribunal Regional Federal da 3ª Região, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. MATÉRIA PRELIMINAR. CONTRATO DE FINANCIAMENTO HABITACIONAL. SEGURO. DOENÇA PREEXISTENTE.
+1. No julgamento dos recursos aplica-se o CPC/73.
+2. Necessidade de ingresso em juízo. Interesse de agir caracterizado.
+3. Não consumação da prescrição anual.
+4. A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos
+prévios à contratação ou a demonstração de má-fé do segurado (STJ, Súmula nº 609).
+5. Direito à indenização contratada.
+6. Matéria preliminar rejeitada. Apelações desprovidas(e-STJ, fl. 312).
+Os embargos de declaração opostos por CAIXA e outra foram rejeitados.
+Inconformada, a CAIXA SEGURADORA S.A. (CAIXA) manejou recurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 757, 765 e 766 do CC/2002. Sustentou que (1) o segurado omitiu doença preexistente à contratação do seguro, tendo ela influenciado na causa da invalidez; (2) o segurado, mesmo ciente de seu frágil estado de saúde, deliberadamente omitiu da seguradora essa condição, tendo atuado, assim, com má-fé; e(3) essa omissão enseja a perda da indenização.
+Sem contrarrazões (e-STJ, fl. 389).
+O apelo nobre interposto pela CAIXA não foi admitido em virtude da incidência da Súmula nº 609 do STJ.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I do RISTJ, porque não foram impugnados especificamente todos os fundamentos da decisão denegatória do apelo nobre.
+Em juízo de retratação, foi proferida decisão de minha relatoria queconheceu do agravo para negar provimento ao recurso especial, a teor da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE COBRANÇA.SEGURO DE VIDA. ALEGAÇÃO DE DOENÇA PREEXISTENTE. ÔNUS DA PROVA DA SEGURADORA. AUSÊNCIA DE DOLO OU MÁ-FÉ. COBERTURA SECURITÁRIA DEVIDA. PRECEDENTES.REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 429 - destaque no original).
+Nas razões do presente agravo interno, a CAIXAalegou que(1) não é caso de incidência da Súmula nº 83 do STJ; (2) ficou incontroverso, nos autos, que o segurado era portador da doença que influenciou sua morte antes da contratação do seguro habitacional, bem como da sua ciência da doença anos antes da celebração do contrato de mútuo; (3) ambas as partes contratantes devem atuar com boa-fé; (4) nos contratos massificados, é razoável e esperado do segurado que contribua proativamente com informações relacionadas às especificidades de seu risco; (5) SEBASTIÃO, mesmo diante de seu frágil estado de saúde, deliberadamente omitiu da seguradora esta condição; (6) esta conduta do segurado é considerada fraude; (7) o segurado deve comunicar ao segurador todo e qualquer fato que possa alterar o risco; e(8) foram violados os arts. 757, 760, 765 e 766 do CC/2002.
+Não houve impugnação ao recurso (e-STJ, fl. 447).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação da Súmula nº 7do STJ, que levou ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a aplicação da Súmula nº 7do STJ.
+Isso porque, nas razões do presente agravo interno, a CAIXAlimitou-se a alegar que (1)não é caso de incidência da Súmula nº 83 do STJ; (2) ficou incontroverso nos autos que o segurado era portador da doença que influenciou sua morte antes da contratação do seguro habitacional, bem como da sua ciência da doença anos antes da celebração do contrato de mútuo; (3) ambas as partes contratantes devem atuar com boa-fé; (4) nos contratos massificados, é razoável e esperado do segurado que contribua proativamente com informações relacionadas às especificidades de seu risco; (5) SEBASTIÃO, mesmo diante de seu frágil estado de saúde, deliberadamente omitiu da seguradora esta condição; (6) esta conduta do segurado é considerada fraude; (7) o segurado deve comunicar ao segurador todo e qualquer fato que possa alterar o risco; e(8) foram violados os arts. 757, 760, 765 e 766 do CC/2002.
+Na hipótese, a CAIXAolvidou-se de infirmar o óbice apontado, tendo apenas afirmado não ser caso de incidência daSúmulanº 83do STJ, além de ter reiterado os termos dos recursos anteriores, o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Cumpre registrar que, na decisão agravada, não foi explicitada a aplicação da Súmula nº 83 do STJ.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada,o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Por derradeiro, é relevante ressaltar que a CAIXA passou a alegar a ocorrência de fraude somente nas razões do presente agravo interno, o que caracteriza inovação de fundamentos, vedado no âmbito deste recurso.
+Assim, porque os argumentos que a CAIXAtrouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno.
