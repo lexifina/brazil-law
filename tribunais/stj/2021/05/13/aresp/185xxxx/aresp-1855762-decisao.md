@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto porTIAGO PEREIRA DE OLIVEIRA contra decisão que inadmitiu seu recurso especial manifestado, com fundamento no art. 105, III, alíneas a ec, da Constituição Federal, em oposição ao acórdão proferido pelo Tribunal de Justiça do Estado do Acre(Apelação Criminal n. 0002686-60.2020.8.01.0001).
+Depreende-se dos autos que o ora agravante foi condenado, em primeiro grau, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 510 (quinhentos e dez) dias-multapela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei 11.343/2006, em decorrência daapreensão de "41 (quarenta e uma) porções de maconha, acondicionadas em plástico, em forma de tablete, pesando 74g (setenta e quatro gramas)" - e-STJ fl. 216.
+O Tribunal a quo negou provimento à apelação interposta pela defesa, nos termos da ementa de e-STJ fl. 285:
+PENAL PROCESSO PENAL. CRIME DE TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. REFORMA NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. IMPOSSIBILIDADE. NEGATIVAÇÃO IDÔNEA DE VETORES JUDICIAIS. ADOÇÃO DA FRAÇÃO DE 1/8 (UM OITAVO) PARA CADA CIRCUNSTÂNCIA NEGATIVADA. INVIABILIDADE. AUSÊNCIA DE ADOÇÃO DO CRITÉRIO PURAMENTE MATEMÁTICO. RECURSO CONHECIDO E DESPROVIDO.
+1. Não há que falar em absolvição, quando nos autos repousam indícios de convicção suficientes, formando um conjunto probatório seguro e harmônico, demonstrando claramente a responsabilidade criminosa do Apelante referente a prática do crime de tráfico de drogas.
+2. As palavras dos policiais formam com os demais elementos de provas um conjunto probatório eficiente e coerente a justificar a condenação do Apelante.
+3. Ao estabelecer as penas basilares acima do mínimo legal, o Juízo a quo considerou a presença de circunstâncias judiciais desfavoráveis ao recorrente, fundamentando a sua decisão nas provas carreadas aos autos, inviabilizando qualquer reforma.
+4. A jurisprudência é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria da pena. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base.
+5. Recurso conhecido e desprovido.
+Contra o acórdãointerpôs-se recurso especial. Nas razões do especial, o recorrente sustentouviolação aos arts. 33, caput, da Lei n. 11.343/2006, 59 do Código Penal e 386, VII do Código de Processo Penal, além de divergência jurisprudencial. Em síntese, aduziu que a sentença condenatória se fundaraapenas nos depoimentos do policiais, os quais estavam dissociados das demais provas dos autos.
+Requereu a absolvição.
+O recurso foi inadmitido ante o óbice do enunciado da Súmula n. 7 do Superior Tribunal de Justiça. Contra essa decisão a defesa interpôs agravo em recurso especial.
+Nesta instância, o Ministério Público Federalmanifestou-se pelo desprovimento do agravo.
+É o relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do agravo.
+Passo à análise das razões expendidas no recurso especial.
+O recurso especial não comporta conhecimento.
+Sobre o lastro probatório a embasar a condenação, extrai-se do acórdão recorrido (e-STJ fls. 288/292):
+Do Pedido de Absolvição
+Postula a defesa, em suas razões recursais, absolvição do Apelante, ao argumento de que as provas produzidas no curso da instrução criminal são insuficientes a justificar condenação. Notadamente, porque os depoimentos prestados pelos policiais que efetuaram a prisão do Recorrente são por demais contraditórios.
+Em que pese os argumentos defensivos, eles não merecem acolhida, vez que as provas produzidas no curso da instrução criminal revelam com precisão a materialidade e autoria do crime de tráfico de drogas.
+A materialidade se consubstancia pelo Termo de Apresentação e apreensão, p. 13; pelo Laudo de Exame de Constatação Preliminar, pp.15 e 183/184, bem como pelo Laudo Toxicológico Definitivo, o qual consigna a apreensão de 41 (quarenta e uma) porções de maconha, acondicionadas em plástico, em forma de tablete, pesando 74g (setenta e quatro gramas).
+No mesmo compasso, a autoria se revela indene de dúvidas, pelo vasto acervo fático probatório contido nos autos, notadamente pelos depoimentos dos policiais autores da prisão do Apelante, senão vejamos.
+ ..
+Assim, a palavra dos policiais militares merece a devida valoração quanto elemento de prova.
+Foram eles, aliás que perseguiram o Apelante após o mesmo se desfazer da sacola e se evadir do local, com claro intuito de se livrar de provas que o incriminassem, descartou a droga apreendida.
+Noutra vertente, o Apelante apresenta uma tese totalmente dissociada dos elementos constantes nos autos.
+Primeiro sustenta que saíra para buscar remédio e foi surpreendido por um telefonema de seu genitor o avisando que a polícia estava em sua casa.
+Em segundo, que um tal médico combinou de deixar o remédio para o Apelante, que nessa ocasião seu pai chegou juntamente com a polícia.
+Nesse ponto, descortina toda a tese defensiva: sendo o Apelante monitorado, todo seu percursodurante a fuga foi registrado pelo sistema de monitoramento do IAPEN. O Recorrente ao avistar os policiais se desfez da sacola no quintal de sua própria casa e se evadiu do local.
+Por último, a defesa técnica alega que os depoimentos dos policiais são contraditórios. Isto não se verifica, vez que os depoimentos prestados pelos Militares são uníssonos e revelam com precisão que o Apelante ao avista-los se desfez da sacola contendo maconha e se evadiu do local, e foi encontrando em razão de encontrar-se monitorado eletronicamente.
+Ora, para a caracterização do crime de tráfico basta que o agente incorra em qualquer um dos verbos constantes no tipo penal, quais sejam: importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer.
+No caso em tela, resta claro que o Recorrente incorreu no tipo penal previsto no Art. 33, caput, da Lei de Drogas, em razão do transporte de substância entorpecente, sendo esse inclusive um dos verbos ali inseridos, que fazem o agente incidir nas penas impostas.
+Assim, presente acervo probatório farto e apto a sustentar o sentença condenatória em desfavor do Recorrente, tal como proferida, não havendo margem à dúvida, deve ela ser mantida.
+Verifica-se, portanto, que o Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu a existência de elementos de prova suficientes a embasar o decreto condenatório pela prática do crime detráfico.Desse modo, conforme entendimento firmado nesta Corte, com o intuito de acolher as teses de absolvição e desclassificação,a mudança da conclusão alcançada pela Corte local exigiria o reexame das provas, o que é vedado na via do recurso especial, a teor da Súmula n. 7/STJ, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO E FIXAÇÃO DO REGIME DIVERSO DO FECHADO. MAUS ANTECEDENTES E CIRCUNSTANCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTOS INATACADOS SUFICIENTES PARA MANTER O ACÓRDÃO. SÚMULA Nº 283/STF.PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar a condenação, a absolvição e a desclassificação, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula nº 7/STJ.
+ ..
+4. Agravo regimental a que se nega provimento(AgRg no AREsp 1241298/AC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018, grifei).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido(AgRg no AREsp 900.716/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016, grifei).
+Posto isso, porque reconhecido o óbice da Súmula n. 7/STJ, é inviável o conhecimento do apelo nobre também pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR E OMISSÃO DE SOCORRO. ABSOLVIÇÃO EM PRIMEIRO GRAU E CONDENAÇÃO PELA CORTE ESTADUAL. OFENSA AO DUPLO GRAU DE JURISDIÇÃO. NÃO OCORRÊNCIA.INÉPCIA DA DENÚNCIA E NULIDADE DA DECISÃO QUE RECEBEU A PEÇA ACUSATÓRIA. ANÁLISE PREJUDICADA. SUPERVENIÊNCIA DE CONDENAÇÃO. TESE DE CONTRADIÇÃO ENTRE A PROVA COLIGIDA E AS CONCLUSÕES DO ACÓRDÃO.NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS.AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A análise da tese de contradição entre a prova coligida e as conclusões do Tribunal demanda o reexame do conteúdo fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ, que também impede o exame do recurso quanto à alínea "c" do permissivo constitucional.
+4. Agravo regimental não provido(AgRg nos EDcl no REsp 1696478/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020, grifei).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 33, § 4º DA LEI N. 11.343/06. PLEITO DE AFASTAMENTO DA CAUSA DE DIMINUIÇÃO DE PENA. REEXAME DE PROVAS.IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Reavaliar se o réu preenche ou não os requisitos subjetivos do parágrafo 4º do artigo 33 da Lei n. 11.343/06 demandaria, necessariamente, o reexame fático e probatório dos elementos carreados aos autos, procedimento vedado na via dos apelos excepcionais.
+2. Nos termos do artigo 105, inciso III, da Constituição Federal, o Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, seja pelo permissivo da alínea "a", seja pelo permissivo da alínea "c", o revolvimento de todos os fatos da causa e do processo, à moda de recurso ordinário ou de apelação. Óbice do enunciado 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento(AgRg no AREsp 1156800/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, grifei)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
