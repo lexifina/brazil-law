@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração de fls. 87-89 opostos pela UNIÃO contra decisão monocrática que julgou extinta a execução. Outrossim, o decisum embargado deixou de condenar o exequente, ora embargado, ao pagamento de honorários advocatícios sucumbenciais em vista da regra contida no art. 85, § 7º, do CPC.
+A embargante alega que: (a) há contradição no julgado, tendo em vista que o exequente não foi condenado em honorários sucumbenciais por aplicação do art. 85, § 7º, do CPC; e (b) "a dicção da letra da lei é clara em assentar a inexistência de condenação em honorários contra a Fazenda Pública e desde que não tenha sido impugnada".
+Requer sejam acolhidos os embargos.
+Intimada para eventual manifestação, a parte embargada pugnou pela rejeição dos embargos, aduzindo que a decisão embargada "não carrega consigo as máculas da obscuridade, contradição ou omissão, por isso, não são cabíveis os presentes embargos de declaração".
+É o relatório. Decido.
+Considerandoque a presente execução foi extinta por inexigibilidade do título judicial, a UNIÃO sustenta serem devidos os honorários sucumbenciais em seu favor, pugnando pela condenação do exequente ao pagamento dessa verba no percentual de 20% (vinte por cento) sobre o valor executado.
+Contudo, não há a contradição apontada. Intimada nos termos do art. 535 do CPC, conforme despacho de fl. 28, a UNIÃO não opôs formalmente impugnação à execução. De início, ela não se opôs à expedição do precatório pelo valor nominal da portaria de anistia (fls. 31-32), embora tenha noticiado, posteriormente, a anulação desta na esfera administrativa.
+Assim, plenamente incidente ao caso em análise a regra constante do art. 85, § 7º, do CPC, segundo a qual "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada".
+Em que pese a invalidação do ato anistiador, o ente público, de certa forma, deu causa à propositura do feito executivo, visto que à época o exequente detinha em seu favor um título judicial transitado em julgado. Proposta a execução em 28/3/2019 (fls. 1-23), a notícia acerca da anulação foi dada apenas em 22/2/2021 (fls. 67-71).
+Assim, não ocorrentes os vícios elencados no art. 1.022 do CPC, não merecem acolhida os aclaratórios opostos.
+À toda evidência, os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do que restou julgado. Nesse sentido: "Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum" (EDcl no AgInt no AREsp 1533637/AP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/03/2020, DJe 17/03/2020).
+Nesse contexto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
