@@ -1,0 +1,19 @@
+Autos n. 1007517-58.2020.8.11.0001
+Vistos etc.
+Como é público e notório, por estar disponibilizada para consulta na internet, no site do Tribunal de Justiça de Mato Grosso, sistema PJe, o relator do Incidente de Resolução de Demandas Repetitivas – IRDR, Des. Luiz Carlos da Costa, suscitado pelo Estado de Mato Grosso, nos autos PJe n. 1002789-40.2021.8.11.0000, em decisão colegiada proferida em 15/04/2021, disponibilizada em 23/04/2021, ADMITIU o processamento do IRDR- Tema 4, sendo fixada a seguinte tese jurídica: “estabelecer se os professores do ensino público fazem jus ao recebimento do adicional de um terço (1/3) sobre quarenta e cinco (45) dias de férias, desde que previsto em lei”.
+Eis a ementa do IRDR:
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS — PAGAMENTO DO ADICIONAL DE UM TERÇO INCIDENTE SOBRE QUARENTA E CINCO DIAS DE FÉRIAS DOS PROFESSORES DO ENSINO PÚBLICO — PRESENÇA DOS PRESSUPOSTOS DE ADMISSIBILIDADE — ARTIGO 976, I, II E § 4o, DO CÓDIGO DE PROCESSO CIVIL — CONSTATAÇÃO.
+Presente a divergência, na Primeira Instância e nos Juizados Especiais, acerca da questão do pagamento do adicional de um terço incidente sobre quarenta e cinco dias de férias dos professores do ensino público, bem como a efetiva repetição de demandas sobre o tema, admite-se o Incidente de Resolução de Demandas Repetitivas com a finalidade de afastar o risco de ofensa à isonomia e à segurança jurídica.
+Incidente de Resolução de Demandas Repetitivas admitido.
+Cumpre ressaltar que na decisão que admitiu o processamento do IRDR, cuja ementa está acima transcrita, constou as seguintes providências a serem adotadas:
+“Essas, as razões por que voto no sentido de admitir o processamento do Incidente de Resolução de Demandas Repetitivas e determinar as seguintes providências:
+i) fixar como objeto da tese jurídica: estabelecer se os professores do ensino público fazem jus ao recebimento do adicional de um terço (1/3) sobre quarenta e cinco (45) dias de férias, desde que previsto em lei;
+ii) a suspensão dos processos individuais e coletivos que tramitam no Estado de Mato Grosso e versam sobre o tema deste incidente (artigos 982, I, do Código de Processo Civil e 181-H, I, do Regimento Interno do Tribunal de Justiça do Estado de Mato Grosso – RITJ/MT); (grifei)
+iii) o apensamento da apelação no 1036189-24.2018.811.0041 a estes autos;
+iv) a publicação da suspensão, por três vezes consecutivas, no Diário da Justiça Eletrônico, bem como a comunicação dos órgãos de Primeiro e Segundo Graus, preferencialmente por meio eletrônico (artigo 181-H, § 1o, do Regimento Interno do Tribunal de Justiça do Estado de Mato Grosso – RITJ/MT);
+v) comunicar à Desembargadora Vice-Presidente e ao Núcleo de Gerenciamento de Precedentes – NUGEP acerca da admissão deste incidente e da determinação de suspensão; e
+vi) a intimação das partes, da Ordem dos Advogados do Brasil – Seccional Mato Grosso, da Defensoria Pública do Estado de Mato Grosso, dos sindicatos dos professores no ensino público com atuação no território mato-grossense, bem como dos demais interessados na controvérsia, acerca da admissão do presente incidente, que, no prazo comum de quinze (15) dias, poderão requerer a juntada de documentos, assim como as diligências necessárias para a elucidação da questão de direito controvertida. Em seguida, em igual prazo ao Ministério Público do Estado de Mato Grosso (artigos 983, cabeça, do Código de Processo Civil e 181-H, II e III, do Regimento Interno do Tribunal de Justiça do Estado de Mato Grosso – RITJ/MT)”.
+Ante o exposto, em face da decisão proferida no IRDR –Tema n. 4 do Tribunal de Justiça de Mato Grosso, retiro este recurso da pauta de julgamento do dia 27/04/2021 e suspendo o curso deste recurso inominado até o julgamento do referido IRDR.
+Intimem-se. Cumpra-se.
+Valmir Alaércio dos Santos
+Juiz de Direito - Relator
