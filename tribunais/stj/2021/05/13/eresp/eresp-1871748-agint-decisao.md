@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno formalizado pela Fazenda Nacionalcontradecisão de e-STJ, fls. 427-428, por meio da qual se deu provimento ao recurso especial interposto pela empresa interessada.
+Na minuta do agravo, a parte agravante busca a reconsideração da decisão, de forma a manter a conclusão do aresto impugnado, pois "asmudanças promovidas pelo Plano Real, com alicerce no princípio do nominalismo da moeda, levaram a que tudo aquilo que acresce ao patrimônio pode validamente integrar a base de cálculo do IRPJ e da CSLL" (e-STJ, 435), uma vez que tais medidas puseram fim ao lucro inflacionário.
+Houve apresentação de contraminuta.
+É o relatório.
+Consideradas as razões lançadas na minuta de agravo interno, afasto o pronunciamento anterior e passo à nova análise do recurso especial.
+Trata-se de recurso especial interposto por Mecasul Auto Mecânica S. A., com amparo na alínea ado permissivo constitucional, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 271):
+TRIBUTÁRIO. IRPJ E CSLL. BASE DE CÁLCULO. RENDIMENTOS DE APLICAÇÕES FINANCEIRAS.
+Afastar a inflação alegadamente embutida nos rendimentos de aplicações financeiras da incidência do IRPJ e da CSLL, vai de encontro ao nominalismo fiscal que norteia o sistema nacional de tributação da pessoa jurídica, em nosso país.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a recorrente alega ofensa aos arts. 21 do Decreto-Lei n. 4.657/1942; 57, c e d, 76, § 2º, b, 397, c, da Lei n. 8.891/1995; 4º da Lei n. 9.245/1995; 1º e 2º da Lei n. 7.689/1988; 1º; 2º do Decreto n. 3.088/1999; 210, § 1º, 218, 219 e 397 do Decreto n. 9.580/2018; 1º, 11, 375, 489, II, § 1º, III, IV e VI, 926, 927 e 1.022, I, II, parágrafo único, II, do CPC/2015; 43, 44 e 110 do CTN; 5º, XXXIV, a, XXXV, LIV, LV, 37,caput; 59, II, VI e VII, 69, 93, IX, 145, I, § 1º, 146, III, a, 153, III, IV, 192, 195, I, c, da CF/1988.
+Busca, em suma, afastar a exigibilidade do IRPJ e CSLL sobre os valores originários de correção monetária (inflação ocorrida no período), que estão incluídos nos rendimentos decorrentes das suas aplicações financeiras, assegurando-se, ainda, o direito à compensação dos valores recolhidos.
+Contrarrazões recursais apresentadas (STJ, fls. 378-383).
+Admitido o recurso especial na origem (e-STJ, fl. 392), subiram os autos a esta Corte.
+Consta dos autos que a requerente alega, no presente especial, afronta ao art. 1.022, I e II, do CPC.
+No entanto, a análise do apelo extremo, nessa parte, denota que a interessada não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão impugnado, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação o não permitir a exata compreensão da controvérsia".
+Quanto ao mais, o entendimento deste Tribunal Superior está sedimentado no sentido de que incide Imposto de Renda Pessoa Jurídica (IRPJ) e Contribuição Social sobre o Lucro Líquido (CSLL) sobre a rendimentos de operações financeiras, ainda que provenientes de diferença de correção monetária (inflação).
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA.APLICAÇÕES FINANCEIRAS. RENDIMENTOS. IMPOSTO DE RENDA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INCIDÊNCIAS LEGÍTIMAS. ACRÉSCIMO DE VALOR NOMINAL DA MOEDA.
+1. Segundo o entendimento majoritário do STJ sobre o tema, é legítima a incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que constituam variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda.
+2. Ademais, a atualização monetária supõe a existência de capital,portanto, aquela é acessória e este é principal, nos termos do art.92 do Código Civil. Nessa toada, o capital atualizado consubstancia a capacidade contributiva que legitima a tributação. Portanto, não há como cindir a incidência do imposto, visto que o acessório segue o principal.
+3. Outrossim, percebe-se que a hipótese aventada pela parte recorrente, se implementada, significaria a incidência do imposto sobre o capital diminuído, original, não recomposto, muito embora seu poder de compra esteja mantido. Precedentes do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.886.199/RS, Rel. Min.HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÃO FINANCEIRA. AUMENTO DO LUCRO REAL. INCIDÊNCIA DAS EXAÇÕES. LEI 8.981/1995. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A parte recorrente não indicou, em suas razões recursais, quais seriam os dispositivos de Lei Federal de interpretação controvertida nos Tribunais, providência exigida por esta Corte Superior para o conhecimento dos Recursos Especiais interpostos tanto com fundamento na alínea a quanto na alínea c do art. 105, III da CF/1988. Incide ao caso, assim, a Súmula 284/STF.
+2. O acórdão impugnado encontra apoio na jurisprudência dominante nesta Corte Superior de que é legítima a incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda. Precedentes: AgInt no REsp. 1.446.072/SP, Rel. Min. BENEDITO GONÇALVES, DJe 26.9.2018; AgInt no REsp. 1.458.810/SP, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2016; REsp. 842.831/DF, Rel. Min. LUIZ FUX, DJe 6.10.2008.
+3. Agravo Interno do Contribuinte a que se nega provimento.
+(AgInt no REsp 1.581.332/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 8/10/2020).
+Corroborando com esse entendimento, vale conferir as recentes decisões monocráticas: REsp 1.907.742/RS, Rel. Min. Herman Benjamin, DJe 18/12/2020; REsp 1.899.902/RS, Rel. Min. Gurgel de Faria, DJe 17/12/2020; REsp 1.905.845/SC, Rel. Min. Herman Benjamin, DJe 17/12/2020; REsp 1.906.695/RS, Rel. Min. Sérgio Kukina, DJe 3/12/2020; REsp 1.891.889/RS; Rel. Min. Assusete Magalhães, DJe 1º/12/2020.
+Dessa forma, o entendimento fixado pelo Tribunal a quo encontra-se em consonância com a compreensão formada por esta Corte Superior.
+Ante o exposto, afastoa decisão de e-STJ, fls. 427-429, e,com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
