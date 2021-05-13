@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por MARIA ISABEL CISILOTTO BERTONCELLO,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática doMinistro Relator, assim ementada(e-STJ fls. 327-509):
+RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. LOCAÇÃO COMERCIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DO ÚNICO IMÓVEL DO FIADOR. BEM DE FAMÍLIA. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+A recorrente sustenta que o recurso extraordinário tem repercussão geral e merece ser alçado ao STF, pois os pressupostos exigidos para sua admissão encontram-se preenchidos.
+Alega que houve violação direta à Constituição Federal, consubstanciada na ofensa ao seu art. 5º, incisos XXII e XXIII.
+Aduz queo decisumcombatido violou os princípios constitucionaisdo direito de propriedade e da função social da propriedade.
+Assevera que "ao se permitir que o único bem do fiador seja penhorado para adimplir pacto de fiança, não obstante tenha assumido o compromisso de pagar a locação em casos de inadimplemento do locatário, representa despojar o fiador de sua própria moradia" (e-STJ fl. 524).
+Requer, ao final, a admissão do recurso e a sua remessa ao Supremo Tribunal Federal.
+Foram apresentadas as contrarrazões (e-STJ fls. 537-553).
+É o relatório.
+Nos termos do art. 102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmula do Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
