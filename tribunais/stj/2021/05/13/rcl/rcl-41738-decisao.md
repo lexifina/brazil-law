@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de reclamação ajuizada porREINAN PAGANINI PEREIRA contra decisão do Tribunal de Justiça do Estado de São Paulo que não conheceu do HC n. 2136957-13.2019.8.26.0000, ao argumento de que o paciente já teve impetrado em seu favor um novo habeas corpus, em que pleiteou o mesmo pedido deaplicação da minorante prevista no art. 33, § 4º da Lei de Drogas, do qual não foi conhecido por inadequação da via eleita e supressão de instância.
+Na presente reclamação, oreclamantealegaque o TJSP está descumprindo aordem concedida pelo STJ no HC n. 41.738/SP, em que se determinou quefossemanalisadasas questões deduzidas no HC n.2136957-13.2019.8.26.0000.
+Aduzqueohabeas corpusobjeto da decisão do STJ que se alega descumprida foi impetrado contra acórdão proferido pelo TJSP no citado HC n. 2136957-13.2019.8.26.0000, que impugnava a sentença proferida na Ação Penal n. 0001711-88.2017.8.26.0246 pelo Juízo da 2ª Vara Criminal de Ilha Solteira/SP. Por sua vez, ohabeas corpus jáapreciado pelo TJSP é o de n. 2001744-64.2021.8.26.0000, quecombatia decisão do Juízo de Direito do DEECRIM da 2ª RAJ de Araçatuba/SP, nos autos da execução penal n. 0003563-66.2019.8.26.0509.
+Diante disso, "requer liminarmente seja cassada a decisão que novamente negou seguimento ao HC n.2136957-13.2019.8.26.0000,determinando ao Tribunal reclamado que analise o pedido defensivo, sobre a possibilidade de alteração do regime inicial de cumprimento de pena e aplicação do redutor do §4º, do art.33, da Lei 11.343/06e, ao final, seja concedida a ordem em definitivo convalidando-se a liminar. Caso não obedecida a ordem, requer, desde já, seja concedida a ordem de ofício por esta Corte Superior" (e-STJ fl. 8).
+É o relatório.
+Decido.
+Da análise dos autos, emcognição sumária, não verifico manifesta ilegalidade a ensejar o deferimento da medida de urgência, uma vez que a alegada violação da autoridade de decisão desta Corte não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações ao Tribunal de Justiça de São Paulo, notadamente para que esclareça se foi interposto novohabeas corpus em favor do ora reclamantecontra a sentença proferida nos autos da Ação Penal n. 0001711-88.2017.8.26.0246 em trâmite na 2ª Vara Criminal de Ilha Solteira/SP.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
