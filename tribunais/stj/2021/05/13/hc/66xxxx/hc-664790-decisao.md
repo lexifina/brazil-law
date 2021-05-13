@@ -1,0 +1,13 @@
+DECISÃO
+ANILCE PINHEIRO ALVES alega sofrer coação ilegal ante acórdão prolatado pelo Tribunal Regional Federal da 3ª Região na Apelação n.002329-91.2008.4.03.6108.
+Extrai-se dos autos que, contra o acórdão acima mencionado, a defesa impetrou habeas corpus perante a Corte de origem, que, por meio de decisão monocrática do Desembargador relator, declarou sua incompetência absoluta para o julgamento do pleito e determinou o encaminhamento do writao STJ.
+Neste mandamus, substitutivo de revisão criminal, o impetrante alega ser atípica a conduta quanto ao medicamento Pramil, pois ele não está listado na Portaria SVS/MS 344/98 e, portanto, sua comercialização não é proibida. Sustenta ser inconstitucional a pena do art. 273, § 1º-B, do CP e entende não haver fundamentação idônea para o estabelecimento da pena-base acima do mínimo legal. Sustenta ser a acusada primária, tembons antecedentes e não se dedica a atividades criminosas. Entende fazer a paciente jus à prisão domiciliar tendo em vista a pandemia pelo coronavírus e o fato de possuir filha menor de 12 anos.
+Requer, em liminar, a expedição de contramandado de prisão. No mérito, pleiteia a declaração da atipicidade da conduta em relação ao medicamento Pramil e a redução da dosimetria, bem como a fixação do regime aberto para o cumprimento da penal. Subsidiariamente, pede o reconhecimento da minorante do § 4º do art. 33 da Lei n. 11.343/2006 e o envio dos autos ao Parquet para elaboração de acordo de não persecução penal.
+Decido.
+Cabe destacar, inicialmente, que, conforme informado pela defesa, a paciente está em liberdade.
+Dito isso, ressalto que, em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico a anterior impetração do HC n. 620.547/SP, com mesmas partes, bem como pedidos e causa de pedir idênticos, o que demonstra ser este writmera reiteração de pedido do habeas corpus anterior e impede seu conhecimento.
+Registro que o pleito de urgência feito na impetração mencionada foi por mim examinado e indeferido. Na ocasião, asseverei que a paciente está em liberdade e que o acórdão transitou em julgado em 27/11/2017. Assentei a necessidade de se averiguar se houve eventual ajuizamento de ação revisional ou de algum recurso para discussão de matérias idênticas e que a análise das demais alegações se confundia com o mérito.
+O feito referido já conta com as informações solicitadas e com o parecer do Ministério Público Federal, de modo que seu julgamentoestá próximo.
+Dessa forma, não se pode processar este mandamus, por consubstanciar mera reiteração de pedido.
+À vista do exposto, dada a reiteração de pedido, já constante em impetração anterior, não conheço deste habeas corpus.
+Publique-se e intimem-se.
