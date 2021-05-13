@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 256):
+Acidentária LER em membros superiores Incapacidade laborativa parcial e permanente e nexo causal caracterizados Auxílio-Acidente devido Procedência mantida.Dou parcial provimento aos recursos oficial e do INSS.
+O recorrente sustenta, além de divergência jurisprudencial, ofensa aos artigos 23 e86, da Lei n. 8.213/1991 e 397 do Código Civil, na medida em que o termo inicial do benefício deve ser fixado na data de entrada do requerimento administrativo, não na data da juntada do laudo pericial, como firmou o acórdão local.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 283.
+É o relatório. Passo a decidir.
+A Corte de origem divergiu da compreensão do entendimento pacificado nesta Corte, segundo o qual somente na ausência de prévio requerimento administrativo é que o benefício deve ser concedido a partir da citação, sendo que o laudo pericial serve, tão somente, para nortear o convencimento do Juízo quando à existência do pressuposto da incapacidade para a concessão do benefício.
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO POR INCAPACIDADE. AUXÍLIO-DOENÇA. O LAUDO PERICIAL NÃO PODE SER UTILIZADO PARA FIXAR O MARCO INICIAL DA AQUISIÇÃO DE DIREITO A BENEFÍCIOS PREVIDENCIÁRIOS DECORRENTES DE MOLÉSTIA INCAPACITANTE. TERMO INICIAL: DATA DA CITAÇÃO NA AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. RECURSO ESPECIAL DO SEGURADO PROVIDO.
+1. O benefício de auxílio-doença, concedido judicialmente, deve ser concedido a partir da data do requerimento administrativo e, na sua ausência, na data da citação válida da Autarquia.
+2. É firme a orientação desta Corte de que o laudo pericial não pode ser utilizado como parâmetro para fixar o termo inicial de aquisição de direitos, servindo, tão somente, para nortear o convencimento do Juízo quando à existência do pressuposto da incapacidade para a concessão do benefício.
+3. Recurso Especial do Segurado provido para fixar o termo inicial do benefício na data do requerimento administrativo (REsp 1475373/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2018, grifei).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. TERMO INICIAL DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO. DATA DO REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO PACÍFICO DO STJ. ART. 103 DA LEI 8.213/91. PRESCRIÇÃO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. FALTA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF.
+1. É assente o entendimento do STJ no sentido de que, na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido, sendo irrelevante que tenha a comprovação da implementação dos requisitos se verificado apenas em âmbito judicial.
+2. "Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial." (REsp 1.411.921/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2013, DJe 25/10/2013).
+3. O Tribunal de origem não se manifestou sobre a alegação de que "..caso mantida a r. decisão agravada, esta deve ser complementada, a fim de declarar a prescrição das parcelas vencidas anteriormente ao qüinqüênio que antecede o ajuizamento da vertente ação, em atendimento aos artigos 103, parágrafo único, da Lei nº 8.213/91 e 193 do Código Civil." (fl. 246), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1601268/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 30/6/2016, grifei).
+Ante o exposto, dou provimento ao recurso especial para determinar que o benefício concedido tenha como termo inicial a data do requerimento administrativo, respeitada a prescrição quinquenal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TERMO INICIAL DO BENEFÍCIO. DATA DO REQUERIMENTO ADMINISTRATIVO E NÃO DATA DO LAUDO PERICIAL. ACÓRDÃO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. RECURSO PROVIDO.
