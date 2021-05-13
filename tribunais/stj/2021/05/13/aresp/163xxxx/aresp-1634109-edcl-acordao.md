@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da intempestividade do apelo nobre.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. É vedado o exame de inovação recursal no recurso especial ou no agravo interno diante da preclusão consumativa.
+6. Embargos de declaração rejeitados, com imposição de multa.
+RELATÓRIO
+CONDOMÍNIO RESIDENCIAL ANGRA DOS REIS (CONDOMÍNIO) promoveu ação de obrigação de fazer cumulada com indenização contra BR ENGENHARIA E CONSULTORIA LTDA. e JOÃO VICENTE REIS (BR e outro), sob a alegação de que houve a contratação para realização de obras em imóvel, sendo que após a conclusão começaram a surgir problemas que ensejam a responsabilidade da BR e outro.
+Em primeira instância, o pedido foi julgado procedente para condenar, solidariamente, ao pagamento da quantia de R$ 210.000,00 (duzentos e dez mil reais)  e-STJ, fls. 349/353 .
+A apelação interposta por BR e outro não foi provida pelo Tribunal de Justiça de Goiás, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO. DEFEITOS E PROBLEMAS DECORRENTES DE OBRAS DE RESPONSABILIDADE DOS REQUERIDOS. LAUDO TÉCNICO CONCLUSIVO. PROVA PRODUZIDA EM AÇÃO CAUTELAR DE PRODUÇÃO ANTECIPADA. PRECLUSÃO. FALHAS COMPROVADAS. III. INSURGENTES QUE NÃO CUIDARAM DE, NO MOMENTO ADEQUADO, PRODUZIR PROVAS NECESSÁRIAS NO AMPARO DAS SUAS ASSERTIVAS. IV. RECURSO TOTALMENTE IMPROVIDO. MAJORAÇÃO DA VERBA HONORÁRIA. DISPOSIÇÕES DO § 11 DO ARTIGO 85 DO DIGESTO PROCESSUAL CIVIL. inviável a pretensão dos recorrentes de imputar nulidade à prova pericial regularmente produzida em sede de ação cautelar de produção, submetida a crivo do contraditório do qual ativamente participaram, resultando em teses subsumidas à preclusão. II. Evidenciado do conjunto probatório que os problemas constatados no imóvel decorreram da utilização de técnica inadequada na realização da obra, violando normas, aplicáveis e falta de qualidade da mão-de-obra utilizada. III. Incumbe aos recorrentes o ônus de provar os fatos alegados e, não se desincumbindo desse munus, no juízo a quo ou nesta instância recursal, não merece acolhida, a sua pretensão de modificação do ato sentenciai. IV. Desprovido, de forma integral o apelo, aplicável in casu a majoração dos honorários de advogado neste juízo ad quem, como determina o § 11 do artigo 85 do Digesto Processual Civil. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA (e-STJ, fl. 494 - com destaques no original).
+Os embargos de declaração opostos por BR e outro foram rejeitados (e-STJ, fls. 522/523).
+Inconformados, BR e outro interpuseram recurso especial, com amparo no art. 105, III, a e c, da CF, alegando violação dos arts. 5º, LV, da CF, 369, 385, 473, 474 e 480 do NCPC, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude (1) de que o recurso especial não é próprio para apreciação de ofensa a dispositivo constitucional por ser matéria de competência do STF; (2) da incidência da Súmula nº 7 do STJ; e (3) da não demonstração da divergência jurisprudencial.
+Seguiu-se agravo em recurso especial que, por decisão monocrática do Ministro Presidente do STJ, não foi conhecido, com fulcro no art. 21-E, inciso V, do Regimento Interno do STJ, em virtude da sua intempestividade.
+Ainda inconformado, BR e outro manejaram agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o posicionamento jurisprudencial de que o Dia do Servidor Público não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal local, o que não ocorreu na hipótese.
+4. Agravo interno não provido (e-STJ, fls. 660/661 - com destaque no original).
+Nas razões dos presentes embargos de declaração, BR e outroalegaram (1) a necessidade de intimação para sanar o vício no prazo de 5 (cinco) dias, nos termos do art. 1.003 do NCPC; (2) a necessidade de requerimento ao TJ/GO para informações, nos termos do art. 1.038, III, do NCPC; e(3) a possibilidade de comprovação posterior de feriado local.
+Não houve impugnação ao recurso (e-STJ, fl. 696).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da intempestividade do apelo nobre.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. É vedado o exame de inovação recursal no recurso especial ou no agravo interno diante da preclusão consumativa.
+6. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso ou contraditório,tampouco apresentou erro material, tendo concluído que o agravo em recurso especial foi interposto intempestivamente.
+Ficou explicitado que o art. 1.003, § 6º, do NCPC não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso.
+Salientou-se, que a decisão de inadmissibilidade foi publicada aos 22/10/2019 (segunda-feira - e/STJ, fl. 623).
+Destacou-seque, como o prazo recursal para a interposição do agravo em recurso especial se iniciou aos 23/10/2019 (terça-feira), com término aos 12/11/2019 (terça-feira), e sua interposição só se deu aos 13/11/2019 (quarta-feira - e/STJ, fl. 597), deve ser reconhecida sua intempestividade, já que interposto fora do prazo de 15 dias úteis, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC.
+Assentou-se, ainda, ser necessária a demonstração da ocorrência de feriados locais, no momento oportuno, por documento idôneo, o que não ocorreu.
+Ressaltou-se, que esta Corte adota o posicionamento jurisprudencial de que o Dia do Servidor Público não é feriado nacional, sendo dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese no momento adequado.
+Observou-seque se impõe evidenciar que a existência de recesso forense e a suspensão de prazos processuais nos Tribunais não se presumem públicase notórias em âmbito nacional.
+Ademais, não é cabível a inovação recursal, o que ocorre na espécie quanto a alegação da necessidade de intimação para sanar o vício no prazo de 5 (cinco) dias, nos termos do art. 1.003 do NCPC e da necessidade de requerimento ao TJ/GO para informações, nos termos do art. 1.038, III, do NCPC.
+A propósito, confira-se oseguinteprecedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. INOVAÇÃO RECURSAL. PRECLUSÃO. CONTESTAÇÃO INTEMPESTIVA. ANDAMENTO PROCESSUAL ELETRÔNICO. FALHA. JUSTA CAUSA. DEMONSTRAÇÃO. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+3. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que as informações acerca de processos disponibilizadas em página eletrônica de tribunal possuem caráter informativo, e não oficial, de forma que a justa causa, para fins de renovação de prazo processual, apenas pode se dar quando os erros ou omissões nessas comunicações suscitarem dúvida razoável no causídico, mesmo porque é seu dever zelar pelo andamento processual, diligenciando para a correta contagem de prazos.
+4. Agravo interno não provido.
+(AgInt no REsp 1.501.018/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/3/2021, DJe 12/3/2021)
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificados o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno BR e outro, proporcionalmente, ao pagamento da multa de 2% sobre o valor atualizado da causaem favor do CONDOMÍNIO, nos termos do art. 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbenciais, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
