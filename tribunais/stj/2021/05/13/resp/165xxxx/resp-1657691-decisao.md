@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Diamante Indústria de Cal Ltda. e outra,com amparo na alínea "a"do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 689):
+TRIBUTÁRIO. JUÍZO DE RETRATAÇÃO. TEMA 844 DO STF. CRÉDITO DE IPI. AQUISIÇÃO DE MATÉRIA-PRIMA, PRODUTOINTERMEDIÁRIO E MATERIAL DE EMBALAGEM APLICADOS NAINDUSTRIALIZAÇÃO DE PRODUTO IMUNE OU NÃO TRIBUTADO. IMPOSSIBILIDADE.
+1. Adoção da Tese referente ao Tema 844 do Supremo Tribunal Federal: O princípio da não cumulatividade não assegura direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados, isentos ou sujeitos à alíquota zero.
+2. Não havendo a decisão retratada autorizado o creditamento de IPI pretendido pelo contribuinte, uma vez que a hipótese dos autos é a de fabricação de produto imune ou não tributado, tem-se que não há dissenso entre esta e as conclusões atinentes ao Tema 844 do Supremo Tribunal Federal.
+3. Incabimento de reforma das conclusões desta Turma, em sede de juízo de retratação, confirmando-se a decisão deste Colegiado da assentada anterior com a respectiva devolução dos autos à Vice-Presidência.
+Os embargos de declaração opostos contra referida decisão foram rejeitados.
+A parte insurgente afirma "violação ao art. 4º, da IN/SRF nº 33/1999; aos arts. 21 e 23, da IN/RFB nº 900/2008; ao art. 46, parágrafo único, da Lei nº 5.172/66 e ao artigo 3º, parágrafo único, da Lei nº 4.502/64; ao § 4º, do art. 39, da Lei nº 9.250/1995; aos arts. 4º, 18, 207, 208, 209, ao § 2º, do art. 195 e ao art. 193 todos do RIPI - Decreto nº 4.544/2002 (antigo) e ao art. 254, § 2º do art. 256, 268, 269 do Decreto 7.212/2010 - RIPI novo e art. 535 do CPC" (e-STJ, fl. 742).
+Requer, em suma, o reconhecimento do direito de creditamentode IPI, "disposto no § 2º, do art. 195, do Decreto 4.544/2002 (vigente até 15-06-2010) e art. 4º, da IN/SRF nº 33/1999, referente às entradas de insumos em seus estabelecimentos anteriores a data de 15-06-2010, tributados pelo referido imposto, utilizados no processo produtivo de minerais (imunes), que é o caso dos produtos industrializados pelas Recorrentes" (e-STJ, fl. 773).
+Foram apresentadas contrarrazões.
+Admitido o apelo extremo na origem, os autos vieram-me conclusos.
+É o relatório.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por contrariados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica.
+A tal respeito, destaco que " ..  esta Corte Superior de Justiça já consignou que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREsp 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015)" (AgInt no AREsp 1.558.460/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 11/3/2020).
+Da mesma forma, "a citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade à lei federal, já que impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto  .. " (AgInt no REsp 1.810.695/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 26/11/2019, DJe 29/11/2019).
+Além disso, "as razões do especial devem exprimir, com transparência e objetividade, os motivos pelos quais o insurgente visa reformar o decisum . O recurso deve, além de indicar os dispositivos ditos violados, demonstrar o modo como o foram" (AgInt no AgInt no AREsp 1.077.674/DF, de minha relatoria, Segunda Turma, DJe 14/5/2019).
+Levando em conta que a parte recorrente limitou-se a tecer considerações sobre os temas e as teses versadas no processo, citando diversos dispositivos legais, sem demonstrar de maneira objetiva e adequada como foram violados, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos do verbete 284 da Súmula do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+A ausência de indicação, associada às razões pelas quais assim entende a parte, do dispositivo legal tido por violado atrai o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Agravo interno a que se nega provimento.
+(AgInt no AREsp 569.569/SP, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/6/2019, DJe 27/6/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço do recurso especial.
+Publique-se. Intimem-se.
