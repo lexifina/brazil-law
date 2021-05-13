@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THIAGO DE SOUZA MACIEL, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Agravo de Execução Penal n. 0188261-77.2019.8.19.0001)assim ementado (fls. 81-82):
+AGRAVO EM EXECUÇÃO PENAL. RECURSO MINISTERIAL. INSURGÊNCIA CONTRA A DECISÃO QUE CONCEDEU AO AGRAVADO A PROGRESSÃO PARA O REGIME ABERTO E DETERMINOU O CUMPRIMENTO DA PENA NA MODALIDADE PAD (PRISÃO EM ALBERGUE DOMICILIAR), COM MONITORAMENTO ELETRÔNICO, SEM A PRÉVIA OITIVA DO "PARQUET". AUSÊNCIA DE JUNTADA DE COMPROVANTE DE DOMICÍLIO IDÔNEO PELO APENADO. INOBSERVÂNCIA DOS REQUISITOS PREVISTOS NO ART. 117 DA LEP. INSURGÊNCIA MINISTERIAL QUE MERECE PROSPERAR. OS ARTIGOS 67 E 112, § 2º, DA LEI DE EXECUÇÕES PENAIS DETERMINAM A INTERVENÇÃO OBRIGATÓRIA DO MINISTÉRIO PÚBLICO EM TODOS OS ATOS REFERENTES À EXECUÇÃO DA PENA. NULIDADE DA DECISÃO QUE SE RECONHECE. ADEMAIS, VERIFICA-SE A INEXISTÊNCIADE DOCUMENTO IDÔNEO DE COMPROVAÇÃO DA RESIDÊNCIA DO APENADO E A FALTA DE FUNDAMENTAÇÃO CONCRETA ACERCA DA INDISPONIBILIDADE CARCERÁRIA PELO JUÍZO "A QUO", O QUE OBSTACULIZA O DEFERIMENTO DE PAD. MERAS ILAÇÕES, SEM A FUNDAMENTAÇÃO CONCRETA, NÃO AUTORIZAM, POR SI SÓ, A CONCESSÃO DA PAD. O NÃO PREENCHIMENTO, PELO AGRAVADO, DOS REQUISITOS ELENCADOS NO ARTIGO 117 DA LEP E A FALTA DE INDICAÇÃO CONCRETA DA SUPERLOTAÇÃO OU DA FALTA DE ESTABELECIMENTO PENAL ADEQUADO, NA FORMA DO ART. 95 DO MESMO DIPLOMA, IMPEDEM A CONCESSÃO DO BENEFÍCIO. RECURSO MINISTERIAL A QUE SE DÁ PROVIMENTO.
+A impetrante aponta constrangimento ilegal,pois o acórdão declara que a decisão de primeiro grau é nula por ausência de prévia oitiva do Ministério Público, mas decide o mérito da questão em vez de baixar os autos para que, na origem, a matéria seja novamente apreciadaapós a manifestação ministerial.
+Requer, liminarmente e no mérito, o restabelecimento do regime aberto para ser cumprido em prisão domiciliar com monitoramento eletrônico.
+O pedido de liminar foi indeferido (fls. 99-100).
+Prestadas as informações pelo Tribunal a quo (fls. 107-112), o Ministério Público Federal opinou pela concessão parcial da ordem (fls. 114-117).
+Foram prestadas informações pelo Juízo da Vara de Execuções Penais do Rio de Janeiro (RJ) (fls. 125-128).
+É o relatório. Decido.
+O Juízo da Vara de Execuções Penais do Rio de Janeiro informou que foi julgada extinta a punibilidade do paciente, nos termos do art. 107, I, do Código Penal (fl. 126).
+Considerando a nova realidade fático-processual, evidencia-se a prejudicialidade do pedido formulado, tendo em vista a perda superveniente de objeto, de modo que não há mais o que decidir nestes autos.
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
