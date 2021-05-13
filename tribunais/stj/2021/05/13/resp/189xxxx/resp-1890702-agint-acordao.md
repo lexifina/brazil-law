@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO MANEJADO NA VIGÊNCIA DO NCPC. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/73. RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE JUNTADA DECOMPROVANTE LEGÍVEL DE RECOLHIMENTO DAS CUSTAS PROCESSUAIS. ART. 511, CAPUT, CPC/73.SÚMULA Nº 187 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o CPC/1973 ao recurso especial interposto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. O recurso especial foi interposto com a juntada do comprovante de pagamento ilegível.
+3. É pacífico o entendimento do Superior Tribunal de Justiça de que juntada de comprovante de preparo ilegível resulta na deserção do recurso especial e atrai o Enunciado da Súmula nº187 do STJ.
+4. O entendimento desta Corte orienta-se no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal local, de modo que é insuficiente a mera afirmação da parte recorrente.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar oconteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta de agravo de instrumento que deu origem ao presente recurso, pode-se aferir queFILOMENA PAMPUCHE (FILOMENA) ajuizou ação de adimplemento contratual cumulada com indenização por perdas e danos contra OI S.A. - EM RECUPERAÇÃO JUDICIAL (OI).
+No curso da ação, já na fase de cumprimento de sentença,o d. Juízo de primeiro grau determinou à empresa a apresentação do contrato de participação financeira firmado com FILOMENA.
+Contra essadecisão interlocutória, OI manejou agravo de instrumento sustentando a a) inépcia da petição inicial, ante a ausência de documento indispensável à propositura da ação; b) ausência de interesse de agir, devido àfalta de requerimento administrativo, acompanhado da prova do pagamento da taxa de serviço; c) inexistência daprova derelação jurídica entre as partes e a impossibilidade de inversão do ônus da prova; e d) inaplicabilidade do art. 359 do CPC.
+O Tribunal de Justiça do Paraná negou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BRASIL TELECOM S.A. AÇÃO REVISIONAL DE REDISTRIBUIÇÃO ACIONÁRIA.EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. 1) FALTA DE INTERESSE DE AGIR. NÃO OCORRÊNCIA. INAPLICABILIDADE DA SÚMULA 389 DO STJ. INTELIGÊNCIA DO ART. 5.º, XXXV, DA CF. 2) INÉPCIA DA PETIÇÃO INICIAL.INEXISTÊNCIA. PROVA DA TITULARIDADE DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA.DEVER DE EXIBIÇÃO DE DOCUMENTOS PELA BRASIL TELECOM. AFRONTA AO ART. 333, I, DO CPC. NÃO OCORRÊNCIA. APLICAÇÃO DO ART. 6.º, III E VIII, DO CDC E DOS ARTS. 355 E 359 DO CPC. TEORIA DA CARGA DINÂMICA DO ÔNUS DA PROVA. ENUNCIADO 16 DA 7ª CC DO TJPR. 3) ART. 359 DO CPC. INCIDÊNCIA.SANÇÃO PREVISTA PARA O DESCUMPRIMENTO DA DETERMINAÇÃO DE EXIBIÇÃO DE DOCUMENTOS. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Não há que se falar em falta de interesse de agir, quanto ao pedido de exibição incidental de documentos, ante a desnecessidade, na ação ordinária, do esgotamento da via administrativa e da prova do recolhimento da respectiva taxa, seja em razão da inaplicabilidade da Súmula 389 do STJ, restrita às ações cautelares, seja em face do principio constitucional do Livre Acesso ao Poder Judiciário, insculpido no art. 5.º, XXXV da CF.
+2. O dever de exibição, por parte da Brasil Telecom, do contrato de participação financeira do acionista, decorre do direito do consumidor à informação e à inversão do Ônus da prova, previstos, respectivamente, nos incisos III e VIII do art. 6.º, do CDC, bem como da regra disposta no art. 355 do CPC, que permite ao juiz determinar à parte que exiba documento que está em seu poder. Aplicação da Teoria da Carga Dinâmica do Ônus da Prova e do Enunciado 16 da 7ª CC do TJPR.
+3. No caso de descumprimento da ordem judicial de exibição incidental de documentos, aplica-se o disposto no art. 359 do CPC (e-STJ, fls. 218/219).
+Os embargos de declaração opostos pela OI foram rejeitados (e-STJ, fls. 373/377).
+Inconformada, a OI interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 475-C, II, 475-D, e 535, II, do CPC/73, 884 a 886 do Código Civil, 100, § 1º, e 170, § 19, da Lei nº 6.404/76, ao sustentar a (1) negativa de prestação jurisdicional; (2) incidência da Súmula nº 389 desta Corte aos requerimentos incidentais de exibição de documentos e não apenas às medidas cautelares de exibição de documentos; e (3) demonstração do dissídio jurisprudencial.
+O apelo nobre não foi conhecido por decisão do Ministro Presidente doSTJ, com base no art. 21-E, V, do RISTJ,em virtude da sua deserção (e-STJ, fls. 525/526).
+Nas razões do presente agravo interno, a OI afirmou que (1)no momento em que o processo foi digitalizado, os comprovantes de recolhimento do preparo estavam legíveis, mas que se deterioraram com o decurso do tempo, sem nenhuma interferência ou desídia de sua parte; e (2) tendo ocorrido o recolhimento das custas no momento da interposição do recurso especial, impõe-se reconhecer que oato atingiu a sua finalidade.
+Não foi apresentadaimpugnação (e-STJ, fl. 554).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO MANEJADO NA VIGÊNCIA DO NCPC. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/73. RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE JUNTADA DECOMPROVANTE LEGÍVEL DE RECOLHIMENTO DAS CUSTAS PROCESSUAIS. ART. 511, CAPUT, CPC/73.SÚMULA Nº 187 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o CPC/1973 ao recurso especial interposto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. O recurso especial foi interposto com a juntada do comprovante de pagamento ilegível.
+3. É pacífico o entendimento do Superior Tribunal de Justiça de que juntada de comprovante de preparo ilegível resulta na deserção do recurso especial e atrai o Enunciado da Súmula nº187 do STJ.
+4. O entendimento desta Corte orienta-se no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal local, de modo que é insuficiente a mera afirmação da parte recorrente.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar oconteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+De plano, vale pontuar que o presente agravo internofoi interpostocontra decisão publicadana vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Contudo, em relação ao apelo nobre anteriormente interposto, vale pontuar que as disposições do CPC/1973, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis a ele em razão do Enunciado nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com asinterpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Conforme assinalou a decisão agravada, no momento da interposição do recurso especial, a OI apresentou o comprovante de pagamento de custas ilegível.
+É pacífico o entendimento, no Superior Tribunal de Justiça, de que a juntada de comprovante de preparo ilegível resulta na deserção do recurso especial e atrai o enunciado da Súmula nº 187 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO BANCÁRIO. APRESENTAÇÃO DE GUIA DE CUSTAS PROCESSUAIS ILEGÍVEL. INTIMAÇÃO PARA REGULARIZAÇÃO E PAGAMENTO EM DOBRO. FALTA DE ATENDIMENTO AO DESPACHO. GUIA SEM A ADEQUADA LEGIBILIDADE. CARÊNCIA DE PAGAMENTO EM DOBRO, NOS TERMOS DO ART. 1.007, § 4º, do CPC/2015. DESERÇÃO DO RECURSO. AGRAVO INTERNO DESPROVIDO.
+1. O STJ consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 5/10/2017). In casu, essa previsão não foi cumprida.
+2. É firme a jurisprudência desta Corte estipulando que a "juntada de guias de preparo ilegíveis atrai o Enunciado da Súmula 187/STJ, implicando a deserção do recurso especial" (AgInt no AREsp 1.039.483/PE, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2018).
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.569.257/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 15/6/2020, DJe 22/6/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE RECOLHIMENTO DAS CUSTAS. INTIMAÇÃO. GUIA ILEGÍVEL. DESERÇÃO. INCIDÊNCIA DA SÚMULA 187/STJ. DECISÃO MANTIDA.
+1. O acórdão recorrido objeto de recurso especial foi publicado antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso especial sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. "Os recursos interpostos para o Superior Tribunal de Justiça devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção, a teor da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos."" ( AgRg no AREsp 665.383/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/04/2016, DJe 02/05/2016).
+3. A ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.132.940/PR, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, j. 23/8/2018, DJe 28/8/2018)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. FALHA NA DIGITALIZAÇÃO. AUSÊNCIA DE COMPROVAÇÃO.
+1. A parte recorrente deve comprovar, no momento da interposição do recurso especial, o pagamento das custas judiciais, sob pena de deserção.
+2. Não se conhece do recurso instruído com guias de recolhimento do preparo ilegíveis, pois impossível aferir a regularidade do preparo.
+3. A alegação de falha na digitalização dos autos físicos deve vir acompanhada de certidão comprobatória do afirmado.
+4. Embargos de declaração acolhidos para fins de esclarecimentos, sem efeitos modificativos.
+(EDcl nos EDcl no AgRg no AREsp 451.071/SE, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 12/9/2017, DJe 19/9/2017)
+Ademais, o entendimento desta Corte orienta-se no sentido de que eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do Tribunal estadual, de modo que é insuficiente a mera afirmação da parte recorrente.
+A propósito, vejam-se estes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. ERRO NA DIGITALIZAÇÃO.COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+3. Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Inadmissível o recurso especial interposto fora do prazo se não houve comprovação da suspensão dos prazos processuais ou de erro na digitalização no tribunal de origem. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.389.559/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/6/2019, DJe 1º/7/2019)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C REVISÃO CONTRATUAL E OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU SEGUIMENTO AO RECLAMO, ANTE A INCIDÊNCIA DA SÚMULA 418/STJ E DESERÇÃO.
+INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. 1. Em que pese assistir razão ao agravante no que tange à alegada inaplicabilidade da Súmula 418/STJ, correta a decisão agravada que negou seguimento ao recurso em razão da não comprovação do preparo recursal.
+2. A adequada comprovação do recolhimento do preparo, mediante a juntada de cópias legíveis, é requisito extrínseco de admissibilidade do recurso especial, cuja ausência enseja a deserção. Precedentes.
+3. A mera alegação de falha no procedimento de digitalização realizado pelo Tribunal de origem, destituída de qualquer indício de prova, não tem o condão de afastar o referido óbice ao conhecimento do recurso. Inviável a alegação de que a digitalização realizada nesta Corte Superior teria gerado prejuízo à parte, pois conforme certidão de fl. 238 "os autos eletrônicos correspondem aos físicos, adquirindo suas páginas nova numeração eletrônica". Caberia à parte realizar a prova da invalidade do quanto certificado, o que não ocorreu.
+Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 616.742/RN, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 20/3/2018, DJe 26/3/2018)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de demonstrar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
