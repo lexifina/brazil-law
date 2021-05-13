@@ -1,0 +1,8 @@
+DECISÃO
+O recorrente, acusado por homicídio qualificado, interpõe recurso em habeas corpus, no qual alega ser vítima de constrangimento ilegal, contra acórdão proferido pelo Tribunal de origem, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado liminarmente neste Superior Tribunal.
+Em que pesem os argumentos externados no recurso, observo que o caso possui algumas especificidades que impedem a concessão do pedido inicial. Deveras, extrai-se do acórdão impugnado, que reproduziu o decreto constritivo, "a gravidade em concreto da conduta, revelada pelo modus operandi exatamente como na hipótese dos autos, em que os representados teriam realizado o homicídio, bem como o representado Antônio Silbevânio é temido por sua periculosidade e envolvimento com a facção PCC" (fl. 89, destaquei)
+Além disso, assinalou o referido decisum que "o denunciado responde a outras duas ações penais" (fl. 90, grifei), uma delas por tráfico de drogas e porte ilegal de arma de fogo. Conforme entendimento desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau.
+Depois, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se e intimem-se.
