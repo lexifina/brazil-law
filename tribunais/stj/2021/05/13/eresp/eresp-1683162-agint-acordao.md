@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. REPARTIÇÃO DE DESPESAS COM OBRAS DE GARAGEM.PRETENSÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. PRESCRIÇÃO QUINQUENAL. DISCUSSÃO QUANTO A LIQUIDEZ DA DÍVIDA. SÚMULAS NºS 5 E 7 DO STJ. EMBARGOS DECLARATÓRIOS OPOSTOS MAIS DE UMA VEZ PARA DISCUTIR MESMA QUESTÃO. CARÁTER PROTELATÓRIO QUE NÃO PODE SER AFASTADO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2.Não há que se falar em negativa de prestação jurisdicional se o Tribunal estadual efetivamente examinou a questão em relação a qual a parte aponta omissão de julgamento.
+3. No caso, o acórdão recorridoafirmou que a dívida condominial estava previstaem um documento escritoeera líquida, não sendo possível afirmar o contrário sem esbarrar nasSúmulas nºs 5 e 7 do STJ.
+4. A jurisprudência desta Corteconsidera protelatórioos segundosembargos de declaração opostos com objetivo de reexaminar argumentos já afastados em julgamento de anteriores aclaratórios.
+5. Agravo interno não provido.
+RELATÓRIO
+O CONDOMÍNIO DO SHOPPING CENTER DE BELO HORIZONTE ( BH SHOPPING) ajuizou ação de cobrança de taxas condominiais contra CARREFOUR COMÉRCIO E INDÚSTRIA LTDA. (CARREFOUR)  e-STJ, fls. 1/7 .
+A sentença julgou parcialmente procedente o pedido, condenando o CARREFOUR a pagar R$ 1.625.466.42 (um milhão, seiscentos e vinte e cinco mil, quatrocentos e sessenta e seis reais e quarenta e dois centavos)  e-STJ, fls. 373/376 .
+O Tribunal de Justiça de Minas Gerais, em apelação, deu parcial provimento ao agravo retido do CARREFOUR para reconhecer a prescrição da dívida em acórdão assim ementado:
+APELAÇÃO - AGRAVO RETIDO - COBRANÇA - TAXA CONDOMINIAL - DÍVIDA LÍQUIDA - PRESCRIÇÃO QUINQUENAL - PRETENSÃO PARCIALMENTE PRESCRITA - DIFERENÇA DEVIDA - REDISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA - RECURSO PREJUDICADO.
+Está pacificado no STJ que a divida oriunda de taxa condominial é líquida desde que prevista em Assembleia Geral de Condôminos. E líquida a dívida, incide o prazo prescricional qüinqüenal previsto no art. 206, § 5º, I, do CC. Se o condômino optou por não participar da operação de expansão e modernização do estacionamento e nem arcar com as despesas para tanto, não tem direito sobre os resultados financeiros auferidos com a exploração da atividade de estacionamento.
+Comprovado que as taxas condominiais vieram com descontos referentes à receita do estacionamento, sem fazer jus a estes, por certo que há uma diferença a saldar. Considerando que foi dado parcial provimento ao Agravo Retido para reconhecer a prescrição da pretensão, a distribuição do ônus de sucumbência também merece reparos, perdendo objeto o recurso que buscava sua redistribuição (e-STJ, fl. 429).
+Os primeiros embargos de declaração opostos pelo BH SOPPING foram rejeitados (e-STJ, fls. 477/470), os segundos também foram rejeitados, inclusive com imposição de multa (e-STJ, fls. 493/499).
+Irresignado, o BH SHOPPING interpôs recurso especial com fundamento no art. 105, a, da CF, alegando ofensa aos arts. (1) 535 do CPC/73, porque o TJMG, a despeito dos embargos de declaração, não teria examinado a alegação de que a Assembleia Geral jamais fixou expressamente o valor da cota condominial, tendo apenas estimado seu montante, de modo que não seria possível falar em cobrança de dívida líquida constante de instrumento público ou particular para efeito de incidência da prescrição quinquenal prevista no art. 206, § 5º, I, do CC/02; (2) 205 e 206, § 5º, I, do CC/02, porque a pretensão de cobrança de taxa condominial estaria subordinada àprescrição decenal, e não quinquenal em razão de a Assembleia Geral não haver estipulado valor líquido para a dívida, e (3) 538 do CPC/73, porque os embargos de declaração apresentados não tinham caráter protelatório, sendo incabível a multa aplicada.
+Apresentadas contrarrazões (e-STJ, fls. 535/540), o recurso foi admitido na origem.
+Seguiu-se decisão da Ministra Presidente, LAURITA VAZ, quereputou intempestiva a irresignação, tendo em vista a falta de comprovação de feriado local no ato de sua interposição (e-STJ. 621/622).
+BH SHOPPING interpôs agravo interno contra essa decisão (e-STJ, fls. 626/632).
+Na sequência, sobreveio decisão monocrática de minha relatoria que reconsiderou a decisão impugnada para reconhecer a tempestividade do recurso especial, mas negar-lhe provimento, conforme se extrai do seguinte resumo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. IRRESIGNAÇÃO SUBMETIDA AO CPC/73. COMPROVAÇÃO POSTERIOR DA OCORRÊNCIA DE FERIADO LOCAL. PRÁTICA ADMITIDA PELO STJ E PELO STF AO TEMPO DO CPC/73. PRECEDENTES. DECISÃO RECONSIDERADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXISTÊNCIA DE DÍVIDA LÍQUIDA. SÚMULAS 5 E 7 DO STJ. OPOSIÇÃO DE DOIS EMBARGOS DECLARATÓRIOS COM O OBJETIVO DE DISCUTIR QUESTÃO JÁ APRECIADA. CARÁTER PROTELATÓRIO RECONHECIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 664).
+Os embargos de declaração opostos por BH SHOPPING foram acolhidos sem efeitos infringentes, apenas para correção de erro material no tocante a natureza ordinária das taxas condominiais cobradas (e-STJ, fls. 695/699).
+No presente agravo interno, BH SHOPPING insistiu na alegação de ofensa aos arts. (1) 535 do CPC/73, porque o TJMG, a despeito dos embargos de declaração que lhe foram submetidos, não examinou a alegação de que a Assembleia do condomínio não definiu o valor da taxa condominial, mas apenas previu uma estimativa dos referidos encargos, baseado em mera estimativa; (2) 206, § 5º, I, do CC/02, porque a pretensão deduzida em juízo não era de cobrança de dívida líquida refletida em documento escrito, não incidindo, por isso, a prescrição quinquenal prevista naquele dispositivo; e (3) 538 do CPC/73, porque os embargos de declaração apresentados não tinham caráter protelatório, sendo incabível a multa aplicada.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. REPARTIÇÃO DE DESPESAS COM OBRAS DE GARAGEM.PRETENSÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. PRESCRIÇÃO QUINQUENAL. DISCUSSÃO QUANTO A LIQUIDEZ DA DÍVIDA. SÚMULAS NºS 5 E 7 DO STJ. EMBARGOS DECLARATÓRIOS OPOSTOS MAIS DE UMA VEZ PARA DISCUTIR MESMA QUESTÃO. CARÁTER PROTELATÓRIO QUE NÃO PODE SER AFASTADO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2.Não há que se falar em negativa de prestação jurisdicional se o Tribunal estadual efetivamente examinou a questão em relação a qual a parte aponta omissão de julgamento.
+3. No caso, o acórdão recorridoafirmou que a dívida condominial estava previstaem um documento escritoeera líquida, não sendo possível afirmar o contrário sem esbarrar nasSúmulas nºs 5 e 7 do STJ.
+4. A jurisprudência desta Corteconsidera protelatórioos segundosembargos de declaração opostos com objetivo de reexaminar argumentos já afastados em julgamento de anteriores aclaratórios.
+5. Agravo interno não provido.
+.
+VOTO
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Negativa de prestação jurisdicional
+O BH SHOPPING alegou que o TJMG teria violado o art. 535 do CPC/73, porque, a despeito dos embargos de declaração, não teria examinado a alegação de que a Assembleia Geral jamais indicou expressamente o valor da cota condominial devida em razão da construção da garagem, tendo apenas estimado aquele valor, sendo impossível, por isso, falar em dívida líquida constante de instrumento público ou particular para efeito de incidência da prescrição quinquenal prevista no art. 206, § 5º, I, do CC/02.
+Ao contrário do que afirmado, houve manifestação expressa a respeito do tema.
+Confira-se:
+A decisão de fls. 295 acolheu a prejudicial de mérito ao fundamento de que a prescrição não se configurou por não se tratar de dívida líquida, aplicando-se o prazo prescricional decenal, nos termos do art. 205, do CC.
+CARREFOUR COMÉRCIO E INDÚSTRIA LTDA., opõe-se à decisão interlocutória por meio do Agravo Retido de fls. 300/307, insistindo no reconhecimento da prescrição fundada no art. 206, § 5º, I, do CC, aplicando-se o prazo qüinqüenal, firme na jurisprudência e doutrina.
+Contrarrazões às fls. 324/330, pugna pelo não provimento ao fundamento de que a cota condominial é variável e sem liquidez uma vez que as despesas são apenas previsão de gastos, levando-se em consideração também a previsão de receitas de estacionamento, da quais o Agravante não participa.
+Primeiramente, tenho que a taxa condominial está prevista em ata de Assembleia Geral. Também entendo que, não incidindo aqueles descontos nas taxas, com base na receita obtida com a exploração da atividade de estacionamento, estes sim variáveis, a dívida é liquida (e-STJ, fls. 433/434 - sem destaque no original)
+Não está configurada, portanto, a negativa de prestação jurisdicional alegada.
+(2) Prescrição
+As razões recursais também alegaram ofensa aos arts. 205 e 206, § 5º, I, do CC/02, porque a pretensão de cobrança de taxa condominial estaria subordinada àprescrição decenal, e não quinquenal em razão de a AssembleiaGeral não haver estipulado valor líquido para rateio mensal das despesas havidas com a obra.
+Como visto no item anterior, todavia, o TJMG foi bastante claro em afirmar que a taxa condominial estava prevista na ata da Assembleia Geral e que a dívida decorrente dos valores pagos a menor indevidamente, era líquida.
+Assim, se o TJMG afirmou que a taxa condominial estava prevista em um documento escrito (ata da Assembleia) e que a dívida respectiva era líquida, não há como afirmar o contrário sem reexaminar fatos e provas e sem interpretar novamente, os conteúdo da ata da Assembleia Geral.
+Incidem, portanto, as Súmulas nºs 5 e 7 do STJ.
+(3) Multa
+O BH SHOPPING alegou, finalmente, contrariedade ao art. 538 do CPC/73, porque os embargos de declaração apresentados não tinham caráter protelatório, sendo incabível a multa aplicada.
+Compulsando os autos, é possível verificar, todavia, que foram interpostos dois embargos de declaração aduzindo a ocorrência de omissão a respeito de tema que, como visto, havia sido enfrentado desde o julgamento da apelação, de forma clara e minudente. Impossível, afastar, dessa forma, o caráter protelatório dos embargos e, por conseguinte, a multa cominada.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE VÍCIOS. APRECIAÇÃO DE MATÉRIA ARGUIDA NO RECURSO ESPECIAL. IMPOSSIBILIDADE. BARREIRA DO CONHECIMENTO NÃO SUPERADA. CARÁTER PROTELATÓRIO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+V - A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado enfrentados anteriormente, nos primeiros embargos declaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+(EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp 1.305.375/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 1º/4/2020)
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AÇÃO REIVINDICATÓRIA. NECESSIDADE DE PRÉVIO CANCELAMENTO DE TÍTULO DE PROPRIEDADE APRESENTADO. VIOLAÇÃO AO ART. 252 DA LEI 6.015/1973. TESE NÃO PREQUESTIONADA. INVALIDADE DO TÍTULO DE PROPRIEDADE APRESENTADO. REVISÃO. SÚMULA 7/STJ. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+ ..
+2. Nos termos da jurisprudência vigente no Superior Tribunal, consideram-se protelatórios os novos embargos de declaração opostos com objetivo de reexaminar argumentos já afastados em julgamento de anteriores aclaratórios.
+(EDcl nos EDcl no AgInt no REsp 1.433.064/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 5/11/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MANIFESTO PROPÓSITO PROTELATÓRIO. ADMISSIBILIDADE DE APLICAÇÃO DE MULTA.
+1. Os segundos embargos opostos pela ora agravante apenas reiteraram as alegações já repelidas nos aclaratórios anteriormente apreciados, situação que caracteriza o manifesto propósito protelatório do recurso, não devendo, portanto, ser excluída a multa outrora fixada.
+(AgInt nos EDcl nos EDcl no REsp 1.405.228/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 15/10/2019)
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
