@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto porFERNANDO GALVAO FERREIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo, que concedeu parcialmente a ordem pleiteada naquela instância ao determinar que fosse expedido contramandado de prisão, mas impondo medidas cautelares diversas, no HC n. 2301460-17.2020.8.26.0000, nos termos da seguinte ementa (e-STJ fl. 162):
+Habeas corpus - Uso de documento falso - Revogação da prisão preventiva - Admissibilidade - Ausência dos requisitos autorizadores da custódia cautelar - Constrangimento - ilegal - caracterizado - Paciente que responde pela suposta prática de crime que não envolve violência ou grave ameaça à pessoa - Concessão do benefício de liberdade provisória, mediante a imposição das medidas cautelares elencadas no artigo 319, incisos I e IV, do CPP - Ordem parcialmente concedida.
+Infere-se dos autos: que o paciente foi denunciado pelos crimes do art. 297, caput, e do art. 304 do CP, no ano de 2015; que teve a sua prisão preventiva decretada pelo juízo da primeira instância em 11/6/2020, a fim de assegurar a instrução processual e a aplicação da lei penal; e que obteve a liberdade provisória no segundo grau de jurisdição, para quem medidas cautelares menos gravosas seriam suficientes.
+A defesa alega, em síntese, que as medidas cautelares diversas da prisão são ilegítimas, pois não se fundam em razões concretas, afirmando que "o acórdão suplementou a decisão submetida a sua análise ao invocar medidas cautelares diversas da prisão, as quais jamais poderiam ter sido implementadas em razão da absoluta ausência de motivação primária" (e-STJ fl. 175).
+Contrarrazões às e-STJ fls. 181/183.
+Em liminar e no mérito, pede que sejam afastadas as medidas cautelares.
+É o relatório. Decido.
+De plano, verifico que nesta Corte, também, houve a impetração do HC n. 643.724/SP, em favor do ora recorrente, requerendo, igualmente, o afastamento das medidas cautelares impostas, sob os mesmos argumentos ora apresentados e apontando o mesmo ato coator (HC n. 2301460-17.2020.8.26.0000), sendo que a liminar foi indeferida em 9/2/2021.
+Assim, por se tratar de mera reiteração, o presente recurso não merece ser conhecido, neste ponto. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Ante o exposto, nego seguimento ao recurso ordinário em habeas corpus.
+Intimem-se.
