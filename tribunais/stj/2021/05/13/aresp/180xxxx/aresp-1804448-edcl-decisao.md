@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VALDECI LAURENTINO DA SILVA contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta que a decisão embargada padece dos seguintes vícios, em síntese:
+i) A decisão embargada é omissa e contraditória quanto aos pressupostos de admissibilidade do recurso especial, por alegada ausência de indicação dos dispositivos tidos por violados, uma vez que comprovadamente foram prequestionados, inclusive violação do art. 1.022, incisos I e II do CPC, por ausência de julgamento mesmo diante deprovação em sede de embargos de declaração.
+ii) A decisão embargada também padece de omissão e contradição quanto a interpretação e alcance do art.406 do Código Civil, art.161, § 3º do CTN, Leinº 9.065/1995, art. 13 e Lei nº 9.250/1995, art. 39, posto que efetivamente prequestionados.
+iii) Enfim, contradição de maior monta consiste em negar a aplicação da Taxa Selic para fins de correção do precatório,uma vez que a decisão que transitou em julgado, proferida pelo Tribunal de origem, consiste efetivamente na aplicação da Selic para fins de atualização do precatório.
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ad argumentandum tantum, os trechos transcritos pelo embargante, nos itens 1.5, 1.6, 1.7, 2.4 e 2.14 dos embargos de declaração, pertencem ao agravo em recurso especial e não ao recurso especial, recurso do qual a decisão embargada não conheceu, o que evidência a não ocorrência de nenhum dos vícios apontados.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
