@@ -1,0 +1,41 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. COBRANÇA INDEVIDA DE SERVIÇO DE INTERNET. DANOS MORAIS NÃO COMPROVADOS. AUSÊNCIA DE COMPROVAÇÃO DOS DANOS.RECURSO ESPECIAL DO PARTICULAR NÃOPROVIDO.
+1. Trata-se de recurso especial interposto por MARIA DO SOCORRO BANDEIRA DE MELO MARQUES FERREIRA, com fundamento no art. 105, III, a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TJMA, assim ementado:
+COBRANÇA INDEVIDA DE SERVIÇO DE INTERNET. ATO ILÍCITO. DANO MORAL NÃO CARACTERIZADO. 1. A simples realização de cobranças indevidas por empresa fornecedora de serviço de telefonia e internet não gera dano moral in re ipsa. 2. Apelo conhecido e parcialmente provido. Maioria(fls. 331).
+2. Nas razões do seu recurso especial (fls. 338/350), a parte recorrente sustenta, além do dissídio jurisprudencial, violação dos arts. 186 e 944 do CC/2002, argumentando, para tanto, o cabimento da condenação da empresa recorrida pelos danos morais decorrente de cobrança indevida de serviço não contratado.
+3. Contrarrazões apresentadas às fls. 356/369.
+4.O recurso especial foi admitido (fls. 372/373).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Cuida-se, na origem, de ação de indenização por danos materiais e morais com pedido de tutela antecipada ajuizada contra a OiTelemar Norte Leste S.A. requerendo a condenação em dobro dos valores pagos indevidamente, bem como a reparação pelos danos morais sofridos.
+9. Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o tema:
+O Juízo não poderia, todavia, ter julgado procedente o pedido de reparação moral deduzido pela Apelada, pois a simples realização de cobranças indevidas por empresa fornecedora de serviço de telefonia não se revela circunstância apta, por si só, a lesionar quaisquer de direitos da personalidade (CF, art. 5º X).
+É dizer, não basta a demonstração do fato antijurídico (CDC, art. 14), sendo indispensável a comprovação de violação a direitos da personalidade da vítima, vale dizer, violação que atinge a tranquilidade, a paz, a imagem, afinal, como anota Renan Lotufo,"o ilícito tem que ser visto sob a ótica do dano" , não surgindo obrigação de indenizar diante da só alusão ao fato antijurídico e sem a prova do efetivo prejuízo (CC, arts. 402 e 403).
+E ao dispensar a produção de provas em audiência (cf. petição de ID 2641286), tenho que a Apelada não se desincumbiu do ônus de provar a existência de abalo a direitos da personalidade, fato constitutivo de seu direito (CPC, art. 373 I), razão pela qual a sentença deve ser reformada a fim de que o pedido de reparação de dano moral seja julgado improcedente(fls. 332).
+10. Com efeito, o Tribunal de origem julgou a demanda em consonância com a jurisprudência desta Corte, segundo a qual a cobrança indevidapor si só não gera presunção dos danos morais, cabendo a parte a sua comprovação. Nesse sentido, seguem os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIÇOS DE TELEFONIA. COBRANÇA INDEVIDA. NÃO INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. COMPROVAÇÃO DO DANO.NECESSIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Segundo entendimento consolidado no STJ, o dano moral deve ser demonstrado quando houver a falha na prestação ou cobrança do serviço, mas inexiste ato restritivo de crédito ou inscrição em cadastro de inadimplentes. Precedentes.
+3. Agravo interno não provido(AgInt no REsp 1.584.123/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,DJe 27/08/2019).
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. DANO MORAL PRESUMIDO. NÃO OCORRÊNCIA. SUCUMBÊNCIA. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos casos de cobrança indevida de serviço de telefonia, em que não há inscrição do nome do consumidor em cadastro de inadimplentes, o dano moral não é presumido.
+3. É inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda, porquanto implicaria análise do conteúdo fático-probatório. Incidência da Súmula nº 7/STJ.
+4. O artigo 85 do CPC/2015 não se aplica ao recurso especial submetido ao regime do CPC/1973.
+5. Agravo interno não provido(AgInt no AgRg no AREsp 665.074/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 02/04/2018).
+11. No que concerne à divergência jurisprudencialdecorrente dos dispositivos de lei federal apontados como violados, é pacífico o entendimento desta Corte Superior de queos mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciaçãodo dissídio jurisprudencial.Nesse sentido cito os seguintes julgados deste Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial no que se refere à violação aos arts. arts. 489 e 1.022 do Código de Processo Civil/2015 e aos arts. 186 e 927 do Código Civil/2002 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+3. A revisão desse entendimento implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ. Precedente: AgInt no AREsp 1.587.838/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24.4.2020; e AgInt nos EDcl no REsp 1.839.027/MS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19.6.2020.
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido (AgInt no REsp 1.878.337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3, 17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF.ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+(..)
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c,
+ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento (AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018).
+12. Diante dessas considerações, nego provimento ao recurso especial do particular.
+13. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+14. Publique-se. Intimações necessárias.
