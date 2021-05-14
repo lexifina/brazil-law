@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Piauícom fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 243):
+ADMINISTRATIVO. CONCURSO PÚBLICO. POSSE ASSEGURADA POR SENTENÇA HÁ MAIS DE OITO ANOS. SERVIDOR EFETIVO. SITUAÇÃO FÁTICA CONSOLIDADA.
+1. Hipótese em que o representante legal da autoridade impetrada, no curso da ação, ao argumento de que o autor já concluiu o curso superior, requereu a extinção do feito, sem análise de mérito, por perda do objeto que lhe foi imputado, qual seja: abreviação da duração do curso de graduação em química, com a imediata formação de banca examinadora para que possa apresentar seus trabalhos finais quanto às disciplinas que lhe restam.
+2. A posse no cargo público de professor, para o qual foi aprovado no concurso público realizado pela Secretaria de Educação e Cultura do Estado do Piauí (Concurso Público SEDUC 2009), mediante a apresentação de toda documentação exigida para a efetivação do ato administrativo", foi assegurada pela sentença.
+3. Se os demais litisconsortes (Estados do Piauí e do Maranhão) não recorreram da sentença, resta evidente uma situação de fato consolidada que, passados quase 08 (oito) anos, estando o autor já efetivado no cargo público correspondente, deve e merece ser considerada e mantida a sentença em nome do princípio da segurança jurídica.
+4. Remessa Oficial e apelação não providas.
+Opostos embargos declaratórios, foram rejeitados (fls. 264/268).
+A parte recorrente sustenta que "o recorrido não tinha concluído o curso por ocasião da posse e obteve decisão liminar para concluir o curso e tomar posse. Somente concluiu no curso do processo.O Recurso Especial se faz medida necessária e cabível tendo em vista que o Tribunal "a quo" deixou de considerar e se pronunciar sobre a inconstitucionalidade emergente da decisão embargada. (..)Desse modo, a permanência do recorrente no serviço públiconão pode ser ti da por válida, já que não observou os critérios de aprovação no concurso." (fl. 284)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Observa-seque a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro AntônioCarlos Ferreira, Quarta Turma, DJe 12/03/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/03/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 01/03/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
