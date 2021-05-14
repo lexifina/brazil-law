@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravointerposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra decisão que inadmitiu o recurso especial manifestado, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, contraacórdão prolatado pelo Tribunal de Justiça do Estado do Paraná(Agravo em execução penaln. 0013199-16.2020.8.16.0019).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 227/229:
+Trata-se de agravo em face da decisão que não admitiu o recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por aplicação da Súmula 83/STJ.
+No recurso especial, o agravante alegava violação aos artigos 42 do CP e 387, § 2º, do CPP, por entender que o acórdão incidiu em equívoco ao considerar "ser possível, no cálculo da detração, o período em que o recorrido permaneceu submetido a monitoramento eletrônico, cumulado com recolhimento domiciliar noturno durante a semana e integral durante os finais de semana e feriados, instituído como medida cautelar em substituição à prisão preventiva" (e-STJ, fl. 137).
+As contrarrazões foram apresentadas (e-STJ fls. 198/203) É o breve relatório.
+Ao final, oMinistério Público Federalmanifestou-sepelo conhecimento do agravo e pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Não assiste razão ao agravante.
+É que aTerceira Seção desta Corte Superior, no julgamento do HC n. 455.097/PR, de relatoria da Ministra Laurita Vaz, em 14/4/2020 (acórdão pendente de publicação), por unanimidade,pacificou o entendimento de que o período de cumprimento da medida cautelarde recolhimento domiciliar noturno, no caso,inclusive aos fins de semana e feriadose com monitoramento eletrônico,deviaser computado para fins de detração penal, por representarlimitação efetiva ao direito de locomoção, assemelhada ao cumprimento de pena em regime semiaberto. Assim,o acórdão recorrido encontra-se em consonância com a orientação jurisprudencial vigente.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO DO PERÍODO DE CUMPRIMENTO DE MEDIDA CAUTELAR ALTERNATIVA À PRISÃO.RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. MATÉRIA PACIFICADA NO ÂMBITO DA QUINTA TURMA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consolidou-se na Quinta Turma deste Tribunal entendimento no sentido de que, adespeito da inexistência de previsão legal para a detração penal na hipótese de submissão do sentenciado a medidas cautelares diversas da prisão, o período de recolhimento domiciliar noturno, por ensejar a privação de liberdade do apenado, deve ser detraído da pena, em observância aos princípios da proporcionalidade e do non bis in idem.
+2. Agravo regimental não provido.
+(AgRg no HC 612.328/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021, grifei)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.EXECUÇÃO PENAL. DETRAÇÃO DA PENA EM RECOLHIMENTO DOMICILIAR NOTURNO.POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Embora inexista previsão legal, o recolhimento domiciliar noturno, por comprometer o status libertatis da pessoa humana, deve ser reconhecido como pena efetivamente cumprida para fins de detração da pena, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem. Precedentes.
+III - "Com vistas a estabelecer novas balizas entre a necessidade de resguardo do interesse social e a limitação ao excesso de poder estatal (übermassverbot), as alterações no processo penal cautelar criaram um leque com diversos mecanismos assecuratórios de natureza pessoal. Ocorre que dentre essas nova medidas alternativas à prisão, apenas o recolhimento domiciliar noturno e internação provisória, previstas nos incisos V e VII do art. 319 do Código de Processo Penal, se compatibilizam com o instituto da detração penal.Aplicação do artigo 42 do Código Penal" (AgRg no REsp n.1.792.710/PR, Quinta Turma, de minha relatoria, DJe de 23/09/2020).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para permitir a detração da pena correspondente ao período em que o paciente cumpriu medida cautelar diversa da prisão, consistente no recolhimento domiciliar noturno.
+(HC 631.554/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021, grifei)
+Ante o exposto, conheço do agravo negar provimento ao recurso especial.
+Publique-se. Intimem-se.
