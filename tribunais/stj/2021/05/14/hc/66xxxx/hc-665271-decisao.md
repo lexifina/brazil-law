@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de SÍLVIO ROBERTO SEIXAS REGO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0000449-61.2015.8.26.0412.
+O paciente foi denunciado por coação no curso do processo e usurpação de função pública (art. 344 e 328 do Código Penal). De acordo dom os autos, o paciente teria enviado e-mails à empresa responsável pela realização de concurso público municipal em nome de funcionários da Prefeitura de Palestina, no Estado de São Paulo.
+Encerrada a fase instrutória, o juízo de primeiro grau julgou parcialmente procedente a pretensão acusatória e condenou o paciente a 1 (um) ano e 2 (dois) meses de reclusão, em regime aberto, substituindo a sanção corporal por prestação pecuniária, além de 25 (vinte e cinco) dias-multa.
+A defesa interpôs recurso de apelação, buscando reformar a sentença condenatória. A pretensão foi parcialmente acolhida, apenas para substituir a pena restritiva por prestação de serviços à comunidade pelo mesmo período da sanção privativa de liberdade (e-STJ, fls. 1616-1636).
+Por meio deste habeas corpus, a defesa pretende que seja reconhecida a usurpação de função pública como crime-meio para o delito de coação no curso do processo e que a pena imposta seja novamente calculada, considerando a consunção entre os delitos praticados.
+É o relatório. Passo a decidir.
+O pedido formulado não merece acolhida, já que o tema trazido a exame nesta impetração não foi previamente examinado pela Corte de origem.
+Como é cediço, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Ao ensejo, confiram-se os seguintes precedentes, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO E MAQUINÁRIOS. PORTE ILEGAL DE ARMA DE FOGO E RECEPTAÇÃO. DOSIMETRIA. REDUÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. EXPRESSIVA QUANTIDADE E VARIEDADE DE ENTORPECENTES APREENDIDOS. CULPABILIDADE EXACERBADA. POSIÇÃO DE LIDERANÇA NA ASSOCIAÇÃO. MAUS ANTECEDENTES. PRECEDENTES. CONSUNÇÃO ENTRE OS DELITOS PREVISTOS NOS ARTS. 33 E 34 DA LAD. INVIABILIDADE. INDEPENDÊNCIA ENTRE AS CONDUTAS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO HABEAS CORPUS. PRECEDENTES. CONSUNÇÃO ENTRE OS CRIMES DE TRÁFICO DE DROGAS E DE POSSE ILEGAL DE ARMA DE FOGO. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+- No tocante à consunção entre os crimes de tráfico de drogas e de posse ilegal de arma de fogo, verifico esta insurgência não foi submetida à apreciação e, tampouco debatida pelas instâncias de origem, tratando-se, portanto, de matéria nova, somente ventilada neste mandamus, não sendo possível sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+- As pretensões formuladas pela impetrante encontram óbice na jurisprudência consolidada desta Corte Superior, sendo, portanto, manifestamente improcedentes.
+- Agravo regimental não provido. (AgRg no HC 616.444/SP, de minha relatoria, Quinta Turma, DJe 15/10/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TORTURA, PORTE ILEGAL DE ARMA DE FOGO E FALSIDADE IDEOLÓGICA. EXECUÇÃO PROVISÓRIA DA PENA. TRÂNSITO EM JULGADO. SUPERVENIÊNCIA. PERDA DE OBJETO. CONSUNÇÃO E ATIPICIDADE. SUPRESSÃO DE INSTÂNCIA. DECISÃO MONOCRÁTICA MANTIDA.
+(..)
+2. Os pleitos para reconhecimento de atipicidade da conduta enquadrada como porte ilegal de arma de fogo e de haver consunção desse crime e do de falsidade ideológica ao delito de tortura não foram apreciados pelo Tribunal de origem. Nessa toada, considerando que a irresignação da defesa nem sequer foi apreciada pelo órgão colegiado do Tribunal estadual, fica obstada a análise das alegações por esta Corte, sob pena de indevida supressão de instância.
+Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC 456.242/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 25/6/2020)
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Portanto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Intimem-se.
