@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedidoliminar, impetrado em face de acórdão assim ementado (fl. 25):
+HABEA5 CORPUS- Roubo - Pleito de reforma da sentença condenatória -Pretendida fixação de regime inicial diverso do fechado -Impossibilidade - Informações dispensadas, na forma do artigo 663 do Código de Processo Penal - Pleito que deve ser deduzido mediante interposição do recurso de Apelação - Via inadequada para se proceder à reforma -Recurso adequado jáinterposto pela defesa do paciente - Pedido indeferido liminarmente.
+Consta dos autos que a paciente foi condenada pela prática do crime previsto no art. 157, caput, do Código Penal, à pena de cinco anos, cinco meses e dez dias de reclusão, mais doze dias-multa, no valor mínimo legal, fixado o regime fechado para início do cumprimento da pena.
+No presente writ, com fundamentos nos artigos 33, § 2º, letra c, § 3º, Súmulas 241, 440, 443 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal, sustentou inexistirrazão para impor regime prisional mais gravoso do que aquele permitido pela pena definitivamente aplicada, sob pena de contradição, impondo ao condenado indiscutível constrangimento ilegal.
+Postulou, ao final, o acolhimento do pedido liminar para que seja conhecido e declarado vício de atividade do Juízo de Primeiro Grau, a fim de que seja deferido a fixação do regime aberto ou semiaberto, sobretudo observando a prescrição requerida.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O Tribunal de origem não conheceu do habeas corpus antecedente, no ponto em que postulava a reforma da sentença condenatória para a fixação de regime mais brando, pelos seguintes fundamentos (fls. 27-28):
+Conforme relatado, o impetrante busca a reforma da sentença condenatória para a fixação de regime inicial mais brando. Entretanto, toda a matéria alegado na inicial, assim como o pedido que dela decorre, não pode ser analisada por intermédio desta via, caracterizada pelo âmbito restrito e contraditório mitigado.
+Confira-se:
+"O habeas corpus não é o instrumento adequado para amparar a pretensão do paciente, qual seja, a mudança do regime de cumprimento de pena, fixado em sentença, do inicial fechado para o semi-aberto, não sendo, tampouco, remédio para todos os males, não podendo, assim, fazer as vezes de recurso específico (apelação)" (HC n o 990.08.005966-1, 14ª Câmara Criminal, Rel. vu). Sergio Ribas, julgado em 04.09.08,
+Assim, a via eleita é imprópria para discutir questãorelativa à reforma da sentença. A propósito do tema:
+"Refoge à alçada do habeas corpus o exame da fixação da pena do réu e do respectivo regime de cumprimento, estabelecidos à luz da análise dessas circunstâncias fáticas. Eventual desacerto dessa parte sentencial poderá ser reparado pela via recursal, ante o estudo mais aprofundado de todas as circunstâncias do caso, defesa ao estreito campo do writ a penetração maior, para anular a sentença por essas razões" (TJSP - HC Órgão Julgador  Campo excluído do banco de dados  - Rei. NC.58REGA DE SALLES - RT 639/298).
+Portanto, a pretendida reforma pleiteada só pode ser procedida mediante recurso próprio, que é a apelação, nos termos do art. 593 do Código de Processo Penal. Descabida, destarte, a impetração do presente writ, uma vez que, do contrário, estar-se-ia atribuindo à referida ação, ao arrepio da lei, a condição de substitutivo recursal.
+Nesse sentido, é inclusive, o entendimento do Supremo Tribunal Federal:
+"A via estreita do habeas corpus não comporta dilação probatória, exame aprofundado de matéria fótica ou nova valoração dos elementos de prova." (HC n. º 986-11/BA, Rel. Min. Ricardo Lewandowski, Primeira Turma, julg. 04.05.2010).
+Assim, pelo exposto, impossível em o conhecimento da presente ordem de habeas corpus.
+Como se vê, a tese defensiva não foi apreciada pela instância de origem, que não vislumbrou ilegalidade na fundamentação da sentença condenatória e, portanto, apontou a inadequação do habeas corpus para tratar de matéria típica de recurso de apelação- devidamente interposto e que se encontra em processamento na origem.
+Assim, descabe a este Sodalício inaugurar a análise da matéria, sob pena de indevida supressão de instância. Neste sentido: HC 612.101/SE  Rel. Min. Joel Ilan Paciornik  5T  DJe 20/11/2020; HC 476.064/AL  Rel.Min. Antonio Saldanha Palheiro  6T  DJe 02/04/2019; HC 360.484/BA  Rel.Min. Jorge Mussi  5T  DJe 28/06/2018; AgRg no HC 363.567/SP  Rel. Min.Rogerio Schietti Cruz  6T  DJe 2/10/2017.
+Contudo, destacou o Tribunal local inexistir manifesta ilegalidade na imposição do regime fechado, eis que (fls. 28-29):
+Cumpre registrar que o magistrado pode fixar o regime inicial de cumprimento da pena de acordo com seu convencimento, respeitados os ditames legais para tanto, a fim de estabelecer aquele que será suficiente para reprovação e prevenção do delito, nos termos do artigo 59, inciso III, do Código Penal.
+Ressalte-se que, do contrário, o parágrafo 3º do art. 33 do Codex também não existiria.
+Ademais, conforme noticiado pelo impetrante e da análise dos autos de origem, verifica-se que a ré é reincidente, não cabendo, nesta estreita via, análise mais aprofundado sobre este ponto.
+Conforme se observa, oregime fechado foi fixado em razão da reincidência da paciente, não vislumbrando, no caso, a ocorrência de manifesta ilegalidade.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
