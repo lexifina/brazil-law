@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deJOSE MARCEL DA COSTAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 0000179-57.2018.8.26.0630).
+Depreende-se dos autos que o paciente foi condenado a 5anos e 10meses de reclusão, no regime inicialmente fechado, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas,e-STJ fls. 263/269).
+Segundo a acusação, o paciente trazia consigo, "para fins de tráfico, drogas sem autorização ou em desacordo com determinação legal ou regulamentar, sendo estas 28 (vinte e oito) porções distintas de "Cannabis sativa L", vulgarmente conhecida como "maconha", pesando aproximadamente  60g- sessenta gramas " -e-STJ fl. 170.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fl. 12):
+APELAÇÃO TRÁFICO DE DROGAS RECURSO DEFENSIVO - Materialidade e autoria delitiva nitidamente demonstrada pela prova oral, documental e pericial Fala dos policiais militares firmes e coerentes Validade - Depoimentos que se revestem de fé-pública Ausência de provas de que teriam intuito de prejudicar o réu Desclassificação para o delito de porte de drogas para uso próprio Inviabilidade - Pena e regime bem aplicados Impossibilidade de aplicação do redutor previsto no art. 33, §4º, da Lei nº 11.343/06 Regime fechado mantido - Recurso desprovido.
+Transitado em julgado o acórdão acima ementado, a defesa se vale do presente writ parasustentar que "a r. decisão do tribunal estadual, além de negar vigência ao art. 33, § 4º, da LEI 11.343/2006, desrespeita duas jurisprudências consolidadas do SUPERIOR TRIBUNAL DE JUSTIÇA: uma, referente ao tráfico privilegiado e à qual recentemente inclusive foi atribuído caráter obrigatório pela via do HABEAS CORPUS COLETIVO 596.605; outra, referente à inaptidão de condenação pretérita pela infração do art. 28 da Lei 11.343/2006 gerar reincidência, firmada no HABEAS CORPUS 453.437, DJ 04.10.2018, e no RECURSO ESPECIAL 1.672.654, DJ 21.08.2018" (e-STJ fl. 5).
+Requer, liminarmente e no mérito, o afastamento da reincidência com a consequenteaplicação da minorante do art. 33, § 4º, da Lei de Drogas ea fixação de regime inicial menos gravoso(e-STJ fl. 10).
+Informações prestadas.
+Parecer ministerial pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem.
+É, em síntese, o relatório.
+Decido.
+Inicialmente, quanto à minorante do tráfico privilegiado, destacou o Tribunal de origem a impossibilidade de deferimento da benesse ao paciente,visto que"para sua possível o réu deve ser primário e não se dedicar a atividade criminosa, não sendo a hipótese dos autos, pois, conforme visto acima, é reincidente"  (e-STJ fl. 19).
+E tal entendimento não destoa da jurisprudência firmada no Superior Tribunal de Justiça, como se observa dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI DE DROGAS. INAPLICABILIDADE. CONDENAÇÃO ANTERIOR. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. DOSIMETRIA. PENA-BASE. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO IDÔNEA. WRIT DO QUAL NÃO SE CONHECEU. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+1. É cediço que para a aplicação do artigo 33, § 4º, da Lei n. 11.343/2006, o sentenciado deve preencher, cumulativamente, os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Admite-se a existência de condenação anterior para se concluir que o acusado pelo crime de tráfico de drogas se dedica a atividades criminosas, circunstância que pode afastar a aplicação da minorante prevista no artigo 33, § 4º, da Lei n. 11.343/2006.
+ ..
+5. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e concedeu a ordem de ofício.
+6. Agravo regimental desprovido. (AgRg no HC 570.800/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+No ponto, destaca-seque, em exame à folha de antecedentes criminais do paciente, verifica-se que há condenação transitada em julgado por crime de tráfico de drogas.
+A propósito, o parecer ministerial ressalta que (e-STJ fl. 492, grifei):
+Com relação à reincidência propriamente dita, ela foi reconhecida em razão das folhas de antecedentes apresentadas aos autos as quais indicam que o paciente responde por pelo menos 7 (sete) ações penais relacionadas à traficância, ostentando 2 (duas) condenações, sendo uma nos autos da ação penal 1760/2018. pela prática do crime do artigo 28 da Lei 11.343/2006. e outra nos autos da ação penal 1872/2015. pela prática do crime do artigo 33 do mesmo diploma legal (e-STJ Fl. 475/483).
+Frisa-se que, ao contrário do que alega a DPE, nem a sentença (e-STJ Fl. 267) e tampouco o acórdão combatido (e-STJ Fl. 18/23) aplicaram a agravante da reincidência exclusivamente a partir da condenação pelo crime do artigo 28 da Lei 11.343/2006.
+Desse modo, não há reparos a fazer no acórdão recorrido acerca da questão.
+Ainda, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o magistrado deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na espécie, fixou-se o regime inicial de cumprimento da pena em virtude da reincidência do paciente, de forma que não se observa a existência de constrangimento ilegal decorrente da imposição do regime fechado.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
