@@ -1,0 +1,8 @@
+DECISÃO
+REALSI ROBERTO CITADELLA pleiteia, às fls. 3.168-3.170, o reconhecimento da prescrição, sob o argumento de que "entre a data do trânsito em julgado para a acusação, 16 de maio de 2011, e a presente data, 25 de outubro de 2019, transcorreram-se mais de 8 (oito) anos sem a incidência de qualquer causa interruptiva" (fl. 3.169).
+Não bastasse a impossibilidade de complementação incidental das razões formuladas no agravo em recurso especial dirigido a esta Corte, verifico, calcado no fato de ser matéria de ordem pública, que não houve a aventada incidência da prescrição.
+Com efeito, o STF firmou a compreensão, que vem sendo observada pelo STJ, segundo o qual o acórdão que confirma a sentença condenatória, justamente por revelar pleno exercício da jurisdição penal, é marco interruptivo do prazo prescricional, nos termos do art. 117, IV, do Código Penal.
+Nesse sentido, a Suprema Corte, no HC n. 176.473 (DJe 10/9/2020), de relatoria do Ministro Alexandre de Moraes, estabeleceu a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+Logo, na espécie, levando-se em consideração a data da sentença condenatória (6/5/2011) e a data no acórdão proferido em apelação que manteve a condenação (24/4/2018), observa-se que não foi ultrapassado o lapso prescricional de 8 anos (art. 109, IV, do CP), visto que foi imposta ao requerente a pena de 4 anos de reclusão.
+À vista do exposto, indefiro o pedido.
+Publique-se e intimem-se.
