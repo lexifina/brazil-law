@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. QUALIDADE DESEGURADO. SEGURADO FACULTATIVO DE BAIXA RENDA. CONTRIBUIÇÕES COM "PENDÊNCIA" OU NÃO VALIDADAS. AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. COMPROVADA A INCAPACIDADE. INCAPACIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+I - Na origem, trata-se de ação previdenciária objetivando a concessão à demandante o benefício de auxílio-doença, de imediato, em razão da antecipação dos efeitos da tutela, com pagamento das prestações atrasadas desde a data de entrada do requerimento administrativo (13/11/2013), acrescidas de juros e correção monetária conforme a fundamentação acima, convertido em aposentadoria por invalidez na data da realização da segunda perícia judicial (02/07/2015).
+II - Na sentença, julgou-se procedente o pedido inicial. No Tribunal a quo, a sentença foi anulada para determinar a realização de estudo social e determinar a implantação do benefício.
+III - A Corte a quo ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que o segurado preencheu os requisitos necessários para a conversão do auxílio-doença em aposentadoria por invalidez, concluindo, em seguida, que "as características da doença que acomete ao autor (progressiva e degenerativa) associadas às suas condições pessoais (tipo de profissão, baixa escolaridade, idade atual) demonstram a sua incapacidade para o exercício de qualquer atividade profissional".
+IV - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação previdenciária objetivando a concessãoà demandante o benefício de auxílio-doença, de imediato, em razão da antecipação dos efeitos da tutela, com pagamento das prestações atrasadas desde a data de entrada do requerimento administrativo (13/11/2013), acrescidas de juros e correção monetária conforme a fundamentação acima, convertido em aposentadoria por invalidez na data da realização da segunda perícia judicial (02/07/2015).
+Na sentença, julgou-se procedente o pedido inicial. No Tribunala quo,a sentença foi anulada para determinar a realização de estudo social e determinar a implantação do benefício, conforme a seguinte ementa do acórdão:
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. QUALIDADE DESEGURADO. SEGURADO FACULTATIVO DE BAIXA RENDA.CONTRIBUIÇÕES COM "PENDÊNCIA" OU NÃO VALIDADAS. AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. COMPROVADA A INCAPACIDADE. INCAPACIDADE.
+1. A inscrição junto ao Cadastro Único - CadÚnico do Ministério do Desenvolvimento Social e Combate à Fome é dispensável quando provado o implemento dos requisitos por outros meios, por se tratar de formalidade que não pode ser tomada como impedimento ao reconhecimento do direito.
+2. Não havendo nos autos qualquer elemento capaz de infirmar os fundamentos e conclusões da perícia médica judicial, deve ser mantida a sentença que nela fundou-se.
+3. Presente a incapacidade laborativa, cabe a concessão de aposentadoria por invalidez.
+No recurso especial, o recorrente aponta como violados os art. 102 da Lei n.8.213/1991 e 21 da Lei n. 8.212/1991, sustentando, em síntese, que é indevida a conversão do auxílio-doença em aposentadoria por invalidez, ante a ausência de preenchimento dos requisitos legais pelo segurado.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interpostoagravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários a decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. QUALIDADE DESEGURADO. SEGURADO FACULTATIVO DE BAIXA RENDA. CONTRIBUIÇÕES COM "PENDÊNCIA" OU NÃO VALIDADAS. AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. COMPROVADA A INCAPACIDADE. INCAPACIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+I - Na origem, trata-se de ação previdenciária objetivando a concessão à demandante o benefício de auxílio-doença, de imediato, em razão da antecipação dos efeitos da tutela, com pagamento das prestações atrasadas desde a data de entrada do requerimento administrativo (13/11/2013), acrescidas de juros e correção monetária conforme a fundamentação acima, convertido em aposentadoria por invalidez na data da realização da segunda perícia judicial (02/07/2015).
+II - Na sentença, julgou-se procedente o pedido inicial. No Tribunal a quo, a sentença foi anulada para determinar a realização de estudo social e determinar a implantação do benefício.
+III - A Corte a quo ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que o segurado preencheu os requisitos necessários para a conversão do auxílio-doença em aposentadoria por invalidez, concluindo, em seguida, que "as características da doença que acomete ao autor (progressiva e degenerativa) associadas às suas condições pessoais (tipo de profissão, baixa escolaridade, idade atual) demonstram a sua incapacidade para o exercício de qualquer atividade profissional".
+IV - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+A Corte a quo ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que o segurado preencheu os requisitos necessários para a conversão do auxílio-doença em aposentadoria por invalidez, concluindo, em seguida, que "as características da doença que acomete ao autor (progressiva e degenerativa) associadas às suas condições pessoais (tipo de profissão, baixa escolaridade, idade atual) demonstram a sua incapacidade para o exercício de qualquer atividade profissional".
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
