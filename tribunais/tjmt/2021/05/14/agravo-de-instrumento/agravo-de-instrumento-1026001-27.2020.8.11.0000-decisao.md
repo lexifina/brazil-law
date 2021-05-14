@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO AGRAVO DE INSTRUMENTO No 1026001-27.2020.8.11.0000
+RECORRENTE(S): LADI CEOLATO
+RECORRIDO(S): ASA ALIMENTOS S.A
+Vistos.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por LADI CEOLATO, com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça de Mato Grosso que, por unanimidade, negou provimento ao recurso, nos termos da seguinte ementa (Id. 79339989):
+RECURSO DE AGRAVO DE INSTRUMENTO - CARTA PRECATÓRIA – SUSPENSÃO DO LEILÃO DOS IMÓVEIS PENHORADOS - INEXISTÊNCIA DE PREJUÍZO EM FACE DO CÔNJUGE QUE NÃO ESTÁ NA EXECUÇÃO – DESNECESSIDADE DE NOVA AVALIAÇÃO – DECISÃO MANTIDA – RECURSO NÃO PROVIDO
+Até pelos primados da celeridade, da razoável duração do processo e da economia processual, não subsiste, às vésperas do leilão e depois de tanto tempo desde o início do processo executivo, a menor margem para a realização de novas diligências, em especial, com a antecipação de eventuais procedimentos divisórios e demarcatórios, cujos ônus, com a retificação do Edital, ficaram suficientemente claros na oferta e, assim, tanto devem ser assumidos pelo próprio arrematante quanto podem ser tratados ao depois, quando da imissão na posse
+Os embargos de declaração opostos contra o acórdão (Id. 79339989) foram rejeitados (Id. 81618457).
+Nas razões do recurso especial (Id. 84514455), o recorrente sustenta violação aos artigos 11, 371, 373, II, 489, § 1o, IV, 873, 886, I, e 1.022, II, todos do Código de Processo Civil, aos artigos 87 e 655-B, ambos do Código Civil, ao artigo 93 da Constituição Federal, bem como ao Item 6.7.7. do Código de Normas da Corregedoria Geral da Justiça do Estado de Mato Grosso, ao argumento de que “não houve a delimitação da área correspondente a 50% (cinquenta por cento) do imóvel” e que “a avaliação dos bens foi realizada há praticamente 02 (dois) anos”.
+Aduz a existência de dissídio jurisprudencial apto a possibilitar a admissão positiva do recurso.
+Expõe como requisito à concessão de efeito suspensivo que “há leilão designado para o dia 28 de abril de 2021 (...) sequer se sabe ao certo onde está a área correspondente a 50% (cinquenta por cento) que irá leilão, além do mais, como mencionado a avaliação do imóvel foi realizada em data de 18 de julho de 2019, o que torna a área bem aquém do valor de mercado, conforme laudo anexado aos autos, e isso gera danos incalculáveis ao executado”.
+Recurso tempestivo e preparo recolhido, conforme certidões de Ids. 84626470 e 84613989.
+É o relatório.
+DECIDO.
+Extrai-se da redação do artigo 1.029, § 5o, III do Código de Processo Civil que é da competência desta Vice-Presidência a análise do pedido de concessão do efeito suspensivo ao recurso especial no período compreendido entre a sua interposição e a publicação da decisão de sua admissibilidade.
+De outro lado, da leitura do artigo 995, parágrafo único, do Código de Processo Civil, em caso de recurso que, em regra, não é dotado de efeito suspensivo, é certo que a eficácia da decisão recorrida poderá ser suspensa quando da imediata produção de seus efeitos, houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Assim, para a excepcional concessão do efeito suspensivo, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, pela insuportabilidade dos danos emergentes do próprio ato impugnado ou pela necessidade de se garantir a posterior eficácia do julgamento definitivo a ser proferido pelo Superior Tribunal de Justiça.
+Da leitura das razões recursais, verifica-se que o recorrente, embora tenha suscitado o eventual perigo da demora, não demonstrou, de forma especifica, no que consistiria o prejuízo irreparável ou de difícil reparação.
+Com efeito, ainda que ocorra o leilão, com a consequente alienação judicial do bem, o recorrente em nenhum momento explicitou por que sofreria dano irreparável em decorrência da alienação de 50% do total do imóvel, sem a devida individualização das partes que o compõem.
+Nesse sentido, apesar de alegar ofensa ao artigo 87 do CC ao argumento de que, por ser o imóvel suscetível de cômoda divisão, a avaliação, tendo em conta o crédito reclamado, deveria ser realizada em partes, constata-se que o recorrente sequer fez uso da faculdade prevista no artigo 894 do mesmo Código de Processo Civil, ou seja, não requereu, com antecedência, a alienação judicial de parte específica e individualizada do bem, o que revela, a priori, ausência de dano iminente.
+Confira-se:
+“Art. 894. Quando o imóvel admitir cômoda divisão, o juiz, a requerimento do executado, ordenará a alienação judicial de parte dele, desde que suficiente para o pagamento do exequente e para a satisfação das despesas da execução”.
+Nesse contexto, nos termos do § 2o do artigo 894 do CPC, a alienação por partes deverá ser requerida a tempo de permitir a avaliação das glebas destacadas e sua inclusão no edital, e, nesse caso, caberá ao executado instruir o requerimento com planta e memorial descritivo subscritos por profissional habilitado, o que não foi providenciado pelo ora recorrente, revelando, mais uma vez, a ausência de demonstração do periculum in mora.
+A corroborar tal fundamento, levando-se em conta a ausência de requerimento expresso da parte no sentido de se alienar partes específicas do imóvel, constou do aresto recorrido que “(...) até pelos primados da celeridade, da razoável duração do processo e da economia processual, não subsiste, às vésperas do leilão e depois de tanto tempo desde o início do processo executivo, a menor margem para a realização de novas diligências, em especial, com a antecipação de eventuais procedimentos divisórios e demarcatórios, cujos ônus, com a retificação do Edital, ficaram suficientemente claros na oferta e, assim, tanto devem ser assumidos pelo próprio arrematante quanto podem ser tratados ao depois, quando da imissão na posse”. (Id. 79339990)
+Por outro lado, o acórdão resguardou o valor de reserva da meação, computado sobre o valor integral da avaliação do bem, de maneira que a eventual alienação por valor inferior deverá ser suportada apenas pelo credor que promover a execução, e não pelo coproprietário não devedor, nos termos do art. 843, § 2o, do CPC.
+Por fim, quanto à necessidade de reavaliação dos imóveis objeto da penhora, o acórdão consignou a vedação ao nemo potest venire contra factum proprium.
+Diante de todo esse quadro, não se constatou a demonstração de eventual risco de dano grave, de difícil ou impossível reparação.
+Posto isso, INDEFIRO o pedido de efeito suspensivo.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
