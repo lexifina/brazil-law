@@ -1,0 +1,34 @@
+DECISÃO
+LUCIA DE GOUVEIA VIDAL (LUCIA) ajuizou ação de repetição de indébito cumulada com indenização por danos morais contra BANCO ITAÚ S.A. (BANCO), pleiteando a revisão contratual quanto à cobrança da taxa de seguro e da tarifa de cadastro e, consequentemente, à restituição dos valores cobrados de forma ilegal.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para declarar nulas as cláusulas abusivas e reconhecer o direito à restituição do indébito, de forma simples, dos valores pagos à instituição financeira requerida a título de inserção de gravame (R$ 42,85) e serviço de promotora de vendas (R$ 181,00), corrigidos monetariamente desde a citação e com incidência de juros de mora de 1% ao mês, também a partir da citação.
+Interposta apelação pela LUCIA, o Tribunal de Justiça do Estado da Paraíba deu provimento parcial ao recurso, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL.PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INSTITUIÇÃO FINANCEIRA. COBRANÇA DE TARIFA DE CADASTRO. POSSIBILIDADE. PREVISÃO NA RESOLUÇÃO Nº 3.919/2010 DO CONSELHO MONETÁRIO NACIONAL. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. ILEGALIDADE. DEVOLUÇÃO SIMPLES DO MONTANTE PAGO. AUSÊNCIA DE MÁ-FÉ. HONORÁRIOS ADVOCAT1CIOS FIXADOS EM PATAMAR RAZOÁVEL. CORREÇÃO MONETÁRIA.INCIDÊNCIA DA SÚMULA 43 DO STJ. PROVIMENTO PARCIAL DO RECURSO.
+- Revela-se irrefutável a aplicação do Código de Defesa do Consumidor às instituições financeiras, segundo entendimento jurisprudencial já consolidado.
+- No que concerne à Tarifa de Cadastro, o Superior Tribunal de Justiça decidiu recentemente pela validade da sua cobrança, desde que esteja "expressamente tiplicada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira." - Em relação ao seguro de proteção financeira, o qual oferece cobertura para os eventos morte e invalidez do segurado, garantindo a quitação do contrato em caso de sinistro, embora previsto pelas normas da regulação bancária, o STJ entendeu que não é conferido ao consumidor a liberdade na escolha de outro contratante, reputando ilegal a sua previsão. Nesse prisma, constatada a cobrança do seguro no contrato, deve ser declarada a ilegalidade de sua previsão.
+- O mero fato de ter o banco requerido cobrado tarifas reputadas abusivas não prova a existência de má-fé. Ademais, o consumidor firmou o contrato com os encargos ora questionados, não podendo se beneficiar com a restituição em dobro, mas apenas de forma simples, pois teve pleno conhecimento da exigência dos encargos no ato da celebração do negócio.
+- A correção monetária deve ser aplicada a partir da data do pagamento indevido do valor ( data do efetivo prejuízo), nos termos do Enunciado da Súmula nº 43 do Superior Tribunal de Justiça.
+- Considerando a natureza da causa, o trabalho realizado pelo patrono e o tempo exigido para o serviço, entendo que o valor arbitrado na instância a quo não merece majoração, posto que o valor obedece ao princípio da equidade e da razoabilidade (e-STJ, fls. 158/160).
+Os embargos de declaração opostos pelo BANCO foram rejeitados (e-STJ, fls. 212/234).
+Irresignado, o BANCO interpôs recurso especial, com base no art. 105, III, a e c, da CF, sustentando, a par de dissídio jurisprudencial, violação dos arts. 4º, IV e IX, e 9º da Lei nº 4.595/64, e 39, I, do CDC. Alegou, em síntese, que (1) é de competência do Conselho Monetário Nacional editar normas que regulamentam, ou proíbam, a remuneração das operações e dos serviços bancários e do BACEN editar normas que regulamentem a cobrança de tarifas e outros encargos incidentes sobre os contratos de mútuo; e (2) é lícita a cobrança do seguro proteção financeira, desde que ocorrida a escolha e opção na contratação do seguro, condições que foram facultadas à parte autora. Aduz que a cobrança do seguro não configura venda casada.
+O apelo nobre não foi admitido, sob o fundamento da incidência da Súmula nº 282 do STF.
+Nas razões do presente agravo em recurso especial, o BANCO afirmou, em suma, que a Súmula nº 282, não é aplicável ao caso.
+Nesta Corte, oagravo foi conhecido para não conhecer do apelo, em decisão monocrática de minha relatoria, ementada nos seguintes termos:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REVISÃO CONTRATUAL. ARTS. 4º, IV e IX, e 9º da Lei Nº 4.595/64.PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL.AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE.TARIFA DE SEGURO DE PROTEÇÃO FINANCEIRA. LIBERDADE DO CONSUMIDOR PARA CONTRATAR O SEGURO. NÃO OBSERVADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 350).
+No presente recurso aclaratório, LUCIA apontou a ocorrência de omissão, na medida em quea majoração dos honorários advocatíciostenha ocorrido em 5% do "valor  ..  anteriormente fixados", esse valor foi fixado em valor líquido, correspondente a R$ 1.500,00 (mil e quinhentos reais). De tal sorte que, no termos do §11 do art. 85 do CPC, a majoração deveria ser de idêntica natureza.
+Não houve impugnação (e-STJ, fl. 361).
+É o relatório.
+DECIDO.
+O presente recurso comporta acolhimento.
+De plano vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A teor do disposto no art. 1.022 do NCPC, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+No caso, verifica-se a ocorrência de erro material.
+Assim, às e-STJ fl. 354, onde se lê:
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados contra o BANCO nos termos do art. 85, § 11, do CPC/2015.
+leia-se:
+MAJORO em R$ 1.000,00 (mil reais) o valor dos honorários advocatícios anteriormente fixados contra o BANCO nos termos do art. 85, § 11, do CPC/2015.
+Nessas condições, ACOLHO os embargos de declaração opostos por LÚCIA, a fim de corrigir o erro material, nos termos da fundamentação supra.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. ERRO MATERIAL.VERIFICADO.CORREÇÃO QUE SE FAZ NECESSÁRIA. EMBARGOS ACOLHIDOS.
