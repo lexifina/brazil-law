@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo ESTADO DO PARANÁ, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"I - AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. II - SERVIÇO EXTRAORDINÁRIO. ÍNDICES DEFINIDOS NO DISPOSITIVO DA SENTENÇA DE MÉRITO QUE INDICAM A ADOÇÃO DOS CÁLCULOS DO EXEQUENTE. ACÓRDÃO QUE NEGA PROVIMENTO AO RECURSO DO ESTADO DO PARANÁ, DEIXANDO INALTERADA A DECISÃO DE PRIMEIRO GRAU QUANTO AO PONTO. IRRESIGNAÇÃO EM CUMPRIMENTO DE SENTENÇA QUANTO AOS CÁLCULOS E QUANTO AOS ÍNDICES APONTADOS. IMPOSSIBILIDADE. COISA JULGADA QUE SE OPEROU. III - RECURSO DESPROVIDO" (fl. 49e).
+O acórdão em questão foi objeto de Embargos Declaratórios (fls. 63/65e), os quais restaram rejeitados, nos seguintes termos:
+"I - EMBARGOS DE DECLARAÇÃO. ACÓRDÃO QUE NEGOU PROVIMENTO A APELAÇÃO CÍVEL. II - INEXISTÊNCIA DE OMISSÃO NA DECISÃO EMBARGADA. PRETENSÃO MERAMENTE MODIFICATIVA, QUE DEVE SER OBJETO DE RECURSO PRÓPRIO. III - RECURSO NÃO PROVIDO" (fl. 80e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022, II, do CPC/2015 sustentando, para tanto, que:
+"O acórdão proferido em sede de embargos de declaração, ao não ter analisado o argumento posto pelo ente público quanto à existência de coisa julgada acerca dos índices de revisão dos valores devidos a título de serviço extraordinário seguirem os índices de reajuste do funcionalismo público, acabou por violar o disposto no artigo 1022, inciso II, do Código de Processo Civil.
+O Tribunal de Justiça paranaense, ao julgar o agravo de instrumento inicialmente interposto pelo Estado do Paraná, compreendeu erroneamente pela existência de coisa julgada oposta ao pleiteado pelo Estado, apreciando a sentença proferida. À guisa de elucidação se transcreve o excerto correspondente na decisão:
+(..)
+Não obstante devidamente instado pelo Estado do Paraná em sede de embargos de declaração acerca da alteração deste posicionamento, dado que constava expressamente no acórdão proferido no processo de conhecimento a necessidade de que os cálculos do recorrente obedecessem os índices de revisão do funcionalismo público, havendo coisa julgada no ponto, o acordão simplesmente ignorou a questão levantada.
+Isto é: o Tribunal ignorou que o acórdão prolatado no processo de conhecimento, o qual, como é cediço, substitui a sentença, assim determinou expressamente
+(..)
+A título de esclarecimento se transcrevem as razões postas nos embargos de declaração do Estado do Paraná e silenciadas pelo Tribunal a quo:
+(..)
+Veja que a aferição desta questão era imprescindível para o correto deslinde da lide, dado que o argumento levantado pelo Estado (e apesar reiterado em sede de embargos de declaração) tinha o condão de alterar o resultado do julgado, dado que demonstrava a existência de imutabilidade quanto à necessidade de os cálculos seguirem os índices de revisão do funcionalismo público.
+E, em tais hipóteses, a apreciação dos embargos de declaração era obrigatória - e a sua não apreciação enseja evidente violação ao artigo 1022, inciso II, do Código de Processo Civil" (fls. 94/97e).
+Por fim, "requer o conhecimento e o provimento do presente recurso especial, dada a violação ao artigo 1022, inciso II, do Código de Processo Civil. Assim se pleiteia inicialmente a anulação da decisão proferida em sede de embargos de declaração para a prolação de uma nova, na qual haja a apreciação da questão posta pelo ente público" (fl. 98e).
+Contrarrazões, a fls. 107/110e.
+Inadmitido o Recurso Especial (fls. 113/114e), foi interposto o presente Agravo (fls. 124/128e).
+Contraminuta, a fls. 140/144e.
+A irresignação não merece prosperar.
+Na origem, "trata-se de Agravo de Instrumento interposto pelo Estado do Paraná, contra decisão de mov 120.1, aperfeiçoada pela decisão de mov. 131.1 que, em Ação de Cobrança, rejeitou a impugnação ao cumprimento de sentença ajuizado pelo recorrente" (fl. 49e).
+Agravo de instrumento improvido, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Com efeito, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram, fundamentadamente e de modo completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Assim, o acórdão de 2º Grau conta com motivação suficiente e não deixou de se manifestar sobre a matéria cujo conhecimento lhe competia, permitindo, por conseguinte, a exata compreensão e resolução da controvérsia, não havendo falar em descumprimento ao art. 1.022 do CPC/2015.
+Nesse contexto, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015" (STJ, REsp 1.669.441/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+A propósito, ainda:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. SERVIDOR PÚBLICO. DOENÇA OCUPACIONAL. PENSÃO MENSAL AFASTADA. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. DANO MATERIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC de 2015, pois há fundamentação suficiente para amparar o acórdão recorrido.
+2. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário, ocasionando a preclusão de uma das questões e o consequente não conhecimento do recurso. Aplicação da Súmula 126 do STJ.
+3. O Tribunal de origem, com base nas provas existentes, entendeu não haver comprovação do dano material. A inversão do julgado nos moldes pretendidos pela recorrente demanda revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido" (STJ, REsp 1.707.574/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018;REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Ademais, não se presta a via declaratória para obrigar o Tribunal a reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, DJU de 27/10/97), nem para provocar prequestionamento, se ausentes omissão, contradição ou obscuridade no julgado (STJ, AgRg no REsp 1.235.316/RS, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, DJe de 12/05/2011)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
