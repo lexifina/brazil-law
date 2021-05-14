@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por DRY PORT SAO PAULO S/A, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 666):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS A EXECUÇÃO. NULIDADE DA EXECUÇÃO E DA NECESSIDADE DE SUSPENSÃO DO FEITO. REVISÃO DE FATOS E PROVAS.INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - O presente feito decorre de embargos à execução com o fito de questionar execução movida pela ora embargada contra a embargante. Por sentença, julgaram-se improcedentes os pedidos formulados na inicial. Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao apelo.
+II - O Tribunal de origem manteve a sentença, vinculando-se ao conjunto fático-probatório dos autos, para não reconhecer o vício de vontade na confissão de dívida e declarar que a mera existência de outras duas ações entre as partes não influi na execução, sendo que o embargante não apresentou qualquer outra prova neste sentido.
+III - Assim, a análise das alegações atinentes ao reconhecimento da nulidade da execução e da necessidade de suspensão do feito demanda inconteste revolvimento fático-probatório.Por consequência, o conhecimento de referida argumentação fica obstaculizada diante do Verbete Sumular 7 n. do Superior Tribunal de Justiça.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 704/710).
+Sustenta arecorrente que há prequestionamento e repercussão geral na questão tratada, destacandoque existe violação do art.5º, incisos LIVe LV, e ao art. 105, inciso III, alínea"a", ambosda Constituição Federal.
+Alega que "a fundamentação pelo óbice da Súmula 07 do STJ é descabida eis que o ora Recorrente não pretendeu o simples reexame de provas, mas sim a correta interpretação e vigência das leis federais em comento" (e-STJ fl. 720).
+Assevera haver trazido toda a argumentação necessária "para análise de todas as violações, não havendo que se falar em ausência de demonstração das ofensas e vulnerações alegadas por falta de prequestionamento" (e-STJ fl. 721).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Foram apresentadas as contrarrazões (e-STJ fls. 732/737).
+É o relatório.
+O Supremo Tribunal Federal pacificou o entendimento de que não é cabível recurso extraordinário no qual se alega violação ao art. 105, inciso III, da Constituição Federal, questionando o conhecimento ou não do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. INFRINGÊNCIA AO ART. 105, III, "A", DA CF/88. REPERCUSSÃO GERAL REJEITADA NO JULGAMENTO DO RE 598.365-RG (REL. MIN. AYRES BRITTO, TEMA 181). OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(ARE 860192 AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 28/04/2015, PROCESSO ELETRÔNICO DJe-087 DIVULG 11-05-2015 PUBLIC 12-05-2015)
+Com igual orientação:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PONTAL DO PARANAPANEMA. NULIDADE DOS TÍTULOS DE DOMÍNIO EM RAZÃO DO VÍCIO NA ORIGEM DA CADEIA DOMINIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIAS DE CORTES DIVERSAS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365. TEMA 181. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(RE 1081829 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 21/09/2018, PROCESSO ELETRÔNICO DJe-208 DIVULG 28-09-2018 PUBLIC 01-10-2018)
+Na espécie, o acórdão objeto do recurso extraordinário manteve a decisão unipessoal queconheceu do agravo para não conhecer do recurso especial, em razão da incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação doart. 5º, incisos LIVe LV, da Constituição Federal aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 105, INCISO III, DA CONSTITUIÇÃO FEDERAL. AFERIÇÃO DOS PRESSUPOSTOS DO RECURSO ESPECIAL. ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
