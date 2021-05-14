@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado de Minas Gerais, com base na alínea "a"do permissivo constitucional, contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+Agravo de instrumento - Cumprimento de sentença - Pronunciamento de cunho declaratório - Eficácia executiva - Pressupostos de certeza e exigibilidade - Economia processual - Recurso ao qual se nega provimento.Inexiste óbice à concessão de eficácia constitutiva à sentença declaratória que reconhece a inexigibilidade da obrigação tributária, tendo em vista a certeza da inexistência do débito e a observância ao princípio da economia processual.
+Os embargos de declaração opostos na sequência foram rejeitados.
+O recorrente aduz que não houve condenação do ente público na sentença exequenda. Com base nessa premissa, suscita omissão e contradição no aresto impugnado, bem como ofensa aos arts. 515, I, e 503 do CPC.
+Apelo nobre admitido na origem.
+Resolvida a questão da tempestividade do recurso, retornam os autos conclusos.
+É o relatório.
+À luz da jurisprudência do STJ, "tem eficácia executiva a sentença declaratória que traz definição integral da norma jurídica individualizada. Não há razão alguma, lógica ou jurídica, para submetê-la, antes da execução, a um segundo juízo de certificação, até porque a nova sentença não poderia chegar a resultado diferente do da anterior, sob pena de comprometimento da garantia da coisa julgada, assegurada constitucionalmente. E instaurar um processo de cognição sem oferecer às partes e ao juiz outra alternativa de resultado que não um, já prefixado, representaria atividade meramente burocrática e desnecessária, que poderia receber qualquer outro qualificativo, menos o de jurisdicional" (EREsp 609.266/RS, Rel. Min. Teori Albino Zavascki, Primeira Seção,DJ 11/9/2006).
+Ainda:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTIGOS 458 E 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUTÁRIO. SENTENÇA DECLARATÓRIA. POSSIBILIDADE DE EXECUÇÃO. NOVO PROCESSO DE CONHECIMENTO. FALTA DE INTERESSE DE AGIR. PRECEDENTES.
+ ..
+4. "Tem eficácia executiva a sentença declaratória que traz definição integral da norma jurídica individualizada. Não há razão alguma, lógica ou jurídica, para submetê-la, antes da execução, a um segundo juízo de certificação, até porque a nova sentença não poderia chegar a resultado diferente do da anterior, sob pena de comprometimento da garantia da coisa julgada, assegurada constitucionalmente. E instaurar um processo de cognição sem oferecer às partes e ao juiz outra alternativa de resultado que não um, já prefixado, representaria atividade meramente burocrática e desnecessária, que poderia receber qualquer outro qualificativo, menos o de jurisdicional." (EREsp 609.266/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 23/08/2006, DJ 11/09/2006, p. 223).
+5. Tendo o recorrente sentença declaratória já transitada em julgado, o ajuizamento de nova ação de conhecimento para obter a liquidação judicial pretendida configura falta de interesse de agir.Sendo inadequada a via eleita. Precedentes.
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1.462.896/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/10/2015, DJe 22/10/2015).
+No caso,  a ação ordinária, ajuizada após negativa da administração tributária, foi julgada procedente, conforme assentado no acórdão recorrido, "para declarar ser a autora isenta do recolhimento do IPVA sobre o veículo de sua propriedade". Assim, foi autorizada a execução do título judicial para restituição dos valores de IPVA pagos desde o requerimento administrativo até o trânsito em julgado, momento a partir do qual a Fazenda estadual registra no seu sistemaa isenção pelo portador de deficiência.
+Lógica nenhuma há na exigência de protocolo de nova ação de conhecimentoapenas para pleitear a restituição do indébito pago no decorrer do processo, uma vez já declarada inexistente a relação jurídico-tributária.
+Por fim, o acórdão recorrido não é omisso nem contraditório, porque suas premissas são claras e a conclusão é única: "Os princípios da efetividade jurisdicional e economia processual autorizam a atribuição de eficácia executiva à sentença meramente declaratória".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
