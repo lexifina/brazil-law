@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANDRE RAFAEL DE ANDRADE contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia.
+Consta dos autos que o paciente teve prisão preventiva decretada contra si em razão da suposta prática do crime de homicídio duplamente qualificado (art.121, § 2º, incisos I e IV do Código Penal).
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 761):
+EMENTA: PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. BRIGA OCASIONADA POR ACIDENTE DE TRÂNSITO. DISCUSSÕES. POSTERIOR COMETIMENTO DO HOMICÍDIO. ALEGAÇÕES REFERENTES AO MÉRITO. IMPOSSIBILIDADE DE ANÁLISE. MATÉRIA NÃO VISLUMBRADA NO DECRETO PRISIONAL. SALVAGUARDA DO PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. ARGUMENTO NÃO CONHECIDO. INDÍCIOS DE AUTORIA E MATERIALIDADE VISLUMBRADOS ATRAVÉS DO LAUDO DE EXAME CADAVÉRICO, FOTOS E TESTEMUNHOS. FUMUS COMISSI DELICTI VERIFICADO. CRIME COMETIDO COM VIOLÊNCIA REAL. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. FUGA DO DISTRITO. DEVER DE RESGUARDAR A APLICAÇÃO DA LEI PENAL. PERICULUM IN LIBERTATIS EXISTENTE. EXCESSO DE PRAZO. MOROSIDADE DECORRENTE DA PANDEMIA DE COVID-19 E DA FUGA PROMOVIDA PELO RÉU. REVISÃO DO DECRETO PRISIONAL PELO JUÍZO A QUO. REGULARIDADE. INEXISTÊNCIA DE VÍCIOS NA DECISÃO IMPUGNADA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DENEGADA A ORDEM.
+Nas razões da presente ação, a defesa reafirma a negativa de autoria da conduta, uma vez que não há provas da materialidade e indicio razoável de que o suplicante teria praticado os crimes mencionados na denúncia (e-STJ fl. 7).
+Aduz, outrossim, condições pessoais favoráveis ao paciente(primariedade, trabalho lícito e residência fixa).
+Alega que o paciente teria saído do distrito da culpa pois a vítima fazia parte de uma facção criminosa no Estado da Bahia e que seu primo fora assassinado e sua tia sofrera, também, atentado contra sua vida.
+Por fim, aponta excesso de prazo na formação da culpa.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório, decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 656.749/BA, igualmente em favor do ora paciente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar.Ademais, em decisão proferida em 6/4/2021, referido habeas corpus não foi conhecido, não se vislumbrando constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça, sobretudo por que demonstrados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do CPP.
+Constata-se, assim, que a presente impetração é mera reiteração, uma vez que as alegações apresentadas já foram analisadas em outro mandamus. Assim, não é possível dar seguimento ao presente writ.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido. (AgRg no RCD no HC 329.224/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/09/2015, DJe 22/09/2015).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
