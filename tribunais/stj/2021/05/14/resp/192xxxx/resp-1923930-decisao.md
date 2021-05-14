@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Luiz Eduardo Ramos Jube, com fulcro na alínea "a"do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Tocantins - TJTO assim ementado (e-STJ, fl. 96):
+APELAÇÃO. AÇÃO DE REINTEGRAÇÃO EM CARGO PÚBLICO. DEFENSOR PÚBLICO ESTADUAL. EXONERAÇÃO A PEDIDO. RETRATAÇÃO ANTES DA PUBLICAÇÃO DA PORTARIA DE EXONERAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE REQUERIMENTO. INTERRUPÇÃO NA PRESTAÇÃO DO SERVIÇO POR DOZE ANOS. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+1.1 A exoneração a pedido do servidor importa no rompimento definitivo do vínculo jurídico entre o servidor e a Administração Pública, e, publicada a portaria de exoneração, a situação jurídica constituída a partir de então não mais comporta alteração sob o fundamento de arrependimento, contudo, o Superior Tribunal de Justiça tem admitido a reintegração, nos casos em que há pedido de retratação antes da publicação da Portaria de exoneração, ou seja, se o servidor por algum motivo, se arrepender e fizer requerimento administrativo antes da publicação do ato de exoneração, ele poderá retornar ao status quo, todavia, não é o caso dos autos, por ausência de pedido formal, nos termos do artigo 6º,da Lei no 9.784, de 1999.
+1.2 A retratação, para tornar ineficaz o ato de exoneração, é necessária que seja manifestada quando o servidor ainda se encontra em pleno exercício, isto é, sem ter havido interrupção na prestação do serviço, na espécie, o autor requereu a exoneração do cargo, em 20/10/1995, e após o transcurso de doze anos, por intermédio do processo administrativo de revisão, protocolado em 10/6/2008, busca retornar ao cargo, não se prestando a via judicial a tutelar posterior arrependimento de uma manifestação de vontade ausente de qualquer vício de consentimento.
+Embargos de declaração rejeitados.Em suas razões, o recorrente sustenta violação dos arts. 141 e 492 do CPC/2015, ao argumento de que o acórdão combatido tratou de tema não suscitado pelas partes, aduzindo que, "ao compulsar os autos, Vossa Excelência verificará que, em momento algum, suscitou o Recorrido acerca de eventual inexistência do documento que demonstra a retratação do pedido de exoneração. Com a devida vênia, trata-se de argumento novo, não suscitado pelo Recorrido." (e-STJ, fl. 168).
+Com contrarrazões.
+É o relatório.
+A irresignação não comporta conhecimento.
+Dos autos, constata-se que não houve juízo de valor por parte da Corte de origem a respeito tanto dos dispositivos legais indicados quanto da tese vinculada, de forma que o exame da pretensão caracterizada indevida supressão de instância, esbarrando no óbice contido na Súmula 282/STF.
+Frise-se que a questão (tema e respectivos dispositivos) não foi suscitada nos embargos de declaração opostos na origem.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
