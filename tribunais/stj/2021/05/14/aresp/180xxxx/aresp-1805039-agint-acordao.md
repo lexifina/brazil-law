@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo, nos termos do voto do Sr Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA (ART. 1.021, § 1º, DO CPC/2015). AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, não há como conhecer do agravo interno que não combata o fundamento da decisão monocrática.
+2. Não se extrai das razões do agravo a impugnação ao fundamento da decisão agravada (ausência de impugnação da Súmula 735/STF).
+3. Agravo interno não conhecido.
+RELATÓRIO
+Marcus Raffaini Carvalho interpôsrecurso especial contra oacórdãode fls. 888-895 (e-STJ), proferidopelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação declaratória de nulidade de exclusão de sócio cumulada com pedido de exibição de documentos, cobrança e indenização por danos morais e materiais. Decisão de indeferimento de liminar. Agravo de instrumento do autor, com requerimento de suspensão dos efeitos da reunião que culminou com seu afastamento. A interferência judicial em sociedades empresárias, como se sabe, deve ocorrer apenas em situações excepcionais. Princípio da intervenção mínima (STJ, MC 14.561, NANCY ANDRIGHI). Ademais, necessidade de ampla dilação probatória, diante da situação apresentada, em que são imputados, reciprocamente, aos litigantes, atos de gravidade contra os interesses sociais. Precedentes das Câmaras Reservadas de Direito Empresarial deste Tribunal. Manutenção da decisão agravada. Agravo de instrumento desprovido.
+A Corte de origem deixou de admitir o recurso ao argumento de incidência daSúmula735/STF.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 1.002-1.003 (e-STJ), a Presidência do STJ não conheceu do recurso, concluindo pela ausência de impugnação do fundamentoda decisão que inadmitiu o recurso na origem.
+Daí a apresentação deste agravo interno (e-STJ, fls. 1.006-1.014), no qual defendeo insurgenteo conhecimento do agravo em recurso especial.
+Impugnação às fls. 1.017-1.027 (e-STJ), requerendo-se o não conhecimento ou o desprovimento do recurso e a aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA (ART. 1.021, § 1º, DO CPC/2015). AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, não há como conhecer do agravo interno que não combata o fundamento da decisão monocrática.
+2. Não se extrai das razões do agravo a impugnação ao fundamento da decisão agravada (ausência de impugnação da Súmula 735/STF).
+3. Agravo interno não conhecido.
+VOTO
+Na decisão agravada, deixou-se de conhecer do agravo em recurso especial sob o argumento de que o agravantenão teria impugnado o fundamentoda decisão que inadmitiu o recurso na origem.
+Veja-se às fls. 1.002-1.003(e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 735/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal emsentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ. Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Na presente insurgência, defende o agravante o conhecimento do agravo em recurso especial. Todavia,das razões do recurso, não se extrai o combate ao fundamento da decisão monocrática (ausência de impugnação à alegada incidência da Súmula 735/STF), limitando-se o agravante a alegar o cabimento do recurso especial.
+Incontestável, portanto, que não foram vertidos argumentos válidos para infirmar a decisão monocrática ora recorrida, conforme exigido pelo art. 1.021, § 1º, do CPC/2015, circunstância que impede o conhecimento do agravo interno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 932, III, e 1.021, § 1º, do CPC/2015. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não conhecimento do recurso, incidindo os arts. 932, III, e 1.021, § 1º, do CPC/2015 e, por analogia, a Súmula n. 182/STJ.
+2. No presente caso, o agravante deixou de impugnar um dos fundamentos suficientes e independentes adotados na decisão que indeferiu liminarmente os embargos de divergência, qual seja, a aplicação da Súmula n. 315 do STJ.
+3. Agravo interno não conhecido.
+(AgInt nos EAREsp 1.097.036/SP, Rel. Ministro Antônio Carlos Ferreira, Segunda Seção, julgado em 04/12/2018, DJe 11/12/2018).
+Quanto ao pedido de aplicação de multa, contido na impugnação ao agravo interno, esta Corte tem entendido que o mero não conhecimento ou a improcedência do recurso não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo pressuposto para tal o nítido descabimento da insurgência.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+(EDcl no AgInt no REsp 1.480.859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
