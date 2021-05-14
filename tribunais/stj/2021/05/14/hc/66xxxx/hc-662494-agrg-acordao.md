@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO DO WRIT NA ORIGEM. AGRAVO IMPROVIDO.
+1. Os temas apresentados pelos agravantes neste habeas corpus não foram previamente examinados pelo Tribunal de origem, inviabilizando o debate da matéria por este Superior Tribunal de Justiça.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de agravo regimental interposto por WELLINGTON CLAY SILVA e TAISON FRANCIS DA SILVA, contra decisão que negou seguimento ao habeas corpus substitutivo de recurso próprio apontando como ato coator o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento do HC N. 0521522-57.2021.8.13.0000 (1.0000.21.052152-2/000).
+Os agravantes foram denunciados pelos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006 e art. 333 do Código Penal. Os autos informam que os fatos criminosos foram descobertos por meio da Operação Hidra, de descobriu uma organização criminosa voltada ao comércio ilícito de entorpecentes. Segundo a denúncia, Taison era responsável por entregar drogas diretamente aos usuários, além de transitar por toda a linha de produção, sendo também responsável pela preparação, guarda e fornecimento de cocaína a outros traficantes do grupo. Wellington Clay Silva também era um dos entregadores subordinados a Antônio Genésio Pereira Soares, identificado como o líder do grupo criminoso.
+A defesa impetrou habeas corpus perante a Corte de origem pretendendo, em síntese, o reconhecimento de nulidade decorrente da suposta ilicitude das interceptações telefônicas e do fato de não terem sido disponibilizados os arquivos originais das gravações telefônicas. Por considerar ilícitas as provas carreadas, a defesa postula sua exclusão dos autos e a revogação da prisão preventiva.
+Nas razões deste regimental, a defesa insiste nos mesmos argumentos trazidos no bojo do habeas corpus, buscando a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Não obstante os argumentos defensivos, a presente irresignação não merece prosperar.
+A questão relativa às nulidades trazidas a exame neste habeas corpus não foram objeto de debates pelo Tribunal de origem.
+A ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Ao ensejo, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DO ACÓRDÃO IMPUGNADO. PROVA DEVE SER PRÉ-CONSTITUÍDA. IMPOSSIBILIDADE DE PROSSEGUIR NA ANÁLISE DO PLEITO. VEDAÇÃO À SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO. 1. É pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. 2. Agravo regimental improvido. (AgRg no HC 390.108/RJ, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 28/3/2017, DJe 4/4/2017)
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DO DECRETO PRISIONAL. PERICULOSIDADE CONCRETA DO RECORRENTE. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. TRANCAMENTO DA AÇÃO. DESNECESSIDADE. INCOMPETÊNCIA DE JUÍZO. SUSPEIÇÃO DE AUTORIDADE POLICIAL. SUSPEIÇÃO JUÍZO. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DE CULPA. NÃO VERIFICADO. RECURSO ORDINÁRIO DESPROVIDO. I - (..). III - As teses relativas à incompetência da 17ª Vara Criminal para atuar no feito, à nulidade do procedimento investigatório em razão da suspeição da autoridade policial, e à suspeição do magistrado singular não foram debatidas no Tribunal de origem, razão pela qual fica essa corte impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância. IV - O trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade. V - (..). (RHC 93.601/AL, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 24/4/2018, DJe 2/5/2018).
+Diante do exposto, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
