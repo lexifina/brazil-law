@@ -1,0 +1,17 @@
+DIREITO ADMINISTRATIVO. DESCUMPRIMENTO DE OBRIGAÇÃO LEGAL. APLICAÇÃO DE MULTA PECUNIÁRIA. VALOR INICIAL. BASE DE CÁLCULO. SALÁRIO MÍNIMO. POSSIBILIDADE. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO.
+    Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Degasperi & Pompermayer Ltda – Me. Aparelhado o recurso na violação do art. 7º, IV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da possibilidade de utilização do salário mínimo para fixar o valor inicial de multa imposta como sanção pecuniária, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CAPUT DO ART. 265 DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DE MULTA DE DEZ A CEM SALÁRIOS MÍNIMO AO ADVOGADO QUE ABANDONA INJUSTIFICADAMENTE O PROCESSO, SEM COMUNICAÇÃO PRÉVIA AO JUÍZO. CONSTITUCIONALIDADE. DISPOSIÇÃO LEGAL QUE VISA ASSEGURAR A ADMINISTRAÇÃO DA JUSTIÇA, A RAZOÁVEL DURAÇÃO DO PROCESSO E O DIREITO INDISPONÍVEL DO RÉU À DEFESA TÉCNICA. AÇÃO DIRETA JULGADA IMPROCEDENTE” (ADI 4398, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 29.9.2020).
+    Agravo regimental no agravo de instrumento. Processual. Astreintes. Salário mínimo. Excesso. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Supremo Tribunal Federal já se pronunciou no sentido de que a proibição contida no art. 7º, inciso IV, da Constituição Federal visa evitar que o salário mínimo seja utilizado como fator de indexação, o que não ocorre no caso dos autos, em que o valor do referido salário foi utilizado apenas para fixar o valor de multa diária imposta como sanção pecuniária. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 279/STF. 3. Agravo regimental não provido” (AI 781820 AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 19.12.2012).
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. REGIME DA LEI 8.038/90. SALÁRIO MÍNIMO. FIXAÇÃO DE VALOR INICIAL DE CONDENAÇÃO. SÚMULA VINCULANTE 4. 1. A jurisprudência do STF admite o uso do salário mínimo como fixador inicial de condenação, desde que não haja atrelamento para fins de atualização. Nesta hipótese, não há afronta à Súmula Vinculante 4 ou ao art. 7º, IV, da CRFB/1988. 2. Agravo regimental a que se nega provimento” (Rcl 19193 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.8.2016).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de maio de 2021.
+Ministra Rosa Weber
+Relatora
