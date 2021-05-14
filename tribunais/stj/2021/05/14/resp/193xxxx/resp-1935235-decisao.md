@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PAYSAGE CONDOMINIOS - LONDRINA LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de rescisão contratual cumulada com restituição de quantia paga, ajuizada pelo recorrido, em face da recorrente, na qual alega quefirmou com a recorrente dois contratos particulares de promessa de compra e venda de imóvel com pacto de alienação fiduciária em garantia de pagamento, e que manifestou interesse no distrato administrativo dos negócios, porém as partes não chegaram a acordo quanto ao valor da rescisão. Pleiteia seja declarada a rescisão dos contratos, bem como a restituição da quantia despendida.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de que se consolide a devolução dos imóveis objetos dos contratos firmados entre as partes à recorrente, bem como para que nãosejam exigidas do recorridoparcelas vincendas do negócio até sua regular dissolução, a ser promovida de acordo com o trâmite previsto na Lei nº 9.514/97.
+Acórdão: deu provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE RESCISÃOCONTRATUAL CUMULADA COM PEDIDO DE DEVOLUÇÃO DEIMÓVEL E RESTITUIÇÃO DE VALORES - SENTENÇA DE PARCIALPROCEDÊNCIA - IRRESIGNAÇÃO DO AUTOR - INAPLICABILIDADEDAS NORMAS DA LEI Nº 9.514/97 - INEXISTÊNCIA DEINADIMPLEMENTO CONTRATUAL PELO DEVEDOR - AUSÊNCIA DEMORA QUE AFASTA A ADOÇÃO DO PROCEDIMENTO DECONSOLIDAÇÃO DA PROPRIEDADE - SIMPLES DESINTERESSE DAPARTE NA CONTINUIDADE DO NEGÓCIO - DIFICULDADEFINANCEIRA - RESOLUÇÃO DOS CONTRATOS POR INICIATIVA DOCOMPRADOR - POSSIBILIDADE - RESTITUIÇÃO PARCIAL DAQUANTIA JÁ PAGA - PERCENTUAL DE RETENÇÃO QUE PODEVARIAR DE 10% (DEZ POR CENTO) A 25% (VINTE E CINCO PORCENTO) DO MONTANTE PAGO - PRECEDENTES DO SUPERIORTRIBUNAL DE JUSTIÇA - SÚMULA 543/STJ - RETENÇÃO DE 10%(DEZ POR CENTO) NO PRESENTE CASO QUE SE MOSTRAADEQUADA ÀS PARTICULARIDADES DA LIDE - RESTITUIÇÃO QUEDEVE OCORRER DE FORMA IMEDIATA E EM ÚNICA PARCELA -CORREÇÃO MONETÁRIA PELO ÍNDICE NACIONAL DE PREÇOS AOCONSUMIDOR (INPC) QUE DEVE INCIDIR A PARTIR DE CADADESEMBOLSO DAS PARCELAS - JUROS DE MORA DE 1% (UM PORCENTO) AO MÊS A PARTIR DO TRÂNSITO EM JULGADO -SENTENÇA REFORMADA - RECURSO PROVIDO. (e-STJ Fl. 632)
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 26 e 27 da Lei nº 9.514/97; 53 do CD; da Súmula 543/STJ, bem como dissídio jurisprudencial. Sustenta a impossibilidade de o contrato de compra e venda de imóvel ser extinto por iniciativa e desistência do adquirente (devedor fiduciário), sob a alegação de não ter condições de honrar o pagamento das prestações financiadas.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/PR de que "conquanto a apelada alegue em sua defesa a aplicabilidade da Lei nº 9.514/97 ao contrato firmado entre as partes e que, portanto, deve-se adotar o procedimento de consolidação da propriedade em favor do credor, com realização de leilão extrajudicial, sabe-se que, para tanto, impõe-se a configuração da mora pelo devedor, o que não é o caso dos autos, já que o apelante efetuou o pagamento das parcelas até a superveniência da decisão liminar que suspendeu sua exigibilidade" (e-STJ Fl. 638), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inaplicabilidade da Lei nº 9.514/97 à hipótese dos autos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 ou 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15,majoro os honorários fixados anteriormente para 18% sobre o valor do proveito econômico obtido pelo recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIA PAGA.VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de rescisão contratual cumulada com restituição de quantia paga.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Recurso especial não conhecido, com majoração de honorários.
