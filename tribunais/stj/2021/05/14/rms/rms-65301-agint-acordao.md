@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por JEFFERSON AMAURI DE SIQUEIRA contra decisão de minha lavra, que negou provimento ao seu recurso em mandado de segurança, ante a inexistência de manifesta ilegalidade ou teratologia no decisum judicial contra o qual foi impetrado o subjacente mandamus.
+Sustenta o agravante, em síntese, que: (a) "a decisão atacada é infundada, teratológica, abusiva e manifestamente ilegal, violando a lei federal 1060 (violação gritante), bem como violando preceito constitucional de acesso à justiça aos hipossuficientes (art. XXXV e LXXIV ambos do CDF/88" (fls. 1.590/1.591), uma vez que no caso concreto foi "comprovada hipossuficiência de recursos" (fl. 1.591); (b) teria sido demonstrado nos autos que em vários outros processos houve o reconhecimento de sua condição de hipossuficiente, com a concessão da gratuidade de justiça.
+Requer, assim, a reconsideração da decisão agravada.
+Impugnação às fls. 1.765/1.804.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Cuida-se, na origem, demandado de segurança impetrado contra suposto ato ilegal atribuído aos Desembargadores integrantes da 6ª Câmara Cível do Tribunal de origem, com vistas àproteção de invocado direito líquido e certo que teria sido violado pelas autoridades apontadas coatoras:acerca da aplicação de multa nos autos de Agravo Interno nº 35850-36.2016.8.16.000.01,e, ainda, sobre a manutenção da decisão singular que indeferiu o pedido de gratuidade legal formulado pelo impetrante, ora agravante, nos autos daAção de Obrigação de Fazer nº 19115-22.2019.8.6.001, que, desafiada por AI nº 35850-36.2016.8.16.000, não obteve provimento.
+A decisão agravada foi assim fundamentada (fls. 1.576/1.580):
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, é firme o entendimento deste Superior Tribunal no sentido de que "a impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial" (AgInt nos EDcl no RMS 61.128/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 16/10/2020).
+Na espécie vertente, o Tribunal de origem firmou a compreensão no sentido de que não restou figurado o alegado ato ilegal, teratológico ou abusivo, nos seguintes termos (fls. 927/928):
+No caso presente, como ressaltado na decisão recorrida, não se vislumbra cabível o manejo de ação mandamental, na medida em que, como lá exposto:
+"(..) há previsão legal dispondo acerca da possibilidade de se alcançar aos recursos cabíveis - especial e extraordinário, efeito suspensivo, ex vi do disposto pelo art. 1029, § 5º, do CPC.
+Por outro lado, no que respeita a" aplicac a o de multa ao agravante, tambe"m na o ha" qualquer ilegalidade, pois a penalidade aplicada decorre de expressa disposic a o legal (art. 1021, § 4º, doCPC).
+No que respeita ao não provimento do instrumental, não é viável admitir o manejo de ação mandamental porque referido decisório, colegiado, só comportaria revisão através de recurso próprio".
+Por outro tanto, é importante registrar que estão perfeitamente delineados na decisão recorrida os motivos pelos quais se concluiu pelo indeferimento liminar da ação mandamental.
+Assim, afigura-se aleivosa e totalmente desprovida de fundamento a afirmação lançada pelo recorrente, no sentido de que "não há relação alguma com ataque a" divergência de julgados, mas sim, algum interesse particular obscuro do colegiado, da relatoria do acórdão atacado e que deve ser esclarecido".
+O que não há, com a devida vênia, é a escorreita compreensão, pelo recorrente, do exato sentido das decisões que lhe são desfavoráveis, as quais sempre qualifica como teratológicas, ilegais e sem amparo legal.
+Para ilustrar, teratolo"gica e" a decisa o absurda, enquanto que ilegal seria todo o provimento jurisdicional sem amparo no ordenamento. E nenhuma destas hipo"teses se vislumbra no caso em ana"lise, sendo certo que, como anotado " as deciso es que sa  o impugnadas sa  o dotadas de fundamentac a o suficiente, e sa o pro"prias dos contextos nos quais esta o inseridas. E mais, na o contemplam ilegalidade manifesta, o que, de per si, desautoriza o manejo da augusta via que, ao fim e ao cabo, visa somente alcanc ar ao agravante um provimento que foi negado por o"rga o colegiado, cuja alterac a o so" e" possi"vel de ser obtido pelas insta ncias superiores.
+Com efeito, considerando-se que contra decisão que indeferiu o pedido de gratuidade de justiça seria cabível a interposição de agravo de instrumento, nos termos do art. 1.015, V, do CPC/2015, e, ainda, considerando-se que o indeferimento do referido benefício deu-se de forma fundamentada, efetivamente inexiste na espécie qualquer ilegalidade, abuso ou teratologia a serem combatidos, o que impossibilita o manejo do subjacente mandado de segurança. Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO EM MANDADO DE SEGURANÇA. A IMPETRAÇÃO DE MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL SOMENTE É POSSÍVEL QUANDO SE IDENTIFICAR MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO, EM HARMONIA COM O PARECER MINISTERIAL.
+1. O writ manejado na origem buscou atacar decisão judicial contra a qual é cabível recurso próprio, incidindo, no presente caso, a Súmula 267 do STF, segundo a qual, não cabe Mandado de Segurança contra ato judicial passível de recurso ou correição.
+2. Agravo Interno dos Particulares a que se nega provimento.
+(AgInt no MS 26.047/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. DESCABIMENTO COMO SUCEDÂNEO RECURSAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Quando uma decisão é indicada como precedente para outra, os fatos não precisam ser idênticos nos dois casos, mas devem ser substancialmente semelhantes, sem diferença material (teoria da similaridade substancial fática).
+2. O distinguishing, como técnica de observância do uso adequado dos precedentes, não comporta discussão em mandado de segurança, senão no recurso adequado à hipótese atinente ao inconformismo da parte interessada.
+Não se admite a impetração de mandado de segurança para impugnar decisão judicial passível de recurso próprio.
+3. É inadmissível a utilização de mandado de segurança sem a co mprovação de teratologia ou de flagrante ilegalidade do ato judicial impugnado e sem a demonstração da ocorrência de abuso de poder pelo órgão prolator da decisão.
+4. Agravo interno desprovido.
+(AgInt no MS 26.515/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 4/12/2020)
+ANTE O EXPOSTO, nego provimento ao recurso ordinário. Prejudicado o pedido de liminar.
+Pois bem.
+De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018).
+Acerca dessa exigência, José Antônio SAVARIS e Flávia da Silva XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5ª ed. Curitiba: Alteridade, 2015, p. 50).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro SÉRGIO KUKINA, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, REPDJe 4/10/2018).
+Sucede que, no caso concreto, a parte ora recorrente não impugnou especificamente os fundamentos da decisão agravada, limitando-se a repisar os argumentos anteriormente expendidos no recurso em mandado de segurança, o que atrai a incidência da Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
