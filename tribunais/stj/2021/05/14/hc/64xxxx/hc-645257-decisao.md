@@ -1,0 +1,23 @@
+DECISÃO
+VANDERLUCIO TEIXEIRA GOMES alega sofrer coação ilegal em face deacórdão do Tribunal de Justiça do Estado de São Paulo.
+A Defensoria Pública requer, em liminar e no mérito, a concessão do livramento condicional ao paciente, eis que preenchidos os requisitos legais do benefício.
+O Ministério Público Federal opinou pela denegaçãoda ordem.
+Decido.
+O sentenciado cumpre16 anos, 9 meses e 18 dias de reclusão, pela práticade tráfico ilícito de entorpecentes, posse ilegal de arma de fogo de uso proibido e dois crimes de roubo, com término da execução previstopara 14/5/2027.
+Em 26/8/2020, o Juiz da VEC deferiu seu pedido de progressão aoregime semiaberto, mas indeferiu o livramento condicional, pelos seguintes fundamentos (fl. 79-80):
+O documento de fls. 48 atesta que o sentenciado possui bom comportamento carcerário, já reabilitado da sua última falta grave. Ele trabalhou na prisão e não há indícios de que integre organização criminosa. Ainda em relação ao mérito, realizado exame criminológico, a Comissão Técnica de Classificação opinou favoravelmente à progressão de regime, ressaltando diversos aspectos psicossociais positivos do sentenciado (fls. 57). Assim, a prova dos autos indica que deve ser oportunizado o cumprimento da pena em regime semiaberto, para que o sentenciado possa continuar o caminho da ressocialização. Entretanto, no que tange ao pedido de livramento condicional, ainda que se considere resgatado o requisito temporal, não há, por ora, aptidão para o completo retorno ao convívio social, ressaltando-se que o requisito subjetivo exigido para a concessão de benefício de amplo caráter deve ser comprovado de forma mais contundente. Na hipótese destes autos, o sentenciado praticou duas faltas graves durante ocumprimento da pena (não retorno da saída temporária e prática de crime). Ressalte-se que, para o livramento condicional, exige-se bom comportamento carcerário durante toda a pena, e não apenas nos últimos 12 meses.
+Além disso, o sentenciado mostrou  in capacidade de lidar com raiva e frustração em elevação (apesar de não cometer faltas desde 2015, permanece em pavilhão de rigor intermediário) e senso de responsabilidade em desenvolvimento (melhor reavaliação de sua conduta pregressa e interesse em dedicar-se futuramente ao trabalho e estudo).
+Por essas razões, entendeu acertadamente a Comissão Técnica de Classificação que é necessária gradativa reinserção no convívio social, devendo o sentenciado permanecer mais um tempo sob vigilância estatal, para que melhor desenvolva mecanismos inibitórios de condutas antissociais, que lhe permitam, oportunamente, desfrutar de livramento condicional.
+O Tribunal de origem destacou: "a conclusão do exame criminológico realizado foi favorável apenas à progressão do sentenciado para o regime semiaberto" (fl. 142).
+As faltas graves no curso da execução, de fato,são antigas (prática de novo roubo e fuga, com reabilitação administrativa em 2017). Entretanto, não foi o mau comportamento que, isoladamente, ensejou o indeferimento do livramento condicional. O benefício foi negado por falta de requisito subjetivo, ante a existência de exame criminológico desfavorável.
+De acordo com o Juiz da VEC, não eracabível a transferência direta do regime fechado para o livramento condicional, porquanto o reeducando mostrou incapacidade de lidar com sentimentos de raiva e de frustração e seu senso de responsabilidade ainda estava em desenvolvimento. A conclusão está abalizada por parecer da Comissão Técnica, que recomendou a gradativa reinserção do condenado no convívio social.
+Aplica-se ao caso o entendimento de que:
+ ..  Realizado o exame criminológico, com resultado desfavorável ao agravante, nada obsta sua consideração no discricionário e motivado indeferimento do pedido de livramento condicional. A conclusão do Juiz das Execuções, abalizada por perícia, não é ilegal.
+ ..
+(AgRg no HC 572.409/SP, Rel. MinistroRogerio Schietti, Sexta Turma, DJe 10/6/2020).
+ ..  o exame criminológico desfavorável impossibilita a concessão da mencionada benesse.
+3. Por outro lado, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+ ..
+(HC n. 481.569/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/3/2019).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
