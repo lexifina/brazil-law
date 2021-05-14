@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  ALEXSANDRO  RODRIGO  DA  SILVA  no  qual  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Estado  de  São  Paulo  (HC  n.  2037550-63.2021.8.26.0000).
+Consta  dos  autos  que  , no momento da autuação deste processo,  o  paciente  se  encontrava  preso  preventivamente  pela  prática,  em  tese,  do  delito  tipificado  no  art.  33  da  Lei  n.  11.343/2006  (tráfico  de  drogas)  em  virtude  da  apreensão  de  102,74g  (cento  e  dois  gramas  e  setenta  e  quatro  centigramas)  de  cocaína  e  504,8g  (quinhentos  e  quatro  gramas  e  oito  decigramas)  de  maconha.
+Pleiteada  a  prisão  domiciliar,  o  pedido  foi  indeferido  pelo  Juízo  de  primeiro  grau,  decisão  essa  mantida  pelo  Tribunal  de  origem  (e-STJ  fls.  14/17).
+No  presente  writ,  a  defesa  alega  que  o  acórdão  impugnado  carece  de  motivação  idônea  para  a  negativa  da  prisão  domiciliar.
+Aduz  que  o  paciente  faz  jus  à  aludida  benesse  tendo  em  vista  que  "possui  uma  filha  recém-nascida,  fruto  de  seu  relacionamento  com  Elissandra  Aparecida  da  Silva,  sua  atual  companheira.  Ocorre  que  a  genitora  da  infante  exerce  atividade  laborativa  como  atendente  no  período  entre  às  8h00  e  18h00,  conforme  comprovado  pelos  documentos  em  anexo.  No  período  da  tarde  (13  horas  -  18  horas),  a  infante  fica  sob  a  responsabilidade  exclusiva  do  genitor,  ora  paciente,  posto  que  sua  carga  horária  de  trabalho  junto  à  Prefeitura  Municipal  de  Ourinhos/SP  encontra-se  reduzida,  em  razão  do  Decreto  Municipal  nº  3.240/2020,  editado  durante  a  Pandemia  causada  pelo  COVID-19.  Além  disso,  as  creches  do  município  de  Ourinhos/SP  encontram-se  fechadas  em  razão  da  Pandemia,  não  havendo  alternativas  aos  cuidados  da  criança  que  não  a  presença  diária  do  genitor  na  residência.  Outrossim,  o  paciente  demonstrou  que,  no  período  da  manhã,  sua  filha  fica  sob  os  cuidados  de  sua  irmã,  Nethelyn  Érica  da  Silva  Bernardino,  porém  essa  não  possui  disponibilidade  para  cuidar  da  sobrinha  no  período  da  tarde,  pois  exerce  atividade  laboral  junto  ao  Supermercado  Amigão  de  Ourinhos/SP"  (e-STJ  fls.  8/9).
+Pontua  que  o  crime  pelo  qual  o paciente  responde  não  foi  praticado  mediante  violência  ou  grave  ameaça.
+Busca,  inclusive  liminarmente,  a  concessão  da  prisão  domiciliar  ao  paciente.
+Liminar  indeferida  às  e-STJ  fls.  73/75.
+O  Ministério  Público  Federal  manifestou-se  pela  prejudicialidade  do  writ.
+É  o  relatório.
+Decido.
+O  presente  writ  está  prejudicado.
+Isso,  porque,  no  julgamento,  em  30/4/2021,  do  HC  653.769/SP,  também  impetrado  em  favor  do  ora  paciente  ,  concedi  a  ordem  para  determinar  a  substituição  da  prisão  preventiva  por  medidas  cautelares  diversas  da  prisão,  que seriam estabelecidas  pelo  Juízo  de  origem.
+A impetração em comento e o HC n.653.769/SP  se  voltam  contra  prisão  decretada  no  bojo  da  Ação  Penal  n.  1500259-26.2021.8.26.0408. Assim, diante da mencionada concessão da ordem, o presentewritperdeu seu objeto.
+Ante  o  exposto,  com  base  no  art.  34,  XX,  do  Regimento  Interno  desta  Corte,  julgo  prejudicado  o  presente  habeas  corpus.
+Publique-se.  Intimem-se.
