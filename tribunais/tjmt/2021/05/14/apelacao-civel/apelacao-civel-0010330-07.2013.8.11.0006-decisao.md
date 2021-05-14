@@ -1,0 +1,45 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1031425-58.2019.8.11.0041
+1o APELANTE: JEAN CARLOS FAZIO DE OLIVEIRA
+2o APELANTE: MAURO AMÉLIO EUSTÁQUIA
+APELADOS: OS MESMOS
+EMENTA – DECISÃO MONOCRÁTICA – APELAÇÕES CÍVEIS – AÇÃO DE REPARAÇÃO DE DANOS – PEDIDO DE ASSISTÊNCIA JUDICIÁRIA FORMULADO POR AMBOS OS RECORRENTES – INDEFERIMENTO – CONCESSÃO DE PRAZO PARA O RECOLHIMENTO DO PREPARO – NÃO OBSERVÂNCIA – PARTE QUE POSSUI CURADORIA ESPECIAL REALIZADA PELA DEFENSORIA – PEDIDO DE ASSISTÊNCIA JUDICIÁRIA – HIPOSSUFICIÊNCIA ECONÔMICA – PRESUNÇÃO – IMPOSSIBILIDADE – DESERÇÃO DOS APELOS CARACTERIZADA – EXEGESE DO ART. 1.007 DO CPC – MANIFESTA INADMISSIBILIDADE – ART. 932, III, DO CPC – RECURSOS NÃO CONHECIDOS.
+A nomeação da Defensoria Pública, como curadora especial, por si só, não traz a presunção da hipossuficiência econômica em relação à parte curatelada, haja vista que a assistência judiciária nesses casos depende da condição financeira do assistido.
+A não observância do prazo concedido para a regularização do preparo impede o conhecimento do recurso, ante a ocorrência da deserção, nos termos do art. 1.007 do CPC.
+DECISÃO MONOCRÁTICA
+Tratam-se de apelações cíveis interpostas por ambas as partes litigantes, quais sejam, JEAN CARLOS FAZIO DE OLIVEIRA e MAURO AMÉLIO EUSTÁQUIA, patrocinadas pela Defensoria Pública Estadual, em razão do inconformismo com a sentença de ID no 62523976 proferida pelo Juízo da 3a Vara Cível da Comarca de Cáceres nos autos da AÇÃO DE REPARAÇÃO DE DANOS de no 1031425-58.2019.8.11.0041.
+Nos recursos interpostos, continham pedidos para concessão da assistência judiciária.
+Em decisão de ID no 66411486 assim fixei:
+“Em atenção ao disposto no art. 99, § 2o, do CPC, intimem-se ambas as partes apelantes para, no prazo de 05 dias, previsto no art. 79-B, § 1o, do RITJMT, comprovar nos autos os pressupostos exigidos para a concessão da assistência judiciária vindicada, com a apresentação de documentos que demonstrem as suas situações financeiras atuais (declaração do IR, holerite, cópia da carteira de trabalho, extrato bancário, faturas de cartão de crédito, de energia e de água dos últimos três meses e etc).”
+Em petição de ID no 67943483, o 1o recorrente postulou a dilação do prazo para apresentar tais documentos, sob a justificativa de que encontra-se em viagem.
+Por sua vez, o 2o recorrente, em petição de ID no 69022485 manifestou-se pela desnecessidade de tal diligência, uma vez que se trata de curadoria especial da Defensoria Pública Estadual.
+Em decisão de ID no 72887490 novamente determinei o recolhimento do preparo, nos termos do art. 1.007, § 2o, do CPC.
+Em petição de ID no 73560461 o 2o apelante, novamente, sustenta que por se tratar de curadoria especial da Defensoria Pública Estadual, está dispensado do recolhimento do preparo automaticamente.
+Certidão de ID no 77893963 informa que o 1o recorrente deixou de se manifestar no feito.
+É o relatório.
+Decido.
+Na hipótese, houve o pedido de concessão da assistência judiciária por ambas as partes apelantes, que foi indeferido e, não obstante tenha sido oportunizado às partes o recolhimento de custas, estas quedaram-se inertes, deixando escoar o prazo sem qualquer justificativa.
+Em razão disso, resta evidente a afronta ao mandamento do artigo 1.007 do CPC, in verbis:
+“Art. 1.007. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção” (grifo nosso)
+Sobre o assunto, colaciono aresto deste Sodalício:
+“RECURSO DE APELAÇÃO CÍVEL - INTERDITO PROIBITÓRIO - IMPROCEDENTE - AUSÊNCIA DE PREPARO - DESERÇÃO - RECURSO NÃO-CONHECIDO. Se o preparo é exigência de admissibilidade de determinado recurso, não efetivado, ocorre o fenômeno da deserção, causa de não conhecimento do recurso.” (TJ-MT. Ap, 119387/2013, DES.GUIOMAR TEODORO BORGES, SEXTA CÂMARA CÍVEL, Data do Julgamento 05/02/2014, Data da publicação no DJE 10/02/2014) (grifo nosso)
+E de minha relatoria:
+“APELAÇÃO CÍVEL (...) PREPARO NÃO RECOLHIDO – DESERÇÃO CONFIGURADA (...) RECURSO DO 1o APELANTE, ÍTALO RODRIGO ASSUNÇÃO FRANÇA NÃO CONHECIDO – RECURSO DA 2a APELANTE, ANHANGUERA EDUCACIONAL S. A., CONHECIDO E DESPROVIDO. “Nos termos do artigo 511 do CPC “No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção”. 2 - O preparo, no momento da interposição do recurso, é essencial para o seu processamento e só poderá ser dispensado quando já concedida à gratuidade; em momento anterior à interposição do recurso.” (TJ-MT, RAC no. 3.439/2013, 4a Câmara Cível, Rel. Desa. Serly Marcondes Alves) (...) (Ap no. 81040/2015, 5a Câmara Cível, TJ/MT, Rel. Des. Dirceu dos Santos, julgado em 07/10/2015, publicado no DJE de 13/10/2015)
+Anoto, por fim, que a despeito de ter sido a Defensoria Pública nomeada curadora especial do 2o apelante, não há como pressupor o estado de miserabilidade a ensejar a concessão da assistência judiciária para a assistida. Até porque a hipossuficiência não pode ser presumida, nos termos do artigo 5o, inciso LXXIV, da CF. Vejamos:
+“Art. 5o.
+[...]
+LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;”
+Com efeito, a nomeação da Defensoria Pública, como curadora especial, por si só, não traz a presunção da hipossuficiência econômica em relação à parte curatelada, haja vista que a assistência judiciária nesses casos depende da condição financeira do assistido.
+Na hipótese, razão não assiste ao 2o apelante para o deferimento do benefício, na medida em que ausente qualquer prova acerca da real situação financeira da postulante.
+Nesse sentido:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NO RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE COMPROVAÇÃO. DEFENSORIA PÚBLICA. CURADORIA ESPECIAL. RÉU REVEL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PRESUNÇÃO. INEXISTÊNCIA. DESERÇÃO. AGRAVO IMPROVIDO.1. A jurisprudência do STJ se firmou no sentido de que o deferimento dos benefícios da justiça gratuita não se presume, mesmo nos casos em que a Defensoria Pública atue como curador especial de réu revel.Precedentes.2. Dessa forma, não havendo nos autos o deferimento expresso da referida benesse, nem o recolhimento do preparo após intimação da Presidência desta Corte para tanto, deve ser mantida a deserção do recurso especial.3. Agravo interno a que se nega provimento.” (STJ. AgInt no RCD no REsp 1645186/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29.08.2017, DJe 05.09.2017).
+“PROCESSO CIVIL E TRIBUTÁRIO – APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO - DEVEDOR CITADO POR EDITAL — POSSIBILIDADE - ESGOTAMENTO DAS SUCESSIVAS MODALIDADES DE CITAÇÃO - REVELIA - CURADOR ESPECIAL - NOMEAÇÃO DA DEFENSORIA PÚBLICA - PARTE VENCIDA - HIPOSSUFICIÊNCIA ECONÔMICA - PRESUNÇÃO -IMPOSSIBILIDADE - CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS - CABIMENTO – RECURSO DESPROVIDO. A citação editalícia, na execução fiscal, deve ocorrer quando frustradas as diligências citatórias realizadas, por carta ou por mandado a ser cumprido por oficial de justiça. Precedentes do STJ.O fato de a parte vencida estar representada pela Defensoria Pública, que atua na condição de curadora especial, não faz presumir a sua hipossuficiência econômica, a isentá-la do pagamento de custas e honorários advocatícios.” (TJMT. RAC no 129258/2015, DES. MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 16/05/2016, Publicado no DJE 19/05/2016).
+“APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – PREPARO – CURADORIA ESPECIAL – ISENÇÃO – ASSISTÊNCIA JUDICIÁRIA GRATUITA – DEFENSORIA PÚBLICA – PRESUNÇÃO LEGAL – INEXISTÊNCIA - COMPROVAÇÃO DA HIPOSSUFICIÊNCIA – APLICAÇÃO DO INCISO LXXIV, DO ARTIGO 5o DA CONSTITUIÇÃO FEDERAL – AUSÊNCIA - SENTENÇA MANTIDA – RECURSO DESPROVIDO. Segundo o artigo 5o, inciso LXXIV, da Constituição Federal, “o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos”. O custeio da causa pela Defensoria Pública não expressa a automática concessão dos benefícios da justiça gratuita, devendo ser observadas as condições necessárias para a obtenção de seus efeitos, previstas em lei (STJ AgRg nos EDcl no AREsp 750103/MS). A concessão do benefício da justiça gratuita é admissível, desde que comprovada a impossibilidade de arcar com as despesas processuais (STJ AgRg no AREsp 793723/SP).” (TJMT. RAC 180556/2016, DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 09.05.2017, Publicado no DJE 12.05.2017).
+Sendo assim, deixando as partes recorrentes de preencherem um dos pressupostos extrínsecos de admissibilidade recursal, qual seja, a comprovação do preparo, o não conhecimento dos apelos é medida que se impõe.
+Dispositivo.
+Com essas considerações, com base no art. 932, inciso III, do CPC, NÃO CONHEÇO dos recursos apresentados, ante a sua manifesta inadmissibilidade.
+Às providências necessárias.
+Des. DIRCEU DOS SANTOS
+RELATOR
