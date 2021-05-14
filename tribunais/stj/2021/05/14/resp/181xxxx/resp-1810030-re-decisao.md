@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por KIT S PARANA-INDUSTRIA E COMERCIO DE MOVEIS LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 417):
+PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA POR INFRAÇÃO AMBIENTAL. PRESCRIÇÃO INTERCORRENTE. DECRETO N. 20.910/1932. LEI N. 9.873/1999. ENTE ESTADUAL. INAPLICABILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com a jurisprudência desta Corte, "o art. 1º do Decreto n. 20.910/1932 regula somente a prescrição quinquenal, não havendo previsão acerca de prescrição intercorrente, prevista apenas na Lei n. 9.873/1999, que, conforme entendimento do Superior Tribunal de Justiça, não se aplica às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal" (REsp 1.662.786/PR, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 16/05/2017, DJe 16/06/2017).
+3. Hipótese em que o tribunal local, no aresto recorrido, utilizou o Decreto n. 20.910/32 para pronunciar a prescrição intercorrente administrativa de dívida oriunda de multa lavrada pelo órgão ambiental estadual, ora agravado.
+4. Agravo interno desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 452-454).
+Sustenta arecorrente a existência de repercussão geral e a violação do artigo 5º, inciso LXXVIII, da Constituição Federal, pois os princípios da duração razoável do processo e da segurança jurídica impõem o reconhecimento da prescrição intercorrente no âmbito do procedimento administrativo estadual.
+Afirma que, restando indevidamente paralisado por mais de 12 (doze) anos, ou seja, de 17.2.2003 a 20.3.2015, configurou-se lapso temporal superior ao previsto no artigo 1º do Decreto n. 20.910/1932.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadasàsfls. 478-482.
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão da aplicabilidade do Decreto n. 20.910/1932 e da Lei n. 9.873/1999 quanto à disciplina da prescrição intercorrente no âmbito dos procedimentos administrativos instaurados perante osEstados e Municípios, estando o acórdão recorrido assim fundamentado:
+Com efeito, tal como ali anotado, o tribunal local, no aresto recorrido, utilizou o Decreto n. 20.910/1932 para pronunciar a prescrição intercorrente administrativa de dívida oriunda de multa lavrada pelo órgão ambiental estadual, ora agravado (e-STJ fls. 294/297):
+Verifica-se, no caso dos autos, que o débito executado tem natureza de multa administrativa e não caráter tributário, e, consoante jurisprudência do Superior Tribunal de Justiça, quando a execução se referir ao valor de multa atinente a crédito de natureza não tributária, diante da inexistência de regra própria e específica, deve-se aplicar o prazo quinquenal estabelecido no artigo 1º do Decreto nº 20.910/1992 (Recurso Especial nº 1.112.577/SP, julgado na sistemática dos recursos repetitivos).
+De acordo com a jurisprudência desta Corte, "o art. 1º do Decreto n. 20.910/1932 regula somente a prescrição quinquenal, não havendo previsão acerca de prescrição intercorrente, prevista apenas na Lei n. 9.873/1999, que, conforme entendimento do Superior Tribunal de Justiça, não se aplica às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal" (REsp 1.662.786/PR, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 16/05/2017, DJe 16/06/2017).
+A propósito, destaco precedentes:
+ ..
+Confiram-se, ainda: AgInt no AgInt no REsp 1.773.408/PR, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 1º/10/2019, DJe 04/10/2019; AgInt no REsp 1.609.487/PR, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 16/02/2017, DJe 23/02/2017; AgRg no AREsp 750.574/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 03/11/2015, DJe 13/11/2015.
+Dessa forma, ante a ausência de previsão legal acerca da hipótese, conforme consignado pelo próprio Tribunal a quo, não poderia ter declarada a prescrição intercorrente, prevista apenas na Lei n. 9.873/1999.
+Desse modo, a análise da matéria ventilada depende do exame do art. 1º Decreto n. 20.910/1932 e da Lei n. 9.873/1999, razão pela qual eventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISS. TV A CABO. PROCESSO ADMINISTRATIVO FISCAL. PRESCRIÇÃO INTERCORRENTE. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO. (ARE 721.109 AgR. Primeira Turma. Rel. Min. LUIZ FUX. Julgado em 28/10/2016.PROCESSO ELETRÔNICO.DJe-243 DIVULG 16-11-2016 PUBLIC 17-11-2016)
+Agravo regimental em recurso extraordinário. 2. Direito Processual Civil e Administrativo. 3. Duração razoável do processo. Prescrição Intercorrente. 4. Matéria infraconstitucional. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental" (RE 1.211.103-AgR, Segunda Turma. Rel. Min. Gilmar Mendes.julgado em 04/10/2019, PROCESSO ELETRÔNICO DJe-226 DIVULG 16-10-2019).
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PROCEDIMENTO ADMINISTRATIVO ESTADUAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DO DECRETO N. 20.910/1932 E DA LEI N. 9.873/1999.MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
