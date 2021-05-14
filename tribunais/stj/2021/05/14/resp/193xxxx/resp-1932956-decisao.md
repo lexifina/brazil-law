@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparona alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+PREVIDENCIÁRIO. REMESSA OFICIAL. PENSÃO POR MORTE. TRABALHADOR RURAL.ÓBITO DO CÔNJUGE/GENITOR NA VIGÊNCIA DA LEI 8.213/91 E DA LEI 9.528/97.DEPENDÊNCIA PRESUMIDA. ATIVIDADE RURAL COMPROVADA POR INICIO DE PROVA DOCUMENTAL CORROBORADA POR PROVA TESTEMUNHAL. TUTELA ANTECIPADA.TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. CUSTAS.
+1. Muito embora o art. 273, caput, do CPC, expressamente, disponha que os efeitos da tutela pretendida na inicial poderão ser antecipados, a requerimento da parte, total ou parcialmente, firmou-se nesta Primeira Turma a possibilidade de o órgão jurisdicional antecipá-la de oficio, tendo em vista a natureza alimentar do benefício previdenciário e em razão da verossimilhança do direito material alegado. Precedentes desta Corte.
+2. Pensão por morte prevista no art. 74 da Lei 8.213/91, que é devida ao conjunto dos dependentes de trabalhador rural, está subordinada à demonstração da condição de dependente do segurado, nos termos do art. 16 da mencionada lei, e à comprovação da atividade rural exercida pelo falecido, por meio de início de prova material corroborada por prova testemunhal coerente e robusta.
+3. A dependência econômica do cônjuge, da companheira, do companheiro e do filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido é presumida (Lei 8.213/91, art. 16, I e § 4º), conquanto cabível prova em contrário.
+4. A jurisprudência tem aceito que a comprovação do tempo de carência seja demonstrado por inicio razoável de prova documental, desde que corroborada por prova testemunhal consistente sobre a veracidade das alegações.
+5. O rol de documentos a que se refere o art. 55, § 3º, da Lei 8.213/1991, que o STJ já decidiu ser exemplificativo, indica, dentre outros, aqueles que podem ser aceitos para em conjunto com os fatos apontados e os demais elementos de prova, formar a convicção do juízo.
+6. No caso concreto, a parte autora juntou documentação que se enquadra nos moldes admitidos pela jurisprudência, em que consta a qualificação de rurícola, sendo o início de prova corroborado por testemunhas que atestam a qualidade de trabalhador rural do instituidor do benefício.
+7. Tendo o ex-segurado falecido na vigência da Lei 9.528/97, que alterou a redação originária do art. 74 da Lei 8.213/91, o benefício será devido a partir da data do óbito, quando requerido até 30(trinta) dias depois deste, do requerimento administrativo, quando requerido após o prazo previsto anteriormente, observada a prescrição qüinqüenal.
+8. Na ausência de requerimento administrativo prévio, de acordo com a jurisprudência mais atual do STJ, firmada após a atribuição do tema à Primeira Seção daquela Corte, pacificou-se o entendimento de que o benefício é devido a partir da citação, sendo oportuno citar, dentre outros, os precedentes inscritos no AgRg no AREsp 255.793/SP, EDcl 1349703/RS e AREsp 516018.
+9. A prescrição quinquenal não corre contra os absolutamente incapazes (CC/2002, art. 198, I, e Lei 8.213/91, art. 103, parágrafo único). Entretanto, a causa impeditiva do transcurso do prazo prescricional somente ocorre até a relativização da incapacidade do menor, ou seja, quando ele completa 16 (dezesseis) anos de idade, passando, a partir de então, a ter fluência para o requerimento das parcelas vencidas. Precedentes.
+10. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal.
+11. Honorários advocatícios conforme fixado na sentença, a míngua de recurso da parte autora.
+12. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF, art.109, § 3º), o INSS está isento das custas somente quando lei estadual específica prevê a isenção,- o que ocorre nos Estados de Minas Gerais, Goiás, Rondônia e Mato Grosso. Em se tratando r  causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º, I, daLei 9.289/96.
+13. Apelação do INSS não provida.
+14. Remessa oficial parcialmente provida.
+O INSS alega violação do art. 535 do CPC ao fundamento de que não foi analisada a alegação de que o acórdão incorreemreformatio in pejus.
+Decido.
+Há de se reconhecer a suscitadaviolação do art. 535 do CPC/1973, porquanto a tese trazida ao debate pelo INSS não foi devidamente apreciada pela Corte de origem, cabendo o retorno dos autos.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos para a complementação do julgamento da lide.
+Publique-se. Intimem-se.
