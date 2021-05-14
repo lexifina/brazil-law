@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Mato Grosso do Sul, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 98):
+EMENTA - APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE - INÉRCIA E DESÍDIA DO EXEQUENTE - ÔNUS DA SUCUMBÊNCIA - FIXAÇÃO DE HONORÁRIOS EM DESFAVOR DO EXEQUENTE - POSSIBILIDADE - RECURSO NÃO PROVIDO. Tendo em vista que o credor deu causa à oposição de exceção de préexecutividade, bem como restou vencido na demanda expropriatória, a qual foi extinta, deve responder pelos honorários advocatícios, em virtude do princípio da causalidade e da sucumbência. Recurso conhecido e não provido, sentença mantida incólume.
+A parte recorrente aponta violação ao art. 85, "caput", §10º, do CPC. Sustenta, em resumo, que o reconhecimento da prescrição intercorrente, sem resistência do exequente, por ausência de localização de bens não afasta o princípio da causalidade em desfavor do do executado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Destaca-se a seguinte fundamentação do aresto impugnado (fl. 104):
+Assim, embora o devedor tenha dado causa ao ajuizamento da execução fiscal, foi o credor quem deu causa à extinção da ação, devendo, portanto, responder pelas custas e honorários de sucumbência, já que a parte executada teve que contratar advogado para postular em juízo o reconhecimento da prescrição intercorrente, em atenção aos princípios da causalidade e da sucumbência.
+Nesse contexto, o Tribunal de origem não se manifestou sobre a alegação de que o reconhecimento da prescrição intercorrente, sem resistência do exequente, por ausência de localização de bens não afasta o princípio da causalidade em desfavor do do executado, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da S úmula 282/STF.
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
