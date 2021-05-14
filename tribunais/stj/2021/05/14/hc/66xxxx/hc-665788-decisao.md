@@ -1,0 +1,16 @@
+DECISÃO
+KENNEDY DOS SANTOS PIRES alega sofrer constrangimento ilegal diante de decisão proferida por Desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, que indeferiu a liminar em habeas corpus lá impetrado.
+A impetrante postula, liminarmente, a suspensão do trâmite da ação penal de origem, uma vez que foi designado o dia 1º/6/2021 para o julgamento do paciente e dos corréus pelo Tribunal do Júri e, no seu entender, houve cerceamento de defesa no indeferimento do pleito de inclusão de novastestemunhas para depoimento em plenário e de dilação do tempo de debates orais.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau, salvo se evidenciada, sem necessidade de exame mais vertical, a manifesta violação ilegal do direito à liberdade do paciente, o que, na espécie, não verifico.
+Ao indeferir a liminar, o Desembargador plantonistaentendeu, a um primeiro olhar, estar "fundamentada a decisão que indeferiu os pedidos da defesa, não se verificando, no caso, em sede de plantão, razão para deferimento da liminar pleiteada" (fl. 20).
+Odecisumproferido pelo Juízo de primeiro grau traz a seguinte motivação (fl. 18, grifei):
+Inicialmente, conforme já destacado em decisão anterior, considerando que a defesa do réu não arrolou o delegado Rafael Sauthier como testemunha, nem postulou pela diligência de inclusão do líder da FAUERS, na oportunidade do art. 422 do CPP, ocorreu a preclusão dos pedidos em 26/2/2020 (fl. 727v), ou seja, há mais de um ano, e veiculado agora quando já aprazado o julgamento em plenário (após acolhimento do adiamento pleiteado pela defesa do mesmo réu, fls. 992/997).
+Em especial, quanto ao pedido de inclusão da FAUERS, transcrevo trecho do parecer do Ministério Público, adotando-o como razões para decidir, evitando a tautologia:
+(..)
+Não se desconhece a extensão e a multissecularidade da aludida religião; todavia, a discussão em comento diz respeito à torpeza (ou não) do homicídio praticado, não carecendo de detalhamentos exaustivos quanto à historicidade e às origens das linhas religiosas.
+(..)
+A acusação não foi veiculada contra a religião e, se a mídia assim o faz (ou pretendeu fazer), a defesa da religião por interlocutor imparcial (ou outros meios) deve ser feita na via própria, não sendo o momento processual de ampliar os envolvidos no processo, sem deixar de lado o fato de a figura processual sugerida (amicus curiae) não ser compatível com a presente ação penal.
+Pela leitura do excerto transcrito, nota-se a referência a elementos concretos dos autos- em especial a preclusão ocorrida há mais de um ano- para o indeferimento do pleito defensivo.
+Logo, uma vez que não está evidenciada, de pronto, ilegalidade manifesta ou mácula no decisum monocrático, não se justifica a intervenção imediata e prematura desta Corte Superior de Justiça. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
