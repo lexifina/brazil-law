@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO de decisão que inadmitiu na origem seu recurso especial - manifestado contra acórdão do Tribunal de Justiça do Estado de São Paulo -, assim fundamentada (fls. 1.005/1.006):
+Inconformado com o teor do acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo, que concedeu a segurança para afastar a penalidade administrativa de suspensão dos recorridos, o Governador do Estado de São Paulo oferece recurso especial.
+Apresentadas contrarrazões a fls. 971/992, a Procuradoria Geral de Justiça manifestou-se favorável ao provimento do recurso (fls. 995/1003).
+É o relatório.
+O recurso especial é inadmissível.
+Com efeito, verifica-se que o recorrente não cuidou de identificar, em suas razões, o artigo, o inciso e a alínea da Carta Federal em que ancora suas impugnações, circunstância a inibir o conhecimento da irresignação.
+Isso é diretriz consolidada no âmbito do Superior Tribunal de Justiça: "O recurso, para ter acesso à sua apreciação nesta Corte Superior, deve indicar, quando da sua interposição, expressamente, o dispositivoe alínea que autorizam sua admissão. Em assim não ocorrendo, ou se de modo deficiente, o recurso torna-se inadmissível" (STJ, AI nº 516.986, 4" Turma, Rel. Jorge Scartezzini, j. 21.10.2004).
+"Impossibilidade de se conhecer do recurso se a parte não indica a alínea do permissivo constitucional na qual se embasa a irresignação" (STJ, Recurso Especial nº 241.394, 5a Turma, Rel. Felix Fischer, j. 18.5.2000).
+Diante do exposto, inadmito o recurso especial.
+(Grifo nosso)
+Sustenta a parte agravante que, ao contrário do que restou consignado na decisão atacada, encontram-se presentes os pressupostos de admissibilidade do recurso especial. Em suas próprias palavras (fls. 1.009/1.012):
+Não pode ser mantida a decisão proferida pelo Ilustre Presidente da Seção de Direito Público do Tribunal de Justiça Paulista, que obstaculizou o seguimento do recurso especial interposto, com base na alínea "a" do artigo 105, III, da Constituição Federal.
+Entendeu o digno Desembargador que presidiu o Juízo de admissibilidade, que não reunia, o recurso, condições para prosseguir, uma vez que o exame da questão não evidenciava violação direta a qualquer norma federal e que não houve o necessário prequestionamento.
+Merece reforma a decisão, pois a mesma viola o direito constitucional à ampla defesa através de recurso especial (art. 5., LV, e 105, III).
+Realmente, não se podia ter negado seguimento ao do recurso especial da Fazenda, nem impedido o seu exame no âmbito do Superior Tribunal de Justiça.
+De início, destaque-se que a Constituição Federal assegura a todos o exercício do direito à ampla defesa, inclusive através dos recursos previstos em nosso ordenamento (cf. art. 5., LV).
+Assim sendo, só se pode obstar o exame de um recurso quando este, de maneira absolutamente inequívoca, não preencher os requisitos constitucionais e legais para sua admissibilidade.
+Ora, no presente caso todos estes requisitos estavam preenchidos.
+Em conformidade com o artigo 105, III da Lei Maior, havia a Fazenda Estadual se insurgido contra decisão de tribunal estadual que contrariava dispositivos de direito federal.
+A incompatibilidade do acórdão do Tribunal de Justiça com os referidos dispositivos fora oportunamente alegada pela Fazenda. Ocorrera mesmo o PREQUESTIONAMENTO EXPLÍCITO das violações ao direito federal.
+O recurso, sem conter nenhum vício formal, havia sido interposto tempestivamente.
+Tratava-se de matéria essencialmente federal e não de alegação de mera "ofensa reflexa" ou violação de direito estadual.
+Como se vê, nada justificava a decisão de negar seguimento ao recurso em questão.
+a) Não se estava discutindo, no recurso, mera "ofensa reflexa" à lei federal.
+ ..
+b) O recurso não trata, tampouco, de questões de fato, nem discute fatos à luz do direito local.
+c)Analisando-se o acórdão e o recurso especial, verifica-se que a ofensa aosartigos citados foi clara, direta e frontal.
+A ofensa que a Fazenda queria ver analisada era aquela referente à legislação federal.
+d) As ofensas a esta última foram invocadas pela Fazenda desde a primeira oportunidade cabível, estando tecnicamente prequestionadas, inclusive de forma explícita.
+Como se vê, configurou-se "in casu" aquele PREQUESTIONAMENTO indispensável ao conhecimento do recurso.
+Ora, data maxima venha, referido entendimento, por adentrar na questão de fundo do recurso, implica na negativa do direito constitucionalmente assegurado à Fazenda do Estado de São Paulo, de interpor Recurso Especial, a ser apreciado pelo Superior Tribunal de Justiça.
+Com todo o respeito, entende a FESP que a decisão ora agravada deveria ter se limitado à verificação dos pressupostos de admissibilidade do recurso. Entretanto, da forma como foi prolatada, a mesma examinou o próprio mérito do recurso, qual seja, a violação de dispositivo de lei federal. Flagrante, pois, data venha, a violação à competência exclusiva do Superior Tribunal de Justiça, prevista na norma inserta no artigo 105, III, "a" da Constituição Federal.
+Em 10/12/2020 o em. Ministro Presidente do STJ proferiu decisão unipessoal não conhecendo do agravo em recurso especial, pois (fl. 1.053):
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de indicação de artigo de lei federal violado.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+ ..
+Inconformada, a FAZENDA DO ESTADO DE SÃO PAULO interpôs o agravo interno de fls. 1.067/1.071.
+Impugnação às fls. 1.082/1.109.
+O Ministério Público Federal, em manifestação da ilustre Subprocuradora-Geral da República SANDRA CUREAU, devolveu os autos a esta Corte sem apresentar parecer (fls. 1.118/1.123).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, verifica-se que a decisão agravada ampara-se em premissa equivocada, haja vista que o Tribunal de origem não inadmitiu o recurso especial por ausência de indicação do dispositivo de lei federal supostamente contrariado, mas por entender que "o recorrente não cuidou de identificar, em suas razões, o artigo, o inciso e a alínea da Carta Federal em que ancora suas impugnações" (fl. 1.005).
+Assim, em juízo de retratação, torno sem efeito a decisão de fls. 1.063/1.065.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Da leitura das razões do apelo nobre extrai-se que, de fato, a parte ora recorrente deixou de apontar, de forma clara, precisa e congruente, o dispositivo constitucional que ampara sua insurgência, o que caracteriza deficiência de fundamentação, a atrair a incidência da Súmula 284/STF, aplicada por analogia.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284 DO STF.
+1. Inicialmente deve ser indeferido o pedido de efeito suspensivo formulado no bojo do presente agravo interno, diante da ausência dos requisitos. Para que se defira o pedido de tutela provisória de urgência e, assim, seja concedido efeito suspensivo a recurso especial, bem como ao agravo em recurso especial, é necessário que a parte requerente demonstre concomitantemente o fumus boni iuris e o periculum in mora: a plausibilidade do direito alegado, consubstanciada na elevada probabilidade de êxito do apelo nobre; e o perigo de lesão grave e de difícil reparação ao direito da parte, o que não é o caso dos autos (art. 300, caput, do CPC/2015).
+2. Esta Corte tem o entendimento consolidado de que não há fumus boni iuris, quando não há probabilidade de êxito do recurso, como no caso.
+3. Quanto à controvérsia, incide o óbice da Súmula n. 284/STF na espécie, uma vez que não houve a correta indicação do permissivo constitucional autorizador do apelo nobre, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Isso porque, conforme disposto no art. 1.029, II, do CPC, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+5. Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o recurso especial, com a expressa indicação da alínea do dispositivo autorizador.
+6. Ainda que assim não fosse, o Tribunal de origem consignou que não houve cerceamento de defesa da parte, porquanto o agravante não requereu no momento oportuno a produção de prova, ressaltando, ainda, que não houve sequer um pedido genérico de especificação de provas. Desse modo, ocorreu a preclusão da oportunidade para tanto.
+7. A modificação do entendimento firmado pela instância ordinária demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, conforme teor da Súmula 7 do STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt na TutPrv no REsp 1.880.265/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 30/11/2020)
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA.INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF.DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO.INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Trata-se, na origem, de ação civil pública por ato de improbidade administrativa, decorrente de superfaturamento e ilicitude de processo licitatório, destinado à locação de tendas para evento realizado no Município do Estado de São Paulo. Na sentença, julgou-se parcialmente procedente o pedido para condenar solidariamente todos os requeridos ao ressarcimento do dano, a ser corrigido da data de desembolso pelo município e acrescido de juros de mora a partir da citação;suspender os direitos políticos da agravante e do interessado pelo prazo de cinco anos e aplicar a todos os requeridos multa civil equivalente a duas vezes o valor do dano e proibi-los de contratar com a administração pública e de receber incentivos ou benefícios fiscais e creditícios, direta ou indiretamente, pelo prazo de cinco anos. No Tribunal a quo, a sentença foi reformada para reconhecer que os atos ímprobos praticados não causaram prejuízo ao erário, mas atentaram contra os princípios da administração pública. Assim se manteve somente a penalidade relativa à multa civil, consequentemente afastando o ressarcimento ao erário, ante a ausência de superfaturamento, e afastando a suspensão de direitos políticos assim como afastou a proibição de contratar com a administração pública e de receber incentivos ou benefícios fiscais e creditícios. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão." IV - Ademais, incide o óbice da Súmula n. 7 do STJ (A pretensão de simples reexame de prova não enseja recurso especial), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático- probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. " V - Agravo interno improvido.
+(AgInt no AREsp 1.479.509/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 22/11/2019)
+Impende acrescentar, a seu turno, que esta Corte possui entendimento pacificado no sentido de que"a complementação da fundamentação deficiente emsede de agravo regimental não tem o condão de sanar o vício contidonas razões do recurso especial em decorrência da inovação recursalvedada em razão da preclusão consumativa" (AgRg no AREsp 1.393.027/PR,Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 26/9/2019).
+Tal compreensão aplica-se também ao caso do agravo em recurso especial, consoante o brocardo ubi eadem legis ratio ibi eadem(onde há a mesma razão de ser, deve prevalecer a mesmarazão de decidir).
+ANTE O EXPOSTO, reconsidero a decisão de fls.1.063/1.065, a fim de conhecer do agravo e, nesse diapasão, não conhecer do recurso especial.
+Publique-se.
