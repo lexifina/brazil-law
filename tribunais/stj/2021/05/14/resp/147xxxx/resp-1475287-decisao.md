@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIVERSIDADE FEDERAL DE PELOTAScom fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, Paulo Johnscher Guarenti ajuizou ação ordinária com valor da causa atribuído em R$ 52.388,08 (cinquenta e dois mil, trezentos e oitenta e oito reais e oito centavos), em 14/03/2012, objetivando o pagamento de crédito em seu favor, reconhecido em processo administrativo.
+Após sentença que julgou procedente o pedido, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOnegou provimento à remessa oficial e à apelação do ente público, ficando consignado que os juros de mora e correção monetária deverão seguir a sistemática definida no julgamento do REsp nº 1.205.946/SP, estabelecendo que a correção monetária incidirá desde os respectivos vencimentos de cada parcela e os juros de mora serão contados .
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CRÉDITO A SEU FAVOR.RECONHECIMENTO NA VIA ADMINISTRATIVA. PAGAMENTO PARCIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA.
+. Diante do princípio constitucional da eficiência, caberia à Administração quitar na via administrativa os valores devidos e não entregues à autora na época oportuna, pois meras questões burocráticas não podem constituir obstáculo para a efetivação do direito reconhecido pela própria ré em caráter retroativo.
+. Sucumbência mantida, fixada na esteira dos precedentes da Turma.
+. Apelação e remessa oficial improvidas.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, a UNIVERSIDADE FEDERAL DE PELOTASinterpôs o presente recurso especial, apontando violação dos arts. 219 e 535 do CPC/73 e do art. 397 do CC/02.
+Afirma que, mesmo instado a tanto, o Tribunal de origem deixou de se manifestar acerca de eventual violação aos arts. 219 do CPC/73 e 397 do CC/02, de modo a fixar o termo inicial dos juros de mora na citação válida.
+No mais, sustenta que a fluência dos juros moratórios não pode incidir em período pretérito à constituição em mora do devedor por meio da citação válida.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n.2 do Superior Tribunal de Justiça.
+Afasto a alegação de ofensa ao art. 535 do CPC/73, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relatorMinistro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator MinistroMauro Campbell Marques, DJe de 10/9/2014.
+No mais, éfirme no âmbito do STJ o entendimento, segundo o qual,tratando-se de obrigação líquida, demandando a sentença de merocálculo aritmético, o termo inicial de incidência dos juros de moraé o inadimplemento da obrigação.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. DIREITO RECONHECIDO.LIQUIDEZ DA OBRIGAÇÃO. JUROS DE MORA. TERMO INICIAL. DATA DO EFETIVO INADIMPLEMENTO DA OBRIGAÇÃO. PRECEDENTES.
+1. É firme no âmbito do STJ o entendimento, segundo o qual, tratando-se de obrigação líquida, demandando a sentença de mero cálculo aritmético, o termo inicial de incidência dos juros de mora é o inadimplemento da obrigação. Nesse sentido: AgInt no AREsp 1.492.212/AL, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/8/2019 e AREsp 1.557.058/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/11/2019.
+2. Agravo interno não provido.
+(AgInt no AREsp 1504312/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. JUROS DE MORA. CORREÇÃO MONETÁRIA. TERMO INICIAL.ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Trata-se, na origem, de ação ordinária em que a autora postula que o adicional de insalubridade seja calculado com base no subsídio que recebe. Na sentença, julgou-se parcialmente procedente o pedido, observado o prazo prescricional de 5 anos. No Tribunal a quo, a sentença foi mantida, ficando consignado que os juros de mora e a correção monetária incidirão desde o inadimplemento. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - É líquida a sentença que contém em si todos os elementos que permitem definir a quantidade de bens da vida a serem prestados, dependendo apenas de cálculos aritméticos apurados mediante critérios constantes do próprio título ou de fontes oficiais públicas e objetivamente conhecidas.
+III - Verifica-se que o acórdão ora recorrido encontra-se em perfeita consonância com a jurisprudência desta Corte Superior, a qual é firme no sentido de que, nas obrigações líquidas, com vencimento certo, os juros de mora e a correção monetária fluem a partir da data do vencimento. Confira-se: (AgInt no REsp n.1.817.462/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 29/10/2019 e AgInt no AREsp n. 1.492.212/AL, Rel.Ministro Napoleão Nunes Maia Filho, primeira turma, julgado em 26/8/2019, DJe 28/8/2019).
+IV - Desta forma, aplica-se, à espécie, o enunciado da Súmula n.83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V- Agravo interno improvido.
+(AgInt no AREsp 1516727/AL, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/05/2020, DJe 11/05/2020)
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
