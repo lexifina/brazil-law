@@ -1,0 +1,19 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Tráfico de drogas. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INQUÉRITO OU PROCESSO EM CURSO. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+    2. Na hipótese, verifica-se que a dedicação do recorrente às atividades criminosas se infere da existência de inquérito policial em andamento por outro delito.
+    3. Releva salientar que ‘a Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro Felix Fischer, assentou o entendimento de que 'é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006'’ (AgRg no AREsp 1.635.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/5/2020, DJe 11/5/2020).
+    4. Agravo regimental desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, à pena de 7 anos e 6 meses de reclusão, pela prática do crime previsto no art. 33 da Lei 11.343/06.
+    3.  Irresignada, a defesa interpôs apelação, tendo o Tribunal de Justiça do Estado de Alagoas dado parcial provimento ao recurso para redimensionar a pena ao patamar de 5 anos de reclusão, no regime inicial semiaberto. Na sequência, foi interposto recurso especial, inadmitido na origem. Ato contínuo, sobreveio agravo em recurso especial (AREsp 1.711.768/AL). O Relator, Ministro Ribeiro Dantas, negou provimento ao recurso. Contra essa decisão, a defesa interpôs agravo regimental, desprovido, por unanimidade, pela Quinta Turma da Corte Superior.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a aplicabilidade do redutor previsto no §4º do art. 33 da Lei de Drogas. Alega que “não é viável o afastamento da citada minorante com base na existência de inquérito ou processo em andamento”.
+    5. Decido.
+    6. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. De modo que a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    7. Na hipótese de que se trata, o Tribunal de origem manteve afastada a minorante do art. 33, § 4º, da Lei de Drogas, tendo em vista que o paciente “possui em sua folha de antecedentes criminais (fls. 87/88) registro de um suposto crime de roubo, além de responder ao processo de n. 0007193-08.2018.8.02.0001”, a revelar sua dedicação a atividades criminosas. Nessas condições, não verifico ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 15 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
