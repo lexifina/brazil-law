@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ.
+A causa teve origem em Agravo de Instrumento em exceção de pré-executividade rejeitada. O acórdão foi assim ementado (fls. 56-72, e-STJ):
+TRIBUTÁRIO. PROCESSUAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. LEI 6830/80. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. NULIDADE DA CDA. NÃO CONFIGURADA. MULTA E JUROS MORATÓRIOS. CUMULAÇÃO. LEGALIDADE. PRESUNÇÃO DE CERTEZA E LIQUIDEZ DA CDA NÃO AFASTADA.
+1. Não há que se tratar de iliquidez da CDA, porquanto presentes os requisitos legais e indicada a legislação pertinente a cada acréscimo. Ademais, a dívida ativa regularmente inscrita é dotada de presunção juris tantum de certeza e liquidez, só podendo ser afastada por prova inequívoca, o que inocorre, in casu, eis que a parte executada apenas cogita de hipóteses genéricas e sem quaisquer fundamentos legais.
+2. Para que a exceção de pré-executividade possa ser admitida, é indispensável que o vício indicado apresente-se com tal evidência a ponto de justificar o seu reconhecimento de imediato pelo juízo, sendo desnecessária qualquer dilação probatória. O acolhimento da exceção, portanto, depende de que as alegações formuladas pela parte sejam averiguáveis de plano, completamente provadas, praticamente inquestionáveis.
+3. Pelo que se vê, a matéria é complexa e depende não só da análise da integralidade dos autos da execução fiscal, mas, também, da produção de provas, o que é incompatível com a sumariedade do rito da execução e da exceção de pré-executividade.
+A recorrente afirmou que houve, além de divergência jurisprudencial, ofensa aoart. 475-B do CPC/1973; aos arts. 10, 99, § 2º, 798, I, "b", e 803, I, do CPC/2015; aos arts. 42, § 5º, e 44, I, da Lei 9.430/1996; aos arts. 106, 112, 144, § 1º, do CTN; e aoart. 150, III e IV, da CF. Requereu:
+a) seja deferida a gratuidade da justiça, na forma do disposto no art.1.019, I, do Código de Processo Civil;
+b) seja concedido o efeito suspensivo, na forma do disposto no art. 1.019, I, do Código de Processo Civil, a fim de se evitar a venda direta do imóvel constritado ou a designação de hasta pública, o que pode gerar dano irreparável ou de difícil reparação, já que envolveria terceiros adquirentes de boa-fé em alienação judicial;
+c) seja decretada a nulidade da execução fiscal, em razão da ausência de planilha pormenorizada do débito fiscal, uma vez que deveria constar da CDA a forma de cálculo dos juros e correção monetária e o termo inicial da cobrança, conforme exigido pelo art. 202 do CTN e art. 2º, §5º, da Lei n. 6.830/80, principalmente em razão da discrepância entre o valor inscrito (na data de 30/12/2015) e o valor executado (na data de 30/12/2015), até mesmo para que se permite a impugnação da imputação fiscal;
+d) seja declarada a nulidade do lançamento, base no princípio da proporcionalidade, em razão do nítido caráter confiscatório da multa aplicada à contribuinte, em total ofensa à garantia do art. 150, IV, da Constituição Federal;
+e) seja declarada a nulidade do lançamento, com a extinção do crédito tributário, diante da necessidade de sua desconstituição, uma vez que inexistente o fato gerador da obrigação tributária;
+f) seja declarada a nulidade do lançamento, diante da irretroatividade da lei tributária, que não observou o regime de competência, não se permitindo a mera substituição da CDA.
+Contrarrazões às fls. 116-123, e-STJ.
+Em seu Agravo, a parte defende a inaplicabilidade da Súmula 7/STJ, pois o referido óbice não impede a análise recursal pela alínea "c".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29 de abril de 2021.
+Dessume-se dos autos que a exceção de pré-executividade não foi sequer admitida, por inadequação da via eleita, justificada pela necessidade de dilação probatória. Assim, rever a compreensão do acórdão recorrido exige incursão no contexto fático-probatório dos autos, o que é vedado em Recurso Especial, conforme a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+A Primeira Seção do STJ, ao julgar o Recurso Especial 1.110.925/SP, sob o rito do art. 543-C do CPC, proclamou ser cabível a Exceção de Pré-Executividade para discutir questões de ordem pública, na Execução Fiscal, ou seja, os pressupostos processuais, as condições da ação, os vícios objetivos do título executivo atinentes à certeza, liquidez e exigibilidade, desde que não demandem dilação probatória (REsp 1.110.925/SP, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJe 4.5.2009).
+Não se pode conhecer da irresignação se os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Sem motivos para reconsiderar a decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se a concessão do benefício da Justiça Gratuita deferida nos autos. Fica suspensa a respectiva exigibilidade, em razão do disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
