@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloINSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE JUNDIAÍcontra decisão que inadmitiu recurso especial com base na Súmula 7 do STJ (e-STJ, fl. 337).
+A parte agravante sustenta a inaplicabilidade da Súmula 7 do STJ, porquanto se discutiria matéria de direito, e não de fato (e-STJ, fls. 340-346).
+Contraminuta às e-STJ, fls. 359-361.
+É o relatório.
+Atendidos os requisitos de conhecimento do presente agravo, passo a examinar o apelo nobre(e-STJ, fls. 293-303).
+Trata-se de recurso especial manejado, com amparo na alínea a do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (e-STJ, fl. 272):
+APELAÇÃO. Servidora do Município de Jundiaí. Aposentadoria concedida com integralidade e paridade. Instituto de Previdência, todavia, que editou ato normativo pretendendo restituir à servidora contribuições que teriam sido descontadas irregularmente (em excesso), com consequente diminuição do valor dos proventos. Inadmissibilidade. É certo que "a Administração pode anular seus próprios atos, quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos" (Sumula 473 do STF). Autora, entretanto, que obteve sua aposentadoria em regular procedimento administrativo, com base no entendimento que a Administração possuía na época sobre os descontos de contribuição. Teoria do fato consumado. Ato que precipitou a aposentadoria da servidora que, em outras circunstâncias, poderia ter postergado a inativação para adquirir o direito à integridade e paridade. Prevalência do princípio da segurança jurídica. Sentença de procedência. Recurso desprovido.
+Alega o recorrente, inicialmente, violação do art. 4º, § 1º, VIII, da Lei 10.887/2004, sob o argumento de que " ..  a parcela remuneratória auferida pelo especialista relativa às 10 horas excedentes ao cargo efetivo está relacionada diretamente ao exercício da função gratificada  .. " (e-STJ, fl. 298). Portanto, seria ilegal a incidência de contribuição previdenciária e a sua inclusão nos cálculos dos proventos de aposentadoria.
+Argumenta que não houve mudança de entendimento acerca da matéria, mas sim má aplicação da lei e erro operacional.
+Aduz, por outro lado, ofensa ao art. 53 da Lei n. 9.784/1999, por entender que " ..  o V. Acórdão ao decretar a impossibilidade de revisão dos proventos, violou o direito assegurado a este Recorrente de autotutela  .. " (e-STJ, fl. 300).
+Pondera, nesse aspecto, que não há aplicabilidade do princípio da segurança jurídica ou da Teoria do Fato Consumado, uma vez que a parcela incorporada aos proventos relacionada à função gratificada se mostra ilegal e não decorreu o prazo decadencial para a revisão do ato administrativo.
+Aponta, por fim, contrariedade ao art. 86,caput, do CPC/2015, pois não teria ocorrido sucumbência mínima da parte autora, tendo em vista que o pedido de danos morais foi julgado improcedente, o qual representaria 50% dos pedidos e a totalidade do valor da causa.
+Apresentadas contrarrazões (e-STJ, fls. 314-325).
+Decido.
+As matérias referentes aos arts.4º, § 1º, VIII, da Lei n. 10.887/2004 e86, caput, do CPC/2015 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse aspecto, confira-se o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 15.180/PR, Rel. Min. ELIANA CALMON, SEGUNDA TURMA, DJe 10/5/2013).
+Em relação ao art. 53 da Lei n. 9.784/1999, o Tribunal de origem afastou o direito à autotutela administrativa, com base noPrincípioda Segurança Jurídica e na Teoria do Fato Consumado.
+Confira-se (e-STJ, fls. 273-274):
+No presente caso, entretanto, a autora obteve sua aposentadoria em regular procedimento administrativo, com base no entendimento que a Administração possuía àquela época (fl. 19). Não houve manipulação ou ingerência indevida da servidora, nem qualquer outro comportamento que caracterizasse hipótese de fraude ou ilegalidade manifesta no ato de concessão da aposentadoria.
+Tanto que o mesmo procedimento era adotado, igualmente, para todos os servidores, e havia descontos de contribuição previdenciária (que agora a Administração pretende devolver), daí porque considerando essas peculiaridades não seria razoável, a esta altura, surpreender a autora com a redução de seus proventos.
+Diante dessa situação de extrema excepcionalidade, a manutenção do benefício tal como concedido é a melhor solução, por prestigiara segurança jurídica, sobretudo porque o entendimento que a Administração adotou na época, com base nas contribuições que estavam sendo recolhidas, precipitou a aposentadoria da autora que, em outras circunstâncias, poderia ter postergado a inativação para adquirir o direito à integralidade e paridade.
+É o posicionamento que deve prevalecer, ainda que a Administração, posteriormente, tenha constatado que há muito tempo as contribuições vinham sendo recolhidas irregularmente (em excesso). Em nosso sistema jurídico, essa possibilidade de convalidação de atos ilegais (mas que se solidificaram no tempo) encontrarespaldo na teoria do fato consumado, cujo principal fundamento (a segurança jurídica) tem inteira e adequada aplicação no caso destes autos, não "por desamor ou menosprezo à lei, mas por ser impossível desconhecer o valor adquirido por certas situações de fato constituídas sem dolo, mas eivadas de infrações legais a seu tempo não percebidas ou decretadas" (Miguel Reale, in "Revogação e Anulamento do Ato Administrativo", Forense, 1968, p. 83).
+ ..
+Essa é a solução que também deve orientar a questão posta em discussão nestes autos, pois, a redução do benefício concedido, a essa altura, atentaria contra a segurança jurídica.
+Com isso, para se chegar a uma conclusão contrária à do Tribunal a quo, diante das peculiaridades do caso concreto,faz-se necessário incursionar no contexto fático-probatório da demanda, o que é inviável emrecurso especial, por força do constante na Súmula 7/STJ.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CURSO DE FORMAÇÃO DE CABOS. LIMINAR CONFIRMADA POR SENTENÇA. APROVAÇÃO NO CURSO DE FORMAÇÃO. SITUAÇÃO CONSOLIDADA NO TEMPO. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à aplicação da teoria do fato consumado ao caso, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+2. Na hipótese, o Tribunal de origem adotou a aplicação da teoria do fato consumado em face das particularidades dos autos.
+3. Recurso especial não conhecido.
+(REsp 1.738.573/CE, de minha relatoria, SEGUNDA TURMA, julgado em 27/8/2019, DJe 6/9/2019).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. POLICIAL MILITAR ESTADUAL.DIREITO À PROMOÇÃO. PRESCRIÇÃO. IMPOSSIBILIDADE DE AVERIGUAÇÃO.APLICAÇÃO DA TEORIA DO FATO CONSUMADO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DECADÊNCIA. FUNDAMENTO INATACADO.SÚMULA 182/STJ.
+1. Para a solução das questões relacionadas à prescrição e à aplicação da teoria do fato consumado, seria necessária a incursão no universo fático-probatório dos autos. Inafastável, portanto, a incidência da Súmula 7 do STJ.
+2. O agravante não rebate o fundamento atinente à decadência. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência parcial da Súmula 182 do STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp 542.769/CE, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 2/12/2014, DJe 10/12/2014).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem ,o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
