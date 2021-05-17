@@ -1,0 +1,22 @@
+D E C I S Ã O
+    Reputo correto o acórdão recorrido.
+    Trata-se de recurso extraordinário manejado, com fundamento em permissivo constitucional, em face de acórdão da 5ª Turma Recursal do Juizado Especial Federal do Rio Grande do Sul. A correspondente ementa foi assim redigida:
+    “TRIBUTÁRIO. IPTU. IMUNIDADE RECÍPROCA. FAR. IMPOSSIBILIDADE.
+    1. A tese firmada pelo Supremo Tribunal Federal no julgamento do Tema 884 de repercussão geral (RE 928.902/SP) beneficia somente o Fundo de Arrendamento Residencial (FAR) representado pela CEF .
+    2. Ainda que a jurisprudência do STF admita a interpretação teleológica das imunidades constitucionais (2a. T., RE 407.099/RS, Rel. Min. Carlos Velloso, j. 22.6.2004), atrela o reconhecimento desse benefício tributário ao cumprimento de finalidades públicas por parte do beneficiário.
+    3. A imunidade recíproca examinada pela Corte Suprema (art. 150, VI, “a”, da CRFB) é de caráter subjetivo (relativa aos imóveis pertencentes ao FAR, administrado e operacionalizado pela CEF - art. 1º, §1º, da Lei 10.188/2001) e atrelada ao fator finalístico da norma (afetação dos bens à função pública).
+    4. Nesse contexto, a imunidade reconhecida pelo STF (Tema 884) é pessoal (direcionada ao patrimônio Fundiário) e não pode beneficiário arrendatário ocupante de imóvel vinculado ao FAR e afastar a incidência do IPTU.”
+    A parte recorrente sustenta ter o acórdão recorrido implicado violência ao inc. VI do art. 150 da Constituição.
+    De início importante pontuar que este Supremo Tribunal Federal, no âmbito da repercussão geral, ao apreciar o RE 601.720/RJ, Redator para o acórdão Ministro Marco Aurélio, Tema 437/RG, limitou o alcance da imunidade recíproca para assentar a incidência do Imposto Predial e Territorial Urbano considerado bem público cedido a pessoa jurídica de direito privado, sendo esta a devedora. Eis a tese fixada:
+    “Incide o IPTU, considerado imóvel de pessoa jurídica de direito público cedido a pessoa jurídica de direito privado, devedora do tributo.“
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Saliento, por fim, na linha do entendimento consolidado deste Supremo, que a matéria tratada no caso em tela não possui semelhança com o decidido no RE 928.902/SP, Ministro Alexandre de Moraes, vez que no aludido paradigma foi tratada a questão referente a imunidade recíproca aplicada aos entes públicos. Conforme podemos extrair da leitura de trecho do voto do referido Ministro Relator:
+    “Assim sendo, também no Brasil, a imunidade recíproca é uma prerrogativa que decorre diretamente da autonomia das unidades federativas (art. 18), e pressupõe mútua autocontenção, no que diz respeito ao exercício das competências tributárias. É por isso que se diz que a imunidade recíproca é uma norma implícita às federações, que em rigor nem necessitaria de previsão expressa. Imunidade recíproca corresponde, portanto, a um parâmetro oclusivo do poder tributante, por meio do qual o texto constitucional (a) busca afirmar a igualdade dos diferentes entes políticos; (b) preserva a execução federativamente equilibrada das atribuições dos diferentes níveis de governo, sem que possa existir interferência na autonomia de cada um deles; e (c) reconhece que a arrecadação obtida por cada um deles é vertida em prol de finalidades públicas igualmente importantes para a realização dos projetos constitucionais. Em última análise, é a vinculação às finalidades públicas que legitima a norma imunizante, e é também ela que incompatibiliza o conceito de capacidade contributiva com as receitas públicas. Dada a essencialidade do elemento teleológico, a imunidade recíproca tende a encontrar limitação nas hipóteses em que o patrimônio pertencente aos entes federados perca sua pertinência com vertentes do interesse público. “
+    Nesse sentido menciono os seguintes pronunciamentos: RE 1.313.411/RS, Ministra Cármen Lúcia; RE 1.318.438/RS, Ministro Ricardo Lewandowski; RE 1.318.437/RS, Ministro Alexandre de Moraes.
+    Honorários advocatícios recursais
+    Ao amparo do § 11 do art. 85 do CPC, majoro em 1% (um por cento), a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º, e eventual deferimento do benefício da justiça gratuita.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c §1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
