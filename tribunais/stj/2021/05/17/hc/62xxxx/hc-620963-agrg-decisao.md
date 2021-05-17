@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por PATRICK LEANDRO LOPES BARBOSA contra decisão monocráticade minha lavraque denegou a ordem de habeas corpus (e-STJ fls. 372/375).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, §4º, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão e 166 dias-multa, em regime inicial aberto, substituída por duas restritivas de direitos.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso. Eis a ementa do acórdão (e-STJ fl. 300):
+APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - TRÁFICO DE DROGAS - DETRAÇÃO DO PERÍODO DE CUMPRIMENTO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO CONCESSÃO - RECURSO DESPROVIDO I - Descabe detrair das penas o período de cumprimento de medidas cautelares diversas da prisão, porquanto o art. 42 do CP não prevê a aplicabilidade do benefício a estas hipóteses. (..) (AgInt no REsp 1457535/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 23/04/2018) II - Recurso desprovido, com o parecer.
+Daí o presente writ, no qual sustentou a defesa o constrangimento ilegal decorrente da não aplicação do instituto da detração penal ao período em que o paciente cumpriu medidas cautelares diversas da prisão, consistente em recolhimento domiciliar noturno.
+Nesta oportunidade, sublinha a Defensoria Pública a existência de julgado da Quinta Turma desta Casa no sentido da possibilidade de detração do período de cumprimento da medida cautelar alternativa de recolhimento domiciliar noturno. Diante disso, pede a reconsideração da decisão monocrática combatida ou, caso assim não se entenda, a remessa dos autos à Sexta Turma desta Casa e a concessão da ordem nos termos postulados na inicial.
+É o relatório.
+Decido.
+Assiste razão à defesa.
+É que a Terceira Seção desta Corte Superior, no julgamento do HC n.455.097/PR, de relatoria da Ministra Laurita Vaz, em 14/4/2020 (acórdãopendente de publicação), por unanimidade, pacificou o entendimento de queo período de cumprimento da medida cautelar de recolhimento domiciliarnoturno, inclusive aos fins de semana e feriados e com monitoramentoeletrônico, deveria ser computado para fins de detração penal, porrepresentar limitação efetiva ao direito de locomoção assemelhada aocumprimento de pena em regime semiaberto. Assim, o acórdão recorridoencontra-se em dissonância com a orientação jurisprudencial vigente.
+Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO DO PERÍODO DECUMPRIMENTO DE MEDIDA CAUTELAR ALTERNATIVA À PRISÃO. RECOLHIMENTODOMICILIAR NOTURNO. POSSIBILIDADE. MATÉRIA PACIFICADA NO ÂMBITO DA QUINTATURMA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consolidou-se na Quinta Turma deste Tribunal entendimento no sentido deque, a despeito da inexistência de previsão legal para a detração penal nahipótese de submissão do sentenciado a medidas cautelares diversas daprisão, o período de recolhimento domiciliar noturno,por ensejar aprivação de liberdade do apenado, deve ser detraído da pena, emobservância aos princípios da proporcionalidade e do non bis in idem.
+2. Agravo regimental não provido.(AgRg no HC 612.328/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,julgado em 09/03/2021, DJe 15/03/2021, grifei)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 372/375 e concedo a ordem para determinar a retificação do cálculodas penas do acusado nos termos acima expostos.
+Publique-se. Intimem-se.
