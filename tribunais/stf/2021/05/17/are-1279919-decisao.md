@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 1ª Turma Recursal do Paraná – TRF da 4ª Região, em que foi determinado o fornecimento de medicamentos à parte autora, ora recorrida (eDOC 14).
+    Os embargos de declaração foram desprovidos (eDOC 26).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 196 e 198, I, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a prescrição médica que subsidiou a decisão judicial ora atacada carece dos requisitos essenciais para o cumprimento da obrigação, porquanto “Uma ordem judicial calcada em relatório médico que não contenha tais requisitos pode acarretar risco à saúde do paciente/autor, dificuldades e morosidade no cumprimento da decisão, bem como riscos e prejuízos financeiros desnecessários à Administração, a partir da compra do medicamento errado, ou em quantidade demasiada, ou por um período que extrapola o previsto para o tratamento” (eDOC 30, p. 24).
+    O Tribunal de origem inadmitiu o extraordinário mediante aplicação da Súmula 279 do STF (eDOC 36).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, assentou suas razões no seguinte sentido (eDOC 14, p. 9-13):
+    “No caso examinado a perícia médica realizada atestou o que segue:
+    (...)
+    Do laudo pericial se extrai que a parte autora é portadora de Epilepsia Sintomática, já tendo feito uso do tratamento fornecido pelo SUS, todavia, tal tratamento não se mostrou eficaz para o caso específico, uma vez que o menor ainda apresenta "várias crises do tipo tônico-clônicas" (EVENTO 76/LAUDO1), sendo o único meio possível para a melhora das crises a utilização do fármaco ora pleiteado, cuja importação foi devidamente autorizada pela Anvisa (art. 61, §1º, II, da Portaria/SVS nº 344/98).
+    De outro lado, cuidando de ação ajuizada após 25/04/2018, faz-se necessária a análise da hipossuficiência econômico-financeira da parte autora.
+    Nesse ponto, primeiramente, cabe pontuar que, em conformidade com o voto do relator do acórdão acima referido, a incapacidade financeira não deve ser confundida com "pobreza ou miserabilidade", exigindo-se, "tão somente, a demonstração da incapacidade de arcar com os custos referentes à aquisição do medicamento prescrito."
+    No caso examinado, o custo mensal do medicamento importado é de cerca R$ 1.127,83 (mil cento e vinte e sete reais e oitenta e três centavos), observada a variação cambial. No evento 67, a parte demandante apresentou diversos documentos que atestam a incapacidade de seus genitores de arcar com as despesas do fármaco em questão.
+    (...)
+    Igualmente, reafirmo que subsiste a obrigação solidária dos entes federados pelo cumprimento da presente decisão, de modo que fica assegurada à parte autora a possibilidade de exigir a obrigação de qualquer deles.”
+    Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO. LISTA DO SUS. COMPROVAÇÃO DA NECESSIDADE. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF SOBRESTAMENTO. MEDICAMENTO DE ALTO CUSTO. INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL. 1. O Tribunal de origem, com base na análise da perícia médica, entendeu por determinar o fornecimento de medicamento que não se encontra na lista de fármacos fornecidos pelo Sistema Único de Saúde SUS. 2. Para chegar a conclusão diversa do acórdão recorrido, seria imprescindível uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. Precedentes. 3. A tese de que os medicamentos se caracterizariam como de alto custo não fez parte das razões do recurso extraordinário, sendo aduzida somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes. 4. Agravo regimental a que se nega provimento.” (ARE 935.824-AgR/RJ, Primeira Turma, Rel. Min. Roberto Barroso, DJe 26/8/16).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 827.931/SC-AgR, Segunda Turma, Rel. Ministra Cármen Lúcia, DJe de 26/9/14).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 17 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
