@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo contra a inadmissão do Recurso Especial que decidiu pela: a) aplicação da Súmula 7/STJ; b) ausência de violação ao art. 1.022 do CPC; c) fundamentação adequada do acórdão; falta de evidência da suposta afronta às normas ditas violadas.
+A causa teve origem em Ação de Constituição de Servidão Administrativa fundada em declaração de utilidade pública com Pedido Liminar de Imissão na Posse, julgada procedente para instituir a servidão de passagem, fixando o valor da indenização em R$ 491.163,75 (quatrocentos e noventa e um mil, cento e sessenta e três reais e setenta e cinco centavos).
+O acórdão foi assim ementado:
+Apelação. Instituição de servidão administrativa. Sentença que homologou o laudo pericial com acolhimento do índice de depreciação indicado pela requerida. Imóvel que, embora tenha características rurais, encontra-se inserto na macrozona de expansão urbana, merecendo ser considerado urbanizável para fins de avaliação. Razões recursais que não apontam equívocos nos critérios adotados, insistindo em legislação alheia para pedir a classificação do imóvel como puramente rural. Impossibilidade. Método Phillipe Westin consagrado pela prática, cuja adoção se comprova adequada.
+Sem majoração de honorários em sede recursal, dada a sua fixação no teto da legislação aplicável.
+Recurso improvido.
+Os Embargos de Declaração foram desacolhidos (fls. 995-998, e-STJ).
+Mata de Santa Genebra Transmissão S.A. afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 480 e 1.022, II, do CPC; eaos arts. 23, § 1º, e 27 do Decreto-Lei 3.365/1941. Sustenta que o Tribunal a quo não enfrentou as omissões apontadas em Embargos de Declaração e fixou o valor indenizatório sem atender:
+a) à estimação dos bens para efeitos fiscais;
+b) ao preço e aquisição e interesse que deles aufere o proprietário;
+c) à sua situação, estado de conservação e segurança;
+d) ao valor venal dos da mesma espécie, nos últimos cinco anos; e
+e) à valorização ou depreciação da área remanescente pertencente ao réu.
+Contrarrazões às fls. 1.002-1.016, e-STJ, requerendo a aplicação de multa do art. 81do CPC.
+Em seu Agravo, Mata de Santa Genebra Transmissão S.A, defende:
+Em atendimento à súmula 6 da Secção de Direito Público do TJSP, o i. juízo de primeira instância determinou a realização de perícia prévia, que fixou o valor da indenização em R$ 790.000,00 (setecentos e noventa mil reais).
+Tendo em vista a discrepância entre o valor ofertado e o valor apresentado pela perícia prévia, foi determinada realização de perícia definitiva, que apurou o valor de R$ 429.000,00 (quatrocentos e vinte e nove mil reais) como sendo o valor devido a título de indenização pela constituição de servidão administrativa.
+Posteriormente, foi proferida sentença, publicada em 02/09/2019 que fixou o valor de indenização em R$ 491.163,75 (quatrocentos e noventa e um mil, cento e sessenta e três reais e setenta e cinco centavos).
+Ocorre que, diante da existência de equívocos metodológicos na avaliação pericial na qual o juízo a quo fundamentou a sentença, a Agravante interpôs recurso de Apelação, sustentando que não foram seguidas pelo perito as determinações contidas na NBR nº 14.653, editada pela ABNT; que as amostras colhidas pelo expert não se prestam a uma comparação com o imóvel objeto do processo em questão; que não foram consideradas as regras constantes do Decreto-lei nº 3.365/41 que pautam a avaliação e por fim, que os dados oficiais do estado de São Paulo apresentam valores unitários de avaliação de terra nua extremamente inferiores ao utilizado pelo Perito.
+(..)
+Ocorre que, tais alegações não merecem prosperar, uma vez que não há necessidade de reexame de provas, mas tão somente a singela constatação de que a prova pericial produzida não se atentou ao que dispõe a artigo 23, § 1º do Decreto-lei 3.365/41 e que o d. juízo não se atentou ao artigo 27 e ao artigo 480 do Código de Processo Civil, o que se constata flagrante violação ao dispositivo de lei federal e, portanto, demonstra o cabimento do presente Recurso Especial.
+(..)
+O Decreto-lei nº 3.365/41 estabelece critérios que devem ser observados tantos pelos magistrados, quantos pelos auxiliares do juízo. No que tange a redação dos artigos 23, § 1º e 27 da referida norma legal não deixa qualquer discricionariedade ao julgador e ao perito quanto a necessidade de expor, de maneira fundamentada, os requisitos estabelecidos no mencionado dispositivo legal.
+O Ministério Público Federal opina pelo não conhecimento do Agravo em Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de abril de 2021.
+A agravante não impugnou os fundamentos da decisão agravada.
+A irresignação não merece acolhida.
+O Tribunal de origem consignou:
+Oferecido inicialmente o valor de R$ 76.165,27, este foi impugnado pelos proprietários da área servienda. Alegando que em ação pretérita (1000060-28.2015.8.26.0099) o imóvel fora avaliado em R$ 2.515.570,36, pediram que a indenização fosse fixada em R$ 953.810,49. Sobreveio então laudo pericial definitivo fixando o valor de pleno domínio em R$ 779.625,00. A sentença então desconsiderou o índice de servidão outrora aplicado e fixou o índice em 0,63, com desvalorização da área remanescente em 0,08. Com base nestes fatores, a sentença então fixou o valor de R$ 491.163,75 para a indenização pela instituição de servidão administrativa.
+No acórdão integrativo salientou:
+No caso dos autos, inexistem quaisquer dos vícios.
+As partes relevantes foram assim consideradas: "Isso pode ser visto claramente no documento de fls. 422 que indica que a área encontra-se com sua maior parte na Macrozona de Expansão Urbana (fls. 423)." e "Também não é possível afirmar que o i. Perito desconsiderou a existência das macrozonas de proteção ambiental e de proteção permanente. Consta da perícia de fls. 428 como integraram a amostra de comparativos, incluindo-se ali as percentagens do imóvel que ocupam macrozonas MPA e MPP, constituídas pelo módulo rural, que veicula a taxa de ocupação zero. Há vários exemplos incluídos no subitem indicado às fls. 434."
+Não se pode conhecer da apontada violação ao art. 1.022 do novo CPC, porque as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiênciaimpede a abertura da instância especial, nos termos da Súmula 284/STF, aplicável, por analogia, neste Tribunal Superior. O inconformismo da agravante buscou emprestar efeitos infringentes aos Aclaratórios, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível naquela via recursal.
+Ademais, constata-se dos autos que duas perícias foram executadas, seguindo hígidas em seus procedimentos, não há combate sobre isso. A ausência de demonstração da violação aos dispositivos legais pelo acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284/STF.
+O juiz não está adstrito ao laudo pericial, podendo, inclusive, formar a sua convicção com outros elementos ou fatos provados nos autos, desde que dê a devida fundamentação, conforme o disposto no art. 436 do Código de Processo Civil. Rever tal conclusão e acolher a pretensão recursal - no sentido de que seria indevida a utilização dos aludidos critérios, pelas instâncias ordinárias, para a fixação do valor indenizatório - é medida inviável, na via eleita, ante o óbice da Súmula 7 do STJ.
+Na forma da jurisprudência do STJ, "uma vez declinadas, de maneira excessivamente pormenorizada, as razões pelas quais a definição da justa indenização por desapropriação não observaria a integralidade do laudo pericial, a pretensão de reexame do acerto dos seus critérios e da sua metodologia encontra óbice da Súmula 07/STJ" (REsp 1.355.641/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 29.4.2014).
+A não observância exclusiva dos requisitos previstos no art. 27 do Decreto-lei 3.365/1941, por si, não invalida a perícia e os critérios utilizados pelo perito, que deve sempre buscar a justa indenização para o caso fático. Destaque-se que nas ações de desapropriação e servidão administrativa vige o princípio constitucional do justo preço para apurar a indenização, pois o que se busca é a real recomposição do patrimônio do expropriado e do proprietário da área serviente com quantia que corresponda, exatamente, ao desfalque por ele sofrido em decorrência da expropriação.
+A livre apreciação da prova, desde que a decisão seja fundamentada, considerada a lei e os elementos existentes nos autos, é um dos cânones do nosso sistema processual (REsp 7.870/SP, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 3.2.1992).
+Sem motivos para reconsiderar o decisum, seja porque não foi devidamente impugnado oupela correta inadmissão do Recurso Especial por: a) aplicação da Súmula 7/STJ; b) ausência de violação ao art. 1.022 do CPC; c) fundamentação adequada do acórdão; não ficando evidenciada a suposta afronta às normas ditas violadas.
+Por tudo isso, não conheço do Agravo em Recurso Especial .
+Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
