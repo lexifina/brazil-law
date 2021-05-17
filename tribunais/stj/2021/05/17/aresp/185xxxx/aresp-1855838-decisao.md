@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSERTA SACADA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - Interposição contra a sentença que julgou parcialmente procedente ação declaratória de inexigibilidade de débito c. c. perdas e danos. Inépcia da inicial afastada. Manutenção de sacada. Falha na prestação de serviços. Responsabilidade objetiva da empresa. Declaração de inexigibilidade de dívida correta. Danos materiais comprovados. Sentença mantida. Apelação não provida. (fl. 159).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 319, III, do CPC, no que concerne à inexistência de causa de pedir na petição inicial da demanda em apreço, trazendo os seguintes argumentos:
+Incumbe ao autor expor na sua petição inicial de forma clara a causa de pedir e seu respectivo pedido.
+Mas no caso em comento na origem foi realizado procedimento totalmente diverso em desacordo com o que está previsto em lei, contrariando a norma jurídica acima citada.
+Como se pode ver se trata de vicio processual no que tange a ausência dos requisitos legais previstos especificamente no artigo 319 do Código de Processo Civil, Inciso III.
+ ..
+A causa de pedir é o conjunto dos fatos necessários para deduzir, com base na norma jurídica, que o autor é titular de um direito violado pelo réu. E o conjunto de fatos com base nos quais pode se provado, afirmar a procedência da ação.
+Desta forma no presente caso, a recorrida não cumpriu com os ditames do artigo 319, Inciso III do Código de Processo Civil. Ocorre que mesmo assim teve o seu pedido acolhido que pelo julgador monocrático e pelo Tribunal de Justiça.
+Assim, a decisão do acórdão que deferiu a recorrente o direito de ter declarado a inexigibilidade de débito do valor de R$ 1.900,00 (Um mil e novecentos reais) da parcela vencida e não quitada).
+Tal decisão contida no acordão contrariou expressamente o contido na legislação federal prevista no artigo 319, Inciso III do Código de Processo Civil. Diante do exposto, não pode prevalecer tal intepretação.
+A apreciação relator de tal fato notório nos autos implicaria na extinção do processo no que se refere ao capítulo de sentença que versa sobre o pedido de inexigibilidade de débito do valor de R$ 1.900,00 (Um mil e novecentos reais) da parcela vencida e não quitada. (fls. 172-173).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à parte autora não ter se desincumbido do ônus de provar fato constitutivo de seu direito, tendo em vista que seu pleito indenizatório se baseou apenas em um mero orçamento comercial, trazendo os seguintes argumentos:
+Observando atentamente o pedido de indenização de dano material foi estribado apenas em um mero orçamento comercial. Desta feita se pode ver que no curso da lide a parte autora não produziu mais nenhuma prova para dar suporte a tal pretensão.
+Por consequência não tendo a parte autora se desincumbido do ônus de provar o fato constitutivo de seu direito, era de rigor a improcedência do seu pedido.
+Verifica-se que a autora não se desincumbiu de comprovar os fatos constitutivos de seu direito, nos termos do artigo 373, inciso I, do CPC.
+Uma vez que foi dado provimento ao pedido indenizatório de R$ 3.550,00 (três mil quinhentos e cinquenta reais) com base apenas em orçamento.
+A decisão do Tribunal com toda vênia, contrariou de forma expressa o texto tido como contrariado.
+Basta ver que acordão manteve a condenação danos materiais com base apenas um mero orçamento. Resta claro que tal documento não presta para os fins colimados pela recorrida. (fl. 174).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Primeiramente, não há falar em inépcia da inicial.
+A pretensão é voltada à declaração de inexigibilidade de débito, devolução de valores e indenização por danos materiais, em decorrência da má prestação de serviços da apelante.
+Verifica-se que a postulação possui todos os requisitos necessários para a busca da atividade jurisdicional. A inicial atendeu aos requisitos necessários à sua validade, estando em perfeita consonância com o que dispõem os artigos 319 e 320 do Código de Processo Civil de 2015. (fls. 160-161).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto aos danos materiais, tem-se que o orçamento de fls. 60 é suficiente para comprovar os dispêndios da apelada com os reparos. O fato de não ter sido anexados à inicial, três orçamentos, como insiste a apelante, não modifica o resultado da demanda, até porque não basta a impugnação genérica, incumbindo a ela demonstrar que os valores constantes daquele que foi apresentado mostrava-se acima do mercado, o que, também não ocorreu. (fl. 162).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
