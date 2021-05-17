@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VIAÇÃO PAVUNENSE S/A à decisão de fls. 255/256, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No Agravo em Recurso Especial, a decisão que inadmitiu o RESP foi publicada em 21/01/2020, findando-se o prazo para sua interposição em 13/02/2020, face as suspensões de prazos ocorridas em 21/01/2020 e 10 e 11/02/2020.
+A fim de comprovar as referidas suspensões de prazos, foi anexado juntamente ao Agravo em Recurso Especial, às fls. 233/236, respectivamente, o calendário oficial de suspensões processuais confeccionado e disponibilizado pelo TJRJ, onde constam expressamente mencionados os feridos e atos normativos que concederam as referidas suspensões de prazos (fls. 259/260).
+ ..
+Por sua vez, certo é que o Calendário Oficial confeccionado e disponibilizado pelo TJRJ é documento idôneo e válido para comprovar a ocorrência de suspensão processual, uma vez que nele há informação e inequívoca acerca de toda e qualquer suspensão de prazos havida no tribunal de origem.
+Desta forma, é inegável que, juntamente com o Recurso interposto, foi comprovada a suspensão processual, às fls. 262/265, além disso, ainda que não fosse este o caso, merece ser observado que o § 6º do art. 1.003 do CPC/2015 não impõe qualquer sanção para o caso de não ter sido comprovada a ocorrência de suspensão processual simultâneamente à interposição do recurso, tampouco comina sanção de não conhecimento do recurso em que a parte recorrente não haja cumprido aquela determinação (fl. 261).
+Nesse sentido, é o disposto no § 6º do art. 1.003 em conjunção com o parágrafo único do art. 932, segundo o qual:  ..  (fl. 262).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que a parte embargante foi intimada em 22/1/2020, circunstância que será devidamente corrigida na fundamentação abaixo.
+Mediante nova análise dos autos, verifica-se à fl. 222 que a parte foi intimada em 21/1/2020.
+No entanto, o agravo em recurso especial permanece intempestivo.
+Isso porque, conforme o art. 1.003, § 6º, do CPC vigente, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". Portanto, é expressamente vedada a possibilidade de comprovação posterior da tempestividade, devendo o documento idôneo para tanto ser juntado aos autos no momento da interposição do recurso.
+A aplicação do artigo citado, de acordo com a jurisprudência do STJ, também é válida para qualquer suspensão que interfira na contagem de prazo recursal, inclusive para os casos de indisponibilidade do sistema, conforme demonstram estes precedentes:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. A mera alegação de indisponibilidade do sistema eletrônico do Tribunal de origem, sem a devida comprovação no ato de interposição do recurso, mediante documentação oficial, não tem o condão de afastar a inadmissibilidade deste, em razão da impossibilidade de aferição da sua tempestividade.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1340335/RS, relator Ministro Gurgel de Faria , Primeira Turma, DJe de 24/10/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. INDISPONIBILIDADE DO SISTEMA DE PETICIONAMENTO ELETRÔNICO NÃO COMPROVADA. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Hipótese em que a parte recorrente foi intimada da decisão agravada em 30.5.2018, sendo o recurso especial somente interposto em 21.6.2018.
+2. O recurso é intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+3. Conforme jurisprudência do STJ, "A jurisprudência do STJ possui entendimento segundo o qual a indisponibilidade do sistema eletrônico do Tribunal de origem também deve ser comprovado, mediante documento oficial, no ato da interposição do recurso" (AgInt no AREsp 1.317.805/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 19/12/2018).
+ ..
+6. Agravo Interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp 1417235/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 30/9/2019.)
+Deveria a parte ter comprovado a indisponibilidade do sistema por ocasião da apresentação do recurso, o que não ocorreu.
+No caso, o calendário ou a mera relação de feriados juntado às fls. 233/236, não têm o condão de afastar a intempestividade do recurso.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, uma vez que somente é utilizado para os vícios sanáveis. Conforme mencionado anteriormente, com o advento do CPC de 2015, a comprovação posterior da tempestividade é vedada de forma expressa, tornando este vício insanável. Do mesmo modo, não se aplica o princípio da primazia do julgamento do mérito.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. APLICAÇÃO DO PRAZO CONFERIDO AO ART. 932 DO CPC/2015. IMPOSSIBILIDADE. 2. PRIMAZIA DO MÉRITO. INAPLICABILIDADE. 3. JULGAMENTO DO RECURSO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. 4. INTERPOSIÇÃO DO APELO ESPECIAL APÓS O TRANSCURSO DO PRAZO RECURSAL. 5. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. 6. AGRAVO IMPROVIDO.
+1. De fato, "o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade" (AgInt no AREsp 1.168.064/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 15/03/2018, DJe 20/03/2018).
+2. Consoante orientação desta Corte, "em se tratando de vício insanável, não há que se falar em aplicação do princípio da primazia de julgamento de mérito" (AgInt no AREsp 1.327.349/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+ ..
+4. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+5. Não conhecido o recurso especial, não há falar em suspensão do julgamento da irresignação, nos moldes em que postulado pela agravante, visto que o apelo extremo nem mesmo ultrapassou o exame de admissibilidade.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1622314/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, Dje de 12/06/2020.)
+Registre-se, ainda, que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 28/2/2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Ainda que assim não fosse, importante ressaltar que a consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC: a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do dia.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material verificado na decisão de fls. 255/256, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
