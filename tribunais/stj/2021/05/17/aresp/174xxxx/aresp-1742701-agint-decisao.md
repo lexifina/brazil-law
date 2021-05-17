@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por KLANIZE GONÇALVES SANTOS LEMOS, contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, ante a ausência de impugnação específica de todos os fundamentos da decisão agravada.
+É o que cumpria relatar. Decide-se.
+1. Discute-se no apelo nobre de fls. 462-485(e-STJ), dentre outras questões, a "Definição da obrigatoriedade de custeio pelo plano de saúde de cirurgias plásticas em paciente pós-cirurgia bariátrica."
+A referida controvérsia foi afetada pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastrado como Tema 1069. Ademais, foi determinada a suspensão da tramitação de processos em todo território nacional, nos termos do artigo 1037, inciso II, do CPC/2015.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Do exposto, torno sem efeito a decisão de fls. 625-627 (e-STJ), julgo prejudicado o agravo interno de fls. 630-699 (e-STJ), e, por conseguinte, determino a devolução dos autos à origem, com a devida baixa nesta Corte Superior, para que o presente apelo permaneça suspenso até o julgamento definitivo pelo STJ da matéria submetida à sistemática dos recursos repetitivos (Temas 1069), consoante o disposto no 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do mesmo Diploma Legal.
+Publique-se.
+Intimem-se.
