@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+PRIMEIRA CÂMARA CRIMINAL
+Des. Orlando de Almeida Perri
+APELAÇÃO CRIMINAL (417) No 0004805-70.2020.8.11.0015
+APELANTES: MINISTÉRIO PÚBLICO, DANIEL JOSE DA SILVA E WESLEN DE SA CALDEIRA DE OLIVEIRA
+APELADOS: OS MESMOS
+Vistos, etc.
+Remetam-se os autos a Procuradoria-Geral de Justiça para parecer.
+Cumpra-se.
+Cuiabá, 17 de maio de 2021.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
