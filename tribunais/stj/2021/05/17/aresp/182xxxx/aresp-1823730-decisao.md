@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO DO BRASIL S.A., com fundamento naalíneaado permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Pauloassim ementado (e-STJ, fl. 105):
+AGRAVO INTERNO  Insurgência contra a decisão monocrática que não conheceu do recurso de agravo de instrumento  Matéria debatida que não foi apreciada pelo juízo a quo  Impossibilidade de análise por este Tribunal, sob pena de supressão de instância  Ausente o interesse recursal, portanto  Decisão monocrática mantida  AGRAVO INTERNO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 117-121).
+No recurso especial, orecorrente apontou violação dos arts. 489, § 1º, IV e VI; 506; 523, 927, III; 996,1.015, parágrafo único, e 1.022, I e II, do novo Código de Processo Civil.
+Esclareceu que se opôs ao acórdão que, sem apreciar todas as questões levantadas pelo insurgente, declarou não ser admissível seuagravo de instrumento, desconsiderando que a decisão de primeira instância que recebe o pedido de liquidação da sentença se qualifica como decisão, e não despacho,portanto recorrível - arts. 523 e1.015, parágrafo único, do novo CPC. Nesse sentido, não faria sentido a conclusão de que as alegações suscitadas não teriam sido apresentadas ao Magistrado singular.
+Frisou que a lei processual expressamente estabelece, sem ressalvas, a possibilidade de agravo de instrumento contra as decisões interlocutórias no cumprimento de sentença. Pleiteou o conhecimento e provimento do recurso especial (e-STJ, fls. 125-140).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 194-211).
+Contraminuta apresentada (e-STJ, fls. 217-219 e 221-235).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Destarte, o fundamento do acórdão não foi a qualificação jurídica da manifestação que aprecia o cumprimento de sentença - intimação do devedor para quitar a dívida, prevista no art. 523 do CPC/2015. O aresto firmou apenasa impossibilidade de supressão de instância para conhecer do agravo de instrumento, haja vista que as questões apresentadas no agravo de instrumentonão teria sido objeto de prévia análise do juiz inicial, o que deveria ter ocorrido, sob pena de supressão de instância.
+Veja-se (e-STJ, fl. 106):
+o contrário do que se alega nas razões recursais, o inconformismo versado no recurso de agravo de instrumento é inadmissível e não comporta seguimento, pois muito embora o agravante se insurja contra decisão proferida em cumprimento de sentença  elencada, portanto, no rol do artigo 1015 do CPC -, as questões por ele levantadas não foram apresentadas ao magistrado a quo, o que impede a análise deste Tribunal. Como mencionado na decisão monocrática, a apreciação das matérias aventadas pelo agravante neste momento, implicará em supressão de instância, pelo que ausente o interesse recursal.
+Desse modo, diversamente do que sustenta o agravante, não era mesmo caso de se conhecer do recurso de agravo de instrumento, pelo que mantida a decisão monocrática agravada.
+Esse entendimento foi fundado na incursão fática da causa, atraindo a aplicação da Súmula 7/STJ.
+Não se observaintuito meramente protelatório ou evidente má-fé, logo não cabe falar em imposição de multa em desfavor da casa bancária.
+Ante o exposto, conheço do agravo para conhecer parcialmente dorecurso especial e, na extensão conhecida, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO PARA EVITAR INDEVIDA SUPRESSÃO DE INSTÂNCIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
