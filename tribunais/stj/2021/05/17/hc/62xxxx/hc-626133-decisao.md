@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício de MICHEL CARLOS DE FREITASe JOÃO VITOR SCHUTZ, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina no julgamento do HC 5034711-05.2020.8.24.0000.
+Extrai-se dos autos que os pacientes foram presos preventivamente e denunciados pela suposta prática do crime descrito no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, e art. 288, parágrafo único, todos do Código Penal (roubo majorado e associação criminosa armada).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. CRIMES DE ROUBO MAJORADO E ASSOCIAÇÃO CRIMINOSA (ARTS. 157, § 2º, INCS. II E V, E § 2º-A, INC. I, E 288,PARÁGRAFO ÚNICO, TODOS DO CÓDIGO PENAL). PRISÃOPREVENTIVA. INSURGÊNCIA DEFENSIVA. EXCESSO DE PRAZOPARA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. AUSÊNCIA DEDESÍDIA DO JUÍZO SINGULAR NA CONDUÇÃO DO FEITO. COMPLEXIDADE DO CASO, PLURALIDADE DE TESTEMUNHAS ERÉUS QUE JUSTIFICAM A PROLONGAÇÃO DO TRÂMITEPROCESSUAL. AUTOS QUE SE ENCONTRAM NA FASE DO ART. 402DO CÓDIGO DE PROCESSO PENAL. PRINCÍPIOS DARAZOABILIDADE E PROPORCIONALIDADE DEVIDAMENTERESPEITADOS. PRECEDENTES. CONSTRANGIMENTO ILEGALINEXISTENTE. ORDEM DENEGADA" (fl. 29).
+No presente writ, a defesa assevera a preclusão da diligência requerida pelo Ministério Público relativa a perícia de voz, afirmando que o pedido foi realizado após o fim da fase instrutória, nas diligências complementares do art. 402 do Código de Processo Penal, porquanto o celular a ser periciado foi juntado aos autos juntamente com o inquérito. Contraditoriamente, alega que a instrução criminal ainda não foi realizada em razão do pleito ministerial.
+Sustenta a ocorrência de excesso de prazo na custódia dos pacientes, acentuada diante da demora que envolve a realização da perícia requerida pelo Parquet.
+Requer, em liminar e no mérito, a revogação das prisões preventivas.
+O pedido liminar foi indeferido (fls. 65/66). As informações foram prestadas pelas instâncias ordinárias (fls. 72/85 e 86/163).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 165/169).
+É o relatório.
+Decido.
+O pedido não comporta conhecimento. Isso porque, foi formulado pedido idênticono HC n. 641.989/SC de minha relatoria, julgado em 5/5/2021, no qual não conheci da impetração, tendo em vista a ausência de flagrante ilegalidade capaz de justificar a revogação da custódia preventiva.Em ambos os processos os pacientes são os mesmos e emborainsurgência seja contra acórdãos diversos do Tribunal de origem, o conteúdo é idêntico e a defesa também apresenta as mesmas alegações aqui expostas.
+Desse modo, é inadmissível o conhecimento do presente writ, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal, consoante se extrai dos seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE DO MANDADO DE BUSCA E APREENSÃO. AUSÊNCIA DE LAUDO PRELIMINAR TOXICOLÓGICO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMAS NÃO DEBATIDOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. CUSTÓDIA PREVENTIVA. FUNDAMENTOS. LEGALIDADE JÁ ANALISADA NO RHC 115.823/RS. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO. RAZOABILIDADE. INSTRUÇÃO CRIMINAL ENCERRADA. RECURSO NÃO PROVIDO.
+1. As teses relativas à invalidade do mandado de busca e apreensão domiciliar, à ausência de laudo químico preliminar e à aplicação do princípio da insignificância não foram debatidas no acórdão impugnado, o que impede o conhecimento delas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+2. O pedido de revogação da prisão cautelar por falta de motivação idônea, trata-se de mera reiteração do trazido no RHC n. 115.823/RS, e já analisado por esta Corte.
+3. Esta Corte possui entendimento pacificado no sentido de que a demora para a conclusão dos atos processuais não pode ser verificada da simples análise dos prazos previstos em lei, devendo ser examinada de acordo com os princípios da razoabilidade e conforme as peculiaridades do caso concreto. Na hipótese, embora o acusado tenha sido preso em 7/6/2019, o transcurso da ação penal não se mostra desarrazoado, dadas as peculiaridades do caso, sobretudo a pluralidade de agentes e de fatos graves a serem apurados.
+4. Ademais, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (Súmula 52/STJ).
+5. Agravo regimental não provido.
+(AgRg no RHC 123.461/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 12/11/2020).
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. INIDONEIDADE DOS FUNDAMENTOS EMPREGADOS PARA A DECRETAÇÃO DA PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO FORMULADO NO HC N. 597.692/SP. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DO DEFENSOR CONSTITUÍDO DA DATA DE JULGAMENTO DA APELAÇÃO. NULIDADE NÃO VERIFICADA. HABEAS CORPUS CONHECIDO, EM PARTE, E, NESSA PARTE, DENEGADA A ORDEM.
+1. No tocante à ausência de fundamentação idônea para a decretação da custódia preventiva, o writ é mera reiteração de pedido anterior cuja decisão já transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão.
+2. Nos termos do art. 370, § 1.º, do Código de Processo Penal, a intimação do defensor constituído é feita pela publicação no órgão incumbido da publicidade dos atos judiciais da comarca.
+3. No caso, a intimação para eventual oposição ao julgamento virtual do recurso de apelação, bem como do teor do acórdão, foram publicadas em nome do Defensor Bruno Barbosa Nunes, ora Impetrante, não se evidenciando, portanto, a existência de nulidade.
+4. Habeas corpus conhecido, em parte e, nessa extensão, denegada a ordem.
+(HC 597.696/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 20/11/2020).
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
