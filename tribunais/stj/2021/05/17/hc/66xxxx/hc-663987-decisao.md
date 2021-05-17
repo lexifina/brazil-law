@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, sem pedido liminar, impetrado em favor de EVERSON RODRIGUES DE SOUZA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios, nestes termos ementado (fls. 223-229):
+"EXECUÇÃO PENAL. RECURSO DE AGRAVO EM EXECUÇÃO. RECURSO DO MINISTÉRIO PÚBLICO. CRIME HEDIONDO OU EQUIPARADO A HEDIONDO. PROGRESSÃO DE REGIME. LEI Nº 13.964/2019 (PACOTE ANTICRIME). ART. 112 DA LEI DE EXECUÇÃO PENAL. APLICAÇÃO DA FRAÇÃO DE 3/5 (TRÊS QUINTOS). POSSIBILIDADE. PRESENTE A REINCIDÊNCIA ESPECÍFICA. DECISÃO MANTIDA. RECURSO CONHECIDO E PROVIDO.
+1. O lapso temporal de 60% (sessenta por cento) para progressão de regime é exigido de reincidentes específicos, quais sejam, reincidentes em crime de natureza hedionda ou equiparada.
+2. Recurso de agravo conhecido e provido, por fundamento diverso."
+Daí o presente habeas corpus, no qual a d. Defesa sustenta que o lapso imposto pelo eg. Tribunal de origem para a progressão de regime dependeria de reincidência específica em crime hediondo.
+Alega que a Lei nº 13.964/2019 é norma penal posterior mais benéfica.
+Requer a concessão da ordem, com a retificação dos cálculos da execução penal, para a progressão de regime.
+Informações, às fls. 240-304.
+O d. Ministério Público Federal manifestou-se, às fls. 306-311, em r. parecer, pela concessão da ordem de writ, nos termos da seguinte ementa:
+"PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. RETIFICAÇÃO DE CÁLCULO DE LIQUIDAÇÃO DEPENAS. PACIENTE QUE CUMPRE PENA PELO CRIMEDE TRÁFICO DE DROGAS (CRIME HEDIONDO POREQUIPARAÇÃO). PACIENTE REINCIDENTE NÃOESPECÍFICO. CUMPRIMENTO DE 60% DA PENACOMO CONDIÇÃO PARA PROGRESSÃO DE REGIMEPRISIONAL. LEI ANTICRIME. INTELIGÊNCIA DANOVA REDAÇÃO DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+1. O impetrante pede a retificação do cálculo do lapso temporal para a progressão de regime do paciente, a fim deque se considere o percentual de 40% da pena, em razão de ele não ser reincidente específico.
+2. O STJ havia firmado, inicialmente, o entendimento, como qual compartilho, de que a entrada em vigor da Lei nº13.964/2019 não alterou a aplicação, ao reincidente simples, da porcentagem de 60% do cumprimento de pena para a progressão de regime prisional.
+3. Todavia, essa orientação foi revista em recentes julgados de ambas as Turmas Criminais dessa Corte Superior, que passaram a adotar posicionamento segundo o qual a alteração promovida pelo Pacote Anticrime no art. 112 da LEP não autoriza a aplicação do percentual de 60%,relativo aos reincidentes em crime hediondo ou equiparado, aos reincidentes não específicos. Isso porque, ante a omissão legislativa, impõe-se o uso da analogia in bonam partem, para se aplicar, na hipótese, o inciso V do artigo 112, que prevê o lapso temporal de 40% ao primário e ao condenado por crime hediondo ou equiparado.
+- Parecer pela concessão da ordem de habeas corpus para que seja computado 40% do cumprimento de pena para a progressão de regime, apenas ressalvando a minha compreensão diversa sobre o tema."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para delimitar a quaestio, o v. acórdão vergastado (fls. 223-229):
+"(..)Quanto ao tema, esta Eg. Turma tem firme entendimento de que como a lei nova passou a exigir o lapso temporal de 60% (sessenta por cento) apenas para os reincidentes específicos, quais sejam, reincidentes em crime de natureza hedionda ou equiparada - ainda que, em princípio em contradição ao escopo pretendido pelo Legislador - não é cabível ao Judiciário realizar interpretação contra legem em prejuízo do apenado e contra a literalidade do dispositivo, sob pena de violação ao princípio da legalidade.
+(..)
+Ao se analisar o Relatório da Situação Processual do apenado juntado aos autos (ID 22534100, Págs. 13/17), é possível constatar que esse apresenta três condenações, a saber:
+i) Autos 0003161-74.2018, condenação por tráfico, fato de 30/07/2016, sobre a qual recaiu a decisão de primeira instância, passando-se a fração de 60% para 40% para progressão de regime;
+ii) Autos 0009708-80.2015, também condenação por tráfico, fato de 26/03/2015, com trânsito em julgado definitivo em 27/05/2016;
+iii) Autos 0006783-62.2016, condenação pelo art. 309 do CTN, fato de 18/05/2016, com trânsito em julgado em 07/02/2018.
+Assim, no caso análise, extrai-se que o é reincidente em razão de delito equiparado a hediondo, qual seja, tráfico.
+Isso porque praticou novo tráfico (em 30/07/2016) após o trânsito definitivo de condenação por tráfico (27/05/2016).
+Saliente-se que o fato de o delito anterior ter sido objeto de indulto, não afasta a condição de reincidente do apenado, nos termos do disposto no Enunciado nº 631 da Súmula do STJ.
+(..)
+Ante o exposto, conheço do agravo em execução e DOU-LHE PROVIMENTO, porém, com fundamento diverso do requerido pelo agravante.
+É como voto." (grifei)
+Pois bem.
+Incialmente, tem-se que a d. Defesa confirma a reincidência (embora não específica, no caso concreto).
+Explicou-se que (fl. 225):
+"Conforme relatado, o d. Juízo da Vara de Execuções Penais do Distrito Federal deferiu o pedido da defesa para determinar a aplicação retroativa do art. 112, inc. V, da LEP, com a redação determinada pela Lei nº 13.964/2019, a fim de anotar a fração de progressão de regime ao apenado EVERSON RODRIGUES DE SOUZA à razão de 40% da pena hedionda (ação penal 0003161-74.2018.8.07.0015), uma vez que a fração de 3/5 (ou seja, 60%) até então determinada, passou a ser exigível apena ao condenado reincidente na prática de crime hediondo ou equiparado, conforme o inciso VII do art. 112 da LEP."
+Ainda, que (fl. 7): "nos autos 0009708-80.2015.8.07.0001, foi aplicada ao paciente a causa especial de redução de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, razão pela qual o respectivo delito não se considera hediondo ou equiparado, para os fins da definição do percentual de progressão, nos termos do art. 112, §5º, da Lei de Execução Penal."
+Isso se confirma da informação de fl. 37.
+No presente caso, verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, com a aplicação do atual art. 112, VII, da Lei de Execução Penal.
+Verbis:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado  .. " (grifei)
+Em Sessão de 9/12/2020, esta mesma Quinta Turma, em alinhamento ao que já vinha sendo julgado pela Sexta Turma desta eg. Corte Superior, no julgamento dos HCs n. 613.268/SP e n. 616.267/SP, passou a decidir em sentido diametralmente oposto ao seu entendimento anterior, pelos fundamentos abaixo mencionados.
+Vejamos a ementa do HC n. 613.268/SP, verbis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+4. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+5. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum). Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+6. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem. Princípios aplicáveis: Legalidade das penas, Retroatividade benéfica e in dubio pro reo. - A lei penal deve ser interpretada restritivamente quando prejudicial ao réu, e extensivamente no caso contrário (favorablia sunt amplianda, odiosa restringenda) - in NÉLSON HUNGRIA, Comentários ao Código Penal, v. I, t.I, p. 86. Doutrina: HUMBERTO BARRIONUEVO FABRETTI e GIANPAOLO POGGIO SMANIO, Comentário ao Pacote Anticrime, Ed. Atlas, 2020; RENATO BRASILEIRO DE LIMA. Pacote Anticrime: Comentários à Lei 13.964/19, Ed. Jus Podium, 2020; PAULO QUEIROZ, A nova progressão de regime - Lei 13.964/2019, https://www.pauloqueiroz.net; ROGÉRIO SANCHES CUNHA, Pacote Anticrime: Lei n. 13.964/2019 - Comentários às alterações no CP, CPP e LEP. Salvador: Editora Jus Podvim, 2020; e PEDRO TENÓRIO SOARES VIEIRA TAVARES e ESTÁCIO LUIZ GAMA LIMA NETTO; NETTO LIMA, Pacote Anticrime: As modificações no sistema de justiça criminal brasileiro. e-book, 2020. Precedentes: HC n 581.315/PR, Rel. Min. SEBASTIÃO REIS JÚNIOR e HC n. 607.190/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, ambos julgados em 06/10/2020.
+7. Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave." (AgRg no HC 613.268/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/12/2020, grifei).
+Diante disso, em face do novo entendimento, tenho que o v. acórdão a quo configura flagrante ilegalidade, passível de concessão da ordem nesta impetração, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para que o d. Juízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte.
+Recomenda-se celeridade nesta apreciação.
+Intime-se, com urgência, o d. Juízo da Execução.
+P. I. C.
