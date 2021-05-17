@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Léo Sidnei Crepaldi, com base nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ fls. 128/129):
+PROCESSUAL CIVIL. AGRAVO LEGAL (ART. 557, §1º, DO CPC). PODERES DO RELATOR. ILEGALIDADE OU ABUSO DE PODER NÃO CARACTERIZADOS.
+1-É dado ao relator, na busca pelo processo célere e racional, decidir monocraticamente o recurso interposto, quer negando-lhe seguimento, desde que em descompasso com "súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior", quer lhe dando provimento, na hipótese de decisão contrária "à súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior" (art. 557, caput e §1º-A, do CPC).
+2- O denominado agravo legal (art. 557, §1º, do CPC) tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator e, bem assim, a legalidade da decisão monocrática proferida, não se prestando, afora essas circunstâncias, à rediscussão, em si, de matéria já decidida.
+3- Decisão que não padece de qualquer ilegalidade ou abuso de poder, estando seus fundamentos em consonância com a jurisprudência pertinente à matéria devolvida a este E. Tribunal.
+4- Agravo improvido.
+O autor interpôs os embargos de declaração (e-STJ, fls. 132/141) que foram rejeitados pela decisão de e-STJ, fls. 143/147.
+O recorrente alega, além de divergência jurisprudencial, contrariedade aos arts. 794, I, II e III, e 795 do CPC/1973; 506, 507 e 508 do CPC/2015.
+Sustenta, em suma, que a violação teria ocorrido quando o Tribunal a quo declarou extinta a execução, sob o fundamento de inexistência de direito do recorrente em receber o crédito, em razão da implantação de novo benefício na via administrativa, posteriormente à condenação judicial.
+Acrescenta que, assim decidindo, o Tribunal rediscutiu a coisa julgada para declarar a extinção do direito do recorrente à execução de seu crédito. Aponta que a legislação processual veda a ampliação ou a redução do dispositivo da sentença transitada em julgado, não podendo, portanto, o Tribunal, extinguir a execução.
+Sem contrarrazões (e-STJ, fls. 205).
+Admitido o recurso especial na origem (e-STJ, fls. 208/209), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso constitui tema dos Recursos Especiais n. 1.767.789/PR e 1.803.154/RS (Tema 1.018 - Possibilidade de, em fase de Cumprimento de Sentença, o segurado do Regime Geral de Previdência Social receber parcelas pretéritas de aposentadoria concedida judicialmente até a data inicial de aposentadoria concedida administrativamente pelo INSS enquanto pendente a mesma ação judicial, com implantação administrativa definitiva dessa última por ser mais vantajosa, sob o enfoque do artigo 18, § 2º, da Lei 8.213/1991, de relatoria do Min. Herman Benjamin, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º do CPC/2015 e na Emenda Regimental n. 24 do RISTJ, cujo processamento se encontra pendente na Primeira Seção).
+Assim, o julgamento imediato do recurso especial seria prematuro.
+De outra parte, a admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído, nesta Corte, o julgamento, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, o recurso especial tenha seguimento negado, na hipótese de o julgamento recorrido estar em conformidade com a orientação firmada pelo STJ, ou para que seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos dos arts. 1.040, e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
