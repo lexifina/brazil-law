@@ -1,0 +1,17 @@
+Vistos etc.
+Trata-se de Agravo de Instrumento, com efeito ativo, interposto por NELSON SCHWINGEL contra a decisão proferida na Ação de Declaratória de Inexistência de Relação Contratual no 1005581-19.2021.8.11.0015, movida por NELSON SCHWINGEL, perante a 3a Vara Cível da Comarca de Sinop/MT, que indeferiu o pedido de antecipação de tutela no sentido de determinar a suspensão dos descontos em folha efetuados pela agravada.
+Em resumo, verbera que (i) é aposentado pelo INSS, percebendo o benefício previdenciário, e mantem junto ao banco AGIBANK sua conta em que recebe o benefício previdenciário; (ii) sem contratar qualquer serviço da empresa requerida, vem sofrendo descontos em seu benefício, no valor mensal de R$13,99 (treze reais e noventa e nove centavos), com início em novembro de 2017, no contrato sob o número 1210716644, no qual não autorizou; (iii) requisitou cópias dos supostos contratos, porém, não foi atendido; (iv) é pessoa simples, com pouco conhecimento, semianalfabeto, e que não é capaz de verificar com clareza os valores no quais estava sendo recebido; (v) por diversas vezes, o autor procurou a empresa ré, para que fosse explicada redução na sua verba alimentar, porém, sempre foi informado que os valores estavam corretos.
+Requer a antecipação da tutela recursal, para que o requerido a suas expensas suspenda os descontos relacionados no benefício previdenciário da autora, sob pena de ser aplicada multa diária no valor de R$ 1.000,00.
+Sucinto relato.
+Nessas condições, a pretensão encontra permissivo no art. 1015, I, do CPC, viabilizando o curso deste Agravo na forma instrumental, bem como, pelos documentos juntados, foram preenchidos os requisitos disposto no art. 1017, I, do mesmo Código Processual.
+De outro lado, o conjunto probatório encartado nestes autos virtuais, examinado a luz do disposto no art. 300 do CPC, não propicia o reconhecimento de elementos capazes de evidenciar a probabilidade do direito sustentado na pela vestibular.
+Veja que a exordial da Ação Declaratória no 1005581-19.2021.8.11.0015 questiona única e exclusivamente a conduta do Agravado AGIPLAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO, cuja relação jurídica questionada se circunscreve, de acordo com os extratos encartados (ID 86565497), a cobrança de valores em consignação, iniciada no mês de novembro de 2017.
+Por mais que o agravante tenha se empenhado em demonstrar a veracidade de suas alegações, no sentido de que não contratou mencionado empréstimo, não se esboça a possibilidade de ser acolhida a sua pretensão, visto que a questão relativa à inexistência de relação jurídica exige a produção de outras provas.
+Com efeito, a simples afirmação de que nunca contratou com a instituição agravada, não é o bastante para a tutela de urgência.
+Além disso, o desconto ora questionado ultrapassa pouco mais que 13,00 (treze reais), e a verificação de situação diversa ao final do litígio, tendo em vista o rendimento da Agravante e capacidade financeira do banco Agravado, pode ser fácil e rapidamente revertida.
+Com essas considerações, INDEFIRO A TUTELA vindicada.
+Intimem-se a parte Agravada para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
