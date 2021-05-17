@@ -1,0 +1,37 @@
+Decisão: Trata-se de reclamação em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região que, ao negar provimento a agravo interno interposto contra decisão que negara seguimento a recurso extraordinário com base em tema da repercussão geral (art. 1.030, I, a, do CPC), teria erroneamente aplicado o Tema 1.037 da repercussão geral, bem como usurpado a competência desta Corte para análise do recurso.
+    Alega-se que o “se os juros devidos entre a data da conta e a expedição da requisição (Tema RG 96) não foram contemplados no pagamento do precatório original, imperioso reconhecer que, quanto a essa verba, não foi respeitado o prazo constitucional previsto no art. 100 da CF/88, voltando a incidir juros, pois, a partir do respectivo vencimento (Tema RG 1.037)” (eDOC 1, p. 18).
+    Requer-se, liminarmente, a suspensão da decisão ora reclamada e, no mérito, sua cassação.
+    Dispenso o pedido de informações a autoridade reclamada e a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Cumpre recordar que o cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    Essa corte, ao analisar o Tema 1.037 da Repercussão Geral (RE 1169289, Relator Ministro Marco Aurélio, Relator p/ Acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 16/06/2020) assim decidiu:
+    “Em 10/11/2009, a jurisprudência do SUPREMO TRIBUNAL FEDERAL no sentido de que, “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos” atingiu o mais elevado grau de consolidação, consubstanciando o Enunciado 17 da Súmula Vinculante desta CORTE. 2. Pouco após, em 9/12/2009, foi promulgada a Emenda Constitucional 62, que promoveu ampla reformulação no art. 100 da Constituição, o qual versa sobre o regime de precatórios.
+    3. Não obstante a norma à qual se refere a SV 17 tenha sido deslocada do parágrafo 1º para o parágrafo 5º do art. 100, tal modificação não altera o sentido do enunciado sumular - que, aliás, não foi afetado por qualquer disposição da Emenda 62.
+    4. O período previsto no art. 100, parágrafo 5º, da Constituição (precatórios apresentados até 1º de julho, devendo ser pagos até o final do exercício seguinte) costuma ser chamado de “período de graça constitucional”.
+    5. Nesse interregno, não cabe a imposição de juros de mora, pois o ente público não está inadimplente.
+    6. Caso não haja o pagamento integral dentro deste prazo, os juros de mora passam a correr apenas a partir do término do “período de graça”.”
+    O ato apontado como reclamado confirmou negativa de seguimento de recurso extraordinário que possui os seguintes fundamentos sintetizados (eDOC 3, pp. 146-148):
+    “No caso dos autos, a decisão recorrida foi lançada nos seguintes termos:
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, contra acórdão de Órgão Colegiado desta Corte, assim ementado:
+    AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. JUROS MORATÓRIOS. NÃO INCIDÊNCIA.
+    Não incidem juros moratórios entre a elaboração da conta e o efetivo pagamento do saldo remanescente na execução.
+    O Supremo Tribunal Federal, ao apreciar recurso(s) submetido(s) à sistemática da repercussão geral, fixou a(s) seguinte(s) tese(s): Tema STF 1037 - O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição.
+    Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o "período de graça".
+    Em relação à(s) matéria(s), o Órgão julgador deste Tribunal decidiu a hipótese apresentada nos autos em consonância com o entendimento da Corte Suprema.
+    Por sua vez, em atenção ao disposto nos arts. 1.030, I, "a" e "b", e 1.040, I, do CPC/2015, deve ser negado seguimento a recurso extraordinário interposto contra acórdão que esteja em conformidade com a orientação firmada pelo STF em regime de repercussão geral ou de recursos repetitivos.
+    Ante o exposto, nego seguimento ao recurso extraordinário. “
+    Da análise do voto condutor do Colegiado, extrai-se fundamentação no sentido de que:
+    Pelo que se vê dos autos, a parte agravante propôs a execução de sentença de origem, já tendo sido pago parte do valor devido via precatório em 2009, no valor de R$ 47.785,10 (evento 2, pet40, do processo originário). Após, foi reconhecido à parte agravante o direito a valor complementar (conforme seus cálculos, no valor de R$ 23,7 mil - evento 12, calc3, do processo originário), e a parte agravante sustenta, agora, ser devida ainda a incidência de juros moratórios até a efetiva e plena quitação do saldo complementar.
+    Pois bem, a incidência de juros desde a elaboração da conta até o efetivo pagamento já foi resolvida pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos, com orientação sintetizada no Tema 291 daquela Corte: Não incide juros moratórios entre a elaboração dos cálculos e o efetivo pagamento da requisição de pequeno valor - RPV (cf. STJ, REsp 1143677/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe 04/02/2010).
+    Conquanto as razões adotadas pelo Colegiado, dizem com a aplicação de precedente firmado à luz da anterior redação Constitucional, não se pode deixar de referir que, ao apreciar a questão, sob o égide da EC 62/2009, o egrégio Supremo Tribunal Federal manteve o entendimento de que, durante o prazo constitucional para pagamento dos débitos da Fazenda Pública, não incidem juros de mora.
+    De aí, considerando que os valores foram pagos dentro do período constitucional, a pretensão recursal esbarra na tese firmada no Tema 1037- STF.
+    Pelo quanto se pode perceber das razões trazidas em sede de aclaratórios, recebido como agravo interno, o que pretende o embargante é se valer da tese do Tema 1037-STF, haja vista a necessária ordem de pagamento complementar a título de juros de mora devidos entre a conta e a requisição.
+    Tal conclusão, s.m.j., não se identifca com ratio decidendi do paradigma invocado, na medida em que o que se tem por devido é o cabimento de juros sobre o principal, quando não pago no período constitucional.”
+    Como se nota, do cotejo entre o ato reclamado e o parâmetro de controle inexiste a alegada violação.
+    O tema 1.037 trata do inadimplemento, após o prazo constitucional, do valor efetivamente requisitado e não se confunde com o pagamento de eventual diferença entre a data da conta e a data da expedição dessa requisição.
+    Não foram, ademais, juntadas a requisição de pagamento, o demonstrativo de pagamento, o calculo homologado e, de todo modo, a reclamação não constitui via adequada para debater premissas fáticas da decisão.
+    Pelo exposto, nos termos dos arts. 21, § 1º, e 161, parágrafo único, do RISTF, nego seguimento à reclamação.
+    Brasília, 17 de maio de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
