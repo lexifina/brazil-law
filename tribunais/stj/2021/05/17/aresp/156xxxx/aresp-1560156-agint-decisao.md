@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interno interposto por KIRTON BANK S.A - BANCO MÚLTIPLO contra decisão de fls. 944-945, e-STJ, proferida pela Presidência desta Corte, que não conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente.
+A parte ora agravante pede o prosseguimento do recurso, tendo em vista, em suma, que a matéria tratada nos autos está prequestionada.
+Na origem, cuida-se de cumprimento de sentença prolatada na Ação Civil Pública nº. 0403263-60.1993.8.26.0053, ajuizada pelo IDEC contra o Banco do Brasil S.A., sucessor do Banco Nossa Caixa S/A, na qual a Casa Bancária foi condenada ao pagamento de expurgos inflacionários não creditados corretamente nas cadernetas de poupança, referente ao Plano Verão (1989).
+É o relatório.
+Decido.
+1. Considerando: (a) as razões expendidas; (b) a reconsideração, em 12 de abril de 2019, pelo Ministro Gilmar Mendes, da decisão anterior proferida no Recurso Extraordinário n. 632.212; e, (c) a deliberação da Segunda Seção desta Corte, em 24.4.2019, autorizando a tramitação regular, no Superior Tribunal de Justiça, dos recursos admissíveis relacionados a expurgos inflacionários em fase de execução de sentença (individual ou coletiva), em que a parte se manifeste, expressamente, pela não adesão ao acordo homologado pelo Supremo Tribunal Federal; reconsidero a decisão de fls. 944-945e-STJ, tornando-a sem efeitos.
+2. Discute-se no apelo nobre de fls. 764-773(e-STJ), dentre outros temas, questão referente à legitimidade ativa do não associado para a execução da sentença proferida em ação civil pública manejada por associação na condição de substituta processual.
+A referida controvérsia foi afetada pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastrada como Tema 948.
+Ademais, foi determinada a suspensão da tramitação de processos em todo território nacional, nos termos do artigo 1.037, inciso II, do CPC/2015.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+3. Do exposto, reconsidero a decisão de fls. 944-945e-STJ, tornando-a sem efeitos, e determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, para que os presentes apelos permaneçam suspensos até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Temas 948) e eventual retratação prevista nos arts. 1.040, inciso II, e 1.041, ambos do CPC/2015.
+Publique-se.
+Intimem-se.
