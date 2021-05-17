@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Agravo Internoem Recurso Especial, interposto por FAZENDA NACIONAL, em face de decisão que negou provimento aRecurso Especial, com fundamento na Súmula 568/STJ,ao entendimento de que o acórdão recorrido estaria em conformidade com a jurisprudência doSTJ, no sentido de que não incide contribuição previdenciária sobre o terço de férias.
+Alega a agravante que "considerando a evidente superação do entendimentoFirmado pelo Superior Tribunal de Justiça no REsp 1.230.957/RS,demonstrado tanto pelo julgamento do repetitivo REsp 1.459.779-MA, acompreender o terço constitucional de férias não como verba indenizatória,mas como verba remuneratória; como também pelo julgamento do STF doTema 20, a considerar a verba como ganho habitual e não mais comoindenização, pugna, por fim, a União, pelo reconhecimento da devidaincidência da contribuição previdenciária sobre aludida verba, de forma a secompatibilizar o presente processo com todo o arcabouço jurisprudencial dostribunais superiores" (fl. 359e).
+A decisão deve ser reconsiderada.
+Recentemente, o Excelso STF definiu, por meio de julgamento em repercussão geral, que "élegítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias" - Tema 985.
+Pacificada a questão pelo Supremo Tribunal Federal, há de se realinhar a jurisprudência deste STJ, para acompanhar, desde logo,o entendimento daquela Corte Excelsa.
+Ante o exposto,reconsideroa decisão agravada e, com fundamento no art. 253, parágrafo único, II,c, do RISTJ,dou parcial provimentoao Recurso Especial da Fazenda Nacional, de modo a determinar a incidência de contribuição previdenciária sobre o terço constitucional de férias.
+I.
