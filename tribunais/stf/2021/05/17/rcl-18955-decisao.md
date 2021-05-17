@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    O Estado do Ceará afirma haver o Tribunal Superior do Trabalho, ao suspender o recurso extraordinário interposto no processo nº 10575-04.2010.5.07.0000, usurpado a competência do Supremo e inobservado o teor do verbete nº 733 da Súmula.
+    Narra indeferido, pelo Presidente do Regional do Trabalho da 7ª Região, pedido de revisão dos cálculos relativos ao precatório nº 418/1996, no tocante à limitação de valores devidos aos trabalhadores no serviço público estadual, considerado período anterior à instituição, por meio da Lei local nº 11.712/1990, do regime jurídico único no âmbito do ente federado. Desprovido agravo, sobreveio recurso ordinário, ao qual o Superior do Trabalho deu provimento para implementar a restrição. Menciona a admissão de recurso extraordinário interposto pelo sindicato interessado, suspenso com base no artigo 543-B do Código de Processo Civil de 1973, a fim de aguardar-se o desfecho do recurso extraordinário nº 590.880, submetido à sistemática da repercussão geral, a versar competência para, após a edição da Lei nº 8.112/1990, julgar os efeitos de decisão proferida pela Justiça do Trabalho.
+    Sustenta impertinente o tema do piloto da repercussão maior, porquanto já apreciada, no processo de conhecimento, preliminar quanto à competência da Justiça especializada, no que limitada a condenação ao período em que os servidores estiveram sob o regime celetista. Discorre sobre o enunciado nº 733 da Súmula do Supremo, com o seguinte teor:
+    Não cabe recurso extraordinário contra decisão proferida no processamento de precatórios.
+    Busca a cassação do acórdão impugnado e a inadmissão do recurso extraordinário.
+    O Tribunal Superior do Trabalho relata o histórico processual, realçando estar o processo suspenso.
+    O Sindicato dos Trabalhadores no Serviço Público Estadual do Ceará não apresentou contestação – certidão de 28 de abril de 2015.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Evoca jurisprudência deste Tribunal no sentido do não cabimento da medida com o fim de revisar decisão formalizada sob o regime da sistemática da repercussão geral. Diz da ausência de eficácia vinculante do verbete nº 733 da Súmula.
+    2. Atentem para a excepcionalidade da reclamação. Pressupõe usurpação da competência do Supremo ou desrespeito a decisões que haja proferido. É instrumental inadequado à articulação de inobservância de enunciado da Súmula sem eficácia vinculante.
+    O reclamante impugnou os cálculos que subsidiaram a expedição do precatório, visando a limitação ao período em que os substituídos do sindicato estiveram submetidos ao regime celetista. Eis a ementa do recurso ordinário provido pelo Tribunal Superior do Trabalho:
+    RECURSO ORDINÁRIO EM AGRAVO REGIMENTAL. PRECATÓRIO. REVISÃO DOS CÁLCULOS. LIMITAÇÃO DA EXECUÇÃO AO PERÍODO ANTERIOR À IMPLEMENTAÇÃO DO REGIME JURÍDICO ÚNICO. COISA JULGADA. Nos termos da OJ 6 do Tribunal Pleno do Tribunal Superior do Trabalho, “em sede de precatório, não configura ofensa à coisa julgada a limitação dos efeitos pecuniários da sentença condenatória ao período anterior ao advento da Lei nº 8.112, de 11.12.1990, em que o exeqüente submetia-se à legislação trabalhista, salvo disposição expressa em contrário na decisão exeqüenda.” À luz desse entendimento jurisprudencial, se no pedido de revisão de cálculos se constata que não consta do título judicial exequendo adoção de tese em sentido desfavorável à limitação postulada, cumpre dar provimento ao recurso para determinar a limitação da execução. Recurso Ordinário a que se dá provimento.
+    (Recurso ordinário em agravo regimental nº 10575-04.2010.5.07.0000, Órgão Especial do Tribunal Superior do Trabalho, relator ministro Márcio Eurico Vitral Amaro, publicado no Diário da Justiça eletrônico de 26 de abril de 2013.)
+    O recurso extraordinário, formalizado pela entidade sindical quando já finalizada a execução e expedido o precatório, veio a ser suspenso na origem, considerado o reconhecimento, à época, pelo Supremo, da repercussão geral da matéria versada no de nº 590.880.
+    Revela-se acertada a suspensão, uma vez que a controvérsia gira em torno do tema versado no piloto da repercussão maior, a sinalizar ausente usurpação de competência.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 17 de maio de 2021.
+Ministro MARCO AURÉLIO
+Relator
