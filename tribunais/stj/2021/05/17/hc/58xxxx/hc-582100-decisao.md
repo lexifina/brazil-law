@@ -1,0 +1,12 @@
+DECISÃO
+Por meio destehabeas corpus, pretende-se a imediata concessão de prisão domiciliar aAugusto Joséde Lima- condenadoao cumprimento de 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, por incurso noart. 33,caput,da Lei n. 11.343/2006 (Autos n. 1500596-15.2019.8.26.0366) -, com base na Recomendação n. 62/2020 do Conselho Nacional de Justiça, ou, subsidiariamente, a expedição de ofício ao Tribunalde Justiçapara que dê o devido processamento à apelação interposta pela defesa.
+Alega-se, para tanto, quedeve ser concedida oportunidade ao sentenciado de ter condições de tratamento adequado diante do quadro gravíssimo da Pandemia do Covid-19, possibilitando a sua prisão domiciliar(fl. 8), e que há indevidaparalisação do Tribunal de Justiça pela morosidade em processamento e julgamento da apelação (fl. 3).
+Liminar indeferida (fls. 54/55).
+Informações prestadas (fls. 61/69), o Ministério Público Federal opinou pelo não conhecimento do writou, caso conhecido, pela denegação da ordem (fls. 72/76).
+É o relatório.
+Em consulta ao portal do Tribunal de Justiça de São Paulona internet, foi possível constatar que, em 27/8/2020, os integrantes a Décima Sexta Câmara de Direito Criminal deram parcial provimento ao apelo do ora paciente para desclassificar o crime de tráfico para sua forma privilegiada e fixar sua pena em 1 ano, 10 meses e 15 dias de reclusão, epagamento de 187 dias-multa, bem como para substituir a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária e aindaalterar o regime fechado para o aberto, mantida, no mais, a r. sentença condenatória, com expedição de alvará de soltura clausulado.
+Tal o contexto, perdeu o objeto o presente writ, julgo-o, portanto, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. RECOMENDAÇÃO N. 62/2020 DO CNJ. PANDEMIA DO NOVO CORONAVÍRUS (COVID-19). PLEITO SUBSIDIÁRIO PARA DETERMINAR O JULGAMENTO DO RECURSO DE APELAÇÃO PELOTRIBUNAL A QUO. SUPERVENIENTE JULGAMENTO. PARCIAL PROVIMENTO AO RECURSO DEFENSIVO. DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO PARA SUA FORMA PRIVILEGIADA. REDUÇÃO DA PENA. SUBSTITUIÇÃO POR DUAS PENAS RESTRITIVAS DE DIREITOS. ALTERAÇÃO DO REGIME PRISIONAL PARA O ABERTO. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
