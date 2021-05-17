@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONSELHO FEDERAL DE ENFERMAGEM. RESOLUÇÃO Nº 424/2012. CONFEDERAÇÃO NACIONAL DE SAÚDE, HOSPITAIS E ESTABELECIMENTOS E SERVIÇOS - CNS. ILEGITMIDADE ATIVA "AD CAUSAM".
+1. A apelante ajuizou a presente ação para afastar a Resolução nº424/2012 do Conselho Federal de Enfermagem  COFEN, que regulamentou as atribuições dos membros da equipe de enfermagem em centros de material e esterilização e em empresas processadoras de produtos para saúde.
+2. A atuação da Confederação apelante não objetiva a defesa do interesse de suas federações, mas de hospitais, estabelecimentos e serviços de saúde filiados aos sindicatos que integram as entidades federativas, sendo inequívoca sua ilegitimidade ativa "ad causam", como reconhece este egrégio Tribunal. Nesse sentido: Ap 0013454-52.2009.4.01.3400/DF, Relator Desembargador Federal José Amílcar Machado, Sétima Turma, e-DJF1 de 13/05/2016; Ap 0041104- 06.2011.4.01.3400/DF, Relator Desembargador Federal Néviton Guedes, Quinta Turma, e-DJF1 DE 10/08/2016.
+3. Manutenção da sentença que indeferiu a petição inicial e julgou extinto o processo, sem resolução do mérito, por ilegitimidade ativa "ad causam".
+4. Apelação não provida.
+Os dois Embargos de Declaração opostos pela ora recorrente foram rejeitados.
+A parte recorrente afirma que os arts. 85, § 11, e 1.022 do do CPC/2015 foramviolados. Aduz:
+Como exposto acima, não obstante a oposição de dois embargos de declaração, que pretendiam, unicamente, suprir omissão relativamente à majoração dos honorários advocatícios em sede recursal, o egrégio TRF da 1º Região negou-se a sanar a omissão apontada.(..)
+Assim, houve violação ao art. 1.022, III, do CPC, que impõe ao órgão julgador o suprimento, quando opostos embargos de declaração, de omissão concernente a ponto ou questão sobre o qual devia se pronunciar de oficio ou a requerimento.
+(..)
+Quanto ao ponto, esse egrégio Superior Tribunal de Justiça firmou entendimento, no julgamento do EREsp n. 1539725, de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Na hipótese vertente, os três requisitos mencionados estão devidamente preenchidos: a sentença apelada foi disponibilizada nas páginas 74 e 75 do eDJF1 de 30/03/2016, considerando - se publicada em 31/03/2016 (fl. 160); a apelação foi integralmente desprovida pelo egrégio tribunal a quo (fl. 216); e houve condenação em honorários advocatícios desde a origem (fl. 158).
+Nesse sentido, há de incidir a norma prevista no art. 85, § 11, do CPC.
+Logo, a decisão recorrida não só contrariou, como também negou vigência a lei federal clarividente, o que enseja a intervenção desse egrégio Superior Tribunal de Justiça, na forma do art. 105, 111, a, da CF.
+É o relatório.
+Decido.
+Merece prosperar a irresignação.
+Embora a parte recorrente tenha oposto dois Embargos de Declaração a fim de obter a manifestação da Corte de origem sobre a aplicação do art. 85, § 11. do CPC/2015 ao caso concreto, o Tribunala quoignorou completamente a matéria, embora relevante para o feito.
+O Superior Tribunal de Justiça entende que amajoração dos honorários com base no art. 85, § 11, do CPC/2015 é devida se estiverem presentes 3 (três) requisitos cumulativos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. PROCEDÊNCIA.
+1. A majoração dos honorários com base no art. 85, § 11, do CPC/2015 é devida se estiverem presentes 3 (três) requisitos cumulativos: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. Dessa forma, procedem os argumentos expostos nos Embargos de Declaração que buscam a majoração dos honorários, nos termos do art.85, § 11, do Código de Processo Civil.
+3. Embargos de Declaração acolhidos.
+(EDcl no AgInt no AREsp 1.708.108/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/04/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/ STJ. SUCESSÃO E MEAÇÃO. ATO ILÍCITO. DILAPIDAÇÃO PATRIMONIAL. PROVEITO ECONÔMICO EM BENEFÍCIO DA FAMÍLIA. COMPROVAÇÃO. REEXAME DE MATÉRIA DE FATO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. CABIMENTO.
+1. No caso dos autos, a partir da análise do acervo fático-probatório dos autos, o TRF da 2ª Região reconheceu que a cônjuge recorrente participou da prática do ato tendente à dilapidação do patrimônio, em especial para preservação dos bens que, uma vez repassados aos demais herdeiros e não renunciados por estes, responderiam pelos débitos objeto de discussão.
+2. Inafastável a incidência da Súmula n. 7/STJ a fim de modificar o entendimento da Corte local a respeito da comprovação do benefício do ato em favor da família e da tentativa de se desviar o patrimônio para não responder pelo débito pelo ato ilícito.
+3. De acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art.
+85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.  ..  (Agint no AREsp 1111767/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.879.557/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 04/03/2021)
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos Aclaratórios. Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1.465.390/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 02/03/2021)
+Diante do exposto, dou provimento ao Recurso Especial, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, a fim de que se manifeste sobre o ponto omisso, nos termos da fundamentação acima expendida.
+Publique-se.
+Intimem-se.
