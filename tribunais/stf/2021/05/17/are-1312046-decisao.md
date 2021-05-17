@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ART. 1.021 DO CPC. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PAGAMENTO DO VALOR INCONTROVERSO VIA RPV. IMPOSSIBILIDADE. MONTANTE GLOBAL DA OBRIGAÇÃO QUE IMPÕE A ADOÇÃO DE RPP. FRACIONAMENTO VEDADO PELO ART. 100, § 8°, DA CF/88. PRECEDENTES DO STF, DO STJ E DESTA CORTE. INEXISTÊNCIA DE AFRONTA À DURAÇÃO RAZOÁVEL DO PROCESSO OU À PROPORCIONALIDADE E À RAZOABILIDADE. PRINCÍPIOS SEM CARÁTER ABSOLUTO. NECESSIDADE DE OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, LXXVIII; 37; e 100, §§ 3° e 8°, da CF.
+    O recurso extraordinário não deve ser provido, tendo em vista que acórdão recorrido está alinhado com o entendimento firmado pelo Plenário do STF, no RE 1.205.530-RG , Rel. Min. Marco Aurélio (Tema 28), em que foi fixada a seguinte tese: “Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor”.
+    Logo, ao decidir que o fracionamento da execução para pagamento de parcela incontroversa não possibilita a alteração do regime de pagamento - que é definido pelo valor total da obrigação -, o Tribunal de origem não dissentiu da orientação desta Corte.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 17 de maio de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
