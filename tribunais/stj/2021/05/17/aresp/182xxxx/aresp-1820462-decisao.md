@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado (fls. 272-290, e-STJ):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SENTENÇA DE IMPROCEDÊNCIA. PREJUDICIAL DE PRESCRIÇÃO. REESTRUTURAÇÃO DA CARREIRA DOS SERVIDORES DO PODER EXECUTIVO DO ESTADO DA BANIA. LEI ESTADUAL No 8.889/03. LIMITE TEMPORAL. INEXISTÊNCIA, NA HIPÓTESE, DO TRANSCURSO DO PRAZO QUINQUENAL. MÉRITO. PRETENSÃO DE INCORPORAÇÃO DAS PERDAS SALARIAIS DECORRENTES DA TRANSFORMAÇÃO DO VALOR DO ESTIPÊNDIO DOS SERVIDORES PÚBLICOS DE CRUZEIRO REAL PARA URV. AFRONTA AO PRINCÍPIO CONSTITUCIONAL DA IRREDUTIBILIDADE DE VENCIMENTOS. CONVERSÃO CONFORME URV DA DATA DO EFETIVO PAGAMENTO. IMPOSSIBILIDADE DE APLICAÇAO GENÉRICA DO PERCENTUAL DE 11,98%. APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. MARCO TEMPORAL FIXADO. PRECEDENTES DO STF E STJ. APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+I - O Supremo Tribunal Federal, através do julgamento do RE no 561.836/RN, submetido à sistemática de Repercussão Geral, firmou o entendimento de que o direito dos servidores públicos de incorporar aos seus vencimentos as perdas salariais advindas de errônea conversão da moeda em Unidade Real de Valor (URV), deve ter como limitação temporal a edição de Lei que venha a promover uma reestruturação remuneratória da respectiva carreira.
+II - Analisando o arcabouço legislativo a edição baiano, verifica-se Estadual que somente com da Lei no 8.889/2003, houve uma efetiva reestruturação remuneratória na carreira dos servidores públicos do Poder Executivo do Estado da Bahia, momento em que deve ser considerado como marco final para incorporação de eventuais perdas salariais advindas de errônea conversão da moeda. Logo, considerando que a referida Legislação entrou em vigor em 1 0 de janeiro de 2004, e que a presente ação foi ajuizada em 04 de Outubro de 2007, não se operou a prescrição da pretensão autoral, haja vista que o ajuizamento da demanda deu-se dentro do quinquídio legal.
+III - O fato do Poder Público ter utilizado, para fins de conversão, o índice de URV correspondente ao último dia do mês de competência, e não o da data do efetivo pagamento, acarretou ao servidor público que recebia vencimentos antes do derradeiro dia do mês, evidente perda significativa do valor real de sua remuneração, já que ensejou diferença salarial a menor em razão da alta taxa inflacionária incidente no período.
+IV - A fim de garantir a irredutibilidade salarial protegida constitucionalmente, é devido aos servidores públicos, inclusive aos integrantes do Poder Executivo Estadual, o pagamento das perdas salariais eventualmente havidas, decorrentes da incorreta conversão da moeda (Cruzeiro Real) em URV, operada pela Lei no 8.880/94. Precedentes do STJ e STF.
+V - O percentual a ser aplicado para fins de reposição da redução perpetrada deverá observar a casuística do caso concreto, não sendo possível fazê-lo na base genérica fixada em 11,98% (onze vírgula noventa e oito por cento), porquanto não se sabe exatamente em que dia do mês foi feita a conversão e, consequentemente, qual o valor da perda salarial.
+VI - O reconhecimento das perdas advindas com a conversão da moeda em URV, encontra-se limitado à data da vigência da Lei Estadual no 8.889/2003 (1 0 de janeiro de 2004), ocasião em que houve areestruturação da carreira os servidores apelantes. Desse modo as diferenças salariais detectadas deverão ser computadas somente até tal período, observando-se a prescrição quinquenal.
+VII - Prejudicial de Prescrição afastada. Provimento Parcial do Apelo dos Autores.
+Nas razões do Recurso Especial (fls. 326-335, e-STJ), alega-se dissídio jurisprudencial sobre a matéria.
+Contrarrazões às fls. 372-384, e-STJ.
+O recurso foi inadmitido na origem, o que ensejou a interposição do Agravo de fls. 392-404, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3/5/2021.
+A irresignação não merece prosperar.
+A Vice-Presidência do Tribunal de Justiça da Bahia negou seguimento ao Recurso Especial por dois motivos: a) o acórdão recorrido está em consonância com a decisão do Superior Tribunal de Justiça no AgRg no REsp 1364975,julgado sob o regime dos recursos repetitivos (Tema 15); e b) deficiência do cotejo analítico.
+A parte impugnou apenas o segundo fundamento da decisão agravada.
+No entendimento da Corte Especial do Superior Tribunal de Justiça e na esteira da Súmula 182/STJ, a parteagravante deve impugnar todos os fundamentos da decisão agravada, pois "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão(EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSPENSÃO DO FEITO EM RAZÃO DA AFETAÇÃO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. INUTILIDADE EM CASO DE RECURSO QUE NÃO ULTRAPASSA O JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+(..)
+3. A Corte Especial reafirmou, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018, o entendimento de ser necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1302240/MT, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/9/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECURSO ESPECIAL. SEGUIMENTO NEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC/2015, ART. 1.030, I, "B"). INTERPOSIÇÃO DO AGRAVO DO ART. 1.042 DO CPC/2015. ERRO INESCUSÁVEL. INSURGÊNCIA NÃO CONHECIDA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+(..)
+2. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+3. Segundo a jurisprudência da Corte Especial do STJ, "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 746.775/PR, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018), o que não ocorreu.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1662237/SC, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 17/12/2020)
+Ante o exposto, não conheço do Agravo.
+Publique-se.
+Intimem-se.
