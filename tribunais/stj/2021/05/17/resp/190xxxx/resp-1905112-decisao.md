@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Izabel Gomes de Souza Moura, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ, fl. 98):
+APELAÇÃO CÍVEL. Acidentária. Acidente típico - Lesão em tornozelo esquerdo - Concessão de benefício - Inadmissibilidade - Ausência de consolidação das lesões - Incapacidade parcial e temporária que não gera direito a nenhum benefício - Ação julgada improcedente - Sentença mantida - Recurso não provido, cancelada, de ofício, a condenação quanto aos ônus da sucumbência, em razão da isenção legal do parágrafo único, do art. 129, da Lei Acidentária.
+Os embargos de declaração (e-STJ, fls. 140/142) foram rejeitados, nos termos da decisão de e-STJ, fls. 146/148.
+A recorrente alega, além de divergência jurisprudencial, violação do art. 59 da Lei n. 8.213/1991.
+Defende o direito ao restabelecimento do auxílio-doença, uma vez comprovada a incapacidade que pode ser total, parcial ou temporária para as atividades habituais.
+Inadmitido o apelo nobre (e-STJ, fls. 157), foi determinada a convolação em recurso especial (e-STJ, fl. 362).
+É o relatório.
+O Tribunal de origemtratou do direito ao restabelecimento do benefício previdenciário sob a seguinte fundamentação (e-STJ, fls. 99/100):
+No mais, o não provimento do recurso é medida que se impõe.
+Realizada a perícia médica, o perito de confiança do juízo, após proceder ao exame físico na obreira e verificar os exames complementares trazidos ao feito, assentou em seu laudo às fls. 51/64: ".. O PERICIADO se encontra incapacitado no momento atual para suas atividades profissionais habituais, em decorrência da suas limitações físico-funcionais, mais não apresenta em principio incapacidade permanente e/ou definitiva.
+X- CONCLUSÃO:
+Conforme solicitação concluímos que:
+O Periciado hoje apresenta incapacidade físico funcional para os movimentos ativos do TORNOZELO ESQUERDO de forma PARCIAL e TEMPORÁRIA, suscetível a reabilitação". (grifos do original).
+Desse modo, o que se nota do teor do estudo técnico é que as moléstias, ao menos por enquanto, não se consolidaram, tratando-se de quadro provisório e com chances de reversibilidade, portanto.
+Ademais, de acordo com a prova técnica, a incapacidade que acomete a autora é do tipo parcial e temporária, que não dá ensejo a nenhum benefício, diante da ausência de previsão legal.
+Assim, respeitado o convencimento do nobre juiz sentenciante, ausente a incapacidade total e temporária, o não provimento do recurso é de rigor, eis que incapacidade parcial e temporária não dá direito a nenhum benefício.
+No caso, verifica-se que o acórdão recorrido divergiu do entendimento jurisprudencial desta Corte Superior ao não reconhecer o direito ao auxílio-doença quando a incapacidade é parcial e temporária para as atividades habituais e, ainda, suscetível de reabilitação.
+A propósito:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-DOENÇA. REQUISITOS DELIMITADOS NO ART. 59 DA LEI 8.213/1991. EXIGÊNCIA DA COMPROVAÇÃO DA INCAPACIDADE TEMPORÁRIA PARA O EXERCÍCIO DA ATIVIDADE HABITUAL DO SEGURADO. NÃO ENCONTRA PREVISÃO LEGAL A EXIGÊNCIA DE QUE O TRABALHADOR ESTEJA COMPLETAMENTE INCAPAZ PARA O EXERCÍCIO DE QUALQUER ATIVIDADE. AGRAVO INTERNO DO INSS A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 59 da Lei 8.213/1991, para que seja concedido o auxílio-doença, necessário que o Segurado, após cumprida a carência, seja considerado incapaz temporariamente para o exercício de sua atividade laboral habitual.
+2. A análise dos requisitos para concessão do benefício deve se restringir, assim, a verificar se a doença ou lesão compromete (ou não) a aptidão do Trabalhador para desenvolver suas atividades laborais habituais.
+3. Não encontra previsão legal a exigência de comprovação de que o Segurado esteja completamente incapaz para o exercício de qualquer trabalho para concessão do benefício de auxílio-doença, tal exigência só se faz necessária à concessão da prestação de aposentadoria por invalidez.
+4. Nesse cenário, reconhecendo o laudo técnico que a Segurada apresenta capacidade apenas para o exercício de atividades leves, não é possível afirmar que esteja ela capaz para o exercício de sua atividade habitual, como era seu trabalho de cozinheira.
+5. Verifica-se, assim, que o acórdão recorrido não deu a adequada qualificação jurídica aos fatos, impondo-se a sua reforma. Não há que se falar, nesta hipótese, em revisão do conjunto probatório, o que esbarraria no óbice contido na Súmula 7 desta Corte, mas sim na correta submissão dos fatos à norma, mediante a revaloração da sua prova.
+6. Em situações assim, em que o Segurado apresenta incapacidade para o exercício de sua atividade habitual, mas remanesce capacidade laboral para o desempenho de outras atividades, o Trabalhador faz jus à concessão do benefício de auxílio-doença até ser reabilitado para o exercício de outra atividade compatível com a limitação laboral diagnosticada, nos termos do art. 62 da Lei 8.213/1991.
+Precedentes: AgInt no REsp. 1.654.548/MS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.6.2017; AgRg no AREsp. 220.768/PB, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.11.2012.
+7. Agravo Interno do INSS a que se nega provimento.
+(AgInt no AREsp 866.596/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/3/2019, DJe 26/3/2019).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. OFENSA AO ART. 62 DA LEI 8.213/1991. NECESSIDADE DE PERÍCIA. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO. DOCUMENTO IDÔNEO. INTEMPESTIVIDADE AFASTADA. OFENSA AO ART. 535 DO CPC/1973 NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.SÚMULA 284/STF.
+1. Trata-se na origem de Mandado de Segurança contra ato do Chefe de Agência do INSS que cessou o benefício de auxílio-doença do ora recorrido com base no sistema de alta programada.
+2. O Agravo em Recurso Especial interposto pelo INSS não foi conhecido ante a sua intempestividade.
+3. O Superior Tribunal de Justiça passou a admitir a comprovação posterior da tempestividade do Recurso Especial, em virtude de feriado local ou de suspensão de expediente forense no Tribunal de origem, quando da interposição do Agravo Interno (AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, DJe 15/10/2012).
+4. Não se conhece de Recurso Especial em relação à ofensa ao art.535 do CPC/1973 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+5. O sistema de alta programada estabelecido pelo INSS apresenta como justificativa principal a desburocratização do procedimento de concessão de benefícios por incapacidade. Todavia, não é possível que um sistema previdenciário, cujo pressuposto é a proteção social, se abstenha de acompanhar a recuperação da capacidade laborativa dos segurados incapazes, atribuindo-lhes o ônus de um auto exame clínico, a pretexto da diminuição das filas de atendimento na autarquia.
+6. Cabe ao INSS proporcionar um acompanhamento do segurado incapaz até a sua total capacidade, reabilitação profissional, auxílio-acidente ou aposentadoria por invalidez, não podendo a autarquia focar apenas no aspecto da contraprestação pecuniária.
+7. Na forma do art. 62 da Lei 8.213/1991, "o segurado em gozo de auxílio-doença, insusceptível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade", e "não cessará o benefício até que seja dado como habilitado para o desempenho de nova atividade que lhe garanta a subsistência ou, quando considerado não-recuperável, for aposentado por invalidez". Transferir essa avaliação ao próprio segurado fere gravemente o princípio da dignidade da pessoa humana.
+8. Além disso, a jurisprudência que vem se firmando no âmbito do STJ é no sentido de que não se pode proceder ao cancelamento automático do benefício previdenciário, ainda que diante de desídia do segurado em proceder à nova perícia perante o INSS, sem que haja prévio procedimento administrativo, sob pena de ofensa aos princípios da ampla defesa e do contraditório.
+9. Agravo Interno parcialmente conhecido para afastar intempestividade e, no mérito, não provido.
+(AgInt no AREsp 1.049.440/MT, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/6/2017, DJe 30/6/2017).
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, douprovimento ao recurso especial, nos termos da fundamentação, para reconhecer o direito ao restabelecimento do auxílio-doença.
+Publique-se. Intimem-se.
