@@ -1,0 +1,9 @@
+DECISÃO
+Às fls. 1.694-1.707 (e-STJ), em petição conjunta, o agravante BANCO SANTANDER (BRASIL) S.A. e a parte agravada OLIVEIRA E LOPES ADVOGADOS ASSOCIADOS - ME, noticiam a celebração de acordo, expõem os termos da avença e requerem a homologação do referido pacto com a consequente baixa dos autos à origem.
+É o breve relatório. Decide-se.
+1. A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer, o que foi reforçado pelas partes na cláusula 4.3 do pacto, em que a parte insurgente expressamente desiste dos recursos anteriores à avença (fl. 1.701 e-STJ).
+Nesse contexto, observa-seque os advogados MILENA DONATO OLIVA (OAB/SP 305.520), pelo agravante, e RUBENS MÁRIO DA SILVA (OAB/GO 9.849), pelo agravado, subscritores da minuta do acordo, possuem poderes para transigir e para desistir, conforme, respectivamente, o substabelecimento de fls. 1.480-1.481 (e-STJ) e ato constitutivo da sociedade de advogados de fls. 11-20 (e-STJ). Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do NCPC.
+Embora a homologação de acordo esteja ente as atribuições do relator, nos termos do art. 34, IX, do RISTJ, é recomendável o retorno dos autos à origem, pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+Por fim, ante o julgamento do agravo em recurso especial (fls. 1.651-1.658 e-STJ), recebe-se a presente como desistência do prazo recursal.
+2. Do exposto, com fundamento no art. 932, inciso III, do NCPC e art. 34, IX, do RISTJ, julga-seextinto o procedimento recursal, por desistência do prazo recursal, e determina-seo retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se.
