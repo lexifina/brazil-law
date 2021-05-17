@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge em face de acórdão proferido pelo TJ/MG, assim ementado (e-STJ, fls. 301-311):
+"RECURSO EM SENTIDO ESTRITO - HOMICÍDIO - RECURSODA ACUSAÇÃO PLEITEANDO O RECONHECIMENTO DEQUALIFICADORA - IRRESIGNAÇÃO PREJUDICADARECONHECIMENTO, DE OFÍCIO, DA EXCLUDENTE DE ILICITUDE DALEGÍTIMA DEFESA - DESPRONÚNCIA DO RECORRIDO - ABSOLVIÇÃOSUMÁRIA".
+Os embargos de declaração então opostos foram rejeitados (e-STJ, fls. 332-334).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 121, II, do CP e 413, capute § 1º, do CPP. Aduz para tanto, em síntese, que: (I) no recurso em sentido estrito exclusivo da acusação, o Tribunal local não poderia ter absolvido sumariamente o acusado, de ofício, porque a questão já se encontrava preclusa; e (II) à luz das provas dos autos, inexistiria certeza quanto à configuração da legítima defesa, o que imporia a pronúncia do acusado.
+Com contrarrazões (e-STJ, fls. 389-399), o apelo nobre foi inadmitido na origem (e-STJ, fls. 408-427), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 471-483).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Quanto ao mérito, não procede a alegada impossibilidade de absolvição sumária, diante da preclusão da matéria. Isso porque, na esfera criminal, o órgão julgador tem a possibilidade de, por sua iniciativa, concederhabeas corpusde ofício, mesmo sem qualquer pedido defensivo, para impedir uma situação de flagrante ilegalidade da qual possa resultar constrangimento à liberdade de locomoção do réu. A tese recursal busca, na prática, impedir - mesmo em tese - a concessão dehabeas corpuspelo Judiciário, tendo em vista a ausência de provocação por parte da defesa, razão pela qual não é possível seu acolhimento.
+Sobre a existência da excludente de ilicitude em si, a Corte de origem constatou a comprovação absoluta da legítima defesa (e-STJ, fls. 305-309). Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. HOMICÍDIO QUALIFICADO. LEGITIMA DEFESA RECONHECIDA PELO TRIBUNAL A QUO. ABSOLVIÇÃO SUMÁRIA. RESTABELECIMENTO DE SENTENÇA DE PRONÚNCIA. SÚMULA 7/STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 932, caput, do CPC e 255, § 4º, III, do RISTJ), o Relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica.
+2. E não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+3. A decisão de pronúncia é decisão interlocutória mista, que julga admissível a acusação, remetendo o caso à apreciação do Tribunal do Júri. É mero juízo de admissibilidade, e não de mérito. Não devem seguir a Júri os casos rasos em provas, fadados ao insucesso, merecedores de um fim, desde logo.
+4. Na hipótese, o Tribunal a quo, ao apreciar o recurso em sentido estrito da defesa, entendeu pela possibilidade concreta de os recorridos terem atuado em legítima defesa, razão pela qual foram sumariamente absolvidos.
+5. Aferir acerca da melhor versão debatida nos autos demandaria o exame aprofundado do material fático-probatório, vedado cm recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte Superior de Justiça.
+6. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 1650946/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/06/2020, DJe 18/06/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheçodo agravo paraconhecerem parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
