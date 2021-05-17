@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEFFERSON FREITAS MOURAO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Colhe-se dos autos que o paciente foi condenado à pena privativa de liberdade de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime semiaberto, pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal. As partes interpuseram apelação, que foi desprovida.
+Neste writ, o impetrante sustenta que: a)"o acórdão já transitou em julgado" e "em decorrência disso, aguarda-se a prisão do denunciado" (e-STJ, fl. 5); b) "o paciente não oferece nenhum risco para a sociedade, porquanto o acusado possui os requisitos legais para responder ao processo em liberdade" (e-STJ, fl. 7); c) "considerando-se que o magistrado de primeira instância fixou o regime semiaberto para início do cumprimento da pena, incabível a manutenção da prisão preventiva do paciente" (e-STJ, fl. 15); d) "deve ser conferido ao paciente o direito de recorrer em liberdade, com a imediata expedição de alvará de soltura"(e-STJ, fl. 19).
+Pleiteia a expedição de alvará de soltura em favor do paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento da impetração.
+É o relatório.
+Esta Corte -HC 535.063, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+In casu, verifica-se que as questões levantadas pelo impetrante nesta impetração não foram objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ademais, conforme relatado pelo impetrante, o paciente teria sido condenado e o recurso de apelação já foi apreciado, com trânsito em julgado para as partes, não havendo falar, portanto, em prisão preventiva, nos termos do art. 312 do CPP.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
