@@ -1,0 +1,38 @@
+DECISÃO
+Relatou o MinistroPresidenteHumberto Martins ao indeferir a liminar (fl. 151):
+Cuida-se de recurso em habeas corpus com pedido de liminar interposto por JEOVÁ RODRIGUES DE LIMA contra acórdão do TRIBUNAL DE JUSTIÇA DE ALAGOAS (HC n. 0804369-75.2020.8.02.0000).
+O recorrente foi condenado ao total de 20 anos de reclusão em regime inicial fechado, pelo cometimento do crime previsto no art. 121, § 2º, inciso III, do Código Penal.
+Sustenta que, por possuir mais de 60 anos de idade, faz parte do grupo de risco referente ao novo coronavírus, com base na Recomendação CNJ n. 62/2020, o que justificaria a progressão antecipada para o regime semiaberto ou a imposição de prisão domiciliar humanitária.
+Requer, liminarmente, a concessão da progressão antecipada ao regime aberto ou a prisão domiciliar. No mérito, pugna pelo provimento do recurso para que seja concedida definitivamente a ordem.
+ ..
+Informações prestadas (fls. 162/167), o Ministério Público Federal ofereceu parecer pelo desprovimento do recurso(fls. 172/175).
+Este recurso é conexo ao HC n. 628.305/AL, no qual a defesa também requer a prisão domiciliar.
+É o relatório.
+Não obstante as alegações da defesa, a insurgência não prospera.
+É cediço que aRecomendação n. 62/2020 do Conselho Nacional de Justiçarecomenda aos Tribunais e magistrados a adoção de medidaspreventivas à propagação do coronavírus no âmbito dos sistemas dejustiça penal e socioeducativo. O art. 5º, III, da aludidarecomendação aconselha a concessão da prisão domiciliar aos presosem cumprimento de pena em regime aberto e semiaberto(AgRg no HC n. 596.803/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 28/9/2020).
+No presente caso, oJuízo singular indeferiu o pedido de prisão domiciliar, afirmando que (fl. 78):
+ ..
+No caso examinado nos presentes autos, o reeducando possui mais de 60 (sessenta) anos de idade. Porém, não restou comprovado qualquer comprometimento do estado de saúde do reeducando, colocando-o em iminente situação de risco.
+Além disso, as medidas de isolamento adotadas no sistema prisional, com a suspensão de visitas e acesso do público externo, permitem rígido controle sobre a disseminação do vírus COVID-19, não havendo fundamento para a antecipação da soltura do apenado, sem estarem atendidos os requisitos temporal e sem a aferição da sua conduta carcerária para a sua reinserção na sociedade, sobretudo pela natureza do delito por ele praticado, posto que cometera o crime, de natureza hedionda, mediante violência e, entre a ponderação de interesses, mostra-se desarrazoado a sua postura em liberdade no presente momento.
+ ..
+O Tribunal a quo manteve o indeferimento, asseverando que, em que pese a autoridade impetrada ter confirmado a alegação de que o apenado, ora recorrente, é portador de hipertensão arterial sistêmica, além de ser idoso, os argumentos contidos na decisão combatida devem prevalecer, pois, como bem registrado, a patologia é controlável mediante o uso de medicação controlada, sobretudo quando levado em conta que o recorrente foi condenado definitivamente a elevada pena privativa de liberdade (20 anos) pela prática de crime especialmente violento (homicídio qualificado), elemento que distingue a situação processual do apenado das hipóteses previstas na resolução do Conselho Nacional de Justiça(fl. 120).
+Com efeito, verifica-se dos autosque as instâncias ordinárias apresentaram fundamentação idônea para indeferir o pedido de domiciliar, tendo sido afirmado que o recorrente cumpre pena em regime fechado, por crime hediondo cometido com violência (homicídio qualificado),e que oestabelecimentoprisional vem adotando firmes medidas no enfrentamento ao novo coronavírus (COVID-19), com o intuito de evitar a contaminação dos presos, especialmente aqueles inseridos no grupo de risco de infecção(fl. 120).
+Vale ressaltar que a prisão domiciliar só é admitida em favor de presoinserido no regime aberto, a teor do que dispõe o art. 117 da Lei deExecução Penal. Contudo, comprovado que o recluso - não obstante cumprapena nos regimes fechado ou semiaberto - esteja acometido por doençagrave, com debilidade acentuada de sua saúde, e que o tratamento médiconecessário não possa ser prestado no ambiente prisional, admite-se, deforma excepcional, sua colocação em prisão domiciliar (AgRg no HC n.557.255/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/4/2020).
+Assim, embora o recorrente seja idoso, portador de hipertensão arterial sistêmica, não ficou comprovado que esteja com a saúde debilitada, sendo que, pelo que consta dos autos, dispõe o sistema prisional de equipe médica e aparato aptos a lhe propiciar atendimento satisfatório às suas necessidades de saúde (fl. 121).
+Sobre o tema, confiram-se ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.RESOLUÇÃON.62/2020DO CNJ. REGIME SEMIABERTO. APENADO DO GRUPODERISCO.ASSISTÊNCIA À SAÚDENO ESTABELECIMENTO PRISIONAL. INEXISTÊNCIADEDISSEMINAÇÃO DO VÍRUS NOLOCAL. DESNECESSIDADE DE MEDIDASEXCEPCIONAIS.PRISÃO DOMICILIARINDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ante a declaração pública de pandemia, o Conselho NacionaldeJustiçaresolveu recomendar aos magistrados com competência sobreaexecução que,em observância ao contexto local de disseminaçãodaCovid-19, considerem aadoção de algumas medidas com vistas à reduçãodos riscos epidemiológicos.
+2. A Recomendação n. 62/2020 não é norma de caráter cogente enãocriouespécie de ordem de liberação geral da população carcerária.Éumaorientação aos juízes e aos Tribunais e deve serinterpretadacomrazoabilidade, ponderados o cenário de surto da doença emcadaambientecarcerário, conforme indica o próprio Conselho NacionaldeJustiça.
+3. O paciente não é idoso, está no regime semiaberto e cumprepenaporhomicídio qualificado. Ele integra o grupo de risco maissuscetível deserinfectado, mas não houve alastramento do novoCoronavírus em suaunidadepenal, a qual, segundo o Juiz da VEC, é uma dasmais equipadaseestruturadas de São Paulo. O Estado presta assistência aosentenciado,quenão apresenta quadro clínico debilitado.
+4. À luz do art. 5º da Recomendação n. 62/2020 do CNJ, emobservânciaaocontexto epidemiológico do local de reclusão do postulante,que nãoépreocupante, não está configurada situação que justifiqueoabrandamentoexcepcional da execução.
+5. Agravo regimental não provido.(AgRg no HC n. 580.767/SP,MinistroRogerio Schietti Cruz, Sexta Turma, DJe 4/8/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO.OCULTAÇÃODECADÁVER. EXECUÇÃO PENAL. RECLUSÃO DE 15 ANOS.COVID-19.RECOMENDAÇÃON.62/2020 DO CNJ. PRISÃO DOMICILIAR. INVIÁVEL.AGRAVO IMPROVIDO.
+1. O Juiz da execução fundamenta validamente o indeferimentodaprisãodomiciliar quando aponta o não preenchimento da Recomendação62doCNJ,pois o paciente cumpre pena em regime fechado - 15 anos de reclusão,alémda falta de prova de que ele não recebe tratamento médicoadequadonaunidade prisional, de que receberá cuidados médicos maisadequados foradocárcere, e de que há risco concreto, no presídio onde seencontra,maiordo que o suportado pelas pessoas em geral .
+2. A concessão de custódia domiciliar, in casu, afronta odispostonasupracitada Recomendação, uma vez que é inerente ao tipopenaldehomicídio qualificado a violência ou grave ameaça à pessoa.
+3. Agravo regimental improvido.(AgRg no HC n. 582.067/SP, MinistroNefi Cordeiro, Sexta Turma, DJe2/9/2020)
+Diante desse contexto, não há ilegalidade a ser sanada por esta Corte.
+Ante o exposto, nego provimentoao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO. HOMICÍDIO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. RECORRENTENÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
