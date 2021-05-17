@@ -1,0 +1,19 @@
+DECISÃO
+Vistos.
+Trata-se de agravo interno manejado pelaUNIÃO contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial. Na oportunidade, deu-se aplicação aos óbices descritos nasSúmulas 284/STF e 211/STJ, afirmando-se, respectivamente,a não demonstração da infringência ao dispositivo de lei federal indicado e a ausência de prequestionamento.
+A agravante afirma ter apontado, de forma clara, a violação do art. 2º da Lei n. 13.463/2017, que determinao cancelamento do precatório ou RPV se ultrapassado o prazo de 2 anos de sua disponibilidade.
+Com respeito ao prequestionamento, diz que "defendeu a limitação temporal do direito a levantamento do crédito em contraposição à imprescritibilidade defendida pelo Tribunal de origem, bem como defendendo termo inicial (data do depósito) distinto daquele, subsidiariamente, aceito pelo Tribunal a quo (data do cancelamento)" (e-STJ, fl. 99).
+Acrescenta que, "no momento da liberação da verba para a parte credora promover o levantamento do precatório mediante depósito em conta vinculada ao processo, inicia-se o direito do exequente ao levantamento do seu crédito, e tratando-se de direito oponível contra o Estado e, como tal e qualquer outro, deve ser exercido no prazo legal quinquenal previsto na legislação retrocitada" (e-STJ, fl. 102).
+Sem impugnação da parte contrária.
+É o relatório.
+A União, no recurso especial fundado na alínea a do permissivo constitucional, apontou ofensa ao art. 2º da Lei n. 13.462/2017. Alegou que, "ocorrendo o decurso do prazo de dois anos por inércia do interessado ou outra razão que impossibilitou liberação dos recursos do precatório, estes devem retornar ao Ente Público" (e-STJ, fl. 51), resultando no cancelamento do precatório ou RPV.
+Referiu, também, contrariedade aos arts. 3º do Decreto-Lei n. 4.597/1942 e 1º do Decreto n. 20.910/1932, alegando que: a) "No momento da liberação da verba para a parte credora promover o levantamento do precatório mediante depósito em conta vinculada ao processo inicia o direito do exequente ao levantamento do seu crédito" (e-STJ, fl. 53); e b)"considerando a inércia dos interessados em promover o levantamento no tempo hábil e que não restou comprovada pelos agravados a ocorrência de qualquer causa de suspensão/interrupção desse direito, temos que pereceu o direito dos credores para promover os atos necessários ao recebimento de seus créditos e - de consequência - não fazem mais jus a expedição de nova RPV para quitação dos valores prescritos" (e-STJ, fl. 53).
+Ao contrário do que afirma a decisão ora questionada, não é deficiente a assertiva de afronta ao art. 2º da Lei n. 13.462/2017, afinal, das razões recursais é possível extrair a tese jurídica correspondente ao dispositivo legal indicado.
+Ademais, relativamente à prescrição, o Colegiado regional estabeleceu que (e-STJ, fls. 39-40):
+Como se conclui da leitura do dispositivo legal acima mencionado, a lei autoriza a devolução dos valores depositados há mais de 2 anos, se não resgatados pelos respectivos credores para a conta única do Tesouro Nacional.
+Todavia, não impede a devolução dos mesmos, por meio de nova expedição de precatório ouRPV, caso venham a ser reclamados pelo credor.
+Ademais, a jurisprudência da Primeira e Terceira Turmas é no sentido de que, caso se entendesse incidir o prazo prescricional para pleitear nova expedição, deve-se ter, como marco inicial, a data do cancelamento, e não, do depósito.
+Assim, evidencia-se ter havido o debate sobre o tema.
+Por conseguinte, em juízo de retratação, torno sem efeito a decisão de e-STJ, fls. 90-93.
+Ante o exposto, preenchidos os requisitos legais, com base no art. 253, parágrafo único, II, d, do RISTJ, determino a reautuação do feito como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
