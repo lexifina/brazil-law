@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa é a seguinte (fl. 686, e-STJ):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. LEI 8.429/92. ALEGAÇÃO DE CONFIGURAÇÃO DA REVELIA. INOCORRÊNCIA SUPOSTAS IRREGULARIDADES NO PROCESSO LICITATÓRIO MUNICIPAL. RELATÓRIO DA CGU. INDEPENDÊNCIA DAS INSTÂNCIAS. MERAS IRREGULARIDADES. AUSÊNCIA DE ELEMENTO SUBJETIVO. RECURSO NÃO PROVIDO. REMESSA OFICIAL NÃO CONHECIDA.
+1. "Os efeitos da revelia não são aplicáveis na ação civil de improbidade administrativa, tendo em vista a gravidade das sanções previstas na Lei 8.429/92, tratando-se, portanto, de direitos indisponíveis" (TRF1. 00322167120094013900, Terceira Turma, Des. Federal Mônica Sifuentes, e-DJF1 27/10/2017).
+2. In casu, a União atribuiu aos requeridos, ora apelados, na qualidade de ex-gestor municipal, ex - integrantes da Comissão Permanente de licitações do Município de Vale de São Domingos/MT e a empresa vencedora da licitação  Nacional Motors Distribuidora de Veículos, o cometimento de supostas irregularidades cometidas no procedimento licitatório do Convênio nº. 1858/2005, celebrado entre o Município de Vale de São Domingos/MT e a União, cuja finalidade era a aquisição de unidade móvel de saúde.
+3. As provas colacionadas ao feito se resumem no Relatório de Auditoria feito pela Controladoria Geral da União, o qual restou afastado pelo Juízo de origem, por considerar que o documento não demonstrou de forma segura a fonte dos valores apurados para compra da unidade de saúde móvel, não sendo comprovada a hipótese de superfaturamento.
+4. Descabe falar em prática de ato de improbidade administrativa, pois as condutas imputadas aos requeridos - ex-prefeito, ex-membros da comissão de licitação e empresa vencedora do certame - devem ser encaradas como meras irregularidades, não se justificando a condenação dos requeridos, ora apelados, nos termos do art. 10 e 11 da Lei 8.429/92, por carecer de conjunto probatório suficiente.
+5. A mera ilegalidade do ato ou inabilidade do agente público que o pratica nem sempre pode ser enquadrada como improbidade administrativa. O ato ímprobo, além de ilegal, deve ser pautado pela desonestidade, deslealdade funcional e má-fé.
+6. Tanto pela ausência de provas suficientes ã comprovação do ato de improbidade imputado aos requeridos, como pela inexistência de ilegalidade, desonestidade, deslealdade funcional e má-fé, deve ser mantida a sentença que julgou improcedente o pedido, não merecendo amparo os argumentos apresentados pela recorrente.
+7. "A Lei 8.429/1992 não contém norma expressa a respeito do reexame necessário em sentença que rejeita a ação de improbidade administrativa, recurso que não pode ser admitido por analogia. Precedentes. 2. Remessa oficial não conhecida" (TRF1. Numeração Única: REO 0000537- 22.2015.4.01.4004/PI, Quarta Turma, Rel. Des. Federal Olindo Menezes, e-DJF1 de 26/01/2017).
+8. Sentença mantida.
+9. Remessa oficial não conhecida.
+10. Apelação da União não provida.
+O recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 10, XI, e 11 da Lei 8.429/1992. Sustenta que, ao contrário do que ficou decidido pelo Tribunal de origem, houve comprovação quanto à ocorrência do ato de improbidade e ao elemento subjetivo na conduta dos agentes. Aduz, em suma (fl. 706, e-STJ):
+(..) Conforme amplamente demonstrado durante a instrução, todos os recorridos detinham conhecimento das irregularidades do procedimento licitatório, tendo em vista que a eles competia a seleção das propostas e dos licitantes.
+Sabe-se que a Comissão de Licitação tem o dever de confrontar as propostas que estão em desconformidade com os preços de mercado conforme o artigo 43, inciso IV da Lei 8.666/93, portanto é notória a participação da comissão no esquema, de forma dolosa, visto que anuíram de forma livre e espontânea com os atos ímprobos, não devendo prosperar o argumento de que a comissão conduziu o procedimento licitatório em conformidade com os princípios da licitação e da administração pública.
+Contrarrazões apresentadas às fls. 713-722, e-STJ.
+Decisão de admissibilidade do recurso às fls. 732-734, e-STJ.
+O Ministério Público Federal opinou pelo não conhecimento do recursonos seguintes termos:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FRAUDE A LICITAÇÃO. ATO ÍMPROBO NÃO COMPROVADO. SÚMULA 07/STJ. 1 - As instâncias ordinárias, à luz dos elementos constantes dos autos, afastaram elemento subjetivo na conduta dos agentes e o próprio ato ímprobo por ausência de provas suficientes. Infirmar tais conclusões demandaria o reexame de fatos e provas, providência vedada na via especial, por força da Súmula 7 dessa eg. Corte. 2 - Parecer pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.4.2021.
+Trata-se, na origem, de Ação Civil Pública ajuizada pela União em desfavor de Geraldo Martins da Silva, Ana Paula Soares de Barros, Jesuína Maria de Aquino Sulzbach, Katya Deacy Lemes Werk e Nacional Motors Distribuidora de Veículos Ltda., em virtude da suposta prática de ato de improbidade consistente no desvio de verbas federais destinadas à compra de ambulância, desvendados pela "Operação Sanguessuga".
+Não se pode conhecer da irresignação.
+Consoante a jurisprudência do STJ, "não é possível confundir ilegalidade com improbidade. Esta última é a ilegalidade qualificada pelo elemento subjetivo da conduta do agente, configurado pelo dolo para os tipos dispostos nos arts. 9º e 11 e, ao menos, pela culpa nas hipóteses do art. 10 da mesma lei. Isso porque a finalidade da Lei de Improbidade Administrativa é punir o desonesto, o corrupto, ou seja, aquele que descumpriu com os deveres de lealdade e boa-fé" (AgInt no REsp 1.323.239/AM, Rel. Ministro Og Fernandes, Segunda Turma, DJe 5/5/2020).
+Na mesma linha:
+AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO. CARACTERIZAÇÃO. SÚMULA 7/STJ. AUSÊNCIA DE CARACTERIZAÇÃO DAS IRREGULARIDADES COMO ATOS DE IMPROBIDADE.
+1. Caso em que, na origem, o Ministério Público Federal ajuizou Ação Civil Pública contra contra os recorridos por ato de improbidade administrativa previsto no art. 11, caput, da Lei 8.429/1992.
+2. O entendimento do STJ é de que, para que seja reconhecida a tipificação da conduta do réu como incurso nas previsões da Lei de Improbidade Administrativa, é necessária a demonstração do elemento subjetivo, consubstanciado pelo dolo para os tipos previstos nos artigos 9º e 11 e, ao menos, pela culpa, nas hipóteses do artigo 10.
+(..)
+6. Ausente hipótese de evidente afastamento descuidado do elemento subjetivo pelo Tribunal a quo, modificar a conclusão a que chegou o acórdão recorrido demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+7. Agravo Interno não provido.
+(AgInt no REsp 1560197/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/02/2017, DJe 03/03/2017)
+Na hipótese dos autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu pela "ausência de provas suficientes à comprovação do ato de improbidade imputado aos requeridos, como pela inexistência de ilegalidade, desonestidade, deslealdade funcional e má-fé" (fl. 681, e-STJ), motivo pelo qual manteve a sentença de 1º grau que julgou improcedente o pedido.
+Merece transcrição o seguinte excerto do acórdão recorrido:
+Todavia, não são todos os atos administrativos ou omissões que colidem com a imparcialidade, legalidade e lealdade às instituições que dão azo ao enquadramento na referida Lei. A má-fé, caracterizada pelo dolo, comprometedora de princípios éticos ou critérios morais, com abalo às instituições, é que deve ser penalizada nos tipos previstos nos artigos. 9º e 11 e, ao menos, pela culpa grave, nas hipóteses do art. 10, de sorte que a improbidade administrativa não se caracteriza por meio de responsabilização objetiva dos agentes públicos.
+A mera ilegalidade do ato ou inabilidade do agente público que o pratica nem sempre pode ser enquadrada como improbidade administrativa. O ato ímprobo, além de ilegal, deve ser pautado pela desonestidade, deslealdade funcional e má-fé (fl. 680, e-STJ).
+É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido quanto à inexistência do elemento subjetivo na conduta dos agentes e à ausência de provas suficientes para a caracterização do ato de improbidade. Aplica-se, portanto, o óbice da Súmula 7/STJ. Ilustrativamente:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARTS. 9 e 10 DA LEI 8.429/92. ACÓRDÃO QUE CONSIGNA A OCORRÊNCIA DE DANO AO ERÁRIO E ELEMENTO SUBJETIVO DOLOSO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+3. O Tribunal de origem, com base no conjunto fático e probatório constante dos autos, atestou a prática de ato de improbidade administrativa previsto no arts. 9 e 10 da Lei 8.429/92, diante da ocorrência de dano ao erário público e a presença do elemento subjetivo (dolo). Assim, a reversão do entendimento exarado no acórdão exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+(..)
+5. Agravo interno não provido.
+(AgInt no AREsp 1478195/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/10/2020, DJe 16/10/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATO DE IMPROBIDADE ADMINISTRATIVA. EXISTÊNCIA DE DOLO. SÚMULA 7/STJ.
+1. A Corte de origem entendeu não caracterizada a conduta ímproba, pois ausente o dolo, a má-fé, o conluio. Para se afirmar o contrário, como pretende o insurgente, seria necessário o reexame do contexto fático-probatório dos autos, providência inadmissível em recurso especial. Incidência da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 615.836/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/12/2018, DJe 23/04/2019)
+In casu, a solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
