@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL SA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos de agravo de instrumento no bojo de cumprimento individual de sentença prolatada em ação civil pública.
+É o relatório.
+Decide-se.
+1. Como é sabido, o Supremo Tribunal Federal, no Recurso Extraordinário nº 1.101.937/SP, reconheceu a repercussão geral do debate relativo à "constitucionalidade do art. 16 da Lei 7.347/1985, segundo o qual a sentença na ação civil pública fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator" (DJe de 27/2/2020, Tema 1075).
+Em decisão publicada no DJe de 22.04.2020, o Relator desse recurso, o e. Min. Alexandre de Moraes, com base no art. 1.035, § 5º, do Código de Processo Civil, decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional. Nesse contexto, tendo em vista que o recurso especial manejado pela parte ora agravante envolve controvérsia relativa à existência de limitação geográfica para que a sentença proferida em ação civil pública produza efeitos, impõe-se a observância da ordem de sobrestamento.
+Ademais, o reconhecimento de repercussão geral, à tese apresentada no mencionado recurso, orienta o sobrestamento dos feitos que a envolvem, bem como instila a incidência do preceituado nos arts. 1.036 e 1.037, II, do CPC/2015, face ao possível juízo de retratação pela instância de origem.
+2. Ante o exposto, determina-se a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo do Recurso Extraordinário n.º 1.101.937/SP e eventual retratação prevista na sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
