@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favordeLuiz Felipe Gonçalves deCampos, apontando-se constrangimentoilegalpraticado peloTribunal de Justiça de São Paulo, que, nos autos doHCn. 2078705-46.2021.8.26.0000, denegou a ordem, mantendo-opresopreventivamente pela suposta prática do crime de tráfico(Processon. 1506370-81.2021.8.26.0228, em curso na 9ª Varada comarca de São Paulo/SP).
+Consta dos autos que o paciente foi preso em flagrante, em 12/3/2021,porque trazia consigo 140 invólucros de cocaína, 127 invólucros de maconha e R$ 628,00 (seiscentos e vinte e oito reais). Foi oferecida denúncia, apresentadaa defesa préviae, por ocasião dorecebimento da denúncia, em 5/5/2021, a preventiva foi mantida pelo Juízoprocessante. Atualmente, a ação penal aguarda realização da audiência de instrução e julgamento, designada para 19/5/2021.
+Nestes autos, sustenta o impetrante que o peso especificado das substâncias tóxicas é de 419,9 g de maconhae 54,4 g de cocaína.
+Aduz quedecidiu o M.M. Juízo do Plantão Judiciário Criminal da Capital pela conversão da prisão em flagrante em preventiva, sob a errônea alegação da qualidade de REINCIDENTE do paciente, MALGRADO A COMPROVAÇÃO DE SUA PRIMARIEDADE PELAS CERTIDÕES ACOSTADAS AOS AUTOS, bem como pela supostaausência de comprovação de residência fixa, MUITO EMBORA A DEFESA JÁ TIVESSE ACOSTADO COMPROVANTE DE RESIDÊNCIA EM NOME DE LUIZ FELIPE(fls. 4/5).
+À vista disso, defende que a decisão que decretou a prisão preventiva manifestamente genérica e em completa dissonância com os elementos constantes do auto de prisão em flagrante.
+Requer, assim, a imediata expedição de ordem liberatória emfavordo acusado, sem prejuízo da fixação de medidas cautelares alternativas.
+Em 10/5/2021, deferi a medida liminar parasubstituir a prisão preventiva do paciente por medidas cautelares a serem fixadas pelo Juízo de origem (fls. 61/63).
+Informações prestadas pelo Juízo de origem às fls. 68/69.
+Parecer do Ministério Público Federal, escrito peloSubprocurador-Geral da República Carlos Frederico Santos, opinando pela concessão da ordem, confirmando-se a liminar (fls. 87/92).
+É o relatório.
+Conforme analisei na decisão em que concedi o pedido de urgência,constou do acórdãocombatido que é certo que houve equívoco na r.decisão, quando consignou se tratar de agente reincidente e sem residência fixa, mas as demais circunstâncias justificam a manutenção da custódia cautelar do paciente (fls.33/34).
+Outrossim, o Juízo de origem fez referência à quantidade e à natureza das substâncias entorpecentes (140 invólucros de cocaína e 127 invólucros de maconha), sem, contudo, especificar o peso das drogas (fls. 40/44).
+Tal o cenário, concordo, pois, com a opinião do parecerista de que os elementos indicados, no caso,não se mostram suficientes para a manutenção da custódia cautelar. Destarte, as circunstâncias do ilícito e as condições do acusado, sobretudo sua primariedade, mostram a suficiência da imposição de medidas cautelares para o resguardo da ordem pública (fl. 91).
+Na hipótese, de acordo com a denúncia, o paciente trazia consigo, para fins de entrega a terceiros, 54,4 g cocaína e de 419,9 g de maconha (fl. 74). Não obstante a quantidade de droga apreendida não possa ser considerada pequena, também não é, por outro lado, indicativa, por si só, da periculosidade do agente, a ponto de justificar o encarceramento preventivo. Some-se aisso que o paciente é primário e ostenta condições pessoais favoráveis(HC n. 610.686/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/4/2021 - citado no parecer).
+Ante o exposto, acolho o parecer e concedo a ordem para, confirmando a liminar,substituir a prisão preventiva do paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA DESPROPORCIONAL. RÉU PRIMÁRIO. ADEQUAÇÃO E SUFICIÊNCIA DE CAUTELARES MENOS GRAVOSAS. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
