@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUILHERME HENRIQUE DA SILVA COSTA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2065936-06.2021.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão; e 8 meses e 5 dias de detenção, em regime semiaberto, mais pagamento de 24 dias-multa, além da suspensão da carteira de habilitação pelo prazo 1 ano, 4 (quatro) meses e 10dias, pela prática dos delitos tipificados nos arts. 308, § 2º, e 307, c/c o art. 298, inciso VII, todos do Código de Trânsito Brasileiro (e-STJ fls. 21/28).
+Interposta apelação pelas partes, o Tribunal local negou provimento aos recursos do Ministério Público e da assistente de acusação, e proveu parcialmente a insurgência da defesa em acórdão assim ementado (e-STJ fl. 31):
+Apelação criminal. Crime de trânsito. Demonstração de perícia em manobra de veículo automotor com resultado morte. Objetividade jurídica. Responde pela autoria de infração qualificada à norma do artigo 308, parágrafo 3º da Lei 9.503/1997 aquele condutor de motocicleta que, exibindo-se em via pública com a manobra de empinar o veículo, gera inequívoca situação de risco a ponto de ceifar a vida de pedestres que atravessava a via em sua faixa própria de trânsito.
+A condenação transitou em julgado em 9/12/2020 (e-STJ fl. 48).
+Posteriormente, a defesa impetrou habeas corpus no Tribunal de origem, sustentando a existência de constrangimento ilegal pela imposição do regime inicial semiaberto. O writ não foi conhecido em acórdão cuja ementa foi assim definida (e-STJ fl. 56):
+Habeas corpus Paciente condenado a pena em regime inicial semiaberto Constrangimento Ilegal Pedido de fixação de regime menos gravoso Apelação transitada em julgado Remédio heroico inadequado para revisão do mérito da decisão Precedentes Não conhecimento do writ.
+Neste writ, a defesa pontua que o paciente faz jus ao estabelecimento de regime inicial mais brando, em virtude de suas características pessoais. Aduz que "trata-se de réu primário, sem nenhuma passagem anterior, possui residência fixa e trabalho lícito, nunca fez parte do nosso sistema carcerário, e hoje se encontra em uma das unidades mais populosas da região, tendo contato com pessoas que são reincidentes e já tiveram várias passagens anteriores, por crimes diversos" (e-STJ fl. 8).
+Requer, ao final, a concessão da ordem, a fim de que seja fixado o regime aberto em benefício do paciente.
+É o relatório.
+Decido.
+Exsurge dos autos que a controvérsia referente ao pedido de abrandamento de regime já foi analisada por ocasião do HC n. 640.425/SP, também de minha relatoria, no qual deneguei a ordem, consignando a impossibilidade de fixação de regime mais brando, até mesmo em virtude da negativação das circunstâncias judiciais na hipótese.
+Ante o exposto, diante da constatação de que o presente remédio constitucional configura mera reiteração do HC n. 640.425/SP, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
