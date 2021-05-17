@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. ART. 85, § 3º, DOCÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - A 1ª Turma desta Corte firmou posicionamento segundo o qual a tarifação do § 3º, do art. 85 do CPC/2015 deve ser afastada, tão somente, nos casos em que a sua aplicação gera situações insólitas, notadamente em observância aos princípios constitucionais da proporcionalidade e da razoabilidade.
+III - Tratando-se de situação convencional, em que o trabalho realizado pelo advogado foi essencial para a obtenção do resultado favorável, como é o caso dos autos, os honorários advocatícios sucumbenciais devem ser fixados em percentual sobre proveito econômico alcançado, sob pena de ofensa ao art. 85, § 3º, do CPC/2015.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo interno desprovido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelaFAZENDA DO ESTADO DE SÃO PAULOcontra a decisão de fls.619/622e que deu provimento ao recurso especial deMASTERFOODS BRASIL ALIMENTOS LTDApara, reformando o acórdão recorrido, determinar o retorno dos autos, a fim de que o tribunal a quo promova novo exame acerca dos honorários de sucumbência, observado o disposto no art. 85, § 3º, do CPC/2015.
+Sustenta a Agravante, em síntese, que a matéria foi submetida à Corte Especial, razão pela qual deve o processo ser suspenso até a definição do tema, e "não se mostraria razoável e proporcional a condenação do ente público ao pagamento de valores astronômicos a título de honorários sucumbenciais, somente em função do valor dado à causa" (fl. 626e).
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 634/642e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. ART. 85, § 3º, DOCÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - A 1ª Turma desta Corte firmou posicionamento segundo o qual a tarifação do § 3º, do art. 85 do CPC/2015 deve ser afastada, tão somente, nos casos em que a sua aplicação gera situações insólitas, notadamente em observância aos princípios constitucionais da proporcionalidade e da razoabilidade.
+III - Tratando-se de situação convencional, em que o trabalho realizado pelo advogado foi essencial para a obtenção do resultado favorável, como é o caso dos autos, os honorários advocatícios sucumbenciais devem ser fixados em percentual sobre proveito econômico alcançado, sob pena de ofensa ao art. 85, § 3º, do CPC/2015.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo interno desprovido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Inicialmente, anoto que, no que tange ao tema 1.046 de Recursos Repetitivos, não há, até a presente data, determinação de suspensão dos feitos que versem sobre a matéria.
+No mérito, não assiste razão à Agravante.
+Com efeito, a1ª Turma desta Corte firmou posicionamento segundo o qual a tarifação do § 3º, do art. 85 do CPC/2015 deve ser afastada, tão somente, nos casos em que a sua aplicação gera situações insólitas, notadamente em observância aos princípios constitucionais da proporcionalidade e da razoabilidade, como o demonstra o julgado assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR EQUIDADE. HIPÓTESE NÃO CONTEMPLADA. CRITÉRIOS DO CPC/2015. OBSERVÂNCIA.
+1. Via de regra, o art. 85 do CPC/2015 é expresso ao determinar a observância dos critérios do § 2º para a fixação dos honorários advocatícios, ainda que a Fazenda Pública seja parte na causa.
+2. "Os limites e os critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito" (§ 6º do referido dispositivo).
+3. A ponderação dos critérios previstos no art. 85, § 2º, do CPC (complexidade da causa e extensão do trabalho realizado pelo advogado) não permite a exclusão da tarifação estabelecida no § 3º, mas, apenas, subsidia o magistrado quando do arbitramento do percentual dentro dos intervalos estabelecidos nos incisos I a V.
+4. Agravo interno desprovido.
+(AgInt no REsp 1842858/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/06/2020, DJe 01/07/2020)
+Tratando-se de situação convencional, em que o trabalho realizado pelo advogado foi essencial para a obtenção do resultado favorável, como é o caso dos autos, os honorários advocatícios sucumbenciais devem ser fixados em percentual sobre proveito econômico alcançado, sob pena de ofensa ao art. 85, § 3º, do CPC/2015.
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. VERBA SUCUMBENCIAL. ART. 85, § 3º, DO CPC/2015. JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 7/STJ. INAPLICABILIDADE.
+1. Nas causas em que a parte é a Fazenda Pública, deve-se observar a regra prevista no art. 85, §§ 3º e 4º, do CPC/2015, uma vez que a apreciação equitativa, prevista no § 8º da norma em epígrafe, somente tem aplicação nas causas em que for inestimável ou irrisório o proveito econômico, ou ainda, quando o valor da causa for muito baixo, hipóteses de que não cuidam os presentes autos. Precedentes.
+2."A matéria encimada à apreciação desta Corte Superior é eminentemente jurídica, qual seja, a necessidade de fixação dos honorários sucumbenciais de acordo com os critérios previstos nos incisos I a IV do § 2º e com os percentuais delimitados no § 3º do art. 85 do CPC/2015. Assim, evidente a inaplicabilidade da Súmula n. 7 do Superior Tribunal de Justiça ao caso concreto" (AgInt no AREsp 1.456.057/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2019, DJe 25/9/2019) .
+3. Agravo interno não provido.
+(AgInt no REsp 1.844.738/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/02/2020, DJe 13/02/2020).
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. SENTENÇA CONDENATÓRIA PROFERIDA NA VIGÊNCIA DO CPC/2015. NOVO ESTATUTO. OBSERVÂNCIA. LITIGÂNCIA DE MÁ-FÉ. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV, do CPC/2015 e com os percentuais delimitados no § 3º do referido artigo. Precedentes: AgInt no REsp n. 1.665.300/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017; REsp n. 1.644.846/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2017, DJe 31/8/2017.
+IV - Recurso especial provido para determinar ao Tribunal de origem que fixe os honorários advocatícios sucumbenciais em conformidade com os percentuais estabelecidos no art. 85, § 3º, do CPC/2015.
+(REsp 1.750.763/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/12/2018, DJe 12/12/2018).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1311383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+Não obstante o desprovimento do recurso, não configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
