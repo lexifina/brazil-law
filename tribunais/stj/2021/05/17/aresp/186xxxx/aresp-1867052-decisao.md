@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSÉ ALAN CARNEIRO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por JOSÉ ALAN CARNEIRO DA SILVA, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. EXISTÊNCIA DE PROVAS A AMPARAR A TESE ESCOLHIDA PELO CONSELHO DE SENTENÇA. PROVAS COLHIDAS NO INQUÉRITO EM HARMONIA COM AS PROVAS COLHIDAS EM JUÍZO. SOBERANIA DO VEREDICTO. RECURSO IMPROVIDO. DECISÃO UNÂNIME.
+1 - Os depoimentos testemunhais colhidos nos autos e apresentados aos jurados em Sessão do Júri afastam a tese arguida pela Defesa, mostrando-se uma versão compatível com a decisão do Conselho de Sentença.
+2 - Recurso conhecido e improvido.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 593, III, d, do CPP, no que concerne à decisão do Tribunal de Júri manifestamente contrária à prova dos autos, uma vez que inexiste provas da autoria do crime de homicídio pelo ora recorrente, trazendo o(s) seguinte(s) argumento(s):
+"O fato é que nos autos não repousa prova alguma capaz de sustentar o veredito condenatório exarado pelo nobre Conselho de Sentença. Em que pese o caráter soberano dado às decisões do júri, há que se harmonizar esse princípio com os demais postulados constitucionais, dentre eles o do devido processo legal e o da razoabilidade.
+ ..
+Baseou-se o autor da ação penal no depoimento do companheiro da vitima (viciado em droga e ex reeducando) que teria apontado o recorrente como autor do crime, depoimento prestado na fase inquisitorial, bem como nas declarações da genitora da vitima que afirmou que teria "ouvido dizer" que o autor do homicídio foi à pessoa de "ALAN".
+Nenhuma outra prova foi confeccionada que pudesse levar a autoria do crime, já que não houve uma investigação aprofundada sobre o caso, não tendo sido realizada, sequer, pericias técnicas na residência da vitima que pudessem corroborar as declarações do companheiro da vitima (SR. DANILO) de que esta teria sido morta pelo recorrente em razão de ter praticado a subtração de uma bicicleta na comunidade em que moravam.
+ ..
+Ao contrario do mencionado no acórdão alagoano, as "testemunhas" ouvidas em juízo não apontaram para o recorrente como o autor do delito; a genitora da vitima. SRA SÔNIA, confirmou as declarações prestadas perante a autoridade policial e afirmou que "soube que quem matou a sua filha foi a pessoa de Alan", ou seja, prestou um testemunho de "ouvir dizer" já que não teria presenciado o fato.
+ ..
+Diante dessa constatação, é possível concluir que os jurados decidiram contrariamente ã prova dos autos (leia-se: contrário ao que emerge dos autos, já que prova alguma existe, realmente), surgindo daí a clara necessidade de realização de novo julgamento, nos moldes da legislação processual penal em vigor" (fls. 313/317).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"De uma análise detida dos autos do presente recurso de apelação, não identifico flagrante incompatibilidade entre o veredicto proferido pelos jurados e as provas contidas nos autos. De fato, a condenação restou devidamente demonstrada nos autos pela Acusação e reconhecida pelo corpo de jurados, quando da resposta à respectiva quesitação.
+Assim, a Defesa e a Acusação elaboraram suas teses; a primeira, pleiteando a absolvição pela negativa de autoria; a segunda, pugnando pela condenação do réu. Portanto, o Conselho de Sentença, por maioria, escolheu uma entre as duas teses, no caso dos presentes autos, a da Acusação.
+ ..
+A principal tese da Defesa é a de ausência de elementos probatórios no tocante à autoria do crime perpetrado.
+Os depoimentos testemunhais colhidos nos autos e apresentados aos jurados em Sessão do Júri afastam a tese arguida pela Defesa, mostrando-se uma versão compatível com a decisão do Conselho de Sentença.
+ ..
+Ora, os depoimentos existentes nos autos serviram para formar o convencimento dos jurados no sentido de uma das teses sustentadas, proferindo o veredicto, em razão do princípio da íntima convicção, no sentindo de condenar os apelantes.
+Nessa linha, denota-se a existência de provas nos autos que foram suficientes para convencer os jurados de que o apelante foi o autor do crime de homicídio qualificado tentado.
+ ..
+Assim, o Conselho de Sentença reconheceu a autoria sem conflitar manifestamente com as provas dos autos, providência perfeitamente aceitável no âmbito das Cortes Superiores, não sendo lícito a este tribunal se insurgir na conclusão tomada pelos jurados, razão por que rejeito a tese de nulidade do julgamento" (fls. 299/302).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência de decisão contrária à prova dos autos, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Para se entender de forma diversa do Tribunal de origem, no sentido de que a condenação foi contrária à prova dos autos ou que a dosimetria da pena foi indevidamente exasperada, seria imprescindível o reexame do conjunto probatório, tarefa vedada em recurso especial". (AgRg no AgRg no AREsp n. 1.711.973/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/09/2020.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.755.363/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/02/2021, DJe 04/02/2021; AgRg no AREsp n. 1.680.222/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/02/2021; AgRg no AgRg no AREsp n. 1.631.730/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/09/2020; AgRg no AREsp n. 1.632.897/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/06/2020; AgRg no AREsp n. 1.619.107/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 04/08/2020; AgRg no AREsp n. 933.257/RO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/06/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
