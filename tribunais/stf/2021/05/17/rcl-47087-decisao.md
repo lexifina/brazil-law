@@ -1,0 +1,46 @@
+DECISÃO
+    Trata-se de Reclamação proposta contra ato do Juiz de Direito da 1ª Vara da Comarca de Pirapozinho, do Tribunal de Justiça do Estado de São Paulo, objetivando a preservação da competência e garantia da autoridade da decisão deste SUPREMO TRIBUNAL FEDERAL.
+    Na inicial, o reclamante alega, em síntese, que "foi preso em flagrante delito no dia 19 de julho de 2.019, por suposto envolvimento em crime de tentativa de homicídio qualificado por motivo fútil (artigo 121, §2º, inciso II, c/c o artigo 14, inciso II, ambos do Código Penal). A prisão em flagrante foi convertida em prisão preventiva e devido a pandemia causada pelo COVID-19, a data do Júri vem sendo prorrogada, permanecendo o réu privado de sua liberdade há 1 ano, 8 meses e 23 dias.".
+    Aduz, ainda, que "todos os meios interpostos para o réu responder o processo em liberdade foram negados, entre eles, pedido de revogação da prisão preventiva e habeas corpus. Ocorre que a data do Júri vem sendo adiada devido o estado de epidemia em que estamos vivendo, sendo que o ilustríssimo magistrado, a cada 90 dias, emite uma decisão mantendo a prisão preventiva, com o fundamento de que ainda estão presentes os motivos que a ensejou, de forma a não considerar que o prazo em que o réu permanece preso sem julgamento já se tornou excessivo.".
+    Observa, também, que há "violação do precedente firmado no Habeas Corpus 174.741/SP", cuja ementa é a seguinte:
+    ABSOLVIÇÃO – MATERIALIDADE E AUTORIA – COMPROVAÇÃO. Ante a materialidade e a comprovação de autoria, é inadequada a absolvição. PRISÃO PREVENTIVA – PRAZO – EXCESSO. Configurado o excesso de prazo da custódia preventiva, impõe-se a devolução da liberdade ao acusado.
+    Afirma, por fim, que "manter a prisão preventiva do réu é reforçar uma postura inquisitiva, que dá tratamento punitivo antes mesmo do indivíduo ser declarado culpado. O decreto de prisão preventiva emanado pela autoridade coatora é totalmente desprovido de qualquer fundamentação válida.".
+    Em razão disso, "faz jus a revogação da prisão preventiva, uma vez que preenche requisitos para responder o processo em liberdade e pelo excesso de prazo da sua prisão, conforme já reconheceu este Tribunal.".
+    Portanto, requer: "seja restaurada a autoridade do precedente firmado no Habeas Corpus 174.741, concedendo ao Peticionário, pessoa que cumpre prisão preventiva excessiva, a liberdade provisória, com a imposição, caso necessário, de medidas cautelares diversa da prisão.".
+    É o relatório. Decido.
+    A respeito do cabimento da Reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II, III e IV, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    Com efeito, a presente Reclamação é manifestamente incabível. O objetivo do instituto constitucional da Reclamação é o de preservar a competência desta CORTE e de garantir a autoridade de suas decisões. Ocorre, porém, que o reclamante deixou de apresentar um paradigma de confronto com efeitos vinculantes ou um ato caracterizador de usurpação da competência desta SUPREMA CORTE, requisitos essenciais para a admissibilidade deste instrumento.
+    O HC 174.741/SP, de Relatoria do Min. MARCO AURÉLIO, do SUPREMO TRIBUNAL FEDERAL, invocado como parâmetro pelo reclamante, é destituído de caráter vinculante, portanto, não autoriza o ajuizamento da Reclamação, uma vez que seu conteúdo não é de aplicação obrigatória por outros Tribunais. Nessa linha:
+    EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. PERFIL CONSTITUCIONAL DA RECLAMAÇÃO. PARADIGMA DESTITUÍDO DE EFEITO VINCULANTE. RECURSO NÃO PROVIDO.
+    1. Segundo a jurisprudência da Suprema Corte, não se admite a oposição de embargos declaratórios contra decisão monocrática. Embargos recebidos como agravo regimental, nos termos dos precedentes.
+    2. Por atribuição constitucional, presta-se a Reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, §3º, CF/88).
+    3. Decisão judicial que desrespeita enunciado de súmula do STF sem efeito vinculante não dá ensejo ao ajuizamento de reclamação constitucional, pois não há obrigatoriedade de seu acatamento vertical pelos tribunais e juízos.
+    4. Impossibilidade do uso da Reclamação como meio de saltar graus jurisdicionais.
+    5. Agravo regimental não provido.
+    (Rcl 8.217-ED/MG, Relator Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 6/2/2013).
+    Nota-se, portanto, que o reclamante deixou de apresentar um paradigma de confronto com efeitos vinculantes ou um ato caracterizador de usurpação da competência desta SUPREMA CORTE, requisitos essenciais para a admissibilidade deste instrumento.
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a Reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR/SP, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Assim, por serem estranhos às hipóteses de cabimento da Reclamação, os pedidos formulados pelo reclamante não poderão ser conhecidos na via reclamatória, consoante entendimento reiterado desta SUPREMA CORTE (Rcl 30.343/SP, Min. GILMAR MENDES, DJe de 14/06/2018; Rcl 28.178 AgR/RS, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 12/06/2018 e Rcl 29.956/PE, Rel. Min. ROSA WEBER, DJe de 30/05/2018).
+    Logo, ausente a estrita aderência entre o ato impugnado e o paradigma invocado, consoante entendimento reiterado desta CORTE (Rcl 29.590/SP, Rel. Min. ALEXANDRE DE MORAES, DJe de 19/06/2018; Rcl 27.890/SP, Rel. Min. DIAS TOFFOLI, DJe de 21/09/2017; Rcl 18.946/SP, Rel. Min. LUIZ FUX, DJe de 05/11/2014 e Rcl 17.108 AgR/SP, Rel. Min. TEORI ZAVASCKI, DJe de 01/07/2014), inviável a análise desta Reclamação.
+    Ora, o instituto da Reclamação, cuja finalidade tem previsão constitucional taxativa, não "pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal" (Rcl 4.381 AgR/RJ, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 5/8/2011).
+    Por fim, quanto ao pedido de concessão de Habeas Corpus, de ofício, "ao Peticionário, pessoa que cumpre prisão preventiva excessiva, a liberdade provisória, com a imposição, caso necessário, de medidas cautelares diversa da prisão", a Reclamação também deve ser indeferida de plano.
+    Deve-se ressaltar que o Plenário deste SUPREMO TRIBUNAL FEDERAL, ao julgar a Rcl 25.509/PR, Rel. Min. EDSON FACHIN, afirmou que é necessário respeitar a norma insculpida no art. 102, I, "i", da CF/88, segundo a qual compete ao STF processar e julgar originariamente "o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância.". Proceder de modo diverso acarretaria uma indesejada supressão de instância.
+    Não há, portanto, qualquer ilegalidade a ser amparada por meio da via reclamatória.
+    Diante do exposto, com base no art. 21, §1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se. Intime-se.
+    Brasília, 17 de maio de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
