@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJDFT assim ementado (e-STJ fl. 882):
+Apelação cível. Nulidade de duplicata. Compensação por dano moral. Improcedência da demanda. Honorários: fixados com fundamento na lei vigente à data da propositura da demanda (CPC/73, 20 § 4º),em percentual - 5% - do valor atualizado da causa adequado à expressão econômica da demanda.
+Nas razões do recurso especial (e-STJ fls. 245/250), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a recorrente aponta dissídio jurisprudencial e ofensa ao art. 85, §§ 2º e 6º, do CPC/2015.
+Sustenta que (e-STJ fls. 912/915):
+ .. observando o acórdão supra colacionado, nota-se que não foi analisado o entendimento pacificado atual do STJ, o qual dispõe sobre o marco temporal para a aplicação do CPC/2015, em relação a fixação e distribuição dos honorários sucumbenciais, os quais devem ser na data da sentença imposta.
+Pois, em que pese o Desembargador do TJDF ter baseado a decisão no antigo CPC(CPC/1973), verifica-se que deve ser aplicado o CPC/2015, uma vez que, os honorários sucumbenciais são aplicados conforme a data da sentença e não a data da propositura da ação.  ..
+Ou seja, a lei é claríssima. A exceção se aplica apenas nas hipóteses do § 8º, que não se amolda ao caso concreto.
+A discricionariedade do juízo para fixação dos honorários advocatícios foi limitada entre os percentuais de 10% a 20%, devendo o órgão julgador respeitar o que dispõe a lei.
+A recorrida não apresentou contrarrazões (e-STJ fl. 941).
+O recurso foi admitido na origem (e-STJ fls. 950/951).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fls. 883/884):
+A fixação dos honorários advocatícios deve seguir a norma vigente na data da propositura da demanda11/09/15 (CPC/73), conforme precedentes desta 4ª Turma Cível:
+ .. Desta forma, a fixação dos honorários deve observar o CPC/73 20, § 4º, cuja apreciação equitativa do juiz não fica adstrita aos percentuais de dez a vinte por cento estabelecidos no CPC/73 20, §3º.
+Sobre o tema, o entendimento desta Corte é que "o marco temporal para a aplicação do regramento jurídico acerca dos ônus sucumbenciais previsto no Código de Processo Civil de 2015 é a data da prolação da sentença ou, nos casos dos feitos de competência originária dos tribunais, do ato jurisdicional correspondente à sentença" (AgInt no AREsp n. 1.227.170/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/10/2019, DJe 7/11/2019). Anote-se:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior. 5. Embargos de divergência não providos.
+(EAREsp n. 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/3/2019, DJe 6/5/2019.)
+No caso em julgamento, a sentença foi proferida em 24/10/2018 (e-STJ fl. 828). Aplica-se, portanto, o CPC/2015 para a fixação da verba honorária.
+Assim, "a expressiva redação legal do art. 85, §§ 2º e 8º, do CPC/2015 impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (REsp n. 1.746.072/PR, Relator p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019).
+Desse modo, a base de cálculo para os honorários advocatícios deve ser fixada da seguinte forma: em primeiro lugar, o valor da condenação, em segundo lugar (ou seja, somente na hipótese em que não houver condenação), o proveito econômico obtido pelo vencedor e, em terceiro lugar (isto é, situação na qual não há condenação, tampouco é possível mensurar o proveito econômico), o valor da causa.
+Sendo possível mensurar o proveito econômico obtido pela recorrente, sobre estedevem incidir os honorários advocatícios.
+Aplica-se ao caso a Súmula n. 568 do STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para reformar o acórdão recorrido, majorando os honorários advocatícios devidos pela recorrida aos advogados da recorrente para o equivalente a 10% (dez por cento) sobre o proveito econômico obtido na causa, devendo o valor ser apurado em liquidação.
+Publique-se e intimem-se.
