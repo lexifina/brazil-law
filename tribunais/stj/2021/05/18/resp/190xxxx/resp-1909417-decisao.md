@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "c", da CF interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ fl. 54):
+AGRAVO DE INSTRUMENTO. PEDIDO DE PENHORA DE PARTE DOS PROVENTOS DE SALÁRIO DO EXECUTADO. DECISÃO QUE INDEFERIU A PENHORA DE SALÁRIO. PLEITO PELA REFORMA DA DECISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 70/83),a parte recorrente aponta divergência jurisprudencial quantoao disposto no art. 833, inc. IV, do CPC.
+Aduz que "a interpretação do Juízo a quo é no sentido de conferir a interpretação que defende a impenhorabilidade absoluta ao artigo 833, inc. IV, do Código de Processo Civil, valendo-se, para isso, do princípio da subsistência digna do devedor. Esta interpretação é diametralmente oposta à interpretação dada pelo Eg. Tribunal Superior do Trabalho no julgamento do REsp n. 1.518.169/DF, o qual, analisando o mesmo artigo e o mesmo princípio invocado na decisão recorrida, entendeu pela possibilidade de penhora salarial em percentual que assegure o mínimo existencial, representado aqui na subsistência digna do devedor, mesmo não se tratando de crédito de origem alimentar" (e-STJ fls. 79/80).
+Busca, em suma (e-STJ fls. 82/83):
+(..) o deferimento do pedido de suspensão dos efeitos do acórdão em questão, mantendo bloqueado os valores penhorados.
+Afirmou serpossívelaplicar arelativização da impenhorabilidade diante das peculiaridades da lide.
+Não foram apresentadas contrarrazões (e-STJ fl. 98).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 55/56):
+Como se sabe, o artigo 833, IV, do Código de Processo Civil dispõe que são impenhoráveis os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o §2º.
+Ressalte-se ainda, que a ressalva do § 2º,do artigo 833, do CPC aduz que: § 2º O disposto nos incisos IV e o X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta)salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, § 3º
+Salienta-se, que os referidos dispositivos legais visam resguardar a existência digna da pessoa buscando a proteção dos frutos do seu trabalho, de modo a possibilitar o atendimento de suas necessidades primordiais.
+Por outro lado, não se aplica o REsp. nº 1.518.169/DF, citado pelo credor-agravante, por não ter sido proferido pela força vinculante do julgamento de recursos repetitivos, nos termos do artigo 927, inciso III, do CPC/15, e portanto, deve haver a obediência ao princípio do livre convencimento do Juízo.
+A jurisprudência pátria já se manifestou quanto à impenhorabilidade de vencimentos, sob a sistemática no sentido de recursos repetitivos, quando do julgamento do REsp 1184765/PA.
+Em hipótese análoga à destes autos, a Segunda Seção reafirmou que, "Em situações excepcionais, admite-se arelativizaçãoda regra deimpenhorabilidadedas verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (AgInt nos EREsp n. 1.701.828/MG, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/6/2020, DJe 18/6/2020). Esta a ementa do julgado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR.
+RELATIVIZAÇÃODA REGRA DAIMPENHORABILIDADE.POSSIBILIDADE.
+1. Ação de despejo por falta de pagamento cumulada com cobrança, ajuizada em desfavor de fiadores de contrato de locação.
+2. Em situações excepcionais, admite-se arelativizaçãoda regra deimpenhorabilidadedas verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+3. Na espécie, imperioso mostra-se o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência constante deste voto, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário dos recorridos.
+4. Agravo interno não provido.
+O entendimento doTJPR,conforme demonstrado nos precedentes citados, destoa da atual orientação jurisprudencial do STJ, merecendo reforma. No entanto, mitigada a intangibilidade da verba salarial nos termos desta decisão, cumpre devolver os autos ao Tribunal de origem para que aprecie a possibilidade de fixação de percentual de penhora da verba salarial que preserve a subsistência digna do devedor e de seus dependentes.
+Diante do exposto, DOU PROVIMENTO ao recurso especial para cassar o acórdão recorrido e determinar o retorno dos autos à origem, de modo que a questão seja decidida conforme a jurisprudência citada nesta decisão, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário do recorrido que preserve sua subsistência digna, bem como a de seus dependentes.
+Publique-se e intimem-se.
