@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CAIXA SEGURADORA S/A contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 276):
+Oposição- Seguro habitacional- Transferência ou cessão de direito por "contrato de gaveta" Hipótese na qual, na qualidade de cessionário do mutuário, adquiriu o opoente todos os direitos e deveres oriundos do contrato Procedência da oposição para substituição da mutuária original no polo ativo de ação de indenização securitária- Quitação do financiamento que não extingue a responsabilidade da seguradora por eventuais danos ocorridos na vigência do contrato - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 288-291).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 1º, parágrafo único, da Lei 8.004/1990; e 1.022 do CPC. Afirma que o acórdão não analisou a evidente prescrição e que ignorou o que diz a Lei 8.004/1990, na medida em que descartou completamente o requisito formal imposto pela lei para que fosse concluída transferência dos direitos e obrigações decorrentes do contrato de mútuo. Afirma que o contrato de gaveta impede a seguradora de avaliar os riscos advindos dessa venda. Aponta dissídio jurisprudencial em relação a extinção da apólice após a quitação do contrato de mútuo.
+Não foram apresentadas contrarrazões (e-STJ fl. 321).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 322-325), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Verifico que se apresenta deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+No caso, a parte sustenta que a Corte Estadual se omitiu sobre a evidente prescrição, sem apontar, no entanto, a que dispositivo de lei federal estaria se referindo quando sustenta evidente prescrição no caso dos autos.
+Aplica-se, assim, o óbice da Súmula 284/STF.
+Quanto à alegada ofensa ao art. 1º, parágrafo único, da Lei 8.004/1990, a recorrente limita-se a citar o dispositivo e a sustentar, de forma genérica, que a sua não observância traria riscos à seguradora, sem se ater, ainda que minimamente, à hipótese dos autos, deixando de informar, de forma clara e objetiva, de que modo a legislação federal teria sido violada ou negada sua aplicação no acórdão recorrido.
+Com relação à possibilidade de cessão do compromisso de venda e compra de imóvel, a Corte Estadual manifestou-se no seguinte sentido (e-STJ fls. 277-278):
+Certo que na qualidade de cessionário de mutuário do financiamento, adquiriram os autores todos os direitos e deveres oriundos do contrato.
+Por sinal, pelo instrumento particular de cessão de compromisso de venda e compra de imóvel urbano (fls. 161-164), ficou acordado que os cessionários assumiriam o pagamento das prestações junto à CEF (cláusula III, parágrafo único).
+Outrossim, de somenos constar no contrato celebrado com o mutuário vedação à cessão do imóvel. É que aplicável a essa relação jurídica o Código de Defesa do Consumidor.
+A esse respeito é de consideração a seguinte ementa de acórdão deste Tribunal:
+"SEGURO HABITACIONAL - Ação com escopo de cobrança de indenização - Extinção do processo em relação a co-autor por ilegitimidade ativa Inadmissibilidade dessa decisão - Hipótese na qual, na qualidade de cessionário de mutuário do financiamento, o ora agravante adquirira todos os direitos e deveres oriundos do contrato - Recurso provido" (Agravo de Instrumento nº 9051562-51.2007.8.26.0000, 6ª Câmara de Direito Privado, Rel. Encinas Manfre, j. 19.03.2009).
+Ademais, a função social do contrato deve ser analisada em consonância às garantias constitucionais e aos princípios fundamentais do Estado Democrático de Direito. Assim, a hermenêutica contratual pode e deve amenizar o rigor da regra pacta sunt servanda, de modo a excluir ou restringir as cláusulas excessivamente violadoras da respectiva finalidade.
+Dessarte, é de se aceitar os autores como beneficiários do seguro obrigatório.
+Como se disse, a recorrente não se atém aos fundamentos do acórdão recorrido, situação que atrai não só a Sumula 284/STF, como também a Súmula 283/STF.
+Ademais, o recurso especial não pode ser conhecido, pois, sobre a matéria do art. 1º, parágrafo único, da Lei 8.004/1990, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+O recurso especial também não pode ser conhecido quanto à interposição pela alínea "c" do permissivo constitucional, pois o dissídio jurisprudencial não foi comprovado conforme estabelecido no art. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples justaposição de acórdãos não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Destarte, inviável a pretensão da recorrente.
+Por fim,impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em R$1.000,00 (e-STJ fl. 239), majorados pela Corte Estadual para R$1.500,00 (e-STJ fl. 280), a nova majoração dos honorários para R$1.800,00 é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). SEGURO HABITACIONAL. OPOSIÇÃO. LEGITIMIDADE ATIVA DOS OPOENTES. NEGATIVA DE PRESTAÇÃO JURIDICIONAL. PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CUJA MATÉRIA DEIXOU DE SER ANALISADA PELA CORTE ESTADUAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE E AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 284/STF E 211/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
