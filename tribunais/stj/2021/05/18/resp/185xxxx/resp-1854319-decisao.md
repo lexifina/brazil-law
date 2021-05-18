@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por Direcional Engenharia S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Amazonas assim ementado (e-STJ, fls. 699-701):
+TRÊS APELAÇÕES. COMPRA E VENDA DE IMÓVEL. PRELIMINARES DE ILEGITIMIDADE PASSIVA DO BANCO E IMPOSSIBILIDADE JURÍDICA DO PEDIDO. NÃO ACOLHIMENTO. RESCISÃO CONTRATUAL. VÍCIOS OCULTOS NO IMÓVEL. DEVOLUÇÃO DOS VALORES PAGOS. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA 543 DO STJ. DANOS MORAIS. CONDENAÇÃO DA DIRECIONAL ENGENHARIA LTDA. MANUTENÇÃO DA CONDENAÇÃO DO BANCO SANTANDER. REDUÇÃO DO QUANTUM. MANUTENÇÃO DA MULTA DIÁRIA.
+I - O Banco apelante interviu no negócio como agente financiador. A demanda, ademais, busca rescindir também o contrato de financiamento do imóvel e a instituição foi responsável diretamente pela inclusão do nome dos autores nos cadastro do SPC/SERASA. Não acolhimento da preliminar de ilegitimidade passiva.
+II - Preliminar de impossibilidade jurídica do pedido que se confunde com o próprio mérito da ação. Não acolhimento.
+III - Os primeiros apelantes comprovaram os vícios ocultos do imóvel e a notificação válida, legítima e temporânea da DIRECIONAL ENGENHARIA LTDA. Direito subjetivo de obter o cancelamento da avença e do financiamento, assim como à devolução dos valores pagos.
+IV - É indevida a retenção de valores, haja vista a rescisão ter-se dado por culpa exclusiva da construtora (Súmula 543 do STJ).
+V - Ao prestar um serviço falho, entregando um imóvel com vícios e incindir em desídia ao não realizar deliberadamente os reparos, além da demora e desencontro de informações no cancelamento do contrato, a DIRECIONAL ENGENHARIA LTDA realizou ato ilícito, o qual ocasionou danos morais aos autores. Condenação ao pagamento de indenização de R$30.000,00 (trinta mil reais).
+VI - OBANCO SANTANDER S/A, mesmo com o contrato de financiamento dos autores cancelado, efetuou a inscrição destes no SPC e SERASA. Dano moral in re ipsa. Redução do quantum para R$ 30.000,00 (trinta mil reais).
+VII - Multa diária fixada em R$ 1.000,00 (mil reais), limitada a 30 (trinta) dias multa, para a retirada do nome dos consumidores do cadastro de inadimplentes que se mostra proporcional e razoável. PRIMEIRA APELAÇÃO PROVIDA. SEGUNDA APELAÇÃO DESPROVIDA. TERCEIRA APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 837):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E FALHA NA FUNDAMENTAÇÃO. MATÉRIA SOBRE DEVIDAMENTE ANALISADA. PRETENSÃO DE REDISCUTIR O JULGADO. MEIO DE IMPUGNAÇÃO DE FUNDAMENTAÇÃO VINCULADA. CONHECIMENTO DO RECURSO. REJEIÇÃO NO MÉRITO.
+1. Por ser recurso/meio de impugnação de fundamentação vinculada, a simples alegação da omissão e contradição enseja o conhecimento do recurso;
+2. Ocorre que a r. decisão impugnada tratou sim, e de modo claro, sobre as questões da indenização a título de danos morais e abusividades das cláusulas contratuais, abordando os pontos essenciais ao deslinde do feito, não havendo omissão ou falha na fundamentação;
+3. Embargos de declaração rejeitados.
+Em suas razões de recurso especial (e-STJ, fls. 848-882), a recorrente alega violação dos arts. 489, § 1º, IV, 1.022, II, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, quais sejam, a inexistência de dano moral em rescisão contratual; o valor arbitrado de forma exorbitante a título indenizatório por dano moral; a ausência de análise a respeito das cláusulas 6.4.3. e 6.8.; e, por fim, a falta de comprovação de culpa exclusiva da recorrente.
+Requer, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 922-929).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 930-933).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, no tocante à suposta negativa de prestação jurisdicional, observa-se que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, notadamente quanto aos motivos pelos quais entendeu haver comprovação dos fatos alegados pela parte autora na inicial, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+É o que se extrai do acórdão proferido no julgamento dos embargos de declaração (e-STJ, fl. 841):
+Sucede que os embargos em questão não merecem acolhida.
+É que a r. decisão impugnada tratou sim, e de modo claro, sobre as questões da indenização a título de danos morais, a razoabilidade de seu valor, bem como sobre a ausência de fatores excludentes de responsabilidade, abordando o contrato em sua inteireza. Além disso, o Superior Tribunal de Justiça entende que não se mostra necessário o rebate de todos os pontos levantados se houve o rebate dos principais temas capazes de infirmar a convicção dos julgadores:
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meios dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECURSO ESPECIAL IMPROVIDO.
