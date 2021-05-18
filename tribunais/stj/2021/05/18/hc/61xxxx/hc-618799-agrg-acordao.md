@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n.11.343/2006 quando verificado que as instâncias de origem -dentro do seu livre convencimento motivado -apontaram elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JORGE BARRON CERVANTES interpõe agravo regimental contra decisão de minha relatoria, em que indeferi liminarmente o write mantive inalterada a reprimenda a eleimposta.
+A defesa reitera a sua compreensão de que estão preenchidos todos os requisitos necessários para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Afirma que a minorante não pode ser negada apenas em razão da quantidade de droga apreendida.
+Requer a reconsideração dodecisumanteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n.11.343/2006 quando verificado que as instâncias de origem -dentro do seu livre convencimento motivado -apontaram elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+A Corte estadual afastou a aplicação da minorante e manteve o regime mais gravoso nos seguintes termos (fls. 35-36):
+Em seguida, não era mesmo hipótese de aplicação da regra prevista no art. 33, §4º, da Lei de Drogas, uma vez que aquele que transporta tamanha quantidade de entorpecente, de valor incalculável, e capaz de atingir número indeterminado de pessoas, está envolvido na atividade ilícita e integra grupo organizado para essa finalidade, sem que seja, portanto, merecedor do favor legal. Até porque, o benefício legal é reservado para os pequenos traficantes, aqueles eventuais, chamados de "primeira viagem", jamais atingir alguém que, como os acusados, transportam mais de 26 quilos de cocaína entre dois Estados da Federação, o que indica o envolvimento em ações organizadas e de grandes proporções. Em relação ao regime de cumprimento, tem-se que a gravidade concreta da conduta, onde os réus transportavam 26 quilos de cocaína de um Estado para outro, e demonstraram audácia e periculosidade evidente - circunstâncias que deveriam ter sido observadas para a fixação da pena base - o regime inicial fechado é único possível, justo e suficiente à reprovação da conduta, observando-se que é impossível, pelo mesmo motivo e em razão da quantidade da pena imposta, qualquer tipo de substituição da pena privativa de liberdade
+No caso, as instâncias ordinárias entenderam incabível a aplicação da minorante, sob o fundamento de que o réu se dedicava a atividades criminosas;essa circunstância foi evidenciada na apreensão de grande quantidade de drogas e no transporte interestadual de 26 kg de cocaína.
+Destaco, assim, que a minorante não foi negada ao réuapenas pela quantidade de droga apreendida, mas, porque a presença desteelemento, em conjunto com o transporte interestadual, indicam a dedicação doacusadoà atividade criminosa.Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. INCIDÊNCIA. NECESSÁRIA DILAÇÃO PROBATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.1. A agravante não apresentou elementos suficientes para refutar os fundamentos consignados na decisão agravada, em especial porque, como delineado naqueledecisum,o afastamento da minorante não foi motivado unicamente na quantidade de droga apreendida, mas também em outras circunstâncias fáticas do caso concreto - como a apreensão de mais de mil eppendorfs vazios, quatro aparelhos celulares e dinheiro em espécie -, dados que, em conjunto, são idôneos a justificar a conclusão da instância antecedente, de modo que a revisão desse entendimento demandaria ampla dilação probatória.2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.3. Agravo regimental não provido.(AgRg no HC n. 446.501/SP, Rel. MinistroRogerio Schietti Cruz, 6ª T., DJe 21/8/2018).
+Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada à paciente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que, em conjunto, indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Portanto,ausentes fatos novos ou teses jurídicas diversasque permitam a análise do caso sob outro enfoque,deve ser mantida a decisão agravada.
+À vista do exposto,nego provimento ao agravo regimental.
