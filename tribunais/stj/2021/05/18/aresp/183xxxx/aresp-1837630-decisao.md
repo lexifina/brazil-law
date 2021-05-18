@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por TELEFÔNICA BRASIL S/A, em face de acórdão assim ementado (fl. 39):
+Ação de liquidação de sentença envolvendo contrato de participação financeira no plano de expansão de telefonia.
+Recurso da ré que pretende a reforma da decisão para determinação de entrega das ações, alteração dos critérios de cálculos e exclusão da dobra acionária. Não provimento.
+EVENTOS SOCIETARIOS. Necessidade de considerar as operações de grupamento e desdobramento acionários ocorridas entre a data de emissão das ações e o trânsito em julgado da demanda. Julgamento do REsp nº 1.647.879/SP que tratou de questões específicas do Tema 667 (Recurso Especial Repetitivo n.º 1.387.249/SC). Interpretação dessa 4ª Câmara de Direito Privado no sentido de ser de rigor a inclusão dos eventos societários no cálculo da diferença acionária porque eles estão diretamente relacionados com o aspecto estrutural das ações e não só com o valor econômico delas. Assim, ainda que não haja pedido expresso, eles devem ser observados. Provimento.
+Recurso parcialmente provido.
+O juízo de admissibilidade considerou o especial intempestivo nos seguintes termos (fls. 94/95):
+O recurso é extemporâneo.
+A intimação do V. Acórdão foi disponibilizada no DJe em 08/04/2020, considerando-se a data da publicação o primeiro dia útil subsequente, 09/04/2020.
+O prazo recursal começou a fluir apenas em 04.05.2020, em razão da suspensão de prazos em decorrência da pandemia do Coronavirus determinada por este Tribunal de Justiça nos dias 16 a 18.03.2020 (Provimento CSM 2545/2020), de caráter local, devendo portanto ser comprovada, nos termos do art. 1.003, §6 º , do CPC. Seguiu-se a suspensão de prazos determinada pelo CNJ (Resolução n. 313, de 19.03.2020, e Resolução n. 314, de 20.04.2020), que tem caráter nacional e dispensa, portanto, a necessidade de comprovação.
+Por sua vez, o prazo recursal exauriu - se em 28.05.2020. Isto porque houve a antecipação dos feriados locais do Corpus Christi (e ponto facultativo), Consciência Negra e Revolução Constitucionalista (9 de Julho) para os dias 20, 21, 22 e 25.05.2020, conforme Provimentos CSM 2.558/2020 e 2.559/2020.
+A petição de recurso foi apresentada, todavia, em 29/05/2020, em desatenção ao disposto no artigo 1.003, §5 º , do CPC.
+IV. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+Em suas razões, a parte agravante alega que tempestivo seu recurso, "tendo em vista que a certidão de publicação do acórdão recorrido (fl. 46) foi disponibilizada no Diário Oficial no dia 08/04/2020, é certo dizer que foi publicada somente no dia 04/05/2020, dada a vigência da Resolução do CNJ supracitada" (fl. 103). Acrescenta que "Tendo sido suspenso o prazo processual até 30/04/2020  e considerando o feriado do dia do trabalho em 01/05/2020 (sexta-feira)  , é patente que o dia útil seguinte à disponibilização do acórdão no Diário de Justiça eletrônico se deu somente em 04/05/2020 (segunda-feira)" (fl. 104).
+O presente agravo não merece conhecimento.
+Com razão o juízo de admissibildiade.
+As Resoluções STJ/GP nº 05, de 18 de março de 2020, nº 06, de 20 de março de 2020, e nº 10, de 28 de abril de 2020, editadas em virtude da pandemia causada pela Covid-19, suspenderam os prazos processuais entre 19.3.2020 e 30.4.2020, os quais voltaram a fluir em 4.5.2020.
+No presente caso, o acórdão recorrido foi disponibilizado em 8.4.2020 - quarta-feira (fl. 46) e publicado em 9.4.2020 - quinta-feira (fl. 46).
+Nas razões do especial a parte recorrente traz comprovação de que houve a suspensão dos prazos para recurso entre os dias 20 e 25/5/2020, conforme Provimentos CSM 2.558/2020 e 2.559/2020.
+Esclareça-se que, nos termos da jurisprudência desta Corte, a suspensão da vigência dos prazos processuais, determinada pelas Resoluções STJ/GP n. 5, 6 e 9, não atinge as publicações dos atos processuais, bem como sua eficácia. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRAZO PROCESSUAL. PANDEMIA. COVID-19. SUSPENSÃO. VIGÊNCIA. DISPONIBILIZAÇÃO E PUBLICAÇÃO. EFICÁCIA MANTIDA. STJ. RESOLUÇÕES. RECURSO INTEMPESTIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As Resoluções STJ/GP nºs 5, 6 e 9 determinaram a suspensão da vigência dos prazos processuais entre 19 de março a 30 de abril 2020, não tendo sido suspensas as publicações ou a eficácia das publicações na data em que foram disponibilizadas no Diário da Justiça eletrônico.
+3. Agravo interno não provido. (AgInt no AgInt no AREsp 1664252/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1.3.2021, DJe 9.3.2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. TEMPESTIVIDADE DEVIDAMENTE COMPROVADA POR OCASIÃO DA INTERPOSIÇÃO. AGRAVO. INTEMPESTIVIDADE. CONFIRMAÇÃO. ATO NORMATIVO EDITADO PELA CORTE DE ORIGEM NO INÍCIO DA PANDEMIA. SUSPENSÃO APENAS DOS PRAZOS RECURSAIS. PUBLICAÇÕES DAS DECISÕES JUDICIAIS REALIZADAS NORMALMENTE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A ocorrência de feriado local foi comprovada pelo insurgente no ato da interposição do apelo especial, por meio da juntada do calendário disponibilizado na página eletrônica do Tribunal estadual, documento apto à comprovação da suspensão do expediente forense, conforme recentemente decidido pelo Supremo Tribunal Federal no julgamento do RMS n. 36.114/AM.
+2. O ato normativo editado pelo tribunal de origem na pandemia, embora tenha suspendido os prazos recursais no período de 19/3/2020 a 30/4/2020, não impediu a realização, nesse mesmo período, das publicações e intimações das decisões judiciais, evidenciando a intempestividade do agravo em recurso especial.
+3. Agravo interno parcialmente provido para reconhecer a tempestividade do recurso especial, mantida, contudo, a decretação da intempestividade do agravo.
+(AgInt no AREsp 1730166/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2021, DJe 17.3.2021)
+Dessa forma, o prazo de 15 (quinze) dias úteis, previsto legalmente (arts. 994, VIII, c.c. 1.003, § 5.º, 1.042, caput, e 219, caput, do Código de Processo Civil), teve início em 4.5.2020 (segunda-feira) e encerrou-se em 28.5.2020 (segunda-feira), sendo intempestivo o recurso especial interposto em 29.5.2020 (terça-feira).
+Em face do exposto, não conheço do agravo.
+Intimem-se.
