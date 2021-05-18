@@ -1,0 +1,20 @@
+D E C I S Ã O
+    Reputo correto o acórdão recorrido.
+    Trata-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Servidor Público Municipal de Sorocaba. Ação objetivando o cômputo de gratificações, bem como da média anual das horas extraordinárias no cálculo das férias e do respectivo terço constitucional. Sentença de procedência. Recurso da Municipalidade buscando a inversão do julgado. Improvimento. Recurso Extraordinário interposto pelo Município. Autos restituídos à Câmara pela Egrégia Presidência da Seção de Direito Público, para os fins do artigo 1.030, II, do CPC. Matéria objeto de repercussão geral nos autos do Recurso Extraordinário nº 592.317-RJ (Tema nº 315), em que aprovada a tese de que não cabe ao Poder Judiciário, desprovido de função legislativa, aumentar vencimentos de servidores ao fundamento de isonomia. Acórdão desta Câmara que não contém solução desconforme ao entendimento do STF no aludido precedente e na Súmula Vinculante 37. Restituição dos autos à Colenda Presidência da Seção de Direito Público deste Tribunal de Justiça, por não se tratar de caso de possível retratação nos termos e para os fins do artigo 1.040, inciso II, do CPC.“
+    O recorrente alega violação à normas contidas nos arts. 2º, 37, “caput”, X, e 60, § 4º, III, da Constituição Federal.
+    Esse o sucinto relatório. Decido.
+    Passa, necessariamente, pelo reexame fático-probatório e pela interpretação de legislação local (Lei nº 3.800/91) aferir acerca da inclusão, no cálculo das férias e do respectivo terço constitucional, do valor concernente à média das horas extraordinariamente trabalhadas e demais gratificações. Incidem, na espécie, os óbices dos Enunciados nºs 279 e 280 da Súmula/STF.
+    Em casos fronteiriços, há – entre muitos outros – os seguintes precedentes: ARE 1.116.441/SP, Ministro Dias Toffoli; ARE 1.036.120/SP, Ministro Gilmar Mendes; ARE 1.09.571-AgR/SP, Ministro Gilmar Mendes. Ilustra essa orientação, ainda os seguintes julgados:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. INCIDÊNCIA DA MÉDIA DAS HORAS EXTRAS NA BASE DE CÁLCULO DAS FÉRIAS. LEI 3.800/1991 DO MUNICÍPIO DE SOROCABA. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.”
+    (ARE 1.144.603/SP, Ministro Luiz Fux – com meus grifos)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MÉDIA DE HORAS EXTRAS. BASE DE CÁLCULO DE FÉRIAS. INCLUSÃO. LEI 3.800/1991 DO MUNICÍPIO DE SOROCABA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO LOCAL.  INCIDÊNCIA DA SÚMULA 280 DO STF. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INOCORRÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.”
+    (ARE 1.065.972/SP, Ministro Luiz Fux – com meus grifos)
+    Honorários advocatícios recursais
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo porque, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c o § 1º do art. 21 do RISTF, não conheço do recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de maio de 2021.
+Ministro NUNES MARQUES
+Relator
