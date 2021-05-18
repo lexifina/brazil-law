@@ -1,0 +1,66 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DEMOLIÇÃO DE IMÓVEL IRREGULAR DE PARTICULAR. COMPROMETIMENTO DA ÁREA TOMBADA DO CONVENTO E IGREJA DE SANTO ANTÔNIO - IPOJUCA/PE. DEMOLIÇÃO. DESPESAS ÀS EXPENSAS DO IPHAN. DECISÃO EXTRA PETITA. CONFIGURAÇÃO. EXCLUSÃO DE TAL DETERMINAÇÃO DO COMANDO DECISÓRIO.
+I - Na origem, trata-se de ação civil pública proposta pelo Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN contra o Município de Ipojuca objetivando a abstenção de expedir licença para construção de imóveis, bem como alvará de "habite-se", em relação a imóveis na área de entorno de bens tombados, e contra munícipe particular, pugnando pela demolição de seu imóvel, cuja volumetria prejudicaria a visibilidade do Convento e Igreja de Santo Antônio, em Ipojuca/PE.
+II - Na sentença homologou-se o acordo efetuado pela autarquia e o município, julgando-se parcialmente procedente o pedido no tocante ao particular, determinando que efetuasse a demolição do respectivo imóvel, mas que tal se desse às expensas do IPHAN, que também deveria indenizar o particular.
+III - No Tribunal a quo, a sentença foi mantida.
+IV - A análise da alegação do IPHAN de que a decisão foi extra petita não demanda revolvimento fático-probatório, devendo ser afastada a incidência do óbice contido na Súmula n. 7/STJ.
+V - A referida construção de fato é irregular, tanto que determinada sua demolição, e a ação originária, movida pela própria autarquia, não contém qualquer pedido relativo às consequentes despesas, até porque não decorreria de princípio lógico, no que o acórdão proferiu decisão extra petita.
+VI - Necessidade de se excluir da condenação a responsabilidade do IPHAN e do Município de Ipojucá nas despesas decorrentes tanto da demolição quanto de respectiva indenização, tudo devendo ser arcado pelo próprio particular.
+VII - Agravo interno provido, com o provimento do recurso especial do IPHAN.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno, com o provimento do recurso especial do IPHAN, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO:
+Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN interpõe agravo contra decisão que proferi, não conhecendo de seu recurso especial, em razão do óbice da Súmula n. 7/STJ (fls. 852-857).
+Na origem, o IPHAN ajuizou ação civil pública contra o Município de Ipojuca e o munícipe Delaias Alves da Silva, pretendendo, em relação ao ente municipal, a abstenção de expedir licença para construção de imóveis, bem como alvará de "habite-se", em relação a imóveis na área de entorno de bens tombados, e, do particular, demolir o imóvel de sua propriedade, composto de quatro pavimentos, cuja volumetria prejudicaria a visibilidade do Convento e Igreja de Santo Antônio, em Ipojuca/PE.
+O Tribunal Regional Federal da 5ª Região, em grau recursal, manteve a decisão monocrática que homologou o acordo entre o IPHAN e o Município, e julgou procedente em relação ao réu particular, para que efetuasse restauração do topo do muro e outras providências, e demolisse o imóvel, mas determinando que a autarquia ser responsabilizasse pelos custos da demolição e indenização ao proprietário, nos termos da seguinte ementa (fls. 720-721):
+ADMINISTRATIVO. TOMBAMENTO. SERVIDÃO SOBRE IMÓVEIS VIZINHOS. PROTEÇÃO À VISIBILIDADE DA COISA TOMBADA. DECRETO-LEI Nº 25/37. PROIBIÇÃO ABSOLUTA DE CONSTRUIR. DEMOLIÇÃO. ESVAZIAMENTO DO DIREITO DE PROPRIEDADE. NECESSIDADE DE PRÉVIA INDENIZAÇÃO.
+1. Não é permitido, na vizinhança da coisa tombada, fazer construção que lhe impeça ou reduza a visibilidade, sem prévia autorização do serviço do patrimônio histórico nacional, sob pena de ser mandada destruir a obra (art. 18 do Decreto-Lei nº 25/37).
+2. Hipótese em que a construção realizada pelo demandado obstrui a visibilidade do Muro tombado do Convento e Igreja de Santo Antônio de Ipojuca/PE, sem que o proprietário tenha solicitado autorização do Instituto do Patrimônio Histórico e Artístico Nacional, apesar de autorizada a construção pelo Município.
+3. Parecer do IPHAN/PE informando a impossibilidade de regularização de construção, tendo em vista que, de acordo com os parâmetros construtivos estabelecidos para a região em que se encontra situado o imóvel do demandado, nenhuma construção poderá ser erguida, qualquer que seja a sua altura.
+4. Embora as servidões sobre os prédios vizinhos à coisa tombada não gerem, em regra, direito a indenização, a restrição que implique em supressão absoluta do direito de construir ultrapassa o caráter de mera servidão, caracterizando verdadeira desapropriação, razão pela qual deve ser assegurado ao proprietário, cujo direito restou na prática esvaziado de seu conteúdo, o direito à prévia e justa indenização.
+5. A descaracterização antiga e generalizada da ambiência da coisa tombada, com a identificação de mais de setenta imóveis com construções em desacordo com a proteção à visibilidade da coisa tombada (inclusive diversos órgãos do Poder Público local), sem qualquer fiscalização ou embargo por parte da autarquia federal responsável, aliado à oscilação na interpretação feita pelo próprio IPHAN quanto aos limites ao direito de construir na vizinhança, reforçam a boa -fé do demandado e justificam a responsabilidade da autarquia pelos custos com a demolição, além da condição de prévia indenização.
+6. Apelações e remessa oficial desprovidas.
+Opostos embargos de declaração, foram eles rejeitados (fls. 750-758).
+Em seu recurso especial o IPHAN alegava violação dos seguintes artigos de lei federal:
+a) 492 do CPC de 2015, em razão de lhe ter sido imputado ônus relativo à demolição do imóvel e respectiva indenização, incorrendo em julgamento extra petita;
+b) 113, 187, 190, 204, § 3º, e 422, todos do Código Civil, do art. 18 do Decreto-Lei n. 23/1937 e do art. 3º do Decreto-Lei n. 4.657/1942, pois os referidos custos a ele não podem ser atribuídos, uma vez que o recorrido agiu de má-fé ao edificar seu imóvel fora dos padrões exigidos pela autarquia, tendo adquirido a propriedade muitos anos depois do tombamento do Convento e da Igreja de Santo Antônio, não podendo, assim, alegar desconhecimento desse fato, e,
+c) 1º do Decreto n. 20.910/1932 e do art. 177 do Código Civil de 1916, sob a alegação de prescrição do suposto direito de indenização do recorrido, visto que o prazo quinquenal para se pleitear tal reparação teria se esgotado cinco anos após o tombamento do monumento histórico, ocorrido em 1939.
+No presente agravo, o IPHAN pugna pelo afastamento da Súmula n. 7/STJ, uma vez que o Convento e a Igreja são patrimônio históricos, e que a construção realizada pelo agravado, posteriormente ao tombamento, prejudica a visibilidade das obras, e que, in casu, teria sido proferida decisão extra petita, até mesmo porque a ação foi ajuizada pelo próprio IPHAN, que nada requereu sobre responsabilidade por qualquer ato relativo à demolição.
+Devidamente intimada, a parte agravada não apresentou manifestação (fl. 874).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (RELATOR):
+De fato, a decisão combatida merece reforma.
+Ao analisar o recurso especial do IPHAN, entendendo pela incidência da Súmula n. 7/STJ ao caso, não foi efetivamente considerado o tópico de forma isolada em relação à alegação de que decisão teria sido extra petita, o que passo a fazer agora.
+Importante ressaltar, como considerado pelo agravante, que a ação foi movida pelo próprio Instituto, cujo pedido em relação ao particular foi assim especificado (fl. 7):
+ ..
+IV - Pede, ainda, o IPHAN que seja a presente ação julgada procedente para o fim de se determinar que o Sr. Delaias Alves da Silva providencie, no prazo máximo de 180 dias, a demolição da construção de sua posse e propriedade, situada na rua do Comércio, 225, em Ipojuca, Pernambuco.
+V- Que sejam os réus ainda condenados no ônus da sucumbência, que devem incluir honorários a serem arbitrados por V. Excelência.
+Inicialmente entendo como pertinente ressaltar que a referida construção de fato se mostra irregular, tanto que foi determinada sua demolição, e a alegação de existência de outras em situações análogas, por si só, não validariam aquela.
+Ultrapassada tal constatação, não há qualquer dúvida de que a condenação ao IPHAN de responsabilizar-se financeiramente pela demolição do imóvel e, mais ainda, a indenizar o particular por sua construção evidentemente irregular, claramente extrapolam o pedido inicial.
+E nem se poderia falar em decorrência lógica do pedido, considerando que a autarquia foi autora da ação, na atuação de suas atribuições, e o imóvel foi construído por particular.
+Em situações análogas, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. JULGAMENTO EXTRA PETITA. OCORRÊNCIA.
+1. O Tribunal de origem, soberano na análise da circunstância fática da causa, concluiu pela inexistência de desvio de função do servidor público, conclusão cuja revisão é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Essa Corte tem o entendimento de que não há violação do princípio do tantum devolutum quantum appelatum ou julgamento extra petita quando o provimento jurisdicional decorrer da interpretação lógico-sistemática de todo o conteúdo recursal, e não apenas de tópico específico relativo aos pedidos.
+3. Hipótese em que o Tribunal a quo, em sede de apelação, incorreu em julgamento extra petita ao conceder ao autor prestação jurisdicional diferente da que foi postulada.
+4. Agravo interno desprovido.
+(AgInt no REsp 1694504/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/04/2021, DJe 28/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DEMONSTRAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284 DO STF. REAJUSTE NÃO COMBATIDO NA INICIAL. DECISÃO EXTRA PETITA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. No presente caso, não houve menção ao reajuste decorrente da variação dos custos médico-hospitalares - VCMH na petição inicial, de modo que a apreciação de tal pedido caracterizaria o julgamento extra petita.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1749003/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/03/2021, DJe 18/03/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUERES. CONTESTAÇÃO. AUSÊNCIA DE RECONVENÇÃO OU INTENÇÃO DE RECONVIR. CONDENAÇÃO DA AUTORA À DEVOLUÇÃO DE VALORES. JULGAMENTO EXTRA PETITA. OCORRÊNCIA.
+1. Ação de despejo por falta de pagamento e descumprimento contratual cumulada com cobrança de alugueres, em virtude de contrato de locação de imóvel comercial firmado entre as partes.
+2. Ação ajuizada em 27/11/2015. Recurso especial concluso ao gabinete em 10/10/2019. Julgamento: CPC/2015.
+3. O propósito recursal é definir se, na hipótese, o Tribunal de origem incorreu um julgamento extra petita ao condenar a recorrente à devolução do valor pago pelo locatário a título de cessão de direito de uso do espaço, a despeito da ausência de pedido reconvencional.
+4. A apreciação do pedido dentro dos limites postos pelas partes na petição inicial ou na reconvenção não revela hipótese de julgamento ultra ou extra petita.
+5. Na hipótese dos autos, contudo, não houve reconvenção, tampouco foi manifestada intenção de reconvir por parte do réu, impondo-se reconhecer que, na espécie, houve inegável julgamento extra petita por parte do Tribunal de origem.
+6. Recurso especial conhecido e provido.
+(REsp 1849967/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/02/2021, DJe 11/02/2021)
+Dessa forma, não se tratando de incidência da Súmula n. 7/STJ, reconsidero a decisão de fls. 852-857, cujo comando decisório passa à seguinte redação:
+Ante o exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial para excluir da condenação a responsabilidade monetária do IPHAN e do Município de Ipojucá na demolição do imóvel, o que deverá ser arcado pelo próprio particular, sendo descabida, ademais, qualquer indenização a este (pelo recorrente ou municipalidade), mantendo a decisão condenatória a quo quanto ao mais, no que diz respeito ao particular Delaías Alves da Silva, prejudicada a análise das demais questões invocadas no recurso especial.
+É o voto.
