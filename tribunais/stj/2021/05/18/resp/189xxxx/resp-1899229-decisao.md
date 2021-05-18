@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 191):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. CONCESSÃO. CORREÇÃO MONETÁRIA E JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+1. O Supremo Tribunal Federal reconheceu no RE 870947, com repercussão geral, a inconstitucionalidade do uso da TR, sem modulação de efeitos.
+2. O Superior Tribunal de Justiça, no REsp 1495146, em precedente também vinculante, e tendo presente a inconstitucionalidade da TR como fator de atualização monetária, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+3. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29/06/2009. A partir de então, incidem uma única vez, até o efetivo pagamento do débito, segundo o percentual aplicado à caderneta de poupança.
+4. Honorários advocatícios de sucumbência fixados em 10% sobre as parcelas vencidas até a data da decisão de procedência, nos termos da jurisprudência do STJ.
+Embargos de declaração parcialmente acolhidos, nos termos da ementa a de fls. 214:
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO. PREQUESTIONAMENTO. OMISSÃO/CONTRADIÇÃO.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. Constatada omissão no acórdão, possível seja suprida por meio dos embargos de declaração.
+3. Com a superveniência do CPC/2015, a pretensão ao prequestionamento numérico dos dispositivos legais, sob alegação de omissão, não mais se justifica.
+4. O princípio da fundamentação qualificada das decisões é de mão dupla. Se uma decisão judicial não pode ser considerada fundamentada pela mera invocação a dispositivo legal, também à parte se exige, ao invocá-lo, a demonstração de que sua incidência será capaz de influenciar na conclusão a ser adotada no processo.
+Em suas razões, o recorrente alega violação dos arts. 1.022; 496, §3º, do CPC/2015 (475 do CPC/73), bem como no Tema 17 e súmula 490 do STJ, do CPC/2015, mediante os seguintes fundamentos: (a) omissão do julgado quanto à ausência de reexame necessário de sentença ilíquida; (b) "a demanda possui valor econômico incerto, porquanto a sentença prolatada em 1º grau é ilíquida, o que enseja o conhecimento da remessa necessária.  ..  Por outro lado, o valor da causa como parâmetro para a dispensa da remessa necessária foi expressamente afastado pelo Tema 17 e não está previsto nos artigos acima elencados. Assim, o valor da causa é irrelevante à análise da necessidade de remessa oficial." (fls. 230-231)
+Com contrarrazões (fls. 236-242).
+Juízo positivo de admissibilidade às fls. 255-256.
+É o relatório. Passo a decidir.
+Registra-se que o recurso especial foi interposto após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+A questão jurídica tratada no presente recurso foi submetida à Primeira Seção para ser julgada pela sistemática dos recursos repetitivos, conforme decisão de afetação proferida na sessão eletrônica de 18/11/2020 a 24/11/2020 (Proposta 106), nos Recursos Especiais 1.894.666/RS e 1.882.236/RS e 1.893.709/RS, relator Ministro Og Ferenandes, cuja tese está assim fixada: "Definir se a demanda previdenciária cujo valor da condenação seja aferível por simples cálculos aritméticos deve ser dispensada da remessa necessária, quando for possível estimar que será inferior ao montante previsto no artigo 496, § 3º, inc. I do Código de Processo Civil."
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tais recursos serem apreciados na forma prevista nos arts. 1.039 e 1.040 do CPC/2015.
+Ante o exposto, determina-se a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. DEMANDA DE NATUREZA PREVIDENCIÁRIA. REEXAME NECESSÁRIO. VALOR AFERÍVEL POR SIMPLES CÁLCULOS ARITIMÉTICOS. MATÉRIA AFETADA PARA JULGAMENTO EM RECURSO REPETITIVO. DEVOLUÇÃO DOS AUTOS Á ORIGEM.
