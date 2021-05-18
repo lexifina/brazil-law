@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO. CAUSA DO SINISTRO. EMBRIAGUEZ DO SEGURADO. MORTE ACIDENTAL. AGRAVAMENTO DO RISCO. DESCARACTERIZAÇÃO. DEVER DE INDENIZAR DA SEGURADORA. ESPÉCIE SECURITÁRIA. COBERTURA AMPLA. CLÁUSULA DE EXCLUSÃO. ABUSIVIDADE. SEGURO DE AUTOMÓVEL. TRATAMENTO DIVERSO. SÚMULA Nº 620/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. CONTRATO. DATA DA CELEBRAÇÃO. LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No seguro de vida, ao contrário do que ocorre no seguro de automóvel, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº 8/2007).
+3. As cláusulas restritivas do dever de indenizar no contrato de seguro de vida são mais raras, visto que não podem esvaziar a finalidade do contrato, sendo da essência do seguro de vida um permanente e contínuo agravamento do risco segurado.
+4. A embriaguez do segurado não exime a seguradora de pagar a indenização prevista no contrato de seguro de vida (Súmula nº 620/STJ).
+5.Na hipótese, o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, firmada no sentido de que os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes.
+6. No caso concreto, não cabe condenação em litigância de má-fé, pois a parte interpôs recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer.
+7. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRASILSEG COMPANHIA DE SEGUROS(outro nome: COMPANHIA DE SEGUROS ALIANÇA DO BRASIL) contra a decisão (fls. 613/617 e-STJ) que, em juízo de retratação, negou provimento ao recurso especial.
+Nas presentes razões(fls. 623/639 e-STJ), a agravante afirma que,
+"(..)mesmo diante da estrita delimitação legal de quais procedimentos deveriam ter sido tomados pela seguradora, a r. decisão ora recorrida, data maxima venia, incorreu em erro na valoração da prova e contradição, visto que em análise dos autos, e de todos os documentos ali constantes, restou CABALMENTE DEMONSTRADO O NEXO DE CAUSALIDADE ENTRE O ESTADO DE EMBRIAGUEZ DO SEGURADO E O ACIDENTE QUE CULMINOU NA SUA MORTE, nos moldes reconhecidos no voto vencido" (fl. 627 e-STJ).
+Sustenta que a correção monetária deve incidir a partir da data do ajuizamento da ação.
+Ao final, requer a reconsideração da decisão atacada.
+A parte contrária apresentou impugnação às fls. 642/652 (e-STJ), pleiteando a condenação em multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO. CAUSA DO SINISTRO. EMBRIAGUEZ DO SEGURADO. MORTE ACIDENTAL. AGRAVAMENTO DO RISCO. DESCARACTERIZAÇÃO. DEVER DE INDENIZAR DA SEGURADORA. ESPÉCIE SECURITÁRIA. COBERTURA AMPLA. CLÁUSULA DE EXCLUSÃO. ABUSIVIDADE. SEGURO DE AUTOMÓVEL. TRATAMENTO DIVERSO. SÚMULA Nº 620/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. CONTRATO. DATA DA CELEBRAÇÃO. LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No seguro de vida, ao contrário do que ocorre no seguro de automóvel, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº 8/2007).
+3. As cláusulas restritivas do dever de indenizar no contrato de seguro de vida são mais raras, visto que não podem esvaziar a finalidade do contrato, sendo da essência do seguro de vida um permanente e contínuo agravamento do risco segurado.
+4. A embriaguez do segurado não exime a seguradora de pagar a indenização prevista no contrato de seguro de vida (Súmula nº 620/STJ).
+5.Na hipótese, o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, firmada no sentido de que os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes.
+6. No caso concreto, não cabe condenação em litigância de má-fé, pois a parte interpôs recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer.
+7. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicadona vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Conformeconsignado na decisão atacada,trata-se de ação de cobrança de indenização securitária fundada em seguro de vida, tendo ocorrido morte em virtude de acidente automobilísticoprovocado, em tese, pelo estado de embriaguez do segurado.
+No tocante àembriaguez ao volante e ao seguro de vida, a jurisprudência do Superior Tribunal de Justiça é no sentido de ser vedada, nesta espécie securitária, ao contrário do que ocorre no seguro de automóvel, a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº08/2007).
+A propósito:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA PROPOSTA POR FAMILIARES BENEFICIÁRIOS DA COBERTURA. ACIDENTE DE TRÂNSITO. MORTE DO CONDUTOR SEGURADO. NEGATIVA DE COBERTURA PELA SEGURADORA. ALEGAÇÃO DE AGRAVAMENTO DE RISCO. INGESTÃO DE BEBIDA ALCOÓLICA. EMBRIAGUEZ DO SEGURADO. RELEVÂNCIA RELATIVA. ORIENTAÇÃO CONTIDA NA CARTA CIRCULAR SUSEP/DETEC/GAB Nº 08/2007. PRECEDENTES. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. Sob a vigência do Código Civil de 1916, à época dos fatos, a jurisprudência desta Corte e a do egrégio Supremo Tribunal Federal foi consolidada no sentido de que o seguro de vida cobre até mesmo os casos de suicídio, desde que não tenha havido premeditação (Súmulas 61/STJ e 105/STF).
+2. Já em consonância com o novel Código Civil, a jurisprudência do Superior Tribunal de Justiça consolidou seu entendimento para preconizar que "o legislador estabeleceu critério objetivo para regular a matéria, tornando irrelevante a discussão a respeito da premeditação da morte" e que, assim, a seguradora não está obrigada a indenizar apenas o suicídio ocorrido dentro dos dois primeiros anos do contrato (AgRg nos EDcl nos EREsp 1.076.942/PR, Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA).
+3. Com mais razão, a cobertura do contrato de seguro de vida deve abranger os casos de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas, ressalvado o suicídio ocorrido dentro dos dois primeiros anos do contrato.
+4. Orientação da Superintendência de Seguros Privados na Carta Circular SUSEP/DETEC/GAB nº08/2007: "1) Nos Seguros de Pessoas e Seguro de Danos, é VEDADA A EXCLUSÃO DE COBERTURA na hipótese de "sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas"; 2) Excepcionalmente, nos Seguros de Danos cujo bem segurado seja um VEÍCULO, é ADMITIDA A EXCLUSÃO DE COBERTURA para "danos ocorridos quando verificado que o VEÍCULO SEGURADO foi conduzido por pessoa embriagada ou drogada, desde que a seguradora comprove que o sinistro ocorreu devido ao estado de embriaguez do condutor". Precedentes: REsp 1.665.701/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA; e AgInt no AREsp 1.081.746/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA.
+5. Embargos de divergência providos." (EREsp nº 973.725/SP, Rel. Ministro LÁZARO GUIMARÃES (Desembargador Convocado do TRF 5ª Região), Segunda Seção, DJe 2/5/2018)
+Nesse contexto, no contrato de seguro de vida, ocorrendo o sinistro morte do segurado e inexistente a má-fé dele (a exemplo da sonegação de informações acerca deeventual estado de saúde precário - doenças preexistentes - quando do preenchimento do questionário de risco) ou o suicídio no prazo de carência, a indenização securitária deve ser paga ao beneficiário, visto que a cobertura neste ramo é ampla.
+Dessa maneira, as cláusulas restritivas do dever de indenizar no contrato de seguro de vida são mais raras, poisnão podem esvaziar a finalidade do contrato, sendo da essência do seguro de vida um permanente e contínuo agravamento do risco segurado.
+Confira-se:
+"RECURSO ESPECIAL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO. CAUSA DO SINISTRO. EMBRIAGUEZ DO SEGURADO. MORTE ACIDENTAL. AGRAVAMENTO DO RISCO. DESCARACTERIZAÇÃO. DEVER DE INDENIZAR DA SEGURADORA. ESPÉCIE SECURITÁRIA. COBERTURA AMPLA. CLÁUSULA DE EXCLUSÃO. ABUSIVIDADE. SEGURO DE AUTOMÓVEL. TRATAMENTO DIVERSO.
+1. Cinge-se a controvérsia a definir se é devida indenização securitária decorrente de contrato de seguro de vida quando o acidente que vitimou o segurado decorreu de seu estado de embriaguez.
+2. No contrato de seguro, em geral, conforme a sua modalidade, é feita a enumeração dos riscos excluídos no lugar da enumeração dos riscos garantidos, o que delimita o dever de indenizar da seguradora.
+3. As diferentes espécies de seguros são reguladas pelas cláusulas das respectivas apólices, que, para serem idôneas, não devem contrariar disposições legais nem a finalidade do contrato.
+4. O ente segurador não pode ser obrigado a incluir na cobertura securitária todos os riscos de uma mesma natureza, já que deve possuir liberdade para oferecer diversos produtos oriundos de estudos técnicos, pois quanto maior a periculosidade do risco, maior será o valor do prêmio.
+5. É lícita, no contrato de seguro de automóvel, a cláusula que prevê a exclusão de cobertura securitária para o acidente de trânsito (sinistro) advindo da embriaguez do segurado que, alcoolizado, assumiu a direção do veículo. Configuração do agravamento essencial do risco contratado, a afastar a indenização securitária. Precedente da Terceira Turma.
+6. No contrato de seguro de vida, ocorrendo o sinistro morte do segurado e inexistente a má-fé dele (a exemplo da sonegação de informações sobre eventual estado de saúde precário - doenças preexistentes - quando do preenchimento do questionário de risco) ou o suicídio no prazo de carência, a indenização securitária deve ser paga ao beneficiário, visto que a cobertura neste ramo é ampla.
+7. No seguro de vida, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº08/2007).
+8. As cláusulas restritivas do dever de indenizar no contrato de seguro de vida são mais raras, visto que não podem esvaziar a finalidade do contrato, sendo da essência do seguro de vida um permanente e contínuo agravamento do risco segurado.
+9. Recurso especial não provido." (REsp nº 1.665.701/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 31/5/2017)
+Cumpre asseverar que tal entendimento se encontra solidificado no âmbito deste Tribunal Superior, consoante o disposto na Súmulanº 620/STJ:"A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida."
+Quantoao artigo1º, § 2º, da Lei nº 6.899/1981, o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, firmada no sentido de que os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes.
+Sobre o tema:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. CLÁUSULA RESTRITIVA. LIMITAÇÃO DA INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULAS NºS 5 E 7/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DA CONTRATAÇÃO.
+(..)
+4. A jurisprudência do Superior Tribunal de Justiça consolidou entendimento no sentido de que, para os valores da indenização de seguro de vida, o termo inicial da incidência da correção monetária é a data da contratação.
+5. Agravo interno não provido" (AgInt no REsp 1.810.989/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/3/2020, DJe 13/3/2020).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. INDENIZAÇÃO RECONHECIDA. CORREÇÃO MONETÁRIA. TERMO INICIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária desde a data da
+celebração do contrato até o dia do efetivo pagamento da indenização. Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt nos EDcl no REsp 1.827.214/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em20/2/2020, DJe 18/3/2020).
+Por fim, não cabe condenação em litigância de má-fé, pois a parte interpôsrecurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer, não havendo falar em manifesta inadmissibilidade do presente recurso a autorizar a aplicação de multa, nem se vislumbra a intenção abusiva ou protelatória na interposição de recurso previsto pela lei.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CARACTERIZADA. REJEITADO O PEDIDO DE CONDENAÇÃO DA PARTE ORA EMBARGADA EM MULTA POR EM LITIGÂNCIA DE MÁ-FÉ. MERA UTILIZAÇÃO DE RECURSO PREVISTO NA LEGISLAÇÃO NÃO CARACTERIZA LITIGÂNCIA DE MÁ-FÉ. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Trata-se de embargos de declaração contra v. acórdão que rejeitou anteriores embargos de declaração da parte ex adversa. Na impugnação aos anteriores aclaratórios foi requeria a condenação em multa por litigância de má-fé, tema que não foi abordado no v. acórdão embargado, caracterizando omissão, que deve ser sanada.
+2. Pedido de condenação em multa por litigância de má-fé rejeitado, na medida em que a conduta processual de parte adversa não caracteriza litigância de má-fé, pois apenas utilizou dos recursos processuais previstos na legislação, sem qualquer abuso, não merecendo censura.
+3. A uníssona jurisprudência desta eg. Corte é no sentido de que a mera utilização de instrumento processual não configura litigância de má-fé.
+4. Embargos de declaração acolhidos, sem efeitos infringentes"
+(EDcl nos EDcl no AgInt no REsp 1.577.982/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 18/9/2018, DJe 27/9/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
