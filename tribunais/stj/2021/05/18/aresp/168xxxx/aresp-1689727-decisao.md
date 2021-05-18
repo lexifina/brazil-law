@@ -1,0 +1,72 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ANTÔNIO CARDOSO DA SILVA e OUTROS, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão preferido pelo TRIBUNAL DE JUSTIÇA D O ESTADO DE SERGIPE, assim ementado (e-STJ fl. 116):
+AGRAVO DE INSTRUMENTO -EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - AUSÊNCIA DE PAGAMENTO DE DÉBITO - PENHORA DE 30 % DO SALÁRIO DOS AGRAVANTES -PRECEDENTES DO STJ -MITIGAÇÃO DA REGRA PROCESSUAL DO ARTIGO 833, IV DO CPC, DIANTE DE CADA SITUAÇÃO - EXECUÇÃO QUE TRAMITA DESDE 1997 -IMPOSSIBILIDADE DE PENHORA DE QUANTIA ATE 40 SALÁRIOS MÍNIMOS, NOS TERMOS DO ARTIGO 833, IX DOCPC - PRECEDENTES DESTE TRIBUNAL- REFORMA PARCIAL DA DECISÃOAGRAVADA - RECURSO CONHECIDO E PROVIDO PARCIALMENTE - UNÂNIME.
+Nas razões de seu recurso especial, os recorrentes alegam violação aos arts. 11, 489 e 1.022, I e II, e 833, IV, X e §2º do Código de Processo Civil.
+Apontam a existência de omissão e contrdição e ausência de fundamentação no decisum guerreado(e-STJ fls. 137-138).
+Sustenta, em síntese, a impenhorabilidade dos valores depositados na "conta fácil", da parte agravante, ao argumento de que essa possui natureza de poupança, que não podem ser objeto de penhora.
+Suscita divergência jurisprudencial relativamente à natureza da conta corrente.
+Sem Contrarrazões (e-STJ, fl. 219), sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, fls.267-282).
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não prospera.
+Inicialmente, não prospera a alegada ofensa aos arts. 11, 489, §1º e 1.022, I e II, do Código de Processo Civil de 2.015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia, de modo que, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. LUCROS CESSANTES. INCÊNDIO EM PROPRIEDADE RURAL. DEVER DE INDENIZAR. ÔNUS PROBATÓRIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. As conclusões do acórdão recorrido sobre a não caracterização do ato ilícito apto a gerar o dever de indenizar, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1602153/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. OMISSÃO OU MESMO CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CARÊNCIA DE EFETIVA COBRANÇA INDEVIDA. FALTA DE ELEMENTOS QUE JUSTIFIQUEM A DEVOLUÇÃO EM DOBRO. SÚMULA 7/STJ. DANOS MORAIS. INEXISTÊNCIA. MERO DESCUMPRIMENTO CONTRATUAL. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.  ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.697.091/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, ERCEIRA TURMA,, DJe 18/12/2020)
+Registre-se, ademais, não há que se falar em ofensa ao art. 489, §1º, porquanto "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgInt no REsp 1584831/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/06/2016, DJe 21/06/2016).
+De outra ponta, impende esclarecer que o entendimento desta Corte Superior evoluiu no sentido do reconhecimento da excepcional possibilidade de proceder-se à penhora de parte dos vencimentos depositados em conta, a fim de garantir a efetividade da tutela jurisdicional, desde que observado percentual capaz de assegurar a dignidade do devedor e de sua família.
+A propósito, por todos:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO
+IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar
+guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018)
+No caso, o Tribunal de origem, após exame dos elementos de informação acostados aos autos, assim decidiu a controvérsia concernente a penhorabilidade dos valores de aposentadoria da parte agravante:
+Nesse diapasão, passei a entender que a norma supracitada deve ser pautada pela teoria do mínimo existencial, resguardando-se o salário do indivíduo com o fito de preservação da dignidade da pessoa humana, mas sem deixar de lado o direito do credor àsatisfação do seu crédito.
+No presente caso, entendo que se deve permitir uma mitigação do contido no do artigo supracitado, tendo em vista que a Exequente busca, desde 1997, a satisfação total do crédito perseguido sem obter qualquer êxito nesse sentido.
+Ressalte-se que a dívida atualizada até 08.08.2018 alcançou o montante de R$ 452.496,27 (quatrocentos e cinquenta e dois mil, quatrocentos e noventae seis reais e vinte e sete centavos), conforme planilha acostada em 13.08.2018.
+(..)
+Assim, cabível a constrição de percentual dos proventos/vencimentos, considerando o entendimento jurisprudencial acerca da mitigação daimpenhorabilidade, bem como diante do princípio da efetividade da Execução, não se podendo olvidar que o feito executivo vem searrastando há vários anos sem êxito nas diligências para constrição do patrimônio dos Executados.
+(..)
+O inciso X do art. 833 do CPC, de forma clara, garante a impenhorabilidade da quantia depositada em conta poupança, cujo valor nãoultrapasse 40 (quarenta) salários mínimos, o que independe, da comprovação de não vinculação à conta corrente. Todavia, o que exceder, écabível a constrição. Neste particular, então, deve a decisão ser reformada, visto que o Magistrado entendeu cabível "o bloqueio de 30% (trinta por cento) dovalor disponível".
+Constata-se, assim, que o aresto impugnado, ao examinar a situação de fato dos recorrentes, observou a orientação do STJ, no sentido de que a qual os valores superiores a 40 (quarenta) salários mínimos, depositados em conta poupança ou em fundo de investimento não recebem a proteção da impenhorabilidade.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+(..)
+2. O propósito recursal é definir se, na hipótese, é possível a penhora de 30% (trinta por cento) do salário do recorrente para o pagamento de dívida de natureza não alimentar.
+3. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+4. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de salário do recorrente não comprometeria a sua subsistência digna, inviável mostra-se a alteração do julgado, uma vez que, para tal mister, seria necessário o revolvimento do conjunto fático-probatório dos autos, inviável a esta Corte em virtude do óbice da Súmula 7/STJ.
+5. Recurso especial conhecido e não provido."
+(REsp 1.658.069/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/11/2017, DJe 20/11/2017 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PENHORA DE VALORES ORIUNDOS DE APOSENTADORIA DEPOSITADOS EM CONTA. POSSIBILIDADE.
+1. A quantia aplicada em caderneta de poupança, mesmo que decorrente de sobra dos proventos de aposentadoria, somente possui natureza alimentar, para efeito de impenhorabilidade, quando não exceder ao limite de 40 (quarenta) salários mínimos. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1537626/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 23/02/2017; grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. Esta Corte possui entendimento no sentido de que "a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp 1407062/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/02/2019, DJe 08/04/2019).
+1.1. É impenhorável valor depositado em caderneta de poupança até o limite de 40 salários mínimos, devendo-se ter, quanto a esse comando, interpretação restritiva, admitindo-se, apenas, a mitigação dessa ordem, no caso de pagamento de prestação alimentícia ou de comprovada má-fé ou fraude. Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.829.036/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020 - grifei)
+Destarte, inviável a pretensão da recorrente.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC/15).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PENHORA. PROVENTOS DE APOSENTADORIA. VALORES ACIMA DE 40 SALÁRIOS MÍNIMOS. POSSIBILIDADE. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE DA VERBA ALIMENTAR. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
