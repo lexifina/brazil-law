@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto porE.R.P. contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, inciso III, alíneas "a"e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"PLANO DE SAÚDE. Paciente portador de transtorno do espectro autista Indicação médica para tratamento multidisciplinar pelo método ABA. Recusa de custeio pela ré. Limitação contratual que se afigura abusiva. Alegação da ré de que a limitação observa o rol da ANS Incidência da Súmula 102 deste E. Tribunal de Justiça, devendo prevalecer a indicação médica. Prescrição da pretensão ao reembolso das despesas médicas. Inocorrência. Aplicável ao caso o prazo prescricional decenal, previsto no art.205 do Código Civil. Dano moral não configurado . Mero inadimplemento contratual. Indenização indevida - Recursos desprovidos." (fl. 875e-STJ).
+A recorrente sustenta, além de divergência jurisprudencial, negativa de vigência aos artigos1.022, II, do Código de Processo Civil de 2015,186, 187 e 927 do Código Civil. Sustenta, em síntese, a negativa de prestação jurisdicional epleiteia indenização por danos morais pela negativa do tratamento de saúde pleiteado.
+Contrarrazões às fls. 1.036/1.048e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente. De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da recorrente.
+No mais, não se olvida que a jurisprudência desta Corte, muitas vezes, admite tratar-sede dano moral in re ipsaa recusa injustificada de cobertura a tratamento por plano de saúde.
+Por outro lado, há firme entendimento jurisprudencial afastando a hipótese dedano presumido quando a recusa decorrede negativa embasada em interpretação razoável do contrato.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. RECUSA EM CUSTEAR PROCEDIMENTO INDICADO PELO MÉDICO ASSISTENTE. CONDUTA ABUSIVA.
+ACÓRDÃO ESTADUAL DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. RECUSA BASEADA EM INTERPRETAÇÃO CONTRATUAL.EXCLUSÃO DA INDENIZAÇÃO POR DANOS MORAIS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. "Havendo dúvida razoável na interpretação do contrato, a recusa da operadora de plano de saúde na cobertura de determinado procedimento, sem ofensa aos deveres anexos do pacto - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, de modo que não fica configurada a conduta ilícita capaz de ensejar a indenização por danos morais"(AgInt no AREsp 1.412.367/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/03/2020, DJe de 13/03/2020).
+3. No caso, o apelo nobre merece ser parcialmente provido para excluir a condenação da ora agravante em indenização a título de danos morais, na medida em que o v. acórdão estadual fundamenta a referida indenização na mera recusa de custeio da técnica requerida pelo médico.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial"(AgInt no AREsp 1.555.263/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/6/2020, DJe 25/6/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ENTIDADE AUTOGESTÃO. CDC. NÃO APLICAÇÃO. CONTRATO. LIMITAÇÃO DE COBERTURA DE DOENÇAS. POSSIBILIDADE. PROCEDIMENTOS PARA O TRATAMENTO.ILEGITIMIDADE. DANO MORAL. INEXISTENTE.
+1. As disposições do Código de Defesa do Consumidor não incidem nos contratos celebrados pelas operadoras de plano de saúde na modalidade de autogestão ou fechadas. Precedentes da Segunda Seção.
+2. O contrato de plano de saúde pode limitar as doenças a serem cobertas, não lhe sendo permitido, todavia, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade prevista na cobertura.
+3. Consolidou a jurisprudência do STJ o entendimento de que é abusiva a negativa de cobertura para o tratamento prescrito pelo médico para o restabelecimento do usuário de plano de saúde por ausência de previsão no rol de procedimentos da ANS, em razão de ser ele meramente exemplificativo.
+4. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral, notadamente quando fundada em razoável interpretação contratual. Precedentes.
+5. Agravo interno e recurso especial parcialmente providos"(AgInt no REsp 1.682.692/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/11/2019, DJe 6/12/2019).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO MÉDICO. DANO MORAL. CLÁUSULA CONTRATUAL.DÚVIDA RAZOÁVEL. DANOS MORAIS. NÃO CONFIGURAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do julgado quanto à ocorrência de dano moral no caso de recusa de tratamento médico demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Havendo dúvida razoável na interpretação do contrato, a recusa da operadora de plano de saúde na cobertura de determinado procedimento, sem ofensa aos deveres anexos do pacto - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, de modo que não fica configurada a conduta ilícita capaz de ensejar a indenização por danos morais. Precedentes.
+4. Agravo interno não provido"(AgInt no REsp 1.744.867/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/4/2019, DJe 24/4/2019).
+No caso, verificando-se que o acórdão ora recorrido somente concluiu pelo afastamento da limitação do número de sessões e pelo não cabimento do reembolso integralapósminuciosa análise contratual, não se pode considerar que, no caso, a recusa foi totalmente injustificada, muito menos em danoin re ipsa.
+Ademais, registre-se a título de reforço de argumentação, o Tribunal de origem entendeu que, no caso, a reparação por danos morais dependeria da demonstração de agravamento do estado emocional e físico da paciente com a negativa da cobertura, conforme se observa às fls. 881/882e-STJ.
+Rever tais considerações, demandaria, inevitavelmente, o revolvimento do contexto fático-probatório dos autos, procedimento vedado por força da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para negarprovimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da sucumbência(e-STJ fl. 883), os quais devem ser majorados para o patamar de 14% (catorzepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
