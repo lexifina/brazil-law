@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Caixa Econômica Federal contra decisão que não conheceu do recurso em mandado de segurança por ela interposto, assim ementada (fls. 706/707):
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DA SUMULA 283/STF. RECURSO NÃO CONHECIDO. PREJUDICADO O PEDIDO DE LIMINAR.
+Em suas razões, a embargante afirma que a decisão é contraditória e obscura.Para tanto, sustenta que "houve impugnação dos dois itens fundamentadores da decisão de extinção do mandado de segurança, quais sejam, a suposta ilegitimidade passiva do Juízo da 6ª Vara de Execução Fiscal e cabimento/adequação da interposição do mandado de segurança" (fl. 2289).
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como, para corrigir erro material.
+Deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do art. 1.022 do CPC/2015, com base no inconformismo diante da decisão proferida.
+Na espécie, a decisão embargada não conheceu do recurso em mandado de segurança em razão da incidência da Súmula 283/STF, uma vez que não impugnados os fundamentos do acórdão recorrido, nos seguintes termos:
+Como se nota, o acórdão recorrido julgou extinto o processo, sem resolução de mérito, à míngua de interesse processual, ficando prejudicado o agravo interno da impetrante, ao fundamento de que não se afigura cabível a utilização de mandado de segurança para impugnar ato de natureza judicial passível de recurso próprio, nos termos da Súmula 267/STF, aos seguintes fundamentos: (i) a ordem combatida apenas deu cumprimento ao decidido nos autos do AGRAVO DE INSTRUMENTO Nº 0107458- 93.2014.4.02.0000, julgado pela QUARTA TURMA ESPECIALIZADA, se porventura alguma violação a direito líquido e certo da impetrante ocorreu, sua origem deve ser atribuída a Egrégia Quarta Turma Especializada, e não ao Juízo da 6ª Vara Federal de Execução Fiscal do Rio de Janeiro, uma vez que, na sistemática do novo Código de Processo Civil, o Agravo de Instrumento tramitou exclusivamente no âmbito desta Egrégia Corte Regional, como bem asseverou o MM. Juízo de primeiro grau; (ii) o decisumora guerreado, que determinou a correção dos valores depositados em conta judicial junto à instituição financeira impetrante, era passível de novo Agravo de Instrumento, nos termos do parágrafo único do art. 1.015 do CPC de 2015.
+Ocorre que referida fundamentação, apta, por si só, a manter o julgamento incólume, não foi impugnada. No caso, a recorrente limita-se a reiterar a razões de mérito da inicial do mandamus, insurgindo-se de forma genérica contra a aplicação da Súmula 267/STF, não refutando, especificamente, referida fundamentação do acórdão recorrido.
+Assim, incide, na espécie, o teor da Súmula 283/STF, por analogia, haja vista que os fundamentos do acórdão se mantiveram incólumes.
+Pois bem.
+A contradição que autoriza embargos de declaração é aquela interna ao julgado, entre os fundamentos da decisão e a conclusão a que se chegou. A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça, como se verifica, dentre inúmeros outros, do julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art.
+535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+No caso, não se observa a existência de contradição, uma vez que o recurso da embargante não foi conhecido nos termos acima explicitados.
+A obscuridade, por sua vez, ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida. Como se nota, a decisão agravada é por demais clara e coerente, para justificar o não conhecimento do recurso por força do óbice da Súmula 283/STF.
+Como se nota, não trouxe a embargante argumentos que demonstrassem os óbices apontados nojulgado embargado, mas apenas mero inconformismo com o que fora decidido.
+Logo, diante dos termos da decisão embargada, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, objetivando o embargante, por via reflexa, o rejulgamento da causa, o que não é possível em sede de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS
