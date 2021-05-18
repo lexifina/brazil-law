@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. LEGITIMIDADE CONCORRENTE.
+    1- Trata-se de agravo de instrumento interposto pela UNIÃO FEDERAL/FAZENDA NACIONAL, contra decisão que determinou indeferiu [sic] o pedido de execução nos termos propostos, uma vez que a parte exequente seria ilegítima para a cobrança dos honorários sucumbenciais, após a edição do código vigente.
+    2 - Sustenta a Fazenda Nacional inexistir no art. 85, § 19, do CPC/15 qualquer vedação no sentido da União Federal proceder ao pedido de execução dos honorários de sucumbência devidos aos advogados públicos nos autos judiciais.
+    3 – O Órgão Especial deste Tribunal Regional Federal da 2ª Região, ao julgar o Incidente de Arguição de Inconstitucionalidade (processo n° 00111142-13.2017.4.02.000), em 07/02/2019, por maioria, conheceu e declarou a inconstitucionalidade do art. 85, § 19, da Lei n° 13.105/2015, bem como dos artigos 27 e 29 a 36 da Lei n° 13.327/2016.
+    4 - Agravo de instrumento interposto pela UNIÃO FEDERAL/FAZENDA NACIONAL desprovido” (pág. 31 do documento eletrônico 3).
+    Neste RE, fundado no art. 102, III, a e b, da Constituição Federal, sustenta-se, em suma, a constitucionalidade dos arts. 27 e 29 a 36 da Lei 13.327/2016, que asseguram o recebimento de honorários advocatícios de sucumbência aos advogados públicos federais.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento firmado por esta Corte no julgamento da ADI 6.053/DF, Redator para o acórdão o Ministro Alexandre de Moraes, no qual se declarou a constitucionalidade da percepção de honorários de sucumbência pelos advogados públicos.
+    No referido julgamento, este Tribunal – conferindo interpretação conforme à Constituição ao art. 23 da Lei 8.906/1994, ao art. 85, § 19, da Lei 13.105/2015 e aos arts. 27 e 29 a 36 da Lei 13.327/2016 – estabeleceu que a somatória dos subsídios e honorários de sucumbência percebidos mensalmente pelos advogados públicos não poderá exceder o teto dos Ministros do Supremo Tribunal Federal, conforme dispõe o art. 37, XI, da Lei Maior. Por oportuno, transcrevo a ementa do mencionado julgado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. INTERDEPENDÊNCIA E COMPLEMENTARIDADE DAS NORMAS CONSTITUCIONAIS PREVISTAS NOS ARTIGOS 37, CAPUT, XI, E 39, §§ 4° E 8°, E DAS PREVISÕES ESTABELECIDAS NO TÍTULO IV, CAPÍTULO IV, SEÇÕES II E IV, DO TEXTO CONSTITUCIONAL. POSSIBILIDADE DO RECEBIMENTO DE VERBA DE HONORÁRIOS DE SUCUMBÊNCIA POR ADVOGADOS PÚBLICOS CUMULADA COM SUBSÍDIO. NECESSIDADE DE ABSOLUTO RESPEITO AO TETO CONSTITUCIONAL DO FUNCIONALISMO PÚBLICO.
+    1. A natureza constitucional dos serviços prestados pelos advogados públicos possibilita o recebimento da verba de honorários sucumbenciais, nos termos da lei. A CORTE, recentemente, assentou que ‘o artigo 39, § 4°, da Constituição Federal, não constitui vedação absoluta de pagamento de outras verbas além do subsídio’ (ADI 4.941, Rel. Min. TEORI ZAVASCKI, Relator p/ acórdão, Min. LUIZ FUX, DJe de 7/2/2020).
+    2. Nada obstante compatível com o regime de subsídio, sobretudo quando estruturado como um modelo de remuneração por performance, com vistas à eficiência do serviço público, a possibilidade de advogados públicos perceberem verbas honorárias sucumbenciais não afasta a incidência do teto remuneratório estabelecido pelo art. 37, XI, da Constituição Federal.
+    3. AÇÃO PARCIALMENTE PROCEDENTE”.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento para que o Tribunal de origem profira novo julgamento do agravo de instrumento interposto pela recorrente, com observância do que estabelecido na ADI 6.053/DF.
+    Publique-se.
+    Brasília, 18 de maio de 2021.
+Ministro Ricardo Lewandowski
+Relator
