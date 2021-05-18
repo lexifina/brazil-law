@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO PAN S.A. contra a decisão do tribunal de origem que inadmitiu o recurso especial em razão do reconhecimento da deserção (e-STJ fls. 392/395).
+Alega, em síntese, que o preparo foi pago no ato da interposição do recurso especial, sendo certo que a forma de pagamento escolhida (cheque) se trata de ordem de pagamento àvista, de modo que sua compensação poderia ter sido verificada pelo próprio juízo.
+Aduz a necessidade de aplicação do princípio da instrumentalidade das formas, tendo em vista que a finalidade foi atingida.
+Sustenta que o caso em questão não se enquadra na hipótese de recolhimento em dobro prevista no artigo 1.007, § 4º, do Código de Processo Civil de 2015.
+Ao final, requer o provimento do recurso.
+A parte contrária ofereceu contrarrazões (e-STJ fls. 413/433).
+É o relatório.
+DECIDO.
+A decisão impugnada pelo agravo em recurso especial foi publicada na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A decisão denegatória deve ser mantida por seus próprios fundamentos.
+O Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+No caso concreto, verificada a irregularidade no recolhimento do preparo, o agravante foi intimado para sanar o vício, contudo, no prazo estipulado, deixou de sanaro vício, pois,além de não demonstrar a compensação do cheque, não efetuou novo recolhimento, nos termos do artigo 1.007, § 4º, do Código de Processo Civil de 2015, o que ensejou o reconhecimento da deserção.
+De fato, não há reparo a fazer a tal entendimento, porquanto está em sintonia com a orientação desta Corte.
+A propósito:
+"PEDIDO DE RECONSIDERAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONHECIMENTO DO PEDIDO COMO AGRAVO INTERNO. ART. 1.024, § 3.º, DO CPC/2015. INTIMAÇÃO DAS PARTES PARA COMPLEMENTAR SUAS RAZÕES. INÉRCIA. ANALISE DAS RAZÕES DO PEDIDO. PREPARO.COMPROVANTE DE PAGAMENTO ILEGÍVEL. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DAS CUSTAS. AUSÊNCIA DE COMPROVAÇÃO DA REGULARIZAÇÃO DO PREPARO NO PRAZO CONCEDIDO. APRESENTAÇÃO DE COMPROVANTE DO ANTERIOR RECOLHIMENTO SIMPLES DAS CUSTAS. RECONHECIMENTO DA DESERÇÃO.CONFORMIDADE COM O ART. 1.007, § 4º, DO CPC/2015. SÚMULA 187 DO STJ.DESERÇÃO. PRECEDENTES. ART. 511 DO CPC/1973. INTEMPESTIVIDADE.RECURSO ESPECIAL. RECURSO INTERPOSTO FORA DO PRAZO DE 15 DIAS ÚTEIS.DESCUMPRIMENTO. ADEQUAÇÃO DA DECISÃO AGRAVADA.PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO, AO QUAL SE NEGA PROVIMENTO"(AgInt no AREsp 1.636.467/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/04/2021, DJe 22/04/2021).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO NÃO CONHECIDO, POR DESERÇÃO. NECESSIDADE DE COMPROVAÇÃO DO PREPARO, NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO, NO PRAZO. COMPROVANTE DE AGENDAMENTO NÃO ADMITIDO.RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, DO NCPC. NÃO COMPROVADO.SÚMULA Nº 187 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante o entendimento desta Corte, a juntada de comprovante de agendamento não constitui meio apto à comprovação de que o preparo foi efetivamente recolhido, levando, portanto, à deserção do recurso. Súmula nº 187 do STJ.
+3. Não comprovado o recolhimento do preparo no ato de interposição do recurso e intimado para efetuar o recolhimento em dobro, o recorrente permanece inerte, o recurso especial não deve ser admitido em virtude da sua deserção.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido"(AgInt no AREsp 1.29.1800/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/03/2019, DJe 20/03/2019).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. RECURSO INTERPOSTO COM FULCRO NO CPC DE 2015. INCIDÊNCIA DO ENUNCIADO ADMINISTRATIVO 3 DO STJ. 2. NÃO APRESENTADO COMPROVANTE DE PAGAMENTO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. DETERMINAÇÃO NÃO ATENDIDA TEMPESTIVAMENTE. DOCUMENTO QUE NEM SEQUER POSSUI NUMERAÇÃO QUE POSSIBILITE SUA VINCULAÇÃO ÀS GUIAS APRESENTADAS. DESERÇÃO CONFIGURADA. 3. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com os Enunciados Administrativos do STJ n. 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016; ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. No caso, incide o regramento estabelecido no CPC/2015.
+2. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015), não havendo se falar, ainda, em aproveitamento dos atos realizados, porquanto não atendidos sequer os pressupostos processuais do apelo extremo.
+3. Agravo interno desprovido"(AgInt no REsp 1.694.039/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 18/5/2018).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Em atendimento ao artigo 85, § 11, do CPC/2015, majoro os honorários advocatícios fixados na origem em 12% (doze por cento) sobre o valor da causapara 14% (quatorze por cento) a favor do advogado da parte recorrida, ressalvado o benefício da justiça gratuita, se for o caso.
+Valor da causa: R$ 329.000,00(trezentos e vinte e nove mil reais).
+Publique-se.
+Intimem-se.
